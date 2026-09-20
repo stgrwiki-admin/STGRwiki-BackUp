@@ -1,28 +1,30 @@
 name: STGR Wiki Backup
 
 on:
-  schedule:
-    - cron: "15 * * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
+  schedule:
+    - cron: "0 15 * * *"
 
 jobs:
   backup:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.14"
 
       - name: Install dependencies
-        run: pip install requests pynacl
+        run: |
+          pip install requests pynacl
 
       - name: Run backup
         env:
@@ -30,14 +32,15 @@ jobs:
           ATWIKI_CLIENT_SECRET: ${{ secrets.ATWIKI_CLIENT_SECRET }}
           ATWIKI_REFRESH_TOKEN: ${{ secrets.ATWIKI_REFRESH_TOKEN }}
           STGR_GITHUB_PAT: ${{ secrets.STGR_GITHUB_PAT }}
-        run: python backup.py
+        run: |
+          python backup.py
 
-      - name: Commit changes
+      - name: Commit and push backup
         run: |
           git config user.name "STGR Wiki Backup"
           git config user.email "actions@github.com"
 
-          git add .
+          git add backup/
 
           if git diff --cached --quiet; then
             echo "No changes."
