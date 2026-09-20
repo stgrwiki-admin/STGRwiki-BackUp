@@ -24,6 +24,9 @@ def refresh_access_token():
         timeout=30,
     )
 
+    if response.status_code != 200:
+    print("OAuth HTTP Status:", response.status_code)
+    print("OAuth response:", response.text)
     response.raise_for_status()
 
     print("2. OAuth OK")
