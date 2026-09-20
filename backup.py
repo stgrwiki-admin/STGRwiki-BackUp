@@ -119,14 +119,34 @@ def get_page_source(access_token, page_id):
         "Authorization": f"Bearer {access_token}"
     }
 
-    response = requests.get(
-        f"{API_BASE}/pages/{page_id}",
-        headers=headers,
-        timeout=30,
-    )
-    response.raise_for_status()
+    # 429対策：最大5回まで再試行
+    for attempt in range(5):
+        response = requests.get(
+            f"{API_BASE}/pages/{page_id}",
+            headers=headers,
+            timeout=30,
+        )
 
-    return response.json()["source"]
+        if response.status_code == 429:
+            wait_time = 10 * (attempt + 1)
+
+            print(
+                f"Rate limit reached. "
+                f"Waiting {wait_time} seconds..."
+            )
+
+            import time
+            time.sleep(wait_time)
+
+            continue
+
+        response.raise_for_status()
+
+        return response.json()["source"]
+
+    raise Exception(
+        f"API rate limit: page_id={page_id}"
+    )
 
 
 def safe_filename(name):
