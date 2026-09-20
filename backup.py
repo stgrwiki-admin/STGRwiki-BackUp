@@ -24,14 +24,19 @@ def refresh_access_token():
         timeout=30,
     )
 
-    if response.status_code != 200:
     print("OAuth HTTP Status:", response.status_code)
-    print("OAuth response:", response.text)
+
+    if response.status_code != 200:
+        print("OAuth response:")
+        print(response.text)
+
     response.raise_for_status()
+
+    data = response.json()
 
     print("2. OAuth OK")
 
-    return response.json()["access_token"]
+    return data["access_token"]
 
 
 def test_page_list(access_token):
