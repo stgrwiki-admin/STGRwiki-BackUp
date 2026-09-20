@@ -1,6 +1,7 @@
 import os
 import re
 import base64
+import time
 import requests
 from pathlib import Path
 from nacl.public import PublicKey, SealedBox
@@ -176,18 +177,14 @@ def main():
     print(f"Pages: {len(pages)}")
 
     # 各ページを保存
-    import time
+    for page in pages:
+        page_name = page["pagename"]
+        page_id = page["pageid"]
 
-for page in pages:
-    page_name = page["pagename"]
-    page_id = page["pageid"]
-
-    source = get_page_source(
-        access_token,
-        page_id
-    )
-
-    time.sleep(0.2)
+        source = get_page_source(
+            access_token,
+            page_id
+        )
 
         directory = Path(
             safe_filename(page_name)
@@ -206,6 +203,9 @@ for page in pages:
         )
 
         print(f"Saved: {page_name}")
+
+        # APIへの連続アクセスを避ける
+        time.sleep(0.2)
 
     print("Backup complete")
 
