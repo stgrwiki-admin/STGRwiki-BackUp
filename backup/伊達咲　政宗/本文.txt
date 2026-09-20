@@ -1,0 +1,141 @@
+&image(wiki用3_20230909195522.png,x=300)
+//→整形後バストアップの写真を追加しました！必要であれば使っていただければと思います。
+//ありがとうございます！
+//いつも更新ありがとうございます。トップ画ですがその時その時のトレンド？みたいなものに更新していきたいと考えてます！今後衣装スペースも更新予定です！
+
+#table_filter(){Season1=hide,Season2=show}
+#table_color(#fff0f5)
+|~世界線|~Season1|~Season2|h
+|~名前|>|&ruby(だてざき){伊達咲}　&ruby(まさむね){政宗}|
+|~出身地|>|日本/大阪|
+|~誕生日|>|1998年01月29日(&countup(1998/01/29,y)歳)|
+|~転入日|2023年05月25日(&countup(2023/05/25,yd)経過)|2025年12月19日(&countup(2025/12/19,yd)経過)|
+|~職業|&s(){ゴッドニート}&br()&s(){カフェ「[[Père Noël]]」店員} &br()コラボカフェ｢[[カニメイト]]｣店員&br()&s(){レンタル彼氏・友達}&br()窓拭き担当||
+|~所属|&s(){個人犯罪者集団：Liber}&br()&s(){ギャング【[[GBC>GoodbyeCircus]]】}&br()&s(){ギャング【[[餡ブレラ>anbrella(餡ブレラ)]]】}&br()ギャング【[[NO LIMIT]]】&small(){構成員2025/7/6~}&br() レーシングチーム【Un Miracle Awakers】 &br()自治会【[[西サントス]]】||
+|~Twix|@datezaki_||
+|~レーサー名|[UMA] MASAMUNE|DATEZAKI|
+|~着信音|【[[DATTE咲>>https://youtu.be/okR87MIsE5s]]】作詞作曲:[[ズズ>>キングスターダイヤモンド　ズズ]]||
+|BGCOLOR(#fffacd):~&color(#black){プレイヤー}|>|DattE政宗|
+|BGCOLOR(#fffacd):~&color(#black){告知等}|>|&font(#1da1f2){&icon_fa(fa fa-twitter)}[[&font(#1da1f2){Twitter}>>https://twitter.com/knsijin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor]]|
+|BGCOLOR(#fffacd):~&color(#black){配信場所}|>|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/datte_masamune]]|
+|BGCOLOR(#fffacd):~&color(#black){アーカイブ、切り抜き}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UCZsefK_VXhRa8bJkwNIEaIg]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+//*&size(25){&color(#F9C1CF){基本情報 &icon_fa(fa fa-user-circle)}}ピンク
+//*&size(25){&color(#FFC0CB){基本情報 &icon_fa(fa fa-user-circle)}}チャイニーズピンク
+//*&size(25){&color(#F5C9C6){基本情報 &icon_fa(fa fa-user-circle)}}鴇色
+//*&size(25){&color(#FEEEED){基本情報 &icon_fa(fa fa-user-circle)}}桜色
+//*&size(25){&color(#FAC7C1){基本情報 &icon_fa(fa fa-user-circle)}}朱華色
+//上に何色か候補を置いておいたので気に入った色があれば変えてください！
+
+*&size(25){&color(#FFCAD4){&color(#fffacd) {&icon_fa(fa fa-user-circle)} 基本情報}}
+#include(伊達咲　政宗/基本情報)
+//
+#right(){&link_anchor(目次1){▵目次}}
+//
+*&size(25){&color(#FFCAD4){&color(#fffacd) {&icon_fa(fa fa-users)} 交友関係}}
+-作成中
+
+//
+#right(){&link_anchor(目次1){▵目次}}
+//
+*&size(25){&color(#ffcada){&color(#fffacd){&icon_fa(fa-solid fa-shirt)} 衣装倉庫}}
+
+&bold(){普段着}
+#region(開く)
+閉じる
+|&image(伊達咲政宗_01.jpeg,Y=400)|&image(wiki用3_20230808190034.png,Y=400)|&image(伊達咲政宗_全身01.png,Y=400)|&image(wiki用3_20231207211105.png,Y=400)|
+#endregion
+
+&bold(){正装}
+#region(開く)
+閉じる
+|&image(wiki用3_20230909195522.png,Y=400)|&image(Screenshot_20240514-231751~2.png,Y=400) |&image(Screenshot_20240518-201617~2.png,Y=400) | 
+#endregion
+
+&bold(){変装}
+#region(開く)
+閉じる
+| &image(mQq1u2Ca.png_small.png,y=300)|&image(トキサメ シグレ.jpg,y=300)| 
+|まさむねのおかん|トキサメ　シグレ|  
+#endregion
+//
+#right(){&link_anchor(目次1){▵目次}}
+//
+*&size(25){&color(#ffcada){&color(#fffacd){&icon_fa(fa fa-car)} 所有車両}}
+#include(伊達咲　政宗/所有車両)
+//
+#right(){&link_anchor(目次1){▵目次}}
+//
+*&size(25){&color(#ffcada){&color(#fffacd){&icon_fa(fa fa-home)} 所有物件}}
+#region(開く)
+閉じる
+#table_style(head=center)
+#table_color(#fff0f5)
+|~No.|~番地|場所|購入日|通称|備考|h
+|1|7167||2023/11/18|||
+|2|8050||2024/01/07||[[カニメイト]]社宅|
+|3|1074||2024/02/07||逃走用[[餡ブレラ>>anbrella(餡ブレラ)]]メンバー共有|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+#right(){&link_anchor(目次1){▵目次}}
+//
+*&size(25){&color(#ffcada){&color(#fffacd){&icon_fa(fa fa-list-alt)} 印象表}}
+#include(伊達咲　政宗/印象表)
+//
+#right(){&link_anchor(目次1){▵目次}}
+//
+*&size(25){&color(#ffcada){&color(#fffacd){&icon_fa(fa fa-book)} エピソード}}
+&bold(){※エピソードの追記・更新お願いします。一行からでもOK👌}
+&br()
+#include(伊達咲　政宗/初心者編)
+&br()
+#include(伊達咲　政宗/日常編)
+&br()
+#include(伊達咲　政宗/GoodbyeCircus編)
+&br()
+#include(伊達咲　政宗/個人犯罪者編)
+&br()
+#include(伊達咲　政宗/Liber編)
+&br()
+#include(伊達咲　政宗/餡ブレラ編2023)
+&br()
+#include(伊達咲　政宗/餡ブレラ編2024)
+&br()
+#include(伊達咲　政宗/餡ブレラ編：2024年7月～12月)
+&br()
+#include(伊達咲　政宗/餡ブレラ編2025)
+&br()
+//
+#right(){&link_anchor(目次1){▵目次}}
+//
+*&size(25){&color(#ffcada){&color(#fffacd){&icon_fa(fa fa-file)} アーカイブ}}
+&bold(){※主なエピソードの更新募集しています。一行からでもOK👌}
+&br()
+#include(伊達咲　政宗/アーカイブ1)
+&br()
+#include(伊達咲　政宗/アーカイブ2)
+&br()
+#include(伊達咲　政宗/アーカイブ3)
+&br()
+//
+#right(){&link_anchor(目次1){▵目次}}
+//
+*&size(25){&color(#ffcada){&color(#fffacd){&icon_fa(fa fa-youtube-play)} 切り抜き}}
+**動画
+#include(伊達咲　政宗/切り抜き動画)
+**short動画
+&bold(){1分以内の動画もshort扱いで掲載しています。}
+#include(伊達咲　政宗/short動画)
+//
+#right(){&link_anchor(目次1){▵目次}}
+//
+*&size(25){&color(#ffcada){ &color(#fffacd){&icon_fa(fa fa-users)} ストグラコラボ}}
+#include(伊達咲　政宗/ストグラコラボ)
+//
+#right(){&link_anchor(目次1){▵目次}}
+//

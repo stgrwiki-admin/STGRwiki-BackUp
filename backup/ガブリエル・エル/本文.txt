@@ -1,0 +1,63 @@
+*プロフィール
+//&image(ここに画像のURLを入力,y=400)
+#table_style(head=#E7B2B4){}
+|&image(1774406678167.png,y=400)|h
+
+
+//ここからプロフィール
+#table_style(head=#E7B2B4:#666666){}
+|~名前|~&icon_fa(fa fa-user)|ガブリエル・エル|
+|~出身地|~&icon_fa(fa fa-location-dot)|-|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|-&Co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2026年03月11日 (&countup(2026/03/10,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|-|
+|~所属|~&icon_fa(fa fa-users)|-|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|-|
+|~レーサー名|~&icon_fa(fa fa-car)|-|
+|~電話番号|~&icon_fa(fa fa-phone)|(907)245-2410|
+|BGCOLOR(#BE4B96):~&font(#FFF){プレイヤー}|BGCOLOR(#BE4B96):~&font(#FFF){&icon_fa(fa fa-address-card-o fa-fw)}|我部りえる（あおぎり高校）|
+|BGCOLOR(#BE4B96):~&font(#FFF){告知等}|BGCOLOR(#BE4B96):~&font(#FFF){&icon_fa(fa fa-bullhorn)}|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/rieru_aogiri]]|
+|BGCOLOR(#BE4B96):~&font(#FFF){配信場所}|BGCOLOR(#BE4B96):~&font(#FFF){&icon_fa(fa fa-gamepad)}|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@rieru0830]]|
+|BGCOLOR(#BE4B96):~&font(#FFF){ガイドライン}|BGCOLOR(#BE4B96):~&font(#FFF){&icon_fa(fa fa-circle-info)}|[[二次創作ガイドライン>>https://www.aogirihighschool.com/guidelines/fanfic]]（あおぎり高校）|
+//
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-記憶喪失の少女。持っていたスマートフォンに表示されていた「ガブリエル・エル」を名乗っている。
+
+*エピソード
+**2026年
+#region(3月,open)&bold(){3月}
+***3/11 目が覚めたら、記憶なくなってました[[(前半)>>https://www.youtube.com/live/QLOj_shQLBA]],[[(後半)>>https://www.youtube.com/live/NzHtvX1A1Ws]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(11日)
+#endregion(3月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(dd日)
+
+#endregion(mm月)
+
+}
+
+*アーカイブ
+**2026年
+#region(開く,open)
+#table_style(head=center:#E7B2B4){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/11|1|[[目が覚めたら、記憶なくなってました>>https://www.youtube.com/live/QLOj_shQLBA]](前半)&br()[[目が覚めたら、記憶なくなってました>>https://www.youtube.com/live/NzHtvX1A1Ws]](後半)||
+//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

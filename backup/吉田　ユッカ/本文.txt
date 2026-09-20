@@ -1,0 +1,631 @@
+#slide_img(auto=4,position=left,width=320,height=280){ヒーロ-Top_2.png,ヒーロ-_Face_202404092042.png,ヒーロー_Face_Headphone_2.png}
+
+#table_color(head=#0026B8:#FFF)
+|~名前|~&space()&icon_fa(fa fa-user)&space()|&ruby(よしだ){&bold(){吉田}}　&bold(){ユッカ（ヒーロー）}|
+|~出身地|~&space()&icon_fa(fa fa-location-dot)&space()|チバダリアン王国|
+|~転入日|~&space()&icon_fa(fa fa-plane-arrival)&space()|2022年8月29日 (&countup(2022/08/29,yd)経過)|
+|~誕生日|~&space()&icon_fa(fa fa-cake-candles)&space()|1994年1月1日 (&countup(1994/01/01,y)歳)|
+|~職業|~&space()&icon_fa(fa-solid fa-building-columns)&space()|&icon_fa(fa fa-rocket fa-fw)ヒーロー&br()&icon_fa(fa fa-building fa-fw)不動産屋「[[ヒーローハウジング>ヒーローハウジング]]」&small(){2022/9/4~}&br()&space(4)・階級：Grade4 (Manager/社長)&br()&icon_fa(fa fa-medkit fa-fw)救急救命士「[[ロスサントス救急救命隊>ロスサントス救急救命隊]]」&small(){2023/8/27~}&br()&space(4)・&s(){階級Grade3 (Surgeon/外科医）}&br()&space(8)昇格試験未合格につきランク1&br()&icon_fa(fa fa-cutlery fa-fw)学校給食コンセプト食堂「[[ToY]]」&small(){2023/11/27～}&br()&space(4)・階級：Grade0 (Recruit/店員)&br()・&s(){タクシー運転手、ホットドッグ屋}&br()・&s(){牧場経営}&br()・&s(){吉田運送}|
+|~恋人|~&space()&icon_fa(fa fa-heart)&space()|[[二十日　ネル]]|
+|~TwiX|~&space()&icon_fa(fa fa-crow)|@ヒーロー|
+|BGCOLOR(#FFFFFF):COLOR(#E65C98):~プレイヤー|BGCOLOR(#FFFFFF):~&space()&color(#E65C98){&icon_fa(fa fa-address-card-o fa-fw)}&space()|ユッカ|
+|BGCOLOR(#FFFFFF):COLOR(#E65C98):~告知等|BGCOLOR(#FFFFFF):~&space()&color(#E65C98){&icon_fa(fa-solid fa-bullhorn)}&space()|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[X>>https://x.com/Yucca_yusa]]|
+|BGCOLOR(#FFFFFF):COLOR(#E65C98):~配信場所|BGCOLOR(#FFFFFF):~&space()&color(#E65C98){&icon_fa(fa-solid fa-gamepad)}&space()|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/yuccafps]](メイン)／&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCfVOAZlQrznf1iqSEikdn7A]]|
+|BGCOLOR(#FFFFFF):COLOR(#E65C98):~動画投稿|BGCOLOR(#FFFFFF):~&space()&color(#E65C98){&icon_fa(fa fa-video-camera)}&space()|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCfVOAZlQrznf1iqSEikdn7A]]|
+|BGCOLOR(#FFFFFF):COLOR(#E65C98):~その他の活動場所|BGCOLOR(#FFFFFF):~&space()&color(#E65C98){&icon_fa(fa fa-video-camera)}&space()|[[tiktok>>https://www.tiktok.com/@yuccajp]]|
+|BGCOLOR(#FFFFFF):COLOR(#E65C98):~別キャラ|BGCOLOR(#FFFFFF):~&space()&color(#E65C98){&icon_fa(fa fa-user-plus)}&space()|[[カイン　ユリウス]]|
+//
+//性格については基本情報に記載されるようになったので上記の表からは除外します(2024.5.28)
+//|~性格|包容力があり誰にでも優しいがやや天然なところもある|
+//
+//救急隊でのランクについて→昇格試験に合格していないため2024年4月9日時点で「ランク1」と会話されていますが、給料やジョブ切り替えメニューでは「ランク3」のままとなっているため取り消し線を使っての記載としています。(2024.4.10)
+
+
+&bold(){俺の名前は吉田ユッカ！}
+&bold(){この街のヒーローだ！}
+
+#region(open,目次)&bold(){目次}
+#contents(level=2)
+#endregion
+
+**基本情報
+&size(20){&color(#0026B8){●}} ヒーローになりたくて日本からロスサントスにやってきた。
+&size(20){&color(#0026B8){●}} 基本的にヒーロー然とした立ち居振る舞いで包容力があり誰にでも優しい。
+&size(20){&color(#0026B8){●}} ただ、常に温厚というわけではないため失礼なことをしてくる相手には相応に仕返す。
+&size(20){&color(#0026B8){●}} 悪ガキかつノンデリな一面があり、一部の親しい市民からは「なんでこいつがヒーローとして慕われているかわからない」「ヒーローでも何でもない」と言われている。
+&size(20){&color(#0026B8){●}} 「ヒーロー」という呼び名により時々黒市民から警戒されるが、黒市民に対しては基本的に「君には君なりの正義がある」というスタンスをとっている。
+&size(20){&color(#0026B8){●}} &s(){常人の目には見えないが}よくヴィランと戦っている。この街にいないときは別の街でヒーロー活動をしている、と周囲に話している。
+&size(20){&color(#0026B8){●}} 自慢の筋肉が良く映えるImpotent Rage(インポマン)の衣装を身に着けている。仮面の有無はその時の気分。
+&size(20){&color(#0026B8){●}} 服装のセンスは周囲から疑問を持たれることが多い。
+&size(20){&color(#0026B8){●}} 声真似のクオリティの高さに定評がある。
+&size(20){&color(#0026B8){●}} 「無人島に1つだけ持って行くなら茹でガニ」と言うほどに茹でガニが世界で一番好き。 生、かにみそ は好きではない。
+&size(20){&color(#0026B8){●}} 恋人は初日に出会い街の黎明期を共に過ごした[[二十日ネル>二十日　ネル]]。
+#region(♥)
+　・2人でデートに出かけた際にネルから告白を受け、2022年10月18日（19日のAM2時頃）から付き合い始めた。（二十日ネル視点リンク：[[&icon_fa(fa fa-youtube-play)>>https://www.youtube.com/live/BO99PkF293c]]）
+　・7割ツンなネルをヒーローがすぐからかうので会うたびよくケンカをしているが、2人なりに仲良くやっている。
+　・ヒーローが&s(){物件販売時に借りた合鍵をそのままパクって}転がり込み同棲していたネルの住宅は不動産リセットに伴い無くなった。
+#endregion
+
+
+#region(【衣装部屋】)
+|CENTER:&blankimg(初期衣裳.png,x=100,y=180)|CENTER:&blankimg(吉田　ユッカ　【ヒーロー】.png,x=80,y=180)|CENTER:&blankimg(吉田　ユッカ　【素顔】.png,x=70,y=180)|CENTER:&blankimg(吉田　ユッカ　【ヲタ男】.png,x=110,y=180)|CENTER:&blankimg(吉田　ユッカ　【ヲタ男・素顔】.png,x=130,y=180)|CENTER:&blankimg(20221011_キャンプ.png,x=130,y=180)|
+|CENTER:&size(10)20220829初登場衣裳|CENTER:旧トップ画像|CENTER:素顔|CENTER:ヲタ男|CENTER:ヲタ男素顔|CENTER:20221012キャンプ|
+|CENTER:&blankimg(吉田　ユッカ　【HERO DOCTOR1】.png,x=80,y=160)|CENTER:&blankimg(吉田　ユッカ　【あおふく】.png,x=100,y=160)|CENTER:&blankimg(吉田　ユッカ　【救急ランク2】.png,x=80,y=160)|CENTER:&blankimg(吉田　ユッカ　【救急ランク3】.png,x=80,y=160)|CENTER:&blankimg(吉田　ユッカ　【20231105 ましろ】.png,x=90,y=160)|CENTER:&blankimg(吉田　ユッカ　【不動産】.png,x=80,y=160)|
+|CENTER:&size(10)HERO DOCTOR|CENTER:青服|CENTER:救急隊ランク2|CENTER:救急隊ランク3|CENTER:ましろ|CENTER:不動産|
+|CENTER:&blankimg(吉田　ユッカ　【20231028私服】.png,x=90,y=160)|CENTER:&blankimg(吉田　ユッカ　【隊長】.png,x=90,y=160)|CENTER:&blankimg(吉田　ユッカ　【20240519私服2】.png,x=70,y=160)|CENTER:&blankimg(吉田　ユッカ　【20240519足】.png,x=95,y=160)|CENTER:&blankimg(吉田　ユッカ　【uke】.png,x=90,y=160)||
+|CENTER:&size(10)20231028私服|CENTER:&size(10)隊長|CENTER:&size(10)私服２|CENTER:&size(10)ダイエット|CENTER:&size(10)不動産||
+#table_sorter{even=#f7f5f7,odd=#fff}
+#endregion
+
+#region(【探し人】)
+&bold(){ザンザス}
+海外のプロレスラー
+ヒーローはこの人物を探しにロスサントスへ来たようだ
+&image(吉田　ユッカ　【ザンザス】.png,x=200)
+（PLからの説明[[🎬>>https://clips.twitch.tv/IronicSullenAlligatorPJSugar-W1ISAR7UBCV0zTUQ]]）
+#endregion
+
+#region(【ストグラカード】)
+|&image(ヒーロー_gold_エフェクト.png,x=200)|&image(ヒーロー_紫.png,x=200)|&image(ヒーロー_青.png,x=200)|&image(ヒーロー_赤.png,x=200)|
+|金カード|紫カード|青カード|赤カード|
+#endregion
+
+
+**飛行(ヒーローパワー)
+&size(20){&color(#0026B8){●}} ヒーローなので乗り物を使わずに空を飛び回ることができる。
+&size(20){&color(#0026B8){●}} 速度、開放感、自由度すべてにおいて抜群。人を抱えて飛ぶことも可能。
+&size(20){&color(#0026B8){●}} 救急隊での救助活動では、救助者に負担がかかるため基本使用しないようにしている。
+&size(20){&color(#0026B8){●}} ヒーローは乗り物ではないので抱えてもらう側の人がマップにピンを指してもヒーローには伝わらない。
+&size(20){&color(#0026B8){●}} この能力を使った人間カーリングは驚くほど滑る。
+
+#region(ネタバレ注意！)
+&image(HeroPower20231205.png)
+&size(20){&color(#0026B8){●}} 不動産屋ワンオペ時代、街に来るたび不動産の対応に追われていたヒーローのために市長が開発したアイテム。
+&size(20){&color(#0026B8){●}} 燃料不要で飛行中はストレスを感じない。
+&size(20){&color(#0026B8){●}} 金を積めばよいというものではないが、能力を取得するため市に約30億円を支払っている（頭金＋借金）。もし失うと取り返すのに3億円かかる。
+&size(20){&color(#0026B8){●}} 犯罪行為に使用すると消滅するなど、使用に関してはいくつかの制約がある。
+&size(20){&color(#0026B8){●}} 生身で飛ぶため飛行中に何かにぶつかると必ず怪我もしくはダウンする。
+#endregion
+//
+//能力取得日→2023.02.23
+//借金額について→2023.10.11の配信内容に基づき「25億（頭金5億＋借金20億）」としていましたが、2024.04.01の配信内容に基づき「30億」に変更いたします。
+//無くしたときに取り返す際の金額について→借金完済日の市長とヒーローの会話に基づき「3億」と記載しています。
+
+
+**所有車両一覧【最新2024/05/27】
+
+#table_style(head=#0026B8:#FFF){列1=#0000ff,列2=#fff,列3=#e0ffff}
+|MIDDLE:~種類|MIDDLE:~メーカー名|MIDDLE:~車名|MIDDLE:~画像|MIDDLE:~備考|h
+|MIDDLE:バイク|MIDDLE:Nagasaki|MIDDLE:Shinobi|MIDDLE:&blankimg(Shinobi.png,width=50,height=50)|2023/10/11 壁登りをするため購入&br()10/18 レースに出場するためフルカスにする|
+|MIDDLE:バイク|MIDDLE:Maibatsu|MIDDLE:Sanchez|MIDDLE:||
+|MIDDLE:クーペ|MIDDLE:Enus|MIDDLE:Windsor Drop|&blankimg(Windsor Drop.png,width=50,height=50)||
+|MIDDLE:クラシックスポーツカー|MIDDLE:Albany|MIDDLE:Manana|&blankimg(Manana.png,width=50,height=50)||
+|MIDDLE:バイク|MIDDLE:Shitzu|MIDDLE:Hakuchou Drag|&blankimg(20221115HAKUCHO.png,width=50,height=50)||
+|MIDDLE:コンパクトカー|MIDDLE:WEENY|MIDDLE:PEANUT|&blankimg(Peanut.png,width=50,height=50)|2023/11/16 購入、PYでカスタムとアップグレード|
+|MIDDLE:スーパーカー|MIDDLE:Grotti|MIDDLE:X80 Proto|&blankimg(X80Proto_20240411.png,width=50,height=50)|2024/4/9 購入&br()4/11 BMCでカスタムとアップグレード|
+|MIDDLE:飛行機|MIDDLE:Western|MIDDLE:Besra||2024/5/27 購入|
+
+【過去の所有車両】
+#region(開く)
+#table_style(head=#0026B8:#FFF){列1=#0000ff,列2=#fff,列3=#e0ffff}
+|MIDDLE:~種類|MIDDLE:~メーカー名|MIDDLE:~車名|MIDDLE:~画像|MIDDLE:~備考|h
+|MIDDLE:コンパクトカー|MIDDLE:BF|MIDDLE:Club|&blankimg(CLUB.png,width=50,height=50)|2023/9/21[[デカ井うるは>https://w.atwiki.jp/streamergta5/pages/762.html]]に譲る|
+|MIDDLE:マッスルカー|MIDDLE:アルバニー|MIDDLE:Hermes|&blankimg(Hermes.png,width=50,height=50)||
+|MIDDLE:クーペ|MIDDLE:エナス|MIDDLE:WindsorDrop|&blankimg(Windsor Drop.png,width=50,height=50)||
+|MIDDLE:キャンピングカー|MIDDLE:Vapid|MIDDLE:SANDKINGRV|&blankimg(20230104_sandkingRV.png,width=50,height=50)|2023/1/4購入|
+|MIDDLE:スポーツカー|MIDDLE:OBEY|MIDDLE:AUDI 2020Audi RS7 Sportback(C8)|&blankimg(AudiRS7_2_20230228_リコール後.png,width=50,height=50)|リコール後の物|
+#endregion
+
+
+
+**視点表【最新2022/10/12】
+#table_style(head=#0026B8:#FFF){列1=#ddd, 列2=#fff}
+|~【印象】||h
+|【恩人】|[[市長>山下　ひろし]]|
+|【好敵手】|己自身|
+|【好印象】|[[斉藤 まさのり>斉藤　まさのり]], [[切間 てつお>切間　てつお]], [[小間 音千子>小間　音千子]], [[番田 長助>番田　長助]], [[海鈴 りおん>海鈴　りおん]], [[近藤 武蔵>近藤　武蔵]], [[如月 キャシー>如月　キャシー]]|
+|【期待】|[[キーモット ホームズ>キーモット　ホームズ]], [[平方 根>平方　根]]|
+|【対立】|[[Jack　Daniel]]※良い意味で|
+|【胸熱】|-|
+|【最推し】|[[小者 デヤンス>小者　デヤンス]], [[アシュカ ニャン・グレイ>アシュカ　ニャン・グレイ]], [[小花衣 早苗>小花衣　早苗]]|
+|【覚醒期待】|[[ジョン ドングリ>ジョン　ドングリ]], [[今井 教次>今井　教次]], [[伊藤 カテジ>伊藤　カテジ]], [[服部 ぺぇ次>服部　ぺぇ次]]|
+|【苦手】|[[ヒノカ モロウ>ヒノカ　モロウ]]|
+|【信頼】|[[二十日 ネル>二十日　ネル]], [[サンフォレスト あんず>サンフォレスト　あんず]], [[ましゃかり トラボルタ>ましゃかり　トラボルタ]], [[命田 守>命田　守]], [[ジャック 馬ウアー>ジャック　馬ウアー]]|
+|【不安】|[[テキーラ ジンバック>テキーラ　ジンバック]], [[マクリマクラレ マクレーン>マクリマクラレ　マクレーン]], [[須藤 冬馬>須藤　冬馬]], [[深沢 えぼし>深沢　えぼし]], [[篠崎 ケイ>篠崎　ケイ]]|
+|【厄介】|[[山本 龍也>山本　龍也]], [[二階堂 マリア>ライトスターボーイ]]|
+
+
+**エピソード
+//
+//サイズ制限対応のため、エピソードは別ページに記載しております。(2024/02/12 変更)
+//
+#include(吉田　ユッカ　エピソード2022)
+//エピソード2022のURL→https://w.atwiki.jp/streamergta5/pages/968.html
+
+
+#include(吉田　ユッカ　エピソード2023)
+//エピソード2023のURL→https://w.atwiki.jp/streamergta5/pages/1058.html
+
+
+#include(吉田　ユッカ　エピソード2024)
+//エピソード2024のURL→https://w.atwiki.jp/streamergta5/pages/1213.html
+
+
+**アーカイブ
+//リンク間違いなどありましたらぜひ修正をお願いします。
+//アーカイブおまとめ表8月
+//表のソートプラグインは見出し行の末尾にhがないと機能しないので修正しておきました。このコメントは読み次第消していただいて構いません。2023/01/19
+//
+//&color(#F54738){アーカイブ改装しました！(2022/10/30)}
+&color(#F54738){※twitchの仕様によりアーカイブが順次リンク切れになります。ご了承ください。(2022/10/31)}
+***2022年
+#region(開く)
+&big(){&color(#0000ff){2022年8月}}
+#region(No.1~3,close)
+No.1~3
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|8/29|&color(#8da0b6){GTAスト鯖！！で生き抜く！！！！　※2022年10月29日リンク切れ}|
+|2|8/29|&color(#8da0b6){GTAストリーマー鯖でお金持ちになるぞ！！！　※2022年10月30日}|
+|3|8/30|&color(#8da0b6){GTAストリーマー鯖でお金持ちになるぞ！！！　※2022年10月30日}|
+#endregion(No.1~3)
+
+&big(){&color(#0000ff){2022年9月}}
+#region(No.1~15,close)
+No.1~15
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|9/2|&color(#8da0b6){金持ちになりたい。※2022年11月02日リンク切れ}|
+|2|9/2|&color(#8da0b6){競馬祭り！！！！　※2022年11月02日}|
+|2|9/3|&color(#8da0b6){ついに無人島からの脱出　※2022年11月03日}|
+|4|9/5|&color(#8da0b6){100万ドルが財布から消えてる。　※2022年11月04日}|
+|5|9/5|&color(#8da0b6){スロットで当たった２５０万＄の使い道を考える。　※2022年11月05日}|
+|6|9/6|&color(#8da0b6){吉田ユッカ ヒーローさ　※2022年11月6日}|　
+|7|9/6|&color(#8da0b6){吉田ユッカ ヒーローさ　※2022年11月6日}|
+|8|9/8|&color(#8da0b6){吉田ユッカ ヒーローさ　※2022年11月8日}|
+|9|9/10|&color(#8da0b6){ダークヒーロー吉田ユッカ　※2022年11月10日}|
+|10|9/11|&color(#8da0b6){ダークヒーロー編　※2022年11月11日}|
+|11|9/11|&color(#0000ff)[[ヒーローがYouTubeで初配信。>>https://youtu.be/1thuIUd6GuI]]&color(#F54738){※YouTube限定公開}|
+|12|9/12|&color(#0000ff)[[ダークヒーローです。>>https://youtu.be/wMonek9ed9g]]&color(#F54738){※YouTube限定公開}|
+|13|9/14|&color(#0000ff)[[ダークなヒーローです。>>https://youtu.be/N0PGLLpI6Pg]]&color(#F54738){※YouTube限定公開}|
+|14|9/14|&color(#8da0b6){ヒーロー視点 ※2022年11月14日}|
+|15|9/17|&color(#8da0b6){ヒーロー視点 ※2022年11月17日}|
+#endregion(No.1~15)
+#region(No.16~29,close)
+No.16~29
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|16|9/18|&color(#8da0b6){ヒーロー視点　※2022年11月18日リンク切れ}|
+|17|9/18|&color(#8da0b6){ちゃあさんとたけちゃんとスプラ　ヒーロー吉田の苦悩　※2022年11月18日}|
+|18|9/20|&color(#8da0b6){ストグラの話をぐだぐだはなす。　※2022年11月21日}|
+|19|9/21|&color(#8da0b6){俺は…　※2022年11月21日}|
+|20|9/22|&color(#8da0b6){ヒーロー 引退  ※2022年11月22日}|
+|21|9/23|&color(#8da0b6){ヒーロー視点　※2022年11月23日}|
+|22|9/23|&color(#8da0b6){中の人たちによるアフタートーク　※2022年11月23日}|
+|23|9/24|&color(#8da0b6){レンタル彼氏までに100万＄以上溶かしてみる。　※2022年11月24日}|
+|24|9/27|&color(#8da0b6){俺は…ヒーローだ！！　※2022年11月27日}|
+|25|9/27|&color(#8da0b6){俺は正義か悪か ※2022年11月27日}|
+|26|9/28|&color(#8da0b6){ヒーローの選択 ※2022年11月28日}|
+|27|9/29|&color(#8da0b6){ヒーロー試験　 ※2022年11月29日}|
+|28|9/29|&color(#8da0b6){ヒーロー試験　 ※2022年11月29日}|
+|29|9/30|&color(#8da0b6){ストグラ界のメイウェザーになります。　 ※2022年11月30日}|
+#endregion(No.16~29)
+
+&big(){&color(#0000ff){2022年10月}}			
+#region(No.1~15,close)			
+No.1~15			
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h			
+|1|10/2|&color(#8da0b6){れじゆかゲーム部　※2022年12月02日リンク切れ}|			
+|2|10/5|&color(#8da0b6){配信の仕方わすれた。※2022年12月05日}|			
+|3|10/8|&color(#8da0b6){れいじゆか幽霊探査員 　※2022年12月08日}|			
+|4|10/10|&color(#8da0b6){お金がホシイカ ※2022年12月10日}|			
+|5|10/12|&color(#8da0b6){眠いので本当に少しだけ…！　 ※2022年12月12日}|			
+|6|10/12|&color(#8da0b6){パートナー受かったぞおおお！！　※2022年12月12日}|			
+|7|10/13|&color(#8da0b6){フォロワー4000人ありがとう！！ ※2022年12月13日}|			
+|8|10/17|&color(#8da0b6){おひさしぶりHERO　 ※2022年12月17日}|			
+|9|10/18|&color(#8da0b6){ほんっとにイライラする　※2022年12月18日}|			
+|10|10/21|&color(#8da0b6){立ち直れない　※2022年12月21日}|			
+|11|10/22|&color(#8da0b6){負債を返したい。※2022年12月22日}|			
+|12|10/23|&color(#8da0b6){ゆっくうのスーパーマリオメーカー　※2022年12月23日}|			
+|13|10/25|&color(#8da0b6){ヒーローの災難　※2022年12月25日}|			
+|14|10/27|&color(#8da0b6){ここに6000万ある。カードを買わせてくれ。※2022年12月27日}|			
+|15|10/28|&color(#8da0b6){ここに6000万ある。カードを買わせてくれ。※2022年12月28日}|			
+#endregion(No.1~15)				
+#region(No.16~17,close)			
+No.16~17			
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h			
+|16|10/29|&color(#8da0b6){すこしだけカード買いに来た　※2022年12月29日リンク切れ}|
+|17|10/30|&color(#8da0b6){ちゃあさんとマリオ　ストリーマーグラセフタイトル「さようなら。リスナー。」　※2022年12月30日}|
+#endregion(No.16~17)			
+
+&big(){&color(#0000ff){2022年11月}}			
+#region(No.1~15,close)		
+No.1~15			
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|11/1|&color(#8da0b6){ヒーローになるための薬...。　※2023年1月1日リンク切れ}|
+|2|11/3|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[ヒーローカーを手に入れるために…>>https://www.twitch.tv/videos/1641427477]]|
+|3|11/4|&color(#8da0b6){あと2憶円　※2023年1月4日}|
+|4|11/5|&color(#8da0b6){HERO　※2023年1月5日}|
+|5|11/6|&color(#8da0b6){あともうすこし　※2023年1月6日}|
+|6|11/7|&color(#8da0b6){不動産王になるために　※2023年1月7日}|
+|7|11/8|&color(#8da0b6){仮想通貨で大損　※2023年1月8日}|	
+|8|11/9|&color(#8da0b6){新キャラ始動　ヒーロー視点開始　※2023年1月9日}|
+|9|11/11|&color(#8da0b6){この街からひーろーは消えたのか？　※2023年1月11日}|
+|10|11/12|&color(#8da0b6){MOZU所属カイン・ユリウスだよ～　※2023年1月11日}|
+|11|11/13|&color(#8da0b6){カイン・ユリウスいくぜ！！　ヒーロー視点　※2023年1月15日}|
+|12|11/14|&color(#8da0b6){久々ヒーロー！！！もしかしたらカインくん　※2023年1月15日}|
+|13|11/15|&color(#8da0b6){今日もストグラは平和やな　※2023年1月15日}|
+|14|11/16|&color(#8da0b6){今日は犯罪禁止らしい。 ※2023年1月16日}|
+|15|11/17|&color(#8da0b6){MOZUのカインくん　ヒーロー視点　※2023年1月17日}|				
+#endregion(No.1~15)
+#region(No.16~30,close)			
+No.16~17			
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h			
+|16|11/21|&color(#8da0b6){すこしだけだよ　※2023年2月28日リンク切れ}|
+|17|11/22|&color(#8da0b6){カインユリウス。ヒーロー視点開始 ※2023年2月28日}|
+|18|11/22～23|&color(#8da0b6){1憶円が手に入るんですか？！ ※2023年2月28日}|
+|19|11/24|&color(#8da0b6){色々起こりそう。 ※2023年2月28日}|
+|20|11/26|&color(#8da0b6){抗争当日...カインがんばる。　ヒーロー視点開始 ※2023年2月28日}|
+|21|11/28|&color(#8da0b6){2億5000万貯めた男 ※2023年2月28日}|
+|22|11/30|&color(#8da0b6){不動産王になるために ※2023年2月28日}|
+#endregion(No.16~30)
+
+&big(){&color(#0000ff){2022年12月}}
+#region(No.1~15,close)
+No.1~15
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|12/1|&color(#8da0b6){お久しぶりカインくん　ヒーロー視点開始 ※2023年2月28日リンク切れ}|
+|2|12/2|&color(#8da0b6){アプデきたらしい！ ※2023年2月28日}|
+|3|12/3|&color(#8da0b6){カインからの...　ヒーロー視点開始 ※2023年2月28日}|
+|4|12/4|&color(#8da0b6){HEROｗｗｗｗｗ ※2023年2月28日}|
+|5|12/7|&color(#8da0b6){ひさびさ！ ※2023年2月28日}|
+|6|12/8|&color(#8da0b6){フォロワー5000人いったぞおおお！！！！！ ※2023年2月28日}|
+|7|12/11|&color(#8da0b6){え...チャリのイベントって終わったんすか？... ※2023年2月28日}|
+|8|12/15|&color(#8da0b6){お久しぶり。 ※2023年2月28日}|
+|9|12/18|&color(#8da0b6){1時間だけ ※2023年2月28日}|
+|10|12/23|&color(#8da0b6){HEROかカインか ※2023年2月28日}|
+|11|12/24|&color(#8da0b6){1億円くらい配る予定。 ※2023年2月28日}|
+#endregion(No.1~15)
+#endregion
+
+***2023年
+#region(開く)
+&big(){&color(#0000ff){2023年01月}}
+#region(No.1~15,close)
+No.1~15
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|1/1|&color(#8da0b6){実は誰も知らないHEROの誕生日。　※2023年3月4日リンク切れ}|
+|2|1/3|&color(#8da0b6){カインユリウス MOZU 視点開始　※2023年3月7日}|
+|3|1/4|&color(#8da0b6){犯罪系動画投稿者 カインユリウス　視点開始　※2023年3月7日}|
+|4|1/6|&color(#8da0b6){1億5000万でなんでも破壊できる車を買った　※2023年3月8日}|
+|5|1/22|&color(#8da0b6){HERO不動産お久しぶりです。　※2023年3月30日}|
+|6|1/25|&color(#8da0b6){カイン、ケイン、コイン、パイン、ペイン、ポイン！！　※2023年3月30日}|
+#endregion(No.1~15)
+
+&big(){&color(#0000ff){2023年02月}}
+#region(No.1~6,close)
+No.1~6
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|2/12|&color(#8da0b6){キャップ ネル キャシー ユッカでゲーム！}|
+|2|2/20|&color(#8da0b6){非常にまずい事になっております。}|
+|3|2/23|&color(#8da0b6){本物のHEROになるために。}|
+|4|2/24|&color(#8da0b6){HERO訓練2日目}|
+|5|2/25|&color(#8da0b6){HERO訓練2日目}|
+|6|2/26|&color(#8da0b6){HEROの秘密}|
+#endregion(No.1~6)
+
+&big(){&color(#0000ff){2023年03月}}
+#region(No.1~8,close)
+No.1~8
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|3/1|&color(#8da0b6){カインかペインかポインかパインか}|
+|2|3/4|&color(#8da0b6){カインからのHERO}|
+|3|3/6|&color(#8da0b6){HEROの能力を最大限に生かして}|
+|4|3/8|&color(#8da0b6){さよなら、ユリタクスゼイアン}|
+|5|3/9|&color(#8da0b6){HEROいくぜえええ！！！}|
+|6|3/13|&color(#8da0b6){HERO新技！！！発掘}|
+|7|3/16|&color(#8da0b6){フォロワー6000人ありがとうHERO}|
+|8|3/28|&color(#8da0b6){お久しぶりです。}|
+#endregion(No.1~8)
+
+&big(){&color(#0000ff){2023年08月}}
+#region(No.1~9,close)
+No.1~9
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|8/2|&color(#8da0b6){ただいまHERO}|
+|2|8/5|&color(#8da0b6){こんな時間から配信すな！！！}|
+|3|8/5|&color(#8da0b6){ヒーロー活動ってなんなんだ}|
+|4|8/6|&color(#8da0b6){おそらく入ったらダウンする。}|
+|5|8/10|&color(#8da0b6){ヒーロー！}|
+|6|8/13|&color(#8da0b6){夏祭りってなんだ？！}|
+|7|8/28|&color(#8da0b6){ストグラ一周年おめでとう！！！}|
+|8|8/31|&color(#8da0b6){ネルからもらったランボルギーニに別れを告げる}|
+|9|8/31|&color(#8da0b6){吉田ユッカ 救急隊３日目}|
+#endregion(No.1~9)
+
+&big(){&color(#0000ff){2023年09月}}
+#region(No.1~5,close)
+No.1~5
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|9/4|&color(#8da0b6){HERO 吉田ユッカ 救急隊４日目！ 今日は何人救えるだろうか…}|
+|2|9/20|&color(#8da0b6){復活のHERO}|
+|3|9/24|&color(#8da0b6){人助けるHERO 吉田ユッカ}|
+|4|9/25|&color(#8da0b6){救急隊 ヒーロー吉田！！！}|
+|5|9/27|&color(#8da0b6){救急隊 ヒーロー}|
+#endregion(No.1~5)
+
+&big(){&color(#0000ff){2023年10月}}
+#region(No.1~17,close)
+No.1~17
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|10/1|&color(#8da0b6){救急隊 ヒーロー}|
+|2|10/8|&color(#8da0b6){スイカみたことないん？これだよ。}|
+|3|10/11|&color(#8da0b6){救急隊やったりHEROやったりラジバンダリ}|
+|4|10/14|&color(#8da0b6){救急隊イベント！！！楽しむぞ！！}|
+|5|10/15|&color(#8da0b6){HEROやりたいことをやる！}|
+|6|10/16|&color(#8da0b6){救急隊 ヒーロー}|
+|7|10/18|&color(#8da0b6){救急隊 ヒーロー}|
+|8|10/18|&color(#8da0b6){今日は何が起こるかな？}|
+|9|10/19|&color(#8da0b6){ほら…だから言ったろ…変な時間に起きちまうって}|
+|10|10/21|&color(#8da0b6){救急隊早番ヒーロー。}|
+|11|10/22|&color(#8da0b6){スイカゲームのプロゲーマーです。}|
+|12|10/23|&color(#8da0b6){ヒーロー吉田ユッカ}|
+|13|10/24|&color(#8da0b6){救急隊の朝は早い！！}|
+|14|10/26|&color(#8da0b6){カテジにAPEX誘われた。/w かてぃ、しりあさん}|
+|15|10/27|&color(#8da0b6){俺が全員救う！！ヒーロー}|
+|16|10/28|&color(#8da0b6){救急隊のヒーローだよ！ }|
+|17|10/31|&color(#8da0b6){救急隊ヒーロー参上！もうすぐフォロワー１万人！}|
+#endregion(No.1~17)
+
+&big(){&color(#0000ff){2023年11月}}
+#region(No.1~29,close)
+No.1~29
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|11/1|&color(#8da0b6){救急隊のヒーローだぜ！もうすぐフォロワー１万人！ 力を貸してくれ！！！}|
+|2|11/2|&color(#8da0b6){救急隊ヒーロー！フォロワー１万人ありがとう～！}|
+|3|11/3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}&space(1)[[ストグラ救急隊　早番ヒーロー【吉田ユッカ視点】>>https://www.youtube.com/live/uJjwu0OH0BM]]&space(1)&color(#F54738){※YouTube限定公開}|
+|4|11/3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}&space(1)[[ストグラ救急隊　早番ヒーロー【吉田ユッカ視点】>>https://www.youtube.com/live/eQeOEB5wZ2k]]&space(1)&color(#F54738){※YouTube限定公開}|
+|5|11/4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}&space(1)[[ストグラ救急隊　早番ヒーロー【吉田ユッカ視点】>>https://www.youtube.com/live/LXskKlGeYi4]]&space(1)&color(#F54738){※YouTube限定公開}|
+|6|11/4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}&space(1)[[ストグラ救急隊　早番ヒーロー【吉田ユッカ視点】>>https://www.youtube.com/live/BuAKAWClRw0]]&space(1)&color(#F54738){※YouTube限定公開}|
+|7|11/5|&color(#8da0b6){不動産超アップデート？！ヒーロー不動産いきます}|
+|8|11/6|&color(#8da0b6){不動産超アップデート？！ヒーロー不動産いきます}|
+|9|11/7|&color(#8da0b6){不動産か救急隊か。}|
+|10|11/8|&color(#8da0b6){救急隊か不動産か}|
+|11|11/8|&color(#8da0b6){ヒーロー生活。２０億貯まったよ市長。【吉田ユッカ】}|
+|12|11/10|&color(#8da0b6){ヒーロー【吉田ユッカ】}|
+|13|11/11|&color(#8da0b6){ストグラ救急隊 ヒーロー視点}|
+|14|11/12|&color(#8da0b6){救急隊 ヒーロー吉田ユッカ}|
+|15|11/13|&color(#8da0b6){早番救急隊！ヒーロー行きます！}|
+|16|11/14|&color(#8da0b6){早番救急隊！ヒーロー行きます！}|
+|17|11/14|&color(#8da0b6){やっぱり少し救急隊出勤（ヘリ練習）}|
+|18|11/15|&color(#8da0b6){空飛ぶヒーロー救急隊}|
+|19|11/16|&color(#8da0b6){空飛ぶヒーロー救急隊}|
+|20|11/17|&color(#8da0b6){上司と上司の結婚式が！}|
+|21|11/18|&color(#8da0b6){すみません寝坊しました。道におばあちゃんが倒れてて}|
+|22|11/19|&color(#8da0b6){救急隊早番ヒーロー！}|
+|23|11/21|&color(#8da0b6){ストグラコラボ！ヴァロからのストグラ！}|
+|24|11/22|&color(#8da0b6){寝起きすぎるヒーロー}|
+|25|11/23|&color(#8da0b6){ヒーローランク3に昇格！！}|
+|26|11/24|&color(#8da0b6){救急隊 早番（？）}|
+|27|11/25|&color(#8da0b6){確実に早番に成功した。}|
+|28|11/26|&color(#8da0b6){早番ヒーローいっくぜえ！ }|
+|29|11/27|&color(#8da0b6){本当にすみません}|
+#endregion(No.1~29)
+
+&big(){&color(#0000ff){2023年12月}}
+#region(No.1~14,close)
+No.1~14
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|12/1|&color(#8da0b6){ちょっと雑談でもしよか！}|
+|2|12/2|&color(#8da0b6){新宿駅なう。（救急隊 空飛ぶ男！）}|
+|3|12/3|&color(#8da0b6){今日から動き出す！！}|
+|4|12/5|&color(#8da0b6){救急隊 ヒーロー！}|
+|5|12/6|&color(#8da0b6){サウナ気持ちよかった}|
+|6|12/7|&color(#8da0b6){本当にすみませんでした。}|
+|7|12/9|&color(#8da0b6){重大過ぎる発表と早番ヒーロー}|
+|8|12/9|&color(#8da0b6){遅番救急隊}|
+|9|12/9|&color(#8da0b6){遅番救急隊}|
+|10|12/10|&color(#8da0b6){ヒーロー長期休暇}|
+|11|12/23|&color(#8da0b6){ただいま。}|
+|12|12/24|&color(#8da0b6){目標の車の為に今日もヒーローは働く。}|
+|13|12/28|&color(#8da0b6){早番出勤！！}|
+|14|12/31|&color(#8da0b6){VCRGTAのロス落ち着いたのでここで初めてのクリップ鑑賞会！（今年こそストグラで年を越す男）}|
+#endregion(No.1~14)
+#endregion
+
+***2024年
+//#region(開く)
+&big(){&color(#0000ff){2024年01月}}
+#region(No.1~4,close)			
+No.1~4
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|1/2|&color(#8da0b6){新年雑談}|
+|2|1/9|&color(#8da0b6){喉が死んだ。ただいま}|
+|3|1/16|&color(#8da0b6){復帰します。配信の仕方おしえてください。}|
+|4|1/20|&color(#8da0b6){久しぶりの早番ヒーロー！！}|
+#endregion(No.1~4)
+
+&big(){&color(#0000ff){2024年03月}}
+#region(No.1~3,close)			
+No.1~3
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|3/29|&color(#8da0b6){そういえばカインって友達いるの？ （少しだけヒーローからのカイン）}|
+|2|3/30|&color(#8da0b6){少しだけヒーロー カインもやる！（絶対）}|
+|3|3/31|&color(#8da0b6){もう４月なるってまじ？}|
+#endregion(No.1~3)
+
+&big(){&color(#0000ff){2024年04月}}
+#region(No.1~4,close)			
+No.1~4
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|4/7|&color(#8da0b6){もう４月なるってまじ？（ヒーローからのカイン）}|
+|2|4/9|&color(#8da0b6){ヒーローからのカイン}|
+|3|4/11|&color(#8da0b6){思い出と再会}|
+|4|4/20|&color(#8da0b6){久々ヒーロー！}|
+#endregion(No.1~4)
+
+&big(){&color(#0000ff){2024年05月}}
+#region(No.1~3,close)			
+No.1~3
+#table_filter(){No=show,day=show,リンク=show}
+|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+|1|5/19|&color(#8da0b6){少しだけヒーロー。ただいま}|
+|2|5/23|&color(#8da0b6){MOZU カイン シマ取りと???（不動産おじさん）}|
+|3|5/27|&color(#8da0b6){救急隊ヒーロー！}|
+#endregion(No.1~3)
+
+//&big(){&color(#0000ff){2024年07月}}
+//#region(No.1~15,close)			
+//No.1~15
+//#table_filter(){No=show,day=show,リンク=show}
+//|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+//|1|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|2|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|3|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|4|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|5|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|6|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|7|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|8|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|9|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|10|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|11|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|12|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|13|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|14|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|15|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//#endregion(No.1~15)
+
+//&big(){&color(#0000ff){yyyy年mm月}}
+//#region(No.1~15,close)			
+//No.1~15
+//#table_filter(){No=show,day=show,リンク=show}
+//|BGCOLOR(#0026B8):COLOR(White):No|BGCOLOR(#0026B8):COLOR(White):day|BGCOLOR(#0026B8):COLOR(White):リンク|h
+//|1|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|2|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|3|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|4|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|5|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|6|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|7|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|8|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|9|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|10|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|11|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|12|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|13|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|14|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//|15|/|&font(#a970ff){&icon_fa(fa-brands fa-twitch)}&space(1)[[>>]]|
+//#endregion(No.1~15)
+**切り抜き動画
+****切り抜き動画
+#region(open)
+#table_color(#6283C2)
+| &color(#FFFFFF){＃}|&color(#FFFFFF){Live配信日}|&color(#FFFFFF){動画タイトル(youtube)}|備考|H
+|＃1|2023/10/22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】救急隊訓練コースで暴走する椎名苺を見守る先輩たち【赤髪のとも/椎名唯華/まぐなむ/ユッカ】>>https://youtu.be/03mS9rglorw]]||
+|＃2|10/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】ヴァン・ダーマー(ギャングのボス)に誘拐されるもセクハラで対抗するヒーローｗｗ【番長/二十日ネル/ユッカ】>>https://youtu.be/xVOns_vGfJk]]||
+|＃3|10/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】がみとも先輩やプスカ大佐に闇のゲームを仕掛けてみたｗｗ【赤髮のとも/中村悠一/ストグラ救急隊/ユッカ】>>https://youtu.be/1nFMB3953sg]]||
+|＃4|11/4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】見ただけで爆笑してしまう"偽"雷堂ましろに変身するヒーローwww【空衣御侍/ユッカ/ストグラ救急隊/天ノぷら子】>>https://youtu.be/nHPmYB92-SE]]||
+|＃5|11/4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】救急隊で闇のゲームを開催したらイカサマが発覚したww【赤兎がみとも/澄乃ミレイ/中村悠一/ストグラ救急隊/ユッカ】>>https://youtu.be/tlBmq3swcaY]]||
+|＃6|11/18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】最恐のドラえもん集団で大騒動を起こしてみた【タシロカワセ/キラ・メキーラ/雷堂ましろ/ストグラ救急隊/ユッカ】>>https://youtu.be/SR_Zb8AO7Ec]]||
+|＃7|11/4, 10/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】澄乃ミレイや二十日ネルたちを巻き込みまくるヒーローww 【ヴァンダーマー/花芽すみれ/雷堂ましろ/ストグラ救急隊/ユッカ】>>https://youtu.be/LS3rEgkzdbo]]||
+|＃8|12/6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】テニス大会中に救急隊メンバーを煽りまくるヒーローww【雷堂ましろ/キラ・メキーラ/ストグラ救急隊/ユッカ】>>https://youtu.be/6hhJzrn6_OU]]||
+|＃9|12/7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】「絶対に飲んではいけない薬」を患者に処方する椎名苺【椎名唯華/雷堂ましろ/ユッカ/ストグラ救急隊】>>https://youtu.be/5DxfROBcF1o]]||
+|＃10|12/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】雷堂ましろと感動の再開を果たすも「鬼警官 - 二十日ネル」に逮捕されるヒーロー【空衣御侍/ユッカ/ストグラ救急隊】>>https://youtu.be/lekwCRkgBQ0]]||
+|＃11|2024/3/29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】受け継いだヒーローパワーで自滅する元難波の姿に爆笑する救急隊www【ユッカ/雷堂ましろ/空衣御侍/元難波芽久未/イナイロハ/ストグラ救急隊】>>https://youtu.be/gUk-jidDF-k]]||
+|＃12|3/31 (4/1)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】SPDイベントの前日に現れるヴァンダーマーに大慌てする救急隊【ユッカ/番田長介/赤髮のとも/赤兎がみとも/雷堂ましろ/ストグラSPD/ストグラ救急隊】>>https://youtu.be/Cl8ieqYNtTk]]|[[SPD>ストグラシャッフルパージデー]]|
+|＃13|3/31 (4/1)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】SPD開始直後にMOZUと救急隊の争いが勃発!! 本物の"ダーマー"を決める戦いが始まる 【ユッカ/ヴァンダーマー/番田長介/シャンクズ/ファン太/アドミゲス・ハン/SHAKA/釈迦】>>https://youtu.be/8WBezjqR_K4]]|[[SPD>ストグラシャッフルパージデー]]|
+|＃14|3/31 (4/1)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】やりたい放題の警察に激怒し警察署に乗り込む救急隊【ユッカ/ヴァンダーマー/番田長介/なしまかな/ウェスカー/叶/ストグラ救急隊】>>https://youtu.be/JYChA5S_uBU]]|[[SPD>ストグラシャッフルパージデー]]|
+|＃15|3/31 (4/1)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】部下をロケランでお仕置きするヴァンダーマーに爆笑するユッカ【番長/番田長助/ストグラ救急隊/ストグラ切り抜き】>>https://youtu.be/e3I3Z1JNteY]]|[[SPD>ストグラシャッフルパージデー]]|
+|＃16|3/31 (4/1)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】マクドナルドに連行される二十日ネルを容赦なく見捨てるヒーロー【ユッカ/ライト/ストグラ切り抜き/ストグラ警察/ストグラ救急隊】>>https://youtu.be/DJXCGOQDGEg]]|[[SPD>ストグラシャッフルパージデー]]|
+|＃17|3/31 (4/1)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】ストグラ史上最高の瞬間!!ウェスカーの「空中キャッチ」に感動するヒーロー【餡ブレラ/ごっちゃん@マイキー/ストグラSPD/ユッカ】>>https://youtu.be/N5SSDEinNmo]]|[[SPD>ストグラシャッフルパージデー]]|
+|＃18|4/7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】お互いのキス事情で盛り上がる救急隊の日常www【ユッカ/雷堂ましろ/空衣御侍/キラ・メキーラ/煌イヴ/ノビー ラング/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/4JvBDEtcWHk]]||
+|＃19|4/9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】死神の力を失って飛べなくなってしまったりゅーぷに翼を授けるヒーローwww【ユッカ/中村悠一/ぺいんと/伊藤ぺいん/プスカ大佐/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/VVJRYHAwnmk]]||
+|＃20|4/9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】雑談中にまさかの形で衛生民の攻撃を食らう救急隊ww【ユッカ/中村悠一/空衣御侍/雷堂ましろ/プスカ大佐/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/JTK8oZkeGdc]]||
+|＃21|3/29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】店で最低な行動をするヒーローに怒りが爆発する焦月ツルギ【ユッカ/柊ツルギ/空衣御侍/雷堂ましろ/切嘛/切間てつお/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/BosxoQA37o4]]||
+|＃22|3/29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】救急隊と警察が見守る中、二十日ネルと大波乱のデートを繰り広げるヒーロー【ユッカ/雷堂ましろ/天羽よつは/赤ちゃんキャップ/なずぴ/MONDO/さぶ郎/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/7b-pTg47VKM]]||
+|＃23|3/29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】赤兔がみともの前でダイヤモンドを歌い大騒ぎする救急隊ww【ユッカ/赤髮のとも/空衣御侍/ももみ/雷堂ましろ/ぺいんと/ろぜっくぴん/葉風邪ナイ/ノビー/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/BddDqgeu7Vg]]||
+|＃24|4/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】ボクシング大会で最弱王になったヒーローを煽りまくるネズ【ユッカ/中村悠一/プスカ大佐/雷堂ましろ/たえこ/揚物ころも/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/7xWEVKwoMlY]]||
+|＃25|4/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】病院に訪れた魂全員でリアル筋トレをして死にかける救急隊www【ユッカ/煌イヴ/空衣御侍/雷堂ましろ/キラメキーラ/ひのらん/れう/ろぜっくぴん/たえこ/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/3PSNNJIyZ5E]]||
+|＃26|4/20, 3/30, 4/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】幻覚が見える毒キノコを食べて絶叫する救急隊ww【ユッカ/命田守/空衣御侍/煌イヴ/ももみ/雷堂ましろ/キラメキーラ/星野ももあ/タラちゃん/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/31J2S6oqcSU]]||
+|＃27|3/29, 3/31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】ヒーローパワーで自滅しまくる救急隊と警察の1日がヤバいww【ユッカ/赤髮のとも/空衣御侍/SHAKA/Nqrse/成瀬カニ/ぺいんと/雷堂ましろ/ツルギ/うさぎさん/ストグラ切り抜き】>>https://youtu.be/ESa8c1KBdqw]]||
+|＃28|4/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】救急隊の危機!? 不快な物まねをする偽物にマジ切れする隊長【ユッカ/空衣御侍/夢咲刻夜/雷堂ましろ/命田守/元難波芽久美/ストグラ救急隊/ストグラ切り抜き】>>https://youtu.be/GrBG9E3TyJs]]||
+|＃29|3/30, 4/9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】女をめぐって対立し地獄のホッケー対決を繰り広げる2人www【ユッカ/空衣御侍/ギルくん/獅子堂あかり/雷堂ましろ/星野ももあ/ケインオー/絲依とい/兎依とい/猫魚あかり/ストグラ救急隊】>>https://youtu.be/UQ3v-dWV8g4]]||
+|＃30|3/31, 4/9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】誘拐された葉風邪ナイをウェスカーから取り戻し大盛り上がりする救急隊【ユッカ/赤髮のとも/ごっちゃんマイキー/中村悠一/プスカ大佐/空衣御侍/雷堂ましろ/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/CxYjijy3u60]]||
+|＃31|3/31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】誘拐されたドングリのメンケアや好きな寿司ネタで大爆笑する救急隊ww【ユッカ/赤髮のとも/Ottiki/わきを/赤兎がみとも/空衣御侍/雷堂ましろ/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/B6VU14DBAHE]]||
+|＃32|3/31, 4/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】たまたま立ち寄った奇肉屋でデビルひとし(ネズ)の極上サービスを受ける救急隊ww【ユッカ/中村悠一/プスカ大佐/赤髮のとも/空衣御侍/雷堂ましろ/命田守/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/h_nkBPGc_Ko]]||
+|＃33|4/9, 4/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】「あの街」で貰った思い出の車を再現するヒーロー【ユッカ/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/s-o5LC8xlaY]]||
+|＃34|5/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】激痩せしたヒーローを心配する救急隊!! ストグラRPLの思い出を語る【ユッカ/空衣御侍/雷堂ましろ/煌イヴ/キラメキーラ/ましゃかり/赤ちゃんキャップ/ストグラ救急隊/ストグラ切り抜き】>>https://youtu.be/SqXa1-x54yE]]||
+|＃35|5/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】一同ドン引き!? 完全にアウトな2人を牢獄にぶち込む救急隊【ユッカ/空衣御侍/煌イヴ/キラメキーラ/雷堂ましろ/ましゃかり/赤ちゃんキャップ/しょうじ/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/vrO4dkkBNqM]]||
+|＃36|5/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】彼女"二十日ネル"のミドルネームを伊藤ぺいんから聞き唖然とするヒーロー【ユッカ/ぺいんと/空衣御侍/煌イヴ/キラメキーラ/雷堂ましろ/ましゃかり/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/qt1hxwcUwBQ]]||
+|＃37|5/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】映画「変な家」完全再現!? まさかの雨穴がストグラで不動産対応!!【ユッカ/真澄せんの/青梅つばめ/ヒーロー/不動産ミステリー/ストグラ切り抜き】>>https://youtu.be/oS2ujN_9YMg]]||
+|＃38|5/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】救世主誕生!? 営業をしまくるも家が1件も売れず絶望するヒーロー【ユッカ/みこだよう/柊ツルギ/焦月ツルギ/バーバリアン田中/赤ちゃんキャップ/ましゃかり/MOZU/ストグラ切り抜き】>>https://youtu.be/XTM0fciAYWw]]||
+|＃39|5/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】まさかの展開!? 10億円の戦闘機をゴミ認定されショックを受けるヒーローww【ユッカ/赤髮のとも/空衣御侍/ももみ/雷堂ましろ/こるぺん/鳥野ぎん/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/0MiWuP52YUE]]||
+|＃40|5/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】性能が最悪の「10億のゴミ」に乗ってダウンしまくる救急隊w【ユッカ/星野ももあ/煌イヴ/キラメキーラ/空衣御侍/ももみ/雷堂ましろ/こるぺん/鳥野ぎん/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/4KPwbEOKv5o]]||
+|＃41|5/23, 5/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】BAN宣告!? ラインギリギリの変態2人に絶叫する救急隊wwww【ユッカ/赤髮のとも/空衣御侍/ももみ/雷堂ましろ/こるぺん/鳥野ぎん/アマル/安城成/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/L028A4TKVJ8]]||
+|＃42|5/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】ハンバーガーヘイストで泥酔中の星野ももあを爆笑しながら介護する救急隊ww【ユッカ/赤髮のとも/空衣御侍/ももみ/雷堂ましろ/こるぺん/鳥野ぎん/ノビー/ストグラ切り抜き/ストグラ救急隊】>>https://youtu.be/z5W5uuo7Lgs]]||
+#endregion
+
+****ショート
+#region(open)
+#table_color(#6283C2)
+| &color(#FFFFFF){＃}|&color(#FFFFFF){動画タイトル(youtube)}|備考|H
+|＃1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】椎名苺のヘリ運転中に指示を出しまくる嫌なヒーロー #shorts 【赤髪のとも/椎名唯華/まぐなむ/ユッカ】>>https://www.youtube.com/shorts/a1DQjqnEcuw]]||
+|＃2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】ヴァン・ダーマご用達の個人医にセクハラする人質w #shorts 【番長/二十日ネル/ユッカ】>>https://www.youtube.com/shorts/h9OR5FViBms]]||
+|＃3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】ヴァン・ダーマ(ギャングのボス)に捕まり、恋人に助けを求めるも見放されるヒーロ― #shorts 【番長/二十日ネル/ユッカ】>>https://www.youtube.com/shorts/m3MrUc1r7qg]]||
+|＃4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】がみとも先輩やプスカ大佐に闇のゲームを仕掛けるヒーロー #shorts 【赤髮のとも/中村悠一/ストグラ救急隊/ユッカ】>>https://www.youtube.com/shorts/CJ2JS4xxEKY]]||
+|＃5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】救急隊に次々と闇のゲームを仕掛けるヒーローｗｗ #shorts 【救急隊】【おかちめんこゲーム】 >>https://www.youtube.com/shorts/uQX85VyEjA0]]||
+|＃6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】雷堂ましろに変身して、市民や救急隊を惑わすヒーローwww【空衣御侍/ユッカ/ストグラ救急隊/天ノぷら子】>>https://www.youtube.com/shorts/StTjOhg2Evc]]||
+|＃7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】偽物の雷堂ましろの顔を見て、思わず大爆笑する救急隊ｗｗ【空衣御侍/ユッカ/ストグラ救急隊/天ノぷら子】>>https://www.youtube.com/shorts/7vig12J_i1c]]||
+|＃8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】意思疎通ゲームで珍解答を連発する救急隊www【赤兎がみとも/澄乃ミレイ/中村悠一/ストグラ救急隊/ユッカ】>>https://www.youtube.com/shorts/5ffGRigEgvM]]||
+|＃9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】救急隊で２度目の闇のゲームを開催するヒーローｗｗ【赤兎がみとも/澄乃ミレイ/中村悠一/ストグラ救急隊/ユッカ】>>https://www.youtube.com/shorts/WySniaHuAII]]||
+|＃10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】いつの間にかタケコプターから落下してたのび太を迎えに行くドラえもんとジャイアン【タシロカワセ/キラ・メキーラ/雷堂ましろ/ストグラ救急隊/ユッカ】>>https://www.youtube.com/shorts/VIzqBm2dbDY]]||
+|＃11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】嵐のような勢いで各地を回る恐怖のドラえもん軍団がやばい【タシロカワセ/キラ・メキーラ/雷堂ましろ/ストグラ救急隊/ユッカ】>>https://www.youtube.com/shorts/qSEbx2j1sWY]]||
+|＃12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】鳥野ぎんを野球に誘うジャイアン(ヒーロー)【タシロカワセ/キラ・メキーラ/雷堂ましろ/ストグラ救急隊/ユッカ】>>https://www.youtube.com/shorts/yxfvCbV0WuA]]||
+|＃13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】炙りカルビゲームで数が数えられなくなる澄乃ミレイ【花芽すみれ/雷堂ましろ/ストグラ救急隊/ユッカ】>>https://www.youtube.com/shorts/5NK1qdBiVWI]]||
+|＃14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】エモートを巧みに使い救急隊メンバーを煽りまくるヒーロー【雷堂ましろ/キラ・メキーラ/ストグラ救急隊/ユッカ】>>https://www.youtube.com/shorts/W8IGsGLnBS8]]||
+|＃15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】テニスで点を入れる度に煽ってくるヒーローを逆手に取るキラ・メキーラ【雷堂ましろ/煌イヴ/伊藤カテジ/ストグラ救急隊/ユッカ】>>https://www.youtube.com/shorts/gzEPWdWomiY]]||
+|＃16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】救急隊に「飲んだ人が〇〇になる悪魔の薬」を飲ませるヒーロー【雷堂ましろ/ももみ/鳥野ぎん/命田守/椎名苺/ストグラ救急隊/ユッカ】>>https://www.youtube.com/shorts/zA1JNPYtmDI]]||
+|＃17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】隊長のイケボに昇天する伊藤カテジww【命田守/椎名苺/ももみ/ユッカ/ストグラ救急隊】>>https://www.youtube.com/shorts/Pg545361Mbc]]||
+|＃18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】セクハラを絶対に許さない二十日ネル【空衣御侍/雷堂ましろ/ユッカ/ストグラ救急隊】>>https://youtube.com/shorts/TbWJYyLFDN8]]||
+|＃19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】最強のはずのヒーローパワーで自滅する元難波の姿に爆笑する救急隊www【ユッカ/雷堂ましろ/空衣御侍/元難波芽久未/イナイロハ/ストグラ救急隊】>>https://youtube.com/shorts/U-A_UxZbKtc]]||
+|＃20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】SPDイベントの前日に現れるヴァンダーマーに言葉を失うヒーロー【ユッカ/番田長介/赤髮のとも/赤兎がみとも/雷堂ましろ/ストグラSPD/ストグラ救急隊】>>https://youtube.com/shorts/BBHdJ7Sofjo]]|[[SPD>ストグラシャッフルパージデー]]|
+|＃21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】セクハラが原因でMOZUと構想になるヴァンダーマー院長に手を焼くヒーロー【ユッカ/番田長介/シャンクズ/ファン太/アドミゲス・ハン/SHAKA/釈迦】>>https://youtube.com/shorts/j-WkWJ8SEv8]]|[[SPD>ストグラシャッフルパージデー]]|
+|＃22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】やらかした部下をロケランで教育するヴァンダーマーに爆笑するユッカ【番長/番田長助/ストグラ救急隊/ストグラ切り抜き】>>https://youtube.com/shorts/OFBDqoDI0no]]|[[SPD>ストグラシャッフルパージデー]]|
+|＃23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】マクドナルドに連行される二十日ネルを見捨てるヒーローww【ユッカ/ライト/ストグラ切り抜き/ストグラ警察/ストグラ救急隊】>>https://youtube.com/shorts/63BCN4EAk5s]]|[[SPD>ストグラシャッフルパージデー]]|
+|＃24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】ウェスカーの「空中キャッチ」に感動するヒーロー【餡ブレラ/ごっちゃん@マイキー/ストグラSPD/ユッカ/ストグラ救急隊】>>https://youtube.com/shorts/3kWk8H9LwX8]]|[[SPD>ストグラシャッフルパージデー]]|
+|＃25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】力を失った死神りゅーぷに翼を授けるヒーローwww【ユッカ/中村悠一/ぺいんと/伊藤ぺいん/プスカ大佐/ストグラ切り抜き/ストグラ救急隊】>>https://youtube.com/shorts/hLdFF0_sJV4]]||
+|＃26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】最低な行動をするヒーローを叱る焦月ツルギww【ユッカ/柊ツルギ/ストグラ切り抜き/】>>https://youtube.com/shorts/jIwfHtuZGf4]]||
+|＃27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】赤兔がみともを魂大貫通でいじりまくる救急隊【ユッカ/赤髮のとも/空衣御侍/ももみ/雷堂ましろ/ぺいんと/ろぜっくぴん/葉風邪ナイ/ノビーストグラ切り抜き/ストグラ救急隊】>>https://youtube.com/shorts/BInJ0CwdhdE]]||
+|＃28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】キノコの侵略から逃げ惑う救急隊ww【ユッカ/命田守/空衣御侍/煌イヴ/ももみ/雷堂ましろ/キラメキーラ/星野ももあ/タラちゃん/ストグラ切り抜き/ストグラ救急隊】>>https://youtube.com/shorts/puV-cUvPo38]]||
+|＃29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】毒キノコを食べておかしくなってしまった救急隊の隊長ww【ユッカ/命田守/空衣御侍/煌イヴ/ももみ/雷堂ましろ/ストグラ切り抜き/ストグラ救急隊】>>https://youtube.com/shorts/jDtuutgXY6k]]||
+|＃30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】ヒーローパワーで〇にまくる救急隊と警察ww【ユッカ/赤髮のとも/空衣御侍/SHAKA/Nqrse/成瀬カニ/ぺいんと/雷堂ましろ/ツルギ/うさぎさん/ストグラ切り抜き】>>https://youtube.com/shorts/rpP3IfvSk_c]]||
+|＃31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】不快な物まねをする偽物にマジ切れする隊長【ユッカ/空衣御侍/夢咲刻夜/雷堂ましろ/命田守/元難波芽久美/ストグラ救急隊/ストグラ切り抜き】>>https://youtube.com/shorts/onNtym2f3o0]]||
+|＃32|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】誘拐された葉風邪ナイをウェスカーから取り戻すヒーロー」【ユッカ/赤髮のとも/ごっちゃんマイキー/空衣御侍/雷堂ましろ/ストグラ切り抜き/ストグラ救急隊】>>https://youtube.com/shorts/s_JfQuOKhII]]||
+|＃33|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】誘拐されたドングリのメンタルケアをする救急隊ww【ユッカ/赤髮のとも/Ottiki/わきを/赤兎がみとも/空衣御侍/雷堂ましろ/ストグラ切り抜き/ストグラ救急隊】>>https://youtube.com/shorts/-pNyE1YZZ5Y]]||
+|＃34|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】好きな寿司ネタで喧嘩する救急隊www【ユッカ/赤髮のとも/Ottiki/わきを/赤兎がみとも/空衣御侍/雷堂ましろ/ストグラ切り抜き/ストグラ救急隊】>>https://youtube.com/shorts/f2nMs6TTOJs]]||
+|＃35|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】奇肉屋でデビルひとし(ネズ)の極上サービスを受ける救急隊ww【ユッカ/中村悠一/プスカ大佐/赤髮のとも/空衣御侍/雷堂ましろ/命田守/ストグラ切り抜き/ストグラ救急隊】>>https://youtube.com/shorts/Rxl8IInZtDw]]||
+|＃36|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】「あの街」で貰った思い出の車を再現するヒーロー【ユッカ/ストグラ切り抜き/ストグラ救急隊】>>https://youtube.com/shorts/zTt_ydBMHUw]]||
+|＃37|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】鳥野ぎんの戦闘機で奇跡の脱出劇をみせるヒーローww【ユッカ/赤髮のとも/空衣御侍/ももみ/雷堂ましろ/こるぺん/鳥野ぎん/ストグラ切り抜き/ストグラ救急隊】>>https://youtube.com/shorts/ZPJreaz-Jq8]]||
+|＃38|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】性能が最悪の「10億のゴミ」に乗ってダウンしまくる救急隊w【ユッカ/星野ももあ/煌イヴ/キラメキーラ/空衣御侍/ももみ/雷堂ましろ/こるぺん/鳥野ぎん/ストグラ切り抜き】>>https://youtube.com/shorts/cDOmXtt34VY]]||
+|＃39|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】ラインギリギリの変態2人に絶叫する救急隊wwww【ユッカ/赤髮のとも/空衣御侍/ももみ/雷堂ましろ/こるぺん/鳥野ぎん/アマル/安城成/ストグラ切り抜き/ストグラ救急隊】>>https://youtube.com/shorts/yoAg3yhPfc0]]||
+#endregion
+#right(){
+&link_anchor(目次){△目次へ}
+}

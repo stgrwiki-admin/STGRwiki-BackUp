@@ -1,0 +1,137 @@
+//
+//親ページが容量オーバーになった為ページを分けました
+//
+//✼••━━━━━━━━━━━━━━━━━━━━━━━━━••✼
+//【アーカイブ テンプレート】
+//
+//■1日追加する場合
+//「//」を省く以下の行をコピペ、●の日付と【】部分を記載して下さい(該当項目が無い場合は削除)
+//
+//|26/●●/●●|【タイトル】|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>【(ツイッチのURL】]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>【ユーチューブのURL(?si＝以降は省略可)】]]|【主なエピソード】|【備考】|
+//
+//※テーブルが崩れた場合→『|』を削除している可能性あり(現在1日毎1行6項目)
+//※リンクが付かない・うまく飛べない場合→『[]・>>・{}』を削除している可能性あり
+//※文字数削減の為、各配信タイトルの「〇〇日目」と「副題」以外は省略してあります
+//※YouTubeはアーカイブに移行・公開後にリンクを追加して下さい(修正・非公開等可能性がある為)
+//
+//■新しい月を追加する場合
+//・前月からテーブル等コピペ・編集してご利用ください
+//・前月の#regionと#endregion内に最終日の～#〇〇〇(〇〇〇日目)を追記してください
+//・最新配信月の#regionのみ「,open」にし、常時開いている設定にして下さい
+//・末尾の//の下、#endregion(2026年)は年全体を畳む為のコードですのでそのままにして下さい
+//✼••━━━━━━━━━━━━━━━━━━━━━━━━━••✼
+//
+//┎━━━━━━━━━━━━━━━━━━━━━━━━┒
+//　　　　　2025年/12月　武器商人編
+//┖━━━━━━━━━━━━━━━━━━━━━━━━┚
+***&u(){&icon_fa(fa fa-person-rifle)武器商人編}
+***&size(18){&color(#9aff36){■} &bold(){2025年}}
+#region(開く)
+#region(1日目～7日目 2025年/12月)
+#table_style(head=#acfa2f){配信タイトル=12px,Twitch=center,YouTube=center,主なエピソード=12px,備考=12px}
+|CENTER:~配信日|CENTER:~配信タイトル|CENTER:~Twitch|CENTER:~YouTube|CENTER:~主なエピソード|CENTER:~備考|h
+|25/12/19|新しい世界 1日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2647687203]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/T6bg3fVnjbA]]|||
+|25/12/24|移動手段を入手しないと 2日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2651893879]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/lp0WNEOBiLs]]|||
+|25/12/25|Gunsmith 3日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2652551684]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/XYCv3lyeeTc]]|||
+|25/12/26|少しずつ 4日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2653270479]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/BI8JJguJ2Wo]]|||
+|25/12/27|裏社会の始まり 5日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2654085506]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/MDjMmBj3AXQ]]|||
+|25/12/28|裏社会の広がり 6日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2654927696]]|-||※&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|25/12/31|ブラックマネー問題 7日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2657484487]]|-||※&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し (31日-1日年越しサーバー解放の為同日扱い)|
+
+#endregion(1日目～7日目 2025年/12月)
+#endregion(2025年/武器商人編)
+//┎━━━━━━━━━━━━━━━━━━━━━━━━┒
+//　　　　　2026年/01月　武器商人編
+//┖━━━━━━━━━━━━━━━━━━━━━━━━┚
+***&size(18){&color(#9aff36){■} &bold(){2026年}}
+#region(開く)
+#region(07日目～27日目 2026年/01月)
+#table_style(head=#acfa2f){配信タイトル=12px,Twitch=center,YouTube=center,主なエピソード=12px,備考=12px}
+|CENTER:~配信日|CENTER:~配信タイトル|CENTER:~Twitch|CENTER:~YouTube|CENTER:~主なエピソード|CENTER:~備考|h
+|26/01/01|あ、あけおめ 7日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2657886772]]|-|早朝起床・新年の挨拶・ファームをし眠さの限界に達して1度就寝|&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し (31日-1日年越しサーバー解放の為同日扱い)|
+|26/01/01|あ、あけおめ 7日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2658153434]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/jjgKmGzkEx0]]||&font(#DA1725){&icon_fa(fa fa-youtube-play)}Twitchの4時間11分後～配信開始(31日-1日年越しサーバー解放の為同日扱い)|
+|26/01/02|銃の在庫が 8日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2659040755?t=01h57m19s]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/g8yOjX21CTc]]||&font(#6441A4){&icon_fa(fa fa-twitch)}01:57:19～メインタイトル：利用規約に同意しとく|
+|26/01/03|武器屋として 9日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2659954041]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/UrJwtAY-PwE]]||&font(#DA1725){&icon_fa(fa fa-youtube-play)}Twitchの11分後～配信開始|
+|26/01/04|踊り躍らせ 10日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2660859541]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/XgfoDYcJkvQ]]|||
+|26/01/09|11日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2665176188]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/TY1rZ6N7rNs]]|||
+|26/01/10|ファーム(実質12日目)|-|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/xe3I-atpyec]][[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/VY9uIyoRFaI]]||&font(#DA1725){&icon_fa(fa fa-youtube-play)}メン限only配信・&font(#6441A4){&icon_fa(fa fa-twitch)}ライブ配信無し（同日枠取り直しのため2枠）|
+|26/01/11|12日目(実質13日目)|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2667064325]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/AzX70gs1L8A]]||YouTubeタイトルは「13日目」|
+|26/01/14|13日目(実質14日目)|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2669675807]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/U9hruYs1d2o]]||YouTubeタイトルは「14日目」|
+|26/01/15|15日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2670543660]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/BwbCs7xy6GU]]|||
+|26/01/16|16日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2671479958]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/SbQE7U-WZwo]]|||
+|26/01/17|17日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2672342804]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/ASaMknrPLws]]|||
+|26/01/18|武器 18日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2673299758]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/keQk6RM-nsE]]|||
+|26/01/22|手段を与えるもの 19日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2676100858]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/01/22|bukiyadayo 20日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2676882109]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/OEFlqqwN3cw]]|||
+|26/01/23|探し求める 21日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2677715342]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/mB0A4X6iVxU]]|チンチロ富豪・ダーティーレースに出資・街の進展(クラフト・薬オジ)・初犯逮捕|&font(#DA1725){&icon_fa(fa fa-youtube-play)}Twitchの29分後～配信開始|
+|26/01/24|？ 22日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2678666803]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/fUyXqSogtG0]]|わんも～カフェ短期バイト開始・クラフト&素材の進展・紙の入手・ろぎあさん占い||
+|26/01/25|裏の仕事 23日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2679665341]][[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2679670287]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/m5btIu_wIyk]]||&font(#6441A4){&icon_fa(fa fa-twitch)}同日枠取り直しの為2枠|
+|26/01/29|おそばん 24日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2682566574]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/01/29|鉄＠無限 25日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2683302287]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/WQRwuGNc538]]|||
+|26/01/30|銅＠無限 26日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2684175718]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/qK5mUxMrcpQ]]|||
+|26/01/31|キャパ 27日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2685107888]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/tHC2_xzYIAs]]|||
+
+#endregion(07日目～27日目 2026年/01月)
+//┎━━━━━━━━━━━━━━━━━━━━━━━━┒
+//　　　　　2026年/02月　武器商人編
+//┖━━━━━━━━━━━━━━━━━━━━━━━━┚
+#region(28日目～42日目 2026年/02月)
+#table_style(head=#acfa2f){配信タイトル=12px,Twitch=center,YouTube=center,主なエピソード=12px,備考=12px}
+|CENTER:~配信日|CENTER:~配信タイトル|CENTER:~Twitch|CENTER:~YouTube|CENTER:~主なエピソード|CENTER:~備考|h
+|26/02/01|28日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2686075939]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/3IGSE2p4vWg]]|||
+|26/02/04|29日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2688695486]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/xAo3A4_RMeQ]]|||
+|26/02/05|ひと月 30日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2689554730]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/DbzxbqT8EoU]]|||
+|26/02/06|よし！ 31日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2690490219]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/iu54d4Iu8ZM]]|||
+|26/02/07|早めに帰ってこれた！ 32日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2691441023]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/02/08|！ 33日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2692287895]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/fcNVpt3dfcE]]|||
+|26/02/11|短め！ 34日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2694838786]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/02/15|ちょっとお知らせ！ 35日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2698341004?t=00h20m09s]]|-||&font(#6441A4){&icon_fa(fa fa-twitch)}00:20:09～開始・&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/02/18|36日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2701006602]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/02/19|37日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2701976861]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/02/20|38日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2702736711]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/hNzr7d45xVA]]||&font(#DA1725){&icon_fa(fa fa-youtube-play)}Twitchの1時間26分後～配信開始|
+|26/02/21|39日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2703648981]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/02/22|40日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2704587706]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/RoXM6BhbQ2A]]|||
+|26/02/26|41日目|&font(#6441A4){&icon_fa(fa fa-twitch)}||||
+|26/02/27|42日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2709019774]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+
+//（アーカイブ完了後公開）41日目 youtubeライブ配信リンク[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/1_UwaLyI93g]]
+
+
+#endregion(28日目～42日目 2026年/02月)
+#endregion(2026年/武器商人編)
+//┎━━━━━━━━━━━━━━━━━━━━━━━━┒
+//　　　　　2026年/03月　武器商人編～半グレ編
+//┖━━━━━━━━━━━━━━━━━━━━━━━━┚
+***&u(){&icon_fa(fa-solid fa-people-robbery)半グレ編}
+***&size(18){&color(#9aff36){■} &bold(){2026年}}
+#region(開く,open)
+#region(43日目～51日目 2026年/03月,open)
+#table_style(head=#acfa2f){配信タイトル=12px,Twitch=center,YouTube=center,主なエピソード=12px,備考=12px}
+|CENTER:~配信日|CENTER:~配信タイトル|CENTER:~Twitch|CENTER:~YouTube|CENTER:~主なエピソード|CENTER:~備考|h
+|26/03/01|43日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2710900907]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/03/04|44日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2713490414]]|-||～03：06：22迄（後半ソロAPEX） &font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/03/05|45日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2714365910]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/03/07|46日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2716089464]]|-||～02：28：52迄（後半ソロAPEX） &font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/03/11|46日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2719484080]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/03/13|47日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2720473470]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/03/14|堕夜だよに未来はあるのか。 48日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2722136827]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/03/20|やることやったらねます。 49日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2727181979]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/03/25|堕夜だよは生きる。 50日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2731328088]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/zp1Pz0XMkEE]]||～04：21：08迄(後半コラボAPEX(&font(#DA1725){&icon_fa(fa fa-youtube-play)}は途中まで))|
+|26/03/26|ボクシング。最高速度でぶち抜いたる！ 51日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2732188972]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/EoyEEgwRqEo]]||&font(#DA1725){&icon_fa(fa fa-youtube-play)}Twitchの41分後～配信開始|
+
+#endregion(43日目～51日目 2026年/03月)
+//┎━━━━━━━━━━━━━━━━━━━━━━━━┒
+//　　　　　2026年/04月　半グレ編
+//┖━━━━━━━━━━━━━━━━━━━━━━━━┚
+#region(52日目～日目 2026年/04月,open)
+#table_style(head=#acfa2f){配信タイトル=12px,Twitch=center,YouTube=center,主なエピソード=12px,備考=12px}
+|CENTER:~配信日|CENTER:~配信タイトル|CENTER:~Twitch|CENTER:~YouTube|CENTER:~主なエピソード|CENTER:~備考|h
+|26/04/04|52日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2739648670]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/04/11|53日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2745409759]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/04/17|54日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2750230895]]|-||～02：53：01迄（後半コラボシージ） &font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/04/22|55日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2754220021]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+|26/04/25|56日目|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2756615927]]|-||&font(#DA1725){&icon_fa(fa fa-youtube-play)}ライブ配信無し|
+
+#endregion(52日目～日目 2026年/04月)
+//
+#endregion(2026年/半グレ編)

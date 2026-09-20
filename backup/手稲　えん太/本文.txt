@@ -1,0 +1,399 @@
+//
+//えん太のイメージに近いような編集を心がけていますので、ご協力下さればと思います。
+//時折情報精査をさせていただいていますので、特に必要のない項目や本人に関係の無いものは編集をさせていただく可能性があります。
+//wikiの決まりに沿って編集をしているものに関しては、必要項目でない限り編集・削除をさせていただきますのでご了承下さい。
+//タグに関してですが、ストグラとあまり関係のないものは推奨されていませんので場合によっては削除させていただきます、ご理解下さい。
+//
+&font(red){■ 観測者の皆様へ ■}
+より気持ち良く観測を続けるために、ストグラ運営からのお願いについて一読をお願い致します。
+-----------
+&font(20px,#6FC75A){＊}[[ストグラ運営より観測者へのお願い>>https://x.com/STGR_RolePlay/status/1612965702935384065?s=20]]
+&font(20px,#6FC75A){＊}[[ストグラを楽しむための大事な『おはし』>>https://x.com/STGR_RolePlay/status/2003707213563482224]]
+-----------
+#slide_img(width=290,height=580,position=left,auto=4){手稲えん太.png,
+手稲えん太_Season2.png}
+
+&font(b,#6FC75A,15px){「なにしろ、私は生粋のエンターテイナーですから」}
+&font(b,#6FC75A,15px){「ハッハッハッハッッ」}
+
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#97C5B0:#666:b:center)
+|~次元|~&icon_fa(fa fa-calendar)|BGCOLOR(#CCE7D3):~Season1|BGCOLOR(#CCE7D3):~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(ていな){手稲}　えん&ruby(た){太}|
+|~出身地|~&icon_fa(fa fa-map-marker)|>|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|1913年08月02日 (&countup(1913/08/02,y)歳)|
+|~転入日|~&icon_fa(fa fa-passport)|2024年01月07日 (&countup(2024/01/07,d)日)|2025年12月24日 (&countup(2025/12/24,d)日)|
+|~職業|~&icon_fa(fa fa-university)|>|叶わせ屋|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal)|>|@entertainer|
+|BGCOLOR(#CCE7D3):~プレイヤー|BGCOLOR(#CCE7D3):~&icon_fa(fa fa-address-card-o)|>|やみえん|
+|BGCOLOR(#CCE7D3):~告知等|BGCOLOR(#CCE7D3):~&icon_fa(fa fa-bullhorn)|>|&tt(){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>>https://twitter.com/Yamien_san]]|
+|BGCOLOR(#CCE7D3):~配信場所|BGCOLOR(#CCE7D3):~&icon_fa(fa-solid fa-tower-broadcast)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/c/Yamien]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yamien]]|
+|BGCOLOR(#CCE7D3):~公式切り抜き|BGCOLOR(#CCE7D3):~&icon_fa(fa fa-film)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/@Yamien_Kirinuki]]|
+|BGCOLOR(#CCE7D3):~アーカイブ|BGCOLOR(#CCE7D3):~&icon_fa(fa fa-video-camera)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UC0StoLq_smf2VO7iHrP-XFQ]]|
+
+#region(目次を開く,close)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+#region(叶わせ屋ポスター)
+&bold(){叶わせ屋ポスター}
+&blankimg(叶わせ屋ポスター.jpg,x=480,y=270)
+#endregion
+#region(叶わせ屋セリフガチャ一覧1)
+&bold(){叶わせ屋セリフガチャ一覧1}
+&blankimg(セリフガチャ一覧1.png,x=480,y=270)
+#endregion
+#region(叶わせ屋セリフガチャ一覧2)
+&bold(){叶わせ屋セリフガチャ一覧2}
+&blankimg(セリフガチャ一覧2.png,x=480,y=270)
+#endregion
+
+//----------------------------------------------
+*&font(21px,#97C5B0){基}&font(21px,#EAF4FC){本情報}&font(21px,#C7B2D6){&space()&icon_fa(fa fa-id-card-o)}
+>自称エンターテイナー。
+>人々の理想を叶える「叶わせ屋」という仕事をするべくロスサントスに訪れたうさんくさい男。
+>誰かの理想を叶えた際には金品は要求せず、感謝のみを要求する。
+#right(){（1日目概要欄より引用）}
+&font(20px,#6FC75A){＊}「叶わせ屋」を簡単に説明すると、参加型シチュエーションボイス屋さん。
+&font(20px,#C7B2D6){＊}相手に対し様付けをして丁寧な話口調をする、紳士的だと言われることもあれば、怪しまれたりもする。
+&font(20px,#6FC75A){＊}世界各地を移動しており、ヨーロッパにいた時には、何やら人には&openclose2(show=説明できない願い){：政治等の関係}を叶えたこともあるとか。
+&font(20px,#C7B2D6){＊}声が良いと言われる事が多く、人生相談をされる事も多々ある。
+&font(20px,#6FC75A){＊}悲劇も喜劇もエンターテイメントと思っている。
+&font(20px,#C7B2D6){＊}感謝で生きているというと、たまに化け物みたいだと言われる時がある。
+
+***&underdot(#6FC75A,3px){【感謝を欲する理由】}
+#region(開く,close)閉じる
+&font(20px,#6FC75A){＊}えん太の求める感謝は即ち誰かの心を奪うこと。
+&font(20px,#C7B2D6){＊}考えとして、心を奪われた人間はこの街では死んだも同然だとも言っている。
+#endregion
+
+-------------------------------------
+#div(width=123px,bgcolor=#97C5B0){&size(15){&space()&icon_fa(fa fa-file-text-o)&space()&bold(){叶わせ実績}}}
+#region(開く,open)閉じる
+#areaedit()
+▼ &bold(){Season1【2024】}
+&font(20px,#6FC75A){＊}『〇』は1のガチャ『◎』は2のガチャ、ガチャを元にした場合も表示。
+#region(1月)閉じる
+#table_style(head=center:#6FC75A){配信日=right,#=center}
+|~&color(#fff){配信日}|~&color(#fff){依頼者}|~&color(#fff){相手の役柄}|~&color(#fff){依頼内容}|~&color(#fff){役柄}|h
+|01/07 #1|アッコパス||優しく起こされたい|起こす人|
+|~|焦月ツルギ||幼馴染の女の子に駅構内で告白されるも電車の音でかき消され&br()『え、何て？』と聞き返す鈍感系主人公|女の子&br()電車|
+|~|ろぜ柳ぴん子||『ぴん子の部屋』の再現|新人俳優|
+|~|ネケニマス||先輩が先にお代を払っておいて&br()『ああ、お代ならいいよ、もう払っておいた』|後輩|
+|~|くまのふでこ||カジノで車が当たったことが&br()まるでわかっている風なナレーション|ナレーション|
+|~|葉風邪ナイ||探偵と助手（シャーロック・ホームズとワトソン風）|助手|
+|01/09 #2|タイキ||スカイダイビングしながら女の子に告白されるが&br()聞こえない鈍感系主人公|女の子|
+|~|安城成||初対面かと思っていたが実は6年ぶりに会った&br()喧嘩別れをした同級生で気まずくなるシチュ|同級生|
+|~|物忘レイナ||悪い男に口説かれてみたい|悪い男|
+|~|葵井優||猫カフェの猫が鳴かないので鳴き声が聞きたい|猫&br()その他動物|
+|~|ズズ||女の子と一緒に部屋でゲームをやってる時にすっごい&br()自然なタイミングで告白されて『え、何て？』と聞き返す&br()鈍感系主人公|女の子|
+|~|安倍霊明||『急急如律令』って言って欲しい||
+|~|焼野原ひろし||妻のフサエから褒められたい|フサエ|
+|01/11 #3|赤ちゃんキャップ||ジュラシックパークのマルコム博士の様に&br()『カオス理論だ』と言って欲しい|マルコム博士風|
+|~|淀川てるみ||『君ならやれる』と鼓舞されたい||
+|01/14 #4|成瀬力二||ミンドリーさんが言わなさそうな事（ミンドリーないない）|ミンドリー|
+|~|レッサンパンナ||海あるあるシチュが知りたい||
+|~|竹井勝痔||目の前で愛する人が死んでいく時に大声で泣き叫ぶシチュ|愛する人|
+|~|ペおシルヴァ&br()春原新&br()イネヌコ||猫の鳴き声が聞きたい|猫|
+|~|イネヌコ||猫が自分のこと好きかどうかを知りたい|猫|
+|~|ぎゃるみ||こんなギャルは嫌だ、どんな(ギャル)？||
+|~|ぎゃるみ&br()ラピスりお|&br()・彼女|彼氏にギックリ腰を労わってもらいたい|彼氏|
+|~|春原新||ギャルトークがしたい|ギャル|
+|01/17 #5|元難波芽久未||街案内してもらいたい||
+|~|まいにい&br()牧田ここな|&br()・被害者|無口で優しい傭兵になりたい|犯人|
+|~|ノアチェンバー||強めな目覚ましボイスが欲しい||
+|01/18 #6|近藤武蔵||『ずっと前からあなたの事が好きでした』が聞きたい&br()（低音ボイス）||
+|~|星野ももあ||自信がつく言葉が欲しい（年上爽やか系）||
+|~|タラちゃん||雀荘で麻雀打ってる途中店員さんに梅昆布茶を注文する&br()（フランク）|店員|
+|~|酒槻すん||ナイチンガールの理想なデートシチュが知りたい|02/06 #11 調査完了|
+|01/27 #7|無月レオ&br()イネヌコ&br()世風天みにゃ|・探偵&br()・エキストラ&br()・エキストラ|名探偵になって殺人事件の犯人を捕まえたい|犯人|
+|01/28 #9|鮫島フラム||こんなアイドルは嫌だ(どんなアイドル？)||
+|~|風見セオ||こんなVTuberは嫌だ(どんなVTuber？)||
+|~|する蔵||新年早々嫌な気持ちになった、なんで？||
+|~|鮫島フラム||戦国時代、敵が来るわけがないと酒を飲みながら物見櫓から見物&br()奥の方から火の手が上がり『敵襲ー！敵襲ー！』と叫びたい|側近|
+#endregion
+#region(2月)閉じる
+#table_style(head=center:#6FC75A){配信日=right,#=center}
+|~&color(#fff){配信日}|~&color(#fff){依頼者}|~&color(#fff){役柄}|~&color(#fff){依頼内容}|~&color(#fff){役柄}|h
+|02/02 #10|はがかける||壁ドンをして『俺のものになれよ』と言って欲しい|片思いの男|
+|~|焦月ツルギ||店長の焦村実に麺上げの指導が入ったタイミングで&br()『うるせぇな』と言って欲しい|客|
+|~|りゅうキング&br()ユズリハ|・救う人&br()・悪役|名前を名乗らず人を救い『チェックメイト』と言って帰る|救いを求める人|
+|02/06 #11|KESO MI|・上官|〇全責任は私が取る（ロボットもの）|部下|
+|~|タラちゃん|・お客さん|「ぺっ」とツバを付けた後に手塩を付ける&br()おむすび屋さんのおばあさんが見たい|おばあさん|
+|~|KESO MI&br()タラちゃん&br()香月ろぎあ|・同級生&br()・エキストラ&br()・エキストラ|中学の時の同級生の母親の歯が2本ぐらいしかなく&br()何を言っているか分からなかったが&br()毎回塩むすびを作ってくれて優しかったので&br()また優しくして欲しい|同級生の母親|
+|~|香月ろぎあ||〇解析なら今やってる！よ〜し、良い子だ&br()（少し若めで小生意気）||
+|~|超越ヶ谷にかり||〇今ここに俺が来なかったか！？（18歳）||
+|~|イネヌコ|・勇者|〇俺が…勇者に！？|脳内に語りかける女神|
+|~|ルウ&br()イネヌコ&br()えんちょう&br()柴映作&br()渡戸リー|・館の住人&br()・エキストラ&br()・エキストラ&br()・エキストラ&br()・犯人|〇犯人はこの中にいる|探偵|
+|~|する蔵||〇ここは俺に任せて先に行け||
+|~|MC Sunrise|・警部|〇今ここに俺が来なかったか！？|部下|
+|~|ベルモン・D・帝一||〇全員動くな！手を上げろ|チンピラ|
+|~|化ケきつね|・越後屋|〇お主も悪よのう|悪代官|
+|~|うさぎさん|・運転手|〇前の車を追ってくれ||
+|~|ジェフ|・部下|〇全責任は俺が取る&br()（デスクでミスをした時の対処）|上司|
+|~|風見セオ|・彼氏|〇安心しろ、峰打ちだ（セリフ改変ver.）|メンヘラ彼女|
+|~|葉風邪ナイ&br()風見セオ|・魔法少女&br()・悪役|◎私が…魔法少女に！？&br()（学校に遅刻しそうなタイミングで）|魔法を授ける獣|
+|~|焼野原ひろし||〇ここは俺に任せて先に行け（敵に囲まれた場面で）||
+|~|鮫島フラム&br()無月レオ&br()風見セオ|&br()・エキストラ&br()・エキストラ|〇全員動くな手を上げろ！（銀行強盗）|強盗|
+|~|牛桃ももこ||良い声で癒やして欲しい|彼氏|
+|~|刃牙りえる|・友人|〇良いニュースと悪いニュースがある||
+|02/08 #12|超越ヶ谷にかり&br()茶担えり|・頼んだ人&br()・妹|生き別れの兄からメッセージを貰いたい|兄|
+|~|星野ももあ||〇良いニュースと悪いニュースがある（洋画風）|友人|
+|~|千代田ヨウ||マネージャー通していただけますか（録画）||
+|~|Dr．ギガ|・通行人|〇おい、今って西暦何年だ！？||
+|~|にしのん||〇私が…魔法少女に！？（関西弁）|お告げをする生き物|
+|~|神道まきぴ||〇生存確率0.01%です 極めて危険です（AI）|脱出が出来るかを聞く人|
+|~|牧田ここな||〇前の車を追ってくれ|運転手|
+|~|焼野原ひろし||歌舞伎をやってもらいたい&br()（外郎売・落語の語りから歌舞伎調になっていくver.）||
+#endregion
+#region(4月)閉じる
+#table_style(head=center:#6FC75A){配信日=right,#=center}
+|~&color(#fff){配信日}|~&color(#fff){依頼者}|~&color(#fff){役柄}|~&color(#fff){依頼内容}|~&color(#fff){役柄}|h
+|04/14 #13|空条ジェフ太郎&br()くまのふでこ|&br()・エキストラ|〇ご武運を||
+|~|空条ジェフ太郎&br()柳田ライアン&br()くまのふでこ|・組織の人&br()・私立探偵(訳あり)&br()・掃除のおばちゃんかと思っていたら&br()&space(3)この世の全てを統べる者|◎もういい！喋るな……っ！&br()◎今なんて言った？違う、その前だ&br()&br()〇さあ、ゲームを始めよう|裏切り者|
+|~|飯田けんつ||〇安心しろ、峰打ちだ||
+|~|トウユン|・勇者|〇世界の半分をお前にやろう|魔王|
+|~|星野サラ||大場カモノに『くそダセぇな服』と言って欲しい||
+|~|葵井優&br()大場カモノ|&br()・エキストラ|◎赤と青どっちのコードを切れば良い？||
+|~|ボイラテンガリン||◎今なんて言った？違う、その前だ||
+#endregion
+#region(10月)閉じる
+#table_style(head=center:#6FC75A){配信日=right,#=center}
+|~&color(#fff){配信日}|~&color(#fff){依頼者}|~&color(#fff){役柄}|~&color(#fff){依頼内容}|~&color(#fff){役柄}|h
+|10/02 #14|メチャ南よる|・幼馴染|〇ずっと前から好きでした（引っ越しの間際に）|幼馴染|
+|~|花沢まるん&br()蓮シオン|&br()・エキストラ(助手)|〇今ここに俺が来なかったか！？||
+|~|元難波芽久未||10パターンの『元難波』を言って欲しい||
+|~|タコス(まいにい)||タコマツへのヤンキーテスト|ヤンキー|
+|~|ロイ マーチングナンバー&br()はまべ||〇ここは俺に任せて先に行け||
+|~|ルウ|・エキストラ(上官)|〇ご武運を|部下|
+#endregion
+
+▼ &bold(){Season2【2025】}
+&font(20px,#6FC75A){＊}『〇』は1のガチャ『◎』は2のガチャ、ガチャを元にした場合も表示。
+#region(12月)閉じる
+#table_style(head=center:#6FC75A){配信日=right,#=center}
+|~&color(#fff){配信日}|~&color(#fff){依頼者}|~&color(#fff){相手の役柄}|~&color(#fff){依頼内容}|~&color(#fff){役柄}|h
+|12/24 #1|アドミゲス・ハン&br()シュガー・ピーチ|&br()・エキストラ&br()(最終兵器彼女)|自分の彼女は政府が作り出した最終兵器、地球を守る為に色んな汚れ仕事をこなす&br()手が汚れてしまっているから "もう君とは付き合えないよ" と言われ、&br()それに対して一言返す "小島よしお" が見たい|小島よしお|
+|~|山田パルコ&br()町田ジョアンナ|&br()・エキストラ(幼馴染)|〇ずっと前から好きでした（BGM付き ver.）|幼馴染|
+|~|斎藤まさのり||◎え、本物ですか？|ファン|
+|~|マッハボクシング ドク||◎名乗るほどの者ではありません||
+|12/25 #2|伊達咲政宗||〇お主も悪よのぅ||
+#endregion
+#areaedit(end)
+#endregion()
+---------------------------------------
+//-------------------------------------
+#div(width=180px,bgcolor=#97C5B0){&size(15){&space()&icon_fa(fa fa-users)&space()&bold(){交流者一覧&space()&size(10){※名前まとめ}}}}
+#region(開く,open)閉じる
+#areaedit()
+&font(20px,#6FC75A){＊}&bold(){ある程度、会話をした事のある住人の名前一覧です。}
+&font(20px,#C7B2D6){＊}&bold(){変装をしている人は変装時の名前を記載。正体を明かしている場合には例外あり。}
+&font(20px,#6FC75A){＊}&bold(){既に一度会話をしている人は、後の日付には名前を記載していません。}
+&font(12px,red){※有志協力につき作成中。ゆったりと更新致します。}
+
+▼：&font(#9765d7){&bold(){Season1}}
+#region(開く,close)閉じる
+
+&font(12px,b){※【】→ 交換した連絡先の名前}
+&font(12px,b){※（）→ 発覚済みの本名}
+
+#size(85%){#table_style(head=center:#6FC75A){配信日=right,#=center}
+|~&color(#fff){Day1}|~&color(#fff){Day2}|~&color(#fff){Day3}|~&color(#fff){Day4}|~&color(#fff){Day5}|~&color(#fff){Day6}|~&color(#fff){Day7}|~&color(#fff){Day8}|h
+|マカイーノ アッコパス&br()チェン マヨ&br()焦月 ツルギ&br()雷堂 ましろ&br()橘 かげまる&br()赤兎 がみとも&br()神子田 頼&br()牧田 ここな&br()ボイラ・テンガリン&br()ケイン／オー&br()アイアンメイデン 三郎太&br()豆 やん&br()メカ ニッキー[[※>常世田　シエロ]]&br()麻林 ラル&br()川上&br()大川&br()奇夢 ヤミ&br()超越ヶ谷 にかり&br()ダミアン&br()さとう&br()アヌギフ 白川&br()平方 根&br()ろぜ柳 ぴん子&br()Lv〇 チンピラ&br()ヘラシギ&br()ボタリン モンロー&br()ネケニマス&br()イーエーティー[[※>真新　サトシ]]&br()ルウ ギャラクティカ&br()大場 カモノ&br()この じょうじ&br()上田 さん&br()福田 明宏&br()坂柳 陣平&br()香月 ろぎあ&br()猪原 ローズ&br()くまの ふでこ&br()パン チャン&br()タラ ちゃん&br()猫ノ宮 ひな&br()ハク ナツメ&br()芳賀 ノエル&br()葉風邪 ナイ&br()星野 ももあ|鳥山 たまき&br()物忘 レイナ&br()自営 りんご&br()タイキ[[※>街雄　サンリ]]&br()安城 成&br()もり るんるん&br()ゴールデン 苺華&br()葵井 優&br()星野 サラ&br()葛城 司&br()ペトロ アルドベッグ&br()刃牙 りえる&br()肉丸&br()麻婆 神父（ジェフリー ヒッチコック）&br()黒霧 レイド&br()焼野原 ひろし&br()キングスターダイヤモンド ズズ&br()生雲丹 よづな&br()えだまめもん&br()バーバリアン 田中&br()科場 諸朋&br()命田 守&br()Dr．ギガ&br()渡戸 リー&br()ナイチンガール&br()愛戸 ルル&br()有坂 誉&br()カム カマダ&br()上野 かみや&br()安倍 霊明&br()汚骨 憂太&br()隣 紀子&br()天近 くるみ&br()ハイライト&br()えぐち きの子&br()丘猫 まる&br()ももみ&br()ユアナ&br()帝 レン&br()ラグランジュ 光芝&br()T1マン[[※>真新　サトシ]]|芹沢 すず&br()つぼ浦 匠&br()つか山 天之進&br()きゃばみざわ☆ぎゃるみ↑&br()圧村 飯子&br()星唄 サウ汰&br()赤ちゃん キャップ&br()ひのらん&br()鳥野 ぎん&br()四皇 シャンクズ&br()花沢 まるん&br()アラリル・アルシャバ・アルカ&br()山田 カイキ&br()日々&br()デヤンス&br()春原 新&br()無月 レオ&br()淀川 てるみ&br()テキーラ ジンバック&br()レッサン パンナ&br()大清水 透&br()みら らんど&br()亜座嵐 りか|うさぎさん&br()えびな ヨネ&br()成瀬 力二&br()オフィサー ジェフリー[[※>Albert　Pondering]]&br()マクドナルド&br()天成 する蔵&br()ジョアンナ町田&br()MC Sunrise&br()駆音 エル&br()髭野 たけーら&br()竹井 勝痔&br()無馬 かな&br()鬼野 ねね&br()ぺお シルヴァ&br()ユズリハ シャーロット&br()世風天 みにゃ&br()イネヌコ&br()まいにい&br()なのの なの&br()銭形 やいち郎&br()ラピス りお&br()ジェフリー ヒッチコック|元難波 芽久未&br()永沢【天竜人】[[※>チャルロス　SAY!]]&br()伊藤 カテジ&br()トナカイ[[※>タシロ　カワセ]]&br()キラ・メキーラ&br()御花 はな&br()アヤ スナム&br()ノア チェンバー&br()不二子 キャスパー&br()伊藤 ぺいん|工事中。&br()&br()&br()&br()&br()&br()|化ケ きつね&br()かな市長補佐&br()揚物 ころも&br()レダー ヨージロー&br()伊手 まう子&br()牛桃 ももこ|切間 てつお&br()御庭野 えんちょう&br()小豆 最中|
+|~&color(#fff){Day9}|~&color(#fff){Day10}|~&color(#fff){Day11}|~&color(#fff){Day12}|~&color(#fff){Day13}|~&color(#fff){Day14}|~&color(#fff){Day15}|~&color(#fff)|h
+|風見 セオ&br()袖麦 とと&br()ほわいと たいが[[※>碇　イチカ]]&br()ぎちょう・じょばぁーな&br()鮫島 フラム|ジャムリーヌ・バルサミコス&br()はが かける&br()柴 映作&br()アウル エルブラット[[※>柳田　ライアン]]&br()天王寺 京司郎&br()りゅう キング&br()|工事中。&br()&br()&br()&br()&br()&br()|茶担 えり&br()イヴ トワイライト&br()千代田 ヨウ&br()神道 まきぴ&br()にしのん&br()月ノ島 ごう|工事中。&br()&br()&br()&br()&br()&br()|工事中。&br()&br()&br()&br()&br()&br()|佐藤 さくら&br()シュガー ピーチ||}
+#endregion
+//---------------------------------
+
+▼：&font(#9765d7){&bold(){Season2}}
+#region(開く,close)閉じる
+
+#size(85%){#table_style(head=center:#6FC75A){配信日=right,#=center}
+|~&color(#fff){Day1}|~&color(#fff){Day2}|~&color(#fff){Day3}|~&color(#fff){Day4}|~&color(#fff){Day5}|~&color(#fff){Day6}|~&color(#fff){Day7}|~&color(#fff){Day8}|h
+|工事中。|工事中。|-|-|-|-|-|-|}
+#endregion
+#areaedit(end)
+#endregion
+
+//-------------------------------------
+*&font(#97C5B0){エ}&font(#EAF4FC){ピソード}&font(#C7B2D6){&space()&icon_fa(fa fa-file-alt)}
+&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/yamien]]のアーカイブは視聴期限60日間の為ご注意ください。
+&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UC0StoLq_smf2VO7iHrP-XFQ]]  へアーカイブ移行時、エピソードタイトルはTwitch配信当時のタイトルを採用しています。
+
+&sizex(3){※エピソードに関してですが、書かれていないものは順次執筆致しますので暫くお待ち下さい。}
+//--------------------------------------
+
+&size(20)&size(14){&font(#97C5B0){◆}} &underdot(#7ddbb6,2px){&font(#9765d7,b){Season1}}
+#region(開く)閉じる
+
+#div(width=120px,bgcolor=#97C5B0){&size(15){&space()&bold(){2024}}}
+#include(手稲　えん太/2024 Season1.EP1)
+&font(){　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　}
+//↑はregionでスクロールバーが発生するのを防ぐ為の空白ですので、削除しないようお願いします。
+//--------------------------------
+#div(width=120px,bgcolor=#97C5B0){&size(15){&space()&bold(){2025}}}
+#include(手稲　えん太/2025 Season1.EP1)
+&font(){　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　}
+//↑はregionでスクロールバーが発生するのを防ぐ為の空白ですので、削除しないようお願いします。
+#endregion()
+//--------------------------------
+&size(23)&size(14){&font(#97C5B0){◆}} &underdot(#7ddbb6,2px){&font(#9765d7,b){Season2}}
+#region(開く,open)閉じる
+
+#div(width=120px,bgcolor=#97C5B0){&size(15){&space()&bold(){2025}}}
+#include(手稲　えん太/2025 Season2.EP1)
+&font(){　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　}
+//↑はregionでスクロールバーが発生するのを防ぐ為の空白ですので、削除しないようお願いします。
+#endregion()
+------------------------------------------------------------
+&size(11){≪Season1 Episode≫}
+&size(11){【2024】｜[[1・2・4・10月>>手稲　えん太/2024 Season1.EP1]]｜【2025】｜[[5月>>手稲　えん太/2025 Season1.EP1]]｜}
+&size(11){≪Season2 Episode≫}
+&size(11){【2025】｜[[12月>>手稲　えん太/2025 Season2.EP1]]｜}
+
+//--------------------------------------
+*&font(#97C5B0){ア}&font(#EAF4FC){ーカイブ}&font(#C7B2D6){&space()&icon_fa(fa fa-twitch)&space()&icon_fa(fa fa-youtube)}
+&size(20)&size(14){&font(#9765d7){◆}} &underdot(#9765d7,2px){&font(#3eb370,b){Season1}}
+#region(開く)閉じる
+
+#div(width=120px,bgcolor=#9E76B4){&size(15){&space()&bold(){&font(#e6e6e6){2024}}}}
+#region(1月)閉じる
+#table_style(head=center:#97C5B0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/07|1|&color(#F54738){&icon_fa(fa fa-youtube-play)}[[2キャラ目！ 自称エンターテイナー「叶わせ屋」始動！>>https://www.youtube.com/watch?v=T0IUFt0lbzM]]|普通・自動二輪の免許取得&br()叶わせ屋として依頼をこなす|
+|01/09|2|&color(#F54738){&icon_fa(fa fa-youtube-play)}[[「叶わせ屋」手稲えん太 2日目【#ストグラ】>>https://www.youtube.com/watch?v=eHLKv93IlS0]]|叶わせ屋の依頼をこなす&br()バイクの塗装＆服を購入|
+|01/11|3|&color(#F54738){&icon_fa(fa fa-youtube-play)}[[「叶わせ屋」手稲えん太 3日目【#ストグラ】>>https://www.youtube.com/watch?v=BzQOTB7G7AQ]]|乗馬練習&br()巡業スペースの相談|
+|01/14|4|&color(#F54738){&icon_fa(fa fa-youtube-play)}[[「叶わせ屋」手稲えん太 4日目【#ストグラ】>>https://www.youtube.com/watch?v=DiIZelTLhOI]]|叶わせ屋の仕事と依頼&br()巡業開始と大喜利の日|
+|01/17|5|&color(#F54738){&icon_fa(fa fa-youtube-play)}[[「叶わせ屋」手稲えん太 5日目 → よきところでヤミー【#ストグラ】>>https://www.youtube.com/watch?v=ZuET0CCCYhY]]|初心者案内＆叶わせ屋の仕事&br()乗馬練習2・3日目|
+|01/18|6|&color(#F54738){&icon_fa(fa fa-youtube-play)}[[というわけで ヤミーエンデバー視点→えん太6日目【#ストグラ】>>https://youtu.be/CwaBDXcK4yg?si=9ywN_ydE70mYX7Pv&t=12200]]|3:23:20～ えん太視点&br()叶わせ屋の仕事と調査依頼|
+|01/27|7|&color(#F54738){&icon_fa(fa fa-youtube-play)}[[「叶わせ屋」手稲えん太 7日目>>https://www.youtube.com/watch?v=qu3pKm6-kZ0]]|街ぶら＆キャバクラ見学|
+|01/28|8|&color(#F54738){&icon_fa(fa fa-youtube-play)}[[ついに邂逅なるか？「叶わせ屋」手稲えん太 8日目>>https://www.youtube.com/watch?v=IYiW-7pOo0s]]|邂逅と面接|
+|01/28|9|&font(#6441A4){&icon_fa(fa fa-twitch)}[[今日もちょっとだけ 「叶わせ屋」手稲えん太 9日目>>https://www.twitch.tv/videos/2046202440]]※視聴期限切れ|街ぶらと大喜利＆ポスター作り|
+#table_sorter{even=#f7efff,odd=fff}
+
+#endregion
+//---------------------------------
+#region(2月)閉じる
+#table_style(head=center:#97C5B0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/02|10|&color(#F54738){&icon_fa(fa fa-youtube-play)}[[えん太３：７ヤミー #ストグラ>>https://www.youtube.com/watch?v=vWoddkyaOpw]]|取材とお仕事|
+|02/06|11|&color(#F54738){&icon_fa(fa fa-youtube-play)} [[#ストグラ えん太のセリフガチャができたので街に行く>>https://www.youtube.com/watch?v=uNeX8Ub9siY]]|調査完了報告＆セリフガチャ導入|
+|02/08|12|&color(#F54738){&icon_fa(fa fa-youtube-play)} [[#ストグラ ヤミー→えん太のパターン>>https://youtu.be/uUy_BlAjVMM?si=Q14LDX5vMyC2-yeE&t=13520]]|3:45:20～ えん太視点&br()今後の事業展開の構想を考える|
+#table_sorter{even=#f7efff,odd=fff}
+
+#endregion
+//---------------------------------
+#region(4月)閉じる
+#table_style(head=center:#97C5B0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/14|13|&color(#F54738){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】ヤミーでお見送り ⇐ 久々の手稲えん太>>https://www.youtube.com/watch?v=dp500Ix-Sc4]]|依頼とお仕事＆セリフガチャ第2弾&br()ホットドック屋初体験|
+#table_sorter{even=#f7efff,odd=fff}
+
+#endregion
+//---------------------------------
+#region(10月)閉じる
+#table_style(head=center:#97C5B0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/02|14|&color(#F54738){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】たぶんヤミーと手稲をやる日>>https://youtu.be/Q8Ux_rRkq8s?si=QK5RQk-vD7coaFvq&t=16570]]|4:36:10～ えん太視点&br()久々の依頼とお仕事＆朗読|
+#table_sorter{even=#f7efff,odd=fff}
+
+#endregion
+//---------------------------------
+
+#div(width=120px,bgcolor=#9E76B4){&size(15){&space()&bold(){&font(#e6e6e6){2025}}}}
+#region(5月)閉じる
+#table_style(head=center:#97C5B0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/18|15|&color(#F54738){&icon_fa(fa fa-youtube-play)} [[#ストグラ のTシャツ届いた>>https://youtu.be/2Rd3vrtVMlc?si=9Ijmm8YpQ7IT16sZ&t=3119]]|51:59～ ストグラ&br()服装・髪型を調整＆乗馬練習3日目・馬購入&br()牛トレーニング1～3日目・牛購入|
+#table_sorter{even=#f7efff,odd=fff}
+
+#endregion
+#endregion()
+//---------------------------------
+&size(23)&size(14){&font(#9765d7){◆}} &underdot(#941f57,2px){&font(#3eb370,b){Season2}}
+
+#div(width=120px,bgcolor=#9E76B4){&size(15){&space()&bold(){&font(#e6e6e6){2025}}}}
+#region(12月,open)閉じる
+#table_style(head=center:#97C5B0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/24|1|&font(#6441A4){&icon_fa(fa fa-twitch)} [[探せ！この街の新たなエンターテイメント #ストグラSeason2 #ストグラ>>https://www.twitch.tv/videos/2651869301]]|新たな世界でエンタメ&br()原付購入・ゴミ取集のバイト|
+|12/25|2|&font(#6441A4){&icon_fa(fa fa-twitch)} [[『叶わせ屋』手稲えん太 2-2 #ストグラSeason2 #ストグラ>>https://www.twitch.tv/videos/2652601467]]|エンタメと鉱山バイト|
+#table_sorter{even=#f7efff,odd=fff}
+
+#endregion()
+
+*&font(#97C5B0){ス}&font(#EAF4FC){トグラ関連}&font(#C7B2D6){&space()&icon_fa(fa fa-bullhorn)}
+&size(23)&size(14){&font(#9765d7){▼}} &bold(){[[公式イベント>特別番組・イベント・グッズ等]]}
+#region(Street Park Live - ストグラSPL -)&bold(){Street Park Live - ストグラSPL -}
+
+#div(width=313px,bgcolor=#97C5B0){&space()&font(14px,b,#FFF){Street Park Live @ 江戸川区総合文化センター }}
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #97C5B0;){#size(14px){&font(17px,#9E76B4){●}『[[タラちゃん主催・演劇＆ファンミーティングイベント>>https://openrecnext.amebaownd.com/posts/56624743]]』開催日：25/05/03
+　&font(13px,#9E76B4){▷} 昼公演：演劇 &size(12){≪開場 / 12：30　開演 / 13：30 ～ 17：30≫}
+　&font(13px,#9E76B4){▷} 夜公演：ファンミーティング &size(12){≪開場 / 17：00　開演 / 18：00 ～ 19：30≫}
+
+&font(17px,#9E76B4){●}[[PPVチケット購入>>https://www.openrec.tv/ppv/street_park_live]]
+　&font(13px,#9E76B4){▷} 昼公演　視聴チケット：￥3,800（税込）
+　&font(13px,#9E76B4){▷} 夜公演　視聴チケット：￥3,000（税込）
+
+※販売期間　2025年4月25日 17:00 〜 2025年6月15日 17:00まで
+※視聴期間　配信後～ 2025年6月15日 23：59まで
+
+#region(本人ポスト,close)本人ポスト
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; やみえん (@Yamien_san) <a href="https://twitter.com/Yamien_san/status/1917140845561827783">ストグラSPL</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion
+
+魂の方では上記ライブで脚本・総合演出を手掛けている。なお、本人の出演はなし。}}}}
+
+#endregion
+//---------------------------------
+#region(Street Park Live 2 - ストグラSPL2 -)&bold(){Street Park Live 2 - ストグラSPL2 -}
+
+#div(width=235px,bgcolor=#97C5B0){&space()&font(14px,b,#FFF){Street Park Live 2 @ 横浜BUNTAI }}
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #97C5B0;){#size(14px){&font(17px,#9E76B4){●}『[[タラちゃん主催・演劇＆ファンミーティングイベント>>https://openrecnext.amebaownd.com/posts/58426822]]』開催日：26/02/11
+　&font(13px,#9E76B4){▷} 昼公演：演劇 &size(12){≪開場 / 12：30　開演 / 13：30 ～≫}
+　&font(13px,#9E76B4){▷} 夜公演：ファンミーティング &size(12){≪開場 / 16：30　開演 / 17：30 ～≫}
+
+&font(17px,#9E76B4){●}[[PPVチケット購入>>https://www.openrec.tv/ppv/street_park_live_2]]
+　&font(13px,#9E76B4){▷} 昼公演　視聴チケット：￥3,800（税込）
+　&font(13px,#9E76B4){▷} 夜公演　視聴チケット：￥3,000（税込）
+
+※販売期間　2026年2月9日 17:00 〜 2026年3月22日 17:00まで
+※視聴期間　配信後～ 2026年3月22日 23：59まで
+
+#region(本人ポスト,close)本人ポスト
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; やみえん (@Yamien_san) <a href="https://twitter.com/Yamien_san/status/2001598685852168276">ストグラSPL</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion
+//-----------------------------
+#region(公演当日ポスト,close)公演当日ポスト
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; やみえん (@Yamien_san) <a href="https://twitter.com/Yamien_san/status/2021426076128510456">ストグラSPL2</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+//-----------------------------
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; やみえん (@Yamien_san) <a href="https://twitter.com/Yamien_san/status/2021482134264013021">ストグラSPL2</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion
+
+魂の方では上記ライブで脚本・演出を手掛け、別キャラクターである『ハマチくん』として出演。
+夜の部・前説影ナレでは別キャラクターである『ヤミー・エンデバー』として&openclose2(show=他警察署員){([[安倍霊明>安倍　霊明]] / [[ミンドリー>ミン　ドリー]] / [[ミナミとと>ミナミ　とと]] / [[鬼瓦るる>鬼瓦　るる]] / [[バーバリアン田中>バーバリアン　田中]])}や[[雷堂ましろ>雷堂　ましろ]]と声出演。
+---------------
+&font(17px,#C7B2D6){●} 昼公演オリジナル台本（58p）公開
+　&font(13px,#C7B2D6){▷} アクセスは[[こちら>>https://sites.google.com/view/street-park-live-2]]から
+
+※ダウンロード期間 / 2026年4月4日まで}}}}
+//
+//公式のイベントで携わったものを載せています。
+//
+#endregion()
+-----------------------------------
+***&underdot(#6FC75A,3px){その他}
+#region(別キャラクター)
+&bold(){プレイヤー「やみえん」の別キャラクター}
+▶ [[ヤミー　エンデバー]]
+▶ [[ハマチ　くん]]
+#endregion
+
+------------------------------------
+&font(red){≪注意事項とお願い≫}
+
+&size(13){※【復帰プレイヤー↩️】のタグについてですが、久しぶりに街に起きてくる機会が多いキャラクターですので、積極的に関連のタグ付けはしていません。}
+&size(13){他の復帰プレイヤーのページにもタグを付けていない人が多くいる。また、付けたり外したりする管理をしなければいけないのを防ぐ為、ご協力をお願い致します。}
+
+#right(){&link_up(🔝ページTOPへ)}

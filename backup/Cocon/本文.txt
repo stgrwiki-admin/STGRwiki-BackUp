@@ -1,0 +1,183 @@
+&image(Cocon_ロゴ.jpg,y=250)
+
+#table_style(head=center:#ff6b95:#fff){}
+|~店名|~&icon_fa(fa fa-leaf)|&ruby(ココン){Cocon}|
+|~業種|~&icon_fa(fa fa-ear-listen)&br()&icon_fa(fa fa-coffee)|プライベートサロン&br()カフェ|
+|~開業日|~&icon_fa(fa fa-calendar-week)|2025年8月19日|
+|~所在地|~&icon_fa(fa fa-map-location-dot)|6168番地|
+|~オーナー|~&icon_fa(fa fa-user-tie)|&bold(){[[シオコ　リコ]]}|
+|~技術協力|~ &icon_fa(fas fa-handshake)|&sizex(-1){[[蒲田　ヤバッキオ]]}&br()&sizex(-3){ from [[シャンクズプロモーション]]}|
+
+//yyyy年mm月dd日&br()&small(){（&countup(yyyy/mm/dd,yd)経過）}
+//|~job名|~&space()|ボスメニューのジョブネーム&co(){※わからない場合は、行ごと削除}|
+//オープン時の役職については間に合わせでオーナーとしました。言及あれば更新してください。
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-この街で唯一無二の癒やしの時間を提供するリラクゼーションサロン兼カフェ。
+--いわゆるASMRを売りとしている。
+-店名はフランス語で「繭」を意味し、繭のように全部を包み込むという思いが込められている。
+-VIP会員となれるサブスクも提供。
+--1000万円/1週間。施術内容を組み合わせることができ、週に3回まで通い放題となっている。
+
+**従業員情報
+***従業員
+#region(Season1)
+#table_style(head=center:#ff6b95:#fff){}
+|~役職|~名前|~就職日|~備考|h
+|オーナー|[[シオコ　リコ]]|2025/08/01|施術を担当|
+|従業員|[[ひの　ちゃむ]]|2025/08/19|売場担当、オープニングスタッフ|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#co{
+#table_style(head=center:#ff6b95)
+|~名前|~就職日|~備考|h
+|[[ひの　ちゃむ]]|2025/08/19|売場担当、オープニングスタッフ|
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+}
+#endregion
+#size(50%){　}
+//
+//
+//#region(Season2,open)
+//
+//#endregion(Season2)
+
+#co{
+//***退職者
+#table_style(head=center:#ff6b95)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+**商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***サービス一覧
+#region(Season1)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#ff6b95:#fff){No.=center,価格=right}
+|~種類|~サービス名|~価格|~提供開始日|~商品説明|h
+|healing|Relaxation course|100,000,000円/15分|2025/08/19|ear cleaning,oil massage etc...|
+|healing|Talking course|100,000,000円/15分|2025/08/19|whisper close to your ear|
+//|種類|サービス名|価格|提供開始日|説明|
+//|種類|サービス名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion(Season1)
+#size(50%){　}
+//
+//
+//#region(Season2,open)
+//
+//#endregion(Season2)
+
+***商品一覧
+#region(Season1)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#ff6b95:#fff){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|joint|春色のハーバリウム|50,000円|2025/08/19|説明|
+|joint|夏色のハーバリウム|50,000円|2025/08/19|説明|
+|joint|秋色のハーバリウム|50,000円|2025/08/19|説明|
+|joint|冬色のハーバリウム|50,000円|2025/08/19|説明|
+|joint|オイルタイマー|50,000円|2025/08/19|説明|
+|joint|シーシャ|50,000円|2025/08/19|説明|
+|food|ミニタルト|50,000円|2025/08/19|説明|
+|drink|ハーブティー|50,000円|2025/08/19|説明|
+//|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion(Season1)
+#size(50%){　}
+//
+//
+//#region(Season2,open)
+//
+//#endregion(Season2)
+
+#co{
+//***限定商品
+#region(開く,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=center:#ff6b95:#fff){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+***メニュー画像
+#region(Season1)&b(){Season1}
+&blankimg(https://stgr-r2.libhalt.net/images/278fe17d-25dc-475e-949a-2ff4e7e60494.png,x=450,y=290)
+#endregion
+
+***TwiX画像
+#region(Season1 オープン告知)&bold(){Season1 オープン告知}
+&blankimg(https://stgr-r2.libhalt.net/images/92c97ada-74c4-4ade-afb6-74abe3b14ccd.png,x=250,y=350)
+#endregion
+
+**沿革
+&font(b,16px,#444){Season1}
+***2025年
+#region(開く)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#ff6b95:#fff){}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|08/01|job付与|[[だん市長補佐]]||
+|08/19|オープン|[[シオコ　リコ]]&br()[[ひの　ちゃむ]]&br()[[ラグランジュ　光芝]]|オープン記念に1億円のコースを7000万円で提供。|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+&font(b,16px,#444){Season2}
+***2026年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#ff6b95:#fff){}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|02/25|クラウドファンディング|[[シオコ　リコ]]|サロンの開業に向けてクラウドファンディングを開始。&br()&openclose2(show=▼TwiX告知画像){&br()&blankimg(クラファン1.jpeg,y=350,x=250) &blankimg(クラファン2.jpeg,y=350,x=250)} |
+|03/08|ロスサントスの虎|[[シオコ　リコ]]・[[大　川]]・[[町田　ジョアンナ]]・[[ももみ]]&br()[[三否亭　四五六確]]・[[飯田　けんつ]]・[[Lv〇　チンピラ]]・[[罰　下リ]]|メカニックや不動産社長らの前で事業プレゼンテーションを行い&br()[[飯田けんつ>>飯田　けんつ]]・[[チンピラ>>Lv〇　チンピラ]]・[[罰下リ>>罰　下リ]]から合計5000万円の出資を受ける|
+
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+**specials thanks
+#region(開く)
+&br()
+フード、ドリンク
+oikawa (https://skima.jp/profile?id=333804)
+
+ジョイント
+荒野 [[@calamity_07>>https://x.com/calamity_07]]
+
+ハウジング
+椎奈澪音(しいなれお) [[@Le0shina>>https://x.com/Le0shina/status/1958103966371455318]]
+
+ロゴ
+temichann [[@temichannn>>https://x.com/temichannn/status/1957955677302976581]]
+
+ちゃむちゃむ🌻 @HinoriNatsukawa
+ラグランジュさん🍞 @kada_teion
+
+[[該当ポストリンク>>https://x.com/osi0sio/status/1957950982110998996]]
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

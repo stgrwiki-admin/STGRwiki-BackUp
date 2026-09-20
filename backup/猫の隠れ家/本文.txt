@@ -1,0 +1,203 @@
+#slide_img(auto=3,width=500,height=250){猫の隠れ家_チラシ4.png,猫の隠れ家.png}
+//もっと良い写真が取れたら差し替えてください
+
+#marquee(当たるも八卦、当たらぬも八卦、信じるも信じないもあなた次第,size=40,color=#74509c)
+
+
+#table_style(head=#E0E0E0){}
+#table_color(#d3a8ff)
+|~店名|~&icon_fa(fa fa-cat)|猫の隠れ家|
+|~業種|~&icon_fa(fa-solid fa-book)|占い処|
+|~開業日＆閉業日|~&icon_fa(fa fa-flag)|2025年03月12日&br()～2025年09月21日|
+|~所在地|~&icon_fa(fa fa-map-marker)|7169番地|
+|~占い師|~&icon_fa(fa fa-hat-wizard)|&bold(){[[青梅　つばめ]]}|
+//
+//yyyy年mm月dd日&br()&small(){（&countup(yyyy/mm/dd,yd)経過）}
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**&font(25,#d3a8ff){&font(35,#74509c){基}本情報 &icon_fa(fa fa-book-tanakh)}
+・[[BMC>Bear Moon Custom]]の真向かいに位置する占い処兼飲食店
+・・猫や占い、BMCに関する飲食物、ジョイントを販売
+・・今のところ従業員を雇う予定はない
+・[[カニメイト]]にて2024/01/13から期間限定で販売されていたBMCガチャを期間限定(2025/03/12~2025/04/30)で復刻販売していた。
+・[[全人類転送ミッション]]に伴う別世界線への全人類転移の為、事実上閉業となる。
+***チラシ(2025/02/13～)
+#region(開く)
+&image(猫の隠れ家_チラシ5.png,x=500)
+#endregion
+***2025/03/12オープンチラシ
+#region(開く)
+|&image(猫の隠れ家_チラシ2.jpg,x=350)|&image(猫の隠れ家_チラシ3.png,x=400)|
+
+
+#endregion
+
+**&font(25,#d3a8ff){&font(35,#74509c){従}業員情報 &icon_fa(fa fa-hat-wizard)}
+***従業員
+#table_style(head=center:#D3A8FF)
+|~役職|~名前|~就職日|~備考|h
+|店長/占い師|[[青梅　つばめ]]|2025/03/12|兼業:メカニック【[[BMC>Bear Moon Custom]]】、猫カフェ【[[武蔵>猫カフェ武蔵]]】|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//***退職者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~就職日|~最終出勤日|~備考|h
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//***職業体験者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#FF7F7,odd=#FFFFFF}
+//
+
+**&font(25,#d3a8ff){&font(35,#74509c){商}品etc.. &icon_fa(fa fa-star-of-david)}
+#region(通常販売品,close)通常販売品
+#table_style(head=center:#d3a8ff){種類=center,商品名=center,画像=center,商品説明=center,商品効果=center,重量=center,仕入れ価格=center,販売価格=center,提供開始日=center,備考=center} 
+#table_filter(){種類=show,商品名=show,画像=show,商品説明=show,商品効果=show,重量=hide,仕入れ価格=hide,販売価格=show,提供開始日=hide,備考=show}
+|~種類|~商品名|~画像|~商品説明|~商品効果|~重量|~仕入れ価格|~販売価格|~提供開始日|~備考|h
+|MIDDLE:Food|MIDDLE:夕闇ネコシチュー|&blankimg(猫の隠れ家_シチュー2.jpg)|MIDDLE:おなかいっぱいになるビーフシチューを水晶に閉じ込めました。&br()お腹を満たして運気が上がりますように！|MIDDLE:+🍔|MIDDLE:200g|MIDDLE:10,000円|MIDDLE:50,000円|MIDDLE:|MIDDLE:|
+|MIDDLE:Drink|MIDDLE:夜景クリームソーダ|&blankimg(猫の隠れ家_ソーダ2.jpg)|MIDDLE:夜の景色をブルーベリー味のクリームソーダに閉じ込めました。&br()月のレモンもかじって運気もパワーも上がりますように！|MIDDLE:+💧&br()-🧠|MIDDLE:200g|MIDDLE:10,000円|MIDDLE:50,000円|MIDDLE:|MIDDLE:|
+|MIDDLE:Joint|MIDDLE:青空ライター|&blankimg(猫の隠れ家_ライター2.jpg)|MIDDLE:太陽をライターに閉じ込めました。&br()火をつけると運気が上がるかも…？|MIDDLE:-🧠|MIDDLE:|MIDDLE:|MIDDLE:50,000円|MIDDLE:|MIDDLE:|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion()
+//|MIDDLE:|MIDDLE:|MIDDLE:|MIDDLE:|MIDDLE:|MIDDLE:|MIDDLE:|MIDDLE:|MIDDLE:|MIDDLE:|
+
+#region(BMCガチャ{復刻}（2025/03/12~2025/04/30）,close)BMCガチャ{復刻}(2025/03/12~2025/04/30)
+#region(N,close)N
+#table_style(head=center:#d3a8ff){商品名=center,画像=center,商品説明=center,商品効果=center,重量=center,仕入れ価格=center,販売価格=center,提供開始日=center,備考=center} 
+#table_filter(){商品名=show,画像=show,商品説明=show,商品効果=show,重量=hide,仕入れ価格=hide,販売価格=show,提供開始日=hide,備考=show}
+|~商品名|~画像|~商品説明|~商品効果|~重量|~仕入れ価格|~備考|h
+|MIDDLE:夕闇ネコシチュー(小)|&blankimg(猫の隠れ家_シチュー2.jpg)|MIDDLE:BMCガチャ専用のビーフシチューを小さなネコ型の水晶に閉じ込めました。&br()運気が上がりますように！ ||MIDDLE:20g|||
+|MIDDLE:夜景クリームソーダ(小)|&blankimg(猫の隠れ家_ソーダ2.jpg)|MIDDLE:小さな夜の景色をブルーベリー味のクリームソーダに閉じ込めました。&br()運気もパワーも上がりますように！||MIDDLE:20g|||
+|MIDDLE:★BearMoonのぬいぐるみ|&blankimg(猫の隠れ家_BMぬいぐるみ.png) |MIDDLE:BMCのかわいいくまちゃん。&br()だっこするとしあわせな気持ちになれるぞ。|MIDDLE:-🧠|MIDDLE:200g|||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion()
+
+#region(R,close)R
+#table_style(head=center:#d3a8ff){商品名=center,画像=center,商品説明=center,商品効果=center,重量=center,仕入れ価格=center,販売価格=center,提供開始日=center,備考=center} 
+#table_filter(){商品名=show,画像=show,商品説明=show,商品効果=show,重量=hide,仕入れ価格=hide,販売価格=show,提供開始日=hide,備考=show}
+|~商品名|~画像|~商品説明|~商品効果|~重量|~仕入れ価格|~備考|h
+|にしのん(N) -BMCガチャ-||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|空舞月るる(N) -BMCガチャ-||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|御花はな(N) -BMCガチャ-||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|MIDDLE:神道まきぴ(N) -BMCガチャ-|&blankimg(猫の隠れ家_まきぴN.png)|MIDDLE:2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|MIDDLE:-🧠|MIDDLE:200g|||
+|星唄サウ汰(N) -BMCガチャ-||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|MIDDLE:青梅つばめ(N) -BMCガチャ-|&blankimg(猫の隠れ家_つばめN.png)|MIDDLE:2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|MIDDLE:-🧠|MIDDLE:200g|||
+|MIDDLE:うさぎさん(N) -BMCガチャ-|&blankimg(猫の隠れ家_うさぎN.png)|MIDDLE:2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|MIDDLE:-🧠|MIDDLE:200g|||
+|揚物ころも(N) -BMCガチャ-||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|ジェフリーヒッチコック(N) -BMCガチャ-||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|MIDDLE:赤ちゃんキャップ(N) -BMCガチャ-|&blankimg(猫の隠れ家_キャップN.png)|MIDDLE:2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|MIDDLE:-🧠|MIDDLE:200g|||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion()
+
+#region(SR,close)SR
+#table_style(head=center:#d3a8ff){商品名=center,画像=center,商品説明=center,商品効果=center,重量=center,仕入れ価格=center,販売価格=center,提供開始日=center,備考=center} 
+#table_filter(){商品名=show,画像=show,商品説明=show,商品効果=show,重量=hide,仕入れ価格=hide,販売価格=show,提供開始日=hide,備考=show}
+|~商品名|~画像|~商品説明|~商品効果|~重量|~仕入れ価格|~備考|h
+|MIDDLE:にしのん(R) -BMCガチャ-| &blankimg(猫の隠れ家_にしのんR.png) |MIDDLE:2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|MIDDLE:-🧠|MIDDLE:200g|||
+|空舞月るる(R) -BMCガチャ-||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|御花はな(R) -BMCガチャ-||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|神道まきぴ(R) -BMCガチャ-||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|MIDDLE:星唄サウ汰(R) -BMCガチャ-|&blankimg(猫の隠れ家_サウ汰R1.png)|MIDDLE:2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|MIDDLE:-🧠|MIDDLE:200g|||
+|MIDDLE:青梅つばめ(R) -BMCガチャ-|&blankimg(猫の隠れ家_つばめR.png)|MIDDLE:2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|MIDDLE:-🧠|MIDDLE:200g|||
+|MIDDLE:うさぎさん(R) -BMCガチャ-|&blankimg(猫の隠れ家_うさぎR.png)|MIDDLE:2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|MIDDLE:-🧠|MIDDLE:200g|||
+|揚物ころも(R) -BMCガチャ-||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|MIDDLE:ジェフリーヒッチコック(R) -BMCガチャ-|&blankimg(猫の隠れ家_ジェフR.png)|MIDDLE:2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|MIDDLE:-🧠|MIDDLE:200g|||
+|MIDDLE:赤ちゃんキャップ(R) -BMCガチャ-| &blankimg(猫の隠れ家_キャップR.png) |MIDDLE:2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|MIDDLE:-🧠|MIDDLE:200g|||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion()
+
+#region(SSR,close)SSR
+#table_style(head=center:#d3a8ff){商品名=center,画像=center,商品説明=center,商品効果=center,重量=center,仕入れ価格=center,販売価格=center,提供開始日=center,備考=center} 
+#table_filter(){商品名=show,画像=show,商品説明=show,商品効果=show,重量=hide,仕入れ価格=hide,販売価格=show,提供開始日=hide,備考=show}
+|~商品名|~画像|~商品説明|~商品効果|~重量|~仕入れ価格|~備考|h
+|MIDDLE:にしのん(SR) -BMCガチャ-||んおー！ PRODUCED BY カニメイト|なし|MIDDLE:1g||消費しない|
+|MIDDLE:空舞月るる(SR) -BMCガチャ-|MIDDLE:&blankimg(猫の隠れ家_るるSR.png)|MIDDLE:PRODUCED BY カニメイト|MIDDLE:なし|MIDDLE:1g||MIDDLE:消費しない|
+|MIDDLE:御花はな(SR) -BMCガチャ-|&blankimg(猫の隠れ家_はなSR.png)|MIDDLE:一緒に走ろう！ PRODUCED BY カニメイト|MIDDLE:なし|MIDDLE:1g||MIDDLE:消費しない|
+|神道まきぴ(SR) -BMCガチャ-||PRODUCED BY カニメイト|なし|MIDDLE:1g||消費しない|
+|星唄サウ汰(SR) -BMCガチャ-||うんうん！ PRODUCED BY カニメイト|なし|MIDDLE:1g||消費しない|
+|青梅つばめ(SR) -BMCガチャ-||うんち! PRODUCED BY カニメイト|なし|MIDDLE:1g||消費しない|
+|MIDDLE:うさぎさん(SR) -BMCガチャ-|MIDDLE:&blankimg(猫の隠れ家_うさぎSR.png)|MIDDLE:んゆー！ PRODUCED BY カニメイト|MIDDLE:なし|MIDDLE:1g||MIDDLE:消費しない|
+|揚物ころも(SR) -BMCガチャ-||ｷｭｲｷｭｲｷｭｲ！ PRODUCED BY カニメイト|なし|MIDDLE:1g||消費しない|
+|ジェフリーヒッチコック(SR) -BMCガチャ-||PRODUCED BY カニメイト|なし|MIDDLE:1g||消費しない|
+|赤ちゃんキャップ(SR) -BMCガチャ-||100点だ。 PRODUCED BY カニメイト|なし|MIDDLE:1g||消費しない|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion()
+
+#region(コンプリート特典＊ネタバレ注意,close)コンプリート特典＊ネタバレ注意
+#table_style(head=center:#d3a8ff){商品名=center,画像=center,商品説明=center,商品効果=center,重量=center,仕入れ価格=center,販売価格=center,提供開始日=center,備考=center} 
+#table_filter(){商品名=show,画像=show,商品説明=show,商品効果=show,重量=hide,仕入れ価格=hide,販売価格=show,提供開始日=hide,備考=show}
+|~商品名|~画像|~商品説明|~商品効果|~重量|~仕入れ価格|~備考|h
+|プスカ大佐(N) -BMCガチャ- ||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|プスカ大佐(R) -BMCガチャ- ||2024/1/13発売のBMCガチャを復刻！PRODUCED BY カニメイト|-🧠|MIDDLE:200g|||
+|MIDDLE:プスカ大佐(SR) -BMCガチャ- |&blankimg(猫の隠れ家_大佐SR.png)|MIDDLE:「ここは眺めがいい…」PRODUCED BY カニメイト|MIDDLE:なし|MIDDLE:1g||MIDDLE:消費しない|
+|うさぎさん(SR) -BMCガチャ- ||PRODUCED BY カニメイト|なし|MIDDLE:1g||消費しない|
+|MIDDLE:BMCガチャ用痛バック|&blankimg(猫の隠れ家_痛バック.png)||MIDDLE:なし|MIDDLE:1g||MIDDLE:消費しない|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion()
+
+#endregion()
+//|N|(N)-BMCガチャ-|||||||
+//|R|(R)-BMCガチャ-|||||||
+//|SR|(SR)-BMCガチャ-|||||||
+
+#region(非売品･依頼品,close)非売品･依頼品
+#table_style(head=center:#d3a8ff){種類=center,商品名=center,画像=center,商品説明=center,商品効果=center,重量=center,仕入れ価格=center,販売価格=center,提供開始日=center,備考=center} 
+#table_filter(){種類=show,商品名=show,画像=show,商品説明=show,商品効果=show,重量=hide,仕入れ価格=hide,備考=show}
+|~種類|~商品名|~画像|~商品説明|~商品効果|~重量|~仕入れ価格|~備考|h
+|MIDDLE:Food|MIDDLE:つばめちょこ|&blankimg(猫の隠れ家_つばめちょこ.png)|MIDDLE:つばめじるしのひとくちチョコ。&br()いつもありがとうの気持ちをこめて。|MIDDLE:+🍔&br()-🧠&br()-🍺|MIDDLE:200g|MIDDLE:10,000円|つばめが2025/02/14限定でお世話になっている人、&br()特に仲良くしてくれる人に&openclose2(show=渡した。){[[にしのん>にし　のん]]、[[はな>御花　はな]]、[[まきぴ>神道　まきぴ]]、[[サウ汰>星唄　サウ汰]]、[[うさぎさん>山田　パルコ]]、[[あげころ>揚物　ころも]]、&br()[[キャップ>ましゃかり　トラボルタ]]、[[ふでこ>くまの　ふでこ]]、[[アッコパス>マカイーノ　アッコパス]]、[[ゆたんぽ>ゆた　んぽ]]、[[忍>万十　忍]]、[[すみ>星乃　すみ]]、[[不二子>不二子　キャスパー]]、[[ももみ>ももみ　マルフォイ]]、[[ペトロ>ペトロ　アルドベッグ]]、[[ましろ>雷堂　ましろ]]、[[華憐>栖家幡　華憐]]}&br()&blankimg(猫の隠れ家_つばめちょこ2.png,x=90,y=90)|
+|MIDDLE:Food|MIDDLE:♡Bear Moon Choco&br()2025|&blankimg(猫の隠れ家_バレンタイン2025.png)|MIDDLE:BMCから皆様へちょこっとブランデー入りバレンタインチョ&br()コのプレゼント！いつも来てくれてありがとうございます♡|MIDDLE:+🍔&br()-🧠&br()+🍺|MIDDLE:200g|MIDDLE:10,000円|MIDDLE:BMC従業員が2025/02/14限定で&br()お客様に配ったもの|
+|MIDDLE:|MIDDLE:♡Bear Moon WHITE|&blankimg(猫の隠れ家_ホワイトデー2025.png)|MIDDLE:BMCから皆様へ白いベアムーンのプレゼント！&br()いつも来てくれてありがとうございます♡|MIDDLE:-🧠|MIDDLE:200g|MIDDLE:10,000円|MIDDLE:BMC従業員が2025/03/14限定で&br()お客様に配ったもの|
+|MIDDLE:Food|MIDDLE:◇Bear Moon RURU&br()(るるベア)◇|&blankimg(猫の隠れ家_るるベア.png)|MIDDLE:2025.2.15 るるちゃんお誕生日&br()おめでとう～～～～！！！！|MIDDLE:+🍔&br()+💧&br()-🧠&br()-🍺|MIDDLE:400g|MIDDLE:15,000円||
+|MIDDLE:Food|MIDDLE:◇Bear Moon SURUZO&br()(蔵ベア)◇||MIDDLE:2025.2.19 する蔵くんお誕生日&br()おめでとう～～～～！！！！|MIDDLE:+🍔&br()+💧&br()-🧠|MIDDLE:400g|MIDDLE:15,000円||
+|MIDDLE:Food|MIDDLE:◇Bear Moon SAUTA&br()(サウベア)◇|&blankimg(猫の隠れ家_サウベア.png)||||||
+|MIDDLE:Food|MIDDLE:◇Bear Moon TAMIKO&br()(たみベア)◇|&blankimg(猫の隠れ家_たみベア.png)|MIDDLE:2025.4.20 たみちゃんお誕生日&br()おめでとう～～～～！！！！|MIDDLE:?||||
+|MIDDLE:Food|MIDDLE:◇Bear Moon AKKOPASS&br()(アコベア)◇|&blankimg(猫の隠れ家_アコベア.png)|MIDDLE:◇2025.4.23◇|||||
+|MIDDLE:Food|MIDDLE:◇Bear Moon JEFFREY&br()(ジェフベア)◇|&blankimg(猫の隠れ家_ジェフベア.png)|MIDDLE:◇2025.4.25◇|||||
+|MIDDLE:Food|MIDDLE:◇Bear Moon SHINOBU&br()(しのベア)◇|&blankimg(猫の隠れ家_しのベア.png)|MIDDLE:まんじゅうしのぶお誕生日おめでとう～～～！！！！&br()◇2025.5.5◇|||||
+|MIDDLE:Food||&blankimg(猫の隠れ家_のんベア.png)||||||
+|MIDDLE:Food||&blankimg(猫の隠れ家_キャプベア.png)||||||
+|MIDDLE:Food||&blankimg(猫の隠れ家_うさベア.png)||||||
+|MIDDLE:Food|MIDDLE:うさぎさんのヴァレンタインチョコ|&blankimg(猫の隠れ家_うさぎさんチョコ.png)|MIDDLE:真ん中のオレンジジャムとチョコがとっても合うますよ～。&br()いつも歌を聴いてくれてありがとう。|MIDDLE:+🍔&br()-🧠|MIDDLE:200g|MIDDLE:10,000円|MIDDLE:[[うさぎさん>山田　パルコ]]からの依頼品|
+|MIDDLE:Food|MIDDLE:ハチロクッキー|&blankimg(猫の隠れ家_ハチロクッキー.png)|MIDDLE:感謝の気持ちを溢さず配達。|MIDDLE:+🍔&br()-🧠|MIDDLE:200g|MIDDLE:10,000円|MIDDLE:[[万十忍>万十　忍]]からの依頼品|
+|MIDDLE:Food|MIDDLE:☆自販機用くま|&blankimg(猫の隠れ家_自販機ベア.png)|MIDDLE:クワレクマー|MIDDLE:+🍔&br()-🧠|MIDDLE:200g|MIDDLE:10,000円||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion()
+
+//|||||||||
+//***商品リスト
+//#region(open)
+//#table_style(head=center:#EBE1A9){レア度=center,種類=center,商品名=center,商品説明＝center,商品効果=center,重量=center,仕入れ価格=right,販売価格=right, エモート=center,提供開始日=center,備考=center} 
+//#table_filter(){No.=hide,レア度=show,種類=show,商品名=show,商品説明=show,商品効果=hide,重量=hide,仕入れ価格=hide,販売価格=show,エモート=hide,提供開始日=hide,備考=show}
+//|~レア度|~種類|~商品名|~商品説明|~商品効果|~重量|~仕入れ価格|~販売価格|~エモート|~提供開始日|~備考|h
+//|||||||||||||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//#endregion()
+//
+//**沿革
+//***yyyy年
+//#region(,open)
+//#table_filter(){関係者=hide,エピソード・備考=show}
+//#table_style(head=center:#E0E0E0)
+//|~日付|~出来事|~関係者|~エピソード・備考|h
+//|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|mm/dd|出来事|関係者|エピソード・備考|
+//#endregion
+//
+
+#right(){&icon_fa(fa fa-cat)&link_up()}

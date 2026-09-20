@@ -1,0 +1,66 @@
+//――――――画像の貼り付けについて―――――――――
+//★オリジナルの画像サイズは300ｘ600で統一しています
+//★車両一覧に表示するときは100ｘ200サイズにして、画像をクリックすると新しいタブにオリジナルの画像が表示されます
+//★画像を貼り付けるときは、下記のコードをコピペしてください
+//★画像貼り付けのコード
+//&blankimg(画像ファイル名,x=120,y=240)
+//　↑　　　　　　　　　　　　↑
+//　｜　　　　　　　　　　120ｘ240のサイズでこのページに表示する
+//新しいタブを開き、そこにオリジナルサイズの画像を表示する
+//
+//●画像はコソコソ追加していく予定です
+//
+//■■■■■■■■　BJローン　■■■■■■■■
+&aname(BJローン,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&size(16){&color(#ffffef){&space(2)&icon_fa(fa fa-dollar-sign)&space(2)&bold(){BJローン}}}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~BJローン|~---|~---|~---|~---|h
+|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|
+#table_zebra(#fff,#f4f4f4,#9b233)
+
+#endregion(BJローン〆)
+
+//■■■■■■■■　私服　■■■■■■■■
+&aname(私服,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&size(16){&color(#ffffef){&space(2)&icon_fa(fa fa-shirt)&space(2)&bold(){私服}}}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~ふつー|~ふつー2|~ルシファー|~---|~---|h
+|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:&blankimg(15 ルシファー.png,x=120,y=240)|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|
+#table_zebra(#fff,#f4f4f4,#9b233)
+
+#endregion(私服〆)
+
+//■■■■■■■■　変装　■■■■■■■■
+&aname(変装,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&size(16){&color(#ffffef){&space(2)&icon_fa(fa fa-mask)&space(2)&bold(){変装}}}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~ロスライド|~わんも～カフェ|~わんも～カフェ2|~---|~せんぷく|h
+|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:&blankimg(11 せんぷく.png,x=120,y=240)|
+||||||
+|~VIVANTごっこ|~---|~---|~---|~---|h
+|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|
+#table_zebra(#fff,#f4f4f4,#9b233)
+
+#endregion(変装〆)
+
+//■■■■■■■■　その他　■■■■■■■■
+&aname(その他2,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&size(16){&color(#ffffef){&space(2)&icon_fa(fa fa-circle-exclamation)&space(2)&bold(){その他}}}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~ALLIN|~増やし鬼|~---|~---|~---|h
+|CENTER:&blankimg(01 ALLIN.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(14 増やし鬼.png,x=120,y=240)&br()&font(8pt){&color(#c1ab05){&icon_fa(fa fa-bell)}&space(1)NotLostTime&増やし鬼}|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|
+#table_zebra(#fff,#f4f4f4,#9b233)
+
+#endregion(その他〆)

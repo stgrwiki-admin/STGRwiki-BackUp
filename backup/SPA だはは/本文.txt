@@ -1,0 +1,177 @@
+&blankimg(Spa_dahaha.jpg,x=640,y=360)
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#E0E0E0){}
+|~店名|~&icon_fa(fa fa-user-tag)|&ruby(スパ){SPA} だはは|
+|~job名|~&icon_fa(fa fa-tag) |SPA だはは|
+|~業種|~&icon_fa(fa fa-bath)|サウナ|
+|~開業日|~&icon_fa(fa fa-flag)|2025年04月09日&br()&small(){（&countup(2025/04/08,yd)目）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|店舗　8228番地&br()整い場8204番地ビーチ|
+|~オーナー(店長)|~&icon_fa(fa fa-user-secret)|&bold(){[[キャプテン　わきを]]}|
+|~社員無線|~&icon_fa(fa-solid fa-walkie-talkie)|307|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-会員制のサウナ。
+-サブスクに加入することでメンバーズカードがもらえる。
+--&s(){サブスクID83、週500万円。}&br()サブスクID89(企業アカウントへ移行)、週500万円。
+--ギャング[[餡ブレラ]]に所属している者は無料。
+-サウナと水風呂に一定時間ずつ入ることで特別なバフがつく。
+-店舗強盗の対象店
+--金庫がサウナ内にあり、一定時間以上いるとストレスが上昇するため、難易度は高め。
+-市内の飲食店とコラボしてサウ飯を提供予定。
+**従業員情報
+***従業員
+#table_style(head=center:#E0E0E0)
+|~役職|~名前|~就職日|~備考|h
+|店長|[[キャプテン　わきを]]|yyyy/mm/dd||
+|店長|[[だん市長補佐]]|yyyy/mm/dd|設備調整など|
+|店員|[[山本　寅子]]|yyyy/mm/dd||
+|店員|[[レッサン　パンナ]]|2025/04/08||
+|店員|[[星唄　サウ汰]]|2025/04/08||
+|店員|[[上田　さん]]|yyyy/mm/dd||
+|店員|[[ブラック　ジャックス]]|2025/04/09||
+|店員|[[竹井　勝痔]]|2025/04/09||
+|店員|[[銅鑼　イオリ]]|2025/05/01||
+|アルバイト|[[トウ　ユン]]|2025/05/01|job無し|
+|店員|[[甘依　モカ]]|2025/05/28||
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+***退職者
+#table_style(head=center:#E0E0E0)
+|~名前|~就職日|~退職日|~備考|h
+|[[西蓮寺　華月]]|2025/04/08||2025/04/18解雇|
+|[[よりどり　みどり]]|2025/05/13|2025/06/26||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#co{
+//***職業体験者
+#table_style(head=center:#E0E0E0)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+}
+**サービス情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***オリジナル商品
+#region(,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~画像|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|ドリンク|&blankimg(poropo.png,x=50,y=50)|ポロポ|100,000||yyyy/mm/dd|yyyy/mm/dd|説明|
+//|joint|&blankimg(,x=50,y=50)|ポロポ|100,000||yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類||商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***メニュー・商品画像
+#region(SPAだはは商品)&b(){SPAだはは商品}
+&image(https://images-ext-1.discordapp.net/external/6w_C81NNr3-nvapxXs56GIdEXueqhWlAlMdumnY3i-8/https/stgr-r2.libhalt.net/images/4b06cb61-c9a0-45e8-b742-b2dc31e38006.jpeg,x=240,y=340)
+#endregion
+#region(2025/04/29 TwiXより UFORUコラボ商品)&b(){2025/04/29 TwiXより UFORUコラボ商品}
+&image(https://stgr-r2.libhalt.net/images/f4dd0a7c-5fa6-4838-878b-ea80be8eaf1b.png,x=240,y=340)
+#endregion
+#region(2025/05/13 TwiXより Lバッグ Mバッグ)&b(){2025/05/13 TwiXより Lバッグ Mバッグ}
+&image(https://stgr-r2.libhalt.net/images/717e533e-29d1-4ede-9af7-b9992308d723.jpeg,x=240,y=340)
+#endregion
+#region(2025/05/14 TwiXより ココナナコラボ商品)&b(){2025/05/14 TwiXより ココナナコラボ商品}
+&image(https://stgr-r2.libhalt.net/images/e144218a-ad90-4cb9-87ac-cee6d4b520b2.png,x=240,y=340)
+#endregion
+#region(2025/06/06 TwiXより よすがコラボ商品)&b(){2025/04/29 TwiXより よすがコラボ商品}
+&image(https://stgr-r2.libhalt.net/images/8050c6ab-9898-43cf-bb33-497f154f8b65.png,x=240,y=340)
+#endregion
+***イベント告知
+#region(2025/05/01 サブスク会員限定チャリレース)&b(){2025/05/01 サブスク会員限定チャリレース}
+&image(https://images-ext-1.discordapp.net/external/mGgGIFT1BZ47KznuGxIz6f13iUR0OKLohtzrZMOIX3o/https/stgr-r2.libhalt.net/images/577ed199-8db0-4b01-a66a-aad60699cccf.jpeg,x=240,y=340)
+#endregion
+#region(2025/05/13 サブスク会員限定バイクレース)&b(){2025/05/13 サブスク会員限定バイクレース}
+&image(https://stgr-r2.libhalt.net/images/7f97da11-a955-4743-b10a-c46aae1f3ef9.png,x=240,y=340)
+#endregion
+#region(2025/05/24 SEXY FIGHT CLUB,open)&b(){2025/05/24 SEXY FIGHT CLUB}
+&image(https://stgr-r2.libhalt.net/images/6b39b5e0-e680-41e6-9141-2e7af67e6543.png,x=240,y=400)
+#endregion
+
+#co{
+***レギュラー商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***オリジナル商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion
+}
+
+**その他情報
+#region(出禁リスト,close)閉じる
+#table_style(head=center:#E0E0E0)
+#table_filter(){理由=hide}
+|~名前|~指定日|~理由|~備考|h
+//|[[名　前]]|yyyy/mm/dd|||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(出禁リスト)
+//05/01 出禁が解除されたため編集しました。
+**沿革
+***2025年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|mm/dd|事業申請|キャプテンわきを||
+|mm/dd|店舗建設&br()鍵をもらう|キャプテンわきを||
+|04/06|テスター第一号|キャプテンわきを&br()星ノみこ|[[星ノ　みこ]]を開業前に招待。&br()その様子を[[だん市長補佐]]に見られ、浮気や裏切りなどの問題に発展することに。|
+|04/08|従業員雇用|キャプテンわきを&br()星唄サウ汰|星唄サウ汰を雇用。|
+|~|プレ体験|餡ブレラ||
+|04/09|グランドオープン|||
+|~|従業員雇用|キャプテンわきを&br()竹井勝痔&br()ブラックジャックス|竹井勝痔とブラックジャックスを雇用。|
+|~|出禁者設定|銅鑼イオリ|サブスク未加入での店内不法侵入、店長をユニコーンバットで殴打してダウンさせた暴行により、&br()わきを直々の出禁宣言。&br()また、その直後に謝罪に来た際のライン越え発言によりBM15億の禊も追加で課す事となった。|
+|05/01|従業員雇用|キャプテンわきを&br()銅鑼イオリ|銅鑼イオリを雇用。|
+|~|出禁解除|銅鑼イオリ|謝罪の意思を込めた体験の経緯を踏まえ、反省していると判断し、&br()従業員雇用と同時に出禁解除、禊もなしとなった。|
+|05/24|イベント主催||イベント『SEXY FIGHT CLUB』を開催|
+|07/08|イベント主催||SPA だはは×歌イベントを主催&br()アーティスト：[[八王子めぐ>>八王子　めぐ]]/[[シュガーピーチ>>シュガー　ピーチ]]/[[ペティ>>羽山　ペティ]]&[[パティ>>羽山　パティ]]|
+
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

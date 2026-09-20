@@ -1,0 +1,50 @@
+#table_style(head=#1e34a1)
+|~&image(万十忍-宣材1.jpg,y=400)|~&image(万十忍_BMC_MG.webp,y=400)|
+
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ
+
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#1e34a1:#dcd3b2){名前=center:b:#383a3b:#fff}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user-ninja)|>|&ruby(まんじゅう){万十}　&ruby(しのぶ){忍}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年06月30日 (&countup(2024/06/30,yd)経過)|2025年12月19日(&countup(2025/12/19,yd)経過)|
+|~出身|~&icon_fa(fa fa-map-marker)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|05月05日(年齢は24より上)|
+|~身長|~&icon_fa(fa fa-arrows-alt-v)||180cmくらい|
+|~自宅|~&icon_fa(fa fa-home)|6126番地(高級住宅街)||
+|~職業|~&icon_fa(fa fa-wrench)|&b(){メカニック【[[B.A.D>BIG Automotive Design]]】}&br()&font(12,gray){●正社員('24/07/19〜)}|&b(){メカニック【[[JTS>ジョアンナテクノサービス]]】}&font(12,gray){●('25/12/25〜)}&br()&b(){メカニック【[[UGM]]】}&font(12,gray){●('26/3/18〜)}|
+|~|~&icon_fa(fa fa-wrench)|&b(){メカニック【[[BMC>Bear Moon Custom]]】}&br()&font(12,gray){●正社員('24/11/21〜)}||
+|~|~&icon_fa(fa-solid fa-car)|&b(){高級車&ruby(ディーラー){D}【[[にしのんキングダム]]】}&br()&font(12,gray){●正社員('25/04/09〜)}||
+|~|~&icon_fa(fa-solid fa-flag-checkered)|&b(){プロレーサー}||
+|~|~&icon_fa(fa fa-building-columns)||&b(){カジノ店員【[[LosVegas>>https://w.atwiki.jp/streamergta5/pages/3460.html]]】}&br()&font(12,gray){●正社員('26/02/06〜)}|
+|~所属|~&icon_fa(fa-solid fa-s)|&b(){同好会【[[ドリフト協会]]】}&br()&font(12,gray){●会長('24/07/05〜)}||
+|~|~&icon_fa(fa-solid fa-person-rifle)|&b(){特殊部隊【SWAG】}&br()&font(12,gray){●隊員/活動名:†shinobi†('24/11/09〜)}||
+|~|~&icon_fa(fa-solid fa-car-side)|>|&b(){同好会【[[公認勝手にレース協会]]】}&br()&font(12,gray){●会員('25/03/11〜)}|
+|~宗派|~&icon_fa(fa-solid fa-person-praying)|&b(){宗教団体【[[ハンバーガー教]]】}&br()&font(12,gray){●信者('24/12/08〜)} &font(13){&openclose2(show=※){教えに違和感を覚え、隠れ異教徒となった}}||
+|~レーサー名|~&icon_fa(fa fa-user-tag)|万十忍&font(13){&openclose2(show=※){"迅帝"の名前で参加することも}}||
+|~TwiX|~&icon_fa(fa fa-crow)|万十忍(@万十忍)||
+|BGCOLOR(#383a3b):COLOR(#fff):~プレイヤー|BGCOLOR(#383a3b):COLOR(#fff):~&icon_fa(fa-regular fa-face-smile)|>|&ruby(まんじゅうにんじゃ){饅頭忍者}|
+|BGCOLOR(#383a3b):COLOR(#fff):~配信場所|BGCOLOR(#383a3b):COLOR(#fff):~&icon_fa(fa-solid fa-satellite)|>|&font(12,#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){饅頭忍者(@manjyuninja_8086)}>https://www.youtube.com/@manjyuninja_8086]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){饅頭忍者(majyu_nin)}>>https://www.twitch.tv/majyu_nin]]|
+|BGCOLOR(#383a3b):COLOR(#fff):~告知等|BGCOLOR(#383a3b):COLOR(#fff):~&icon_fa(fa-solid fa-bell fa-shake)|>|&icon_fa(fa fa-brands fa-x-twitter)[[&font(#0F1419){饅頭忍者(@manjyuninja8086)}>https://x.com/manjyuninja8086]]|
+|BGCOLOR(#383a3b):COLOR(#fff):~二次創作関連|BGCOLOR(#383a3b):COLOR(#fff):~&icon_fa(fa-solid fa-circle-exclamation)|>|&font(12){・切り抜き・クリップの作成は自由}&br()&font(12){・FAタグは#饅頭忍画}|
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ
+*&color(#fff){&font(#dcd3b2){&icon_fa(fa-solid fa-newspaper)} ニュース　}
+#table_style(head=left:#1e34a1:#dcd3b2)
+|~最新情報|
+|&font(12,gray){2025/05/11}&br()【企画】GT3レース[[&font(10,gray){▶詳細はこちら}>万十　忍/GT3レース(仮)]]|
+|&font(12,gray){2025/05/05}&br()【記念】万十忍誕生日|
+|&font(12,gray){2025/05/03}&br()【日常】航空機免許を取得|
+#table_sorter(){odd=#fff,even=#fff}
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ
+----
+#size(160%){#center{|>|>|CENTER:BGCOLOR(#383a3b):&font(#fff){&icon_fa(fa fa-home)}[[&font(b,#fff){トップ}>万十　忍]]|
+|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){人物像}>万十　忍/人物像]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){生き方}>万十　忍/ロスサントスでの生き方]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){目標}>万十　忍/ロスサントスでの目標]]|
+|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){所有車}>万十　忍/所有車]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){不動産}>万十　忍/不動産]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){ボイス}>万十　忍/ボイス]]|
+|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){職業}>万十　忍/職業・所属]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){交友関係}>万十　忍/交友関係]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){服装}>万十　忍/服装]]|
+|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){エピソード}>万十　忍/エピソード4]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){アーカイブ}>万十　忍/アーカイブ3]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){関連情報}>万十　忍/関連情報]]|
+}}
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ
+----
+&font(12,gray){※Wikiの記載についてプレイヤー、ストグラ運営へのお問い合わせはご遠慮ください}
+[[&font(b,11,#000){▶ストグラ公式サイト}>https://lit.link/stgr]]
+[[&font(b,11,#000){▶ストグラまとめ @ウィキ ガイドライン}>https://w.atwiki.jp/streamergta5/]]

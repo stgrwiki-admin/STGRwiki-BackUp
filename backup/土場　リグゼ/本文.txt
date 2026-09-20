@@ -1,0 +1,235 @@
+//|&image(画像名,y=300)|
+
+//3枚に画像を増やしたい場合
+//#slide_img(auto=5,width=390,height=200.5,position=left){画像名,画像名,画像名}
+&image(dobariguze_01.png,width=300)
+
+//ここからプロフィール
+#table_style(head=#EAE8E8:#A2465D)
+|~名前|~&icon_fa(fa fa-user)|&ruby(どば){土場}　リグゼ|
+|~出身地|~&icon_fa(fa fa-map-marker)|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|09/25(&countup(1998/09/25,y))|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年02月21日  &small(){(～2025/06/15)}|
+|~職業|~&color(#A2465D){&icon_fa(fas fa-question)}|🧰&s(){メカニック[[PYC]]} (2024/03/06～2025/03/31)&br()🧰メカニック[[SKE>菖光エンジニア]] (2025/04/11～2025/06/15)&br()&icon_fa(fa-solid fa-sack-dollar)[[カジノ]]従業員(2024/03/23～2025/06/15)&br()🚲焦虫ペダル 副部長&br()(キャラクターエンディング済み)|
+|~TwiX|~&icon_fa(fa fa-tag)|@doba|
+|BGCOLOR(#A2465D):~&color(#fff){プレイヤー}|BGCOLOR(#A2465D):~&color(#fff){&icon_fa(fa fa-heart)}|リグゼ(Crazy Raccoon)|
+|BGCOLOR(#A2465D):~&color(#fff){告知等}|BGCOLOR(#A2465D):~&color(#fff){&icon_fa(fa fa-bullhorn)}|&font(#A2465D){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#A2465D){X (旧&font(#A2465D){Twitter})}>>https://x.com/_rigze?t=OLPR8FbOHvMCHZwW8u9SIQ&s=09]]|
+|BGCOLOR(#A2465D):~&color(#fff){配信場所}|BGCOLOR(#A2465D):~&color(#fff){&icon_fa(fa fa-gamepad)}|&font(#A2465D){&icon_fa(fa fa-youtube-play)} [[&font(#A2465D){YouTube}>>https://www.youtube.com/@rigze0925]] / &font(#A2465D){&icon_fa(fa-brands fa-twitch)} [[&font(#A2465D){Twitch}>>https://www.twitch.tv/rigze0925]]|
+//
+//職業を追加・更新した場合、「 https://w.atwiki.jp/streamergta5/pages/20.html#id_ab0a5ace 」（職業一覧->就業者一覧）等への追加・更新のご協力をお願いいたします。
+
+#div(width=390px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){&icon_fa(fa fa-file-text-o)&space()&bold(){目次}}}}
+
+#region(目次を開く,close)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&bold(){基本情報}
+**一時帰国
+(2025/06/15)
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">土場リグゼ一時帰国します！<br><br>世界を越えるため。<br>ワールドをビヨンドしてきます<br><br>衛生外で起きてくれたの嬉しい☺️<br>街で駆けつけてくれたみんなもありがとう😭<br>寂しいけど、みんなと話せて楽しかった！ <a href="https://t.co/EnHKhXVTq2">pic.twitter.com/EnHKhXVTq2</a></p>&mdash; リグゼ (@_rigze) <a href="https://twitter.com/_rigze/status/1933954941686886832?ref_src=twsrc%5Etfw">June 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+
+&size(20){&color(#A2465D){●}} 道化師になりたくて、エンタメを学びにロスサントスへ来た。
+&size(20){&color(#A2465D){●}} が、この街に来てから[[先駆者>ライトスターボーイ]]がいることを知った。
+&size(20){&color(#A2465D){●}} しばらく寝ていた期間があったが、2024年11月頃から起床。様変わりしていた街に驚く。
+&size(20){&color(#A2465D){●}} [[魔女の酒場]]で無茶振りされた事をキッカケに、再び&bold(){一発ギャガー}としての夢を追いかけ始めた。
+#div(width=390px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){&icon_fa(fa fa-search)&space()&bold(){外見}}}}
+&size(20){&color(#A2465D){●}} 真っ赤な仮面を常に付けている。ほぼ外すことは無い。
+#div(width=390px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){&icon_fa(fa fa-heart-o)&space()&bold(){性格}}}}
+&size(20){&color(#A2465D){●}} 市民生活3日目にしてリサセン通い用のランポを購入するなど、ファーマー気質の傾向がある。
+&size(20){&color(#A2465D){●}} 「危ない橋は渡り得」という発言からもわかるように、好奇心が身を滅ぼすタイプの典型。
+&size(20){&color(#A2465D){●}} エンタメについての思考力・発想力が豊富。カジノ店員と遊べる「ダイスポーカー」を確率面の検証含めて考案したのは、他でもない彼である。
+
+//情報追加用コピペ
+//&size(20){&color(#A2465D){●}} 本文
+//情報について
+//本人視点では知り得ないネタバレ等を記すのは控え、必要の際は伏せ表示を使う。憶測(~らしい等)は、第三者から聞いたものや本人が発言したものなら構わない。感想はNG。要点を掻い摘んで出来るだけまとめて記述をお願い致します。相応しくないものが書かれていてもすぐに消さず、先頭に｢//｣を付けて非表示にして下さい。
+
+**&font(#A2465D){&icon_fa(fas fa-folder)} エピソード
+***2024年02月
+#region(02/21 【#01】ロスサントスに到着･免許取得･車を買う,close)
+&bold(){02/21日[[&font(#A2465D){&icon_fa(fa fa-youtube-play)}【ストグラ】第二の人生求めて>>https://www.youtube.com/live/CJoiQ98BcqM?si=a0qildP7tTW0c5-6]]}
+
+#div(width=340px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){●}} 到着･第一街人(30:05~)}
+街に到着！街人を探して30分ほど移動を続けるが会えず
+見つけた[[お店らしき場所>Happy Nutty Bunny]]は閉店していた。大通りを歩き
+続け、やっとの思いで第一街人[[月ノ島ごう>月ノ島　ごう]]さんと出会う
+出会うまでの事情を話すと、車で案内してもらうことに
+#div(width=340px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){●}} デパート･川上たばこ店(59:57~)}
+デパートで ごうさんから FITBIT と スケボーをもらった
+購入出来るか試していたらナイフが買えてしまったので
+銃刀法違反で危ないということもあり、ごうさんに譲渡
+🚬川上たばこ店店員(敬称略)：[[元難波芽久未>元難波　芽久未]]
+GACHI CHOCOLATE をごうさんに50個奢ってもらう｡
+居合わせた[[焦月ツルギ>焦月 ︎︎ツルギ]]さんと話し社長と言うことを聞く
+#div(width=340px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){●}} 警察署･Violet Fizz(1:11:23~)}
+困った時に駆け込めるよう、警察署を案内される
+中で[[安倍霊明>安倍　霊明]]さんという警察の方が閉じ込められていた
+ごうさんの対応を見守るが一般市民には何もできず解散
+#div(width=340px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){●}} 教習所･免許取得･(1:34:36~)}
+
+#div(width=340px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){●}} PYC･クラフト(3:10:57~)}
+
+#div(width=340px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){●}} 車購入･カスタム(3:45:38~)}
+
+#div(width=340px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){●}} SKE･電気工事バイト(4:22:00~)}
+
+#div(width=340px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){●}} 警察署･マンション(4:43:43~)}
+
+#div(width=340px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){●}} マンションにて就寝(5:25:42)}
+
+#endregion
+
+#region(02/25 【#02】,close)
+&bold(){02/25[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}【ストグラ】2日目 世界を完全に理解する >>https://www.twitch.tv/rigze0925/v/2073215754?sr=a&t=0s]]}
+
+#endregion
+
+#region(02/27 【#03】,close)
+&bold(){02/27[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}【ストグラ】3日目 仕事探し＆ギャグ考える>>https://www.twitch.tv/rigze0925/v/2075095546?sr=a&t=0s]]}
+
+#endregion
+***2024年03月
+#region(03/01 【#04】,close)
+&bold(){03/01[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}【ストグラ】土場リグゼ ストグラ生活4日目>>https://www.twitch.tv/rigze0925/v/2077918460?sr=a&t=0s]]}
+
+#endregion
+
+#region(03/03 【#05】焦虫ペダル結成,close)
+&bold(){03/03[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}【ストグラ】土場リグゼ ストグラ生活5日目>>https://www.twitch.tv/rigze0925/v/2079973950?sr=a&t=0s]]}
+
+#endregion
+
+#region(03/05 【#06】,close)
+&bold(){03/05[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}【ストグラ】脱初心者！面白さを求めて土場リグゼ視点 ストグラ生活6日目>>https://www.twitch.tv/rigze0925/v/2081815344?sr=a&t=0s]]}
+
+#endregion
+
+#region(03/06 【#07】,close)
+&bold(){03/06[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}【ストグラ】脱初心者！面白さを求めて土場リグゼ視点 ストグラ生活6日目>>https://www.twitch.tv/rigze0925/v/2082750626?sr=a&t=0s]]}
+
+#endregion
+
+#region(03/07 【#08】,close)
+&bold(){03/07[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}【ストグラ】幸せは歩いてこないだから歩いていくんだね ストグラ生活8日目>>https://www.twitch.tv/rigze0925/v/2083717767?sr=a&t=0s]]}
+
+#endregion
+
+#region(03/08 【#09】,close)
+&bold(){03/08[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}【ストグラ】すべてを理解したおとこ ストグラ生活9日目>>https://www.twitch.tv/rigze0925/v/2084589864?sr=a&t=0s]]}
+
+#endregion
+
+#region(03/09 【#10】焦虫ペダル デスマウンテン合宿参加,close)
+&bold(){03/09[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}【ストグラ】 デスマウンテン＆PYC勤務＆カジノ体験 ストグラ生活10日目>>https://www.twitch.tv/rigze0925/v/2085585209?sr=a&t=0s]]}
+
+#endregion
+
+#region(03/10 【#11】大喜利大会参加表明＆一次面談・自転車レース参加,close)
+&bold(){03/10[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}【ストグラ】 光と影 カジノ体験＆自転車レース ストグラ生活11日目>>https://www.twitch.tv/rigze0925/v/2086650249?sr=a&t=0s]]}
+
+#endregion
+***2025年02月
+#region(02/11 【#74】ストグラ 土場リグゼ74目来週！？ギャグがないと😢,close)
+&bold(){02/11[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}ストグラ 土場リグゼ74目来週！？ギャグがないと😢>>https://www.twitch.tv/videos/2378418823]]}
+-1か月出勤し続けた結果、PYCがヤバイという結論にたどり着いたリグゼは、店長のルゥに自身が感じた思いを直接ぶつけた
+-「リグゼがそんな風に思ってたなんて私は悲しい」と言われ、眠りがちだった後ろめたさで言えなかったと伝える
+-分業制にPYCが生き残るヒントを見出し、なんとか明日への希望をつなぐ
+-警察体験から帰還した胡蒋が店で一人待っており、みんな自然と笑顔になった
+-魔女の酒場から電話がかかってきて、ギリギリの時間にネタ見せをする
+#endregion
+
+***2025年03月
+#region(03/26 【#74】ストグラ 土場リグゼ85日目 ちょこっと起きる日が続いたってイイ,close)
+&bold(){03/26[[&font(#A2465D){&icon_fa(fa-brands fa-twitch)}ストグラ 土場リグゼ85日目 ちょこっと起きる日が続いたってイイ>>https://www.twitch.tv/videos/2415807428]]}
+-起き掛けにPYCが3月いっぱいで閉店する事を知る
+-[[月乃　えるな]]から電話があり、詳しい内容がわかったら教える約束をする
+-[[虎雄>>街雄　サンリ]]が作る新しいカードゲームを手伝う約束をする
+-[[ヤマンバ　花子]]からPYC跡地にカフェができる事を聞かされるが、カフェは元々PYCに併設される予定だったらしい
+-[[もり　るんるん]]にPYCが閉店したら永眠するんじゃないかと心配される。新しい仕事が見つかったら連絡すると約束する
+-[[ルゥ　ギャラクティカ]]から店をたたむ理由を聞く
+-[[菖蒲　光樹]]から[[SKE>>菖光エンジニア]]に誘われ、とりあえず体験は行く事にする。
+-この機会になにか違う事をしてみたらと[[胡　蒋]]に言われる
+#endregion
+
+//エピソード用コピペ
+//#region(月/日 【#番号】簡単なエピソード目次,close)
+//&bold(){月/日[[&font(#A2465D){&icon_fa(fa fa-youtube-play)}　配信タイトル>>配信URL]]}
+
+//#div(width=350px,bgcolor=#EAE8E8){&size(16){&color(#A2465D){●}}　場所など(配信の時間)}
+//本文
+//読みやすいように、お名前は[[>]]を付けて空白が出来ないようにお願いします。お店へ行った際に居た店員さんや喋りかけてくれた店員さんの記名、会話をしたが大人数の時はまとめて、深く話した方のみ掻い摘んで頂けると助かります。
+**&font(#A2465D){&icon_fa(fas fa-folder)} アーカイブ
+※Twitchのアーカイブは仕様により60日終了後に見れなくなります。
+***2024年
+#region(2月,close)
+#table_style(head=center:#EAE8E8){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/21|01|&font(#A2465D){&icon_fa(fa fa-youtube-play)}[[【ストグラ】第二の人生求めて >>https://www.youtube.com/live/CJoiQ98BcqM?si=4CtvcGz4XbPAJ-QQ]]|普通自動車免許取得([[担当>ヘラシギ]])|
+|02/25|02|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】2日目 世界を完全に理解する >>https://www.twitch.tv/rigze0925/v/2073215754]]||
+|02/27|03|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】3日目 仕事探し＆ギャグ考える>>https://www.twitch.tv/videos/2075095546]]||
+#endregion(2月)
+
+#region(3月,close)
+|03/01|04|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】土場リグゼ ストグラ生活4日目>>https://www.twitch.tv/videos/2077918460]]||
+|03/03|05|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】土場リグゼ ストグラ生活5日目>>https://www.twitch.tv/videos/2079973950]]|焦虫ペダル結成　初心者マークを外す|
+|03/05|06|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】脱初心者！面白さを求めて土場リグゼ視点 ストグラ生活6日目>>https://www.twitch.tv/videos/2081815344]]| |
+|03/06|07|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】脱初心者！面白さを求めて土場リグゼ視点 ストグラ生活6日目>>https://www.twitch.tv/videos/2082750626]]| |
+|03/07|08|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】幸せは歩いてこないだから歩いていくんだね ストグラ生活8日目>>https://www.twitch.tv/videos/2083717767]]| |
+|03/08|09|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】すべてを理解したおとこ ストグラ生活9日目>>https://www.twitch.tv/videos/2084589864]]| |
+|03/09|10|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】 デスマウンテン＆PYC勤務＆カジノ体験 ストグラ生活10日目>>https://www.twitch.tv/videos/2085585209]]| |
+|03/10|11|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】 光と影 カジノ体験＆自転車レース ストグラ生活11日目>>https://www.twitch.tv/videos/2086650249]]|　|
+|03/12|12|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】 光と影 カジノ体験＆自転車レース ストグラ生活11日目>>https://www.twitch.tv/videos/2088512797]]||
+|03/13|13|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】 面白いことを探す！！！！13日目>>https://www.twitch.tv/videos/2089436661]]||
+|03/14|14|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】 優君のライブ＆町探検！！14日目>>https://www.twitch.tv/videos/2090376882]]||
+|03/17|15|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】 優君のライブ＆町探検！！14日目>>https://www.twitch.tv/videos/2093391961]]||
+|03/19|16|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】楽しいことが増えてきた！！！16日目前半>>https://www.twitch.tv/videos/2095160076]]||
+|~|~|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】カジノで働くかそれとも！？16日目後半>https://www.twitch.tv/videos/2095265804]]||
+|03/20|17|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】カジノではたらきたいですが？17日目>https://www.twitch.tv/videos/2096207626]]||
+|03/21|18|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】深夜に起きたら何か起こるかもしれない！！！？18日目>https://www.twitch.tv/videos/2097252567]]||
+|03/23|19|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】いったんおきてファームやらPYC勤務やら！19時ちょいまで？19日目前半>https://www.twitch.tv/videos/2098913727]]||
+|~|~|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】ライブ見に行く＆カジノ勤務？？19日目前半>https://www.twitch.tv/videos/2099041074]]||
+|03/24|20|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】ラビスピプリズンブレイク！20日目>https://www.twitch.tv/videos/2100121503]]||
+|03/30|21|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】超絶久々！初めてのカジノ会議！！21日目>https://www.twitch.tv/videos/2105780739]]||
+#endregion(3月)
+
+#region(4月)
+|MIDDLE:04/01|MIDDLE:？|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】記憶があいまいに！ギャングで今日も暴れるぞ！??日目>https://www.twitch.tv/videos/2106868045]]|MIDDLE:[[ストグラシャッフルパージデー]]|
+|~|~|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】記憶があいまいに！ギャングで今日も暴れるぞ！??日目>https://www.twitch.tv/videos/2107647982]]|~|
+|04/03|22|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[【ストグラ】記憶があいまいに！ギャングで今日も暴れるぞ！??日目>https://www.twitch.tv/videos/2109574293]]||
+|04/05|23|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[ストグラ！23日目 PYCで働いたり町ぶらぶらしたり>https://www.twitch.tv/videos/2111358697]]||
+|04/09|24|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[ストグラ！24 日目 久々の町へ！最高に楽しむ>https://www.twitch.tv/videos/2115061759]]||
+|04/10|25|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[ストグラ！25 日目 カジノで働くぞいぞい！！>https://www.twitch.tv/videos/2116027724]]||
+|04/11|26|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[ストグラ！26日目 PYC会議！！>https://www.twitch.tv/videos/2116846022]]||
+|04/13|27|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[ストグラ！27日目 ついにカジノイベント！！！！！>https://www.twitch.tv/videos/2118599712]]||
+|04/14|28|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[ストグラ！28日目 鳥羽さん一時帰国前最終日＆PYC勤務！！！！！>https://www.twitch.tv/videos/2119660814]]||
+|04/27|29|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[久しぶりに町に行ってみるか～ 土場リグゼ29日>https://www.twitch.tv/videos/2130938499]]||
+#endregion
+
+#region(6月)
+|06/18|30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[超久々のストグラ！！久々の街で楽しみ！！！大冒険予定地>https://www.youtube.com/watch?v=OUuLMOuLHx0]]||
+|06/29|31|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}ストグラ！カジノでチケット販売するらしい！||
+#endregion
+
+#region(7月)
+|07/18|32|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}ストグラ！なんでもあり！！町で楽しいスローライフ！土場リグゼ視点 32日目||
+#endregion
+
+#region(11月,open)
+|11/05|33|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[ストグラ 土場リグゼ 33日目 きょうから町に復帰してもいいかい？>>https://www.twitch.tv/videos/2294309363]]||
+|11/10|34|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[ストグラ 土場リグゼ 34日目 町復帰2日目 仕事のやり方おぼえてますか？？ｗ>>https://www.twitch.tv/videos/2298468043]]||
+|11/14|35|&font(#A2465D){&icon_fa(fa-brands fa-twitch)}[[ストグラ 土場リグゼ 35日目 町復帰3日目 カジノでお仕事！アンドモア！>>https://www.twitch.tv/videos/2301533218]]||
+#endregion
+
+**アーカイブ(2025以降)
+&bold(){・&s(){(留意)4/19以降より100時間の保存制限が掛かる事となる。Twitch}}
+
+#Region(#-~)&bold(){－#-~　閉じる}
+#table_style(head=#b33e5c){No=#eee:center,配信タイトル（YouTubeリンク）=#fff}
+|~配信(投稿)日|~配信タイトル（Twitchリンク）|~主なエピソード|Youtubeアーカイブ|h
+|2025/2/22|[[ストグラ 土場リグゼ80日目 きょうでまちきて１ねんめ！>>https://youtu.be/fgMS6wDyk8E]]|||
+|2025/2/27|[[ストグラ 土場リグゼ81日目 本当に少しだけ>>https://www.twitch.tv/rigze0925/schedule?vodID=2391738582]]|||
+#table_sorter(){head=#e6e6fa,even=white,repeathead=10}
+#EndRegion
+
+#right(){&link_up(🔝ページTOPへ)}

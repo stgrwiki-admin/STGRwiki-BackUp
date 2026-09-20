@@ -1,0 +1,17 @@
+*ストグラ用語集
+#size(110%){{{
+&anchor(目次,option=nolink){}
+|BGCOLOR(#aFF):~目次|&link_anchor(glossary_a){あ}|&link_anchor(glossary_ka){か}|&link_anchor(glossary_sa){さ}|&link_anchor(glossary_ta){た}|&link_anchor(glossary_na){な}|
+|~|&link_anchor(glossary_ha){は}|&link_anchor(glossary_ma){ま}|&link_anchor(glossary_ya){や}|&link_anchor(glossary_ra){ら}|&link_anchor(glossary_wa){わ}|
+}}}
+
+#region(目次,close)目次
+#contents_line(page=ストグラ用語集/あ行～な行,level=2,sep=｜,anchor_only=true)
+#contents_line(page=ストグラ用語集/は行～わ行,level=2,sep=｜,anchor_only=true)
+#endregion(目次終わり)
+
+#include(ストグラ用語集/あ行～な行)
+
+#include(ストグラ用語集/は行～わ行)
+
+#right(){&link_anchor(目次){↑目次へ}}

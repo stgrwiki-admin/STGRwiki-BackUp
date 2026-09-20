@@ -1,0 +1,370 @@
+*&font(25px,#92B4F0){プ}ロフィール &font(25px,#92B4F0){&icon_fa(fa fa-utensils)}
+//&image(1712413331324.png,y=400)
+//800:480
+#slide_img(auto=6,position=left,width=360,height=216){ルールちゃん_警察01.png,ルールちゃん_警察02.png,ルールちゃん_私服02.png,ルールちゃん_私服01.png}
+#table_style(head=#5465AA:#FFF)
+|~名前|~&icon_fa(fa fa-user)|ルール　ちゃん|
+|~出身地|~&icon_fa(fa fa-location-dot)|不明|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|不明&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~血液型|~&icon_fa(fa-solid fa-droplet)|不明|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年04月06日 (&countup(2024/04/06,yd)経過)|
+|~住所|~&icon_fa(fa fa-house)|不明|
+|MIDDLE:~職業|MIDDLE:~&icon_fa(fa fa-suitcase)|&bold(){中華料理屋【[[明味房>ミンミンボウ]]】店員} &small(){2024/05/16〜}|
+|~|~|&bold(){[[警察官>ロスサントス警察]]} &small(){(本署) 2024/07/12～07/20，2025/3/27～}&br()&small(){　　　　(&link_anchor(police_southernquarter,page=ロスサントス警察){南署}) 2024/07/20～2025/3/27}&br()&small(){　　階級 警察はGrade:2のSergeant (巡査部長)}&br()&small(){　　　　 SWATはGrade:1}|
+|~|~|&small(){&openclose2(show=※過去のアルバイト){&nbsp(br,3)メカニック【[[PYC]]】&small(){2024/05/18～}}}|
+|~TwiX|~&icon_fa(fa fa-crow)|@lulechan|
+|~免許|~&icon_fa(fa fa-address-card-o)|普通自動車免許,自動二輪免許|
+|~変装|~&icon_fa(fa fa-user-lock)|&infobox(title=？？？？,trigger=click){めるてゃ}|
+|BGCOLOR(#92B4F0):COLOR(#666):~プレイヤー|BGCOLOR(#92b4f0):COLOR(#666):~&icon_fa(fa fa-gamepad)|ルルベル🍴︎🐺|
+|BGCOLOR(#92B4F0):COLOR(#666):~告知等|BGCOLOR(#92B4F0):COLOR(#666):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000){X&space()(旧&font(#1da1f2){Twitter}) @Lulebel_}>>https://twitter.com/Lulebel_]]|
+|BGCOLOR(#92B4F0):COLOR(#666):~配信場所|BGCOLOR(#92B4F0):COLOR(#666):~&icon_fa(fa fa-video-camera)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/lulebel_]]  (@lulebel_)&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){Youtube}>>https://www.youtube.com/@lulebel]] (@lulebel)|
+|BGCOLOR(#92B4F0):COLOR(#666):~アーカイブ|BGCOLOR(#92B4F0):COLOR(#666):~&icon_fa(fa fa-archive)|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){Youtube }>>https://www.youtube.com/playlist?list=PLYrrfQUWvBKWMNocE71dDw6msmQIBqIG_]] (Day1-最新日)|
+|BGCOLOR(#92b4f0):~&font(#666){切り抜き動画}|BGCOLOR(#92b4f0):COLOR(#666):~&icon_fa(fa fa-scissors)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/playlist?list=PLYrrfQUWvBKUwBsoYJ07KF3ME6ClDyMju]] (不定期投稿)|
+|BGCOLOR(#92B4F0):COLOR(#666):~ガイドライン|BGCOLOR(#92B4F0):COLOR(#666):~&icon_fa(fa fa-book)|[[ガイドライン>>https://lit.link/Lulebel]]|
+//職業を追加・更新した場合、「参加者一覧」等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(25px,#92B4F0){基}本情報 &font(25px,#92B4F0){&icon_fa(fa fa-id-card-o)}
+&font(#92B4F0){●&space()}母国で姉が指名手配犯。そして失踪中。顔がそっくりで何度も間違えられるため故郷を離れロスサントスへ逃げてきた。
+&font(#92B4F0){●&space()}姉と間違われないために毎日仮面をつけている。
+&font(#92B4F0){●&space()}音楽と甘いもの、可愛いもの、いたずらが大好き。
+&font(#92B4F0){●&space()}姉に会える手がかりを探しながら&font(#5465AA){「人の役に立てる仕事」}をしたいと思っている。
+&font(#92B4F0){●&space()}[[月ノ島　ごう]]にカジノの話を聞いた際に興味津々で、初参加のカジノ王イベントにて5000万を獲得。
+　※もしかしたらギャンブルの素質があるの…かもしれない。
+&font(#92B4F0){●&space()}街案内をしてくれた[[ラピス　りお]]と[[ミン　ドリー]]に憧れ警察に志願し、無事合格する。
+&font(#92B4F0){●&space()}本人の希望により、&link_anchor(police_southernquarter,page=ロスサントス警察){南署}に所属する。(2024/07/20～2025/3/27)
+&font(#92B4F0){●&space()}当初は市民交流を目的に警察官になったが、白・黒市民の在り方に疑問を持ってしまったのと、警察ファーストの考え方に寄ってしまったため、本署に移動する。
+
+
+*&font(25px,#92B4F0){関}連人物 &font(25px,#92B4F0){&icon_fa(fas fa-users)}
+&font(b,16px){🚑[[ヘスティア　ゴデス]]}さん & &font(b,16px){[[伊豆院　登]]}さん
+-空港に降り立って早々に空腹でぶっ倒れた際、救護に駆けつけてくれた救急隊員のお二方。&bold(){ロスサントスの第一村人。}
+-ヘリコプターに乗せて市街地まで連れて行ってくださった。
+&font(b,16px){🚓[[ラピス　りお]]}さん
+-空いている店がないなー、とタバコ屋の前でウロウロしていた時に声をかけてくださった警察官の方。
+-街中を一通り案内してくださった。
+&font(b,16px){🐈‍⬛[[スコティッシュ・ホールド]]}さん 
+-[[Violet　Fizz]]にて出会った女性。臨時店長の[[ヤミー　エンデバー]]は看板猫と呼んでいた。
+-初めてどストライクでかわいい　と思った人。
+
+*&font(25px,#92B4F0){エ}ピソード &font(25px,#92B4F0){&icon_fa(fa fa-book)}
+//***【エピソードまとめ】
+***2024年
+#region(4月,close)4月を閉じる
+****4/6 [[【#ストグラ】１日目🔰✧︎初めましてロスサントス 【ルールちゃん視点】>>https://www.youtube.com/watch?v=EsobD7RJUqo]]
+#region(開く,open)閉じる
+&font(#5465AA){●&space()}空港に降り5分足らずで早々一回目のダウンをする。
+　&font(#5465AA){●&space()}よってこの街に来ての第一村人は救急隊の[[ヘスティア　ゴデス]]と[[伊豆院　登]]となった。
+
+&font(#5465AA){●&space()}[[たばこ屋>川上たばこ店]]の前で[[警察>ロスサントス警察]]兼宝石商の[[ラピス　りお]]に街案内をしてもらう。　
+
+&font(#5465AA){●&space()}デパートのコスメショップにて[[物忘　レイナ]]と[[月ノ島　ごう]]に出会い、アイテム等の使い方を教えてもらう。
+
+&font(#5465AA){●&space()}VIPカジノ王参加の為に[[上田　さん]]に1000万貰う。
+　&font(#5465AA){●&space()}りおさんや上田さんに教えられるがままにギャンブルをした結果、&bold(){街に来てわずか数時間ながらカジノ王2位となり、5000万という大金を手にしてしまう}
+
+&font(#5465AA){●&space()}りおさんの案内で[[魔法少女カフェ>RitUal:]]に入店。使い魔さんの即興曲を楽しむ。
+
+&font(#5465AA){●&space()}[[A2 Lab]]や[[BMカスタム]]などのメカニックを案内してもらう。
+
+&font(#5465AA){●&space()}りおさんとの再会を約束して、レギオンにて就寝。
+#endregion(4/6)
+****4/12 [[【#ストグラ】２日目🔰✧︎働け！ルールちゃん【ルールちゃん視点】>>https://www.youtube.com/watch?v=a6Ga_7ek1gE]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(4/12)
+****4/13 [[【#ストグラ】３日目🔰そろそろお仕事？ルールちゃん！【ルールちゃん視点】>>https://www.youtube.com/watch?v=a6Ga_7ek1gE]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(4/13)
+****4/17 [[【#ストグラ】４日目🔰いろんなことしたいな【ルールちゃん視点】>>https://www.youtube.com/watch?v=a6Ga_7ek1gE]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(4/17)
+#endregion(4月)
+
+#region(5月,close)5月を閉じる
+****5/15 [[【#ストグラ】５日目🔰ミンミンボウに就職だ！【ルールちゃん視点】>>https://www.youtube.com/watch?v=DqkjX6TwhuQ]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(5/15)
+****5/18 [[【#ストグラ】6日目🔰✧︎今日もがんばって【ルールちゃん視点】>>https://www.youtube.com/watch?v=LZvA2ATCcfQ]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(5/18)
+#endregion(5月)
+
+#region(6月,close)6月を閉じる
+****6/14 [[【#ストグラ 】7日目🔰✧︎警察体験1日目！【ルールちゃん視点】>>https://www.youtube.com/watch?v=UyZLwG0Zsno]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(6/14)
+****6/15 [[【#ストグラ 】8日目✧︎警察体験2日目！張り切って頑張ります【ルールちゃん視点】>>https://www.youtube.com/watch?v=twYg4hukFKo]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(6/15)
+****6/16 [[【#ストグラ】9日目✧︎警察体験最終日です【ルールちゃん視点】>>https://www.youtube.com/watch?v=tKuLk36DEV4]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(6/16)
+#endregion(6月)
+
+#region(7月,close)7月を閉じる
+****7/3 [[【#ストグラ】10日目✧︎ライブの練習です！【ルールちゃん視点】>>https://www.youtube.com/watch?v=IK1_o1sVpbE]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(7/3)
+****7/4 [[【#ストグラ】11日目✧︎肉フェスだ！楽しもう！【ルールちゃん視点】>>https://www.youtube.com/watch?v=1nTWrsnoSfM]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(7/4)
+****7/11 [[【#ストグラ】12日目✧︎警察の合否発表の日【ルールちゃん視点】>>https://www.youtube.com/watch?v=HE5zTqfRIaE]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(7/11)
+****7/20 [[【#ストグラ】13日目✧︎新人警察２日目！警察署南北戦争！？【ルールちゃん視点】>>https://www.youtube.com/watch?v=pOOGfWE8rEU]]
+#region(開く,open)閉じる
+-警察2日目にして南北戦争に巻き込まれる。
+-原因の一人が同期の[[斎藤>ブロッコリー　斎藤]]と聞く。
+-南署に所属を決める。
+・他エピソード募集中
+#endregion(7/20)
+****7/24 [[【#ストグラ】14日目✧︎今日は何かある日？【ルールちゃん視点】>>https://www.youtube.com/watch?v=bGkbSVJW8lk]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(7/24)
+****7/29 [[【#ストグラ】15日目✧︎マイペースが一番です【ルールちゃん視点】>>https://www.youtube.com/watch?v=d_LlKszHEhU]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(7/29)
+#endregion(7月)
+
+#region(8月,open)8月を閉じる
+****8/3 [[【#ストグラ】16日目✧︎新人警察ルールちゃんです【ルールちゃん視点】>>https://www.youtube.com/watch?v=QSFLdxOhEWA]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(8/3)
+****8/10 [[【#ストグラ】17日目✧︎全部勉強です【ルールちゃん視点】>>https://www.youtube.com/watch?v=0yj7AmMmWys]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(8/10)
+****8/11 [[【#ストグラ】18日目✧︎向き不向き【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=2KqahvXjNXQ]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(8/11)
+#endregion(8月)
+//
+//↓コピー用素材
+//
+//***yyyy年
+//#region(mm月,open)mm月を閉じる
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)閉じる
+//・エピソード募集中
+//#endregion(mm/dd)
+//
+//#endregion(mm月)
+//
+&font(b,21px){エピソード募集中}
+
+*&font(25px,#92B4F0){ア}ーカイブ &font(25px,#92B4F0){&icon_fa(fa fa-youtube-play)}
+-基本的には&font(#DA1725){&icon_fa(fa fa-youtube-play)}Youtubeにて配信、&font(#6441A4){&icon_fa(fa fa-twitch)}Twitchとの同時配信をしている場合もあり。アーカイブに期限のない&font(#DA1725){&icon_fa(fa fa-youtube-play)}YoutubeのURLを記載しています。
+***2024年
+#region(開く,close)
+#table_style(head=center:#85aaed){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|4/6|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】１日目🔰✧︎初めましてロスサントス 【ルールちゃん視点】>>https://www.youtube.com/watch?v=EsobD7RJUqo]]|カジノ王イベントにて2位をとる|
+|4/12|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】２日目🔰✧︎働け！ルールちゃん【ルールちゃん視点】>>https://www.youtube.com/watch?v=a6Ga_7ek1gE]]|配信リンク2枠目|
+|4/13|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】３日目🔰そろそろお仕事？ルールちゃん！【ルールちゃん視点】>>https://www.youtube.com/watch?v=QufPhM7TbD4]]||
+|4/17|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】４日目🔰いろんなことしたいな【ルールちゃん視点】>>https://www.youtube.com/watch?v=7tGU09sPQ5g]]||
+|5/15|5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】５日目🔰ミンミンボウに就職だ！【ルールちゃん視点】>>https://www.youtube.com/watch?v=DqkjX6TwhuQ]]|録画による記録のみ|
+|5/18|6|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】6日目🔰✧︎今日もがんばって【ルールちゃん視点】>>https://www.youtube.com/watch?v=LZvA2ATCcfQ]]|[[PYC]]職業体験1日目|
+|6/14|7|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ 】7日目🔰✧︎警察体験1日目！【ルールちゃん視点】>>https://www.youtube.com/watch?v=UyZLwG0Zsno]]|[[警察>ロスサントス警察]]体験開始|
+|6/15|8|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ 】8日目✧︎警察体験2日目！張り切って頑張ります【ルールちゃん視点】>>https://www.youtube.com/watch?v=twYg4hukFKo]]||
+|6/16|9|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】9日目✧︎警察体験最終日です【ルールちゃん視点】>>https://www.youtube.com/watch?v=tKuLk36DEV4]]|警察体験終了|
+|7/3|10|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】10日目✧︎ライブの練習です！【ルールちゃん視点】>>https://www.youtube.com/watch?v=IK1_o1sVpbE]]||
+|7/4|11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】11日目✧︎肉フェスだ！楽しもう！【ルールちゃん視点】>>https://www.youtube.com/watch?v=1nTWrsnoSfM]]||
+|7/11|12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】12日目✧︎警察の合否発表の日【ルールちゃん視点】>>https://www.youtube.com/watch?v=HE5zTqfRIaE]]|警察合格、初出勤|
+|7/20|13|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】13日目✧︎新人警察２日目！警察署南北戦争！？【ルールちゃん視点】>>https://www.youtube.com/watch?v=pOOGfWE8rEU]]|南署配属|
+|7/24|14|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】14日目✧︎今日は何かある日？【ルールちゃん視点】>>https://www.youtube.com/watch?v=bGkbSVJW8lk]]|PYC職業体験2日目|
+|7/29|15|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】15日目✧︎マイペースが一番です【ルールちゃん視点】>>https://www.youtube.com/watch?v=d_LlKszHEhU]]|PYC職業体験3日目|
+|8/3|16|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】16日目✧︎新人警察ルールちゃんです【ルールちゃん視点】>>https://www.youtube.com/watch?v=QSFLdxOhEWA]]||
+|8/10|17|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】17日目✧︎全部勉強です【ルールちゃん視点】>>https://www.youtube.com/watch?v=0yj7AmMmWys]]||
+|8/11|18|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】18日目✧︎向き不向き【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=2KqahvXjNXQ]]||
+|8/16|19|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】19日目✧︎新人警察ルールちゃん！【ルルベル/新人Vtuber】>>https://www.youtube.com/watch?v=Gm15ctEH43Q]]|警察車両(Police Paragon R)支給|
+|8/19|20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】20日目✧︎初めての早番警察！【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=TqKrMjosjik]]||
+|8/23|21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】21日目✧︎今の自分に出来ること！【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=tTK016PGbZg]]||
+|9/14|22|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】22日目✧警察の先輩たちがホストになったらしい【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=ajTMvHVzHYg]]||
+|9/18|23|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】23日目✧︎お久しぶりの警察です【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=mDOqk4fbyAg]]||
+|9/19|24|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】24日目✧︎できるところまで【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=R1f1I_di1fw]]||
+|9/21|25|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】25日目✧︎警察官になって10日？になったルールちゃんです！【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=nN9zbXYeH8E]]||
+|10/02|26|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】26日目✧︎少しだけ警察です→まったり雑談タイムです【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=u3zMquDGv90]]||
+|10/03|27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ 】27日目✧︎悩みだけが増えていく【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=FbaQIrkr9AI]]||
+|10/06|28|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ】28日目✧︎とても短いですが！【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=8ixCl32Ysn0]]||
+|10/16|29|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ 】29日目✧︎少しずつ【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=dlSpE37AF6A]]||
+|10/17|30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ 】30日目✧︎早番で出来るところまで警察です！→雑談【警察/ルールちゃん視点】>>https://www.youtube.com/watch?v=t1ihUutdurY]]||
+|10/19|31|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ /警察 】31日目✧︎出来ることを増やしていきたい【ルールちゃん視点】>>https://www.youtube.com/watch?v=26EGG5fhStU]]|前編|
+|~|~|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ /警察 】31日目✧︎出来ることを増やしていきたい【ルールちゃん視点】>>https://www.youtube.com/watch?v=ZdnYZyVkctA]]|後編|
+|10/20|32|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】32日目✧︎平和だといいな【ルールちゃん視点】>>https://www.youtube.com/watch?v=wV6elxPD3MM]]|警察ランク2昇格|
+|10/26|33|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】33日目✧︎無理なく警察【ルールちゃん視点】>>https://www.youtube.com/live/3V0COH2WazM]]||
+|10/30|34|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】34日目✧︎世界が変わる日【ルールちゃん視点】>>https://www.youtube.com/watch?v=aPMU6nCEIo8]]|世界統合|
+|~|~|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】34日目✧︎世界が変わる日【ルールちゃん視点】>>https://www.youtube.com/watch?v=0J7F_OKlADE]]|~|
+|11/05|35|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】35日目✧︎平和が一番！【ルールちゃん視点】>>https://www.youtube.com/watch?v=W_TX4l1VTp8]]|[[餡ブレラ>anbrella(餡ブレラ)]]による警察署襲撃|
+|11/07|36|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】36日目✧︎大型の座学へGO【ルールちゃん視点】>>https://www.youtube.com/watch?v=v2RD2F38ksU]]||
+|11/10|37|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】37日目✧︎空が綺麗だった日【ルールちゃん視点】>>https://www.youtube.com/watch?v=7Klb6LpnT6M]]||
+|11/19|38|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】38日目✧︎ストグラRPL行ったおはなし✧→出勤です！【ルールちゃん視点】>>https://www.youtube.com/watch?v=zcxGxbI3NIc]]||
+|11/21|39|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】39日目✧︎明日も過去の自分に感謝する【ルールちゃん視点】>>https://www.youtube.com/watch?v=T4y1mxVYotg]]||
+|11/23|40|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】40日目✧︎平和な街を目指す警察官です【ルールちゃん視点】>>https://www.youtube.com/watch?v=Fei4QMp7oMg]]||
+|11/24|41|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】41日目✧︎警察でクイズ大会があるみたいです！【ルールちゃん視点】>>https://www.youtube.com/watch?v=lZ4aiiZBp-E]]|警察クイズ大会|
+|11/26|42|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】42日目✧︎宝石【ルールちゃん視点】>>https://www.youtube.com/watch?v=SN3mHZZCBFM]]||
+|~|~|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】42日目✧︎宝石【ルールちゃん視点】>>https://www.youtube.com/watch?v=7aMC4DE2uok]]||
+|11/28|43|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】43日目✧︎感謝の気持ちを！【ルールちゃん視点】>>https://www.youtube.com/watch?v=4i92jg1v6kc]]||
+|11/30|44|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】44日目✧︎命も大事に！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=o4ilwek7Jys]]||
+|12/01|45|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】45日目✧︎12月はじめてのロスサントス🎄【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=QeCHDSeMOgs]]||
+|12/05|46|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】46日目✧︎今日も明日もマイペースな警察官【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=8qZziVbfmio]]||
+|12/08|47|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】47日目✧︎大好きな人へ！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=HJumK3QNLh0]]|[[ラピスりお>>ラピス　りお]]先輩帰国|
+|12/10|48|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】48日目✧︎雪が積もる街【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=NjftLVl73O0]]||
+|12/11|49|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】49日目✧︎今日も平和な街を目指して頑張ります【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=M32x2fXnH5A]]||
+|12/21|50|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】50日目✧︎早番ルールちゃん出勤します！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=xquAOHcn5Vc]]||
+|12/25|51|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】51日目✧︎公務員でクリスマスプレゼント交換会があるみたいです【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=petesrtCMJk]]|公務員クリスマスプレゼント交換会|
+|12/27|52|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】52日目✧︎頑張ってもダメだった日【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=WIKcArhhjWE]]||
+|12/28|53|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】53日目✧︎失敗も糧になるはず！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=L9liJRb8PI4]]||
+|12/29|54|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】54日目✧︎親友【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=6osd5MqHCyI]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***2025年
+#region(開く,open)
+#table_style(head=center:#85aaed){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/03|55|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】55日目✧︎あけましておめでとう警察！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=9AZ3Yh5eE74]]||
+|01/04|56|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】56日目✧︎2025年は平和な一年になるかなぁ【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=w3E9QuJS2e8]]||
+|03/06|57|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】57日目✧︎ルールちゃん復帰しますおはようございます【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=lAL1HKfNqkc]]||
+|03/15|58|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】58日目✧︎お久しぶりの早番です！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=rhen_wU3XQI]]||
+|03/16|59|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】59日目✧︎ちょっとだけ早番の警察官です！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=5xghUsTGbyE]]||
+|03/18|60|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】60日目✧︎南署【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=ABMl5p-Pmzg]]||
+|03/19|61|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】61日目✧︎ブロッコリー斎藤とロマンスを探しに行きますよ【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=yHtmfFgYCvk]]||
+|03/22|62|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】62日目✧︎どうなる南署～【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=Jm0ococBVhY]]||
+|03/23|63|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】63日目✧︎理想【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=D4aOXJhnvxc]]|[[ALLIN]]解散|
+|03/27|64|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】64日目✧︎3月はお別れが多い月ですからね【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=FyxUzLm-4dI]]|[[赤城>赤城　煉]]元南署長一時帰国/南署から本署へ異動|
+|04/02|65|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】65日目✧︎エイプリルフールは終わってますよ！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=xbJkCfbrk_c]]||
+|04/04|66|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】66日目✧︎警察と市民【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=4mye3GfuXwc]]||
+|04/05|67|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】67日目✧︎とんでもない【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=2ofoveerqHk]]||
+|04/06|68|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】68日目✧︎人見知り克服日記１ページ目【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=ZI7ch30QheM]]||
+|04/08|69|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】69日目✧︎人見知り克服日記２ページ目【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=CRSReTzdC_s]]||
+|04/11|70|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】70日目✧︎夜さり【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=bdFLLDLnB8s]]||
+|04/20|71|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】71日目✧︎花も団子も好【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=MtKUBcTKt0c]]|公務員花見|
+|04/22|72|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】72日目✧︎急遽の衛星【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=I2uOfaQPuSY]]||
+|04/23|73|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】73日目✧︎今日はまったり警察【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=ApHRCXthN4o]]||
+|04/25|74|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】74日目✧︎早寝を心がける警察です【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=lPOhePmf2rY]]||
+|04/26|75|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】75日目✧︎今日もまったり警察？【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=f8kt3Y1ISM0]]||
+|04/29|76|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】76日目✧︎イースター!?【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=jTUTpD-tpVg]]||
+|05/04|77|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】77日目✧︎SPLに行ってきました【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=RZ6ahFfkB-A]]||
+|05/08|78|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】78日目✧︎出来るところまで頑張る早番警察【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=hTw58rTd63o]]||
+|05/10|79|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】79日目✧︎惜春【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=w9BXgA0nMdk]]||
+|05/11|80|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】80日目✧︎エッグカーという素晴らしい乗り物！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=zhVPLrK-NCE]]||
+|05/14|81|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】81日目✧︎ゆるゆると警察～【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=mWIi4eh9ESA]]||
+|05/18|82|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】82日目✧︎皆で感情の共有ができる素敵なもの【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=jG30aAY1dRA]]||
+|05/21|83|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】83日目✧︎マイブームはポップコーン🍿【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=2AP6CAGfEDE]]||
+|05/22|84|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】84日目✧︎誰にでもマイルールはあるでしょう！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=4dqDHoKpAL4]]||
+|05/28|85|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】85日目✧︎たっぷり寝た早寝する警察です【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=AdkZai7Zs6U]]||
+|05/30|86|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】86日目✧︎ラブリーでキュートでプリティーなホテル計画【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=q6DHn1BEUyw]]||
+|05/31|87|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】87日目✧︎ラブリーでキュートでプリティーなホテル計画part2【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=vAnsDv2sJ1w]]|虚空新聞に記事を書かれる|
+|06/01|88|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】88日目✧︎ホテル暮らしのルルエッティ【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=1qeeAxIgyPM]]||
+|06/03|89|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】89日目✧︎一寸の虫にもなんとやら【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=68f1ib1GFWM]]||
+|06/05|90|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】90日目✧︎ペンは剣よりも強し！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=ebsPq1B304s]]||
+|06/18|91|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】91日目✧︎お久しぶりの出勤です！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=gYc5ApIj_xg]]||
+|06/20|92|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】92日目✧︎UFOと夏服【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=Ju5Y5sshLY4]]||
+|06/22|93|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】93日目✧︎夏が早くて衣替えが間に合わない警察【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=dd5nO3DwHT8]]||
+|06/24|94|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】94日目✧︎UFOは焼きそばのイメージが強い警察【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=5vKlZNRgcHA]]||
+|06/26|95|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】95日目✧︎少しだけ早番警察【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=CTD8RIXQpls]]||
+|06/28|96|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】96日目　緊急招集！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=XxqNqMBd8O0]]|[[ヴァン　ダーマー]]警察署襲撃|
+|06/29|97|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】97日目✧︎UFOをいつも見れない警察【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=x1_Q386mEqo]]||
+|07/01|98|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】98日目✧︎好きなものはモチベーションになるよね～【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=bJmvs2qka2s]]||
+|07/02|99|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】99日目✧︎人見知り克服日記3ページ目【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=UN3KUfONT70]]||
+|07/05|100|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】100日目✧︎ロスサントス生活100日目の警察官【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=h1PorPLg6EU]]||
+|07/09|101|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】101日目✧︎100日越えても成長痛はこないじゃん！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=NzaC1p3pfoE]]||
+|07/10|102|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】102日目✧︎早番でさらっとゆるっとチルっと【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=vEv5nqVInzQ]]||
+|~|~|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】102日目✧︎深夜の謎調査編【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=mabGsXQoi2g]]||
+|07/11|103|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】103日目✧︎ブロッコリー斎藤＆ルールちゃんの写真集に向けて！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=xOLZGngz4aQ]]||
+|~|~|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】103日目✧︎深夜のワクワク探検隊！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=uFWxXhmPGhI]]||
+|07/19|104|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】104日目✧︎ピエロとチルい街【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=MUrS4L0Zctk]]||
+|07/22|105|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】105日目✧︎今日こそUFOを…!!【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=fXUnNAss7RE]]||
+|08/02|106|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】106日目✧︎サイレンのリハビリだ【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=8ukV0UqU7xA]]||
+|08/03|107|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】107日目✧︎早番の日！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=71hb0fsowYo]]||
+|08/07|108|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】108日目✧︎どうすればいいんだこの夏【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=MJODYsDojQQ]]||
+|08/15|109|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】109日目✧︎ピエロがいっぱいコレクション【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=YYIo8_U-qeA]]||
+|08/23|110|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】110日目✧︎一週間ぶりの早番！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=ntBe0KWtkxE]]||
+|08/27|111|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】111日目✧︎３周年のパレードへ！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=LD6PWLzMdbw]]|3周年記念パレード|
+|09/10|112|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】112日目✧︎今日も楽しく？久しぶりの出勤！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=W_YHuPnEpbM]]||
+|09/17|113|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】113日目✧︎季節の変わり目【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=bqreYaSDUTE]]||
+|09/18|114|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】114日目✧︎おそらくこれは走馬灯です【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=qgV-lSzeoMs]]||
+|~|~|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】114日目✧︎おそらくこれは走馬灯ですpart2【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=Udnr69KvuoA]]||
+|09/19|115|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】115日目✧︎エンペラー署!?🐰そして終末【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=bKDvbaC4nMM]]||
+|09/20|116|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】116日目✧︎終末前夜の帝国署【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=pp32xA7sJ4o]]||
+|09/21|117|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ / 警察 】117日目✧︎みんなと迎える最後の日【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=H05_AdCl1DM]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+*&font(25px,#92B4F0){切}り抜き動画 &font(25px,#92B4F0){&icon_fa(fa fa-film)}
+***動画
+#region(開く,open)
+#table_style(head=center:#85aaed)
+#table_filter(){公開日=show,配信タイトル=show,関連人物=hide}
+|~公開日|~配信タイトル|~関連人物|
+|2024/07/13|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ】警察体験三人合格なるか…！？ルールちゃん警察体験一日目【ストグラ切り抜き/ルルベル】>>https://www.youtube.com/watch?v=V8aQe3oJKZQ]]|【[[もり　るんるん]]】【[[羽芝　ユン]]】【[[ブロッコリー　斎藤]]】|
+|2024/07/26|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ】色んな犯罪者がいることを知る警察体験二日目のルールちゃん【ストグラ切り抜き/ルルベル】>>https://www.youtube.com/watch?v=vv7IIw1zuNI]]||
+|2024/08/11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ切り抜き】警察を志望した理由はあの人に憧れて…!?麻薬取締について学ぶ！【ルールちゃん/ミンドリー/キーモットホームズ】>>https://www.youtube.com/watch?v=Vu_cHyW7C7A]]||
+|2024/10/21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ】遭難した先輩たちを全力で救出したいルールちゃん【ルールちゃん/もりるんるん/ニックス皇帝/日之ぱちお/レッサンパンナ】>>https://www.youtube.com/watch?v=wQfyab40-Qo]]||
+|2024/11/23|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ】餡ブレラからの襲撃で助けてくれたのはまさかのあの人…!?【ルールちゃん/ブロッコリー斎藤/ミンミンボウ/ストグラ切り抜き】>>https://www.youtube.com/watch?v=GrxaF4eg34A]]||
+|2024/12/07|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ】大好きな警察の先輩ラピスりおに泣きながら思いを伝えるルールちゃん【ルルベル/碧輝りお/ストグラ切り抜き】>>https://www.youtube.com/watch?v=V_sc-s5rpqs]]||
+|2024/12/12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ】珍回答続出な警察クイズ大会！新人警察の反応まとめ【ルルベル/ルールちゃん/ストグラ切り抜き】>>https://www.youtube.com/watch?v=HYTVKCQTEfQ]]||
+|2024/12/14|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ 】警察ノンデリ男子ズとまつげを気にするルールちゃん【ルルベル/ねけまる/アジ吉/ストグラ切り抜き】>>https://www.youtube.com/watch?v=-ClO9P6AYls]]||
+|2024/12/19|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ 】襲撃後に助けてくれたヒロヤマモトに感謝の花束を渡すルールちゃん【ルルベル/ちゃげぽよ。/ストグラ切り抜き】>>https://www.youtube.com/watch?v=vzrdIlR9LzY]]||
+|2024/12/21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ 】ついに世代名決定！総勢14名の生命力溢れる警察署員【ルールちゃん/ブロッコリー斎藤/冷泉ナデシコ/生命の世代】>>https://www.youtube.com/watch?v=FuTUmnDhDLQ]]||
+|2024/12/27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ】ルールちゃん初の魂貫通!?恋愛＆仕事運タロット占い【切り抜き/ルールちゃん/ヒロヤマモト/天近くるみ】>>https://www.youtube.com/watch?v=grWn8gGXbXg]]||
+|2025/04/24|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ 】悩んだ末に南署から本署へ異動!本当の理由は…?【ルールちゃん/ブロッコリー斎藤/花沢まるん/もりるんるん】>>https://www.youtube.com/watch?v=svcHpdPlJvM]]||
+|2025/06/02|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ】「朝帰り警察」、虚空新聞から警察全体を巻き込むシリアスへ【ルルベル/ルールちゃん】>>https://www.youtube.com/watch?v=ek44fymjYgo]]||
+|2025/10/20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ 】写真集『恋の掟（ルール）』撮影風景【ストグラ切り抜き/ねけまる/ルルベル】>>https://www.youtube.com/watch?v=_EM0z5X28bI]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***Shorts動画
+#region(開く,open)
+#table_style(head=center:#85aaed)
+#table_filter(){公開日=show,配信タイトル=show}
+|~公開日|~配信タイトル|
+|2024/06/11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ切り抜き】まさかのバイク試乗でダウンするルールちゃん #shorts #ストグラ>>https://www.youtube.com/shorts/ElN2rYxNc7I]]|
+|2024/08/12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察でJTSダンス 【ストグラ/ストグラ切り抜き/ロスサントス警察】#shorts>>https://www.youtube.com/shorts/x8W6xlkcSKI]]|
+|2024/10/26|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[るんるん先輩に全力で甘えるルールちゃん #ストグラ #ストグラ切り抜き #vtuber #shorts>>https://www.youtube.com/shorts/jTu2K5IxLNQ]]|
+|2024/11/20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ハッピー○ーンの由来…？ #ストグラ #vtuber #ストグラ切り抜き #shorts>>https://www.youtube.com/shorts/VRWhjkti8c4]]|
+|2025/08/14|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ウエディングドレスを着るのは…!? #ストグラ #切り抜き #shorts>>https://www.youtube.com/shorts/VZpf6ekXYD4]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+*&font(25px,#92B4F0){ス}トグラ系コラボ/関連配信 &font(25px,#92B4F0){&icon_fa(fa fa-film)}
+#region(開く,open)
+#table_filter(){配信日=show,ゲームタイトル=hide,配信タイトル=show,コラボメンバー=show}
+#table_style(head=center:#85aaed)
+|~配信日|~ゲームタイトル|~配信タイトル|~コラボメンバー|h
+|2024/08/19|VALORANT|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ警察コラボ】先輩＆初心者いっぱいVALORANT🔰【ルルベル】>>https://www.youtube.com/watch?v=EskvSa_-MRs]]|[[えびす>伊勢　えびす]]、[[おらんじ〜な>立花　乱歩]]、[[かど>よすみの　かど]]、[[にぶぶ>二部　らるたる]]、[[さぶ郎。>安保　さぶ郎]]、[[碧輝りお>ラピス　りお]]、[[017>冷泉　ナデシコ]]、[[森野めるん>もり　るんるん]]、[[るなりあ>ニックス　リア]]、[[花芽なずな>きらりんぶい☆　なずぴ(10)]]、[[Rio>犬上　リオ]]|
+|2024/11/11|PUBG: BATTLEGROUNDS|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ公務員PUBG】警察＆救急隊でPUBGのお時間です！【ルルベル/VTuber】>>https://www.youtube.com/watch?v=4HOG5yP4AUA]]|[[#ストグラ公務員PUBG>>https://x.com/Average_Virtual/status/1855546063140352369]]|
+|2025/03/13|マーダーミステリー|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#南署エイダ】エイダ【ルルベル/マリン・アントワーネ視点】#マーダーミステリー>>https://www.youtube.com/watch?v=fVz1NFOY21k]]|[[レントンゲームズ>赤城　煉]]、[[marunnn>花沢　まるん]]、[[ルール　ちゃん>ルルベル]]、[[ぱちしゅう>日之　ぱちお]]、[[森野めるん>もり　るんるん]]、[[ちゃげぽよ。>ヒロ　ヤマモト]]|
+|2025/03/24|PUBG: BATTLEGROUNDS|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ公務員PUBG】警察＆救急隊の皆でPUBGのお時間です！【ルルベル/Vtuber】>>https://www.youtube.com/watch?v=wGkFCapeu2A]]|[[#ストグラ公務員PUBG>>https://x.com/Average_Virtual/status/1903809992563822746]]|
+|2025/04/29|R.E.P.O.|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ警察コラボ】R.E.P.Oやるぞっ!!>>https://www.twitch.tv/videos/2445686983]]||
+|2025/05/05|R.E.P.O.|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【ストグラ警察コラボ】愉快なメンバーとR.E.P.Oのお時間です！【 ルルベル / #新人Vtuber】>>https://www.youtube.com/watch?v=bpCrLhUAJuQ]]|[[ねけまる>ブロッコリー　斎藤]]、[[アジ吉>味野　環九郎]]、[[ゆきや>ぺん　ゆきや]]|
+|2025/05/19|PUBG: BATTLEGROUNDS|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ公務員PUBG】警察×救急隊の皆と戦うお時間です！👮🚑【 ルルベル / #新人Vtuber】>>https://www.youtube.com/watch?v=w9UyEhspfYI]]|[[#ストグラ公務員PUBG>>https://x.com/Average_Virtual/status/1924239828671172623]]|
+|2025/06/26|R.E.P.O.|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【R.E.P.O】ストグラ公務員メンバーでR.E.P.Oのお時間です！【 ルルベル / #新人Vtuber】>>https://www.youtube.com/watch?v=nn4n8lDF54w]]||
+|2025/07/15|PEAK|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【PEAK】ストグラ警察メンバーで楽しい山登りをします🏔【 ルルベル / #新人Vtuber】>>https://www.youtube.com/watch?v=S9e8Bms5Hu8]]|[[セリーヌ　ゴデス]]、[[ゴンザレス　マヌ太郎]]、[[ニックス　リア]]|
+|2025/07/16|Phasmophobia|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【Phasmophobia】ストグラ警察メンバーで幽霊調査だ🚓👻【 ルルベル / #新人Vtuber】>>https://www.youtube.com/watch?v=Nn_XGbNOQi8]]|[[よすみの　かど]]、[[ブロッコリー　斎藤]]、[[ニックス　リア]]|
+|2025/07/28|PUBG: BATTLEGROUNDS|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ公務員PUBG】第五回✧警察と救急隊でエンジョイPUBG！【ルルベル / #新人Vtuber】>>https://www.youtube.com/watch?v=3uoeeO9lEv4]]|[[#ストグラ公務員PUBG>>https://x.com/Average_Virtual/status/1949629308794032323]]|
+|2025/08/12|完全爆弾解除マニュアル：Keep Talking and Nobody Explodes|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ストグラ警察同期の絆（笑）で爆弾も解除できるよね【ルルベル/ねけまる】>>https://www.youtube.com/watch?v=cLilQmtbJTM]]|[[ねけまる>ブロッコリー　斎藤]]|
+|2025/09/02||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【雑談】ストグラフェスお土産話🐰ルールを守って楽しく遊んできました【ルルベル / vtuber】>>https://www.youtube.com/watch?v=dkJMJ179hKo]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,154 @@
+#center(){&big(){&bold(){\心にゆとりをってゆうとりますけど～/}}}
+
+|&image(外観.png,y=300)|&image(内装.jpg,y=300)|&image(内装2.jpg,y=300)|
+
+#table_style(head=#8A379C:#fffffe)
+|~店名|&bold(){隣のまちこ}|
+|~業種|スナック|
+|~開業日|2024年7月27日|
+|~所在地|7246番地|
+|~ママ|&bold(){[[町田　ジョアンナ]]}|
+|~チーママ|&bold(){[[隣　紀子]]}|
+|~従業員数|3名（2025年8月28日現在）|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,close)
+#contents(fromhere=true,level=2)
+#endregion
+
+**&font(30px,#8A379C){基}&font(25px){本情報 &icon_fa(fa fa-id-card-o)}
+- 開業費には[[JTS>>ジョアンナテクノサービス]]の資金を使った。
+- 店内ではカラオケもすることができる。
+- チャージ料が10万かかり、サービスでピスタチオを渡される。
+- [[隣　紀子]]のパンティがかざってあり、オークションで買える(現在25億)。
+- 月曜にのみ買うことができる「今日月」という商品がある（1本100万）。
+
+**&font(30px,#8A379C){従}&font(25px){業員情報 &icon_fa(fa fa-users)}
+***従業員
+#table_style(head=center:#8A379C:#fffffe){名前=bold}
+|~役職|~名前|~就職日|~備考|h
+|ママ|[[町田　ジョアンナ]]|2024/07/27|兼業1:メカニック【[[JTS>ジョアンナテクノサービス]]】社長&br()兼業2:普通車ディーラー【[[斎藤モータース]]】社員|
+|チーママ|[[隣　紀子]]|2024/07/27|兼業1:メカニック【[[JTS>ジョアンナテクノサービス]]】社員&br()兼業2:免許センター【[[斎藤Driving School]]】教員|
+|新人|[[よりどり　みどり]]|2025/08/28|兼業1:メカニック【[[JTS>ジョアンナテクノサービス]]】社員&br()兼業2:Bar【[[ShanaoR]]】店員|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+***体験入店
+#table_style(head=center:#8A379C:#fffffe){名前=bold}
+|~役職|~名前|~体験開始日|~備考|h
+|実母|[[風早　音子]]|2024/07/28||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//***退職者
+//#table_style(head=center:#8A379C:#fffffe)
+//|~名前|~就職日|~最終出勤日|~備考|h
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+
+**&font(30px,#8A379C){商}&font(25px){品情報 &icon_fa(fa-solid fa-utensils)}
+***メニュー画像
+|&image(お食事メニュー.png,y=400)|&image(お飲み物メニュー.png,y=400)|
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***お食事
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#8A379C:#fffffe){No.=center,商品名=bold,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|food|もつ煮|50,000円||一品|
+|food|砂肝|50,000円||一品|
+|food|豆腐ステーキ|50,000円||一品|
+|food|ポテトフライ|30,000円||一品|
+|food|エイヒレ|30,000円||一品|
+|food|枝豆やん|30,000円||一品|
+|food|梅水晶|30,000円||一品|
+|food|塩昆布キャベツ|20,000円||一品|
+|food|ピスタチオ|20,000円||一品|
+|food|チャーハン|100,000円||ご飯物|
+|food|ジョアカレー|150,000円||ご飯物|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|種類|商品名|価格|提供開始日|説明|
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***お飲み物
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=center:#8A379C:#fffffe){No.=center,商品名=bold,価格=right}
+|~種類|~商品名|~価格|~登録日|~提供開始日|~商品説明|h
+|drink|よいちこ||||焼酎|
+|drink|わるちこ||||焼酎|
+|drink|螺十六||||焼酎|
+|drink|女王||||焼酎|
+|drink|赤年増||||焼酎|
+|drink|黒年増||||焼酎|
+|drink|万年の孤独||||焼酎|
+|drink|淡鱈譚||||焼酎|
+|drink|森居想||||日本酒|
+|drink|高海やん||||日本酒|
+|drink|雨盛||||日本酒|
+|drink|今日月|1,000,000円|||日本酒（月曜日のみ販売）|
+|drink|町田32年||||ウィスキー|
+|drink|エガオデニッカ||||ウィスキー|
+|drink|足鶴||||ウィスキー|
+|drink|ジャッキデアゲル||||ウィスキー|
+|drink|丸||||ウィスキー|
+|drink|Noble||||ウィスキー|
+|drink|拍手||||ウィスキー|
+|drink|ウーロン茶||||ソフトドリンク|
+|drink|緑茶||||ソフトドリンク|
+|drink|コーラ||||ソフトドリンク|
+|drink|ジンジャーエール||||ソフトドリンク|
+|drink|オレンジジュース||||ソフトドリンク|
+|drink|トマトジュース||||ソフトドリンク|
+|drink|グレープフルーツジュース||||ソフトドリンク|
+|drink|牛乳||||ソフトドリンク|
+|drink|Bossy 24/7||||ブランデー|
+|drink|Soco swirl（赤）||||ワイン|
+|drink|La chasse（白）||||ワイン|
+|drink|ヴーヴ・ノリコ||||シャンパン|
+|drink|萌（ホワイト・リリー・ハニー）||||シャンパン|
+|drink|ユウヒ生||||ビール|
+|drink|ユウヒ瓶||||ビール|
+|drink|シャリンラバー瓶||||ビール|
+|drink|ハイボール||||ハイボール・カクテル|
+|drink|ウーロンハイ||||ハイボール・カクテル|
+|drink|緑茶ハイ||||ハイボール・カクテル|
+|drink|カシスオレンジ||||ハイボール・カクテル|
+|drink|カルーアミルク||||ハイボール・カクテル|
+|drink|バキュンショット||||その他|
+|drink|梅酒||||その他|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+
+**&font(30px,#8A379C){沿}&font(25px){革 &icon_fa(fa-solid fa-clipboard-list)}
+***2024年
+#region(開く,close)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#8A379C:#fffffe)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|2024/07/27|オープン|[[町田　ジョアンナ]]&br()[[隣　紀子]]|「[[JTS>ジョアンナテクノサービス]]」近くの7246番地にオープンした。&br()[[ジョアンナ町田>町田　ジョアンナ]]がママ、[[隣紀子>隣　紀子]]がチーママ。|
+|2024/07/28|体験入店|[[風早　音子]]|[[風早音子>風早　音子]]が実母として体験入店した。|
+|2024/12/11|イベント|[[銭形　やいち郎]]|「銭形漢道～あらよっと～」[[ページ名またはURL]]リリース記念&br()1日限定の特別イベントとして、あらよっと居酒屋をオープンした。|
+#endregion
+
+***2025年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#8A379C:#fffffe)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|2025/08/28|歓迎会|[[よりどり　みどり]]&br()[[美々梨田　ちょりぴ]]&br()[[日野間　るた]]&br()[[岐阜野　こみ蔵]]|JTS社員の入社をお祝いをするべく、盛大な宴会を開いた。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|mm/dd|出来事|関係者|エピソード・備考|
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,201 @@
+#center{
+*&font(27px,#5AFF19){プ}&font(21px){ロフィール} &font(27px,#5AFF19){&icon_fa(fa fa-paper-plane)}
+//
+//#slide_img(auto=4,position=center,width=300,height=500){立ち絵透過.png,ouma_def.png}
+
+#table_style(head=#000:#5AFF19:18px)
+|>|俺、脇 逢魔っていいます！|h
+|&image(y=400,立ち絵透過.png)|&image(y=400,ouma_def.png)|
+|>|わきおって呼んでください|h
+}
+
+#table_style(head=#5AFF19:#333)
+|~名前|~&icon_fa(fa fa-user)|&ruby(わき){脇}　&ruby(おうま){逢魔}|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}???|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|&small(){&openclose2(show=▼過去の職歴){&br()ケバブ屋【[[サニーケバブ]]】&small(){（2025/12/27～2026/04/22）}}}|
+|~所属|~&icon_fa(fa fa-users)|ギャング【&ruby(ノヴァ ファミリア){[[NOVA FAMILIA]]}】|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|waki o uma|
+|~血液型|~&icon_fa(fa fa-plus-square)|A型|
+|BGCOLOR(#EEE):~プレイヤー|BGCOLOR(#EEE):~&icon_fa(fa fa-address-card-o fa-fw)|[[わきを（Sponsored by GALLERIA）>https://w.atwiki.jp/streamergta5/tag/%E3%82%8F%E3%81%8D%E3%82%92]]|
+|BGCOLOR(#EEE):~告知等|BGCOLOR(#EEE):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://twitter.com/sg__soccer]]|
+|BGCOLOR(#EEE):~配信場所|BGCOLOR(#EEE):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/wakiwaki612]]|
+|BGCOLOR(#EEE):~動画|BGCOLOR(#EEE):~&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/@wakiwo_]]|
+|BGCOLOR(#EEE):~切り抜き&br()ガイドライン|BGCOLOR(#EEE):~&icon_fa(fa fa-cut)|MIDDLE:&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[登録フォーム兼ガイドライン>>https://x.com/sg__soccer/status/1797948093935309058]]|
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+#center{
+*&font(27px,#5AFF19){基}&font(21px){本情報} &font(27px,#5AFF19){&icon_fa(fa fa-book)}
+}
+・[[陽影　空]]と共に &font(#5AFF19,#333){「幸せ」} になるためにロスサントスへ来た。
+・前の場所で「ファミリー」と共に過ごしていたが、一部のメンバーがロスサントスで消息を絶ったようなので探している。
+・前の場所では「何でも屋」のようなことをしており、スラムでも生活していたことがある。
+・・空とは違い自身の血液型を把握しているなど、公的サービスを受けられる生活水準にいた経験もあり謎が多い。
+//
+#center{
+*&font(27px,#5AFF19){交}&font(21px){友関係} &font(27px,#5AFF19){&icon_fa(fa fa-users)}
+}
+#table_style(head=#5AFF19:#333)
+|~名前|エピソード|h
+|[[陽影　空]]|相棒。共にロスサントスへ来たファミリーの一員。|
+|[[柚乃　いずみ]]|偶然同じ飛行機に乗ってきたメンバーの一人。体を動かすことに慣れていない様子。&br()[[サニーケバブ]]で働く同僚。|
+|[[閃光寺　亜夢]]|偶然同じ飛行機に乗ってきたメンバーの一人。スピってはなさそう。|
+|[[もね]]|偶然同じ飛行機に乗ってきたメンバーの一人。「先生」を探しているらしい。&br()[[サニーケバブ]]で働く同僚。|
+|[[アーク　ダイマー]]|逢魔たちより少し前に海路で来た人。諸事情で顔に傷を負ったらしい。|
+|[[惑朽　ルーシー]]|[[サニーケバブ]]で働く同僚。反応が面白いのか共に遊ぶことが多い。&br()もしギャングを設立する場合、仲間になってくれると言われる。|
+#table_sorter{even=#EEE,odd=fff}
+//
+#center{
+*&font(27px,#5AFF19){エ}&font(21px){ピソード} &font(27px,#5AFF19){&icon_fa(fa fa-file-text)}
+}
+***2025年
+#region(12月)&bold(){12月}
+***12/19 [[「● ●●」>>https://www.twitch.tv/videos/2647677932]]
+#region(開く)閉じる
+・[[陽影　空]]🔰と共にロスサントス国際空港に到着し、同じ便に乗っていた[[柚乃　いずみ]]🔰さん、[[閃光寺　亜夢]]🔰さん、[[もね]]🔰さんと出会う。
+・Twixに投稿されているメッセージから住民の異常性を感じる。
+・レンタルサイクルで市街地に行き、行政施設で働く[[だん市長補佐]]と話す。
+・・市長補佐も他の住民と同じようなスピリチュアル系だと感じる。
+・市長と呼ばれている[[山下　ひろし]]のスピーチを聞くが、街の住民の殆どがスピ系かクスリをしているのではないかと疑う。
+・・[[もね]]🔰さんに[[アーク　ダイマー]]🔰ことあっくんさんを紹介される。
+・・状況を把握するために名前の横に🔰マークがない &s(){スピってる} 人たちと話す。
+・・営業している飲食店がなく、お金の稼ぎ方もないことも知る。
+・アミュネーションのような店舗では何かの権利を購入できることを知る。
+・一番まともそうな[[タラ　ちゃん]]さんから何が起きたのか教えてもらう。
+・市からの炊き出しに参加する。
+・・炊き出しの場所がコロコロと変わるなど、旅行者は冷遇されるのかと憤る。
+・レギオン公園近くのアパートを借り、🔰マーク面子で今後のことについて考える。
+#endregion(12/19)
+
+***12/24 [[「脇 逢魔」>>https://www.twitch.tv/videos/2651842264]]
+#region(開く)閉じる
+・エピソード募集中
+#endregion(12/24)
+
+****12/26 [[不便を楽しめ>>https://www.twitch.tv/videos/2653267256]]
+#region(開く)閉じる
+・エピソード募集中
+#endregion(12/26)
+
+****12/27 [[ケバブ屋🥙で働くらしい>>https://www.twitch.tv/videos/2654085974]]
+#region(開く)閉じる
+・エピソード募集中
+#endregion(12/27)
+
+****12/28 [[チャカ>>https://www.twitch.tv/videos/2654935250]]
+#region(開く)閉じる
+・エピソード募集中
+#endregion(12/28)
+#endregion(12月)
+
+***2026年
+#region(1月,open)&bold(){1月}
+****1/2 [[謹賀☆謹賀☆>>https://www.twitch.tv/videos/2659086324]]
+#region(開く)閉じる
+・エピソード募集中
+#endregion(1/2)
+
+****1/3 [[一文無し→犯罪>>https://www.twitch.tv/videos/2659948914]]
+#region(開く)閉じる
+・[[天草　蒼]]さんと[[上田　さん]]から犯罪に関わりそうな場所やアイテムを教えてもらう。
+
+・エピソード募集中
+#endregion(1/3)
+
+****1/4 [[犯罪解禁☆>>https://www.twitch.tv/videos/2660862000]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(1/4)
+#endregion(1月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(mm/dd)
+
+#endregion(mm月)
+
+}
+//
+#center{
+*&font(27px,#5AFF19){公}&font(21px){式切り抜き} &font(27px,#5AFF19){&icon_fa(fa fa-video)}
+}
+***2025年
+#region(開く,open)
+#table_filter(){配信日=hide}
+#table_style(head=CENTER:#5AFF19:#333){公開日=center,配信日=center}
+|~公開日|~配信日|~タイトル|h
+|12/21|12/19|[[イケメン過ぎる新キャラで自己紹介するだけで爆笑され激怒するわきを>>https://www.youtube.com/watch?v=uAqOzR4ubb4]]|
+|12/25|12/24|[[歪みでブス過ぎる美少女れりあを瞑想させ告白するやりたい放題のわきを>>https://www.youtube.com/watch?v=RJhLwt0ySLQ]]|
+|12/28|12/27|[[変態緑コスで病院襲撃し2度夏苗に逮捕されご満悦なわきを>>https://www.youtube.com/watch?v=zaUP129hG5w]]|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+***2026年
+#region(開く,open)
+#table_filter(){配信日=hide}
+#table_style(head=CENTER:#5AFF19:#333){公開日=center,配信日=center}
+|~公開日|~配信日|~タイトル|h
+|1/3|1/2|[[久々のMondと街で暴れ禁忌を犯しストグラ引退が確定し爆笑するわきを>>https://www.youtube.com/watch?v=asO5IFls6nQ]]|
+|1/4|1/3|[[ケバブ屋から3000万恐喝し脅迫罪で上田に死刑宣告する市長に歓喜するわきを>>https://www.youtube.com/watch?v=LOdvy08ZOZE]]|
+|1/5|1/4|[[犯罪者を雇うケバブ屋に行かない文月夏苗と修羅場になり興奮するわきを>>https://www.youtube.com/watch?v=FqNDeymJY3U]]|
+|1/7|1/4|[[悪質なGrok加工被害に遭い共有したらセクハラ事件になり困惑するわきを>>https://www.youtube.com/watch?v=M3TFMnRCv1M]]|
+|1/12|1/11|[[MonDにギャング設立を伝えたら魂貫通で煽られ覚悟を決めるわきを>>https://m.youtube.com/watch?v=0Mi9eC8Tkeo]]|
+|1/16|1/15|[[市長を排除したい人物に協力し人質にして市長を殺害するわきを>>https://m.youtube.com/watch?v=9utVMb_bnSQ]]|
+|1/17|1/16|[[行方不明だったファミリーと再会するもイケボ天然キャラで爆笑するわきを>>https://m.youtube.com/watch?v=JxTPkFhAEz0]]|
+|1/17|1/16|[[MonDが警察を資金洗浄所に呼び一触即発の現場に困惑するわきを>>https://m.youtube.com/watch?v=2erO3gj8-Io]]|
+|1/22|1/21|[[パンツ転売詐欺で逮捕されるもさぶ郎の衝撃発言に歓喜するわきを>>https://m.youtube.com/watch?v=XVkBOBifKrM&pp=0gcJCcQBo7VqN5tD]]|
+|1/29|1/28|[[後藤れむの指名手配罰金切り忘れでプリズン逃走中が始まるも鳩のせいで気まずくなり爆笑するわきを>>https://m.youtube.com/watch?v=Qw8L-r4anQ4&pp=0gcJCcQBo7VqN5tD]]|
+|1/30|1/29|[[ぼったくりキャバの件でタラちゃんが襲撃されNOLIMITと抗争の可能性が浮上し困惑するわきを>>https://m.youtube.com/watch?v=L8LZmfogUgA]]|
+|2/5|2/4|[[市長暗殺の為設立したカルト教団の布教活動で衝撃過ぎる空耳に爆笑するわきを>>https://m.youtube.com/watch?v=3E9ZlBEEdwo]]|
+|2/6|2/5|[[麻林ラルがオーナーの闇カジノに就職し黒社会を牛耳る構想を聞き興奮するわきを>>https://m.youtube.com/watch?v=DI9ywutnrow]]|
+|2/7|2/6|[[指名手配中に警察に密告したケバブ屋の同僚が辞職を考えてると知り動揺するわきを>>https://m.youtube.com/watch?v=9YwRO-Cy6sc]]|
+|3/6|3/5|[[トーマスから仲間と絶縁し裏切って自分のギャングに加入して欲しいと言われ驚愕するわきを>>https://m.youtube.com/watch?v=3eOj4-aANNk]]|
+|3/14|3/13|[[元MOZU構成員を殺し火種を作りギャングカラーを賭けた抗争を仕掛けるわきを>>https://m.youtube.com/watch?v=2-lwakCkBQ4]]|
+|3/15|3/14|[[抗争ルール決めでキミトスと激しく衝突しガチギレ口論になるわきを>>https://m.youtube.com/watch?v=kO5wtdxHdfI]]|
+|3/17|3/15|[[情報漏洩で国外追放させる権限を持つ人物「D」から審査され、疑念を抱くわきを>>https://m.youtube.com/watch?v=qSwrWlf6eJw]]|
+|3/20|3/19|[[MOZUカラー「黒」を死守したいキミトスギャングVSノヴァファミリア街初抗争に葛藤するわきを>>https://m.youtube.com/watch?v=5nO72Y7UjKU]]|
+|3/21|3/20|[[餡ブレラと抗争勃発!!抗争に見事勝利し餡カラー「赤」を継承するも魂と板挟みで苦悩するわきを>>https://m.youtube.com/watch?v=H3LVqBduhBo]]|
+|3/21|3/20|[[餡ブレラ抗争勝利後、とある不満や本音を曝け出すガチ腹割り喧嘩を仕掛けるわきを>>https://m.youtube.com/watch?v=IPWxX67TOsk&pp=0gcJCcQBo7VqN5tD]]|
+|3/23|3/22|[[アルタ脱退と「紫」を賭けわくわくハーデス隊と抗争勃発！新パブビューシステムで爆笑するわきを>>https://m.youtube.com/watch?v=iDIBu7dXi2s]]|
+|3/26|3/25|[[ヘルアンのハンタスマ脱退を報告された瞬間、ヘルアンをノヴァファミリアに勧誘する脇逢魔>>https://m.youtube.com/watch?v=apWKe9lTH3U]]|
+|3/28|3/27|[[夏苗に犯罪妨害行為が合法ゴースティングと指摘され、口プでもボコられ絶句する妨害王わきを>>https://m.youtube.com/watch?v=zdai5LSl2uA]]|
+//|mm/dd|mm/dd|[[タイトル>>ＵＲＬ]]|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+#center{
+*&font(27px,#5AFF19){ア}&font(21px){ーカイブ} &font(9px,#5AFF19){&icon_fa(fa fa-refresh fa-spin fa-3x fa-fw)}
+}
+***2025年
+#region(開く,open)
+#table_style(head=CENTER:#5AFF19:#333){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/19|1|[[「● ●●」>>https://www.twitch.tv/videos/2647677932]]||
+|12/24|2|[[「脇 逢魔」>>https://www.twitch.tv/videos/2651842264]]||
+|12/26|3|[[不便を楽しめ>>https://www.twitch.tv/videos/2653267256]]||
+|12/27|4|[[ケバブ屋🥙で働くらしい>>https://www.twitch.tv/videos/2654085974]]||
+|12/28|5|[[チャカ>>https://www.twitch.tv/videos/2654935250]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+***2026年
+#region(開く,open)
+#table_style(head=CENTER:#5AFF19:#333){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|1/2|6|[[謹賀☆謹賀☆>>https://www.twitch.tv/videos/2659086324]]||
+|1/3|7|[[一文無し→犯罪>>https://www.twitch.tv/videos/2659948914]]||
+|1/4|8|[[犯罪解禁☆>>https://www.twitch.tv/videos/2660862000]]||
+//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

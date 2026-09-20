@@ -1,0 +1,165 @@
+&font(11px,#bbb){編集ページ：&u(){[[&color(#bbb){備品}>>ロスサントス警察/備品]]}}
+//---< 備品 >-------------------------------------------------
+//*備品情報 &color(royalblue){&icon_fa(fa-solid fa-gun)}
+***&font(19,u){&color(#4169E1){|}&space()Season1&space(4)}
+#region(開く)閉じる
+****&font(19,u){&color(#4169E1){|}&space()配布備品&space()}
+-Mobile Database Terminal（タブレット、携帯情報端末）
+#openclose(show=　＞詳細){
+警察官全員が常時携行するタブレット形状の情報端末。&br()自身の勤務状況切替・コールサイン変更・接続無線周波数変更・マップピン指定、勤務中の警察官・救急救命隊員・弁護士の名前、コールサイン、接続無線周波数の一覧表示、警察への通知確認（MDT連携対応済みの通知に限る）とメンバーアサイン・マップピン指定、監視カメラ表示、捜査情報等の整理・共有（データベース）ができる。
+ >※救急隊では、患者を救出後カルテの記入が義務化されてる。
+
+}
+[[　＞確認できる内容>警察データベース]]
+-経費によって備蓄されている備品。署内ショップ、コンビニ、各飲食店で購入されている。
+-クラフト用の素材。署員が自力で集めるほか、一般市民から購入している。
+-スナイパーライフル
+#openclose(show=　＞詳細){
+2025/3/18に4本試用開始&br()ボススタッシュで上官が管理。使用者は上官から受け取り、使用後に上官へ返却する。&br()各現場に2本まで。試用期間のため、運用シーンに制限は設けていない。&br()耐久が0になった場合、市に申請して新品を供給してもらう。
+}
+//
+****&font(19,u){&color(#4169E1){|}&space()購入備品&space()}
+-各種銃火器および装備。警察署内で購入可能。&br()市場価格より圧倒的に安く買えるため体験者が驚くこともしばしば。
+#region(一覧)&b(){一覧}
+#size(90%){#table_style(head=#4169e1:#ffffff){名称=b,金額=right,通称=center}
+#table_filter(){金額=show,通称=hide,備考=show}
+|~名称|~金額|~通称|~備考|h
+|PISTOL|50,000円|ピストル|ハンドガン|
+|TAZER|50,000円|テーザー銃|着弾した相手を10秒麻痺させる。射程距離10m前後|
+|PUMP SHOTGUN|700,000円||散弾銃|
+|SMG|700,000円||サブマシンガン|
+|MICRO SMG|500,000円||小型のサブマシンガン|
+|CARBINE RIFLE|1,500,000円||自動小銃|
+|NIGHTSTICK|5,000円|警棒||
+|RPG|30,000,000円|ロケラン||
+|9MM|70円||銃弾|
+|.45 ACP|70円||銃弾|
+|12 GAUGE|350円||銃弾|
+|5.56X45|70円||銃弾|
+|RPG弾頭|20,000,000円|ロケランの弾||
+|GRENADE|500,000円|グレネード|投擲物|
+|BZ GAS|800,000円|催涙ガス|投擲物。'24/11/12追加|
+|TACTICAL FLASHLIGHT|10,000円||銃のアタッチメント|
+|SUPPRESSOR|10,000円|サプレッサー|銃のアタッチメント|
+|TACTICAL SUPPRESSOR|10,000円||銃のアタッチメント|
+|GRIP|10,000円||銃のアタッチメント|
+|HEAVY BARREL|10,000円|ヘビーバレル|銃のアタッチメント|
+|COMPENSATOR|10,000円||銃のアタッチメント|
+|SMALL SCOPE|10,000円||銃のアタッチメント|
+|MEDIUM SCOPE|10,000円||銃のアタッチメント|
+|LARGE SCOPE|10,000円||銃のアタッチメント|
+|ADVANCED SCOPE|10,000円||銃のアタッチメント|
+|HANDSCUFF|30,000円|手錠|近くの人物を拘束できる。&br()拘束時は移動やスライディングしかできない。|
+|FLASHLIGHT|2,000円||現場に残された"血痕"や"薬莢"証拠の採取に使用。|
+|EMPTY EVIDENCE SCRIPT|1,000円||現場に残された"指紋"、"血痕"、"薬莢"などの証拠を採取する道具。&br()SGPDでは使用されない|
+|POLICE STORMRAM|3,000円||警察専用の破錠槌。ハウジング物件の家宅捜索の際に使用。&br()Policeジョブでのみ使用可|
+|公務用開錠ツール|30,000円||非常時用の車両開錠ツールキット(警察用)。'25/01/14追加&br()警察官だけが使用できる特殊なロックピック。&br()GIVEKEY（車の鍵を受け渡し）をしなくても車両開錠可能|
+|ARMOR|10,000円|アーマー||
+|RADIO|5,000円|ラジオ|無線に使用|
+|HEAVY ARMOR|30,000円|アーマー|使用するとアーマーが100％回復する|
+|指紋タブレット|30,000円||近くの人物の"現在の名前"、"市民ID"、"指紋情報"などを照会できる。&br()ランク0では使用不可|
+|.50 BALL|1,000円||ハンティング用の弾。'24/09/03追加|
+|麻酔ダート|1,000円||ハンティング用の弾。'24/09/03追加|
+|MUSKET|500,000円|マスケット|ハンティング用の銃。'24/09/03追加|
+|DART GUN|150,000円|麻酔銃|ハンティング用の銃。'24/09/03追加|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}}
+#endregion(購入備品)
+//
+****&font(19,u){&color(#4169E1){|}&space()クラフト品&space()}
+-警察署内にあるクラフトテーブルで製造可能な備品。
+-2024/7/14に市長から新しい武器が警察へ提供されたのを契機として、7/24に署内クラフト設備が導入された。
+#region(警察武器クラフトテーブル)&b(){警察武器クラフトテーブル}　&small(){※労働力・価格は初期値}
+#size(90%){#table_style(head=#4169e1:#ffffff){名称=b,労働力=center,価格=right,}
+#table_filter(){材料=hide,労働力=show,価格=show,通称=hide,備考=show}
+|~名称|~材料|~労働力|~価格|~通称|~備考|h
+|.45 ACP|Metal Scrap ×5&br()Rubber ×2&br()火薬 ×20|50|¥3,000|||
+|12 GAUGE|Metal Scrap ×5&br()Rubber ×2&br()火薬 ×20|50|¥2,000|||
+|5.56X45|Metal Scrap ×5&br()Rubber ×2&br()火薬 ×20|50|¥3,000|||
+|9MM|Metal Scrap ×5&br()Rubber ×2&br()火薬 ×20|50|¥3,000|||
+|Assault Rifle MK2|Iron ×30&br()Metal Scrap ×50&br()Rubber ×40&br()布切れ ×10|500|¥500,000|||
+|Assault SMG|Iron ×40&br()Metal Scrap ×90&br()Rubber ×60&br()布切れ ×10|500|¥200,000|||
+|Bat|Iron ×1&br()Plastic ×1|5|¥0|バット||
+|Bullpu Rifle MK2|Iron ×40&br()Metal Scrap ×90&br()Rubber ×50&br()布切れ ×10|600|¥500,000|||
+|Carbine Rifle Mk2||||||
+|Combat Shotgun||||||
+|Compensator||||||
+|Explosive Charge||||||
+|Extended Pistol Clip||||||
+|Extended Rifle Clip||||||
+|Grip||||||
+|Heavy Barrel||||||
+|Heavy Pistol||||||
+|Horse Bat||||ユニコーンバット||
+|Knife|Plastic ×3&br()Steel ×5|30|¥10|ナイフ|クラフト始めたての署員が主に作成|
+|Macro Scope||||||
+|Mazebank専用 C4||||||
+|Mazebank専用 THermite||||||
+|Medium Scope||||||
+|Micro SMG||||||
+|Mini SMG||||||
+|Pistol||||||
+|Pistol MK2||||||
+|Pump Shotgun MK2||||||
+|Sawn Dff Shotgun||||||
+|Small Scope||||||
+|SMG||||||
+|SMG Mk2||||||
+|Suppressor||||||
+|Tactical Flashlight||||||
+|Tactical Rifle|Iron ×50&br()Metal Scrap ×100&br()Rubber ×50&br()布切れ ×10|500|¥500,000||警察官しか制作できない限定銃。&br()指紋認証セキュリティが搭載されているらしく、警察官しか取り扱えない。|
+|Tactical Suppressor||||||
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}}
+#endregion(クラフト品)
+#endregion(Season1)
+
+***&font(19,u){&color(#4169E1){|}&space()Season2&space(4)}
+#region(開く,open)閉じる
+****&font(19,u){&color(#4169E1){|}&space()配布備品&space()}
+-TABLET（タブレット、携帯情報端末）&br()※NPCから¥30,000で購入可能
+#co{
+#openclose(show=　＞詳細){
+警察官全員が常時携行するタブレット形状の情報端末。&br()自身の勤務状況切替・コールサイン変更・接続無線周波数変更・マップピン指定、勤務中の警察官・救急救命隊員・弁護士の名前、コールサイン、接続無線周波数の一覧表示、警察への通知確認（MDT連携対応済みの通知に限る）とメンバーアサイン・マップピン指定、監視カメラ表示、捜査情報等の整理・共有（データベース）ができる。
+ >※救急隊では、患者を救出後カルテの記入が義務化されてる。
+
+}　}
+//コピペで持ってきている為、情報が正確でない部分があるかと思います。必要に応じて情報の入れ替えや追記をお願い致します。
+//
+****&font(19,u){&color(#4169E1){|}&space()購入備品&space()}
+-各種銃火器および装備。警察署内で購入可能。
+#region(一覧)&b(){一覧}
+#size(90%){{{#table_style(head=#4169e1:#ffffff){名称=b,金額=left,通称=center}
+#table_filter(){画像=show,金額=show,通称=hide,備考=show}
+|~名称|~画像|~金額|~通称|~備考|h
+|TABLET|&blankimg(備品_TABLET.jpeg,x=48,y=48)|¥30,000||NPCから購入可能な携帯情報端末|
+|RADIO|&blankimg(備品_RADIO.jpeg,x=48,y=48)|¥4,980|無線|NPCから購入可能|
+|HANDCUFFS|&blankimg(備品_HANDCUFFS.jpeg,x=48,y=48)|¥4,980|手錠|犯人を拘束するアイテム。|
+|EMPTY EVIDENCE|&blankimg(備品_EMPTY EVIDENCE.jpeg,x=48,y=48)|¥200|　|鑑識・科捜研アイテム。証拠品を格納するのに必要|
+|FORENSIC CAMERA|&blankimg(備品_FORENSIC CAMERA.jpeg,x=48,y=48)|¥10,000|　|鑑識・科捜研アイテム。証拠品用の写真を撮る。&br()保存先は科捜研のデータベース（カメラを構えるエモートも出る）|
+|EVIDENCE CLEAN KIT|&blankimg(備品_EVIDENCE CLEAN KIT.jpeg,x=48,y=48)|¥1,000|　|鑑識・科捜研アイテム。証拠品の掃除を行う&br()&small(){※掃除にはスキルチェックアクションが必要}|
+|EVIDENCE CASE|  &blankimg(備品_EVIDENCE CASE.jpeg,x=48,y=48)|¥1,000|　|鑑識・科捜研アイテム。車両から指紋を採取する&br()&small(){※採取にはスキルチェックアクションが必要}|
+|EVIDENCE DNA|&blankimg(備品_EVIDENCE DNA.jpeg,x=48,y=48)|¥1,000|　|鑑識・科捜研アイテム。目の前にいる人物からDNAを採取する&br()&small(){※採取にはスキルチェックアクションが必要}|
+|EVIDENCE GSR|&blankimg(備品_EVIDENCE GSR.jpeg,x=48,y=48)|¥1,000|　|鑑識・科捜研アイテム。銃などの硝煙反応を検査する&br()&small(){※採取にはスキルチェックアクションが必要}|
+|9MM|&blankimg(備品_9MM.jpeg,x=48,y=48)|¥100|　|9mm弾。主にハンドガンで使用する|
+|FLASHLIGHT|&blankimg(備品_FLASHLIGHT.jpeg,x=48,y=48)|¥3,980|　|鑑識・科捜研アイテム。血痕採取をするのに必要。&br()物理攻撃アイテムとしても使用できる|
+|NIGHTSTICKI|&blankimg(備品_NIGHTSTICKI.jpeg,x=48,y=48)|¥9,800|警棒|物理攻撃アイテム。|
+|PISTOL MK2|&blankimg(備品_PISTOL MK2.jpeg,x=48,y=48)|¥50,000|ピストル|銃火器。ハンドガン|
+|TAZER|&blankimg(備品_TAZER.jpeg,x=48,y=48)|¥50,000|テーザー|&co(){着弾した相手を●秒麻痺させる。射程距離●m前後}|
+//画像（正方形）▶︎　|&blankimg(画像タイトル,x=48,y=48)|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#,start=1}}}}
+//間違いがありましたら修正をお願い致します。
+#endregion(購入備品)
+//
+#co{
+****&font(19,u){&color(#4169E1){|}&space()クラフト品&space()}
+-警察署内にあるクラフトテーブルで製造可能な備品。
+#region(警察武器クラフトテーブル)&b(){警察武器クラフトテーブル}　&small(){※労働力・価格は初期値}
+#size(90%){#table_style(head=#4169e1:#ffffff){名称=b,労働力=center,価格=right,}
+#table_filter(){材料=hide,労働力=show,価格=show,通称=hide,備考=show}
+|~名称|~材料|~労働力|~価格|~通称|~備考|h
+
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}}
+#endregion(クラフト品)
+}
+#endregion(Season2)
+//

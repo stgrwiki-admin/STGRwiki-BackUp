@@ -1,0 +1,192 @@
+#size(50%){　}
+#slide_img(auto=2,position=center,width=300,height=225){STGラジオ局.jpeg,STGラジオ局_外観.jpeg}
+
+#table_style(head=#ff66b2:#fff)
+|~社名|~&icon_fa(fa fa-tag)|&ruby(エスティージーラジオきょく){&bold(){STGラジオ局}}|
+|~開局日|~&icon_fa(fa fa-calendar-week)|2025年1月10日&small(){（&countup(2025/1/10,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|8247番地|
+|~社長|~&icon_fa(fa fa-user fa-fw)|&bold(){[[茶担　えり]]}|
+|~TwiX|~&icon_fa(fa fa-twitter)|@stg_radio|
+|~ハッシュタグ|~&icon_fa(fa fa-hashtag)|#STGラジオ局|
+|~メールアドレス|~&icon_fa(fa fa-envelope)|&nolink(stg@lbphone.com)|
+|~放送日時|~&icon_fa(fa fa-clock)|毎週金曜日 23:00〜（第2期）|
+
+#contents(fromhere=true,level=2)
+
+**&font(25px,#ffa6c9){&icon_fa(fa-solid fa-radio fa-bounce)} 基本情報
+-｢街に届けるラジオ局｣をコンセプトに、街の住民たちの声を届けるべく、[[山下>山下　ひろし]]市長発案のもと設立された。
+-毎週金曜日に六法で放送される。翌週木曜日からロスサントス内のMUSICアプリでアーカイブを聴くことができる。
+-番組は期間制で、1期あたり3ヶ月が予定されている。週ごとに担当ディレクターがいるため、1番組で計3回放送される。
+-街の企業からCMを常時募集しており、団体、個人問わずに応募可能。
+
+**&font(25px,#ffa6c9){&icon_fa(fa fa-solid fa-satellite-dish fa-fade)} 番組枠一覧
+***第1期(2025年1月-3月)
+#region(開く)&bold(){放送時間：毎週金曜日25時〜}
+|>|>|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){第1週}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[はが　かける]]|
+|> |CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『はがDのシャッフルラジオ』}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|はがDが街で見つけてきたキラリと光る住民を&br()パーソナリティに起用して、&br()毎回異なる番組をお届けしていく。|
+|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第1回}|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|『ゲッチャーズうさぎさんのラジオで占いまセウ！』|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[うさぎさん>山田　パルコ]]|
+|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第2回}|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|『タラちゃんと雷堂ましろのバチバチラジオ！』|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[タラ　ちゃん]]、[[雷堂　ましろ]]|
+|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第3回}|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|『ママみ同好会のオギャってGO！』|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[ママみ同好会]]|
+|>|>||
+|>|>|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){第2週}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[丘猫　まる]]|
+|> |CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『べりはぴのとにかく推してこ！』}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[べりはぴ]]|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|5人組アイドルユニットべりはぴの初冠番組。&br()べりはぴを街のみんなにアピールするため、&br()体を張ってミニゲームに挑戦していく。|
+|>|>||
+|>|>|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){第3週}|
+|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第1部}|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[MC　Sunrise]]|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『MC Sunriseのツッコミ委韻会』}|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[MC　Sunrise]]|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|住人たちから送られてきたメールにツッコミを入れるなど、&br()ツッコミメインのコーナーをお届け。|
+|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第2部}|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[STGラジオ局]]|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『ロスサントスの音楽』}|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[ノビー　ラング]]|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|音楽に関わる住人を毎回ゲストにお迎えし、&br()楽曲制作に関する話を深掘りしていく。|
+|>|>||
+|>|>|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){第4週}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[キングスターダイヤモンド　ズズ]]|
+|> |CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『ろぜ柳ぴん子の占いラジオ』}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[ろぜ柳　ぴん子]]|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|ろぜ柳ぴん子がワルダナ占いで毎回ゲストを占っていく。|
+#endregion
+***第2期(2025年5月-7月)
+#region(開く,open)&bold(){放送時間：毎週金曜日23時〜}
+|>|>|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){【共通】本編前ミニコーナー}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[STGラジオ局]]|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『ペトロの占い出張所』}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[ペトロ　アルドベッグ]]|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|生まれ月ごとのこれからの一週間を占い、&br()最も良さそう&最も困難が待ち受けていそうな生まれ月を紹介していく。|
+
+|>|>|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){第1週}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[ヤマンバ　花子]]|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『ロスサントスの不思議なひととき』}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[小者　デヤンス]]|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|ロスサントスにある様々な不思議を集め、&br()その魅力を視聴者からのお便りを中心に語り合う。|
+|>|>||
+|>|>|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){第2週}|
+|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第1部}|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[香月　ろぎあ]]|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『渡戸リーの北でお茶でもいかがですか？』}|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[渡戸　リー]]|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|気になる街の住民を北に招待し、&br()ゆっくりお茶を飲みながらお話を聞いていくトーク番組。|
+|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第2部}|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[香月　ろぎあ]]|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『特別市民の休憩室』}|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|現役の職業限定特別市民を毎回1人ずつゲストに迎え、&br()知られざる職業限定特別市民の生活について紹介していく。|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第1回パーソナリティ}|[[香月　ろぎあ]]|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第2回パーソナリティ}|[[小此木　ナカバ]]|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第3回パーソナリティ}|[[今井　教次]]|
+|>|>||
+|>|>|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){第3週}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[はが　かける]]|
+|> |CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『はがDのシャッフルラジオ！二期』}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|はがDが街で見つけた光る住民をパーソナリティに起用し、&br()毎回異なる番組をお届けしていく。|
+|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第1回}|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|『レンスコ＆まいジョアのカップル座談会』|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|&small(){[[帝　レン]]、[[スコティッシュ・ホールド]]、[[緋赤　まい]]、[[町田　ジョアンナ]]}|
+|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第2回}|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|『お電話リンリン♪店外デートに行っちゃうぞ♪』|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[ブロッコリー　斎藤]]、[[のあ>くま　ぽこ]]|
+|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){第3回}|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|『YOUは何しにロスサントスへ？』|
+|~|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[捌木　たいたい]]、[[バチ　公]]、[[よりどり　みどり]]|
+|>|>||
+|>|>|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){第4週}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[日々]]|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『Music Days』}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[日々]]|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|ミュージックアプリを中心に、ロスサントスで流れる&br()オリジナルの楽曲をお届けする、音楽情報番組。|
+#endregion
+
+***ストグラフェス(2025年8月30日)
+#region(開く,open)&bold(){放送日時：08/30 12:00-}
+|>|>|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){STGラジオ公開収録}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){ディレクター}|[[茶担　えり]]|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){タイトル}|&font(b){『868がラジオで暴れてやろや』}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){パーソナリティ}|[[ケイン／オー]]、[[音鳴　ミックス]]、[[J　D]]、[[魚参　屋]]&small(){（オンライン出演）}|
+|>|CENTER:MIDDLE:BGCOLOR(#f5f5f5):&font(b){概要}|観光客を招き入れ、市長に頼まれた【やろや】の皆さんの公開収録。&br()シティエリアに放送されたがJDに記憶を消された。|
+#endregion
+
+**&font(25px,#ffa6c9){&icon_fa(fa fa-play-circle fa-beat)} 放送アーカイブ
+***第1期(2025年1月-3月)
+#region()
+#table_style(head=center:#ff66b2){放送日=right}
+|~&color(#fff){放送日}|~&color(#fff){Vol.}|~&color(#fff){タイトル}|~&color(#fff){備考}|h
+|01/10 23:00-|第0回|[[『開局記念イベント 放送直前公開生放送』>>https://www.youtube.com/live/6zYB9sHYOVQ?t=7705&si=lJRz9Nz-am6B7q7R]]|ミニライブゲスト：[[うさぎさん>山田　パルコ]]|
+|01/10 25:00-|第1回|[[『はがDのシャッフルラジオ』第1回>>https://www.youtube.com/live/VhZNI2oMvrg?si=5-2obU4jpFEE1SvB&t=8120]]&br()&small(){(『ゲッチャーズうさぎさんのラジオで占いまセウ！』)}||
+|01/17 25:00-|第2回|[[『べりはぴのとにかく推してこ！』第1回>>https://www.youtube.com/live/lIKcvzH6vR4?si=-7G2G0lsAom-3B3h&t=11665]]||
+|01/24 25:00-|第3回|[[『MC Sunriseのツッコミ委韻会』第1回>>https://www.youtube.com/live/f5an52PkM6Y?si=1t1EcQkS0P7L-bUo&t=10819]]&br()[[『ロスサントスの音楽』第1回>>https://www.youtube.com/live/f5an52PkM6Y?si=lGMjRS0Op3d2zWgz&t=14530]]|&br()ゲスト：[[銭形　やいち郎]]|
+|01/31 25:00-|第4回|[[『ろぜ柳ぴん子の占いラジオ』第1回>>https://www.youtube.com/live/qbhQA0eW2fU?si=lL5zCM6y5NQSZ626&t=9821]]&br()[[ミニ番組『葛城司のお悩み相談室』>>https://www.youtube.com/live/qbhQA0eW2fU?si=SkJC3wTm4h5WPhHD&t=11467]]|ゲスト：[[安保　さぶ郎]]|
+|02/07 25:00-|第5回|[[『はがDのシャッフルラジオ』第2回>>https://www.youtube.com/live/jy1ecg7qxMM?si=iFCFi9pUN4HVe_hP&t=8962]]&br()&small(){(『タラちゃんと雷堂ましろのバチバチラジオ！』)}||
+|02/14 25:00-|第6回|[[『べりはぴのとにかく推してこ！』第2回>>https://www.youtube.com/live/L5E3GrMNH6U?si=hXgmz9wwmcqidpR3&t=9027]]||
+|02/21 25:00-|第7回|[[『ロスサントスの音楽』第2回>>https://www.youtube.com/live/KvYC5xPaLWE?si=USwTzvgaFAQ9gWsU]]&br()[[『MC Sunriseのツッコミ委韻会』第2回>>https://www.youtube.com/live/KvYC5xPaLWE?si=USwTzvgaFAQ9gWsU]]|ゲスト：[[八王子　めぐ]]|
+|02/28 25:00-|第8回|[[『ろぜ柳ぴん子の占いラジオ』第2回>>https://www.youtube.com/live/kuoehgj2LYg?si=ong9soRtAEqXs7HE&t=14375]]|ゲスト：[[赤兎　がみとも]]|
+|03/07 25:00-|第9回|[[『はがDのシャッフルラジオ』第3回>>https://www.youtube.com/live/9UZt2-WhiJE?si=-QuGZx49hL4FfbR9&t=15720]]&br()&small(){(『ママみ同好会のオギャってGO！』)}||
+|03/14 25:00-|第10回|[[『べりはぴのとにかく推してこ！』第3回>>https://youtu.be/TyrpHG_rPag?si=UkJl-wwTYKtFLiD3&t=667]]||
+|03/21 25:00-|第11回|[[『MC Sunriseのツッコミ委韻会』第3回>>https://www.youtube.com/live/gwYZo-RPpp8?si=b__O6-BXKxaM9_zk&t=8089]]&br()[[『ロスサントスの音楽』第3回>>https://www.youtube.com/live/gwYZo-RPpp8?si=m2Dx_yU97sJgxEI_&t=10509]]|&br()ゲスト：[[羽山　ペティ]]、[[羽山　パティ]]|
+|03/28 25:00-|第12回|[[『ろぜ柳ぴん子の占いラジオ』第3回>>https://www.youtube.com/live/R8x1ORQ3zMM?si=vbmxXZpJHTi9NYKc]]|ゲスト：[[平井　善之]]|
+#table_sorter{even=#f5f5f5,odd=#fff}
+#endregion
+***第2期(2025年5月-7月)
+#region(open)
+#table_style(head=center:#ff66b2){放送日=right}
+|~&color(#fff){放送日}|~&color(#fff){Vol.}|~&color(#fff){タイトル}|~&color(#fff){備考}|h
+|05/09 23:00-|第13回|[[『ロスサントスの不思議なひととき』第1回>>https://www.youtube.com/live/ybS7CRkKrQ4?feature=shared&t=3502]]||
+|05/16 23:00-|第14回|[[『渡戸リーの北でお茶でもいかがですか？』第1回>>https://www.youtube.com/live/vycLFQzOnOc?si=CtCjXNHUDAp46IPe&t=4468]]&br()[[『特別市民の休憩室』第1回>>https://www.youtube.com/live/vycLFQzOnOc?si=GU7aKa0QF7ASeEF8&t=6932]]|ゲスト：[[Dr.　ギガ]]&br()ゲスト：[[佐藤　さくら]]|
+|05/23 23:00-|第15回|[[『はがDのシャッフルラジオ！二期』第1回>>https://www.youtube.com/live/_BKoIbbT5yE?si=Cb73KnpAn4SAReYD&t=2526]]&br()&small(){（『レンスコ＆まいジョアのカップル座談会』）}||
+|05/30 23:00-|第16回|[[『MusicDays』第1回>>https://www.twitch.tv/videos/2472360329?t=8064s]]|ゲスト：[[橘　かげまる]]|
+|06/06 23:00-|第17回|[[『ロスサントスの不思議なひととき』第2回>>https://www.twitch.tv/videos/2478555096?t=8488s]]||
+|06/14 23:00-|第18回|[[『渡戸リーの北でお茶でもいかがですか？』第2回>>https://www.youtube.com/watch?v=oVvxqPWcYWM]]&br()[[『特別市民の休憩室』第2回>>https://www.youtube.com/watch?v=oVvxqPWcYWM]]&br()&small(){※アーカイブは共にメンバー限定}|ゲスト：[[平井　善之]]&br()ゲスト：[[山本　寅子]]|
+|06/20 23:00-|第19回|[[『はがDのシャッフルラジオ！二期』第2回>>https://www.youtube.com/watch?v=TxkdSRdm6Wg]]&br()&small(){（『お電話リンリン♪店外デートに行っちゃうぞ♪』）}&br()&small(){※アーカイブはメンバー限定}||
+|06/27 23:00-|第20回|[[『MusicDays』第2回>>https://www.youtube.com/watch?v=Q6OO06HTGNI&t=4776s]]&br()&small(){※アーカイブはメンバー限定}|ゲスト：[[カテジ>伊藤カテジ]]、[[フランシスコ　マグナム]]|
+|07/04 23:00-|第21回|[[『ロスサントスの不思議なひととき』第3回>>https://www.youtube.com/watch?v=_KdnZnd4Nvg]]||
+|07/11 23:00-|第22回|[[『渡戸リーの北でお茶でもいかがですか？』第3回>>https://www.youtube.com/live/wNbT1FAbqlQ?feature=shared&t=1182]]&br()[[『特別市民の休憩室』第3回>>https://www.youtube.com/live/wNbT1FAbqlQ?feature=shared&t=4573]]|ゲスト：[[ルーファス　ウィルキンズ]]&br()ゲスト：[[美々梨田　ちょりぴ]]|
+|07/18 23:00-|第23回|[[『はがDのシャッフルラジオ！二期』第3回>>https://www.youtube.com/watch?v=Qk-s_VMnC2Q]]&br()&small(){（『YOUは何しにロスサントスへ？』）}&br()&small(){※アーカイブはメンバー限定}||
+|07/25 23:00-|第24回|[[『MusicDays』第3回>>https://www.youtube.com/live/Jk3eFjj0fA4?si=ZGie_Q-rMksL8sA0&t=8848]]|ゲスト：[[トウ　ユン]]、[[ダミ　アン]]|
+#table_sorter{even=#f5f5f5,odd=#fff}
+#endregion
+
+**&font(25px,#ffa6c9){&icon_fa(fa-solid fa-music fa-shake)} テーマ曲
+***第1期(2025年1月-3月)
+#region()
+|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){OP}|[[『Oh,Jesus!』>>https://youtu.be/9ROYP1qar68?si=nX31qK6vUoXJwiim]]|[[羽山　パティ]]、[[羽山　ペティ]]|
+|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){ED}|[[『銭形漢道〜あらよっと〜』>>https://youtu.be/dcMyK7rFYfM?si=iQAoO3AJp9fbir1W]]|[[銭形　やいち郎]]|
+#endregion
+***第2期(2025年5月-7月)
+#region(open)
+|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){OP}|[[『通りゃんな』>>https://youtu.be/7KOq_mK38RU?feature=shared]]|[[シュガー　ピーチ]]|
+|CENTER:MIDDLE:BGCOLOR(#ff66b2):&font(#fff,b){ED}|[[『巡り、巡る』>>https://youtu.be/S4yzZBGpOVo?feature=shared]]|[[八王子　めぐ]]|
+#endregion
+
+
+**&font(25px,#ffa6c9){&icon_fa(fa fa-solid fa-id-card-clip)} 社員
+#table_style(head=#ff66b2:#fff:center){役職=bold,名前=bold}
+|~役職|~名前|~就職日|~備考|h
+|局長|[[茶担　えり]]|2024/11/11||
+|副局長|[[ぬくお>https://w.atwiki.jp/streamergta5/pages/1339.html]]|2024/11/11||
+#table_autoincrement(){label=#}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+**&font(25px,#ffa6c9){&icon_fa(fa-solid fa-tower-broadcast)} 沿革
+***2024年
+#table_filter(){日付=show,関係者=hide,エピソード=show}
+#table_style(head=#ff66b2:#fff:center){役職=bold,名前=bold}
+|~日付|~出来事|~関係者|~エピソード|h
+|11/11|局長・副局長任命|[[山下　ひろし]]|市長から、局長と副局長が任命される|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+***2025年
+#table_filter(){日付=show,関係者=hide,エピソード=show}
+#table_style(head=#ff66b2:#fff:center){役職=bold,名前=bold}
+|~日付|~出来事|~関係者|~エピソード|h
+|01/10|&bold(){開局}・放送開始||5026番地のシアターに特設された青空ブースで放送を開始&br()初放送に先立ち、開局記念イベントを開催&br()&openclose2(show=▼開局記念イベントポスター){&br()&blankimg(STGラジオ局_開局記念イベントポスター.jpg,x=210,y=297)&br()}|
+|01/28|スタジオ設立||8247番地に専用スタジオが完成|
+|01/30|スタジオ使用許可|[[うさぎさん>山田　パルコ]]&br()[[万十忍>万十　忍]]|[[万十忍>万十　忍]]のボイス収録のため1日使用許可|
+|07/25|STGラジオ1stシーズン終了|[[茶担　えり]]|1月から続いていたラジオも第24回放送をもって最終回とし一区切りとなった|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+&bold(){&color(#ff66b2){エピソード募集中！}}
+
+#right(){&link_up(🔝ページTOPへ)}
+
+//

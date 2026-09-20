@@ -1,0 +1,34 @@
+#div(width=330px,bgcolor=#FFBFCB){&font(16px,b,#666){&space()&icon_fa(fa-solid fa-images)&space()拠点ごとの写真}}
+#region(開く,close)閉じる
+#size(90%){#table_style(head=#FFBFCB:#666:center:b)
+#table_filter(){項番=show,番地=show,通称=show,写真=show}
+|~項番|~番地|~通称|~写真|
+|4|1105|アシッド拠点|&blankimg(物件34_アシッド拠点‗202404122339.png,width=50,height=30)&blankimg(物件34_アシッド拠点‗202407252200.png,width=50,height=30)|
+|5|2012|砂漠ゲーセン|&blankimg(物件5_砂漠ゲーセン_202406192141.png,width=50,height=30)&blankimg(物件5_砂漠ゲーセン_202406192305.png,width=50,height=30)&blankimg(物件5_砂漠ゲーセン_202406192306.png,width=50,height=30)&br()&blankimg(物件5_砂漠ゲーセン_202406192306-1.png,width=50,height=30)&blankimg(物件5_砂漠ゲーセン_202406192307.png,width=50,height=30)|
+|9|3000|レダー薬拠点|&blankimg(物件9_レダー3000‗202406052308.png,width=50,height=30)|
+|12|3005|ケイン質屋前拠点|&blankimg(物件12_ケイン3005_2024.png,width=50,height=30)|
+|14|4006|シェアハウス|&blankimg(物件14_音鳴夕コ_202403020023.png,width=50,height=30)&blankimg(物件14_音鳴夕コ_202403020023-2.png,width=50,height=30)&blankimg(物件14_音鳴夕コ_202403020023-3.png,width=50,height=30)&br()&blankimg(物件14_音鳴夕コ_202403020023-4.png,width=50,height=30)&blankimg(物件14_音鳴夕コ_202403020023-5.png,width=50,width=50,height=30)&blankimg(物件14_音鳴夕コ_202404122330.png,width=50,height=30)|
+|15|4010|ケイン赤花拠点|&blankimg(物件15_ケイン4010_202405082156.png,width=50,height=30)|
+|19|4025|砂漠拠点①～③/コの字|&blankimg(物件19_コノ字_202405172154.png,width=50,height=30)&blankimg(物件19_コノ字_202405282230.png,width=50,height=30)&blankimg(物件19_コノ字_202405282230-2.png,width=50,height=30)|
+|21|5025|STGR山上|&blankimg(物件21_STGR山上_202404122328.png,width=50,height=30)&blankimg(物件21_STGR山上_202404122329.png,width=50,height=30)|
+|23|7038|豪邸|&blankimg(物件23_豪邸_202406021956.png,width=50,height=30)&blankimg(物件23_豪邸_202406022011.png,width=50,height=30)&blankimg(物件23_豪邸_202406060025.png,width=50,height=30)&br()&blankimg(物件23_豪邸_202407232333.png,width=50,height=30)&blankimg(物件23_豪邸_202407232334.png,width=50,height=30)&blankimg(物件23_豪邸_202501060048.png,width=50,height=30)&br()&blankimg(物件23_豪邸_202501060226.png,width=50,height=30)&blankimg(物件23_豪邸_202505062113.png,width=50,height=30)&blankimg(物件23_豪邸_202405250207.png,width=50,height=30)&br()&blankimg(物件23_豪邸_202505061949.png,width=50,height=30)&blankimg(物件23_豪邸_202409260227.png,width=50,height=30)&blankimg(物件23_豪邸_202409260228.png,width=50,height=30)&br()&blankimg(物件23_豪邸_202406072220.png,width=50,height=30)&blankimg(物件23_豪邸_202503301817.png,width=50,height=30)&blankimg(物件23_豪邸_202507060012.png,width=50,height=30)&br()&blankimg(物件23_豪邸_202409260229.png,width=50,height=30)&blankimg(物件23_豪邸_202503190322.png,width=50,height=30)&blankimg(物件23_豪邸202501282217.png,width=50,height=30)&br()&blankimg(物件23_豪邸_202501212332.png,width=50,height=30)&blankimg(物件23_豪邸_202501282211.png,width=50,height=30)&blankimg(物件23_豪邸_202509192255.png,width=50,height=30)&br()&blankimg(物件23_豪邸_202509132240.png,width=50,height=30)&blankimg(物件23_豪邸_202509212126.png,width=50,height=30)|
+|24|7038|豪邸素材倉庫|&blankimg(物件24①_豪邸素材倉庫_202501281819.png,width=50,height=30)&blankimg(物件24①_豪邸素材倉庫_202501281820.png,width=50,height=30)|
+|25|7144|本アジト|&blankimg(物件25_旧アジト_202403262032.png,width=50,height=30)&blankimg(物件25_旧アジト_202403262038.png,width=50,height=30)&blankimg(物件25_旧アジト_202406260140.png,width=50,height=30)&br()&blankimg(物件25_旧アジト_202406260141.png,width=50,height=30)|
+|25|7144|本アジト横&br()刃弐個人宅|&blankimg(物件25_刃弐個人宅_202404130016.png,width=50,height=30)&blankimg(物件25_刃弐個人宅_202404130017.png,width=50,height=30)&blankimg(物件25_刃弐個人宅_202404130017-1.png,width=50,height=30)&br()&blankimg(物件25_刃弐個人宅_202404130017-2.png,width=50,height=30)&blankimg(物件25_刃弐個人宅_202404130017-3.png,width=50,height=30)&blankimg(物件25_刃弐個人宅_202404130025.png,width=50,height=30)|
+|29|7219|クラフト拠点 / Fizz裏|&blankimg(物件29_VF_202402022048.png,width=50,height=30)&blankimg(物件29_VF_202402022229.png,width=50,height=30)&blankimg(物件29_VF_202402022229-2.png,width=50,height=30)&br()&blankimg(物件29_VF_202402212347.png,width=50,height=30)&blankimg(物件29_VF_202402220050.png,width=50,height=30)|
+|30|7232|JTS拠点|&blankimg(物件30_JTS拠点_202404122326.png,width=50,height=30)&blankimg(物件30_JTS拠点_202406150028.png,width=50,height=30)|
+|34|9093|ゲーセンアジト|&blankimg(物件34_ゲーセン_202402282037.png,width=50,height=30)&blankimg(物件34_ゲーセン_202402282037-2.png,width=50,height=30)&blankimg(物件34_ゲーセン_202405262348.png,width=50,height=30)&br()&blankimg(物件34_ゲーセン_202403030021.png,width=50,height=30)&blankimg(物件34_ゲーセン_202403072152.png,width=50,height=30)&blankimg(物件34_ゲーセン_202403101950.png,width=50,height=30)&br()&blankimg(物件34_ゲーセン_202403101950-1.png,width=50,height=30)&blankimg(物件34_ゲーセン_202403101951.png,width=50,height=30)&blankimg(物件34_ゲーセン_202403101954.png,width=50,height=30)&br()&blankimg(物件34_ゲーセン_202403222100.png,width=50,height=30)&blankimg(物件34_ゲーセン_202403222101-1.png,width=50,height=30)&blankimg(物件34_ゲーセン_202403222106.png,width=50,height=30)&br()&blankimg(物件34_ゲーセン_202403262028-1.png,width=50,height=30)&blankimg(物件34_ゲーセン_202403262028-2.png,width=50,height=30)&blankimg(物件34_ゲーセン_202403262029.png,width=50,height=30)&br()&blankimg(物件34_ゲーセン_202403262141.png,width=50,height=30)&blankimg(物件34_ゲーセン_202403270204.png,width=50,height=30)&blankimg(物件34_ゲーセン_202404262119.png,width=50,height=30)&br()&blankimg(物件34_ゲーセン_202404262119-2.png,width=50,height=30)&blankimg(物件34_ゲーセン_202405022152.png,width=50,height=30)&blankimg(物件34_ゲーセン_202405082222.png,width=50,height=30)&br()&blankimg(物件34_ゲーセン_202405082222-1.png,width=50,height=30)&blankimg(物件34_ゲーセン_202405082228.png,width=50,height=30)&blankimg(物件34_ゲーセン_202405302055.png,width=50,height=30)&br()&blankimg(物件36_ゲーセンヘリガレージ_202406042258.png,width=50,height=30)|
+|35|9093|来客用会議室|&blankimg(物件35_ゲーセン会議室_202405262350.png,width=50,height=30)&blankimg(物件35_ゲーセン会議室_202404092356.png,width=50,height=30)|
+|36|9093|倉庫①～③|&blankimg(物件36_ゲーセンケイン部屋_202405082251.png,width=50,height=30)&blankimg(物件36_ゲーセンケイン部屋_202405082251-1.png,width=50,height=30)|
+|43|10047|南/薬拠点|&blankimg(物件43_アーティファクト_202402020221.png,width=50,height=30)&blankimg(物件43_アーティファクト_202402022123会議.png,width=50,height=30)&blankimg(物件43_アーティファクト_202402022124.png,width=50,height=30)&br()&blankimg(物件43_アーティファクト_202402022124-2.png,width=50,height=30)&blankimg(物件43_アーティファクト_202402022230.png,width=50,height=30)|
+|46|10100|港拠点|&blankimg(物件46_港拠点_202404122323.png,width=50,height=30)|
+#table_sorter{even=#FFF0F3,odd=#FFF}}
+#endregion
+
+#div(width=330px,bgcolor=#FFBFCB){&font(16px,b,#666){&space()&icon_fa(fa-solid fa-images)&space()スライド画像表示}}
+#region(開く,close)閉じる
+アップロードされた画像をまとめて表示することができます。「≪　≫」を選択してください。
+#expand(450){{{
+#img_slide()
+}}}
+#endregion

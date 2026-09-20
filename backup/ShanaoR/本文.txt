@@ -1,0 +1,439 @@
+&image(ShanaoRロゴ.png,x=350)
+#size(5%){　}
+#slide_img(auto=5,position=center,width=350,height=197,position=left){ShanaoR内装.jpeg, ShanaoR内装2.jpeg}
+&co(){#CABD58}
+#table_style(head=#222222:#DA4545)
+|~店名|COLOR(black):ShanaoR(シャノール)|
+|~業種|COLOR(black):飲食店：Bar(バー)|
+|~&space(2)開業日&space(2)|COLOR(black):2024年3月8日&co(){&size(10){(プレオープン)}}|
+|~&space(2)閉業日&space(2)|COLOR(black):2025年9月21日|
+|~所在地|COLOR(black):8083番地|
+|~TwiX|COLOR(black):@shanaorofficial|
+|~支配人|[[ルーファス　ウィルキンズ]]|
+|COLOR(#C0C0C0):~オーナー|[[ヴァン　ダーマー]]|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&aname(基本情報,option=nolink){&font(25px,#D98032){基}本情報}
+#div(width=200px,color=#FFFFFF,bgcolor=#404040){&font(17px,b){&space()概要}}
+・主にイギリスにちなんだ様々なお酒や料理、他にも紅茶や葉巻などを提供している飲食店。
+・[[ギャング]]チーム【[[MOZU]]】のフロント企業として[[ヴァン　ダーマー]]が起業し、[[ルーファス　ウィルキンズ]]が経営を務めていた。
+・営業形態は通常の飲食店形式のほか、月に1～2回ほどフロアレディが席につく所謂クラブ形式で営業されることもあった。&co(){(曜日などの決まった日程は現状無い模様)}
+・建物内は広く、メインホールにはライブステージ、2階には会議室やレコーディングスタジオも存在しており、これらを活用したイベントの開催、また[[シャンクズプロモーション]]や[[GoodByeCompany>GoodByeCircus#GoodbyeCompany]]といった、店舗関係者外の人物への貸出もしていた。
+・・間借り物件のため、店内には「TRIAD RECORDS」と書かれた装飾がある。
+//・[[ほわいとたいが>イチカ　ウィルキンズ]]が経営している[[たいがのごはん]]と提携を結び、キッチンを貸出している。
+
+#div(width=200px,color=#FFFFFF,bgcolor=#404040){&font(17px,b){&space()方針・コンセプト}}
+・黒市民を主なターゲットとしており「裏社会の人間でも気兼ねなくゆっくりくつろげる場所」をコンセプトにしているため、店の利用についていくつかのルールを設けている。また「白市民と黒市民の交流の機会を増やしたい」という目的も掲げていた。
+・店名は『光』の意であり、照らされることを眩しいと思う者(=暗がりにいる者)が集う場所という意味が込められている。
+・・店のロゴの&font(#a81d08,b){R}の部分にはルーファスが好んでいる深めの赤を、&font(#d98032,b){S}の部分にはローシェンナという色をあしらっている。
+//・通常営業日でも気軽に足を運んでほしいという考えから、商品の値段はなるべく安価に設定している。
+//・・その代わりに、フロアレディに開けるための高価なスペシャルドリンクも置いてある。
+・制服は&co(){正面グレー・背面黒のウェストコートと黒のトラウザーズ(旧)}黒のベストと黒のジャケット、赤い革靴のみ指定で、他の衣服やアクセサリ等は自由。
+//・・ウェストコートの色は「自分たちは黒市民だが、客と向き合っている今はグレーである(白に寄り添う)」という意思を表している。
+・フロアレディの服装も、接客に適したドレススタイルであれば色や形状、アクセサリなどは自由。
+・従業員は護身用としてピストルの所持が許可されていた。
+・また音楽を気軽に聴くことができる場所として、スタッフや来店客が突発的に歌唱を行なうこともあった。
+
+*&aname(詳細,option=nolink){&font(25px,#D98032){詳}細}
+**&aname(従業員情報,option=nolink){従業員情報}
+***&size(18){&icon_fa(fa-solid fa-address-book)}&space()従業員
+//○ボスの就職日は店で雇用した日ではなく、市長から店舗を購入した日(=店の経営を立案した日)と捉え、2023年8月にしています。もし購入日がわかる方がいらっしゃいましたら情報の追加をお願い致します。(少なくとも2023年8月14日より前)
+//○ライアンの就職日はボスから正式に指令が出た日としています。
+//○各々の兼業については逐一での管理が難しいと判断し、ギャングである場合以外には記載しない方向性にしています。
+//○ヴァン ダーマーの呼び方については各キャラページにより「ヴァン」「ダーマー」「ボス」などの違いがありますが、オーナーであるヴァンダーマーのキャラクターページに合わせるものとし「ヴァン」呼びに統一しています
+//
+//
+//#region(open,開く)
+#table_style(head=center:#E0E0E0:#DA4545)
+#table_filter(){役職=show,階級=hide,就職日=show,備考=show}
+|~役職|~階級|~名前|~就職日|~備考|h
+|オーナー&sup(){&footnote(店のシステム上、ルーファスがヴァンを雇う形にはなっているが、実質的な最高責任者はMOZUのボスであるヴァンになる。)}|Recruit(0)|[[ヴァン　ダーマー]]|2023/08/??|元【[[MOZU]]】のボス。店の関係者として表に出てくることはほぼ無い。|
+|支配人(&tooltip(GM){ジェネラルマネージャー})|Chief(4)|[[ルーファス　ウィルキンズ]]|2023/08/15|元【[[MOZU]]】顧問。[[ヴァン>ヴァン　ダーマー]]から経営を一任されていた。|
+|チーフ|Chief(4)|[[銭形　やいち郎]]|2024/01/24|元【[[MOZU]]】構成員。店の営業に大きく貢献したことからチーフに昇格。|
+|店員|Recruit(0)|[[レイラ　キャンベル]]|2024/01/24|元【[[MOZU]]】構成員。|
+|店員|Recruit(0)|[[TANKTOP　竹森]]|2024/01/24|元【[[MOZU]]】構成員。|
+|チーフ|Chief(4)|[[ジェフリー　ヒッチコック]]|2024/03/08|元【[[MOZU]]】構成員。 |
+|店員|Boss(3)|[[ペトロ　アルドベッグ]]|2024/03/22|イベントスタッフから正式雇用が決まった。|
+|店員|Employee(1)|[[ドンタカーキ　ナツシロンゴ]]|2024/03/30|[[竹森>TANKTOP　竹森]]の紹介で就職。|
+|店員|Recruit(0)|[[ナタル　イルコフ]]|2024/08/23|元【[[MOZU]]】構成員。|
+|店員|Chief(4)&sup(){&footnote(メニュー管理の為のランク付与)}|[[イチカ　ウィルキンズ]]|2024/08/23|元【[[MOZU]]】構成員。|
+|店員|Employee(1)|[[Ueno　Kamiya]]|2024/10/17|元【[[MOZU]]】構成員。|
+|店員|Recruit(0)|[[ティキーチック　のすけ]]|2024/12/24|元【[[MOZU]]】構成員。職業体験から雇用。|
+|店員|Recruit(0)|[[よりどり　みどり]]|2025/06/26|メカニック【[[JTS>ジョアンナテクノサービス]]】従業員。[[ヴァン>ヴァン　ダーマー]]直々のスカウトの末、職業体験から雇用。|
+//|役職|階級|[[名　前]]|yyyy/mm/dd|備考|
+#table_autoincrement()
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//#endregion(従業員)
+
+***&size(18){&icon_fa(fa-regular fa-handshake)}&space()協力関係者
+#table_style(head=center:#E0E0E0:#DA4545)
+|~名前|~備考|h
+|[[香月　ろぎあ]]|人手が足りない場合などに、従業員補佐として手伝いを依頼。|
+|[[うさぎさん>山田　パルコ]]|彼女がもう一度歌と向き合うきっかけの場として、ステージを日常的に提供。|
+#table_autoincrement()
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//
+//|[[柳田　ライアン]]|&co(){2024/01/21|}[[MOZU]]との繋がりが無くなったことと[[ARCANA]]の件を鑑みて、2024/05/30より休職中。|
+
+***&size(18){&icon_fa(fa-solid fa-person-dress)}&space()フロアレディ
+//#region(open,開く)
+手伝いという形での不定期勤務になるため、全員ジョブには入っていない。
+//就職日=仕事を了承後、店の業務説明を受けた日としています
+#table_style(head=center:#E0E0E0:#DA4545)
+|~名前|~就職日|~備考|h
+|[[不二子　キャスパー]]|2024/01/24|元【[[MOZU]]】構成員。|
+|[[ボア　セニャコック]]|2024/01/24|元【[[MOZU]]】構成員。|
+|[[ボタリン　モンロー]]|2024/03/05||
+|[[隣　紀子]]|2024/03/05||
+|[[町田　ジョアンナ]]|2024/03/08||
+|[[レキ　ウィステリア]]|2024/04/06||
+#table_autoincrement()
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+
+#size(10){{{#openclose(show=【？】,border:none;,margin:0px;,padding:0px;){#size(14){人手が足りなくなった時などに急遽増員される人員
+#table_style(head=center:#E0E0E0:#DA4545)
+|~名前|~備考|h
+|[[ファス美>ルーファス　ウィルキンズ]]|自称ママであり副支配人。[[ルーファス>ルーファス　ウィルキンズ]]の親族ということにしている。[[ヴァン>ヴァン　ダーマー]]もその存在は把握済み。|
+|[[ジェフ代>ジェフリー　ヒッチコック]]|ファス美の友人。ヴァンもその存在は把握済み。|
+#table_autoincrement()
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//
+//|[[ペトラ>ペトロ　アルドベッグ]]|新人。|
+
+}}
+}}}
+
+***職業体験者
+#region(開く)
+#table_style(head=center:#E0E0E0:#DA4545)
+|~名前|~就職日|~備考|h
+|[[雪菱　メラ]]|2024/05/16|正式雇用。|
+|[[八王子　めぐ]]|2024/10/04|正式雇用。|
+|[[神ノ宮　のの]]|2024/10/05|　　|
+|[[ブラック　ジャックス]]|2024/10/16|　　|
+|[[蒲田　ヤバッキオ]]|2024/11/14|　　|
+|[[ティキーチック　のすけ]]|2024/12/20|正式雇用。|
+|[[黒桜　ローレン]]|2024/12/20|正式雇用。|
+|[[KT>フランク・ジェスター]]|2025/01/17|　　|
+|[[飯田　けんつ]]|2025/01/29|　　|
+|[[よりどり　みどり]]|2025/05/21|正式雇用。|
+|[[ロイ　マーチングナンバー]]|2025/08/02||
+#table_autoincrement()
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+#endregion(体験)
+
+***退職者
+#region(開く)
+#table_style(head=center:#E0E0E0:#DA4545)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[堕夜　だよ]]|2024/03/08|2024/05/15|本業に専念させるため、[[ルーファス>ルーファス　ウィルキンズ]]から解雇が言い渡された。|
+|[[アイドゥラー　ヨシャパテ]]|2024/01/24|2024/10/22|[[MOZU]]脱退に伴い、本人の希望により退職。|
+|[[柳田　ライアン]]&sup(){&footnote(ヴァンの指示によりタダ働き雇用だったため、正式にジョブには入っていなかった)}|2024/01/21|2024/05/03|[[ARCANA]]の件を鑑みて2024/05/30より休職していたが、一時帰国に伴い退職。|
+|[[八王子　めぐ]]|2024/10/24|2025/01/26|[[MOZU]]に関する情報を外部に漏らしたことから解雇の措置が下される。|
+|[[黒桜　ローレン]]|2025/01/30|2025/03/05|[[メカニック>>Glare Gem]]の手伝いをするために退職。|
+|[[雪菱　メラ]]|2025/01/21|2025/|帰国に伴い退職。|
+#table_autoincrement()
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//
+//柳田ライアンの正式な扱いについては不明ですが、街を去ったことから念のため退職扱いとして記載しておきます。
+//
+#endregion(退職)
+
+**&aname(店内でのルール,option=nolink){店内でのルール}
+***&size(18){&icon_fa(fa-solid fa-circle-exclamation)}&space()ルール本文
+#region(open,開く)
+#size(0%){#div(bgcolor=#EFEFEF,color=#444444){#openclose(show=　,block,margin:none;,padding:10px;,border:3px groove #CCC;){#size(14px){#size(50%){　}
+#center(){#size(23px){&font(#FFFFFF,#222222,b){&size(20px){&space(3)𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 &color(#A81D08){𝐑}𝐔𝐋𝐄&color(#D98032){𝐒}&space(3)}}}}
+
+#center(){&i(){当店におけるルールを皆様にお伝えしたく存じます。}
+
+&i(){一つ、店内での一切の暴力行為を禁じます。}
+
+&i(){一つ、当店でお耳にされた情報の口外を禁じます。}
+
+&i(){ルールに抵触された方には罰金を科させていただきます。}
+
+&i(){また、その他迷惑行為をお見受けした際、退店いただく場合がございます。}
+
+&i(){最後に、お客様同士のトラブル、}
+&i(){並びに事情につきましては当店は一切関知いたしません。}
+&i(){サービス外の特別なご協力や、隠匿のご注文は承れません。}
+&i(){ご留意ください。}
+
+}
+}
+}}}
+#right(){(店内ルール文章より引用)}
+#endregion(ルール)
+//***&size(18){&icon_fa(fa-regular fa-file-lines)}&space()詳細
+#size(50%){　}
+#region(詳細)閉じる
+・店内で暴力行為を確認した場合には罰金として1億が課される。(状況により加算される場合もある)
+・・これは市民同士のケンカや発砲、警察が客として来ていた犯罪者を取り押さえようとする行為も含む。
+・犯罪をおこなった市民からの「匿って欲しい」といった要求は『サービス外の協力あるいは隠匿の注文』にあたるため、店としての対応はしない。
+・指名手配中の市民が変装をせずに来店をした場合などは『迷惑行為』として捉えられ、『退店』という名目で人目につかず 且つ 駐車場ガレージと直結している店の裏口へ案内される。
+#endregion(概要)
+
+**商品一覧
+***&size(18){&icon_fa(fa-solid fa-bell-concierge)&space()MainMenu}&size(12){(メインメニュー)}
+#region(open,開く)
+&space()&font(b,18px,#444444){&icon_fa(fa-solid fa-utensils)&space()Food}
+#table_filter(){種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#222222:#DA4545:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~商品名|~画像|~価格|~提供開始日|~備考|h
+|MIDDLE:&font(13){シャノールアップルパイ}|&blankimg(APPLE_PIE.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/03/08|MIDDLE:イギリス発祥のスイーツパイ。&br()&co(){&link_anchor(主な関連人物,pageid=440){とある人}}ルーファスが過去に、&link_anchor(過去の関連人物,pageid=440){とある人}から教わったレシピを参考にしている。|
+|MIDDLE:&font(13px){ジャケットポテト}|&blankimg(JACKET_POTATOES.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/06/01|MIDDLE:イギリスでファストフードとして親しまれている。|
+|MIDDLE:&font(13){ビーフシチュー}|&blankimg(SHANAOR_BEEF_STEW.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/03/08|MIDDLE:イギリス発祥の料理という説がある。|
+|MIDDLE:&font(13){フィッシュアンドチップス}|&blankimg(FISH_AND_CHIPS.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/03/08|MIDDLE:イギリスの代表的な国民食の一つ。|
+|MIDDLE:&size(13px){ルーファスおじさんのパンケーキ}|&blankimg(RUFUS_PAN_CAKE.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2024/06/01|MIDDLE:チーズケーキではない。&br()[[とある客>超越ヶ谷　にかり]]の要望を参考に提供を開始。|
+|MIDDLE:&size(13px){ShanaoR White Sandwich}&br()&size(10){ホワイトサンドイッチ}|&blankimg(ShanaoR_White_Sandwich.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2025/05/25|MIDDLE:『サンドイッチ』という名称はイギリス発祥という説がある。&br()イギリスでは定番の具材であるキュウリを挟んでいる。|
+|MIDDLE:&size(13px){She is …with ice cream}&br()&size(10){紅茶リキュールアイス}|&blankimg(She is …with ice cream.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2025/05/25|MIDDLE:紅茶リキュール(アルコール欄参照)を使用したバニラアイス。|
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//
+//-----------------------------------------------------------------------------------
+//
+
+&space()&font(b,18px,#444444){&icon_fa(fa-solid fa-cookie)&space()Snacks}
+#table_filter(){種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#222222:#DA4545:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~商品名|~画像|~価格|~提供開始日|~備考|h
+|MIDDLE:&font(13px){ジンジャークッキー}|&blankimg(GINGER_COOKIE.png,x=47,y=47)|MIDDLE:30,000|MIDDLE:2024/03/08|MIDDLE:イギリスでは定番のお菓子。&br()ルーファスが飼っているコヨーテ『ヴェルメリオ』の姿を象っている。|
+|MIDDLE:&size(13px){ラズベリーチョコレート}|&blankimg(RASPBERRY_CHOCOLATE.png,x=47,y=47)|MIDDLE:30,000|MIDDLE:2024/06/01|MIDDLE:ラズベリーはイギリスで栽培化が始まった。|
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//
+//-----------------------------------------------------------------------------------
+//
+
+&space()&font(b,18px,#444444){&icon_fa(fa-solid fa-mug-hot)&space()Drink}
+#table_filter(){種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#222222:#DA4545:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~商品名|~画像|~価格|~提供開始日|~備考|h
+|MIDDLE:Cinderella&br()&size(10){シンデレラ}|&blankimg(CINDERELLA.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/03/08|MIDDLE:オレンジ、レモン、パインの果汁で作るノンアルコールカクテル。&br()コースターにはガラスの靴が描かれている。|
+|MIDDLE:Shanaor Tea&br()&size(10){シャノールティー}|&blankimg(SHANAOR_TEA.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2024/06/01|MIDDLE:|
+|MIDDLE:ShanaoR Apple Tea&br()&size(10){シャノールアップルティー}|&blankimg(SHANAOR_APPLE_TEA.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2024/06/01|MIDDLE:アップルパイを使る際に出る林檎の皮を使用している。|
+|MIDDLE:Milk Tea&br()&size(10){ミルクティー}|&blankimg(HOT_MILK_TEA.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2024/03/08|MIDDLE:|
+|MIDDLE:Have a nice Tea&br()&size(10){ハバ ナイス ティー}|&blankimg(Have_a_nice_Tea.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2025/7/24|MIDDLE:余談だが、[[支配人>ルーファス　ウィルキンズ]]は見送りの際に「[[Have a nice day>銭形　やいち郎]]」ではなく&br()「良い一日を」と言うように指導している。|
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//
+//-----------------------------------------------------------------------------------
+//
+
+&space()&font(b,18px,#444444){&icon_fa(fa-solid fa-martini-glass)&space()Alcohol}
+#table_filter(){種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#222222:#DA4545:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~商品名|~画像|~価格|~提供開始日|~備考|h
+|MIDDLE:WelcomeChampagne&br()&size(10){ウェルカムシャンパン}|&blankimg(WELCOMECHAMPAGNE.png,x=47,y=47)|&space(12)|MIDDLE:2024/03/08|MIDDLE:来店すると無償で提供。|
+|MIDDLE:White Lady&br()&size(10){ホワイト・レディ}|&blankimg(WHITE_LADY.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/06/01|MIDDLE:イギリス発祥という説があるカクテル。|
+|MIDDLE:Gin and Tonic&br()&size(10){ジン・トニック}|&blankimg(GIN_AND_TONIC.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/06/01|MIDDLE:イギリス人が考案したカクテル。|
+|MIDDLE:Gimlet&br()&size(10){ギムレット}|&blankimg(GIMLET.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/06/01|MIDDLE:イギリス発祥という説があるカクテル。|
+|MIDDLE:Black russian&br()&size(10){ブラック・ルシアン}|&blankimg(BLACK_RUSSIAN.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/03/08|MIDDLE:ウォッカをベースに、コーヒーリキュールを混ぜたカクテル。|
+|MIDDLE:Dark beer&br()&size(10){ダークビア}|&blankimg(DARK_BEER.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/06/01|MIDDLE:[[常連客>大　川]]からの要望を受けて提供を開始した黒ビール。|
+|MIDDLE:Old Fashioned&br()&size(10){オールド・ファッション}|&blankimg(OLD_FASHIONED.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/03/08|MIDDLE:ドーナツではなくカクテルの一種。&br()イギリスの古風なウイスキーを元にして作られたという説がある。|
+|MIDDLE:Scotch whisky&br()&size(10){スコッチ・ウィスキー}|&blankimg(SCOTCH_WHISKEY.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/03/08|MIDDLE:スコットランド原産のモルト&size(10){(麦芽系)}ウイスキー。|
+|MIDDLE:ShanaoR Martini&br()&size(10){シャノール・マティーニ}|&blankimg(SHANAORMARTINI.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/03/08|MIDDLE:|
+|MIDDLE:&size(13px){She is …on the rocks}&br()&size(10){紅茶リキュール}|&blankimg(She is …on the rocks.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2025/05/25|MIDDLE:店オリジナルで用意した紅茶リキュール。&br()ラベルには、カラスを従えた赤い女性が描かれている。|
+|MIDDLE:&size(13px){She is …with milk}&br()&size(10){紅茶リキュール(ミルク割)}|&blankimg(She is …with milk.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2025/05/25|MIDDLE:ミルクで割った紅茶リキュール。|
+|MIDDLE:&size(13px){She is …with soda}&br()&size(10){紅茶リキュール(ソーダ割)}|&blankimg(She is …with soda.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2025/05/25|MIDDLE:ソーダで割った紅茶リキュール。|
+|MIDDLE:&size(13px){She is …on the vanilla ice cream}&br()&size(10){紅茶リキュール(クリームソーダ割)}|&blankimg(She is …on the vanilla ice cream.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2025/|MIDDLE:上記のソーダ割の上にバニラアイスクリームを乗せたもの。&br()『She is …with ice cream』のドリンクver.|
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//
+//-----------------------------------------------------------------------------------
+//
+
+&space()&font(b,18px,#444444){&icon_fa(fa-solid fa-heart)&space()Others}
+#table_filter(){種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#222222:#DA4545:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~商品名|~画像|~価格|~提供開始日|~備考|h
+|MIDDLE:&font(13px){アフタヌーンティーセット}|&blankimg(AFTERNOON_TEA.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2024/03/08|MIDDLE:店長お手製。ささやかな茶菓子が添えられている。|
+|MIDDLE:ShanaorCigar&br()&size(10){シャノールシガー}|&blankimg(SHANAORCIGAR.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/03/08|MIDDLE:&space(100)|
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//種類＝food,drink,relax,others など
+#endregion(メインメニュー)
+//
+//-----------------------------------------------------------------------------------
+//
+
+***&size(18){&icon_fa(fa-solid fa-champagne-glasses)&space()&font(#D98032){S}pecia&font(#A81D08){R}}&font(12px){(スペシャル)}
+//
+//本来のスペルはSPECIA"L"ですが、敢えてルーファス(Rufus)のRで表記しています。
+//
+#region(open,開く)※高額商品は価格オンマウスで短縮数字表示
+#table_filter(){種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#222222:#DA4545:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~商品名|~画像|~価格|~提供開始日|~備考|h
+|MIDDLE:Ebony Roost&br()&size(10){エボニー・ルースト}|&blankimg(EBONY_ROOST.png,x=47,y=47)|MIDDLE:&tooltip(1,000,000){100万}|MIDDLE:2024/03/08|MIDDLE:オリジナルワイン。銘柄は『黒の止まり木』の意。|
+|MIDDLE:Mozuët&Chandon&br()&size(10){モズ・エ・シャンドン}|&blankimg(MOZUËT&CHANDON.png,x=47,y=47)|MIDDLE:&tooltip(5,000,000){500万}|MIDDLE:2024/03/17|MIDDLE:オリジナルシャンパン。|
+|MIDDLE:&size(13px){ShanaoR Black Sandwich}&br()&size(10){ブラックサンドイッチ}|&blankimg(ShanaoR_Black_Sandwich.png,x=47,y=47)|MIDDLE:500,000|MIDDLE:2025/05/25|MIDDLE:紅茶やデザートもついてボリューミーな限定メニュー。最大5個まで販売。&br()空腹と喉の潤いが大きく回復する代わりに、重量もボリューミー&sup(){&footnote(通常商品が大抵1個200gほどであるのに対し、1個で1800gとなっている。)}。|
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+&size(12){※ボトルメニューは指名したフロアレディ・従業員に開けることができ、その場合は料金の半額が指名された相手に入る。&br()&space(3)(クラブ営業日のみでなく通常営業日でも可)}
+#endregion(スペシャル)
+//
+//|MIDDLE:G Bottle Goldv&br()&size(10){ゴールドボトル}|&blankimg(G_BOTTLE_GOLDV.png,x=47,y=47)|MIDDLE:&tooltip(10,000,000){1000万}|MIDDLE:2024/03/08|MIDDLE:[[GBC>GoodByeCircus]]から仕入れた高級シャンパン。|
+//↑メニュー画像に記載されていなかったため、念のため外しました
+//
+//-----------------------------------------------------------------------------------
+//
+
+***&size(18){&icon_fa(fa-solid fa-star)&space()Original Menu}&size(12){(店員オリジナルメニュー)}
+#region(オリジナル,open)
+#table_filter(){種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#222222:#DA4545:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~商品名|~画像|~価格|~提供開始日|~備考|h
+|MIDDLE:&font(13px){銭形} Whiskey|&blankimg(ZENIGATA_WHISKEY.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2024/10/24|MIDDLE:[[銭形 やいち郎>銭形　やいち郎]]のオリジナルウィスキー。&br()ロックがオススメ。|
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+#endregion(オリジナル)
+//
+//-----------------------------------------------------------------------------------
+//
+
+***&size(18){&icon_fa(fa-solid fa-circle-question)&space()OffMenu}&size(12){(裏メニュー)}
+#region(開く)
+#table_filter(){種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#222222:#DA4545:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~商品名|~画像|~価格|~提供開始日|~備考|h
+|MIDDLE:Shanaor肉まん|&blankimg(SHANAOR_PORK_BUN.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/03/08|MIDDLE:メニューには記載されていない。&br()店の中華風な内装に見合ったメニューの有無を尋ねると購入可能。|
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+#endregion(裏メニュー)
+//
+//
+//-----------------------------------------------------------------------------------
+//
+
+***&size(18){&icon_fa(fa-solid fa-calendar-check)&space()EventMenu}&size(12){(イベントメニュー)}
+#region(開く)
+#table_filter(){種類=show,画像=show,価格=show,提供日=show,備考=show}
+#table_style(head=#222222:#DA4545:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~商品名|~画像|~価格|~提供日|~備考|h
+|MIDDLE:&font(13px){スペシャルローストビーフ}|MIDDLE:&blankimg(スペシャルローストビーフ.png,x=47,y=47)|MIDDLE:0&br()&font(10px){(チケット代に含有)}|MIDDLE:2024/11/28|MIDDLE:[[八王子　めぐ]]をイメージして作られた料理。&br()2024/11/28開催『[[ShanaoR Dinner Show>>https://x.com/STGR_RolePlay/status/1862043922471809261]]』限定メニュー。|
+|MIDDLE:&font(13px){スペシャルアメリカンレモネード}|&blankimg(スペシャルアメリカンレモネード.png,x=47,y=47)|MIDDLE:0&br()&font(10px){(チケット代に含有)}|MIDDLE:2024/11/28|MIDDLE:[[芹沢　すず]]をイメージして作られたカクテル。&br()2024/11/28開催『[[ShanaoR Dinner Show>>https://x.com/STGR_RolePlay/status/1862043922471809261]]』限定メニュー。|
+|MIDDLE:&font(13px){ハイボール(銭形)}|&blankimg(銭形ハイボール.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2024/12/12|MIDDLE:[[あらよっと居酒屋>>https://x.com/STGR_RolePlay/status/1866785001729097817]]で提供されていたメニュー。&br()イベント終了後にレギュラーメニューとして追加。|
+|MIDDLE:&font(13px){瑠璃色ハーブティー}|&blankimg(瑠璃色ハーブティー.png,x=47,y=47)|MIDDLE:50,000|MIDDLE:2025/04/17|MIDDLE:[[うさぎさん>山田　パルコ]]とのコラボドリンク。&br()2025/04/17開催『[[Moon&Record>>https://x.com/STGR_RolePlay/status/1912808487631085673]]』出店限定メニュー。|
+|MIDDLE:&font(13px){WELCOME 45-ルド}|&blankimg(WELCOME 45-ルド.png,x=47,y=47)|MIDDLE:0&br()&font(10px){(ウェルカムドリンク)}|MIDDLE:2025/08/19|MIDDLE:[[三否亭　四五六確]]とのコラボドリンク&br()2025/08/19に行われた一日店長イベント限定メニュー。|
+|MIDDLE:&font(13px){えんがわの握り}|&blankimg(えんがわの握り.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2025/08/19|MIDDLE:[[三否亭　四五六確]]とのコラボフード&br()2025/08/19に行われた一日店長イベント限定メニュー。|
+|MIDDLE:&font(13px){456パンダクリームソーダ}|&blankimg(456パンダクリームソーダ.png,x=47,y=47)|MIDDLE:100,000|MIDDLE:2025/08/19|MIDDLE:[[三否亭　四五六確]]とのコラボドリンク&br()2025/08/19に行われた一日店長イベント限定メニュー。|
+|MIDDLE:&font(13px){456サイ}|&blankimg(456サイ.jpg,x=47,y=47)|MIDDLE:100,000|MIDDLE:2025/08/19|MIDDLE:[[三否亭　四五六確]]とのコラボグッズ&br()2025/08/19に行われた一日店長イベント限定メニュー。|
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//四五六確さんのアイテム画像加えてくださった方、本当にありがとうございます　見ていた視点では詳細画像が確認できなかったので助かりました
+#endregion(イベントメニュー)
+
+***&size(18){&icon_fa(fa-solid fa-file-image)&space()MenuImage}&size(12){(メニュー画像)}
+#region(開く（プレオープン ～ 2024/05/31）)
+プレオープン ～ 2024/05/31
+&blankimg(https://img.atwiki.jp/streamergta5/attach/837/7654/ShanaoR_Menu.png,x=212,y=300,float)&space()&blankimg(https://img.atwiki.jp/streamergta5/attach/837/7913/EbonyRoost_Menu_SAMPLE.png,x=533,y=300,float)
+金額はあえて載せていない。
+#endregion
+#size(50%){　}
+#region(開く（2025/01/31 ～ 2025/06/10）)
+2025/01/31 ～ 2025/06/10
+&blankimg(https://img.atwiki.jp/streamergta5/attach/837/17373/Menu_Book1.png,x=212,y=300,float)&space()&blankimg(https://img.atwiki.jp/streamergta5/attach/837/17374/Menu_Book2.png,x=212,y=300,float)&space()&blankimg(https://img.atwiki.jp/streamergta5/attach/837/17375/Menu_Book3.png,x=212,y=300,float)
+#endregion
+#size(50%){　}
+#region(開く（2025/06/11 ～ 2025/09/21）)
+2025/06/11 ～ 2025/09/21
+&blankimg(https://img.atwiki.jp/streamergta5/attach/837/20822/Menu_Book_20250611-1.png,x=212,y=300,float)&space()&blankimg(https://img.atwiki.jp/streamergta5/attach/837/20825/Menu_Book_20250611-2.png,x=212,y=300,float)&space()&blankimg(https://img.atwiki.jp/streamergta5/attach/837/20824/Menu_Book_20250611-3.png,x=212,y=300,float)&space()&blankimg(https://img.atwiki.jp/streamergta5/attach/837/20823/Menu_Book_20250611-4.png,x=212,y=300,float)
+#endregion
+
+
+**サービス
+***&aname(フロアレディ,option=nolink){&size(18){&icon_fa(fa-solid fa-people-robbery)&space()}&size(17){フロアレディ接客}}
+#div(width=350px,color=#FFFFFF,bgcolor=#404040){&font(16px,b){&space()チャージ料金 1セット20万&size(14){(20分) / 延長10万}&size(12){(10分)}}}
+・クラブ営業日にフロアレディの接客を希望すると発生する料金システム。
+・接客を行なうフロアレディが20分間テーブルに着き、その時点で20万のチャージ料金が発生する。
+・・接客時間が終了すると黒服から10分延長の確認が入り、延長毎に+10万。
+・チャージ料金の発生単位は来店人数ではなくテーブルごとになる。
+・・そのため1つのテーブルに着くのであれば、1人の来店でも複数人の来店でも料金は同額となり、フロアレディの人数の増減で加減算されることもない。
+・商品購入時の料金は通常と同様。
+#size(50%){　}
+※今後の街の状況により調整が入る可能性あり
+//この項目は営業ごとに思考錯誤している為、今後変わる可能性があります。
+
+***&size(18){&icon_fa(fa-solid fa-solid fa-building)&space()}&size(17){店内設備貸出}
+#div(width=350px,color=#FFFFFF,bgcolor=#404040){&font(16px,b){&space()レンタル料 5,000万/回 (初回3,500万)}}
+&b(){対象設備：メインホール、レコーディングスタジオ}
+・イベントでの利用の場合、広告宣伝の補助はしないが、店内にてイベント物販の委託販売は可能。
+・物販の利益分配や、店から動員する従業員の数については都度交渉次第で決定。
+
+※ステージは来店の際に数曲歌う程度であれば無償で貸し出し可
+//貸出している旨については概要に記載済みの為省略しました。
+#openclose(show=【ステージ利用のルール】,border:0px;,margin:0px;,){&blankimg(Stage_Notice.png,x=350,Y=196)}
+//人員については打ち合わせ中の為記載を保留
+//#region(過去の貸出イベント)過去の貸出イベント
+//#table_style(head=center:#222222:#DA4545){イベント名=bold}
+//|~日付|~イベント名|貸出設備|備考|h
+//|2024/03/14|[[Yuu Aoi>葵井　優]] 1st solo Live|ステージ、メインホール|[[シャンクズプロモーション]]主催|
+//|2024/04/26|STGR Host Club|メインホール|[[カム　カマダ]]主催|
+//|2024/11/28|ShanaoR Dinner Show|ステージ、メインホール|MIDDLE:[[麻SICK RECORD]] & ShanaoR主催&、改定前価格で貸出|
+//#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//#endregion
+//沿革欄と内容が被ると判断しCO
+//
+//GBSへの貸し出し料金(2024/01/24にて料金を取らないと言及)については確認中
+
+*&aname(沿革,option=nolink){&font(25px,#d98032){沿}革}
+#region(2023年)
+&font(b,16px){2023年}
+#table_filter(){出来事=show,備考=hide}
+#table_style(head=center:#222222:#DA4545)
+|~日付|~出来事|~エピソード|~備考|h
+|2023/08/  |店舗購入|[[ヴァン　ダーマー]]が[[市長>山下　ひろし]]から飲食店起業の為に店舗を購入。|購入日不明。 ※情報募集中|
+|2023/08/15|店長任命|[[ヴァン　ダーマー]]が[[ルーファス　ウィルキンズ]]に店の経営を一任する。||
+|2023/09/05|開業申請|[[市長>山下　ひろし]] 及び [[切間　てつお]]から飲食店経営の許可を得る。||
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+
+#endregion(2023年)
+#size(50%){　}
+#region(2024年)
+&font(b,16px){2024年}
+#table_filter(){出来事=show,備考=hide}
+#table_style(head=center:#222222:#DA4545)
+|~日付|~出来事|~エピソード|~備考|h
+|2024/03/08|事前開店|プレオープンの形で営業開始。||
+|CENTER:MIDDLE:〃|MIDDLE:イベント|[[町田　ジョアンナ]]、[[柳田　ライアン]]による記念歌唱ショー開催。|ShanaoRこけら落とし公演。|
+|MIDDLE:2024/03/14|MIDDLE:イベント|[[シャンクズプロモーション]]主催「[[Yuu Aoi>葵井　優]] 1st solo Live」 開催。([[運営X告知>>https://x.com/STGR_RolePlay/status/1768215495915024738]])|初のステージ貸出イベントとなる。|
+|CENTER:MIDDLE:2024/04/21|MIDDLE:イベント|[[町田　ジョアンナ]]による歌唱ショー開催。||
+|CENTER:MIDDLE:2024/04/26|MIDDLE:イベント|[[カム　カマダ]]主催「STGR Host Club」開催。([[運営X告知>>https://x.com/STGR_RolePlay/status/1783818231876337937]])||
+|CENTER:MIDDLE:2024/08/03|MIDDLE:イベント|[[淀川　てるみ]]企画、ShanaoR主催「Live In Los Santos」開催。([[運営X告知>>https://x.com/stgr_roleplay/status/1819674645840478496]])|主催は店側のため、ステージ貸出費用は無し。|
+|MIDDLE:2024/08/22|MIDDLE:業務提携|[[たいがのごはん]]と提携を結び、売上の半額を受け取る代わりにキッチンの貸し出しを了承。|システム上はShanaoRのジョブで出張販売を行う形となっている。|
+|CENTER:MIDDLE:2024/08/22|MIDDLE:価格改定|街全体の物価高に合わせて商品価格を値上げ。|10,000・20,000は一律50,000、50,000は100,000になった。|
+|CENTER:MIDDLE:2024/09/29|MIDDLE:営業停止|[[MOZU]]構成員一斉解雇に伴い、[[ルーファス　ウィルキンズ]]が一時営業停止の判断を下す。||
+|CENTER:MIDDLE:2024/10/03|MIDDLE:営業再開|通常通りに営業を再開。||
+|CENTER:MIDDLE:2024/11/02|MIDDLE:価格改定|街全体の物価高に合わせて施設貸出価格を値上げ。|3,000万(初回1,500万)から5,000万(初回3,500万)になった。|
+|CENTER:MIDDLE:2024/11/14|MIDDLE:イベント|[[八王子　めぐ]]のロスサントス移住30日記念プチライブ開催。|[[リクエスト>街雄　サンリ]]を受けて[[銭形　やいち郎]]も歌唱。|
+|CENTER:MIDDLE:2024/11/21|MIDDLE:制限措置|[[豆乳　ちゃんもも]]、[[高橋　滅論]]が出禁となる。|[[MOZU]]と滅論との軋轢をきっかけに、[[ヴァン　ダーマー]]がMOZU[[関>U FOR U]][[係>Happy Nutty Bunny]][[店>E5's BURGER]]に[[ゆるギャン]]出禁の指示を出す。|
+|MIDDLE:2024/11/28|MIDDLE:イベント|[[麻SICK RECORDS]] & ShanaoR主催「ShanaoR Dinner Show」開催。([[運営X告知>>https://x.com/STGR_RolePlay/status/1862043922471809261]])||
+//|mm/dd|出来事|備考|
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+
+#endregion(2024年)
+#size(50%){　}
+&font(b,16px){2025年}
+#table_filter(){出来事=show,備考=hide}
+#table_style(head=center:#222222:#DA4545)
+|~日付|~出来事|~エピソード|~備考|h
+|MIDDLE:2025/01/30|MIDDLE:業務提携|[[FOWK>>FOWK]]と提携を結び、キッチンの借用によるメニュー開発を了承。|開業するまで、FOWK用のメニューをShanaoRで提供する形となる。|
+|MIDDLE:2025/02/01|MIDDLE:価格改定|アイテムの効力に合わせて価格を一部調整。|効果が低いものは安価に、高いものは高価になった。|
+|MIDDLE:2025/07/30|MIDDLE:制服変更|制服をベストからジャケットスタイルへ変更。|期間が経ったのと、新オープンした[[UNRÊVE>>UNRÊVE]]と被っていたのもあり、新しい制服へ。|
+|MIDDLE:2025/08/19|MIDDLE:一日店長|[[四五六確>三否亭　四五六確]]一日店長&[[サウ汰>星唄　サウ汰]]一日店員イベント|四五六確発案のメニューのみを提供|
+|MIDDLE:2025/09/21|MIDDLE:住民転送|[[全人類転送ミッション>>全人類転送ミッション]]により店の人間はいなくなり、店舗のみが街に残された。||
+//|mm/dd|出来事|備考|
+#table_zebra(#F7F7F7,#FFFFFF,#222222)
+//#endregion(2025年上半期)
+
+　&font(i,b,u){情報募集中}
+
+
+
+*&aname(企画,option=nolink){&font(25px,#d98032){リ}アル企画}
+2025/07/17の[[ストグラCLL>>https://www.twitch.tv/videos/2514794232]]&font(#6441A4){&icon_fa(fa fa-twitch)}にて、&b(){&font(#e81a03){クランド}×&font(#ff75fc){ストグラ}}コラボ企画第3弾として、ShanaoRで提供されている紅茶リキュール&font(#DA4545,#222222,b){『She is…』}の発売が発表され、2025/07/25～2025/08/15の期間限定でクランドの通販ページにて販売が開始された。([[販売ページ &size(10){&icon_fa(fa fa-external-link)}>>https://kurand.jp/products/stgr-shanaor?utm_source=tw&utm_medium=ec_timeline_0700_stgr-shanaor-sheis&utm_campaign=37709___]])
+
+#div(width=320px){
+#openclose(show=【告知ポスト（ツイート）】,border:none;,margin:0px;,padding:0px;,){#CO(){#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"> </p>&mdash; ストグラ運営 (@STGR_RolePlay)  <a href="https://twitter.com/STGR_RolePlay/status/1945789306184020186">7/17</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"> </p>&mdash; 「クランド」クラフト酒のお店 (@KURAND_INFO)  <a href="https://twitter.com/KURAND_INFO/status/1948662253974433953">9/14</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+
+}}
+
+
+&big(){&link_up(ページトップに戻る)}

@@ -1,0 +1,103 @@
+//&image(ここに画像のURLを入力,y=300)
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#E0E0E0){}
+|~店名|~&icon_fa(fa fa-store)|&ruby(てんめい){店名}|
+|~job名|~&icon_fa(fa fa-user-tag)|ボスメニューのジョブネーム&co(){※わからない場合は、行ごと削除}|
+|~業種|~&icon_fa(fa fa-)|業種名|
+|~開業日|~&icon_fa(fa fa-flag)|yyyy年mm月dd日&space()&small(){（&countup(yyyy/mm/dd,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|××××番地|
+|~オーナー(会長)|~&icon_fa(fa fa-user-secret)|&bold(){[[名　前]]}|
+|~社長(店長)|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[名　前]]}|
+|~副社長(副店長)|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[名　前]]}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-情報を記述
+
+**従業員情報
+***従業員
+#table_style(head=#E0E0E0)
+|~役職|~名前|~就職日|~備考|h
+|役職|[[名　前]]|yyyy/mm/dd|備考|
+|役職|[[名　前]]|yyyy/mm/dd|備考|
+|役職|[[名　前]]|yyyy/mm/dd|備考|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+#co{
+//***職業体験者
+#table_style(head=#E0E0E0)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+}
+#co{
+//***退職者
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+**商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+#co(){
+***限定商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+//
+***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion
+
+**沿革
+***yyyy年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|mm/dd|出来事|関係者|エピソード・備考|
+|mm/dd|出来事|関係者|エピソード・備考|
+|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

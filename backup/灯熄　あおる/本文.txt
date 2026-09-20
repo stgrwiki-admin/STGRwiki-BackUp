@@ -1,0 +1,123 @@
+*&font(25,#B3D3D2){&icon_fa(fa fa-user-circle)&space()}&font(25,#FFF){プ}&font(20,#FFF){ロフィール}
+&aname(ページ上部,option=nolink){}
+
+// 画僧は640x340でアップしています
+#slide_img(auto=6,position=left,width=384,height=204){灯熄あおる【私服01】.jpg,灯熄あおる【カフェ01】.jpg,灯熄あおる【イラスト01】.jpg}
+//
+//最初にあった下記イラストをコメントアウトしました
+//問題があれば修正をお願いいたします (2026/01/07 payaya) 
+//&image(IMG_2149.jpeg)
+//
+&bold(){「両親のためにVendetta(復讐）というギャングを作りたい」}
+
+#table_style(head=#B3D3D2:#373737)
+|~名前|~&icon_fa(fa fa-user)|&ruby(ひしずみ){灯熄}　あおる|
+|~出身地|~&icon_fa(fa fa-map-marker)||
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|2008年04月09日(&countup(2008/04/09,y)歳)|
+|~血液型|~&icon_fa(fa fa-heartbeat)||
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2026年1月3日 (&countup(2026/1/3,yd)経過)|
+|~物件|~&icon_fa(fa fa-home)||
+|~職業|~&icon_fa(fa fa-university)|[[わんも〜Cafe]] &small(){店員 2026/1/11 ~}|
+|~TwiX|~&icon_fa(fa fa-tag)|@aor|
+|BGCOLOR(#B5BCB5):COLOR(#373737):~プレイヤー|BGCOLOR(#B5BCB5):COLOR(#373737):~&icon_fa(fa fa-address-card)|二十日ネル|
+|BGCOLOR(#B5BCB5):COLOR(#373737):~告知等|BGCOLOR(#B5BCB5):COLOR(#373737):~&icon_fa(fa fa-bullhorn)|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[&font(#000000){X(旧Twitter) @hatsukaneru}>>https://twitter.com/hatsukaneru]]|
+|BGCOLOR(#B5BCB5):COLOR(#373737):~配信場所|BGCOLOR(#B5BCB5):COLOR(#373737):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (hatsukaneru)}>>https://twitch.tv/hatsukaneru]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725) {YouTube}>>https://www.youtube.com/channel/UChS8E6_q2Ew6QV2M3yEa8xw/featured]]|
+|BGCOLOR(#B5BCB5):COLOR(#373737):~動画投稿|BGCOLOR(#B5BCB5):COLOR(#373737):~&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E4%BA%8C%E5%8D%81%E6%97%A5%E3%83%8D%E3%83%AB]]|
+|BGCOLOR(#B5BCB5):COLOR(#373737):~ガイドライン|BGCOLOR(#B5BCB5):COLOR(#373737):~&icon_fa(fa fa-info-circle)|[[切り抜きガイドライン>>https://x.com/hatsukaneru/status/1804052420953280995]]|
+|BGCOLOR(#211C1C):COLOR(#eaf4fc):~別キャラ|BGCOLOR(#211C1C):COLOR(#eaf4fc):~&icon_fa(fa fa-user-plus)|&openclose2(show=ネタバレ注意){&nbsp(br,2)[[二十日　ネル]]（警察官）&nbsp(br,2)[[メアリー　ディクソン]]&nbsp(br,2)[[宿無　おきる]]&nbsp(br,2)[[LUCA　KUROSAWA]]}|
+
+*&font(25,#B3D3D2){&icon_fa(fa fa-address-book-o)&space()}&font(25,#FFF){基}&font(20,#FFF){本情報}
+#div(width=370px,bgcolor=#f5f5f5){&size(16){&icon_fa(fa fa-heart-o)&space()&b(){目的}}}
+-父と母をとある組織に殺されてしまったお嬢様。復讐の相手がこの街に居るらしいのでその為に大きな組織を作りたいと思い今、仲間を集めている。
+
+*&color(#B5BCB5){&icon_fa(fa fa-file-text-o)} 交友関係
+
+#region( [[犬好　マイキー]],close)
+-[[犬好　マイキー]]
+マイキー達が前の街から誤転送され、現在のγ世界線に来る前、『RPL2025』の世界線で出会った。
+ヒモ（お金のため）になる事を条件にギャングの立ち上げに協力している。[[ここな>牧田　ここな]]のわんも〜Cafeで一緒に働く予定。
+#endregion
+//--------------------------------
+
+#region( [[カイ]],close)
+-[[カイ]]
+援助していた孤児院の子供だった過去があり、何度かあおると一緒に遊んでいた。元軍人で銃の腕に自信がある。ギャングの立ち上げに協力している。[[ここな>牧田　ここな]]のわんも〜Cafeで一緒に働く予定。
+#endregion
+//--------------------------------
+
+#region( [[清十郎>我孫子　清十郎]],close)
+-[[清十郎>我孫子　清十郎]]
+清十郎達が前の街から誤転送され、現在のγ世界線に来る前、『RPL2025』の世界線で出会った。
+皆がやるならと一緒にギャングの立ち上げに協力している。
+#endregion
+//--------------------------------
+
+#region( [[ここな>牧田　ここな]] ,close)
+-[[ここな>牧田　ここな]]
+面接を受けこれからわんも〜Cafeでみんなと働く予定。
+#endregion
+//--------------------------------
+
+#region( [[こはな　らみ]] ,close)
+-[[ここな>牧田　ここな]]の実の姉、わんモアカフェで一緒に働く予定。
+#endregion
+//--------------------------------
+
+#region( [[犬林>麻林　ラル]]
+,close)
+-[[犬林>麻林　ラル]]
+[[犬林>麻林　ラル]]とこれから わんも〜Cafeで一緒に働く予定。
+#endregion
+//--------------------------------
+
+#region([[わんも〜Cafe]],close)[[わんも〜Cafe]]
+
+-店長　[[牧田　ここな]]
+-副店長　[[こはな　らみ]]
+-店員
+　　　　[[犬好　マイキー]]
+
+　　　　[[我孫子　清十郎]]
+
+　　　　[[千早　カイ]]
+
+　　　　[[灯熄　あおる]]
+
+　　　　[[麻林　ラル]]
+
+　　　　[[霜月　ろっぷ]]
+
+　　　　[[穴井　元]]
+
+　　　　[[天羽　りひと]]
+
+　　　　[[叢雲　るい]]
+
+　　　　[[Dr. ぐれは]]
+#endregion
+//--------------------------------
+
+*&font(25,#B3D3D2){&icon_fa(fa fa-book)&space()}&font(25,#FFF){エ}&font(20,#FFF){ピソード}
+&font(b,#FFF,#777,110%){主要エピソード}
+・エピソード募集中
+
+*&font(25,#B3D3D2){&icon_fa(fa fa-film)&space()}&font(25,#FFF){ア}&font(20,#FFF){ーカイブ}
+#table_style(head=center:#93CAD7){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2026/01/04|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[灯熄あおる　#ストグラ>>https://www.youtube.com/watch?v=s3Djz5HpxQQ]]| |
+|2026/01/05|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[灯熄あおる 2日目　#ストグラ>>https://www.youtube.com/watch?v=AUc602cDxfQ]]| |
+|2026/01/12|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[灯熄あおる 3日目　#ストグラ>>https://www.youtube.com/watch?v=K3uuuiUEEog]]| |
+#table_sorter{even=#E6E6FA,odd=fff}
+
+//関連をコメントアウトして別キャラクターを上の表に移動しました (2026/01/07 payaya) 
+//*&font(25,#B3D3D2){&icon_fa(fa fa-user)&space()}&font(25,#FFF){関}&font(20,#FFF){連}
+//&bold(){&color(#F54738){ネタバレ注意}}
+//#region(開く)
+////プレイヤー「二十日ネル」の別キャラクター
+//▶︎[[二十日　ネル]]
+//▶︎[[メアリー　ディクソン]]
+//▶︎[[宿無　おきる]]
+//▶︎[[LUCA　KUROSAWA]]
+////別キャラクター名記載の詳細については、編集相談所ログ2024-03-26 06:13:03～を参照願います。
+//
+//#endregion

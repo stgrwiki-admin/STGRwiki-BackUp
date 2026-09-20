@@ -1,0 +1,103 @@
+&image(FadeGate_photo1.png,y=500,center)
+
+#table_style(head=#808080:#000000){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(ふぇいどげーと){FadeGate}|
+|~ジョブ名|~&icon_fa(fa fa-user-tag)|FG company|
+|~業種|~&space()&icon_fa(fa-solid fa-comments-dollar)&space()|犯罪斡旋ギルド|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2025年5月20日&br()&small(){（&countup(2025/5/19,yd)経過）}|
+|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|6068番地|
+|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|豪邸|
+|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[加藤　圧]]&br()[[科場　諸朋]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+//---<基本情報>------------------------------------------------------------------//
+*&font(20px,#ffffff){&font(25px,#808080){基}本情報}
+-「[[F>Famos　Gray]]」がこの街で暗躍するための裏ビジネスを斡旋する組織。
+-Fの指名によって集められたメンバーによって運営。
+-[[E5's BURGER]]店舗を隠れ蓑として飲食店業務をしつつ犯罪者への依頼を行う。
+-心なき犯罪者の間で出回っている「SPECTRA COIN」の強奪と「[[F>Famos　Gray]]」への横流しを目的とする。
+-Fから渡された&openclose2(show=手紙の詳細){&image(https://img.atwiki.jp/streamergta5/attach/1708/20277/5.20-Famos-to-Katou.jpg)}
+*&font(20px,#ffffff){&font(25px,#808080){メ}ンバー}
+***&icon_fa(fa fa-user)&space()&underdot(#696969,2px){在籍メンバー}
+#size(90%){#table_style(head=#696969:#F9FCFF:center:b)
+#table_filter(){加入日=hide,階級=show,詳細=show,配信=show}
+|~名前|~加入日|~階級|~詳細|~配信|h
+|[[加藤　圧]]|2025/05/20|(4)Boss|Fの指名。[[DEP]]のBoss。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/katooo]]|
+|[[月ノ島　ごう]]|2025/05/20|(3)Chief|Fの指名。元[[ALLIN]]メンバー。| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@GoTsukishima/streams]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/gotsukishima]]|
+|[[科場　諸朋]]|2025/05/22|(4)Boss|Fの指名。共同経営者として。元[[MOZU]]メンバー。|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@kagemaru0205/streams]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kagemaru0205]]|
+|[[芳賀　ノエル]]&br()&font(9,#bbb){偽名：ナターレ ケルスト}|2025/05/20|(3)Chief|Fの指名。元[[ALLIN]]メンバー。| &font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@P4K4EL/streams]]|
+|[[Back　Alley]]|2025/05/22~06/04|(4)Boss|Fの部下。|-|
+|[[麻林　ラル]]|2025/06/04|(3)Chief|Fの指名。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/ralph_mp3]]|
+|[[デヤンス>小者　デヤンス]]|2025/06/05|(3)Chief|Fの指名。元[[GBC>>Goodbyecircus]]団員。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/ms05tc]]|
+|[[蜂夜　ハチ]]&br()&font(9,#bbb){偽名：うしべ}|2025/06/06|(3)Chief|Fの指名。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/minioni3202]]|
+|[[安保　さぶ郎]]&br()|2025/09/09|(0)Recruit|[[ロスサントス警察]]の警察官。街の危機に伴い、店番要員&br()として一時的な就職を希望。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/sabu_iko]]|
+|[[ボイラ　テンガリン]]&br()|2025/09/09|(0)Recruit|[[ロスサントス警察]]の警察官。街の危機に伴い、店番要員&br()として一時的な就職を希望。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/boiraischerry]]|
+|[[ブロッコリー　斎藤]]&br()|2025/09/09|(0)Recruit|[[ロスサントス警察]]の警察官。街の危機に伴い、店番&br()兼肉壁要員として一時的な就職を希望。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/nekemaru614]]|
+//|[[名前]]|2025/mm/dd|役職|備考|配信|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+&font(10px){ *1「No.」は加入日順。}
+
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+//***協力関係
+//
+#co{
+//***過去メンバー
+#table_style(head=#696969:#F9FCFF:center:b)
+|~名前|~加入日|~脱退日|~備考|h
+|名前|加入日|yyyy/mm/dd|備考|
+|名前|加入日|yyyy/mm/dd|備考|
+//|名前|加入日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+#co{*&font(20px,#ffffff){&font(25px,#808080){拠}点}
+#table_style(head=#696969:#F9FCFF:center:b)
+#table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
+|~番地|~場所|~通称|~管理者|~備考|h
+|番地|場所|通称|管理者|備考|
+|番地|場所|通称|管理者|備考|
+|番地|場所|通称|管理者|備考|
+|番地|場所|通称|管理者|備考|
+#contents(fromhere=true,level=2)
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+*&font(20px,#ffffff){&font(25px,#808080){発}注ミッション}
+#div(width=330px,color=#ffffff,bgcolor=#808080){&space()&size(16){&icon_fa(fa fa-file-text-o)&space()&bold(){発注方針}}}
+-従前より[[F>Famos　Gray]]は心なき犯罪者にSPECTRA COINの収集を依頼して来たが、これまで誰一人として戻って来た者はいなかった。街の各所に設置されたコンテナにはその依頼書が入った封筒が封入されており、初接触時に対象の封筒を持参すればそれが各ブローカーと繋がる鍵となり、以下のミッションを受ける事が出来る。
+-『風情のない』やり取りを行う犯罪者としての自覚が無い者や、条件を満たしていない者に対しては、決して詳細な情報を開示しない。受注者にどの様なミッションが課されるか、全ては各ブローカーの采配次第。&font(i,#aaa){※発注時における合言葉然りトリガーとなる状況は各ブローカーによって差異がある為、「趣も無く」淡々とNPCの様に対応すると、場合によっては門前払いされる可能性もある。}
+-FadeGateメンバーによって事前に心なき犯罪者たちの溜まり場を順次特定、SPECTRA COINの在り処と入手方法を調査している。封筒に入った依頼書に記された地点数十か所の中から一つを犯罪者に対して発注する。その際、ミッション開始に必要な専用USB&small()&openclose2(show=※){&blankimg(GATEUSB_LEVEL 1.png,x=43,y=43)&openclose2(show=.,inline){&blankimg(GATEUSB_LEVEL 2.png,x=43,y=43)&openclose2(show=.,inline){&blankimg(GATEUSB_LEVEL 3.png,x=43,y=43)}}}を手渡す。
+-犯罪者が奪取したSPECTRA COINは1000万DIRTY MONEY/枚で買い取る。バックヤードに待機している心なきFの部下に手渡すと、報酬として1500万DIRTY MONEY/枚を受け取る事が可能。各ミッションで入手したドッグタグは収集しておくと個人の実績を示す証となり、より高レベルのミッションを受注する際に必要となる。
+-街の3周年記念式典での襲撃以降、Lv.1、Lv.2にもピエロが出没するようになった。
+-2025/09/09、市、警察との協議の結果、街の危機に伴い、非犯罪化され、取り締まりされないこととなり、白市民にも受注が解放された。これにより初受注条件だった依頼書の封筒も不要となり、銃撃戦などに不慣れな白市民が複数人で向かうことを念頭に各Lvの人数制限も緩和された。
+#size(90%){#table_style(head=#696969:#F9FCFF:center:b)
+#table_filter(){受注費用=hide,備考=show}
+|~ミッション|~受注費用|~メイン報酬|~備考|h
+|CENTER:MIDDLE:SPECTRA COIN強奪Lv.1|CENTER:MIDDLE:-|CENTER:MIDDLE:&blankimg(SPECTRA COIN.png,x=43,y=43)×1&space()&blankimg(ドッグタグ_LEVEL 1.png,x=43,y=43)×1|受注書に記された場所に向かい、心なき犯罪者を殲滅、SPECTRA COINを回収するミッション。&br()副産物として「ドッグタグ_LEVEL 1」を入手できる。受注者自らの力のみで遂行することが求められる。|
+|CENTER:MIDDLE:SPECTRA COIN強奪Lv.2|CENTER:MIDDLE:&blankimg(ドッグタグ_LEVEL 1.png,x=43,y=43)×20|CENTER:MIDDLE:&blankimg(SPECTRA COIN.png,x=43,y=43)×5&space()&blankimg(ドッグタグ_LEVEL 2.png,x=43,y=43)×2|ミッション内容はLv.1と同様だが、より多くの心なき犯罪者が出没し、警察に通報される。&br()手順がより煩雑かつリスキーとなり、ミッション領域内に隠された物資を活用して完遂を目指す。&br()副産物として「ドッグタグ_LEVEL 2」が入手できる。2名での受注が可能で、戦闘、ダウン時の対処など、連携力が試される。&br()受注には「ドッグタグ_LEVEL 1」が20枚必要となる。|
+|CENTER:MIDDLE:SPECTRA COIN強奪Lv.3|CENTER:MIDDLE:&blankimg(ドッグタグ_LEVEL 2.png,x=43,y=43)×9|CENTER:MIDDLE:&blankimg(SPECTRA COIN.png,x=43,y=43)×12&space()&blankimg(GRENADE LAUNCHER.png,x=43,y=43)×3&space()&blankimg(40mm EXPLOSIVE.png,x=43,y=43)×3|これまでのミッションとは異なり、各手順を実行する場所がそれぞれ離れており、数も多いため、長丁場となる。&br()また、心なき犯罪者の装備がピストルからアサルトライフルにグレードアップされており、出現数も桁違いに増加。&br()四方八方から銃撃を受けることとなる。さらに、最深部に近づくとレーザーガンを持った謎のピエロにも遭遇することとなる。&br()報酬として12枚ものSPECTRA COINを入手できるほか、限定武器であるGRENADE LAUNCHERとその弾を3個ずつ入手できる。&Br()3名での受注が可能で、前方から来る心なき、後方から迫る警察への迅速な対処が求められる。&br()受注には「ドッグタグ_LEVEL 2」が9枚必要となる。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+*&font(20px,#ffffff){&font(25px,#808080){歴}史}
+#div(width=300px,bgcolor=#696969:#F9FCFF){&space()&font(16px,b,#ffffff){2025年}}
+#size(90%){#table_style(head=#696969:#F9FCFF:center:b)
+#table_filter(){関係者=hide,詳細=show}
+|~日付|~出来事|~関係者|~詳細|h
+|5/20|[[加藤　圧]]Boss就任|[[加藤　圧]]&br()[[Back　Alley]]|「[[F>Famos　Gray]]」の使い、[[Back　Alley]]によって加藤　圧がjobに就く。|
+|5/20|[[月ノ島　ごう]]、[[芳賀　ノエル]]雇用|[[加藤　圧]]&br()[[月ノ島　ごう]]&br()[[芳賀　ノエル]]|ビジネス概要を説明し、その場で雇用。|
+|5/22|[[科場　諸朋]]Boss就任|[[加藤　圧]]&br()[[科場　諸朋]]|[[加藤>加藤　圧]]がビジネス概要を説明。&br()事業内容や「[[F>Famos　Gray]]」の素性について疑念は抱きつつもとりあえずjobを付ける。|
+|6/4|[[麻林　ラル]]雇用|[[加藤　圧]]&br()[[麻林　ラル]]|[[加藤>加藤　圧]]がビジネス概要を説明。その場で雇用。|
+|6/5|[[デヤンス>小者　デヤンス]]雇用|[[加藤　圧]]&br()[[デヤンス>小者　デヤンス]]|顔合わせに際して雇用。|
+|6/5|初顔合わせ|[[加藤　圧]]&br()[[科場　諸朋]]&br()[[麻林　ラル]]&br()[[月ノ島　ごう]]&br()[[芳賀　ノエル]]&br()[[デヤンス>小者　デヤンス]]|出自、関係性、立場を異にするメンバーがアジトに集まる。&br()改めてこの事業の説明と運営方針、それぞれの関わり方を確認し合う。|
+|6/6|[[うしべ>蜂夜　ハチ]] &openclose2(show=※){蜂夜 ハチの偽名}雇用|[[加藤　圧]]&br()[[蜂夜　ハチ]]|詳細については秘匿事項とする。|
+|9/9|[[無馬 かな>>無馬　かな]]からの通達|[[加藤　圧]]&br()[[無馬 かな>>無馬　かな]]|[[無馬>>無馬　かな]]が唐突に現れ、15日までにSPECTRA COINを200枚集めれば[[Famos>>Famos　Gray]]が助けてくれると告げる。&br()もし集められなかった場合については、&i(){&color(#A4C4E2){「終わりやね」}}と告げて去る。|
+|9/9|ミッションの受注制限緩和|[[加藤　圧]]&br()[[月ノ島　ごう]]|ミッションの受注経験がある黒市民を対象に召集。&br()SPECTRA COINを緊急で200枚集めなければならない状況を鑑み、1日の受注回数制限、人数制限を撤廃、&br()今後は1H毎に受注できる。&br()また、ミッションを白市民に対しても解放することとなった。|
+|9/14|SPECTRA COIN引き渡し|[[加藤　圧]]&br()[[月ノ島　ごう]]|ピエロやダーク補佐らの襲撃に晒され、何度か強奪に遭うも、最終的に目標数を大きく上回る、696枚もの&br()SPECTRA COINを収集することができた。[[E5's BURGER]]周辺に集結した約30名の警戒下で[[Back　Alley]]に&br()コインを渡し、ボロボロの武器を引き換えに渡された。|
+
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+
+#right(){&link_up(🔝ページTOPへ)}

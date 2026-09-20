@@ -1,0 +1,444 @@
+#co(){^^^^^^^^^^^^^^^^
+相談なく記載を削除する行為は"荒らし行為"となる為ご注意ください。
+削除したい場合は編集提案にてお願いいたします。(例外：誤字脱字修正、ストグラに無関係な内容の削除)
+過去の情報も必要ですので勝手に消さないようご協力よろしくお願いします！
+
+
+【運用方針メモ】
+・botリンク回避したいもの → 言い回し変更 or インライン化（＆font(){}で統一）処置。
+・読み込み処理について →　内容が多くなってるので、文章より後に表示されても良さそうな画像は子ページ(エピソードページなど)へ移行し引用。
+・日付 → 1日は17:00PM～5:00AM。(AMは前日の日付にて処理)
+
+
+【報告案件メモ】
+報告済(対応待ち中)
+
+未報告(誤編集の可能性にて静観中)
+・2025/04/29 (火) 21:27:47 (アーカイブ1いにて、タグを別キャラへ編集)
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+//---<header>------------------------------------------------------------------//
+#co(){~~~プロファイル情報記述基準~~~~~~~~~~~
+【写真項】
+選定基準：各時期の代表的なスタイルの画像。
+→ご指摘(現行のものだけにしてしまうと、別視点で昔の服装しか知らない方や、過去の服装の方が印象が強い方へ不親切である旨)にて。　変装やネタバレ配慮が必要な恰好はその期間のみ(その後は除外)にて運用中。
+仕様：320×650px、バストアップ、なるべく高画質
+
+【職業項】
+職業欄に就業開始日時を記載している関係で、階級を記載してしまうと、その階級に就任した日時や過去の階級の就任日などもすべて書く必要があり長くなってしまうので、本ページの警察項と年表項にて補完。
+もし、この欄に階級を記載したい場合は、就業日時を記載する制度を相談所確認にて無くした上で記載するようお願いします。
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}
+#slide_img(auto=4,position=left,width=320,height=720)
+{nae_selfie.png,nae_police.png,nae_SWAT2.png}
+　&size(24){&b(){「御用改めである！！！」}}
+#size(50%){　}
+#table_style(head=#D8B0AB:#666){名前=center:b:#666:#D8B0AB}
+|~名前|~&icon_fa(fa fa-user)|&ruby(ふみつき){文月} なえ|
+|~出身地|~&icon_fa(fa fa-map-marker)|日本(江戸時代)|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|7月(日付不明) (30歳ほど)|
+|~転入日|~&icon_fa(fa fa-clock-rotate-left)|2023年11月09日 (&countup(2023/11/09,yd)経過)|
+|~職業|~&icon_fa(fa fa-shield-halved)|[[ロスサントス警察]] &small(){'24/02/25～}|
+|プレイヤー|BGCOLOR(#666):~&color(#D8B0AB){&icon_fa(fa fa-heart)}|叶（にじさんじ）|
+|告知等|BGCOLOR(#666):~&color(#D8B0AB){&icon_fa(fa fa-bullhorn)}|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#666){X &small(){(旧&font(#1da1f2){Twitter}) @Kanae_2434}}>>https://x.com/Kanae_2434/]]|
+|配信場所|BGCOLOR(#666):~&color(#D8B0AB){&icon_fa(fa fa-gamepad)}|&font(#DA1725)&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (kanae_2434)}>>https://www.twitch.tv/kanae_2434]]|
+|ガイドライン|BGCOLOR(#666):~&color(#D8B0AB){&icon_fa(fa fa-info-circle)}|[[ANYCOLOR二次創作ガイドライン>>https://www.anycolor.co.jp/guidelines/]]|
+|~&small(){別キャラ}|~&small(){&icon_fa(fa fa-user-plus)}|&small(){&openclose2(show=ネタバレ注意){&nbsp(br,2) [[無馬 かな>無馬　かな]]、[[文月 夏苗>文月　夏苗]]、[[さしすせ そーだ>さしすせ　そーだ]]}}|
+//|~TwiX|~&icon_fa(fa fa-crow)|-|
+#size(30%){　}
+&image(nae_CharacterBanner.png,y=60)
+#size(30%){　}
+&aname(目次)
+#region(目次を開く)目次
+#contents(fromhere=true,level=1)
+#endregion
+//---<基本情報>------------------------------------------------------------------//
+*&font(#e0e0e0){基本情報 &font(#D8B0AB){&icon_fa(fa fa-duotone fa-horse-head)}}
+***&size(120%){&bgcolor(#D8B0AB){&nbsp()&font(#666,90%){▷ 基本情報}&nbsp(42)}}
+&image(listmarker.png,inline)「だいたい江戸時代」の日本から来たと称する侍風の男。
+&image(listmarker.png,inline)記憶が混濁しているのか、言葉や時代考証はだいぶ大味。
+&image(listmarker.png,inline)本人は武士であるが何故か警察仲間や周囲の人間からは「殿」と呼ばれている。
+&image(listmarker.png,inline)現在は、悪人を裁くため奉行所勤務中。
+//
+****&underdot(#CC9999,3px){&font(15,#666){起床率について}}
+&image(listmarker.png,inline)時空を超えたためか、起床率はまちまちである。
+&image(listmarker.png,inline)殿が目覚める前は笛の音で事前に知らせがあるらしい。
+&image(listmarker.png,inline)寝ている際は、&s(){青い仮面をした男}&s(){か}若い青年の夢を見ているようだ。
+&image(listmarker.png,inline)[[子孫>文月　夏苗]]らしき人物が現れて以来街で見かけることが無かったため、江戸へ帰ったと思われていた。
+&nbsp(3)&image(listmarker.png,inline)が、ヒロアカの一気読みで街に出ていなかったことが判明。
+&nbsp(3)&image(listmarker.png,inline)以降長期休暇から帰る度、漫画や映画などが理由になっている。
+****&underdot(#CC9999,3px){&font(15,#666){&anchor(あかしっく古事記,option=nolink){あかしっく古事記}について}}
+&image(listmarker.png,inline)この世のすべてが記載されている書物。（タブレット形式らしい）
+&image(listmarker.png,inline)わからないことはすべて「あかしっく古事記」で学習している。
+&nbsp(4)例）アルファベット、英語、現代語 等
+&image(listmarker.png,inline)が、たまに独特な表現になることも。
+&nbsp(4)例)「こめってお」「らっぴとっぴ」等
+#size(50%){　}
+#region(なえ殿用語集)
+#size(90%){#table_color(head=#D8B0AB:#666)
+#table_filter(){現代語=show,備考=show}
+||~用語|~現代語|~備考|h
+|あ|あかしっく&ruby(こじき){古事記}|全事象が記録されている書物|「古事記に書いてあった」 |
+|あ|あげ↑|高揚する気持ち|[[ペンギンの妖>成瀬　力二]]に教えてもらった|
+|あ|&ruby(アヘン){阿片}|違法薬物||
+|あ|&ruby(あやかし){妖}|不審者|「[[犬の妖>ゴンザレス　マヌ太郎]]」「[[黄色い妖>伊藤　ぺいん]]」|
+|う|&ruby(うちくぼ){打首}う|打首しよう|[[ペンギンの妖>成瀬　力二]]に教えてもらった|
+|え|エドレン|江戸の錬金術師|&openclose2(show=配役){&br()[[江戸ワード>文月　なえ]]、[[ネルフォンス>二十日　ネル]]、[[マヌタング大佐>ゴンザレス　マヌ太郎]]、[[ミンブリー>ミン　ドリー]]}|
+|か|&ruby(かたじけな){忝}い|ありがたい||
+|か|&ruby(かぶきもの){傾奇者}|風変わりな者|[[ローズ>猪原　ローズ]]|
+|か|&ruby(かわや){厠}|トイレ||
+|か|&ruby(かんじゃ){間者}|スパイ||
+|く|&ruby(くげ){公家}|かなり偉い身分|Grade:5 警視|
+|く|&ruby(くさり){鎖}かたびら|アーマー||
+|く|&ruby(くすし){薬師}|救急隊||
+|こ|ゴーゴー|Police Jugular|&color(#aaa){&small(){GOGO JUGGLER が由来}}|
+|こ|こめってぉ|Police Comet|&color(#aaa){&small(){殿専用コメットの名前}}|
+|さ|さげ↓|ダウン、気絶した時に使う|[[犬の妖>ゴンザレス　マヌ太郎]]に教えてもらった|
+|し|しぬバディ|死ぬまでバディ、死んでもバディ|[[ぺいん>伊藤　ぺいん]]と交わした契り　&openclose2(show=詳細){&br()なえが警察を辞めるときはぺいんも一緒。&br()事件対応中に片方がダウンした際は、もう片方のバックパックとして機能する。}|
+|し|&ruby(しょうるいあわ){生類憐}れみの&ruby(れい){令}|動物愛護令|道に転がっている肉塊は別|
+|す|&ruby(すいせい){彗星}、こめってお|Police Comet S2||
+|た|&ruby(だいみょう){大名}|そこそこ偉い身分|Grade:4 警部|
+|た|&ruby(たわむ){戯}れ|ちょけ、お遊び||
+|て|&ruby(てつ){鉄}の&ruby(うま){馬}|車||
+|て|てつはう|銃||
+|て|&ruby(てなわ){手縄}|手錠||
+|と|&ruby(とば){賭場}|カジノ|&color(#aaa){&small(){マネーロンダリングではない}}|
+|と|&ruby(トリカブト){鳥兜}|違法薬物||
+|と|ときしっく&ruby(こじき){古事記}|すべての悪口が記された書物|&color(#aaa){&small(){内容は衛星に載せられないほどのもの}}|
+|の|&ruby(のらくすし){野良薬師}|個人医||
+|は|パラサイト&ruby(こうじえん){広辞苑}|街についても記された書物|あかしっく古事記と同列の別作品|
+|ひ|&ruby(ひゃくしょう){百姓}|非力な者|『[[ニックス 百姓>ニックス　リア]]』|
+|ひ|ぴえん|気分が落ち込んだ時、怪我をした時|[[犬の妖>ゴンザレス　マヌ太郎]]に教えてもらった|
+|ふ|&ruby(ぶぎょうしょ){奉行所}|警察署| 江戸にいた頃に勤めていた場所|
+|へ|へりぽぷたー|ヘリコプター|[[面妖な女子>ひの　らん]]に教えてもらった|
+|ほ|&ruby(ほうろくだま){焙烙玉}|手榴弾||
+|み|&ruby(みかど){帝}|最上級に位が高い身分|[[市長>山下　ひろし]]|
+|め|めんこい|かわいい|[[さぶ郎>安保　さぶ郎]]、[[なずぴ>きらりんぶい☆　なずぴ(10)]]、[[ラピス りお>ラピス　りお]]|
+|め|&ruby(めんぼく){面目}ない|申し訳ない||
+|よ|&ruby(よしわら){吉原}|キャバクラ||
+#table_sorter{even=#f7f7f7,odd=fff}
+//~でセル統合すると、ソート機能が使えなくなるのでお気をつけください～
+}
+#endregion(用語集)
+//---<外見>--------------------------------
+***&size(120%){&bgcolor(#D8B0AB){&nbsp()&font(#666,90%){▷ 外見}&nbsp(48)}}
+&image(listmarker.png,inline)かなり整った容姿をしている。
+&nbsp(3)本人にも自覚があるようで、この街に来て1番楽しかったことは自撮り。
+//---<趣味嗜好>--------------------------------
+//---<性格>--------------------------------
+***&size(120%){&bgcolor(#D8B0AB){&nbsp()&font(#666,90%){▷ 性格}&nbsp(48)}}
+&image(listmarker.png,inline)罪を憎んで人を裁くのが信条。
+&image(listmarker.png,inline)基本すっとぼけ風の態度をとっているが、妙に察しが良い。
+&nbsp(3)銃器、車両から場の空気まで何でもござれ。
+&image(listmarker.png,inline)切符対応をめんどくさがるためよく金欠になる。
+&image(listmarker.png,inline)バディと常に一緒に居たがる等、少々&s(){メンヘラ気質}があるようだ。
+//---<能力>--------------------------------
+***&size(120%){&bgcolor(#D8B0AB){&nbsp()&font(#666,90%){▷ 能力}&nbsp(48)}}
+&image(listmarker.png,inline)口調や語尾に妙な伝播力がある。
+&nbsp(3)&image(listmarker.png,inline)無線ごしでも一瞬で感染することから、[[成瀬>成瀬　力二]]からは流行り病のテロリストと認定された。
+&nbsp(3)&image(listmarker.png,inline)&ruby(悪ノリが過ぎる){症状が重度}の場合、&ruby(銃弾){ワクチン}が投与される模様。
+&image(listmarker.png,inline)火を恐れず、目の前が火の海でも平然と救助に向かおうとする。
+//
+***&size(120%){&bgcolor(#D8B0AB){&nbsp()&font(#666,90%){▷ 警察としての殿}&nbsp(32)}}
+****&underdot(#CC9999,3px){&font(15,#666){現在の所属および役職&nbsp()}}
+&b(){所属}：特殊刑事課　'24/03/02～
+&b(){階級}：POLICE RANK1 (Grade1 Officer 巡査長)&nbsp(br,11)SWAT RANK1
+&b(){世代}：&b(){『最悪の世代』}&small(){[[詳細>ロスサントス警察#最悪の世代]]}
+&image(listmarker.png,inline)同体験期間が4ヶ月ほどあったため、同期が多い。
+//
+****&underdot(#CC9999,3px){&font(15,#666){概要&nbsp()}}
+&image(listmarker.png,inline)ろけっとらんちゃーを自由に撃てるランク4を目指していた。
+&nbsp(3)&image(listmarker.png,inline)途中、[[なずぴ>きらりんぶい☆　なずぴ(10)]]からの北署ランク3への勧誘に心動かされていていた。
+&nbsp(3)&image(listmarker.png,inline)紆余曲折を経て特殊刑事課入り。ロケランの自由発射が可能に。
+&image(listmarker.png,inline)[[ぺいん>伊藤　ぺいん]]と「死ぬまでバディ」の契りをたてている。&co(){詳細は住人関係項へ移行(口癖なども)}
+//
+****&underdot(#CC9999,3px){&font(15,#666){職務姿勢&nbsp()}}
+&image(listmarker.png,inline)高所が苦手なため、ヘリ対応をすることは滅多にない。
+&nbsp(3)&image(listmarker.png,inline)ヘリ操縦が強いられる際は&ruby(Victrix){説明書}を用意し慎重に飛ばすため、銃撃戦が出来なくなる。
+&image(listmarker.png,inline)得意な潜水で、さながら忍者の如く奇襲。
+&nbsp(3)&image(listmarker.png,inline)主に客船強盗とアーティファクト強盗の制圧にて行う。
+&image(listmarker.png,inline)抜刀し敵陣へ突撃。
+&nbsp(3)&image(listmarker.png,inline)なえは大抵ダウンするものの、&ruby(ベイト){エントリー合図}として効力を発揮。高い検挙率を誇る。
+&image(listmarker.png,inline)一発2000万の&ruby(ロケラン){大砲}を多用。新人ながら、命中率は高い。
+//---<江戸>--------------------------------
+***&size(120%){&bgcolor(#D8B0AB){&nbsp()&font(#666,90%){▷ 江戸の殿}&nbsp(42)}}
+#openclose(show= ＞出自について){
+&image(listmarker.png,inline)名のある家に生まれた武士。(殿ではない)
+&image(listmarker.png,inline)時代は170〜200年前の幕末。([[悪代官>四皇　シャンクズ]]との出会いにより絞られる。)
+&image(listmarker.png,inline)文月流剣術の師範で、12人の門下生がいた。
+&nbsp(3)&image(listmarker.png,inline)その中には無馬家の血筋も…？
+}
+#size(30%){　}
+#openclose(show= ＞家庭・家族について){
+&image(listmarker.png,inline)江戸に妻子有。
+&image(listmarker.png,inline)妻は面が良く胸がでかい。
+&image(listmarker.png,inline)息子の名前は「さとし」。
+}
+#size(30%){　}
+#openclose(show=＞現在判明している江戸への帰り方){
+① 片手に花火を持った状態でぺいんをビンタ
+&image(listmarker.png,inline)一時的にしか帰れない。
+② 強く念じる
+&image(listmarker.png,inline)[[ヴァン ダーマー>ヴァン　ダーマー]]から得た情報。
+&image(listmarker.png,inline)一方通行で戻って来ることは出来ない。
+③ 空飛ぶ車(デロリアン)
+&image(listmarker.png,inline)行き来するにはこの方法しかないらしい。
+}
+//
+----
+****&underdot(#CC9999,3px){&font(15,#666){◆ 裏話、RP外}}
+#openclose(show= ＞キャラ誕生裏話){
+&image(listmarker.png,inline)警察体験用のセカンドキャラとして誕生。
+&image(listmarker.png,inline)当初ボイスチェンジャーを使用した女性キャラを予定していたが、ボイスチェンジャー導入がうまくいかず急遽サムライキャラでのRPを行うことになった。
+}
+//
+#right{&link_anchor(目次){△目次へ}}
+//---<服装一覧>------------------------------------------------------------------//
+*&font(#e0e0e0){装束一覧 &font(#D8B0AB){&icon_fa(fa-solid fa-shirt)}}
+***&size(120%){&bgcolor(#D8B0AB){&nbsp()&font(#666,90%){▷ 服装情報}&nbsp(45)}}
+****&underdot(#CC9999,3px){&font(15,#666){◆ 箪笥&nbsp()}}
+#table_style(head=#F0F0F0:85%:center){}
+||~&blankimg(page=文月　なえ/エピソード2,nae_SWAT3.png,x=111,y=250)|
+|~警察|~SWAT|
+|&font(10){&br()}&br()&font(9,#aaa){}|&font(10){久方なる起床で新調。&br()らしさを追求。}&br()&font(9,#aaa){'25/05/20～}|
+#table_zebra(#F0F0F0,#F0F0F0)
+#co(){~~~テンプレ~~~~~~
+
+~&blankimg(page=文月　なえ/エピソードｎ,ｎｎｎ.png,x=111,y=250)
+
+&font(10){ｎｎｎ&br()ｎｎｎ}&br()&font(9,#aaa){'25/ｎ/ｎ～'25/ｎ/ｎ}
+
+~~~~~~~~~~~~~~~~~~~~~~~~}
+//
+****&underdot(#CC9999,3px){&font(15,#666){◆ 過去一覧&nbsp()}}
+#region(過去の衣服)&b(){過去の衣服}
+#table_style(head=#F0F0F0:85%:center){}
+|~&blankimg(初期.png,x=111,y=240)|~&blankimg(nae_tokushu.png,x=111,y=250)|~&blankimg(nae_police.png,x=111,y=250)|~&blankimg(nae_SWAT.png,x=111,y=250)|~&blankimg(nae_SWAT2.png,x=111,y=250)|
+|~初期衣服|~特殊刑事課装束|~警察装束|~SWAT装束 其の一|~SWAT装束 其の二|
+|&font(10){街へ来た時の着物。&br()}&br()&font(9,#aaa){'23/11/09～'25/05/20}|&font(10){マヌ印の特殊刑事課服。&br()}&br()&font(9,#aaa){'24/01/15～'25/05/20}|&font(10){警察業務服&br()個性を尊重した形。}&br()&font(9,#aaa){'24/03/29～'25/05/20}|&font(10){SWAT服①&br()バンダナがお気に入り。}&br()&font(9,#aaa){'24/03/29～'25/05/20}|&font(10){SWAT服②&br()へそ出しがお気に入り。}&br()&font(9,#aaa){'24/03/29～'25/05/20}|
+#table_zebra(#F0F0F0,#F0F0F0)
+#endregion(過去衣服)
+#right{&link_anchor(目次){△目次へ}}
+//---<交友関係>------------------------------------------------------------------//
+*&font(#e0e0e0){交友関係 &font(#D8B0AB){&icon_fa(fa fa-users)}}
+//ネタバレを見たくない人の為に個別で折りたたみました。
+#region(警察)&underdot(#CC9999,3px){&nbsp()&font(b,16){&icon_fa(fa fa-shield)&nbsp()奉行人&nbsp(2)}}
+****&size(90%){[[伊藤 ぺいん>伊藤　ぺいん]]}
+#region(開く)
+愛称：ぺいん
+-「死ぬまでバディ」の契りを交わした仲。「ぺいん何処じゃ～」
+--闇堕ちや江戸まで共にするほど強い絆を持っている。死ぬまで一緒、死んでも一緒。
+--パシフィック銀行襲撃で先に倒れたぺいんを連れまわしたことが始まり。
+-暇な時間にはよくチェスをする。
+-いつも一緒に行動しており警察の中でも飛び抜けて仲が良い。お互いよく気にかけている。
+-互いに信頼しあっており｢共依存｣と言われている程。
+-二人でいるときはいろいろ貫通した話をすることがある。
+#endregion
+****&size(90%){[[安保 さぶ郎>安保　さぶ郎]]}
+#region(開く)
+愛称：さぶろう
+-なえが金欠で給油もできなかったときに快く貸してくれた。
+-空腹状態など、時折なえのことを気にかけてくれる優しい存在。
+#endregion
+****&size(90%){[[犬 ルリ>犬　ルリ]]}
+#region(開く)
+愛称：犬
+-初対面時はどちらが敬語を使うかでレスバしていたが、その後はカジノで一緒に全財産擦るほど仲がいい。
+#endregion
+****&size(90%){[[猪原 ローズ>猪原　ローズ]]}
+#region(開く)
+愛称：ローズ
+-独特な歩き方を気に入り、伝授してもらった。賭場へ行く際にはお金を借りた。
+#endregion
+****&size(90%){[[きらりんぶい☆ なずぴ(10)>きらりんぶい☆　なずぴ(10)]]}
+#region(開く)
+愛称：なずぴ
+-北署署長代理。なえの合否が出る前から北署に勧誘するほどその腕を買っている。
+-めんこい。お小遣いをくれたり、ロケランの弾をくれたりと中々優しい。
+#endregion
+****&size(90%){[[ゴンザレス マヌ太郎>ゴンザレス　マヌ太郎]]}
+#region(開く)
+愛称：マヌ
+-なえがロスサントスへ降り立って初めて出会った住人。
+-警察体験時には指南役として多くの時間を共に過ごした。同棲。
+#endregion
+****&size(90%){[[二十日 ネル>二十日　ネル]]}
+#region(開く)
+愛称：ネルフォンス
+-賭博（チンチロ）で勝負し収支6億勝ちを果たした。
+#endregion
+****&size(90%){[[ボイラ テンガリン>ボイラ　テンガリン]]}
+#region(開く)
+愛称：ボイラ
+-「合鍵」と言うと酷く慌て出す。合鴨。
+#endregion
+****&size(90%){[[ミンドリー>ミン　ドリー]]}
+#region(開く)
+愛称：みどり
+-頼りになる上司。困ったことや上司の判断を仰ぐ必要がある時によく世話になっている。
+-ノリがいい。&openclose2(show= 特定のメンバーが集まると){&nbsp(br,3)なにかと貫通しがちになる。ぺいんとかなえ、ゆぐどらしるetc.}
+#endregion
+****&size(90%){[[ラピス りお>ラピス　りお]]}
+#region(開く)
+愛称：りお
+-警察体験3日目のバディを頼まれ、警察としての動きと心得を教えた。
+-無事警察に合格できたことをなえと祝った。
+#endregion
+****&size(90%){[[ニックス 皇帝>ニックス　リア]]}
+#region(開く)
+愛称：百姓
+-剣術の決闘で皇帝が負けたことをきっかけに「百姓」と呼ぶようになった。
+-その後も汚名返上と意気込み何度か手合わせを申し込まれているが、無事全勝している。
+#endregion
+****&size(90%){[[ジャック 馬ウアー>ジャック　馬ウアー]]}
+#region(開く)
+愛称：帝
+-
+#endregion
+//
+#endregion(警察)
+#size(50%){　}
+#region(ギャング)&underdot(#CC9999,3px){&nbsp()&font(b,16){&icon_fa(fa fa-user-secret)&nbsp()悪人}&nbsp(2)}
+****&size(90%){[[みこだ よう>神子田　頼]]}
+#region(開く)
+愛称：みこだ
+-事件現場にエントリーするなえをよくカバーしてくれた。
+-警察を退職したことでなえとは道を違える形に。
+#endregion
+#endregion(悪人)
+//
+#co(){^^テンプレ^^^^^^^^^^^^
+****&size(90%){[[>]]}
+#region(開く)
+愛称：
+-
+#endregion
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+//
+#right{&link_anchor(目次){△目次へ}}
+//---<歴史>------------------------------------------------------------------//
+*&font(#e0e0e0){歴史 &font(#D8B0AB){&icon_fa(fa fa-scroll)}}
+**年表
+#div(width=330px,bgcolor=#f7f7f7){&font(b,#666666,120%){　 奉行所編}}
+#region(開く,open)
+#size(90%){
+#table_style(head=#D8B0AB:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|'23/11/09|見知らぬ街で目覚める|[[犬の妖>ゴンザレス　マヌ太郎]]に轢かれた成り行きで、奉行所の体験を受ける。|
+|'24/02/20|体験最終日|3ヶ月以上にも及ぶ奉行所体験が終了した。|
+|'24/02/25|警察正式採用|ロスサントス警察への合格が発表される。|
+|'24/03/02|特殊刑事課配属||
+|'24/03/07|契りを交わす|[[ぺいん>伊藤　ぺいん]]と「死ぬまでバディ」の契りを交わす。&co(){詳細は住人関係項へ移行}|
+|'24/03/29|SWAT配属||
+||||
+#table_sorter{even=#f7f7f7,odd=#fff}
+}
+
+#endregion(年表) 
+//---<エピソード>--------------------------------
+**&anchor(エピソード,option=nolink){エピソード}
+#size(13){＜過去エピソード＞
+◇2023年｜[[11月>文月　なえ/エピソード1#11月]]｜
+◇2024年｜&nbsp(2)[[1月>文月　なえ/エピソード1#1月]]｜&nbsp(2)[[2月>文月　なえ/エピソード1#2月]]｜&nbsp(2)[[3月>文月　なえ/エピソード1#3月]]｜&nbsp(2)[[4月>文月　なえ/エピソード1#4月]]｜&nbsp(2)[[5月>文月　なえ/エピソード1#5月]]｜[[6月>文月　なえ/エピソード1#6月]]｜
+◇2025年｜&nbsp(2)[[5月>文月　なえ/エピソード2#5月]]｜&nbsp(2)[[9月>文月　なえ/エピソード2#9月]]｜
+}
+//
+***&big(){&underdot(#CC9999,3px){&anchor(9月,option=nolink){ 2025年 9月}}}
+#region(開く,open)
+
+#region(9/21　#28　[[🎬]],open)&b(){9/21　#28}　[[🎬]]
+#areaedit()
+-エピソード募集
+#areaedit(end)
+#endregion
+//
+#co(){^^^^^^^テンプレ^^^^^^^^^^^^
+↓region部分を触らず部分編集ができる編集ミス対策用テンプレ
+
+#region(m/d　#2-　[衛星外含む]　[[🎬>>]])&b(){m/d　#2-}　[衛星外含む]　[[🎬>>]]
+#areaedit()
+-エピソード募集
+#areaedit(end)
+#endregion
+
+^^^^^^^^^^^^
+↓衛星外のclip添付用テンプレ
+
+&font(11px){🎬clip→[[>>]]}
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+#endregion
+#right{&link_anchor(目次){△目次へ}}
+//---<アーカイブ>------------------------------------------------------------------//
+*&font(#e0e0e0){アーカイブ &font(#D8B0AB){&icon_fa(fa fa-archive)}}
+**&anchor(アーカイブ,option=nolink){アーカイブ} &font(#DA1725){&icon_fa(fa fa-youtube-play)}
+&font(10,gray){Twitchアーカイブの仕様変更を受け、過去アーカイブはYotubeへ移行。}
+再生リスト&nbsp()▶&nbsp(2)&font(#DA1725){&icon_fa(fa fa-youtube-play)}&nbsp()[[ストグラ〚文月なえ〛>>https://youtube.com/playlist?list=PLXKMRoeWMiAkDwNwl2hqo9RG5YIOeUnv6]]
+#size(50%){　}
+#size(13){＜過去アーカイブ＞
+◇2023年｜[[11月>文月　なえ/アーカイブ1#11月]]｜
+◇2024年｜&nbsp(2)[[1月>文月　なえ/アーカイブ1#1月]]｜&nbsp(2)[[2月>文月　なえ/アーカイブ1#2月]]｜&nbsp(2)[[3月>文月　なえ/アーカイブ1#3月]]｜&nbsp(2)[[4月>文月　なえ/アーカイブ1#4月]]｜&nbsp(2)[[5月>文月　なえ/アーカイブ1#5月]]｜&nbsp(2)[[6月>文月　なえ/アーカイブ1#6月]]｜
+◇2025年｜&nbsp(2)[[5月>文月　なえ/アーカイブ2#5月]]｜&nbsp(2)[[9月>文月　なえ/アーカイブ2#9月]]｜
+}
+***&big(){&underdot(#CC9999,3px){&anchor(5月,option=nolink){ 2025年 9月}}}
+#region(開く,open)
+
+#size(90%){#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~アーカイブ|~備考|h
+|'25/09/21|28|[[地球最後の抜刀>>https://www.twitch.tv/videos/2572077505]]|||
+}
+
+#co(){ーーーーーーーー
+
+
+[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}&nbsp()アーカイブ>>]]
+
+|'y/m/d|n|[[配信タイトル>>配信URL]]|[[アーカイブ>>youtubeアーカイブURL]] |[[ダイジェスト>>twitchダイジェストURL]]|
+
+ーーーーーーーーーーーー}
+#endregion
+#right{&link_anchor(目次){△目次へ}}
+//---<切り抜き>--------------------------------
+**公式切り抜き &font(#DA1725){&icon_fa(fa fa-youtube-play)}
+#region(開く,open)
+#size(90%){#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~タイトル|~元配信|~備考|h
+|'23/11/10|[[江戸時代からタイムスリップしてきた侍、文月なえの警察体験【にじさんじ/叶/切り抜き】>>https://youtu.be/7foLv4WhUfM]]|[[＃1>>https://youtu.be/syQmxEvTeKo]]||
+|'24/01/16|[[【ストグラ】江戸時代からタイムスリップしてきた侍、文月なえの警察体験その2【にじさんじ/叶/切り抜き】>>https://youtu.be/F68Y8CtOHCI]]|[[＃2>>https://youtu.be/Xq8l6MZdMT4]]||
+|'24/01/21|[[【ストグラ】江戸時代からタイムスリップしてきた侍、文月なえの警察体験その3【にじさんじ/叶/切り抜き】>>https://youtu.be/eY44iDGoSmE]]|[[＃3>>https://youtu.be/rohVlgm5SWI]]||
+|'24/02/21|[[【ストグラ】江戸時代からタイムスリップしてきた侍、文月なえの警察体験その4【にじさんじ/叶/切り抜き】>>https://youtu.be/OsbLPJ3ozis]]|[[＃4>>https://youtu.be/bUIqxuvDkzE]]||
+|'24/02/27|[[【ストグラ】警察署に不法侵入したMonDに振り回される文月なえ【にじさんじ/叶/切り抜き】>>https://youtu.be/Jdx-NDt5Dvc]]|[[＃5>>https://youtu.be/9bP_YJUrXIo]]||
+|'24/03/12|[[【ストグラ】真剣にやってるはずが毎回コントになってしまう伊藤ぺいん＆文月なえｗｗｗ【にじさんじ/叶/切り抜き】>>https://youtu.be/uVqE9KJryZU]]|[[＃11>>https://youtu.be/ZjFUYbxkZcY]],[[＃12>>https://youtu.be/MHoKNpN4m0E]],[[＃13>>https://youtu.be/jPz1vMwnGNQ]]||
+|'24/03/14|[[【ストグラ】一緒に江戸エンドを迎えるかもしれない2人ｗｗｗ【にじさんじ叶/切り抜き】>>https://www.youtube.com/watch?v=uG1hJOZGu68]]|[[＃15&nbsp()①>>https://youtu.be/4l-5S_pamEk]],[[＃15&nbsp()②>>https://youtu.be/AOonzonQ14o]]||
+}
+#endregion(切り抜き)
+#right{&link_anchor(目次){△目次へ}}
+//---<ショート>--------------------------------
+**公式ショート動画 &font(#DA1725){&icon_fa(fa fa-youtube-play)}
+***&big(){&underdot(#CC9999,3px){ 2023～25年}}
+#region(開く,open)
+#size(90%){#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~タイトル|~元配信|~備考|h
+|'23/11/11|[[初日から現代兵器の恐ろしさを思い知る文月なえ>>https://youtube.com/shorts/SOTYS0H7z-Y]]|[[＃1>>https://youtu.be/syQmxEvTeKo]]||
+|'23/11/12|[[歴史ネタバレを食らう>>https://youtube.com/shorts/JRg5LxE3fqM]]|[[＃1>>https://youtu.be/syQmxEvTeKo]]||
+|||||
+|'24/01/21|[[【ストグラ】こめっておの腕前>>https://youtube.com/shorts/8IHy1-s43cU]]|[[＃3>>https://youtu.be/rohVlgm5SWI]]||
+|'24/03/06|[[【ストグラ】オチをつける殿>>https://youtube.com/shorts/kYdYxHLsvSM]]|[[＃11>>https://youtu.be/ZjFUYbxkZcY]]||
+|'24/03/14|[[【ストグラ】コテコテのツッコミ>>https://youtube.com/shorts/-G2rW53XeBw]]|[[＃14>>https://youtu.be/QW6WPaPitwc]]||
+|'24/03/16|[[【ストグラ】全然普通に喋れた殿>>https://youtube.com/shorts/xWnpeiyRXiA]]|[[＃16>>https://youtu.be/RyfQM6qGfNc]]||
+|'24/04/05|[[【ストグラ】12億を賭けた大勝負>>https://youtube.com/shorts/QOMVV4uFFCc]]|[[＃19>>https://youtu.be/NkpJzId3iZw]]||
+|'24/04/08|[[【ストグラ】文月なえVS伊藤ぺいん 命懸けの訓練>>https://youtube.com/shorts/DYdSDYFdQRw]]|[[＃14>>https://youtu.be/QW6WPaPitwc]]||
+|'24/04/10|[[【ストグラ】“ルッコラ”に破壊されるチルしりとり>>https://youtube.com/shorts/jnq9DjaNRbE]]|[[＃14>>https://youtu.be/QW6WPaPitwc]]||
+|'24/05/08|[[【ストグラ】華麗な大ジャンプと思いきや…？>>https://youtube.com/shorts/3ppwgyofS-k]]|[[＃24>>https://youtu.be/YtyfrRM89MQ]]||
+|||||
+|'25/09/26|[[【ストグラ】ドラマすぎたSeason1ラスト #にじさんじ #叶 #shorts>>https://youtube.com/shorts/nTzX-YBAFj8]]|[[#28]]||
+}
+#endregion(23,24,25)
+
+#co(){^^^
+
+|'26//|[[>>]]|[[#>>]]||
+
+^^^^^^^^^}
+#right{&link_anchor(目次){△目次へ}}

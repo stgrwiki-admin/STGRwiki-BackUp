@@ -1,0 +1,390 @@
+*&color(#2e8b57){&icon_fa(fa-solid fa-user)} プロフィール
+#table_style(head=#2e8b57){}
+|&image(shinna_first.png,y=400)|&image(shinna_thumbnail.jpg,y=300)|h
+
+#table_style(head=#2e8b57:#fff){}
+#table_filter(){Season1=hide,Season2=show}
+|~&color(#2e8b57){}|~&color(#89c3eb){}|~Season1|~Season2|
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(こよみ){暦}　&ruby(){しんあ}|
+|~別名|~&icon_fa(far fa-user)|>|&ruby(こよみ){暦}　ひめ|
+|~本名|~&icon_fa(fa fa-user-tag)|>|&openclose2(show=???){&br()&ruby(いのせ){猪瀬}　&ruby(たつ){辰}}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|2008年01月01日 (&countup(2008/01/01,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年08月23日 (&countup(2025/08/23,yd)経過)|2026年02月11日 (&countup(2026/02/11,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|【[[ミンミンボウ]]】体験 &small(){(2025/08/23～)}&br()【[[KoKo七番屋]]】体験 &small(){(2025/08/23～)}|-|
+|~家族|~&icon_fa(fa-solid fa-calendar-days)|>|[[暦家]]|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|💚hime💚&br()@himechan|oO ひめ Oo&br()@ichibanxkawaii|
+|BGCOLOR(#fff):~&color(#2e8b57){プレイヤー}|BGCOLOR(#fff):~&color(#2e8b57){&icon_fa(fa fa-address-card-o fa-fw)}|>|もこ田めめめ(.LIVE／アップランド)|
+|BGCOLOR(#fff):~&color(#2e8b57){告知等}|BGCOLOR(#fff):~&color(#2e8b57){&icon_fa(fa fa-bullhorn)}|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/mokomeme_ch]]|
+|BGCOLOR(#fff):~&color(#2e8b57){配信場所}|>|BGCOLOR(#fff):~&color(#2e8b57){&icon_fa(fa fa-gamepad)}|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>http://www.youtube.com/@MememeMokota]]|
+|BGCOLOR(#fff):~&color(#2e8b57){ガイドライン}|>|BGCOLOR(#fff):&color(#2e8b57){&icon_fa(fa fa-info-circle)}|[[アップランド二次創作ガイドライン>>https://appland.co.jp/guideline/]]|
+|BGCOLOR(#fff):~&color(#2e8b57){ハッシュタグ}|BGCOLOR(#fff):&color(#2e8b57){&icon_fa(fa fa-hashtag)}|>|[[&font(#696969){#暦家}>>https://x.com/hashtag/暦家?src=hashtag_click&f=live]]|
+|BGCOLOR(#fff):~&color(#2e8b57){別キャラ}|BGCOLOR(#fff):&color(#2e8b57){&icon_fa(fa fa-user-plus)}|>|&small(){&openclose2(show=※ネタバレ注意){&br()[[白　雲隠]]&br()[[レキ　ウィステリア]]&br()[[シャーク　ニサワール]]}}|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&color(#2e8b57){&icon_fa(fa-solid fa-id-card)} 基本情報
+#blockquote(){{年齢：17歳
+出身：日本
+備考：すごくわがままでぶりっこ。性格が悪い。姉妹がたくさんいる。
+（概要欄より）}}
+・[[家族>暦　ちひろ]]に貰った手紙とチケットを携え、ロスサントスに降り立った[[暦家]]の少女。&font(#2e8b57){「お姉ちゃんに言われて素敵なレディになるためにこの街に来ました」}
+・・[[暦家]]姉妹の五女。
+・・甘え上手な性格で姉妹の下の方だと思われがちだが実はそうでもない。
+・・[[暦家]]の無線番号は「5.43」。姉妹が親しくなった人には教えている。
+・「&bold(){しんあ}」という名前が可愛くないからとロスサントス空港へ着いて即「&bold(){ひめ}」と名乗り始めた。
+・・一人称は「ひめ」。住民からは「ひめちゃん」と呼ばれている。
+・・警察での登録も「ひめ」名義で、姉妹からも「ひーちゃん」「ひー姉」等と呼ばれている。
+・・「しんあ」は漢字では「辰愛」と書く。
+・・&openclose2(show=実は…){姉妹の名前は今回のために[[ちひろ>暦　ちひろ]]が考えて付けてくれたもので本当の名前ではない。猪瀬とは…？}
+・かなり計算高い性格。
+・・本心を隠して、相手が喜んで奢ってくれたりしそうな事を考えて言える。
+・・店の接客だったり、男性を籠絡しようという話になると姉妹によく任されている。
+・自分が一番可愛くて優先されるべき存在だと思っている
+・・勤労意欲はあまり無く、油で汚れそうなメカニックや調理の仕事はしたくない。接客するだけなら有り。
+・・車の運転も他の人にやってもらえば良いと思っている。運転免許は取るつもりはなかったが、バイクだけは取る事にした。
+・・お金持ちや権力者が好き。できればお金持ちに養ってもらいたいと考えている。
+・常識はそれなりに持ち合わせているようで、変な事ばかり言っている[[あやの>暦　あやの]]によくツッコミを入れている。
+・姉妹みんなオムライスが好き。
+・・[[海上レストラン>Urashima]]のキッチンを貸してもらってオムライスの移動販売をしている。
+・・ひめのオリジナル料理は「野菜たっぷりオムライス」「キウイジュース」「しんあフレグランス」。
+・イメージカラーは緑。生き物は竜やネコが好き。料理は肉より魚が好き。
+・姉妹で7037にみんな一緒に住める大きな家を買った。
+・・最初は姉妹で同じ8174のアパートに住んでいたが、実家の倉庫よりも狭くて汚らしいので気に入らなかった。
+
+#region(RPについて)
+キャラクターのモデルは悪役令嬢。とてもわがままで性格が悪い。
+（⚠️RPですのでプレイヤーには一切悪意はありません！ご安心ください！⚠️）
+#endregion
+
+*&color(#2e8b57){ &icon_fa(fa-solid fa-people-line)} 交友関係
+暦しんあの視点から得られた情報を元にしているため、事実と異なる場合があります。
+
+#region(暦家)暦家を閉じる
+
+&b(){[[暦　ゆうみ]]}
+・[[暦家]]姉妹の姉。
+・バラバラな性格の姉妹たちのまとめ役を普段してくれている。
+・自分は人見知りだとよく言っているがそんな事は無いと思う。
+・落ち着いていて面倒見が良い姉だが、他の人にはたまに結構きつい事を言う。
+・[[ボイラ　テンガリン]]をハゲだのクソだの言ってとても嫌っている。
+・[[暦　みよこ]]という姉妹の姉を名乗る謎の女に呼び出されて刺される事件が起きた。
+
+&b(){[[暦　あやの]]}
+・[[暦家]]姉妹の妹。
+・独特の感性でとんでもない事をよく言い出す。&font(#2e8b57){「面白いのはあやのちゃん担当」}
+・つい下ネタが出るらしく、初めて会う人には大丈夫か毎回確認している。「ハッシュタグ下ネタアリ大丈夫ですか？」
+・色んな事に突っ込んでいく行動的な性格で友達が多い。複数の男性に胸を触らせていると言っていたので無料で触らせてはいけないとひめは言っておいた。
+・[[君島　こはる]]の事を好きになってしまったかもしれないらしい。
+
+&b(){[[暦　あずみ]]}
+・[[暦家]]姉妹の妹。
+・大人しくてクール。お金を重視しているようで比較的ひめに考え方が近い。
+・左肩に乗っているのはペットの大蛇丸。
+
+&b(){[[暦　ゆん]]}
+・[[暦家]]姉妹の妹。
+・少し気が弱いが、疲れるので走るのを嫌がるひめを抱えて走ってくれた力持ち。#ビビり怪力大丈夫ですか？
+・[[緑髪の男>キャプテン　わきを]]に一目惚れしたと言われて付きまとわれており、ストーカーかもしれないと困っている。
+
+&b(){[[暦　いのん]]}
+・[[暦家]]姉妹の妹。
+・いつも元気でギャルっぽい。
+・姉妹がピエロに襲われた時は銃を持って勇敢に突っ込んでいた。
+・#なんでもします
+
+&b(){[[暦　みう]]}
+・[[暦家]]姉妹の妹。
+・無口で内気で存在感が薄いダウナー系。考え方がネガティブな所がある。
+・[[メイドカフェ>PARADISE LOST]]でのバイトがちょっとトラウマになっているようで、[[キャバクラ>GoodNight]]で働くとなった時はかなり憂鬱そうにしていた。
+・自分からはあまり働きたがらない所はひめと似ている。
+・[[あやの>暦　あやの]]たちがピエロにやられてしまったのを知った時は「ぶちころしてやる」と静かにキレしていた。
+
+&b(){[[暦　いん]]}
+・[[暦家]]姉妹の姉。通称「きゃん」。
+・おっとりフワフワしている自称陰キャ。よく端で体育座りしている。
+・街に来て即[[キャバクラ>GoodNight]]で働く事になった。お客を喜ばせて買わせるのがなかなか上手く、楽しそうに働いていた。
+
+&b(){[[暦　ひるの>暦　午ノ]]}
+・[[暦家]]姉妹の妹。
+・とてもクールでいつも落ち着いている。人と話すのが苦手で男性に媚びるような事は喋れない。
+・[[キャバクラ>GoodNight]]で働くのも抵抗があったようだが、ツンデレキャラも人気だからいけるよとひめは励ました。
+#endregion(暦家)
+
+#region(市民)市民を閉じる
+
+&b(){[[ボイラ　テンガリン]]}
+・警察官。砂漠署の副署長。
+・白市民パスを取りに行った警察署で知り合った。警察の偉い人のようなので連絡先を交換してもらった。
+・何かあったらしく[[ゆうみ>暦　ゆうみ]]がとても嫌っていてよく罵倒している。
+・[[変わった着信音>シャーク　ニサワール]]にしており、それを聞くとなぜかひめのお腹が痛くなってくる。『貴様！無礼者！どこを触っている！』
+・姉妹が[[キャバクラ>GoodNight]]で働いていた時には[[女性>丸井　まる]]を連れて来店していた。
+・[[ゆうみ>暦　ゆうみ]]が刺された事件について相談し、一時避難に家を貸してもらった。
+・警察官としては真面目で正義感が強く、かっこいいとひめも思わなくはないのだが、たまに出てくるセクハラ的発言や気持ち悪さで台無しになっている。
+
+&b(){[[ブロッコリー　斎藤]]}
+・警察官。緑色。
+・白市民パスを取りに行った警察署で知り合った。女好きで気前が良いようなので連絡先を交換。
+・ひめのお世辞や謙遜にとても感激していた。[[FOWK]]というお店で食事を奢ってもらい、お金も3000万くれた。
+・問題を起こして警察を停職になっていると後日[[キーモット　ホームズ]]から聞いた。
+
+&b(){[[マッハボクシング　ドク]]}
+・元メカニック。
+・[[ゆうみ>暦　ゆうみ]]の知り合い。姉妹の買い物に付いてきてもらった。
+・[[あるメカニック>FOG]]に勤めていたが、[[友達>ゆちゃ　めろでぃ]]に騙されたせいで営業停止になってしまったという。それを聞いてそんなの頭おかしい、友達やめた方がいいと[[姉>暦　ゆうみ]]も怒っていた。
+
+&b(){[[ミン　ドリー]]}
+・警察官。中華料理屋[[ミンミンボウ]]店長。
+・姉妹4人を[[ミンミンボウ]]で働かせてくれ、飲食店の仕事について教えてくれた。
+・汚れそうな調理はしたくないひめには接客係の仕事をくれた。
+・[[竹井　勝痔]]によると警察で一番お金持ちらしい。仲良くなりたいな！
+
+&b(){[[ペトロ　アルドベッグ]]}
+・[[FOWK]]店長。免許センターの先生。
+・ひめが魚料理を食べたいと言うと[[ブロッコリー>ブロッコリー　斎藤]]が行きつけの店として連れて行ってくれて知り合った。
+・街は広くてさすがに何か乗り物が無いと不便を感じたので[[岐阜野　こみ蔵]]に免許の先生の紹介を頼むと偶然彼だった。
+・特に根拠は無いが自信満々のひめに優しくこの街の交通ルールを教えてくれ、バイクの免許を取る事ができた。
+
+&b(){[[犬好　マイキー]]}
+・[[KoKo七番屋]]店員。[[個人医]]。
+・[[あやの>暦　あやの]]の知り合いで、胸を触らせたりと危ない遊びをしているエッチな人。
+・誰かに養ってもらいたいという事でなぜか[[暦家]]の弟になった。
+
+&b(){[[君島　こはる]]}
+・[[川上たばこ店]]店員。キャバクラ[[GoodNight]]ボーイ。
+・たばこを吸えない姉妹にお菓子を勧めてくれた。
+・キャバクラに興味を示す姉妹にキャバクラ[[GoodNight]]支配人の[[帝　レン]]を紹介してくれた。
+・[[あやの>暦　あやの]]の事が好きらしい？
+
+&b(){[[牧田　ここな]]}
+・カレー屋[[KoKo七番屋]]店長。
+・次の働き先を探していた姉妹を働かせてくれた。姉妹で何か販売をしたくなった時はキッチンも貸してくれると言ってくれた。
+・親切な人だが、何かあったのか[[ボイラ>ボイラ　テンガリン]]や[[マイキー>犬好　マイキー]]たちには詐欺師と呼ばれていた。
+・[[あやの>暦　あやの]]と[[ゆうみ>暦　ゆうみ]]が「ごめ～んね☆」というのを教わって師匠と呼んでいた。
+
+&b(){[[亀山HERO>焼野原　ひろし]]}
+・[[海上レストラン>Urashima]]店長代理。芸能事務所[[GBC>GoodbyeCircus]]所属。キャバクラ[[GoodNight]]ボーイ。
+・姉妹の[[オムライス移動販売>暦家オムライス屋（仮）]]のために[[海上レストラン>Urashima]]のキッチンを貸してくれた。
+・ひめが飲食店へ行くと高確率で遭遇する。耳が早いようで[[ゆうみ>暦　ゆうみ]]の事件をすぐに知っていて心配してくれた。
+
+&b(){[[帝　レン]]}
+・キャバクラ[[GoodNight]]支配人。芸能事務所[[GBC>GoodbyeCircus]]所属。
+・[[君島　こはる]]が紹介してくれ、姉妹8人で働かせてもらった。
+・19億6000万の売り上げに10億の報酬を払ってくれ、姉妹みんなで住む大きな家を買うための資金ができた。
+
+&b(){[[文殊　セイジ]]}
+・脱出ゲーム屋という店をやっている。頼もしい仲間がいるらしい。
+・[[キャバクラ>GoodNight]]にやってきたお客。2億7000万も払ってもらった。そのうちの1億はひめが注文させた。
+・[[暦家]]の事が気になるようで色々と聞かれた。
+・[[ゆうみ>暦　ゆうみ]]が刺される事件が起きた時も心配して様子を見に来てくれ、優しそうな人なので頼らせてもらった。
+#endregion(市民)
+
+*&color(#2e8b57){ &icon_fa(fa-solid fa-car)} 車両関連
+#div(width=80px,bgcolor=#e8eef3,color=#2e8b57){&size(16){&space()&b(){ Season1}}}
+
+#region(所有車両)
+#table_filter(){車両=show,名前=show,入手日=show,エピソード=show}
+#table_style(head=#2e8b57:#fff:center){車両=b,入手日=right}
+|~車両|~名前|~入手日|~エピソード|h
+
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(取得免許)
+#table_filter(){種類=show,取得日=show,担当教習員=show,備考=show}
+#table_style(head=#2e8b57:#fff:center){head=b,種類=b}
+|~種類|~取得日|~担当教習員|~備考|h
+|自動二輪|2025/09/14|[[ペトロ　アルドベッグ]]|人に運転してもらえば免許は無くても良いと思っていたが、さすがに不便なので取る事にした|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion()
+
+#div(width=80px,bgcolor=#e8eef3,color=#2e8b57){&size(16){&space()&b(){ Season2}}}
+
+#region(所有車両)
+#table_filter(){車両=show,名前=show,入手日=show,エピソード=show}
+#table_style(head=#2e8b57:#fff:center){車両=b,入手日=right}
+|~車両|~名前|~入手日|~エピソード|h
+|原付|Pegassi Faggio Sport|2026/02/11||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+*&color(#2e8b57){&icon_fa(fa-solid fa-book)} エピソード
+#div(width=80px,bgcolor=#e8eef3,color=#2e8b57){&size(16){&space()&b(){ Season1}}}
+#include(暦　しんあ/エピソード1)
+
+#div(width=80px,bgcolor=#e8eef3,color=#2e8b57){&size(16){&space()&b(){ Season2}}}
+***2026年
+#region(#01 ~,open)&bold(){#01 ~}
+****02/11 #01 [[2026/02/11 暦しんあ #暦家>>https://www.youtube.com/live/HcpO4Mn6l-A?si=YvIpQ7iD4eC2rFwe]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+#endregion(#01 ~)
+
+*&color(#2e8b57){&icon_fa(fa-solid fa-video)} アーカイブ
+#div(width=80px,bgcolor=#e8eef3,color=#2e8b57){&size(16){&space()&b(){ Season1}}}
+****2025年
+#region(#01～,close)
+#table_style(head=center:#2e8b57:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~主な出来事|h
+|25/08/23|01|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[2025/08/23 #暦しんあ #暦家>>https://www.youtube.com/watch?v=Mp1lxrcnMZs]]|ロスサントスへやってきて[[暦家]]姉妹と合流する / [[ミンミンボウ]]と[[KoKo七番屋]]で体験する|
+|25/09/10|02|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[2025/09/10 #暦しんあ #暦家>>https://www.youtube.com/watch?v=piKY7NKz5ak]]|姉の[[暦　いん]]が街にやってくる / 姉妹8人でキャバクラ[[GoodNight]]で働く / 姉妹で[[オムライス販売>暦家オムライス屋（仮）]]を始める|
+|25/09/14|03|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[2025/09/14 #シャーク・ニサワール → #暦しんあ #暦家>>https://www.youtube.com/watch?v=27k8Ja7miVo&t=8906s]]|[[ゆうみ>暦　ゆうみ]]が[[暦　みよこ]]に刺される / 7037に姉妹の家を買う / バイクの免許を取る|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#div(width=80px,bgcolor=#e8eef3,color=#2e8b57){&size(16){&space()&b(){ Season2}}}
+****2026年
+#region(#01～,open)
+#table_style(head=center:#2e8b57:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~主な出来事|h
+|26/02/11|01|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[2026/02/11 暦しんあ #暦家>>https://www.youtube.com/live/HcpO4Mn6l-A?si=5ZnaZtbPQsGLCNq6]]|-|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+*&color(#5c9291){&icon_fa(fa-solid fa-tv)} 関連動画
+***&underdot(#5c9291,3px){&nbsp()&color(#2e8b57){&icon_fa(fa-solid fa-film)}&nbsp()再生リスト&nbsp(2)}
+[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}&space()🏮ストグラ>>https://youtube.com/playlist?list=PLmoc6epT-mYj5AgdWf9Ihivosr82rSacG&si=nYvXfBns7M8C8JmW]]&small(){（※&openclose2(show=別キャラ){：[[白 雲隠>>白　雲隠]]、[[レキ・ウィステリア>>レキ　ウィステリア]]、[[シャーク・ニサワール>>シャーク　ニサワール]]}含む）}
+
+**&color(#2e8b57){&icon_fa(fa-solid fa-arrow-up-right-from-square)} ストグラ外コラボ
+***&underdot(#5c9291,3px){&color(#2e8b57){&icon_fa(fa fa-gamepad)}&nbsp()ゲーム&nbsp(2)}
+#region(2025年,open)&b(){2025年}
+#table_filter(){ゲーム名=hide,参加者=show,参加住民=hide,備考=show}
+#table_style(head=#2e8b57:#F9FCFF:center:b){配信日=center}
+|~配信日|~ゲーム名|~内容/タイトル|~参加者|~参加住民|~備考|h
+|25/10/27|一致するまで終われまテン！|&color(#fc9403){&icon_fa(fa fa-bell-slash)} [[#暦家>>暦家]] 一致するまで終われまテン！|[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]|[[しんあ>>暦　しんあ]]、[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]|※配信外で参加|
+|25/12/01|ワードウルフ|&color(#fc9403){&icon_fa(fa fa-bell-slash)} [[#暦家>>暦家]] ワードウルフ|[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]|[[しんあ>>暦　しんあ]]、[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[いのん>>暦　いのん]]|※配信外で参加|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#co{
+|yy/mm/dd|ゲーム|タイトル|[[プレイヤー>>SNS]]|[[住民>>wiki]]||
+
+&color(#fc9403){&icon_fa(fa fa-bell-slash)}
+
+▼暦家住民wiki
+[[にこ>>暦　にこ]]
+[[いん>>暦　いん]]
+[[ゆうみ>>暦　ゆうみ]]
+[[しんあ>>暦　しんあ]]
+[[あずみ>>暦　あずみ]]
+[[ひるの>暦　午ノ]]
+[[みう>>暦　未羽]]
+[[あやの>>暦　あやの]]
+[[ゆん>>暦　ゆん]]
+[[いのん>>暦　いのん]]
+
+▽一気ver.
+[[しんあ>>暦　しんあ]]、[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]
+
+▼暦家プレイヤーSNS
+[[甘乃あもこ>>https://x.com/amoko_official]]
+[[遠吠きゃん>>https://x.com/Kyan_VPI]]
+[[ゆちゃむ>>https://x.com/yuchamchan0928]]
+[[もこ田めめめ>>https://x.com/mokomeme_ch]]
+[[あずもな>>https://x.com/mo_na_ka1025]]
+[[バル子>>https://x.com/baruko_dayo]]
+[[neon>>https://x.com/neon_niconico]]
+[[羽ヶ町つまみ>>https://x.com/Hagamatti]]
+[[にしのん>>https://x.com/2_nsnn_4]]
+[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+▽一気ver.
+[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+}
+
+***&underdot(#5c9291,3px){&color(#2e8b57){&icon_fa(fa fa-radio)}&nbsp()雑談・対談&nbsp(2)}
+#region(2025年,open)&b(){2025年}
+#table_filter(){区分=show,参加者=show,住民名=hide,備考=show}
+#table_style(head=#2e8b57:#F9FCFF:center:b){配信日=center}
+|~配信日|区分|~内容/タイトル|~参加者|~住民名|~備考|h
+|25/12/12|対談|[[【#ヘル田めめめ】ストグラでお世話になっているもこ田めめめさんに根掘り葉掘り聞いてみた【ヘルアン 紫闇ヘル】>>https://www.youtube.com/live/MzlkelCzO4w?si=sPc0z3zkhKuyDdTR]]|[[紫闇ヘル>>https://x.com/m2_kento]]、[[もこ田めめめ>>https://x.com/mokomeme_ch]]|[[ヘルアン>>ヘルアン]]、[[暦 しんあ>>暦　しんあ]]|&small(){※「暦しんあ」としてのコラボではないが、暦家にも触れられているため記載}|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#co{
+|yy/mm/dd||タイトル|[[プレイヤー>>SNS]]|[[住民>>wiki]]||
+
+&color(#fc9403){&icon_fa(fa fa-bell-slash)}
+
+▼暦家住民wiki
+[[にこ>>暦　にこ]]
+[[いん>>暦　いん]]
+[[ゆうみ>>暦　ゆうみ]]
+[[しんあ>>暦　しんあ]]
+[[あずみ>>暦　あずみ]]
+[[ひるの>暦　午ノ]]
+[[みう>>暦　未羽]]
+[[あやの>>暦　あやの]]
+[[ゆん>>暦　ゆん]]
+[[いのん>>暦　いのん]]
+
+▽一気ver.
+[[しんあ>>暦　しんあ]]、[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]
+
+▼暦家プレイヤーSNS
+[[甘乃あもこ>>https://x.com/amoko_official]]
+[[遠吠きゃん>>https://x.com/Kyan_VPI]]
+[[ゆちゃむ>>https://x.com/yuchamchan0928]]
+[[もこ田めめめ>>https://x.com/mokomeme_ch]]
+[[あずもな>>https://x.com/mo_na_ka1025]]
+[[バル子>>https://x.com/baruko_dayo]]
+[[neon>>https://x.com/neon_niconico]]
+[[羽ヶ町つまみ>>https://x.com/Hagamatti]]
+[[にしのん>>https://x.com/2_nsnn_4]]
+[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+▽一気ver.
+[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+}
+
+***&underdot(#5c9291,3px){&nbsp()&color(#2e8b57){&icon_fa(fa-solid fa-music)} 歌ってみた&nbsp(2)}
+#region(2026年,open)&b(){2026年}
+//
+#table_filter(){曲名=show,タイトル=hide,参加者=show,住民名=hide,備考=show}
+#table_style(head=#2e8b57:#F9FCFF:center:b){投稿日=center}
+|~投稿日|~曲名|~タイトル|~参加者|~住民名|~備考|h
+|26/01/05|[[経験値上昇中☆>>https://youtu.be/mK9aZ5webu8?si=QbLw1vJSe_s3Z9Oq]]|[[『経験値上昇中☆』-みなみけCovered by #暦家/甘乃あもこ/遠吠きゃん/ゆちゃむ/もこ田めめめ/あずきもなか/バル子/neon/羽ヶ町つまみ/にしのん/美南まよ>>https://youtu.be/mK9aZ5webu8?si=QbLw1vJSe_s3Z9Oq]]|[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]|[[しんあ>>暦　しんあ]]、[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+#co{
+|yy/mm/dd|曲名|タイトル|[[プレイヤー>>URL]]|[[住民>>wiki]]||
+
+[[&font(#696969){#暦家}>>https://x.com/hashtag/暦家?src=hashtag_click&f=live]]
+
+▼暦家住民wiki
+[[にこ>>暦　にこ]]
+[[いん>>暦　いん]]
+[[ゆうみ>>暦　ゆうみ]]
+[[しんあ>>暦　しんあ]]
+[[あずみ>>暦　あずみ]]
+[[ひるの>暦　午ノ]]
+[[みう>>暦　未羽]]
+[[あやの>>暦　あやの]]
+[[ゆん>>暦　ゆん]]
+[[いのん>>暦　いのん]]
+
+▽一気ver.
+[[しんあ>>暦　しんあ]]、[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]
+
+▼暦家プレイヤーSNS
+[[甘乃あもこ>>https://x.com/amoko_official]]
+[[遠吠きゃん>>https://x.com/Kyan_VPI]]
+[[ゆちゃむ>>https://x.com/yuchamchan0928]]
+[[もこ田めめめ>>https://x.com/mokomeme_ch]]
+[[あずもな>>https://x.com/mo_na_ka1025]]
+[[バル子>>https://x.com/baruko_dayo]]
+[[neon>>https://x.com/neon_niconico]]
+[[羽ヶ町つまみ>>https://x.com/Hagamatti]]
+[[にしのん>>https://x.com/2_nsnn_4]]
+[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+▽一気ver.
+[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+}
+
+#right(){&link_up(🔝ページTOPへ)}

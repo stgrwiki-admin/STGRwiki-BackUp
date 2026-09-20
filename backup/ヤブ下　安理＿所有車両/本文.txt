@@ -1,0 +1,99 @@
+*&font(27px,#00A66C){所}有車両 &icon_fa(fa fa-car-side) &icon_fa(fa fa-motorcycle)
+//------------------Season1　所有車両------------------
+#div(width=120px,bgcolor=#005243){&font(16px,b,#02D6AF){&space()● SEASON1 ●}}
+
+#region(開く,close)
+#table_filter(){#=hide,車名=show,種類=show,tier=hide,取得日=hide,備考=show}
+#table_style(head=center:#005243:#f7f7f7:110%){|~#|~車名|~種類|~tier|~取得日|~備考|h}
+|~#|~車名|~種類|~tier|~取得日|~備考|h
+|1|&blanklink(Winky){https://w.atwiki.jp/gtav/pages/2648.html}|オフロード||2023/--/--||
+|2|&blanklink(Emperor){https://w.atwiki.jp/gtav/pages/299.html}|セダン||2023/--/--||
+|3|&blanklink(190z){https://w.atwiki.jp/gtav/pages/1912.html}|クラシックスポーツ||2023/12/26|[[BIG　SUZUKI]]から譲渡|
+|4|&blanklink(Speedo Custom){https://w.atwiki.jp/gtav/pages/2215.html}|バン||2023/--/--||
+|5|&blanklink(Remus){https://w.atwiki.jp/gtav/pages/2696.html}|スポーツカー||2023/--/--||
+|6|&blanklink(Contender){https://w.atwiki.jp/gtav/pages/1651.html}|SUV||2023/--/--||
+|7|&blanklink(Bati 801){https://w.atwiki.jp/gtav/pages/392.html}|バイク|D|2023/--/--||
+|8|&blanklink(Dubsta){https://w.atwiki.jp/gtav/pages/367.html}|SUV||2023/--/--|V12載せ替え|
+|9|&blanklink(8F Drafter){https://w.atwiki.jp/gtav/pages/2476.html}|スポーツカー|A|2023/--/--|V12載せ替え|
+|10|&blanklink(Club){https://w.atwiki.jp/gtav/pages/2602.html}|コンパクトカー|B|2023/--/--|V6載せ替え|
+|11|&blanklink(Jester RR){https://w.atwiki.jp/gtav/pages/2694.html}|スポーツカー||2023/--/--|V12載せ替え|
+|12|&blanklink(Club){https://w.atwiki.jp/gtav/pages/2602.html}|コンパクトカー|B|2023/--/--|V8載せ替え|
+|13|&blanklink(Kamacho){https://w.atwiki.jp/gtav/pages/1910.html}|オフロード||2023/--/--||
+|14|&blanklink(Jester){https://w.atwiki.jp/gtav/pages/977.html}|スポーツカー|A|2023/--/--|V12載せ替え|
+|15|&blanklink(Vectre){https://w.atwiki.jp/gtav/pages/2706.html}|スポーツカー|A|2023/11/22|V12載せ替え|
+|16|&blanklink(Tailgater S){https://w.atwiki.jp/gtav/pages/2701.html}|セダン|B|2023/--/--|V12載せ替え|
+|17|&blanklink(Schlagen GT){https://w.atwiki.jp/gtav/pages/2441.html}|スポーツカー||2023/11/28||
+|18|&blanklink(Specter){https://w.atwiki.jp/gtav/pages/1721.html}|スポーツカー||2023/--/--||
+|19|&blanklink(Penumbra FF){https://w.atwiki.jp/gtav/pages/2093.html}|スポーツカー||2023/--/--|V12載せ替え|
+|20|&blanklink(Revolter){https://w.atwiki.jp/gtav/pages/1906.html}|スポーツカー|A|2023/--/--|V12載せ替え|
+|21|&blanklink(Sultan Retro){https://w.atwiki.jp/gtav/pages/2537.html}|スポーツカー|A|2023/--/--|V8載せ替え (Sultan Classic)|
+|22|&blanklink(Elegy Retro Custom){https://w.atwiki.jp/gtav/pages/1695.html}|スポーツカー|A|2023/--/--|V12載せ替え|
+|23|&blanklink(Issi Classic){https://w.atwiki.jp/gtav/pages/1955.html}|コンパクトカー||2023/--/--||
+|24|&blanklink(Issi Sport){https://w.atwiki.jp/gtav/pages/2478.html}|スポーツカー|S|2023/--/--|V8載せ替え|
+|25|&blanklink(Sultan RS){https://w.atwiki.jp/gtav/pages/1607.html}|スーパーカー|A|2023/--/--|V12載せ替え|
+|26|&blanklink(Krieger){https://w.atwiki.jp/gtav/pages/2512.html}|スーパーカー|S|2023/--/--||
+|27|Sultan Classic Custom|-|A|2023/--/--|V12載せ替え (MOD)|
+|28|&blanklink(Calico GTF){https://w.atwiki.jp/gtav/pages/2697.html}|スポーツカー|A|2023/--/--||
+|29|&blanklink(Paragon R){https://w.atwiki.jp/gtav/pages/2479.html}|スポーツカー|S|2023/--/--|V12載せ替え|
+|30|&blanklink(9F){https://w.atwiki.jp/gtav/pages/281.html}|スポーツカー|A|2023/--/--|V12載せ替え|
+|31|&blanklink(Elegy RH8){https://w.atwiki.jp/gtav/pages/162.html}|スポーツカー|A|2023/--/--|V12載せ替え|
+|32|&blanklink(Rumpo Custom){https://w.atwiki.jp/gtav/pages/1630.html}|バン||2023/--/--|クラフト用|
+|33|Snowmobile|-||2023/--/--|(MOD)|
+|34|&blanklink(Flash GT){https://w.atwiki.jp/gtav/pages/1954.html}|スポーツカー|A|2023/--/--||
+|35|&blanklink(Rapid GT){https://w.atwiki.jp/gtav/pages/285.html}|スポーツカー||2023/--/--||
+|36|&blanklink(Euros){https://w.atwiki.jp/gtav/pages/2709.html}|スポーツカー||2023/--/--|ドリフト仕様|
+|37|&blanklink(XA-21){https://w.atwiki.jp/gtav/pages/1808.html}|スーパーカー|S|2024/01/05||
+|38|&blanklink(Neo){https://w.atwiki.jp/gtav/pages/2489.html}|スポーツカー|A|2024/--/--||
+|39|&blanklink(Bestia GTS){https://w.atwiki.jp/gtav/pages/1626.html}|スポーツカー|A|2024/--/--||
+|40|&blanklink(Jugular){https://w.atwiki.jp/gtav/pages/2501.html}|スポーツカー|A|2024/01/06||
+|41|&blanklink(Asterope){https://w.atwiki.jp/gtav/pages/298.html}|セダン|C|2024/01/--||
+|42|Bati 901|バイク|D|2023/--/--|(MOD)|
+|43|&blanklink(Manchez Scout Classic){https://w.atwiki.jp/gtav/pages/2584.html}|バイク|D|2024/--/--||
+|44|&blanklink(BF400){https://w.atwiki.jp/gtav/pages/1647.html}|バイク|D|2024/--/--||
+|45|&blanklink(Rumpo Custom){https://w.atwiki.jp/gtav/pages/1630.html}|バン||2024/01/24|V12載せ替え,素材用|
+|46|&blanklink(KURUMA){https://w.atwiki.jp/gtav/pages/1356.html}|スポーツカー|B|2024/02/04|V12載せ替え|
+|47|&blanklink(Blazer Lifeguard){https://w.atwiki.jp/gtav/pages/534.html}|オフロード||2024/02/07||
+|48|&blanklink(Thrax){https://w.atwiki.jp/gtav/pages/2475.html}|スーパーカー|S|2024/02/08|V12載せ替え|
+|49|&blanklink(Exemplar){https://w.atwiki.jp/gtav/pages/333.html}|クーペ|B|2024/02/10|V8載せ替え|
+|50|&blanklink(Jackal){https://w.atwiki.jp/gtav/pages/336.html}|クーペ|B|2024/02/10|V12載せ替え|
+|51|&blanklink(GB200){https://w.atwiki.jp/gtav/pages/1937.html}|スポーツカー|B|2024/02/10||
+|52|&blanklink(Sugoi){https://w.atwiki.jp/gtav/pages/2531.html}|スポーツカー||2024/02/13|V12載せ替え|
+|53|&blanklink(Vagrant){https://w.atwiki.jp/gtav/pages/2546.html}|オフロード|A|2024/02/20||
+|54|&blanklink(Windsor){https://w.atwiki.jp/gtav/pages/1440.html}|クーペ|A|2024/02/20|V12載せ替え|
+|55|SunriseR|スポーツ|A|2024/02/22|(MOD)|
+|56|&blanklink(Zentorno){https://w.atwiki.jp/gtav/pages/1086.html}|スーパーカー|A|2024/02/25||
+|57|&blanklink(Ignus){https://w.atwiki.jp/gtav/pages/2723.html}|スーパーカー|S|2024/02/29||
+//|58||　||202-/--/--||
+//|59||　||202-/--/--||
+//|60||　||202-/--/--||
+//●気になっている車
+//※以下は02/14時点話題にあがらないのでいったんハイドします
+//&blanklink(T-20){https://w.atwiki.jp/gtav/pages/1459.html}
+//&blanklink(Tempesta){https://w.atwiki.jp/gtav/pages/1694.html}
+#table_zebra(#ffffff, #f5f5f5, #005243)
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(車)
+
+//------------------Season2　所有車両------------------
+#div(width=120px,bgcolor=#005243){&font(16px,b,#02D6AF){&space()● SEASON2 ●}}
+
+#region(開く,close)
+#table_filter(){#=hide,image=show,車名=show,種類=hide,tier=hide,取得日=show,備考=show}
+#table_style(head=center:#005243:#f7f7f7:110%){|~#|~image|~車名|~種類|~tier|~取得日|~備考|h}
+|~#|~image|~車名|~種類|~tier|~取得日|~備考|h
+|1|&blankimg(yabusharyoS2_01_Faggio.JPG,x=300,y=140)|&blanklink(Faggio Sport){https://w.atwiki.jp/gtav/?cmd=word&word=PEGASSI%20Faggio%20Sport&pageid=1657}|Scooter||2025/12/24|day2/￥30万|
+|2|&blankimg(yabusharyoS2_02_Blista.JPG,x=300,y=140)|&blanklink(Dinka Blista){https://w.atwiki.jp/gtav/pages/164.html}|Compact||2025/12/28|day3/￥120万|
+|3|&blankimg(yabusharyoS2_03_Codyblack.JPG,x=300,y=140)|Dinka Cody AT|Off-Road||2026/01/10|day6(day7)/￥87万 ※軽トラ黒|
+|4|&blankimg(yabusharyoS2_04_Canny.JPG,x=300,y=140)|Shitzu Canny AT|Off-Road||2026/01/15|day9(day10)/￥210万|
+|5|&blankimg(yabusharyoS2_05_Dilettante.JPG,x=300,y=140)|Karin Dilettante DX|Electric||2025/01/22|day14(day15)/￥320万|
+|6|&blankimg(yabusharyoS2_06_Codywhite.JPG,x=300,y=140)|Dinka Cody AT|Off-Road||2026/01/28|day16(day17)/￥87万 ※軽トラ白|
+|7|&blankimg(yabusharyoS2_07_ZR250.JPG,x=300,y=140)|Annis ZR250 AT|Sports||2026/01/31|day18(day19)/￥350万|
+|8|&blankimg(yabusharyoS2_08_DoubleT.JPG,x=300,y=140)|Dinka Double-T ST|Sports Bikes||2026/03/18|day39(day40)/￥290万|
+|9|&blankimg(yabusharyoS2_09_SultanClassic.JPG,x=300,y=140)|&blanklink(Karin Sultan Classic){https://w.atwiki.jp/gtav/?cmd=word&word=Sultan%20Classic&pageid=2537}|Sports||2026/04/24|day53(day54)/￥590万|
+|10|&blankimg(yabusharyoS2_10_Marquis_fune.JPG,x=300,y=140)|&blanklink(Karin Marquis){https://w.atwiki.jp/gtav/?cmd=word&word=Marquis&pageid=661}|||2026/05/27|day65(day66)&br()/￥7000万(FEMME FATALE経費購入)|
+|11|&blankimg(yabusharyoS2_11_DoubleT.JPG,x=300,y=140)|Dinka Double-T ST|Sports Bikes||2026/06/07|day69(day70)/￥290万&br()※白色|
+|12|&blankimg(yabusharyoS2_12_Toros.JPG,x=300,y=140)|&blanklink(Pegassi Toros){https://w.atwiki.jp/gtav/?cmd=word&word=Toros&pageid=2427}|SUV||2026/06/10|day70(day71)/￥4000万|
+|13|&blankimg(yabusharyoS2_13_Rhinehart.JPG,x=300,y=140)|&blanklink(Übermacht Rhinehart){https://w.atwiki.jp/gtav/pages/2834.html}|||2026/06/12|day72(day73)/￥1300万|
+|14||&blanklink(Übermacht ReblaGTS){https://w.atwiki.jp/gtav/pages/2527.html}|||2026/09/12|day128/￥1600万|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+#endregion(S2車両)

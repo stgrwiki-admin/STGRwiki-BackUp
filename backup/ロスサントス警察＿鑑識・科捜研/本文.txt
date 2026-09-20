@@ -1,0 +1,152 @@
+&font(11px,#bbb){編集ページ：&u(){[[&color(#bbb){鑑識・科捜研}>>ロスサントス警察/鑑識・科捜研]]}}
+#region(目次を開く,close)&aname(目次,option=nolink){閉じる}
+#contents_line(level=1,sep=｜)
+#endregion()
+//
+//【作成者メモ】
+//2026/01/09　参考動画時点での情報の為、更新されている可能性があります。ご留意ください。(akina3)
+//
+//
+*鑑識・科捜研とは
+鑑識とは、事件対応において、犯人が残した証拠品（エビデンス）を分析し、犯人の手がかりを探します。
+科捜研とは、現場から持ち帰った証拠品（エビデンス）を、最新の機器や高度な専門知識で鑑定します。
+ロスサントス警察では、警察官が鑑識、科捜研を行う。
+
+***参考動画
+本記載は[[伊勢　えびす]]役のえびすさんが投稿された動画や配信をもとに作成しております。
+[[伊勢　えびす]]は鑑識・科捜研を手探りで調べて、警察署員に講習会を行っております。
+[[【ストグラ2】新しくなった最強すぎる科捜研に興奮する警察官たち【切り抜き/GTA/ストグラ警察/えびす】>>https://youtu.be/EIUIzl-npnQ?si=gvfh1qgGhFWhUbIN]]
+&youtube(https://youtu.be/EIUIzl-npnQ?si=gvfh1qgGhFWhUbIN,width=350,height=194)
+
+**施設・タブレット端末
+#region(施設タブレット端末を開く)
+***備品購入エリア
+本署(中央警察署/本署) SUB FLOOR2 に警察備品を販売しているNPCがおり、現金で購入する。
+|CENTER:BGCOLOR(#023C53):&image(P1_SUB_FLOOR2.png,x=300,y=225)|CENTER:BGCOLOR(#023C53):&image(P2_警察備品.png,x=300,y=225)|
+|CENTER:BGCOLOR(#023C53):COLOR(#FFF):備品販売NPC|CENTER:BGCOLOR(#023C53):COLOR(#FFF):NPCから購入できる備品|
+***科捜研エリア
+本署(中央警察署/本署) FLOOR3に鑑識で収集した証拠品（エビデンス）を&br()格納するアタッシュケースと、分析結果を確認するパソコンが設置されている。
+|CENTER:BGCOLOR(#023C53):&image(P1_FLOOR3.png,x=300,y=225)|
+|CENTER:BGCOLOR(#023C53):COLOR(#FFF):科捜研エリア|
+
+|CENTER:BGCOLOR(#023C53):&image(s003_InsertEvidence.png,x=300,y=225)|CENTER:BGCOLOR(#023C53):&image(s004_openEvidence.png,x=300,y=225)|
+|CENTER:BGCOLOR(#023C53):COLOR(#FFF):エビデンス格納場所|CENTER:BGCOLOR(#023C53):COLOR(#FFF):エビデンス閲覧場所|
+
+&openclose2(show=東署の科捜研エリア){&br()&blankimg(P5_1_東署科捜研.png,x=200,y=150)&blankimg(P5_2_東署科捜研.png,x=200,y=150)}
+&openclose2(show=砂漠署の科捜研エリア){&br()&blankimg(P6_砂漠署科捜研.png,x=200,y=150)}
+//画像をとってくる↓
+//&openclose2(show=北署の科捜研エリア){&br()&blankimg(P6_砂漠署科捜研.png,x=200,y=150)}
+
+***警察データベース
+警察官が所持しているタブレットで閲覧できる警察データベースがある。
+市民の情報（市民ID、氏名）や事件簿、業務レポートなど、&br()警察業務に必要な情報が集約されている。
+ただし、科捜研データベースとは連携されていない。
+犯罪を犯した人物のProfile情報に、犯罪歴を記載して蓄積を行う。
+|CENTER:BGCOLOR(#023C53):&image(P4_1_警察タブレット_プロファイル.png,x=300,y=174)|
+|CENTER:BGCOLOR(#023C53):COLOR(#FFF):警察タブレットProfile一覧|
+
+***科捜研データベース
+格納されたエビデンスは、データベースに登録され、カテゴリーごとに確認ができる。
+データベースの初期状態は、住人情報は登録されていない。
+その為、警察官がエビデンスを集めて初めて照合が可能となる。
+犯罪を犯して逮捕した人物からDNA採取することで、&br()それ以降に採取したエビデンスから氏名やDNA-IDを検索することができる。
+|CENTER:BGCOLOR(#023C53):&image(P3_科捜研データベース.png,x=300,y=174)|
+|CENTER:BGCOLOR(#023C53):COLOR(#FFF):エビデンス一覧|
+
+このエビデンスは警察タブレット端末でも利用できる。
+また、エビデンスをアイテム化することにより、事件ごとに格納することができる
+|CENTER:BGCOLOR(#023C53):&image(s009_2_TabCases.png,x=300,y=225)|CENTER:BGCOLOR(#023C53):&image(s009_3_TabCases.png,x=300,y=225)|
+|CENTER:BGCOLOR(#023C53):COLOR(#FFF):事件(Cases)一覧|CENTER:BGCOLOR(#023C53):COLOR(#FFF):事件ごとの証拠品|
+#endregion(施設タブレット端末)
+*鑑識・科捜研アイテム
+#region(鑑識科捜研アイテムを開く)
+証拠品を集めるアイテム。このうち、エビデンスを採集する際にスキルチェックを成功させる必要があるものがある。
+#size(90%){{{#table_style(head=#023C53:#ffffff){名称=b}
+#table_filter(){画像=show,推奨所持数=show,備考=show}
+|~名称|~画像|推奨所持数|~スキル&space(2)&br()チェック|~備考|h
+|TABLET|&image(00_TABLET.png,x=48,y=48)|1個|-|警察業務で使用するタブレット端末|
+|EMPTY EVIDENCE BAG|&image(01_EMPTY_EVIDENCE.png,x=48,y=48)|50個|-|証拠品を格納するのに必要|
+|EVIDENCE BAG|&image(08_EVIDENCE_BAG.png,x=48,y=48)|-|-|採取された証拠品。&br()EMPTY EVIDENCE BAGを１つ消費して作成される|
+|EVIDENCE_FOLDER|&image(10_EVIDENCE_FOLDER.png,x=48,y=48)|-|-|科捜研データベースに登録された照合結果をアイテム化したフォルダ|
+|FORENSIC CAMERA|&image(02_FORENSIC_CAMERA.png,x=48,y=48)|1個|-|証拠品用の写真を撮る。&br()保存先は科捜研のデータベース（カメラを構えるエモートも出る）&br()犯罪現場などで着弾した弾痕や弾道などを視覚的に確認できる|
+|EVIDENCE CLEAN KIT|&image(03_EVIDENCE_CLEAN_KIT.png,x=48,y=48)|1個|○|証拠品の掃除を行う。&br()床に残った血痕などを除去できる|
+|EVIDENCE CASE|&image(04_EVIDENCE_CASE.png,x=48,y=48)|1個|○|車両から指紋を採取する|
+|EVIDENCE DNA|&image(05_EVIDENCE_DNA.png,x=48,y=48)|1個|○|目の前にいる人物からDNAを採取する|
+|EVIDENCE GSR|&image(06_EVIDENCE_GSR.png,x=48,y=48)|1個|○|銃などの硝煙反応を検査する|
+|FLASHLIGHT|&image(07_FLASHLIGHT.png,x=48,y=48)|1個|-|血痕採取をするのに必要。&br()物理攻撃アイテムとしても使用できる|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#,start=1}}}}
+#endregion(鑑識科捜研アイテム)
+*鑑識作業
+#region(鑑識作業を開く)
+人物、車両、現場から証拠品（エビデンス）を採取することができる
+証拠品を格納するためには入れ物である「Empty Evidence Bag」が１つずつ必要となり、&br()採取する対象に合わせて道具を選ぶ必要がある
+※「詳細表示」をクリックすると関連画像が表示されます
+#areaedit()
+#size(90%){{{#table_style(head=#023C53:#ffffff){説明=left}
+|~種別|~通称|~必要な&space(2)&br()アイテム|~説明|h
+|>|>|>|BGCOLOR(#6DB8D6):COLOR(#FFF):共通の道具|
+|Empty Evidence Bag|空の証拠品入れ|&image(01_EMPTY_EVIDENCE.png,x=48,y=48)|１証拠につき１つ消費する|
+|Evidence Bag|格納された証拠品|&image(08_EVIDENCE_BAG.png,x=48,y=48)|採取された証拠品が格納されている|
+|Photographs|証拠写真|&image(02_FORENSIC_CAMERA.png,x=48,y=48)|使用すると写真を撮る、または、取得箇所のマークを目視できる&br()&openclose2(show=詳細表示){&br()&blankimg(s008_6_EvidenceCamera.png,x=200,y=150)&br()&blankimg(s008_2_EvidencePhoto.png,x=200,y=113)&br()&blankimg(s016_ForensicCamera.png,x=200,y=150)}|
+|Evidence Clean Kit|掃除道具|&image(03_EVIDENCE_CLEAN_KIT.png,x=48,y=48)|現場に残された血痕などを消したい場合、&br()Evidence Clean Kitを使用し、スキルチェックを成功させる&br()&openclose2(show=詳細表示){&br()&blankimg(s014_1_evidenceCleankit.png,x=200,y=150)&br()}|
+|>|>|>|BGCOLOR(#6DB8D6):COLOR(#FFF):人物・血痕から採取できるエビデンス|
+|Blood|血痕|&image(07_FLASHLIGHT.png,x=48,y=48)|地面に落ちている血の跡に懐中電灯を向けて採取する&br()&openclose2(show=詳細表示){&br()&blankimg(s013_blood.png,x=200,y=150)}|
+|DNA|DNA|&image(05_EVIDENCE_DNA.png,x=48,y=48)|DNAを採取したい人間の前でEvidence DNAを使用し、&br()スキルチェックを成功させる&br()&openclose2(show=詳細表示){&br()&blankimg(s001_DNA採取.png,x=200,y=150)}|
+|>|>|>|BGCOLOR(#6DB8D6):COLOR(#FFF):車両から採取できるエビデンス|
+|Fingerprint Scan|指紋スキャン|&image(04_EVIDENCE_CASE.png,x=48,y=48)|犯人が乗った車に対してEvidence Caseを使用し、&br()スキルチェックを成功させる&br()&openclose2(show=詳細表示){&br()&blankimg(s012_1_evidenceCASE.png,x=200,y=150)&br()&blankimg(s012_2_evidenceCASE.png,x=200,y=150)&br()&blankimg(s012_3_evidenceCASE.png,x=200,y=150)&br()&blankimg(s012_4_evidenceCASE.png,x=200,y=150)&br()&blankimg(s012_5_evidenceCASE.png,x=200,y=150)}|
+|Fingerprints|指紋|~|~|
+|Vehicle Fragments|車両の断片|~|~|
+|>|>|>|BGCOLOR(#6DB8D6):COLOR(#FFF):銃火器関連で採取できるエビデンス|
+|Weapons|武器|&image(s003_InsertEvidence.png,x=48,y=36)|手にしている銃火器を解析して、銃火器のシリアルナンバーを記録する&br()&openclose2(show=詳細表示){&br()&blankimg(s018_1_Weapons.png,x=200,y=150)&br()&blankimg(s018_2_Weapons.png,x=200,y=50)}|
+|Bullet|弾丸|&image(07_FLASHLIGHT.png,x=48,y=48)&space(1)&image(06_EVIDENCE_GSR.png,x=48,y=48)|地面に落ちている弾痕を懐中電灯を向けて採取する&br()&openclose2(show=詳細表示){&br()&blankimg(s015_EvidenceGSR.png,x=200,y=150)}|
+|Gunpowder Residue|硝煙反応|~|目の前にいる人物に向かってか、弾痕がある現場で、&br()Evidence GSRを使用し、スキルチェックを成功させる&br()&openclose2(show=詳細表示){&br()&blankimg(s020_2_GSR人物.png,x=200,y=150)&br()&blankimg(s020_1_GSR現場.png,x=200,y=150)}|
+|Shell Casing|空薬莢|~|懐中電灯を地面に向けて落ちている薬莢が緑矢印で表示される&br()懐中電灯を向けて採取する&br()&openclose2(show=詳細表示){&br()&blankimg(s022_ShellCasing.png,x=200,y=150)}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+}}}
+#areaedit(end)
+#endregion(鑑識作業)
+*科捜研作業
+#region(科捜研作業を開く)
+科捜研の中にある「Insert Evidence」と書かれた場所に証拠品を入れる
+科捜研の中にあるパソコンにアクセスし各種証拠の情報を調べる
+***エビデンス格納
+#size(90%){{{#table_style(head=#023C53:#ffffff){説明=left}
+|~作業場所|~説明|
+|&blankimg(s003_InsertEvidence.png,x=200,y=150)|エビデンスを格納する指定場所（アタッシュケース）で、以下の２つを選択する&br()エビデンス格納は「InsertEvidence」、銃火器の解析は「Weapon Analysis」を選択する|
+|&blankimg(s005_Evidence.png,x=200,y=150)|エビデンスの格納は、複数個を同時に行うことができる|
+|&blankimg(s004_openEvidence.png,x=200,y=150)|解析されたエビデンスを確認できる場所（PC）で&br()「open Evidence」を選択する|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+}}}
+***エビデンス閲覧
+格納されたエビデンスは、数分間の解析時間を経て、閲覧可能となる
+#size(90%){{{#table_style(head=#023C53:#ffffff){説明=left}
+|~エビデンス情報|~概要|~説明|
+|&blankimg(s006_EvidenceAnalysis.png,x=200,y=114)|一覧|解析されたエビデンスを一覧で確認できる&br()解析中のエビデンスは「Evidence analysis:10min」というように表示がされる&br()画面上部の検索バーで氏名やID等で検索ができる|
+|&blankimg(s007_EvidenceDelete.png,x=200,y=114)|削除|重複しているエビデンスは右上の削除ボタンで消すことができる|
+|&blankimg(s011_1_DNA.png,x=200,y=114)|DNA解析|DNA解析結果として、「Person in Database：氏名（生年月日）」と&br()「DNA ID：（10桁の英数字）」が表示される|
+|&blankimg(s010_1_blood.png,x=200,y=114)|血痕(成功)|DNA登録がある人物の血痕だと&br()「Matches Person：氏名」を確認することができる|
+|&blankimg(s010_2_bloodNomatch.png,x=200,y=114)|血痕(失敗)|マッチするDNAがないと&br()「Matches Person：No Match」を表示される|
+|&blankimg(s011_2_Fingerprint.png,x=200,y=114)&br()&blankimg(s011_3_DNA_ID.png,x=200,y=114)|指紋(成功)|DNA登録がある人物の指紋だと「Person evidence ID：（10桁の英数字）」が表示される&br()これはDNA IDと同じ為、再検索を賭けることで氏名を特定することができる&br()また「Matches Person：No Match」はデフォルト状態とである|
+|&blankimg(s018_3_Weapons.png,x=200,y=114)|銃火器解析|エビデンス格納場所で装備している銃火器を&br()「Weapon Analysis」を選択することで解析することができる&br()Weaponsから銃火器のシリアルナンバーを確認することができる|
+|&blankimg(s017_1_ShellCasing.png,x=200,y=114)|空薬莢|薬莢を解析することで、&br()発射物である銃火器のシリアルナンバーを確認することができる|
+|&blankimg(s021_1_Gunpowder Residue.png,x=200,y=114)&br()&blankimg(s021_2_Gunpowder Residue.png,x=200,y=114)|硝煙反応|硝煙反応を解析することで、発射物である銃火器の&br()シリアルナンバーを確認することができる|
+|&blankimg(s008_2_EvidencePhoto.png,x=200,y=114)|証拠写真|Forensic Cameraで撮影された写真が自動的に転送され、&br()確認することができる|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+}}}
+
+***エビデンスのアイテム化
+事件対応などで、証拠提出を行う際、科捜研データベースからエビデンスをアイテム化することができる
+#size(90%){{{#table_style(head=#023C53:#ffffff){説明=left}
+|~作業場所|~説明|
+|&blankimg(s008_1_EvidenceList.png,x=200,y=114)|科捜研データベースから対象のエビデンスを選択する|
+|&blankimg(s008_2_EvidencePhoto.png,x=200,y=114)|アイテム化するエビデンスの上部にある印刷マークをクリックする|
+|&blankimg(s008_5_EvidenceFolder03.png,x=200,y=150)|EVIDENCE FOLDERが作成され、作成者のインベントリに格納される|
+|&blankimg(s008_3_EvidenceFolder01.png,x=200,y=150)|参考：証拠写真のフォルダ（表）|
+|&blankimg(s008_4_EvidenceFolder02.png,x=200,y=150)|参考：証拠写真のフォルダ（裏）|
+|&blankimg(s017_2_ShellCasingfolder.png,x=200,y=232)|参考：空薬莢のフォルダ（表）|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+}}}
+
+#endregion(科捜研作業)
+#right(){&link_up(🔝ページTOP)}

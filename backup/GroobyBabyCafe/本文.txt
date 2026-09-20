@@ -1,0 +1,179 @@
+//&image(ここに画像のURLを入力,y=300)
+#table_style(head=center:#b94047:#fafafa)
+#slide_img(auto=3,position=center,width=528,height=297){GroovyBabyCafe_集合写真.jpg,GroovyBabyCafe_集合写真.jpg}
+
+#table_style(head=center:#b94047:#fafafa){}
+|~店名|&ruby(グルービーベイビーカフェ){GroobyBabyCafe}|
+|~通称|グルカフェ、GBCafe|
+|~業種|音楽喫茶|
+|~所属|[[GoodbyeCompany>https://w.atwiki.jp/streamergta5/pages/558.html#id_3afc0b2c]]|
+|~開業日|2024年10月23日|
+|~所在地|8031番地 [[FIB]]内|
+|~店長|[[トウ　ユン]]|
+
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・[[トウ ユン>トウ　ユン]]を店長とし、[[GoodbyeCompany>GoodbyeCircus]]が資本提携および経営している音楽喫茶。複合商業施設 [[FIB]]内に店を構えている。
+・ミニライブ等の音楽イベントが無い時は通常の喫茶店として営業している。
+・木材や観葉植物を多く用いた、明るく温かみのある内装が特徴。
+・・店内には、グランドピアノ常設のミニステージが設置してあり、弾き語り等のパフォーマンスが可能。
+・・店の奥にはラジオブースも存在し、ラジオ番組を収録・放送する構想もある。
+・・テレビ画面を設置してパブリックビューイング会場として利用する場合もある。
+・本来の店名は「GroovyBabyCafe」であったが、開店準備が整った後にスペルミスが発覚し「GroobyBabyCafe」を正式な店名とした。
+・・「Groovy Baby」とは1960年代のスラングで、「かっこいい」「イカしてる」といった意味がある。
+・オリジナル曲を気軽に歌える場を目指しているため「音楽喫茶」を名乗っている。
+・・街で音楽を歌いたいけど自信がない、場所がないといった人の相談に乗れる場所も目指している。
+・・トウユンによるボイストレーニング教室も考えている。
+・JOBは存在するが、付けなくても勤務することは可能。
+・・特にGBC団員はハウジングスタッシュにアクセス出来るため、臨機応変に店員として対応可能。
+・GBC主催イベントや、[[ハンバーガー教]]集会などのライブビューイング会場としても使われている。
+**従業員情報
+***従業員
+#table_style(head=center:#b94047:#fafafa){}
+|~役職|~名前|~就職日|~備考|h
+|店長|[[トウ　ユン]]|2024/10/23||
+|店員|[[ダミ　アン]]|2024/10/23||
+|店員|[[日々]]|2024/10/23||
+|店員|[[牛桃　ももこ]]|2024/10/23||
+|店員|[[ハン　バーガー]]|2024/10/27||
+|店員|[[焼野原　ひろし]]|2024/10/23|JOB無し店員|
+|店員|[[銅鑼　チエリ]]|2024/10/23|JOB無し店員|
+|店員|[[帝　レン]]|2024/12/17||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+***退職者
+#table_style(head=center:#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[シュガー　ピーチ]]|2024/10/23||開店したての手伝いのためオープニングスタッフとして雇われていた。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+
+
+***職業体験者
+#table_style(head=center:#b94047:#fafafa){}
+|~名前|~体験日|~備考|h
+|[[蒲田　ヤバッキオ]]|2024/11/12||
+|[[真島　ルイ]]|2024/12/25||
+|[[神田　じぇいのすけ]]|2025/02/02||
+|[[奈落　破滅]]|2025/02/04||
+|[[御薬　キメ太郎]]|2025/02/04||
+|[[悠　えん]]|2025/03/15||
+|[[銅鑼　イオリ]]|2025/03/24||
+|[[猫耳　ぽこ太郎]]|2025/06/15||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+
+
+**商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***レギュラー商品
+・メニュー開発は基本的にトウユンが行っている。
+・価格は分かりやすいよう一律5万円となっている。
+・バタートーストは開業から現在まで品切れ状態となっている。
+#region(レギュラー商品,open)レギュラー商品
+#size(80%)
+#table_filter(){種類=show,画像=show,商品名=show,価格=show,商品説明=show,備考=hide}
+#table_style(head=center:#b94047:#fafafa){No.=center,価格=right}
+|~種類|~画像|~商品名|~価格|~商品説明|~備考|h
+|food|&image(GBC_NAPORITAN.jpg,y=70)|ナポリタン|50,000円|||
+|food|&image(GBC_PEPERONCINO.jpg,y=70)|ペペロンチーノ|50,000円|||
+|food|&image(GBC_CARBONARA.jpg,y=70)|カルボナーラ|50,000円|||
+|food|&image(GBC_MEATSPA.jpg,y=70)|ミートスパゲティ|50,000円|||
+|food|&image(GBC_CURRY.jpg,y=70)|カレー|50,000円|||
+|food|&image(GBC_BEEFSICHU.jpg,y=70)|ビーフシチュー|50,000円|||
+|food|&image(GBC_GRATAN.jpg,y=70)|グラタン|50,000円|||
+|food|&image(GBC_HAMBURG.jpg,y=70)|ハンバーグ|50,000円|||
+|food|&image(GBC_STEAK.jpg,y=70)|サーロインステーキ|50,000円|||
+|food|&image(GBC_OMURICE.jpg,y=70)|オムライス|50,000円|||
+|food|&image(GBC_EBIFRAI.jpg,y=70)|エビフライ|50,000円|||
+|food|&image(GBC_ROLLCABBAGE.jpg,y=70)|ロールキャベツ|50,000円|||
+|food|&image(GBC_HOTCAKE.jpg,y=70)|ホットケーキ|50,000円|||
+|food|&image(GBC_PURIN.jpg,y=70)|プリンアラモード|50,000円|||
+|food|&image(GBC_SHORTCAKE.jpg,y=70)|ショートケーキ|50,000円|||
+|drink|&image(GBC_COFFEE.jpg,y=70)|コーヒー|50,000円|||
+|drink|&image(GBC_AMERICANCOFFEE.jpg,y=70)|アメリカンコーヒー|50,000円|||
+|drink|&image(GBC_CAFEORE.jpg,y=70)|カフェオレ|50,000円|||
+|drink|&image(GBC_ORANGEJUICE.jpg,y=70)|オレンジジュース|50,000円|||
+|drink|&image(GBC_SODA.jpg,y=70)|クリームソーダ|50,000円|||
+|drink|&image(GBC_MELONCREAMSODA.jpg,y=70)|メロンクリームソーダ|50,000円|||
+|drink|&image(GBC_STRAWBERRYSODA.jpg,y=70)|ストロベリークリームソーダ|50,000円|||
+|drink|&image(GBC_BEER.jpg,y=70)|ビール|50,000円|||
+|drink|&image(GBC_NIHONSYU.jpg,y=70)|日本酒|50,000円|||
+|drink|&image(GBC_WHISKEY.jpg,y=70)|ウイスキー|50,000円|||
+|joint|&image(GBC_SWEEP.jpg,y=70)|スウィープ|50,000円|チャーミングなオルゴール||
+|joint|&image(GBC_LOP.jpg,y=70)|ロップ|50,000円|フライハイなオルゴール||
+|joint|&image(GBC_ARDOR.jpg,y=70)|アーダー|50,000円|マッシュピッチュなオルゴール|裏メニュー扱い|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|food||バタートースト|50,000円|||　仕入れミス
+//|種類|商品名|価格|提供開始日|説明|
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***イベント限定商品
+#region(,close)
+#table_filter(){種類=show,画像=show,商品名=show,価格=show,商品説明=show,概要=hide}
+#table_style(head=center:#b94047:#fafafa){No.=center,価格=right}
+|~種類|~画像|~商品名|~価格|~商品説明|~概要|h
+//|種類|&image(画像.jpg,y=70)|商品名|価格|||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***メニュー画像
+#region(,open)
+#table_style(head=center:#b94047:#fafafa)
+|通常メニュー|h
+|&blankimg(GroovyBabyCafe_Menu.jpg,x=400,y=250)|
+#endregion
+
+**イベント
+#table_style(head=center:#b94047:#fafafa){}
+|~イベント名/キービジュアル|~日程|~内容|h
+|&bold(){オープン記念&br()ピアノカバーライブ}&br()&br()&image(GroovyBabyCafe_OpenEvent.jpg,x=180)|2024/10/23|オープン記念で行ったピアノカバーライブ！&br()&br()セットリスト&br()1.Shout Baby / 緑黄色社会 &br()&nbsp(18)(Covered by 日々)&br()&br()2.secret base 〜君がくれたもの〜 / ZONE&br()&nbsp(18)(Covered by ダミアン)&br()&br()3.115万キロのフィルム / Official髭男dism &br()&nbsp(18)(Covered by トウユン)&br()|
+|&bold(){突発！&br()クリスマスライブ}&br()&br()|2024/12/25|セットリスト&br()1.glow / Keeno &br()&nbsp(18)(Covered by 畳かえる)&br()&br()2.クリスマス・イブ / 山下達郎&br()&nbsp(18)(Covered by 真島ルイ)&br()&br()3.チキンライス / 槇原敬之&br()&nbsp(18)(Covered by 真島ルイ)&br()&br()4.宝さがし / 亀山HERO&br()&br()|
+|&bold(){ハンドメイドマーケット}&br()&br()&image(GBC_HandMadeMarket.jpeg,x=180)|2025/02/28|スコちゃんとヘスティアさん主催！&br()2人の手作りのジョイントやカバンを限定販売&br()&br()グルカフェでは商品作成と販売のお手伝い！&br()たくさんのお客さんが来て大盛況！|
+|&bold(){御薬 キメ太郎の&br()脱！初心者マークライブ}&br()&br()|2025/03/01|セットリスト&br()1.Overdose / なとり&br()&nbsp(18)(Covered by 御薬 キメ太郎)&br()&br()2.ここにしか咲かない花 / コブクロ&br()&nbsp(18)(Covered by 御薬 キメ太郎)&br()&br()3.Butter-Fly / 和田光司&br()&nbsp(18)(Covered by 御薬 キメ太郎)&br()&br()|
+|&bold(){奈落 破滅&br()🔰マーク外すLIVE！}&br()&br()&image(GroobyBabyCafe_奈落破滅脱初心者LIVE.JPG,x=180)|2025/03/24|セットリスト&br()|
+**音楽 &icon_fa(fa fa-music)
+//#region(2024年,open)2024年
+#table_style(head=#A07080:#ffffff:center){}
+|Title|Others|h
+|&font(#17DA25){&icon_fa(fa fa-music)}&font(#17DA25){ Streaming} &br()[[『ひかり』>>https://linkco.re/Y2nASuyf]]&br()作詞；日々 作曲：ダミアン Mix：トウユン|MIDDLE:音楽喫茶らしいことが出来てないと三人で話し合い、それぞれが役割をもって作り上げた一曲。&br()街の外でも聞くことが出来ますので是非！&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[&font(#DA1725){新曲「ひかり」ができるまで！}>>https://youtu.be/_JM2ex0Nf-A?si=vWsBizZAkYFRipoP]]|
+
+**沿革
+***2024年
+#region(,open)
+#table_filter(){エピソード・備考=show}
+#table_style(head=center:#b94047:#fafafa){}
+|~日付|~出来事|~エピソード・備考|h
+|10/23|OPEN|オープン記念ピアノカバーライブを開催。|
+|12/25|クリスマスライブ|真島ルイ・畳かえるでクリスマスライブを行った。&br()突発でHEROも歌った。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|mm/dd|出来事|関係者|エピソード・備考|
+#endregion
+***2025年
+#region(,open)
+#table_filter(){エピソード・備考=show}
+#table_style(head=center:#b94047:#fafafa){}
+|~日付|~出来事|~エピソード・備考|h
+|02/28|ハンドメイドマーケット|スコちゃんとヘスティアちゃん主催のハンドメイドマーケットを開催！&br()2人の手作りの商品を販売！|
+|03/01|御薬 キメ太郎の&br()初心者マーク外しライブ|キメ太郎君の初心者マークを外すライブを開催！|
+|03/23|奈落 破滅&br()🔰マーク外すLIVE！|奈落 破滅による脱初心者カバーライブを開催！|
+|07/25|新曲「ひかり」&br()初披露|STGラジオの日々さんがパーソナリティを務めるMusicDays内にてGBCafeのオリジナル曲「ひかり」を初披露。&br()街のMusicアプリ内でも聴くことが出来るようになった。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|mm/dd|出来事|関係者|エピソード・備考|
+#endregion
+
+
+#right(){&link_up(🔝ページTOPへ)}

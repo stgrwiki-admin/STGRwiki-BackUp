@@ -1,0 +1,226 @@
+&image(Shinobu-Supra.png)
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ
+*&color(#e0e0e0){&font(#dcd3b2){&icon_fa(fa-solid fa-car-side)} 所有車 }
+***&size(110%){&bgcolor(#1e34a1){&nbsp()&font(#dcd3b2,90%){▷ Seazon1 （最終更新2025/05/09）}&nbsp(55)&nbsp(2)}}
+&font(b,14){&u(){ガレージ総数：112台}}
+#size(45%){　}
+//
+#region(自動車)自動車
+&font(12){*はドリフトカテゴリー(同一車名の混同回避)}
+#size(90%){#table_style(head=#1e34a1:#dcd3b2){車名=b}
+#table_filter(){No.=hide,登録名=hide,メーカー=hide,車名=show,種類=hide,納車日=show,備考=show}
+|~No.|~登録名|~車名|~メーカー|~種類|~納車日|~備考|h
+|1|&font(b,13){Civic EK9 Type R}|&i(){[[Blista Kanjo>https://w.atwiki.jp/gtav/pages/2538.html]]}|Dinka|コンパクト|'24/07/02|街で最初に購入した車|
+|2|&font(b,13){AE86 TRUENO GT-V 3door}|*&i(){[[Futo>https://w.atwiki.jp/gtav/pages/152.html]]}|Karin|ドリフト|'24/07/02||
+|3|&font(b,13){Soarer 2.5GT-T JZZ30}|&i(){[[Previon>https://w.atwiki.jp/gtav/pages/2710.html]]}|Karin|クーペ|'24/07/11||
+|4|&font(b,13){GR Supra SZ(A90)}|*&i(){[[Jester RR>https://w.atwiki.jp/gtav/pages/2694.html]]}|Dinka|ドリフト|'24/07/20|普通車ディーラー体験祝い|　
+|5|&font(b,13){Skyline GT-R BNR32 specⅡ}|&i(){[[Elegy Retro Custom>https://w.atwiki.jp/gtav/pages/1695.html]]}|Annis|スポーツ|'24/07/31|[[BIG　SUZUKI]]から2000万円で譲渡|
+|6|&font(b,13){Hoonigan Hoonicorn V1 Mustang(Junk)}|*&i(){[[Tampa>https://w.atwiki.jp/gtav/pages/1604.html]]}|Declasse|ドリフト|衛星外||
+|7|&font(b,13){RX-7 FD3S Type R bathurst-R}|*&i(){[[ZR350>https://w.atwiki.jp/gtav/pages/2693.html]]}|Annis|ドリフト|衛星外||
+|8|&font(b,13){RE雨宮 雨宮アスパラドリンクRX-7}|&i(){[[ZR350>https://w.atwiki.jp/gtav/pages/2693.html]]}|Annis|スポーツ|衛星外|[[ケイン／オー]]とのレースに負け、長らく譲渡していた|
+|9|&font(b,13){Supra RZ JZA80}|&i(){[[Jester Classic>https://w.atwiki.jp/gtav/pages/2209.html#id_c4dc6a94]]}|Dinka|スポーツ|衛星外|万十の最も好きな車に似た車|
+|10|&font(b,13){Shellby Mustang GT500 Eleanor}|&i(){[[Ellie>https://w.atwiki.jp/gtav/pages/1943.html]]}|Vapid|スポーツ|衛星外||
+|11|&font(b,13){Skyline Coupe V35 350GT}|*&i(){[[FR36>https://w.atwiki.jp/gtav/pages/3058.html]]}|Fathom|ドリフト|衛星外||
+|12|&font(b,13){Silvia S13 K's}|*&i(){[[Remus>https://w.atwiki.jp/gtav/pages/2696.html]]}|Annis|ドリフト|衛星外||
+|13|&font(b,13){AE86 TRUENO GT-APEX 3door}|&i(){Futo GT}|Karin|スポーツ|衛星外||
+|14|&font(b,13){Pajero Evolution E-V55W}|&i(){[[MonstroCiti>https://w.atwiki.jp/gtav/pages/3028.html]]}|Maibatsu|オフロード|'24/09/10|8月9055タイムアタック3位の景品|
+|15|&font(b,13){Eunos Roadstar NA6CE}|&i(){Kawaii}|Annis|スポーツ|'24/09/13|第3回中古車抽選会で引き当てた|
+|16|&font(b,13){Civic EJ1 Coupe}|&i(){[[Kanjo SJ>https://w.atwiki.jp/gtav/pages/2836.html]]}|Dinka|クーペ|衛星外||
+|17|&font(b,13){Ford F-110 Pickup}|&i(){[[Slamvan>https://w.atwiki.jp/gtav/pages/1312.html]]}|Vapid|マッスル|衛星外||
+|18|&font(b,13){Golf GTi}|&i(){[[Club>https://w.atwiki.jp/gtav/pages/2602.html]]}|BF|コンパクト|衛星外||
+|19|&font(b,13){GSR Lancer Evolution Ⅷ MR"迅帝"}|&i(){Sunrise R}|Maibatsu|スポーツ|衛星外|某首都高で突然現れそうな車|
+|20|&font(b,13){S2000 Type V(AP1)}|&i(){[[RT3000>https://w.atwiki.jp/gtav/pages/2700.html]]}|Dinka|スポーツ|'24/10/04||
+|21|&font(b,13){Declasse Draugur}|&i(){[[Draugur>https://w.atwiki.jp/gtav/pages/2843.html]]}|Declasse|オフロード|'24/10/09|[[無月　レオ]]戦の指定車|
+|22|&font(b,13){Focus RS RX}|&i(){[[FRASH GT>https://w.atwiki.jp/gtav/pages/1954.html]]}|Vapid|スポーツ|'24/10/17|10月9055タイムアタックの指定車&br()公式レースA帯で使用|
+|23|&font(b,13){Skyline2000 GT-R PGC10}|&i(){[[Warrener>https://w.atwiki.jp/gtav/pages/1204.html]]}|Vulcar|セダン|'24/10/17|中古車の抽選に外れた傷を癒すために購入|
+|24|&font(b,13){Impreza GC8 WRX STi Type-R version VI}|&i(){[[Sultan Classic>https://w.atwiki.jp/gtav/pages/2537.html]]}|Karin|スポーツ|'24/10/19|[[狐野　承志]]戦の指定車|
+|25|&font(b,13){Fairlady Z Version S(RZ34)}|&i(){[[300R>https://w.atwiki.jp/gtav/pages/2945.html]]}|Annis|スポーツ|'24/10/24||
+|26|&font(b,13){Mustang SVT Cobra R}|&i(){[[Dominator ASP>https://w.atwiki.jp/gtav/pages/2708.html]]}|Vapid|マッスル|'24/10/31||
+|27|&font(b,13){Celsior B仕様 eRバージョン UCF20}|&i(){ALTIOR}|Emperor|セダン|'24/10/31||
+|28|&font(b,13){NSX NC1 GT3}|&i(){[[Jester (Racecar)>https://w.atwiki.jp/gtav/pages/1316.html]]}|Dinka|スポーツ|'24/11/05||
+|29|&font(b,13){AE86 LEVIN GT-APEX 2door}|&i(){[[Futo GTX>https://w.atwiki.jp/gtav/pages/2703.html]]}|Karin|スポーツ|'24/11/05||
+|30|&font(b,13){【特殊部隊SWAG】ウィンキー}|&i(){[[Winky>https://w.atwiki.jp/gtav/pages/2648.html]]}|Vapid|オフロード|'24/11/09|特殊部隊SWAGの貸与品|
+|31|&font(b,13){M3 E30 Sport Evolution}|&i(){[[Sentinel Classic Widebody>https://w.atwiki.jp/gtav/pages/2878.html]]}|Übermacht|スポーツ|衛星外||
+|32|&font(b,13){812 Superfast}|&i(){[[Itali GTO>https://w.atwiki.jp/gtav/pages/2433.html]]}|Grotti|スポーツ|'24/11/07||
+|33|&font(b,13){Tomica Skyline R31 Turbo SuperSilhouette}|&i(){Elegy RH4}|Annis|スポーツ|'24/11/10|[[葛城　司]]戦の指定車|
+|34|&font(b,13){Camaro ZL1}|&i(){[[Vigero ZX>https://w.atwiki.jp/gtav/pages/2839.html]]}|Declasse|マッスル|'24/11/13|GT3レースで使用|
+|35|&font(b,13){F8 Tributo}|&i(){[[Turismo Omaggio>https://w.atwiki.jp/gtav/pages/3053.html]]}|Grotti|スーパーカー|'24/11/15|[[ジャム姐>ジャムリーヌ・バルサミコス]]戦の指定車&br()GT3レースで使用|
+|36|&font(b,13){911 Carrera GTS(992)}|&i(){[[Comet S2>https://w.atwiki.jp/gtav/pages/2698.html]]}|Pfister|スポーツ|'24/11/19||
+|37|&font(b,13){Skyline Coupe V35 350GT}|&i(){[[FR36>https://w.atwiki.jp/gtav/pages/3058.html]]}|Fathom|クーペ|衛星外|[[PYC]]主催のオートサロンで出展|
+|38|&font(b,13){Charger Daytona HEMI}|&i(){[[Gauntlet Classic Custom>https://w.atwiki.jp/gtav/pages/2638.html]]}|Bravado|マッスル|衛星外||
+|39|&font(b,13){Challenger SRT Demon 170}|&i(){[[Gauntlet Hellfire>https://w.atwiki.jp/gtav/pages/2496.html]]}|Bravado|マッスル|衛星外||
+|40|&font(b,13){Mustang GT(2015)}|&i(){[[Dominator>https://w.atwiki.jp/gtav/pages/352.html]]}|Vapid|マッスル|衛星外||
+|41|&font(b,13){RS 3 Sedan}|&i(){[[Tailgater S>https://w.atwiki.jp/gtav/pages/2701.html]]}|Obey|セダン|衛星外||
+|42|&font(b,13){Sian FKP37}|&i(){[[Ignus>https://w.atwiki.jp/gtav/pages/2723.html]]}|Pegassi|スーパーカー|'24/12/05|[[ハンク>アーモンド　サラザール]]戦の指定車&br()公式レースS帯で使用|
+|43|&font(b,13){Beetle(1963)}|&i(){[[Weevil>https://w.atwiki.jp/gtav/pages/1531.html]]}|BF|コンパクト|衛星外||
+|44|&font(b,13){Ballade Sport CR-X 1.5i}|&i(){[[Blista Compact>https://w.atwiki.jp/gtav/pages/1295.html]]}|Dinka|スポーツ|'24/12/17||
+|45|&font(b,13){695 Biposto}|&i(){[[Brioso R/A>https://w.atwiki.jp/gtav/pages/1645.html]]}|Grotti|コンパクト|'24/12/17||
+|46|&font(b,13){Autozom AZ-1}|&i(){Castella}|Shitzu|コンパクト|'24/12/17||
+|47|&font(b,13){Hoonigan Hoonicorn V1 Mustang}|&i(){[[Drift Tampa>https://w.atwiki.jp/gtav/pages/1648.html]]}|Declasse|スポーツ|'24/12/17|[[切間　てつお]]戦の指定車|
+|48|&font(b,13){Cooper S}|&i(){[[Issi Classic>https://w.atwiki.jp/gtav/pages/1955.html]]}|Weeny|コンパクト|'24/12/17||
+|49|&font(b,13){Cooper SX1}|&i(){[[Issi sport>https://w.atwiki.jp/gtav/pages/2478.html]]}|Weeny|スポーツ|'24/12/17||
+|50|&font(b,13){P50}|&i(){Peanut}|Weeny|コンパクト|'24/12/17||
+|51|&font(b,13){M3 E92 Coupe}|&i(){[[Sentinel>https://w.atwiki.jp/gtav/pages/294.html]]}|Übermacht|クーペ|'24/12/17||
+|52|&font(b,13){Corvette C1 RS}|&i(){[[Coquette BlackFin>https://w.atwiki.jp/gtav/pages/1458.html]]}|Invetero|マッスル|'24/12/17||
+|53|&font(b,13){Mustang Boss 302}|&i(){[[Dominator GTT>https://w.atwiki.jp/gtav/pages/2705.html]]}|Vapid|マッスル|'24/12/17||
+|54|&font(b,13){Hoonigan F-150 Hoonitruck}|&i(){[[Yosemite>https://w.atwiki.jp/gtav/pages/1847.html]]}|Declasse|マッスル|'24/12/17||
+|55|&font(b,13){Charger SRT Hellcat}|&i(){[[Buffalo STX>https://w.atwiki.jp/gtav/pages/2722.html]]}|Bravado|マッスル|'24/12/17||
+|56|&font(b,13){Camaro Z28(1970)}|&i(){[[Nightshade>https://w.atwiki.jp/gtav/pages/1578.html]]}|Imponte|マッスル|'24/12/17||
+|57|&font(b,13){Regal GNX}|&i(){[[Faction>https://w.atwiki.jp/gtav/pages/1541.html]]}|Willard|マッスル|'24/12/17||
+|58|&font(b,13){Hilux Arctic Trucks AT38 }|&i(){[[Everon>https://w.atwiki.jp/gtav/pages/2533.html]]}|Karin|オフロード|'24/12/17||
+|59|&font(b,13){F-150 Trophy Truck}|&i(){[[Trophy Truck>https://w.atwiki.jp/gtav/pages/1644.html]]}|Vapid|オフロード|'24/12/17||
+|60|&font(b,13){RedBull SMG Buggy}|&i(){[[Desert raid>https://w.atwiki.jp/gtav/pages/1643.html]]}|Vapid|オフロード|'24/12/17||
+|61|&font(b,13){Beetle Desert Edition}|&i(){[[ Injection>https://w.atwiki.jp/gtav/pages/331.html]]}|BF|オフロード|'24/12/17||
+|62|&font(b,13){Ariel Nomad}|&i(){[[Vagrant>https://w.atwiki.jp/gtav/pages/2546.html]]}|Maxwell|オフロード|'24/12/17||
+|63|&font(b,13){G63 AMG}|&i(){[[Dubsta>https://w.atwiki.jp/gtav/pages/367.html]]}|Benefactor|SUV|'24/12/17||
+|64|&font(b,13){Rangerover Sport SVR}|&i(){[[Baller LE>https://w.atwiki.jp/gtav/pages/1586.html]]}|Gallivanter|SUV|'24/12/17||
+|65|&font(b,13){Cayenne S}|&i(){[[Astron>https://w.atwiki.jp/gtav/pages/2729.html]]}|Pfister|SUV|'24/12/17||
+|66|&font(b,13){John Cooper Works Countryman ALL4}|&i(){[[Issi Rally>https://w.atwiki.jp/gtav/pages/2956.html]]}|Weeny|SUV|'24/12/19||
+|67|&font(b,13){Silvia S15 Spec-R}|&i(){ROXANNE}|Annis|スポーツ|'24/12/19||
+|68|&font(b,13){Javelin AMX}|&i(){[[Deviant>https://w.atwiki.jp/gtav/pages/2442.html]]}|Schyster|マッスル|衛星外||
+|69|&font(b,13){Charger R/T(1969)}|&i(){[[Dukes>https://w.atwiki.jp/gtav/pages/1299.html]]}|Imponte|マッスル|衛星外||
+|70|&font(b,13){Eight Coupe(1949)}|&i(){[[Hermes>https://w.atwiki.jp/gtav/pages/1880.html]]}|Albany|マッスル|衛星外||
+|71|&font(b,13){Firebird Tras Am}|&i(){[[Phoenix>https://w.atwiki.jp/gtav/pages/238.html]]}|Imponte|マッスル|衛星外||
+|72|&font(b,13){FJ Cruiser 4.0}|&i(){[[BeeJay XL>https://w.atwiki.jp/gtav/pages/231.html]]}|Karin|SUV|衛星外||
+|73|&font(b,13){Escalade Platinum}|&i(){[[Cavalcade2>https://w.atwiki.jp/gtav/pages/365.html]]}|Albany|SUV|衛星外||
+|74|&font(b,13){X5 M50i}|&i(){[[Rebla GTS>https://w.atwiki.jp/gtav/pages/2527.html]]}|Übermacht|SUV|衛星外||
+|75|&font(b,13){H2}|&i(){[[Patriot>https://w.atwiki.jp/gtav/pages/230.html]]}|Mammoth|SUV|衛星外||
+|76|&font(b,13){Express Passenger}|&i(){[[Burrito>https://w.atwiki.jp/gtav/pages/521.html]]}|Declasse|バン|衛星外|荷物入れ|
+|77|&font(b,13){Type2 Deluxe}|&i(){[[Surfer>https://w.atwiki.jp/gtav/pages/467.html]]}|BF|バン|衛星外||
+|78|&font(b,13){Urus S}|&i(){Toros2}|Pegassi|SUV|'24/12/26|送迎用(4人乗り)|
+|79|&font(b,13){March Cup Car}|&i(){Mochi}||コンパクト|衛星外||
+|80|&font(b,13){Copen Ultimate Edition}|&i(){Turtle}||コンパクト|衛星外||
+|81|&font(b,13){500 Widebody}|&i(){[[Briosso 300 Widebody>https://w.atwiki.jp/gtav/pages/2857.html]]}|Grotti|コンパクト|'25/01/08||
+|82|&font(b,13){GR Supra RZ(A90)}|&i(){[[Jester RR>https://w.atwiki.jp/gtav/pages/2694.html]]}|Dinka|スポーツ|'25/01/22||
+|83|&font(b,13){Testarossa}|&i(){[[Cheetah Classic>https://w.atwiki.jp/gtav/pages/1791.html]]}|Grotti|クラシック|'25/01/24||
+|84|&font(b,13){R8 V10 Plus}|&i(){[[10F>https://w.atwiki.jp/gtav/pages/2838.html]]}|obey|スポーツ|'25/01/30|GT3レースで使用|
+|85|&font(b,13){Corvette C8}|&i(){[[Coquette D10>https://w.atwiki.jp/gtav/pages/2625.html]]}|Invetero|スポーツ|'25/01/31|GT3レースで使用|
+|86|&font(b,13){AMG GT}|&i(){[[Schlagen GT>https://w.atwiki.jp/gtav/pages/2441.html]]}|Benefactor|スポーツ|衛星外|GT3レースで使用|
+|87|&font(b,13){Continental GT V8}|&i(){[[Paragon R>https://w.atwiki.jp/gtav/pages/2479.html]]}|Enus|スポーツ|衛星外|GT3レースで使用&br()公式レースA帯で使用|
+|88|&font(b,13){RC F}|&i(){[[Vectre>https://w.atwiki.jp/gtav/pages/2706.html]]}|Emperor|スポーツ|'25/02/06||
+|89|&font(b,13){NSX NC1}|&i(){[[Jester>https://w.atwiki.jp/gtav/pages/977.html]]}|Dinka|スポーツ|'25/02/06||
+|90|&font(b,13){Terminus｜すみちゃんカスタム｜バレンタイン}|&i(){[[Terminus>https://w.atwiki.jp/gtav/pages/3067.html]]}|Canis|オフロード|'25/02/06|[[深沢　えぼし]]からのバレンタイン|
+|91|&font(b,13){GT-R R35 V-spec}|&i(){[[Elegy RH8>https://w.atwiki.jp/gtav/pages/162.html]]}|Annis|スポーツ|'25/02/08|GT3レースで使用|
+|92|&font(b,13){296 GTB}|&i(){[[Itali RSX>https://w.atwiki.jp/gtav/pages/2649.html]]}|Grotti|スポーツ|'25/02/08|GT3レースで使用|
+|93|&font(b,13){Huracan LP610-4}|&i(){[[Tempesta>https://w.atwiki.jp/gtav/pages/1694.html]]}|Pegassi|スーパーカー|衛星外||
+|94|&font(b,13){570S GT3}|&i(){[[Itali GTB>https://w.atwiki.jp/gtav/pages/1715.html]]}|Progen|スーパーカー|'25/02/19||
+|95|&font(b,13){Silvia S14 K's}|&i(){[[Remus Ⅱ]]}|Aniss|スポーツ|'25/02/26||
+|96|&font(b,13){Petronas LF-LC GT}|&i(){[[ETR1>https://w.atwiki.jp/gtav/pages/1638.html]]}|Emperor|スーパーカー|'25/03/11|100台目(ガレージ総数)の車|
+|97|&font(b,13){Strato's HF Stradale}|&i(){[[Tropos Rallye>https://w.atwiki.jp/gtav/pages/1642.html]]}|Lampadati|スポーツ|'25/03/11|公式レースB帯で使用|
+|98|&font(b,13){Skyline GT-R R34 V-SpecⅡ Nur"迅帝"}|&i(){Elegy RH7}|Aniss|スポーツ|'25/03/13||
+|99|&font(b,13){}|&i(){[[Massacro (Racecar)>https://w.atwiki.jp/gtav/pages/1322.html]]}|Dewbauchee|スポーツ|'25/03/30||
+|100|&font(b,13){Sauber Mercedes C9}|&i(){[[LM87>https://w.atwiki.jp/gtav/pages/2830.html]]}|Benefactor|スーパーカー|衛星外|公式レースX帯で使用|
+|101|&font(b,13){Mulliner Batur}|&i(){[[Paragon S>https://w.atwiki.jp/gtav/pages/3118.html]]}|Enus|スポーツ|'25/04/05||
+|102|&font(b,13){F1LM}|&i(){[[GP1>https://w.atwiki.jp/gtav/pages/1727.html]]}|Progen|スーパーカー|'25/04/09|[[にしのんキングダム]]就職祝い|
+|103|&font(b,13){Countach LPI 800-4}|&i(){[[Torero XO>https://w.atwiki.jp/gtav/pages/2821.html]]}|Pegassi|スーパーカー|'25/04/13||
+|104|&font(b,13){Fairlady Z Version ST(Z34)}|&i(){[[Euros>https://w.atwiki.jp/gtav/pages/2709.html]]}|Aniss|スポーツ|'25/04/17||
+|105|&font(b,13){Natharie}|&i(){[[Imorgon>https://w.atwiki.jp/gtav/pages/2554.html]]}|Overflod|スポーツ|'25/04/27|公式レースA帯で使用|
+|106|&font(b,13){Evija}|&i(){[[Virtue>https://w.atwiki.jp/gtav/pages/2960.html]]}|Ocelot|スーパーカー|'25/05/03||
+|107|&font(b,13){A100 R}|&i(){[[Panthere>https://w.atwiki.jp/gtav/pages/2957.html]]}|Toundra|スポーツ|'25/05/04||
+|108|&font(b,13){}|&i(){Egg car}|Arcida|スポーツ|'25/05/08|イースターイベントの景品|
+//||&font(b,13){}|&i(){[[>]]}|||'25//||
+#table_sorter(){odd=#ffffff,even=#f8f8f8}
+}
+#endregion()
+#size(45%){　}
+//
+#region(自動二輪)自動二輪
+#size(90%){#table_style(head=#1e34a1:#dcd3b2){車名=center,車名=b:left}
+#table_filter(){登録名=hide,車名=show,種類=show,購入日=show,備考=show}
+|~登録名|~車名|~購入日|~備考|h
+|&font(b,13){Kawasaki Ninja zx-10R}| [[Shinobi>https://w.atwiki.jp/gtav/pages/2738.html]]|'24/10/11|[[はが　かける]]戦の指定バイク&br()公式レースD帯で使用|
+|&font(b,13){Method 143}|[[Reever>https://w.atwiki.jp/gtav/pages/2739.html]]|衛星外||
+|&font(b,13){Shitzu Bosozoku}|[[Bosozoku]]|衛星外||
+//|&font(b,13){}|[[>]]||'24//||
+#table_sorter(){odd=#ffffff,even=#f8f8f8}
+}
+#endregion(自動二輪)
+#size(45%){　}
+//
+#region(ヘリ・飛空機)ヘリ・航空機
+#size(90%){#table_style(head=#1e34a1:#dcd3b2){機種名=b}
+#table_filter(){登録名=hide,機種名=show,メーカー=hide,分類=show,購入日=show,備考=show}
+|~登録名|~機種名|~分類|~購入日|~備考|h
+|&font(b,13){まんじゅうへ！ゆうきをくれてありがとう！}|[[Velum>https://w.atwiki.jp/gtav/pages/585.html]]|飛行機|－|[[青梅　つばめ]]からのプレゼント|
+|&font(b,13){まんじゅうしのぶへおたんじょうびおめでとう！}|[[Sparrow>https://w.atwiki.jp/gtav/pages/2654.html]]|ヘリコプター|－|[[青梅　つばめ]]からの誕生日プレゼント|
+//|&font(b,13){}|||'25/05/||
+#table_sorter(){odd=#ffffff,even=#f8f8f8}
+}
+#endregion(ヘリ・飛空機)
+#size(45%){　}
+//
+#region(その他)その他
+#size(90%){#table_style(head=#1e34a1:#dcd3b2){車名=center,車名=b:left}
+#table_filter(){登録名=hide,車名=show,種類=show,購入日=show,備考=show}
+|~登録名|~車名|~種類|~購入日|~備考|h
+|&font(b,13){平井さんチャリ}|🚲 自転車|自転車|'24/06/30|街で最初に入手した乗り物|
+||🐴&nbsp()馬|奇蹄目ウマ科ウマ属|'24/12/19|マチダカート用|
+#table_sorter(){odd=#ffffff,even=#f8f8f8}
+}
+#endregion(その他)
+#size(45%){　}
+//
+#region(譲渡)譲渡
+#size(90%){#table_style(head=#1e34a1:#dcd3b2){車名=b:left}
+#table_filter(){登録名=hide,車名=show,譲渡相手=show,譲渡日=show,備考=show}
+|~登録名|~車名|~譲渡相手|~譲渡日|~備考|h
+|&font(b,13){Chevrolet Camaro Z28(1981)}|🚗[[Nightshade>https://w.atwiki.jp/gtav/pages/1578.html]]|[[BIG　SUZUKI]]|'24/09/03|雇って貰ったお礼|
+|&font(b,13){Imponte Nightshase}|🚗[[Nightshade>https://w.atwiki.jp/gtav/pages/1578.html]]|[[青梅　つばめ]]|'24/12/07|少し早めの誕生日プレゼント|
+|&font(b,13){fiat 500}|🚗[[Brioso 300>https://w.atwiki.jp/gtav/pages/2657.html]]|[[ゆた　んぽ]]|'24/12/11|誕生日プレゼント|
+|&font(b,13){Dominator ASP for まきぴ}|🚗[[Dominator ASP>https://w.atwiki.jp/gtav/pages/2708.html]]|[[神道　まきぴ]]|'24/12/16|誕生日プレゼント|
+|&font(b,13){}|🚗[[Omnis>https://w.atwiki.jp/gtav/pages/1641.html]]|[[くまの　ふでこ]]|衛星外|餞別(※直後に復職)|
+|&font(b,13){}|🚗[[Penumbra>https://w.atwiki.jp/gtav/pages/165.html]]|[[ルウ　ギャラクティカ]]|衛星外|餞別|
+|&font(b,13){Shinobu's ZR350}|🚗[[ZR350>https://w.atwiki.jp/gtav/pages/2693.html]]|[[レッサン　パンナ]]|'25/02/08|誕生日プレゼント|
+|&font(b,13){ハチロク}|🚗[[Futo GTX>https://w.atwiki.jp/gtav/pages/2703.html]]|[[青梅　つばめ]]|'25/03/14|ホワイトデーのお返し|
+|&font(b,13){サウ汰誕プレ Flash GT}|🚗[[Flash GT>https://w.atwiki.jp/gtav/pages/1954.html]]|[[星唄　サウ汰]]|'25/04/17|誕生日プレゼント|
+|&font(b,13){パスさんたんおめサンライズ}|🚗 Sunrise R|[[マカイーノ　アッコパス]]|'25/04/24|誕生日プレゼント|
+|&font(b,13){民子さん誕おめエレジーレトロ}|🚗[[Elegy Retro Custom>https://w.atwiki.jp/gtav/pages/1695.html]]|[[太田　民子]]|'25/05/04|誕生日プレゼント|
+//|&font(b,13){}|🚗[[]]|[[]]|||
+#table_sorter(){odd=#ffffff,even=#f8f8f8}
+}
+#endregion(譲渡)
+
+***&size(110%){&bgcolor(#1e34a1){&nbsp()&font(#dcd3b2,90%){▷ Season2}&nbsp(55)&nbsp(2)}}
+&font(b,14){&u(){ガレージ総数：9台}}
+#size(45%){　}
+//
+
+#region(自動車)自動車
+&font(12){*はドリフトカテゴリー(同一車名の混同回避)}
+#size(90%){#table_style(head=#1e34a1:#dcd3b2){車名=b}
+
+#table_filter(){登録名=hide,車名=show,購入日=show,車両ナンバー=show,備考=show}
+|~登録名|~車名|~購入日|~車両ナンバー|~備考|h
+|&font(b,13){}|DINKA Blista||MQQX5106|転送後街で最初に購入した車|
+|&font(b,13){}|DINKA Urban(ST)||U149BX1B||
+|&font(b,13){}|KALIN Dilettante DX||C3M857K6||
+|&font(b,13){}|ANNIS ZR350(ST)||ABG44608||
+|&font(b,13){}|ANNIS ZR250(AT)||LWZ4H7L3||
+|&font(b,13){}|KARIN Futo GTX||26AXNOXD||
+|&font(b,13){}|KARIN Futo GTX(ST)||Z964N5EA||
+|&font(b,13){}|ANNIS Mochi HE(ST)||Z964N5EA||
+|&font(b,13){}|SHITZU Castella(ST)||77HYXCV5||
+#table_sorter(){odd=#ffffff,even=#f8f8f8}
+}
+#endregion()
+#size(45%){　}
+#region(譲渡)譲渡
+#size(90%){#table_style(head=#1e34a1:#dcd3b2){車名=b:left}
+#table_filter(){登録名=hide,車名=show,譲渡相手=show,譲渡日=show,備考=show}
+|~登録名|~車名|~譲渡相手|~譲渡日|~備考|h
+|&font(b,13)|[[Dinka Cody]]|[[山田　パルコ]]|'26/01/30|軽トラレース作成のため購入。作成後山田パルコへ44万で譲渡|
+|&font(b,13)|[[Dinka Blista]]|[[トウ　ユン]]|'26/02/02|Js 34 Circuitレースで山田パルコにBlistaを貸すことになったため自分用にもう一台購入。レース後トウユンに110万で譲渡|
+
+#table_sorter(){odd=#ffffff,even=#f8f8f8}
+}
+#endregion(譲渡)
+//
+----
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ
+#size(160%){#center{|>|>|CENTER:BGCOLOR(#383a3b):&font(#fff){&icon_fa(fa fa-home)}[[&font(b,#fff){トップ}>万十　忍]]|
+|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){人物像}>万十　忍/人物像]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){生き方}>万十　忍/ロスサントスでの生き方]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){目標}>万十　忍/ロスサントスでの目標]]|
+|CENTER:BGCOLOR(#383a3b):[[&font(b,#60EE3C){所有車}>万十　忍/所有車]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){不動産}>万十　忍/不動産]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){ボイス}>万十　忍/ボイス]]|
+|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){職業}>万十　忍/職業・所属]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){交友関係}>万十　忍/交友関係]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){服装}>万十　忍/服装]]|
+|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){エピソード}>万十　忍/エピソード4]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){アーカイブ}>万十　忍/アーカイブ2]]|CENTER:BGCOLOR(#383a3b):[[&font(b,#fff){関連情報}>万十　忍/関連情報]]|
+}}
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ

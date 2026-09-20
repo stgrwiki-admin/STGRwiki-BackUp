@@ -1,0 +1,673 @@
+//旧MOZUタグにつきましては、編集相談所をご確認願います　※ここのCOはご確認次第削除してくださって大丈夫です
+//
+//終）ずぅカスタム調整中・・。18:38- アーカイブ方面は組み立てしてるのでそのままで平気です。→更新。#400か401ぐらいの話数になったら消去COです
+//話数120？以降が出た際はこつこつですが、保存制限の兼ね合いもある為ちょっと不明です･･。/配置＝もなぴ、茶担えり周辺から導入。格納の手紙コマンドも何処かに一応仕込みはするかもしれません。シークレット気味のCOなど、エピソード向け
+#slide_img(width=300,height=420){多良里ずぅ_初期.jpeg,tarari_zuu_jts.png,tarari_zuu_2nd.png} 
+
+#table_color(#fafafa)
+#table_filter(){season1=hide,season2=show}
+|~シーズン|~&icon_fa(fa fa-calendar)|~season1|~season2|
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(たらり){多良里}　ずぅ|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|（H18）2006年7月7日(金) 戌年 蟹座 (&countup(2006/07/07,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年5月26日 (&countup(2023/05/26,yd)経過)|2026年1月1日 (&countup(2026/01/01,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|&small(){不動産屋}【[[ヒーローハウジング]]】&small(){2023/8/5~}&br()&small(){メカニック}【[[JTS(ジョアンナテクノサービス)>ジョアンナテクノサービス]]】&small(){北支店店長 2023/9/20~}&br()&small(){航空機ディーラー}【[[豆おじさんのエアークラフト]]】&small(){取締役 2024/2/27~}|&small(){メカニック}【[[JTS(ジョアンナテクノサービス)>ジョアンナテクノサービス]]】&small(){ 2026/1/1~}|
+|~|~&icon_fa(fa fa-solid fa-person-circle-minus)|&small(){&openclose2(show=過去の職業▼){&br()&bold(){隠れ家バー【[[eight]]】店員(所属のみ)}（2023/7/11~2023/9/20）&br()&bold(){【木こり】}（2023/10/27~2024/2/27）}}||
+|~副業|~&icon_fa(fa fa-shop)&br()&icon_fa(fa fa-gas-pump)|コンビニエンスストア経営&space()&small(){(1012番地) 2023/7/3~}&br()ガソリンスタンド経営&space()&small(){(7001番地) 2024/8/15~}||
+|~所属|~&icon_fa(fa-solid fa-people-roof)|[[MOZU]]関係者&space()(花組)&space()&small(){2023/6/14~}||
+|~Twix|~&icon_fa(fa fa-crow)|@zuu|@zzz|
+|~レーサー名|~&icon_fa(fa fa-user-tag)|zuu||
+|BGCOLOR(#BFFFD4):COLOR(#a596c7):~プレイヤー|BGCOLOR(#BFFFD4):COLOR(#a596c7):~&icon_fa(fa fa-address-card-o)|>|りズゥ|
+|BGCOLOR(#BFFFD4):COLOR(#a596c7):~告知等|BGCOLOR(#BFFFD4):COLOR(#a596c7):~&icon_fa(fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/rizz0125]]|
+|BGCOLOR(#BFFFD4):COLOR(#a596c7):~配信場所|BGCOLOR(#BFFFD4):COLOR(#a596c7):~&icon_fa(fa fa-gamepad)|>|&font(#725aa1){&icon_fa(fa fa-twitch)}[[&font(#725aa1){Twitch}>>https://twitch.tv/rizzriz]]|
+|BGCOLOR(#BFFFD4):COLOR(#a596c7):~アーカイブ動画|BGCOLOR(#BFFFD4):COLOR(#a596c7):~&icon_fa(fa fa-video-camera)|>|&font(#c9243a){&icon_fa(fa fa-youtube)}[[&font(#c9243a){YouTube}>>https://www.youtube.com/@%E3%82%8A%E3%82%BA%E3%82%A5/videos]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**基本情報
+>幼いころから両親に「一人でも強く生きていけるようになれ」と言われ育てられる。最低限の支援をしてくれたが小学校卒業後に縁を切られる。
+>
+>【実は父が、■■■■■■■■■が■■■■■■■、■■■■■なってしまう。未だ■■■■■■■■■■■母も■■■■■■■■■、■■■■■■■■■■■■ずぅは、何も知らなく■■■■■■■■■■■■■■】
+>
+>はじめは空き缶やゴミ拾いでお金を稼ぎ、老人ホームの余った食事を貰っていた。13歳、路地裏を清掃中に下っ端のヤクザの目にとまり、抗争場所の清掃や後始末を任せられるようになる。ある日TVでアメリカンドリームを叶えた人特集を見て、巨万の富と豊満なボディに衝撃と憧れを抱く。行きの資金のみ貯めて、ロスサントスへと行く。
+>
+>【性格】
+>基本敬語、物腰が柔らかいのは、周りを刺激せず生きていたため。海や川が好き。海鮮が好きでエビが大好き。水に浸かったり、流されたりするのが好き。
+>
+>【やりたい今後】
+>カフェや飲食店めぐりをしていっぱい食べて豊かの象徴である肥満になりたい！お金がある程度貯まったら、海鮮系で何かお店を出したいかも？
+#right(){（[[二日目>>https://www.twitch.tv/videos/1830538161]]より引用）}
+-人ごみが苦手。大人数が集まってウェイウェイしていると、すっと離れる。
+--1対1で落ち着いて会話できる相手とは雑談ができる。
+&co(){--ゲラ。沸点も低い。// 魂情報のため削除しました。}
+-腰に好物のエビのタトゥーが入っている。
+-本当の誕生日は不明。&openclose2(show=エピソード){幼少期、特に祝われることが無かったため誕生日を知らない。[[ヴァン　ダーマー]]に「自分で好きな日を誕生日にしてしまえばいい」と言われて決めた。[[30日目>>https://www.twitch.tv/videos/1857012531]]より}
+-20日目、　2023年06月14日、MOZUにクラフターとして雇われる。（後の花組）
+-35日目、　2023年07月03日、1012番地のコンビニのオーナーに。
+-39日目、　2023年07月07日、初めて誕生日というものを祝ってもらった。
+-42日目、　2023年07月11日、eightに就いた。
+-62日目、　2023年08月05日、不動産に就いた。
+-100日目、2023年09月20日、eightを退職し、JTSに体験入社。
+-106日目、2023年09月26日、JTSに正式入社。
+-131日目、2023年10月27日、木こりに就いた。
+-208日目、2024年02月27日、木こりを退職、航空機ディーラーに就いた。
+-293日目、2024年07月17日、JTSの社内レクリエーション「JTS Guessr」を主催した。
+-300日目、2024年07月26日、JTSのマネージャーに昇格した。
+-315日目、2024年08月15日、7001番地のガソリンスタンドのオーナーに。
+-326日目、2024年09月04日、第2回JTSの社内レクリエーション「ゆるっと遊びましょ22時」を主催した。
+-352日目、2024年10月17日、[[ほわいとたいが>>イチカ　ウィルキンズ]]主催秋の収穫祭の運営にJTSとして参加した。
+-365日目、2024年11月06日、[[文殊さん>>文殊　セイジ]]主催のヘリバトル大会にJTSとして協賛、運営に参加した。
+-391日目、2024年12月19日、[[SeaYosoro 天王寺]]協賛のイベント、「マチダカート」を主催した。
+**ストグラ印象表
+#region(開ける)
+#table_color(#e6e6fa){▽印象=#e6e6fa}
+#table_filter(){2023/06/08=hide,2023/08/03=show}
+|BGCOLOR(#FFF):~▽印象|~[[2023/06/08>>https://twitter.com/rizz0125/status/1667098014304059392]]|~[[2023/08/03>>https://twitter.com/rizz0125/status/1687000988501340160]]|
+|【好印象】|天池さん、伊達咲さん、キラさん、&br()千代田さん、デヤンスさん、ヘラシギさん、&br()葛城さん、まりーさん|キミトスさん、ジェフさん、ルーファスさん、&br()ジャークさん、まりーさん、シュガピ、猪狩さん、&br()菖蒲さん、キャップ|
+|【友達】||伊達咲さん、千代田さん、キラさん、ノアチェン、&br()ボタリンさん、街雄さん|
+|【尊敬】|佐藤さん、有坂さん|ヘラさん、有坂さん、ジャム姉さん|
+|【信頼】|不二子姉さん、柳田さん|柳田さん、不二子さん|
+|【〇〇】||ヴァンさん、斎藤さん|
+|【苦手】|大人数なところ、陽キャ|大人数、陽キャ、Ｎ|
+#endregion
+
+**所有車一覧
+#region(開ける)
+#table_color(#e6e6fa){車両名=#F0FFFF}
+|~車種|~車両名|~備考|
+|🚗|[[Zirconium Journey>>https://w.atwiki.jp/gtav/pages/527.html]]|[[ヴァンさん>>https://w.atwiki.jp/streamergta5/pages/196.html]]より譲渡|
+|🚗|[[Vulcar Warrener>>https://gta.fandom.com/wiki/Warrener]]|[[山本さん>>https://w.atwiki.jp/streamergta5/pages/62.html]]から中古で購入|
+|🚗|[[Declasse Burrito Custom>>https://w.atwiki.jp/gtav/pages/521.html]]|[[ヴァンさん>>https://w.atwiki.jp/streamergta5/pages/196.html]]より借入|
+|🚗|[[Bravado Rumpo Custom>>https://w.atwiki.jp/gtav/pages/1630.html]]|[[ヴァンさん>>https://w.atwiki.jp/streamergta5/pages/196.html]]より借入|
+|🚴|[[Bike Whippet Race Bike>>https://w.atwiki.jp/gtav/pages/575.html]]|自転車|
+|🛵|[[Pegassi Faggio Mod>>https://w.atwiki.jp/gtav/pages/1656.html]]|原付|
+|🚗|[[Maxwell Vagrant>>https://w.atwiki.jp/gtav/pages/2546.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🚗|[[Bravado Bison>>https://w.atwiki.jp/gtav/pages/377.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🏍|[[Westem Reever>>https://w.atwiki.jp/gtav/pages/2739.html]]|[[キミトスさん>>https://w.atwiki.jp/streamergta5/pages/305.html]]からの誕生日プレゼント|
+|🚗|vapid caracara 4x4|[[ヴァンさん>>https://w.atwiki.jp/streamergta5/pages/196.html]]より譲渡，キャンピングカー|
+|🚗|[[Dinka RT3000>>https://w.atwiki.jp/gtav/pages/2700.html]]|[[Marie Motors>>https://w.atwiki.jp/streamergta5/pages/579.html]]で購入|
+|🏍|&s(){Honda Motocompo}|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入，実車につき消失|
+|🏍|[[Western Gargoyle>>https://w.atwiki.jp/gtav/pages/1646.html]]|[[深沢モータース>>https://w.atwiki.jp/streamergta5/pages/577.html]]で購入|
+|🚁|[[Sea Sparrow>>https://w.atwiki.jp/gtav/pages/1956.html]]|[[斎藤さん>>https://w.atwiki.jp/streamergta5/pages/64.html]]からのプレゼント，水陸両用|
+|🚗|[[Pegassi Toros>>https://gta.fandom.com/wiki/Toros]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🏍|[[Dinka Akuma>>https://w.atwiki.jp/gtav/pages/389.html]]|[[ナタルさん>>https://w.atwiki.jp/streamergta5/pages/349.html]]より借入|
+|🚤|[[Shitzu Tropic>>https://gta.fandom.com/wiki/Tropic]]|[[ボートライフサンフォレスト>>https://w.atwiki.jp/streamergta5/pages/582.html]]で購入|
+|🏍|[[Western Powersurge>>https://w.atwiki.jp/gtav/pages/2958.html]]|[[菖光モータース>>https://w.atwiki.jp/streamergta5/pages/695.html]]で購入|
+|🏍|[[Maibatsu Manchez Scout C>>https://w.atwiki.jp/gtav/pages/2951.html]]|[[ヴァンさん>>https://w.atwiki.jp/streamergta5/pages/196.html]]から100日記念プレゼント|
+|🏍|[[Western Zombie Chopper>>https://w.atwiki.jp/gtav/pages/1664.html]]|[[菖光モータース>>https://w.atwiki.jp/streamergta5/pages/695.html]]で購入|
+|🚗|[[Canis Mesa Merryweather Chopper>>https://w.atwiki.jp/gtav/pages/210.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🚗|[[Albany Lurcher>>https://w.atwiki.jp/gtav/pages/1549.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入，霊柩車|
+|🚗|[[Karin Sultan Classic Custom>>https://w.atwiki.jp/gtav/pages/2537.html]]|[[ヴァンさん>>https://w.atwiki.jp/streamergta5/pages/196.html]]より譲渡|
+|🚗|[[Bravado Gauntlet Classic Custom>>https://w.atwiki.jp/gtav/pages/2492.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🚗|[[Zirconium Journey II>>https://w.atwiki.jp/gtav/pages/2949.html]]|[[ナタルさん>>https://w.atwiki.jp/streamergta5/pages/349.html]]より譲渡|
+|🛬|[[Nagasaki Ultralight>>https://w.atwiki.jp/gtav/pages/1816.html]]|[[鳥野エアー>>https://w.atwiki.jp/streamergta5/pages/581.html]]で購入|
+|🚗|[[Canis Freecrawler>>https://w.atwiki.jp/gtav/pages/2337.html]]|[[深沢モータース>>https://w.atwiki.jp/streamergta5/pages/577.html]]で購入|
+|🚗|[[WEENY PEANUT>>https://gtafanon.fandom.com/wiki/Peanut]]|[[深沢モータース>>https://w.atwiki.jp/streamergta5/pages/577.html]]で購入|
+|🏍|[[VENTOSO>>https://gtafanon.fandom.com/wiki/Ventoso]]|[[深沢モータース>>https://w.atwiki.jp/streamergta5/pages/577.html]]で購入|
+|🚗|[[Declasse Vigero>>https://w.atwiki.jp/gtav/pages/360.html]]|[[アドさん>>https://w.atwiki.jp/streamergta5/pages/497.html]]から中古で購入|
+|🚗|[[Weeny Issi Sport>>https://w.atwiki.jp/gtav/pages/2478.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🚗|[[Vapid Winky>>https://w.atwiki.jp/gtav/pages/2648.html]]|[[深沢モータース>>https://w.atwiki.jp/streamergta5/pages/577.html]]で購入|
+|🚗|[[Principe Deveste Eight>>https://w.atwiki.jp/gtav/pages/2444.html]]|[[Marie Motors>>https://w.atwiki.jp/streamergta5/pages/579.html]]で購入,自分へのクリスマスプレゼント|
+|🏍|[[Dinka Vindicator>>https://w.atwiki.jp/gtav/pages/1461.html]]|[[菖光モータース>>https://w.atwiki.jp/streamergta5/pages/695.html]]で購入|
+|🚗|[[Coil Voltic>>https://w.atwiki.jp/gtav/pages/157.html]]|[[大川自動車販売(有)>>https://w.atwiki.jp/streamergta5/pages/1088.html]]で購入,大川自動車販売(有)開業祝い|
+|🚴|CYCLE J-CRUISER|ママチャリ|
+|🚁|[[Nagasaki Buzzard>>https://w.atwiki.jp/gtav/pages/227.html]]|[[鳥野エアー>>https://w.atwiki.jp/streamergta5/pages/581.html]]で購入|
+|🚗|[[Maibatsu>>https://w.atwiki.jp/gtav/pages/664.html]] Sunrise R|[[Marie Motors>>https://w.atwiki.jp/streamergta5/pages/579.html]]で購入|
+|🚁|[[Nagasaki Havok>>https://w.atwiki.jp/gtav/pages/1835.html]]|新航空機ディーラーにて購入|
+|🏍|[[Nagasaki Shotaro CCC>>https://w.atwiki.jp/gtav/pages/1682.html]]|[[菖光モータース>>https://w.atwiki.jp/streamergta5/pages/695.html]]で購入|
+|🚗|[[Hijak Ruston>>https://w.atwiki.jp/gtav/pages/1729.html]] |[[CAR STORE EDEN>>https://w.atwiki.jp/streamergta5/pages/578.html]]で購入|
+|🚗|[[Vapid Speedo Custom>>https://w.atwiki.jp/gtav/pages/2215.html]]|[[深沢モータース>>https://w.atwiki.jp/streamergta5/pages/577.html]]で購入|
+|🚗|[[Declasse Draugur>>https://w.atwiki.jp/gtav/pages/2843.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🚗|[[Grotti Itali GTO>>https://w.atwiki.jp/gtav/pages/2433.html]] |[[CAR STORE EDEN>>https://w.atwiki.jp/streamergta5/pages/578.html]]で購入|
+|🚗|[[Grotti Brioso R/A>>https://w.atwiki.jp/gtav/pages/1645.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🚗|[[Karin Beejay XL>>https://w.atwiki.jp/gtav/pages/231.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🚗|[[Nagasaki Blazer Sport>>https://w.atwiki.jp/gtav/pages/1669.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🚗|[[Annis Remus>>https://w.atwiki.jp/gtav/pages/2696.html]] |[[CAR STORE EDEN>>https://w.atwiki.jp/streamergta5/pages/578.html]]で購入|
+|🚗|Champing Guardianrv|[[CAR STORE EDEN>>https://w.atwiki.jp/streamergta5/pages/578.html]]で購入|
+|🏍|[[Dinka Frakas>>https://libertycity.net/files/gta-5/190188-dinka-frakas-v1-0.html]]|[[菖光モータース>>https://w.atwiki.jp/streamergta5/pages/695.html]]で購入|
+|🚗|[[Ocelot Locust>>https://w.atwiki.jp/gtav/pages/2498.html]] |[[にしのんキングダム>>https://w.atwiki.jp/streamergta5/pages/1412.html]]で購入|
+|🚗|[[Vapid Contender>>https://w.atwiki.jp/gtav/pages/1651.html]] |[[豆やん>>https://w.atwiki.jp/streamergta5/pages/876.html]]からの１周年記念プレゼント|
+|🚗|[[Truffade Thrax>>https://w.atwiki.jp/gtav/pages/2475.html]] |[[CAR STORE EDEN>>https://w.atwiki.jp/streamergta5/pages/578.html]]で購入,けんつの白卒業記念,けんつカスタム|
+|🚗|[[Dinka Verus>>https://w.atwiki.jp/gtav/pages/2687.html]] |[[プラネットモータース>>https://w.atwiki.jp/streamergta5/pages/987.html]]で購入|
+|🚗|[[Vapid Hotknife>>https://w.atwiki.jp/gtav/pages/355.html]] |[[プラネットモータース>>https://w.atwiki.jp/streamergta5/pages/987.html]]で購入|
+|🚗|[[Declasse Drift Tampa>>https://w.atwiki.jp/gtav/pages/1648.html]]|[[豆やん>>https://w.atwiki.jp/streamergta5/pages/876.html]]から一緒に峠を攻めようとプレゼントされた|
+|🚗|vapid Speed Express|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入，1000積載|
+|🏍|[[Nagasaki Stryder>>https://w.atwiki.jp/gtav/pages/2545.html]]|[[深沢モータース>>https://w.atwiki.jp/streamergta5/pages/577.html]]で購入|
+|🚗|[[Benefactor Krieger>>https://w.atwiki.jp/gtav/pages/2512.html]]|[[大川自動車販売(有)>>https://w.atwiki.jp/streamergta5/pages/1088.html]]で購入,[[ねずみ>>https://w.atwiki.jp/streamergta5/pages/402.html]]さんの就職祝い|
+|🚗|[[nagasaki outlaw>>https://w.atwiki.jp/gtav/pages/2561.html]]|[[豆やん>>豆　やん]]より譲渡|
+|🚗|[[Canis Kalahari>>https://w.atwiki.jp/gtav/pages/620.html]]|[[豆やん>>豆　やん]]より譲渡|
+|🚴|CYCLE UNICYCLE|一輪車|
+|🚗|[[Pfister Neon>>https://w.atwiki.jp/gtav/pages/1907.html]]|[[大川自動車販売(有)>>https://w.atwiki.jp/streamergta5/pages/1088.html]]で購入|
+|🚗|[[vapid Clique Wagon>>https://w.atwiki.jp/gtav/pages/3025.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🚗|[[Pegassi Tezeract>>https://w.atwiki.jp/gtav/pages/1942.html]]|[[天王寺>>天王寺　京司郎]]さん[[豆やん>>豆　やん]]からの誕生日プレゼント|
+|🚗|[[Coil Brawler>>https://w.atwiki.jp/gtav/pages/1456.html]]|[[キミトス>>三階堂　キミトス]]さんからの誕生日プレゼント|
+|🚁|[[Sparrow>>https://w.atwiki.jp/gtav/pages/2654.html]]|[[ジョアンナテクノサービス]]の皆からの誕生日プレゼント|
+|🚗|&s(){[[Declasse Granger>>https://w.atwiki.jp/gtav/pages/369.html]]}|[[プラネットモータース>>https://w.atwiki.jp/streamergta5/pages/1029.html]]で購入, JTSゲッサーの賞品として[[隣紀子>>隣　紀子]]さんに贈呈した|
+|🚗|[[Dundreary Stretch>>https://w.atwiki.jp/gtav/pages/398.html]]|[[プラネットモータース>>https://w.atwiki.jp/streamergta5/pages/1029.html]]で購入|
+|🚗|[[Lampadati casco>>https://w.atwiki.jp/gtav/pages/1353.html]]|[[豆やん>>豆　やん]]より譲渡|
+|🚗|[[Canis Terminus>>https://w.atwiki.jp/gtav/pages/3067.html]]|発売日に購入する時間がなかったため[[豆やん>>豆　やん]]に代理で購入してもらった|
+|🚗|[[Grotti X80 Proto>>https://w.atwiki.jp/gtav/pages/1635.html]] |[[Thrax>>https://w.atwiki.jp/gtav/pages/2475.html]]を購入し、[[キミトス>>三階堂　キミトス]]さんのProtoと交換してもらった。|
+|🏍|[[Dinka Thrust>>https://w.atwiki.jp/gtav/pages/1089.html]]|300日記念に[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🏍|[[Western Nightblade>>https://w.atwiki.jp/gtav/pages/1665.html]]|300日記念に[[豆やん>>豆　やん]]から頂いた。|
+|🚗|vapid Speed Express|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入，２台目|
+|🚁|[[Western Annihilator Executive>>https://w.atwiki.jp/gtav/pages/586.html]]|[[豆おじさんのエアークラフト>>https://w.atwiki.jp/streamergta5/pages/1322.html]]で購入|
+|🚗|[[annis 300R>>https://w.atwiki.jp/gtav/pages/2945.html]] |[[ジャム姉>>ジャムリーヌ　バルサミコス]]から中古で購入|
+|🚗|[[Chariot ロメロ霊柩車>>https://w.atwiki.jp/gtav/pages/424.html]] |[[ケイン>>ケイン／オー]]さんの中古車販売店[[Reboot]]で購入|
+|🚗|[[vapid Guardian>>https://w.atwiki.jp/gtav/pages/1354.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🏍|[[Nagasaki Shinobi>>https://w.atwiki.jp/gtav/pages/2738.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入|
+|🚗|[[Benefactor SM722>>https://w.atwiki.jp/gtav/pages/2840.html]]|豆やんから社用車として譲渡された（SHOPからは購入できず補佐さんから直接購入するスタイル）|
+|🏍|[[Nagasaki Shinobi>>https://w.atwiki.jp/gtav/pages/2738.html]]|[[プラネットモータース>>https://w.atwiki.jp/streamergta5/pages/1029.html]]で購入,２台目|
+|🏍|[[Nagasaki Shinobi>>https://w.atwiki.jp/gtav/pages/2738.html]]|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入,３台目|
+|🏍|VooDoo SideCar|[[社長>>町田　ジョアンナ]]からのプレゼント|
+|🚗|[[Obey 9F Cabrio>>https://w.atwiki.jp/gtav/pages/280.html]]|会社の経費からプレゼント|
+|🚗|[[Canis Kamacho>>https://w.atwiki.jp/gtav/pages/1910.html]]|[[プラネットモータース>>https://w.atwiki.jp/streamergta5/pages/1029.html]]で購入|
+|🚗|[[Vapid Bobcat XL>>https://w.atwiki.jp/gtav/pages/378.html]]|[[プラネットモータース>>https://w.atwiki.jp/streamergta5/pages/1029.html]]で購入|
+|🚤|[[Speedophile Seashark3>>https://w.atwiki.jp/gtav/pages/2941.html]]|[[SeaYosoro 天王寺>>https://w.atwiki.jp/streamergta5/pages/1697.html]]で購入|
+|🚗|Mochi|2025年三が日宝探しイベントにて1,500万円で購入|
+|🚗|Turtle|2025年三が日宝探しイベントにて1,500万円で購入|
+|🚗|[[Benefactor Surfer Custom>>https://w.atwiki.jp/gtav/pages/2947.html]]|400日記念でプレゼントされた|
+|🚗|cody|[[斎藤モータース>>https://w.atwiki.jp/streamergta5/pages/576.html]]で購入,軽トラ|
+#endregion
+
+**所有物件一覧
+#region(開ける)
+#table_color(#e6e6fa)
+#table_filter(){No.=show,番地=show,用途=show,内装=show,備考=show}
+|No.|番地|用途|内装|備考|h
+|1|1064|自宅|BarBar|MOZUの下請けとして雇われてすぐに購入した初物件&br()内装は元々トレイラーハウスだったが建て直しでbarbarになった|
+|2|1001|倉庫|default v2 3|MOZU用の素材やクラフトしたものを入れておく倉庫として購入&br()内装は元々コンテナだったが建て直しでトレイラーハウスになった|
+|3|7345|自宅|Gun warehouse|元々欲しい内装があったために見合った外装の建物を見つけて購入|
+|4|3054|倉庫|trailer|鉱山でのレッカー対策にガレージ用として購入|
+|5|****|住宅|House 3|通称事故物件改&br()プリズン近く、番地の無い一軒家を一目惚れで購入|
+|6|9309|倉庫|WareHouse|溶鉱炉の隣にある倉庫のような物件&br()スマホを溶かす用の倉庫と車のレッカー対策に購入|
+#endregion
+
+
+
+**エピソード
+***２０２３年
+#region(開く)
+閉じる
+
+#include(多良里　ずぅ/エピソード1)
+
+#include(多良里　ずぅ/エピソード2)
+
+#include(多良里　ずぅ/エピソード3)
+
+#include(多良里　ずぅ/エピソード4)
+
+#endregion
+
+***２０２４年
+#region(開く)
+閉じる
+
+#include(多良里　ずぅ/エピソード5)
+
+#include(多良里　ずぅ/エピソード6)
+
+#include(多良里　ずぅ/エピソード7)
+
+#include(多良里　ずぅ/エピソード8)
+
+***12月
+#region(開く)
+閉じる
+
+***12/01 &color(#F54738){380日目} 380日 
+#region(開く)
+閉じる
+・【[[ミカ・ピトフーイ]]】
+・・起きて早々家を買いたいと連絡があり不動産事務所前で待ち合わせをして一緒に現地に向かい家を作成・販売した。
+・リサセンで作業をしていたところひろしさんから連絡があり、今日が豆やん、明日がダミアンさんの誕生日だということを知った。
+・【[[山田　カイキ]]】
+・・以前販売した物件の隣を購入したいと連絡があり、隣よりも安い内装を入れて販売した。
+・天王寺さんが起きてきたので連絡をして合流、豆やんの誕プレについて話し合った。
+・【[[真新　サトシ]]】
+・・北の一軒家が欲しいと連絡があり、北に向かって合流、内装を入れて販売した。
+・天王寺さんから、豆やんが欲しいと思っているケインさんの乗っていた車がSchlagen GTかもしれないと連絡があり、高級車ディーラーに向かい確認、[[ミカ>>ミカ・ピトフーイ]]さんに連絡をしてダミアンさんとペアということで２台仕入れて欲しいと連絡した。
+・ミカさんから仕入れたと連絡があり天王寺さんと２人で一台ずつ購入、JTS北支店２号店に運びこみカスタムをした。
+・【[[アヌギフ　白川]]】
+・・北に家が欲しいと連絡があり北で待ち合わせ。空いている一軒家を探して販売、敷地内にあるガレージにも内装を入れて販売した。
+・ダミアンさんが起きてきてタイミングよくJTSに来たので豆やんを呼んで二人に誕生日プレゼントを渡した。
+・CGBが計画していた豆ダミの結婚式の予定が早まったと聞き、参加するべく教会に向かった。
+#endregion(開く)
+
+***12/03 &color(#F54738){381日目} 381日 
+#region(開く)
+閉じる
+・豆やんとカートを試乗会場から運び出しマチカーのコースについて話し合った。
+・ニャンコさんに呼ばれて豆やんの牧場に向かったところ、牧場前のガスタンクに衝突して大爆破、そばにいたニャンコさん含めて３人ダウンした。
+・・牧場に向かい牧場の前のガスタンクをドリルで削ったら爆破、隊長とましろ先生が来てくれたが、隊長が担いだ途端歪みで足が速くなり空を飛び落下して隊長もダウンした。
+・・再びバイクで牧場に向かうが、道中で同期ズレにより後ろに乗っていた豆やんが吹っ飛びダウン。３たび病院へ。
+・・牧場につき中に入ったところ、何故か牧場内でだけ松葉がつき、豆やんを担いだところ足が速くなって牧場の壁を突き抜けてダウンした。
+・・ようやく牧場に行きニャンコさんと牧場の世話をした。
+・
+#endregion
+
+***12/04 &color(#F54738){382日目} 382日 準備のための作業 
+#region(開く)
+閉じる
+・社長と豆やんが起きていたため、マチダカートのレースコースをテスト走行してみた。
+・JTSに戻り、メカニック用品のクラフトをしながらイベント用のポスターの画像やトロフィー、ロゴ等を作成した。
+・・チェンマヨさんが来店、大川さんがＡ２も辞めたことや、レイナさんが街を去ることを聞いた。
+・・馬ウアーさんが来店、前説はいくらか尋ねたが言い値で良いらしい。
+#endregion
+
+***12/05 &color(#F54738){383日目} 383日
+#region(開く)
+閉じる
+・豆やんと電気工事バイトをし、初めて成功した。
+・完成したイベント用ポスターを豆やんと社長に見てもらい申請をした。
+・【[[刃牙　りえる]]】
+・・待ち合わせ場所に向かい餡ブレラアジトの敷地内に家が欲しいと言われて餡ブレラの一員か確認し、部屋を作成して販売した。
+・・また、以前作成した家の床が点滅すると言われて物件に向かい座標を変更。無事点滅しなくなった。
+・西海岸に良いジャンプ台があると聞いて社長と豆やんと飛びに行ったが距離が足りずに海に落ちて水没しダウンした。
+・・よつは先生が来てくれ伊豆院さんにバレたくないと伝えたところ病院の屋上から治療室まで運んでくれて出る時も病院裏まで導線を確保してくれた。
+#endregion
+
+***12/06 &color(#F54738){384日目} 384日
+#region(開く)
+閉じる
+・申請許可されたポスターをJTS前に貼りお披露目した。
+・病院や警察署等に向かい許可を貰いながらポスターを貼らせてもらった。
+・バーバリアンさんに許可を貰い、プリズンの中にもポスターを貼らせてもらった。また、記念に服役している豆やんを撮影しまくった。
+・【日　々】
+・・北の海岸沿いにある物件が欲しいと連絡があり北海岸で合流したが全戸埋まっていた。
+・初心者ヘリコースのランキングを確認したところ天王寺さんにあっさり抜かされていた。
+・JTSで勤務しながらプリズンで服役する豆やんの本「豆やん物語」を製本した。
+・魔女カフェは開いているのを確認し、救急隊ガチャと食べ物飲み物を購入した。
+#endregion
+
+***12/08 &color(#F54738){385日目} 385日
+#region(開く)
+閉じる
+・
+#endregion
+
+***12/10 &color(#F54738){386日目} 386日
+#region(開く)
+閉じる
+・起きて社宅を出ると一面銀世界だった。テザラクトでノーマルタイヤとスタッドレスタイヤの違いを確認した。
+・JTS前で雪玉を拾い、雪だるまを作成した。雪だるまがイベントレースでの障害物に使えるのではと思い立ちカートでぶつかってみた。
+・🔰の[[黒桜　ローレン]]さんが来店。挨拶をして連絡先を交換した。
+・[[万十>>万十　忍]]さんから不動産について問い合わせの連絡があった。２億だと思っていた内装が実は20億なことが判明しショックを受けていた。
+・社長と豆やんと３人で一軒家を巡りクリスマスプレゼントを漁って回った。
+・ねずみさんと小里馬ァさんも合流し、みんなでカジノでBJをした。
+・小里馬ァさんが予定が詰まっているらしく、その前にとカートを１台ずつ東のガレージまで運んでもらった。
+・ももみパイセンから不動産ボーナスで過去最高額の20億円振り込まれた。
+・えだまめもんと帝さんとひろしさんに捕まり、今度開催される方言キャバクラにスカウトされてしまった。稀少な津軽弁ということでSSRと呼ばれた。時間やスケジュールを鑑みて後日返事をすると伝えた。
+・[[シロクマ>>れぷタイルルス　セルヴァル]]さんから不動産の相談を受け、物件の値段等を調査するため現地で集合して見積もりを出した。
+#endregion
+
+***12/12 &color(#F54738){387日目} 387日
+#region(開く)
+閉じる
+・イベントの準備をした。
+・・大量の自転車を砂漠のインパウンド場から近くのガレージに移動。
+・・船着き場に向かい大量のSeasharkのカラーを変更した。カラーの変更箇所に不満があったため試しでSeashark3を購入した。
+#endregion
+
+***12/15 &color(#F54738){388日目} 388日
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***12/17 &color(#F54738){389日目} 389日
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***12/18 &color(#F54738){390日目} 390日 今日は夜の音楽祭！明日はイベント！
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***12/19 &color(#F54738){391日目} 391日 マチダカート本番！
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***12/20 &color(#F54738){392日目} 392日 方言
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***12/21 &color(#F54738){393日目} 393日 紅白1日目
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***12/22 &color(#F54738){394日目} 394日 紅白2日目
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***12/27 &color(#F54738){395日目} 395日
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***12/31 &color(#F54738){396日目} 396日 年内最後放送！今年もお世話になりました＞＜
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+#endregion(開く)
+
+#endregion(開く)
+
+***２０２５年
+#region(開く,open)
+閉じる
+
+***１月
+#region(開く)
+閉じる
+
+***01/03 &color(#F54738){397日目} 397日 2025初街IN！！
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***01/09 &color(#F54738){398日目} 398日
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+#endregion(開く)
+
+***３月
+#region(開く)
+閉じる
+
+***03/06 &color(#F54738){399日目} 399日 ２か月ぶりの街
+#region(開く)
+閉じる
+・２ヶ月振りに起床。誰かいないかJTSのシャッターを開けたが社長を見つけてダッシュで逃亡を２回繰り返したが覚悟を決めて店内へ。
+・店内にいた社長と豆やんから情報を聞いた。
+・・メカニックの値段が倍になったらしい。
+・・[[マザー　キティ]]さんが正社員になったらしい。
+・・車両の最大耐久がなくなり、修理時に車を蹴っても大丈夫になったらしい。
+・・9055の上田さんが各所に不法侵入してDというスプレーを吹きまくる事件を起こし、餡ブレラのアジトに侵入しスタッシュから物を盗み、今は9055をクビになり餡ブレラの犬になり黒市民になったらしい。
+・・[[カイキ>>山田　カイキ]]さんが修理に来店。２ヶ月ぶりに修理をした。
+・・社長に[[彼氏>>緋赤　まい]]ができたらしい。
+・・大川さんがオーナーでピザ屋が再オープンするらしい。
+・・[[航空機ディーラー>>豆おじさんのエアークラフト]]に新社員として[[猫ノ宮　ひな]]さんが入ったと聞いた。
+・・カジノのラッキーホイールに気球が入っていると聞きみんなで回しに行ったが全員外れた。
+・・[[アヌギフ>>アヌギフ　白川]]さんと[[けんつ>>飯田　けんつ]]が白市民になったことを聞いた。
+・・西サントスというものが出来て、そこで[[豆やん>>豆　やん]]がアイドルになるらしい。
+・半年ぶりに起きたという[[エデンデン>>ジェルエル　エデンデン]]さんが来店。何をやっても上手くいかないらしい。
+・・エデンデンさんが信仰して欲しいとTwiXに呟いたところTwiX内で竹森さんとレスバし始めた。
+・[[緋赤　まい]]さんが来店。社長とペアルックなのとラブラブっぷりを見せてもらった。
+・[[丸井　まる]]さんが来店。平井さんの娘らしい。
+・[[葛城>>葛城　司]]さんが来店。葛城さんからもここ最近の情報を聞いた。
+・・9055は辞め、一斉解散したらしい個人医でワンオペで頑張っていると聞いた。
+・・犯罪者になった上田さんは今楽しく犯罪をしているらしい。
+・竹森さんにドライブに誘われ人質になっていた豆やんから連絡が来て社２ヶ月ぶりに運転をして迎えに行った。
+・豆やんからコンビニやガソスタを維持していると言われた。
+#endregion
+
+***03/18 &color(#F54738){400日目} 400日だったぁー
+#region(開く)
+閉じる
+・起きたら服装や髪型がおかしくなっていたため服屋に向かい普段着だけ作り直した。
+・JTSで須藤さんやサンライズさん、だん市長補佐さんを呼んで変更されたメカニックメニュー等を確認、歪み等の報告をした。
+・豆やんと社長に呼ばれ、豆やんビル前のガレージで400日記念に「Benefactor Surfer Custom」をプレゼントされた。
+・・トランクに社長手作りの社員を模したクッキーが入っていた。
+・豆やんと久しぶりに起きてきたという天王寺さんとカジノに行きラッキーホイールを回した。
+・社長からライアーステージを開催するため砂漠にある豆やんの物件の内装を大きなものに変更したいと言われ、天王寺さん含め４人で現地に向かった。
+・・豆やんの物件を売却し、大きな内装に入れ替えて社長に販売した。
+・・ガレージに停まっていたProtoを運転して移動していたところ事故って吹っ飛んでダウン、元難波登さん（伊豆院さん）が救助に来て詰められたが２ヶ月振りの運転ということで見逃してもらった。
+・・豆やんが西サントス用に物件が欲しいと言われて現地に向かったが、大きめのビルだったため即日販売は出来ず不動産内で審査をすることにした。
+#endregion
+
+***03/21 &color(#F54738){401日目} 401日
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***03/22 &color(#F54738){402日目} 402日
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***03/26 &color(#F54738){403日目} 403日
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***03/27 &color(#F54738){404日目} 404日
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***03/31 &color(#F54738){405日目} 405日 3月最後の日！今日は月曜空いてるらしい！ 
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+#endregion(開く)
+
+***４月
+#region(開く,open)
+閉じる
+
+***04/01 &color(#F54738){???日目} ???日 シャッフルされて今年はなんだ？ 
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+***04/03 &color(#F54738){406日目} 406日 早番隊！
+#region(開く)
+閉じる
+・エピソード募集中
+#endregion
+
+#endregion(開く)
+
+#endregion(開く)
+
+//
+
+*&font(25){&font(35px,#f0f8ff){ア}－カイブ}
+
+#region(2023年5月-8月)2023年5月-8月
+#table_style(head=center){配信日=right,Day=right}
+|~Day|~配信日|~配信タイトル|&font(#DA1725){&icon_fa(fa fa-youtube-play)}|h
+|1|05/26||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ロスサントスにやってきた>>https://youtu.be/HgO7GfT1bII]]|
+|2|05/27||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ヨーソロー３連発の日>>https://youtu.be/2L3pKudr6ek]]|
+|3|05/28||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}殺人が起こったらしい>>https://youtu.be/GHgKdD9qIqE]]|
+|4|05/29||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}原付免許をとろう！>>https://youtu.be/U2T_5qfLPjU]]|
+|5|05/30||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}初心者🔰たちで鉱石掘り>>https://youtu.be/wYI9ksh0TmY]]|
+|6|05/31|[[今日もぷらぷらゴミ拾い。居場所探し>>https://www.twitch.tv/videos/1833922269]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}タトゥーを入れてみたい>>https://youtu.be/fOaEAhdbcgw]]|
+|7|06/01|[[初心者じゃなくなりそうだけど相変わらずゴミ拾い。居場所探し>>https://www.twitch.tv/videos/1834756243]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}初心者🔰外しました>>https://youtu.be/9AA-ijPE16Q]]|
+|8|06/02|[[初心者🔰取りました。ゴミ拾いしながら居場所探し>>https://www.twitch.tv/videos/1835623599]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}バイトをする>>https://youtu.be/JlMnTWdK-wQ]]|
+|9|06/03|[[車を購入したからドライブしつつ、居場所探し>>https://www.twitch.tv/videos/1836535326]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}四天王（笑）>>https://youtu.be/TItRn8inX5Q]]|
+|10|06/04|[[やめられないゴミ漁り、多良里に居場所はあるのか>>https://www.twitch.tv/videos/1837434777]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}カジノ＆ゴミ拾い>>https://youtu.be/pMb7ifAkXus]]|
+|11|06/05|[[ゴミ漁り、ゴミ漁り>>https://www.twitch.tv/videos/1838278986]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}人間観察>>https://youtu.be/7GQyeyMrXo8]]|
+|12|06/06|[[お金が欲しい ①>>https://www.twitch.tv/videos/1839110296]] / [[②>>https://www.twitch.tv/videos/1839233050]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}前編お金と素材がほしい>>https://youtu.be/fO0CTmx_yuA]][[&font(#DA1725){&icon_fa(fa fa-youtube-play)}後編お金と素材がほしい>>https://youtu.be/UOkBJ06_w4M]]|
+|13|06/07|[[13日目の水曜日>>https://www.twitch.tv/videos/1839977978]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}初めての裁判傍聴>>https://youtu.be/XGcJOB_S0PU]]|
+|14|06/08|[[素材を集めたい>>https://www.twitch.tv/videos/1840829228]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}バイトをしよう>>https://youtu.be/-KwmW0ThcRw]]|
+|15|06/09|[[クラフトクラフト>>https://www.twitch.tv/videos/1841689142]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}めちゃ早い車>>https://youtu.be/wVDr-7Av8pI]]|
+|16|06/10|[[クラフト隠居>>https://www.twitch.tv/videos/1842586277]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}クラフト隠居>>https://youtu.be/wTdijCni69A]]|
+|17|06/11|[[素材がなくなったので集めます>>https://www.twitch.tv/videos/1843447506]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}素材がなくなったので集めます>>https://youtu.be/rPifiKSrwuA]]|
+|18|06/12|[[たらり、ひとり>>https://www.twitch.tv/videos/1844290591]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}たらり、ひとり>>https://youtu.be/u1eCvmKbKlo]]|
+|19|06/13|[[クラフトさせて>>https://www.twitch.tv/videos/1845105414]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}クラフトさせて>>https://youtu.be/0zaRCbcA1Ng]]|
+|20|06/14|[[20日経ちました>>https://www.twitch.tv/videos/1845954255]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}20日経ちました>>https://youtu.be/VoKGBJEiq8Q]]|
+|21|06/15|[[技術上げ>>https://www.twitch.tv/videos/1846813032]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}技術上げ>>https://youtu.be/9gdwhl4FUBs]]|
+|22|06/16|[[クラフト生活>>https://www.twitch.tv/videos/1847641049]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}クラフト生活>>https://youtu.be/Bi-5Zx-e7S0]]|
+|23|06/17|[[こつこつと>>https://www.twitch.tv/videos/1848505838]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}こつこつと>>https://youtu.be/U-UyeiYb7l4]]|
+|24|06/18|[[適材適所>>https://www.twitch.tv/videos/1849349414]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}適材適所>>https://youtu.be/3lmfYZXKRZU]]|
+|25|06/19|[[ノルマ>>https://www.twitch.tv/videos/1850146319]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ノルマ>>https://youtu.be/mpS06x9o17c]]|
+|26|06/20|[[いつも通り>>https://www.twitch.tv/videos/1850986030]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}いつも通り>>https://youtu.be/yl1GfhiNKW8]]|
+|27|06/21|[[安全第一>>https://www.twitch.tv/videos/1851837899]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}安全第一>>https://youtu.be/mGXvqji12-Q]]|
+|28|06/23|[[向上心>>https://www.twitch.tv/videos/1853575111]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}向上心>>https://youtu.be/Q4jbFHblWB8]]|
+|29|06/25|[[お休み>>https://www.twitch.tv/videos/1855319182]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お休み>>https://youtu.be/6UJxGUGWhgU]]|
+|30|06/27|[[ひとつき>>https://www.twitch.tv/videos/1857012531]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ひとつき>>https://youtu.be/hnX8qhzosyY]]|
+|31|06/28|[[下準備>>https://www.twitch.tv/videos/1857873735]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}下準備>>https://youtu.be/u7k0DwDXPrw]]|
+|32|06/29|[[どこにいっても人がいる ①>>https://www.twitch.tv/videos/1858733752]] / [[②>>https://www.twitch.tv/videos/1858789341]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}①どこにいっても人がいる>>https://youtu.be/OBKMl4EF9e0]][[&font(#DA1725){&icon_fa(fa fa-youtube-play)}②どこにいっても人がいる>>https://youtu.be/5qjkjjG7szI]]|
+|33|06/30|[[ちょっとだけ起きた>>https://www.twitch.tv/videos/1859723083]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ちょっとだけ起きた>>https://youtu.be/EuKGZUmbdX4]]|
+|34|07/01|[[素材を集めたい>>https://www.twitch.tv/videos/1860456597]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}素材を集めたい>>https://youtu.be/2WZ46iNS_Ww]]|
+|35|07/03|[[無限に素材がほしい>>https://www.twitch.tv/videos/1862131370]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}無限に素材がほしい>>https://youtu.be/DwIiTGl1gZE]]|
+|36|07/04|[[粛々と>>https://www.twitch.tv/videos/1862996803]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}粛々と>>https://youtu.be/Xtt0-CmrTsw]]|
+|37|07/05|[[できること>>https://www.twitch.tv/videos/1863837865]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}できること>>https://youtu.be/AanAGk7ozQ4]]|
+|38|07/06|[[多忙につき>>https://www.twitch.tv/videos/1864702462]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}多忙につき>>https://youtu.be/2xdhj_ZTP2c]]|
+|39|07/07|[[星に願いをかけて>>https://www.twitch.tv/videos/1865555190]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}星に願いをかけて>>https://youtu.be/brGDkS6aOgo]]|
+|40|07/08|[[Let's night out！>>https://www.twitch.tv/videos/1866431659]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}Let's night out！>>https://youtu.be/v9m1FwZc58g]]|
+|41|07/10|[[好奇心は捌けない問題>>https://www.twitch.tv/videos/1868136831]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}好奇心は捌けない問題>>https://youtu.be/LnnDpht09us]]|
+|42|07/11|[[段々>>https://www.twitch.tv/videos/1868987061]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}段々>>https://youtu.be/KAoAcBFBUDI]]|
+|43|07/12|[[数多の夜を越え>>https://www.twitch.tv/videos/1869851838]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}数多の夜を越え>>https://youtu.be/eCOYvXMk9mA]]|
+|44|07/13|[[まるで手術のように>>https://www.twitch.tv/videos/1870718272]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}まるで手術のように>>https://youtu.be/KYeGcz2WSFE]]|
+|45|07/15|[[闇と読めても>>https://www.twitch.tv/videos/1872455987]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}闇と読めても>>https://youtu.be/55EfLYZRsdI]]|
+|46|07/17|[[全て海のせい>>https://www.twitch.tv/videos/1874175048]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}全て海のせい>>https://youtu.be/IzfFXVlkeZw]]|
+|47|07/18|[[突き進むひかり>>https://www.twitch.tv/videos/1875027033]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}突き進むひかり>>https://youtu.be/4IxhCvayb2U]]|
+|48|07/20|[[自分のクロスを握りしめて>>https://www.twitch.tv/videos/1876800485]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}自分のクロスを握りしめて>>https://youtu.be/I6lc9YAfR24]]|
+|49|07/21|[[靴墨みたいに>>https://www.twitch.tv/videos/1877687012]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}靴墨みたいに>>https://youtu.be/jKPR0uEGYes]]|
+|50|07/22|[[逃げおおせても>>https://www.twitch.tv/videos/1878596439]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}逃げおおせても>>https://youtu.be/I0qIF3cW974]]|
+|51|07/23|[[位置を確かめて>>https://www.twitch.tv/videos/1879463680]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}位置を確かめて>>https://youtu.be/QXO-4LyvCG8]]|
+|52|07/24|[[いつの日にか>>https://www.twitch.tv/videos/1880304312]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}いつの日にか>>https://youtu.be/GivFhWOOzmc]]|
+|53|07/25|[[この世は大きなつづら>>https://www.twitch.tv/videos/1881161814]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}この世は大きなつづら>>https://youtu.be/AwzqeK6lTHA]]|
+|54|07/27|[[あなたは優しく狡く悪い人>>https://www.twitch.tv/videos/1882927262]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}あなたは優しく狡く悪い人>>https://youtu.be/qI2op6ho6dg]]|
+|55|07/28|[[占えイルカ>>https://www.twitch.tv/videos/1883788106]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}占えイルカ>>https://youtu.be/4SSU8-YjIA0]]|
+|56|07/29|[[健康第一>>https://www.twitch.tv/videos/1884811778]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}健康第一>>https://youtu.be/Gr4Jk4_Z_-U]]|
+|57|07/30|[[届かなくてもいいから>>https://www.twitch.tv/videos/1885509542]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}届かなくてもいいから>>https://youtu.be/JKPXHhsOvuc]]|
+|58|07/31|[[いつしかくたばるその前に>>https://www.twitch.tv/videos/1886353199]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}いつしかくたばるその前に>>https://youtu.be/P_7OmfUA3D8]]|
+|59|08/01|[[またいつか迷っても>>https://www.twitch.tv/videos/1887203027]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}またいつか迷っても>>https://youtu.be/XbJfkew0CVo]]|
+|60|08/02|[[もっと上手に話せたら>>https://www.twitch.tv/videos/1888061406]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}もっと上手に話せたら>>https://youtu.be/vNf9S_VUu_8]]|
+|61|08/03|[[やってみないと判らない>>https://www.twitch.tv/videos/1888924954]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}やってみないと判らない>>https://youtu.be/5BuHIiY24D4]]|
+|62|08/05|[[きみはどうしたい？>>https://www.twitch.tv/videos/1890678370]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}きみはどうしたい？>>https://youtu.be/1Pss6oKEKlw]]|
+|63|08/06|[[ガラじゃないから>>https://www.twitch.tv/videos/1891558732]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ガラじゃないから>>https://youtu.be/WKZ3GemcwUY]]|
+|64|08/07|[[腕が鳴ります>>https://www.twitch.tv/videos/1892400019]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}腕が鳴ります>>https://youtu.be/m3BgTKZzkqM]]|
+|65|08/09|[[青春の１ページに>>https://www.twitch.tv/videos/1894064329]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}青春の１ページに>>https://youtu.be/Wl6fg8Yr_S4]]|
+|66|08/10|[[誰かの声がかすかに聞こえた>>https://www.twitch.tv/videos/1894938785]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}誰かの声がかすかに聞こえた>>https://youtu.be/ac8omCoYXTU]]|
+|67|08/11|[[崖の上で花束抱いて ①>>https://www.twitch.tv/videos/1895796168]] / [[②>>https://www.twitch.tv/videos/1895810575]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}崖の上で花束抱いて>>https://youtu.be/b_WMh_C3dpo]]|
+|68|08/12||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}星は砕け散る>>https://youtu.be/HxInwggbkWM]]|
+|69|08/14||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}言う以外はなにも知らぬ>>https://youtu.be/RtngSjgHzUw]]|
+|70|08/15||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}持て余す心>>https://youtu.be/LLhQwEkgxMw]]|
+|71|08/17||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}きみに>>https://youtu.be/NFsz-UkRsK8]]|
+|72|08/18||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ジャムのように掻き混ざり>>https://youtu.be/_mOcS66MGm4]]|
+|73|08/19||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}稼いで使って  @rizzriz>>https://youtu.be/ne3InU1eiKM]]|
+|74|08/20||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}眺めていたいの>>https://youtu.be/RpDTahWtka0]]|
+|75|08/21||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}他力本願>>https://youtu.be/4EZljEAOtYU]]|
+|76|08/22||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お金はかみ>>https://youtu.be/El2rYzDvbvE]]|
+|77||||
+|78|08/25||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}こんな中で>>https://youtu.be/cF6-Gd9QAhg]]|
+|79|08/26||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ずっとずっと>>https://youtu.be/-Lt-Hf2DqdI]]|
+|80|08/27||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}キラキラ飛び散る夜には>>https://youtu.be/Mf_aZrcdLyc]]|
+|81|08/28||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}走る人々>>https://youtu.be/xV28I48_pBM]]|
+|82|08/29||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}もう会えないくせに>>https://youtu.be/VpCABtjjc54]]|
+|83|08/31||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ばらばら薔薇色>>https://youtu.be/XLCxP4V5tbs]]|
+#endregion
+
+#region(2023年9月-)2023年9月-
+#table_style(head=center){配信日=right,Day=right}
+|~配信日|~配信タイトル&font(#DA1725){&icon_fa(fa fa-youtube-play)}|h
+|09/01|[[84日目 声を殺すから>>https://youtu.be/pFIMEjhnJ14]]|
+|09/02|[[85日目 仲良くしようよ>>https://youtu.be/iIHXWr_ICvU]]|
+|09/03|[[86日目 叶わぬ夢は>>https://youtu.be/Ko31wENoMe4]]|
+|09/04|[[87日目 あたしが祈ることは>>https://youtu.be/5sedTLoVS8s]]|
+|09/05|[[88日目 輝く星は>>https://youtu.be/M7B0V5h1orA]]|
+|09/06|[[89日目① この正体を誰よりも美しく間違えてよ>>https://youtu.be/75xxdYmyCCY]]|
+|09/06|[[89日目② この正体を誰よりも美しく間違えてよ>>https://youtu.be/cAl1q6MU-qM]]|
+|09/07|[[90日目 心は誰も計れない>>https://youtu.be/vp-5FWDGnTk]]|
+|09/09|[[91日目 心中デイト>>https://youtu.be/Vifzc-md4hs]]|
+|09/10|[[92日目 生きている花>>https://youtu.be/eXHmJlJQcXY]]|
+|09/11|[[93日目 この戦いが終わるまでは>>https://youtu.be/UO6D06MEnCU]]|
+|09/12|[[94日目② 忘れられたとき消えるこの命>>https://youtu.be/0iB3WNQGcdg]]|
+|09/12|[[94日目① 忘れられたとき消えるこの命>>https://youtu.be/DZ-efDsrjsQ]]|
+|09/13|[[95日目 どれどれ>>https://youtu.be/M5Hjh6L4Rgg]]|
+|09/15|[[96日目 間違い探し>>https://youtu.be/eR4PuDed4wQ]]|
+|09/17|[[97日目 鏡を見つめ>>https://youtu.be/rggTh79G1i0]]|
+|09/18|[[98日目 星たちのように>>https://youtu.be/coY8F4nIF88]]|
+|09/19|[[99日目 間違いも答えもない>>https://youtu.be/l5KXck_PR_A]]|
+|09/20|[[100日目 ３ケタになりました！感謝>>https://youtu.be/Voj27-_Qwh0]]|
+|09/21|[[101日目 北へ>>https://youtu.be/nPrLCoPJ0Y0]]|
+|09/22|[[102日目>>https://youtu.be/2RC3UAdlrn0]]|
+|09/24|[[104日目>>https://youtu.be/hC9j_WlaB3Q]]|
+|09/25|[[105日目>>https://youtu.be/_aQP4B6fEDc]]|
+|09/26|[[106日目①船とヘリ>>https://youtu.be/aoCeW8pZ8l8]]|
+|09/26|[[106日目②船とヘリ>>https://youtu.be/Gv-_Hh8UXEo]]|
+|09/27|[[107日目>>https://youtu.be/k4BKi7_bKRM]]|
+|09/29|[[108日目>>https://youtu.be/-Hbgr5YN-ZU]]|
+|09/30|[[109日目>>https://youtu.be/DdlClaYkirY]]|
+|10/01|[[110日目>>https://youtu.be/gvbKYUXn0Fc]]|
+|10/03|[[111日目① -出でよ舞えよ->>https://youtu.be/NZ-_cDWvSic]]|
+|10/03|[[111日目② -出でよ舞えよ->>https://youtu.be/eswX9iKFY44]]|
+|10/04|[[112日目 >>https://youtu.be/GeMstwKftgU]]|
+|10/05|[[113日目① >>https://youtu.be/H8FPCgOwdY0]]|
+|10/05|[[113日目②>>https://youtu.be/_XCLOFFMJoA]]|
+|10/06|[[114日目 >>https://youtu.be/QFyXU0XDtsM]]|
+|10/08|[[115日目 >>https://youtu.be/9swY-bC9U7Y]]|
+|10/09|[[116日目 >>https://youtu.be/bdVmIXGd7N8]]|
+|10/10|[[117日目 このまま>>https://youtu.be/9h495cr1HR0]]|
+|10/12|[[118日目 >>https://youtu.be/aPGZBrWFFUA]]|
+|10/13|[[119日目 >>https://youtu.be/MTK7Wknwmkg]]|
+#endregion
+
+* &font(25){&font(35px,#f0f8ff){Youtubeア－カイブ}#120～}
+***2023年
+#table_style(head=#f0f8ff:#000000){配信日=right}
+|~配信日|~配信タイトル|h
+|m/d|[[タイトル>>配信URL]]|
+//編集用↓
+//|m/d|[[タイトル>>配信URL]]|
+
+***2024年
+#table_style(head=#f0f8ff:#000000){配信日=right}
+|~配信日|~配信タイトル|h
+|m/d|[[タイトル>>配信URL]]|
+//編集用↓
+//|m/d|[[タイトル>>配信URL]]|
+
+***2025年
+#table_style(head=#f0f8ff:#000000){配信日=right}
+|~配信日|~配信タイトル|h
+|m/d|[[タイトル>>配信URL]]|
+//編集用↓
+//|m/d|[[タイトル>>配信URL]]|
+*&font(25){&font(35px,#f0f8ff){ア}－カイブ[Twitch] 2025(3/6 #399以降) -}
+***2025年
+#region(開く,close)
+#table_style(head=center:#f0f8ff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|3/6|399|[[【 #ストグラ 】399日 ２か月ぶりの街【多良里ずぅ】>>https://www.twitch.tv/rizzriz/schedule?vodID=2398462266]]|25年1月以来の起床回。|
+|3/18|400|[[【 #ストグラ 】400日 400日だったぁー【多良里ずぅ】>>https://www.twitch.tv/rizzriz/schedule?vodID=2408800908]]||
+|3/21|401|[[【 #ストグラ 】401日 【多良里ずぅ】>>https://www.twitch.tv/rizzriz/schedule?vodID=2411308116]]||
+|3/22|402|[[【 #ストグラ 】402日 【多良里ずぅ】>>https://www.twitch.tv/rizzriz/schedule?vodID=2412197700]]||
+|3/26|403|[[【 #ストグラ 】403日 【多良里ずぅ】>>https://www.twitch.tv/rizzriz/schedule?vodID=2415680311]]||
+|3/27|404|[[調整中>>配信URL]]||
+//|m/d|40*|[[配信タイトル>>配信URL]]||
+//|m/d|40*|[[配信タイトル>>配信URL]]||
+//|m/d|40*|[[配信タイトル>>配信URL]]||
+//|m/d|40*|[[配信タイトル>>配信URL]]||
+//|m/d|40*|[[配信タイトル>>配信URL]]||
+|※4/19|-|&bold(){(留意)以降より100時間の保存制限が掛かるようになる。}|&bold(){※ダイジェストとアップロード合計での適用}|
+//|m/d|41*|[[配信タイトル>>配信URL]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+----
+***下層ページ一覧
+
+#ls_line(多良里　ずぅ, sep=/)

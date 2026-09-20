@@ -1,0 +1,109 @@
+//――――――画像の貼り付けについて―――――――――
+//★オリジナルの画像サイズは300ｘ600で統一しています
+//★車両一覧に表示するときは100ｘ200サイズにして、画像をクリックすると新しいタブにオリジナルの画像が表示されます
+//★画像を貼り付けるときは、下記のコードをコピペしてください
+//★画像貼り付けのコード
+//&blankimg(画像ファイル名,x=120,y=240)
+//　↑　　　　　　　　　　　　↑
+//　｜　　　　　　　　　　120ｘ240のサイズでこのページに表示する
+//新しいタブを開き、そこにオリジナルサイズの画像を表示する
+//
+//●画像はコソコソ追加していく予定です（2/16）
+//
+//■■■■■■■■　BJローン　■■■■■■■■
+&aname(BJローン,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&size(16){&color(#ffffef){&space(2)&icon_fa(fa fa-dollar-sign)&space(2)&bold(){BJローン}}}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~❌BJローン&font(10){〔The 1st〕}|~BJローン&font(10){〔The 2nd〕}|h
+|CENTER:&blankimg(12.BJローン_a4.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(12.BJローン_b2.png,x=120,y=240)|
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(BJローン〆)
+
+//■■■■■■■■　ALLIN　■■■■■■■■
+&aname(ALLIN,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&size(16){&color(#ffffef){&space()&space()&icon_fa(fa fa-dice)&space()&space()&bold(){ALLIN}}}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~All in|~se|~大型|h
+|CENTER:&blankimg(02.Allin_a.png,x=120,y=240)|CENTER:&blankimg(04.se_b.png,x=120,y=240)|CENTER:&blankimg(07.大型_d.png,x=120,y=240)|
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(ALLIN〆)
+
+//■■■■■■■■　私服　■■■■■■■■
+&aname(私服,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&size(16){&color(#ffffef){&space(2)&icon_fa(fa fa-shirt)&space(2)&bold(){私服}}}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~❌私服|~私服2|~shuryou|~夏|~どれす|h
+|CENTER:&blankimg(01.私服.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(08.私服2_c.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(17.shuryou_b.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(18.夏.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(19.どれす.png,x=120,y=240)|
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(私服〆)
+
+//■■■■■■■■　変装　■■■■■■■■
+&aname(変装,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&size(16){&color(#ffffef){&space(2)&icon_fa(fa fa-mask)&space(2)&bold(){変装}}}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~デビルリ|~トナカイ|~フォーチュン安村|~デフォルメ|~黒の剣士|h
+|CENTER:&blankimg(03.デビルリ_b.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(13.トナカイ.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(14.フォーチュン安村_b.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(15.デフォルメ.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(23.黒の剣士.png,x=120,y=240)|
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(変装〆)
+
+//■■■■■■■■　仕事着　■■■■■■■■
+#co(){※以下非表示中↓↓↓
+&aname(仕事着,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&size(16){&color(#ffffef){&space(2)&icon_fa(fa fa-pills)&space(2)&bold(){仕事着}}}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~---|~---|~---|~---|~---|h
+|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(仕事着〆)
+↑↑↑ここまで非表示中}
+//
+//■■■■■■■■　その他　■■■■■■■■
+&aname(その他2,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&size(16){&color(#ffffef){&space(2)&icon_fa(fa fa-circle-exclamation)&space(2)&bold(){その他}}}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~るんるん|~marunn|~犬ルリ|~南署|h
+|CENTER:MIDDLE:No Image|CENTER:MIDDLE:&blankimg(06.marunn.png,x=120,y=240)|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|
+#table_zebra(#fff,#f4f4f4,#9b233)
+
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~ぞく|~kazino|~囚人|~ふぇす|~地下労働|h
+|CENTER:MIDDLE:No Image|CENTER:MIDDLE:&blankimg(16.kazino.png,x=120,y=240)&br()&font(8pt){カジノ体験}|CENTER:MIDDLE:&blankimg(20.囚人.png,x=120,y=240)&br()&font(8pt){南署2周年記念 逃亡中}|CENTER:MIDDLE:&blankimg(21.ふぇす_a.png,x=120,y=240)&br()&font(8pt){STGR市制３周年記念Ｔ}|CENTER:MIDDLE:&blankimg(22.地下労働_b.png,x=120,y=240)&br()&font(8pt){激闘!!カジノ賭博黙示録}|
+#table_zebra(#fff,#f4f4f4,#9b233)
+
+&font(#f9b233){&bold(){●SPD2024}}
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~私服|~警察|~SWAT|h
+|CENTER:MIDDLE:&blankimg(SPD24 私服_a.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(SPD24 警察_a.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(SPD24 SWAT_b.png,x=120,y=240)|
+#table_zebra(#fff,#f4f4f4,#9b233)
+
+&font(#f9b233){&bold(){●SPD2025}}
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~大型|~大型&font(10){〔Ver.個人医〕}|~個人医|~心無き|~SWAT|h
+|CENTER:MIDDLE:&blankimg(SPD25 07.大型_a.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(SPD25 10.個人医_b.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(SPD25 10.個人医_a.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(SPD25 11.心無き_a.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(SPD25 12.SWAT_b.png,x=120,y=240)|
+#table_zebra(#fff,#f4f4f4,#9b233)
+
+&font(#f9b233){&bold(){●ストグラFV旅行}}
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~個人医|~戦闘員|~私服|~チヨアン|~yaku○a|~白衣|h
+|CENTER:BGCOLOR(#f4f4f4):&blankimg(FV01.個人医.png,x=120,y=240)|CENTER:&blankimg(FV02.戦闘服.png,x=120,y=240)|CENTER:&blankimg(FV03.私服.png,x=120,y=240)|CENTER:MIDDLE:&blankimg(FV04.チヨアン.png,x=120,y=240)|CENTER:&blankimg(FV05.yaku○a.png,x=120,y=240)|CENTER:&blankimg(FV06.白衣.png,x=120,y=240)|
+
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(その他〆)

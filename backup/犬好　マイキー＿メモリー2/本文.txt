@@ -1,0 +1,70 @@
+#div(width=350px,bgcolor=#FFEAFA){&font(16px,b,#666666){&space()SEASON2}}
+
+#region(仕事一覧🚕 ※ネタバレ注意)&bold(){仕事一覧🚕}
+#areaedit()
+#table_style(head=#f5f5f5)
+|>|>|LEFT:&bold(){[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]}|h
+|2025/12/19|Rank3 Sales|[[我孫子清十郎>我孫子　清十郎]]のコネで会社のナンバー2として入社する。|
+|2025/12/24|Rank4 Manager|社長不在時の雇用業務のため、[[市長>山下　ひろし]]にランクを上げてもらった。|
+|>|>|LEFT:&bold(){[[わんも〜Cafe]]}|h
+|2026/01/11|Rank1 Employee|転送前に勤めていた[[カレー屋>KoKo七番屋]]の店長[[牧田ここな>牧田　ここな]]の誘いを受けて就職。|
+|>|>|LEFT:&bold(){[[闇医者]]}|h
+|2025/12/31|Rank4 Boss|[[？？？>無馬　かな]]に射殺され、彼のアジトまで拉致される。&br()アジトに居た[[？？？の部下>Back　Alley]]から、元[[個人医]]で医療の知識があるマイキーに闇医者として働いて欲しいとBossに任命される。|
+#areaedit(end)
+#endregion
+//
+//#region(取得免許🪪)&b(){取得免許🪪}
+//#areaedit()
+//#size(90%){#table_style(head=#FFEAFA,hover=#FFF7FC)
+//#table_filter(){種別=show,取得日=show,交付者=show,備考=hide}
+//|~種別|~取得日|~交付者|~備考|h
+//|||||
+//#table_sorter{even=#f7f7f7,odd=#fff}
+//#table_autoincrement(){label=No.}}
+//#areaedit(end)
+//#endregion
+
+#region(ファッション🐼)&b(){ファッション🐼}
+#areaedit()
+#table_color(head=#FFEAFA:#666666:center)
+|~&blankimg(私服.jpeg,x=77,y=167)&br()私服|~&blankimg(パジャマ.jpeg,x=77,y=167)&br()パジャマ|~&blankimg(パンダ.jpeg,x=77,y=167)&br()パンダ|~&blankimg(ニット.jpeg,x=77,y=167)&br()ニット|~&blankimg(黒シャツ.jpeg,x=77,y=167)&br()黒シャツ|~&blankimg(皮ジャン.jpeg,x=77,y=167)&br()皮ジャン|~&blankimg(チャイナ服.jpeg,x=77,y=167)&br()チャイナ服|h
+|~&blankimg(着物.jpeg,x=77,y=167)&br()着物|~&blankimg(ワンモーcafe牛.jpeg,x=77,y=167)&br()&small(){ワンモーcafe　牛}|~&blankimg(全身赤.jpeg,x=77,y=167)&br()全身赤|~&blankimg(ワンモーcafe犬.jpeg,x=77,y=167)&br()&small(){ワンモーcafe犬}|~&blankimg(わんも〜cafe犬.jpeg,x=77,y=167)&br()&small(){わんも〜cafe犬}|~&blankimg(変装.jpeg,x=77,y=167)&br()変装|~&blankimg(スーツ.jpeg,x=77,y=167)&br()スーツ|h
+#areaedit(end)
+#endregion
+
+#region(タトゥー🧸)&b(){タトゥー🧸}
+#areaedit()
+#table_color(head=#FFEAFA:#666666:center)
+|~&blankimg(spade.jpeg,x=81,y=144)&br()&small(){【HEAD】}&br()スペード|~&blankimg(teddybear.jpeg,x=81,y=144)&br()&small(){【HEAD】}&br()テディベア|~&blankimg(https://img.atwiki.jp/streamergta5/attach/3199/25255/greenleaf.jpeg,x=81,y=144)&br()&small(){【HEAD】}&br()グリーン・リーフ|~&blankimg(https://img.atwiki.jp/streamergta5/attach/2860/21820/tattoo_blackjack.jpeg,x=81,y=144)&br()&small(){【HEAD】}&br()Black Jack||h
+|~&blankimg(https://img.atwiki.jp/streamergta5/attach/2860/21821/tattoo_radio.jpeg,x=81,y=144)&br()&small(){【RIGHT ARM】}&br()StillμSlipping|~&blankimg(smiley.jpeg,x=81,y=144)&br()&small(){【RIGHT ARM】}&br()スマイリー|~&blankimg(https://img.atwiki.jp/streamergta5/attach/2860/21819/tattoo_note.jpeg,x=81,y=144)&br()&small(){【BODY】}&br()サメのヒレ|~&blankimg(https://img.atwiki.jp/streamergta5/attach/2860/21819/tattoo_note.jpeg,x=81,y=144)&br()&small(){【BODY】}&br()スケートボード|~&blankimg(https://img.atwiki.jp/streamergta5/attach/2860/21819/tattoo_note.jpeg,x=81,y=144)&br()&small(){【BODY】}&br()紙飛行機|h
+#areaedit(end)
+#endregion
+
+#region(所有車両🛵)&b(){所有車両🛵}
+#areaedit()
+#size(90%){#table_style(head=#FFEAFA,hover=#FFF7FC)
+#table_filter(){名前=show,種類=hide,購入日=hide,ナンバー=hide,備考=show}
+|~名前|CENTER:~種類|~購入日|~ナンバー|~備考|h
+|&ruby(ぺがっし ふぁぎお すぽーつ){[[Pegassi Faggio Sport>>https://w.atwiki.jp/gtav/pages/1657.html]]}&small(){（バイク）}|CENTER:車|2026/01/09|2EY30KIH|2人乗りのスクーター。タクシー依頼に向かうためにテキトーに車屋で購入した。&br()車両の代金はタクシーを呼んだ客に請求し、客の名前から取って[[ボイラ>ボイラ　テンガリン]]号と呼んでいる。&co(){&br()💥ダウン回数：1回}|
+|&ruby(でぃんか ぶりすた こんぱくと){[[Dinka Blista Compact>>https://w.atwiki.jp/gtav/pages/1295.html]]}&small(){（スポーツカー）}|CENTER:車|2026/01/23|1EI7J18K|2人乗り。&co(){&br()💥ダウン回数：1回}|
+|&ruby(あにす ZR350){[[Annis ZR350>>https://w.atwiki.jp/gtav/pages/2693.html]]}&small(){（スポーツカー）}|CENTER:車|2026/03/14|W98X2CYZ|2人乗り。移動用に買った速い車。&co(){&br()💥ダウン回数：1回}|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#table_autoincrement(){label=No.}}
+#areaedit(end)
+#endregion
+
+#region(ダウン記録💥)&b(){ダウン記録💥}
+#areaedit()
+#size(90%){#table_style(head=#FFEAFA,hover=#FFF7FC)
+#table_filter(){ダウン日=show,原因=hide,備考=show}
+|~ダウン日|~原因|~備考|h
+|12/28|銃撃|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/KathishSolidGrassEleGiggle-GsSSFY8Q0r59GLDS]][[？？？>無馬　かな]]に銃で撃たれてダウンする。|
+|01/01|歪み|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/ConsiderateSmoggyOrcaSmoocherZ-86K08s9gE5v8WWnR]]シートベルトを外すと車外に射出される歪みでダウンする。|
+|01/02|事故|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/MiniatureRoughToothHoneyBadger-7cxw2_3vOaZ6feA9]]殴り合う[[イロハ>イナ　イロハ]]、[[れりあ>聖母　れりあ]]の仲裁に入り、殴られてダウンする。|
+|01/10|歪み|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/CalmSparklingGoblinDuDudu-A4X6ScVf2Ua987oV]]車外に射出される歪みでダウンする。|
+|03/19|餓死|酔って離席中、空腹に気づかずダウンする。|
+|03/26|出血|カジノの格闘技イベントで、対戦相手の[[清十郎>我孫子　清十郎]]に殴られた際の出血でダウンする。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#table_autoincrement(){label=No.}}
+#areaedit(end)
+#endregion

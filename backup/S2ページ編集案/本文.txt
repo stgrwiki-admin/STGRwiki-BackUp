@@ -1,0 +1,691 @@
+***【管理人からのおしらせ（2025/12/19抜粋）】
+管理陣での協議の結果、ストグラSeason2については新ページを作成したり新wikiを作成したりはせず、
+既存のページに情報を集約する形式に統一することとなりました。
+ただし、Season1の情報とSeason2の&u(){&bold(){情報が区別できるように編集していただければと思います}}。
+編集例については当ページ「S2ページ編集案」をご参照ください。
+また、Season2で観測されたキャラクターについては、
+&u(){既存キャラ、新規キャラに関わらず、&bold(){「season2」のタグ}をつけていただくようお願いいたします。}
+疑問点等ございましたら編集相談所にてご質問ください。
+
+***【編集相談所での回答（2026/01/07抜粋）】
+ストグラSeason2における、サーバールール、憲法・法律の取り扱いに関する周知をさせていただきます。&br()[[サーバールール]]に記載されている通り、ストグラのサーバー内ルールは基本的に視聴者（観測者）向けに公開されておらず、&br()視聴者が触れることも禁止されています。当Wikiもそれに準じた記事作成方針を採っております。&br()また、Season2での新要素「憲法・法律」は、[[サーバールール]]と同様の取り扱いとします。&br()今後、ルール及び憲法・法律を明文化する記載を確認した場合、当該記載を削除し、管理人からの通知を行います。&br()&br()◯条文の全文や要件定義、詳細を一覧にまとめる行為はNGです。&br()◯ただし、裁判記録の様に性質上法律の内容に触れずに記載することが困難な場合、条文番号、罪名等の必要最小限度において記載することは可とします。&br()(例:｢本件では刑法第1条に抵触することから〜｣、｢被告人には殺人罪の嫌疑がかけられ〜｣)その際、あくまでも事件当時のものであり、現行法とは限らないという点を必ず明示するようにしてください。&br()&br()視聴者の指示・批判コメントによってプレイヤーの方々のRPの幅を狭めることのないよう、ご協力をお願いいたします。&br()(参考:[[公式Xアカウントからのアナウンス >https://x.com/STGR_RolePlay/status/1644628638778953728?s=20 ]])  - 管理人K (2026-01-07 20:52:21)
+
+
+編集相談所などで出た傾向をまとめてみます
+#table_style(hover=#ffffeb){}
+|~ページ名等|~S1|~S2|~S共通|~説明|リンク|h
+|参加者一覧|-|-|○|意見募集後に、12/24にレイアウト変更|[[参加者一覧]]|
+|参加者一覧のバックアップ|○|-|-|バックアップとしてレイアウト変更前の状態|[[参加者一覧（season1）]]|
+|職業・施設一覧（Season1）|○|-|-|season1の情報を記載する|[[職業・施設一覧]]|
+|職業・施設一覧（Season2）|-|○|-|season2の情報を記載する|[[職業・施設一覧（Season2）]]|
+|ギャング|○|-|-|season1の情報を記載する|[[ギャング]]|
+|ギャング（Season2）|-|○|-|season2の情報を記載する|[[ギャング（Season2）]]|
+|S1で付与したタグ|○|-|-|S1のタグは継続|-|
+|S2から付与するタグ|-|○|-|S2からの所属を区別し、わかりやすくする為に、&br()S2からのタグは「末尾にS2をつける」ことを提案する&br()「例：ロスサントス警察、ロスサントス警察S2」|-|
+|「season2」のタグ|-|-|○|Season2で観測されたキャラクターはすべて付与する|-|
+|S2で設立した会社、組織|-|○|○|経営者、社名が新たになった場合は新規ページにする&br()S1の組織に含める整理にする場合は&br()ページ読み込み(include)などを用いることを提案する|-|
+#table_sorter(){head=#e6e6fa,even=white}
+
+編集例の中で、使い方がわからないプラグイン（ region()など）がありましたら、
+[[ページ作成と編集ガイドライン]]を[[SandBox]]のTipsをご参照ください
+
+>本ページはSeason2移行に伴う編集上で生じうる争点に対して編集例を挙げているものです。&br()様々なページから引用しているため、体裁の崩れ、エラー等が出ていますが、&br()実際のページ編集の際には個々のページの事情に合わせて適宜調整してください。
+
+■よく使用されるプラグイン
+#div(width=200px,bgcolor=#c8c8fa){&size(17){&font(b,#FFFFFF){　SEASON 1}}}
+&font(15px,#35618C){&icon_fa(fa fa-house)}&bold(){物件}
+#region(開く)
+#table_filter(){購入日=show,番地=show,用途=show,内装=hide,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,購入日=right}
+|~購入日|~番地|~用途|~内装|~備考|h
+|2026/01/xx|xxxx|自宅||アジト|
+#endregion(物件season1)
+
+#div(width=200px,bgcolor=#c8c8fa){&size(17){&font(b,#FFFFFF){　SEASON 2}}}
+&font(15px,#35618C){&icon_fa(fa fa-house)}&bold(){物件}
+#region(開く)
+#table_filter(){購入日=show,番地=show,用途=show,内装=hide,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,購入日=right}
+|~購入日|~番地|~用途|~内装|~備考|h
+|2026/01/xx|xxxx|自宅||アジト|
+#endregion(物件season2)
+
+■画像ファイルはページごとに登録されているため、他のページに転記した場合、下記のようなエラーメッセージが表示されます。&br()その為、転記した先のページに再度アップロードをお願いします。&br()なお、詳細については[[ページ作成と編集ガイドライン]]、[[編集相談所]]をご参照ください
+#slide_img(auto=3,width=350,height=230,position=center){山下ひろし_正装.jpeg,山下ひろし_正面.jpeg,山下ひろし_市長室.jpeg,市長おんでゅーてぃー.jpg}
+
+
+■1ページの文字数制限について、1ページに3000行、15万文字程度が上限と言われております。&br()見やすさ、管理のしやすさで子ページを作成し、ページを読み込む形（include）をご利用ください。
+
+&bold(){・子ページの作成に慣れていない場合、不安なことが多いかと思います。&br()下記のページに手順を写真付きでまとめました。ご参考になれば幸いです。}
+→→→&u(){[[階層構造を持ったページ(子ページ)の作成方法]]}
+
+//#center(){&bold(){「私は何処にでもいて何処にもいない」}}
+//#center(){&bold(){「この街で一番偉いからな」}}
+
+・キャラクターの基礎情報について、season1とseason2にわたって参加している場合の編集例①、②となります
+&color(red){&b(){編集例①：下の例のように表を横に広げてSeason1の情報とSeason2の情報を区別して記述する}}
+#table_filter(){Season1=hide,Season2=show}
+#table_color(#009BDF)
+|~&color(#ffffff){シーズン}|~&color(#ffffff){&icon_fa(fa fa-calendar)}|BGCOLOR(#4682B4):CENTER:&color(#ffffff){&bold(){Season1}}|BGCOLOR(#4682B4):CENTER:&color(#ffffff){&bold(){Season2}}|h
+|~&color(#ffffff){名前}|~&color(#ffffff){&icon_fa(fa fa-user)}|>|&ruby(やました){山下}　ひろし|
+|~&color(#ffffff){出身地}|~&color(#ffffff){&icon_fa(fa fa-location-dot)}|>|日本（東京）|
+|~&color(#ffffff){誕生日}|~&color(#ffffff){&icon_fa(fa fa-cake-candles)}|>|1994年1月11日 (&COUNTUP(1994/01/11,Y)歳)|
+|~&color(#ffffff){職業}|~&color(#ffffff){&icon_fa(fa fa-university)}|&icon_fa(fa-solid fa-crown)&bold(){第4代ロスサントス[[市長]]}&small(){(2025/07/02〜)}&br()&icon_fa(fa fa-user-slash)&small(){&openclose2(show=過去の職業){&nbsp(br,7)&icon_fa(fa-solid fa-crown)&bold(){初代ロスサントス[[市長]]} (2022/08/22〜2025/03/11)&nbsp(br,7)&icon_fa(fa-solid fa-shield-halved)警察官【[[ロスサントス警察(SGPD)>ロスサントス警察]]】Grade:0 Recruit(巡査)(2025/03/11~04/07)&nbsp(br,7)&icon_fa(fa-solid fa-heart-pulse)救急隊【[[ロスサントス救急救命隊]]】Grade:0 Recruit(新人)(2025/04/07~06/12)&nbsp(br,7)&icon_fa(fa fa-user-secret)ギャング【[[Trickster]]】構成員 (2025/06/15～08/16)}}|&icon_fa(fa-solid fa-crown)&bold(){第4代ロスサントス[[市長]]}&small(){(2025/12/19〜)}|
+|~&color(#ffffff){TwiX}|~&color(#ffffff){&icon_fa(fa fa-crow)}|&s(){@MrShicho}&br()@ichibanerai|@ichibanerai2nd|
+|~&color(#ffffff){レーサー名}|~&color(#ffffff){&icon_fa(fas fa-car)}|登別のクマ|登別のクマ2nd|
+|~&color(#ffffff){電話番号}|~&color(#ffffff){&icon_fa(fas fa-phone)}|(153)921-1378|(123)456-7890|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o)|>|しょぼすけ|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/shobolinco?s=21&t=-8YIYpZ2PXN8UP4X9hk8Zw]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/shobosuke]]|
+|BGCOLOR(#eee):~動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video-camera fa-fw)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@ShoboSuke/videos]]|
+
+&color(red){&b(){編集例②：下の例のようにopencloseでSeason1の職業等の情報を格納してSeason2での情報を新しく記述する}}
+#region(集例②　１つの表にまとめる編,close)
+#table_color(#009BDF)
+
+|~&color(#ffffff){名前}|~&color(#ffffff){&icon_fa(fa fa-user)}|&ruby(やました){山下}　ひろし|
+|~&color(#ffffff){出身地}|~&color(#ffffff){&icon_fa(fa fa-location-dot)}|日本（東京）|
+|~&color(#ffffff){誕生日}|~&color(#ffffff){&icon_fa(fa fa-cake-candles)}|1994年1月11日 (&COUNTUP(1994/01/11,Y)歳)|
+|~&color(#ffffff){職業}|~&color(#ffffff){&icon_fa(fa fa-university)}|&icon_fa(fa fa-user-slash)&small(){&openclose2(show=過去の職業（Season1）){&nbsp(br,7)&icon_fa(fa-solid fa-crown)&bold(){初代ロスサントス[[市長]]} (2022/08/22〜2025/03/11)&nbsp(br,7)&icon_fa(fa-solid fa-shield-halved)警察官【[[ロスサントス警察(SGPD)>ロスサントス警察]]】Grade:0 Recruit(巡査)(2025/03/11~04/07)&nbsp(br,7)&icon_fa(fa-solid fa-heart-pulse)救急隊【[[ロスサントス救急救命隊]]】Grade:0 Recruit(新人)(2025/04/07~06/12)&nbsp(br,7)&icon_fa(fa fa-user-secret)ギャング【[[Trickster]]】構成員 (2025/06/15～08/16)&nbsp(br,7)&icon_fa(fa-solid fa-crown)&bold(){第4代ロスサントス[[市長]]}&small(){(2025/07/02〜09/21)}}}&br()&icon_fa(fa fa-user-slash)&small(){&openclose2(show=過去の職業（Season2）){&nbsp(br,7)&icon_fa(fa-solid fa-crown)&bold(){Season2で辞めた職業} (2022/08/22〜2025/03/11)}}&br()&icon_fa(fa-solid fa-crown)&bold(){第4代ロスサントス[[市長]]}&small(){(2025/12/19〜)}|
+|~&color(#ffffff){TwiX}|~&color(#ffffff){&icon_fa(fa fa-crow)}|&small(){&openclose2(show=過去のTwiXID（Season1）){&br()&s(){@MrShicho}&br()@ichibanerai}}&br()@ichibanerai|
+|~&color(#ffffff){レーサー名}|~&color(#ffffff){&icon_fa(fas fa-car)}|&small(){&openclose2(show=過去のレーサー名（Season1）){&br()登別のクマ}}&br()登別のクマ|
+|~&color(#ffffff){電話番号}|~&color(#ffffff){&icon_fa(fas fa-phone)}|&small(){&openclose2(show=過去の電話番号（Season1）){&br()(153)921-1378}}&br()(123)456-7890|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o)|しょぼすけ|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/shobolinco?s=21&t=-8YIYpZ2PXN8UP4X9hk8Zw]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/shobosuke]]|
+|BGCOLOR(#eee):~動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video-camera fa-fw)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@ShoboSuke/videos]]|
+
+#endregion()
+
+//見出し
+#contents_line(level=2,sep=｜)
+//
+
+**基本情報
+&color(red){&b(){適宜編集。Season1の車両、服装情報等はinclude、regionで格納し、必要であれば子ページに移す。&br()Season2の情報を子ページに記載して親ページで読み込む方法が簡便か。}}
+
+
+#div(width=200px,bgcolor=#c8c8fa){&size(17){&font(b,#FFFFFF){　SEASON 1}}}
+&bold(){所有車両（Season1）}
+#region(開く)
+#table_style(head=center:#009BDF)
+|~&color(#fff){車名}|~&color(#fff){備考}|h
+|&icon_fa(fa fa-car)&space()&ruby(エグゼンプラー){[[Exemplar>>https://w.atwiki.jp/gtav/pages/333.html]]}|車体にバニー姿の[[深沢 えぼし>深沢　えぼし]]のイラストのステッカーが貼られている。|
+#table_sorter{even=##f5f5f5,odd=#fff}
+#endregion
+
+&bold(){衣装倉庫（Season1）}
+#region(開く)
+|&image(山下　ひろし　【初期】.png,x=130)|&image(山下ひろし_全身2.jpeg,x=205)|
+|CENTER:初期衣装|CENTER:ライン無しスーツ|
+|&image(山下ひろし_スーツネクタイ.jpeg,x=205)|&image(山下ひろし_私服全身.jpeg,x=205)|
+|CENTER:ネクタイスーツ|CENTER:青髪私服(餡ブレラ作)|
+|&image(山下ひろし_私服ニット全身.jpeg,x=205)||&image(山下ひろし_黒髪ニット全身.jpeg,x=205)|
+|CENTER:青髪私服(ニット)||CENTER:黒髪私服(ニット)|
+#endregion
+
+#div(width=200px,bgcolor=#c8c8fa){&size(17){&font(b,#FFFFFF){　SEASON 2}}}
+&bold(){所有車両（Season2）}
+#region(開く)
+#table_style(head=center:#009BDF)
+|~&color(#fff){車名}|~&color(#fff){備考}|h
+|&icon_fa(fa fa-car)&space()&ruby(エグゼンプラー){[[Exemplar>>https://w.atwiki.jp/gtav/pages/333.html]]}|車体にバニー姿の[[深沢 えぼし>深沢　えぼし]]のイラストのステッカーが貼られている。|
+#table_sorter{even=##f5f5f5,odd=#fff}
+#endregion
+
+&bold(){衣装倉庫（Season2）}
+#region(開く)
+|&image(山下　ひろし　【初期】.png,x=130)|&image(山下ひろし_全身2.jpeg,x=205)|
+|CENTER:初期衣装|CENTER:ライン無しスーツ|
+|&image(山下ひろし_スーツネクタイ.jpeg,x=205)|&image(山下ひろし_私服全身.jpeg,x=205)|
+|CENTER:ネクタイスーツ|CENTER:青髪私服(餡ブレラ作)|
+|&image(山下ひろし_私服ニット全身.jpeg,x=205)||&image(山下ひろし_黒髪ニット全身.jpeg,x=205)|
+|CENTER:青髪私服(ニット)||CENTER:黒髪私服(ニット)|
+#endregion
+
+**エピソード
+
+&color(red){&b(){個人エピソードを整理する際には下の例のように&br()Season1とSeason2を分けて記載する方法が今後の追記のしやすさの面からも良いか。&br()文字数制限が気になる場合は月ごとなどで区切り、子ページに格納してincludeすると良い。}}
+
+*&color(#FFFFFF){&font(#c8c8fa){&icon_fa(fa fa-calendar-o)} エピソード}
+#div(width=200px,bgcolor=#c8c8fa){&size(17){&font(b,#FFFFFF){　SEASON 1}}}
+***2023年
+&co(){文字制限に引っかかるためエピソード分割}
+#region(開く,close)閉じる
+#include(福田　明宏/エピソード2023.05)
+#include(福田　明宏/エピソード2023.06①)
+#include(福田　明宏/エピソード2023.07①)
+#include(福田　明宏/エピソード2023.08①)
+#include(福田　明宏/エピソード2023.09①)
+#include(福田　明宏/エピソード2023.10①)
+#include(福田　明宏/エピソード2023.11①)
+#include(福田　明宏/エピソード2023.12①)
+#endregion
+***2024年
+&co(){文字制限に引っかかるためエピソード分割}
+#region(開く,close)閉じる
+#include(福田　明宏/エピソード2024.01①)
+#include(福田　明宏/エピソード2024.02①)
+#include(福田　明宏/エピソード2024.03①)
+#include(福田　明宏/エピソード2024.04①)
+#include(福田　明宏/エピソード2024.05)
+#include(福田　明宏/エピソード2024.06)
+#include(福田　明宏/エピソード2024.07)
+#include(福田　明宏/エピソード2024.08)
+#include(福田　明宏/エピソード2024.09)
+#include(福田　明宏/エピソード2024.10)
+#include(福田　明宏/エピソード2024.11)
+#include(福田　明宏/エピソード2024.12)
+#endregion
+***2025年
+&co(){文字制限に引っかかるためエピソード分割}
+#region(開く,close)閉じる
+#include(福田　明宏/エピソード2025.01)
+#include(福田　明宏/エピソード2025.02)
+#include(福田　明宏/エピソード2025.03)
+#include(福田　明宏/エピソード2025.04)
+#include(福田　明宏/エピソード2025.05)
+#include(福田　明宏/エピソード2025.06)
+#include(福田　明宏/エピソード2025.07)
+#include(福田　明宏/エピソード2025.08)
+#include(福田　明宏/エピソード2025.09)
+
+#endregion
+
+#div(width=200px,bgcolor=#c8c8fa){&size(17){&font(b,#FFFFFF){　SEASON 2}}}
+***2025年
+#region(開く,open)閉じる
+#include(福田　明宏/エピソード2025.09)
+
+#endregion
+
+*&font(#FFBFCB){&icon_fa(fa fa-users)} 構成員・不在構成員・協力関係・対外関係
+
+&color(red){&b(){組織・団体ページにおける、メンバーの取り扱いについての例。&br()上記と同様に子ページにSeason1のメンバー/従業員一覧等を転記し、&br()include、regionで格納、Season2のメンバー/従業員一覧等を新たに作る方法が編集協議上でも穏当か。}}
+
+#region(S1メンバーをincludeしてregionで格納,close)閉じる
+#include(S2ページ編集案/S1の組織メンバーを子ページにしてinclude)
+#endregion(S1メンバー)
+
+***&icon_fa(fa fa-user)&space()&underdot(#FFBFCB,2px){在籍構成員}
+//メンバーの変更があれば「参加者一覧」、「ギャング」等への反映もお願いします。
+//|&ruby(なまえ){名前}|'yyyy/mm/dd|階級|⚠️①一言人物紹介+(あれば)副業②加入理由③特技・その人が分かる簡単エピソード・組織での活動や役割→1〜5行で、ネガティブなエピソードは書かない(in率、観測者が判断した戦闘が苦手〜等の評価)|配信場所|
+//
+#region(開く,open)
+#size(90%){#table_style(head=#FFBFCB:#666:center:b)
+#table_filter(){加入日=hide,階級=show,詳細=show,配信=show}
+|~名前|~加入日|~階級|~詳細|~配信|h
+|&ruby(ばに　らんど){[[山下　ひろし]]}🎖️|2024/03/26|(4)Boss|いちばんえらい|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/cr_vanilla]]|
+
+
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FFF0F3,odd=#FFF}}
+&font(10px){ *1「No.」は加入日順。}
+&font(10px){ *2「🎖️」：カラーギャング。}
+#endregion
+
+
+**アーカイブ
+
+&color(red){&b(){アーカイブ、切り抜き、その他については適宜調整。}}
+
+#areaedit()
+#region(2022年)
+&bold(){2022年}
+#table_style(head=center:#009BDF){配信日=right}
+|~&color(#fff){配信日}|~&color(#fff){配信タイトル}|~&color(#fff){主なエピソード}|h
+|2022/08/29|[[#ストリーマーグラセフ で色々設定しながら治安を維持する>https://www.twitch.tv/videos/1575147657]]||
+|08/30|[[#ストリーマーグラセフ で色々設定しながら治安を維持する>https://www.twitch.tv/videos/1576939408]]||
+|09/03|[[不動産屋を整える #ストリーマーグラセフ>https://www.twitch.tv/videos/1579789388]]|新しい市役所を案内|
+|09/04|[[ロジクールGのデバイス G335とG413をつかってみるぞ！>https://www.twitch.tv/videos/1580616962]]||
+|09/05|[[#ストリーマーグラセフ 内政する>https://www.twitch.tv/videos/1581801601]]||
+|09/06|[[#ストリーマーグラセフ 今日も市民のために内政する>https://www.twitch.tv/videos/1582620346]]||
+|09/08|[[#ストリーマーグラセフ 今日も市民のために内政する>https://www.twitch.tv/videos/1584443892]]||
+|09/12|[[#ストリーマーグラセフ 市長の仕事をしたら弟が来るらしい。>https://www.twitch.tv/videos/1588156581]]|ドラッグに名前をつける|
+|10/16|[[#ストリーマーグラセフ の裏話とアップデート裏現場>https://www.twitch.tv/videos/1625669921]]||
+|10/18|[[17時前までアプデ作業>https://www.twitch.tv/videos/1627428427]]||
+|10/18|[[よる、市長。作業。困ってる市民の鳩歓迎>https://www.twitch.tv/videos/1627636967]]||
+|10/20|[[よる、市長。作業。困ってる市民の鳩歓迎>https://www.twitch.tv/videos/1628529179]]|カテジとマリアの裁判|
+|10/27|[[#ストリーマーグラセフ 帰宅直後に市長業>https://www.twitch.tv/videos/1635048056]]|個人医志望者の面接|
+|11/11|[[ストグラのアプデ作業とかやる>https://www.twitch.tv/videos/1648844930]]||
+|11/28|[[宗教つくる２>>https://www.twitch.tv/videos/1664914221?t=01h21m40s]]|チェッカー大会 |
+|11/29|[[EVILLE>https://www.twitch.tv/videos/1665683721]]|初心者ドライビング講習会 |
+|12/08|[[ストグラをやる>https://www.twitch.tv/videos/1673558100]]/[[2>https://www.twitch.tv/videos/1673647601]]/[[3>https://www.twitch.tv/videos/1673653175]]|警官志望者の面接 |
+|12/23|[[ストグラの新要素を先にみせる>https://www.twitch.tv/videos/1686007483]]||
+|12/31|[[年越しするぞ！>https://www.twitch.tv/videos/1693845443]]||
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion(2022年)
+#region(2023年)
+&bold(){2023年}
+#table_style(head=center:#009BDF){配信日=right}
+|~&color(#fff){配信日}|~&color(#fff){配信タイトル}|~&color(#fff){主なエピソード}|h
+|2023/01/16|[[ストグラサーバー新要素アプデ>https://www.twitch.tv/videos/1709128611]]|マクドナルドの授業を見学 |
+|01/24|[[いろんな作業をしながら>https://www.twitch.tv/videos/1717006577]]||
+|02/04|[[ストグラ新要素デバッグ>https://www.twitch.tv/videos/1727738050]]||
+|02/18|[[ストグラについて色々話す>https://www.twitch.tv/videos/1741753045]]||
+|04/07|[[寝坊した TCTHC>>https://www.twitch.tv/videos/1786281004]]|レース免許不携帯でマヌ太郎にプリズンに送られる|
+|04/23|[[マイクラ人狼 #TCTHC>>https://www.twitch.tv/videos/1800510295?t=03h27m10s]]|血痕を消す洗剤を各店長に配布|
+|05/21|[[侍達のマリカー>>https://www.twitch.tv/videos/1825663265?t=02h43m49s]]||
+|05/31|[[雑談>https://www.twitch.tv/videos/1833301528]]||
+|08/02|[[ストグラ市長作業>https://www.twitch.tv/videos/1887416230]]|市長誘拐殺人未遂事件|
+|08/02|[[雑談＋ストグラ裏方>https://www.twitch.tv/videos/1888016396]]||
+|08/04|[[雑談＋ストグラのサーバー管理>https://www.twitch.tv/videos/1889160519]]|ヘラシギにBarを譲渡／フードコート整備|
+|08/05|[[雑談＋ストグラのサーバー管理の様子を見せます>https://www.twitch.tv/videos/1890628095]]||
+|08/11|[[DaDでもEFTでもなく、GTAサーバーを触る>https://www.twitch.tv/videos/1895601458]]||
+|08/12|[[GTAサーバーを触る。今夜はゲームする。>https://www.twitch.tv/videos/1896664825]]||
+|08/20|[[今日も”メンテ”そして、明日も>https://www.twitch.tv/videos/1903624913]]|｢峠｣追加後初試走|
+|08/21|[[#ストグラ ！！！>https://www.twitch.tv/videos/1904663532]]|第一期第二回市議会|
+|08/27|[[ストグラ 1周年>https://www.twitch.tv/videos/1909905551]]|一周年パレード|
+|08/31|[[今日もストグラのメンテをする人>https://www.twitch.tv/videos/1913169596]]||
+|09/02|[[今日もストグラのメンテをする人>https://www.twitch.tv/videos/1914956070]]||
+|09/12|[[メンテナンスする 一部質問にも答えられます>https://www.twitch.tv/videos/1923364332]]||
+|09/14|[[全力ストグラメンテナス部>https://www.twitch.tv/videos/1925041238]]||
+|09/25|[[市議会>https://www.twitch.tv/videos/1934808922]]|第一期第三回市議会|
+|10/29|[[市議会 観測者ご意見所。>https://www.twitch.tv/videos/1963315905]]|第二期第一回市議会|
+|11/13|[[鉄骨>https://www.twitch.tv/videos/1976322893]]|ストグラ鉄骨渡り|
+|12/30|[[ストグラ流行語大賞2023>https://www.twitch.tv/videos/2017922284]]|流行語大賞／プリズン送り／面談|
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion(2023年)
+#region(2024年)
+&bold(){2024年}
+#table_style(head=center:#009BDF){配信日=right}
+|~&color(#fff){配信日}|~&color(#fff){配信タイトル}|~&color(#fff){主なエピソード}|h
+|2024/01/05|[[ストグラ>https://www.twitch.tv/videos/2022551383]]|住民と市長室にて面談|
+|01/09|[[#ストグラ>https://www.twitch.tv/videos/2027377253]]|第二期第二回市議会／面談|
+|01/19|[[市長出勤>https://www.twitch.tv/videos/2036282936]]|住民と市長室にて面談|
+|01/21|[[市長出勤 作業カタカタ>https://www.twitch.tv/videos/2038348268]]|住民と市長室にて面談|
+|02/16|[[24時まで市長　24時から裏で定例ストグラスタッフ打ち合わせ>https://www.twitch.tv/videos/2064336117]]|警察ユニオン体験、カニメイト店員体験|
+|02/17|[[風邪引いてる市長>https://www.twitch.tv/videos/2065446220]]|航空機・ボートのディーラー志望者と面談|
+|05/06|[[作業雑談 ストグラ>https://www.twitch.tv/videos/2138129031]]|住民と市長室にて面談|
+|05/09|[[ストグラ市長おじさん>https://www.twitch.tv/videos/2141283861]]|住民と市長室にて面談|
+|05/17|[[市長>https://www.twitch.tv/videos/2147335160?t=1624s]]|警察に車両を強化すると予告する|
+|06/26|[[#にじGTA の感想を少しだけ話してから  #ストグラ へ>https://www.twitch.tv/videos/2181362733?t=5066s]]|住民と市長室にて面談|
+|07/07|[[市長>https://www.twitch.tv/videos/2190807117]]|住民と市長室にて面談|
+|07/31|[[久々の市長>https://www.twitch.tv/videos/2212148836]]|ギャングボス会談|
+|08/27|[[2周年パレードやるわ>https://www.twitch.tv/videos/2235295232]]|ストグラ2周年記念式典／面談|
+|08/30|[[市長>https://www.twitch.tv/videos/2237841387]]|住民と市長室にて面談（868に襲撃される）|
+|10/02|[[3億年ぶりの帰ってきた市長>https://www.twitch.tv/videos/2265877767]]|住民と市長室にて面談|
+|10/04|[[あ>https://www.twitch.tv/videos/2266803038]]|ジョーカーに新ギャングの審査結果を言い渡す|
+|10/09|[[かねごんの初デッドロック>https://www.twitch.tv/videos/2270766173?t=12059s]]|街の視察／面談／酒場で雑談|
+|10/11|[[まさおかと>https://www.twitch.tv/videos/2272425182?t=8050s]]|面談／街の視察|
+|10/13|[[ストグラ 大市長時代>https://www.twitch.tv/videos/2274270932]]|新設するラジオ局の社長になれそうな人を探す|
+|10/19|[[深夜>https://www.twitch.tv/videos/2279282682]]|街を視察|
+|11/24|[[ストグラ男>https://www.twitch.tv/videos/2309199422]]|住民と市長室にて面談|
+|12/02|[[ストグラ 市長①>https://www.twitch.tv/videos/2315640957?t=16273s]]|面談／エスタークに溶鉱炉に沈められる|
+|12/02|[[ストグラ 市長②>https://www.twitch.tv/videos/2315873161]]|&infobox(title=あるもの,trigger=hover){魔法の力}を失ったことに気づく|
+|12/07|[[市長業務をやったあとに4時ごろまで配信するよ！>https://www.twitch.tv/videos/2319793148]]|住民と市長室にて面談|
+|12/13|[[#ストグラ 市長>https://www.twitch.tv/videos/2325566698]]|住民と市長室にて面談|
+|12/26|[[ストグラ流行語大賞を発表する日>https://www.twitch.tv/videos/2336330707]]|流行語大賞発表／住民と市長室にて面談|
+|12/31|[[流石に年越し配信する>https://www.twitch.tv/videos/2340642472]]|年越し／住民と市長室にて面談|
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion(2024年)
+#region(open,2025年)
+&bold(){2025年}
+#table_style(head=center:#009BDF){配信日=right}
+|~&color(#fff){配信日}|~&color(#fff){配信タイトル}|~&color(#fff){主なエピソード}|h
+|2025/01/23|[[ストグラ 市長>>https://www.twitch.tv/videos/2360468105?t=2106s]]|住民と市長室にて面談|
+|01/23|[[市長、昨日の続き>>https://www.twitch.tv/videos/2361319164]]|住民と市長室にて面談／警察にヒアリング|
+|01/31|[[市長としょぼすけのストグラ探訪>>https://www.twitch.tv/videos/2368598219]]|住民と市長室にて面談／マクドナルドと話す|
+|02/11|[[市長です。市長じゃなくなるかも ストグラ>>https://www.twitch.tv/videos/2378392518]]|個人医の大型介入禁止／ケイン／オーに税金の事で詰められる|
+|02/12|[[市長です。市長じゃなくなるかも ストグラ>>https://www.twitch.tv/videos/2379326595]]|街を巡り、市民に選挙を周知する|
+|02/15|[[市長を続けるか おわるか - ストグラ>>https://www.twitch.tv/videos/2381835696]]|市長不信任決議の投票結果を発表し、退任が確定する|
+|02/28|[[狩りにいってない市民と選挙の様子を見に行く>>https://www.twitch.tv/videos/2393307827]]|市長選の候補者たちに調子を聞きに行く|
+|03/01|[[政見放送見る>>https://www.twitch.tv/videos/2394186442?t=10740s]]|政見放送を見る|
+|03/02|[[政見放送2日目見る>>https://www.twitch.tv/videos/2395154111?t=01h52m44s]]|政見放送を見る／U FOR Uで体験する|
+|03/07|[[新市長誰になる！？編>>https://www.twitch.tv/videos/2399418381]]|投票結果を発表する|
+|03/11|[[市長やめるはｗ>>https://www.twitch.tv/videos/2402820726]]|新市長就任式／警察体験|
+|03/13|[[警察とロケット>>https://www.twitch.tv/videos/2403859635]]|警察体験|
+|03/22|[[ストグラの話＆マシュマロ→元市長警察編>>https://www.twitch.tv/videos/2411466990?t=5901s]]|警察体験|
+|03/23|[[元市長警察編>>https://www.twitch.tv/videos/2413263699]]|警察体験|
+|03/30|[[ストグラの民 ①>>https://www.twitch.tv/videos/2418590875]]／[[②>>https://www.twitch.tv/videos/2418632372]]|警察体験／レースに参加|
+|03/30|[[ストグラの民（真面目編）>>https://www.twitch.tv/videos/2419340745]]|警察体験／メイドカフェのオープンイベントへ行く|
+|04/01|[[空から見る人>>https://www.twitch.tv/videos/2420477463]]|SPDを空から観測(時々顕現)／一番偉いままの世界線|
+|04/04|[[ストグラやったり仕事したり>>https://www.twitch.tv/videos/2423746705]]|レースに参加／警察体験|
+|04/06|[[stgr>https://www.twitch.tv/videos/2425626997]]|KKRKの会議に参加／救急隊体験|
+|04/30|[[#ストグラ>>https://www.twitch.tv/videos/2446558872]]|渡戸リーと共に木こり体験|
+|05/04|[[イベント観たりしてた>https://www.twitch.tv/videos/2450067131]]|ライアーステージに出演|
+|05/21|[[久々の通常配信>>https://www.twitch.tv/videos/2463858821]]|市長不信任決議の投票／魔女の酒場で雑談|
+|06/02|[[ようやく時間できたから #ストグラ へ>>https://www.twitch.tv/videos/2474412493]]|シャノールで雑談／レースに参加|
+|06/03|[[救急体験をする元市長>>https://www.twitch.tv/videos/2475905642]]|救急隊体験|
+|06/04|[[おい！社長忙しすぎだろ！>>https://www.twitch.tv/videos/2476875996]]|救急隊体験|
+|06/12|[[ストグラに入る>>https://www.twitch.tv/videos/2483226169]]|カーキングで遊ぶ／魔女の酒場で雑談|
+|06/15|[[ストグラに入る>>https://www.twitch.tv/videos/2486630114]]|Trickster体験|
+|06/26|[[ストグラに入るよ〜>>https://www.twitch.tv/videos/2495605586]]|Trickster体験|
+|07/03|[[ストグラに入るよ〜>>https://www.twitch.tv/videos/2501792289]]|市長再就任|
+|07/05|[[ストグラ 再市長編>>https://www.twitch.tv/videos/2503412613?t=04h06m26s]]|裁判に出席|
+|07/07|[[ストグラ>>https://www.twitch.tv/videos/2505194522]]|Trickster体験|
+|07/20|[[ストグラ 市長業>>https://www.twitch.tv/videos/2516738843]]|住民と市長室にて面談|
+|07/21|[[ストグラ 市長業>>https://www.twitch.tv/videos/2517651741]]|住民と市長室にて面談|
+|07/23|[[『山下』という偉い>>https://www.twitch.tv/videos/2519419320]]|住民と市長室にて面談（D4に襲撃される）|
+|07/28|[[ストグラに入った>>https://www.twitch.tv/videos/2523989618]]|住民と市長室にて面談／エスタークと面談|
+|07/30|[[ストグラ市長>>https://www.twitch.tv/videos/2525588662]]|べりはぴのチケットをもらう|
+|07/31|[[ストグラ市長おきたよーんｗ①>>https://www.twitch.tv/videos/2527318560]]|べりはぴのライブに行く|
+|08/01|[[ストグラ市長おきたよーんｗ②>>https://www.twitch.tv/videos/2527417400]]|住民と市長室にて面談|
+|08/08|[[市長だよ>>https://www.twitch.tv/videos/2533599784]]|マクドナルドと話す|
+|08/08|[[今日も～>>https://www.twitch.tv/videos/2534516409]]|上田ギャング面談／警察署にて謝罪会見|
+|08/09|[[市長。イベントでます>>https://www.twitch.tv/videos/2535395717]]|ロスリンピックに参加する|
+|08/10|[[#STGRivals OW2 ヘルアンの代わりに入る人>>https://www.twitch.tv/videos/2536280420?t=03h40m29s]]|03h40m29s~イベテロ犯ヴァンダーマー逮捕|
+|08/13|[[フェスTシャツの宣伝と仕事>>https://www.twitch.tv/videos/2535395717]]|STGRFESのポスターを貼る|
+|08/16|[[市長起きる>>https://www.twitch.tv/videos/2540805080]]|STGRFESのポスターを貼る／魔女の酒場で雑談|
+|08/17|[[市長起きる>>https://www.twitch.tv/videos/2541686172]]|上田ギャング面談／STGRFESのポスターを貼る／Famosからの手紙と結晶を手渡される|
+|08/19|[[市長起きるよ>>https://www.twitch.tv/videos/2544235841]]|味野にコインとドッグタグについて話す|
+|08/21|[[市長>>https://www.twitch.tv/videos/2545925105]]|FOG面談／収穫祭に参加／警察に力の話をする|
+|08/22|[[#ストグラ>>https://www.twitch.tv/videos/2546914365]]|メカニック面談|
+|08/23|[[#ストグラ>>https://www.twitch.tv/videos/2547700146]]|上田ギャング面談／住民と市長室にて面談|
+|08/24|[[#ストグラ>>https://www.twitch.tv/videos/2548620572]]|合コンイベントを見る／MOZU解散報告|
+|08/26|[[すとぐら>>https://www.twitch.tv/videos/2550241221]]|上田と面談|
+|08/27|[[３周年だ！編>>https://www.twitch.tv/videos/2551036633]]|3周年パレード|
+|09/06|[[市長～！>>https://www.twitch.tv/videos/2558870260]]|警察とここなのことについて話す|
+|09/07|[[しちょ～ｗ>>https://www.twitch.tv/videos/2560475645]]|カジノのイベントに出席する|
+|09/09|[[記者会見する>>https://www.twitch.tv/videos/2562058887]]|記者会見でコインを集めてほしいことを伝える|
+|09/13|[[20時からストグラフェスPPV今日も観るよ～！>>https://www.twitch.tv/videos/2565296245]]|市役所でダーク山下に襲われる|
+|09/15|[[#ストグラ>>https://www.twitch.tv/videos/2566408761]]|加藤圧たちと対抗武器について話し合う／能力を取り戻す|
+|09/16|[[能力と市長...>>https://www.twitch.tv/videos/2567852074]]|記者会見で能力を取り戻したことを伝える|
+|09/20|能力と市長...[[①>>https://www.twitch.tv/videos/2571195685]]／[[②>>https://www.twitch.tv/videos/2570377129]]|記者会見／ダークウェスカーの洗脳を解く|
+|09/21|[[自分を超える>>https://www.twitch.tv/videos/2572013404]]|街の住民を転送する|
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion(2025年)
+&small(){※山下ひろしの姿でストグラサーバー内にいる配信のみ記載しています。}
+#areaedit(end)
+
+****衛星外山下ひろし
+&size(90%){住民視点で観測された衛星外山下ひろし。&br()見かけた方は随時追記して頂けると幸いです。}
+#region(2022年)
+&bold(){2022年}
+#table_filter(){日付=show,時間=hide,代表視点住民=show,アーカイブ=show}
+#table_style(head=center:#009BDF){日付=right,時間=right}
+|~&color(#fff){日付}|~&color(#fff){時間}|~&color(#fff){主なエピソード}|~&color(#fff){代表視点住民}|~&color(#fff){アーカイブ}|h
+|2022/00/00||エピソード募集中|[[名前]]|[[アーカイブ>>URL]]|
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion
+#region(2023年)
+&bold(){2023年}
+#table_filter(){日付=show,時間=hide,代表視点住民=show,アーカイブ=show}
+#table_style(head=center:#009BDF){日付=right,時間=right}
+|~&color(#fff){日付}|~&color(#fff){時間}|~&color(#fff){主なエピソード}|~&color(#fff){代表視点住民}|~&color(#fff){アーカイブ}|h
+|2023/06/16||ヘラシギから開店予定のBarについて相談される。|[[ヘラシギ]]|[[アーカイブ>>https://www.youtube.com/live/9GDVaPpOxhw?si=-XOYBwrX736eUCg1]]|
+|06/19||市役所にて市議会の発足を宣言し、近日選挙を行うと予告。|[[葛城　司]]|[[アーカイブ>>https://www.youtube.com/live/lePg4om0WUo?si=Ne7ybmvbuLzfe9Pw]]|
+|07/12||第一期第一回市議会|[[ヘラシギ]]|[[アーカイブ>>https://www.youtube.com/live/nMBndqinPoo?si=ytzMmzQpVXJYKrWP]]|
+|08/21|2:30頃|個人医志望の鱈タラオと面談。|[[きゃばみざわ☆　ぎゃるみ↑]]|[[アーカイブ>>https://youtu.be/CBf7ENjuegE?si=2NmNshMEOM4PdlRx]]|
+|09/12|1:50頃|メカニックとギャングの兼業について相談。|[[ヘルアン]]|[[アーカイブ>>https://www.twitch.tv/videos/1922816954?t=9986s]]|
+|09/12|2:05頃|メカニックとギャングの兼業について相談。|[[七瀬　ぜろ]]|[[アーカイブ>>https://www.twitch.tv/videos/1937150435?t=32760s]]|
+|09/12|2:10頃|開催予定の文化祭についての相談。|[[超越ヶ谷　にかり]]|[[アーカイブ>>https://www.youtube.com/live/2_BgHF4Kk9g?si=uFJBrVtjOhi2vpM_]]|
+|10/05|23:30頃|素材屋新店舗の鍵引き渡しと説明。|[[月ノ島　ごう]]|[[アーカイブ>>https://youtu.be/TdV4rXWedTo?si=-R7_peTHl267Sc_7&t=23591]]|
+|10/11||白井からメカニックになりたいと相談される。|[[白井　満太]]|[[アーカイブ>>https://www.twitch.tv/videos/1948262527]]|
+|10/11||あんずと結婚式を挙げる旨を報告され、式場の手配を頼まれる。|[[命田　守]]|[[アーカイブ>>https://www.youtube.com/live/kL9MdLmh8ok?si=tdjTkAtNB5miSjBP]]|
+|10/11||鳥野とナイチンから開店予定の飲食店について相談される。|[[鳥野　ぎん]]|[[アーカイブ>>https://www.twitch.tv/videos/1948939409]]|
+|10/20||シャンクズが新たに立ち上げるギャングのアジトを譲渡。|[[四皇　シャンクズ]]|[[アーカイブ>>https://www.twitch.tv/videos/1954917099]]|
+|10/28|22:40頃|GBC主催のミュージカルを鑑賞する。|[[ライトスターボーイ]]|[[アーカイブ>>https://www.twitch.tv/videos/1962362465]]|
+|11/02|23:00頃|カーレース表彰式|[[須藤　冬馬]]|[[アーカイブ>>https://www.twitch.tv/videos/1966564509]]|
+|11/03|4:05頃|メカニックとギャングの兼業について相談。|[[ボア　セニャコック]]|[[アーカイブ>>https://www.twitch.tv/videos/1966539868]]|
+|11/03|4:15頃|ここなから新しく開店したいというカレー屋についての相談。|[[牧田　ここな]]|[[アーカイブ>>https://www.twitch.tv/videos/1966602751]]|
+|11/03|4:40頃|病院内に飛行機を乗り入れた鳥野を炎で粛正。|[[命田　守]]|[[アーカイブ>>https://www.youtube.com/live/4sV2LbqlbFk?si=LvRFZcg6XsaLNxMo]]|
+|11/03|23:20頃|裁判中に騒動を起こした特殊刑事課の処分を見届ける。|[[ジャック　馬ウアー]]|[[アーカイブ>>https://www.twitch.tv/videos/1967398958?t=10519s]]|
+|11/03|23:40頃|魔法少女カフェの店舗移転の相談。|[[葛城　司]]|[[アーカイブ>>https://www.twitch.tv/videos/1967411163?t=9854s]]|
+|11/09|3:43頃|月ノ島とラピスから宝石店の開業について相談される。|[[月ノ島　ごう]]|[[アーカイブ>>https://www.twitch.tv/videos/1971754088?t=38774s]]|
+|11/09|4:00頃|電話にて月ノ島たちの宝石店に許可を出したと報告。 &br()命田から競艇開催について相談される。|[[命田　守]]|[[アーカイブ>>https://www.youtube.com/live/dtkXn_v272w?si=W58ow9VtMFuthNNl]]|
+|11/09|4:07頃|A2にて大川に愛車のカラーを変更してもらう。|[[大　川]]|[[アーカイブ>>https://www.twitch.tv/videos/1971926740?t=14300s]]|
+|11/09|4:37頃|カジノでBJに興じるギャングボスたちに混ざる。|[[ヴァン　ダーマー]]|[[アーカイブ>>https://www.twitch.tv/videos/1971861001?t=23671s]]|
+|11/16|2:52頃|ズズを車で轢き逃げする。&br()その後つぼ浦に追われ、チェイス後に切符をきられる。|[[ズズ>キングスターダイヤモンド　ズズ]]&br()[[つぼ浦　匠]]|[[アーカイブ>>https://www.twitch.tv/videos/1978030990?t=19494s]]&br()[[アーカイブ>>https://www.twitch.tv/videos/1978019358?t=21241s]]|
+|11/17|20:45頃|命田とあんずの結婚式に参列。|[[命田　守]]|[[アーカイブ>>https://www.youtube.com/live/MLh-DPOJFAM?si=xan8rhqsF5WeLgjI]]|
+|11/18|04:14頃|新設される工場の稼働テストを月ノ島たちに依頼。|[[月ノ島　ごう]]|[[アーカイブ>>https://www.twitch.tv/videos/1979654833?t=40665s]]|
+|11/19|03:43頃|Mon Dたちとチンチロ勝負をする。(市長ヘイスト)|[[安城　成]]|[[アーカイブ>>https://www.twitch.tv/videos/1980576105?t=38058s]]|
+|11/19|04:03頃|新しい金融機関設立について相談される。|[[ハンク>アーモンド　サラザール]]|[[アーカイブ>>https://www.twitch.tv/videos/1980665917?t=25522s]]|
+|11/19|22:16頃|経済役員ユアナを紹介する。|[[月ノ島　ごう]]|[[アーカイブ>>https://www.twitch.tv/videos/1981518830?t=19064s]]|
+|11/22|22:42頃|馬ウアーとウメの結婚式に参列。|[[青井　らだお]]|[[アーカイブ>>https://www.twitch.tv/videos/1984181641?t=9034s]]|
+|11/24|0:09頃|anbrellaに経済役員を紹介し、調査に同席。|[[西蓮寺　華月]]|[[アーカイブ>>https://www.twitch.tv/videos/1985167313?t=1114s]]|
+|11/24|0:57頃|半グレ住民に経済役員を紹介し、調査に同席。|[[チョコラータ　メアリー]]|[[アーカイブ>>https://www.twitch.tv/videos/1985005158?t=28602s]]|
+|11/24|1:32頃|レギオンにいた住民に経済役員を紹介。ズズに轢かれる。|[[天近　くるみ]]|[[アーカイブ>>https://www.twitch.tv/videos/1985015084?t=28916s]]|
+|12/02|3:26頃|新しいメカニックを建てたいと相談される。|[[上田　さん]]|[[アーカイブ>>https://www.twitch.tv/videos/1991987004?t=28695s]]|
+|12/02|4:02頃|PYに替わる新メカニック店舗の建設について相談される。|[[ルウ　ギャラクティカ]]|[[アーカイブ>>https://www.twitch.tv/videos/1992114660?t=14146s]]|
+|12/02|4:09頃|自宅での飲食店営業にあたり鍵の管理等について相談される。|[[天近　くるみ]]|[[アーカイブ>>https://www.twitch.tv/videos/1992036209?t=23515s]]|
+|12/02|4:15頃|初心者案内事業の設立について相談される。|[[きゃばみざわ☆　ぎゃるみ↑]]|[[アーカイブ>>https://www.twitch.tv/videos/1991933680?t=42044s]]|
+|12/08|2:51頃|弾き語り純喫茶を開きたいと相談される。|[[カム　カマダ]]|[[アーカイブ>>https://www.twitch.tv/videos/1997629770?t=11759s]]|
+|12/08|3:13頃|星野サラたちからイベント会社を設立したいと相談される。 |[[天成　する蔵]]|[[アーカイブ>>https://www.twitch.tv/videos/1997506195?t=29712s]]|
+|12/08|3:27頃|酒場を開店するための金を振り込んだと報告を受ける。 |[[天近　くるみ]]|[[アーカイブ>>https://www.twitch.tv/videos/1997564836?t=21326s]]|
+|12/24|2:30頃|ろぎあが特別市民から一般市民になったことを祝う。|[[香月　ろぎあ]]|[[アーカイブ>>https://www.twitch.tv/videos/2011749242?t=23675s]]|
+|12/28|2:46頃|新メカニック開業について面談。|[[上田　さん]]|[[アーカイブ>>https://www.twitch.tv/videos/2014966775?t=32408s]]|
+|12/28|2:52頃|チケット販売時の白市民パス制導入について相談される。|[[四皇　シャンクズ]]|[[アーカイブ>>https://www.twitch.tv/videos/2015181153?t=6009s]]|
+|12/30|21:45頃|ギャング用のメカニックを新設したいと相談される。|[[不二子　キャスパー]]|[[アーカイブ>>https://www.twitch.tv/videos/2017820038?t=12686s]]|
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion
+#region(2024年)
+&bold(){2024年}
+#table_filter(){日付=show,時間=hide,代表視点住民=show,アーカイブ=show}
+#table_style(head=center:#009BDF){日付=right,時間=right}
+|~&color(#fff){日付}|~&color(#fff){時間}|~&color(#fff){主なエピソード}|~&color(#fff){代表視点住民}|~&color(#fff){アーカイブ}|h
+|2024/01/05|4:17頃|川上たばこ店の社長任命式をする。|[[川　上]]|[[アーカイブ>>https://www.twitch.tv/videos/2022336947?t=37895s]]|
+|01/19|3:55頃|新警察署の建設予定を告知。|[[ミン　ドリー]]|[[アーカイブ>>https://www.twitch.tv/videos/2036185074?t=19873s]]|
+|01/19|23:41頃|公務員のストレス値、タバコの効果等について陳情。|[[川　上]]|[[アーカイブ>>https://www.twitch.tv/videos/2036986399?t=28236s]]|
+|01/29|19:23頃|ラーメン屋開業について面談し、店舗の鍵を渡す。|[[焦月　ツルギ]]|[[アーカイブ>>https://www.twitch.tv/videos/2047032426?t=663s]]|
+|01/29|19:47頃|料理の差し入れをもらう。|[[天羽　よつは]]|[[アーカイブ>>https://www.twitch.tv/videos/2047029233?t=2673s]]|
+|01/30|22:48頃|個人医の職を与える。|[[柳田　ライアン]]|[[アーカイブ>>https://www.twitch.tv/videos/2048014993?t=4835s]]|
+|01/30|23:05頃|黒市民雇用禁止に伴うEDEN分社について相談される。|[[葉時山　バジル]]|[[アーカイブ>>https://www.youtube.com/live/f4lPotJFlOw?feature=shared&t=1711]]|
+|01/30|23:09頃|月ノ屋と鞄システムの歪み対応について確認される。|[[月ノ島　ごう]]|[[アーカイブ>>https://www.twitch.tv/videos/2047951239?t=16612s]]|
+|01/30|23:20頃|新店舗の建設を既に開始しているか確認される。|[[カム　カマダ]]|[[アーカイブ>>https://www.twitch.tv/videos/2048034622?t=4367s]]|
+|02/04|22:00頃|カーレース第2シーズン表彰式|[[天王寺　京司郎]]|[[アーカイブ>>https://www.twitch.tv/videos/2052857525?t=13775s]]|
+|02/09|22:51頃|個人医の職を与える。|[[タシロ　カワセ]]|[[アーカイブ>>https://www.twitch.tv/videos/2057593303?t=19576s]]|
+|02/09|23:01頃|高級車ディーラーの新規店舗が建設可能か確認される。|[[にし　のん]]|[[アーカイブ>>https://youtu.be/-Rfm-NI-Xbc?feature=shared&t=5512]]|
+|02/09|23:16頃|パキちに新規住民を紹介される。|[[れぷタイルルス　セルヴァル]]|[[アーカイブ>>https://www.twitch.tv/videos/2057759338?t=8149s]]|
+|02/09|23:19頃|麻薬カルテルの企業化と不動産について相談される。|[[加藤　圧]]|[[アーカイブ>>https://www.twitch.tv/videos/2057672320?t=8048s]]|
+|02/09|23:28頃|個人医の職を与える。|[[霜月　ろっぷ]]|[[アーカイブ>>https://www.twitch.tv/videos/2057748290?t=00h00m37s]]|
+|02/11|0:31頃|ジェフリーの肌の色を戻す。|[[ジェフリー　ヒッチコック]]|[[アーカイブ>>https://www.twitch.tv/videos/2058672919?t=14244s]]|
+|02/12|4:14頃|アジトを引き渡す。麻陀羅組メンバーに一時任命される。|[[タラ　ちゃん]]|[[アーカイブ>>https://www.twitch.tv/videos/2059785759?t=05h14m07s]]|
+|02/26|2:15頃|豆やんを新航空機ディーラー社長、&br()天王寺京司郎を新ボートディーラー社長に任命する。|[[豆　やん]]|[[アーカイブ>>https://www.youtube.com/live/Ts0nrMd5XyE?si=Nbb0mdbaUqdVfEgt&t=21176]]|
+|02/26|2:48頃|警察署で大型戦車を出す。|[[文月　なえ]]|[[アーカイブ>>https://www.twitch.tv/videos/2074563273?t=03h43m46s]]|
+|02/26|3:45頃|9055レースにドラウグルで参戦する。|[[上田　さん]]|[[アーカイブ>>https://www.twitch.tv/videos/2073362810?t=04h20m37s]]|
+|02/26|4:33頃|スピード違反で警察(マヌ太郎・ひのらん)に追われる。|[[ゴンザレス　マヌ太郎]]|[[アーカイブ>>https://www.twitch.tv/videos/2073195616?t=10h37m49s]]|
+|02/28|3:46頃|警察特殊部隊を設立予定であることを伝える。|[[オルカ　トヴォロ]]|[[アーカイブ>>https://www.twitch.tv/videos/2075211750?t=04h16m40s]]|
+|03/05|22:34頃|新ギャング設立について相談される。|[[レダー　ヨージロー]]|[[アーカイブ>>https://www.twitch.tv/videos/2081805765?t=15220s]]|
+|03/07|1:39頃|救急隊に警察も犯罪者も積極的に救助してほしいと勧告する。|[[雷堂　ましろ]]|[[アーカイブ>>https://www.youtube.com/live/5ZJVK1kQLh4?si=fPP3wdhUVZu7pUgJ?t=6h52m33s]]|
+|03/19|17:18頃|SWAT隊長に任命する。|[[ミン　ドリー]]|[[アーカイブ>>https://www.twitch.tv/videos/2095152036?t=00h17m42s]]|
+|03/19|23:40頃|ブラックマーケット開設の相談および個人医の職を与える。|[[無馬　かな]]|[[アーカイブ>>https://www.twitch.tv/videos/2095160532?t=06h09m16s]]|
+|04/07|22:00頃|イースターエッグ表彰式|[[飯田　けんつ]]|[[アーカイブ>>https://www.twitch.tv/videos/2113308544?t=8350s]]|
+|04/07|22:33頃|雀荘について相談される。|[[つか山　天乃進]]|[[アーカイブ>>https://www.youtube.com/live/j9ZWxnX32fw?si=kpjp2ITRKNXVtpRe?t=34m38s]]|
+|04/07|22:47頃|ジムと武器屋について相談される。|[[月ノ島　ごう]]|[[アーカイブ>>https://www.twitch.tv/videos/2113244834?t=21095s]]|
+|05/04|22:00頃|カーレース第3シーズン表彰式|[[須藤　冬馬]]|[[アーカイブ>>https://www.twitch.tv/videos/2137609636?t=15737s]]|
+|05/04|22:10頃|飲食周りの問題について相談される。|[[マカイーノ　アッコパス]]|[[アーカイブ>>https://www.twitch.tv/videos/2136993831?t=7186s]]|
+|05/04|22:46頃|飲食協会会長クビを宣告する。|[[切間　てつお]]|[[アーカイブ>>https://www.twitch.tv/videos/2137002910?t=8018s]]|
+|05/18|23:20頃|個人医の取り決めを通達する。|[[いわさき　そす]]|[[アーカイブ>>https://www.twitch.tv/videos/2148733929?t=20851s]]|
+|05/18|23:55頃|犯人の搬送と新薬の治験について確認される。|[[橘　かげまる]]|[[アーカイブ>>https://www.youtube.com/live/h_mi8XSiZ0s?si=PJoecbfEk4cvtJp8?t=2h54m50s]]|
+|05/19|0:15頃|デパート改築及びファッションショーについて相談される。|[[物忘　レイナ]]|[[アーカイブ>>https://www.youtube.com/live/Pr82FhZb9UI?si=YkayvYZ1d1lYey0x?t=3h14m30s]]|
+|05/19|0:24頃|テレビ制作会社の起業及びサブスク制度について相談される。|[[月乃　えるな]]|[[アーカイブ>>https://www.twitch.tv/videos/2148823849?t=11246s]]|
+|05/19|0:36頃|メカニック店舗の建設と、白黒限定で行える業務について相談される。|[[不二子　キャスパー]]|[[アーカイブ>>https://www.twitch.tv/videos/2148766707?t=19899s]]|
+|05/20|2:41頃|ALLINの警察署襲撃について、警察で事情聴取をする。|[[ひの　らん]]|[[アーカイブ>>https://www.twitch.tv/videos/2149623692?t=09h11m33s]]|
+|05/20|3:15頃|ALLIN各メンバーに、襲撃の罰金を切る。|[[エスターク・Z・ダークネス]]|[[アーカイブ>>https://www.twitch.tv/videos/2149615038?t=10h09m09s]]|
+|05/23|3:53頃|この街の「死」について話す。|[[ましゃかり　トラボルタ]]|[[アーカイブ>>https://www.youtube.com/live/gp0WxNw_fLo?si=iAO8nrrOKivAvNTG?t=5h48m57s]]|
+|05/29|23:20頃|キャバクラVermilionに営業許可を出す。|[[栖家幡　華憐]]|[[アーカイブ>>https://www.twitch.tv/videos/2158239571?t=02h11m08s]]|
+|05/29|23:36頃|救急隊による内科治療薬の製造等について相談される。|[[橘　かげまる]]|[[アーカイブ>>https://www.youtube.com/live/8E0cF6XI5kA?si=liMpPP7e95onW_VH&t=9246]]|
+|05/29|23:50頃|この街の「死」について話す。|[[ヤミー　エンデバー]]|[[アーカイブ>>https://www.twitch.tv/videos/2158281107?t=01h17m38s]]|
+|05/30|0:09頃|ロケランを抱えた不審者を撃ち倒す。|[[バーバリアン　田中]]|[[アーカイブ>>https://www.youtube.com/live/sRKgMvW01-U?si=P_fM6u4nY5jwEhFo&t=3865]]|
+|05/30|0:16頃|帰国する超越ヶ谷にかりに、空飛ぶクルマを贈る。|[[超越ヶ谷　にかり]]|[[アーカイブ>>https://www.youtube.com/live/y3a4_gm5fwY?si=aSs1VprxZe1reTy0&t=18886]]|
+|06/01|22:55頃|9055裁判に被告として出席する。|[[上田　さん]]|[[アーカイブ>>https://www.twitch.tv/videos/2170851315?t=18949s]]|
+|06/02|0:15頃|画家としての正式なjobが欲しいと相談される。|[[白井　満太]]|[[アーカイブ>> https://www.twitch.tv/videos/2160781099?t=14467s]]|
+|06/02|0:20頃|鞄工場と工場協会について相談される。|[[月ノ島　ごう]]|[[アーカイブ>>https://www.twitch.tv/videos/2160711276?t=26571s]]|
+|06/02|0:36頃|concellgeの元アジトをシャンプロに提供したいとナツメに相談される。|[[四皇　シャンクズ]]|[[アーカイブ>>https://www.twitch.tv/videos/2160812538?t=11897s]]|
+|06/02|0:46頃|居酒屋を開きたいと相談される。|[[銀河一　アニキ]]|[[アーカイブ>>https://www.twitch.tv/videos/2160776238?t=17085s]]|
+|06/02|1:01頃|らびすぴの景品用のおもちゃ工場を作りたいと相談される。|[[葵井　優]]|[[アーカイブ>>https://www.twitch.tv/videos/2160861350?t=8097s]]|
+|06/20|1:43頃|警察とギャングの揉め事裁定に本署へ行くが、当事者不在で愚痴る。|[[伊藤　ぺいん]]|[[アーカイブ>>https://www.twitch.tv/videos/2175990644?t=04h33m18s]]|
+|06/27|23:53頃|個人医の職を与える。|[[猿山　ジン]]|[[アーカイブ>>https://www.twitch.tv/videos/2182930801?t=16006s]]|
+|06/28|0:09頃|警察の給料UP交渉、SWAT個人車両の導入依頼、ゴジラの捜索依頼、&br()戦車とレールガン導入の検討、南署の改築について 他|[[ジャック　馬ウアー]]|[[アーカイブ>>https://www.twitch.tv/videos/2183025281?t=4455s]]|
+|06/28|0:48頃|中古車ディーラー開業について相談される。|[[ジョシュア・マーキル]]|[[アーカイブ>>https://www.twitch.tv/videos/2183038203?t=5475s]]|
+|07/01|2:20頃|大学の講演と新規住民向けの案内所について相談される。|[[転移　逆転移]]|[[アーカイブ>>https://www.twitch.tv/videos/2185668611?t=8726s]]|
+|07/12|23:18頃|大学の講演について相談される。|[[転移　逆転移]]|[[アーカイブ>>https://www.twitch.tv/videos/2195580177?t=22947s]]|
+|07/12|23:40頃|航空機と船舶のレンタル事業について相談される。|[[豆　やん]]|[[アーカイブ>>https://www.twitch.tv/videos/2195610264?t=18281s]]|
+|07/12|23:58頃|スナックの開業について相談される。|[[町田　ジョアンナ]]|[[アーカイブ>>https://www.youtube.com/live/-VUVPk4L32g?si=gKxM33BWAvi0Pd-J?t=3h27m39s]]|
+|07/13|0:26頃|麻薬のクラフト台と覆面パトカーについて確認される。|[[竹井　勝痔]]|[[アーカイブ>>https://www.twitch.tv/videos/2195582811?t=26684s]]|
+|07/13|0:37頃|カフェダイニングの開業に許可を出す。|[[科場　諸朋]]|[[アーカイブ>>https://www.youtube.com/live/sOjTf_cpIAY?si=RaFgMwwaVqosjQpK?t=6h07m58s]]|
+|07/14|23:37頃|夏のイベントを開きたいが何ができるのか相談される。|[[茶担　えり]]|[[アーカイブ>>https://www.youtube.com/live/qKBEhhOI018?t=4744&si=Uk7PDNRBg_gkKor8]]|
+|07/14|23:51頃|新ギャングのアジトの準備期間と費用について質問される。|[[飯田　けんつ]]|[[アーカイブ>>https://www.twitch.tv/videos/2248167563?t=7542s]]|
+|07/24|18:00頃|捜査中の建物が次々消えている理由を、警察に問い詰められる。|[[竹井　勝痔]]|[[アーカイブ>>https://www.twitch.tv/videos/2205933052?t=00h15m42s]]|
+|07/24|18:10頃|覆面の何者かに、グレネードで襲われる。|[[ましゃかり　トラボルタ]]|[[アーカイブ>>https://www.youtube.com/live/NIWdwlX61II?si=tdvcAY0LcGhO2Prn&t=4101]]|
+|08/06|22:00頃|カーレース第4シーズン表彰式|[[無月　レオ]]|[[アーカイブ>>https://www.twitch.tv/videos/2217233744?t=1316s]]|
+|08/09|2:45頃|救急隊に、車の寿命とサブスク制度･税金の運用について意見を聞く。|[[ももみ>ももみ　マルフォイ]]|[[アーカイブ>>https://www.youtube.com/live/W6M3-o3Tbfc?si=d5fi__Sy0NEy0nb7?t=3h57m36s]]|
+|08/11|2:04頃|警察に2周年式典協力依頼等を伝え、今後のアプデ構想を話す。|[[花沢　まるん]]|[[アーカイブ>>https://www.twitch.tv/videos/2220727070?t=02h43m01s]]|
+|08/11|2:33頃|赤城南警察署長から、竹井勝痔ら停職処分の報告を受ける。|[[佐々木]]|[[アーカイブ>>https://www.twitch.tv/videos/2220660437?t=05h17m04s]]|
+|08/11|2:39頃|救急隊に、2周年式典スピーチを誰にお願いするか相談する。|[[鳥野　ぎん]]|[[アーカイブ>>https://www.twitch.tv/videos/2220683916?t=04h35m56s]]|
+|08/14|23:40頃|ストグラ大学の講演会に登壇し、平井と対談する。|[[命田　守]]|[[アーカイブ>>https://www.youtube.com/live/DYrZRcIfzUo?t=11125&si=SFjO1TRXD2kHt4gl]]|
+|08/29|1:28頃|「知らない方がいいこともあるだろう」|[[立花　乱歩]]|[[アーカイブ>>https://www.youtube.com/live/wGmakFfSwjU?t=17143&si=XHRyasG0vQZxDGiF]]|
+|09/14|0:18頃|第4回にかのりに参加する。|[[葛城　司]]|[[アーカイブ>>https://www.twitch.tv/videos/2249932335?t=9792s]]|
+|10/06|1:45頃|病院を視察する。|[[ノビー　ラング]]|[[アーカイブ>>https://www.youtube.com/live/WI6F8KdRI2Q?t=26862&si=J-zPUPeXVNArd_K_]]|
+|10/06|1:52頃|新店舗｢よすが｣を訪れる。|[[香月　ろぎあ]]|[[アーカイブ>>https://www.twitch.tv/videos/2268152226?t=20546s]]|
+|10/06|2:02頃|個人医の職を与える。|[[一　一]]|[[アーカイブ>>https://www.twitch.tv/videos/2268187201?t=16799s]]|
+|10/06|2:16頃|クラフトについて新しい仕組みを提案される。|[[パン　チャン]]|[[アーカイブ>>https://www.twitch.tv/videos/2268148087?t=22537s]]|
+|10/06|2:37頃|警察の会議に参加する。|[[ヒロ　ヤマモト]]|[[アーカイブ>>https://www.youtube.com/live/DVoLqmpVrBM?t=31904&si=Hw4QqwdIJ7dQ84rl]]|
+|10/10|22:58頃|元CCアジトの話とジョーカーギャングについて電話で話す。|[[ハク　ナツメ]]|[[アーカイブ>>https://www.twitch.tv/natsume_sennsei/v/2272332359?sr=a&t=9622s]]|
+|10/15|22:20頃|うさぎさんの裁判に出席する。|[[葛城　司]]|[[アーカイブ>>https://www.twitch.tv/videos/2276597994?t=3821s]]|
+|10/16|0:28頃|新ギャング設立に許可を出す。|[[豆乳　ちゃんもも]]|[[アーカイブ>>https://www.youtube.com/live/ms7LCp1nhYQ?t=5323&si=HWGXce2uomG0LCvK]]|
+|10/16|1:05頃|3ギャング同時設立申請の結果と、ラジオ局の局長候補者について話す。|[[小峯　玲]]|[[アーカイブ>>https://www.twitch.tv/foxrabbit/v/2276604803?sr=a&t=12811s]]|
+|10/17|1:55頃|マンジョリーナジェリーの話を聞く。|[[マンジョリーナ　ジェリー]]|[[アーカイブ>>https://www.youtube.com/live/cFS5WN9Dltw?t=26701]]|
+|10/17|3:33頃|魔女の酒場で雑談する。|[[小峯　玲]]|[[アーカイブ>>https://www.twitch.tv/foxrabbit/v/2277759078?sr=a&t=29597s]]|
+|10/19|2:25頃|ハンバーガーに宣戦布告される。|[[ハン　バーガー]]|[[アーカイブ>>https://www.twitch.tv/videos/2279078836?t=13711s]]|
+|10/19|2:42頃|無馬と小峯に労われる。|[[小峯　玲]]|[[アーカイブ>>https://www.twitch.tv/videos/2278991557?t=27099s]]|
+|10/21|4:14頃|酒場で雑談。近日、本が製作できるようになると予告。|[[小峯　玲]]|[[アーカイブ>>https://www.twitch.tv/videos/2280735274?t=32414s]]|
+|10/23|0:42頃|法律の改正について相談される。|[[ヒロ　ヤマモト]]|[[アーカイブ>>https://www.youtube.com/live/OhxX4R1lOfY?t=16754&si=HoacB0gNOayBFKAe]]|
+|10/23|0:59頃|新設予定のラジオ局の局長立候補者と面談する。|[[ぬくお>https://w.atwiki.jp/streamergta5/pages/1339.html]]|[[アーカイブ>>https://www.youtube.com/live/RyKenZjW6kE?t=15327&si=g5hS7K0oJQPC11eV]]|
+|10/23|1:10頃|新設予定のラジオ局の局長立候補者と面談する。|[[アイドゥラー　ヨシャパテ]]|[[アーカイブ>>https://www.twitch.tv/videos/2282412783?t=02h40m04s]]|
+|10/23|1:23頃|警察署襲撃罪について減刑を求められ折衷案を出す。|[[羽山　パティ]]|[[アーカイブ>>https://www.youtube.com/live/dCYxKwtwtsw?t=15067&si=JNw59xUKp9pHAYaz]]|
+|10/23|1:37頃|ギャングの戦闘服の色について相談される。|[[飯田　けんつ]]|[[アーカイブ>>https://www.twitch.tv/videos/2282470753?t=4776s]]|
+|10/23|2:02頃|警察署襲撃について詳細を聞く。|[[伊勢　えびす]]|[[アーカイブ>>https://www.twitch.tv/videos/2282320970?t=26928s]]|
+|10/23|2:12頃|ラジオ局の局長候補者について意見を聞く。|[[雷堂　ましろ]]|[[アーカイブ>>https://www.youtube.com/live/teOonMwrgGM?t=32960&si=9NCLPfeXPKrRoBrz]]|
+|10/23|2:17頃|個人医になりたいという熱い思いを再度聞く。|[[ブラック　ジャックス]]|[[アーカイブ>>https://www.twitch.tv/videos/2282387952?t=16588s]]|
+|10/23|2:20頃|ラジオ局の局長候補者について意見を聞く。|[[ももみ>ももみ　マルフォイ]]|[[アーカイブ>>https://www.youtube.com/live/qhyM9uYttww?t=6452&si=4n8m3-XiW0Yvlgm6]]|
+|10/23|2:33頃|ラジオ局の局長立候補にあたって黒市民か確認をとる。|[[ぬくお>https://w.atwiki.jp/streamergta5/pages/1339.html]]|[[アーカイブ>>https://www.youtube.com/live/RyKenZjW6kE?t=20932&si=GLxOROIOSORkBHeN]]|
+|11/03|1:33頃|救急隊の大型事件の対応手当について相談される。|[[雷堂　ましろ]]|[[アーカイブ>>https://www.youtube.com/live/wUYRYMNDYfU?t=30782&si=2GUwYvGG3DUuY5Ou]]|
+|11/03|1:48頃|メイドカフェで二十日ネルを指名し、楽しむ。|[[けっつん　太郎]]|[[アーカイブ>>https://www.twitch.tv/videos/2291671288?t=21036s]]|
+|11/03|3:56頃|魔女の酒場でボイスメモの録音許可について教える。|[[スコティッシュ・ホールド]]|[[アーカイブ>>https://www.youtube.com/live/Jiqkp3j9NtI?t=17756]]| 
+|11/03|4:00頃|大川から教習の価格について相談された後、自粛ジグから人生相談をされる。|[[小峯　玲]] (音漏れ)|[[アーカイブ>>https://www.twitch.tv/foxrabbit/v/2291655902?sr=a&t=31595s]]|
+|11/11|0:15頃|ラジオ局の局長と副局長を任命する。|[[茶担　えり]]|[[アーカイブ>>https://www.youtube.com/live/Vy0ZIRQ2Ptw?t=6580&si=nOPofGCvAwof-uy1]]|
+|11/12|22:03頃|救急隊へ医療費改定指令書を渡す。|[[ももみ>ももみ　マルフォイ]]|[[アーカイブ>>https://www.youtube.com/live/4aFBPM00I58?t=1791&si=2wn-fpP72rx8pKc3]]|
+|11/12|22:18頃|個人医へ医療費改定指令書を渡す。|[[羽山　ペティ]]|[[アーカイブ>>https://www.youtube.com/live/vGub49q_Alg?t=2060&si=neL9RK3ipXb3NsVt]]|
+|11/12|22:27頃|先日警察襲撃した餡ブレラに30億円を請求する予定だと伝える。|[[味野　環九郎]]|[[アーカイブ>>https://www.twitch.tv/videos/2299883628?t=15833s]]|
+|12/01|1:38頃|病院を視察する。|[[命田　守]]|[[アーカイブ>>https://www.youtube.com/live/n34AevYxgXY?t=30905&si=4Mkc5Q8cZxzBmvOh]]|
+|12/01|1:48頃|ラジオ局の進捗を聞く。|[[茶担　えり]]|[[アーカイブ>>https://www.youtube.com/live/Myf1F5ZvGi0?t=7276&si=5zWxUWZu_qFuwzhg]]|
+|12/01|2:00頃|個人医募集をしてほしいと頼まれる。|[[ゆちゃ　めろでぃ]]|[[アーカイブ>>https://www.twitch.tv/videos/2314668689?t=16737s]]|
+|12/01|2:08頃|車両使用許可申請書を渡される。|[[小峯　玲]]|[[アーカイブ>>https://www.twitch.tv/videos/2314630035?t=22623s]]|
+|12/25|1:20頃|鳥野が病院前に設置した大量のツリーを消すと通達する。|[[鳥野　ぎん]]|[[アーカイブ>>https://www.twitch.tv/videos/2334944702?t=5164s]]|
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion
+#region(2025年,open)
+&bold(){2025年}
+#table_filter(){日付=show,時間=hide,代表視点住民=show,アーカイブ=show}
+#table_style(head=center:#009BDF){日付=right,時間=right}
+|~&color(#fff){日付}|~&color(#fff){時間}|~&color(#fff){主なエピソード}|~&color(#fff){代表視点住民}|~&color(#fff){アーカイブ}|h
+|2025/03/05|23:50頃|9055でメカニック体験をする。|[[ロイ　マーチングナンバー]]|[[アーカイブ>>https://www.twitch.tv/videos/2397771810?t=101s]]|
+|03/06|00:20頃|レース用にParagon SとTropos Rallyeを買う。|[[ねずみさん>えぐち　きの子]]|[[アーカイブ>>https://www.twitch.tv/videos/2397698466?t=10600s]]|
+|03/12|20:40頃|他の街からの客人を案内する。|[[青梅　つばめ]]|[[アーカイブ>>https://www.twitch.tv/videos/2403666081?t=8641s]]|
+|09/20|18:29頃|記者会見に先んじて公務員に内容を伝える。|[[命田　守]]|[[アーカイブ>>https://www.youtube.com/live/OwJm9-xRkfg?feature=shared&t=4968]]|
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion
+
+**ストグラ外アーカイブ
+***ストグラ関連個人雑談
+#region(開く,open)
+#table_style(head=center:#009BDF){配信日=right}
+|~&color(#fff){配信日}|~&color(#fff){配信タイトル}|~&color(#fff){備考}|h
+|2022/12/03|[[EVILLE>https://www.twitch.tv/videos/1669068969?t=02h00m33s]]||
+|12/10|[[ストグラ調整と、今後やりたいこと。>>https://www.twitch.tv/videos/1675320137]]||
+|12/12|[[次に導入するアクテビティを視聴者に見せる>>https://www.twitch.tv/videos/1677085525]]||
+|2023/04/17|[[ストリーマーグラセフから大切なお知らせ>https://www.twitch.tv/videos/1796070044]]|名称をストグラに変更|
+|04/26|[[最近の #ストグラ をガッツリ振り返る>>https://www.twitch.tv/videos/1803930760]]||
+|04/30|[[ストグラについて＆C4LANについて>>https://www.twitch.tv/videos/1807723669]]||
+|06/28|[[ストグラ雑談しながら俺も登るわ>>https://www.twitch.tv/videos/1857285562]]||
+|08/19|[[#ストグラ について作業しながら語る（質問OK）>>https://www.twitch.tv/videos/1902528886]]||
+|10/14|[[眠くなるまで最近のストグラについて話すよん>https://www.twitch.tv/videos/1950577656]]||
+|10/24|[[ストグラ雑談おじ>>https://www.twitch.tv/videos/1958919269]]||
+|12/24|[[VCRGTAお疲れ様でござんした。>>https://www.twitch.tv/videos/2012446564?t=1844s]]|1月から隔週月曜を定休日予定|
+|2024/01/07|[[全力メンテナンス部>>https://www.twitch.tv/videos/2025317388]]||
+|03/23|[[ストグラ雑>>https://www.twitch.tv/videos/2098501988]]||
+|04/06|[[ストグラ裏話、限界リボルバー裏話、マリオカート裏話>>https://www.twitch.tv/videos/2112231138]]||
+|05/03|[[作業雑談>>https://www.twitch.tv/videos/2135438999]]||
+|05/26|[[ストグラの㊙情報で誘って"Vapeengine"の宣伝をするヤツ #PR>>https://www.twitch.tv/videos/2155575229?t=3416s]]||
+|2025/09/05|[[なんと今更のストグラフェス反省会>>https://www.twitch.tv/videos/2558002075]]||
+|11/03|[[ストグラの新システムについて初公開！ その後、GTA6について語ろう #PR>>https://www.twitch.tv/videos/2608606298]]||
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion
+
+***コラボ
+&bold(){ストグラ関連トーク}
+#region(開く)
+#size(90%){主にストグラ参加者と行われた、ストグラに関する対談やトーク会。}
+#table_style(head=center:#009BDF){日付=right}
+|~&color(#fff){日付}|~&color(#fff){タイトル}|~&color(#fff){コラボ相手(※敬称略)}|~&color(#fff){備考}|h
+|2023/04/10|[[#岩間28歳配信14年>>https://www.twitch.tv/videos/1789773097]]||凸待ち|
+|06/28|[[20代最後の日 しょぼすけ誕生 #しょぼ29>>https://www.twitch.tv/videos/1857925540?t=20h19m59s]]||凸待ち|
+|11/29|[[【#E5なう！#ストグラ トーク!!】>>https://www.youtube.com/live/l7LUO09HF6k?si=JotcrAlY9kzt_rtX]]|[[E子ちゃん>圧村　飯子]]／[[いわさき>いわさき　そす]]／[[番田長助>ヴァン　ダーマー]]／[[Middleee>ミン　ドリー]]||
+|2024/02/03|[[Signater 前編>>https://youtu.be/zM-ZwoQl59k?si=_VcgPpL1M0IoAyCu]]|岸大河||
+|02/05|[[Signater 後編>>https://youtu.be/eQHi7qY_Uvw?si=h0ZVfzh_fd3j7IH5]]|岸大河||
+|03/23|[[【＃E5なう！特別企画 #ストグラスペシャルトークライブ公開生配信 presented by #Elgato】>>https://www.youtube.com/live/9unyUuXDIWg?si=Bt9zbNEOivWHzvlI]]|[[馬人>ジャック　馬ウアー]]／[[ましゃかり>ましゃかり　トラボルタ]]／[[BOIRA>ボイラ　テンガリン]]／[[あどみん>アドミゲス・ハン]]／[[takera> 髭野　たけーら]]／[[こうまい>西蓮寺　華月]]||
+|07/19|[[ストグラ創設者襲来!? 15歳から活動者な流行を生み出す天才！#しょぼたま 対談バトル!!>>https://www.youtube.com/live/pyKogMsHwBo?si=dXiZbTpQ5W6BtOKI]]|[[犬山たまき>鳥山　たまき]]||
+|09/28|[[ストグラジオ特別出張版@TGS2024 powered by GALLERIA 白黒特集>>https://www.youtube.com/live/NqezyZM27HY?si=DBSYUT4i0NoxWlfl]]|[[影。>橘　かげまる]]／[[るなりあ>ニックス　リア]]／[[わきを>キャプテン　わきを]]／[[二十日ネル>二十日　ネル]]／[[日ノ隈らん>ひの　らん]]||
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion
+&bold(){ストグラ鬼ごっこ}
+#region(開く)
+#size(90%){ロスサントスの街を舞台とした鬼ごっこイベント。&br()プレイヤーたちが逃走者となって逃げ惑う。}
+#table_style(head=center:#009BDF){配信日=right}
+|~&color(#fff){配信日}|~&color(#fff){配信タイトル}|~&color(#fff){備考}|h
+|2023/03/04|[[#ストグラ鬼ごっこ 最強ハンター視点>>https://www.twitch.tv/videos/1755314145]]||
+|04/01|[[第2回 #ストグラ鬼ごっこ 最下位視点>>https://www.twitch.tv/videos/1781630893]]||
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion
+&bold(){マーダーミステリー・TRPG}
+#region(開く,open)
+#size(90%){マーダーミステリーやTRPGはネタバレに非常に弱いゲームです。&br()視聴の際はネタバレに十分気をつけて頂きますようお願いします。}
+#table_style(head=center:#009BDF){日付=right,種別=right}
+#table_filter(){日付=show,種別=show,配信タイトル=show,コラボ相手(※敬称略)=hide}
+|~&color(#fff){日付}|~&color(#fff){種別}|~&color(#fff){配信タイトル}|~&color(#fff){コラボ相手(※敬称略) }|h
+|2023/08/15|マダミス/GM|[[【マーダーミステリー】狂気山脈 陰謀の分水嶺【GM視点】#ストグラ狂気山脈02>>https://www.twitch.tv/videos/1899308246]]|[[かてぃ>伊藤　カテジ]]／[[Minya>世風天　みにゃ]]／[[ノビー>ノビー　ラング]]／[[空衣御侍>雷堂　ましろ]]／[[まぐなむ>フランシスコ　マグナム]]|
+|08/22|マダミス/GM|[[【ネタバレ注意】マダミス 狂気山脈 陰謀の分水嶺 GM視点 #ストグラ狂気山脈01>>https://www.twitch.tv/videos/1905501477]]|[[魔法少女826>葉時山　バジル]]／[[羽ヶ町つまみ>町田　ジョアンナ]]／[[てんぷら>天ノ　ぷら子]]／[[猫月みお>レイラ　キャンベル]]／[[はてな>ウール　モフモフール]]|
+|09/07|TRPG/KP|[[カタシロ回すテスト #ベガシロ>>https://www.twitch.tv/videos/1923662451?collection=Tq2yqUp-hBfdTg]]|[[ベガスヤマモト>山本　龍也]]／[[しおこうじ>シオコ　リコ]]|
+|09/07|TRPG/KP|[[カタシロ回すテスト #くるぶシロ>>https://www.twitch.tv/videos/1923682527?collection=Tq2yqUp-hBfdTg]]|[[cool武士>ジャーク　武士]]／[[しおこうじ>シオコ　リコ]]|
+|09/12|TRPG/KP|[[#カタシロ #そめシロ PL.んそめ SKP.しおこうじ>>https://www.twitch.tv/videos/1923605528]]|[[んそめ>染岡　コン]]／[[しおこうじ>シオコ　リコ]]|
+|10/08|マダミス/GM|[[【ネタバレ注意】マダミス狂気山脈 星ふる天辺 GM視点【 #星ふるストグラ狂気山脈02】>>https://www.twitch.tv/videos/1945718707]]|[[かてぃ>伊藤　カテジ]]／[[Minya>世風天　みにゃ]]／[[ノビー>ノビー　ラング]]／[[空衣御侍>雷堂　ましろ]]／[[まぐなむ>フランシスコ　マグナム]]|
+|10/09|マダミス/GM|[[【ネタバレ注意】マダミス狂気山脈 星ふる天辺 GM視点【 #星ふるストグラ狂気山脈01】>>https://www.twitch.tv/videos/1946556511]]|[[魔法少女826>葉時山　バジル]]／[[羽ヶ町つまみ>町田　ジョアンナ]]／[[てんぷら>天ノ　ぷら子]]／[[猫月みお>レイラ　キャンベル]]／[[はてな>ウール　モフモフール]]|
+|2024/11/01|TRPG/PL|[[【アニメ】1話🗄ストグラから市長が来ました🥘クトゥルフ神話TRPG「ロッカー」【マイクラ】>>https://youtu.be/nMQiSIkrDRQ?si=B83APjRjfhWpYjAW]]|[[アマル>安城　成]]／[[さぶ郎。>安保　さぶ郎]]|
+|11/04|TRPG/PL|[[【アニメ】2話🗄どこでもいつも通りのRPをする市長🥘クトゥルフ神話TRPG「ロッカー」【マイクラ】>>https://youtu.be/Dp9d0IoUwX0?si=OdBqYPYmPtc-11tB]]|[[アマル>安城　成]]／[[さぶ郎。>安保　さぶ郎]]|
+|11/07|TRPG/PL|[[【アニメ】3話🗄ありがとう。ロスサントス。🥘クトゥルフ神話TRPG「ロッカー」【マイクラ】>>https://youtu.be/bfY37IOKw7s?si=OwUw36BuS67lMf20]]|[[アマル>安城　成]]／[[さぶ郎。>安保　さぶ郎]]|
+|11/21|TRPG/PL|[[【 CoC 】わたしたちは石油王 #あしあし石油王 #石油王04 【 クトゥルフ神話TRPG 】>>https://www.youtube.com/live/7Wbxfq01t3k?si=l2FVov2tw3NonuwN]]|[[アマル>安城　成]]／[[甘乃あもこ>揚物　ころも]]／[[しろまんた>白井　満太]]|
+|2025/03/10|マダミス/GM|[[#GBC狂気山脈 -GM視点- ※ネタバレ禁止>>https://www.twitch.tv/videos/2402088688]]|[[＿＿（アンダーバー）>ハン　バーガー]]／[[しゅりぺ>ダミ　アン]]／[[ろぜっくぴん>ろぜ柳 ぴん子]]／[[KOHAL>君島　こはる]]／[[ライト>ライト　スターボーイ]]|
+|03/24|マダミス/GM|[[#餡狂気山脈 - GM視点 - ※ネタバレ禁止>>https://www.twitch.tv/videos/2414032236]]|[[ごっちゃん@マイキー>アルフォート　ウェスカー]]／[[こうまい>西蓮寺　華月]]／[[すず音>栖家幡　華憐]]／[[ニコラ・クラエス>メリー　クロース]]／[[わきを>キャプテン　わきを]]|
+|05/08|マダミス/GM|[[ネタバレ禁止 マダミス狂気山脈 GM視点 #MOZU狂気山脈>>https://www.twitch.tv/videos/2453398375]]|[[キミトス>三階堂　キミトス]]／[[むち>不二子　キャスパー]]／[[梵人>ルーファス　ウィルキンズ]]／[[番長>ヴァン　ダーマー]]／[[れぷちん>れぷタイルルス　セルヴァル]]|
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion
+&bold(){その他ゲーム}
+#region(開く)
+#table_style(head=center:#009BDF){配信日=right}
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,コラボ相手(※敬称略)=hide}
+|~&color(#fff){配信日}|~&color(#fff){ゲーム名}|~&color(#fff){配信タイトル}|~&color(#fff){コラボ相手(※敬称略) }|h
+|2022/10/24|マリオカート|[[ストグラマリカコラボ>>https://www.twitch.tv/videos/1633063019]]|[[かてぃ>伊藤　カテジ]]／[[切嘛>切間　てつお]]／[[シノ>篠崎　ケイ]]／[[ぜったい天使くるみ>石定　シソジ]]／[[ベガスヤマモト>山本　龍也]]／[[まんさや>如月　キャシー]]／[[れぷちん>れぷ山　ちん助]]／[[日ノ森あんず>サンフォレスト　あんず]]／[[番長>ヴァン　ダーマー]]|
+|11/04|Feign|[[ロスサントスにはバカしかいない（自虐）>>https://www.twitch.tv/videos/1643059309]]|[[きもともと>キーモット　ホームズ]]／[[切嘛>切間　てつお]]／[[かてぃ>伊藤　カテジ]]／[[シノ>篠崎　ケイ]]／[[烏星>深沢　えぼし]]／[[まんさや>如月　キャシー]]／[[番長>ヴァン　ダーマー]]／[[スナパイ>服部　ぺぇ次]]／[[夢咲刻夜>命田　守]]|
+|11/10|EVILLE|[[#ストグライービル>>https://www.twitch.tv/videos/1648641568]]|[[ベガスヤマモト>山本　龍也]]／[[シノ>篠崎　ケイ]]／[[水無月ひいろ>近藤　武蔵]]／[[猫月みお>小間　音千子]]／[[ましゃかり>ましゃかり　トラボルタ]]／[[楠木さらら>ヤマンバ　花子]]|
+|2023/01/11|ボードゲームアリーナ|[[ボードゲームアリーナで遊ぶおじさん>>https://www.twitch.tv/videos/1704173682]]|[[ベガスヤマモト>山本　龍也]]／[[まんさや>如月　キャシー]]／[[烏星>深沢　えぼし]]／[[二十日ネル>二十日　ネル]]|
+|05/06|マリオカート|[[市長、ハシル>>https://www.twitch.tv/videos/1812829139]]|[[コンタミ>ウィル　ナイアー]]／[[Minya>世風天　みにゃ]]／[[おらんじ〜な>神崎　治]]／[[かてぃ>伊藤　カテジ]]／[[切嘛>切間　てつお]]／[[こるぺん>鳥野　ぎん]]／[[ノビー>ノビー　ラング]]／[[空衣御侍>雷堂　ましろ]]／[[朱雀ナナミ>朱雀　愛未]]／[[小花衣ももみ>ももみ　マルフォイ]]／[[夢咲刻夜>命田　守]]|
+|06/18|ロケットリーグ|[[レトロサッカーゲーム>>https://www.twitch.tv/videos/1849430370]]|[[コンタミ>ウィル　ナイアー]]／[[Minya>世風天　みにゃ]]／[[かてぃ>伊藤　カテジ]]／[[ノビー>ノビー　ラング]]／[[まぐなむ>フランシスコ　マグナム]]／[[小花衣ももみ>ももみ　マルフォイ]]／[[夢咲刻夜>命田　守]]|
+|07/01|GTAⅤオンライン|[[GTAオンラインをやるぞ！ #しょぼグラセフ>>https://www.twitch.tv/videos/1860493662]]|[[ヨウコウ>桜星　ヨウコウ]]／[[うめJam>ジャムリーヌ　バルサミコス]]／[[ギン>セレナ　ソング]]／[[狗神ゆき>まりー　あんとあー]]／[[小花衣ももみ>ももみ　マルフォイ]]|
+|10/20|APEX|[[レントンさん主催 ストグラカスタム>>https://www.twitch.tv/videos/1955620646]]|[[馬人>ジャック　馬ウアー]]／[[きもともと>キーモット　ホームズ]]|
+|11/18|桃太郎電鉄ワールド|[[ももてつ〜>>https://www.twitch.tv/videos/1980673163]]|[[こうまい>西蓮寺　華月]]／[[Minya>世風天　みにゃ]]／[[すず音>栖家幡　華憐]]|
+|2025/07/28|PUBG|[[PUBG>>https://www.twitch.tv/videos/2524618514]]|公務員（主催：[[アベレージ>安倍　霊明]]）|
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion
+
+**切り抜き動画
+#region(開く,open)
+#table_style(head=center:#009BDF){投稿日=right}
+|~&color(#fff){投稿日}|~&color(#fff){タイトル}|~&color(#fff){備考}|h
+|2024/09/12|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[【祝】ストグラの『2周年パレード』を主催する市長>>https://youtu.be/1aRrNVFJs9E?feature=shared]]||
+|2025/02/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[久々に警察署員から最近について聞く山下市長>>https://youtu.be/YkTXcCo0O5M?feature=shared]]||
+|02/15|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[個人医を呼び出してクビ宣告をする山下市長>>https://youtu.be/paLQ7Q3Bhzg?feature=shared]]||
+|02/17|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[個人医クビの件についてNOLIMITに詰められる市長>>https://youtu.be/PmD_BZJzQ6U?feature=shared]]||
+|02/18|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[メンヘラ状態をケインオーと鯵屋にケアしてもらう山下市長>>https://youtu.be/_bt3QNfcVz8?feature=shared]]||
+|02/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[退任!?不信任選挙の結果を発表した山下市長>>https://youtu.be/kgVObbkAVZY?feature=shared]]||
+|02/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[マクドナルドとの密会で無茶振りを食らう前市長>>https://youtu.be/nBZhwyoz8jQ?feature=shared]]||
+|04/15|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[市長の神視点から見るシャッフルパージデイ>>https://youtu.be/e7j-Y6guufI?feature=shared]]||
+|04/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[山下市長辞任で警察へ!?早速大型対応を行った結果...>>https://youtu.be/jkV1wR-S3ZA?feature=shared]]||
+|04/21|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タラちゃんアジトへ強制家宅捜査を行う山下>>https://youtu.be/222JYPRDVuM?feature=shared]]||
+|04/22|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[大型準備中のギャングを妨害する山下ひろし元市長>>https://youtu.be/Z0rT6nF8AJE?feature=shared]]||
+#table_sorter{even=#fff,odd=#f5f5f5}
+#endregion
+
+
+#right(){&link_up(🔝ページTOPへ)}

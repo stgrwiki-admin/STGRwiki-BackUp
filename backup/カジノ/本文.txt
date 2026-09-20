@@ -1,0 +1,749 @@
+//botリンク回避したいものについて、言い回しの変更か、インライン化（＆font(){}で統一します）処置を行っています。
+//---<header>------------------------------------------------------------------//
+&image(ダイヤモンドカジノ&リゾート_top231020.jpg)
+#size(50%){　}
+#region(店舗写真)&bold(){店舗写真}
+#region(リニューアル前)&bold(){リニューアル前}
+|&blankimg(ダイヤモンドカジノ&リゾート_外観231025.jpg,x=100,y=56)&br()外観|&blankimg(ダイヤモンドカジノ&リゾート_店内230930.jpg,x=100,y=56)&br()店内|&blankimg(ダイヤモンドカジノ&リゾート_ラッキーホイール231017.jpg,x=100,y=56)&br()&font(90%){ラッキーホイール}|&blankimg(ダイヤモンドカジノ&リゾート_景品展示場所230425.jpg,x=100,y=56)&br()景品展示場所|
+|&blankimg(ダイヤモンドカジノ&リゾート_更衣室230930.jpg,x=100,y=56)&br()更衣室|&blankimg(ダイヤモンドカジノ&リゾート_プレイルーム231004.jpg,x=100,y=56)&br()プレイルーム|&blankimg(ダイヤモンドカジノ&リゾート_競馬230721.jpg,x=100,y=56)&br()競馬|&blankimg(ダイヤモンドカジノ&リゾート_競馬230409.jpg,x=100,y=56)&br()競馬場|
+#endregion(リニューアル前)
+//
+#region(リニューアル後,open)
+&bold(){リニューアル後} &font(90%){('23/10/25 27:00～)}
+|&blankimg(ダイヤモンドカジノ&リゾート_外観231025.jpg,x=100,y=56)&br()外観|&blankimg(ダイヤモンドカジノ&リゾート_競馬230409.jpg,x=100,y=56)&br()競馬場|
+#endregion(リニューアル後)
+#endregion(店舗写真)
+#size(50%){　}
+#table_color(#EEEEEE)
+|~店名|~&icon_fa(fa fa-tag)|&ruby(ダイヤモンド){DIAMOND}&space(2)&ruby(カジノ){CASINO}|
+|~業種|~&icon_fa(fa fa-tag)|統合型リゾート|
+|~所在地|~&icon_fa(fa fa-map-marker)|7292番地|
+|~改装オープン|~&icon_fa(fa fa-flag)|2023年10月26日|
+|~所属|~&icon_fa(fa fa-users)|[[無馬グループ]]|
+|~支配人|~&icon_fa(fa-solid fa-user-tie)|[[鳥羽　咲夜]]&br()&small(){&openclose2(show=過去支配人){&nbsp(br,3)初代：[[月渚　雪男]]&nbsp(br,3)臨時：[[山下　ひろし]]&nbsp(br,3)２代：[[無馬　かな]]}}|
+|~オーナー|~&icon_fa(fa-solid fa-user-tie)|[[無馬　かな]]|
+|~TwiX|~&icon_fa(fa fa-crow)|@casino|
+&font(13,#367071,b){専用二次創作タグ&space(4)#ストグラカジノ }
+//【正確な開業日について情報お持ちであれば業種の次の行に追記お願いします。】
+//
+//オーナー部分、無馬ページ参照して変更して頂いたのかもしれないのですが、オーナーが所有者、会長は名誉取締役＝経営方針責任者　なのでオーナーを鳥羽さんにして、会長を無馬さんにすると、鳥羽さんが所有しているカジノに経営方針を決める最終責任者として無馬さんを雇っている…という形になり、現状とは異なるニュアンスになってしまいそうので一旦戻させて頂き、経営責任者をなじみのある支配人という言葉へ修正させて頂きました。　　現在、無馬ページでは変更者の方の意図を伺っている段階ですので、ご意見ある場合、是非議論参加いただけると助かります！。socha
+//
+#size(50%){　}
+&anchor(目次){}
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+//---<基本情報>---------------------------------------------------------//
+*&font(30px,#CCCCCC){基}&font(25px){本&font(#CCCCCC){情}報 &icon_fa(fa fa-diamond)}
+&font(17px,b,#808080){ダイヤモンドカジノは「全て」のお客様にお楽しみいただけるエンターテイメントを提供致します。}
+***&big(){&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-gem)&space(2)概要　}}
+賭けの提供を主軸とした、イベント開催や飲食提供を行っている、複合型エンターテイメント施設。
+その他にも、出資や融資などの金融業や施設上階を使ったテナント経営等も行っている。
+-2024年4月28日、「[[無馬グループ]]」へ加入。
+--街への還元策行う上での負担軽減と、より円滑な業務連携を受けるため参加。
+--莫大なカジノ資本を利用した資金援助や、ポスター掲載などの広報を担う。
+//
+***&big(){&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-gem)&space(2)ポリシー　}}
+店舗内では、&font(){ギャング}・警察・市民関係なく「立場関係なく平等に楽しめる交流の場」となるような経営をめざすと同時に「白市民や街への還元」を軸に掲げ運営している。
+-各種ゲームには、白市民でも楽しめるような低レート台と、ギャングが楽しめる高レート台を用意。
+-市民でも安心して楽しめるように、店内での&u(){発砲や暴力、脅し、誘拐}などの行為を全面的に禁止しており、違反者には[[オーナー>無馬　かな]]が対応する。
+-干渉されずプライベートで楽しみたい方向けに、従業員の許可がないと"絶対に"立ち入れない部屋を貸し出している。
+-カジノルールの周知や、町を盛り上げる為、「カジノ王」などの様々なカジノ主催イベントを実施している。
+--また、「街を盛り上げる」という想いから、各イベント会社や飲食店が主催する他イベントへの協力・出資に前向きである。
+--実際に[[GBC>GoodbyeCircus#Goodbye Company]]に協力を持ちかけたり、[[らびすぴ>らびすぴ#イベント会社「らびすぴ」]]や[[海上レストラン>Urashima]]主催のイベントへの協力をしている。
+
+***&big(){&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-gem)&space(2)権利　}}
+公的に認可された賭博場のため、合法的に賭博が可能である。
+-カジノが運営、協力するイベントは「賭博罪」の適用外にすることができる。
+カジノ内でのルール違反者に対して出禁の措置を取ることが可能である。
+-&b(){ルール：}他のお客様へのご迷惑となる行為。&nbsp(br,15)施設内、施設への発砲行為。&nbsp(br,15)従業員への脅しや暴力行為などの危害を与える行為。
+
+**大型強盗犯罪「カジノヘイスト」対応
+***&big(){&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-circle-info)&space(2)概要　}}
+&font(11,gray){犯罪概要については、[[ロスサントスの犯罪について]]頁の「[[カジノヘイスト>ロスサントスの犯罪について#カジノヘイスト]]」項参照}
+-当犯罪にて盗難される金庫は国庫のものであるため、本カジノ金庫とは無関係である。
+-「街を盛り上げる」というポリシーのため、ヘイスト中のギャングと警察による銃撃については容認している。
+//
+***&big(){&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-circle-info)&space(2)対応　}}
+-経験則的に停電後は"カジノヘイストが行われる可能性がある"ため、カジノ従業員による避難誘導が行われる。
+--避難誘導時は、犯行グループを下手に刺激して命を危険にさらすことのないよう、警察への通報は行わない。
+-警察による収束判断の連絡によって通常営業が再開する。
+-オーナーの申告により、カジノ襲撃を行ったグループには営業妨害罪も課される。
+-避難誘導がスムーズに行われるよう、防災訓練等を予定している。
+//
+#right(){&link_anchor(目次){△目次へ}}
+//---<従業員情報>---------------------------------------------------------//
+*&font(30px,#CCCCCC){従}&font(25px){業&font(#CCCCCC){員}情&font(#CCCCCC){報} &icon_fa(fa-solid fa-mask)}
+**業務概要
+カジノ内での接客とゲームのルール説明が主な業務。
+集客業務も含まれており、街中での宣伝や告知、利用客の送迎等、施設内に居続ける必要は無い。
+
+//以下詳細について、役職紹介のため、対応のみを簡潔記載するよう整理しました。従業員紹介に当たる記載は、従業員情報欄の方へ移行。
+#div(width=335px,bgcolor=#3E8182){&font(b,#FFFFFF,135%){&space(2)&icon_fa(fa-solid fa-play)&space(2)役職別詳細}}
+***&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-user)&space(2)オーナー}
+カジノの所有権を持つ総責任者。
+-支配人では解決が難しい問題への対応。
+-危険な黒市民が多く利用するカジノを守るための抑止力。
+-従業員の安全を担保するための矢面。&openclose2(show=※){&nbsp(br,2)(無理な出資要望やゲームへの参加強要など、対面で断る際に角が立たないようにするため、また、ゲームで負けた客の鬱憤晴らしに利用されないように)}
+
+***&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-user)&space(2)支配人}
+経営方針の決定及び運営責任者。
+-人事や資産運用などの経営管理および、それに伴う市長対応。
+-カジノ施設全般の管理および調整。
+--プログラミング知識が必須であるカジノゲーム設定。
+--新規設備の設置を担う市長補佐カジノマスコットとの連絡業務。
+-従業員の安全保障及び、カジノヘイスト時の警察対応。
+-カジノ外主催の街イベントへの出資などの交渉や、協力運営の管理。
+&openclose2(show=＞ 衛星で公開されている支配人権限){&nbsp(br,2)・ラッキーホイールの確率設定及び景品車両の納車&nbsp(br,2)・各種カジノゲームの調整&nbsp(br,2)・最大/最小ベット額の変更&nbsp(br,2)・「ブラックジャック以外」の確率調整(「遠隔操作」は不可能)&nbsp(br,2)・迷惑客の出禁設定&nbsp(br,2)・カジノ金庫を含むBossメニューへのアクセス}
+#size(30%){　}
+&icon_fa(fa-solid fa-sack-dollar)：基本給＋自身で決定した額のボーナス
+
+***&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-user)&space(2)副支配人}
+-支配人業務の補助及び、不在時の代理。
+&icon_fa(fa-solid fa-sack-dollar)：基本給＋支配人からのボーナス
+
+***&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-user)&space(2)接客スタッフ}
+-カジノでの接客業務。
+--ゲーム全般のルール説明から、カジノ内のバー「[[Abelia]]」での飲食販売まで行う。
+--各飲食店から、カジノサービスで配布する飲食の仕入れも含む。
+-血痕等の清掃業務。
+&icon_fa(fa-solid fa-sack-dollar)：基本給＋販売したカクテルの売上
+
+***&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-user)&space(2)イベントスタッフ}
+-カジノ主催イベントの企画、及び運営接客業務。
+&icon_fa(fa-solid fa-sack-dollar)：イベント勤務ごとの歩合制。
+
+***&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-user)&space(2)体験スタッフ}
+-3日間の勤務体験。
+-メイン業務は、カジノ内接客とBAR「[[Abelia]]」の飲食販売。
+-接客経費として、100万チップが貸し出される。ただし、勝敗に限らず最終日に全回収。
+&icon_fa(fa-solid fa-sack-dollar)：自身が売ったカクテル売上の半額
+
+**従業員待遇
+#div(width=335px,bgcolor=#3E8182){&font(b,#FFFFFF,135%){&space(2)&icon_fa(fa-solid fa-play)&space(2)給与形態}}
+#size(30%){　}
+&font(b,u){働けば働くほど給与がもらえる成果給制度を採用。}
+-働きによって得られる給与の他、各種手当やボーナス等が支払われる。
+#region(給与内訳,open)
+#size(30%){　}
+&font(b,u){給与}
+▪&nbsp()市から支払われる時給
+▪&nbsp()業務に従じた時間分の分給【現在：50万/分】
+#size(50%){　}
+&font(b,u){各種手当}
+▪&nbsp()従業員会議への参加手当【現在：5千万円】
+&del(){▪&nbsp()カジノヘイスト時の対応手当【現在：1千万】}カジノヘイスト削除により停止
+▪&nbsp()イベント接客への参加手当【金額はイベント毎に可変】
+▪&nbsp()従業員主導ゲーム(ダイスポーカーなど)を対応した際の手当
+#size(50%){　}
+&font(b,u){賞与}
+▪&nbsp()[[Abelia]]商品を販売した際の販売金全額
+▪&nbsp()自身の従業員カクテル売上の半額
+▪&nbsp()オーナーによる気まぐれボーナス
+#endregion
+#size(30%){　}
+#openclose(show= ＞過去経緯){
+-カジノは民営化にあたり市へ20億の融資借金からスタートしたため、民営化当初は、カジノから支払われる固定給は無く、市から払われる基本給と、ごく偶に[[無馬オーナー>無馬　かな]]のポケットから支払われるボーナスのみが給料であった。
+-グランドオープンにて併設飲食店であるバー「Abelia」が開店。店を受け持つ[[鳥羽>鳥羽　咲夜]]により従業員カクテル制度が導入。働けば働くだけそのカクテル売上の一部が賞与として支給される形へ。
+-借金と利息の返済が終わった頃、現在形態の雛形となる歩合制の固定給制度を導入。当初は金庫に余裕がなかった（日に数十億と動くカジノ金庫ではマージン額も相当なものであった）ため薄給でのスタートとなった。
+-日々新しい業務が追加されていくカジノにおいて多忙だが稼げないという事案が発生。今後は業務が追加されるたび様々な手当を導入されていくこととなる。
+-街の物価上昇に伴い、給料額の見直しが行われる。カジノ金庫にもかなりの余裕が出て来たため街一番の高収入ジョブへ。
+}
+
+#div(width=335px,bgcolor=#3E8182){&font(b,#FFFFFF,135%){&space(2)&icon_fa(fa-solid fa-play)&space(2)福利厚生など}}
+-接客時に必要な経費として、従業員にはVIP会員代と300万チップを支給。勝った分はボーナスへ。
+--負けて無くなった際には、申告にて補填されるが、&openclose2(show=いくつかの制限){(VIPでは50万以上賭けないこと、バカ勝ちもバカ負けもあまりしないこと)}を設けられる。
+-送迎用の社用車がランクにより支給されており、カスタムも経費で自由に行える。
+-退職金は、在職期間中の業績により可変。オーナーより直々に支払われる。
+**就業条件
+-&bold(){就職するには「白市民パス」の所持が必須。}
+--警察、救急隊は「通報義務」があり、黒市民のお客様もいるカジノでは業務に支障が出る為、現在は受け付けていない。
+--白市民や街への還元ポリシー上、黒の従業員は避けている。
+--就職後に黒や公務員への転身は禁止にしていないが、オーナーへの相談が必要。
+-黒白関係なく、肩入れせず平等に対応する。
+--必要以上の&openclose2(show=干渉){(店内のギャングを通報する行為など)}は従業員の安全のため控えることが推奨されている。
+-&openclose2(show=指定制服){(「Diamond Casino」と書かれた制服、指定マスクの着用)}での勤務。
+--カジノヘイストでの誤射を避ける役割でもある。
+
+**従業員一覧
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){}
+#table_filter(){役職=show,就職日=hide,好物=hide,備考=show,所属=show}
+|~名前|~役職|~就職日|~好物|~備考|所属|h
+|[[無馬 かな>無馬　かな]]|&b(){オーナー}|'23/09/29|犯罪|カジノ常連だったギャングの元幹部。「白市民への還元を軸としたカジノ振興策」&br()を掲げ、運転資金20億の融資と、5000万円で経営権を買い取った。&br()市のインフラを考慮した経営を行ってきたことで、市長から高い信頼を得る。&br()迷惑客に対しては、黒市民へ顔が効く個人の立場を利用。それ相応の対処を担う。|[[個人医]]|
+|[[鳥羽 咲夜>鳥羽　咲夜]]|&b(){支配人}&br()バーテンダー|'23/10/08|女|バーテン経験のある白市民。併設バー [[Abelia]] を運営しオリカクサービスを提供。&br()経営補佐や外交をこなす副支配人として、長くオーナー代理を務めた功績にて&br()バーテン修行目的の日本一時帰国を経た後、正式に経営権を譲られ支配人へ。&br()|[[魔法少女カフェ>RitUal:]]&br()[[物産展協会]]&br()[[Lunaflix]]|
+|[[ユズリハ シャーロット>ユズリハ　シャーロット]]|広報|'23/11/26||新規雇用応募の面接にて合格。&br()カジノでの出来事を記事にする等、記者の能力を活かした広報を担っている。|[[ペンカートン情報局]] &br()[[カニメイト]] |
+|[[龍造寺 ケンシロウ>龍造寺　ケンシロウ]]|従業員|'24/02/03||バーテンダーを目指しており、[[鳥羽>鳥羽　咲夜]]に師事している。&br()鳥羽一時帰国により、カジノ業務(主にBAR関連)を任されている。|[[Violet Fizz]]|
+|[[狐野 承志>狐野　承志]]|従業員|'24/03/01||[[鳥羽>鳥羽　咲夜]]から誘われ、ジョブを空けてまで体験に臨み正式採用となった。&br()鳥羽一時帰国により、カジノ業務(主にイベント関連)を任されている。|[[9055]]&br()[[深沢モータース]]|
+|[[土場 リグゼ>土場　リグゼ]]|従業員|'24/03/23||体験後、[[鳥羽>鳥羽　咲夜]]に認められ雇用となった。&br()数字に強く、確率計算等、[[狐野>狐野　承志]]考案ゲームの検証をよく行っている。|[[PYC]]|
+|[[香月 ろぎあ>香月　ろぎあ]]|従業員|'24/04/03|[[彼氏>ヘルアン]]|元特別市民。ジョブ枠上限の頃より[[鳥羽>鳥羽　咲夜]]による熱烈勧誘が行われ、&br()[[犬カフェ>かしりん]]閉店タイミングで正式勧誘、本人&openclose2(show=都合){&br()(特別市民時代に経験できなかった仕事の体験巡り)}解消後、正式雇用。&br()鳥羽一時帰国により、事務業務代理を担当。管理目的でのBOSS権限を所有。|[[和菓子喫茶よすが>よすが]]&br()[[魔法少女カフェ>RitUal:]]&br()[[ShanaoR]] 従業員補佐|
+|[[寝言　怠惰]]|従業員|'24/12/10||体験後、公務員志望の為１度不採用となったが、&br()公務員を落ちた後に[[鳥羽>鳥羽　咲夜]]からの勧誘を受け就職した|[[Père Noël]]&br()[[菖光會]]|
+|[[ダ　ミチェル]]|従業員|'25/05/08||毎日カジノに通うギャンブラー&br()初日よりカジノを志望していたがなかなか支配人に会えず、体験を経て正式に採用|[[U FOR U]]|
+|[[岐阜野　こみ蔵]]|従業員|'25/06/13||カジノ好きのギャンブラー&br()本人の熱意により初心者ながら体験と面接を経て正式採用| [[豆おじさんのエアークラフト]]|
+|[[マクソン　最大]]|従業員|'25/06/13||街に来た初日からBJをするほどのギャンブラー&br()こみ蔵に憧れ体験と面接を経て正式採用|[[Père Noël]]|
+
+#table_sorter{odd=#FFFFFF,even=#F8F8F8}
+//
+//|役職|[[名前|就職日（’24/m/d）||備考|兼業|
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+}
+
+#region(過去の従業員)&bold(){過去の従業員}
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){}
+#table_filter(){就職日=hide,最終出勤日=show,役職=show,備考=show}
+|~名前|~役職|~就職日|~最終出勤日|~備考|h
+|[[月渚 雪男>月渚　雪男]]|オーナー|'22/09/29|'22/10/28|バーテンをやりたかったのに市長に初代オーナーにさせられたギャンブラー。&br()就任後まもなく経営難に陥り、ロスサントスの街から失踪。市長により経営権を剥奪された。|
+|[[山下 ひろし>山下　ひろし]]|オーナー|'22/10/|'23/09/29|市長。民間オーナーがいない期間、無限の財源でカジノを運営していた。|
+|[[隣 紀子>隣　紀子]]|従業員|'23/11/26|'24/01/27|教習所のお姉さん。起きる頻度やカジノに対する熱意の違い等から退職。|
+|[[豆 やん>豆　やん]]|従業員|'23/11/26|'24/02/28|最初の新規雇用で応募してきた1人。&br()メカニックやディーラーの新たな夢を目指し退職。|
+|[[イナ イロハ>イナ　イロハ]]|従業員|'24/01/12||体験で認められた為即日雇用された、カジノ初のBAR特化スタッフ。&br()自分のやりたいこととカジノの両立は厳しいと感じた為、退職。|
+|[[上田さん>上田　さん]]|従業員|'23/10/09|'24/05/28|営業力を見込んだ[[無馬>無馬　かな]]のスカウトで職員へ。&br()他社長業就職に伴い多忙になった為、接客対応からイベント班へ。&br()メカニック業との両立は難しいと感じた為、退職。|
+|[[天成 する蔵>天成　する蔵]]|従業員|'23/12/04||面接は不採用だったが、カジノ愛が[[鳥羽>鳥羽　咲夜]]の目に留まったことで雇用へ。&br()イベント会社[[らびすぴ]]の社員であることから、イベント運営を期待されている。&br()らびすぴとのグループ提携に伴い、板挟みになることを考慮。&s(){-クビ-}部署移動。|
+|[[葛城　司]]|従業員|'24/12/23||ジョブ数等の都合により退職|
+#table_sorter{even=#F8F8F8,odd=#FFFFFF}
+}
+#endregion
+
+**協力関係
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){}
+#table_filter(){名前=show,備考=show}
+|~名前|~備考|h
+|[[GoodbyeCircus]]|カジノイベント時の運営協力として、業務提携を組んでいる。|
+|各飲食店|フード商品の卸し提携。卸した商品はカジノバー利用客に無償提供|
+|[[隣　紀子]]|従業員を退職し、イベント時の臨時スタッフとして協力を約束。|
+|[[豆　やん]]|元従業員。カジノの人手が足りない際に自主的に協力してくれる。|
+#table_sorter{even=#F8F8F8,odd=#FFFFFF}
+}
+//グループ関連はグループの方へ移行。
+#right(){&link_anchor(目次){△目次へ}}
+//---<施設情報>---------------------------------------------------------//
+*&font(30px,#CCCCCC){施}&font(25px){設&font(#CCCCCC){情}報 &icon_fa(fa-solid fa-coins)}
+#div(width=335px,bgcolor=#3E8182){&font(b,#FFFFFF,145%){&space(2)&icon_fa(fa-solid fa-play)&space(2)Floor0 - 1階}}
+***&size(18){&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-dungeon)&space(2)メインホール　}}
+#size(90%){|CENTER:&font(b,u,16px){ATM}&br()'23/10/21～&br()入口横に&infobox(title=配備,trigger=hover,gravity=north,size=small){所持金が無くなっても安心！}|CENTER:&font(b,u,16px){CASHIER}&br()チップ交換所&br()&infobox(title=換金レート,trigger=hover,gravity=north,size=small){・10チップ=￥100・VIP会員登録￥1000万}|CENTER:&font(b,u,16px){BAR「[[Abelia]]」}&br()[[鳥羽>鳥羽　咲夜]]が運営するBAR&br()飲食が楽しめる。|
+|CENTER:&font(b,u,16px){クローク}&br()受付横に配置&br()&infobox(title=着替え,trigger=hover,gravity=north,size=small){指名手配犯の変装に利用を推奨している}が可能|CENTER:&font(b,u,16px){エレベーター}&br()階層移動が可能&br()&infobox(title=移動先,trigger=hover,gravity=north,size=small){メインホール、ホテルエリア、屋上}|CENTER:&font(b,u,16px){ラッキーホイール}&br()チャンスは1日1回&br()目前には景品車の展示|
+|CENTER:&font(b,u,16px){トイレ}&br()BARからの&br()アクセス◎|CENTER:&font(b,u,16px){店内BGM}&br()&infobox(title=楽曲,trigger=hover,gravity=north,size=small){♪ Betting on you!}&br()STAFF ONLY|CENTER:&font(b,u,16px){従業員用会議室}&br()従業員との会議に使用&br()STAFF ONLY|
+|CENTER:&font(b,u,16px){ラウンジ}&br()VIP専用|CENTER:&font(b,u,16px){スロット台}&br()数種類|CENTER:&font(b,u,16px){テーブルゲーム台}&br()各種中位レート|
+}
+//
+***&font(18px){&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-dungeon)&space(2)各種ゲームルーム　}}
+#size(120%){#openclose(show=◆ TABLE GAMES ROOM){
+#size(85%){&nowiki(){・}誰でも入れて遊べる部屋。
+&nowiki(){・}通常VIP合わせて、ブラックジャック台×3、ルーレット台×3、3カードポーカー台×3
+}}}
+#size(120%){#openclose(show=◆ VIP ROOM){
+#size(85%){&nowiki(){・}VIP会員のみが入室できるゲームルーム。
+&nowiki(){・}ブラックジャック、ルーレット、3カードポーカーのVIP台がひとつずつ設置されている。
+&nowiki(){・}室内の中央に大きなテーブルがあるが、ただの飾りである為、有効活用できないか調整中。
+}}}
+#size(120%){#openclose(show=◆ INSIDE TRACK ROOM){
+#size(85%){&nowiki(){・}競馬ゲーム「INSIDE TRACK」が楽しめる専用ルーム。
+}}}
+#size(120%){#openclose(show=◆ 超VIP ROOM){
+#size(85%){&nowiki(){・}従業員しか施開錠できない部屋。各種テーブルゲーム台が1台ずつ置いてある。
+&nowiki(){・}警察の介入ができない為、利用者が安心してゲームに挑戦できる部屋。
+&nowiki(){・}事前予約制で、料金は1000万円。
+&nowiki(){・}2階のホテルを購入済みのお客様は、無料で使用ができる。
+}}}
+
+#div(width=335px,bgcolor=#3E8182){&font(b,#FFFFFF,145%){&space(2)&icon_fa(fa-solid fa-play)&space(2)Floor1 - 2階}}
+***&font(18px){&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-bath)&space(2)ホテルエリア　}}
+-オーナーと支配人で全室を半々購入。&link_anchor(id_e1ada82d,pageid=823){レジデンシャルホテル}として利用中。
+//
+***&font(18px){&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-person-booth)&space(2)スタッフルーム　}}
+・ハウジング関連の変更に伴い一時保留中
+
+#div(width=335px,bgcolor=#3E8182){&font(b,#FFFFFF,145%){&space(2)&icon_fa(fa-solid fa-play)&space(2)Floor2 - 3階}}
+***&size(18){&underdot(#bbb,3px){&icon_fa(fa-solid fa-umbrella-beach)&space(2)屋上テラス　}}
+・プールやバーカウンターが設置されており、リラックスチェアや焚き火と共に、息をのむような景観が楽しめる。
+・ヘリポート完備。ヘリガレージの設置も考えられたが諸事情で無しに。
+・Floor3　2025/5頃、ヘリガレージの設置が認められた。
+//
+***&size(18){&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-house-flag)&space(2)ペントハウス　}}
+・パーティーエリアやメディアルーム、プライベートスパが併設された居住スペース。
+・メディアルームでは、イベント時にライブビューイングを行うことも。
+・カジノ従業員がバーテンダーを務める完全予約制の専用バーサービスが受けられる。
+
+#div(width=335px,bgcolor=#3E8182){&font(b,#FFFFFF,145%){&space(2)&icon_fa(fa-solid fa-play)&space(2)バックヤード}}
+***&size(18){&underdot(#bbb,3px){&icon_fa(fa-solid fa-dungeon)&space(2)オーナールーム}}
+-&openclose2(show=ボスメニュー){(機能：雇用関連アクセス,金庫,スタッシュ,着替え等)}や、ボススタッシュ、施設内を覗ける監視カメラが設置されている。
+-カジノマスコット(市長補佐)や、オーナーの影武者(ヘイスト時)がよく出現する。
+***&size(18){&underdot(#bbb,3px){&icon_fa(fa-solid fa-person-booth)&space(2)バックヤード　}}
+-小さい会議室がある従業員エリアと、巨大な金庫がある大型犯罪エリアの2つに分けられる。
+--双方のエリアは立ち入ることができないよう隔てられている。
+
+#div(width=335px,bgcolor=#3E8182){&font(b,#FFFFFF,145%){&space(2)&icon_fa(fa-solid fa-play)&space(2)場外}}
+***&size(18){&underdot(#bbb,3px){&icon_fa(fa-solid fa-horse-head)&space(2)競馬場　}}
+-カジノ裏にある競馬場「Vinewood Racetrack」。様々なイベントを開催する予定。
+***&size(18){&underdot(#bbb,3px){&icon_fa(fa-solid fa-car-side)&space(2)屋内駐車場　}}
+-従業員のみが利用可能な共有ガレージ。
+-入口には景品車の納車口があり&openclose2(show=気を付ける必要){(景品が既にある状態で納車すると、今ある物が破壊される)}がある。
+***&size(18){&underdot(#bbb,3px){&icon_fa(fa-solid fa-car-side)&space(2)屋外駐車場　}}
+-一般客も利用可能な共有ガレージ。
+***&size(18){&underdot(#bbb,3px){&icon_fa(fa-solid fa-house)&space(2)社宅　}}
+-清掃用具の洗剤や、共有のクラフト素材を置いておくための倉庫として利用。
+//
+#right(){&link_anchor(目次){△目次へ}}
+//
+*&font(30px,#CCCCCC){サ}&font(25px){ー&font(#CCCCCC){ビ}ス &icon_fa(fa-solid fa-dice)}
+//---< 来店サービス >-----------------------------------//
+**来店サービス
+***&size(18){&underdot(#BBBBBB,3px){&space(2)&icon_fa(fa-solid fa-coins)&space(2)ビジターボーナス　}}
+//
+-チップ交換所で1日1回取得できるボーナス。1000コイン。
+***&size(18){&underdot(#BBBBBB,3px){&space(2)&icon_fa(fa-solid fa-wine-glass)&space(2)ウェルカムドリンク　}}
+-遊んでいただいた方へ従業員カクテルを提供。
+//
+***&size(18){&underdot(#BBBBBB,3px){&space(1)&icon_fa(fa-solid fa-crown)&space(2)ラッキーオーナーボーナス　}}
+-カジノ内では滅多に出会えないオーナーに出合えた際に多額のチップを貰えるラッキーイベント。
+//---< Abelia >-----------------------------------------//
+**&icon_fa(fa fa-cocktail)&space()カジノバー「[[Abelia]]」
+カジノ1階にある[[鳥羽 咲夜>鳥羽　咲夜]]が運営するバー
+　→詳しくは[[Abelia]]の項を参照。
+#size(13){#include(Abelia/販売中)}
+//---< グラモンジムバトル >-----------------------------------//
+**&icon_fa(fa-solid fa-ribbon)&space()グラモンジムバトル
+コレグライベントであるジムバトルに挑戦できる。
+#size(50%){　}
+#size(85%){#table_style(head=120%:#367071:#FFFFFF){カジノジム=center}
+|>|~カジノジム|h
+|&blankimg(https://pbs.twimg.com/media/GKaMooBaQAAtunh?format=jpg,X=130)&br()&font(120%,b){ジムバッジ}[[&icon_fa(fa-brands fa-twitter)>>https://twitter.com/Albee0918/status/1776261739451146458]]&br()&font(10,#ccc){カジノらしいトランプの意匠}|&font(110%,b){ジムリーダー}&br()[[狐野 承志>狐野　承志]]|
+|~|&font(110%,b){対戦場所}：カジノ内|
+|~|&font(110%,b){ルール}&br()以下のグラモンのみ使用可。&br()&openclose2(show=ユニコーン){&nbsp(br,2)出現場所：カジノ裏競馬所}&br()&openclose2(show=ペガサス){&nbsp(br,2)出現場所：カジノ裏競馬所}|
+}
+//---< ラッキーホイール >-----------------------------------//
+**&icon_fa(fa-solid fa-bullseye)&space()ラッキーホイール
+メインホールにて1日1回挑戦できる運試しルーレット。&font(l,85%,#A0A0A0){ログインボーナス}
+-&openclose2(show=プレイ料について){&nbsp(br,2)当初のプレイ料は景品の価値により変動していた。&nbsp(br,2)プレイ料による収益が雀の涙であることや、集客率を高めることを目的に今では無料となっている。}
+//
+***&underdot(#BBBBBB,3px){&space(2)景品情報 &icon_fa(fa-solid fa-gift fa-xs)&space(2)}
+#region(開く)
+#size(110%){#openclose(show=◆ 展示車（VEHICLE）){
+#size(90%){&nowiki(){・}１ヶ所
+&nowiki(){・}低確率でホイール前の展示車が当たり、展示車が無い状態で当選した場合は他の景品が渡される。&font(85%,#A0A0A0){(欲がない人ほどよく当たるという噂も…)}
+&nowiki(){・}当選するとレギオンスクエアガレージに車が贈られる。
+&nowiki(){・}展示車は、町のディーラーから仕入れられ、町の白メカニックによってフルカスタムと塗装が行われる。
+}}}
+#size(110%){#openclose(show=◆ ドリンク（DRINKS）){
+#size(90%){&nowiki(){・}１ヶ所
+&nowiki(){・}「カクテル交換権」として使えるカジノバーガー、カジノコーラが入手できる
+}}}
+#size(110%){#openclose(show=◆ ランダム（RANDOM）){
+#size(90%){&nowiki(){・}１ヶ所
+}}}
+#size(110%){#openclose(show=◆ カジノチップ){
+#size(90%){&nowiki(){・}4ヶ所
+&nowiki(){・}10,000/15,000/20,000/25,000 &font(90%,#A0A0A0){(枚)}
+}}}
+#size(110%){#openclose(show=◆ 現金){
+#size(90%){&nowiki(){・}9ヶ所
+&nowiki(){・}💲:2,500/5,000/7,500/10,000/15,000
+&nowiki(){・}💰:20,000/30,000/40,000/50,000&nbsp(br,14)&font(90%,#A0A0A0){※当たった数値×10(円)の金額が手に入る。}
+}}}
+#size(110%){#openclose(show=◆ ハズレ（NOTHING）){
+#size(90%){&nowiki(){・}１ヶ所。現在0％
+}}}
+//
+#size(85%){
+#region(過去景品ラインナップ)過去景品ラインナップ
+//大きな景品の変更があった場合、過去の景品履歴を残しておきたいので古い情報をregionなどでしまって残していただけると幸いです。
+#areaedit()
+&bold(){【2022/11/14以前】}
+&nbsp(2)├展示車(VEHICLE)：1ヶ所
+&nbsp(2)├ハズレ(NOTHING)：1ヶ所
+&nbsp(2)├ランダム(RANDOM)：1ヶ所
+&nbsp(2)├&openclose2(show=ドリンク（DRINKS）：4ヶ所){&nbsp(br,2)｜&nbsp(1)└カジノバーガー、カジノコーラ}
+&nbsp(2)├&openclose2(show=カジノチップ：4ヶ所){&nbsp(br,2)｜&nbsp(1)└10,000/15,000/20,000/25,000 &font(90%,#a0a0a0){(枚)}}
+&nbsp(2)└&openclose2(show=現金：9ヶ所){&nbsp(br,6)└💲:2,500/5,000/7,500/10,000/15,000&nbsp(br,9)💰:20,000/30,000/40,000/50,000&nbsp(br,14)&font(90%,#a0a0a0){※当たった数値×10(円)の金額が手に入る。}}
+#areaedit(end)
+#endregion
+}
+#endregion
+//
+***&underdot(#BBBBBB,3px){&space(2)景品車情報 &icon_fa(fa-solid fa-car-on fa-sm)&space(2)}
+#region(現在の展示車,open)現在の展示車
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFDB){備考=#fff:#999,展示日=#fff:#aaa:center}
+#table_filter(){展示日=show,当選日・当選者=hide,備考=show}
+|~車種&font(85%,#DDDDDD){&nobold(){(種類)}}|~展示日|~当選日・当選者|~備考|h
+|[[Imponte Firecast Phoenix>>https://de.gta5-mods.com/vehicles/imponte-firecast-phoenix-add-on]]&br()&font(85%,#a0a0a0){(不明)}|'25/08/28&br()22:56||ボンネットのパーツがエンジン起動でうねうね動く&br()街１台の特別車。MOD車。|
+#table_sorter(){}
+//|^^車種^^&br()&font(85%,#a0a0a0){(^^クラシックカー^^)}|'24/mm/dd&br()00:00|||
+}
+#endregion
+#size(50%){　}
+#region(当選一覧)
+#size(90%){&font(95%,#A0A0A0){&openclose2(show=※展示日){：景品展示が行われた実際の時間orTwiXでの報告時間}／&openclose2(show=※当選日){：夢世界での日付＆日本時間}}
+//
+#table_style(head=#367071:#FFFFFF,hover=#FFFFDB){備考=#fff:#999,展示日=#fff:#aaa:center}
+#table_filter(){展示日=hide,当選日・当選者=show,備考=show}
+|~車種&font(85%,#DDDDDD){&nobold(){(種類)}}|~展示日|~当選日・当選者|~備考|h
+|[[Ocelot Lynx>>https://w.atwiki.jp/gtav/pages/1649.html]]&br()&font(85%,#a0a0a0){(スポーツカー)}|'22/09/29&br()00:28|'22/10/03 22:06 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/sa__ka__na/clip/SaltySavageLadiesTebowing-CpcWUt0kqapCco7W]]&br()[[伊坂　直樹]]|MIDDLE:9/29に展示車が追加されてからの当選者第一号。&br()[[市長>山下　ひろし]]の愛車が景品として提供された。(TwiX情報)|
+|[[Överflöd Autarch>>https://w.atwiki.jp/gtav/pages/1881.html]]&br()&font(85%,#a0a0a0){(スーパーカー)}|'22/10/12&br()04:19|'22/10/16 01:27 [[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/jfAPKAJhRuI?t=5h25m23s]]&br()[[海鈴　りおん]]|MIDDLE:新規住民の[[涼眩　K]]をカジノに案内した際に当選。|
+|[[Bravado Banshee>>https://w.atwiki.jp/gtav/pages/279.html]]&br()&font(85%,#a0a0a0){(スポーツカー)}|MIDDLE:不明|'22/10/19 21:19&br()[[けんポコ・フォージャー]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/FoWn5yUYNNc]]※アーカイブはメン限&br()(衛星有)他視点：[[霧切　トワ]]|
+|[[Bravado Banshee>>https://w.atwiki.jp/gtav/pages/279.html]]&br()&font(85%,#a0a0a0){(スポーツカー)}|'22/10/20&br()06:22|'22/1?/??&br()？|MIDDLE:（景品追加は10/20 06:22の市長ツイートで確認）|
+|[[Tri-Cycles Bike>>https://w.atwiki.jp/gtav/pages/611.html]]&br()&font(85%,#a0a0a0){(ロードバイク)}|'22/10/23&br()19:04|'22/11/04&br()[[ウィル　ナイアー]]|衛星放送外で当選。&br()※中の人の[[報告ツイート>>https://twitter.com/contami999/status/1588483527527763970]]|
+|[[Vapid Caracara 4×4>>https://w.atwiki.jp/gtav/pages/2473.html]]&br()&font(85%,#a0a0a0){(オフロード)}|'22/11/05&br()04:14|'22/11/12 01:37 [[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/ejBBFJ4bW-k?t=2h36m2s]]&br()[[桃兎　すずめ]]|MIDDLE:転居してきた初日に当選。|
+|[[Karin 190Z>>https://w.atwiki.jp/gtav/pages/1912.html]]&br()&font(85%,#a0a0a0){(クラシックスポーツカー)}|'22/11/12&br()02:02|'22/11/17 14:02&br()[[石定　シソジ]]|衛星放送外で当選。&br()(衛星有)他視点：[[天ノ　ぷら子]]|
+|[[caddy caddy>>https://w.atwiki.jp/gtav/pages/347.html]]&br()&font(85%,#a0a0a0){(ゴルフカート)}|'22/11/17&br()19:17|'22/11/18 05:19 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/u2up/clip/PoorEasyCoffeePartyTime-rCINyOJdGPhYNsM2]]&br()[[猫山　クロト]]|MIDDLE:欲していなかったが当選した。|
+|[[Veto>>https://w.atwiki.jp/gtav/pages/2652.html]]&br()&font(85%,#a0a0a0){(スポーツカー)}|'22/12/23&br()02:33|'22/12/27 23:58&br()[[柳田　ライアン]]|MIDDLE:車体カラーは赤|
+|[[Veto>>https://w.atwiki.jp/gtav/pages/2652.html]]&br()&font(85%,#a0a0a0){(スポーツカー)}|'23/01/16&br()23:37|'23/01/25 02:01 [[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/XC2JvCEUU4k?si=TSloffFyphApa4jU&t=3h20m22s]]&br()[[ラグランジュ　光芝]]|MIDDLE:車体カラーは黒|
+|[[Vapid Caracara 4×4>>https://w.atwiki.jp/gtav/pages/2473.html]]&br()&font(85%,#a0a0a0){(オフロード)}|MIDDLE:不明|'23/01/28 02:13 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/momomi5871/clip/TemperedViscousEggplantEleGiggle-5YnjRfwGu7Hr-U6o]]&br()[[ももみ　マルフォイ]]|MIDDLE:違う車が納車されたので市長補佐に交換してもらった|
+|[[Vapid Retinue MKⅡ>>https://w.atwiki.jp/gtav/pages/2523.html]]&br()&font(85%,#a0a0a0){(クラシックスポーツカー)}|'23/02/25&br()00:32|'23/03/16 20:06 [[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/G-oxqbQioNw?si=gWat8GBQ1CdJDVKa&t=0h6m20s]]&br()[[奇夢　ヤミ]]|MIDDLE:｢車以外だったらなんでもいい｣と言って回したら当選|
+|[[Tour Bus>>https://w.atwiki.jp/gtav/pages/719.html]]&br()&font(85%,#a0a0a0){(サービス)}|MIDDLE:不明|'23/03/26 &br()[[後藤　れむ]]||
+|[[Tour Bus>>https://w.atwiki.jp/gtav/pages/719.html]]&br()&font(85%,#a0a0a0){(サービス)}|'23/04/16&br()21:42|'23/04/21 23:19 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/cutty_chan/clip/RenownedTrappedBananaNinjaGrumpy-kpds_Yp0Wz_qyzgv]]&br()[[伊藤　カテジ]]||
+|[[Pegassi Monroe>>https://w.atwiki.jp/gtav/pages/341.html]]&br()&font(85%,#a0a0a0){(クラシックスポーツカー)}|'23/04/24&br()20:27|'23/04/24 22:00 [[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/1803083776?t=00h10m51s]]&br()[[須藤　冬馬]]|MIDDLE:景品が追加された約90分後に当選|
+|[[Ocelot Swinger>>https://w.atwiki.jp/gtav/pages/2212.html]]&br()&font(85%,#a0a0a0){(クラシックスポーツカー)}|'23/06/13&br()23:32|'23/06/15 21:22 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/zeronana07ch/clip/FunGiftedSpindleShadyLulu-Zqb7K3pcvDdSC5Pr]]&br()[[七瀬　ぜろ]]||
+|[[Albany Manana Custom>>https://w.atwiki.jp/gtav/pages/2642.html]]&br()&font(85%,#a0a0a0){(マッスルカー)}|'23/08/04&br()04:26|'23/08/04 23:30 [[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/LeqZ_zKFyek?si=pHI7dm6T4kCuMU7E&t=1h19m35s]]&br()[[猪狩　翔太]]||
+|[[Karin 190Z>>https://w.atwiki.jp/gtav/pages/1912.html]]&br()&font(85%,#a0a0a0){(クラシックスポーツカー)}|MIDDLE:不明|'23/08/10 17:28 [[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/jdrr6ZnaBZA?si=x7IbcgOk5jgFaTsN&t=0h27m5s]]&br()[[ましゃかり　トラボルタ]]||
+|[[Nagasaki Shopping Kart>>https://www.gta5-mods.com/vehicles/nagasaki-shopping-kart]]&br()&font(85%,#a0a0a0){(スポーツカー)}|'23/8/28&br()10:09|'23/08/29 23:49&br()[[パキ　ち]]|衛星外にて当選。MOD車。&br()斬新なカスタムがされている[[&icon_fa(fa fa-shopping-cart)>>https://img.atwiki.jp/streamergta5/attach/823/10952/casino_20230828_shoppingcart.jpg]]&font(#c0c0c0,80%){(画像：TwiX@hosa_k)}|
+|||||
+|[[Enus Windsor>>https://w.atwiki.jp/gtav/pages/1440.html]]&br()&font(85%,#a0a0a0){(クーペ)}|'23/09/30&br()20:49|'23/10/09 04:10 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://clips.twitch.tv/DignifiedVainMushroomBibleThump-JdBSFCzxMIYqlqB7]]&br()[[けっつん　太郎]]|2代目オーナー就任最初の景品展示車&br()フルカスタム＋[[大　川]]塗装品。プレイ料1万チップ|
+|[[Western Powersurge>>https://w.atwiki.jp/gtav/pages/2958.html]]&br()&font(85%,#a0a0a0){(バイク)}|'23/10/10&br()23:44|'23/10/11 03:38 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/momomi5871/clip/WiseDifferentPrariedogPastaThat-G4Q_U9j95NNAdcvO]]&br()[[ももみ　マルフォイ]]|フルカスタム＋[[プスカ大佐>ネズ]]塗装品。プレイ料1.5万チップ&br()展示車2度目の当選。国営時代より低確率だったが即日当選。|
+|[[Grotti Brioso 300>>https://w.atwiki.jp/gtav/pages/2657.html]]&br()&font(85%,#a0a0a0){(コンパクトカー)}|'23/10/12&br()00:41|'23/10/13 18:36 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/kaiking1101/clip/TrustworthyCoweringJackalOMGScoots-MF7G8mLfQA0oCP9L?featured=false&filter=clips&range=7d&sort=time]]&br()[[山田　カイキ]]|フルカスタム＋[[BIG　SUZUKI]](初期頃の)塗装品。&br()プレイ料1.5万チップ 『くもさんもくもくカー』|
+|[[Nagasaki BF400>>https://w.atwiki.jp/gtav/pages/1647.html]]&br()&font(85%,#a0a0a0){(オフロードバイク)}|MIDDLE:不明|'23/10/22 02:54 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://clips.twitch.tv/TriangularLazyHamburgerYee-zS0Ig09onIG_rTxg]]&br()[[葛城　司]]|フルカスタム＋[[小豆　最中]]塗装品。10月17～22日プレイ料金無料だった。&br()歪みによりマス目がわからない状態で回し当選。|
+|[[Declasse Tornado Custom>>https://w.atwiki.jp/gtav/sp/pages/1617.html]]&br()&font(85%,#a0a0a0){(クラシックスポーツカー)}|'23/10/21&br()17:00|'23/10/25 00:31 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/minami_tette/clip/BelovedImpossibleFloofFunRun-38uXDRSI9WxL1oQ8]]&br()[[なんば　てって]]|正規ディーラー取扱外のレア車両。[[山本　龍也]]から仕入れた。&br()[[ジャーク　武士]]塗装品。プレイ料&s(){1.5万}→1万チップ|
+|[[Överflöd Entity XXR>>https://w.atwiki.jp/gtav/pages/1936.html]]&br()&font(85%,#a0a0a0){(スーパーカー)}|'23/10/25&br()03:40|'23/10/29 20:01&br()[[中川　蔵人]]|正規ディーラー取扱前のレア車両。[[有坂　誉]]から仕入れた。&br()10/25中は展示期間(無料)、10/26 17:00より景品へ(プレイ料5万チップ)|
+|[[Dinka Vindicator>>https://w.atwiki.jp/gtav/pages/1461.html]]&br()&font(85%,#a0a0a0){(バイク)}|MIDDLE:不明|'23/11/04 18:29 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/pubg_jojoog/clip/AgitatedGrotesqueCormorantRickroll-xzR1c0_FK19lqbUS]]&br()[[狐野　承志]]|正規ディーラー取扱外のレアバイク。[[有坂　誉]]から仕入れた。&br()[[ルウ・ギャラクティカ]]塗装品(プレイ料5万チップ)。|
+|[[Vapid Guardian RV>>https://nl.gta5-mods.com/vehicles/vapid-rv-pack-add-on]]&br()&font(85%,#a0a0a0){(工業)}|'23/11/04&br()18:34|'23/11/06 18:08&br()[[ジャムリーヌ　バルサミコス]]|ディーラー価格4億の高性能キャンピングカー(プレイ料5万チップ)。&br()MOD車。衛星放送外で当選。※中の人の[[報告ポスト>>https://twitter.com/umejam0/status/1721460113859629460]]|
+|[[Pegassi Torero XO>>https://w.atwiki.jp/gtav/pages/2821.html]]&br()&font(85%,#a0a0a0){(スーパーカー)}|'23/11/18&br()17:00|'23/11/30 23:50&br()[[菖蒲　光樹]]|台数限定の人気スーパーカー(フルカスタム済み)。&br()ホイール景品の追加がしばらく空いたため、プレイ料無料で提供。|
+|[[Pegassi Ignus>>https://w.atwiki.jp/gtav/pages/2723.html]]&br()&font(85%,#a0a0a0){(スーパーカー)}|'23/12/04&br()20:42|'23/12/27 2:40&br()[[ブルー・スプリング・大男]]|オーナーに業務を任された副支配人[[鳥羽　咲夜]]が調達した初の景品。|
+|[[Överflöd Tyrant>>https://w.atwiki.jp/gtav/pages/1967.html]]&br()&font(85%,#a0a0a0){(スーパーカー)}|'23/12/30&br()04:26|'23/12/30 20:10&br()[[神保　アボ]]|[[小豆　最中]]によるカスタム。&br()衛星外にて当選。TwiXで当選報告をした。|
+|[[Dewbauchee Vagner>>https://w.atwiki.jp/gtav/pages/1782.html]]&br()&font(85%,#a0a0a0){(スーパーカー)}|'23/12/30&br()04:26|'24/01/03 21:25 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/kamehirosi/clip/RichEncouragingKittenTebowing-5cvjGmIeiPxxS0nY]]&br()[[焼野原　ひろし]]|[[うさぎさん>山田　パルコ]]によるカスタム。|
+|[[BIG Bobby Car>>https://www.gta5-mods.com/vehicles/big-bobby-car]]&br()&font(85%,#a0a0a0){(クラシックスポーツカー)}|'24/01/06&br()23:15|'24/01/07 17:42 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/sentankyofusho/clip/HappyRelievedGarlicMoreCowbell-GqlVtWrmxzmMwfW_]]&br()[[きゃばみざわ☆　ぎゃるみ↑]]|MOD車。[[市長>山下　ひろし]]から5億で仕入れた。&br()[[赤ちゃんキャップ>ましゃかり　トラボルタ]]によるカスタム。|
+|[[Adder>>https://w.atwiki.jp/gtav/pages/148.html]]&br()&font(85%,#a0a0a0){(スーパーカー)}|'24/01/08&br()00:49|'24/01/11 00:5?&br()[[小豆　最中]]|[[冬那　フナ]]によるカスタム。&br()衛星外にて当選。直後に衛星を開始した。|
+|[[Flywheels Couch Supreme>>https://www.gta5-mods.com/vehicles/flywheels-couch-supreme-add-on-lods]]&br()&font(85%,#a0a0a0){(クーペ)}|'24/01/12&br()02:16|'24/01/14 01:21 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/ryan3_ttv/clip/ThankfulGenerousHornetDansGame-m1Ljsm_mb_dGvU97]]&br()[[柳田　ライアン]]|MOD車(ソファー)。サス以外は全てフルカス仕様。&br()展示車2度目の当選。|
+|[[TUNAK>>https://www.gta5-mods.com/vehicles/raji-tunak-add-on-template-liveries]]&br()&font(85%,#a0a0a0){(バイク)}|'24/01/18&br()02:32|'24/02/15 18:20 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/r_k7den/clip/AgileOptimisticKeyboardCoolStoryBob-ahAQVx6TF2fCfM_p]]&br()[[天草　蒼]]|MOD車(トゥクトゥク)。フルカスタム。塗装は[[オーナー>無馬　かな]]。&co([[プスカ大佐>ネズ]]塗装品。)|
+|[[Ocelot Virtue>>https://w.atwiki.jp/gtav/pages/2960.html]]&br()&font(85%,#a0a0a0){(スーパーカー)}|'24/02/16&br()02:26|'24/02/22 00:36 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/pankunnanoda/clip/MistyFragileMageDatBoi-PdexAcnJjQj23wOr]]&br()[[パン　チャン]]|[[うさぎさん>山田　パルコ]]によるカスタム。|
+|[[Kafaros Monowheel>>https://www.gta5-mods.com/vehicles/monowheel]]&br()&font(85%,#a0a0a0){(バイク)}|'24/02/23&br()03:25|'24/02/23 03:35 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://clips.twitch.tv/ArtisticAffluentHorseradishPanicVis-gBdvxmYwrud8LYTz]]&br()[[葛城　司]]|MOD車(モノホイール)。フルカスタム。塗装は[[オーナー>無馬　かな]]。&co([[する蔵>天成　する蔵]]塗装品。)&br()景品投入後、ものの10分で当選。展示車2度目の当選。|
+|[[Shitz Bosozoku>>https://www.gta5-mods.com/vehicles/zokusha-pcj-600]]&br()&font(85%,#a0a0a0){(バイク)}|'24/02/23&br()03:52|'24/03/20 22:20 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://clips.twitch.tv/JoyousSparklingKiwiFailFish-susuTwdcJylXbtvt]]&br()[[狐野　承志]]|MOD車(族車)。フルカスタム。[[川　上]]によるカスタム。&br()展示車2度目の当選。|
+|[[Principe Deveste>>https://w.atwiki.jp/gtav/pages/2444.html]]&br()&font(85%,#A0A0A0){(スーパーカー)}|'24/03/20&br()22:27|'24/05/17 04:43 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/amon_yuuku/clip/ObservantHeadstrongSheepANELE-DGF4KxiWQcOyPJfm]]&br()[[葵井　優]]|[[星唄　サウ汰]]によるカスタム。&br()展示最長記録を更新|
+|[[Pegassi Zentorno>>https://w.atwiki.jp/gtav/pages/1086.html]]&br()&font(85%,#A0A0A0){(スーパーカー)}|'24/05/21|'24/05/29 02:49 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/kiruma_ch/clip/DeterminedDarlingZucchiniNomNom-ifHcnEt-BrCyEbDG]]&br()[[ジョシュア・マーキル]]|犯罪者ご用達の一台。[[プスカ大佐>ネズ]]カスタム|
+|[[Vapid Flivver>>https://www.gta5-mods.com/vehicles/vapid-flivver-add-on]]&br()&font(85%,#a0a0a0){(クラシックカー)}|'24/05/31&br()23:17|'24/07/11 03:53 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/darkzelk/clip/CulturedSweetSmoothieKappaWealth-LySj-8fk6_l1b_S4]]&br()[[エスターク・Z・ダークネス]]|馬車のようなMOD車|
+|[[Nagasaki tornado_st>>https://w.atwiki.jp/gtav/pages/1681.html]]&br()&font(85%,#a0a0a0){(クラシックカー)}|'24/07/10&br()28:24|'24/08/07 03:25[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/C_G5U1RAkcM?si=so9me4j3noFG1xYV&t=11988]]&br()[[スコティッシュ・ホールド]]|世紀末を感じさせるクラシックカー。&br()元カジノ従業員兼[[9055]]社長の[[上田>上田　さん]]によるカスタム|
+|[[Pegassi Tempesta Evo Stradale>https://www.gta5-mods.com/vehicles/pegassi-tempesta-evo-stradale-add-on-tuning]]&br()&font(85%,#a0a0a0){(スポーツカー)}|'24/08/11&br()00:59|'24/08/28 18:10[[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/so5u/clip/IcyFurryMoonKappaWealth-32xC_0OUc544ka4k]]&br()[[いわさき　そす]]|7億円の新車。[[上田>上田　さん]]から購入＆カスタム|
+|[[Torero XO>https://w.atwiki.jp/gtav/pages/2821.html]]&br()&font(85%,#a0a0a0){(スポーツカー)}|'24/08/30&br()01:42|'24/09/16 02:08&br()[[犬億　ロック]]|[[ねずみ　さん>えぐち　きの子]]から購入＆カスタム|
+|[[Comet S2 Cabrio>>https://w.atwiki.jp/gtav/pages/2740.html]]&br()&font(85%,#a0a0a0){(スポーツカー)}|'24/09/16&br()02:08|'24/09/20  23:21&br()[[ユン　ユンミ]]|街に2台の限定車。市長が二周年パレードで乗っていた車と同じ車種。&br()黒いボディーとタイヤは[[豆やん>豆　やん]]カスタム。|
+|[[Maxwell SHAMUS>>https://www.gta5-mods.com/vehicles/chum-s-bucket-of-classics-pack-add-on-sounds]]&br()&font(85%,#a0a0a0){(クラシックカー)}|'24/09/21&br()23:08|'24/10/06 02:25&br()[[寝言　怠惰]]|[[かな市長補佐]]オススメのまだ街に出回っていない特別な一台|
+|[[TURISMO OMAGGIO>>https://w.atwiki.jp/gtav/pages/3053.html]]&br()&font(85%,#a0a0a0){(スーパーカー)}|'24/10/09&br()01:35|'24/10/10  23:05 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/zawakun47/clip/PuzzledCorrectSquidRuleFive-Xg1FDeCZiaK95yAK]]&br()[[オザワ　ハヤマサ]]|[[大　川]]さんカスタム、[[上田　さん]]から購入|
+|[[Nero Custom>>https://w.atwiki.jp/gtav/pages/1706.html]]&br()&font(85%,#a0a0a0){(スーパーカー)}|'24/10/12&br()01:38|'24/11/21  02:51 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/m2_kento_heluan/clip/DeafTriangularArtichokeWTRuck-Dl1NSP25GvcvQ0R9]]&br()[[ヘルアン]]|[[羽山　ペティ]]さんカスタム、[[ねずみ　さん>えぐち　きの子]]から購入|
+|[[Flywheels Couch Supreme>>https://www.gta5-mods.com/vehicles/flywheels-couch-supreme-add-on-lods]]&br()&font(85%,#a0a0a0){(クーペ)}|'24/11/22&br()00:49|'25/01/27  02:21 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://clips.twitch.tv/GoodGracefulTruffleDatSheffy-iQje_3xsQF6673Zh]]&br()[[帝　レン]]|MOD車(ソファー)。導入2回目の限定車。&br()展示最長記録を更新|
+|[[Arcida ETOME>>https://www.youtube.com/live/yKeNCkfVuP0]]&font(85%,#a0a0a0){(不明)}|'25/01/30&br()00:01|'25/02/14  22:32&br()[[オスカー・ローラン]]|巳年カー。&br()市長補佐によるこの街にしか無い車。|
+|[[Pegassi Tezeract>>https://w.atwiki.jp/gtav/pages/1942.html]]&br()&font(85%,#a0a0a0){(スーパーカー)}|'25/02/18&br()22:38|'25/02/27  02:38 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/nanao_tp/clip/InexpensiveResourcefulClintRalpherZ-YOTlhLkA5E4N-OyR]]&br()[[御薬　キメ太郎]]|[[須藤　冬馬]]カスタムの電気自動車&br()ブルーベースに赤のアクセントを入れたレーシングカーの様なカスタム|
+|[[Coil E-bike>>https://youtu.be/1vNyDLMROos]]&br()&font(85%,#a0a0a0){(バイク)}|'25/02/28&br()22:38|'25/03/01  20:32 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/dayodayo_dayo/clip/SplendidNastyMushroomGingerPower-PLZ5ZaFCDNnE2xd7]]&br()[[堕夜　だよ]]|[[猪狩　翔太]]カスタムの電気バイク&br()バレンタイン期間の限定販売車両|
+|[[Dooballoo>>https://voodoocustom.tebex.io/package/5490105]]&br()&font(85%,#a0a0a0){(航空機)}|'25/03/04&br()20:45|'25/04/10  19:09 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/m2_kento_heluan/clip/ArtsyExuberantJuiceAsianGlow-JqP5iBhIYxcdK2Ed]]&br()[[ヘルアン]]|[[豆　やん]]カスタムの気球|
+|[[Western Besra>>https://w.atwiki.jp/gtav/pages/1241.html]]&br()&font(85%,#a0a0a0){(航空機)}|'25/04/11&br()23:28|'25/04/16 17:08&br()[[みこだ　よう]]|一人乗りの戦闘機|
+|[[Benefactor Stiring>>https://w.atwiki.jp/gtav/pages/1438.html]]&br()&font(85%,#a0a0a0){(クラシックカー)}|'25/04/16&br()20:06|'25/05/23 04:35 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/penko_channel/clip/ResourcefulLaconicParrotSeemsGood-UwE79FiYmeZVz-qn]]&br()[[くまの　ふでこ]]|[[かな市長補佐]]から購入した新車|
+|[[Iemanjá Cyber Citrus>>https://www.gta5-mods.com/vehicles/iemanja-cyber-citrus-add-on-sounds]]&br()&font(85%,#a0a0a0){(クラシックカー)}|'25/05/24&br()23:17|'25/06/06 23:55 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/vtubermiroku/clip/ComfortableSuaveSkirretRuleFive-P8J_6jR6r1lra4JZ]]&br()[[文殊　セイジ]]|[[アメリカの特撮TVドラマに出ていた車>>https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%83%882000]]によく似た車&br()スライドドアやエンジン起動時ボイス等の特殊仕様アリ|
+|[[BLEEDER WAGON>>https://fr.gta5-mods.com/vehicles/nagasaki-bleeder-wagon-add-on-t3rmina1nerd_]]&br()&font(85%,#a0a0a0){(クラシックカー)}|'25/06/08&br()21:34|'25/08/17 20:00 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/takatora23/clip/SwissShortCasetteVoHiYo-V_NYttWkp0dz8-eP]]&br()[[山本　寅子]]|ハンバーガー型の特殊車両&br()ジャンプとブースト機能がある。展示最長記録を更新|
+|[[Opressor>>https://w.atwiki.jp/gtav/pages/1767.html]]&br()&font(85%,#a0a0a0){(クラシックカー)}|'25/08/18&br()00:47|'25/08/21 23:43 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/pngnyukiya/clip/PerfectStrangeEndiveVoteYea-LY1G4TojrEPEPLae]]&br()[[ぺん　ゆきや]]|飛行可能なバイク&br()[[こみ蔵>岐阜野　こみ蔵]]指定によるカスタム|
+|[[Declasse Scramjet>>https://w.atwiki.jp/gtav/pages/2294.html]]&br()&font(85%,#a0a0a0){(クラシックカー)}|'25/08/22&br()00:00|'25/08/26 19:31 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/taitai19970904/clip/RoughGleamingLettuceDoubleRainbow-GOMaguIRpkXDSxCn]]&br()[[捌木　たいたい]]|マッハでGoGoしそうな特殊車両&br()ジャンプとブースト機能がある。|
+|[[Howard NX-25>>https://w.atwiki.jp/gtav/pages/1841.html]]&br()&font(85%,#a0a0a0){(航空機)}|'25/08/27&br()20:07|'25/08/27 22:04 [[&font(#6441A4){&icon_fa(fa fa-paperclip)}>>https://www.twitch.tv/kyoyu_shiroya/clip/BoxySilkyBorkSquadGoals-pcFk1NLlj7-yOsup]]&br()[[三否亭　四五六確]]|１番早くて１番運転し辛い航空機&br()[[豆　やん]]から購入＆カスタム|
+#table_sorter(){odd=#FFFFFF,even=#F8F8F8}
+//|車種&br()&font(85%,#A0A0A0){(種類)}|展示開始日|'yy/mm/dd&br()[[名　前]]||
+#table_sorter(){odd=#FFFFFF,even=#F8F8F8}
+}
+//
+//【ストック分】
+//X80 Proto
+//Kafaros Monowheel(モノホイール)
+//??(世紀末な車)
+//??(童話の馬車みたいな車)
+//Cycle Lowrider Bicycle(ローライダー)
+//■GTA5乗り物一覧参考URL【https://w.atwiki.jp/gtav/pages/26.html】
+//
+#endregion
+//---< ダイスポーカー >-----------------------------------//
+**ダイスポーカー
+カジノ内にて従業員と出来るゲーム。
+・ルール
+&blankimg(CASINO_DicePoker.jpg,x=427,y=240)
+//---< カジノゲーム >-----------------------------------//
+**カジノゲーム
+***&size(18){&underdot(#BBBBBB,3px){&space(2)&icon_fa(fa-solid fa-robot)&space(2)スロットマシン　}}
+一般的なカジノスロット。図柄の組み合わせで配当が決まる。
+&openclose2(show= ＞演出が淡白で確率も微妙なため、現在調整中){&nbsp(br,2)・１機種を除きほとんど当たらない為、スロットへの挑戦はオススメしていない。&nbsp(br,2)・第1回カジノ王決定戦ではその機種の台で安定して勝ち続け、最終結果２位となった者も}
+//
+***&size(18){&underdot(#BBBBBB,3px){&space(2)&font(120%){♠}&space(2)ブラックジャック　}}
+配られたカードの合計が21に近い方が勝つゲーム。
+比較的プレイヤー優位で勝率が高く、ベット上限額も高いため一番人気。
+&openclose2(show= ＞ベット額について){&nbsp(br,2)・誰でも遊べる中位レートと、VIP会員のみが遊べるVIPレートが存在。それぞれ賭け上限が異なる。&nbsp(br,2)・最低ベット額はそれぞれ、1000チップ(中位)、10万チップ(VIP)&nbsp(br,2)・2023年8月、ギャングの増加に伴うカジノ活性化に伴いVIP台の1億ベットが解禁。&nbsp(br,2)・2023年9月、[[2代目オーナー>無馬　かな]]の施策により中位レート台のベット上限が500万へ。非VIP会員の遊び幅を増やした。}
+&openclose2(show= ＞プレイについて){&nbsp(br,2)VIP客の間で「特定状況のディーラーが不当なほど強い」という巷説が流布、2代目オーナー[[無馬>無馬　かな]]が[[市長>山下　ひろし]]と共同で「カジノゲーム制作本社」に問い合わせた結果「デッキは毎回シャッフルされており公平である」という回答を得た。これにより、カウンティングでの攻略も不可能であることが判明。}
+//
+***&size(18){&underdot(#BBBBBB,3px){&space(2)&font(120%){♣}&space(2)スリーカードポーカー　}}
+3枚のカードを使って行われるポーカー。
+&openclose2(show= ＞プレイについて){&nbsp(br,2)・ブラックジャックと同じく、誰でも遊べる中位レート台と、VIP会員のみが遊べるVIP台が存在、それぞれ賭けられる上限が異なる。&nbsp(br,2)・プレイヤーに配布される手札が弱く、ディーラー側に強い手札が配布される現象が確認されているため、今後調整予定}
+//
+***&size(18){&underdot(#BBBBBB,3px){&space(2)&font(120%){♥}&space(2)テキサスホールデムポーカー　}}
+当カジノで唯一、客同士でチップを奪い合うルールのゲーム。
+ルール周知のためのフリーズアウトトーナメントの開催も考えている。
+&openclose2(show= ＞プレイについて){&nbsp(br,2)・'24/05/30：新しい台が輸入され、5000万と10万のレートで遊べるように。}
+//
+***&size(18){&underdot(#BBBBBB,3px){&space(2)&icon_fa(fa-solid fa-chess-pawn)&space(2)ルーレット　}}
+一般的なアメリカンルーレット
+&openclose2(show= ＞ルール){&nbsp(br)「0～36・00」合計38の数字から、ルーレットが当たる数字を予想してベットする。}
+&openclose2(show= ＞プレイについて){&nbsp(br,2)・最低ベットは100チップ。&nbsp(br,2)・何らかの「闇」の力が働いていると一部で噂されていたが、2代目オーナー[[無馬>無馬　かな]]が[[市長>山下　ひろし]]と共同で「カジノゲーム制作本社」に問い合わせ、仕様を解明。「磁石」(必ずカジノ側が勝つ設定)を取り除く調整が行われ、現在は正常にプレイすることができる。}
+//
+***&size(18){&underdot(#BBBBBB,3px){&space(2)&icon_fa(fa-solid fa-chess-knight)&space(2)競馬ゲーム「INSIDE TRACK」　}}
+競馬シミュレーションゲーム。巨大モニターに人気があり根強いファンが存在する。
+&openclose2(show= ＞ルール){&nbsp(br,2)5分に1回レースが開催され、プレイヤーは次のレースでどの馬が１着になるかをベットする。}
+&openclose2(show= ＞プレイについて){&nbsp(br,2)・実は手堅く勝つ「必勝法」があると噂されている。&nbsp(br,2)・国営時代、競馬に夢中で入り浸る住民が現れたため、待機時間が長めに調整されている。&nbsp(br,2)・再民営化後、「必勝法」を是正する代わり待機時間を元に戻す調整ができないか調査開始。}
+//
+//---< レジデンシャルホテル >-----------------------------------//
+**&icon_fa(fa-solid fa-bath)&space()レジデンシャルホテル
+お得意様を対象に、カジノ2階のホテルルームを貸し出すサービス。&font(#CCCCCC,80%){&s(){ホテルと言うより分譲マンション。}}
+-&openclose2(show=利用条項){&br()・利用料金は1億5000万を予定。&br()・犯罪には使用してはいけない。&br()・超VIP ROOMを無料で利用できる。&br()・オーナーor副支配人より鍵を譲渡される形で利用。}
+***&underdot(#BBBBBB,3px){&space(2)ルーム情報 &icon_fa(fa-solid fa-bed)&space(2)}
+#region(開く,open)
+|&openclose2(show=◇ 501){&nbsp(br)やや難ありな物件&nbsp(br)強烈な日差しが入っている&nbsp(br)&font(#CCCCCC,80%){内装：Furnished Motel Highend}}|&openclose2(show=◇ 502){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Furnished Motel Highend}}|&openclose2(show=◆ 503){&nbsp(br)カジノVIP客である[[ヴァン ダーマー>ヴァン　ダーマー]]に贈与&nbsp(br)&font(#CCCCCC,80%){内装：Furnished Motel Highend}}|&openclose2(show=◇ 504){&nbsp(br,2)空室&nbsp(br)&font(#CCCCCC,80%){内装：Furnished Motel Highend}}|&openclose2(show=◇ 505){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Furnished Motel Highend}}|
+|&openclose2(show=◇ 506){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Furnished Motel Highend}}|&openclose2(show=◆ 507){&nbsp(br)カジノVIP客である[[アルフォート ウェスカー>アルフォート　ウェスカー]]に贈与&nbsp(br)同席していた[[餡ブレラ>anbrella(餡ブレラ)]]のメンバーにも鍵を渡している&nbsp(br)&font(#CCCCCC,80%){内装：Furnished Motel Highend}}|&openclose2(show=◇ 508){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Furnished Motel Highend}}|&openclose2(show=◇ 509){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Furnished Motel Highend}}|&openclose2(show=◆ 510){&nbsp(br)カジノVIP客である[[Mon D>Mon　D]]に贈与&nbsp(br)&font(#CCCCCC,80%){内装：Furnished Motel Highend}}|
+|&openclose2(show=◆ 511){&nbsp(br)[[麻林 ラル>麻林　ラル]]が購入&nbsp(br)&font(#CCCCCC,80%){内装：Casino Hotel}}|&openclose2(show=◇ 512){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Casino Hotel}}|&openclose2(show=◇ 513){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Casino Hotel}}|&openclose2(show=◇ 514){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Casino Hotel}}|&openclose2(show=◇ 515){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Casino Hotel}}|
+|&openclose2(show=◇ 516){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Casino Hotel}}|&openclose2(show=◇ 517){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Casino Hotel}}|&openclose2(show=◇ 518){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Casino Hotel}}|&openclose2(show=◇ 519){&nbsp(br)空室&nbsp(br)&font(#CCCCCC,80%){内装：Casino Hotel}}||
+&font(11,gray){◇：空室}
+#endregion
+//
+#right(){&link_anchor(目次){△目次へ}}
+//---<イベント情報>---------------------------------------------------------//
+*&font(30px,#CCCCCC){イ}&font(25px){ベ&font(#CCCCCC){ン}ト &icon_fa(fa-solid fa-feather)}
+//---< カジノ王 >-----------------
+**カジノ王決定戦&space(2)&icon_fa(fa-solid fa-crown)
+&blankimg(https://pbs.twimg.com/media/GEtRItebcAANN2r?format=jpg&name=large,x=427,y=240)
+***&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-circle-info)&space(2)概要　}
+カジノが主催する初のイベント。現在は毎週土曜23時に開催。
+-VIP会員や、ギャングのみを対象とした限定日も設置。
+-&openclose2(show=ルール){&nbsp(br)参加者は事前に渡された1万チップでゲームを行い、最もチップを増やすことができた人が優勝。&nbsp(br)・制限時間は20分。前半と後半戦に分かれそれぞれ開始時に1万チップが配布される。&nbsp(br)・過度なチーミング行為は禁止。賭けや騙し取り詐欺はあり。&nbsp(br)・優勝者のみならず、2位、3位にも賞金が用意されている。}
+//
+***&underdot(#bbb,3px){&icon_fa(fa-solid fa-trophy)&space(2)歴代カジノ王　}
+#region(一覧)
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){}
+#table_filter(){タイトル=show,開催日=show,賞金=show,備考=show}
+|~タイトル|~開催日|~賞金|~優勝者|~備考|h
+|第１回カジノ王|'23/12/23|500万|[[牧田 ここな>牧田　ここな]]|２位[[この じょうじ>狐野　承志]]、３位[[エド・エトワール]]|
+|第２回カジノ王|'24/01/13|500万|[[川 上>川　上]]|２位[[ボタリン モンロー>ボタリン　モンロー]]、３位[[パンダ>淀川　てるみ]]|
+|VIP限定カジノ王|'24/01/20|2億|[[タンクトップ 竹森>TANKTOP　竹森]]|２位[[CPU]]、３位[[柳田 ライアン>柳田　ライアン]]|
+|第３回カジノ王|'24/01/27|2000万|[[さとう]]|２位[[焦月 ツルギ>焦月　ツルギ]]、３位[[この じょうじ>狐野　承志]]|
+|第４回カジノ王|'24/02/03|2000万|[[柚麦 とと>柚麦　とと]]|２位[[葛城 司>葛城　司]]、３位[[この じょうじ>狐野　承志]]|
+|第５回カジノ王|'24/02/10|2000万|[[焼野原 ひろし>焼野原　ひろし]]|２位[[この じょうじ>狐野　承志]]、３位 空位|
+|第６回カジノ王|'24/02/24|2000万|[[雪菱 メラ>雪菱　メラ]]|２位[[MC Sunrise>MC　Sunrise]]、３位[[春原 新>春原　新]]（1,2位同率につきチンチロで決戦）|
+|VIP限定カジノ王|'24/03/02|2億|[[トナ カイ>タシロ　カワセ]]|２位[[切間 てつお>切間　てつお]]、３位[[焦月 ツルギ>焦月　ツルギ]]（3,4位同率につきチンチロで決戦）|
+|第７回カジノ王|'24/03/09|5000万|[[ぞん 美子>ぞん　美子]]|２位[[柑橘 れもん>柑橘　れもん]]、３位[[はが かける>はが　かける]] (参加者少数につきオーナー判断で賞金増額)|
+|第８回カジノ王|'24/03/23|2000万|[[冬那 フナ>冬那　フナ]]|２位[[新宿 うさみ>パス　トバリ]]、３位[[街雄>街雄　サンリ]]|
+|第９回カジノ王|'24/03/30|2000万|[[風早 音子>風早　音子]]|２位[[豆 やん>豆　やん]]、３位[[君島 こはる>君島　こはる]]|
+|VIP限定カジノ王|'24/04/06|2億|[[つか山 天乃進>つか山　天乃進]]|２位[[ルール ちゃん>ルール　ちゃん]]、３位[[天王寺 京司郎>天王寺　京司郎]]|
+|第10回カジノ王|'24/04/27|2000万|[[にし のん>にし　のん]]|２位[[黒髭 ツムギ>黒髭　ツムギ]]、３位[[Mr.D>亀有　大吉]]|
+#table_sorter{odd=#FFFFFF,even=#F8F8F8}
+}
+#endregion
+
+//---< ギャンブル競技 >-----------------
+**ギャンブル競技&space(2)&icon_fa(fa-solid fa-medal)
+***&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-circle-info)&space(2)概要　}
+-カジノ施設の裏にある競馬場を使った賭博イベント。
+-カジノが考案したオッズシステムを使い、観戦者もギャンブルにて参加が可能。
+-&openclose2(show=オッズシステム詳細){&nbsp(br)・賭博レース用の賭け金計算システム。&nbsp(br)・市長補佐、[[葛城　司]]、[[海上レストラン>Urashima]]の協力のもと開発。&nbsp(br)・今後、競馬やカーレースといった勝負事への賭けイベントが開催しやすくなった。&nbsp(br)・レースの外れ券もカジノコインへ交換を可能に。}
+//
+***&underdot(#BBBBBB,3px){&icon_fa(fa-regular fa-handshake)&space(2)開催イベント}
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){日付=Left}
+#table_filter(){日付=show,イベント名=show,概要/詳細=show}
+|~日付|~イベント名|~概要/詳細|h
+|'24/04/13|&small(){　競輪イベント}&br()【&bold(){賞金総額10億円争奪戦GI}】|&openclose2(show=一攫千金を狙え！競輪イベント){&br()参加者は賞金で、観戦者は賭けで、それぞれが一攫千金を狙える一大イベント。&br()&bold(){カジノ主催の大型イベントは初。}&br()&br()【イベント内容】&br()予選レースを勝ち抜いた6名による競輪レース。&br()&br()カジノで制作した自転車レースで2週間程予選を行い、上位6名が予選へ進出。&br()本戦は、カジノ裏の競馬場を周回するガチ競輪。&br()&br()【予選】&br()&openclose2(show=通過){&nbsp(br,3)[[須藤冬馬>須藤　冬馬]]、[[堕夜だよ>堕夜　だよ]]、[[皇帝>ニックス　リア]]、[[雷堂ましろ>雷堂　ましろ]]&nbsp(br,3)[[フランシスコ マグナム>フランシスコ　マグナム]]、[[安保さぶ郎>安保　さぶ郎]]}&br()&openclose2(show=順位（昇順）){&nbsp(br,3)[[UMA CoffeeMaster>須藤　冬馬]]&nbsp(br,3)[[Dirty racer>堕夜　だよ]]&nbsp(br,3)[[エンペラー>ニックス　リア]]&nbsp(br,3)[[BtR ハン>アドミゲス・ハン]]&nbsp(br,3)[[BtR プラズマ>雷堂　ましろ]]&nbsp(br,3)[[Hs マグナム>フランシスコ　マグナム]]&nbsp(br,3)[[トリ>鳥野　ぎん]]&nbsp(br,3)[[JOG>狐野　承志]]&nbsp(br,3)[[ママナム>フランシスコ　ママナム]]&nbsp(br,3)[[上田さん>上田　さん]]&nbsp(br,3)[[あほ>安保　さぶ郎]]}&br()&br()【本戦】&br()&openclose2(show=結果){&nbsp(br,3)1位：[[皇帝>ニックス　リア]]&nbsp(br,3)2位：[[堕夜だよ>堕夜　だよ]]&nbsp(br,3)3位：[[フランシスコ マグナム>フランシスコ　マグナム]]&nbsp(br,3)4位：[[須藤冬馬>須藤　冬馬]]&nbsp(br,3)5位：[[雷堂ましろ>雷堂　ましろ]]&nbsp(br,3)6位：[[安保さぶ郎>安保　さぶ郎]]}&br()&openclose2(show=賞金){&nbsp(br,3)1位：5億円＆カジノ限定自転車&nbsp(br,3)2位：3億円、3位：1億円、4位：5千万円、5位：3千万円、6位：2千万円}&br()&openclose2(show=オッズ){&nbsp(br,3)[[UMA CoffeeMaster>須藤　冬馬]]：3.14倍&nbsp(br,3)[[Dirty racer>堕夜　だよ]]：4.99倍&nbsp(br,3)[[エンペラー>ニックス　リア]]：4.68倍&nbsp(br,3)[[BtR プラズマ>雷堂　ましろ]]：6.52倍&nbsp(br,3)[[Hs マグナム>フランシスコ　マグナム]]：4.12倍&nbsp(br,3)[[あほ>安保　さぶ郎]]：8.13倍}&br()&openclose2(show=車券について){&nbsp(br,3)・当日17時から無制限で事前販売、イベント中は一口20枚まで。&nbsp(br,3)・はずれ車券は1万チップで交換。後日でも対応可}&nbsp(br,3)&br()&br()&openclose2(show=スタッフ/協力){&br()【運営】[[カジノ]]&br()【協力】余興：[[GoodbyeCompany>GoodbyeCircus#Goodbye Company]]&nbsp(br,15)実況：福田さん&br()【提携飲食店】[[たこ焼き屋>https://w.atwiki.jp/streamergta5/pages/1142.html#id_40309e2b]]、[[奇肉屋]]、[[Violet Fizz]](ビール提供)&br()【ビールガール】町田ジョアンナ、隣紀子、空舞月りり、にしのん(協力)}}|
+|'25/09/07|&small(){　カジノ大型イベント}&br()【&bold(){賞金総額280億円争奪戦}】|&openclose2(show=激闘！！カジノ賭博録～ざわ…地下労働もあるよ～){&br()参加者は最低でも５人に投資してもらい、連帯保証人を立て参加するイベント。&br()優勝すると賞金を総取り出来る一大イベント。}|
+#table_sorter{odd=#FFFFFF,even=#F8F8F8}
+}
+
+**特別イベント&space(2)&icon_fa(fa-solid fa-medal)
+***&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-circle-info)&space(2)概要　}
+#openclose(show=・ 競馬レース「第一回無馬記念」12/8開催){
+&nowiki(){・}カジノ1周年を記念した大感謝祭競馬レース
+&nowiki(){・}乗馬ができる住民を集めてレースをし、その結果を予想して観客が賭けるという「ガチ競馬」。
+&nowiki(){・}賞金10億円
+&nowiki(){・}当選者
+ロイ マーチングナンバー・飯田 けんつ・太田 民子
+&nowiki(){・}賞品
+1位限定車&トロフィー
+2位限定バイク
+3位電動自転車
+&nowiki(){・}参加者名簿
+アドミゲス・ハン・ニャンコスキー・伊勢えびす・稲葉ゴン・堕夜だよ・つか山天乃進・こさ猫弐郎・犬上リオ
+&nowiki(){・}順位
+1位アドミゲス・ハン　賞金5億円&クラシックカー
+2位堕夜だよ　　　　　賞金2億円&ホイールバイク
+3位犬上リオ　　　　　賞金1億円&電動自転車
+4位稲葉ゴン　　　　　賞金7500万円
+5位こさ猫弐郎　　　　賞金5000万円
+6位伊勢えびす　　　　賞金2500万円
+7位つか山天乃進　　　賞金3000万円
+8位ニャンコスキー　　賞金2000万円
+&nowiki(){・}最後にマクドナルドさんからの歌唱
+Tonightフル歌唱
+
+}
+
+&nowiki(){-------------------}< コラボ商品提供 >-------------------
+[[奇肉屋]]・[[はままるうどん]]・麻SICKRECORDS
+[[よすが]]・YADORIGI
+
+**企業イベント協賛&space(2)&icon_fa(fa-solid fa-handshake)
+&bold(){「街を盛り上げたい」という方針から、他企業主催イベントにも積極的に協賛を行っている。}
+***&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-circle-info)&space(2)概要　}
+膨大なカジノ金庫からの出資を軸に、カジノ経営にも利点があるような内容で協賛。
+同じグループ会社である「[[らびすぴ]]」とは、互いのイベント時に協力し合う関係を築いている。
+//
+***&underdot(#BBBBBB,3px){&icon_fa(fa-solid fa-circle-info)&space(2)施策　}
+-合法賭博、オッズシステム、カジノチップ等、カジノにしか出来ないサービスの貸し出し。
+-イベント賞金の融資及び出資
+--出資の際は、現金ではなくカジノコインにて賞金を発行。カジノへの換金導線を設けることで集客につなげる。
+//
+***&underdot(#BBBBBB,3px){&icon_fa(fa-regular fa-handshake)&space(2)協力イベント}
+#region(一覧,open)
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){日付=Left,イベント名=b}
+#table_filter(){日付=show,イベント名=show,協力内容=show}
+|~日付|~イベント名|~主催|~協力内容|h
+|'24/01/28|らびすぴ逃走中|[[らびすぴ>らびすぴ#イベント会社「らびすぴ」]]|賞金としてカジノチップを出資。店内にてライブビューイングを実施。|
+|'24/01/31|ボートレース|[[海上レストラン>Urashima]]|本イベントの為に、&bold(){賭博レース用の賭けシステム}を開発し運用。&br()カジノにて負け舟券をカジノコインに換金。|
+|'24/02/07|9055グランドオープン&br()記念レース|[[9055]]|9055主催のレースを賭博システムを使用して、&br()出走者以外も楽しめる賭けレースとして運用。|
+|'24/04/24|らびすぴ大運動会|[[らびすぴ>らびすぴ#イベント会社「らびすぴ」]]|賞金として合計1億5千万の出資とカジノチップの使用許可。|
+|||||
+#table_sorter{odd=#FFFFFF,even=#F8F8F8}
+}
+#endregion
+//
+#right(){&link_anchor(目次){△目次へ}}
+//---<沿革>------------------------------------------------------------------//
+*&font(30px,#CCCCCC){沿}&font(25px){革 &icon_fa(fa-solid fa-chess)}
+**年表
+***&size(120%){&bgcolor(#367071){　&font(#fff,90%){前オーナー時代}&space(45)}}
+#region(2022年9月-2023年8月)2022年9月-2023年8月
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){日付=Left}
+|~日付|~出来事|h
+|'22/09/10|VIPシステム、屋上パーティスペースが追加。|
+|'22/09/29|ラッキーホイールの景品として展示された車が当たるようになる。|
+|'22/09/29|&bold(){[[月渚 雪男>月渚　雪男]]が志願し、初代オーナーに就任。}|
+|'22/10/**|&bold(){[[月渚 雪男>月渚　雪男]]が街から失踪。オーナー不在となったカジノは国営化された。}|
+|'23/08/**|ブラックジャックのVIPテーブルにて1億ベットが解禁。|
+#table_sorter{odd=#FFFFFF,even=#F8F8F8}
+//国営化のタイミング、1億ベット解禁などについて正確な日付をご存知の方がいれば追記編集お願いいたします。
+}
+#endregion
+
+***&size(120%){&bgcolor(#367071){　&font(#fff,90%){現オーナー就任後}&space(42)}}
+****&big(){&underdot(#bbb,3px){ 2023年}}
+#region(2023年9月-10月)2023年9月-10月
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){日付=Left}
+|~日付|~出来事|h
+|'23/09/16|[[無馬 かな>無馬　かな]]が[[市長>山下　ひろし]]にカジノ振興策をプレゼン。再民営化に向けた調整が開始された。|
+|'23/09/29|&bold(){[[無馬 かな>無馬　かな]]が5000万円を支払い2代目オーナーに就任。}運転資金として市から20億円の融資を受ける。&br()同日より白市民への還元を軸にしたカジノ復興策を掲げ、各種ゲーム・サービスの改善を始める。&br()整い次第「グランドオープン」として本格的に運営することに決定。|
+|'23/10/08|バーテンダー志望の[[鳥羽 咲夜>鳥羽　咲夜]]を雇用。|
+|'23/10/09|[[上田 さん>上田　さん]]を営業力を見込んで雇用。|
+|'23/10/12|カジノの「ブラックボックス」について市長を介してカジノ本社に問い合わせ。&br()ルーレットの仕様を解明。トランプゲームのディーラーに不正がないことを確認。|
+|'23/10/13|大型犯罪「カジノヘイスト」解禁に伴い店内設備が一部変容。不具合の発生したエリアを市が調査中。&br()不具合が多いため10/15にいったんカジノヘイスト導入が中止され、店内構造も以前の状態に復旧。|
+|'23/10/15|ルーレットの「磁石」が取り除かれ、開業以来続いていた「客が勝てない設定」が改善される。|
+|'23/10/21|入口とチップ交換所の間にATMが設置された。|
+|'23/10/22|「カジノ復興策」をもとに進めてきた準備が整い、&bold(){グランドオープン}の日程が2023年10月25日&openclose2(show=27時){（10月26日3時）}に決まる。|
+#table_sorter{odd=#FFFFFF,even=#F8F8F8}
+}
+#endregion
+
+#region(2023年10月-12月)2023年10月-12月
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){日付=Left}
+|~日付|~出来事|h
+|'23/10/26|&bold(){グランドオープン}&br()カジノ内装が大幅に変更され、配置の動線が分かりやすくなり、来場者が遊びやすい明るい雰囲気に。|
+|'23/10/29|市長に融資金の20億と利子5億円を返済。|
+|'23/11/04|ペントハウスエリアの貸切、オリジナルカクテル提供サービスを開始。&br()最初の事例としてパートナーの[[トラ美>なんば　てって]]との記念日を祝いたい[[トラ雄>街雄　サンリ]]にサービスを提供。|
+|'23/11/05|民営化後初の資金ショートが発生。&br()久々に起床した[[近藤 武蔵>近藤　武蔵]]の大勝ちで発覚。2営業日で30億のマイナスが発覚。&br()[[オーナー>無馬　かな]]が私費で補填した後、市から再度借りる手筈としたが、別客の大負けで難を逃れる。|
+|'23/11/06|[[鳥羽 咲夜>鳥羽　咲夜]]が副支配人に就任。|
+|'23/11/09|不動産ワイプに伴う休眠資金や払戻金の流入を懸念し、VIPテーブルの最大ベット額を一時的に5千万へ。|
+|'23/11/11|新従業員を男女各1名採用にて公募。&br()&openclose2(show=応募者){&nbsp(br,2)・[[佐桜 モチ>佐桜　モチ]]、[[ユズリハ シャーロット>ユズリハ　シャーロット]]、[[マクドナルド>ライトスターボーイ]]、[[豆やん>豆　やん]]、[[隣 紀子>隣　紀子]]、[[カム カマダ>カム　カマダ]]}と面接を行い、[[ユズリハ シャーロット>ユズリハ　シャーロット]]、[[豆やん>豆　やん]]、特別枠にて[[隣 紀子>隣　紀子]]を採用。&br()[[マクドナルド>ライトスターボーイ]]とはイベント時に「Goodbye Company」との業務提携を組む話をつけ&s(){追い返し}た。|
+|'23/11/12|各飲食店との提携についての交渉を開始。|
+|'23/11/15|TwiXにてカジノアカウントを作成、カジノ公式SNSの運用を開始。|
+|'23/11/15|後日面接に来た&openclose2(show=応募者){[[天成 する蔵>天成　する蔵]]、[[アヌギフ 白川>アヌギフ　白川]]}の対応を、[[オーナー>無馬　かな]]不在の為、[[副支配人>鳥羽　咲夜]]が行う。|
+|'23/11/16|[[オーナー>無馬　かな]]不在の為、[[副支配人>鳥羽　咲夜]]が後日面接に来た[[黒井 愛>黒井　愛]]の対応・合否連絡を行う。|
+|'23/11/16|裁判官の[[葛城 司>葛城　司]]から、[[キャプテン わきを>キャプテン　わきを]]がカジノ相手に20億の損害賠償を求め訴訟する旨の連絡を受ける。&br()訴訟を受理した[[オーナー>無馬　かな]]は、裁判側の弁護を依頼すべく[[マクドナルド>ライトスターボーイ]]に&openclose2(show=留守電){(正式には11/21に依頼)}を残す。|
+|'23/11/20|面接に通過した[[ユズリハ シャーロット>ユズリハ　シャーロット]]、[[豆やん>豆　やん]]を仮採用とし、カジノ従業員体験を実施。|
+|'23/11/22|大型犯罪「カジノヘイスト」が再解禁。※襲撃対象は国営時代の金庫で現カジノ金庫とは別物。|
+|'23/12/04|面接で不合格扱いだった[[する蔵>天成　する蔵]]を復活合格とし、雇用。|
+|'23/12/21|[[記者>ペンカートン情報局]]兼、広報担当の[[ユズリハ シャーロット>ユズリハ　シャーロット]]によるカジノを題材とした初のニュース記事がニュースアプリに掲載。|
+|'23/12/23|カジノ初のイベント「第一回カジノ王決定戦！」を開催。優勝者は[[牧田 ここな>牧田　ここな]]。|
+#table_sorter{odd=#FFFFFF,even=#F8F8F8}
+}
+#endregion
+//
+****&big(){&underdot(#bbb,3px){ 2024年}}
+#region(2024年1月)2024年1月
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){日付=Left}
+|~日付|~出来事|h
+|'24/01/06|カジノ賭け金の上限を2億に変更した。|
+|'24/01/08|[[副支配人>鳥羽　咲夜]]から[[オーナー>無馬　かな]]にバーの名前を提案・承認され、バー名称が「Abelia（アベリア）」に決定。&br()それに伴い、[[副支配人>鳥羽　咲夜]]の提案でバー業務に従事するバースタッフを募集。|
+|'24/01/13|第2回となる「カジノ王決定戦」を開催。優勝者は[[川 上>川　上]]。&br()この回から毎週土曜23時の定期開催に変更。|
+|'24/01/13|カジノバーにて職業体験を実施。初日には5人の体験を実施。|
+|'24/01/20|VIP会員限定のカジノ王の初回を開催。&br()優勝賞金は2億円。2位賞金は5000万円。3位賞金は2500万円。|
+|'24/01/24|カジノヘイスト時の対応について警察とすり合わせ会議を行う。|
+|'24/01/27|イベント「カジノ王」の1位賞金が2000万にアップ。&br()2位、3位にもそれぞれ500万、100万の賞金が出るように変更。|
+|'24/01/28|[[らびすぴ>らびすぴ#イベント会社「らびすぴ」]]主催イベント「らびすぴ逃走中」に出資し、店内でライブビューイングを実施。&br()外部イベントへの本格的な関与と出資は初。|
+|'24/01/31|[[海上レストラン>Urashima]]主催のイベントのボートレースに、賭けシステムの開発と運営サポートを実施。&br()カジノシステムの他店への貸し出し協力は初。|
+#table_sorter{odd=#FFFFFF,even=#F8F8F8}
+}
+#endregion
+
+#region(2024年2月-3月)2024年2月-3月
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){日付=Left}
+|~日付|~出来事|h
+|'24/02/03|[[魔法少女カフェ>RitUal:]]にて、初となる従業員の懇親会を実施。&br()[[副支配人>鳥羽　咲夜]]がBAR衣装を発表し、気に入った[[オーナー>無馬　かな]]がBARではなく新たなカジノ衣装として実装。|
+|'24/02/07|[[9055]]主催イベント「9055グランドオープン記念レース」に協力。&br()賭博レースシステムを使用し、レースに出ない人でも楽しめる賭けレースを開催。|
+|'24/02/14|お得意様を対象としたレジデンシャルホテルサービスを開始。手始めに常連のギャンボス3名へ贈呈。|
+|'24/02/25|従業員の定例会議を実施。&br()BARスタッフ制度が廃止され全員同じくカジノ正社員扱いとなる。&br()また、従業員カクテルの販売価格の見直しもされた。|
+|'24/02/28|[[豆やん>豆　やん]]が、メカニックやディーラーの新たな夢を目指す為、退職。|
+|'24/02/28|[[イナ イロハ>イナ　イロハ]]が、自分のやりたいこととカジノの両立は厳しいと感じた為、退職。|
+|'24/03/01|[[副支配人>鳥羽　咲夜]]の紹介で[[狐野 承志>狐野　承志]]を雇用。|
+|'24/03/13-14|第一回物産展にカジノバーとして出店。ホワイトデー限定商品を販売|
+|'24/03/20|従業員限定の新ゲーム「ダイスポーカー」始動|
+|'24/03/23|体験の[[土場 リグゼ>土場　リグゼ]]の仕事ぶりが副支配人に認められ雇用へ。|
+#table_sorter{odd=#FFFFFF,even=#F8F8F8}
+}
+#endregion
+
+#region(2024年4月)2024年4月～
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){日付=Left}
+|~日付|~出来事|h
+|'24/04/03|以前より勧誘していた[[香月 ろぎあ>香月　ろぎあ]]が本人都合を終え正式雇用に。|
+|'24/04/13|競輪イベント「賞金総額10億円争奪戦GI」が開催される。|
+|'24/04/14|[[副支配人>鳥羽　咲夜]]がバーテンダー修行の為、一時日本へ帰国。|
+|'24/04/23|[[カジノ]]並びにカジノバー「[[Abelia]]」の[[無馬グループ]]加入。|
+|'24/05/23|JTSイベント協賛|
+|'24/05/28|上田、する蔵が退職。|
+|'24/05/30|新テキサスホールデムポーカーの導入|
+|'24/07/21|[[副支配人>鳥羽　咲夜]]ロスサントスへ再入国。|
+|'24/09/03|VIP入会金(1千万→5千万)およびVIP最大掛金(5千万→2億5千万)の改定。&br()通常台最大掛金(5百万→2千5百万)も合わせて改定。|
+|'24/09/05|副支配人の[[鳥羽>鳥羽　咲夜]]へ経営権が移行。正式に支配人へ。&br()鳥羽の要望と、黒市民が多く遊ぶカジノの性質上、[[無馬>無馬　かな]]をオーナーとする形&openclose2(show=※){&nbsp(br,2)所有者をそのままにしておくことで、鳥羽の手に負えない事案には今まで通り無馬が責任を担う形。&br()}は継続。|
+|'24/12/06|ゴミ箱カーかくれんぼ＼\ ここなを見つけて！/／、&br()ゴミ箱カーオークション開催|
+|'24/12/08|第一回無馬記念開催|
+|'24/12/10|[[寝言　怠惰]]を雇用|
+|'24/12/23|[[葛城　司]]を雇用|
+#table_sorter{odd=#FFFFFF,even=#F8F8F8}
+}
+#endregion
+//
+****&big(){&underdot(#bbb,3px){ 2025年}}
+#region(2025年1月,open)2025年1月～
+#size(90%){#table_style(head=#367071:#FFFFFF,hover=#FFFFD6){日付=Left}
+|~日付|~出来事|h
+|'25/01/22|新年企画の2025万チップチャレンジを行う|
+|'25/04/09|[[葛城　司]]退職|
+|'25/04/12|[[BJローン]]との業務提携が成立|
+|'25/05/08|[[ダ　ミチェル]]を雇用|
+|'25/06/12|[[岐阜野　こみ蔵]]、[[白狼　フリル]]との面接を実施|
+|'25/06/13|[[岐阜野　こみ蔵]]を雇用|
+|'25/07/22|[[マクソン　最大]]を雇用|
+#table_sorter{odd=#FFFFFF,even=#F8F8F8}
+}
+#endregion
+
+#right(){&link_anchor(目次){△目次へ}}
+//---<交流>------------------------------------------------------------------//
+*&color(#E0E0E0){情報提供＆リスナー交流場}
+エピソード募集中！修正・削除等こちらまで。
+//【コメントの履歴は[[こちら>>カジノ/コメント欄]]】
+
+#pcomment(title_name=,10,カジノ/コメント欄,reply,enableurl,new)
+&aname(commentbtm)
+
+#right(){&link_anchor(目次){△目次へ}}
+#right(){&link_up(△ページTOPへ)}

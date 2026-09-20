@@ -1,0 +1,163 @@
+*&font(25px,#FFF){&font(30px,#C9C9C9){プ}ロフィール &icon_fa(fa fa-robot)}
+#slide_img(auto=5,width=300,height=450){Los Santos Live Camera_02.png,Los Santos Live Camera_01.png}
+
+&font(25px,b){「ナミビアに勝ちたいんです」}
+
+//ここからプロフィール
+#table_style(head=#E6E6FA:#666666){}
+|~名前|~&icon_fa(fa fa-robot)|&ruby(ロスサントス ライブ カメラ){Los Santos Live Camera}|
+|~出身地|~&icon_fa(fa fa-location-dot)|アメリカ|
+|~製造日|~&icon_fa(fa fa-screwdriver-wrench)|2025年12月19日 (&countup(2025/12/19,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2026年03月18日 (&countup(2026/03/18,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)||
+|~所属|~&icon_fa(fa fa-users)||
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)||
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o)|Middleee(ミドリ)|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧 &font(#1da1f2){&icon_fa(fa fa-twitter) Twitter}) @MiddleeeTV}>>https://x.com/MiddleeeTV]] &small(){（メイン）}&br()&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧 &font(#1da1f2){&icon_fa(fa fa-twitter) Twitter}) @Middleeetv_real}>>https://twitter.com/Middleeetv_real]] &small(){（避難）}|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (middleeetv)}>>https://www.twitch.tv/middleeetv]]|
+|BGCOLOR(#eee):~動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@Middleeetv)}>>https://www.youtube.com/@Middleeetv]] &small(){（切り抜き動画）}&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@Middleeetv_2nd)}>>https://www.youtube.com/@Middleeetv_2nd]]&small(){（アーカイブ置き場）}|
+|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):~&icon_fa(fa fa-user-plus)|&openclose2(show=クリックで表示){&br()[[ミン　ドリー]]&br()[[J　D]]}|
+
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&font(25px,#FFF){&font(30px,#C9C9C9){基}本情報 &icon_fa(fa fa-id-card-o)}
+-ロスサントスの&bold(){定点ライブカメラ}アンドロイド。（非公式）
+--定期的に場所を移動する。
+--一人称酔い防止のためにカメラの中央に何かいる。
+-喋らない、意思疎通は/meで行う。
+-信号を守る。
+-ライバルはナミビアライブカメラ。
+-無収入なため、スパチャ（ごはん）を貰えると喜ぶ。
+-野良猫のようにいろんな名前で呼んでもらって構わない。
+-見知った情報を他者に漏らすことはない。裁判等での映像提出依頼も拒否するつもり。
+//
+//-------------------------------------------------------------------------------------
+*&font(25px,#FFF){&font(30px,#C9C9C9){服}装一覧 &icon_fa(fa fa-shopping-bag)}
+#region(開く,open)
+#center(){|&blankimg(デフォルトコーデ_F.png,x=150,y=300)|&blankimg(デフォルトコーデ_B.png,x=150,y=300)|
+|>|デフォルトコーデ|}
+#endregion()
+//
+*&font(25px,#FFF){&font(30px,#C9C9C9){ラ}イブ記録 &icon_fa(fa fa-video)}
+***&font(16px,b,black){2026年}
+#region(開く,open)閉じる
+***03/18 [[Los Santos Live Camera 心無きの1日>>https://www.twitch.tv/videos/2725494622]]
+#region(開く)閉じる
+※Los Santos Live Camera本人は知り得ないですが、出会った人の人名を記載しています。
+・アパートで起動。
+・[[23:03~>>https://www.twitch.tv/videos/2725494622?t=00h08m17s]] &bold(){レギオン公園定点カメラ}
+・・あまり人がいなかった。
+・病院へ移動。
+・・バイクの[[アドミゲス・ハン]]、[[ジョーカー]]にチラ見される。
+・・アパート前は顔を隠した怪しい人しかいない。
+・[[23:22~>>https://www.twitch.tv/videos/2725494622?t=00h28m03s]] &bold(){病院前ベンチ定点カメラ}
+・・バイクの2人が再度通過。
+・・[[閃光寺　亜夢]]が心配して声をかけてきた。/me不発
+・・隠していた名前を頭の上に出す。
+・・[[猪狩　翔太]]が困惑しながら通過。
+・・救急隊（[[赤兎　がみとも]]、[[執事　K]]ほか）の出動を撮影。
+・・[[柳瀬　つん]]がグルグルしていた。
+・・救急隊が帰って来た。
+・徒歩移動中に声をかけてきた[[文殊　セイジ]]の車に乗る。[[&icon_fa(fa-solid fa-video)クリップ>>https://www.twitch.tv/middleeetv/clip/CoyBoxySaladKAPOW-AaZpN57MrDdKSNhv]]
+・・〔ついていきます〕〔ライブカメラで宣伝します〕
+・[[23:57~>>https://www.twitch.tv/videos/2725494622?t=01h02m19s]] &bold(){イタリアンレストラン[[acqua ovest]] 定点カメラ}
+・・[[ダミ　アン]]、[[町田　ジョアンナ]]、[[ブラック　ジャックス]]を困惑させる。
+・・心なきと心ありの間、アンドロイド型カメラと説明する。
+・・〔&bold(){ナミビアには勝ちたいです}〕
+・・定点カメラのおすすめの場所を教えて貰う。
+・・ジャックスに病院の密着として口利きしてもらえることになった。
+・ジョアンナに担がれ病院へ。
+・[[00:08~>>https://www.twitch.tv/videos/2725494622?t=01h02m19s]] &bold(){[[命田　守]]と病院の定点カメラ}
+・・守秘義務がある話をするときは離れると伝える。
+・・[[葛城　司]]からスパチャ（ごはん）を貰い喜ぶ。
+・・[[箱根　しおん]]に写真を撮られる。多動しおんを検知。
+・・カメラに映りたい[[橘　かげまる]]を映す。[[&icon_fa(fa-solid fa-video)クリップ>>https://www.twitch.tv/middleeetv/clip/ImpartialGracefulJamPJSalt-g5-kCLueYBDm8Mm9]]
+・・売店のカウンター内に移動。
+・・[[エスターク・Z・ダークネス]]の治療をするかげまるを撮影。
+・エスタークについて行き、ライブカメラになろうとするが、ついていけない犯罪に行く予定だったため断念する。
+・[[00:25~>>https://www.twitch.tv/videos/2725494622?t=01h30m39s]] &bold(){アパート前定点カメラ}
+・・中型に行く前の犯罪者の様子を撮影。
+・・チェイスを目撃。
+・・[[小峯　玲]]が扱いに困っていた。コンビニ強盗の人質に連れて行って、警察に引き渡されることになった。
+・・[[三島　みつー]]が「僕の名前はヘルアンです。今からコンビニ（強盗）をします」とカメラに向かって宣言。
+・・[[天草　蒼]]に盗難車が消えないように見張っておく仕事とスパチャ（ごはん）を貰い喜ぶ。
+・小峯とみつーにパシ上コンビニに連れていかれる。
+・[[00:49~>>https://www.twitch.tv/videos/2725494622?t=01h54m27s]] &bold(){コンビニ強盗の人質カメラ}
+・・〔わ～、たすけて～〕
+・・盗難車が消えてしまい、たまたま来た[[トーマス]]が車を置いて行ってくれた。
+・・小峯に誰かの偽名や変装ではないかと疑われる。
+・・警察の[[メチャ南　よる]]、[[伊勢　えびす]]、[[犬上　リオ]]が対応に来た。〔わ～、たすけて～〕〔ヘルアンさんに脅されてます〕
+・・小峯が警察に身元を調べるように求めた。
+・・変装ではない、本名であること、知り得た情報は誰にも漏らさないことを伝える。
+・・名前を募集する。
+・・スパチャ（ごはん）を貰い喜ぶ。
+・・[[伊勢　えびす]]のパトカーに乗りチェイスを撮影。〔NT〕
+・[[01:04~>>https://www.twitch.tv/videos/2725494622?t=02h09m02s]] &bold(){警察署定点カメラ}
+・・向かいの道路に移動。背後で物騒な音が聞こえた。
+・・警察が犯人を捕まえてきた。
+・・自転車の[[神田　じぇいのすけ]]にチラ見される。
+・[[ボタリン　モンロー]]に轢かれ、カメラが壊れそうになる。[[&icon_fa(fa-solid fa-video)クリップ>>https://www.twitch.tv/middleeetv/clip/SavoryHumbleHamsterNononoCat-xFHlfckrMwGcuBwJ]]
+・・病院に連れて行って貰い、葛城に修理してもらう。
+・・ボタリンと[[ももみ]]にスパチャ（ごはん）を貰い喜ぶ。
+・・女性型のアンドロイドであることに製作者の趣味かと疑問を呈される。〔そうです〕
+・・ももみはロボットが大好きらしい。
+・ボタリンに警察署に戻してもらう。連絡先は交換していないと断る。
+・[[01:28~>>https://www.twitch.tv/videos/2725494622?t=02h33m17s]] &bold(){警察署内定点カメラ}
+・・記者会見室に移動。
+・・[[四皇　シャンクズ]]に今度パトロールについて来てほしいと頼まれた。
+・・連絡先は交換していないと交換を断る。STATEには載っていないらしい。
+・・シャンクズの演説を撮影。〔ちゃんと撮らせていただきました〕
+・・外でリオが空気と戦っていた。
+・・人がいなかった。
+・徒歩移動。
+・[[02:06~>>https://www.twitch.tv/videos/2725494622?t=03h11m07s]] &bold(){メカニック[[LUNA Garage]]定点カメラ}
+・・[[メチャ南　よる]]が説明してくれ、メカニックに入り込む。簡単に受け入れられた。
+・・スパチャ（ごはん）をたくさん貰い喜ぶ。
+・・[[須藤　冬馬]]、[[斎藤　まさのり]]、[[捌木　たいたい]]が名前を考えてくれた。〔いろんな呼び方で大丈夫ですよ！〕
+・・・須藤からララ、たいたいからロっさんと呼ばれた。
+・・命田に「ここにいたのか」と発見された。
+・・[[捌木　たいたい]]の[[月乃　えるな]]への告白を撮影。〔言質とってます〕
+・・たいたいに警察署に送ってもらう。
+・[[02:25~>>https://www.twitch.tv/videos/2725494622?t=03h30m43s]] &bold(){警察署定点カメラ}
+・・メチャ南が初見の[[ジャック　馬ウアー]]に紹介してくれた。即受け入れられた。〔ついていっていいですか？〕
+・・[[味野　環九郎]]がメチャ南を殴った。〔ちゃんと撮れてます〕
+・・事件対応には連れていけないと話し合っていた。〔警察24時できます〕
+・レンタサイクルで病院へ移動。
+・[[02:35~>>https://www.twitch.tv/videos/2725494622?t=03h40m31s]] &bold(){病院の売店カウンター内定点カメラ}
+・・[[加賀　イズミ]]が気付いておらず驚かれた。
+・・ロビーのベンチに移動。
+・・来院してきた[[マクドナルド]]を撮影。
+・・橘かげまるに「市長に確認したら知らないよと言われた」と言われた。〔非公式です〕
+・・[[Dr．ギガ]]にアンドロイド考察をされた。[[&icon_fa(fa-solid fa-video)クリップ>>https://www.twitch.tv/middleeetv/clip/AssiduousThirstyMuleKappaWealth-hZ7vglRDHRPt-h2f]]
+・・ももみ、かげまる、ギガ、マクドナルドを撮影。ショートしそうになる。
+・・スパチャ（ごはん）を貰い喜ぶ。
+・・ロボットらしさを求められる。[[&icon_fa(fa-solid fa-video)クリップ>>https://www.twitch.tv/middleeetv/clip/DarkNurturingPuffinHeyGirl-aKM3s7FWUfw1TpFZ]]
+・[[02:57~>>https://www.twitch.tv/videos/2725494622?t=04h02m31s]] &bold(){3時瞑想前のアパート前の定点カメラ}
+・アパートに帰り、充電。
+#endregion()
+#endregion(2026)
+*&font(25px,#FFF){&font(30px,#C9C9C9){ア}－カイブ &icon_fa(fa fa-youtube-play)}
+&font(12px,b){注意：&font(#6441A4){&icon_fa(fa fa-twitch)} Twitchアーカイブはサブスクライブ限定、60日後に&font(white,red,15px){削除}されます。}
+&font(12px,b){アーカイブは&font(#DA1725){&icon_fa(fa fa-youtube-play)}&space()Youtubeの[[Middleeetv アーカイブ置き場>>https://www.youtube.com/@Middleeetv_2nd]]に移行されます。}
+***2026年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/18|1|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2725494622]]￤Los Santos Live Camera 心無きの1日|アーカイブ移行待ち|
+
+#table_sorter{even=#F7F7F7,odd=fff}
+//&font(#6441A4){&icon_fa(fa fa-twitch)}
+//&font(#DA1725){&icon_fa(fa fa-youtube-play)} 
+#endregion
+//-------------------------------------------------------------------------
+*&font(25px,#FFF){&font(30px,#C9C9C9){動}画 &icon_fa(fa fa-youtube-play)}
+#region(開く,open)閉じる
+#size(90%){#table_style(head=center:#E6E6FA){投稿日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|03/23|1|[[動く定点カメラでロスサントスの日常をみるミドリ>>https://youtu.be/8OzZZghxM1I]]|03/18配信(1日目)|
+#table_sorter{even=#F7F7F7,odd=fff}}
+#endregion
+#right(){&link_up(🔝ページTOPへ)}

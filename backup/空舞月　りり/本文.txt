@@ -1,0 +1,556 @@
+*&font(#ffb7c5){&icon_fa(fa-solid fa-circle-user)} プロフィール
+#slide_img(auto=2,position=left,width=320,height=420){profile20241005.png,profile20241004.png,profile20240809.png,profile20240408.png,profile20240425.png,profile20240426.png,profile20230823.png,profile20240405.png,profile20240720.png}
+//ここからプロフィール
+#table_style(head=#f988ae:#faf7f4:center){}
+#table_style(head=#f988ae:#faf7f4,hover=#fee9ee)
+|~名前|~&icon_fa(fa fa-user)|&ruby(くまつき){空舞月}　りり|
+|~出身地|~&icon_fa(fa fa-map-marker)|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|2006年1月2日（&countup(2006/1/2,y)歳）|
+|~血液型|~&icon_fa(fa-solid fa-droplet)|A型|
+|~転入日|~&icon_fa(fa fa-suitcase-rolling)|2023年5月10日（&countup(2023/5/10,yd)）&br()&bold(){(キャラクターエンディング済み)} &small(){～2025年9月22日}|
+|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa-solid fa-toolbox)&space()メカニック【[[Bear Moon Custom]]】&br()&s(){&small(){●社長 (2023/08/17~2023/9/19) 休職}} &small(){(2024/03/16~) 復職}&space()&small(){&openclose2(show=社長){(※2024/04/25社長に復帰)}}&br()&icon_fa(fa-solid fa-car fa-fw)&space()クラシックスポーツカーディーラー【[[ClassicSport J's]]】&br()&s(){&small(){●社員(23/09/16~23/09/19)休職}} &small(){(2024/03/16~) 復職}&br()&icon_fa(fa-solid fa-car fa-fw)&space()普通車ディーラー【[[斎藤モータース]]】&br()&small(){●社員/経理担当(2024/07/04~)}&br()&icon_fa(fa fa-user-slash)&small(){&openclose2(show=過去の職業){&nbsp(br,7)&bold(){&icon_fa(fa-solid fa-bread-slice)&space()パン屋【[[ベーカリー早苗]]】}(2023/05/19~2023/09/15)}}|
+|~所属|~&icon_fa(fa-sharp fa fa-people-group)|&icon_fa(fa-solid fa-person-snowboarding)&space()スケボークラブ【sk8club】&br()&small(){●(2023/05/12~)}&br()&icon_fa(fa-solid fa-flag-checkered)&space()レーシングチーム【芝一族】&br()&small(){●Valfarre(2023/06/20~)}&br()&icon_fa(fa-solid fa-people-roof)&space()平井コスプレ集団【[[ひらいけ]]】&br()&small(){●&color(#ff0000){平井のいぬ}(2024/07/20~)}|
+|~資格/免許|~&icon_fa(fa-regular fa-address-card)|原付/普通自動車/自動二輪/大型特殊&br()ヘリ/レース/白市民パス|
+|~TwiX|~&icon_fa(fa fa-crow)|@riri|
+|BGCOLOR(#f84d87):COLOR(#faf7f4):~プレイヤー|BGCOLOR(#f84d87):COLOR(#faf7f4):~&icon_fa(fa-solid fa-heart-pulse)|さくま りる / Sakuma Riru|
+|BGCOLOR(#f84d87):COLOR(#faf7f4):~告知等|BGCOLOR(#f84d87):COLOR(#faf7f4):~&icon_fa(fa fa-bullhorn)|&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)} [[&font(#000000){(旧&font(#1da1f2){Twitter}) @R15uu}>>https://twitter.com/R15uu]]|
+|BGCOLOR(#f84d87):COLOR(#faf7f4):~配信場所|BGCOLOR(#f84d87):COLOR(#faf7f4):~&icon_fa(fa fa-video-camera)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (rirupeche)}>>https://www.twitch.tv/rirupeche]]|
+|BGCOLOR(#f84d87):COLOR(#faf7f4):~動画投稿|BGCOLOR(#f84d87):COLOR(#faf7f4):~&icon_fa(fa-solid fa-file-video)|&font(#c9243a){&icon_fa(fa fa-youtube-play)}[[&font(#c9243a){YouTube (@R15u)}>>https://www.youtube.com/channel/UC3oQOQiSqiep5vmkuJe3rkQ]]|
+|BGCOLOR(#f84d87):COLOR(#faf7f4):~別キャラ|BGCOLOR(#f84d87):COLOR(#faf7f4):~&icon_fa(fa fa-user-plus)|&small(){&openclose2(show=※ネタバレ注意){&br()[[紫音　ウィスタリア]]}}|
+
+//目次に日別エピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+&aname(目次1,option=nolink){}
+#region(目次を開く)✖️閉じる
+#contents(fromhere=true,level=3)
+#endregion
+
+#region(人物設定情報（ネタバレ注意）)✖️閉じる
+&b(){設定情報（街に来る前の事前配信で公開された情報）}
+//
+#blockquote(){妹は空舞月　るる。2人は連れ子同士の義理の姉妹。りりは母親の連れ子。
+（名前が似ているのはたまたま、共通点が多いことから姉妹や親友以上の何かを感じ度々2人の世界に入るほど仲良し）
+日本で16際の頃から姉妹として両親と生活を送っていたが、とある事件のせいで2人で逃げ出すことに。
+深夜、海にあった船に乗り込んで逃亡を図るも、乗った船は密輸船で、見つかり海へ投げ出される。
+命からがら辿り着いたロスサントスでは「自分探しの旅に来た」という体で、2人での幸せな暮らしの為に真っ当な人生を送りたいと考えている。
+
+［誕生日］1月2日（17歳）
+［身長］160cm
+［体重］46.1kg
+［趣味］ショッピング・お喋り・いたずら
+［性格］流されやすい・明るい・大胆
+［今後］妹と暮らす為、沢山お金を稼ぎたい}
+//
+#endregion
+//
+*&font(#ffb7c5){&icon_fa(fa-solid fa-cart-flatbed-suitcase)} キャラクターエンディング
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-plane-departure)&space()&bold(){キャラクターエンディング}}}}
+-2023年9月20日、19日付けでロスサントスを去る旨を届け出していたことが[[BMC>Bear Moon Custom]]の従業員に市長経由で伝えられる。&br()&nbsp(4)↳&small(){[[市長発表　空舞月るる視点>>https://youtube.com/clip/UgkxApsM07tcoOhis1wJCuNPnNPsFePVWnSS?si=n9bjLJbEEDerSxE6]]}
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-plane-arrival)&space()&bold(){再入国}}}}
+-2024年3月16日、ロスサントスに再入国し、&infobox(title=懐かしい住民,trigger=click){マクドナルド}に&s(){FIBへ拉致されそうになるも、}[[BMC> Bear Moon Custom]]まで送ってもらう。
+#Region(プレイヤーのツイートより)✖️閉じる
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ストグラ運営さんからのお知らせの通り、空舞月りりとして、この度ストグラに復帰させていただく事になりました。<br>先程の雑談枠で色々お話をしていますので詳しくはそちらを見ていただければと思います🙇<br>後は自分の行動で示すだけなので、無理せず面白い事を届けられたらなと思っています。…</p>&mdash; さくま りる🧸🍒 (@R15uu) <a href="https://twitter.com/R15uu/status/1768681414160191587?ref_src=twsrc%5Etfw">March 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}#EndRegion &br()
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-bed)&space()&bold(){長期休眠}}}}
+-2024年10月20日から長期の山籠もりをしていたが、2025年4月23日、[[空舞月るる>>空舞月　るる]]と[[神道まきぴ>>神道　まきぴ]]に昏睡状態で発見される。スケボーでの下山中に転倒・負傷し、救急搬送で下山することに。
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-children)&space()&bold(){キャラクターエンディング}}}}
+-&bold(){2025年9月22日、ストグラSeason1終了に合わせてエンドへ移行することを告知。}
+#Region(プレイヤーのツイートより)✖️閉じる
+-&bold(){空舞月姉妹はゲートを潜らない選択をした}
+#twitter_widget3(){
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">りりとしてやり残した事も多いですがコンスタントな起床が難しいので今回のワイプで空舞月りりはエンドとしました。<br>ロスサントスにいる間りりちゃんを見守って応援してくださった観測者の方には本当に感謝しております。… <a href="https://t.co/zXQhYuMkns">pic.twitter.com/zXQhYuMkns</a></p>&mdash; さくま りる🧸🍒 (@R15uu) <a href="https://twitter.com/R15uu/status/1969977004750672348?ref_src=twsrc%5Etfw">September 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}#EndRegion &br()
+//
+*&font(#ffb7c5){&icon_fa(fa-solid fa-id-card)} 基本情報
+-妹は[[空舞月るる>>空舞月　るる]]。2人は連れ子同士の義理の姉妹。
+-ロスサントスの街に着いた時は2人で海岸におり、自分だけが倒れていた。&br()&nbsp(4)↳（実際は泳いできたが、妹に話を合わせ「遊園地ではしゃいで食事を忘れた」と周囲には説明）
+-「自分探しの旅」を目的に街に来た。&br()&nbsp(4)↳（&infobox(title=本当の理由,trigger=click){「#06 🔰告白。」参照。（家に火を放って逃げてきたこと。両親の状況はわからないこと。）}は、[[ヘラシギ]]さんと[[シャンクズ>>四皇　シャンクズ]]さんにだけ打ち明けている。）
+-姉妹について市民に聞かれるたび「露出が多いほうが姉です」と答えている。&br()&nbsp(4)↳（服装はお母さんが派手な人だった影響、最近では「頭のお団子の数が2つが姉」という新しい挨拶を覚えた。）
+-常に刺激を求めており、挑戦したいと思えたことには積極的に飛び込んでいく性格。
+-素直で遠慮のない物言いをするタイプ。言葉の切れ味が鋭く、特に[[葛城さん>葛城　司]]さんの心に突き刺さる傾向がある。
+-再入国後、久々に会った[[四皇シャンクズ>>四皇　シャンクズ]]にこれまで話せなかった&infobox(title=過去,trigger=click){「#83 騒がしそう。」参照（悪い事して日本から逃げて来た事、この半年間両親に呼び戻され日本で反省していた。）}を打ち明け、半年前までは犯罪者に厳しかったが、今は&infobox(title=寛容,trigger=click){指名手配であっても警察に突き出すことはしない。}になったと伝える。
+-&infobox(title=とある人物,trigger=click){四皇　シャンクズ}に想いを寄せており、&infobox(title=恋バナ,trigger=click){「#94 社員に１億借金してホストクラブを満喫day」参照。}では「昔も今も好きだが、彼が幸せであることを願っている」と語っている。&br()&nbsp(4)↳1年ぶりの再会で、&infobox(title=過去,trigger=click){「#125 デスマウンテン」参照。(一声上げて、自分の気持ちをストップしようとした事。ボスの役目を果たし隠居する際に、自分への思いが残っているなら戻って来て欲しいと伝えようと考えていた事。)}と&infobox(title=未来,trigger=click,gravity=north){「#125 デスマウンテン」参照。(「もう少し2人で遊んで、好きな気持ちが変わらずいいなと思った時にOKしてくれ」と言われた事。)}を確かめ合うようなデートをし、胸の内に秘めたもう一つの&infobox(title=世界線,trigger=click){「#125 デスマウンテン」参照。(北の方で小さなログハウスの珈琲屋を営み、ファジ岡弘、にコーヒーを淹れてもらい、隣でケーキを焼きたい。)}についても、そっと語り合った。&br()&nbsp(4)↳交際はしていないが、信頼と好意で結ばれた特別な関係。彼がギャングであるため距離を保ちつつ、将来一緒に過ごせたらと考えている。詳しい関係は親しい人だけが知っている。
+-山籠り中に思い描いた&infobox(title=構想,trigger=click){「#141 山のキノコに気を付けろ」参照。（小さな家族経営のメカニック兼飲食店をしたい、それに伴い二人の力を借りたい事。）}を[[空舞月るる>>空舞月　るる]]と[[神道まきぴ>>神道　まきぴ]]に打ち明けた、新たに店を建てたいと話したが、街の事情もあり形はまだ定まっていない。
+-[[ストグラ運営公式X>>https://x.com/STGR_RolePlay/status/1691344941484740608]]にて発表された第1回人気投票(観測者投票)[[第3位>>https://x.com/STGR_RolePlay/status/1700749810817806550]]。
+-[[ストグラ運営公式X>>https://x.com/STGR_RolePlay/status/1812070737123176689]]にて公開された16タイプ別#ストグラ性格診断によると[[主人公>>https://x.com/STGR_RolePlay/status/1812071000269562171]]。
+*&font(#ffb7c5){&icon_fa(fa-solid fa-tag)} 服装一覧
+#include(空舞月　りり/服装一覧)
+//
+//
+//&size(10){編集される方は[[こちら>空舞月　りり/服装一覧]]}
+//
+//ページサイズオーバーのため、容量制限対策で服装一覧の項目を分割しました。
+//編集する際は"編集される方は"から飛んでください。
+//
+//
+#right(){&link_anchor(目次1){🔝 目次へ}}
+//
+*&font(#ffb7c5){&icon_fa(fa fa-picture-o)} ギャラリー
+//
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-spray-can)&space()&bold(){ロゴ/ステッカー}}}}
+#region(開く)✖️閉じる
+#size(90%){#table_style(head=#F0F0F0:85%:center){}
+|MIDDLE:&blankimg(logo_bmc_1.jpg,x=200,y=200)|MIDDLE:&blankimg(logo_bmc_2.jpg,x=300,y=200)|MIDDLE:&blankimg(logo_sk8club.jpg,x=200,y=50)|MIDDLE:&blankimg(sticker_kuzu.png,x=200,y=200)|MIDDLE:&blankimg(sticker_riri.png,x=200,y=200)|
+|Bear Moon Customロゴ&br()&font(9,#aaa){'23/08/21～}|Bear Moon Customロゴ&br()&font(9,#aaa){'24/4/5～}|sk8clubステッカー&br()&font(9,#aaa){'23/5/23～}|クズくんステッカー&br()&font(9,#aaa){'25/5/21～}|りりちゃんステッカー&br()&font(9,#aaa){'25/5/21～}|
+#table_sorter{even=#ede355,odd=#73d9bc}
+}
+#endregion(ステッカー)
+#size(50%){　}
+//
+#right(){&link_anchor(目次1){🔝 目次へ}}
+//
+*&font(#ffb7c5){&icon_fa(fa-solid fa-car-on)} 乗り物一覧
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa fa-car)&space()&bold(){車両}}}}
+#region(開く,close)&b(){2025/06/13時点}
+#table_filter(){種類=show,車両名=show,登録名=show,ナンバー=show,備考=hide}
+#table_style(head=#f988ae:#faf7f4,hover=#fee9ee)
+|~種類|~車両名|~登録名|~ナンバー|~備考|h
+|&space()&icon_fa(fa-solid fa-car-side)|[[Lampadati Casco>>https://w.atwiki.jp/gtav/pages/1353.html]]||NJUI2705||
+|&space()&icon_fa(fas fa-truck-monster)|[[Canis Terminus>>https://w.atwiki.jp/gtav/pages/3067.html]]||XWQX4615||
+|&space()&icon_fa(fa-solid fa-car-side)|[[Karin 190Z>>https://w.atwiki.jp/gtav/pages/1912.html]]||PKUP1893||
+|&space()&icon_fa(fa-solid fa-car-side)|[[Invetero Coquette BlackFin>>https://w.atwiki.jp/gtav/pages/1458.html]]||JDPE3093||
+|&space()&icon_fa(fas fa-shuttle-van)|[[Bravado Rumpo Custom>>https://w.atwiki.jp/gtav/pages/1630.html]]||DLAE3947||
+|&space()&icon_fa(fa-solid fa-car-side)|[[Weeny Dynasty>>https://w.atwiki.jp/gtav/pages/2513.html]]||CUEW5543||
+|&space()&icon_fa(fa-solid fa-car-side)|[[Specter Custom>>https://w.atwiki.jp/gtav/pages/1722.html]]|スペクターカスタム🚗|WCHW1340||
+|&space()&icon_fa(fa-solid fa-car-side)|[[Annis Remus>>https://w.atwiki.jp/gtav/pages/2696.html]]||VUPP4335||
+|&space()&icon_fa(fa-solid fa-car-side)|[[Vapid Peyote Custom>>https://w.atwiki.jp/gtav/pages/2641.html]]||TYYP6700||
+|&space()&icon_fa(fas fa-truck-monster)|[[Draugur>>https://w.atwiki.jp/gtav/pages/2843.html]]|ドラウグル🚙|ZIAF0491|[[万十　忍]]カスタム|
+|&space()&icon_fa(fa-solid fa-car-side)|[[10F>>https://w.atwiki.jp/gtav/pages/2838.html]]||XWJB4678||
+|&space()&icon_fa(fas fa-shuttle-van)|[[Journey>>https://w.atwiki.jp/gtav/pages/527.html]]|ジャーニー🚙(倉庫)|IORM5092||
+|&space()&icon_fa(fa-solid fa-motorcycle)|[[BF400>>https://w.atwiki.jp/gtav/pages/1647.html]]|BF400🏍|QJOR8118||
+|&space()&icon_fa(fa-solid fa-motorcycle)|[[Western Wolfsbane>>https://w.atwiki.jp/gtav/pages/1666.html]]||UBRF8903||
+|&space()&icon_fa(fas fa-shuttle-van)|[[Surfer Custom>>https://w.atwiki.jp/gtav/pages/2947.html]]|サーファーカスタム🚙🌻🌼´ˎ-|IPYH8293||
+|&space()&icon_fa(fa-solid fa-car-side)|[[Dewbauchee Rapid GT>>https://w.atwiki.jp/gtav/pages/285.html]]||QDHU9100||
+|&space()&icon_fa(fa-solid fa-motorcycle)|[[Nagasaki Chimera>>https://w.atwiki.jp/gtav/pages/1658.html]]||HNLV8710||
+|&space()&icon_fa(fa-solid fa-motorcycle)|VooDoo SideCar||IHBR2384||
+|&space()&icon_fa(fa-solid fa-bicycle)|Unknown City Cycle|ママチャリ🚲|WUGZ6314|'#142'で購入|
+|&space()&icon_fa(fa-solid fa-crown)|Arcida Egg Car||EGG25006|'#143'Magic! Easter Eventで入手|
+|&space()&icon_fa(fa-solid fa-car-side)|Turtle|りりちゃんへのカメさん|BQEA6592|'#143'[[青梅　つばめ]]からのプレゼント|
+|&space()&icon_fa(fa-solid fa-car-side)|Benefactor Hotring Weevil||ISAK6005|'#154'で購入 [[ねずみさん>>えぐち　きの子]]カスタム|
+#endregion
+//
+
+//
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-helicopter)&space()&bold(){航空機}}}}
+#region(開く,close)&b(){2025/05/02時点}
+#table_filter(){種類=show,車両名=show,登録名=show,ナンバー=show,備考=hide}
+#table_style(head=#f988ae:#faf7f4,hover=#fee9ee)
+|~種類|~車両名|~登録名|~ナンバー|~備考|h
+|&space()&icon_fa(fa-solid fa-helicopter)|[[Nagasaki Buzzard>>https://w.atwiki.jp/gtav/pages/227.html]]|私のへり|RUYR8256|'#143'で購入|
+#endregion
+//
+
+//
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-hand-holding-dollar)&space()&bold(){過去車両}}}}
+#region(開く,close)&b(){2025/06/13時点}
+#table_filter(){種類=show,車両名=show,登録名=show,ナンバー=show,備考=hide}
+#table_style(head=#f988ae:#faf7f4,hover=#fee9ee)
+|~種類|~車両名|~登録名|~ナンバー|~備考|h
+|&space()&icon_fa(fas fa-truck-monster)|[[Canis Mesa>>https://w.atwiki.jp/gtav/pages/601.html]]||HEIY2939|[[神道　まきぴ]]に譲渡(#77)|
+|&space()&icon_fa(fa-solid fa-car-side)|[[Annis Bf Injection>>https://w.atwiki.jp/gtav/pages/331.html]]||HVAJ1366|'#150'で購入 [[四皇　シャンクズ]]に譲渡(#152)|
+|&space()&icon_fa(fa-solid fa-car-side)|Benefactor Hotring Weevil||GDQB2887|'#152'で購入 [[にしのん>>にし　のん]]に譲渡(#158)|
+#endregion
+//
+#right(){&link_anchor(目次1){🔝 目次へ}}
+*&font(#ffb7c5){&icon_fa(fa-solid fa-thumbs-up)} ストグラ印象表
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-comment-dots)&space()&bold(){印象表}}}}
+#Region(開く)&b(){2023/6/02時点}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; さくま りる🧸🍒新人Vtuber (@R15uu) <a href="https://twitter.com/R15uu/status/1664540548471087104">ストグラ印象表2023/6/02</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}#EndRegion
+//
+#right(){&link_anchor(目次1){🔝 目次へ}}
+*&font(#ffb7c5){&icon_fa(fa-solid fa-book)} エピソード
+**&font(#e691c8){2023年}
+#region(開く)✖️閉じる
+#include(空舞月　りり/エピソード1)
+#endregion(2024)
+**&font(#e691c8){2024年}
+#region(開く)✖️閉じる
+#include(空舞月　りり/エピソード2)
+#include(空舞月　りり/エピソード3)
+#include(空舞月　りり/エピソード4)
+#endregion(2024)
+**&font(#e691c8){2025年}
+#region(開く)✖️閉じる
+#include(空舞月　りり/エピソード5)
+#include(空舞月　りり/エピソード6)
+#include(空舞月　りり/エピソード7)
+//#include(空舞月　りり/エピソード8)
+#endregion(2025)
+//----
+//&size(12){エピソードページリンク｜[[EP1>空舞月　りり/エピソード1]] ｜ [[EP2>空舞月　りり/エピソード2]] ｜ [[EP3>空舞月　りり/エピソード3]] ｜ [[EP4>空舞月　りり/エピソード4]]｜ [[EP5>空舞月　りり/エピソード5]]｜ [[EP6>空舞月　りり/エピソード6]]｜ [[EP7>空舞月　りり/エピソード7]]}｜
+// [[EP8>空舞月　りり/エピソード8]]
+//
+//ページサイズオーバーのため、エピソードページを分割しました。
+//編集する際はエピソードページリンクから飛んでください。
+//
+#right(){&link_anchor(目次1){🔝 目次へ}}
+*&font(#ffb7c5){&icon_fa(fa-brands fa-youtube)} アーカイブ
+**&font(#e691c8){2023年}
+#region(開く)✖️閉じる
+***&font(b,#e691c8,110%){5月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#01|2023/05/10|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}自分探しの旅…>>https://www.youtube.com/watch?v=r1sAv7QQlZg]]||
+|#02|2023/05/11|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ロスサントスを知りたい>>https://www.youtube.com/watch?v=VNdXfle4H7U]]||
+|#03|2023/05/12|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🔰続・ロスサントスを知りたい>>https://www.youtube.com/watch?v=DLfWt1ePwQE]]||
+|#04|2023/05/15|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🔰今日はどんな一日だろう？>>https://www.youtube.com/watch?v=UXmawR1pvcU]]||
+|#05|2023/05/16|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🔰焦り。>>https://www.youtube.com/watch?v=h9ydXkgU-JU]]||
+|#06|2023/05/17|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🔰告白。>>https://www.youtube.com/watch?v=iLDUL2rUVB0]]||
+|#07|2023/05/18|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🔰卒業。>>https://www.youtube.com/watch?v=gPYqEuFmaTY]]||
+|#08|2023/05/19|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お仕事も決めなれば…>>https://www.youtube.com/watch?v=JiOrL01LJQY]]||
+|#09|2023/05/21|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}パン屋🍞初勤務の日！>>https://www.youtube.com/watch?v=y9WyCzwonDc]]||
+|#10|2023/05/22|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}慌ただしい一日👀>>https://www.youtube.com/watch?v=y6fgCkWXwT0]]||
+|#11|2023/05/23|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も街でお金稼ぎ🚙>>https://www.youtube.com/watch?v=l40acSxkrwM]]||
+|#12|2023/05/25|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１つ目の目標を達成する🚙💸>>https://www.youtube.com/watch?v=V6B-YwrgF1Y]]||
+|#13|2023/05/26|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日は何があるかなぁ？👀>>https://www.youtube.com/watch?v=YD-4sd_imqQ]]||
+|#14|2023/05/28|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日もお金稼ぎ、ウーバー鉱石！>>https://www.youtube.com/watch?v=6TxDbpmDtuc]]||
+|#15|2023/05/30|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}居場所>>https://www.youtube.com/watch?v=01B8dNhKIhk]]||
+|#16|2023/05/31|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}財布に潤いを取り戻したい…💸>>https://www.youtube.com/watch?v=SU6sqn1QiJk]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(5月)
+***&font(b,#e691c8,110%){6月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#17|2023/06/10|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}アパートに引きこもり生活しすぎた👀>>https://www.youtube.com/watch?v=m2Z1_z2hvPI]]||
+|#18|2023/06/12|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}新しい事に挑戦してみたい🚙>>https://www.youtube.com/watch?v=T6tG2WSWnLQ]]||
+|#19|2023/06/13|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}パンと工具を手に今日も頑張る🍞🔧>>https://www.youtube.com/watch?v=qiX3SCZuOvE]]||
+|#20|2023/06/16|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}魔法少女カフェがopenらしいよ👀>>https://www.youtube.com/watch?v=jpRovz4G0Rk]]||
+|#21|2023/06/17|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日もボチボチがんばるぞ🧸🌙>>https://www.youtube.com/watch?v=xkEj7xLuK1A]]||
+|#22|2023/06/19|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}裁判を傍聴してみたい👀>>https://www.youtube.com/watch?v=XVjcsgFAPX8]]||
+|#23|2023/06/20|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お仕事、レースの🚗登録、クラフトの日>>https://www.youtube.com/watch?v=P44SmNrAPIk]]||
+|#24|2023/06/22|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お仕事したり…👀>>https://www.youtube.com/watch?v=MFgwuX3iE5E]]||
+|#25|2023/06/23|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も頑張る🧸💭>>https://www.youtube.com/watch?v=8NG0xzAV1XQ]]||
+|#26|2023/06/25|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も自分らしく！>>https://www.youtube.com/watch?v=JYCN3phRdyI]]||
+|#27|2023/06/30|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}おそようございます、ロスサントス🧸🌙>>https://www.youtube.com/watch?v=PlMkyUwuBWw]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(6月)
+***&font(b,#e691c8,110%){7月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#28|2023/07/01|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}カスタムしたい…🏍🚗>>https://www.youtube.com/watch?v=P4-5F1AngzQ]]||
+|#29|2023/07/02|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}第一回スケボークラブ活動👬>>https://www.youtube.com/watch?v=k6R-IoBfAow]]||
+|#30|2023/07/03|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}牧場仕事してたら車がレッカーさていた🥺>>https://www.youtube.com/watch?v=EvPxSR-vRF0]]||
+|#31|2023/07/04|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}選挙の結果を見届けに👀>>https://www.youtube.com/watch?v=BgpATsLzXGU]]||
+|#32|2023/07/07|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}普通の日🧸🌙>>https://www.youtube.com/watch?v=06i1CwJsE0A]]||
+|#33|2023/07/11|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}目標設定🚗>>https://www.youtube.com/watch?v=Q51YaFOHKKc]]||
+|#34|2023/07/12|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}起きてくるのかな？👀>>https://www.youtube.com/watch?v=TDfW1Pt82mI]]||
+|#35|2023/07/13|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}働く日！>>https://www.youtube.com/watch?v=HDkUH2M4NQ8]]||
+|#36|2023/07/18|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}トラックバイトの日🚚>>https://www.youtube.com/watch?v=mkmOGRkbxwo]]||
+|#37|2023/07/21|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}眠い目を擦りながら🛏>>https://www.youtube.com/watch?v=3mLXUPw-M_w]]||
+|#38|2023/07/24|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お笑いライブを見にいく👀>>https://www.youtube.com/watch?v=FksXyJDuOjQ]]||
+|#39|2023/07/26|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ちょっと🚗をカスタムする>>https://www.youtube.com/watch?v=4dC8q3-FiWs]]||
+|#40|2023/07/27|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}おそようございます🧸🌙>>https://www.youtube.com/watch?v=H3UrXyVn29c]]||
+|#41|2023/07/28|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も一日頑張りましょう🧸🌙>>https://www.youtube.com/watch?v=JrdRDg8QWrE]]||
+|#42|2023/07/30|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}働きます🍞🔧>>https://www.youtube.com/watch?v=z12kDCepYkY]]||
+|#43|2023/07/31|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}日常👀>>https://www.youtube.com/watch?v=cPV2vLdYze0]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(7月)
+***&font(b,#e691c8,110%){8月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#44|2023/08/01|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}作業の日🍞🔧🐷>>https://www.youtube.com/watch?v=EfIq9uZ_870]]||
+|#45|2023/08/02|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}穏やかに>>https://www.youtube.com/watch?v=-cV7hwO1HM8]]||
+|#46|2023/08/03|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}初めての高級車を購入するの巻🚙>>https://www.youtube.com/watch?v=5YvBEg6ZUGk]]||
+|#47|2023/08/04|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}カスタムを終わらせたい🚙>>https://www.youtube.com/watch?v=FoEaiTtP6ZA]]||
+|#48|2023/08/05|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}モトコンポのレースに出るぞ🏍>>https://www.youtube.com/watch?v=5gCuBYj5__Q]]||
+|#49|2023/08/06|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}店長のカスタム仕上げる！>>https://www.youtube.com/live/TQ8sOLgfc9o?feature=share]]||
+|#50|2023/08/07|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}どんな一日になるんだろう>>https://www.youtube.com/live/vEYN1y0wmyE?feature=share]]||
+|#51|2023/08/09|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}日常です>>https://www.youtube.com/live/941rD016g0A?feature=share]]||
+|#52|2023/08/10|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}にかのりを見に行ってみよ👀>>https://www.youtube.com/live/3yU88_L_-8E?feature=share]]||
+|#53|2023/08/13|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}夏祭りの準備をしよう！>>https://www.youtube.com/watch?v=uz2-cWeHA-s]]||
+|#54|2023/08/13|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}夏祭りだ！>>https://www.youtube.com/watch?v=nqOZp_c6PzE]]||
+|#55|2023/08/17|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}おそようございます🌙お仕事しましょう>>https://www.youtube.com/live/iWjsnZZWrik]]||
+|#56|2023/08/17|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}夢に向かって✦>>https://www.youtube.com/watch?v=Rlit5xe4bO0&t]]||
+|#57|2023/08/18|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}開業準備の為に素材を集めたり作業する🚙>>https://www.youtube.com/live/nulSwrsNVg4]]||
+|#58|2023/08/21|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}続・開業準備の為に作業する🚙>>https://www.youtube.com/watch?v=2DFbG8teYgs]]||
+|#59|2023/08/21|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}明日のオープンに向けて最終準備🚙>>https://www.youtube.com/live/QC7sL9rTNRw]]||
+|#60|2023/08/22|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}BMC始動！🚙>>https://www.youtube.com/watch?v=rRrVdCoHsIA]]||
+|#61|2023/08/23|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}妹のお仕事を見守る日👀🚙>>https://www.youtube.com/watch?v=n8AzrTbfPLY]]||
+|#62|2023/08/25|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}遅番BMC🚗>>https://www.youtube.com/watch?v=zE763njjhLM]]||
+|#63|2023/08/27|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１周年おめでとうだ！🎈>>https://www.youtube.com/watch?v=5gTzrog7ZLA]]||
+|#64|2023/08/28|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}遅起き、早寝👀>>https://www.youtube.com/watch?v=X7UpKCQbSb0]]||
+|#65|2023/08/29|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日こそ早寝🛏>>https://www.youtube.com/watch?v=D1OaAkrODaE]]||
+|#66|2023/08/30|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も頑張る🧸🌙>>https://www.youtube.com/watch?v=6mweINwRrEc]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(8月)
+***&font(b,#e691c8,110%){9月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#67|2023/09/01|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}おそようございます>>https://www.youtube.com/watch?v=OxEjbn_OyYc]]||
+|#68|2023/09/03|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}少しだけ！>>https://www.youtube.com/watch?v=Db7HTC-TMRg]]||
+|#69|2023/09/06|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}風まかせ>>https://www.youtube.com/watch?v=vymkMFfn1Lg]]||
+|#70|2023/09/06|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}遅刻！>>https://www.youtube.com/watch?v=z8Bhc6_MXhg]]||
+|#71|2023/09/08|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}また遅刻した！>>https://www.youtube.com/watch?v=i7e8mijCPtg]]||
+|#72|2023/09/09|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}おはようございます。>>https://www.youtube.com/watch?v=4ksc1vrtdUk]]||
+|#73|2023/09/11|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お仕事とか色々>>https://www.youtube.com/watch?v=UBkb6790_Ew]]||
+|#74|2023/09/11|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も頑張る>>https://www.youtube.com/watch?v=E56T9Vbee4I]]||
+|#75|2023/09/12|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も頑張ります>>https://www.youtube.com/watch?v=-b7EmBeqG14]]||
+|#76|2023/09/13|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も頑張るかー>>https://www.youtube.com/watch?v=YMw8QgRbS4A]]||
+|#77|2023/09/14|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}まったりしたい。>>https://www.youtube.com/watch?v=-W1MdWvurPk]]||
+|#78|2023/09/16|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}遅番！>>https://www.youtube.com/watch?v=3nOme0an3-Q]]||
+|#79|2023/09/16|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ジャークさんの元クラシックスポーツカーOPEN初日🚗>>https://www.youtube.com/live/dJiYKGa0_vw?si=tB0RWiQ1IrvTfwlb]]||
+|#80|2023/09/18|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}日帰り旅行にいっていました🚗>>https://www.youtube.com/watch?v=bS-VXkhe3xs]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(9月)
+#endregion
+**&font(#e691c8){2024年}
+#region(開く)✖️閉じる
+***&font(b,#e691c8,110%){3月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#81|2024/03/16|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ただいま✈︎>>https://www.youtube.com/watch?v=vaOYgbqrmyc]]||
+|#82|2024/03/19|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}色々勉強🖋🚙>>https://www.youtube.com/watch?v=gdq_4BeG0pY]]||
+|#83|2024/03/20|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}騒がしそう。レディースデー行けるかな🚙>>https://www.youtube.com/watch?v=eZ1xVinblqw]]||
+|#84|2024/03/24|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}夢のプリズン>>https://www.youtube.com/watch?v=Jgj4CSJcGDo]]||
+|#85|2024/03/29|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}おそようございます>>https://www.youtube.com/watch?v=-IGFfNGyxFY]]||
+|#??|2024/03/31|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}仕事しつつ>>https://youtu.be/j9JrkdQ-p3Y?si=Zk048_jMw_3i7ch3]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+//|#ｎ|03/dd|[[タイトル>>リンク]]||
+#endregion(2024/3)
+***&font(b,#e691c8,110%){4月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#??|2024/04/01|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}#ストグラシャッフルパージデー 半グレの日>>https://www.youtube.com/watch?v=E9dcwiR4D8s]]||
+|#86|2024/04/03|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}BMC会議👓>>https://www.youtube.com/watch?v=vRy4oiSP28U]]||
+|#87|2024/04/05|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}誰の彼シャツ>>https://www.youtube.com/watch?v=QOgWAyb5pfQ]]||
+|#88|2024/04/06|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}にしきんで🚙買う＆BMCの🍸とは？？>>https://www.youtube.com/watch?v=185WAwip2cY]]||
+|#89|2024/04/09|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ボンドカー作る🚗>>https://www.youtube.com/watch?v=yd5b_YLQfss]]||
+|#90|2024/04/10|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}なるようになる。>>https://www.youtube.com/watch?v=iuDrWJQ1sH0]]||
+|#91|2024/04/13|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}競輪イベントでMMG！🐙>>https://www.youtube.com/watch?v=SwQdAI-KhS4]]||
+|#92|2024/04/23|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}久しぶりのロスサントス>>https://youtu.be/e7EsxI0QST0?si=oAbg2UzhPB9iXrds]]||
+|#93|2024/04/25|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}社長に戻ると決心して、わきにし1周年を見守った日。>>https://youtu.be/03aBrb3Iy6s?si=jj7XBNavs1mtI0m1]]||
+|#94|2024/04/26|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}社員に１億借金してホストクラブを満喫day>>https://youtu.be/rX9AqDx89IY?si=RJdCsduH7a6NFPX9]]||
+|#95|2024/04/28|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}また会える日まで。>>https://youtu.be/E2SvNcnKjJ8?si=ogW3qjH1STrQJMU6]]||
+|#96|2024/04/30|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}eight💋に初潜入した日🦁>>https://youtu.be/vYR3b53P25w?si=uK9OPDm_zjE_cYNB]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+//|#ｎ|04/dd|[[タイトル>>リンク]]||
+#endregion(2024/4)
+***&font(b,#e691c8,110%){5月のアーカイブ}
+#region(開く,close)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#97|2024/05/03|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}つばめちゃんすずめちゃんお帰りなさいの日🐥>>https://youtu.be/Oq3xUBYoKo0?si=FEfAXjqLP2SCgfn7]]||
+|#98|2024/05/05|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🦍GMC🦍キャバクラの話が進んだ日🍸>>https://youtu.be/_KRT7_xkPBg?si=gJdi4_NuOPXwhBnU]]||
+|#99|2024/05/08|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}遅く起きて怪談イベントへ👻>>https://youtu.be/vg3MKSky-LI?si=PtP4hJKAVJQd91zD]]||
+|#100|2024/05/10|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}どうやら今日が１年記念日だったらしい。>>https://youtu.be/-z31m4-9NIw?si=-4D2kt0XU38pfkNg]]||
+|#101|2024/05/11|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}する蔵くん改造計画💄👗>>https://youtu.be/zcp5o0wJIFA?si=0kwwkrXEYA9wfvtM]]||
+|#102|2024/05/12|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}早苗さん🚙をカスタムしながら店番の日>>https://youtu.be/xZoox_FAweM?si=8JDHCiFddxyqFGQ1]]||
+|#103|2024/05/14|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ふでこちゃんの誕生日を祝うの日🎂！>>https://youtu.be/ObVzvdBqtuY?si=0va0zHY1TTUwGrYv]]||
+|#104|2024/05/17|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}新しい試みを模索した日>>https://youtu.be/Z06zsVbqOn8?si=1XgdbATfAsQUhC9Z]]||
+|#105|2024/05/18|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}さとうちゃんとふでこちゃん、ファット&シュガーの日♪>>https://youtu.be/8DmZ_8SMimA?si=lribzGaZroV7i_YJ]]||
+|#106|2024/05/22|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}コケットブラックフィンをカスタムした日🚙>>https://youtu.be/L3SBqhBOGqo?si=QbmxlkpzZkQ2CTzn]]||
+|#107|2024/05/24|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お帰りなさいませご主人様。>>https://youtu.be/G6UsCMI-DuY?si=WRH6w-8Exu6PxQlD]]||
+|#108|2024/05/28|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}衛星外で散々なする蔵くんを見守った日>>https://youtu.be/3Deyp62gu28?si=itEin_Egl2XWM6rE]]||
+|#109|2024/05/29|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}にしのんお誕生日おめでとう🎂🥳>>https://youtu.be/Ffvpyv9hUoc?si=wbv9060jwQs1RpQE]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+//|#ｎ|mm/dd|[[タイトル>>リンク]]||
+#endregion(2024/5)
+//
+***&font(b,#e691c8,110%){6月のアーカイブ}
+#region(開く,close)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#110|2024/06/15|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ちょっと作業とタイムトラベラー>>https://youtu.be/V1epQKQXut0?si=7myf834OPQP4iXmV]]|音ズレ有|
+|#111|2024/06/18|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}Vermillionの日🍸>>https://youtu.be/5esSO3B4-2w?si=sugbEW3rNH56BKwg]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+//|#ｎ|mm/dd|[[タイトル>>リンク]]||
+#endregion(2024/6)
+//
+***&font(b,#e691c8,110%){7月のアーカイブ}
+#region(開く,close)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#112|2024/07/03|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}本当に怖いBMC>>https://youtu.be/_NeFjkuHeX8?si=F9FIQw5jbET5-KTQ]]||
+|#113|2024/07/04|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}肉フェスパブリックビューイングした日>>https://youtu.be/4x149izAtM0?si=Q9sYBxR_JnK_s5Z7]]||
+|#114|2024/07/07|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}こんばんは経理できなかった日>>https://youtu.be/0eOsyAKLPL0?si=3e_ak2RStFy-fEuK]]||
+|#115|2024/07/09|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ポテンシャルおばけな人たちにタジタジになった日>>https://www.youtube.com/live/X9eJSO2Hbd4?si=PrPyeElVafEXu_l6]]||
+|#116|2024/07/12|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}まきまきと廃村へ潜入した日>>https://youtu.be/Xm7_iNDOpms?si=caRXNjh-VJBJALni]]||
+|#117|2024/07/18|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}エリちゃんクラスポゴリラの日🚙🦍>>https://youtu.be/TTroU8A3bZI?si=EPhqza6jgFIEwN1k]]||
+|#118|2024/07/19|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}おばけポリスの日👻>>https://youtu.be/7JvBcgJ120c?si=l8ts2unT47GhISYP]]||
+|#119|2024/07/20|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ひらいけ>>https://youtu.be/BXgEOnYQnjo?si=7ywHR_z2cnXVrZ3a]]||
+|#120|2024/07/25|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}こんばんは秘密の音楽会の日>>https://youtu.be/KLxLBmj_EIE?si=IuRfwpmgAa6XCGtN]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+//|#ｎ|mm/dd|[[タイトル>>リンク]]||
+#endregion(2024/7)
+//
+***&font(b,#e691c8,110%){8月のアーカイブ}
+#region(開く,close)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#121|2024/08/02|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}BMCのつなぎが出来た👕>>https://youtu.be/qehtNx3kUV4?si=ZoXeR6-_m0t5CUbQ]]||
+|#122|2024/08/03|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}LIVEイベントに行った日>>https://youtu.be/bLi_DyCLs7E?si=u52OfFY-Vneg10g0]]||
+|#123|2024/08/06|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ちょびっと夏を感じた☀>>https://youtu.be/FQ85HDaSSf8?si=CJNtKH9sWcy6HraY]]||
+|#124|2024/08/07|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}体験日和>>https://youtu.be/EgR2FwPBj4I?si=UJA7NkBG7ZTjnMbw]]||
+|#125|2024/08/09|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}デスマウンテン>>https://youtu.be/HnAZqa2kmFw?si=gum-deF8qbfMXTEs]]||
+|#126|2024/08/16|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}先生お願いします🎶>>https://youtu.be/Er5xy7ktNA0?si=_cyaChH0Y3P6cAbD]]||
+|#127|2024/08/22|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}BMC1周年の日>>https://youtu.be/EPxSntrC80w?si=_6C1aWoy9Q5KawlU]]||
+|#128|2024/08/29|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}泥水をすすった日>>https://youtu.be/7jGPxWHYVHk?si=rOYebdxp7se7BEkM]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+//|#ｎ|mm/dd|[[タイトル>>リンク]]||
+#endregion(2024/8)
+//
+***&font(b,#e691c8,110%){9月のアーカイブ}
+#region(開く,close)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#129|2024/09/21|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}客船で恋愛を説かれた日>>https://youtu.be/bMAWZoLCwm8?si=eAhg8IgZ65c_OA_m]]||
+|#130|2024/09/22|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}マダムキャバクラに行ってやっと早苗さんに逢えた日>>https://youtu.be/YjoRJxVRKJE?si=OhVaDbcPeLNrurQD]]||
+|#131|2024/09/24|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ちるな日>>https://youtu.be/QYPDu4x72YU?si=6qZuHOEZQaFgUJ2-]]||
+|#132|2024/09/26|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}民ちゃんの入社、まきまきとのデスマウンテン女子会の日>>https://youtu.be/qAIxohxNJ2g?si=CyGxwDfvv0vu5mB1]]||
+|#133|2024/09/29|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ひさしぶりのにしのんの日>>https://youtu.be/PrHdQ3wiUZw?si=TGdVPctamkYxGNz0]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+//|#ｎ|mm/dd|[[タイトル>>リンク]]||
+#endregion(2024/9)
+//
+***&font(b,#e691c8,110%){10月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#f988ae:#faf7f4){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#134|2024/10/01|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ハグはストレスを軽減するの日>>https://youtu.be/QIPuZc1U-II?si=qN7PjNvhQsb3f-P-]]||
+|#135|2024/10/03|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ヘリ免許を取った日！>>https://youtu.be/ypdtehD57Ug?si=_qOilAq6x4TNSbvm]]||
+|#136|2024/10/05|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}裁判を傍聴した日>>https://youtu.be/-YWYYwpn20Y?si=Ote6dn5lRB7VP9Sq]]||
+|#137|2024/10/09|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ユニコーンバットで大暴れした日🦄>>https://youtu.be/saUFTeUVTSs?si=5wExzygbgT9eVrll]]||
+|#138|2024/10/13|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}こんばんは>>https://youtu.be/wS6AlUXo0gY?si=waeElxfLWkG_2iUY]]||
+|#139|2024/10/18|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}こんばんは>>https://youtu.be/GFjY0Yws0H0?si=OncI_6g67Qiaur8i]]||
+|#140|2024/10/20|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}こんばんは>>https://youtu.be/VLaUxXvhFF8?si=b_JYm9mRZd-RutWq]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+//|#ｎ|mm/dd|[[タイトル>>リンク]]||
+#endregion(2024/10)
+#endregion(2024)
+////
+**&font(#e691c8){2025年}
+#region(開く)✖️閉じる
+***&font(b,#e691c8,110%){4月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#ffb7c5){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#141|2025/04/23|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}山のキノコに気を付けろ>>https://youtu.be/HPlYeoUTv8w?si=FGj-aKD47o3PmmzK]]||
+|#142|2025/04/27|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}街と同期とる日>>https://youtu.be/LUPm3nG-5-M?si=nwFExL-DspClK2P4]]||
+|#143|2025/04/29|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ヘリうさぎかめ>>https://youtu.be/wXW8HhYbw94?si=26Wpheq-e5u-xDDK]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(4月)
+//
+***&font(b,#e691c8,110%){5月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#ffb7c5){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#144|2025/05/02|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日は本当に少しだけカスタムとか>>https://youtu.be/2aY10IR1Muk?si=TfnIKHfAZBHlRzgs]]||
+|#145|2025/05/03|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ずっと笑ってた日>>https://youtu.be/QVtp7zi1D-A?si=AQo4WDlPYrC_-3qA]]||
+|#146|2025/05/11|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}大人の開眼>>https://youtu.be/tUU2fTWJ9wk?si=zWD0KJFa9qAUzlP3]]||
+|#147|2025/05/14|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}少々少々>>https://youtu.be/gRX0Xv9Cz3I?si=UXnZOlI5ObcnNu8z]]||
+|#148|2025/05/17|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}大運動会の日>>https://youtu.be/cjyKZNwznGs?si=So26fxY6sH9NkBNW]]||
+|#149|2025/05/18|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}のっぴきならない日>>https://youtu.be/fcLGeWo7Ymw?si=j7-4rnnPLbfnruK7]]||
+|#150|2025/05/21|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}カスタム🚁としめじ🍄>>https://youtu.be/qd11Tjl86_o?si=39b_hfpcPfYwzI96]]||
+|#151|2025/05/24|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}SFC🔥>>https://youtu.be/MxJ8Y51jpT4?si=jzOHO3D88a-vKTRN]]||
+|#152|2025/05/25|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}海上レストランのレースイベントお手伝い🚙>>https://youtu.be/0-_wXq2gW8c?si=ovWtHss36GFZBkVA]]||
+|#153|2025/05/27|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}まったりカスタムday🚙>>https://youtu.be/vU8RJlcxO0I?si=hX84YRXYLrOUYQ7K]]||
+|#154|2025/05/29|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ねずみさんカスタムして貰ってヨード〇ン光を産んだ日>>https://youtu.be/Qea__RBjk6g?si=D2t8aLzq8-Bjia5A]]||
+|#155|2025/05/31|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お後がよろしいようで。>>https://youtu.be/3GBRoo1XgO4?si=GS9Rya93ha2a8e1M]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(5月)
+//
+***&font(b,#e691c8,110%){6月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#ffb7c5){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#156|2025/06/04|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}デスゲーム🔫>>https://youtu.be/l-sHNzIcaE0?si=uAeTrOz8rh-xF31s]]||
+|#157|2025/06/10|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ちるちる>>https://youtu.be/FVPAz6-wKhU?si=Jhf8rdyiEmHPEc1U]]||
+|#158|2025/06/13|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}私にできる事🚙>>https://youtu.be/9QHBGmBQzpU?si=XsU2TGRc-tmmvScp]]||
+|#159|2025/06/21|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}久しぶりの街🚙>>https://youtu.be/YtGWqG0BNjQ?si=O0ItOdW8pABgJxyz]]||
+|#160|2025/06/22|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}こんばんは🚙>>https://youtu.be/olo4RcA6UjA?si=hPRQgJn0H6nztzGy]]||
+|#161|2025/06/26|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ぱちおサン一日店長に大川さんに写真撮ってもらった日>>https://youtu.be/wyZ9dvPlaEI?si=0Wu9kxW4_xWYmhzt]]||
+|#162|2025/06/27|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}UFOのコアを手に入れた日>>https://youtu.be/XWFLANUw-Ag?si=_DtkU9StKi-CwOhu]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(6月)
+//
+***&font(b,#e691c8,110%){7月のアーカイブ}
+#region(開く)✖️閉じる
+#table_style(head=center:#ffb7c5){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|備考|h
+|#163|2025/07/22|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}李さん🚙>>https://youtu.be/sOBNENWomeM?si=sUzrEMT-rJwGjmGD]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(7月)
+//
+#endregion(2025)
+////
+#right(){&link_anchor(目次1){🔝 目次へ}}
+*&font(#ffb7c5){&icon_fa(fa-solid fa-handshake)} ストグラコラボ
+**&font(#e691c8){2024年}
+#region(開く,close)✖️閉じる
+#table_filter(){配信日=show,配信タイトル=show,参加者=show,備考=hide}
+#table_style(head=center:#f988ae){No=center,配信日=right,配信タイトル=left}
+#table_style(head=#f988ae:#faf7f4,hover=#fee9ee)
+|No|配信日|配信タイトル|参加者|備考|h
+|MIDDLE:#01|MIDDLE:2024/03/25|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【Lethal Companyではない】BMCコラボ！さくまりる視点 >>https://www.youtube.com/watch?v=o-CUQDIR-8w]]|[[にしのん>>にし　のん]]/[[るなぼう>>空舞月　るる]]/[[花束ゆいは>>御花　はな]]/[[天唄サウ>>星唄　サウ汰]]/[[しとまき>>神道　まきぴ]]/[[バル子>>山田　パルコ]]&br()[[甘乃あもこ>>揚物　ころも]]/[[島ゴリ>>ジェフリー　ヒッチコック]]/[[さんしあ>>天成　する蔵]]/[[切嘛>>切間　てつお]]/[[てんぷら>>天ノ　ぷら子]]/[[ぺんこ>>くまの　ふでこ]]||
+|#02|2024/04/08|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラコラボ】 VALORANT withみんな。>>https://www.twitch.tv/videos/2114286038]]|[[にしのん>>にし　のん]]/[[天唄サウ>>星唄　サウ汰]]/[[バル子>>山田　パルコ]]/[[わきを>>キャプテン　わきを]]|(サブスク限定)|
+|#03|2024/04/15|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【APEXコラボ】しとまきちゃん＆にしのんちゃんと戦場で這い這いする。>>https://www.twitch.tv/videos/2120454428]]|[[にしのん>>にし　のん]]/[[しとまき>>神道　まきぴ]]|(サブスク限定)|
+|MIDDLE:#04|MIDDLE:2024/04/22|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【Lethal Company】ストグラコラボ / さくまりる視点 【#Vtuber】 >>https://www.youtube.com/watch?v=_Kl6BrH5mOs]]|[[にしのん>>にし　のん]]/[[しとまき>>神道　まきぴ]]/[[バル子>>山田　パルコ]]/[[すず音>>栖家幡　華憐]]&br()[[水無月ひいろ>>アーモンド　サラザール]]/[[DattE政宗>>伊達咲　政宗]]/[[こうまい>>西蓮寺　華月]]||
+|#05|2024/04/23|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【Valorant】🔰初心者FPS部🔰>>https://www.twitch.tv/videos/2127398057]]|[[にしのん>>にし　のん]]/[[ルルベル>>ルール　ちゃん]]/[[えびちゃん>>えびな　ヨネ]]/[[水無月ひいろ>>アーモンド　サラザール]]|(サブスク限定)|
+|#06|2024/04/29|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#モンスターハンターワールド】皆で狩る>>https://www.twitch.tv/videos/2132200429]]|[[DattE政宗>>伊達咲　政宗]]/[[PENKO>>くまの　ふでこ]]|(サブスク限定)|
+|#07|2024/04/29|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#モンスターハンターワールド】狩人>>https://www.twitch.tv/videos/2132714358]]|[[DattE政宗>>伊達咲　政宗]]/[[PENKO>>くまの　ふでこ]]/[[Middleee>>ミン　ドリー]]|(サブスク限定)|
+|MIDDLE:#08|MIDDLE:2024/05/01|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【Lethal Company】ストグラコラボ / さくまりる視点 【にしのん/るなぼう/しとまき/すず音/こうまい/？？？】>>https://www.youtube.com/watch?v=aFNsr8_I02k]]|[[にしのん>>にし　のん]]/[[るなぼう>>空舞月　るる]]/[[しとまき>>神道　まきぴ]]&br()[[切嘛>>切間　てつお]]/[[すず音>>栖家幡　華憐]]/[[こうまい>>西蓮寺　華月]]||
+|MIDDLE:#09|MIDDLE:2024/05/07|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラコラボ】7 Days to Die【#Vtuber】>>https://www.youtube.com/live/h3fhalIV2FQ?si=BISUW4997kzbIcMX]]|[[にしのん>>にし　のん]]/[[しとまき>>神道　まきぴ]]/[[真澄せんの>>青梅　つばめ]]&br()[[わきを>>キャプテン　わきを]]/[[すず音>>栖家幡　華憐]]/[[水無月ひいろ>>アーモンド　サラザール]]/[[DattE政宗>>伊達咲　政宗]]/[[こうまい>>西蓮寺　華月]]/[[TUTTI>>酒槻　すん]]||
+|MIDDLE:#10|MIDDLE:2024/05/20|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラコラボ】7 Days to Die１日目～【#Vtuber】>>https://www.youtube.com/live/AmtfYsKdX4I?si=sQLXa1dhej4HX4Wd]]|[[にしのん>>にし　のん]]/[[しとまき>>神道　まきぴ]]/[[ごっちゃん@マイキー>>アルフォート　ウェスカー]]&br()[[すず音>>栖家幡　華憐]]/[[水無月ひいろ>>アーモンド　サラザール]]/[[DattE政宗>>伊達咲　政宗]]/[[こうまい>>西蓮寺　華月]]/[[TUTTI>>酒槻　すん]]||
+|#11|2024/06/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[皆で高めあう日>>https://youtu.be/A1GhZplkLuI?si=QkTXwGWqtQaEzxpl]]|[[PENKO>>くまの　ふでこ]]/[[DattE政宗>>伊達咲　政宗]]/[[イナゴン>>稲葉　ゴン]]|(音ズレ有)|
+|#12|2024/06/21|&font(#6441A4){&icon_fa(fa fa-twitch)}[[初めてのタルコフだっ！>>https://www.twitch.tv/videos/2177679491]]|[[しとまき>>神道　まきぴ]]/[[あしさんり>>街雄　サンリ]]|(サブスク限定)|
+|#13|2024/08/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[初心者遅刻タルコフ👀→まったり雑談>>https://youtu.be/o-IZhywgURA?si=Z2GsEfRa2PIRqQ3k]]|[[しとまき>>神道　まきぴ]]/[[あしさんり>>街雄　サンリ]]/[[ウッド>>龍造寺　ケンシロウ]]&small(){(雑談から)}|(✪️メンバー限定)|
+|MIDDLE:#14|MIDDLE:2024/08/05|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[#1【#ひらいけ】Hello World :)【マインクラフト/Minecraft】>>https://youtu.be/p2dT4JAYb_Y?si=Q8nHiKd_isUzpSrz]]|MIDDLE:[[しとまき>>神道　まきぴ]]/[[にしのん>>にし　のん]]/[[PENKO>>くまの　ふでこ]]/[[真澄せんの>>青梅　つばめ]]/[[猫街もも>>あやな　みれい]]&br()[[ましゃかり>>ましゃかり　トラボルタ]]/[[アメザリひらい>>平井　善之]]/[[あっくん大魔王>>マカイーノ　アッコパス]]&br()&small(){(平井のおっちゃん,BMC,奇肉屋,etc)}||
+|#15|2024/08/12|&font(#6441A4){&icon_fa(fa fa-twitch)}[[モンハン！w/ぺんこちゃん 政宗君>>https://www.twitch.tv/videos/2221668342]]|[[PENKO>>くまの　ふでこ]]/[[DattE政宗>>伊達咲　政宗]]|(サブスク限定)|
+|MIDDLE:#16|MIDDLE:2024/08/12|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[#2【#ひらいけ /#minecraft 】初心者村をつくる>>https://www.youtube.com/live/Qoz3MP7qDt0?si=m6T_rgdBngfs14_q]]|MIDDLE:[[しとまき>>神道　まきぴ]]/[[にしのん>>にし　のん]]/[[PENKO>>くまの　ふでこ]]&br()[[アメザリひらい>>平井　善之]]/[[あっくん大魔王>>マカイーノ　アッコパス]]&br()&small(){(平井のおっちゃん,BMC,奇肉屋,etc)}||
+|#17|2024/08/18|&font(#6441A4){&icon_fa(fa fa-twitch)}[[さんりるまきぴの怪談あびる>>https://www.twitch.tv/videos/2227492402]]&small(){(あしさんり枠)}|[[しとまき>>神道　まきぴ]]/[[あしさんり>>街雄　サンリ]]/[[ウッド>>龍造寺　ケンシロウ]]|(自枠無し)|
+|MIDDLE:#18|MIDDLE:2024/08/26|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#孵道】振り返らずに帰るだけ…【#Vtuber】>>https://www.youtube.com/live/Uv_L7yiRGho?si=gqVXdoYv7Rn6cweX&t=5865]]|MIDDLE:[[しとまき>>神道　まきぴ]]/[[猫街もも>>あやな　みれい]]&br()&small(){(平井のおっちゃん,BMC,奇肉屋,etc)}|MIDDLE:&small(){(ソロゲー→マイクラコラボ)}|
+|#19|2024/09/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[7日間ゾンビと戦う記録。>>https://youtu.be/AFi4KMy411k?si=zcMFP6w5mcG77DoP]]|[[しとまき>>神道　まきぴ]]/[[ゆふな>>冬那　フナ]]/[[ぴら>>Lv〇　チンピラ]]|(✪️メンバー限定)|
+|#20|2024/10/06|&font(#6441A4){&icon_fa(fa fa-twitch)}[[モンハン！>>https://www.twitch.tv/videos/2269089159]]|[[PENKO>>くまの　ふでこ]]/[[DattE政宗>>伊達咲　政宗]]/[[Middleee>>ミン　ドリー]]|(サブスク限定)|
+|#21|2024/10/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[いい女たちとおじさんのvalo w/まきぴちゃん💙むちちゃん💛せにゃちゃん💜ももちゃん❤>>https://youtu.be/qwuaCq37I5A?si=T4ABtqpMZQXHaMzX]]|[[しとまきぴ>>神道　まきぴ]]/[[むちちゃん。>>不二子　キャスパー]]/[[尖苅せにゃ>>ボア　セニャコック]]/[[猫街もも>>豆乳　ちゃんもも]]|(✪️メンバー限定)|
+|#22|2024/12/05|&font(#6441A4){&icon_fa(fa fa-twitch)}[[valorantコラボ🔫 w/まきぴちゃん💙カケチカラさん💜御先 蔵馬さん💛Nyankorasuさん！>>https://www.twitch.tv/videos/2318803227]]|[[しとまきぴ>>神道　まきぴ]]/[[カケチカラ>>えだまめもん]]/[[御先 蔵馬>>カム　カマダ]]/[[Nyankorasu>>真新　サトシ]]|(サブスク限定)|
+|#23|2024/12/23|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コアキーパー w/まきぴちゃん💙ぺんこちゃん💛>>https://www.twitch.tv/videos/2334033089]]|[[しとまきぴ>>神道　まきぴ]]/[[ぺんこちゃんねる>>くまの　ふでこ]]|(サブスク限定)|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2024)
+//
+**&font(#e691c8){2025年}
+#region(開く)✖️閉じる
+#table_filter(){配信日=show,配信タイトル=show,参加者=show,備考=hide}
+#table_style(head=center:#f988ae){No=center,配信日=right,配信タイトル=left}
+#table_style(head=#f988ae:#faf7f4,hover=#fee9ee)
+|No|配信日|配信タイトル|参加者|備考|h
+|#24|2025/01/16|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コアキーパー w/まきぴちゃん💙ぺんこちゃん💛>>https://www.twitch.tv/videos/2354805767]]|[[しとまきぴ>>神道　まきぴ]]/[[ぺんこちゃんねる>>くまの　ふでこ]]|(サブスク限定)|
+|#25|2025/01/27|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【天下統一RUST】さくまりる🧸🍒しとまきぴ💎🎀1日目【長野】>>https://www.twitch.tv/videos/2364969454]]|[[しとまきぴ>>神道　まきぴ]]|(サブスク限定)|
+|#26|2025/01/28|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【天下統一RUST】さくまりる🧸🍒しとまきぴ💎🎀2日目【長野】>>https://www.twitch.tv/videos/2365839307]]|[[しとまきぴ>>神道　まきぴ]]|(サブスク限定)|
+|#27|2025/01/29|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【天下統一RUST】さくまりる🧸🍒しとまきぴ💎🎀3日目最終日【長野→石川→兵庫】>>https://www.twitch.tv/videos/2366709860]]|[[しとまきぴ>>神道　まきぴ]]|(サブスク限定)|
+|#28|2025/02/10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#BMCエイダ】海人女王マリン・アントワーネ/さくまりる視点【#Vtuber】>>https://www.youtube.com/live/fm4wM5sTM6I?si=IbuTZxalrjyH-eJw]]|[[天唄サウ>>星唄　サウ汰]]/[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[るなぼう>>空舞月　るる]]||
+|#29|2025/03/10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【モンスターハンターワイルズ】るなちゃんとひと狩りいくぞー🦕🍖>>https://www.youtube.com/live/x92ChdBembI?si=4rCIJnIy90wQ71NS]]|[[るなぼう>>空舞月　るる]]||
+|#30|2025/03/17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【モンスターハンターワイルズ】むちちゃん🍮せにゃちゃん🐙政宗くん🦣🦕🍖【#Vtuber】>>https://www.youtube.com/live/ZTM5fr4qj4g?si=9uVOU-jhbkhQ2NWU]]|[[むちちゃん。>>不二子　キャスパー]]/[[尖苅せにゃ>>ボア　セニャコック]]/[[DattE政宗>>伊達咲　政宗]]||
+|#31|2025/03/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【モンスターハンターワイルズ】るなぼうちゃん、まきぴちゃん🦕【#Vtuber】>>https://www.youtube.com/live/CUHMJQt0bv4?si=XkSy_qmOmTrhsN7l]]|[[るなぼう>>空舞月　るる]]/[[まきぴ>>神道　まきぴ]]||
+|#32|2025/04/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【Party Club】女子会でお店経営！w/むちちゃん、せにゃちゃん、政宗くん【コラボ】>>https://youtu.be/ylg4TkYDzUg?si=dwRH3S-muQsHRxAw]]|[[むちちゃん。>>不二子　キャスパー]]/[[尖苅せにゃ>>ボア　セニャコック]]/[[DattE政宗>>伊達咲　政宗]]|(✪️メンバー限定)|
+|#33|2025/05/26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[裸縛りモンハン w/平井さん🦞政宗くん🦣まきぴちゃん💎🎀>>https://youtu.be/Pjh8OsEtSDA?si=6LmpTATWScv-kzA6]]|[[アメザリひらい>>平井　善之]]/[[DattE政宗>>伊達咲　政宗]]/[[まきぴ>>神道　まきぴ]]||
+|#34|2025/06/24|&font(#6441A4){&icon_fa(fa fa-twitch)}[[1年ぶりのエペ🔫w/まきぴちゃん、ウッドさん>>https://www.twitch.tv/videos/2494583932]]|[[まきぴ>>神道　まきぴ]]/[[ウッド>>龍造寺　ケンシロウ]]|(サブスク限定)|
+|#35|2025/07/30|&font(#6441A4){&icon_fa(fa fa-twitch)}[[まきまきとエペ→24時からREPO w/まきまき・むちちゃん・政宗君 >>https://www.twitch.tv/videos/2526456013]]|[[まきぴ>>神道　まきぴ]]/[[むちちゃん。>>不二子　キャスパー]]/[[DattE政宗>>伊達咲　政宗]]|(サブスク限定)|
+|#36|2025/08/01|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【PEAK】るな🐿りる🧸まきぴ🐈で限界山登り>>https://www.youtube.com/live/JJXB90vV0xc?si=ZIUE0F2o1nPC1um0]]|[[るなぼう>>空舞月　るる]]/[[まきぴ>>神道　まきぴ]]||
+|#37|2025/10/30|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【FLING TO THE FINISH】わっちゃわちゃ6人でコラボ w/アメザリひらい・ぺこP・KYS・まきぴ・るなぼう【#わちゃ部】 >>https://www.twitch.tv/videos/2605169370]]|[[るなぼう>>空舞月　るる]]/[[まきぴ>>神道　まきぴ]]/[[アメザリひらい>>平井　善之]]/[[ぺこP>>渡戸　リー]]/[[KYS>>Dr．ギガ]]|(サブスク限定)|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2025)
+//
+//(旧)
+//***&font(b,#e691c8,110%){🧸🍒 2024年?月}
+//#region(開く)✖️閉じる
+//#table_style(head=center:#ffb7c5){No=center,配信日=right,配信タイトル=left}
+//|No|配信日|配信タイトル|参加者|備考|h
+//|#??|2024/00/00|&font(#6441A4){&icon_fa(fa fa-twitch)}タイトル|参加者|備考|
+//#table_sorter{even=#f7f7f7,odd=#fff}
+//#endregion
+//
+//(新)
+//|#??|2025/00/00|&font(#6441A4){&icon_fa(fa fa-twitch)}タイトル|参加者|備考|
+//
+#right(){&link_anchor(目次1){🔝 目次へ}}
+*&font(#ffb7c5){&icon_fa(fa-solid fa-radio)} ストグラジオ
+#region(開く,close)✖️閉じる
+#table_style(head=#f988ae:#faf7f4,hover=#fee9ee){No=center,配信日=right,配信タイトル=left}
+|No|配信日|配信タイトル|参加者|アーカイブ|h
+|MIDDLE:#01|MIDDLE:2023/08/29|第34回ストグラジオ|[[さくまりる>>空舞月　りり]] / [[二十日　ネル>>二十日　ネル]] / [[ファン太>>四皇　シャンクズ]]|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Youtube>>https://youtu.be/DDfRpibVnB4?si=UrzKaHp2ZnIyUbof]]/&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/videos/1911540987]]|
+#endregion
+#right(){&link_anchor(目次1){🔝 ページTOPへ}}

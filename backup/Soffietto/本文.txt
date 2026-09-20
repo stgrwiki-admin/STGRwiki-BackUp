@@ -1,0 +1,177 @@
+#slide_img(auto=5,width=350,height=197){Soffietto_250308_exterior.jpg,Soffietto_250306_01.jpg,Soffietto_250306_02.jpg}
+
+#table_style(head=#3985FF:#fffffe){}
+|BGCOLOR(#913132):|>|>|BGCOLOR(#f7f5f1):|BGCOLOR(#913132):|
+|BGCOLOR(#f7f5f1):|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER:~店名|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER:~&space()&icon_fa(fa-solid fa-store)&space()|&space()&space()&ruby(ソフィエット){&bold(){Soffietto}}|BGCOLOR(#f7f5f1):|
+|~|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER:~業種|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER: &icon_fa(fa fa-pizza-slice)|&space()&space()ピザ屋&space()&space()|BGCOLOR(#D3150F):~|
+|~|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER:~開業日|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER: &icon_fa(fa fa-calendar-week)|&space()&space()2025年3月6日&br()&small(){（&countup(2025/03/06,yd)経過）}&space()&space()|BGCOLOR(#D3150F):~|
+|~|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER:~厨房|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER: &icon_fa(fa fa-map-marker)|&space()&space()8188番地|BGCOLOR(#9370db):~|
+|~|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER:~オーナー|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER: &icon_fa(fa fa-user-tie)|&space()&space()&bold(){[[大　川]]}&space()&space()|BGCOLOR(#9370db):~|
+|~|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER:~店長|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER: &icon_fa(fa fa-user-tie)|&space()&space()&bold(){[[緋赤　まい]]}&space()&space()|BGCOLOR(#9370db):~|
+|~|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER:~従業員数|BGCOLOR(#913132):COLOR(#ffffff):MIDDLE:CENTER: &icon_fa(fa fa-solid fa-id-card-clip)|&space()&space()7名（2025年9月18日現在）&space()&space()|BGCOLOR(#9370db):~|
+|BGCOLOR(#913132):|>|>|BGCOLOR(#f7f5f1):|BGCOLOR(#913132):|
+#table_sorter{even=#f7f5f1,odd=#FFFFFF}
+#table_style(head=#913132:#fff){}
+//|~店名|&ruby(ソフィエット){&bold(){Soffietto}}|
+//|~業種|ピザ屋(飲食店)|
+//|~開業日|2025年03月06日|
+//|~所在地|8188番地|
+//|~オーナー|&bold(){[[大　川]]}|
+//|~店長|&bold(){[[緋赤　まい]]}|
+//暫定的に大川さんが市からジョブを付与された日を開業日にしています。正式オープンはまた別日の予定。(2025/02/12）
+//↑ 正式オープンしたため、日付を編集しました。またイメージカラー#913132はメニューから抜粋しています。
+
+#region(目次を開く,close)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**&font(30px,#913132){基}&font(25px){本情報}&font(30px,#913132){  &icon_fa(fa fa-pizza-slice)}
+・前身は「[[Wonderful Pizza]]」。長期間閉店状態だった店舗を[[大　川]]が買い取り、再オープンに踏み切った。
+・店舗名の由来は「ふいご」。（[[大　川]]が経営するライブハウス「[[Bellows]]」をイタリア語にしたもの。）
+・Bellowsと同様、店内BGMは「AIさん」で大川自身がオープン30分前に作曲。
+・Servicesアプリからデリバリー注文を受け付けている。
+・・専用の宅配バイクで配達してくれる。(重量100kgなので大口過ぎる場合は例外。なおピザは1枚1kgである)
+・ピザは使用すると6ピースに分割される。
+・・期限は明確にされてはいないが、いずれ販売できなくなるため期間限定商品である。
+・ジョブが開いていればピザ焼き体験ができる。(こちらもピザが生産できる期間のみ)
+
+**&font(30px,#913132){従}&font(25px){業員情報}&font(30px,#913132){  &icon_fa(fa fa-group)}
+***従業員
+#table_style(head=center:#913132:#fff){名前=bold,役職=bold}
+|~役職|~名前|~就職日|~備考|h
+|オーナー|[[大　川]]|2025/02/11|ジョブを開ける必要があり、非ジョブ化。|
+|店長|[[緋赤　まい]]|2025/09/17|復職した。|
+|店長代理|[[平井　善之]]|2025/06/05|[[大川>大　川]]に誘われ、店長代理として就職した。|
+|店員|[[推使　みゅあ]]|2025/02/11|オープン日に店内で初心者マークを外した。|
+|店員|[[白井　満太]]|2025/xx/xx||
+|店員|[[三ッ星　ちゅに]]|2025/06/10|体験中に正社員として就職した。|
+|店員|[[フグ田　ナチ]]|2025/07/25|体験中に正社員として就職した。|
+#table_sorter{even=#f7f5f1,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//|店長|[[緋赤　まい]]|2025/02/11|[[大川>大　川]]に誘われ就職。店長に抜擢された。|
+
+***職業体験者
+#table_style(head=center:#913132:#fff){名前=bold}
+|~名前|~体験開始日|~体験終了日|~備考|h
+|[[三ッ星　ちゅに]]|2025/06/07|2025/06/10|[[大川>大　川]]と[[おっちゃん>平井　善之]]に誘われ体験開始。|
+|[[フグ田　ナチ]]|2025/06/07|2025/07/25|[[大川>大　川]]と[[おっちゃん>平井　善之]]に誘われ体験開始。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f7f5f1,odd=#FFFFFF}
+
+***お手伝い
+#table_style(head=center:#913132:#fff){名前=bold}
+|~名前|~就業開始日|~備考|h
+|[[スコティッシュ・ホールド]]|2025/03/06|職業枠に空きがないため雇用はせず、接客のみ。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f7f5f1,odd=#FFFFFF}
+//
+
+***退職者
+#table_style(head=center:#913132:#fff){名前=bold}
+|~名前|~就職日|~退職日|~備考|h
+|[[天草　蒼]]|2025/xx/xx|2025/xx/xx||
+|[[山田　ジェイミー]]|2025/xx/xx|2025/08/29|キャラクターエンディングのため。|
+#table_sorter{even=#f7f5f1,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+**&font(30px,#913132){商}&font(25px){品情報}&font(30px,#913132){  &icon_fa(fa fa-utensils)}
+ピザは6ピースにカットして食べることができる。
+作成に手間がかかるのとデリバリー料金を含んでいるため、通常のフードよりややお高め。
+
+チキンウィング、ポテトフライ等サイドメニューはオーナーの大川が(AIさんを使用し)こだわって作成している。
+
+平井のおっちゃんが作成した「ちゅにピザ」が新メニューに追加。
+//もうすぐなくなってしまうとのこと
+***レギュラー商品
+***&color(#913132){&icon_fa(fa fa-check-square)} &underdot(#913132,2px){Food}
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#913132:#fff){No.=center,価格=right,種類=bold,商品名=bold}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|food|マルゲリータ|\500,000|2025/03/06|6ピースにカットして食べることができる。|
+|food|マッシュルーム|\500,000|2025/03/06|6ピースにカットして食べることができる。|
+|food|ナポリタン|\500,000|2025/03/06|6ピースにカットして食べることができる。|
+|food|シーフード|\500,000|2025/03/06|6ピースにカットして食べることができる。|
+|food|ベジタリアン|\500,000|2025/03/06|6ピースにカットして食べることができる。|
+|food|フライドポテト|\50,000|2025/03/06|大川が(AIさんを使用し)こだわって作成。|
+|food|チキンウィング|\50,000|2025/03/06|大川が(AIさんを使用し)こだわって作成。|
+|food|シーザーサラダ|\50,000|2025/03/06|大川が(AIさんを使用し)こだわって作成。|
+|food|ちゅにピザ|\50,000|2025/07/22|平井のおっちゃんが作成した、ちゅにをイメージしたピザ。|
+#table_sorter{even=#f7f5f1,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|種類|商品名|価格|提供開始日|説明|
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***&color(#913132){&icon_fa(fa fa-check-square)} &underdot(#913132,2px){Drink}
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#913132:#fff){No.=center,価格=right,種類=bold,商品名=bold}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|drink|コーラ|\50,000|2025/03/06|[[Bellows]]で販売しているものと同じ商品|
+|drink|ビール|\50,000|2025/03/06||
+|drink|ワイン（赤・白）|\50,000|2025/03/06||
+|drink|クリアウォーター|\50,000|2025/03/06||
+#table_sorter{even=#f7f5f1,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|種類|商品名|価格|提供開始日|説明|
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***イベント商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#913132:#fff){No.=center,価格=right,種類=bold,商品名=bold}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|food|ちゅに星！クッキー|イベント特別価格|2025/08/08|秘められた力を発揮するために焼かれたクッキー。&br()ちゅに特製のクッキーを食べて全開スタートダッシュだ！|
+|drink|フグっとナチれもん|イベント特別価格|2025/08/08|太陽の日をたっぷりと浴びたレモンとキウイフルーツを合わせたフグ田オリジナルドリンク！&br()これを飲んでリフレッシュ！|
+#table_sorter{even=#f7f5f1,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|種類|商品名|価格|提供開始日|説明|
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+//
+//***オリジナル商品
+//#region(,open)
+//#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+//#table_style(head=center:#913132:#fff){No.=center,価格=right}
+//|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//#table_sorter{even=#f7f5f1,odd=#FFFFFF}
+//#table_autoincrement(){label=No.}
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+//#endregion
+
+***メニュー画像
+#region(,open)
+&blankimg(Soffietto_250306_OpenMenu.png,x=283,y=400)
+#endregion
+
+**&font(30px,#913132){沿}&font(25px){革}&font(30px,#913132){  &icon_fa(fa fa-scroll)}
+***2025年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#913132:#fff)
+|~日付|~出来事|備考|h
+|01/31|市長面談|大川から市長へ面談。|
+|02/11|譲渡完了|大川への権限譲渡が完了。店名も「Soffietto」へ変更。|
+|03/06|営業開始|22:00に正式オープン。&br()来店時、落ち込んでいた[[スコティッシュ・ホールド]]をお手伝いにした。(雇用なし)|
+|06/06|非ジョブ化|大川がジョブを開ける必要があり、ジョブを外した。引き続きオーナーとして在籍。|
+|07/14|店長退職|店長の緋赤まいが退職。|
+|07/22|新商品追加|新商品「ちゅにピザ」を追加。|
+|08/09|イベント出店|「ロスリンピック」に飲食店部門として出店。オリジナル商品2品を販売した。|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#f7f5f1,odd=#FFFFFF}
+#endregion
+
+
+#right(){&link_up(🔝ページTOPへ)}

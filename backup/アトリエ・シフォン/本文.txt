@@ -1,0 +1,114 @@
+//&image(ここに画像のURLを入力,y=300)
+
+//❗️不要な行は削除して使用してください。
+//❗️情報が増え次第、追記予定ですが、誰でも編集・追記大歓迎です！
+#table_style(head=#da81b2){}
+|~&color(#FFFFFF){店名}|~&color(#FFFFFF){୨୧}|&ruby(){&bold(){アトリエ・シフォン}}|
+|~&color(#FFFFFF){業種}|~&color(#FFFFFF){&icon_fa(fa-solid fa-shirt)}|仕立て屋|
+|~&color(#FFFFFF){job名} |~&color(#FFFFFF){&icon_fa(fa-solid fa-user-tag)}|undefined&co(){※わからない場合は、行ごと削除}|
+|~&color(#FFFFFF){job枠} |~&color(#FFFFFF){&icon_fa(fa-solid fa-user-tag)}|サブ・ジョブ|
+|~&color(#FFFFFF){開業日}|~&color(#FFFFFF){&icon_fa(fa fa-flag)}|2025年05月--日&br()&small(){（&countup(yyyy/mm/dd,yd)経過）}|
+|~&color(#FFFFFF){所在地}|~&color(#FFFFFF){&icon_fa(fa fa-map-location-dot)}|8010と8011番地の間|
+|~&color(#FFFFFF){オーナー(会長)}|~&color(#FFFFFF){&icon_fa(fa fa-user-secret)}|&bold(){[[羽山　ペティ]]}|
+//|~&color(#FFFFFF){社長(店長)}|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[名　前]]}|
+//|~&color(#FFFFFF){副社長(副店長)}|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[名　前]]}|
+//|~&color(#FFFFFF){TwiX}|~&color(#FFFFFF){&icon_fa(fa fa-twitter)}|@|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**&font(#C77EB5){&icon_fa(fa fa-id-card-o)} 基本情報
+・現在、開業準備中。
+
+**&font(#C77EB5){&icon_fa(fa fa-users)} 従業員情報
+***&underdot(#db7093,3px){&size(15){&color(#db7093){୨୧} &bold(){従業員}&space(2)}}
+#table_style(head=center:#D2A3CB)
+#table_filter(){役職=show,ランク=hide,名前=show,就職日=hide,備考=show}
+|~役職|~ランク|~名前|~就職日|~備考|h
+|役職|4.boss|[[羽山　ペティ]]|2025/05/06|日頃から洋服の配色やバリエーション、デザインがもう少しこうだったらと思う事が多く残念に思っていた。&br()SKEのつなぎ服をデザインした事で仕組みを学び、新事業として仕立て屋を市に相談した事がきっかけ。|
+|役職|4.boss|[[チェン　マヨ]]|2025/05/15|[[Merry&Belle]]にてチェンマヨが羽山ペティのネイル写真を撮影中に丘猫まるが歪みで道路の向かいにある洋服店にワープして閉じ込められた。&br()改装中の洋服店で羽山ペティが仕立て屋をやる事が打ち明けられ、おしゃれ好きならと誘われた事がきっかけ。([[4/5 23:14 まる歪み～仕立て屋>>https://youtu.be/S0VwqF5UoqA&t=43m15s]])|
+//|役職|ランク|[[名　前]]|yyyy/mm/dd|備考|
+//|役職|ランク|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+&small(){※羽山ペティさんの就職日は配信上(RP上)で開店準備の為にジョブの付与が初めて確認・明言された日付が2025/05/06。}
+&small(){※オープンニングスタッフの就職日は開店日ではなくジョブが付与された日付を記載。}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+//編集メモ
+//ランクの列を追加しましたが削除しようか検討中
+//チェンマヨ：配信日2025/05/15[3.chief]→05/20[4.boss]修正 (ボスメニューを使用可能なランクにする予定だったが洋服屋の設定では3.chiefでは権限がなかった)
+***&underdot(#db7093,3px){&size(15){&color(#db7093){୨୧} &bold(){モデル}&space(2)}}
+
+#co{
+//***退職者
+#table_style(head=center:#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+#co{
+//***職業体験者
+#table_style(head=center:#E0E0E0)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+}
+**&font(#C77EB5){&icon_fa(fa-solid fa-shirt)}商品情報
+//テンプレートは、お店に合った見やすい形があれば変えてください。
+//商品＝お店が仕立てて提供したもの
+//ご依頼商品＝依頼を受けて仕立てたもの
+//種類＝検討中。tops,bottom,outer,shoes,hat,glasses
+***&font(#db7093){&icon_fa(fa-solid fa-ribbon)}お仕立て品
+#region(,close)
+#table_filter(){No.=show,種類=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#D2A3CB){No.=center,価格=right}
+|~種類|~仕立て人|~提供開始日|~商品説明|h
+|種類|[[名　前]]|yyyy/mm/dd|説明|
+//|種類|[[名　前]]|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+//種類＝
+***&font(#db7093){&icon_fa(fa-solid fa-ribbon)}ご依頼品
+#region(,close)
+#table_filter(){No.=hide,種類=show,依頼主=show,提供開始日=hide,概要=show}
+#table_style(head=center:#D2A3CB){No.=center}
+|~種類|~依頼主|~提供開始日|~概要|h
+|種類|[[名　前]]|yyyy/mm/dd|説明|
+//|種類|[[名　前]]|yyyy/mm/dd|説明|
+//|種類|[[名　前]]|yyyy/mm/dd|説明|
+//|種類|[[名　前]]|yyyy/mm/dd|説明|
+//|種類|[[名　前]]|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+
+//***画像
+//#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+//#endregion
+
+**&font(#C77EB5){&icon_fa(fa fa-book)} 沿革
+***&underdot(#db7093,3px){&size(15){&color(#db7093){■} 2025年}}
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#D2A3CB)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|05/06|店内の改装　|[[羽山　ペティ]]&br()[[チェン　マヨ]]|アトリエ・シフォン専用のお着替えシステムの確認。（[[5/6 22:31>>https://youtu.be/bM0rv-3-nAw?t=1h26m36s]]）|
+|05/06|オフィス購入|[[羽山　ペティ]]&br()[[パンチャン]]|不動産より店舗内の扉にオフィス用物件を購入。ショップアイコンの確認。（[[5/7 00:23>>https://youtu.be/bM0rv-3-nAw?t=3h18m25s]]）|
+|05/14|オフィス完成&br()従業員の雇用|[[羽山　ペティ]]&br()[[チェン　マヨ]]|オフィスのお披露目。（ハウジングの完成とボスメニュー等の確認）&br()チェン マヨさんの雇用手続き。（[[5/15 02:17>>https://youtu.be/HMZ6P2oewgI?t=2h40m50s]]）|
+
+//|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+
+#right(){&link_up(🔝ページTOPへ)}

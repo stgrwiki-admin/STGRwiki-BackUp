@@ -1,0 +1,93 @@
+#div(width=350px,bgcolor=#FFEAFA){&font(16px,b,#666666){&space()SEASON1}}
+
+#region(開く)&b(){閉じる}
+
+#region(仕事一覧🍛)&bold(){仕事一覧🍛}
+#table_style(head=#f5f5f5)
+|>|>|LEFT:&bold(){[[個人医]]}|h
+|2025/07/20|個人医|アポ無しで市役所を訪ね、[[市長>山下　ひろし]]からジョブを受け取る。|
+|>|>|LEFT:&bold(){カレー屋「[[KoKo七番屋]]」}|h
+|2025/07/20|Rank1 Employee（店員）|職業体験ののち正式雇用を受ける。|
+#endregion
+
+#region(取得免許🪪)&b(){取得免許🪪}
+#areaedit()
+#size(90%){#table_style(head=#FFEAFA,hover=#FFF7FC)
+#table_filter(){種別=show,取得日=show,交付者=show,備考=hide}
+|~種別|~取得日|~交付者|~備考|h
+|普通自動車免許|2025/07/03|[[ラグランジュ光芝>ラグランジュ　光芝]]||
+|普通二輪免許|2025/07/03|[[ラグランジュ光芝>ラグランジュ　光芝]]||
+|白市民パス|2025/07/03|[[悠えん>悠　えん]]||
+|ヘリ免許|2025/07/20|[[ロイ・マーチングナンバー>ロイ　マーチングナンバー]]||
+|武器携帯許可証|2025/07/22|[[山本寅子>山本　寅子]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#table_autoincrement(){label=No.}}
+#areaedit(end)
+#endregion
+
+#region(ファッション🐼)&b(){ファッション🐼}
+#areaedit()
+#table_color(head=#FFEAFA:#666666:center)
+|~&blankimg(curry.jpeg,x=77,y=167)&br()カレー屋|~&blankimg(panda.jpeg,x=77,y=167)&br()パンダ|~&blankimg(rabbit.jpeg,x=77,y=167)&br()うさぎ|~&blankimg(swim.jpeg,x=77,y=167)&br()水着|~&blankimg(black.jpeg,x=77,y=167)&br()黒シャツ|~&blankimg(knee.jpeg,x=77,y=167)&br()ひざ擦りむき|~&blankimg(latom.jpeg,x=77,y=167)&br()伝導者|h
+|~&blankimg(student.jpeg,x=77,y=167)&br()高校生|~&blankimg(bear.jpeg,x=77,y=167)&br()クマ|~&blankimg(oni.jpeg,x=77,y=167)&br()鬼|~&blankimg(himo.jpeg,x=77,y=167)&br()ヒモ|~&blankimg(himo2.jpeg,x=77,y=167)&br()ヒモ2|~&blankimg(himo3.jpeg,x=77,y=167)&br()ヒモ3|~&blankimg(pajamas.jpeg,x=77,y=167)&br()パジャマ|
+|~&blankimg(china.jpeg,x=77,y=167)&br()チャイナ服|~&blankimg(nico.jpeg,x=77,y=167)&br()ニコパーカー|~&blankimg(overall.jpeg,x=77,y=167)&br()オーバーオール|~&blankimg(poro.jpeg,x=77,y=167)&br()ポロ|~&blankimg(suit.jpeg,x=77,y=167)&br()スーツ|~&blankimg(fundoshi.jpeg,x=77,y=167)&br()ふんどし|~&blankimg(rider.jpeg,x=77,y=167)&br()ライダー|h
+#areaedit(end)
+#endregion
+
+#region(タトゥー🧸)&b(){タトゥー🧸}
+#areaedit()
+#table_color(head=#FFEAFA:#666666:center)
+|~&blankimg(tattoo_spade.jpeg,x=81,y=144)&br()&small(){【HEAD】}&br()スペード|~&blankimg(tattoo_teddybear.jpeg,x=81,y=144)&br()&small(){【HEAD】}&br()テディベア|~&blankimg(https://img.atwiki.jp/streamergta5/attach/3199/25255/greenleaf.jpeg,x=81,y=144)&br()&small(){【HEAD】}&br()グリーン・リーフ|~&blankimg(tattoo_blackjack.jpeg,x=81,y=144)&br()&small(){【HEAD】}&br()Black Jack||h
+|~&blankimg(tattoo_radio.jpeg,x=81,y=144)&br()&small(){【RIGHT ARM】}&br()StillμSlipping|~&blankimg(tattoo_radio.jpeg,x=81,y=144)&br()&small(){【RIGHT ARM】}&br()スマイリー|~&blankimg(tattoo_note.jpeg,x=81,y=144)&br()&small(){【BODY】}&br()サメのヒレ|~&blankimg(tattoo_note.jpeg,x=81,y=144)&br()&small(){【BODY】}&br()スケートボード|~&blankimg(tattoo_note.jpeg,x=81,y=144)&br()&small(){【BODY】}&br()紙飛行機|h
+#areaedit(end)
+#endregion
+
+#region(所有車両🚁)&b(){所有車両🚁}
+#areaedit()
+#size(90%){#table_style(head=#FFEAFA,hover=#FFF7FC)
+#table_filter(){名前=show,種類=hide,購入日=hide,ナンバー=hide,備考=show}
+|~名前|CENTER:~種類|~購入日|~ナンバー|~備考|h
+|&ruby(あんのうん ゆにさいくる){Unknown Unicycle}&small(){（一輪車）}|CENTER:車|2025/06/24|JLWN6880|移動手段として街に来て初めて買った車。&br()💥ダウン回数：1回|
+|&ruby(うーばーまふと りぼるたー){[[Übermacht Revolter>>https://w.atwiki.jp/gtav/pages/1906.html]]}&small(){（スポーツカー）}&br()&small(){▷リボルーター}|CENTER:車|2025/07/20|XPTL9734|4人乗り。[[KoKo七番屋]]就職祝いで[[ここな>牧田　ここな]]に買ってもらった車。|
+|&ruby(すぱろー){[[Sparrow>>https://w.atwiki.jp/gtav/pages/2654.html]]}&small(){（ヘリコプター）}&br()&small(){▷スパロー}|CENTER:航空機|2025/07/20|HRFQ8231|2人乗り。[[ろっぷ>霜月　ろっぷ]]から1億円で買い取った個人医活動用のヘリ。&br()💥ダウン回数：5回|
+|&ruby(すぱろー){[[Sparrow>>https://w.atwiki.jp/gtav/pages/2654.html]]}&small(){（ヘリコプター）}&br()&small(){▷のあスパロー}|CENTER:航空機|2025/07/22|KZRQ8775|[[ノア>ノア　チェンバー]]から無償で譲り受けた個人医活動用のヘリ。&br()💥ダウン回数：1回|
+|&ruby(ゔぁぴっど すぴーどー えくすぷれす){Vapid Speedo Express}&small(){（バン）}|CENTER:車|2025/07/22|MVSQ6167|4人乗り。個人医の同僚たちの出資金で買った積載の多い車両。&br()クラフトや移動販売に利用している。|
+|&ruby(ぐろってぃ つーりすもR){[[Grotti Turismo R>>https://w.atwiki.jp/gtav/pages/975.html]]}&small(){（スーパーカー）}|CENTER:車|2025/08/03|SDTM7366|2人乗り。[[ノア>ノア　チェンバー]]公認のヒモになった記念に譲り受けた車。|
+|&ruby(ながさき しのび あうとろー){Nagasaki Shinobi Outlaw}&small(){（バイク）}|CENTER:車|2025/08/09|PVQZ2037|1人乗り。[[有坂>有坂　誉]]から500万円で買い取ったバイク。|
+|&ruby(こいる さいくろん){[[Coil Cyclone>>https://w.atwiki.jp/gtav/pages/1840.html]]}&small(){（スーパーカー）}&br()&small(){▷有坂さんへ2周年おめでとう！いつもありがとうございます！}|CENTER:車|2025/08/09|WHEH9024|2人乗り。[[有坂>有坂　誉]]から500万円で買い取った電気自動車。|
+|&ruby(ゔぁぴっど きゃんぴんぐ からrv){Vapid Camping cararv}&small(){（オフロード）}|CENTER:車|2025/08/13|EAHQ2532|1億円で購入したキャンピングカー。移動販売に利用している。|
+|&ruby(ながさき しょーたろー ccc){Nagasaki Shotaro ccc}&small(){（バイク）}&br()&small(){▷番犬ありがとう🐶}|CENTER:車|2025/08/15|PQXY6240|1人乗り。[[星唄サウ汰>星唄　サウ汰]]から[[BMC>BMカスタム]]で用心棒をしたお礼にプレゼントしてもらったバイク。&br()[[サウ汰>星唄　サウ汰]]と[[ナツメ>ハク　ナツメ]]との共同出資。|
+|&ruby(まいばつ ふろがー nl){Maibatsu Frogger nl}&small(){（ヘリコプター）}|CENTER:航空機|2025/08/26|VDUM3852|街を去る[[エスターク>エスターク・Z・ダークネス]]から無償で譲り受けたヘリ。|
+|&ruby(ながさき ばざーど){[[Nagasaki Buzzard>>https://w.atwiki.jp/gtav/pages/227.html]]}&small(){（ヘリコプター）}&br()&small(){▷ばざーど}|CENTER:航空機|2025/08/26|PEPN3750|街を去る[[エスターク>エスターク・Z・ダークネス]]から[[わきを>キャプテン　わきを]]へ、[[わきを>キャプテン　わきを]]からマイキーへと無償で譲り受けたヘリ。 |
+|&ruby(うぇすたん ぱわーさーじ){[[Western Powersurge>>https://w.atwiki.jp/gtav/pages/2958.html]]}&small(){（バイク）}&br()&small(){▷ナリエルパイセンからの電気バイク}|CENTER:車|2025/08/27|QWIU8746|1人乗り。[[ナリエル>マイゴ・ニ＝ナリエル]]からのプレゼント。加速が早すぎるちょっと危険な電動バイク。|
+|&ruby(ぶーどぅ ゆにこーんどぅ){VooDoo Unicorndoo}&small(){（ボート）}|CENTER:船舶|2025/08/27|3STGR027|1人乗り。STGR3周年記念ガチャのSRチケットで交換できるビーチフロート。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#table_autoincrement(){label=No.}}
+#areaedit(end)
+#endregion
+
+#region(ダウン記録💥)&b(){ダウン記録💥}
+#areaedit()
+#size(90%){#table_style(head=#FFEAFA,hover=#FFF7FC)
+#table_filter(){ダウン日=show,原因=hide,備考=show}
+|~ダウン日|~原因|~備考|h
+|06/24|事故|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/SourFrozenMangetoutBrokeBack-DLNf9Sy48TlDVDfn]]一輪車で頭から転倒する|
+|08/01|歪み|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/WonderfulCoweringCrowVoHiYo-J74zBINpsCdFQ1en]]スパローが歪みでひっくり返って爆発する|
+|08/02|事故|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/ExquisiteKawaiiFungusGOWSkull-LCwZZrqAkUQeQCNZ]]スパローに直給油を試みるも給油機にブレードが当たって爆発する|
+|08/03|事故|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/GorgeousAggressiveGazelleOhMyDog-pyCbjkAiYA1_ioeT]]スパローの着地ミスでヘリが爆発する([[とうか>つよがり　とうか]]が巻き込まれてダウンする)|
+|08/05|事故|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/SweetPowerfulFiddleheadsCopyThis-3uGpTh06kD_UeO0F]]スパローの着地ミスでヘリが爆発する|
+|08/14|心なき|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/EmpathicGiantCakeLitty-brJ2i2PObY35l2KT]]ミッション中の[[トナカイ>タシロ　カワセ]]の救助で心なきに撃たれる|
+|08/24|事故|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/VivaciousSpotlessTriangleSquadGoals-g62Nwtu4bTal_LV1]]スパローで移動中、鉄柱に衝突してヘリが爆発する|
+|08/26|事故|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/NaiveBlitheSpiderHumbleLife-MWc4FT5FEyF58KVN]][[トナカイ>タシロ　カワセ]]のヘリに当たりに行ってブレードに刻まれる|
+|09/09|事故|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/AmorphousSweetGaurKappaRoss-el0CIDRP1yotrHyi]]ガソリンスタンドの給油機にスパローのブレードが当たって爆発する|
+|09/12|歪み|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/TriangularSpookyBasenjiBabyRage--kaJm-_todRZALsa]]パラシュートが歪みで開かず地面に落ちる|
+|09/13|ピエロ|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/InexpensiveSavoryAlmondHassanChop-et2zDKBNKqlgnF7G]]魂抜け中に現れたピエロに蹂躙された。が、その後…[[&icon_fa(fa-solid fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/LachrymoseLaconicButterSuperVinlin-hhwXAydlAM5AHATq]]|
+|~|ピエロ|[[&icon_fa(fa-solid fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/TentativeOpenWolfStinkyCheese-g2LOTBxVeQslquMr]]ＦＧミッションでバール片手に特攻しピエロに蜂の巣にされたが、最後の力を振り絞り…[[&icon_fa(fa-solid fa-paperclip)>>https://www.twitch.tv/shiron103/clip/ArbitraryTastyCoyoteStrawBeary-_TEbgApzxbsR6djk]]|
+|09/14|事故|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/VictoriousSolidBillPhilosoraptor-eFmZF0CvnBua90ea]]ジェットパックで移動中、病院の外壁に激突する|
+|09/16|事故|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/IgnorantBadPanKappa-BNv2SKRiHuX7bGZc]]うさぎ化してジェットパックの制御が出来ず地面に落ちる|
+|09/18|事故|[[&icon_fa(fa fa-paperclip)>>https://www.twitch.tv/gocchanmikey/clip/TameTenuousMosquitoYouWHY-qa_Za0Lk-Tn9wAOI]]パラシュートの紐が切れて地面に落ちる|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#table_autoincrement(){label=No.}}
+#areaedit(end)
+#endregion
+#endregion

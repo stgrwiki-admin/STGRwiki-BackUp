@@ -1,0 +1,106 @@
+//&image(ここに画像のURLを入力,y=300)
+
+#table_color(#E0E0E0)
+|~店名|~&icon_fa(fa fa-jet-fighter)|&ruby(とりの){鳥野}エアー|
+|~種別|~&icon_fa(fa fa-tag)|航空機ディーラー|
+|~開業日|~&icon_fa(fa fa-calendar-day)|2023年02月27日|
+|~所在地|~&icon_fa(fa fa-map-location-dot)|10012番地|
+|~社長|~&icon_fa(fa fa-black-tie)|[[鳥野　ぎん]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・ヘリや小型航空機等を販売している。
+・&s(){この街に航空ディーラーはこの1店舗しか存在しておらず、}ロスサントス南の飛行場にある。
+・仕入れのために運転する際は『普通自動車』『大型車両』『特殊車両』の[[免許>斎藤Driving School]]が必要になる。
+・販売する『ヘリ』『飛行機』の免許も必要になった。
+・成瀬力二曰く「ヘリと言ったら俺ら」と言われたいらしく、この街のヘリ好きが集まっている状態となっている。
+・最近では、一般市民だけでなく[[ギャング]]や[[個人医]]からも飛行機の需要が高まっており、売れ行きが上がっている。
+・12月5日現在、当初「公務員外」の住人のみを採用してきた[[鳥野エアー]]だが、[[福田　明宏]]が[[救急隊>ロスサントス救急救命隊]]に合格した事により、従業員全員がめでたく公務員になった。
+**従業員情報
+***従業員
+#table_style(head=center:#E0E0E0)
+|~役職|~名前|~就職日|~兼業|~備考|h
+|社長|[[鳥野　ぎん]]|2022/08/31|・[[ロスサントス救急救命隊]]人事部長&br()・【[[ToY]]】オーナー|[[近部　楠雄]]からオーナー権を引き継いだ。|
+|副社長|[[後藤　れむ]]|2023/02/27|・[[ロスサントス警察]]||
+|副社長|[[成瀬　力二]]|2023/09/24|・[[ロスサントス警察]]&br()・【[[カニメイト]]】オーナー|衛星外で鳥野社長と相談し、決めたらしい。|
+|副社長|[[青井　らだお]]|2023/09/25|・[[ロスサントス警察]]|成瀬から話を聞き、「俺もなりたい！」と社長に懇願。|
+|副社長|[[御庭野　えんちょう]]|2024/02/13|・[[ロスサントス警察]]&br()・メカニック【[[PYC]]】マネージャー||
+|副社長|[[福田　明宏]]|2024/02/14|・【[[Violet Fizz]]】店長&br()・[[ロスサントス救急救命隊]]。ヘリでのレース実況は引き続き行っている。||
+|副社長|[[きらりんぶい☆　なずぴ(10)]]|2024/02/16|・[[ロスサントス警察]]北署副署長||
+|副社長|[[ブロッコリー　斎藤]]|2025/02/18|・元[[ロスサントス警察]]北署(※2025/09/10 白パス免許剥奪により解雇)|借金返済の手段としてなずぴが推薦し、入社が決定した。|
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+//[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/TIR4QO1uHzs?si=NkWwTkMoWF2rdi_L&t=24203]] [[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/TIR4QO1uHzs?si=hzeANwDj3zyccCbF&t=27954]]
+
+※ヘリの仕入れ作業が副社長以上にならないと出来ないため、社員の肩書きは全て副社長に設定している。
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//***退職者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~就職日|~最終出勤日|~備考|h
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//#table_autoincrement()
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//***職業体験者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd||
+//#table_autoincrement()
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+
+**商品情報
+基本的に社員である副社長達に直接電話することによって商品を入荷、値段交渉及び販売をする。
+車両ディーラーと違い普通車、高級車というように分けられていなく、ギャングや個人医はもちろん一般市民が個人で所有できる航空機を鳥野エアーで購入することが可能。
+***&color(#0a0a0a){&icon_fa(fa fa-helicopter)}&space()ヘリコプター
+#region(開く,open)
+#table_style(head=center){乗員数=center,金額=right}
+|商品名|乗員数|金額|h
+|[[Havok>>https://w.atwiki.jp/gtav/pages/1835.html]]|1名|40,000,000|
+|[[Sparrow>>https://w.atwiki.jp/gtav/pages/2654.html]]|2名|200,000,000|
+|[[SeaSparrow>>https://w.atwiki.jp/gtav/pages/1956.html]]|2名|200,000,000|
+|[[MaverickV>>https://w.atwiki.jp/gtav/pages/515.html]]|4名|270,000,000|
+|[[Frogger>>https://w.atwiki.jp/gtav/pages/644.html]]|4名|370,000,000|
+|Frogger Custom|4名|370,000,000|
+|[[Buzzard>>https://w.atwiki.jp/gtav/pages/227.html]]|4名|500,000,000|
+|[[SuperVolito>>https://w.atwiki.jp/gtav/pages/1588.html]]|4名|610,000,000|
+|[[SV Carbon>>https://w.atwiki.jp/gtav/pages/1589.html]]|4名|650,000,000|
+|[[Volatus>>https://w.atwiki.jp/gtav/pages/1633.html]]|4名|740,000,000|
+|[[Annihilator Executive(Slide door)>>https://w.atwiki.jp/gtav/pages/586.html]]|8名|1,500,000,000|
+
+#endregion
+***&color(#0a0a0a){&icon_fa(fa fa-plane)}&space()航空機
+#region(開く,open)
+#table_style(head=center){乗員数=center,金額=right}
+|商品名|乗員数|金額|備考|h
+|[[Ultralight>>https://w.atwiki.jp/gtav/sp/pages/1816.html]]|1名|40,000,000||
+|[[Mallard>>https://w.atwiki.jp/gtav/pages/219.html]]|1名|130,000,000||
+|[[Alpha Z1>>https://w.atwiki.jp/gtav/pages/1834.html]]|1名|1,000,000,000||
+|[[Besra>>https://w.atwiki.jp/gtav/pages/1241.html]]|1名|1,000,000,000||
+|[[Howard NX-25>>https://w.atwiki.jp/gtav/pages/1841.html]]|1名|1,000,000,000||
+|[[Duster>>https://w.atwiki.jp/gtav/pages/236.html]]|2名|140,000,000||
+|[[Vestra>https://w.atwiki.jp/gtav/pages/978.html]]|2名|450,000,000||
+|[[Mammatus>>https://w.atwiki.jp/gtav/pages/220.html]]|4名|180,000,000||
+|[[Dodo>>https://w.atwiki.jp/gtav/pages/1309.html]]|4名|300,000,000||
+|[[Velum>>https://w.atwiki.jp/gtav/pages/585.html]]|4名|250,000,000||
+|[[Velum 5Seater>>https://w.atwiki.jp/gtav/pages/1366.html]]|5名|800,000,000||
+|[[Nimbus>>https://w.atwiki.jp/gtav/sp/pages/1632.html]]|8名|1,650,000,000||
+|[[Dooballo>>https://voodoocustom.tebex.io/package/5490105]]|複数人|2,140,000,000|気球。運転席1名＋乗員(座席なし、上限不明)|
+#endregion
+#co{{
+**沿革
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+//|yyyy/mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+・エピソード募集中
+}}
+
+#right(){&link_up(🔝ページTOPへ)}

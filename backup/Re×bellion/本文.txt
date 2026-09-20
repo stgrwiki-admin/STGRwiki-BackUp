@@ -1,0 +1,220 @@
+//&image(ここに画像のURLを入力,y=300)
+
+#table_style(head=#e6b422:#FFFFFF){}
+|~組織名|~&space()&icon_fa(fa-solid fa-crown)&space()|&font(b,black){&ruby(リベリオン){Re×bellion}(仮)}&br()※ムーチョ文岡に「豆豆CLUB☆Loveずっきゅん」と伝えたが虚空新聞に掲載されなかった&br()（2025/08/23、鳥野ぎんの謁見中にわきをがうっかり組織名を漏らしてしまった）|
+|~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|union表示名&co(){※unionが存在しない組織の場合、この行ごと削除}|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|yyyy年mm月dd日&br()&small(){（&countup(yyyy/mm/dd,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|&font(b,black){玉座 謁見の間}（7208番地）|
+|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[上田　さん]]|
+|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&font(#e6b422){金}で申請する予定|
+//|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|施設名|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**&font(35,black){&icon_fa(fa fa-person-rifle)} &font(25){基本情報}
+・[[上田　さん]]を王(boss)として[[ギャング]]設立を目指す半グレ組織。
+・最初は白・黒市民同士の馴れ馴れしさを憂い、[[LWGP]]のような恐れられるギャングを目指すために[[上田>上田　さん]]自身も急にキャラを捨て無理やり街をかき乱す「王」を演じていたが、市長や市民と話し合っていくうちに「周りに筋を通してから動かないといずれ誰にも相手されなくなる」と悟り改心。現在は信用回復とともに『勝ちにもいくが負け役にもなれる「&bold(){ばいきんまん}」のようなギャング』を目指している。
+//
+
+***&font(18px,#e6b422){&icon_fa(fa-solid fa-crown)} &underdot(#e6b422,2px){Re×bellion：由来}
+反乱，暴動を意味する英語「rebellion」が元となっている。
+Reで再び、×は海賊っぽい、Bellionは戦争(bellumというラテン語由来)を表す。
+Re×(REX)は英語で「&infobox(title=恐竜,trigger=hover,size=small){上田さんの魂のモチーフとなっている}」、ラテン語で「王」を表している。
+lionは英語で「ライオン」を意味する。
+ボスの上田いわく、語感がギザギザしてるのも高ポイント。
+
+***&font(18px,#e6b422){&icon_fa(fa-solid fa-walkie-talkie)} &underdot(#e6b422,2px){無線番号}
+#size(90%){{{#table_style(head=#e6b422:#F9FCFF:center:b)
+|~番号|~使用期間|~詳細|
+|5.57|～2025/08/15|[[牧田　ここな]]が使用していた無線番号。|
+|404|2025/08/15～08/16|8/15に虚空新聞に無線番号が曝されため変更。&small(){&infobox(title=※,trigger=hover,size=small){上田が急遽提案した番号、404 not found}}|
+|31.89|2025/08/16～|[[ルーク　秋山]]をクビにするに伴い変更。&small(){&infobox(title=※,trigger=hover,size=small){上田のイメージとなっているキャラクターの懸賞金が参考になっている}}|
+}}}
+//⚠️万が一設立が叶わなかった場合は、こちらのページを[[上田　さん]]のページ（D事件の下あたり）に組み込むことも視野に入れております⚠️
+#co{
+***設立までの流れ
+#region(open,開く)
+・&font(16px,b){[[Trickster]]譲渡の話}
+情報を記述
+・&font(16px,b){[[市長>山下　ひろし]]面談}
+情報を記述
+・&font(16px,b){メンバー勧誘〜再度市長面談}
+情報を記述
+#endregion
+}
+//内容が一切内容が記入されないので、こちらの項目を作った方が内容を記入されたら公開されるのがよろしいと思いますのでcoとさせていただきます
+//⏫歴史の項目で事足りている為現時点で現時点ではこのまま伏せていて良いと判断しました
+
+**&font(35,black){&icon_fa(fa fa-users)} &font(25){メンバー}
+***暫定メンバー
+#region(開く,open)
+#size(90%){{{#table_style(head=#e6b422:#F9FCFF:center:b){名前=bold}
+#table_filter(){ギャング加入日=hide,組織加入日=show,役職=show,備考=show,配信=show}
+|~名前|~ギャング加入日|~組織加入日|~役職|~備考|~配信|h
+|[[上田　さん]]|2025/mm/dd|2025/08/08|王(boss)|元[[餡ブレラ]]のパシリ、元[[MOZU]]の期間限定猫、元[[麻陀羅組]]期間限定構成員|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/shinnosuke_th]]|
+|[[穴井　元]]|2025/mm/dd|2025/08/08|役職|備考|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/anaizon]]|
+|[[キャプテン　わきを]]|2025/mm/dd|2025/08/08|役職|元[[GBC>>GoodbyeCircus]],[[餡ブレラ]]構成員、元[[麻陀羅組]]期間限定ボス|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/wakiwaki612]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@wakiwo_]]|
+|[[聖母　れりあ]]|2025/mm/dd|2025/08/10|役職|元[[IRiS]],[[餡ブレラ]]構成員　現状は9月いっぱいまで|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/hijirimelaeria]]|
+|[[近藤　武蔵]]|2025/mm/dd|2025/08/10|役職|元[[GATO]]ボス|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/hiiro_vt]]|
+|[[風見　セオ]]|2025/mm/dd|2025/08/13|役職|備考|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Kazari_Ceo]]|
+|[[ライジングサン　宗介]]|2025/mm/dd|2025/08/14|役職|元[[DERAY]]構成員|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/nitrorizi]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@nitrorizi]]|
+//|[[名前]]|2025/mm/dd|役職|備考|配信|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//メンバーの変更があれば「参加者一覧」への反映もお願いします
+}}}
+#endregion
+
+***勧誘中
+#region(開く,open)
+#size(90%){{{#table_style(head=#e6b422:#F9FCFF:center:b)
+#table_filter(){勧誘日=show,備考=show,配信=show}
+|~名前|~勧誘日|~備考|配信|h
+|[[マクソン　最大]]|2025/08/12|カジノ従業員、FOG体験。2か月の猶予を与え考える。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/themaxmurai]]|
+|[[三ッ星　ちゅに]]|2025/08/12|ピザ屋店員、FOG体験。2か月の猶予を与え考える。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/miiishu_628]]|
+|[[トナカイ>>タシロ　カワセ]]|2025/08/12|BJローン社員、個人医。8/15までに返事をもらう。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kawase56]]|
+|[[三否亭　四五六確]]|2025/08/14|BJローン社長、不動産。[[BJローン]]社員と相談してみる。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kyoyu_shiroya]]|
+|[[千代田　ヨウ]]|2025/08/16|BJローン社員、薬局店員。「[[Mon　D]]と同じ誘い文句を言えたら入る」と言われている。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/ram_ch0p]]|
+|[[桃兎　すずめ]]|2025/08/22|救急隊（公務員）、猫カフェ店員。[[医局長>橘　かげまる]]・[[隊長>命田　守]]を構成員に出来たらまた連絡する。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/suzune_rabbit]]|
+|[[鳥野　ぎん]]|2025/08/23|救急隊（公務員）、鳥野エアー社長。雇用元である[[市長>山下　ひろし]]を納得させて、[[医局長>橘　かげまる]]・[[隊長>命田　守]]を構成員に出来たら考える。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kolu_pen]]|
+|[[山本　寅子]]|2025/08/23|警察（公務員、特別市民）、サウナ店員。2か月の猶予を与え考える。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/takatora23]]|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
+#endregion
+
+***過去メンバー
+#region(開く)
+#size(90%){{{#table_style(head=#e6b422:#F9FCFF:center:b)
+#table_filter(){加入日=show,脱退日=show,備考=show}
+|~名前|~加入日|~脱退日|~備考|h
+|[[ルーク　秋山]]|2025/08/15|2025/08/16|虚空新聞の件を問題視した[[わきを>>キャプテン　わきを]]が指摘し、[[ルーク>>ルーク　秋山]]抜きでメンバーと話あった結果クビになった|
+//|名前|加入日|yyyy/mm/dd|~備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
+#endregion
+
+***過去に勧誘したことのある市民
+#region(開く)
+#size(90%){{{#table_style(head=#e6b422:#F9FCFF:center:b)
+#table_filter(){勧誘日=show,備考=show}
+|~名前|~勧誘日|~備考|h
+|[[パン　チャン]]|2025/08/08|あと1回警察志望をしたいためと断られる。落ちたらギャングに加入させられるくらいの気持ちでやれと発破をかけた。|
+|[[犬好　マイキー]]|2025/08/13|自分も含め身体が弱くダウンするとその日は動けなくなる友人のため、個人医として治す方法を探しているためと断られる。|
+|[[ももみ　マルフォイ]]|2025/08/14|人を従えるなら影響力を示すことや、ネットリテラシー、人生のレールについてなど説教され断られた。|
+|[[かな市長補佐]]|2025/08/14|超能力で[[上田>>上田　さん]]は倒され、玉座を奪われた。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
+#endregion
+
+**&font(35,black){&icon_fa(fa fa-handshake)} &font(25){協力関係}
+#region(開く,open)
+#size(90%){{{#table_style(head=#e6b422:#F9FCFF:center:b)
+#table_filter(){備考=show,配信=show}
+|~組織名|~主な関係者|~備考|配信|h
+|[[KoKo七番屋]]|[[牧田　ここな]]|元[[FOG]]の従業員であり[[上田>上田　さん]]が勧誘した人物。&br()（当時）[[FOG]]を始めたばかりで、やることを終わらせたら[[ここな>>牧田　ここな]]側から頭を下げに来たいという言葉をもらっており、実質協力関係である。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/takoko_vtuber]]|
+|[[文秋館]]|[[ルーク　秋山]]&br() |[[ルーク　秋山]]をクビにする代わりに、大型犯罪をする際1日1回連絡をする。報道活動が可能になる。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/darkzelk]]|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
+#endregion
+***元協力関係
+#region(開く)
+#size(90%){{{#table_style(head=#e6b422:#F9FCFF:center:b)
+#table_filter(){加入日=show,脱退日=show,備考=show}
+|~組織名|~主な関係者|~備考|h
+|[[FOG]]|[[ルウ　ギャラクティカ]]|[[ルウ　ギャラクティカ]]は[[FOG]]の店長を務めており、[[上田>上田　さん]]とメカニックのあり方について語り合った。&br()2025年08月28日廃業した。|
+//|名前|加入日|yyyy/mm/dd|~備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
+#endregion
+**&font(35,black){&icon_fa(fa fa-bomb)} &font(25){対外組織}
+#region(開く,open)
+#size(90%){{{#table_style(head=#e6b422:#F9FCFF:center:b)
+#table_filter(){備考・エピソード=show}
+|~組織名|~備考・エピソード|
+|[[麻陀羅組]]|08/15、[[上田>上田　さん]]が[[ムーチョ　文岡]]による虚空新聞の取材謁見にて「弱小ギャングランキングTOP3」を聞かれ名を挙げた。|
+|[[第4宇宙速度]]|08/15、[[上田>上田　さん]]が[[ムーチョ　文岡]]による虚空新聞の取材謁見にて「弱小ギャングランキングTOP3」を聞かれ名を挙げた。&br()08/16、[[穴井>>穴井　元]]が[[高橋　滅論]]に拉致され[[上田>>上田　さん]]が1人で来るように呼び出される。&br()「穴井元が死ぬ」か「今日ギャングを立てるのを諦める」かの2択を迫られるも、&br()[[上田>>上田　さん]]は第3の選択肢「どっちも手に入れる」ことを選択し、[[滅論>>高橋　滅論]]を射殺し穴井を奪還する。|
+|[[DERAY]]|08/08、[[上田>上田　さん]]による[[ライジングサン　宗介]]への引き抜き行為が[[小峯>小峯　玲]]にバレて、市長面談後に海に沈められた。&br()08/15、[[上田>上田　さん]]が[[ムーチョ　文岡]]による虚空新聞の取材謁見にて「弱小ギャングランキングTOP3」を聞かれ名を挙げた。|
+|[[hantasma]]|[[キャプテン　わきを]]が[[麻陀羅組]]1週間ボス時代に行った抗争で敗れ、「ボイス販売を行い、&br()収益を[[hantasma]]に納める」という禊を行う事になっていたが、[[わきを>キャプテン　わきを]]によるピンハネ疑惑が発生。&br()途中から[[上田>上田　さん]]も交え数回話し合いを行うも結局[[ハン>アドミゲス・ハン]]を納得させることが出来ず溝が深まり、&br()今後[[上田ギャング>Re×bellion]]には関わらない、と宣言される。&br()これを機に、[[上田>上田　さん]]が「対等にやり合うためにも自分たちにはやはりギャングが必要だ」と決意するきっかけとなった。|
+|[[NO LIMIT]]|[[上田>上田　さん]]が[[飯田　けんつ]]からアジトの提案をされ、[[TOPGEAR]]時代に使っていたアジトの紹介が終わり別れた直後、[[上田>上田　さん]]の車がC4で爆破された。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
+&font(#AAAAAA,b){エピソード募集中}
+#endregion
+
+**&font(35,black){&icon_fa(fa fa-building-flag)} &font(25){拠点}
+#region(開く,open)
+#size(90%){{{#table_style(head=#e6b422:#F9FCFF:center:b)
+#table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
+|~番地|~通称|~管理者|~備考|h
+|7208|玉座|[[穴井　元]]|&infobox(title=王,trigger=hover,size=small){上田}に&infobox(title=謁見,trigger=hover,size=small){勧誘}する際に使われる物件|
+|7208||[[牧田　ここな]]|倉庫兼牢屋として使う予定|
+//|番地|通称|管理者|備考|
+//|番地|通称|管理者|備考|
+//|番地|通称|管理者|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
+#endregion
+
+**&font(35,black){&icon_fa(fa fa-list)} &font(25){歴史}
+***2025年
+#region(open,〜設立まで)&bold(){〜設立まで}
+#size(90%){{{#table_style(head=#e6b422:#F9FCFF:center:b)
+#table_filter(){出来事=show,関係者=hide,備考=show,動画=show}
+|~日付|~出来事|~関係者|~備考|~動画|h
+|08/dd|MIDDLE:[[ギャング]]譲渡の話||||
+|08/08|MIDDLE:市長面談|MIDDLE:&small(){[[上田　さん]],[[山下　ひろし]]&br()[[ジョーカー>>半沢　直ふぃ]],[[穴井　元]]}|[[Trickster]]を譲渡してもらう許可をもらいに市長と面談を行う。&br()1週間後までに構成員人数や言動を改めることができたら許可が下りる可能性が示唆される|MIDDLE:CENTER:&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=ndvjS13ZH6U]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=YpszHZQ2cIc]]|
+|~|MIDDLE:新メンバー加入|MIDDLE:&small(){[[上田　さん]]&br()[[穴井　元]],[[わきを>>キャプテン　わきを]]}|[[上田　さん]]からギャング設立を諦めないという意思を聞き、[[穴井　元]]と[[わきを>>キャプテン　わきを]]が加入する意思を表明。||
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[パン　チャン]]}|[[パン　チャン]]を勧誘&br()警察志望を継続したいためと断られる。||
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[聖母　れりあ]]}|[[聖母　れりあ]]を勧誘&br()他ギャングにも誘われているため考えたいと保留になる。||
+|08/10|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[風見　セオ]]}|[[風見　セオ]]を勧誘&br()8/14期限で考えることになる。|MIDDLE:CENTER:&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=ZoSUw36VzvU]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=LSrYrVmTe0w]]|
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[ライジングサン　宗介]]}|[[ライジングサン　宗介]]を勧誘&br()所属している[[DERAY]]が問題を抱えておりタイミングが悪いと保留になる。|~|
+|~|MIDDLE:メンバー勧誘&br()新メンバー加入|MIDDLE:&small(){[[上田　さん]],[[近藤　武蔵]]}|[[近藤　武蔵]]を勧誘&br()活動方針を聞き即加入を決断する。|~|
+|~|MIDDLE:メンバー勧誘&br()新メンバー加入|MIDDLE:&small(){[[上田　さん]],[[聖母　れりあ]]}|[[聖母　れりあ]]を再び勧誘、タイミー(9月いっぱいを目途)での加入が決定する。(加入中の内容次第で継続する可能性あり)|~|
+|08/12|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[マクソン　最大]]}|[[マクソン　最大]]を勧誘&br()カジノに就職したばかりであり、街をもっと知りたいため2か月猶予で保留となる|MIDDLE:CENTER:&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=yWILw6bdG7Q]]|
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[トナカイ>>タシロ　カワセ]]}|[[トナカイ>>タシロ　カワセ]]を勧誘&br()8/15期限で考えることになる。||
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[三ッ星　ちゅに]]}|[[三ッ星　ちゅに]]を勧誘&br()職業体験1日目、新規住民ということで2か月猶予で保留となる||
+|~|MIDDLE:組織名仮決め|:&small(){[[上田　さん]],[[わきを>>キャプテン　わきを]]}|組織名を「Re×bellion」に仮決めする|MIDDLE:CENTER:&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=P1yxBF7bxCg&t=1009s]]|
+|08/13|MIDDLE:新メンバー加入|MIDDLE:&small(){[[上田　さん]],[[風見　セオ]]}|[[風見　セオ]]が正式に加入する。||
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[犬好　マイキー]]}|[[犬好　マイキー]]を勧誘&br()自分も含め身体が弱くダウンするとその日は動けなくなる友人のため、個人医として治す方法を探しているためと断られる。||
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[パン　チャン]]}|[[パン　チャン]]を再び勧誘&br()あと1回警察志望をしたいためと断られる。落ちたらギャングに加入させられるくらいの気持ちでやれと発破をかけた||
+|08/14|MIDDLE:ギャング設立の方針転換|MIDDLE:&small(){[[上田　さん]],[[キャプテン　わきを]]}|[[Trickster]]を譲渡される形ではなく、新規ギャングとして設立を目指す方針にする。||
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[三否亭　四五六確]]}|[[三否亭　四五六確]]を勧誘&br()「([[BJローン]]での)借金を返済したら一考する」という言葉を受け、わきをから借り返済したことにより一考することになった。|MIDDLE:CENTER:&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=N6z29MFjrVc]]|
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[ももみ>ももみ　マルフォイ]]}|[[ももみ　マルフォイ]]を勧誘&br()人を従えるなら影響力を示すことや、ネットリテラシー、人生のレールについてなど説教され断られた。|~|
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[牧田　ここな]]}|[[牧田　ここな]]を勧誘&br()[[FOG]]を始めたばかりなのでやることを終わらせたら、[[ここな>>牧田　ここな]]側から頭を下げに来たいという言葉をもらった|~|
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[かな市長補佐]]}|[[かな市長補佐]]を勧誘&br()超能力で[[上田>>上田　さん]]は倒され、玉座を奪われた。|~| 
+|~|MIDDLE:メンバー勧誘&br()新メンバー加入|MIDDLE:&small(){[[上田　さん]],[[ライジングサン　宗介]]}|[[ライジングサン　宗介]]を再び勧誘&br()[[DERAY]]を脱退してきて正式に加入する|MIDDLE:CENTER:&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=uwEs_DwaSjU]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=MgEY3J2dHqI]]|
+|08/15|MIDDLE:メンバー勧誘&br()新メンバー加入|MIDDLE:&small(){[[上田　さん]],[[ルーク　秋山]]}|組織の悪名を世間に広めるために記者の[[ルーク　秋山]]を勧誘&br()即加入を決断する。||
+|~|MIDDLE:虚空新聞に掲載される|MIDDLE:&small(){[[ペンカートン情報局]]}|[[ルーク>>ルーク　秋山]]が加入した件について同僚の[[ムーチョ　文岡]]から確認や組織について取材を受けた結果、&br()虚空新聞に組織の情報(人員情報や無線番号)など書かれる。||
+|08/16|MIDDLE:拉致事件|MIDDLE:&small(){[[上田　さん]],[[穴井　元]],[[高橋　滅論]]}|[[穴井>>穴井　元]]が[[高橋　滅論]]に拉致され[[上田>>上田　さん]]が1人で来るように呼び出される。&br()「穴井元が死ぬ」か「今日ギャングを立てるのを諦める」かの2択を迫られるも、&br()[[上田>>上田　さん]]は第3の選択肢「どっちも手に入れる」ことを選択し、[[滅論>>高橋　滅論]]を射殺し穴井を奪還する。||
+|~|MIDDLE:メンバー脱退|MIDDLE:&small(){[[上田　さん]],[[ルーク　秋山]]}|[[ルーク>>ルーク　秋山]]の務める[[ペンカートン情報局]]への情報流出及び、&br()虚空新聞の記載内容の制御ができないと判断し、[[ルーク　秋山]]をクビにするとこにした。||
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[千代田　ヨウ]]}|[[千代田　ヨウ]]を勧誘&br()「[[Mon　D]]と同じ誘い文句を言えたら入る」と言われ考えることとなった。||
+|~|MIDDLE:市長面談|MIDDLE:&small(){[[上田　さん]],[[山下　ひろし]]}|ギャングを新設で立てるための許可をもらいに改めて市長面談を行うも、&br()「ギャングを立てることやボスになることへの覚悟が伝わってこない。&br()なぜギャングになりたいのか、なぜギャングじゃないといけないのか。&br()芯がない人は続けていけない。」など[[山下市長>山下　ひろし]]から数々の厳しい言葉を受け許可をもらうことができなかった。&br()面談を終え玉座でメンバーと話しあい、もう1回だけ面談をするチャンスをもらい1週間後に再度面談にいくことに決める。|MIDDLE:CENTER:&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=yx4AmLf0gnE]]|
+|08/22|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[桃兎　すずめ]]}|[[桃兎　すずめ]]を勧誘&br()「[[橘　かげまる]]と[[命田　守]]を構成員にしたらまた連絡する」ということになった。||
+|08/23|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[鳥野　ぎん]]}|[[鳥野　ぎん]]を勧誘&br()「公務員である以上、まずは雇用主である[[市長>山下　ひろし]]を倒し（納得させるの意味）、&br()尊敬する[[橘　かげまる]]と[[命田　守]]を構成員に出来たら考える」ということになった。|MIDDLE:CENTER:&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=0p4864apBT0]]|
+|~|MIDDLE:市長面談|MIDDLE:&small(){[[上田　さん]],[[山下　ひろし]]}|約束の1週間が経ち再面談。前回とは違い[[上田>上田　さん]]のギャングへの熱意が[[市長>山下　ひろし]]に伝わってはいたものの、&br()「ギャングを設立したとしても、他組織から相手にされるのか」&br()「他ギャングの話を勝手に自己解釈して伝えた」という点に納得がいかず、今回も設立は叶わず。&br()周りのギャングからの心象を確かめるため、市長の方から27日に改めて再面談を行う事となった。|MIDDLE:CENTER:&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=E2iV6Q1gQEE&t=10s]]|
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[上田　さん]],[[山本　寅子]]}|[[山本　寅子]]を勧誘&br()「警察と[[SPA だはは]]を辞めるわけにはいかない」と言われるも、&br()[[上田>上田さん]]の熱意により、最終的に2か月猶予で保留となる。||
+|08/26|MIDDLE:市長と対談|MIDDLE:&small(){[[上田　さん]],[[山下　ひろし]]}|[[市長>山下　ひろし]]の方から「市長としてではなく一市民として話を聞きたい」として競馬場にて[[上田>上田　さん]]と2人で対談を行った。||
+|08/26|MIDDLE:9055社長と交渉|MIDDLE:&small(){[[上田　さん]],[[月乃　えるな]]}|[[上田>上田　さん]]の[[FOG]]関連での[[9055]]とのわだかまりを無くすため、上田が[[月乃　えるな]]との和解と9055への出禁解除を交渉するも、&br()相手にされず決裂。28日に抗争をすることになった。||
+|08/27|MIDDLE:紹介謁見|MIDDLE:&small(){[[上田　さん]],[[高橋　滅論]],[[アヌギフ　白川]]}|[[高橋　滅論]]から紹介で[[アヌギフ　白川]]と謁見（ただの顔合わせのため勧誘ではない）&br()お互いに興味を持てればまた話をするということになった。||
+|08/27|MIDDLE:市長面談キャンセル|MIDDLE:&small(){[[上田　さん]],[[山下　ひろし]]}|「（昨日の対談を受けて）混乱しているため、今のままではまともに話が出来ない」として、&br()[[市長>山下　ひろし]]との面談を&s(){ドタ}キャンセル。直後[[上田>上田　さん]]が謝罪に市長室へ向かうも、市長から無責任な振る舞いを叱られた。||
+|08/28|MIDDLE:9055と抗争（ゲーム）|MIDDLE:&small(){[[上田　さん]],[[穴井　元]],[[月乃　えるな]]}|[[9055]]の[[上田ギャング>Re×bellion]]への屈服を賭けてレース・パラシュート・ユニコーンバットで抗争（ゲーム）を実施するも、&br()結果は全敗。9055の謁見視聴権利の取得、[[上田>上田　さん]]と[[ジャックス>ブラック　ジャックス]]（穴井の兄）がタトゥーを彫ることになった。||
+
+
+//|mm/dd|MIDDLE:ギャング名決定|MIDDLE:関係者|備考|
+//|mm/dd|MIDDLE:市長面談|MIDDLE:関係者|備考|
+//
+//|mm/dd|MIDDLE:出来事|MIDDLE:関係者|備考|動画|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
+#endregion(〜設立まで)
+
+#right(){&link_up(🔝ページTOPへ)}

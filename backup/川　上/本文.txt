@@ -1,0 +1,653 @@
+#slide_img(auto=3,position=left,height=400,width=290){川上_普段着.jpg,川上_カレー屋制服.jpg,川上_ゴミ拾い.jpg,川上_タバコ屋_家族写真.png, 川上_冬服.png}
+//
+//ここからプロフィール
+
+&size(24){&bold(){「アッツ〜い」}}
+*プロフィール &icon_fa(fa fa-smoking)
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#e6e6fa){名前=#eee:b:center}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(かわ){川}　&ruby(かみ){上}|
+|~出身地|~&icon_fa(fa fa-map-marker)|>|日本 福岡|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|1991年12月27日 (&countup(1991/12/27,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|>|2023年12月24日 (&countup(2023/12/24,yd)経過)|
+|~職業|~&icon_fa(fa fa-wrench)&br()&icon_fa(fa fa-smoking)&br()&icon_fa(fa fa-car-side)&br()&br() |&bold(){[[A2 Lab]](オーナーの可能性あり) メカニック}&nbsp(br)&bold(){[[川上たばこ店]] 店長}&nbsp(br)&bold(){[[ClassicSport J's]] ディーラー &br()&small(){&openclose2(show=過去の職業){&nbsp(br,3)バス会社 運転手&small()&nbsp(br,3)[[KoKo七番屋]] 店員&small()&br()}}}||
+|~TwiX|~&icon_fa(fa fa-tag)|＠kawakami||
+|~レーサー名|~&icon_fa(fa fa-user-tag)|RiverSide||
+|~チャンク|~&icon_fa(fa fa-exclamation-triangle)|[[さぁ、起きて>https://clips.twitch.tv/TameSecretiveSproutCharlietheUnicorn-JGcMaZMBxePADIuH]] (2024年1月3日)||
+|プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card)|>|SHAKA(ZETA DIVISION)|
+|告知等|BGCOLOR(#eee):~&icon_fa (fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X (旧&font(#1da1f2){Twitter}) (@avashaka)}>>https://twitter.com/avashaka]]|
+|配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch fa-fw)}[[&font(#6441A4){Twitch (fps_shaka)}>>https://www.twitch.tv/fps_shaka]]|
+|切り抜き|BGCOLOR(#eee):~&icon_fa(fa fa-scissors)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725) {YouTube (SHAKAch)}>>https://www.youtube.com/@SHAKAch]]|
+|BGCOLOR(#fff):~別キャラ|>|>|[[川　中]], [[釈　リキ]]|
+
+//
+//職業を追加・更新した場合、「 https://w.atwiki.jp/streamergta5/pages/20.html#id_ab0a5ace 」（職業一覧->就業者一覧）等への追加・更新のご協力をお願いいたします。
+
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報 &icon_fa(fa fa-id-card-o)
+-よく似た別の街から来た。&br()通称[[100年前>https://w.atwiki.jp/streamergta5/pages/118.html#100nenmae]]及び[[100年後>https://w.atwiki.jp/streamergta5/pages/118.html#100nengo]]の記憶を持つ民。100年前では凄腕警察官として犯罪者達とやりあっていたり、100年後では&color(#fff,#d4391d){''白いギャング''}に所属していたりした。
+--街の人にはおじいちゃんが警察、お父さんがギャングという事で説明している。おじいちゃんの日記などからそっち系の知識を持っている事になっている。
+--この街では名前を捨て、白市民として暮らしたいと思っている。&nbsp(br,4)(やることがなくなったら警察かギャングになるかも？と話している)
+---しかし、煙草屋開業に伴い正装にした所、滲み出る圧にほぼギャンと勘違いされる。&br()父の面影なのか？一部では既視感を覚える者も…
+-車好きでありこの街にはドリ車に乗る為に訪れた。ドリ車を沢山作る為にメカニックとなり、峠でのドリフトやレースに向けディーラーや車好きとも交流し様々な車の性能やカスタムによる変化を学んでいる。
+- エンジンスワップが得意であり、スワップの速さにかけてはロスサントス随一の腕前を自負している。
+-かなりの暑がりなようで基本的に半袖のアロハシャツ姿。メカニックだから寒さを感じないらしい。鍛えすぎてしゃがむとシャツの脇の下がビリっと破けてしまう。
+--しかし氷点下18℃にもなるロスサントスの冬は流石に寒かったらしく、冬服を購入した。
+-口癖は「あざーす」「あつー（い）」「アッツい」「あかーん」「オッケーです」「へいらっしゃい」「ほなまた〜」「ええて」「〜したっていい」「〜だったっていい」「〜だっていい」「まいど」「あらじゃい」
+-自然？と肩で風を切って歩いてしまう為、周囲より歩きが遅い。
+-手をパタパタしたり、なにかと指を指したり、ウロウロしたり…と落ち着きが無い。手持ち無沙汰なのかつい筋肉を動かしてしまうようだ。　　　　
+　「僕はガレリア」
+-笑いのツボが浅い
+-地元で結婚して単身赴任で稼ぎに来ている
+-数字や計算は苦手だが推理等に関しては頭の回転が早く、一部では名探偵川上と呼ばれている
+-車に合わせる形で最近は「ドンキ川上」と名乗っていたり、メカニックの時は「真剣川上」、カレーを売るときは「ナン川上」、海上レストラン行く際は「オーシャン川上」、レースでリタイアしそうになった時は「まだやれる川上」などTPOで名前を変更している。
+-密かにドリフト人口・レース人口を増やそうとしている。
+-前後の記憶のせいかレーサーとしては、レース回数が少ないにもかかわらず上位に食い込むほどトップクラスの腕前を持っている。
+-建物や高い所から落ちて死ぬと「狙撃された」と嘘の発言をし、話をややこしくする。
+-しばしば[[マクドナルド>ライトスターボーイ]]や[[ヘラシギ]]などの住民のモノマネをする。
+-車、二輪、ヘリ、レース、大型、航空機、船舶、バスのドライバーライセンスを取得している。
+-川上は[[マクドナルド>ライトスターボーイ]]に出くわす度に爆笑している(ツボが浅い)
+-街に来て日が浅いながら巧みなドライビングテクニックを持ち、レースのリーダーボード第二期で8位という成績を収める。
+-[[GoodNight]]のキャバ嬢、[[てやんでい>えだまめもん]]にハマり足繁く店に通っている。「人生初の推し活」と語る。
+//
+****交友関係
+#table_style(head=center:#800000:#ffffff)
+#region(交友関係)交友関係
+#table_filter(){愛称=hide,説明=show}
+|~名前|愛称|説明|h
+|[[麻林　ラル]]|ラルさん|&s(){初心者🔰}執行猶予付の頃から「麻を売りたい」と言っていた厳つい人。店長からタバコと麻の繋がりとして紹介された。&br()歩き方が同じ。よく[[A2>A2 Lab]]にも来てくれカスタムや修理を依頼してくれる。|
+|[[小豆　最中]]|もなぴ|自称[[SUZUKI>BIG　SUZUKI]]の弟子のぎゃる。彼女もまた車に詳しくドリフト仲間。&br()族車や車の見た目についてよく話が合う。|
+|[[アルカ>アラリル・アルシャバ・アルカ]]||サロンでネイルをしてくれた女性。&br()ネイル屋で変なことをしている人だと思っていたが、どうやら[[海上レストラン>Urashima]]の店長をしているらしい。|
+|[[飯田　けんつ]]||[[9055メカニック]]と[[海上レストラン>Urashima]]で働いているレース仲間。&br()よくポイントの奪い合いをしている。|
+|[[大　川]]|社長、大川さん|[[A2 Lab]]の社長。見た目はイカつめだが優しいチルい人。色々とゆるいギャンブル狂。&br()「社長」と呼んでいる。度々川上の保護者扱いされている。|
+|[[御花　はな]]|はなやん|街に来た目的を言った瞬間に早口になったドリフト仲間。犬みたいだ。自称[[SUZUKI>BIG　SUZUKI]]の弟子。|
+|[[オフィサー ジェフリー>Albert　Pondering]]|ジェフリーさん|よく車の修理やカスタムにやってくるアメリカ人警官。たびたび字幕付きの英語で話す。&br()「Excuse me, there has been a report of a emergency. Can I ask you some questions?」&nbsp(br,2)(すみません、ここらで犯罪の通報がありました。話を聞かせてください。)|
+|[[カム　カマダ]]||車の見た目のカスタムを見るのが好きなゲラな子供。オリジナルカスタムを依頼してくれた。|
+|[[焦月　ツルギ]]|ツルギ君|同じ時期に来た同期。色んな仕事を転々としバックレている焦げ付いた人。&br()彼から「稼げるお店」と聞いていたので[[KoKo七番屋]]で体験をし始めた。&br()自分から調べている訳では無いのだが、なぜか色んな場所から情報が入ってくる。|
+|[[さとう]]||[[海上レストラン>Urashima]]店員で歌が上手い女の子。誕生日に久保井億寿タワーを注文する事を約束した。|
+|[[てやんでい>えだまめもん]]|でい|キャバクラ[[GoodNight]]でNo1と紹介された、クセが強すぎるキャバ嬢。&br()ハチャメチャすぎる衣装や言動がツボにハマった、嬢の中でもお気に入りの存在。|
+|[[天王寺　京司郎]]|京司郎のアニキ|職を探しているときに[[JTS>ジョアンナテクノサービス]]でメカニックの仕事を色々と教えてくれた師匠。|
+|[[BIG　SUZUKI]]|SUZUKI氏|街でドリフトをやりこんでいる車に詳しいメカニック。イマジナリーでは知り合い？&br()車の価値観が合うようでよく車の話で盛り上がっている。|
+|[[プスカ大佐>ネズ]]|大佐|面白い車も情報を教えて貰ったりする車仲間。お互いメカニックだが大佐の元に車を修理しにに行き車談義をしたりする。&br()最新型の脳を導入しているそうで、[[旧世代の住民>柳田　ライアン]]に対してスペハラをしているようだが、モニターは一枚らしい。|
+|[[冬那　フナ]]|フナ君|[[カレー屋>KoKo七番屋]]で体験に来たほぼ同期。高級車ディーラーとしてもお世話になっている。|
+|[[ヘラシギ]]|ヘラシギ兄さん|何かとよく会う免許のお兄さん。無免の時に度々取ったかを聞かれて渋々取らせて貰った。|
+|[[牧田　ここな]]|店長|[[KoKo七番屋]]の店長。車の相談やカスタム依頼を受けたりしている。街の住民から黒い噂をよく聞き、とんでもない黒市民なのではないかと疑っている。|
+|[[焼野原　ひろし]]||[[詐欺グループ>GoodbyeCircus]]の一員。振り回されている風を装ってはいるが、詐欺の現場には必ずいる。&br()かなりやってる。|
+|[[ヤブ下　安理]]|ヤブさん|[[A2 Lab]]の先輩で同僚。いつも優しい。レース仲間でもあり、同じコースを走ったりレース談義をすることもしばしば。&br()[[キャバクラ>Urashima]]でよく会う。|
+
+#table_autoincrement(){label=No.}
+#endregion()
+//
+****職場
+#table_style(head=center:#800000:#ffffff)
+#region(職場)職場
+|~店名|~備考|h
+|&bold(){[[A2 Lab]]}|各メカニックの雰囲気を見たうえで自分のカスタムをしつつお金を稼げそうな場所としてA2を選んだ。&br()"スワップ川上"を名乗るほどエンジンスワップを得意としている。&br()現状"1分37秒24"が自己最速記録である。|
+|[[KoKo七番屋]]|&nbsp(3)[[焦月 ツルギ>焦月　ツルギ]]から稼げるとの噂を聞き体験、就職した。&nbsp(br,3)KoKo七番屋の川上オリジナルメニューは&openclose2(show=「SOUPerCARry」){&nbsp(br,7)商品説明には『僕はカレリア』とあるが、何故か見た人に笑われる事象が起きる。}&nbsp(br,3)KoKo七番屋オリジナルタバコの「ナナツボシ」は川上からの提案で出来上がった。&br()1月26日、クラスポディーラーとなるためカレー屋を勇退。|
+|&bold(){[[川上たばこ店]]}|8052に開業したタバコ屋。1月6日の3時にオープンした。&br()商品のデザインは業者&openclose2(show=*){有志の観測者}に委託している。&br()ロスサントスの各ギャングをモチーフにしたタバコの販売を予定している。|
+|&bold(){[[ClassicSport J's]]}|ロスサントスに車の魅力を広めるため、社員数が少ないといわれるクラスポディーラーに就職。&br()車を多く売り上げ、ボーナスには12億もの額を受け取った。|
+#table_autoincrement(){label=No.}
+#endregion
+
+*車両関連 &icon_fa(fa fa-car)
+//入手日など訂正ある箇所見つけ次第訂正お願いします。
+//レイアウトなど凝りたい場合、訂正していただいて構いません。
+//愛称はガレージに格納しているときの名称になります。デフォルトの場合ハイフンを記載。
+#region(所有車両,close)&bold(){所有車両}
+#table_filter(){入手日=hide,メーカー=hide,車両名=show,愛称=show,分類=hide,説明=show}
+#table_style(head=center:#e6e6fa)
+|~入手日|~メーカー|~車両名|~愛称|~分類|~説明|
+|2023/12/25|Wenny|[[Issi Classic>>https://w.atwiki.&u(){ここに文字を入力}jp/gtav/pages/1955.html]]|【倉庫】イッシークラシック|Compacts|この街に初めて来た時に&openclose2(show=*){([[狐野　承志]]から)}貰った車。1日目の移動時に活躍した。現在は倉庫と化している。|
+|2023/12/25|Annis|[[Remus>>https://w.atwiki.jp/gtav/pages/2696.html]]|【ドリ車】ドリフト天国S13|Sports|初めて購入したドリ車。現在はクリーム色とシルバーのツートン。V8に換装し、これで練習を積む。|
+|2023/12/26|Annis|[[Elegy Retro Custom>>https://w.atwiki.jp/gtav/pages/1695.html]]|【移動】GTR|Sports|レースに出るために購入した車。色はブラックで、V12に換装済み。|
+|2023/12/29|Emperor|[[Vectre>>https://w.atwiki.jp/gtav/pages/2706.html]]|【ドリ車】ドリフトできるハチ。|Sports|BIG SUZUKIのベクターに感銘を受けて作られた2台目のドリ車。&br()黄色にところどころ黒が入っており、さながらスズメバチ。V8 4.0に換装していて、パワフルな走りをする。|
+|2023/12/29|Dinka|[[Jester RR>>https://w.atwiki.jp/gtav/pages/2694.html]]|【移動】ジェスターRR|Sports|普段使い用の車。ドリフトの師匠が乗っていてずっと気になっていた。&br()紺と赤でアドバンカラー風、両ドアに牛のロゴが付いている&openclose2(show=*){&small(){某エナジードリンク}}。|
+|2023/12/29|Western|[[Wolfsbane>>https://w.atwiki.jp/gtav/pages/1666.html]]|【趣味】ばいく。|Motorcycles|大川さんに貰ったバイク。|
+|2024/01/01|Declasse|[[Moonbeam Custom>>https://w.atwiki.jp/gtav/pages/1543.html]]|【倉庫】バン|Muscle||
+|2024/01/02|Vapid|[[Dominator GTT>>https://w.atwiki.jp/gtav/pages/352.html]]|-|Muscle||
+|2024/01/02|Karin|[[Sultan Classic Custom>>https://w.atwiki.jp/gtav/pages/2537.html]]|-|Sports|[[三階堂 キミトス>三階堂　キミトス]]のカスタムに苦戦し自分でも色々と試すために購入。愛せないためイ●ポマン仕様に。|
+|2024/01/03|Nagasaki|[[Shinobi>>https://w.atwiki.jp/gtav/pages/2738.html]]|-|Motorcycles|バイクを欲していたところに一緒にいた[[麻林 ラル>>麻林　ラル]]がバイクディーラーである事が発覚し購入。|
+|2024/01/07|Pegassi|[[Ignus>>https://w.atwiki.jp/gtav/pages/2723.html]]|-|Super|100年後の世界で乗っていた車。この街での一つの目標となっていたが、たばこ屋開業で稼いだ金でついに購入。|
+|2024/01/09|Declasse|[[Yosemite>>https://w.atwiki.jp/gtav/?cmd=word&word=%E3%83%A8%E3%82%BB%E3%83%9F%E3%83%86&pageid=1847]]|-|Muscle|たばこ屋の社用車として購入|
+|2024/01/10|Vapid|[[Guardian>>https://w.atwiki.jp/gtav/pages/1354.html]]|-|Industrial|[[プスカ大佐>>ネズ]]から購入。持って帰り弄ろうとしたところあまりにもカスタム幅がなかった。|
+|2024/01/11|Emperor|[[Altoir(MOD)>>https://www.gta5-mods.com/vehicles/emperor-altior-add-on-tuning]]|-|Sedans||
+|2024/01/14|Wenny|[[Issi Sport>>https://w.atwiki.jp/gtav/pages/2478.html]]||Sports|[[葛城司>葛城　司]]と同じV8 4.0エンジンで試すため2台目を購入|
+|-|Enus|[[Paragon R>>https://w.atwiki.jp/gtav/pages/2479.html]]|-|Sports|ベースカラーはグリーン。麻の模様で埋め尽くされている。BIG SUZUKIカスタム|
+|-|Enus|[[Jubilee>>https://w.atwiki.jp/gtav/pages/2726.html]]|-|Sports|導入直後に購入したがあまりのカスタム幅の少なさに絶望し購入直後の状態で眠ることに|
+|2024/01/21|Ocelot|[[Pariah>>https://w.atwiki.jp/gtav/pages/1857.html]]|-|Sports||
+|2024/01/29|Pegassi|[[Reaper>>https://w.atwiki.jp/gtav/pages/1625.html]]|-|Super|4億で購入したがカスタム幅がスポイラーのみかつ種類がないということがわかり絶望した|
+|2024/01/30|Weeny|[[Dynasty>>https://w.atwiki.jp/gtav/pages/2513.html]]|-|ClassicSports||
+|2024/02/04|Vapid|[[FMJ>>https://w.atwiki.jp/gtav/pages/1624.html]]|-|Super||
+|2024/02/04|Vapid|[[Peyote>>https://w.atwiki.jp/gtav/pages/342.html]]|-|ClassicSports||
+|2024/02/15|Benefactor|[[SM722>>https://w.atwiki.jp/gtav/pages/2840.html]]|-|Sports||
+|2024/02/23|Maibatsu|[[Sunrise R(MOD)>>https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds]]|-|Sports||
+|2024/02/24|Ubermacht|[[Revolter>>https://w.atwiki.jp/gtav/pages/1906.html]]|-|Sports||
+|2024/02/26|Vapid|[[Retinue Mk II>>https://w.atwiki.jp/gtav/pages/2523.html]]|-|ClassicSports|B帯レースで戦える可能性があると聞き購入|
+|2024/02/28|Vapid|[[Camping guardianrv(MOD)>>https://fr.gta5-mods.com/vehicles/vapid-rv-pack-add-on]]|-|Camping|自販機の場所を教えてもらったお礼も兼ねて[[葵井 優>>葵井　優]]より購入し、自販機納品時に使用|
+|2024/02/29|Declasse|[[Draugur>>https://w.atwiki.jp/gtav/pages/680.html]]|-|Off-road|値上がりを見据えて念のため購入した。|
+|2024/03/05|Canis|[[Mesa Merryweather>>https://w.atwiki.jp/gtav/pages/210.html]]|-|Off-road||
+|2024/03/05|Declasse|[[Drift Tampa>>https://w.atwiki.jp/gtav/pages/1648.html]]|-|Sports|プレゼントとして譲渡したため新たに購入した。|
+|2024/03/05|Pfister|[[Comet Safari>https://w.atwiki.jp/gtav/pages/1855.html]]|コメットサファリ|Sports|雪道用で購入したためもう乗っていないという[[ヴァン　ダーマー>>ヴァン　ダーマー]]より5000万で購入した。|
+|2024/03/07|Obey|[[10F Widebody>>https://w.atwiki.jp/gtav/pages/2877.html]]|-|Sports|所有していた車両を[[れりあ>>聖母　れりあ]]へ売却したため新しく購入した。|
+
+#table_sorter{even=#f7f7f7,odd=#fff}
+#table_autoincrement(){label=No.}
+#endregion
+
+#region(過去車両,close)&bold(){過去車両}
+#table_filter(){入手日=hide,放出日=hide,車両名=show,分類=hide,説明=show}
+#table_style(head=center:#e6e6fa)
+|~入手日|~放出日|~メーカー|~車両名|~分類|~説明|
+|2023/12/28|2024/01/21|Wenny|[[Issi Sport>>https://w.atwiki.jp/gtav/pages/2478.html]]|Sports|全部真っピンクでギャルが降りてきそう。V8 5.6に換装している。&br()安定感があり速すぎるため、雪の日限定になる。&br()&bold(){[[焦月>焦月　ツルギ]]に6000万円で売却した。}|
+|-|2024/03/02|Obey|[[10F Widebody>>https://w.atwiki.jp/gtav/pages/2877.html]]|Sports|プレゼント用のドリフト車を検討していた[[れりあ>>聖母　れりあ]]へカスタムして売却した。|
+|2024/01/12|2024/03/03|Declasse|[[Drift Tampa>>https://w.atwiki.jp/gtav/?cmd=word&word=Tampa&pageid=1648]]|Sports|[[えだまめもん>>えだまめもん]]の誕生日にえだまめ風カラーにカスタムし直してプレゼントした。|
+
+#table_sorter{even=#f7f7f7,odd=#fff}
+#table_autoincrement(){label=No.}
+#endregion
+
+*エピソード &icon_fa(fa fa-book)
+**Season1
+***2023年
+//見出し(***)の編集ボタンは2つ以上のregionで囲まれている場合に出現しなくなるため、年単位のregionを削除しています。
+****12月
+#region(開く,close)閉じる
+・タイミングが無く免許を取っていなかった、が無免の自分にかっこよさを覚え始めて取らない方向でいた。記憶かはたまた無免の為か、白市民にもかかわらずパトカーのサイレンが聞こえる度に怯えている。
+--たばこ屋開業に向けて白市民パスをとる際、警察に無免許が発覚。言いくるめを図るも失敗してしまい、渋々無免許を卒業する。
+・イグナスが欲しくなり、購入を目標にする。
+・角刈りレース「KAKUGAREAPER」に挑むも川に沈みリタイア。「川下」になる。
+-- 「KAKUGAREAPER」は2度目の挑戦で無事に完走を果たす。3度目の挑戦では[[牧田　ここな]]を助手席に載せて完走。
+--レースには無免の頃から参加中。なお、ライセンスは未だに取得していない。
+・[[キングスターダイヤモンドズズ>キングスターダイヤモンド　ズズ]]のネタを笑ってしまう。笑いのツボは浅め
+・[[赤ちゃんキャップ>ましゃかり　トラボルタ]]との会話にて映画や漫画にある程度詳しい様子
+・[[ボタリン　モンロー]]に会うたび、セクハラ疑惑をかけられる。
+・タバコ屋開業に意欲的。[[ここな店長>牧田　ここな]]や[[大川>大　川]]さんに色々と相談している。
+--12/30[[市長>山下　ひろし]]に直接陳情、開業資金として2000万円を支払った。
+・[[御花はな>御花　はな]]と話し、松宮辰夫フィッシングクラブに入会。
+・[[無馬かな>無馬　かな]]にカジノのルーレットの景品であるバイクのカスタムを頼まれる。
+#endregion(12月)
+//------------------------------------------------------------------------------------------------------------------------
+***2024年
+//見出し(***)の編集ボタンは2つ以上のregionで囲まれている場合に出現しなくなるため、年単位のregionを削除しています。
+****1月
+#region(開く)閉じる
+-[[プスカ大佐>ネズ]]からDominator GTTを購入する。
+-[[赤ちゃんキャップ>ましゃかり　トラボルタ]]と生年が同じと判明、通ってきたアニメの話で盛り上がる。
+-初めての職質と初めての切符を経験する。
+--[[マヌ太郎>ゴンザレス　マヌ太郎]]に70km/hオーバーのスピード超過で職質され、道路交通法違反で切符を切られた。
+-[[鬼野ねね]]がお花屋さんと知り黄色いチャーハンを購入する。一緒にいた[[店長>牧田　ここな]]も購入し一緒にこの街で初めて薬をキメる。
+-[[にしのん社長>にし　のん]]とSultan Classic Costomの仕入れに向かった際、バイクの爆発に巻き込まれ、人生初めてのダウンを経験する。
+-たばこ屋の内装が完成。それに合わせ100年後の記憶のような衣装を作り、[[なずぴ>きらりんぶい☆　なずぴ(10)]]、[[大川>大　川]]からは既視感がある、周りにはギャングみたいと言われる。
+-購入したバイクを乗り回すためレースコース『BKB(Bike KAKUGARI Bike)』を1人で走っていると初見殺しを喰らいバイクが水没する。
+--スケボーで帰宅途中に車が故障して困っている人達に会うが、エンジンを治す為のアイアンだけ手持ちが無く直せずに終わる。衛星からは神になれなかった男と言われた。
+-寝落ちしてしまいチャンクを喰らう。
+-街でスト6を流行らせようと密かに画策する。
+-[[キングスターダイヤモンドズズ>キングスターダイヤモンド　ズズ]]の新年ステージを楽しむ
+-[[ラル>麻林　ラル]]さん、[[ねね>鬼野　ねね]]ちゃん、[[店長>牧田　ここな]]とストリップバーの謎解きに挑戦する。&br()みんなで協力して1時間ジャストでの攻略となる。
+--ついでにねねの奢りで[[ストリップバー店長>ジャムリーヌ　バルサミコス]]の裏スペシャルを堪能する。
+-[[市長>山下　ひろし]]からたばこ屋完成の知らせを聞き、社長任命式を受けに[[大川>大　川]]さん運転のリムジンで移動。
+--市長からたばこ屋の鍵を受け取り、たばこ屋の開店と雇用ができるようになった。だが品物がなくオープンには至ってない。
+-[[カジノオーナー>無馬　かな]]に頼まれた族車のカスタムを一旦仕上げた後、たばこ屋に向かい、仮オープンする。[[大川>大　川]]が最初の客となる。
+-ついに[[川上たばこ店]]正式オープン。オープンからわずか1時間程で7000万以上売り上げた。
+-[[焦月ツルギ>焦月　ツルギ]]がTwiXで仕事を探しており話を聞くと、借金があるとのことでたばこ屋で体験雇用した。
+--&s(){バックれる}悪い噂があるので稼いだ額の3割を店にバックする条件をつけた。が、実際のところは全額渡す気だった模様。
+--また、稼いだ金をカジノにぶっこみに行くと聞き、渡した稼ぎを全額スったツルギに助け舟としてお金を貸す際に変装。名前も「下川」と名乗った。
+-たばこ屋をオープンしたことやカジノ景品の族車をカスタムしたことによる収入で無事4億貯まり、前々から狙っていた[[イグナス>>https://w.atwiki.jp/gtav/pages/2723.html]]を購入。
+-ヘリの免許と、レース免許を取得する。
+-[[シャンクズプロモーション]]を通して[[くまさんじゃないよ>メリー　クロース]]さんにたばこ店の音楽を依頼する。
+--後に曲を納品される。その出来栄えに、[[シャンクズプロモーション]]での楽曲の相場が5000万～1億のところ1億5000万を振り込み感謝を伝えた。
+-TwiXでネイルの広告を見てコスメショップ【[[Merry&Belle]]】に向かう。
+--[[体験Chu アルカ>アラリル・アルシャバ・アルカ]]に左手はタバコ、右手は黄ばみのオーダーでネイルしてもらう。
+-第2回カジノ王決定戦に出場し、ブラックジャックにて4連続オールインに勝利して&bold(){優勝}しカジノ王の称号を手にする。
+--2位とは12万チップもの大差だった。
+---第３回VIP限定カジノ王決定戦にも出場したが、1回目のオールインで負けてしまい、脱落してしまう。
+-[[ろぜ柳ぴん子>ろぜ柳　ぴん子]]にたばこ店の音楽を依頼。ジャズっぽい曲（ビル・エヴァンス）が理想というイメージを伝える。
+--その後、[[GBC>GoodbyeCircus]]を通じトップである[[マクドナルド>ライトスターボーイ]]さんから連絡があり、たばこ店用の曲を2曲作成し提供すると言われる。
+--川上たばこ店にて[[ぴん子>ろぜ柳　ぴん子]]の奏でる試供品を視聴。非常に気に入るも実は[[マクドナルド>ライトスターボーイ]]が2曲とも作り演奏をしているという告白と謝罪をされるが、気にしないと答える。
+-クラシックスポーツカーのディーラーになるため、1月26日付で[[KoKo七番屋]]を退職。
+--ここな店長は寂しがりながらも、川上の夢を応援し、快く送り出してくれた。
+-[[ジャーク　武士>ジャーク　武士]]からクラシックスポーツディーラー【[[ClassicSport J's>ClassicSport J's]]】の給料として12億7400万円を受け取る。
+#endregion(1月)
+//------------------------------------------------------------------------------------------------------------------------
+****2月
+#region(開く)閉じる
+-[[麻SICK RECORDS]]のOPイベントで逃げ役のカクガリとしてオファーされ準備もしたが、夢のお仕事と被り残念ながら参加できなかった。
+-稼ぎの一貫としてガソリンスタンドのオーナーになるも、初期投資がかさみ回収できるのか訝しんでいる。
+-葉風邪に無利子で貸した2億円をカワカミくんに扮し病院へ向かい、無事回収する。
+-[[漆黒の騎士団>>https://w.atwiki.jp/streamergta5/pages/663.html#id_acfba494]]へ拒否権なく仮入団させられる。命名「カリカリ梅」
+--カリカリ梅は嫌だと言う話をすると、「かしわ天」と名付けられ「それは熱い」と加入する
+-この街に来て初めてとなる人質体験をする
+-たばこ店に食事を卸したので、各所自動販売機に納品することに。
+--自販機の場所を教えてくれた葵井優へのお礼も兼ねて、納品用の4億する巨大キャンピングカーを購入する。
+-はじめて従業員全員とたばこ店で邂逅し、4人で記念撮影をする。
+-[[マクドナルド]]主催の時代劇を見る
+#endregion(2月)
+//------------------------------------------------------------------------------------------------------------------------
+****3月
+#region(開く)閉じる
+
+#region(3/2[[マリーザマリーザマリーザ！ #RedBullKumite 2024>>https://www.twitch.tv/videos/2078825642?t=3h14m48s]])
+3/2[[マリーザマリーザマリーザ！ #RedBullKumite 2024>>https://www.twitch.tv/videos/2078825642?t=3h14m48s]]
+-カジノ王にて ハルク砲丸として参加し他参加者におもちゃにされる。
+#endregion(3/2)
+
+#region(3/3[[酒飲みながらやる>>https://www.twitch.tv/videos/2080022442]])
+3/3[[酒飲みながらやる>>https://www.twitch.tv/videos/2080022442]]
+-推しのキャバ嬢に似ている[[えだまめもん]]の誕生日にドリフトタンパをプレゼントし、一緒にドリフト車ツーリングをする。
+#endregion(3/3)
+
+#region(3/6[[ポーカーやりて～>>https://www.twitch.tv/videos/2082863302]])
+3/6[[ポーカーやりて～>>https://www.twitch.tv/videos/2082863302]]
+-焦虫ペダルへ加入する。
+#endregion(3/6)
+
+#region(3/7[[現実でも車が欲しい男>>https://www.twitch.tv/videos/2083639699]])
+3/7[[現実でも車が欲しい男>>https://www.twitch.tv/videos/2083639699]]
+・[[焦月　ツルギ]]と[[焦村家]]で話していると[[ウェスカーさん>アルフォート　ウェスカー]]が来店。
+・[[ぴん子>ろぜ柳　ぴん子]]を探していると言われるが、バーベキューから会っていないと答える。[[🎬クリップ>>https://clips.twitch.tv/DignifiedAdventurousBeaverOSfrog-E-Y1X4xjP9SZ8TaV]]
+・[[わきを>キャプテン　わきを]]とぴん子が、新規住民の[[のなめ]]に対してファーストネームとミドルネームを付けたと聞く。[[🎬クリップ>>https://clips.twitch.tv/JazzySnappyCurlewShadyLulu-sPA_oDacEK192lSg]]
+・見つけたら5億払わせるというウェスカーさんに対し、何とかならないか交渉したところ、川上割引で3億になる。
+・ウェスカーさん退店後、ここ最近の焦付話を聞きながら3時瞑想。
+#endregion(3/7)
+
+#region(3/9[[21時からグッズ出たりする>>https://www.twitch.tv/videos/2085567417]])
+・起床後、自販機めぐり＆ガソリン補充
+・たばこ屋開店、[[ケインオー>ケイン／オー]]来店。先日、市役所で鉢合わせたことから何の話をしていたのか尋ねる。
+・「ホットドック屋さんの店舗が出したいと伝えるが帰れと言われた」「自販機にホットドックが入らないのはおかしいからはいるようにしてほしいと言ったら、店舗がないと無理と言われた」
+・カレーも自販機に入れられるのにおかしい話だと同情する川上。
+・ケインオーのような困った市民の声を市長に届けたいという想いから、先生を目指す。
+・市長へ物申す際の洋服を作りに洋服屋さんへ行く。
+
+#endregion(3/9)
+#endregion(3月)
+//------------------------------------------------------------------------------------------------------------------------
+****5月
+#region(開く,close)
+#endregion(5月)
+//------------------------------------------------------------------------------------------------------------------------
+****6月
+#region(開く)閉じる
+#region(6/20[[ひさし>>https://twitch.tv/videos/2177062282]])
+6/20[[ひさし>>https://www.twitch.tv/videos/2177062282]]
+-3時過ぎに久しぶりに起床する。最後の記憶が麻雀で止まっており、煙草の値段もうろ覚えだった。
+-開店早々、3桁単位の大量購入が相次ぐ。長く店を閉めており在庫切れが多かったので巻きながら雑談をする。
+-[[大川>大　川]]に新しい[[A2>A2 Lab]]の従業員になった[[芹沢すず>芹沢　すず]]を紹介される。
+-[[ぴん子>ろぜ柳　ぴん子]]が倉庫代わりの不動産を買ったことを知る。断りの文章が余りにも文才の無いことに引く。経費に7000万かかったらしい。途中で辞めたらしきいい加減なハウジングだった。
+-[[元難波 めぐみ> 元難波　芽久未]]が救急隊ランク3になったお祝いに1億振り込む。
+-A2出勤すると大川、芹沢すずに自販機ツアーへ誘われる。最近の街の情勢などを聞きながら自販機に煙草を詰めていった。
+-途中でガス欠を起こし、ヒッチハイクを試みるも右足を負傷する。次の自販機までスケボーで走っていたら後ろから大川に轢かれる。
+-高速道路のガードレールに追突した衝撃でシートベルトが千切れる。道路の下の川で待っていたら救急隊の[[葉風邪>葉風邪　ナイ]]に轢かれる。
+#endregion(6/20)
+
+#region(6/22[[BeastCup11時くらいから>>https://www.twitch.tv/videos/2178233553]])
+6/22[[BeastCup11時くらいから>>https://www.twitch.tv/videos/2178233553]]
+-[[A2>A2 Lab]]で起床。愛車のカスタマイズをしながら[[大川>大　川]]から裏稼業の話を聞く。
+-暇なので[[警察>ロスサントス警察]]に行って[[キャップ>ましゃかり　トラボルタ]]を揶揄いに行く。[[叩けば鳴る玩具>ろぜ柳　ぴん子]]が勝手に不動産を買った話をした。
+-[[たばこ屋>川上たばこ店]]で皇帝の思想強めな話を聞く。[[ツルギ>焦月　ツルギ]]の焦げ付いた話を[[BIG　SUZUKI]]から聞く。
+-近況について大川と話し、[[concellge>concellge(コンセルジュ)]]と[[IRiS]]が解散したと聞く。A2が[[NO LIMIT]]のシマだと聞いて、たばこ屋が何処のシマか気になる。各所を巡ってシマを聞いたり、ギャングにも聞いてみたりするが、結局わからなかった。
+-[[MOZU]]煙草の特大注文が入り、[[元難波>元難波　芽久未]]と一緒に作って納品する。
+-たばこ屋で[[さとう]]と会う。さとうが色々とあげたいものがあるらしい。川上が寝ないといけないのでまた明日に渡してくれることになった。
+-[[犬億ロック>犬億　ロック]]と出会う。かなり責めた自己紹介をされた。
+#endregion(6/22)
+
+#region(6/23[[トパチャン見る19時〜>>https://www.twitch.tv/videos/2179486225]])
+6/23[[トパチャン見る19時〜>>https://www.twitch.tv/videos/2179486225]]
+
+-[[たばこ屋>川上たばこ店]]にいる[[ぴん子>ろぜ柳　ぴん子]]を見つけて、不動産の件を詰める。断りの文書やハウジングについて色々と問いただした。そして、たばこ屋の自販機の売上が不自然になっていることに対して文句を言った。ぴん子オリジナルたばこについては許可をした。
+-街中をドライビング中に[[伊豆院　登]]と出会う。思い入れのあるギャングのスプレーが描かれたものを見つけて、またそのギャングが現れるのを待っているらしい。
+-[[ラーメン屋>焦村家]]が開いているので遊びに行く。街ゆく人に[[ツルギ>焦月　ツルギ]]が10億取られた話を聞いていたので詳しい話を聞きにいった。ツルギ曰く[[ウェスカー>アルフォート　ウェスカー]]が運営するキャバクラで一悶着あったそうだが、最終的に[[マック>ライトスターボーイ]]が全部悪いという判断になってツルギは10億取られずに済んだという。
+-[[A2>A2 Lab]]で[[大川>大　川]]とレースについて雑談。レースに行きたくなったので参加してくる。[[芹沢すず>芹沢　すず]]と一緒にレースをするが、強制瞑想により完走できなかった。
+-0時からのお笑いライブに参加するためレギオンに向かう。[[さとう]]と出会い、川上の絵とライブグッズの詰め合わせセットを貰った。
+-大川の紹介で面白い新規住民[[ドク>毒多　博士]]と出会う。
+-マックと出会う。リスニングは出来た。マックの早口は意味のない言葉を言ってるだけと最近疑っている。
+-運転のヤバい人が来たと思ったら[[ズズ>キングスターダイヤモンド　ズズ]]だった。
+-近くにヘリコプターが降りてきたから、勝手に乗ってみる。よく見ると[[餡ブレラ>anbrella(餡ブレラ)]]のだった。
+-[[ゴン>稲葉　ゴン]]と出会う。餡ブレラになったこと知る。[[ハン>アドミゲス・ハン]]は何しているのか聞いたら中途半端に悪い事しているらしい。
+-ハンと出会う。最近はレースをよくやっているという。"中途半端に"悪い事はしてないらしい。
+-お笑いライブは普通にちゃんと面白かった。大川曰く[[平井のおっちゃん>平井　善之]]が2週間稽古していたらしい。
+-A2に帰って雑談をする。七夕の話しをしていたら、笹と竹の違いがわからなくなる。
+-元難波から電話で「マックがたばこ屋で店長を呼んでいる」と言われ、急いでたばこ屋に戻る。GBC専用たばこを売る。9割5分リスニング出来たが、元難波が接客していた時は全然聞き取れない訛りだったらしく、人によって訛りの難易度を変えるクソ客だと思った。
+-平井のおっちゃんに会う。裏話を聞く。夢の世界のアキバで[[ジャック馬ウアー>ジャック　馬ウアー]]と会ってネタの打ち合わせをしたらしく、ジュラシックのくだりはジャック馬ウアーが持ってきたらしい。
+-[[市長>山下　ひろし]]に何かクレームを言いたいと考えているが、最近市長が忙しくちょっと疲れている噂を聞いているので、優しくクレームを入れる予定である。
+-全体瞑想前にソロでレースをする。ベーシック3は良いコースだった。
+-全体瞑想までA2の人たちと、釣り下がり電球やシャッターに乗って遊んだ。一度間違えて裏側にいった。
+#endregion(6/23)
+#endregion(6月)
+//------------------------------------------------------------------------------------------------------------------------
+****9月
+#region(開く)閉じる
+#region(09/22[[いつもの>>https://www.twitch.tv/videos/2257391192]])
+09/22[[いつもの>>https://www.twitch.tv/videos/2257391192]]
+-久々に起床。なんだか体がくねくねしている気がする。
+-車の仕様が大きく変わっていることを確認。
+--ギアチェンの方法がわからずエンストに怯えながら警察署に助けを求めに。しかし誰もいない。なので[[キャップ>ましゃかり　トラボルタ]]に電話。出ない。
+--[[ティラノサウルス>ましゃかり　トラボルタ]]から折り返しが来た。「キーボードの矢印」だの「FiveMの設定」だの相変わらず意味不明な発言ばかり言ってる。挙げ句の果てに「どっちだ！？[[中>川　中]]か！？上か！？」などと言い放つ始末。
+--なんとかギアチェンの方法を確認。8速まで上げられることに驚愕。
+--筋肉をどうにか動かしてみるも車の性能に運転が追いつかず街路樹に激突。シートベルトを忘れていたのでダウンしてしまった。ましろ先生に救助される。&br()送迎の際に"パワーアップした無茶苦茶な車"ことネオンを見せてもらう。
+--松葉杖が取れるまで暇なので道路上で待ってたら、街灯を跳ね飛ばしながら暴走する車に轢かれそうになる。&br()誰かと思ったらさっきのティラノサウルスだった。運転はどうかと聞かれたので死んだと答えたら鼻で笑われた。
+--ようやく松葉杖が取れたので帰宅してたら30秒もしないうちにもう一度事故死。減速がムズすぎた。&br()[[鬼桃　ぷぅ]]に救助される。初めましての人だった。クレープ屋さんが今できてるらしい。肉を包んでいるクレープがメニューにあるかどうか聞いたらチーズソーセージがあった。
+--さすがに悪いので歩いて車のところへ。歪んでいて車に乗れないので仕方なく徒歩でA2に戻る。気がついたら歩き方がくねくねしなくなった。
+--他の車でも試してみる。ギアチェンのコツを掴んだと思ったらAT車だった。何度も事故りつつ走らせていたら川に水没させてしまった。
+--途中修理しにA2に帰ったら[[ジョーカー>半沢　直ふぃ]]が来店したので車の近況を聞く。
+--まだまだ車に慣れるべく走らせていたら全く同じ川に水没。コンビニでスケボーを買ったら店員になぜかキレられた。
+-運転に集中しすぎて疲れたのでタバコ屋→A2でチル。
+--[[白狼　フリル]]から電話がかかってくる。A2の新入社員らしいので先輩風を吹かせておいた。
+--また車を走らせていたら同じ川にまた落ちかけた。
+--A2に戻ったら[[ナタル　イルコフ]]が来店。修理中に白狼フリルとも出会う。面識があったかどうか覚えておらずコミュニケーションが噛み合わなくてシュールな空気に。
+--白狼フリルの知ってる社員を聞く。[[ヤブ下　安里]]がA2Cafeの方に異動したかもしれないらしい。
+--[[高橋　滅論]]が来店したので何してるのか聞く。やっちゃいけないことをやってE5 Burgerをクビになったらしい。&br()STの仕様について高橋滅論に聞いていた途中、白狼フリルが着替えてきたのでそっちに気を取られて話半分になってしまった。
+--車の修理ができなくなったので一旦瞑想。戻ってきたまた体がくねくねしてしまった。
+--気づいたら体がボロボロだったので病院へ。行く途中にまた川に落下しそうになる。
+--エンジンスワップがなくなったことを知り絶望。&br()ちょうど[[大　川]]が起床してきて将来エンジンスワップが帰ってくることを聞く。歩き方がくねくねしていることをようやく指摘される。
+--大川にブレーキをかけやすい車を借りる。川に車を水没させまくってることを話したら大川さんも飲酒運転で水没させたことがあるらしい。
+-大川にタバコ屋の近況を聞くと相変わらず1日に10〜30分しか空いてないらしい。
+--寝る前にタバコ屋が開いたので顔を出しに行く。道中カーブを曲がりきれずに突っ込んでしまったレギオンで何やらピアノの音が聞こえる。何だ何だと辺りを見回したら[[アルフォート　ウェスカー]]が弾いていた音でびっくり。
+--タバコ屋についたら[[元難波　芽久未]]が。感想の再会もそこそこに客が来たので対応してもらおうとしたら[[無馬　かな]]だった。&br()Gold Master Kawakamiが切れそうで困ってるらしい。
+--最近何をしているのか聞いたら半年ほど持ってた白市民パスを返納して半グレをしつつ、違法武器製造に携わっているらしい。&br()店の護身用に一つおかしい性能の特注リボルバーを用意すると言ってくれた。%%「Chakaです」%%
+--後ほど暗いところで会うことを約束して二人とも退店、A2に戻って就寝。
+#endregion(09/22)
+#endregion(9月)
+
+**Season2
+***2025年
+****12月
+#region(開く)閉じる
+#region(12/27)12/27[[なんかする>>https://www.twitch.tv/videos/2654109342]]（[[タバコ屋を開くためストグラシーズン2の街へやってきたSHAKA【GTA5】>https://youtu.be/UvGPmU_RTI4?si=X3SliTSDHaP2mONY]]）
+-新しい街でタバコ屋を開くために久々に起床。東署前で[[小峯　玲]]に職安がないかを尋ねるがないとのこと。今は大フリーター時代で、今日から飲食店が開いたことを聞く。直接[[市長>山下　ひろし]]に相談することにする。
+-東署前で[[斎藤>ブロッコリー　斎藤]]に市長を見かけたか尋ねるが、要領を得なかった。
+-レギオン近くの[[飲食店前>サニーケバブ]]に人が多いのを見て人見知りを発動する。
+-病院前で[[ゆた　んぽ]]に車屋（メカニック）の場所を聞く。名前を聞かれたが人見知りを再び発動して名乗らず。
+-[[JTS>ジョアンナテクノサービス]]で[[豆　やん]]、[[大　川]]と再会。容貌が変わっていたことではじめましてと勘違いされる。
+-[[大　川]]に窓拭きバイトを紹介される。大川と、[[三否亭　四五六確]]と仕事する。高所作業は苦手なんだが。
+-タクシーの話題。[[四皇　シャンクズ]]が記憶をなくして運転手してたり警察志望だったりの話で盛り上がる。白タクのロスライドの話では運賃がめちゃくちゃに安い以外終わっているタクシーと四五六確から聞く。
+-市役所で市長にタバコ屋がなくなっていることを相談。順次、新しいテナントオーナーを募集をかけていくことを聞く。テナント料は週50万円（開かない店への対応）、初期投資として市から無利子無担保3000万円が貸し付けを受けることできることを聞く。
+-バイクを購入。全損したら新品を買ったほうが安い。ちなみに遅い。
+-再び[[飲食店>サニーケバブ]]に向かうが、人見知りを発動する。人がいない時を見計らって入店するが[[どこかで聞いたことのある声>脇　逢魔]]がバックヤードから聞こえたのでそっと退店。
+-JTSで[[ねずみさん]]、[[ジャック馬　ウメー]]にメカニック就職について聞く。前の街でメカニックをしていた人であればまずはJTSに就職していて、今は20人以上いるらしい。社長は[[ジョアンナ　町田]]。
+-大川から、寝るときの注意を聞く。アパートで寝ないといけない。
+-豆やんにメカニックへの就職希望を伝え、豆やん経由でジョアンナ町田から連絡をもらえることになる。
+-病院の駐車場へバイクを入れて、アパートにて就寝。
+#endregion(12/27)
+#endregion(12月)
+・エピソード募集中
+
+//↓コメントアウト
+#co{
+
+↓コピー用素材
+#region(mm/dd[[配信タイトル>>ここに配信URLを入力]])
+mm/dd[[配信タイトル>>ここに配信URLを入力
+#endregion
+↓コピー用素材
+[[🎬クリップ>>ここにクリップのURLを入力]]
+
+}
+*切り抜き &icon_fa(fa fa-scissors)
+***切り抜き
+****Season1
+#region(開く)閉じる
+#table_style(head=center:#e6e6fa)
+|~配信タイトル|h
+|[[ストグラで出会った「焦月ツルギ」の所業を各所から聞く釈迦>>https://youtu.be/Fw1pqFwMo14?si=MVndT6qXlf5zukG]]|
+|[[クセが強すぎる住民「マクドナルド」にツボる釈迦>>https://youtu.be/O85rWpo6RxY?si=89x72bxMkkTRg-aN]]|
+|[[クリスマスに開催された「ストグラコンサート」に感激する釈迦>>https://youtu.be/FuG-YgULSAM?si=_UQp1cCX4mgR_biS]]|
+|[[釈迦が注文した食べ物を渡す直前に食べ始める焦月ツルギ>>https://youtu.be/HPvapndTGiU?si=ok_HHfK93Vzvygyn]]|
+|[[牧田ここな店長の「朗読サービス」に爆笑する釈迦>>https://youtu.be/4_vUXSuw6zs?si=8e2C6cdqZVygH7O8]]|
+|[[「とんでもない名作」を生み出した牧田ここな店長に爆笑する釈迦>>https://youtu.be/QlH9uOXt1Vs?si=MOLm0vtdaglhWd_5]]|
+|[[ストグラで芸人をやっている「キングスターダイヤモンドズズ」に出会う釈迦>>https://youtu.be/RdSEH1P9Q88?si=KiJ1RH4sjp0GrdQw]]|
+|[[ストグラの王「シャンクズ」に遭遇する釈迦>>https://youtu.be/gW8HsEnL6bQ?si=Z6zaRgWdak3A0TNH]]|
+|[[芸人ズズの「とてつもない才能」に驚愕する川上>>https://www.youtube.com/watch?v=7nV7CnfRFQ8]]|
+|[[キャップが新しく考えた読み聞かせの設定を聞いて爆笑する釈迦>>https://www.youtube.com/watch?v=4CwaiHg3aLY]]|
+|[[明らかに様子がおかしい「魔法少女春那フナコ」に出会う釈迦>>https://www.youtube.com/watch?v=34LeUS1ivH4]]|
+|[[タバコ屋を出店するため市長に直談判する釈迦>>https://www.youtube.com/watch?v=V1KRQ4laN_s]]|
+|[[ロスサントスで年越しを迎える釈迦>>https://www.youtube.com/watch?v=fmnPV2wvjGk]]|
+|[[キャップと漫画アニメの好みが合いまくる釈迦>>https://youtu.be/felV0HgcOQQ?si=bJzN7xytQyB6jZD5]]|
+|[[初めての薬にパニくる牧田ここな店長を見て爆笑する釈迦>>https://youtu.be/Frc2ArQLsPo?si=sEYy7bu5KdjW9y9p]]|
+|[[芸人ズズの「新年初笑いライブ」に招待された釈迦>>https://youtu.be/SJ1j6hocYa8?si=QFIR7zsYe3J0y6MY]]|
+|[[牧田ここな店長に「シンフォギア」を弾かせようとする釈迦>>https://youtu.be/I4Bibd6zpL4?si=xbYFXFTtLJX8vSVY]]|
+|[[大人のお店で刺激的すぎるスペシャル裏メニューを体験する釈迦>>https://youtu.be/WJgZwHDNy0A?si=XKLZbpSzf4mbOtIe]]|
+|[[突如始まったマクドナルド劇場に爆笑する釈迦>>https://youtu.be/UYRO70uoIJw?si=APsUs0A3mvGY5t0L]]|
+|[[ついに開店した「川上たばこ店」に続々と人がやって来る>>https://youtu.be/MyAtTHaupxo?si=a0ytv_K96dsiffzE]]|
+|[[借金に追われ、川上たばこ店に働きに来た焦月ツルギ>>https://youtu.be/4KlVcFf2F7k?si=VEcnKpCxerDLLkHz]]|
+|[[自由過ぎる焦月ツルギのめちゃくちゃすぎる経歴に爆笑する釈迦>>https://youtu.be/Dl5u88t2mhA?si=oxrevewR45J7k-um]]|
+|[[借金返済をかけた「全財産ギャンブル」に挑む焦月ツルギ>>https://youtu.be/QdpzA0LNaPc?si=x-K5_Ti2LjhWI7qI]]|
+|[[成瀬カニから「謎の待ち受け写真」を貰う釈迦>>https://youtu.be/ifx-JlCpJGo?si=Bfdpc9ciRWq7FLq9]]|
+|[[焦月ツルギからストグラの「恋愛イベント」に誘われる釈迦>>https://youtu.be/5elgvk18L4c?si=rNBubY9lO9qqdQxd]]|
+|[[カレー屋で勝手に働いている「高校生バイトくん」に遭遇する釈迦>>https://youtu.be/JnpL9QxG3MY?si=JnXS0dm7DteG0VVs]]|
+|[[ラーメン屋を始めたい「本気すぎる焦月ツルギ」に爆笑する釈迦>>https://youtu.be/erjUdUDRQws?si=R1luZJ2GvYBQtR3N]]|
+|[[海上レストランで、やりたい放題していたら追い出される釈迦たち>>https://youtu.be/D2p_sHzTWDU?si=ynZODy3zLmHMLej5]]|
+|[[マクドナルドさんとの大事なタバコの商談中に笑いそうになる釈迦>>https://youtu.be/htraBt7rHBs?si=Os5ITAW_Eb60REYr]]|
+|[[トラブルを起こした焦月ツルギから「最後の連絡」が来る釈迦>>https://youtu.be/SDBitfD9Kv4?si=3KMFrGvfB1N2rv02]]|
+|[[「パワー系しんちゃん」に遭遇する釈迦>>https://youtu.be/xyVK2lUxog0?si=7IKc8iOyC1ZQ5o24]]|
+|[[癖が強すぎるネイルサロンに行く釈迦>>https://youtu.be/ldomduIBQQ4?si=lxbcZphBRvETbGJ6]]|
+|[[消息を絶った焦月ツルギを心配する釈迦>>https://youtu.be/XK2jJndRAXY?si=_wfTDHxn7ZPWnpHe]]|
+|[[カニメイトのガチャでレアが当たらずゴネ始める釈迦>>https://youtu.be/beicRXvE2wk?si=pVVtRJ9wnXlEegqL]]|
+|[[第二回カジノ王決定戦で「伝説的カジノ之王」になる釈迦>>https://youtu.be/3Xo0v2uTcp4?si=KQwanL19Ad2xgYjG]]|
+|[[全ての問題を解決した焦月ツルギから「事件の全貌」を聞く釈迦>>https://youtu.be/SX3oWEb2Plw?si=ho8AzuneFGsdR5jW]]|
+|[[釈迦のために作曲した「店内BGM」を披露するマクドナルド>>https://youtu.be/3CNKyOcQ2UE?si=mJ0eD6E5CXEghCIw]]|
+|[[いかにも怪しい占いの館「ぴん子の部屋」に来てしまった釈迦>>https://youtu.be/6P8eaWwTWdc?si=aAQgNbC6tEHZDmcW]]|
+|[[釈迦のノンデリ発言でカレー屋を閉店してしまう牧田ここな店長>>https://youtu.be/DuS3c4euEDs?si=7wv-Ml3tJNSuPpo1]]|
+|[[優勝賞金1000万のレースで暴れる焦月ツルギに爆笑する釈迦>>https://youtu.be/rgI2r9vEFJc?si=cO51-wfUQal3-UfV]]|
+|[[牧田ここな店長について「言いたい放題」のキャップに爆笑する釈迦>>https://youtu.be/2xH9_n4ABjM?si=rZOaca_TXRswvbiD]]|
+|[[ボタリンモンローに可愛いと言われ一瞬動揺する釈迦>>https://youtu.be/-WXylVm79QU?si=hp9cR7jb-hnGCu7n]]|
+|[[警察成瀬とギャングのボスヴァンの喧嘩に巻き込まれる釈迦>>https://youtu.be/WDK2rV_1CmU?si=6Yk06W_kXPFhOSWP]]|
+|[[釈迦が圧倒された、さとうの生歌がこちら>>https://youtu.be/D_0pc0y1HMY?si=Z5r5toepaxzuRQHm]]|
+|[[ストグラ版Xで、自分の妻に似た人物を見つけた釈迦>>https://youtu.be/gbDCdHMXpjQ?si=bwLve3hWvzj6ZAVg]]|
+|[[くまのふでこの神秘的な歌声に感動する釈迦>>https://youtu.be/yWwWdU5-mis?si=Uo6uQhZvg8NJ-S_x]]|
+|[[各店のオリジナル商品をかけて、焦月とここな店長とレース対決する釈迦>>https://youtu.be/XvuuA8600NU?si=mjcKZRBfwt3lsTNn]]|
+|[[新規住民の「柚麦トト」に遭遇する釈迦>>https://youtu.be/KbnMPJx2zw8?si=F-m2JoEHNs6iObgI]]|
+|[[第3回カジノ大会に挑み、秒で脱落する前回王者釈迦>>https://youtu.be/_WqH182SW4c?si=HblH826g-Y3aVbjY]]|
+|[[レース中に「奇跡的な事故」を起こす釈迦>>https://www.youtube.com/watch?v=Q4Ms4UU8E1o]]|
+|[[ストグラ中、柚麦ととにパシられる釈迦>>https://www.youtube.com/watch?v=hN0iVsE5GYA]]|
+|[[画家ビジネスで「驚きの値段」を提示してくるマクドナルド>>https://www.youtube.com/watch?v=f4WfUpI24NI]]|
+|[[会話が全く続かないキャバクラに来てしまった釈迦>>https://www.youtube.com/watch?v=JIhOOeJG9QQ]]|
+|[[ストグラの「歌姫うさぎさん」のワンマンライブに初参戦する釈迦>>https://www.youtube.com/watch?v=jl73uwnT784]]|
+|[[ユニコーンバット選手権に参加する釈迦>>https://www.youtube.com/watch?v=SFEyONfJgYo]]|
+|[[たばこ屋の体験バイトに来た柚麦ととのバイト着に文句を言う釈迦>>https://www.youtube.com/watch?v=JfP5UuF0iwM]]|
+|[[お世話になったカレー屋を辞めるため、牧田ここな店長に会いに行く釈迦>>https://www.youtube.com/watch?v=RZZ82TWDaEs]]|
+|[[再び訪れたキャバクラで、とんでもないキャバ嬢「てやんでい」に出会う釈迦>>https://www.youtube.com/watch?v=Y3ekcoulCUI]]|
+|[[恋愛イベントのデート中に「放送事故」を起こす焦月ツルギ>>https://www.youtube.com/watch?v=3sT9xWBqhQc]]|
+|[[ジャズ初作曲のくまちゃんから「とんでもないBGM」を貰い受ける釈迦>>https://www.youtube.com/watch?v=xG-HJjMrIHs]]|
+|[[ギャングのボス「ヴァン」を殴ってしまい全力で謝る釈迦>>https://www.youtube.com/watch?v=BUcRUJsEQH4]]|
+|[[グッバイサーカスによる「ボートーレースオープニングショー」に感激する釈迦>>https://www.youtube.com/watch?v=gWb3Mk4sz1I]]|
+|[[賭博ボートレースで撃沈する釈迦>>https://www.youtube.com/watch?v=Y1HCTOOJj1Q]]|
+|[[ついにオープンした焦月ツルギのラーメン店「焦村屋」へ訪れた釈迦>>https://www.youtube.com/watch?v=GJTspbKCoZ4]]|
+|[[恋敵「麻林ラル」の出現に、つい本音を漏らしてしまう焦月ツルギ>>https://www.youtube.com/watch?v=U6pxXqqqlww]]|
+|[[麻林ラルの会社面接で、圧担当として参加する焦月ツルギと釈迦>>https://www.youtube.com/watch?v=-tFHiRG6Y98]]|
+|[[何を喋っているか分からないマクドナルドに、永遠と振り回される釈迦>>https://www.youtube.com/watch?v=XRD2DFDCpno]]|
+|[[1年ぶりに目を覚ました住民の「辛すぎる境遇」に爆笑する釈迦>>https://www.youtube.com/watch?v=mWS0LUDfwjM]]|
+|[[超高級車を売って「とんでもない金額」を稼ぐ釈迦>>https://www.youtube.com/watch?v=CsXYRAZeX6s]]|
+|[[釈迦の大胆過ぎるアドバイスで「カジノ王になる」柚麦とと>>https://www.youtube.com/watch?v=CoqeqcabVCE]]|
+|[[とある理由で、麻林ラルから圧をかけられる釈迦>>https://www.youtube.com/watch?v=ojuoDw1r_ms]]|
+|[[稲葉ゴンのクオリティの高すぎるモノマネに爆笑する釈迦>>https://www.youtube.com/watch?v=0r0wTOPhETY]]| 
+|[[キャップとの漫才をアドリブでこなすぴん子に爆笑する釈迦>>https://www.youtube.com/watch?v=1OE7Tu7wrYQ]]|
+|[[ストグラに実装された自販機で、タバコが販売できないことに怒る釈迦【GTA5】>>https://www.youtube.com/watch?v=oxfI7A5gQPs]]|
+|[[最近やりたい放題やっている焦村屋にクレームを入れに行く釈迦【GTA5】>>https://www.youtube.com/watch?v=f0i7RiJf_6U]]|
+|[[恋愛脳すぎる元難波の勘違い話に爆笑する釈迦【GTA5】>>https://www.youtube.com/watch?v=M6afF3ZFHRI]]|
+|[[夢の中で起きたボタリン・モンローの衝撃体験談を聞く釈迦【GTA5】>>https://www.youtube.com/watch?v=mkD0Ivn_JTk]]|
+|[[ストグラの「とある都市伝説」に巻き込まれる釈迦【GTA5】>>https://www.youtube.com/watch?v=N-_BeQSrlQs]]|
+|[[ラーメン屋に文句を言いに行くも、焦月の秀逸すぎるカウンターを食らう釈迦【GTA5】>>https://www.youtube.com/watch?v=grgp_VL9OOo]]|
+|[[てやんでいに会いにキャバクラへ行く釈迦【GTA5】>>https://www.youtube.com/watch?v=hLydRVUlobo]]|
+|[[ガンダムクイズに珍回答を連発する平井善之に爆笑する釈迦【GTA5】>>https://www.youtube.com/watch?v=bQON2tS3xTY]]|
+|[[マクドナルド主催の時代劇にて、てやんでいの演技の上手さに驚愕する釈迦【GTA5】>>https://www.youtube.com/watch?v=mWX01grB7vQ]]|
+|[[声を変えて変装してレースに参加する釈迦【GTA5】>>https://www.youtube.com/watch?v=A_wjnlVFmLQ]]|
+|[[日本に帰ることになったここな店長に、最後の読み聞かせをお願いする釈迦【GTA5】>>https://www.youtube.com/watch?v=6-oQ6IN2mYU]]|
+|[[街を離れるここな店長から、最後に手書きの手紙をもらう釈迦【GTA5】>>https://www.youtube.com/watch?v=2ClA2wUqfEY]]|
+|[[癖強キャバ嬢が集うカオスなキャバクラに爆笑する釈迦【GTA5】>>https://www.youtube.com/watch?v=P0QYrvFntEE]]|
+|[[牧田ここなお見送り会の衝撃のラストに動揺する釈迦【GTA5】>>https://www.youtube.com/watch?v=hI9Xl1JWc1I]]|
+|[[最近何かめでたい事があったシャンクズにサプライズ祝いをする釈迦【GTA5】>>https://www.youtube.com/watch?v=jTh6T2n0snI]]|
+|[[誕生日のえだまめもんに、自家製車をプレゼントする釈迦【GTA5】>>https://www.youtube.com/watch?v=MP3OwGnymx8]]|
+|[[目の前で自分の車の悪口を言われる釈迦【GTA5】>>https://www.youtube.com/watch?v=cWqSS0VmTUc]]|
+|[[麻林ラルのスカイダイビング体験で絶景に感動する釈迦【GTA5】>>https://youtu.be/v2Ww4XFkVgk?si=RATvqSk8HVasUvp9]]|
+|[[市長に文句だけ言いに行った結果怒られる釈迦【GTA5】>>https://youtu.be/S-eNdZGuu4s?si=okUy0r9rQLk-bgzy]]|
+|[[ストグラでの初銀行強盗で前世の記憶が蘇る釈迦【GTA5】>>https://youtu.be/fDOoCfds7kI?si=eZqXVs1M9TbbJgYz]]|
+|[[部下が起こした「とんでもない事件」に巻き込まれる釈迦【GTA5】>>https://youtu.be/0RQlR8_yrm0?si=W0fV-RfZXIqbEeZt]]|
+|[[嵐のような男マクドナルドが川上たばこ店にやって来る【GTA5】>>https://youtu.be/jKci5gV9UOQ?si=Swc7soZN_QHwRW9D]]|
+|[[焦虫ペダルの活動中、事故ってダウンするぴん子に爆笑する釈迦【GTA5】>>https://youtu.be/lMVLREIG8RE?si=JMP8w1nhYmGMEjvM]]|
+|[[メカニックとして初めて弟子をもつことになった釈迦【GTA5】>>https://youtu.be/hi_GNmq0mtk?si=MAbq0cKCwuu-PSNL]]|
+|[[脱落者続出の過酷すぎる「焦虫ペダル山登り合宿」に参加する釈迦【GTA5】>>https://youtu.be/ETr9Vb_x4rw?si=yUaQjzW_S9_mMaCQ]]|
+|[[自転車レースでキレ散らかすフリーザに爆笑する釈迦【GTA5】>>https://youtu.be/l6JDpSDp2gk?si=B9kI17hcQh_ALXCG]]|
+|[[さとうからの「ある悩み」について答える釈迦【GTA5】>>https://youtu.be/DS--FHhWNLc?si=fZ-bRt1oyqRSXe4j]]|
+|[[医療費をサイコロで決める「怪しい個人医」と出会う釈迦【GTA5】>>https://youtu.be/tC5h3S2Qkus?si=90RV021g4udEaaii]]|
+|[[ヘリを購入した直後に爆破してしまうSHAKA【ストグラ】>>https://youtu.be/vIMmJchfFGI?si=75EDmJlbKsQyHFNj]]|
+|[[配信者の性質について語るSHAKA【ストグラ】>>https://youtu.be/oEhH7wCn9pA?si=Yi3BxB5OccLFfRP-]]|
+|[[久しぶりにぴん子と再開した釈迦【ストグラ】>>https://youtu.be/w_6HteXaFYc?si=uaNpQ6oohYsL184A]]|
+|[[久しぶりにストグラ鯖にやって来たものの、災難に巻き込まれ続けるSHAKA【ストグラ】>>https://youtu.be/TfNgaqBd0Tg?si=nkfjXmLeBz1jP3ta]]|
+|[[タバコ屋のシマを治めているギャングを探すSHAKA【ストグラ】>>https://youtu.be/nKSraLv92es?si=OaWyoAPlwLWK2Cr6]]|
+|[[久しぶりに再会した焦月からキャバクラ10億事件の真相を聞く川上【ストグラ】>>https://youtu.be/GaYV61Dbc9Q?si=zh4b5kq1sGIm5Ssw]]|
+|[[GBC主催のお笑いライブで爆笑するSHAKA【ストグラ】>> https://youtu.be/k61Jw-UxrCw?si=eOxelhB4CwOumJiN]]|
+#endregion
+****Season2
+#region(開く)閉じる
+#table_style(head=center:#e6e6fa)
+|~元の配信日|~配信タイトル|h
+|25/12/27|[[タバコ屋を開くためストグラシーズン2の街へやってきたSHAKA【GTA5】>https://youtu.be/UvGPmU_RTI4?si=X3SliTSDHaP2mONY]]|
+#endregion
+
+***シャッフルパージデー切り抜き
+#region(開く,close)
+#table_style(head=center:#e6e6fa)
+|~配信タイトル|h
+|[[エイプリルフールイベントで「一日限定ギャング」になる釈迦【GTA5】>>https://youtu.be/TsGemNeDrCk?si=KEJAcCn8pdqgY8pA]]|
+|[[敵対ギャングにボスを攫われたSHAKA【GTA5】>>https://youtu.be/Zh7cYDiCO6Y?si=GrNxwA1lv8pbY2GY]]|　
+|[[立場を利用しセクハラするボスに爆笑するSHAKA【GTA5】>>https://youtu.be/Fyh7ifRKh2E?si=qRHjHAEOVqh9jER6]]|
+|[[警察でやりたい放題のマクドナルド署長に出会うSHAKA【GTA5】>>https://youtu.be/9ZLXIF1AJAc?si=bfQLJKdkJQYYDih7]]|
+|[[波乱のボス会議へ参加するSHAKA【GTA5】>>https://youtu.be/K1cp1jmSJJ0?si=bP3pM5HdOEhtQvFW]]|
+|[[1番のギャングを決める決闘に勝利するボス【GTA5】>>https://youtu.be/j_ARs-MEA0g?si=9ovA6UOAN9FgDrue]]|
+#endregion
+
+***ストグラ外オフコラボ・雑談
+#region(開く,close)
+#table_style(head=center:#e6e6fa)
+|~配信タイトル|h
+|[[完全オフの魂で雑談するMOZUのメンバー達>>https://youtu.be/c-wsRVS5wqE?si=4_Z9d_xV4S4kuCkR]]|
+#endregion
+
+#table_style(head=center:#d4392d){配信日=right,#=center}
+|~&color(#fff){&font(d4392d,25pt){最新切り抜き}}|h
+&youtube(https://youtu.be/UvGPmU_RTI4?si=X3SliTSDHaP2mONY)
+
+*アーカイブ &icon_fa(fa fa-user-police)
+**Season1
+***2023年
+#region(12月)12月
+#table_style(head=center:#e6e6fa){日付=right,#=center}
+|~#|~日付|~配信タイトル|~備考|h
+|1|12/25|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　俺はドリフトカーを手に入れるぞ>https://www.twitch.tv/videos/2012811860]]|配信開始が2:00AMだったため、25日表記|
+|2|12/25|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　カレー屋か？>https://www.twitch.tv/videos/2013367972]]||
+|3|12/26|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　車いじりおもろいｗ>https://www.twitch.tv/videos/2014157277]]||
+|4|12/27|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　GTR完成が目標>https://www.twitch.tv/videos/2014958550]]||
+|5|12/28|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　おいす>https://www.twitch.tv/videos/2015952663]]||
+|6|12/29|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　レーシックした>https://www.twitch.tv/videos/2016853753]]||
+|7|12/30|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　今年最後の配信になるかもしれない>https://www.twitch.tv/videos/2017842017]]||
+|8|12/31|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　結局ちょっとやる男>https://www.twitch.tv/videos/2018885428]]|年またぎ配信|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(12月)
+
+***2024年
+#region(1月)1月
+#table_style(head=center:#e6e6fa){日付=right,#=center}
+|~#|~日付|~配信タイトル|~備考|h
+|9|01/02|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　あけおめな男>https://www.twitch.tv/videos/2019726598]]|AM0:20配信開始|
+|10|01/02|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　バイクかドリフトタンパ 9>https://www.twitch.tv/videos/2020429186]]||
+|11|01/03|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　タバコ屋きた 10>https://www.twitch.tv/videos/2021367102]]||
+|12|01/04|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　納期えぐい 11>https://www.twitch.tv/videos/2022336947]]||
+|13|01/05|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　族車仕上げ後タバコ屋 12>https://www.twitch.tv/videos/2023306159]]||
+|14|01/06|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　少し 13>https://www.twitch.tv/videos/2024393394]]||
+|15|01/07|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　タバコ追加しないと・・・ 14>https://www.twitch.tv/videos/2025506166]]||
+|16|01/09|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　42種類の葉っぱ 14>https://www.twitch.tv/videos/2027267500]]||
+|17|01/10|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　ながら作業15>https://www.twitch.tv/videos/2028194552]]||
+|18|01/11|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　車レースたばこ 16>https://www.twitch.tv/videos/2029146030]]||
+|19|01/12|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　つるぎくん、おれは君が心配だよ17>https://www.twitch.tv/videos/2030101008]]||
+|20|01/13|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　おうおう 18>https://www.twitch.tv/videos/2031211595]]||
+|21|01/14|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　特訓開始>https://www.twitch.tv/videos/2031892840?t=06h08m00s]]|ストグラ配信は06:08:00〜|
+|22|01/16|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　何の国？ 20>https://www.twitch.tv/videos/2034212765]]||
+|23|01/17|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　オリタバ増やしつつ 21>https://www.twitch.tv/videos/2035122488]]||
+|24|01/18|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　今週末も来週末もその次の次の週も格ゲー大会 21>https://www.twitch.tv/videos/2036048705]]||
+|25|01/19|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　たいかいれん>https://www.twitch.tv/videos/2036986399?t=04h04m30s]]|ストグラ配信は04:04:30~|
+|26|01/20|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　MR1600~のブランカマノンきてくれ>https://www.twitch.tv/videos/2038116222?t=01h17m30s]]|ストグラ配信は01:17:30~|
+|27|01/21|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　24(1)>https://www.twitch.tv/videos/2039215381]]|通信状況が悪いため途中で枠を立て直し|
+|~|~|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　24(2)>https://www.twitch.tv/videos/2039232070]]|02:37:10~05:29:40はストリートファイター6の配信|
+|28|01/24|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　寝てる間放置してたけどどうなってるパルワールド→21時からアプデ入ったらしいストグラ→明日イベント→ぶり29日までに裁かなきゃいけない助けて>https://www.twitch.tv/videos/2042073879?t=03h44m00s]]|ストグラ配信は03:44:00〜08:30:45|
+|29|01/25|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　いそげえええ>https://www.twitch.tv/videos/2043110134]]|ストグラ配信は〜03:04:10|
+|30|01/26|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　明日、トバンガにつき>https://www.twitch.tv/videos/2043982819?t=01h44m00s]]|ストグラ配信は01:44:00〜|
+|31|01/29|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　ぱるぱるぱる>>https://www.twitch.tv/videos/2046985096?t=3h28m49s]]||
+|32|01/30|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　スト6から>>https://www.twitch.tv/videos/2047955541?t=2h29m49s]]||
+|33|01/31|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　軽く殴り合ってから>>https://www.twitch.tv/videos/2048899690?t=1h30m15s]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(1月)
+
+#region(2月)2月
+#table_style(head=center:#e6e6fa){日付=right,#=center}
+|~#|~日付|~配信タイトル|~備考|h
+|34|02/02|&font(#6441A4){&icon_fa(fa fa-twitch)}[[きょうはまったり>>https://www.twitch.tv/videos/2050907130]]||
+|35|02/03|&font(#6441A4){&icon_fa(fa fa-twitch)}[[かねかせがんと・・・・>>https://www.twitch.tv/videos/2051794845]]||
+|36|02/04|&font(#6441A4){&icon_fa(fa fa-twitch)}[[まったりとやる>>https://www.twitch.tv/videos/2052585178?t=8h1m33s]]||
+|37|02/12|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ほんばん>>https://www.twitch.tv/videos/2059572899?t=10h47m50s]]||
+|38|02/13|&font(#6441A4){&icon_fa(fa fa-twitch)}[[リリンクやってストグラ諸事情で如く来週に延期>>https://www.twitch.tv/videos/2060512142?t=29h9m40s]]||
+|39|02/14|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ヘルダイバーズってやつをやるかもしれんがとりあえずスト６>>https://www.twitch.tv/videos/2062316350?t=5h8m5s]]||
+|40|02/15|&font(#6441A4){&icon_fa(fa fa-twitch)}[[うぇい>>https://www.twitch.tv/videos/2063281408?t=2h46m54s]]||
+|41|02/23|&font(#6441A4){&icon_fa(fa fa-twitch)}[[思い出していく>>https://www.twitch.tv/videos/2070238639?t=6h26m54s]]||
+|42|02/23|&font(#6441A4){&icon_fa(fa fa-twitch)}[[おーいす 予定未定>>https://www.twitch.tv/videos/2071147153]]||
+|43|02/25|&font(#6441A4){&icon_fa(fa fa-twitch)}[[はい>>https://www.twitch.tv/videos/2072218909?t=5h46m26s]]||
+|44|02/26|&font(#6441A4){&icon_fa(fa fa-twitch)}[[たまにはまじめに働くか>>https://www.twitch.tv/videos/2074189888]]||
+|45|02/28|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ブライアンで相手のスネぐちゃぐちゃにするぞ #PR #鉄拳8>>https://www.twitch.tv/videos/2076000331?t=2h40m59s]]||
+|46|02/29|&font(#6441A4){&icon_fa(fa fa-twitch)}[[仕入れ、途中ちょっと抜ける>>https://www.twitch.tv/videos/2076912676]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2月)
+
+#region(3月)3月
+#table_style(head=center:#e6e6fa){日付=right,#=center}
+|~#|~日付|~配信タイトル|~備考|h
+|47|03/01|&font(#6441A4){&icon_fa(fa fa-twitch)}[[おい～>>https://www.twitch.tv/videos/2077867725]]||
+|48|03/02|&font(#6441A4){&icon_fa(fa fa-twitch)}[[マリーザマリーザマリーザ！　#RedBullKumite 2024>>https://www.twitch.tv/videos/2078825642]]|ストグラ配信は03:24:14〜|
+|49|03/03|&font(#6441A4){&icon_fa(fa fa-twitch)}[[酒飲みながらやる>>https://twitch.tv/videos/2080022442]]||
+|50|03/05|&font(#6441A4){&icon_fa(fa fa-twitch)}[[グッズを考える>>https://twitch.tv/videos/2081787806]]||
+|51|03/06|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ポーカーやりて～>https://www.twitch.tv/fps_shaka/v/2082863302?sr=a&t=19111s]]||
+|52|03/07|&font(#6441A4){&icon_fa(fa fa-twitch)}[[現実でも車が欲しい男>https://www.twitch.tv/fps_shaka/v/2083639699?sr=a&t=6s]]||
+|53|03/09|&font(#6441A4){&icon_fa(fa fa-twitch)}[[21時からグッズ出たりする>https://www.twitch.tv/fps_shaka/v/2085567417?sr=a&t=21461s]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(3月)
+
+#region(5月,close)5月
+#table_style(head=center:#e6e6fa){日付=right,#=center}
+|~#|~日付|~配信タイトル|~備考|h
+|54|05/04|&font(#6441A4){&icon_fa(fa fa-twitch)}[[こっどフェスWZモバイル#PR>https://www.twitch.tv/fps_shaka/v/2136948084?sr=a&t=19202s]]|約2ヶ月近くぶりの起床&br()ストグラ配信は3:37:17〜|
+|55|05/05|&font(#6441A4){&icon_fa(fa fa-twitch)}[[THE SUMO POWER>https://www.twitch.tv/fps_shaka/v/2137804711?sr=a&t=46055s]]|ストグラ配信は2:15:32付近〜|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(5月)
+
+#region(6月,close)6月
+#table_style(head=center:#e6e6fa){日付=right,#=center}
+|~#|~日付|~配信タイトル|~備考|h
+|56|06/20|&font(#6441A4){&icon_fa(fa fa-twitch)} [[ひさし> https://twitch.tv/videos/2177062282]]|約1ヶ月ぶりの起床|
+|57|06/22|&font(#6441A4){&icon_fa(fa fa-twitch)}[[BeastCup11時くらいから>>https://www.twitch.tv/videos/2178233553]]|ストグラ配信は08:16:36〜付近&br()案件配信前につきワイプ無し|
+|58|06/23|&font(#6441A4){&icon_fa(fa fa-twitch)}[[トパチャン見る19時〜>>https://www.twitch.tv/videos/2179486225]]|ストグラ配信は03:51:37〜&br()案件配信枠につきワイプ無し|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(6月)
+
+#region(9月,close)9月
+#table_style(head=center:#e6e6fa){日付=right,#=center}
+|~#|~日付|~配信タイトル|~備考|h
+|59|09/22|&font(#6441A4){&icon_fa(fa fa-twitch)}[[いつもの>>https://www.twitch.tv/videos/2257391192]]|ストグラ配信は02:44:20頃〜&br()ワイプ無し|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(9月)
+
+**Season2
+***2025年
+#region(12月,close)12月
+#table_style(head=center:#e6e6fa){日付=right,#=center}
+|~#|~日付|~配信タイトル|~備考|h
+|1|12/27|&font(#6441A4){&icon_fa(fa fa-twitch)}[[なんかする>>https://www.twitch.tv/videos/2654109342]]|&icon_fa(fa fa-twitch)ストグラ配信は00:57:00頃〜03:19:00頃&br()ワイプ無し|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(12月)
+
+//
+//|mm/dd|n|[[&font(#6441A4){&icon_fa(fa fa-twitch)}　配信タイトル>ここに配信URLを入力]]||
+//
+
+#right(){&link_up(🔝ページTOPへ)}

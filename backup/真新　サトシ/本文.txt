@@ -1,0 +1,716 @@
+*&size(32){&color(yellow){プ}}&size(22){&color(white){ロフィール} &color(yellow){&icon_fa(fa fa-cat)}}
+//
+&blankimg(真新サトシ.png,width=245,height=297)&blankimg(猫カフェ出勤.jpg,width=528,height=297)&blankimg(サトシ_猫フォルム .jpg,width=245,height=297)
+
+
+#center(){&font(b,i,24px,#000000){&color(#FFE921){ニャ◯スじゃないよ}}}　#center(){&font(b,i,24px,#000000){&color(#3B4EF0){サトシだよ}}}
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#ff0000:#FFF){名前=#00008b:#FFF:b:center}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|
+|~名前|~&icon_fa(fa fa-user fa-fw)|>|&ruby(まさら){真新}　サトシ|
+|~出身地|~&icon_fa(fa fa-location-dot fa-fw)|>|カントー地方|
+|~誕生日|~&icon_fa(fa fa-birthday-cake fa-fw)|>|1997年10月10日 (&countup(1997/10/10,y)歳)|
+|~移住日|~&icon_fa(fa fa-plane-arrival)&br()|2023年09月17日 (&countup(2023/09/17,yd)経過)|2026年01月01日(&countup(2026/01/01,yd)経過)&br()※2026/4/1に3か月前にFIBに転送されたと&br()発言していることから移住日を暫定で設定|
+|~職業|~&icon_fa(fa-solid fa-tent fa-fw)&br()&icon_fa(fa-solid fa-mug-saucer)|[[Goodbycircus団員>GoodbyeCircus]]&br()[[GoodNightキャスト>>GoodNight]]|イタリアンレストラン「[[acqua ovest]]」&small(){体験(2026/04/01)}&br()木こり「[[渡戸林業]]」&small(){(2026/04/10～)}|
+|~TwiX|~&icon_fa(fa fa-crow)|@poke　ets...|@satosi|
+|~レーサー名|~&icon_fa(fa fa-user-tag)|猫に小判||
+|プレイヤー|BGCOLOR(#00008b):~&icon_fa(fa fa-cat fa-fw)|>|Nyanko Rasu|
+|告知等|BGCOLOR(#00008b):~&icon_fa(fa fa-bullhorn fa-fw)|>|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/Nyankorasu]]|
+|配信場所|BGCOLOR(#00008b):~&icon_fa(fa fa-video fa-fw)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@nyankorasu423]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/nyankorasu_mezasi]]|
+|投稿場所|BGCOLOR(#00008b):~&icon_fa(fa-brands fa-youtube fa-fw)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@nyankorasu423]]|　
+#region(目次を開く,close)目次
+#contents(fromhere=true,level=1)
+
+#endregion
+//
+*&size(22){&color(#fff){&size(32){&color(#ffff00){基}}本情報 &icon_fa(fa fa-address-card-o)}}
+***Season1
+・約26年つづけていた仕事がクビになり、最初からやり直すためにやってきた。
+・&color(#FFE921){相棒}は仕事を続けているので、連れてこれなかった。
+・ロスサントスに到着し声を出したら某猫のような声になってしまった。
+・しかし[[家族>>Goodbyecircus]]に対してはいつものイケボで話せるよう。
+・〇ケモンマスターを目指してたのに、早々にポケモ〇がいないことが判明してキャラがブレ始めた。
+・〇ケモンマスターの変わりにグラモンマスターというものになろうとしている。
+・お酒は飲めない。
+・白市民パスを保有しながら運も味方につけ四度の大型ミッションを指名手配無しで潜り抜けてきたが
+　五度目の大型となったNL・GBC合同によるアーティファクト戦で撃ち合いの末現行犯逮捕。白市民パスが剥奪される。
+・[[プスカ大佐>ネズ]]カスタムのファンで太客。
+・もし元の仕事に再度呼ばれたら日本に帰ってしまうそう。
+***Season2
+・2026/1/1頃にFIBの高層階に転送されたが下に降りる手段も連絡手段も無い状態だった。
+・FIB内の食料で生き延びていたが4/1に食料がなくなったのでFIBから飛び降りて脱出。
+・脱出できず3か月間泣き続けていたため&s(){身体は青くならなかったが}声が枯れてしまって以前のような高い声が出なくなってしまった。
+#div(width=330px,bgcolor=#ff0000){&size(18){&color(#fff){&space()&icon_fa(fa fa-heart)&space()&bold(){性格}}}}
+・人見知りな性格で複数人での話し合いになると、話に入れず少し離れた位置からそれを眺める場面が何度かある。
+・・しかし１対１の会話となると聞き上手な為会話が続き、最長１時間１２分会話したこともある。
+・リーダー役は苦手とし、自身でも犯罪でのIGLは向かないと語っている。
+・基本ヘタレ。
+・・しかし、[[マックさん>>ライトスターボーイ]]の急な無茶振りに対応したり、大型犯罪では果敢に警察にアタックしたりと意外と度胸がある一面も。
+・イエスマンな所があり、よくキャパオーバーする。
+・・しかし、本番は全て大成功しており、本人も本番に強いということは自覚している。
+・統一性が好きで[[GBC>>GoodbyeCircus]]の人の連絡先の名前の前は[🤡]で統一している。
+・・[[個人医]]は「💉」[[マックさん>>ライトスターボーイ]]は[🤡🤡🤡]
+#div(width=330px,bgcolor=#00008b){&size(18){&color(#fff){&space()&icon_fa(fa fa-search)&space()&bold(){見た目}}}}
+・服装は完全に某○ケモントレーナーの格好。トレードマークの赤い帽子に、紺のジャケット、緑のリュックにジーンズ。
+・・あまりにサトシ過ぎる格好の為、他の人曰く遠くから見てもサトシだと一発で分かるそう。
+・肌は若干色黒で、脱いだり二の腕を見せたりすると結構マッチョ、筋肉質だと言われる。
+・最近猫の被り物と黄色のパーカーに衣替えした、皆を惑わせている。
+・・この格好にしたからなのか女子ウケがいい。
+#div(width=330px,bgcolor=#ff0000){&size(18){&color(#fff){&space()&icon_fa(fa-solid fa-gun)&space()&bold(){GBCでの仕事}}}}
+・元々犯罪に興味があって、[[ギャング]]である [[GBC>>GoodbyeCircus]]に加入した。[[GBC>>GoodbyeCircus]]では主に犯罪部門担当として活躍している。大型犯罪では戦闘及び、ヘリでのサポートを務める。最近ではIGLも頑張って挑戦中。
+・・半グレ時代に花摘みをしていた事もあって、[[GBC>>GoodbyeCircus]]の薬担当を任されている。暫く白の仕事をしていた為、花摘みはやってなかったが[[GBC>>GoodbyeCircus]]が犯罪稼業に乗り出した今は、積極的に花を摘みに行ったりしている。
+・・大型犯罪で上手くいかず力不足を感じた際[[ボス>>ライトスターボーイ]]に相談した上で、修行の一環として1人での犯罪(主にコンビニ強盗)の許可を貰っている。
+・白の仕事も招集があった際は積極的に参加している。主な仕事としては役者、イベントの裏方、キャバクラのキャスト及びボーイ、ボスの影武者など多岐に渡る。
+・・演技力が高く評価され、[[マックさん>>ライトスターボーイ]]からノリでGBCの座長を任されている？
+#div(width=330,bgcolor=#00008b){&size(18){&color(#fff){&space()&icon_fa(fa-solid fa-hand-sparkles)&space()&bold(){スキル}}}}
+・銃の扱いに長けており、メンバーからも高く評価されている。
+・レースに度々出走しており、運転技術はメンバーの中でも上位の方。
+・・ヘリの操縦も上手く、メンバーにたまに操縦を教えたりしている。一部のメンバーから安心すると言われている。
+・声真似が得意でニ◯ース、ド○えもん、藤○竜也など、いくつもの声真似のレパートリーがある。
+・・[[マックさん>>ライトスターボーイ]]の真似もでき、メンバーでさえも騙される程のクオリティである。
+・・また声真似を活かした変装が得意で、普段ニ◯ースの声で話している為、変装して違う声を出すともはや誰か分からなくなる。警察に逮捕される時も声を変えて話してる為、端末で正体を調べられるといつも驚かれる。
+#div(width=330px,bgcolor=#ff0000){&size(18){&color(#fff){&space()&icon_fa(fa-solid fa-masks-theater)&space()&bold(){変装}}}}
+・声を変えることが非常に上手いので多種多様な変装がある。そのため指名手配中でも警察署に乗り込んでスリルを楽しんでいる。
+・・GBCに加入して初の仕事もボスである[[マクドナルド]]の影武者として喋ることだった。
+#region(🥚,close)🥚
+#table_style(head=#eeee00:center:){列1=#ddd, 列2=#fff, 列3=#81BEF7}
+|&blankimg(サトシ_生卵.png,y=235,x=180)|~&b(){～生卵～}|
+|~|&nbsp(4)&blankimg(生卵の料理.jpg,y=80,x=235)&br()・燻製たまご・煮卵・生卵&br()&nbsp(4)を各5万円で売っている&br()・甲高い声が特徴的&br()・[[ぴん子>>ろぜ柳　ぴん子]]や[[ジョアンナさん>>町田　ジョアンナ]]に推されている&br()・[[ファン>>ろぜ柳　ぴん子]]の誕生日に出向いて祝ったりとサービス精神旺盛な一面も|
+#endregion
+
+#region(🍞,close)🍞
+#table_style(head=#eeee00:center:){列1=#ddd, 列2=#fff, 列3=#81BEF7}
+|&blankimg(サトシ_ジャムじじぃ.png,y=235,x=180)|~&b(){～ジャムじじぃ～}|
+|~|&blankimg(ジャムじじぃの料理v2.jpg,y=120,x=300)&br()・オリジナルのパンやジャムを売っている&br()・どちらかというとマ〇オさんだと言われる&br()・パンではなくＰＡＮ&br()・[[警察>>ロスサントス警察]]などに人気がある、因みに中身が指名手配犯の場合がある&br()・[[もりるんるん>>もり　るんるん]]の為に商品を作るなどサービス精神旺盛な一面も&br()・[[ピッツャボーイ>>キングスターダイアモンド　ズズ]]によく間違えられ殴られる|
+#endregion
+
+#region(🦍,close)🦍
+#table_style(head=#eeee00:center:){列1=#ddd, 列2=#fff, 列3=#81BEF7}
+|&blankimg(サトシ_ウホウホウホ.png,y=235,x=180)|~&b(){～ウホ ウホウホ～}|
+|~|・[[葉風邪>>葉風邪　ナイ]]によって[[救急隊>>ロスサントス救急救命隊]]に飼われている&br()・[[GBC>>GoodbyeCircus]]バナナを売っていたら転売事件になった&br()・転売と言っても定価より安く売っていたのが判明しただのいいゴリラだった&br()・新聞で学んだので意外と日本語を喋る&br()・[[BIGブー>>小者　デヤンス]]とは隣町の知り合いだった|
+#endregion
+*&size(22){&color(#fff){&size(32){&color(#ffff00){服}}装}}
+//
+&color(#3B4EF0){「真新サトシ　イメチェン」以降の真新サトシは全て猫の仮面を被っています。}
+|真新サトシ|某トレーナーそっくりの服装|
+|真新サトシ　夏用|すこし腕をまくった|
+|真新サトシ　冬用|マフラーを首に巻いた|
+|真新サトシ　囚人|プリズンに行った際の服を&br()そのまま保存した|
+|真新サトシ　イメチェン|猫の仮面を被り全体的に黄色くなった&br()なぜか[[GBC>>GoodbyeCircus]]団員から猫に間違えられる様になり&br()新規住民と女性からのウケがよくなった|
+|真新サトシ　ギャル|ほぼライ〇ンキング|
+|真新サトシ　オーバーオール|オレンジ色のパーカーの上にオーバーオールを着た&br()着太りし可愛くなった|
+|真新サトシ　新しい服|猫がムカデを咥えてる絵が描いてある服&br()評判は悪い|
+|真新サトシ　冬用|スカジャンにパーカーを付け、マフラーを巻いた&br()色合いがすごくあっている|
+|真新サトシ　ハウジング屋|ロールアップしている服に手袋を付け、頑丈そうなズボンを履いている|
+|取引先|[[いくらちゃん>>プリンセス　いくら]]のミュージカルに出てくる役&br()本番までの場繋ぎ10分間ずっと踊っていた|
+|同僚|[[いくらちゃん>>プリンセス　いくら]]のミュージカルに出てくる役|
+|猫乃助|ミュージカル「ILUVYOU」に出てくる役の服装&br()オーバーオールを少しイジっただけだがとてもかわいい|
+|キャバクラボーイ|ミュージカル「ILUVYOU」に出てくるボーイ服|
+|作業じじぃ|衛生外用変装&br()名前は「フツゴロウ」|
+|心無き|心無き風変装|
+|[[GoodbyeCircus]]青色のスーツ| 青いスーツにラフなオレンジ色のYシャツを身にまとっている　&br()&openclose2(show=正装の青スーツ){(『OLD OF GANG'S POP-UPSTORE』のデザインに似せたもの)｝|
+|[[GoodbyeCircus]]大型服|ウサギの面がトレードマーク&br()名前は「青い彗星」だが以前は「青兎」だった|
+|[[餡ブレラ]]大型服|餡ブレラとの合同で作った|
+|[[NO LIMIT]]大型服|NOLIMITとの合同で作った|
+|[[麻陀羅組]]大型服|麻陀羅組との合同で作った|
+|[[TOPGEAR]]大型服|TOPGEARとの合同で作った&br()&s(){モンスターのマスクを被っている}&br()[[シュガピ>>シュガー　ピーチ]]の要望により猫の仮面に変えた&br()名前は「バケモノン」|
+|チャイナ|入団希望だった[[マァちゃん>>鳳華　マア]]と一緒にサーマルに行った際の犯罪服|
+|[[GoodbyeCircus]]島取り|長時間による&br()[[マックさん>>ライトスターボーイ]]vs団員の意見の出し合いにより完成した服|
+|ターミネーチャー|一代目犯罪用変装|
+|オクラホマミキサー|宇宙からお花を取ってくるよう頼まれた&br()無垢な宇宙人|
+|チャランボラン|二代目犯罪用変装&br()[[CPUさん>>CPU]]によく似た変装な為&br()CPUさんと出会った際咄嗟に&br()「お兄ちゃん…」と言ってしまった|
+|はみ出しデカ|はみ出してる警察|
+|TIマン|主にスプレーをする時用の変装|
+|引っ越しバイト|名前は「宮下　サトシ」バイトリーダーである&br()&s(){空き巣}引っ越しバイトをしに行く時の&s(){変装}作業服|
+|サンタ三氏|[[まるん刑事>>花沢　まるん]]vs[[GBC>>GoodbyeCircus]]の街中チェイスを火付けた変装&br()元々犯罪用だが[[シュガピ>>シュガー　ピーチ]]に「物を配れば？」と提案されただのサンタとなる|
+|ハッピーウェディング|[[らみさん>>Kohana　Lami]]の変装を模した変装|
+|ピッツァボーイ|[[ズズさん>>キングスターダイアモンド　ズズ]]の変装を模した変装|
+|キモキモホ|[[ズズさん>>キングスターダイアモンド　ズズ]]の変装を模した変装&br()キモキモオイベントで出演する事になったが&br()強制瞑想が続きイベントに出れなかった苦い思い出がある|
+|遊疑|賭け事、遊戯などで出てくるコスプレ|
+|[[マクドナルド2号店>>ライトスターボーイ]]|マックさんの影武者|
+|[[zz>>キングスターダイヤモンド　ズズ]]|ズズさんのコスプレ|
+|[[ハンバーグー>>ハン　バーガー]]|ハンバーガーのコスプレ|
+|[[両隣リー>>渡戸　リー]]|リーさんのコスプレ|
+|[[トラ雄>>街雄　サンリ]]|トラ雄のコスプレ|
+|[[パンプ金欠>>アキヲ・煉獄・ペスカトーレ]]|パンプキングのコスプレ&br()弟ということになっている|
+|[[Dr.メガバイト>>Dr．ギガ]]|ギガさんのコスプレ|
+|[[HonD>>Mon　D]]|一触即発のコスプレ|
+|ブラっとハフンド|[[トラ雄>街雄　サンリ]]と一緒にコスプレ大会に出場し、優勝を掴んだコスプレ|
+|売人XX|[[ボイラさん>>ボイラ　テンガリン]]が「私は[[マックさん>>ライトスターボーイ]]で自我を保っている」と言っており&br()ならば薬にしてやろうとM.Cというただのラムネを作り出した&br()しかしそれを食べた者はマックさんを求めたり、マックさんになったりと異常行動が出ている|
+|[[ピン子>>ろぜ柳　ぴん子]]|サトシの衣装を白黒にし&br()ぴん子ちゃんの誕生日を祝った|
+|ダモリ|2023年の突発クリスマスイベントの時に&br()急遽司会進行になり&br()急遽作ったダモってるタ〇リさん|
+|豆次郎|漫才イベントで[[豆やん>>豆　やん]]の従兄弟として作った服装|
+|ボーイ|キャバクラのボーイ服|
+|深海海夢|キャバ嬢用変装&br()読み方は「しんかい　まりん」|
+|伝説の新人カールちゃん|キャバ嬢が少ないと[[マックさん>ライトスターボーイ]]に言われ急遽作った変装&br()しかしバナナとお冷しか頼まれず、膝がナッパと言われ&br()「水とバナナだけでいける嬢」となり伝説となった|
+|眼疑真理|性格がオカマの変装。|
+|勇者ヨスヒコ|[[べれぶぅさん>街雄　サンリ]]と共に出てくる勇者|
+|どら衛門|本物というよりモノマネの声に近い声のコスプレ&br()妹に[[どら身>銅鑼　チエリ]]がいる|
+|犯沢ナオキ|三代目犯罪用変装&br()すぐ土下座をする|
+|ペイマックス|10段階の痛みを選ばせて痛ませてくるコスプレ|
+|青士　亜夫|サトシの癖を詰め込んだ服装&br()[[煉獄さん>>アキヲ・煉獄・ペスカトーレ]]イメージ|
+|せんぽくん|赤い半ズボンに体には白い布を巻いてある&br()ほぼ奈良県のマスコットせん◯くんである。|
+//
+*&size(22){&color(#fff){&size(32){&color(#ffff00){人}}間関係}}
+//
+***&color(#3B4EF0){呼び方　　呼ばれ方}の順で記載しています。
+**&color(#0000ff){&icon_fa(fa-solid fa-tent)GoodbyeCircus}
+#region(開く)
+[[マックさん　サトシさん>ライトスターボーイ]]
+***・ギャング、芸能事務所「[[GBC>>GoodbyeCircus]]」&color(#F54738){団}&color(#3B4EF0){長}。
+・[[GoodbyeCircus]]のボス。彼の事を信頼しており、GBCが犯罪をやり始めた際力不足を感じ1人で犯罪の修行をしてもいいかと彼に相談すると太鼓判を押され、GBC犯罪部門を引っ張って欲しいと応援される。
+・[[MonD>>Mon　D]]さんにチンチロで20億負けてしまった時マックさんが肩代わりしてくれた事により20億の借金がある。
+・初めて出会った際は「酒焼けした声」と言われた。
+・彼の影武者として「マクドナルド2号店」がある。
+[[ヨウコウさん　サトシくん>>桜星　ヨウコウ]]
+***・超古参&color(#3B4EF0){団員}。
+・最近はずっと寝ている団員
+・島取り以降から起きていない。
+[[レンレン　サトシ>>帝　レン]]
+***・ドS&color(#F54738){アンダーボス}。
+・キャバクラを経営しているホスト(イケメン)。彼に車をプレゼントした事があり、お揃いで同じ車を買い直している。男同士の友情のようなものがあり、事あるごとにサトシに彼女を作ろうと薦めてくる。
+・キャバクラでは嬢としてカールちゃんもしくは海夢ちゃんで出てくる時もある。
+・実は彼のモノマネができる。
+[[らみさん　サトシ>Kohana　Lami]]
+***・可愛いらしい元気な&color(#F54738){アンダーボス}。
+・よくギャング活動の一環として、一緒にスプレー吹きや薬作り及び薬売りなどをする。大型犯罪をする際は彼女と共に意見を出し合い作戦を決めたりする。
+・新しい私服にした途端、猫に間違えられる事が多くなった。
+・実は彼女のモノマネ？ができる。
+[[日々さん　サトシさん>>日々]]
+***・ギャングの裏ボス疑惑がある&color(#3B4EF0){団員}。
+・ふわふわしている不思議系の女性。クラフトで装備を補充したりと、陰で黒のメンバーを支えてくれている。自発的にGBCのイベントを考案したりし、何度か打ち合わせをした事がある。実は陰でギャングを牛耳ってる裏ボス説が…？
+・当時レアアイテムだったクリプトスティック（犯罪道具）をサトシはリサセンで出てきた度にTwixで「クリプトスティックゲットだぜ！」と投稿していた、それを見た日々さんは「なんかヤバい人いる」と思ったらしい。
+・実は彼女のモノマネができる。
+[[ズズさん　サトシ　サットンets...>>キングスターダイヤモンド　ズズ]]
+***・叩けば鳴る&color(#3B4EF0){団員}。
+・よくアジトで雑談をしたり、ふざけあったりする。会話の内容などは思春期の男友達のようで下ネタや女の子の話などをしたりする。イベントで出し物をする際はよくアドバイスをくれる。
+・よく警察や色んな人にちょっかいを出し、悪ガキコンビと言われている。
+・今やほぼズズさんの右腕的ポジションになってしまい振り回される。
+・彼の前でモノマネをした際は、度々褒めてくれる。
+・彼のコスプレがあるがGBC内1似てるかもしれない。
+[[ジェレミーさん>>Owenz　Jeremy]]
+***・ほぼ永久冬眠&color(#3B4EF0){団員}。
+・サトシが入る1個前に入った団員
+・しかし、入って間もなく冬眠に入ったのでサトシは会った事がない。
+[[ひろし　サトシさん>>焼野原　ひろし]]
+***・真面目で優秀だが所々ポンの&color(#3B4EF0){団員}。
+・普段は呼び捨てで「ひろし」と呼んでいる。白ではGBCのマネージャーとして黒では戦闘員として活躍している。キャバクラやイベントで共演する事がよくある。よく世代ネタで息が合う事がある。
+・ひろしが路頭に迷った際、相談相手になってあげたが結論を伝えてもらえず海岸で叫んだ。
+[[ダミアンさん　サトシ>>ダミ　アン]]
+***・姉御肌の&color(#3B4EF0){団員}。
+・サトシの[[親友>>豆　やん]]の奥さんで、彼女が旦那さんと和解した暁に黒のメンバーとして参戦する。先輩として犯罪の知識を教えている。頼れる姉御系キャラ。最近「ダミアーン！！」と名前を叫ぶ事がある。
+・漫才イベントでは「デビルマスターズ」で[[豆やん>>豆　やん]]の従兄弟として出演した。
+[[カムくん　サトシさん>>カム　カマダ]]
+***・可愛らしい子供タイプの&color(#3B4EF0){団員}。
+・可愛らしい後輩系の男の子で、よくゲラゲラ笑っている。サトシがクリスマスライブに誘ったのがきっかけでGBCに加入した。マクドナルドさんのモノマネをすると大笑いする。
+[[ぴん子ちゃん　サトシ様>>ろぜ柳　ぴん子]]
+***・お嬢様？&color(#3B4EF0){団員}。
+・よくマクドナルドさんに振り回されている女性。意外にもサトシと同じ人見知りな一面があるらしい。衛星外のぴん子を見つけると、よくズズさんと一緒に連れ回す。
+・とある変装の熱狂的なファンでもある。🥚
+[[じいちゃん　サトシ>>つか山　天乃進]]
+***・おじいちゃん&color(#3B4EF0){団員}。
+・[[JTS>>ジョアンナテクノサービス]]の従業員。
+・馬ウアーさんと梅さんの結婚式で共演し、 GBCに勧誘され暫くして入団したご老人。爺ちゃんやジジイと呼んでいたりする。
+・実は彼のモノマネが出来る。
+[[えだまめもん まめもん　サトシ>>えだまめもん]]
+***・ポンで可愛らしい&color(#3B4EF0){団員}。
+・闇メカニック
+・犯罪部門として加入したメンバー。可愛いらしい後輩キャラで、犯罪の知識を教えたりヘリの操縦を教えたりしている。いつもヘリに乗ると、腕前を褒めてくれ安心すると言ってくれる。
+・最初の頃はよく豆やんと呼び間違えていた。
+[[ももこちゃん　サトシさん>>牛桃　ももこ]]
+***・小悪魔系&color(#3B4EF0){団員}。
+・サトシの人見知りな性格を見抜いたり、お忍びで彼女が勤めるキャバクラに行った際には、彼女の小悪魔的な接客でたじたじになったりと中々侮れない女の子。キャバクラの嬢として一緒に働くこともある。
+・ももこ親衛隊に足首隙蔵という足首フェチのオタクとして親衛隊に入っている。
+[[フラムさん　サトシさん>>鮫島　フラム]]
+***・口からドラムが鳴る&color(#3B4EF0){団員}。
+・[[JTS>>ジョアンナテクノサービス]]の従業員。
+[[チエリちゃん　サトシさん>>銅鑼　チエリ]]
+***・激しく元気な&color(#3B4EF0){団員}。
+・お花摘みや薬売りなど、黒い仕事について教えた。
+・彼女もまた、[[リーさん>>渡戸　リー]]のファンである。
+・たまに揶揄ってくることも。
+・ノリのいい女の子。サトシが「&color(#3B4EF0){どら 衛門}」のコスプレをした時は「&color(#FFE921){どら 身}」になってくれた。
+[[こはるくん　サトシさん>>君島　こはる]]
+***・イケボの銃撃戦が強い&color(#F54738){アンダーボス}。
+・サトシが車に乗っていると危険運転をして、怖がらせてくる。
+・地声を初めて聞かせた時「イケボじゃないっスカ！」と驚いてくれた。
+[[パンプキング 煉獄さん　サトシ>>アキヲ・煉獄・ペスカトーレ]]
+***・例え上手の愉快な&color(#3B4EF0){団員}。
+・サトシお気に入りの団員
+・前々から[[マックさん>>ライトスターボーイ]]に入団を推薦していた人物。面接の際、巧みな演技力と話術でマックさんを振り向かせた逸材。犯罪の経験もあり、戦闘服を作った際はサトシの2Pカラーとなった。
+・彼のコスプレとして「パンプ金欠」がいる。
+[[トウユンくん　トウユン先生　サトっちゃん>>トウ　ユン]]
+***・イケボイケメン天然&color(#3B4EF0){団員}。
+・イケメンの歌のお兄さん。
+・黒いお仕事のアドバイスをしたり、ブースティングを一緒に行ったりと２人でいる事も多い。
+・歌の稽古のお礼としてお揃いのイタリーGTOをプレゼントした。
+・通話時間1時間11分という伝説的な記録を共に塗り替えた。
+[[イオリちゃん　サトシさん>>銅鑼　イオリ]]
+***・激しく天然な&color(#3B4EF0){団員}。
+・[[姉>>銅鑼　チエリ]]も目が離せないほどの天然と言う噂を聞いた。
+・初めて1対1で話した際、イオリの勢いにたじたじなってしまった。
+[[マァちゃん　サトシさん>>鳳華　マア]]
+***・力強いが真面目な&color(#3B4EF0){団員}。
+・マダムキャバクライベントにて、サトシ(カールの変装中)の目の前で🔰を外した。入団を機に正体を明かした際、走り回る程驚いてくれた。
+[[ハンバーガー　サトシさん>>ハン　バーガー]]
+***・超キャラが濃い&color(#3B4EF0){団員}。
+・サトシは初めて会って少し話しただけでハンバーガーの声真似を完璧に習得した。
+・・（本人曰くあの声は8年前から出来ていたそう）
+・ハンバーガーの🔰外しイベントでラップバトルになった際、生卵で参戦し[[まるん刑事>>花沢　まるん]]とタッグを組み挑んだ。
+・彼のコスプレとして「ハンバーグー」がある。
+#endregion
+**&color(#ffff){&icon_fa(fa-solid fa-user-large)白市民}
+#region(開く)
+
+[[リーさん　サトシさん>>渡戸　リー]]
+・彼の事を溺愛しており、彼の起床を確認すると電話で挨拶をしてしまうほど。よく遊んだりお休み前に電話したりする。レースに出る時は彼に山野民生に出てくるよう伝えている。
+・連絡先の名前の前には【イタ電】とつけている。
+・夢の世界でも一緒にお出かけする程仲良しなよう。
+・彼のコスプレとして「両隣リー」がある
+[[マヨマヨ　サトシ>>チェン　マヨ]]
+・[[A2>>A2 Lab]]の従業員
+・初心者の頃から付き合いのある女性。連絡先の名前の前に[友]とつけいている。彼女からは呼び捨てで呼んでくれていいよと言われ、親しみも込めて「マヨマヨ」と呼んでいる。
+・ドリフト車はマヨマヨと同じ車を購入した。
+・サトシ１周年のお祝いとして、バイクをプレゼントしてくれた。
+[[豆やん　サトシ>豆　やん]]
+・[[JTS>>ジョアンナテクノサービス]]の従業員
+・彼が初心者だった頃案内をしてあげ、彼からは親友と呼ばれ慕われている。喧嘩をしていた[[嫁さん>> ダミ　アン]]と仲直りしたそう。よく修理を頼んでる。
+・サトシ１周年の時は(ボロボロの)車をプレゼントしてくれた、しかし車の中にはメカニックしか持ってはいけない道具があり、それに気が付いた[[ずぅさん>>多良里　ずぅ]]は豆やんに危うくJTSが危ない事になっていたかもしれないと鉄槌を下し、お詫びとして無料でカスタムをさせてくれた。
+[[ボイラさん　サトシ>>ボイラ　テンガリン]]
+・[[警察官>>ロスサントス警察]]
+・GBCに最も近しい警察官であり、[[マックさん>>ライトスターボーイ]]を最も愛している。大型犯罪でプリズンに送られるとよく説教をしてくる。街で出会うと必ずと言っていいほど、無免許運転を指摘してくる。優秀な警察官。&s(){彼がグッバイINする日もそう遠くないかもしれない。}
+・GBCといざこざがあり、GBCと関わりを切った。サトシがボイラさんに電話をした際、切る時に「バイバイ」と言っても「じゃあな」しか返ってこなくなってしまい悲しんだ。
+[[さぶ郎さん　サトシ>>安呆　さぶ郎]]
+・[[警察官>>ロスサントス警察]]
+・指名手配中に生卵で🥚を警察署に売りに行った際出会い、連絡先を交換して数日経ち、また生卵で警察署に行きさぶ郎と出会った、そこでさぶ郎に「連絡先を交換したが生卵がいない、もしかして誰かの変装？」と言われ焦り咄嗟に逃げ出した。
+・それから指名手配中にジャムじじぃでPANを売り、連絡先も交換していたがまたさぶ郎に会った際「連絡先交換しよう」と言われたが「スマホ持ってない」と押し通した。
+[[しょうじさん　サトシ>>竹井　勝痔]]
+・[[警察官>>ロスサントス警察]]
+・この街に来る前からの知り合いで、初心者の頃によく遊んだりしていた。犯罪をするようになってからは警察官である彼から忠告をされたり戦場で出会いプリズンに送られたりする。
+[[ペンペン　真新さん>>ぺん　ゆきや]]
+・[[警察官>>ロスサントス警察]]
+・ヒモ男
+・初対面の時に[[女性の🔰>>八王子　めぐ]]さんと一緒に居、その女性に金をせがんでいた事が判明しサトシはひいた。
+・マダムイベントでも会い接客した、帰り際に「お前ペンペンじゃなくてパンパンだろ」と言った。
+[[葉風邪さん　サトシ　ウホウホウホ>>葉風邪　ナイ]]
+・[[救急隊員>>ロスサントス救急救命隊]]
+・ウホウホウホでバナナを売り歩いていた時出会った、会話をしていた際心無きに車を当てられ2人で追いかけたが逃げられてしまった、そのまま病院に行き、「そのゴリラなに？」と言われ「ペット」と説明され、晴れて救急隊のペットとなり、救急ゴリラになった。
+・遊疑で病院に行った際出会い、葉風邪のツボを突いた。
+[[プスカ大佐　サトシさん>>ネズ]]
+・よく利用する[[BMC>>BMカスタム]]の推しであり、彼から車を購入したりカスタムを依頼したりして貢ぐことが最高の推し活だと思っている。彼からは太客認定をされておりよくサービスをしてもらっている。
+[[ずぅさん　サトシさん>>多良里　ずぅ]]
+・[[JTS>>ジョアンナテクノサービス]]北支店社長
+・街で出会うと毎回「す゛ぅさ゛ぁ゛ぁ゛ん゛」「サ゛ァ゛ト゛シ゛さ゛ぁ゛ぁ゛ん゛」と呼び合う。
+・不動産屋もしており、物件を買う時は決まってずぅさんである。
+[[ねずみさん　サトシ　猫>>ねずみさん]]
+・[[JTS>>ジョアンナテクノサービス]]の従業員
+・猫の被り物をしてから「猫いや！」と共に吹き飛ばされる、最後は決まってアイファック10個貰える。
+・どら衛門で一回行ってから耳を噛りたいとなぜか言われる様になった。
+・ねずみさんカスタムのイタリーを愛用している。
+[[てるみさん　サトシさん>>淀川　てるみ]]
+・合コンイベントにより意気投合、カジノに行った際は勝つ時も負ける時も一緒という奇跡を起こした、ちなみに結果は元値10万からサトシ30万　てるみ20万で大勝利となった。
+・合コンでの告白は成功し友達となる、連絡先の名前の前に【友】と付けた。[[マヨマヨ>>チェン　マヨ]]以来の２人目となった。
+・久しぶりに合いお店2人きりで話そうとしたが[[文殊セイジ>>文殊　セイジ]]が来店し、2人きりの時間はできなかった。
+[[サウ汰さん　ニャOス サトシ>>星唄　サウ汰]]
+・[[BMC>>BMカスタム]]の従業員、ニャOスと呼ばれ訂正するのがいつもの流れ。
+・バイクを購入する際は決まってサウ汰さんである。
+・サトシ１周年の時には、ボートをプレゼントしてくれた。
+・[[んぽ　ねこちゃんさん>>ゆた　んぽ]]
+・[[BMC>>BMカスタム]]従業員。
+・初対面の時に「かわいい！」と言われた。
+・話してるうちに[[GBC>>GoodbyeCircus]]の話になり「GBCに興味ある？」と言ったら「ねこちゃんさんに興味ある」と言われた。
+[[大剣ロイ　アイク　マルスets…　サトシさん>>ロイ　マーチングナンバー]]
+・[[9055]]の従業員
+・サトシに名前をいじられそれにツッコむのがいつもの流れである
+・PYCの普通車ディーラーになった事を聞き、ロイから車を買うことを約束する。
+・サトシは多分ロイの事が大好きである。
+・最近はロイ自身もいじられることに満更でもない様子…　
+[[デヤンスさん　サトシくん>小者　デヤンス]]
+・元[[GBC>>GoodbyeCircus]]団員
+・この街の過去や犯罪の知識などに詳しく。GBCの参謀、兄貴分的なポジション。彼が犯罪に手を出した際一緒にできる事を喜んだ。
+#endregion
+**&color(#000000){&icon_fa(fa-solid fa-user-secret)黒市民}
+#region(開く)
+
+[[トラ雄　サトシ　遊戯>>街雄　サンリ]]
+・[[NO LIMIT]]構成員 
+・何かと趣味が合い、たまにコスプレをして街を遊び回ったりする。[[NO LIMIT]]に所属しており、よく合同で大型をしたり、1人で犯罪をしたいと志した時に銀行強盗について教えてもらった。
+・彼のコスプレがある
+[[チンピラ　サトシ>> Lv〇　チンピラ]]
+・[[NO LIMIT]]構成員
+・初心者の頃にお世話になった人物。彼も[[NO LIMIT]]に所属しており大型合同で共に参加することがある。本物のトラ雄は誰だクイズをやった際、素顔を明かした時にスケベ顔だと言われたのをよくイジってくる。
+[[銭形さん　サトシ>>銭形　やいち郎]]
+・[[MOZU]]構成員
+・昔に花摘みのバイトなどでお世話になった人物。彼は今では半グレをやめ[[MOZU]]に入っており、久しぶりに再会した際、ギャングに入ったサトシに対して「変わったな」と言った。
+[[まるこ　サトシ>>赤色　にごう]]
+・[[NO LIMIT]]構成員
+・[[とあるギャング>> NO LIMIT]]に憧れていた女性。どこかギャングに入ってるのと疑われた際GBCに所属している事を明かす。彼女は[[意中のギャング>> NO LIMIT]]に入れたようで大型の受注場所で度々出会う。
+・生卵で🥚を売り歩いていた際出会い、何故かジャムじじぃのPANを渡された。
+[[まる　おかん　サトシ>>丘猫　まる]]
+・[[NO LIMIT]]構成員
+・以前NOLIMITとの合同で久しぶりに会い、その時の口調がお母さんのようだったので「おかん」と呼ぶようになった。
+[[シャンクズさん　サトシ>>四皇　シャンクズ]]
+・[[シャンプロ>>シャンクズプロモーション]]社長、[[NOLIMIT]]ボス
+・最初の頃ずっと「1位」と呼ばれなんの事だと思っていたら夢の世界に同じ名前同じ声の人がおりずっと勘違いされていた。
+・イベント前夜にNOLIMIT（シャンクズ）との合同でシャンクズが何故か太っておりサトシは終始笑い「馬鹿にしてる？」と言われてしまった。
+[[MonDさん　サトシ>>Mon　D]]
+・[[ALLIN]]ボス。
+・本来なら絶対に手を出してはいけない存在。事もあろうか彼に大型の受注待ち中に、賭けチンチロの勝負を仕掛けてしまい[[マックさん>>ライトスターボーイ]]に乗せられ、20億の借金をしてまで勝負をし現在は彼に26億負け中である。
+・&openclose(show=⚠️禁忌情報⚠️){>&color(#F54738){彼のコスプレとして「HonD」がある。}}
+[[安城さん　サトシ>>安城　成]]
+・[[ALLIN]]構成員
+・この街で1番最初に出会い1番最初に詐欺られた男。
+・本来8000円のトランシーバーを10万円で買わされ、その時に因縁ができ、[[チンピラ>>Lv〇　チンピラ]]にスライディングを教えて貰いスライディングでやり返した。
+[[タラちゃん　サトシ>>タラ　ちゃん]]
+・[[麻陀羅組]]組長
+・🔰の頃に一緒に素材を集めたりアルバイトをした仲
+・「ボス」と「構成員」という立場ができた今となってもイジりあったりと仲が良い。
+・ジャムじじぃでPANを売り歩いていた時突如心無きに襲われたが、タラちゃんが助けてくれ、ジャムじじぃ（&s(){マスオさん}）とタラちゃんというコラボを果たした。
+・実は彼のモノマネができる。
+[[エドさん　サトシ>>エド・エトワール]]
+・元[[GBC>>GoodbyeCircus]]団員
+・この街で初めてのソウルフレンド。彼との出会いがなければ[[GBC>>GoodbyeCircus]]に入団する事はなかった。彼が[[GBC>>GoodbyeCircus]]を脱退した際には、感謝、困惑、決別を込めた拳を入れた。最後は彼のおかげで[[GBC>>GoodbyeCircus]]に入れ、強くなれた事の感謝を告げた。
+[[ネケ　サトシ>>ネケ　ニマス]]
+・元[[GBC>>GoodbyeCircus]]団員
+・この街に来る前からの知り合いで、よく遊んだりふざけあったりしている。彼に車を貸すとボコボコにされてしまう。相当お金に困ってるようで、よく一緒に犯罪をする。あっさり仲間を売る場面が何度かある。
+・よく恋愛などで不毛なマウント合戦があったが、サトシが合コンでマッチングした事によりネケはサトシに勝てなくなってしまった。
+・[[レンレン>>帝　レン]]から電話で脱退した事を伝えられ「どうなってんだよおお！！」と驚きが爆発した。
+[[ジョーカーさん　生卵>>半沢　直ふぃ]]
+・サトシが変装すると狙って来てるのではないかと思うくらい必ず会う。
+#endregion
+//
+*&size(22){&color(#fff){&size(32){&color(#ffff00){ガ}}レージ &icon_fa(fa fa-car)}}
+#region (開く)
+
+#table_style(head=center:#ff0000:#FFF){車種=#00008b:#FFF:center:bold,メーカー/車両名=center,カラー=center,購入日=center,概要=center}
+|~車種|~メーカー/車両名|~カラー|~購入日|~概要|h
+|MIDDLE:&icon_fa(fa fa-car)|MIDDLE:&bold(){Benefactor/Panto}|MIDDLE:🟥⬜️|MIDDLE:2023/09/17|この街で初めて入手した車。モンスターボールカラーに塗装されている。&br()悪ふざけでフルカスし[[大佐>>ネズ]]に怒られた。詳しくは[[こちら>>https://youtu.be/ctNmOsis2PY?si=D_G8eaEusRfq5FqF]]|
+|&icon_fa(fa fa-car)|&bold(){Zirconium/Journey}|🟥⬜️|2023/09/25|素材集め用に購入。|
+|&icon_fa(fa fa-motorcycle)|&bold(){LCC/Hexer}|⬛|2023/09/25|初めて購入したバイク。ターミネーターのコスプレに合う。|
+|&icon_fa(fa fa-car)|&bold(){Vapid/Speedo Custom}|⬛|2023/09/27|素材集め用に[[竹井さん>>竹井　勝痔]]から借金して購入。|
+|&icon_fa(fa fa-motorcycle)|&bold(){Western Motorcycle Company/Nightblade}|⬜️|2023/10/01|Hexer購入時に悩んだ末ようやく購入。|
+|&icon_fa(fa fa-car)|&bold(){Canis/Freecrawler}|⬛|2023/10/02|街を去る[[山本さん>>山本　龍也]]から格安で購入。|
+|&icon_fa(fa fa-car)|&bold(){Declasse/Vigero ZX}|🟨,⬛🟥|2023/10/09|[[竹井さん>>竹井　勝痔]]から購入。その後[[大佐>>ネズ]]にカスタムして貰い[[レン君>>帝　レン]]にプレゼント。|
+|&icon_fa(fa fa-motorcycle)|&bold(){Nagasaki/Shinobi}|🟨|2023/10/15|主にレースに使用。10/27に[[うさぎさん>>山田　パルコ]]にフルカスして貰う。|
+|MIDDLE:&icon_fa(fa fa-car)|MIDDLE:&bold(){Vapid/Speedo Custom}|MIDDLE:🟨|MIDDLE:2023/10/17|猫カフェ用に購入。文化祭などで活躍。&br()BMCの女の子の中から[[サウ汰さん>>星唄　サウ汰]]を選びカスタムして貰う。|
+|MIDDLE:&icon_fa(fa fa-car)|MIDDLE:&bold(){Canis/Kamacho}|MIDDLE:🟨|MIDDLE:2023/11/12|[[マヨマヨ>>チェン　マヨ]]と一緒に購入。フルカスもその場で頼み[[大川さん>>大　川]]からは&br()「流石っす、サトシはこう見えて漢気あるからな」と言われる。|
+|MIDDLE:&icon_fa(fa fa-motorcycle)|&bold(){Pegassi/FaggioMod}|🟨|2023/11/14|[[葛城さん>>葛城　司]]におすすめされ購入。|
+|MIDDLE:&icon_fa(fa fa-motorcycle)|MIDDLE:&bold(){Western Motorcycle Company/Powersurge}|MIDDLE:🟦|MIDDLE:2023/11/15|電動バイクであったはずのバイク。経済的に最強すぎた為、ガソリン式になる。&br()[[大佐>>ネズ]]にカスタムして貰い、コリンクカラーに塗装されている。|
+|&icon_fa(fa fa-car)|&bold(){Weeny/Peanut}|🟥⬜️|2023/11/18|Peanutブームに合わせ購入。[[大佐>>ネズ]]にカスタムして貰う。|
+|MIDDLE:&icon_fa(fa fa-car)|MIDDLE:&bold(){Weeny/Peanut}|MIDDLE:🟥🟦|MIDDLE:2023/11/21|ピーナッツレースの際、カスタム依頼で預けていた為一緒に参加した[[店長>>近藤　武蔵]]の厚意で&br()2台目を買って貰う。マクドナルドさんをイメージしたカラーリングが施してある。|
+|MIDDLE:&icon_fa(fa fa-car)|MIDDLE:&bold(){Dinka/Jester}|MIDDLE:⬛🟨|MIDDLE:2023/11/28|逃走用に購入したスポーツカー。[[大佐>>ネズ]]の好きなポケモンである&br()ブラッキーのカラーリングが施してある。通称サトシ様専用ブラッキー。|
+|&icon_fa(fa fa-car)|&bold(){Bürgerfahrzeug/Club}|🟨🟦|2023/12/17|親友の[[豆やん]]にカスタムして貰う。炎のペイントが施されている。|
+|&icon_fa(fa fa-car)|&bold(){Nagasaki Snowmobile}|🟨|2023/12/24|ロスサントスの雪は短くあまり出番がなかった。|
+|MIDDLE:&icon_fa(fa fa-motorcycle)|MIDDLE:&bold(){Dinka/Vindicator}|⬛🟩|2024/01/09|ターミネーターのT1000のコスプレに合わせ購入。E筋肉でターボが使える。|
+|MIDDLE:&icon_fa(fa fa-helicopter)|MIDDLE:&bold(){Maibatsu/Frogger}|MIDDLE:🟦|MIDDLE:2024/01/16|[[らみさん>>Kohana Lami]]から受領。 GBCとサトシのカラーを&br()イメージしたメタリックブルーにペイントされている。|
+|MIDDLE:&icon_fa(fa fa-car)|MIDDLE:&bold(){Declasse/Vigero ZX}|MIDDLE:⬜🟦|MIDDLE:2024/01/20|一台目を[[レン君>>帝　レン]]にプレゼントした際、カスタムの&br()豊富さに惚れ再度購入。お揃いカラーにしてある。|
+|MIDDLE:&icon_fa(fa fa-car)|MIDDLE:&bold(){Vapid/Speedo}|⬜|2024/02/20|角刈りレースの賞金で購入。|
+|&icon_fa(fa fa-car)|&bold(){Bürgerfahrzeug/Surfer Custom}|🟫|2024/3/30|新しい事業の為に購入、アンパンマン号をイメージしている。|
+|MIDDLE:&icon_fa(fa fa-car)|MIDDLE:&bold(){Ubermacht/Revolter}|MIDDLE:🟩|MIDDLE:2024/05/22|[[上田　さん]]からRevolterを購入し、[[お爺ちゃん>>つか山　天乃進]]にカスタムを頼む。お爺ちゃん&br()曰く、サトシをイメージしてGB(ゲームボーイ)カラー仕様になっている。|
+|MIDDLE:&icon_fa(fa fa-car)|MIDDLE:&bold(){Progen/Itali GTO}|MIDDLE:🟨|MIDDLE:2024/06/20|[[ねずみさん>>えぐち　きの子]]から購入し、カスタムしてもらった。&br()外装は黄色(オレンジ)で内装は青。前から見ると猫の顔のようになっている。|
+#endregion
+//
+#include(真新　サトシ/エピソード1)
+*&size(22){&color(#fff){&size(32){&color(#ffff00){ア}}ーカイブ &icon_fa(fa fa-youtube-play)}}
+//
+***2023年
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/09/17|1|[[ロスサントスで新生活>>https://www.youtube.com/watch?v=nWrdK_c_LzU]]|Youtube|
+|23/09/18|2|[[ロスサントスの皆んなは優しいなぁ....>>https://www.youtube.com/watch?v=vwJ6e64IyCk]]|Youtube|
+|23/09/20|3|[[今日で初心者卒業？>>https://www.youtube.com/watch?v=vYlBSVIEWOU]]|Youtube|
+|23/09/22|4|[[今日は何をしようかな？>>https://www.youtube.com/watch?v=CBysN8tr1WA]]|Youtube|
+|23/09/25|5|[[新しくジャーニーとバイクを買う>>https://www.youtube.com/watch?v=6qIJ5hiDCwk]]|Youtube(Twitch配信)|
+|23/09/27|6|[[若葉マーク取れたら大変な事になった>>https://www.youtube.com/watch?v=al3myJYFx6c]]|Youtube|
+|23/09/29|7|[[同情するなら金をくれ>>https://www.youtube.com/live/5YH8U2EcuOw?si=euL2vcw-DGuN9SlO]]|Youtube|
+|23/10/01|8|[[今日もせっせと働きます>>https://www.youtube.com/live/CiiUIYO5e0E?si=Q3XHEgaRfXqI8iFa]]|Youtube|
+|23/10/02|9|[[昨日の依頼遂行と新しい世界への挑戦>>https://www.youtube.com/live/fItu7jKNa5c?si=w59yAO55W8Tvd_uc]]|Youtube|
+|23/10/04|10|[[今日は何が起こるのかな？>>https://www.youtube.com/live/CI_71KMAOAE?si=GUsutBRNgWHmADOI]]|Youtube|
+|23/10/06|11|[[初仕事が影武者ってまじ？！w>>https://www.youtube.com/live/3v3LN5kRBwY?si=purPY6oMBzOKrSBk]]|Youtube|
+|23/10/08|12|[[初の大仕事でｵﾃﾞﾉｶﾗﾀﾞﾊﾎﾞﾄﾞﾎﾞﾄﾞﾀﾞ!>>https://www.youtube.com/live/9zBcFvetHKE?si=UVlz7i7ZUV89soY]]|Youtube|
+|23/10/09|13|[[素材集め&合成しつつ色々としましょ>>https://www.youtube.com/live/e4VmgTKD6w8?si=ao2fIKOUfyBNXwQa]]|Youtube|
+|23/10/10|14|[[色々あったけどこの街に来て2週間経ちました>>https://www.youtube.com/live/AHluxG5vDi0?si=Xj6wuXRyTWv8uyL-]]|Youtube|
+|23/10/11|15|[[今日は少しだけ街で作業かな>>https://www.youtube.com/live/iRiolCENWog?si=6tAEQHatUIQOtWDA]]|Youtube|
+|23/10/13|16|[[仕事欲しいなぁ....>>https://www.youtube.com/live/vvwRyHOTOt8?si=wGOCdOYx4lELMWek]]|Youtube|
+|23/10/14|17|[[猫カフェアルバイト体験日です>>https://www.youtube.com/live/0Kl3pP3nQsY?si=D7DVALdTndRdZLo4]]|Youtube|
+|23/10/15|18|[[猫カフェ修行&新しい家族が増えました>>https://youtu.be/lE_vQ-HKdag?si=69LIIQZKiG8nQumT]]|Youtube(Twitch配信)|
+|23/10/17|19|[[白市民ぽい黒市民でがんばる>>https://www.youtube.com/live/_GpE58w8U7c?si=O1kTIt9-_XJJaCt6]]|Youtube|
+|23/10/19|20|[[ナゾノクサ以来の早起きです！>>https://www.youtube.com/live/xpLUgTdObOc?si=skNuMr9Yc_r7rDB3]]|Youtube|
+|23/10/20|21|[[台本を頂いたので皆んなで練習>>https://www.youtube.com/live/X19kZxls2qE?si=zC3CdE4GH11bTrud]]|Youtube|
+|23/10/21|22|[[今日は文化祭で猫カフェ営業！！！>>https://www.youtube.com/live/acS5xF8dVgw?si=Te0vYbHhDYjmqA5C]]|Youtube|
+|23/10/22|23|[[舞台の練習する>>https://www.youtube.com/live/3kgdGDHZIqE?si=ytOYuoi1zb1gyZzr]]|Youtube|
+|23/10/23|24|[[今日は少しだけにするつもりが....>>https://www.youtube.com/live/35BRhUSo1r0?si=oo_9Hg1R9mwUEdy4]]|Youtube|
+|23/10/25|25|[[舞台まで後3日ッてま？>>https://www.youtube.com/live/d-Vgx1z-iNY?si=bKy9VbZsXNjLC-Su]]|Youtube|
+|23/10/26|26|[[ああああ緊張してきたよ....w>>https://www.youtube.com/live/r3s-CsNKSZc?si=NkwdXuUWG1po_flc]]|Youtube|
+|23/10/27|27|[[明日本番ですね....>>https://www.youtube.com/live/8JUpALX-RgE?si=qbpoi5PfCtowXGHF]]|Youtube|
+|23/10/28|28|[[舞台本番>>https://www.youtube.com/live/dWeofBHxMVA?si=NdRD77rlUgda0Z70]]|Youtube|
+|23/10/30|29|[[今日は何が起こるかな？>>https://www.youtube.com/live/YYD0XdffkTk?si=DZTmCSxT1s7AjsTU]]|Youtube|
+|23/10/31|30|[[ハッピーハロウィンDAZE☆>>https://www.youtube.com/live/thyAJeAOz6k?si=UGHJZosXWPS-6TbB]]|Youtube|
+|23/11/04|31|[[3日振りの街はどんな感じかな？>>https://www.youtube.com/live/RJJ226aQWCs?si=r8uR5yI2M9zxzQKL]]|Youtube|
+|23/11/05|32|[[物件が色々と変わったらしいけど....>>https://www.youtube.com/live/iWdp7AfIp24?si=J3FYrXQDOArCTmWU]]|Youtube|
+|23/11/08|33|[[僕は...白市民だよね???>>https://www.youtube.com/live/QK5A6Zjs9p4?si=ZmVX1p55aH1-Vlsg]]|Youtube|
+|23/11/09|34|[[GBC木曜日定休日ってマジ？w>>https://www.youtube.com/live/bLflzqZ4NfQ?si=PD4ktIe2d6JVDAAH]]|Youtube|
+|23/11/11|35|[[家を買おうと思ったら客船とオイルリグ2個もやる事になったw>>https://www.youtube.com/live/o8NkmNzNijs?si=aM3jHr7Xwtidfp-o]]|Youtube|
+|23/11/12|36|[[家買うか・黒金洗浄か・猫カフェか>>https://www.youtube.com/live/-duUgWA_CZo?si=W2Isahc2xHTSn05_]]|Youtube|
+|23/11/13|37|[[イベントあるらしいけど...猫カフェどうなるの？>>https://www.youtube.com/live/BxbR9Y8CHWI?si=ANELAr0owXAsJV0Z]]|Youtube|
+|23/11/14|38|[[猫カフェ・家具・リサイクル・黒金洗浄作業多め>>https://youtu.be/kSLFgU9DfjU?si=mhdPI0Ks5RaO2Ci_]]|Youtube(Twitch配信)|
+|23/11/15|39 |[[ゆっくり色々と進めて行こう>>https://youtu.be/Y18c2gSmcHE?si=ULSL0pn9xcUDM_K-]]|Youtube(Twitch配信)|
+|23/11/17|40 |[[全財産100万円は...ヤバイw>>https://youtu.be/CmxWew17wwc?si=2CXeg2HJ9d-HLx1E]]|Youtube(Twitch配信)|
+|23/11/18|41 |[[目標の2000万まであと少し....>>https://youtu.be/B7v7hOENhUA?si=4MxN7CCkRCx3JYAG]]|Youtube(Twitch配信)|
+|23/11/19|42 |[[今日はお別れの日 猫カフェメインで働きます！>>https://youtu.be/6S3s9WJWIVo?si=kzzLDg5Zr5whCiJW]]|Youtube(Twitch配信)|
+|23/11/21|43 |[[結婚前夜です>>https://youtu.be/oLttt4eg2_0?si=cVa2p3anOxHzGyCk]]|Youtube(Twitch配信)|
+|23/11/22|44 |[[ウメさん・馬ウアーさんの結婚式>>https://youtu.be/rO219uPBu-g?si=s8rYUDBIVwLn1gDY]]|Youtube(Twitch配信)|
+|23/11/24|45 |[[結婚式プチ打ち上げからのテニスサークル設立>>https://youtu.be/gCJ16HBehxY?si=WIVXe5TYkZU1wkHa]]|Youtube(Twitch配信)|
+|23/11/26|46 |[[マックさんが思ってるこれからのGBC>>https://youtu.be/-zsiyWqiELo?si=NQrwzoLnkzX0I33a]]|Youtube(Twitch配信)|
+|23/11/28|47 |[[色々あったから色々がんばるし報告もする！！！>>https://youtu.be/DMgZb1R3ElE?si=tV7PgpN9bmTETzgI]]|Youtube(Twitch配信)|
+|23/11/29|48 |[[ヘリがもっとうまくなりたいな>>https://youtu.be/OLxRkXgv6nw?si=_AmXkS798maKjTFF]]|Youtube(Twitch配信)|
+|23/11/30|49 |[[とにかくヘリが上手くなりたいの！>>https://youtu.be/Z5zHXWsaeT0?si=Q05o5fkzvOnFmJ9f]]|Youtube(Twitch配信)|
+|23/12/02|50 |[[大型客船とマクドナルドさん抜きの犯罪>>https://youtu.be/5HM3VCAWMRA?si=uNhSa8g1eY3SgDiU]]|Youtube(Twitch配信)|
+|23/12/04|51 |[[何しようか思いつかない日もある>>https://youtu.be/aLDdNzGS74U?si=ISQ1ir5CQ8kRWkVN]]|Youtube(Twitch配信)|
+|23/12/08|52 |[[初めてサトシが捕まった日 黒市民になりました！>>https://youtu.be/GIgHliDgKVE?si=urnXCsSeJ7pbEenh]]|Youtube(Twitch配信)|
+|23/12/10|53 |[[久しぶりに渡戸リーさんとチルタイムコスプレ！>>https://youtu.be/Eyrt_2egDq8?si=DWjXbK6TKPf9ztir]]|Youtube(Twitch配信)|
+|23/12/12|54 |[[100万円のモルカーが約3000万円で化け物カーになった日>>https://youtu.be/0_4EStN86KA?si=awYiX89yCiT3v0-y]]|Youtube(Twitch配信)|
+|23/12/14|55 |[[C帯レースあったら絶対出るマン>>https://youtu.be/G60W6t5W9io?si=XtsKOW2ao7ABgv7i]]|Youtube(Twitch配信)|
+|23/12/15|56 |[[仮想通貨・C帯レース...お金が欲しい！>>https://youtu.be/qNJ710BaHzQ?si=05RDe-AB0V5bJ5X2]]|Youtube(Twitch配信)|
+|23/12/16|57 |[[起きて10秒で大型ミッション発生！！！マクドさんに相談>>https://youtu.be/DDrKpGkkNpQ?si=pwxgaua0kUCGbaPV]]|Youtube(Twitch配信)|
+|23/12/17|58 |[[一人で犯罪をする準備と仮想通貨>>https://youtu.be/3L7PwppkAIQ?si=Mdaecy5szMWsvT-g]]|Youtube(Twitch配信)|
+|23/12/19|59 |[[マクドさんのクリスマスプレゼント本気で探す！！！>>https://youtu.be/64T-vx-yzak?si=6S_o6tSr_gY9iU2r]]|Youtube(Twitch配信)|
+|23/12/21|60 |[[猫カフェで働いてレースに出て山野民生をイジり倒す>>https://youtu.be/G6akd0SFd9E?si=rNzFXXdKbLNEzPVE]]|Youtube(Twitch配信)|
+|23/12/22|61 |[[コスメショップが出来たのでHIKKOUになって遊びまくる>>https://youtu.be/nrc6H-XkDVU?si=xKc-TN2nzrRRl0-X]]|Youtube(Twitch配信)|
+|23/12/25|62 |[[大型客船勉強会&マクドさんのプレゼント購入！！！>>https://youtu.be/eMtLfDjqhzg?si=pJa7-kPfz-1xN08Y]]|Youtube(Twitch配信)|
+|23/12/25|63 |[[初めてのコンビニ強盗&即興クリスマスライブ！(ダモリさん爆誕)&ALLIN抗争話&マクドさんにプレゼント！>>https://youtu.be/lIK8n-JEw4k?si=H3LloDQFPRUmrcKS]]|Youtube(Twitch配信)|
+|23/12/26|64 |[[らみさんと犯罪しまくり歪みまくり&初めての銀行強盗(師匠はトラ雄)>>https://youtu.be/t8k9y1eSIXo?si=_7seqtgHWgYFLaax]]|Youtube(Twitch配信)|
+|23/12/27|65 |[[大型飛行場ミッションでサトシだけ指名手配！！！>>https://youtu.be/O5iQKaEuVfE?si=nXT8OBr_G_jx1AIC]]|Youtube(Twitch配信)|
+|23/12/28|66 |[[遊擬の変装で指名手配を逃げ切れるか？>>https://youtu.be/pr64jyrF0Dg?si=QaaI7iZbAAYXIMU-]]|Youtube(Twitch配信)|
+|23/12/29|67 |[[指名手配の時効は 12/30 01:49>>https://youtu.be/Be6RcrEltK0?si=VlHgAFo15pTaP7FY]]|Youtube(Twitch配信)|
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***2024年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|24/01/02|68 |[[新年明けましておめでとうございます！！！賽銭箱から色々盗みます！！！>>https://youtu.be/_BYhNmBvq-M?si=emGjUjuGj6H-6J5f]]|Youtube(Twitch配信)|
+|24/01/04|69 |[[今年初めての大型は飛行場だぁ！！！！>>https://youtu.be/o3hwtoOhcvI?si=5yg8_CCfnEho0_NJ]]|Youtube(Twitch配信)|
+|24/01/05|70 |[[ノーリミとの合同大型！！！>>https://youtu.be/gN26TzAhAGk?si=Ei_G2NjX1dqLcUkd]]|Youtube(Twitch配信)|
+|24/01/07|71 |[[サーマルミッション初成功！！！>>https://youtu.be/pP0qnFwMgf4?si=bE4_R3q021kFgkCp]]|Youtube(Twitch配信)|
+|24/01/09|72 |[[首ゴリゴリ寝違えサトシの1日>>https://youtu.be/BXxsNuWVLgU?si=-3fYxIYEklzuK2d8]]|Youtube(Twitch配信)|
+|24/01/10|73 |[[変装の「T1マン」で街の中を練り歩いて交流する>>https://youtu.be/euXuwAYStLk?si=MeG_xrHtco-7oxXW]]|Youtube(Twitch配信)|
+|24/01/12|74 |[[運転上手くなりたい>>https://youtu.be/H8IvBcebWAU?si=Uqhrq3P_uSnpHSJ3]]|Youtube(Twitch配信)|
+|24/01/13|75 |[[色々模索中>>https://youtu.be/TCEwHH-rECU?si=6r5wlvwnaKleIiaW]]|Youtube(Twitch配信)|
+|24/01/16|76 |[[2日ぶりです>>https://youtu.be/fgDYMjF7dKI?si=5ibECtvZmiSLQB0a]]|Youtube(Twitch配信)|
+|24/01/17|77 |[[頭の回線との闘い>>https://youtu.be/f62z8TFSny0?si=YOhJZp1yNAh1HutG]]|Youtube(Twitch配信)|
+|24/01/19|78 |[[自分の立ち位置や色々考える日>>https://m.youtube.com/watch?24v=Ce4kPCtByjg]]|Youtube(Twitch配信)|
+|24/01/20|79 |[[寒い....>>https://m.youtube.com/watch?v=VQDv_38vS24]]|Youtube(Twitch配信)|
+|24/01/21|80 |[[今日もよろしくお願いします！！！>>https://m.youtube.com/watch?v=B8nSm67DwTg]]|Youtube(Twitch配信)|
+|24/01/23|81 |[[合同大型多めの日>>https://m.youtube.com/watch?v=WN-gSXecunU]]|Youtube(Twitch配信)|
+|24/01/24|82 |[[お試しキャバクラの日>>https://m.youtube.com/watch?v=3GG3Vy7ZvgE]]|Youtube(Twitch配信)|
+|24/01/25|83 |[[餡ブレラとの1時間にも及ぶ合同オイルリグ>>https://m.youtube.com/watch?v=Jqou-H0I0VI]]|Youtube(Twitch配信)|
+|24/01/28|84 |[[ズズさんの奮闘をGBCでお応援する日>>https://m.youtube.com/watch?v=VPRDHRIesiA]]|Youtube(Twitch配信)|
+|24/01/29|85 |[[1人で大型に行きたくて飛行場行ってみた日>>https://m.youtube.com/watch?v=Jax6mFXoFqU&t=2970s]]|Youtube(Twitch配信)|
+|24/02/01|86 |[[早起きしてコスプレして新店舗のラーメン屋に1番目に並んだ日>>https://youtu.be/jaGxgJKAYKc?si=wwBXAv9RktphEOG8]]|Youtube(Twitch配信)|
+|24/02/02|87 |[[キャバクラで警察と一悶着あった日>>https://youtu.be/4i65-ImwXr0?si=BbSAhB0IVn3TvL3r]]|Youtube(Twitch配信)|
+|24/02/03|88 |[[ボイラさんがスケスケアジトの中に居た日>>https://youtu.be/veiZPbzP4y0?si=vwaMmnBaGobyJe4l]]|Youtube(Twitch配信)|
+|24/02/04|89 |[[渡戸リーGBC合同大型ミッション！！！ ボイメキ客船デートの日>>https://m.youtube.com/watch?v=lXObgxIF38cl]]|Youtube(Twitch配信)|
+|24/02/06|90 |[[新しく3億7000万のフロガー買った日>>https://m.youtube.com/watch?v=EDIZfQ1cQPkl]]|Youtube(Twitch配信)|
+|24/02/09|91 |[[黒い事をやりまくった日>>https://m.youtube.com/watch?v=zPVbWbFxeKM]]|Youtube(Twitch配信)|
+|24/02/13|92 |[[大型4回フルで行ってその後家探しした日>>https://youtu.be/BiRlPXba-UY?si=szvr70sCAGDdJ-_Z]]|Youtube(Twitch配信)|
+|24/02/15|93 |[[初めてのGBC社員旅行をした日>>https://youtu.be/wGmyFJhF2D4?si=dcrVQYXhQ758MwI7]]|Youtube(Twitch配信)|
+|24/02/16|94 |[[期待の新人カールちゃんが誕生した日>>https://youtu.be/OSRPQvlyV9E?si=pietNdVz5i4iMQZG]]|Youtube(Twitch配信)|
+|24/02/17|95 |[[新店舗 麻SICK RECORDS オープンでレース出たり花火上げたりした日>>https://youtu.be/nL5ccbAGVZA?si=QrTrKswWGvcsgGVP]]|Youtube(Twitch配信)|
+|24/02/20|96 |[[GBCの今後を占って合同大型やって車買って猫カフェで働いた日>>https://youtu.be/Cz_c0dVl7rU?si=2gu55Qb-GJbAmsIx]]|Youtube(Twitch配信)|
+|24/02/22|97 |[[Mon Dさんとチンチロして20億の借金が出来た日 ※最後衛星外有り>>https://youtu.be/rav0VlByMUM?si=M6rb2Hd4ZUed_jsX]]|Youtube(Twitch配信)|
+|24/02/24|98 |[[抗争のためにGBC皆んなでレースした日>>https://youtu.be/klzW3j8E21g?si=ayv9w7tJ91PGOw0T]]|Youtube(Twitch配信)|
+|24/02/27|99 |[[自動販売機全箇所回って日々さんに引かれた日>>https://youtu.be/9UmcOyNuLOE?si=9QZKYbx1GohZ6scn]]|Youtube(Twitch配信)|
+|24/02/28|100 |[[深夜3時にマックさんが急に時代劇をすると言った日>>https://youtu.be/xYgOCyz_qLE?si=f_6lgkHK9eAOCMAi]]|Youtube(Twitch配信)|
+|24/03/01|101 |[[幻のキャバ嬢「深海海夢」誕生した日>>https://youtu.be/iOfSSqKvFd8?si=boi418h4LT8MM8kb]]|Youtube(Twitch配信)|
+|24/03/03|102 |[[宝石店にえだまめもんのプレゼントGETしに行った日>>https://youtu.be/8OKvvWm6vTI?si=s6fjdrEM2tcI8ZH4]]|Youtube(Twitch配信)|
+|24/03/06|103 |[[期待の新人カールちゃんがプスカ大佐にアフターしてもらった日>>https://youtu.be/HVKNvQF7jhw?si=kJKP0vdfsFSFwK6Y]]|Youtube(Twitch配信)|
+|24/03/08|104 |[[早番から花摘んでコンビニしての全力チルした日>>https://youtu.be/jxDCwNlj9BE?si=SA9Q6YedFoGUK1ZU]]|Youtube(Twitch配信)|
+|24/03/10|105 |[[「こはならみ」から始まるGBC負の裏切りの連鎖劇場の日>>https://youtu.be/09PXNGS7Qlg?si=aBG2kh-ax6oVB4LV]]|Youtube(Twitch配信)|
+|24/03/13|106 |[[ホワイトデー物産展・大喜利大会の予選・キャバクラ出勤した日>>https://youtu.be/QY2wn7BMp_E?si=38QtscA0ug1UPkJI]]|Youtube(Twitch配信)|
+|24/03/15|107 |[[起床早々ALLINが警察とバチバチしてたのでヘリで突っ込んでみた日>>https://youtu.be/7u32CSk79lk?si=aAj9yKXQCYslKOt_ ]]|Youtube(Twitch配信)|
+|24/03/16|108 |[[大喜利大会本番！！！サトシは外でお客様案内をした日>>https://youtu.be/XSvSn720kYE?si=YNVHhiadfK_CXqM-]]|Youtube(Twitch配信)|
+|24/03/19|109 |[[monDさんに6億課金しに行った日>>https://youtu.be/Ed0lrlqGVT8?si=heZTqFObwCpmzM-E ]]|Youtube(Twitch配信)|
+|24/03/20|110 |[[キモキモオイベント準備でキモキモホ誕生した日>>https://youtu.be/unD-ubVDfpc?si=ltTHk8y3qiVeb3Do]]|Youtube(Twitch配信)|
+|24/03/22|111 |[[警察署から脱出してレース抗争の練習した日>>https://youtu.be/Yi2lPEocRbs?si=8XTtzKdcGrl1ilvK]]|Youtube(Twitch配信)|
+|24/03/23|112 |[[キモキモオイベント本番の日(歪みで落ちまくり)>>https://youtu.be/X8gHvlT5nwo?si=--xKzKGPES9lCnJL]]|Youtube(Twitch配信)|
+|24/03/24|113 |[[ALLINとの抗争当日>>https://youtu.be/iMQUuBhscfM?si=csdGn2plrkZXIs2T]]|Youtube(Twitch配信)|
+|24/03/27|114 |[[試作新薬で色々やらかしちゃった日>>https://youtu.be/Qt8DCLJO2R8?si=-H3q9pIdb4lrMwQ3]]|Youtube(Twitch配信)|
+|24/03/30|115 |[[起きた瞬間1時間FIB前立ち会議が始まった日>>https://youtu.be/voDrPF5LvHs?si=0NGj3oMQ8LvrCw14]]|Youtube(Twitch配信)|
+|24/04/09|116 |[[1週間ぶりに起きたので皆んなで空き巣や大型を楽しんだ日>>https://youtu.be/ImmHtep9FaA?si=EMzsbI2PTbm7niKO]]|Youtube(Twitch配信)|
+|24/04/11|117 |[[久しぶりに猫カフェ開けて大型して歪んで花摘んで遊擬になった日>>https://youtu.be/Zp5HaPETAag?si=_AG4wVR4QfsrI8yG]]|Youtube(Twitch配信)|
+|24/04/12|118 |[[製作中の落語を聞いてもらって皆んなでサッカーしてサバゲーしてヘリ練して墜落した日>>https://youtu.be/YOok5rWqM-g?si=k9vAYse6IcDLsKoM]]|Youtube(Twitch配信)|
+|24/04/13|119 |[[UNパンマンに会いに行って競輪イベント見てGBC車鬼ごっこをした日>>https://youtu.be/iIzElncfoks?si=mu4drwJZtnWEPDts]]|Youtube(Twitch配信)|
+|24/04/17|120 |[[川下りして卓球して衛星外ピン子に出会って大型やって電車に無賃乗車頑張った日>>https://youtu.be/yQTL9U2BAa8?si=7KyK8uIWtp4wPVR5]]|Youtube(Twitch配信)|
+|24/04/20|121 |[[JAMおじさんと会ってどら衛門どら身になってGBCで花見をしに行って炎上した日>>https://youtu.be/0a0skDoJij4?si=TQpb7wZ-r8Jx64FN]]|Youtube(Twitch配信)|
+|24/04/21|122 |[[団員の新居探してたらマックさん居なくて寂しがってる馬ウワーさんに捕まった日>>https://youtu.be/IYg6_--s550?si=3o48L36dbqbo8NOk]]|Youtube(Twitch配信)|
+|24/04/23|123 |[[GBCでアヒルボート乗って川下りしに行って運動会の前日の日>>https://youtu.be/oKo_TSlsdaU?si=ivutL6vLRWkLt31R]]|Youtube(Twitch配信)|
+|24/04/24|124 |[[ラビスピ運動会当日！！！GBC応援団を頑張った日>>https://youtu.be/-_6W_EJ6bCc?si=5qoFCsEoeb-vG0T-]]|Youtube(Twitch配信)|
+|24/04/26|125 |[[帝レン親衛隊出動！GBCの新しい仲間と別れ...があった日>>https://youtu.be/DdTHuyXUo-0?si=-E1m6dVWHKt9m3nl]]|Youtube(Twitch配信)|
+|24/04/27|126 |[[起きてすぐに餡ブレラ大型合同してカラオケ屋で初めて歌を披露した日>>https://youtu.be/VrzA_AUDxKk?si=RwxcuRhyTYAcPZ3t]]|Youtube(Twitch配信)|
+|24/04/30|127 |[[客船横取りに行って今井さんからどら焼き100個買ってパンプ金欠になった日>>https://youtu.be/BK_pyI9fcGM?si=hB_yXQ5gyPUMCP-M]]|Youtube(Twitch配信)|
+|24/05/02|128 |[[即興で初めてウホウホウホ・小規模GBCカジノ王・瞑想までリーさんの牧場手伝い>>https://youtu.be/TwyNCU0uy50?si=dxM2iMSN713Fdeea]]|Youtube(Twitch配信)|
+|24/05/04|129 |[[朝からコンビニバイト・大型客船横取り・どらイオリ初対面・裏切りのネケニマス・即興本当にあった怖い話>>https://youtu.be/9C_QhYvVYyM?si=ZsApyV9XXqfqwiGg]]|Youtube(Twitch配信)|
+|24/05/11|130 |[[約1週間ダウンしてたサトシ・GBC緊急事態訓練・大型客船・瞑想後のこはる君と武器研究会>>https://youtu.be/Z1vz2Dpm7f0?si=gvp1SpVeXBpnqmQz]]|Youtube(Twitch配信)|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***2026年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|26/04/01|1|[[転送された先の新たな街>>https://www.youtube.com/watch?v=6NAjOlhl3lI]]|Youtube(Twitch配信)|
+|26/04/05|2|[[転送された先の新たな街>>https://www.youtube.com/watch?v=pqAWjKHLCpI]]|Youtube(Twitch配信)|
+#endregion
+
+
+*&size(22){&color(#fff){&size(32){&color(#ffff00){ス}}トグラ外コラボ配信} &icon_fa(fa fa-youtube-play)}
+//}
+//
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right}
+|~配信日|~配信タイトル|~備考|h
+|23/12/30|[[ストグラGBC忘年会！！！>>https://www.youtube.com/live/xWIfdx6Lf2s?si=4FGRCJGIQqMzgHaI]]|Youtube|
+|24/09/30|[[【僕だけ実写】GBCでお喋りトーク【9月30日】>>https://www.youtube.com/live/H3-OFJZTWOM?si=4eArlQTztEoEPTla]]|Youtube|
+|10/21|[[【GBCコラボ配信】天開司さん・Rinさん・kameさん 雀魂をやるよ！！！【10月21日】>>https://www.youtube.com/live/rcxtq2x5aVw?si=9mbzh827p99MuanE]]|Youtube|
+|25/02/16|[[ストグラGBC 学力診断テスト ニャンコラス視点【ストグラ】【GBC/真新サトシ/ニャンコラス】>>https://www.youtube.com/live/VTqvr6-GgJY?si=TBdgTG-EhKcSraqA?si=MTE609PIc_Mqk9J_]]|Youtube|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+*&size(22){&color(#fff){&size(32){&color(#ffff00){投}}稿動画 &icon_fa(fa fa-youtube-play)}}
+//
+//
+***2023年
+#region(開く)
+#table_style(head=center:#e6e6fa){投稿日=right,日数=center}
+|~投稿日|~日数|~動画タイトル|~備考|h
+|23/10/06|1日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】街に来て初めて喋った人に騙されたお話＋α【ストリーマーグラセフ】【GTA5】>>https://youtu.be/20Cr0jcR8cc?si=cuJneFgyfQLnnl7X]]||
+|23/10/18|2日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】２日目にして○害現場を目撃！！！www ＋α【ストリーマーグラセフ】>>https://youtu.be/8skF4nO63Rw?si=aJObO3Woxw_Wvjai]]||
+|23/10/21|3日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】初めての職業体験は波瀾万丈過ぎたw＋α【ストリーマーグラセフ】>>https://youtu.be/ebrtzxYdJhI?si=W93OdwTlaBbL_8Rm]]||
+|23/10/23|4日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】初めての溶鉱炉でロスサントス一部になる瞬間を見ていまったwww＋α【ストリーマーグラセフ】>>https://youtu.be/Cns5K5nN5ZE?si=QT9BYk3i6AF3nir_]]||
+|23/11/01|5日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】一瞬で1000万が溶けるのを見てしまったwwww＋α【ストリーマーグラセフ】>>https://youtu.be/LNxwzWZmtNA?si=L9gubG9KFskKSbOB]]||
+|23/11/05|6日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】初心者マーク外れて1時間でやっちゃったw ＋α【ストリーマーグラセフ】>>https://youtu.be/8kcGdD3tPaY?si=UsLFEp24hpz4SkJQ]]||
+|23/11/06|7日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】北での孤独なダイビングは恐怖でしかなかったw＋α【ストリーマーグラセフ】>>https://youtu.be/uO1jr8RbhQ0?si=9KaZu4fvO_72hjMN]]||
+|23/11/14|8日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】半グレが居る事を知ってこのままで良いのかと考えた話＋α【ストリーマーグラセフ】>>https://youtu.be/jn2VRlG3-Sk?si=zIyW4qlAGaqEb8Mt]]||
+|23/11/15|9日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】真新サトシがGBCに入ったお話＋α【ストリーマーグラセフ】>>https://youtu.be/aZnbrGTy04E?si=A3wcqjUEdeGhVSaX]]||
+|23/11/25|35日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】起きて30秒で初の大型ミッションの呼び出しwww【真新サトシ/GBC】【ストリーマーグラセフ】>>https://youtu.be/rX3LBhxQ6W0?si=HNSDtyVrAgZcV0hZ]]||
+|23/11/28|10日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】GBCに入って初ミッションはらみさんの誕生日会w【真新サトシ:GBC】【ストリーマーグラセフ】>>https://youtu.be/kgtApR_1IGM?si=R1PYp7J_n5cpbVXm]]||
+|23/11/30|11日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】マクドナルド2号店が爆誕したピッツァボーイ事件！！！【真新サトシ/GBC】【ストリーマーグラセフ】>>https://youtu.be/rZQhMnP_0qY?si=zxwDUV_ez8pikW8F]]||
+|23/12/13|17日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】究極のアドリブ！！！スペシャルofスペシャル！！！【真新サトシ/GBC】【ストリーマーグラセフ】>>https://youtu.be/IQgx-gvWKYU?si=VGFgTCpgd9MixSIR]]||
+|23/12/16|53日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】お互いのコスプレ作ってBMCにお披露目しに行くwww【ぺこP/中村悠一/小花衣ももみ/にしのん/しとまき/BMC】【真新サトシ/GBC】>>https://youtu.be/jqTFf-NhvS0?si=_8P7_RkjiDTNlVTf]]||
+|23/12/17|13日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】民生おじいちゃんとの初めての出会い【ぺこP/バル子】【真新サトシ/GBC】>>https://youtu.be/evEwatN78iA?si=esGF4suTc8pRlS7S]]||
+|23/12/20|54日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】モルカーをフルカスしたらプスカ大佐を怒らせてしまったwww【中村悠一/ぺこP/Shiron/森野めるん/てんぷら】【真新サトシ/GBC】>>https://youtu.be/ctNmOsis2PY?si=GkmiA7IK4NjbFdoZ]]||
+|23/12/23|55日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】真面目な話の時にミカンを食べる新メンバー「ミカンの白筋」【ズズ/こはならむ/MOZU】【真新サトシ/GBC】>>https://youtu.be/cUWCDF_aoJw?si=W6o1bpyuChTTWoc5]]||
+|23/12/31|57日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】マクドナルドさんに胸の内を打ち明けた話【ライト/マクドナルド】【真新サトシ/GBC】>>https://youtu.be/gsSlk6Ihje0?si=RH4V5BVIKzbB5F_9]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***2024年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){投稿日=right,日数=center}
+|~投稿日|~日数|~動画タイトル|~備考|h
+|24/01/16|63日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】急遽開催クリスマスライブでMCダモリさん爆誕！！！＋α【ぺこP/こはならむ/ファン太/ライト/Rin/kame】【真新サトシ/GBC】>>https://youtu.be/PfTfhYGhkko?si=PQH2fZpM8PUbwohW]]||
+|24/01/25|69日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】GBCにはお金がありません劇場開催！！！【ライト/BOIRA/しょうじ/こはならむ/紅月サクヤ/ねけまる/kame/ズズ】【真新サトシ/GBC】>>https://youtu.be/P75KqM-qeXs?si=_JKCqZn35yROJcq9]]||
+|24/02/15|87日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】デート前夜にギャングアジトで聖地巡礼する警察www＋α【BOIRA/煌イヴ/こはならむ/カケチカラ/ろぜっくぴん/ペコP】【真新サトシ/GBC】>>https://youtu.be/1uyn5prYkRI?si=xZOafLdPsnucREdZ]]||
+|24/02/22|83日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】「とんこつ」の一言を全力でバカにするクソガキ2人＋α【真新サトシ/GBC】【ズズ/こはならむ/カケチカラ/ライト】>>https://m.youtube.com/watch?v=Ej0nmJbX0dk&list=PLU6U7siATdVygUXTobtYoNONMC0ismrAt&index=22&pp=iAQB]]||
+|24/03/11|90日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】らみさんの緊急会議の内容を予測するズズさんwww＋α【ズズ/こはならむ/ろぜっくぴん/しゅりぺ/kame/ねけまる】>>https://m.youtube.com/watch?v=JPCZpebD6U0]]||
+|24/03/29|93日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】GBCだけで初の社員旅行！！！【ライト/ズズ/紅月サクヤ/Rin/kame/ろぜっくぴん/しゅりぺ/カケチカラ/ねけまる/兎桃みみこ/天開司】【真新サトシ/GBC】>>https://m.youtube.com/watch?v=mN8K2csfZco]]||
+|24/04/19|94日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】無茶振りで誕生したキャバ嬢「期待の新人カールちゃん」【ライト/ズズ/ぺこP/ろぜっくぴん/骨霧島たいし/takera/ファン太/あしさんり/ぴらにあ】【真新サトシ/GBC】>>https://youtu.be/U-akbTpMzwY?si=pds54H0VRFIYzzvM]]||
+|24/04/26|105日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】プスカ大佐にカールで接客したら車を買うの勧められたw【中村悠一/ライト/兎桃みみこ/紅月サクヤ/こるぺん/小花衣ももみ/kame】>>https://youtu.be/hzXg_oDXiV8?si=H8mHeFQ51trCGldD]]||
+|24/05/05|117日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】突然現れた謎の男に無線番号を聞かれるモモコw【C pt/兎桃みみこ/こはならむ/紅月サクヤ/しゅりぺ/kame/ねけまる】>>https://youtu.be/SByrM8pNDcc?]]||
+|24/05/13|121日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】衛星外で出会う確率No.1のおもしれー女www【ろぜっくぴん/憩居ももあ/空衣御侍/ノビー/切嘛/天城てん/稲荷いろは/ねけまる】>>https://youtu.be/86uBcpckp0I?si=-WNG9GbVW3-fyrbfsi=K2CsQ9BrBq8F7io2]]||
+|24/05/17|126日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】音圧で何言ってるか理解出来なパンプキング面接www【ライト/あきを/Rin/kame/ねけまる】>>https://youtu.be/cks-3DRUN9s?si=2pvCfmJxKN-n7y2f]]||
+|24/05/18|126日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】ソウルフレンドとのお別れ【紅月サクヤ/ろぜっくぴん/しゅりぺ/嘩劇エト/ねけまる/kame】>>https://youtu.be/UfMrSjbVexM?si=dCOSoGuQUnSL0LDJ]]||
+|24/05/21|121日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】急に始まった2人のマックさんへの愛の深さバトル！！！w【BOIRA/KOHAL/kame/しゅりぺ/ねけまる/紅月サクヤ】>>https://youtu.be/lwhxTUHt0XM?si=Koyo2RRchD_wqud0]]||
+|24/05/23|120日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】UNパンマンにジャムじじぃで会いに行ったら素性がバレたwww【中村悠一/Nyankorasu/KADA】>>https://youtu.be/P7duGCFw-cY?si=4wg1_-wtfjneISPA]]||
+|24/05/28|130日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】GBCの家族内裏切り負の連鎖劇場開演！！！【marunnn/さぶ郎/しょうじ/レウ/ライト/ねけまる/kame/Nyankorasu]>>https://youtu.be/nyBGGXKOK8g?si=UNO6-HUg31X8YLpf]]||
+|24/06/01|121日目| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】木こり家族と無人乗車試みたら体がズタボロになったwww【煌イヴ/ぺこP/空衣御侍/小花衣ももみ/Nyankorasu】>>https://youtu.be/4AanLYap7FM?si=oqMjRKLAVYl7c97i]]||
+|24/06/06|122日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】パン屋に行ったらJAMじゃあなくて放送禁止MASUOだったwww【中村悠一/KADA/Nyankorasu】>>https://youtu.be/U7icX7llaik?si=g2ca9SvbopA9WOB5]]||
+|24/06/12|140日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】マクドナルドの格好で大型行ったら皆んな騙されたwww【BOIRA/KOHAL/しゅりぺ/ぺいんと/Nyankorasu】>>https://youtu.be/TFjpFK2jIxo?si=xThT3Gp2MBnMMxs5]]||
+|24/06/20|91日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】ワードセンスが凄過ぎるピン子にブチギレズズwww【ズズ/ろぜっくぴん/しゅりぺ/Nyankorasu】>>https://youtu.be/tlbdc2UE_yA?si=y9MyKdlhO1Tx2-zA]]||
+|24/06/29|121日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】どら繋がりでコスプレ救って街ブラしてみたwww【花京院ちえり/フルコン/しゅりぺ/KOHAL/カケチカラ/ねけまる/kame/KADA/Nyankorasu】>>https://youtu.be/ox8KqJg0N9Y?si=QmTuQtY2QOE9ZHI4]]||
+|24/07/03|132日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】歪みから生まれし謎の人間ディック&ボブwww【ズズ/しゅりぺ/Nyankorasu】>>https://youtu.be/uYnUk1iecl0?si=CGUDl_BN_IEpEa9z]]||
+|24/07/07|120日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】ズズさんに仮装したら本物そっくりになってしまったwww【ズズ/ライト/KOHAL/しゅりぺ/kame/Nyankorasu】>>https://youtu.be/nzVjTmHoxns?si=SFGso2d0eysPFVka]]||
+|24/07/03|151日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】ももこ親衛隊伝説の会員No.53足首好蔵！！！【兎桃みみこ/KOHAL/天開司/フルコン/しゅりぺ/紅月サクヤ/Rin/kame/Nyankorasu】>>https://youtu.be/CYwTDo0x9N8?si=_xhaNlXFgAc3BTuH]]||
+|24/07/15|151日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】ネコのマスク被ったら何故か名前を間違えられたwww【ズズ/こはならむ/ねけまる/KOHAL/花京院ちえり/あきを/しゅりぺ/kame】>>https://youtu.be/oWoOwySJONA?si=f5iTqZd52_b78gc6]]||
+|24/07/19|123日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】川に遊びに行くため水着を選んだら凄いセンスをしてたwww【こはならむ/ろぜっくぴん/しゅりぺ/兎桃みみこ/ズズ/kame/ねけまる】>>https://youtu.be/RrbzvrFZ9uw?si=QLx9pbKA0TSrk5P6]]||
+|24/07/25|126日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】はじめての空き巣が警察署襲撃に？！【ズズ/こはならむ/しょうじ/ライト/灯油/しゅりぺ/Rin/花京院ちえり/KOHAL】>>https://youtu.be/Nw6E7He_DfY?si=HQjNoF0U1LA64AoY]]||
+|24/08/05|128日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】突然街にやって来たゴリラ「ウホウホウホ」バナナ販売編【叶/てんぷら/れいか/けんつめし/天城てん/れぷちん/takej】>>https://youtu.be/SjmMAP21C2c?si=HyBEmMudPb0TyYxu]]||
+|24/08/07|161日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】魂呼びが加速する団員達www【ズズ/こはならむ/フルコン/Rin/ライト/KOHAL/しゅりぺ/紅月サクヤ/カケチカラ/骨霧島たいし/兎桃みみこ/kame】>>https://youtu.be/SWogBnfc3PY?si=bYw2YjCMdPF0rkiO]]||
+|24/08/10|128日目|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】突然街にやって来たゴリラ「ウホウホウホ」 救急隊・事件解決編【天城てん/ノビー/ぺいんと/えんちょう/あしさんり/ホロ酔いさん/D.ManueL/灯油/しゅりぺ】>>https://youtu.be/b7Bisjwe10o?si=HJ6mrXNZXAnTHXgN]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+*&size(22){&color(#fff){&size(32){&color(#ffff00){ショ}}ート動画(Shorts) &icon_fa(fa fa-youtube-play)}}
+//}
+//
+***2023年
+#region(開く)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|23/12/15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ごめんなさいw>>https://youtube.com/shorts/LEHtq7zI06o?si=f5YkjW6D_emgAQwx]]||
+|23/12/15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[最近は聞き取れる単語が増えた気がするw>>https://youtube.com/shorts/SVXcJ9wNfUI?si=TuCVHfpTHjTNzGPC]]||
+|23/12/15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ナァ!?>>https://youtube.com/shorts/HcA7UxSavdY?si=0UBNo2BFNC5fkvhn]]||
+|23/12/15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[GBCは本当にギャングか？w>>https://youtube.com/shorts/EXWBOvhSp6M?si=LSVxPmT7BcGu-vtP]]||
+|23/12/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[プスカ大佐の正論パンチ>>https://youtube.com/shorts/bv4Y0F1PxN0?si=OS-jXa97X46u9aOQ]]||
+|23/12/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[民生はイジりやすいw>>https://youtube.com/shorts/WlyzG3wIUmI?si=XLPARzMX3i1qvj71]]||
+|23/12/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ネケニマス入団>>https://youtube.com/shorts/PLdYKB08nJk?si=YpC15tzWNxNUK6kp]]||
+|23/12/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[何でここにズズさんの車？>>https://youtube.com/shorts/XJjsLwLm5cQ?si=bvleHIDaVYlRWtok]]||
+|23/12/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[レースはいつも不幸ばかりw>>https://youtube.com/shorts/WMLWje2ug8s?si=yNhjt0R4VtqCic1K]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|24/01/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[急にサトシのモノマネをする大佐wwww>>https://youtube.com/shorts/9ncD1F06sjs?si=B56DY2MRflFLtE36]]||
+|24/01/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[プスカ大佐を怒らせるサトシwww>>https://youtube.com/shorts/nIQcwzhg464?si=qfqGNTB0LSHShjOQ]]||
+|24/01/12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[マクドナルドさんにクリスマスプレゼント>>https://youtube.com/shorts/Ywng6XyhJjE?si=-yX9qP1Pgq2fx0-K]]||
+|24/02/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[落下と共に集まるGBC>>https://youtube.com/shorts/O6kZLMOGde8?si=hmIy45elg-Q5Q-s6]]||
+|24/02/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ボイラ聖地巡礼>>https://youtube.com/shorts/sterPf0HnxA?si=-TXe_oi7Q3hiHXlA]]||
+|24/03/01|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ヘリアタックズズ>>https://youtube.com/shorts/iKJeCDN1EnE?si=fBzp7fMc6uuL76Uh]]||
+|24/03/01|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ワンオペは大変www>>https://youtube.com/shorts/7QywQE74mCw?si=hNzxaNyvHpsyowkv]]||
+|24/03/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[とんこつ♡>>https://m.youtube.com/shorts/oxTQ9F0PHUw]]||
+|24/03/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[悔しがるらみさん>>https://m.youtube.com/shorts/dhCBZGk2AoI]]||
+|24/03/22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[請求金髪了解？！>>https://m.youtube.com/shorts/kjHJQP6I87k]]||
+|24/03/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[お手本の様な音>>https://m.youtube.com/shorts/NrRbpNLVvlI]]||
+|24/03/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[カッコつけたかった... w>>https://m.youtube.com/shorts/gUJ8RF6dV2o]]||
+|24/04/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[質より量で攻めるGBC！！！！>>https://youtube.com/shorts/-wxzMvU8Oeo?si=-cHmXhNkqA_hHQ_E]]||
+|24/04/09|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[突然現れた悪魔の笑い声ピン子www>>https://youtube.com/shorts/0yOseXUKlaw?si=hZ-yDUVs6INQnFHP]]||
+|24/04/26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[期待の新人カール誕生！！！ >>https://youtube.com/shorts/fuqnV6G-88U?si=3Ne7GtzZI-E-DPu0]]||
+|24/04/29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[もう彼はGBCですw>>https://youtube.com/shorts/z4NAMEuKAcI?si=vOIF6X2xVRHjRnwK]]||
+|24/04/30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[最先端のファンションですよ？>>https://youtube.com/shorts/Ustq3mMd5d4?si=uSDhdbQVDQW47qhy]]||
+|24/05/02|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[BMCにギャング並み詰められるカールちゃんwww>>https://youtube.com/shorts/ke4h44LEGKA?si=LJgHsaxA00XyW2Ga]]||
+|24/05/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[オブラートに何も包まない下ネタwww>>https://youtube.com/shorts/ItM_eCgWZaA?si=AAxn9q5zB7Ho3sXu]]||
+|24/05/06|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[彼は電波が弱い様ですwww>>https://youtube.com/shorts/chc2a4eHMZA?si=0nQxO_OsPM4PiGC-]]||
+|24/05/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[直球悪口www>>https://m.youtube.com/shorts/xoYnoRZ8MUA]]||
+|24/06/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[怒ってみたwww>>https://m.youtube.com/shorts/pk8w4WPqptg]]||
+|24/06/05|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[機械化してしまった友人www>>https://m.youtube.com/shorts/0jRq2-FKNKs]]||
+|24/06/09| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今すぐにでもアッセンブルしそうwww 彼は電波が弱い様ですwww>>https://youtube.com/shorts/tXoA60w1dMM?si=E-urxZgsHXecMXQc]]||
+|24/06/14| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[マックが居なくて寂しい馬ウアーwww>>https://youtube.com/shorts/K9-hn0t_TCw?si=_hBmpFDBvNgkv-H6]]||
+|24/06/21| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[いい感じにひいてみたwww>>https://youtube.com/shorts/ajMaF4GAKX4?si=GSNuv2mvpc35r_KR]]||
+|24/06/22| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[弾当たったら大爆笑が起きましたw>>https://youtube.com/shorts/Odj-I2Yg8OI?si=km-Uv8umVXfY2H7k]]||
+|24/06/25| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[会議室に心無き>>https://youtube.com/shorts/pB9wiE5xvac?si=9j0y5JeFwZgC-Lln]]||
+|24/07/04| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[そんな所に転送されるの？！www>>https://youtube.com/shorts/a_67tFRaXj0?si=n6MxhsOmIqjIYurD]]||
+|24/07/05| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[子丑寅卯卯卯卯？！>>https://youtube.com/shorts/nGE8n89w7FQ?si=2y7t9PArK0ez-zSt]]||
+|24/07/19| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[綺麗なハモリwww>>https://youtube.com/shorts/KzpizWh7nlw?si=O63rI4o2JT_8TeR-]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+
+*&size(22){&color(#fff){&size(32){&color(#ffff00){ス}}トグラ外コラボ動画 &icon_fa(fa fa-youtube-play)}}
+//}
+#region(開く,open)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|23/12/11|[[【コラボ配信】GBCの中の人達で絵しりとりしたら画伯だらけだったwww【ニャンコラス視点】【ガラティックフォン】>>https://youtu.be/XOq6PlG3TMI?si=tCYaClh9VUWQ41vJ]]||
+|24/02/05|[[【GTA5オンライン】カジノ強盗を目指すポンコツ３人組【ズズ/こはならむ】Part 1>>https://youtu.be/A1OqrIDsonI?si=v7T4-QFuCqLZFAAS]]||
+|24/02/13|[[【GTA5オンライン】一番ふざけてる奴が真剣過ぎるwww【ズズ/こはならむ】Part 2>>https://youtu.be/6oI2KTnq2V4?si=gX_ObD81DkxkChkM]]||
+|24/06/24|[[【Lethal Company】ボケとツッコミが止まらないリサカンが面白過ぎるwww 前半【ライト/ズズ/こはならむ/Nynakorasu】>>https://youtu.be/PCgGILr4k-g?si=UScH7Dp-vqgDsH_X]]||
+|24/06/27|[[【Lethal Company】話を聞かな仲間達に怒号が止まないwww 後半【ライト/ズズ/こはならむ/Nynakroasu】>>https://youtu.be/JJ7tmiAx-pU?si=tN3mywCb0ar81Y4F]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+
+
+#right(){&link_up(🔝ページTOPへ)}

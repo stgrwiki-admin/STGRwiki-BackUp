@@ -1,0 +1,520 @@
+#slide_img(auto=4,position=left,width=290,height=600){松竹　ウメ【着物】.png,松竹　ウメ【ぎゃる】.png}
+
+#table_filter(){Season1=hide,Season2=show}
+//ここからプロフィール
+#table_color(#ddee88)
+|~名前|ジャック馬 ウメー（旧姓：&ruby(まつたけ){松竹}　ウメ）|
+|~出身地|サムライジャパン(1600年代)|
+|~誕生日|06月13日|
+|~転入日|2023年08月13日 (&countup(2023/08/13,yd))|
+|~職業|メカニック【[[ジョアンナテクノサービス]]】&small(){2023/9/12～}&br()海上レストラン【[[Urashima]]】|
+|~レーサー名|梅面ライダー|
+|~TwiX|@松竹ウメ|
+|~家族|[[ジャック　馬ウアー]]（夫）[[聖母　れりあ]]（義娘）|
+|BGCOLOR(#a9f1e5):~プレイヤー|Pのらちゃん|
+|BGCOLOR(#a9f1e5):~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/megatenga_pgs?s=21&t=HEQ9NUi4WKvJUERHVQRlTQ]]|
+|BGCOLOR(#a9f1e5):~配信場所|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://m.youtube.com/channel/UCLr0X7ktuRImhXJrkASkSQw]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/pnorachan]]|
+
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=3)
+#endregion
+//
+*基本情報
+・某猫型ロボット＆悟空のような声色。
+・左肩に乗っているぬいぐるみに寄生されており、名前は「[[バンザイスギル>バンザイ　スギル]]」。たまに声帯を乗っ取って喋るらしい。ウメとスギルで会話をすることもある。
+・スタイル抜群のおばあちゃん。
+・基本的にどの住民にも君orちゃんづけで呼ぶ。
+・白市民＆黒市民関係なく、顔が広く、多くの住人から好かれている。
+・スーパーシャウト人。色んな人からレギオンの端から端まで声が聞こえると言われている。
+・乗り物の免許を全て取得済。
+・運転が得意。レースにも参加すれば、高確率で上位に食い込んでいる。
+・白市民でありながら殴り合いの奥義「黒閃」を会得している。
+・多くの住民からの祝福を受けながら結婚式を挙げる。※2023/11/22
+・義理の娘がいることが判明した時も、快く受け入れ、娘がいることを純粋に喜んだ。
+・初心者案内事業『ひよこの窓口』代表
+
+*変装・服装
+#region(開く)閉じる
+|&blankimg(ノモ クマ.png,x=100,y=200)|
+|CENTER:ノモ クマ|
+
+#endregion
+//
+*別人格？
+//使い分けなどがあまりわからないので、間違いなどありましたら修正お願いします。
+//どこかに書いといた方がいいかと思い記載させていただいたので、記載しない方がよければ消去お願いします。
+//
+#region(ネタバレ注意)（クリックで表示）
+
+#region(🟦🐰)&b(){🟦🐰 [[バンザイスギル>バンザイ　スギル]]}
+肩に乗っているぬいぐるみが乗っ取った姿（妖精）。完全に別キャラクターとなっている。
+〇ムロ　レ〇にそっくりな声を持つ。
+白市民のウメちゃんに相反して犯罪を行う黒市民
+ウメはスギルが黒市民であることは知らない！？？
+ギャング【麻陀羅組】 若頭
+
+|&blankimg(バンザイ スギル_01.png,x=100,y=200)|&blankimg(バンザイ スギル_02.png,x=100,y=200)|&blankimg(バンザイ スギル_00.jpg,x=200,y=200)|
+#endregion(🟦🐰)
+
+#region(⬜🦖)&b(){⬜🦖 トウフザウルス}
+白い恐竜の姿。甲高い声で語尾を「~ザウルス」にしてしゃべる
+デスマウンテンでのスノーモービルドライブなどアクティビティに参加
+北に住んでいる。
+|&blankimg(トウフ ザウルス.png,x=100,y=200)|
+#endregion(⬜🦖)
+
+#region(🟩🤠)&b(){🟩🤠 &color(#393){宇宙の 彼方に}}
+○ズライトイヤー風の姿。低い声でしゃべる。
+ハロウィンイベントなどに参加
+正体不明と思われがちだが、一部の警察にはプロファイルでバレている…？
+|&blankimg(宇宙の 彼方に.png,x=100,y=200)|
+#endregion(🟩🤠)
+
+#region(🟥👩‍🦰)&b(){🟥👩‍🦰 &color(#933){いちご ちゃん}}
+名前を「赤い子」にしようとしていたが、丁度[[作者>鳥山　たまき]]が現れたので、それに沿って「いちご ちゃん」に変更した。声を考えてた時にいたタラちゃん（[[住人>タラ　ちゃん]]の方ではなく○ザエさんの方）風にすることに
+|&blankimg(いちご ちゃん.png,x=100,y=200)|
+#endregion(🟥👩‍🦰)
+
+#endregion(別人格？)
+//
+
+*エピソード
+**2023年
+#region(開く)
+***8月
+#region(開く)
+・自宅にて起床　バンザイスギルは浮ていた　
+・最初に合った街人は赤ちゃんキャップ
+#endregion
+***9月
+#region(開く)
+・初日後魂でコロナウィルス感染・え●まつり参加・後遺症などで、しばらくぶりの起床
+#endregion
+***10月
+#region(開く)
+#endregion
+***11月
+#region (開く) 
+***21日
+#region (開く) 
+・ピーナッツレースに参加。順位は4位。
+・馬の免許取得。馬の名前は「馬刺し」
+#endregion
+***22日
+#region (開く) 
+11月22日（いい夫婦の日）に教会にて「Goodbye Company」主催の結婚式をあげて、警察署長ジャック・馬ウアーと結婚した。
+教会の前で記念撮影をしていると雪が降り出した。（市長のサプライズ？）
+#endregion
+#endregion(11月)
+***12月
+#region(開く)
+#endregion
+#endregion(2023年)
+**2024年
+#region(開く)
+***4月
+#region(開く)
+***21日
+#region(開く)
+・麻陀羅組 ぞん美子の初めての犯罪に夫婦揃って巻き込まれる。
+#endregion
+***26日
+#region(開く)
+・『STGR Host Club』にお手伝いスタッフとして参加する。
+#endregion
+#endregion(4月)
+#endregion(2024年)
+**2025年
+#region(開く)
+***6月
+#region(開く)
+***19日
+#region(開く)
+・レジ横メンバー [[チェン マヨ]] [[上田さん]] [[小豆 最中]] [[文殊 セイジ]]に誕生日をお祝いしてもらう
+オリジナルの扇子、猫耳カーをプレゼントしてもらった
+#endregion
+#endregion(6月)
+#endregion(2025年)
+
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+*アーカイブ
+
+【 Season1 】
+****2023年
+#region(開く)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/08/12|1|&font(#6441A4){&icon_fa(fa fa-twitch)}[[初めましてロスサントス>>https://www.twitch.tv/videos/1896883848]]||
+|2023/08/28|2|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ストグラ1周年らしい！！私は2日目！！/ 松竹ウメ>>https://www.twitch.tv/videos/1910015386]]||
+|2023/08/28|3|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】同世代に出会いたい / 松竹ウメ 3日目>>https://www.twitch.tv/videos/1910741053]]||
+|2023/08/29|4|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】誰がBBAや / 松竹ウメ 4日目>>https://www.twitch.tv/videos/1911604454]]||
+|2023/08/30|5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】バンザイスギル行きまぁぁす！！5日目>>https://www.twitch.tv/videos/1912495936]]||
+|2023/09/02|6|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】 松竹ウメ(82)が職に就くらしい / 6日目>>https://www.twitch.tv/videos/1915084829]]||
+|2023/09/03|7|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】若葉マーク外してみようかしらね / 松竹ウメ 7日目>>https://www.twitch.tv/videos/1916022262]]||
+|2023/09/04|8|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】一攫千金ゴミ漁り / 松竹ウメ 8日目>>https://www.twitch.tv/videos/1916876388]]||
+|2023/09/06|9|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】今日は何しようかしらね/松竹ウメ 9日目>>https://www.twitch.tv/videos/1917840383]]||
+|2023/09/06|10|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】最近物忘れがはげしいのよね/松竹ウメ 10日目>>https://www.twitch.tv/videos/1918526979]]||
+|2023/09/07|11|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】冷蔵庫しめたかしら / 松竹ウメ 11日目>>https://www.twitch.tv/videos/1919356099]]||
+|2023/09/08|12|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】窓しめたかしら / 松竹ウメ 12日目>>https://www.twitch.tv/videos/1920190775]]||
+|2023/09/09|13|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】あれ？ / 松竹ウメ 13日目>>https://www.twitch.tv/videos/1921148322]]||
+|2023/09/11|14|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】個人医を目指す / 松竹ウメ 14日目>>https://www.twitch.tv/videos/1922744182]]||
+|2023/09/12|15|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】メカニカルBBAの日 / 松竹ウメ 15日目>>https://www.twitch.tv/videos/1923605888]]||
+|2023/09/13|16|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】個人医になりたい / 松竹ウメ 16日目>>https://www.twitch.tv/videos/1924343021]]||
+|2023/09/15|17|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】救急隊の六法おくった / 松竹ウメ 17日目>>https://www.twitch.tv/videos/1925274255]]||
+|2023/09/15|18|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】BBAのワルツ / 松竹ウメ 18日目>>https://www.twitch.tv/videos/1926002141]]||
+|2023/09/16|19|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】免許コンプリート目指して / 松竹ウメ 19日目>>https://www.twitch.tv/videos/1926912656]]||
+|2023/09/17|20|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】運転ならまかせなさい / 松竹ウメ 20日目>>https://www.twitch.tv/videos/1927825776]]||
+|2023/09/17|20|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】運転ならまかせなさい / 松竹ウメ 20日目>>https://www.twitch.tv/videos/1927842010]]||
+|2023/09/18|21|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】カーボン探し / 松竹ウメ 21日目>>https://www.twitch.tv/videos/1928701885]]||
+|2023/09/19|22|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】新しいことしてみたいわね / 松竹ウメ 22日目>>https://www.twitch.tv/videos/1929576033]]||
+|2023/09/20|23|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】何探してたんだっけね / 松竹ウメ 23日目>>https://www.twitch.tv/videos/1930448647]]||
+|2023/09/21|24|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】何探してたんだっけね / 松竹ウメ 23日目>>https://www.twitch.tv/videos/1931207677]]||
+|2023/09/22|25|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】お金を稼ぎたいわね / 松竹ウメ 25日目>>https://www.twitch.tv/videos/1932130479]]||
+|2023/09/25|26|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】刀をぶらさげたいのよ / 松竹ウメ 26日目>>https://www.twitch.tv/videos/1934074325]]||
+|2023/09/25|27|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】刀を作りたい / 松竹ウメ 27日目>>https://www.twitch.tv/videos/1934754531]]||
+|2023/09/26|28|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】木板どこかしら / 松竹ウメ 28日目>>https://www.twitch.tv/videos/1935578552]]||
+|2023/09/27|29|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】救急隊を体験してみようかしらね / 松竹ウメ 29日目>>https://www.twitch.tv/videos/1936404168]]||
+|2023/09/29|30|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】コスプレキメたいわね / 松竹ウメ 30日目>>https://www.twitch.tv/videos/1938073842]]||
+|2023/09/30|31|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】秘宝はどこに… / 松竹ウメ 31日目>>https://www.twitch.tv/videos/1938979641]]|| 
+|2023/10/01|32|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】おなか温めますか？ / 松竹ウメ 32日目>>https://www.twitch.tv/videos/1939980733]]||
+|2023/10/02|33|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ニトロぶっ飛びメカニック / 松竹ウメ 33日目>>https://www.twitch.tv/videos/1940716088]]||
+|2023/10/03|34|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ルパンカーいじる / 松竹ウメ 34日目>>https://www.twitch.tv/videos/1941545577]]||
+|2023/10/04|35|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】わいわーい！ / 松竹ウメ 35日目>>https://www.twitch.tv/videos/1942396284]]||
+|2023/10/07|36|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】力こそパワー / 松竹ウメ 36日目>>https://www.twitch.tv/videos/1944107070]]||
+|2023/10/07|37|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】メカニック日和 / 松竹ウメ 37日目>>https://www.twitch.tv/videos/1944882402]]||
+|2023/10/09|38|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】うわあああ！？ / 松竹ウメ 38日目>>https://www.twitch.tv/videos/1945875420]]||
+|2023/10/10|39|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】おはよう！ / 松竹ウメ 39日目>>https://www.twitch.tv/videos/1946748899]]||
+|2023/10/11|40|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】カジノからのー？ / 松竹ウメ 40日目>>https://www.twitch.tv/videos/1948150937]]||
+|2023/10/12|41|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】わくわくイベント！/ 松竹ウメ 41日目>>https://www.twitch.tv/videos/1948987854]]||
+|2023/10/13|42|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ついにイベントか！/ 松竹ウメ 42日目>>https://www.twitch.tv/videos/1949812926]]||
+|2023/10/13|42.5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】アプデが・・・！！/ 松竹ウメ 42,5日目>>https://www.twitch.tv/videos/1949904322]]||
+|2023/10/14|43|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】何しようかしらね / 松竹ウメ 43日目>>https://www.twitch.tv/videos/1950714239]]||
+|2023/10/15|44|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】お金を稼ぎたいわね / 松竹ウメ 44日目>>https://www.twitch.tv/videos/1951634928]]||
+|2023/10/17|45|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ここどこだっけかしら 【松竹ウメ】45日目>>https://www.twitch.tv/videos/1953171868]]||
+|2023/10/19|46|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】遊びつ稼ぎつ / 松竹ウメ 46日目>>https://www.twitch.tv/videos/1954128041]]||
+|2023/10/19|47|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】しっかりメカニック / 松竹ウメ 47日目>>https://www.twitch.tv/videos/1954808776]]||
+|2023/10/20|48|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】峠せめる…！？ / 松竹ウメ 48日目>>https://www.twitch.tv/video/1955723627]]||
+|2023/10/21|49|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】文化祭の時期だねぇ / 松竹ウメ 49日目>>https://www.twitch.tv/videos/1956520935]]||
+|2023/10/22|50|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】気分屋さん / 松竹ウメとか 50日目>>https://www.twitch.tv/videos/1957443354]]||
+|2023/10/23|51|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】いのちだいじに / 松竹ウメ 51日目>>https://www.twitch.tv/videos/1958275692]]||
+|2023/10/24|52|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】面接があるってよ / 松竹ウメ 52日目>>https://www.twitch.tv/videos/1959050236]]||
+|2023/10/27|53|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ダイビングしてみたいなぁ / 松竹ウメ 53日目>>https://www.twitch.tv/videos/1961579042]]||
+|2023/10/28|54|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】地面がキンキンに冷えてやがる / 松竹ウメ 54日目>>https://www.twitch.tv/videos/1962477494]]||
+|2023/10/31|55|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】まっしろ / 松竹ウメ 55日目>>https://www.twitch.tv/videos/1964186241]]||
+|2023/11/02|56|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】平和なレギ横 / 松竹ウメ 56日目>>https://www.twitch.tv/videos/1966529791]]||
+|2023/11/04|57|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ねすぎました... / 松竹ウメ 57日目>>https://www.twitch.tv/videos/1967639575]]||
+|2023/11/05|58|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】さっき起きました... / 松竹ウメ 58日目>>https://www.twitch.tv/videos/1968530338]]||
+|2023/11/06|59|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】白市民チケットがあるんだってね / 松竹ウメ 59日目>>https://www.twitch.tv/videos/1970166037]]||
+|2023/11/07|60|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】チル後、渡せるかな / 松竹ウメ 60日目>>https://www.twitch.tv/videos/1970986959]]||
+|2023/11/08|61|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】早番海上レストランからの～？ / 松竹ウメ 61日目>>https://www.twitch.tv/videos/1971795577]]||
+|2023/11/09|62|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】試乗会とレストランと、、 / 松竹ウメ 62日目>>https://www.twitch.tv/videos/1972710292]]||
+|2023/11/11|63|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】海からはじまり動物で終わる / 松竹ウメ 63日目>>https://www.twitch.tv/videos/1973725003]]||
+|2023/11/11|64|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】メカニックやりつつ…？ / 松竹ウメ 64日目>>https://www.twitch.tv/videos/1974484773]]||
+|2023/11/15|65|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】超絶遅起床 / 松竹ウメ 65日目>>https://www.twitch.tv/videos/1977330660]]||
+|2023/11/15|66|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】やりたいこといっぱい / 松竹ウメ 66日目>>https://www.twitch.tv/videos/1977948076]]||
+|2023/11/16|67|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ハウジングしつつ講習会かしら / 松竹ウメ 67日目>>https://www.twitch.tv./videos/1978811539]]||
+|2023/11/17|68|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】今日めでたいことがあるね / 松竹ウメ 69日目>>https://www.twitch.tv/videos/197925465]]||
+|2023/11/18|69|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ババアが起きません【バンザイスギル / 松竹ウメ】 2日目>>https://www.twitch.tv/videos/1980618384]]||
+|2023/11/20|70|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】まだやったことないことがしたい！【バンザイスギル / 松竹ウメ】 69日目>>https://www.twitch.tv/videos/1982484002]]||
+|2023/11/21|71|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】色々したい！【バンザイスギル / 松竹ウメ】 70日目>>https://www.twitch.tv/videos/1983297489]]||
+|2023/11/22|72|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】馬ウメ結婚式【松竹ウメ改め…】 72日目 >>https://www.twitch.tv/videos/v/1984193534]]||
+|2023/11/23|73|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】新しいことしたいわね / 松竹ウメ 73日目>>https://www.twitch.tv/videos/v/1985102282]]||
+|2023/11/24|74|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】仕事に就きたい？【バンザイスギル / ジャック馬ウメー 】3日目と74日目>>https://www.twitch.tv/videos/v/1985847859]]||
+|2023/11/25|75|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】なにしようかな【バンザイスギル / ジャック馬ウメー 】4日目と75日目>>https://www.twitch.tv/videos/v/1986861541]]||
+|2023/11/28|76|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ホコリ吸って喉痛い【バンザイスギル / ジャック馬ウメー 】5日目と76日目>>https://www.twitch.tv/videos/v/1989503333]]||
+|2023/11/30|77|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ウメカニック【バンザイスギル / ジャック馬ウメー 】6日目と77日目>>https://www.twitch.tv/videos/v/1990375429]]||
+|2023/12/03|78|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】3時以降に…??【バンザイスギル / ジャック馬ウメー 】78日目>>https://www.twitch.tv/videos/v/1993126546]]||
+|2023/12/03|79|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ウメの今後について…？【バンザイスギル / ジャック馬ウメー 】79日目>>https://www.twitch.tv/videos/v/1994103649]]||
+|2023/12/04|80|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ウメらしく【バンザイスギル / ジャック馬ウメー 】80日目>>https://www.twitch.tv/videos/v/1994948559]]||
+|2023/12/06|81|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】バイトやらなんやら【ジャック馬ウメー / バンザイスギル / トウフザウルス】81日目>>https://www.twitch.tv/videos/v/1996658901]]||
+|2023/12/07|82|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】多重人格【ジャック馬ウメー / バンザイスギル / トウフザウルス】81日目>>https://www.twitch.tv/videos/v/1997625317]]||
+|2023/12/08|83|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】喉瀕死ウメスギル豆腐【ジャック馬ウメー / バンザイスギル / トウフザウルス】83日目>>https://www.twitch.tv/videos/v/1998485420]]||
+|2023/12/09|84|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】いろいろしたい【ジャック馬ウメー / バンザイスギル / トウフザウルス】84日目>>https://www.twitch.tv/videos/v/1999397338]]||
+|2023/12/11|85|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】なにかしようかな【ジャック馬ウメー / バンザイスギル / いちごちゃん】85日目>>https://www.twitch.tv/videos/v/2001224707]]||
+|2023/12/12|86|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】雪がないなった？！【ジャック馬ウメー / バンザイスギル / いちごちゃん】86日目>>https://www.twitch.tv/videos/v/2002077731]]||
+|2023/12/14|87|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】おそめの起き【ジャック馬ウメー / バンザイスギル 】87日目>>https://www.twitch.tv/videos/v/2003081598]]||
+|2023/12/14|88|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】悪スギル【ジャック馬ウメー / バンザイスギル 】88日目>>https://www.twitch.tv/videos/v/2004691038]]||
+|2023/12/15|89|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】悪スギル【ジャック馬ウメー / バンザイスギル 】88日目>>https://www.twitch.tv/videos/v/2004691038]]||
+|2023/12/17|90|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ハングレスギル【ジャック馬ウメー / バンザイスギル 】89日目>>https://www.twitch.tv/videos/v/2005723468]]||
+|2023/12/18|91|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ついにお金を洗う⁉【ジャック馬ウメー / バンザイスギル】91日目>>https://www.twitch.tv/videos/v/2006623890]]||
+|2023/12/18|92|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】今日はチルめ？25時からAPEX【ジャック馬ウメー / バンザイスギル】92日目>>https://www.twitch.tv/videos/v/2007380507]]||
+|2023/12/19|93|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ババアが寝坊してます【ジャック馬ウメー / バンザイスギル】94日目>>https://www.twitch.tv/videos/v/2008233764]]||
+|2023/12/20|94|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】22時からJTS忘年会【ジャック馬ウメー / バンザイスギル】95日目>>https://www.twitch.tv/videos/v/200910200]]||
+|2023/12/21|95|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】悪の勉強：酔いレベル高め【 バンザイスギル / ジャック馬ウメー】95.5日目>>https://www.twitch.tv/videos/v/2009207916]]||
+|2023/12/21|96|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ウメの白市民物語【 バンザイスギル / ジャック馬ウメー】96日目>>https://www.twitch.tv/videos/v/2010067917]]||
+|2023/12/22|97|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ウメスギルストーリー【 バンザイスギル / ジャック馬ウメー】97日目>>https://www.twitch.tv/videos/v/2010912735]]||
+|2023/12/25|98|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】つるつるすべるなぁ【 バンザイスギル / ジャック馬ウメー / いちごちゃん 】98日目>>https://www.twitch.tv/videos/v/2012758714]]||
+|2023/12/25|99|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】メリクリ！ダーリンとおデート…！？【 バンザイスギル / ジャック馬ウメー 】99日目>>https://www.twitch.tv/videos/v/2013372351]]||
+|2023/12/26|100|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】100日目のBBAと肩【 バンザイスギル / ジャック馬ウメー 】祝100日目>>https://www.twitch.tv/videos/v/2014147625]]||
+|2023/12/27|101|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】悪から 【 バンザイスギル / ジャック馬ウメー 】101日目>>https://www.twitch.tv/videos/v/2015101280]]||
+|2023/12/28|102|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】町ではいろんなことが起きる【 ジャック馬ウメー / バンザイスギル 】102日目>>https://www.twitch.tv/videos/v/2015975046]]||
+|2023/12/29|103|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】眉間にシワがよってます【 ジャック馬ウメー / バンザイスギル 】103日目>>https://www.twitch.tv/videos/v/2016916631]]||
+|2023/12/30|104|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】BBAステッカー申請通った！【 ジャック馬ウメー / バンザイスギル 】104日目>>https://www.twitch.tv/videos/v/2017889614]]||
+|2023/12/31|105|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】年越しデスマウンテン【 ジャック馬ウメー / バンザイスギル 】105日目>>https://www.twitch.tv/videos/v/2018877867]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+****2024年
+#region(開く)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2024/01/03|106|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】あけましたね【 ジャック馬ウメー / バンザイスギル 】106日目>>https://www.twitch.tv/videos/v/2020671661]]||
+|2024/01/04|107|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】また遅くなっちゃった…【 ジャック馬ウメー / バンザイスギル 】107日目>>https://www.twitch.tv/videos/v/2021658002]]||
+|2024/01/04|108|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】メカニック体験や買い物【 バンザイスギル 】108日目>>https://www.twitch.tv/videos/v/2022410232]]||
+|2024/01/06|109|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】お金貯めたいなぁ【 バンザイスギル 】109日目>>https://www.twitch.tv/videos/v/2024389622]]||
+|2024/01/10|110|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ハンザイスキスギル【 バンザイスギル 】110日目>>https://www.twitch.tv/videos/v/2028303257]]||
+|2024/01/11|111|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】アタック守り【 バンザイスギル / ジャック馬ウメー 】111日目>>https://www.twitch.tv/videos/v/2029266608]]||
+|2024/01/14|112|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】白いっていいなぁ【ジャック馬ウメー / バンザイスギル】112日目>>https://www.twitch.tv/videos/v/2031299367]]||
+|2024/01/21|113|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ながいことしないかも【ジャック馬ウメー / バンザイスギル】113日目>>https://www.twitch.tv/videos/v/2038321092]]||
+|2024/01/21|114|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】のびしろですねぇ【ジャック馬ウメー / バンザイスギル】114日目>>https://www.twitch.tv/videos/v/2039342930]]||
+|2024/01/23|115|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】例の名前は。【バンザイスギル / ジャック馬ウメー】115日目>>https://www.twitch.tv/videos/v/2041164990]]||
+|2024/01/24|116|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】お店行くのと麻陀羅組【ジャック馬ウメー / バンザイスギル】116日目>>https://www.twitch.tv/videos/v/2042127829]]||
+|2024/01/25|117|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】なにがあるかな【ジャック馬ウメー / バンザイスギル】117日目>>https://www.twitch.tv/videos/v/2043082713]]||
+|2024/01/26|118|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】レースから【ジャック馬ウメー / バンザイスギル】118日目>>https://www.twitch.tv/videos/v/2044067272]]||
+|2024/01/27|119|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】例のものを…【ジャック馬ウメー / バンザイスギル】119日目>>https://www.twitch.tv/videos/v/2045145109]]||
+|2024/01/30|120|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】例のものを…渡すんだ【ジャック馬ウメー / バンザイスギル】120日目>>https://www.twitch.tv/videos/v/2047936707]]||
+|2024/01/31|121|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ボートレース！wktk【ジャック馬ウメー / バンザイスギル】121日目>>https://www.twitch.tv/videos/v/2048967319]]||
+|2024/02/02|122|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ヘリスギルカウ【ジャック馬ウメー / バンザイスギル】122日目>>https://www.twitch.tv/videos/v/2050864208]]||
+|2024/02/04|123|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ATMとコンビニ【ジャック馬ウメー / バンザイスギル】123日目>>https://www.twitch.tv/videos/v/2052082610]]||
+|2024/02/04|124|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ありったけの力【ジャック馬ウメー / バンザイスギル】124日目>>https://www.twitch.tv/videos/v/2052948341]]||
+|2024/02/06|125|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ポトフのスムージー焼き【ジャック馬ウメー / バンザイスギル】125日目>>https://www.twitch.tv/videos/v/2054836564]]||
+|2024/02/07|126|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】いけなかった…【ジャック馬ウメー / バンザイスギル】126日目>>https://www.twitch.tv/videos/v/2055770309]]||
+|2024/02/08|126|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】いけなかった…【ジャック馬ウメー / バンザイスギル】126日目>>https://www.twitch.tv/videos/v/2055981647]]||
+|2024/02/09|127|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】BBAのひとりごと【ジャック馬ウメー / バンザイスギル】127日目>>https://www.twitch.tv/videos/v/2057670961]]||
+|2024/02/13|128|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】なんと…！？【バンザイスギル / ジャック馬ウメー】128日目>>https://www.twitch.tv/videos/v/2061625124]]||
+|2024/02/14|129|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ハッピーバレンタイン【バンザイスギル / ジャック馬ウメー】129日目>>https://www.twitch.tv/videos/v/2062512184]]||
+|2024/02/15|130|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ハッピーバレンタインのあと【バンザイスギル / ジャック馬ウメー】130日目>>https://www.twitch.tv/videos/v/2063376448]]||
+|2024/02/17|131|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ぷちっと角刈り捕まえる【バンザイスギル / ジャック馬ウメー】131日目>>https://www.twitch.tv/videos/v/2065364243]]||
+|2024/02/18|131.5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】角刈り捕まえる→花【バンザイスギル / ジャック馬ウメー】131.5日目>>https://www.twitch.tv/videos/v/2065580147]]||
+|2024/02/18|132|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】【バンザイスギル】 132日目>>https://www.twitch.tv/videos/v/2066494732]]||
+|2024/02/20|133|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】今日何日目だっけ【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2068394999]]||
+|2024/02/21|134|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 133日目】お花屋さんか！？お仕事もレースも！【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2069310089]]||
+|2024/02/22|135|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 135日目】コンビニ！【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2070294802]]||
+|2024/02/24|136|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 136日目】お布団が離してくれなかった【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2072315372]]||
+|2024/02/26|137|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 137日目】眠いと思わなきゃいいんだ！【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2074209580]]||
+|2024/02/27|138|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 138日目】ちるい?!【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2075136374]]||
+|2024/02/28|139|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 139日目】ランポ改造からの…？【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2076064399]]||
+|2024/03/01|140|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 140日目】ぎゅるぎゅるの嵐【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2077140734]]||
+|2024/03/01|141|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 141日目】今日は！！！！！【バンザイスギル 】>>https://www.twitch.tv/videos/v/2077958674]]||
+|2024/03/02|142|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 142日目】みじかめかも！こんばんは！【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2078992217]]||
+|2024/03/03|143|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 143日目】ハッピーな一日を！【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2080066337]]||
+|2024/03/06|144|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 144日目】買えた！！【 バンザイスギル 】>>https://www.twitch.tv/videos/v/2082849876]]||
+|2024/03/07|145|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 144日目】免許全部取る！！【 ジャック馬ウメー / バンザイスギル 】>>https://www.twitch.tv/videos/v/2083760660]]||
+|2024/03/08|145.5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 145.5日目】悪いことするか【 ジャック馬ウメー / バンザイスギル 】>>https://www.twitch.tv/videos/v/2083848061]]||
+|2024/03/12|146|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 146日目】beautiful【 ジャック馬ウメー / バンザイスギル 】>>https://www.twitch.tv/videos/v/2088651435]]||
+|2024/03/13|147|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 147日目】ぺり買いたいぞな【 ジャック馬ウメー / バンザイスギル 】>>https://www.twitch.tv/videos/v/2089535525]]||
+|2024/03/14|148|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 148日目】物産展いぎだい！そのあとは…【 ジャック馬ウメー / バンザイスギル 】>>https://www.twitch.tv/videos/v/2090421632]]||
+|2024/03/15|148.5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 148.5日目】まだホワイトデーだもんね【 バンザイスギル 】>>https://www.twitch.tv/videos/v/2090655795]]||
+|2024/03/15|149|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 149日目】AGIRAMETA!!【 バンザイスギル 】>>https://www.twitch.tv/videos/v/2091385289]]||
+|2024/03/16|150|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 150日目】大喜利に旦那さんがでるって…！？【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2092398468]]||
+|2024/03/17|151|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 151日目】行きまぁぁっす！【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2093379049]]||
+|2024/03/19|152|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 152日目】お仕事と遊び【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2095256185]]||
+|2024/03/20|153|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 153日目】しょっぱなお仕事からの【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2096181055]]||
+|2024/03/22|154|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 154日目】ついにペリー買うのか・・・？！【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2098029175]]||
+|2024/03/23|155|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 155日目】これが…ペリ！コプタ！！【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2099005031]]||
+|2024/03/23|155.5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 155.5日目】これが…ペリ！レース！イベント！【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2099067380]]||
+|2024/03/24|156|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 156日目】脱獄イベント?!! 【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2100124118]]||
+|2024/03/26|157|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 157日目】悪!! 【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2102000712]]||
+|2024/03/27|158|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 158日目】タマゴに全集中【 バンザイスギル / ジャック馬ウメー 】>>https://www.twitch.tv/videos/v/2102791123]]||
+|2024/03/29|159|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 160日目】たまごにｴｯｸﾞを添えて【バンザイスギル】>>https://www.twitch.tv/videos/v/2104716815]]||
+|2024/03/30|160|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 161日目】たまごにSUPER 進展が…⁉【バンザイスギル】>>https://www.twitch.tv/videos/v/2105827459]]||
+|2024/03/31|161|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 162日目】たまごとともに！【バンザイスギル】>>https://www.twitch.tv/videos/v/2106757664]]||
+|2024/04/01|161.5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 162.5日目】わたしだれだっけね？エイプリルフール【ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2106874104]]||
+|2024/04/1|162|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 163日目】ロケランBBA エイプリルフール後編【ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2107684633]]||
+|2024/04/02|163|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 163日目】なんかやる！！！！【バンザイスギル】>>https://www.twitch.tv/videos/v/2107821108]]||
+|2024/04/03|164|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 164日目】ソーナノ？【バンザイスギル】>>https://www.twitch.tv/videos/v/2109598505]]||
+|2024/04/05|165|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 165日目】ぎゃあ！【バンザイスギル】>>https://www.twitch.tv/videos/v/2110601294]]||
+|2024/04/05|166|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 166日目】ねりねりタイム？！【バンザイスギル】>>https://www.twitch.tv/videos/v/2111401526]]||
+|2024/04/07|167|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 167日目】白ティにミルクティこぼした！【バンザイスギル】>>https://www.twitch.tv/videos/v/2113343638]]||
+|2024/04/09|168|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 168日目】つけまぐろ50円引き？！【バンザイスギル】>>https://www.twitch.tv/videos/v/2115170182]]||
+|2024/04/10|169|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 169日目】のどおさえめ【バンザイスギル】>>https://www.twitch.tv/videos/v/2116050705]]||
+|2024/04/14|170|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 170日目】右と左の次は、赤！【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2119615940]]||
+|2024/04/16|171|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 171日目】街が進化したんだってね！？【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2121311289]]||
+|2024/04/21|172|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 172日目】青い牛【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2124947869]]||
+|2024/04/21|173|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 174日目】こん馬ウメー！【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2125733545]]||
+|2024/04/23|174|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 175日目】麻陀羅組おハナツアー⁉【ジャック馬ウメー / バンザイスギル】>>https://www.twitch.tv/videos/v/2127463764]]||
+|2024/04/26|175|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 176日目】ストグラホストクラブお手伝いだよ【ジャック馬ウメー / バンザイスギル】>>https://www.twitch.tv/videos/v/2129986701]]||
+|2024/04/27|176|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 177日目】仮眠って難しいな【ジャック馬ウメー / バンザイスギル】>>https://www.twitch.tv/videos/v/2130963927]]||
+|2024/05/01|177|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 178日目】この気、なんの気（ﾌﾟﾚｯｼｬｰ）！？【バンザイスギル / ジャック馬ウメー】 >>https://www.twitch.tv/videos/v/2134519782]]||
+|2024/05/02|178|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 179日目】アヒルの川下り！？【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2135290907]]||
+|2024/05/05|179|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 180日目】アルゴリズムくらいお腹減った【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2137949604]]||
+|2024/05/07|180|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 181日目】ブヒィィ‼【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2139633522]]||
+|2024/05/09|181|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 182日目】見つけたい【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2141325907]]||
+|2024/05/14|182|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 183日目】ぶわわっ！！【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2145405734]]||
+|2024/05/16|183|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 184日目】あのねっ！！【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2147187551]]||
+|2024/05/17|184|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 185日目】麻陀羅組のシマ…は…⁉【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2147997035]]||
+|2024/05/19|185|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 186日目】まったりチルスギル！？【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2149787553]]||
+|2024/05/21|186|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 187日目】コンビニ面接したり、ドライブしたり！？【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2151355517]]||
+|2024/05/22|187|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 187日目】シマシマシマウマ【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2152206353]]||
+|2024/05/23|188|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 188日目】着物のかほり【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2153043816]]||
+|2024/05/24|189|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 189日目】何が起こるかな・・・？【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2153907229]]||
+|2024/05/25|190|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 190日目】ヘリ楽しスギル！【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2154880632]]||
+|2024/05/28|191|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 191日目】デパートイベントのあとは・・・！？【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2157390277]]||
+|2024/05/29|192|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 192日目】シマ取り準備から最後まで【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2158208822]]||
+|2024/05/31|193|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 193日目】たっぷりチル【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2159196124]]||
+|2024/05/31|194|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 194日目】シマ取りがんばる【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2159943139]]||
+|2024/06/03|195|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 195日目】わっほーい！【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2161801602]]||
+|2024/06/04|196|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 196日目】何が起こってるんだ…【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2163353645]]||
+|2024/06/05|197|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 197日目】水曜日のシマ取り【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2164206194]]||
+|2024/06/11|198|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 198日目】ひき肉炒めたべましたあ【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2169280803]]||
+|2024/06/12|199|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 199日目】シマ取りがんばるぞぉぉ！！【バンザイスギル】>>https://www.twitch.tv/videos/v/2170097372]]||
+|2024/06/13|200|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 祝200日目】実はお誕生日なのよ【ジャック馬ウメー / バンザイスギル】 >>https://www.twitch.tv/videos/v/2170944458]]||
+|2024/06/18|201|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 201日目】今日は短め！【ジャック馬ウメー / バンザイスギル】 >>https://www.twitch.tv/videos/v/2175195159]]||
+|2024/06/19|202|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 202日目】シマトリがんばる！！【ジャック馬ウメー / バンザイスギル】 >>https://www.twitch.tv/videos/v/2175977024]]||
+|2024/06/20|203|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 203日目】お仕事と記念日【ジャック馬ウメー / バンザイスギル】 >>https://www.twitch.tv/videos/v/2176902044]]||
+|2024/06/22|204|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 204日目】クリッタル集めたから渡したい！【バンザイスギル / ジャック馬ウメー】」 >>https://www.twitch.tv/videos/v/2178670149]]||
+|2024/06/25|205|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 205日目】のんびりな日【バンザイスギル】 >>https://www.twitch.tv/videos/v/2181336210]]||
+|2024/06/26|206|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 206日目】シマトリだ…！自己新記録だしたい！【バンザイスギル】 >>https://www.twitch.tv/videos/v/2182133567]]||
+|2024/06/29|207|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 207日目】飛行機「落ちろっ！」【バンザイスギル】 >>https://www.twitch.tv/videos/v/2183933696]]||
+|2024/07/03|208|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 208日目】シマトリ肉短めカモ【バンザイスギル】 >>https://www.twitch.tv/videos/v/2188083037]]||
+|2024/07/07|209|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 209日目】お腹抑えながら【バンザイスギル】 >>https://www.twitch.tv/videos/v/2190745177]]||
+|2024/07/08|210|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 210日目】ちょろっと！！【バンザイスギル】 >>https://www.twitch.tv/videos/v/2191571597]]||
+|2024/07/09|211|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 211日目】突然【バンザイスギル】 >>https://www.twitch.tv/videos/v/2193197086]]||
+|2024/07/10|212|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 212日目】シマトリ水曜日【バンザイスギル】 >>https://www.twitch.tv/videos/v/2194008310]]||
+|2024/07/12|213|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 213日目】ミッション行きます！【バンザイスギル】 >>https://www.twitch.tv/videos/v/2194970845]]||
+|2024/07/13|214|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 214日目】頭ふらふら作戦だ！！【バンザイスギル】 >>https://www.twitch.tv/videos/v/2195787485]]||
+|2024/07/17|215|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 215日目】グーはチョキに勝てるよ【バンザイスギル / ジャック馬ウメー】 >>https://www.twitch.tv/videos/v/2200002176]]||
+|2024/07/21|216|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 216日目】BBAは筋肉痛【バンザイスギル / ジャック馬ウメー】 >>https://www.twitch.tv/videos/v/2203448846]]||
+|2024/07/25|217|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 217日目】ブースティングか…！【バンザイスギル / ジャック馬ウアー】 >>https://www.twitch.tv/videos/v/2206944110]]||
+|2024/07/26|218|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 218日目】おちついて家族会議【バンザイスギル / ジャック馬ウメー】 >>https://www.twitch.tv/videos/v/2207854408]]||
+|2024/07/27|219|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 219日目】家族会議できますように！【バンザイスギル / ジャック馬ウメー】 >>https://www.twitch.tv/videos/v/2208693486]]||
+|2024/07/31|220|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 220日目】ご無沙汰だね！【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2212085985]]||
+|2024/08/02|221|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 221日目】パンパンだね！【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2213816115]]||
+|2024/08/07|222|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 222日目】ブースティングあと少しでA帯だ！！【バンザイスギル / ジャック馬ウメー】 >>https://www.twitch.tv/videos/v/2218166011]]||
+|2024/08/09|223|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 223日目】ブースティングA帯いけるぞー！！？【バンザイスギル / ジャック馬ウメー】>>https://www.twitch.tv/videos/v/2219054492]]||
+|2024/08/09|224|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 223日目】バンザイスギル / ジャック馬ウメー 視点>>https://www.twitch.tv/videos/v/2219849676]]||
+|2024/08/11|225|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 224日目】バンザイスギル / ジャック馬ウメー 視点>>https://www.twitch.tv/videos/v/2221542405]]||
+|2024/08/15|226|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 225日目】バンザイスギル / ジャック馬ウメー 視点>>https://www.twitch.tv/videos/v/2224865914]]||
+|2024/08/25|227|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 225日目】初A帯ブースティング バンザイスギル / ジャック馬ウメー 視点>>https://www.twitch.tv/videos/v/2233569198]]||
+|2024/08/27|228|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 226日目】二周年おめでとうだよ！ バンザイスギル / ジャック馬ウメー 視点>>https://www.twitch.tv/videos/v/2235308459]]||
+|2024/10/30|238|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 238日目】バンザイスギル 視点 世界統合の日?? 10/30>>https://www.twitch.tv/videos/v/2289198249]]||
+|2024/11/06|239|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 239日目】ジャック馬ウメー 視点  11/6>>https://www.twitch.tv/videos/v/2294998264]]||
+|2024/11/22|240|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 240日目】ジャック馬ウメー 視点  いい夫婦の日 11/22>>https://www.twitch.tv/videos/v/2308187584]]||
+|2024/11/24|241|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 241日目】バンザイスギル 視点  11/24>>https://www.twitch.tv/videos/v/2309125823]]||
+|2024/12/12|242|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 242日目】バンザイスギル 視点 雪が降ってるって？>>https://www.twitch.tv/videos/v/2324818444]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+****2025年
+#region(開く)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/01/01|243|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 243日目】バンザイスギル 視点 2024ありがとう！！2025もよろしくだよ！！>>https://www.twitch.tv/videos/v/2340682896]]||
+|2025/01/09|244|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ 244日目】ジャック馬ウメー 視点 わあいい雪だねー！>>https://www.twitch.tv/videos/v/2348451097]]||
+|2025/01/22|245|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ 245日目】バンザイスギル 視点 妖怪クスリ練り 1/22>>https://www.twitch.tv/videos/v/2360338983]]||
+|2025/01/23|246|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ 246日目】バンザイスギル 視点 宿敵との闘い⁉ 1/23>>https://www.twitch.tv/videos/v/2361235251]]||
+|2025/01/24|247|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 247日目】バンザイスギル 視点 妖怪クスリ練り 1/24>>https://www.twitch.tv/videos/v/2362093839]]||
+|2025/01/25|248|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 248日目】バンザイスギル 視点 1/25>>https://www.twitch.tv/videos/v/2363112334]]||
+|2025/01/26|249|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 249日目】バンザイスギル 視点 1/26>>https://www.twitch.tv/videos/v/2364128450]]||
+|2025/02/07|250|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 250日目】バンザイスギル 視点 2/7>>https://www.twitch.tv/videos/v/2374827285]]||
+|2025/02/12|251|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 251日目】バンザイスギル 視点 2/12>>https://www.twitch.tv/videos/v/2379232136]]||
+|2025/02/14|252|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 252日目】バンザイスギル 視点 2/14>>https://www.twitch.tv/videos/v/2380886779]]||
+|2025/02/22|253|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 253日目】バンザイスギル 視点  2/22>>https://www.twitch.tv/videos/v/2388115253]]||
+|2025/03/01|254|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 254日目】ジャック馬ウメー 視点  3/1>>https://www.twitch.tv/videos/v/2394198390]]||
+|2025/03/11|255|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 255日目】バンザイスギル 視点 3/11>>https://www.twitch.tv/videos/v/2402908122]]||
+|2025/04/09|256|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 256日目】バンザイスギル 視点 4/9>>https://www.twitch.tv/videos/v/2428248752]]||
+|2025/04/12|257|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 257日目】バンザイスギル 視点 4/12>>https://www.twitch.tv/videos/v/2430015668]]||
+|2025/04/12|258|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 258日目】バンザイスギル 視点 4/12>>https://www.twitch.tv/videos/v/2430889452]]||
+|2025/04/16|259|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 259日目】ジャック馬ウメー 視点 4/16>>https://www.twitch.tv/videos/v/2433605907]]||
+|2025/04/16|260|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 260日目】ジャック馬ウメー 視点 4/16>>https://www.twitch.tv/videos/v/2434328793]]||
+|2025/04/17|261|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 261日目】ジャック馬ウメー 視点 4/17>> https://www.twitch.tv/videos/v/2435236025]]||
+|2025/04/18|262|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 262日目】ジャック馬ウメー 視点 4/18>> https://www.twitch.tv/videos/v/2436095262]]||
+|2025/04/19|263|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 263日目】ジャック馬ウメー バンザイスギル 視点 4/19>> https://www.twitch.tv/videos/v/2437095255]]||
+|2025/04/20|264|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 264日目】バンザイスギル 視点 4/20>> https://www.twitch.tv/videos/v/2437897493]]||
+|2025/04/24|265|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 265日目】バンザイスギル 視点 4/24>> https://www.twitch.tv/videos/v/2441300999]]||
+|2025/04/25|266|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 266日目】バンザイスギル 視点 4/25>>https://www.twitch.tv/videos/v/2442146034]]||
+|2025/04/26|267|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 267日目】こころなき英語講座のイベント！バンザイスギル 視点 4/26>>https://www.twitch.tv/videos/v/2443017655]]||
+|2025/04/29|268|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 268日目】ストグライースター！ バンザイスギル 視点 4/29>>https://www.twitch.tv/videos/v/2445602106]]||
+|2025/04/30|269|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 269日目】ストグライースター！ バンザイスギル 視点 4/30>>https://www.twitch.tv/videos/v/2446447506]]||
+|2025/05/01|270|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 270日目】ストグライースター！ バンザイスギル 視点 5/1>>https://www.twitch.tv/videos/v/2447380694]]||
+|2025/05/04|271|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 271日目】ストグラSPLお疲れさまでした！バンザイスギル ジャック馬ウメー視点 5/4>>https://www.twitch.tv/videos/v/2450280411]]||
+|2025/05/17|272|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 272日目】 バンザイスギル ジャック馬ウメー視点 5/17>>https://www.twitch.tv/videos/v/2461000001]]||
+|2025/05/17|272|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 272、2日目】 バンザイスギル ジャック馬ウメー視点 5/17>>https://www.twitch.tv/videos/v/2461163410]]||
+|2025/05/19|273|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 273日目】 バンザイスギル ジャック馬ウメー視点 5/19>>https://www.twitch.tv/videos/v/2462186522]]||
+|2025/05/20|274|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 274日目】  ジャック馬ウメー 視点 >>https://www.twitch.tv/videos/v/2463663845]]||
+|2025/05/25|275|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 275日目】バンザイスギル視点 イベントに向けてちょこちょこ準備>>https://www.twitch.tv/videos/v/2467928126]]||
+|2025/06/04|276|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 276日目】バンザイスギル視点>> https://www.twitch.tv/videos/v/2476889385]]||
+|2025/06/05|277|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 277日目】バンザイスギル視点 6/5>> https://www.twitch.tv/videos/v/2477736901]]||
+|2025/06/06|278|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 278日目】バンザイスギル視点 6/6>>https://www.twitch.tv/videos/v/2478647375]]||
+|2025/06/10|279|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 279日目】バンザイスギル視点 6/10>> https://www.twitch.tv/videos/v/2482219453]]||
+|2025/07/03|282|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 282日目】バンザイスギル&ジャック馬ウメー 視点 7/3>>https://www.twitch.tv/videos/v/2502543717]]||
+|2025/07/04|283|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 283日目】バンザイスギル 視点 7/4 砂漠署vs麻陀羅組の抗争>>https://www.twitch.tv/videos/v/2503431192]]||
+|2025/07/11|284|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 284日目】バンザイスギル 視点 7/11>> https://www.twitch.tv/videos/v/2508819624]]||
+|2025/07/12|285|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 285日目】バンザイスギル 視点 7/12>> https://www.twitch.tv/videos/v/2509675734]]||
+|2025/07/16|286|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 286日目】ジャック馬ウメー 視点 7/16>> https://www.twitch.tv/videos/v/2513936760]]||
+|2025/07/16|287|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 287日目】ジャック馬ウメー 視点 7/17>>https://www.twitch.tv/videos/v/2514905411]]||
+|2025/09/02|288|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 288日目】ジャック馬ウメー バンザイスギル 視点 9/2 1か月ぶり…?>>https://www.twitch.tv/videos/v/2556302651]]||
+|2025/09/04|289|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 289日目】ジャック馬ウメー バンザイスギル 視点 9/4>>https://www.twitch.tv/videos/v/2557145673]]||
+|2025/09/04|290|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 290日目】ジャック馬ウメー バンザイスギル 視点 9/4>>https://www.twitch.tv/videos/v/2557929537]]||
+|2025/09/06|291|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 291日目】ジャック馬ウメー バンザイスギル 視点 9/6>>https://www.twitch.tv/videos/v/2559634198]]||
+|2025/09/07|292|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 292日目】ジャック馬ウメー バンザイスギル 視点 9/7>>https://www.twitch.tv/videos/v/2560482012]]||
+|2025/09/10|293|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 293日目】ジャック馬ウメー バンザイスギル 視点 9/9>>https://www.twitch.tv/videos/v/2562188848]]||
+|2025/09/10|294|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 294日目】ジャック馬ウメー バンザイスギル 視点 9/10>>https://www.twitch.tv/videos/v/2562848436]]||
+|2025/09/12|295|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 295日目】ジャック馬ウメー バンザイスギル 視点 9/11>>https://www.twitch.tv/videos/v/2563793457]]||
+|2025/09/12|296|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 296日目】ジャック馬ウメー バンザイスギル 視点 9/12>>https://www.twitch.tv/videos/v/2564461317]]||
+|2025/09/13|297|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 297日目】ジャック馬ウメー バンザイスギル 視点 9/13>>https://www.twitch.tv/videos/v/2565344477]]||
+|2025/09/14|297.5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 297.5日目】ジャック馬ウメー バンザイスギル 視点 9/13>>https://www.twitch.tv/videos/v/2565519483]]||
+|2025/09/14|298|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 298日目】ジャック馬ウメー バンザイスギル 視点 9/14>>https://www.twitch.tv/videos/v/2566237296]]||
+|2025/09/16|299|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 299日目】ジャック馬ウメー バンザイスギル 視点 9/15>>https://www.twitch.tv/videos/v/2567837976]]||
+|2025/09/18|300|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 300日目】ジャック馬ウメー バンザイスギル 視点 9/17>>https://www.twitch.tv/videos/v/2568720097]]||
+|2025/09/18|300|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 300日目】ジャック馬ウメー バンザイスギル 視点 9/17>>https://www.twitch.tv/videos/v/2568900784]]||
+|2025/09/19|301|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 301日目】ジャック馬ウメー バンザイスギル 視点 9/19>>https://www.twitch.tv/videos/v/2570257738]]||
+|2025/09/20|302|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 301日目】ジャック馬ウメー バンザイスギル 視点 9/19>>https://www.twitch.tv/videos/v/2571128370]]||
+|2025/09/21|303|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ 303日目】街がぁぁ！？ジャック馬ウメー バンザイスギル 視点 9/21>>https://www.twitch.tv/videos/v/2572019334]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+
+【 Season2 】
+***2025年
+#region(開く)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

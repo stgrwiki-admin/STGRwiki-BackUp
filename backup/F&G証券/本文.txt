@@ -1,0 +1,34 @@
+#center(){&image(F_and_G_Investment_Trust.jpg)}
+
+#size(0%){#div(bgcolor=#EFEFEF,color=#444444){#openclose(show=　,block,margin:none;,padding:1px;,border:3px groove #CCC;){#size(14px){#size(50%){　}
+#center(){#size(23px){F&G投資信託}}
+#center(){1,000,000円/週}
+#center(){Fにより提供}
+
+#center(){F&G投資信託へようこそ。}
+#center(){こちらは当社のプランについてご理解いただける方限定の}
+#center(){サブスクリプションプランとなっております。}
+#center(){詳細はお近くのF&G証券職員までお尋ねください。}
+
+}
+}}}
+**&icon_fa(fa-solid fa-money-bill-trend-up)&space()基本情報
+・「&bold(){F}」と名乗る人物がサブスクリプションで運営している証券会社
+・サブスクID(70番)以外の詳細は一切不明。
+
+
+
+
+
+
+**&font(#ff0000){&icon_fa(fa-solid fa-ban)&space()口外厳禁}
+#region(開く)閉じる
+・正体は[[Famos　Gray]]が運営するダミーの証券会社
+・彼から各[[ギャング]]に対して仕事内容の手紙が渡されている
+→&openclose2(show=手紙の詳細){&image(F_letter.png)}
+・当会社が運営しているサブスクプランに加入することで新たなシノギである&br()略奪ミッションの連絡を受けることができる
+→&link_anchor(ryakudatsu,page=ギャング){ミッションの詳細}
+#endregion
+
+
+#right(){&link_up(⇧ページTOPへ)}

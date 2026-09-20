@@ -1,0 +1,200 @@
+&font(16px,b,u,black){Season1}
+#region(開く)
+***&font(25px){&icon_fa(fa fa-car-side)} 所有車両
+//入手日など訂正がある箇所を見つけ次第訂正をお願いします。
+//レイアウト等変更しても構いません。変更した場合に、他の人が追加しやすいようにお願いします。
+#region(開く)
+#table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,ランク=hide,取得日=show,備考=show,画像=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,ランク=center,取得日=right}
+|~車両ID|~車両名|~会社名|~タイプ|~ランク|~取得日|~備考|~画像|h
+|LOAM1817|Kalahari|Canis|Off-Road||1日目(24/01/02)|[[大川>>大　川]]さんから200万貰い初購入|&blankimg(01_Kalahari.png,width=40,height=22)|
+|NUKG8185|Rumpo Custom（リサセン用）|Bravado|Vans|C|6日目(24/01/12)|[[狐野>>狐野　承志]]から購入|&blankimg(02_Rumpo Custom_リサセン用.png,width=40,height=22)|
+|ZCYP5795|Futo GTX（８６）|Karin|Sports|B|7日目(24/01/14)|[[葵井>>葵井　優]]から購入|&blankimg(03_Futo GTX_01.png,width=40,height=22)&blankimg(03_Futo GTX_02.png,width=40,height=22)|
+|YKQG1274|Sultan Classic Custom（レース用A帯サルタン）|Karin|Sports|A|25日目(24/02/18)|[[上田>>上田　さん]]から購入|&blankimg(04_Sultan Classic Custom_01.png,width=40,height=22)&blankimg(04_Sultan Classic Custom_02.png,width=40,height=22)&blankimg(04_Sultan Classic Custom_03.png,width=40,height=22)|
+|OYXM4355|Shinobi（シノビ）|Nagasaki|Motorcycles|D|31日目(24/02/25)|[[狐野>>狐野　承志]]から購入|&blankimg(05_Shinobi_01.png,width=40,height=22)&blankimg(05_Shinobi_02.png,width=40,height=22)|
+|JIMI7834|Rumpo Custom（黄色ランポ1）|Bravado|Vans|C|32日目(24/02/26)|[[大川>>大　川]]から購入|&blankimg(06_Rumpo Custom_黄色ランポ1.png,width=40,height=22)|
+|AOHA0159|Rumpo Custom（花用）|Bravado|Vans|C|38日目(24/03/03)|[[狐野>>狐野　承志]]から購入|&blankimg(07_Rumpo Custom_花用.png,width=40,height=22)|
+|ILOL1511|Revolter（島取リボルーター）|Ubermacht|Sports|A|43日目(24/03/09)|[[まるん>>花沢　まるん]]から購入|&blankimg(08_Revolter_01.png,width=40,height=22)&blankimg(08_Revolter_02.png,width=40,height=22)|
+|OFVF2492|Rumpo Custom（アシッド用）　&icon_fa(fa-solid fa-share)[[牢王>>牢王　蓮]]に貸出中|Bravado|Vans|C|48日目(24/03/15)|[[マヌ太郎>>ゴンザレス　マヌ太郎]]から購入||
+|PINK|Kuruma2a（８６８ 装甲車ver2）|Karin|Sports||68日目(24/04/10)|[[ウェスカー>>アルフォート　ウェスカー]]からギャング用装甲車として贈与。25/01/15、[[だん市長補佐]]により46HBO113からPINKに変更。|&blankimg(10_Kuruma2a_01.png,width=40,height=22)&blankimg(10_Kuruma2a_02.png,width=40,height=22)&blankimg(10_Kuruma2a_03.png,width=40,height=22)|
+|GWTP2318|Itali GTO（【S帯】イタリーGTO）|Progen|Sports|S|74日目(24/04/20)|[[大川>>大　川]]から購入|&blankimg(11_Itali GTO_01.png,width=40,height=22)&blankimg(11_Itali GTO_02.png,width=40,height=22)&blankimg(11_Itali GTO_03.png,width=40,height=22)|
+|TYYI3262|ZR350（これがお前の初めての趣味車だ）|Annis|Sports|A|衛星外75日目(24/04/21)|[[上田>>上田　さん]]から贈与|&blankimg(12_ZR350_01.png,width=40,height=22)&blankimg(12_ZR350_02.png,width=40,height=22)|
+|XXTO387|Outlaw（♡製造誕生日おめでとう車♡【犯罪に使ったら怒るぞ！】）|Nagasaki|Off-road|B|93日目(24/05/15)|[[えびす>>伊勢　えびす]]から贈与|&blankimg(13_Outlaw_01.png,width=40,height=22)&blankimg(13_Outlaw_02.png,width=40,height=22)|
+|SMFO2485|Speedo Express（speedEXクラフト号）|Vapid|Vans||112日目(24/06/06)|[[プラネットモータース]]から購入|&blankimg(14_Speedo Express_speedEXクラフト号.png,width=40,height=22)|
+|MSQJ1036|Speedo Express（2e）|Vapid|Vans||112日目(24/06/06)|[[プラネットモータース]]から購入|&blankimg(15_Speedo Express_2e.png,width=40,height=22)|
+|IREF8591|Speedo Express（3e）|Vapid|Vans||112日目(24/06/06)|[[プラネットモータース]]から購入|&blankimg(16_Speedo Express_3e_01.png,width=40,height=22)&blankimg(16_Speedo Express_3e_02.png,width=40,height=22)|
+|0240PKSG|Gang Burrito Lost MC|Declaasse|Vans||114日目(24/06/08)|ブースティングにて入手|&blankimg(17_Gang Burrito Lost MC.png,width=40,height=22)|
+|6875QZUX|Raiden GRB（ゴミ箱）|Coil|Sports||115日目(24/06/09)|ブースティングにて入手|&blankimg(18_Raiden GRB_ゴミ箱.png,width=40,height=22)|
+|JBQQ8242|Tyrant（サクラタイラント）|Overflod|Super|S|118日目(24/06/14)|[[大川>>大　川]]から購入|&blankimg(19_Tyrant_01.png,width=40,height=22)&blankimg(19_Tyrant_02.png,width=40,height=22)&blankimg(19_Tyrant_03.png,width=40,height=22)|
+|ZFQC3374|Deviant（ディヴィアント）|Schyster|Muscle||123日目(24/06/20)|[[パキち>>パキ　ち]]から購入|&blankimg(20_Deviant_01.png,width=40,height=22)&blankimg(20_Deviant_02.png,width=40,height=22)&blankimg(20_Deviant_03.png,width=40,height=22)&blankimg(20_Deviant_04.png,width=40,height=22)|
+|XJOP5567|Paragon（島取パランゴ）|Enus|Sports|S|129日目(24/06/27)|[[上田>>上田　さん]]から購入|&blankimg(21_Paragon_島取パランゴ.png,width=40,height=22)|
+|LZQA5849|Specter Custom（スペクターカスタム）|Dewbauchee|Sports||129日目(24/06/27)|[[大川>>大　川]]から購入|&blankimg(22_Specter Custom_01.png,width=40,height=22)&blankimg(22_Specter Custom_02.png,width=40,height=22)&blankimg(22_Specter Custom_03.png,width=40,height=22)|
+|NGRI3054|ZR350 Drift（ＦＤドリフト）|Annis|Drift(Sports)||132日目(24/06/30)|[[ねずみさん>>えぐち　きの子]]から購入|&blankimg(23_ZR350 Drift_01.png,width=40,height=22)&blankimg(23_ZR350 Drift_02.png,width=40,height=22)&blankimg(23_ZR350 Drift_03.png,width=40,height=22)|
+|GNJD8955|Hakuchou Drag（BAKUSOU DRUG）|Shitzu|Motorcycles||144日目(24/07/16)|[[ぐち逸>>空架　ぐち逸]]へのプレゼント。[[皇帝>>ニックス　リア]]から購入|&blankimg(24_Hakuchou Drag_BAKUSOU DRUG.png,width=40,height=22)|
+|CGDO5450|BMX|-|Cycle||144日目(24/07/16)|自転車屋で購入|&blankimg(25_BMX_01.png,width=40,height=22)&blankimg(25_BMX_02.png,width=40,height=22)|
+|FCCQ6193|Terminus|Canis|Off-road|C|147日目(24/07/19)|[[パキち>>パキ　ち]]から購入|&blankimg(26_Terminus_01.png,width=40,height=22)&blankimg(26_Terminus_02.png,width=40,height=22)&blankimg(26_Terminus_03.png,width=40,height=22)|
+|1931ARLU|ロメロ霊柩車|Chariot|Sedans||衛星外154日目(24/07/28)|ブースティングにて入手||
+|5712ZNWM|ロメロ霊柩車|Chariot|Sedans||166日目(24/08/21)|ブースティングにて入手||
+|ZCKM2158|Nero|Truffade|Super||175日目(24/09/03)|[[ねずみさん>>えぐち　きの子]]から購入|&blankimg(29_Nero_01.png,width=40,height=22)&blankimg(29_Nero_02.png,width=40,height=22)&blankimg(29_Nero_03.png,width=40,height=22)&blankimg(29_Nero_04.png,width=40,height=22)|
+|JJSG3290|Jester Classic（【B帯】ジェスタークラシック 80スープラ）|Dinka|Sports|B|178日目(24/09/06)|[[上田>>上田　さん]]から購入。|&blankimg(30_Jester Classic_01.png,width=40,height=22)&blankimg(30_Jester Classic_02.png,width=40,height=22)&blankimg(30_Jester Classic_03.png,width=40,height=22)|
+|RADER868|Torero XO（ケインへ）|Pegassi|Super||180日目(24/09/10)|[[店長>>レダー　ヨージロー]]から贈与。レダーが一番気に入っていた車両。&br()190日目(24/10/03)、[[かな市長補佐]]にナンバーをEIGY5860からRADER868に変更してもらった。|&blankimg(31_Torero XO_01.png,width=40,height=22)&blankimg(31_Torero XO_02.png,width=40,height=22)&blankimg(31_Torero XO_03.png,width=40,height=22)|
+|XEXA4145|Tri-Cycles Race Bike（【貸し出し用】ロードバイク）|-|Cycle||188日目(24/10/01)|[[ReBoot]]のお客様貸出用自転車|&blankimg(32_Tri-Cycles Race Bike.png,width=40,height=22)|
+|LBNS2367|Unicycle（【貸し出し用】一輪車）|-|Cycle||188日目(24/10/01)|[[ReBoot]]のお客様貸出用自転車||
+|VGQK6068|City Cycle（【貸し出し用】ママチャリ）|-|Cycle||188日目(24/10/01)|[[ReBoot]]のお客様貸出用自転車||
+|KEINOLFA|Sheava（LFA）|Emperor|Super|C|193日目(24/10/09)|[[そす>>いわさき　そす]]からサプライズで披露され、29万コインと9億円で購入した。24/10/10、補佐にお祝いでナンバーを0994RNUVからKEINOLFAに変更する。|&blankimg(35_Sheava_01.png,width=40,height=22)&blankimg(35_Sheava_02.png,width=40,height=22)&blankimg(35_Sheava_03.png,width=40,height=22)&blankimg(35_Sheava_04.png,width=40,height=22)|
+|K2KRH701|Elegy RH-7（R34 NISMO）|Annis|Sports|C|193.5日目(24/10/10)|[[かな市長補佐]]から贈与。ナンバーは[[かな市長補佐]]が決めた。|&blankimg(36_Elegy RH-7_241011.png,width=40,height=22)&blankimg(36_Elegy RH-7_241017.png,width=40,height=22)&blankimg(36_Elegy RH-7_250506.png,width=40,height=22)&blankimg(36_Elegy RH-7_250525.png,width=40,height=22)|
+|KGLZH8141|Buffalo S|Bravado|Sports||198日目(24/10/16)|[[上田>>上田　さん]]から購入。|&blankimg(37_Buffalo S.png,width=40,height=22)|
+|FRES3556|Warrener|Vulcar|Sedans||209日目(24/10/31)|[[忍>>万十　忍]]から購入。|&blankimg(38_Warrener_01.png,width=40,height=22)&blankimg(38_Warrener_02.png,width=40,height=22)|
+|CNEG2730|RT3000（【B帯】S2000）|Dinka|Sports|B|209日目(24/10/31)|[[ねずみさん>>えぐち　きの子]]から購入|&blankimg(39_RT3000_01.png,width=40,height=22)&blankimg(39_RT3000_02.png,width=40,height=22)|
+|NVIW8051|Paragon|Enus|Sports|S|221日目(24/11/19)|[[上田>>上田　さん]]から購入|&blankimg(40_Paragon_01.png,width=40,height=22)|
+|CUOX2571|Schlagen GT|Benefacter|Sports|-|227日目(24/11/27)|[[ねずみさん>>えぐち　きの子]]から購入|&blankimg(41_Schlagen GT_01.png,width=40,height=22)&blankimg(41_Schlagen GT_02.png,width=40,height=22)&blankimg(41_Schlagen GT_03.png,width=40,height=22)|
+|CNBI4758|Mochi|Annis|Compacts||239日目(24/01/01)|正月イベントで購入券を集め、[[だん市長補佐]]から購入||
+|EBUB2815|Turtle|Karin|Compacts||239日目(24/01/01)|正月イベントで購入券を集め、[[だん市長補佐]]から購入。「正義高速戦団」|&blankimg(43_Turtle_01.png,width=40,height=22)&blankimg(43_Turtle_02.png,width=40,height=22)|
+|KEIN0102|Zentorno CTX|Pegassi|Super||241日目(24/01/02)|ReBoot第19回抽選会が終了後、[[かな市長補佐]]にZentorno CTXをあと１台出せると言われ、1周年記念だからと[[大川>>大　川]]さんに所有権を譲ってもらう。|&blankimg(44_Zentorno CTX_01.png,width=40,height=22)&blankimg(44_Zentorno CTX_02.png,width=40,height=22)&blankimg(44_Zentorno CTX_03.png,width=40,height=22)&blankimg(44_Zentorno CTX_04.png,width=40,height=22)|
+|CSLP7805|Flash GT（【A帯】Flash GT）|Vapid|Sports|A|246日目(25/01/15)|[[上田>>上田　さん]]が[[ReBoot]]へ大量出品した中のFlash GT3台を購入|&blankimg(45_Flash GT_01.png,width=40,height=22)&blankimg(45_Flash GT_02.png,width=40,height=22)&blankimg(45_Flash GT_03.png,width=40,height=22)|
+|YDCI8237|Remus Ⅱ|Annis|Sports||264日目(25/02/07)|[[ねずみさん>>えぐち　きの子]]から購入|&blankimg(46_Remus Ⅱ_01.png,width=40,height=22)&blankimg(46_Remus Ⅱ_02.png,width=40,height=22)&blankimg(46_Remus Ⅱ_03.png,width=40,height=22)&blankimg(46_Remus Ⅱ_04.png,width=40,height=22)|
+|PWLE9861|Powersurge|Western|Motorcycles|S|269日目(25/02/13)|[[中川>>中川　蔵人]]から購入|&blankimg(47_Powersurge_01.png,width=40,height=22)&blankimg(47_Powersurge_02.png,width=40,height=22)&blankimg(47_Powersurge_03.png,width=40,height=22)|
+|SYZG3305|Dilettante|Karin|Compacts||280日目(25/03/04)|[[えびす>>伊勢　えびす]]から購入|&blankimg(48_Dilettante_01.png,width=40,height=22)|
+|KAXR8523|Cinquemila|Lampadati|Sedans||280日目(25/03/04)|[[えびす>>伊勢　えびす]]から購入|&blankimg(49_Cinquemila_01.png,width=40,height=22)&blankimg(49_Cinquemila_02.png,width=40,height=22)|
+|OOHM7511|Sugoi（【B帯】スゴイ）|Dinka|Sports|B|281日目(25/03/05)|[[ドリー>>ミン　ドリー]]から購入|&blankimg(50_Sugoi_01.png,width=40,height=22)&blankimg(50_Sugoi_02.png,width=40,height=22)&blankimg(50_Sugoi_03.png,width=40,height=22)|
+|FUFJ6295|Paragon（【A帯】ルソルソパランゴケイン/オー）|Enus|Sports|A|281日目(25/03/05)|[[霊明>>安倍　霊明]]の誕生日プレゼント代にと[[るんるん>>もり　るんるん]]へ送ったお金のあまりをるんるんが車を買ってケインに譲渡した|&blankimg(51_ルソルソパランゴ_01.png,width=40,height=22)|
+|IORK7884|Tropos Rallye（【B帯トロポスラリー】）|Lampadati|Sports|B|281日目(25/03/05)|[[ねずみさん>>えぐち　きの子]]から購入|&blankimg(52_Tropos Rallye_01.png,width=40,height=22)&blankimg(52_Tropos Rallye_02.png,width=40,height=22)|
+|THZY3437|Autarch（【X帯】オーターク）|Overflod|Super|X|290日目(25/03/18)|[[ドリー>>ミン　ドリー]]から購入|&blankimg(53_Autarch_01.png,width=40,height=22)|
+|IPQS1957|Faction Custom Donk|Willard|Muscle||300日目(25/03/30)|レースコース作成用に[[須藤>>須藤　冬馬]]から購入|&blankimg(54_Faction Custom Donk.png,width=40,height=22)|
+|BCKD1721|Brioso 300（【C帯】ルパンカー）|Grotti|Compacts|C|312日目(25/04/15)|[[須藤>>須藤　冬馬]]から購入|&blankimg(55_Brioso 300_01.png,width=40,height=22)&blankimg(55_Brioso 300_02.png,width=40,height=22)|
+|ZREQ6560|X80 Proto（【EDEN-X】X80 Proto）|Grotti|Super|X|314日目(25/04/17)|[[EDEN]]から[[公認勝手にレース協会]]に提供された。|&blankimg(56_X80 Proto_01.png,width=40,height=22)|
+|QVOC3396|Speedo Express|Vapid|Vans||316日目(25/04/20)|[[マヌ太郎>ゴンザレス　マヌ太郎]]から購入。868メンバーの福利厚生のために事前購入。||
+|SRTF7342|Speedo Express|Vapid|Vans||316日目(25/04/20)|[[マヌ太郎>ゴンザレス　マヌ太郎]]から購入。868メンバーの福利厚生のために事前購入。||
+|COXH4559|Niobe|Übermacht|Sports||317日目(25/04/24)|[[須藤>>須藤　冬馬]]から[[ReBoot]]で買い取り。ST車で売れそうにないため自家用で使用中。||
+|EGG25001|Egg Car|Arcida|Sports|U|319日目(25/04/29)|[[Magic! Easter Event>イースターイベント]]で獲得した（街で1台目）。|&blankimg(60_Egg Car_01.png,width=40,height=22)|
+|AIIS5121|Vivante LE|Karin|SUVs||333日目(25/05/17)|家族用に[[須藤>>須藤　冬馬]]から購入。|&blankimg(61_Vivante LE_01.png,width=40,height=22)&blankimg(61_Vivante LE_02.png,width=40,height=22)&blankimg(61_Vivante LE_03.png,width=40,height=22)|
+|KJIN2697|sigma2|Karin|Sports||353日目(25/07/22)|[[ねずみさん>>えぐち　きの子]]から購入。|&blankimg(62_sigma2_01.png,width=40,height=22)&blankimg(62_sigma2_02.png,width=40,height=22)&blankimg(62_sigma2_03.png,width=40,height=22)|
+|QEGY7062|Ignus|Pegassi|Super|S|361日目(25/08/07)|[[ねずみさん>>えぐち　きの子]]から購入。|&blankimg(63_Ignus_01.png,width=40,height=22)&blankimg(63_Ignus_02.png,width=40,height=22)&blankimg(63_Ignus_03.png,width=40,height=22)|
+|BOOSTING|Shotaro|Nagasaki|Motorcycles||361日目(25/08/07)|[[有坂誉>有坂　誉]]に託された[[ウェスカー>アルフォート　ウェスカー]]から譲渡された&openclose2(show=昔){(2023年)}のBoosting車両。街に1台。二度と手に入らない希少なバイク。&br()60万3039コインで[[かな市長補佐]]に盗難車から所有車に変更してもらった。元車両ID: 9196CMEU|&blankimg(64_Shotaro_01.png,width=40,height=22)&blankimg(64_Shotaro_02.png,width=40,height=22)|
+|LQUF0011|Specter2|Dewbauchee|Sports||362日目(25/08/09)|[[有坂誉>有坂　誉]]から贈与。有坂が気に入っていた車両。|&blankimg(65_Specter2_01.png,width=40,height=22)&blankimg(65_Specter2_02.png,width=40,height=22)&blankimg(65_Specter2_03.png,width=40,height=22)|
+|BLZT6799|Remus Tsuki Edition|Annis|Sports||369日目(25/09/03)|[[花沢まるん>花沢　まるん]]から購入。|&blankimg(66_Remus Tsuki Edition_01.png,width=40,height=22)&blankimg(66_Remus Tsuki Edition_02.png,width=40,height=22)&blankimg(66_Remus Tsuki Edition_03.png,width=40,height=22)&blankimg(66_Remus Tsuki Edition_04.png,width=40,height=22)|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+※その他[[ReBoot]]で買い取った車両がガレージに大量に存在している。
+//|車両ID|車両名|会社名|タイプ|ランク|取得日|備考|
+//
+#endregion(所有車両)
+***&font(25px){&icon_fa(fa-solid fa-helicopter)} 所有航空機
+//入手日など訂正がある箇所を見つけ次第訂正をお願いします。
+//レイアウト等変更した場合に、変更しても構いません。その際他の人が追加しやすいようにお願いします。
+#region(開く)
+#table_filter(){車両ID=hide,航空機名=show,会社名=hide,取得日=show, 備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,取得日=right}
+|~車両ID|~航空機名|~会社名|~取得日|~備考|h
+|YFHU6467|Sparrow（砂漠スパロー）||40日目(24/03/06)|[[多良里　ずぅ]]から購入|
+|VGGO0541|Frogger Custom（豪邸フロガー）|Maibatsu|63日目(24/04/04)|[[豆　やん]]から購入|
+|LWCT3916|Volatus（豪邸ヴォラタス）|Buckingham|95日目(24/05/17)|[[豆　やん]]から購入|
+|1Y0102|Buzzard（豪邸バザード）||120日目(24/06/16)|[[豆　やん]]から購入。1周年記念で[[だん市長補佐]]が車両IDを変更。元車両ID：DTWH2805|
+|XEUW7441|Frogger（北フロガー）|Maibatsu|125日目(24/06/22)|[[豆　やん]]から購入|
+|ODOV4742|Volatus（3.ヴォラタス）|Buckingham|236日目(24/12/20)|[[エスターク>>エスターク・Z・ダークネス]]から中古で6億6円で購入|
+|ACWD6327|Dooballoo（砂漠気球）|VooDoo|270日目(25/02/14)|[[豆　やん]]から購入|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+//
+|&blankimg(Kein_Sparrow.png,x=117,y=66)|&blankimg(Kein_Frogger.png,x=117,y=66)|&blankimg(Kein_Volatus.png,x=117,y=66)|&blankimg(Kein_Buzzard.png,x=117,y=66)|&blankimg(Kein_Frogger2.png,x=117,y=66)|&blankimg(Kein_Volatus2.png,x=117,y=66)|&blankimg(Kein_Dooballoo.png,x=117,y=66)|
+|1: Sparrow|2: Frogger|3: Volatus|4: Buzzard|5: Frogger|6: Volatus|7: Dooballoo|
+#endregion(所有航空機)
+***&font(25px){&icon_fa(fa-solid fa-ship)} 所有船舶
+//入手日など訂正がある箇所を見つけ次第訂正をお願いします。
+//レイアウト等変更した場合に、変更しても構いません。その際他の人が追加しやすいようにお願いします。
+#region(開く)
+#table_filter(){車両ID=hide,船舶名=show,会社名=hide,取得日=show, 備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,取得日=right}
+|~車両ID|~船舶名|~会社名|~取得日|~備考|h
+|URKJ6716|Longfin|Shitzu|58日目(24/03/28)|[[豆　やん]]から購入|
+|UUPX1646|Seashark|Speedophile|189日目(24/10/02)|[[豆　やん]]から購入|
+|LHTO7864|Seashark|Speedophile|201日目(24/10/20)|[[豆　やん]]から購入|
+|GVCR1996|Seashark|Speedophile|201日目(24/10/20)|[[豆　やん]]から購入|
+|3STGR007|Unicorndoo&icon_fa(fa-solid fa-share)[[月渚>>月渚　雪人]]に貸出中|VooDoo|367日目(25/08/27)|3周年記念ガチャから入手|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+|&blankimg(Seashark.png,x=117,y=66)|&blankimg(Unicorndoo.png,x=117,y=66)|
+|Seashark|Unicorndoo|
+#endregion(所有船舶)
+//
+***&font(25px){&icon_fa(fa-solid fa-truck-arrow-right)} 手放した車両等
+#region(開く)
+
+***&font(25px){&icon_fa(fa-solid fa-gift)} 贈与車両等
+#region(開く)
+#table_filter(){贈与相手=show,車両ID=hide,車両名=show,会社名=hide,タイプ=show,ランク=hide,取得日=hide,贈与日=show,備考=show,画像=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,ランク=center,取得日=right,贈与日=right}
+|~贈与相手|~車両ID|~車両名|~会社名|~タイプ|~ランク|~取得日|~贈与日|~備考|~画像|h
+|[[刃弐　ランド]]|GUDK8132|Shinobi Outlaw|Nagasaki|Motorcycles||78日目(24/04/25)|78日目(24/04/25)|試乗会でカスタムを見ていた時、サメのカスタムを見つけ贈与することにした。[[皇帝>>ニックス　リア]]から購入、[[JTS>>ジョアンナテクノサービス]]にてカスタム||
+|[[レダー　ヨージロー]]|CYTJ0631|Euros Drift|Annis|Drift(Sports)||133日目(24/07/02)|133日目(24/07/02)|[[BIG>>BIG　SUZUKI]]にカスタム依頼をした誕生日プレゼント。[[ねずみさん>>えぐち　きの子]]から購入||
+|[[タラ　ちゃん]]|0652LRBV|Gang Burrito（デクラスギャング・ブリート）|Declaasse|Vans||144日目(24/07/16)|158日目(24/08/02)|中古車ディーラー用として用意するがタラちゃん欲しがっていたためお礼として贈与。ブースティングにて入手||
+|[[安保　さぶ郎]]（[[日之　ぱちお]]への贈与委託）|YPWU0461|Vigero ZX|Declaasse|Muscle||160日目(24/08/04)|160日目(24/08/04)|[[ぱちお>>日之　ぱちお]]さんへの開店祝いとして用意するも直接渡せなそうだったので[[さぶ郎>>安保　さぶ郎]]へ託す。[[勝痔>>竹井　勝痔]]から購入、[[A2>>A2 Lab]]にてカスタム||
+|[[ジョシュア・マーキル]]|USWF1108|Speedo Express（2）|Vapid|Vans||215日目(24/11/10)|216日目(24/11/12)|Speedo Expressを所持していない[[868]]の構成員への支給用。[[のすけ>>ティキーチック　のすけ]]から購入||
+|[[轟　ばーど]]|RKLA4961|Speedo Express（bard）|Vapid|Vans||215日目(24/11/10)|220日目(24/11/17)|Speedo Expressを所持していない[[ばーど>>轟　ばーど]]への支給用。ギャングプール金[[のすけ>>ティキーチック　のすけ]]から購入||
+|[[鯵屋>>魚参　屋]]|MJLO7328|Frogger|Maibatsu|Helicopters|-|221日目(24/11/19)|221日目(24/11/19)|鯵屋への贈与用としてポケットマネーで[[豆　やん]]から購入||
+|[[轟　ばーど]]|VVXF9637|Frogger|Maibatsu|Helicopters|-|221日目(24/11/19)|222日目(24/11/21)|ばーどへの贈与用としてポケットマネーで[[豆　やん]]から購入||
+|[[伊勢　えびす]]|EJRF0177|Comet S2（えびす上官おめでとう号）|Pfister|Sports||衛星外230日目(24/11/30)|230日目(24/11/30)|[[上田>>上田　さん]]から購入。9055でカスタムしたので5％引きになった。||
+|[[鯵屋>>魚参　屋]]|MUCD0199|Deveste（誕生日おめでとう鯵屋さんへ）|Principe|Super||101日目(24/05/24)|257日目(25/01/29)|誕生日プレゼントとして渡した。[[大川>>大　川]]から購入|&blankimg(鯵屋へ_Deveste_01.png,width=50,height=28)&blankimg(鯵屋へ_Deveste_02.png,width=50,height=28)|
+|[[万十　忍]]|BDKE0722|ZR350（RE雨宮 雨宮アスパラドリンク RX-7）|Annis|Sports|A|190日目(24/10/03)|270日目(25/02/14)|[[忍>>万十　忍]]との互いの車を賭けたレース勝負にて勝ち入手するが、リベンジ戦にて負け返却した||
+|[[鯵屋>>魚参　屋]]|ERCM5660|Speedo Custom（ホットドッグ号）|Vapid|Vans||28日目(24/02/22)|274日目(25/02/19)|ホットドッグ屋になる[[鯵屋>>魚参　屋]]に車の中身ごとプレゼントした。[[大川>>大　川]]から購入||
+|[[ジョシュア・マーキル]]|2110QGWM|Furia WideBody2|Grotti|Super||277日目(25/02/25)|278日目(25/02/26)|ブースティングにFuria WideBody2が入った時からプレゼントを計画。入手した際に実物を見て欲しくなるもこの街で一番フューリアが似合う男へとプレゼントする。[[そす>>いわさき　そす]]から購入||
+|[[月渚　雪人]]|XQGL2528|Speedo Express（speedEX）|Vapid|Vans||215日目(24/11/10)|315日目(25/04/18)|Speedo Expressを所持していない[[868]]の構成員への支給用。[[のすけ>>ティキーチック　のすけ]]から購入||
+|[[ジョシュア・マーキル]]|EGG25058|Egg Car|Arcida|Sports|U|323日目(25/05/04)|327日目(25/05/10)|[[Magic! Easter Event>イースターイベント]]で獲得した。ねだられプレゼントした。||
+|[[フェアリー　トピオ]]|EGG25060|Egg Car|Arcida|Sports|U|323日目(25/05/04)|327日目(25/05/10)|[[Magic! Easter Event>イースターイベント]]で獲得した。ねだられプレゼントした。||
+|[[だん市長補佐]]（リコール）|RBTGT006|Terenowa DRT|Karin|Sports|A|331日目(25/05/15)|332日目(25/05/16)|[[ReBoot]]のカートフェス限定車ピックアップガチャで手に入れたが、不備により市に回収された。||
+|[[いわさき　そす]]|PKUM5151|Schafter V12|Benefactor|Sports||362日目(25/08/09)|365日目(25/08/17)|[[有坂誉>有坂　誉]]に託された[[そす>いわさき　そす]]への贈り物。||
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(贈与車両等)
+//
+***&font(25px){&icon_fa(fa-solid fa-money-bill)} 売却車両等
+#region(開く)
+&font(17,b){売却済}
+#table_filter(){売却相手=show,車両ID=hide,車両名=show,会社名=hide,タイプ=show,ランク=hide,売値=show,取得日=hide,売却日=show,備考=show,画像=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,ランク=center,売値=right,取得日=right,売却日=right}
+|~売却相手|~車両ID|~車両名|~会社名|~タイプ|~ランク|~売値|~取得日|~売却日|~備考|~画像|h
+|[[無馬　かな]]|7002YPWT|Raiden GRB|Coil|Sports||$240,000,000|94日目(24/05/16)|衛星外98日目(24/05/21)|ブースティングでコインで交換したゴミ箱車両。2台目。フルカス済み。衛星外にてオークション等に使う為売却。||
+|[[無馬　かな]]|8970GBTS|Raiden GRB|Coil|Sports||$200,000,000|93日目(24/05/15)|衛星外98日目(24/05/21)|ブースティングでコインで交換したゴミ箱車両。衛星外にてオークション等に使う為売却。||
+|[[ReBoot]]|MLVJ2854|Rumpo Custom（宝石用）|Bravado|Vans|C|$25,000,000|48日目(24/03/15)|166日目(24/08/20)|[[トンコ>>トントコ　トンコ]]が購入。[[マヌ太郎>>ゴンザレス　マヌ太郎]]から購入した||
+|[[ReBoot]]|8640PWNC|Gang Burrito（デクラスギャング・ブリート）|Declaasse|Vans||$40,000,000|143日目(24/07/14)|166日目(24/08/20)|[[ぱちお>>日之　ぱちお]]が購入。ブースティングにて入手した||
+|[[ReBoot]]|0686LCAG|ロメロ霊柩車|Chariot|Sedans||$25,000,000|163日目(24/08/16)|166日目(24/08/20)|[[ずぅ>>多良里　ずぅ]]が購入。ブースティングにて入手した||
+|[[ReBoot]]|OTCX3328|Drift Tampa（ドリフト用タンパ）|Declasse|Drift(Sports)||$30,000,000|129日目(24/06/27)|衛星外(24/08/25)|[[ボイラ>>ボイラ　テンガリン]]が購入。[[パキち>>パキ　ち]]から購入した|&blankimg(Sell_Drift Tampa.png,width=50,height=28)|
+|[[ReBoot]]|1163RZFK|Raiden GRB|Coil|Sports||$100,000,000|161日目(24/08/14)|187日目(24/09/29)|[[ぷぅ>>鬼桃　ぷぅ]]が購入。ブースティングにて入手||
+|[[ReBoot]]|4118LTGJ|ロメロ霊柩車|Chariot|Sedans||$40,000,000|188日目(24/10/01)|衛星外(24/10/10)|ブースティングにて入手した||
+|[[J　D]]|GNZD5456|Flash GT|Vapid|Sports||$1,000,000 |246日目(25/01/15)|251日目(25/01/22)|[[上田>>上田　さん]]が[[ReBoot]]へ大量出品した中のFlash GT3台を購入||
+|[[轟　ばーど]]|YSXE1951|Flash GT|Vapid|Sports||$1,000,000|246日目(25/01/15)|252日目(25/01/23)|[[上田>>上田　さん]]が[[ReBoot]]へ大量出品した中のFlash GT3台を購入||
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+
+&font(17,b){未売却}
+#table_filter(){売却相手=show,車両ID=hide,車両名=show,会社名=hide,タイプ=show,ランク=hide,売値=show,取得日=hide,備考=show,画像=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,ランク=center,売値=right,取得日=right}
+|~売却相手|~車両ID|~車両名|~会社名|~タイプ|~ランク|~売値|~取得日|~備考|~画像|h
+|[[ReBoot]]|KCQY6585|Blista Kanjo（シビック）|Dinka|Compacts||$8,000,000|106日目(24/05/30)|[[パキち>>パキ　ち]]から購入した||
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(売却車両等)
+//
+#endregion
+#endregion(S1)
+
+//
+//
+&font(16px,b,u,black){Season2}
+***&font(25px){&icon_fa(fa fa-car-side)} 所有車両
+#region(開く)
+#table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=show,備考=show,画像=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,取得日=right}
+|~車両ID|~車両名|~会社名|~タイプ|~取得日|~備考|~画像|h
+|CABD9620|Faggio|Pegassi|Motorcycles|2日目(25/12/24)|28万円で購入, 車体カラー：黒&font(10px){（ガレージの表記がFaggio Sportになっているが間違い）}|&blankimg(S2_01_Faggio.png,width=40,height=22)|
+|EHNW8975|Blista|Dinka|Compact|3日目(25/12/26)|120万円で購入。|&blankimg(S2_02_Blista.png,width=40,height=22)|
+|JL7XR47E|Cody|Dinka|Off-road|11日目(26/01/29)|87万円で購入。&font(10px){（ガレージの表記が(ST)になっているが間違い）}|&blankimg(S2_03_Cody_01.png,width=40,height=22)&blankimg(S2_03_Cody_02.png,width=40,height=22)|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion
+***&font(25px){&icon_fa(fa-solid fa-car-on)} 全車両ギャラリー
+#region(開く,close)閉じる
+#expand(450){
+#img_slide()
+}
+#endregion

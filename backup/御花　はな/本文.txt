@@ -1,0 +1,732 @@
+&bold(){‼️告知‼️}
+皆様のご協力もあり、本ページのトラブルは終息しつつあります。
+ただし、今後も同様の事案が発生した場合は、再び同様の対応をいたしますのでご注意ください
+
+2024年3月17日　管理人代行
+
+&image(御花はな_0818.png,x=250,y=350)
+
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_color(#F8D3D6)
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(おはな){御花}　はな|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|2000/08/07(23歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年08月15日 (&countup(2023/08/15,yd))|2025年12月19日 (&countup(2025/12/19,yd))|
+|~職業|~&icon_fa(fa-solid fa-shop)|&small(){&openclose2(show=▼Season1){&br()&b(){[[花屋>ColorFlora]] 店長} &small(){2024/03/13～2025/09/21}&br()&b(){[[BMC>Bear Moon Custom]] 従業員} &small(){2023/09/03〜2025/09/21}&br()&b(){[[深沢モータース]] 従業員} &small(){2023/12/01〜2025/09/21}}}&br()&small(){&openclose2(show=▼Season1の過去の職業){&nbsp(br,3)[[Père Noël>Père Noël]] 従業員&small(){ ～2024/03/05}}}|メカニック【[[JTS>>ジョアンナテクノサービス]]】（2026/02/05~）&br()メカニック【[[UGM]]】|
+|~レーサー名|~&icon_fa(fa fa-user-tag)|>|IQ200 Ohana|
+|~TwiX|~&icon_fa(fa fa-crow)|@御花はな||
+|BGCOLOR(#ffb05c):COLOR(#fff):~プレイヤー|BGCOLOR(#ffb05c):COLOR(#fff):~&icon_fa(fa fa-heart)|>|花束ゆいは|
+|BGCOLOR(#ffb05c):COLOR(#fff):~告知等|BGCOLOR(#ffb05c):COLOR(#fff):~&icon_fa(fa fa-bullhorn)|>|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#){Twitter}>>https://twitter.com/hanataba_yuiha]]|
+|BGCOLOR(#ffb05c):COLOR(#fff):~配信場所|BGCOLOR(#ffb05c):COLOR(#fff):~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/hanataba_yuiha]]/&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@HanatabaYuiha]] |
+|BGCOLOR(#ffb05c):COLOR(#fff):~別キャラ|BGCOLOR(#ffb05c):COLOR(#fff):~&small(){&icon_fa(fa fa-user-plus)}|>|&openclose2(show=ネタバレ注意){【[[木ノ葉　椛]]】}|
+
+//JTS→UGM移籍日の詳細がわかる方は更新願います。
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+*&font(#e0e0e0){基本情報 &font(#F8D3D6){&icon_fa(fa fa-address-card-o)}}
+>名前：御花はな(23)
+>身長：155cm
+>性格：面白いことが好き、よく笑う、ハンドル持つと性格変わる
+>趣味：お花収集、食べること、車修理
+>
+>💐ロスサントスに来た目的
+>花が好きで旅をしながらいろんな国の花を集めている。
+>ロスサントスで珍しい花があると聞き、それを求めて引っ越してきたが....。
+>お花摘みはこの街では違法に当たると聞き断念、新しい大きな目的を探している。
+>世界の様々な食べ物を食べることも目的の一つである。
+※配信概要覧より引用
+
+[[ストグラ運営公式X>>https://x.com/STGR_RolePlay/status/1812070737123176689]]にて公開された16タイプ別#ストグラ性格診断によると[[主人公>>https://x.com/STGR_RolePlay/status/1812071000269562171]]。
+
+&size(120%){&bgcolor(#F8D3D6){&nbsp()&font(#666,90%)&b(){💐 ロスサントスでの目標}&nbsp(38)}}
+&size(13){※2023年9月現在}
+-人の連絡先をいっぱい集める！！
+-美味しいご飯をいっぱい食べる！
+-ドリフトを極める！
+-&s(){日本で行っていた花集めをこの街でもする}&br()&openclose2(show=※断念){警察と話す上でこの街でのお花集めは違法とわかり初日で断念}
+&size(120%){&bgcolor(#F8D3D6){&nbsp()&font(#666,90%)&b(){💐 趣味・嗜好}&nbsp(38)}}
+- レース好き。レーサー名は「IQ200 Ohana」
+- 車やドリフトに目覚めたのはルパンカーがきっかけと言うわけではなく[[BIG　SUZUKI]]の影響との事。
+&size(120%){&bgcolor(#F8D3D6){&nbsp()&font(#666,90%)&b(){💐 その他}&nbsp(38)}}
+- いきなり大声で笑い出すことがある。明るさが売り。
+- [[有坂　誉]]よりコンビニエンスストアの経営権を1000万で譲り受けた。
+*&font(#e0e0e0){職業・所属 &font(#F8D3D6){&icon_fa(fa-solid fa-shop)}}
+&size(120%){&bgcolor(#F8D3D6){&nbsp()&font(#666,90%)&b(){💐 メカニック}&nbsp(38)}}
+- [[BMC>>Bear Moon Custom]]に就職(2023/09/03〜)
+- 暇な時は店の真ん中に座りご飯を食べる。通称もぐもぐおはな。
+&size(120%){&bgcolor(#F8D3D6){&nbsp()&font(#666,90%)&b(){💐 カーディーラー}&nbsp(38)}}
+- [[深沢　えぼし]]に普通車ディーラー([[深沢モータース]])の社員の体験入社をお願いしたところ、正社員での雇用になった。
+&size(120%){&bgcolor(#F8D3D6){&nbsp()&font(#666,90%)&b(){💐 お花屋さん}&nbsp(38)}}
+- 「いつかは花屋を開店したい！」という想いと共に、市長との面談や従業員の勧誘など地道な努力を続ける&br()→花屋『[[ColorFlora]]』を開店(2024/03/13)
+&size(120%){&bgcolor(#F8D3D6){&nbsp()&font(#666,90%)&b(){💐 ドリフト協会}&nbsp(38)}}
+&size(13){※協会の詳細は[[ドリフト協会]]参照}
+- ドリフト好きの有志で結成された同好会。第1回ドリフトコンテストの開催日に参加(2024/07/31)
+
+*&font(#e0e0e0){エピソード &font(#F8D3D6){&icon_fa(fa fa-calendar-o)}}
+&b(){2023年}
+#region(8月)8月
+#region(08/15　#1　[[🔰Day1 初めてのストグラ！御花はな視点。初めてのロスサントス>>https://www.youtube.com/watch?v=qPfL5-Ba7C4]])
+・エピソード募集中
+#endregion(8/15)
+#region(08/16　#2　[[配信タイトル>>ここに配信URLを入力]])
+・エピソード募集中
+#endregion(8/16)
+#region(08/17　#3　[[配信タイトル>>ここに配信URLを入力]])
+・エピソード募集中
+#endregion(8/17)
+#region(08/18　#4　[[配信タイトル>>ここに配信URLを入力]])
+・エピソード募集中
+#endregion(8/18)
+#region(08/20　#5　[[配信タイトル>>ここに配信URLを入力]])
+・エピソード募集中
+#endregion(8/20)
+#region(08/21　#6　[[配信タイトル>>ここに配信URLを入力]])
+・エピソード募集中
+#endregion(8/21)
+#region(08/22　#7　[[配信タイトル>>ここに配信URLを入力]])
+・エピソード募集中
+#endregion(8/22)
+#region(08/23　#8　[[配信タイトル>>ここに配信URLを入力]])
+・エピソード募集中
+#endregion(8/23)
+#region(08/24　#9　[[配信タイトル>>ここに配信URLを入力]])
+・エピソード募集中
+#endregion(8/24)
+#region(08/26　#10　[[配信タイトル>>ここに配信URLを入力]])
+・エピソード募集中
+#endregion(8/26)
+#region(08/27　#11　[[配信タイトル>>ここに配信URLを入力]])
+・エピソード募集中
+#endregion(8/27)
+#region(08/28　#12　[[配信タイトル>>ここに配信URLを入力]])
+・エピソード募集中
+#endregion(8/28)
+#region(08/29　#13　[[🌸御花はな 13day 職業体験をしてみよう！>>https://www.twitch.tv/videos/1911611904]])08/29　#13　[[🌸御花はな 13day 職業体験をしてみよう！>>https://www.twitch.tv/videos/1911611904]]
+(Youtube動画)[[🌸#ストグラ 13日目🌸「結婚!?ハチャメチャカオスな一日」御花はな視点 【アーカイブ】>>https://www.youtube.com/watch?v=q84khMaAKLs]]
+- 上裸の[[オザワ　ハヤマサ]]🔰と遭遇し、連絡先を交換。カジキを釣り上げ８千万儲けた噂話を伝えたところ釣りに興味津々だったが、梅宮辰夫フィッシングクラブへの勧誘は断られた。[[🎥>>https://youtu.be/q84khMaAKLs?si=vpl2HGgrXSDt_kjm&t=848]]
+- 昨日出会った初心者の[[まるちゃん>>丘猫　まる]]🔰にルパンカープレゼントを企画。[[シャンクズさん>>四皇　シャンクズ]]と共同で&color(#F54738){赤いルパンカー}を購入する。[[🎥>>https://youtu.be/q84khMaAKLs?si=g8BSKUfZH7hHlcEj&t=3199]]
+- レギオンスクエアで[[エドさん>>エド・エトワール]]と出会い、[[まるちゃん>>丘猫　まる]]のバイトを探すことに。[[マクドナルドさん>>マクドナルド]]と一緒に建築バイトする約束を取り付ける。
+- &s(){オールオッフ}、&s(){ヴァンパイアハンター}[[桐生 オ一馬>>ジェフリー　ヒッチコック]]を含む雇われ集団に囲まれ、怖い思いをしながらアシッド集めの合法バイトをする。
+- レギオンスクエアで[[ごうさん>>月ノ島　ごう]]に職業相談し、今後は黒い人達のお抱えクラフターの需要が爆上がりすると教えてもらう。
+- 御花はな、[[マクドナルドさん>>マクドナルド]]、[[らみちゃん>>Kohana　Lami]]、[[ズズさん>>キングスターダイヤモンド　ズズ]]、[[エドさん>>エド・エトワール]]、[[ルーファスさん>>ルーファス　ウィルキンズ]]、[[まるちゃん>>丘猫　まる]]、[[マゾトキ ケイジ>>エスターク・Z・ダークネス]]の8人で建築バイトに向かう。バイト先で[[マクドナルドさん>>マクドナルド]]が姿を消し、[[マック フォードさん>>マクドナルド]]がバイトに参加する。御花はな、[[マック フォードさん>>マクドナルド]]、[[らみちゃん>>Kohana　Lami]]、[[ズズさん>>キングスターダイヤモンド　ズズ]]の4人チームで建築作業をする。[[🎥>>https://youtu.be/q84khMaAKLs?si=4IFxTaj5Pg0RsEWB&t=6225]]
+- 建築バイトの打ち上げで、ノリと勢い（[[ズズ>>キングスターダイヤモンド　ズズ]]＆はなのお笑いコンビ）として余興を披露し、大金を稼ぐ。コントは大盛況に終わるが、[[ズズさん>>キングスターダイヤモンド　ズズ]]とカップルポーズをしてしまい、ノリと勢いで教会に行くことになる。[[🎥>>https://youtu.be/q84khMaAKLs?si=iDsP4i9FGZsP5HLy&t=10177]]
+- ノリと勢いで結婚式を挙げる。[[🎥>>https://youtu.be/q84khMaAKLs?si=uK_xMsP_2sKmNBja&t=11031]]
+-- 新郎：[[ズズ>>キングスターダイヤモンド　ズズ]]
+-- 新婦：はな
+-- 神父：[[マクドナルド]]
+-- 生贄：[[モズク田　圭吾>>エスターク・Z・ダークネス]]
+-- 参列者：[[エド・エトワール]]／[[丘猫　まる]]／[[こはな　らみ>>Kohana　Lami]]／[[柴　映作]]
+誓いのキスの直前、生贄[[モズク田　圭吾>>エスターク・Z・ダークネス]]が新郎[[ズズ>>キングスターダイヤモンド　ズズ]]に愛の告白をするというハプニングが起こり、結婚は白紙となった。
+#endregion(8/29)
+#region(08/30　#14　[[🌸御花はな 14day メカニックやってみる！>>https://www.twitch.tv/videos/1912512668]])08/30　#14　[[🌸御花はな 14day メカニックやってみる！>>https://www.twitch.tv/videos/1912512668]]
+
+- [[BMカスタム]]で職場体験。
+-- [[空舞月　りり]]（店長）にレクチャーを受けながら、初めてのカスタム・アップグレードを行う。
+-- [[パパ活のパパ>>四皇　シャンクズ]]と[[店長>>空舞月　りり]]の恋バナを聞く。恩人の二人の恋バナに大興奮し駆け回り、全力で応援することを決める。
+-- [[にし　のん]]と二人のデートを尾行し、海中から盗聴する決死の探偵業務を行うが、志半ばで溺死。
+#endregion(8/30)
+#region(08/31　#15　[[🌸御花はな 15day 今日もメカニック&車を買いたい！>>https://www.twitch.tv/videos/1913341430]])08/31　#15　[[🌸御花はな 15day 今日もメカニック&車を買いたい！>>https://www.twitch.tv/videos/1913341430]]
+- レーサーライセンス、中型バイク免許を取得。
+- 本日オープンした[[Violet Fizz]]へ赴く。
+-- 店舗前で心なき市民の暴走車により右足をくじく。その状態でVioret Fizzへ入店し、ピカピカの店舗を血で汚す。
+-- 開店したてのお店の前でペールノエル商品を移動販売しているとツイートしようとするが、ギリギリで踏みとどまる。
+-- 「チキンとレモンサワー追加してください！」とリクエストし、行きつけの居酒屋にしようとする。
+- 昨日に引き続き、[[BMカスタム]]で職場体験を行う。
+#endregion(8/30)
+#endregion(8月)
+#region(9月)9月
+#region(09/01　#16　[[🌸御花はな 1時間くらい！車を買いたい！>>https://www.twitch.tv/videos/1914094702]])09/01　#16　[[🌸御花はな 1時間くらい！車を買いたい！>>https://www.twitch.tv/videos/1914094702]]
+・エピソード募集中
+#endregion(9/1)
+#region(09/02　#17　[[🌸御花はな 17day ついに！？職決まるか！？>>https://www.twitch.tv/videos/1915175590]])09/02　#17　[[🌸御花はな 17day ついに！？職決まるか！？>>https://www.twitch.tv/videos/1915175590]]
+- 自らの資金で初となる車を購入。
+-- [[BIG　SUZUKI]]に連絡を取り、「ドリフト車がほしい」「持っている人があまりいない車がいい」と伝え、オススメされたDRIFT TAMPA（2000万）を購入する。
+-- BIGも「ドリフト車を買いたいと言ってくれる人はなかなかいない」とはなの車購入を喜んでくれ、そのまま開業したての[[BIG Automotive Design]]でいかちぃ塗装を施してもらう。
+--なおその際久しぶりに客に犯罪や事業用のバンではなくゴリゴリのドリ車と言う趣味用の車を卸せた事やオープン前にも関わらず積み重なった予約や開店準備のタスクから逃避させてくれたお礼として通常500万からのBIGカスタムをタダで行うBIGpriceを見せてくれた。[[➡納車後の走行時反応>>https://youtu.be/bHauV7a1Kjg?t=5117]]
+-- 大満足の車となり、各所で色んな人に見せびらかしてはニヤニヤする。
+- 職場体験していた[[BMC>>BMカスタム]]で社長の[[空舞月　りり]]に入社の意思を伝え、入社が決定。[[空舞月　りり]]が衛星外だったため、正式な入社は翌日からとした。
+#endregion(9/2)
+#region(09/03　#18　[[🌸御花はな 18day お祝いの日！職場が決まりました！>>https://www.twitch.tv/videos/1916004930]])09/03　#18　[[🌸御花はな 18day お祝いの日！職場が決まりました！>>https://www.twitch.tv/videos/1916004930]]
+- [[天近　くるみ]]のライブを鑑賞。
+- [[花沢　まるん]]から就職祝いにくまのぬいぐるみをもらう。バイクも買ってくれるという話になり、二人でディーラーへ見に行くが、車種が決まらず購入は見送る。
+- まるんとの関係を[[BMC>>BMカスタム]]の同僚に聞かれる。これまで恋愛の矢印を向けたことも向けられたこともなく、自分の気持ちがわからなくなる。
+#endregion(9/3)
+#region(09/04　#19　[[🌸御花はな 19day 挨拶回りしつつ正社員頑張ります！>>https://www.twitch.tv/videos/1916842468]])09/04　#19　[[🌸御花はな 19day 挨拶回りしつつ正社員頑張ります！>>https://www.twitch.tv/videos/1916842468]]
+- [[BMC>BMカスタム]]で勤務しつつ、空き時間に[[空舞月　るる]]とお互いの恋愛事情について花を咲かせる。
+- ロスサントスポケモン捕獲計画（全住人と連絡先を交換する）の経過確認として、連絡先の人数を数えたところ、19日目で脅威の138人との交換をしており、はな自身も驚愕した。初代ポケモンでいうとオムナイトまでコンプリートしていた。
+- [[きゃばみざわ☆　ぎゃるみ↑]]から車のカスタムを任される。はじめてのおまかせカスタムの指名をもらい、試行錯誤しつつカスタムを行う。
+- 連日連絡してくれていた[[花沢　まるん]]から一度も連絡がなく、本人曰く特別な意識はしていないが連絡がなかったことに寂しさを感じていた。
+#endregion(9/4)
+#region(09/05　#20　[[🌸御花はな 20day ドリフトと作業をやってみたい！>>https://www.twitch.tv/videos/1917704320]])09/05　#20　[[🌸御花はな 20day ドリフトと作業をやってみたい！>>https://www.twitch.tv/videos/1917704320]]
+- [[BMC>BMカスタム]]に出勤。本日は女医の日。業務に忙殺されつつ、おまかせカスタムの依頼も受け、カスタムの楽しさ・沼にはまっていく。
+- 捕まえたポケモン（連絡先交換した住人）は139匹となった。
+- 第一村人としてお世話した[[丘猫　まる]]から、「初心者マークを外す事になりました！はずすときははなちゃんの前で外したい]]と連絡があり、見届けた。ルパンカーニトロ飛翔を一緒に行い、最高飛距離を達成する。
+- 今日も[[花沢　まるん]]からは連絡がなく、ついつい今日は起きてきているかをStateで確認する行動を無意識に行っていた。まだ気持ちはわからない、という状態だが、どこか無意識に意識している様子であった。
+#endregion(9/15)
+#region(09/14　#29　[[🌸御花はな 29day BMC&初のおでかけ>>https://www.twitch.tv/videos/1925152970]])09/14　#29　[[🌸御花はな 29day BMC&初のおでかけ>>https://www.twitch.tv/videos/1925152970]]
+- [[ハンク>>アーモンド　サラザール]]と以前約束していた通り二人きりでお出かけする。[[お出かけ準備開始からのTwitchアーカイブ🎥>>https://www.twitch.tv/videos/1925152970?t=02h13m12s]]
+-- ハンクは初めての休日&初めての白市民とのお出かけ、はなは初めての予定を決めてのお出かけとなった。
+-- お互い今日のために新しい服装を用意していた。[[Violet Fizz]]で会話している際に右手に同じブレスレットをしていることに気づき、[[最後BMCに送り届けてもらうときにこのことについて会話する。🎥>>https://clips.twitch.tv/GloriousExpensivePancakeTTours-qMCrjFzYLGNci6rx]]運命ですね。
+-- ２時間半のお出かけとなったが、[[はなの体感時間ではあっという間だった模様。🎥>>https://www.twitch.tv/hanataba_yuiha/clip/TameHelplessAnacondaPJSugar-AnN-41GsG1d8AWXp]]
+#endregion(9/14)
+#endregion(9月)
+#region(10月)10月
+#region(10/01)
+-文化祭個人ステージにて、[[キングスターダイヤモンド　ズズ]]と共にコンビ「ノリと勢い」として出演。漫才を披露する。
+--ズズの台本の完成度の高さに、[[BMカスタム]]の同僚をはじめ、観客から大絶賛された。
+#endregion
+#endregion(10月)
+
+&b(){2024年}
+#region(7月)
+#endregion(7月)
+
+//
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+*&font(#e0e0e0){アーカイブ &font(#F8D3D6){&icon_fa(fa fa-calendar-o)}}
+***SEASON1
+#region(開く)
+***2023年
+#region(8月)(#1~15)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|08/15|1|🔰Day1 初めてのストグラ！御花はな視点。初めてのロスサントス。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 1日目🌸「濃くて爆笑な初日」8/15 御花はな視点>>https://www.youtube.com/watch?v=qPfL5-Ba7C4]]||
+|08/16|2|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな Day2🌸いろんなお店に行きたい！>>https://www.twitch.tv/videos/1900245632]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 2日目🌸「初めての職場体験」8/16 御花はな視点 >>https://www.youtube.com/watch?v=fgkM9egdsuI]]||
+|08/17|3|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 3日目🌸>>https://www.twitch.tv/videos/1901095473]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 3日目🌸「車の運転が難しい」8/17 御花はな視点>>https://www.youtube.com/watch?v=qF_8HZbfBzc]]||
+|08/18|4|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 4日目🌸>>https://www.twitch.tv/videos/1902117386]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 4日目🌸「コントを組まされる」8/18 御花はな視点>>https://www.youtube.com/watch?v=65rgIspHmTQ]]||
+|08/20|5|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 5日目🌸お仕事がんばる！>>https://www.twitch.tv/videos/1903868421]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 5日目🌸お仕事がんばる！>>https://www.twitch.tv/videos/1904028645]](2枠目)|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 5日目①🌸「初めてのバイトをする」8/20 御花はな視点>>https://www.youtube.com/watch?v=PZeZ74e1RkY]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 5日目②🌸「ストリップバーで語る」8/20 御花はな視点>>https://www.youtube.com/watch?v=1hNNyVa2Nsk]]|&br()(2枠目)|
+|08/21|6|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 6日目🌸>>https://www.twitch.tv/videos/1904554513]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 6日目🌸>>https://www.twitch.tv/videos/1904668576]](2枠目)|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 6日目①🌸「新しいバイト見つけた」8/21 御花はな視点>>https://www.youtube.com/watch?v=NtYms-tQy9U]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 6日目②🌸「エイトでお笑いを披露！」8/21 御花はな視点 >>https://www.youtube.com/watch?v=v0dAk72f3ak]]|&br()(2枠目)|
+|08/22|7|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 7day 🔰ついに！初心者マークを外します！>>https://www.twitch.tv/videos/1905422082]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 7日目🌸「大爆笑な釣りをする」8/22 御花はな視点>>https://www.youtube.com/watch?v=Jy9eaRDjIPE]]||
+|08/23|8|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 8day 職業どうしよう～！ゆるっと考える。>>https://www.twitch.tv/videos/1906381539]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 8日目🌸「お腹が痛い！爆笑な一日」8/23 御花はな視点 >>https://www.youtube.com/watch?v=JhzKZtYOBf8]]||
+|08/24|9|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 9day 救急体験できるかな！？>>https://www.twitch.tv/videos/1907211569]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 9日目🌸「人生相談をする」8/24 御花はな視点>>https://www.youtube.com/watch?v=3tUdMvP57rU]]||
+|08/26|10|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 10day 今日こそは救急体験したい！>>https://www.twitch.tv/videos/1909025442]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 10日目🌸「救急隊の職場体験をする」8/26 御花はな視点>>https://www.youtube.com/watch?v=mzTEjtp0cHU]]||
+|08/27|11|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 番外編day ゆるっと雑談がしたい！>>https://www.twitch.tv/videos/1909808406]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 番外編day 1周年をお祝いしたい！>>https://www.twitch.tv/videos/1909970385]](2枠目)&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 番外編day 1周年をお祝いしたい！>>https://www.twitch.tv/videos/1910007735]](3枠目)|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 11日目①🌸「相談事がある」8/27 御花はな視点>>https://www.youtube.com/watch?v=CF7oApAaruI]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 11日目②🌸「1周年のお祝いです」8/27 御花はな視点 >>https://www.youtube.com/watch?v=q9-5O4WuV5U]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 11日目③🌸「恋愛ガールズトーク」8/27 御花はな視点 >>https://www.youtube.com/watch?v=5B76A9z07qU]]|&br()(2枠目)&br()(3枠目)|
+|08/28|12|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 12day 職業に悩むはな>>https://www.twitch.tv/videos/1910667443]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 12日目🌸「名探偵！御花はな！」8/28 御花はな視点 >>https://www.youtube.com/watch?v=0V1SkN9gDFE]]||
+|08/29|13|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 13day 職業体験をしてみよう！>>https://www.twitch.tv/videos/1911611904]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 13日目🌸「結婚!?ハチャメチャカオスな一日」8/29 御花はな視点>>https://www.youtube.com/watch?v=q84khMaAKLs]]||
+|08/30|14|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 14day メカニックやってみる！>>https://www.twitch.tv/videos/1912512668]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 14日目🌸「BMCメカニック体験してみました！」8/30 御花はな視点>>https://www.youtube.com/watch?v=HFRmm4Ji_j8]]||
+|08/31|15|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 15day 今日もメカニック&車を買いたい！>>https://www.twitch.tv/videos/1913341430]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 15日目🌸「今日もゆるっとBMCメカニック」8/31 御花はな視点>>https://www.youtube.com/watch?v=n5X3KkOR084]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(8月)
+#region(9月)(#16~40)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch|~YouTubeアーカイブ|~備考|h
+|09/01|16|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 1時間くらい！車を買いたい！>>https://www.twitch.tv/videos/1914094702]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 16日目🌸「サイコパスの部分が見えちゃう！？」9/1 御花はな視点>>https://www.youtube.com/watch?v=PNUElr5EolQ]]||
+|09/02|17|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 17day ついに！？職決まるか！？>>https://www.twitch.tv/videos/1915175590]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 17日目🌸「ついに！車も買って職を決めた！？」9/2 御花はな視点>>https://www.youtube.com/watch?v=bHauV7a1Kjg]]||
+|09/03|18|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 18day お祝いの日！職場が決まりました！>>https://www.twitch.tv/videos/1916004930]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 18日目🌸「BMCで働くことになりました！」9/4 御花はな視点>>https://www.youtube.com/watch?v=vWk6yQYXjXs]]||
+|09/04|19|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 19day 挨拶回りしつつ正社員頑張ります！>>https://www.twitch.tv/videos/1916842468]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 19日目🌸「BMCメカニック。心境の変化」9/4 御花はな視点>>https://www.youtube.com/watch?v=vRPANHXrMZk]]||
+|09/05|20|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 20day ドリフトと作業をやってみたい！>>https://www.twitch.tv/videos/1917704320]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 20日目🌸「多忙⁉わくわく！どきどき！BMCメカニック」9/5 御花はな視点>>https://www.youtube.com/watch?v=zzYY7mMVn8w]]||
+|09/06|21|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 21day BMC&ドリフトをやってみたい！>>https://www.twitch.tv/videos/1918519772]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 21日目🌸「初の峠ドリフト練習！」9/6 御花はな視点>>https://www.youtube.com/watch?v=bt92e4Rdeks]]||
+|09/07|22|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 22day BMC今日もお仕事！>>https://www.twitch.tv/videos/1919387887]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 22日目🌸「合コンの現場を目撃！？」9/7 御花はな視点>>https://www.youtube.com/watch?v=NYFCtnzx3jY]]||
+|09/08|23|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 23day 早番頑張る！>>https://www.twitch.tv/videos/1920101341]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 23日目🌸「夏フェス前夜祭」9/8 御花はな視点>>https://www.youtube.com/watch?v=KgoLTTCCgu0]]||
+|09/09|24|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 24day 夏フェス本祭！今日も元気いっぱい！>>https://www.twitch.tv/videos/1921092995]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 24日目🌸「夏フェス本祭！」9/9 御花はな視点>>https://www.youtube.com/watch?v=e7RLRH7FXtM]]||
+|09/10|25|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 25day 早番&ゆるっと極めるドリフト！>>https://www.twitch.tv/videos/1921851498]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 25day 早番&ゆるっと極めるドリフト！>>https://www.twitch.tv/videos/1921864244]](2枠目)&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 25day 早番&ゆるっと極めるドリフト！>>https://www.twitch.tv/videos/1921975046]](3枠目)|&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 25日目①🌸「頑張るワンオペメカニック！」9/10 御花はな視点>>https://www.youtube.com/watch?v=y50yAk3LvQs]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 25日目②🌸「運命です」9/10 御花はな視点>>https://www.youtube.com/watch?v=M02Mv5HmqxQ]]|&br()&br()(2枠目)|
+|09/11|26|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 26day ゆるっとおしごと！>>https://www.twitch.tv/videos/1922760824?filter=archives&sort=time]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 26日目🌸「Ｌの意思。ルパンカーが飛ぶ！」9/11 御花はな視点>>https://www.youtube.com/watch?v=X_snuhI8QVE]]||
+|09/12|27|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 27day 峠峠峠>>https://www.twitch.tv/videos/1923490893]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 27day 峠峠峠>>https://www.twitch.tv/videos/1923610827]](2枠目)|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 27日目①🌸「峠峠峠峠峠」9/12 御花はな視点>>https://www.youtube.com/watch?v=rk9eeHRp3_4]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 27日目②🌸「峠峠峠峠峠」9/12 御花はな視点>>https://www.youtube.com/watch?v=a0GVOeTUuRI]]|&br()(2枠目)|
+|09/13|28|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 28day 今日も今日とて>>https://www.twitch.tv/videos/1924351210]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 28日目🌸「BMCメカニック」9/13 御花はな視点>>https://www.youtube.com/watch?v=YDhx2XE_Jbg]]||
+|09/14|29|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 29day BMC&初のおでかけ>>https://www.twitch.tv/videos/1925152970]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 29日目🌸「初めてのおでかけ」9/14 御花はな視点>>https://www.youtube.com/watch?v=TZgxEk3fcBI]]||
+|09/15|30|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 30day 短め早番メカニック>>https://www.twitch.tv/videos/1925925500]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 30day 目が覚めたメカニック>>https://www.twitch.tv/videos/1926141737]](2枠目)|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 30日目①🌸「今日でロスサントス来て1か月になりました！」9/15 御花はな視点>>https://www.youtube.com/watch?v=_QbAtfnNxcw]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 30日目②🌸「今日でロスサントス来て1か月になりました！」9/15 御花はな視点>>https://www.youtube.com/watch?v=Q5Y4danGOiY]]|&br()(2枠目)|
+|09/18|31|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 31day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 31日目🌸「2日ぶりのロスサントス」9/18 御花はな視点>>https://www.youtube.com/watch?v=1csQU-LsAa8]]||
+|09/19|32|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 32day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 32日目🌸「ガールズトークでの気づき」9/19 御花はな視点>>https://www.youtube.com/watch?v=kK6XQ9tXE9k]]||
+|09/20|33|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 33day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 33日目🌸「BMCが大好きです」9/20 御花はな視点>>https://www.youtube.com/watch?v=M3yjThPIXR4]]||
+|09/21|34|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 34day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 34日目🌸「新しいカスタムに目覚めました！」9/21 御花はな視点>>https://www.youtube.com/watch?v=kXWtdgLI1jU]]||
+|09/22|35|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 35day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 35日目🌸「メカニックのススメ」9/22 御花はな視点>>https://www.youtube.com/watch?v=rr94onEQN1E]]||
+|09/23|36|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 36dey>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 36日目🌸「御花カラーを目指して」9/23 御花はな視点>>https://www.youtube.com/watch?v=jQw9ZVSq7Rk]]||
+|09/25|37|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 37day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 37日目🌸「早番メカニック！峠もいきたいな」9/25 御花はな視点>>https://www.youtube.com/watch?v=APBU6S3ATYo]]||
+|09/27|38|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 38day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 38日目🌸「BMCみんなでバイオおでかけ」9/27 御花はな視点>>https://www.youtube.com/watch?v=hT8akLFk4cE]]||
+|09/28|39|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 39day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 39日目🌸「遅番ゆるっとメカニック」9/28 御花はな視点>>https://www.youtube.com/watch?v=1csQU-LsAa8]]||
+|09/29|40|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 40day>>https://www.twitch.tv/hanataba_yuiha]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 40day>>https://www.twitch.tv/hanataba_yuiha]](2枠目)|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 40日目①🌸「早起き早寝おはな」9/29 御花はな視点>>https://www.youtube.com/watch?v=_BNlEG0Maib4]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 40日目②🌸「早起き早寝遅起き遅寝おはな」9/29 御花はな視点>>https://www.youtube.com/watch?v=gyfIJU1lehA]]|&br()(2枠目)|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(9月)
+#region(10月)(#41~60)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch|~YouTubeアーカイブ|~備考|h
+|10/02|41|[[&font(#6441A4){&icon_fa(fa fa-twitch)}41day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 41日目🌸「ただいまおはな！早番メカニック」10/2 御花はな視点>>https://www.youtube.com/watch?v=S44F3B1ozeU]]||
+|10/03|42|[[&font(#6441A4){&icon_fa(fa fa-twitch)}42day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 42日目🌸「初めての変装！」10/3 御花はな視点>>https://www.youtube.com/watch?v=xOBMI_VbDqo]]||
+|10/04|43|[[&font(#6441A4){&icon_fa(fa fa-twitch)}43day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 43日目🌸「ゆっくりまったりメカニック」10/4 御花はな視点>>https://www.youtube.com/watch?v=Euj9otE5Eho]]||
+|10/05|44|[[&font(#6441A4){&icon_fa(fa fa-twitch)}44day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 44日目🌸「負けるな！低気圧！」10/5 御花はな視点>>https://www.youtube.com/watch?v=-k4R_uG-tgM]]||
+|10/06|45|[[&font(#6441A4){&icon_fa(fa fa-twitch)}45day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 45日目🌸「ここなちゃんとお話」10/6 御花はな視点>>https://www.youtube.com/watch?v=SwG980LVyK8]]||
+|10/07|46|[[&font(#6441A4){&icon_fa(fa fa-twitch)}46day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 46日目🌸「バイクレースにでました！」10/7 御花はな視点>>https://www.youtube.com/watch?v=l000SBLyccw]]||
+|10/08|47|[[&font(#6441A4){&icon_fa(fa fa-twitch)}47day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 47日目🌸「レース三昧とオリジナルカスタム！」10/8 御花はな視点>>https://www.youtube.com/watch?v=hENthR7_FMk]]||
+|10/09|48|[[&font(#6441A4){&icon_fa(fa fa-twitch)}48day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 48日目🌸「早番おはなのメカニック！」10/9 御花はな視点>>https://www.youtube.com/watch?v=wird7V_w4aU]]||
+|10/11|49|[[&font(#6441A4){&icon_fa(fa fa-twitch)}49day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 49日目🌸「頑張る早番メカニック！」10/11 御花はな視点>>https://www.youtube.com/watch?v=4lN6Vcy23o]]||
+|10/12|50|[[&font(#6441A4){&icon_fa(fa fa-twitch)}50day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 50日目🌸「今日も今日とて早番！」10/12 御花はな視点>>https://www.youtube.com/watch?v=ZVBaZALRdNY]]||
+|10/13|51|[[&font(#6441A4){&icon_fa(fa fa-twitch)}51day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 51日目🌸「13日の金曜日コスプレな日！」10/13 御花はな視点>>https://www.youtube.com/watch?v=397vy2q6xhM]]||
+|10/15|52|[[&font(#6441A4){&icon_fa(fa fa-twitch)}52day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 52日目🌸「クッキーバニラ&ベアーチョコ！」10/15 御花はな視点>>https://www.youtube.com/watch?v=6LWyDdCaycE]]||
+|10/16|53|[[&font(#6441A4){&icon_fa(fa fa-twitch)}53day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 53日目🌸「ゆるっとまったりチルな日！」10/16 御花はな視点>>https://www.youtube.com/watch?v=-k4R_uG-tgM]]||
+|10/18|54|[[&font(#6441A4){&icon_fa(fa fa-twitch)}54day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 54日目🌸「初めての本格漫才！」10/18 御花はな>>https://www.youtube.com/watch?v=goSdwYbGIK4]]||
+|10/19|55|[[&font(#6441A4){&icon_fa(fa fa-twitch)}55day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 55日目🌸「BMCが爆発で大炎上！」10/19 御花はな視点>>https://www.youtube.com/watch?v=KLFwKuzwwaU]]||
+|10/20|56|[[&font(#6441A4){&icon_fa(fa fa-twitch)}56day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 56日目🌸「初めまして!うさぎさん&ころもちゃん！」10/20 御花はな視点>>https://www.youtube.com/watch?v=JpDbIDm4rm0]]||
+|10/21|57|[[&font(#6441A4){&icon_fa(fa fa-twitch)}57day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 57日目🌸「文化祭本番！ドキドキ爆笑漫才披露！」10/21 御花はな視点>>https://www.youtube.com/watch?v=7sQXmVEwP8Y]]||
+|10/22|58|[[&font(#6441A4){&icon_fa(fa fa-twitch)}58day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 58日目🌸「オリジナルカスタムとチルなレース！」10/22 御花はな視点>>https://www.youtube.com/watch?v=g2BN0vtS99g]]||
+|10/23|59|[[&font(#6441A4){&icon_fa(fa fa-twitch)}59day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 59日目🌸「お洒落バーで恋愛トーク！」10/23 御花はな視点>>https://www.youtube.com/watch?v=3_LrAlidyao]]||
+|10/24|60|[[&font(#6441A4){&icon_fa(fa fa-twitch)}60day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 60日目🌸「BMCみんなで一緒にハロウィンおでかけ！」10/24 御花はな視点>>https://www.youtube.com/watch?v=G63A-7rjTFQ]]||
+|10/25|61|[[&font(#6441A4){&icon_fa(fa fa-twitch)}61day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 61日目🌸「BMCハロウィンおでかけと海上レストラン」10/25 御花はな視点>>https://www.youtube.com/watch?v=rTsiSDUaAYI]]||
+|10/26|62|[[&font(#6441A4){&icon_fa(fa fa-twitch)}62day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 62日目🌸「ハロウィンおでかけ最終日！」10/26 御花はな視点>>https://www.youtube.com/watch?v=1TynxcIPp-I]]||
+|10/27|63|[[&font(#6441A4){&icon_fa(fa fa-twitch)}63day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 63日目🌸「早番メカニック&お着替え！」10/27 御花はな視点>>https://www.youtube.com/watch?v=LgsJYJUYBRw]]||
+|10/28|64|[[&font(#6441A4){&icon_fa(fa fa-twitch)}64day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 64日目🌸「サーカスミュージカル！」10/28 御花はな視点>>https://www.youtube.com/watch?v=Fi4T59HtEvU]]||
+|10/30|65|[[&font(#6441A4){&icon_fa(fa fa-twitch)}65day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 65日目🌸「ゆるっと早番メカニック！」10/30 御花はな視点>>https://www.youtube.com/watch?v=zpLHIA3RSDA]]||
+|10/31|66|[[&font(#6441A4){&icon_fa(fa fa-twitch)}66day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 66日目🌸「新色カラー開発&今月占い！」10/31 御花はな視点>>https://www.youtube.com/watch?v=WszpEEgon0U]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(11月)(#61~84)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch|~YouTubeアーカイブ|~備考|h
+|11/01|67|[[&font(#6441A4){&icon_fa(fa fa-twitch)}67day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 67日目🌸「BMCにて井戸端トーク！」11/1 御花はな視点>>https://www.youtube.com/watch?v=78uZtqbvN3I]]||
+|11/02|68|[[&font(#6441A4){&icon_fa(fa fa-twitch)}68day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 68日目🌸「超進化系飛ぶニトロカー！」11/2 御花はな視点>>https://www.youtube.com/watch?v=v2fglUq81g0]]||
+|11/03|69|[[&font(#6441A4){&icon_fa(fa fa-twitch)}69day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 69日目🌸「初めての裁判と裁判員！」11/3 御花はな視点>>https://www.youtube.com/watch?v=5QcE6R_YLkU]]||
+|11/04|70|[[&font(#6441A4){&icon_fa(fa fa-twitch)}70day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 70日目🌸「御花カスタムと白市民！」11/4 御花はな視点>>https://www.youtube.com/watch?v=aC9S7pN04PE]]||
+|11/07|71|[[&font(#6441A4){&icon_fa(fa fa-twitch)}71day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 71日目🌸「超進化系飛ぶニトロカー！」11/7 御花はな視点>>https://www.youtube.com/watch?v=54IK5oRUG-k]]||
+|11/09|72|[[&font(#6441A4){&icon_fa(fa fa-twitch)}72day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 72日目🌸「クッキーバニラで試乗会！」11/9 御花はな視点>>https://www.youtube.com/watch?v=5KCFKaX3cjI]]||
+|11/10|73|[[&font(#6441A4){&icon_fa(fa fa-twitch)}73day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 73日目🌸「早番頑張るメカニック！」11/10 御花はな視点>>https://www.youtube.com/watch?v=u1eAqsp_Iso]]||
+|11/13|74|[[&font(#6441A4){&icon_fa(fa fa-twitch)}74day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 74日目🌸「BMCにてヘリで大爆発！」11/13 御花はな視点>>https://www.youtube.com/watch?v=fAYcWwk9Dug]]||
+|11/15|75|[[&font(#6441A4){&icon_fa(fa fa-twitch)}75day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 75日目🌸「どきどき御花カスタム！」11/15 御花はな視点>>https://www.youtube.com/watch?v=LcBciJ4JUyw]]||
+|11/17|76|[[&font(#6441A4){&icon_fa(fa fa-twitch)}76day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 76日目🌸「謎解き少女Aからの手紙！」11/17 御花はな視点>>https://www.youtube.com/watch?v=YW4rdL3e-WQ]]||
+|11/18|77|[[&font(#6441A4){&icon_fa(fa fa-twitch)}77day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 77日目🌸「チルタイムメカニック！」11/18 御花はな視点>>https://www.youtube.com/watch?v=k8tEVmdhtGg]]||
+|11/20|78|[[&font(#6441A4){&icon_fa(fa fa-twitch)}78day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 78日目🌸「愛車ピーナッツとおはな！」11/20 御花はな視点>>https://www.youtube.com/watch?v=mz69CVwaO3I]]||
+|11/23|79|[[&font(#6441A4){&icon_fa(fa fa-twitch)}79day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 79日目🌸「激熱マッスルカー新車！」11/23 御花はな視点>>https://www.youtube.com/watch?v=9WyuP4-RWnM]]||
+|11/24|80|[[&font(#6441A4){&icon_fa(fa fa-twitch)}80day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 80日目🌸「コンビニ経営始めました！」11/24 御花はな視点>>https://www.youtube.com/watch?v=eR5qBj2AgJI]]||
+|11/25|81|[[&font(#6441A4){&icon_fa(fa fa-twitch)}81day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 81日目🌸「BMC体験のジェフリーさん！」11/25 御花はな視点>>https://www.youtube.com/watch?v=3gls-_P8b-g]]||
+|11/26|82|[[&font(#6441A4){&icon_fa(fa fa-twitch)}82day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 82日目🌸「早番メカニックと新規住民！」11/26 御花はな視点>>https://www.youtube.com/watch?v=ac5puxmCXRM]]||
+|11/28|83|[[&font(#6441A4){&icon_fa(fa fa-twitch)}83day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 83日目🌸「プスカ大佐とチョコレート工場！」11/28 御花はな視点>>https://www.youtube.com/watch?v=Pl2JWcsb7GI]]||
+|11/30|84|[[&font(#6441A4){&icon_fa(fa fa-twitch)}84day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 84日目🌸「普通車ディーラー就職決定！」11/30 御花はな視点>>https://www.youtube.com/watch?v=Ex7xlPzgqOQ]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(12月)(#85~102)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ|~備考|h
+|12/01|85|[[&font(#6441A4){&icon_fa(fa fa-twitch)}85day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 85日目🌸「早番メカニックとBMC体験！」12/1 御花はな視点>>https://www.youtube.com/watch?v=9T0iOcXjvWA]]||
+|12/04|86|[[&font(#6441A4){&icon_fa(fa fa-twitch)}86day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 86日目🌸「みんなでチルタイムBMC！」12/4 御花はな視点>>https://www.youtube.com/watch?v=JqzBi9fOKuw]]||
+|12/06|87|[[&font(#6441A4){&icon_fa(fa fa-twitch)}87day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 87日目🌸「うさぎさんとヘルアンコント！」12/6 御花はな視点>>https://www.youtube.com/watch?v=1PudB0CWo4I]]||
+|12/07|88|[[&font(#6441A4){&icon_fa(fa fa-twitch)}88day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 88日目🌸「ジェフリーさんとカスタム！」12/7 御花はな視点>>https://www.youtube.com/watch?v=jmGAVqZ_UiI]]||
+|12/08|89|[[&font(#6441A4){&icon_fa(fa fa-twitch)}89day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 89日目🌸「ふでこちゃんBMC体験！」12/8 御花はな視点>>https://www.youtube.com/watch?v=yRXUUsMm36Q]]||
+|12/11|90|[[&font(#6441A4){&icon_fa(fa fa-twitch)}90day>>https://www.twitch.tv/hanataba_yuiha]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 90日目🌸「魔女裁判見届け人、御花！」12/11 御花はな視点>>https://www.youtube.com/watch?v=YeJZvTTUDjo]]||
+|12/12|91|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 91day カスタムしたい！早寝早起き>>https://www.twitch.tv/videos/2002001794]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 91日目🌸「ゆるっとチルメカニック！」12/12 御花はな視点>>https://www.youtube.com/watch?v=pRu1jJOrGlI]]||
+|12/13|92|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 92day 街限定2台！5億の車を買いたい！>>https://www.twitch.tv/videos/2002963886]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 92日目🌸「レースとレースとレース！」12/13 御花はな視点>>https://www.youtube.com/watch?v=bXmwDsNZbDE]]||
+|12/14|93|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 93day ついに！5億の車を買うぞおおお！>>https://www.twitch.tv/videos/2003816940]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 93日目🌸「ついに高級車マンバ購入！」12/14 御花はな視点>>https://www.youtube.com/watch?v=NcaSAuCW664]]||
+|12/18|94|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 94day ただいま！&5億の車を愛でる！>>https://www.twitch.tv/videos/2007385903]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 94日目🌸「野望おじさん!ジークジオン!」12/18 御花はな視点>>https://youtu.be/Ft7qKB3xzGI?si=j36YXReWpEQzpg7k]]||
+|12/19|95|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 95day BMCみんな大集合！ファンアート撮影会！>>https://www.twitch.tv/videos/20082615333]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 95日目🌸「BMCで記念撮影会！」12/19 御花はな視点>>https://youtu.be/IBRRgF9nzqA?si=NoY484-6TVXykqk7]]||
+|12/20||[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 番外編！初見ガンダム同時視聴！>>https://www.twitch.tv/videos/2009088217]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|12/21|96|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 96day メカニックはやばーん！>>https://www.twitch.tv/videos/2009928032]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 96日目🌸「はなころガールズトーク！」12/21 御花はな視点>>https://youtu.be/XeRCNNTdXt8?si=5300-ClXYydMmUEy]]||
+|12/22|97|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 97day めっちゃおそばーん！レース出たい！>>https://www.twitch.tv/videos/2011008259]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 97日目🌸「衝撃！ジョーカーさんの秘密！」12/23 御花はな視点>>https://youtu.be/XH0CXSl7AaE?si=o4mUxCy7OAU43yLW]]||
+|12/23|98|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 98day ゆるっとぽしゃけチルな日>>https://www.twitch.tv/videos/2011810437]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 98日目🌸「松宮辰夫フィッシングクラブ&初心者ツルギくん」12/23 御花はな視点>>https://youtu.be/oyLyF0p4jwM?si=2QgSGZ1eER44k5Sh]]||
+|12/24||[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸クリップ観たりストグラのこと話したりゆるっとチル雑談。>>https://www.twitch.tv/videos/2012558078]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|12/24|99|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 99day クリスマスらしい！運命力がすごい街。>>https://www.twitch.tv/videos/2012756885]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 99日目🌸「ばたばたクリスマスイヴ」12/24 御花はな視点>>https://youtu.be/NyMpd7hhlhA?si=yhBceD2DdnDcfPl1]]||
+|12/25|100|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 100day サンタさん！今日が100日目です！プレゼントわくわく！※ガンダム同時視聴あり>>https://www.twitch.tv/videos/2013299312]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 100日目🌸「うさぎさんの秘密のクリスマスライブ」12/26 御花はな視点>>https://youtu.be/0AwLR3lTVTw?si=zwM0iXr0AtedvvR5]]||
+|12/27|101|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 101day Twitch3万人ありがとう！ ※ガンダム同時>>https://www.twitch.tv/videos/2014975503]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 101日目🌸「川上さんとドリフト車」12/27 御花はな視点>>https://youtu.be/-IGmhltfzxI?si=A6MBV-nlP5ju0X2o]]||
+|12/29|102|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 102day 今年最後の配信です！>>https://www.twitch.tv/videos/2016863633]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 102日目🌸「みんなでドリフトサーキット場を堪能」12/29 御花はな視点>>https://youtu.be/oAi0n1lPNlU?si=xE5L5rPWMDf9MTHU]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***2024年
+#region(01月)(#103~112)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ|~備考|h
+|1/03|103|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 103day あけおめ！今年初ストグラ！>>https://www.twitch.tv/videos/2021466943]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 103日目🌸「新年あけましておめでとうございます」1/3 御花はな視点>>https://youtu.be/N_h_eOzrBFI?si=qC-svqxHIkKkksxo]]|※後半はモンハン|
+|1/04|104|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 104day ドリフトのススメ！ドリフトレースでた>>https://www.twitch.tv/videos/2022461135]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 104日目🌸「新店舗開店へ市長に相談！」1/4 御花はな視点>>https://youtu.be/TJiaqqqs9ZU?si=ROZGkXxqtlmMiZ1y]]||
+|1/17|105|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 105day 復活の御花！2週間ぶり！>>https://www.twitch.tv/videos/2035102953]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 105日目🌸「BMC体験と初詣な日！」1/17 御花はな視点>>https://youtu.be/TWLX3fROmbo?si=lIZacmFdKXrTbpA_]]||
+|1/18|106|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 106day 早番チルタイム。>>https://www.twitch.tv/videos/2036062169]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 106日目🌸「さよならマブダチのぎゃるみ！」1/18 御花はな視点>>https://youtu.be/iK2fKp_l8nw?si=VwcCAql-bM-LRY2i]]||
+|1/24|107|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 107day 今日も今日とて早番メカニック。>>https://www.twitch.tv/videos/2042051668]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 107日目🌸「大興奮！恋バナトーク」1/24 御花はな視点>>https://youtu.be/rbnMhRE2tFE?si=hzj4L0aYosgtCRWy]]||
+|1/25|108|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 108day 早番メカニック。カスタムしたい～！>>https://www.twitch.tv/videos/2043003877]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 108日目🌸「チルなCustomDay！試乗会も行く」1/25 御花はな視点>>https://youtu.be/BaroKQnsNuo?si=B6ex6_1wqTfHY_Jr]]||
+|1/26|109|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 109day 早番メカニック。新車をカスタム！>>https://www.twitch.tv/videos/2043960554]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 109日目🌸「ダウン多めなチルDay！」1/26 御花はな視点>>https://youtu.be/sU6X2tyLZ_g?si=ShuZLo397CpruXGu]]||
+|1/28|110|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 110day 早番早寝メカニック。今日も今日とて！>>https://www.twitch.tv/videos/2046025080]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}🌸#ストグラ 110日目🌸「初めての住人&Newレース！」1/28 御花はな視点>>https://youtu.be/lVeR0RWpZDo?si=718swjvwiTAjFrWT]]||
+|1/28||[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 番外編！遅番メカニック！>>https://www.twitch.tv/videos/2045228063]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|1/29|111|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 111day 早番早寝メカニック。レースがんばりたい！>>https://www.twitch.tv/videos/2046996953]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|1/31|112|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 112day 早番早寝メカニック。>>https://www.twitch.tv/videos/2048870361]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(02月)(#113~)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ|~備考|h
+|2/01|113|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 113day 今日は珍しい遅番。レースも出たい！>>https://www.twitch.tv/videos/2049917984]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/08|114|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 114day ゆるっと早番&謎解きの日。久しぶりのロスサントス！>>https://www.twitch.tv/videos/2056645944]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/09|115|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 115day 復活の御花！早番メカニック。>>https://www.twitch.tv/videos/2057592421]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/11|116|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 116day 朗報アリなお話&BMC会議の日>>https://www.twitch.tv/videos/2059702937]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/12|117|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 117day 早番メカニックとお花屋さん準備相談！>>https://www.twitch.tv/videos/2060563979]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/13|118|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 118day レース練習と早番メカニックとお花屋さん>>https://www.twitch.tv/videos/2061475484]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/14|119|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 119day バレンタイン！遅番メカニックとお花屋さん準備！>>https://www.twitch.tv/videos/2062506404]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/15|120|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 120day 早番メカニックとお花屋さん準備！>>https://www.twitch.tv/videos/2063295166]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/16||[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 番外編 レース！今日は体調が良くないので短め！>>https://www.twitch.tv/videos/2064308797]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/18|121|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 121day 早番メカニックとレース！短め！>>https://www.twitch.tv/videos/2066293295]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/20|122|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 122day 早番メカニックとレース練習！>>https://www.twitch.tv/videos/2068293121]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/21|123|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 123day する蔵君体験とメカニックとディーラーと>>https://www.twitch.tv/videos/2069304275]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/27|124|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 124day 本日で活動3周年！>>https://www.twitch.tv/videos/2075079311]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|2/29|125|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 125day 遅番メカニック！>>https://www.twitch.tv/videos/2077173624]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+//|mm/dd|n|[[&font(#6441A4){&icon_fa(fa fa-twitch)}タイトル>>URL]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(03月)(#126~
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ|~備考|h
+|3/02|126|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 126day やることリストと遅番メカニック！>>https://www.twitch.tv/videos/2079013087]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|3/05|127|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸ぺルノエ卒業と転機の日。御花はな 127day>>https://www.twitch.tv/videos/2081900248]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|3/07|128|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸お花屋さんの名前が決まりました！御花はな 128day>>https://www.twitch.tv/videos/2083641814]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|3/08|129|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸お花屋さん開店日決定！御花はな 129day>>https://www.twitch.tv/videos/2084780199]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]|ストグラ配信は04:15:00まで|
+|3/09|130|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸焦虫ペダルとお花屋さんメンバー決定！御花はな 130day>>https://www.twitch.tv/videos/2085700472]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|3/12|131|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸準備日！明日はお花屋さん開店日！御花はな 131day>>https://www.twitch.tv/videos/2089432901]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|3/13|132|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸ColorFlora お花屋さん開店日！御花はな 132day>>https://www.twitch.tv/videos/2088665972]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|3/14|133|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸ホワイトデーな日。御花はな 133day>>https://www.twitch.tv/videos/2090454312]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|3/15|134|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸遅番メカニックとお花屋さん。御花はな 134day>>https://www.twitch.tv/videos/2091382144]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|3/18|135|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸Osoban。御花はな 135day>>https://www.twitch.tv/videos/2093585936]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|3/22|136|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸Hayaba-n。御花はな 136day>>https://www.twitch.tv/videos/2097934809]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|3/31～4/01|137|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸エイプリルフール。御花はな ???day>>https://www.twitch.tv/videos/2106957191]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(04月)(#138~)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ|~備考|h
+|4/09|138|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸復活！20日ぶりのロスサントス。御花はな 138day>>https://www.twitch.tv/videos/2115048480]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|4/10|139|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸少しずつ知っていく。御花はな 139day>>https://www.twitch.tv/videos/2115918601]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|4/16|140|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸1週間ぶりなのではやばーん！御花はな 140day>>https://www.twitch.tv/videos/2121196253]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|4/17|141|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸今日もげんきいっぱい！御花はな 141day >>https://www.twitch.tv/videos/2122063167]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|4/25|142|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸夢の夢にBMCが出てきた！御花はな 143day>>https://www.twitch.tv/videos/2129074954]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(05月)(#143~#150)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ|~備考|h
+|5/07|143|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸久しぶりの街！御花はな 142day>>https://www.twitch.tv/videos/2139656392]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|5/08|144|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 143day>>https://www.twitch.tv/videos/2140354759]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|5/10|145|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 144day>>https://www.twitch.tv/videos/2142041862]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|5/14|146|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 145day>>https://www.twitch.tv/videos/2145382221]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|5/21|147|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 146day>>https://www.twitch.tv/videos/2151553991]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|5/22|148|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 147day>>https://www.twitch.tv/videos/2152168103]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|5/28|149|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 148day>>https://www.twitch.tv/videos/2157344512]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|5/30|150|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸初めての合コン！御花はな 149day>>https://www.twitch.tv/videos/2159078902]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(06月)(#151~#156)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ|~備考|h
+|6/01|150|[[&font(#6441A4){&icon_fa(fa fa-twitch)}御花はな 150day>>https://www.twitch.tv/videos/2160757260]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|MIDDLE:6/04|MIDDLE:151|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸新生御花はな！早起き早寝！ 151day>>https://www.twitch.tv/videos/2160757260]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸新生御花はな！早起き早寝！ 151day>>https://www.twitch.tv/videos/2163317499]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|6/06|152|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸御花はな 152day>>https://www.twitch.tv/videos/2165042726]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|6/18|153|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸BMC&餡ブレラキャバクラ開店！御花はな 153day>>https://www.twitch.tv/videos/2175124654]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|6/19|154|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸BMCと店長お仕事！御花はな 154day>>https://www.twitch.tv/videos/2175926725]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|6/26|155|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸155日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2182062673]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|6/27|156|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸156日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2182921365]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(07月)(#157~#164)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ|~備考|h
+|7/03|157|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸157日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2187994482]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|7/07|158|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸158日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2191377660]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|7/09|159|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸159日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2193081139]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|7/16|160|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸160日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2199003481]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|7/18|161|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸161日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2200756503]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|7/19|162|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸162日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2201603092]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|7/23|163|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸163日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2205037649]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|MIDDLE:7/31|MIDDLE:164|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸ドリフト大会があるらしい！164日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2212003351]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸ドリフトコンテスト！164日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2212148157]]|MIDDLE:[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(08月)(#165~#174)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ|~備考|h
+|8/02|166|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸今日も今日とて店番！166日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2213729966]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|8/06|167|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸明日はみんなで店番Day！167日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2217290749]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|8/07|168|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸今日は誕生日とみんなで店番Day！168日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2218012853]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|8/15|169|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸169日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2224944656]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|8/16|170|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸明日のために働く店長。170日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2225873406]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|8/20|171|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸アプデ！171日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2229071961]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|8/27|172|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸ストグラ2周年おめでとうございます！172日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2235348826]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|8/30|173|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸やりたいこといっぱい！173日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2237763103]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|8/31|174|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸ちる。174日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2238937032]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(09月)(#175~#178)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ|~備考|h
+|9/03|175|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸あぷで。175日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2241415472]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|9/05|176|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸検証。176日目 御花はな御花はな【#ストグラ】>>https://www.twitch.tv/videos/2243172303]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|9/20|177|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸2週間ぶり。177日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2255741795]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|9/29|178|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸178日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2263274978]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(10月)(#179~#184)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ|~備考|h
+|10/01|179|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸はやばん。179日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2264835980]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|MIDDLE:10/02|MIDDLE:180|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸みじかめ。この衛星が見れた方はラッキー。180日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2265713165]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸みじかめ。この衛星が見れた方はラッキー。180日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2265720660]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]|(配信不具合により再起動)|
+|10/06|181|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸いっぱいお仕事。181日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2268986707]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|MIDDLE:10/29|MIDDLE:182|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸179日目 御花はな 1か月ぶりとお知らせ付！>>https://www.twitch.tv/videos/2288241998]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸約1か月ぶり起床とお知らせ付！ 179日目 御花はな>>https://www.twitch.tv/videos/2288244803]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]|(配信不具合により再起動)|
+|10/30|183|[[&font(#6441A4){&icon_fa(fa fa-twitch)}🌸初出店ストグラ物産展 180日目 御花はな【#ストグラ】>>https://www.twitch.tv/videos/2289199940]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+|10/31|184|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸リベンジ初出店ストグラ物産展 181日目 御花はな>>https://www.twitch.tv/videos/2289945894]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(11月)(#185~#189)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ(メンバー限定)|~備考|h
+|11/03|185|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸超遅番！働くよ！ 182日目 御花はな>>https://www.twitch.tv/videos/2292790547]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]|（ストグラ～3:00:00まで）|
+|11/06|186|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸何かが起こる！？ 183日目 御花はな>>https://www.twitch.tv/videos/2294957935]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=]]|（ストグラ～2:48:00まで）|
+|11/14|187|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸みんなで店番Day！ 184日目 御花はな>>https://www.twitch.tv/videos/2300704374]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸みんなで店番Day！ 184日目 御花はな　※同時配信>>https://www.youtube.com/live/DzMZ7a-0pxg?si=gDAf57ilJnWky4Ey]]|（twichストグラ～2:36:00まで）|
+|11/19|188|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸早番ちる。 185日目 御花はな>>https://www.twitch.tv/videos/2305621239]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸早番ちる。 185日目 御花はな　※同時配信>>https://www.youtube.com/live/lE9mMuBU6_E?si=wlqHFDnFZ66Vl1OZ]]||
+|11/27|189|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸オリジナルメニュープラグイン！お花屋さんとBMC。 186日目 御花はな>>https://www.twitch.tv/videos/2312215556]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸オリジナルメニュープラグイン！お花屋さんとBMC。 186日目 御花はな　※同時配信>>https://www.youtube.com/live/1Ef4tLrzdV0?si=tOvGYAPEDJ63GBTu]]|（twichストグラ～3:23:00まで）|
+#endregion
+#region(12月)(#190~196)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ(メンバー限定)|~備考|h
+|12/04|190|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸体験くるよ！お花屋さんとBMC。 187日目 御花はな>>https://www.twitch.tv/videos/2317947474]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸体験くるよ！お花屋さんとBMC。 187日目 御花はな　※同時配信>>https://www.youtube.com/live/ZzycrPu-koA?si=u2Vpwj26PjiRJJyu]]||
+|12/07|191|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸頑張る店番！お花屋さんとBMC。 188日目 御花はな>>https://www.twitch.tv/videos/2317947474]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸頑張る店番！お花屋さんとBMC。 188日目 御花はな　※同時配信>>https://www.youtube.com/live/i2gPCMk5so4?si=fkDXlepPYXwUCe5m]]||
+|12/13|192|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸激短！衛星見れたあなたは奇跡！お花屋さん。 188.5日目 御花はな>>https://www.twitch.tv/videos/2325592958]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸激短！衛星見れたあなたは奇跡！お花屋さん。 188.5日目 御花はな　※同時配信>>https://www.youtube.com/live/p1toRCbcyaA?si=HIbLsahHkUUd0KTO]]||
+|12/18|193|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸みんなで店番day！お花屋さんとBMC。 189日目 御花はな>>https://www.twitch.tv/videos/2329771780]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸みんなで店番Day！お花屋さんとBMC。 189日目 御花はな　※同時配信>>https://www.youtube.com/live/IfYCtaB_sRQ?si=gfDz7jBqkhW9qw-c]]||
+|12/27|194|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸BMC忘年会！お花屋さんとBMC店番。 190日目 御花はな>>https://www.twitch.tv/videos/2336293633]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸BMC忘年会！お花屋さんとBMC店番。 190日目 御花はな　※同時配信>>https://www.youtube.com/live/Nsy0SGxTaZk?si=NggVNlMcKORu3Fjp]]||
+|12/28|195|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸仕事納め？お花屋さんとBMC店番。 191日目 御花はな>>https://www.twitch.tv/videos/2337065430]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸仕事納め？お花屋さんとBMC店番。 191日目 御花はな　※同時配信>>https://www.youtube.com/live/ROoNnVb03OY?si=T4CNdBbPeGMNLYNW]]||
+|12/31|196|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸今年もありがとうございました！お花屋さんとBMC店番。 192日目 御花はな>>https://www.twitch.tv/videos/2340523626]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸今年もありがとうございました！お花屋さんとBMC店番。 192日目 御花はな　※同時配信>>https://www.youtube.com/live/Znj9bhQTWKM?si=eJ6ubwVfEjGseesj]]||
+#endregion
+
+***2025年
+#region(01月)(#197~200)
+#areaedit
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ(メンバー限定)|~備考|h
+|01/02|197|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸今年初ストグラ！あけましておめでとう！お花屋さんとBMC店番。 193日目 御花はな>>https://www.twitch.tv/videos/2342161200]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸今年初ストグラ！あけましておめでとう！お花屋さんとBMC店番。 193日目 御花はな　※同時配信>>https://www.youtube.com/live/KkLll3DNogw?si=xJPhFcfoNQC7nWJ0]]||
+|01/08|198|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸コツコツと。お花屋さんとBMC店番。 194日目 御花はな>>https://www.twitch.tv/videos/2347523683]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸コツコツと。お花屋さんとBMC店番。 194日目 御花はな　※同時配信>>https://www.youtube.com/live/4vDt-eVbCEU?si=W5YFzYjKnv5CYYcJ]]||
+|01/09|199|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸街ブラしてみたい！お花屋さんとBMC店番。 195日目 御花はな>>https://www.twitch.tv/videos/2348386395]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸街ブラしてみたい！お花屋さんとBMC店番。 195日目 御花はな　※同時配信>>https://www.youtube.com/live/kb8-ldCaI_w?si=uWtpwHxjUVqxHIMM]]||
+|01/15|200|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸お花屋さんライブ準備とBMC新年会！ 196日目 御花はな>>https://www.twitch.tv/videos/2353066695]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸お花屋さんライブ準備とBMC新年会！ 196日目 御花はな　※同時配信>>https://www.youtube.com/live/jOodFCBmeOg?si=uLkZwwunBs1wzTuz]]||
+|01/16|201|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸試乗会へ行きたい！お花屋さん&BMC店番！ 198日目 御花はな>>https://www.twitch.tv/videos/2354763464]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸試乗会へ行きたい！お花屋さん&BMC店番！ 198日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=sDDc9Hpj6xU]]||
+|01/22|202|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸声が変です！お花屋さん&BMC早番！ 199日目 御花はな>>https://www.twitch.tv/videos/2360295942]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸声が変です！お花屋さん&BMC早番！ 199日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/k8chwf3Gt-A?si=gWLm4HSI49O3OpcS]]||
+|01/23|203|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸短め試乗会と中古車D。199.5日目 御花はな>>https://www.twitch.tv/videos/2361313173]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸見れた人は奇跡！？短め試乗会と中古車D。199.5日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=zAI5Zo9nOnk]]||
+|01/30|204|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸この配信が見れたあなたは奇跡！番外編。 御花はな>>https://www.twitch.tv/videos/2367722324]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸この配信が見れたあなたは奇跡！番外編。 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/XbMt9zjU-DQ?si=Cla5nbpIlV9uhVbV]]||
+|01/31|205|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸今日で200日！のんびり早番。200日目 御花はな>>https://www.twitch.tv/videos/2368459757]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸今日で200日！のんびり早番。200日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=DaTwMeSLO0Y]]||
+#endregion
+//
+#region(02月)(#206~215)
+#areaedit
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ(メンバー限定)|~備考|h
+|02/04|206|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸Chill Day。201日目 御花はな>>https://www.twitch.tv/videos/2372194687]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸Chill Day。201日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=f89HTuaU8wM]]||
+|02/06|207|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸試乗会と中古車Dとお花屋さん。202日目 御花はな>>https://www.twitch.tv/videos/2373953464]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸試乗会と中古車Dとお花屋さん。202日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/FkOOzOc6jK8?si=VmZnJka6BczNbjXz]]||
+|02/07|208|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸新車ドリ車を愛用する！203日目 御花はな>>https://www.twitch.tv/videos/2374712266]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸新車ドリ車を愛用する！203日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/hB4q0fmaiME?si=-NEzK-JsYtFbpwQv]]||
+|02/11|209|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸かなり短め番外編！レース練習！ 御花はな>>https://www.twitch.tv/videos/2378345180]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸かなり短め番外編！レース練習！ 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/Zs-AM3ez7ds?si=lrmcEG0zhpKpPIcB]]||
+|02/13|210|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸試乗会と中古車Dと店番！204日目 御花はな>>https://www.twitch.tv/videos/2380077643]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸試乗会と中古車Dと店番！204日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/P3OCTMt7l68?si=OovGJo0nR-c0Ooew]]||
+|02/14|210|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸忍さんとレースバトル！205日目 御花はな>>https://www.twitch.tv/videos/2380839201]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸忍さんとレースバトル！205日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=KOu5c6T8MuE]]||
+|02/19|211|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸ColorFlora みんなで店番Day！206日目 御花はな>>https://www.twitch.tv/videos/2385390649]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸ColorFlora みんなで店番Day！206日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=jZaQosQJhX0]]||
+|02/20|212|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸車好きの1日！207日目 御花はな>>https://www.twitch.tv/videos/2386329823]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸車好きの1日！207日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=FFSMPc3C7CE]]||
+|MIDDLE:02/21|MIDDLE:213|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸BMC出勤！208日目 御花はな>>https://www.twitch.tv/videos/2387067557]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸早番に続き遅番！BMC&お花屋さん！208日目 御花はな>>https://www.twitch.tv/videos/2387248765]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸BMC出勤！208日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=b27yiIBDR2E]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸早番に続き遅番！BMC&お花屋さん！208日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=Wvu4A6EDARg]]||
+|MIDDLE:02/25|MIDDLE:214|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸早番メカニック！BMC出勤！209日目 御花はな>>https://www.twitch.tv/videos/2390666455]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸BMC&9055学力テスト！209日目 御花はな>>https://www.twitch.tv/videos/2390800988]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸早番メカニック！BMC出勤！209日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/ygL7FAjaI-M?si=NApfOSi_URpGhBJx]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}||
+|02/27|215|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ】🌸本日活動4周年！いつもありがと！210日目 御花はな>>https://www.twitch.tv/videos/2392354468]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】🌸本日活動4周年！いつもありがと！210日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=10az4MMDK2g]]||
+#areaedit(end)
+#endregion
+//
+//
+#region(03月)(#216~224)
+#areaedit
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ(メンバー限定)|~備考|h
+|03/05|216|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸遅番頑張るお花屋さん！ 211日目 御花はな>>https://www.twitch.tv/videos/2397798715]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸遅番頑張るお花屋さん！ 211日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=t2s8p8tysa4]]||
+|MIDDLE:03/06|MIDDLE:217|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸BMC早番戦士！ 212日目 御花はな>>https://www.twitch.tv/videos/2398465233]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸お花屋さん遅番戦士！ 212日目 御花はな>>https://www.twitch.tv/videos/2398598636]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸BMC早番戦士！ 212日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=nGu_joXxc2Y]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸お花屋さん遅番戦士！ 212日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/tkkYxCwlKK8?si=qPumgKwPNLFIR0aC]]||
+|MIDDLE:03/12|MIDDLE:218|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸BMC&お花屋さん早番戦士！ 213日目 御花はな>>https://www.twitch.tv/videos/2403648736]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸気合いで頑張る戦士！ 213日目 御花はな>>https://www.twitch.tv/videos/2403772881]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸BMC&お花屋さん早番戦士！ 213日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=xRGd0L4szTA]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸気合いで頑張る戦士！ 213日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=jreokQFAlZI]]||
+|MIDDLE:03/13|MIDDLE:219|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸街のお花屋さん ColorFlora 1周年！ 214日目 御花はな>>https://www.twitch.tv/videos/2404502231]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸街のお花屋さん ColorFlora 1周年！ 214日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=0Bgsijdaqtw]]||
+|MIDDLE:03/15|MIDDLE:220|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸お花屋さん早番頑張るよ！ 215日目 御花はな>>https://www.twitch.tv/videos/2406221806]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸BMC&お花屋さん早番頑張るよ！ 215日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=Rv3PIeEi73Y]]||
+|MIDDLE:03/19|MIDDLE:221|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸みんなで店番Day&フラワーライブ 216日目 御花はな>>https://www.twitch.tv/videos/2409688343]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸みんなで店番Day&フラワーライブ 216日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=oxbe2PVb5Qo]]||
+|MIDDLE:03/27|MIDDLE:222|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸春の収穫祭！ColorFlora出店！ 217日目 御花はな>>https://www.twitch.tv/videos/2416626629]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸春の収穫祭！ColorFlora出店！ 217日目 御花はな>>https://www.twitch.tv/videos/2416674425]]|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸春の収穫祭！ColorFlora出店！ 217日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=4idpNyS64AI]]||
+|MIDDLE:03/30|MIDDLE:223|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸みじかめ早番戦士BMC&お花屋さん！ 218日目 御花はな>>https://www.twitch.tv/videos/2419289537]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸みじかめ早番戦士BMC&お花屋さん！ 218日目 御花はな>>https://www.twitch.tv/videos/2419336848]]|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸みじかめ早番戦士BMC&お花屋さん！ 218日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=Xe0SSabyVF0]]||
+|MIDDLE:03/31|MIDDLE:224|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸シャッフルパージデー！ #ストグラSPD2025 御花はな>>https://www.twitch.tv/videos/2420264177]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸シャッフルパージデー！ #ストグラSPD2025 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=7qJlpDbMSZc]]||
+#areaedit(end)
+#endregion
+//
+//
+#region(04月)(#225~232)
+#areaedit
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ(メンバー限定)|~備考|h
+|04/01|225|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸警察兼ギャングの世界線 #ストグラSPD2025 御花はな>>https://www.twitch.tv/videos/2420950425]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸警察兼ギャングの世界線 #ストグラSPD2025 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=HU8FAs8gQMI]]||
+|04/03|226|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸車のお勉強したい！BMC&お花屋さん！ 219日目 御花はな>>https://www.twitch.tv/videos/2422803595]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸車のお勉強したい！BMC&お花屋さん！ 219日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=8WVTbVqEKYs]]||
+|04/04|227|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸レース頑張る！つばめちゃんに車を売る！ 220日目 御花はな>>https://www.twitch.tv/videos/2423798863]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸レース頑張る！つばめちゃんに車を売る！ 220日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/3yevUWZnDyM?si=RWt9cOv9GnlcMQjC]]||
+|04/10|228|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸みじかめ試乗会&中古車D！レース頑張る！221日目 御花はな>>https://www.twitch.tv/videos/2429076654]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸みじかめ試乗会&中古車D！レース頑張る！221日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/mnVPYA2-yfM?si=iadViZDcFslKugTi]]||
+|04/16|229|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸みじかめ！みんなで店番Day！222日目 御花はな>>https://www.twitch.tv/videos/2434298157]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸みじかめ！みんなで店番Day！222日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/cOADJUUbrz8?si=aNem2LpwXTxP9mbw]]||
+|04/17|230|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸初レーシック。うさぎさんライブ行くよ！223日目 御花はな>>https://www.twitch.tv/videos/2435234226]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸初レーシック。うさぎさんライブ行くよ！223日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=1sS-SekL21c]]||
+|04/18|231|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸みんなと交流！早番！224日目 御花はな>>https://www.twitch.tv/videos/2436040557]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸みんなと交流！早番！224日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=dxLkRt8qKxU]]||
+|04/22|232|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸勝手にレース協会へ協賛したレース日！225日目 御花はな>>https://www.twitch.tv/videos/2439546345]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸勝手にレース協会へ協賛したレース日！225日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/FPQBq8JZmU0?si=DYSeqAjrX_OFwuBU]]||
+|04/24|233|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸試乗会と中古車D！ゆっくり過ごすよ！226日目 御花はな>>https://www.twitch.tv/videos/2441392845]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸試乗会と中古車D！ゆっくり過ごすよ！226日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=idJMCwGH4a0]]||
+#areaedit(end)
+#endregion
+//
+//
+#region(05月)(#234~240)
+#areaedit
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ(メンバー限定)|~備考|h
+|05/03|233|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸1週間ぶり！街のこと知りたい！227日目 御花はな>>https://www.twitch.tv/videos/2449067399]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸1週間ぶり！街のこと知りたい！227日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=I3GS1IBarfw]]||
+|05/06|234|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸もりもり元気に早番！228日目 御花はな>>https://www.twitch.tv/videos/2451662738]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸もりもり元気に早番！228日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=E9Bb1XIc66E]]||
+|05/07|235|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸楽しく元気に早番！229日目 御花はな>>https://www.twitch.tv/videos/2452498358]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸楽しく元気に早番！229日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/4KmlnspH8Ek?si=zRPFdYkzCEMqtXoI]]||
+|05/09|236|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸今日も今日とて早番！230日目 御花はな>>https://www.twitch.tv/videos/2454197395]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸今日も今日とて早番！230日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=VbF4CIKkzLw]]||
+|05/15|237|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸みじかめ！試乗会&中古車&お花屋さん 231日目 御花はな>>https://www.twitch.tv/videos/2459388372]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸みじかめ！試乗会&中古車&お花屋さん 231日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=qLXe03gT-z8]]||
+|05/18|238|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸お花見フラワーライブ 232日目 御花はな>>https://www.twitch.tv/videos/2462106245]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸お花見フラワーライブ 232日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/uyxfV4dhq5k?si=AeysuVa0n6ojpl2l]]||
+|05/21|239|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸BMC&ColorFlora早番！みんなで店番Day！お花屋さんレース！233日目 御花はな>>https://www.twitch.tv/videos/2464412547]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸BMC&ColorFlora早番！みんなで店番Day！233日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=5v-L_wuJmHAl]]||
+|05/27|240|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸BMC&ColorFlora出勤！234日目 御花はな>>https://www.twitch.tv/videos/2469706198]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸BMC&ColorFlora出勤！234日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=0Qc_i4q5iow]]||
+#areaedit(end)
+#endregion
+//
+#region(06月)(#241~241)
+#areaedit
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ(メンバー限定)|~備考|h
+|06/12|241|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸お久しぶり！気ままに店番！235日目 御花はな>>https://www.twitch.tv/videos/2483956776]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸お久しぶり！気ままに店番！235日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/c1559TqujuI?si=gdpuJlc8PAbuxENQ]]||
+#areaedit(end)
+#endregion
+//
+#region(07月)(#242~244)
+#areaedit
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ(メンバー限定)|~備考|h
+|07/10|242|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸約1か月ぶり！BMC&お花屋さん早番頑張るぞ！ 236日目 御花はな>>https://www.twitch.tv/videos/2506789235]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸約1か月ぶり！BMC&お花屋さん早番頑張るぞ！ 236日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=kPP5NamfJXM]]||
+|07/29|243|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸約20日ぶり！BMC&お花屋さん早番頑張るぞ！ 237日目 御花はな>>https://www.twitch.tv/videos/2525405372]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸約20日ぶり！BMC&お花屋さん早番頑張るぞ！ 237日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=TyZVzDG2A]]||
+|07/31|244|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸今日も今日とて、BMC&お花屋さん早番頑張るぞ！ 238日目 御花はな>>https://www.twitch.tv/videos/2527193039]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸今日も今日とて、BMC&お花屋さん早番頑張るぞ！ 238日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=h1RfvJVKoPQ]]||
+#areaedit(end)
+#endregion
+//
+#region(08月)(#245~250)
+#areaedit
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ(メンバー限定)|~備考|h
+|08/05|245|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸mattari BMC&お花屋さん早番！ 239日目 御花はな>>https://www.twitch.tv/videos/2531595915]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸mattari BMC&お花屋さん早番！ 239日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=pO6_Jy09nqQ]]||
+|08/07|246|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸今日はお誕生日！ BMC&お花屋さん早番！ 240日目 御花はな>>https://www.twitch.tv/videos/2533379999]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸今日はお誕生日！ BMC&お花屋さん早番！ 240日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=77Iy6dELYQ0]]||
+|08/19|247|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸街ブラとBMC&お花屋さん早番！ 241日目 御花はな>>https://www.twitch.tv/videos/2544075820]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸街ブラとBMC&お花屋さん早番！ 241日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=o785JfqeQJ4]]||
+|08/20|248|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸みんなで店番DayとBMC2周年！ 242日目 御花はな>>https://www.twitch.tv/videos/2544992363]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸みんなで店番DayとBMC2周年！ 242日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=ychGlFEE]]||
+|08/21|249|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸お花屋さん&BMC店番！ 243日目 御花はな>>https://www.twitch.tv/videos/2545801447]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸お花屋さん&BMC店番！ 243日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=095nnAFUhLM]]||
+|08/26|250|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸お花屋さん&BMC店番！ 244日目 御花はな>>https://www.twitch.tv/videos/2550102657]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸お花屋さん&BMC店番！ 244日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=mqUPkld_bhY]]||
+#areaedit(end)
+#endregion
+//
+#region(09月)(#251~252)
+#areaedit
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトルTwitch(サブスク限定アーカイブ)|~YouTubeアーカイブ(メンバー限定)|~備考|h
+|09/17|251|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸活動復帰！体調見つつゆっくりChill。 246日目 御花はな>>https://www.twitch.tv/videos/2568550648]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸活動復帰！体調見つつゆっくりChill。 246日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/sQrSNiadajw?si=CETMQyA9FihTA4N2]]||
+|09/21|252|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸ありがとう！ロスサントス！ 247日目 御花はな>>https://www.twitch.tv/videos/2572081501]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸ありがとう！ロスサントス！ 247日目 御花はな ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=4NaWNCgbcLA]]|STGR Seazon 1 – The End.|
+#areaedit(end)
+#endregion
+#endregion(SEASON1)
+//
+***SEASON2
+#region(開く,open)
+***2025年
+#region(12月,open)(#1)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|12/19|1|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day1>https://www.twitch.tv/videos/2647732737]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day1 ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=eWZmoOPmu5w]]||
+#areaedit(end)
+#endregion
+***2026年
+#region(01月,open)(#2~)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|MIDDLE:01/04|MIDDLE:2|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day2※アーカイブはメン限 >>https://www.twitch.tv/videos/2660933471]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day2※アーカイブはメン限 >>https://www.twitch.tv/videos/2660942088]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day2※アーカイブはメン限 >>https://www.twitch.tv/videos/2660945566]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day2※アーカイブはメン限 >>https://www.twitch.tv/videos/2660959823]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day2※アーカイブはメン限 >>https://www.twitch.tv/videos/2660985060]]|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day2 ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=YIsureUgKGA]]||
+|MIDDLE:01/09|MIDDLE:3|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day3> >https://www.twitch.tv/videos/2665273977]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day3> >https://www.twitch.tv/videos/2665286543]]|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day3 ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/watch?v=u6abr8f5SNQ]]||
+|MIDDLE:01/11|4|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day4> >https://www.twitch.tv/videos/2667153311]]|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】🌸ストグラSeason2 御花はな Day4 ※アーカイブはメン限 ※同時配信>>https://www.youtube.com/live/ulVmi8-A3Z8?si=w2x4pT-faElGHsso]]||
+#areaedit(end)
+#endregion
+#endregion(SEASON2)
+//
+*&font(#e0e0e0){切り抜き &font(#F8D3D6){&icon_fa(fa-solid fa-scissors)}}
+&b(){2023年}
+#region(開く)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~公開日|~#|~動画タイトル|h
+|08/15|1|[[🌸御花はな1日目🌸濃密で衝撃的なストグラ初日まとめ。【シャンクズ/おかあさん/不二子/加賀イズミ/キングスターダイヤモンドズズ】>>https://www.youtube.com/watch?v=MemEi_x-eYo]]|
+|08/16|2|[[🌸御花はな2日目🌸2人も病院送りにしたストグラ2日目まとめ。【海鈴りおん/海鈴ナギ/猪狩翔太/伊達咲政宗/アルベール/シャンクズ/ブドウマン/マクドナルド/ジョーカー】>>https://www.youtube.com/watch?v=pw6fG8QwwSw]]|
+|08/17|3|[[🌸御花はな3日目🌸裏の顔がバレてしまう！？3日目まとめ。【BIGSUZUKI/なののなの/鳥野ぎん/雷堂ましろ/神崎治/フランシスコマグナム/ノビーラング/ももみ】>>https://www.youtube.com/watch?v=9vTc4e4tjAs]]|
+|08/19|4|[[🌸無茶ぶりで突然コントをすることに！？御花はなストグラ4日目まとめ。【ズズ/マクドナルド/ヴァンパイアハンターまさし/けっつん太郎/クマゴリラ/四皇シャンクズ】>>https://www.youtube.com/watch?v=3FN5VGO18W8]]|
+|08/21|5|[[🌸アンブレラボスがギャルに囲まれて困惑！御花はな ストグラ5&6日目【ぎゃるみ/ウェスカー/マイゴ/不二子/ズズ/イチカ/ナタル/つぼ浦/四皇シャンクズ】>>https://www.youtube.com/watch?v=EQeEpFHa2gg]]|
+|08/22|6|[[🌸例の車について大爆笑で語る二人。御花はな ストグラ7日目【ヨシャパテ/ナタル/ペトロ/キミトス/クマゴリラ/シオコリコ/淀川てるみ/四皇シャンクズ】>>https://www.youtube.com/watch?v=2I81sW5pQjE]]|
+|08/23|7|[[🌸餡ブレラステッカー付シャンクズカー！クマゴリラカスタム！ 御花はな ストグラ8日目【冥鳴キマリ/クマゴリラ/淀川てるみ/須藤冬馬/四皇シャンクズ/ナマル】>>https://www.youtube.com/watch?v=Oglr-wPaJbk]]|
+#endregion
+
+&b(){2024年}
+#region(開く)
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~公開日|~#|~動画タイトル|h
+|04/15|8|[[【#ストグラ #ストグラSPD】返事が強すぎてボスに怒られる！初めての銀行強盗やヘリ運転！【 餡ブレラ/御花はな/シャンズズ/クマゴリラ/ヘルアン/ケインオー/博士/天羽よつは/チンピラ】>>https://www.youtube.com/watch?v=OH5okACsZag]]|
+|04/26|9|[[【#ストグラ #ストグラSPD】衝撃的エンドも！やいち郎を拉致しハンクとチェイス！初めての銀行強盗！【 餡ブレラ/御花はな/BIGSUZUKI/さぶ郎/赤城煉/元難波芽久未/伊藤ぺいん/青井らだお】>>https://youtu.be/xmcdkT6BOjs?si=B2pQLBtNiZoULoiY]]|
+|05/11|10|[[【#ストグラ】空舞月りりちゃんと御花はなの感動的な再会！【御花はな/空舞月りり/BMC】>>https://youtu.be/lw0665Q21KU?si=tgJGi1lMpwJMlxrw]]|
+|06/28|11|[[【#ストグラ】新店舗の花屋さんに焦げ付きそうな新人が体験！心の声が駄々洩れ！？【ColorFlora/御花はな/焦月ツルギ/笹熊アレオ/天草蒼/パンプキング/元難波芽久未】>>https://youtu.be/x-qtw9oky7w?si=iJnSvqX9aRLoXCq-]]|
+|06/29|12|[[【#ストグラ】面白歪みデート後からの衝撃的事実！〇〇したエスタークさんと遊園地デート！【御花はな/エスターク/帝レン/平井のおっちゃん/犬億ロック】>>https://youtu.be/OaZ8xVNfx5o?si=CMHEI02yaJZPl3Qi]]|
+|09/11|13|[[【ストグラ】セクハラ疑惑を正論で跳ね返すプスカ大佐【切り抜き/御花はな/プスカ大佐/超越ヶ谷にかり/雷堂ましろ/BMC】>>https://youtu.be/TWTE8Mz5wBg?si=esEsXPsV5k-9MKTf]]|
+|09/13|14|[[【ストグラ】言われるがままチェキを撮られ無慈悲な請求をされるハンさん【切り抜き/御花はな/揚物ころも/アドミゲスハン/プスカ大佐/超越ヶ谷にかり】>>https://youtu.be/lEr59TVG_7I?si=SemB70LQ5HG6INJA]]|
+|09/15|15|[[【ストグラ】御花はなと空舞月るるにイジられ開発される大佐【切り抜き/御花はな/プスカ大佐/空舞月るる/BMC】>>https://youtu.be/iZFeem38VGk?si=P5V9mV_LdpPB-dK1]]|
+|09/18|16|[[【ストグラ】名作ドラマを知らない御花はなに思わずツッコんでしまう大佐【切り抜き/御花はな/プスカ大佐/ルーファスウィルキンズ/ジェフリーヒッチコック/BMC】>>https://youtu.be/DNiBMAFIUMs?si=NyTghCLmyCirDK8i]]|
+|09/20|17|[[【ストグラ】警察署を借りてバイオ撮影会をするBMC【切り抜き/御花はな/プスカ大佐/BMC】>>https://youtu.be/tUzlX0Z79Hs?si=8hTZhHshSycOErmu]]|
+|09/22|18|[[【ストグラ】文化祭で漫才を披露し観客を爆笑させるズズと御花はな【切り抜き/御花はな/ズズ/プスカ大佐/にしのん/マクドナルド/ぎゃるみ/BMC】>>https://youtu.be/mdbM_tDGjXU?si=URfMwSL6Yr4OfUbX]]|
+|09/25|19|[[【ストグラ】やばいエモートを教えてた事がバレて怒られる大佐【切り抜き/御花はな/プスカ大佐/空舞月るる/にしのん/青梅つばめ/ウェスカー/ノビーラング/BMC】>>https://youtu.be/6Ig_g8M2OWQ?si=Zaf0zZUBiLQmSpKW]]|
+|09/29|20|[[【ストグラ】素材集め勝負でバレバレの嘘をついて勝とうとする大佐【切り抜き/御花はな/プスカ大佐/星唄サウ汰/白井満太/マイゴ・ニ＝ナリエル/にしのん/空舞月るる/BMC】>>https://youtu.be/GUBDX2KE77E?si=5uKuBZFfdsMnFJ9B]]|
+|10/02|21|[[【ストグラ】白市民と伝えるために突然服を脱ぎだす大佐【切り抜き/御花はな/プスカ大佐/星唄サウ汰/焼野原ひろし/にしのん/空舞月るる/BMC】>>https://youtu.be/Vd_o9_AYYx8?si=JBaONjkZ4SjZ90_r]]|
+|10/04|22|[[【ストグラ】デスノートで事故◯を予告する大佐【切り抜き/御花はな/プスカ大佐/にしのん/ウェスカー/ハンク/栖家幡華憐/ジェフリーヒッチコック/ルーファスウィルキンズ/BMC】>>https://youtu.be/FL2i9dmzDWc?si=9xycmSYMKC3_mAUO]]|
+|10/07|23|[[【ストグラ】お尻を叩かれて新しい世界が開く大佐【切り抜き/御花はな/プスカ大佐/BIGSUZUKI/マカイーノアッコパス/神道まきぴ/小者デヤンス//BMC】>>https://youtu.be/ABaIJ-yH6lE?si=DdUxKyd3jMuGVNga]]|
+|10/28|24|[[【ストグラ】シャンクズから貰ったルパンカーを次の代に受け継ぐ御花はな【切り抜き/御花はな/シャンクズ/冥鳴キマリ/Lの意思】>>https://youtu.be/Awn5maE7ms0?si=wA_svfXkZoVttwZZ]]|
+|11/01|25|[[【ストグラ】Lの意思新たな被害者！？空飛ぶニトロルパンカー【切り抜き/御花はな/シャンクズ/丘猫まる/神道まきぴ/星唄サウ汰/クマゴリラ/BMC】>>https://youtu.be/BMmG9TUZZkg?si=t7FFrZM_C4B9WGkF]]|
+|11/05|26|[[【ストグラ】フィッシングクラブに焦げ付いた大型新人加入！？【切り抜き/御花はな/シャンクズ/焦月ツルギ/花沢まるん/うさぎさん/チンピラ/BMC】>>https://youtu.be/gz1wL0wE68o?si=0icMRZVx-zjVrKIS]]|
+|11/09|27|[[【ストグラ】◯ムロにいきなり斬りかかるハンク【切り抜き/御花はな/ハンク/スムロイェイ/神道まきぴ/空舞月るる/揚物ころも/プスカ大佐/ゴンザレスマヌ太郎/BMC】>>https://youtu.be/xW8kEbarEoA?si=QqmnGbM0eeKlH6WK]]|
+|11/11|28|[[【ストグラ】御花の悩みを親身になって聞いてくれるぎゃるみ【切り抜き/御花はな/ぎゃるみ/マイゴニ＝ナリエル/天近くるみ/ヘスティアゴデス/ノビーラング/BMC】>>https://youtu.be/8mzBdRTDMF4?si=oo0Qf9No2rkVYluq]]|
+|11/18|29|[[【ストグラ】土下座することでBMCのクビを回避するする蔵【切り抜き/御花はな/する蔵/焼野原ひろし/丘猫まる/BMC】>>https://youtu.be/f3QSoQbmv9Y?si=d1iuvNpnyV0O2qsk]]|
+|11/22|30|[[【ストグラ】ヘリでBMCにダイナミック入店しようとするDr.ギガ【切り抜き/御花はな/Dr.ギガ/青梅つばめ/ゆたんぽ/うさぎさん/ももみ/BMC】>>https://youtu.be/fVzRiLh10c8?si=FuDxIfKhqOAEGLcZ]]|
+|12/04|31|[[【ストグラ】久しぶりのBMC出勤！BMCで恋愛トーク！【切り抜き/御花はな/ジェフリーヒッチコック/空舞月るる/万十忍/BMC】>>https://youtu.be/F7VT8zjgZSg?si=Su6g5Tm-sunsNexk]]|
+|12/24|32|[[【ストグラ】花屋開店初日に値段を聞いて帰ろうとするシャンクズ！？【切り抜き/御花はな/シャンクズ/安保さぶ郎/えびなヨネ/天羽よつは/冬那フナ】>>https://youtu.be/e8wD8yUnPyQ?si=X0rI_xqIyiHk0T8q]]|
+#endregion
+
+&b(){2025年}
+#region(開く,open)
+#areaedit
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~公開日|~#|~動画タイトル|h
+|01/25|33|[[【ストグラ】花屋店番中に修羅場に遭遇する御花！？【切り抜き/御花はな/花沢まるん/いぇろおたいが/銭形やいち郎/街雄サンリ/チェンマヨ/アドミゲス・ハン】>>https://youtu.be/jhUg68MaC5s?si=HDP-phMwu0DDOBPo]]|
+|01/29|34|[[【ストグラ】花屋の従業員募集！花沢まるんに声をかけた結果・・・【切り抜き/御花はな/花沢まるん/ColorFlora】>>https://youtu.be/qw4sWFy9QHc?si=gSoDDlryBd17MvIY]]|
+|02/05|35|[[【ストグラ】お花屋さんに従業員続々加入！？【切り抜き/御花はな/天羽よつは/酒槻すん/冬那フナ/久川たんぽぽ/ColorFlora】>>https://youtu.be/XwhxpZXyuTo?si=Bl7LuWykB0Hck4aP]]|
+|02/08|36|[[【ストグラ】お花屋さんの初イベント！フラワーライブで大興奮！【切り抜き/御花はな/八王子めぐ/久川たんぽぽ/ColorFlora】>>https://youtu.be/H45nJo3f0Ws?si=OtNIWlBvPzqD1KO8]]|
+|02/12|37|[[【ストグラ】花屋体験中のうた子さん花屋に正式加入！！【切り抜き/御花はな/広場うた子/久川たんぽぽ/ColorFlora】>>https://youtu.be/a85qj6mcAcg?si=gGgi98S1XpHKoWL5]]|
+|02/15|38|[[【ストグラ】イメージ激変！女を誑かす万十忍！？【切り抜き/御花はな/万十忍/深沢えぼし/揚物ころも/青梅つばめ/花沢まるん/BMC】>>https://youtu.be/opCTDkDqEFo?si=XGO3bSiJlwcWjR05]]|
+|02/18|39|[[【ストグラ】にしのん社長に法外な請求をするうた子！？【切り抜き/御花はな/広場うた子/にしのん/安保さぶ郎/万十忍/BMC】>>https://youtu.be/brCwLSFWsqE?si=OguI-zqXb3mdhL3-]]|
+|02/22|40|[[【ストグラ】禊のBMC体験で一人店番を任されるうた子に驚く御花！？【切り抜き/御花はな/広場うた子/万十忍/二部らるたる/ブロッコリー斎藤/星乃すみ/BMC】>>https://youtu.be/w_-ZJji5N9w?si=__gwrC6IoDrUdLlL]]|
+|02/27|41|[[【ストグラ】突如始まるお花屋コスプレショー！？【切り抜き/御花はな/姫一夕/MCSunrise/小豆最中/羽山ペティ/焼野原ひろし/神道まきぴ/ColorFlora】>>https://youtu.be/_68f7LO2djs?si=eYH6lST61FBfH5b-]]|
+|03/01|42|[[【ストグラ】裏話続々登場！！BMC新年会！【切り抜き/御花はな/にしのん/青梅つばめ/万十忍/マカイーノアッコパス/星乃すみ/うさぎさん/太田民子/BMC】>>https://youtu.be/XM-u9Z0wUvM?si=WguTwbS8J_6VsJYg]]|
+|03/06|43|[[【ストグラ】頼れる先輩？仙人であり神龍の無馬かな！？【切り抜き/御花はな/無馬かな/チャルロスSAY!/クマゴリラ/山田カイキ/三島改/上田さん/ティキーチックのすけ/二部らるたる/BMC】>>https://youtu.be/hraoJjlMpOo?si=bev3G0oot6ApI7UR]]|
+|03/08|44|[[【ストグラ】ハロウィンイベントで散々な目に！不憫すぎるプスカ大佐！？【切り抜き/御花はな/プスカ大佐/うさぎさん/にしのん/青梅つばめ/空舞月るる/星唄サウ汰/ジェフリーヒッチコック/BMC】>>https://youtu.be/fMnm0AkS1oQ?si=fjJjgdMxpEbLn3Ty]]|
+|03/23|45|[[【ストグラ】花屋1周年に上田暴走！？激怒する御花【切り抜き/御花はな/広場うた子/上田さん/えびなヨネ/平井善之/安保さぶ郎/ColorFlora】>>https://youtu.be/Ny5KQjjFpZc?si=AM_Ij3axRgkEAU-z]]|
+|03/25|46|[[【ストグラ】まきぴちゃんの突然のカミングアウトに驚く御花！？【切り抜き/御花はな/冬那フナ/神道まきぴ/ジェフリーヒッチコック/青梅つばめ/万十忍/うさぎさん/神田じぇいのすけ/BMC】>>https://youtu.be/jNH0hBAaoPY?si=nkKfnRQtEz7LL-iK]]|
+|03/29|47|[[【ストグラ】春の訪れ?フナまきでてぇてぇ成分を摂取する御花!?【切り抜き/御花はな/冬那フナ/神道まきぴ/青梅つばめ/万十忍/久川たんぽぽ/パンプキング/ColorFlora】>>https://youtu.be/geSkjSg4IoQ?si=5vJxQt4-_SzMEFAZ]]|
+|04/04|48|[[【ストグラ】シャッフルパージデー 警察からギャングに闇落ち!?【御花はな/広場うた子/黒岩るい子/超越ヶ谷にかり/街雄サンリ/はがかける/ジョーカー/上田/千代田ヨウ/MonD/SPD2025】>>https://youtu.be/WneO0CJJFO0?si=ONHXrZs6Nrv2nxlq]]|
+|04/06|49|[[【ストグラ】シャッフルパージデー 倒れたウェスカー署長をオーバーキルする御花！？【御花はな/ひのらん/アルフォートウェスカー/命田守/君島こはる/畳かえるハンク/ももみマルフォイ/SPD2025】>>https://youtu.be/WLLCFvQB7cc?si=S2EeKRu45D5ak-VS]]|
+|04/12|50|[[【ストグラ】フラワーライブ開催!うさぎさんと久川たんぽぽのデュエットが実現!?【切り抜き/御花はな/久川たんぽぽ/うさぎさん/酒槻すん/渡戸リー/上田さん/ColorFlora】>>https://youtu.be/jjqWl5aPYGw?si=RD-uFjadRLnvfPLk]]|
+|04/16|51|[[【ストグラ】店番しているフナさんを変装して偵察する御花！？【切り抜き/御花はな/冬那フナ/バーバリアン田中/万十忍/牧田ここな/丘猫まる/ColorFlora/BMC】>>https://youtu.be/vmbnkXDQ47E?si=vVlKZJAf7zNw3YYu]]|
+|04/20|52|[[【ストグラ】うさぎさん衝撃の告白!あまりの驚きに泣き出す御花【切り抜き/御花はな/うさぎさん/にしのん/ヴァンダーマー/ラグランジュ光芝/文殊セイジ/BMC】>>https://youtu.be/0WrL0SPY0dE?si=X3AY_WvHZkLjEbHF]]|
+|04/25|53|[[【ストグラ】暴走以来のやらかし!?上田さんはお花屋を続けるのか!?【切り抜き/御花はな/上田さん/葛城司/天羽よつは/わきを/花沢まるん/ColorFlora】>>https://youtu.be/4KZVxjpwj6c?si=bMqjv0LxWmcuSwvR]]|
+|05/03|54|[[【ストグラ】SPL開催の裏話!号泣したことをカミングアウトするタラちゃん【切り抜き/御花はな/空舞月るる/万十忍/揚物ころも/わきを/タラちゃん/ゆたんぽ/星唄サウ汰/BMC】>>https://youtu.be/rhFS2s2SHHU?si=HFvtBM8mqqLsamU2]]|
+#areaedit(end)
+#endregion
+//|mm/dd|n|[[タイトル>>URL]]|
+
+#right(){&link_up(🔝ページTOPへ)}
+
+*&font(#e0e0e0){ストグラコラボ &font(#F8D3D6){&icon_fa(fa fa-calendar-o)}}
+&b(){2024年}
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~公開日|~#|~動画タイトル|h
+|03/25|1|[[【#BMC #ストグラコラボ】🌸Gartic Phone>>https://www.youtube.com/watch?v=hmCxJPeWHSM]]|
+
+&b(){2025年}
+#table_style(head=center:#F8D3D6){配信日=right,#=center}
+|~公開日|~#|~動画タイトル|h
+|01/03|2|[[【#頭文字D #同時視聴】🚙完全初見！BMCメンで頭文字D First Stage 同時視聴&感想会【雑談 イニシャルD ストグラ VTuber】>>https://www.youtube.com/live/j_XsZ0Clj0k?si=CxM78Si9YyIp-A3_]]|
+|03/07|3|[[【ストグラVALO】w/ KOHALさん、魔光リサさん、イナゴンさん、みこだよさん !rank !sens>>https://www.twitch.tv/hanataba_yuiha/video/2399561651]]|
+
+
+//別キャラクター名記載の詳細については、編集相談所ログ2024-03-26 06:13:03～を参照願います。
+
+#right(){&link_up(🔝ページTOPへ)}

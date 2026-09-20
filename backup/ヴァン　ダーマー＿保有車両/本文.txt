@@ -1,0 +1,137 @@
+//写真は5:3で切り取って利用しています。私の場合は
+//iPhoneの写真で5:3に加工→わかりやすいように名前をつけてファイルに保存→このページの上にある「画像」からアップロード→&blankimg(.jpg,x=50,y=30)このコードの.jpgの前にアップロードした時の名前を追加
+//という形で画像をこのページに貼っていました。
+※車両の情報や写真募集中
+※車両名の矢印は、主に連れ去られる日に丁度変更した車の名前です。元々なかった車両はそのまま書き込んでいます。
+#table_filter(){No.=show,購入日=hide,種類=show,車種名=show,車両名=show,ナンバー=show,備考=hide,画像=show,受け取った人=show}
+#table_style(head=#000000:#ffffff){}
+|~購入日|~種類|~車種名|~車両名|~ナンバー|~備考|~画像|h
+|不明|&icon_fa(fa fa-car)|Enus Super Diamond||WJRT4672|||
+|(2023/03/28)|&icon_fa(fa fa-car)|Vapid GB200||SLXO9361|[[ガンロス>ガンロスD・ラブバイブレーション]]より譲受||
+|2023/03/29|&icon_fa(fa fa-car)|Benefactor Krieger|GTクリーガー|DMAR2263|友人を想い購入した大切な車|&blankimg(クリーガー.jpg,x=50,y=30)&blankimg(クリーガー②.jpg,x=50,y=30)&br()&blankimg(クリーガー③.jpg,x=50,y=30)|
+|(2023/05/22)|&icon_fa(fa fa-car)|Annis Remus|後藤ちゃんhbd|NXPY4691|車体→[[後藤　れむ]]からのプレゼント&br()カスタム→[[山本　龍也]]からのプレゼント||
+|(5/23)|&icon_fa(fa fa-car)|Pfister Comet Retro Costom|HBDコメットクラシック&br()→HBDコメットクラシック箆鷸×鶴|HUUZ6729|車体、カスタム→[[三階堂　キミトス]]からのプレゼント&br()エンジン、ハーネス→[[ヘラシギ]]からのプレゼント||
+|2023/08/20|&icon_fa(fa fa-car)|SPORTS IGNUS|HBDイグナス&br()→HBDイグナス 鳶|CHDK2259|誕生日に[[山本さん>山本　龍也]]と[[バジル>葉時山　バジル]]からもらったクーポン券を&br()使い購入。2025/08/17に車両名を整理した際に&br()（勘違いで？）鳶と表記。|&blankimg(イグナス.jpg,x=50,y=30)&blankimg(イグナス②.jpg,x=50,y=30)&br()&blankimg(イグナス③.jpg,x=50,y=30)&blankimg(イグナス④.jpg,x=50,y=30)|
+|2023/10/05|&icon_fa(fa fa-car)|SPORTS SULTAN RS|サルタンRS|ZABN1855|||
+|2023/10/15|&icon_fa(fa fa-car)|Ocelot Virtue|イチカヴァーチャー&br()→イチカヴァーチャー 鳶|DBFB0866|街に来て1周年のお祝いとして&br()[[碇　イチカ]]からのプレゼント|&blankimg(イチカ.jpg,x=50,y=30)&blankimg(イチカ②.jpg,x=50,y=30)&br()&blankimg(イチカ③.jpg,x=50,y=30)&blankimg(イチカ④.jpg,x=50,y=30)|
+|2023/11/18|&icon_fa(fa fa-car)|WEENY PEANUT|VANP|NOVG5233|[[多良里　ずぅ]]からのプレゼント||
+|不明|&icon_fa(fa fa-car)|Canic Kamacho|カマチョ|SUUD8393|1度はメンバーにプレゼントしたため手放すが&br()性能が良いため再購入||
+|2023/12/24|&icon_fa(fa fa-car)|Pegassi Zentorno|FUJIKOゼントーノ&br()→FUJIKOゼントーノ鶯|RXTU3541|[[不二子　キャスパー]]から買い取り|&blankimg(ゼントーノ.jpg,x=50,y=30)&blankimg(ゼントーノ②.jpg,x=50,y=30)&br()&blankimg(ゼントーノ③.jpg,x=50,y=30)&blankimg(ゼントーノ④.jpg,x=50,y=30)|
+|2023/12/31|&icon_fa(fa fa-car)|Übermacht Revolter|リボルター【略奪用】|PJWV2244||&blankimg(リボルタ.jpg,x=50,y=30)&blankimg(リボルタ②.jpg,x=50,y=30)|
+|不明|&icon_fa(fa fa-car)| Cinquemila Lampadati|ジェフプレゼント&br()→ジェフ 鷂|VPRJ9940|[[ジェフリー　ヒッチコック]]からのプレゼント|&blankimg(ジェフ.jpg,x=50,y=30)&blankimg(ジェフ②.jpg,x=50,y=30)&br()&blankimg(ジェフ③.jpg,x=50,y=30)&blankimg(ジェフ④.jpg,x=50,y=30)|
+|2024/02/14|&icon_fa(fa fa-car)|Grotti Cheetah|CHOCOLATE VAN&br()→CHOCOLATE VANタラリ|NWAK7949|[[多良里　ずぅ]]からのバレンタイン|&blankimg(チョコレート.jpg,x=50,y=30)&blankimg(チョコレート②.jpg,x=50,y=30)|
+|(2023/06/12)|&icon_fa(fa fa-car)|Bravad Youga Classic||JBAW5549|[[ヘラシギ]]より返却|&blankimg(ヨウガ.jpg,x=50,y=30)&blankimg(ヨウガ②.jpg,x=50,y=30)|
+|不明|&icon_fa(fa fa-car)|Bravad Rumpo Custom|ランポ1V素材入り|IGWR0516|||
+|不明|&icon_fa(fa fa-car)|Declasse Burrito Custom|ブリカス1Ｖ|CYHS7234|||
+|不明|&icon_fa(fa fa-car)|Declasse Burrito Custom|ブリカス2Ｖ薬|VXUN6727|||
+|不明|&icon_fa(fa fa-car)|クルマ|MOZU 装甲車ver2|82ZPA835&br()→MOZU|いわゆる装甲車。&br()街の事情により[[だんくん>だん市長補佐]]によってナンバーが変更。|&blankimg(装甲車.jpg,x=50,y=30)&blankimg(装甲車②.jpg,x=50,y=30)&br()&blankimg(装甲車③.jpg,x=50,y=30)&blankimg(装甲車④.jpg,x=50,y=30)|
+|2024/04/24|&icon_fa(fa fa-car)|Truffade Nero|ネロ|JDQW0361|||
+|2024/05/22|&icon_fa(fa fa-car)||JB700（黒限定車）&br()→一郎JB700 慈鳥|QKYD1710|[[いち郎>銭形　やいち郎]]、[[イチカ>イチカ　ウィルキンズ]]からの誕生日プレゼント。&br()この街で黒と白一台ずつの限定車。||
+|2024/05/22|&icon_fa(fa fa-car)|Zorrusso|ハッピーヴァンスデー　ゾラッソ&br()→ゾラッソ鶯|YCPA3262|[[不二子>不二子　キャスパー]]からのプレゼント|&blankimg(ゾラッソ①.jpg,x=50,y=30)&blankimg(ゾラッソ②.jpg,x=50,y=30)|
+|2024/05/22|&icon_fa(fa fa-car)|Vapid Guardian|キャンピング|VAIK9423|[[ラルさん>麻林　ラル]]からのプレゼント&br()MOZUロゴ入りキャンピングカー|&blankimg(キャンピングカー.jpg,x=50,y=30)&blankimg(キャンピングカー②.jpg,x=50,y=30)&br()&blankimg(キャンピングカー③.jpg,x=50,y=30)&blankimg(キャンピングカー④.jpg,x=50,y=30)|
+|2024/05/23|&icon_fa(fa fa-car)|Karin 190z|お誕生日おめでとうございます&br()Karin 190z&br()→お誕生日おめでとうございます&br()Karin 190zタラリ|QGXF7132|[[多良里>多良里　ずぅ]]からのプレゼント||
+|2024/06/11|&icon_fa(fa fa-car)|Truffade Thrax|トラクス|JNVK5029|[[大川さん>大　川]]から購入|&blankimg(トラクス.jpg,x=50,y=30)&blankimg(トラクス②.jpg,x=50,y=30)&br()&blankimg(トラクス③.jpg,x=50,y=30)&blankimg(トラクス④.jpg,x=50,y=30)|
+|2024/08/02|&icon_fa(fa fa-car)|Elegy RH7|GTR-34L|27FZ0659|[[ミゲス>アドミゲス・ハン]]からのプレゼント|&blankimg(みげち.jpg,x=50,y=30)&blankimg(GTR.jpg,x=50,y=30)&br()&blankimg(GTR③.jpg,x=50,y=30)&blankimg(GTR④.jpg,x=50,y=30)|
+|2024/08/03|&icon_fa(fa fa-car)|terminus|DFMおめでとう！&br()→ウェスカーDFM|SWWZ7577|[[ウェスカーさん>アルフォート　ウェスカー]]からのプレゼント||
+|2024/08/06|&icon_fa(fa fa-car)|Lost slamvan|Lost Slam VanDahmer 命田||[[命田　守]]からのプレゼント||
+|2024/08/11|&icon_fa(fa fa-car)|Annis Blazer Sport, Off-road|ヴァンダーマーのバギー|URYD6752|[[上田>上田　さん]]からのプレゼント|&blankimg(バギー.jpg,x=50,y=30)&blankimg(バギー②.jpg,x=50,y=30)|
+|2024/09/29|&icon_fa(fa fa-car)|Vapid Speedo Express||WQSQ9146||&blankimg(スピード.jpg,x=50,y=30)&blankimg(スピード②.jpg,x=50,y=30)|
+|2024？|&icon_fa(fa fa-car)|Vapid Speedo Express||AGEG9153|||
+|2024/?/?|&icon_fa(fa fa-car)|Enus Paragon|NOSUKEパラゴン 嘴広鸛|YPVP4902|[[のすけ>ティキーチック　のすけ]]からのちょっと早めのクリスマスプレゼント|&blankimg(パラゴン.jpg,x=50,y=30)&blankimg(パラゴン②.jpg,x=50,y=30)|
+|2024/12/26|&icon_fa(fa fa-car)|Drift Tampa|黒タイヤ　タンパ|WTDA8026|[[イチカ>イチカ　ウィルキンズ]]からのクリスマスプレゼント|&blankimg(タンパ③.jpg,x=50,y=30)&blankimg(タンパ④.jpg,x=50,y=30)|
+|2025/01/19|&icon_fa(fa fa-car)|Bravado Gauntlet Hellfire|ガントレットヘルファイヤ|IAGA8208|[[上田>上田　さん]]からのプレゼント||
+|不明|&icon_fa(fa fa-car)|Vapid Flash GT|フラッシュGT|OWWD6873|[[いち郎>銭形　やいち郎]]からプレゼント|&blankimg(フラッシュGT.jpg,x=50,y=30)&blankimg(フラッシュGT②.jpg,x=50,y=30)|
+|2025/03/16|&icon_fa(fa fa-car)|Grotti Turismo Classic,&br()Sports Classics|那須ツーリスモクラシック|UICA1000|[[那須>那須　裕貴]]からのプレゼント|&blankimg(ツーリスモクラシック.jpg,x=50,y=30)&blankimg(ツーリスモクラシック②.jpg,x=50,y=30)|
+|2025/04/02|&icon_fa(fa fa-car)|Enus Paragon S|パラゴンS|ZDYW3033||&blankimg(パラS.jpg,x=50,y=30)&blankimg(パラS②.jpg,x=50,y=30)&br()&blankimg(パラS③.jpg,x=50,y=30)&blankimg(パラS④.jpg,x=50,y=30)|
+|2025/05/21|&icon_fa(fa fa-car)|Truffade Z-Type|私の戦友へ|MY BRO|[[ウェスカーさん>アルフォート　ウェスカー]]からの誕生日プレゼント|&blankimg(ウェスカー.jpg,x=50,y=30)&blankimg(ウェスカー②.jpg,x=50,y=30)&br()&blankimg(ウェスカー③.jpg,x=50,y=30)&blankimg(ウェスカー④.jpg,x=50,y=30)|
+|2025/05/22|&icon_fa(fa fa-car)|Grotti X80 Proto|🐰ももみからヴァンダーマーさんへ！&br()お誕生日おめでとう🎂 &br()→ももみプロトX|SLQU0045|[[ももみちゃん>ももみ　マルフォイ]]からの誕生日プレゼント|&blankimg(X80プロト .jpg,x=50,y=30)&blankimg(X80プロト②.jpg,x=50,y=30)&br()&blankimg(X80プロト③.jpg,x=50,y=30)&blankimg(X80プロト④.jpg,x=50,y=30)|
+|2025/05/22|&icon_fa(fa fa-car)|Pegassi Tezeract |お誕生日おめでとうございます！のすけ&br()→NOSUKE テザラクト 嘴広鸛|MOZUBOSS|[[のすけ>ティキーチック　のすけ]]からの誕生日プレゼント|&blankimg(テザラクト.jpg,x=50,y=30)&blankimg(テザラクト②.jpg,x=50,y=30)&br()&blankimg(テザラクト③.jpg,x=50,y=30)&blankimg(テザラクト④.jpg,x=50,y=30)|
+|2025/05/23|&icon_fa(fa fa-car)|FMJ Bullet|FMJ Bulletヴァンさんハンタスマが&br()いつもお世話になってますカー🌸ユンミ&br()→ユンミFMJ|4226WJQU|[[ユンミさん>ユン　ユンミ]]からの誕生日プレゼント&br()ブースティング限定車両|&blankimg(ユンミ.jpg,x=50,y=30)&blankimg(ユンミ②.jpg,x=50,y=30)&br()&blankimg(ユンミ③.jpg,x=50,y=30)&blankimg(ユンミ④.jpg,x=50,y=30)|
+|2025/05/23|&icon_fa(fa fa-car)|Elegy RH7|BOSSいつもありがとうございます！&br()堕夜より。&br()→RH7 隼|QJQU3358|[[堕夜>堕夜　だよ]]からのプレゼント|&blankimg(堕夜エレジー.jpg,x=50,y=30)&blankimg(堕夜エレジー②.jpg,x=50,y=30)&br()&blankimg(堕夜エレジー③.jpg,x=50,y=30)&blankimg(堕夜エレジー④.jpg,x=50,y=30)|
+|2025/05/23|&icon_fa(fa fa-car)|Karin 190Z|ボス誕生日おめでとう！！byミカ&br()→ミカZ 鴆|AGKH4696|[[ミカ>ミカ　ピトフーイ]]からの誕生日プレゼント|&blankimg(ミカ.jpg,x=50,y=30)&blankimg(ミカ②.jpg,x=50,y=30)&br()&blankimg(ミカ③.jpg,x=50,y=30)&blankimg(ミカ④.jpg,x=50,y=30)|
+|2025/05/24|&icon_fa(fa fa-car)|Bravado Banshee|バンシー|UDHJ0956|[[大川さん>大　川]]から購入|&blankimg(バンシー.jpg,x=50,y=30)&blankimg(バンシー②.jpg,x=50,y=30)&br()&blankimg(バンシー③.jpg,x=50,y=30)&blankimg(バンシー④.jpg,x=50,y=30)|
+|2025/05/25|&icon_fa(fa fa-car)|Ocelot Swinger|なしまより&br()→なしまスウィンガー|TKCL7178|[[無馬さん>無馬　かな]]から譲渡|&blankimg(無馬.jpg,x=50,y=30)&blankimg(無馬②.jpg,x=50,y=30)&br()&blankimg(無馬③.jpg,x=50,y=30)&blankimg(無馬④.jpg,x=50,y=30)|
+|2025/06/04|&icon_fa(fa fa-car)|Annis ZR350&br() Zinxy Widebody|タマーチHBD&br()→タマーチZR350 扇鷲|7693CZJK|[[タマ>タマーチ　ニキタ]]からの誕生日プレゼント。&br()ブースティング限定車でこの街に3台しかない。|&blankimg(ワイドボディー.jpg,x=50,y=30)&blankimg(ワイドボディー②.jpg,x=50,y=30)&br()&blankimg(ワイドボディー③.jpg,x=50,y=30)&blankimg(ワイドボディー④.jpg,x=50,y=30)|
+|2025/07/04|&icon_fa(fa fa-car)|karin sigma2|シグマ|CQWE8665|恐らく[[大川さん>大　川]]から購入。|&blankimg(シグマ.jpg,x=50,y=30)&blankimg(シグマ②.jpg,x=50,y=30)&br()&blankimg(シグマ③.jpg,x=50,y=30)&blankimg(シグマ④.jpg,x=50,y=30)|
+|2025/07/10|&icon_fa(fa fa-car)|Overflöd Imorgon|イモーゴン|YFKS9825|[[大川さん>大　川]]から購入。|&blankimg(イモーゴン.jpg,x=50,y=30)&blankimg(イモーゴン②.jpg,x=50,y=30)&br()&blankimg(イモーゴン③.jpg,x=50,y=30)&blankimg(イモーゴン④.jpg,x=50,y=30)|
+|2025/07/29|&icon_fa(fa fa-car)|Aniss S80RR|ヴァンさんお世話になりました！byゴン&br()→ゴンS80RR|MMET3259|[[ゴン>稲葉　ゴン]]から譲渡。|&blankimg(ゴン.jpg,x=50,y=30)&blankimg(ゴン②.jpg,x=50,y=30)&br()&blankimg(ゴン③.jpg,x=50,y=30)&blankimg(ゴン④.jpg,x=50,y=30)|
+|2025/07/31|&icon_fa(fa fa-car)|Truffade Nero CTX|MOZUNERO CTX|MOZUNERO|市から購入した限定車。&br()元値90億の所をギャン1000日記念で割り引いてもらい&br()50億で購入。MOZU内のイベントの景品にする予定。&br()街を去った後[[大川さん>大　川]]から[[ローレン>黒桜　ローレン]]に譲渡。|&blankimg(MOZUネロ.jpg,x=50,y=30)&blankimg(MOZUネロ②.jpg,x=50,y=30)&br()&blankimg(MOZUネロ③.jpg,x=50,y=30)&blankimg(MOZUネロ④.jpg,x=50,y=30)|
+|2025/08/09|&icon_fa(fa fa-car)|Dinka Jester|LWGP Jester|40MFM371|[[有坂>有坂　誉]]から譲渡。&br()元々は[[山本さん>山本　龍也]]が所持していた車。|&blankimg(ジェスター.jpg,x=50,y=30)&blankimg(ジェスター②.jpg,x=50,y=30)&br()&blankimg(ジェスター③.jpg,x=50,y=30)&blankimg(ジェスター④.jpg,x=50,y=30)|
+|不明|&icon_fa(fa fa-bus)|Zlrconlum Joumey2|ジャーニー2|FGZE4038|||
+|不明|&icon_fa(fa fa-bus)|Zlrconlum Joumey|封鎖用ジャーニー8|GZBN0216|||
+|不明|&icon_fa(fa fa-bus)|Zlrconlum Joumey||CQNU8685|||
+|不明|&icon_fa(fa fa-bus)|Zlrconlum Joumey||TFJS0979|||
+|不明|&icon_fa(fa fa-motorcycle)|Pegassi Faggio Sport||TFZA9225|||
+|(2023/07/06)|&icon_fa(fa fa-motorcycle)|Western Reever||YBIL0736|[[三階堂　キミトス]]より返却|&blankimg(リーバー.jpg,x=50,y=30)&blankimg(リーバー②.jpg,x=50,y=30)&br()&blankimg(リーバー③.jpg,x=50,y=30)&blankimg(リーバー④.jpg,x=50,y=30)|
+|202?/12/07|&icon_fa(fa fa-motorcycle)|Dinka Vindicator||MGTA5900|||
+|不明|&icon_fa(fa fa-motorcycle)|Nagasaki Shinobi|シノビ|QPXE7906||&blankimg(しのび.jpg,x=50,y=30)&blankimg(しのび②.jpg,x=50,y=30)|
+|不明|&icon_fa(fa fa-motorcycle)|Pegassi Bati901||URCR9295|||
+|2024/03/22|&icon_fa(fa fa-motorcycle)|Shitzu Bosozoku||HTLB9995|[[堕夜　だよ]]、[[ナタル　イルコフ]]からの&br()プレゼント。元カジノの景品||
+|2025/08/09|&icon_fa(fa fa-motorcycle)|Pegassi Oppressor|ウェスカーの空飛ぶバイク|ZQAY8929|[[ウェスカーさん>アルフォート　ウェスカー]]から譲渡。|&blankimg(空飛ぶバイク.jpg,x=50,y=30)&blankimg(空飛ぶバイク②.jpg,x=50,y=30)&br()&blankimg(空飛ぶバイク③.jpg,x=50,y=30)&blankimg(空飛ぶバイク④.jpg,x=50,y=30)|
+|20⁇/⁇/⁇|&icon_fa(fa fa-bicycle)|Unknown City Cycle|Unknown City Cycle|DFNZ4434|||
+|20⁇/⁇/⁇|&icon_fa(fa fa-bicycle)|Unknown City Cycle|Unknown City Cycle|UPJQ3563||&blankimg(チャリ.jpg,x=50,y=30)&blankimg(チャリ②.jpg,x=50,y=30)|
+|2023/09/29|&icon_fa(fa fa-ship)|Speedophile Seashark||OTYM1167|7台購入しメンバーそれぞれに付与||
+|202?/10/04|&icon_fa(fa fa-ship)|Shitzu Longfin||UGOB4651||&blankimg(ロングフィン.jpg,x=50,y=30)|
+|2023/10/17|&icon_fa(fa fa-helicopter)|Buzzard|MOZUバザード|WLJA9081|[[安城　成]]から恩返しのプレゼント|&blankimg(バザード.jpg,x=50,y=30)|
+|2023/11/02|&icon_fa(fa fa-helicopter)|Ultralight|ありがとうヴァンさん|LBSV7575|[[アルフォート　ウェスカー]]からプレゼントの&br()お返しとして贈られた||
+|不明|&icon_fa(fa fa-helicopter)|Maibatsu Frogger nl|不明|MVAO9766||&blankimg(フロガー.jpg,x=50,y=30)&blankimg(フロガー②.jpg,x=50,y=30)|
+|2024/05/22|&icon_fa(fa fa-plane)|???|黒い怪物|COUW4646|[[キミトス>三階堂　キミトス]]、[[竹>TANKTOP　竹森]]、[[レイラ>レイラ　キャンベル]]、[[ボア>ボア　セニャコック]]、[[カイン>カイン　ユリウス]]、[[じょば>ぎちょう・じょばぁーな]]&br()からのプレゼント||
+|2025/05/24|&icon_fa(fa fa-plane)|VooDoo Dooballo|Happy VAN Birthday！|REMJ6277|[[加藤さん>加藤　圧]]からの誕生日プレゼント|&blankimg(気球.jpg,x=50,y=30)&blankimg(気球②.jpg,x=50,y=30)|
+
+#table_autoincrement(){label=No.}
+
+//所在不明車両
+
+
+***過去所有車
+　※情報募集中
+|~購入日(譲渡日)|~車種名|~車両名|~ナンバー|~備考|~画像|h
+|　|Vapid Dominator GTX|||[[三階堂　キミトス]]へ譲渡||
+|4/11(4/18)|BRZ'13|||[[三階堂　キミトス]]へ譲渡(誕生日プレゼント)||
+|(5/29)|Mitsubishi Lancer Evo Ⅵ T.M.E(CP9A)|||[[三階堂　キミト]]スへ譲渡||
+|(3/9)|Desert Raid|||[[レイラ　キャンベル]]へ譲渡||
+|(12/1)|shitzu Hakuchou Drag |||[[後藤　れむ]]へ譲渡(クリスマスプレゼント)||
+|(11/29)|Annis Elegy RH8|||[[篠崎　ケイ]]へ売却(抗争手打ち金の調達の為)||
+|11/23(11/28)|Bravado Youga Classic|||[[柳田　ライアン]]へ譲渡||
+|11/21 |Nagasaki Shinobi|||[[カイン　ユリウス]]へ譲渡||
+|(11/10)|BF 400|||[[カイン　ユリウス]]へ譲渡||
+|(11/19)|BF 400|||[[ヘラシギ]]へ譲渡||
+|(1/13)|Dinka Jester Sports|||[[ヘラシギ]]へ譲渡||
+|(3/18)|Grotti Brioso 300|||[[家好　にーと]]へ譲渡||
+|(6/12)|Declasse Burrito Custom|||[[多良里　ずぅ]]へ貸出||
+|(6/15)|Bravad Rumpo Custom|||[[多良里　ずぅ]]へ貸出||
+|(6/21)|Canic Kamacho|||[[リナリー　リン]]へ譲渡||
+|(7/5)|Dundreary Streatch|||[[ジェフリー　ヒッチコック]]へ譲渡||
+|(7/10)|2017 Nissan GTR|||[[堕夜　だよ]]へ返却||
+|(7/10)|Maxwell Vagrant|||[[堕夜　だよ]]へ返却||
+|7/3(7/25)|shitzu Hakuchou Drag|||[[碇　イチカ]]へ貸出||
+|(8/20)|2004 Subaru Impreza WRX STI |||実車売却||
+|(8/20)|1984 Mazda RX-7 Stanced Version|||実車売却||
+|5/29(8/20)|2013 LAMBORGHINI AVENTADOR&br()LP700-4 ROADSTER'SUPER|||実車売却||
+|5/23(8/29)|nissantitan |||実車売却||
+|9/20(10/22)|Westem Powersurge|||[[なのの　なの]]へ譲渡||
+|4/11(11/06)|WMC Nightblade|||[[稲葉　ゴン]]へ譲渡(誕生日プレゼント)||
+|10/12(11/19)|SPORTS JUGULAR|||[[科場　諸朋]]へ譲渡||
+|不明|shitzu Hakuchou|||||
+|不明|Übermacht SC1|||[[柳田　ライアン]]へ譲渡||
+|12/07(3/5)|SPORTS COMET SAFARI|||[[川　上]]へ売却||
+|不明(3/12)|Bravad Rumpo Custom|||[[鬼野　ねね]]へ譲渡||
+|08/05(3/28)|DRAUGUR|||[[銭形　やいち郎]]へ譲渡（誕生日プレゼント）||
+|2024/01/16(2024/06/20)|Principe Deveste|||[[諸朋>科場　諸朋]]に譲渡||
+|2024/03/05(2024/06/20)|Frogger|||ヘリバトルに勝利した[[諸朋>科場　諸朋]]に譲渡||
+|2024/04/24(2024/08/02)|Progen Itali GTO|||[[ミゲス>アドミゲス・ハン]]に譲渡||
+|2024/02/16(2024/10/06)|パラゴン|||[[ズズ>キングスターダイヤモンド　ズズ]]に譲渡||
+|2024/02/22（2025/06/13）|Zlrconlum Joumey|封鎖用ジャーニー1|WCIQ7439|[[不二子>不二子　キャスパー]]に譲渡。||
+|2024/02/22（2025/06/13）|Zlrconlum Joumey|封鎖用ジャーニー2|DZIO6143|[[タマ>タマーチ　ニキタ]]に譲渡。||
+|2024/02/22（2025/06/13）|Zlrconlum Joumey|封鎖用ジャーニー3|NSAB6309|[[いち郎>銭形　やいち郎]]に譲渡。||
+|2024/02/22（2025/06/13）|Zlrconlum Joumey|封鎖用ジャーニー4|PQYR3800|[[キミトス>三階堂　キミトス]]に譲渡。||
+|2024/10/12（不明）|Pegassi Tezeract||XCXH4398|[[レイラ>レイラ　キャンベル]]に譲渡。|&blankimg(テザラクト2.jpg,x=50,y=30)&blankimg(テザラクト2②.jpg,x=50,y=30)&br()&blankimg(テザラクト2③.jpg,x=50,y=30)&blankimg(テザラクト2④.jpg,x=50,y=30)|
+|不明（2024）|Niobe|ナイオビ|FREL0381|誰かに譲渡。||
+|不明（2025/06/13）|Zlrconlum Joumey|封鎖用ジャーニー5|ZGFA0558|[[のすけ>ティキーチック　のすけ]]に譲渡。||
+|不明（2025/06/13）|Zlrconlum Joumey|封鎖用ジャーニー6|NWVQ6092|[[堕夜>堕夜　だよ]]に譲渡。||
+|不明（2025/06/13）|Zlrconlum Joumey|封鎖用ジャーニー7|BTLT3675|[[ボア>ボア　セニャコック]]に譲渡。||
+|2023/12/25（2025/06/19）|Truffade Nero Custom|ネロカスタム|FLWY3988|[[ローレン>黒桜　ローレン]]に貸出→返却→[[キミトス>三階堂　キミトス]]に譲渡。|&blankimg(ネロカス.jpg,x=50,y=30)&blankimg(ネロカス②.jpg,x=50,y=30)|
+|2024/05/23（2025/7/29）|Grotti Furia|フューリア|OBZF4722|[[大川さん>大　川]]から購入&br()→[[まる>丸井　まる]]に譲渡|&blankimg(フューリア.jpg,x=50,y=30)&blankimg(フューリア②.jpg,x=50,y=30)&br()&blankimg(フューリア③.jpg,x=50,y=30)|
+|2025/⁇/⁇（2025/08/09）|Gauntlet Classic Custom|ガントレットクラシックカスタム　黒|TMLX2691|[[上田>上田　さん]]からスプレーの件の禊として預かり、&br()[[いち郎>銭形　やいち郎]]を勧誘した禊として猫とした際に&br()移動する車両が無いとのことで返却。|&blankimg(ガントレットクラシックカスタム.jpg,x=50,y=30)&blankimg(ガントレットクラシックカスタム②.jpg,x=50,y=30)|
+|2025/07/15（2025/08/14）|Dewbauchee Massacro Racecar|Dewbauchee Massacro Racecar|WKQS3134|[[忍さん>万十　忍]]から購入。レースイベント用の車。&br()[[まる>丸井　まる]]に譲渡。|&blankimg(レース用.jpg,x=50,y=30)&blankimg(レース用②.jpg,x=50,y=30)&br()&blankimg(レース③.jpg,x=50,y=30)&blankimg(レース④.jpg,x=50,y=30)|
+#endregion

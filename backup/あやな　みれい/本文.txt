@@ -1,0 +1,246 @@
+//**プロフィール
+*&font(36px,#409090){&icon_fa(fa fa-user-circle)}&font(36px,#ffffff){プ}&font(26px,#ffffff){ロフィール}
+// s2の画像に差し替えました
+#slide_img(auto=5,width=300,height=400){mirei2_00_r.png, mirei2_01.png, mirei2_02_.png}
+#co(){{
+season1
+|&image(あやな　みれい[制服２]_2.jpg,y=300)|&image(あやな　みれい[制服３].jpg,y=300)|
+}}
+
+&font(20,#3B4EF0){&bold(){｢おはようございます　あやな みれい出勤します！｣}}
+
+#table_filter(){SEASON1=hide,SEASON2=show}
+#table_color(#1A97BF)
+|COLOR(#FFFFFF):~世界線|COLOR(#FFFFFF):~SEASON1|COLOR(#FFFFFF):~SEASON2|h
+|COLOR(#FFFFFF):~名前 &icon_fa(fa fa-user)|>|あやな　みれい|
+|COLOR(#FFFFFF):~出身地 &icon_fa(fa fa-map-marker)|>|日本|
+|COLOR(#FFFFFF):~血液型 &icon_fa(fa fa-heartbeat)|>|A型|
+|COLOR(#FFFFFF):~誕生日 &icon_fa(fa fa-birthday-cake)|>|2003年03月30日 (&countup(2003/03/30,y)歳)|
+|COLOR(#FFFFFF):~転入日 &icon_fa(fa fa-plane-arrival)|2023年06月06日 (&countup(2023/06/06,yd)経過)|2026年01月25日 (&countup(2026/01/24,yd)経過)|
+|COLOR(#FFFFFF):~職業 &icon_fa(fa fa-university)|[[警察官>>ロスサントス警察]]（北署所属）&br()&space(4)階級はGrade:3のLieutenant（警部補）&br()精肉店「[[奇肉屋]]」店員|[[警察官>>ロスサントス警察]]&br()&space(4)階級はGrade:2のSergeant（巡査部長）|
+|COLOR(#FFFFFF):~TwiX &icon_fa(fa fa-crow)|@mirei|@mireimirei|
+|BGCOLOR(#FFBAD7):~プレイヤー &icon_fa(fa fa-address-card-o)|>|猫街もも|
+|BGCOLOR(#FFBAD7):~告知等 &icon_fa(fa fa-bullhorn)|>|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}}  [[&font(#000000){X&space()(旧Twitter) @nekomachimomo}>>https://twitter.com/nekomachimomo]]|
+|BGCOLOR(#FFBAD7):~配信場所 &icon_fa(fa fa-gamepad)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube (@momonekomachi)}>>https://www.youtube.com/@momonekomachi]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch (nekomachimomo)}>>https://www.twitch.tv/nekomachimomo]]|
+|BGCOLOR(#FFBAD7):~別キャラ &icon_fa(fa fa-user-plus)|>|[[豆乳　ちゃんもも]] |
+|BGCOLOR(#8EE3EE):~ガイドライン &icon_fa(fa fa-cut)|>|ストグラ参加者は好きに使ってOK&br()リスナーはクリップ機能を使用したもの&br()または（X投稿など）30秒以内のみOK&br()&small(){※基本的に前後関係なく笑える瞬間のみ}|
+
+//**基本情報
+*&font(36px,#409090){&icon_fa(fa fa-address-book-o)}&font(36px,#ffffff){基}&font(26px,#ffffff){本情報}
+・田舎で人気のメイドカフェで働いていたが、自分の店を開きたいと考えロスサントスへやってきた。
+・絵が上手く、市民からの依頼を受けてイラストなどを手掛けている。(以下依頼を受けた市民)
+・・[[桜星　ヨウコウ]]＆[[姫一　夕]](「[[なんでも屋]]」ステッカー)
+・・[[ボタリン　モンロー]](自身のイラスト)
+・・[[ラグランジュ　光芝]]([[プレゼント用>空舞月　りり]])
+・自身のコミュニケーション能力に不安を感じている。
+・不安なことがあるとすぐ相談をして確認するのはいい事だが、犯人に聞いていたり、警察の内部事情を[[ギャング]]のボス[[マクドナルド]]に相談してしまう一面もある。
+・[[ギャング]]からはスピード違反を取り締まる道路交通課だと思われている。
+・カーチェイスや銃撃戦などは苦手ながら日々こつこつと努力し頑張る姿は多くの人に愛されている。
+・ロスサントス市内の白い市民と[[ギャング]]に聞いた「付き合いたいの女性警官ランキング」第2位　(11/12 [[アドミゲス・ハン]]の収集アンケート)
+
+//**エピソード
+*&font(36px,#409090){&icon_fa(fa fa-book)} &font(36px,#ffffff){エ}&font(26px,#ffffff){ピソード}
+***2023年
+#region(開く)閉じる
+****6月
+#region(開く)閉じる
+****06/06 [[はじめまして、ロスサントス！>https://www.youtube.com/watch?v=LEy1H8Esrac]]
+#region(開く)
+-なぜか病院で目が覚めた。
+-レギオンの公園で[[フランク　コロンボ]]に会う。サンドイッチとコーヒーをもらった。
+-[[多良里　ずぅ]]に自己紹介をした。同じパーカーを着ていた。
+-[[デヤンス>>小者　デヤンス]]に自己紹介をした。ホットドッグとビールをもらった。
+-[[菓子谷　尋]]に自己紹介をした。
+-[[葉時山　バジル]]に街案内をしてもらう。
+--[[デヤンス>>小者　デヤンス]]に買い物の仕方を教えてもらう。
+--[[多山　八雲]]、[[えぐち　きの子]]、[[斉藤　まさのり]]に自己紹介をした。
+--銀行に行って暗証番号を設定した。
+--[[葉時山　バジル]]にお金とスマートフォンをもらった。
+--服屋さんを案内してもらった。
+--[[あいまいみー]]、[[七瀬　ぜろ]]に自己紹介をした。
+-[[葉時山　バジル]]は用事があるため、[[あいまいみー]]といっしょに[[七瀬　ぜろ]]が街案内をしてくれることになった。
+--猫カフェへ。[[桃兎　すずめ]]に自己紹介をした。脱水で倒れてしまい[[ももみ>>ももみ　マルフォイ]]に治療してもらった。
+--[[七瀬　ぜろ]]からスケボーとスマートウォッチをもらった。
+--犬カフェ、カジノ、警察署、パン屋、スドバを案内してもらった。
+--[[福田　明宏]]、[[メリー　クロース]]に自己紹介をした。
+-[[須藤　冬馬]]、[[深沢　えぼし]]、[[千代田　ヨウ]]、[[ジャーク　武士]]、[[天ノ　ぷら子]]に自己紹介をした。
+-[[天ノ　ぷら子]]に喉の調子を整える方法を教わった。
+-[[ももみ>>ももみ　マルフォイ]]にレンタル自転車を借りる方法とウーバーイーツバイトのやり方を教わった。
+-[[伊達咲　政宗]]、[[キラ・メキーラ]]、[[有坂　誉]]に自己紹介をした。
+-ウーバーイーツバイトをやってみる。[[有坂　誉]]がコーラの買い方を教えてくれて配達先まで車で送ってくれた。
+-[[水無月　縁]]、[[牧田　ここな]]、[[イヴ　トワイライト]]、[[葛城　司]]に自己紹介をした。
+-[[斉藤　まさのり]]の講習を受けて普通自動車免許を取得した。
+-[[加賀　イズミ]]、[[にし　のん]]に自己紹介をした。
+#endregion
+****06/07 [[怒涛の職場体験(予定)！！！>>https://www.youtube.com/watch?v=Rd5rJ8biLHc]]
+#region(開く)
+閉じる
+-スケボーがなくなっていることに気付いた。
+-[[キラ・メキーラ]]と連絡先を交換した。
+-[[多良里　ずぅ]]からスケボーをもらった。
+-[[多良里　ずぅ]]とサイクルショップへ行き、TRIBIKE3を購入した。
+-[[山本　龍也]]、[[不二子　キャスパー]]に自己紹介をした。
+-ストリップバーへ行き[[ジャムリーヌ　バルサミコス]]に自己紹介をした。
+-[[シエル　ブラン]]、[[マリン　ノワール]]に自己紹介をした。
+-[[犬神　いぬりん]]、[[ラグランジュ　光芝]]に自己紹介をした。
+-レッドラム連続殺人未遂事件の裁判を傍聴した。
+-[[桜星　ヨウコウ]]に自己紹介をした。
+-パン屋で職業体験をする。
+-[[セレナ　ソング]]に自己紹介をした。
+#endregion
+****06/09 [[早くロスサントスに馴染みたい・・・>>https://www.youtube.com/watch?v=lTZqeCJAXtg]]
+#region(開く)
+-[[葉時山　バジル]]から車を借りた。
+-[[七瀬　ぜろ]]が車がなくなり困っているというツイートを見て、鉱山まで迎えに行った。[[七瀬　ぜろ]]を乗せて街に戻ろうとしたが事故を起こしてしまい車が動かなくなってしまった。[[七瀬　ぜろ]]がなんとか車を動くようにしてくれた。
+-[[にし　のん]]の裁判を傍聴する。
+-JTSでメカニックの職業体験をした。
+#endregion
+****06/11 [[日曜日のロスサントス>>https://www.youtube.com/watch?v=XQ_J2S0DcQU]]
+#region(開く)
+-[[アルフォート　ウェスカー]]に自己紹介をした。
+-[[ローズクローバー>>イヴ　トワイライト]]に自己紹介をした。
+-[[家好　にーと]]に自己紹介をした。
+-[[斉藤　まさのり]]に教わりながら牧場バイトをした。
+-[[斉藤　まさのり]]、[[キラ・メキーラ]]と鉱山作業をする。[[斉藤　まさのり]]が[[切間　てつお]]を電話で呼び、[[切間　てつお]]と[[ボタリン　モンロー]]が鉱山まで来てくれた。
+-川で石を洗っていると[[斉藤　まさのり]]に仕事が入ってしまい、[[ラグランジュ　光芝]]が来てくれた。
+-[[碇　イチカ]]に自己紹介をした。なんか懐かしい響きがした。
+#endregion
+****06/12 [[バイトの日々。車を買うか否か>>https://www.youtube.com/watch?v=UsoZFg_Pkf0]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(6月)
+****7月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(7月)
+****8月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(8月)
+****9月
+#region(開く)閉じる
+****09/24 [[あやなみれいDAY59>>https://www.youtube.com/live/aj79dol2dQE?si=h9yReDAMSX2oQxyT]]
+#region(開く,open)
+-北署署長[[キーモット　ホームズ]]が警察業務に従事している姿が自分の働き方に合っていると思い、上官である南署署長[[赤城　煉]]に北署転属を打診。
+-転属の理由としては、元南署署員[[千代田ヨウ]]の懲戒免職から始まり、親しかった人が去る辛さに不安を覚えており、日々増えていく新人とのコミュニケーションに悩んでいたこと。自身のペースで頑張れる環境が欲しかったことが挙げられる。
+　　　&size(10){退職するのが[[キーモット　ホームズ]]ならそこまで傷つかないで済むのも理由の一つ}
+-[[キーモット　ホームズ]]より正式に北署署員として任命。
+-北署の人員不足に加え日々の地道な検挙が評価され、ランク1からランク2に昇格する。
+#endregion
+#endregion(9月)
+****10月
+#region(開く)閉じる
+****10/02 [[あやなみれいDAY64>>https://www.youtube.com/watch?v=S8QURyLEjCY]]
+#region(開く,open)
+-[[キーモット　ホームズ]]から日々の努力が評価され、ランク3に昇格する。
+-エピソード募集中
+#endregion
+
+****10/21 [[あやなみれいDAY74>>https://www.youtube.com/watch?v=DqwAPObijII]]
+#region(開く,open)
+-[[ヘラシギ]]教官のもと、大型免許・特殊免許・レース免許(2分37秒70)の３種に合格した。
+-エピソード募集中
+#endregion
+#endregion(10月)
+****11月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(11月)
+****12月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(12月)
+
+#endregion(2023年)
+***2024年
+#region(開く,close)閉じる
+****1月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(1月)
+****3月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(3月)
+****4月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(4月)
+****5月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(5月)
+****6月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(6月)
+****7月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(7月)
+****8月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(8月)
+****11月
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(11月)
+****12月
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion(12月)
+#endregion(2025年)
+***2025年
+#region(開く,open)閉じる
+****1月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(1月)
+****3月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(3月)
+****4月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(4月)
+****5月
+#region(開く)閉じる
+・エピソード募集中
+#endregion(5月)
+#endregion(2025年)
+
+//**アーカイブ
+//S1アーカイブを子ページに整理＆移動しました
+*&font(36px,#409090){&icon_fa(fa-brands fa-youtube)}&font(36px,#ffffff){ア}&font(26px,#ffffff){ーカイブ season2}
+***2026年
+#region(開く, open)閉じる
+#table_style(head=center:#9BD1E0){#=center}
+|~配信日|~DAY|~URL|~備考|h
+|01/25|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtu.be/iQZM32VWJ4s]] ||
+|02/01|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtu.be/ODgrPHgBR_I]] ||
+|03/25|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtu.be/yqVFIPZ56MI]] ||
+#endregion
+#right(){&link_up(🔝ページTOPへ)}
+
+#include(あやな　みれい/アーカイブseason1)
+
+*&font(36px,#1A97BF){&icon_fa(fa-brands fa-youtube)}&font(36px,#ffffff){切}&font(26px,#ffffff){り抜き}
+#table_style(head=center:#9BD1E0){#=center}
+|~投稿日|~タイトル|~備考|h
+|2023/10/16|[[警察官あやなみれいの日常>>https://www.youtube.com/watch?v=S3IzQUIGzNY]]||
+|2024/04/05|[[あやなみれいのエイプリルフール>>https://www.youtube.com/watch?v=wZwes9wkLM4]]||
+#table_sorter{even=#CCFFFF,odd=fff}
+
+*&font(36px,#409090){&icon_fa(fa-solid fa-user-plus)}&font(36px,#ffffff){関}&font(26px,#ffffff){連情報}
+
+&bold(){別キャラクター}
+
+#region(ネタバレ注意)閉じる
+
+▶︎ [[豆乳　ちゃんもも]]
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

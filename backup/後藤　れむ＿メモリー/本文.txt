@@ -1,0 +1,27 @@
+#div(width=350px,bgcolor=#f5f5f5){&font(16px,b,#666666){&space()SEASON2}}
+
+#region(仕事一覧)&bold(){仕事一覧}
+#table_style(head=#f5f5f5)
+|>|>|LEFT:[[&bold(){警察官}>ロスサントス警察]]|h
+|2025/12/19|Grade4 Police Inspector（警部）|上官業務のため[[市長>山下　ひろし]]からジョブを受け取る。|
+|2025/12/24|Grade6 Chief （警視正）|上官業務のため[[市長>山下　ひろし]]にランクを上げてもらった。|
+#endregion
+
+#region(衣装一覧)&bold(){衣装一覧}
+#table_color(head=#f5f5f5:#666666:center)
+|~&blankimg(初期服.jpeg,x=77,y=167)&br()|h
+#endregion
+
+#region(変装一覧)&bold(){変装一覧}
+#endregion
+
+#region(所有車両一覧)&bold(){所有車両一覧}
+
+#size(90%){#table_style(head=#f5f5f5)
+#table_filter(){名前=show,種類=hide,購入日=hide,ナンバー=hide,備考=show}
+|~名前|CENTER:~種類|~購入日|~ナンバー|~備考|h
+|&ruby(ポリス クルーザー){&s(){Police  Cluiser}}(Intercepter)|CENTER:車|25/12/24|POL00025|市から支給されたパトカー。3種類あるうちの1番目。&br()別のパトカーに乗り換えたため市に返却した。|
+|&ruby(ポリス クルーザー){Police  Cluiser}(Intercepter)|CENTER:車|26/01/18|POL00086|市から支給されたパトカー。3種類あるうちの3番目。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#table_autoincrement(){label=No.}}
+#endregion

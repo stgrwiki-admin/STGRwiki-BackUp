@@ -1,0 +1,92 @@
+&font(16px,b,u,black){Season1}
+#region(開く)
+//画像は1:2でトリミングしアップロードしています。
+※衣類髪型アプデにより崩壊中 
+***&font(25px,#999){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+#center(){
+|&blankimg(轟.png,x=150,y=300)|&blankimg(轟2.png,x=150,y=300)|&blankimg(hutuu.png,x=150,y=300)|&blankimg(冬.png,x=150,y=300)|
+|轟|轟2|hutuu|冬|
+|初期服||普段着||
+//
+|&blankimg(寝巻.png,x=150,y=300)|&blankimg(春.png,x=150,y=300)|&blankimg(夏.png,x=150,y=300)|
+|寝巻|春|夏|
+|&font(12px){音鳴さんとお揃い&br()終わってる寝巻}|||
+}
+
+#endregion(日常服)
+***&font(25px,#f9f){&icon_fa(fa fa-user-secret)} ギャング服
+#region(開く)閉じる
+#center(){
+|&blankimg(868犯罪2.png,x=150,y=300)|&blankimg(島取.png,x=150,y=300)&blankimg(島取-02.png,x=150,y=300)|&blankimg(868犯罪冬服-03.png,x=150,y=300)|
+|868犯罪2|島取|868犯罪冬服|
+|大型秋服|シマトリ服|大型冬服|
+//
+|&blankimg(868犯罪夏服-01.png,x=150,y=300)|&blankimg(868犯罪春服.png,x=150,y=300)|&blankimg(868スーツ.png,x=150,y=300)|
+|868犯罪夏服|868犯罪春服|868スーツ|
+|大型夏服&br()顔でかいからや！|大型春服|ギャングスーツ|
+}
+#endregion(ギャング服)
+***&font(25px,#999){&icon_fa(fa-solid fa-ghost)} 変装
+#region(開く)閉じる
+#center(){
+|&blankimg(変装1.png,x=150,y=300)|&blankimg(変装2.png,x=150,y=300)|&blankimg(雪.png,x=150,y=300)|&blankimg(ファーム轟-2.png,x=150,y=300)|&blankimg(金なし.png,x=150,y=300)|
+|変装1|変装2|雪|ファーム轟|金なし|
+||||衛星外ファーム用|小型犯罪用&br()金無 春夫|
+//
+|&blankimg(変装3.png,x=150,y=300)|&blankimg(変装4.png,x=150,y=300)|&blankimg(飛行機墜落.png,x=150,y=300)|&blankimg(軍事.png,x=150,y=300)|&blankimg(春服変装.png,x=150,y=300)|
+|変装3|変装4|飛行機墜落|軍事|春服変装|
+||スマイラー|&font(12){飛行機墜落協会正装}|&font(12){軍事物資強奪用}|&font(10px){音鳴考案の春の大型服没案}|
+}
+#endregion(変装)
+***&font(25px,#ffa500){&icon_fa(fa fa-hotdog)} ホットドッグ屋
+#region(開く)閉じる
+#center(){
+|&blankimg(売り子.png,x=150,y=300)|
+|売り子|
+}
+
+#endregion(ホットドッグ屋)
+***&font(25px,#999){&icon_fa(fa-solid fa-person-circle-question)} その他
+#region(開く)閉じる
+#center(){
+|&blankimg(文殊　2セイジ.png,x=150,y=300)|&blankimg(高い.png,x=150,y=300)|&blankimg(春２.png,x=150,y=300)|
+|文殊　偽イジ|高い|春2|
+|&font(12px){文殊セイジのコスプレ}|&font(12px){鯵屋に着せられた}|&font(12px){春の大型服作成の途中}|
+}
+#endregion(その他)
+***&font(25px,#999){&icon_fa(fa fa-trash-can)} 削除済
+#region(開く)閉じる
+#center(){
+|&blankimg(犯罪.png,x=150,y=300)|&blankimg(ファーム轟-1.png,x=150,y=300)|&blankimg(868犯罪冬服.png,x=150,y=300)|&blankimg(868犯罪冬服-02.png,x=150,y=300)|&blankimg(うさぎ.png,x=150,y=300)|
+|犯罪|ファーム轟|868犯罪冬服|868犯罪冬服|名称不明|
+|&font(12px){868の傭兵用}|&font(12px){変更した}|&font(12px){アプデ崩壊により変更した}|&font(12px){仮面変更}|&font(12px){5/11衛星外で目撃&br()その後ﾜｰﾄﾞﾛｰﾌﾞにない&br()変装３が変更の可能性あり}|
+}
+#endregion(その他)
+#endregion(S1)
+
+//===================================Season2===========================================
+//
+&font(16px,b,u,black){Season2}
+***&font(25px,#999){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+#center(){
+|&blankimg(S2_デフォルトコーデ.png,x=150,y=300)|&blankimg(S2_ジャージ.png,x=150,y=300)|
+|デフォルトコーデ|ジャージ|
+}
+#endregion(日常服)
+***&font(25px,#999){&icon_fa(fa-solid fa-ghost)} 変装
+#region(開く)閉じる
+#center(){
+|&blankimg(S2_変装_02.png,x=150,y=300)|&blankimg(S2_サイエンス.png,x=150,y=300)|
+|変装|サイエンス|
+}
+#endregion(変装)
+***&font(25px,#999){&icon_fa(fa fa-trash-can)} 削除済
+#region(開く)閉じる
+#center(){
+|&blankimg(S2_初日服.png,x=150,y=300)|&blankimg(S2_変装.png,x=150,y=300)|
+|未保存|変装|
+
+}
+#endregion(その他)

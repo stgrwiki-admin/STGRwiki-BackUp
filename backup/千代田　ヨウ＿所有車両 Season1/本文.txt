@@ -1,0 +1,720 @@
+//――――――画像の貼り付けについて―――――――――
+//★オリジナルの画像サイズは640ｘ400で統一しています
+//★車両一覧に表示するときは300ｘ188サイズにして、画像をクリックすると新しいタブにオリジナルの画像が表示されます
+//★画像を貼り付けるときは、下記のコードをコピペしてください
+//★画像貼り付けのコード
+//&blankimg(画像ファイル名,x=300,y=188)
+//　↑　　　　　　　　　　　　↑
+//　｜　　　　　　　　　　300ｘ188のサイズでこのページに表示する
+//新しいタブを開き、そこにオリジナルサイズの画像を表示する
+//
+//●画像は追加していく予定です（2/16）
+//
+//■■■■■■■■　自動車　■■■■■■■■
+&aname(自動車,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&font(16,#ffffef){&space()&space()&icon_fa(fa fa-car-side)&space()&space()&bold(){自動車}}}
+//▼▼▼　SuperCar　▼▼▼
+&aname(SuperCar,option=nolink){}
+***&color(#ff9933){&bold(){&size(20){●} SuperCar}}
+#region(開く)
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(クリーガー){&font(18,b){Krieger}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){【つっきーカスタム】クリーガー}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ベネファクター){Benefactor}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Krieger.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):RPMU4142|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/08/25|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ゼントーノ){&font(18,b){Zentorno}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){【BIGカスタム】ゼントーノ}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ペガッシ){Peggassi}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Zentorno.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):CIKG6323|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/09/30|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[Marie Motors]]で[[天王寺 京司郎>天王寺　京司郎]]さんより購入&br()●[[BIG SUZUKI>BIG　SUZUKI]]さんにカラーリングを依頼&br()&br()&font(11){※千代田のスマホで撮影した画像です}|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(S80RR){&font(18,b){S80RR}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Annis S80RR}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(アニス){Annis}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(S80RR.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):XXRZ2097|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/11/27|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[Marie Motors]]で購入※社割&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(チャンピオン){&font(18,b){Champion}}} &color(#ffffff,red){&space()&icon_fa(fa fa-close)&space()&bold(){払戻&space()}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Dewbauchee Champion}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(デュボシー){Dewbauchee}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Champion.png,x=300,y=188)|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):QYCL4132|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/01/05|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[Marie Motors]]で購入※社割&br()●防弾車使用禁止により市へ払戻（'24/5/23）&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(デヴェステ・エイト){&font(18,b){Deveste Eight}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Principe Deveste}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(プリンシペ){Principe}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Deveste Eight.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):FAFH7687|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/02/02|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[Marie Motors]]で購入※社割&br()●現在、車体の色はシマ取り仕様のシルバー&br()&br()|
+|||RIGHT:&link_anchor(SuperCar){SuperCar TOP} &icon_fa(fa fa-circle-up)|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ヴィジョーネ){&font(18,b){Visione}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){ヴィジョーネ}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(グロッティ){Grotti}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Visione.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):TPEM5508|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/02/09|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[ジェイク>ジェイク　レディントン]]さんより中古（2億）で購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(トラクス){&font(18,b){Thrax}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Truffade Thrax}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(トリュファード){Truffade}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Thrax_d.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):DCDP3466|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/02/20|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[EDEN]]の[[にしのん>にし　のん]]さんより購入&br()●[[MonD>Mon　D]]から資金援助してもらい購入&br()●現在、車体の色はシマ取り仕様のシルバー&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(イタリ GTB カスタム){&font(18,b){Itali GTB Custom}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){BOSS Itali GTB}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(プロジェン){Progen}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Itali GTB Custom.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):KATV2013|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2024/04/12|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[MonD>Mon　D]]からの誕生日プレゼント&br()&br()&br()&font(11){※千代田のスマホで撮影した画像です}|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(タイラント){&font(18,b){Tyrant}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Overflod Tyrant}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(オーバーフロッド){Overflod}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Tyrant_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):JCJF7078|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/05/31|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[EDEN]]の[[ドリー>ミン　ドリー]]さんより購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(クリーガー){&font(18,b){Krieger}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){CPUクリーガー}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ベネファクター){Benefactor}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Krieger-CPU.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):MSEJ6866|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){預り日}|BGCOLOR(#f5f5f5):2024/09/15|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●データ修復の為、眠りにつく[[CPU]]から預かる&br()&br()&br()|
+|||RIGHT:&link_anchor(SuperCar){SuperCar TOP} &icon_fa(fa fa-circle-up)|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ネロ・カスタム){&font(18,b){Nero Custom}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Truffade Nero Custom}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(トリュファード){Truffade}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Nero Custom_b.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):DKMM7826|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/12/20|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[にしのんキングダム]]の[[上田 さん>上田　さん]]より購入&br()●[[ボス>Mon　D]]に出資してもらい購入&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(イグナス){&font(18,b){Ignus}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Pegassi Ignus}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ペガッシ){Pegassi}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Ignus.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):MJYC2596|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2025/05/02|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[大川自動車販売(有)]]で[[まいにい>まい　にい]]より購入&br()&br()&br()&font(11){※左が千代田のイグナス}|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(エメラス){&font(18,b){Emerus}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SuperCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){ALLIN｜Estark Z Darkness from政宗}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(プロジェン){Progen}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Emerus.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):INYN7433|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2025/08/27|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[政宗>伊達咲　政宗]]さんから譲り受けた車&br()&font(12){※街を去る[[エスターク>エスターク・Z・ダークネス]]が政宗さんに送った車だが、千代田は&nbsp(br,4)貸してたヘリが戻って来ただけと知り譲ってくれた。}&br()●確かエスタークが[[MonD>Mon　D]]から中古で購入した車&br()|
+|||RIGHT:&link_anchor(SuperCar){SuperCar TOP} &icon_fa(fa fa-circle-up)|
+//
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion(〆SuperCar)
+//
+//▼▼▼　SportsCar　▼▼▼
+&aname(SportsCar,option=nolink){}
+***&color(#ff9933){&bold(){&size(20){●} SportsCar}}
+#region(開く)
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(センチネルクラッシック){&font(18,b){Sentinel Classic}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Übermacht Sentinel Classic}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ウーバーマフト){Übermacht}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Sentinel Classic.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):FDFF4173|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[まりー>まりー　あんとあー]]さんより警察合格祝いに貰ったレースカー&br()●カスタムも[[まりー>まりー　あんとあー]]さん&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(オムニス){&font(18,b){Omnis}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Wow Omnis}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(オベイ){Obey}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Omnis.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):AGXA3905|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ラピッドGT){&font(18,b){Rapid GT}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Dewbauchee Rapid GT}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(デュボーシー){Dewbauchee}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Rapid GT.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):JVLB3273|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ラプター){&font(18,b){Raptor}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar/Three-wheeler|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){BF Raptor}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ブーガーファーツァイク){Bürgerfahrzeug}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Raptor.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):KWTM7173|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(コメット S2){&font(18,b){Comet S2}}} &color(#ffffff,red){&space()&icon_fa(fa fa-close)&space()&bold(){返納&space()}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar/PoliceCar|
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Comet S2}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(フィスター ポリス エマージェンシー){Pfister (Police Emergency)}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Comet_Police.png,x=300,y=188)|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):66KYJ919|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){支給日}|BGCOLOR(#f5f5f5):2023/07/26|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●警察懲戒免職に伴い返納（'23/9/5）&br()&br()&br()&br()|
+|||RIGHT:&link_anchor(SportsCar){SportsCar TOP} &icon_fa(fa fa-circle-up)|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(オムニス e-GT){&font(18,b){Omnis e-GT}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){【上田カスタム】Omnis-eGTdss}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(オベイ){Obey}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Omnis e-GT.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):HBCP5064|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/11/17|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●電気自動車&br()●[[Marie Motors]]で購入※社割&br()●[[上田さん>上田　さん]]にカラーリングを依頼&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ベクター){&font(18,b){Vectre}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Emperor Vectre}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(エンペラー){Emperor}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Vectre.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):PNAZ5702|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/11/27|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[まりー>まりー　あんとあー]]さんから買取（ずっと借りていた）&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(コケットD10){&font(18,b){Coquette D10}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){コケD}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(インヴェテーロ){Invetero}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Coquette D10.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):VWLV0963|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/09/08|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[Marie Motors]]で購入&br()●[[なしま>無馬　かな]]さんに出資してもらい購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ゴーゴーモンキーブリスタ){&font(18,b){Bllsta Go Go Monkey}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Dinka Bllsta Go Go Monkey}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ディンカ){Dinka}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Gogomonkey.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):XFET5601|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/10/11|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[斎藤モータース]]で[[大川>大　川]]さんより購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(コメットサファリ){&font(18,b){Comet Safari}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){コメット☆サファリ！}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(フィスター){Pfister}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Comet Safari.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):LOAB5545|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/12/08|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[Marie Motors]]で購入※社割&br()&br()&br()|
+|||RIGHT:&link_anchor(SportsCar){SportsCar TOP} &icon_fa(fa fa-circle-up)|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(リボルター){&font(18,b){Revolter}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Übermacht Revolter}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ウーバマフト){Übermacht}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Revolter.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):RTJH6534|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/01/06|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[Marie Motors]]で購入※社割&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(パライア){&font(18,b){Pariah}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){なりえるプレゼントパライア}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(オセロット){Ocelot}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Pariah.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):EBOC2463|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2024/04/04|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[ナリエル>マイゴ・ニ＝ナリエル]]からの誕生日プレゼント&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(スペクターカスタム){&font(18,b){Specter Custom}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){ごうさんからプレ spec cus}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(デュボーシー){Dewbauchee}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Specter Custom_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):QMHG1119|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2024/04/04|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[ごう>月ノ島　ごう]]さんからの誕生日プレゼント&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(パラゴン){&font(18,b){Paragon}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Enus Paragon}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(エナス){Enus}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Paragon_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):QTPR4305|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2025/03/05|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[EDEN]]の[[ドリー>ミン　ドリー]]さんより購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(フラッシュ GT){&font(18,b){Flash GT}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Vapid Flash GT}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ヴァピッド){Vapid}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(FlashGT_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):HKPE8785|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2025/04/05|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[大川自動車販売(有)]]の[[ねずみさん>えぐち　きの子]]より購入&br()&br()&br()|
+|||RIGHT:&link_anchor(SportsCar){SportsCar TOP} &icon_fa(fa fa-circle-up)|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(エッグカー){&font(18,b){Egg Car}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Arcida Egg Car}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(EggCar.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):EGG25029|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){引換日}|BGCOLOR(#f5f5f5):2025/05/02|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●  ℳ𝒶𝑔𝒾𝒸! ℰ𝒶𝓈𝓉ℯ𝓇 ℰ𝓋ℯ𝓃𝓉で当てた車&br()&br()&br()|
+//
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion(〆SportsCar)
+//
+//▼▼▼　MuscleCar　▼▼▼
+***&color(#ff9933){&bold(){&size(20){●} MuscleCar}}
+#region(開く)
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ガントレット・クラッシック){&font(18,b){Gauntlet Classic}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):MuscleCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Bravado Gauntlet Classic Custom}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ブラヴァド){Bravado}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Gauntlet Classic_c.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):RUSN6037|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/10/12|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[深沢モータース]]で[[冬馬>須藤　冬馬]]くんより購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(クリーク){&font(18,b){Clique}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):MuscleCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){クリスマスを救済せし一筋の光}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ヴァンピッド){Vapid}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Clique.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):NMCS7589|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/12/23|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[深沢モータース]]で[[狐野 承志>狐野　承志]]さんより購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ブリガム){&font(18,b){Brigham}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):MuscleCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Albany Brigham}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(アルバニー){Albany}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Brigham.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):EZSQ8928|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/07/12|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[プラネットモータース]]の[[パキち>パキ　ち]]さんより購入&br()&br()&br()|
+//
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion(〆MuscleCar)
+//
+//▼▼▼　SUV　▼▼▼
+***&color(#ff9933){&bold(){&size(20){●} SUV}}
+#region(開く)
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(グレンジャー){&font(18,b){Granger}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SUV|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){8人送迎者}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(デクラス){Declasse}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Granger_b.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):8人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):HMUG1130|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/10/11|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[斎藤モータース]]で[[大川>大　川]]さんより購入&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ジュビリー){&font(18,b){Jubilee}}} &color(#ffffff,red){&space()&icon_fa(fa fa-close)&space()&bold(){払戻&space()}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SUV|
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Enus Jubilee}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(エナス){Enus}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Jubilee.png,x=300,y=188)|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):VOMJ8173|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/03/21|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[深沢モータース]]で[[須藤 冬馬>須藤　冬馬]]さんより購入&br()●防弾車使用禁止により市へ払戻（'24/5/23）&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(スカウト XL){&font(18,b){Scout XL}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):SUV|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Scout XL}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Scout XL.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):RBT00084|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2025/09/04|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[ReBoot]]の抽選会で当たり1.5億で購入&br()&br()&br()|
+//
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion(〆SUV)
+//
+//▼▼▼　Sedan　▼▼▼
+***&color(#ff9933){&bold(){&size(20){●} Sedan}}
+#region(開く)
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ストレッチ){&font(18,b){Stretch}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Sedans|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){黒塗り闇金カー}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ダンドレアリー){Dundreary}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Stretch_b.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):6人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):QBDX8736|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2025/04/05|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[ヘルアン]]からの誕生日プレゼント&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(スーパーダイアモンド){&font(18,b){Super Diamond}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Sedans|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){取り立て用自家用車}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(エナス){Enus}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Super Diamond_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):WPMJ0814|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2025/04/13|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[トナカイ>タシロ　カワセ]]からの誕生日プレゼント&br()&br()&br()|
+//
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion(〆Sedan)
+//
+//▼▼▼　CompactCar　▼▼▼
+&aname(CompactCar,option=nolink){}
+***&color(#ff9933){&bold(){&size(20){●} CompactCar}}
+#region(開く)
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ウィーヴィル){&font(18,b){Weevil}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):CompactCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){&s(){BANANA} CPUごはん}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ブーガーファーツァイク（BF）){Bürgerfahrzeug（BF）}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Weevil.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):ILLV2840|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2024/04/04|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[CPU]]からの誕生日プレゼント&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(カステラ){&font(18,b){Castella}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):CompactCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){天草誕プレカステラ}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Castella.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):EVAC1318|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2024/04/12|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[天草>天草　蒼]]からの誕生日プレゼント&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(クラブ){&font(18,b){Club}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):CompactCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){チヨ クラブ}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ブーガーファーツァイク){Bürgerfahrzeug}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Club.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):OPSB9179|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2024/06/12|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●ロスサントスを去る[[アボ>神保　アボ]]から送られた車&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ピーナッツ){&font(18,b){Peanut}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Compact|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Weeny Peanut}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ウィーニー){Weeny}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Peanut.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):HUCX5032|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2025/03/23|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●街を去る[[MonD>Mon　D]]からの餞別&br()●[[ナリエル>マイゴ・ニ＝ナリエル]]と[[椎花>椎花　まほ]]が[[MonD>Mon　D]]にプレゼントした車&br()&br()|
+|||RIGHT:&link_anchor(CompactCar){CompactCar TOP} &icon_fa(fa fa-circle-up)|
+//
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion(〆CompactCar)
+//
+//▼▼▼　Van　▼▼▼
+&aname(Van,option=nolink){}
+***&color(#ff9933){&bold(){&size(20){●} Van}}
+#region(開く)
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ランポ・カスタム){&font(18,b){Rumpo Custom}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Van|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){江戸川ランポ}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ブラヴァド){Bravado}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Rumpo Custom.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):UHGT1641|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ジャーニー){&font(18,b){Journey}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Van|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){武器庫ジャーニー}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ジルコニウム){Zirconium}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Journey.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):KWAQ6072|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/09/20|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[深沢モータース]]で[[小豆 最中>小豆　最中]]さんより購入&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(スピード・カスタム){&font(18,b){Speedo Custom}}} &color(#ffffff,red){&space()&icon_fa(fa fa-close)&space()&bold(){}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Van|
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ヴァピッド){Vapid}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Speed Custom.png,x=300,y=188)|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):NUXM8381|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/10/03|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[深沢モータース]]で[[えぼし>深沢　えぼし]]さんより購入&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ヨウガ){&font(18,b){Youga}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Van|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){&s(){物資庫よーが}　ヤク薬局よーが}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ブラヴァド){Bravado}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Youda.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):AESR4731|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(スピード エクスプレス){&font(18,b){Speedo Express}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Van|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Vapid Speedo Express}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ヴァンピッド){Vapid}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Speedo Express_b.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):CIMZ5012|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/06/09|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[プラネットモータース]]の[[もなぴ>小豆　最中]]さんより購入&br()&br()&br()|
+|||RIGHT:&link_anchor(Van){Van TOP} &icon_fa(fa fa-circle-up)|
+//
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion(〆Van)
+//
+//▼▼▼　Others　▼▼▼
+&aname(Others,option=nolink){}
+***&color(#ff9933){&bold(){&size(20){●} Others}}
+#region(開く)
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ドラウグル){&font(18,b){Draugur}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Offload|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){ドラウグル}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(デクラス){Declasse}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Draugur.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):TAEI3858|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/09/07|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[深沢モータース]]で[[えぼし>深沢　えぼし]]さんより購入&br()●カスタム代を[[MonD>Mon　D]]が払ってくれた&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(スノーモービル){&font(18,b){Snowmobile}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):---|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Nagasaki Snowmobile}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ナガサキ){Nagasaki}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Snowmobile.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):EELV6772|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/12/25|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[深沢モータース]]で購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ガーディアン){&font(18,b){Guardian}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Industrial|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Vapid Guardian}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ヴァピッド){Vapid}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Guardian_b.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):6人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):WRZF3982|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/04/23|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[プラネットモータース]]の[[パキち>パキ　ち]]さんより購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(トレロ){&font(18,b){Torero}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):ClassicSportsCar|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){エス torero classic}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ペガッシ){Pegassi}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Torero.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):XGHS5546|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2025/04/11|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[エスターク>エスターク・Z・ダークネス]]からの誕生日プレゼント&br()&br()&br()|
+|||RIGHT:&link_anchor(Others){Others TOP} &icon_fa(fa fa-circle-up)|
+//
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion(〆Others)
+
+//■■■■■■■■　二輪車　■■■■■■■■
+&aname(二輪車,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&font(16,#ffffef){&space()&space()&icon_fa(fa fa-motorcycle)&space()&space()&bold(){二輪車}}}
+//▼▼▼　Motorcycle　▼▼▼
+&aname(Motorcycle,option=nolink){}
+***&color(#ff9933){&bold(){&size(20){●} Motorcycle}}
+#region(開く)
+閉じる
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(ハクチョウ){&font(18,b){Hakucho}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Shitzu Hakucho}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(シッツ){Shitzu}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Hakucho.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):EEKW3169|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/06/03|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(ファギオスポーツ){&font(18,b){Faggio Sports}}} &color(#ffffff,red){&space()&icon_fa(fa fa-close)&space()&bold(){譲渡&space()}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Pegassi Faggio Sports}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ペガッシ){Pegassi}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Faggio Sports.png,x=300,y=188)|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):YBGC1930|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/06/03|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[エスターク>エスターク・Z・ダークネス]]に譲渡（'24/3/11）&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(モトコンポ){&font(18,b){Motocompo}}} &color(#ffffff,red){&space()&icon_fa(fa fa-close)&space()&bold(){売却&space()}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#b9b9b9):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){ホンダ モトコンポ}}|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ホンダ){HONDA}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Motocompo.png,x=300,y=188)|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):???|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/08/??|
+|~|CENTER:BGCOLOR(#b9b9b9):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●実車が消えるため売却（'23/8/31）&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(パワーサージ){&font(18,b){Powersurge}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){電動バイクPowersurge}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ウェスタン・モーター・サイクル・カンパニー){Western Motorcycle Company}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Powersurge.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):XGKG3505|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/09/20|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●電動バイク&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(マンチェススカウト){&font(18,b){Manchez Scout}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Maibatsu Manchez Scout}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(マイバツ カンパニー){Maibatsu Corporation}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Manchez Scout.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):UMRV1566|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/12/19|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[菖光モータース]]で購入&br()&br()&br()&br()|
+|||RIGHT:&link_anchor(Motorcycle){Motorcycle TOP} &icon_fa(fa fa-circle-up)|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(バティ 901){&font(18,b){Bati 901}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Pegassi Bati 901}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ペガッシ){Pegassi}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Bati901_b.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):CQCI2181|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/03/22|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[菖光モータース]]で[[星唄 サウ汰>星唄　サウ汰]]さんより購入&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(モトコンポ){&font(18,b){Motocompo}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){&s(){Truffade Thrax} &size(12){えいむからプレゼントモトコンポ}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Motocompo_aim.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):BEMB9562|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2024/04/04|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[えいむ>五十嵐　えいむ]]くんからの誕生日プレゼント&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(ショータロー ccc){&font(18,b){Shotaro ccc}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){まるんからのプレゼント}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ナガサキ){Nagasaki}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Shotaro ccc_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):NWWW5684|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2024/04/04|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[まるん>花沢　まるん]]からの誕生日プレゼント&br()●AKIRAの金田正太郎をモチーフにしたバイク&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(モトコンポ){&font(18,b){Motocompo}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){もとこんｐ　さぶろー号}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Motocompo_326.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):OLMH4323|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2024/11/09|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[さぶろー>安保　さぶ郎]]からの誕生日プレゼント&br()（エスタークと色違いで貰った）&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(シノビ アウトロウ){&font(18,b){Shinobi Outlaw}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Nagasaki Shinobi Outlaw}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ナガサキ){Nagasaki}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Shinobi Outlaw_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):RCFN8132|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/12/20|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[ReBoot]]の格安セール価格100万円で購入&br()&br()&br()&br()|
+|||RIGHT:&link_anchor(Motorcycle){Motorcycle TOP} &icon_fa(fa fa-circle-up)|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(E-バイク){&font(18,b){E-Bike}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Coil E-Bike}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(コイル){COIL}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Coil E-Bike_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):YSEU5443|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2025/02/21|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[菖光モータース]]で購入&br()●バレンタイン仕様のリバリーがある&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(ライトニング サンクタス){&font(18,b){Lightning Sanctus}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){えいむプレゼントスカルバイク}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(エルシーシー){LCC}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Lighting Sanctus_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):LGZZ1150|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2025/04/02|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[えいむ>五十嵐　えいむ]]からの誕生日プレゼント&br()（えいむと色違いで貰った）&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(ファギオMOD){&font(18,b){Faggio Mod}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){✨千代観音✨}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ペガッシ){Pegassi}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(FaggioMOD_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):XCHR0081|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2025/04/02|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[みつー>三島　みつー]]からの誕生日プレゼント&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(ぞくしゃ){&font(18,b){族車}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){( ᐛ )ﾊﾞﾅﾅ}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Zokusha_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):ZKHI8087|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2025/04/02|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[みつー>三島　みつー]]からの誕生日プレゼント&br()&br()&br()|
+|||RIGHT:&link_anchor(Motorcycle){Motorcycle TOP} &icon_fa(fa fa-circle-up)|
+//
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion
+//
+//▼▼▼　Bicycle　▼▼▼
+&aname(Bicycle,option=nolink){}
+***&color(#ff9933){&bold(){&size(20){●} Bicycle}}
+#region(開く)
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-bicycle)&space()&ruby(){&font(18,b){Tri-Cycles Race Bike}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Bicycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Bike Tri-Cycles Race Bike}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):TROM1075|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-bicycle)&space()&ruby(){&font(18,b){BMX}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Bicycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Bike BMX}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(BMX.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):NAFP5477|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/10/05|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●【8211】東の角のテナントで購入&br()&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-bicycle)&space()&ruby(){&font(18,b){一輪車}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Bicycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){UnKnown Unicycle}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Unicycle_a.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):AZIL4518|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/06/29|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●【8211】東の角のテナントで購入&br()&br()&br()|
+|||RIGHT:&link_anchor(Bicycle){Bicycle TOP} &icon_fa(fa fa-circle-up)|
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion
+
+//■■■■■■■■　航空機　■■■■■■■■
+&aname(航空機,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&font(16,#ffffef){&space()&space()&icon_fa(fa fa-helicopter)&space()&space()&bold(){航空機}}}
+
+#region(開く)
+閉じる
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-helicopter)&space()&ruby(ハボック){&font(18,b){Havok}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Helicopter|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){ミニヘリ}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ナガサキ){Nagasaki}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Havok.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):EOZR9771|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/10/03|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[鳥野エアー]]で購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-helicopter)&space()&ruby(スパロー){&font(18,b){Sparrow}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Helicopter|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){最速すぱろー}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Sparrow.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):QNQC4593|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/10/15|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[鳥野エアー]]で購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-helicopter)&space()&ruby(スーパーヴォリト){&font(18,b){SuperVolito}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Helicopter|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){2.ヴォリトー【白千流】}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(SuperVolito.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):IHQN8839|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/10/18|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[鳥野エアー]]で購入([[白井>白井　満太]]さんと折半)&br()●現在、機体の色はメタリックシルバー&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-plane)&space()&ruby(ウルトラライト){&font(18,b){Ultralight}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):AirPlane|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Nagasaki Ultralight}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ナガサキ){Nagasaki}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Ultralight.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):ASQZ0176|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/11/04|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[鳥野エアー]]で購入&br()●歪みで2機購入してしまう(1台は[[猫マンゴー>猫　マンゴー]]に売却)&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-plane)&space()&ruby(ウルトラライト){&font(18,b){Ultralight}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):AirPlane|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){&s(){SuperVolito} えいむからのプレ}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ナガサキ){Nagasaki}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Ultralight_aim.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):IIBD7476|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2024/04/04|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[えいむ>五十嵐　えいむ]]くんからの誕生日プレゼント&br()&br()&br()|
+|||RIGHT:&link_anchor(航空機){航空機TOP} &icon_fa(fa fa-circle-up)|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-helicopter)&space()&ruby(フロガー){&font(18,b){Frogger}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Helicopter|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){チヨバナナ号}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(マイバツ カンパニー){Maibatsu Corporation}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Frogger.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):BAWE5532|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2024/04/04|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[エスターク>エスターク・Z・ダークネス]],[[ヘルアン]],[[椎花>椎花　まほ]]からの誕生日プレゼント&br()●現在、機体の色はシマ取り仕様のシルバー&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-helicopter)&space()&ruby(ヴォラタス){&font(18,b){Volatus}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Helicopter|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Buckingham Volatus}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(バッキンガム){Buckingham}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Volatus.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):MUUF2224|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/05/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[豆おじさんのエアークラフト]]で購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-helicopter)&space()&ruby(スーパーヴォリト){&font(18,b){SuperVolito}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Helicopter|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){少しの間任せたぜ【白井】}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):CXPX3597|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ﾚﾝﾀﾙ日}|BGCOLOR(#f5f5f5):202?/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[白井>白井　満太]]さんから預かっている&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-helicopter)&space()&ruby(シースパロー){&font(18,b){Sea Sparrow}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Helicopter|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Unkown Sea Sparrow}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(SeaSparrow.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):VXOS6592|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){受取日}|BGCOLOR(#f5f5f5):2025/03/23|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●街を去る[[MonD>Mon　D]]からの餞別&br()●以前MonDにプレゼントしたヘリ&br()●カラーリングは[[白井>白井　満太]]さん&br()●現在、機体の色はシマ取り仕様のシルバー&br()|
+|||RIGHT:&link_anchor(航空機){航空機TOP} &icon_fa(fa fa-circle-up)|
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion
+
+//■■■■■■■■　船舶　■■■■■■■■
+&aname(船舶,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&font(16,#ffffef){&space()&space()&icon_fa(fa fa-ship)&space()&space()&bold(){船舶}}}
+
+#region(開く)
+閉じる
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-ship)&space()&ruby(シーシャーク){&font(18,b){Seashark}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Boat|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Speedophile Seashark}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(スピードファイル){Speedophile}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Seashark.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):CZZB4654|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):※行方不明中&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-ship)&space()&ruby(ロングフィン){&font(18,b){Longfin}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Boat|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Shitzu Longfin}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(シッツ){Shitzu}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Longfin.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):VPZD5615|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2023/11/21|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●[[ボートライフサンフォレスト]]で購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-ship)&space()&ruby(---){&font(18,b){Swandoo}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Boat|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){VooDoo}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Swandoo.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):1人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){引換日}|BGCOLOR(#f5f5f5):2025/08/27|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●市政3周年記念の引換券で交換したボート&br()&br()&br()|
+|||RIGHT:&link_anchor(船舶){船舶TOP} &icon_fa(fa fa-circle-up)|
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion
+//
+#co(){――――――所有車両についてのコメント―――――――――
+★自動車のテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):---|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+★バイクのテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+★自転車のテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-bicycle)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Bicycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+★ヘリコプターのテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-helicopter)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Helicopter|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+★飛行機のテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-plane)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):AirPlane|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+★船舶のテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-ship)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Boat|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2024/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+●車両が多くなっていたので、自動車とバイクをカテゴリー別にしました。見にくい場合は戻しますので、おっしゃってください。('25/09/07 t)
+
+コメント最終行。この中括弧は消さないでください。➡}

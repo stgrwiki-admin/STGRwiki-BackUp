@@ -1,0 +1,575 @@
+**&size(25){&color(#ffcfa7){&size(35){&color(#f7a88b){&icon_fa(fa fa-user-circle)}} プロフィール}}
+//|&image(初日.jpg,x=300)|
+#slide_img(auto=5,position=left,width=300,height=421){
+241112_怠惰.png,
+20250105_怠惰.png,
+初日.jpg,
+}
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#FFFFF0:#808080){名前=#eee:b:center}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|
+|~名前|~&icon_fa(fa fa-user fa-fw)|>|&ruby(ねごと){寝言}　&ruby(たいだ){怠惰}|
+|~出身地|~&icon_fa(fa fa-solid fa-earth-asia)|>|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|2004年1月5日 (&countup(2004/01/05,y)歳)|
+|~転入日|~&icon_fa(fa fa-passport)|2024年09月03日 (&countup(2024/09/03,yd)経過)|　|
+|~職業|~&icon_fa(fa-solid fa-university)|&icon_fa(fa fa-coffee)【[[Père Noël]]】店員 &small(){2024/09/25-}&br() &icon_fa(fa-solid fa-taxi)&space()タクシー会社【[[菖光會]]】社員 &small(){2024/10/04-}&br()&icon_fa(fa-solid fa-gem)【[[カジノ]]】従業員 &small(){2024/12/10-}|&icon_fa(fa fa-hammer)&space()【[[森のぶんぶんメカニック]]】内定 &small(){yyyy/mm/dd-}&br()&icon_fa(fa fa-wine-bottle)&space()飲食店【[[Club Passiona>>Club Passiona]]】店員 &small(){2026/02/25-}|
+|~所属|~&icon_fa(fa fa-users)||[[Pガールズ]] &small(){2026/04/19-}|
+|~TwiX|~&icon_fa(fa fa-dove)|寝言　怠惰 (@taida)|　|
+|~レーサー名|~&icon_fa(fa fa-flag-checkered)|taida|　|
+|BGCOLOR(#F0566E):COLOR(#FFFFFF):プレイヤー|BGCOLOR(#F0566E):COLOR(#FFFFFF):&icon_fa(fa-solid fa-headset)|>|COLOR(#000000):&bold(){怠惰 (Buber)}|
+|BGCOLOR(#F0566E):COLOR(#FFFFFF):告知等|BGCOLOR(#F0566E):COLOR(#FFFFFF):&icon_fa(fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){🦥怠惰🦥たいだだよー！ (@taida_wao)}>>https://x.com/taida_wao]]|
+|BGCOLOR(#F0566E):COLOR(#FFFFFF):配信場所|BGCOLOR(#F0566E):COLOR(#FFFFFF):&icon_fa(fa fa-video fa-fw)|>|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#9146FF){怠惰ぶいちゅっば (taida_wao)}>>https://www.twitch.tv/taida_wao]]|
+|BGCOLOR(#F0566E):COLOR(#FFFFFF):動画投稿|BGCOLOR(#F0566E):COLOR(#FFFFFF):&icon_fa(fa fa-circle-play)|>|&font(#FF0000){&icon_fa(fa fa-youtube-play)} [[&font(#FF0000){怠惰Vtuber (@taida_wao)}>>http://www.youtube.com/@taida_wao]]|
+
+//|ガイドライン|[[ガイドライン>>ここにガイドラインのURLを入力]]|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**&size(25){&color(#ffcfa7){&size(35){&color(#f7a88b){&icon_fa(fa fa-solid fa-book-quran)}} 基本情報}}
+-前の人生では声優を目指して、バイトをしながら養成所に通い続けていた。
+-30歳になった瞬間に突然ロスサントスに降り立っていた。ロスサントスに来た時点では10年前の世界で20歳。
+-社会に貢献できるような職業に就いたりして、お友達をいっぱい作ったり、ゆっくり生きがいを見つけていきたいと思っている。
+-この街に慣れたら、人のためになる仕事をしたいと思っている。
+-怖いものが苦手。
+-オレンジ色が好き。
+-9/20 [[カジノ]]のラッキーホイールで街にまだ一台しか存在していない特別な車「Maxwell SHAMUS」が当選した。
+-9/24 [[山田　ジェイミー]]主催の劇団で初舞台。
+
+***&bold(){SEASON2～}
+
+-人のためになる仕事をしたいと、ヨシャパテさんがツイックスで募集したイベントサポートに手を挙げて新しい街を盛り上げるために邁進する
+-自ら発案企画し、サポートも受けてイベントのトレジャーパンティス（3/7）を主催した
+
+
+**&size(25){&color(#ffcfa7){&size(35){&color(#f7a88b){&icon_fa(fa fa-solid fa-clipboard-check)}} エピソード}}
+***2024年
+#region(09月)&bold(){09月}
+****09/03 「初日怠惰！」
+#region(開く)
+-気づいたらロスサントスにいた
+-戸惑っているところで[[チョコラータ　メアリー]]に出会い、おんぶに抱っこで街のあれやこれを教わる
+-[[パキ　ち]]の教習の下、無事にバイクと普通自動車の運転免許証を取得
+-『ねてもねむい』という名前の住民がいると教えて貰う
+-[[銭形　やいち郎]]にヘリで町案内してもらう
+-木こりのおじいちゃんの噂を聞き、チルの極意を学びたいと思った
+-魔女の酒場で楽しいひと時を過ごす
+-白市民パスを取るのを[[メイ・カイ]]に手伝ってもらう
+-スケボーよりスピードが出るという一輪車を購入する
+#endregion
+****09/04 「２日目寝言怠惰！」
+#region(開く)
+-[[サンサンクレープ]]で初めての職業体験を始める
+-[[スコちゃん>スコティッシュ・ホールド]]に街を案内して貰う
+-GBC主催のイベントを観に行く
+-サバゲーをする
+-魔女の酒場で楽しいひと時を過ごす
+#endregion
+****09/05 「3日目寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/06 「4日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/07 「5日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/08 「6日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/11 「7日目の寝言怠惰！」
+#region(開く)
+-カジノディーラーの体験を行う
+-救急を目指す場合カジノディーラーの正社員にはなれないことを知る
+-[[赤兎　がみとも]]に出会い、救急&警察の働き方に憧れを持つ
+#endregion
+****09/12 「8日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/13 「9日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/14 「10日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/15 「11日目の寝言怠惰！」
+#region(開く,close)
+-初心者マークを外す
+#endregion
+****09/17 「12日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/18 「13日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/19 「14日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/20 「15日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/21 「16日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/22 「17日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/24 「18日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/25 「19日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/26 「20日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/28 「21日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****09/29 「22日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+#endregion(09月)
+
+#region(10月)&bold(){10月}
+****10/01 「23日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/02 「24日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/03 「25日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/04 「26日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/05 「27日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/06 「28日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/08 「29日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/09 「30日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/10 「31日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/13 「32日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/15 「33日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/16 「34日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/17 「35日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/18 「36日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/19 「37日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/20 「38日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/22 「39日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/23 「40日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/25 「41日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/26 「42日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/27 「43日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/29 「44日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/30 「45日目の寝言怠惰！」&small(){&infobox(title=*注,gravity=west){同日2枠目あり}}
+#region(開く,close)
+-エピソード募集中
+#endregion
+****10/31 「46日目の寝言怠惰！」&small(){&infobox(title=*注,gravity=west){同日2枠目あり}}
+#region(開く,close)
+-エピソード募集中
+#endregion
+#endregion(10月)
+
+#region(11月)&bold(){11月}
+****11/03 「47日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****11/05 「48日目の寝言怠惰！救急隊体験１日目！」
+#region(開く)
+-救急隊の体験日
+-順調に進んでいたと思ったが、日付が変わった直後(6日)、[[ギャング>餡ブレラ]]による警察署襲撃ならびに病院襲撃が発生し、救急隊体験は途中で終了となる
+#endregion
+****11/06 「49日目の寝言怠惰！」&small(){&infobox(title=*注,gravity=west){同日2枠目あり}}
+#region(開く,close)
+-エピソード募集中
+#endregion
+****11/08 「ペルノエの寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****11/12 「50日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****11/13 「51日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****11/14 「52日目の寝言怠惰！」&small(){&infobox(title=*注,gravity=west){同日2枠目あり}}
+#region(開く,close)
+-エピソード募集中
+#endregion
+****11/15 「53日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****11/19 「54日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****11/20 「55日目の寝言怠惰！救急隊体験最終日！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****11/22 「56日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****11/23 「57日目の寝言怠惰！」
+#region(開く,close)
+-エピソード募集中
+#endregion
+****11/24 「58日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****11/26 「59日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****11/27 「60日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****11/28 「61日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****11/30 「62日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+#endregion(11月)
+
+#region(12月)&bold(){12月}
+****12/04 「63日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/06 「64日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/07 「65日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/08 「66日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/10 「67日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/11 「68日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/17 「69日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/20 「70日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/21 「71日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/22 「72日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/25 「73日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/26 「74日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****12/31 「75日目の寝言怠惰！」&small(){&infobox(title=*注,gravity=west){0時以降2,3枠目あり}}
+#region(開く)
+-エピソード募集中
+#endregion
+#endregion(12月)
+
+***2025年
+#region(01月)&bold(){01月}
+****01/01 「75日目の寝言怠惰！」&small(){&infobox(title=*注,gravity=west){2枠目、3枠目}}
+#region(開く)
+-エピソード募集中
+#endregion
+****01/04 「76日目で誕生日の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****01/11 「77日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****01/15 「78日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****01/21 「79日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****01/22 「80日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+****01/23 「81日目の寝言怠惰！」
+#region(開く)
+-エピソード募集中
+#endregion
+
+#endregion(01月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(mm月)
+
+}
+
+**&size(25){&color(#ffcfa7){&size(35){&color(#f7a88b){&icon_fa(fa fa-film)}} アーカイブ}}
+&small()&bold(){※Twitchアーカイブは一定期間経過すると視聴できなくなります}
+***2024年
+#region(開く)閉じる
+***9月
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/03|1|[[🔰初日🔰はじめまして！寝言怠惰です！>>https://www.youtube.com/watch?v=ScV912bDa-E]]||
+|09/04|2|[[🔰２日目🔰初めてのバイト&◯◯の、タメになる話！>>https://www.youtube.com/watch?v=Fa1QdX4mNNI]]||
+|09/05|3|[[🔰３日目🔰海上レストラン職業体験&カジノとかサッカーとか！>>https://www.youtube.com/watch?v=Ew_ryCJsaCo]]||
+|09/06|4|[[🔰４日目🔰ストーカーの相談&魔法少女カフェ職業体験！→集団落下事件！？&銭形やいち郎とデスマウンテンデート！>>https://www.youtube.com/watch?v=9zQvBPmPy78]]||
+|09/07|5|[[🔰５日目🔰ロスサントス花火大会2024＆ろぜ柳ぴん子の占い&９０５５体験>>https://www.youtube.com/watch?v=cknTdWJu2lI]]||
+|09/08|6|[[🔰６日目🔰竹井勝痔泥酔事件被害当日＆９０５５と同期組でダイビング>>https://www.youtube.com/watch?v=4X-200SCogk]]||
+|09/11|7|[[🔰７日目🔰BMCでボラギノールしりとり＆泥酔大川さん＆竹井勝痔泥酔事件について南署長の赤城煉から謝罪>>https://www.youtube.com/watch?v=ANDK78XZXm8]]||
+|09/12|8|[[🔰８日目🔰ロロピノワールと街ブラ→ペトロさんの占い→この街の女だいたい抱いたネズ>>https://www.youtube.com/watch?v=xuJ_ANRKh0c]]||
+|09/13|9|[[🔰９日目🔰山田ジェイミーのガチ恋営業にガチ照れ＆今井のダイナー体験＆にかのり→寝言怠惰やらかして大号泣>>https://www.youtube.com/watch?v=qWL7twF9E4Q]]||
+|09/14|10|[[🔰１０日目🔰ALLIN×警察のホスト「SPLIT」にて担当ミンドリー、みこだよう＆青梅つばめの占い>>https://www.youtube.com/watch?v=iR6cp7mFE14]]||
+|09/15|11|[[🔰１１日目🔰シャノールで初心者マーク外しパーティ！文殊セイジ、太田民子と街ブラ！>>https://www.youtube.com/watch?v=vD_UIHgTzxk]]||
+|09/17|12|[[１２日目：ハンバーガーと職業体験＆大川さんと同期で釣り>>https://www.youtube.com/watch?v=I8Z2SSLsKug]]||
+|09/18|13|[[１３日目：劇団結成前。初めての読み合わせ＆猪狩翔太とチルタイム>>https://www.youtube.com/watch?v=VjuSXqwmEhs]]||
+|09/19|14|[[１４日目：マクドナルド主催即興劇に即興参加＆とうとう稀肉に。＆パラ部でブレキル体験ｗ>>https://www.youtube.com/watch?v=DoSYoh1BQe0]]||
+|09/20|15|[[１５日目：ストグラ大学開校記念大講演会"後編"＆劇団結成前の本読み>>https://www.youtube.com/watch?v=EskfMMoLCrI]]||
+|09/21|16|[[１６日目：６億の劇場を譲り受ける！みんなでハウジング！>>https://www.youtube.com/watch?v=GJhZrm01BB4]]||
+|09/22|17|[[１７日目：マダムキャバクラ＆劇場のハウジングに奔走！>>https://www.youtube.com/watch?v=gAWUyb0nYjQ]]||
+|09/24|18|[[１８日目：㊗️初公演。夢へ一歩！>>https://www.youtube.com/watch?v=_ausXhDvjms]]||
+|09/25|19|[[１９日目：とうとう就職！ペールノエル！>>https://www.youtube.com/watch?v=JL0JA4srZ5M]]||
+|09/26|20|[[２０日目：渡戸リーさんと北の生活>>https://www.youtube.com/watch?v=A6TkNHiusUI]]||
+|09/28|21|[[２１日目：BMCで太田民子とチル→Dr.ギガの着信音＆山田ジェイミーと真剣な話。>>https://www.youtube.com/watch?v=GkIwPB5mXZ8]]||
+|09/29|22|[[２２日目：渡戸リーと真新サトシに構ってもらう。＆深夜ペールノエル>>https://www.youtube.com/watch?v=xZEaFhKe8Mo]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***10月
+#region(開く,close)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/01|23|[[２３日目：はまべとレース練習＆劇仲間と方針相談＆深夜ペールノエル>>https://www.youtube.com/watch?v=y3v0d3deZdU]]||
+|10/02|24|[[２４日目：けっつん太郎の市場調査に協力＆手稲えん汰と本読み>>https://www.youtube.com/watch?v=F7wvgfelbmE]]||
+|10/03|25|[[２５日目：ホスト以来のミンドリーにドギマギたぁたん＆㊗️味野環九郎警察就職㊗️＆天近くるみハピバライブ！>>https://www.youtube.com/watch?v=UBnT8_7qsEM]]||
+|10/04|26|[[２６日目：Dr.ギガの「ツタエラレール」＆㊗️タクシー就職＆同期組でシェアハウスのお話>>https://www.youtube.com/watch?v=Dh3suitx6EY]]||
+|10/05|27|[[２７日目：雷堂ましろVSタラちゃんの法廷バトル＆スコティッシュホールドの本読み＆カジノの限定者当選！>>https://www.youtube.com/watch?v=NDH_O-x8Oms]]||
+|10/06|28|[[２８日目：ガヴァイと街ブラ＆タコマツ、ジョアンナ、ヘルアン、八王子めぐを占った！>>https://www.youtube.com/watch?v=eqEG4lcHYdQ]]||
+|10/08|29|[[２９日目：マクドナルドの突発！JTSリニューアル記念公演！eightではぁ～ん⤴️💞ビリヤードｗ>>https://www.youtube.com/watch?v=pi89udlhS7o]]||
+|10/09|30|[[３０日目：らびすぴユニコーンバット大会＆沢山ペールノエル！>>https://www.youtube.com/watch?v=rHNEg1ZCAyU]]||
+|10/10|31|[[３１日目：㊗️はままるうどん開店当日で奔走！！＆深夜タロットカード占い盛り盛り>>https://www.youtube.com/watch?v=imyz00wogaQ]]||
+|10/13|32|[[３２日目：初めて人質になった寝言怠惰＆文殊セイジとバイトの市場調査????♀?>>https://www.youtube.com/watch?v=7bsJE1UaNpA]]||
+|10/15|33|[[３３日目：芹沢すず、growと本読み！＆鯵屋、麻林ラル、犬億ロック、ボタリンを占った！>>https://www.youtube.com/watch?v=RoUAAwD0Ke0]]||
+|10/16|34|[[３４日目：パキッちンでユ◯クロのパンツの話しｗ＆超貴重！？無月レオのスペシャル！！>>https://www.youtube.com/watch?v=gRQJuUmkf1o]]||
+|10/17|35|[[３５日目：２度目まして？ヴァンダーマー。＆秋の収穫祭と花火の打ち上げお手伝い！＆ミンドリーさんにドキドキ。>>https://www.youtube.com/watch?v=b0wq4qbxt7I]]||
+|10/18|36|[[３６日目：倍々荘で麻雀！＆劇仲間とチル>>https://www.youtube.com/watch?v=CjZubiH3ZcM]]||
+|10/19|37|[[３７日目：寝落ちデヤンスｗ＆カレー屋とトラブル勃発！？＆三島改の人生占い>>https://www.youtube.com/watch?v=AyF32tE9npU]]||
+|10/20|38|[[３８日目：オリジナル商品の制作相談！＆シェアハウス天井の貼り付け！>>https://www.youtube.com/watch?v=75F1UFI4FLs]]||
+|10/22|39|[[３９日目：ハピフルライブの突発影ナレでぺしょぺしょの寝言怠惰ｗ＆イケメンなマカイーノアッコパスと対峙。>>https://www.youtube.com/watch?v=WigoeAS21pk]]||
+|10/23|40|[[４０日目：警察組と飛行機事故ｗ＆Grooby Baby Cafeオープンイベント＆ペルノエ店長に初エンカウント！>>https://www.youtube.com/watch?v=iemuS-nVTb4]]||
+|10/25|41|[[４１日目：深夜ペルノエ。三島みつーの占い、バケモノ来店＆劇仲間と打ち合わせ>>https://www.youtube.com/watch?v=kB1p9GYHKeY]]||
+|10/26|42|[[４２日目：本番チケット営業に奔走！＆がちがちのガッツリ稽古ｗ>>https://www.youtube.com/watch?v=wvA68gVhY4w]]||
+|10/27|43|[[４３日目：現地観覧！ピルボックス学園祭＆劇仲間と準備！>>https://www.youtube.com/watch?v=ly4PkOMLgxk]]||
+|10/29|44|[[４４日目：??劇団【夢歩き】発足！２回目の公演！山田ジェイミーのハウジングに全員驚愕！>>https://www.youtube.com/watch?v=zj0qtkEVOQ0]]||
+|10/30|45|[[４５日目：世界統合・・・！？＆ストグラ物産展１日目！>>https://www.youtube.com/watch?v=1SzRDwDQehg]]||
+|10/31|46|[[４６日目：ストグラ物産展２日目！＆ジャックザ・立派現る！＆文殊セイジとイベントについて教えてもらう>>https://www.youtube.com/watch?v=NpONXQrP5-U]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***11月
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|11/03|47|[[４７日目：蓮シオン、山田ジェイミーと街ブラ！＆魔改造葛城司ｗ>>https://www.youtube.com/watch?v=hswZtOvwyVE]]||
+|11/05|48|[[４８日目：???救急隊体験１日目！???>>https://www.youtube.com/watch?v=uE_hOFs9A8g]]|[[ダイジェスト：48日目の寝言怠惰！救急隊体験１日目！>>https://www.twitch.tv/videos/2294921925]]|
+|11/06|49|[[４９日目：??3on3ヘリバトル?? →感化されて福田明宏からヘリ購入！>>https://www.youtube.com/watch?v=dvq5Qv52yQw]]||
+|11/08|**|[[ペルノエの寝言怠惰！>>https://www.twitch.tv/videos/2296788191]]||
+|11/12|50|[[５０日目：風邪を引いてピルボックス病院でお薬を処方してもらったり、大人しく小説を読んだり。>>https://www.youtube.com/watch?v=juWzKLi7i0A]]||
+|11/13|51|[[５１日目：渡戸リーと皆で木こりの修行＆的中！？ティキーチックのすけの進路占い>>https://www.youtube.com/watch?v=i3W7LHLmaTg]]||
+|11/14|52|[[５２日目：八王子めぐの生歌ライブ＆深夜ペルノエでレンスコを間近で受ける寝言怠惰>>https://www.youtube.com/watch?v=Vbz1mgDtRnw]]||
+|11/15|53|[[５３日目：万十忍とレースで遊ぶ＆バス、飛行機の免許取得>>https://www.youtube.com/watch?v=trxcUs423Mg]]||
+|11/19|54|[[５４日目：葉風邪ナイにシャンプロ所属について聞く＆賞金１億円！9055バイクレース！>>https://www.youtube.com/watch?v=3Qsnagyr4Og]]||
+|11/20|55|[[５５日目：🚑️救急隊体験２日目！🚑️>>https://www.youtube.com/watch?v=GKnYEawbiO0]]|[[ダイジェスト：55日目の寝言怠惰！救急隊体験最終日！>>https://www.twitch.tv/videos/2308073283]]|
+|11/22|56|[[５６日目：悪い人・・・？謎の二人組に遭遇＆ジャック馬ウアー、ジャック馬ウメー夫婦の結婚記念日にキュン♡>>https://www.youtube.com/watch?v=t4rS-aC31gI]]||
+|11/23|57|[[５７日目：ペルノエがロスサントスに（？？？）英語を覚えたいと思った瞬間でした。＆RPLの魂貫で平井のおっちゃんに酒の飲み方について怒られ>>https://www.youtube.com/watch?v=dCPRX-Ggh1I]]||
+|11/24|58|[[５８日目：アニメキャラの胸のカップ数について真剣に考察する。＆デヤンスとホットドッグ屋体験！>>https://www.youtube.com/watch?v=QbJIarl6S5A]]||
+|11/26|59|[[５９日目：最難関！乗馬免許３日目を瞑想ギリギリでトッパ！！>>https://www.youtube.com/watch?v=1ymTioIkh30]]||
+|11/27|60|[[６０日目：無馬記念予選レース！めっちゃくちゃ練習した！>>https://www.youtube.com/watch?v=S5hvWtmaUfQ]]||
+|11/28|61|[[６１日目：れお 1st Solo Live ＆白川アヌギフと無馬記念予選レース再チャレンジ！＆シャノールで芹沢すず、八王子めぐライブ！>>https://www.youtube.com/watch?v=-vk5mW8MYy4]]||
+|11/30|62|[[６２日目：宝石屋閉店で買い込む。＆レース練習>>https://www.youtube.com/watch?v=pd07ayziaZk]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***12月
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/04|63|[[６３日目：Dr.ギガ機長＆渡戸リーと街調査！>>https://www.youtube.com/watch?v=SBtbfaWh5Rw]]||
+|12/06|64|[[６４日目：ここなを見つけて！ゴミ箱カーかくれんぼ！＆八王子めぐと自販機チル>>https://www.youtube.com/watch?v=5xpbS6Papuw]]||
+|12/07|65|[[６５日目：青梅つばめに今後の道を占ってもらう＆三島改から指輪をもらってドキドキｗ＆メカニックカスタムコンテスト>>https://www.youtube.com/watch?v=AAxj3d7xMaA]]||
+|12/08|66|[[６６日目：無馬記念本戦＆はまべから犯罪のお誘い＆カジノ内定！>>https://www.youtube.com/watch?v=PpwZAKYkdiE]]||
+|12/10|67|[[６７日目：黒桜ローレンとチル店番＆チェンマヨ牧場お手伝い>>https://www.youtube.com/watch?v=5kVY3CuOrHw]]||
+|12/11|68|[[６８日目：隣のまちこ、あらよっと居酒屋＆亀山HEROと自販機>>https://www.youtube.com/watch?v=N1IvZt-292E]]||
+|12/17|69|[[６９日目：ペルノエ皆で過ごすさいご。＆GBC musical 〜I LOVE YOU 〜>>https://www.youtube.com/watch?v=OnpTe2U1Q84]]||
+|12/19|70|[[７０日目：たくさんペールノエル！他サバゲー、紅白の服選び>>https://www.youtube.com/watch?v=kpeEouf4BQI]]||
+|12/20|71|[[７１日目：なんと優勝🔥激辛フードファイト！→賞金全額使って物忘レイナと方言キャバクラ＆笑ってはいけない！？署長の告別式w>>https://www.youtube.com/watch?v=nb6ee3nTV4U]]||
+|12/21|72|[[７２日目：👒シャンプロ主催 第1回紅白歌合戦👒１日目>>https://www.youtube.com/watch?v=npVs3SP-9UY]]||
+|12/22|73|[[７３日目：２夜目👒シャンプロ主催 第1回紅白歌合戦👒＆カジノでカードゲームについて考える>>https://www.youtube.com/watch?v=iPenXv4hmM4]]||
+|12/25|74|[[７４日目：犬億ロック達とユニコーンバットで乱闘！＆クリスマスだけど普段通り１人で街ブラ>>https://www.youtube.com/watch?v=vtFarrT-3Ak]]||
+|12/26|75|[[７５日目：🍔第１回 ハンバーガー教集会🍔＆流行語大賞発表>>https://www.youtube.com/watch?v=gmL6cOlaN9M]]||
+|12/31|76|[[７６日目：街で年越し→ペルノエで店番したり、初日の出を皆で見たり。>>https://www.youtube.com/watch?v=xSMxMbKB_Bg]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#endregion
+***2025年
+#region(開く)閉じる
+***1月
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/04|77|[[７７日目：寝言怠惰の誕生日！ペルノエでたくさんの人にお祝いしてもらう！→あのシャンクズ社長も・・・！？>>https://www.youtube.com/watch?v=QuBo4-oK6eM]]|[[ダイジェスト：76日目で誕生日の寝言怠惰！>>https://www.twitch.tv/videos/2345541527]]|
+|01/11|78|[[７８日目：チンチロ大会に向けて占い（当たったらしいｗ）＆アヌギフ白川とアシッドもちもち>>https://www.youtube.com/watch?v=FpxprDdvtGA]]||
+|01/15|79|[[７９日目：みんなでカジノ勤務！＆宗介からリンリンのお誘い>>https://www.youtube.com/watch?v=gJUDoSv01A4]]||
+|01/21|80|[[８０日目：少しだけペルノエ開けるんだぁ>>https://www.youtube.com/watch?v=n5B5shNuev0]]||
+|01/22|81|[[８１日目：ペトロアルドベッグの新店舗訪問＆カジノの皆でお仕事や街ブラ！>>https://www.youtube.com/watch?v=5NqMZWsHczo]]||
+|01/23|82|[[８２日目：ペールノエルとカジノのお店番DAY！>>https://www.youtube.com/watch?v=fd_0aQh4zcw]]||
+|01/29|83|[[８３日目：ペールノエルお店番DAY！八王子めぐライブに向けてオリジナル商品制作！>>https://www.youtube.com/watch?v=iuUjfGumn1c]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***2月
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/01|84|[[８４日目：ペールノエル店番DAYDAY！ペトロアルドベッグの辞表・・・・>>https://www.youtube.com/watch?v=nSVWTeTnbho]]||
+|02/04|85|[[８５日目：JTS職場体験１日目！ライジングサン宗介とヤシャロアのデート見守り（？？）>>https://www.youtube.com/watch?v=YfOW_r-fcLU]]||
+|02/06|86|[[８６日目：👒シャンプロ主催ビンゴ大会👒シャンプロブロマイド1000枚購入→絶対コンプするマン。＆山田パルコとパン屋ではじめまして。>>https://www.youtube.com/watch?v=mABZhr3OQP0]]||
+|02/14|87|[[８７日目：VF主催バレンタインディナーショーにソロ参戦！＆PYCタイミー！>>https://www.youtube.com/watch?v=lKkL7v585PY]]||
+|02/18|88|[[８８日目：ペールノエルに美々梨田ちょりぴ確保ぉぉぉぉぉぉぉぉぉ！！！！！！！！！！！！！！！！！！！！>>https://www.youtube.com/watch?v=VL2vL7xMcao]]||
+|02/19|89|[[８９日目：🍔第２回 ハンバーガー教集会🍔＆PYCタイミー！>>https://www.youtube.com/watch?v=npBbBC8MkCU]]||
+|02/20|90|[[９０日目：タミコとウサギ Two-man Live！＆SKE職業体験！>>https://www.youtube.com/watch?v=EWshy_qjWQg]]||
+|02/25|91|[[９１日目：餡ブレラの皆さんと沢山ダイスポーカー＆BMC&9055 学力テスト対決！>>https://www.youtube.com/watch?v=RmAu5nls6x0]]||
+|02/27|92|[[９２日目：ロスサントス市長選挙2025 街頭演説 飯田けんつ/アヌギフ白川/亀山HERO/高橋滅論/無馬かな>>https://www.youtube.com/watch?v=vJiGVCvN4k0]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***3月
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/03|93|[[９３日目：ロスサントス市長選挙2025 政見放送を見る！>>https://www.youtube.com/watch?v=8D8yIvFaLt4]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+//編集ガイドラインより:配信アーカイブがメンバー限定や期限切れの場合もリンクを残してください。
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

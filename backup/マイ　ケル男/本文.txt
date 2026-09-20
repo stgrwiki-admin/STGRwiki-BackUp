@@ -1,0 +1,62 @@
+&image(マイ  ケル男_初日.png,y=350)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|&ruby(　 　　　お){マイ　ケル男}|
+|~出身地|日本|
+|~誕生日|2003年1月5日 (&countup(2003/01/05,y)歳)|
+|~転入日|2023年8月17日 (&countup(2023/08/18,yd))|
+|~職業|&s(){ギャング([[IRiS]])} 2023/9/11脱退|
+|~プレイヤー|ぴらにあ（旧ジャイケルマクソン）|
+|~告知等|&font(#000){&icon_fa(fa-brands fa-brands fa-x-twitter)} [[&font(#000){PIRA(@pira_real777)}>>https://x.com/pira_real777]]|
+|~配信場所|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){PIRA_real}>>https://www.twitch.tv/pira_real]]|
+|~動画投稿|&font(#ff0000){&icon_fa(fa fa-youtube)}[[&font(#FF0000){PIRA(@pirania_kawaii)}>>https://youtube.com/@pirania_kawaii?si=qUPazZCMdzA1YLra]]|
+|~別キャラクター|[[Lv〇　チンピラ]]|
+
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+**基本情報
+・目標はロスサントスのスターになること。
+・歌は苦手である（本人談）
+・同じくスターを志す[[キングスターダイヤモンド　ズズ]]をライバル視している。
+
+
+**エピソード
+//***2023年
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+・エピソード募集中
+//#endregion
+//
+//#endregion(2023年)
+//
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+***2023年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/08/17|1|[[ストグラ参加しますどうもマイ・ケル男です>>https://www.twitch.tv/videos/1901075449]]||
+|08/20|2|[[マイ・ケル男、金を稼ぐ>>https://www.twitch.tv/videos/1903719874]]|・夏フェスオーディションに参加する|
+|08/21|3|[[ギャングスターマイケル男>>https://www.twitch.tv/videos/1904618572]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

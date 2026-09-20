@@ -1,0 +1,22 @@
+***&underdot(#f9b233,2px){&color(#f9b233){&icon_fa(fa fa-car)}&space(2)&font(16,b){&tt(){所有車両}}&space(55)}
+#region(▶開く,close)▼閉じる
+#table_style(,head=#f8b500:#fff:center){Type=center,乗車人数=center,ナンバー＝center,購入日＝center}
+//
+|~車両（メーカー）|~&icon_fa(fa fa-magnifying-glass-plus)|~Type|~乗車人数|~ナンバー|~購入日|~MEMO|h
+|&ruby(ファギオスポーツ){&font(b){Faggio Sport}}（PEGASSI）|[[&icon_fa(fa fa-magnifying-glass)>>https://img.atwiki.jp/streamergta5/attach/3528/26232/Faggio%20Sport.png]]|&font(15){&icon_fa(fa fa-motorcycle)}|2人|9075G7K5|2026/02/05|8167番地の自動車ディーラーで購入|
+//||||||||
+
+#table_zebra(#fdfaf2, #fff, #f8b500)
+#endregion
+//
+#co{――――――プロフィールについてのコメント―――――――
+▼以下よりコメントアウトになり、非表示になっています。
+
+【Typeアイコンコード】
+●車：&icon_fa(fa fa-car-side)
+●バイク：&icon_fa(fa fa-motorcycle)
+●自転車：&icon_fa(fa fa-bicycle)
+●ヘリコプター：&icon_fa(fa fa-helicopter)
+●飛行機：&icon_fa(fa fa-plane)
+
+}

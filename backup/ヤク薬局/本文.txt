@@ -1,0 +1,196 @@
+//ALLIN解散を受け、'25/4/22に情報を追記する際、少し加筆・修正をいたしました。
+//
+&image(チラシ.jpg,X=350)
+
+#table_style(head=#6bb07a:#fff492:left)
+|~店名|&ruby(やくやっきょく){ヤク薬局}|
+|~業種|薬局|
+|~開業日|2023年12月24日|
+|~所在地|8210番地|
+|~店長|[[薬乃 紅>yaku　beni]]|
+|~TwiX|@ヤク薬局公式アカウント|
+//
+//★開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします。
+
+#region(目次を開く,close)&underdot(#faff64,1px){目次}
+#contents(fromhere=true,level=2)
+#endregion
+//
+//▼▼▼　基本情報　▼▼▼
+**&color(#a8d743){&icon_fa(fa-solid fa-circle-info)} 基本情報
+&font(20px,#90DE8A){▪}&space()[[ALLIN]]のフロント企業であった薬局。[[薬乃 紅>yaku　beni]]が店主を務める。
+&font(20px,#90DE8A){▪}&space()従業員は他のジョブと兼業しているので、開いている時間は短め。
+&font(20px,#90DE8A){▪}&space()販売している商品の種類や効能もあり、男性客が集まりがちだが、店長はそのことに若干不服の表情を見せている。
+&font(20px,#90DE8A){▪}&space()オーナー薬乃紅の大切なお言葉 &bold(){『街にお金を回す為、緊急時(餓死など)でない限り&infobox(title=店の商品を賄いとして食べない事){お店の商品は、金庫に入金するか他の店員から購入してください。タダ飯ダメよ。}』}
+&font(20px,#90DE8A){▪}&space()ALLIN解散後も従業員は離職せず、たま～に開店している。
+
+&font(15px,#94a0c3){&icon_fa(fa-solid fa-camera)}&space()&underdot(#6bb07a,2px){&font(15px,b){外観}&space(16)}
+#region(...)&br()
+|BGCOLOR(#f4f4f4):&blankimg(外観_a.jpg,x=350,y=197)|
+|BGCOLOR(#f4f4f4):&blankimg(外観_b.jpg,x=350,y=197)|
+#endregion()
+
+&font(15px,#94a0c3){&icon_fa(fa-solid fa-camera)}&space()&underdot(#6bb07a,2px){&font(15px,b){内装}&space(16)}
+#region(...)&br()
+|BGCOLOR(#f4f4f4):&blankimg(内装_a.jpg,x=350,y=197)|
+|BGCOLOR(#f4f4f4):&blankimg(内装_b.jpg,x=350,y=197)|
+#endregion()
+
+#right(){&icon_fa(fa-solid fa-circle-arrow-up)&space()&link_up(ページTOPへ)}
+//
+//▼▼▼　スタッフ　▼▼▼
+**&color(#a8d743){&icon_fa(fa-solid fa-user-group)} スタッフ
+//★従業員の拡充を考えていなさそうなので、ソート機能を外しています。
+//★役職については下記を参考にしてください。
+//　・店長 &small(){/ Chief(4)
+//　・副店長 &small(){/ Experienced(3)}
+//　・店員 &small(){/Employee(2)}
+//　・店員 &small(){/Employee(1)}
+//　・見習い &small(){/ Recruit(0)}
+//★従業員の変更があれば「参加者一覧」への反映もお願いします。
+//
+***&font(18px,#94a0c3){&icon_fa(fa-solid fa-user)}&space()&underdot(#6bb07a,3px){&font(18px){従業員}&space(16)}
+#table_style(head=center:#6bb07a:#fff492){No.=center}
+|~従業員|~役職|~就職日|~備考|h
+|[[薬乃 紅>yaku　beni]]|店長 &small(){/ Chief(4)}|2023/12/24|元[[ALLIN]] アンダーボス|
+|[[薬乃 ミミ>mimi　taya]]|副店長 &small(){/ Experienced(3)}|2023/12/24|元[[ALLIN]] 構成員|
+|[[安城 成>安城　成]]|チーフ &small(){/ Chief(4)}|2024/05/26|元[[ALLIN]] 構成員|
+|[[千代田 ヨウ>千代田　ヨウ]]|チーフ &small(){/ Chief(4)}|2024/05/26|元[[ALLIN]] アンダーボス|
+#table_zebra(#EFF9EF,#FFFFFF,#6bb07a)
+#table_autoincrement(){label=No.}
+
+***&font(18px,#94a0c3){&icon_fa(fa-solid fa-user-check)}&space()&underdot(#6bb07a,3px){&font(18px){職場体験}&space(10)}
+#table_style(head=center:#7ecf8f:#ffffff){No.=center}
+|~名前|~体験期間|~備考|h
+|[[エスターク・Z・ダークネス]]|2024/05/26のみ|元[[ALLIN]] 構成員 / 1日限りのアルバイトで雇用|
+#table_zebra(#EFF9EF,#FFFFFF,#7ecf8f)
+#table_autoincrement(){label=No.}
+
+***&font(18px,#94a0c3){&icon_fa(fa-solid fa-user-minus)}&space()&underdot(#6bb07a,3px){&font(18px){退職者}&space(16)}
+#table_style(head=center:#E0E0E0){No.=center}
+|~名前|~就職日|~退職日|~最終出勤日|~備考|h
+|[[トナカイ>タシロ　カワセ]]|2024/05/26|2025/07/20|不明(2025/06/13に判明)|元[[ALLIN]] 構成員&br()個人医に復職しジョブ数の都合上退職。|
+#table_zebra(#F7F7F7,#FFFFFF,#E0E0E0)
+#table_autoincrement(){label=No.}
+
+#right(){&icon_fa(fa-solid fa-circle-arrow-up)&space()&link_up(ページTOPへ)}
+//
+//▼▼▼　商品情報　▼▼▼
+**&color(#a8d743){&icon_fa(fa-solid fa-prescription-bottle-medical)&icon_fa(fa-solid fa-pills)} 商品情報
+//★種類は下記を参考にしてください。
+//　・food
+//　・drink
+//　・relax
+//　・others
+//
+***&font(18px,#94a0c3){&icon_fa(fa-solid fa-bottle-water)&icon_fa(fa-solid fa-bottle-droplet)}&space()&underdot(#6bb07a,3px){&font(18px){ドリンク・薬}&space(3)}
+#region(...,open)
+#table_filter(){No.=show,種類=show,原価=hide,価格=show,発売日=hide,説明 / 備考=show}
+#table_style(head=center:#6bb07a:#fff492){No.=center,原価=right,価格=right,発売日=center}
+|~種類|~商品名|~原価|~価格|~発売日|~説明 / 備考|h
+|drink|&bold(){緑マムシドリンク}&br()&image(drink_緑マムシドリンク.png,x=70)|15,000円|70,000円|2023/12/24|&underdot(1px){とっても元気になる滋養強壮効果のあるドリンク。元気のですぎに注意。}&br()&font(12){効果が強すぎて一時購入停止になるほどの人気ドリンク。&br()[[薬局のチーフ>安城　成]]曰く、持続力を求める方向け。}|
+|drink|&bold(){&ruby(ごくじゅう){極汁}}&br()&image(drink_極汁.png,x=70)|15,000円|70,000円|2023/12/24|&underdot(1px){力がみなぎりとっても元気になるドリンク。&br()あなたの眠っている力を呼び覚まし、新たな世界へ導きます。}&br()&font(12){少し飲むだけでもエネルギーがあふれ出て、深夜でも全身元気になってしまう薬。&br()[[薬局のチーフ>安城　成]]曰く、一発入魂したい方向け。}&br()|
+|drink|&bold(){ヤクエリアス}&br()&image(drink_ヤクエリアス.png,x=70)|10,000円|60,000円|2023/12/24|&underdot(1px){黄色いヤクエリアス。アナタのプロポーションを維持できます♪}&br()&font(12){{[[女性の身体>yaku　beni]]を模しているような見た目はともかく、中身は普通のスポーツドリンク。}|
+|drink|&bold(){惚れ薬}&br()&image(drink_惚れ薬.png,x=70)|10,000円|10,000,000円|2023/12/24|&underdot(1px){服用させる相手への効果説明が必須。}&br()&font(12){服用後、一番最初に見た人物に惚れてしまう ”かもしれない" 薬。&br()ヤク薬局の目玉商品で、効果には個人差あり。}|
+#table_zebra(#EFF9EF,#FFFFFF,#6bb07a)
+#table_autoincrement(){label=No.}
+#endregion(〆ドリンク・薬)
+
+***&font(18px,#94a0c3){&icon_fa(fa-solid fa-mortar-pestle)}&space()&underdot(#6bb07a,3px){&font(18px){フード}&space(16)}
+#region(...,open)
+#table_filter(){No.=show,種類=show,原価=hide,価格=show,発売日=hide,説明 / 備考=show}
+#table_style(head=center:#6bb07a:#fff492){No.=center,原価=right,価格=right,発売日=center}
+|~種類|~商品名|~原価|~価格|~発売日|~説明 / 備考|h
+|food|&bold(){紅スペシャル ヤク膳}&br()&image(food_べに薬膳.png,x=70)|15,000円|80,000円|2023/12/24|&underdot(1px){店長の特製スペシャル薬膳。&br()食べると元気がモリモリわいてくる。ストレス軽減つき♪}&br()&font(12){[[店長>yaku　beni]]謹製、オムライスプレート風のヤク膳。&br()リラックス効果付き。}|
+|food|&bold(){ミミスペシャル ヤク膳}&br()&image(food_みみ薬膳.png,x=70)|15,000円|80,000円|2023/12/24|&underdot(1px){副店長のとってもキュートなスペシャル薬膳。&br()食べると空腹だけではなく心もぴょんぴょん飛び跳ねる。おいしいジュースつき♪}&br()&font(12){[[副店長>mimi　taya]]謹製、パンケーキやミニパフェなどのスイーツセット風ヤク膳。&br()リラックス効果付き。}|
+|food|&bold(){すっぽん鍋}&br()&image(food_すっぽん鍋.png,x=70)|10,000円|70,000円|2024/10/9|&underdot(1px){心も体もあったまるすっぽん鍋はいかが？精力もつくと大人気！！}&br()&font(12){[[大悪党>エスターク・Z・ダークネス]]のように黒くて固い甲羅を身に纏うすっぽんを使用した鍋。&br()のどを潤してお腹も満たされる。リラックス効果付き。}|
+|food|&bold(){オールインワンケーキ}&br()&image(ALLIN CAKE_a.png,x=70)|20,000円|100,000円|2023/12/24|&underdot(1px){みんな落ち着いて！オールイン！}&br()&font(12){ギャング[[ALLIN]]のマークが入ったホールショートケーキ。&br()リラックス効果付き。&br()※店内販売のみ}|
+#table_zebra(#EFF9EF,#FFFFFF,#6bb07a)
+#table_autoincrement(){label=No.}
+#endregion(〆フード)
+
+***&font(18px,#94a0c3){&icon_fa(fa-solid fa-joint)}&space()&underdot(#6bb07a,3px){&font(18px){ジョイント}&space(6)}
+#region(...,open)
+#table_filter(){No.=show,種類=show,原価=hide,価格=show,発売日=hide,説明 / 備考=show}
+#table_style(head=center:#6bb07a:#fff492){No.=center,原価=right,価格=right,発売日=center}
+|~種類|~商品名|~原価|~価格|~発売日|~説明 / 備考|h
+|relax|&bold(){お薬飲めたわね♪}&br()&image(relax_お薬飲めたわね♪.png,x=70)|10,000円|50,000円|2024/5/26|&underdot(1px){お薬を飲むのが苦手な方！こちらと一緒にどうですか？}&br()&font(12){まるで[[店長>yaku　beni]]が手伝ってくれているかのように薬が飲みやすくなる服用補助アイテム。&br()ドロッドロでとろっとろ。}|
+|relax|&bold(){ノンデリン}&br()&image(relax_ノンデリン.png,x=70)|10,000円|50,000円|2024/5/26|&underdot(1px){痛みに効く！ノンデリの方おすすめ！ストレス軽減あり♪}&br()&font(12){[[ノンデリな方>白井　満太]]のデリカシーを活性化し、心の痛みにも効く湿布。}|
+|relax|&bold(){ケハエール}&br()&image(relax_ケハエール.png,x=70)|5,000円|40,000円|2024/10/9|&underdot(1px){薄毛にお悩みの方！これを使えばあら不思議！みるみるうちに毛が生えーる！}&br()&font(12){[[髪型をイジられてしまうことに悩む方>千代田　ヨウ]]必見の育毛剤。}|
+#table_zebra(#EFF9EF,#FFFFFF,#6bb07a)
+#table_autoincrement(){label=No.}
+#endregion(〆ジョイント)
+
+***非売品
+#region(...,close)
+#table_filter(){No.=show,種類=show,原価=hide,価格=hide,発売日=hide,説明 / 備考=show}
+#table_style(head=center:#7ecf8f:#ffffff){No.=center,原価=right,価格=right,提供開始日=center}
+|~種類|~商品名|~原価|~価格|~発売日|~説明 / 備考|h
+|drink|&bold(){CPU Oil}&br()&image(drink_CPU OIL.png,x=70)|10,000円|50,000円|-|&underdot(1px){おーるいんのCPUせんようおいる&br()このおいるをつかって　またいつでもめざめてね　みんなまってる}|
+|relax|&bold(){TOBAKUSHI}&br()|10,000円|50,000円|-|&underdot(1px){0か100か。全てを賭した加熱式タバコ&br()0또는 100또는.모든 것을 베팅한 가열식 담배}|
+|-|&bold(){キックアスフィギュア}&br()|2,000円|0円|-|&underdot(1px){さみしくないぞ。おれがついてる！}|
+#table_zebra(#EFF9EF,#FFFFFF,#7ecf8f)
+#table_autoincrement(){label=No.}
+#endregion(〆非売品)
+//
+#hr()
+//
+***&font(18px,#94a0c3){&icon_fa(fa-solid fa-book-open)}&space()&underdot(#6bb07a,3px){&font(18px){メニュー}&space(11)}
+#region(2025/01/10～,open)
+&bold(){2025/01/10～}
+|BGCOLOR(#f0f0f0):&image(メニュー_20250110.jpg,y=400)|
+&font(18,#90DE8A){▪}&space()&font(12){商品価格の見直し。}
+#endregion(〆2024/10/13～)
+
+***&font(14px,#94a0c3){&icon_fa(fa-solid fa-folder-open)}&space()&underdot(#6bb07a,2px){&font(14px){旧メニュー}&space(12)}
+#region(2024/10/13～,close)
+&bold(){2024/10/13～}
+|BGCOLOR(#f0f0f0):&image(メニュー_20240917.jpg,y=400)|
+&font(18,#90DE8A){▪}&space()&font(12){新メニュー『すっぽん鍋』と『ケハエール』を追加。}
+#endregion(〆2024/10/13～)
+
+#region(2024/05/31～,close)
+&bold(){2024/05/31～}
+|BGCOLOR(#f0f0f0):&image(メニュー_20240531.jpg,y=400)|
+&font(18,#90DE8A){▪}&space()&font(12){新メニュー『ノンデリン』と『お薬飲めたわね』を追加。}
+#endregion(〆2024/05/31～)
+
+#region(2023/12/24～,close)
+&bold(){2023/12/24～}
+|BGCOLOR(#f0f0f0):&image(メニュー_20231224.jpg,y=400)|
+#endregion(〆2023/12/24～)
+
+
+#right(){&icon_fa(fa-solid fa-circle-arrow-up)&space()&link_up(ページTOPへ)}
+//
+//▼▼▼　沿革　▼▼▼
+**&color(#a8d743){&icon_fa(fa-solid fa-building)} 沿革
+//★出来事が頻繁に起こっていないのでソート機能を外しています。
+***&font(#94a0c3){&icon_fa(fa-solid fa-location-dot)}&space()&underdot(#51a067,3px){2023年&space(17)}
+#region(...,open)
+#table_style(head=center:#6bb07a:#fff492)
+|~日付|~出来事|~エピソード・備考|h
+|12/24|ヤク薬局開業|21:00に営業開始。&br()なお店長はプリズンのため開店時間には間に合わず。|
+#table_zebra(#EFF9EF,#FFFFFF,#6bb07a)
+#endregion(〆2023年)
+
+***&font(#94a0c3){&icon_fa(fa-solid fa-location-dot)}&space()&underdot(#51a067,3px){2024年&space(17)}
+#region(...,open)
+#table_style(head=center:#6bb07a:#fff492)
+|~日付|~出来事|~エピソード・備考|h
+|05/26|新入社員雇用|薬乃姉妹が忙しく、数ヶ月薬局を開店できなかたので従業員を新たに雇用することに。&br()薬乃姉妹が不在でも薬局を開店できるように、[[安城 成>安城　成]]、[[トナカイ>タシロ　カワセ]]、[[千代田 ヨウ>千代田　ヨウ]]を雇用。&br()※[[エスターク・Z・ダークネス]]はこの日限りのアルバイト雇用。|
+|09/17|新メニュー追加|[[千代田 ヨウ>千代田　ヨウ]]が在庫の補充をしに来た時に新商品が3つ増えている事に気付いた。&br()恐らくALLINホストイベントの日(09/14)に、薬乃姉妹が追加登録したと思われる。|
+|11/26|飲食物の作成方法変更|飲食店のオリジナルメニュープラグイン入れ替えが行われた。&br()商品登録方法の刷新、商品原価の導入、酔い度の追加、作成・使用時の負傷機能の追加が為された。|
+#table_zebra(#EFF9EF,#FFFFFF,#6bb07a)
+#endregion(〆2024年)
+
+***&font(#94a0c3){&icon_fa(fa-solid fa-location-dot)}&space()&underdot(#51a067,3px){2025年&space(17)}
+#region(...,open)
+#table_style(head=center:#6bb07a:#fff492)
+|~日付|~出来事|~エピソード・備考|h
+|01/10|価格の見直し|街のインフレを受け、商品価格を見直しをする。&br()店内販売は、惚れ薬とオールインワンケーキは据え置きで、その他は1万～5万の値上げ。&br()移動販売については、惚れ薬は1000万、その他は一律10万とした。|
+|03/23|[[ALLIN]]が解散|母体である[[ALLIN]]は解散したが、街に残る従業員で経営していくこととなった。|
+#table_zebra(#EFF9EF,#FFFFFF,#6bb07a)
+#endregion(〆2025年)
+
+#right(){&icon_fa(fa-solid fa-circle-arrow-up)&space()&link_up(ページTOPへ)}

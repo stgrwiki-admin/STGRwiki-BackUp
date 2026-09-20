@@ -1,0 +1,213 @@
+&image(240313 ColorFlora.jpg,y=300)
+
+#table_style(head=#FFF899){}
+|~店名|~&icon_fa(fa fa-palette)|&ruby(カラーフローラ){ColorFlora}|
+|~job名|~&icon_fa(fa-solid fa-user-tag)|ColorFlora|
+|~業種|~&color(#ffa280){✿}|お花屋さん|
+|~開業日|~&icon_fa(fa fa-store)|2024年03月13日|
+|~所在地|~&icon_fa(fa fa-map-location-dot)|8006番地|
+|~店長|~&icon_fa(fa fa-user fa-fw)|[[御花　はな]]|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**&font(25px,#b3ffb3){&icon_fa(fas fa-edit)} 基本情報
+・[[御花　はな]]が開店したお花屋さん。
+・合法系のお花を販売し、住民間でのプレゼントが増えるようにという思いで開店した。
+・大型ミッションの受注場所が店舗脇にあり、受注待ちしている人に販売することもある。
+・請求書は従業員80％：店20%入れるシステムを採用している。従業員の手取りの割合を増やしたためボーナスは不定期。
+・店20%の内訳は初心者体験への補助支給と不定期ボーナスに充てている。
+・開店の際はお祝いとして1000万をボーナスで全従業員に支給した。
+・飲食商品も取り扱っているため主に[[花沢　まるん]]と[[安保　さぶ郎]]が自販機への納品も行っている。
+・在庫の作成は店長も店員も義務ではなく、出勤も自由出勤であると店の方針を店長が語っている。
+・季節の花やオーダーメイド、イベント用の花などの計画がある。
+
+**&font(25px,#b3ffb3){&icon_fa(fas fa-users)} 従業員情報
+***従業員
+#table_style(head=center:#fffde6)
+|~役職|~名前|~就職日|~備考|h
+|店長|[[御花　はな]]|2024/03/13|ColorFloraの店長。|
+|店員|[[天羽　よつは]]|2024/03/13|新商品の開発も手掛ける|
+|店員|[[花沢　まるん]]|2024/03/13|衛星外でも自販機への納品を行っている|
+|店員|[[安保　さぶ郎]]|2024/03/13|花屋用にランポを欲しがっていたところ[[上田　さん]]にプレゼントされた|
+|店員|[[冬那　フナ]]|2024/03/13||
+|店員|[[えびな　ヨネ]]|2024/03/13||
+|店員|[[パンプキング>アキヲ・煉獄・ペスカトーレ]]|2024/03/13|こまめに店頭に立ち頑張っている、念願の家を購入した|
+|店員|[[酒槻　すん]]|2024/03/13||
+|店員|[[久川　たんぽぽ]]|2024/12/26|開店以来初めての新規従業員|
+|店員|[[広場　うた子]]|2025/02/04||
+|店員|[[上田　さん]]|2025/04/18||
+//|役職|[[名　前]]|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+#co{{
+各キャラの就退職時に関係ない職業ページへの変更が必要になることは「就業者一覧」の削除要因と同じ現象が発生するためコメントアウトしました。
+#table_filter(){役職=show,名前=show,就職日=show,兼業=hide,備考=show}
+|~役職|~名前|~就職日|~兼業|~備考|h
+|店長|[[御花　はな]]|2024/03/13|・[[BMカスタム]]&br()・[[深沢モータース]]||
+|店員|[[花沢　まるん]]|2024/03/13|・[[ロスサントス警察]]&br()・[[EDEN]]|主に衛星外で自販機回りを行っている|
+|店員|[[安保　さぶ郎]]|2024/03/13|・[[ロスサントス警察]]|花屋用にランポを欲しがっていたところ[[上田　さん]]にプレゼントされた|
+|店員|[[笹熊　アレオ>天草　蒼]]|2024/03/13|・&openclose2(show=○○){　[[ALLIN]]}||
+|店員|[[冬那　フナ]]|2024/03/13|・[[NO LIMIT]]||
+|店員|[[えびな　ヨネ]]|2024/03/13|・[[Happy Nutty Bunny]]&br()・[[RitUal:]]&br()・[[Merry&Belle]]|白市民パス所持でも3職までしか兼業出来ない為、いずれかを退職済？|
+|店員|[[パンプキング>アキヲ・煉獄・ペスカトーレ]]|2024/03/13|||
+|店員|[[天羽　よつは]]|2024/03/13|・[[ロスサントス救急救命隊]]&br()・[[ToY]]||
+|店員|[[酒槻　すん]]|2024/03/13|・[[anbrella(餡ブレラ)]]||
+}}
+***退職者
+#table_style(head=center:#fffde6)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[天草　蒼 ]]|2024/03/13|2024/10/15|[[Yadorigi]]開店の為|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+#co{
+***職業体験者
+#table_style(head=center:#fffde6)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+**&font(25px,#b3ffb3){&icon_fa(fa fa-coffee)} 商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+・オーダーメイド注文も受付ている。特別な花束を注文可能。
+&u(){&font(b,16px,#ffa280){✿}&space()&font(b,16px,#444){常設メニュー}&space()&font(b,16px,#ffa280){✿}}
+***Food＆Drink
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#fffde6){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|food|Fruit Sundwich|30,000円|2024/03/13||
+|food|Hanami Bento|30,000円|2024/03/13||
+|Drink|Colorful Cream soda|30,000円|2024/03/13||
+|Drink|Rose hip tea|30,000円|2024/03/13||
+|Drink|Chamomile tea|30,000円|2024/03/13||
+|food|Fruit tart|30,000円|2024/05/12|元は母の日限定商品だが、24年6月より常設メニューになった。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+***Perfume
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#fffde6){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|relax|Rose Perfum|30,000円|2024/03/13||
+|relax|Mint Cologne|30,000円|2024/03/13||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+***Bouquet
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#fffde6){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|others|Thank you|50,000円|2024/03/13||
+|others|Sorry|50,000円|2024/03/13||
+|others|Bright|50,000円|2024/03/13||
+|flower|Friend|50,000円|2024/03/13|友愛のしるし／元はWD限定商品だが、24年6月より常設メニューになった。|
+|flower|Important|50,000円|2024/03/13|大切な人へ／元はWD限定商品だが、24年6月より常設メニューになった。|
+|flower|Love|50,000円|2024/03/13|最愛のあなたに／元はWD限定商品だが、24年6月より常設メニューになった。|
+|flower|Iris|50,000円||6月の新商品|
+|flower|Asagao|50,000円|||
+|flower|Himawari|50,000円|||
+|flower|Bell Flower|50,000円|||
+|flower|Chocolate Cosmos|50,000円|||
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+//xn--=food,drink,relax,others%20-1m4z2a60677c2tjg
+***&u(){&color(#ffa280){✿} メニュー画像 &color(#ffa280){✿}}
+#region(24/03/16　メニュー)&bold(){24/03/16}【ストグラ内ツイートより】
+&image(240316 ColorFlora_Menu.jpg,y=300)
+#endregion
+#region(24/06/11　メニュー)&bold(){24/06/11}【ストグラ内ツイートより】
+&image(240611 ColorFlora_Menu.webp,y=300)
+#endregion
+#region(24/10/14　メニュー)&bold(){24/10/14}【ストグラ内ツイートより】
+&image(241014 ColorFlora_Menu.webp,y=300)
+#endregion
+#region(24/10/29　メニュー)&bold(){24/10/29}【ストグラ内ツイートより】
+&image(241029 ColorFlora_Menu.webp,y=300)
+#endregion
+#region(25/03/06　メニュー)&bold(){25/03/06}【ストグラ内ツイートより】
+&image(https://images-ext-1.discordapp.net/external/IEqumPE-uybRQpDcjJceg4d__-VxJadNauIYD5yApBA/https/stgr-r2.libhalt.net/images/ef70534b-7359-4d4b-90c6-a250a4beae9d.png,y=240,x=400)
+#endregion
+#region(25/03/13　メニュー,open)&bold(){25/03/13}【ストグラ内ツイートより】
+&image(https://stgr-r2.libhalt.net/images/a93505cc-c6a6-46bb-b94d-bb2c4a4c490a.png,y=240,x=400)
+#endregion
+#region(25/03/26　メニュー,open)&bold(){25/03/26}【ストグラ内ツイートより】
+&image(https://images-ext-1.discordapp.net/external/nblTcN4EyEUwjWwCeW7mRuZWcUAeAGt8wKSfxsFKNaA/https/stgr-r2.libhalt.net/images/4a467a3b-79cd-4a6c-b5bb-60455c6c6d4f.png,y=240,x=400)
+#endregion
+
+***&u(){&color(#ffa280){✿} 限定メニュー &color(#ffa280){✿}}
+#region(2024/03/13　White Day)&bold(){2024/03/13　White Day}
+&image(240313 WD.jpg,y=400)
+#endregion
+#region(2024/05/08　SpringFlowersoft)&bold(){2024/05/08　SpringFlowersoft}
+&image(240508 SpringFlowersoft.webp,y=250)
+#endregion
+#region(2024/05/12　Mother's Day)&bold(){2024/05/12　Mother's Day}
+&image(240512 MD.webp,y=400)
+#endregion
+#region(2024/06/15　Father's Day)&bold(){2024/06/15　Father's Day}
+&image(240615 FD.webp,y=400)
+#endregion
+#region(2024/08/07　ColorFlora Cookie)&bold(){2024/08/07　ColorFlora Cookie}
+&image(240807 店番Day限定クッキー.webp,y=400)
+#endregion
+#region(2024/10/31　Halloween)&bold(){2024/10/31　Halloween}
+&image(241031 Halloween.png,y=250)
+#endregion
+#region(2025/01/08　Chocolate Cake)&bold(){2025/01/08　Chocolate Cake}
+&image(250108 Chocolate Cake.webp,y=300)
+#endregion
+#region(2025/01/15　ColorFlora CookieⅡ)&bold(){2025/01/15　ColorFlora CookieⅡ}
+&image(250115 ColorFlora CookieⅡ.webp,y=400)
+#endregion
+#region(2025/02/19　ColorFlora Cookie)&bold(){2025/02/19　ColorFlora Cookie}
+&image(250219_ColorFloraCookieⅡ_2.jpeg,y=400)
+#endregion
+#region(2025/03/13　ColorFlora 1周年)&bold(){2025/03/13　ColorFlora 1周年}
+&image(https://pbs.twimg.com/media/Gl6ozbAW4AAkjzu?format=jpg&name=large)
+#endregion
+#region(2025/05/01　スペシャルメニュー)&bold(){2025/05/01　スペシャルメニュー}
+&image(https://stgr-r2.libhalt.net/images/538c5dff-8fe5-4135-b735-d77941d32d84.png,y=300,x=300)
+#endregion
+
+***&u(){&color(#ffa280){✿} イベント限定商品 &color(#ffa280){✿}}
+#region(2025/03/19　フラワーライブVol.2〜お花屋さんの音楽日和〜)&b(){2025/03/19　フラワーライブVol.2〜お花屋さんの音楽日和〜}
+&image(https://pbs.twimg.com/media/GmZGUSEa8AAcJ1I?format=jpg&name=large)
+#endregion
+#region(2025/05/01　イースターイベント スペシャル商品)&b(){2025/05/01　イースターイベント スペシャル商品}
+&image(25イースター.webp,x=400,y=220)
+#endregion
+
+***&u(){&color(#ffa280){✿} イベント告知 &color(#ffa280){✿}}
+#region(2025/05/18　お花見フラワーライブ)&b(){2025/05/18　お花見フラワーライブ}
+&image(https://stgr-r2.libhalt.net/images/2bca2f8e-4111-4030-8afe-8428213e154f.png,x=210,y=300)
+#endregion
+
+**&font(25px,#b3ffb3){&icon_fa(fa fa-book)} 沿革
+#region(Season1,open)&bold(){Season1}
+#table_filter(){エピソード・備考=show}
+#table_style(head=center:#fffde6)
+|~日付|~出来事|~エピソード・備考|h
+|2024/03/13|グランドオープン|店長：[[御花　はな]]、&infobox(title=オープン告知画像🔍,gravity=west,url=https://img.atwiki.jp/streamergta5/attach/1317/17049/240313%20ColorFlora_%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E5%91%8A%E7%9F%A5.png)|
+|2024/03/13|イベント出店|物産展協会主催「ホワイトデー物産展」に出店|
+|2024/08/07|店頭イベント|花(87)の日に「みんなで店番Day」と称して、従業員総出で接客する店頭イベントを初開催|
+|2024/10/31|イベント出店|物産展協会主催「ハロウィン物産展」に出店|
+|2025/01/15|ライブイベント|「フラワーライブ～お花屋さんの音楽日和～」開催。出演：[[久川　たんぽぽ]]、[[八王子　めぐ]]&br()イベントに合わせて、たんぽぽ＆ライラックを用いた限定商品も発売された。&infobox(title=告知画像🔍,gravity=west,url=https://img.atwiki.jp/streamergta5/attach/1317/17050/250115%20%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96.png)|
+|2025/03/13|1周年イベント|「西サントスお笑いライブ」を開催。出演：[[平井のおっちゃん>>平井　善之]]率いる西サントスのみなさま&br()限定の1周年記念商品も発売された。|
+|2025/03/16|委託販売|[[天羽よつは>>天羽　よつは]]・[[救急隊>>ロスサントス救急救命隊]]主催イベント“Dream Balloon Festival”にて新商品の先行販売を委託という形で行う|
+|2025/03/19|ライブイベント|「フラワーライブVol.2 〜お花屋さんの音楽日和〜」開催。出演：[[久川　たんぽぽ]]、[[うさぎさん>>山田　パルコ]]&br()イベントに合わせて、二人のコラボ限定商品も発売された。|
+|2025/03/27|イベント出店|[[ほわいとたいが>>イチカ　ウィルキンズ]]主催・[[JTS>>ジョアンナテクノサービス]]/[[Reboot]]/[[渡戸林業]] 協賛「春の収穫祭〜春のぽかぽかお花見会〜」に出店&br()[[御花 はな>>御花　はな]]、[[久川 たんぽぽ>>久川　たんぽぽ]]、[[パンプキング>>アキヲ・煉獄・ペスカトーレ]]が接客対応した|
+|2025/05/18|ライブイベント|「お花見フラワーライブ」開催。出演：[[久川　たんぽぽ]]、[[山田　パルコ]]、[[葵井　優]]、[[平井　善之]]（司会）&br()イベントに合わせて、お花見限定商品も発売された。|
+//|mm/dd|出来事|エピソード・備考|
+//|mm/dd|出来事|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(Season1)
+
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,136 @@
+&image(飛翔_ロゴ.jpg,y=300)
+
+#table_style(head=#E0E0E0){}
+|~店名|~&icon_fa(fa fa-store)|&ruby(ひしょう){飛翔}|
+|~業種|~&space()|居酒屋|
+|~開業日|~&icon_fa(fa fa-flag)|2025年08月09日&br()&small(){（&countup(2025/8/9,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|7172番地|
+|~店長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[ミカ・ピトフーイ]]}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@hisyou7172|
+//|~オーナー(会長)|~&icon_fa(fa fa-user-secret)|&bold(){[[名　前]]}|
+//|~副社長(副店長)|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[名　前]]}|
+//|~job名|~&icon_fa(fa fa-user-tag)|ボスメニューのジョブネーム&co(){※わからない場合は、行ごと削除}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-入口ドア左から個室（VIPルーム）に行ける。
+-基本的にはノンアルコール、酔いたい客へはアルコール入りの[豪]を提供している。
+-職業体験や就職希望者は誰でも受け付ける訳ではなく、悪評のある住民や偽名を使う等怪しい人物は店長の判断で断る方針。
+-店長の姓や所属した組織が鳥関連であるため焼き鳥は絶対に出さない。
+
+**従業員情報
+***従業員
+#table_style(head=center:#E0E0E0)
+|~役職|~名前|~就職日|~Chief以上|~備考|h
+|店長|[[ミカ・ピトフーイ]]|2025/08/09|〇||
+|店員|[[くま　ぽこ]]|2025/08/09|〇 08/24～||
+|店員|[[とろろ　ろろ]]|2025/08/10|〇 08/24～||
+|店員|[[三島　改]]|2025/09/04|〇||
+//|役職|[[名　前]]|yyyy/mm/dd|Chief|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//店長の就職日がわからなかったため、初出勤日で統一しています。
+
+#co{
+//***職業体験者
+#table_style(head=center:#E0E0E0)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+}
+#co{
+//***退職者
+#table_style(head=center:#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+**商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=hide,備考=show}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
+|food|ホタテのバター焼き|50,000|2025/08/09|||
+|food|ホッケの塩焼き|50,000|2025/08/09|||
+|food|肉寿司三貫|50,000|2025/08/09|||
+|food|揚げ出し豆腐|50,000|2025/08/09||+水分|
+|food|牛筋煮込み|50,000|2025/08/09|||
+|food|舟盛り|50,000|2025/08/09|||
+|food|ほろ酔いセット|100,000|2025/08/17||+水分|
+|food|ほろ酔いセット[豪]|100,000|2025/08/17||+水分 +酔い|
+|food|焼きおにぎり出汁茶漬け|50,000|2025/09/06||+水分|
+|food|もつ鍋|50,000|2025/09/11|||
+|food|べろ酔いセット|100,000|2025/09/11||+水分 +酔い|
+|drink|ビール|50,000|2025/08/09|||
+|drink|ビール[豪]|50,000|2025/08/09||+酔い|
+|drink|烏龍茶|50,000|2025/08/09||酔い醒まし|
+|drink|カシスオレンジ|50,000|2025/08/09|||
+|drink|カシスオレンジ[豪]|50,000|2025/08/10||+酔い|
+|drink|レモンサワー|50,000|2025/08/09|||
+|drink|レモンサワー[豪]|50,000|2025/08/10||+酔い|
+|drink|ハイボール|50,000|2025/08/09|||
+|drink|ハイボール[豪]|50,000|2025/08/10||+酔い|
+|joint|飛翔タブレット|50,000|2025/08/09|||
+|joint|鳥の水笛|50,000|2025/09/06|||
+//|種類|商品名|価格|提供開始日|説明|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+#co(){
+***限定商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+//
+***メニュー画像
+#co(){
+#region(レギュラーメニュー,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion
+}
+#region('25/09/06 新商品)
+&image(TwiX250906新商品.jpeg,y=300)
+#endregion
+
+//#region()
+//&image(ここに画像のURLを入力,y=400)
+//#endregion
+
+**沿革
+***2025年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|08/08|プレオープン|[[MOZU]]|[[ミカ>ミカ・ピトフーイ]]の所属する[[MOZU]]のメンバーを招待|
+|08/09|オープン|||
+|08/21|夏の収穫祭に出店|[[たいがのごはん]]|1会計毎に一つ、飛翔缶バッジが貰える。|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

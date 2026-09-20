@@ -1,0 +1,181 @@
+&font(16px,b,u,black){Season1}
+#region(開く)閉じる
+***&font(25px,#999){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#666):~&blankimg(ホットドッグ.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(刑事風私服.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(チャイナ私服.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪者風私服.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(和服私服.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~ホットドック|CENTER:BGCOLOR(#999):COLOR(#FFF):~刑事風私服|CENTER:BGCOLOR(#999):COLOR(#FFF):~チャイナ私服|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪者風私服|CENTER:BGCOLOR(#999):COLOR(#FFF):~和服私服|
+|&size(12){ホットドッグ販売時の&br()服装}|&size(12){変装が必要ない時に&br()着ている服装}|&font(12px){}|&font(12px){レーサーっぽい服装。&br()これでレースに参加す&br()るなどした。&Br()元私服02}|&font(12px){}|
+|CENTER:BGCOLOR(#666):~&blankimg(コンビニ行く服装.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(黒スーツ.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~コンビニ行く服装|CENTER:BGCOLOR(#999):COLOR(#FFF):~黒スーツ|
+|&font(12px){パーカーとスウェット&br()っぽいズボンがおしゃ&br()れポイント。}|&font(12px){元私服07}|
+//
+//服の名前のホットドックは原文ママ
+//↓テンプレート
+//|CENTER:BGCOLOR(#666):~&blankimg(画像,x=120,y=200)|
+//|CENTER:BGCOLOR(#999):COLOR(#FFF):~その服の名前|
+//|&font(12px){その服の説明}|
+#endregion()
+//
+***&font(25px,#f9f){&icon_fa(fa fa-user-secret)} ギャング服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#666):~&blankimg(大型服冬服_02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(大型服夏服_02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(柄スーツピンクネクタイ_02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(島取り黒ジャケット.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(島取り白ジャケット_02.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~大型服冬服|CENTER:BGCOLOR(#999):COLOR(#FFF):~大型服夏服|CENTER:BGCOLOR(#999):COLOR(#FFF):~ 柄ｽｰﾂﾋﾟﾝｸﾈｸﾀｲ |CENTER:BGCOLOR(#999):COLOR(#FFF):~島取り黒ｼﾞｬｹｯﾄ|CENTER:BGCOLOR(#999):COLOR(#FFF):~島取り白ｼﾞｬｹｯﾄ|
+|&font(12px){868の冬の大型服。}|&font(12px){868の夏の大型服。&br()[[ジョア>>ジョシュア・マーキル]]考案。&br()黒ブーツに変更}|&font(12px){主に着ているギャング&br()スーツ。}|&font(12px){旧島取用の服装。誤射&br()が多いということで変&br()更になった。}|&font(12px){現島取用の服装。&br()[[紫水>>紫水　コウ]]考案。&br()黒ブーツに変更}|
+//
+|CENTER:BGCOLOR(#666):~&blankimg(大型服秋服_02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(大型服春服.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~大型服秋服|CENTER:BGCOLOR(#999):COLOR(#FFF):~大型服春服|
+|&font(12px){仮採用の秋服。&br()[[ジョア>>ジョシュア・マーキル]]原案。}|&font(12px){868の春の大型服。&br()[[会長>>音鳴　ミックス]]考案。}|
+//
+//↓テンプレート
+//|CENTER:BGCOLOR(#666):~&blankimg(画像,x=120,y=200)|
+//|CENTER:BGCOLOR(#999):COLOR(#FFF):~その服の名前|
+//|&font(12px){その服の説明}|
+#endregion()
+//
+***&font(25px,#6ECA59){&icon_fa(fa-solid fa-user-tie)} 協会正装服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#666):~&blankimg(空き巣協会.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(HANA.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(HANA2.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(boosting.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(LCTA.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~空き巣変装|CENTER:BGCOLOR(#999):COLOR(#FFF):~HANA|CENTER:BGCOLOR(#999):COLOR(#FFF):~HANA2|CENTER:BGCOLOR(#999):COLOR(#FFF):~boosting|CENTER:BGCOLOR(#999):COLOR(#FFF):~LCTA|
+|&font(12px){空き巣協会正装服。変&br()装時はケインシロスギ}|&font(12px){マトリ撲滅協会の服。}|&font(12px){マトリ撲滅協会の服。&br()主に着ているのはこっ&br()ち。}|&font(12px){ブースティング協会の&br()服装。}|&font(12px){LCTA(高級車強盗協会)&br()の服装。}|
+//
+|CENTER:BGCOLOR(#666):~&blankimg(ハンティング.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~ハンティング|
+|&font(12px){違法ハンティング協会}|
+//↓テンプレート
+//|CENTER:BGCOLOR(#666):~&blankimg(画像,x=120,y=200)|
+//|CENTER:BGCOLOR(#999):COLOR(#FFF):~その服の名前|
+//|&font(12px){その服の説明}|※改行時は&br()
+#endregion
+//
+***&font(25px,#3DD8D5){&icon_fa(fa fa-person-circle-question)} 肌装甲
+#region(開く)閉じる
+|CENTER:BGCOLOR(#666):~&blankimg(ﾌｧｰﾑ用ﾊﾝﾊﾞｰｶﾞｰ服.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用雪だるま.png,x=120,y=200)|BGCOLOR(#666):~&blankimg(犯罪用狐コート.png,x=120,y=200)|BGCOLOR(#666):~&blankimg(犯罪用青ねずみ-02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用くまさん.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~ﾌｧｰﾑ用ﾊﾝﾊﾞｰｶﾞｰ服|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用雪だるま|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用狐コート|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用青ねずみ|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用くまさん|
+|&font(12px){ファームをしていると&br()きの姿。&br()元犯罪用12}|&font(12px){主に「ゆきだるお」と&br()名乗っている。&br()元犯罪用01の仮面変更}|&font(12px){元犯罪用05&br()「きつきつね」と&br()名乗っている。}|&font(12px){主に「ねずねずお」と&br()名乗っている。}|&font(12px){元犯罪用06の仮面変更&br()「くまくまお」と&br()名乗っている。}|
+|CENTER:BGCOLOR(#666):~&blankimg(犯罪用民族骸骨.png,x=120,y=200)|BGCOLOR(#666):~&blankimg(犯罪用狐赤ｼﾞｬｹｯﾄ.png,x=120,y=200)|BGCOLOR(#666):~&blankimg(犯罪用狐青ｶｼﾞｭｱﾙ.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用ウサギ.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用タイガー.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用民族骸骨|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用狐赤ｼﾞｬｹｯﾄ|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用狐青ｶｼﾞｭｱﾙ|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用ウサギ|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用タイガー|
+|&font(12px){元犯罪用07の仮面変更}|&font(12px){元犯罪用08}|&font(12px){元犯罪用09}|&font(12px){元犯罪用13}|&font(12px){「とらとらお」と&br()名乗っている。}|
+|CENTER:BGCOLOR(#666):~&blankimg(犯罪用赤鬼-02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(軍事専用_02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(ファーム用ハンバーガー服2.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(kokoronaki.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(黄色仮面ピンク迷彩.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用赤鬼|CENTER:BGCOLOR(#999):COLOR(#FFF):~軍事専用|CENTER:BGCOLOR(#999):COLOR(#FFF):~ﾌｧｰﾑ用ﾊﾝﾊﾞｰｶﾞｰ服2|CENTER:BGCOLOR(#999):COLOR(#FFF):~kokoronaki|CENTER:BGCOLOR(#999):COLOR(#FFF):~黄色仮面ﾋﾟﾝｸ迷彩|
+|&font(12px){}|&font(12px){[[音鳴>>音鳴　ミックス]]、[[紫水>>紫水　コウ]]、[[ジョア>>ジョシュア・マーキル]]と&br()軍事物資をやろうとし&br()た際の変装。軍人パレ&br()トをやった。}|&font(12px){ﾌｧｰﾑ用ﾊﾝﾊﾞｰｶﾞｰ服にと&br()んがり帽子をかぶせた&br()服装。}|&font(12px){[[ジョア>>ジョシュア・マーキル]]、[[鯵屋>>魚参　屋]]と軍事ト&br()ラックATM強盗を行っ&br()た際に作成した心無き&br()の人質の変装。}|&font(12px){868大型服の案の1つ&br()だったが[[小峯>>小峯　玲]]主催の&br()KFCに[[ジョア>>ジョシュア・マーキル]]、[[鯵屋>>魚参　屋]]と&br()参加するにあたってチ&br()ーム衣装にした。}|
+//
+|CENTER:BGCOLOR(#666):~&blankimg(トラック運ちゃん_02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(santa.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(正義高速戦団.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用鷹.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用翁.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~トラック運ちゃん|CENTER:BGCOLOR(#999):COLOR(#FFF):~santa|CENTER:BGCOLOR(#999):COLOR(#FFF):~正義高速戦団|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用鷹|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用翁|
+|&font(12px){皆がイベントを楽しむ&br()最中、街を支えるべく&br()トラック運転手として&br()働いた。荷卸の際はヘ&br()ルメットを着用する。&br()「虎喰茂雄」と名乗る}|&font(12px){24/12/25、警察に逮捕&br()できたらサンタ衣装に&br()着替えてほしいと言わ&br()れ予め作成しておいた&br()服装。}|&font(12px){[[JTS>>ジョアンナテクノサービス]]のメンバーらが作&br()ったチーム「正義高速&br()戦団」に加入した際の&br()服装。チームの合言葉&br()は「ｼﾞｬｽﾃｨｽｿﾆｯｸ！」&br()「ﾊﾞﾄﾙﾁｰﾑ！」}|&font(12px){アプデで崩壊修正後&br()ﾌｧｰﾑﾊﾞｰｶﾞｰで上書き&br()してしまった}|&font(12px){プ〇ウスでコンビニに&br()突っ込むときに使用&br()（ケイン/爺）}|
+|CENTER:BGCOLOR(#666):~&blankimg(hanzai01.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(chaina01.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(hanzai02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(YUKIDARUMA黒スーツ.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(soccer.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~hanzai01|CENTER:BGCOLOR(#999):COLOR(#FFF):~chaina01|CENTER:BGCOLOR(#999):COLOR(#FFF):~hanzai02|CENTER:BGCOLOR(#999):COLOR(#FFF):~&font(11px){YUKIDARUMA黒スーツ}|CENTER:BGCOLOR(#999):COLOR(#FFF):~soccer|
+|&font(12px){}|&font(12px){}|&font(12px){流浪人スタイル}|&font(12px){市長との話し合いの&br()ために作成した喪服}|&font(12px){小峯らとのサッカー&br()対決で使用した&br()ユニフォーム}|
+//
+//↓テンプレート
+//|CENTER:BGCOLOR(#666):~&blankimg(画像,x=120,y=200)|
+//|CENTER:BGCOLOR(#999):COLOR(#FFF):~その服の名前|
+//|&font(12px){その服の説明}|※改行時は&br()
+#endregion()
+//
+***&font(25px,#999){&icon_fa(fa fa-solid fa-user)} その他
+#region(開く)閉じる
+|CENTER:BGCOLOR(#666):~&blankimg(KAY／o.png,x=120,y=200)|>|CENTER:BGCOLOR(#666):~&blankimg(大型警察表.png,x=120,y=200)~&blankimg(大型警察裏.png,x=120,y=200)|>|CENTER:BGCOLOR(#666):~&blankimg(警察変装表.png,x=120,y=200)~&blankimg(警察変装裏.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~KAY／o|>|CENTER:BGCOLOR(#999):COLOR(#FFF):~大型警察|>|CENTER:BGCOLOR(#999):COLOR(#FFF):~警察変装|
+|&font(12px){街に来た時のデフォル&br()トの恰好。}|>|&font(12px){警察時代の制服。}|>|&font(12px){大型警察のPOLICEのデカールを外したver。}|
+//
+|CENTER:BGCOLOR(#666):~&blankimg(芸人ピンクスーツ.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(防護服.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(a.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(大型服HARU服X.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(aa.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~ 芸人ピンクスーツ|CENTER:BGCOLOR(#999):COLOR(#FFF):~防護服|CENTER:BGCOLOR(#999):COLOR(#FFF):~a|CENTER:BGCOLOR(#999):COLOR(#FFF):~大型服HARU服X|CENTER:BGCOLOR(#999):COLOR(#FFF):~aa|
+|&font(12px){ギャングスーツ没案}|&font(12px){[[ジョア>>ジョシュア・マーキル]]とともに作った&br()オイルリグの心無きの&br()服装。}|&font(12px){[[麻陀羅組]]との抗争を行&br()うにあたって考えた服&br()装。最終的に抗争は島&br()取り服で行われた。}|&font(12px){春の大型服没案&br()ダサいと拒否&br()[[会長>>音鳴　ミックス]]考案。}|&font(12px){神[[五十嵐えいむ>>五十嵐　えいむ]]に&br()誘われ、占い事業を&br()はじめる&br()「祝福を」}|
+#endregion
+//
+//-------------------------------------------------------------
+***&font(25px,#CC3030){&icon_fa(fa fa-trash-can)} 削除済の服
+#region(開く)閉じる
+//
+***&font(25px,#999){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#666):~&blankimg(私服01.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(私服06_01.png,x=120,y=200)~&blankimg(私服06.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~私服01|CENTER:BGCOLOR(#999):COLOR(#FFF):~私服06|
+|&font(12px){}|&font(12px){}|
+#endregion
+//
+***&font(25px,#f9f){&icon_fa(fa fa-user-secret)} ギャング服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#666):~&blankimg(ぴんく02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(ぴんく03.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(ピンクスーツ.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(ピンクスーツ02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(ピンクスーツ04.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~ぴんく02|CENTER:BGCOLOR(#999):COLOR(#FFF):~ぴんく03|CENTER:BGCOLOR(#999):COLOR(#FFF):~ピンクスーツ|CENTER:BGCOLOR(#999):COLOR(#FFF):~ピンクスーツ02|CENTER:BGCOLOR(#999):COLOR(#FFF):~ピンクスーツ04|
+|&font(12px){ギャング服作成時に作&br()成した。}|&font(12px){大型服冬服のズボン色&br()違い}|&font(12px){ギャング服作成時に作&br()成した。}|&font(12px){ピンクスーツのネクタ&br()イ有ver}|&font(12px){ギャング服作成時に作&br()成した。}|
+|CENTER:BGCOLOR(#666):~&blankimg(ピンクスーツ05.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(SHIMATORI.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(あもあす.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(大型服夏服.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(島取り白ジャケット.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~ピンクスーツ05|CENTER:BGCOLOR(#999):COLOR(#FFF):~SHIMATORI|CENTER:BGCOLOR(#999):COLOR(#FFF):~あもあす|CENTER:BGCOLOR(#999):COLOR(#FFF):~大型服夏服|CENTER:BGCOLOR(#999):COLOR(#FFF):~島取り白ｼﾞｬｹｯﾄ|
+|&font(12px){ギャング服作成時に作&br()成した。}|&font(12px){島取用の服装の案の&br()1つ。}|&font(12px){最初に作ったギャング&br()服。[[姐さん>>成瀬　夕コ]]に見せると&br()作り直しと怒られた。}|&font(12px){靴の色を変更}|&font(12px){靴の色を変更}|
+#endregion
+//
+//***&font(25px,#6ECA59){&icon_fa(fa-solid fa-user-tie)} 協会正装服
+//#region(開く)閉じる
+//
+//#endregion
+//
+***&font(25px,#3DD8D5){&icon_fa(fa fa-person-circle-question)} 肌装甲（変装服）
+#region(開く)閉じる
+|BGCOLOR(#666):~&blankimg(犯罪用01_01.png,x=120,y=200)~&blankimg(犯罪用01_02.png,x=120,y=200)~&blankimg(犯罪用01.png,x=120,y=200)|BGCOLOR(#666):~&blankimg(犯罪用02_01.png,x=120,y=200)~&blankimg(犯罪用02_02.png,x=120,y=200)~&blankimg(犯罪用02.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用01|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用02|
+|&font(12px){}||
+//
+|CENTER:BGCOLOR(#666):~&blankimg(犯罪用03_01.png,x=120,y=200)~&blankimg(犯罪用03_02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用04ねずみ.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用06.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用07.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用10.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用03|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用04ねずみ|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用06|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用07|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用10|
+|&font(12px){}|&font(12px){}|&font(12px){}|&font(12px){}|&font(12px){}|
+//
+|CENTER:BGCOLOR(#666):~&blankimg(犯罪用11.png,x=120,y=200)|BGCOLOR(#666):~&blankimg(犯罪用青ねずみ.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用鷹.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用鷹_02.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(犯罪用赤鬼.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用11|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用青ねずみ|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用鷹|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用鷹|CENTER:BGCOLOR(#999):COLOR(#FFF):~犯罪用赤鬼|
+|&font(12px){}|&font(12px){衣類アプデにより変更}|&font(12px){衣類アプデにより変更}|&font(12px){修正後上書き消失}|&font(12px){衣類アプデにより変更}|
+#endregion
+//
+//画像ナシ：&size(45){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}
+***&font(25px,#999){&icon_fa(fa fa-solid fa-user)} その他
+#region(開く)閉じる
+|CENTER:BGCOLOR(#666):~&blankimg(うし.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(クラッキンベル.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(ランド生肉.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(ピンク裸KAY／O.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~うし|CENTER:BGCOLOR(#999):COLOR(#FFF):~クラッキンベル|CENTER:BGCOLOR(#999):COLOR(#FFF):~ランド生肉|CENTER:BGCOLOR(#999):COLOR(#FFF):~ピンク裸KAY／O|
+|&font(12px){}|&font(12px){元サントスでクラッキ&br()ンベル襲撃をした後に&br()作成した服装。肘部分&br()が破れている。}|&font(12px){ギャング服作成時に&br()[[刃弐>>刃弐　ランド]]が作成した服。あ&br()えなく却下された。}|&font(12px){ギャング服を作る際に&br()作ったデフォルトピン&br()クver。}|
+#endregion
+//
+***&font(25px,#555555){&icon_fa(fa fa-gun)} 傭兵服
+#region(開く)閉じる
+|BGCOLOR(#666):~&blankimg(餡ブレラ.png,x=120,y=200)|BGCOLOR(#666):~&blankimg(iris.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~餡ブレラ|CENTER:BGCOLOR(#999):COLOR(#FFF):~iris|
+|&font(12px){[[餡ブレラ>>anbrella(餡ブレラ)]]の大型傭兵服}|&font(12px){[[IRiS]]の大型傭兵服}|
+//
+//↓テンプレート
+//|CENTER:BGCOLOR(#666):~&blankimg(画像,x=120,y=200)|
+//|CENTER:BGCOLOR(#999):COLOR(#FFF):~その服の名前|
+//|&font(12px){その服の説明}|
+#endregion()
+//
+#endregion
+***&font(18px,#ffd700){&icon_fa(fa-solid fa-arrows-spin)} シャッフルパージデー
+#region(開く)閉じる
+|CENTER:BGCOLOR(#666):~&blankimg(個人医.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(SWAT.png,x=120,y=200)|CENTER:BGCOLOR(#666):~&blankimg(SWAT肌装甲.png,x=120,y=200)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~個人医|CENTER:BGCOLOR(#999):COLOR(#FFF):~SWAT|CENTER:BGCOLOR(#999):COLOR(#FFF):~SWAT肌装甲|
+|&font(12px){2024年 If 個人医}|&font(12px){2025年 If SWAT}|&font(12px){2025年 If SWAT}|
+#endregion()
+#endregion(Season1)
+
+//
+//====Season2====Season2====Season2====Season2====Season2====Season2====Season2====Season2====Season2
+//====Season2====Season2====Season2====Season2====Season2====Season2====Season2====Season2====Season2
+&font(16px,b,u,black){Season2}
+***&font(25px,#f9f){&icon_fa(fa fa-user-secret)} ギャング服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#666):~&blankimg(S2_868大型服.png,x=120,y=240)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~868大型服|
+|&font(12px){868の冬の大型服&br()S2初期服}|
+#endregion(S2ギャング)
+//
+***&font(25px,#999){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#666):~&blankimg(S2_私服01.png,x=120,y=240)|
+|CENTER:BGCOLOR(#999):COLOR(#FFF):~私服01|
+|&font(12px){}|
+#endregion(S2日常服)
+//
+//
+//Season2から画像のアス比を1:2に変更
+//
+//↓テンプレート
+//|CENTER:BGCOLOR(#666):~&blankimg(S2_私服01.png,x=120,y=240)|
+//|CENTER:BGCOLOR(#999):COLOR(#FFF):~その服の名前|
+//|&font(12px){その服の説明}|
+//

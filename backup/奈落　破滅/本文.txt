@@ -1,0 +1,186 @@
+*&font(#FFA0C8){&icon_fa(fa fa-user)} プロフィール
+&image(S2.jpg,y=360)
+
+#region(Season1の画像：開く,close)&bold(){その他の画像：閉じる}
+#slide_img(auto=4,position=left,width=300,height=380){破滅（新）.jpg,
+破滅メイド.jpg,パージデー.jpg,9055.jpg,体験.jpg,衣替え.webp,ライブ歌唱.png
+
+
+}
+　　　　　　　　　　　　　　　　&small(){&openclose2(show=初期㊙️){&image(初期.jpg,y=400)}}　　　　　　　　　　　　　　　　
+#endregion(Season1の画像)
+//&image(/,y=400)
+
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#F172A3:#fff){名前=#ffadd6:#fff:b:center}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(ならく){奈落}　&ruby(はめつ){破滅}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|地図にない街|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|2005年05月03日 (&countup(2005/05/03,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年01月18日 (&countup(2025/01/18,yd)経過)|2026年01月14日 (&countup(2026/01/14,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|①【[[ロスランド]]】従業員 &small()　{(2025/03/11~)}&br() &small()②【[[PARADISE LOST]]】執事/メイド&small(){(2025/06/13~)}&br()&small(){&openclose2(show=過去の職業 ▼){&nbsp(br,3)【[[9055]]】メカニック&small(){ (2025/06/07～2025/08/26)}}}|-|
+|~バイト歴&br()（体験）|~&icon_fa(fa fa-star)|&small(){・[[9055]]&br()・窓拭き&br()・[[ミンミンボウ]]&br()・[[リーさん>>渡戸　リー]]の牧場&br()・[[GroobyBabyCafe]]&br()・[[ロスランド]]&br()・[[FOWK]]自販機補充&br()・[[猫カフェ武蔵]]&br()・[[JTS>>ジョアンナテクノサービス]]&br()・[[PARADISE LOST]]&br()・[[ロスサントス救急救命隊]] &small(){(2日間終了)}}|-|
+|~ペット|~&icon_fa(fas fa-cat)|名前：つらら（Orange American Cat）&br()&small()お迎え &small(){2025/02/11～}&openclose2(show=▼ 写真){&image(つらら.jpg,y=180)}|-|
+|~所属|~&icon_fa(fa fa-users)|レーシングチーム&br()【Un Miracle Awakers】&small()&small(){2025/04/11～}|-|
+|~レーサー名|~&icon_fa(fas fa-car)|[UMA]Storm of Darkness&openclose2(show=▼ 写真){&image(うま.jpg,y=180)}|-|
+|~TwiX|~&icon_fa(fa fa-dove)|@奈落破滅|@narakuhametsu|
+|BGCOLOR(#ffadd6):~&color(#fff){プレイヤー}|BGCOLOR(#ffadd6):COLOR(#fff):~&icon_fa(fa fa-headphones)|>|窓付き＠|
+|BGCOLOR(#ffadd6):~&color(#fff){告知等}|BGCOLOR(#ffadd6):COLOR(#fff):&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/madotsuki_]]|
+|BGCOLOR(#ffadd6):~&color(#fff){配信場所&s()}|BGCOLOR(#ffadd6):COLOR(#fff):&icon_fa(fa fa-video-camera)|>| &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/madotsuki_twitch]]|
+|BGCOLOR(#ffadd6):~&color(#fff){公式切り抜き}|BGCOLOR(#ffadd6):COLOR(#fff):&icon_fa(fa fa-cut)|>| &font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@madotsuki_channel/videos]]|
+//|ガイドライン|[[ガイドライン>>ここにガイドラインのURLを入力]]|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&font(#FFA0C8){&icon_fa(fa-regular fa-address-card)} 基本情報
+-異世界の治安の悪い町からの転生者。
+--騙されやすく、友人の保証人になったり、宗教にも7つ入っていた。
+--代表はアイスクリーム教。
+--７億の借金（友人の肩代わり）を背負い、そのせいで悪い人たちに殺されてしまった。&openclose2(show=▼注){&br()相手は4歳の子供の時の[[聖母　れりあ]]だと街に来て43日目で判明}
+--力がなくて殺されたので、この街に来て力をつけたいと思っている。
+-歌う事が好きで、ライブイベントには出演したいと常々思っている。
+-破れている服は前の街の最新流行クールビズファッションであり、アイデンティティ。
+--&s(){初対面の人には高い確率で服装をいじられる。}　味がしなくなったため衣替え。
+-方向音痴である。
+-運転技術が壊滅的。
+-ピンク色が好き。
+-両声類
+-初プリズン行きは、2025年9月6日 軍事物資強奪にて。&openclose2(show=▼){&image(プリズン.png,y=110)}
+*&font(#FFA0C8){&icon_fa(fa-solid fa-users)} 交友関係
+&small(){編集ページは[[こちら>>奈落　破滅/交友関係]]}
+**&underdot(#ffadd6,3px){&font(22){Season 1}}
+#include(奈落　破滅/交友関係)
+**&underdot(#ffadd6,3px){&font(22){Season 2}}
+#Region(開く)
+#EndRegion
+*&font(#FFA0C8){&icon_fa(fa-solid fa-car)} 所有車両
+#region(Season1,close)&bold(){Season1}
+#table_style(head=center:#fccae3)
+#table_filter{車名=show,種類=show,購入日=show,色=show,備考=show}
+|~車名|~種類|~購入日|~色|~備考|h
+|&icon_fa(fa fa-car-side)&s(){[[Brioso 300>>https://w.atwiki.jp/gtav/?cmd=word&word=buriosso&pageid=2657]]}|コンパクト|2025/01/18|ピンク|[[プラネットモータース]]にて[[ロイさん>>ロイ　マーチングナンバー]]から購入|
+|&icon_fa(fa fa-car-side)[[RAPID GT>>https://w.atwiki.jp/gtav/pages/291.html]]|スポーツ|2025/02/15|ピンク|[[大川自動車販売(有)]]にて[[ねずみ さん>>えぐち　きの子]]から購入|
+|&icon_fa(fa fa-car-side)[[Flash GT>>https://w.atwiki.jp/gtav/pages/1954.html]]|スポーツ|2025/04/06|ピンク|[[EDEN]]にて[[花沢　まるん]]さんから購入|
+|&icon_fa(fa fa-motorcycle)&s(){[[Faggio Sport>>https://w.atwiki.jp/gtav/pages/1657.html]]}|スクーター|2025/04/15|ピンク|[[菖光モータース]]にて[[菖蒲　光樹]]さんから購入|
+|&icon_fa(fa fa-car-side)Pegassi Toros CTX|SUV|2025/07/10|カスタム色|第46回 抽選販売にて当選（4億 ※街に2台しかない）|
+|&icon_fa(fa fa-motorcycle)[[Shinobi>>https://w.atwiki.jp/gtav/?cmd=word&word=sinobi&pageid=2738]]|スポーツ|2025/07/22|ピンク|[[菖光モータース]]にて[[斎藤　まさのり]]さんから購入|
+|&icon_fa(fa fa-car-side)[[Tropos Rallye>>https://w.atwiki.jp/gtav/?cmd=word&word=Tropos&pageid=1642]]|スポーツ|2025/07/22|カスタム色|[[9055]]社長の[[月乃　えるな]]さんから就職お祝い|
+|&icon_fa(fa fa-helicopter)[[Frogger>>https://w.atwiki.jp/gtav/pages/644.html]]|定員4人|2025/07/24|ピンク|[[豆おじさんのエアークラフト]]にて[[豆　やん]]さんから購入|
+|&icon_fa(fa fa-car-side)[[Speedo Express>>https://www.gta5-mods.com/vehicles/vapid-speedo-express-add-on-liveries]]|Van|2025/08/13|ピンク|[[プラネットモータース]]にて[[ロイさん>>ロイ　マーチングナンバー]]から購入|
+|&icon_fa(fa fa-car-side)Snowmobile（中古）|オフロード|2025/08/14||[[聖母　れりあ]]から売価500万のものを1億で購入※裁判を検討中|
+|&icon_fa(fa fa-car-side)Peanuts|コンパクト|2025/08/20|ピンク|[[プラネットモータース]]にて[[伊勢　えびす]]さんから購入|
+|&icon_fa(fa fa-car-side)[[Ignus>>https://w.atwiki.jp/gtav/pages/2723.html]]|スポーツ|2025/08/28|カスタム色|[[大川自動車販売(有)]]にて[[ねずみ さん>>えぐち　きの子]]（ねずローン）から購入|
+#endregion
+#region(Season2,open)&bold(){Season2}
+#table_style(head=center:#fccae3)
+#table_filter{車名=show,種類=show,購入日=show,色=show,備考=show}
+|~車名|~種類|~購入日|~色|~備考|h
+|&icon_fa(fa fa-car-side)Dinka Urban AT|コンパクト|2026/01/14|シルバー|[[無人車両販売所]]から購入|
+#endregion
+*&font(#FFA0C8){&icon_fa(fa-solid fa-book)} エピソード
+***&size(120%){&bgcolor(#fccae3){&nbsp()&font(b,#666,90%){&space(2)Season 1}&space(47)}}
+#region(※ スタート時の中の人のＸポスト)閉じる
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; アカウント名 (@madotsuki_) <a href="https://twitter.com/madotsuki_/status/1878411643639705778">午後9:00 · 2025年1月12日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion()
+#region(※ 終了後の中の人のＸポスト)閉じる
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; アカウント名 (@madotsuki_) <a href="https://twitter.com/madotsuki_/status/1969835652243206513">午前3:46 · 2025年9月22日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion()
+***2025年
+#region(開く)閉じる
+&small(){編集ページ【2025年 - Season1】[[1月〜6月>>奈落　破滅/エピソード2025上半期]]／[[7月〜9月>>奈落　破滅/エピソード〜Season1]]}
+#include(奈落　破滅/エピソード2025上半期)
+#include(奈落　破滅/エピソード〜Season1)
+#endregion
+***&size(120%){&bgcolor(#fccae3){&nbsp()&font(b,#666,90%){&space(2)Season 2}&space(47)}}
+&small(){編集ページは[[こちら>>奈落　破滅/2026EP①]]}
+***2026年
+#region(1月,open)&bold(){1月}
+****01/14[[【#ストグラ Season2 1日目】無事転送されたか！？【窓付き＠ / 奈落 破滅】>>https://www.twitch.tv/videos/2669736558]]
+#region(開く,open)
+-[[全人類転送ミッション]]が成功したようで新しい？アパートで目覚める。
+--所持金は現金が5万、銀行に50万だった。
+--外へ出て歩いてレギオンへ向かってみる。
+-レギオンで第一街人の[[星ノ　みこ]]に会う。
+-次に会った[[堕夜　だよ]]に街の情報を教えてもらう。
+-レギオン隣の[[サニーケバブ]]へ行き飲食物を買う。
+-前の世界でメカニックだった人達を探しに[[星ノ　みこ]]にタクシーを頼み、[[JTS>>ジョアンナテクノサービス]]へ行く。
+--懐かしい面々に会い連絡先を交換する。
+--[[もり　るんるん]]からお金を貯めるために窓拭きバイトを勧められる。
+-窓拭きバイトをするため8217番地に[[ゆちゃ　めろでぃ]]のタクシーで向かう。
+--新規住民の[[萌愛　くしゅり]]と一緒にやることになり挨拶をする。
+--ちょうど来た[[山田　カイキ]]と3人で窓拭きバイトを2回した。
+-[[萌愛　くしゅり]]に8167番地の[[無人車両販売所]]へ送ってもらう。
+--原付を買おうとしたが[[萌愛　くしゅり]]が車を買ってくださいと80万くれた。
+--街に来た時、皆に優しくしてもらい新しく来た人には優しくしてあげてねと言われたからという。
+--買い方も教わり初日にして車を購入した。
+--[[萌愛　くしゅり]]に「Dinka Urban AT」は歪みで助手席に人を乗せられないから、やめた方がいいと言われたのに破滅は間違えたのかそれを140万円で購入してしまった。
+-レギオンで[[パン　チャン]]と[[月乃　えるな]]に会い、[[9055]]を再建する方向で動いていると聞いた。
+--[[パン　チャン]]と[[月乃　えるな]]と3人で窓拭きバイトへ向かう。
+--[[パン　チャン]]の車について行くと交差点で止まった[[パン　チャン]]の車に衝突したところにちょうど警察が居て、破滅は[[ミン　ドリー]]に前方不注意で罰金（初犯なので半額10万）を支払った。
+--3人で窓拭きバイトを楽しく話しながらする。
+--破滅の車がレッカーされたため9153番地の南署のインパウンド場へ乗せて行ってもらい、その後車の保険会社に連れて行ってもらい車両保険に加入した。
+--[[ちゃんもも>>豆乳　ちゃんもも]]からメッセージが来ていたので電話をかけ折り返し電話がくる。
+--新しいメイドカフェ[[らすぱら>>LastJump in ParadiseLost]]をやっていて、ぜひまた「はめにゃん」に一緒に働いてもらえたら嬉しいなと言ってくれた。
+--窓拭きが終わり[[パン　チャン]]と[[月乃　えるな]]と8170番地の[[わんも〜Cafe]]へ行く。
+-[[ちゃんもも>>豆乳　ちゃんもも]]と待ち合わせのためレギオンへ行く。
+--[[ちゃんもも>>豆乳　ちゃんもも]]と再会し一緒に新しいメイドカフェを見に行く。
+--店内を案内してもらうととても雰囲気のいい感じだった。
+--[[ちゃんもも>>豆乳　ちゃんもも]]は吐息が今の店には足りてないと言い、破滅はじゃあ頑張るかと改めてよろしくとなった。詳しくは次回に持ち越しになる。
+-再度[[サニーケバブ]]へ買い物に行き、店員の[[惑朽　ルーシー]]と出会う。
+--「まどさん」と呼ぶことになり連絡先を交換、破滅は何故か既視感を覚え笑ってしまった。
+-レギオンにひとりで居ると、お兄さん！と怪しい人に声をかけられる。
+--暇ですと言うと乗りませんか？と車に乗り込み、拉致ですか？と聞くとドライブだと言われた。
+--アミューズメントパークを案内したくてと仮面をつけた二人組、[[ウサギさん>>畳　かえる]]と[[お馬さん>>神田　じぇいのすけ]]に連れまわされる。
+--嫌な予感を感じつつ、ついていくが途中で[[お馬さん>>神田　じぇいのすけ]]がダウンしてしまったため、[[ウサギさん>>畳　かえる]]にレギオンまで送られた。
+-就寝しようと思いアパートに戻り、また外に出た時にクセの強い[[タイフーン　捨山]]に出会い、これまたクセのある自己紹介を受け連絡先を交換する。
+-最後また窓拭きバイトへ行き、アパートへ帰宅。
+-懐かしい人との再会や新しい人との出会いなどを振り返りながら就寝する。
+#endregion
+----
+#endregion(1月)
+#region(3月,open)&bold(){3月}
+
+#endregion(3月)
+
+#co{↓コピー用素材
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+
+#endregion
+----
+
+
+#endregion(mm月)
+}
+*&font(#FFA0C8){&icon_fa(fa-brands fa-twitch)} アーカイブ
+&small(){編集ページは[[こちら>>奈落　破滅/アーカイブ]]}
+#include(奈落　破滅/アーカイブ)
+#co{⬇️コピー用
+
+#region(mm月)&b(){mm月}
+#table_style(head=center:#fccae3:#888888){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+⬆️}
+*&font(#FFA0C8){&icon_fa(fa-brands fa-twitch)} ストグラ関連コラボアーカイブ
+#table_style(head=center:#fccae3:#888888){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/07/07|01|[[#ストグラ 同期組でガーティックフォンやります！🎨>>https://www.twitch.tv/videos/2506021924]]|アーカイブ期限あり|
+*&font(#FFA0C8){&icon_fa(fa fa-youtube-play)} 公式切り抜き
+#table_style(head=center:#fccae3:#888888){配信日=right,#=center}
+|~#|~配信タイトル|h
+|1|[[【NOLIMIT丘猫まると大ケンカ!?ギャングに物怖じせず高額商品を売る男奈落破滅】>>https://www.youtube.com/watch?v=pvQXdKQQD8Q]]|
+|2|[[【ストグラ】危険なキノコを追い求める男と出会いキマる愉しさを覚えてしまう奈落破滅【御薬キメ太郎/トウユン/ダミアン/渡戸リー/Dr.ギガ】>>https://www.youtube.com/watch?v=hwFl95tGylc]]|
+
+#right(){&link_up(🔝ページTOPへ）}

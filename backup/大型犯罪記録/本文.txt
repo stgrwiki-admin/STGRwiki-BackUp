@@ -1,0 +1,81 @@
+#center(){
+*&font(25px){大型犯罪記録}
+}&co(){centerプラグインの一部です}
+#center(){
+&font(b,18px,#000){日夜銃弾が飛び交う街、ロスサントス。&br()&br()その中でも凶悪な[[大型犯罪>https://w.atwiki.jp/streamergta5/pages/131.html#id_88a49e2f]]を記録しています。}
+}
+
+&bold(){有志の方、ご都合のつく際に編集協力をお願いいたします。}
+&font(10px,#F00){※2024-6-27現在、[[編集相談所]]のコメント欄にて本ページの意義について議論されております。&br()編集いただく際はPros/Consをご認識のうえ、議論の結果を尊重いただけますと幸いです。}
+
+各組織のメンバー、特色については[[こちら>ギャング]]から確認が可能です。
+
+※犯罪の成功判定は犯罪者視点に基づき、金品を回収出来たか否かで行っています。
+　◎：完全回収　○：部分回収　△：歪み発生　×：回収失敗
+※合同の場合、逮捕者は重複しています。
+//#include(大型犯罪記録/テンプレート)
+#region(テンプレート)
+**yyyy年m月
+***m月d日～d日
+#region(開く)
+#table_style(head=center:#EEE:12px){組織=11px:b:center, #=11px:center, ミッション=11px, 回収結果=11px, 犯人=11px, 警察=11px, 逮捕者数=11px, 開始時間=11px}
+|>|>|>|>|>|>|>|SIZE(14):COLOR(black):BGCOLOR(#EEE):LEFT:m月d日（aaa）|
+|~組織|~#|~ミッション|~回収結果|~犯人|~警察|~逮捕者数|~開始時間|
+|COLOR(white):BGCOLOR(#000000):MOZU|1|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|~|2|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|>|>|>|>|>|>|>|SIZE(1):COLOR(gray):BGCOLOR(#EEE):|
+|COLOR(white):BGCOLOR(#6495ed):GoodByeCircus|1|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|~|2|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|>|>|>|>|>|>|>|SIZE(1):COLOR(gray):BGCOLOR(#EEE):|
+|COLOR(white):BGCOLOR(#B45460):餡ブレラ|1|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|~|2|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|>|>|>|>|>|>|>|SIZE(1):COLOR(gray):BGCOLOR(#EEE):|
+|COLOR(white):BGCOLOR(#A1A3A6):ALLIN|1|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|~|2|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|>|>|>|>|>|>|>|SIZE(1):COLOR(gray):BGCOLOR(#EEE):|
+|COLOR(white):BGCOLOR(#FAA755):NOLIMIT|1|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|~|2|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|>|>|>|>|>|>|>|SIZE(1):COLOR(gray):BGCOLOR(#EEE):|
+|COLOR(white):BGCOLOR(#3F9877):麻陀羅組|1|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|~|2|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|>|>|>|>|>|>|>|SIZE(1):COLOR(gray):BGCOLOR(#EEE):|
+|COLOR(white):BGCOLOR(#ffb6c1):868|1|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+|~|2|○○|◎○△× &infobox(title=詳細,trigger=click,gravity=west,size=small,animation=fadein){(詳細)}|0人 &infobox(title=参加者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人 &infobox(title=出動者,trigger=click,gravity=west,size=small,animation=fadein){○○/○○}|0人|--：--|
+
+#table_style(head=center:#EEE:12px){組織=11px:b:center, #=11px:center, ミッション=11px, 回収結果=11px, 犯人=11px, 警察=11px, 逮捕者数=11px, 開始時間=11px}
+|>|>|>|>|>|>|>|SIZE(14):COLOR(black):BGCOLOR(#EEE):LEFT:m月d日（aaa）|
+|~組織|~#|~ミッション|~回収結果|~犯人|~警察|~逮捕者数|~開始時間|
+|>|>|>|>|>|>|>|COLOR(gray):BGCOLOR(#EEE):定休日|
+#endregion
+#endregion
+
+//{&bold(){※文字制限に引っかかるため月ごとに別ページ運用}}
+**2024年
+[[2024年3月>大型犯罪記録/2024年3月]]
+[[2024年4月>大型犯罪記録/2024年4月]]
+[[2024年5月>大型犯罪記録/2024年5月]]
+[[2024年6月>大型犯罪記録/2024年6月]]
+[[2024年7月>大型犯罪記録/2024年7月]]
+
+**2025年
+
+
+
+
+
+
+
+
+
+
+
+
+
+#right(){&link_up(🔝ページTOPへ)}
+
+#co{
+//2024年7月～ テンプレート更改
+//ヘッダー順の入れ替え・個人医、横取り、その他関係者の欄の追加
+//ページ負荷対策の為応急処置としてリンク紐づけ対応
+}
+&size(12){ページリンク｜2024年 [[3月>大型犯罪記録/2024年3月]] [[4月>大型犯罪記録/2024年4月]] [[5月>大型犯罪記録/2024年5月]] [[6月>大型犯罪記録/2024年6月]] [[7月>大型犯罪記録/2024年7月]]}
