@@ -3,6 +3,7 @@ import re
 import base64
 import random
 import time
+import json
 import requests
 from pathlib import Path
 from nacl.public import PublicKey, SealedBox
@@ -21,15 +22,24 @@ GITHUB_REPOSITORY = os.environ["GITHUB_REPOSITORY"]
 # バックアップ保存先
 BACKUP_ROOT = Path("backup")
 
+# 途中再開用
+STATE_FILE = BACKUP_ROOT / ".backup_state.json"
+
 # ページ一覧取得設定
 PAGE_LIST_MAX_RETRIES = 10
 
 # 本文取得設定
 SOURCE_MAX_RETRIES = 8
 
-# APIへの連続アクセスを避けるための待機時間
+# APIへの連続アクセスを避ける
 PAGE_LIST_DELAY = 3.0
 SOURCE_DELAY = 0.5
+
+# 429で待つ最大時間
+MAX_RETRY_WAIT = 60
+
+# Retry-Afterがこれを超えたら、その回は終了して次回に回す
+MAX_ACCEPTABLE_RETRY_AFTER = 300
 
 
 def refresh_access_token():
@@ -71,7 +81,6 @@ def update_github_secret(new_refresh_token):
 
     owner, repo = GITHUB_REPOSITORY.split("/", 1)
 
-    # GitHub Actions Secret用の公開鍵を取得
     response = requests.get(
         f"https://api.github.com/repos/{owner}/{repo}/actions/secrets/public-key",
         headers=headers,
@@ -85,16 +94,16 @@ def update_github_secret(new_refresh_token):
         base64.b64decode(public_key_data["key"])
     )
 
-    # LibSodium sealed boxで暗号化
     sealed_box = SealedBox(public_key)
 
     encrypted = sealed_box.encrypt(
         new_refresh_token.encode("utf-8")
     )
 
-    encrypted_value = base64.b64encode(encrypted).decode("utf-8")
+    encrypted_value = base64.b64encode(
+        encrypted
+    ).decode("utf-8")
 
-    # GitHub Secretを更新
     response = requests.put(
         f"https://api.github.com/repos/{owner}/{repo}/actions/secrets/ATWIKI_REFRESH_TOKEN",
         headers=headers,
@@ -110,29 +119,109 @@ def update_github_secret(new_refresh_token):
     print("GitHub refresh token secret updated.")
 
 
-def calculate_wait_time(attempt, response=None, base_wait=10):
+def load_state():
+    if not STATE_FILE.exists():
+        print("No backup state found. Starting fresh.")
+        return {}
+
+    try:
+        state = json.loads(
+            STATE_FILE.read_text(
+                encoding="utf-8"
+            )
+        )
+
+        print(
+            f"Backup state loaded: "
+            f"{len(state)} pages"
+        )
+
+        return state
+
+    except Exception as e:
+        print(
+            f"Warning: failed to load backup state: {e}"
+        )
+
+        return {}
+
+
+def save_state(state):
+    BACKUP_ROOT.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    temporary_file = (
+        BACKUP_ROOT / ".backup_state.tmp"
+    )
+
+    temporary_file.write_text(
+        json.dumps(
+            state,
+            ensure_ascii=False,
+            indent=2
+        ),
+        encoding="utf-8"
+    )
+
+    temporary_file.replace(STATE_FILE)
+
+
+def calculate_wait_time(
+    attempt,
+    response=None,
+    base_wait=10
+):
     """
-    Retry-After があればそれを優先。
-    なければ段階的に待機。
+    Retry-Afterを確認する。
+    ただし長すぎる待機はそのまま使用しない。
     """
+
+    retry_after = None
 
     if response is not None:
-        retry_after = response.headers.get("Retry-After")
+        retry_after = response.headers.get(
+            "Retry-After"
+        )
 
-        if retry_after:
-            try:
-                return max(1, int(float(retry_after)))
-            except ValueError:
-                pass
+    if retry_after:
+        try:
+            retry_after = float(
+                retry_after
+            )
 
-    # 10, 20, 40, 80... 秒
-    wait_time = base_wait * (2 ** attempt)
+            print(
+                f"   Retry-After reported: "
+                f"{retry_after:.1f} seconds"
+            )
 
-    # 最大5分
-    wait_time = min(wait_time, 300)
+            # 長すぎる場合は呼び出し側で終了判断
+            if retry_after > MAX_ACCEPTABLE_RETRY_AFTER:
+                return retry_after
 
-    # 少しランダム化して同時アクセスを避ける
-    jitter = random.uniform(0, 3)
+            return min(
+                retry_after,
+                MAX_RETRY_WAIT
+            )
+
+        except ValueError:
+            pass
+
+    # 10, 20, 40, 80...
+    wait_time = base_wait * (
+        2 ** attempt
+    )
+
+    wait_time = min(
+        wait_time,
+        MAX_RETRY_WAIT
+    )
+
+    jitter = random.uniform(
+        0,
+        3
+    )
 
     return wait_time + jitter
 
@@ -148,6 +237,7 @@ def get_all_pages(access_token):
     cursor = None
 
     while True:
+
         params = {
             "limit": 100
         }
@@ -157,9 +247,14 @@ def get_all_pages(access_token):
 
         success = False
 
-        for attempt in range(PAGE_LIST_MAX_RETRIES):
+        for attempt in range(
+            PAGE_LIST_MAX_RETRIES
+        ):
+
             print(
-                f"   Attempt {attempt + 1}/{PAGE_LIST_MAX_RETRIES}: "
+                f"   Attempt "
+                f"{attempt + 1}/"
+                f"{PAGE_LIST_MAX_RETRIES}: "
                 f"requesting page list..."
             )
 
@@ -170,37 +265,70 @@ def get_all_pages(access_token):
                 timeout=30,
             )
 
-            print(f"   HTTP Status: {response.status_code}")
+            print(
+                f"   HTTP Status: "
+                f"{response.status_code}"
+            )
 
             if response.status_code == 429:
-                wait_time = calculate_wait_time(
-                    attempt,
-                    response,
-                    base_wait=10,
+
+                wait_time = (
+                    calculate_wait_time(
+                        attempt,
+                        response,
+                        base_wait=10,
+                    )
                 )
+
+                # 長すぎる場合は異常終了
+                # ではなく、その回の処理を止める
+                if wait_time > MAX_ACCEPTABLE_RETRY_AFTER:
+
+                    print(
+                        "   429 Retry-After is too long: "
+                        f"{wait_time:.1f} seconds"
+                    )
+
+                    print(
+                        "   Page list retrieval will "
+                        "stop for this run."
+                    )
+
+                    return None
 
                 print(
                     f"   Rate limit reached. "
-                    f"Waiting {wait_time:.1f} seconds..."
+                    f"Waiting "
+                    f"{wait_time:.1f} seconds..."
                 )
 
-                time.sleep(wait_time)
+                time.sleep(
+                    wait_time
+                )
+
                 continue
 
             response.raise_for_status()
 
             success = True
+
             break
 
         if not success:
-            raise Exception(
-                "Page list API rate limit: "
-                f"{PAGE_LIST_MAX_RETRIES} retries failed"
+
+            print(
+                "Page list retrieval "
+                "could not continue."
             )
+
+            return None
 
         data = response.json()
 
-        items = data.get("items", [])
+        items = data.get(
+            "items",
+            []
+        )
 
         pages.extend(items)
 
@@ -209,29 +337,41 @@ def get_all_pages(access_token):
             f"{len(pages)} pages retrieved"
         )
 
-        cursor = data.get("next_cursor")
+        cursor = data.get(
+            "next_cursor"
+        )
 
         if not cursor:
             break
 
-        print("   Next cursor received.")
+        print(
+            "   Next cursor received."
+        )
 
-        # 次のページ一覧取得まで待つ
-        time.sleep(PAGE_LIST_DELAY)
+        time.sleep(
+            PAGE_LIST_DELAY
+        )
 
     print(
-        f"4. Page list complete: {len(pages)} pages"
+        f"4. Page list complete: "
+        f"{len(pages)} pages"
     )
 
     return pages
 
 
-def get_page_source(access_token, page_id):
+def get_page_source(
+    access_token,
+    page_id
+):
     headers = {
         "Authorization": f"Bearer {access_token}"
     }
 
-    for attempt in range(SOURCE_MAX_RETRIES):
+    for attempt in range(
+        SOURCE_MAX_RETRIES
+    ):
+
         response = requests.get(
             f"{API_BASE}/pages/{page_id}",
             headers=headers,
@@ -239,18 +379,42 @@ def get_page_source(access_token, page_id):
         )
 
         if response.status_code == 429:
-            wait_time = calculate_wait_time(
-                attempt,
-                response,
-                base_wait=10,
+
+            wait_time = (
+                calculate_wait_time(
+                    attempt,
+                    response,
+                    base_wait=10,
+                )
             )
+
+            # 長すぎるRetry-Afterなら
+            # 無理に待たずに次回へ回す
+            if wait_time > MAX_ACCEPTABLE_RETRY_AFTER:
+
+                print(
+                    f"   429 for page {page_id}. "
+                    f"Retry-After is too long: "
+                    f"{wait_time:.1f} seconds."
+                )
+
+                print(
+                    "   This page will be retried "
+                    "on the next workflow run."
+                )
+
+                return None
 
             print(
                 f"   429 for page {page_id}. "
-                f"Waiting {wait_time:.1f} seconds..."
+                f"Waiting "
+                f"{wait_time:.1f} seconds..."
             )
 
-            time.sleep(wait_time)
+            time.sleep(
+                wait_time
+            )
+
             continue
 
         response.raise_for_status()
@@ -259,27 +423,25 @@ def get_page_source(access_token, page_id):
 
         return data["source"]
 
-    raise Exception(
-        f"API rate limit: "
-        f"page_id={page_id}, "
-        f"{SOURCE_MAX_RETRIES} retries failed"
+    print(
+        f"   Page {page_id}: "
+        f"maximum retries reached."
     )
+
+    return None
 
 
 def safe_filename(name):
-    """
-    Windows/GitHub上で問題になる文字を置換。
-    """
-
     name = re.sub(
         r'[<>:"/\\|?*]',
         "＿",
         name,
     )
 
-    name = name.strip().rstrip(". ")
+    name = name.strip().rstrip(
+        ". "
+    )
 
-    # Windows予約名対策
     reserved_names = {
         "CON",
         "PRN",
@@ -311,19 +473,28 @@ def safe_filename(name):
     return name or "_"
 
 
-def save_page(page, source):
+def save_page(
+    page,
+    source
+):
     page_name = page["pagename"]
 
-    safe_name = safe_filename(page_name)
+    safe_name = safe_filename(
+        page_name
+    )
 
-    directory = BACKUP_ROOT / safe_name
+    directory = (
+        BACKUP_ROOT / safe_name
+    )
 
     directory.mkdir(
         parents=True,
         exist_ok=True,
     )
 
-    file_path = directory / "本文.txt"
+    file_path = (
+        directory / "本文.txt"
+    )
 
     file_path.write_text(
         source,
@@ -333,57 +504,162 @@ def save_page(page, source):
     return file_path
 
 
+def page_is_already_backed_up(
+    state,
+    page
+):
+    page_id = str(
+        page["pageid"]
+    )
+
+    current_updated_at = page.get(
+        "updated_at"
+    )
+
+    saved_updated_at = state.get(
+        page_id
+    )
+
+    if (
+        saved_updated_at
+        and current_updated_at
+        and saved_updated_at
+        == current_updated_at
+    ):
+        return True
+
+    return False
+
+
 def main():
-    print("================================")
-    print("STGR Wiki Backup Start")
-    print("================================")
+
+    print(
+        "================================"
+    )
+
+    print(
+        "STGR Wiki Backup Start"
+    )
+
+    print(
+        "================================"
+    )
 
     # --------------------------------
     # OAuth
     # --------------------------------
 
-    token_data = refresh_access_token()
+    token_data = (
+        refresh_access_token()
+    )
 
-    access_token = token_data["access_token"]
+    access_token = (
+        token_data["access_token"]
+    )
 
-    # Refresh Token Rotation対応
-    new_refresh_token = token_data.get("refresh_token")
+    # Refresh Token Rotation
+    new_refresh_token = (
+        token_data.get(
+            "refresh_token"
+        )
+    )
 
     if new_refresh_token:
-        print("New refresh token received.")
+
+        print(
+            "New refresh token received."
+        )
 
         update_github_secret(
             new_refresh_token
         )
 
     # --------------------------------
+    # State
+    # --------------------------------
+
+    state = load_state()
+
+    # --------------------------------
     # ページ一覧
     # --------------------------------
 
-    pages = get_all_pages(access_token)
+    pages = get_all_pages(
+        access_token
+    )
+
+    if pages is None:
+
+        print(
+            "================================"
+        )
+
+        print(
+            "Page list retrieval paused."
+        )
+
+        print(
+            "This workflow run will end."
+        )
+
+        print(
+            "================================"
+        )
+
+        return
 
     print(
-        f"Total pages to backup: {len(pages)}"
+        f"Total pages to backup: "
+        f"{len(pages)}"
     )
 
     # --------------------------------
     # 本文取得
     # --------------------------------
 
-    print("5. Starting page source backup")
+    print(
+        "5. Starting page source backup"
+    )
 
     saved_count = 0
+    skipped_count = 0
+
+    interrupted = False
 
     for index, page in enumerate(
         pages,
         start=1,
     ):
-        page_name = page["pagename"]
-        page_id = page["pageid"]
+
+        page_name = page[
+            "pagename"
+        ]
+
+        page_id = page[
+            "pageid"
+        ]
+
+        # 既に同じ更新日時のページなら
+        # APIアクセスしない
+        if page_is_already_backed_up(
+            state,
+            page
+        ):
+
+            skipped_count += 1
+
+            print(
+                f"[{index}/{len(pages)}] "
+                f"Skipped: "
+                f"{page_name}"
+            )
+
+            continue
 
         print(
             f"[{index}/{len(pages)}] "
-            f"Fetching: {page_name} "
+            f"Fetching: "
+            f"{page_name} "
             f"(page_id={page_id})"
         )
 
@@ -392,9 +668,49 @@ def main():
             page_id,
         )
 
+        # 429等で今回は取得できなかった
+        if source is None:
+
+            print(
+                "================================"
+            )
+
+            print(
+                f"Backup paused at "
+                f"{index}/{len(pages)}"
+            )
+
+            print(
+                f"Page: {page_name}"
+            )
+
+            print(
+                "The next workflow run "
+                "will continue."
+            )
+
+            print(
+                "================================"
+            )
+
+            interrupted = True
+
+            break
+
         file_path = save_page(
             page,
             source,
+        )
+
+        # 成功したページを即座に記録
+        state[
+            str(page_id)
+        ] = page.get(
+            "updated_at"
+        )
+
+        save_state(
+            state
         )
 
         saved_count += 1
@@ -403,15 +719,57 @@ def main():
             f"   Saved: {file_path}"
         )
 
-        # APIへの連続アクセスを避ける
-        time.sleep(SOURCE_DELAY)
+        time.sleep(
+            SOURCE_DELAY
+        )
 
-    print("================================")
-    print("Backup complete")
+    # --------------------------------
+    # 結果
+    # --------------------------------
+
     print(
-        f"Pages saved: {saved_count}/{len(pages)}"
+        "================================"
     )
-    print("================================")
+
+    if interrupted:
+
+        print(
+            "Backup paused"
+        )
+
+        print(
+            f"New pages saved: "
+            f"{saved_count}"
+        )
+
+        print(
+            f"Pages skipped: "
+            f"{skipped_count}"
+        )
+
+        print(
+            "Progress has been saved."
+        )
+
+    else:
+
+        print(
+            "Backup complete"
+        )
+
+        print(
+            f"New/updated pages saved: "
+            f"{saved_count}"
+        )
+
+        print(
+            f"Pages skipped: "
+            f"{skipped_count}"
+        )
+
+    print(
+        "================================"
+    )
 
 
 if __name__ == "__main__":
