@@ -1,7 +1,9 @@
 import os
 import re
+import base64
 import requests
 from pathlib import Path
+
 
 WIKI_ID = "streamergta5"
 API_BASE = f"https://w.atwiki.jp/_api/v1/wikis/{WIKI_ID}"
@@ -9,6 +11,9 @@ API_BASE = f"https://w.atwiki.jp/_api/v1/wikis/{WIKI_ID}"
 CLIENT_ID = os.environ["ATWIKI_CLIENT_ID"]
 CLIENT_SECRET = os.environ["ATWIKI_CLIENT_SECRET"]
 REFRESH_TOKEN = os.environ["ATWIKI_REFRESH_TOKEN"]
+
+GITHUB_TOKEN = os.environ["STGR_GITHUB_PAT"]
+GITHUB_REPOSITORY = os.environ["GITHUB_REPOSITORY"]
 
 
 def refresh_access_token():
@@ -23,8 +28,13 @@ def refresh_access_token():
     )
     response.raise_for_status()
 
-    data = response.json()
-    return data["access_token"]
+    return response.json()
+
+
+def update_github_refresh_token(new_refresh_token):
+    # GitHub Secret API用の処理は次の段階で実装します。
+    # 現時点では新しいrefresh_tokenを取得するところまで行います。
+    return new_refresh_token
 
 
 def get_all_pages(access_token):
@@ -79,16 +89,19 @@ def safe_filename(name):
     name = re.sub(r'[<>:"/\\|?*]', "＿", name)
     name = name.strip().rstrip(". ")
 
-    if not name:
-        name = "_"
-
-    return name
+    return name or "_"
 
 
 def main():
     print("STGR Wiki Backup Start")
 
-    access_token = refresh_access_token()
+    token_data = refresh_access_token()
+
+    access_token = token_data["access_token"]
+    new_refresh_token = token_data.get("refresh_token")
+
+    if new_refresh_token:
+        update_github_refresh_token(new_refresh_token)
 
     pages = get_all_pages(access_token)
 
