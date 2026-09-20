@@ -176,14 +176,18 @@ def main():
     print(f"Pages: {len(pages)}")
 
     # 各ページを保存
-    for page in pages:
-        page_name = page["pagename"]
-        page_id = page["pageid"]
+    import time
 
-        source = get_page_source(
-            access_token,
-            page_id
-        )
+for page in pages:
+    page_name = page["pagename"]
+    page_id = page["pageid"]
+
+    source = get_page_source(
+        access_token,
+        page_id
+    )
+
+    time.sleep(0.2)
 
         directory = Path(
             safe_filename(page_name)
