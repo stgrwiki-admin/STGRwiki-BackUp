@@ -3,6 +3,7 @@ import re
 import base64
 import requests
 from pathlib import Path
+from nacl.public import PublicKey, SealedBox
 
 
 WIKI_ID = "streamergta5"
@@ -31,10 +32,52 @@ def refresh_access_token():
     return response.json()
 
 
-def update_github_refresh_token(new_refresh_token):
-    # GitHub Secret API用の処理は次の段階で実装します。
-    # 現時点では新しいrefresh_tokenを取得するところまで行います。
-    return new_refresh_token
+def update_github_secret(new_refresh_token):
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "X-GitHub-Api-Version": "2026-03-10",
+    }
+
+    owner, repo = GITHUB_REPOSITORY.split("/", 1)
+
+    # GitHub Actions Secret用の公開鍵を取得
+    response = requests.get(
+        f"https://api.github.com/repos/{owner}/{repo}/actions/secrets/public-key",
+        headers=headers,
+        timeout=30,
+    )
+    response.raise_for_status()
+
+    public_key_data = response.json()
+
+    public_key = PublicKey(
+        base64.b64decode(public_key_data["key"])
+    )
+
+    # LibSodium sealed boxで暗号化
+    sealed_box = SealedBox(public_key)
+
+    encrypted = sealed_box.encrypt(
+        new_refresh_token.encode("utf-8")
+    )
+
+    encrypted_value = base64.b64encode(encrypted).decode("utf-8")
+
+    # GitHub Secretを更新
+    response = requests.put(
+        f"https://api.github.com/repos/{owner}/{repo}/actions/secrets/ATWIKI_REFRESH_TOKEN",
+        headers=headers,
+        json={
+            "encrypted_value": encrypted_value,
+            "key_id": public_key_data["key_id"],
+        },
+        timeout=30,
+    )
+
+    response.raise_for_status()
+
+    print("GitHub refresh token secret updated.")
 
 
 def get_all_pages(access_token):
@@ -60,6 +103,7 @@ def get_all_pages(access_token):
         response.raise_for_status()
 
         data = response.json()
+
         pages.extend(data.get("items", []))
 
         cursor = data.get("next_cursor")
@@ -95,29 +139,47 @@ def safe_filename(name):
 def main():
     print("STGR Wiki Backup Start")
 
+    # アットウィキのアクセストークンを更新
     token_data = refresh_access_token()
 
     access_token = token_data["access_token"]
+
+    # 新しいrefresh tokenが発行された場合はGitHub Secretを更新
     new_refresh_token = token_data.get("refresh_token")
 
     if new_refresh_token:
-        update_github_refresh_token(new_refresh_token)
+        update_github_secret(new_refresh_token)
 
+    # 全ページ取得
     pages = get_all_pages(access_token)
 
     print(f"Pages: {len(pages)}")
 
+    # 各ページを保存
     for page in pages:
         page_name = page["pagename"]
         page_id = page["pageid"]
 
-        source = get_page_source(access_token, page_id)
+        source = get_page_source(
+            access_token,
+            page_id
+        )
 
-        directory = Path(safe_filename(page_name))
-        directory.mkdir(parents=True, exist_ok=True)
+        directory = Path(
+            safe_filename(page_name)
+        )
+
+        directory.mkdir(
+            parents=True,
+            exist_ok=True
+        )
 
         file_path = directory / "本文.txt"
-        file_path.write_text(source, encoding="utf-8")
+
+        file_path.write_text(
+            source,
+            encoding="utf-8"
+        )
 
         print(f"Saved: {page_name}")
 
