@@ -90,27 +90,59 @@ def get_all_pages(access_token):
     cursor = None
 
     while True:
-        params = {"limit": 100}
+        params = {
+            "limit": 100
+        }
 
         if cursor:
             params["cursor"] = cursor
 
-        response = requests.get(
-            f"{API_BASE}/pages",
-            headers=headers,
-            params=params,
-            timeout=30,
-        )
-        response.raise_for_status()
+        # 429対策
+        for attempt in range(10):
+            response = requests.get(
+                f"{API_BASE}/pages",
+                headers=headers,
+                params=params,
+                timeout=30,
+            )
+
+            if response.status_code == 429:
+                wait_time = 30 * (attempt + 1)
+
+                print(
+                    f"Page list rate limit reached. "
+                    f"Waiting {wait_time} seconds..."
+                )
+
+                time.sleep(wait_time)
+                continue
+
+            response.raise_for_status()
+            break
+
+        else:
+            raise Exception(
+                "Page list API rate limit: "
+                "10 retries failed"
+            )
 
         data = response.json()
 
-        pages.extend(data.get("items", []))
+        items = data.get("items", [])
+
+        pages.extend(items)
+
+        print(
+            f"Page list: {len(pages)} pages retrieved"
+        )
 
         cursor = data.get("next_cursor")
 
         if not cursor:
             break
+
+        # 次のページ一覧取得まで少し待つ
+        time.sleep(2)
 
     return pages
 
