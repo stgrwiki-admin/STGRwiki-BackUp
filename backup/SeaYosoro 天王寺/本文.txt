@@ -1,0 +1,81 @@
+&image(sea YOSORO 天王寺.jpeg,y=300)
+
+#table_style(head=#E0E0E0){}
+|~店名|&ruby(シーヨーソロー){&bold(){SeaYosoro}} &ruby(てんのうじ){&bold(){天王寺}}|
+|~業種|ボートディーラー|
+|~開業日|2024年03月01日|
+|~所在地|8226番地|
+|~社長|&bold(){[[天王寺　京司郎]]}|
+|~TwiX|@seayosoro|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・街に新たにできた２つ目のボートディーラー
+
+
+**従業員情報
+***従業員
+#table_style(head=center:#E0E0E0){名前=bold}
+|~役職|~名前|~就職日|~備考|h
+|社長|[[天王寺　京司郎]]|2024/03/01|兼業1:メカニック【[[JTS>ジョアンナテクノサービス]]】副社長&br()兼業2:航空機ディーラー【[[豆おじさんのエアークラフト]]】会長|
+|社員|[[豆　やん]]|2024/03/01|兼業1:メカニック【[[JTS>ジョアンナテクノサービス]]】マネージャー&br()兼業2:航空機ディーラー【[[豆おじさんのエアークラフト]]】社長|
+|社員|[[アラリル・アルシャバ・アルカ]]|？|兼業1:海上レストラン【[[Urashima]]】オーナー兼店長|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//アラリル・アルシャバ・アルカが宣伝画像作成者。画像の左から一人目の女性
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//***退職者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~就職日|~最終出勤日|~備考|h
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//***職業体験者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#FF7F7,odd=#FFFFFF}
+//
+
+**販売商品
+#table_style(head=center)
+|商品名|金額|
+|[[Seashark>>https://w.atwiki.jp/gtav/pages/584.html]]|6,500,000|
+|[[Seashark3>>https://w.atwiki.jp/gtav/pages/2941.html]]|6,500,000|
+|Nagasaki|45,000,000|
+|Shitzu|45,000,000|
+|[[Squalo>>https://w.atwiki.jp/gtav/pages/662.html]]|45,000,000|
+|[[Toro>>https://w.atwiki.jp/gtav/pages/1460.html]]|55,000,000|
+|[[Marquis>>https://w.atwiki.jp/gtav/pages/661.html]]|60,000,000|
+|[[Speeder>>https://w.atwiki.jp/gtav/pages/660.html]]|70,000,000|
+|[[Longfin>>https://w.atwiki.jp/gtav/pages/2676.html]]|85,000,000|
+
+
+
+//***メニュー画像
+//#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+//#endregion
+
+**沿革
+***2024年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|03/01|開業|豆やん　天王寺||
+//|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|mm/dd|出来事|関係者|エピソード・備考|
+#endregion
+
+
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,102 @@
+&image(串カツ山田_ロゴ.jpg,y=180)
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#ff3300:#F9FCFF){}
+|~店名|~&icon_fa(fa fa-store)|&bold(){串カツ山田}|
+|~業種|~&space()|居酒屋|
+|~開業日|~&icon_fa(fa fa-flag)|2025年7月2日&br()&small(){（&countup(2025/07/02,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|6179番地|
+|~店長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[山田　カイキ]]}|
+
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**&font(30px,#ff3300){基}&font(25px){本情報 &icon_fa(fa-regular fa-address-card)}
+-以前より自分の店を持ちたいと考えていたカイキがオープンした飲食店。
+-居酒屋っぽい雰囲気で数人がカウンター席に座り近況などを雑談をしていくような店を目指している。
+-店舗の内装は[[銭形　やいち郎]]に依頼した。
+**&font(30px,#ff3300){従}&font(25px){業員情報 &icon_fa(fa fa-users)}
+***従業員
+#table_style(head=center:#ff3300:#F9FCFF){名前=bold}
+|~役職|~名前|~就職日|~備考|h
+|店長|[[山田　カイキ]]|2025/07/02||
+|店員|[[家好　にーと]]|2025/07/02||
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+#co{
+//***職業体験者
+#table_style(head=center:#E0E0E0)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+}
+#co{
+//***退職者
+#table_style(head=center:#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+**&font(30px,#ff3300){商}&font(25px){品情報 &icon_fa(fa-solid fa-utensils)}
+***商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#ff3300:#F9FCFF){No.=center,価格=right,商品名=bold}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***メニュー画像
+//#region(,open)
+&blankimg(串カツ山田メニュー画像.jpeg,x=480,y=270)
+
+//#endregion
+#co(){
+***限定商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=center:#ff3300:#F9FCFF){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+//
+
+**&font(30px,#ff3300){沿}&font(25px){革 &icon_fa(fa-solid fa-clipboard-list)}
+***2025年
+#region(2025年,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#ff3300:#F9FCFF)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|07/02|串カツ山田オープン|[[山田　カイキ]]||
+|07/02|[[家好　にーと]]採用||当初はカイキ一人で回す予定だったが想定以上の忙しさに店員増やすことに|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

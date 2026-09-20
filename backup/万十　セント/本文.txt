@@ -1,0 +1,42 @@
+&image(万十　セント.png,y=500)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|&ruby(まんと　せんと){万十　セント}|
+|~出身地||
+|~誕生日|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|2023年09月10日 (&countup(2023/09/10,yd)経過)|
+|~職業|[[警察官>>ロスサントス警察]] &small(){2023/10/08～}&br()階級はGrade:1のOfficer(巡査長)&br()ハンバーガー屋「[[アイアンバーガー]]」|
+|~プレイヤー|ミタキ|
+|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){新Twitter @mitaki_00}>>https://x.com/mitaki_00]]&br()&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){旧Twitter @officialmitaki}>>https://twitter.com/officialmitaki]]|
+|~配信場所|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (mitaki0)}>>https://t.co/AzQMw5eDVd]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){新YouTube (@mitaki00)}>>https://www.youtube.com/@mitaki11]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){旧YouTube (@mitaki00)}>>https://t.co/Anvu5IPWwB]]|
+　
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・日本の鹿だったが、バスに轢かれそうになったときに急に視界が真っ白になり、気がついたら今の姿でこのロスサントスにいた。
+
+**エピソード
+***2023年
+#region(開く,open)
+****09/10　#1　1日目-万十 セントの目覚め
+#region(開く,open)
+・[[花沢　まるん]] → [[キラ・メキーラ]] → [[ヘラシギ]]に街案内してもらう。
+・[[ヘラシギ]]から免許教習を受けて普通自動車免許を取得する。
+#endregion
+
+#endregion(2023年)
+
+
+**アーカイブ
+***2023年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/09/10|1|&icon_fa(fa fa-twitch)&space(1)1日目-万十 セントの目覚め||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

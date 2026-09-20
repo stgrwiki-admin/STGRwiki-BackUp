@@ -1,0 +1,100 @@
+&image(コーヒーカフェ.jpeg,y=300)
+
+#table_style(head=#01714B:#0F0F0F)
+|~店名|&ruby(　){須藤バックスコーヒー}|
+|~業種|コーヒーカフェ(COFFEE CAFE)|
+|~開業日|2022年09月01日|
+|~所在地|8173番地|
+|~店長|[[須藤　冬馬]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**&size(25){&color(#0F0F0F){&size(35){&color(#01714B){基}}本情報 &color(#01714B){&icon_fa(fa fa-coffee)}}}
+・店舗名称は須藤バックスコーヒー(ビジネスアプリ内表記はスドーバックスコーヒー)
+・・(旧名称"Bean Machine")
+・コーヒーやお茶、ソフトドリンクの他、パンケーキなどの軽食を販売する仕事
+・提供する飲料類は飲むとストレスが和らぐので、タバコを吸わない人から需要がある
+・既存ドリンクはストレス軽減、オリジナルドリンクは水分補給ができる
+・注文の際は「ストレス軽減」と「水分補給」どちらの効能があるのか、店員に確認してからすると良い
+・毎週木曜日は、試乗会を終えた後の[[かな市長補佐]]がお店番をしている
+**&size(25){&color(#0F0F0F){&size(35){&color(#01714B){従}}業員情報 &color(#01714B){&icon_fa(fa fa-users)}}}
+***従業員
+#table_style(head=center:#E0E0E0)
+|~役職|~名前|~就職日|~備考|h
+|店長|[[須藤　冬馬]]|2022/09/01||
+|副店長|[[ウール　モフモフール]]|||
+|店員|[[仄々山　すごす]]|||
+|店員|[[葉時山　バジル]]|||
+|店員|[[菓子谷　尋]]|2023/04/09|再雇用2023/08/17|
+|店員|[[ウィル　ナイアー]]|2023/07/16|衛星外で再雇用。おそらく2024/01/18|
+|店員|[[化ケ　きつね]]|2023/08/09||
+|店員|[[かな市長補佐]]|2023/12/14|店が閉まっているのが嫌で[[店長>須藤　冬馬]]に直談判し就職|
+|店員|[[オルカ　トヴォロ]]|2023/12/16||
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+***退職者
+#table_style(head=center:#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|店員|[[ゴンザレス　マヌ太郎]]|2022/10/9|警察官になる為|
+|店員|[[鱈　タラオ]]|2023/08/21|久々の出勤で違法薬物をサービスしようとしてクビに|
+|店員|[[福田　明宏]]|2023/08/24|[[Violet Fizz]]で副店長として働く事になった為|
+|店員|[[サミュエル　佐藤]]|不明|黒落ちの為job整理でjobを捨てたため|
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//
+//***職業体験者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd||
+//#table_autoincrement()
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+**&size(25){&color(#0F0F0F){&size(35){&color(#01714B){販}}売商品 &color(#01714B){&icon_fa(fa fa-mug-hot)}}}
+・看板商品は[[仄々山　すごす]]&s(){の読み間違い}によって生み出されたオリジナルドリンク「もちゃ(mocha)」。
+・オリジナルメニューはラテやカプチーノなどのコーヒー類、ピーチティー等のソフトドリンク、マフィンやパンケーキなどの軽食。
+・コラボメニューは街の住人をイメージした商品である。
+・追加メニューには多くの料理や飲料がある。最近は、&s(){ファミリーレストラン}やカフェご飯のようなバラエティに富んだメニューになってきた。
+//***レギュラー商品
+//#region(,open)
+//#table_filter(){種類=show,価格=hide,備考=show}
+//#table_style(head=center:#E0E0E0)
+//|~種類|~商品名|~価格|~備考|h
+//|種類|商品名|価格|備考|
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+//#endregion
+//***オリジナル商品
+//#region(,open)
+//#table_filter(){No.=show,種類=show,価格=show,提供開始日=show,登録者=hide,備考=show}
+//#table_style(head=center:#E0E0E0)
+//|~No.|~種類|~商品名|~価格|~提供開始日|~登録者|~備考|h
+//|1|種類|商品名|価格|yyyy/mm/dd|[[名　前]]|備考|
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+//#endregion
+#co{{
+**&size(25){&color(#0F0F0F){&size(35){&color(#01714B){沿}}革 &color(#01714B){&icon_fas fa-edit)}}}
+***2022年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+***2023年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+}}
+#right(){&link_up(🔝ページTOPへ)}

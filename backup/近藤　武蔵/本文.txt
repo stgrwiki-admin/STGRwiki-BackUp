@@ -1,0 +1,666 @@
+//近藤　武蔵
+&image(近藤武蔵_gato.jpg,x=200)
+#table_color(#e6e6fa)
+|~名前|~&icon_fa(fa fa-user)|&ruby(こんどう){近藤}　&ruby(むさし){武蔵}|
+|~出身地|~&icon_fa(fa fa-location-dot)|関西|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|1999年03月01日 (&countup(1999/03/01,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2022年08月31日 (&countup(2022/08/31,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|猫カフェ「[[猫カフェ武蔵]]」店長&br()&s(){ギャング「[[GATO]]」ボス}&br()&s(){メカニック【[[9055]]】社員}&br()高級車ディーラー【[[にしのんキングダム]]】社員&br()&s(){メカニック【[[FOG]]】社員}|
+|~所属|~&icon_fa(fa fa-users)|レーシングチーム【Highway Stars】|
+|~TwiX|~&icon_fa(fa fa-crow)|@kondou|
+|~レーサー名|~&icon_fa(fa fa-user-tag)|GameMaster|
+|BGCOLOR(#bcffbc):~プレイヤー|BGCOLOR(#bcffbc):~&icon_fa(fa fa-address-card-o)|水無月ひいろ|
+|BGCOLOR(#bcffbc):~告知等|BGCOLOR(#bcffbc):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/hiirotti0]]|
+|BGCOLOR(#bcffbc):~配信場所|BGCOLOR(#bcffbc):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCWqlGYiySIwy2Wfou2zQlKg]]/&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/hiiro_vt]]|
+|BGCOLOR(#bcffbc):~別キャラ|BGCOLOR(#bcffbc):~&icon_fa(fa fa-user-plus)|[[アルセーヌ　オパン　2世]]&br()[[アーモンド　サラザール]]|
+
+#region(衣装倉庫)
+|初期衣装|黒バロン|
+|&image(近藤　武蔵　【初期】.png,x=200)|&image(近藤武蔵【10:31ver】.JPG,x=200)|
+|私服①|私服②|
+|&image(私服①.jpeg,x=200)|&image(私服②.jpeg,x=200 )|
+|私服③|私服④|
+|&image(私服③.jpeg,x=200)|&image(私服④.jpeg,x=200)|
+|ラスベガス帰り|メイド服|
+|&image(近藤武蔵_ラスベガス帰り.jpg,x=200)|&image(近藤武蔵_メイド服.jpg,x=200)|
+
+
+#endregion
+#region(別名)
+|シュナイダー|無言.|Halloween Monster|セクシーむさみ|GameMaster|
+|&image(シュナイダー.JPG,x=200)| &image(無言.jpg,x=200)|&image(Halloween Monster.jpg,x=200)|&image(セクシーむさみ.JPG,x=200)|&image(空白.JPG,x=200)|
+#endregion
+
+&aname(目次1,option=nolink){}
+&big(){&bold(){目次}}
+#region(open,開く)
+#contents(level=2)
+#endregion
+
+**キャラクター一時エンディング
+#openclose(Show=2023/04/23-2023/05/26,block){{
+ギャング「[[GATO]]」を解散後、「ギャンブルで一儲けしてくるぜっ！！おやすみなさい。」とツイートしラスベガスへ旅立った。
+}} 
+#region(※一時エンドについて中の人のツイート)閉じる
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; アカウント名 (@hiirotti0) <a href="https://twitter.com/hiirotti0/status/1649809264423354370">午前1:15 · 2023年4月23日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion()
+
+#right(){&link_anchor(目次1){△目次へ}}
+
+**基本情報
+#region(open,開く)
+・強盗ができる街と聞いてやってきた。
+・&s(){定期的に喉の調子(音声)が悪くなる。}ワクチンのおかげで喉の調子が悪くなる流行り病は根絶された。
+・服や車など、シンプルなデザイン、色は白、黒、灰色系を好む。派手なデザインや原色系はあまり好きではないようだ。
+・たまに「コンドウ・ム・サシ」と名乗っている。
+・いつも猫のマスクをしている。
+・猫カフェ勤務中は、店長及び従業員全員、頭に猫のマスクをするのが決まりだ。（最近は従業員達に被らせていない。)
+・喫煙者である。
+・登場初期と顔が変わっている。現在は色白イケメン店長に安定した。しかし、アップデートの度に登場初期に戻ってしまう事があり、天界の天使達に「ブスだ。イケメンどこに行った。戻せ。」とクレームが入り、整形とカツラを買いに走る羽目になる。
+・勘が鋭く、人物の不穏な闇を感じ取ったり、少ない情報から状況を推理する分析能力もときどき発揮しており、ピンチな場面でも冷静に対処する事もある。
+・車やバイクでのチェイス能力、ヘリや飛行機の運転、銃の扱い等、フィジカル面もやや高い人物ではあるが、ドジでマヌケな一面も持ち合わせており、能力ステータスに浮き沈みがあるのが難点だ。
+・&b(){深沢杯ボクシング大会　優勝}　★得意技：ネコパンチ
+・&b(){てつお杯バイクレース　優勝}
+・猫のように気まぐれでその時の気分で生きている。
+・自他共に認めるクズ
+・基本的に人当たりは良く親切。誰か困っていそうなら積極的に声をかけ助けている優しい人物。しかし気分屋なので、優しくしたり急に距離を置いたりする為、本人は無自覚だがメンヘラ製造機の気がある。(男女問わず)
+・マネーワイプ前に購入した3軒の家が&s(){システム上の問題で}売却できないため持ち家がたくさんある。本当は売りたい。
+・近藤が運転する車の助手席には女性しか乗れない。男性が乗るとエンジンがかからなくなる。
+・7月下旬市長と市長室で面談、「自分のメカニック店を開きたい」と報告。
+・・新しく店舗を建設すると時間がかかる事・既存物で開けば時短になる事を聞き、また市長より「[[PY>Project Y]]の建物でもいいよ」とアドバイスをもらいその日に市長に『[[PY>Project Y]]の建物でお願いします。』と申請、入金も済ませ現在市は着工準備中。
+・8月6日、[[PY>Project Y]]店舗内に[[ルウ ギャラクティカ]]もとい【FOG】の面々が物件を購入していたが、上記の[[近藤　武蔵]]が[[PY>Project Y]]を指定し開業申請していた案件中での購入ではあるが、真偽は不明。
+・8月8日、[[ルウ ギャラクティカ]]との会話内で[[9055]]を離れて新しいメカニック店を立ち上げたい理由が明らかになった。
+・・『会社請求である事』『誰でも構わず体験・入社させるところ』であった。
+#endregion
+
+#right(){&link_anchor(目次1){△目次へ}}
+**経歴
+ねこカフェ 店長
+→&s(){プリズン行きで店長をクビになり} ねこカフェアルバイト
+謹慎期間が終わり、無事ねこカフェ店長に復帰
+副業として[[ペンギンファミリー]]に入る(仮)（9/21時点）
+ねこカフェを辞め木こりになった（10/6）
+ねこカフェに復帰（10/8）
+ねこカフェを退職しトラック運転手に就職(1/2)
+[[ギャング]][[GATO]]立ち上げ(1/27)
+[[ギャング]][[GATO]]解散宣言(4/21)
+須藤バックス体験入社(5/29)
+斉藤Driving School教官(6/1)
+ねこカフェ店員に復帰(6/29)
+斉藤Driving School退職(8/28)
+メカニック(JTS)に就職(8/28)
+メカニック(JTS)退職(日付不明)
+メカニック([[9055]])就職(2/2)
+高級車ディーラー（[[にしのんキングダム]]）就職（9/18）
+#right(){&link_anchor(目次1){△目次へ}}
+
+**ギャング「GATO」(4/22解散)
+#table_color(#bcffbc)
+|~カラー|緑|
+|~名前の由来|スペイン語で(雄)猫|
+|~方針|自由|
+|~メンバー|ボス：近藤　武蔵|
+|~|&s(){[[有坂　誉]]}※2/20闇医者になったため脱退|
+|~|&s(){[[田中　真光>TANAKA　MASAMITU]]}※3/28警察への転職を目指して脱退|
+|~|[[猫宮　あかね]]|
+|~|&s(){[[ベルモナ]]}※帰国|
+#region(犯罪に関与しないシマ維持のためのメンバー)
+#table_color(#bcffbc)
+|~&s(){猫カフェ店員}|&s(){[[多山　八雲]]}※1/30近藤が街を去る予定だったため除籍|
+#endregion
+・[[ギャング]]を名乗っているが実状は[[ギャング]]というより半グレ集団に近い。
+・犯罪に興味がありそうな住人に声をかけ、忠誠は求めず、足抜けは自由。
+・「他にやりたいことができて辞めるのは自由だが、金が欲しいならここが一番稼げるぞ」とミッションに失敗し警察に捕まっても罰金の3倍以上の報酬を支払った。
+・&b(){4/21警察体験中の[[田中　まさみつ>TANAKA　MASAMITU]]に逮捕されたことにより解散を決意。}
+#right(){&link_anchor(目次1){△目次へ}}
+**忙しい人のための近藤武蔵（各章あらすじ）&color(#F54738){&new(2023/04/23)}
+#region(第0章,open)
+&bgcolor(#bcffbc){〈第0章〉}
+　「強盗ができる街」と聞いてロスサントスへ引っ越してきた近藤武蔵。この街の法律をよく知らないまま好き勝手に暴れ回り、引越し初日から指名手配されてしまう。
+　[[兄貴>ウィリアムズ　田中]]がロスサントス全市民を人質にとった日、救急隊と警察相手にテロ行為をはたらきS級犯罪者としてプリズンに送られた。
+　出所後猫カフェ店長として真っ当に生きようとしたが、市民からもギャングからも犯罪者であることを期待されていると知り、ペンギンファミリーに入る。
+#endregion
+
+#region(第1章,open)
+&bgcolor(#bcffbc){〈第1章〉}
+　元S級犯罪者で、現在は猫カフェ店長のかたわら戦力が必要な時だけ呼び出されるペンギンファミリーのバイト構成員（試用期間）。
+　方向性の違いからマフィアを抜けたいと思っているが[[ボス>篠崎　ケイ]]不在でどっちつかずの状態でいると、[[ボス>篠崎　ケイ]]と連合を組んでる[[山本>山本　龍也]]から探鉱の情報を市民に流した件で襲撃を受ける。
+　襲われた車には一般市民の[[妹子>薩摩　妹子]]が同乗しており、これ以上周りが巻き込まれることを恐れた近藤は猫カフェを辞めて隠居していた。
+　入院中の[[副店長>海鈴　りおん]]にここ数日の事件の概要を話し、必ず猫カフェに戻ってくると約束する。
+　ようやく[[ボス>篠崎　ケイ]]と連絡がとれ、狙撃の腕を惜しまれながらペンギンファミリーを抜けた。[[篠崎>篠崎　ケイ]]との関係は良好なので今後は協力関係になるかも…？
+　ただいま猫カフェ
+#endregion
+
+#region(第2章,open)
+&bgcolor(#bcffbc){〈第2章〉}
+　ペンギンファミリーは抜けたが、10億円の家を建てるため猫カフェ店長のかたわらシュナイダーとして犯罪に手を染め金を稼ぐ近藤武蔵。
+　MOZUのシマで銃の密輸バイトをしているところを[[ダーマー>ヴァン　ダーマー]]に見られてしまい、警察に黙っておく代わりに有事の際はMOZUのメンバーを猫カフェで匿うよう脅された。猫カフェはLWGPのシマなので[[山本>山本　龍也]]に報告。
+　後日猫カフェに来た[[ダーマー>ヴァン　ダーマー]]とその件について話していると、その場にいた[[渋谷>渋谷　壱]]らに詳細を訊かれ説明。その際近藤の「金で動く」というような発言がLWGP No.2の[[渋谷>渋谷　壱]]の反感を買い、LWGPによる襲撃を受けた。
+　LWGPのシマで猫カフェを営業しながら犯罪もするという二足のわらじである限りLWGPに追われ続けるだろう。
+　猫カフェを辞め犯罪者として生きることを心に決めるが、新人店員の[[すずめ>桃兎　すずめ]]に引きとめられ猫カフェに残ることにした。
+　[[山本>山本　龍也]]の提案で猫カフェ店長を続けつつ犯罪による報酬の3割を納めることで、LWGPという大きな後ろ盾を手に入れることとなった。
+#endregion
+
+#region(第3章,open)
+&bgcolor(#bcffbc){〈第3章〉}
+　10億円の家の購入は長期的な目標とすることにし、ひとまず[[ヒーロー>吉田　ユッカ]]に借金をして3億円の家を購入。
+　問題児の[[つばめ>青梅　つばめ]]の面倒を見たり、街に戻ってきた[[エスターク>エスターク・Z・ダークネス]]に非合法バイトを教えたりと相変わらず気苦労絶えない日々を送る。
+　合法・非合法さまざまな手段で金を稼ぎ、[[ヒーロー>吉田　ユッカ]]への借金を完済した。
+#endregion
+
+#region(第4章,open)
+&bgcolor(#bcffbc){〈第4章〉}
+　[[ヒーロー>吉田　ユッカ]]への借金を完済し牧場の経営に着手。
+　12億の家と今後実装される高級車を目標に牧場・レース・悪いお仕事で稼ぐことにする。
+　猫カフェの店長を続けていると新人店員の世話に時間をとられ、個人的な仕事ができないため転職を決意。
+　惜しまれつつも猫カフェ店長を辞めトラック運転手に転職した。
+#endregion
+
+#region(第5章,open)
+&bgcolor(#bcffbc){〈第5章〉}
+　猫カフェを辞め、トラック運転手兼犯罪者として本格的にお金を貯めることにしたが、仮想通貨の高騰のおかげであっという間に目標金額を達成してしまった。
+　念願の12億の家を購入し、目標がなくなったことにより虚無感に襲われる。
+　新しいことに挑戦してみようと思い、盗難車ジョブ仲間の[[有坂>有坂　誉]]に声をかけ、ギャングを立ち上げることにした。
+#endregion
+
+#region(第6章,open)
+&bgcolor(#bcffbc){〈第6章〉}
+　ギャングGATOを立ち上げ猫カフェのシマを取りに行くと、GoodbyeCircusの[[マクドナルド>ライトスターボーイ]]も猫カフェのシマを狙っていることが判明。猫カフェ周辺で薬物売買を行う[[マクドナルド>ライトスターボーイ]]に激昂した近藤が手を出したことにより抗争へと発展した。
+　猫カフェのシマを取り切るまで終わらない[[マクドナルド>ライトスターボーイ]]の猛攻に音を上げた近藤はロスサントスの街を去ることを決意。それを知った[[マクドナルド>ライトスターボーイ]]の根回しにより、多くの市民から引き止められ格好はつかないが街に残ることにした。
+　闇医者になった[[有坂>有坂　誉]]と入れ替わる形で期待の新人[[田中>TANAKA　MASAMITU]]がGATOに加入。元殺し屋の腕を買った[[ベルモナ]]と共にGATOとして初めて[[心のある人質>九頭峰　誠士郎]]をとった大きな仕事が、さまざまなトラブルが重なり[[人質>九頭峰　誠士郎]]を撃つ結末となってしまう。この件で警察側の対応に不信感を持った[[田中>TANAKA　MASAMITU]]が「警察に転職し、内部から警察を変えたい」と言い出し、近藤は寂しいながらも快く送り出した。
+　[[田中>TANAKA　MASAMITU]]が警察に仮採用された日、[[警察>金城　豪]]を人質にコンビニ強盗を働く。駆けつけた[[田中>TANAKA　MASAMITU]]に手錠をかけられ、それが[[田中>TANAKA　MASAMITU]]の2度目の検挙となり功績を認められ警察に本採用された。
+　警察になった[[田中>TANAKA　MASAMITU]]を撃てない近藤はもう犯罪はできないとGATOを解散し足を洗う決断をする。「帰って来たら20億の家を買って一緒に住もう」と[[田中>TANAKA　MASAMITU]]と約束し、ギャンブルをするためラスベガスへ旅立った。
+#endregion
+
+#center(){&b(){〈近藤武蔵物語。一時END〉}}
+
+#region(第7章,open)
+&bgcolor(#bcffbc){〈第7章〉}
+　ラスベガスから戻った近藤の新たな物語が始まる。
+#endregion
+
+#right(){&link_anchor(目次1){△目次へ}}
+**近藤武蔵RP視点的ストグラ表
+
+#table_color(#eee){▽印象=#e6e6fa:center,10/6=#fff,10/31=#fff,3/28=#fff,6/1=#fff}
+#table_filter(){10/6=hide,10/31=hide,3/28=hide,6/1=show}
+|BGCOLOR(#FFF):~▽印象|~[[10/6>>https://twitter.com/hiirotti0/status/1577791769059917824]]|~[[10/31>>https://twitter.com/hiirotti0/status/1586976652072202241]]|~[[3/28>>https://twitter.com/hiirotti0/status/1640642766052134917]]|~[[6/1>>https://twitter.com/hiirotti0/status/1664107125273137152]]|
+|【好敵手】|？|いない|[[れむくん>後藤　れむ]]|[[須藤>須藤　冬馬]]、[[マグナム>フランシスコ　マグナム]]|
+|【好印象】|[[ヒーロー>吉田　ユッカ]]、[[こまねち>小間　音千子]]|[[ヒーロー>吉田　ユッカ]]|[[いぬりん>犬神　いぬりん]]、[[ねこちゃん>柏猫　ねこ子]]|[[いぬりんちゃん>犬神　いぬりん]],[[りーさん>渡戸　リー]],空舞月[[姉>空舞月　りり]][[妹>空舞月　るる]]👭[[ジョアンナさん>町田　ジョアンナ]]|
+|【期待】|[[キャシー>如月　キャシー]]|[[れむくん>後藤　れむ]]|[[モナちゃん>ベルモナ]]|新人警察組と新人愉快犯,[[にかりん>超越ヶ谷　にかり]]|
+|【対立】|[[山本>山本　龍也]]|なし||心の中の自分自身|
+|【胸熱】|[[しのちゃん>篠崎　ケイ]]|[[しのちゃん>篠崎　ケイ]]|[[クズ>九頭峰　誠士郎]]と[[ねむいちゃん>寝手持　ねむい]]||
+|【最推し】|[[シソジ>石定　シソジ]]|[[ねちこ>小間　音千子]]|[[ごうきゅん>金代　豪]]|[[ここなちゃん>牧田　ここな]]|
+|【覚醒期待】|[[深沢>深沢　えぼし]]|[[キーモッドホームズ>キーモット　ホームズ]]|[[だよくん>堕夜　だよ]]|[[ねここちゃん>柏猫　ねこ子]],[[政宗くん>伊達咲　政宗]]|
+|【苦手】|[[てつお>切間　てつお]]|なし|[[マクドナルド>ライトスターボーイ]]|[[ダーマーさん>ヴァン　ダーマー]]|
+|【信頼】|[[今井 教次>今井　教次]]|[[れいこさん>霊岳　礼子]]、[[須藤さん>須藤　冬馬]]|[[すずめちゃん>桃兎　すずめ]]、[[まさのり>斉藤　まさのり]]|[[田中くん>TANAKA　MASAMITU]],[[りおん>海鈴　りおん]],[[すずめちゃん>桃兎　すずめ]],[[まさのり>斉藤　まさのり]]|
+|【不安】|[[妹子>薩摩　妹子]]|[[はなちゃん>ヤマンバ　花子]]|[[田中くん>TANAKA　MASAMITU]]|[[きなこちゃん>プリチィ　きな子]],[[ましろくん>雷堂　ましろ]],[[だよくん>堕夜　だよ]]|
+|【厄介】|[[ダニエル>Jack　Daniel]]|[[マリア>ライトスターボーイ]]|[[マクドナルド>ライトスターボーイ]]|[[マクドナルド>ライトスターボーイ]]|
+|【尊敬】||||[[ウィリアムズ田中>ウィリアムズ　田中]],[[ジーニー先生>ジーニー　シェイクスピア]]|
+|【寂しい】||||[[田中まさみつくん>TANAKA　MASAMITU]]🥹|
+
+#right(){&link_anchor(目次1){△目次へ}}
+**交友関係&color(#F54738){&new(2022/11/22)}
+#region(開く)
+[[海鈴　りおん]]
+猫カフェの副店長。部下であり相棒。近藤と同じく元Ｓ級犯罪者だが、後輩の面倒見が良く、しっかり者のお姉さんタイプ。近藤をとても慕ってくれており、なんだかんだ良き理解者。隣同士で家を買ったため仲良く退勤する姿がよく見られたが、近藤が新たに豪邸を買ったのでそれも見られなくなるのだろうか…。
+
+[[深沢　えぼし]]
+初対面でカジノで酔っている深沢をナンパした。警察時代から猫カフェの常連客。警察を辞めたあと「口が強いから相手したくなかった」と言われる。
+
+[[篠崎　ケイ]]
+指名手配犯となった宝石強盗で得た宝石の売り方を教えてくれた。初日から接点があるがなかなか名前を覚えられず毎回「誰？」と名前を聞き、他の人との話題に出す時は「ペンギンの人」と呼んでいた。最近は「しのちゃん」と呼んでいる。
+
+[[切間　てつお]]
+ハンバーガー屋店長。初対面で服屋で殴り倒した。仲良く女子会を盗み聞きしたりボウリングで遊んだりしているが、お互い相手がいないところで車を蹴ったり店に車で突っ込んだりしているので不仲説もある。
+
+[[斉藤　まさのり]]
+カジノ友達。車を安く売ってもらう約束をしたが、山本社長の手前安く売ることができず追加の一台をポケットマネーでカスタムしてくれた。マフィアに入ったことで斉藤と親しくできなくなることを懸念していた。シュナイダーの正体を知る人。パジャマが双子コーデ。
+
+[[Jack　Daniel]]
+よく猫カフェにお客さんを連れてきてくれる。裏取引も持ちかけられた。プリズン行きになった事件で、ダニエルの車を壊した時はまともに口を聞いてくれなくなったが、賠償金を支払ってからは関係は良好である。
+
+[[平方　根]]
+犯罪を仕込んだ。出張から戻った際、様変わりした街を案内してくれようとした（結局ボウリングで遊んだだけだった）。
+
+[[須藤　冬馬]]
+カフェ店長。悪事を辞めて出張していたら「俺の中での三大悪党は近藤さんなんですよ！」と言われる。近藤からの印象は薄く、カフェの店長で深沢組だということは把握しているが名前は斉藤だと思っていた。
+最近は猫カフェの商品の価格変更を手伝ってくれたり一緒にレースに参加したりと、とても仲が良い親友となった。
+
+[[チュー太>ライトスターボーイ]]
+見かけたら「ちゅー！」と言いながら駆け寄るぐらい大好き。いつかチュー太と一緒に悪事を働きたいと思っている。
+
+[[薩摩　妹子]]
+元猫カフェ新人店員。妹のような存在だったが娘のように思えてきた。ルームシェアしていた。ギャングとのいざこざに巻き込まれてルームシェアを解消し、妹子が猫カフェを辞めた後も気にかけている。
+
+[[石定　シソジ]]
+救急隊員。以前、一緒に空を飛んだ親友。歌唱力が高い。石定の歌のファン1号を名乗っている。作業着が双子コーデ。顔も似ている。
+
+[[小間　音千子]]
+ハンバーガー屋副店長。落ち着いたセクシーボイスの女性。意外と運転が荒く、クセが強すぎるハンバーガー屋店長てつおのボケにも柔軟に対応。大人しい人かと思ったら、少々ギャップのある女性。近藤にとって、気になるアイドルのような存在。
+
+[[雷堂　ましろ]]
+救急隊員で猫カフェの常連客。ゴム店長と呼ばれている。[[妹子>薩摩　妹子]]の思い出話をよくする。神の頂で二人同時に「あの海の向こうには何があるんだろうな」と言ったので感性が似ているのかもしれない。
+猫カフェ商品のタピオカドリンクを飲むと、一定時間人格が変わる。なお、３種類それぞれ違う人格が現れる。
+
+[[ヤマンバ　花子]]
+猫カフェ新人店員。元気で明るいノリの良い女の子。猫カフェのお仕事を自発的に頑張ってくれている。実は警察志望だったが、満員と適正審査の結果、見送られてしまった。次の警察入隊チャンスまでの間、猫カフェで働きながら警察になるために街の事などを学んでいたが、結局猫カフェに仲間入りすることを決心してくれた。
+→→→  現在　マフィア・ペンギンファミリーへ転職
+
+[[けんポコ・フォージャー]]
+引っ越してきた日から色々と面倒を見ている。私服が双子コーデ。彼から自己紹介された際に、聞き間違えたのか「ち○ポコ・・・」とつい言ってしまった。
+
+[[五味袋　比良]]
+犯罪仲間。犯罪に関する情報をやり取りしている。一緒に大きな犯罪をする計画も立てている。
+犯罪を楽しんでおり、飄々とした人物だが、共犯者に対し仲間思い。
+犯罪で獲得したお金を飲食店で使い、街の住民にお金を配り経済を回してくれる。
+
+[[涼眩　K]]
+猫カフェ新人店員。仕事を覚えようと一生懸命頑張ってくれている。メッセージ付きフラペチーノをプレゼントしてくれる、カワイイ奴。稀に「ケイちゃん」という女の子を出して近藤を喜ばせる。バイクの運転が少々苦手？のようだ。
+→→→  現在　ダイナーへ転職
+
+[[後藤　れむ]]
+警察官。５歳児だと思って侮っては危険。警察の中でもフィジカルが高く優秀な人物である為、近藤も一目置いている。仲が良く、話しをしたりたまに一緒に遊んだりする。以前、もしも闇堕ちしてギャングになった時は、シュナイダーと手を組みたい！と言ってくれた事があった。あの時の嬉しさは今だに近藤の心に深く残る。
+
+[[桃兎　すずめ]]
+猫カフェ新人店員。店長である近藤に、もう１つの顔(犯罪者)がある事を本人から聞かされる。彼女は犯罪とは程遠い普通の女の子。初めは困惑した様子だったが、近藤を軽蔑したりせず、彼も成し遂げたい目標があるのだと、理解を示す懐が深い女の子。光と闇の世界を行き来する、どこか危なっかしい近藤をいつも心配している。
+
+#endregion
+
+#region(FOG・上田さんギャング関連)
+//
+//⬆️もしも上田さんのギャング設立が確定しなかった場合は消していただいて問題ないです。
+//
+[[上田　さん]]
+ギャング設立を目指している人物。勧誘され加入を決意した。
+
+[[ルウ　ギャラクティカ]]
+メカニック[[FOG]]の店長
+
+[[穴井　元]]
+メカニック[[FOG]]オーナーであり、上田さんと共にギャング設立を目指す人物。
+
+
+#endregion
+#right(){&link_anchor(目次1){△目次へ}}
+**エピソード
+#include(近藤　武蔵/エピソード)
+
+#right(){&link_anchor(目次1){△目次へ}}
+**アーカイブ
+***&bgcolor(#bcffbc){▼2022年8,9月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|8/31|今日から一市民として働きたいと思います。|
+|BGCOLOR(#e6e6fa):Twitch|9/1|初日から凶悪犯になり指名手配されてしまいました…|
+|BGCOLOR(#ffe4e1):YouTube|9/2|近藤武蔵、猫カフェ店長になりました。表の顔はね＾＾※非公開|
+|BGCOLOR(#e6e6fa):Twitch|9/4|競馬が楽しくてやめられない体になっちまったぜ……|
+|BGCOLOR(#ffe4e1):YouTube|9/4|[[真面目だけど悪に染まるかは警察次第ですよ＾＾>>https://youtu.be/ILj18ZfdFtA]]|
+|BGCOLOR(#ffe4e1):YouTube|9/6|[[プリズンで修行をしてきました。真面目にこの世界で生きてみます。>https://youtu.be/WtUQ4FmTlak]]|
+|BGCOLOR(#e6e6fa):Twitch|9/6|近藤武蔵の物語。これからどうやって生きようか……|
+|BGCOLOR(#e6e6fa):Twitch|9/7|近藤武蔵の物語。店長に復帰するために今日も働く…！|
+|BGCOLOR(#ffe4e1):YouTube|9/8|今日は少しだけ町をぶらぶらするゾっ！※非公開|
+|BGCOLOR(#e6e6fa):Twitch|9/10|店長に復帰できるか市長に相談したい！！|
+|BGCOLOR(#e6e6fa):Twitch|9/10|近藤武蔵はコソ泥になる！|
+|BGCOLOR(#e6e6fa):Twitch|9/18|店長出勤。変わった町を見て回る。|
+|BGCOLOR(#e6e6fa):Twitch|9/19|今日は少しだけ。こっそりボーリング極めて見たくない？|
+|BGCOLOR(#e6e6fa):Twitch|9/20|今日はのんびりとした休日ライフをおくるよ。たぶんね＾＾|
+|BGCOLOR(#e6e6fa):Twitch|9/21|豪邸に住み始めました。目標は500万円の部屋。|
+|BGCOLOR(#e6e6fa):Twitch|9/27|[[# 15 久しぶりの近藤武蔵出勤>>https://www.twitch.tv/videos/1661063477]]|
+|BGCOLOR(#e6e6fa):Twitch|9/29|[[# 16 近藤武蔵の物語。転職しようか迷いに迷ってる。>>https://www.twitch.tv/videos/1661068458]]|
+|BGCOLOR(#e6e6fa):Twitch|9/30|[[# 17 海に潜ることを覚えた近藤武蔵くん。>>https://www.twitch.tv/videos/1661139618]]|
+#endregion
+***&bgcolor(#bcffbc){▼2022年10月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|10/1|[[# 18 今日こそはまったり過ごしたと思っています。>>https://www.twitch.tv/videos/1661406100]]|
+|BGCOLOR(#e6e6fa):Twitch|10/2|[[# 19 家事ができるようになったみたい⁇色々試してみる>>https://www.twitch.tv/videos/1661407532]]|
+|BGCOLOR(#e6e6fa):Twitch|10/3|[[# 20 お家を最高級にしたいが為にお金を頑張って集めたい。>>https://www.twitch.tv/videos/1661408419]]|
+|BGCOLOR(#e6e6fa):Twitch|10/3|[[# 21 近藤武蔵は悩みに悩んでいる。。>>https://www.twitch.tv/videos/1661409015]]|
+|BGCOLOR(#e6e6fa):Twitch|10/4|[[# 22 猫カフェでレモンフェスの準備>>https://www.twitch.tv/videos/1661409695]]|
+|BGCOLOR(#e6e6fa):Twitch|10/5|[[# 23 ケジメをつける時>>https://www.twitch.tv/videos/1662228732]]|
+|BGCOLOR(#e6e6fa):Twitch|10/6|[[# 24 少しだけ雑談してからこの世界で頑張って生きてみる。>>https://www.twitch.tv/videos/1662230524]]|
+|BGCOLOR(#e6e6fa):Twitch|10/8|[[# 25 人生山あり谷間あり>>https://www.twitch.tv/videos/1664829526]]|
+|BGCOLOR(#e6e6fa):Twitch|10/8|[[【番外編】今日はパージイベントがあるみたいだけど僕は……！>>https://www.twitch.tv/videos/1664830043]]|
+|BGCOLOR(#e6e6fa):Twitch|10/9|[[# 26 マネーワイプが入りました。今日は猫カフェのお店の値段を設定していくぞー！>>https://www.twitch.tv/videos/1664830310]]|
+|BGCOLOR(#e6e6fa):Twitch|10/10|[[# 27 New猫カフェてきな？？真面目に働いてみる近藤武蔵。>>https://www.twitch.tv/videos/1664830526]]|
+|BGCOLOR(#e6e6fa):Twitch|10/12|[[# 28 飲食店はそのうち犯罪者組織になりそうな気がします>>https://www.twitch.tv/videos/1664830799]]|
+|BGCOLOR(#e6e6fa):Twitch|10/13|[[# 29 猫カフェの新メニューを開拓する>>https://www.twitch.tv/videos/1665455591]]|
+|BGCOLOR(#e6e6fa):Twitch|10/13|[[# 30 釣りやってみてえなあ>>https://www.twitch.tv/videos/1665457318]]|
+|BGCOLOR(#e6e6fa):Twitch|10/14|[[# 31 レース出てみてえなあ>>https://www.twitch.tv/videos/1665458090]]|
+|BGCOLOR(#e6e6fa):Twitch|10/15|[[# 32 シュナイダーって知ってるか？？>>https://www.twitch.tv/videos/1665458876]]|
+|BGCOLOR(#e6e6fa):Twitch|10/16|[[# 33 遅い時間の街でただゆっくり。>>https://www.twitch.tv/videos/1665461011]]|
+|BGCOLOR(#e6e6fa):Twitch|10/16|[[# 34 今日は新人研修でもしますかきっとおそらく🥺>>https://www.twitch.tv/videos/1665462140]]|
+|BGCOLOR(#e6e6fa):Twitch|10/17|[[# 35 作業するだけのはずがなぜか人がいたからまったり過ごします。>>https://www.twitch.tv/videos/1665463452]]|
+|BGCOLOR(#e6e6fa):Twitch|10/18|[[# 36 え、もうレース終わってる！？！昼夜逆転が止まらないコンドームサシ>>https://www.twitch.tv/videos/1665465279]]|
+|BGCOLOR(#e6e6fa):Twitch|10/18|[[# 37 新メニューが可愛すぎる件について>>https://www.twitch.tv/videos/1665504327]]|
+|BGCOLOR(#e6e6fa):Twitch|10/19|[[# 38 目標金額10億円を目指して物語が今はじまる……！！>>https://www.twitch.tv/videos/1665505707]]|
+|BGCOLOR(#e6e6fa):Twitch|10/20|[[# 39 お昼のアルバイト>>https://www.twitch.tv/videos/1665506617]]|
+|BGCOLOR(#e6e6fa):Twitch|10/20|[[# 39.5 今日は……>>https://www.twitch.tv/videos/1665507350]]|
+|BGCOLOR(#e6e6fa):Twitch|10/21|[[# 40 コンビニ経営者になりました。>>https://www.twitch.tv/videos/1665508364]]|
+|BGCOLOR(#e6e6fa):Twitch|10/22|[[# 41 犯罪の計画をこっそり>>https://www.twitch.tv/videos/1665515695]]|
+|BGCOLOR(#e6e6fa):Twitch|10/23|[[# 42 今日は飲食店フェスがあるぞー！そして…罪……>>https://www.twitch.tv/videos/1665516473]]|
+|BGCOLOR(#e6e6fa):Twitch|10/25|[[# 43 朝から始まるロスサントスは珍しく静かだ……>>https://www.twitch.tv/videos/1670010038]]|
+|BGCOLOR(#e6e6fa):Twitch|10/25|[[# 44 シュナイダー出陣っ！！！！>>https://www.twitch.tv/videos/1670011111]]|
+|BGCOLOR(#e6e6fa):Twitch|10/27|[[# 45 善悪両立ムズイ>>https://www.twitch.tv/videos/1670012098]]|
+|BGCOLOR(#e6e6fa):Twitch|10/27|[[# 46 デュエリスト求>>https://www.twitch.tv/videos/1670013281]]|
+|BGCOLOR(#e6e6fa):Twitch|10/28|[[# 47 お友達が欲しい店長>>https://www.twitch.tv/videos/1670014108]]|
+|BGCOLOR(#e6e6fa):Twitch|10/29|[[# 48 今日はハロウィンイベントがあるらしいぞ！>>https://www.twitch.tv/videos/1670029677]]|
+|BGCOLOR(#e6e6fa):Twitch|10/30|[[# 49 ハロウィン後の後悔……>>https://www.twitch.tv/videos/1670030720]]|
+|BGCOLOR(#e6e6fa):Twitch|10/31|[[# 50 この街きてもう50日なのか今日も変わらずの日常>>https://www.twitch.tv/videos/1672589333]]|
+#endregion
+***&bgcolor(#bcffbc){▼2022年11月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|11/1|[[# 51 今日はホストクラブがあるらしいけど男だしなぁ…キャバクラはどこじゃ！>>https://www.twitch.tv/videos/1679595301]]|
+|BGCOLOR(#e6e6fa):Twitch|11/2|[[# 52 今日も日常のストグラ>>https://www.twitch.tv/videos/1679596278]]|
+|BGCOLOR(#e6e6fa):Twitch|11/3|[[# 53 今日はコンビニの方針を変えつつコンビニメインに活動してみる>>https://www.twitch.tv/videos/1679596954]]| 
+|BGCOLOR(#e6e6fa):Twitch|11/4|[[# 54 日常は変わりゆくもの>>https://www.twitch.tv/videos/1679597558]]| 
+|BGCOLOR(#e6e6fa):Twitch|11/5|[[# 55 お昼にトラックの運転手少しやってみるか>>https://www.twitch.tv/videos/1679598446]]| 
+|BGCOLOR(#e6e6fa):Twitch|11/6|[[# 56 猫カフェの黒歴史にまた1ページ……！もう開き直った>>https://www.twitch.tv/videos/1679599104]]| 
+|BGCOLOR(#e6e6fa):Twitch|11/7|[[# 57 シュナイダーってカッコイイよね>>https://www.twitch.tv/videos/1679600110]]| 
+|BGCOLOR(#e6e6fa):Twitch|11/8|[[# 58 犯罪のできる街ロスサントス。修行してもっと強くなる>>https://www.twitch.tv/videos/1687579362]]|
+|BGCOLOR(#e6e6fa):Twitch|11/9|[[# 59 猫カフェ崩壊>>https://www.twitch.tv/videos/1687580099]]| 
+|BGCOLOR(#e6e6fa):Twitch|11/10|[[# 60 2か月目にして０からリスタート猫カフェ。>>https://www.twitch.tv/videos/1687580759]]|
+|BGCOLOR(#e6e6fa):Twitch|11/11|[[# 61 猫カフェ再建2日目>>https://www.twitch.tv/videos/1687581482]]|
+|BGCOLOR(#e6e6fa):Twitch|11/12|[[# 61.5 メニュー表が新しくなりました。>>https://www.twitch.tv/videos/1687581979]]|
+|BGCOLOR(#e6e6fa):Twitch|11/12|[[# 62 猫カフェ再建3日目。スマホも新しくなったらしい>>https://www.twitch.tv/videos/1687582455]]|
+|BGCOLOR(#e6e6fa):Twitch|11/13|[[# 63 アルバイトしつつ猫カフェ再建4日目>>https://www.twitch.tv/videos/1687583020]]|
+|BGCOLOR(#e6e6fa):Twitch|11/14|[[# 64 何気ない日常を大事に……>>https://www.twitch.tv/videos/1698369335]]|
+|BGCOLOR(#e6e6fa):Twitch|11/15|[[# 65 犯罪ノーDay!!レースに飲食にアルバイトだ！>>https://www.twitch.tv/videos/1698370405]]|
+|BGCOLOR(#e6e6fa):Twitch|11/16|[[# 66 お金、お金、お金>>https://www.twitch.tv/videos/1698371268]]|
+|BGCOLOR(#e6e6fa):Twitch|11/18|[[# 67 遅い時間からの街並み。>>https://www.twitch.tv/videos/1698372915]]|
+|BGCOLOR(#e6e6fa):Twitch|11/18|[[# 68 分岐点>>https://www.twitch.tv/videos/1698373790]]|
+|BGCOLOR(#e6e6fa):Twitch|11/19|[[# 69 この時期は冬眠の季節だよなぁ……>>https://www.twitch.tv/videos/1698374585]]|
+|BGCOLOR(#e6e6fa):Twitch|11/20|[[# 70 これがロスサントス>>https://www.twitch.tv/videos/1698375911]]|
+|BGCOLOR(#e6e6fa):Twitch|11/22|[[# 71 コツコツお金は大事だよ～〜>>https://www.twitch.tv/videos/1698376624]]|
+|BGCOLOR(#e6e6fa):Twitch|11/22|[[# 72 1億円は俺がもらう！！！>>https://www.twitch.tv/videos/1698377419]]|
+|BGCOLOR(#e6e6fa):Twitch|11/23|[[# 73 そろそろ真面目にお金貯めていく。>>https://www.twitch.tv/videos/1699208440]]|
+|BGCOLOR(#e6e6fa):Twitch|11/24|[[# 74 新しい楽しそうな施設が追加されたみたいだぞ？？>>https://www.twitch.tv/videos/1699208960]]|
+|BGCOLOR(#e6e6fa):Twitch|11/26|[[# 75 ギャングの抗争があるみたいなので……>>https://www.twitch.tv/videos/1664844759]]|
+|BGCOLOR(#e6e6fa):Twitch|11/27|[[# 76 GameMasterチェックメイト>>https://www.twitch.tv/videos/1699209564]]|
+|BGCOLOR(#e6e6fa):Twitch|11/28|[[# 77 インテリア>>https://www.twitch.tv/videos/1699210366]]|
+|BGCOLOR(#e6e6fa):Twitch|11/29|[[# 78 日常パート>>https://www.twitch.tv/videos/1699210925]]|
+|BGCOLOR(#e6e6fa):Twitch|11/30|[[# 79 トラックとキノコが追加されたので見に行ってみる>>https://www.twitch.tv/videos/1700188063]]|
+#endregion
+***&bgcolor(#bcffbc){▼2022年12月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|12/2|[[# 80 深夜の街並み>>https://www.twitch.tv/videos/1700188738]]|
+|BGCOLOR(#e6e6fa):Twitch|12/2|[[# 81 お金を稼ぐには……>>https://www.twitch.tv/videos/1700189277]]|
+|BGCOLOR(#e6e6fa):Twitch|12/3|[[# 82 リア充どもめ……クッ！！！>>https://www.twitch.tv/videos/1700189748]]|
+|BGCOLOR(#e6e6fa):Twitch|12/4|[[# 83 普通の日常おくりたい猫カフェ店長>>https://www.twitch.tv/videos/1700190284]]|
+|BGCOLOR(#e6e6fa):Twitch|12/5|[[# 84 やった事がない事に挑戦してみたい好奇心>>https://www.twitch.tv/videos/1700190777]]|
+|BGCOLOR(#e6e6fa):Twitch|12/6|[[# 85 NO犯罪dayは落ち着くよね……>>https://www.twitch.tv/videos/1700191370]]|
+|BGCOLOR(#e6e6fa):Twitch|12/8|[[# 86 猫カフェ店長の日常>>https://www.twitch.tv/videos/1705011091]]|
+|BGCOLOR(#e6e6fa):Twitch|12/9|[[# 87 今日は2時まで>>https://www.twitch.tv/videos/1705011885]]|
+|BGCOLOR(#e6e6fa):Twitch|12/10|[[# 88 第二回自転車レースがあるらしい>>https://www.twitch.tv/videos/1705012954]]|
+|BGCOLOR(#e6e6fa):Twitch|12/11|[[# 89 近藤武蔵の牧場物語が始まった完>>https://www.twitch.tv/videos/1705021446]]|
+|BGCOLOR(#e6e6fa):Twitch|12/12|[[# 90 コンビニ半額セール車両窃盗＾＾>>https://www.twitch.tv/videos/1705022465]]|
+|BGCOLOR(#e6e6fa):Twitch|12/15|[[# 91 今日から実車だとよ>>https://www.twitch.tv/videos/1705022984]]|
+|BGCOLOR(#e6e6fa):Twitch|12/16|[[# 92 イタリGTA>>https://www.twitch.tv/videos/1705024008]]|
+|BGCOLOR(#e6e6fa):Twitch|12/17|[[# 93 最強レーサー目指して>>https://www.twitch.tv/videos/1706980571]]|
+|BGCOLOR(#e6e6fa):Twitch|12/18|[[# 94 最強レーサーへの道>>https://www.twitch.tv/videos/1706981336]]|
+|BGCOLOR(#e6e6fa):Twitch|12/19|[[# 95-1 変わらない日常なんてない……>>https://www.twitch.tv/videos/1706991498]]&br()[[# 95-2 変わらない日常なんてない……>>https://www.twitch.tv/videos/1706992241]]|
+|BGCOLOR(#e6e6fa):Twitch|12/20|[[# 96 クリスマスケーキが販売開始しましたよ>>https://www.twitch.tv/videos/1706992922]]|
+|BGCOLOR(#e6e6fa):Twitch|12/22|[[# 97 アップデートが入った朝活。作業枠>>https://www.twitch.tv/videos/1706993533]]|
+|BGCOLOR(#e6e6fa):Twitch|12/22|[[# 97.5 くーりすまーすがーこーとしーもやってｋる～～wwwwww>>https://www.twitch.tv/videos/1706994149]]|
+|BGCOLOR(#e6e6fa):Twitch|12/24|[[# 98 深夜営業(意味深) >>https://www.twitch.tv/videos/1708018094]]|
+|BGCOLOR(#e6e6fa):Twitch|12/24|[[# 99 メリークリぼっち🎅>>https://www.twitch.tv/videos/1708018898]]|
+|BGCOLOR(#e6e6fa):Twitch|12/25|[[# 100 クリスマスの日こそ仕事。これがリアル。>>https://www.twitch.tv/videos/1708019505]]|
+|BGCOLOR(#e6e6fa):Twitch|12/26|[[# 101 物騒な世の中を走るだけのレーサー>>https://www.twitch.tv/videos/1708020190]]|
+|ツイキャス|12/27|[[ランクマッチからの作業ストグラ少しだけ  >>https://twitcasting.tv/hiirotti0/movie/755025577]]|
+|BGCOLOR(#e6e6fa):Twitch|12/29|[[# 102 飲食店で忘年会とかしたいよね>>https://www.twitch.tv/videos/1708020768]]|
+|BGCOLOR(#e6e6fa):Twitch|12/30|[[# 103 やぁ。>>https://www.twitch.tv/videos/1708032417]]|
+|BGCOLOR(#e6e6fa):Twitch|12/31|[[# 104 ロスサントスで年越しだー！>>https://www.twitch.tv/videos/1708034869]]|
+#endregion
+***&bgcolor(#bcffbc){▼2023年1月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|1/1|[[番外編 初日の出を見るの巻>>https://www.twitch.tv/videos/1709972518]]|
+|BGCOLOR(#e6e6fa):Twitch|1/1|[[day105 お年玉>>https://www.twitch.tv/videos/1709973078]]|
+|BGCOLOR(#e6e6fa):Twitch|1/2|[[day106 トラック会社で働く事になりましたゴムです。>>https://www.twitch.tv/videos/1709973754]]|
+|BGCOLOR(#e6e6fa):Twitch|1/3|[[day107 夢に罪は付き物>>https://www.twitch.tv/videos/1709974491]]|
+|BGCOLOR(#e6e6fa):Twitch|1/6|[[day108-1 深夜から始めるトラック運送>>https://www.twitch.tv/videos/1709975689]]&br()[[day108-2 深夜から始めるトラック運送>>https://www.twitch.tv/videos/1709976209]]|
+|BGCOLOR(#e6e6fa):Twitch|1/7|[[day109 レーサー仲間を増やしたい>>https://www.twitch.tv/videos/1709976745]]|
+|BGCOLOR(#e6e6fa):Twitch|1/8|[[day110 友達欲しい>>https://www.twitch.tv/videos/1709989880]]|
+|BGCOLOR(#e6e6fa):Twitch|1/9|[[day111 お薬飲めたね>>https://www.twitch.tv/videos/1709990465]]|
+|BGCOLOR(#e6e6fa):Twitch|1/10|[[day112 まったりトラック運転>>https://www.twitch.tv/videos/1709997234]]|
+|BGCOLOR(#e6e6fa):Twitch|1/12|[[day113 No犯罪でーー>>https://www.twitch.tv/videos/1709997947]]|
+|BGCOLOR(#e6e6fa):Twitch|1/14|[[day114 仮想通貨上がってきた↑>>https://www.twitch.tv/videos/1709998490]]|
+|BGCOLOR(#e6e6fa):Twitch|1/14|[[day115 遂に……‼︎>>https://www.twitch.tv/videos/1713935987]]|
+|BGCOLOR(#e6e6fa):Twitch|1/15|[[day116 レースだー！家だー！焼肉だー！！>>https://www.twitch.tv/videos/1713936612]]|
+|BGCOLOR(#e6e6fa):Twitch|1/17|[[day117 超絶まったりなストグラ>>https://www.twitch.tv/videos/1714973691]]|
+|BGCOLOR(#e6e6fa):Twitch|1/19|[[day118 静かな町ロスサントス>>https://www.twitch.tv/videos/1716025373]]|
+|BGCOLOR(#e6e6fa):Twitch|1/20|[[day119 ゆっくり準備していきたい。>>https://www.twitch.tv/videos/1717872964]]|
+|BGCOLOR(#e6e6fa):Twitch|1/22|[[day120 「うい」>>https://www.twitch.tv/videos/1719810039]]|
+|BGCOLOR(#e6e6fa):Twitch|1/23|[[day121 こんな時間から街へ……>>https://www.twitch.tv/videos/1720876075]]|
+|BGCOLOR(#e6e6fa):Twitch|1/24|[[day122 車コンテストがあるらしい>>https://www.twitch.tv/videos/1722918267]]|
+|BGCOLOR(#e6e6fa):Twitch|1/27|[[day123 深夜の街並み。>>https://www.twitch.tv/videos/1722920188]]|
+|BGCOLOR(#e6e6fa):Twitch|1/27|[[day124-1 新ギャング開始「GATO」意味はスペイン語で猫>>https://www.twitch.tv/videos/1723754435]]&br()[[day124-2 新ギャング開始「GATO」意味はスペイン語で猫>>https://www.twitch.tv/videos/1723760028]]|
+|BGCOLOR(#e6e6fa):Twitch|1/28|[[day125 ギャングの朝は早い>>https://www.twitch.tv/videos/1725815024]]|
+|BGCOLOR(#e6e6fa):Twitch|1/29|[[day126 猫カフェ島を巡って……>>https://www.twitch.tv/videos/1725816038]]|
+|BGCOLOR(#e6e6fa):Twitch|1/30|[[day127 END>>https://www.twitch.tv/videos/1726787664]]|
+#endregion
+***&bgcolor(#bcffbc){▼2023年2月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|2/3|[[day128 To be continued…>>https://www.twitch.tv/videos/1730836850]]|
+|BGCOLOR(#e6e6fa):Twitch|2/7|[[day129 この時間に犯罪とかってできるっけ>>https://www.twitch.tv/videos/1734909215]]|
+|BGCOLOR(#e6e6fa):Twitch|2/19|[[day130 久しぶりの街並みを見に行ってみようか。>>https://www.twitch.tv/videos/1747589209]]|
+|BGCOLOR(#e6e6fa):Twitch|2/19|[[day131 へっへっへ>>https://www.twitch.tv/videos/1747590562]]|
+|BGCOLOR(#e6e6fa):Twitch|2/20|[[day132 近藤武蔵はまったり過ごしたい。>>https://www.twitch.tv/videos/1747591324]]|
+|BGCOLOR(#e6e6fa):Twitch|2/22|[[day133 最近やる事なくなってきたから交流でもしに行こう>>https://www.twitch.tv/videos/1753355631]]|
+|BGCOLOR(#e6e6fa):Twitch|2/23|[[day134 新人育成計画>>https://www.twitch.tv/videos/1753356672]]|
+|BGCOLOR(#e6e6fa):Twitch|2/26|[[day135 新人優秀すぎて俺いらんくね！？>>https://www.twitch.tv/videos/1753357684]]|
+|BGCOLOR(#e6e6fa):Twitch|2/28|[[day136 ギャングだからって犯罪ばっかりやってると思うなよっ！！>>https://www.twitch.tv/videos/1755288781]]|
+|BGCOLOR(#e6e6fa):Twitch|2/28|[[day137 誕生日はもしかしてプリズンで過ごすなんて事はないよな……‼>>https://www.twitch.tv/videos/1755289495]]|
+#endregion
+***&bgcolor(#bcffbc){▼2023年3月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|3/1|[[day138 オッスオラ犯罪者！近藤武蔵>>https://www.twitch.tv/videos/1758095008]]|
+|BGCOLOR(#e6e6fa):Twitch|3/3|[[day139 人が増えて忙しくなりそうだ。テンション上がるねぇ>>https://www.twitch.tv/videos/1758095634]]|
+|BGCOLOR(#e6e6fa):Twitch|3/3|[[day140 もう過ごしてきた日付を考えることはやめた>>https://www.twitch.tv/videos/1758096292]]|
+|BGCOLOR(#e6e6fa):Twitch|3/5|[[day141 島確保。>>https://www.twitch.tv/videos/1759043084]]|
+|BGCOLOR(#e6e6fa):Twitch|3/5|[[day142 新しい島が誕生したんだって!?!?>>https://www.twitch.tv/videos/1759961306]]|
+|BGCOLOR(#e6e6fa):Twitch|3/6|[[day143 ギャングボスは考える事が多い>>https://www.twitch.tv/videos/1760873894]]|
+|BGCOLOR(#e6e6fa):Twitch|3/7|[[day144 ギャングGATO日記１>>https://www.twitch.tv/videos/1763890265]]|
+|BGCOLOR(#e6e6fa):Twitch|3/9|[[day145 神の盾ヤバすぎイイ！>>https://www.twitch.tv/videos/1763891056]]|
+|BGCOLOR(#e6e6fa):Twitch|3/9|[[day146 まったり>>https://www.twitch.tv/videos/1763891759]]|
+|BGCOLOR(#e6e6fa):Twitch|3/12|[[day147 深夜の街並み。>>https://www.twitch.tv/videos/1767580942]]|
+|BGCOLOR(#e6e6fa):Twitch|3/15|[[day148 ホワイトデー渡す前に日付変わってた>>https://www.twitch.tv/videos/1770519935]]|
+|BGCOLOR(#e6e6fa):Twitch|3/15|[[day149 犯罪は計画的に。>>https://www.twitch.tv/videos/1770520750]]|
+|BGCOLOR(#e6e6fa):Twitch|3/16|[[day150 今の俺に足りないものはなんだろう？？>>https://www.twitch.tv/videos/1770521722]]|
+|BGCOLOR(#e6e6fa):Twitch|3/18|[[day151 部下の運命はいかに>>https://www.twitch.tv/videos/1773125352]]|
+|BGCOLOR(#e6e6fa):Twitch|3/19|[[day152 レースランキング1位奪還するか>>https://www.twitch.tv/videos/1773126080]]|
+|BGCOLOR(#e6e6fa):Twitch|3/20|[[day153 出張前に犯罪してやる>>https://www.twitch.tv/videos/1776139885]]|
+|BGCOLOR(#e6e6fa):Twitch|3/21|[[day154 計画を立てようの回>>https://www.twitch.tv/videos/1776140910]]|
+|BGCOLOR(#e6e6fa):Twitch|3/22|[[day155 罪人>>https://www.twitch.tv/videos/1776142016]]|
+|BGCOLOR(#e6e6fa):Twitch|3/27|[[day156 スペインの休憩がてらストグラ>>https://www.twitch.tv/videos/1784314936]]|
+|BGCOLOR(#e6e6fa):Twitch|3/28|[[day157 ギャングってなんだろう>>https://www.twitch.tv/videos/1784316870]]|
+|BGCOLOR(#e6e6fa):Twitch|3/29|[[day158 近藤武蔵の日常。野次馬>>https://www.twitch.tv/videos/1784317527]]|
+|BGCOLOR(#e6e6fa):Twitch|3/30|[[day159 近藤武蔵 フォーエバー>>https://www.twitch.tv/videos/1784324437]]|
+|BGCOLOR(#e6e6fa):Twitch|3/31|[[day160 ギャング近藤武蔵>>https://www.twitch.tv/videos/1784325363]]|
+#endregion
+***&bgcolor(#bcffbc){▼2023年4月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|4/2|[[day161 近藤武蔵の平和なレパートリー>>https://www.twitch.tv/videos/1789859748]]|
+|BGCOLOR(#e6e6fa):Twitch|4/3|[[day162 ルンルンルン>>https://www.twitch.tv/videos/1789862393]]|
+|BGCOLOR(#e6e6fa):Twitch|4/4|[[day163 GAME RACE>>https://www.twitch.tv/videos/1789865285]]|
+|BGCOLOR(#e6e6fa):Twitch|4/7|[[day164 GATO~近藤武蔵>>https://www.twitch.tv/videos/1790688653]]|
+|BGCOLOR(#e6e6fa):Twitch|4/8|[[day165 GATO~近藤武蔵~>>https://www.twitch.tv/videos/1793344762]]|
+|BGCOLOR(#e6e6fa):Twitch|4/8|[[day166 GATO~近藤武蔵~>>https://www.twitch.tv/videos/1795238252]]|
+|BGCOLOR(#e6e6fa):Twitch|4/13|[[day167 久しぶりロスサントス。>>https://www.twitch.tv/videos/1797829343]]|
+|BGCOLOR(#e6e6fa):Twitch|4/14|[[day168 お金♪お金♪おっかね～～♪>>https://www.twitch.tv/videos/1797830253]]|
+|BGCOLOR(#e6e6fa):Twitch|4/19|[[day169 ~GATO~Game Master>>https://www.twitch.tv/videos/1805719804]]|
+|BGCOLOR(#e6e6fa):Twitch|4/21|[[day170 近藤武蔵物語。GATO終焉。>>https://www.twitch.tv/videos/1805731242]]|
+|BGCOLOR(#e6e6fa):Twitch|4/22|[[day171 近藤武蔵物語。就活という名の終活。>>https://www.twitch.tv/videos/1805732929]]|
+#endregion
+***&bgcolor(#bcffbc){▼2023年5月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|5/27|[[day172 ただいまロスサントス>>https://www.twitch.tv/videos/1833951239]]|
+|BGCOLOR(#e6e6fa):Twitch|5/28|[[day173 今日から就活生。>>https://www.twitch.tv/videos/1834773747]]|
+|BGCOLOR(#e6e6fa):Twitch|5/29|[[day174 新しいレースコース作りながら就活??>>https://www.twitch.tv/videos/1838253826]]|
+|BGCOLOR(#e6e6fa):Twitch|5/30|[[day175 カフェ店員体験>>https://www.twitch.tv/videos/1838254640]]|
+#endregion
+***&bgcolor(#bcffbc){▼2023年6月}
+#region()
+#areaedit()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|6/1|[[day176 斎藤さんの所で働きたいっ>>https://www.twitch.tv/videos/1838255674]]|
+|BGCOLOR(#e6e6fa):Twitch|6/1|[[day177 教習所の先生に俺はなるっ！！>>https://www.twitch.tv/videos/1838256739]]|
+|BGCOLOR(#e6e6fa):Twitch|6/2|[[day178 街がヒリつく中一人超絶まったりな猫>>https://www.twitch.tv/videos/1841711061]]|
+|BGCOLOR(#e6e6fa):Twitch|6/4|[[day179 職業はトラック運転手なんだよなあ>>https://www.twitch.tv/videos/1841714776]]|
+|BGCOLOR(#e6e6fa):Twitch|6/5|[[day180 深夜の平和な日常>>https://www.twitch.tv/videos/1841716393]]|
+|BGCOLOR(#e6e6fa):Twitch|6/5|[[day181 釣りしたい>>https://www.twitch.tv/videos/1843456669]]|
+|BGCOLOR(#e6e6fa):Twitch|6/9|[[day182 遊びたいっ！>>https://www.twitch.tv/videos/1845088518]]|
+|BGCOLOR(#e6e6fa):Twitch|6/9|[[day183 石洗いおじさん>>https://www.twitch.tv/videos/1845089906]]|
+|BGCOLOR(#e6e6fa):Twitch|6/11|[[day184>>https://www.twitch.tv/videos/1846861748]]|
+|BGCOLOR(#e6e6fa):Twitch|6/13|[[day185>>https://www.twitch.tv/videos/1846867144]]|
+|BGCOLOR(#e6e6fa):Twitch|6/14|[[day186>>https://www.twitch.tv/videos/1847690794]]|
+|BGCOLOR(#e6e6fa):Twitch|6/15|[[day187>>https://www.twitch.tv/videos/1850050474]]|
+|BGCOLOR(#e6e6fa):Twitch|6/16|[[day188>>https://www.twitch.tv/videos/1850054473]]|
+|BGCOLOR(#e6e6fa):Twitch|6/17|[[day189>>https://www.twitch.tv/videos/1859568074]]|
+|BGCOLOR(#e6e6fa):Twitch|6/19|[[day190>>https://www.twitch.tv/videos/1862923670]]|
+|BGCOLOR(#e6e6fa):Twitch|6/20|[[day191>>https://www.twitch.tv/videos/1862929248]]|
+|BGCOLOR(#e6e6fa):Twitch|6/23|[[day192>>https://www.twitch.tv/videos/1862953357]]|
+|BGCOLOR(#e6e6fa):Twitch|6/26|[[day193 平和な日常>>https://www.twitch.tv/videos/1863824856]]|
+|BGCOLOR(#e6e6fa):Twitch|6/29|[[day194>>https://www.twitch.tv/videos/1863829030]]|
+#endregion
+***&bgcolor(#bcffbc){▼2023年7月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|7/6|[[day195>>https://www.twitch.tv/videos/1868061483]]|
+|BGCOLOR(#e6e6fa):Twitch|7/14|[[day196 今日はとてもいいレース日和。GameMaster>>https://www.twitch.tv/videos/1880299119]]|
+|BGCOLOR(#e6e6fa):Twitch|7/17|[[day197>>https://www.twitch.tv/videos/1880312649]]|
+|BGCOLOR(#e6e6fa):Twitch|7/19|[[day198>>https://www.twitch.tv/videos/1880318504]]|
+|BGCOLOR(#e6e6fa):Twitch|7/19|[[day199 まったりした日常>>https://www.twitch.tv/videos/1882038168]]|
+|BGCOLOR(#e6e6fa):Twitch|7/21|[[day200-1 最強レーサー目指して頑張るGameMaster>>https://www.twitch.tv/videos/1882041030]]&br()[[day200-2 最強レーサー目指して頑張るGameMaster>>https://www.twitch.tv/videos/1882042043]]|
+|BGCOLOR(#e6e6fa):Twitch|7/23|[[day201 みんな旅行に行ってるみたいだ静かな街でタイムアタック>>https://www.twitch.tv/videos/1882898746]]|
+|ツイキャス|7/27|[[day202 猫カフェ再始動に向けて近藤武蔵のまったり日常パート>>https://twitcasting.tv/hiirotti0/movie/772911434]]|
+|ツイキャス|7/29|[[day203 猫カフェ再始動に向けて近藤武蔵のまったり日常パート2>>https://twitcasting.tv/hiirotti0/movie/773063791]]|
+|ツイキャス|7/29|[[day204 猫カフェ再始動に向けて近藤武蔵のまったり日常パート3>>https://twitcasting.tv/hiirotti0/movie/773140662]]|
+#endregion
+***&bgcolor(#bcffbc){▼2023年8月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|8/1|[[day205 近藤武蔵の物語>>https://www.twitch.tv/videos/1893239671]]|
+|BGCOLOR(#e6e6fa):Twitch|8/5|[[day206 -レースイベントがあるってよ->>https://www.twitch.tv/videos/1894080604]]|
+|BGCOLOR(#e6e6fa):Twitch|8/13|[[day207 -猫カフェ夏祭りだー！->>https://www.twitch.tv/videos/1905367942]]|
+|BGCOLOR(#e6e6fa):Twitch|8/16|[[day208>>https://www.twitch.tv/videos/1905382628]]|
+|BGCOLOR(#e6e6fa):Twitch|8/28|[[day209>>https://www.twitch.tv/videos/1914127312]]|
+#endregion
+***&bgcolor(#bcffbc){▼2023年10月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|10/3|[[day210 -少しだけ猫カフェからの犯罪者->>https://www.twitch.tv/videos/1947338794]]|
+#endregion
+***&bgcolor(#bcffbc){▼2023年11月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|11/17|[[day211 -結婚おめでとうおぅおお->>https://www.twitch.tv/videos/2014071520]]|
+|BGCOLOR(#e6e6fa):Twitch|11/18|[[day212>>https://www.twitch.tv/videos/2023335872]]|
+|BGCOLOR(#e6e6fa):Twitch|11/19|[[day213>>https://www.twitch.tv/videos/2027239941]]|
+|BGCOLOR(#e6e6fa):Twitch|11/20|[[day214>>https://www.twitch.tv/videos/2027296324]]|
+|BGCOLOR(#e6e6fa):Twitch|11/21|[[day215>>https://www.twitch.tv/videos/2032911098]]|
+|BGCOLOR(#e6e6fa):Twitch|11/22|[[day216>>https://www.twitch.tv/videos/2032930363]]|
+|BGCOLOR(#e6e6fa):Twitch|11/24|[[day218 -PCの調子が悪い-①>>https://www.twitch.tv/videos/2033098924]][[②>>https://www.twitch.tv/videos/2033102014]]|
+|BGCOLOR(#e6e6fa):Twitch|11/25|[[day219 -抽選だけやってからハンクやる-①>>https://www.twitch.tv/videos/2033112503]][[②>>https://www.twitch.tv/videos/2033113369]]|
+|BGCOLOR(#e6e6fa):Twitch|11/26|[[day220 -猫カフェ店長の日常->>https://www.twitch.tv/videos/2033143645]]|
+
+#endregion
+***&bgcolor(#bcffbc){▼2023年12月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|12/11|[[day222 作業と犯罪>>https://www.twitch.tv/videos/2047933132]]|
+
+#endregion
+***&bgcolor(#bcffbc){▼2024年1月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|1/11|[[day224 従業員増やしたいなぁ～>>https://www.twitch.tv/videos/2061470212]]|
+|BGCOLOR(#e6e6fa):Twitch|1/16|[[day225>>https://www.twitch.tv/videos/2075067488]]|
+|BGCOLOR(#e6e6fa):Twitch|1/17|[[day226>>https://www.twitch.tv/videos/2075097859]]|
+|BGCOLOR(#e6e6fa):Twitch|1/18|[[day227 遅番なのでチル>>https://www.twitch.tv/videos/2075100451]]|
+|BGCOLOR(#e6e6fa):Twitch|1/24|[[day229 遅番チル>>https://www.twitch.tv/videos/2081819210]]|
+|BGCOLOR(#e6e6fa):Twitch|1/30|[[day230>>https://www.twitch.tv/videos/2097060086]]|
+|BGCOLOR(#e6e6fa):Twitch|1/31|[[day231 ボートレースでるぞぉぉ>>https://www.twitch.tv/videos/2104741534]]|
+
+#endregion
+***&bgcolor(#bcffbc){▼2024年2月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|2/1|[[day232 カスタムしたりレースしたりしたい。>>https://www.twitch.tv/videos/2104741828]]|
+|BGCOLOR(#e6e6fa):Twitch|2/2|[[day233 9055メカニック体験3日目>>https://www.twitch.tv/videos/2104742358]]|
+|BGCOLOR(#e6e6fa):Twitch|2/4|[[day234>>https://www.twitch.tv/videos/2104745169]]|
+
+#endregion
+***&bgcolor(#bcffbc){▼2024年3月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|3/1|[[day235 誕生日チル>>https://www.twitch.tv/videos/2122936921]]|
+#endregion
+***&bgcolor(#bcffbc){▼2024年8月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|8/1|[[day236 猫カフェメンバーで遊ぶらしい>>https://www.twitch.tv/videos/2251655227]]|
+#endregion
+***&bgcolor(#bcffbc){▼2024年9月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|9/5|[[day237 レアキャラ近藤武蔵くんのまったりドライブ>>https://www.twitch.tv/videos/2263923064]]|
+|BGCOLOR(#e6e6fa):Twitch|9/13|[[day238 魂が4周年だって>>https://www.twitch.tv/videos/2269768161]]|
+|BGCOLOR(#e6e6fa):Twitch|9/17|[[day239 近藤武蔵の老後生活>>https://www.twitch.tv/videos/2269768786]]|
+|BGCOLOR(#e6e6fa):Twitch|9/18|[[day240 近藤武蔵の老後生活２>>https://www.twitch.tv/videos/2270532978]]|
+|BGCOLOR(#e6e6fa):Twitch|9/19|[[day241 近藤武蔵の老後生活３>>https://www.twitch.tv/videos/2270533438]]|
+|BGCOLOR(#e6e6fa):Twitch|9/20|[[day242 近藤武蔵の老後生活4>>https://www.twitch.tv/videos/2270533863]]|
+|BGCOLOR(#e6e6fa):Twitch|9/24|[[day243>>https://www.twitch.tv/videos/2282063406]]|
+#endregion
+***&bgcolor(#bcffbc){▼2024年10月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|10/1|[[day244>>https://www.twitch.tv/videos/2284808337]]|
+|BGCOLOR(#e6e6fa):Twitch|10/2|[[day245>>https://www.twitch.tv/videos/2284808972]]|
+|BGCOLOR(#e6e6fa):Twitch|10/18|[[day246 近藤武蔵の老後生活5>>https://www.twitch.tv/videos/2302312063]]|
+|BGCOLOR(#e6e6fa):Twitch|10/22|[[day247 近藤武蔵の老後生活6>>https://www.twitch.tv/videos/2305612602]]|
+|BGCOLOR(#e6e6fa):Twitch|10/23|[[day248 近藤武蔵の老後生活7>>https://www.twitch.tv/videos/2305612819]]|
+#endregion
+***&bgcolor(#bcffbc){▼2024年11月}
+#region()
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|11/5|[[day???>>https://www.twitch.tv/videos/2330590338?t=17562s]]|
+|BGCOLOR(#e6e6fa):Twitch|11/6|[[day249 暗黒祭 ヘリ大会でたい>>https://www.twitch.tv/videos/2330592086]]|
+
+#endregion
+***&bgcolor(#bcffbc){▼ストグラ鬼ごっこ}
+#table_style(head=center){配信日=right}
+|~配信場所|~配信日|~配信タイトル|h
+|BGCOLOR(#e6e6fa):Twitch|3/4|[[番外編【#ストグラ鬼ごっこ】配信者として鬼ごっこに参加します！【Vtuber/水無月ひいろ】#ストグラ>>https://www.twitch.tv/videos/1758096727]]|
+|BGCOLOR(#e6e6fa):Twitch|4/1|[[【ストグラ鬼ごっこ】逃げ切るぞ～～！！ #ストグラ #ストリーマーグラセフ>>https://www.twitch.tv/videos/1789858693]]|
+
+#right(){&link_anchor(目次1){△目次へ}}

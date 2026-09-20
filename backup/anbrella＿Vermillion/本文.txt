@@ -1,0 +1,263 @@
+#region(開く)&b(){閉じる}
+&anchor(Vermillion,option=nolink)
+#slide_img(auto=3,width=352,height=198){7163.jpeg,private2.jpeg,by.jpeg}
+#size(90%){
+#table_color(head=#99000D:#F5F5DC)
+|~店名|&ruby(ヴァーミリオン){Vermillion}|
+|~業種|飲食店|
+|~開業日|2024年6月18日|
+|~所在地|7163番地|
+|~オーナー|[[アルフォート　ウェスカー]]|
+
+**基本情報
+-[[ウェスカー>アルフォート　ウェスカー]]がオーナーを務める接待付き飲食店。&font(l){現在は市に開業許可を得ていない闇営業状態。}&br()2024年5月29日に[[市長>山下　ひろし]]へ営業申請を行い、内定を貰う。
+-ギャング「[[anbrella(餡ブレラ)]]」のフロント企業。組織の活動拠点であるリゾートホテル施設内に店舗を構える。
+-整備工場「[[BMカスタム]]」からの依頼がきっかけで立ち上げた企業で、白市民も雇用している。
+-[[華月>西蓮寺　華月]]、[[華憐>栖家幡　華憐]]が内装を手掛けるハウジング店舗。その家具数は1000を超える。&br()開業前に店を訪れた[[市長>山下　ひろし]]からは「期待以上に素晴らしい」と評価を受けた。
+-システム上のJOBに就くのは[[餡ブレラ>anbrella(餡ブレラ)]]メンバーのみ。JOBに就くメンバーはメニューの作成ができる。
+**料金・システム
+***&icon_fa(fa fa-angles-down)&space()&underdot(#99000D,2px){System}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){}
+|~システム|~料金|h
+|席料|1セット15分(延長なし)&br()通常席(くまちゃん/さんかく/ティーポット/ほし)：100万円&br()個室／VIP席：3000万円 |
+|指名料|&color(#6DA8D0){&icon_fa(fa fa-coins)}10万餡コイン|
+|Drink|&color(#CF7AA5){&icon_fa(fa fa-coins)}5万餡コイン(特別メニューを除く)|
+|Food|&color(#A8CD6F){&icon_fa(fa fa-coins)}1万餡コイン|
+|シャンパンタワー|&color(#A38AD0){&icon_fa(fa fa-coins)}100万餡コイン|
+|2ショットチェキ|&color(#6DA8D0){&icon_fa(fa fa-coins)}10万餡コイン|
+#table_sorter{even=#F7F7F7,odd=#fff}
+
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){}
+|~▼ 通常席(全4席/最大2名)|~▼ 個室(1室/団体利用可)|
+|&blankimg(standard.png,x=208,y=117)|&blankimg(private.png,x=208,y=117)|
+|~▼ VIP席(1席/団体利用可)|~▼ ステージ(VIP席特典)|
+|&blankimg(vip.png,x=208,y=117)|&blankimg(stage.png,x=208,y=117)|
+&small(){*画像をクリックで別タブ表示}
+-店内BGM「♪ [[night light>>https://youtu.be/I_32-yBFFWc]]」
+|&video(https://youtu.be/I_32-yBFFWc,width=208,height=117)|
+-現金のやり取りは店頭カウンターのみ。席料、餡コインは入店前に現金で支払う。&br()持ち合わせのないお客様には、オーナーから利息無しで現金を借り入れできるサービスも。
+-店内での飲食購入およびキャストへ贈るチップは、カウンターで換金する「餡コイン」が必須。&br()チップは次回来店時に持ち越し可能。払い戻し、誤飲時の補填は不可。
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){画像=center}
+|~画像|~名前|~備考|h
+|&blankimg(an10k.JPG,x=43,y=43)|&b(){AN10000coin}&br()&small(){1万餡コイン}|Vermillion専用コイン。換金は100万円。&br()飲食購入、キャストへのチップに利用できる。|
+|&blankimg(an50k.jpeg,x=43,y=43)|&b(){AN50000coin}&br()&small(){5万餡コイン}|Vermillion専用コイン。換金は500万円。&br()飲食購入、キャストへのチップに利用できる。|
+|&blankimg(an100k.JPG,x=43,y=43)|&b(){AN100000coin}&br()&small(){10万餡コイン}|Vermillion専用コイン。換金は1000万円。&br()飲食購入、キャストへのチップに利用できる。|
+|&blankimg(an1m.JPG,x=43,y=43)|&b(){AN1000000coin}&br()&small(){100万餡コイン}|Vermillion専用コイン。換金は1億円。&br()飲食購入、キャストへのチップに利用できる。|
+|&blankimg(an10m.JPG,x=43,y=43)|&b(){AN10000000coin}&br()&small(){1000万餡コイン}|Vermillion専用コイン。換金は10億円。&br()飲食購入、キャストへのチップに利用できる。|
+#table_sorter(){head=#99000D,even=#FFF}
+-◎1億円(&color(#A38AD0){&icon_fa(fa fa-coins)}100万餡コイン)以上購入で【Vermillion特別ボトル】プレゼント！
+-◎白市民限定！&color(#D8B270){&icon_fa(fa fa-ticket)}地域貢券1枚で【&color(#CF7AA5){&icon_fa(fa fa-coins)}5万餡コイン】、&br()もしくは&color(#D8B270){&icon_fa(fa fa-ticket)}地域貢券1枚/3枚/5枚で【Vermillion限定ボトル】と交換！
+-店内でのセクハラ行為、暴言・暴力行為、引き抜き行為は一切禁止。&br()見かけ次第声掛けの後、違反金【10億円】を請求される。
+#region(オープンフライヤー[ストグラ内TwiXより],open)&bold(){オープンフライヤー[ストグラ内TwiXより]}
+|&blankimg(2406181.png,x=140,y=196)|
+#endregion
+**従業員情報
+***&icon_fa(fa fa-star-and-crescent)&space()&underdot(#99000D,2px){Cast}
+#size(90%){#table_filter(){No.=show,役職=show,名前=show,所属=hide,備考=show}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){}
+|~役職|~名前|~所属|~備考|h
+|&b(){キャスト}|[[栖家幡　華憐]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){キャスト}|[[メリー　クロース]]&br()(くまちゃん)|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){キャスト}|[[聖母　れりあ]]|[[餡ブレラ>anbrella(餡ブレラ)]]|🥇6/18売上1位(16.63億+5億)/🥇6/18指名数1位|
+|&b(){キャスト}|[[刃牙　りえる]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){キャスト}|[[あいまいみー]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){キャスト}|[[宿無　おきる]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){キャスト}|[[空舞月　りり]]|[[BMC>BMカスタム]]||
+|&b(){キャスト}|[[にし　のん]]|[[BMC>BMカスタム]]|🥉6/18指名数3位|
+|&b(){キャスト}|[[空舞月　るる]]|[[BMC>BMカスタム]]||
+|&b(){キャスト}|[[御花　はな]]|[[BMC>BMカスタム]]||
+|&b(){キャスト}|[[神道　まきぴ]]|[[BMC>BMカスタム]]||
+|&b(){キャスト}|[[星唄　サウ汰]]|[[BMC>BMカスタム]]|🥈6/18売上2位(17.8億)/🥈6/18指名数2位|
+|&b(){キャスト}|[[青梅　つばめ]]|[[BMC>BMカスタム]]||
+|&b(){キャスト}|[[うさぎ　さん>山田　パルコ]]|[[BMC>BMカスタム]]|🥉6/18売上3位(15.73億)|
+|&b(){キャスト}|[[揚物　ころも]]|[[BMC>BMカスタム]]|🥉6/18指名数3位|
+|&b(){キャスト}|[[くまの　ふでこ]]|[[BMC>BMカスタム]]||
+|&b(){キャスト}|[[する　蔵>天成　する蔵]]&br()(すーちゃん)|[[BMC>BMカスタム]]||
+|&b(){キャスト}|[[エスターク・Z・ダークネス]]&br()(エスちゃん)|[[ALLIN]]|🥉6/18指名数3位|
+|&b(){キャスト}|[[稲葉　イナ子>稲葉　ゴン]]|[[餡ブレラ>anbrella(餡ブレラ)]]|[[さぶ郎>安保　さぶ郎]]専属の特別キャスト|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#fff}}
+//【メモ24.06.18】総売上：1087800/客数：84名/席料：53800(通常28/VIP9/個室8)/チップ売上：1034000/貢券20枚/キャストチップ：1054900/ふでこ5200、あげころ51300、りえる22900、まきぴ65100+α、まいみ8400、サウ汰178000🥈、うさぎ157300🥉、りり31100、にしのん60200、おきる18000、かれん38300、くま4100、るる55800、はな53100、エス109600、つばめ30200、れりあ166300+(6/12→40000)🥇/指名数：45(にしのん4、サウ汰5🥈、あげころ4、りり1、りえる2、エス4、華憐2、れりあ7🥇、るる2、まきぴ3、くま2、イナ子1、うさぎ2、つばめ2、おきる1、まいみ1、はな1)/分配：キャスト→自身の売上半分、黒服→1億×12人、順位ボーナス🥇れりあ3億🥈サウ汰2億🥉うさぎ1億、ハウジングボーナス華月5億(4億)華憐5億、企画・名刺代→りり5億、箱代2億、営業許可5億、残り組織プール
+
+***&icon_fa(fa fa-user-tie)&space()&underdot(#99000D,2px){Staff}
+#size(90%){#table_filter(){No.=show,役職=show,名前=show,所属=hide,備考=show}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){}
+|~役職|~名前|~所属|~備考|h
+|&b(){オーナー/経理&br()受付/キャスト}|[[アルフォート　ウェスカー]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服/キャスト}|[[アーモンド　サラザール]]&br()(ハンク)|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服}|[[アレクサンダー　アイスボックス]]&br()(博士)|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服/キャスト}|[[ジェイク　レディントン]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服/キャスト}|[[キャプテン　わきを]]&br()(ベルーガ悠吾)|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服/キャスト}|[[クマ　ゴリラ]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服/キャスト}|[[ニャンコ・スキー]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服/キャスト}|[[伊達咲　政宗]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服/キャスト}|[[西蓮寺　華月]]&br()(ソフト・サンティア)|[[餡ブレラ>anbrella(餡ブレラ)]]|ステージ演出担当|
+|&b(){黒服/キャスト}|[[アルベール]]&br()(魔王)|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服/受付&br()キャスト}|[[那須　裕貴]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服/キャスト}|[[酒槻　すん]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服/キャスト}|[[稲葉　ゴン]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+|&b(){黒服}|[[ジェフリー　ヒッチコック]]|[[BMC>BMカスタム]]||
+|&b(){黒服/キャスト}|[[オザワ　ハヤマサ]]|[[餡ブレラ>anbrella(餡ブレラ)]]||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#fff}}
+
+**メニュー
+#region(開く)&b(){閉じる}
+***&icon_fa(fa fa-angles-down)&space()&underdot(#99000D,2px){Service}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){画像=center}
+|~種類|~画像|~名前|~備考|h
+|Joint|&blankimg(oshibori.jpeg,x=43,y=43)|&b(){Premium Oshibori}&small(){（高級おしぼり）}&br()&small(){柔軟剤のいい香りがするおしぼり}|サービス品。|
+|Food|&blankimg(sawaru.jpeg,x=43,y=43)|&b(){SAWARU NUTS}&small(){（触るなっつ）}&br()&small(){女の子おさわり厳禁。きついお仕置きあります}|Vermillion×[[焦村家]]コラボメニュー。&br()[[焦村家]]監修。サービス品。|
+|Drink|&blankimg(anwhiskey.jpeg,x=43,y=43)|&b(){AK Whiskey}&small(){（紅ウィスキー）}&br()&small(){リッチな貴方に特別な紅ウィスキーを}|餡コインを1億円以上購入したお客様に贈られる特別ボトル。|
+#table_autoincrement(){label=No.}
+#table_sorter(){head=#99000D,even=#FFF}
+
+***&icon_fa(fa fa-angles-down)&space()&underdot(#99000D,2px){Special Drink}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){画像=center}
+|~画像|~名前|~備考・料金|h
+|&blankimg(anwine.jpeg,x=43,y=43)|&b(){AN Wine}&small(){（餡ワイン）}&br()&small(){地域貢券1枚の限定ワイン}|&color(#D8B270){&icon_fa(fa fa-ticket)}地域貢券1枚|
+|&blankimg(braandy.jpeg,x=43,y=43)|&b(){braANdy}&small(){（ブラ餡デー）}&br()&small(){地域貢券3枚と交換できる限定ブランデー}|&color(#D8B270){&icon_fa(fa fa-ticket)}地域貢券3枚|
+|&blankimg(anperi.jpeg,x=43,y=43)|&b(){AN Peri}&small(){（餡ペリ）}&br()&small(){地域貢券5枚と交換できる限定高級シャンパン}|&color(#D8B270){&icon_fa(fa fa-ticket)}地域貢券5枚|
+|&blankimg(rfort.jpeg,x=43,y=43)|&b(){R Fort Whiskey}&small(){（アールフォート・ウィスキー）}&br()&small(){}|[[ウェスカー>アルフォート　ウェスカー]]のイメージボトル。[[奇肉屋]]協賛。&br()&color(#6DA8D0){&icon_fa(fa fa-coins)}10万餡コイン|
+|&blankimg(bmc.jpeg,x=43,y=43)|&b(){Bear Ring}&small(){（ベアーリング）}&br()&small(){}|Vermillion×[[BMC>BMカスタム]]コラボカクテル。[[奇肉屋]]監修。&br()&color(#A38AD0){&icon_fa(fa fa-coins)}100万餡コイン|
+|&blankimg(wesker.JPG,x=43,y=43)|&b(){Armand Wesker}&small(){（アルマンド・ウェスカー）}&br()&small(){Vermilionの一級品}|[[アルフォート・ウェスカー>アルフォート　ウェスカー]]のイメージボトル。&br()&color(#A38AD0){&icon_fa(fa fa-coins)}100万餡コイン|
+|&blankimg(champagne.jpeg,x=43,y=43)|&b(){Original Champagne}&small(){（オリジナルシャンパン）}&br()&small(){No.1にしたい推しとの共同作業}|個室/VIP席のお客様が注文できるシャンパンタワー。&br()&color(#A38AD0){&icon_fa(fa fa-coins)}100万餡コイン|
+|&blankimg(anbrichard.jpeg,x=43,y=43)|&b(){ANB Richard}&small(){（アンブ・リシャール）}&br()&small(){クリスタルデキャンターに包まれた 最高級のブランデー}|モチーフ：リシャール&br()&color(#CD6C6B){&icon_fa(fa fa-coins)}1000万餡コイン|
+|&blankimg(an13.jpeg,x=43,y=43)|&b(){AN 13sei}&small(){（餡13世）}&br()&small(){大切な人への贈り物、コレクションに餡13世}|モチーフ：ルイ13世&br()&color(#CD6C6B){&icon_fa(fa fa-coins)}1000万餡コイン|
+#table_autoincrement(){label=No.}
+#table_sorter(){head=#99000D,even=#FFF}
+
+***&icon_fa(fa fa-angles-down)&space()&underdot(#99000D,2px){Original Drink}&space()&color(#CF7AA5){&icon_fa(fa fa-coins)}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){画像=center}
+|~画像|~名前|~備考|h
+|&blankimg(ancocktail.jpeg,x=43,y=43)|&b(){Anbrella Cocktail}&small(){（餡ブレラカクテル）}&br()&small(){ダークラムの濃厚さとカルダモンを加えたことで&br()ただ甘いだけでなくギャングらしさを表現しました}|餡ブレラのイメージカクテル。&br()[[Violet Fizz]]考案レシピ。|
+|&blankimg(bear.JPG,x=43,y=43)|&b(){Bear Cooler}&small(){（ベアー・クーラー）}&br()&small(){野生味溢れる至極の味わい}|[[クマゴリ>クマ　ゴリラ]]のイメージカクテル。&br()モチーフ： ペアー・クーラー|
+|&blankimg(charl.JPG,x=43,y=43)|&b(){Charl Blossom}&small(){（チャルーブロッサム）}&br()&small(){美しさと強さのメリハリがあなたを満足させる一杯}|[[チャルロス>チャルロス　SAY!!]]のイメージカクテル。&br()モチーフ： チェリーブロッサム|
+|&blankimg(gramas.JPG,x=43,y=43)|&b(){Gramas Hopper}&small(){（グラマスホッパー）}&br()&small(){あなたに会える喜び}|[[グラマス>九頭峰　誠志郎]]のイメージカクテル。&br()モチーフ： グラス・ホッパー|
+|&blankimg(homare.jpeg,x=43,y=43)|&b(){Homaretinez}&small(){（誉ティネス）}&br()&small(){自由に一人で旅をしながら、休息に一杯}|[[有坂誉>有坂　誉]]のイメージカクテル。&br()モチーフ：マルティネス|
+|&blankimg(hunk.JPG,x=43,y=43)|&b(){Incredible Hunk}&small(){（インクレディブル・ハンク）}&br()&small(){混じり合うカクテル、交わらない運命}|[[ハンク>アーモンド　サラザール]]のイメージカクテル。&br()モチーフ：インクレディブル・ハルク|
+|&blankimg(jake.jpeg,x=43,y=43)|&b(){Jake Rose}&small(){（ジェイク・ローズ）}&br()&small(){ダンディな魅力溢れるお酒}|[[ジェイク>ジェイク　レディントン]]のイメージカクテル。&br()モチーフ：ジャック・ローズ|
+|&blankimg(jiji.JPG,x=43,y=43)|&b(){Jiji Tonic}&small(){（ジジ・トニック）}&br()&small(){ハーブ等を研究し作られた蒸留酒}|[[博士>アレクサンダー　アイスボックス]]のイメージカクテル。&br()モチーフ：ジン・トニック|
+|&blankimg(kagetsu.JPG,x=43,y=43)|&b(){Kagetsu Orange}&small(){（カゲツ・オレンジ）}&br()&small(){甘酸っぱいファーストインパクト}|[[華月>西蓮寺　華月]]のイメージカクテル。&br()モチーフ：カシス・オレンジ|
+|&blankimg(karen.JPG,x=43,y=43)|&b(){Karen'a Milk}&small(){（カレンアミルク）}&br()&small(){貴方をダメにする優しい甘さ}|[[華憐>栖家幡　華憐]]のイメージカクテル。&br()モチーフ：カルーアミルク|
+|&blankimg(laeria.JPG,x=43,y=43)|&b(){Laeri Eye}&small(){（レッリ・アイ）}&br()&small(){見た目とは裏腹に優しく繊細な味が特徴}|[[れりあ>聖母　れりあ]]のイメージカクテル。&br()モチーフ：レッド・アイ|
+|&blankimg(maimi.JPG,x=43,y=43)|&b(){Maimi Sunset}&small(){（マイミー・サンセット）}&br()&small(){貴方を思いやり、飲みやすく作ったカクテル}|[[まいみー>あいまいみー]]のイメージカクテル。&br()モチーフ：マイアミ・サンセット|
+|&blankimg(maou.jpeg,x=43,y=43)|&b(){Maou Albelt}&small(){（魔王アルベール）}&br()&small(){うむ、我に酔うことを許そう}|[[アルベール]]のイメージカクテル。|
+|&blankimg(onna.jpeg,x=43,y=43)|&b(){Masamune Onna}&small(){（政宗女）}&br()&small(){分かち合う喜び、この酒伊達じゃない}|[[政宗>伊達咲　政宗]]のイメージカクテル。&br()モチーフ：舞乙女|
+|&blankimg(merry.jpeg,x=43,y=43)|&b(){Merryclaus Widow}&small(){（メリークロース・ウィドウ）}&br()&small(){オペラの陽気さと癒しでもう一度素敵な恋を}|[[メリークロース>メリー　クロース]]のイメージカクテル。&br()モチーフ：メリー・ウィドウ|
+|&blankimg(nasu.JPG,x=43,y=43)|&b(){Nasty}&small(){（ナスティ）}&br()&small(){Coolな見た目にご用心}|[[那須>那須　裕貴]]のイメージカクテル。&br()モチーフ：ミスティ|
+|&blankimg(nyanko.JPG,x=43,y=43)|&b(){Nyanko Laschka}&small(){（ニャンコラシカ）}&br()&small(){ふざけた見た目と裏腹に中身を知った時口の中で完成する}|[[ニャンコ>ニャンコ・スキー]]のイメージカクテル。&br()モチーフ：ニコラシカ|
+|&blankimg(okir.jpeg,x=43,y=43)|&b(){Okir}&small(){（オキール）}&br()&small(){赤にめぐり合ったことで、程よい甘さに仕上がっております}|[[おきる>宿無　おきる]]のイメージカクテル。&br()モチーフ：キール|
+|&blankimg(riel.JPG,x=43,y=43)|&b(){Riel Princess}&small(){（リエル・プリンセス）}&br()&small(){笑顔を届ける天使の贈り物}|[[りえる>刃牙　りえる]]のイメージカクテル。&br()モチーフ：リトル・プリンセス|
+|&blankimg(gon.JPG,x=43,y=43)|&b(){Scopi Gon}&small(){（スコーピゴン）}&br()&small(){貴方を元気にする。 居心地がいいあまり依存という毒には注意}|[[ゴン>稲葉　ゴン]]のイメージカクテル。&br()モチーフ：スコーピオン|
+|&blankimg(sosu.JPG,x=43,y=43)|&b(){Sosuty Dog}&small(){（ソスティ・ドッグ）}&br()&small(){寡黙な神に捕まったら最後、逃れられない}|[[そす>いわさき　そす]]のイメージカクテル。&br()モチーフ：ソルティ・ドッグ|
+|&blankimg(sun.jpeg,x=43,y=43)|&b(){Suncotch Kilt}&small(){（スンコッチ・キルト）}&br()&small(){甘口だがパンチの効いた度数に注意}|[[すん>酒槻　すん]]のイメージカクテル。&br()モチーフ：スコッチ・キルト|
+|&blankimg(waki.JPG,x=43,y=43)|&b(){Waki Vodka}&small(){（わきウォッカ）}&br()&small(){海賊の我杯}|[[わきを>キャプテン　わきを]]のイメージボトル。|
+|&blankimg(zero.jpeg,x=43,y=43)|&b(){Zero Heaven}&small(){（ゼロ・ヘブン）}&br()&small(){甘さと酸味の化学反応をお楽しみください}|[[ぜろ>七瀬　ぜろ]]のイメージカクテル。&br()モチーフ：セブンス・ヘブン|
+#table_autoincrement(){label=No.}
+#table_sorter(){head=#99000D,even=#FFF}
+
+***&icon_fa(fa fa-angles-down)&space()&underdot(#99000D,2px){Food}&space()&color(#A8CD6F){&icon_fa(fa fa-coins)}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){画像=center}
+|~画像|~名前|~備考|h
+|&blankimg(fruit.jpeg,x=43,y=43)|&b(){Assorted Fruit}&small(){（フルーツ盛り合わせ）}&br()&small(){高級フルーツの盛り合わせ}||
+|&blankimg(cheese.jpeg,x=43,y=43)|&b(){Cheese Platter}&small(){（チーズ盛り合わせ）}&br()&small(){お酒のあるひと時をさらに上質なものへ}||
+|&blankimg(potato.jpeg,x=43,y=43)|&b(){Yakumori Potato}&small(){（ヤク盛りポテト）}&br()&small(){依存する美味さ}||
+|&blankimg(anramen.jpeg,x=43,y=43)|&b(){ANBRE RA-MEN}&small(){（餡ブレラーメン）}&br()&small(){天下の餡かけラーメン。バリうまいで}|餡ブレラ×[[焦村家]]コラボメニュー。&br()[[焦村家]]提供。|
+|&blankimg(kogegyoza.jpeg,x=43,y=43)|&b(){kogemura Gyo ZA}&small(){（ギョーザ）}&br()&small(){コゲツケア必須}|[[焦村家]]提供。|
+|&blankimg(okon.jpeg,x=43,y=43)|&b(){OKON NUTS}&small(){（怒んなっつ）}&br()&small(){まぁそんな怒んなよ}|[[焦村家]]提供。|
+#table_autoincrement(){label=No.}
+#table_sorter(){head=#99000D,even=#FFF}
+
+***&icon_fa(fa fa-angles-down)&space()&underdot(#99000D,2px){Other}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){画像=center}
+|~種類|~画像|~名前|~備考|h
+|Joint|&blankimg(vermillion.jpeg,x=43,y=43)|&b(){Vermillion}&small(){（ヴァーミリオン）}&br()&small(){ご来店ありがとうございます。}|Vermillion限定タバコ。&br()&color(#A8CD6F){&icon_fa(fa fa-coins)}1万餡コイン|
+|Other|&blankimg(talkgacha.jpeg,x=43,y=43)|&b(){Talk Gacha}&small(){（トークガチャ）}&br()&small(){}|初入店時1個プレゼント。&br()&color(#A8CD6F){&icon_fa(fa fa-coins)}1万餡コイン|
+|Other|&blankimg(blank_.jpg,x=43,y=43)|&b(){Two Shot Ticket}&br()&small(){ツーショット券}|好きなキャストと2ショットが撮れるチケット。&br()&color(#6DA8D0){&icon_fa(fa fa-coins)}10万餡コイン|
+#table_autoincrement(){label=No.}
+#table_sorter(){head=#99000D,even=#FFF}}
+#region(トークガチャ景品一覧)&b(){トークガチャ景品一覧}
+#size(90%){
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){画像=center}
+|~レア|~画像|~名前|~備考|h
+|CENTER:&b(){SSS}|&blankimg(blank_.jpg,x=43,y=43)|&b(){Two Shot Ticket}&br()&small(){ツーショット券}|好きなキャストと2ショットが撮れるチケット。|
+|CENTER:&b(){SS}|&blankimg(50kan.jpeg,x=43,y=43)|&b(){50000ANcoin}&br()&small(){50000ANcoin}|500万円相当のVermillion専用コイン。&br()飲食購入、キャストへのチップに利用できる。|
+|CENTER:&b(){S}|&blankimg(10kan.jpeg,x=43,y=43)|&b(){10000ANcoin}&br()&small(){10000ANcoin}|100万円相当のVermillion専用コイン。&br()飲食購入、キャストへのチップに利用できる。|
+|CENTER:&b(){A}|&blankimg(onemore.jpeg,x=43,y=43)|&b(){One More Chance}&br()&small(){ガチャもう1回！}|トークテーマガチャ1個と交換できるチケット。|
+|CENTER:&b(){B}|&blankimg(talktheme.jpeg,x=43,y=43)|&b(){Talk Theme}&br()&small(){}|キャストとの会話をより楽しめるトークテーマ。&br()全50種。|
+#table_sorter(){head=#99000D,even=#FFF}}
+
+#region(トークテーマ一覧)&b(){トークテーマ一覧}
+#size(80%){
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){}
+|~テーマ|h
+|好きだった給食|
+|最近悲しかったこと|
+|最後に作った手料理|
+|どんな人がタイプ？|
+|好きな異性の仕草|
+|初恋の話|
+|失敗した話|
+|黒歴史|
+|推しの住民|
+|ここ最近で一番痛かった話|
+|お風呂で一番最初に洗うところ|
+|異性の冷める行動|
+|最近買った高い買い物|
+|もしも他の職業に就くなら|
+|1日限定でこの街の住民に入れ替わるとしたら|
+|どこからが浮気のライン？|
+|飼いたいor飼ってるペット|
+|貴方のプチ自慢|
+|生まれ変わったら何になりたい？|
+|告白する派かされたい派か|
+|最近感動した話|
+|デートするなら家派か外派か|
+|異性との友情は成立するかしないか|
+|タイムマシンで行くなら過去or未来とその理由|
+|上司にグイ！言われたときのいなし方|
+|カラオケの十八番|
+|貴方のストレス発散方法|
+|最近買ってよかったもの|
+|初恋の思い出|
+|この街でできるようになったら嬉しい事|
+|愛してるゲーム|
+|休みの日に遊びに行きたい場所|
+|おすすめの映画|
+|おすすめのアニメ|
+|愛かお金かどっちが大事|
+|自分はSかMどっち|
+|自分の身体で1番自信がある部位|
+|外食でいちばん美味しかったもの|
+|墓まで持っていきたい恥ずかしい話|
+|過去1バレて危険になったこと|
+|他人にガチギレした話|
+|貰って嬉しかったプレゼント|
+|将来親に送りたいプレゼント|
+|好きな女優 or 俳優|
+|男性もしくは女性の惹かれるところ|
+|今までで1番キュンとしたシチュエーション|
+|キスされるならどこがいい？|
+|なにフェチ？|
+|シャンパンいれる？いれない？|
+|チップくれる？くれない？|
+#table_autoincrement(){label=No.}
+#table_sorter(){head=#99000D,even=#FFF}}
+#endregion
+#endregion
+#endregion
+
+**沿革
+#region(2024年,open)#div(width=300px,bgcolor=#F5F5F5){&space()&font(16px,b){2024年}}
+#size(90%){#table_filter(){日付=show,出来事=show,関係者=hide,エピソード・備考=show}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|05/05|起業計画|[[餡ブレラ>anbrella(餡ブレラ)]] / [[BMカスタム]]|[[BMC>BMカスタム]]社長の[[空舞月りり>空舞月　りり]]より、キャバクラ出店の相談を受ける。&br()[[ウェスカー>アルフォート　ウェスカー]]は組織としてこの話を引き受け、7163番地に店舗用物件を購入。&br()ハウジングは[[華月>西蓮寺　華月]]、[[華憐>栖家幡　華憐]]が担当した。|
+|05/15|店舗名決定|[[餡ブレラ>anbrella(餡ブレラ)]]|[[餡ブレラ>anbrella(餡ブレラ)]]定例会にて、店舗名が「&ruby(ヴァーミリオン){Vermillion}」(ラテン語で明るい赤)に決定。|
+|05/29|営業許可内定|[[山下ひろし>山下　ひろし]]|市長[[山下ひろし>山下　ひろし]]より、営業許可が下りる。&br()店舗視察では、[[華月>西蓮寺　華月]]と[[華憐>栖家幡　華憐]]が一から作り上げた内装に「期待以上に素晴らしい」と評価を受けた。|
+|06/18|グランドオープン|[[餡ブレラ>anbrella(餡ブレラ)]] / [[BMカスタム]]|店舗開業日を迎える。キャスト・スタッフ総勢30名が出勤。&br()22時開店後から客足が途絶えることなく翌3時を過ぎても営業が続き、1日にして売上100億円を超える大盛況振りをみせた。|
+#table_sorter(){head=#99000D,even=#FFF,repeathead=10}}
+//|mm/dd|出来事|関係者|エピソードを1〜3行で|
+#endregion
+#endregion

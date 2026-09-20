@@ -1,0 +1,36 @@
+//&image(ここに画像のURLを入力,y=300)
+
+#table_style(head=#C0C0C0){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(アリババ){ALIBABA}|
+|~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|ALIBABA|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2025年04月01日|
+|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|××××番地|
+|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|施設名|
+|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[ジャン＝ジャック・ヴァラン]]&br()[[山田ジェイミー]]|
+|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&font(b,#xxxxxx){色}|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**基本情報
+-[[2025年4月1日>ストグラシャッフルパージデー × 〇〇してはいけない]]のロスサントスで活動が確認された新興ギャング。
+
+**メンバー
+&link_anchor(alibaba,page=ストグラシャッフルパージデー × 〇〇してはいけない){SPD2025 ALIBABAの項目を参照}
+
+**拠点
+#table_style(head=#696969:#F9FCFF:center:b)
+#table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
+|~番地|~場所|~通称|~管理者|~備考|h
+|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+**歴史
+&link_anchor(alibaba,page=ストグラシャッフルパージデー × 〇〇してはいけない){SPD2025 ALIBABAの項目を参照}
+
+#right(){&link_up(🔝ページTOPへ)}

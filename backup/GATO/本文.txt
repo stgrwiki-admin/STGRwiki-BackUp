@@ -1,0 +1,62 @@
+//&image(ここに画像のURLを入力,y=300)
+
+//ここからプロフィール
+#table_color(#97A994)
+|~名前|&ruby(がとお){GATO}|
+|~設立日|2023年01月27日（累計86日)|
+|~解散日|2023年04月22日|
+|~所在地||
+|~種別||
+|~ボス|[[近藤　武蔵]]|
+|~チームカラー|&bold(){&color(#4db56a){緑}}|
+
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+**基本情報
+・名前の由来はスペイン語で(雄)猫
+・[[ギャング]]を名乗っているが実状はギャングというより半グレ集団に近い
+・犯罪に興味がありそうな住人に声をかけ、忠誠は求めず、足抜けは自由
+・「他にやりたいことができて辞めるのは自由だが、金が欲しいならここが一番稼げるぞ」とミッションに失敗し[[警察>ロスサントス警察]]に捕まっても罰金の3倍以上の報酬を支払った
+・警察体験中の[[田中　真光>TANAKA　MASAMITU]]に逮捕されたことにより解散を決意
+**拠点
+#table_color(#97A994)
+#table_filter(){No.=hide,番地=show,場所=show,通称=show,管理=hide,備考=show}
+|BGCOLOR(#97A994):~&color(#f9fcff){No.}|BGCOLOR(#97A994):~&color(#f9fcff){番地}|BGCOLOR(#97A994):~&color(#f9fcff){場所}|BGCOLOR(#97A994):~&color(#f9fcff){通称}|BGCOLOR(#97A994):~&color(#f9fcff){管理}|BGCOLOR(#97A994):~&color(#f9fcff){備考}|h
+|1|番地|場所|通称|管理|備考|
+//|2|番地|場所|通称|管理|備考|
+//|3|番地|場所|通称|管理|備考|
+#table_sorter{even=#f7f7f7,odd=#fff}
+**メンバー
+//#table_style(head=center)
+//|BGCOLOR(#696969):~&color(#f9fcff){No.}|BGCOLOR(#696969):~&color(#f9fcff){名前}|BGCOLOR(#696969):~&color(#f9fcff){加入日}|BGCOLOR(#696969):~&color(#f9fcff){備考}|h
+//|1|名前|加入日|備考|
+//|2|名前|加入日|備考|
+//|3|名前|加入日|備考|
+//#table_sorter{even=#f7f7f7,odd=#fff}
+//
+//***協力関係
+//
+***過去メンバー
+#table_style(head=center)
+|BGCOLOR(#97A994):~&color(#f9fcff){No.}|BGCOLOR(#97A994):~&color(#f9fcff){名前}|BGCOLOR(#97A994):~&color(#f9fcff){加入日}|BGCOLOR(#97A994):~&color(#f9fcff){脱退日}|BGCOLOR(#97A994):~&color(#f9fcff){備考}|h
+|1|[[近藤　武蔵]]|2023/01/27|2023/04/22|ボス|
+|2|[[有坂　誉]]||2023/02/20|闇医者になったため脱退|
+|3|[[田中　まさみつ>TANAKA　MASAMITU]]||2023/03/28|[[警察>ロスサントス警察]]への転職を目指して脱退|
+|4|[[猫宮　あかね]]||||
+|5|[[ベルモナ]]|||帰国|
+|6|[[多山　八雲]]|||[[近藤>近藤　武蔵]]が街を去る予定だったため除籍|
+#table_sorter{even=#f7f7f7,odd=#fff}
+//海鈴りおん加入が確認できなかったため削除
+
+**歴史
+・エピソード募集中
+#table_filter(){出来事=show,関係者=hide,備考=show}
+|BGCOLOR(#97A994):~&color(#f9fcff){日付}|BGCOLOR(#97A994):~&color(#f9fcff){出来事}|BGCOLOR(#97A994):~&color(#f9fcff){関係者}|BGCOLOR(#97A994):~&color(#f9fcff){備考}|
+|2023/01/27|ギャング設立|[[近藤　武蔵]]||
+|2023/04/22|ギャング解散|[[近藤　武蔵]]、[[田中　真光>TANAKA　MASAMITU]]|警察体験中の[[田中　真光>TANAKA　MASAMITU]]に逮捕されたことにより解散を決意|
+//|日付|出来事|関係者|備考|
+
+#right(){&link_up(🔝ページTOPへ)}

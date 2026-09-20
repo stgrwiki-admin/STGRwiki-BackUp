@@ -1,0 +1,78 @@
+***&color(#6944a8){&icon_fa(fas fa-shower fa-xl)} &underdot(#e2c6ff,2px){&big(){ サウナ【らびっとむんむん】}}
+
+&image(らびっとむんむん_入り口.jpg,width=388,height=218)
+//もっと良い写真が取れたら差し替えてください。
+
+#table_color(head=#6944a8:#ffffff)
+|~店名		|~&space()&icon_fa(fa fa-tag)&space()			|らびっとむんむん|
+|~業種		|~&space()&icon_fa(fas fa-bath)&space()			|サウナ&small(){（飲食ジョブ）}|
+|~開業日	|~&space()&icon_fa(fa fa-flag)&space()			|2025年7月5日|
+|~所在地	|~&space()&icon_fa(fa fa-map-marker)&space()	|9325番地|
+|~店長		|~&space()&icon_fa(fas fa-user-tie)&space()		|[[ライジングサン 宗介>>ライジングサン　宗介]]|
+|~オーナー	|~&space()&icon_fa(fa fa-user-secret)&space()	|[[ジョーカー>>半沢　直ふぃ]]|
+***&font(#6944a8){&icon_fa(fa fa-clipboard)} &underdot(#e2c6ff,2px){ 基本情報}
+・[[ジョーカー>>半沢　直ふぃ]]がオーナーを務めるユニークなサウナ。
+・玄関にはくつろげる休憩スペースと番台があり、男女別の暖簾をくぐるとバスルームが、最奥にはサウナルームがある。
+・空腹の回復やストレス軽減などの効果がある飲食物も販売する。
+・業種が飲食ジョブであるのは、店内滞在でのストレス軽減効果をサウナの効能としてみなす目的がある。
+・ハウジング施工は[[うさぎさん工務店>>山田　パルコ]]が請負った。
+・飲食メニューのデザイン・イラストは[[シュガー ピーチ>>シュガー　ピーチ]]が請負った。
+***&font(#6944a8){&icon_fa(fas fa-user)} &underdot(#e2c6ff,2px){ 従業員情報}
+従業員
+#table_style(head=#6944a8:#FFFFFF:center){No.=center,役職=center,名前=center,就職日=left,備考=left}
+#table_filter(){No.=hide,役職=show,名前=show,就職日=show,備考=show}
+|~No.|~役職|~名前|~就職日|~備考|h
+|MIDDLE:1|MIDDLE:オーナー				|MIDDLE:&bold(){[[ジョーカー>>半沢　直ふぃ]]}						|MIDDLE:-	|MIDDLE:-|
+|MIDDLE:2|MIDDLE:店長					|MIDDLE:&bold(){[[ライジングサン 宗介>>ライジングサン　宗介]]}		|MIDDLE:-	|MIDDLE:-|
+|MIDDLE:a1|MIDDLE:手伝い				|MIDDLE:&bold(){[[飯田 けんつ>>飯田　けんつ]]}						|MIDDLE:-	|MIDDLE:ジョブ付与未定|
+#table_sorter{even=#f7f7f7,odd=#ffffff}
+&font(11px,#A9A9A9){（※ 役職名は仮置き）}
+
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+***&font(#6944a8){&icon_fa(fa fa-hot-tub-person)} &underdot(#e2c6ff,2px){ 商品一覧}
+#region(開く,open)
+#table_style(head=#6944a8:#FFFFFF:center){種類=light,商品名=left,価格=left,備考=left}
+#table_filter(){種類=show,商品名=show,価格=show,備考=show}
+|~種類|~商品名|~価格|~備考|h
+|Food|むんむんカレー|50,000円||
+|Drink|むんむん牛乳|50,000円||
+|Drink|むんむんコーヒー|50,000円||
+|Drink|むんむんフルーツ牛乳|50,000円||
+|Joint|カチカチくん ストロベリー味|50,000円||
+|Joint|カチカチくん ソーダ味|50,000円||
+|Joint|カチカチくん チョコレート味|50,000円||
+//|種類|名前|￥||
+//
+//【種類：Food／Drink／Joint】
+#endregion
+
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+#co{
+***&font(#6944a8){&icon_fa(fa fa-star)} &underdot(#e2c6ff,2px){ Special商品}
+#region(開く,open)
+#table_style(head=#6944a8:#FFFFFF:center){種類=light,商品名=left,価格=left,備考=left}
+#table_filter(){種類=show,商品名=show,価格=show,備考=show}
+|~種類|~商品名|~価格|~備考|h
+
+//従業員からしか購入できないスペシャルメニュー・ガチャ・ボイス販売など
+#endregion
+}
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+***&font(#6944a8){&icon_fa(fa fa-mug-hot)} &underdot(#e2c6ff,2px){ メニュー画像}
+#region(2025/07/05 メニュー,open)&b(){2025/07/05 メニュー}
+&blankimg(https://stgr-r2.libhalt.net/images/f600f881-0c2f-4212-892b-f69eeb0d0f90.png,x=480,y=270)
+#endregion
+
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+//***&font(#6944a8){&icon_fa(fa fa-newspaper)} &underdot(#e2c6ff,2px){ イベント告知・チラシ}
+#co{▼コピー用
+#region(日付 画像タイトル,open)&b(){日付 画像タイトル}
+&blankimg(画像,x=210,y=300)
+#endregion
+}
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+***&font(#6944a8){&icon_fa(fas fa-book)} &underdot(#e2c6ff,2px){ 沿革}
+#table_style(head=#6944a8:#FFFFFF:center){日付=light,イベント=left,詳細=left}
+#table_filter(){日付=show,イベント=show,詳細=show}
+|~日付|~イベント|~詳細|h
+|25/07/05|OPEN記念イベント|オープン記念の主催レースイベントを開催&br()協賛：[[公認勝手にレース協会]]／[[9055]]／通話マッチングサービス[[リンリン>>ライジングサン　宗介]]|

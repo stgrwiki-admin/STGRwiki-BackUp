@@ -1,0 +1,78 @@
+*&color(#e0e0e0){&font(#dfd271){&icon_fa(fa-solid fa-car-side)} 所有車両 }
+#region(＜車＞)＜車＞
+#size(90%){#table_style(head=center:#dfd271){車名=b,レース帯=b:center}
+#table_filter(){登録名=hide,車名=show,種類=hide,購入日=show,備考=show}
+|~登録名|~車名|~種類|~購入日|~レース帯|~エピソード|h
+||[[panto>>https://w.atwiki.jp/gtav/pages/1205.html]]|コンパクト|'23/11/07||初めて買った車/[[春原　新]]にカスタム指導の後、記念として譲渡('24/01/10)|
+||[[Journey>>https://w.atwiki.jp/gtav/pages/527.html]]|バン|'23/11/19||素材収集用①/[[パキち]]からお金を借りて購入(返済済)|
+||[[Rumpo Cusuom>>https://w.atwiki.jp/gtav/pages/1630.html]]|バン|'23/12/21||素材収集用②/[[Journey>>https://w.atwiki.jp/gtav/pages/527.html]]だけでは容量が不足したため購入|
+||[[Journey2>>https://w.atwiki.jp/gtav/pages/2949.html]]|バン|'23/12/23||素材収集用③&br()[[Journey>>https://w.atwiki.jp/gtav/pages/527.html]]、[[Rumpo Cusuom>>https://w.atwiki.jp/gtav/pages/1630.html]]でも容量が不足したため購入|
+||[[Club>>https://w.atwiki.jp/gtav/pages/2602.html]]|コンパクト|'23/12/31|B|初のレース車|
+||[[Exemplar>>https://w.atwiki.jp/gtav/?cmd=word&word=Exemplar&pageid=333]]|クーペ|'24/01/21||教習車|
+||[[Blazer Lifeguard>>https://w.atwiki.jp/gtav/pages/534.html]]|オフロード|'24/02/02||[[9055]]主催のレース用|
+||[[Brioso 300>>https://w.atwiki.jp/gtav/pages/2657.html]]|コンパクト|'24/02/03||[[PYC]]の店内照明＆初心者紹介用|
+||[[Bifta>>https://w.atwiki.jp/gtav/pages/616.html]]|オフロード|'24/02/09|C||
+||[[Issi Sport>>https://w.atwiki.jp/gtav/pages/2478.html]]|スポーツ|'24/02/12|S|[[プラネットモータース]]退職にあたり[[ルウ　ギャラクティカ]]から購入|
+||[[Draugur>>https://w.atwiki.jp/gtav/pages/2843.html]]|オフロード|'24/02/14|A|街乗り用/街に来たばかりの頃の目標だった車|
+||SunriseR|スポーツ|'24/02/23|A|[[BMC>>Bear Moon Custom]]、[[9055]]主催のレースイベント用|
+||[[SM722(Benefactor)>https://w.atwiki.jp/gtav/pages/2840.html]]|スポーツ|'24/03/07||市長補佐からしか購入できない車/ナンバープレートは「ONIWANO3」|
+||[[Brioso 300 Widebody>https://w.atwiki.jp/gtav/pages/2857.html]]||'24/03/14|C||
+||Elegy RH4||'24/03/28|C||
+||Khamelion||'24/04/06||[[花沢　まるん]]に魂側でのお祝いにプレゼントとしてもらう|
+||castella||'24/04/11||新車で入荷日に購入|
+||SpeedExpress|バン|'24/06/09||ランポの互換車|
+||Deveste||'24/06/26||イネヌコから4億で譲ってもらった。|
+||Turtle|コンパクト|'25/01/18||かめ。もちと共に[[ルウ　ギャラクティカ]]からプレゼントされる|
+||Mochi|コンパクト|'25/01/18||もち。かめと共に[[ルウ　ギャラクティカ]]からプレゼントされる|
+#table_sorter{odd=#f7f7f7,even=#fff}
+}
+#endregion(車)
+
+#region(＜バイク＞)＜バイク＞
+#size(90%){#table_style(head=center:#dfd271){車名=b}
+#table_filter(){登録名=hide,車名=show,種類=show,レース帯=hide,購入日=show,備考=show}
+|~登録名|~車名|~種類|レース帯|~購入日|~備考|h
+||[[Akuma>>https://w.atwiki.jp/gtav/pages/389.html]]|バイク||'23/11/17|初めて買ったバイク|
+||[[Faggio>>https://w.atwiki.jp/gtav/pages/580.html]]|原付||'24/01/21|出勤用①|
+||[[Faggio Mod>>https://w.atwiki.jp/gtav/pages/1656.html]]|原付||'24/01/21|出勤用②/[[亜座嵐　りか]]にカスタムしてもらった|
+||[[Sanchez>https://w.atwiki.jp/gtav/pages/672.html]]|バイク||'24/01/21|教習用バイクとして[[ヘラシギ]]にもらった|
+||[[Shinobi>>https://w.atwiki.jp/gtav/pages/2738.html]]|バイク|D|'24/02/08|街乗り用|
+||Kunoichi|バイク||'24/02/29||
+||クサ|バイク||'24/02/29||
+#table_sorter{odd=#f7f7f7,even=#fff}
+}
+#endregion(バイク)
+
+#region(＜ヘリコプター＞)＜ヘリコプター＞
+#size(90%){#table_style(head=center:#dfd271){機種=b}
+#table_filter(){登録名=hide,機種=show,購入日=show,備考=show}
+|~登録名|~機種|~購入日|~備考|h
+|イネヌコスパロー|[[Sparrow>>https://w.atwiki.jp/gtav/pages/2654.html]]|'24/01/09|初めて買ったヘリ|
+||[[Frogger>https://w.atwiki.jp/gtav/pages/644.html]] |'24/03/09|4人乗り/レース用|
+||[[Havok>https://w.atwiki.jp/gtav/pages/1835.html]] |'24/03/14|1人乗り/レース用。|
+||Volatus|'24/06/09||
+||Buzzard|'24/06/21||
+#table_sorter{odd=#f7f7f7,even=#fff}
+}
+#endregion(ヘリコプター)
+
+#region(＜飛行機・船舶＞)＜飛行機・船舶＞
+#size(90%){#table_style(head=center:#dfd271){機種=b}
+#table_filter(){登録名=hide,機種=show,種類=show,購入日=show,備考=show}
+|~登録名|~機種|~種類|~購入日|~備考|h
+||[[Seashark>>https://w.atwiki.jp/gtav/pages/584.html]]|船|'24/01/31|教習用ボート|
+||[[Ultralight>>https://w.atwiki.jp/gtav/pages/1816.html]]|飛行機|'24/02/12|[[鳥野エアー]]入社祝い|
+
+#table_sorter{odd=#f7f7f7,even=#fff}
+}
+#endregion(飛行機)
+
+#region(＜その他＞)＜その他＞
+#size(90%){#table_style(head=center:#dfd271){種類=b}
+#table_filter(){登録名=hide,種類=show,購入日=show,備考=show}
+|~登録名|~種類|~購入日|~備考|h
+||Snowmobile|'23/12/23|雪用|
+||自転車|'24/01/26|ママチャリ|
+#table_sorter{odd=#f7f7f7,even=#fff}
+}
+#endregion(飛行機)

@@ -1,0 +1,112 @@
+#slide_img(auto=2,position=left,width=400,height=255){Forest_内装.png,Forest_2024-10-18.png}
+//&image(Forest_2024-10-18.png,y=225,left)
+
+#table_style(head=#26896D:#CDE6C7){}
+|~店名|&ruby(ふぉれすと){&bold(){Forest}}|
+|~業種|飲食店：カフェ&バー|
+|~開業日|2024年10月17日|
+|~所在地|6015番地|
+|~オーナー|&bold(){[[ヤブ下　安理]]}|
+|~従業員数|2名（2024年10月17日現在）|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・[[ヤブ下　安理]]がオーナーを務める「森の中」がコンセプトのカフェ&バー。
+・内装（ハウジング）は[[芹沢　すず]]が担当。
+【　追記･編集 歓迎です。 】
+
+**従業員情報
+***従業員
+#table_style(head=center:#E0E0E0)
+#table_filter(){役職=show,名前=show,就職日=show,備考=show}
+|~役職|~名前|~就職日|~備考|h
+|オーナー|[[ヤブ下　安理]]|2024/10/15||
+|店員 / Chief|[[芹沢　すず]]|2024/10/15||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//***退職者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~就職日|~最終出勤日|~備考|h
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//***職業体験者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#FF7F7,odd=#FFFFFF}
+//
+
+**商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***通常メニュー
+#region(開く,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,備考=show}
+#table_style(head=center:#E0E0E0){No.=center,種類=center,価格=right,登録者=center,登録日=center,提供開始日=center}
+|~種類|~画像|~商品名と商品説明|~価格|~登録者|~登録日|~提供開始日|~備考|h
+|Food|&blankimg(Jam.png,x=45,y=45)|&b(){Jam}（ジャム）&br()&sizex(-1){採れたて新鮮}|50,000円|ヤブ下　安理|2024/10/15|2024/10/17||
+|Food|&blankimg(Steak.png,x=45,y=45)|&b(){Steak}（ステーキ）&br()&sizex(-1){レア}|50,000円|ヤブ下　安理|2024/10/15|2024/10/17||
+|Food|&blankimg(Potage.png,x=45,y=45)|&b(){Potage}（ポタージュ）&br()&sizex(-1){かぼちゃ}|50,000円|ヤブ下　安理|2024/10/15|2024/10/17||
+|Food|&blankimg(Cookie.png,x=45,y=45)|&b(){Cookie}（クッキー）&br()&sizex(-1){甘さ控えめ}|50,000円|ヤブ下　安理|2024/10/15|2024/10/17||
+|Food|&blankimg(Cake.png,x=45,y=45)|&b(){Cake}（ケーキ）&br()&sizex(-1){今日のご褒美}|50,000円|ヤブ下　安理|2024/10/15|2024/10/17||
+|Food|&blankimg(BLTSandwich.png,x=45,y=45)|&b(){BLT Sandwich}（BLTサンドイッチ）&br()&sizex(-1){Beacon,Lettuce,Tomato}|50,000円|ヤブ下　安理||2024/10/20||
+|Drink|&blankimg(IceTea.png,x=45,y=45)|&b(){Ice Tea}（アイスティー）&br()&sizex(-1){ストロベリー}|50,000円|ヤブ下　安理|2024/10/15|2024/10/17||
+|Drink|&blankimg(FIceCoffee.png,x=45,y=45)|&b(){F Ice Coffee}（アイスコーヒー）&br()&sizex(-1){+ホイップクリーム}|50,000円|ヤブ下　安理|2024/10/15|2024/10/17||
+|Drink|&blankimg(FHotCoffee.png,x=45,y=45)|&b(){F Hot Coffee}（ホットコーヒー）&br()&sizex(-1){オリジナルブレンド}|50,000円|ヤブ下　安理|2024/10/15|2024/10/17||
+|Drink|&blankimg(cBlue.png,x=45,y=45)|&b(){c blue}（カクテル ブルー）&br()&sizex(-1){ぶるーはわい}|50,000円|芹沢　すず||2024/10/20||
+|Drink|&blankimg(cGreen.png,x=45,y=45)|&b(){c green}（カクテル グリーン）&br()&sizex(-1){みんと}|50,000円|芹沢　すず||2024/10/20||
+|Drink|&blankimg(cOrange.png,x=45,y=45)|&b(){c orange}（カクテル オレンジ）&br()&sizex(-1){おれんじ}|50,000円|芹沢　すず||2024/10/20||
+|Drink|&blankimg(cPink.png,x=45,y=45)|&b(){c pink}（カクテル ピンク）&br()&sizex(-1){もも}|50,000円|芹沢　すず||2024/10/20||
+|Drink|&blankimg(cYellow.png,x=45,y=45)|&b(){c yellow}（カクテル イエロー）&br()&sizex(-1){ぱいなっぷる}|50,000円|芹沢　すず||2024/10/20||
+|Joint|&blankimg(usagi.png,x=45,y=45)|&b(){usagi}（うさぎ）&br()&sizex(-1){うさぎのぬいぐるみ}|50,000円|芹沢　すず|2024/10/18|2024/10/20||
+|Joint|&blankimg(kuma.png,x=45,y=45)|&b(){kuma}（くま）&br()&sizex(-1){くまのぬいぐるみ}|50,000円|芹沢　すず|2024/10/18|2024/10/20||
+|Joint|&blankimg(kitune.png,x=45,y=45)|&b(){kitune}（きつね）&br()&sizex(-1){きつねのぬいぐるみ}|50,000円|芹沢　すず|2024/10/18|2024/10/20||
+|Joint|&blankimg(fAo.png,x=45,y=45)|&b(){f ao}（ディフューザー 青）&br()&sizex(-1){じゃすみん}|50,000円|芹沢　すず||2024/10/20||
+|Joint|&blankimg(fAka.png,x=45,y=45)|&b(){f aka}（ディフューザー 赤）&br()&sizex(-1){さくら}|50,000円|芹沢　すず||2024/10/20||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|種類|画像|商品名と商品説明|価格|登録者|登録日|提供開始日|備考|
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion(通常メニュー)
+
+***イベント限定メニュー
+#region(開く,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,備考=show}
+#table_style(head=center:#E0E0E0){No.=center,種類=center,価格=right,登録者=center,登録日=center,提供開始日=center}
+|~種類|~画像|~商品名と商品説明|~価格|~登録者|~登録日|~提供開始日|~備考|h
+|Food|&blankimg(MaplePie.png,x=45,y=45)|&b(){Maple Pie}（メープルパイ）&br()&sizex(-1){サクサクだよ。}|イベント&br()特別価格|ヤブ下　安理|2024/10/1X|2024/10/17|「秋の収穫祭～北の食材をたべつくそう～」限定商品|
+|Drink|&blankimg(HojichaLatte.png,x=45,y=45)|&b(){Hojicha Latte}（ほうじ茶ラテ）&br()&sizex(-1){ちょっと甘いよ。}|イベント&br()特別価格|ヤブ下　安理|2024/10/1X|2024/10/17|「秋の収穫祭～北の食材をたべつくそう～」限定商品|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|種類|画像|商品名と商品説明|価格|登録者|登録日|提供開始日|備考|
+&u(){※イベント終了後に通常メニューとして販売する場合もあり}
+#endregion(イベント限定メニュー)
+
+***メニュー画像
+#region(初期メニュー)
+//&image(ここに画像のURLを入力,y=400)
+&blankimg(menu_20241020.webp,x=400,y=530)
+#endregion
+
+**沿革
+***2024年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|2024/10/17|イベント出店|[[ヤブ下　安理]]&br()[[芹沢　すず]]|22:00〜25:00&br()[[ほわいと・たいが>イチカ　ウィルキンズ]]主催の「秋の収穫祭～北の食材をたべつくそう～」に出店。&br()限定商品「メープルパイ」「ほうじ茶ラテ」を販売。|
+|2024/10/17|オープン|[[ヤブ下　安理]]&br()[[芹沢　すず]]|26:19〜オープン。&br()[[ほわいと・たいが>イチカ　ウィルキンズ]]、&openclose2(show=救急隊の皆さん){（[[ももみ　マルフォイ]]、[[雷堂　ましろ]]、[[ノビー　ラング]]、[[キラ・メキーラ]]、[[イナ　イロハ]]、[[鬼桃　ぷぅ]]）}が来店。&br()開店早々ボヤ騒ぎが発生した。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|yyyy/mm/dd|出来事|関係者|エピソード・備考|
+#endregion
+
+
+#right(){&link_up(🔝ページTOPへ)}

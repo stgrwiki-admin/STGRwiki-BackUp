@@ -1,0 +1,122 @@
+#region(開く)&b(){閉じる}
+&anchor(Grand_Chariot,option=nolink)
+&image(Grand_Chariot_01.jpg,y=300)
+#size(90%){
+#table_color(head=#99000D:#F5F5DC)
+|~店名|&ruby(グランシャリオ){Grand Chariot}|
+|~業種|武器用スキン販売&br()飲食店|
+|~開業日|2024年12月15日|
+|~所在地|7030番地|
+|~オーナー|[[いわさき　そす]]&br()[[ニャンコ・スキー]]|
+
+**基本情報
+-[[いわさき　そす]]と[[ニャンコ・スキー]]が営業・販売する武器スキン屋。
+-シマ特典で武器スキンが実装され、それを機に立ち上げた。
+-街から仕入れるスキンに関しては今のところ独占権を持っている。
+//
+//『フロント企業』とは、一見どこにでもある普通の会社...にみえて実は秘密裏に反社組織が牛耳っている企業、という意味なので
+//餡ブレラの名前を隠さず経営しているなら適さないかもしれません。
+//
+//
+//-ギャング「[[餡ブレラ]]」のフロント企業。
+**従業員情報
+***従業員
+#size(90%){#table_filter(){No.=show,役職=show,名前=show,所属=hide,就職日=show,備考=show}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){}
+|~役職|~名前|~所属|~就職日|~備考|h
+|オーナー|[[いわさき　そす]]|[[餡ブレラ]]|2024/12/15||
+||[[マンジョリーナ　ジェリー]]|[[餡ブレラ]]|2024/12/15||
+|オーナー|[[ニャンコ・スキー]]|[[餡ブレラ]]|2024/12/15||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#fff}}
+
+***退職者
+#region(開く)&b(){閉じる}
+#size(90%){#table_filter(){No.=show,役職=show,名前=show,所属=hide,就職日=hide,退職日=show,備考=show}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){}
+|~役職|~名前|~所属|~就職日|~退職日|~備考|h
+|オーナー|[[那須　裕貴]]||2024/12/15|2025/01/26|[[餡ブレラ]]除名に伴い事実上の退職となる。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#fff}}
+#endregion
+**商品情報
+***武器スキン商品
+#region(開く)&b(){閉じる}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:CENTER){画像=CENTER}
+|~画像|~商品名|~備考|h
+|&image(01_Classic_Beige.png,x=50)|MIDDLE:Classic Beige||
+|&image(02_Classic_Blue.png,x=50)|MIDDLE:Classic Blue||
+|&image(03_Classic_White.png,x=50)|MIDDLE:Classic White||
+|&image(04_Classic_Earth.png,x=50)|MIDDLE:Classic Earth||
+|&image(05_Classic_Gray.png,x=50)|MIDDLE:Classic Gray||
+|&image(06_Classic_Green.png,x=50)|MIDDLE:Classic Green||
+|&image(07_Classic_Brown_and_Black.png,x=50)|MIDDLE:Classic Brown&Black||
+|&image(08_Classic_Two-Tone.png,x=50)|MIDDLE:Classic Two-Tone||
+|&image(09_Bold_Orange.png,x=50)|MIDDLE:Bold Orange||
+|&image(10_Bold_Pink.png,x=50)|MIDDLE:Bold Pink||
+|&image(11_Bold_Red_Features.png,x=50)|MIDDLE:Bold Red Features||
+|&image(12_Bold_Cyan_Features.png,x=50)|MIDDLE:Bold Cyan Features||
+|&image(13_Bold_Yellow_Features.png,x=50)|MIDDLE:Bold Yellow Features||
+|&image(14_Bold_Green_Features.png,x=50)|MIDDLE:Bold Green Features||
+|&image(15_Bold_Red_and_White.png,x=50)|MIDDLE:Bold Red&White||
+|&image(16_Bold_Blue_and_White.png,x=50)|MIDDLE:Bold Blue&White||
+|&image(17_Bold_Green_and_Purple.png,x=50)|MIDDLE:Bold Green&Purple||
+|&image(18_Bold_Purple_and_Yellow.png,x=50)|MIDDLE:Bold Purple&Yellow||
+|&image(19_Metallic_Red.png,x=50)|MIDDLE:Metallic Red||
+|&image(20_Metallic_Blue.png,x=50)|MIDDLE:Metallic Blue||
+|&image(21_Metallic_Green.png,x=50)|MIDDLE:Metallic Green||
+|&image(22_Metallic_Gold.png,x=50)|MIDDLE:Metallic Gold||
+|&image(23_Metallic_Platinum.png,x=50)|MIDDLE:Metallic Platinum||
+|&image(24_Metallic_Gray_and_Lirac.png,x=50)|MIDDLE:Metallic Gray&Lirac||
+|&image(25_Metallic_Orange_and_Yellow.png,x=50)|MIDDLE:Metallic Orange&Yellow||
+|&image(26_Metallic_Purple_and_Lime.png,x=50)|MIDDLE:Metallic Purple&Lime||
+|&image(27_Metallic_White_and_Aqua.png,x=50)|MIDDLE:Metallic White&Aqua||
+|&image(28_Metallic_Red_and_Yellow.png,x=50)|MIDDLE:Metallic Red&Yellow||
+|&image(29_Red_Contrast.png,x=50)|MIDDLE:Red Contrast||
+|&image(30_Blue_Contrast.png,x=50)|MIDDLE:Blue Contrast||
+|&image(31_Orange_Contrast.png,x=50)|MIDDLE:Orange Contrast||
+|&image(32_Yellow_Contrast.png,x=50)|MIDDLE:Yellow Contrast||
+|&image(33_PD_Spray.png,x=50)|MIDDLE:PDスプレー||
+|&image(34_Gold_Spray.png,x=50)|MIDDLE:ゴールドスプレー||
+|&image(35_Orange_Spray.png,x=50)|MIDDLE:オレンジスプレー||
+|&image(36_Pink_Spray.png,x=50)|MIDDLE:ピンクスプレー||
+|&image(37_Platinum_Spray.png,x=50)|MIDDLE:白金スプレー||
+|&image(38_Green_Spray.png,x=50)|MIDDLE:緑スプレー||
+#table_autoincrement(){label=No.}
+#table_sorter(){head=#99000D,even=#FFF}}
+#endregion
+//***オリジナルスキン
+//#region(開く)&b(){閉じる}
+//#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){画像=center}
+//|~画像|~商品名|~備考|h
+//|&image(.png,x=50)|MIDDLE:||
+//|&image(.png,x=50)|MIDDLE:||
+//|&image(.png,x=50)|MIDDLE:||
+//#table_autoincrement(){label=No.}
+//#table_sorter(){head=#99000D,even=#FFF}}
+//#endregion
+***カタログ
+#region(開く)&b(){閉じる}
+#slide_img(auto=3,width=500,height=352){New_Catarog_p1.png,New_Catarog_p2.png,New_Catarog_p3.png}
+#endregion
+
+**沿革
+#region(2024年,close)#div(width=300px,bgcolor=#F5F5F5){&space()&font(16px,b){2024年}}
+#size(90%){#table_filter(){日付=show,出来事=show,関係者=hide,エピソード・備考=show}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|12/15|オープン||店舗開業日を迎える。当日はギャング警察問わず大勢の客が来店し、大盛況となった。|
+|12/28|オーナー失踪||オーナーの[[那須裕貴>那須　裕貴]]が失踪する。フロント企業の運営方針をめぐる餡ブレラメンバーとの話し合いの後に「疲れた」と発言して失踪。&br()メンバーへ送ったメールを最後に音信不通となった。|
+|12/30|[[ニャンコ・スキー]]が代表になる||以前より武器スキンの営業に尽力してきた[[ニャンコ・スキー]]が代表に就任。&br()失踪した[[那須>那須　裕貴]]に代わって、[[そす>いわさき　そす]]と共に武器スキンの注文受付から売上管理を務める。|
+#table_sorter(){head=#99000D,even=#FFF,repeathead=10}}
+//|mm/dd|出来事|関係者|エピソードを1〜3行で|
+#endregion
+#region(2025年,open)#div(width=300px,bgcolor=#F5F5F5){&space()&font(16px,b){2025年}}
+#size(90%){#table_filter(){日付=show,出来事=show,関係者=hide,エピソード・備考=show}
+#table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|01/29|実店舗経営終了||[[那須>那須　裕貴]]が正式に餡ブレラから脱退したことで、&br()彼が管理していた7030番地の店舗を閉鎖し今後は移動販売形式に移行予定。|
+#table_sorter(){head=#99000D,even=#FFF,repeathead=10}}
+//|mm/dd|出来事|関係者|エピソードを1〜3行で|
+#endregion
+#endregion

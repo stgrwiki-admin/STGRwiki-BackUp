@@ -1,0 +1,925 @@
+#slide_img(auto=4,position=left,width=300,height=439){BIG_SUZUKI.png,BIGSUZUKI_C.png,20230920_SYATYOU2.jpg,oniku_BIG.jpg,BIG SUZUKI BIKE 2.jpg,ゴルフ服.png,コスプレbig_20240503.png,musclebig.png,高級車を売ってきそうな服.png}
+
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|~&icon_fa(fa fa-user)|&ruby(びっぐ){BIG}　&ruby(すずき){SUZUKI} |
+|~出身地|~&icon_fa(fa fa-location-dot)|JAPAN|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|1996年xx月xx日 (&countup(1996/08/12,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年08月12日 (&countup(2023/08/12,yd))|
+|~職業|~&icon_fa(fa fa-university)|メカニック &s(){【[[JTS>ジョアンナテクノサービス]]】}⇒カスタムショップ【[[B.A.D>BIG Automotive Design]]】社長&br()普通車ディーラー【[[深沢モータース]]】従業員&br()高級車ディーラー【[[大川自動車販売(有)]]】副社長&br()&s(){【[[A2 Lab]]】従業員}（一時的）&br()&s(){トラック運転手}|
+|~所属|~&icon_fa(fa fa-users)|[[ドリフト協会]]|
+|~Twix|~&icon_fa(fa fa-crow)|@bigsuzuki|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o)|[[鈴木 ノリアキ>https://zetadivision.com/players/%E9%88%B4%E6%9C%A8%E3%83%8E%E3%83%AA%E3%82%A2%E3%82%AD]](ZETA DIVISION)|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#1da1f2) {&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>>https://twitter.com/NORIAKIISGOOD]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/suzukinoriaki]] / &font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/user/RAPxST4Rnoriben]]|
+|BGCOLOR(#fff):~別キャラ|BGCOLOR(#fff):~&icon_fa(fa fa-user-plus)|[[鷹山　トシアキ]]&br()&b()[[小戸山]]|
+
+&aname(目次1,option=nolink){}
+
+#region(目次を開く)&bold(){目次}
+#contents(level=2)//数字(1～5)は見出しの前の*の数をどこまで表示するか
+#endregion//目次
+&br()
+//
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&size(20){&color(#eaf4fc)基本情報&icon_fa(fa fa-address-book-o)}
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+***市民に凄腕と噂されるメカニック
+***メカニックがカスタムの意見を求めに来る男
+***自他共に認めるロスサントス１スプレー缶が似合う男
+***カスタムショップ「[[BIG Automotive Design]]」創業者＆社長&br()高級車ディーラー「[[大川自動車販売(有)]]」副社長&br()普通車ディーラー「[[深沢モータース]]」社員
+//
+#region(カスタムショップ「[[BIG Automotive Design]]」創業者＆社長として)**カスタムショップ「[[BIG Automotive Design]]」創業者＆社長として
+・カラーリングにこだわり、唯一無二の車をデザインする「&bold(){SUZUKIカスタム}」。&br()自らカラーを調合し、上塗りの光沢を組み合わせた深みのあるペイントを生み出す。&br()彼のカスタムセンスやカラーリングに魅了される住民は後を絶たない
+・顧客から入念なヒアリングとリサーチを行なった上でカスタム作業に取り掛かる。場合によっては1台の車の完成に2日以上かけることもある
+・イカついカスタムから可愛い系まで幅広く網羅する。特にギャル車カスタムには定評がある
+・同じ車でも似たようなカスタムには二度としないのが流儀
+#endregion()
+
+#region(車以外のことは眼中にない車狂い)**車以外のことは眼中にない車狂い
+・初めて街に来て真っ先にカーディーラーへ直行しカタログを2時間物色していた
+・流線形のスーパーカーやスポーツカーよりも角張った旧車をこよなく愛する
+・バイクに関する知識は弱め。&br()だがWolfsbaneを購入したことをきっかけにバイク熱が高まりつつある
+・ドライビングスキルに長けており、運転の技術指南を行うこともある
+・トラックの運転を街一と自負する
+・豆ヘリの操縦を街一と自負する
+・&s(){この街でのレースに対しては「あれはレースじゃなくて相撲だから」と述べており、参加する意思はない}&br()⇒角刈りシリーズ等の走行を通じてコースの面白さに気づき、時々草レースに参加したりタイム計測を行ったりするようになった。&s(){なおレースライセンスは持っていない}&br()⇒2024/1/13にレース免許を取得。堂々とレースに参戦できるようになった。
+・・新規レースとして耐久やラリーTAの構想を練っている
+#endregion()
+
+#region(孤高の経営者)**孤高の経営者
+・メカニック各社が赤字操業にあった街の情勢下において、[[B.A.D>>BIG Automotive Design]]開業から2週間足らずで純益1億円以上の黒字を叩き出す経営手腕を発揮する。&br()そのノウハウでメカニック業界のみならず街全体の経済活動の発展に貢献したいと考えている
+・既にBIGの弟子を自称する者が4名現れている。本人は現状弟子を取る気はないが黙認している
+・できることなら仕事も何もせず静かに暮らしていきたい
+・100年前の記憶を持ち、前の街では「今日車なんで」とビールを断るほどの優良市民
+・STATEアプリを触りながらなぜ出せるんだと自問自答する様子も
+#endregion()
+
+#region(無類のドリフト好き)**無類のドリフト好き
+・仕事の空き時間を使い5002付近の峠で走り込みを行いテクニックを磨く
+・地殻変動で出来た9372の海上峠にも山ごもりをして走り込む
+・起床後すぐ峠に出向きドリフトをしてから出勤するのがルーティーンになりつつある
+・直線で車を1回転させるSUZUKI360やドリフトしながら駐車をする高等テクニックを持つ
+・ドリフト用にチューニング・セッティングを施したマシンを複数所有する
+・安くて非力な車に大金を投じてエンジン載せ替え、ドリフトチューンをするのがBIG流
+・ドリフトの同乗体験や初心者へのコーチングなどドリフト文化の普及にも貢献している
+・ドリフト仲間達の熱い要望もあり、芸術点を重視したドリフトコンペを開催しようと画策してい
+#endregion
+
+#region(BIG流ドリフトの極意)
+&font(i,b,150%){BIG流ドリフトの極意}
+・&font(i,b,120%){進入した時の&font(red){車の姿勢}が大事}
+・&font(i,b,120%){ドリフト中は&font(red){ハンドルをいじらない}のが理想}
+・&font(i,b,120%){アクセルワークで曲がりきる}
+・&font(i,b,120%){サイドは&font(red){低速の時}に使う}
+・&font(i,b,120%){ブレーキは&font(red){Tierが低い方がいい}}⇒[[クリップ>>https://clips.twitch.tv/FantasticColdbloodedBottleBudStar-arsEdAj6I37y4jcs]]
+#endregion()
+
+#region(BIG名言集)**BIG名言集
+*****BIG名言集
+>「&font(i,b){オープンカーは自分もアクセサリーの一つ}」
+>「&font(i,b){アチィ～}」
+>「&font(i,b){作った車を売るのもね、HIPHOP}」
+>「&font(i,b){（ガソリンが）こぼれるってことは入ってるってことだから}」
+>「&font(i,b){（作業中は）３回電話かかってこないと出ないから。三顧の礼だから。}」
+>「&font(i,b){お金なくても車があればそれでいいだろ。ゆのーせーん？（you know I'm sayin'?）}」
+>「&font(i,b){俺はサントス生まれ7231育ち。車好きのやつは大体友達}」
+>「&font(i,b){ブレーキじゃなくて、バックなんだよね。それをうまく使えるか}」
+>「&font(i,b){エンジンは黄色くなってからが本番だからね。}」
+>「&font(i,b){車が拒否してるんだから、車の意見を尊重してあげない？}」
+>「&font(i,b){あ。これ仕事か。（カスタム依頼の客に請求金額を聞かれて）}」
+>「&font(i,b){車を持ってきた人の気持ちにならないといけない。それが仕事なんだから。}」
+>「&font(i,b){[[やっぱり、いい車ってのは浮き上がる。これ、ストグラwikiの名言に追加される。>>https://clips.twitch.tv/TrustworthyPleasantAmazonUWot-JIxfhUaXOVsMXfVt]]}」
+>「&font(i,b){調子こくときは調子いい時なんだよね。アムロも言ってた。}」
+>「&font(i,b){名刺とかダサくね。俺の車が名刺代わり。}」
+>「&font(i,b){[[車を買うなら"BIG"でお願いします。>>https://www.twitch.tv/suzukinoriaki/clip/AttractiveLittleSashimiFutureMan-7MtJStIvWnV2cxyf]]}」
+>「&font(i,b){[[俺が信じれるのはこの、エンジン掛けた音だけだな。>>https://www.twitch.tv/suzukinoriaki/clip/HedonisticTacitAirGuitarOptimizePrime-yMU4oiCGjUVqsRUl]]}」
+>「&font(i,b){[[友達とか作るな！車に乗れ。>>https://clips.twitch.tv/TransparentInquisitiveMallardAMPEnergy-rO4T3wJHoGhW7VZ0]]}」
+>「&font(i,b){[[（エンジン音）音聞こえてくるわ。聞こえる聞こえる俺。>>https://www.twitch.tv/suzukinoriaki/clip/BoredEmpathicPonyVoHiYo-AmB5dyinTRa71TV1]]}」
+>「&font(i,b){一旦、○○しとくか（このコメントのみ指示OK）}」
+>「&font(i,b){○○したっていい。}」
+#endregion()
+
+#region(BIG用語集)**BIG用語集
+*****BIG用語集
+・人物&br()ギャル⇒[[小豆　最中]]／兄貴⇒[[ヘラシギ]]／壁先輩⇒[[ミン　ドリー]]／Bro⇒[[ジャーク　武士]]／犬⇒[[白井　満太]]&br()GODさん⇒[[月ノ島　ごう]]／ダチ⇒[[椎名　苺]]と[[オカルト　馬場]]
+・場所&br()BIG峠⇒[[5002付近>>https://www.twitch.tv/suzukinoriaki/clip/PolitePluckyEggnogItsBoshyTime-btNee0SVGM5WdtKg]]／大黒⇒5020周回コース／エセ名阪⇒[[10012付近埠頭コース>>https://www.twitch.tv/suzukinoriaki/clip/LittleHumbleSandwichBlargNaut-v2nm70V7g1ErBqJu?filter=clips&range=7d&sort=time]]／峠⇒[[9372の先にできた峠>>https://www.twitch.tv/suzukinoriaki/clip/VibrantDeterminedAlfalfaPanicBasket-dF8ac3qIxe7Q8RI8]]／&br()万里の長城⇒峠の湖の上にある橋。事故率が高く、復帰率が低い難所。&br()BIGサイト⇒[[BIG Automotive Design]]のガレージのこと。2023/12/08に[[大　川]]と[[経済役員　ユアナ>ユアナ]]と命名した。&br()ドリフト島⇒12/28に突如として出現した島。3063の先にある。
+・衛星&br()・タンク⇒自分の代わりに広告を見てくれている/自分が他の人の代わりに広告を見る&br()・360⇒360°回転するドリフトのこと（[[参考資料>>https://www.twitch.tv/suzukinoriaki/clip/AcceptableCrazySoybeanVoHiYo-UxZIU6YQ33_mn960]]）&br()・720⇒360°+360°のこと。連続しているわけではない。（[[参考資料>>https://www.twitch.tv/suzukinoriaki/clip/SpookyCorrectWaffleDerp-B8zIP_VQdg2ff4W9?filter=clips&range=7d&sort=time]]）&br()・煽りLv100⇒一般道で心無き住人の運転する車の周りをドリフトすること（[[参考資料>>https://www.twitch.tv/suzukinoriaki/clip/VictoriousTenderWolverineArgieB8-3p9v02Y8zRYu6Sb6?filter=clips&range=7d&sort=time]]）&br()・BIGルーティン⇒峠の立駐で始める技のこと。8の字⇒スロープ⇒ドリフト駐車（[[参考資料>>https://twitter.com/NORIAKIISGOOD/status/1694971913536471395?s=20]]）&br()・中指ヒール&トゥ⇒板チョコ（キーボード）でドリフトをする上でBIGが大切にしている、WとSを同時に押す高等技術。&br()・BIGテロ⇒１周年パレード中に市長を喜ばせようとドリフト走行したところ、BIG視点は歪みでわからなかったが、パレード参加者を轢き散らかした事件。・・・「[[問題のクリップ>>https://www.twitch.tv/shobosuke/clip/SincerePopularBeePeteZarollTie-M4xQqAlTbDGamVTk?filter=clips&range=24hr&sort=time]]」&br()・シュガる⇒シュガーシガレットを使用すること。&br()・「BIG」⇒バットでボディの耐久力を削り、修理すること。&br()尚、周りに居る依頼者を誤って殴ってしまいダウンさせたり、所持しているだけで背負ってしまい見た目が悪い等の理由から9/3にショッピングモールにてハンマーを購入した。&br()・BIGファイナンス⇒車を販売するときに無担保無利子で貸し付けを行う事。&br()・VIP SUZUKI⇒VIPルームに入室すること（[[参考資料>>https://www.twitch.tv/videos/1916773723?t=07h46m29s]]）&br()・デーラー⇒ディーラーのこと。「2023…？このカレンダーは一体…」「今年のカレンダーでございます」（[[参考資料>>https://www.twitch.tv/suzukinoriaki/v/1919439127?sr=a&t=11789s]]）&br()・「BAD」⇒学校給食コンセプト食堂「[[ToY]]」にて懐かしい学生時代を振り返り、「どうしてこうなったんだ、、、」とBADに入ってしまう現象のこと。
+#endregion()
+
+#region(実は)
+*****実は...
+・100年前のロスサントス住人の記憶を持っているが、自分からは明らかにしていない。現状、[[にし　のん]]に「100年前の〜」と聞かれた際にのみ答えた。
+・・&s(){また、100年前の記憶から10071に郷愁を抱いており、何とかそこをメカニックとして使えるようにしたいと考えている。(しかしながら、来たばかりの自分が急に土地を買ったことに対する住人との対立や社長業よりはメカニックとしてまだ活躍したいという気持ちから購入には至っていない。)}&br()⇒&bold(){8/15時点}：欲しいという気持ちはなくなっており、資金はすべて車をいじるために使う予定。&br()⇒&bold(){8/17時点}：[[ギャル>小豆　最中]]と出会ったことで起業の気持ちが高まっている。&br()⇒&bold(){8/19時点}：[[ギャル>小豆　最中]]に10071を紹介した際に起業を提案されたが、会社として運営するには面倒で個人として使いたいという旨を話す。&br()⇒&bold(){8/26時点}：人を雇うと経理等が面倒なため、個人事業主で起業できないか考え始める。（詳細は&u(){エピソードの2023/8/26}を参照）&br()⇒&bold(){8/28時点}：[[山本　龍也]]に開業（個人事業主）の話を聞く。背中を後押しされたため市長と社長に相談する予定。&br()⇒&bold(){8/31時点}：ついに念願の10071整備工場を購入しカスタムショップとして起業。&br()⇒&bold(){9/18時点}：寄り道することなく、すべてがうまくいってしまったため、目標を失う。&br()⇒&bold(){10/1時点}：街の活性化のために模索。下火になっているレースの再燃や、新規レギュレーションの構想を練る。&br()⇒&bold(){10/4時点}：[[ニャンコ・スキー]]からレースチームの立ち上げとスポンサードに誘われる。若きレーサーや中堅を引き入れるため、レースを見学する予定。&br()⇒&bold(){11/4時点}：[[猪狩　翔太]]からドリコンに誘われる。&br()⇒&bold(){11/10時点}：別の世界（グランツーリスモ）でのTAの楽しさから、峠で車種を統一したTAイベントを開催したいと発言。&br()⇒&bold(){11/15時点}：基準タイム計測等を行い、本格的に峠イベントに向けて企画を仕上げている。&br()⇒&bold(){12/2時点}：100年後へのタイムスリップや夢の世界の都合により、峠TAイベントは1月以降に開催予定。&br()⇒&bold(){12/8時点}：[[大　川]]、[[経済役員　ユアナ>ユアナ]]との会話の中でモーターショーを開く構想を練る。
+・マッスルカー流行の陰にはSUZUKIカスタムが関係している可能性が高い
+・8/19 1:20ごろからドリフトにドはまり。ひそかに自分よりドリフトの上手い走り屋を待っている。走り屋チームを作ることにも意欲を示す。
+・BIGがドリフトにはまった直後に峠コースの試験追加が来るなど、流行はBIGの後ろについてくるのかもしれない。&br()⇒峠が盛況だったため、市長がBIGの衛星にて「2～3か月に1回のペースで新しい峠に入れ替えようかな」と発言
+・夢の中でのイメージトレーニングや長時間の峠アタックなど、努力に裏打ちされた確かな技術が彼を走り屋として一流にしている。
+・夢の世界のTwitterにドリフトのクリップをUPするために早くINしていることがある。（[[Twitter参照>>https://twitter.com/NORIAKIISGOOD]]）
+・カジノのスロットを打ち始めると脳内でバジリスクが流れ出すほどのパチスロ好き
+・キノコかタケノコで言ったら[[タケノコ派>>https://www.youtube.com/watch?v=q84khMaAKLs&t=15319s]]
+・9/15 車への熱が夢の世界を侵食し、とうとう夢の中で&bold(){97年式トヨタ・マークⅡワゴン LGグランデエディション}を無免納車した
+・夢の世界でのアニメ「機動戦士Zガンダム」が好きらしく、BMCにドム（ガイア）（中身は[[ネズ]]）が働いているとわかると飛んできた
+・好きなタイプは「四角くてぇ～～、うるさくてぇ～～、背は低いほうがいい」らしい&br()&openclose2(show=…){&color(#800080){れりあ「車やね」}}
+//BIGは眉毛のしっかりした女性が好みのようだ。曰く、「頭文字Dのしげの先生の影響」だそうだ。
+//↑BIGというより魂すぎると感じたので別エピソードに差し替えてみました
+・10/26 夢の世界でも無事無免を卒業する
+・[[鷹山　トシアキ]]の衛星にて&bold(){&size(20){「一旦、◯◯しとくか」}}という形式であれば指示コメを&color(#F54738){一部容認}。&br()また、器が大きいと自称しており、それを体現するように共有BANを導入していない。
+#region(魂が語る車談義)（引用元：2024/1/25のストグラジオ）
+***お気に入りの愛車
+・スラムバンカスタム
+「思い出の１台。[[JTS>>ジョアンナテクノサービス]]時代に[[山本　龍也]]から安く購入できた車。」&br()「自分のカスタムの表現と山本さんとの思い出が詰まった車。（実は[[LWGP]]のステッカーがノブ下に貼ってある）」
+***渾身の１台
+・イントルーダー
+「だれも乗ってない車。スタンスキットなしでの車高の調整が大変だった。」
+***顧客への渾身の１台
+・[[デ　ヤンス>小者　デヤンス]]のホットドッグカー
+・[[菖光亭]]のヨウガ
+・[[つぼ浦　匠]]のマニャーナ
+#endregion()
+#region(100年前や夢の世界絡みの繋がりについて)
+・[[Mon　D]]、[[yaku　beni]]、[[白井　満太]]、[[A　KA]]、[[無馬　かな]]、[[四皇　シャンクズ]]、[[海老　男]]、[[青井　らだお]]、[[ミナミ　とと]]、[[成瀬　力二]]達とは100年前の街や夢の世界で交流がある。
+・[[キャプテン　わきを]]とは夢の世界でマージャンをしたことがある。
+・[[ミン　ドリー]]とは夢の世界で一緒に仕事をしたことがある。
+・[[ヤミー　エンデバー]]とは夢の世界で知り合いのようだが、ロスサントス初対面時にはじめましての圧を受けた。
+・[[鬼野　ねね]]とは夢の世界で交流がある。
+・[[ジャック　馬ウアー]]とは夢の世界で野球観戦などをする友人。
+・闇医者の[[いわさき　そす]]とは夢の世界で仕事のつながりがある。
+・[[加藤　圧]]とも夢の世界の仕事でつながりがある。
+・[[オカルト　馬場]]とは夢の世界で衛星外でも一緒にゲームする友人。
+・[[ヤブ下　安理]]とはロスサントス住人では最も古い夢の世界の友人。
+#endregion()
+#endregion()
+
+#right(){&link_aname(目次1){△目次へ}}
+//
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&size(20){&color(#eaf4fc)車関係&icon_fa(fa fa-car)}
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+#region(所有車両)
+**所有車両
+#table_style(head=center:#e6e6fa)
+#table_filter(){車名+CustomIMG=show,種類=show,取得日=show}
+|MIDDLE:~車名+CustomIMG|MIDDLE:~種類|MIDDLE:~取得日|MIDDLE:~備考|h
+|&image(Faggio_SUZUKI.png,x=200)Faggio Mod（ファギオMod）|バイク|2023/8/12|ヘラシギ支給|
+|&image(Asbo_SUZUKI.png,x=200)Asbo（アスボ）|コンパクトカー|2023/8/12|購入⇒[[ひの　らん]]に100万で譲渡&br()｢前(ダサいプラスチックバンパー)をあえて残すんですよ。｣&br()｢カスタムの楽しさを教わった。｣|
+|&image(Manana_Custom_SUZUKI.png,x=200)Manana Custom（マニャーナ）|マッスルカー|2023/8/13|購入&br()｢これゆっくり回すのが神なんす。｣&br()｢車を跳ねさす為だけにめちゃくちゃ金払ってんのバカじゃん。でもそれがいいんだよね。多分。｣|
+|&image(Faction_Custom_SUZUKI.png,x=200)Faction Custom（ファクション）|マッスルカー|2023/8/14|購入&br()「完成しきってんだよな。コレもう。」&br()「これ、ちょっととっておこう。気が向いたとき用に。」|
+|&image(FCR1000_Custom_SUZUKI.png,x=200)FCR 1000 Custom（FCR1000）|バイク|2023/8/14|購入⇒[[ジェフリー　ヒッチコック]]に300万で譲渡&br()「こういう風にできんだ。」&br()「ミリタリーバイクって感じだね。」|
+|&image(Primo_Custom_SUZUKI.png,x=200)Primo Custom（プリモ・カスタム）|セダン|2023/8/15|購入&br()(カスタム幅を見て)「うぉぉ！気合入ってんなぁ。」&br()「んん～！Good！Goodです！」|
+|&image(Minivan_Custom_SUZUKI.png,x=200)Minivan Custom（ミニバン・カスタム）|バン|2023/8/16|購入⇒[[職無　ニトロ]]に譲渡&br()「触ったことないからねぇ。気になんだよねぇ。」&br()「え？カスタムじゃない方がいじれる？そんなことある？」|
+|&image(Minivan_SUZUKI.png,x=200)Minivan（ミニバン）|バン|2023/8/16|購入&br()「（カスタムが少なすぎて）終わってるww」&br()「ま、勉強代だな」&br()「だせぇし、おせぇし、いじれねぇし、これ車じゃないよ」|
+|&image(Youga_Classic_4x4_SUZUKI.png,x=200)Youga Classic 4x4（ヨウガ・クラシック）|バン|2023/8/16|購入⇒[[yaku　beni]]に1000万で譲渡&br()「おぉ～すごいな！おぉ～顔も変わる。」&br()「キャバクラ営業できるよ。もはや」|
+|&image(Slam_Van_Custom_SUZUKI.png,x=200)Slam Van Custom（スラムバン・カスタム）|マッスルカー|2023/8/16|[[山本　龍也]]から購入&br()「FAKEすぎ、この車w埋まりすぎ埋まりすぎww」&br()「なんでサス１が載ってたのかわかるよ」|
+|&image(Remus_SUZUKI2.png.jpg,x=200)Remus（レミュス）|スポーツカー|2023/8/16|購入&br()「白だとさ、プジョーみたいじゃない？なんでだ。」&br()8/19　ドリフト仕様に改造&br()9/8　中村直樹風に魔改造+V8 5.4Lに載せ替え「シルビアの顔したタンパができた」|
+|Moonbeam Custom&br()（ムーンビーム・カスタム）|マッスルカー|2023/8/17| 購入⇒[[ミン　ドリー]]にカスタム込み1400万で譲渡&br()「少なくともこの店から出てねえぞ。ありえんだろ。」|
+|&image(Flash_GT_SUZUKI.png,x=200)Flash GT（フラッシュGT）|スポーツカー|2023/8/20|[[アドミゲス・ハン]]から購入⇒[[ニャンコ・スキー]]にレンタル（9/23～）&br()&font(blue){須藤「カッコよすぎるwwwあれには勝てねえww」}|
+|&image(Drift_Tampa_SUZUKI.png,x=200)Drift Tampa（ドリフト・タンパ）|マッスルカー|2023/08/22|購入⇒[[ニャンコ・スキー]]にレンタル（9/23～）&br()「2000万。期待値高けぇ～」|
+|&image(Mark_II_SUZUKI.png,x=200)Mark II（マークII）|実車|2023/08/22|購入⇒市の規制で廃車になったため売却&br()「カスタムの面白さが一気にわかるというかね」|
+|&image(Drift_Yosemite_SUZUKI.png,x=200)Drift Yosemite（ドリフト・ヨセミテ）|マッスルカー|2023/08/23|購入⇒[[天王寺　京司郎]]に2500万で譲渡&br()「あったw必ずあるよね"Ragga RUM"」|
+|&image(FUTO_SUZUKI.png,x=200)FUTO（フト）|クーペ|2023/08/25|購入&br()V6 6.0Lに換装（エンジンだけで本体価格の4倍）&br()「（ドリフト）タンパ以来の傑作だわ」&br()&font(purple){山本「FUTOの悪いところがなくなってる。」}|
+|&image(Intoruder_SUZUKI.png,x=200)Intruder（イントルーダー）|セダン|2023/8/29|購入&br()「いじれなかったら即売りだろうな」&br()「(ドリフトの）難易度高そう。車体が重くて、パワーがないから」&br()「いい尻してんじゃん」|
+|&image(Youga Classic 4×4_SUZUKI2.jpg,x=200)Youga Classic 4×4（ヨウガ・クラシック4x4）|バン|2023/9/2|[[warabi　hime>>yaku　beni]]から1000万で買い戻した⇒[[菖光亭]]案件用に回す&br()元B.A.D社用車|
+|&image(Previon_SUZUKI2.jpg,x=200)Previon（プレビオン）|クーペ|2023/9/4|購入&br()V12 5.8Lに載せ替え&br()9/25 ホイールスペーサーを装着し、カラーを変更「（カスタム幅を見て）おおおおお！おいおいおい、までぃか！」|
+|Surfer Custom（サーファーカスタム）|バン|2023/9/5|[[菖光亭]]案件用に購入⇒[[山田　パルコ]]に500万で譲渡&br()「暇なときいじろうかな」「どっかのタイミングでそのままの価格で売りゃいい」|
+|&image(Moonbeam Custom_SUZUKI.jpg,x=200)Moonbeam Custom（ムーンビーム・カスタム）|バン|2023/9/6|[[菖光亭]]案件用に購入⇒社用車としてカスタム&br()「まあ、俺も欲しかったし」|
+|&image(Remus_SUZUKI3.jpg,x=200)Remus（レミュス）|スポーツカー|2023/9/8|2台目購入&br()こっちはソアラ風にカスタマイズ。未体験ゾーンへ。|
+|&image(Cheetah Classic_SUZUKI.jpg,x=200)Cheetah Classic（チータークラシック)&image(Cheetah Classic再カスタム後_big_20240709？.png,x=200)|スポーツカー|2023/9/9|購入&br()「かっこいいな！この車！」|
+|&image(Havok_SUSUKI.jpg,x=200)Havok（ハボック）|ヘリ|2023/9/11|[[天近　くるみ]]から4000万で譲渡。「こいつ、足弱えぇな」|
+|&image(Penumbra FF_SUZUKI.jpg,x=200)Penumbra FF（ペナンブラFF）|スポーツカー|2023/9/12|購入&br()「（カスタム幅を見て）いい車過ぎない？」|
+|&image(190z_SUZUKI1.jpg,x=200)190Z（190z）|クラシックスポーツ|2023/09/16|購入&br()ほぼ純正で仕上げる&br()「Wow wow wow wow!No Way!」|
+|&image(190z_SUZUKI2.jpg,x=200)190z（190z）|クラシックスポーツ|2023/09/16|購入⇒2023/12/26に[[ヤブ下　安理]]に譲渡&br()レーシングタイプでカスタム&br()9/25 ホイールスペーサーを装着&br()「警察もこの車には追い付けないでしょ。見惚れちゃって」|
+|&image(Nebura Turbo_SUZUKI.jpg,x=200)Nebula Turbo（ネビュラターボ）|クラシックスポーツ|2023/09/16|購入&br()「これは変態向けだな」|
+|&image(Bobcat XL_SUZUKI.jpg,x=200)Bobcat XL（ボブキャット XL）|バン|2023/9/20|社用車として購入&br()|
+|&image(WolfSbane_SUZUKI.jpg,x=200)WolfSbane（ウルフスベイン）|バイク|2023/9/20|購入&br()「お、結構いじれるじゃん。」&br()「これは買いやね」|
+|&image(Issi_SUZUKi.png,x=200)Issi（イッシー）|コンパクト|2023/10/03|購入⇒2023/11/27に[[TANKTOP 竹森]]のカマチョと交換&br()V6 4.0Lに載せ替え&br()「え、かっこよくね？」|
+|&image(GT500_SUZUKI_2.png,x=200)GT500（GT500）|クラシックスポーツ|2023/10/08|購入&br()「衛星外でこんな高い車買っちゃって申し訳ねぇｗ」&br()2023/10/09文化祭に展示するためレーシーにカスタム|
+|&image(Elegy Retro.jpg,x=200)Elegy Retro Custom（エレジーレトロカスタム）|スポーツカー|2023/10/28|[[にし　のん]]から10％引きで購入&br()2023/11/02に痛車仕様に|
+|Virgo Classic Custom（ヴァーゴクラシックカスタム）|マッスルカー|2023/11/02|[[小峯　玲]]からのプレゼント|
+|Ruiner（ルイナー）|マッスルカー|2023/11/03|購入&br()ドリコン用に購入し、チューニング。「嫌いじゃない」|
+|&image(Vectre_SUZUKI.jpg,x=200)Vectre（ベクター）|スポーツカー|2023/11/04|[[ミン　ドリー]]から10%引きで購入。&br()「すっげー運転しやすい」「これは買いだね。このお車」&br()2023/11/08 V8 4.0L搭載|
+|&image(Paragon_SUZUKI.jpg,x=200)Paragon（パラゴン）|スポーツカー|2023/11/07|「カスタム無しなのに運転しやす」&br()「新型アルファード純正カラー」&br()2023/11/08 V12 6.0L搭載|
+|&image(Kamacho_SUZUKI.jpg,x=200)Kamacho（カマチョ）|オフロード|2023/11/27|[[TANKTOP 竹森]]とイッシーを交換して入手。&br()V8 5.4Lに載せ替え。&br()「ローギアからならこれでも行っちゃう」|
+|&image(SCW_SUZUKI.jpg,x=200)Sentinel Classic Widebody（センチネルクラシックワイドボディ）|スポーツカー|2023/12/01|「やばいなコレｗ俺、これでレース出ようかな。」|
+|&image(Flash GT2_SUZUKI.jpg,x=200)Flash GT（フラッシュGT）|スポーツカー|2023/12/08|購入&br()V6 6.0Lに換装済み⇒2024/1/5にV12 6.0Lに再換装&br()「雪の上でも自分の想像通りの動きをする」|
+|&image(Cinquemila_SUZUKI.jpg,x=200)Cinquemila（チンクエミーラ）|セダン|2023/12/24|購入&br()「ジャグラーとかパラゴン系だコレ」|
+|Comet Safari（コメットサファリ）|スポーツカー|2023/12/26|[[大　川]]から5000万で購入。|
+|&image(Comet S2 Cabrio_SUZUKI.jpg,x=200)Comet S2 Cabrio（コメットS2カブリオ）|スーパーカー|2023/12/26|[[ヤブ下　安理]]との取引により4000万で購入。|
+|&image(WarlenerHKR_SUZUKI.jpg,x=200)Warrener HKR（ウォーレナーHKR）|セダン|2024/1/3|購入&br()V8 5.4Lに載せ替え&br()「ガチャガチャつけまくってこれでドリフトしたら絶対楽しいじゃん」|
+|&image(Castella_SUZUKI.jpg,x=200)Castella（カステラ）|未販売車|2024/1/4|[[かな　市長補佐]]から譲渡。|
+|&image(Kenpher_SUZUKI.jpg,x=200)Kampfer（ケンプファー）|バイク|2024/1/5|購入|
+|&image(Regina_SUZUKI.jpg,x=200)Regina（レジーナ）|セダン|2024/01/07|購入&br()V12　6.0Lに載せ替え&br()「これでドリ車作ろう！」|
+|&image(Manchez Scout C_SUZUKI.jpg,x=200)Manchez Scout C（マンチェススカウトC）|バイク|2024/1/7|購入&br()「Steamでモトクロスのゲーム買います」|
+|&image(Manchez Scout C2_SUZUKI.jpg,x=200)Manches Scout C（マンチェススカウトC）|バイク|2024/1/9|購入&br()１台を水没させてしまったため我慢できずに購入。&br()「その方が、楽しいに決まっている。」|
+|&image(Altior_SUZUKI.jpg,x=200)Altior（アルティオール）|セダン|2024/1/11|購入&br()「うわ～いいなぁ」&br()「めっちゃいいコレ。ずっと乗ろ。気に入った！」|
+|&image(Buzzard_SUZUKI.png,x=200)BUZZARD（バザード）|ヘリコプター|2024/01/21|購入&br()「結局、俺ヘリ好きだからな～」&br()「（イタリRSXの）カスタム代？いいよ早く乗りた過ぎて」|
+|&image(GB200_SUZUKI.png,x=200)GB200|スポーツカー|2024/1/23|購入&br()「ケン・〇ロックのRS200風」|
+|&image(Dynasty_SUZUKI.png,x=200)Dynasty（ダイナスティ）|クラシックスポーツカー|2024/02/15|購入&br()|
+|&image(SunriseR_BIG.png,x=200)SunriseR（サンライズR）&image(Sunrise R_big_20240721.png,x=200)|スポーツカー|2024/2/22|購入&br()「多すぎｗリバリーもいいね」&br()「作りたい方向性としてはこういう系（ストロングスタイル）」|
+|&image(BIG＿MesaMarrywheather.jpg,x=200)MerryWeather（メリーウェザー)|オフロード|2024/03/03|購入&br()|
+|&image(BIG＿Hellion.jpg,x=200)Hellion（ヘリオン）|オフロード|2024/03/03|購入&br()「カッコよくて、早くて積載400ってこれ以外買うってあり得る？」|
+|&image(SandKing_SUZUKI.png,x=200)SandKing（サンドキング）|オフロード|2024/3/9|購入&br()|
+|Virgo Classic Custom (ヴァーゴクラシック・カスタム )|マッスルカー|2024/4/10|購入&br()|
+|&image(Marquis _big_20240430.png,x=200)Marquis(マルキー)|ボート|2024/4/30|購入&br()|
+|&image(Issi Classic_big_20240503.png,x=200)Issi Classic (イッシ―クラシック)&image(Issi Classic_big_saibaryo_20240503.png,x=200)|コンパクト|2024/5/3|購入&br()シティー〇ンター|
+|&image(Jester Classic_big_20240507.png,x=200)Jester Classic (ジェスターレトロ)|スポーツカー|2024/5/7|購入&br()「このくらいの不自由さが走ってて楽しい」&br()れりあ依頼のカスタム車に、勝手に5000万のスタンスキットをいれてしまったことに対するお詫びとして、7/2付でれりあへ譲渡|
+|&image(Buffalo STX _big_20240516.png,x=200)Buffalo STX (バッファローSTX)|マッスルカー|2024/5/16|購入&br()|
+|&image(RT3000_big_20240529_1台目.png,x=200)RT3000 |スポーツカー|2024/5/29|購入&br()|
+|&image(RT3000_big_20240529_2台目.png,x=200)RT3000 |スポーツカー|2024/5/29|購入&br()1人RT3000サミットを行うため、2台目を購入。|
+|&image(Sugoi_big_20240613.png,x=200)Sugoi(スゴイ)|スポーツカー|2024/6/13|購入&br()|
+|&image(シュラーゲンGT_big_20240615.png,x=200)Schlagen GT (シュラーゲンGT)|スポーツカー|2024/6/15|購入&br()|
+|&image(Growler_big_20240622.png,x=200)Growler (グロウラー)|スポーツカー|2024/6/22|購入&br()|
+|&image(Jester Racecar_big_20240622.png,x=200)Jester Racecar(ジェスターレースカー)|スポーツカー|2024/6/22|購入&br()9055主催のジェスターレースの話を聞き、購入。|
+|&image(Tahoma Coupe _big_20240626.png,x=200) Tahoma Coupe (タホマクーペ)|マッスルカー|2024/6/26|購入&br()|
+|&image(Eurosdrift_big_20240627.png,x=200)Eurosdrift(ユーロスドリフト)ドリフト仕様|スポーツカー|2024/6/27|購入&br()|
+|&image(Kuruma_big_20240702.png,x=200)Kuruma(クルマ)|スポーツカー|2024/7/2|購入&br()一応購入しておく|
+|&image(ZR350_big_20240702.png,x=200)ZR350drift ドリフト仕様|スポーツカー|2024/7/2|購入&br()カスタムは7/6|
+|&image(MonstroCiti_big_20240704.png,x=200)MonstroCiti(モンストロシティ)|オフロード|2024/7/4|購入&br()|
+|&image(Blista Kanjo_big_20240706.png,x=200)Blista Kanjo(ブリスタ・カンジョ)|コンパクト|2024/7/6|購入&br()|
+|&image(Sultan Classic_big_20240707.png,x=200)Sultan Classic(サルタンレトロ)|スポーツカー|2024/7/7|購入&br()|
+|&image(Issi Rally_big_20240719.png,x=200)Issi Rally(イッシーラリー)|SUV|2024/7/19|購入&br()|
+|&image(Comet Retro Custom_big_20240724.png,x=200)Comet Retro Custom(コメット・レトロカスタム)|スポーツカー|2024/7/24|購入&br()その日のうちに[[ルウ　ギャラクティカ]]に1億2000万で譲る。|
+|&image(Comet Retro Custom買いなおし_big_20240724.png,x=200)Comet Retro Custom(コメット・レトロカスタム)|スポーツカー|2024/7/24|購入&br()おそらく[[ルウ　ギャラクティカ]]から購入しなおす。|
+|&image(ドリフトするDrift Yosemite Drift.png,x=200)Drift Yosemite(ドリフトヨセミテ)ドリフト仕様|マッスルカー|2024/7/30|購入&br()|
+|&image(FR36_big_20240814.png,x=200)FR36|クーペ|2024/8/14|購入&br()|
+|&image(Zombie Bobber_big_20240814.png,x=200)Zombie Bobber(ゾンビボバー)|バイク|2024/8/14|購入&br()[[猪狩　翔太]]にカスタムしてもらった|
+|&image(RatBike_big_20240817.png,x=200)Rat Bike(ラットバイク)|バイク|2024/8/14|購入&br()カスタムは17日|
+|&image(Nightshade_from shinobu to big_20240903.png,x=200)Nightshade(ナイトシェード)|マッスルカー|2024/9/03|[[万十　忍]]からのプレゼント&br()|
+|&image(スクリーンショット 2024-11-26 114735.png,x=200)Deity(ディアティ)|セダン|2024/9/29|購入&br()|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(所有車両)
+
+#region(彼の手掛けたカスタム)
+**彼の手掛けたカスタム
+#table_style(head=center:#e6e6fa)
+#table_filter(){番号=show,車名+CustomIMG=show,種類=show,依頼者=show}
+|MIDDLE:~番号|MIDDLE:~車名+CustomIMG|MIDDLE:~種類|MIDDLE:~依頼者|MIDDLE:~備考|h
+|1|&image(Weevil__Kohana_Lami.png,x=200)Weevil（ウィーヴィル）|コンパクトカー|[[Kohana　Lami]]|チップとデールのチップ風|
+|2|&image(Desert_Raid__Shirai_Manta.png,x=200)Desert Raid（デザートレイド）|オフロード|[[白井　満太]]|幼稚園児カラー|
+|3|&image(Manana_Custom__Matio_Sanri.png,x=200)Manana Custom（マニャーナ）|マッスルカー|[[街雄　サンリ]]|モテ男カスタム&br()「大切な人を乗せるための2ドアだから。」|
+|4|Virgo Classic Custom（ヴァーゴ）|マッスルカー|[[有坂　誉]]|仕様書再現|
+|5|&image(Faggio_Mod__Otonope_Yabami.png,x=200)Faggio Mod（ファギオMod）|バイク|[[オノマトペ　ヤバ美]]|通称"ヤバ美カスタム"&br()「(この街に)来たばっかの1台目の原付っスね。あちぃ～」|
+|6|&image(Beater_Dukes__Kiruma_Tetuo.png,x=200)Beater Dukes（デュークス）|マッスルカー|[[切間　てつお]]|ワイスピのチャージャー+てつおピンク|
+|7|&image(Sandking_SWB__Shirai_Manta.png,x=200)Sandking SWB（サンドキングSWB）|オフロード|[[白井　満太]]|アイスっぽく&br()⇒8/25カスタム＆色変更|
+|8|&image(Beater_Dukes_Ueno_Kamiya.png,x=200)Beater Dukes  (デュークス)|マッスルカー |[[Ueno　Kamiya]]|仕様書再現|
+|9|&image(Yosemite_Rancher_Yamamoto_Tatuya.png,x=200)Yosemite Rancher（ヨセミテ・ランチャー）|オフロード|[[山本　龍也]]|仕様書再現(29ヶ所)/タイヤおまかせ&br()カスタムRTAを実施(START▶20:51～)|
+|10|&image(Weevil__Makita_kokona.png,x=200)Weevil（ウィーヴィル）|コンパクトカー|[[牧田　ここな]]|[[お姉ちゃん>>https://w.atwiki.jp/streamergta5/?cmd=word&word=Kohana&pageid=534]]のみたいにしてください⇒デール風|
+|11|Contender（コンテンダー）|SUV|[[池島　裕貴]]||
+|12|&image(Stafford__.png,x=200)Stafford（スタッフォード）|セダン|[[守亜　茶>>https://w.atwiki.jp/streamergta5/?cmd=word&word=R%20B&pageid=597]]||
+|13|&image(Brioso300__Nashima_Kana.png,x=200)Brioso300（ブリオッソ300）|コンパクトカー|[[無馬　かな]]|後に依頼を受けて可愛い色に再塗装|
+|14|Hakuchou（ハクチョウ）|バイク|[[鬼野　ねね]]||
+|15|&image(Moon_Beam_Custom__Min_Dori.png,x=200)Moon Beam Custom（ムーンビーム・カスタム）|マッスルカー|[[ミン　ドリー]]|実家（GTA5の別鯖or夢の世界）の再現|
+|16|Turismo R（ツーリスモR）|スーパーカー|[[クリスマスウッドマン>>キャプテン　わきを]]||
+|17|&image(Gauntlet__.png,x=200)Gauntlet（ガントレット）|マッスルカー|[[物忘　レイナ]]|バンブルなビーを再現|
+|18|&image(Remus__.png,x=200)Remus（レミュス）|スポーツカー|[[小豆　最中]]|頭文字Dのシルエイティ再現|
+|19|FUTO GTX（フト GTX）|スポーツカー|[[オザワ　ハヤマサ]]||
+|20|&image(Tailgater_S__.png,x=200)Tailgater S(テイルゲーター S)|セダン|[[ヘスティア　ゴデス]]|高級感があり、自分にはできないカスタム|
+|21|&image(Chino Luxe_ボア　セニャコック.png,x=200)Chino Luxe（チノ・リュクス）|マッスルカー|[[ボア　セニャコック]]|渋めの紫で|
+|22|&image(Beater Dukes_ション　ウィッグ.png,x=200)Beater Dukes（ビーター・デュークス）|マッスルカー|[[ション　ウィッグ>>https://w.atwiki.jp/streamergta5/pages/326.html]]|ワイルドスピ○ドの再現|
+|23|&image(Youga Clasicc 4×4_しゅがぴ.png,x=200)Youga Classic 4x4（ヨウガ・クラシック4x4）|バン|[[シュガー　ピーチ]]|ゆめカワな感じで|
+|24|&image(Manana Custom_つぼ浦　匠.png,x=200)Manana Custom（マニャーナ・カスタム）|マッスルカー|[[つぼ浦　匠]]|破天荒な特殊刑事課イメージ|
+|25|&image(Rumpo Custom_ボタリン　モンロー.png,x=200)Rumpo Custom（ランポ・カスタム）|バン|[[ボタリン　モンロー]]|夢の世界のFのつくスポーツカーから赤とってきました|
+|26|&image(Primo Custom_ミナミ　とと.png,x=200)Primo Custom（プリモ・カスタム）|セダン|[[ミナミ　とと]]|仕様書再現|
+|27|&image(Vagrant_ヘスティア　ゴデス.png,x=200)Vagrant（ヴァグラント）|オフロード|[[ヘスティア　ゴデス]]|「他人と被らないダークなかっこよさ」&br()BIG SUZUKIカスタム史上、トップクラスに難しかった車種。&br()カスタム可能箇所が少なく、塗装可能面積も小さいため、&br()試行錯誤を続けた末に作りあげた。|
+|28|&image(Youga Classic4×4_白井　満太.png,x=200)Youga Classic4×4（ヨウガ・クラシック4×4）|バン|[[白井　満太]]|「動くアトリエ&牛乳ホワイト」&br()実はドアのロゴの下に白BIGステッカーを貼ってある。|
+|29|Hakuchou Drag（ハクチョウ・ドラッグ）|バイク|[[闇　一郎>>銭形　やいち郎]]|「ビカビカなシルバーで」|
+|30|&image(seven-70_超越ケ谷　にかり3.jpg,x=200)Seven-70（セブン-70）|スポーツカー|[[超越ヶ谷　にかり]]|「黒とオレンジ以外で可愛く」&br()「パステルカラー」|
+|31|&image(Drift Tampa_御花　はな.png,x=200)Drift Tampa（ドリフト・タンパ）|マッスルカー|[[御花　はな]]|「ダークな緑で」|
+|32|&image(Vigero ZX_須藤　冬馬.png,x=200)Vigero ZX（ヴィゲーロZX）|マッスルカー|[[須藤　冬馬]]|仕様書再現|
+|33|&image(Vigero ZX_ミン　ドリー.png,x=200)Vigero ZX（ヴィゲーロZX）|マッスルカー|[[ミン　ドリー]]|「緑ベースのBIGカスタム」|
+|34|&image(Dubsta_椎名　苺.png,x=200)Dubsta（ダブスタ）|SUV|[[椎名　苺]]|「300万以内で可愛い系」|
+|35|&image(Vigero ZX_山本　龍也.jpg,x=200)Vigero ZX（ヴィゲーロZX）|マッスルカー|[[山本　龍也]]|「特別な黄色」|
+|36|&image(Windsor Drop_鬼野　ねね.jpg,x=200)Windsor Drop（ウィンザードロップ）|クーペ|[[鬼野　ねね]]|「可愛く、鬼野ねねモチーフで」|
+|37|&image(Biffta_白井　満太.jpg,x=200)Biffta（ビフタ）|オフロード|[[白井　満太]]|仕様書再現|
+|38|&image(Paragon R_ジェフリー　ヒッチコック.jpg,x=200)Paragon R（パラゴンR）|スポーツカー|[[ジェフリー　ヒッチコック]]|「プレゼント用でモノクロのクラシック風」|
+|39|&image(Remus_堕夜　だよ.jpg,x=200)Remus（レミュス）|スポーツカー|[[堕夜　だよ]]|「23時まででプレゼント用の重めのラブ」|
+|40|&image(Draugur_Kohana　Lami.jpg,x=200)Draugur（ドラウグル）|オフロード|[[Kohana Lami]]|「カワイイ系で」|
+|41|&image(Youga Classic4×4_菖光亭.png.jpg,x=200)Youga Classic4x4（ヨウガ・クラシック4x4）|バン|[[菖光亭]]（[[シュガー　ピーチ]]）|「お店の宣伝になるような和風テイストな車」&br()⇒この街にきて初めての企業案件であったため吟味&br()⇒ばっちりハマったわけではないがなんとか完成に持って行った|
+|42|&image(Draugur_A　KA.jpg,x=200)Draugur（ドラウグル）|オフロード|[[A　KA]]|「ゆめカワな感じで」|
+|43|&image(Manana_今井　教次.jpg,x=200)Manana（マニャーナ）|マッスルカー|[[切間　てつお]]|「[[今井　教次]]に似合う、渋くて黒系のオープンカー」|
+|44|&image(Hakchou Drug_？.jpg,x=200)Hakchou Drug（ハクチョウ・ドラッグ）|バイク|[[半沢　直ふぃ]]|「完全お任せBIGカスタム」|
+|45|&image(Youga Clasicc 4×4_Père Noël.png.jpg,x=200)Youga Classic 4x4（ヨウガ・クラシック4x4）|バン|[[Père Noël]]（[[海鈴　りおん]]）|「お店の雰囲気に合うようなカラーの訪問販売車」|
+|46|&image(ZR350_加藤　圧.jpg,x=200)ZR350（ZR350)|スポーツカー|[[加藤　圧]]|「ワ〇スピの世界観に合うように」|
+|47|&image(Buccaneer Rider_小豆　最中.jpg,x=200)Buccaneer Rider（バッカニア・カスタム）|マッスルカー|[[小豆　最中]]|「ピンク系でギャルっぽく」|
+|48|&image(Weevil_でやんす.jpg,x=200)Weevil（ウィーヴィル）|コンパクトカー|[[小者　デヤンス]]|「走るホットドッグみたいな感じで」|
+|49|&image(Hakuchou Drag_聖母　れりあ.jpg,x=200)Hakuchou Drag（ハクチョウ・ドラッグ）|バイク|[[聖母　れりあ]]|「黒に近い紫で、太陽光で青っぽく」|
+|50|&image(Chimera_菖蒲　光樹.jpg,x=200)Chimera（キメラ）|バイク|[[菖蒲　光樹]]|「色は自分の髪色くらいであとはお任せで」|
+|51|&image(Comet Safari_深沢　えぼし.jpg,x=200)Comet Safari（コメットサファリ）|スポーツカー|[[深沢　えぼし]]|「古めかしい感じで」|
+|52|&image(Tezeract_無馬　かな.jpg,x=200)Tezeract（テザラクト）|スーパーカー|[[無馬　かな]]|「蒼き閃光ver.ホワイト」|
+|53|&image(Draugur_西蓮寺　華月.jpg,x=200)Draugur（ドラウグル）|オフロード|[[西蓮寺　華月]]|「エモい黄色で」|
+|54|&image(Manana Custom_エドエトワール.png,x=200)Manana Custom（マニャーナ・カスタム）|マッスルカー|[[エド・エトワール]]|「ホストっぽく、おしゃれでさりげない金」|
+|55|&image(X80 Proto_Mon D.jpg,x=200)X80 Proto（X80 プロト）|スーパーカー|[[Mon　D]]|「リム以外はすべてお任せで」|
+|56|&image(Visione_神保　アボ.jpg,x=200)Visione（ヴィジョーネ）|スーパーカー|[[神保　アボ]]|「未来っぽさ」|
+|57|Taipan（タイパン）|スーパーカー|[[ゼラチン　おでん]]|「オリジナルな青で」|
+|58|&image(Draugur_オザワ　ハヤマサ.jpg,x=200)Draugur（ドラウグル）|オフロード|[[オザワ　ハヤマサ]]|「全部お任せで」|
+|59|&image(Cheetah Classic_鬼野　ねね.jpg,x=200)Cheetah Classic（チーターレトロ）|スーパーカー|[[鬼野　ねね]]|「[[参考画像>>https://x.com/tengunimuru/status/1703720987668381936]]のイメージで」|
+|60|&image(Deviant_オカルト　馬場.jpg,x=200)Deviant（デビアント）|マッスルカー|[[オカルト　馬場]]|「カッコいいパチカスカーにしてくれ」|
+|61|&image(Tyrant_シオコ　リコ.jpg,x=200)Tyrant（タイラント）|スーパーカー|[[シオコ　リコ]]|落ち着いた深みのある赤|
+|62|&image(Neon_花沢　まるん.jpg,x=200)Neon（ネオン）|スーパーカー|[[花沢　まるん]]|スポイラーなしのお任せで|
+|63|&image(Rampo Custom_小此木　ナカバ.jpg,x=200)Rampo Custom（ランポ・カスタム）|バン|[[小此木　ナカバ]]|（チーターレトロを見て）あんな感じのワインレッド|
+|64|&image(Power Surge_銭形.jpg,x=200)Power Surge（パワーサージ）|バイク|[[銭形　闇一郎>銭形　やいち郎]]|展示していたプレビオンと同じガンメタ|
+|65|&image(Diablos_超越ケ谷　にかり.jpg,x=200)Diablus（ディアブロス）|バイク|[[超越ヶ谷　にかり]]|なるべくデカくとにかくゴツく。幼女がハンマー持ってるみたいな|
+|66|&image(Moonbeam Custom_山本.jpg,x=200)Moonbeam Custom（ムーンビーム・カスタム）|バン|[[山本　龍也]]|「組のカラー（黄色）を使ってギャンっぽい感じで全お任せ」|
+|67|&image(Cyclone_成瀬.jpg,x=200)Cyclone（サイクロン）|スーパーカー|[[成瀬　力二]]|「スポイラーなしのギャルカスタム」|
+|68|&image(Turismo R_ノア.jpg,x=200)Turismo R（ツーリスモR）|スーパーカー|[[ノア　チェンバー]]|「エモいピンク色（くすみピンク）でスポーティー」|
+|69|&image(ゼントーノ_半沢.jpg,x=200)Zentorno（ゼントーノ）|スーパーカー|[[半沢　直ふぃ]]|「白基調でスポーティーな感じ」|
+|70|&image(Torero XO_MOND.jpg,x=200)Torero XO（トレロXO）|スーパーカー|[[Mon　D]]|「暗めでSUZUKIさんに全部お任せ」|
+|71|&image(Torero XO_那須.jpg,x=200)Torero XO（トレロXO）|スーパーカー|[[那須　裕貴]]|「来ているスーツ（餡ブレラ）の色」|
+|72|&image(Windsor Drop_ヘルアン.jpg,x=200)Windsor Drop（ウィンザードロップ）|クーペ|[[ヘルアン]]|「紫を入れて」|
+|73|&image(Zentorno_千代田.jpg,x=200)Zentorno（ゼントーノ）|スーパーカー|[[千代田　ヨウ]]|※衛星外「金ぴかランボ」|
+|74|&image(Remusu_上田　さん.jpg,x=200)Remus（レミュス）|スポーツカー|[[上田　さん]]|「ドリ車でクール系」|
+|75|&image(Zentorno_ノアチェンバー.jpg,x=200)Zentorno（ゼントーノ）|スーパーカー|[[ノア　チェンバー]]|「闇医者っぽい感じで」|
+|76|Hakuchou Drag（ハクチョウ・ドラッグ）|バイク|[[ノア　チェンバー]]||
+|77|&image(Power Surge_ノア.jpg,x=200)Power Surge（パワーサージ）|バイク|[[ノア　チェンバー]]|「可愛い感じで」|
+|78|&image(Neon_ヘルアン.png,x=200)Neon（ネオン）|スーパーカー|[[ヘルアン]]|「[[R　B]]へのプレゼント。暗めのグレーに青っぽさ」|
+|79|&image(Tailgater S_箱根　しおん.jpg,x=200)Tailgater S（テイルゲーターS）|スポーツカー|[[箱根　しおん]]|「ホワイトサイクロンという名前を付けたので白で」|
+|80|&image(SuperVolito_成瀬　力二.jpg,x=200)SuperVolito（スーパーヴォリト）|ヘリ|[[成瀬　力二]]|「ギャングじゃないとわかるようなカラーリング」|
+|81|&image(Vigero ZX_成瀬　力二.jpg,x=200)Police Vigero ZX（ヴィゲーロZX-警察車両）|マッスルカー|[[成瀬　力二]]|「暗めで」|
+|82|&image(guardianrv_半沢　直ふぃ.jpg,x=200)guardianrv（ガーディアン）|キャンピングカー|[[半沢　直ふぃ]]|「完全お任せで」|
+|83|&image(Ignus_成瀬　力二.jpg,x=200)Ignus（イグナス）|スーパーカー|[[成瀬　力二]]|「黒を基調とした寒色系のカラーリング」|
+|84|&image(Ignus_青井　らだお.png,x=200)Ignus（イグナス）|スーパーカー|[[青井　らだお]]|「成瀬と作ったらだおカラー」|
+|85|&image(Sea Sparrow_ノアチェンバー.png,x=200)Sea Sparrow（シー スパロー）|ヘリ|[[ノア　チェンバー]]|「エモピンクで可愛く」|
+|86|&image(Guntlet Classic_月ノ島　ごう.jpg,x=200)Gauntlet Classic Custom&br()（ガントレットレトロカスタム）|マッスルカー|[[月ノ島　ごう]]|「ドリフト仕様でオレンジ差し色」|
+|87|&image(Virgo Classic Custom_成瀬　力二.jpg,x=200)Virgo Classic Custom&br()（ヴァーゴクラシック・カスタム）|クラシックスポーツ|[[成瀬　力二]]|[[A2 Lab]]の[[大　川]]さんにおすすめされて。|
+|88|&image(Alpha-Z1_成瀬　力二.jpg,x=200)Alpha-Z1（アルファ-Z1）|航空機|[[成瀬　力二]]|「完全おまかせ」|
+|89|&image(CoquetteBlackFin_ノビーラング.jpg,x=200)CoquetteBlackFin（コケットブラックフィン）|マッスルカー|[[赤城　煉]]|[[ノビー　ラング]]へのプレゼント&br()「明るい感じの青緑」|
+|90|&image(Draugar_青井らだお.jpg,x=200)Draugur（ドラウグル）|オフロード|[[青井　らだお]]|「青か紺であとはお任せ」|
+|91|&image(Kamacho_青井らだお.jpg,x=200)Kamacho（カマチョ）|オフロード|[[青井　らだお]]|「グレーにしようかな」|
+|92|Ultralight|航空機|[[ボイラ　テンガリン]]|[[ノア　チェンバー]]へのプレゼント用&br()「ゆめカワピンクをセカンダリー、プライマリーはカメレオン系」&br()→ギャラリーに不評だったので両方ピンク系に|
+|93|&image(Ignus_猫マンゴー.jpg,x=200)Ignus（イグナス）|スーパーカー|[[猫　マンゴー]]|「ピンクな感じでオススメ」|
+|94|&image(Draugur_ボイラ.jpg,x=200)Draugur（ドラウグル）|オフロード|[[ボイラ　テンガリン]]|フォレッジグリーン、ミリタリー風に塗装|
+|95|&image(Infernus Classic_成瀬力二.jpg,x=200)Infernus Classic（インフェルナス レトロ）|スーパーカー|[[成瀬　力二]]|&bold(){「BIG、いじってみたいですか？」}|
+|96|&image(Vindicator_狐野　承志.jpg,x=200)Vindicator（ヴィンディケーター）|バイク|[[狐野　承志]]|「黒か赤で」|
+|97|&image(Youga Classic 4x4_青井らだお.jpg,x=200)Youga Classic 4x4（ヨウガ・クラシック4x4）|バン|[[青井　らだお]]|「楽しい系」|
+|98|&image(Alpha Z-1_青井らだお2.jpg,x=200)Alpha Z-1（アルファZ-1）|航空機|[[青井　らだお]]||
+|99|&image(Power Surge_青井らだお.jpg,x=200)Power Surge（パワーサージ）|バイク|[[青井　らだお]]||
+|100|&image(Tailgater S_椎名苺.jpg,x=200)Tailgater S（テイルゲーターS）|セダン|[[椎名　苺]]|「ちょっとトゲトゲしてるんで可愛く」|
+|101|&image(Hellion_聖母れりあ.png,x=200)Hellion（ヘリオン）|オフロード|[[難波　ハル]]|「オレンジ系で」|
+|102|&image(Omnis_天王寺京司郎.jpg,x=200)Omnis（オムニス）|スポーツカー|[[天王寺　京司郎]]|「レーシーな感じで」|
+|103|&image(Calico GTF_家好にーと.jpg,x=200)Calico GTF（キャリコGTF）|スポーツカー|[[家好　にーと]]|「スポーツタイプで私っぽく」|
+|104|&image(Monroe_マヌ太郎.jpg,x=200)Monroe（モンロー）|クラシックスポーツ|[[ゴンザレス　マヌ太郎]]|「BIGの好きなように」|
+|105|&image(Itali GTO_赤城煉.jpg,x=200)Itali GTO（イタリGTO）|スポーツカー|[[赤城　煉]]|「BIGオリジナルで」|
+|106|&image(Torero XO_青井らだお.jpg,x=200)Torero XO（トレロXO）|スーパーカー|[[青井　らだお]]|「グレーベースで青みがかった感じ」|
+|107|&image(Zentorno_成瀬力二.jpg,x=200)Zentorno（ゼントーノ）|スーパーカー|[[成瀬　力二]]|「ノリでいい色に」|
+|108|&image(Buzzard_青井らだお.jpg,x=200)Buzzard（バザード）|ヘリ|[[青井　らだお]]|「以前使ったらだおネイビー」|
+|109|&image(DUbsta6x6_デヤンス.jpg,x=200)Dubsta 6x6（ダブスタ6x6）|オフロード|[[デヤンス>>小者　デヤンス]]|「ケンタロス（変装？）に合うようなゴツイ感じで」|
+|110|&image(Sentinel Classic Widebody_小峯れい2.jpg,x=200)Sentinel Classic Widebody&br()（センチネルクラシックワイドボディ）|スポーツカー|[[小峯　れい]]|「くるみさんのイメージに合わせてカスタム」|
+|111|&image(Ignus_神子田ヨウ.jpg,x=200)Ignus（イグナス）|スーパーカー|[[神子田　頼]]|「メインカラーを赤。それ以外お任せ」|
+|112|&image(Frogger_ヘルアン.jpg,x=200)Frogger（フロガー）|ヘリコプター|[[ヘルアン]]|「[[R　B]]の誕生日（12/31）プレゼント用にイメージカラーでカスタム」|
+|113|&image(Cinquemila_プスカ大佐.jpg,x=200)Cinquemila（チンクエミーラ）|セダン|[[プスカ　大佐>>ネズ]]|「ケバケバしていない、高級車路線で」|
+|114|&image(BriossoRA_オルカ.jpg,x=200)BriossoR/A（ブリオッソR/A）|コンパクト|[[オルカ　トヴォロ]]|「スドバイメージにしてほしい」|
+|115|&image(Paragon R_川上.png,x=200)Paragon R（パラゴン）|スポーツカー|[[川　上]]|「目立つ暖色系かつ所有していない色」|
+|116|Coquette D10（コケットD10）|スポーツカー|[[伊達咲　政宗]]|「ルーフは取り外さず、BIGカスタムお任せで」|
+|117|&image(LM87_成瀬力二.png,x=200)LM87|スーパーカー|[[成瀬　力二]]|「いじってみたい車ないの？じゃあ、それで」|
+|118|&image(Thrax_聖母れりあ.png,x=200)Thrax（トラクス）|スーパーカー|[[聖母　れりあ]]|「水色を差し色にしつつ、紫も残すイイ感じ」|
+|119|&image(Italy RSX_成瀬力二.png,x=200)Italy RSX（イタリRSX）|スーパーカー|[[成瀬　力二]]|「[[にかり>>超越ヶ谷　にかり]]さんにプレゼントする用」|
+|120|&image(Buzzard_聖母れりあ.png,x=200)Buzzard（バザード）|ヘリコプター|[[聖母　れりあ]]|「[[那須　裕貴]]の誕生日プレゼント。&br()那須の髪色とイグナスのカラーを出したい」|
+|121|&image(Tezeract_タラちゃん2.png,x=200)Tezeract（テザラクト）|スーパーカー|[[タラ　ちゃん]]|「黒主体で、タイヤは純正の内側白」|
+|122|&image(Custum_saburou.png,x=200)SunriseR（サンライズR）|スポーツカー|[[ひの　らん]]|仕様書再現。デザインはBIGのアドバイスをもらいつつ、[[安保　さぶ郎]]が[[ひの　らん]]、[[ミン　ドリー]]と相談しながら決めた。[[二十日　ネル]]へのプレゼント|
+|123|&image(Thrax_ヘルアン2.png,x=200)Thrax（トラクス）|スーパーカー|[[ヘルアン]]|「結構好きにいじってください」&br()2024/3/2「紫系にお色直し」|
+|124|&image(Torero XO_ヘルアン.png,x=200)ToreroXO（トレロXO）|スーパーカー|[[ヘルアン]]|「別のリバリーで紫系統」|
+|125|&image(Frogger_ヘルアン2.jpg.png,x=200)Frogger（フロガー）|ヘリコプター|[[ヘルアン]]|「和系統の深緑でお願いします」|
+|126|Furia（フーリア）|スーパーカー|[[聖母　れりあ]]|「トラクスのイメージとは違う私（れりあの立ち絵）」|
+|127|&image(Thrax_れりあ_20240627.png,x=200)Thrax(トラクス)|スーパーカー|[[聖母　れりあ]]|6/27依頼　推し&openclose2(show=*){&small(){R　B}}を意識したのカスタム依頼を受ける。ホイールは白で。」|
+|128|&image(Comet S2 Cabrio_れりあ_20240627.png,x=200)Comet S2 Cabrio(コメットS2カブリオ)|スーパーカー|[[聖母　れりあ]]|6/27依頼　れりあの白い服&openclose2(show=*){&small(){立ち絵}}に合わせたカスタム依頼|
+|129|&image(Weevil Custom_ニャンコスキーからmon Dへ_20240702.png,x=200)Weevil Custom(ウィーヴィル・カスタム)|マッスルカー|[[ニャンコ・スキー]]|07/02依頼　[[Mon　D]]への誕プレ|
+|129|&image(Eurosdrift_ケインからレダーへ_20240702.png,x=200)Eurosdrift(ユーロスドリフト)ドリフト仕様|スポーツカー|[[ケイン／オー]]|07/02依頼　[[レダー　ヨージロー]]への誕プレ|
+|130|&image(Jester_君島　こはる_20240709.png,x=200)Jester(ジェスター)|スポーツカー|[[君島　こはる]]|07/07依頼　「渋い感じ好きっすね、40代で金貯めたおっちゃんが買うような車」|
+|131|&image(Thrax_オザワハヤマサ_20240724.png,x=200)Thrax(トラクス)|スーパーカー|[[オザワ　ハヤマサ]]|07/24依頼　メカニックシート持ち込み、カラーのみ|
+|132|&image(NeroCustom_れりあ_20241001.png,x=200)Nero Custom(ネロカスタム)|スーパーカー|[[聖母　れりあ]]|10/01依頼　良い感じにかっこよく&openclose2(show=*){&small(){新衣装を元}}&openclose2(show=*){&small(){&image(スクリーンショット 2024-12-01 115109.png,x=200)}}|
+
+
+//126から更新されていなかった分のカスタムは一旦飛ばして追加していってます。ご了承ください。もし分かる方がいらっしゃいましたら更新よろしくお願いします。
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(彼の手掛けたカスタム)
+
+***&font(b,#fff,#777,110%)［取得免許&color(#777){］}
+原付、普通、大型、特殊、自動二輪、大型二輪、ヘリ　取得済
+2024/1/13　レース免許取得
+2024/10/22　航空機免許取得
+
+#right(){&link_aname(目次1){△目次へ}}
+//
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&size(20){&color(#eaf4fc)人間関係&icon_fa(fa fa-user-plus)}
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+***メカニック・車関係&icon_fa(fa fa-wrench)
+#region(close,開く)閉じる
+#table_filter(){キャラクター名=show,詳細=show,実は...=hide}
+#table_color(#8b0000)
+|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){キャラクター名}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){詳細}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){実は...}|h
+|[[ヘラシギ]]|BIG SUZUKIがこの街にきて初めて会い、全ての始まりの人　愛称はシギ兄||
+|[[深沢　えぼし]]|初日から腕を買われて普通車ディーラーとメカニックとして雇い入れてくれたとても恩義がある人。&br()勤めていたJTSを辞める際、とても申し訳なさを感じていた。||
+|[[ジャーク　武士]]|車のセンスがとても似ていて、趣味の合う最高のbro||
+|[[にし　のん]]|いつも通うコンビニの店員さん兼メカニック||
+|[[小豆　最中]]|&font(#008b8b){BIGの弟子１号}。車が好きなギャルでいつもBIGとは偶然会いたがる。||
+|[[須藤　冬馬]]|車好きの峠仲間。SUZUKIがこの街にきて初めてエンジンを載せ替えた人||
+|[[ルウ　ギャラクティカ]]|BIGのカスタム技術に感銘を受けた&font(#008b8b){弟子２号}。カラーリングのアドバイスを行う||
+|[[天近　くるみ]]|開業に伴い一緒に仕事するようになった、歌って踊れて編集も出来る優秀社員（秘書？）||
+|[[御花　はな]]|第二回ドリフト体験会の参加者にして&font(#008b8b){弟子３号（ドリフト）}。ドリフトタンパを購入したドリフト女子。||
+|[[天王寺　京司郎]]|[[JTS>>ジョアンナテクノサービス]]で働いていた時の後輩。BIGドリフト塾の受講生。||
+|[[不二子　キャスパー]]|[[Project Y]]北支店&[[eight]]の店長。タバコのお姉さん。わざわざ北から最南端までカスタムの意見を求めに来るほど評価されている。|深いガンダムの話が出来る相手の一人。同じリアイベに偶然居合わせたことがあるらしい。|
+|[[猪狩　翔太]]|ドリフト仲間。エセ名阪創設者の一人で、峠に行けばいつもいる。&br()BIGと並ぶドリフトの第一人者として有名で、ドリフト島が出来た時には初日から一日中走りこむほどの熱意を持つ。||
+|[[中川　蔵人]]|ドリフト仲間。エセ名阪創設者の一人。||
+|[[プスカ大佐>>ネズ]]|[[BMC>>BMカスタム]]の従業員。街に来た当初にお金を貸している。|不二子同様、深いガンダムトークができる人物の一人。また、BIGの夢の世界の推しである。|
+|[[大　川]]|メカニック[[A2 Lab]]社長でSUVやオフロードの探求に余念がない男。|夢の世界でとてもお世話になっている。|
+|[[川　上]]|車の趣味がよく合う[[A2 Lab]]社員。一部のタバコやSUVに対して非常に近しい過激な思想を持っている。|100年後では&color(#fff,#d4391d){''白いギャング''}として共に活動した。|
+|[[万十　忍]]|ドリフト仲間。サーキットで出会い、後日[[B.A.D>>BIG Automotive Design]]に雇用。うちの会社でないとやっていけない(ほど車好き)と評価している。||
+#table_sorter{head=#99000d,even=#f7f7f7,odd=#fff}
+#endregion()
+//
+//
+***飲食店&icon_fa(fa fa-cutlery)
+#region(close,開く)閉じる
+#table_filter(){キャラクター名=show,詳細=show,実は...=hide}
+#table_color(#8b0000)
+|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){キャラクター名}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){詳細}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){実は...}|h
+|[[切間　てつお]]|街中でSUZUKIカスタムを見て、彼の腕に惚れ込んだ一人。所有車両のクセがすごい||
+|[[今井　教次]]|開店と同時に南から北まで駆けつける程、雰囲気が気に入ってる[[ダイナー>>今井のダイナー]]の店主|今井さんの噂を聞き当初ビビりながら初来店をした|
+|[[シュガー　ピーチ]]|ギャルの伝手でカスタム依頼をしてきた。各所で宣伝するほどカスタムをいたく気に入り、[[彼女の店>>菖光亭]]の社用車も依頼された。||
+|[[マカイーノ　アッコパス]]|時々渋いカスタムを見せに来る同好の士。カスタムの多い車の探求が趣味であるなど、思想にBIGと近いところがある。&br()⇒[[天近　くるみ]]の紹介で[[B.A.D>>BIG Automotive Design]]に雇用。||
+|[[デヤンス>>小者　デヤンス]]|レギオン前のホットドッグ屋台、北のダイナー従業員。BIGが飲食でお世話になっているうちの一人。||
+#table_sorter{head=#99000d,even=#f7f7f7,odd=#fff}
+#endregion()
+//
+//
+***ギャング&icon_fa(fa fa-user-secret)
+#region(close,開く)閉じる
+#table_filter(){キャラクター名=show,詳細=show,実は...=hide}
+#table_color(#8b0000)
+|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){キャラクター名}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){詳細}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){実は...}|h
+|[[白井　満太]]|適当に対応しても問題ない数少ない住民の一人|100年前の腐れ縁。100年後では&color(#fff,#d4391d){''白いギャング''}として共に活動した。|
+|[[山本　龍也]]|車のカスタムはBIG SUZUKI一択とまで言ってくれる峠仲間|町を去った後、彼から譲り受けたスラムバンの扉に小さく[[LWGP]]のステッカーを張り付けている|
+|[[有坂　誉]]|車にとんでもない金額をかけているギャングの一人　車好きに悪い奴はいない||
+|[[アドミゲス・ハン]]|峠仲間。BIGが当初から欲しがっていた車「Flash GT」を売ってくれた人物||
+|[[四皇　シャンクズ]]|時々変な車のカスタム依頼に来る客。彼のビッグヒデのモノマネがBIGのツボ|100年前の街で交流があった。100年後では&color(#fff,#d4391d){''白いギャング''}として共に活動した。|
+|[[キャプテン　わきを]]|定期的にバイクの購入や修理等で連絡をくれる客。「NANA」が好き。|夢の世界で麻雀を打ったことがある。|
+|[[ぴのらん>>ニャンコ・スキー]]|街で出会った車好き。ドリフトが上手い。ドリフト用に車2台を貸している。|実は[[ニャンコ・スキー]]の変装姿。|
+|[[小峯　れい>>小峯　玲]]|[[B.A.D>>BIG Automotive Design]]と[[天近　くるみ]]にお金を落とす、推し活おじさん。BIGのことを「社長」と呼ぶ。|裏の顔はお金稼ぎマシーンらしい。|
+#table_sorter{head=#99000d,even=#f7f7f7,odd=#fff}
+#endregion()
+//
+//
+***素材屋&icon_fa(fa fa-shopping-cart)
+#region(close,開く)閉じる
+#table_filter(){キャラクター名=show,詳細=show,実は...=hide}
+#table_color(#8b0000)
+|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){キャラクター名}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){詳細}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){実は...}|h
+|[[月ノ島　ごう]]|パーツ等を作成するための素材を提供してくれる人。この街の物流革命の音が聞こえる...||
+|[[チョビ髭　原人]]|ジャーニーを販売し知り合う。素材屋としてのごうさんの弟子らしい。||
+#table_sorter{head=#99000d,even=#f7f7f7,odd=#fff}
+#endregion()
+//
+//ここで作者は力尽きたようだ...後は任せた
+//
+***警察&icon_fa(fa fa-shield)
+#region(close,開く)閉じる
+#table_filter(){キャラクター名=show,詳細=show,実は...=hide}
+#table_color(#8b0000)
+|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){キャラクター名}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){詳細}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){実は...}|h
+|[[ミン　ドリー]]|土建のバイトで知り合った先輩。生コン業者時代は彼の緑カマロがトラウマだった。|夢の世界で一緒に仕事をしたことがあるらしい。|
+|[[つぼ浦　匠]]|この街で1、2を争うヤバさの特殊刑事課。[[JTS>>ジョアンナテクノサービス]]時代にマニャーナをカスタムした。|100年前、100年後ともに関係があり、スライディングが上手い。|
+|[[青井　らだお]]|不思議な縁のある仲の良い警官。峠で車を沈めた時に世話になった。&br()BIGの腕をかなり高く買っており、多くの車両のカスタムを担当している。|100年前の街で交流があった。&br()2024年1月の時点でカスタム依頼回数が最も多い顧客である（8台）。|
+|[[ミナミ　とと]]|金髪リーゼントがトレードマークの警官。パトカーとは思えない車のカスタムをした。|100年前の街で交流があった|
+|[[成瀬　力二]]|ペンギンの顔をした警官。定期的にBIGにカスタムを依頼しに来てくれる太客。|100年前の街で交流があった。|
+|[[職無　ニトロ]]|彼が初心者の時に[[ヘラシギ]]から紹介された。メカニック体験の際に基礎とBIGカラーリング講習を行った。||
+|[[ゴンザレス　マヌ太郎]]|猫の被り物をした特殊刑事課。夢の世界でも車が好きなようで、BIGと馬が合う。||
+#table_sorter{head=#99000d,even=#f7f7f7,odd=#fff}
+#endregion()
+//
+//
+***救急&icon_fa(fa fa-medkit)
+#region(close,開く)閉じる
+#table_filter(){キャラクター名=show,詳細=show,実は...=hide}
+#table_color(#8b0000)
+|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){キャラクター名}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){詳細}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){実は...}|h
+|[[ヘスティア　ゴデス]]|複数の車のカスタムを依頼された。定期的にBIGに学びを与えてくれる顧客。||
+|[[ノビー　ラング]]|峠で海に溺れた際に治療を受けた。[[二度と海に落ちない事を決心させてくれた人>>https://www.twitch.tv/videos/1903760790?t=02h46m11s]]||
+#table_sorter{head=#99000d,even=#f7f7f7,odd=#fff}
+#endregion()
+//
+//
+***その他市民&icon_fa(fa fa-users)
+#region(close,開く)閉じる
+#table_filter(){キャラクター名=show,詳細=show,実は...=hide}
+#table_color(#8b0000)
+|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){キャラクター名}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){詳細}|BGCOLOR(#99000d):&color(#f9fcff)&color(#f9fcff){実は...}|h
+|[[街雄　サンリ]]|BIGの腕を認める車好き。100年前関係以外で初めてのカスタムの顧客であり、彼とBIG自身の車がマッスルカーブームの発端だと思われる&br()BIGカスタムカーのおかげで彼女ができたらしい||
+|[[オノマトぺ　ヤバ美]]|同時期に転入してきた住人。かなりの天然だが非常に真面目で律儀である。名前ほどヤバくはない||
+|[[鬼野　ねね]]|[[ギャル>>小豆　最中]]の伝手でカスタム依頼をしてきた。|お互いよく似た知り合いが日本にいるようで、&br()ねね「知り合いはBOT撃ちを5、6時間やれっていうんだよ。まあいいやつだったよ」&br()BIG「知り合いは口が汚いし、コミュ障でろくでもない奴」と、良好な関係。|
+|[[エド・エトワール]]|マニャーナのカスタムを依頼してきたホスト。&br()ハイドロサスの使い方を教えたことで、自らBIGを師匠と呼び始めた&font(#008b8b){弟子4号}||
+|[[ノア　チェンバー]]|[[ごうさん>>月ノ島　ごう]]の紹介でカスタムを依頼してきた闇医者。&br()いたく気に入ってくれたようで、ヘリからバイクまでかなりの台数のカスタムを引き受けた太客。|ごうさんのお↑んならしい。|
+|[[牧田　ここな]]|人質ビジネス（？）で荒稼ぎしていると噂の無職。&br()最近、カレー屋「[[koko七番屋]]」を開業したらしい。||
+#table_sorter{head=#99000d,even=#f7f7f7,odd=#fff}
+#endregion()
+//
+
+
+#right(){&link_aname(目次1){△目次へ}}
+//
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&size(20){&color(#eaf4fc)エピソード&icon_fa(fa fa-calendar)}
+//2月から環境が変わったため、書き込みの頻度が下がりました。BIGのエピソードを綴ってくれ！みんな頼む！
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+#include(BIG SUZUKI / EPISODE 2023)
+#include(BIG　SUZUKI/EPISODE2024)
+#include(BIG　SUZUKI/EPISODE2025)
+//サイズ制限対応のため、エピソードは別ページに記載しております
+//---------------------------------------------------------------------------------------------
+*&size(20){&color(#eaf4fc)アーカイブ&icon_fa(fa fa-twitch)}
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+***&big(){2023年}
+#region(開く,close)閉じる
+***8月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/08/12|1|[[ストグラピークしてみる>>https://www.twitch.tv/videos/1896643947?t=4h19m19s]]||
+|2023/08/13|2|[[ストグラ スタンスネーション鈴木>>https://www.twitch.tv/videos/1897552443]]||
+|2023/08/14|3|[[ストグラ 健康重視>>https://www.twitch.tv/videos/1898447339]]||
+|2023/08/15|4|[[ストグラ ドライブしつつ>>https://www.twitch.tv/videos/1899297853]]||
+|2023/08/16|5|[[ストグラ スズキとはたらくブーブーズ>>https://www.twitch.tv/videos/1900129018]]||
+|2023/08/17|6|[[俺はサントス生まれ7231育ち>>https://www.twitch.tv/videos/1901061307]]||
+|2023/08/18|7|[[ストグラ 明日はPMJL>>https://www.twitch.tv/videos/1902011525]]||
+|2023/08/19|8|[[ストグラ KEN SUZUKI>>https://www.twitch.tv/videos/1902865938]]||
+|2023/08/20|9|[[ストグラ TAKUMI SUZUKI>>https://www.twitch.tv/videos/1903760790]]||
+|2023/08/21|10|[[ストグラ おだやかに>>https://www.twitch.tv/videos/1904680417]]|[[最高の瞬間>>https://www.twitch.tv/suzukinoriaki/clip/ApatheticBoldBorkRaccAttack-fespjKinvlT1GQxL?filter=clips&range=7d&sort=time]](クリップ削除）|
+|2023/08/22|11|[[valo~17時からストグラ>>https://www.twitch.tv/videos/1905392879]]||
+|2023/08/23|12|[[パッドきた ストグラる>>https://www.twitch.tv/videos/1906389087]]||
+|2023/08/24|13|[[ジムカーナ鈴木 ストグラ>>https://www.twitch.tv/videos/1907280403]]||
+|2023/08/25|14|[[課題ってなんだ？>>https://www.twitch.tv/videos/1908009719]]|[[最高のBIGルーティン>>https://twitter.com/NORIAKIISGOOD/status/1694971913536471395?s=20]]|
+|2023/08/26|15|[[イベント乙です クルマ>>https://www.twitch.tv/videos/1908954240]]||
+|2023/08/27|16|[[ドリからのグラ>>https://www.twitch.tv/videos/1909882299]]||
+|2023/08/28|17|[[マークラストラン 働いたり走ったり>>https://www.twitch.tv/videos/1910885204]]|[[BIG塾開校>>https://clips.twitch.tv/FantasticColdbloodedBottleBudStar-arsEdAj6I37y4jcs]]|
+|2023/08/29|18|[[ノリとブーブーズ やってくれるかい>>https://www.twitch.tv/videos/1911697767]]|[[この日一番のドリフト>>https://clips.twitch.tv/DullHyperWolfChefFrank-eTB8ajclzND1kBLQ]]|
+|2023/08/30|19|[[昨日から寝てなくてもグラセフりたい>>https://www.twitch.tv/videos/1912583296]]||
+|2023/08/31|20|[[仕事溜まってます>>https://www.twitch.tv/videos/1913278013]]|[[BIG流カラーリングレクチャー>>https://clips.twitch.tv/RichRelatedBobaRedCoat-mAquSbNDymQxjWDj]]|
+#endregion
+//---------------------------------------------------------------------------------------------
+***9月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/09/01|21|[[ロルカス→メカニック起業編>>https://www.twitch.tv/videos/1914122104]]|[[ストグラ 5:15:23から>>https://www.twitch.tv/videos/1914122104?t=05h15m23s]]|
+|2023/09/02|22|[[今日もやる メカニック起業編>>https://www.twitch.tv/videos/1915149222]]||
+|2023/09/03|23|[[BIGSUZUKI 今日こそ開業してみせる>>https://www.twitch.tv/videos/1916029856]]|[[B.A.D開業>>https://www.twitch.tv/videos/1916029856?t=03h25m39s]]|
+|2023/09/04|24|[[やってみるさ 社長編>>https://www.twitch.tv/videos/1916773723]]||
+|2023/09/05|25|[[帰宅 激ローだから短め>>https://www.twitch.tv/videos/1917687310]]||
+|2023/09/06|26|[[ストグラまでジオゲる>>https://www.twitch.tv/videos/1918405941]]|[[ストグラ 2:23:09から>>https://www.twitch.tv/videos/1918405941?t=02h23m09s]]|
+|2023/09/07|27|[[帰宅 クルマ>>https://www.twitch.tv/videos/1919439127]]||
+|2023/09/08|28|[[①だらだらやる>>https://www.twitch.tv/videos/1920116767]]／[[②キラーマシン鈴木>>https://www.twitch.tv/videos/1920369070]]||
+|2023/09/09|29|[[ストグラる、か 景観Mod試す>>https://www.twitch.tv/videos/1921009565]]||
+|2023/09/10|30|[[相撲帰り ストグラる>>https://www.twitch.tv/videos/1922021030]]||
+|2023/09/11|31|[[トークイベントあざした 今日もやっていく①>>https://www.twitch.tv/videos/1922808511]]／[[②>>https://www.twitch.tv/videos/1922875539]]||
+|2023/09/12|32|[[BIGSUZUKIる グランツーリスモ観てきた俺は強い>>https://www.twitch.tv/videos/1923673487]]||
+|2023/09/13|33|[[RAGEチーム練いくぞ リハビリ編>>https://www.twitch.tv/videos/1924366192]]|[[ストグラ 5:32:40から>>https://www.twitch.tv/videos/1924366192?t=05h32m40s]]|
+|2023/09/14|34|[[社長業→21時くらいからバロ>>https://m.twitch.tv/videos/1925098235]]|ストグラ 3:43:00頃まで|
+|2023/09/15|35|[[リアル納車→バロ→ストグラ>>https://www.twitch.tv/videos/1925927373]]|[[ストグラ 3:50:15から>>https://www.twitch.tv/videos/1925927373?t=03h50m15s]]|
+|2023/09/16|36|[[RAGEあざした 少し散歩して寝る>>https://www.twitch.tv/videos/1926989590]]||
+|2023/09/17|37|[[BIGSUZUKI ゆっくり営業しつつ自分の車いじりつつ>>https://www.twitch.tv/videos/1927821626]]||
+|2023/09/18|38|[[ストグラ なんかする>>https://www.twitch.tv/videos/1928765120]]||
+|2023/09/19|39|[[ストグラる クルマ屋>>https://www.twitch.tv/videos/1929599687]]||
+|2023/09/20|40|[[BIGSUZUKI ゴミ箱に何かあったんですか？>>https://www.twitch.tv/videos/1930392396]]||
+|2023/09/21|41|[[BIGSUZUKI 明日TGSっす やるっす>>https://www.twitch.tv/videos/1931199180]]||
+|2023/09/23|42|[[帰宅 すこしストグラる>>https://www.twitch.tv/videos/1933008278]]||
+|2023/09/25|43|[[スペーサー研究会→業務→メカ会議→余裕あればタカ>>https://www.twitch.tv/videos/1934679842]]|ストグラ 6:26:06まで|
+|2023/09/26|44|[[鷹山警察体験３日目→BIGでメカニックアプデ確認>>https://www.twitch.tv/videos/1935499145]]|[[ストグラ 3:32:50から>>https://www.twitch.tv/videos/1935499145?t=03h32m50s]]|
+|2023/09/27|45|[[鯖が開くまで訓練→ストグラ>>https://www.twitch.tv/videos/1936313653]]|[[ストグラ 0:42:06から>>https://www.twitch.tv/videos/1936313653?t=00h42m06s]]|
+|2023/09/28|46|[[早番タカすこし→BIG SUZUKI長め>>https://www.twitch.tv/videos/1937168583]]|[[ストグラ 3:50:25から>>https://www.twitch.tv/videos/1937168583?t=03h50m25s]]|
+|2023/09/29|47|[[タカすこし→BIG SUZUKI>>https://www.twitch.tv/videos/1938148100]]|[[ストグラ 3:46:30から>>https://www.twitch.tv/videos/1938148100?t=03h46m30s]]|
+#endregion
+//---------------------------------------------------------------------------------------------
+***10月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/10/01|48|[[BIG DAY 関謝祭おつです>>https://www.twitch.tv/videos/1939887849]]||
+|2023/10/03|49|[[おはようございます これ何するゲームですか VCR ARK>>https://www.twitch.tv/videos/1939887849]]|[[ストグラ 10:46:44から>>https://www.twitch.tv/videos/1941072243?t=10h56m44s]]|
+|2023/10/04|50|[[ARK→ストグラ>>https://www.twitch.tv/videos/1942249748]]|[[ストグラ 05:23:39から>>https://www.twitch.tv/videos/1942249748?t=05h23m39s]]|
+|2023/10/08|51|[[ストグラ 依頼消化次第寝る>>https://www.twitch.tv/videos/1945852130]]||
+|2023/10/09|52|[[ストグラ展示カー製作初日最終日>>https://www.twitch.tv/videos/1946525862]]||
+|2023/10/26|53|[[帰宅→BIG>>https://www.twitch.tv/videos/1960660023]]|16日ぶりの起床|
+|2023/10/27|54|[[雑談したいのでとりあえずBIG>>https://www.twitch.tv/videos/1961470407]]||
+|2023/10/28|55|[[今日も運転修行してきた 早めに終わるのでBIG>>https://www.twitch.tv/videos/1962419398]]||
+#endregion
+//---------------------------------------------------------------------------------------------
+***11月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/11/02|56|[[BIG少し 病み上がり>>https://www.twitch.tv/videos/1966490259]]||
+|2023/11/04|57|[[深夜BIG>>https://www.twitch.tv/videos/1967574606]]||
+|2023/11/04|58|[[スモールライト消し忘れバッテリー上がりメカニック 短め>>https://www.twitch.tv/videos/1968373084]]/[[あ、BIG>>https://www.twitch.tv/videos/1968555249]]||
+|2023/11/05|59|[[早タカ→BIG>>https://www.twitch.tv/videos/1969261273?t=02h13m10s]]|BIGは2:13:10から|
+|2023/11/06|60|[[俺はFPSの人間だ #RiotGamesONE #PR>>https://www.twitch.tv/videos/1970103750?t=4h33m30s]]|ストグラは4:33:30から&br()&bold(){祝BIGカスタム100台突破}|
+|2023/11/07|61|[[載せ替え実装されたらしい BIG>>https://www.twitch.tv/videos/1971001858]]||
+|2023/11/11|62|[[おは 仕事行くまで kanjo→カジノカー→GT7>>https://www.twitch.tv/videos/1973779814]]||
+|2023/11/15|63|[[カジノカー作る ストグラ>>https://www.twitch.tv/videos/1977940194?t=00h41m30s]]|ストグラは0:40:43から|
+|2023/11/20|64|[[久々BIGる バロおやすみ>>https://www.twitch.tv/videos/1982511494]]||
+|2023/11/27|65|[[少しBIGる>>https://www.twitch.tv/videos/1988639120]]||
+|2023/11/28|66|[[フルパミッションる #RiotGamesONE #PR>>https://www.twitch.tv/videos/1989469689]]||
+#endregion
+//---------------------------------------------------------------------------------------------
+***12月
+#region(開く,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/12/01|67|[[皆さんまだいけますか？BIG①>>https://www.twitch.tv/videos/1991944057]]/[[皆さんまだいけますか？BIG②>>https://www.twitch.tv/videos/1991948093]]||
+|2023/12/03|68|[[GT7世界大会ウォチパまでストグラ>>https://www.twitch.tv/videos/1993097391]]||
+|2023/12/07|69|[[やろややろや>>https://www.twitch.tv/videos/1997511992]]|[[BIGは2:44:10から>>https://www.twitch.tv/videos/1997511992?t=2h44m10s]]|
+|2023/12/08|70|[[VCR前に仕事しよう>>https://www.twitch.tv/videos/1998461439]]||
+|2023/12/09|71|[[VCR出張前日>>https://www.twitch.tv/videos/1999483875]]||
+|2023/12/24|72|[[少し街の様子見る>>https://www.twitch.tv/videos/2012640455]]||
+|2023/12/27|73|[[BIG→EA WRC触る>>https://www.twitch.tv/videos/2014310579]]||
+|2023/12/28|74|[[少々BIG>>https://www.twitch.tv/videos/2016090107]]||
+|2023/12/29|75|[[ストグラ納め>>https://www.twitch.tv/videos/2016842772]]||
+#endregion
+#endregion()
+//-------------------------------------------------------------------------------------------
+***&big(){2024年}
+#region(開く,open)閉じる
+//
+***1月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/03|76|[[ストグラ初め>>https://www.twitch.tv/videos/2021445218]]||
+|01/04|77|[[BIG やろう>>https://www.twitch.tv/videos/2022434185]]||
+|01/05|78|[[GT7→BIG>>https://www.twitch.tv/videos/2023322679]]|[[ストグラは1：52：39から>>https://www.twitch.tv/videos/2023322679?t=01h52m59s]]|
+|01/06|79|[[スト、グラ>>https://www.twitch.tv/videos/2024415172]]|[[BIGは3：27：09から>>https://www.twitch.tv/videos/2024415172?t=03h27m09s]]|
+|01/07|80|[[ビ>>https://www.twitch.tv/videos/2025521191]]||
+|01/09|81|[[ロスサントス マウンテンバイク攻略チャンネル>>https://www.twitch.tv/videos/2027328916]]|初の公式ストリートレース参戦！|
+|01/10|82|[[早めに寝るタカ>>https://www.twitch.tv/videos/2028358797]]|[[BIGは3：10：33から>>https://www.twitch.tv/videos/2028358797?t=03h10m33s]]|
+|01/11|83|[[鷹→オートサロンに向けて練習>>https://www.twitch.tv/videos/2029208382]]|[[BIGは3：14：40から>>https://www.twitch.tv/videos/2029208382?t=3h14m40s]]|
+|01/12|84|[[オートサロンJEGT前練習でGT7＆スト→ストグラ>>https://www.twitch.tv/videos/2030263080]]|[[BIGは2：38：35から>>https://www.twitch.tv/videos/2030263080?t=02h38m35s]]|
+|01/13|85|[[気絶してましたBIG>>https://www.twitch.tv/videos/2031439218]]||
+|01/16|86|[[TAKA→BIG>>https://www.twitch.tv/videos/2034099454]]|[[BIGは7：24：30から>>https://www.twitch.tv/videos/2034099454?t=7h24m30s]]|
+|01/17|87|[[ストグラtaka big>>https://www.twitch.tv/videos/2035127767]]|[[BIGは4：29：10から>>https://www.twitch.tv/videos/2035127767?t=4h29m10s]]|
+|01/18|88|[[ドリフト刑事→高級車坊主>>https://www.twitch.tv/videos/2036082575]]|[[BIGは7：45：00から>>[[ドリフト刑事→高級車坊主>>https://www.twitch.tv/videos/2036082575?t=7h45m00s]]|
+|01/19|89|[[労働>>https://www.twitch.tv/videos/2037066237]]|[[BIGは4：40：25から>>https://www.twitch.tv/videos/2037066237?t=4h40m25s]]|
+|01/20|90|[[裸足徘徊ポリス→クルマ売りたすぎおじさん>>]https://www.twitch.tv/videos/2038162294?]]|[[BIGは5：03：30から>>[[裸足徘徊ポリス→クルマ売りたすぎおじさん>>]https://www.twitch.tv/videos/2038162294?t=5h03m30s]]|
+|01/21|91|[[BIG、働く すこし鷹もある>>https://www.twitch.tv/videos/2039207243]]|ほんの一瞬だけ[[鷹山　トシアキ]]の時間があります。|
+|01/23|92|[[スタンスキットきたらしいぞBIG 鷹は未定①>>https://www.twitch.tv/videos/2041096106]]&br()[[スタンスキットきたらしいぞBIG 鷹は未定②>>https://www.twitch.tv/videos/2041096106?t=8h06m10s]]|枠は同一だが、時間が空いたため①②と分割|
+|01/24|93|[[アーティファクト徹底解説チャンネル GB200に乗るBIG ほか>>https://www.twitch.tv/videos/2042088594]]|[[BIGは7：44：50から>>https://www.twitch.tv/videos/2042088594?t=07h44m50s]]|
+|01/25|94|[[BIGから①>>https://www.twitch.tv/videos/2043068738]]&br()[[BIGから②>>https://www.twitch.tv/videos/2043068738?t=6h29m0s]]|枠は同一だが、時間が空いたため①②と分割|
+|01/27|95|[[エイムボット鷹山 車坊主鈴木>>https://www.twitch.tv/videos/2045170671]]|[[BIGは3：38：15から>>https://www.twitch.tv/videos/2045170671?t=03h38m15s]]|
+|01/28|96|[[やろややろや>>https://www.twitch.tv/videos/2046099558]]|[[BIGは6：55：55から>>https://www.twitch.tv/videos/2046099558?t=06h55m55s]]|
+|01/29|97|[[雑RAM>>https://www.twitch.tv/videos/2046941672]]|[[BIGは12：19：45から>>https://www.twitch.tv/videos/2046941672?t=12h19m45s]]|
+|01/30|98|[[少しやろう>>https://www.twitch.tv/videos/2048112323]]|[[BIGは2：32：00から>>https://www.twitch.tv/videos/2048112323?t=02h32m00s]]|
+|01/31|99|[[ｵｯｽ>>https://www.twitch.tv/videos/2048987178]]||
+#endregion
+//
+***2月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/01|100|[[vcc gt7 ikuzo>>https://www.twitch.tv/videos/2049858192]]|&bold(){&color(red){㊗BIG起床100日目‼}}&br()[[BIGは8：31：10から>>https://www.twitch.tv/videos/2049858192?t=08h31m10s]]|
+|02/04|101|[[おひさですｗ>>https://www.twitch.tv/videos/2053132038]]|[[BIGは1：15：57から>>https://www.twitch.tv/videos/2053132038?t=01h15m57s]]|
+|02/15|102|[[くそ久しぶりに車両協会ピークしてシャカパチロルランクかバロ>>https://www.twitch.tv/videos/2063394333]]||
+|02/22|103|[[車いじりチャンネル→なんかやる>>https://www.twitch.tv/videos/2070389365]]||
+|02/23|104|[[BIG ぽいトラクス作る回>>https://www.twitch.tv/videos/2071374412]]||
+|02/24|105|[[おはようございます BIG→なんか>>https://www.twitch.tv/videos/2072475577]]||
+|02/25|106|[[BIG BIG>>https://www.twitch.tv/videos/2073035692]]||
+#endregion
+***3月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/01|107|[[帰宅 なにかやる>>https://www.twitch.tv/videos/2078068201]]||
+|03/02|108|[[BIG 3時以降の部>>https://www.twitch.tv/videos/2079217257]]||
+|03/03|109|[[交通安全課鷹山→BIG→なんか>>https://www.twitch.tv/videos/2080084174]]|[[BIGは3:45:16から>>https://www.twitch.tv/videos/2080084174?t=03h45m16s]]|
+|03/05|110|[[鷹BIGる>>https://www.twitch.tv/videos/2081834946]]|[[BIGは7:07:36から>>>https://www.twitch.tv/videos/2081834946?t=07h07m36s]]|
+|03/07|111|[[おだやかバロ→ストグラ>>https://www.twitch.tv/videos/2083643379]]|[[BIGは7:25:40から>>https://www.twitch.tv/videos/2083643379?t=07h25m40s]]|
+|03/08|112|[[BIG隠れ家ハウジング→U2でバロ>>https://www.twitch.tv/videos/2084894015]]||
+|03/09|113|[[ストグラ鷹BIG>>https://www.twitch.tv/videos/2085662215]]|[[BIGは4:18:55から>>https://www.twitch.tv/videos/2085662215?t=04h18m55s]]|
+|03/15|114|[[BIGから①>>https://www.twitch.tv/videos/2091342730]]/[[BIGから②>>https://www.twitch.tv/videos/2091461938]]||
+|03/24|115|[[BIG 車あさるなど>>https://www.twitch.tv/videos/2085662215?t=04h18m55s]]||
+|03/29|116|[[スト6→ストグラBIG>>https://www.twitch.tv/videos/2104696060]]|[[BIGは2:58:02から>>https://www.twitch.tv/videos/2104696060?t=2h58m2s]]|
+#endregion
+***4月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/01|?|[[鷹BIGる>>https://www.twitch.tv/videos/2106803146?t=1h42m01s]]|[[ストグラシャッフルパージデー]]|
+|04/03|117|[[BIG SUZUKIる>>https://www.twitch.tv/videos/2109497499]]||
+|04/04|118|[[F1→なんかやる>>https://www.twitch.tv/videos/2110404602]]|[[BIGは05:16:00から>>https://www.twitch.tv/videos/2110404602?t=5h16m0s]]|
+|04/10|119|[[ちょいBIG>>https://www.twitch.tv/videos/2116008804]]||
+|04/30|120|[[久々に雑談でも ストグラゴルフもする>>https://www.twitch.tv/videos/2133486820]]|[[BIGは01:59:00から>>https://www.twitch.tv/videos/2133486820?t=1h59m0s]]|
+#endregion
+***5月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/03|121|[[すこしBIGさんぽ>>https://www.twitch.tv/videos/2135436954]]||
+|05/07|122|[[ビッスズ>>https://m.twitch.tv/videos/2139716686]]|8日になってから起床|
+|05/14|123|[[ちょいストグラBIG>>https://m.twitch.tv/videos/2145491551]]||
+|05/16|124|[[鷹山BIG>>https://m.twitch.tv/videos/2147187580]]|[[BIGは02:20:00から>>https://www.twitch.tv/videos/2147187580?t=2h19m45s]]|
+|05/22|125|[[鷹BIGするなど>>https://www.twitch.tv/videos/2152371330?t=0h35m7s]]|BIGは00:35:00から|
+|05/29|126|[[久々ゆっくりBIG SUZUKI>>https://www.twitch.tv/videos/2158234315]]||
+#endregion
+***6月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/06|127|[[ついに最終形態へ Destiny 2: 最終形態 #PR #BungieCreator>>https://www.twitch.tv/videos/2164948045?t=4h9m3s]]||
+|06/13|128|[[とうとう来たな木曜日が Destiny 2: 最終形態 #PR #BungieCreator>>https://www.twitch.tv/videos/2170868983?t=8h12m1s]]|08:12:00頃から|
+|06/15|129|[[起床 BIG雑談>>https://www.twitch.tv/videos/2172919623]]||
+|06/18|130|[[起床 ロスサントスでBIG OPTION運営したい>>https://www.twitch.tv/videos/2175306919]]||
+|06/21|131|[[すべての決着をつける Destiny 2: 最終形態 #PR #BungieCreator>>https://www.twitch.tv/videos/2177646228?t=7h32m54s]]||
+|06/22|132|[[BIG 22時から最終最終形態>> https://www.twitch.tv/videos/2178544264]]||
+|06/26|133|[[BIGレーシック編>>https://www.twitch.tv/videos/2182046225]]||
+|06/26|134|[[寝る前にのんびりBIGレーシック編>>https://www.twitch.tv/videos/2182288077]]|26日2枠目|
+|06/27|135|[[BIG 深夜に突然現れる男>> https://www.twitch.tv/videos/2183160699]]||
+|06/28|136|[[BIG 明日はクルマ購入外配信>> https://m.twitch.tv/videos/2183795232]]||
+#endregion
+***7月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/02|137|[[BIG 久々早めの>> https://m.twitch.tv/videos/2187233856]]||
+|07/04|138|[[BIG 肉フェスらしい>> https://m.twitch.tv/videos/2188998335]]||
+|07/06|139|[[BIG 普通車漁り>>https://www.twitch.tv/videos/2190827746]]||
+|07/07|140|[[BIG 歩くところから>>https://www.twitch.tv/videos/2191516526]]||
+|07/09|141|[[BIG 仕事>>https://www.twitch.tv/videos/2193283526]]||
+|07/13|142|[[帰宅 鷹リハビリ→BIG>>https://www.twitch.tv/videos/2196620684?t=3h28m50s]]|BIGは3h28m50s頃から|
+|07/19|143|[[ドカ食いコンデション悪BIG>>https://www.twitch.tv/videos/2201690505]]||
+|07/21|144|[[大黒帰りBIG>>https://www.twitch.tv/videos/2203547129]]||
+|07/23|145|[[BIG 少し設定弄った>>https://www.twitch.tv/videos/2205043183]]|BIGは4h05m00s頃まで|
+|07/24|146|[[BIG→ヴァ雑>>https://www.twitch.tv/videos/2205992799]]||
+|07/25|147|[[少しBIGからのヴァ雑ができたらいい>>https://www.twitch.tv/videos/2206989656]]||
+|07/27|148|[[さすがにありがとう ヴァ雑から>>https://www.twitch.tv/videos/2208709251?t=1h36m40s]]|1h36m40sから|
+|07/30|149|[[しごおわ 明日ドリフト大会らしい>>https://www.twitch.tv/videos/2211283004]]||
+|07/31|150|[[ヴァからのBIGドリフト大会>>https://www.twitch.tv/videos/2212020759?t=2h24m00s]]||
+#endregion
+
+***8月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/14|151|[[ライブ帰り 久々のBIG>>https://www.twitch.tv/videos/2224021118]]||
+|08/17|152|[[休日のBIGチル>>https://www.twitch.tv/videos/2226622891]]||
+|08/20|153|[[BIG "フィッシング" SUZUKI>>https://www.twitch.tv/videos/2229128712]]||
+|08/22|154|[[BIG少し→小戸山タクシー深夜割増>>https://www.twitch.tv/videos/2230903086]]||
+|08/27|155|[[2周年のなんかみるBIG>>https://www.twitch.tv/videos/2235324464]]||
+#endregion
+
+***9月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/03|156|[[クルマ変わった？BIG>>https://www.twitch.tv/videos/2241694375]]||
+|09/05|157|[[鷹！？からの>>https://www.twitch.tv/videos/2243159233?t=3h3m00s]]|bigは3h3m頃から|
+|09/10|158|[[闇パワーウォッシュwith如月 19時から夏休みthe k4senの課題見る>>https://www.twitch.tv/videos/2247367617?t=8h11m00s]]|bigは8h11m頃から|
+|09/29|159|[[TGSあざした 超久々にストグラ>>https://www.twitch.tv/videos/2263532532]]||
+#endregion
+
+***10月
+#region(開く,close)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/01|160|[[TAKABIG>>https://www.twitch.tv/videos/2264919361?t=1h33m]]|bigは1h33m頃から|
+|10/04|161|[[帰宅 ビッスズやりながらエボの今後など>>https://www.twitch.tv/videos/2267299884]]||
+|10/22|162|[[ひと月ぶりくらいに鷹BIG>>https://www.twitch.tv/videos/2282352833?t=4h7m40s]]|bigは4h7m40s頃から|
+#endregion
+
+***11月
+#region(開く,open)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|11/12|163|[[毎度5億年ぶりの出勤>>https://www.twitch.tv/videos/2300036388?t=2h11m54s]]|bigは2h12m頃から|
+|11/14|164|[[少しBIG ほか>>https://www.twitch.tv/videos/2301607379]]||
+|11/26|165|[[ヴァ雑 明日は卒セレスクリム>>https://www.twitch.tv/videos/2311531400?t=3h30m20s]]|bigaは3h30m頃から|
+#endregion
+//---------------------------------------------------------------------------------------------
+//|mm/dd|n|[[配信タイトル>>ここURLに配信を入力]]||
+
+#endregion
+//#region
+//&br()
+//
+
+#table_sorter{head=#99000d,even=#f7f7f7,odd=#fff}
+*動画化 &icon_fa(fa fa-youtube-play)
+***&big(){2023年}
+#region(開く,close)閉じる
+***&bold(){8月}
+#region(開く,close)
+-[[本当に戻っていいのか俺…？ロスサントスに帰ってきた鈴木ノリアキ【ストグラ】>>https://youtu.be/3f1rCTR1Km4]]
+-[[ストグラ参加数日で3000万の給料を手に入れる鈴木ノリアキ【ストグラ】>>https://youtu.be/l-bxOtUsxdM]]
+-[[BIG SUZUKIの車に惚れて弟子入りしたギャルにたじたじのノリアキ【ストグラ】>>https://youtu.be/5-2f5gKLgpo]]
+-[[市長が追加した峠の神アプデに大喜びの鈴木ノリアキ【ストグラ】>>https://youtu.be/TUKzJjWG79s]]
+-[[弟子入りしたギャルもなぴの絶望的な運転に爆笑のノリアキ【ストグラ】>>https://youtu.be/hm98-2D7T9Y]]
+#endregion
+***&bold(){9月}
+#region(開く,close)
+-[[ドリフト体験募集をしたら「おばあちゃん」が来て爆笑のノリアキ【ストグラ】>>https://youtu.be/tRL1kRovu-c]]
+-[[ストグラ一周年記念パレードで大やらかしをする鈴木ノリアキ>>https://youtu.be/K3JnxCYjPz0]]
+-[[人気メカニックノリアキの多忙すぎる1日をお見せします【ストグラ】>>https://youtu.be/e_omDMncSWg]]
+-[[【遂に】メカニックとして独立し起業、鈴木ノリアキ社長誕生【ストグラ】>>https://youtu.be/EosNcuzRjYU]]
+-[[社長になってすぐキャラの濃い3人にお金をせびられるノリアキ【ストグラ】>>https://youtu.be/gf-g_iPUYEQ]]
+-[[カジノで一皮むけて帰ってきた借金3人組に爆笑のノリアキ【ストグラ】>>https://youtu.be/n2uFNlyEcIE]]
+-[[BIG SUZUKI宣伝用ステッカーが超高値で売れてニコニコのノリアキ【ストグラ】>>https://youtu.be/s8OmVlYXkAs]]
+-[[モテカスタムを買った客に彼女が出来きてたんだけど、俺のおかげか。【ストグラ】>>https://youtu.be/4HPkaixYVgU]]
+-[[激務を乗り越え「2億のボーナス」を貰うBIG SUZUKI【ストグラ】>>https://youtu.be/8UAVpvtQ9Tw]]
+-[[自分のガレージで釈迦の発表をミラーする鈴木ノリアキ【ストグラ】>>https://youtu.be/AqGqrYFJpNo]]
+-[[貰ったボーナスで高級車を大人買いしディーラーをざわめかせるノリアキ【ストグラ】>>https://youtu.be/CS41cWcIZX4]]
+-[[謎のかぼちゃ頭から貰ったプロマイドの本人に出会う鈴木ノリアキ【ストグラ】>>https://youtu.be/XTJjZdH0tM0]]
+#endregion
+***&bold(){10月}
+#region(開く,close)
+-[[強盗事件に急行したら人質がもなぴで爆笑する鈴木ノリアキ【ストグラ】>>https://youtu.be/Oqr1jGYCmxQ]]
+-[[納車して5秒後に大事故を起こす客に大爆笑の鈴木ノリアキ【ストグラ】>>https://youtu.be/F_DkZldLG-g]]
+-[[居心地が良すぎてギャングのたまり場と化す鈴木ノリアキガレージ【ストグラ】>>https://youtu.be/Ku69GTfgGck&t=521s]]
+-[[愛車をディーラーに持って行ったら「純正か疑われた話」をする鈴木ノリアキ【ストグラ】>>https://youtu.be/pZKksCDK_hc]]
+-[[免許を手に入れ、ストグラに帰ってきた鈴木ノリアキ【ストグラ】>>https://youtu.be/SD-1YR4EyWY]]
+-[[1ヶ月ぶりの出勤で突然「二階級特進」を果たす鈴木ノリアキ【ストグラ】>>https://youtu.be/kimssU9l8Jc]]
+#endregion
+***&bold(){11月}
+#region(開く,close)
+-[[車両協会メンバーで始まった「ミニカーレース」で爆走する鈴木ノリアキ【ストグラ】>>https://youtu.be/bNJ38ZMJcNw]]
+-[[Small HIDEと誰にも伝わらないマッチョトークを始める鈴木ノリアキ【ストグラ】>>https://youtu.be/S0S2IqsisFY]] 
+-[[鈴木ノリアキがヘリ操縦を教えたら、空に消えていったもなぴ【ストグラ】>>https://youtu.be/8LFUmLclx7o]] 
+-[[カスタム100台目の無料サービスで「一文無し」が鈴木ノリアキの元にやって来た【ストグラ】>>https://youtu.be/1QeCEyBsdqg]] 
+-[[「タイムアタックイベント」開催に向け準備する鈴木ノリアキ【ストグラ】>>https://youtu.be/kt1MbD9OnhI]] 
+-[[珍しく犯罪が少ないロスサントスを巡る鈴木ノリアキ【ストグラ】>>https://youtu.be/co8exKl5zFY]] 
+#endregion
+***&bold(){12月}
+#region(開く,close)
+-[[2か月ぶりのエギとの再会に大興奮の鈴木ノリアキ【ストグラ】>>https://youtu.be/GLMHCCyFKgc]]
+#endregion
+#endregion()
+//------------------------------------------------------------------------------
+***&big(){2024年}
+#region(開く,open)閉じる
+***&bold(){1月}
+#region(開く,close)
+-[[平成ギャル「もなぴ」とクリスマスデートをする鈴木ノリアキ【ストグラ】>>https://youtu.be/wEIJVAoN0sQ]]
+-[[新実装されたドリフト島に行く鈴木ノリアキ【ストグラ】>>https://youtu.be/JCn7v53Dp6o&t=458]]
+-[[「ドリフトレース」の追加で、ドリ車モチベがブチ上がる鈴木ノリアキ【ストグラ】>>https://youtu.be/i1JYtYXyeCE]]
+-[[大繁盛でウワサの「川上たばこ店」に向かう鈴木ノリアキ【ストグラ】>>https://youtu.be/4DpbEj82iy]]
+-[[やっぱり小豆最中の新ネイルに気付けない鈴木ノリアキ【ストグラ】>>https://youtu.be/LJgIXjCJRC0]]
+#endregion
+***&bold(){2月}
+#region(開く,close)
+-[[バレンタインチョコを渡したいもなぴに、鬼電される鈴木ノリアキ【ストグラ】>>https://youtu.be/JONrgrwAppY?si=Hz7qA-ejNp2qvsyP]]
+-[[新作の「BIG SUZUKIカスタム」が好評で大喜びの鈴木ノリアキ【ストグラ】>>https://youtu.be/30DKfFr-6jY?si=v8XwmzjkkopMDuDf]]
+#endregion
+***&bold(){3月}
+#region(開く,close)
+-[[今アツい男「シャンクズ」に車をプレゼントする鈴木ノリアキ【ストグラ】>>https://youtu.be/TMtklSE92RA?si=kEzF_NkcWed5IWSj]]
+-[[鈴木ノリアキが最近ハマっているキャンプに仲間が集い始める【ストグラ】>>https://youtu.be/5oT5ZfN4_JI]]
+#endregion
+***&bold(){4月}
+#region(開く,close)
+-[[ウェスカーへ「CとRの車」をプレゼントするファン太【ストグラ】>>https://youtu.be/M19W8IfvLDE]]
+-[[久しぶりのダイナーで「最高にチルな一日」を過ごす鈴木ノリアキ【ストグラ】>>https://youtu.be/AHwE5891lXY]]
+#endregion
+***&bold(){5月}
+#region(開く,close)
+-[[一か月ぶりのロスで「ゴルフを嗜む」鈴木ノリアキ【ストグラ】>>https://youtu.be/3LPw2e68KiY]]
+-[[シティーハンターのコスプレで街を散歩する鈴木ノリアキ【ストグラ】>>https://youtu.be/uPxZ032IUJk]]
+-[[メカニックのJTSが面白集団に変わり果てたと聞いて見に行く鈴木ノリアキ【ストグラ】>>https://youtu.be/p3NcMSiyYNc]]
+#endregion
+***&bold(){6月}
+#region(開く,close)
+-[[研究中のエントリー「チャリエントリー」に挑戦する鈴木ノリアキ【ストグラ】>>https://youtu.be/yBhFs2sLDGE]]
+-[[自宅の「細かいこだわりポイント」に気付いてもらいご満悦の鈴木ノリアキ【ストグラ】>>https://youtu.be/d2hd4OFJ2aI]]
+-[[マックとウェスカーの舌戦の場に何故か立ち会う鈴木ノリアキ【ストグラ】>>https://youtu.be/gd3q03BtSEY]]
+-[[3ヶ月ぶりに開店した川上たばこ店に向かう鈴木ノリアキ【ストグラ】>>https://youtu.be/nXpL-IVbC78]]
+-[[ドリ車7台追加で久々に車屋を再開する鈴木ノリアキ【ストグラ】>>https://youtu.be/K_EqLh8QqMw]]
+#endregion
+***&bold(){7月}
+#region(開く,close)
+-[[急に仕事をこなし始めた鈴木ノリアキに心配の電話が来る【ストグラ】>>https://youtu.be/f_YFvc3dxTI]]
+-[[ドリフト中の最高の一枚を撮るつもりが「衝撃の一枚」が撮れてしまう【ストグラ】>>https://youtu.be/JAVWnnDKeYA]]
+-[[修理依頼で訪れた警察署の光景に驚く鈴木ノリアキ【ストグラ】>>https://youtu.be/IOFi5siLclY]]
+-[[さらなるチルを求めスワンボートに一人で乗る鈴木ノリアキ【ストグラ】>>https://youtu.be/cuUwx0fyOmk]]
+-[[趣味で本気の写真編集をしていたらカメラマンをお願いされる鈴木ノリアキ【ストグラ】>>https://youtu.be/_Ls1veykGEU]]
+-[[突然の「結婚報告」について話す鈴木ノリアキ【ストグラ】>>https://youtu.be/D7lW7aei3VU]]
+-[[待望のドリフト大会開催、激アツ過ぎる内容に盛り上がる鈴木ノリアキ【ストグラ】>>https://youtu.be/nLEgHJ6Or1M]]
+
+#endregion
+***&bold(){8月}
+#region(開く,close)
+-[[客船で釣りを始めるも警察にNPCと勘違いされる鈴木ノリアキ【ストグラ】>>https://youtu.be/9c0vbsS1tgM]]
+
+#endregion
+***&bold(){9月}
+#region(開く,close)
+-[[車両に大型アプデが到来し、完成度の高さに感動する鈴木ノリアキ【ストグラ】>>https://youtu.be/cllBLs7ErF4]]
+
+#endregion
+***&bold(){10月}
+#region(開く,close)
+-[[TGSの後日談と、妻にあることがバレた話をする鈴木ノリアキ【ストグラ】>>https://youtu.be/C6CctUbiCfk]]
+-[[変装して絡んでくるわきおにキレながら対応する鈴木ノリアキ【ストグラ】>>https://youtu.be/iiP-qzrhsPY]]
+#endregion
+
+
+#endregion()
+
+*&size(20){&color(#eaf4fc)コラボ&icon_fa(fa fa-twitch)}
+・[[ストグラジオ>>https://www.twitch.tv/videos/2043036406]]　ゲスト [[猪狩　翔太]]、[[BIG　SUZUKI]]
+//------------------------------------------------------------------------------
+#right(){&link_up(🔝ページTOPへ)}

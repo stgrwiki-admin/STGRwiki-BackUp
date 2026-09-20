@@ -1,0 +1,69 @@
+**プロフィール
+//&image(ここに画像のURLを入力,y=400)
+
+//ここからプロフィール
+#table_style(head=#E6E6FA:#666666){名前=#eee:b:center}
+|~名前|~&icon_fa(fa fa-user)|チャーリー　ミラー|
+|~出身地|~&icon_fa(fa fa-location-dot)|イギリス|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年03月10日 (&countup(2025/03/10,d)日経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|メカニック【[[菖光エンジニア]]】&small(){社員 2025/03/16〜}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@charliem |
+|BGCOLOR(#F6978F):~プレイヤー|BGCOLOR(#F6978F):~&icon_fa(fa fa-address-card-o)|KamiyaUeno|
+|BGCOLOR(#F6978F):~告知等|BGCOLOR(#F6978F):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter }) @KamiyaUeno}>>https://twitter.com/KamiyaUeno]]|
+|BGCOLOR(#F6978F):~配信場所|BGCOLOR(#F6978F):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch (kamiyaueno)}>>https://www.twitch.tv/kamiyaueno]]|
+
+#co{各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+▷プロフ画像追加できる方お願いします。
+▷参加者一覧ページもまだ未記載です。}
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-情報を記述
+
+**エピソード
+***2025年
+#region(mm月,open)&bold(){mm月}
+****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(mm月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(mm月)
+
+}
+
+**アーカイブ
+***2025年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|mm/dd|1|[[配信タイトル>>ここに配信URLを入力]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+**関連情報
+***&size(18)別キャラクター
+&color(#F54738){※ネタバレ注意}
+#region(開く)
+▶[[Ueno　Kamiya]]
+▶[[上野　駆る]]
+▶[[フィリップ　クリフトン]]
+▶[[コナー　クリスチャン]]
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

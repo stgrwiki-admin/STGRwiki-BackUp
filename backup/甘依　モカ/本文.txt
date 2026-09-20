@@ -1,0 +1,423 @@
+&size(30){&bold(){&color(#e6959e){甘いものとかわいいものが大好き💕}}}
+//ここからプロフィール
+*&color(#e6959e){&size(25){プ}}ロフィール
+|&image(甘依モカ_サムネ.jpg,x=300,title=普段着)|&image(甘依モカ_自撮り.jpg,x=300,title=自撮り)|
+#table_color(#e6959e)
+|~&color(#fff){名前}|&ruby(あまい){甘依}　モカ|
+|~&color(#fff){出身地}|不明|
+|~&color(#fff){誕生日}|未公開（2025年で24歳（？））|
+|~&color(#fff){転入日}|2024年1月3日 (&countup(2024/01/03,yd))|
+|~&color(#fff){職業}|コラボカフェ【[[カニメイト]]】店員&br()サウナ【[[SPA だはは]]】店員 &br()&small(){&openclose2(show=過去の職業){&nbsp(br,3)魔法少女【[[RitUal:]]】&small(){体験 2024/04/11}&nbsp(br,3)公務員【[[ロスサントス救急救命隊]]】&small(){体験 2024/08/14～08/16}}}|
+|~&color(#fff){TwiX}|@amai_moka|
+|BGCOLOR(#ff98b6):~&color(#fff){プレイヤー}|桃雛なの|
+|BGCOLOR(#ff98b6):~&color(#fff){告知等}|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/momohina_nano]]|
+|BGCOLOR(#ff98b6):~&color(#fff){配信場所}|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/momohina_nano]]|
+|BGCOLOR(#ff98b6):~&color(#fff){アーカイブ}|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@momohina_nano]]|
+|~&color(#fff){別キャラ}|[[シュガー　ピーチ]]|
+
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「*」（*1つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=1)
+#endregion
+
+*&color(#e6959e){&size(25){基}}本情報
+-ロスサントスに甘いものと可愛いものが沢山あると聞いて引越ししてきた。
+・BMCの雰囲気が気に入っていて、長居することも。
+・黒を白にする！可愛くて綺麗な世界にする！って言いながらゴミ集めしているらしい。
+・ゴミ箱あさりを日課にしていて着替えるのを怠ったため、[[プスカ大佐>ネズ]]に臭うと言われてしまう。
+・[[SPA だはは]]に体験を申し込み即日で採用される。
+・勤務してることをアピールするため自撮りをよくTwixにアップする
+*&color(#e6959e){&size(25){交}}友関係
+#region(白市民)
+-[[御花　はな]]
+　初めて買った車をカスタムしてくれた
+-[[牧田　ここな]]
+　KoKo七番屋の店長
+　体験可能な店がなかった時にアルバイトとして雇ってくれた
+-[[成瀬　力二]]
+　カニメイトの店長
+-[[茶担　えり]]
+　カニメイトの店員
+　同じ日にカニメイトを体験した同期
+-[[ゆた　んぽ]]
+　約1年ぶりに起床したときにご飯を奢ってくれた
+　おそろいの服を作った
+-[[月乃　えるな]]
+　9055の店長、サンサンクレープのチーフ
+　積載の多い車を貸してくれたり、クレープをくれる優しいお姉さん
+-[[悠　えん]]
+　9055の店員、警察官
+　9055の体験でメカニックについて教えてもらったり、レース練習に同乗させてくれたりした
+　初めて銀行強盗の人質にになった際、助けに来てくれた
+#endregion
+#region(黒市民)
+-[[聖母　れりあ]]
+　この街で最初に出会った住人
+　ロスサントスについていろいろ教えてくれた
+　ギャングの優しいお姉さん
+-[[キャプテン　わきを]]
+　SPAだははの店長
+　体験を申し込み即日で採用してもらう
+#endregion
+*&color(#e6959e){&size(25){服}}装
+#region(服装)
+//あまりにも多くなったら別ページで作成しなおしてください
+・掲載順はクローゼットの登録順
+#center(){
+|&image(1_モカ_いつもの.jpg,x=200)|&image(2_モカ_カニメイト制服.jpg,x=200)|&image(15_モカ_夏服.jpg,x=200)|&image(14_モカ_救急隊.jpg,x=200)|&image(3_モカ_私服.jpg,x=200)|&image(4_モカ_ゆたんぽちゃん.jpg,x=200)|&image(5_モカ_P.jpg,x=200)|&image(6_モカ_だはは.jpg,x=200)|&image(7_モカ_だはは1.jpg,x=200)|&image(8_モカ_だはは2.jpg,x=200)|&image(9_モカ_だはは3.jpg,x=200)|&image(10_モカ_水着ワンピース.jpg,x=200)|&image(11_モカ_水着露.jpg,x=200)|&image(12_モカ_水着かわいい.jpg,x=200)|&image(13_モカ_9055.jpg,x=200)|&image(16_モカ_だはは　普.jpg,x=200)|
+|いつもの|カニメイト　制服|夏服|救急隊|私服2|ゆたんぽちゃん|P|だはは|だはは1|だはは2|だはは3|水着　ワンピース|水着　露|水着　かわいい|9055|だはは　普|
+|初期衣装|カニメイトの制服|現在番号ずれで歪んでいる|救急隊の体験を受けた時の制服&br()現在番号ずれで歪んでいる|初期衣装からダウンを脱いだ|[[ゆた　んぽ]]とお揃いの衣装|PUB「FAWK」の制服|SPAだはは用水着&br()履いていないように見える|SPAだはは用の水着&br()リュックをおろした|SPAだはは用の水着&br()恥ずかしいのでスカートを履いた|SPAだははの制服&br()パンツが水に溶ける|SPAだはは用の水着&br()かわいいワンピース|SPAだはは用の水着&br()[[わきを>>キャプテン　わきを]]と2人の時しか着ない|SPAだはは用の水着|9055の制服&br()気崩してるのがおしゃれ|SPAだははの制服&br()写真撮影用に肩にウサギを乗せた|}
+#endregion
+*&color(#e6959e){&size(25){所}}有物件
+#region(所有物件)
+#table_color(#e6959e)
+|~&color(#fff){番地}|BGCOLOR(#ff98b6):~&color(#fff){購入日}|BGCOLOR(#ff98b6):~&color(#fff){販売人}|BGCOLOR(#ff98b6):~&color(#fff){画像}|BGCOLOR(#ff98b6):~&color(#fff){エピソード}|
+|~&color(#fff){7149}|MIDDLE:初日(2024/01/03)|MIDDLE:市|&image(家_7149.jpg,x=500)|MIDDLE:初期アパート&br()ゴミ拾いが日課のモカにとっては手狭|
+|~&color(#fff){9343}|MIDDLE:不明(2024/04/09?)|MIDDLE:不明|&image(家_9343.jpg,x=500)|MIDDLE:最初に購入した物件&br()ここを購入してからレギオン等で野宿することが減った|
+#endregion(所有物件)
+//テンプレート
+//|~&color(#fff){番地}|MIDDLE:購入日|MIDDLE:販売人|&image(.jpg,x=300)|MIDDLE:エピソード|
+//
+*&color(#e6959e){&size(25){所}}有車両
+#region(所有車両)
+#table_color(#e6959e)
+|~&color(#fff){車両名}|BGCOLOR(#ff98b6):~&color(#fff){登録名}|BGCOLOR(#ff98b6):~&color(#fff){車種}|BGCOLOR(#ff98b6):~&color(#fff){購入日}|BGCOLOR(#ff98b6):~&color(#fff){画像}|BGCOLOR(#ff98b6):~&color(#fff){エピソード}|
+|~&color(#fff){CanisFreecrawler}|MIDDLE:CanisFreecrawler|MIDDLE:Offroad|MIDDLE:2024/01/03|&image(CanisFreeclawler.jpg,x=300)|MIDDLE:街に来て初日に購入&br()ディーラー：[[御花　はな]]&br()カスタム者：[[御花　はな]]&br()普段使いしている人が少なく[[牧田　ここな]]から&br()「この車といえばモカちゃんだよね」と言われるほど乗りまわしている&br()&s(){というよりかは街に来てしばらくの間この車しか所持していない}|
+#endregion(所有車両)
+//テンプレート
+//|~&color(#fff){車両名}|MIDDLE:登録名|MIDDLE:車種|MIDDLE:購入日|&image(.jpg,x=300)|MIDDLE:エピソード|
+//
+*&color(#e6959e){&size(25){カ}}スタム車両
+・メカニックとして甘依モカオリジナルもしくは依頼者と一緒に考えた車両を掲載
+#region
+#table_color(#e6959e)
+|~&color(#fff){車両名}|BGCOLOR(#ff98b6):~&color(#fff){依頼者}|BGCOLOR(#ff98b6):~&color(#fff){種別}|BGCOLOR(#ff98b6):~&color(#fff){カスタム日}|BGCOLOR(#ff98b6):~&color(#fff){画像}|BGCOLOR(#ff98b6):~&color(#fff){エピソード}|
+|~&color(#fff){CanisSeminoleFrontior}|MIDDLE:[[上田　さん]]|MIDDLE:SUVs|MIDDLE:2025/05/28|&image(上田さん_CanisSeminoleFrontior.jpg,x=300)|MIDDLE:9055体験初日に上田さんから試しにやってみてほしいと依頼&br()要望：パステルのかわちいぷりちーな感じ|
+|~&color(#fff){ホットリングウィーヴィル}|MIDDLE:[[帝　レン]]|MIDDLE:Compacts|MIDDLE:2025/06/12|&image(帝レン_ホットリングウィーグルー.jpg,x=300)|MIDDLE:帝レンが[[彼女>>スコティッシュ・ホールド]]にプレゼントする用で依頼される&br()要望：猫耳のリバリーをつけて色は彼女にあった感じ&br()帝レンと相談しながら色やパーツをつけて作成&br()アンダーライトは帝レンをイメージした赤|
+|~&color(#fff){ドミネーター}|MIDDLE:[[なんば　てって]]|MIDDLE:Muscle|MIDDLE:2025/06/12|&image(なんばてって_ドミネーター.jpg,x=300)|MIDDLE:なんばてって本人が作成したメカニックシートか&br()モカオリジナルでカスタムするか選ばせてくれた&br()要望：かっこいい感じで刺し色でもいいので紫が入っていると嬉しい|
+#endregion(カスタム車両)
+//テンプレート
+//|~&color(#fff){車両名}|MIDDLE:依頼者|MIDDLE:車種|MIDDLE:カスタム日|&image(.jpg,x=300)|MIDDLE:エピソード|
+//
+*&color(#e6959e){&size(25){日}}別エピソード
+**2024年
+#region(1月,close)
+*** 01/03 [[1日目>>https://www.twitch.tv/videos/2021468742]]
+#region(開く,close)
+-通りかかった[[お姉さん>>聖母　れりあ]]に声を掛け、街のことを教えてもらう
+-ベーカリー早苗でお買い物
+-普通車免許講習
+　・無事に普通車免許を取得する
+-普通車ディーラーの[[はなちゃん>>御花　はな]]からFREECRAWLERを購入する
+-KoKo七番屋でお買い物
+-海上レストランでお買い物
+-KoKo七番屋でのお笑いライブを鑑賞
+-[[大川さん>>大　川]]とここなちゃんに職業体験についてアドバイスをもらう
+-KoKo七番屋アルバイト
+　・移動販売でカレーを売ったり、鉱山で宝石を採掘する
+-レギオンで就寝
+-エピソード募集中
+#endregion(01/03)
+*** 01/13 [[2日目>>https://www.youtube.com/watch?v=jNivpzLdIIg]]
+#region(開く,open)
+-エピソード募集中
+#endregion(01/13)
+*** 01/18 [[3日目>>https://www.youtube.com/watch?v=Qfp7ybQRNF0]]
+#region(開く,open)
+-エピソード募集中
+#endregion(01/18)
+*** 01/20 [[4日目>>https://www.youtube.com/watch?v=zBlBEkycrM4]]
+#region(開く,open)
+-エピソード募集中
+#endregion(01/20)
+*** 01/21 [[5日目>>https://www.youtube.com/watch?v=e_Mt47-X3x0]]
+#region(開く,open)
+-エピソード募集中
+#endregion(01/21)
+*** 01/24 [[6日目>>https://www.youtube.com/watch?v=kgaNXt4Z3YQ]]
+#region(開く,open)
+-エピソード募集中
+#endregion(01/24)
+*** 01/31 [[7日目>>https://www.youtube.com/watch?v=qqulLWaJh5s]]
+#region(開く,open)
+-エピソード募集中
+#endregion(01/31)
+#endregion(1月)
+#region(2月,close)
+*** 02/08 [[8日目>>https://www.youtube.com/watch?v=Bq4E2wI0Me0]]
+#region(開く,open)
+-エピソード募集中
+#endregion(02/08)
+#endregion(2月)
+#region(4月,close)
+*** 04/10 [[9日目>>https://www.youtube.com/watch?v=iZlLPtz9Qc4]]
+#region(開く,open)
+-エピソード募集中
+#endregion(04/10)
+*** 04/11 [[10日目>>https://www.youtube.com/watch?v=9xmM1pJRJvU]]
+#region(開く,open)
+-魔法少女カフェで体験
+-エピソード募集中
+#endregion(04/11)
+#endregion(4月)
+#region(8月,close)
+*** 08/14 [[10日目（？）>>https://youtu.be/HN40BPBzSRo]]
+#region(開く,open)
+-9343の自宅で起床
+-カニメイトオープン
+　・1人目のお客様：[[オザワ　ハヤマサ]]
+　・お客さんが全然来ないので、沢山のお客さん（架空）が写った加工画像をTwiXにUpする
+　・2人目のお客様：[[安城　成]]
+　　さっき嫌なことがあってスマホを燃やしたらしい
+　・2、3人目のお客様：[[パキ　ち]]、[[まちょ>>街雄　サンリ]]
+　・4人目のお客様：[[キャプテン　わきを]]
+　　先ほどのTwiXにUpした写真について言及される
+　　「モカちゃんが5人くらいいるように見える」
+　・5人目のお客様：[[ぎちょう・じょばぁーな]]
+　　[[ぱちお>>日之　ぱちお]]は義理の弟らしい
+　・6人目のお客様：[[アイアンメイデン　三郎太]]
+　　イベントのケータリングを購入
+-救急隊体験1日目
+　・体験前に[[ジョン　ドングリ]]から救急隊の心構えを聞く
+　・[[鬼桃　ぷぅ]][[ルウ　ギャラクティカ]]と一緒に救急隊体験
+　・宿直室でストグラ大学の講演を見る
+-9343の自宅で就寝
+-エピソード募集中
+#endregion(08/14)
+*** 08/16 [[11日目（？）>>https://youtu.be/Ui3sWoq2ObU]]
+#region(開く,open)
+-9343の自宅で起床
+-レギオンで化学のクラフト
+　・[[雷堂　ましろ]]、[[ノビー　ラング]]、[[キラ・メキーラ]]と出会う
+　　救急隊が5人になったので体験可能であることを聞く
+-救急隊体験2日目
+　・[[わたくし先輩>>箱根　しおん]]から院内を白く保つ方法を教えてもらう
+　・トラックレースを観戦しつつ、怪我をした人の治療を行う
+-9343の自宅に帰り就寝
+-エピソード募集中
+#endregion(08/16)
+#endregion(8月)
+**2025年
+#region(5月,close)
+***05/28 [[？？日目>>https://www.twitch.tv/videos/2470500498]]
+#region(開く,open)
+・9343の自宅で約1年ぶりに起床
+　・服装が番号ずれの影響で大変なことになっている
+　・ご飯も飲み物も全く街の影響で全てなくなっていた
+・とりあえず人に会える格好に着替えに行く
+　・服と髪を整えたがダウンなのでどうみても暑そう
+・カニメイトの制服も作る
+・自分のTwiXを見返したら最後に起きたのが2024年の8月16日だったと気づく
+・今井のダイナーに買い物に行く
+　・TwiXで投稿した自撮りにいいねしてくれた[[ゆた　んぽ]]がいる
+　・ゆたんぽちゃんがかっこよく奢ってくれる->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/ColdSpicyYakDoritosChip-Pf3tHS9Drg4ccHaw]]
+　・ご飯の在庫が全くないので追加で購入
+　・[[デヤンス>>小者　デヤンス]]からゆたんぽに商品を届けてほしいと頼まれる
+・病院にご飯を届けにいくと2度目ましてなのに即ハグされる->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/SolidHumblePuddingHeyGuys-k9LY6WBVYbxHQSeY]]
+・9055に修理にいく
+　・9055から体験のお誘いを受ける
+・[[牧田　ここな]]を間違って殴ってしまい病院に連れていく
+　・病院に誰もおらず雑談しているとゆたんぽちゃんが帰ってくるが[[元難波　登]]に即連行されていってしまう->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/GentleBlueHeronCeilingCat-rm8R2CiHenG6AHU9]]
+　・ゆたんぽちゃんと服を見に行く約束をする
+・牧田ここなをkoko七番屋に送りに行き，ついでに買い物をする
+・ゆたんぽちゃんを迎えに行き服屋に行く
+　・おそろいの服を作る
+・カニメイトの事務所で商品が作れるか見に行く
+・カニメイトオープン
+　・たくさんのお客さんに来ていただく
+　・[[レッサン　パンナ]]にゆたんぽちゃんとお揃いの服を撮ってもらう
+・[[ペトロ　アルドベッグ]]さんのPUB「FOWK」に行き占いをしてもらう
+　・そのままの流れで体験をさせてもらう
+　・[[霜月　ろっぷ]]がお客様としてきたが占いをしに来ただけだった
+　・本当の初めてのお客様[[捌木　たいたい]]が来店
+　・たいたいにナンパされ，海上レストランに行きその後SPAだははの体験をすることになる
+・車がレッカーされていたので[[ねずみさん>>えぐち　きの子]]と[[毒多　博士]]にカニメイトまで送ってもらう
+・海上レストランにつくと，[[緑髪の人>>半沢　直ふぃ]]がゴミ箱に入っていて襲ってくる->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/HotTastyRaccoonPMSTwin-D0qg-UKKhCQ6BeL7]]
+・SPAだははの体験に行くもオーナーの[[キャプテン　わきを]]が虚空新聞に載せられて時間がかかりそう
+　・SPAだははのグループチャットで一瞬で採用が決まる
+　・服装をつくりに行くとちょうどキャプテンわきをがいる
+　・下が履いていないように見える服装をすごく推される
+・SPAだははの説明を受ける
+・入口前で雑談
+・オーナーのわきをが帰ってくる
+　・待っている間に考えた熱波を披露して正式採用が決定する->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/GlutenFreeBoldPigShadyLulu-vx1s_S03pXa4MuJX]]
+　・正式採用祝いにわきをにスピードカスタムを買ってもらえることに
+　・身体測定で身長と肩幅？を測られる->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/CreativeStrangeCrocodileHeyGirl-3Geg9UbcoJy4eBHn]]
+・サウナ用に水着をさらに作ることになる
+・SPAだははでお客さん対応
+・[[上田　さん]]から電話がかかってきて9055の体験が決まる
+・わきをとサウナで雑談
+　・好きなタイプの話などの話をする
+・濃密な一日で疲れたので一度お家に帰り休憩する
+・9055に体験の話をしに行く
+・9055体験
+　・社長の[[月乃　えるな]]に素材と道具をもらって洋服を作りに行く
+　・月乃えるなの車を練習で修理する
+　・[[丸井　まる]]からたこ焼きを買う
+　・9055メンバーと雑談
+　・[[ミン　ドリー]]の車を修理
+　　魔法石を渡し忘れてしまい慌ててお電話する
+　・ゆたんぽちゃんのヘッドライトカラーを交換
+　・上田さんの車を使用して見た目カスタムの練習
+・9343の自宅に帰り就寝
+#endregion(5/28)
+#endregion(5月)
+#region(6月,close)
+*** 06/01 [[？？日目　6/1>>https://www.twitch.tv/videos/2474130893]]
+#region(開く,close)
+・9343の自宅で起床
+・9055に体験に向かう
+・[[悠　えん]]に体験の指導をお願いする
+　・メカニック専用パーツのクラフトを教わる
+・病院から出張修理の依頼
+　・新規住人の[[バチ　公]]に挨拶
+・9055に戻り[[多良里　ずぅ]]の150億バイクを危うく無免許で修理しかけてしまう
+・多良里　ずぅの空飛ぶバイクに乗せてもらう->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/SoftFaithfulChoughStrawBeary-pHV_4wMEaVM6tAyp]]
+・[[ジョーカー>>半沢　直ふぃ]]がバチ公を初狩りしているのを見て見ぬふりをする
+・[[ラグランジュ　光芝]]にバイクとヘリの免許をスピード取得させてもらう
+・悠えんのレース練習に同乗させてもらう
+・SPAだははが強盗にセキュリティを突破され，[[上田　さん]]が女子トイレに設置した盗撮画像が流出したらしい
+　・[[山本　寅子]]に情報共有してもらう
+・海上レストランに悠えんと一緒に行く
+・9055に戻り悠えんと雑談しながらチル
+・SPAだははに悠えんと一緒に行き，[[捌木　たいたい]]，山本寅子，上田さんとチル
+・9055に戻り上田さんの盗撮についてジョーカーから情報をもらう
+・ジョーカー，バチ公，悠えんとkoko七番屋にいく
+　・ジョーカーがバチ公に[[牧田　ここな]]の嘘の人物像を教えている
+　・ジョーカーと悠えんがここなをいじり倒す
+・9055に戻る途中で突然バチ公があ〇ぎツボってしまう->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/TrappedTiredStorkBleedPurple-2GyKjL_z8HPlUJxo]]
+・9055体験続行
+・9343の自宅で就寝
+#endregion(6/1)
+*** 06/04 [[？？日目　6/4>>https://www.twitch.tv/videos/2476734010]]
+#region(開く,close)
+・9343の自宅で起床
+・溶鉱炉でスマホを溶かす
+・カニメイトを少し開ける
+　・料理準備してる最中に9055の無線に入る
+　・[[月乃　えるな]]から気遣いできる子にはクレープあげると言われ嬉しさのあまりもう一人が出てきてしまう->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/SparklyFaintClipsdadGOWSkull-BZqjZA1h7Oeuqh1Q]]
+・外にでて[[ぬくお>>ジョン　ドゥ]]と[[バーンリアン　田中]]を接客
+・クレープが食べたすぎて閉店してサンサンクレープに行く
+　・月乃えるなから積載多い車を貸してもらえることに
+　・9055で貸してもらい[[上田　さん]]に修理してもらう
+・9055体験
+　・暇すぎてほぼ雑談
+　・[[シャーロックブロッコリー>>ブロッコリー　斎藤]]略してシャロコリが来店し，上田さんに探偵っぽい車を用意してもらっている
+　・サンサンクレープのチョコバナナがムーンレモネードになっていることに気づいてしまう->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/HelpfulResoluteSproutSwiftRage-rYn1X5W-EmpLJBsC]]
+・あまりにチルすぎて一旦寝て21時のサウナの会議に参加することに
+・携帯を溶かして手に入れたシルバーインゴットを9055に売る
+・いったん9343の自宅で就寝
+#endregion(06/04)
+*** 06/04 [[？？日目 6/4 後半>>https://www.twitch.tv/videos/2476814712]]
+#region(開く,close)
+・9343の自宅で起床
+・SPAだははに向かう
+・SPAだはは内で[[ブラック　ジャックス]]の肺が[[どら　イオリ]]に盗まれる
+・会議開始
+　議題
+　・PARADICELOSTとコラボイベントで従業員をチェンジ
+　・サウナで歌イベント
+　・サウ汰のサウナの日(?)
+　・SFCはしばらく間をあけたい
+　・サブスクギフター還元イベント
+　・従業員のガチャ（PM：ブラックジャックス）
+　・STATEがないからサウナ従業員に連絡とる手段がない
+　・よすがの新商品が入った
+　・歌イベの進行（PM：上田さん）
+・写真を撮るのでアクセサリーをつける
+・ブラックジャックスを「せ～んぱい💗」とよびちゃんと喜ばれる->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/ApatheticHorriblePicklesNerfRedBlaster-Chao_K5vlRq0BFfe]]
+・サウナ前で雑談
+・IBANを確認しにどらイオリと一緒にATMに行く
+・お給料が振り込まれる
+・サウナで働く
+　・[[キャプテン　わきを]]に積載の多い車の代金をいただく
+　・ガチャ用のイメージカラーをみんなで決める
+　・[[ムーチョ　文岡]]から警察のリークを貰う
+　・[[よりどり　みどり]]と一緒に[[茶担　えり]]を案内する
+　・水中でのしゃべり方をよりどりみどりに教わりみんなで溺れだす->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/PiercingColdJalapenoPastaThat-fOfJwY03-mQl_d4j]]
+　・[[ノア　チェンバー]]を案内
+　・セクシーすぎるノアチェンバーに大興奮->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/FlirtyCrypticAubergineRiPepperonis-h8fj_EFgOIhjjmVL]]
+　・やっぱり3人で溺れる
+・SPAだははを閉め9343の自宅で就寝
+#endregion(06/04)
+*** 06/12 [[？？日目>>https://www.twitch.tv/videos/2483920444]]
+#region(開く,close)
+・9343の自宅で起床
+・カニメイトを[[月乃　えるな]]から借りた車で開けようと9055のガレージに向かう
+　・1日目のボタン王国から来たという[[B　ボタン]]に会う
+　・なんか見たことあるサングラスをかけている
+・Bボタンが21時まで9055で体験するというので一旦9055で働く
+　・Bボタンと初めての大交換会を繰り広げる->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/CarefulStrangeCroissantMingLee-mIcy3w0nmd-5OvfS]]
+・[[サンキュー番のお兄さん>>畳　かえる]]の車を修理して，去るところで警察が声をかけだす
+　・どうやら指名手配犯の車だったらしい
+　・しばらくすると[[ブロッコリー　斎藤]]が無事捕まえたと報告にくる
+・[[なんば　てって]]からカスタムの依頼
+　・自由にやってみてほしいと言われたのでチャレンジしてみる
+・[[街雄　サンリ]]の飛行機が墜落してくる
+　・免許の話になり免許センターの人をTwixで募集する
+・気づいたらポケットの中にエナプロDが入っている
+・[[御花　はな]]に久しぶりに再会
+・[[帝　レン]]から[[彼女>>スコティッシュ・ホールド]]のための猫カーを作ってほしいと依頼
+　・帝レンと相談しながらカスタム
+・[[ラグランジュ　光芝]]がきて免許の対応をしてくれる
+　・大型免許と飛行機免許を無事故で取得
+・9055でなんばてっての車をカスタム
+・月乃えるなにエナプロDのことを報告
+・カスタム続行
+　・ついでにフルカスも頼まれる
+・なんばてってに車を引き渡す
+　・とても喜んでくれた
+・大型車の修理がきて喜ぶ
+・修理後，[[大型車の持ち主>>柳田　ライアン]]に銀行強盗の人質にされてしまう
+　・[[上田　さん]]のせいで危うくキ〇タマにされるところだった->[[クリップ>>https://www.twitch.tv/momohina_nano/clip/BrightGleamingFishArsonNoSexy-cfleD-zOWowKinNe]]
+　・[[真島　ルイ]]に9055に送り届けてもらう
+・こわれたスマホをみんなで溶かしに行く
+・9343の自宅で就寝
+#endregion(06/12)
+#endregion(6月)
+//
+//↓コピー用素材
+//
+//#region(m月,close)
+//*** mm/dd [[title>>url]]
+//#region(開く,close)
+//-エピソード募集中
+//#endregion(mm/dd)
+//#endregion(m月)
+//
+*&color(#e6959e){&size(25){ア}}ーカイブ
+&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[再生リスト>>https://www.youtube.com/playlist?list=PLD1adh6Wm-3J0d71Ey_-pcCHm6FzU5-8B]]
+//月日はサーバー解放時点（17時）を基準にしました
+//タイトルは【】を除去し、#を別項目にしました
+**2024年
+#region(開く,close)
+#table_style(head=center:#ff98b6:#FFF){月日=right,day=right}
+|~月日|~day|~配信URL|アーカイブ|~備考|h
+|01/03|1|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2021468742]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１日目>>https://www.youtube.com/watch?v=I6U1fiq6sbI]]||
+|01/13|2|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2031107036]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２日目>>https://www.youtube.com/watch?v=jNivpzLdIIg]]||
+|01/18|3|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2036226574]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３日目>>https://www.youtube.com/watch?v=Qfp7ybQRNF0]]||
+|01/20|4|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2038196773]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４日目>>https://www.youtube.com/watch?v=zBlBEkycrM4]]||
+|01/21|5|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2039531899]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５日目>>https://www.youtube.com/watch?v=e_Mt47-X3x0]]||
+|01/24|6|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2042190334]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６日目>>https://www.youtube.com/watch?v=kgaNXt4Z3YQ]]||
+|01/31|7|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2048887315]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７日目>>https://www.youtube.com/watch?v=qqulLWaJh5s]]||
+|02/08|8|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2056810890]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８日目>>https://www.youtube.com/watch?v=Bq4E2wI0Me0]]||
+|04/10|9||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９日目>>https://www.youtube.com/watch?v=yHtOC9RLHn4]]|1枠目|
+|04/10|9||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９日目>>https://www.youtube.com/watch?v=Uyniq68dMCQ]]|2枠目|
+|04/10|9||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９日目>>https://www.youtube.com/watch?v=iZlLPtz9Qc4]]|3枠目|
+|04/11|10|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2116764302]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０日目>>https://www.youtube.com/watch?v=9xmM1pJRJvU]]||
+|08/14|11|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2223983828]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０日目？>>https://youtu.be/HN40BPBzSRo]]||
+|08/16|12||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１日目>>https://youtu.be/Ui3sWoq2ObU]]||
+#table_sorter{even=#ffebf6,odd=#fff}
+#endregion
+**2025年
+#region(開く,close)
+#table_style(head=center:#ff98b6:#FFF){月日=right,day=right}
+|~月日|~day|~配信URL|アーカイブ|~備考|h
+|05/28|13|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2470500498]]|||
+|06/01|14|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2474130893]]|||
+|06/04|15|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2476734010]]|||
+||後半|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2476814712]]|[[？？日目>>https://youtu.be/_wGwvIwYcT4]]|１５日目後半|
+|06/12|16|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/videos/2483920444]]|[[？？日目>>https://youtu.be/iMDLzvgOGdw]]|１６日目|
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

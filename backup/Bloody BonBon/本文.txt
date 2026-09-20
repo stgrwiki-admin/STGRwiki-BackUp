@@ -1,0 +1,113 @@
+#slide_img(auto=5,width=350,height=197){BBB_2.webp,BBB.webp,}
+#table_style(head=#6666ff:#eae4ff){}
+|~店名|~&icon_fa(fa fa-tag)|&ruby(ぶらっでぃぼんぼん){Bloody BonBon}|
+|~job名|~&icon_fa(fa fa-comment)|Bloody BonBon|
+|~業種|~&icon_fa(fa-solid fa-candy-cane)|飲食店：お菓子屋|
+|~開業日|~&icon_fa(fa fa-flag)|2025年05月20日&br()&small(){（&countup(2025/05/20,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|8048番地|
+|~店長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[伊勢　えびす]]}|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+//
+**基本情報
+-警察本署近くの大通り(8048)に店を構えるお菓子屋さん
+--【略称はBBB】。
+--店名の由来は店長が科捜研なこと＆ボンボン菓子。
+-コンセプトはちょっと変なお菓子を売るお店
+-各種商品デザイン・店名ロゴ・チラシのデザインは&s(){[[聖母　れりあ]]}「聖女　れりあ」が依頼され、担当した。
+-システム上は全員ボスになっている。
+
+**従業員情報
+***従業員
+#table_style(head=center:#eae4ff)
+|~役職|~名前|~就職日|~備考|h
+|店長|[[伊勢　えびす]]|2025/03/??|兼業【[[ロスサントス警察]]】【[[プラネットモータース]]】|
+|店員|[[二部　らるたる]]|2025/03/27|兼業【[[ロスサントス警察]]】【[[プラネットモータース]]】|
+|店員|[[味野　環九郎]]|2025/05/20|兼業【[[ロスサントス警察]]】&br()警察以外で初めての副業。|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+#co{
+//***退職者
+#table_style(head=center:#eae4ff)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+#co{
+//***職業体験者
+#table_style(head=center:#eae4ff)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+}
+**商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***商品一覧
+#region(,open)
+#table_filter(){No.=hide,種類=hide,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#eae4ff){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|food|ブラッディボンボン|50,000|2025/5/21|BBBの看板商品!!&br()チョコのほろ苦さとベリーの甘さで&br()満腹感だけでなくリラックス効果もある。|
+|food|BBBアイス(チョコミント味)|50,000|2025/5/21|甘くて美味しいBBBアイスのチョコミント味&br()美味しいだけじゃなく喉も潤う|
+|food|BBBアイス(ブルーベリー味)|50,000|2025/5/21|甘くて美味しいBBBアイスのブルーベリー味&br()美味しいだけじゃなく喉も潤う|
+|food|BBBアイス(ストロベリー味)|50,000|2025/5/21|甘くて美味しいBBBアイスのストロベリー味&br()美味しいだけじゃなく喉も潤う|
+|food|BBBアイス(オレンジ味)|50,000|2025/5/21|甘くて美味しいBBBアイスのオレンジ味&br()美味しいだけじゃなく喉も潤う|
+|drink|BBBソーダ(コーラ味)|50,000|2025/5/21|シュワシュワ美味しいBBBソーダのコーラ味&br()リラックス効果もある|
+|drink|BBBソーダ(メロン味)|50,000|2025/5/21|シュワシュワ美味しいBBBソーダのメロン味&br()リラックス効果もある|
+|drink|BBBソーダ(ラムネ味)|50,000|2025/5/21|シュワシュワ美味しいBBBソーダのラムネ味&br()リラックス効果もある|
+|relax|BBBガム(ヨーグルト味)|50,000|2025/5/21|シュワシュワはじけるBBBガムのヨーグルト味&br()リラックス効果だけでなくお腹も少し満たされる|
+|relax|BBBガム(グレープ味)|50,000|2025/5/21|シュワシュワはじけるBBBガムのグレープ味&br()リラックス効果だけでなくお腹も少し満たされる|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+#co{
+***限定商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=center:#eae4ff){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+#co{
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion
+}
+
+**沿革
+***2025年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#eae4ff)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|03/07|山下市長へ開業申請をする|[[伊勢　えびす]]&br()[[紀伊路　つみき]]|面談の順番待ち中に[[シュガー　ピーチ]]もお菓子屋さん開業予定なことが判明|
+|05/20|オープン|[[伊勢　えびす]]&br()[[味野　環九郎]]|21日の1時27分に開店Twixを投稿|
+|05/22|抗争で出張販売|[[味野　環九郎]]&br()[[二部　らるたる]]|[[砂漠署>ロスサントス警察]]vs[[第4宇宙速度]]抗争場所近くで出張販売を行う|
+|05/28|レースイベントへ出資|[[伊勢　えびす]]&br()[[味野　環九郎]]|6/24から行われる[[万十　忍]]主催レースイベントのスポンサーになる|
+|08/09|ロスリンピックで出張販売|[[伊勢　えびす]]&br()[[味野　環九郎]]&br()[[二部　らるたる]]|ロスリンピック飲食店部門としてキッチンカーで出店した|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

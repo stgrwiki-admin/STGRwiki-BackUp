@@ -1,0 +1,68 @@
+**プロフィール
+#slide_img(auto=4,position=left,width=290,height=520){ニノマエ1.png,ニノマエ2.png}
+
+//ここからプロフィール
+#table_style(head=#E6E6FA:#666666){名前=#eee:b:center}
+|~名前|~&icon_fa(fa fa-user)|&ruby(にのまえ){一}　&ruby(はじめ){一}|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|1987年10月20日 (&countup(1987/10/20,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年10月06日 (&countup(2024/10/06,yd)経過)|
+|~職業|~&icon_fa(fa fa-stethoscope)|[[個人医]]【闇医者】(2024/10/6～)|
+|~TwiX|~&icon_fa(fa fa-crow)|@hazime|
+|BGCOLOR(#919497):COLOR(#fff):~プレイヤー|BGCOLOR(#919497):COLOR(#fff):~&icon_fa(fa fa-heart)|しろまんた|
+|BGCOLOR(#919497):COLOR(#fff):~告知等|BGCOLOR(#919497):COLOR(#fff):~&icon_fa(fa fa-bullhorn)|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>>https://twitter.com/manta_hakidame]]|
+|BGCOLOR(#919497):COLOR(#fff):~配信場所|BGCOLOR(#919497):COLOR(#fff):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/shiro_manta]]|
+|BGCOLOR(#919497):COLOR(#fff):アーカイブ|BGCOLOR(#919497):COLOR(#fff):~&icon_fa(fas fa-film)|&font(#6441A4){&icon_fa(fa fa-youtube-play)} [[&font(#6441A4){YouTube}>>https://www.youtube.com/@shiromanta2]] |
+|~別キャラ|~&icon_fa(fa-solid fa-user-plus)|&ruby(ささき){[[佐々木]]}&br()&ruby(しらい　まんた){[[白井　満太]]}|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-前の街でギャング所属の医者をやっていた
+&openclose(show=過去所属ギャングについて){革命を起こそうとして街で1番大きな銀行を破壊し先に街を終わらせてしまった。&br()&ruby(はじめ){一}自身に戦闘能力は無いため直接的な加担はしていないものの、ギャング全体が国家政府に追われることとなり、仲間を救いたかったがそれも叶わず一人逃亡した。}
+-医療技術があること、基本的に社会不適合者であることなどを理由に個人医への就職を希望。現在1ヶ月の試用期間中である。
+-市長の前でも顔を見せるのを拒んでおり、常に何らかの（基本的におどろおどろしく人を選ぶ）マスクをしている。
+-あだ名が複数あり、わんわん、はじめちゃん、にのにの、にのはじ、はじめetc.
+**エピソード
+***2024年
+#region(10月,open)&bold(){10月}
+****10/06 [[白井 101>>https://www.twitch.tv/videos/2268187201]]
+#region(開く,open)
+-[[市長>山下　ひろし]]と面談し[[個人医]]になる
+#endregion
+
+#endregion(10月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(mm月)
+
+}
+**アーカイブ
+***2024年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/06|1|[[白井 101>>https://www.twitch.tv/videos/2268187201]]|前半別キャラ|
+|10/07|2|[[一 一 ニ>>https://www.twitch.tv/videos/2269182709]]||
+|10/08|3|[[一 一 三>>https://www.twitch.tv/videos/2270771574]]||
+|10/09|4|[[一 一 四>>https://www.twitch.tv/videos/2271514512]]||
+|10/10|5|[[一 一 五>>https://www.twitch.tv/videos/2272367247]]||
+|10/15|6|[[白井>>https://www.twitch.tv/videos/2276562037?t=04h50m31s]]|前半別キャラ|
+|10/23|7|[[一 一 僕は喉から 少し>>https://www.twitch.tv/videos/2282456550]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

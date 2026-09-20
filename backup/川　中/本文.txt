@@ -1,0 +1,200 @@
+*&font(25px,#e6e6e6){プロフィール} &font(30px,#adadad){&icon_fa(fa fa-user)}
+
+
+#slide_img(auto=2,position=left,width=355,height=480)
+{Screenshot_20240406-113251.png,1710408926826.png,1710411784959.png}
+
+
+
+　&size(24){&bold(){「悪人め！駆逐してやる！！！」}}
+
+//ここからプロフィール
+#table_style(head=#898989:#efefef){名前=#eee:b:center}
+|~名前|~&icon_fa(fa fa-user)|&ruby(かわ){川}　&ruby(なか){中}|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年03月09日 (&countup(2024/03/09,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|[[警察官>>ロスサントス警察]]（北署所属）&br()&space(4)階級はGrade:3のLieutenant（警部補）|
+|~TwiX|~&icon_fa(fa fa-crow)||
+|~レーサー名|~&icon_fa(fa fa-user-tag)||
+|プレイヤー|BGCOLOR(#eee):COLOR(#666):&icon_fa(fa fa-address-card)|SHAKA(ZETA DIVISION)|
+|告知等|BGCOLOR(#eee):COLOR(#666):&icon_fa (fa fa-bullhorn)|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X (旧&font(#1da1f2){Twitter}) (@avashaka)}>>https://twitter.com/avashaka]]|
+|配信場所|BGCOLOR(#eee):COLOR(#666):&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch fa-fw)}[[&font(#6441A4){Twitch (fps_shaka)}>>https://www.twitch.tv/fps_shaka]]|
+|切り抜き|BGCOLOR(#eee):COLOR(#666):&icon_fa(fa fa-scissors)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725) {YouTube (SHAKAch)}>>https://www.youtube.com/@SHAKAch]]|
+|BGCOLOR(#fff):COLOR(#666):別キャラ|BGCOLOR(#fff):COLOR(#666):&icon_fa(fa fa-user-plus)|[[釈　リキ]]、[[川　上]]|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「 https://w.atwiki.jp/streamergta5/pages/20.html#id_ab0a5ace 」（職業一覧->就業者一覧）、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&font(25px,#e6e6e6){基本情報} &font(30px,#adadad){&icon_fa(fa fa-id-card-o)}
+***&font(20px,#666){■}&font(18px,u,b,#696969){&space(2)概要&space(2)}
+-神奈川県警で働いていた。悪人には何をしても良いと言う強い思想を持っている。
+-前にいた街では激務ゆえに35時間連続で勤務し続けたこともあり、犯人とのチェイスが長期戦にもつれ込みそうになっても全く引かない胆力も持ち合わせている。
+-色々あってこの街に来ることになったらしい。
+-某少年誌連載マンガの某討伐隊の某念能力者のような見た目をしている。
+-念能力者で煙を操れる。しかしこの街では煙をうまく操作することができないらしく、口から煙をふかすにとどまっている。
+--愛煙家でもある。警察体験時代から金に困ってヘリの修理すらままならない時期でもタバコは欠かせない。&br()好きなタバコの銘柄は[[川上たばこ店]]の北斗七星。
+-人の名前を覚える事が苦手（面倒）な為、困ったら全て初対面と言うスタンスを取っている。
+-自分の名前も山か川か、上か下かも分からなくなるほど酷い時がある。[[殿>文月　なえ]]「もうめちゃくちゃじゃ…笑」
+-前にいた街に川下というギャングの知り合いがいたらしく、もしかしたらこの街に来るかもしれないということを仄めかしていた。
+-「◯◯は好かんので」「△△はやらんので」という断り文句が口癖。実際のところはかなり適当を言っている場合が多い。
+-車で送迎して貰った際、止まる前からダイナミック下車することが多い。
+
+
+***&font(20px,#666){■}&font(18px,u,b,#696969){&space(2)警察&space(2)}
+-高い射撃技術と運転技術を持ち合わせ、体験初日から武器を持ちダウンを奪い、はじめてのチェイスでの逮捕も果たす。
+--なお、テーザーやショットガンに関しては単発式の銃が苦手・相手に当てられないという理由で持たない主義。&br()特にテーザーはホルスターの枠が無い・一発外したら命が危ない・そもそも扱いが苦手ということで、どんな現場にも実銃を構えて突入している。
+-体験2日目では、アーテイファクト対餡ブレラ戦にて、IGL並の報告技術を見せ、敵を７人ダウンさせるという体験とは思えない程の活躍を見せている。
+-SWATのときはスキンヘッドにフルフェイスヒゲといった本人曰く"どぶろっく"スタイルに変貌する。&br()頭は&ruby(ぞ){剃}っているらしく、普段の警察時は念能力で生やしているのか、カツラを被っているのかは不明(ヒゲはつけヒゲと明言している)。
+-「出世しやすい」との触れ込みに食いつき、北署配属を希望。[[署長>キーモット　ホームズ]]と[[副署長>きらりんぶい☆　なずぴ(10)]]に驚かれ、さらに即ランク3に上がった。
+-とにかくランクに囚われており、北署長の座を狙っている。
+-アフリカ等の自然動物を好んでおり、（特にナミビア）チルの際によくテレビで鑑賞している。
+
+
+*&font(25px,#e6e6e6){エピソード} &font(30px,#adadad){&icon_fa(fa fa-book)}
+***&font(20px,#666){■}&font(18px,u,b,#696969){&space(2)2024年&space(2)}
+//見出し(***)の編集ボタンは2つ以上のregionで囲まれている場合に出現しなくなるため、年単位のregionを削除しています。
+#region(3月)&bold(){3月}
+****03/09 [[21時からグッズ出たりする>>https://www.twitch.tv/videos/2085567417]]
+#region(開く,open)
+-警官になるために街に来て早々警察署へ直談判しに行ったが、応募フォームから正規の手順でと言われ一旦レギオンに消えていった。
+#endregion
+----
+****03/13 [[特訓したりする>>https://www.twitch.tv/videos/2089432957]]
+#region(開く,open)
+-警察体験
+#endregion
+----
+****03/14[[もしもしポリスメン？>>https://www.twitch.tv/videos/2090425667]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+#endregion(3月)
+***&font(20px,#666){■}&font(18px,u,b,#696969){&space(2)2025年&space(2)}
+#region(4月,open)&bold(){4月}
+****04/10
+#region(開く,open)
+-
+#endregion
+
+#endregion(4月)
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//-エピソード募集中
+//#endregion
+
+*&font(25px,#e6e6e6){切り抜き} &font(30px,#adadad){&icon_fa(fa fa-scissors)}
+***&font(20px,#666){■}&font(18px,u,b,#696969){&space(2)切り抜き&space(2)}
+#region(開く)
+#table_style(head=center:#e6e6e6)
+|~配信タイトル|h
+|[[ストグラで新たな人生を始める釈迦【GTA5】>>https://youtu.be/U_kigbzKNpo?si=h1lYQDomLnRHA9Rq]]|
+|[[警察体験初日に致命的なミスを犯す釈迦【GTA5】>>https://youtu.be/_5NRzrrsOfs?si=xSL4wuU_Xmd7H51G]]|
+|[[大型強盗で無双し、警察体験中なのに強すぎるとギャングに怒られる釈迦【GTA5】>>https://youtu.be/UpHV0spodEU?si=TQQjCnButI-waFu1]]|
+|[[現場で滑落した結果、犯人の裏取りに成功する釈迦【GTA5】>>https://youtu.be/bdDnuH6LkNE?si=ABw-56kTQgaIQw40]]|
+|[[先輩警察官に圧かける体験中の釈迦【GTA5】>>https://youtu.be/rOapQHcujbU?si=Z-k1XPV5mQsMJ0MK]]|
+|[[強盗に決闘を挑まれるも圧倒的実力で無双してしまう釈迦【GTA5】>>https://youtu.be/STsjLMEx5F4?si=ANVrIL-tA7FzVA1a]]|
+|[[ただのコンビニ強盗のはずが不運が重なり大犯罪者になる男を追う釈迦【GTA5】>>https://youtu.be/qLNSfqBdQFM?si=QLiYMHxeBKFJeXrq]]|
+|[[癖が強すぎる警察官たえこが釈迦の前に現れる【GTA5】>>https://youtu.be/u0_aDBqw7ZE?si=_sirJLamo17LrOcF]]|
+|[[キモすぎる男「キモキモオのライブ」に行き大爆笑する釈迦【GTA5】>>https://youtu.be/2Z1SSd8PXZg?si=AdyZTdTiyhdV0P4K]]|
+|[[現場で撃たれて倒れていたところを「怪しい個人医」に誘拐される釈迦【GTA5】>>https://youtu.be/3UpCAN2CiZ4?si=8DR1lV77uI_IZH8F]]|
+|[[新規住民の「ごいす太郎」に出会う釈迦【GTA5】>>https://youtu.be/kMJqS0f6k3E?si=_TAn-aP5wlt0JrzY]]|
+|[[久しぶりにマクドナルドと再会した釈迦【GTA5】>>https://youtu.be/3O17U6a0MKg?si=h_I9TOrsCw1AZqiW]]|
+|[[伊藤ぺいんの魂(本人)の凄さを知ってしまう釈迦【GTA5】>>https://youtu.be/HOlaRTcw42k?si=KktBW8k53xhRC-BH]]|
+|[[警察の先輩文月なえと「とんでもない作戦」で6億の借金を完済するSHAKA【GTA5】>>https://youtu.be/HbFazkIbCAo?si=-L6Ume9hyiwgR6X1]]|
+|[[暇すぎて一般市民で遊びだすロスサントス警察【GTA5】>>https://youtu.be/tjyaWIMC040?si=DazpsIoVAZmouLxi]]|
+|[[個性が強すぎる強盗犯シコザエルファツシに遭遇するSHAKA【GTA5】>>https://youtu.be/kdmfAnY0qR4?si=dUOAIJFbuTXXi-of]]|
+|[[ウェスカーが「お祝いで貰ったの車」が目の前で爆発して爆笑するSHAKA【GTA5】>>https://youtu.be/FDn8HVTOFa8?si=g0x40wbamBVLKBNL]]|
+|[[声が良すぎる犯罪初心者と遭遇するSHAKA【GTA5】>>https://youtu.be/8Tw9a-RZBwk?si=hwKFCQ89tsIEWen2]]|
+|[[頼れる先輩である皇帝が「ギャンブル好き」だと知り爆笑するSHAKA【GTA5】>>https://youtu.be/FNZ8h8be9Z4?si=bQZQGVQTId_8BabE]]|
+|[[警察に捕まりゴネまくるギャングのヴァンダーマー【GTA5】>>https://youtu.be/jB9DjV-_Dn4?si=IP2Ijoui45uDD4nd]]|
+|[[町田ジョアンナの「恋愛シミュレーション」を体験するSHAKA【ストグラ】>>https://youtu.be/_0k9Gh_hx1o?si=GPQP5OqCfJPWcc8d]]|
+|[[ダルシム使いぴん子をスト6で格付けするSHAKA【ストリートファイター6】>>https://youtu.be/SdFCNbHKwrU?si=x0w8Cne9_9HGxOFX]]|
+|[[聞こえてきたヤニトークにすぐに反応し参戦するSHAKA【ストグラ】>>https://youtu.be/FlizVSNiDD4?si=cKNFz3dgzEqdOXS8]]|
+|[[ラーメン談義をしていたらお店のサイトを落ちてしまったSHAKA【ストグラ】>>https://youtu.be/FcjWu5Fpao0?si=kzg9s4Ur1fXEOCrO]]|
+|[[スト6話で盛り上がる警察たち【一口クリップ】>>https://youtu.be/UeZqCX0RgZg?si=L4tYEgLzdqfo8lqS]]|
+|[[久しぶりにロス警察に出勤するも孤立してしまうSHAKA>>https://youtu.be/MWJKlrRpTsc?si=6jLMElpJ93RUfANJ]]|
+|[[1年ぶりにあの刑事と再会するSHAKA>>https://youtu.be/3s8QHMsZSog?si=P8jjAODWj27dU3Ey]]|
+//|[[タイトル>>ここにURL]]|
+#endregion
+
+#table_style(head=center:#d4392d){配信日=right,#=center}
+|~&color(#ffffff){&font(d4392d,23pt){最新切り抜き}}|h
+&youtube(https://youtu.be/3s8QHMsZSog?si=P8jjAODWj27dU3Ey)
+
+
+*&font(25px,#e6e6e6){アーカイブ} &font(30px,#adadad){&icon_fa(fa fa-twitch)}
+***&font(20px,#666){■}&font(18px,u,b,#696969){&space(2)2024年&space(2)}
+#region(3月)&bold(){3月}
+#table_style(head=center:#e6e6e6){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/09|1|[[21時からグッズ出たりする>>https://www.twitch.tv/videos/2085567417]]||
+|03/13|2|[[特訓したりする>>https://www.twitch.tv/videos/2089432957]]||
+|03/14|3|[[もしもしポリスメン？>>https://www.twitch.tv/videos/2090425667]]||
+|03/19|4|[[内職をしながら雑談をする男>>https://www.twitch.tv/videos/2095157886?t=09h09m49s]]||
+|03/20|5|[[ケンとチュンリーきてくれ1400～1600くらいの>>https://www.twitch.tv/videos/2096046788?t=04h58m00s]]||
+|03/21|6|[[超えよう>>https://www.twitch.tv/videos/2096990657?t=04h00m46s]]|体験最終日|
+|03/22|7|[[ドラゴンズドグマ 2やるぞ #PR>>https://www.twitch.tv/videos/2097930340?t=02h09m00s]]|警察合格|
+|03/23|8|[[限られた方向にしか首を動かせない男 22時からきょうちゃんとCOD モバイルする>>https://www.twitch.tv/videos/2098955877]]||
+|03/24|9|[[キモオのライブ>>https://www.twitch.tv/videos/2099128384]]||
+|03/27|10|[[警察間に合う？>>https://www.twitch.tv/videos/2102022941]]||
+|03/27|11|[[NULLというメンズコスメを #PR する男>>https://www.twitch.tv/videos/2102757395?t=04h17m14s]]||
+|03/28|12|[[N>>https://www.twitch.tv/videos/2103013961]]||
+|03/28|13|[[gannbaro->>https://www.twitch.tv/videos/2103759494?t=02h40m03s]]||
+|03/29|14|[[つかれた>>https://www.twitch.tv/videos/2104751328]]||
+|03/30|15|[[マスターリリーと1700以上マノン募>>https://www.twitch.tv/videos/2105729423?t=02h18m46s]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#region(4月)&bold(){4月}
+#table_style(head=center:#e6e6e6){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/03|16|[[まだ腹いっぱいなんだが>>https://www.twitch.tv/videos/2109439169?t=02h38m37s]]||
+|04/05|17|[[セキロ無性にやりたくなったので小一時間やってから>>https://www.twitch.tv/videos/2111327926?t=04h42m06s]]||
+|04/06|18|[[TOPって大会にでるぞ>>https://www.twitch.tv/videos/2112035833?t=08h49m37s]]||
+|04/09|19|[[ダイヤいこう>>https://www.twitch.tv/videos/2115073636?t=01h49m16s]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#region(5月)&bold(){5月}
+#table_style(head=center:#e6e6e6){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/07|20|[[#PR 俺だけレベルアップな件：ARISEをやらせていただく>>https://www.twitch.tv/videos/2139503703?t=02h40m39s]]||
+|05/08|21|[[ポリス>>https://www.twitch.tv/videos/2140425604]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***&font(20px,#666){■}&font(18px,u,b,#696969){&space(2)2025年&space(2)}
+#region(4月)&bold(){4月}
+#table_style(head=center:#e6e6e6){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/10|22|[[激動へ向けて記憶を取り戻す>>https://www.twitch.tv/videos/2428970349]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#region(5月,open)&bold(){5月}
+#table_style(head=center:#e6e6e6){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/17|23|[[ソロゾンちらり>>https://www.twitch.tv/videos/2460982153]]|3:31:51頃から開始|
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#co(){↓コピー用素材
+#region(20yy年mm月,open)&bold(){20yy年mm月}
+#table_style(head=center:#e6e6e6){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+↑コピー用素材
+}
+
+#right(){&link_up(🔝ページTOPへ)}

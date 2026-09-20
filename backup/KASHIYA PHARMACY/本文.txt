@@ -1,0 +1,123 @@
+&image(KASHIYA PHARMACY_03.jpeg,x=350)
+&image(KASHIYA PHARMACY_LOGO.png,x=350)
+
+#table_color(#EEEEEE)
+|~店名|&ruby(かしや　ふぁーましー){KASHIYA PHARMACY}|
+|~種別|薬局|
+|~開店日|2023年07月12日|
+|~所在地|8210番地|
+|~店長|[[菓子谷　尋]]|
+
+#region(目次を開く,open)目次
+#contents(level=2)
+#endregion
+**基本情報
+・薬、健康食品、日用品、シーズングッズを販売している。
+・病院から紹介を受けたり体調が悪い時に薬剤師に相談すると、症状に合った薬を購入することができる。
+・直接店員に注文して受け取る対面販売形式。
+・取り扱っていない薬は調合を依頼することも可能。無線やメッセージで大量注文も受け付けている。
+・西海岸沿いの8210番地の角に店を構えており、向かいに自転車屋がある。
+・48.2が直通無線
+
+**従業員情報
+***従業員
+#table_style(head=#EEEEEE)
+#table_style(head=center)
+|~役職|~名前|~就職日|~備考|h
+|店長|[[菓子谷　尋]]|23/06/25|仮死薬事件をきっかけに[[個人医]]から薬剤師に転身。帰国につきキャラクターエンディング済み。|
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+
+//***退職者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~就職日|~最終出勤日|~備考|h
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//#table_autoincrement()
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//***職業体験者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd||
+//#table_autoincrement()
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+**商品情報
+#size(90%){medicine:薬　Food:空腹を満たす　Drink:喉の渇きを解消する　Relax:ストレスを緩和する}
+
+#region(薬)
+&bold(){薬}
+#table_style(head=#EEEEEE)
+#table_style(head=center){種類=center,登録者=center,価格=right}
+#table_filter(){追加日=hide,画像=show,種類=hide,価格=show,登録者=hide,補足、効能=show}
+|~追加日|~画像|~種類|~商品名|~価格|~登録者|~補足、効能|h
+|23/07/09|&image(鎮咳薬.jpeg,x=35)|medicine|&b(){Chingai Yaku}&br()鎮咳薬|1,000円|菓子谷 尋|咳止め|
+|23/07/09|&image(鎮痛薬.jpeg,x=35)|medicine|&b(){Chintsu Yaku}&br()鎮痛薬|1,000円|菓子谷 尋|痛み止め|
+|23/07/09|&image(鎮暈薬.jpeg,x=35)|medicine|&b(){Chinun Yaku}&br()鎮暈薬|1,000円|菓子谷 尋|酔い止め|
+|23/07/09|&image(眼科用薬.jpeg,x=35)|medicine|&b(){Gankayo Yaku}&br()眼科用薬|1,000円|菓子谷 尋|目薬|
+|23/07/09|&image(解熱鎮痛薬.jpeg,x=35)|medicine|&b(){Genetsu Chintsu Yaku}&br()解熱鎮痛薬|1,000円|菓子谷 尋|熱を下げる|
+|23/07/09|&image(皮膚科用薬.jpeg,x=35)|medicine|&b(){Hifukayo Yaku}&br()皮膚科用薬|1,000円|菓子谷 尋|皮膚用塗り薬|
+|23/07/09|&image(抗アレルギー薬.jpeg,x=35)|medicine|&b(){Ko Allergy Yaku}&br()抗アレルギー薬|1,000円|菓子谷 尋|アレルギー反応を抑える|
+|23/07/09|&image(抗精神病薬.jpeg,x=35)|medicine|&b(){Ko Seishinbyo Yaku}&br()抗精神病薬|1,000円|菓子谷 尋|幻覚や妄想などを軽減する|
+|23/07/09|&image(抗うつ薬.jpeg,x=35)|medicine|&b(){Ko Utsu Yaku}&br()抗うつ薬|1,000円|菓子谷 尋|うつ状態を和らげる|
+|23/07/09|&image(抗ウイルス薬.jpeg,x=35)|medicine|&b(){Ko Virus Yaku}&br()抗ウイルス薬|1,000円|菓子谷 尋|インフルエンザなどに|
+|23/07/09|&image(精神神経用薬.jpeg,x=35)|medicine|&b(){Seishin Shinkeiyo Yaku}&br()精神神経用薬|1,000円|菓子谷 尋|統合失調症などに|
+|23/07/09|&image(睡眠薬.jpeg,x=35)|medicine|&b(){Suimin Yaku}&br()睡眠薬|1,000円|菓子谷 尋|睡眠を誘発する|
+|23/07/09|&image(消化性潰瘍治療薬.jpeg,x=35)|medicine|&b(){Syokasei Kaiyochiryo Yaku}&br()消化性潰瘍治療薬|1,000円|菓子谷 尋|胃薬|
+|23/07/09|&image(耳鼻科用薬.jpeg,x=35)|medicine|&b(){Zibikayo Yaku}&br()耳鼻科用薬|1,000円|菓子谷 尋|耳や鼻の不調に|
+|23/07/17|&image(湿布薬.jpeg,x=35)|medicine|&b(){Shippu Yaku}&br()湿布薬|1,000円|菓子谷 尋|肩や腰の痛みに|
+#table_zebra(#F8F8F8,#FFFFFF,#EEEEEE)
+#endregion
+
+#region(健康食品)
+&bold(){健康食品}
+#table_style(head=#EEEEEE)
+#table_style(head=center){種類=center,登録者=center,価格=right}
+#table_filter(){追加日=hide,画像=show,種類=show,価格=show,登録者=hide,備考=hide}
+|~追加日|~画像|~種類|~商品名|~価格|~登録者|~備考|h
+|23/07/09|&image(プロテインバー_チョコ.jpeg,x=35)|Food|&b(){PROTEIN BAR(CHOCOLATE/CRANBERRY/CHEESE/MIX NUTS)}&br()プロテインバー(チョコ/クランベリー/チーズ/ミックスナッツ)|3,000円|菓子谷 尋|8/2ミックスナッツ味追加|
+|23/07/09|&image(おかゆ.jpeg,x=35)|Food|&b(){RICE PORRIDGE}&br()おかゆ|3,000円|菓子谷 尋||
+|23/07/09|&image(プロテイン_バナナ.jpeg,x=35)|Drink|&b(){PROTEIN(BANANA/CHOCOLATE/STRAWBERRY/VANILLA)}&br()プロテイン(バナナ/チョコ/ストロベリー/バニラ)|3,000円|菓子谷 尋|8/2バニラ味追加|
+|23/07/09|&image(ORS.jpeg,x=35)|Drink|&b(){ORS}&br()経口補水液|2,000円|菓子谷 尋||
+#table_zebra(#F8F8F8,#FFFFFF,#EEEEEE)
+#endregion
+
+#region(ストレス解消)
+&bold(){ストレス解消}
+#table_style(head=#EEEEEE)
+#table_style(head=center){種類=center,登録者=center,価格=right}
+#table_filter(){追加日=hide,画像=show,種類=show,価格=show,登録者=hide,備考=hide}
+|~追加日|~画像|~種類|~商品名|~価格|~登録者|~備考|h
+|23/07/09|&image(熱冷ましシート.jpeg,x=35)|Relax|&b(){COOLING GEL SHEET}&br()熱冷ましシート|3,000円|菓子谷 尋||
+|23/07/09|&image(のど飴_レモン.jpeg,x=35)|Relax|&b(){COUGF DROPS(LEMON/MUSCAT/PEACH)}&br()のど飴(レモン/マスカット/ピーチ)|3,000円|菓子谷 尋||
+|23/07/09|&image(フェイスマスク.jpeg,x=35)|Relax|&b(){FACE MASK}&br()フェイスマスクシート|4,000円|菓子谷 尋||
+|23/07/09|&image(ホットアイマスク_ブルー.jpeg,x=35)|Relax|&b(){HOT EYE MASK(BLUE/PINK)}&br()ホットアイマスク(ブルー/ピンク)|3,000円|菓子谷 尋||
+#table_zebra(#F8F8F8,#FFFFFF,#EEEEEE)
+#endregion
+
+#region(シーズングッズ)
+&bold(){シーズングッズ}
+#table_style(head=#EEEEEE)
+#table_style(head=center){種類=center,登録者=center,価格=right}
+#table_filter(){追加日=hide,画像=show,種類=show,価格=show,登録者=hide,備考=hide}
+|~追加日|~画像|~種類|~商品名|~価格|~登録者|~備考|h
+|23/07/09|&image(FROZEN ORS.jpeg,x=35)|Drink|&b(){FROZEN ORS}&br()冷凍経口補水液|3,000円|菓子谷 尋||
+|23/07/09|&image(FROZEN TEA.jpeg,x=35)|Drink|&b(){FROZEN TEA}&br()冷凍お茶|3,000円|菓子谷 尋||
+|23/07/09|&image(ネッククーラー_ブルー.jpeg,x=35)|Relax|&b(){NECK COOLER(BLUE/PINK)}&br()ネッククーラー(ブルー/ピンク)|3,000円|菓子谷 尋||
+#table_zebra(#F8F8F8,#FFFFFF,#EEEEEE)
+#endregion
+//日付はRegisterProduct登録日、不明なものは配信上初登場日。
+
+**沿革
+***2023年
+#table_style(head=center)
+#table_filter(){備考=hide}
+|~日付|~出来事|~備考|h
+|23/06/07|市長に薬局開設の許可をとる||
+|23/07/12|｢KASHIYA PHARMACY｣開店||
+|23/12/24|閉店（正確な閉店日時は不明）。同店舗にて居抜きで[[ヤク薬局]]が開業||
+#table_zebra(#F8F8F8,#FFFFFF,#EEEEEE)
+
+#right(){&link_up(🔝ページTOPへ)}

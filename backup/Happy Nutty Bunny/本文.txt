@@ -1,0 +1,135 @@
+&image(ストリップバー.jpeg,y=300)
+
+#table_color(#E0E0E0)
+|~店名|Happy Nutty Bunny|
+|~業種|ストリップバー(GENTLEMAN'S CLUB)|
+|~開業日|2023年01月24日|
+|~閉店日|2025年08月21日|
+|~所在地|9047番地|
+|~店長|[[ジャムリーヌ　バルサミコス]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・店舗名称は"Happy Nutty Bunny"。(旧名称"VANILLA UNICORN")
+
+**閉店
+#region(2025/08/22 2:57 TwiXのツイートにて)
+&image(Happy Nutty Bunny_閉店.png)
+#endregion
+
+**従業員情報
+***従業員
+#region(,open)
+#table_style(head=center:#E0E0E0)
+|~役職|~名前|~就職日|~備考|h
+|ママ|[[ジャムリーヌ　バルサミコス]]|2023/01/24||
+|店員|[[えびな　ヨネ]]||正式役職か不明だが、[[ジャムリーヌ　バルサミコス]]に「副店長」と呼ばれたことがある|
+|店員|[[江夏　巡]]|2023/06/02||
+|店員|[[エド・エトワール]]|2023/07/31||
+|店員|[[黒崎　ダイ]]|2023/08/04||
+|店員|[[淀川　てるみ]]|2023/08/15||
+|店員|[[三下　ザコ]]|2023/08/15||
+|店員|[[米俵　カケオ]]|2023/08/20||
+|店員|[[モーガン・フリーザン]]|2023/10/23||
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+※就職日等を詳しい方が居ましたら情報求む
+#endregion
+
+***退職者
+#region(,open)
+#table_style(head=center:#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[メアリー　ディクソン]]|2023/01/24||[[ママ>ジャムリーヌ　バルサミコス]]と共に開業したが、"やらなくちゃいけない事がある"と&br()初日以降出勤せず、[[ケイティ>>ケイティ　ブロッサム]]と共に退職(4/25)|
+|[[ケイティ　ブロッサム]]|2023/01/25||※[[メアリー>メアリー　ディクソン]]と同様|
+|[[にし　のん]]||2023/08/01||
+|[[ヘラシギ]]|2023/06/22|2023/08/04|Barを開くために下積みとして就職。Barの開店準備のため退職|
+|[[ユッチー　トラサルディー]]|2023/05/07|2023/05/18|犯罪行為で店に迷惑をかけないよう、[[ジャムリーヌ　バルサミコス]]に挨拶して退職|
+|[[ボア　セニャコック]]||2023/09/06||
+|[[黒井　愛]]||||
+|[[天近　くるみ]]|2023/08/07|2024/02/07|コスメショップ【[[Merry&Belle]]】の就職に伴い退職|
+|[[Kohana　Lami]]|2023/08/02|2024/02/09||
+|[[えぐち　きの子]]|2023/05/26|2024/05/17|車への知見を更に深める為ディーラー就職を目指し退職|
+|[[家好　にーと]]|||ギャングになったためジョブ枠の都合で退職(2024/08/31)|
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+//***職業体験者
+//#region(,open)
+//#table_style(head=center:#E0E0E0)
+//|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd||
+//#table_autoincrement()
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//#endregion
+//
+**商品情報
+・詳細募集中
+//***オリジナル商品
+//#region(,open)
+//#table_filter(){No.=show,種類=show,価格=show,提供開始日=show,登録者=hide,備考=show}
+//#table_style(head=center:#E0E0E0)
+//|~No.|~種類|~商品名|~価格|~提供開始日|~登録者|~備考|h
+//|1|種類|商品名|価格|yyyy/mm/dd|[[名　前]]|備考|
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+//#endregion
+//
+//***レギュラー商品
+//#region(,open)
+//#table_filter(){種類=show,価格=hide,備考=show}
+//#table_style(head=center:#E0E0E0)
+//|~種類|~商品名|~価格|~備考|h
+//|種類|商品名|価格|備考|
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+//#endregion
+//
+
+***メニュー画像
+#region(24/01/05【ストグラ内ツイートより】,open)&bold(){24/01/05【ストグラ内ツイートより】}
+&blankimg(HNB_Menu_.png,x=640,y=340)
+#endregion
+
+**沿革
+***2023年
+#region(開く)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|23/01/24|開業|[[ジャムリーヌ　バルサミコス]]/[[メアリー　ディクソン]]/[[ケイティ　ブロッサム]]||
+|04/19|一日店長「プリンセスバー」開催|[[まりー　あんとあー]]||
+|07/24|ズズお笑いライブ開催|[[キングスターダイヤモンド　ズズ]]||
+|12/19|ストリップバー店員の得意料理を当てるクイズ大会を開催||賞金は1億円|
+|12/29|謎解きゲーム「爆弾魔からの挑戦状」をリリース|[[ジャムリーヌ　バルサミコス]]||
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//
+***2024年
+#region(開く)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|mm/dd|出来事|関係者|備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//
+***2025年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|07/15|謎解きゲーム「天文学博士からの挑戦状」をリリース&link2(📋,https://x.com/STGR_RolePlay/status/1945077506509562168,title=ストグラ運営Xポスト,target=blank)|[[ジャムリーヌ　バルサミコス]]||
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+#right(){&link_up(🔝ページTOPへ)}

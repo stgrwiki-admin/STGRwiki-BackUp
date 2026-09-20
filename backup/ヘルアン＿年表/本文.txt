@@ -1,0 +1,108 @@
+＜[[ヘルアン]]ページ　あらすじ欄　編集案＞
+※リンク欄にYoutubeのまとめ動画へのリンクを挿入しているのですが、バグなのか表示されていません。（編集プレビュー画面では確認可能）
+
+//元のあらすじ欄の1行目を「出来事」の列に、2行目(1段落下がっている分)を「詳細」の列に配置した編集案です。
+//「詳細」欄は、文字サイズ90%・横幅50文字固定。
+//表の改善案等があれば、お願いいたします。
+//
+//最終編集は、includeプラグインによる取り込みではなく、親ページに直接挿入する形で行いたいと思っています。
+//このページは次月以降の日別エピソードページとして再利用できれば…。
+//
+
+#div(width=330px,bgcolor=#B56BFF){&size(18){&color(#d8d8d8){&space()&space()&icon_fa(fa fa-twitch)&space()&space()&bold(){2023年}}}}
+
+#table_style(){詳細=90%}
+#table_filter(){日付=show,リンク=show,出来事=show,詳細=hide}
+|~&color(#7d4aaf){日付}|~&color(#7d4aaf){リンク}|~&color(#7d4aaf){出来事}|~&color(#7d4aaf){&size(110%){詳細}}|
+|08/13|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=1Pya06--fXQ]]|ロスサントスに降り立つ||
+|08/19||警察体験を開始||
+|09/01|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/Z-4YH2weEkA?si=r4IZD6D5iOjLzRJI]]|警察不採用通達を受ける||
+|09/03||[[Project Y]]に就職||
+|09/05||[[七瀬　ぜろ]]に教えてもらい、初犯罪(銀行強盗)をする||
+|09/12|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/Uq-slKhkepk?si=W8S7Gi5OCw_rQNVI]]|ALLINに加入||
+|10/01||加入後初めての抗争、対[[餡ブレラ]]||
+|10/04&nbsp(br,3)∼&br()10/07|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/BnJ1WMmszvk?si=VGARAtOX0lJtJeLh]]|お世話になった二人にプレゼント|RBにはネオンを、ジャーク武士にはロングフィンをプレゼントした。|
+|10/05||PYスプレー事件|　プリズン収監後に警察がアジト周辺のスプレーを大量に消したことから、ProjectY周辺で警察との銃撃戦が始&br()まる。公務員のパキちがいる中始めてしまったことや、パキちを連れた皇帝がProjectY内に入っていったことで&br()揉める。警察のスプレー消し自粛や、警察がProjectYを利用しなくなることによるPYの売上問題など後に尾を引&br()く結果となってしまった。&nbsp(br,4)ヘルアンはALLIN側の人間としてジャーク武士と警察の話し合いに参加したが、ALLIN内で問題解決のために&br()もっと話し合えたのではないか、ProjectY社員としてできることがあったのではないかと考えるようになった。|
+|10/13||犯罪アップグレード|　ブラックマネーの導入、新犯罪の登場などで犯罪の難易度が上がり検証の日々に。また他ギャングとの合同ミ&br()ッションが盛んに。ボスからIGLを任されるようになり期待に応えたいと意気込みを新たにする。|
+|10/15||ALLIN3期生候補探しを開始|　ALLINに新メンバーを加入させることになる。ヘルアンはサバゲーで会った椎花まほを候補として推薦し、犯&br()罪を教えていくことに。|
+|10/18||ALLIN新体制|　2期生からアンダーボスとして千代田と月見が選出される。ヘルアンはRBのような検証や作戦立案でALLINの力&br()になってほしいと言われる。|
+|10/20||職業限定特別市民の[[香月　ろぎあ]]を街案内|　かねてから約束していた街案内を決行。ろぎあが行きたいという場所、案内したいと思っていた場所を1つ1つ&br()回るうちに7時間があっという間に過ぎていく。忙しい日々の中で羽を伸ばす機会になると同時に、「ヘルアンさ&br()んは悩みを抱えて人に頼らない」というろぎあの言葉が胸に突き刺さったヘルアンなのだった。|
+|10/27||いたずら電話をしたことをきっかけに、ろぎあと疎遠になる||
+|10/23&nbsp(br,3)∼&br()11/01||3期生（安城、椎花、天草）の加入|　3期生がよく相談し合ったり、考えを共有し合ったりしていることを聞いて感心すると共に、自分たちのコミュ&br()ニケーションの少なさについて悩むようになる。「仕事以外のことも話した方がいいですよ」ろぎあからのアド&br()バイスを受けて、隠していたろぎあとの関係など世間話の機会を増やすようになる(11/15)|
+|11/04|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/rdYT2JnNo0M?si=8dQSxoAbpF-Y-Tn0]]|[[香月　ろぎあ]]と仲直り、想いを告げる|　店員と客の関係に戻ることで合意し、変装をして閉店時間近くに店を訪れては、たわいもない世間話に花を咲&br()かせたり、家族のことを相談したりする日々を送るようになる。|
+|11/05||ハウジングアップデート|　ヘルアンも個人拠点や、白井との共同基地を購入。薬精製と売却を始めたこともあり薬の素材や個人犯罪用の&br()道具を置くための場所として使用する。|
+|11/23&nbsp(br,3)∼&br()11/30|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/RoxXcgZi6WU?si=Uzjeef8K5AmWYi2j]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/13S4HM0Oaxg?si=nnRjZFlgxQqSrFzZ]]|薬乃姉妹（11/23）、RB（11/30）の久々の起床|　長く眠りについていた薬乃姉妹やRBの起床に嬉しさで感極まる。薬乃みみから「今のALLINは雰囲気がいい、&br()起きてきたくなる」と聞いて頑張ってきて良かったと感じるヘルアンだった。|
+|11/25||PY卒業宣告|　[[ルウ　ギャラクティカ]]から、[[Project Y]]の新社長になることを聞く。それに伴いPYの経営方針を変え、ギャング&br()と公務員にProjectYを退社してもらうことを告げられる。ギャングメカニックとしての立場が失われることに落ち&br()込むヘルアンだったが、ボスの言葉に救われる。|
+|11/29||PY全体会議・廃業通達を受ける|　[[Project Y]]全体会議にて、[[ジャーク　武士]]から、PYが街の歪みになっているため廃業することが発表される。以&br()前のルウの話から一転、第二の居場所であったPY自体が失われてしまうことに。車を触るメカニックの仕事が楽&br()しいから可能であれば続けたいと考え、新メカニックの開業を考える[[上田　さん]]の相談に乗ったり、不二子・キ&br()ャスパーから話を聞く。|
+|12/02||[[CPU]]に犯罪を教え、4期生として[[ALLIN]]に引き入れる||
+|12/05&nbsp(br,3)∼||街に雪が降る|誰も起きてこないチルの中滑らない車を探して検証を続ける。四輪駆動車の信者になる。|
+|12/10&nbsp(br,3)∼||集団旅行による幹部含めた複数メンバーの不在期|　倉庫番を受け持つようになる。また、大型ミッションでは普段しない配置にチャレンジしようということにな&br()り、ヘリ担当に挑戦し、改めて椎花や白井の凄さに気づかされる。|
+|12/12||坂柳陣平にパレト銀行強盗を教えてもらう|最初は大金庫の開錠に四苦八苦したが、3回ほどで一発開錠できるように。個人収入の増加に大きく貢献する。|
+|12/23|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/CLnWWxdHVpA?si=ls2ybjPGXgrFBh6n]]|[[香月　ろぎあ]]とお付き合いを始める||
+|12/25|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/ggw_OAHwcrE?si=eWoui8a7IITPSy1i]]|クリスマスデート||
+#table_zebra(#f7f7f7,#ffffff,#cccccc)
+
+#div(width=330px,bgcolor=#B56BFF){&size(18){&color(#d8d8d8){&space()&space()&icon_fa(fa fa-twitch)&space()&space()&bold(){2024年}}}}
+
+#table_style(){詳細=90%}
+#table_filter(){日付=show,リンク=show,出来事=show,詳細=hide}
+|~&color(#7d4aaf){日付}|~&color(#7d4aaf){リンク}|~&color(#7d4aaf){出来事}|~&color(#7d4aaf){&size(110%){詳細}}|
+|01/02|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/hMeuKK2Wts8?si=RGLNjjS1A2GWLY0A]]|初詣デート||
+|01/10|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/cOqlSdQ2iEI?si=AqLoODKWT1CMM0tE]]|GBCとのレース抗争が決まる|　マックと無馬が舌戦し、4対4のレースで抗争をすることに。練習のためにCPUや月見とレースに参加するように&br()なり、レース用にパラゴンを購入した。また、同時期にレース専門を謳うメカニック[[9055]]主催のレースに上田さ&br()んに誘われて参加するようになり、難解なコースのレースを楽しむようになる。|
+|01/16&nbsp(br,3)∼||新人探し開始|夢の用事で起床するALLINメンバーの人数が減り、ボスから新人と個人医が欲しいという話が出る。ヘルアンは&br()3時以降カジノやサバゲーに出向くようになり、その中で出会った[[イナ　イロハ]]、[[風見　セオ]]に目をつける。二人&br()と交流していく中で進路に悩む二人の相談に乗るようになる。|
+|01/18|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/FL0qPpYZZgM?si=0not-e4kxv8DcmWF]]|AKAが久しぶりに起床|　大きく変わったALLINの現況を説明。「タメ口でいいよ」と言われ、ためらいつつも呼び捨て・タメ口で話すよ&br()うになる。|　
+|01/20||Selluとお別れ||
+|01/22||メカニック免許制|メカニックの免許制とそれに伴う法改正により犯罪者がメカニックを続けることが難しくなる。不二子のメカ&br()ニックが方向転換を余儀なくされる中、ヘルアンは不二子と話をし続ける意思を伝えた。|
+|01/25|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/aMpISJQhPKg?si=qUvuOMCbD1SEsgCN]]|ボスの指示で、パシフィック銀行強盗のギミックに初挑戦||
+|01/30||ゆきんことお別れ|　1月はALLINメンバーが二人去り、街の同期であるぎゃるみも去ったことで奇しくも別れの多い月になった。&br()1/14に雪から1月末で街を去ることを聞いたヘルアンは、安城に街を案内するよう説得したり[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/s28jLQhK6oU?si=-njh74luCr3jaXvu]]、雪のお願い事を&br()受けて、ろぎあ、安城、雪とのVioletFizzでの食事会を企画する[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/bJdON02rhfY?si=04QW7BYEsS-38cRf]]。互いに思い合っている様子の安城と雪の仲を&br()応援し、安城が思いを告げた時には祝福した。[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/V9j9fvRFdBg?si=omVIzO10IsqIot3R]]|
+|01/31||[[Project Y]]閉店|　ProjectY閉店セレモニーに参加する。最後まで"問題児"らしく、社長らに許可を得たうえで店前にグレを投げ&br()込み、PYを立ち去った。|
+|02/01||[[不二子>不二子　キャスパー]]の新会社、闇メカニック[[Glare Gem]]に就職||
+|02/08||[[風見　セオ]]に初犯罪：銀行強盗を教える|　その後も、日々のチェイス練習や半グレ(？)合同の宝石店強盗(2/10)[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/s2z7DTN5_vM?si=BKMBFhpurv9B1oHl]]などでセオに黒い道の手引きをする。&br()2/12には、いずれは憧れるヘルアンの組織に入りたいと言われ、ALLIN加入志望の意思を受け止めた。[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/ur3flIMAjlE?si=QQ1EYbS3al6SO-8Z]]|
+|02/14|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/D_j1nbepWRQ?si=w99B9bmFWQpmaBlb]]|バレンタインデー|[[香月　ろぎあ]]からヘルアンモチーフの練り切りをもらい、ヘルアンからは薔薇を5本プレゼント。|
+|02/17||[[月見　結]]がALLINを脱退||
+|02/28||GG北支店で他の従業員が職質を受けている場面に遭遇|以降も、大型犯罪時に手持ちのメカニック道具について聞かれるなど、闇メカニックに対する警察の捜査が本&br()格化。|
+|03/01|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/I-nO5VpmRjI?si=WZZOAzNKM7QwtzCD]]|GG本店がオープン||
+|03/03&nbsp(br,3)∼&br()03/05|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/aQIoPGUE_VU?si=l2E9FBsEt4WLnpVf]]|[[香月　ろぎあ]]の誕生日に特別なプレゼント|　誕生日当日には、[[BIG SUZUKI]]にカスタム依頼し、自身も何度も確認した上でろぎあイメージの緑色を塗装して&br()もらったフロガーを。さらに2日後には、宝石店[[BULUE MOON]]で購入したアクアマリンの指輪をプレゼン&br()トした。|
+|03/05||[[無馬　かな]]から推薦を受け、ALLINのアンダーボスに就任||
+|03/14|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/GWwzPaZL0So?si=2kp3giXIvacdBVe_]]|ホワイトデー|　ろぎあからヘルアン専用の煙管と煙草入れをもらい、ヘルアンからは物産展のホワイトデー限定品などを集め&br()たボックスをプレゼント。|
+|03/19||警察署襲撃&無馬がALLINを離反||
+|03/24|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/0D4Kr_keIEE?si=hoLs65ye7OFijGyX]]|対GBCレース抗争||
+|03/26|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/cSKa53Agcrc?si=gv76M9j2e42NrVXj]]|ろぎあと同棲開始||
+|04/01||シャッフルパージデー|　&font(red){※エイプリルフールイベント}　警察、SWATとして勤務開始[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=Q8mp4ZLNxO8]]。大型対応やコンビニ強盗対応もする。[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=fWMZ2HdvgZU]]&br()小型対応や市民対応を行う[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=uPS4ipuPK84]]。MOZUのろぎあと遭遇するなど忙しい一日を終え、思い出の場所をきっかけに&br()だんだんと夢から覚める。[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=Z8NUnLkL4ZE]]|
+|04/04||[[三否亭　四五六確]]から素材専売終了の相談||
+|04/05|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=4hKqDCX6Uz4]]|個人医となった[[無馬　かな]]との再会||
+|04/10||ボスに同棲報告||
+|~||[[三否亭　四五六確]]のALLIN体験開始||
+|04/11||[[加藤　圧]]から新薬Project Bを受け取る。||
+|~|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=YbVgrIR4Ivg]]|[[うさぎさん>山田　パルコ]]を自宅へ招く||
+|04/12||ALLIN会議||
+|04/13|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=NKHRCcZZTCA]]|[[鳥羽　咲夜]]が自宅へ訪れる||
+|04/18||BAR「Violet Fizz」で[[福田　明宏]]の記憶喪失事件の解決||
+|04/21|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=A_xAg8hk-yg]]|[[三否亭　四五六確]]がALLINに加入。ヘラシギへの報告。||
+|04/24|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=8n2Nwt02oEk]]|イベント「らびすぴ運動会」に参加||
+|~|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=F9iy5ag8ukw]]|誕生日を祝ってもらう|[[香月　ろぎあ]]から[[Wanksy Manksy>白井　満太]]作のイラストをもらう。&br()[[千代田　ヨウ]]、[[エスターク・Z・ダークネス]]から車をもらう。|
+|04/28||[[ヘラシギ]]が一時帰国。||
+|~||[[五十嵐　えいむ]]から車をもらう||
+|05/02||ダークチャット「♯Arcana」に参加||
+|05/03||[[タマーチ　ニキタ]]のALLIN体験(傭兵)開始||
+|05/05|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=ctzuDCq05SY]]|シマリセットが行われるとの告知|　市長により全ギャングボスに招集がかかり、チヨが代理で出席。シマリセット、シマ取り、薬の売買、貢献値、&br()特殊シマなど新ルールをメンバーと聞く。|
+|05/09||救急隊の犯人護送に関する法改正|　[[千代田　ヨウ]]、[[五十嵐　えいむ]]と一緒に[[月ノ島　ごう]]から新アジトで話を聞く。救急隊の[[命田　守]]によると、&br()救急隊が警察官の近くにいる犯人をピックすることを容認すると市から通達があったらしい。[[ALLIN]]としては救急&br()隊に対して威嚇射撃をするなど、牽制するように動くと決める。|
+|~|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=WznqfQ6IfkY]]|個人医の「お抱え制度」が廃止されることになると知る||
+|~||[[月ノ島　ごう]]から[[車両協会]]が解体されると説明がある||
+|05/10|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=2Z61KADFm1Q]]|[[鬼野　ねね]]と[[無馬　かな]]が自宅に訪れる||
+|05/14|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=IQJEiBNg9lQ]]|シマリセット、シマ取り1回目|薬を売るシステムに変更後初のシマ取り。[[ALLIN]]は街の南東部のシマをすべて占有することになった。|
+|05/17||シマ取り2回目。メカニックをしている[[みこだ　よう]]に会う||
+|05/21||新薬「バタフライ」を受け取る||
+|05/22|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=fZdR0A4hALA]]|シマ取り3回目、闇メカニックとして参加。||
+|~||レギオンで半グレになった[[みこだ　よう]]に遭遇||
+|05/24||ギャング会議に参加||
+|05/26||戦闘服がタンクトップに変更されていた。||
+|~||[[ペトロ　アルドベッグ]]の占いに行く||
+|05/29&nbsp(br,3)∼&br()05/30|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=h_FvJnzySf0]]|[[concellge]]が解散。元concellgeの[[まい　にい]]・[[芳賀　ノエル]]・&br()[[黒亜　ネマ]]、元警官の[[みこだ　よう]]がALLINに加入||
+#table_zebra(#f7f7f7,#ffffff,#cccccc)
+
+//内容はほぼそのままですが、年表にするにあたり、10/15&10/18の分割、1/10の詳細部分改変、1/20&1/30の分割などを行いました。
+//5/9 1段目は1行目だけでは内容が捉えづらかったため、元の文は詳細欄に、出来事欄は仮に「救急隊の犯人護送に関する法改正」としました。
+//また、最近更新してくださったものの中で出来事欄が長くなってしまうものがいくつかあったのですが、5/3・5/9 2段目はそれぞれより簡単なものに変更してもよろしいでしょうか？
+//
+//(2025/1/2 enderliye)作成ありがとうございます！レイアウトとてもいいと思います！Youtubeのリンクはこちらでも見えています。変更内容ＯＫです。

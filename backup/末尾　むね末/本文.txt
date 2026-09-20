@@ -1,0 +1,158 @@
+&image(むね末_初期.png,y=500)
+
+//ここからプロフィール
+#table_color(#ccffcc)
+|~名前|&ruby(まつび){末尾}　むね&ruby(まつ){末}|
+|~出身地|日本（北海道）|
+|~誕生日|2001年07月24日 (&countup(2001/07/24,y)歳)|
+|~転入日|2023年08月11日 (&countup(2023/08/11,yd))|
+|~職業|BAR「[[Violet Fizz]]」店員&br()&s(){木こり}|
+|~プレイヤー|無音|
+|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/Seri_Mune]]|
+|~配信場所|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/munesandayo]]|
+
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+*基本情報
+・末尾家の三男。六人兄弟。&br()兄弟の名前は、長男：はや末、次男：うる末、三男：むね末、四男：週末、五男：後始末、六男：あざらし、である。
+・兄弟を置いて1人でこの街に来た。
+・引きこもり期間が長かったため、年齢は大体でしか把握しておらずよく忘れている。
+・車の運転は上手だが、良くぶつけている。
+・[[Violet Fizz]]の[[店長>ヘラシギ]]と[[副店長>福田　明宏]]&s(){からよく笑われて}をよく笑わせているマスコットキャラ。
+
+***&underdot(#66cdaa,3px){変装情報}
+#region(開く)閉じる
+--------------------------------
+#div(width=173px,bgcolor=#ccffcc){&size(14){&space()&bold(){井上 陰水&font(10){&space()(いのうえ いんすい)}}}}
+&font(20px,#66cdaa){●&space()}年齢は60歳。
+&font(20px,#66cdaa){●&space()}出会う人に少年時代の話を振る。
+&font(20px,#66cdaa){●&space()}良い流れになるか、歌えますか？と話を振ると歌を披露してくれる。
+&font(20px,#66cdaa){●&space()}『末尾 むね末』とは名前の字面的に仲良くなれないらしい。
+&font(20px,#66cdaa){●&space()}歌で稼いでるらしいが、サブなので無料で歌を披露することも多い。
+--------------------------------
+#div(width=290px,bgcolor=#ccffcc){&size(14){&space()&bold(){ロスサントスのカリスマ&font(10){&space()(ロスサントスのかりすま)}}}}
+&font(20px,#66cdaa){●&space()}ロスサントスの住人全員の先輩にあたる、レジェンドカリスマだ。
+&font(20px,#66cdaa){●&space()}カリスマだから人は決して殴らない。
+&font(20px,#66cdaa){●&space()}カリスマリンクをすることで、次回会った時にリンクされた人もカリスマに近づく。
+
+&big(){&strong(){何故かって？ ロスサントスのカリスマだからだ。}}&br()&small(){&color(#cccccc){(気になった方は「アジアのカリスマ」を検索)}}
+--------------------------------
+#div(width=178px,bgcolor=#ccffcc){&size(14){&space()&bold(){ムララギ 暦&font(10){&space()(むららぎ こよみ)}}}}
+&font(20px,#66cdaa){●&space()}この街には怪異を追ってやってきた。この街で起きる歪みは怪異のせい。
+&font(20px,#66cdaa){●&space()}パチンコ好きな男性が熱くなれる言葉を口にする。&color(#cccccc){(『7を狙え！』)}
+&font(20px,#66cdaa){●&space()}合わせを出来る相方を募集中。
+--------------------------------
+#div(width=163px,bgcolor=#ccffcc){&size(14){&space()&bold(){黒沼 闇子&font(10){&space()(くろぬま やみこ)}}}}
+&font(20px,#66cdaa){●&space()}この街ではないが、元カレ5人全員を○した。
+&font(20px,#66cdaa){●&space()}ずっと一緒にいてくれないとヤダ。
+&font(20px,#66cdaa){●&space()}すぐ男を好きになる。私から離れてく男はみんな、○しちゃうヨ。
+--------------------------------
+#div(width=165px,bgcolor=#ccffcc){&size(14){&space()&bold(){ポメラニ 闇&font(10){&space()(ぽめらに あん)}}}}
+&font(20px,#66cdaa){●&space()}どこかで聞いたことある声をしてる。
+--------------------------------
+#div(width=255px,bgcolor=#ccffcc){&size(14){&space()&bold(){ムネファルガー HIGH&font(10){&space()(むねふぁるがー はい)}}}}
+&font(20px,#66cdaa){●&space()}前の街では『ハート医療団』というところで医者をやっていたが、色々な諸事情でクビになったらしい。
+&font(20px,#66cdaa){●&space()}ロスサントスでもゆくゆくは医療従事者になりたいと思っている（が、悪いこともしたいので闇医者も視野に入れている）
+&font(20px,#66cdaa){●&space()}[[ルーファス　ウィルキンズ]]とは（ホテルオーナー時代からの）知り合いである。
+&font(20px,#66cdaa){●&space()}&del(){犯罪を行うときはムネファルガー HIGH}
+&font(20px,#66cdaa){●&space()}&del(){ダサいため}ロスサントスにて様々な人と出会ったことで白くあろうと考えるようになった。今後再びこの姿となる日がくるのかは不明
+//------------------------------
+#endregion
+
+*エピソード
+#include(末尾　むね末/エピソード1)
+
+-------------------------------
+&font(11){各エピソードページ}
+&font(11){[[2023【8月～12月】2024【1月・9月】>>末尾　むね末/エピソード1]]}
+*アーカイブ
+&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/munesandayo]]のアーカイブは視聴期限60日間の為、ご注意下さい。
+***&underdot(#66cdaa,3px){2023年}
+#region(8月)閉じる
+#table_style(head=center:#ccffcc){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/08/11|#1|[[初心者の1日目>>https://www.twitch.tv/videos/1895916582]]|・ルーファスさんに街案内をしてもらう|
+|2023/08/15|#2|[[day2【末尾むね末】免許を取りに行こうか>>https://www.twitch.tv/videos/1898612460]]|・普通自動車免許を取得しにいく|
+|2023/08/15|#3A|[[day3【末尾むね末】バイト＆釣り>>https://www.twitch.tv/videos/1899316786]]|・建設バイトと釣りをする|
+|2023/08/15|#3B|[[day3 続き【末尾むね末】バイト＆釣り>>https://www.twitch.tv/videos/1899437908]]|・ひたすら釣りをする|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//-------------------------------------------
+#region(9月)閉じる
+#table_style(head=center:#ccffcc){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/09/04|#4|[[day4 【末尾むね末】リハビリ>>https://www.twitch.tv/videos/1916140882]]|・[[Violet Fizz >>https://w.atwiki.jp/streamergta5/pages/645.html]]で働き始める|
+|2023/09/05|#5|[[day5 【末尾むね末】車買って働く>>https://www.twitch.tv/videos/1916958291]]|・店長の為にノースリーブの制服を購入|
+|2023/09/11|#6|[[day6【末尾むね末】出金した後、車買えればいいな！>>https://www.twitch.tv/videos/1921995406]]|・普通自動車を購入|
+|2023/09/13|#7|[[day7 めっちゃ少しだけ働く！初心者マーク取る!!>>https://www.twitch.tv/videos/1923688636]]|・はしるちゃんに出会う|
+|2023/09/14|#8|[[day8 働きながら考える>>https://www.twitch.tv/videos/1924420918]]|・牧場の職業体験|
+|2023/09/15|#9|[[day9 めちゃくちゃ少しかもしれない>>https://www.twitch.tv/videos/1925254182]]|・木こりになる|
+|2023/09/16|#10|[[day10 店長に怒られるかもしれない>>https://www.twitch.tv/videos/1927013091]]||
+|2023/09/17|#11A|[[day11 22時までぶらぶら→22時ツイキャス→23時半Twitch>>https://www.twitch.tv/videos/1927805938]]||
+|2023/09/17|#11B|[[day11 少しだけ？>>https://www.twitch.tv/videos/1928038547]]||
+|2023/09/18|#12|[[day12 ロスサントスのカリスマ>>https://www.twitch.tv/videos/1928644329]]||
+|2023/09/19|#13|[[day13 今日も清く真っ白で>>https://www.twitch.tv/videos/1929565128]]||
+|2023/09/20|#14A|[[day14 この時間なんで日課だけ>>https://www.twitch.tv/videos/1930537714]]||
+|2023/09/20|#14B|[[day14 この時間なんで日課だけ>>https://www.twitch.tv/videos/1930615178]]|・2:00:00付近以降タルコフ配信|
+|2023/09/21|#15|[[day15 【末尾むね末】この時間なんで日課だけ>>https://www.twitch.tv/videos/1931346713]]|・4:34:15～ スクラップさんと雑談。&br() その後VALORANT配信|
+|2023/09/22|#16|[[day16 【末尾むね末】街清掃からなんかする>>https://www.twitch.tv/videos/1932129313]]|・6:35:00付近以降タルコフ配信|
+|2023/09/24|#17|[[day17 【末尾むね末】スーパー少しくん>>https://www.twitch.tv/videos/1934171432]]|・2:00:00付近以降タルコフ配信|
+|2023/09/25|#18|[[day18 【末尾むね末】よっぱらいday>>https://www.twitch.tv/videos/1934847927]]||
+|2023/09/26|#19|[[day19 【末尾むね末】たまには早番>>https://www.twitch.tv/videos/1935528906]]||
+|2023/09/27|#20|[[day20 【末尾むね末】早de>>https://www.twitch.tv/videos/1936353786]]||
+|2023/09/29|#21A|[[day21 【末尾むね末】22時までまったり>>https://www.twitch.tv/videos/1938037109]]||
+|2023/09/29|#21B|[[day21 【末尾むね末】すでにねむさの限界>>https://www.twitch.tv/videos/1938212745]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//-------------------------------------------
+#region(10月)
+#table_style(head=center:#ccffcc){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/10/03|#22|day22 【末尾むね末】今日はVFで遊ぶらしい|配信のみのためアーカイブなし|
+|2023/10/17|#23|[[day23 【末尾むね末】二週間ぶりのストグラ>>https://www.twitch.tv/videos/1953318769]]||
+|2023/10/21|#24|[[day24 【末尾むね末】少しだけ！！文化祭気になる>>https://www.twitch.tv/videos/1956590388]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//-------------------------------------------
+#region(11月)
+#table_style(head=center:#ccffcc){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/11/19|#26|[[day26【末尾むね末】久々の起床、店長の誕生日>>https://www.twitch.tv/videos/1981652106]]|[[店長>>ヘラシギ]]の誕生日祝い|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//-------------------------------------------
+#region(12月)
+#table_style(head=center:#ccffcc){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/12/13|#27|[[day27【末尾むね末】久しぶりの起床からの面談>>https://www.twitch.tv/videos/2003023115]]|久々の起床&br()オリジナルカクテルの確認|
+|2023/12/23|#28|[[day28 眠くなるまでなんかするぅ>>https://www.twitch.tv/videos/2011014624]]||
+|2023/12/24|#29|[[day29 クリスマスメニューがでたらしい>>https://www.twitch.tv/videos/2012685279]]|[[Violet Fizz]]でクリスマスイベント|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//-------------------------------------------
+***&underdot(#66cdaa,3px){2024年}
+#region(1月,open)
+#table_style(head=center:#ccffcc){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2024/01/30|#30|[[day30  久々でイベントって俺の筋肉は動くのか>>https://www.twitch.tv/videos/2048019702]]|[[Violet Fizz]]で執事喫茶イベント|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//-------------------------------------------
+
+*ストグラ外コラボ
+#region(open)
+#table_style(head=center:#ccffcc){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/11/07|1|[[VFストグラ外コラボ>>https://twitcasting.tv/seri_mune/movie/780418413]]|【コードネーム】&br()無音 / [[ウッド>龍造寺　ケンシロウ]] / [[スクラップ>ヘラシギ]] / [[takera>髭野　たけーら]]&br()[[高垣>坂柳　陣平]] / [[桃+>桃園寺　紀土]] / [[ファロ>福田　明宏]] / [[ゆゆし>あらい　ゆう]]|
+|2024/02/05|2|[[【マーダーミステリー】ムーンな方々／ゲーマー（無音） 視点>>https://twitcasting.tv/seri_mune/movie/786630802]]|【マーダーミステリー】&br()無音 / [[スクラップ>ヘラシギ]] / [[高垣>坂柳　陣平]] / [[ファロ>福田　明宏]] / [[やみえん>ヤミー　エンデバー]]|
+|2025/01/15|3|[[【#VFヒロイック】ウルトラヒロイック 前編 || PL：ウッド、スクラップ、無音、やみえん【エモクロアTRPG】>https://www.youtube.com/watch?v=29A3bFotiVs]]|【エモクロアTRPG】&br()無音 / [[ウッド>龍造寺　ケンシロウ]] / [[スクラップ>ヘラシギ]] / [[やみえん>ヤミー　エンデバー]]|
+|2025/01/24|4|[[【#VFヒロイック】ウルトラヒロイック 後編 || PL：ウッド、スクラップ、無音、やみえん【エモクロアTRPG】>https://www.youtube.com/watch?v=bb016U2lV-k]]|~|
+|2025/05/10|5|[[【スクラ主催】飲み会しようよ！【桃+/無音/牡丹/あずきもなか】>>https://www.youtube.com/watch?v=fU0OtHIXDnk&t=8s]]|【飲酒雑談】&br()無音 / [[スクラップ>ヘラシギ]] / [[牡丹>ボタリン　モンロー]] / [[あずき もなか>小豆　最中]]|
+|2025/05/30|6|[[【DINKUM】#1 スクラさんと初ディンカム！ / 初見さんもゆっくりしていってね！>>https://twitcasting.tv/seri_mune/movie/817156790?t=1]]|【DINKUM】&br()無音 / [[スクラップ>ヘラシギ]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,40 @@
+//&image(ここに画像のURLを入力,y=300)
+
+#table_style(head=#0095d9:#fff){}
+|~店名|~&icon_fa(fa fa-store) |GYOGYO|
+|~業種|~&icon_fa(fa-solid fa-cash-register)|飲食店|
+|~開業日|~&icon_fa(fa fa-calendar-day)| 2025年01月08日|
+|~所在地|~&icon_fa(fa fa-van-shuttle)|移動販売(たまに7282番地)|
+|~店長|~&icon_fa(fas fa-user-tag)|[[イナ　イロハ]]|
+
+**&font(25px,#00AEEF){&icon_fa(fas fa-fish-fins)} 基本情報
+・[[SKE>>菖光エンジニア]]の新店舗オープンに合わせてオープン
+・移動販売がメインで店舗でも提供することがある
+
+**&font(25px,#00AEEF){&icon_fa(fa fa-coffee)} 商品情報
+&image(イロハ商品チラシ.jpeg,X=400)
+&image(メニュー画像_25.7.5.webp,X=400)
+
+&small(){※作成キッチンは[[U FOR U]]}
+#size(90%){{{#table_style(head=center:#2e2930:#ffedab){}
+#table_filter(){種別=show,商品名=show,商品説明=show,備考=show}
+|~種別|~商品名|~商品説明|~備考|h
+|JOINT|さかなスクイーズ|魚は友達。餌じゃない。||
+|DRINK|ふわふわさかなカフェオレ|美味しく飲んでやってください。||
+|DRINK|いちごたっぷりクリームラテ|見た目よりさっぱり！少しお腹も満たされる。||
+|FOOD|たいやきアイスパフェ|強欲の魚の末路。魅惑の和パフェ。||
+|FOOD|目玉焼き？ぱくぱく納豆ご飯|やっぱりこの食べ方が一番おいしい。たまに動きます。||
+|JOINT|blue sea chocolate|海の塩を使った甘じょっぱさが癖になるホワイトチョコ。||
+|DRINK|SKE COFFE|運転お疲れ様です。||
+|FOOD|SKE WHEEL BURGER|おそらくタイヤは練り込まれていないと思います。||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}}}
+
+**&font(25px,#00AEEF){&icon_fa(fas fa-edit)} 沿革
+***2025年
+#size(90%){{{#table_style(head=center:#2e2930:#ffedab)
+|~日付|~出来事|~エピソード・備考|h
+|01/08|オープン|[[SKE>>菖光エンジニア]]の店舗改装に合わせてオープン|
+|07/05|イベント出店|[[ビュッフェ・アミティーステラ]]のオープンを記念して出店|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}}}
+
+#right(){&link_up(🔝ページTOPへ)}

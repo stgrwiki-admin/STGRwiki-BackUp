@@ -1,0 +1,160 @@
+#slide_img(auto=4,width=576,height=324,position=left){輸入商品店_外観1.jpg,輸入商品店_外観2.jpg}
+
+#table_style(head=#E0E0E0){}
+|~店名|~&icon_fa(fa fa-tag)|&ruby(ゆにゅうしょうひんてん){輸入商品店}|
+|~業種|~&icon_fa(fa-solid fa-cash-register)|飲食店|
+|~開業日|~&icon_fa(fa fa-flag)|2025年01月29日&br()&small(){（&countup(2025/01/29,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|&openclose2(show=秘密){（8038番地）}|
+|~代表|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[だん市長補佐]]}|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-別ディメンションから輸入した商品を販売している
+-ショップアイコンがなく、Twixに載せられた写真をヒントに店の場所を探す必要がある
+-食べ物・飲み物・ジョイントそれぞれ10個ずつの購入制限がある
+-主に[[だん市長補佐]]が店を開けている。数人の[[特別参加市民]]が他に飲食店が営業していない時に店を開ける許可を得ている
+
+**従業員情報
+***従業員
+#table_style(head=center:#E0E0E0)
+|~役職|~名前|~就職日|~備考|h
+|[[市長補佐]]|[[だん市長補佐]]|||
+|特別市民|[[山本　寅子]]||他に飲食店が営業していない時に店を開ける許可を得ている|
+|特別市民|[[佐藤　さくら]]||他に飲食店が営業していない時に店を開ける許可を得ている|
+|特別市民|[[美々梨田　ちょりぴ]]||他に飲食店が営業していない時に店を開ける許可を得ている|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#co{
+//***職業体験者
+#table_style(head=center:#E0E0E0)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+//***退職者
+#table_style(head=center:#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+**商品情報
+***レギュラー商品
+#region(開く,open)&bold(){閉じる}
+****Drink
+#region(開く)&bold(){閉じる}
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show,備考=hide}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
+|Drink|クリームぷらねっとソーダ|100,000|2025/01/29|||
+|Drink|プラネットモヒート|100,000|2025/01/29|||
+|Drink|惑星サイダー|100,000|2025/01/29|||
+|Drink|ポリカクテル|100,000|2025/01/29|||
+|Drink|マーガリンビールフロート|100,000|2025/01/29||アルコール入り&br()別の街で[[魔法少女カフェ>RitUal:]]と同じ場所にある店の商品|
+|Drink|青炎のゴブレットドリンク|100,000|2025/01/29|FVディメンションからの輸入商品。&br()店名：magic express cafe[7と5/2番線]&br()勇気や力のあるものが持つと炎が強くなる&br()人や物が燃える火ではないので、&br()飲む際にはやけどなどしない|別の街で[[魔法少女カフェ>RitUal:]]と同じ場所にある店の商品|
+|Drink|かまくら雪景色（酒）|100,000|2025/01/29||アルコール入り|
+|Drink|鱈のあら汁|100,000|2025/01/29||別の街で[[海上レストラン>Urashima]]と同じ場所にある店の商品|
+|Drink|きのこスープ|100,000|2025/01/29|||
+|Drink|抹茶|100,000|2025/01/29|||
+|Drink|緑茶|100,000|2025/01/29|||
+//|Drink|商品名|価格|yyyy/mm/dd|説明|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion(Drink)
+//
+****Food
+#region(開く)&bold(){閉じる}
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show,備考=hide}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
+|Food|なかよしカレー|100,000|2025/01/29|FVディメンションからの輸入商品。&br()店名：Planet.&br()てっどとコッコの仲良しカレー&br()ハンバーグと骨付きチキンでボリューミー満腹になるよ||
+|Food|特製オムライス|100,000|2025/01/29|||
+|Food|紫芋のパンケーキ|100,000|2025/01/29|||
+|Food|黒猫のコーヒームース|100,000|2025/01/29|||
+|Food|天王星パフェ|100,000|2025/01/29|||
+|Food|ガマガエルチョコ|100,000|2025/01/29|||
+|Food|4寮と闇のマフィン|100,000|2025/01/29|||
+|Food|バースデーケーキ|100,000|2025/01/29|||
+|Food|ドロボーモグラのフワフワエクレア|100,000|2025/01/29|||
+|Food|海鮮丼|100,000|2025/01/29|||
+|Food|特上寿司|100,000|2025/01/29||別の街で[[海上レストラン>Urashima]]と同じ場所にある店の商品|
+|Food|熊の手カレー|100,000|2025/01/29|||
+|Food|イノシシソーセージ|100,000|2025/01/29|||
+|Food|ウサギパイ|100,000|2025/01/29|||
+|Food|桜肉|100,000|2025/01/29|||
+|Food|チーズフォンデュハンバーグ|100,000|2025/01/29|FVディメンションからの輸入商品。&br()店名：-Bistro- Bambi&br()チーズたっぷりハンバーグです。|別の街で本店が[[奇肉屋]]、店舗が[[魔女の酒場]]と同じ場所にある店の商品|
+|Food|手毬花|100,000|2025/01/29|||
+|Food|星河一天|100,000|2025/01/29|||
+//|Food|商品名|価格|yyyy/mm/dd|説明|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion(Food)
+//
+****Joint
+#region(開く)&bold(){閉じる}
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show,備考=hide}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
+|Joint|てっどぬい|100,000|2025/01/29|||
+|Joint|1000味ビーンズ|100,000|2025/01/29|FVディメンションからの輸入商品。&br()店名：magic express cafe[7と5/2番線]&br()いろんな味があるよ。&br()ハズレの味もあるから一気に食べるのは注意しよう||
+|Joint|レモンキャンディー|100,000|2025/01/29|||
+|Joint|空飛ぶ150点ボールのキャンディ|100,000|2025/01/29|FVディメンションからの輸入商品。&br()店名：magic express cafe[7と5/2番線]&br()クルミほどの少し大きめなキャンディ。&br()多少口の中で高速で暴れるけど、&br()見失わずゆっくり味わって。|別の街で[[魔法少女カフェ>RitUal:]]と同じ場所にある店の商品|
+|Joint|桜のお香|100,000|2025/01/29|||
+|Joint|金木製のお香|100,000|2025/01/29|||
+//|Joint|商品名|価格|yyyy/mm/dd|説明|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion(Joint)
+#endregion(レギュラー商品)
+//
+***非売品
+#region(開く)&bold(){閉じる}
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show,備考=hide}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
+|-|とら黒飴|-|2025/02/20|おばちゃん監修のど飴。&br()黒砂糖をたっぷり使用したあめちゃん。&br()噛まんと舐めてや～|[[山本　寅子]]が配っている飴|
+//|種類|商品名|価格|yyyy/mm/dd|説明|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+***メニュー画像
+****メニュー
+#region(開く,open)&bold(){閉じる}
+&image(輸入商品店メニュー_20250319.PNG,y=400)
+#endregion(メニュー)
+****商品詳細
+#region(開く)&bold(){閉じる}
+-鱈のあら汁
+#blankimg(輸入商品店_商品詳細_鱈のあら汁_20250319.PNG,width=86,height=128)
+-きのこスープ
+#blankimg(輸入商品店_商品詳細_きのこスープ_20250319.PNG,width=128,height=86)
+-なかよしカレー
+#blankimg(輸入商品店_商品詳細_なかよしカレー_20250319.PNG,width=128,height=86)
+-特上寿司
+#blankimg(輸入商品店_商品詳細_特上寿司_20250319.PNG,width=86,height=128)
+-チーズフォンデュハンバーグ
+#blankimg(輸入商品店_商品詳細_チーズフォンデュハンバーグ_20250319.PNG,width=128,height=86)
+-桜肉
+#blankimg(輸入商品店_商品詳細_桜肉_20250319.PNG,width=128,height=86)
+#endregion(商品詳細)
+
+**沿革
+***2025年
+#region(開く,open)&bold(){閉じる}
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|01/01|プレオープン|[[だん市長補佐]]|[[魔女の酒場]]前で移動販売|
+|01/29|初営業|[[だん市長補佐]]||
+|03/19|山本寅子が初店番|[[山本　寅子]]||
+//|mm/dd|出来事|[[関係者の名前]]|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

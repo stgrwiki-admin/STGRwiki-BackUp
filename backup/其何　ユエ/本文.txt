@@ -1,0 +1,62 @@
+//**プロフィール
+&image(其何ユエ.png,y=400)
+
+&font(b,#008000,20px){「ビッグウェーブに乗ります！」}
+&font(b,#008000,20px){「フィーリングッドですね！」}
+
+#table_style(head=#E6E6FA:#666666){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(それなに){其何}　ユエ|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|1995年5月5日 (&countup(1995/5/5,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年08月19日 (&countup(2025/08/19,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|・[[海上レストラン>>Urashima]]体験（2025/8/19～）|
+|~所属|~&icon_fa(fa fa-users)|-|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@sorenaniyue|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|yue(ASH WINDER CULTURE)|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/64xk]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yue_san]]|
+|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):&icon_fa(fa fa-user-plus)|&small(){&openclose2(show=※ネタバレ注意){&br()[[悠　えん]]}}|
+
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-日本で海水浴していたら流れついた。舞浜かと思ったらロスサントスだった。
+-おバカなチャラ男。3文字以上の英語は読めない。
+-白市民パス所持済。
+-警察プロファイルに「ビッグウェーブに乗ります！」と記載されている。
+-第一住民は[[ハクナツメ>>ハク　ナツメ]]。車道を歩いていたら車で轢かれた。
+
+**エピソード
+***2025年
+#region(8月,open)&bold(){8月}
+****8/19 [[【1日目】#ストグラ ここどこすか【???】>>https://www.twitch.tv/videos/2544127212]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(8月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(mm月)
+
+}
+
+**アーカイブ
+***2025年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/19|1|[[【1日目】#ストグラ ここどこすか【???】>>https://www.twitch.tv/videos/2544127212]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

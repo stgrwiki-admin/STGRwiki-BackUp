@@ -1,0 +1,116 @@
+**&font(25,#ffbf84){&font(35,#FEB066){プ}ロフィール &icon_fa(fa fa-user-circle)}
+&image(hoshimaki_first.png,y=500)
+
+#table_style(head=#FEB066){名前=#DE6167:#FFF:b:center}
+|~名前|~&icon_fa(fa fa-user)|&ruby(ほしまき){星撒}　ミリリ|
+|~出身地|~&icon_fa(fa fa-map-marker)|南国|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|2007年09月12日 (&countup(2007/09/12,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年04月09日 (&countup(2025/04/09,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)||
+|~TwiX|~&icon_fa(fa fa-crow)|@ミリリ|
+|プレイヤー|BGCOLOR(#DE6167):COLOR(#FFF):~&icon_fa(fa fa-heart) |七星みりり(.LIVE／アップランド)|
+|告知等|BGCOLOR(#DE6167):COLOR(#FFF):~&icon_fa(fa fa-bullhorn)|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/Milily_VTuber]]|
+|配信場所|BGCOLOR(#DE6167):COLOR(#FFF):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[&font(#DA1725){YouTube}>>https://m.youtube.com/channel/UCSlcMof1GIPvH6H_VcknCbQ]]|
+|ガイドライン|BGCOLOR(#DE6167):COLOR(#FFF):~&icon_fa(fa fa-info-circle)|[[アップランド二次創作ガイドライン>>https://appland.co.jp/guideline/]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**&font(25,#ffbf84){&font(35,#FEB066){基}本情報 &icon_fa(fa fa-rectangle-list)}
+・ある南の国でギャルをしていたが、楽しい場所だと聞いてギャルライフを満喫しにロスサントスへやってきた。
+
+**&font(25,#ffbf84){&font(35,#FEB066){交}友関係 &icon_fa(fa-solid fa-users)}
+&font(11px,b,#ffdab8){星撒ミリリの視点から得られた情報を元にしているため、事実と異なる場合があります。}
+
+#region(市民)
+
+&b(){[[銅鑼　イオリ]]}
+・空港で出会った第一住民。
+・街の色々な場所を案内してくれた。特に[[ストリップバー>Happy Nutty Bunny]]では貴重な体験ができた。
+・なぜか出会う人がみんなして「イオリには気を付けろ」「イオリはヤバい」「イオリが友達か…。友達は選んだ方が良い」などと言う。
+
+&b(){[[大　川]]}
+・車の免許の先生。
+・街案内の[[イオリ>銅鑼　イオリ]]に紹介してもらった。
+・かなり酷かったミリリの運転を丁寧に指導してくれ、免許を取る事ができた。
+
+&b(){[[帝　レン]]}
+・[[キャバクラ>GoodNight]]支配人。
+・[[イオリ>銅鑼　イオリ]]の所属している会社の先輩。[[イオリ>銅鑼　イオリ]]の教育はとても大変らしい。
+・ミリリにカステラという4000万もする可愛い車を買ってくれた。
+#endregion
+
+**&font(25,#ffbf84){&font(35,#FEB066){車}両関連 &icon_fa(fas fa-car-side)}
+#region(所有車両)
+#table_filter(){車両=show,名前=show,購入日=show,エピソード=show}
+#table_style(head=center:#ffe7d1){head=b,購入日=right}
+|~車両|~名前|~購入日|~エピソード|h
+|🚗 Castella|カステラ　みりりちゃんへbyレンレン|2025/04/09|[[帝　レン]]が買ってくれたオレンジ色の可愛い車。4000万もする。&br()最初は1000万くらいの車を買ってくれるという話だったが、[[土場　リグゼ]]によってこの車になった。|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(取得免許)
+#table_filter(){種類=show,取得日=show,担当教習員=show,備考=show}
+#table_style(head=#ffe7d1:center){head=b,種類=b}
+|~種類|~取得日|~担当教習員|~備考|h
+|普通自動車|2025/04/09|[[大　川]]|街で初めて取得した免許|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion()
+
+**&font(25,#ffbf84){&font(35,#FEB066){エ}ピソード &icon_fa(fa fa-star fa-spin)}
+***2025年
+#region(4月,open)&bold(){4月}
+****04/09 [[1日目🔰ノリで行く♥どんなとこなんだぁ？>>https://www.youtube.com/watch?v=izXi3aAGxvM]]
+#region(開く,open)
+-空港に降り立ち、[[銅鑼　イオリ]]に出会う。
+-[[警察署>ロスサントス警察]]、[[9055]]、[[SKE>菖光エンジニア]]、[[病院>ロスサントス救急救命隊]]、[[ストリップバー>Happy Nutty Bunny]]、[[GroobyBabyCafe]]を訪問。
+-[[大　川]]に講習を受け、普通自動車運転免許を発行。
+--白市民パスを取得。
+-[[帝　レン]]に自動車を買ってもらう。
+#endregion
+
+****04/16 [[2日目🔰南国出身ギャルのおさんぽ❤🚘持ちなんだよね♥>>https://www.youtube.com/watch?v=6EdKLWb3bvI]]
+#region(開く,open)
+-[[FOWK]]へ行く。店主の[[ペトロ　アルドベッグ]]に挨拶し、彼の誘いで職業体験を始める。
+-FOWK閉店後、店で出会った[[日々]]、[[太田　民子]]、[[平井のおっちゃん>平井　善之]]、[[マカイーノ　アッコパス]]、[[Dr．ギガ]]とともに[[SPA だはは]]へ行き、サウナを楽しむ。
+#endregion
+
+#endregion(4月)
+
+#region(5月,open)&bold(){5月}
+****05/01 [[3日目🔰南国出身ギャル星撒ミリリ⭐️散策する💫>>https://www.youtube.com/watch?v=XKHuB8Wyogs]]
+#region(開く,open)
+-服屋で[[黒桜　ローレン]]に会い、彼にメカニック各店を案内してもらう。
+-[[A2 Lab]]・[[A2 Cafe]]に体験入店し、[[チェン　マヨ]]に指導を受けつつ仕事をする。
+-[[イースターイベント]]のエッグ拾いに参加し、イースターポップを手に入れる。
+#endregion
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//-エピソード募集中
+//#endregion
+
+#endregion(5月)
+
+**&font(25,#ffbf84){&font(35,#FEB066){ア}ーカイブ &icon_fa(fa fa-video)}
+***2025年
+#region(開く,open)
+#table_style(head=center:#ffe7d1){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/09|1|[[1日目🔰ノリで行く♥どんなとこなんだぁ？>>https://www.youtube.com/watch?v=izXi3aAGxvM]]||
+|04/16|2|[[2日目🔰南国出身ギャルのおさんぽ❤🚘持ちなんだよね♥>>https://www.youtube.com/watch?v=6EdKLWb3bvI]]||
+|05/01|3|[[3日目🔰南国出身ギャル星撒ミリリ⭐️散策する💫>>https://www.youtube.com/watch?v=XKHuB8Wyogs]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+**&font(25,#ffbf84){&font(35,#FEB066){ス}トグラ切り抜き &icon_fa(fa fa-video)}
+#region(開く,open)
+#table_style(head=center:#ffe7d1){配信日=right,#=center}
+|~投稿日|~配信タイトル|~備考|h
+|25/05/21|[[【#ストグラ】褐色ギャルのドライビングテクニックがやばすぎる！？>>https://www.youtube.com/watch?v=4YrXjb0faOc]]|#1の切り抜き|
+|25/05/24|[[【#ストグラ】褐色ギャルが初サウナで大失態！？>>https://www.youtube.com/watch?v=3_APWOvtwSk]]|#2の切り抜き|
+|25/05/31|[[【#ストグラ】褐色ギャルがとられる！？>>https://www.youtube.com/watch?v=uBO97VG5Q-s]]|#3の切り抜き|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

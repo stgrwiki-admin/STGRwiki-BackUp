@@ -1,0 +1,130 @@
+//――――――画像の貼り付けについて―――――――――
+//★オリジナルの画像サイズは300ｘ600で統一しています
+//★車両一覧に表示するときは100ｘ200サイズにして、画像をクリックすると新しいタブにオリジナルの画像が表示されます
+//★画像を貼り付けるときは、下記のコードをコピペしてください
+//★画像貼り付けのコード
+//&blankimg(画像ファイル名,x=120,y=240)
+//　↑　　　　　　　　　　　　↑
+//　｜　　　　　　　　　　120ｘ240のサイズでこのページに表示する
+//新しいタブを開き、そこにオリジナルサイズの画像を表示する
+//
+//●画像は追加していく予定です（2/16）
+//
+//■■■■■■■■　ALLIN　■■■■■■■■
+&aname(ALLIN,option=nolink){}
+#div(width=320px,bgcolor=#ff9933){&font(#ffffef,16,b){&space(2)&icon_fa(fa fa-user-secret)&space(2)ALLIN}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~Allin|~❌Allin覆面|~❌&font(11){Allin覆面〔Ver.素顔〕}|~ALLIN２|~ALLIN３|~se|h
+|CENTER:&blankimg(04.Allin_a.png,x=120,y=240)|CENTER:&blankimg(09.Allin覆面_b.png,x=120,y=240)|CENTER:&blankimg(09.Allin覆面（素顔）_a.png,x=120,y=240)|CENTER:&blankimg(27.ALLIN2_a.png,x=120,y=240)|CENTER:&blankimg(28.ALLIN3_a.png,x=120,y=240)|CENTER:&blankimg(56.se_a.png,x=120,y=240)|
+
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(ALLIN〆)
+
+//■■■■■■■■　ALLIN戦闘服　■■■■■■■■
+&aname(ALLIN戦闘服,option=nolink){}
+#div(width=320px,bgcolor=#ff9933){&font(#ffffef,16,b){&space(2)&icon_fa(fa fa-gun)&space(2)ALLIN戦闘服}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~戦闘服|~戦闘服？2|~戦闘服2|~仮面付き戦闘服|~仮面付き戦闘服 青|h
+|CENTER:&blankimg(29.戦闘服_b.png,x=120,y=240)|CENTER:&blankimg(31.戦闘服？2 .png,x=120,y=240)|CENTER:&blankimg(33.戦闘服2_a.png,x=120,y=240)|CENTER:&blankimg(34.仮面付き戦闘服.png,x=120,y=240)|CENTER:&blankimg(39.仮面付き戦闘服 青.png,x=120,y=240)|
+|>|>|>|>||
+|~犬戦闘服 青|~戦闘服 青&br()〔Ver.素顔〕|~❌シンせんとーふく&br()〔The 1st〕|~❌シンせんとーふく&br()〔The 2nd〕|~❌シンせんとーふく&br()〔The 2nd Ver.素顔〕|h
+|CENTER:&blankimg(42.犬戦闘服_青_a.png,x=120,y=240)|CENTER:&blankimg(39.仮面付き戦闘服 青（素顔）_a.png,x=120,y=240)|CENTER:&blankimg(43.シンせんとーふく_a.png,x=120,y=240)|CENTER:&blankimg(43.シンせんとーふく_b.png,x=120,y=240)|CENTER:&blankimg(43.シンせんとーふく（素顔）_a1.png,x=120,y=240)|
+|>|>|>|>||
+|~❌シンせんとーふく&br()〔The 3rd〕|~❌シンせんとーふく&br()〔The 4th〕|~シンせんとーふく&br()〔The 5th〕|~シンせんとーふく&br()〔The 5th Ver.素顔〕|~NEW|h
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(43.シンせんとーふく_c.png,x=120,y=240)|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(43.シンせんとーふく_d.png,x=120,y=240)|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(43.シンせんとーふく_e1.png,x=120,y=240)|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(43.シンせんとーふく（素顔）_b1.png,x=120,y=240)|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(46.NEW.png,x=120,y=240)|
+|>|>|>|>|RIGHT:&link_anchor(ALLIN戦闘服){ALLIN戦闘服TOP} &icon_fa(fa fa-circle-up)|
+|~NEW〔Ver.素顔〕|~NEO戦闘服|~島取り|~ダサすぎ|~獣ダサすぎ|h
+|CENTER:&blankimg(46.NEW（素顔）.png,x=120,y=240)|CENTER:&blankimg(48.NEO戦闘服.png,x=120,y=240)|CENTER:&blankimg(51.島取り_b.png,x=120,y=240)|CENTER:&blankimg(53.ダサすぎ_c.png,x=120,y=240)|CENTER:&blankimg(54.獣ダサすぎ_a.png,x=120,y=240)|
+|>|>|>|>||
+|~❌黒NEW&br()〔The 1st〕|~❌黒NEW&br()〔The 1st 髪型別〕|~黒NEW&br()〔The 2nd〕|~大型えせmac|~❌大型えせtony|h
+|CENTER:&blankimg(55.黒NEW_c.png,x=120,y=240)|CENTER:&blankimg(55.黒NEW_b.png,x=120,y=240)|CENTER:&blankimg(55.黒NEW_e.png,x=120,y=240)|CENTER:&blankimg(67.大型えせmac.png,x=120,y=240)|CENTER:&blankimg(68.大型えせtony.png,x=120,y=240)|
+|>|>|>|>||
+|~❌大型〔The 1st〕|~❌大型〔The 2nd〕|~大型〔The 3rd〕|~真★大型|~shimeji|h
+|CENTER:&blankimg(69.大型_a.png,x=120,y=240)|CENTER:&blankimg(69.大型_c.png,x=120,y=240)|CENTER:&blankimg(69.大型_d.png,x=120,y=240)|CENTER:&blankimg(70.真★大型_b.png,x=120,y=240)|CENTER:&blankimg(72.shimeji_a.png,x=120,y=240)|
+|>|>|>|>|RIGHT:&link_anchor(ALLIN戦闘服){ALLIN戦闘服TOP} &icon_fa(fa fa-circle-up)|
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(ALLIN戦闘服〆)
+
+//■■■■■■■■　私服　■■■■■■■■
+&aname(私服,option=nolink){}
+#div(width=320px,bgcolor=#ff9933){&font(#ffffef,16,b){&space(2)&icon_fa(fa fa-shirt)&space(2)私服}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~❌私服|~私服|~私服2|~冬|~１|h
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(00.私服初期.png,x=120,y=240)|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(01.私服_c.png,x=120,y=240)|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(30.私服2_a.png,x=120,y=240)|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(35.冬_a.png,x=120,y=240)|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(50.1.png,x=120,y=240)|
+|>|>|>|>||
+|~❌ばな|~私服3|~---|~---|~---|h
+|CENTER:&blankimg(57.ばな.png,x=120,y=240)|CENTER:&blankimg(65.私服3_a.png,x=120,y=240)|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|CENTER:MIDDLE:No Image|
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(私服〆)
+
+//■■■■■■■■　変装　■■■■■■■■
+&aname(変装,option=nolink){}
+#div(width=320px,bgcolor=#ff9933){&font(#ffffef,16,b){&space(2)&icon_fa(fa fa-mask)&space(2)変装}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~アンダーアーマー|~❌宇宙人〔The 1st〕|~宇宙人〔The 2nd〕|~百瀬イン|~たこ焼きイエロー|h
+|CENTER:&blankimg(02.アンダーアーマー.png,x=120,y=240)|CENTER:&blankimg(03.宇宙人_a.png,x=120,y=240)|CENTER:&blankimg(03.宇宙人_b.png,x=120,y=240)|CENTER:&blankimg(05.百瀬イン_b.png,x=120,y=240)|CENTER:&blankimg(06.たこ焼きイエロー.png,x=120,y=240)|
+|>|>|>|>||
+|~スカルフェイス|~ジャックP|~牛タン|~❌バーガー|~❌火消バニー&br()〔The 1st〕|h
+|CENTER:&blankimg(07.スカルフェイス_a.png,x=120,y=240)|CENTER:&blankimg(08.ジャックP_c.png,x=120,y=240)|CENTER:&blankimg(10.牛タン_d.png,x=120,y=240)|CENTER:&blankimg(11.バーカ―_a.png,x=120,y=240)|CENTER:&blankimg(12.火消バニー_a.png,x=120,y=240)|
+|>|>|>|>||
+|~&font(11px){火消バニー〔The 2nd〕}|~ミリタリーバニー|~皇帝ペンギン1号|~❌狐めん|~トランプキング|h
+|CENTER:&blankimg(12.火消バニー_b.png,x=120,y=240)|CENTER:&blankimg(13.ミリタリーバニー_a.png,x=120,y=240)|CENTER:&blankimg(14.皇帝ペンギン1号.png,x=120,y=240)|CENTER:&blankimg(15.狐めん_a.png,x=120,y=240)|CENTER:&blankimg(16.トランプキング_a.png,x=120,y=240)|
+|>|>|>|>|RIGHT:&link_anchor(変装){変装TOP} &icon_fa(fa fa-circle-up)|
+|~スベッカム|~警察|~くまさんだと思ったか|~くまさんだと思ったか&br()〔Ver.素顔〕|~❌トランプ|h
+|CENTER:&blankimg(17.スベッカム_b.png,x=120,y=240)|CENTER:&blankimg(18.警察_b.png,x=120,y=240)|CENTER:&blankimg(20.くまさんだと思ったか.png,x=120,y=240)|CENTER:&blankimg(20.くまさんだと思ったか（素顔）.png,x=120,y=240)|CENTER:&blankimg(21.トランプ_a.png,x=120,y=240)|
+|>|>|>|>||
+|~タコス|~４柄木とむら|~ARK|~ハントレス|~だれおまえ|h
+|CENTER:&blankimg(22.タコス_a.png,x=120,y=240)|CENTER:&blankimg(23.4柄木とむら_a.png,x=120,y=240)|CENTER:&blankimg(24.ARK.png,x=120,y=240)|CENTER:&blankimg(25.ハントレス.png,x=120,y=240)|CENTER:&blankimg(36.だれおまえ.png,x=120,y=240)|
+|>|>|>|>||
+|~❌クッキーサブレ|~サンタ|~憎しこの夜|~utyuu|~デビルリ|h
+|CENTER:&blankimg(37.クッキーサブレ_b.png,x=120,y=240)|CENTER:&blankimg(41.サンタ_b.png,x=120,y=240)|CENTER:&blankimg(40.憎しこの夜.png,x=120,y=240)|CENTER:&blankimg(44.utyuu.png,x=120,y=240)|CENTER:&blankimg(45.デビルリ.png,x=120,y=240)|
+|>|>|>|>|RIGHT:&link_anchor(変装){変装TOP} &icon_fa(fa fa-circle-up)|
+|~WAO|~WAO〔Ver.素顔〕|~henso|~あきす|~---|h
+|CENTER:&blankimg(47.WAO.png,x=120,y=240)|CENTER:&blankimg(47.WAO（素顔）.png,x=120,y=240)|CENTER:&blankimg(49.henso_a.png,x=120,y=240)|CENTER:&blankimg(71.あきす_a.png,x=120,y=240)|CENTER:MIDDLE:No Image|
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(変装〆)
+
+//■■■■■■■■　仕事着　■■■■■■■■
+&aname(私服,option=nolink){}
+#div(width=320px,bgcolor=#ff9933){&font(#ffffef,16,b){&space(2)&icon_fa(fa fa-pills)&space(2)仕事着}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~薬局|~黒服|~黒服 ベスト|~黒服 髪型別|h
+|CENTER:&blankimg(52.薬局_a.png,x=120,y=240)|CENTER:&blankimg(58.黒服_b.png,x=120,y=240)|CENTER:&blankimg(59.黒服ベスト.png,x=120,y=240)|CENTER:&blankimg(60.黒服髪型別_d.png,x=120,y=240)|
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(仕事着〆)
+
+//■■■■■■■■　その他　■■■■■■■■
+&aname(その他,option=nolink){}
+#div(width=320px,bgcolor=#ff9933){&font(#ffffef,16,b){&space(2)&icon_fa(fa fa-circle-exclamation)&space(2)その他}}
+
+#region(開く)
+閉じる
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~❌レースチーム UMA|~わし|~学生|~ギザかわゆす|~偽立派|h
+|CENTER:&blankimg(レースUMA.png,x=120,y=240)|CENTER:&blankimg(19.わし.png,x=120,y=240)|CENTER:&blankimg(26.学生_a.png,x=120,y=240)|CENTER:&blankimg(32.ギザかわゆす_b.png,x=120,y=240)|CENTER:&blankimg(38.偽立派_b.png,x=120,y=240)|
+|>|>|>|>||
+|~るんるん|~ハンター|~はーふるんるん|~パチお(パルデアの姿)|~marunn|h
+|CENTER:&blankimg(61.るんるん_b.png,x=120,y=240)|CENTER:&blankimg(62.ハンター_a.png,x=120,y=240)|CENTER:&blankimg(63.はーふるんるん_a.png,x=120,y=240)|CENTER:&blankimg(64.パチお（パルデアの姿）_b.png,x=120,y=240)|CENTER:&blankimg(66.marunn_a.png,x=120,y=240)|
+#table_zebra(#fff,#f4f4f4,#9b233)
+
+&font(#f9b233){&bold(){●警察時代}}
+#table_color(head=#f9b233:#fff:12px:center:b)
+|~❌警官：初期|~❌警官：中期|~❌警官：後期|>|~❌警官：１周年パレード|h
+|CENTER:&blankimg(警察_a.png,x=120,y=240)|CENTER:&blankimg(警察_b.png,x=120,y=240)|CENTER:&blankimg(警察_c.png,x=120,y=240)|CENTER:&blankimg(警察1周年_a.png,x=120,y=240)|CENTER:&blankimg(警察1周年_b.png,x=120,y=240)|
+#table_zebra(#fff,#f4f4f4,#9b233)
+#endregion(その他〆)

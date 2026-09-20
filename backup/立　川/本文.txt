@@ -1,0 +1,59 @@
+**プロフィール
+//&image(ここに画像のURLを入力,y=400)
+
+//ここからプロフィール
+#table_style(head=#E6E6FA:#666666){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(たち){立}　&ruby(かわ){川}|
+|~出身地|~&icon_fa(fa fa-location-dot)|-|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|- &co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年06月15日 (&countup(2025/06/15,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|カフェ【[[Père Noël]]】&small(){体験 2025/06/15～}|
+|~所属|~&icon_fa(fa fa-users)|-|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@tachikawa|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|しんのすけ〔しょうじ一味〕|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>http://twitter.com/KFC_shinnosuke]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>http://www.youtube.com/@Sekai_Saikyo]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>http://twitch.tv/shinnosuke_th]]|
+|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):&icon_fa(fa fa-user-plus)|&small(){&openclose2(show=※ネタバレ注意){&br()[[上田　さん]]}}|
+//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ガイドライン>>ここにガイドラインのURLを入力]]|
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-飲食業界を盛り上げる目的で街へやってきた。
+
+**エピソード
+***2025年
+#region(6月,open)&bold(){6月}
+****06/15 [[自販機,コース作成,クラフト,２キャラ目>>https://www.twitch.tv/videos/2486561521?t=02h09m00s]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(6月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(mm月)
+
+}
+
+**アーカイブ
+***2025年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/15|1|[[自販機,コース作成,クラフト,２キャラ目>>https://www.twitch.tv/videos/2486561521?t=02h09m00s]]|02:09:00から|
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

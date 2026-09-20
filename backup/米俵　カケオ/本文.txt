@@ -1,0 +1,116 @@
+&image(米俵カケオ.png,x=250,y=360)
+&image(米俵カケオ接写.jpg, x=250)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|&ruby(こめだわら){米俵}　カケオ|
+|~出身地|日本|
+|~誕生日|3月3日|
+|~転入日|2023年07月02日 (&countup(2023/07/02,yd) 経過)|
+|~職業|[[ストリップバー>Happy Nutty Bunny]]店員|
+|~プレイヤー|カケチカラ|
+|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/ka_ke_chi]]|
+|~配信場所| &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kake_ch]]|
+|~アーカイブ動画|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@ka_ke_chi/videos]]|
+|~別キャラ|[[えだまめもん]]|
+//yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)
+
+//目次に日別エピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)閉じる
+#contents(fromhere=true,level=3)
+#endregion
+
+**基本情報
+・真のモテ王になるべくロスサントスへやってきた。
+
+**エピソード
+***2023年7月
+#region(開く,open)
+****07/02　#1　[[その1！ロスサントス堂々見参！モテ王になりまッス！>>https://www.twitch.tv/videos/1861309649]]
+#region(開く,open)
+・第一街人はヘラシギさん。早速モテそうなカッコいい車に乗せてもらいカジノへ。
+※エピソード随時募集中
+
+#endregion
+****07/04　#2　[[その2！ロスサントス堂々見参！モテ王になりまッス！>>https://www.twitch.tv/videos/1863059612]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+#endregion(7月)
+
+//
+//↓コピー用素材
+//
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]&image(画像ファイル名または画像URL)
+
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//
+//***yyyy年mm月のエピソード
+//#region(開く,open)
+//****mm/dd　#nn　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+***2023年07月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/02|1|[[その1-1！ロスサントス堂々見参！モテ王になりまッス！>>https://www.youtube.com/watch?v=0keNT7BnzPo]]||
+|~|~|[[その1-2！ロスサントス堂々見参！モテ王になりまッス！>>https://www.youtube.com/watch?v=DRcR9SICam4]]||
+|~|~|[[その1-3！ロスサントス堂々見参！モテ王になりまッス！>>https://www.youtube.com/watch?v=Gt5pv_PPR4Q]]||
+|~|~|[[その1-4！ロスサントス堂々見参！モテ王になりまッス！>>https://www.youtube.com/watch?v=b16mG9zUkLI]]||
+|07/04|2|[[その2-1！ロスサントス堂々見参！モテ王になりまッス！>>https://www.youtube.com/watch?v=opkU_H4a4sc]]||
+|~|~|[[その2-2！ロスサントス堂々見参！モテ王になりまッス！>>https://www.youtube.com/watch?v=un8AtH66kEo]]||
+|07/06|-|[[番外編！車屋さんあいてる？ロスサントス堂々見参！モテ王になりまッス！>>https://www.twitch.tv/videos/1864741563]]||
+|07/08|3|[[その3-1！モテ王っていうか見学王ッス！>>https://www.youtube.com/watch?v=qO5XAvN8esY]]||
+|~|~|[[その3-2！モテ王っていうかお手伝い王ッス！>>https://www.youtube.com/watch?v=leEmYZZCYEg]]||
+|~|~|[[その3-3！モテ王っていうかバイト王ッス！>>https://www.youtube.com/watch?v=nPd3A7F7i5k]]||
+|~|~|[[その3-4！モテ王じゃなくて車王ッス！>>https://www.youtube.com/watch?v=f_YcxGaDqFs]]||
+|07/11|4|[[その4！ロスサントス堂々見参！モテ王になりまッス！>>https://www.twitch.tv/videos/1869042889]]||
+|07/13|5|[[その５！モテ王への道！>>https://www.twitch.tv/videos/1870773174]]||
+|07/17|6|[[その６！モテ王への道！>>https://www.twitch.tv/videos/1874221731]]||
+|07/19|7|[[その７！労働王への道！>>https://www.twitch.tv/videos/1875970389]]||
+|07/23|8|[[その8-1！大人を学べばモテ王への道！！>>https://www.youtube.com/watch?v=bKsNOOD30hk]]||
+|~|~|[[その8-2！大人を学べばモテ王への道！！>>https://www.youtube.com/watch?v=9zOYE0vvOcU]]||
+|07/24|9|[[その9-1！レースの仕組みを知ってモテ王！>>https://www.youtube.com/watch?v=X6gRapSa23U]]||
+|~|~|[[その9-2！レース（とお笑い）を知ってモテ王！>>https://www.youtube.com/watch?v=XZAOh8Kkvbs]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2023年08月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/01|10|[[その10-1！ピザ屋の物モテ王！空や海もよくばりまッス！>>https://www.youtube.com/watch?v=UonclNTSTzk]]||
+|~|~|[[その10-2！ピザ屋の物モテ王！空や海もよくばりまッス！>>https://www.youtube.com/watch?v=yteGJTKDm_s]]||
+|~|~|[[その10-3！ピザ屋の物モテ王！空や海もよくばりまッス！>>https://www.youtube.com/watch?v=XTLQrgMKm8M]]||
+|~|~|[[その10-4！ピザ屋の物モテ王！空や海もよくばりまッス！>>https://www.youtube.com/watch?v=2JKxltIZhsA]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2023年09月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/19|23|[[その23-1！きせかえと日本刀>>https://www.youtube.com/watch?v=YFJR33u1yEc]]||
+|~|~|[[その23-2！きせかえと日本刀>>https://www.youtube.com/watch?v=ChKxM_rH6V8]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2023年10月
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/04|24|[[その24-1！ニトロでおばあさんと空へ>>https://www.youtube.com/watch?v=M1QGjpmeQL0]]||
+|~|~|[[その24-2！ニトロでおばあさんと空へ>>https://www.youtube.com/watch?v=7dzf-LXGyck]]||
+|10/31|27|[[その27-1！ハロウィン仮装でずっとヴァルキリー>>https://www.youtube.com/watch?v=OPNyltLywCk]]||
+|~|~|[[その27-2！ハロウィン仮装でずっとヴァルキリー>>https://www.youtube.com/watch?v=HC1t14KWJpg]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#right(){&link_up(🔝ページTOPへ)}

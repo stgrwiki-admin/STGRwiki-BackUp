@@ -1,0 +1,249 @@
+&image(焦村家看板.jpg)
+
+&image(店舗外観.png,y=300)
+
+#table_style(head=#D3150F:#FFFFFF){}
+|~店名|&ruby(いえけいそうほんざん){&bold(){家系総本山}} &ruby(こげむらや){&bold(){焦村家}}|
+|~業種|ラーメン屋|
+|~開業日|2024年2月1日&br()&small(){（&countup(2024/02/01,yd)経過）}|
+|~所在地|7165番地|
+|~オーナー|&bold(){[[焦月　ツルギ]]}|
+|~店長|&bold(){[[焦村　実>焦月　ツルギ]]}|
+|~従業員数|3名（2024年10月3日現在）|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|~job名|ボスメニューのジョブネーム|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,close)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(30px,#D3150F){基}&font(25px){本情報 &icon_fa(fa-regular fa-address-card)}
+・[[焦月　ツルギ]]が真剣に営業しているラーメン屋。
+・[[平井　善之]]が運営するたこ焼き屋「&bold(){[[ザリ蛸]]}」事業を展開していた。現在は独立している。
+
+**ラーメン屋「家系総本山　&bold(){焦村家}」
+・調理は[[焦村　実>焦月　ツルギ]]が担当し、調理以外の経営等めんどくさいことは、弟子のツルギに任せている。
+・・日本で300人の弟子を育て上げ、出し尽くしたと感じて海外進出の為に、ロスサントス1号店を開店しに来たという。
+→尚[[焦村　実>焦月　ツルギ]]は日本にある本店で経営しているため日本に居る。（ほぼキャラエンド）
+・500万円払って脱サラして本気でやっている従業員がいるらしい。
+・・文句を言うお客さんには金を返して帰ってもらうらしい。
+・・暑い日には熱いものではなく、冷たいものらしい。
+・オープン初日の深夜、商品追加作業をしていたところ誤って&bold(){特製ラーメンを食べられなく}してしまう。リコール対応に追われることに。
+・店舗内の左側に券売機があるが、注文形式はカウンターでの口頭注文のみで、使用されたことはない。
+・よく「焦月家」「焦村屋」などと間違われる。
+#region(券売機を見る)券売機
+&image(券売機.png,y=200)
+#endregion(券売機)
+//**&anchor(ザリ蛸,option=nolink){たこ焼き屋「ザリ蛸」}
+//#slide_img(auto=4,position=left,width=388,height=218){ザリ蛸カー3.png,ザリ蛸.png}
+//-新事業として、[[平井　善之]]が運営するたこ焼き屋さん「&bold(){ザリ蛸}」の営業を開始した。
+//--店舗名称は[[赤兎　がみとも]]が名付けた。
+//--調理は焦村家のキッチンを借りている。
+//-移動販売をメインとするたこ焼き屋さん。店主は[[平井　善之]]。
+//--たこ焼きの移動販売車は「&link(Youga classic){https://w.atwiki.jp/gtav/pages/1691.html}」と「&link(Journey II){https://w.atwiki.jp/gtav/pages/2949.html}」の2種類。
+//・[[茶担　えり]]主催の「ロスサントス花火大会2024」にて開催された「屋台★ONEグランプリ」で、「[[A2 Cafe]]」とのコラボ店舗がグランプリを獲得。
+----
+**店舗の概要
+-[[焦月ツルギ>焦月　ツルギ]]が[[市長>山下　ひろし]]に開業資金2000万を支払い、経営権を獲得。
+-[[anbrella>>anbrella(餡ブレラ)]]会議室の隣、フリーカ銀行前という少々治安の悪い7165番地にオープンした。
+--時には餡ブレラと警察が店の前で銃撃戦を行う事もある。
+--近所には『[[BMカスタム]]』『[[EDEN]]』といった店もある。
+
+#region(オープン告知チラシ)
+&image(オープン告知チラシ.png,y=200)
+#endregion
+
+*&font(30px,#D3150F){従}&font(25px){業員情報 &icon_fa(fa fa-users)}
+**従業員
+#region(開く,open)
+#table_style(head=center:#D3150F:#FFFFFF){名前=bold}
+|~役職|~名前|~就職日|~備考|h
+|オーナー兼弟子|[[焦月　ツルギ]]|2024/02/01|焦村家のビジネス・広報等、調理以外全て担当|
+|店長/料理長|[[焦村　実>焦月　ツルギ]]|2024/02/01|調理担当。どこかの世界のラーメン店主に似ている。&br()ツルギ曰く暖簾分けして帰国したらしい。|
+|店員|[[うさぎ　さん>山田　パルコ]]|2024/03/19|調理＆看板娘担当。|
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+
+**臨時バイト
+#region(開く,close)
+#table_style(head=center:#D3150F:#FFFFFF){名前=bold}
+|~役職|~名前|~就職日|~備考|h
+|臨時バイト|[[エスターク・Z・ダークネス]]|2024/02/01|禊の一日無給バイトが終了し、退職。&br()焦月からバイト代１千万をもらったが、&br()時に手伝ってもらう時があるので再就職したりしなかったりする。|
+|臨時バイト|[[アルバイト　ウェスカー>>アルフォート　ウェスカー]]|2024/03/26|真のオーナー？臨時バイトとして働くことに。&br()[[聖母　れりあ]]を客引き兼お触り担当として働かせる。&br()(れりあはジョブとしては登録せず。)&br()時折店頭に立つレアバイトで彼が店番をする時は値段がダイス目になる。&br()(一応相手を見てダイスの数は減らしたりする)。|
+|臨時バイト|[[キャプテン　わきを]]|2024/03/26|ウェスカーと同時に臨時バイトとして働くことに。|
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+**退職者
+#region(開く,close)
+#table_style(head=center:#D3150F:#FFFFFF){名前=bold}
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[ろぜ柳　ぴん子]]|2024/02/02|2024/03/02|[[オーナー>焦月　ツルギ]]を車で轢きダウンさせた禊として一日無給バイトをした。しばらく席は残っていたが従業員整理の際に除名。|
+|[[麻林　ラル]]|2024/02/11|　|思ったより暇だったため弟子入りした荒らしみたいなSSRバイト戦士。ラーメン屋での注文はほぼ全部いく派。&br()牛をたくさん店の前に集めたため各所から焦村家に苦情がきた。|
+|[[ボタリン　モンロー]]|2024/02/14|2024/02/14|街の歪みによりやることがなくなったため、調理の手伝いをした。|
+|[[霜月　ろっぷ]]|2024/02/15|2024/02/15|暇を持て余しているのを見かけたため、働いてもらった。|
+|[[パン　チャン]]|2024/02/13|不明|自販機担当。&br()自販機専門での雇用だったが、店頭に立ちたいという本人の意思の変化により様子見。(本人の性格や言動、過去のトラブルを考えた結果、接客はリスクがあると判断した)&br()更生すると言われたがあまり言動に変化が見られなかったため、店頭の人手は足りていることを理由に断った。&br()その後、当初の予定通り自販機専門での雇用を続けたが、気が向いた時だけやりたいと言い出したり自販機の補充をやらない日には連絡をいれるなどの約束も守れず、&br()[[海上レストラン>Urashima]]分のみ自販機の補充を行っていたため焦村家でのバイトは続ける気がないと判断されクビに。&br()後に店の隣に会議室を構える[[餡ブレラ>anbrella(餡ブレラ)]]と揉め事を起こしてしまったらしい。|
+|[[西蓮寺　華月]]|2024/05/21|2024/05/26|大量注文してくれたので、手伝ってもらう。のちに解雇。|
+|[[平井　善之]]|2024/03/06|2024/10/03|[[ザリ蛸]]独立のため退職した。|
+
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//
+//***職業体験者
+//#table_style(head=center:#D3150F:#FFFFFF)
+//|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd||
+//#table_autoincrement()
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+*&font(30px,#D3150F){商}&font(25px){品情報 &icon_fa(fa-solid fa-utensils)}
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+**ラーメン
+商品はね、真剣に開発してんだ！
+#region(開く,open)
+#table_filter(){No.=show,種類=show,価格=show,登録日=hide,提供開始日=hide,商品説明=show,備考=show}
+#table_style(head=center:#D3150F:#FFFFFF){No.=center,価格=right}
+|~No. |~種類|~商品名|~価格|~登録日|~提供開始日|~商品説明|~備考|h
+|1|food|ラーメン&br()&small(){&color(#AAAAAA){ramen}}|20,000||2024/02/01|とんこつ醤油ラーメン&br()「お客様は我が味の師なり」||
+|2|food|味玉ラーメン&br()&small(){&color(#AAAAAA){ramen/w ajitama}}|30,000||2024/02/01|-||
+|3|food|チャーシューメン&br()&small(){&color(#AAAAAA){Tya-syumen}}|30,000||2024/02/01|燻製チャーシューが３枚乗ったらーめん。||
+|&s(){4}|&s(){food}|&s(){特製ラーメン}&br()&small(){&color(#AAAAAA){&s(){3.TOKUSEI RAMEN}}}|&s(){50,000}||&s(){2024/02/01}|&s(){ほうれん草、味玉、ネギ、チャーシューが乗った特製らーめん}|&ruby(衛生外で間違えて消してしまった){異物の混入}により提供停止&br()購入者には交換対応をしている|
+|5|food|特製ラーメン&br()&small(){&color(#AAAAAA){2.TOKUSEI RAMEN}}|50,000||2024/02/02|ほうれん草マシ、味玉、ネギ、&br()チャーシュー３枚が乗った特製らーめん。||
+|6|food|ほうれん草ラーメン&br()&small(){&color(#AAAAAA){1.Ramen Rensoumashi}}|30,000||2024/02/02|当店のほうれん草はマシでもスープ冷めないです||
+|7|food|魚介豚骨つけ麵&br()&small(){&color(#AAAAAA){5.TSUKEMEN}}|30,000||2024/02/15|濃厚つけ麺300g スープ割は店員まで||
+|8|food|焼きあご醤油ラー麺&br()&small(){&color(#AAAAAA){AGODASHI RAMEN}}|50,000||2024/03/14|芳酵な焦げ、贅沢な余韻||
+|9|food|ガキらーめん&br()&small(){&color(#AAAAAA){GAKI-RAMEN}}|20,000|2024/02/16||ようかいけむり付き||
+
+//||food|&br()&small(){&color(#AAAAAA){}}||||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//種類＝food,drink,relax,others など
+#endregion
+
+**ドリンク
+この馬鹿脱サラして500万かかってんだ！
+#region(開く,open)
+#table_filter(){No.=show,種類=show,価格=show,登録日=hide,提供開始日=hide,商品説明=show,備考=show}
+#table_style(head=center:#D3150F:#FFFFFF){No.=center,価格=right}
+|~No.|~種類|~商品名|~価格|~登録日|~提供開始日|~商品説明|~備考|h
+|1|drink|生ビール&br()&small(){&color(#AAAAAA){Koge Beer}}|20,000||2024/02/01|焦村家のビール。&br()実際らーめんと一緒に飲むことはめったにない||
+|2|drink|黒烏龍茶&br()&small(){&color(#AAAAAA){Kuro-Urontya}}|20,000||2024/02/01|らーめんと一緒に飲むと罪悪感が少し減る||
+|3|drink|コゲピス&br()&small(){&color(#AAAAAA){1.KOGE-PISU}}|20,000|2024/02/08||焦げてもピース　コゲピス|商品広告 イメージキャラクターに&br()[[葉風邪ナイ>>葉風邪　ナイ]]を起用している。|
+|4|drink|焦茶&br()&small(){&color(#AAAAAA){Ryokutyaaa}}|20,000|||-||
+|5|drink|コゲコーラ&br()&small(){&color(#AAAAAA){Koge-Cola}}|20,000|||焦村家自家製コーラ||
+|6|drink|角ガリボール&br()&small(){&color(#AAAAAA){KAKU GARI BORU}}|20,000||2024/03/01|角ガリボール||
+|7|drink|レモンサワー&br()&small(){&color(#AAAAAA){KOGETSUKI SAKABA LS}}|20,000||2024/03/10|焦げ付き酒場のレモンサワー||
+|8|drink|ミノルエナジー&br()&small(){&color(#AAAAAA){MINORU ENERGY}}|20,000||2024/03/23|カフェイン500万g配合||
+|9|drink|ピットブル&br()&small(){&color(#AAAAAA){PIT-BULL}}|20,000|2024/05/03|2024/05/04|ミノルエナジー買えない人用||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//種類＝food,drink,relax,others など
+#endregion
+
+**その他
+だから俺たちも真剣なんだよ！
+#region(開く,open)
+#table_filter(){No.=show,種類=show,価格=show,登録日=hide,提供開始日=hide,商品説明=show,備考=show}
+#table_style(head=center:#D3150F:#FFFFFF){No.=center,価格=right}
+|~No.|~種類|~商品名|~価格|~登録日|~提供開始日|~商品説明|~備考|h
+|1|food|ライス&br()&small(){&color(#AAAAAA){Kogemura-rice}}|20,000||2024/02/01|おかわり自由。&br()ニンニグ乗せてスープと海苔で巻いて食べると犯罪|1杯購入で店内飲食おかわり自由|
+|2|food|バナナ&br()&small(){&color(#AAAAAA){KogemuraBanana}}|-||2024/02/01||ラーメン購入者は1本無料|
+|3|food|特製にんにく&br()&small(){&color(#AAAAAA){NIN-NIGU}}|20,000||2024/02/01|||
+|4|food|ねぎチャーシュー丼&br()&small(){&color(#AAAAAA){Negi Tya-DON}}|20,000|||-||
+|5|food|ギョーザ&br()&small(){&color(#AAAAAA){Kogemura Gyo ZA}}|20,000|||コゲツケア必須||
+|6|food|チャーハン&br()&small(){&color(#AAAAAA){TYA-HAN}}|20,000|2024/02/15|2024/02/21|焦村家の炒飯||
+|7|food|怒んなっつ&br()&small(){&color(#AAAAAA){OKON NUTS}}|100,000|||まぁそんな怒んなよ|ゲーセンバー用|
+|8|food|触るなっつ&br()&small(){&color(#AAAAAA){SAWARU NUTS}}|100,000|2024/5/28|2024/5/29|女の子おさわり厳禁。&br()きついお仕置きあります|Vermilion用|
+|9|relax|コゲツケア&br()&small(){&color(#AAAAAA){KOGETU-CARE}}|20,000|||噛んだ瞬間、焦げリフレッシュ！&br()炎上対策にどうぞ||
+|10|relax|コゲピスソフト巨峰&br()&small(){&color(#AAAAAA){KOGEPISU ICE KYOHO}}|20,000|2024/04/09|2024/04/10|焦村家人気ドリンクコゲピスをアイスにしました！&br()バリうまいで||
+//||food|&br()&small(){&color(#AAAAAA){}}||||||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//種類＝food,drink,relax,others など
+#endregion
+
+**特別メニュー
+リストはまだなんだ！お客さんに金返してやれ！すみませんね！
+#region(開く,open)
+#table_filter(){No.=show,種類=show,価格=show,登録日=hide,提供開始日=hide,商品説明=show,備考=show}
+#table_style(head=center:#D3150F:#FFFFFF){No.=center,価格=right}
+|~No.|~種類|~商品名|~価格|~登録日|~提供開始日|~商品説明|~備考|h
+|1|food|川上スペシャル&br()&small(){&color(#AAAAAA){Kawakami Ramen}}|100,000|2024/02/01|2024/02/02|川上たばこ店とのコラボ博多とんこつラーメン。&br()辛子高菜、ゆで卵、&br()紅しょうがをお好みで。|[[川上たばこ店]]とのコラボラーメン&br()博多豚骨|
+|2|food|麻林スペシャル&br()&small(){&color(#AAAAAA){ASA-RAMEN}}|100,000||2024/02/11|あさラー　食べると気分が良くなる|[[麻SICK RECORDS]]とのコラボラーメン&br()ストレス軽減付き|
+|3|food|市長スペシャル&br()&small(){&color(#AAAAAA){PremiumShioTonkotsu}}|100,000|||市長の好きなラーメン。&br()スープに浮く背脂が特徴。|[[市長>>山下　ひろし]]とのコラボラーメン&br()プレミアム塩豚骨|
+|4|food|餡ブレラーメン&br()&small(){&color(#AAAAAA){ANBURE RA-MEN}}|100,000|2024/04/04||天下の餡かけラーメン。バリうまいで|[[餡ブレラ>>anbrella(餡ブレラ)]]とのコラボラーメン&br()海鮮あんかけ|
+|5|food|うさぎさんラーメン&br()&small(){&color(#AAAAAA){E.UsagiRamen}}|100,000|2024/06/05|2024/06/09|leftunderリリース記念ラーメン|うさぎさん〈left under〉リリースイベント&br()限定販売|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+**メニュー画像
+#region(,open)
+&image(焦村家メニュー.png)
+#endregion
+
+//**たこ焼き屋「ザリ蛸」
+//***たこ焼き
+//#region(開く,open)
+//#table_filter(){No.=show,種類=show,価格=show,登録日=hide,提供開始日=hide,商品説明=show,備考=show}
+//#table_style(head=center:#D3150F:#FFFFFF){No.=center,価格=right}
+//|~No. |~種類|~商品名|~価格|~登録日|~提供開始日|~商品説明|~備考|h
+//|1|food|ザリ蛸&br()&small(){&color(#AAAAAA){zaritako6}}|30,000||2024/03/07|6個入り||
+//|2|food|ザリ蛸なし&br()&small(){&color(#AAAAAA){zaritakonashi}}|30,000||2024/04/11|たこ嫌いの人向けに||
+//|3|food|ザリ蛸かな&br()&small(){&color(#AAAAAA){zaritakokana}}|30,000||2024/07/26|かな市長補佐モチーフのたこ焼き||
+//||food|&br()&small(){&color(#AAAAAA){}}||||
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//種類＝food,drink,relax,others など
+//#endregion
+//***ドリンク
+//#region(開く,open)
+//#table_filter(){No.=show,種類=show,価格=show,登録日=hide,提供開始日=hide,商品説明=show,備考=show}
+//#table_style(head=center:#D3150F:#FFFFFF){No.=center,価格=right}
+//|~No. |~種類|~商品名|~価格|~登録日|~提供開始日|~商品説明|~備考|h
+//|1|drink|ザリコーラ&br()&small(){&color(#AAAAAA){zaricola}}|20,000||2024/03/21|たこ焼きのお供に||
+//||food|&br()&small(){&color(#AAAAAA){}}||||
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//種類＝food,drink,relax,others など
+//#endregion
+//***その他
+//#region(開く,open)
+//#table_filter(){No.=show,種類=show,価格=show,登録日=hide,提供開始日=hide,商品説明=show,備考=show}
+//#table_style(head=center:#D3150F:#FFFFFF){No.=center,価格=right}
+//|~No. |~種類|~商品名|~価格|~登録日|~提供開始日|~商品説明|~備考|h
+//|1|relax|ザリ蛸せん&br()&small(){&color(#AAAAAA){zaritakosen}}|20,000||2024/04/25|パリパリ食べることでストレス解消||
+//||food|&br()&small(){&color(#AAAAAA){}}||||
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//種類＝food,drink,relax,others など
+//#endregion
+//***限定メニュー
+//#region(開く,open)
+//#table_filter(){No.=show,種類=show,価格=show,登録日=hide,提供開始日=hide,商品説明=show,備考=show}
+//#table_style(head=center:#D3150F:#FFFFFF){No.=center,価格=right}
+//|~No. |~種類|~商品名|~価格|~登録日|~提供開始日|~商品説明|~備考|h
+//|1|food|ザリ焼きそば&br()&small(){&color(#AAAAAA){zariyakisoba}}|100,000||2024/09/08|メカニック「[[A2 Lab]]」とのコラボ商品|「ロスサントス花火大会2024」限定販売|
+//|2|food|大川焼き&br()&small(){&color(#AAAAAA){z_okawayaki}}|100,000||2024/09/08|大判の今川焼&br()メカニック「[[A2 Lab]]」とのコラボ商品|「ロスサントス花火大会2024」限定販売|
+//||food|&br()&small(){&color(#AAAAAA){}}||||
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//種類＝food,drink,relax,others など
+//#endregion
+*&font(30px,#D3150F){沿}&font(25px){革 &icon_fa(fa-solid fa-clipboard-list)}
+***2024年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#D3150F:#FFFFFF)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|01/29|開業許可|[[山下　ひろし]]、[[焦月　ツルギ]]|市長よりラーメン屋「焦村家」の開業許可が下りる。|
+|02/01|営業開始|[[焦月　ツルギ]]|開店直前には店の前に長蛇の列ができていた。|
+|03/06|「ザリ蛸」営業開始|[[平井　善之]]|[[平井　善之]]を店主とする新事業「ザリ蛸」の営業を開始した。|
+|03/19|社員雇用|[[うさぎ　さん>山田　パルコ]]|[[うさぎ　さん>山田　パルコ]]を調理＆看板娘として雇用。|
+|06/09|「うさぎさんラーメン」限定販売|[[うさぎ　さん>山田　パルコ]]、[[エスターク・Z・ダークネス]]|[[うさぎ　さん>山田　パルコ]]〈left under〉リリースイベントで限定販売。|
+|09/13|「ザリ蛸」が「屋台★ONEグランプリ」を獲得|[[平井　善之]]|「ロスサントス花火大会2024」にて開催された「屋台★ONEグランプリ」で、&br()「[[A2 Cafe]]」とのコラボ店舗がグランプリを獲得。|
+|10/03|「ザリ蛸」が独立|[[平井　善之]]|「[[ザリ蛸]]」が独立するため、[[平井　善之]]が退職した。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+【エピソード募集中】
+#right(){&link_up(🔝ページTOPへ)}

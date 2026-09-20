@@ -1,0 +1,76 @@
+&image(釈　リキ.png,y=500)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|~&icon_fa(fa fa-user)|&ruby(しゃく りき){釈 リキ}|
+|~出身地|~&icon_fa(fa fa-map-marker)|修羅の国|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|1991年12月27日 (&countup(1991/12/27,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年08月17日 &small(){(～2023/12/24)}|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card)|SHAKA(ZETA DIVISION)|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa (fa fa-bullhorn)|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X (旧&font(#1da1f2){Twitter}) (@avashaka)}>>https://twitter.com/avashaka]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch fa-fw)}[[&font(#6441A4){Twitch (fps_shaka)}>>https://www.twitch.tv/fps_shaka]]|
+|BGCOLOR(#eee):~切り抜き|BGCOLOR(#eee):~&icon_fa(fa fa-scissors)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725) {YouTube (SHAKAch)}>>https://www.youtube.com/@SHAKAch]]|
+|BGCOLOR(#fff):~別キャラ|BGCOLOR(#fff):~&icon_fa(fa fa-user-plus)|[[川　上]]、[[川　中]]|
+
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+**基本情報
+-100年前の記憶を持つ民の一人。
+--記憶では逮捕のためには手段を選ばない凄腕警察官として犯罪者達とゴリゴリにやりあっていた。
+-引っ越したばかりだが🔰が気になるらしく早々に卒業する。
+--この世界には免許が存在し、免許センターがあることに驚く(前の街は免許がいらなかったらしい)
+-犯罪をすることには抵抗はないようで、興味はありそうだ。
+
+-2023/12/24キャラクター選択画面に存在せず実質キャラクターエンディング済みと思われる。(川上が入国した12月24日に削除している。現存のアーカイブにはその様子はカットされており残されていない)
+
+
+***&font(b,#fff,#777,110%)［取得免許&color(#777){］}
+原付・普通　取得　
+**エピソード
+//***2023年
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//#endregion
+//
+//#endregion(2023年)
+//
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+****08/017　#1
+#region(開く)
+
+
+-[[無馬　かな]]より捕まりにくい犯罪にブースティングの犯罪の指南を受ける。
+-原付を取るため　[[ヘラシギ]]から講習を受ける。
+・・続いて普通免許講習を受けると[[ジョン　ドングリ]]と出会う。
+・・無事講習を終え免許取得しレギオンに戻ると別の免許にも興味がわく。また割のいい建築バイトに興味を持つ。
+-ブースティングで一仕事を終え、レギオンに戻り市民と会話をしていると再び[[ジョン　ドングリ]]が現れ、スケ研に興味がわき指南を受ける。
+--けつ乗りを編み出して街をスケボーで巡る。
+--お世話になりそうな病院にも挨拶に訪れる。
+-さらにブースティング一件をこなし一度&s(){ロシア}出国する。
+#endregion
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+***2023年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/08/17|1|[[ン！>>https://www.twitch.tv/videos/1943037129]]|入植日|
+//|mm/dd|n|[[配信タイトル>>https://www.twitch.tv/videos/1901026861]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

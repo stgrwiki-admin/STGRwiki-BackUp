@@ -1,0 +1,162 @@
+&image(ReOnes.webp,y=200)
+
+#table_style(head=#991115:#fff,hover=#FFFFFF:#ccbcc1){}
+|~店名|~&icon_fa(fa fa-dog)|&ruby(リワンズ){Re:One's}|
+|~業種|~&icon_fa(fa fa-solid fa-bone)|いぬカフェ|
+|~開業日|~&icon_fa(fa fa-calendar)|2024年11月11日|
+|~所在地|~&icon_fa(fa fa-map-marker)| 7334番地|
+|~店長|~&icon_fa(fa fa-solid fa-id-card-clip)|[[加賀　イズミ]]|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**&font(25px,#C9171E){&icon_fa(fa fa-dog fa-bounce)} 基本情報
+・元[[かしりん（ドッグカフェ）>かしりん]]が閉店、元[[店長>>柏猫　ねこ子]]も日本に帰ってしまい、放置して置くのも勿体ないため元店員の[[加賀>>加賀　イズミ]]が新たに店長となりドッグカフェを開くことにした。
+・湖で乗ってもらえるスワンボートのレンタルチケット販売も行っていた。
+
+**&font(25px,#C9171E){&icon_fa(fa fa-group)} 従業員情報
+***従業員
+#table_style(head=center:#E0E0E0)
+|~役職|~名前|~就職日|~備考|h
+|店長|[[加賀　イズミ]]|2024/11/08||
+|副店長|[[赤城　煉]]|2024/11/08|2025年3月27日に日本に一時帰国|
+|チーフ|[[アヌギフ　白川]]|2025/05/06|当初は2025年2月13日までに自販機バイトとして活動していたが、店員と自販機として復帰をした|
+|副店長|[[ノビー　ラング]]|2025/08/03||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+***体験者
+#table_style(head=center:#E0E0E0)
+|~名前|~体験１日目|~体験2日目|~備考|h
+|[[ゆた　んぽ]]|2025/07/11|2025/07/18||
+|[[博多　きた子]]|~|||
+|[[ひの　ちゃむ]]|2025/07/14|||
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+***退職者
+#region(一覧)閉じる
+#table_style(head=center:#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|副店長|[[雷堂　ましろ]]|2025/01/17|本日のみ|
+|チーフ|[[サミュエル　佐藤]]|2025/02/13|自販機バイトで[[アヌギフ　白川]]が指導|
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//***退職者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~就職日|~最終出勤日|~備考|h
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//***職業体験者
+//#table_style(head=center:#E0E0E0)
+//|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#FF7F7,odd=#FFFFFF}
+
+**&font(25px,#C9171E){&icon_fa(fa fa-kitchen-set)} 商品情報
+***商品リスト
+・元かしりん（ドッグカフェ）のお店で出していた商品が復刻する。
+・ペット同伴のお客様で限定のおまけ付を用意している。
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+||チェキ|お気持ち|24/11/10||
+|Food|ケパグ|50,000|24/11/10|野菜たっぷりパグゲバブ　2023年度№-1グランプリ優勝！|
+|Food|ガパオ|50,000|24/11/10|おねんねわんちゃんのピリ辛ガパオライス|
+|Food|トッテルコアイス|50,000|24/11/10|なにかをのせている子トルコアイス|
+|Food|みたらしば団子|50,000|24/11/10|柴犬のみたらし団子|
+|Drink|柴クリームソーダ|50,000|24/11/10||
+|Drink|ティーカップードル|50,000|24/11/10||
+|Drink|わんコーヒー|50,000|24/11/10||
+|Drink|チャウチャウ茶|50,000|24/11/10||
+|Joint|ミルクボーン|50,000|24/11/10||
+|Joint|肉球スクイーズ|50,000|24/11/10||
+|Joint|かむかむキャンディー|0|24/11/10|ペット同伴のみで渡されるが販売のもでは無い。|
+|Drink|ブルドック|50,000|24/12/21|ウォッカとグレープフルーツのカクテル|
+||ぬいぐるみポーチ&small(){(クリスマス Ver.)}|2,000,000|24/12/21|「[[月ノ鞄]]」のカバン屋で製作したものであるため、数量限定。|
+|Food|ふわふわオムライス|50,000|25/01/17|加賀イズミ Ver.|
+|Food|ふわふわオムライス|50,000|25/01/17|赤城煉 Ver.|
+|Food|ふわふわオムライス|50,000|25/01/17|雷堂ましろ Ver.（1日犬カフェ定員限定品!）|
+|Drink|カルーア・チョコ・ミルク|50,000|25/02/12|チョコとカルーアの甘いクリーミーなカクテル（ノーアルコール）|
+|Drink|カルーア・チョコ・ミルク|50,000|25/02/12|チョコとカルーアの甘いクリーミーなカクテル（アルコール）|
+||ぬいぐるみポーチ&small(){(バレンタイン Ver.)}|3,000,000|25/02/12|「[[月ノ鞄]]」のカバン屋で製作したものであるため、数量限定。|
+||ぬいぐるみポーチ&small(){(ホワイトデー Ver.)}|3,000,000|25/03/14|「[[月ノ鞄]]」のカバン屋で製作したものであるため、数量限定。|
+||イズミのチンチラクッキー|0|25/xx/xx|日頃の感謝をこめて|
+||骨チョッカー|0|25/xx/xx|Merry Xmas! 自分でつけるのもよし！誰かにあげるのもよし！骨のチャームついた首輪|
+||ポイントカード①～⑤|0|25/07/13||
+|ガチャ|わんチョコエッグ(南署コラボ)|0|25/08/12|南署のメンバーの犬のモチーフ|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|種類|商品名|価格|提供開始日|説明|
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+//***メニュー画像
+//#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+//#endregion
+
+***TwiX画像
+#region(MENU)
+&image(Re:one's.jpg,y=400)
+#endregion
+#region(MENU,open)
+&image(メニュー.png,y=200)
+#endregion
+#region(MENU)
+&image(NewMenu.jpeg,y=300)
+#endregion
+#region(StampCard)
+&image(スタンプカード.jpg,y=300)
+#endregion
+#region(Xmas)
+&image(クリスマス24.jpeg,y=300)
+#endregion
+#region(ValentineDay)
+&image(GjvannnbUAAyboo.jpg,y=300)
+#endregion
+#region(WhiteDay)
+&image(ホワイトデー25.png,y=300)
+#endregion
+#region(南署2周年記念 チョコエッグ,open)
+&image(チョコエッグ.png,y=300,x=400)
+#endregion
+#region(シャンプロ夏フェス,open)
+&image(シャンプロ夏フェス.jpeg,y=300)
+#endregion
+
+**&font(25px,#C9171E){&icon_fa(fa fa-bone fa-spin)} 沿革
+***2024年
+#region(詳細)&b(){閉じる}
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|24/10/03|"元従業員[[加賀　イズミ]]による犬カフェ再建計画が始動"|[[加賀　イズミ]]|元[[かしりん（ドッグカフェ）>かしりん]]のお店が閉店した場所|
+|24/10/10|犬カフェ下見|[[加賀　イズミ]]、[[赤城　煉]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】>https://youtu.be/e8TewVDYSWE?si=4YL3NlWSCiwHOv5z]]|
+|24/11/11|"犬カフェRe:One's"オープン|[[加賀　イズミ]]| |
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(2024)
+***2025年
+#region(詳細,open)&b(){閉じる}
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|08/12|イベント出店|加賀イズミ|[[ロスサントス警察]]南署主催の逃走中イベントにてコラボ商品であるランダムチョコエッグを販売|
+|08/16|イベント出店|加賀イズミ|[[シャンクズプロモーション]]主催の夏フェスにて商品販売を行う|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(2025)
+#co{コピー用↓
+|日付|出来事|関係者|エピソード・備考|
+}
+
+#right(){&link_up(🔝ページTOPへ)}

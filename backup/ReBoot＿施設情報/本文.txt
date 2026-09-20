@@ -1,0 +1,87 @@
+***&color(#4682B4){&icon_fa(fa-solid fa-map)}&space()地図 &size(15){ MAP}
+#region(地図,close)
+&font(20px,#999){●&space()}MAP 8004番地（近隣オープンガレージは花屋ColorFlora（8006番地）
+&blankimg(00_MAP.png,x=400,y=220)
+&font(20px,#999){●&space()}上空からの様子（遊園地へ繋がる陸橋横）
+&blankimg(00_MAP2.png,x=400,y=220)
+#endregion
+
+***&color(#4682B4){&icon_fa(fa-solid fa-car)}&space()中古車両情報 &size(15){ Second-Hand Vehicles}
+#region(中古車両情報,close)
+&font(20px,#999){●&space()}車両情報(左側：車両一覧、中央：該当車両、右下：カスタム情報、試乗ボタン、購入ボタン)
+&blankimg(10_展示車両.png,x=400,y=220)
+&font(20px,#999){●&space()}車内状況の確認
+&blankimg(11_展示車両の車内確認.png,x=400,y=220)
+&font(20px,#999){●&space()}展示車両のステータス表示
+&blankimg(12_展示車両ステータス.png,x=400,y=100)
+#table_style(head=center:#E0E0E0){#=center,アイコン=center,名称=left,概要=left}
+#table_filter(){#=hide,アイコン=show,名称=show,概要=show}
+|~#|~アイコン|~名称|概要|h
+|1|&blankimg(12-1_車体カラー.png,x=120,y=30)|車体カラー、分類|展示車両の色（プライマリ、セカンダリ)と、車両の分類が表示される|
+|2|&blankimg(12-2_車種.png,x=120,y=30)|車種|展示車両の車種名が表示される|
+|3|&blankimg(12-3_中古車ディーラ出展者.png,x=120,y=30)|中古車ディーラ出展者|展示車両の出展手続きを行った中古車ディーラの名前が表示される|
+|4|&blankimg(12-4_最高速度定格.png,x=70,y=30)|最高速度|展示車両の最高速度が表示される|
+|5|&blankimg(12-5_最高ブレーキ.png,x=70,y=30)|最高ブレーキ|展示車両の最高ブレーキが表示される|
+|6|&blankimg(12-6_加速度.png,x=70,y=30)|加速度|展示車両の加速度が表示される|
+|7|&blankimg(12-7_購入時の税金.png,x=120,y=30)|税金|車体価格に応じた購入時に支払う税額が表示される|
+|8|&blankimg(12-8_車体価格.png,x=120,y=30)|車体価格|車体価格が表示される|
+#table_zebra(#E4FFFD,#FFFFFF,#E4FFFD)
+//最高スピード（max speed）、最高ブレーキ（max brake）、加速度（speed・acceleration）については、仕様が分からず詳細不明
+&font(20px,#999){●&space()}性能カスタムの表示アイコン、試乗ボタン、購入ボタン
+&blankimg(13_カスタムステータスバー.png,x=600,y=50)
+#table_style(head=center:#E0E0E0){#=center,アイコン=center,名称=left,概要=left}
+#table_filter(){#=hide,アイコン=show,名称=show,概要=show}
+|~#|~アイコン|~名称|概要|h
+|1|&blankimg(13-1_エンジンレベル.png,x=40,y=40)|エンジンレベル|性能アップグレードのエンジンレベルが表示される|
+|2|&blankimg(13-2_ブレーキレベル.png,x=40,y=40)|ブレーキレベル|性能アップグレードのブレーキレベルが表示される|
+|3|&blankimg(13-3_トランスミッションレベル.png,x=40,y=40)|トランスミッションレベル|性能アップグレードのトランスミッションレベルが表示される|
+|4|&blankimg(13-4_サスペンションレベル.png,x=40,y=40)|サスペンションレベル|性能アップグレードのサスペンションレベルが表示される|
+|5|&blankimg(13-5_装甲レベル.png,x=40,y=40)|装甲レベル（アーマーレベル）|性能アップグレードのアーマーレベルが表示される|
+|6|&blankimg(13-6_ターボ有無.png,x=40,y=40)|ターボ有無|性能アップグレードのターボチャージャーの有無が表示される|
+|7|&blankimg(13-7_車内視点切替.png,x=40,y=40)|車内視点切替ボタン|展示車両の車内を見る視点で切替を行う|
+|8|&blankimg(13-8_販売価格.png,x=100,y=40)|車体価格|展示車両の車体価格が表示されている|
+|9|&blankimg(13-9_試乗_購入.png,x=120,y=40)|試乗ボタン、購入ボタン|試乗：展示車両を試乗料金(5,000円)を支払うと30秒試乗できる&br()購入：総支払額(車体価格+税金+販売手数料)を支払うことで乗って帰ることができる|
+#table_zebra(#E4FFFD,#FFFFFF,#E4FFFD)
+#endregion
+
+***&color(#4682B4){&icon_fa(fa-solid fa-square-parking)}&space()展示エリア &size(15){ Car Exhibition Area}
+#region(展示エリア,close)
+&font(20px,#999){●&space()}店舗前にある駐車場に出品された車両が並び、近づくと車両情報を確認することができる
+&blankimg(01_展示エリア.png,x=400,y=220)
+#endregion
+
+***&color(#4682B4){&icon_fa(fa-solid fa-briefcase)}&space()オフィス &size(15){ Office Room}
+#region(オフィス,close)
+&font(20px,#999){●&space()}オフィスとメカニックは同じ建物にあり、屋上にはくつろぐスペースがある
+&blankimg(03_オフィス外観.png,x=400,y=220)
+&font(20px,#999){●&space()}オフィス内は簡単な商談ができるスペースとボスメニューが設置されている
+&blankimg(04_オフィス内.png,x=400,y=220)
+&font(20px,#999){●&space()}オフィス奥にガチャ作成場所が設置されている
+&blankimg(04_オフィス内2.png,x=400,y=220)
+#endregion
+
+***&color(#4682B4){&icon_fa(fa-solid fa-clipboard-list)}&space()出品管理 &size(15){ Management Screen}
+#region(出品管理,close)
+&font(20px,#999){●&space()}出品管理をする建物があり、鍵付きのガレージスペースが2つある&br()（左：売却管理、中央：オープンガレージ、右：空きスペース）
+&blankimg(08_オープンガレージ外観.png,x=400,y=220)
+&font(20px,#999){●&space()}左側のガレージに入ると、車両売却のメニューが表示され、扉前に置かれた車両を出品できる
+&blankimg(09_売却情報.png,x=400,y=220)
+&font(20px,#999){●&space()}中央にあるオープンガレージで、中古車ディーラーへ車両譲渡ができる様になっている
+&blankimg(08_オープンガレージ.png,x=400,y=220)
+#endregion
+
+***&color(#4682B4){&icon_fa(fa-solid fa-gear)}&space()併設メカニック A2 Lab支店&size(15){ Vehicle maintenance}
+#region(併設メカニック A2 Lab支店,close)
+&font(20px,#999){●&space()}オフィス横にメカニックが併設されている。大川が経営しているA2 Lab支店となる
+&blankimg(05_メカニック外観.png,x=400,y=220)
+&font(20px,#999){●&space()}持ち込まれた車両をキレイな状態で出品するために修理対応を行う
+&blankimg(06_メカニック内.png,x=400,y=220)
+&font(20px,#999){●&space()}中古車を購入した人がすぐにカスタムも可能になる
+&blankimg(07_メカニック内.png,x=400,y=220)
+#endregion
+
+//■導入されているMLO、プラグインについてのメモ書き
+//↓建物(MLO)　おそらく、これかな…
+//　[MLO] [FIVEM] Del Perro Garage  https://youtu.be/mPzJNInpnyI?si=kfIYt-dX3HD1cYuJ
+//↓中古車ディーラーのプラグイン
+//Fivem TGIANN Second-Hand Vehicles https://youtu.be/0BxylUaIgGs?si=dto7NWCgjqHo8uSs

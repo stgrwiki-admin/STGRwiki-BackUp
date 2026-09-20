@@ -1,0 +1,177 @@
+#slide_img(auto=4,position=center,width=360,height=270){
+facade_20240118.jpeg,
+billboard_20240310.jpeg,
+photobooth_20240119.jpeg,
+bar_20240224.jpeg
+}
+
+
+#table_style(head=#005D4D:#FFFFFF){}
+|~店名|~&icon_fa(fa-solid fa-compact-disc fa-spin-pulse fa-spin-reverse)|&ruby(あさしっく){麻SICK} &ruby(れこーど){RECORDS}|
+|~業種|~&icon_fa(fa fa-music)|MUSIC_SHOP|
+|~開業日|~&icon_fa(fa fa-calendar-check-o)|2024年2月17日|
+|~所在地|~&icon_fa(fa fa-map-pin)|9098番地|
+|~オーナー|~&icon_fa(fa fa-user fa-fw)|[[麻林　ラル]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+#center{
+*&font(27px,#96FF96){基}&font(24px){本情報} &font(9px,#96FF96){&icon_fa(fa fa-beat-fade fa-music fa-3x fa-fw)}
+}
+・ロスサントスで初となるレコードショップ。
+・ロスサントスに音楽文化がなく、音楽でお金を稼ぐ手段も少ないと感じ、レコードショップを立ち上げた。
+・・立ち上げに際し、[[成瀬 力二>成瀬　力二]]さんから着信音の手押し販売で得た20億を元手にしている。
+・販売する楽曲はオーナーの[[麻林 ラル>麻林　ラル]]が海外（ジャパン）のソウルメイトに依頼したものとロスサントスの住民が制作したものの2種類がある。
+・・着信音や店舗用BGMといった用途に合わせて、曲の長さにもいくつかの種類が用意されている。
+・・一般的なレコードショップと同様に、販売している楽曲は複数の人が購入できるが、権利を購入（バイアウト）することで楽曲の独占使用も可能としている。
+・・組織や個人に合わせたオーダーメイドも受け付けている。
+・2024年1月18日時点で芸能プロダクションの「[[GoodbyeCompany>GoodbyeCircus#id_1d672329]]」と業務提携を結んでいる。
+・また、飲食やジョイントも取り扱っている。&bold(){ただし、その商品はロスサントスの中でも非常にラインギリギリを攻めたものが多数を占めている。特に&color(#F54738){ジョイントはお蔵入りになりかけたものもある}。}
+・店の屋上には「Ballers record」の看板があり、外壁には「MC Purple」というアーティストの看板が掲げられている。&br()ちなみにMC Purpleが何者かは誰も知らない。
+・・2024年2月時点で屋上の看板はスプレーで麻SICK RECORDSに張り替えられている
+・店舗前の9095番地に社宅があり、鍵を受け取っている従業員はガレージを利用することができる。
+
+#co{{
+#table_style(head=center:#005D4D:#FFFFFF)
+|名称|番地|画像|備考|h
+|CENTER:MIDDLE:店舗|CENTER:MIDDLE:9098|&blankimg(facade_20240118.jpeg,width=160,height=120)||
+|CENTER:MIDDLE:社宅|CENTER:MIDDLE:9095|&br()&br()&br()|従業員用の共有ガレージ付き|
+#table_zebra(#efe,#fff,#054)
+//
+//|CENTER:MIDDLE:名称|CENTER:MIDDLE:番地|&blanking(画像名,width=160,height=120)|備考|
+//
+}}
+
+#center{
+*&font(27px,#96FF96){従}&font(24px){業員情報} &font(27px,#96FF96){&icon_fa(fa fa-solid fa-address-book)}
+}
+***従業員
+#table_style(head=center:#005D4D:#FFFFFF)
+|~役職|~名前|~就職日|~備考|h
+|オーナー|[[麻林　ラル]]|2024/01/30|-|
+|店員|[[淀川　てるみ]]|2024/02/03|麻林の犬&br()個人事業として広告宣伝業「&ruby(ストレリチア){Strelitzia}」を営む|
+|店員|[[豆乳　ちゃんもも]]|2024/02/06|料理長|
+|店員|[[こはな　らみ>Kohana　Lami]]|2024/02/08|-|
+|店員|[[春原　新]]|2024/02/14|-|
+|店員|[[ボタリン　モンロー]]|2024/02/17|-|
+|店員|[[柑橘　れもん]]|2024/02/23|-|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F0FFF0,odd=FFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+
+***アルバイト
+#table_style(head=center:#005D4D:#FFFFFF)
+|~名前|~開始日|~備考|h
+|[[さとう]]|2024/02/08|ジョブ数の関係で、賃金は[[麻林>麻林　ラル]]のお気持ち分|
+#table_sorter{even=#F0FFF0,odd=FFF}
+
+***退職者
+#table_style(head=center:#005D4D:#FFFFFF)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[ちの　まるこ>赤色　にごう]]|2024/02/12|CENTER:-|諸事情により退職|
+|[[MC　Sunrise]]|2024/02/03|CENTER:2024/08/14|シャンプロ所属にあたり退職|
+|[[銅鑼　イオリ]]|2024/05/14|不明|元アルバイト。本人希望により退職|
+#table_sorter{even=#F0FFF0,odd=FFF}
+//アルバイトの退職者が出たため項目を入れ替えました
+
+#center{
+*&font(27px,#96FF96){レ}&font(24px){ーベル} &font(27px,#96FF96){&icon_fa(fa fa-beat-fade fa-microphone fa-fw)}
+}
+***専属アーティスト
+#table_style(head=center:#005D4D:#FFFFFF)
+|~名前|~就職日|~備考|h
+|[[芹沢　すず]]|2024/06/13|-|
+|[[八王子　めぐ]]|2024/11/29|-|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F0FFF0,odd=FFF}
+
+#center{
+*&font(27px,#96FF96){商}&font(24px){品情報} &font(27px,#96FF96){&icon_fa(fa fa-solid fa-gifts)}
+}
+***通常商品
+&image(menu_20240218.png,x=320)
+
+#table_filter(){種類=show,価格=show,商品説明=show,備考=hide}
+#table_style(head=center:#005D4D:#FFFFFF){価格=center}
+|~種類|~商品名|~価格|~商品説明|~備考|h
+|Drink|アサノフ&br()&small(){&color(#aaa){ASANOFF}}|20,000|ブッ飛ぶほどに爽快な味わい||
+|Drink|18000&br()&small(){&color(#aaa){18000}}|100,000|最高級テキーラ 18000 ASAJO (40度)||
+|Drink|緑茶&br()&small(){&color(#aaa){Green Tea}}|-|ち〜っすお茶||
+|Drink|デスマウンテンビュー&br()&small(){&color(#aaa){DeathMauntainView}}|-|デスマウンテンの雫（微炭酸）||
+|Drink|麻シックスーパーハイ&br()&small(){&color(#aaa){ASAsick BEER}}|-|('ω')ｱｻｼｨ↓ｽｩﾊﾟｧ↑ﾊｧｧｧｧｲ↓||
+|Drink|ハイボール&br()&small(){&color(#aaa){High Ball}}|-|今夜は一緒にハイになろうぜ！||
+|Drink|コーラ&br()&small(){&color(#aaa){The!!!Collla!!!}}|-|世界の全てのシュガーを使ったコーラッ!!!||
+||||||h
+|Food|特製焼きそば&br()&small(){&color(#aaa){YAKISOBA DX}}|10,000|極東のB級グルメ 目玉焼き付き|専ら自販機で販売されており、毎日2700万程度の収入を収めている|
+|Food|フィッシュ&チップス&br()&small(){&color(#aaa){FISH & CHIPS}}|20,000|||
+|Food|Tボーンステーキ&br()&small(){&color(#aaa){T-BORN STEAK}}|100,000|||
+|Food|感謝のケーキ&br()&small(){&color(#aaa){Gratitude Cake}}|100,000|||
+||||||h
+|Joint|アサノハニー&br()&small(){&color(#aaa){ASA NO HONEY}}|50,000|添加物不使用 ノドを癒します||
+|Joint|麻ジャナイ&br()&small(){&color(#aaa){ASA JA NAI}}|50,000|麻レコOPEN記念品 違法性はない|限定商品から通常商品に|
+|Joint|ロスサントスドリーム&br()&small(){&color(#aaa){LOS SANTOS DREAM}}|50,000|ここは夢が叶う街||
+|Joint|麻シック OG&br()&small(){&color(#aaa){ASASICK OG}}|50,000|OG(Organic Green) 違法性はない|親しい人、ノリがわかる人にのみ提供|
+|Joint|角刈りシガー&br()&small(){&color(#aaa){KAKUGARI cigarettes}}|50,000|Peace begins with a KAKUGARI&br()&small(){&color(#aaa){平和は角刈りから}}||
+|Joint|アサジン&br()&small(){&color(#aaa){ASAJIN}}|50,000|胃の痛み、不快感、ムカつき、胸やけに。&br()頑張っているあなたの味方！いつもお疲れ様です！||
+|Joint|&br()&small(){&color(#aaa){Flying Shisha Skulls}}|50,000|ぶっ飛べよ！hahaha！||
+|Joint|&br()&small(){&color(#aaa){Trick or Treat Shisha!}}|50,000|良い子にはパンプキンプディング味、イケナイ大人はパンプキンXXX味らしい…&br()さぁどっちかな？||
+||||||h
+//|Drink/Food/Joint|通称名&br()&small(){&color(#aaa){商品名}}|価格|商品説明|備考|
+
+***期間限定商品
+#region(2024WhiteDay Selection)
+#table_style(head=center:#005D4D:#FFFFFF)
+|~&font(18px){WhiteDay Menu}|~&image(menu_20240314_2.jpeg,x=300)|h
+|~&image(menu_20240314_3.jpeg,x=300)|~|h
+|~&image(menu_20240314_1.jpeg,x=300)|~|h
+
+#table_filter(){種類=show,価格=show,販売日=hide,商品説明=show,備考=hide}
+#table_style(head=center:#005D4D:#FFFFFF){価格=right}
+|~種類|~商品名|~価格|~販売日|~商品説明|~備考|h
+|Food|チョコレート&br()&small(){&color(#aaa){WhiteDay Chocolate}}||2024/03/14|||
+|||||||h
+//|Drink/Food/Joint|通称名&br()&small(){&color(#aaa){商品名}}|価格|販売日|商品説明|備考|
+#endregion(2024年ホワイトデー)
+
+#region(Opening Event Menu)
+#table_filter(){種類=show,価格=show,販売日=hide,商品説明=show,備考=hide}
+#table_style(head=center:#005D4D:#FFFFFF){価格=right}
+|~種類|~商品名|~価格|~販売日|~商品説明|~備考|h
+|Food|ズズ肉&br()&small(){&color(#aaa){ZUZU NIKU}}|0|2024/02/17|産地直送! 新鮮なズズ肉!|イベントの開始準備中に起こった&openclose2(show=事故){(ガソリンスタンドでの多重爆発)}に対し、お詫びの&bold(){つまらないもの}として参加者に配布|
+|||||||h
+|Joint|麻ジャナイ&br()&small(){&color(#aaa){ASA JA NAI}}|10,000|2024/02/17|麻レコOPEN記念品 違法性はない|メニュー外の通常商品に|
+|||||||h
+#endregion(opening event)
+
+#center{
+*&font(27px,#96FF96){沿}&font(24px){革} &font(27px,#96FF96){&icon_fa(fa fa-database)}
+}
+***2024年
+#region(開く,open)閉じる
+#table_filter(){関係者=hide,エピソード・備考=hide}
+#table_style(head=center:#005D4D:#FFFFFF)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|01/09|[[山下市長>山下　ひろし]]に開業願を提出|[[麻林　ラル]]、[[山下　ひろし]]|事務手数料として2000万を[[市長>山下　ひろし]]に支払う|
+|01/18|店舗の建設が完了|[[麻林　ラル]]|[[成瀬 力二>成瀬　力二]]、[[ヴァン ダーマー>ヴァン　ダーマー]]（衛星外）、[[大 川>大　川]]、[[切間 てつお>切間　てつお]]、[[マクドナルド>ライトスターボーイ]]、[[川 上>川　上]]、[[さとう]]にお披露目する|
+|01/30|[[麻林　ラル]]が[[山下市長>山下　ひろし]]からオーナーを拝命|[[麻林　ラル]]、[[山下　ひろし]]||
+|02/03|[[淀川　てるみ]]、[[MC　Sunrise]]を雇用|[[麻林　ラル]]、[[淀川　てるみ]]、[[MC　Sunrise]]||
+|02/06|[[豆乳　ちゃんもも]]を雇用&br()9095番に社宅を購入|[[麻林　ラル]]、[[豆乳　ちゃんもも]]&br()[[麻林　ラル]]、[[ボタリン　モンロー]]||
+|02/08|レギオンに社用車を並べ、試供品を配布&br()[[こはな　らみ>Kohana　Lami]]を正式に雇用|[[麻林　ラル]]、[[こはな　らみ>Kohana　Lami]]||
+|02/09|[[市長>山下　ひろし]]からFestival Busを購入&br()レギオンで突発レイブを実施|[[市長>山下　ひろし]]、[[麻林　ラル]]&br()[[麻林　ラル]]||
+|02/12|[[淀川　てるみ]]と交友のある[[ちの　まるこ>赤色　にごう]]を雇用|[[麻林　ラル]]、[[ちの　まるこ>赤色　にごう]]、[[淀川　てるみ]]||
+|02/14|[[春原　新]]を雇用|[[春原　新]]、[[麻林　ラル]]||
+|02/17|店舗オープン&br()オープニングイベント「角刈りを捕まえろ」を開催&br()[[ボタリン　モンロー]]を正式に雇用|[[麻SICK RECORDS]]&br()[[GoodByeCompany>>GoodbyeCircus]]、[[9055]]、&openclose2(show=角刈り達){&br()([[切間　てつお]]、[[フランシスコ　マグナム]]、[[TANKTOP　竹森]]、[[ヨシャパテ>アイドゥラー　ヨシャパテ]]、&br()[[角ンドリー>ミン　ドリー]]、[[けっつん>けっつん　太郎]]、[[焦月　ツルギ]]、[[角ミゲス・ハン>アドミゲス・ハン]])&br()}、&openclose2(show=偽角刈り達){&br()([[四皇　シャンクズ]]、[[マクドナルド>ライトスターボーイ]]、&br()[[アルフォート　ウェスカー]]、[[ヴァン　ダーマー]])}&br()[[麻林　ラル]]、[[ボタリン　モンロー]]|&br()[[ストグラ公式ポスト>>https://x.com/stgr_roleplay/status/1758808630139498891]] 賞金総額4億2000万の大型企画。▼&openclose2(show=ルール){&br()①制限時間は30分&br()②参加者は&s(){Boom Boxの音を頼りに、街を走る角刈りを探す}&br()&space(18)角刈りが共通で乗っている&bold(){ピンクのIssi Sport}を探す&br()③参加者は角刈りの車にアタックして停止させ、角刈りを殴った上で&bold(){「角刈り捕まえた！」}と宣言することで賞金獲得&br()&space(3)同着は角刈りの判断に任されるが、横取り行為等不正があった場合は角刈りの判断でイベントテロ罪が適用される&br()④ハズレ角刈りを捕まえてしまった場合、相応のお仕置きが下される&br() ▼&openclose2(show=角刈り賞金テーブル){&br()5000万：[[切間　てつお]]、[[フランシスコ　マグナム]]、[[TANKTOP　竹森]]、[[ヨシャパテ>アイドゥラー　ヨシャパテ]]、[[角ンドリー>ミン　ドリー]]&br()3500万：[[けっつん>けっつん　太郎]]、[[焦月　ツルギ]]&br()&bold(){1億}：[[角林　ラル>麻林　ラル]]with[[角ミゲス・ハン>アドミゲス・ハン]]} &br()▼&openclose2(show=実際に行われたお仕置き内容){&br()[[シャンクズ>四皇　シャンクズ]]：セクハラ&br()[[マクドナルド>ライトスターボーイ]]：警察連行もしくはナイフでの刺殺&br()[[アルフォート　ウェスカー]]：罰金500万もしくはタイヤパンク&br()[[ヴァン　ダーマー]]：罰金100万}&br()▼&openclose2(show=結果){&br()捕獲された角刈りは3名&br()[[TANKTOP　竹森]](捕獲者：[[真新　サトシ]]) 5000万獲得&br()[[焦月　ツルギ]](捕獲者：[[クマ　ゴリラ]]) 3500万獲得&br()[[けっつん>けっつん　太郎]](捕獲者：[[西蓮寺　華月]]) 3500万獲得}}|
+|02/23|[[柑橘　れもん]]を雇用|[[麻林　ラル]]、[[柑橘　れもん]]||
+|03/22?|[[ちの　まるこ>赤色　にごう]]が退職|[[麻林　ラル]]、[[ちの　まるこ>赤色　にごう]]、[[淀川　てるみ]]|オーナーの[[麻林　ラル]]が[[淀川　てるみ]]から、[[ちの　まるこ>赤色　にごう]]の退職を聞いた日を暫定で退職日としました。|
+|05/14|[[銅鑼　イオリ]]を雇用|[[麻林　ラル]]、[[銅鑼　イオリ]]||
+|8/14|[[MC　Sunrise]]が退職|[[MC　Sunrise]]|多忙の[[麻林　ラル]]と話せるタイミングがなく、誰もいない店内にひとり挨拶してジョブを消した日を退職日としました。|
+|10/15|[[銅鑼　イオリ]]が退職|[[麻林　ラル]]、[[銅鑼　イオリ]]|銅鑼イオリの希望によりアルバイト契約を解除|
+|11/28|[[ShanaoR]]との共催で「ShanaoR Dinner Show」を開催|[[麻林　ラル]]、[[ShanaoR]]、[[芹沢　すず]]、[[八王子　めぐ]]|[[ストグラ公式ポスト>>https://x.com/STGR_RolePlay/status/1862043922471809261]]|
+#table_sorter{even=#F0FFF0,odd=FFF}
+//|mm/dd|出来事|関係者|エピソード・備考|
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,33 @@
+//購入日、通称、備考欄を追記してくれると嬉しいです！順番も適当なので出来ればいい感じに並び替えてください！
+#region(開く,close)&b(){閉じる}
+#table_style(head=center){配信日=right}
+#table_color(#fff0f5)
+||~車種|~購入日|~通称|~備考|h
+|&icon_fa(fa fa-car)|[[Lampadati Corsita>>https://w.atwiki.jp/gtav/pages/2829.html]]||こるしーた||
+|&icon_fa (fa fa-car)|[[Overflod Tyrant>>https://w.atwiki.jp/gtav/pages/1967.html]]|2023/11/12|ぼくのさいきょうのたいらんと||
+|&icon_fa(fa fa-car)|[[Annis Remus>>https://w.atwiki.jp/gtav/pages/2696.html]]||れみうすくん||
+|&icon_fa(fa fa-car)|[[Bravado Rumpo Custom>https://w.atwiki.jp/gtav/pages/1630.html>]]||らんぽるぎーに||
+|&icon_fa(fa fa-car)|[[Declasse Draugur>>https://w.atwiki.jp/gtav/pages/2843.html]]||ドラグエル||
+|&icon_fa(fa fa-car)|[[BF Surfer Custom>>https://w.atwiki.jp/gtav/pages/467.html]]||薬系置き場||
+|&icon_fa(fa fa-car)|[[Grotti Brioso300>>https://w.atwiki.jp/gtav/pages/2657.html]]||犯罪道具入れ||
+|&icon_fa(fa fa-car)|[[Weeny Peanut>>]]||だてざきピーナッツ||
+|&icon_fa(fa fa-car)|[[Pegassi Ignus>>https://w.atwiki.jp/gtav/pages/2723.amp]]|2023/12/28|新幹線イグナス||
+|&icon_fa(fa fa-car)|[[Pegassi Zentorno>>https://w.atwiki.jp/gtav/pages/1086.html]]|2024/01/03|ゼントーノ||
+|&icon_fa(fa fa-car)|[[Invetero Coquette D10>>https://w.atwiki.jp/gtav/sp/pages/2625.html]]|2024/01/21|コケットBIG10|BIG SUZUKIカスタム|
+|&icon_fa(fa fa-car)|[[Nagasaki Blazer Lifeguard>>https://w.atwiki.jp/gtav/pages/534.html]]||四駆バザール|レース用に購入|
+|&icon_fa(fa fa-car)|[[Enus Paragon R>>https://w.atwiki.jp/gtav/pages/2479.html]]|2024/02/12|ぱらごん||
+|&icon_fa(fa fa-car)|[[Maibatsu SunriseR>>]]|2024/02/22|||
+|&icon_fa(fa fa-car)|[[Grotti Furia>>https://w.atwiki.jp/gtav/pages/2534.html]]|2024/03/23|||
+|&icon_fa(fa fa-motorcycle)|[[Nagasaki Shinobi>>https://w.atwiki.jp/gtav/pages/2738.html]]||SHINOBI||
+|&icon_fa(fa fa-motorcycle)|[[Nagasaki Shinobi>>https://w.atwiki.jp/gtav/pages/2738.html]]||SHINOBI||
+|&icon_fa(fa fa-motorcycle)|[[Shitzu Hakuchou Drag>>https://w.atwiki.jp/gtav/pages/1655.html]]||はくちょうどらっぐ||
+|&icon_fa(fa fa-motorcycle)|[[Western Powersurge>>https://w.atwiki.jp/gtav/pages/2958.html]]||電気バイク||
+|&icon_fa(fa fa-motorcycle)|[[Maibatsu Sanchez>>https://w.atwiki.jp/gtav/pages/1667.html]]||どうなってもいいばいく||
+|&icon_fa(fa fa-bicycle)|[[Bike Scoecher>>https://w.atwiki.jp/gtav/pages/610.html]]||捨てる要員チャリンコA||
+|&icon_fa(fa fa-bicycle)|[[Bike Endurex Race Bike>>https://w.atwiki.jp/gtav/pages/608.html]]||捨てる要員チャリンコB||
+|&icon_fa(fa fa-plane)|[[Nagasaki Ultralight>>https://w.atwiki.jp/gtav/sp/pages/1816.html]]||||
+|&icon_fa(fa fa-plane)|&s(){[[Buckingham SuperVolito Carbon>>https://w.atwiki.jp/gtav/pages/1589.html]]}|2023/11/01|KANIMASA|12/21&link(すん){https://w.atwiki.jp/streamergta5/pages/693.html}へ譲渡|
+|&icon_fa(fa fa-plane)|[[Maibatsu Frogger>>https://w.atwiki.jp/gtav/pages/644.html]]|2023/12/23|||
+|&icon_fa(fa fa-ship)|[[Shitzu Longfin>> https://w.atwiki.jp/gtav/pages/2676.html]]|2024/01/30||ボスからの誕生日プレゼント|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion

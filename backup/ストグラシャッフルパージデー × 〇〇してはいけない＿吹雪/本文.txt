@@ -1,0 +1,40 @@
+//&image(ここに画像のURLを入力,y=300)
+
+#table_style(head=#00bfff:#fff){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(ふぶき){吹雪}|
+|~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|Fubuki|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|????年??月??日|
+|~解散日|~&icon_fa(fa-solid fa-users-slash)|2025年04月01日|
+|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|8242番地|
+|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|船着場|
+|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[飯田　けんつ]]|
+|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&font(b,#00bfff){水色}|
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ
+*&font(25,#89c3eb){基}本情報
+-[[2025年4月1日>ストグラシャッフルパージデー × 〇〇してはいけない]]のロスサントスで活動が確認されたギャング。
+-[[TOPGEAR]]を潰してアジトと色を奪ったと語られている。
+-&openclose2(show=裏話：){本来はSPD2025に[[ALLIN]]で活動予定だったチームだが、2025年3月23日に解散したため急遽設立された。}
+
+*&font(25,#89c3eb){構}成員情報
+&link_anchor(fbk,page=ストグラシャッフルパージデー × 〇〇してはいけない){SPD2025吹雪の項目を参照}
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ
+*&font(25,#89c3eb){拠}点情報
+#table_style(head=#696969:#F9FCFF:center:b)
+#table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
+|~番地|~場所|~通称|~管理者|~備考|h
+|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ
+*&font(25,#89c3eb){歴}史
+&link_anchor(fbk,page=ストグラシャッフルパージデー × 〇〇してはいけない){SPD2025吹雪の項目を参照}
+//ｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ
+#right(){&link_up(▲ページ上部へ)}

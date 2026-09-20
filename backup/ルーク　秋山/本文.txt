@@ -1,0 +1,211 @@
+*&font(24px){&font(28px,#d3ffa4){プ}ロフィール &icon_fa(fa fa-user-circle)}
+#slide_img(auto=3,width=300,height=500){ルーク秋山_私服01.png,ルーク秋山_変装01.png}
+
+//ここからプロフィール
+#table_style(head=#E6E6FA:#666){名前=#0F2350:#FFF:b:center}
+|~本名|~&icon_fa(fa fa-user fa-fw)|ルーク　&ruby(あきやま){秋山}|
+|~転入日|~&icon_fa(fa fa-plane-arrival fa-fw)|2024年07月02日 (&countup(2024/07/02,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|記者([[ペンカートン情報局]])&br()ゴシップ記者([[文秋館]])&br()カフェ[[Père Noël]] &small(){従業員(2025/07/31~)}|
+|~TwiX|~&icon_fa(fa fa-user-tag)|@bunsyu (ムーチョとの共用アカウント)&br()/@akiyama/@blackstone/@drakiyama/&br()@hotto-na-dog/@sinbunsi|
+|プレイヤー|BGCOLOR(#FFF):COLOR(#3b3b3b):~&icon_fa(fa fa-address-card-o fa-fw)|ゼルク|
+|告知等|BGCOLOR(#FFF):COLOR(#3b3b3b):~&icon_fa(fa fa-bullhorn)|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter) }[[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/zelk_vtuber]]|
+|配信場所|BGCOLOR(#FFF):COLOR(#3b3b3b):&icon_fa(fa fa-twitch)|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/darkzelk]]|
+|動画投稿|BGCOLOR(#FFF):COLOR(#3b3b3b):~&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube (@Zelk)}>>https://www.youtube.com/@Zelk/videos]]|
+|ガイドライン|BGCOLOR(#FFF):~&color(#3b3b3b){&icon_fa(fa fa-cut)}|切り抜き禁止&br()[[&icon_fa(fa-brands fa-square-x-twitter)【切り抜きについて】>>https://x.com/Zelk_Vtuber/status/1795941391891136675]]|
+//
+//配信場所に関して、Youtube配信が行われる可能性が低いためYoutubeを削除しました。
+//別キャラに関して、編集相談所ログ2024-03-26 06:13:03～を参照願います。
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(24px){&font(28px,#d3ffa4){基}本情報 &icon_fa(fa fa-address-card-o)}
+・相棒の[[ムーチョ　文岡]]と共に隣の国からやってきた。
+・・正式にロスサントスの入国審査は通ったが、空路は銃を持った怖い人達が居たので、念の為に途中からは海を泳いで来た。
+
+・ゴシップ記者として頑張ることに
+・・ゴシップ記事を上げる時は二人合わせて『&bold(){文秋館編集部}』と名乗る
+・・&bold(){文秋館社訓「報復上等！逃げるが勝ち！」}
+・・前の街ではムーチョとの共同経営で文秋館という名前の会社をやっていた。
+・[[アイアンメイデン　三郎太]]の情報局でも記者として働く事になり、社用車や報道ヘリを自由に使えるようになった。
+・基本嘘つきであり、記事になるのであればどんなことでも突き進んでしまう。
+・警察のプロファイルには『生年月日1995/10/11』とあるが真偽不明。ムーチョは『生年月日2000/04/01』とある為、事実であればルークの方が歳上となる。
+・初めての溶鉱炉は24/08/22　尚1か月ぶりに起床し、開始10分で拘束された模様
+・虚空新聞の悪評が街に回り、お店の体験すらさえてもらえない状態となる
+・2025/07/11 BJローンと[[MOZU]]の債務権から危うく白パスをはく奪されそうになり、禊として牧場100日物語(本当にこの日数をやるかは不明)が始まった
+・2025/07/25 全メカニックの体験を落ちてしまう程、腫れあがった住民となってしまう
+・2025/07/31 [[ペールノエル>>Père Noël]]の体験をしている最中、手洗いをしていない状態で商品を渡したとして責任を取って[[ナリエルさん>>マイゴ・ニ＝ナリエル]]が自主退職し、ルークがそのまま店長となってしまった
+
+*&font(24px){&font(28px,#d3ffa4){服}装一覧 &icon_fa(fa fa-shopping-bag)}
+
+***&size(120%){&bgcolor(#d3ffa4){&nbsp()&font(#474747,90%){&icon_fa(fa fa-shirt)} &color(#00000){私服&変装服}&nbsp(28)}}
+
+#Region(▶開く)&b(){▼閉じる}
+#table_style(head=#d3ffa4:100%:center){}
+|~&blankimg(ルーク秋山_私服02.png,x=135,y=225)|~&blankimg(ルーク秋山_個人医.png,x=135,y=225)|~&blankimg(ルーク秋山_佐藤二.png,x=135,y=225)|~&blankimg(ルーク秋山_ドックワン.png,x=135,y=225)|~&blankimg(ルーク秋山_黒井野学.png,x=135,y=225)|~&blankimg(ルーク秋山_黒井野学02.png,x=135,y=225)|
+|~私服|~個人医潜入服|~佐藤二|~ドックマン|~黒井野学01|~犯罪者|
+|&size(12){最初に街に来た時の恰好&br()ルーク秋山として街歩き&br()するときは基本この恰好}|&size(12){医師や個人医に&br()変装時使用している}|&size(12){情報を探るための変装&br()陽気なキャラ設定の為&br()ずっとテンションが高い}|&size(12){飲食体験用の変装}|&size(12){黒の情報を集める用の変装}|&size(12){黒の情報を集める用の変装&br()名前はその都度変わる}|
+
+#table_style(head=#d3ffa4:100%:center){}
+|~&blankimg(ルーク秋山_上級国民.png,x=135,y=225)|~&blankimg(ルーク秋山_探偵服.png,x=135,y=225)|~&blankimg(ルーク秋山_メイド服.png,x=135,y=225)|~&blankimg(ルーク秋山_煙山吸吐.png,x=135,y=225)|
+|~上級国民|~探偵服|~メイド服|~煙山吸吐|
+|&size(12){ゴシップ記者が民営化&br()された際にムーチョと&br()お揃いで作った服}|&size(12){探偵の仕事をする際に&br()着る服}|&size(12){BMCの体験の体験で着た&br()服。以降他の仕事の体験&br()時に着用}|&size(12){タバコ屋の体験時の変装&br()ルークの姿では雇って&br()もらえない。}|
+
+#EndRegion
+
+
+
+*&font(25px){&font(35px,#d3ffa4){人}間関係 &icon_fa(fa fa-users)}
+***&font(25px,#3EB370){&icon_fa(fa fa-newspaper)} &font(#00000){情報局}
+#region(▶開く)▼閉じる
+#table_style(head=#FFF:#FFF:center)
+|BGCOLOR(#d3ffa4):~&color(#666666){キャラクター名}|BGCOLOR(#d3ffa4):~&color(#666666){詳細}|h
+|[[ムーチョ　文岡]]|隣の国から一緒に来た相棒。この街で『文秋館編集部』として記事を書いている&br()口プの強さはピカイチ|
+|[[アイアンメイデン　三郎太]]|ペンカートン情報局の局長&br()初日に偶然会い、形式上の「記者」として雇ってくれた|
+|[[>広場　うた子]]|黒いことに興味があることから『文秋館編集部』の記者仲間となった。|
+
+#endregion
+
+***&font(25px,#4C6CB3){&icon_fa(fa fa-shield-halved)} &font(#00000){ロスサントス警察}
+#region(▶開く)▼閉じる
+#table_style(head=#FFF:#FFF:center)
+|BGCOLOR(#d3ffa4):~&color(#666666){キャラクター名}|BGCOLOR(#d3ffa4):~&color(#666666){詳細}|h
+|[[バーバリアン　田中]]|一番最初に出会った住民。&br()危うく強制送還されそうになるが、色々と親身になって教えてくれた|
+|[[赤ちゃんキャップ>>ましゃかり　トラボルタ]]|会うとやたら口論になってしまう警察&br()高橋さんに着いて行って警察署で口論した結果、キャップの指示で警察署内出禁となる|
+
+#endregion
+
+***&font(25px,#4C6CB3){&icon_fa(fa fa-user-secret)} &font(#00000){ギャング}
+#region(▶開く)▼閉じる
+|BGCOLOR(#d3ffa4):~&color(#666666){キャラクター名}|BGCOLOR(#d3ffa4):~&color(#666666){詳細}|h
+|[[ヴァン　ダーマー]]|何かと[[MOZU]]の記事で揉めることが多く、最初に溶鉱炉に入れた人物。|
+|[[高橋　滅論]]|ギャングの情報を教えてくれる人物。[[第4宇宙速度]]のギャングで&br()「黒井野学」の変装時に勧誘を受ける。よく情報をポロリしてくれる|
+|[[飯田　けんつ]]|黒井野学として接触するも連絡先をうっかりミスでバレてお金の賠償と&br()記事を書く約束をすることになった。記事のネタを提供してくれることもあり、安心できる人物|
+
+
+#endregion
+
+***&font(25px,#4C6CB3){&icon_fa(fa fa-person)} &font(#00000){市民}
+#region(▶開く)▼閉じる
+|BGCOLOR(#d3ffa4):~&color(#666666){キャラクター名}|BGCOLOR(#d3ffa4):~&color(#666666){詳細}|h
+|[[葛城　司]]|個人医。以前個人医体験から裁判に発展し、それ以降険悪な関係に。&br()ルークは「つかっちゃん」と呼んでいるが心底嫌がっている模様。|
+|[[三否亭　四五六確]]|BJローンの社長。MOZUとの債権からチャラにしてくれる代わりに牧場の禊を提案した人物。&br()ルークは牧場で心が折れたら電話して声を聴きたくなってしまうとのこと。|
+|[[岐阜野　こみ蔵]]|四五六確さんの禊の紹介で牧場キラキラフレンズとなった人物。&br()牧場のボスでルークに優しい。虚空新聞も好きだと言ってくれるいい人。|
+|[[沖原　たくみ]]|四五六確さんの禊の紹介で牧場キラキラフレンズとなった人物。&br()ルークが何かすると圧と方言を出して叱ってくる。その反面牧場で働いた際はお金をくれるなど飴と鞭がうまい。|
+|[[揚物　ころも]]|BMCの体験の体験として一緒に働いてくれた人物。&br()ルークを心配してくれる数少ない人物。2人揃うとコントになる。|
+
+#endregion
+*&font(24px){&font(28px,#d3ffa4){エ}ピソード &icon_fa(fa fa-pen-nib)}
+***2024年
+#Region(▶開く)▼閉じる
+#include(ルーク秋山/エピソード1)
+#EndRegion
+
+
+***2025年
+#Region(▶開く,open)▼閉じる
+#include(ルーク秋山/エピソード2)
+
+#include(ルーク秋山/エピソード3)
+
+#include(ルーク秋山/エピソード4)
+
+#EndRegion
+
+
+*&font(24px){&font(28px,#d3ffa4){ア}ーカイブ &icon_fa(fa fa-twitch)}
+***2024年
+#region(開く,close)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~出来事|h
+|07/02|1日目|[[逃走>>https://www.twitch.tv/videos/2187154844]]|ムーチョとロスサントスへやってくる・アイアンメイデン三郎太に会い、記者になる|
+|07/04|2日目|[[99％の嘘と1%の真実で作る。>>https://www.twitch.tv/videos/2188864412]]|警察と宝石店強盗の記事を書く|
+|~|~|[[99％の嘘と1%の真実で作る。>>https://www.twitch.tv/videos/2188909080]]||
+|07/05|3日目|[[情報収集だ。>>https://www.twitch.tv/videos/2189687210]]|いがらしえいむの記事を書く。街で情報収集をする|
+|07/13|4日目|[[記事を直々>>https://www.twitch.tv/videos/2196453299]]|ぱんちゃんの記事を書く。ムーチョの記憶が無くなる。大型飛行場の情報収集をする|
+|08/22|5日目|[[久しぶりの街>>https://www.twitch.tv/videos/2230877200]]|起きて早々MOZUに攫われる。溶鉱炉に入れられ記憶が無くなる|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+***2025年
+#region(開く,open)
+
+#region (2025/03,close)&b(){2025/03}
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~出来事|H
+|03/19|6日目|[[伝説の記者>>https://www.twitch.tv/videos/2408802949]]|個人医の葛城さんと裁判|
+|03/22|7日目|[[熱愛報道RTA>>https://www.twitch.tv/videos/2412198918]]|職を探すも体験を断られ続ける。ぱちおの記事を書く|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region (2025/05,close)&b(){2025/05}
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~出来事|H
+|05/23|8日目|[[8日目>>https://www.twitch.tv/videos/2466078194?t=01h22m16s]]|MOZUに攫われる。けんつさん記事の匿名報道ミスによるノルマ発生|
+|05/25|9日目|[[闇を暴け>>https://www.twitch.tv/videos/2467862125]]|餡ブレラに沈められる。けんつさんに変装がばれる。2記事執筆する|
+|05/28|10日目|[[極上の記事を仕上げたい>>https://www.twitch.tv/videos/2470503709]]|飲食店初めての体験。2記事執筆する|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region (2025/06,close)&b(){2025/06}
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~出来事|H
+|06/20|11日目|[[伝説の記者>>https://www.twitch.tv/videos/2490964661?t=0h16m46s]]|ゴシップ記者の今後の方針を話す|
+|06/29|12日目|[[記者の起床>>https://www.twitch.tv/videos/2498968190]]|E5's BURGERについて調べる。MOZUから謎の債権について堕夜だよとBJローンと話す|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region (2025/07,close)&b(){2025/07}
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~出来事|H
+|07/01|13日目|[[鬼に筆>>https://www.twitch.tv/videos/2500681410?t=3h11m23s]]|けんつさんからの情報提供。BJローンと話し合い。ブロッコリーからの探偵依頼|
+|07/02|14日目|[[14日目>>https://www.twitch.tv/videos/2501585488?t=4h29m7s]]|街に来て1周年。高額請求の疑いをかけられる。うた子さんがゴシップ記者になる。|
+|07/03|15日目|[[少しだけ起床だけど物語めちゃすすめ隊>>https://www.twitch.tv/videos/2502616253]]|ジャックスの身体を探す。山下ひろしの記事を見せる。四五六確さんに請求書を渡す|
+|07/04|16日目|[[白パス剝奪の危機>>https://www.twitch.tv/videos/2503358356]]|9055体験即クビ。ジャックス身体捜索編|
+|07/10|17日目|[[ジョブ探し>>https://www.twitch.tv/videos/2508482198?t=3h1m51s]]|仕事探し。BMCの体験の体験|
+|07/11|18日目|[[大腫れルーク職探しの旅>>https://www.twitch.tv/videos/2509377984?t=2h31m2s]]|仕事探し。タバコ屋の体験。私文書偽造罪の件で牧場での禊|
+|07/12|19日目|[[牧場キラキラフレンズ物語>>https://www.twitch.tv/videos/2510328674]]|禊の牧場。JTS体験の面接テスト。たえことの争い|
+|07/13|20日目|[[鉄骨のポーク秋山>>https://www.twitch.tv/videos/2511232468?t=5h10m51s]]|鉄骨渡りのイベント参加。うた子さんの初記事投稿。9055体験チャレンジ失敗|
+|07/15|21日目|[[21日目>>https://www.twitch.tv/videos/2512971317?t=2h48m58s]]|ゴシップ記者専用のヘリが導入。ストリップバーに行く|
+|07/16|22日目|[[22日目>>https://www.twitch.tv/videos/2513868608?t=3h59m58s]]|オークションでルーク自身の1度何でも言うこときく権を9000万で落札される|
+|07/17|23日目|[[23日目>>https://www.twitch.tv/videos/2514762375?t=3h56m8s]]|A2、SKEに面接しに行く。ボクシング会場でちゅにさんにコツを教える|
+|07/24|24日目|[[牧場脱走計画>>https://www.twitch.tv/videos/2520102857]]|牧場の記事を書くために情報を集める。|
+|07/25|25日目|[[牧場脱走計画part.2>>https://www.twitch.tv/videos/2521802106?t=3h14m23s]]|警察署で起きた記事と牧場の記事を書く。たくみ先輩と揉める|
+|07/31|26日目|[[早番で職探しルーク秋山>>https://www.twitch.tv/videos/2527182178]]|警察署内に監禁される。ペールノエルの体験から店長になってしまう|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region (2025/08,open)&b(){2025/08}
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~出来事|H
+|08/01|27日目|[[無職から店長に成り上がった>>https://www.twitch.tv/videos/2528064930]]|ペールノエル店長一日目。店長就任祝いとしてレースを明日開催する|
+|08/02|28日目|[[レース主催店長編>>https://www.twitch.tv/videos/2528975829]]|カレー屋射殺事件。ペールノエル乗っ取り事件。上田さん暴走事件。レース主催|
+|08/03|29日目|[[僕の成功体験談>>https://www.twitch.tv/videos/2529651008?t=6h17m20s]]|上田さんと企画、新商品について話す|
+|08/05|30日目|[[街一番の店長(自称)>>https://www.twitch.tv/videos/2531590212]]|ペルノヘのゴリラに刺される。上田さんと企画を練る。|
+|08/08|31日目|[[飲食店代表取締役兼記者>>https://www.twitch.tv/videos/2534351890]]|命田隊長デスマウンテン販売の件。上田市長室でのギャング譲渡事件と記事|
+|08/15|32日目|[[少し遅めの店主帰還>>https://www.twitch.tv/videos/2540631519]]|利害が一致したので上田さんのギャングに加入予定。ペールノエル店長編終了？|
+|08/16|33日目|[[王と記事>>https://www.twitch.tv/videos/2541518053]]|ペールノエル店長最終日？。上田ギャング設立前にクビになる|
+|08/17|34日目|[[無職逆戻り編>>https://www.twitch.tv/videos/2542400848]]|今後の方針を検討する。ここなさんと話す|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+**関連
+&font(red,b){※ネタバレ注意！}
+#region(開く)
+&bold(){プレイヤー「ゼルク」の別キャラクター}
+▶︎「[[エスターク・Z・ダークネス]]」
+▶︎「[[医師河　ルーク]]」
+▶︎「[[フェニックス　ヤマト]]」
+▶︎「[[卯月　るくあ]]」
+//別キャラクター名記載の詳細については、編集相談所ログ2024-03-26 06:13:03～を参照願います。
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}
