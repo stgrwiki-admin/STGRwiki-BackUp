@@ -1,0 +1,739 @@
+#slide_img(auto=3,width=290,height=516){ジェイク　レディントン_TOP_Season2.JPG.jpg,ジェイク　レディントン_Season2_260527.JPG.jpg}
+//
+//&image(ジェイク　レディントン_TOP_Season2.JPG.jpg,y=350)
+
+#region(Season1)閉じる
+#slide_img(auto=3,width=290,height=490){Jake_kuriman.JPG,Jake_hat.JPG,Jake_241102.png,Jake_azitama.JPG}
+#endregion
+
+#table_filter(){Season1=hide,Season2=show}
+#table_color(#A32CB9)
+|~&color(#eddbff){世界線}|~&color(#eddbff){&icon_fa(fa fa-earth-asia)}|~&color(#eddbff){Season1}|~&color(#eddbff){ Season2}|
+|~&color(#eddbff){名前}|~&color(#eddbff){&icon_fa(fa fa-user)}|>|ジェイク　レディントン|
+|~&color(#eddbff){出身地}|~&color(#eddbff){&icon_fa(fa fa-location-dot)}|>|ペルー|
+|~&color(#eddbff){誕生日}|~&color(#eddbff){&icon_fa(fa fa-cake-candles)}|>|&co(){yyyy年03月dd日(&countup(yyyy/mm/dd,y)歳)}|
+|~&color(#eddbff){転入日}|~&color(#eddbff){&icon_fa(fa fa-plane-arrival)}|2023/06/18 (&countup(2023/06/18,yd)経過)|2026/04/01 (&countup(2026/04/01,yd)経過)|
+|~&color(#eddbff){職業}|~&color(#eddbff){&icon_fa(fa fa-university)}| [[ギャング]]「[[餡ブレラ>anbrella(餡ブレラ)]]」underboss &br()&b(){キャラクターエンディング済}　&small(){～2025年06月13日}| [[ギャング>ギャング（Season2）]]「[[餡ブレラ>anbrella(餡ブレラ)]]」|
+|~&color(#eddbff){TwiX}|~&color(#eddbff){&icon_fa(fa fa-crow)}|@jay||
+|BGCOLOR(#824880):~&color(#eddbff){プレイヤー}|BGCOLOR(#824880):COLOR(#EDDBFF):~&icon_fa(fa fa-address-card-o)|>|レントンゲームズ|
+|BGCOLOR(#824880):~&color(#eddbff){告知等}|BGCOLOR(#824880):COLOR(#EDDBFF):~&icon_fa(fa fa-bullhorn)|>|MIDDLE:&font(#1da1f2){&icon_fa(fa fa-twitter)}[[&font(#1da1f2){Twitter @RENTON_GAMES}>>https://twitter.com/RENTON_GAMES]]|
+|BGCOLOR(#824880):~&color(#eddbff){配信場所}|BGCOLOR(#824880):COLOR(#EDDBFF):~&icon_fa(fa fa-gamepad)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube (@RENTONGAMES)}>>https://www.youtube.com/channel/UCjs-5fTyhaRVQVfdEmVyyqw]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch (rentongames)}>>https://www.twitch.tv/rentongames]] |
+|BGCOLOR(#824880):~&color(#eddbff){別キャラクター}|BGCOLOR(#824880):COLOR(#EDDBFF):~&icon_fa(fa fa-user-plus)|>|[[赤城　煉]] / レン　ティ|
+
+*キャラクターエンディング
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2年間餡ブレラ..ジェイクレディントン有難うございました！ボスと共にさぁ次の街へ...<a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a> <a href="https://t.co/cMmV2iZMun">pic.twitter.com/cMmV2iZMun</a></p>&mdash; レントンゲームズ🍌 (@RENTON_GAMES) <a href="https://twitter.com/RENTON_GAMES/status/1933592523060204001?ref_src=twsrc%5Etfw">June 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+
+*&size(25){🌰}&color(#eaf4fc){&size(35){&color(red){基}}本情報}
+・12時前後に就寝する早上がり組であることから「定時[[ギャング]]」を自称している
+・[[餡ブレラ>>anbrella(餡ブレラ)]]古参メンバーなのだが、以前が起きてくる回数が少なかったり衛星外短時間作業のみなこともあって、新人組以上に新参者扱いされる場面があった(10/08時点)
+・頭頂部を残した、特徴的な刈り上げスタイルヘアーから“栗まんじゅう”というあだ名が付いている
+・[[栖家幡　華憐]]に作ってもらった“栗まんじゅう”を名刺代わりに配り歩く
+・餡ブレラメンバーや警察の人数がなかなか揃わなかったり、歪んで大型ミッションが自分の思うようにできなかったりと結構な不憫体質
+・反面ギャンブル運が強く、[[カジノ]]でオールインを繰り返して1日で9億円稼いだことも
+・久々に起きてきて街の法律や犯罪の難易度が変わったことに驚きながら、仲間に教わり日々奮闘中
+・大型ミッションの参加時には遊撃部隊として、少し離れた位置で警察の位置を報告したり銃で交戦する役回りを好む
+・'25/06/13、[[ボス>アルフォート　ウェスカー]]を含めた大半の[[餡ブレラ>>anbrella(餡ブレラ)]]構成員と共に街を去った。
+----
+#div(width=200px,bgcolor=#DA1725){&size(17){&font(b,#FFFFFF){　Season2}}}
+・'26/04/01、[[餡ブレラ>>anbrella(餡ブレラ)]]構成員と共に街に戻ってきた。
+・別の街で優秀な美容師に依頼して髪型・髪色を大幅に変えており、“栗まんじゅう”ではなく、“紅芋タルト”だと自称している。
+
+*&size(25){🌰}&color(#eaf4fc){&size(35){&color(red){エ}}ピソード }
+***2023年
+#region(6月)&bold(){－6月}
+・エピソード募集中
+#endregion
+#region(7月)
+・エピソード募集中
+#endregion
+#region(8月)
+・エピソード募集中
+#endregion
+#region(9月)
+・エピソード募集中
+#endregion
+#region(10月)
+・久しぶりの目覚め。仕事のやり方が違う事に驚き[[栖家幡　華憐]]に教えてもらう。大型ミッションをやりたいと思ったが一足遅かった。
+・パシフィック銀行強盗直後、警察が集まってる所にタクシーで心なきのフリをして近寄りグレネードを投げる。(10/17)
+・パシフィック銀行強盗でまたタクシーで心なきのフリして報告をして仲間の手助けをする。グレネードでパトカーを爆破。[[ニックス　リア]]を銃撃戦でダウンさせる。(10/18)
+・エピソード募集中
+#endregion
+#region(11月)
+・エピソード募集中
+#endregion
+#region(12月)
+・エピソード募集中
+#endregion
+***2024年
+#region(1月)
+・エピソード募集中
+#endregion
+#region(2月)
+#region(2/17)
+&bold(){2/17}
+#region(那須さんから電話で空港ミッションの誘いを受ける)
+成功
+-ボスが起床
+-待機するメンバー(那須、わきを、チャルロス)と合流する。
+-クマゴリが起床
+-空港に侵入し敵を殲滅する。
+-追われて捕まったチャルロスを救出に向かう。
+-ボスの救出に向かう。
+--強制瞑想したボスをお迎えに行く。
+#endregion
+-資金洗浄を行う。
+-mozuのパラゴンがパトカーの傍に放置されていたので、隠した。
+--ライアンに伝える。
+-華憐さんが起床
+-ボスから月見結がALLINを脱退したと報告を貰う。
+-BMCでDraugr(車)のカスタムを行う。
+--クマゴリさんとイベント「角刈りを捕まえろ」について話す。
+-すんにDraugrを貸す。
+
+
+#endregion
+#endregion
+#region(3月)
+#region(3/5)
+&bold(){笑いすぎてシンデマス}
+-那須と今日のミッションや車について話す。
+-BMCで車を直してもらう
+-ご飯についての話をしながらにゃんこと質屋に行く
+#region(アーティファクト)
+成功
+#endregion
+-博士と餡ブレラのタトゥーを入れた。
+#endregion
+#region(3/10)
+&bold(){3/10}
+-プリズンで起床する。
+-ボスが迎えに来て下さった。
+--ボスが昨日まで180億持っていたらしい。
+--無馬チャレンジというものがあるらしい。今度、無馬さんに会ったらチャレンジしよう。
+#region(ユニオン)
+心無き市民のユニオンヘイスト
+-皆で、心無き市民の変装を見繕う。
+-華憐さんが単独で回収を開始し、ほかのメンバーで通行人のふりをしてラークとして歩きまわる。
+-個人医に救われた博士以外、全員逮捕されるが、楽しかった。
+-プリズン出所後、皆で会議室で団らんしながら心無きユニオンヘイストの鑑賞会をする。
+
+-車探しを行う
+-サーマルミッションを行ったが失敗した。
+--くまちゃんに車を返してもらった。
+#region(何やら無線が騒がしい....)
+閉じる
+-バリケードを壊した市民(パンチャン)がいたと聞き、パンチャンを探すこととなった。
+#endregion
+-レギオンで3時瞑想を迎える。
+-クラフト素材の布が不足したため、メンバーで布探し大会を開催。
+#region(パンチャンを探す)
+パンチャンが見つかり詰める。
+-パンチャンに仕事の邪魔をされたことを問い詰める。彼自身も心当たりがある様子だが、謝罪しつつものらりくらりとした生返事。
+-パンチャンの強制瞑想中に、遠くから覗いていた人物を見つけ銃撃すると焦月ツルギだった。
+-パンチャンがファームが得意だと聞き、手持ちの物資をすべて差し出せば許るすとした。ボスの命で彼の拠点から素材を巻き上げる。
+-別の拠点にも入れてもらう。部屋の中にある大量の武器とアーマーに驚愕する。ただファームが好きでクラフトのレベル上げを楽しんでいるうちに山積みになるほどため込んでしまったらしい。金も自販機の売り上げで3億貯めたと聞く。
+-パンチャンの優秀なファーム力を見込んで餡ブレラに入れるかどうかメンバーと相談する。餡ブレラに誘ってみたが、パンチャンも急な話に戸惑い、数日考える猶予を与える。彼の素材の持ち出しはいったんそれまでとし、謝罪するパンチャンと別れる。
+#endregion
+#endregion
+#endregion
+#endregion
+#region(4月)
+・エピソード募集中
+#endregion
+#region(5月)
+#region(05/16)
+&bold(){05/16}
+-政宗と島取りについて話す
+-花つみをした際に熊に襲われる
+#region(サーマルミッション)
+警察を全滅させて成功
+-メンバー:[[政宗>伊達咲　政宗]]、[[にゃんこ>ニャンコ・スキー]]、[[君島こはる>君島　こはる]]
+-ガス欠になったり車を修理中に近くのコンビニ強盗が起こり、ハラハラしながらアジトに帰る。
+#endregion
+-かれんさんに借金を肩代わりしてもらう
+#region(コンビニ強盗)
+失敗
+-カーチェイスの末捕まる
+#endregion
+-政宗に島取り用の服を教えてもらう
+#region(客船)
+成功
+-メンバー:政宗、にゃんこ、わきを、ハンク、そす、チョコラータメアリー
+#endregion
+-チョコラータメアリーをプリズンまで迎えにいく
+-アパレルショップで、島取り用服を仕立てる
+
+#endregion
+#endregion
+
+*&size(25){🌰}&color(#eaf4fc){&size(35){&color(red){ア}}ーカイブ &icon_fa(fa fa-youtube)&icon_fa(fa fa-twitch)}
+#div(width=200px,bgcolor=#DA1725){&size(17){&font(b,#FFFFFF){　Season1}}}
+#size(45%){　}
+&font(#C9171E){&icon_fa(fa fa-solid fa-youtube-play)}[[&font(#C9171E){&bold(){Season1 アーカイブ再生リスト}}>>https://m.youtube.com/playlist?list=PLIjQvrFlRe2E]]&font(#C9171E){&icon_fa(fa fa-external-link)}
+***2023年
+#region(6月)&bold(){－6月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|06/18|#1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新章-1日目>>https://www.youtube.com/watch?v=FgfKnWpEJE0]]|
+|06/20|#2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[餡ブレラ所属-2日目>>https://www.youtube.com/watch?v=8yCPyMIXdoI]]|
+|06/21|#3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[抗争初日-餡ブレラ>>https://www.youtube.com/watch?v=jPTKRXl8Ik8&t=1832s]]|
+|06/23|#4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[抗争最終日-餡ブレラ>>https://www.youtube.com/watch?v=Ije-JbxRytg]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(7月)&bold(){－7月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|07/01|#5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[餡ブレラ所属-5日目>>https://www.youtube.com/watch?v=k-VdjqS8UB8]]|
+|07/02|#6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[餡ブレラ所属-6日目>>https://www.youtube.com/watch?v=yP0P0jJxzvg]]|
+|07/08|#7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[餡ブレラ所属-7日目>>https://www.youtube.com/watch?v=9a8niEvvV_M]]|
+|07/15|#8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[餡ブレラ所属-8日目>>https://www.youtube.com/watch?v=Lr_8Gjq4ujo&t=7803s]]|
+|07/16|#9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[餡ブレラ所属-9日目>>https://www.youtube.com/watch?v=CEMJEjaiELc&t=99s]]|
+|07/17|#10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[餡ブレラ所属-10日目>>https://www.youtube.com/watch?v=SoD6I_L90yQ&t=454s]]|
+|07/22|#11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[餡ブレラ所属-11日目>>https://www.youtube.com/watch?v=Z4XYAWaKEX8&t=16s]]|
+|07/29|#12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[餡ブレラ所属-12日目病み上がり！！>https://www.youtube.com/live/roLAdSg07b8?si=k-sjErJ2CVZL0V-r>]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(8月)&bold(){－8月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|08/02|#13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[楽しくエンジョイ犯罪！-13日目>>https://www.youtube.com/live/kNFokW9T_YI?si=PEh9UfP9yd7KoKYd]]|
+|08/05|#14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日こそ原付で犯罪！-14日目>>https://www.youtube.com/live/fEa2LtDz2UA?si=Ok1cGg_nktVt0OZ7]]|
+|08/06|#15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日も犯罪そして車買い！-15日目>>https://www.youtube.com/live/mJ1pI_YY80Q?si=NlPI938MUbFSF97Z]]|
+|08/09|#16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日も犯罪行くぞ-16日目>>https://www.youtube.com/live/eQpOAraY6hU?si=-7ssZquVLX76ak3X]]|
+|08/10|#17|&font(#6441A4){&icon_fa(fa fa-twitch)}[[何やら始まる予感？-17日目>https://www.twitch.tv/videos/1895075852>]]|
+|08/12|#18|&font(#6441A4){&icon_fa(fa fa-twitch)}[[何やら始まる予感？-18日目>>https://www.twitch.tv/videos/1896845823]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(9月)&bold(){－9月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|09/03|#19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[少しだけまったり>>https://www.youtube.com/live/hBzZoWY6jLk?si=BKtjppRAdlVjcyaS]]|
+|09/05|#20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[少しだけまったり>https://www.youtube.com/live/58-Y8IBHJ-k?si=YdjzWJDj_k2DGYGm]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(10月)&bold(){－10月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|10/08|#21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[久しぶりに花摘み>https://www.youtube.com/live/xFP4uy-EqHI?si=GpVZyPNzoQYs8-pl]]|
+|10/09|#22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日は仕事を沢山できたらよい>https://www.youtube.com/live/de752VhJi-8?si=kuOGxsufuuWI7f11]]|
+|10/12|#23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日は仕事を沢山できたらよい>https://www.youtube.com/live/c9AAuwpJ11Y?si=4z_GTtcBRx0xJ6FZ]]|
+|10/14|#24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[億万長者になったジェイク買い物をする>https://www.youtube.com/live/geoUDD5f_Ww?si=10Xmcxo-ZXAWxftR]]|
+|10/15|#25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[45分間のギャンブルのみ>https://www.youtube.com/live/Lu6BzuHuqaQ?si=1k7Vr54KjoBHOeB_]]|
+|10/16|#26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[さぁ今日も頑張ろう>https://www.youtube.com/live/brouSMk36fM?si=EKkcLYlmalA-k7Dh]]|
+|10/17|#27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日も今日とてギャンブル>https://www.youtube.com/live/dppJUVrVmXA?si=gT2EzpJO2IeHfXRX]]|
+|10/20|#28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[少しだけ今日も今日とてギャンブル>https://www.youtube.com/live/3hZKPKCDjTs?si=FED2-qnuyntLlQaX]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(11月)&bold(){－11月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|11/07|#29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[組織の為に少しだけ薬集めだけ>https://www.youtube.com/live/_23dkx0hAvE?si=0xPpzksDKNJSFhbN]]|
+|11/18|#30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[組織の為に少しだけ薬集めだけ>https://www.youtube.com/live/_23dkx0hAvE?si=0xPpzksDKNJSFhbN]]|
+|11/00|#31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[花集めるなりなんなり>https://www.youtube.com/live/8LofUy7k9Ks?si=qRInZSbPXuYBWmXY]]|
+|11/18|#32|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[花集めるだけだと思う>https://www.youtube.com/live/kNlUj4DVA2Q?si=dqeJZDW4klhKfFBs]]|
+|11/24|#33|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[少しだけ花集めしてなにかする>https://www.youtube.com/live/BZJvDZy__DI?si=4-wtiBubIpx3eBJv]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+***2024年
+#region(1月)&bold(){－1月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|01/07|#34|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[やぁ俺は栗饅頭>https://www.youtube.com/live/8YYmKCkJCOs?si=PLNL6PlenzaElvOG]]|
+|01/13|#35|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[週末ギャング>https://www.youtube.com/live/DhTS02gHfB0?si=MI7lB-xWtL1l_ErT]]|
+|01/14|#36|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[週末ギャング>https://www.youtube.com/live/Say44Jm7lak?si=oeh07rExjlINhIzf]]|
+|01/15|#37|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日も稼ぐ>https://www.youtube.com/live/-WV_hevmnRA?si=ITiyrcfCKlUPasqe]]|
+|01/16|#38|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日も今日とて指名手配>https://www.youtube.com/live/3V5orxZf1rg?si=q-8nJf7zkvkBnAC0]]|
+|01/18|#39|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[栗饅頭の一日>https://www.youtube.com/live/QuuY44S46_w?si=-Ocgp2WBOenl9rzS]]|
+|01/20|#40|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[週末ギャング>https://www.youtube.com/live/QeMHhiM-ldo?si=7EHnY3iL2Tts5QGk]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(2月)&bold(){－2月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|02/01|#41|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[平日ギャングPART1>https://www.youtube.com/live/-dsxqIk9OyU?si=-Y2obP2nfXizrSy5]]|
+|02/01|#41|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[平日ギャングPART2>https://www.youtube.com/live/ASdi4bqfrIs?si=_NjBKJJLemHpn54y]]|
+|02/08|#42|&font(#6441A4){&icon_fa(fa fa-twitch)}[[抗争まで3日>https://www.twitch.tv/videos/2056707070]]|
+|02/09|#43|&font(#6441A4){&icon_fa(fa fa-twitch)}[[カジノで3億負けた男>https://www.twitch.tv/videos/2057638537]]|
+|02/11|#44|&font(#6441A4){&icon_fa(fa fa-twitch)}[[抗争日>https://www.twitch.tv/videos/2059663285]]|
+|02/12|#45|&font(#6441A4){&icon_fa(fa fa-twitch)}[[金なくなったから稼ぐPART1>https://www.twitch.tv/videos/2060561426]]|
+|02/12|#45|&font(#6441A4){&icon_fa(fa fa-twitch)}[[金なくなったから稼ぐPART2>https://www.twitch.tv/videos/2060657498]]|
+|02/13|#46|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ゆるく犯罪>https://www.twitch.tv/videos/2061543193]]|
+|02/17|#47|&font(#6441A4){&icon_fa(fa fa-twitch)}[[週末ギャング>https://www.twitch.tv/videos/2065355336]]|
+|02/20|#48|&font(#6441A4){&icon_fa(fa fa-twitch)}[[明日から3月までお休み>https://www.twitch.tv/videos/2068368134]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(3月)&bold(){－3月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|03/05|#49|&font(#6441A4){&icon_fa(fa fa-twitch)}[[早く起きてみる①>https://www.twitch.tv/videos/2081787811]]|
+|03/05|#49|&font(#6441A4){&icon_fa(fa fa-twitch)}[[笑いすぎてシンデマス②>https://www.twitch.tv/videos/2081977290]]|
+|03/06|#50|&font(#6441A4){&icon_fa(fa fa-twitch)}[[借金4億5000万スタート>https://www.twitch.tv/videos/2082801978]]|
+|03/07|#51|&font(#6441A4){&icon_fa(fa fa-twitch)}[[残り9日-現在借金4億6000万①>https://www.twitch.tv/videos/2083648254]]|
+|03/07|#51|&font(#6441A4){&icon_fa(fa fa-twitch)}[[残り9日-残り9日-現在借金3億円②>https://www.twitch.tv/videos/2083743064]]|
+|03/09|#52|&font(#6441A4){&icon_fa(fa fa-twitch)}[[残り8日-現在借金3億円>https://www.twitch.tv/videos/2082801978]]|
+|03/10|#53|&font(#6441A4){&icon_fa(fa fa-twitch)}[[残り7日-現在借金2億2000万円(ヴァロ⇒ストグラ 01:50:00～)>https://www.twitch.tv/videos/2086730824]]|
+|03/16|#54|&font(#6441A4){&icon_fa(fa fa-twitch)}[[残り7日-現在借金2億円>https://www.twitch.tv/videos/2092331780]]|
+|03/19|#55|&font(#6441A4){&icon_fa(fa fa-twitch)}[[抗争前日>https://www.twitch.tv/videos/2095320618]]|
+|03/20|#56|&font(#6441A4){&icon_fa(fa fa-twitch)}[[抗争日>https://www.twitch.tv/videos/2096116284]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(4月)&bold(){－4月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|04/16|#57|&font(#6441A4){&icon_fa(fa fa-twitch)}[[お花摘んだり摘んだり>https://www.twitch.tv/videos/2121199874]]|
+|04/25|#58|&font(#6441A4){&icon_fa(fa fa-twitch)}[[1億円の請求書を返済しないとやばい>https://www.twitch.tv/videos/2129102809]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(5月)&bold(){－5月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|05/03|#59|&font(#6441A4){&icon_fa(fa fa-twitch)}[[1億円の請求書を返済したい>https://www.twitch.tv/videos/2136048952]]|
+|05/04|#60|&font(#6441A4){&icon_fa(fa fa-twitch)}[[1億円の請求書を返済したい>https://www.twitch.tv/videos/2137036406]]|
+|05/10|#61|&font(#6441A4){&icon_fa(fa fa-twitch)}[[金を稼がなければ>https://www.twitch.tv/videos/2142067856]]|
+|05/16|#62|&font(#6441A4){&icon_fa(fa fa-twitch)}[[何やらいろいろ変わったらしい>https://www.twitch.tv/videos/2147034367]]|
+|05/17|#63|&font(#6441A4){&icon_fa(fa fa-twitch)}[[島とり-ギャンブル禁止令借金１億円>https://www.twitch.tv/videos/2147908964]]|
+|05/24|#64|&font(#6441A4){&icon_fa(fa fa-twitch)}[[島とり-ギャンブル禁止令>https://www.twitch.tv/videos/2153933463]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(6月)&bold(){－6月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|06/15|#65|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ゆるく花摘みしながらお金を貯める>https://www.twitch.tv/videos/2172575748]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(7月)&bold(){－7月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|07/14|#66|&font(#DA1725){&icon_fa(fa fa-youtube)}[[お花集めしながらお金を貯める>https://www.youtube.com/live/ZjoRVStdeq4?si=L4iregmx9EGZJGHc]]|
+|07/21|#67|&font(#DA1725){&icon_fa(fa fa-youtube)}[[チェイスをひたすら練習>https://www.twitch.tv/videos/2203437249]]|
+|07/24|#68|&font(#DA1725){&icon_fa(fa fa-youtube)}[[チェイスをひたすら練習したい>https://www.twitch.tv/videos/2205996485]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(9月)&bold(){－9月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|09/22|#69|&font(#DA1725){&icon_fa(fa fa-youtube)}[[お花集めしながらお金を貯める>https://www.youtube.com/live/ZjoRVStdeq4?si=L4iregmx9EGZJGHc]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(11月)&bold(){－11月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|h
+|11/01|#70|&font(#DA1725){&icon_fa(fa fa-youtube)}[[2カ月ぶり12時半まで>https://www.youtube.com/live/8vxaPBG9aso?si=PxUBRpOHMc5C6xHg]]|
+|11/19|#71|&font(#DA1725){&icon_fa(fa fa-youtube)}[[少しだけ>https://www.youtube.com/live/Eg2_Y-p3kL4?si=_2eHBb4NYBb1Trw5]]|
+|11/21|#72|&font(#DA1725){&icon_fa(fa fa-youtube)}[[寒いね(少しだけ)>https://www.youtube.com/live/]]|
+|11/22|#73|&font(#DA1725){&icon_fa(fa fa-youtube)}[[早番で作業>https://www.youtube.com/live/]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+***2025年
+#region(2月)&bold(){－2月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|YouTube版|h
+|02/01|#74|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ジェイク>https://www.twitch.tv/videos/2369407063]]||
+|02/08|#75|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ジェイク少しだけだぞ？>https://www.twitch.tv/videos/2375609803]]||
+|02/11|#76|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ジェイク何やら不穏な空気？>https://www.twitch.tv/videos/2378232030]]||
+|02/13|#77|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ジェイクALLIN抗争>https://www.twitch.tv/videos/2380001450]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ALLIN抗争>>https://m.youtube.com/watch?v=V6szH6VEpIk]]|
+|02/25|#78|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[少しだけ>>https://m.youtube.com/watch?v=_kyTJbidstE]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(4月)&bold(){－4月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|YouTube版|h
+|04/08|#79|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ひさしぶり作業>>https://m.youtube.com/watch?v=tci80qcMibM]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ひさしぶり作業>>https://m.youtube.com/watch?v=o-URePUTwhg]]|
+|04/09|#80|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[早番で作業>>https://m.youtube.com/watch?v=y8r8wyyBnsY]]|
+|04/10|#81|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[借金残り2億円>>https://m.youtube.com/watch?v=fLNyCWrgcos]]|
+|04/23|#82|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[借金残り1億5000万>>https://m.youtube.com/watch?v=dTv23TabXAk]]|
+|04/24|#83|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[借金残り1億円！>>https://m.youtube.com/watch?v=JOdEcq5BGEQ]]|
+|04/25|#84|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[借金残り5000万>>https://m.youtube.com/watch?v=2ow471dIUWs]]|
+|04/26|#85|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ひもじい構成員>>https://m.youtube.com/watch?v=NAlvceAb9vM]]|
+|04/29|#86|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日も楽しんでいく>>https://m.youtube.com/watch?v=ZOX_GTjfXcg]]|
+|04/30|#87|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[クラフトからの山登り！>>https://m.youtube.com/watch?v=M7StxDr9ZX8]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(5月)&bold(){－5月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|YouTube版|h
+|05/01|#88|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[1億2000万の男>>https://m.youtube.com/watch?v=OI2Jq0aOlhY]]|
+|05/02|#89|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[1億2000万の男最終日>>https://m.youtube.com/watch?v=zgM8QzEj0E8]]|
+|05/08|#90|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ねおき>>https://m.youtube.com/watch?v=IE41Rmc4lng]]|
+|05/10|#91|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[早起き>>https://m.youtube.com/watch?v=0WVwQmpAqpE]]|
+|05/11|#92|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[抗争まで残り1週間>>https://m.youtube.com/watch?v=6yVcJZIFYPM]]|
+|05/13|#93|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[抗争まで残り4日>>https://m.youtube.com/watch?v=3QBaRqDxVn8]]|
+|05/15|#94|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[抗争まで残り2日>>https://m.youtube.com/watch?v=XDHQdilHFsM]]|
+|05/16|#95|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[抗争前日>>https://m.youtube.com/watch?v=E_3JTW3k_qk]]|
+|05/17|#??|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[NOLIMIT　VS　餡ブレラ　抗争当日>>https://m.youtube.com/watch?v=HAqNvEFiNmU]]|
+|05/20|#96|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[抗争を終えて...>>https://m.youtube.com/watch?v=fntMXTkFVl4]]|
+|05/21|#97|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[早起き早寝>>https://m.youtube.com/watch?v=lLdzNqPKLN0]]|
+|05/22|#98|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[早起き>>https://m.youtube.com/watch?v=3WVQFagfovo]]|
+|05/23|#99|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[20時まで>>https://m.youtube.com/watch?v=qzmNpxtYGHk]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ジェイク>>https://m.youtube.com/watch?v=OADfBrZU2dY]]|
+|05/30|#100|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ジェイク>>https://m.youtube.com/watch?v=-SJ7MSjZoxE]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(6月)&bold(){－6月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|YouTube版|h
+|06/03|#101|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ジェイク>>https://m.youtube.com/watch?v=vGHy7yqNXSI]]|
+|06/10|#102|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[早番早寝>>https://m.youtube.com/watch?v=uY0mkFXVqtM]]|
+|06/12|#103|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[遅番行きます>>https://m.youtube.com/watch?v=QWiyuAbIpjQ]]|
+|06/13|#104|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Xデー 最終決戦>>https://m.youtube.com/watch?v=Qr90vykl3GQ]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+
+#div(width=200px,bgcolor=#DA1725){&size(17){&font(b,#FFFFFF){　Season2}}}
+#size(45%){　}
+&font(#C9171E){&icon_fa(fa fa-solid fa-youtube-play)}[[&font(#C9171E){&bold(){Season2 アーカイブ再生リスト}}>>https://m.youtube.com/playlist?list=PLcmq9G7YVn9I]]&font(#C9171E){&icon_fa(fa fa-external-link)}
+***2026年
+#region(4月)&bold(){－4月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|YouTube版|h
+|04/01|#1|&font(#6441A4){&icon_fa(fa fa-twitch)}[[1日目- 餡ブレラ復活>https://www.twitch.tv/videos/2737133986]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[1日目- 餡ブレラ復活 >>https://m.youtube.com/watch?v=5UROW_nJ6Fk]]|
+|04/02|#2|&font(#6441A4){&icon_fa(fa fa-twitch)}[[2日目- 資金集め＞>https://m.twitch.tv/videos/2738010559]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[2日目- 資金集め＞>>https://m.youtube.com/watch?v=HYckH0omR9Y&pp=iggCQAE%3D&ra=m]]|
+|04/03|#3|&font(#6441A4){&icon_fa(fa fa-twitch)}[[3日目- 街を知る>https://m.twitch.tv/videos/2738746134]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[3日目- 街を知る>>https://m.youtube.com/watch?v=9ciyGDDmgAk]]|
+|04/04|#4|&font(#6441A4){&icon_fa(fa fa-twitch)}[[4日目- お金稼ぎ>https://m.twitch.tv/videos/2739574337]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[4日目- お金稼ぎ>>https://m.youtube.com/watch?v=Y4ljggGNapY]]|
+|04/05|#5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[5日目- 資金調達>https://m.twitch.tv/videos/2740473021]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[5日目- 資金調達>>https://m.youtube.com/watch?v=pXFDZmE9QjQ]]|
+|04/08|#6|&font(#6441A4){&icon_fa(fa fa-twitch)}[[6日目- 臆さない>https://m.twitch.tv/videos/2742870439]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[6日目- 臆さない>>https://m.youtube.com/watch?v=PTaSCLo5rUI]]|
+|04/11|#7|&font(#6441A4){&icon_fa(fa fa-twitch)}[[7日目- 恐れない>https://m.twitch.tv/videos/2745441323]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[7日目- 恐れない>>https://m.youtube.com/watch?v=6Zc7ZBBR4lw&pp=0gcJCdoKAYcqIYzv]]|
+|04/12|#8|&font(#6441A4){&icon_fa(fa fa-twitch)}[[8日目- 負債清算>https://m.twitch.tv/videos/2746179078]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[8日目- 負債清算>>https://m.youtube.com/watch?v=KaT3fuNwK6g]]|
+|04/15|#9|&font(#6441A4){&icon_fa(fa fa-twitch)}[[9日目- 餡ブレラvsわくわくハーデス隊抗争日>https://m.twitch.tv/videos/2748567683]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[9日目- 餡ブレラvsわくわくハーデス隊抗争日>>https://m.youtube.com/watch?v=QANrUYZaVp4]]|
+|04/16|#10|&font(#6441A4){&icon_fa(fa fa-twitch)}[[10日目- 目標資金1000万>>https://m.twitch.tv/videos/2749359517]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[10日目- 目標資金1000万>>https://m.youtube.com/watch?v=XweLnmLHFDE&pp=0gcJCdMKAYcqIYzv]]|
+|04/18|#11|&font(#6441A4){&icon_fa(fa fa-twitch)}[[11日目- 目標資金1000万>>https://m.twitch.tv/videos/2750962378]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[11日目- 目標資金1000万>>https://m.youtube.com/watch?v=dxw9DPm8S5M]]|
+|04/19|#12|&font(#6441A4){&icon_fa(fa fa-twitch)}[[餡鯖7Days➡ストグラ2>>https://m.twitch.tv/videos/2751810396]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[12日目- 目標資金1000万>>https://m.youtube.com/watch?v=s8zcdN1freA]]|
+|04/22|#13|&font(#6441A4){&icon_fa(fa fa-twitch)}[[14日目- 目標資金1000万>>https://m.twitch.tv/videos/2754249473]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[14日目- 目標資金1000万>>https://m.youtube.com/watch?v=6raNsQIKa60&pp=0gcJCQMLAYcqIYzv]]|
+|04/23|#14|&font(#6441A4){&icon_fa(fa fa-twitch)}[[15日目- 金策>>https://m.twitch.tv/videos/2754998061]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[15日目- 金策>>https://m.youtube.com/watch?v=Xa23HPb7kNM]]|
+|04/24|#15|&font(#6441A4){&icon_fa(fa fa-twitch)}[[15日目- 金策>>https://m.twitch.tv/videos/2755773687]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[16日目- アジトの為に...>>https://m.youtube.com/watch?v=ihBzIpD6lhw]]|
+|04/25|#16|&font(#6441A4){&icon_fa(fa fa-twitch)}[[17日目- アジトの為に...目標5000万>>https://m.twitch.tv/videos/2756602495]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[17日目- アジトの為に...目標5000万>>https://m.youtube.com/watch?v=PrmQ9Tvains]]|
+|04/26|#17|&font(#6441A4){&icon_fa(fa fa-twitch)}[[18日目- アジトの為に...目標5000万>>https://m.twitch.tv/videos/2757442782]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[18日目- アジトの為に...目標5000万>>https://m.youtube.com/watch?v=7SVq-YdDXK4]]|
+|04/29|#18|&font(#6441A4){&icon_fa(fa fa-twitch)}[[19日目- アジトの為に...目標5000万>>https://m.twitch.tv/videos/2759798205]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[19日目- アジトの為に...目標5000万>>https://m.youtube.com/watch?v=bCLXcC59vQg]]|
+|04/30|#19|&font(#6441A4){&icon_fa(fa fa-twitch)}[[20日目- アジトの為に...目標5000万>>https://m.twitch.tv/videos/2760588832]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[20日目- アジトの為に...目標5000万>>https://m.youtube.com/watch?v=sFmU7N8Vfjs]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(5月)&bold(){－5月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|YouTube版|h
+|05/07|#20|&font(#6441A4){&icon_fa(fa fa-twitch)}[[21日目- アジトの為に...>https://m.twitch.tv/videos/2766191573]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[21日目- アジトの為に...>>https://m.youtube.com/watch?v=RoaZLhi_LeY]]|
+|05/09|#21|&font(#6441A4){&icon_fa(fa fa-twitch)}[[22日目-少しだけ>https://m.twitch.tv/videos/2767810242]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[22日目-少しだけ>>https://m.youtube.com/watch?v=6CSCugxoQ2E]]|
+|05/10|#22|&font(#6441A4){&icon_fa(fa fa-twitch)}[[23日目- 資金調達>https://m.twitch.tv/videos/2768610776]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[23日目- 資金調達>>https://m.youtube.com/watch?v=eAvyqMR2zI0]]|
+|05/13|#23|&font(#6441A4){&icon_fa(fa fa-twitch)}[[24日目- 早番早寝>https://m.twitch.tv/videos/2770870055]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[24日目- 早番早寝>>https://m.youtube.com/watch?v=mIlaUeYRx4I]]|
+|05/15|#24|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラ➡APEX>https://m.twitch.tv/videos/2772484642]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[25日目- ストグラ>>https://m.youtube.com/watch?v=dtxPZiveDbA]]|
+|05/21|#25|&font(#6441A4){&icon_fa(fa fa-twitch)}[[26日目-不穏...？>https://m.twitch.tv/videos/2777258006]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[26日目-不穏...？>>https://m.youtube.com/watch?v=wG6mkZWGRjs&pp=0gcJCQYLAYcqIYzv]]|
+|05/27|#26|&font(#6441A4){&icon_fa(fa fa-twitch)}[[27日目-コンビニが新しくなった？>https://m.twitch.tv/videos/2782025732]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[27日目-コンビニが新しくなった？>>https://m.youtube.com/watch?v=jK-YU26YWFI]]|
+|05/28|#27|&font(#6441A4){&icon_fa(fa fa-twitch)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[28日目>>https://m.youtube.com/watch?v=ZctLw8tnmrI]]|
+|05/29|#28|&font(#6441A4){&icon_fa(fa fa-twitch)}[[29日目>https://m.twitch.tv/videos/2783640065]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[29日目>>https://m.youtube.com/watch?v=t8bayXsXSzk&pp=0gcJCR4LAYcqIYzv]]|
+|05/31|#29|&font(#6441A4){&icon_fa(fa fa-twitch)}[[30日目>https://m.twitch.tv/videos/2785211376]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[30日目>>https://m.youtube.com/watch?v=Vv83_o91pK8]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(6月)&bold(){－6月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|YouTube版|h
+|06/03|#30|&font(#6441A4){&icon_fa(fa fa-twitch)}[[31日目>https://m.twitch.tv/videos/2787612325]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[31日目>>https://m.youtube.com/watch?v=kF5sP_mDv-k]]|
+|06/05|#31|&font(#6441A4){&icon_fa(fa fa-twitch)}[[32日目>https://m.twitch.tv/videos/2789162300]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[32日目>>https://m.youtube.com/watch?v=k_rbpwaP750&t=15189s]]|
+|06/06|#32|&font(#6441A4){&icon_fa(fa fa-twitch)}[[33日目>https://m.twitch.tv/videos/2789977656]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[33日目>>https://m.youtube.com/watch?v=Yiulm0zssFg]]|
+|06/07|#33|&font(#6441A4){&icon_fa(fa fa-twitch)}[[34日目>https://m.twitch.tv/videos/2790808243]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[34日目>>https://m.youtube.com/watch?v=k3OGxL-omjo]]|
+|06/11|#34|&font(#6441A4){&icon_fa(fa fa-twitch)}[[餡ブレラでめっちゃカメレオン>https://m.twitch.tv/videos/2794016007]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}|
+|06/12|#35|&font(#6441A4){&icon_fa(fa fa-twitch)}[[35日目>https://m.twitch.tv/videos/2794764889]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[35日目>https://m.twitch.tv/videos/2794884293]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[35日目>>https://m.youtube.com/watch?v=yWasLBQF7ZE]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[35日目>>https://m.youtube.com/watch?v=AnbgyEtNKg0&pp=0gcJCUELAYcqIYzv]]|
+|06/13|#36|&font(#6441A4){&icon_fa(fa fa-twitch)}[[36日目>https://m.twitch.tv/videos/2795596383]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[36日目>>https://m.youtube.com/watch?v=QIFJfZBL9TE&t=13288s]]|
+|06/18|#37|&font(#6441A4){&icon_fa(fa fa-twitch)}[[37日目>https://m.twitch.tv/videos/2799504913]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[37日目>>https://m.youtube.com/watch?v=Y52BjewX9CU]]|
+|06/20|#38|&font(#6441A4){&icon_fa(fa fa-twitch)}[[38日目>https://m.twitch.tv/videos/2801095547]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[38日目>>https://m.youtube.com/watch?v=LnQdsERy0js]]|
+|06/21|#39|&font(#6441A4){&icon_fa(fa fa-twitch)}[[39日目>https://m.twitch.tv/videos/2801895275]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[39日目>>https://m.youtube.com/watch?v=twBgKZq2aOM&t=25346s]]|
+|06/26|#40|&font(#6441A4){&icon_fa(fa fa-twitch)}[[40日目>https://m.twitch.tv/videos/2805849019]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[40日目>>https://m.youtube.com/watch?v=pt0uIPFHGDY&t=9281s]]|
+|06/27|#41|&font(#6441A4){&icon_fa(fa fa-twitch)}[[41日目>https://m.twitch.tv/videos/2806502106]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[41日目>>https://m.youtube.com/watch?v=xYCNFja2e_s]]|
+|06/28|#42|&font(#6441A4){&icon_fa(fa fa-twitch)}[[42日目>https://m.twitch.tv/videos/2807294312]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[42日目>>https://m.youtube.com/watch?v=Ws3X8W46mLk]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(7月)&bold(){－7月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|YouTube版|h
+|07/01|#43|&font(#6441A4){&icon_fa(fa fa-twitch)}[[43日目>https://m.twitch.tv/videos/2809555839]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[43日目>>https://m.youtube.com/watch?v=xfJojt_RG3w]]|
+|07/02|#44|&font(#6441A4){&icon_fa(fa fa-twitch)}[[久しぶりにAPEX>https://m.twitch.tv/videos/2810289857]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[44日目>>https://m.youtube.com/watch?v=ioJousXZ5GE]]|
+|07/04|#45|&font(#6441A4){&icon_fa(fa fa-twitch)}[[45日目>https://m.twitch.tv/videos/2811907080]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[45日目>>https://m.youtube.com/watch?v=6u0AZ2kzviw&t=21767s]]|
+|07/05|#46|&font(#6441A4){&icon_fa(fa fa-twitch)}[[46日目>https://m.twitch.tv/videos/2812653641]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[46日目>>https://m.youtube.com/watch?v=AYvzyCRTM-A&t=19148s]]|
+|07/09|#47|&font(#6441A4){&icon_fa(fa fa-twitch)}[[47日目>https://m.twitch.tv/videos/2815717990]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[47日目>>https://m.youtube.com/watch?v=XDrel4XiCac]]|
+|07/10|#48|&font(#6441A4){&icon_fa(fa fa-twitch)}[[48日目>https://m.twitch.tv/videos/2816559344]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[48日目>>https://m.youtube.com/watch?v=QrzbIsN2nGs]]|
+|07/12|#49|&font(#6441A4){&icon_fa(fa fa-twitch)}[[49日目>https://m.twitch.tv/videos/2818133349]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[49日目>>https://m.youtube.com/watch?v=k8GRo7gjosY]]|
+|07/15|#50|&font(#6441A4){&icon_fa(fa fa-twitch)}[[50日目>https://m.twitch.tv/videos/2820493015]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[50日目>>https://m.youtube.com/watch?v=8ilBeNcLdec]]|
+|07/16|#51|&font(#6441A4){&icon_fa(fa fa-twitch)}[[51日目>https://m.twitch.tv/videos/2821286409]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[51日目>>https://m.youtube.com/watch?v=7B5WqN6_wGI]]|
+|07/17|#52|&font(#6441A4){&icon_fa(fa fa-twitch)}[[52日目>https://m.twitch.tv/videos/2822116946]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[52日目>>https://m.youtube.com/watch?v=egiYBq_zUgs]]|
+|07/18|#53|&font(#6441A4){&icon_fa(fa fa-twitch)}[[53日目>https://m.twitch.tv/videos/2822974356]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[53日目>>https://m.youtube.com/watch?v=vOTyxB3wIp0&pp=0gcJCWQCo7VqN5tD]]|
+|07/19|#54|&font(#6441A4){&icon_fa(fa fa-twitch)}[[54日目>https://m.twitch.tv/videos/2823719806]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[54日目>>https://m.youtube.com/watch?v=_HiRHxfGKr4]]|
+|07/23|#55|&font(#6441A4){&icon_fa(fa fa-twitch)}[[55日目>https://m.twitch.tv/videos/2826920571]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[55日目>>https://m.youtube.com/watch?v=Q1AN01MtisA]]|
+|07/24|#56|&font(#6441A4){&icon_fa(fa fa-twitch)}[[56日目-お金稼ぎ>https://m.twitch.tv/videos/2827745891]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[56日目-お金稼ぎ>>https://m.youtube.com/watch?v=6iPqOWts9ME]]|
+|07/25|#57|&font(#6441A4){&icon_fa(fa fa-twitch)}[[57日目-お金稼ぎ>https://m.twitch.tv/videos/2828699972]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[57日目-お金稼ぎ>>https://m.youtube.com/watch?v=3fP7Ilir-0g]]|
+|07/26|#58|&font(#6441A4){&icon_fa(fa fa-twitch)}[[58日目>https://m.twitch.tv/videos/2829449605]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[58日目>>https://m.youtube.com/watch?v=HRud3cUuKeM]]|
+|07/30|#59|&font(#6441A4){&icon_fa(fa fa-twitch)}[[59日目>https://m.twitch.tv/videos/2832705510]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[59日目>>https://m.youtube.com/watch?v=iMhIrAYZ18g]]|
+|07/31|#60|&font(#6441A4){&icon_fa(fa fa-twitch)}[[60日目>https://m.twitch.tv/videos/2833596622]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[60日目>>https://m.youtube.com/watch?v=01CjyvxnhOc]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(8月)&bold(){－8月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|YouTube版|h
+|08/01|#61|&font(#6441A4){&icon_fa(fa fa-twitch)}[[61日目>https://m.twitch.tv/videos/2834369148]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[61日目>>https://m.youtube.com/watch?v=RAcHdGQtd6s]]|
+|08/05|#62|&font(#6441A4){&icon_fa(fa fa-twitch)}[[62日目>https://m.twitch.tv/videos/2837810938]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[62日目>>https://m.youtube.com/watch?v=HFdVGqsmkoE]]|
+|08/07|#63|&font(#6441A4){&icon_fa(fa fa-twitch)}[[63日目>https://m.twitch.tv/videos/2839574034]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[63日目>>https://m.youtube.com/watch?v=WfCqAmLE9yk]]|
+|08/08|#64|&font(#6441A4){&icon_fa(fa fa-twitch)}[[64日目>https://m.twitch.tv/videos/2840515481]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[64日目>>https://m.youtube.com/watch?v=HblI3CmmUQg]]|
+|08/12|#65|&font(#6441A4){&icon_fa(fa fa-twitch)}[[65日目>https://m.twitch.tv/videos/2844071822]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[65日目>>https://m.youtube.com/watch?v=a4dVfpSjCR8]]|
+|08/14|#66|&font(#6441A4){&icon_fa(fa fa-twitch)}[[66日目>https://m.twitch.tv/videos/2845882016]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[66日目>>https://m.youtube.com/watch?v=b07RiE04A0w]]|
+|08/16|#67|&font(#6441A4){&icon_fa(fa fa-twitch)}[[67日目>https://m.twitch.tv/videos/2847732708]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[67日目>>https://m.youtube.com/watch?v=6OABq6GRHpU]]|
+|08/20|#68|&font(#6441A4){&icon_fa(fa fa-twitch)}[[68日目>https://m.twitch.tv/videos/2851339472]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[68日目>>https://m.youtube.com/watch?v=eWWGwyiIjBI]]|
+|08/21|#69|&font(#6441A4){&icon_fa(fa fa-twitch)}[[69日目>https://m.twitch.tv/videos/2852302418]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[69日目>>https://m.youtube.com/watch?v=M5gEmALQe08]]|
+|08/23|#70|&font(#6441A4){&icon_fa(fa fa-twitch)}[[69日目>https://m.twitch.tv/videos/2854169099]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[69日目>>https://m.youtube.com/watch?v=FlCn_YnINz8]]|
+|08/30|#71|&font(#6441A4){&icon_fa(fa fa-twitch)}[[70日目>https://m.twitch.tv/videos/2860721773]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[70日目>>https://m.youtube.com/watch?v=64VbVnow2Lk]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+#region(9月,open)&bold(){－9月}
+#table_style(head=#f5f5f5, hover=#f5f5dc)
+#table_filter(){}
+|~配信日|Day|~配信タイトル|YouTube版|h
+|09/04|#72|&font(#6441A4){&icon_fa(fa fa-twitch)}[[71日目>https://m.twitch.tv/videos/2865075481]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[71日目>>https://m.youtube.com/watch?v=O4SQzCDMS7w]]|
+|09/05|#73|&font(#6441A4){&icon_fa(fa fa-twitch)}[[72日目>https://m.twitch.tv/videos/2865844362]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[72日目>>https://m.youtube.com/watch?v=HrNcx5cS2lo]]|
+|09/10|#74|&font(#6441A4){&icon_fa(fa fa-twitch)}[[73日目>https://m.twitch.tv/videos/2870297731]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[73日目>>https://m.youtube.com/watch?v=Fg-DvoBPU6E]]|
+|09/11|#75|&font(#6441A4){&icon_fa(fa fa-twitch)}[[74日目>https://m.twitch.tv/videos/2871156599]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[74日目>>https://m.youtube.com/watch?v=iL2wl75KEiE]]|
+|09/12|#76|&font(#6441A4){&icon_fa(fa fa-twitch)}[[75日目>https://m.twitch.tv/videos/2872116274]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[75日目>>https://m.youtube.com/watch?v=pnw_Zw6AfgY]]|
+|09/17|#77|&font(#6441A4){&icon_fa(fa fa-twitch)}[[76日目>https://m.twitch.tv/videos/2876468930]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[76日目>>https://m.youtube.com/watch?v=UeVyrx4l4II]]|
+#table_sorter(){head=#e6e6fa,repeathead=15}
+#endregion
+
+※【🌰🌰youtubeメンバー、twitchサブスクメンバー限定アーカイブになっています。🌰🌰】
+&bold(){🌰🌰最新回は &sizex(+1){&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/rentongames]]}(Twitchアーカイブ保存期間2ヶ月間🌰🌰)、&sizex(+1){&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@RENTONGAMES]]} で視聴可能!!}
+　　
+*&size(25){🌰}&color(#eaf4fc){&size(35){&color(red){切}}り抜き &icon_fa(fa fa-youtube)}
+#div(width=200px,bgcolor=#DA1725){&size(17){&font(b,#FFFFFF){　Season1}}}
+#size(45%){　}
+|~【ストグラ×切り抜き】|[[&bold(){&color(red){1日で億万長者になった男}}>>https://youtube.com/live/VlcaY0e_YUE?si=Q6-RHT1S_W2mDEss?feature=share]]|
+|~【ストグラ×切り抜き】|[[&bold(){&color(red){客船強盗を5分未満で終わらしてしまう餡ブレラ}}>>https://youtube.com/live/FElssFjKXp0?si=RofxABn_vDHFvLWI?feature=share]]|
+|~【ストグラ×切り抜き】|[[&bold(){&color(red){さらばシャンクズ...最後の大型犯罪}}>>https://youtube.com/live/z-8iNJ1R6AY?si=YhnT-UtVcs3GLn24?feature=share]]|
+|~【ストグラ×切り抜き】|[[&bold(){&color(red){心無きのフリをして警察署襲撃してみた結果}}>>https://youtube.com/live/QdmvufI3viU?si=HZ-uuqeemGazmxPt?feature=share]]|
+|~【ストグラ×切り抜き】|[[&bold(){&color(red){花を摘んでるフリをして違法じゃない花で警察に感謝を伝えてみた結果}}>>https://youtube.com/live/NiMr6bFiaJ4?si=sqXAkuAIq5-s1Hks?feature=share]]|
+|~【ストグラ×切り抜き】|[[&bold(){&color(red){餡ブレラ夏のボーナス大会でまさかの構成員同士に亀裂が生まれてしまう展開に！？}}>>https://youtube.com/live/vjWf_3SWxnE?si=KcucbMizPayogw_1?feature=share]]|
+|~【ストグラ×切り抜き】|[[&bold(){&color(red){ボスに勝ったら1億円！？ボスの強さに震え上がる構成員達}}>>https://youtube.com/live/KBsY5ji7aog?si=0uYtWaYggm1zedfr?feature=share]]|
+
+※募集中
+
+#div(width=200px,bgcolor=#DA1725){&size(17){&font(b,#FFFFFF){　Season2}}}
+#size(45%){　}
+#region(切り抜き動画)閉じる
+#table_style(head=#DA1725:#FFF,hover=#F5F5DC)
+|投稿日|~動画タイトル|h
+|~2026/04/02|[[&font(b,#F00){餡ブレラ再結成!?嘘だと思う人本当です。}>>https://m.youtube.com/watch?v=fRbaGvcKQPs]]|
+|~2026/04/03|[[&font(b,#F00){メイド体験を始めるも慣れてなさ過ぎて発狂が止まらないジェイク}>>https://m.youtube.com/watch?v=d8VQBQKSB2w]]|
+|~2026/04/04|[[&font(b,#F00){緊張感がある瞬間にキャラ名を間違えてしまう五十嵐えいむｗｗ}>>https://m.youtube.com/watch?v=Ovc6EFI_0Rs&pp=ugUEEgJqYQ%3D%3D]]|
+|~2026/04/05|[[&font(b,#F00){ジャック馬ウワーからまたもキャラ名も間違えられるジェイク}>>https://m.youtube.com/watch?v=Wc-HYYL8dzI]]|
+|~2026/04/06|[[&font(b,#F00){指名手配の名前を間違えられるジェイクレディントン}>>https://m.youtube.com/watch?v=Eyu146AyUa8&pp=0gcJCdMKAYcqIYzv]]|
+|~2026/04/09|[[&font(b,#F00){守×れりあの修羅場に遭遇するジェイク}>>https://m.youtube.com/watch?v=8SfPlR1LHjk]]|
+|~2026/04/12|[[&font(b,#F00){赤城煉を餡ブレラに誘導させるエスタークに魂が焦るジェイク}>>https://m.youtube.com/watch?v=IfZEj_dBlOI]]|
+|~2026/04/15|[[&font(b,#F00){エスの甘声電話に魂が大混乱するジェイク}>>https://m.youtube.com/watch?v=3C1ZNI_ziu4]]|
+|~2026/04/16|[[&font(b,#F00){過去最速!?開始3分で抗争を終わらせる餡ブレラ}>>https://m.youtube.com/watch?v=165iwgc3ZSk]]|
+|~2026/04/17|[[&font(b,#F00){警察の不手際で白市民が闇落ち目前に！？}>>https://m.youtube.com/watch?v=545JbWHWhHE]]|
+|~2026/04/20|[[&font(b,#F00){犯罪前の車にゴンとジェイクで潜伏してみた結果}>>https://m.youtube.com/watch?v=-fMYnFjAkbA&pp=0gcJCQQLAYcqIYzv]]|
+|~2026/04/21|[[&font(b,#F00){ブロッコリーに結婚できない理由を刺されるジェイク}>>https://m.youtube.com/watch?v=_jx5pq_ltNQ]]|
+|~2026/04/25|[[&font(b,#F00){新犯罪の前兆？新しい犯罪道具が出現}>>https://m.youtube.com/watch?v=yLB3gzkxpfQ]]|
+|~2026/04/26|[[&font(b,#F00){コンビニ強盗でジェイクやらかしました}>>https://m.youtube.com/watch?v=5ZU4IkWvNto]]|
+|~2026/04/27|[[&font(b,#F00){あの最強プロが餡ブレラに加入しました}>>https://m.youtube.com/watch?v=Mn59ugTbAPs]]|
+|~2026/05/05|[[&font(b,#F00){愛を証明できないと撃たれる人質事件}>>https://m.youtube.com/watch?v=po7-UMsYOwI]]|
+|~2026/05/08|[[&font(b,#F00){ハクナツメ餡ブレラ再加入！？}>>https://m.youtube.com/watch?v=es9NQyO1CUg&pp=0gcJCQoLAYcqIYzv]]|
+|~2026/05/09|[[&font(b,#F00){遊び？本命？ギルベルトから恋愛相談を受けるジェイク}>>https://m.youtube.com/watch?v=Yf3cE8RH9j8]]|
+|~2026/05/23|[[&font(b,#F00){ウェスカーから警察を●せと共有を受けるジェイク}>>https://m.youtube.com/watch?v=VSAyAI7hnP4&t=1516s]]|
+|~2026/05/28|[[&font(b,#F00){誘拐を繰り返し救急隊から反撃を受ける餡ブレラ}>>https://m.youtube.com/watch?v=yCsoSFybxb0&t=2669s]]|
+|~2026/05/31|[[&font(b,#F00){ウェスカーからシリアス講座を受ける餡ブレラ一同}>>https://m.youtube.com/watch?v=K8eomFzq4vo&t=2s&pp=2AECkAIB]]|
+|~2026/06/04|[[&font(b,#F00){救急隊に煽られたので勝負を挑んだ結果}>>https://m.youtube.com/watch?v=aBpZ88uJs9I]]|
+|~2026/06/06|[[&font(b,#F00){ついに無線復活‼大喜びで爆笑の渦になる餡ブレラ}>>https://m.youtube.com/watch?v=26Dh8QhvHCs]]|
+|~2026/06/10|[[&font(b,#F00){後藤れむに蹂躙される餡ブレラ}>>https://m.youtube.com/watch?v=QFPn0mkAIz4]]|
+|~2026/06/12|[[&font(b,#F00){餡ブレラで組織内恋愛がはじまる！？}>>https://m.youtube.com/watch?v=7TueM0p9IM0&t=763s]]|
+|~2026/06/13|[[&font(b,#F00){餡ブレラ３周年でお祝いムードかと思いきや険悪ムードに！？}>>https://m.youtube.com/watch?v=sXV4G5nypx0]]|
+|~2026/06/20|[[&font(b,#F00){警察に餡ブレラアジトが襲撃される！？}>>https://m.youtube.com/watch?v=K8P3fuH2H_k]]|
+|~2026/06/21|[[&font(b,#F00){餡ブレラで警察車両を盗難！？警察総出でバチバチに...}>>https://m.youtube.com/watch?v=IOUot0ByN60]]|
+|~2026/06/22|[[&font(b,#F00){サーマルヘリを盗難!?警察署に行った結果...}>>https://m.youtube.com/watch?v=g_uCKFfqTws]]|
+|~2026/07/03|[[&font(b,#F00){ジャックスの女性を落とすテクニックをエスタークに披露する}>>https://m.youtube.com/watch?v=qMyvR-zVfZ0]]|
+|~2026/07/06|[[&font(b,#F00){SEASON２初のアジトで実験を行う餡ブレラ}>>https://m.youtube.com/watch?v=QWxJC4gVsaw]]|
+|~2026/07/10|[[&font(b,#F00){餡ブレラの情報を記者に公開してしまい再び火種を生んでしまった上田}>>https://m.youtube.com/watch?v=MfcwiTtLXMQ]]|
+|~2026/07/11|[[&font(b,#F00){教育係そすブチギレ⁉チョケから始まったシリアスに？}>>https://m.youtube.com/watch?v=nU1h-eAdOdY]]|
+|~2026/07/16|[[&font(b,#F00){餡ブレラアジトに強制家宅捜索に踏み込む警察}>>https://m.youtube.com/watch?v=5yWUUZU8mXg]]|
+|~2026/07/18|[[&font(b,#F00){2日目-餡ブレラアジトに強制家宅捜索に踏み込む警察}>>https://m.youtube.com/watch?v=C56tHoV-cDI]]|
+|~2026/07/18|[[&font(b,#F00){久し振りの起床で彼女について餡ブレラに共有する酒槻　すん}>>https://m.youtube.com/watch?v=yAMgDNgFJZI]]|
+|~2026/07/25|[[&font(b,#F00){脱獄囚が警察を煽り続けた結果ｗ}>>https://m.youtube.com/watch?v=v2wgoiZh5fQ]]|
+|~2026/08/01|[[&font(b,#F00){開始0秒でブースティング現場に現れる伊勢えびす}>>https://m.youtube.com/watch?v=N56k7Ef92pQ]]|
+|~2026/08/02|[[&font(b,#F00){収穫祭の裏で行われたDrギガによる単独ライブが面白過ぎたｗ}>>https://m.youtube.com/watch?v=XxmHqrQ1iyQ]]|
+#endregion
+#region(ショート動画)閉じる
+#table_style(head=#DA1725:#FFF,hover=#F5F5DC)
+|投稿日|~動画タイトル|h
+|~2026/04/10|[[&font(b,#F00){キャラ名を間違えるBobSappAimｗｗｗ}>>https://m.youtube.com/shorts/XvjhyBiHF9c]]|
+|~2026/04/12|[[&font(b,#F00){キャラ名を間違える警察ｗｗｗ}>>https://m.youtube.com/shorts/35qq4MWvWpM]]|
+|~2026/04/21|[[&font(b,#F00){煽り運転手の末路}>>https://m.youtube.com/shorts/_Fxx2u_b_EI]]|
+|~2026/04/26|[[&font(b,#F00){アホすぎる犯罪者}>>https://m.youtube.com/shorts/1n07hk8Tn04]]|
+|~2026/05/31|[[&font(b,#F00){予想外すぎる結末}>>https://m.youtube.com/shorts/5oi5JDOOF84]]|
+|~2026/06/05|[[&font(b,#F00){予想外すぎる結末}>>https://m.youtube.com/shorts/brDqAvroA08]]|
+|~2026/06/06|[[&font(b,#F00){予想外すぎる結末}>>https://m.youtube.com/shorts/31UTrkA_SnM]]|
+|~2026/06/12|[[&font(b,#F00){言霊の力がヤバすぎる}>>https://m.youtube.com/shorts/-FzX2goYmTM]]|
+|~2026/06/22|[[&font(b,#F00){爆速ゴルフカート現る}>>https://m.youtube.com/shorts/ObucLtTqnPI]]|
+|~2026/07/01|[[&font(b,#F00){アホすぎる犯罪者}>>https://m.youtube.com/shorts/35NxyhiD6d8]]|
+|~2026/07/02|[[&font(b,#F00){アホすぎる犯罪者}>>https://m.youtube.com/shorts/G_MMvhDKRAs]]|
+|~2026/07/03|[[&font(b,#F00){アホすぎる犯罪者}>>https://m.youtube.com/shorts/nvm9jJ6kmN0]]|
+|~2026/07/07|[[&font(b,#F00){アホすぎる犯罪者}>>https://m.youtube.com/shorts/llMnzzr3KKg]]|
+|~2026/07/14|[[&font(b,#F00){アホすぎる犯罪者}>>https://m.youtube.com/shorts/F0uvl0XPFhs]]|
+|~2026/07/16|[[&font(b,#F00){アホすぎる犯罪者}>>https://m.youtube.com/shorts/-shwhU87pMI]]|
+|~2026/07/18|[[&font(b,#F00){アホすぎる犯罪者}>>https://m.youtube.com/shorts/rXJlbMfpmU4]]|
+|~2026/07/19|[[&font(b,#F00){アホすぎる犯罪者}>>https://m.youtube.com/shorts/FIMCIpGOsBc]]|
+|~2026/07/25|[[&font(b,#F00){アホすぎる犯罪者}>>https://m.youtube.com/shorts/VC9iUI-qwac]]|
+|~2026/07/26|[[&font(b,#F00){みんなはどっち派？}>>https://m.youtube.com/shorts/XSPYRdagzB0]]|
+
+#endregion
+
+*&size(25){🌰}&color(#eaf4fc){&size(35){&color(red){ス}}トグラコラボ}
+&small(){※一部｢[[別キャラ>>赤城　煉]]｣と重複あり}
+#size(30%){　}
+#div(width=200px,bgcolor=#DA1725){&size(17){&font(b,#FFFFFF){　ゲームコラボ}}}
+#div(width=195px,bgcolor=#f7f7f7){&size(17){&font(b,#666666){　配信}}}
+#size(45%){　}
+#region(2023年)&bold(){－2023年}
+#size(90%){{{
+#table_style(head=#f5f5f5,hover=#f5f5dc)
+|~配信日|~配信タイトル|備考|h
+|2023/07/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】餡ブレラでアモンガス！！！>>https://m.youtube.com/watch?v=nwaiIbwR4xg]]||
+#table_sorter(){head=#e6e6fa,repeathead=15}
+}}}
+#endregion
+#region(2024年1月〜2月)&bold(){－2024年1月〜2月}
+#size(90%){{{
+#table_style(head=#f5f5f5,hover=#f5f5dc)
+|~配信日|~配信タイトル|備考|h
+|2024/01/08|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ゴールドに行きたい！！/水無月ひいろ/おさきくらま/ぜろなな/Fe：⇒/水無月ひいろ/おさきくらま/Fe：/_しおこうじ_>>https://www.twitch.tv/videos/2026217514]]||
+|2026/02/08|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラ後のチルヴァロラント/水無月ひいろ/ニョス/二コラクラエス/憩居ももあ>>https://www.twitch.tv/videos/2056707070]]||
+#table_sorter(){head=#e6e6fa,repeathead=15}
+}}}
+#endregion
+#size(30%){　}
+※募集中
+#size(30%){　}
+#region(2025年)&bold(){－2025年}
+#size(90%){{{
+#table_style(head=#f5f5f5,hover=#f5f5dc)
+|~配信日|~配信タイトル|備考|h
+|2025/05/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DIFTEA CUP-【餡ブレラ】レントン/すず音/山田ジェームス武>>https://m.youtube.com/watch?v=OADfBrZU2dY]]||
+|2025/06/01|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[#ストグラコラボ　餡ブレラマイクラタルコフ>>https://m.youtube.com/watch?v=zjCioBMNC5k]]||
+#table_sorter(){head=#e6e6fa,repeathead=15}
+}}}
+#endregion
+#region(2026年4月〜)&bold(){－2026年4月〜}
+#size(90%){{{
+#table_style(head=#f5f5f5,hover=#f5f5dc)
+|~配信日|~配信タイトル|備考|h
+|2026/04/18|&font(#6441A4){&icon_fa(fa fa-twitch)} 餡鯖7Days まったり||
+|2026/04/18|&font(#6441A4){&icon_fa(fa fa-twitch)} 餡鯖7Days➡ストグラ||
+|2026/04/19|&font(#6441A4){&icon_fa(fa fa-twitch)} 餡鯖7Days➡ストグラ2||
+|2026/04/20|&font(#6441A4){&icon_fa(fa fa-twitch)} 餡鯖7Days-雑談しながら家作り||
+|2026/04/21|&font(#6441A4){&icon_fa(fa fa-twitch)} 餡鯖7Days||
+|2026/05/05|&font(#6441A4){&icon_fa(fa fa-twitch)}[[カスタムメンバーでフルパエペ w/二コラ,すず音>>https://m.twitch.tv/videos/2764728446]]||
+|2026/05/18|&font(#6441A4){&icon_fa(fa fa-twitch)}[[#ギルド36 スクリム-【餡ブレラVer2】w/すず音.二コラ>>https://m.twitch.tv/videos/2774940128]]||
+|2026/05/19|&font(#6441A4){&icon_fa(fa fa-twitch)}[[#ギルド36 本戦-【餡ブレラVer2】w/すず音.二コラ>>https://m.twitch.tv/videos/2775715912]]||
+|2026/05/25|&font(#6441A4){&icon_fa(fa fa-twitch)}[[すず音さんとスーパーバニーマン>>https://m.twitch.tv/videos/2780509721]]||
+|2026/06/11|&font(#6441A4){&icon_fa(fa fa-twitch)}[[餡ブレラでめっちゃカメレオン>>https://m.twitch.tv/videos/2794016007]]||
+|2026/06/30|&font(#6441A4){&icon_fa(fa fa-twitch)}[[料理配信後の飲食店で働きますｗ/すず音>>https://m.twitch.tv/videos/2808868226]]||
+|2026/07/06|&font(#6441A4){&icon_fa(fa fa-twitch)}[[#ストグラコラボ w-空衣御侍/キミトス/夢咲刻夜/みかちー>>https://m.twitch.tv/videos/2813377362]]||
+|2026/07/06|&font(#6441A4){&icon_fa(fa fa-twitch)}[[#ストグラコラボ w-餡ブレラ/めっちゃカメレオン >>https://m.twitch.tv/videos/2813377362]]||
+|2026/07/07|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#1】プロの強盗犯になる w/すず音【ポンコツコラボ】>>https://m.twitch.tv/videos/2814205998]]||
+|2026/07/08|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#2】プロの強盗犯になる w/すず音【ポンコツコラボ】>>https://m.twitch.tv/videos/2814873197]]||
+|2026/07/12|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#4】プロの強盗犯になる w/すず音【ポンコツコラボ】>>https://m.twitch.tv/videos/2818075249]]||
+|2026/07/13|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#5】プロの強盗犯になる w/すず音【ポンコツコラボ】>>https://m.twitch.tv/videos/2818994702]]||
+|2026/07/15|&font(#6441A4){&icon_fa(fa fa-twitch)}[[練習エペ w/すず音>>https://m.twitch.tv/videos/2820442852]]||
+|2026/07/17|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#6】プロの強盗犯になる w/すず音【ポンコツコラボ】>>https://m.twitch.tv/videos/2822023172]]||
+|2026/07/21|&font(#6441A4){&icon_fa(fa fa-twitch)}[[#1 餡サバ 7 Days to Die>>https://m.twitch.tv/videos/2825353660]]||
+|2026/07/23|&font(#6441A4){&icon_fa(fa fa-twitch)}[[APEX練習-w/すず音>>https://m.twitch.tv/videos/2826868363]]||
+|2026/07/23|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【🔴LIVE】#ストグラ2 【赤城煉】46日目➡【ジェイク】55日目>>https://m.twitch.tv/videos/2826920571]]|ストグラ配信後&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=Q1AN01MtisA]]|
+|2026/07/27|&font(#6441A4){&icon_fa(fa fa-twitch)}[[#ギルド36 スクリム 餡ブレラVer2 /w すず音>>https://m.twitch.tv/videos/2830227656]]||
+|2026/07/28|&font(#6441A4){&icon_fa(fa fa-twitch)}[[#ギルド36 本戦 餡ブレラVer2 /w すず音>>https://m.twitch.tv/videos/2831028327]]||
+|2026/08/03|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#7】ポンコツコラボ>>https://m.twitch.tv/videos/2836114686]]||
+|2026/08/17|&font(#6441A4){&icon_fa(fa fa-twitch)}[[THE RAID-ごっちゃんチーム>>https://m.twitch.tv/videos/2848638416]]||
+|2026/08/31|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【耐久】全種類の動物の写真撮るまで終われません>>https://m.twitch.tv/videos/2861528618]]||
+|2026/09/14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ますよねカスタム-レントンw/ あんない-すず音>>https://m.youtube.com/watch?v=Ie1-MqXgmQk]]||
+#table_sorter(){head=#e6e6fa,repeathead=15}
+}}}
+#endregion
+
+#div(width=195px,bgcolor=#f7f7f7){&size(17){&font(b,#666666){　動画}}}
+#size(45%){　}
+#region(開く)&bold(){閉じる}
+#size(90%){{{
+#table_style(head=#f5f5f5,hover=#f5f5dc)
+|~投稿日|~動画タイトル|備考|h
+|2025/06/27|[[【爆笑】NGワード連発！これを見たら笑わずにはいられない！【TGSRUST】>>https://m.youtube.com/watch?v=VfIfT3YWg8k]]||
+#table_sorter(){head=#e6e6fa,repeathead=15}
+}}}
+#endregion
+
+#div(width=200px,bgcolor=#DA1725){&size(17){&font(b,#FFFFFF){　その他コラボ}}}
+#div(width=195px,bgcolor=#f7f7f7){&size(17){&font(b,#666666){　配信}}}
+#size(45%){　}
+※募集中
+#size(30%){　}
+#region(2026年4月〜)&bold(){－2026年4月〜}
+#size(90%){{{
+#table_style(head=#f5f5f5,hover=#f5f5dc)
+|~配信日|~配信タイトル|備考|h
+|2026/06/08|&font(#6441A4){&icon_fa(fa fa-twitch)}[[番外編-ゼルクと料理>>https://m.twitch.tv/videos/2791550513]]||
+#table_sorter(){head=#e6e6fa,repeathead=15}
+}}}
+#endregion
+
+#div(width=195px,bgcolor=#f7f7f7){&size(17){&font(b,#666666){　動画}}}
+#size(45%){　}
+#region(開く)&bold(){閉じる}
+#size(90%){{{
+#table_style(head=#f5f5f5,hover=#f5f5dc)
+|~投稿日|~動画タイトル|備考|h
+|2024/08/15|[[超大型ミッション中！ / 餡ブレラ>>https://m.youtube.com/watch?v=BQIzBG-ucFs]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ニコラ･クラエス / Nicola Claes>>https://m.youtube.com/@NicolaClaes]]|
+|2025/09/13|[[【実写】餡ブレラメンバーで料理！？餃子包み対決！【ストグラ/ゼルク/イナゴン/二コラ/すず音】>>https://m.youtube.com/watch?v=DAaNC88-C1U]]||
+|2026/07/23|[[【コラボ】ゲーム配信者に真鯛を捌かせた結果…【ゼルク】>>https://m.youtube.com/watch?v=JPnXJQQA9XA]]||
+#table_sorter(){head=#e6e6fa,repeathead=15}
+}}}
+#endregion
+*&size(25){🌰}&color(#eaf4fc){&size(35){&color(red){記}}録}
+|&image(ジェイク・博士と①.jpg,x=300)|&image(ジェイク・博士と②.jpg,x=268)|&image(ジェイク・博士と③.jpg,x=551)|
+
+***所有車両一覧
+#region(開く)&b(){閉じる}
+#size(90%){#table_style(head=#f5f5f5)
+#table_filter(){車種・機種・船種名=show,ナンバー=show,備考=hide}
+|~車種・機種・船種名|CENTER:~ナンバー|~備考|h
+|Lampadati Tropos Rallye|ADSJ8687||
+|Willard Faction Custom Donk|DEDG9708||
+|Weeny Issi Sport|PDNY2091||
+|Karin Dilettante Patrol|LFRY2086||
+|WMC Nightblade|QMMW3349||
+|Enus Stafford|MIVA2079||
+|Declasse Draugur|LHSY3562||
+|Bravado Rumpo Custom|EUOV1882||
+|Western Zombie Bobber|HXXI7404||
+|Ocelot Locust|09WPA629|2023/7/8にボスから譲り受ける。|
+|Vapid Desert Raid|ONFN7617||
+|Vapid Trophy Truck|BQEM4195||
+|Enus Paragon|GAMA1206||
+|Western Hellspawn|YNWZ3759||
+|Benefactor Feltzer|NAJP9767||
+|Daemon(バイク:デーモン)|KQAY7273||
+|Hexer(バイク:ヘクサー)|OEXH0977||
+|バイク:ソーヴァ|VSFH7696||
+#table_autoincrement(){label=No.}}
+#endregion

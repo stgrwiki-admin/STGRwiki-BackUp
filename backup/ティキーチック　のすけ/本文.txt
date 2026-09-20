@@ -1,0 +1,643 @@
+&image(241106_前後.png,Y=410)
+
+#table_filter(){Season1=hide,Season2=show}
+#table_color(#E6E6FA)
+|~&color(#606060){世界線}|~&color(#606060){&icon_fa(fa fa-earth-asia)}|~&color(#606060){Season1}|~&color(#606060){Season2}|
+|~名前|~&icon_fa(fa fa-user)|>|ティキーチック　のすけ|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|2024年12月29日|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|>|2024年10月11日 (&countup(2024/10/11,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|飲食店：Bar【[[ShanaoR]]】&small(){(2024/12/24〜)}&br()&small(){&openclose2(show=過去の職業){&br()メカニック【[[PYC]]】(2024/10/19〜2024/12/27)&br()普通車D【[[プラネットモータース]]】(2024/11/02〜2024/12/21)&br()高級車D【[[にしのんキングダム]]】(2024/12/04〜2025/01/08)}}|【[[タクシー>https://w.atwiki.jp/streamergta5/pages/3420.html]]】運転手 &small(){(2026/05/30〜)}&br()【[[闇医者]]】 &small(){(2026/05/30〜)}|
+|~所属|~&icon_fa(fa fa-users)|ギャング：【[[MOZU]]】&small(){(2025/02/01〜)}&br()|[[素材屋連盟]]|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@tiiktokのすけ&br()@ティキーチック　のすけ||
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|>|りーのすけ(DeToNator)|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/ri_nosuke1229]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|>| &font(#000){&icon_fa(fa-brands fa-tiktok)}[[&font(#000){TikTok}>>https://www.tiktok.com/@riinosuke1229]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/riinosuke_twitch]]|
+|BGCOLOR(#eee):~アーカイブ動画|BGCOLOR(#eee):~&icon_fa(fa fa-video-camera)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Riinosuke]]|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*基本情報
+・やりたい事を探しにこの街へやって来た、また『善人・悪人問わず』&bold(){《背中を追いかけたい人に出会いたい》}。
+・アイデンティティは【髪型】の赤と青で色分けしたブレイズの男性。
+・ギャング[[MOZU]]の元構成員。
+・γ世界線への移動後は主に[[素材屋連盟]]に加入し、ファームや釣りの平和でやりがいもない日々を送っていた。
+・街に起きるモチベーションも低下していたところで、[[闇医者]]にスカウトされ、元MOZUメンバーを助けたい思いで裏社会に戻った。
+・・ボスである[[BB>ゆちゃ　めろでぃ]]の負担を軽減し、右腕のようにサポートしていた。BBが処分された後もBBの意志を引き継ぎ、闇医者として活動している。
+
+***&font(16px,red){■} &font(b,u){性格}
+・派手な見た目なため『パリピ』と言われることが多いが、本人曰く真面目である。
+・自身を『0-100の男』と自負しており、物事を極端に考える傾向がある。
+・警察官に採用された場合は黒市民側の、黒堕ちした場合は白市民側の連絡先は全て削除すると決めている。
+・・戦いの場に身を投じる警察官やギャングを目指すため、道中&bold(){恋愛は弱みになる}と考え恋人、更には恋愛は作らず・しない決意である。現在は新たに《友人》も増やさない姿勢。
+・3日目に諸事情から名前を改名。現在の名前(ティキーチック)になる。
+・・[[ヴァン　ダーマー]]からは&bold(){『チッチキチー』}と呼ばれ、呼ばれた際は表示名をすぐにそれに変更した。[[MOZU]]（[[ヴァン　ダーマー]]の組織）内に《ティキーチック》を[[覚えられない人>銭形　やいち郎]]がいたらしい。(ちなみに『チッチキチー』の名付け親は[[その人>銭形　やいち郎]])
+***&font(16px,red){■} &font(b,u){のすけにとっての《警察官・ボイラ　テンガリン》}
+#region(のすけにとってのボイラ・テンガリンの詳細)閉じる
+・のすけが街に来た初日に５時間もの間、初心者案内をしてくれた警察官である。また[[ボイラ>ボイラ　テンガリン]]は恩人であり、次第に以下の気持ちを強く抱く様になった。
+・・住民の皆さんにボイラさんの人柄を尋ねると「セクハラする人」と嘲笑する人が多いが、皆さん最後には&bold(){「警察で1番真面目で1番警察官をしてる奴」}と声を揃えて言わせる凄い人。
+・・ボイラさんが奇行な事をするの原因は忙しいから。『ボイラさんを救いたい』
+・・情報を集めているとボイラさんのセクハラ行為はストレスからくるものではなく、元々セクハラ行為が多い方のようだ。
+#endregion
+***&font(16px,red){■} &font(b,u){《素材”布”に関する事案》}
+#region(素材”布”に関する事案の詳細)閉じる
+・街に来て7日目、[[タマーチ>タマーチ　ニキタ]]から限定車を譲り受け更に《ゴミ箱ファーム》の方法を伝授してもらう。
+・[[タマーチ>タマーチ　ニキタ]]からの教えもあり順当にファームをしていく中、日々の業務を傍らから見ていて『絶対に素材集めに使う時間の余裕はない』と思い、その多忙な警官の代わりに素材(布)を集め当初は《無償提供》をしようとしたが、対応した警官[[バーバリアン　田中]]がそれを拒否し「ちゃんと相場で買い取る」と伝える。だが今度は“のすけ”が相場買取を拒否、&s(){(婆と孫の)}押し問答になった末、ならばと[[バーバリアン　田中]]から【半値買取】を提示され承諾。
+・・後日、上記の一件後[[PYC]]に来店した[[ヴァン　ダーマー]]に&bold(){【何気ない話題の1つとして】}《布の半値売買》を話した。&u(){永久指名手配}の[[ヴァン　ダーマー]]が[[PYC]]にいるときに[[ボイラ　テンガリン]]がPYCに来店し鉢合わせになり、[[ボイラ　テンガリン]]が無線で警察に伝える警察が現着、一悶着が起きた。
+・・&font(b,u){『自身が[[PYC]]に世間話で長時間拘束をしてしまった事』が原因で[[ヴァン　ダーマー]]に迷惑をかけた}と感じた“のすけ”はMOZUの方々に電話したが起きてない為、僕の知らないMOZUメンバーに電話してほしいと[[ジョーカー>半沢　直ふぃ]]に相談したところ[[ジョーカー>半沢　直ふぃ]]による&u(){曲解した受け取りからうまれた}《警察署凸》が発生、言い分は&bold(){【警察は警察志望の住民から価値の高い布をもらっている、賄賂ではないのか？】【警察は布を半値で売らせた、のすけが可哀想だ】}との事だった。([[ヴァン　ダーマー]]も呼び出されたが、ものの数分で離脱した)
+・・解決した後、[[バーバリアン　田中]]からは&bold(){「布を集めてきて売買しにきてくれた事は本当に嬉しかった、ありがとう」}といった謝辞と、&bold(){「警察官志望であるなら尚の事、情報管理と《そう見られてしまうかもしれない言動には注意する事》」}といったアドバイスを貰う。この一件は”のすけ”にとって大きなターニングポイントになる。
+#endregion
+・タイミングが合わず警察官の採用募集が終わっていた。
+***&font(16px,red){■} &font(b,u){《大天使ねね様》}
+#region(大天使ねね様の詳細)閉じる
+・第1住民は[[個人医]]である[[鬼野　ねね]]、”のすけ”の電話帳に登録される最初の電話番号として番号を教えてもらう。その後バイクも貰い色々な恩義から&bold(){《大天使ねね様》}と呼ぶ様になる。数日後《[[鬼野　ねね]]のぬいぐるみ＝ねねぐるみ》も貰う事が出来、宝物の1つになった。
+・・[[ねね様>鬼野　ねね]]に対する想いは《信仰》であり、&u(){恋愛感情}や&u(){推し活}という気持ちではない。
+・・[[ねね様>鬼野　ねね]]の推している住民が[[ヴァン　ダーマー]]である事を知りその恋を応援しかけたが、[[鬼野　ねね]]からは&bold(){『場合によってはヴァンしゃんを殺してしまうかもしれないから付き合わない』}と聞かされる。
+#endregion
+***&font(16px,red){■} &font(b,u){《PYC》}
+・就職先を探すが7社に落ち、後がない状態で[[PYC]]へ。
+・・基本的に《17時～5時の勤務》をしており、[[パキ　ち]]に続く[[PYC]]の顔になりつつあり、彼目当ての太客も増えてきている。
+・・[[PYC]]で5日間体験をして、遂に[[PYC]]の正社員になる事が出来た。
+//
+///誤字脱字、文脈的におかしい部分があちこちに見受けられたため、出来うる限り修正をしました。個人の日記ではないので、ちゃんとした文章と正しい漢字での記載をお願いします。
+///また人名や団体名などはコマンドを用いると見やすくなります。
+
+*これまでのストーリー
+#region(白と黒の狭間で悩むのすけ)閉じる
+・[[のすけ>ティキーチック　のすけ]]は恩人の1人に警官の[[ボイラ>ボイラ　テンガリン]]がおり、黒の道は全く考えていない。
+・警官志望な事もあり、ボランティア感覚で警官たちには安価(もしくは無償)で布を納めている。
+・応募を考えたタイミングが直近の警察官採用募集が終了した直後だったため一旦断念、次回の開始に向け待機している。
+・[[PYC]]勤務中、[[ギャング]]の[[ヴァン　ダーマー]]に邂逅、[[ルウ>ルウ　ギャラクティカ]]より「あの人と接する時は普段のテンションで接する事は《NG》、常に敬語と失礼のない接客するを心掛ける様に」と、言い渡される。
+・[[ヴァン　ダーマー]]が来店する際、日々ワンオペをしている[[のすけ>ティキーチック　のすけ]]を気に掛けてくれており、賞賛してくれる様になった。
+・[[ヴァン　ダーマー]]より《警察の正義》がある様に、我々黒側にも《黒の正義がある》事を聞かされる。
+・・[[のすけ>ティキーチック　のすけ]]はその【黒の正義】というワードに興味が湧き、《その答えを知る事は》この先の人生においてとても大事な情報であると捉えた。
+・某日[[ヴァン　ダーマー]]から『人質経験の有無と、私が“指定した人間を呼び出さないと(お前を)殺すぞ”と問われたら、君はどうする？』と問われたが、[[のすけ>ティキーチック　のすけ]]は如何なる条件下でも「呼ばない」と返答、「ならば、呼び出す相手が[[皇帝>ニックス　リア]]の場合は？」と聞かれると「呼び出す」と即答をするとその回答に絶賛され、後日出張修理の依頼を約束される。 
+・・翌日街の北部への出張終了を依頼され、同時に《人質》経験をする。
+・・[[皇帝>ニックス　リア]]を呼び出し、人質解放条件に武装解除を伝えるが、隠し持っていた武装の存在を[[ヴァン　ダーマー]]に見抜かれる。[[のすけ>ティキーチック　のすけ]]はその武装を隠し持っていた警察側の行動に不信感を抱くとともに、[[ヴァン　ダーマー]]の統一された行動に高揚感を覚えた。開放されて[[PYC]]へ戻る。
+・・後日[[皇帝>ニックス　リア]]と邂逅した際「自身の身代わりになってくれた事」の謝罪と感謝を伝えると、『自分は警官だから問題ない』と返されその言葉に凛々しさを感じた。
+・[[のすけ>ティキーチック　のすけ]]の中で《警察官とギャング》、どちらの正義が正しいのか見定めている。
+#endregion(白と黒のはざまで悩むのすけ)
+
+#region(Père Noëlでタロット占い：2024/11/22)閉じる
+[[PYC]]の従業員3人で[[Père Noël]]へ行き[[ペトロ　アルドベッグ]]のタロット占いを受ける。
+
+&u(){★『A[[ヴァン　ダーマー]]とB[[ボイラ>ボイラ　テンガリン]]、それぞれの上司に仕えたらどうなっていくか』}
+【結果】・【Aを上司に選んだ場合の未来】＝塔の正位置
+『悪い意味での変化を示す。今までの全てが本人が望まなくとも突然終わり、強制的に状況が悪い方向に変わる。是非に環境を変えたいのであれば変えれなくはないが、その結果良い方向に向くかはわからない。』
+
+【結果】・【Bを上司に選んだ場合の未来】＝愚者の正位置
+『新しく物事を始められるカード(愚者)。勇気をもってそちらへ飛び込む事で良いスタートが切れ、新しいものを手に入れることができる(可能性がある)。』
+
+★&u(){『関係が全て崩れる覚悟でAの上司についていった場合の未来は？』}
+
+【結果】・【Ａについていった場合の未来】＝ペンタクルの9
+キーワード「願望が成就する」「才能の開花」。
+『貴方の最終目標についてはＡの方を選んだ先でも成就させることは出来る。先に出た《塔のカード》も踏まえると進まざる終えなくなっている。自身のステップアップが必須の状況に陥っていく。仕事も成功を納めて目標を達する事が出来れば上司からの引き立ても期待出来る。《A》を選んだ結果でも最終的には貴方のためにもなる。
+#endregion(Père Noëlでタロット占い)
+
+#region(PYCとMOZU)閉じる
+・応募先7社に落ちた自分を拾ってくれた[[PYC]]を『ナンバーワンメカニック店にする！』と、貪欲に働いていた動いていた[[のすけ>ティキーチック　のすけ]]であるが、勤務時間も毎日17時-5時で店に立っている事が[[PYC]]会議の議題にあがった。
+・・他の従業員達は《まだ街に来て日が浅い[[のすけ>ティキーチック　のすけ]]が今のままの勤務を続けていると早々に燃え尽きてしまう可能性への危惧》を伝えた。
+・・[[のすけ>ティキーチック　のすけ]]としては次の警察体験までに[[プラネットモータース]]の売り上げに貢献し、メカニックとしても一通りできるようになりたい意欲のもと動いていた手前、モチベーションダウンに繋がったという。
+・・[[MOZU]]に素材(布)を卸すことは続けたいが、あまり黒との繋がりが強くなると周囲に迷惑がかかる可能性も視野しており、[[PYC]]を辞めるべきなのか悩み続けている。
+・警察官になりたい願望は減退中。
+#endregion(PYCとMOZU)
+
+#region(ヴァン・ダーマーとの対話)閉じる
+・[[ヴァン　ダーマー]]から『布を買い取りしたい』と連絡があった。1000番台の隠れ家に向かい4000枚売却。
+・・この前日[[ヴァン　ダーマー]]より「君の考え方はまるでギャングだ」と言われた。《白と黒》、両方への干渉に対して「結局君は何がしたいのか」と問われる。
+・・[[のすけ>ティキーチック　のすけ]]は【《黒の正義》がある事を教えてくれた事・素材の価値を教えてくれた事・[[PYC]]での頑張りを褒めてくれた存在が貴方なので、自分は貴方の力になりたい。関係値を作っていきたい】と伝える。
+・・[[ヴァン　ダーマー]]は[[ルウ>ルウ　ギャラクティカ]]との関係値からしても[[PYC]]が盛況な事、店舗に立ってくれているだけで役には立っていると伝えるが、[[のすけ>ティキーチック　のすけ]]は直接的に貢献したい熱意と『貴方の役に立つために捨てる必要があるなら白市民パスも要らない』と伝えた。
+・【ヴァン・ダーマーの反応】&br()《[[のすけ>ティキーチック　のすけ]]は凄く優秀だが極端な思考も相まって無鉄砲にも見える》【おまえに黒はもったいない】
+・もし[[MOZU]]に貢献するとしても白市民のまま協力者となる道もあると示された。
+・街が長い[[ヴァン　ダーマー]]から見て《[[のすけ>ティキーチック　のすけ]]の『17時～5時で(当時)40日間は体感1年ぐらいだな』と、《時間》でなく《日数》で頑張りを言って貰えたのが本当に嬉しく思えたという。
+・現状、警察体験(募集)が再開された際に実際に応募するかは不明。逆に[[MOZU]]へ貢献したい気持ちが増え、白市民パスが邪魔になってきてしまっている。
+#endregion(ヴァン・ダーマーとの対話)
+
+#region(２つの仮面編/エピソード集)閉じる
+・[[ヴァン　ダーマー]]に「貴方の役に立ちたい」と気持ちを伝えてからは、表面的には警察官を目指す振りをしながら[[MOZU]]との関係値を深める生活が始まった。
+・・クリスマスプレゼントとして(黒にカスタムしたパラゴン)を渡した際、[[ヴァン　ダーマー]]から先の気持ちの回答をもらう。&br()&u(){ヴァン・ダーマーからの回答（要約）}
+・・・「まだ君には不安要素があるため、組織外の協力者として今後付き合う事とする」
+・・・「付き合っていく中もし[[MOZU]]と関わっていく事が困難と此方が判断した場合は、黒の道には踏み込まず、白市民のまま協力してもらう」
+・・・「[[MOZU]]では組織外の協力者のことを『花組』と呼んでいるが、君はまだ花組でもなく私個人との取引。まずは『花組』を視野に関係値を作っていく」
+・・・白市民であるが故にトラブルに巻き込まれた際、組織の人間ではない以上直接助けることは出来ないがアドバイスは出来る。
+・・・『ファームやクラフト等、無理はしないでほしい』、私は[[PYC]]は贔屓にしているので宜しくやってほしい。
+・・・私は白市民に対して基本的に電話番号は教えない、私が番号を教えたのは信頼の証。
+・カスタムパラゴンの謝礼として[[MOZU]]のタバコと[[ヴァン　ダーマー]]の銃を貰う。
+・17時-5時勤務を最大限活用するために高級車ディーラー([[にしのんキングダム]])就職。
+・ヘリ(フロガー)購入。
+・[[ボタリン　モンロー]]からリサセン近くに2軒の倉庫を購入。
+#endregion(関係を築くために/エピソード集)
+//
+///日本語的・文章的におかしな部分を全体的に修正しました。
+///兎にも角にも漢字を使わない・誤字脱字が多く、《句点(。)句読点(、)》があまりにも少ないため読みづらい事、会話も《カギカッコ(「」)》がなく分かりづらい事。
+///何より書かれているものが基本的に【個人推し日記】になっているか、参加者が喋った言葉をそのまま写しているだけなため【情報】ではない事、これも出来うる限り修正しました。
+
+*&icon_fa(fa-solid fa-comments)エピソード（項目別）
+#region(宝物)閉じる
+※倉庫がわりに使っている"宝物"と名付けた車の中、一番下に仕舞っている宝物。
+(2024/11/29)
+&image(20241129_宝物.png,X=450)
+・ねねさん使用済みダイビング用品一式（本人から貰ったもの）
+・真ん中ののすけの顔（犬億ロックから）
+・ねねさんのぬいぐるみ（本人から貰ったもの）
+・ヴァンさん専用タバコ"VAN SPIRIT"（本人から貰ったもの）
+#endregion(宝物)
+
+*人間関係
+#table_style(head=#E6E6FA)
+|~名前|~詳細|
+|[[ボイラ　テンガリン]]|初日に出会った警察官。丁寧な初心者案内を受ける。|
+|[[犬億　ロック]]|PYCの体験から1番お世話になっている。|
+|[[タマーチ　ニキタ]]|ロックさんから紹介されて布の効率のいい場所を教えて貰う。街5日目にしてまさかの限定車を貰う。この町で2台しかない幻の車。|
+|[[鬼野　ねね]]|町に来て最初に出会う。1番最初に連絡先を聞いた方。&br()出会った時は周りが[[ギャング]]同士で戦っていて助けられ、大天使ねね様と勝手に呼んでいる。|
+|[[ガヴァイ　アッカンマン]]|毎回モーニングコールをする間柄。一足先に警察体験しており、カスタム代と交換に体験の感想や街の情報を教えて貰う予定|
+|[[くま　ぽこ]]|仲良し。車両に張る自分のステッカーのデザインを依頼した。|
+|[[三島　改]]|街への転入同期組。PYCの同僚。のすけが苦労したヘリ免許を5分で取得してきた。|
+|[[ミカ・ピトフーイ]]|同期組。警察体験が2か月待ちと聞いて刺激を求め黒落ちも考えていた。&br()だが、白でやり残すことがないよう、バイクディーラー兼任でPYCでの勤務を志望している。|
+|[[ヴァン　ダーマー]]|1日で7回修理に来てくれ初めての人質(散歩)をする。そして黒の正義もあることを知らされる。&br()電話番号を交換して「何かあれば俺を頼れ」と言われる。|
+//|[[]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+
+*乗り物
+#region(開く,open)
+#table_filter(){入手日=show,種類=show,愛称=hide,車両名=show,ナンバー=hide,備考=show}
+#table_style(head=center:#E6E6FA)
+|~入手日|~種類|~愛称|~車両名|~ナンバー|~備考|h
+|2024/10/11|🏍||クサ(Kusa)|PUSQ9035|[[鬼野　ねね]]から貰ったバイク。|
+|2024/10/12|🚗||クラブ(Club)|MBKM5295|初めての車。[[プラネットモータース]]で[[もり　るんるん]]と[[ルウ　ギャラクティカ]]がお金を出してくれた。|
+|2024/10/15|🚙||ランポ・カスタム&br()(Rumpo Custom)|NEJL3385|[[プラネットモータース]]の[[パキ　ち]]から購入。|
+|2024/10/15|🚗||アジア(Asea)|YQWY5102|[[ロイ　マーチングナンバー]]から買ってもらった車。|
+|2024/10/18|🚙||ボーディ(Bodhi)|9068NCKJ|[[タマーチ　ニキタ]]から貰った限定車。この街に2～3台しかないらしい。|
+|2024/10/20|🏍|のすけ入社オメデトBATI901|バティー901(Bati 901)|ABBK8111|[[犬億　ロック]]からPYC入社祝いで貰ったバイク|
+|2024/？/？|🚗||ベルス(Verus)|HYXO1979||
+|2024/？/？|🚗|レミュス(のすけ)|レミュス(Remus)|CDNT6223||
+|2024/11/02|🚗||レミュス・ドリフト&br()(Remus Drift)|CCMD4722|[[プラネットモータース]]入社祝いで[[ルウ　ギャラクティカ]]から貰ったドリフト車。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//|2024//|🚗|||||
+
+*エピソード（日別）
+//コチラwiki内のリンク《[[]]》の方法や用途が記載されているガイドになります。
+//追記でエピソードを書き綴る前に既存の誤字脱字含む誤ったリンク等を修正し、新たに記載してください。
+//https://w.atwiki.jp/guide/pages/931.html#id_1214d188
+//
+//wiki内リンク《[[]]》の仕様がわからないならば、無理して設定する必要はありません。
+#include(ティキーチック　のすけ/エピソード1)
+#include(ティキーチック　のすけ/エピソード2)
+**切り抜き
+#div(width=330px,bgcolor=#3B4EF0){&font(16px,b,#fff){&space()Season1}}
+***2024年
+#region(開く)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2024/10/19|1|[[2日目で7社から体験入社を断られ続ける >>https://www.youtube.com/watch?v=YyW3ZLYezaA]]| |
+|2024/10/21|2|[[初めてのお客様！上国民のヴァン・ダーマー様 >>https://www.youtube.com/watch?v=kkD4JH0dc-0]]| |
+|2024/10/22|3|[[1日目テッキーチックのすけ視点>>https://www.youtube.com/watch?v=ZDwKfWxlUvU]]| |
+|2024/10/24|4|[[聖母れりあ様が8億円の車を持って登場！>>https://www.youtube.com/watch?v=ufO6JqU4vb8]]| |
+|2024/10/26|5|[[1番お世話になってる先輩の恋愛事情！>>https://www.youtube.com/watch?v=FFgJTqpnSKE]]| |
+|2024/10/28|6|[[暫定10億円越えの限定車を貰う！>>https://www.youtube.com/watch?v=hYqFQUY4Yu4]]| |
+|2024/10/30|7|[[人生最大の危機！賄賂を渡して正社員面接>>https://www.youtube.com/watch?v=csU4IWGCQZk]]| |
+|2024/11/01|8|[[犬億ロックさんからPYC入社祝いを貰う/ちっぽけなナス聞く>>https://www.youtube.com/watch?v=GFY_USVlw5k]]| |
+|2024/11/03|9|[[1番最初に出会った鬼野ねねさんに遂に会えた！>>https://www.youtube.com/watch?v=ZFKdRxg2cBU]]| |
+|2024/11/05|10|[[PYCメンバーで初めての服屋さんに行ってまさかの逮捕？>>https://www.youtube.com/watch?v=1jw7bxW0AgA]]| |
+|2024/11/07|11|[[警察の偉い方に警察になりたいと伝える>>https://www.youtube.com/watch?v=EFWTauYPo2A]]| |
+|2024/11/09|12|[[南警察署長にヤバいやつ認定されている件について>>https://www.youtube.com/watch?v=pQyFpZZdpdo]]| |
+|2024/11/11|13|[[街最強の特殊部隊S.W.A.T誕生！>>https://www.youtube.com/watch?v=ZVL87W4lby4]]| |
+|2024/11/12|14|[[ヴァンダーマーさんにチップを貰う/PYCの曲を作った方登場>>https://www.youtube.com/watch?v=ZzCcqOqcA28]]| |
+|2024/11/13|15|[[初めての手錠はまさかのボス>>https://www.youtube.com/watch?v=Rcm16SVZv0c]]| |
+|2024/11/14|16|[[チンピラさんと犬億ロックさんの恋愛事情 22日目>>https://www.youtube.com/watch?v=9SClueqDwqo]]| |
+|2024/11/16|17|[[学園祭で青春/特殊部隊S.W.A.Tのアジト>>https://www.youtube.com/watch?v=6mXl7pcTEmw]]| |
+|2024/11/17|18|[[ジャックザ立派に刺される/くまぽこ大噴火>>https://www.youtube.com/watch?v=l_TmTJhidgM]]| |
+|2024/11/19|19|[[世界統合でボイラさんがゾンビ化する！？/ママみ同窓会！>>https://www.youtube.com/watch?v=OfLsMTBNYjY]]| |
+|2024/11/21|20|[[ヴァンダーマーさん人質にされる>>https://www.youtube.com/watch?v=4GBjNWp0LyE]]| |
+|2024/11/23|21|[[突如現れたギャルに詰められる堕夜だよボイラさん偽物！？】>>https://www.youtube.com/watch?v=958IN1xLvFk]]| |
+|2024/11/25|22|[[社内恋愛？ルウさんの恋愛事情 21日目>>https://www.youtube.com/watch?v=7YyBmMb4o1k]]| |
+|2024/11/28|23|[[体験でお世話になったのでオーダーメイドの花束を渡す！>>https://www.youtube.com/watch?v=_LS03cS9yxc]]| |
+|2024/12/01|24|[[のすけが4人に増えた/漢字クイズがやばすぎるw>>https://www.youtube.com/watch?v=-s8Kumq5sVo]]| |
+|2024/12/03|25|[[白の正義、悪の正義とは>>https://www.youtube.com/watch?v=nUnLslVRnKc]]| |
+|2024/12/05|26|[[街で生きている先輩は優しさの塊だった>>https://www.youtube.com/watch?v=XiXr-VS9B94]]| |
+|2024/12/07|27|[[A.警察に行くかB.黒の道に行くか占って貰う>>https://www.youtube.com/watch?v=oVtwP2JgqQ8]]| |
+|2024/12/09|28|[[衝撃！大天使ねね様の好きぴはヴァンダーマさん>>https://www.youtube.com/watch?v=MtWAWJnnk3I]]| |
+|2024/12/11|29|[[生き別れたお母さんとお父さん？>>https://www.youtube.com/watch?v=7r17ANKe6mQ]]| |
+|2024/12/13|30|[[のすけ考察をMOZUメンバーに聞いて貰う>>https://www.youtube.com/watch?v=MQHiOmzbFFk]]| |
+|2024/12/15|31|[[人生の分岐点を話す>>https://www.youtube.com/watch?v=FYTJW9EFBNA]]| |
+|2024/12/17|32|[[何としてもでもヴァンダーマーさんに布を安く売り付けたいのすけ>>https://www.youtube.com/watch?v=PbokSVjj9P0]]| |
+|2024/12/19|33|[[SWAGの秘密基地を見つけたらギャングの溜まり場だったのを知る>>https://www.youtube.com/watch?v=s3wQS4XLglU]]| |
+|2024/12/21|34|[[ヴァンダーマーさんの熱い思いを知らせる  40日目>>https://www.youtube.com/watch?v=B48We7jRMMc]]| |
+|2024/12/23|35|[[ヴァンダーマーさんに出張修理&食べ物を貰う  40日目>>https://www.youtube.com/watch?v=i5Nk6n1FJGI]]| |
+|2024/12/25|36|[[ヴァンダーマーさんに自分の気持ちを全て伝える   41日目>>https://www.youtube.com/watch?v=lD5EzAwQBhE]]| |
+|2024/12/27|37|[[ヴァンダーマーさんのクリスマスプレゼントを用意する  43日目>>https://www.youtube.com/watch?v=tBAKrTbAbUc]]| |
+|2024/12/29|38|[[MOZUの名前の由来&クリスマスプレゼントを渡す  45日目>>https://www.youtube.com/watch?v=BwTL6-TViM4]]| |
+|2024/12/31|39|[[大天使ねね様に警察になる事を伝える。※初めての嘘を付く  45日目>>https://www.youtube.com/watch?v=irjZXTgfl_8]]| |
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***2025年
+#region(開く)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/01/02|1|[[ヴァンダーマーさんに自分の意思を伝える 57日目>>https://www.youtube.com/watch?v=CNwCtlWs39A]]||
+|2025/01/04|2|[[のすけてぇてぇ！？ 52日目>>https://www.youtube.com/watch?v=y4xFumquOsA]]||
+|2025/01/06|3|[[9億の補助輪デザラクトがダサ過ぎるww 54日目>>https://www.youtube.com/watch?v=dt4s20r_qaA]]||
+|2025/01/08|4|[[3週間ぶりの大天使ねね様に車をプレゼントする 58日目>>https://www.youtube.com/watch?v=1Q_9HOeliTQ]]||
+|2025/01/11|5|[[MOZUの銭形やいち郎さんに自分の想いを伝える。 60日目>>https://www.youtube.com/watch?v=6MgDSKyzL8Y]]||
+|2025/01/13|6|[[一時帰国後にPYCを辞める話を告げられる 61日目>>https://www.youtube.com/watch?v=wQypMKPQGtc]]||
+|2025/01/15|7|[[MOZUのフロント企業のShanoRに面接に行く 61日目>>https://www.youtube.com/watch?v=D1HPm1SVJK8]]||
+|2025/01/17|8|[[ヴァンダーマーさんと銭形やいち郎さんにPYCを辞める覚悟を伝える。 62日目>>https://www.youtube.com/watch?v=LJan8jc_Zn4]]||
+|2025/01/20|9|[[この街に来てから1番お世話になった人にPYCを今後辞めることを伝える。 63日目>>https://www.youtube.com/watch?v=EBU7JbU2p54]]||
+|2025/01/22|10|[[今までで1番の不義理をしてしまう 69日目>>https://www.youtube.com/watch?v=BKcRI5TyIKc]]||
+|2025/01/24|11|[[ヴァンダーマーさんから誕生日プレゼントを貰う&年越し 70日目>>https://www.youtube.com/watch?v=Io9kQm5Md6A]]||
+|2025/01/27|12|[[MOZUが抗争をする話を聞く。 78日目>>https://www.youtube.com/watch?v=H7H-pXCoPeY]]||
+|2025/01/29|13|[[タマーチさんに初犯罪を教えて貰う。 77日目>>https://www.youtube.com/watch?v=QtviAMpScPQ]]||
+|2025/01/31|14|[[ヴァンダーマーVSチッチキチーのすけ 79日目>>https://www.youtube.com/watch?v=dtE20AIw0RA]]||
+|2025/02/02|15|[[初のプリズンに自ら行く 79日目>>https://www.youtube.com/watch?v=yo6QlrLBriQ]]||
+|2025/02/04|16|[[三島改帰ってきて探してる男がいることを知る。 82日目>>https://www.youtube.com/watch?v=8XCqbVHV08k]]||
+|2025/02/06|17|[[ヴァンダーマーさんからの仕事の件今年初のあらよっと 84日目>>https://www.youtube.com/watch?v=edowEHQbH8I]]||
+|2025/02/08|18|[[警察との撃ち合い練習 85日目>>https://www.youtube.com/watch?v=3LaqJ2tkiYQ]]||
+|2025/02/10|19|[[ShanaoRでのお見送りの挨拶について 87日目>>https://www.youtube.com/watch?v=F-xdpqX3sWk]]||
+|2025/02/12|20|[[ヴァンダーマーさんからお仕事を貰う前の準備 87日目>>https://www.youtube.com/watch?v=9WgBE_YI93k]]||
+|2025/02/14|21|[[この街の警察官は素晴らしい！ 87日目>>https://www.youtube.com/watch?v=_ggXCVSTQJk]]||
+|2025/02/16|22|[[PYCを辞めた三島改昔の記憶を思い出す 87日目>>https://www.youtube.com/watch?v=TogHrF8u6TY]]||
+|2025/02/18|23|[[大天使ねね様に黒になった報告をする。 89日目>>https://www.youtube.com/watch?v=Xqsb9I8EOrA]]||
+|2025/02/20|24|[[ヴァンダーマーさんから初のお仕事の依頼 90日目>>https://www.youtube.com/watch?v=YkHG5HtsUqA]]||
+|2025/02/22|25|[[急展開！三島改の探していた人現る。 91日目>>https://www.youtube.com/watch?v=mKAfxk8i1-M]]||
+|2025/02/24|26|[[1番乗ったバイクを授かる 91日目>>https://www.youtube.com/watch?v=C7F-8SfZ90Y]]||
+|2025/02/26|27|[[遂にMOZU研修生になる。 92日目>>https://www.youtube.com/watch?v=300Hv5nZhzQ]]||
+|2025/02/28|28|[[ShanaoRの情報漏洩 92日目>>https://www.youtube.com/watch?v=FoRyLyqGK7Y]]||
+|2025/03/02|29|[[MOZUメンバーに挨拶 93日目>>https://www.youtube.com/watch?v=kDMjTNy4O_k]]||
+|2025/03/04|30|[[MOZUのイチカさんに挨拶、ホワイトタイガーの正体 95日目>>https://www.youtube.com/watch?v=S1J08ZDw0tU]]||
+|2025/03/06|31|[[同期3人初サーマル＋キミトスさん 96日>>https://www.youtube.com/watch?v=9CnjsdtEWMc]]||
+|2025/03/08|32|[[警察VS MOZU 97日目>>https://www.youtube.com/watch?v=7c7PX1mqcT4]]||
+|2025/03/11|33|[[MOZU正式入隊 98日目>>https://www.youtube.com/watch?v=66Pve_alK7o]]||
+|2025/03/13|34|[[初の大型ボブキャット 98日目>>https://www.youtube.com/watch?v=wx2xHr0hIEs]]||
+|2025/03/15|35|[[MOZUの司令塔の描く絵 100日目 ,101日>>https://www.youtube.com/watch?v=ROh4Zaj0IQE]]||
+|2025/03/17|36|[[笑ってはいけないMOZU面接 103日目 /105日>>https://www.youtube.com/watch?v=Nlfs6dEWQRw]]||
+|2025/03/19|37|[[久しぶりのタマーチさんとのお仕事！ 105日>>https://www.youtube.com/watch?v=fciUt4EShcw]]||
+|2025/03/21|38|[[Dの正体は上田！？ 102日目>>https://www.youtube.com/watch?v=aPHI6Wtosco]]||
+|2025/03/24|39|[[元PYCの同僚の決意！ 104日目 105日>>https://www.youtube.com/watch?v=4JogCkKht-o]]||
+|2025/03/26|40|[[昔のMOZUと今のMOZU！ 105日, 108日>>https://www.youtube.com/watch?v=7WfnEnIyeKk]]||
+|2025/03/28|41|[[市長がMOZUに入る！？/チルタイムのお話 110日>>https://www.youtube.com/watch?v=Ivt9IEGUb4s]]||
+|2025/03/30|42|[[同期の警察体験編 107日目.111日>>https://www.youtube.com/watch?v=CwNU1Ac5Bh0]]||
+|2025/04/04|43|[[MOZU対警察の譲らない薬売り 117日>>https://www.youtube.com/watch?v=kxKlJH-MOEg]]||
+|2025/04/07|44|[[大天使ねね様に誕生日プレゼントを渡す！ 114日.118日目>>https://www.youtube.com/watch?v=u6Fz0dsjknM]]||
+|2025/04/09|45|[[この街中に嫌われようが俺たちは仲間だ！ 120日目>>https://www.youtube.com/watch?v=9gPtXSDRCbk]]||
+|2025/04/13|46|[[花の妖精エッホ誕生 120日目>>https://www.youtube.com/watch?v=z9DUARrXaig]]||
+|2025/04/17|47|[[エッホ×ホワイトタイガーの犯罪編 121日目>>https://www.youtube.com/watch?v=VLA4SfNItdw]]||
+|2025/04/23|48|[[同期のガヴァイが警察を辞めてエレンになる！？>>https://www.youtube.com/watch?v=BesUeGZNwag]]||
+|2025/05/10|49|[[大天使ねね様との突然の別れ 128日目>>https://www.youtube.com/watch?v=kLgBE1BLuEI]]||
+|2025/05/12|50|[[人生の先輩に鬼野ねねが居なくなる事を相談する 128日目>>https://www.youtube.com/watch?v=NkXBJAAq4mM]]||
+|2025/05/14|51|[[MOZUの志願の同期のミカ 129日目>>https://www.youtube.com/watch?v=i9VzG0fokwA]]||
+|2025/05/29|52|[[ボスに鬼野ねねはどんな人物だったか聞く 132日目>>https://www.youtube.com/watch?v=HnDjvIO3hJ4]]||
+|2025/05/31|53|[[黒の人が市長になるなんて異常事態だ！と思う白市民達 129日目>>https://www.youtube.com/watch?v=QDe_ukktX6w]]||
+|2025/06/02|54|[[鬼野ねねに秘書になる目標を伝える。 135日目>>https://www.youtube.com/watch?v=zxn_y_AzF80]]||
+|2025/06/05|55|[[ボスの付き人になる  134日目>>https://www.youtube.com/watch?v=HMUM3GNzK3s]]||
+|2025/06/10|56|[[前市長の山下ひろしに激盛り罪状を付けられる！？ 139日目 141日目>>https://www.youtube.com/watch?v=y9sdt0g8iPU]]||
+|2025/06/15|57|[[オールイン解散の話 141日目>>https://www.youtube.com/watch?v=9M34nt8V3s4]]||
+|2025/06/17|58|[[鬼野ねねの最後について話を聞く 197日目>>https://www.youtube.com/watch?v=ShGBsXIO6A0]]||
+|2025/06/21|59|[[ルーファスさんに相談する>>https://www.youtube.com/watch?v=LJprk-C3mWg]]||
+|2025/07/07|60|[[街の活性化の為に抗争をする優しいボス 214日目>>https://www.youtube.com/watch?v=mvkDhGU92ck]]||
+|2025/07/11|61|[[のりお脱退の危機！？ 216日目>>https://www.youtube.com/watch?v=2kknLh33oXE]]||
+|2025/07/12|62|[[ハンタスマとの抗争！ 222日目>>https://www.youtube.com/watch?v=ynGKmCdAFEo]]||
+|2025/07/13|63|[[ボスから逃げきれ！ 235日目>>https://www.youtube.com/watch?v=UPhF8H-3v-8]]||
+|2025/07/14|64|[[MOZUレース開催！ 234日目>>https://www.youtube.com/watch?v=nTekpptXKUA]]||
+|2025/07/15|65|[[女子部屋の問題に急展開!? 236日目>>https://www.youtube.com/watch?v=xz9t322scSA]]||
+|2025/07/16|66|[[悔し涙の三島改/キャラエンド寸前？www 238日目>>https://www.youtube.com/watch?v=rYJAVVOb76c]]||
+|2025/07/17|67|[[MOZUに新メンバー！/のりおの成長 239日目>>https://www.youtube.com/watch?v=pH7FAfsUB6Q]]||
+|2025/07/18|68|[[MOZUに北村ばなな加入！/だよさんとLv2ミッション 240日目>>https://www.youtube.com/watch?v=CPzBkk8_jwE]]||
+|2025/07/19|69|[[新メンバー丸井まる！/20憶レース予選突破 241日目>>https://www.youtube.com/watch?v=ym3K5LIfo0g]]||
+|2025/07/20|70|[[大事な仲間だからこそ 242日目>>https://www.youtube.com/watch?v=S4zY4z23vRc]]||
+|2025/07/21|71|[[遂に鳥の名を授かる 243日目>>https://www.youtube.com/watch?v=n-6vpPHpk40]]||
+|2025/07/22|72|[[MOZUメンバーのポケット事情 234日目>>https://www.youtube.com/watch?v=RnCukwE7GDQ]]||
+|2025/07/23|73|[[突発抗争開始!! 244日目>>https://www.youtube.com/watch?v=yjiOgL0Eq9M]]||
+|2025/07/24|74|[[NOLIMITの抗争について 245日目>>https://www.youtube.com/watch?v=y86izEAw9mo]]||
+|2025/07/25|75|[[ボスいつもありがとう！ 246日目>>https://www.youtube.com/watch?v=J6Egv51KQ90]]||
+|2025/07/26|76|[[後輩の悩み/だよさんにボスの事を伝える 244日目、247日目>>https://www.youtube.com/watch?v=nMdyjLIgSE4]]||
+|2025/07/27|77|[[今は居ない鬼野ねねに近状報告する 248日目>>https://www.youtube.com/watch?v=IgiYun3LDz4]]||
+|2025/07/28|78|[[相談役の大川さんに相談する 248日目>>https://www.youtube.com/watch?v=lTLKgAijBZI]]||
+|2025/07/29|79|[[丸井まるの相談/背中がデカすぎる銭形やいち郎 248日目>>https://www.youtube.com/watch?v=0djZj0g2kSo]]||
+|2025/07/30|80|[[GBCイベントの凄さに驚愕 250日目>>https://www.youtube.com/watch?v=MDD76SAtrfE]]||
+|2025/07/31|81|[[E5バーガー攻略が面白すぎるwww 251日目>>https://www.youtube.com/watch?v=u6mWDbKO9yo]]||
+|2025/08/01|82|[[ベリハピオタ活に遭遇/ナンパするのすけ？ 250日目>>https://www.youtube.com/watch?v=Qgsxq1sFE6I]]||
+|2025/08/02|83|[[2人の先輩に鳥の名/ロスリンピック開催 253日目>>https://www.youtube.com/watch?v=ViQoaDTaneE]]||
+|2025/08/03|84|[[E5バーガーのギャルゲー 254日目>>https://www.youtube.com/watch?v=AyJOSLu6WiU]]||
+|2025/08/04|85|[[ウソがバレて詰められる麻陀羅組 255日目>>https://www.youtube.com/watch?v=yuHjtWDqBd0]]||
+|2025/08/05|86|[[シャノールの従業員探し! 253日目>>https://www.youtube.com/watch?v=foE3ynFxFUs]]||
+|2025/08/06|87|[[数少ない友達にプレゼント 256日目>>https://www.youtube.com/watch?v=_hi7sN2UbHs]]||
+|2025/08/07|88|[[まだら組の新しいボス!! 257日目>>https://www.youtube.com/watch?v=pjbHs5869cc]]||
+|2025/08/08|89|[[優しく教えてくれる友であり仲間 257日目>>https://www.youtube.com/watch?v=XYKV1ImdVpI]]||
+|2025/08/09|90|[[トリスタ解散の訳 257日目>>https://www.youtube.com/watch?v=yMKwo5AoYgc]]||
+|2025/08/10|91|[[上田MOZU加入？/わきをさんの件 260日目>>https://www.youtube.com/watch?v=n3v-IYia06I]]||
+|2025/08/11|92|[[ロスリンピック開催！！ 260日目>>https://www.youtube.com/watch?v=Yq4S1hpfZUU]]||
+|2025/08/12|93|[[元構成員との接し方について 261日目>>https://www.youtube.com/watch?v=2UxGBtA0GtU]]||
+|2025/08/13|94|[[イチカお嬢様が狙われている！？ 261日目>>https://www.youtube.com/watch?v=mp9rgScMz3w]]||
+|2025/08/14|95|[[RqteLと抗争 263日目>>https://www.youtube.com/watch?v=63r1BhAqd60]]||
+|2025/08/15|96|[[狙われる真相 262日目>>https://www.youtube.com/watch?v=eCQtcZLSoUM]]||
+|2025/08/16|97|[[じぇいめぐ儚い物語 263日目>>https://www.youtube.com/watch?v=NV3Rk-WFd88]]||
+|2025/08/17|98|[[幸せの日々 266日目>>https://www.youtube.com/watch?v=gjFRsZnOVZg]]||
+|2025/08/18|99|[[マグマ大噴火！今日だけは許して>>https://www.youtube.com/watch?v=0IUl2wD9c3k]]||
+|2025/08/19|100|[[今まで通り残された日常 267日目>>https://www.youtube.com/watch?v=t9i_SUlMTxo]]||
+|2025/08/20|101|[[新しい法律！ 268日目>>https://www.youtube.com/watch?v=nrTBrzpL6Og]]||
+|2025/08/21|102|[[ShanaoRの1日店長しごろさん 268日目>>https://www.youtube.com/watch?v=pTacft6z5Ag]]||
+|2025/08/22|103|[[MOZU解散/愛してくれてありがとう 270日目>>https://www.youtube.com/watch?v=gSD5VtqjyWg]]||
+|2025/08/23|104|[[メンケア大臣 271日目>>https://www.youtube.com/watch?v=S7GpDwPjLDs]]||
+|2025/08/24|105|[[失敗と挽回はセット 272日目>>https://www.youtube.com/watch?v=T0fUP7lUiuE]]||
+|2025/08/25|106|[[殴り合いの決闘 273日目>>https://www.youtube.com/watch?v=jlGz3EdWsx0]]||
+|2025/08/26|107|[[熱い男の漢道 269日目>>https://www.youtube.com/watch?v=cnCO9SVWijU]]||
+|2025/08/28|108|[[当たりすぎて怖い占い 266日目>>https://www.youtube.com/watch?v=z6-nHtvAnEA]]||
+|2025/08/29|109|[[元MOZUのNOLIMITナンバー３の男 269日目>>https://www.youtube.com/watch?v=EzOOzIJGJEI]]||
+|2025/09/15|110|[[久しぶりの会話 289日目>>https://www.youtube.com/watch?v=nMG7F-Ik5yA]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#div(width=330px,bgcolor=#3B4EF0){&font(16px,b,#fff){&space()Season2}}
+***2025年
+#region(開く)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/12/26|1|[[長い夢を見ていた １日目>>https://www.youtube.com/watch?v=M1qSgOc7DXA]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***2026年
+****3月～7月
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/05|2|[[素材屋連盟の会議 42日目>>https://www.youtube.com/watch?v=za5D8tepRX0]]||
+|05/31|3|[[闇医者になる！ 85日目>>https://www.youtube.com/watch?v=NKuwiM04pcY]]||
+|06/01|4|[[始めてのワンオペ 86日目>>https://www.youtube.com/watch?v=FTivgDLtDyA]]||
+|06/04|5|[[闇医者の定例会 87日目>>https://www.youtube.com/watch?v=7Aer7IqSQKc]]||
+|06/05|6|[[中型犯罪してる人を助けたい！ 89日目>>https://www.youtube.com/watch?v=-TTUZLlADQM]]||
+|06/06|7|[[半年羽ばたけなかった。MOZUメンバーは凄い 89日目>>https://www.youtube.com/watch?v=ZL3gNQnrDow]]||
+|06/06|8|[[3分の命！？手術開始ですｗｗｗ 89日目>>https://www.youtube.com/watch?v=OMSTbOMnaNc]]||
+|06/07|9|[[バッチを無くしてしまった!? 90日目>>https://www.youtube.com/watch?v=xVEL0Il2tY8]]||
+|06/08|10|[[パトカーに乗せられてる患者を助ける 91日目>>https://www.youtube.com/watch?v=CE-rCDGdFPY]]||
+|06/11|11|[[街の変化！闇医者が出来た当時 92日目>>https://www.youtube.com/watch?v=69Xfg-q0MQU]]||
+|06/11|12|[[素材屋の変化！工場追加！？ 92日目>>https://www.youtube.com/watch?v=4F9WpxkOMc0]]||
+|06/13|13|[[闇医者メンバーの退職 94日目>>https://www.youtube.com/watch?v=wmn_NrsoOso]]||
+|06/14|14|[[あの場所で待ってます 94日目>>https://www.youtube.com/watch?v=nozs7krasds]]||
+|06/15|15|[[予想外の結婚式 96日目>>https://www.youtube.com/watch?v=_UC0rkPJ3ow]]||
+|06/16|16|[[ぬいぐるみを渡した人がまさかの！？ 95日目>>https://www.youtube.com/watch?v=MihsK0-lJXY]]||
+|06/26|17|[[一週間の情報共有 98日目>>https://www.youtube.com/watch?v=Gqg8j5P_bHc]]||
+|06/27|18|[[迫りくる脅威/失いたくないBB 98日目>>https://www.youtube.com/watch?v=uhYyuKV0fMY]]||
+|06/28|19|[[私服警官!?/初めましての闇医者メンバー 100日目>>https://www.youtube.com/watch?v=vGIWyCxppu4]]||
+|06/29|20|[[警察に怯える日々 101日目>>https://www.youtube.com/watch?v=Ym_WFXkqqWU]]||
+|06/30|21|[[初逮捕でブラックバックを守れ!! 101日目>>https://www.youtube.com/watch?v=Kp5s_-oljmo]]||
+|07/02|22|[[裏ルートで病院から医療道具を盗め!! 102日目>>https://www.youtube.com/watch?v=5ZH4zTi45wk]]||
+|07/03|23|[[ねねさんのぬいぐるみ/あの場所で報告 103日目>>https://www.youtube.com/watch?v=tMtyTbtUtts]]||
+|07/03|24|[[追尾している白市民!? 103日目>>https://www.youtube.com/watch?v=wgfBCbhCicw]]||
+|07/04|25|[[禁断の恋!?/黒色の種類 104日目>>https://www.youtube.com/watch?v=wMs_Ev32FI4]]||
+|07/04|26|[[闇医者のTOP無馬かな 104日目>>https://www.youtube.com/watch?v=eiYlA2d2Nmk]]||
+|07/05|27|[[闇医者とギャングの話し合い 105日目>>https://www.youtube.com/watch?v=Sw1jCDlkwLM]]||
+|07/06|28|[[続いてほしい日常 106日目>>https://www.youtube.com/watch?v=d4Cp9Cut1hE]]||
+|07/09|29|[[黒の世界に生きる為には 107日目>>https://www.youtube.com/watch?v=kV5PE7NL_QQ]]||
+|07/09|30|[[戻らない日常 107日目>>https://www.youtube.com/watch?v=D350HTl_jW0]]||
+|07/10|31|[[闇医者劇場 108日目>>https://www.youtube.com/watch?v=FWG2OLqKRSk]]||
+|07/11|32|[[闇医者劇場  109日目>>https://www.youtube.com/watch?v=88aYlHc82II]]| |
+|07/13|33|[[名前を言いかけるw  110日目>>https://www.youtube.com/watch?v=-VXIn8PjQ6g]]| |
+|07/16|34|[[ゆちゃさんの手紙/死ぬかもしれないノアさん  111日目>>https://www.youtube.com/watch?v=W6gccW4bu5I]]| |
+|07/16|35|[[2人に手紙の事を伝える/怖すぎるナンパww  111日目>>https://www.youtube.com/watch?v=gVzSZEJ_SXc]]| |
+|07/17|36|[[チル過ぎて変になるAB  112日目>>https://www.youtube.com/watch?v=K_PpUHMp_yA]]| |
+|07/18|37|[[先輩の意思を聞く  113日目>>https://www.youtube.com/watch?v=dNtW4lTFZYo]]| |
+|07/19|38|[[前の街で闇医者を作った男の漆黒さを知る  114日目>>https://www.youtube.com/watch?v=jWKcz-irjc8]]| |
+|07/20|39|[[2人の輝く目が見たい/加藤さんおかえりなさい  115日目>>https://www.youtube.com/watch?v=b0aFIaWAjqs]]| |
+|07/23|40|[[ガヴァイさんと話す/心なき殲滅して助ける  116日目>>https://www.youtube.com/watch?v=aqcJaB9AP3A]]| |
+|07/24|41|[[中型介入について意見を聞く  117日目>>https://www.youtube.com/watch?v=_Li6zLXFdjA]]| |
+|07/25|42|[[線引きがむずい中型介入  118日目>>https://www.youtube.com/watch?v=OJP2NnLI1jY]]| |
+|07/27|43|[[不安定だからこそ対話  120日目>>https://www.youtube.com/watch?v=BxH7KQMydiI]]| |
+|07/30|44|[[闇医者の新しいスタート 121日目>>https://www.youtube.com/watch?v=QKyMkqJMQaM]]| |
+|07/30|45|[[遂に正体を明かす!?  121日目>>https://www.youtube.com/watch?v=NvpswsRYCSQ]]| |
+|07/31|46|[[シリアスになる寸前!?  119日目,122日目>>https://www.youtube.com/watch?v=psYImjId8lU]]| |
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+****8月～
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/03|47|[[約1年の失敗と挽回  119日目,122日目>>https://www.youtube.com/watch?v=9VAGJLDdosQ]]| |
+|08/04|48|[[3分以内に治らなかったらエンド!?  119日目,122日目>>https://www.youtube.com/watch?v=bWJ9PTdqq2Q]]| |
+|08/06|49|[[大川さんに伝える  126日目>>https://www.youtube.com/watch?v=7zeh-Q-z_5Y]]| |
+|08/07|50|[[ゆちゃさんの車をたいたいさんに渡す  127日目>>https://www.youtube.com/watch?v=FWhWI_GWrkE]]| |
+|08/09|51|[[闇医者の名前と新アジト  129日目>>https://www.youtube.com/watch?v=HYoBVtEUpLw]]| |
+|08/13|52|[[無馬さんとねねさんの話を聞く/警察に正体を明かす  130日目,131日目>>https://www.youtube.com/watch?v=uaUB6ffcbWU]]| |
+|08/14|53|[[2週間後闇医者を追い出される!?  132日目>>https://www.youtube.com/watch?v=lzqe5zttVi4]]| |
+|08/15|54|[[クビを言い渡される!?www  133日目>>https://www.youtube.com/watch?v=COT91K9W1aE]]| |
+|08/27|55|[[一週間ぶりの起床で情報共有 137日目>>https://www.youtube.com/watch?v=vsqXdN9QheQ]]| |
+|08/29|56|[[久しぶりの定例会  138日目>>https://www.youtube.com/watch?v=bMuNQpGfFz0]]| |
+|08/30|57|[[元MOZUメンバーに話す/久しぶりの銃  139日目>>https://www.youtube.com/watch?v=pKhEJ-wDYXU]]| |
+|09/06|58|[[謎の種について依頼/アジト前に警察官 143日目>>https://www.youtube.com/watch?v=DTAG4aa4O5E]]| |
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+**アーカイブ
+***2024年
+#region(開く)閉じる
+****10月
+#region(開く)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/11|1|[[Tiiktokのすけ1日目！>>https://youtu.be/ZDwKfWxlUvU]]||
+|10/12|2|[[Tiiktokのすけ2日目！>>https://www.twitch.tv/videos/2282060179]]||
+|10/13|3|[[ティキーチックのすけ３日目！>>https://www.twitch.tv/videos/2282060490]]||
+|~|~|[[ティキーチックのすけ３日目！>>https://www.twitch.tv/videos/2282060838]]||
+|10/14|4|[[ティキーチックのすけ4日目！>>https://www.twitch.tv/videos/2282061076]]||
+|~|~|[[ティキーチックのすけ4日目！>>https://www.twitch.tv/videos/2282061410]]||
+|10/16|5|[[ティキーチックのすけ5日目！>>https://www.twitch.tv/videos/2282061749]]||
+|10/17|6|[[ティキーチックのすけ6日目！>>https://www.twitch.tv/videos/2282061982]]||
+|10/18|7|[[ティキーチックのすけ7日目！>>https://www.twitch.tv/videos/2282062276]]||
+|10/19|8|[[8日目→ティキーチックのすけ！>>https://www.twitch.tv/videos/2282062523]]||
+|10/20|9|[[9日目→ティキーチックのすけ！>>https://www.twitch.tv/videos/2282062781]]||
+|10/22|10|[[10日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2282676952]]||
+|10/23|11|[[11日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2283485715]]||
+|10/24|12|[[11日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2284304774]]||
+|10/25|13|[[13日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2285197324]]||
+|10/26|14|[[14日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2286042959]]||
+|10/27|15|[[15日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2287030416]]||
+|10/29|16|[[16日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2288625804]]||
+|10/30|17|[[17日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2289438034]]||
+|10/31|18|[[18日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2290263103]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+****11月
+#region(開く)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|11/1|19|[[19日目、ティキーチックのすけ！！>>https://www.twitch.tv/videos/2291097709]]||
+|11/2|20|[[20日目、ティキーチックのすけ！！>>https://www.twitch.tv/videos/2292067949]]|プラネットモータース入社|
+|11/3|21|[[21日目、ティキーチックのすけ！！>>https://www.twitch.tv/videos/2292953605]]||
+|11/5|22|[[22日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2294535678]]|PYC人質事件|
+|11/6|23|[[23日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2295298946]]||
+|11/7|24|[[24日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2296115684]]||
+|11/8|25|[[25日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2296897005]]||
+|11/9|26|[[26日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2297847251]]||
+|11/10|27|[[27日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2298657690]]||
+|11/12|28|[[28日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2300244061]]||
+|11/13|29|[[29日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2300666901]]||
+|11/14|30|[[30日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2301466072]]||
+|11/15|31|[[31日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2302764674]]||
+|11/16|32|[[32日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2303107482]]||
+|11/17|33|[[33日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2303992090]]||
+|11/19|34|[[34日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2305997651]]||
+|11/20|35|[[35日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2306820093]]||
+|11/21|36|[[36日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2307627424]]||
+|11/22|37|[[37日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2308441657]]||
+|11/23|38|[[38日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2309366041]]||
+|11/24|39|[[39日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2310218206]]||
+|11/26|40|[[40日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2311410244]]||
+|11/27|41|[[41日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2312211593]]||
+|11/28|42|[[42日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2313378446]]||
+|11/29|43|[[43日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2314238775]]||
+|11/30|44|[[44日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2315064610]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+****12月
+#region(開く)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/1|45|[[45日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2315982031]]||
+|12/3|46|[[46日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2317533426]]||
+|12/4|47|[[47日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2318311381]]||
+|12/5|48|[[48日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2319117446]]||
+|12/6|49|[[49日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2320005901]]||
+|12/7|50|[[50日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2320477669]]||
+|12/8|51|[[51日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2321818552]]||
+|12/10|52|[[52日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2323419678]]||
+|12/11|53|[[53日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2324297110]]||
+|12/12|54|[[54日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2325079231]]||
+|12/13|55|[[55日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2325903668]]||
+|12/14|56|[[56日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2326391977]]||
+|12/15|57|[[57日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2327267300]]||
+|12/17|58|[[58日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2329276413]]||
+|12/18|59|[[59日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2330112067]]||
+|12/19|60|[[60日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2330943815]]||
+|12/20|61|[[61日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2331782517]]||
+|12/21|62|[[62日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2332658733]]||
+|12/22|63|[[63日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2333526099]]||
+|12/24|64|[[64日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2335129515]]||
+|12/25|65|[[65日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2335826927]]||
+|12/26|66|[[66日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2336589539]]||
+|12/27|67|[[67日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2337422328]]||
+|12/28|68|[[68日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2338357784]]||
+|12/29|69|[[69日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2340540124]]||
+|12/31|70|[[70日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2340866608]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#endregion
+#endregion(2024年)
+***2025年
+#region(開く)閉じる
+****1月
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|1/1|70.5|[[70.5日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2341283454]]||
+|1/1|71|[[71日目パート１、ティキーチックのすけ！>>https://www.twitch.tv/videos/2341528020]]||
+|1/1|71|[[71日目パート2、ティキーチックのすけ！>>https://www.twitch.tv/videos/2341652361]]||
+|1/2|72|[[72日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2342503942]]||
+|1/3|73|[[73日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2343391022]]||
+|1/4|74|[[74日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2344342230]]||
+|1/5|75|[[75日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2345298829]]||
+|1/7|76|[[76日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2347033172]]||
+|1/8|77|[[77日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2347899443]]||
+|1/9|78|[[78日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2348744930]]||
+|1/10|79|[[79日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2349667809]]||
+|1/11|80|[[80日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2350684936]]||
+|1/12|81|[[81日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2351651638]]||
+|1/14|82|[[82日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2352967602]]||
+|1/15|83|[[83日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2354233386]]||
+|1/16|84|[[84日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2355102635]]||
+|1/17|85|[[85日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2355988786]]||
+|1/18|86|[[86日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2356978437]]||
+|1/19|87|[[87日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2357975142]]||
+|1/21|88|[[88日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2359779030]]||
+|1/22|89|[[89日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2360608550]]||
+|1/23|90|[[90日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2361576893]]||
+|1/24|91|[[91日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2362495912]]||
+|1/25|92|[[92日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2363533802]]||
+|1/26|93|[[93日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2364467060]]||
+|1/28|94|[[94日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2366182674]]||
+|1/29|95|[[95日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2367076747]]||
+|1/30|96|[[96日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2367947138]]||
+|1/31|97|[[97日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2368837273]]||
+#endregion
+****2月
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2/1|98|[[98日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2370313183]]||
+|2/2|99|[[99日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2370779160]]||
+|2/4|100|[[100日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2372946466]]||
+|2/5|101|[[101日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2373350976]]||
+|2/6|102|[[102日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2374221684]]||
+|2/7|103|[[103日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2375100545]]||
+|2/8|104|[[104日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2376004584]]||
+|2/9|105|[[105日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2376966952]]||
+|2/11|106|[[106日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2378594749]]||
+|2/12|107|[[107日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2379466457]]||
+|2/13|108|[[108日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2380323759]]||
+|2/14|109|[[109日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2381181340]]||
+|2/15|110|[[110日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2382114170]]||
+|2/16|111|[[111日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2383066709]]||
+|2/18|112|[[112日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2384818917]]||
+|2/19|113|[[113日目、ティキーチックのすけ！>>https://www.twitch.tv/videos/2385701759]]||
+|2/20|114|[[114日目、ティキーチックのすけ！>>https://youtu.be/YMDA6euMyIg]]|アーカイブYoutube開始|
+|2/21|115|[[115日目、ティキーチックのすけ！>>https://youtu.be/K6c9GyZR_QA]]||
+|2/22|116|[[116日目、ティキーチックのすけ！>>https://youtu.be/y9WrkoPdWCI]]||
+|2/23|117|[[117日目、ティキーチックのすけ！>>https://youtu.be/u6E2EPTLWzQ]]||
+|2/25|118|[[118日目、ティキーチックのすけ！>>https://youtu.be/r6ZnazrmyHQ]]||
+|2/26|119|[[119日目、ティキーチックのすけ！>>https://youtu.be/77b4sz4t9YA]]||
+|2/27|120|[[120日目、ティキーチックのすけ！>>https://youtu.be/eQthPPfqMnM]]||
+|2/28|121|[[121日目、ティキーチックのすけ！>>https://youtu.be/NqLDBWmHJEQ]]||
+#endregion(2月)
+****3月
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|3/1|122|[[122日目、ティキーチックのすけ！>>https://youtu.be/v7x33Yu5tOI]]||
+|3/2|123|[[123日目、ティキーチックのすけ！>>https://youtu.be/Vr-_biKQbxU]]||
+|3/4|124|[[124日目、ティキーチックのすけ！>>https://youtu.be/XMxN7RO150g]]||
+|3/5|125|[[125日目、ティキーチックのすけ！>>https://youtu.be/_b2NUQOKRHQ]]||
+|3/6|126|[[126日目、ティキーチックのすけ！>>https://youtu.be/SrtWczUpnMM]]||
+|3/7|127|[[127日目、ティキーチックのすけ！>>https://youtu.be/75_cMaN3Vdw]]||
+|3/8|128|[[128日目、ティキーチックのすけ！>>https://youtu.be/Qk_nTbhqUWg]]||
+|3/9|129|[[129日目、ティキーチックのすけ！>>https://youtu.be/Gx9Tyxk8f60]]||
+|3/11|130|[[130日目、ティキーチックのすけ！>>https://youtu.be/Ho8Foszuuds]]||
+|3/12|131|[[131日目、ティキーチックのすけ！>>https://youtu.be/qDzTsUI-SVw]]||
+|3/13|132|[[132日目、ティキーチックのすけ！>>https://youtu.be/fH3Xnt4k2j0]]||
+|3/14|133|[[133日目、ティキーチックのすけ！>>https://youtu.be/b4WC94t4oMI]]||
+|3/15|134|[[134日目、ティキーチックのすけ！>>https://youtu.be/gufjZ16ksSU]]||
+|3/16|135|[[135日目、ティキーチックのすけ！>>https://youtu.be/oh8TOJQavm0]]||
+|3/18|136|[[136日目、ティキーチックのすけ！>>https://youtu.be/hJcqUlcSuaM]]||
+|3/19|137|[[137日目、ティキーチックのすけ！>>https://youtu.be/7DzvK5vDMWM]]||
+|3/20|138|[[138日目、ティキーチックのすけ！>>https://youtu.be/7UsDP9TjgRg]]||
+|3/21|139|[[139日目、ティキーチックのすけ！>>https://youtu.be/D42uysax_I4]]||
+|3/22|140|[[140日目、ティキーチックのすけ！>>https://youtu.be/iyyRY2kjKHU]]||
+|3/23|141|[[141日目、ティキーチックのすけ！>>https://youtu.be/zBa7T4g4QWc]]||
+|3/25|142|[[142日目、ティキーチックのすけ！>>https://youtu.be/9xzFGFJM0Vw]]||
+|3/26|143|[[143日目、ティキーチックのすけ！>>https://youtu.be/TzOsPudNHUw]]||
+|3/27|144|[[144日目、ティキーチックのすけ！>>https://youtu.be/ygWE1N_Qhw4]]||
+|3/28|145|[[145日目、ティキーチックのすけ！>>https://youtu.be/3ZI8N98QG9Y]]||
+|3/29|146|[[146日目、ティキーチックのすけ！>>https://youtu.be/CMlnq1JVu_w]]||
+|3/30|147|[[147日目、ティキーチックのすけ！>>https://youtu.be/h3c312S0i_c]]||
+|3/31|148|[[148日目、ティキーチックのすけ！>>https://youtu.be/u-r8Y3E4rXY]]||
+#endregion(3月)
+#include(ティキーチック　のすけ/アーカイブ2)
+#endregion(2025年)
+***ストグラコラボアーカイブ
+****2024年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~ゲーム名|~配信タイトル|~メンバー|h
+|11/19|Spectral Scream|[[ストグラメンバーでホラゲーやります！>>https://www.twitch.tv/videos/2305076036]]|[[タマーチ　ニキタ]]、[[犬億　ロック]]|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

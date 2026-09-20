@@ -1,0 +1,209 @@
+&bold(){観測前に&font(15pt,u,#1F79E0){[[観測者の心得]]}をご確認ください。}
+----
+#slide_img(auto=3,width=480,height=270,position=center){LunaGarage logo.jpg,260701_LunaGarage.jpg}
+
+//高画質画像に置き換えました
+
+//❗️不要な行は削除して使用してください
+#table_style(head=center:#7E2320:#F8F8F8){名前=bold}
+|~店名|~&icon_fa(fa fa-tag)|&bold(){&ruby(ルナ){LUNA} &ruby(ガレージ){Garage}}|
+|~略称|~&icon_fa(fa fa-tag)|&bold(){ルナガレ}|
+|~STATE表示|~&icon_fa(fa fa-tag)|LUNA|
+|~業種|~&icon_fa(fa-solid fa-wrench)|整備工場|
+|~開業日|~&icon_fa(fa fa-flag)|2026年03月15日&space()&small(){（プレオープン）}&br()2026年03月18日&space()&small(){（グランドオープン）&br()（&countup(2026/03/15,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|9035番地|
+|~社長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[月乃　えるな]]}|
+|~TwiX|~&icon_fa(fa fa-dove)|@lunagarage|
+|~無線番号|~&icon_fa(fa-solid fa-walkie-talkie)|53.09 MHz|
+
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+//経過日をプレオープン日を基準にしています。
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-α世界線の[[9055]]で働いていた人を中心に構成されているレース特化メカニック。
+-レース時以外、従業員が複数人常駐している。
+-9055の流れを汲んでいるためか、従業員の肝が据わっている。
+-ボディ・エンジンの修理費最安値が売りである。
+-社員は社長のえるなの餓死を防ぐこと。
+-[[上田>上田　さん]]は出禁。（9055時の抗争が原因）
+
+*経営方針
+-当社はレース特化メカニックとして公道レースの楽しさを市民の皆様にお伝えします。
+--数ある「遊び」の選択肢の「ひとつ」として、公道レースを盛り上げ、その楽しさを市民の皆様に知っていただくことで、「遊び」という観点から市民生活の質の向上、そして、レースが街で暮らす事の楽しさのひとつになってもらう事を目指します。
+-前身である[[9055]]と方針は変わらず、新規住民や犯罪から足を洗った方など、たくさんの雇用を生み出します。
+
+*従業員情報
+**従業員
+//記入方法を他のメンバーと揃えてください。
+//&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>
+//&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>
+//
+#region(開く,open)
+#table_filter(){名前=show,役職=show,就職日=show,他職=hide,備考=show,配信=show}
+#table_style(head=center:#7E2320:#F8F8F8){名前=bold,}
+|~名前|~役職|~就職日|~他職|~備考|~配信|h
+|MIDDLE:[[月乃　えるな]]|社長|2026/03/12|飲食店 [[Mellow Berry]]|元9055|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/cielxxx247]]|
+|MIDDLE:[[こさ　猫弐郎]]|マネージャー（No.2）|2026/03/12|飲食店 [[Mellow Berry]]&br()飲食店[[VHOTEL>https://w.atwiki.jp/streamergta5/pages/3464.html]]|元9055|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kottaso]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E3%81%93%E3%81%A3%E3%81%95%E3%82%8A%E3%82%B7%E3%83%A5%E3%83%B3%E3%82%BF%E3%82%BD]]|
+|MIDDLE:[[葛城　司]]|経理&br()車両検証チーム|2026/03/12|裁判官&br()[[ロスサントス救急救命隊]]|元9055|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/shiron103]]|
+|MIDDLE:[[須藤　冬馬]]|テクニカルディレクター&br()車両検証チーム|2026/03/12||元9055|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/thomas1250p]]|
+|MIDDLE:[[パン　チャン]]|イベントチーム長&br()車両検証チーム|2026/03/12|不動産屋 [[Wizardry Works]]&br()飲食店 [[Mellow Berry]]|元9055　26/04/01~04/03一時退職|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Silvershieldgangallll]]|
+|MIDDLE:[[捌木　たいたい]]|イベント係&br()車両検証チーム|2026/03/12|カジノ[[LosVegas>https://w.atwiki.jp/streamergta5/pages/3460.html]]|元9055|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@taitaiYOUTUBE]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/taitai19970904]]|
+|MIDDLE:[[犬億　ロック]]||2026/03/14||元9055|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/x69chan]]|
+|MIDDLE:[[羽津　ピオコ]]||2026/03/15|[[ロスサントス警察]]|元9055|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@HaneruPyoko]]|
+|MIDDLE:[[わおん　ちょき]]|人事（退社担当）&br()イベント係|2026/03/15|金融会社 [[BJローン]]|元9055|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@ToboeKyan]]|
+|MIDDLE:[[ロイ　マーチングナンバー]]||2026/03/22||元9055|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/n1ke1036]]|
+|MIDDLE:[[銅鑼　イオリ]]||2026/04/03||元9055|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@IoriYamato]]|
+|MIDDLE:[[葵井　優]]||2026/04/XX||元9055|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@AmonYuuku]]|
+|MIDDLE:[[アルタ・スカイブルー]]||2026/05/15|[[わくわくハピネス隊]]|新規住民&br()元テロリスト[[NOVA FAMILIA]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://m.youtube.com/@dragon1246]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/atra_san]]|
+|MIDDLE:[[ホシ・バミオ]]|イベント係|2026/06/06|飲食店 [[ベーカリー早苗]]|新規住民|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/hoshibamionpu]]|
+|MIDDLE:[[久川　たんぽぽ]]||2026/07/19||元9055|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@ssong5797]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/megu_0612]]|
+|MIDDLE:[[大阪　ボスナ]]||2026/07/23仮&br()2026/08/27本採用|||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@OsakaBosna]]|
+|MIDDLE:[[小茶林　はたぴ]]||2026/07/24仮&br()2026/08/27本採用|||&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@hatasako]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/hatasako]]|
+
+//|MIDDLE:[[名　前]]|役職|yyyy/mm/dd|備考|配信|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#endregion
+
+***仮採用  &small(){※体験終了から本採用まで約2週間}
+#region(開く,open)
+#table_style(head=center:#7E2320:#F8F8F8){名前=bold}
+|~名前|~就職日|~備考|~配信|h
+|[[無馬　かな]]|2026/08/29||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kanae_2434]]|
+//|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+***退職者
+#region(開く)
+#table_style(head=center:#7E2320:#F8F8F8){名前=bold}
+|~名前|~役職|~就職日|~退職日|~備考|h
+|MIDDLE:[[沖原　たくみ]]|秘書&br()車両検証チーム|2026/03/12|2026/08/05|元9055&br()大事なもの（ルナガレ・ふぁ～部）を守りたい、守るための力が欲しいと黒の道に進むため退職|
+|[[剛力　たけし]]||2026/03/13|2026/08/12|キラキラした目で「犯罪の道に手を染める」と宣言し退職|
+|[[斎藤　まさのり]]||2026/03/12|2026/08/23|方向性の違い。ちょきとの３つの約束をし退職|
+|[[北村　ばなな]]||2026/06/01|2026/09/02|居場所がないばななの為こっそりjobを付与していたが、犯罪をしているので解雇。社宅への寝泊まりは可|
+
+//|役職|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+***内定
+#region(開く)
+#table_style(head=center:#7E2320:#F8F8F8){名前=bold}
+|~名前|~就職日|~備考|h
+|[[タイフーン　捨山]]|yyyy/mm/dd|新規住民|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+**職業体験者
+***2026年
+#region(開く)&b(){※情報募集中}
+#table_style(head=center:#7E2320:#F8F8F8){名前=bold}
+|~名前|~体験期間|~備考|h
+|[[ジュリウス・ベッキー]]|03/18〜03/21|新規住民|
+|[[夜仲　コウ]]|03/20〜03/20|新規住民|
+|[[ボクジュール　すずり]]|03/29|新規住民|
+|[[王城　リレイ]]|04/03|新規住民|
+|[[アルタ・スカイブルー]]|04/26〜05/15|新規住民 正社員に登用|
+|[[ホシ・バミオ]]|05/29～|新規住民 正社員に登用|
+|[[アイン]]|06/04～|新規住民|
+|[[宇由　りる]]|06/21|新規住民|
+|[[アドミゲス・ハン]]|06/25|[[畳かえる>畳　かえる]]へのサプライズの為1時間ほど雇用|
+|[[小茶林　はたぴ]]|07/12|新規住民 2026/07/24 仮採用|
+|[[大阪　ボスナ]]|07/16～|新規住民 2026/07/23 仮採用|
+|[[無馬　かな]]|07/16〜||
+|[[鬼桃　ぷぅ]]|07/23||
+|[[鈴那　衣遠]]|08/19|新規住民|
+|[[王城　リレイ]]|08/21〜|2度目|
+|[[える P くろー]]|08/22〜|新規住民|
+|[[ジト村　ミシロ]]|08/22〜|新規住民|
+|[[ゴンザレス　ペチカ]]|08/26〜|新規住民|
+|[[天田　さぽ]]|08/28〜|新規住民|
+|[[呂色　いろ]]|09/02〜|新規住民|
+|[[サティ>https://w.atwiki.jp/streamergta5/pages/1563.html]]|09/04〜|9055体験経験有り|
+//|[[名前]]|mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+*沿革
+***2026年
+#region(開く,open)
+#size(90%){#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#7E2320:#F8F8F8)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|03/12|&bold(){市長より社長へジョブ付与}|[[山下　ひろし]]&br()[[月乃　えるな]]&br()[[沖原　たくみ]]&br()[[斉藤　まさのり]]|同時に市長より3000万円の融資を受ける|
+|03/15|&bold(){プレオープン}|-|この日のみボディ以外を修理でボディ無料で修理|
+|03/18|&bold(){グランドオープン}|-|オープンレース開催|
+|04/01|パンチャン一時退職|[[パン　チャン]]|待遇への不満で[[パン　チャン]]が一時自主退職。|
+|06/06|&bold(){魔法石配付開始}||10個集めるとガチャができる魔法石を配付開始。（ガチャは作成中）|
+|06/12|不祥事揉み消し||1ヶ月にわたる[[パン　チャン]]の重大な不祥事を揉み消すことに決定。（秘匿事項）|
+|~|&bold(){社宅完成}|||
+|06/13|こさ猫弐郎家出|[[こさ　猫弐郎]]|不満を爆発させた[[こさ　猫弐郎]]が家出した。|
+|06/24|こさ猫弐郎帰宅|[[こさ　猫弐郎]]||
+|07/02|捌木たいたい溶鉱炉事件|[[捌木　たいたい]]|[[捌木　たいたい]]が溶鉱炉で発見され、意識不明で入院。|
+|07/03|捌木たいたい誘拐事件|[[捌木　たいたい]]|面会謝絶と言われていた[[捌木　たいたい]]が誘拐されていた。|
+|07/04|捌木たいたい発見|[[捌木　たいたい]]|[[捌木　たいたい]]が発見され、目覚めたが、記憶の一部が欠損していた。|
+|07/09|伊達咲による店舗襲撃|[[ホシ・バミオ]]|人質に取られた[[ホシ・バミオ]]が犯人の[[伊達咲　政宗]]をダウンさせた報復に襲撃を受けた。|
+|07/11|NOVA FAMILIAから保証人指名|[[アルタ・スカイブルー]]&br()[[月乃　えるな]]&br()[[こさ　猫弐郎]]&br()[[須藤　冬馬]]&br()[[パン　チャン]]|[[別事業>わくわくハピネス隊#LOSTIMES-ロスタイムズ-]]で[[NOVA FAMILIA]]とトラブルを起こした[[アルタ・スカイブルー]]の示談金の不足分6000万を支払う。|
+|~|餡ブレラによる店舗襲撃|[[月乃　えるな]]&br()[[アルタ・スカイブルー]]&br()[[こさ　猫弐郎]]&br()[[葛城　司]]&br()[[須藤　冬馬]]&br()[[パン　チャン]]&br()[[沖原　たくみ]]&br()[[ロイ　マーチングナンバー]]|別事業で[[餡ブレラ]]とトラブルを起こした[[アルタ・スカイブルー]]が約束を反故にしたことが原因で、&br()餡ブレラに襲撃を受けた。アルタの目の前で社員7名が海に沈められた。|
+|07/26|&bold(){レースイベント開催}||『🎵LIVEDRIVE-ライブドライブ-🎵』開催|
+|08/01|&bold(){ルナおみくじクッキー配付開始}||1日1回限定で修理客にルナおみくじクッキーを配付|
+|08/02&br()08/05|疑似チェイス事故|[[大阪　ボスナ]]|警察の[[赤城　煉]]提案で[[ボスナ>大阪　ボスナ]]と警察官2名（赤城、ヒロ）が疑似チェイスを行った際に、ボスナがギャングの[[テクス・ギルベルト]]と人身事故を起こした。&br()後日ルナガレに事実確認に来たギルベルトに謝罪する。責任の所在は市民にチェイスをさせた警察にあるため、この件は警察が引き取った。|
+|08/05|沖原たくみ退職||大切なもの（ルナガレ・ふぁ～部）を守りたい、守るための力が欲しいと黒の道に進むため退社。オープン以来初の退職者となった。|
+|08/12|剛力たけし退職||キラキラした目で「犯罪の道に手を染める」と宣言し退職|
+|08/19|NOVA FAMILIAによる襲撃|[[パン　チャン]]&br()[[月乃　えるな]]&br()[[こさ　猫弐郎]]&br()[[わおん　ちょき]]&br()[[捌木　たいたい]]|バンパーカーで遊戯中、えるなに借金を返しに来た[[上田>上田　さん]]に皆でぶつかってチョケで故意にダウンさせてしまった。&br()上田に同行していた、NOVA FAMILIAの[[陽影>陽影　空]]、[[ギルベルト>テクス・ギルベルト]]から銃撃を受け、[[パンチャン>パン　チャン]]がダウンした。上田とはもう気軽に遊べないと理解した。|
+|08/20|NOVA FAMILIAと話し合い|[[パン　チャン]]&br()[[捌木　たいたい]]&br()[[月乃　えるな]]|警察を交えたえるなと上田の話し合いではチョケの範疇で済ませたいという意向であったが、NOVAアジトに呼び出されたパンチャンとたいたいが上田に詰められた。&br()上田に謝罪し、慰謝料を要求され受け入れるが、上田がギルベルトに射殺され、[[脇>脇　逢魔]]になかったことにしていいと一旦帰らされた。&br()その後、双方にリスペクトがない上田を脱退させたとNOVA FAMILIA側から謝罪を受けた。再度謝罪し合い収束した。|
+|08/21|アルタ仮白市民パス取得|[[アルタ・スカイブルー]]|元テロリストのアルタが仮白市民パスを取得。&br()γ世界線の前科持ち住民で初の取得者となり、LUNA Garageに黒更生メカニックとしての箔が付いた。|
+|08/23|斎藤まさのり退職||職場の空気をにごしたくない。えるなの社長業を最後まで応援できなかった事を謝りつつも方向性の違いから退職。わおんちょきと３つの約束をする|
+|08/26|SHIRAHAに詰められる|[[パン　チャン]]&br()[[こさ　猫弐郎]]|[[SHIRAHA]]の[[三階堂　キミトス]]に上田と何があったのか吐くようにパンチャンとこさが詰められた。&br()NOVAとの約束があるため、応じずにいると武力をちらつかせてきたため、クリティカルな機密情報以外を話し、事なきを得た。|
+|08/27|金返せスプレー事件|[[捌木　たいたい]]|店頭に「金返せ」のスプレーが複数枚貼られた。[[たいたい>捌木　たいたい]]のカーローンの滞納が原因とのことだったが、完済済みであり、過失冤罪であった。&br()[[BJローン]]から、たいたいへの示談金、全社員の1週間の坊主という誠意ある謝罪を受け、ルナガレとしてはお咎めなし、ただしアルタが新聞に掲載する事で和解した。&br()初めてルナガレ側に一切の非がない事件となった。|
+|08/27|ルナガレ流行語大賞2026||パンチャン制作の元発表された。「海中水泳」「リス狩りフラッシュネキ」等がノミネートされ流行語大賞は「駐車場まだ？」に決定|
+|09/05|レースイベント||LUNA GARAGE CRASH RACE（ルナクラ）開催|
+|09/13|レースイベント|| .·:·.☽✧ ✦ ✧☾.·:·. 𝑳𝑼𝑵𝑨 𝑮𝒂𝒓𝒂𝒈𝒆ムーンカップ.·:·.☽✧ ✦ ✧☾.·:·.開催|
+
+//|mm/dd|出来事|関係者|エピソード・備考|
+//|||||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion
+
+**開催レース
+****2026年3月18日 LUNA Garage オープンレース
+#region(ポスター)
+|&image(LUNA_オープンレース.jpg,x=282,y=400)|
+
+#endregion
+****2026年7月26日 🎵LIVEDRIVE-ライブドライブ-🎵
+#region(ポスター)
+|&image(260726 LIVE DRIVE.jpg,x=282,y=400)|
+
+#endregion
+****2026年9月5日 LUNA GARAGE CRASH RACE
+#region(ポスター)
+|&image(260905_ルナクラ.jpg,x=282,y=400)|
+
+
+#endregion
+****2026年9月13日 ムーンカップ
+#region(ポスター)
+|&image(ムーンカップ.JPG,x=282,y=400)|
+
+
+
+#endregion
+**関連動画
+#table_style(head=center:#7E2320:#F8F8F8)
+|~投稿日|~動画タイトル|~備考|h
+|2026/7/13|[[【ストグラ】9055メンバーでSteppër/halyosy歌ってみた>>https://youtu.be/SkXb4HbFFRk?si=doF1qcmaLio6Ro-U]]|めぐちゃんねる：月野えるな・ロイ・マーチングナンバー・葛城司・葵井優&br()久川たんぽぽ・猫ノ宮ひな・捌木たいたい・沖原たくみ・羽津ピオコ・上田|
+#table_sorter{even=#f7f7f7,odd=fff}
+
+//|日付|[[タイトル>>リンク]]|メンバー||
+
+#right(){&link_up(🔝ページTOPへ)}

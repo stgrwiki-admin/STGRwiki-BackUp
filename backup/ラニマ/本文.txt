@@ -1,0 +1,145 @@
+//編集者・観測者の方へ：レーベルの色についてはロゴマーク作成されてから付けるようにお願いします。
+&image(lanima.png)
+
+#table_style(head=#C0C0C0){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(ラニマ){Lanima}|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年02月25日&br()&small(){（&countup(2026/02/24,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~業種|~&space()&icon_fa(fa-solid fa-compact-disc)&space()|音楽レーベル|
+|~所属|~&space()&icon_fa(fas fa-users)&space()|[[玖雲]]|
+|~所在地|~&space()&icon_fa(fa fa-map-marker)&space()|9117番地|
+|~代表|~&space()&icon_fa(fa-solid fa-user-tie)&space()|[[トウ　ユン]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+//
+**基本情報
+-2026年2月25日に[[トウユン>トウ　ユン]]と[[罰下リ>罰　下リ]]によって設立された音楽レーベル。
+-音楽でこの街を盛り上げる。【音楽と言えばLanima】といわれる存在になることを目標に掲げている。
+-メンバーの行うレーベル外での活動はほぼ干渉せず、基本的にはやりたいことを制限しない方針。個々に受けた案件についていったんトウユン(事務所)に話を通す取り決めはある。（例外的に作曲班の着信音製作の仕事はメンバー個人の判断に任されており事務所の許可不要）
+//-[[玖雲]]のフロント企業的な立ち位置となっており、玖雲の所属メンバーは基本的にレーベルを兼任している。
+//
+***レーベル名について
+『&b(){ラニマ}』（Lanima）
+3つの言葉から掛け合わせた造語。
+・anima（アニマ）：魂
+・animal（アニマル）：本能的
+・lamina（ラミナ）：うすい層の積み重ね（＝努力などの象徴）、animalを逆読み
+//
+**メンバー
+//カカッテコ＝イナフは26/3/11のラニマ運営の打ち合わせに参加していたので追加
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){加入日=hide,役職=show,備考=show,兼任=hide,配信=show}
+|~名前|~加入日|~役職|~備考|~兼任|~配信|h
+|[[トウ　ユン]]|2026/02/25|代表&br()アーティスト|設立メンバー|[[玖雲]]&br()[[LastJump in ParadiseLost]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@touyukann]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch} >>https://twitch.tv/touyukan]]|
+|[[罰　下リ]]|2026/02/25|コンポーザー|設立メンバー、主に作曲を中心に活動|[[JTS>ジョアンナテクノサービス]]&br()[[川上たばこ店]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@BatsuBatsuJP]]|
+|[[瀬戸　ろろ]]|2026/02/25|アーティスト|トウユンを歌の師と仰ぐシンガーソングライター|[[玖雲]]&br()[[LosVegas]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/siina_tororo]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCN6daCSFWSEG1oUGSbHP3Sw]]|
+|[[日々]]|2026/03/06|アーティスト|[[GBC>GoodbyeCircus]]時代から歌っていたが本格的に歌手活動をしたいと参加&br()メロディや歌詞を作ることにも挑戦|[[玖雲]]&br()[[LastJump in ParadiseLost]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UC4wkAf2pIPIoO-SmikQHN2A]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/daily009]]|
+|[[灰部理　秀人]]|2026/03/07|コンポーザー&br()アーティスト|作曲・編曲を主軸に活動。ロックバンドを希望|[[acqua ovest]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@HYBRID_SENSE]]|
+|[[沖原　たくみ]]|2026/03/07|アーティスト|ラップをしたいと志願して加入|[[玖雲]]&br()[[V HOTEL]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/taakuu_okisaba]]|
+|[[黒丈　シロウ]]|2026/03/08|アーティスト|元[[モンスターハウスプロダクション]]所属、シンガー|[[玖雲]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@shiro_zakuro?si=SQbYap55IhGmPQHX]]|
+|[[カカッテコ＝イナフ]]|2026/03/11|スタッフ|運営スタッフとして活動|[[玖雲]]&br()[[V HOTEL]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/laby_enough]]|
+//|[[名前]]|2026/mm/dd|役職|備考|配信|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+//***協力関係
+//
+#co{
+//***過去メンバー
+#table_style(head=#696969:#F9FCFF)
+|~名前|~加入日|~脱退日|~備考|h
+|名前|加入日|yyyy/mm/dd|備考|
+|名前|加入日|yyyy/mm/dd|備考|
+//|名前|加入日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+**所属グループ
+#table_style(head=#696969:#F9FCFF)
+|~グループ名|~結成日|~備考|h
+|[[Me;tears]]|2025/08/10|正体秘匿系男性アイドルグループ ([[ギャラクシープロダクション]]からの所属移行)|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#co{**拠点
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
+|~番地|~場所|~通称|~管理者|~備考|h
+|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+//
+**楽曲
+//作詞・作曲が夢の世界などの事情があるときは空欄表記。
+『ラニマ』として発表した楽曲の一覧。
+
+#table_style(head=#696969:#F9FCFF)
+|~日付|~楽曲名|~アーティスト|~作詞|~作曲|~編曲|~備考|h
+|2026/02/25|&ruby(リスタート){Restert}|[[トウユン>トウ　ユン]]with[[罰下リ>罰　下リ]]|[[罰　下リ]]|[[罰　下リ]]|[[罰　下リ]]||
+|2026/05/07|シロウ|[[黒丈シロウ>黒丈シロウ]]|[[罰　下リ]]、[[黒丈　シロウ]]|[[罰　下リ]]|[[罰　下リ]]||
+|2026/05/07|&ruby(コンプレックス){COMPLEX}|[[沖原たくみ>沖原　たくみ]]&[[トウユン>トウ　ユン]]|[[沖原　たくみ]]、[[トウ　ユン]]|[[罰　下リ]]|[[罰　下リ]]||
+|2026/05/07|ワケ有りバァゲン|[[トウユン>トウ　ユン]]|[[トウ　ユン]]|[[トウ　ユン]]|[[罰　下リ]]||
+|2026/05/07|&ruby(アイム ゴーイング トゥ セイ グッバイ){I'm going to say goodbye.}|[[トウユン>トウ　ユン]]with[[灰部理秀人>灰部理　秀人]]|[[灰部理　秀人]]|[[灰部理　秀人]]|[[灰部理　秀人]]||
+|2026/05/07|&ruby(ゴー バック カミング){Go Back Coming}|[[日々]]|[[日々]]|[[灰部理　秀人]]、[[日々]]|[[灰部理　秀人]]||
+|2026/05/07|道の先に|[[瀬戸ろろ>瀬戸　ろろ]]|[[瀬戸　ろろ]]|[[灰部理　秀人]]|[[灰部理　秀人]]||
+//|yyyy/mm/dd|楽曲名|[[アーティスト]]|[[作詞者]]|[[作曲者]]|[[編曲者]]|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+**イベント
+『ラニマ』として出演などを行ったイベント。
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){出演者=show,備考=show}
+|~日付|~イベント名|~出演者|~備考|h
+|26/02/25|-Not Lost Time-|[[トウ　ユン]]、[[罰　下リ]]|[[アイドゥラー　ヨシャパテ]]主催&br()旗揚げ宣言|
+|26/05/07|Lanima Showcase Vol.1|[[トウ　ユン]]、[[灰部理　秀人]]、[[沖原　たくみ]]&br()[[瀬戸　ろろ]]、[[罰　下リ]]、[[日々]]、[[黒丈　シロウ]]|ラニマ主催&br()レーベルのファーストライブ|
+
+***主催・共催イベント
+#region(Lanima Showcase Vol.1,open)&b(){Lanima Showcase Vol.1}
+|&image(LANIMAshowcasevol1.png,y=450)|
+・開催日時：5月7日23時
+・場所：6185番地 LIVE House
+・パブリックビューイング：8102番地 [[HOTEL Vertex>V HOTEL]]
+『ラニマ』の単独主催ライブ。全曲オリジナルで構成。
+チケット代が現地100万円と強気で設定したが完売。HOTEL Vertexの協力でパブビュー50万円を売り出すことになった。
+[[沖原　たくみ]]は初ライブとなった。
+
+#region(当日セットリスト　開く,close)閉じる
+#table_style(head=#C0C0C0){}
+|~楽曲|~アーティスト|~備考|h
+|シロウ|[[黒丈シロウ>黒丈　シロウ]]×[[罰下リ>罰　下リ]]|初披露|
+|COMPLEX|[[沖原たくみ>沖原　たくみ]]&[[トウユン>トウ　ユン]]×罰下リ|初披露|
+|ワケ有りバァゲン|トウユン×罰下リ|初披露|
+|I'm going to say goodbye.|トウユン×[[灰部理秀人>灰部理　秀人]]|初披露|
+|Go back coming|[[日々]]×灰部理秀人|初披露|
+|道の先へ|[[瀬戸ろろ>瀬戸　ろろ]]×灰部理秀人|初披露|
+|Restert|トウユン|アンコール|
+#table_autoincrement(){label=No.}
+#table_sorter(){head=#e6e6fa,even=white}
+#endregion(当日セットリスト)
+
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #B22;){
+&youtube(https://youtu.be/vsvYcAI7pJc){320,180}
+}}}
+
+#endregion()
+#size(50%){　}
+
+**年表
+***2026年
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+|02/25|コンサートイベント「-Not Lost Time-」にて設立宣言&br()コンサート終了後に[[瀬戸ろろ>瀬戸　ろろ]]が加入|[[トウ　ユン]]、[[罰　下リ]]&br()[[瀬戸　ろろ]]||
+|03/07|[[日々]]が加入|[[トウ　ユン]]、[[日々]]||
+|03/07|[[灰部理秀人>灰部理　秀人]]、[[沖原たくみ>沖原　たくみ]]が加入|[[トウ　ユン]]、[[灰部理　秀人]]、[[沖原　たくみ]]||
+|03/08|[[黒丈シロウ>黒丈　シロウ]]が加入&br()[[モンプロ>モンスターハウスプロダクション]]と対バンイベントが決まる|[[トウ　ユン]]、[[黒丈　シロウ]]&br()[[タラ　ちゃん]]||
+|03/12|方向性の違いもあり対バンイベントが流れる|[[トウ　ユン]]、[[タラ　ちゃん]]||
+|05/07|「Lanima Showcase Vol.1」開催|[[トウ　ユン]]、[[灰部理　秀人]]、[[沖原　たくみ]]&br()[[瀬戸　ろろ]]、[[罰　下リ]]、[[日々]]、[[黒丈　シロウ]]||
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#right(){&link_up(🔝ページTOPへ)}

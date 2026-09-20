@@ -1,0 +1,698 @@
+&image(オザワ　ハヤマサ.png,y=500)
+
+//ここからプロフィール
+
+#table_filter(){SEASON1=hide,SEASON2=show}
+#table_style(head=#58535E:#FFF)
+|~世界線|~SEASON1|~SEASON2|h
+|~&color(#ffffff){名前}|>|&ruby(おざわ　はやまさ){オザワ　ハヤマサ}|
+|~&color(#ffffff){出身地}|>|筑前国|
+|~&color(#ffffff){誕生日}|　|　|
+|~&color(#ffffff){転入日}|2023年08月21日 (&countup(2023/08/21,yd)経過)&br()&b(){キャラクターエンディング済}　&small(){～2025年6月13日}|　|
+|~&color(#ffffff){職業}|ギャング【[[餡ブレラ>anbrella(餡ブレラ)]]】&small(){2024/6/13加入～2025/6/13解散}&br()&small()&openclose2(show=※過去の職業){&nbsp(br,3)ギャング【[[IRiS]]】(-2024/06/13) &nbsp(br,3)高級車ディーラー【CAR STORE [[EDEN]]】&nbsp(br,3)ホットドッグ屋&nbsp(br,3)和食屋【[[菖光亭]]】}|ギャング【[[餡ブレラ>anbrella(餡ブレラ)]]】&small(){}&br()飲食店【[[after U]]】&small(){2026/8/1 オープン}|
+|~&color(#ffffff){パートナー}|>|[[稲葉　ゴン]]|
+|~&color(#ffffff){twix}|@zawakun47|　|
+|~&color(#ffffff){レーサー名}|オザワ|　|
+|BGCOLOR(#BAA4C4):~&color(#FFFEF6){プレイヤー}|>|小澤直将|
+|BGCOLOR(#BAA4C4):~&color(#FFFEF6){告知等}|>|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/zawakun_f]]|
+|BGCOLOR(#BAA4C4):~&color(#FFFEF6){配信場所}|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/zawakun47]]|
+　
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**Xのポスト
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">オザワハヤマサの物語を見てくれた人たち<br>関わったすべての人たち！！！！！<br>本当にありがとうございました！！！！！！！！！<br>2年間楽しかったです！！！！！<br>またどこかで！！！</p>&mdash; 小澤直将 (@zawakun_f) <a href="https://twitter.com/zawakun_f/status/1933594537529901388?ref_src=twsrc%5Etfw">June 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+
+**基本情報
+・ハヤマサの由来は獄中出産でうまれて最速で出所したため。
+・母親はまだ獄中で物心ついてから会ったことはない。
+・プリズンに通うのは母親を探すためでもある。
+・首から下げているダサいネックレスは元カノからもらったものをまだつけている
+・大型で逃げ切れたことはこれまで一度もない（2023/10/1現在）
+・恩人である[[アドミゲス・ハン]]に良いところを見せたいが空回りすることが多い。
+・[[アドミゲス・ハン]]と揚物 ころもを付き合わせようとしている。
+・借金返済の為、常人には不可能なスピードで花摘み完了。その後薬を練り続けた影響で、ティン！の音なしでは夜しか眠れない身体となる。
+・[[ギャング]]の無線などの雰囲気がわいわいしてないのが寂しい。
+　いつでも抜けれるように３億必要だったはずが、[[カジノ]]で負け[[ナシマさん>無馬　かな]]に５億の借金を作る。総額８億必要になる。
+　（5億の借金を作った男と知られているはずなのにも関わらずwikiの情報がほぼ更新されないことに夢の中で嘆く）
+・最近はヘリ操縦を担うことが多く、青井らだおとヘリチェイスを繰り広げている。基本調子に乗って爆破オチが多い(らだお曰く操縦は十分うまいとのこと)
+・だが大型中にヘリを水没させてしまった。
+・[[羽山　パティ]]との別れの挨拶は「大好きだよ～」「知ってるよ～」
+・犬カフェ時代から同じ[[ギャング]]に入った今でも羽山パティの太客($^^)/~~~である。
+・羽山パティ好きが[[IRiS]]メンバーだけでなく警察にもバレておりパティが[[ギャング]]入りして初めて指名手配になった次の日に警察(花沢まるん)に「パティに何したんだ」「絶対お前だろ」と詰められた。
+・キショい面が目立ちがちだが実際はとても面倒見が良く気遣いも出来る優しいみんなのお兄さんである
+・会議中に寝落ちしがち
+・レース中の[[飯田　けんつ]]に轢き逃げをされる。街のルールを教える意味で少々強めに注意をするもすぐに許した。なお、翌日タバコ屋で会った際に好きな銘柄が同じ事を知り喜んだ。
+・１週間も経たない内に[[カジノ]]前でまたも轢かれる。すると[[飯田　けんつ]]から着信があり、同僚の[[はが　かける]]が強制瞑想してしまい車だけ突っ込んでしまったと説明を受け「気にしないで」と許す。
+・一時期[[ホットドッグ協会員>ホットドッグ協会]]であったが、[[菖光亭]]に働くことになったため脱会した。
+・「好きな総菜発表ザウルス」の歌の続きが気になっている
+・ロスサントスに来たばかりの頃に出会った[[染岡　コン]]とは「そめちゃん」「ザワくん」と呼び合う仲（親友）であり、一緒に車の免許講習も受けた。
+&bold(){※一行からでもOK！追記お願いします！！}
+
+**エピソード
+#div(width=350px,bgcolor=#f5f5f5){&font(16px,b,#58535E){&space()SEASON1}}
+#region(開く){閉じる}
+***2023年 8月
+#region(開く)
+****08/21　#1　[[タストグラ初日でグラセフも初日！免許を取らなくてはいけないらしい>>https://www.twitch.tv/videos/1904596430?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****08/22　#2　[[ストグラ2日目！今日は車を手に入れる気持ちで頑張ります！>>https://www.twitch.tv/videos/1905457128?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****08/24　#3　[[ストグラ3日目！金集めしたい気持ち>>https://www.twitch.tv/videos/1906480097?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****08/27　#4　[[ストグラ４日目！お金ってどうやって増えんねん！>>https://www.twitch.tv/videos/1909797853?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****08/28　#5　[[ストグラ5日目！金なさすぎんだろ！>>https://www.twitch.tv/zawakun47/videos?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****08/29　#6　[[バスケ日本代表見てストグラ？>>https://www.twitch.tv/videos/1911568856?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****08/30　#7　[[ストグラ7日目！犯罪にチャレンジしよっかな～！オザワハヤマサ>>https://www.twitch.tv/videos/1912384190?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****08/30　#7-1　[[ストグラ7日目！犯罪にチャレンジしよっかな～！オザワハヤマサ>>https://www.twitch.tv/videos/1912490917?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****08/31　#8　[[ストグラ8日目！ひたすら車盗む！小悪党オザワハヤマサ>>https://www.twitch.tv/videos/1913381520?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+#endregion(mm月)
+//
+***2023年 9月
+#region(開く)
+****09/01　#9　[[ストグラ9日目！ワルの仲間見つけたい！オザワハヤマサ>>https://www.twitch.tv/videos/1914095730?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/01　#9-1　[[ストグラ9日目！ワルの仲間見つけたい！オザワハヤマサ>>https://www.twitch.tv/videos/1914101819?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/02　#10　[[ストグラ10日目！ギャング！ワル！オザワハヤマサ>>https://www.twitch.tv/videos/1915134067?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/03　#11  [[雑談→ストグラ>>https://www.twitch.tv/videos/1915949122?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/04　#12　[[ストグラ12日目！借金4500万！オザワハヤマサ>>https://www.twitch.tv/videos/1916857549?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/05　#13　[[ストグラ13日目！借金4500万だから金策頑張ります！オザワハヤマサ>>https://www.twitch.tv/videos/1917652004?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/06　#14　[[ストグラ14！オザワハヤマサ>>https://www.twitch.tv/videos/1918481876?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/07　#15　[[オザワ ハヤマサ！俺がワルだ>>https://www.twitch.tv/videos/1919290430?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/08　#16　[[【オザワ ハヤマサ】オモシロ犯罪したいな！>>https://www.twitch.tv/videos/1920113888?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/09　#17　[[PUBG→ストグラか雑談>>https://www.twitch.tv/videos/1921063534?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/10　#18　[[オザワハヤマサ ストグラ 今日は結婚記念日ではある>>https://www.twitch.tv/videos/1921878465?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/11　#19　[[少し雑談してからストグラ！今日は21時頃？からMOZUと抗争>>https://www.twitch.tv/videos/1922698523?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****09/23　#20　[[ストグラ 昨日カジノ5000万負けた>>https://www.twitch.tv/videos/1932879330?filter=archives&sort=time]]
+#region(開く)
+・借金5億の伝説を作る男。
+#endregion
+****09/24　#21　[[借金5億 花摘み衛星☆>>https://www.twitch.tv/videos/1933918795?filter=archives&sort=time]]
+#region(開く)
+・借金返済のためにひたすら花摘みする男
+#endregion
+****09/25　#22　[[借金5億 花摘み衛星☆雑談しようよ2☆>>https://www.twitch.tv/videos/1934681695?filter=archives&sort=time]]
+#region(開く)
+・営業の才能を開花させる男
+・返済スピードで皆を驚かせる
+#endregion
+****09/26　#23　[[借金5億☆>>https://www.twitch.tv/videos/1935562906?filter=archives&sort=time]]
+#region(開く)
+・ひたすら薬を作る男
+#endregion
+****09/27　#24　[[花バイト雇いたいよ☆>https://www.twitch.tv/videos/1936385716?filter=archives&sort=time]]
+#region(開く)
+・更新求
+#endregion
+****09/28　#25　[[オザワハヤマサは借金が2.5億>>https://www.twitch.tv/videos/1937176517?filter=archives&sort=time]]
+#region(開く)
+・ハンさんに良い格好を見せたい男
+・指名手配になる
+・愛する人にバイクは買ってあげるがカスタムは自分で払えと吐き捨てる
+・2.5億の負債を抱えながらも、羽振りよく金を使うところを債権者に見られる
+#endregion
+****09/30　#26　[[オザワハヤマサ視点。☆>https://www.twitch.tv/videos/1938963802?filter=archives&sort=time]]
+#region(開く)
+・ロケランを探し回る男
+#endregion
+#endregion(mm月)
+//
+***2023年 10月
+#region(開く)
+****10/01　#27　[[オザワハヤマサ/ドラゴン須久留生 視点。借金2.5億>>https://www.twitch.tv/videos/1939718213?filter=archives&sort=time]]
+#region(開く)
+・エピソード募集中
+#endregion
+****10/02　#28　[[オザワハヤマサ/ドラゴン須久留生 視点。借金2.5億>>https://www.twitch.tv/videos/1940637440?filter=archives&sort=time]]
+#region(開く)
+・ID:1を取るために早起きしたが出れない部屋に隔離される
+・最近下の主張が激しいらしい
+#endregion
+****10/03　#29　[[俺は稼ぐぜ>>https://www.twitch.tv/videos/1941567091?filter=archives&sort=time]]
+#region(開く)
+・情報求む
+#endregion
+****10/05　#30　[[今日で借金とはおさらばだ！>>https://www.twitch.tv/videos/1943076781?filter=archives&sort=time]]
+#region(開く)
+・Mozuとの抗争でポンコツを証明した男
+・叶う恋より叶わぬ恋のほうが好き
+・新しい職で因縁の相手と遭遇
+#endregion
+****10/06　#31　[[まだ借金に追われてた！>>https://www.twitch.tv/videos/1943938796?filter=archives&sort=time]]
+#region(開く)
+・情報求
+#endregion
+****10/08　#32　[[指名手配中！逃げ切りたい！>>https://www.twitch.tv/videos/1945654611?filter=archives&sort=time]]
+#region(開く)
+・情報求
+#endregion
+****10/09　#33　[[ポンコツ犯罪者！>>https://www.twitch.tv/videos/1946535374?filter=archives&sort=time]]
+#region(開く)
+・情報求
+#endregion
+****10/10　#34　[[今日完済する！！>>https://www.twitch.tv/videos/1947430593?filter=archives&sort=time]]
+#region(開く)
+・情報求
+#endregion
+****10/11　#35　[[ヘリ買いたいな！>>https://www.twitch.tv/videos/1948129331?filter=archives&sort=time]]
+#region(開く)
+・情報求
+#endregion
+#endregion(mm月)
+----
+***2024年　&color(#CD4187){※追記エピソードは、１行テキストからでも大歓迎！是非お願いします！}
+#region(1月のエピソード,close)&bold(){1月のエピソード}
+//
+****01/02 [[ストグラする！オザワハヤマサ視点>https://www.twitch.tv/videos/2020427498]]　
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/03 [[ストグラ しっかりやる オザワハヤマサ視点>>https://www.twitch.tv/videos/2021370653]]　
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/05 [[ストグラ！ 組織の為に！ オザワハヤマサ視点>>https://www.twitch.tv/videos/2023348276]]　
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/09 [[ストグラ！アイリス！オザワハヤマサ>>https://www.twitch.tv/videos/2027291825]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+
+****01/10 [[ストグラ！大型でこちハン！？オザワハヤマサ>>https://www.twitch.tv/videos/2028250775]]　
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/11 [[雑談→ストグラ>>https://www.twitch.tv/videos/2029105855?t=03h06m50s]]　
+#region(開く,open)
+・EDENの会議に参加する。現時点で社員になっているメンバーが集まる。
+#endregion
+//
+****01/12 [[ストグラ！明日。明後日夜勤オザワハヤマサ>>https://www.twitch.tv/videos/2030158491]]　
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/14 [[ストグラ！時間ないけどやるよ！オザワハヤマサ！IRis！>>https://www.twitch.tv/videos/2032369495]]　
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/15 [[ストグラ！早番！オザワハヤマサ！IRis！>>https://www.twitch.tv/videos/2033145867]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/16 [[ストグラ！今日も早番だ！オザワハヤマサ！IRis！>>https://www.twitch.tv/videos/2034125903]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/18 [[ストグラやるぞ！オザワハヤマサ>>https://www.twitch.tv/videos/2036080312]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/20 [[ストグラ！復活！オザワハヤマサ>>https://www.twitch.tv/videos/2038128251]]　
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/21 [[ストグラ！EDENの件！オザワハヤマサ>>https://www.twitch.tv/videos/2039140574]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/23 [[ストグラ！抗争したいなぁああ！オザワハヤマサ視点>>https://www.twitch.tv/videos/2041128111]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/25 [[ストグラ！ヘリチェイス楽しみ隊！オザワハヤマサ視点 >>https://www.twitch.tv/videos/2043056615]]　
+#region(開く,open)
+・朝一クラフト場で小峯さんと資材問題について少し話す。別れた後リサイクルセンターへ向かう。
+・今日社長が街に連れてきた[[無糖　ヨウギ]]くんと合流。
+#endregion
+//
+****01/26 [[ストグラ！最近お金が増えてないぞ！？オザワハヤマサ視点>>https://www.twitch.tv/videos/2043963727]]　
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/28 [[ストグラ！空のオザワと言わせるんだ！オザワハヤマサ視点>>https://www.twitch.tv/videos/2046083400]]　
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/30 [[ストグラ！EDENの最終日？！オザワハヤマサ視点>>https://www.twitch.tv/videos/2048007033]]　
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/31 [[久しぶり雑談>>https://www.twitch.tv/videos/2048886649?t=02h16m10s]]　
+#region(開く,open)
+※雑談後、2:16:13〜ロサンゼルスへ
+・20:30頃ロスサントスで起床。
+・エピソード募集中
+#endregion
+#endregion(1月のエピソード)
+//
+#region(2月のエピソード)&bold(){2月のエピソード}
+****02/01 [[雑談してストグラかも>https://www.twitch.tv/videos/2049851990?t=01h03m13s]]　
+#region(開く,open)
+※雑談後、1:03:13〜ロサンゼルスへ
+・20:00頃ロスサントスで起床。渋い声で挨拶。
+・エピソード募集中
+#endregion
+//
+****02/03 [[ストグラ！抗争の香りオザワハヤマサ視点>https://www.twitch.tv/videos/2051865596]]　
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+****02/04 [[ストグラ！のってるやつらは止まらない！オザワハヤマサ視点>https://www.twitch.tv/videos/2052935756]]　
+#region(開く,open)
+・21時過ぎ、起きぬけカジノヘイストを始めている様子なので、ヘリで屋上メンバーに合流する。
+#endregion
+//
+****02/06 [[ストグラ！ヘリレース勝手にやるかｗオザワ視点>https://www.twitch.tv/videos/2054760310]]　
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+****02/07 [[雑談→飯→ストグラ予定>https://www.twitch.tv/videos/2055726776?t=01h19m02s]]　
+#region(開く,open)
+※20:40〜ロスサントスへ
+・
+#endregion
+//
+****02/09 [[ストグラ！やる気元気！オザワ視点>>https://www.twitch.tv/videos/2057659118]]　
+#region(開く)
+・20:40くらいに会社で起床。起きぬけ電柱の上にいるハンさんに話しかけられる。俺が2億円あげたのと別途、パティパティがおじおじから1億2千万円もらって、さらにハンさんも金をねだったそうで、「んだコイツ」ってなった話をされる。
+・サーマイトに行っているらしいので、落ち着いたら無線で挨拶することにした。朝一クラフトをする。
+・小峯さんがリグを取れているとのこと。21:10会社集合で準備。&br()・会社に小峯さんが来ないので、アンボスから呼びつけろと命令される。&br()・無線で声掛けしたが無反応、結果的に強制瞑想だったため、解散。
+・アーティファクトの受注にヘリで向かうが、４ギャングチンチロ。MOZUが持っていった。
+・ゆちゃにヘリのインバウンド場まで送ってもらう。パッド筋が変わったので少し着陸に苦戦するとのことだった。&br()・ボコボコのヘリで飛び立とうとしたときに、後ろから「修理しましょうか？」と声をかけられる。&br()・[[ALLINの白井さん>白井　満太]]が出張料金なしでヘリを直してくれるというので依頼する。&br()・現在ブラックメカニックをしているらしい。お店詳細についてはまだ言えないとのこと、警察には秘密にして、黒市民向けに業務をしているようだった。&br()・近頃のヘリ仕事の調子を聞かれ、少し雑談。現状、IRiSヘリの使い方は逃走サポートのため、オザワ自身は能動的に動けないジレンマがあることを吐露。&br()・白井さんが、自分独りしかヘリ動かせないとやりたいことが出来ないよね、わかる、と励ましてくれる。ALLINは[[まほちゃん>椎花　まほ]]が最近ヘリを頑張ってくれているらしい。&br()・お礼をして離脱する。
+・トグルロープの利用権限について、個人医や公務員だけに限定されているのかどうかゆちゃさんと話す。
+・ボブキャの様子見ついでに、警察のヘリから押収物らしきクスリを発見。パクってゆちゃと爆笑。現場に戻って、えびすくんを警察ヘリまで送迎して見送る。
+・受注がしばらくあきそうなので、ゆちゃと通りすがりの銀行強盗を見学したり、個人医ごっこをして遊ぶ。
+・1:00〜アーティファクト、受注だったヨウギくんが現場に近づきすぎてしまい、準備が整っていないまま大型犯罪が開始される。
+#endregion
+//
+****02/10 [[ストグラ！個人医ごっこがたのしすぎる！オザワ視点>>https://www.twitch.tv/videos/2058692895]]　
+#region(開く)
+・21:15〜起床し、チルっぽい様子を察知しつつ朝一クラフトへ。
+・21:30過ぎユニオンが受注できたので、ぼちぼち準備に向かう。&br()・トラックをゴルフに詰めて準備しているときにバイクで通りすがった[[一般通過個人医>月渚　雪人]]に、「怪我ですか？」と話しかけられる。違いますよと言うと走り抜けて何処かへいった。&br()・バイクで[[一般通過警察官>日之　ぱちお]]に遭遇する。問い詰めたが、「何も見てなかった」と立ち去るので、見送った。&br()・パシの時間に合わせて開始までだいぶ暇。小峯さんの魂抜けにセクシーポーズして遊ぶ。
+&bold(){ユニオン}
+・開始序盤。トラック裏まで独りで来ていた[[えびすくん>伊勢　えびす]]に仕掛けたが、小峯さんがダウンさせられる。そのあと、オザワも対面し、撃ちに行ったが全然削れずふたりともえびすくんに回収された。&br()・留置所にて[[ばかじゃ>葉風邪　ナイ]]が治療し起こしてくれる。&br()・無線の様子では金持ちが逃げれた様子。&br()・留置所で珍しくボイラが対応。餓死して戦線離脱したポンコツ話を聞かされて、ダル絡みされる。&br()・プリズンに行くと初めて見た人らがいて、小峯さんが、[[刃弐さん>刃弐　ランド]]、[[カニさんのお姉さん>成瀬　夕コ]]じゃないかと教えてくれる。&br()・半グレで傭兵として、大型をやりたいと言ってるらしい。
+・23時過ぎプリズンを出所。迎えに来てくれたゴン達と反省会をし、次に取れるリキャの話をしながら会社へ戻る。
+・インバウンド場にパラゴンを取りに行く。[[PYC]]へ入庫しようとしたら、走り出してお店から出てきた[[ルウちゃん>ルウ　ギャラクティカ]]を正面衝突で跳ね飛ばしてしまう。超陳謝。ヘリで来てくれた[[ましろ先生>雷堂　ましろ]]にお願いした。
+・修理終わりに走り出したものの、普通に運転ミスして道路から落下しダウンした。&br()・個人医呼んだら[[昨日のヤブ>霜月　ろっぷ]]がきて、医療費ルーレットを200万-1,000万でやると言われたので文句を言いまくった。&br()・「お兄さんの家族にはたくさんお世話になっているので」ということで、結局[[ろっぷ>霜月　ろっぷ]]からは200万円の請求で済む。&br()・ノアチェンは就寝予定だったのにも関わらずヘリで駆けつけてくれた。二人にお礼をして現場を離れる。
+&bold(){ユニオン}
+・さっきと同じくゴルフ守り。ローズと準備する。
+#endregion
+//
+****02/11 [[抗争！とにかく楽しめ！！オザワ視点>>https://www.twitch.tv/videos/2059702764]]　
+#region(開く,open)
+・20:40〜自宅で起床したら、既に他のメンバーがルールについて無線で色々話している様子だった。スーツを着て急いで準備をする。
+#endregion
+//
+****02/12 [[ふぅ/オザワハヤマサ視点>>ツイッチURL]]　
+#region(開く,open)
+・エピソード募集中！
+#endregion
+#endregion(2月のエピソード)
+//
+#region(3月のエピソード)&bold(){3月のエピソード}
+****03/03 [[カジノがやりたいから寝ないで起きる！/オザワ視点>>ツイッチURL]]　
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+****03/06 [[鳥野さんに食らいつきたい！/オザワ視点>>https://www.twitch.tv/videos/2082710595]]
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+****03/10 [[おひさ！/オザワ視点>>https://www.twitch.tv/videos/2086695311]]
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+****03/12 [[なんで/オザワ視点>>https://www.twitch.tv/videos/2088530920]]　
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+****03/13 [[俺にとって/オザワ視点>>https://www.twitch.tv/videos/2089496910]]　
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+****03/14 [[ちゃんと/オザワ視点>>https://www.twitch.tv/videos/2090384840]]
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+****03/16 [[すこしだけ>>https://www.twitch.tv/videos/2092281500]]
+#region(開く)
+・早めの起床。無線でハンさんと小峯さんが、アサルトSMGの話をしているのを聞きながら、クスリの販売をする。
+・アタッチメント全部装着する内職をしたり、クラフト、家のスタッシュ整理、クスリ練りなどをして過ごす。
+18:30〜ハンさんから電話がくる。[[あげころ>揚物　ころも]]の課題協力のため、今日の就寝時間の確認。（あげころの課題：オザワにレース勝てたら卒業）
+今後の身の振り方について、誰かに相談したいが、組織外では相談事を話すほど信用に足るひとが居ないことに思い悩む
+もし自分がIRiSを抜けたあと、パティを残していくことになると申し訳ない
+IRiSの組織感のなさ、個人事業主のようになっていることについて
+“仲間”ってなんなんだろうな、、、、
+・あげころからレースのお誘い。KING of AGOという一回も走ったことないコースらしい。クスリ作りを切り上げて向かう。
+・ヘリからコースを見守っていたハンさんが&s(){描画遅延の木で}爆散した。
+・レースについては、無事あげころに負けることなくゴールした。
+&bold(){飛行場襲撃ミッション}
+警察対応がないうちに全員で飛行場を脱出できたため、アーティファクトの受注に寄ったら、受注が完了。&br()帰る途中犬ルリパトカーに遭遇してしまう&br()[[犬　ルリ]]：『飛行場やった？』『ほんとに飛行場やってない？』&br()隣を走っていたゴンと「このあとどこいく？」「リサセン行く？」「リサセンあり」「布だいぶあった」「犬ルリさんも一緒にリサセン行きます？」とすっとぼけて難を逃れた。
+・お花屋さんにいく。
+・20時頃会社へ戻る。傭兵の[[刃弐>刃弐　ランド]]さんを呼び、全員で集まって配置等決めた。無線番号を変えた瞬間まさかの強制瞑想。
+・ユニオンのリキャストをみに行ったら受注完了したとのことで、気を取り直して準備。
+・トラック準備を進めつつ、[[七転　うぐ]]のSNS投稿を見つける。
+&bold(){ユニオンヘイスト}
+豆ヘリからの脱出作戦だったものの、回収中盤ラークのジョーカーが外でダウン、しばらくしてゴルフクラブ壊滅。ハンさんから回収中断の指示。&br()回収のシュガが金庫から出てきたので、最下層にて金の受け取りをした。ヘリの出発準備するが、チューブまで侵攻されているので金庫前で銃撃戦が始まる。&br()先行して撃ち合っているハンさんとシュガに応戦し、みこだをダウンさせたと思って一旦地下におりたが、上から撃ち降ろされて犬ルリに護送された。&br()その後中組が全滅、ラークのゴンとノアチェンだけでリテイク出来ることがなく、敢え無く収束を迎えた。
+・みんなでプリズンの刑務作業をしつつ、大喜利大会の練習をした。
+・歪んだゴンに対して、ハンさんが補填部屋いったら直るんじゃね？って言ったので、「脱獄になったらおもろいな。笑」とつぶやいたら、案の定脱獄扱いになって、プリズン中に警報が鳴り響いてしまう。(警察に事情を説明して、事なきを得たようだった)
+・会社に戻ってきてから、ジョーカーに、[[うぐ>七転　うぐ]]ちゃんの立ち位置についてきいた。&br()・ジョーカーも最近会えてなくてよくわかっていない、&br()・海上レストランで働きつつ白市民と交流している。うぐちゃん本人的にIRiSでどうしたいか改めて聞こうとは思ってる。&br()・オザワから「難しいも何も全然要らないっすよ」「（既にUNIONに）入れちゃったけど（本来なら）ジョーカーの個人的に雇ってる子、くらいで良かったと思います。」「あの子が粗相したら、うちの責任ですよ？（普段一緒に）居ない人のためにこっちも責任取りたくないんで」&br()・小峯さんから、関係値が希薄、現状関わりにくいから、無線に取り敢えず入ってもらうほうがいい。&br()・生活をともにしてなさすぎるので連携が取れてない事が気になると、ジョーカーへ伝えた。
+・ユニオンの地下にインバウンドされず残っている豆ヘリを取りに行く。耐久をしっかり削って爆散させて、スパローで帰還しようとおもったら、プロペラが取れて大穴下で爆散。泣きながら救急を呼んだ。
+・[[ましろ先生>雷堂　ましろ]]が歪み散らかしつつ助けに来てくれた。
+・カジノのルーレットを回しに行く。
+・今日は早めに自宅に戻り就寝するため、22時に衛星を閉じた。
+#endregion
+//
+****03/17[[がにさす/オザワ視点>>URL]]
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+****03/19 [[強く/オザワ視点>>URL]]
+#region(開く)
+・ハンさんとゆちゃとヘリで遊会。ゆちゃから、お抱え個人医を辞めて、中立個人医でやろうかと思っている件を話される。（街の個人医についての情勢が変わり現場介入が厳しくなったこと、銃を持たずに個人医を重視したいことなど含め）
+・そのまま帰りに雪玉で本署襲撃をして遊ぶ
+・オザワ自身も身の振り方についてゆちゃと2人で話す
+#endregion
+//
+****03/21[[準備中/オザワ視点>>]]
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+****03/22[[準備中/オザワ視点>>URL]]
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+
+
+
+****03/30[[準備中/オザワ視点>>URL]]
+#region(開く,open)
+・エピソード募集中！
+#endregion
+//
+****03/31[[楽しめ～/オザワ視点 >>URL]]
+#region(開く)
+・リサセンでヤブ下さんと談笑しながら資材集め。IRiS上層部が出来過ぎて普通のおじさん大変過ぎる話、ヘリについて、無線が難しい話、大型周りの話をする。
+・ナツメさんから電話。ヘリの講習代の精算についてどうしようか相談。ヘリで遊ぶことにする。
+・そすさんに治療してもらう。少ししてからそすさんはまたエッグ集めに旅立った。
+・ヘリ談義、ギャング談義。近況についてしばらく語る。IRiS辞めてうち来いよと誘われる。
+・ネマちゃん合流で引き続きヘリバトル。ネマちゃんが爆散してろっぷに治療してもらう。
+#endregion
+#endregion(3月のエピソードここまで)
+
+#region(5月のエピソード)&bold(){5月のエピソード}
+****05/31 [[しまとりする日>>https://www.twitch.tv/videos/2159938407]]　
+#region(開く,open)
+・エピソード募集中！
+#endregion
+
+#endregion(5月ここまで)
+//
+#region(6月のエピソード)&bold(){6月のエピソード}
+****06/02 [[自分>>https://www.twitch.tv/videos/2161644560]]　
+#region(開く,open)
+（・エピソード募集中！）
+#endregion
+//
+****06/04 [[。>>https://www.twitch.tv/videos/2163300801]]　
+#region(開く,open)
+（・エピソード募集中！）
+#endregion
+//
+****06/06 [[さぁ。>>https://www.twitch.tv/videos/2165033407]]　
+#region(開く,open)
+（・エピソード募集中！）
+#endregion
+//
+****06/07 [[みんな。>>https://www.twitch.tv/videos/2165779432]]　
+#region(開く,open)
+（・エピソード募集中！）
+#endregion
+//
+****06/08 [[おきる。>>https://www.twitch.tv/videos/2166790225]]　
+#region(開く,open)
+（・エピソード募集中！）
+#endregion
+//
+****06/09 [[社長が起きてくる日。>>https://www.twitch.tv/videos/2167527233]]　
+#region(開く,open)
+（・エピソード募集中！）
+#endregion
+//
+****06/12 [[あいりす。>>https://www.twitch.tv/videos/2170025982]]　
+#region(開く,open)
+・IRiS解散
+・ウェスカーより連絡があり、解散したことを伝えると勧誘を受けた。
+・餡ブレラ加入希望を伝えに行くとキャバクラ練習中により客扱いを受ける。
+・改めて加入の旨を伝え、餡ブレラに加入。（日付を跨いだため、餡ブレラ１周年の6月13日に加入となった）
+（・エピソード募集中！）
+#endregion
+//
+****06/13 [[餡ブレラ！>>https://www.twitch.tv/videos/2170887413]]　
+#region(開く,open)
+（・エピソード募集中！）
+#endregion
+//
+#co{
+****06/XX [[タイトル>>URL]]　
+#region(開く,open)
+（・エピソード募集中！）
+#endregion
+}
+#co{
+****06/XX [[タイトル>>URL]]　
+#region(開く,open)
+（・エピソード募集中！）
+#endregion
+}
+#endregion(6月ここまで)
+
+//────↓コピー用素材────────
+#co{
+#region(7月のエピソード,open)&bold(){7月のエピソード}
+****07/XX [[配信タイトル>>URL]]　
+#region(開く,open)
+・エピソード募集中！
+#endregion
+#endregion(7月ここまで)
+}
+#endregion
+
+#div(width=350px,bgcolor=#f5f5f5){&font(16px,b,#58535E){&space()SEASON2}}
+***2026年 4月
+#region(開く)
+****08/21　#1　[[ご褒美ストグラ！キャラクリミスったｗｗｗｗ>>https://www.twitch.tv/videos/2737279796]]
+#region(開く)
+・エピソード募集中
+#endregion
+#endregion
+
+**アーカイブ
+#div(width=350px,bgcolor=#f5f5f5){&font(16px,b,#58535E){&space()SEASON1}}
+#region(開く){閉じる}
+***2023年
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/08/21|1|[[ストグラ初日でグラセフも初日！免許を取らなくてはいけないらしい>>https://www.twitch.tv/videos/1904596430?filter=all&sort=time]]||
+|23/08/22|2|[[ストグラ2日目！今日は車を手に入れる気持ちで頑張ります！>>https://www.twitch.tv/videos/1905457128?filter=all&sort=time]]||
+|23/08/24|3|[[ストグラ3日目！金集めしたい気持ち>>https://www.twitch.tv/videos/1906480097?filter=all&sort=time]]||
+|23/08/27|4|[[ストグラ４日目！お金ってどうやって増えんねん！>>https://www.twitch.tv/videos/1909797853?filter=all&sort=time]]||
+|23/08/28|5|[[ストグラ5日目！金なさすぎんだろ！>>https://www.twitch.tv/videos/1910713228?filter=all&sort=time]]||
+|23/08/29|6|[[バスケ日本代表見てストグラ？>>https://www.twitch.tv/videos/1911568856?filter=all&sort=time]]||
+|23/08/30|7|[[ストグラ7日目！犯罪にチャレンジしよっかな～！オザワハヤマサ>>https://www.twitch.tv/videos/1912384190?filter=all&sort=time]]||
+|~|~|[[ストグラ7日目！犯罪にチャレンジしよっかな～！オザワハヤマサ>>https://www.twitch.tv/videos/1912490917?filter=all&sort=time]]||
+|23/08/31|8|[[ストグラ8日目！ひたすら車盗む！小悪党オザワハヤマサ>>https://www.twitch.tv/videos/1913381520?filter=all&sort=time]]||
+|23/09/01|9|[[ストグラ9日目！ワルの仲間見つけたい！オザワハヤマサ>>https://www.twitch.tv/videos/1914095730?filter=all&sort=time]]||
+|~|~|[[ストグラ9日目！ワルの仲間見つけたい！オザワハヤマサ>>https://www.twitch.tv/videos/1914101819?filter=all&sort=time]]||
+|2023/09/02|10|[[ストグラ10日目！ギャング！ワル！オザワハヤマサ>>https://www.twitch.tv/videos/1915134067?filter=archives&sort=time]]||
+|2023/09/03|11|[[雑談→ストグラ>>https://www.twitch.tv/videos/1915949122?filter=archives&sort=time]]||
+|2023/09/04|12|[[ストグラ12日目！借金4500万！オザワハヤマサ>>https://www.twitch.tv/videos/1916857549?filter=archives&sort=time]]||
+|2023/09/05|13|[[ストグラ13日目！借金4500万だから金策頑張ります！オザワハヤマサ>>https://www.twitch.tv/videos/1917652004?filter=archives&sort=time]]||
+|2023/09/06|14|[[ストグラ14！オザワハヤマサ>>https://www.twitch.tv/videos/1918481876?filter=archives&sort=time]]||
+|2023/09/07|15|[[オザワ ハヤマサ！俺がワルだ>>https://www.twitch.tv/videos/1919290430?filter=archives&sort=time]]||
+|2023/09/08|16|[[【オザワ ハヤマサ】オモシロ犯罪したいな！>>https://www.twitch.tv/videos/1920113888?filter=archives&sort=time]]||
+|2023/09/09|17|[[PUBG→ストグラか雑談>>https://www.twitch.tv/videos/1921063534?filter=archives&sort=time]]||
+|2023/09/10|18|[[オザワハヤマサ ストグラ 今日は結婚記念日ではある>>https://www.twitch.tv/videos/1921878465?filter=archives&sort=time]]||
+|2023/09/11|19|[[少し雑談してからストグラ！今日は21時頃？からMOZUと抗争>>https://www.twitch.tv/videos/1922698523?filter=archives&sort=time]]||
+|2023/09/23|20|[[ストグラ 昨日カジノ5000万負けた>>https://www.twitch.tv/videos/1932879330?filter=archives&sort=time]]||
+|2023/09/24|21|[[借金5億 花摘み衛星☆>>https://www.twitch.tv/videos/1933918795?filter=archives&sort=time]]||
+|2023/09/25|22|[[借金5億 花摘み衛星☆雑談しようよ2☆>>https://www.twitch.tv/videos/1934681695?filter=archives&sort=time]]||
+|2023/09/26|23|[[借金5億☆>>https://www.twitch.tv/videos/1935562906?filter=archives&sort=time]]||
+|2023/09/27|24|[[花バイト雇いたいよ☆>https://www.twitch.tv/videos/1936385716?filter=archives&sort=time]]||
+|2023/09/28|25|[[オザワハヤマサは借金が2.5億>>https://www.twitch.tv/videos/1937176517?filter=archives&sort=time]]||
+|2023/09/30|26|[[オザワハヤマサ視点。☆>https://www.twitch.tv/videos/1938963802?filter=archives&sort=time]]||
+|2023/10/01|27|[[オザワハヤマサ/ドラゴン須久留生 視点。借金2.5億>>https://www.twitch.tv/videos/1939718213?filter=archives&sort=time]]||
+|2023/10/03|29|[[俺は稼ぐぜ>>https://www.twitch.tv/videos/1941567091?filter=archives&sort=time]]||
+|2023/10/05|30|[[今日で借金とはおさらばだ！>>https://www.twitch.tv/videos/1943076781?filter=archives&sort=time]]||
+|2023/10/06|31|[[まだ借金に追われてた！>>https://www.twitch.tv/videos/1943938796?filter=archives&sort=time]]||
+|2023/10/08|32|[[指名手配中！逃げ切りたい！>>https://www.twitch.tv/videos/1945654611?filter=archives&sort=time]]||
+|2023/10/09|33|[[ポンコツ犯罪者！>>https://www.twitch.tv/videos/1946535374?filter=archives&sort=time]]||
+|2023/10/10|34|[[今日完済する！！>>https://www.twitch.tv/videos/1947430593?filter=archives&sort=time]]||
+|2023/10/11|35|[[ヘリ買いたいな！>>https://www.twitch.tv/videos/1948129331?filter=archives&sort=time]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***2024年
+#region(1月のアーカイブ,close)1月のアーカイブ
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~備考|h
+|01/02|[[ストグラする！オザワハヤマサ視点>https://www.twitch.tv/videos/2020427498]]||
+|01/03|[[ストグラ しっかりやる オザワハヤマサ視点>>https://www.twitch.tv/videos/2021370653]]||
+|01/05|[[ストグラ！ 組織の為に！ オザワハヤマサ視点>>https://www.twitch.tv/videos/2023348276]]||
+|01/09|[[ストグラ！アイリス！オザワハヤマサ>>https://www.twitch.tv/videos/2027291825]]||
+|01/10|[[ストグラ！大型でこちハン！？オザワハヤマサ>>https://www.twitch.tv/videos/2028250775]]||
+|01/11|[[雑談→ストグラ>>https://www.twitch.tv/videos/2029105855?t=03h06m50s]]|雑談後からEDENの長時間会議に参加する|
+|01/12|[[ストグラ！明日。明後日夜勤オザワハヤマサ>>https://www.twitch.tv/videos/2030158491]]||
+|01/14|[[ストグラ！時間ないけどやるよ！オザワハヤマサ！IRis！>>https://www.twitch.tv/videos/2032369495]]||
+|01/15|[[ストグラ！早番！オザワハヤマサ！IRis！>>https://www.twitch.tv/videos/2033145867]]||
+|01/16|[[ストグラ！今日も早番だ！オザワハヤマサ！IRis！>>https://www.twitch.tv/videos/2034125903]]||
+|01/18|[[ストグラやるぞ！オザワハヤマサ>>https://www.twitch.tv/videos/2036080312]]||
+|01/20|[[ストグラ！復活！オザワハヤマサ>>https://www.twitch.tv/videos/2038128251]]|体調が悪いと思ったら寝る宣言|
+|01/21|[[ストグラ！EDENの件！オザワハヤマサ>>https://www.twitch.tv/videos/2039140574]]||
+|01/23|[[ストグラ！抗争したいなぁああ！オザワハヤマサ視点>>https://www.twitch.tv/videos/2041128111]]||
+|01/25|[[ストグラ！ヘリチェイス楽しみ隊！オザワハヤマサ視点>>https://www.twitch.tv/videos/2043056615]]||
+|01/26|[[ストグラ！最近お金が増えてないぞ！？オザワハヤマサ視点>>https://www.twitch.tv/videos/2043963727]]||
+|01/28|[[ストグラ！空のオザワと言わせるんだ！オザワハヤマサ視点>>https://www.twitch.tv/videos/2046083400]]||
+|01/30|[[ストグラ！EDENの最終日？！オザワハヤマサ視点>>https://www.twitch.tv/videos/2048007033]]||
+|01/31|[[久しぶり雑談>>https://www.twitch.tv/videos/2048886649?t=02h16m10s]]|アーカイブ冒頭雑談。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2024年アーカイブ)
+//
+#region(2月のアーカイブ)2月のアーカイブ
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~備考|h
+|02/01|[[雑談してストグラかも>https://www.twitch.tv/videos/2049851990?t=01h03m13s]]|アーカイブ冒頭雑談。|
+|02/03|[[ストグラ！抗争の香りオザワハヤマサ視点>https://www.twitch.tv/videos/2051865596]]||
+|02/XX|[[ツイッチ配信タイトル>>Twitchのリンク]]||
+|02/XX|[[ツイッチ配信タイトル>>Twitchのリンク]]||
+|02/07|[[雑談→飯→ストグラ予定>>https://www.twitch.tv/videos/2055726776?t=01h20m19s]]||
+|02/09|[[ストグラ！やる気元気！オザワ視点>>https://www.twitch.tv/videos/2057659118]]||
+|02/10|[[ストグラ！個人医ごっこがたのしすぎる！オザワ視点>>https://www.twitch.tv/videos/2058692895]]||
+|02/11|[[抗争！とにかく楽しめ！！オザワ視点>>https://www.twitch.tv/videos/2059702764]]|アンブレラとのケンカの日|
+|02/12|[[ふぅ/オザワハヤマサ視点>>https://www.twitch.tv/videos/2060567431]]|※3時前みんなで車であそんでたがそのまま寝落ち|
+|02/13|[[昨日寝落ちしてすまん！/オザワハヤマサ視点>>https://www.twitch.tv/videos/2061548808]]||
+|02/14|[[バレンタイン/オザワハヤマサ視点>>https://www.twitch.tv/videos/2062439217]]||
+|02/15|[[ohayou/オザワハヤマサ視点>>https://www.twitch.tv/videos/2063411935]]||
+//|02/XX|[[ツイッチ配信タイトル>>Twitchのリンク]]|※主要エピソード等|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2月のアーカイブ)
+//
+#region(3月のアーカイブ)3月のアーカイブ
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~備考|h
+|03/03|[[カジノがやりたいから寝ないで起きる！/オザワ視点>>https://www.twitch.tv/zawakun47/v/2079906945?sr=a&t=13090s]]||
+|03/06|[[鳥野さんに食らいつきたい！/オザワ視点>>https://www.twitch.tv/videos/2082710595]]||
+|03/10|[[おひさ！/オザワ視点>>https://www.twitch.tv/videos/2086695311]]||
+|03/12|[[なんで/オザワ視点>>https://www.twitch.tv/videos/2088530920]]||
+|03/13|[[俺にとって/オザワ視点>>https://www.twitch.tv/videos/2089496910]]||
+|03/14|[[ちゃんと/オザワ視点>>https://www.twitch.tv/videos/2090384840]]||
+|03/16|[[すこしだけ>>https://www.twitch.tv/videos/2092281500]]||
+//|3/XX|[[タイトル>>リンク]]||
+//|3/XX|[[タイトル>>リンク]]||
+//|3/XX|[[タイトル>>リンク]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(3月のアーカイブ)
+//
+#endregion
+
+#div(width=350px,bgcolor=#f5f5f5){&font(16px,b,#58535E){&space()SEASON2}}
+***2026年
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|26/04/02|1|[[ご褒美ストグラ！キャラクリミスったｗｗｗｗ>>https://www.twitch.tv/videos/2737279796]]||
+
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

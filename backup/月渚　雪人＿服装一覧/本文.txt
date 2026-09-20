@@ -1,0 +1,93 @@
+&font(16px,b,u,black){Season1}
+#region(開く)閉じる
+***&font(25px,#f9f){&icon_fa(fa fa-user-secret)} ギャング服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#DA4650):&blankimg(868 服.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(飛行機.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(夏服.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(868~春~.png,x=130,y=260)|
+|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~868 服|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~飛行機|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~夏服|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~868～春～|
+|&font(12px){868の冬の大型服}|&font(12px){飛行機墜落協会の服}|&font(12px){868の夏の大型服}|&font(12px){868の春の大型服}|
+#endregion(ギャング服)
+//
+//アスペクト比1:2のなるべく全身が映っている、昼or室内orキャラ選択画面で撮った鮮明な画像を使用。
+//
+***&font(25px,#8EE1FF){&icon_fa(fa fa-person-circle-question)} 変装服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#DA4650):&blankimg(オオカミ少年.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(リサイクル.png,x=130,y=260)|
+|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~オオカミ少年|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~リサイクル|
+|&font(12px){変装用の服}|&font(12px){変装用の服}|
+#endregion(変装服)
+//
+//アスペクト比1:2のなるべく全身が映っている、昼or室内orキャラ選択画面で撮った鮮明な画像を使用。
+//
+***&font(25px,#ff7f7f){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#DA4650):&blankimg(月渚雪人_02.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(ホークアイ_02.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(医者_02.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(春服.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(パジャマ.png,x=130,y=260)|
+|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~月渚雪人|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~ホークアイ|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~医者|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~春服|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~パジャマ|
+|&font(12px){街に来た時の服}|&font(12px){初期の変装服}|&font(12px){個人医}|&font(12px){狩った鳥の羽の服}|&font(12px){就寝用}|
+//
+|CENTER:BGCOLOR(#DA4650):&blankimg(tamesi_02.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(不死鳥.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(オリ.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(バスローブ.png,x=130,y=260)|
+|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~tamesi|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~†不死鳥†|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~オリ|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~バスローブ|
+|&font(12px){大型春服試作}|&font(10px){会長考案の大型春服没案}|&font(10px){ﾛｽﾘﾝﾋﾟｯｸ出場時の執事服}|&font(12px){お揃いの寝間着}|
+#endregion(日常服)
+//
+//アスペクト比1:2のなるべく全身が映っている、昼or室内orキャラ選択画面で撮った鮮明な画像を使用。
+//
+***&font(25px,#CC3030){&icon_fa(fa fa-trash-can)} 削除済の服
+#region(開く)閉じる
+***&font(25px,#999){&icon_fa(fa fa-solid fa-user)} その他
+#region(開く)閉じる
+|CENTER:BGCOLOR(#DA4650):&blankimg(サル.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(9055.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&size(47){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|
+|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~名称不明|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~9055|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~ヘンソウ|
+|&font(12px){変装用の服。ｻﾙ ｻﾙｻ}|&font(12px){9055制服}|&font(12px){変装用の服}|
+#endregion(その他)
+//
+//アスペクト比1:2のなるべく全身が映っている、昼or室内orキャラ選択画面で撮った鮮明な画像を使用。
+//
+***&font(25px,#555555){&icon_fa(fa fa-gun)} 傭兵服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#DA4650):&blankimg(傭兵ピンク_初期.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(MOZU.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(GBC_02.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(トリスタ.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(傭兵ピンク.png,x=130,y=260)|
+|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~傭兵ピンク|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~MOZU|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~GBC|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~トリスタ|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~傭兵ピンク|
+|&font(10px){初傭兵時の868の大型服}|&font(12px){MOZUの大型服}|&font(12px){GBCの大型服}|&font(12px){Tricksterの大型服}|&font(12px){868の傭兵大型服}|
+#endregion(傭兵服)
+//
+//アスペクト比1:2のなるべく全身が映っている、昼or室内orキャラ選択画面で撮った鮮明な画像を使用。
+//
+#endregion(削除済みの服)
+#endregion(S1)
+
+//======Season2======Season2======Season2======Season2======Season2======Season2======Season2
+//Season2======Season2======Season2======Season2======Season2======Season2======Season2
+//
+//アスペクト比1:2のなるべく全身が映っている、昼or室内orキャラ選択画面で撮った鮮明な画像を使用。
+//
+&font(16px,b,u,black){Season2}
+***&font(25px,#f9f){&icon_fa(fa fa-user-secret)} ギャング服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#DA4650):&blankimg(S2_初期服_冬用大型服色間違い.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(S2_ヘルメット脱げた.png,x=130,y=260)|
+|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~868 冬|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~ヘルメット脱げた|
+|CENTER:&font(12px){冬用大型服&br()ケインと色違い&br()転移の際に鷹頭の上に&br()ﾍﾙﾒｯﾄがはまった}|CENTER:&font(12px){冬用大型服}|
+#endregion(S2ギャング服)
+//
+//アスペクト比1:2のなるべく全身が映っている、昼or室内orキャラ選択画面で撮った鮮明な画像を使用。
+//
+***&font(25px,#ff7f7f){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#DA4650):&blankimg(S2_寝巻.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(S2_釣りん人.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(S2_浴衣.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(S2_夏服.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(S2_仮.png,x=130,y=260)|
+|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~寝巻|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~釣りん人|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~浴衣|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~夏服|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~【仮】|
+|CENTER:&font(12px){就寝用}|CENTER:&font(12px){釣り用}|CENTER:&font(12px){お祭り用}|CENTER:&font(12px){}|CENTER:&font(12px){}|
+#endregion(S2日常服)
+//
+//アスペクト比1:2のなるべく全身が映っている、昼or室内orキャラ選択画面で撮った鮮明な画像を使用。
+//
+***&font(25px,#8EE1FF){&icon_fa(fa fa-person-circle-question)} 変装服
+#region(開く)閉じる
+|CENTER:BGCOLOR(#DA4650):&blankimg(S2_変装スカジャン.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(S2_変装スカジャン_B.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(S2_green.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(S2_占い.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(S2_配達員.png,x=130,y=260)|CENTER:BGCOLOR(#DA4650):&blankimg(S2_配達1.png,x=130,y=260)|
+|>|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~変装スカジャン|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~green|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~占い|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~配達員|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~配達1|
+|>|CENTER:&font(12px){}|CENTER:&font(12px){ドッキリ用}|CENTER:&font(12px){エセ占い師 月光院}||CENTER:&font(12px){置き配窃盗用}|
+//
+|CENTER:BGCOLOR(#DA4650):&blankimg(S2_喪服.png,x=130,y=260)|
+|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~喪服|
+|CENTER:&font(12px){ﾊﾟｰｷﾝｸﾞﾒｰﾀｰ窃盗用}|
+#endregion(S2変装)
+//
+//アスペクト比1:2のなるべく全身が映っている、昼or室内orキャラ選択画面で撮った鮮明な画像を使用。
+//

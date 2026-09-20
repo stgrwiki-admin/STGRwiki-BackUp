@@ -1,0 +1,605 @@
+#table_style(head=#906141:#fff){}
+#table_filter(){Season 1=hide,Season 2=show}
+|~&co(){}|~&icon_fa(fa-solid fa-earth-americas)|~Season 1|~Season 2|
+|~家名|~&icon_fa(fa-solid fa-calendar-days)|>|&ruby(こよみけ){暦家}|
+|~出身|~&icon_fa(fa-solid fa-map-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa-solid fa-cake-candles)|>|2008年01月01日 (&countup(2008/01/01,y)歳)|
+|~家族構成|~&icon_fa(fa-solid fa-people-group)|>|&link_anchor(家族構成){下記参照}|
+|BGCOLOR(#b28c6e):~&color(#fff){転入日}|BGCOLOR(#b28c6e):~&color(#fff){&icon_fa(fa fa-plane-arrival)}|2025年07月13日 (&countup(2025/07/13,yd)経過）&co(){ゆうみ、みう、いのん転入日からカウント}|2026年02月11日 (&countup(2026/02/11,yd)経過）&co(){しんあ、あやのの起床日からカウント}|
+|BGCOLOR(#b28c6e):~&color(#fff){住居}|BGCOLOR(#b28c6e):~&color(#fff){&icon_fa(fa-solid fa-house)}|7037|病院横（転送後の初期アパート）|
+|BGCOLOR(#b28c6e):~&color(#fff){無線}|BGCOLOR(#b28c6e):~&color(#fff){&icon_fa(fa-solid fa-walkie-talkie)}|5.43||
+|BGCOLOR(#b28c6e):~&color(#fff){関連ページ}|BGCOLOR(#b28c6e):~&color(#fff){&icon_fa(fa-solid fa-paperclip)}|>|[[暦家オムライス屋（仮）>>暦家オムライス屋（仮）]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(#b28c6e){&icon_fa(fa-solid fa-id-card)} 基本情報
+***&underdot(#b3ada0,3px){&nbsp()&font(b,120%){&color(#b3ada0){&icon_fa(fa-solid fa-clock-rotate-left)} Season1振り返り}&nbsp()}
+#region(開く,close)
+***仕事編
+#region(開く,close)
+-メカニック、飲食店、サウナなど、様々な場所で職場体験をする。
+-受け入れ先がなかなか見つからず、大川に相談。色々突っ込まれつつも最終的にリサセンに籠るか、上田の元に行くのはどうかと提案される。
+-海上レストランのキッチンを借り、姉妹のオリジナルオムライスを販売する。
+-キャバクラで一日限定の暦家イベントを開催。
+#endregion()
+****日常編
+#region(開く,close)
+-長女が訪れたタイミングで家族会議。手紙や街での過ごし方について話す。
+-高級住宅街に姉妹の家を購入。かつての家に似た、広くて豪華なお屋敷を手に入れる。
+-その日の出来事を家族の共有チャットで報告しており、時々街にいない姉妹からも返信が来ていた。
+#endregion()
+****交流編
+#region(開く,close)
+-異なる常識や慣れない距離感に戸惑いつつ、各々のペースで交流。
+-暦家の生活や出自に驚き興味を持つ住民と、その反応を不思議がる姉妹という構図がたびたび生まれていた。
+-基本的に家族の詳細を語らない姉妹だが、一部の住民には直接話をしている。
+#endregion()
+****事件編
+#region(開く,close)
+-謎の人物に突然ゆうみが呼び出され、傷つけられる事件が発生。
+-「猫」がロスサントスに現れる。
+#endregion()
+
+#endregion()
+//
+#co(){
+-日本からやってきた12姉妹。&br()2025年7月13日の初到着以降、不定期にロスサントスへ降り立っている。&br()→ピエロ騒動後、他の住民と同じように現世界線へ転送された。
+-姉妹でオムライスを売りつつ、「素敵なレディになる」ために生活している。
+-到着した全員が[[ちひろ>>暦　ちひろ]]から受け取った手紙と航空チケットを持っている。
+--航空チケット上のファミリーネームはなぜか全員「KOYOMI」ではなく「INOSE」&br() &link_anchor(名前){＞姉妹の名前}
+--手紙にはロスサントスでの過ごし方や、家族の約束事が記されている。&openclose(show=＞手紙の内容){①素敵なレディになる&br()②ロスサントスで楽しく過ごす&br()③困ったことがあったら家族に相談する&br()④意見が分かれた時は多数決で決める&br()⑤家族の間で隠し事をしない&br()⑥一日の出来事を必ず「にこ」か「ちひろ」に共有する&br()⑦家での呼び方は使わない&br()⑧知らない人にはついていかない&br()⑨知らない人に姉妹の”人数”を言わない&br()⑩知らない人に家族の話はしない&br()⑪ロスサントスで信頼できる人を見つける&br()⑫私たちは離れていてもずっと一緒だよ&br()&br()(204)7813878&br()&small(){困ったら連絡して} ちひろ}
+-姉妹の人数が直接明かされることはほとんどなく、正確に知る者は限られている。&br()普段は「たくさんいる」「いっぱい姉妹」「今日起きてるのは○人」と答えている。
+-好みや性格はバラバラだが、皆オムライスが好きでコーヒーが苦手。
+}
+
+***&nbsp()&font(120%){&color(#906141){&icon_fa(fa fa-calendar-days)}&nbsp()基本情報}
+-日本から来た12姉妹。ロスサントスには10人が到着済み。
+-到着した全員が[[ちひろ>>暦　ちひろ]]から受け取った手紙と航空チケットを持っている。
+-基本的に姉妹の人数は住民に明かされておらず、正確に知る者は少ない。&br()普段は「たくさんいる」「いっぱい姉妹」「今日起きてるのは○人」と答えている。
+-皆オムライスが好きで、コーヒーが苦手。
+-転送前はオムライスを売りながら素敵なレディを目指して生活していた。
+
+***&underdot(#b3ada0,3px){&nbsp()&color(#b28c6e){&icon_fa(fa fa-envelope)}&nbsp()手紙とチケット&nbsp(2)}
+手紙には街での過ごし方や家族の約束事などが記されている。
+#region(手紙の内容,close)
+#blockquote{①素敵なレディになる&br()②ロスサントスで楽しく過ごす&br()③困ったことがあったら家族に相談する&br()④意見が分かれた時は多数決で決める&br()⑤家族の間で隠し事をしない&br()⑥一日の出来事を必ず「にこ」か「ちひろ」に共有する&br()⑦家での呼び方は使わない&br()⑧知らない人にはついていかない&br()⑨知らない人に姉妹の”人数”を言わない&br()⑩知らない人に家族の話はしない&br()⑪ロスサントスで信頼できる人を見つける&br()⑫私たちは離れていてもずっと一緒だよ&br()&br()(204)7813878&br()&small(){困ったら連絡して} ちひろ}
+#endregion()
+
+航空チケット上のファミリーネームはなぜか全員「KOYOMI」ではなく「INOSE」&link_anchor(名前){→姉妹の名前}
+#region(チケットの内容,close)
+&image(チケット.png)
+#endregion()
+
+***&underdot(#b3ada0,3px){&nbsp()&color(#b28c6e){&icon_fa(fa fa-plane-arrival)}&nbsp()街に来た理由&nbsp(2)}
+-住民には「素敵なレディになるため」と説明している。
+-実際はちひろの指示に従ったのみで、姉妹自身も本当の理由は知らない。
+-妹たちは「長女のにこなら何か知っているかも」と考えている。
+
+***&underdot(#b3ada0,3px){&nbsp()&color(#b3ada0){&icon_fa(fa fa-square-check)}&nbsp()互いの呼称&nbsp(2)}
+&small(){※街にいる姉妹のみ&br()※メッセージ等で確認できた場合は表記をそちらに合わせています。}
+#region(にこ〜あずみ,close)&bold(){にこ〜あずみ}
+#table_filter(){にこ=show,いん=show,ゆうみ=show,しんあ=show,あずみ=show,備考=hide}
+#table_style(head=#b28c6e:#F9FCFF:center:b){呼称=#b28c6e:#F9FCFF:b}
+|~&color(#b28c6e){呼称}|~にこ|~いん|~ゆうみ|~しんあ|~あずみ|~備考|h
+|にこ|&font(b,#e7609e){私}||うみちゃん||あずちゃん||
+|いん||&font(b,#113c70){きゃん}||ひめちゃん|||
+|ゆうみ|にこ&br()にこ姉|きゃん|&font(b,#2ca9e1){うみ&br()私}|しんあ|あずみ||
+|しんあ||きゃんお姉ちゃん|ゆうみお姉ちゃん|&font(b,#2e8b57){ひめ}|あずみちゃん||
+|あずみ|にこ姉||うみ姉&br()ゆうみ|ひめ姉&br()しんあお姉ちゃん|&font(b,#7ebea5){私}||
+|ひるの||きゃん|ゆうみ||あずみ||
+|みう|にこ姉|きゃん姉|うみ姉||あずみ||
+|あやの|にこねぇ|きゃんねぇ|ゆうねぇ|ひーねぇ&br()ひーちゃん|あずねぇ||
+|ゆん|にこねぇ||うみねぇ||あずねぇ||
+|いのん|にこおねえちゃん|きゃんおねえちゃん|うみおねえちゃん|ひめおねえちゃん|あずみおねえちゃん||
+#endregion
+//
+#region(ひるの〜いのん,close)&bold(){ひるの〜いのん}
+#table_filter(){ひるの=show,みう=show,あやの=show,ゆん=show,いのん=show,備考=hide}
+#table_style(head=#b28c6e:#F9FCFF:center:b){呼称=#b28c6e:#F9FCFF:b}
+|~&color(#b28c6e){呼称}|~ひるの|~みう|~あやの|~ゆん|~いのん|~備考|h
+|にこ||みうちゃん||ゆんちゃん|いのちゃん||
+|いん|||あやのちゃん|ゆんちゃん|||
+|ゆうみ|ひるの|みう|あやの|ゆん&br()ゆんちゃん|いのん||
+|しんあ||みうちゃん|あやのちゃん|ゆんちゃん|||
+|あずみ|ひるの|みう|あやの|ゆんちゃん|いのん||
+|ひるの|&font(b,#000b00){私}|みう|あやの|ゆん|いのん||
+|みう|ひるの姉&br()ひるの|&font(b,#38a1db){みう}|あやの|ゆんゆん|いのん||
+|あやの|るのねぇ|みうねぇ|&b(){&color(#b7282e){あやの}}|ゆっち|いのっち||
+|ゆん|ひるのお姉ちゃん|みうねぇ|あやねぇ|&font(b,#b44c97){ゆん}|いのんちゃん||
+|いのん|るのおねえちゃん&br()ひるのおねえちゃん|みうおねえちゃん&br()みう|あやのおねえちゃん|ゆんおねえちゃん|&font(b,#f08300){いのん}||
+#endregion
+//
+#co(){
+▼コピー用素材
+|名前||||||
+
+|名前|||||||
+
+&font(b,#カラー){}
+}
+
+**&anchor(家族構成,option=nolink){&color(#b28c6e){&icon_fa(fa-solid fa-people-roof)} 家族構成}
+#table_style(head=#906141:#fff:center)
+#table_filter(){出生順=show, 名前=show, 通称=show, 漢字表記=show, 元の呼び名=hide, 転入=hide, 転入日=hide, S2起床日=hide, 詳細=show, 備考=hide}
+|~出生順|~名前|~通称|~漢字表記|~元の呼び名|~転入|~転入日|~S2起床日|~詳細|~備考|
+|BGCOLOR(#e7609e):~&color(#fff){長女}|[[暦 にこ>>暦　にこ]]&br()&image(にこ_上半身.png,x=92, y=112)|||&openclose2(show=???){&br()子〈ねずみ〉}|◯|2025年07月22日&br()(&countup(2025/07/22,yd))||暦家の長女。&br()姉として皆を守ろうという意識が強く、トラブル発生時には前に出る。&br()ただしお金で揺らいでしまうことも。&br()BMC体験中に爆発に巻き込まれ、修理する間もなく終了したため、犯人を捕まえ示談金を貰おうとした。&br()ちひろから何らかの情報を受け取っている可能性が高く、手紙にも名前が記載されている。||
+|BGCOLOR(#b28c6e):~&color(#fff){次女}|[[暦 ちひろ>>暦　ちひろ]]||&co(千丑)|&openclose2(show=???){&br()丑〈うし〉}|未転入|||暦家の次女。&br()姉妹に手紙と航空券を渡し、ロスサントスに向かうように伝えた人物。&br()今回の移動や姉妹に関する何かしらの情報を持っている様子だが、詳しくは伝えられていない。&br()街の外から時折メッセージを送っており、通常の連絡と共に姉妹の身を案じる内容が届くことがある。||
+|BGCOLOR(#113c70):~&color(#fff){三女}|[[暦 いん>>暦　いん]]&br()&image(いん_上半身.png,x=92, y=112) |暦 きゃん|寅|&openclose2(show=???){&br()寅〈とら〉}|◯| 2025年09月10日&br()(&countup(2025/09/10,yd))||暦家の三女。&br()自称陰キャでおとなしい性格。一人称は「きゃん」&br()ロスサントスに到着したその日にキャバクラに参加することを聞かされる。&br()しんあに接客のコツを教えてもらい、人見知りの妹たちと時々休憩しながら無事やり遂げた。||
+|BGCOLOR(#2ca9e1):~&color(#fff){四女}|[[暦 ゆうみ>>暦　ゆうみ]]&br()&image(ゆうみ_上半身.png,x=92, y=112) ||柚卯実|&openclose2(show=???){&br()卯〈うさぎ〉}|◯|2025年07月13日&br()(&countup(2025/07/13,yd))|2026年02月26日&br()(&countup(2026/02/26,yd))|暦家の四女。&br()最初にロスサントスに到着したうちの一人。&br()人と話すことが得意ではない、と言いつつ生活の基盤を整えるために率先して動いていた。&br()店長がいないなどで定職を見つけることには難航したが、職場体験は人一倍多く経験している。&br()物腰柔らかで面倒見の良い人物。同時に天然な部分や大胆な行動・物言いをする場面もしばしば見られる。&br()かつては戸惑っていたロスサントスの金銭感覚にも慣れたのか、今では当たり屋でお金を稼ごうとするまでに至った。&br()街でウサギを飼っていたが、月に帰ってしまった。&br()猫が苦手。&br()街にいる姉妹の中で唯一、暦家を本来の名前で呼ぶ人物と接触している。||
+|BGCOLOR(#2e8b57):~&color(#fff){五女}|[[暦 しんあ>>暦　しんあ]]&br()&image(しんあ_上半身.png,x=92, y=112) |暦 ひめ|辰愛|&openclose2(show=???){&br()辰〈たつ〉}|◯|2025年08月23日&br()(&countup(2025/08/23,yd))|2026年02月11日&br()(&countup(2026/02/11,yd))|暦家の五女。&br()甘え上手で我儘な性格。&br()名前は「しんあ」だが、可愛くないため街では「ひめ」と名乗っている。&br()自分のことは最も可愛く優先されるべき存在だと思っているため、そうでない扱いには不満を抱く。&br()お金持ちや権力者に対しては相手が喜びそうな立ち振る舞いをする。&br()これまで親しげに接していた相手でも、お金が無くなったと知った途端に興味を失うことがある。&br()労働や運転はあまりしたがらず、飲食店では接客のみ担当し、免許はバイクのみ取っている。&br()よく姉妹に接客のアドバイスを求められる。||
+|BGCOLOR(#7ebea5):~&color(#fff){六女}|[[暦 あずみ>>暦　あずみ]]&br()&image(あずみ_上半身.png,x=92, y=112) |||&openclose2(show=???){&br()巳〈へび〉}|◯|2025年07月20日&br()(&countup(2025/07/20,yd))||暦家の六女。&br()肩にペットのヘビを乗せている。&br()クールな雰囲気だが割と自由人。家探し中に発見した豪邸が出入り可能だと知り、秘密基地にしようとしていた。&br()かなり強かな一面を持つ。当時は王と名乗っていた上田に対し、懐いてるふりして味方にすれば都合がいいのでは？と姉妹に話していた。&br()お金を重視しており、お金を持っている人が素敵なレディだと考えている。&br()雨の日は具合が悪くなるため苦手。雷や大きい音も得意ではない。||
+|BGCOLOR(#000b00):~&color(#fff){七女}|[[暦 ひるの>>暦　午ノ]]&br()&image(ひるの_上半身.png,x=92, y=112) ||午ノ|&openclose2(show=???){&br()午〈うま〉}|◯|2025年08月17日&br()(&countup(2025/08/17,yd))||暦家の七女。&br()不器用で人と関わることが苦手。&br()他の姉妹のようにうまく話せないことを気にしていたが、少しずつ出来ることをやっていこうと考えている。&br()メイドカフェやキャバクラでも自分には無理だと帰りたがっていた。&br()家族には「そのままでいい」「ツンデレなのがいい」と言われ、住民からも好評だった。&br()治安が悪化していく街で姉妹を守るためには力が必要だとし、黒になろうとしていた。&br()人を撃つことについても家族のためならばできると答えている。||
+|BGCOLOR(#afafb0):~&color(#fff){八女}|[[暦 みう>>暦　未羽]]&br()&image(みう_上半身.png,x=92, y=112) ||未羽|&openclose2(show=???){&br()未〈ひつじ〉}|◯|2025年07月13日&br()(&countup(2025/07/13,yd))||暦家の八女。&br()内気で人付き合いをあまり好まない。働かずに家で寝て過ごしたいと考えており、ロスサントスではヒモとして生きることを決意した。&br()現実的な一面もあり、新居購入の場では盛り上がる姉妹に釘を差す様子が見られた。&br()基本的に行動は控えめで自ら前に出ることは少ない。&br()メイドカフェやキャバクラでは思いのほか攻めた接客で姉妹に驚かれていたが、これは「客を家族に見立てる」「褒め言葉の『さしすせそ』を活用する」といったアドバイスを実行した結果。&br()失礼な言動をする相手に対しては語気が強まるほか、姉妹を害する存在に陰で制裁を加えることがあった。&br()ヒツジが好き。||
+|BGCOLOR(#b7282e):~&color(#fff){九女}|[[暦 あやの>>暦　あやの]]&br()&image(あやの_上半身.png,x=92, y=112) ||礼申|&openclose2(show=???){&br()申〈さる〉}|◯|2025年08月17日&br()(&countup(2025/08/17,yd))|2026年02月11日&br()(&countup(2026/02/11,yd))|暦家の九女。&br()好奇心旺盛で、交流にも積極的。&br()本人曰く父の蔵書で得た知識でたびたび下ネタを繰り出しては驚かれている。&br()住民のアドバイスを受け、初対面時には&openclose2(show=独自の挨拶){「&ruby(ハッシュタグ){#}下ネタあり、大丈夫？」}で相手のラインを確認するようになった。&br()運転技術は壊滅的だが、転送後には改善された模様。&br()おばけや雷が苦手。普段の溌剌とした様子と打って変わってしおらしくなり、逃げ回ったり部屋の隅や姉の後ろに隠れたりする。&br()元々持つ道徳観や姉たちを守りたいという意識からか、銃を持つことへの躊躇があまり見られない。&br()諸事情により実行には至らなかったが、これから行うことが犯罪だと知った際も身を引かなかった。||
+|BGCOLOR(#b44c97):~&color(#fff){十女}|[[暦 ゆん>>暦　ゆん]]&br()&image(ゆん_上半身.png,x=92, y=112)|||&openclose2(show=???){&br()酉〈とり〉}|◯|2025年08月03日&br()(&countup(2025/08/03,yd))||暦家の十女。&br()人見知りで怖がり。&br()何故かキャプテンわきをに気に入られてしまい、姉たちに助けを求めていた。&br()キャバクラでは悪口とも取れる内容をTwiXに投稿し、姉妹に突っ込まれている。&br()警戒心が強く、暦家について沢山尋ねられた際に本当に話していいのかと不安がっていた。&br()圧のある相手に対して、ビビりながらも勢いよく近づいて話し逆に戸惑わせることがある。&br()姉妹といるとリラックスして過ごせるからか、一緒になって踊るなどノリの良い部分が顔を出す。&br()猫が好きで、猫モチーフの車を見て喜んでいた。||
+|BGCOLOR(#f08300):~&color(#fff){十一女}|[[暦 いのん>>暦　いのん]]&br()&image(いのん_上半身.png,x=92, y=112) |||&openclose2(show=???){&br()戌〈いぬ〉}|◯|2025年07月13日&br()(&countup(2025/07/13,yd))|2026年02月26日&br()(&countup(2026/02/26,yd))|暦家の十一女。&br()天真爛漫な性格。&br()街にいる姉妹のなかでは末っ子なこともあり、姉からも住民からも可愛がられている。&br()恋愛話には疎いようで、姉の恋バナにピンと来ない、好きなタイプを聞かれて困惑するといった様子が見受けられる。&br()イベントで「何でもする」と発言し、姉たちに諌められていた。&br()その割に、街のカップルを巻き込んだ修羅場を意図せず引き起こしたり、住民に一目惚れされたりといった色恋沙汰の当事者となる場面も発生している。&br()犬が好き。||
+|BGCOLOR(#b28c6e):~&color(#fff){十二女}|[[暦 あおい>>暦　あおい]]|||&openclose2(show=???){&br()亥〈いのしし〉}|未転入|||暦家の十二女。&br()ロスサントス未転入。&br()街にいる姉たちには、一人でここに来られるのか心配されていた。||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+#co(){
+
+#table_style(head=#b28c6e:#fff:center)
+#table_filter(){出生順=show,漢字表記=show,元の呼び名=hide,備考=show}
+|~出生順|~名前|~漢字表記|~元の呼び名|~備考|h
+|長女|[[暦 にこ>>暦　にこ]]||&openclose2(show=？？？){&br()【子（ねずみ）】}||
+|次女|[[暦 ちひろ>>暦　ちひろ]]|&co(){千丑}|&openclose2(show=？？？){&br()【丑（うし）】}|未転入|
+|三女|[[暦 いん>>暦　いん]]|寅|&openclose2(show=？？？){&br()【寅（とら）】}||
+|四女|[[暦 ゆうみ>>暦　ゆうみ]]|柚卯実|&openclose2(show=？？？){&br()【卯（うさぎ）】}||
+|五女|[[暦 しんあ>>暦　しんあ]]|辰愛|&openclose2(show=？？？){&br()【辰（たつ）】}||
+|六女|[[暦 あずみ>>暦　あずみ]]||&openclose2(show=？？？){&br()【巳（へび）】}||
+|七女|[[暦 ひるの>>暦　午ノ]]|午ノ&co(){羽ヶ町つまみさんポストで確認したため表示}|&openclose2(show=？？？){&br()【午（うま）】}||
+|八女|[[暦 みう>>暦　未羽]]|未羽|&openclose2(show=？？？){&br()【未（ひつじ）】}||
+|九女|[[暦 あやの>>暦　あやの]]|礼申&co(){当人ポストで確認したため表示}|&openclose2(show=？？？){&br()【申（さる）】}||
+|十女|[[暦 ゆん>>暦　ゆん]]||&openclose2(show=？？？){&br()【酉（とり）】}||
+|十一女|[[暦 いのん>>暦　いのん]]||&openclose2(show=？？？){&br()【戌（いぬ）】&br()&small(){（わんちゃん）}}||
+|十二女|[[暦 あおい>>暦　あおい]]||&openclose2(show=？？？){&br()【亥（いのしし）】}|未転入|
+//
+//|~出生順|~名前|~漢字表記|~元の呼び名|~備考|h
+#table_sorter(table)
+//家族構成の変更があれば「参加者一覧」への反映もお願いします
+
+}
+
+#region(職業、TwiX、プレイヤー,close)
+***&image(にこ_子.svg,inline)&underdot(#e7609e,3px){&space()&link2(暦　にこ,color=#333,target=blank)}
+#region(開く,close)
+#table_style(head=#e7609e:#F9FCFF:center)
+#table_filter(){Season 1=show,Season 2=hide}
+|~シーズン|~Season 1|~Season 2|
+|~職業|&small(){&openclose2(show=職業体験){&br()メカニック【[[BMC>>Bear Moon Custom]]】（25/08/03）}}||
+|~TwiX|@nico||
+|BGCOLOR(#fff):~&color(#e7609e){プレイヤー}|>|[[甘乃あもこ💛🌈🥖🌟>>https://x.com/amoko_official]]|
+#endregion
+//
+#co{
+
+***&underdot(#,3px){&link2(暦　ちひろ,color=#333,target=blank)}
+#region(開く,close)
+#table_style(head=##:#F9FCFF:center)
+|~職業|-|
+|~TwiX|@-|
+|BGCOLOR(#fff):~&color(#){プレイヤー}|[[->>-]]|
+#endregion
+
+}
+
+***&image(いん_寅.svg,inline,x=20,y=26)&underdot(#113c70,3px){&space()&link2(暦　いん,color=#333,target=blank)}
+#region(開く,close)
+#table_style(head=#113c70:#F9FCFF:center)
+#table_filter(){Season 1=show,Season 2=hide}
+|~シーズン|~Season 1|~Season 2|
+|~職業|&openclose2(show=イベント){&br()キャバクラ【[[GoodNight>>GoodNight]]】&small(){（25/09/10）}}|~|
+|~TwiX|@inkyan||
+|BGCOLOR(#fff):~&color(#113c70){プレイヤー}|>|[[遠吠きゃん(ぶいぱい／アップランド)>>https://x.com/Kyan_VPI]]|
+#endregion
+
+***&image(ゆうみ_卯.svg,inline,x=26,y=29)&underdot(#2ca9e1,3px){&link2(暦　ゆうみ,color=#333,target=blank)}
+#region(開く,close)
+#table_style(head=#2ca9e1:#F9FCFF:center)
+#table_filter(){Season 1=hide,Season 2=show}
+|~シーズン|~Season 1|~Season 2|
+|~職業|飲食店【[[Urashima]]】&small(){（25/09/07~）}&openclose2(show=※){&br()&small(){（オムライス屋の商品登録・製造のため）}}&br()&small(){&openclose2(show=職業体験){&br()メカニック【[[A2 Lab]]】（25/09/07）&br()飲食店【[[KoKo七番屋]]】（25/08/23）&br()メカニック【[[9055]]】（25/08/17~）&br()サウナ【[[らびっとむんむん>>Trickster/らびっとむんむん]]】（25/08/17）&br()メカニック【[[BMC>>Bear Moon Custom]]】（25/08/03）&br()飲食店【[[明味房>>ミンミンボウ]]】（25/07/20~）&br()メカニック【[[SKE>>菖光エンジニア]]】（25/07/20）&br()飲食店【[[ビュッフェ・アミティーステラ]]】（25/07/13）}}||
+|~|&openclose2(show=イベント){&br()キャバクラ【[[GoodNight>>GoodNight]]】&small(){（25/09/10）}}|~|
+|~TwiX|@yu-mi|@koyomiyuumi|
+|BGCOLOR(#fff):~&color(#da81b2){プレイヤー}|>|[[ゆちゃむ✼*>>https://x.com/yuchamchan0928?s=21&t=b89A-5gzkZraBLjrHHv6CQ]]|
+#endregion
+
+***&image(しんあ_辰.svg,inline,x=23,y=25)&underdot(#5c9291,3px){&space()&link2(暦　しんあ,color=#333,target=blank)}
+#region(開く,close)
+#table_style(head=#2e8b57:#F9FCFF:center)
+#table_filter(){Season 1=hide,Season 2=show}
+|~シーズン|~Season 1|~Season 2|
+|~職業|&small(){&openclose2(show=職業体験){&br()飲食店【[[明味房>>ミンミンボウ]]】（25/08/23）&br()飲食店【[[KoKo七番屋]]】（25/08/23）}}|-|
+|~|&openclose2(show=イベント){&br()キャバクラ【[[GoodNight>>GoodNight]]】&small(){（25/09/10）}}|~|
+|~TwiX|@himechan|@ichibanxkawaii|
+|BGCOLOR(#fff):~&color(#2e8b57){プレイヤー}|>|[[もこ田めめめ(.LIVE／アップランド)>>https://x.com/mokomeme_ch]]|
+#endregion
+
+***&image(あずみ_巳.svg,inline,x=23,y=20)&underdot(#7ebea5,3px){&space()&link2(暦　あずみ,color=#333,target=blank)}
+#region(開く,close)
+#table_style(head=#7ebea5:#F9FCFF:center)
+#table_filter(){Season 1=show,Season 2=hide}
+|~シーズン|~Season 1|~Season 2|
+|~職業|&small(){&openclose2(show=職業体験){&br()メカニック【[[9055]]】（25/08/17）&br()サウナ【[[らびっとむんむん>>Trickster/らびっとむんむん]]】（25/08/17）&br()飲食店【[[明味房>>ミンミンボウ]]】（25/07/20~）&br()メカニック【[[SKE>>菖光エンジニア]]】（25/07/20）}}||
+|~TwiX|@暦あずみ||
+|BGCOLOR(#fff):~&color(#7ebea5){プレイヤー}|>|[[あずきもなか🫧￤父ノ背中>>https://x.com/mo_na_ka1025]]|
+#endregion
+
+***&color(#000b00){ &icon_fa(fa-solid fa-horse-head)}&underdot(#000b00,3px){&space()[[&font(#333333){暦　ひるの}>>暦　午ノ]]}
+#region(開く,close)
+#table_style(head=#000b00:#F9FCFF:center)
+#table_filter(){Season 1=show,Season 2=hide}
+|~シーズン|~Season 1|~Season 2|
+|~職業|&small(){&openclose2(show=職業体験){&br()飲食店【[[PARADISE LOST]]】（25/08/17）&br()サウナ【[[らびっとむんむん>>Trickster/らびっとむんむん]]】（25/08/17）}}||
+|~|&openclose2(show=イベント){&br()キャバクラ【[[GoodNight>>GoodNight]]】&small(){（25/09/10）}}|~|
+|~TwiX|@暦ひるの||
+|BGCOLOR(#fff):~&color(#000b00){プレイヤー}|>|[[バル子>>https://x.com/baruko_dayo]]|
+#endregion
+
+***&image(みう_未.svg,inline,x=21,y=22)&underdot(#afafb0,3px){&space()[[&font(#333333){暦　みう}>>暦　未羽]]}
+#region(開く,close)
+#table_style(head=#afafb0:#F9FCFF:center)
+#table_filter(){Season 1=show,Season 2=hide}
+|~シーズン|~Season 1|~Season 2|
+|~職業|&small(){&openclose2(show=職業体験){&br()飲食店【[[PARADISE LOST]]】（25/08/17）&br()サウナ【[[らびっとむんむん>>Trickster/らびっとむんむん]]】（25/08/17）&br()飲食店【[[ビュッフェ・アミティーステラ]]】（25/07/13~）}}||
+|~|&openclose2(show=イベント){&br()キャバクラ【[[GoodNight>>GoodNight]]】&small(){（25/09/10）}}|~|
+|~TwiX|@miu||
+|BGCOLOR(#fff):~&color(#afafb0){プレイヤー}|>|[[neon𓂃ねおんぴ🐈🐾>>https://x.com/neon_niconico]]|
+#endregion
+
+***&image(あやの_申.svg,inline,x=22,y=22)&underdot(#c45459,3px){&space()&link2(暦　あやの,color=#333,target=blank)}
+#region(開く,close)
+#table_style(head=#b7282e:#F9FCFF:center)
+#table_filter(){Season 1=hide,Season 2=show}
+|~シーズン|~Season 1|~Season 2|
+|~職業|&small(){&openclose2(show=職業体験){&br()飲食店【[[KoKo七番屋]]】（25/08/23）&br()飲食店【[[明味房>>ミンミンボウ]]】（25/08/23）&br()飲食店【[[PARADISE LOST]]】（25/08/17）&br()サウナ【[[らびっとむんむん>>Trickster/らびっとむんむん]]】（25/08/17）}}|&small(){&openclose2(show=職業体験){&br()飲食店【[[LastJump in ParadiseLost]]】（26/02/11）}}|
+|~|&openclose2(show=イベント){&br()キャバクラ【[[GoodNight>>GoodNight]]】&small(){（25/09/10）}}|~|
+|~TwiX|@ayano|@ayanonoyaa|
+|BGCOLOR(#fff):~&color(#b7282e){プレイヤー}|>|[[羽ヶ町つまみ🚗✨>>https://x.com/Hagamatti]]|
+#endregion
+
+***&image(ゆん_酉.svg,inline,x=20,y=20)&underdot(#b44c97,3px){&space()&link2(暦　ゆん,color=#333,target=blank)}
+#region(開く,close)
+#table_style(head=#b44c97:#F9FCFF:center)
+#table_filter(){Season 1=show,Season 2=hide}
+|~シーズン|~Season 1|~Season 2|
+|~職業|飲食店【[[Urashima]]】&small(){（25/09/10）}&br()&small(){&openclose2(show=職業体験){&br()サウナ【[[らびっとむんむん>>Trickster/らびっとむんむん]]】（25/08/17）&br()メカニック【[[BMC>>Bear Moon Custom]]】（25/08/03）}}||
+|~|&openclose2(show=イベント){&br()キャバクラ【[[GoodNight>>GoodNight]]】&small(){（25/09/10）}}|~|
+|~TwiX|@暦ゆん||
+|BGCOLOR(#fff):~&color(#b44c97){プレイヤー}|>|[[にしのん>>https://x.com/2_nsnn_4]]|
+#endregion
+
+***&image(いのん_戌.svg,inline,x=19,y=19)&underdot(#fabf14,3px){&space()&link2(暦　いのん,color=#333,target=blank)}
+#region(開く,close)
+#table_style(head=#f08300:#F9FCFF:center)
+#table_filter(){Season 1=hide,Season 2=show}
+|~シーズン|~Season 1|~Season 2|
+|~職業|&small(){&openclose2(show=職業体験){&br()飲食店【[[PARADISE LOST]]】（25/08/17）&br()サウナ【[[らびっとむんむん>>Trickster/らびっとむんむん]]】（25/08/17）&br()飲食店【[[Urashima]]（海上レストラン）】（25/07/13~）}}||
+|~|&openclose2(show=イベント){&br()キャバクラ【[[GoodNight>>GoodNight]]】&small(){（25/09/10）}}|~|
+|~TwiX|@inon||
+|BGCOLOR(#fff):~&color(#f08300){プレイヤー}|>|[[美南まよ🐨⚗️🤍>>https://x.com/MiNAMi_MAYO]]|
+#endregion
+
+#co{
+***&underdot(#,3px){&link2(名前,color=#333,target=blank)}
+#region(開く,close)
+#table_style(head=#b28c6e:#F9FCFF:center)
+|~職業|職業|
+|~TwiX|@username|
+|BGCOLOR(#fff):~&color(#b28c6e){プレイヤー}|[[プレイヤー>>XのURL]]|
+#endregion
+}
+//
+#co{
+▼コピー用素材
+
+***&underdot(#b28c6e,3px){&link2(名前,color=#333,target=blank)}
+#region(開く,close)
+#table_style(head=#b28c6e:#F9FCFF:center)
+#table_filter(){Season 1=hide,Season 2=show}
+|~シーズン|~Season 1|~Season 2|
+|~職業|職業||
+|~TwiX|@username||
+|BGCOLOR(#fff):~&color(#b28c6e){プレイヤー}|>|[[プレイヤー>>URL]]|
+#endregion
+}
+#endregion
+
+**&font(25px, #b28c6e){&icon_fa(fa fa-key)} 名前、出自、家庭について
+***&underdot(#b3ada0,3px){&nbsp()&font(b,#333){※姉妹の背景に関するネタバレを含みます}&nbsp(2)}
+多くの住民は暦家の特殊な環境や家族構成に驚き、感心する。当の姉妹たちは「なぜそこまで驚かれるのか分からない」と不思議に思っている。
+//
+***&anchor(名前,option=nolink){&underdot(#b3ada0,3px){&nbsp()&color(#b28c6e){&icon_fa(fa fa-square-check)}&nbsp()名前&nbsp(2)}}
+#region(開く,close)
+- 街で使用している名前は本名ではなく、ロスサントスで暮らすためにちひろが考えてくれたもの。
+- 日本での姓は「&ruby(いのせ){猪瀬}」
+- 日本では「&ruby(ひつじ){未}ちゃん（みう）」、「&ruby(さる){申}ちゃん（あやの）」のように呼ばれていた。
+#endregion
+
+***&underdot(#b3ada0,3px){&nbsp()&color(#b28c6e){&icon_fa(fa fa-square-check)}&nbsp()日本での暮らし&nbsp(2)}
+#region(開く,close)
+-優しい両親のもと、大きな家で暮らしていた。
+-家庭教師やお手伝いさんがいた。
+-学校には通わず、家にある本や漫画で学んでいた。
+-家族以外と接する経験がほとんどなく、外との関わりは少なかった。
+#endregion
+
+***&underdot(#b3ada0,3px){&nbsp()&color(#b28c6e){&icon_fa(fa fa-square-check)}&nbsp()関連人物&nbsp(2)}
+#region(開く,close)
+***暦家
+#region(開く,close)
+****両親
+#region(開く,close)
+-両親の名前は、父が「&ruby(めぐる){巡}」、母が「&ruby(たまき){環}」。
+-とても仲が良く、姉妹を平等に愛している。姉妹も両親のことが好き。
+-時々住民に「異母姉妹なのでは」と言われることがあるが、正真正銘二人の子である。
+&small(){※いずれも姉妹談}
+#endregion
+//
+****[[暦 みよこ>>暦　みよこ]]
+#region(開く,close)
+-漢字表記は「暦 猫子」
+-暦家の姉を名乗る人物。「[[にこ>>暦　にこ]]」より上の姉だと主張している。
+-ゆうみにTwiXのDMで接触し、海上レストランで刺傷事件を起こす。（詳細は「&link_anchor(ゆうみ刺傷事件){暦ゆうみ刺傷事件}」へ）
+#endregion
+
+#endregion
+//
+***ロスサントス内
+#region(開く,close)
+****[[文殊 セイジ>>文殊　セイジ]]
+#region(開く,close)
+-暦家に強い興味を持つ人物。
+-姉妹のことを気にかけつつ、探っている。
+-&openclose2(show=仲間){：[[いわさき そす>>いわさき　そす]]、[[伊達咲 政宗>>伊達咲　政宗]]など}にも情報を共有している。
+#endregion
+
+#endregion
+#endregion
+
+*&color(#b28c6e){ &icon_fa(fa-solid fa-book)} エピソード
+****&anchor(ゆうみ刺傷事件,option=nolink){&underdot(#b3ada0,3px){&nbsp()暦ゆうみ刺傷事件&nbsp(2)}}
+2025年09月14日、暦 ゆうみが「姉」を名乗る人物、「[[暦 みよこ>>暦　みよこ]]」に刺される事件。
+
+#region(詳細,close)
+//
+#region(関係者,open)&b(){関係者}
+|BGCOLOR(#b28c6e):~&color(#fff){事件の被害者}|[[暦 ゆうみ>>https://www.youtube.com/live/-IbeSugiWhs?si=jSeb0b67v1_knn4t&t=5894]]|
+|BGCOLOR(#b28c6e):~&color(#fff){ゆうみを襲った人物}|[[暦 みよこ>>https://youtu.be/UYLk0A-hpmA?si=QxgH6-44qd2WQ2oC&t=545]]|
+|BGCOLOR(#b28c6e):~&color(#fff){当日起きていた姉妹}|[[暦 しんあ>>https://www.youtube.com/live/27k8Ja7miVo?si=Kh5mxhSY_g3OmQqk&t=13473]]、[[暦 あずみ>>https://www.twitch.tv/videos/2566251917?t=00h18m28s]]、[[暦 みう>>https://www.youtube.com/live/7lg6V_-txZc?si=X0QlUUEWiEekdqmJ&t=378]]、[[暦 あやの>>https://www.twitch.tv/videos/2566220762?t=01h15m14s]]、[[暦 いのん>>https://www.twitch.tv/videos/2566239614?t=00h40m20s]]|
+|BGCOLOR(#b28c6e):~&color(#fff){事件を担当した警察官}|[[ボイラ・テンガリン>>https://www.twitch.tv/videos/2566144058]]、[[バーバリアン 田中>>https://www.youtube.com/live/vg8Ic__jppA?si=eJ90ZOLpj4H5P3mR&t=943]]|
+&small(){※各視点アーカイブ、一部時間指定済}
+#endregion
+//
+****事件発生
+-[[ゆうみ>>暦 ゆうみ]]が「姉妹が街に来た本当の理由を知りたければ、ひとりで海上レストランに来い」といった内容のDMを受け取る。指示に従い単身で向かうと、暦みよこと名乗る女性が待っていた。
+-みよこは自身を「&ruby(ねこ){猫}」と称し、この街では「&ruby(こよみ){暦} &ruby(ゆうみ){柚卯実}」であるはずのゆうみを「&ruby(いのせ){猪瀬} &ruby(うさぎ){卯}」と呼んだ。続けて、みよこは自分がゆうみ達の姉だと明かすが、ゆうみには心当たりがなかった。
+-姉妹が街に来た理由を問われ、ゆうみは姉の[[ちひろ>>暦 ちひろ]]、つまり「&ruby(うし){丑}」の指示だと答える。&br()それを聞き、みよこは自身が街に来た理由を「処分されることを知ったから」だと述べ、さらに「どうせお前らも破棄される」「クローンのくせに」「所詮オリジナルの代わり」と言い募った。
+-話が理解できず混乱するゆうみを見て、みよこは激昂する。そのままゆうみにナイフを突き立て、「他の姉妹もこうなる」と言い残し、立ち去った。&br()ゆうみはすぐに無線で家族に異変を伝え、病院に搬送された。
+-通報を受け、[[ボイラ・テンガリン>>ボイラ　テンガリン]]と[[バーバリアン 田中>>バーバリアン　田中]]が来院する。その後、迎えに来た妹たちと合流し、全員で東署へ移動した。
+****情報共有
+-バーバリアン、ボイラ、そして妹たちに事件の経緯が共有される。ゆうみと同様、妹たちも「暦 みよこ」という人物や、クローンに関する話には心当たりがなかった。
+-姉妹の容姿を観察していたボイラが、全員の顔がそっくりだと指摘する。その後、みよこの生年月日が姉妹と一致していることが判明した。
+-数日前に「暦」を名乗る人物が妹を探しているとして、警察署を訪れていたことがバーバリアンによって伝えられる。
+-話し合いの最中、「暦猫子（＝暦みよこ）」のTwiXアカウントに、姉妹に向けた警告文が投稿される。海上レストランでゆうみに告げた内容と似ており、また「&ruby(こよみけ){暦家}」ではなく「&ruby(いのせけ){猪瀬家}」と呼びかけていた。
+-この事件は警察内で共有され、みよこは指名手配されることが伝えられる。街の情勢も考慮し、警察からは自衛手段を用意することや、腕の立つ人物に護衛を依頼するなどのアドバイスがなされ、話し合いは終了した。
+//
+#endregion
+
+*&color(#b28c6e){ &icon_fa(fa-solid fa-location-dot)} 拠点・店舗
+**&color(#b28c6e){ &icon_fa(fa-solid fa-landmark)} 所有物件
+#region(Season1,close)
+#table_style(head=#b28c6e:#F9FCFF:center:b)
+#table_filter(){購入日=hide,番地=show,場所=show,管理者=hide,内装=hide,備考=show}
+|~購入日|~番地|~場所|~管理者|~内装|~備考|h
+|25/09/14|7037|高級住宅街|暦家|Vinewood House 1|&small(){姉妹の自宅}|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+**&color(#b28c6e){ &icon_fa(fa-solid fa-shop)} 店舗情報
+***&underdot(#b3ada0,3px){&nbsp()暦家オムライス屋（仮）&nbsp(2)}
+-移動販売のオムライス専門店。
+-海上レストランのキッチンを借りて開業した。
+-各々をイメージしたオムライスのほか、ドリンクやフレグランスを販売。
+&u(){▷詳細「[[暦家オムライス屋（仮）>>暦家オムライス屋（仮）]]」}
+*&color(#b28c6e){ &icon_fa(fa-solid fa-list)} 年表
+***2025年
+#region(開く,close)
+#table_style(head=#b28c6e:#F9FCFF:center:b)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~関係者|~出来事|~備考|h
+|07/13||[[ゆうみ>>暦　ゆうみ]]、[[みう>>暦　未羽]]、[[いのん>>暦　いのん]]転入||
+|07/20||[[あずみ>>暦　あずみ]]転入||
+|07/22||[[にこ>>暦　にこ]]転入||
+|08/03||[[ゆん>>暦　ゆん]]転入||
+|08/17||[[あやの>>暦　あやの]]、[[ひるの>>暦　午ノ]]転入||
+|08/23||[[しんあ>>暦　しんあ]]転入||
+|09/07|[[ゆうみ>>暦　ゆうみ]]、[[ひるの>>暦　午ノ]]、[[あやの>>暦　あやの]]|[[オムライス屋さん>>暦家オムライス屋（仮）]]営業開始||
+|09/10||[[いん>>暦　いん]]転入||
+|09/10|[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[しんあ>>暦　しんあ]]、&br()[[ひるの>>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、&br()[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]|[[帝 レン>>帝　レン]]主催の暦家キャバクライベントに参加|[[告知>>https://x.com/STGR_RolePlay/status/1965731995989758109]]|
+|09/14|[[ゆうみ>>暦　ゆうみ]]、[[しんあ>>暦　しんあ]]、[[あずみ>>暦　あずみ]]、&br()[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[いのん>>暦　いのん]]|暦猫子（みよこ）と自称する女性に[[ゆうみ>>暦　ゆうみ]]が刺される。&br()みんなで住むために家を購入する。||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//コピー用素材▶|mm/dd||出来事||
+#endregion()
+//
+***2026年
+#region(開く,open)
+#table_style(head=#b28c6e:#F9FCFF:center:b)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~関係者|~出来事|~備考|h
+|26/02/11|[[しんあ>>暦　しんあ]]、[[あやの>>暦　あやの]]|[[しんあ>>暦　しんあ]]、[[あやの>>暦　あやの]]が転送後、初起床||
+|26/02/26|[[ゆうみ>>暦　ゆうみ]]、[[いのん>>暦　いのん]]|[[ゆうみ>>暦　ゆうみ]]、[[いのん>>暦　いのん]]が転送後、初起床||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//コピー用素材▶|26/mm/dd||出来事||
+#endregion()
+
+*&color(#b28c6e){ &icon_fa(fa-solid fa-bed)} 起床早見表
+&small(){※衛星ありの起床日を記載&br()※週ごとの部分編集が可能です}
+#include(暦家/起床早見表（2025年）)
+//
+***2026年
+#region(2月,open)&bold(){2月}
+#region(02/08〜02/14,close)&bold(){02/08〜02/14}
+#areaedit
+#table_filter(){備考=hide}
+#table_style(head=#b28c6e:#F9FCFF:center:b)
+|~名前|~02/08|>|~&icon_fa(fa-solid fa-bed)|~02/11|~02/12|~02/13|~02/14|~備考|h
+|しんあ|&co(1)|>|&co(休)|&bold(){[[#DAY1>>https://www.youtube.com/live/HcpO4Mn6l-A?si=Dl9T7X8WT5pNlS_x]]}|&co(5)|&co(6)|&co(7)|&co(備考)|
+|あやの|&co(1)|>|&co(休)|&bold(){[[#DAY1>>https://www.twitch.tv/videos/2694986192]]}|&co(5)|&co(6)|&co(7)|&co(備考)|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+#co{
+コピー用素材▶|名前|&co(1)|>|&co(休)|&co(4)|&co(5)|&co(6)|&co(7)|&co(備考)|
+
+コピー用素材▶&bold(){[[#DAYn>>URL]]}
+}
+#areaedit(end)
+
+#endregion
+//
+#region(02/22〜02/28,open)&bold(){02/22〜02/28}
+#areaedit
+#table_filter(){備考=hide}
+#table_style(head=#b28c6e:#F9FCFF:center:b)
+|~名前|~02/22|>|~&icon_fa(fa-solid fa-bed)|~02/25|~02/26|~02/27|~02/28|~備考|h
+|ゆうみ|&co(1)|>|&co(休)|&co(4)|&bold(){[[#DAY1>>https://www.youtube.com/live/qKhBoxjocsM?si=xmvkgwNXGY6ne4e7]]}|&co(6)|&co(7)|&co(備考)|
+|あやの|&co(1)|>|&co(休)|&co(4)|&bold(){[[#DAY2>>https://www.twitch.tv/videos/2708088415]]}|&co(6)|&co(7)|&co(備考)|
+|いのん|&co(1)|>|&co(休)|&co(4)|&bold(){[[#DAY1>>https://www.twitch.tv/videos/2708123228]]}|&co(6)|&co(7)|&co(備考)|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+#co{
+素材▶|名前|&co(1)|>|&co(休)|&co(4)|&co(5)|&co(6)|&co(7)|&co(備考)|
+
+素材▶&bold(){[[#DAYn>>URL]]}
+}
+#areaedit(end)
+
+#endregion
+//
+#endregion
+//
+#co{
+▼コピー用素材
+***2026年
+#region(2月,open)&bold(){2月}
+#region(02/dd〜02/dd,open)&bold(){02/dd〜02/dd}
+#areaedit
+#table_filter(){備考=hide}
+#table_style(head=#b28c6e:#F9FCFF:center:b)
+|~名前|~02/dd|>|~&icon_fa(fa-solid fa-bed)|~02/dd|~02/dd|~02/dd|~02/dd|~備考|h
+|名前|&co(1)|>|&co(休)|&co(4)|&co(5)|&co(6)|&co(7)|&co(備考)|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#areaedit(end)
+#endregion
+#endregion
+
+コピー用素材▶|名前|&co(1)|&co(休)|&co(3)|&co(4)|&co(5)|&co(6)|&co(7)|&co(備考)|
+コピー用素材▶&bold(){[[#DAYn>>URL]]}
+}
+
+*&color(#b28c6e){&icon_fa(fa-solid fa-arrow-up-right-from-square)} ストグラ外コラボ
+***&underdot(#b3ada0,3px){&nbsp()&color(#b28c6e){&icon_fa(fa fa-gamepad)} ゲーム&nbsp(2)}
+//
+#region(2025年,open)&b(){2025年}
+#table_filter(){ゲーム名=hide,参加者=show,住民名=hide,備考=show}
+#table_style(head=#b28c6e:#F9FCFF:center:b){配信日=center}
+|~配信日|~ゲーム名|~内容|~参加者|~住民名|~備考|h
+|25/10/27|ラウンジ&br()①一致するまで終われまテン！&br()②擬音語で説明しましょう！|[[&font(#696969){#暦家}>>https://x.com/hashtag/暦家?src=hashtag_click&f=live]] 一致するまで終われまテン！|[[甘乃あもこ>>https://www.twitch.tv/videos/2602629395]]、[[遠吠きゃん>>https://www.youtube.com/live/IXXyqqCcw14?si=r63GA9-coj4GnNyw]]、[[ゆちゃむ>>https://www.youtube.com/live/uRRp5T59-OA?si=u2UaBxknA47jtAO3]]、&color(#fc9403){&icon_fa(fa fa-bell-slash)}もこ田めめめ、[[あずもな>>https://youtu.be/HDxvPuc6buQ?si=lxzLJ2fHDstfY38c]]、&br()[[バル子>>https://www.twitch.tv/videos/2602629308]]、[[neon>>https://www.youtube.com/live/1sOwXKBoOOw?si=YqNRetxwV7W9MPgP]]、[[羽ヶ町つまみ>>https://www.youtube.com/live/Vkk_Gksrrbk?si=w62mC2G7pKmJYeJa]]、[[にしのん>>https://www.youtube.com/live/obS6WiL3VNY?si=rTK05xwBoFmBCsOy]]、&color(#fc9403){&icon_fa(fa fa-bell-slash)}美南まよ|[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[しんあ>>暦　しんあ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]||
+|25/12/01|ワードウルフ|[[&font(#696969){#暦家}>>https://x.com/hashtag/暦家?src=hashtag_click&f=live]] ワードウルフ|[[甘乃あもこ>>https://www.twitch.tv/videos/2632627831]]、[[遠吠きゃん>>https://www.youtube.com/live/3661IY1gcVw?si=i7fgarzJeXdf6KKu]]、[[ゆちゃむ>>https://www.youtube.com/live/GVnQEz30Fv8?si=NIWMMsVsZN6TXR9G]]、&color(#fc9403){&icon_fa(fa fa-bell-slash)}もこ田めめめ、&color(#fc9403){&icon_fa(fa fa-bell-slash)}あずもな、&br()[[バル子>>https://www.twitch.tv/videos/2632627845]]、&color(#fc9403){&icon_fa(fa fa-bell-slash)}neon、[[羽ヶ町つまみ>>https://www.youtube.com/live/dR6fM8WSjGY?si=fJMrEg5WpGW4Za6a]]、[[美南まよ>>https://www.twitch.tv/videos/2632627848]]|[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[しんあ>>暦　しんあ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[いのん>>暦　いのん]]|&openclose2(show=告知あり){：第一弾歌ってみた}|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+#co{
+|yy/mm/dd|ゲーム名|内容|[[プレイヤー>>URL]]|[[住民>>wiki]]||
+
+[[&font(#696969){#暦家}>>https://x.com/hashtag/暦家?src=hashtag_click&f=live]]
+
+&color(#fc9403){&icon_fa(fa fa-bell-slash)}
+
+▼暦家住民wiki
+[[にこ>>暦　にこ]]
+[[いん>>暦　いん]]
+[[ゆうみ>>暦　ゆうみ]]
+[[しんあ>>暦　しんあ]]
+[[あずみ>>暦　あずみ]]
+[[ひるの>暦　午ノ]]
+[[みう>>暦　未羽]]
+[[あやの>>暦　あやの]]
+[[ゆん>>暦　ゆん]]
+[[いのん>>暦　いのん]]
+
+▽一気ver.
+[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[しんあ>>暦　しんあ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]
+
+▼暦家プレイヤーSNS
+[[甘乃あもこ>>https://x.com/amoko_official]]
+[[遠吠きゃん>>https://x.com/Kyan_VPI]]
+[[ゆちゃむ>>https://x.com/yuchamchan0928]]
+[[もこ田めめめ>>https://x.com/mokomeme_ch]]
+[[あずもな>>https://x.com/mo_na_ka1025]]
+[[バル子>>https://x.com/baruko_dayo]]
+[[neon>>https://x.com/neon_niconico]]
+[[羽ヶ町つまみ>>https://x.com/Hagamatti]]
+[[にしのん>>https://x.com/2_nsnn_4]]
+[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+▽一気ver.
+[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+}
+
+***&underdot(#b3ada0,3px){&nbsp()&color(#b28c6e){&icon_fa(fa-solid fa-music)} 歌ってみた&nbsp(2)}
+#region(2026年,open)&b(){2026年}
+//
+#table_filter(){曲名=show,タイトル=hide,参加者=show,住民名=hide,備考=show}
+#table_style(head=#b28c6e:#F9FCFF:center:b){投稿日=center}
+|~投稿日|~曲名|~タイトル|~参加者|~住民名|~備考|h
+|26/01/05|[[経験値上昇中☆>>https://youtu.be/mK9aZ5webu8?si=QbLw1vJSe_s3Z9Oq]]|[[『経験値上昇中☆』-みなみけCovered by #暦家/甘乃あもこ/遠吠きゃん/ゆちゃむ/もこ田めめめ/あずきもなか/バル子/neon/羽ヶ町つまみ/にしのん/美南まよ>>https://youtu.be/mK9aZ5webu8?si=QbLw1vJSe_s3Z9Oq]]|[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]|[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[しんあ>>暦　しんあ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+#co{
+|yy/mm/dd|曲名|タイトル|[[プレイヤー>>URL]]|[[住民>>wiki]]||
+
+[[&font(#696969){#暦家}>>https://x.com/hashtag/暦家?src=hashtag_click&f=live]]
+
+▼暦家住民wiki
+[[にこ>>暦　にこ]]
+[[いん>>暦　いん]]
+[[ゆうみ>>暦　ゆうみ]]
+[[しんあ>>暦　しんあ]]
+[[あずみ>>暦　あずみ]]
+[[ひるの>暦　午ノ]]
+[[みう>>暦　未羽]]
+[[あやの>>暦　あやの]]
+[[ゆん>>暦　ゆん]]
+[[いのん>>暦　いのん]]
+
+▽一気ver.
+[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[ゆうみ>>暦　ゆうみ]]、[[しんあ>>暦　しんあ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]
+
+▼暦家プレイヤーSNS
+[[甘乃あもこ>>https://x.com/amoko_official]]
+[[遠吠きゃん>>https://x.com/Kyan_VPI]]
+[[ゆちゃむ>>https://x.com/yuchamchan0928]]
+[[もこ田めめめ>>https://x.com/mokomeme_ch]]
+[[あずもな>>https://x.com/mo_na_ka1025]]
+[[バル子>>https://x.com/baruko_dayo]]
+[[neon>>https://x.com/neon_niconico]]
+[[羽ヶ町つまみ>>https://x.com/Hagamatti]]
+[[にしのん>>https://x.com/2_nsnn_4]]
+[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+▽一気ver.
+[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+}
+
+***&underdot(#b3ada0,3px){&nbsp()&color(#b28c6e){&icon_fa(fa-solid fa-cut)} 他視点切り抜き&nbsp(2)}
+▷[[他視点切り抜き一覧>>暦家/他視点切り抜き]]へ
+
+#right(){&link_up(🔝ページTOPへ)}

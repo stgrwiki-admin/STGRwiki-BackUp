@@ -1,0 +1,115 @@
+//&image(ここに画像のURLを入力,y=300)
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#E0E0E0){}
+|~業種|~&icon_fa(fa fa-paw)|ペットショップ|
+|~開業日|~&icon_fa(fa fa-flag)|2026年8月26日&space()&small(){（&countup(2026/8/26,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|4020番地|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-ペット販売を行うショップ。心無き店員から購入可能。
+-犬・猫・カピバラ・ネコ科の肉食哺乳類が販売されており、雑貨類は衣装やアクセサリー、ケア用品など種類豊富に取り扱っている。
+
+*生体販売一覧
+**犬
+#region(開く,open)
+#table_filter(){分類=show,種類=show,価格=show,販売開始日=hide,説明・備考=show}
+#table_style(head=#E0E0E0){No.=center,分類=center,価格=right}
+|~種類|~価格|~販売開始日|~説明・備考|h
+|Hottweiler|2,700,000|2026/08/26|　|
+|&ruby(ドーベルマン){Dobermann}|3,400,000|2026/08/26|Brown・Black|
+|&ruby(ハスキー){Husky}|2,600,000|2026/08/26|Grey・Caramel・Light Grey・White|
+|&ruby(ゴールデンレトリバー){Golden Retriever}|2,600,000|2026/08/26|　|
+|&ruby(パグ){Pug}|2,500,000|2026/08/26|　|
+|&ruby(スモール ハスキー){Small Husky}|8,000,000|2026/08/26|　|
+|&ruby(チワワ){Chihuahua}|2,000,000|2026/08/26|　|
+|&ruby(ダックスフント){Dachshund}|2,300,000|2026/08/26|　|
+|&ruby(ヨークシャーテリア){Yorkshire Terrier}|2,300,000|2026/08/26|　|
+|&ruby(プードル){Poodle}|2,300,000|2026/08/26|　|
+|&ruby(アキタ){Akita}|2,000,000|2026/08/26|　|
+|&ruby(オーストラリアン・シェパード){Australian Shepherd}|5,100,000|2026/08/26|　|
+|&ruby(ブラッドハウンド){Bloodhound}|10,000,000|2026/08/26|　|
+|&ruby(イングリッシュ・ブルドッグ){English Bulldog}|3,400,000|2026/08/26|　|
+|&ruby(ブルドッグ パピー){Bulldog Puppy}|3,400,000|2026/08/26|　|
+|&ruby(テリア){Terrier}|3,900,000|2026/08/26|　|
+|&ruby(ブルドッグ){Bulldog}|2,700,000|2026/08/26|Black・Brown・Caramel|
+|&ruby(アメリカンブリー){American Bully}|5,400,000|2026/08/26|White・Black・Brown|
+|&ruby(ジャーマン・シェパード){German Shepherd}|2,700,000|2026/08/26|　|
+|&ruby(チャウチャウ){Chow Chow}|5,400,000|2026/08/26|　|
+|&ruby(ピッドブル ミニ){Pit Bull Mini}|2,300,000|2026/08/26|　|
+|&ruby(ダルメシアン){Dalmatian}|2,200,000|2026/08/26|　|
+|&ruby(ベルジアン・シェパード・ドッグ・マリノア){Belgian Malinois}|4,000,000|2026/08/26|　|
+|&ruby(ピッドブル){Pit Bull}|2,300,000|2026/08/26|Cream・Brown・Grey・Dark Brown|
+|&ruby(ビションフリーゼ){Bichon Frise}|2,500,000|2026/08/26|　|
+|&ruby(ダルメシアン ハピー){Dalmatian Pup}|2,200,000|2026/08/26|　|
+|&ruby(ゴールデン パピー){Golden Pup}|2,600,000|2026/08/26|　|
+|&ruby(シェパード パピー){Shepherd Pup}|2,700,000|2026/08/26|　|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+//
+//
+**猫
+#region(開く,open)
+#table_filter(){分類=show,種類=show,価格=show,販売開始日=hide,説明・備考=show}
+#table_style(head=#E0E0E0){No.=center,分類=center,価格=right}
+|~種類|~価格|~販売開始日|~説明・備考|h
+|&ruby(アメリカン){American Cat}|1,600,000|2026/08/26|Orange・Grey・White・Black&br()Black Orange Eyes・Blue Eyes Orange・Brown・White and Grey |
+|&ruby(ターキッシュ){Turkish Cat}|1,500,000|2026/08/26|White・Grey・Snow|
+|&ruby(ヘテロクロミア){Heterochromia Cat}|1,500,000|2026/08/26|White|
+|&ruby(スフィンクス){Synphix Cat}|1,700,000|2026/08/26|　|
+|&ruby(　){Wcoon Cat}|2,300,000|2026/08/26|　|
+|&ruby(ウルフキャット){Wolf Cat}|10,000,000|2026/08/26|　|
+|&ruby(　){Black Cat}|300,000|2026/08/26|　|
+|&ruby(エジプシャン){Egyptian Cat}|2,00,000|2026/08/26|　|
+|&ruby(　){Grey Cat}|300,000|2026/08/26|　|
+|&ruby(シャム){Siamese Cat}|1,700,000|2026/08/26|　|
+|&ruby(トリコロール){Tricolor Cat}|300,000|2026/08/26|三毛猫|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+//
+//
+**その他
+#region(開く,open)
+#table_filter(){分類=show,種類=show,価格=show,販売開始日=hide,説明・備考=show}
+#table_style(head=#E0E0E0){No.=center,分類=center,価格=right}
+|~種類|~価格|~販売開始日|~説明・備考|h
+|&ruby(カピバラ){Capybara}|8,000,000|2026/08/26|　|
+|&ruby(ライオン){Lion}|50,000,000|2026/08/26|　|
+|&ruby(ピューマ){Puma}|30,000,000|2026/08/26|　|
+|&ruby(タイガー){Tiger}|70,000,000|2026/08/26|　|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+//
+//
+#co{
+//*その他商品
+#region(開く,open)
+#table_filter(){種類=show,商品名=show,価格=show,販売開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~販売開始日|~商品説明|h
+|種類|商品名|価格|yyyy/mm/dd|説明|
+|種類|商品名|価格|yyyy/mm/dd|説明|
+|種類|商品名|価格|yyyy/mm/dd|説明|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+}
+
+*沿革
+#region(開く,open)
+#table_filter(){備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~備考|h
+|2026/08/26|店舗オープン|　|
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

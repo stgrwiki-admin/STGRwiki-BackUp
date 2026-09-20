@@ -1,0 +1,250 @@
+#table_style(head=#cfdae6,hover=#f4f7f9)
+|>|>||h
+|BGCOLOR(#cfdae6):|&image(uta_20250723.JPG,y=290)|BGCOLOR(#cfdae6):|
+|>|>|BGCOLOR(#cfdae6):|
+
+//ここからプロフィール
+#table_style(head=center:#dbedff:#666666,hover=#f4f7f9:#666666:bold)
+#table_filter(){Season1=hide,Season2=show}
+|BGCOLOR(#cfdae6):|>|BGCOLOR(#cfdae6):|BGCOLOR(#cfdae6):|BGCOLOR(#cfdae6):|BGCOLOR(#cfdae6):|h
+|BGCOLOR(#cfdae6):|>||&i(){Season1}|&i(){Season2}|BGCOLOR(#cfdae6):|h
+|BGCOLOR(#cfdae6):|~名前|~&icon_fa(fa fa-user)|>|&ruby(すずの){鈴乃}　うた|BGCOLOR(#cfdae6):|
+|BGCOLOR(#cfdae6):|~出身地|~&icon_fa(fa fa-location-dot)|>|-|BGCOLOR(#cfdae6):|
+|BGCOLOR(#cfdae6):|~誕生日|~&icon_fa(fa fa-cake-candles)|>|不明 (20代前半)|BGCOLOR(#cfdae6):|
+|BGCOLOR(#cfdae6):|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年07月23日 (&countup(2025/07/23,yd)経過)| 2025年12月27日 &small(){(&countup(2025/12/27,yd)経過)}|BGCOLOR(#cfdae6):|
+|BGCOLOR(#cfdae6):|~職業|~&icon_fa(fa-solid fa-building-columns)|[[個人医]]&small(){(2025/08/07～)} &br()個人素材屋|個人素材屋 &space()&u(){&small(){[[&color(#666666){＞素材屋連盟}>>素材屋連盟]]}}|BGCOLOR(#cfdae6):|
+|BGCOLOR(#cfdae6):|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@suzuuta|@uta|BGCOLOR(#cfdae6):|
+|BGCOLOR(#cfdae6):|BGCOLOR(#f4f7f9):~プレイヤー|BGCOLOR(#f4f7f9):~&icon_fa(fa fa-heart fa-fw)|>|すず音(のなめぷろだくしょん)|BGCOLOR(#cfdae6):|
+|BGCOLOR(#cfdae6):|BGCOLOR(#f4f7f9):~告知等|BGCOLOR(#f4f7f9):~&icon_fa(fa fa-bullhorn)|>|&font(#666666){&icon_fa(fa fa-brands fa-x-twitter)} &u(){[[&font(#666666){(@suzune_rabbit)}>https://twitter.com/suzune_rabbit]]}|BGCOLOR(#cfdae6):|
+|BGCOLOR(#cfdae6):|BGCOLOR(#f4f7f9):~配信場所|BGCOLOR(#f4f7f9):~&icon_fa(fa fa-gamepad)|>|&u(){&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@suzune_rabbit]]} / &u(){&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/suzune_rabbit]]}|BGCOLOR(#cfdae6):|
+|BGCOLOR(#cfdae6):|BGCOLOR(#f4f7f9):~別キャラクター|BGCOLOR(#f4f7f9):&icon_fa(fa fa-user-plus)|>|&small(){&font(#666666){&openclose2(show=※ネタバレ注意){&br()[[桃兎　すずめ]]&br()[[月野　ルナ]]&br()[[栖家幡　華憐]]}}}|BGCOLOR(#cfdae6):|
+|BGCOLOR(#cfdae6):|>|BGCOLOR(#cfdae6):|BGCOLOR(#cfdae6):|BGCOLOR(#cfdae6):|BGCOLOR(#cfdae6):|
+//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ガイドライン>>ここにガイドラインのURLを入力]]|
+//
+
+#region(目次)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&color(#dbedff){基本情報}
+・イメージカラーは水色。
+・一人称は「うち」。
+・事故で亡くなった[[妹>鈴乃　おと]]の墓参りと、[[市長補佐]]から[[個人医]]の連絡を受け街に来た。
+・前の街で闇医者をしていたが、医療拒否などを行ったのが原因で居づらくなったのもあり、この街で個人医をしながら生きることに。
+・・2025年7月31日、街に来てからすれ違い続けていた[[市長>山下　ひろし]]と面談するも、街に来たばかりであり資金などの不安もあるため一旦保留。その後8月7日に無事個人医に就けた。
+・『（市長と)会う時がその時』と考えていて、無理なアプローチはかけず日々の&u(){リサセン}と&u(){布集め}に奮闘中。
+・副業として個人素材屋をしており、個人医の合間にリサセンやゴミ箱漁りとファームをする日々。
+・・Twixにて素材販売告知、素材を欲しい人と取り引きをしている。
+・・素材卸しのお得意さんは[[夜桜怜]]、[[三島みつー]]、[[BMC]]。
+
+・2025年12月27日 元いたロスサントスから転送される。
+・素材屋専業。リサセン・鉱山・溶鉱炉を行き来し労働力を消費し、合間はゴミ漁りに勤しんでいる。
+・・[[素材屋連盟]]の一員。メカニックへの素材供給を前提とした素材屋連盟制定の売買価格での取引を行っている。
+・・素材卸しのお得意さんは[[JTS]]
+
+#region(衣装一覧,close)
+&b(){衣装一覧}
+
+#table_style(head=#cfdae6,hover=#dbedff)
+|&image(uta_20260104.PNG,y=200)||&image(uta_20260122.png,y=200)|h
+
+#endregion 
+#region(車両一覧,close)
+&b(){車両一覧}
+#size(90%){
+#table_style(head=#cfdae6,hover=#f4f7f9)
+|~車両|~色|~ナンバープレート|~備考|h
+|BGCOLOR(#f4f7f9):Blista|&color(#ffffff){■}|&tt(){2KNS031U}||
+|BGCOLOR(#f4f7f9):Cody|&color(#4762b3){■}|&tt(){B197PR03}||
+|~|&color(#f2f9ff){■}|&tt(){89M30066}||
+|~|&color(#ccada3){■}|&tt(){070NKN17}||
+|~|&color(#b8d6e6){■}|&tt(){Y5C6TRBY}||
+|~|&color(#656366){■}|&tt(){8O4X4GJD}||
+|BGCOLOR(#f4f7f9):Faggio Mod||||
+}
+
+#endregion 
+//
+*&color(#dbedff){エピソード}
+
+・街に来た後『原チャリ』を購入、モチベアップの為に[[9055]]でカラーチェンジを依頼するが、&u(){カメレオン}へのカラーチェンジは費用がかさむ事を知らず、払えなかった。
+・・おまけに&u(){普通免許証を持っていればバイクも乗れる}と勘違いをしており、それを指摘される。&s(){※つまり無免許状態である。}
+・・リサセンに行くにも木こりをするにも車がいる→だが車を買うお金が無い→食料も買わないといけない→でもお金がないといった負のルーティン。
+・その後ランポを手に入れ上記のリサセンと布集めを始めるが、次は[[不動産]]に出会えず、その間にランポ重量は限界に達して出た言葉&bold(){『うたが(今)やれる事、本当に全部終わった！！』}。
+・元個人医のゆちゃめろでぃから個人医時代に愛用していたスパローを託される。(主に街中にて使用)
+・個人医の単独行動での救助＆治療を許可される。(8月9日)
+・・後は略奪やE5犯罪での救助が課題、自立まであと一歩となる。
+
+//***2025年
+//#region(7月,open)&bold(){7月}
+//****07/23 [[【GTA】ストグラ 7.23 〇〇【 #ストグラ 】>>https://www.twitch.tv/videos/2520253289]]
+//#region(開く,open)
+//-エピソード募集中
+//#endregion
+//#endregion(mm月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(mm月)
+}
+*&color(#dbedff){アーカイブ}
+#size(90%){#table_style(hover=#f4f7f9:#666666:bold)
+|BGCOLOR(#dbedff):&space()&icon_fa(fa-solid fa-hashtag)&space() &i(){Season1 }&space()&space()|
+}
+//&space()&icon_fa(fa-solid fa-splotch)
+***2025年
+#region(開く)
+#region(7月)
+***&sizex(3){&bgcolor(#fff){&space()7月&space()}}
+#table_style(head=center:#dbedff,hover=#f4f7f9:#666666:bold){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|
+|07/23|1|[[【GTA】ストグラ 7.23 〇〇【 #ストグラ 】>>https://www.twitch.tv/videos/2520253289]]||
+|07/25|2|[[【GTA】ストグラ 7.23 うた【 #ストグラ 】>>https://www.twitch.tv/videos/2522003089]]||
+|07/26|3|[[【GTA】ストグラ 7.24 うた【 #ストグラ 】>>https://www.twitch.tv/videos/2522902051]]||
+|07/27|4|[[【GTA】ストグラ 7.25 うた【 #ストグラ 】>>https://www.twitch.tv/videos/2523801352]]||
+|07/31|5|[[【GTA】ストグラ 7.31 久々のうた！お金稼ぎがんばる！【 #ストグラ 】>>https://www.twitch.tv/videos/2527314780]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+
+#endregion
+//
+#region(8月)
+***&sizex(3){&bgcolor(#fff){&space()8月&space()}}
+#table_style(head=center:#dbedff,hover=#f4f7f9:#666666:bold){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|
+|08/01|6|[[【GTA】ストグラ 8.1 お金稼ぎがんばる！【 #ストグラ 】>>https://www.twitch.tv/videos/2528228400]]||
+|08/02|7|[[【GTA】ストグラ 8.2 うた【 #ストグラ 】>>https://www.twitch.tv/videos/2529069419]]||
+|08/03|8|[[【GTA】ストグラ 8.3 不動産いますかー？【 #ストグラ 】>>https://www.twitch.tv/videos/2529968978]]||
+|08/05|9|[[【GTA】ストグラ 8.5 うた【 #ストグラ 】>>https://www.twitch.tv/videos/2531710343]]||
+|08/06|10|[[【GTA】ストグラ 8.6 うた【 #ストグラ 】>>https://www.twitch.tv/videos/2532596114]]||
+|08/07|11|[[【GTA】ストグラ 8.7 うた【 #ストグラ 】>>https://www.twitch.tv/videos/2533566364]]||
+|08/08|12|[[【マインクラフト】エリトラ探しにいっちゃうかー！【すず音】→【GTA】ストグラ 8.８ うた 早番【 #ストグラ 】>>https://www.twitch.tv/videos/2534313237?t=01h37m20s]]|1:37:20~|
+|08/09|13|[[【マインクラフト】エリトラとったしいろいろ行きたいね！【すず音】→【GTA】ストグラ 8.9 早番うた【 #ストグラ 】>>https://www.twitch.tv/videos/2535248881?t=01h44m38s]]|1:44:38~|
+|08/12|14|[[【GTA】ストグラ 8.12 うた【 #ストグラ 】>>https://www.twitch.tv/videos/2538039652]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+
+#endregion
+#endregion
+//
+
+#size(90%){#table_style(hover=#f4f7f9:#666666:bold)
+|BGCOLOR(#dbedff):&space()&icon_fa(fa-solid fa-hashtag)&space() &i(){Season2 }&space()&space()|
+}
+***2025年
+#region(開く)
+#region(12月)
+***&sizex(3){&bgcolor(#fff){&space()12月&space()}}
+#table_style(head=center:#dbedff,hover=#f4f7f9:#666666:bold){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|
+|12/27|1|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[転送…されたのかな？>>https://www.youtube.com/live/Ph1NIT2Y8DY?si=vkbc3znzN56eek6f]]|&u(){[[&new2(2025/12/27 ,time=1000,show=Twitch,color=#666666)>>★★]]}|
+|12/28|2|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[お金稼ぎとファームと秘密の物さがし>>https://www.youtube.com/live/59DOXm-MZq4?si=HRS3d7JGCFiEMCZ6]]|&u(){[[&new2(2025/12/28 ,time=1000,show=Twitch,color=#666666)>>★★]]}|
+|12/31|3|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[🚙がほしい！あとスタッシュ>>https://www.youtube.com/live/rz7Km6SY24g?si=Cr_rpG3Giw62biGX]] |&u(){[[&new2(2025/12/31 ,time=1000,show=Twitch,color=#666666)>>★★]]}|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#endregion
+//
+***2026年
+#region(開く,open)
+#region(1月)
+***&sizex(3){&bgcolor(#fff){&space()1月&space()}}
+#table_style(head=center:#dbedff,hover=#f4f7f9:#666666:bold){#=center}
+#table_filter(){配信日=show,配信タイトル=show,アーカイブ=show,備考=show}
+|~配信日|~配信タイトル|>|~アーカイブ|~備考|
+|1/1|4日目 新しい相棒よろしくね！🎍|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/c_d9z_2CSFI?si=eDDC6-GjUlYKOE5V]] |&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/1/1 ,time=1000,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2658322754]]||
+|1/2|5日目 クラフト＆お金稼ぎ|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>> https://www.youtube.com/live/DFaqzMDxuVA?si=P8sRLvjV9Wfd7x2K]] |&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/02 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2659140144]]||
+|1/3|6日目 空き缶集めの一日|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space() [[ YouTube①>>https://www.youtube.com/live/uzlSDCbcw1c?si=0hpsKfKIieF59MxG]]/[[②>>https://www.youtube.com/live/cCCUz66nwB0?si=CLdzS6GiK7nxi9x4]]  |&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/03,time=1440,show=Twitch ①,color=#0059b3)>>https://www.twitch.tv/videos/2659955918]]/[[&new2(2026/01/03,time=1440,show=②,color=#0059b3)>>https://www.twitch.tv/videos/2659955918]]||
+|1/4|7日目 22時ごろからうた|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space() [[YouTube>>https://www.youtube.com/live/tYedeqQDPmU?si=ihfKV1s88ZcKzs3q&t=12059]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/04,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2660861381]]||
+|1/9|8日目 素材集めクラフト探検|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/_nO4rjiD09Q?si=gGRnATD_KQNNeej1]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/09 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2665192762]]||
+|1/10|9日目 お金集めて〇を買う|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/oBXqReMw4ns?si=bn_df_FKsUEv_UtG]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/10 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2667211818]]||
+|1/14|10日目 お金がやばーい！！|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/4IhybSPAhlE?si=_DxNCr0vKAPkchxX]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/14 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2669745949]]||
+|1/15|11日目 今日も今日とて|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/-wRLjUmLnAY?si=xBs7lBouYZa91zoR]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/15 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2670596138]]||
+|1/16|12日目 今日こそ買える！|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/wAXaU4IysR8?si=x4tXjwBWlhkd1e-o]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/16 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2671492769]]||
+|1/17|13日目 隠れているもの探すの楽しすぎ|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/Zl1USVqasfE?si=t-3tnIH1jV8xNix2]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/17 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2672351236]]||
+|~配信日|~配信タイトル|>|~アーカイブ|~備考|
+|1/18|14日目 いろいろ知りたい|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/vePotbx0iNA?si=AmEg4n02HT65zzm4]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/18 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2673370329]]||
+|1/21|15日目 gomi!!!!!!!!|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/Xuk5oXKALis?si=RH90p6ewDRduPOGZ]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/21 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2676017090]]||
+|1/22|16日目 gomi!gomi!gomi!!!|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/rZ1-q-GBD2k?si=hEbJB3FlRdFz7kul]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/22 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2676887902]]||
+|1/23|17日目 探すゴミ探す|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/drjCbCBmpU8?si=e3AZgCr1MO8FonHS]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/23 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2677747776]]||
+|1/24|18日目 やることいっぱい|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/jz1cyNpWJlU?si=llOBGQS2yWWwtmlUS]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/24 ,time=1440,show=Twitch,0059b3=#666666)>>https://www.twitch.tv/videos/2678672041]]|&size(10){素材屋連盟始動}|
+|1/25|19日目 素材屋として|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/WKlD9j0-o2g?si=hP4AbMcUBE8op3Bj]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/25 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2679701752]]||
+|1/28|20日目 素材集めがんばる|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/sufQMn1pHGI?si=5a8D1Af3KGJnQKKF]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/28 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2682489081]]||
+|1/29|21日目 pantu!!!!!|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/mbDY1EwEXII?si=9OadRu6wc4DYGVz_]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/29 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2683375417]]||
+|1/30|22日目 今日も楽しい日だといいね！|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/nArYWePiyHk?si=wJdo6cy1iU7XO1zp]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/30 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2684178957]]||
+|1/31|23日目 やりたいこといっぱーい！|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>>>https://www.youtube.com/live/WNemg-igkhU?si=Zq2kmZrSTUGnvGlb]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/01/31 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2685127088]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){label=#,start=4}
+
+#endregion
+//
+#region(2月,open)
+***&sizex(3){&bgcolor(#fff){&space()2月&space()}}
+#table_style(head=center:#dbedff,hover=#f4f7f9:#666666:bold){#=center}
+#table_filter(){配信日=show,配信タイトル=show,アーカイブ=show,備考=hide}
+|~配信日|~配信タイトル|>|~アーカイブ|~備考|
+|2/1|24日目 素材クラフト情報|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/-7GRCfWFFbs?si=KMJkFfivinjmN6cm]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/02/01 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2686118283]] &space(9)||
+|2/4|25日目なんかかわったことあるかなぁ|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/hW7PyYRvoq8?si=s_Fd9e6SA7vOCOko]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/02/04 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2688763265]]||
+|2/5|26日目 クラフトあげたい|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube①>>https://www.youtube.com/live/BdncCaazlLg?si=8L1eNAkngoF7eWJ0]]/[[②>>https://www.youtube.com/live/GZV_ddzbXj8?si=rz81cZ7NXMQSPfVc]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/02/05 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2689625995]]||
+|2/6|27日目 ちょぴっとね！|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>https://www.youtube.com/live/Cw_p1p9G5lQ?si=XdDhWuBnpe46yiZG]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/02/06 ,time=1440,show=Twitch,color=#0059b3)>>https://www.twitch.tv/videos/2690583349]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){label=#,start=24}
+#endregion
+#endregion
+//|2/dd|title|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[YouTube>>url]]|&font(#666666){&icon_fa(fa-brands fa-twitch)}&space()[[&new2(2026/02/dd ,time=1440,show=Twitch,color=#0059b3)>>url]]||
+
+*&color(#dbedff){切り抜き}
+***2025年
+#region(開く)
+#region(12月,open)
+***&sizex(3){&bgcolor(#fff){&space()12月&space()}}
+#table_style(head=center:#dbedff,hover=#f4f7f9:#666666:bold){配信日=right,#=center}
+#table_filter(){タイトル=show,切り抜き元=show,備考=hide}
+|~タイトル|~切り抜き元|~備考|
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){1日目 無事に転送されたけどすべて失ったうた}>>https://youtu.be/nmBGoc4JHvc?si=ed1ge4_jBY04nviG]]|[[&color(#0059b3){2025/12/27}>>https://www.youtube.com/live/Ph1NIT2Y8DY?si=vkbc3znzN56eek6f]]||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){1日目後半 お金がない…街探検をしながらお金稼ぎ}>>https://youtu.be/aA_7tDz_nBI?si=de3o1PJG6BdKoKLP]]|[[&color(#0059b3){2025/12/27}>https://www.youtube.com/live/Ph1NIT2Y8DY?si=vkbc3znzN56eek6f]]||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){2日目 ファーム場所で情報収集場所}>>https://youtu.be/r8uXj0t7_YU?si=bE8BpyJE4B8TrXr4]]|[[&color(#0059b3){2025/12/28}>>https://www.youtube.com/live/59DOXm-MZq4?si=HRS3d7JGCFiEMCZ6]]||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){3日目 車が買えるの嬉しすぎてポンしまくり}>>https://youtu.be/np55H4q5RYg?si=srVfsqmDeainBy5-]]|[[&color(#0059b3){2025/12/31}>>https://www.youtube.com/live/c_d9z_2CSFI?si=eDDC6-GjUlYKOE5V]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){label=#,skip=1}
+#endregion
+#endregion
+//
+***2026年
+#region(開く,open)
+#region(1月,open)
+***&sizex(3){&bgcolor(#fff){&space()1月&space()}}
+#table_style(head=center:#dbedff,hover=#f4f7f9:#666666:bold){配信日=right,#=center}
+#table_filter(){タイトル=show,切り抜き元=show,備考=hide}
+|~タイトル|~切り抜き元|~備考|
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){6日目 街の大人気コンテンツ}>>https://youtu.be/pvuvbfxx0rg?si=a_P8p99tmHTcnrdt]]|[[&color(#0059b3){2026/01/03}>>https://www.youtube.com/live/uzlSDCbcw1c?si=0hpsKfKIieF59MxG]]||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){7日目 バネ・ネジ・黒いお仕事}>>https://youtu.be/1sJpnPrHUKQ?si=h3yAJJV2RHdBAlQH]]|[[&color(#0059b3){2026/01/04}>>https://www.youtube.com/live/tYedeqQDPmU?si=ihfKV1s88ZcKzs3q&t=12059]]||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){8日目 白の素材屋？黒の素材屋？}>>https://youtu.be/syz9xALj67U?si=jl7LRKKIu3TVruEz]]|[[&color(#0059b3){2026/01/09}>>https://www.youtube.com/live/_nO4rjiD09Q?si=bEu1U6Q4mf2tXPsk]]||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){9日目 生き別れの姉妹？のはずはない！}>>https://youtu.be/XjpHMwfengc?si=_eQPVvyCzRddCKKN]]|2026/01/11||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){11日目 人との関わりって大切！}>>https://youtu.be/nL-X8VIIjb0?si=k-7hFQovRQttUkfG]]|2026/01/15||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){12日目 謎の草…これって！？}>>https://youtu.be/jY1iE-SmN74?si=_8VCOfV3jbnk6SNI]]|2026/01/16||
+|~タイトル|~切り抜き元|~備考|
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){13日目 銃を手に入れたうた}>>https://youtu.be/hZTuHcAGw8k?si=SdWIoldaLyeRA-B6 I]]|2026/01/17||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){14日目 水・硫黄・お花どこいった？}>>https://youtu.be/AYfqI7vyt8Q?si=YFKAyXSdrSzu_d37]]|2026/01/18||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){15日目 ゴミ箱からパンツ！？}>>https://youtu.be/cu_oh26bkB8?si=nHIKPlTcSukLsLnR]]|2026/01/21||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){16日目 一体どこにあるのー}>>https://youtu.be/W9PBO3Qm_GI?si=2N3u3bHM5nSpTt5F]]|2026/01/22||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){17日目 みーつけたっ}>>https://youtu.be/EYlCTq596nE?si=Uh1W2jvuG5NFeHRv]]|2026/01/23||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){18日目 素材屋としての第一歩}>>https://youtu.be/TofuKuyKjwc?si=sgv7iN28NRrZW7l9]]|2026/01/24||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){18日目 はじめての人質におびえるうた}>>https://youtu.be/7I62JrPAimU?si=V2dF4uJggF-MK1hC]]|2026/01/24||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){19日目 パ〇ツが欲しいわきおーま}>>https://youtu.be/_HjjbHGiawc?si=0ZuCIG1VGdpHVUS3]]|2026/01/25||
+|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[&color(#0059b3){22日目 Dr.ギガの助手になってみた⁉}>>https://youtu.be/rMU1uj1KM4I?si=ddF_jEt5vWpMOYIS]]|2026/01/30||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){label=#,skip=1,start=5}
+//|&font(#666666){&icon_fa(fa-brands fa-youtube)}&space()[[title>>url]]|2026/02/XX||
+//
+#endregion
+#endregion
+#right(){&link_up(▲ページTOPへ)}

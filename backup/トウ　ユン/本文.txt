@@ -1,0 +1,187 @@
+//
+
+**プロフィール
+|&image(普段着.jpg)|&image(VF勤務時.jpg,x=375)|
+//16:9の比率です
+#table_style(head=#B22:#FFF)
+#table_filter(){SEASON1=hide,SEASON2=show}
+|~シーズン|~&icon_fa(fa fa-arrow-right-to-city)|~SEASON1|~SEASON2|
+|~名前|~&icon_fa(fa fa-user)|>|トウ　ユン|
+|~出身地|~&icon_fa(fa fa-map-marker)|>|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|2003年8月8日(&countup(2003/8/8,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年04月03日 (&countup(2024/4/3,yd)経過)|2025年12月19日 (&countup(2025/12/18,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|&s(){&s(){&s(){BAR【[[Violet Fizz]]}】店員}} &small(){(2024/04/25~2024/08/09)}&br()芸能事務所【&link_anchor(id_1d672329,pageid=558){GoodByeCompany}】所属タレント&br()音楽喫茶【[[GroobyBabyCafe]]】店長 &small(){(2024/10/23~)}&br()サウナ【[[SPA だはは]]】アルバイト &small(){(JOB無し 2025/05/01~)}|メイドカフェ【[[LastJump in ParadiseLost]]】&small(){(2025/12/27~）}|
+|~所属|~&icon_fa(fa fa-sitemap fa-fw)|マフィア【[[GoodbyeCircus]]】団員&br()平井コスプレ集団【[[ひらいけ]]】&small(){(2024/07/20~)}|マフィア【[[玖雲]]】&small(){(ボス 2026/02/27~)}&br()音楽レーベル【[[ラニマ]]】&small(){(代表 2026/02/25~)}|
+|~変装|~&icon_fa(fa fa-user-secret)|&openclose2(show=？){&b(){ギャラクシー緑川}：エグゼクティブ・プロデューサー&br()&space(5)&small(){芸能事務所}【[[ギャラクシープロダクション]]】&small(){ (2025/04/18 設立)}&br()}|-|
+|~TwiX|~&icon_fa(fa fa-crow)|>|@touyun|
+|BGCOLOR(#EEE):COLOR(#B22):~プレイヤー|BGCOLOR(#EEE):COLOR(#B22):~&icon_fa(fa fa-address-card-o)|>|灯油|
+|BGCOLOR(#EEE):COLOR(#B22):~告知等|BGCOLOR(#EEE):COLOR(#B22):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/touyukan]]|
+|BGCOLOR(#EEE):COLOR(#B22):~配信場所|BGCOLOR(#EEE):COLOR(#B22):~&icon_fa(fa fa-gamepad)|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@touyukann]]/ &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch} >>https://twitch.tv/touyukan]]|
+|BGCOLOR(#EEE):COLOR(#B22):~アーカイブ|BGCOLOR(#EEE):COLOR(#B22):&icon_fa(fa fa-film)|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/playlist?list=PLwJln7OTKLAHmON0qma-JU7RS6oLeJap4]]|
+//
+//職業を追加・更新した場合、「参加者一覧」等への追加・更新のご協力をお願いいたします。
+//
+//&br()&font(#DA1725){&icon_fa(fa fa-Twitc-play)} [[&font(#DA1725){Twitch}>>ここにチャンネルのURLを入力]]
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・家庭が貧しく困窮していたため、出稼ぎにロスサントスへやって来た。
+・父親が中国人だが、自身の生まれは日本。名前の漢字表記は「鄧韵」
+・家族構成は父親と弟で、母親はいない。弟の進学のためにもある程度の額のお金をロスサントスで稼ぎたいと考えている。
+#region(本当は…)
+・表向きは出稼ぎに来たと教えているが、実際の家庭は困窮しておらず、弟も存在しない。生まれた家が歌舞伎町にあるチャイニーズマフィア(九頭竜)の家系で、今まで父親の顔もほとんど見たことがなく、付き人にお世話をされながら暮らしていた。父親の命令で、友人を作ることもできなかった。しかし金だけはあり、手に入るものには困らない。そんな生活が嫌で、逃げるようにロスサントスへやって来た。
+・父親には「9号」と呼ばれていた。(他のメンバーも数字呼び)
+・この家系故に初めて人質になった際も心の底から怯えることはなく、怯えた演技でその場を乗り切った。(#12)
+・本音とは反し人当たりの良い「トウユン」を演じている。日本で父親に命令されて実行してきた仕事故か、自分が醜く汚い存在で「良い人」とは思っていないからこそ、そうなりたいという願望から精一杯「良い人」であろうとしている。それがいつか本当になることを信じて。
+・その家庭環境ゆえ、父親からも一度も向けられたことのない「愛情」や「家族」という存在に飢えている。しかし「愛」というものを音楽や漫画等の知識でしか知らず、どういうものなのかを知りたいという気持ちを持っている。自身の所属するGoodbyeCircusの団長であるマクドナルドへの複雑な想いを通して、少しづつ「愛」を知りつつある。
+#endregion
+・シングルタスクで複数の作業を同時に行うことが苦手。
+・物事に対して「筋を通す」という信念がある。
+・家では1人でいることが多かったため、歌を歌うことが趣味だった。街に来るまで他人に聞かせたことは無かった。
+・・[[Violet Fizz]]で歌ったことから｢人を楽しませたい｣という気持ちが強くなり[[GBC>GoodbyeCircus]]に興味を持つように。
+・・[[GBC>GoodbyeCircus]]での面接ではオペラを披露し好評を博し、無事入団を果たす。
+・初めての人質体験で警察官の対応に不信感を持ったことから黒への道も選択肢となった。
+・・街をまだ知らないことや、黒になる覚悟が出来ないことを理由に[[イネヌコ]]さんからの勧誘を断った。
+・[[GBC>GoodbyeCircus]]ではアーティストとしてだけではなくプロデュース業にも興味を示し、[[マクドナルド>ライトスターボーイ]]に「やればいいじゃん」と背中を押された。
+#region(決意)&font(b){黒市民となる（62日目～71日目）}
+・[[GBC>GoodbyeCircus]]で長く活動していくうちに黒市民と白市民の違いについて悩むことが増え、[[GBC>GoodbyeCircus]]の家族のために黒転向の道を考え始めるものの、なかなか踏ん切りがつかずにいた。
+・そんな中、[[GBC>GoodbyeCircus]]メンバーで警察署に行った際に団員の[[ズズ>キングスターダイヤモンド　ズズ]]が白市民パスを取得できなかった件について[[ボイラ>ボイラ　テンガリン]]に訪ねたところ&font(b){「白市民パスの条件が変わり、ギャングアジトに出入りしている市民は白市民パス剥奪対象」「既に出入りしていた証拠がある人は剥奪対象のため、ユン先生もこれから剥奪される可能性がある」}と伝えられ、その場にいた[[ひのらん>ひの　らん]]も[[市長>山下　ひろし]]に確認済みと同調した。
+・本署の横で[[ボイラ>ボイラ　テンガリン]]と2人きりになり、いずれ音楽の師匠でありプロデューサーであるトウユンの白市民パスを剥奪することになるかもしれないと苦悩する[[ボイラ>ボイラ　テンガリン]]に&color(#b22222){「そんなことで剥奪される白市民なんていらない。正直…いらないです。」「ギャングも警察もちゃんとこの街で生きている。最初は白市民にこだわっていたけど今は関係ないと思う。白であっても黒であっても、その人が人としてしっかり生きていたら俺はそれはリスペクトするものだなと思う。」}と心情を吐露する。
+・&color(#b22222){「誰に白として見られようが黒として見られようがどうでもいい。俺はトウユンとして…[[グッバイ>GoodbyeCircus]]のアーティストの一人として、ちゃんと活動していきたいし、みんなと色々作りたいと思っているから。」}と[[GBC>GoodbyeCircus]]で活動していく中で胸に秘めていた決意を[[ボイラ>ボイラ　テンガリン]]に伝える。
+・・感銘を受けた[[ボイラ>ボイラ　テンガリン]]は&font(b){「あなたの言う通り、何色でも関係ないですよ。私が[[グッバイ>GoodbyeCircus]]の人達が好きな理由は、『白も黒も関係なく、みんなが楽しめる街作りをしていきたい』という志を持っているからこそ。トウユン先生も音楽を知らない私に音楽を教えてくれた。だからね…色は関係ないんですよ。」「私もユン先生と同じ考えです。」}と同意してくれた。
+・[[FIB]]の会議室に移動し、集まった[[GBC>GoodbyeCircus]]メンバーに白市民パス剥奪条件の情報共有と、[[ボイラ>ボイラ　テンガリン]]にも語った決意を改めて伝える。
+・黒市民の先輩である[[帝レン>帝　レン]]と[[ネケ>ネケ　ニマス]]から大型犯罪や花摘みなど、様々な犯罪の概要や立ち回りを座学と見学、実践で教えてもらう。
+・70日目にヘリ役で大型犯罪デビュー。オイルリグは心なきとサーマルミッション対応中の警察に撃たれダウンする不運があったものの逮捕されず、次に参加したボブキャットでは[[サトシ>真新　サトシ]]と回収係を行い、無事初めての大型犯罪成功を果たした。
+・71日目に[[麻陀羅組]]と合同で参加したオイルリグで逮捕され、初日に取得した白市民パスと別れを告げる。&font(b){改めて、この街で黒市民として生きていく決心をした。}
+
+#endregion
+
+#div(width=100px,bgcolor=#b22222:#FFF){&font(b,white,110%){　Season 2}}
+
+#region(巣立ち)&font(b){「マクドナルドとの暫しの別れ(6日目)」}
+転送後マクドナルドの姿が見えなく心配している団員たちの前に現れた、スターボーイと名乗る人物。以前から話には聞いていたマクドナルドの元の人格であるらしい彼からの伝言。&font(b){「団員のことを愛している。またいつか皆さんと楽しいことがしたい。今は自由に好きに生きてほしい。サーカステントが無くともマクドナルドが生きている限り、家族の心からGBCが消えることはない。いつでも団員を見ている」}
+この言葉を聞いて安心したトウユンは、街に来た当初は知らなかった「愛」をマクドナルド（スターボーイ）に伝えることが出来た。
+#endregion
+
+**服装・変装
+#div(width=100px,bgcolor=#b22222:#FFF){&font(b,white,110%){　Season 1}}
+
+#table_style(head=#b22222:#FFF:center){}
+|&blankimg(トウユン_夏服.jpg, y=220,x=180)|&blankimg(トウユン_大型服.jpg, y=220,x=180)|&blankimg(トウユン_ダイスファッション.jpg, y=220,x=180)|&blankimg(トウユン_冬服.jpg, y=220,x=180)|&blankimg(パジャマ.jpeg,y=220,x=180)|&blankimg(SPD南署員.jpeg,y=220,x=180)|
+|~夏服&br()&size(11){・夏の普段着&br()・チャラいと言われる&br()&br()}|~GBC大型服&br()&size(11){・GBCの汚い仕事用の服&br()・バレないように髪も変えている&br()&br()}|~ダイスファッション&br()&size(11){・全てダイスで決まった&br()・頭が昭和のヤンキー&br()&br()}|~冬服&br()&size(11){・冬の普段着&br()・犯罪時は狼のマスク着用&br()&br()}|~パジャマ&br()&size(11){・D4の大型服を流用している&br()&br()&br()}|~SPD 南署員&br()&size(11){・2025 SPD×〇〇してはいけない&br()&br()&br()}|
+
+
+#region(変装,close)変装
+#table_style(head=#b22222:#FFF:center){}
+|&blankimg(変装_東深炎.jpg, y=200,x=180)|&blankimg(トウユソ.jpeg,y=200,x=180)|&blankimg(チーズバーガー.jpeg, y=200,x=180)|
+|~東深炎&br()&size(11){・カウンセラーの先生&br()・マクドナルドがコーディネート&br()&br()}|~トウユソ&br()&size(11){・黒い仕事用&br()&br()&br()}|~チーズバーガー&br()&size(11){・トウユンとハンバーガーのこども&br()•お父さん似&br()&br()}|
+#endregion(カンパニー変装)
+
+#div(width=100px,bgcolor=#b22222:#FFF){&font(b,white,110%){　Season 2}}
+
+#table_style(head=#b22222:#FFF:center){}
+|&blankimg(ラスパラ執事.jpg, y=220,x=180)|&blankimg(クリスマス.jpeg, y=220,x=180)|
+|~LastJump in ParadiseLost&br()&size(11){・制服&br()} |~クリスマス&br()&br()|
+
+#region(変装,close)変装
+#table_style(head=#b22222:#FFF:center){}
+|&blankimg(IMG_9446.jpeg,y=200,x=170)|&blankimg(IMG_1371.jpeg,y=200,x=170)|&blankimg(ロスブラック.jpeg,y=200,x=180)|&blankimg(タコスくん.jpeg,y=200,x=180)|&blankimg(京極.jpeg,y=200,x=180)|&blankimg(IMG_1080.jpeg,y=200,x=180)|&blankimg(IMG_1155.jpeg,y=200,x=180)|&blankimg(IMG_2390.jpeg,y=200,x=180)|&blankimg(IMG_1320.jpeg,y=200,x=180)|
+|~黒い仕事用の髪型&br()&br()&br()|~戦闘服&br()&size(11){･ズボンが構成員とお揃い&br() &br()}|~ロスブラック&br()&size(11){•黒い仕事用&br()･良いロスブラックもいるらしい&br()} |~タコスくん&br()&size(11){･黒い仕事用&br()･ダミ声&br()}|~京極&br()&size(11){･シュシュシュプロダクション開催&br()ボイトレ参加者&br()･高い声が出ないのが悩み&br()}|~ラビット2000&br()&size(11){･黒い仕事用&br()･[[姫一　夕]]作&br()}|~オオカミ キドリ&br()&size(11){･黒い仕事用&br() &br()}|~カオノカワハギオ&br()&size(11){･黒い仕事用&br()･人の顔の皮を剥いで&br()自分の顔に貼り付けることが趣味}|~ラズベリー伯爵&br()&size(11){･黒い仕事用&br()&br()}|
+#endregion
+
+//大型服が作られたので服装欄作りました～。ほかの普段着なども追加お願いします。
+//画像追加できないのであれば配信の時間とタイトル記載してくれれば追加します～
+
+**芸能活動
+#region(open)
+#table_style(head=center:#b22222:#FFF)
+|~活動概要|~歌唱曲|~アーカイブ・切り抜き|h
+|Violet Fizz弾き語りライブ|ヴィラン(てにをは)&br()シャルル(バルーン)&br()命に嫌われている(カンザキイオリ)||
+|ボイラさんのボイトレ開始、楽曲制作の協力||[[{&icon_fa(fa fa-youtube-play)}アーカイブ>>https://www.youtube.com/live/aFRazY347tQ?si=p7LzPK_5qdYIKRNz]]|
+|サトシの『Not Alone』作曲協力|||
+|シャンプロ主催「Sunset肉フェス」出演|Bling-Bang-Bang-Born(Creepy Nuts)|[[{&icon_fa(fa fa-youtube-play)}アーカイブ>>https://youtu.be/odyiDMf0WYg?si=2UVxL77YVt9hYSng]]|
+|マクドナルドさん誕生日の着信音作成|明日には笑えるパレード(マクドナルド)||
+|Violet Fizzで突発ライブ|うっせぇわ(syudou)||
+|ズズミュージカル用にメカニックイメージの楽曲『TTS（仮名）』制作||[[{&icon_fa(fa fa-youtube-play)}アーカイブ>>https://youtu.be/8m-M0EK0ZpI?si=j0cvvu0vQ62kbLQE]]|
+|GroobyBabyCafeオープンイベント出演|115万キロのフィルム(Official髭男dism)|[[{&icon_fa(fa fa-youtube-play)}切り抜き>>https://youtu.be/1SFj06URC1A?si=gK98Oyu1Oqo-4AI_]]|
+|グルカフェで突発弾き語り|RAINBOW GIRL(いさかとなさ)|[[{&icon_fa(fa fa-youtube-play)}アーカイブ>>https://youtu.be/CS7Um369IYo?si=Fv-_4HH4wdHbhl8V]]|
+|ダミアン豆やんの結婚式にて入場曲弾き語り|Caro mio ben(トンマーゾ・ジョルダーニ)|[[{&icon_fa(fa fa-youtube-play)}アーカイブ>>https://youtu.be/3_e6yOHNPjM?si=-zsQUwrcK2fjsHGK]][[{&icon_fa(fa fa-youtube-play)}切り抜き>>https://youtu.be/Tff_MqXdRtM?si=k-SEFMIwvLRykU8u]]|
+|ミュージカル「I LOVE YOU」 ショウタ役　出演|I LOVE YOU(マクドナルド)|[[{&icon_fa(fa fa-youtube-play)}切り抜き>>https://youtu.be/U2OI0IDDvCU?si=XNMZLT4UmreMVAKV]]|
+|「シャンプロ紅白歌合戦」　1日目の白組トリで出演|unravel(TK from 凛として時雨)|[[{&icon_fa(fa fa-youtube-play)}切り抜き>>https://youtu.be/IE7GrjEpFVY?si=gx5O-GrX9Oq2234s]]|
+|ハンバーガー教　第1回集会出演|ハンバーガーの要望によりTTS（仮名）|[[{&icon_fa(fa fa-youtube-play)}切り抜き>>https://youtu.be/YjOuuIX3P3A?si=udzQYYNewluLH5Rh]]|
+|STGラジオ『Music Days』ゲスト出演|ひかり(ダミアン、日々、トウユン)||
+|GBC Summer Show出演|ひかり(ダミアン、日々、トウユン)||
+|ヨシャパテ主催『Not Lost Time』出演|ReStart(トウユン×罰下り)|[[{&icon_fa(fa fa-youtube-play)}切り抜き>>https://www.youtube.com/watch?v=EYby9uq6nH8]]|
+|Lanima Showcase Vol.1|Complex(沖原たくみ＆トウユン×罰下リ)&br()ワケ有りバァゲン(トウユン×罰下リ-編曲-)&br()I'm going to say goodbye.(トウユン×灰部理秀人)&br()ReStart(トウユン×罰下り)|[[{&icon_fa(fa fa-youtube-play)}切り抜き>>https://youtu.be/vsvYcAI7pJc?si=oQtYqQStDLGT23SQ]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+
+#endregion
+
+**エピソード
+#div(width=100px,bgcolor=#b22222:#FFF){&font(b,white,110%){　Season 1}}
+***2024年
+#region(開く,close)閉じる
+#include(トウ　ユン/エピソード1)
+
+#include(トウ　ユン/エピソード2)
+#endregion
+***2025年
+#include(トウ　ユン/エピソード3)
+
+#include(トウ　ユン/エピソード４)
+
+#include(トウ　ユン/エピソード5)
+
+#include(トウ　ユン/エピソード6)
+
+
+//
+//
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//
+//
+
+&font(#b22222){&bold(){※1行からでもOK！エピソード募集中！}}
+//26.2 シーズン2のアーカイブリンク twitch期限切れ→YouTubeに変更いたしました.tokumeiham8
+
+#region(エピソード編集用リンク,close)エピソード編集用リンク
+エピソード 4月~10月(1日目～128日目)　[[トウ　ユン/エピソード1]]
+エピソード 11月~12月(129日目～163日目)　[[トウ　ユン/エピソード2]]
+エピソード 2025/1月~4月(164日目～238日目)　[[トウ　ユン/エピソード3]]
+エピソード 5月~2026/2月(239日目～Season2 27日目)　[[トウ　ユン/エピソード４]]
+エピソード 3月~6月(28日目～107日目)　[[トウ　ユン/エピソード5]]
+エピソード 7月~月(108日目～日目)　[[トウ　ユン/エピソード6]]
+#endregion(エピソード編集用リンク)
+
+**アーカイブ
+#include(トウ　ユン/アーカイブseason1)
+
+#include(トウ　ユン/アーカイブseason2)
+**ストグラ外コラボ
+#region(open)
+#table_style(head=center:#b22222:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2024/06/17|1|[[【マーダーミステリー】ヴァンピ【PC4：レゴール/灯油】>>https://www.youtube.com/watch?v=xhWHIjwX2ic&t=16219s]]|[[Violet Fizz]]のメンバーでマーダーミステリー|
+|2024/08/13|2|GBCコラボ！ Dead by Daylightやるよ|GBCメンバーでDBD|
+|2024/09/23|3|[[ライブおつかれさまでした⇒GBCカラオケバー>>https://www.youtube.com/watch?v=irfJtO1x0Nc&t=1613s]]|GBCメンバーでカラオケバー|
+|2024/09/23|4|【#ストグラ】LoLカスタムコラボ！|複合メンバーでLoL|
+|2024/10/07|5|【#ストグラ】GBCマイクラコラボ！|GBCメンバーでマイクラ|
+|2024/11/25|6|[[ストグラ同期コラボ！Liar's Barやるぞ /w イオリ ちえり KOHAL>>https://youtu.be/gEJ8VSq96Rw?si=USORdLoCwoOWb5yZ]]|GBC同期組でLiar's Bar|
+|2024/12/16|7|[[ストグラ同期コラボ！ Buck shot Roulette やるよ！ / w 花京院ちえり ヤマトイオリ KOHAL 灯油>>https://youtu.be/KxqOsktn8-s?si=UaoH5tJIHkv5r_0n]]|GBC同期組でBuck shot Roulette|
+|2025/01/27|8|[[GBCのみんなとゲームしながら雑談！>>https://youtu.be/RKNJRNXOyHg?si=xCho0YnpJFPk3LuK]]|GBCメンバーでWest Huntn後雑談|
+|2025/02/24|9|[[ストグラLoLカスタムにおよばれしました w/おらんじ～な,天羽よつは,るなりあ,にぶぶ,Middleee,寧々丸,FOXRABBIT,天城てん Rio/>>https://youtu.be/veoBMDwiy58?si=p0V8tnt8p3INDdLu]]|複合でLoL|
+|2025/03/03|10|[[GBCでワイルズ /w ライト フルコン ろぜっくぴん>>https://youtu.be/8jZqTpeEn1Q?si=XhIzE7QjLrxVo6WX]]|GBCメンバーでモンスターハンターワイルズ|
+|2025/03/27|11|[[〖 マーダーミステリー「エイダ」〗スタン・ローデン：灯油視点>>https://youtu.be/n1eHy3EU7rU?si=7b1U1kkesfwGXy2x]]|GBCメンバーでマダミス|
+|2025/07/26|12|[[ストグラメンバーでLoL！ w/おらんじ～な るなりあ 天羽よつは 霧島ジャック>>https://www.twitch.tv/videos/2522870559]]|複合メンバーでLoL|
+|2025/08/28|13|[[ストグラGBCコラボ🎪灯油×ライトのリアルセッション【弾き語り/ギター】>>https://t.co/bFZKK538vy]]|二人でオフラインセッション|
+|2026/01/05|14|[[ストグラ同期組でミメシス！ w/KOHAL ヤマトイオリ 花京院ちえり>>https://www.twitch.tv/videos/2661755716]]|同期組でミメシス|
+|2026/01/13|15|[[らすぱら新春ゴルフ大会 #ストグラコラボ #golfit>>https://www.twitch.tv/videos/2668878055]]|らすぱらメンバーでgolfit|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,612 @@
+*&font(25,#d94dff){&icon_fa(fa fa-user)} プロフィール
+&image(S2_Utako.webp,y=400)
+#region(Season1)&b(){Season1}
+&image(1737583750602.png,x=300)
+#endregion(Season1)
+
+//ここからプロフィール
+//誕生日のソースはDay31の04:49:00
+#table_filter(){世界線=show,Season1=hide,Season2=show}
+#table_style(head=#7F1184:#fff){名前=#eee:b:center}
+|~シーズン|~Season1|~Season2|
+|~名前|>|&ruby(ひろば){広場}　&ruby(うたこ){うた子}|
+|~出身地|>|　|
+|~誕生日|>|2025年1月8日|
+|~転入日|2025年1月22日 (&countup(2025/1/22,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|&small(){キャバクラ} [[GoodNight]] &small(){キャスト&space()※jobなし}&br()&small(){花屋} [[ColorFlora]] &small(){(2025/2/4~)}&br()&small(){メイドカフェ} [[PARADISE LOST]] &small(){(2025/3/30~)}&br()&openclose2(show=※秘匿情報 ){&small(){ゴシップ記者} [[文秋館]]&small(){(2025/7/2~)}}|&co(){ここからSeason2➡️}&small(){メイドカフェ} [[LastJump in ParadiseLost]] &small(){(2026/1/1~)}|
+|~体験|&openclose2(show=一覧▼){&br()&small(){飲食店} [[海上レストラン>>Urashima]] &small(){(2025/1/29~)}&br()&small(){メカニック} [[PYC]] &small(){(2025/2/1~2025/2/25)}&br()&small(){メカニック} [[BMC>>Bear Moon Custom]] &small(){(2025/2/14) 禊体験}&br()　}|　|
+|~ライセンス|&small(){白市民パス / ヘリ免許}|　|
+|~電話番号|　|　|
+|~TwiX|>|@utakokawaii|
+|~プレイヤー|>|歌広場 淳（ゴールデンボンバー）|
+|~告知等|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/junjunmjgirly?s=21&t=b89A-5gzkZraBLjrHHv6CQ]] / &font(#CF2E92){&icon_fa(fa-brands fa-instagram)} [[&font(#DC2E74){Instagram}>>https://www.instagram.com/uta830jun?igsh=MWE2am1lOHBkcHVp]]|
+|~配信場所|>|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/utahiro0830]] / &font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@utahirobajun0830?si=0l6d7UMB-TovSV2a]]|
+|~ハッシュタグ|>|[[&font(#696969){#うたげー}>>https://x.com/hashtag/うたげー?src=hashtag_click&f=live]]|
+
+//|~ガイドライン|[[ガイドライン>>ここにガイドラインのURLを入力]]|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+#region(目次を開く)
+#size(90%){{{#contents(fromhere=true,level=2)}}}
+#endregion
+
+&small(){&font(b,#d9b3ff){エピソード・詳細情報など編集随時募集中&br()本人視点でしか知り得ない情報のみ記載をお願いします。}}
+*&font(25,#d94dff){&icon_fa(fa fa-list)} 基本情報
+#table_style(hover=#fff:#eb90ff)
+>別の世界では実体のない存在だった。&br()ひょんなことから生身の身体を手に入れこの街にやってきた。 
+***&underdot(#d9b3ff,3px){&space()目的&space()}
+#table_style(hover=#fff:#eb90ff)
+・[[Day1>https://youtu.be/fGe1zQRPkvo?si=d_gp4eAdOeVi5HNX&t=2723]]では以下のように述べた。
+|BGCOLOR(#fff):&b(){たくさん友達を作りに来た。人間というものを知るために。&br()たくさんの男の人と仲良くなりたい。男大好き。} |
+・Day2以降では以下のように語るようになる。
+#table_style(hover=#fff:#eb90ff)
+|BGCOLOR(#fff):&b(){私はこの街を愛で支配しに来た。}　　  　　　　　　　　　　|
+・この街でやりたいことを住人から聞かれることが多く、説明できるように自己分析を行った。町で車にひかれそうになったとき怖い思いをしたため、人に怖い思いをするのもさせるのも嫌だ。その結果、「この危ない街の皆を説得したい」と考えた。[[(該当アーカイブ)>https://youtu.be/EbstZjw2Lww?si=Cva1WPu2hQxst3Gx&t=3346]]
+・また、生意気な説明だと潰される可能性があるため、「こいつ頭おかしいぞ」と言われるぐらいの説明が良いと考え、「説得したい」を言い換えて「愛で支配」と伝えるようにした。[[(該当アーカイブ)>https://youtu.be/EbstZjw2Lww?si=dxFROTk000p9MCOc&t=6168]]
+
+***&underdot(#d9b3ff,3px){&space()特徴・性格&space()}
+#table_style(hover=#fff:#eb90ff)
+|BGCOLOR(#fff):&b(){・疑い深い性格で疑心暗鬼に陥ることもしばしば&br()・下ネタに絶対の耐性があり住民が困惑することも&br()・好奇心旺盛で気になることはとことん突き詰めたい}|
+//
+#co{↓コピー用
+&br()書き足したい情報
+↑『&br()』で改行ができます 
+***&underdot(#d9b3ff,3px){&space()タイトル&space()}
+|BGCOLOR(#fff):書き足したい情報|
+}
+***&underdot(#d9b3ff,3px){&space()補足情報&space()}
+#region(開く)閉じる
+・ゴールデンボンバー 20周年アリーナライブ「新作-shinsaku-」の演劇中のキャラクター、VTuber。
+#endregion
+
+*&font(25,#d94dff){&icon_fa(fa fa-users)} 街の住人
+&small(){&font(b,#d9b3ff){&icon_fa(fa fa-pencil fa-shake)&space()一行からでもエピソード・情報など箇条書きも大歓迎！&br()&space(5)本人視点で知り得た情報のみ記載をお願い致します。}}
+***&font(18,red){&icon_fa(fa fa-hospital)}&space(2)救急隊
+#region(開く)&b(){閉じる}
+・&b(){[[ももみ>>ももみ　マルフォイ]]}
+うた子がてんてーと呼び慕い、この街に来た日から親切にしてくれる優しいお医者さん。いつもうた子のお話を聞いてくれる。
+・&b(){[[橘　かげまる]]}
+救急隊の一人で、病院で目覚め途方に暮れるうた子に優しく言葉をかけてくれた人物。
+・&b(){[[切間　てつお]]}
+右も左も分からない状態のうた子に言葉を選びながらサポートしてくれた。彼のことをてっちゃんと呼んでいる。
+・&b(){[[イナ　イロハ]]}
+お魚のお面を付けたメイド服の人。うた子が色々と&small(){(設定を)}整えている間そばで見守ってくれていた。
+・&b(){[[鳥野　ぎん]]}
+初日からお世話になっている。倒れた際は救助に駆けつけてもらったりと何かと交流がある人物。
+・&b(){[[天羽　よつは]]}
+救急隊員でありお花屋さんも兼業している女性。店番Dayで初めて一緒にお仕事をした。
+
+#endregion(救急隊)
+//------------------------------------------------------
+***&font(18,blue){&icon_fa(fa fa-shield-halved)}&space(2)ロスサントス警察
+#region(開く)&b(){閉じる}
+・&b(){[[竹井　勝痔]]}
+ある日、一輪車を運転中にパトカーから用もなく「とまれー！」と声をかけられる。それ以降、彼の破天荒なキャラクターに振り回されつつも、気に入っている。
+
+#endregion(ロスサントス警察)
+//------------------------------------------------------
+***&font(18,green){&icon_fa(fa fa-user)}&space(2)市民
+#region(開く)&b(){閉じる}
+・&b(){[[だん市長補佐]]}
+初日にうた子が困っていると聞きつけ病院で設定を手伝ってくれた。
+・&b(){[[渡戸　リー]]}
+レンさんに紹介してもらった山の神。チェンソーや花火を快くくれた優しい人。
+・&b(){[[大　川]]}
+普通車免許講習を担当してくれた。相談事に関して的確にわかりやすくアドバイスをくれる頼れる人。先生。うた子の心の中にはイマジナリー大川さんがいる。
+#co{現状エピソードがない為非公開とします
+・&b(){[[青梅　つばめ]]}
+
+・&b(){[[香月　ろぎあ]]}
+
+・&b(){[[淀川　てるみ]]}
+
+・&b(){[[フグ田　ナチ]]}
+}
+#hr(height=2,color=#ece4f3)
+//
+&font(&b,18px){【 [[PYC]] 】}
+・&b(){[[ルウ　ギャラクティカ]]}
+[[PYC]]の社長。
+#hr(height=2,color=#ece4f3)
+//
+&font(&b,18px){【 [[ColorFlora]] 】}
+・&b(){[[御花　はな]]}
+店長。まだ体験2日目のうた子を正社員にならないかと誘ってくれた。
+・&b(){[[久川　たんぽぽ]]}
+同僚の女の子。花屋開店以来の新入社員の同期で仲良くしてくれている。
+//・&b(){[[えびな　ヨネ]]}
+//
+#hr(height=2,color=#ece4f3)
+//
+&font(&b,18px){【 [[BMC]] 】}
+・&b(){[[にし　のん]]}
+Day4にて、起きた直後ににしのんから「こらぁ！」と関西弁で怒鳴られながら追いかけられたため、恐怖を感じている。[[亀山 HERO>>焼野原　ひろし]]の一派に怯えていた最中のため、にしのんが彼の手先だと思い逃げた。
+Day16にて[[ColorFlora]] の店員として勤務中に、客として訪れたにしのんを追い出すために100兆円の請求をしてしまった。[[御花　はな]]の説得の末、謝罪に向かい、Day17に禊としてBMC一日体験をすることになった。
+#hr(height=2,color=#ece4f3)
+//
+&font(&b,18px){【 [[PARADISE LOST]] 】}
+・&b(){[[豆乳　ちゃんもも]]}
+PARADISE LOSTの店長。
+//⚠️豆乳ちゃんももがギャングのボスであるということを本人が知っているか分からなかった為、こちらに記載しております。今後その他の方に移動するかどうかはお任せします
+//
+#hr(height=2,color=#ece4f3)
+&font(&b,18px){【 [[BJローン]] 】}
+・&b(){[[三否亭　四五六確]]}
+元[[ALLIN]]構成員。
+//
+#hr(height=2,color=#ece4f3)
+#endregion(市民)
+//------------------------------------------------------
+***&font(18,purple){&icon_fa(fa fa-question)}&space(2)その他
+#region(開く)&space(2)&b(){[[ギャング]]や黒市民・謎多き人物など}
+
+&font(&b,18px){【 [[Goodbye Company・GoodbyeCircus>>GoodbyeCircus]] 】}
+・&b(){[[亀山 HERO>>焼野原　ひろし]]}
+初心者の時に500万円くれた人。亀山一派の長だと思い逃げ惑っていたが、(4日目にして)うた子の勘違いだった事が判明した。
+・&b(){[[トウ　ユン]]}
+初心者の時に思い入れのある車をくれた人。その後も街案内をしてくれ色々優しく教えてくれた。紆余曲折ありトウユンは"黒"だと知るが、｢色で決めない｣とうた子の信用している人の一人。
+・&b(){[[帝　レン]]}
+キャバクラ支配人。亀山一派の事を相談に乗ってくれた人。しかしのちにレンも亀山と同じ組織にいる事を知ってしまう。後にうた子をGBCに勧誘。
+・&b(){[[ハン　バーガー]]}
+この街に愛を広めに来たという、うた子と同じような境遇の人。
+・&b(){[[マクドナルド>>ライトスターボーイ]]}
+GBCについて話していた時にハンバーガーが呼び出してくれた。話していたところ人の本質は山で出ると言い出し、みんなで登山に行くことになる。
+・&b(){[[えだまめもん>>えだまめもん]]}
+うた子の友達。日本のあるキャラクターに声が似ていることに興味を持ち遊び始めると、運命的に面白いことがたくさん起こり、よく遊ぶようになった。チンソリーヌというキャバクラで名乗っていた別名から「チン」と呼び親しんでいる。
+#hr(height=2,color=#ece4f3)
+//
+&font(&b,18px){【 [[餡ブレラ]] 】}
+・&b(){[[アルフォート　ウェスカー]]}
+散歩の途中、餡ブレラのアジト前とは知らずに休憩をしてたところ構成員に囲まれてしまい、そこで出会いを果たす。[[キャバクラ>>GoodNight]]で進路について相談にのってもらったことがある。
+#hr(height=2,color=#ece4f3)
+//
+&font(&b,18px){【 [[MOZU]] 】}
+・&b(){[[ヴァン　ダーマー]]}
+[[PYC]]で接客した際に魂を貫通する話題を振られた。[[キャバクラ>>GoodNight]]で進路について相談にのってもらったことがある。
+#hr(height=2,color=#ece4f3)
+//
+#co{
+&font(&b,18px){【 [[Trickster]] 】}
+・&b(){[[ジョーカー>>半沢　直ふぃ]]}
+//
+#hr(height=2,color=#ece4f3)
+//
+&font(&b,18px){【 [[NO LIMIT]] 】}
+・&b(){[[四皇　シャンクズ]]}
+
+#hr(height=2,color=#ece4f3)
+}
+//
+&font(&b,18px){【 [[RqteL]] 】}
+・&b(){[[御薬　キメ太郎]]}
+メイドカフェの元同僚。情報共有同盟を結び、北の海岸から街まで歩きながら数時間悩みなどを話して仲良くなった。メイドカフェオープンイベントではキメ太郎に誘われて一緒に歌を披露した。うた子曰く、カッコ良さとカッコ悪さを反復横跳びしている。100日目までに彼女が居なかったら付き合う約束をした。
+#co{現状詳細なエピソードがない為非公開とします
+・&b(){[[五十嵐　えいむ]]}
+・&b(){[[みこだ　よう]]}
+・&b(){[[三島　みつー]]}
+元[[ALLIN]]の  構成員。
+}
+#hr(height=2,color=#ece4f3)
+//
+&font(&b,18px){【 [[hantasma]] 】}
+・&b(){[[アドミゲス・ハン]]}
+危ない香りのいい男。犯罪の人質にされた
+#hr(height=2,color=#ece4f3)
+//
+&font(&b,18px){【 半グレ 】}
+・&b(){[[アヌギフ　白川]]}
+彼がレギオンで命の危機に晒されているところ、偶然居合わせて命を救う。それ以降、彼のブースティング情報漏洩問題のことを知り、アドバイスなどを行う。白川がその禊として市長選に立候補することになり、うた子は応援演説を担当することした。アヌギフ白川という「人が変わる面白い瞬間」を見るために手伝いたいとのこと。
+//・&b(){[[小峯　玲]]}
+
+#endregion(？)
+
+#co{↓コピー用
+&font(&b,18px){【 [[組織名など強調したい事項]] 】}
+
+・&b(){[[苗字　名前]]}
+❗️記載したい対象キャラクターのストグラWiki一番上にある名前をコピーして[[]]内に貼り付けると、公開後そのキャラクターのWikiページに飛ぶことが出来ます。
+❗️あだ名で表記したい場合は、[[あだ名>>苗字　名前]]と、>>の後ろに正式名称を書くと同じようにリンク先に繋がります。
+}
+//
+*&font(25,#d94dff){&icon_fa(fa-solid fas fa-chess-queen)} クローゼット
+***&underdot(#d9b3ff,3px){&space()私服&space()}
+#region(開く)&b(){閉じる}
+// スマホでの視認性向上のため、一段3衣装としています。衣装数が増えてきたらレイアウト要検討
+
+#table_style(head=center:#fff:#d94dff)
+|&blankimg(普段着.jpeg,y=215,x=100)|&blankimg(レッツゴーハニー同盟.jpg,y=215,x=100)|&blankimg(私服-スーツ.jpg,y=215,x=100)|
+|~&size(10){普段着}|~&size(10){レッツゴーハニー同盟}|~&size(10){スーツ}|
+
+#table_style(head=center:#fff:#d94dff)
+|&blankimg(チンおそろ.jpg,y=215,x=100)|&blankimg(怪獣.jpg,y=215,x=100)|
+|~&size(10){チンおそろ}|~&size(10){怪獣}|
+
+#endregion(普段着)
+//
+***&underdot(#d9b3ff,3px){&space()仕事着&space()}
+#region(開く)&b(){閉じる}
+#table_style(head=center:#fff:#d94dff)
+|&blankimg(仕事着_海上レストラン.jpeg,y=215,x=100)|&blankimg(仕事着_PYC.jpeg,y=215,x=100)|&blankimg(Color Flora.jpg,y=215,x=100)|&blankimg(BMC.jpg,y=215,x=100)|
+|~&size(10){海上レストラン (体験)}|~&size(10){PYC (体験)}|~&size(10){ColorFlora}|~&size(10){BMC(体験)}|
+
+#endregion(仕事着)
+//
+***&underdot(#d9b3ff,3px){&space()イベント関連&space()}
+#region(開く)&b(){閉じる}
+#table_style(head=center:#fff:#d94dff)
+|&blankimg(私服_ハンバーガー教.jpg,y=215,x=100)|
+|~&size(10){ハンバーガー教}|
+
+#endregion(イベント関連)
+
+#co{
+|&blankimg(画像名,y=215,x=100)|
+|~&size(10){タイトル}|
+}
+//------------------------------------------------------
+*&font(25,#d94dff){&icon_fa(fa fa-comment)} 主要なエピソード
+**亀山事変
+#region(開く)&b(){閉じる}
+***時期
+Day2～Day4
+
+&font(b,16px,#444){主な登場人物}
+|[[亀山HERO>焼野原　ひろし]] ／ [[トウ　ユン]] ／ [[帝　レン]]&br()[[ももみ>>ももみ　マルフォイ]] ／ [[渡戸　リー]]|
+***概要
+様々な偶然から亀山HEROのことを街を牛耳る神と勘違いし、彼らの仲間を「亀山一派」と呼んで、チェーンソーで殺そうとした一連の出来事。ももみにより誤解を解かれ収束。
+***詳細
+#region(開く)
+Day2でのトウユンとの出会いからが発端。トウユンは街を歩く初心者マークのうた子を気にかけて話しかけてくれた。うた子の「この街を愛で支配しに来た」という目的を聞き「運命を感じた」と言い、初心者の頃に使っていた思い入れのある車(ぷよぷよ豪)をプレゼントした。初対面でナンパのような声をかけられたことと、この街に来て物の価値の分からないうた子は、警戒度MAXとなる。そこにトウユンと同じ会社所属と名乗る[[亀山HERO>焼野原　ひろし]]が現れ、うた子に500万円をID送金した。さらにそこに、以下のような出来事が立て続けに起こる。
+-亀山について独り言を言っているタイミングでちょうど電話がかかってくいる
+-亀山とトウユンが話していると[[鷹　シエール]]がたまたま通りがかる
+-トウユンと話していると帝レンがたまたま通りがかる
+-[[ハン　バーガー]]からTwixで「見つけたわよ！」というリプライが届く
+このように亀山([[GBC>GoodByeCircus]])との関連人物と立て続けに出会ったため、監視され狙われているかのような恐怖を抱く。早急に貰った500万円を返す必要があると考え始めた。
+これ以降、被害妄想が加速する。例えば、誰かが動かしていたラジコンカーが亀山一派による「爆弾付きミニカー」、[[鬼桃　ぷぅ]]の「きとう」は「亀頭」で亀山一派、亀山と相互フォローの人物は全員亀山一派…といった勘違いをした。
+極めつけは[[Day4>https://www.twitch.tv/videos/2365889402?t=00h18m21s]]にて[[橘　かげまる]]から「市長は街のことをすべて把握している」と聞いたことをきっかけに亀山と山下ひろしは同一人物で、自分を監視していると考え始めてしまった。そこに[[Day4>https://www.twitch.tv/videos/2365889402?t=00h43m49s]]にて[[帝　レン]]が面白がって「ヒロシステム」のことを教えて、さらに被害妄想が加速する。そして亀山は神であり「神をばらばらにするためにはチェーンソーが必要」と考えた。帝レンの紹介で山の神[[渡戸　リー]]からチェーンソーを賜った。（ちなみにチェーンソーの元ネタは恐らく魔界塔士Sa・Ga）
+同じく[[Day4>https://www.twitch.tv/videos/2365889402?t=02h40m17s]]にて、初日にお世話になったももみに助けを求めに行くと、心配されて真実を知らされる。亀山はGBC所属の犯罪者ではあるが、ボスはマクドナルドで、亀山は下っ端にすぎない。亀山と市長が一緒に居たこともあり、別の人物である。親身に助けてくれた帝レンもGBCの犯罪者である。うた子はこれらの説明を受け入れ、亀山事変は一旦完結。それ以降もGBCのメンバー達とは仲良くしている。
+#endregion(亀山事変：詳細)
+#endregion(亀山事変)
+//------------------------------------------------------
+**GBCからの勧誘と辞退
+#region(開く)&b(){閉じる}
+***時期
+Day22、23、34
+
+&font(b,16px,#444){主な登場人物}
+|[[帝　レン]]|
+***概要
+帝レンからGBC(GoodByeCompany)に勧誘されたが、回答を保留し、最終的に辞退した。
+***詳細
+#region(開く)
+うた子は、街に来てからずっと「この街のことを知りたい」と思っていた。具体的には、どれだけの人がギャングで、どういうことをしていて、この街で危ないことは何なのか…ということだ。それらを全て知った上で、自分の道を選びたいと考えた。しかし、白市民で黒いことを知れる範囲には限界があり、葛藤していた。
+亀山事変から何かと縁があった[[帝　レン]]にそれについて[[Day22>https://youtu.be/uY_Q21FABYA?si=NtW4NAVXalCs_In9&t=13521]]で相談した。レンは、うた子がメカニックと他ギャングに所属せず、花屋のままの状態であれば、黒についてもある程度は教えれると提案した。しかし、うた子はまず[[餡ブレラ]]の[[ボス>アルフォート　ウェスカー]]に、ギャングに入らない前提を納得してもらった上で、話を聞かせてもらうつもりだと答えた。
+翌日([[Day23>https://youtu.be/Vx4_63NYhqY?si=cURykEkFEniLz7d1&t=20100]])、うた子がボスラッシュを経験した後に改めてレンから話がある。その際、レンは正式にGoodByeCompanyに勧誘した。帝レンは亀山HEROと相談し、うた子が流されて餡ブレラに加入してしまうより、自分たちのもとに手繰り寄せたいと考えたのだ。うた子は、様々な組織のことを知った上で選びたいと伝え、回答を保留した。また、内心「昨日言ってほしかった」「この二日のレンさんの心情の変化が気になる」など、複雑な思いがあったようだ。
+結果として[[Day34>https://www.twitch.tv/videos/2398533733?t=03h28m00s]]で勧誘を辞退することになる。レンには「皆とうまくやっていく自信を無くしてしまったため」と答えた。うた子の真意は不明だが、直近で自分が関わることで発生する観測者の「風」について悩んでいたため、これまでGBCのメンバー達を長話に付き合わせてしまった負い目が原因ではないかと推測される。うた子は、レンと別れた後に「寂しい」「GBCの皆と一緒に居ると思っていた」「GBCとは家族とならなかったのではなく、なれなかった」と独白した。
+#endregion(GBCからの勧誘と辞退：詳細)
+#endregion(GBCからの勧誘と辞退)
+//------------------------------------------------------
+**御薬キメ太郎からの告白
+&small(){&font(b,#d9b3ff){&icon_fa(fa fa-pencil fa-shake)&space()一行からでも追記・修正歓迎！}}
+#region(開く)&b(){閉じる}
+***時期
+Season1～Season2(現在進行中)
+告白は[[Season2 Day6>https://www.twitch.tv/videos/2654936612?t=3h17m27s]]
+
+&font(b,16px,#444){主な登場人物}
+|[[御薬　キメ太郎]]|
+***概要
+Season1から仲の良かった御薬キメ太郎から告白される。
+// もともと「告白を承諾した」ニュアンスで記載していたが、場の雰囲気に呑まれたとも見て取れるのと、魂も「承諾したことになってるんだ」と言っていたので、「告白した」という事実のみに留めました。
+***詳細
+#region(開く)
+****1. 馴れ初め
+うた子とキメ太郎は、ロスサントスの街にほぼ同時期に降り立った「同期」だった。
+しかし、うた子は亀山事変の被害妄想で人と距離を置きがちで、心の扉を閉ざしていた。
+だからこそ、二人が本当の意味で出会ったのは、[[Day30>https://youtu.be/HKEA2yXmPb4?si=svGstgCAzgJMPBt_&t=3541]]――キメ太郎が初心者マークを外し、歌声を響かせたあの瞬間からだった。それ以降、少しずつ彼と行動を共にするようになっていく。
+同じ頃、二人は共にメイド喫茶「[[PARADISE LOST]]」の扉をくぐり、スタッフとして同じ時間を共有した。
+さらに、[[GoodbyeCircus]]からの同時期の勧誘という運命的な接点も生まれ、「黒」の情報を交換しながら、互いの心の距離は縮まっていった。
+
+****2. うた子の恋心のきっかけ
+&bold(){1. おバカで、眩しいほどの明るさ}
+「黒」の情報交換、デュエットライブ、自宅での夜更けの相談、素材集め、街をぶらぶらするだけの散歩――
+長い時間を共に過ごすうち、キメ太郎の「ちょっとおバカで、でも全力で楽しむ」性格に、うた子は何度も声を上げて笑った。
+
+&bold(){2. 聞き上手}
+うた子の話は時に情報過多で、脱線し、ポエムになり、相手を混乱させる。
+それでもキメ太郎は決して笑わず、途中で遮らず、ただ静かに最後まで聞いてくれる。
+聞き上手なキメ太郎は、Day39のうた子の悩みを「GBCの筒抜け文化が苦手」「過去の悪い印象が共有されていると思い込んでいる」と的確に分析して見せた。
+
+&bold(){3. 良き相談相手}
+Day43でうた子は「白で浮いているからギャングに入るかも」と呟く。
+キメ太郎は「黒や白は置いといて、この人と仕事をしたいと思ったらそうすべき」と返答した。
+「自分の物語の主人公は、自分じゃなくてもいい」――Season2でうた子が辿り着いた境地は、もしかしたら、キメ太郎の影響もあるのかもしれない。
+
+こうして、うた子はキメ太郎を「好き」だと自覚した。
+Season2 Day4では「マジLOVE1000%」と表現するほどに。
+そして[[RqteL]]解散で元気を失ったキメ太郎を想い、
+うた子は決意する――
+彼を、笑わせるために、ギャングを作ろうと。
+それが、「奴会（ガイズファミリー）」の始まりだった。
+
+****3. キメ太郎からの告白（[[Season2 Day6>https://www.twitch.tv/videos/2654936612?t=3h17m27s]]）
+街の犯罪のルールが大きく変わったSeason2。
+犯罪の情報交換のためにうた子とキメ太郎が街を歩いていると[[アドミゲス　ハン]]に捕まり、銀行強盗の人質になってしまう。
+警察に救出された後、警察([[赤城　煉]]、[[日之　ぱちお]])たちの茶化しに対してキメ太郎はテンションが上がり、警察二人が見守る中、うた子に告白した。
+#table_style(hover=#fff:#eb90ff)
+|BGCOLOR(#fff):&b(){ここで気持ちを伝えたいと思います&br()転送される前からうた子さんのことが好きでした&br()僕と結婚を前提にお付き合いしてください！} |
+うた子はその場の流れもあり一旦「…はい。"はい"か…？」と返答。
+キメ太郎は返答を聞いて大喜びするが、その後「出来ればそういう雰囲気にしてほしいでござる。拙者も何でもいいわけではござらんので…」と伝えた。
+#endregion(御薬キメ太郎からの告白：詳細)
+#endregion(御薬キメ太郎からの告白)
+
+*&font(25,#d94dff){&icon_fa(fa fa-comment-dots)} 日別エピソード
+**Season1
+&small(){編集ページ：[[Season1>広場　うた子/エピソード2025-1]]}
+&small(){&font(b,#d9b3ff){&icon_fa(fa fa-pencil fa-fade)&space()一行からでもエピソード・うた子の行動や出来事の箇条書き大歓迎！}}
+//
+#include(広場　うた子/エピソード2025-1)
+**Season2
+&small(){編集ページ：[[Season2>広場　うた子/Season2]]}
+#include(広場　うた子/Season2)
+　&font(b,9px,#FF0000){※ストグラWikiは有志の方で成り立っている為、文章の書き換えや大幅な変更を希望する際は、必ずその前に編集された方へ相談するようお願い致します。[[編集相談所]]の活用も推奨しております。}
+
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+*&font(25,#d94dff){&icon_fa(fa fa-refresh fa-spin)} 番外編
+**シャッフルパージデー2025
+#region(開く)
+&underdot(#d9b3ff,3px){&space()&font(b,16px,#444){概要}&space()}
+
+>[街の状態] 異常事態&br()[期間] 2025/04/01(火) 0:00 - 23:59&br()[報告] &br()　①多くの住人のポジションがシャッフルになっています。※全てではありません&br()　②一定時間だけ『してはいけないこと』が全国にアナウンスされ、違反を指摘された人には罰ゲームが発動されます。
+#right(){&size(12px){詳細▶︎[[ストグラシャッフルパージデー × 〇〇してはいけない]]}}
+
+&underdot(#d9b3ff,3px){&space()&font(b,16px,#444){SPD 広場うた子の特徴}&space()}
+・職業は警察官
+
+&underdot(#d9b3ff,3px){&space()&font(b,16px,#444){服装}&space()}
+
+#co{
+|&blankimg(画像名,y=215,x=100)|
+|~&size(10){タイトル}|
+}
+
+&underdot(#d9b3ff,3px){&space()&font(b,16px,#444){エピソード・思い出}&space()}
+・
+・
+・
+//住民との交流や事件対応内容など
+#endregion
+
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+*&font(25,#6441A4){&icon_fa(fa-brands fa-twitch)} アーカイブ
+&small(){※2025年4月19日以降、twitchのアーカイブの保存上限が100時間となったことを受けて、順次アーカイブをYouTubeにUPしている。}
+
+[[&font(#d9b3ff){&bold(){&icon_fa(fa fa-solid fa-youtube-play)&space()アーカイブ再生リストはこちら}}>>https://youtube.com/playlist?list=PLbpP8raRVDO1k5zxZo01PUKFtvx-CfUKb&si=inhPHWi0mZTexiox]]&font(#d9b3ff){&icon_fa(fa fa-external-link)}
+**2025年
+#region(1月)#div(width=343px,bgcolor=#eee8fc){&space()&font(16px,b){1月}}
+#table_filter(){配信日=show,#=show,twitch=show,YouTube=show,備考=show}
+#table_style(head=center:#d9b3ff){配信日=right,#=center}
+|~配信日|~#|~twitch|~YouTube|~備考|h
+|1/22|🔰1|[[ストグラ『広場うた子』>>https://www.twitch.tv/videos/2360387927]]|[[【ストグラ】広場うた子 Day1【アーカイブ】>https://youtu.be/fGe1zQRPkvo?si=wCn0_mVPr_Bu3AyW]]||
+|1/23|🔰2|[[ストグラ『広場うた子』Day2>>https://www.twitch.tv/videos/2361258586]]|[[【ストグラ】広場うた子 Day2【アーカイブ】>https://youtu.be/EbstZjw2Lww?si=HVwooG75A2LJNnnU]]||
+|1/25|🔰3|[[ストグラ『広場うた子』Day3>>https://www.twitch.tv/videos/2363141844]]|[[【ストグラ】広場うた子 Day3【アーカイブ】>https://youtu.be/nR6CChNkOYc?si=NkLaFBw-Jkbq0han]]||
+|1/28|🔰4|[[ストグラ『広場うた子』Day4>>https://www.twitch.tv/videos/2365889402]]|[[【ストグラ】広場うた子 Day4【アーカイブ】>https://youtu.be/CrLPdHDNnCM?si=P59esVmx2F-fRepc]]||
+|1/29|🔰5|[[ストグラ『広場うた子』Day5>>https://www.twitch.tv/videos/2366780889]]|[[【ストグラ】広場うた子 Day5【アーカイブ】>https://youtu.be/lQv_IvPoX_0?si=nDeTW9Eb1O0Nht8T]]||
+|1/30|🔰6|[[ストグラ『広場うた子』Day6>>https://www.twitch.tv/videos/2367636542]]|[[【ストグラ】広場うた子 Day6【アーカイブ】>https://youtu.be/KfwlNG70p-A?si=NFgxMPSyQayIlkd3]]|免許証、白市民パス取得、初めて車を購入|
+|1/31|🔰7|[[ストグラ『広場うた子』Day7>>https://www.twitch.tv/videos/2368509824]]|[[【ストグラ】広場うた子 Day7【アーカイブ】>https://youtu.be/0fZU6XWxTxA?si=7MrHRe7c-qno_72e]]|[[花屋>>ColorFlora]]で職業体験|
+#table_sorter{even=#F6F7F8,odd=fff}
+#endregion(1月)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+#region(2月)#div(width=343px,bgcolor=#eee8fc){&space()&font(16px,b){2月}}
+#table_filter(){配信日=show,#=show,twitch=show,YouTube=show,備考=show}
+#table_style(head=center:#d9b3ff){配信日=right,#=center}
+|~配信日|~#|~twitch|~YouTube|~備考|h
+|2/1|🔰8|[[ストグラ『広場うた子』Day8>>https://www.twitch.tv/videos/2369456263]]|[[【ストグラ】広場うた子 Day8【アーカイブ】>https://youtu.be/Xs6dMyPvPUs?si=aSbHLRQuvLXotmqd]]|[[PYC>>PYC]]でメカニック体験|
+|2/2|🔰9|[[ストグラ『広場うた子』Day9>>https://www.twitch.tv/videos/2370352358]]|[[【ストグラ】広場うた子 Day9【アーカイブ】>https://youtu.be/CUpwxXi3fu8?si=wBU13w5D_EK4eDHO]]||
+|2/4|🔰10|[[ストグラ『広場うた子』Day10>>https://www.twitch.tv/videos/2372162869]]|[[【ストグラ】広場うた子 Day10【アーカイブ】>https://youtu.be/9hHfdVUSABU?si=5MSlnfPGGyYBvLxB]]||
+|2/5|🔰11|[[ストグラ『広場うた子』Day11>>https://www.twitch.tv/videos/2373034828]]|[[【ストグラ】広場うた子 Day11【アーカイブ】>https://youtu.be/3hCQ8DnUuFU?si=OZfYMgq6EYEllQ1I]]||
+|2/8|🔰12|[[ストグラ『広場うた子』Day12>>https://www.twitch.tv/videos/2375657289]]|[[【ストグラ】広場うた子 Day12【アーカイブ】>https://youtu.be/iLD2MXxcHTU?si=I_kxTtmlyTOLhA-x]]||
+|2/9|🔰13|[[ストグラ『広場うた子』Day13>>https://www.twitch.tv/videos/2376598352]]|[[【ストグラ】広場うた子 Day13【アーカイブ】>https://youtu.be/0-DbZ1UR37Y?si=D6oVN2VlHEKV1g6O]]||
+|2/11|🔰14|[[ストグラ『広場うた子』Day14>>https://www.twitch.tv/videos/2378283808]]|[[【ストグラ】広場うた子 Day14【アーカイブ】>https://youtu.be/jQqw5xdlJb8?si=4vS905i8Y9DJ001G]]||
+|2/12|15|[[ストグラ『広場うた子』Day15>>https://www.twitch.tv/videos/2379124801]]|[[【ストグラ】広場うた子 Day15【アーカイブ】>https://youtu.be/rq0CQbagoTQ?si=J7hMgqjSEiMVApKm]]||
+|2/13|16|[[ストグラ『広場うた子』Day16>https://www.twitch.tv/videos/2379995367]]|[[【ストグラ】広場うた子 Day16【アーカイブ】>https://youtu.be/F6gBzUXITOQ?si=dGATMFxRmYDUBQYQ]]||
+|2/14|17|[[ストグラ『広場うた子』Day17>>https://www.twitch.tv/videos/2380848319]]|[[【ストグラ】広場うた子 Day17【アーカイブ】>https://youtu.be/y5k8J9mLLhs?si=YZRF_kXI5Zjvv1qZ]]|[[BMC>Bear Moon Custom]]禊体験|
+|2/15|18|[[ストグラ『広場うた子』Day18>https://www.twitch.tv/videos/2381721037]]|[[【ストグラ】広場うた子 Day18【アーカイブ】>https://youtu.be/SV1DTF3sQcE?si=uhKPvGD7YUI7pnYy]]||
+|2/16|19|[[ストグラ『広場うた子』Day19>https://www.twitch.tv/videos/2382708088]]|[[【ストグラ】広場うた子 Day19【アーカイブ】>https://youtu.be/96cAukchtng?si=Nig5FXTnzs5u4ZVW]]||
+|2/18|20|[[ストグラ『広場うた子』Day20>https://www.twitch.tv/videos/2384477944]]|[[【ストグラ】広場うた子 Day20【アーカイブ】>https://youtu.be/yAap0KUpIvw?si=fxxh8939vTsYHvO5]]||
+|2/19|21|[[ストグラ『広場うた子』Day21>https://www.twitch.tv/videos/2385359567]]|[[【ストグラ】広場うた子 Day21【アーカイブ】>https://youtu.be/Umhd3J-y6B8?si=6j4pjYPi68mbhS3s]]|[[ハンバーガー教]]のお笑いイベントに出演|
+|2/20|22|[[ストグラ『広場うた子』Day22>>https://www.twitch.tv/videos/2386320078]]|[[【ストグラ】広場うた子 Day22【アーカイブ】>https://youtu.be/uY_Q21FABYA?si=LUD0U9jLiUr9dBfj]]||
+|2/21|23|[[ストグラ『広場うた子』Day23>>https://www.twitch.tv/videos/2387103651]]|[[【ストグラ】広場うた子 Day23【アーカイブ】>https://youtu.be/Vx4_63NYhqY?si=N_w9DCznAfxb35xC]]|ボスラッシュが起こった日|
+|2/22|24|[[ストグラ『広場うた子』Day24>>https://www.twitch.tv/videos/2388076202]]|[[【ストグラ】広場うた子 Day24【アーカイブ】>https://youtu.be/AWUCbma5uiY?si=Up77Xz_B6m1t3P_d]]||
+|2/23|25|[[ストグラ『広場うた子』Day25>>https://www.twitch.tv/videos/2389051227]]|[[【ストグラ】広場うた子 Day25【アーカイブ】>https://youtu.be/0dw5NtAF70o?si=zEi0IAHn7fkAZp-T]]||
+|2/25|26|[[ストグラ『広場うた子』Day26>>https://www.twitch.tv/videos/2390756899]]|[[【ストグラ】広場うた子 Day26【アーカイブ】>https://youtu.be/kx7nIeJIDCA?si=teBdJ30v64StD91S]]||
+|2/26|27|[[ストグラ『広場うた子』Day27>>https://www.twitch.tv/videos/2391592412]]|[[【ストグラ】広場うた子 Day27【アーカイブ】>https://youtu.be/FpD4z09Ki9c?si=IUV9boWeDUt4e-wB]]||
+|2/27|28|[[ストグラ『広場うた子』Day28>>https://www.twitch.tv/videos/2392403847]]|[[【ストグラ】広場うた子 Day28【アーカイブ】>https://youtu.be/3C7HhHhBtf4?si=Y_SIio_qsfWZ0JiV]]||
+|2/28|29|[[ストグラ『広場うた子』Day29>>https://www.twitch.tv/videos/2393281368]]|[[【ストグラ】広場うた子 Day29【アーカイブ】>https://youtu.be/HM5nDPiFBM0?si=QZUwy4IuqC4Esapr]]||
+#table_sorter{even=#F6F7F8,odd=fff}
+#endregion(25-2月)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+#region(3月)#div(width=343px,bgcolor=#eee8fc){&space()&font(16px,b){3月}}
+#table_filter(){配信日=show,#=show,twitch=show,YouTube=show,備考=show}
+#table_style(head=center:#d9b3ff){配信日=right,#=center}
+|~配信日|~#|~twitch|~YouTube|~備考|h
+|3/1|30|[[ストグラ『広場 うた子』Day30>>https://www.twitch.tv/videos/2394212564]]|[[【ストグラ】広場うた子 Day30【アーカイブ】>https://www.youtube.com/watch?v=HKEA2yXmPb4]]||
+|3/2|31|[[ストグラ『広場 うた子』Day31>>https://www.twitch.tv/videos/2395143455]]|[[【ストグラ】広場うた子 Day31【アーカイブ】>https://www.youtube.com/watch?v=pz9K25vx1BA]]||
+|3/4|32|[[ストグラ『広場 うた子』Day32>>https://www.twitch.tv/videos/2396898494]]|||
+|3/5|33|[[ストグラ『広場 うた子』Day33>>https://www.twitch.tv/videos/2397714581]]|||
+|3/6|34|[[ストグラ『広場 うた子』Day34>>https://www.twitch.tv/videos/2398533733]]||今後起きてくるかどうかを決める重要な一日|
+|3/7|35|[[ストグラ『広場 うた子』Day35>>https://www.twitch.tv/videos/2399436443]]|||
+|3/11|36|[[ストグラ『広場 うた子』Day36>>https://www.twitch.tv/videos/2402821276]]|||
+|3/12|37|[[ストグラ『広場 うた子』Day37>>https://www.twitch.tv/videos/2403803180]]|||
+|3/13|38|[[ストグラ『広場 うた子』Day38>>https://www.twitch.tv/videos/2404540742]]|||
+|3/14|39|[[ストグラ『広場 うた子』Day39>>https://www.twitch.tv/videos/2405375798]]|||
+|3/15|40|[[ストグラ『広場 うた子』Day40>>https://www.twitch.tv/videos/2406249283]]|||
+|3/16|41|[[ストグラ『広場 うた子』Day41>>https://www.twitch.tv/videos/2407167861]]|||
+|3/18|42|[[ストグラ『広場 うた子』Day42>>https://www.twitch.tv/videos/2408872564]]|||
+|3/19|43|[[ストグラ『広場 うた子』Day43>>https://www.twitch.tv/videos/2409702829]]|||
+|3/23|44|[[ストグラ『広場 うた子』Day44>>https://www.twitch.tv/videos/2413208712]]|||
+|3/24|45|[[ストグラ『広場 うた子』Day45>>https://www.twitch.tv/videos/2414905305]]|||
+|3/26|46|[[ストグラ『広場 うた子』Day46>>https://www.twitch.tv/videos/2415735560]]|||
+|3/27|47|[[ストグラ『広場 うた子』Day47>>https://www.twitch.tv/videos/2416602777]]|||
+|3/28|48|[[ストグラ『広場 うた子』Day48>>https://www.twitch.tv/videos/2417487085]]|||
+|3/29|49|ストグラ『広場 うた子』Day49[[①>https://www.twitch.tv/videos/2418407977]] [[②>https://www.twitch.tv/videos/2418533648]]|||
+|3/30|50|[[ストグラ『広場 うた子』Day50>>https://www.twitch.tv/videos/2419341754]]|||
+|3/31|51|[[ストグラ『広場 うた子』Day51>>https://www.twitch.tv/videos/2420294870]]||エイプリルフールイベント。|
+#table_sorter{even=#F6F7F8,odd=fff}
+#endregion(25-3月)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+#region(4月)#div(width=343px,bgcolor=#eee8fc){&space()&font(16px,b){4月}}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+#table_style(head=center:#d9b3ff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|4/3|52|[[ストグラ『広場 うた子』Day52>>https://www.twitch.tv/videos/2422771941]]||
+|4/5|53|[[ストグラ『広場 うた子』Day53>>https://www.twitch.tv/videos/2424612895]]||
+|4/15|54|[[ストグラ『広場 うた子』Day54>>https://www.twitch.tv/videos/2433477684]]||
+|4/18|55|[[ストグラ『広場 うた子』Day55>>https://www.twitch.tv/videos/2436099278]]||
+|4/19|56|[[ストグラ『広場 うた子』Day56>>https://www.twitch.tv/videos/2437031461]]||
+|4/23|57|[[ストグラ『広場 うた子』Day57>>https://www.twitch.tv/videos/2440447231]]||
+|4/24|58|[[ストグラ『広場 うた子』Day58>>https://www.twitch.tv/videos/2441317717]]||
+|4/26|59|[[ストグラ『広場 うた子』Day59>>https://www.twitch.tv/videos/2443089958]]||
+|4/27|60|[[ストグラ『広場 うた子』Day60>>https://www.twitch.tv/videos/2444053654]]||
+|4/29|61|[[ストグラ『広場 うた子』Day61>>https://www.twitch.tv/videos/2445714609]]||
+#table_sorter{even=#F6F7F8,odd=fff}
+#endregion(25-4月)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+#region(5月,close)#div(width=343px,bgcolor=#eee8fc){&space()&font(16px,b){5月}}
+#areaedit()
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+#table_style(head=center:#d9b3ff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|5/1|62|[[ストグラ『広場 うた子』Day62>>https://www.twitch.tv/videos/2447392498]]||
+|5/4|63|[[ストグラ『広場 うた子』Day63>>https://www.twitch.tv/videos/2450060377]]|LIAR STAGE参加|
+|5/20|64|[[ストグラ『広場 うた子』Day64>>https://www.twitch.tv/videos/2463635025]]||
+|5/22|65|[[ストグラ『広場 うた子』Day65>>https://www.twitch.tv/videos/2465344234]]|ムーチョ文岡と初会合|
+|5/29|66|[[ストグラ『広場 うた子』Day66>>https://www.twitch.tv/videos/2471494106]]||
+#table_sorter{even=#F6F7F8,odd=fff}
+#endregion(25-5月)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+#region(6月,close)#div(width=343px,bgcolor=#eee8fc){&space()&font(16px,b){6月}}
+#areaedit()
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+#table_style(head=center:#d9b3ff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|6/6|67|[[ストグラ『広場 うた子』Day67>>https://www.twitch.tv/videos/2478564269]]||
+|6/10|68|[[ストグラ『広場 うた子』Day68>>https://www.twitch.tv/videos/2482220146]]||
+|6/15|69|[[ストグラ『広場 うた子』Day69>>https://www.twitch.tv/videos/2486727524]]|文秋館への勧誘を受け快諾|
+|6/24|70|[[ストグラ『広場 うた子』Day69>>https://www.twitch.tv/videos/2482220146]]|&small(){タイトルのDay69は元配信の表記ミス}|
+#table_sorter{even=#F6F7F8,odd=fff}
+#endregion(25-6月)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+#region(7月)#div(width=343px,bgcolor=#eee8fc){&space()&font(16px,b){7月}}
+#areaedit()
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+#table_style(head=center:#d9b3ff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|7/2|71|[[ストグラ『広場 うた子』Day71>>https://www.twitch.tv/videos/2501668131]]|ゴシップ記者正規就任|
+|7/3|72|[[ストグラ『広場 うた子』Day72>>https://www.twitch.tv/videos/2502575534]]||
+|7/6|73|[[ストグラ『広場 うた子』Day73>>https://www.twitch.tv/videos/2505208612]]||
+|7/8|74|[[ストグラ『広場 うた子』Day74>>https://www.twitch.tv/videos/2506932989]]||
+|7/9|75|[[ストグラ『広場 うた子』Day75>>https://www.twitch.tv/videos/2507680023]]||
+|7/12|76|[[ストグラ『広場 うた子』Day76>>https://www.twitch.tv/videos/2510420296]]||
+|7/13|77|[[ストグラ『広場 うた子』Day77>>https://www.twitch.tv/videos/2511314445]]|ゴシップ記事初投稿|
+|7/15|78|[[ストグラ『広場 うた子』Day78>>https://www.twitch.tv/videos/2513047147]]||
+|7/20|79|[[ストグラ『広場 うた子』Day79>>https://www.twitch.tv/videos/2517534867]]||
+|7/22|80|[[ストグラ『広場 うた子』Day80>>https://www.twitch.tv/videos/2519475354]]||
+|7/23|81|[[ストグラ『広場 うた子』Day81>>https://www.twitch.tv/videos/2520217881]]||
+|7/25|82|[[ストグラ『広場 うた子』Day82>>https://www.twitch.tv/videos/2522040997]]||
+
+//|日付|n|[[ストグラ『広場うた子』Day>>配信URL]]||
+#table_sorter{even=#F6F7F8,odd=fff}
+#areaedit(end)
+#endregion(25-6月)
+//
+#co{↓コピー用
+|日付|n|[[ストグラ『広場うた子』Day>>配信URL]]||
+
+#region(★月,open)#div(width=343px,bgcolor=#eee8fc){&space()&font(16px,b){★月}}
+#areaedit()
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+#table_style(head=center:#d9b3ff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|||||
+
+#table_sorter{even=#F6F7F8,odd=fff}
+#areaedit(end)
+#endregion(★月)
+}
+//編集しやすくなるよう5月から部分編集コマンド（# areaedit()／# areaedit(end)）を追加しました。ご活用下さい。
+*&font(25,#d94dff){&icon_fa(fa fa-video)} 動画
+**公式切り抜き動画
+#region(開く,open)
+[[&font(#d9b3ff){&bold(){&icon_fa(fa fa-solid fa-youtube-play)&space()切り抜き動画の再生リストはこちら}}>>https://youtube.com/playlist?list=PLbpP8raRVDO0V686JnmuaUo9Hz5VpQ0sA&si=Gtep1Oe3c0AMSs1m]]&font(#d9b3ff){&icon_fa(fa fa-external-link)}
+#table_filter(){投稿日=show,#=show,動画タイトル=show,備考=hide}
+#table_style(head=center:#d9b3ff){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|2025/04/07|1|[[突然知らない車に囲まれる初心者うた子>https://youtu.be/QOLi1C3KsQ4?si=4-ZCVw9QVfL3VtYC]]||
+|2025/04/09|2|[[亀山事変〜序章〜怪しい人の車で生命維持装置が発動する初心者うた子>https://youtu.be/O-q5M9FaFZI?si=PUHlSzcAWj2YqYS_]]||
+|2025/04/22|3|[[亀山事変〜第1章〜亀山一派との出会い>https://youtu.be/kTGsBOUBSeE?si=c9N-cNM_zvsuGaKL]]||
+|2025/05/26|4|[[第2章:4人目の亀山一派・帝レンとの遭遇>https://youtu.be/RasppS76wFo?si=FH5cRpzW4tVpyOyH]]||
+//|日付|5|[[タイトル>URL]]||
+#table_sorter{even=#F6F7F8,odd=fff}
+#co{⬇️コピー用
+|日付|●|[[タイトル>URL]]||
+}
+#endregion()
+
+**その他出演動画
+#region(開く,open)
+#table_filter(){投稿日=show,動画タイトル=show,説明=show}
+#table_style(head=center:#d9b3ff){配信日=right,#=center}
+|~投稿日|~動画タイトル|~説明|h
+|2026/03/13|[[サメアトラクション 注意事項>https://youtu.be/GcVUunqiv1Y?si=FifuLUSLvgF0vu7D]]|[[カテジ]]が[[捌木　たいたい]]と[[ゆちゃ　めろでぃ]]から依頼を受けて作成した動画。&br()たいたい&ゆちゃめろカップルと、こみ蔵&ユンユンミカップルのWデート企画で使われた。&br()うた子の出演は0:31頃から。撮影経緯は[[Day27の5:47頃>https://youtu.be/53gBAlWD5Wc?si=ur9BlGAOTDpwXaIF&t=347]]|
+#table_sorter{even=#F6F7F8,odd=fff}
+#endregion()
+
+//------------------------------------------------------
+*&font(25,#d94dff){&icon_fa(fas fa-edit)} 語録/用語
+#region(開く)&b(){閉じる}
+***たかし
+「確かに」の意味。
+***〇〇って何！
+夢の世界の地名などを出してしまった直後にセルフツッコミをする際の口癖。派生形として「××って誰！」も存在。
+***赤信号…(イケボ)
+赤信号を通過する際に発する言葉。特に意味はない。「青信号…(イケボ)」も存在。青信号は気分が良いらしい。
+***〇〇食べてる私かわいい
+何かを飲食する自分を見て発する言葉。人前でも気にせず自分をかわいいと褒める。
+***ポ奴
+[[Day24>https://www.twitch.tv/videos/2388076202?t=00h19m20s]]にて[[えだまめもん]]が、うた子がよくポエムのような感想を言うことを「出、出た～ｗｗｗポエム奴～ｗｗｗ」と茶化し、さらに略して「ポ奴」と呼ぶことが二人の間で浸透している
+***花が綺麗で人を感動させる理由
+花が一番硬いのは蕾のとき。だんだん開いて綺麗な状態になる。硬い状態から柔らかい、つまり一番弱い内側を人に見せて感動させている。([[Day3>https://www.twitch.tv/videos/2363141844?t=04h46m21s]])
+#endregion(語録)
+
+//------------------------------------------------------
+*&font(25,#d94dff){&icon_fa(fas fa-icons)} ストグラ関連コラボ
+***&underdot(#d9b3ff,3px){&space()リアルイベント&space()}
+#region(開く,open)#div(width=343px,bgcolor=#eee8fc){&space()&font(11px,b){“広場うた子”として出演}}
+#table_filter(){開催日=show,イベント=show,備考=show}
+#table_style(head=center:#d9b3ff){配信日=right,#=center}
+|~開催日|イベント|~備考|h
+|2025/04/13&br()（DAY2）|超激動 -SUPER GEKIDO-|[[NO LIMIT]]・[[シャンクズプロモーション]]のイベントにゲスト出演&br()配信プラットフォーム[[Z-aN>>https://www.zan-live.com/ja/]]にて配信決定|
+|2025/08/30&br()（DAY1）|ストグラフェス|MEET&GREET：08/30(土)DAY1　12:30〜13:30&br()[[お笑いヘイストLIVE>>https://x.com/stgr_roleplay/status/1941085140157137174?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]：08/30(土)DAY1&br()[[公式Webサイト>>https://stgrfestival.com/]]／&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[ストグラフェス公式>>https://x.com/stgr_festival?s=21&t=b89A-5gzkZraBLjrHHv6CQ]]／&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[ストグラ運営>>https://x.com/stgr_roleplay?s=21&t=b89A-5gzkZraBLjrHHv6CQ]] |
+|2025/11/01〜&br()2025/11/12|ColorFlora POP UP STORE|手売り日時：11/01(土)〜11/03(月) 全日程11:00〜13:00 実施予定&br()&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[花束ゆいは>>https://x.com/hanataba_yuiha/status/1978466560680538616?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]&space(2)ハッシュタグ：[[#ColorFloraPUS>>https://x.com/hashtag/ColorFloraPUS?src=hashtag_click&f=live]]&br()&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[ゴールデンボンバー公式>>https://x.com/kinbakutw/status/1982021137518481537?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]：店頭イベント 整理券配布について|
+|2025/12/13&br()（DAY1）|ストグラRPL2025|ゲストとしてイベント出演&br()&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[出演後のポスト>>https://x.com/junjunmjgirly/status/1999802279826952489?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]／ハッシュタグ：[[#ストグラRPL2025>>https://x.com/hashtag/ストグラRPL2025?src=hashtag_click&f=live]]|
+|2026/01/07|トークイベント&br()「広場うた子凸待ち生誕祭」|会場：LOFT/PLUS ONE（東京都新宿区）&br()開場 23:15 / 開演 23:45 / 終演 25:15（予定）&br()配信サイト：[[ツイキャス>>https://premier.twitcasting.tv/loftplusone/shopcart/408364]]&space()&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[ゴールデンボンバー公式>>https://x.com/kinbakutw/status/1999718672416550934?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]&br()[[大　川]]、[[御花　はな]]、[[豆乳　ちゃんもも]]、[[ルウ　ギャラクティカ]]、[[えだまめもん]]、[[御薬　キメ太郎]]が凸参加。&br()ちゃんもも(ラスパラ)からフラスタ、キメ太郎から薔薇の花束が贈られる。|
+|2026/03/30|TOKYO FM / JFN32局ネット&br()「ストグラ広報室」|スペシャルパーソナリティーとして出演&br()&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[ゴールデンボンバー公式>>https://x.com/kinbakutw/status/2033790444342284759?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]|
+|前期:2026/04/29〜05/31&br()後期:2026/06/01~06/28|ストグラ街歩き in 大阪|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}&space()[[ストグラ運営>>https://x.com/STGR_RolePlay/status/2018638721730425183?s=2]]／参加キャラクター：&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}&space()[[ストグラ運営>>https://x.com/stgr_roleplay/status/2029883130279075889?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]&br()|
+|2026/07/10〜07/20| 「ストグラカップルズPOP UP STORE」 |会場：MAGNET by SHIBUYA109・5F JOL Collab Store　ハッシュタグ：[[#ストグラカップルズPUS>>https://x.com/hashtag/ストグラカップルズPUS?src=hashtag_click&f=live]]&br()&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[ゴールデンボンバー公式>>https://x.com/kinbakutw/status/2070504902632395253?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]／[[JOL Collab Store>>https://x.com/jolcollabstore/status/2070431891291865450?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]&br()|
+|2026/07/10〜08/02|ストグラカップルズ ランダムブロマイド|ファミリーマート店内マルチコピー機&br()&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[幼少ギミック🦊♥️>>https://x.com/niconamagimix/status/2072616609739620799?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]|
+//
+#co{
+|日付|イベント名|詳細情報&br()&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[名前>>Xの告知URL]]|
+
+ハッシュタグ：[[#ここにハッシュタグ>>https://x.com/hashtag/ここにハッシュタグ?src=hashtag_click&f=live]]
+}
+
+#table_sorter{even=#F6F7F8,odd=fff}
+#endregion(リアルイベント)
+
+#co{****&underdot(#d9b3ff,3px){&space()ゲーム関連&space()}
+}
+
+#right(){&link_up(🔝ページTOPへ)}

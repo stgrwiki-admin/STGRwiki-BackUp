@@ -1,0 +1,1014 @@
+//どなたでも編集歓迎です！
+//
+//ページ全体をいじってみました。意見や問題等ありましたら↓に記入お願いします。(2024/05/02)
+//親ページの画像が多くなってきたので子ページでアップロードするようにしました。
+//
+*&color(#ffd1e8){&icon_fa(fa-solid fa-address-card)} &color(#ffd1e8){プロフィール}
+|&image(シュガピ.jpg,x=300,title=普段着)|&image(菖光亭モード.jpg,x=300,title=菖光亭モード)|&image(181 MOZU　ハンタスマ　 スーツ　スカートpm_顔2.jpg,x=320,title=スーツ)|
+//ここからプロフィー
+#table_color(#eebbcb)
+#table_filter(){Season1=hide,Season2=show}
+|~シーズン|~&icon_fa(fa-solid fa-calendar)|BGCOLOR(#E88EAD):~&color(white){Season1}|BGCOLOR(#E88EAD):~&color(white){Season2}|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(Sugar Peach){シュガー　ピーチ}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|2月22日（永遠に20歳）&openclose2(show=※){警察プロファイルでは2000年生まれでこっそり調べられている。}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年06月27日 (&countup(2023/06/27,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|和食屋【[[菖光亭]]】店長&br()&small(){&openclose2(show=過去の職業){&nbsp(br,3)音楽喫茶【[[GroobyBabyCafe]]】店員 &small(){2024/10/23〜 (オープニングスタッフ 短期雇用)}&nbsp(br,3)SHISHA CAFE&BAR【[[UNRÊVE]]】手伝い &small(){2025/07/22(開業手伝いのため)}}}|イラスト事業(非ジョブ)|
+|~所属|~&icon_fa(fa fa-users)|レディース暴走族【[[魔痔蚊流]]】&small(){ 2023/07/03〜}&br()ギャング【[[hantasma]]】&small(){ 2025/02/28～}&br()自治会【[[西サントス]]】&small(){ 2025/04/17〜}&br()&small(){&openclose2(show=過去の所属){&nbsp(br,3)ギャング【[[IRiS]]】 &small(){初期〜2024/06/12 解散 }&nbsp(br,3)民間軍事会社【[[ACADEMY]]】 &small(){2024/06/14〜08/03 }&nbsp(br,3) ギャング【[[TOPGEAR]]】&small(){2024/08/01〜2025/01/18 解散}&nbsp(br,3)ギャング【[[hantasma]]】&small(){体験 2025/02/21～2/28}}}|ギャング【[[hantasma]]】&small(){ 2026/01/10～}|
+|~電話番号|~&space()&icon_fa(fas fa-phone)&space()|-|(602)072-2513|
+|~TwiX|~&icon_fa(fa fa-crow)|@syugapi|@syugapipipi|
+|~ペット|~&icon_fa(fa fa-dog)|ムギ(チャウチャウ)&br()ブラン||
+|BGCOLOR(#ffbfea):~プレイヤー|BGCOLOR(#ffbfea):~&icon_fa(fa fa-address-card-o)|>|桃雛なの@父ノ背中|
+|BGCOLOR(#ffbfea):~告知等|BGCOLOR(#ffbfea):~&icon_fa(fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/momohina_nano]]|
+|BGCOLOR(#ffbfea):~配信場所|BGCOLOR(#ffbfea):~&icon_fa(fa fa-gamepad)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@momohina_nano]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/momohina_nano]]|
+|~動画投稿|~&icon_fa(fa fa-video-camera)|>|&font(#c9243a){&icon_fa(fa fa-youtube-play)}[[&font(#c9243a){YouTube}>>https://www.youtube.com/@momohina_nano]]|
+
+//
+//目次に日別エピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+//↑目次の表示のレベルを2まで減らし、エピーソードとアーカイブを年ごとの表示にしましたがどうでしょうか。(2024/05/01)
+//
+#region(目次を開く)閉じる
+#contents(fromhere=true,level=2)
+#endregion
+
+*&color(#ffd1e8){&icon_fa(fa-solid fa-user)} &color(#ffd1e8){基本情報}
+・ロスサントスには先に引っ越していた友達を追いかけて、[[小豆　最中]]と一緒にノリで来た。
+・・[[小豆　最中]]と並ぶ「平成のギャル」の一角。通称「シュガピ」。
+・・最近ハムボ化してギャルを捨てたと[[小豆　最中]]に言われている。
+・最初期はかなりのツイ廃だった。
+・ミネストローネが好き。　　　&size(10){ただし、トマトは嫌い。}
+・ラーメンは塩と豚骨派。
+・お気に入りのエモートはダンス系。
+・下ネタにとても寛容である。むしろ自ら進んで発言することがある。
+・[[超越ヶ谷　にかり]]発案の犯罪しないレディース暴走族「[[魔痔蚊流]]」のメンバー
+・2025/09/21 hantasmaと元IRiSメンバーで旧IRiSアジトをダーク山下から護衛している最中に別次元に転送される(STGR Season1 END)
+****&size(110%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){　黒市民として}&nbsp(5)}}
+・[[菖蒲　光樹]]のことをパパと呼び、カラーギャング[[IRiS]]に所属していた。
+・・組織設立最初期から所属し、解散までを過ごしたメンバーである。
+・・犯罪時は主に狂犬の被り物をして「わんわんワンダフル」の名前で活動する。白市民にはシュガーピーチ＝[[ギャング]]所属を伏せているが、警察がシュガピシュガピと呼ぶせいでじわじわ巷にバレつつある。[[一例（ショート動画）>>https://www.youtube.com/shorts/OhOisKVQTJE]]
+・・[[TOPGEAR]]にて発生した[[ステーキ>ストグラ用語集]]の処理により、IRiSが周りも含めて、恵まれた環境であった事に気づいた。
+・IRiS解散後、寂しすぎたため、[[無馬　かな]]の運営する[[ACADEMY]]に参加。
+・後に、ACADEMYにて知り合った半グレの面々とともに、Boss [[飯田　けんつ]]率いる新興ギャング[[TOPGEAR]]に加入、構成員となり活動を始める。
+・・2025/01/18に解散、現在は関係値のあるギャングで傭兵を行いつつ今後の進路を考えている。
+・2025/02/28 新興ギャング[[hantasma]]の体験を経て正式加入に至る。今ではBOSSにhantasmaの長女的な存在と言われるようになった。
+・・2025年7月時点で約70件の物件のカギを所有していたため、hantasma内で不動産女王と呼ばれることがある。
+・・偶に披露する挨拶口上が好評[[挨拶まとめ動画>>https://www.youtube.com/watch?v=gX8mH2rcZvc]]
+//
+//見た目をスッキリさせるため・ネタバレ防止のために、「交友関係」「エピソード」「アーカイブ」については折りたたみ表示を
+//常に閉じた状態に設定してあります。
+//
+*&color(#ffd1e8){&icon_fa(fa-solid fa-people-group)} &color(#ffd1e8){交友関係}
+****&size(110%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){　hantasma}&nbsp(16)}}
+#region(開く)
+&sizex(4){&bold(){&color(#eebbcb){●} [[アドミゲス・ハン]]}}
+・元IRiSの同僚でhantasmaのボス
+・呼び方は「ハンハン」で、たまに「ミゲス」と言うこともある
+・街最速の男
+&sizex(4){&bold(){&color(#eebbcb){●} [[ユン　ユンミ]]}}
+・hantasmaの構成員
+・呼び方は「ユンちゃん」
+・よくブースティングに誘ってくれる
+・定期的に愛を囁いてくれる
+&sizex(4){&bold(){&color(#eebbcb){●} [[ジャン＝ジャック・ヴァラン]]}}
+・hantasmaの構成員
+・呼び方は「ジジ」
+・TOPGEAR解散後、1番最初に勧誘してくれた人物
+・なぜか貢いでしまう
+&sizex(4){&bold(){&color(#eebbcb){●} [[夜桜　怜]]}}
+・hantasmaの同期
+・呼び方は「サク」
+・ジャン＝ジャック・ヴァランに憧れている
+・口上をメッセージで送るとかっこ良く言ってくれる
+#endregion
+****&size(110%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){　黒市民}&nbsp(16)}}
+#region(開く)
+&sizex(4){&bold(){&color(#eebbcb){●} [[ヴァン　ダーマー]]}}
+・MOZUのボス
+・元IRiSメンバーを気にかけてくれる
+・ヴァンさんの熱狂的なファンなので、会うたびに褒めたり香りを嗅いだりする
+&sizex(4){&bold(){&color(#eebbcb){●} [[小峯　玲]]}}
+・元IRiSの同僚
+・呼び方は「玲くん」
+&sizex(4){&bold(){&color(#eebbcb){●} [[飯田　けんつ]]}}
+・傭兵組織「ACADEMY」のリーダーでギャング「TOPGEAR」の元ボス
+・「僕」と「俺」の一人称があり，「俺」がでてくるとイカれが暴走している状態でその影響でTOPGEARが解散させられた
+・解散当初は思うところもあったが，しばらくたった後会話を重ねて和解
+・今では小型やレースについて教えてもらったりする良好な関係
+&sizex(4){&bold(){&color(#eebbcb){●} [[トウ　ユン]]}}
+・GoodbyeCircusの構成員
+・街に来た当初、倉庫を一時的に貸したことがある
+&sizex(4){&bold(){&color(#eebbcb){●} [[モーガン・フリーザン]]}}
+・元TOPGEARの構成員
+・TOPGEARのメンケア担当
+・会うたびに口説かれているが受け流している
+・家がないとのことなので一時的にシュガピの家に居候している
+&sizex(4){&bold(){&color(#eebbcb){●} [[ぎちょう・じょばぁーな]]}}
+・MOZUの構成員
+・黒のともだち
+・じょばをイメージした飲食物をよく購入する
+#endregion
+****&size(110%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){　警察}&nbsp(20)}}
+#region(開く)
+&sizex(4){&bold(){&color(#eebbcb){●} [[伊藤　ぺいん]]}}
+・通称ぺーくん&br()[[ここなさん>牧田　ここな]]のカレー屋で出会った時、流れで「ぴーちゃん」「ぺーくん」と呼び合うことになった。&br()しかし、[[マヌ先>ゴンザレス　マヌ太郎]]にバレて拉致られたことをきっかけに、できるだけ会話及び接触を避けられている &br()「僕の(護送していた人)だぞー！」を「僕の(女)だぞー！」と勘違いさ余計に拗れることに...&br()警察署前で/nearby carrymecuteを行い数人に目撃される&br()ぺーくんのシュガピだよ♡また遊ぼうね〜♡
+&sizex(4){&bold(){&color(#eebbcb){●} [[ゴンザレス　マヌ太郎]]}}
+・以前は一緒にカジノのルーレットを回しに行く友達
+・一緒に購入した家もある
+&sizex(4){&bold(){&color(#eebbcb){●} [[オルカ　トヴォロ]]}}
+・一緒に遊びに行ったりする友達
+・オルカIRiS加入ドッキリでは泣いてしまう
+　・警察で頑張っている姿、異変に気付いてあげられなかったこと、相談に乗ってあげられなかったことを悲しんだ
+&sizex(4){&bold(){&color(#eebbcb){●} [[レッサン　パンナ]]}}
+・一緒に遊びに行ったりする友達
+・お互いをイメージした衣装を作ったりする
+#endregion
+****&size(110%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){　白市民}&nbsp(16)}}
+#region(開く)
+
+&sizex(4){&bold(){&color(#eebbcb){●} [[小豆　最中]]}}
+・先に引っ越していた友達を追いかけて一緒にノリで来た。
+&sizex(4){&bold(){&color(#eebbcb){●} [[レイナ・レアレッタ＝レインハート]]}}
+・元IRiSの同僚でSKEの副社長
+・街に来る前からの友達
+&sizex(4){&bold(){&color(#eebbcb){●} [[菖蒲　光樹]]}}
+・元IRiSのボスで菖光亭のオーナーや&s(){SKEの社長}をしている
+・呼び方は「パパ」か「しゃっちょ」
+・白市民でありながらブースティングをしており，一緒にすることもある
+・食育ガチャのメニューを作るのにハマっていた
+&sizex(4){&bold(){&color(#eebbcb){●} [[柳瀬　つん]]}}
+•元IRiSの同僚
+・普段は恐竜の姿で活動しており、ざうるすと呼ばれている
+・たまにざうるすの真似をして恐竜の格好になることがある
+・ざうるすと話していると口調が移ってしまうざうるす
+&sizex(4){&bold(){&color(#eebbcb){●} [[多良里　ずぅ]]}}
+・JTSと不動産で働いている
+・シュガピの強火ファン
+・不要になった素材を提供してくれたりする
+&sizex(4){&bold(){&color(#eebbcb){●} [[豆　やん]]}}
+・JTSで働いており、飛行機とボートのディーラーをしている
+・西サントスで一緒に活動している
+・ごみ収集で集まった壊れたスマホや、カーボンをよく買い取ってくれる
+&sizex(4){&bold(){&color(#eebbcb){●} [[星野　サラ]]}}
+・菖光亭の店員
+&sizex(4){&bold(){&color(#eebbcb){●} [[ゆた　んぽ]]}}
+・BMCと救急隊で働いている
+・挨拶のハグをする関係
+・車の修理代金より高いお金を定期的に貢いでくれるのが気まずいので、かわいい食べ物、飲み物などを交換しようと提案した
+&sizex(4){&bold(){&color(#eebbcb){●} [[広場　うた子]]}}
+・花屋さんで働いている女の子
+・何か困ったことがあったら気にかけるようにしている
+#endregion
+
+*&color(#ffd1e8){&icon_fa(fa-solid fa-shirt)} &color(#ffd1e8){私服・変装一覧}
+編集される方は[[こちら>シュガー　ピーチ/私服・変装一覧]]から
+Season2は[[こちら>シュガー　ピーチ/私服・変装一覧2]]から
+#include(シュガー　ピーチ/私服・変装一覧)
+#include(シュガー　ピーチ/私服・変装一覧2)
+
+
+*&color(#ffd1e8){&icon_fa(fa-solid fa-car)} &color(#ffd1e8){所有車両}
+***&size(150%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){Season1}&nbsp(30)}}
+#region(colse,開く)
+//車・バイクに関しては台数が多く，最近では使われないものも多くあるため気づいたものから順次増やしています
+***&size(110%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){車}&nbsp(5)}}
+#region(開く,close)
+#table_style(head=center:#eebbcb)
+|~&color(#fff){車両名}|BGCOLOR(#eebbcb):~&color(#fff){登録名}|BGCOLOR(#eebbcb):~&color(#fff){車種}|BGCOLOR(#eebbcb):~&color(#fff){画像}|BGCOLOR(#eebbcb):~&color(#fff){エピソード}|
+|~&color(#fff){Emperor ETR1}|MIDDLE:逃走用/ETR1|MIDDLE:Super|&image(車_Emperor ETR1_Super.jpg,x=300)|MIDDLE:[[アドミゲス　ハン]]にお勧めしてもらい購入&br()普段使いもよくするシュガピお気に入りの一台&br()乗っている人が少ないのか様々な人から&br()「この車なんていうの？」「かっこいい」と褒めてもらえる|
+|~&color(#fff){Pegassi Tezeract}|MIDDLE:新しい場所で頑張っテザラクト|MIDDLE:Super|&image(車_Pegassi Tezeract_Super.jpg,x=300)|MIDDLE:hantasma加入後元TOPGEARのボス[[飯田　けんつ]]から譲り受けた１台&br()元々飯田けんつがTOPGEAR時代に大型犯罪でよく使っていた&br()最初は水色だったが，略奪にも行けるように緑色に塗り替えた&br()普段使いもよくするシュガピお気に入りの1台|
+|~&color(#fff){Enus Paragon}|MIDDLE:逃走用/フルカス/パラゴン|MIDDLE:Sports|&image(車_Enus Paragon_Sports.jpg,x=300)|MIDDLE:大型用の車両&br()あまり乗ることは少ない&br()天井にはHANTASMAのステッカーが貼ってある|
+|~&color(#fff){Prinvipe Deveste}|MIDDLE:🚗　逃走用/デべステ|MIDDLE:Super|&image(車_Prinvipe Deveste_Super.jpg,x=300)|MIDDLE:大型用の車両として以前購入した&br()運転の仕様が変わった際に乗りにくくなり使われなくなってしまった|
+|~&color(#fff){sigma2}|MIDDLE:A帯/しぐま2|MIDDLE:Sports|&image(車_sigma2_Sports.jpg,x=300)|MIDDLE:イモーゴンよりやすくていい車が入ったと聞き購入&br()意気揚々とA帯レースに参加しようとしたら街に来たばっかりでU帯で参加できなかった|
+|~&color(#fff){Vapid Flash GT}|MIDDLE:シュガピFlashGT|MIDDLE:Sports|&image(車_Vapid Flaash GT_Sports.jpg,x=300)|MIDDLE:BMC2周年記念レース用に[[にし　のん]]から購入しそのままカスタムも依頼した&br()ピンクに水色のパール光沢がとても気に入った&br()レース途中の給油機にぶつかり爆発してしまい見るも無残な姿になってしまった|
+|~&color(#fff){Vapid GB 200}|MIDDLE:シュガおめでとう　ゆちゃぺてぃ|MIDDLE:Sports|&image(車_Vapid GB 200_Sports.jpg,x=300)|MIDDLE:2025年の誕生日に[[ゆちゃ　めろでぃ]]と[[羽山　ペティ]]からプレゼントされた|
+|~&color(#fff){Dinka Jester}|MIDDLE:逃走用/フルカス/ジェスター(緑)|MIDDLE:Sports|&image(車_Dinka Jester_Sports.jpg,x=300)|MIDDLE:数あるJesterの中の一台&br()緑に塗ってあり主に略奪に使う|
+|~&color(#fff){Dinka Jester}|MIDDLE:逃走用/フルカス/ジェスター/|MIDDLE:Sports|&image(車_Dinka Jester2_Sports.jpg,x=300)|MIDDLE:数あるJesterの中の一台&br()黒色なので使う機会が少ない|
+|~&color(#fff){Übormach Revolter}|MIDDLE:フルカス/Revolter/いがりん誕生日🎁|MIDDLE:Sports|&image(車_Übormach Revolter_Sports.jpg,x=300)|MIDDLE:誕生日に[[猪狩　翔太]]にプレゼントしてもらった&br()大型でも使用し，4人乗りなので普段使いでもよく使用する|
+|~&color(#fff){Överflöd Imorgon}|MIDDLE:A帯/イモーゴン|MIDDLE:Sports|&image(車_Överflöd Imorgon_Sports.jpg,x=300)|MIDDLE:A帯でおすすめされたため購入&br()須藤カスタムが施してある&br()A帯のレースで多用|
+|~&color(#fff){Lampadati Tropos Rallye}|MIDDLE:B帯/トロポスラリー|MIDDLE:Sports|&image(車_Lampadati Tropos Rallye_Sports.jpg,x=300)|MIDDLE:B帯レースはこれ一強と言われ即購入&br()時折公式レースのB帯に出て使用|
+|~&color(#fff){Declasse Draugur}|MIDDLE:くるま/ドラウグル|MIDDLE:Off-road|&image(車_Declasse Draugur_Off-road.jpg,x=300)|MIDDLE:扉部分に[[キャプテン　わきを]]のステッカーが貼ってありショッキング|
+|~&color(#fff){Canis Kalahari}|MIDDLE:HAPPYBIRTHDAY💖もなぴより|MIDDLE:Off-road|&image(車_Canis Kalahari_Off-road.jpg,x=300)|MIDDLE:[[小豆　最中]]から誕生日にもらった車|
+|~&color(#fff){Weeny Issi Rally}|MIDDLE:イッシーラリー/トランスミッション外してある|MIDDLE:SUVs|&image(車_Weeny Issi Rally_SUVs.jpg,x=300)|MIDDLE:運転のしやすさからトランスミッションを外してもらってある|
+|~&color(#fff){Albany Manana Custom}|MIDDLE:シュガピ様ご依頼💜MANANACUSTOM|MIDDLE:SUVs|&image(車_Albany Manana Custom_Muscle.jpg,x=300)|MIDDLE:[[羽山　ペティ]]にカスタムしてもらった&br()内装までかわいくて気に入っている|
+|~&color(#fff){Benefactor Surfer}|MIDDLE:Benefactor Surfer|MIDDLE:Vans|&image(車_Benefactor Surfer_Vans.jpg,x=300)|MIDDLE:墓場においてあったが，プリズンにできた駐車場に移動した&br()めちゃめちゃ遅い|
+|~&color(#fff){Benefactor Weevil}|MIDDLE:Benefactor Weevil|MIDDLE:Compacts|&image(車_Benefactor Weevil_Compacts.jpg,x=300)|MIDDLE:めちゃくちゃカラフルな車|
+|~&color(#fff){Grotti Brioso 300 Widebody}|MIDDLE:ブリオッソ700ワイドボディしゅがぴちゃんよう|MIDDLE:Compacts|&image(車_Grotti Brioso 300 Widebody_Compacts.jpg,x=300)|MIDDLE:エピソード募集|
+|~&color(#fff){Speed Express}|MIDDLE:1000積載/水色|MIDDLE:Vans|&image(車_Speed Express_Vans.jpg,x=300)|MIDDLE:素材などを積む用の車&br()前は濃いめのピンクだったが変更した|
+|~&color(#fff){Bravado Rumpo Custom}|MIDDLE:🚚ランポカスタム1|MIDDLE:Vans|&image(車_Bravado Rumpo Custom_Vans.jpg,x=300)|MIDDLE:エピソード募集|
+|~&color(#fff){Raiden GRB}|MIDDLE:メンヘラピンク|MIDDLE:Sports|&image(車_Raiden GRB_Sports.jpg,x=300)|MIDDLE:TOPGEAR時代に[[タマーチ　二キタ]]がメンバー全員分のゴミ箱カーをあつめてくれたもの|
+|~&color(#fff){Annis Blazer Sport}|MIDDLE:Kawaii.No1♡優しいかわいいピンク色♡シュガーピーチさん！|MIDDLE:Off-road|&image(車_Annis Blazer Sport_Off-road.jpg,x=300)|MIDDLE:[[光乃　あびす]]がハンタスマ女子みんなにプレゼントしてくれた&br()名前がとってもKawaii|
+|~&color(#fff){Vapid Caracara 4x4}|MIDDLE:いつもかわいいシュガピへありがとうカー☻ユンミ|MIDDLE:Off-road|&image(🚗_Vapid Caracara 4x4_Off-road.jpg,x=300)|MIDDLE:[[ユン　ユンミ]]がHANTASMAメンバーみんなに配っている車&br()たくさん車を持っているシュガピには特別にフルカスしてくれた|
+|~&color(#fff){Egg Car}|MIDDLE:Arcida Egg Car|MIDDLE:Sports|&image(車_Egg Car_Sports.jpg,x=300)|MIDDLE:イースターイベントで初日に当てたエッグカー|
+#endregion(車)
+***&size(110%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){ヘリコプター}&nbsp(5)}}
+#region(開く,close)
+#table_style(head=center:#eebbcb)
+|~&color(#fff){車両名}|BGCOLOR(#eebbcb):~&color(#fff){登録名}|BGCOLOR(#eebbcb):~&color(#fff){画像}|BGCOLOR(#eebbcb):~&color(#fff){エピソード}|
+|~&color(#fff){Maibatsu Frogger}|MIDDLE:フロガー　緑|&image(ヘリ_Maibatsu Frogger_Helicopters.jpg,x=300)|MIDDLE:波模様ありの緑色のFrogger&br()略奪はこちらを使用|
+|~&color(#fff){フロッガー カスタム}|MIDDLE:Maibatsu Frogger nl|&image(ヘリ_フロッガー カスタム_Helicopters.jpg,x=300)|MIDDLE:波模様の入っていないピンク色のFrogger|
+|~&color(#fff){スパロー}|MIDDLE:Unknown Sparrow|&image(ヘリ_スパロー_Helicopters.jpg,x=300)|MIDDLE:KKRKのヘリレースが開催され，フロガーしか持っておらず上位が狙えなかったため購入|
+#endregion(ヘリコプター)
+***&size(110%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){バイク}&nbsp(5)}}
+#region(開く,close)
+#table_style(head=center:#eebbcb)
+|~&color(#fff){車両名}|BGCOLOR(#eebbcb):~&color(#fff){登録名}|BGCOLOR(#eebbcb):~&color(#fff){画像}|BGCOLOR(#eebbcb):~&color(#fff){エピソード}|
+|~&color(#fff){Western Powersurge}|MIDDLE:電気バイク/1|&image(バイク_Western Powersurge_Motorcycles.jpg,x=300)|MIDDLE:薬精製をする際に使用するバイク&br()薬精製所の近くの家にしまってあり，薬を練るときはポケット一杯分の材料を持って&br()このバイクで何度も精製所と家を往復する|
+|~&color(#fff){アクマ ストリートファイター}|MIDDLE:バイク/ノンカス/パパ誕生日🎁|&image(バイク_アクマ ストリートファイター_Motorcycles.jpg,x=300)|MIDDLE:誕生日に[[パパ>>菖蒲　輝樹]]にプレゼントしてもらった&br()大型で使えるようにノンカスにしてある|
+|~&color(#fff){Nagasaki Shinobi}|MIDDLE:Shinobi / ノンカスタム|&image(バイク_Nagasaki Shinobi_Motorcycles.jpg,x=300)|MIDDLE:大型で使用できるようノンカスにしてある|
+|~&color(#fff){フラッカス}|MIDDLE:バイク/箱付き/旧SKE|&image(バイク_フラッカス_Motorcycles.jpg,x=300)|MIDDLE:旧SKEに保管してあるバイク|
+|~&color(#fff){Western Powersurge}|MIDDLE:🏍　砂漠用電気バイク|&image(バイク_Western Powersurge2_Motorcycles.jpg,x=300)|MIDDLE:砂漠での花摘み用の電気バイク&br()リスクを減らすため，手荷物一杯分の材料をもったらこのバイクで近くの拠点にいれに戻る|
+#endregion(船)
+***&size(110%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){船}&nbsp(5)}}
+#region(開く,close)
+#table_style(head=center:#eebbcb)
+|~&color(#fff){車両名}|BGCOLOR(#eebbcb):~&color(#fff){登録名}|BGCOLOR(#eebbcb):~&color(#fff){画像}|BGCOLOR(#eebbcb):~&color(#fff){エピソード}|
+|~&color(#fff){Shitzu Longfin}|MIDDLE:Shitzu Longfin|&image(船_Shitzu Longfin_Boats.jpg,x=300)|MIDDLE:大型用のロングフィン&br()客船強盗用に海上レストラン近くに止めてある|
+|~&color(#fff){Speedophile Seashark}|MIDDLE:シーシャーク(黒黄)|&image(船_Speedophile Seashark1_Boats.jpg,x=300)|MIDDLE:もともともっていたシーシャーク&br()レク用に登録名を変更した|
+|~&color(#fff){Speedophile Seashark}|MIDDLE:シーシャーク(桃)|&image(船_Speedophile Seashark2_Boats.jpg,x=300)|MIDDLE:レク用に購入した|
+|~&color(#fff){Speedophile Seashark}|MIDDLE:シーシャーク(紫)|&image(船_Speedophile Seashark3_Boats.jpg,x=300)|MIDDLE:レク用に購入した|
+|~&color(#fff){Speedophile Seashark}|MIDDLE:シーシャーク(青)|&image(船_Speedophile Seashark4_Boats.jpg,x=300)|MIDDLE:レク用に購入した|
+|~&color(#fff){Speedophile Seashark}|MIDDLE:シーシャーク(緑)|&image(船_Speedophile Seashark5_Boats.jpg,x=300)|MIDDLE:レク用に購入した|
+|~&color(#fff){Speedophile Seashark}|MIDDLE:シーシャーク(黄)|&image(船_Speedophile Seashark6_Boats.jpg,x=300)|MIDDLE:レク用に購入した|
+|~&color(#fff){Speedophile Seashark}|MIDDLE:シーシャーク(橙色)|&image(船_Speedophile Seashark7_Boats.jpg,x=300)|MIDDLE:レク用に購入した|
+|~&color(#fff){Speedophile Seashark}|MIDDLE:シーシャーク(赤)|&image(船_Speedophile Seashark8_Boats.jpg,x=300)|MIDDLE:レク用に購入した|
+|~&color(#fff){Speedophile Seashark}|MIDDLE:シーシャーク(青2)|&image(船_Speedophile Seashark9_Boats.jpg,x=300)|MIDDLE:もともともっていたシーシャーク&br()レク用に登録名を変更したが青色が被ってしまった|
+|~&color(#fff){Shitzu Longfin}|MIDDLE:Shitzu Longfin|&image(船_Shitzu Longfin2_Boats.jpg,x=300)|MIDDLE:北の客船付近に泊めてあるロングフィン&br()使う機会は少ないがLv2ミッションのCruise_Heistで役に立った|
+#endregion(船)
+#endregion
+#include(シュガー　ピーチ/所有車両2)
+
+
+//テンプレート
+//|~&color(#fff){車両名}|MIDDLE:登録名|MIDDLE:車種|&image(.jpg,x=300)|MIDDLE:エピソード|
+//
+*&color(#ffd1e8){&icon_fa(fa-solid fa-house)} &color(#ffd1e8){ハウジング}
+編集される方は[[こちら>シュガー　ピーチ/ハウジング]]から
+#include(シュガー　ピーチ/ハウジング)
+
+*&color(#ffd1e8){&icon_fa(fa-solid fa-music fa-xl fa-bounce)} &color(#ffd1e8){オリジナルソング}
+
+&bold(){通りゃんな feat. シュガーピーチ (cv.桃雛なの)}
+・シュガーピーチのオリジナル楽曲
+・シュガピの病みカワ +菖蒲亭（シュガピが所属している和食やさん）の和 +グラセフの悪を贅沢に混ぜた一曲です！
+&youtube(https://youtu.be/7KOq_mK38RU,width=400,height=225)
+
+
+&bold(){通りゃんなBGMアレンジ #ストグラ #シュガーピーチ}
+・[[菖光亭]]の店内BGM用に通りゃんなをアレンジ
+・和の空間に溶け込み穏やかな時間をすごせます
+&youtube(https://youtu.be/OjbcyRHVv4o,width=400,height=225)
+
+
+#region(ストグラ内にて)
+・2024年シャンプロ紅白歌合戦前祭にて通りゃんなを熱唱
+※他住民の曲等あり
+&youtube(https://youtu.be/youFVHB2-u8,width=400,height=225)
+
+#endregion
+//
+//エピソードの日付はロスサントスを基準としていますので配信開始時間が24時を超えていても、サーバーが開く17:00時点の日付にしています。
+//
+*&color(#ffd1e8){&icon_fa(fa-solid fa-book-open)} &color(#ffd1e8){エピソード}
+編集される方は[[シュガー　ピーチ/エピソード1]]、[[シュガー　ピーチ/エピソード2]]、Season2は[[シュガー　ピーチ/エピソード3]]から
+***&size(150%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){Season1}&nbsp(30)}}
+#region(開く)
+#include(シュガー　ピーチ/エピソード1)
+#include(シュガー　ピーチ/エピソード2)
+#endregion(Season1)
+***&size(150%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){Season2}&nbsp(30)}}
+#region(開く)
+#include(シュガー　ピーチ/エピソード3)
+#endregion(Season2)
+*&color(#ffd1e8){&icon_fa(fa fa-calendar-o)} &color(#ffd1e8){アーカイブ}
+//
+//Twitchは一定期間を過ぎるとリンクが切れてしまうため、削除し、Youtubeのアーカイブのみに変更しました。
+//
+&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[再生リスト1>https://www.youtube.com/playlist?list=PLD1adh6Wm-3I9WMpWbQHtnUSPnTfwCsqC]]
+&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[再生リスト2>https://www.youtube.com/playlist?list=PLD1adh6Wm-3KQ970KVpme2U5vJKhO214G]]
+&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[再生リスト3>https://youtube.com/playlist?list=PLD1adh6Wm-3KDU3vpim7Auwi2C63erTTa]]
+&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[S2再生リスト1>https://youtube.com/playlist?list=PLD1adh6Wm-3Iz5UQpOWU_p_MfzE9KPJvR]]
+***&size(150%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){Season1}&nbsp(30)}}
+#region(close,開く)
+**2023年
+#region(開く)
+***2023年6月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|23/06/27|1日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}第二の人生歩んでみない～？>>https://www.youtube.com/live/wQJORFg0LSY?feature=share]]||
+|23/06/28|2日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}シュガピだよ～☆　 ヨロ～☆彡>>https://www.youtube.com/live/ClJ94laANjs?feature=share]]||
+|23/06/29|3日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}シュガピ車買ってもらったぁ～☆　マンモス ウレピ～☆彡>>https://www.youtube.com/live/3mshxM9GeOA?feature=share]]||
+|23/06/30|4日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}二種免許ほち～☆彡（今日はとれなかった）>>https://www.youtube.com/live/QpP3lvmP178?feature=share]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2023年7月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|23/07/01|5日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}シュガピタクシーの人になりた～い☆彡>>https://www.youtube.com/live/7LzLSRj8Fno?feature=share]]||
+|23/07/03|6日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}タクシーでブイブイいわせちゃお☆彡>>https://www.youtube.com/live/jQZ4Cns-OVw?feature=share]]||
+|23/07/03|7日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}セクシータクシーシュガーピーチ☆彡>>https://www.youtube.com/live/_J_BBUcTiuk?feature=share]]||
+|23/07/05|8日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}そういえば選挙結果どうなったん～？☆彡>>https://www.youtube.com/live/0au3fMCO938?feature=share]]||
+|23/07/06|9日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}キノコ狩りデビュー☆彡>>https://www.youtube.com/live/CSrEAQ1pW64?feature=share]]||
+|23/07/07|10日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}魔痔蚊流（マジカル）の原付を鬼カワカスタムにしちゃお☆彡>>https://youtube.com/live/6logguWS7JE]]||
+|23/07/10|11日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}タクシー運転手のシュガピ、タクピ☆彡（初仕事の日！）>>https://www.youtube.com/live/FtnyEmnkWP8?feature=share]]||
+|23/07/11|12日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}タロット占い女子会した☆彡>>https://youtube.com/live/gBl2yDuIyPQ]]||
+|23/07/12|13日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}シュガピ初心者マークの魔法消えちゃった・・・☆彡>>https://youtube.com/live/CQp52dmiw_8]]||
+|23/07/14|14日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}スカイダイビングで無事にミンチになったよ☆彡>>https://www.youtube.com/live/BhOVvOMiDJs?feature=share]]||
+|23/07/15|15日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}魔法少女カフェ体験「お師匠様だぁいすき☆彡」>>https://www.youtube.com/live/UrAY-wapNuQ?feature=share]]||
+|23/07/16|16日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}チェキありがとうございまぁす☆彡>>https://www.youtube.com/live/oVcHvsWXiwU?feature=share]]||
+|23/07/17|17日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}悪い事＆鉱山デビュー☆彡>>https://www.youtube.com/live/AY9pxRxbi2g?feature=share]]||
+|23/07/19|18日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ちょっとだけ☆彡>>https://www.youtube.com/live/UbmhgHs25uk?feature=share]]||
+|23/07/20|19日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}マクドさんからもらったお金でねねちとデート☆彡>>https://www.youtube.com/live/uCEDeaH-I0k?feature=share]]||
+|23/07/22|20日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ストリップバーでお仕事体験☆彡>>https://www.youtube.com/live/-d5fGfvFDbI?feature=share]]||
+|23/07/23|21日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ヘリ免許とったよん☆彡>>https://www.youtube.com/live/vDwNAVzT8jE?feature=share]]||
+|23/07/25|22日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}パパと2人でブースティング楽し〜☆彡>>https://www.youtube.com/watch?v=YH7a_RKkSbc]]||
+|23/07/27|23日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１日店長おめでとう☆彡>>https://www.youtube.com/watch?v=ADZwoMcD69s]]||
+|23/07/29|24日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}なにしよっかな～☆彡>>https://www.youtube.com/watch?v=yl2RqfY3Bow]]||
+|23/07/31|25日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}なにしよっかな～☆彡>>https://www.youtube.com/watch?v=8G-6USKVMxw]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2023年8月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|23/08/02|26日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}高級日本食店の代表になりました☆彡>>https://www.youtube.com/watch?v=ozznqXjSg78]]||
+|23/08/17|??日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}いつのかわからん>>https://youtu.be/TuZYi8LSOH8]]||
+|23/08/21|27日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ピ☆彡>>https://www.youtube.com/watch?v=UaevrU3wy9M]]||
+|23/08/24|28日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ピ☆彡>>https://www.youtube.com/watch?v=7XWlsxlU7PY]]||
+|23/08/25|29日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ピピ☆彡>>https://www.youtube.com/watch?v=B6Mi4UCvGVs]]||
+|23/08/26|30日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}シュガピピピ☆彡>>https://www.youtube.com/watch?v=QiUbAq_PL6Y]]||
+|23/08/27|31日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日は１周年記念らしいピ☆彡>>https://www.youtube.com/watch?v=qaUbne289u8]]||
+|23/08/29|32日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日もお花摘み☆彡>>https://www.youtube.com/watch?v=6Cv9uN7_Vvo]]||
+|23/08/30|33日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}菖光亭あけようね～☆彡>>https://www.youtube.com/watch?v=CVd0iMJfLoQ]]||
+|23/08/31|34日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}菖光亭にねねちきた☆彡>>https://www.youtube.com/watch?v=yK1L-PCmhPk]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2023年9月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|23/09/01|35日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お金儲けしに行くよ☆彡>>https://www.youtube.com/watch?v=qfwhXCOlH1I]]||
+|23/09/02|36日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}初泥棒！おもろ〜っ☆彡>>https://www.youtube.com/watch?v=QYCIUZvDAu8]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お金持ちになる☆彡>>https://youtu.be/OyGip3W5pzU]]||
+|23/09/03|37日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}お花！お薬！菖光亭☆彡>>https://youtu.be/DmXSDTPQ4yQ]]||
+|23/09/04|38日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}薬を売って整形したい☆彡>>https://youtu.be/MMNmEhWAbJA]]||
+|23/09/05|39日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}寝坊したから定例参加と平和に花摘みだけ☆彡>>https://youtu.be/oZe4_gS2UPI]]||
+|23/09/06|40日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}初☆彡 一人銀行強盗☆彡>>https://youtu.be/WybNAIFWjRo]]||
+|23/09/07|41日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}早い時間のロスサントス初めて！どんな感じなの～？☆彡>>https://youtu.be/7NYOXn_C1O0]]||
+|23/09/08|42日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}撃ち合いの練習！☆彡>>https://youtu.be/TrCKl1xRUCQ]]||
+|23/09/11|43日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}hayaoki☆彡>>https://youtu.be/oVzPGF5wEec]]||
+|23/09/12|44日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}エモート使いこなせるようになった！☆彡>>https://youtu.be/FFS_iXS1c68]]||
+|23/09/13|45日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}タルコフ市に行けなくなっちゃタ☆彡>>https://youtu.be/86x2PtCg4o0]]||
+|23/09/14|46日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０時くらいまで☆彡>>https://youtu.be/7VSILmX-sw0]]||
+|23/09/16|47日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ボーリング行く☆彡>>https://youtu.be/Nmb4BPSQo_k]]||
+|23/09/17|48日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４８日目☆彡>>https://youtu.be/a8nHX2LgIkU]]||
+|23/09/18|49日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も平和な一日 （前半）>>https://youtu.be/qyf99-tATP4]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も平和な一日 （後半）>>https://youtu.be/Hw-g5ML3EFQ]]||
+|23/09/19|50日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も平和な一日>>https://youtu.be/XJy_ZN7ma8w]]||
+|23/09/20|51日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も平和な一日>>https://youtu.be/9mx6IWsZ-pE]]||
+|23/09/21|52日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}今日も平和な一日>>https://youtu.be/LrIs2iYLGB0]]||
+|23/09/25|53日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５３日目☆彡>>https://youtu.be/Bt-H89y6X94]]||
+|23/09/26|54日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５4日目☆彡>>https://youtu.be/jvaeYcgYaCI]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５4日目(中半)☆彡>>https://youtu.be/TPmpBUxyT90]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５4日目(後半)☆彡>>https://youtu.be/-HRgl34fNj8]]||
+|23/09/27|55日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５５日目☆彡>>https://youtu.be/yiFqsw4QU2c]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５５日目(後半)☆彡>>https://youtu.be/CC_FOmRg5Og]]||
+|23/09/29|56日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５６日目☆彡>>https://youtu.be/B1jHD8Q5Q4o]]||
+|23/09/30|57日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５７日目☆彡>>https://youtu.be/GbQwiLFhj6c]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2023年10月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|23/10/01|58日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５８日目☆彡>>https://youtu.be/CVwW41NAN3c]]||
+|23/10/02|59日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５９日目☆彡>>https://youtu.be/fh9lLCPP5k8]]||
+|23/10/03|60日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６０日目☆彡>>https://youtu.be/wWd9YVStbUY]]||
+|23/10/05|61日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６１日目☆彡>>https://youtu.be/NodrhEJKlL8]]||
+|23/10/06|62日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６２日目☆彡>>https://youtu.be/Fc22JKM_FXI]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６２日目☆彡>>https://youtu.be/Z9tfRihEysc]]|前半/後半|
+|23/10/07|63日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６３日目☆彡>>https://youtu.be/zJ41Hfb3o0I]]||
+|23/10/08|64日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６４日目☆彡>>https://youtu.be/63VsU-kXKq0]]||
+|23/10/09|65日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６５日目☆彡>>https://youtu.be/j3dIEGTxTUU]]||
+|23/10/11|66日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６６日目☆彡>>https://youtu.be/TfINf-12gro]]||
+|23/10/12|67日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６７日目☆彡>>https://youtu.be/Wm3sIKSGSLE]]||
+|23/10/13|68日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６８日目☆彡>>https://youtu.be/U2oz28LWPV8]]||
+|23/10/15|69日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６９日目☆彡>>https://youtu.be/TQv6B3UIaFs]]||
+|23/10/16|70日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７０日目☆彡>>https://youtu.be/6XOrKFg6Q2Q]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７０日目(２) ☆彡>>https://youtu.be/9Uwm8cmhSv8]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７０日目(３) ☆彡>>https://youtu.be/bo_7v7kiLtE]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７０日目(４) ☆彡>>https://youtu.be/Y0a5rYIHwLU]]||
+|23/10/17|71日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７１日目☆彡>>https://youtu.be/kTSQmNqjrdI]]||
+|23/10/18|72日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７２日目☆彡>>https://youtu.be/MXKOKmbYVjM]]||
+|23/10/20|73日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７３日目☆彡>>https://youtu.be/qEN3ZhAyJ2U]]||
+|23/10/30|74日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７４日目☆彡>>https://youtu.be/r1ImhXenXKs]]||
+|23/10/31|75日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７５日目☆彡>>https://youtu.be/AjMaUqEYO_0]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2023年11月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|23/11/01|76日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７６日目☆彡>>https://youtu.be/tdBdIqfC7zc]]||
+|23/11/05|77日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７７日目☆彡>>https://youtu.be/SCzFkrAD4Jc]]||
+|23/11/06|78日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７８日目☆彡>>https://youtu.be/BG6m8kz--aU]]||
+|23/11/07|79日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７９日目☆彡>>https://youtu.be/sDzAJpMEep0]]||
+|23/11/08|80日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８０日目☆彡>>https://youtu.be/q4ipy_NBMwQ]]||
+|23/11/10|81日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８１日目☆彡>>https://youtu.be/Ja2I_5uCkVU]]||
+|23/11/11|82日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８２日目☆彡>>https://youtu.be/t9Co9isgddQ]]||
+|23/11/12|83日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８３日目☆彡>>https://youtu.be/MIzmhsBSRiw]]||
+|23/11/14|84日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８４日目☆彡>>https://youtu.be/Kztx4oZemqs]]||
+|23/11/15|85日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８５日目☆彡>>https://youtu.be/vYA8J355exw]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８５日目☆彡>>https://youtu.be/HOICqhFdJII]]|前半/後半|
+|23/11/20|86日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８６日目☆彡>>https://youtu.be/f3GeZF3rQFE]]||
+|23/11/21|87日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８８日目☆彡>>https://youtu.be/BlsM0AaqHqY]]|87日目のアーカイブ|
+|23/11/22|88日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８７日目☆彡>>https://youtu.be/MJCHouovMgk]]|88日目のアーカイブ|
+|23/11/23|89日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８９日目☆彡>>https://youtu.be/HWJwDwP6v8A]]||
+|23/11/24|90日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９０日目☆彡>>https://youtu.be/IJoABVb6uEo]]||
+|23/11/25|91日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９１日目☆彡>>https://youtu.be/b_zVRTg9EaM]]||
+|23/11/26|92日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９２日目☆彡>>https://youtu.be/8BnSS_DV8cw]]||
+|23/11/27|93日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９３日目☆彡>>https://youtu.be/YsNcdrlUU38]]||
+|23/11/28|94日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９４日目☆彡>>https://youtu.be/f0dGDKp9PUI]]||
+|23/11/29|95日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９５日目☆彡>>https://youtu.be/BOHdF8Ux1ac]]||
+|23/11/30|96日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９６日目☆彡>>https://youtu.be/nXT0qq9qBWs]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９６（後半）日目☆彡>>https://youtu.be/qEbUddpMJfo]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2023年12月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|23/12/01|97日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９７日目☆彡>>https://youtu.be/c37Os3zaaSU]]||
+|23/12/02|98日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９８日目☆彡>>https://youtu.be/6XTPfnNnKNk]]||
+|23/12/03|99日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９９日目☆彡>>https://youtu.be/bTRnxio0834]]||
+|23/12/04|100日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１００日目☆彡>>https://youtu.be/DMBlrV4qnjA]]||
+|23/12/06|101日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０１日目☆彡>>https://youtu.be/AlJQiP_xiak]]||
+|23/12/07|102日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０２日目☆彡>>https://youtu.be/1Bbw0BsFeeY]]||
+|23/12/08|103日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０３日目☆彡>>https://youtu.be/OW84CxsdLt0]]||
+|23/12/09|104日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０４日目☆彡>>https://youtu.be/QqWCQ_CnPgA]]||
+|23/12/10|105日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０５日目☆彡>>https://youtu.be/q95e0fWNTtU]]||
+|23/12/11|106日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０６日目☆彡>>https://youtu.be/Hg2fp8E5s0c]]||
+|23/12/12|107日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０７日目☆彡>>https://youtu.be/jbjP3_hM110]]||
+|23/12/13|108日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０８日目☆彡>>https://youtu.be/Fq6ew4fXaC4]]||
+|23/12/14|109日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０９日目☆彡>>https://youtu.be/0nzy_2DnfZw]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１０日目☆彡(前半)>>https://youtu.be/BTwgKKCjxv0]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１０日目☆彡(中半)>>https://youtu.be/eBgM-VICBuo]]|110日目は109日目と同日|
+|23/12/15|110日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１０日目☆彡(後半)>>https://youtu.be/i5BS7eJ0x3U]]|前日の110日目とは別日|
+|23/12/16|111日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１１日目☆彡>>https://youtu.be/i5BS7eJ0x3U]]||
+|23/12/17|112日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１２日目☆彡>>https://youtu.be/HQnOp9I37xs]]||
+|23/12/18|113日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１３日目☆彡>>https://youtu.be/nmAWngJ--4E]]||
+|23/12/19|114日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１４日目☆彡(前半)>>https://youtu.be/reGPs2xTrjI]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１４日目☆彡(後半)>>https://youtu.be/w5Ipt-pDxJE]]||
+|23/12/21|115日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１５日目☆彡>>https://youtu.be/GKM1DFdWORI]]||
+|23/12/22|116日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１６日目☆彡>>https://youtu.be/fVy4_EEP4t4]]||
+|23/12/23|117日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１７日目☆彡(後半)>>https://youtu.be/LdWxTwuw_AM]]|前半アーカイブなし|
+|23/12/24|118日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１８日目☆彡>>https://youtu.be/dpMw1UWotfg]]||
+|23/12/29|119日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１９日目☆彡>>https://youtu.be/PYcH_BfqwD4]]||
+|23/12/30|120日目|１２０日目☆彡|アーカイブなし|
+|23/12/31|121日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１２１日目☆彡>>https://youtu.be/LGDmfmDsRmI]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion
+**2024年
+#region(開く)
+***2024年1月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/01/10|122日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１２２日目☆彡>>https://youtu.be/M7dX0WjEmQ8]]||
+|24/01/11|123日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１２３日目☆彡>>https://youtu.be/p4OcLGhXaJg]]||
+|24/01/13|124日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１２４日目☆彡>>https://youtu.be/oKKlrjKXmL8]]||
+|24/01/14|125日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１２５日目☆彡>>https://youtu.be/S1ejyXo0DuI]]||
+|24/01/15|126日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１２６日目☆彡(前半)>>https://youtu.be/LW9b9TzwCUw]]|01/15の深夜|
+|24/01/16|127日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１２６日目☆彡(後半)>>https://youtu.be/XXDbgJjtNtk]]||
+|24/01/18|128日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１２７日目☆彡>>https://youtu.be/h3Rk8yfOJQY]]||
+|24/01/19|129日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１２８日目☆彡>>https://youtu.be/1jyQhbT2xS0]]||
+|24/01/21|130日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１２９日目☆彡>>https://youtu.be/isErrdXUNpo]]||
+|24/01/27|131日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３０日目☆彡>>https://youtu.be/xL9l_VdOZy8]]||
+|24/01/28|132日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３１日目☆彡>>https://youtu.be/XMGrcFU6URU]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年2月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/02/07|133日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３２日目☆彡>>https://youtu.be/Tu9AtkLoC-g]]||
+|24/02/08|134日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３３日目☆彡>>https://youtu.be/w7NpFWx0USc]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３４日目☆彡>>https://youtu.be/dn7mfRBiS_s]]||
+|24/02/11|135日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３５日目☆彡>>https://youtu.be/3lCIcwb9VwI]]|抗争|
+|24/02/12|XXX日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}IRiSでキャバクラ行くだけ>>https://youtu.be/TQ91h_raSFQ]]|番外編|
+|24/02/20|136日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３６日目☆彡>>https://youtu.be/H7XBxPf1has]]||
+|24/02/21|137日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３７日目☆彡（後半）>>https://youtu.be/ZSX4V38WoF0]]|前半のアーカイブは未公開|
+|24/02/22|138日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３８日目☆彡>>https://youtu.be/beb6b6wc26w]]|誕生日|
+|24/02/23|139日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３９日目☆彡>>https://youtu.be/apoKTQrX5Zw]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３９日目☆彡（後半）>>https://youtu.be/Ca-hf2VYcfo]]||
+|24/02/24|140日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１４０日目☆彡（後半）>>https://youtu.be/oUvldzkscgk]]|前半のアーカイブは未公開|
+|24/02/25|141日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１４１日目☆彡>>https://youtu.be/i4c_PWJqrB8]]||
+|24/02/26|142,143日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１４２日目☆彡>>https://youtu.be/LtAzGkOcxYg]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１４３日目☆彡>>https://youtu.be/_slwuk0EWBQ]]|142日目は配信トラブル|
+|24/02/28|144日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１４４日目☆彡>>https://youtu.be/xuqF0CPZXQU]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年3月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/03/01|145日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１４５日目☆彡>>https://youtu.be/GV3H95mwECE]]||
+|24/03/02|146日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１４６日目☆彡>>https://youtu.be/e0r4_UALHQM]]||
+|24/03/03|147日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１４７日目☆彡>>https://youtu.be/Rke2FmLOo_E]]||
+|24/03/05|148日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１４８日目☆彡>>https://youtu.be/cVs0RAoD-m4]]||
+|24/03/07|149日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１４９日目☆彡>>https://youtu.be/9IJ4WZuujDA]]||
+|24/03/09|150日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５０日目☆彡>>https://youtu.be/C0ELClC2SHw]]||
+|24/03/09|151,152日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５１日目☆彡>>https://youtu.be/ivmUJKgciA0]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５２日目☆彡>>https://youtu.be/uZUTPyYKqyg]]|151日目は配信トラブル|
+|24/03/10|153日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５３日目☆彡>>https://youtu.be/biLOEvtL2Wg]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５３日目☆彡(後半)>>https://youtu.be/rfPnZDa24Xw]]||
+|24/03/12|154日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５４日目☆彡>>https://youtu.be/D9mcw0_eXq4]]||
+|24/03/13|155日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５５日目☆彡>>https://youtu.be/uIEHWGUsXBo]]||
+|24/03/15|156日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５６日目☆彡>>https://youtu.be/fP7eM6SwRDg]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５６日目☆彡>>https://youtu.be/Nfuh82NuoHU]]|前半/後半|
+|24/03/16|157日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５７日目☆彡>>https://youtu.be/Lecx49SoBVA]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５７日目☆彡(後半)>>https://youtu.be/Jq4fs3lHokg]]|前半/後半|
+|24/03/17|158日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５８日目☆彡>>https://youtu.be/f-ZLhLVK0p4]]||
+|24/03/19|159日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５９日目☆彡>>https://youtu.be/TshL2-hpf6w]]||
+|24/03/20|160日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６０日目☆彡>>https://youtu.be/C9zQ1fFgREQ]]||
+|24/03/21|161日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６１日目☆彡>>https://youtu.be/eEopjTbxUMo]]||
+|24/03/22|162日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６２日目☆彡>>https://youtu.be/ICvI4Mz1jZY]]||
+|24/03/23|163日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６３日目☆彡(前半)>>https://youtu.be/MNqSiOJnP2M]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６３日目☆彡(後半)>>https://youtu.be/xJIgBWAZnjI]]||
+|24/03/24|164日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６４日目☆彡>>https://youtu.be/ZllbdScLRTs]]||
+|24/03/27|165日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６５日目☆彡>>https://youtu.be/-r-RnMOtRYM]]||
+|24/03/28|166日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６６日目☆彡>>https://youtu.be/O8OkYMmDoDw]]||
+|24/03/29|167日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６７日目☆彡>>https://youtu.be/7INQLSNG1pc]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年4月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/04/05|168日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６８日目☆彡>>https://youtu.be/CqTDkZ04-6k]]||
+|24/04/07|169日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６９日目☆彡>>https://youtu.be/502AtXa-7v8]]||
+|24/04/09|170日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７０日目☆彡>>https://youtu.be/aqCno1X3Kqk]]||
+|24/04/10|171日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７１日目☆彡>>https://youtu.be/qQvUJHnL-As]]||
+|24/04/11|172日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}甘衣 モカ １０日目>>https://youtu.be/9xmM1pJRJvU?t=12661]]|シュガピ3:31:00～|
+|24/04/12|173日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７２日目☆彡（前半）>>https://youtu.be/QnatZef3fik]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７２日目☆彡（後半）>>https://youtu.be/sZTTgkDp0Ok]]||
+|24/04/13|173日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７３日目☆彡>>https://youtu.be/mXJGNJtexWo]]||
+|24/04/14|174日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７４日目☆彡>>https://youtu.be/b2orOuLwim4]]|173日目と同じアーカイブ|
+|24/04/16|175日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７５日目☆彡（前半）>>https://youtu.be/Ie_KDMBJXFc]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７５日目☆彡（後半）>>https://youtu.be/PEKdvy1P4o8]]||
+|24/04/17|176日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７６日目☆彡>>https://youtu.be/cTsvLH7Zwdg]]||
+|24/04/18|177日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ちょっとのんびり→１７７日目☆彡>>https://youtu.be/K8ViWHeOPTo]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}2ちょっとのんびり→１７７日目☆彡>>https://youtu.be/9pQPWnTlRG0]]|前半ちょっとのんびり|
+|24/04/19|178日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７８日目☆彡>>https://youtu.be/2pw8LVpjNfc]]||
+|24/04/20|178日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７８日目☆彡>>https://youtu.be/H-7z76zMgxY]]|タイトル被り|
+|24/04/21|179日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７９日目☆彡>>https://youtu.be/vQVAncQk8ek]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７９日目(後半)☆彡>>https://youtu.be/Hc2sVZl4MQE]]|ゴン最終日|
+|24/04/23|180日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８０日目☆彡>>https://youtu.be/LmU9qf20vLA]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ダイジェスト：１８０日目☆彡>>https://youtu.be/OqS7rnJ2kT0]]||
+|24/04/24|181日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８１日目☆彡>>https://youtu.be/ELzglSVrtKc]]||
+|24/04/25|182日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８２日目☆彡>>https://youtu.be/wNSPWcVyw3Y]]||
+|24/04/26|183日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８３日目☆彡(前半)>>https://youtu.be/-mAsNPYD75o]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８３日目☆彡(後半)>>https://youtu.be/0miXInEmmJ4]]||
+|24/04/27|184日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８４日目☆彡>>https://youtu.be/-euIeO6-i7w]]||
+|24/04/28|185日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８５日目☆彡(前半)>>https://youtu.be/1EPcW7_VSbk]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８５日目☆彡(後半)>>https://youtu.be/L3S0y8ZGu38]]||
+|24/04/29|XXX日目|[[１９１日目☆彡(後半)>>https://www.twitch.tv/videos/2137873168]]|リンク切れ/アーカイブなし|
+|24/04/30|186日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８６日目☆彡>>https://youtu.be/Bbcx0ifOLaU]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年5月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/05/01|187日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８７日目☆彡（前半）>>https://youtu.be/Dv7INhBm-Fc]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８７日目☆彡（後半）>>https://youtu.be/3qmAvY5uDx8]]||
+|24/05/02|188日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８８日目☆彡（前半）>>https://youtu.be/4o-6aKRem1A]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８８日目☆彡（後半）>>https://youtu.be/eCnZP6dienw]]||
+|24/05/03|189日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８９日目☆彡>>https://youtu.be/puQitTfssfI]]||
+|24/05/04|190日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９０日目☆彡（前半）>>https://youtu.be/nY7g1h-nlt8]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９０日目☆彡(後半)>>https://youtu.be/cPbfWLHupQY]]||
+|24/05/05|191日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９１日目☆彡>>https://youtu.be/6CzSc9JGvbM]]||
+|24/05/08|191.5日目|[[１９１.５日目☆彡>>https://www.twitch.tv/videos/2139813680]]|リンク切れ/アーカイブなし|
+|24/05/08|192日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９２日目☆彡>>https://youtu.be/rRid9dX6waY]]||
+|24/05/10|193日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９３日目☆彡>>https://youtu.be/t1zdVvcNwfY]]||
+|24/05/11|194日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９４日目☆彡>>https://youtu.be/rdBRl3AKahY]]||
+|24/05/14|195日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９５日目☆彡>>https://youtu.be/bhUhQdN3oow]]||
+|24/05/15|196日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９６日目☆彡>>https://youtu.be/4f8v8TbnKFw]]||
+|24/05/16|197日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９７日目☆彡>>https://youtu.be/ItAijIwDtiA]]||
+|24/05/17|198日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９８日目☆彡>>https://youtu.be/1a5A869gjOA]]||
+|24/05/18|199日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９９日目☆彡>>https://youtu.be/NmLSwgCO0jE]]|後半アーカイブなし|
+|24/05/19|200日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２００日目☆彡>>https://youtu.be/BLPWRxUrkFc]]||
+|24/05/21|201日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０１日目☆彡>>https://youtu.be/VLPtYbQl79Q]]||
+|24/05/22|202日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０２日目☆彡>>https://youtu.be/VB547MkWzbc]]||
+|24/05/23|203日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０３日目☆彡>>https://youtu.be/YTAAJ00XEho]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０３日目☆彡（後半）>>https://youtu.be/fcJ_gS5CRcI]]||
+|24/05/24|204日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０４日目☆彡>>https://youtu.be/aaTdbq4qmUM]]||
+|24/05/25|205日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０５日目☆彡>>https://youtu.be/BDEFq8F9ye8]]||
+|24/05/26|206日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０６日目☆彡>>https://youtu.be/x4ceXCEpAeQ]]||
+|24/05/28|207日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０７日目☆彡>>https://youtu.be/OexAbMbDx2Q]]||
+|24/05/29|208日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０８日目☆彡（前半）>>https://youtu.be/Hhf_ziIGUXo]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０８日目☆彡（後半）>>https://youtu.be/VEJ-8YEYxs0]]||
+|24/05/30|208日目|[[２０８日目☆彡>>https://www.twitch.tv/videos/2159180963]]|リンク切れ/アーカイブなし|
+|24/05/31|209日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０９日目☆彡>>https://youtu.be/T8nGh7MqWXk]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年6月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/06/01|210日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２１０日目☆彡>>https://youtu.be/vcMmbGhJCkQ]]||
+|24/06/02|211日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２１１日目☆彡>>https://youtu.be/rb-HwO2uQJc]]||
+|24/06/03|216日目|[[２１６日目☆彡>>https://www.twitch.tv/videos/2167608857]]|リンク切れ/アーカイブなし|
+|24/06/04|212日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２１２日目☆彡>>https://youtu.be/enSBQ2_CYCI]]||
+|24/06/05|213日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２１３日目☆彡>>https://youtu.be/N3UitiDwwUw]]||
+|24/06/06|214日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２１４日目☆彡>>https://youtu.be/2zzMC2MKhjU]]||
+|24/06/09|215日目|[[２１５日目☆彡>>https://www.twitch.tv/videos/2167040191]]|リンク切れ/アーカイブなし|
+|24/06/09|216日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２１６日目☆彡>>https://youtu.be/1xi87wkX0Ms]]||
+|24/06/11|217日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２１７日目☆彡>>https://youtu.be/d83iRiRory4]]||
+|24/06/12|218日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２１８日目☆彡>>https://youtu.be/gdqEO-jUE_I]]||
+|24/06/13|219日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２１９日目☆彡>>https://youtu.be/jN269LHQwfE]]||
+|24/06/14|220日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２２０日目☆彡>>https://youtu.be/lQZdoRUN5ag]]||
+|24/06/15|221日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２２１日目☆彡>>https://youtu.be/5W79Xq49Txo]]||
+|24/06/16|222日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２２２日目☆彡>>https://youtu.be/V_DjurRwQz8]]||
+|24/06/19|223日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２２３日目☆彡>>https://youtu.be/evvX2cv11ZU]]||
+|24/06/26|225日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２２５日目☆彡>>https://youtu.be/EyU0l9gOHFo]]||
+|24/06/27|226日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２２６日目☆彡>>https://youtu.be/OL6ohVfGeTU]]||
+|24/06/28|227日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２２７日目☆彡>>https://youtu.be/ofVm7EzmHcM]]||
+|24/06/29|228日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２２８日目☆彡(前半)>>https://youtu.be/qC610FmWhGQ]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２２８日目☆彡(後半)>>https://youtu.be/h7v_Woqo_to]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年7月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/07/01|229日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２２９日目☆彡>>https://youtu.be/tq15cAbD1so]]||
+|24/07/02|230日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２３０日目☆彡>>https://youtu.be/SYD-Og5t-wk]]||
+|24/07/03|231日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２３１日目☆彡>>https://youtu.be/Fon7uxIV6Ls]]||
+|24/07/04|232日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２３２日目☆彡>>https://youtu.be/CQfZUE3P8E4]]||
+|24/07/13|233日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２３３日目☆彡>>https://youtu.be/-2ac1Bun9ME]]||
+|24/07/14|234日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２３４日目☆彡>>https://youtu.be/IW-y6k-Ppk8]]||
+|24/07/17|235日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２３５日目☆彡>>https://youtu.be/mtsAyFjFxrM]]||
+|24/07/18|236日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２３６日目☆彡>>https://youtu.be/T0JGeoa8VDg]]||
+|24/07/19|237日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２３７日目☆彡>>https://youtu.be/Z4W5mt3lrFM]]||
+|24/07/20|238日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２３８日目☆彡>>https://youtu.be/u7_A3A7605U]]||
+|24/07/21|239日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２３９日目☆彡>>https://youtu.be/8QBkvao-6LA]]||
+|24/07/23|240日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２４０日目☆彡>>https://youtu.be/NcWZIfyWUHo]]||
+|24/07/25|241日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２４１日目☆彡>>https://youtu.be/rp_BoYfX4us]]||
+|24/07/27|242日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２４２日目☆彡>>https://youtu.be/kg2K2UUI46s]]||
+|24/07/29|243日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２４３目☆彡>>https://youtu.be/8jgaGaFKF_E]]||
+|24/07/30|244日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２４４目☆彡>>https://youtu.be/r2bv8Qlic9Y]]||
+|24/07/31|245日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２４５目☆彡 >>https://youtu.be/zB7_WC2cNjk]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年8月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/08/01|246日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２４６目☆彡>>https://youtu.be/a89GzefXLNg]]||
+|24/08/02|247日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２４７目☆彡>>https://youtu.be/mrHHJ-IEmRw]]||
+|24/08/03|248日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２４８目☆彡>>https://youtu.be/NmXCOilAwG4]]||
+|24/08/04|249日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２４９目☆彡>>https://youtu.be/T_SyM_bahPU]]||
+|24/08/06|250日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２５０目☆彡>>https://youtu.be/tyve_sxo1-U]]||
+|24/08/07|251日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２５１目☆彡>>https://youtu.be/FfYHSG49n90]]||
+|24/08/08|252日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２５２目☆彡>>https://youtu.be/2u_4jdmZWvk]]||
+|24/08/09|253日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２５３目☆彡>>https://youtu.be/3xS0J0rFOZA]]||
+|24/08/10|254日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２５４目☆彡>>https://youtu.be/xgoAq2iq5p4]]||
+|24/08/11|255日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２５５目☆彡>>https://youtu.be/w8aqeM47K40]]||
+|24/08/13|256日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２５６目☆彡>>https://youtu.be/hB_oSLReXv0]]||
+|24/08/15|257日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２５７目☆彡>>https://youtu.be/rmbqe9VxfY0]]||
+|24/08/17|258日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２５８目☆彡>>https://youtu.be/FLb1fEX-Txk]]||
+|24/08/18|259日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２５９目☆彡>>https://youtu.be/vSmZOU7cFI0]]||
+|24/08/20|260日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６０目☆彡>>https://youtu.be/8q3aBn4GXLE]]||
+|24/08/21|261日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６１目☆彡>>https://youtu.be/5_ne2hkDFAY]]||
+|24/08/22|262日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６２目☆彡>>https://youtu.be/LKie470VIwY]]||
+|24/08/23|263日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６３目☆彡>>https://youtu.be/z-LEX3TllrI]]||
+|24/08/24|264日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６４目☆彡>>https://youtu.be/MUUsDGbJtzo]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６４目☆彡（後半）>>https://youtu.be/94YBM398IOc]]||
+|24/08/26|265日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６５目☆彡>>https://youtu.be/QD_n5YAc1qE]]||
+|24/08/27|266日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６６目☆彡>>https://youtu.be/AjLWZtfyCiA]]||
+|24/08/28|267日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６７目☆彡>>https://youtu.be/Rk7rDLH0AcU]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年9月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/09/03|268日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６８目☆彡2>>https://youtu.be/vw5ERykmhBQ]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６８目☆彡3>>https://youtu.be/DYlK7ZjjLYk]]|配信トラブル|
+|24/09/04|269日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２６９目☆彡>>https://youtu.be/aNQFBZMuKQ8]]||
+|24/09/05|270日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２７０目☆彡>>https://youtu.be/rlSWlsLMAIE]]||
+|24/09/06|271日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２７１目☆彡>>https://youtu.be/wuVKktStv4k]]||
+|24/09/07|272日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２７２目☆彡>>https://youtu.be/2QlFqUbI7q4]]||
+|24/09/08|273日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２７３ 目☆彡>>https://youtu.be/M5FDxYNXDCM]]||
+|24/09/10|274日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２７４ 目☆彡>>https://youtu.be/5mhnTs8PCbY]]||
+|24/09/11|275日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２７５ 目☆彡>>https://youtu.be/oytvOTTzNLs]]||
+|24/09/12|276日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２７６ 目☆彡>>https://youtu.be/gzbzMMKMML8]]||
+|24/09/15|277日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２７７ 目☆彡>>https://youtu.be/Z_Y5TOAGp5c]]||
+|24/09/18|278日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２７８ 目☆彡>>https://youtu.be/yWFku4pyaYQ]]||
+|24/09/19|279日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２７９ 目☆彡>>https://youtu.be/vCJMcTCmsEw]]||
+|24/09/25|280日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２８０ 目☆彡>>https://youtu.be/GoPxyYlmYBs]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年10月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/10/01|281日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２８１ 目☆彡>>https://youtu.be/YNyN1fwVcF0]]||
+|24/10/02|282日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２８２ 目☆彡>>https://youtu.be/U_eNmAN3xLs]]||
+|24/10/02|282日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２８２ 目☆彡>>https://youtu.be/M_ESRtfj5VM]]|2つアップされている|
+|24/10/03|283日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２８３ 目☆彡>>https://youtu.be/51aHvlBT9IM]]||
+|24/10/04|284日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２８４ 目☆彡>>https://youtu.be/KT4mh3jnSPY]]||
+|24/10/05|285日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２８５ 目☆彡>>https://youtu.be/jMzbGdHShwg]]||
+|24/10/06|286日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２８６ 目☆彡>>https://youtu.be/X5QVrGMJqvQ]]||
+|24/10/09|287日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２８７ 目☆彡>>https://youtu.be/bCiQsqR7lMA]]||
+|24/10/10|288日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２８８ 目☆彡>>https://youtu.be/HaNrLwC4UdI]]||
+|24/10/12|289日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２８９ 目☆彡>>https://youtu.be/YQnJvTKZklE]]||
+|24/10/13|290日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２９０ 目☆彡>>https://youtu.be/g-9RSihqJPg]]||
+|24/10/15|291日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２９１ 目☆彡>>https://youtu.be/WGXGSo0o1qo]]||
+|24/10/17|292日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２９２ 目☆彡>>https://youtu.be/coIOjXEukRw]]||
+|24/10/19|293日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２９３ 目☆彡>>https://youtu.be/c_14deGA2G0]]||
+|24/10/22|294日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２９４ 目☆彡>>https://youtu.be/jcZkDGEOQCU]]||
+|24/10/23|295日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２９５ 目☆彡>>https://youtu.be/qMSqqJWdpdA]]||
+|24/10/27|296日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２９６ 目☆彡>>https://youtu.be/nADtkFNBozg]]||
+|24/10/29|297日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２９７ 目☆彡>>https://youtu.be/SVFE-Ee5nuU]]||
+|24/10/30|298日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２９８ 目☆彡>>https://youtu.be/vDnA1CRapzM]]||
+|24/10/31|299日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２９９ 目☆彡>>https://youtu.be/OAaeqKJqbQA]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年11月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/11/04|300日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３００ 目☆彡>>https://youtu.be/qJJIkKBgrxk]]||
+|24/11/05|301日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３０１ 目☆彡>>https://youtu.be/AKdO6fomQWs]]||
+|24/11/07|302日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３０２ 目☆彡>>https://youtu.be/cC0egnjQUo0]]||
+|24/11/08|303日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３０３ 目☆彡>>https://youtu.be/R0FiFGu8GVw]]||
+|24/11/09|304日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３０４ 目☆彡>>https://youtu.be/gntmOIGh17w]]||
+|24/11/13|305日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３０５ 目☆彡>>https://youtu.be/w7nEmdowiC4]]||
+|24/11/14|306日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３０６ 目☆彡>>https://youtu.be/abv8IDQjOos]]||
+|24/11/15|307日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３０７ 目☆彡>>https://youtu.be/wazTLQeQvnI]]||
+|24/11/20|308日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３０８ 目☆彡>>https://youtu.be/Kv95RoR3yRM]]||
+|24/11/24|309日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３０９ 目☆彡>>https://youtu.be/lmuwHSN_Zkk]]||
+|24/11/26|310日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３１０ 目☆彡>>https://youtu.be/Pvy5Clql1K0]]||
+|24/11/27|311日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３１１ 目☆彡>>https://youtu.be/k4H8VZS4ZqA]]||
+|24/11/28|312日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３１２ 目☆彡>>https://youtu.be/viaTUtStBZE]]||
+|24/11/29|313日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３１３ 目☆彡>>https://youtu.be/xj13TGyKBr4]]||
+|24/11/30|314日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３１４ 目☆彡>>https://youtu.be/wEFPrmpMd1E]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2024年12月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|24/12/01|315日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３１５ 目☆彡>>https://youtu.be/J59QItCcyjc]]||
+|24/12/10|316日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３１６ 目☆彡>>https://youtu.be/3Pcf1eud2Q8]]||
+|24/12/11|317日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３１７ 目☆彡後半>>https://youtu.be/tcNpxuIJgGk]]|前半アーカイブなし|
+|24/12/12|318日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３１８ 目☆彡>>https://youtu.be/t1j-eaXAGiI]]||
+|24/12/13|319日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３１９ 目☆彡>>https://youtu.be/nTIetB1BsRA]]||
+|24/12/15|320日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３２０ 目☆彡>>https://youtu.be/XNapKJR9vxo]]||
+|24/12/15|321日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３２１ 目☆彡>>https://youtu.be/xKWefT0n8L0]]||
+|24/12/17|322日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３２２ 目☆彡>>https://youtu.be/4_brySWoT4g]]||
+|24/12/18|323日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３２３ 目☆彡>>https://youtu.be/tOf0X0HufD8]]||
+|24/12/19|324日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３２４ 目☆彡>>https://youtu.be/ZQu2UW8ACiA]]||
+|24/12/21|325日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３２５ 目☆彡>>https://youtu.be/hG6q5Yyz-c8]]||
+|24/12/24|326日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３２６ 目☆彡>>https://youtu.be/FHtzHNOH4uM]]||
+|24/12/25|326.5日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}メリクリ🎄３２６ .５日目>>https://youtu.be/Ojt-FM8F9qY]]||
+|24/12/26|327日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３２７ 目☆彡>>https://youtu.be/X_CYrnbVPBs]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３２７ 目☆彡後半>>https://youtu.be/X1Z560QQdUM]]||
+|24/12/27|328日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３２８ 目☆彡>>https://youtu.be/CZwp-p8mF_8]]||
+|24/12/29|329日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３２９ 目☆彡>>https://youtu.be/ax0JazL3WUM]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion
+**2025年
+#region(開く)
+***2025年1月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|25/01/03|330日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３３０ 目☆彡>>https://youtu.be/avY--CSXZrc]]||
+|25/01/05|331日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３３１ 目☆彡>>https://youtu.be/ceXuYmgEvX0]]||
+|25/01/07|332日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３３２ 目☆彡>>https://youtu.be/4P-67pFe5Cc]]||
+|25/01/08|333日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３３３ 目☆彡>>https://youtu.be/KUMx2WVlnME]]||
+|25/01/09|334日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３３４ 目☆彡>>https://youtu.be/Kb-TVccmNYg]]||
+|25/01/12|335日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３３５ 目☆彡>>https://youtu.be/7iT7KiJr_u4]]||
+|25/01/12|336日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３３６ 目☆彡>>https://youtu.be/QY59JUBpPbk]]||
+|25/01/15|337日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３３７ 目☆彡>>https://youtu.be/-8fvSGQMM4c]]||
+|25/01/16|338日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３３８ 目☆彡>>https://youtu.be/I2K6S8sCwE4]]||
+|25/01/18|339日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３３９ 目☆彡>>https://youtu.be/zLCjnDlq6D0]]||
+|25/01/18|340日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４０ 目☆彡 >>https://youtu.be/uuqjvAzotlQ]]||
+|25/01/19|341日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４１ 目☆彡 >>https://youtu.be/P0SUzqZaTQ8]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４１ 目☆彡 後半>>https://youtu.be/fb13UuXowvk]]||
+|25/01/23|342日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４２ 目☆彡 >>https://youtu.be/GnrkKHQEPBU]]||
+|25/01/24|343日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４３目☆彡 >>https://youtu.be/blhgNCkl0Bs]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４３目☆彡 後半 >>https://youtu.be/rHYVaoLM6PA]]||
+|25/01/25|344日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４４目☆彡 >>https://youtu.be/pmC__v-kXTM]]||
+|25/01/26|345日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４５目☆彡>>https://youtu.be/l0QKMLnvZ_c]]||
+|25/01/28|346日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４６目☆彡>>https://youtu.be/2Mx-W866AfM]]||
+|25/01/29|347日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４７目☆彡>>https://youtu.be/t7PDXsaWxNM]]||
+|25/01/30|348日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４８目☆彡>>https://youtu.be/rgbPumbr3Eo]]||
+|25/01/31|349日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３４９目☆彡>>https://youtu.be/aKEQK58vgR0]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2025年2月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|25/02/01|350日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３５０目☆彡>>https://youtu.be/8Q66pVGwNpQ]]||
+|25/02/02|351日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３５１目☆彡>>https://youtu.be/2a0I57rNKck]]||
+|25/02/04|352日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３５２目☆彡>>https://youtu.be/mKcfNVQ3MfY]]||
+|25/02/05|353日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３５３目☆彡>>https://youtu.be/dxnvaqYSOrc]]||
+|25/02/06|354日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３５４目☆彡>>https://youtu.be/Q-PiBWPrCkE]]||
+|25/02/07|355日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３５５目☆彡>>https://youtu.be/yM9MYvePjyI]]||
+|25/02/08|356日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３５６目☆彡>>https://youtu.be/L5sX7dnStkw]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３５６目☆彡後半>>https://youtu.be/ymtvVNYbE_U]]||
+|25/02/09|357日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３５７目☆彡>>https://youtu.be/6pC2wGSBli4]]||
+|25/02/11|358日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３５８目☆彡>>https://youtu.be/Zgwn8D5m6iI]]||
+|25/02/12|359日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３５９目☆彡>>https://youtu.be/bOAhPFVscqA]]||
+|25/02/15|360日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３６０目☆彡>>https://youtu.be/aWFJMHeeLeA]]||
+|25/02/20|361日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３６１目☆彡>>https://youtu.be/H-cTrl7F7Ec]]||
+|25/02/21|362日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３６２目☆彡>>https://youtu.be/xq03j6iBtfA]]||
+|25/02/22|363日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３６３目☆彡>>https://youtu.be/VHezWiX_yGs]]||
+|25/02/23|364日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３６４目☆彡>>https://youtu.be/TDVs7XcZpsk]]||
+|25/02/25|365日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３６５目☆彡>>https://youtu.be/srMFam-UbXU]]||
+|25/02/26|366日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３６６目☆彡>>https://youtu.be/xAl2thfcKBU]]||
+|25/02/27|367日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３６７目☆彡>>https://youtu.be/1D7EZ1ELbh4]]||
+|25/02/28|368日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３６８目☆彡>>https://youtu.be/vYFS0o7WgEk]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2025年3月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|25/03/01|369日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３６９目☆彡>>https://youtu.be/zRwQTMz-PK4]]||
+|25/03/04|370日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３７０目☆彡>>https://youtu.be/aZhbfTeshVk]]||
+|25/03/06|371日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３７１目☆彡>>https://youtu.be/aFFOKb8E7IU]]||
+|25/03/07|372日目|&font(#DA1725)３７２目☆彡||
+|25/03/08|373日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３７３目☆彡>>https://youtu.be/HNNMuDUfJNQ]]||
+|25/03/09|374日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３７４目☆彡>>https://youtu.be/qPTuALfJyBg]]||
+|25/03/11|375日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３７５目☆彡>>https://youtu.be/GhT295HZTgs]]||
+|25/03/12|376日目|&font(#DA1725)３７６目☆彡||
+|25/03/13|377日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３７７目☆彡>>https://youtu.be/4MpjOInd3F8]]||
+|25/03/15|378日目|&font(#DA1725)３７８目☆彡||
+|25/03/16|379日目|&font(#DA1725)３７９目☆彡||
+|25/03/18|380日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３８０目☆彡>>https://youtu.be/9HhFhzmLBws]]||
+|25/03/19|381日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３８１目☆彡>>https://youtu.be/QYp8Py1KvQc]]||
+|25/03/20|382日目|&font(#DA1725)３８２目☆彡/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３８２目☆彡（後半）>>https://youtu.be/vMPlnOgr1d8]]||
+|25/03/21|383日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３８３目☆彡>>https://youtu.be/Jvg0OwVoh-8]]||
+|25/03/22|384日目|&font(#DA1725)３８４目☆彡||
+|25/03/23|385日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３８５目☆彡>>https://youtu.be/-MuU8oLJM7Q]]||
+|25/03/25|386日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３８６目☆彡>>https://youtu.be/OF9Ou3_Se4s]]||
+|25/03/26|387日目|&font(#DA1725)３８７目☆彡||
+|25/03/27|388日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３８８目☆彡>>https://youtu.be/zaV_CTCmRLU]]||
+|25/03/28|389日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３８９目☆彡>>https://youtu.be/eUrUlOe_uyo]]||
+|25/03/29|390日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３９０目☆彡>>https://youtu.be/MdqfPZK1pxk]]||
+|25/03/30|391日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３９１目☆彡>>https://youtu.be/eKZp-3hEVn0]]||
+|25/03/31|392日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３９２目☆彡→？？？日目☆彡>>https://youtu.be/Q3kjE2pEJxE]]|SPD|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2025年4月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|25/04/01|XXX日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}？？？目☆彡（後半）>>https://youtu.be/yVJuBh4c8RY]]|SPD|
+|25/04/02|393日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３９３目☆彡>>https://youtu.be/mbGm-40umSU]]||
+|25/04/03|394日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３９４目☆彡>>https://youtu.be/WOgjuJGtPqY]]||
+|25/04/04|395日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３９５目☆彡>>https://youtu.be/04wEldkiXms]]||
+|25/04/08|396日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３９６目☆彡>>https://youtu.be/o22yvUafzAw]]||
+|25/04/09|397日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３９７目☆彡>>https://youtu.be/BWKz8gOfgtw]]||
+|25/04/10|398日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３９８目☆彡>>https://youtu.be/VgF02qcNaJw]]||
+|25/04/15|399日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３９９目☆彡>>https://youtu.be/RXZC6cciyrQ]]||
+|25/04/16|400日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４００目☆彡>>https://youtu.be/dITJM3K-1EU]]||
+|25/04/17|401日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４０１目☆彡>>https://youtu.be/BiO23jyEUR0]]||
+|25/04/18|402日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４０２目☆彡>>https://youtu.be/75_atC-jEMs]]||
+|25/04/19|403日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４０３目☆彡>>https://youtu.be/hlmGFGQN-eU]]||
+|25/04/20|404日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４０４目☆彡>>https://youtu.be/bLxKGcUFfLk]]||
+|25/04/23|405日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４０５目☆彡>>https://youtu.be/I17jEj7R6c8]]||
+|25/04/XX|406日目|&font(#DA1725)４０６目☆彡||
+|25/04/29|407日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４０７目☆彡>>https://youtu.be/J0aO1ouVT-g]]|起床時間としては4/30日|
+|25/04/30|408日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４０８目☆彡>>https://youtu.be/heYtPwCtS7A]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2025年5月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|25/05/01|409日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４０９日目☆彡>>https://youtu.be/Im0IG50Fjho]]||
+|25/05/04|410日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４１０日目☆彡>>https://youtu.be/n4nzfNfy3HQ]]||
+|25/05/07|411日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４１１日目☆彡>>https://youtu.be/L5YKJqnW4sU]]||
+|25/05/08|412日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４１２日目☆彡>>https://youtu.be/WbsYMAhO7l0]]||
+|25/05/09|413日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４１３日目☆彡>>https://youtu.be/RntA3KN0Amo]]||
+|25/05/10|414日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４１４日目☆彡>>https://youtu.be/NywAnBtLI8E]]||
+|25/05/16|415日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４１５日目☆彡>>https://youtu.be/MvNtEqgSE8w]]||
+|25/05/18|416日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４１６日目☆彡>>https://youtu.be/qEn_5EjsgVM]]||
+|25/05/20|417日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４１７日目☆彡>>https://youtu.be/iO8Sgkgytwg]]||
+|25/05/22|418日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４１８日目☆彡>>https://youtu.be/zAM3g8lAYWc]]||
+|25/05/27|419日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４１９日目☆彡>>https://youtu.be/kwRWapT3L0Y]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2025年6月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|25/06/03|420日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４２０日目☆彡>>https://youtu.be/EmXlq3SN46s]]||
+|25/06/04|421日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}？？日目 6/4 後半シュガピ４２１日目>>https://youtu.be/_wGwvIwYcT4]]||
+|25/06/05|422日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４２２日目☆彡>>https://youtu.be/j-3gsGDwljM]]||
+|25/06/06|423日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４２３日目☆彡>>https://youtu.be/WdoP9fajrYg]]||
+|25/06/10|424日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４２４日目☆彡>>https://youtu.be/HPL6EiB3SeQ]]||
+|25/06/11|425日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４２５日目☆彡>>https://youtu.be/ym0TxPld4tc]]||
+|25/06/13|426日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４２６日目☆彡>>https://youtu.be/ON5C84gPaFI]]||
+|25/06/15|427日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４２７日目☆彡>>https://youtu.be/9-1oX1PCnzY]]||
+|25/06/21|428日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４２８日目☆彡>>https://youtu.be/O28hlw11TxU]]||
+|25/06/22|429日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４２９日目☆彡>>https://youtu.be/Jd4u56UEGac]]||
+|25/06/24|430日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４３０日目☆彡>>https://youtu.be/goofqFhKoq4]]||
+|25/06/25|431日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４３１日目☆彡>>https://youtu.be/zZhklRNRaks]]||
+|25/06/26|432日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４３２日目☆彡>>https://youtu.be/jhr1gisjUWg]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2025年7月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|25/07/01|433日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４３３日目☆彡>>https://youtu.be/2KTRXemRDG4]]||
+|25/07/02|434日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４３４日目☆彡>>https://youtu.be/Czy1tvDX7eU]]||
+|25/07/06|435日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４３５日目☆彡>>https://youtu.be/ivyuFJquY94]]||
+|25/07/08|436日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４３６日目☆彡>>https://youtu.be/PPERbLzxXIQ]]||
+|25/07/10|437日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４３７日目☆彡>>https://youtu.be/rpv-YNEYlbY]]||
+|25/07/11|438日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４３８日目☆彡>>https://youtu.be/2ztlCJgWMWQ]]||
+|25/07/12|439日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４３９日目☆彡>>https://youtu.be/FQHtuxje3Xw]]||
+|25/07/13|440日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４４０日目☆彡>>https://youtu.be/6gTt2RDZ3-Y]]||
+|25/07/15|441日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４４１日目☆彡>>https://youtu.be/4EWew80_lzY]]||
+|25/07/16|442日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４４２日目☆彡>>https://youtu.be/7rIfwcFSy0c]]||
+|25/07/17|443日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４４３日目☆彡>>https://youtu.be/vwkfEpwUT_w]]||
+|25/07/18|444日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４４４日目☆彡>>https://youtu.be/h3YbjMROvXk]]||
+|25/07/19|445日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４４５日目☆彡>>https://youtu.be/HEtx9MjGRH8]]||
+|25/07/22|446日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４４６日目☆彡>>https://youtu.be/2Gf_bq7Ch68]]||
+|25/07/24|447日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４４７日目☆彡>>https://youtu.be/T2opQfBOY9g]]||
+|||[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４４７日目☆彡後半>>https://youtu.be/-A1srIysqaE]]||
+|25/07/25|448日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４４８日目☆彡>>https://youtu.be/GcARmiXspNs]]||
+|25/07/26|449日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４４９日目☆彡>>https://youtu.be/Owv2ZW5KxdE]]||
+|25/07/27|450日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４５０日目☆彡>>https://youtu.be/XrB3g5ixPwI]]||
+|25/07/29|451日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４５１日目☆彡>>https://youtu.be/rGRnkhqtTDg]]||
+|25/07/31|452日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４５２日目☆彡>>https://youtu.be/7DqSfyVhvv0]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2025年8月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|25/08/05|453日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４５３日目☆彡>>https://youtu.be/kgmTRfCs6Co]]||
+|25/08/07|454日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４５４日目☆彡>>https://youtu.be/GuGgGQITBLQ]]||
+|25/08/08|455日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４５５日目☆彡>>https://youtu.be/7lKiPvU1Xz0]]||
+|25/08/09|456日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４５６日目☆彡>>https://youtu.be/O1DkpemE3HU]]||
+|25/08/12|457日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４５７日目☆彡>>https://youtu.be/MiY8kGHULGQ]]||
+|25/08/13|458日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４５８日目☆彡>>https://youtu.be/RLQ5-yj87M0]]||
+|25/08/15|459日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４５９日目☆彡>>https://youtu.be/NK8o1_yeukU]]||
+|25/08/16|460日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４６０日目☆彡>>https://youtu.be/r0RprK5ib6Q]]||
+|25/08/17|461日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４６１日目☆彡>>https://youtu.be/VRvrhEFVqUQ]]||
+|25/08/20|462日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４６２日目☆彡>>https://youtu.be/jjD_jUEYUag]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2025年9月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|25/09/03|463日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４６３日目☆彡>>https://youtu.be/zuYVqSAlR7c]]||
+|25/09/05|464日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４６４日目☆彡>>https://youtu.be/odnmTAkYdV4]]||
+|25/09/10|465日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４６５日目☆彡>>https://youtu.be/LxCJCP0RpXw]]||
+|25/09/12|466日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４６６日目☆彡>>https://youtu.be/88huPp7L2lo]]||
+|25/09/16|467日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４６７日目☆彡>>https://youtu.be/PtOHYlsqdkc]]||
+|25/09/17|468日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４６８日目☆彡>>https://youtu.be/WGZ8jZ_TPwQ]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４６８日目☆彡後半>>https://youtu.be/aErBUntmNTY]]||
+|25/09/18|469日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４６９日目☆彡>>https://youtu.be/1f2ScIsquv4]]||
+|25/09/20|470日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４７０日目☆彡後半>>https://youtu.be/XDOmiP7Hg7Q]]||
+|25/09/21|471日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４７１日目☆彡>>https://youtu.be/SwjEjLiQ6ns]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion
+#endregion(Season1)
+***&size(150%){&bgcolor(#eebbcb){&nbsp()&font(#ffffff,90%){Season2}&nbsp(30)}}
+#region(close,開く)
+**2025年
+#region(close,開く)
+***2025年12月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|25/12/19|1日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１日目🍑>>https://youtu.be/Zwd_WYxasCM]]||
+|25/12/24|2日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２日目🍑>>https://youtu.be/DK4ZyG5Z3Hk]]||
+|25/12/25|3日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３日目🍑>>https://youtu.be/N-rYqPeBMJQ]]||
+|25/12/26|4日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}４日目🍑>>https://youtu.be/mbnluHAoji0]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(12月)
+#endregion(2025年)
+**2026年
+#region(close,開く)
+***2026年1月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|26/1/1|5日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}５日目🍑>>https://youtu.be/rkQQvvivpus]]||
+|26/1/2|6日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}６日目🍑>>https://youtu.be/hvUjLCwt4ag]]||
+|26/1/3|7日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}７日目🍑>>https://youtu.be/PZl_OD8-PUk]]||
+|26/1/4|8日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}８日目🍑>>https://youtu.be/gJzh4P5c-OQ]]||
+|26/1/9|9日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}９日目🍑>>https://youtu.be/IKYHSFw3hNU]]||
+|26/1/10|10日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１０日目🍑>>https://youtu.be/jQjMVRZudMM]]||
+|26/1/11|11日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１１日目🍑>>https://youtu.be/NpswFqd_qjs]]||
+|26/1/17|12日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１２日目🍑>>https://youtu.be/kfDTd-Vv44A]]||
+|26/1/18|13日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１３日目🍑>>https://youtu.be/_9jI-jxOUKk]]||
+|26/1/22|14日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１４日目🍑>>https://youtu.be/kscsLO6cMxA]]||
+|26/1/24|15日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１５日目🍑>>https://youtu.be/f0_SbhfO-FY]]||
+|26/1/25|16日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１６日目🍑>>https://youtu.be/-Tp5-T4q_90]]||
+|26/1/29|17日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１７日目🍑>>https://youtu.be/aVQGP0BXvTQ]]||
+|26/1/30|18日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１８日目🍑>>https://youtu.be/WupxL_fX4QA]]||
+|26/1/31|19日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９日目🍑>>https://youtu.be/3jy3AhwQT9Y]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}１９日目🍑後半>>https://youtu.be/v6gj7ObK_vs]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(1月)
+***2026年2月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|26/2/1|20日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２０日目🍑>>https://youtu.be/RsDu3LuIiXs]]||
+|26/2/4|21日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２１日目🍑>>https://youtu.be/BJpElhq934s]]||
+|26/2/13|22日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２２日目🍑>https://youtu.be/48lHhO8H8ko]]||
+|26/2/14|23日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}２３日目🍑>https://youtu.be/PoIvVLH3s8o]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2月)
+***2026年3月
+#region(開く)
+#table_style(head=center:#ffbfea){配信日=right,#=center}
+|~配信日|~day|~配信タイトル|~備考|h
+|26/3/1|30日目|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}３０日目🍑>https://youtu.be/9Nex9Ri0hvw]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(3月)
+#endregion(2026年)
+#endregion(Season2)
+*&color(#ffffff){&icon_fa(fa-solid fa-user-plus)} 関連情報
+&bold(){※別キャラクター}
+
+#region(ネタバレ注意)閉じる
+[[甘依　モカ]]
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

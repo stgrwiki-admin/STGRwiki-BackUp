@@ -1,0 +1,408 @@
+&image(川上たばこ店ロゴ.png,width=350,height=197)
+#slide_img(auto=4,position=left,width=350,height=197){川上たばこ店_記念写真_20260731.jpg,店舗外観.png,店内2.png,川上タバコ店_集合写真.jpg}
+//画像の上下の余白が気になる場合、余白なしにできる方いれば差し替えてください
+//店舗看板を上面に出し、お客様の足取りを再現するよう、店構えから店内を順繰りに映すようにスライドを調整致しました。
+
+//店名はステッカーにある表記に準拠
+#table_style(head=#80604D:#EDD3A1){}
+#table_filter(){Season1=hide,Season2=show}
+|~世界線|~Season1|~Season2|h
+|~店名|>|&ruby(かわかみ){川上}たばこ&ruby(てん){店}|
+|~業種|>|たばこ屋|
+|~開業日|2024年01月05日|2026年04月16日&space()(&countup(2026/04/16,yd)経過)|
+|~所在地|>|8052番地|
+|~TwiX||@tabakoofficial|
+|~オーナー|[[川　上]]|&s(){[[柚麦　とと]]}&small(){(2026/07/31 退職)}&br()[[元難波　芽久未]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&color(#EDD3A1){基本情報}
+&font(b,16px,#444){店舗の概要}
+***Season1
+#region(開く)
+-[[市長>山下　ひろし]]に開業資金2000万を支払い、経営権を獲得。
+-2024/01/05に[[警察署(本署)>ロスサントス警察]]近くの一等地8052番地にオープンした。
+--別の場所での開業を市長に相談したが、店舗の内装など諸都合でこの番地となった。
+--近所には『[[カニメイト]]』『[[須藤バックスコーヒー]]』という飲食店もある。
+--06/12に大口注文や自販機補充に備え裏口を出てすぐのところの不動産を、川上が長く寝ている間に&bold(){ぴん子が}7000万円経費で購入した。
+-オーナーの趣味である各種カーレースに出資している。
+-白を基調としたフォーマルな衣装を制服としている。
+-基本的にはやる気のない店員を雇う傾向にあり、「やる気はあるか？」と聞き「あります！」と答えられると落とす。
+#endregion
+***Season2
+-前オーナー[[川上>>川　上]]に話を通し、前の街で店員だった[[柚麦　とと]]と[[元難波　芽久未]]が共同オーナーとして引き続いだたばこ店。
+----
+***商品について
+-商品のモチーフは夢の世界にあるタバコであるため、パッケージや商品名から元ネタがわかるようになっている。
+--説明文には店主である川上の思想が見え隠れしている。
+--「○○的なやつ」と注文する事でそれをモチーフにしたような商品が注文できる。
+-商品の種類は逐次増やしていく予定であり、モチーフのリクエストも受け付けている。
+--店主の川上はオープン時、順調に進めば2週間くらいで商品が50種を超えるかもしれないと話していたが、オープンから6日目で50種に達した。
+
+#region(Season1 ギャング専売たばこ)
+-裏メニューとして各ギャングをモチーフにしたタバコを各ボスに確認を取り作成している。構成員のみ合言葉を言って購入可能。
+-川上視点では街の誰がどこに所属している等はほぼわからず、A2に来た客の内情を大川経由で聞くことが多いため、何かしらの関わりができ次第交渉にはいっている。
+
+#table_filter(){ギャング名=show,画像=show,商品名=show,提供開始日=hide,説明=show,由来=show}
+#table_style(head=center:#80604D:#EDD3A1,hover=#ECD3AF){No.=center,画像=center,価格=right}
+|~ギャング名|~画像|~商品名|~提供開始日|~説明|~由来|h
+|[[MOZU]]|&image(Mozu Silver.png,y=50)|&ruby(モズ){&bold(){MOZU}} &ruby(シルバー){&bold(){SILVER}}&br()※[[MOZU]]専売商品&br()合言葉：99番|2024/01/18|||
+|~|&image(Mozu Gold.png,y=50)|&ruby(モズ){&bold(){MOZU}} &ruby(ゴールド){&bold(){GOLD}}&br()※[[MOZU]]専売商品&br()合言葉：100番|2024/01/18||百舌鳥の「百」から|
+|[[GoodbyeCircus]]|&image(Macdonald.png,y=50)|&ruby(マクドナルド){&bold(){MACDONALD}}&br()※[[GoodbyeCircus]]専売商品&br()合言葉：88番|2024/01/25|bye bye ha!|マクドナルドの別れの挨拶「バイバイ」より|
+|~|&image(Dompteur.png,y=50)|&ruby(ドンプテーア){&bold(){DOMPTEUR}}&br()※[[GoodbyeCircus]]専売商品&br()合言葉：981番|2024/01/25|Good肺|「Goodbye」の語呂合わせ|
+|[[餡ブレラ>anbrella(餡ブレラ)]]|&image(Evolve.png,y=50)|&ruby(エヴォルブ){&bold(エヴォルブ){EVOLVE}}&br()※[[餡ブレラ>anbrella(餡ブレラ)]]専売商品&br()合言葉：810番|2024/02/27||飴ブレラの元ネタである「バイオ」より|
+|[[ALLIN]]|&image(BlackJack.png,y=50)|&ruby(ブラックジャック){&bold(){BLACKJACK}}&br()※[[ALLIN]]専売商品&br()合言葉：777番|2024/01/16|||
+|[[NO LIMIT]]|&image(MINE_ROAD_45_300.png,y=50)|&ruby(マイン){&bold(){MINE}} &ruby(ロード){&bold(){ROAD}} &bold(){45}&br()※[[NO LIMIT>>NO LIMIT]]専売商品&br()合言葉：45番|2024/01/11|シャグの量に限界なんてない|シャンクズの元ネタである「四皇」の語呂合わせ|
+|[[麻陀羅組]]|未定|||||
+|[[868]]|未定|||||
+|[[TOPGEAR]]|未定|||||
+#endregion
+----
+&font(b,16px,#444){内装について}
+***Season1
+#region(開く)
+- 店内には試供品が置いてあり、誰でも気軽に眺めることができる。
+-- 入り口付近の灰皿：タバコを普段吸わない人向け（ガキタバコ、フォルティッシモなど）
+-- 店内奥の灰皿：喫煙者向けの、有名な銘柄が元ネタとなっているもの（ムギロボ、デッドボールなど）
+-- カウンターのシガーケース：新商品や本日のおすすめ商品
+-奥の個室は店員による鍵の開閉が可能でそこをVIPルームとしている。遮音性もよく、ゆったりと密談や喫煙を楽しめる空間となっている。
+--さらに奥にはスタッフ専用出入口があり緊急時の非常口にもなっている。
+#endregion
+***Season2
+-情報を記述
+----
+&font(b,16px,#444){その他}
+***Season1
+#region(開く)
+- &s(){給料は歩合制であり、個人の売上の100%がそのまま給料となる。 オーナーの川上曰く 「俺がこの街に最初に来た時、そう育てられたんで」}&br()BGM等の経費をペイするため売り上げの20％を店に入れるよう変更となった。
+-[[シャンクズプロモーション]]を通して[[くまさん じゃないよさん>メリー　クロース]]にタバコ店の音楽を依頼し、納品された音楽の出来栄えに1億5000万円を振り込んだ。
+-ろぜ柳ぴん子を通じて依頼した店内BGMをマクドナルドから2曲無料で提供されるも、そのまま[[有名画家>ろぜ柳　ぴん子]]の元に連れていかれ描いた絵と引き換えに5500万円を支払った。
+-ガレージはめんどくさがっていたら代わりに[[ボタリン モンロー>ボタリン　モンロー]]が市長補佐に連絡して付けてくれた。
+-店舗裏に在庫保管用の倉庫がある。
+--これは店内の保管容量だけでは対応が難しい為、2024年6月12日に[[ろぜ柳ぴん子>ろぜ柳　ぴん子]]が店のお金7000万を勝手に使い独断で購入した。(当時、店長の川上が長期不在であった事も関係)
+--登録上は[[ろぜ柳ぴん子>ろぜ柳　ぴん子]]の持ち物となる為、マスターキーは[[ろぜ柳ぴん子>ろぜ柳　ぴん子]]の管理であり、店長の川上も自由にはできない。
+#endregion
+
+----
+【　追記･編集 歓迎です。 】
+
+*&color(#EDD3A1){従業員情報}
+***従業員
+#region(Season1)
+#table_style(head=center:#80604d:#EDD3A1)
+|~役職|~名前|~就職日|~備考|h
+|&bold(){店主}|[[川　上]]|2024/01/05|初心者マークが外れてすぐにタバコ屋を開業。&br()商品のチョイスや思想強めの商品説明がギャング・市民問わずウケている。|
+|店員|[[柚麦　とと]]|2024/01/26|ダウナー系。やる気のないバイト。&br()怖い話を欲している。|
+|Chief|[[ろぜ柳　ぴん子]]|2024/02/03|[[マクドナルド]]の紹介で働くことになった。やる気のないバイト。&br()1日30分しかタバコ屋で働かないと決めている。5/5よりChiefに昇格|
+|Chief|[[元難波　芽久未]]|2024/02/04|頼りになるバイト。&br()店舗前、店舗内の清掃も率先して行っている綺麗好き。|
+|Chief|[[白狼　フリル]]|2024/09/26|[[店主>川　上]]の[[A2 Lab]]の後輩。&br()犬カフェを再建するための資金を集めており、自販機担当として雇われた。&br()当初はRecruitで雇うつもりだったが、その役職で自販機補充ができるか分からなかった為、&br()"とりあえず一番偉くしとく"という理由で最初からChiefの役職になった。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#fbfaf5,odd=#fffefa}
+#endregion(Season1)
+//
+//
+#size(50%){　}
+#region(Season2,open)&b(){Season2}
+#table_style(head=center:#80604d:#EDD3A1)
+|~役職|~名前|~就職日|~備考|h
+|店員|[[元難波　芽久未]]||共同経営者|
+|店員|[[アイーダ　大賀美]]|2026/04/10||
+|店員|[[罰　下リ]]|2026/04/16||
+|店員|[[ジョン　ドングリ]]|||
+|店員|[[ジョーカー]]|||
+|店員|[[猿飛　サンタロー]]|2026/05/27||
+|店員|[[ゼペ・アルテミス]]|||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#fbfaf5,odd=#fffefa}
+#endregion(Season2)
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//スーツスタイルの正装で働き始めた日を就職日としたいです
+//
+#co{{
+各キャラの就退職時に関係ない職業ページへの変更が必要になることは「就業者一覧」の削除要因と同じ現象が発生するためコメントアウトしました。
+#table_filter(){役職=show,名前=show,就職日=show,兼業=hide,備考=show}
+|~役職|~名前|~就職日|~兼業|~備考|h
+|&bold(){店主}|[[川　上]]|2024/01/05|・メカニック【[[A2 Lab]]】&br()・[[クラシックスポーツカーディーラー> ClassicSport J's]]|初心者マークが外れてすぐにタバコ屋を開業。&br()商品のチョイスや思想強めの商品説明がギャング・市民問わずウケている。|
+|店員|[[柚麦　とと]]|2024/01/26|・[[ロスサントス警察]]|ダウナー系。やる気のないバイト。&br()怖い話を欲している。|
+|店員|[[ろぜ柳　ぴん子]]|2024/02/03|・[[GoodbyeCompany>GoodbyeCircus]]所属タレント|マクドナルドの紹介で働くことになった。やる気のないバイト。&br()1日30分しかタバコ屋で働かないと決めている。|
+|店員|[[元難波　芽久未]]|2024/02/04|・[[ロスサントス救急救命隊]]|頼りになるバイト。&br()店舗前、店舗内の清掃も率先して行っている綺麗好き。|
+}}
+
+***職業体験者
+#region(Season1)&b(){Season1}
+#table_style(head=center:#80604D:#EDD3A1)
+|~名前|~体験開始日|~備考|h
+|[[大　川]]|2024/01/05|オープン時の臨時スタッフとしてタバコを巻いてくれた|
+|[[焦月　ツルギ]]|2024/01/06|4000万の借金を返すために体験入店(条件付き)|
+|[[きゃばみざわ☆　ぎゃるみ↑]]|2024/01/10|ぎゃる。店長がヘロヘロになっているところに現れた|
+|[[君島　こはる]]|2024/05/05|店員のろぜ柳 ぴん子が連れてきたバキバキの悪い人|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FBFAF5,odd=#FFFEFA}
+#endregion(Season1)
+#size(50%){　}
+//
+//
+#region(Season2)&b(){Season2}
+#table_style(head=center:#80604D:#EDD3A1)
+|~名前|~体験開始日|~備考|h
+|[[二部　らるたる]]|2026/05/14||
+|[[鴨葱　吸葉]]|2026/06/04||
+|[[トウ　ユン]]|2026/07/15||
+|[[琵琶山　法師]]|2026/07/16||
+
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FBFAF5,odd=#FFFEFA}
+#endregion(Season2)
+
+***退職者
+#region(Season1)閉じる
+#table_style(head=center:#80604D:#EDD3A1)
+|~名前|~就職日|~退職日|~備考|h
+|[[きゃばみざわ☆　ぎゃるみ↑]]|2024/01/11|2024/01/18|日本に帰国するため、退職  ボスメニューには籍が残っている|
+//|役職|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|-|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FBFAF5,odd=#FFFEFA}
+#endregion
+#size(50%){　}
+#region(Season2)閉じる
+#table_style(head=center:#80604D:#EDD3A1)
+|~役職|~名前|~就職日|~退職日|~備考|h
+|店員|[[柚麦　とと]]|yyyy/mm/dd|2026/07/31|共同経営者|
+
+//|役職|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|-|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FBFAF5,odd=#FFFEFA}
+#endregion
+
+*&color(#EDD3A1){商品情報}
+&font(b,16px,#444){レギュラー商品}
+***Season1
+#region(開く)★＝[[ギャング]]オリジナルたばこ(専売商品)／☆＝オーダーメイド商品
+#table_filter(){No.=show,種類=hide,画像=show,商品名=show,価格=show,提供開始日=hide,説明=show,タール=hide,ニコチン=hide,的なやつ=hide}
+#table_style(head=center:#80604D:#EDD3A1,hover=#ECD3AF){No.=center,画像=center,価格=right}
+|~No.|~種類|~画像|~商品名|~価格|~提供開始日|~説明|~タール|~ニコチン|~的なやつ|h
+|01|レギュラー|&image(北斗七星.png,y=50)|&ruby(ホクトシチセイ){&bold(){HOKUTOSICHISAY}}&br()(北斗七星)|50,000|2024/01/05|っぱこれよ。|14mg|1.2mg|Seven Stars|
+|02|レギュラー|&image(缶ワース.png,y=50)|&ruby(カンワース){&bold(){CANWORTH}}&br()(缶ワース)|50,000|202401/06|勝ち組のタバコ。かっこいいおっちゃん。|28mg|2.3mg|缶Peace|
+|03|レギュラー|&image(Mugirobo.png,y=50)|&ruby(ムギロボ){&bold(){MUGIROBO}}|20,000|2024/01/06|うまいけど、根本がもげやすい。|12mg|0.9mg|Marlboro|
+|04|メンソール|&image(Mugirobo_MENTHOL_LIGHTS.png,y=50)|&ruby(ムギロボ){&bold(){MUGIROBO}} &ruby(メンソール){&bold(){MENTHOL}} &ruby(ライト){&bold(){LIGHT}}|20,000|2024/01/06|すーすーする。甘え。|8mg|0.6mg|Marlboro menthol Lights|
+|05|レギュラー|&image(MIJINKO_SEVEN_2.png,y=50)|&ruby(ミジンコ){&bold(){MIJINKO}} &ruby(セブン){&bold(){SEVEN}} &ruby(ライト){&bold(){LIGHT}}|20,000|2024/01/05|安定第一サラリーマンタバコ。|8mg|0.7mg|MILD SEVEN Lights|
+|06|レギュラー|&image(dead_ball.png,y=50)|&ruby(デッド){&bold(){DEAD}} &ruby(ボール){&bold(){BALL}}|20,000|2024/01/06|かっこいいけど頭すぐもげる。|11mg|1.0mg|LUCKY STRIKE|
+|07|レギュラー|&image(hi-rate.png,y=50)|&ruby(ハイレート){&bold(){HI-RATE}}|20,000|2024/01/06|おやじ希少種。|17mg|1.4mg|hi-lite|
+|08|レギュラー|&image(GONEL.png,y=50)|&ruby(ゴネル){&bold(){GONEL}}|20,000|2024/01/06|おっさん。|10mg|0.7mg|CAMEL|
+|09|リトルシガー|&image(kareha.png,y=50)|&ruby(カレハ){&bold(){KAREHA}}&br()(かれは)|10,000|2024/01/06|金無いやつが買うタバコ|19mg|1.4mg|わかば|
+|10|お菓子|&image(gakiitigo.png,y=50)|&ruby(ガキタバコアマイ){&bold(){GAKITOBACCOAMAI}}&br()(あまいガキタバコ)|10,000|2024/01/05|ガキのお菓子。イチゴチェリー味。|0mg|0mg|ORION'S ココアシガレット|
+|11|レギュラー|&image(chikuhospirit.png,y=50)|&ruby(チクホウスピリット){&bold(){CHIKUHOSPILIT}}|20,000|2024/01/05|オーガニックだから体にいい。|8mg|1mg|NATURAL AMERICAN SPIRIT|
+|12|レギュラー|&image(cho.png,y=50)|&ruby(チョ){&bold(){CHO}}|20,000|2024/01/05|無添加なのにコクがある。25mgペーパー50枚付属。|-|-|Che Shag|
+|13|レギュラー|&image(YAMEL.png,y=50)|&ruby(ヤメル){&bold(){YAMEL}}|20,000|2024/01/05|こくがある。|57mg|-|CAMEL BLUE (タイパッケージ)|
+|14|メンソール|&image(NOOBMILD.png,y=50)|&ruby(ヌーブ){&bold(){NOOB}} &ruby(マイルド){&bold(){MILD}}|20,000|2024/01/05|タバコ吸うのがへたくそ。|8mg|0.7mg|KOOL MILDS|
+|15|レギュラー|&image(SWAP_.png,y=50)|&ruby(スワップ){&bold(){SWAP}}|20,000|2024/01/05|もっとエンジンスワップしようぜ|12mg|1mg|LARK|
+|16|レギュラー|&image(NANIMITON.png,y=50)|&ruby(ナニミトン){&bold(){NANIMITON}}|20,000|2024/01/05|なに見とん？|5mg|0.5mg|Winston Caster White 5|
+|17|ｽﾘﾑﾒﾝｿｰﾙ|&image(Forutessimo.png,y=50)|&ruby(フォルティッシモ){&bold(){FORTISSIMO}}|20,000|2024/01/05|吸う意味ねえ|1mg|0.1mg|Pianissimo Fram Menthol|
+|18|葉巻・キセル|&image(cigar.png,y=50)|&ruby(キューバンシガー){&bold(){CUBANCIGAR}}|100,000|2024/01/05|肺に入れるな。ダサい吸い方すんな。|-|-|キューバ産 葉巻(特定のモデルなし？)|
+|19|ｽﾘﾑﾒﾝｿｰﾙ|&image(engineer.png,y=50)|&ruby(エンジニア){&bold(){ENGINEER}}|20,000|2024/01/05|空気吸え|1mg|0.1mg|VIRGINIA S. DUO Menthol|
+|20|レギュラー|&image(BlookBalbi.png,y=50)|&ruby(ブルックカルビ){&bold(){BLOOKKARUBI}}|20,000|2024/01/05|思ったより甘くない|10mg|0.8mg|BLACK DEVIL|
+|21|電子タバコ|&image(OIQOS.png,y=50)|&ruby(オイコス){&bold(){OIQOS}}|20,000|2024/01/05|時代の敗北者じゃけぇ・・・|-|-|IQOS|
+|22|レギュラー|&image(GOLDMASTER.png,y=50)|&ruby(ゴールドマスター){&bold(){GOLDMASTER}}_&ruby(カワカミ){&bold(){KAWAKAMI}}&br()(GOLD MASTER川上)|500,000|2024/01/05|世界最高級|10mg|0.8mg|TREASURER Black|
+|23|レギュラー|&image(tohge.png,y=50)|&ruby(トウゲ){&bold(){TOHGE}}&br()(峠)|20,000|2024/01/05|ふじこ。|10mg|0.8mg|峰|
+|24|メンソール|&image(hi-calmenthol.png,y=50)|&ruby(ハイカロリー){&bold(){HI-CAL}} &ruby(メンソール){&bold(){MENTHOL}}|20,000|2024/01/05|一部に熱狂的なファンがいる|10mg|0.8mg|hi-lite MENTHOL|
+|25|メンソール|&image(Mugirobo_Black_Menthol.png,y=50)|&ruby(ムギロボ){&bold(){MUGIROBO}} &ruby(ブラック){&bold(){BLACK}} &ruby(メンソール){&bold(){MENTHOL}}|20,000|2024/01/06|たまにコンビニ置いてない|8mg|0.6mg|Marlboro black menthol|
+|26|ｽﾘﾑﾒﾝｿｰﾙ|&image(Pieachimo.png,y=50)|&ruby(ピーチーモ){&bold(){PIEACHIMO}}|20,000|2024/01/08||9mg|0.6mg|Pianissimo Petil Menthol|
+|27|電子タバコ|&image(kawaw_StarYellow.png,y=50)|&ruby(カワウ){&bold(){KAWAW}}|20,000|2024/01/08|relax|-|-|Skew|
+|28|リトルシガー|&image(SHORTPORK.png,y=50)|&ruby(ショートポーク){&bold(){SHORTPORK}}|10,000|2024/01/08|ショッポｗ|14mg|1.1mg|HOPE|
+|29|リトルシガー|&image(neko-.png,y=50)|&ruby(ネコー){&bold(){NEKO}}|10,000|2024/01/08|ネコー|15mg|1mg|echo|
+|30|レギュラー|&image(Gyarupi.png,y=50)|&ruby(ギャルピース){&bold(){GALPEACE}}|20,000|2024/01/08|ロンピ|21mg|1.9mg|Peace|
+|31|レギュラー|&image(sheep_cotton_2.png,y=50)|&ruby(シープコットン){&bold(){SHEEPCOTTON}}|20,000|2024/01/08|フィリップ産|5mg|0.4mg|PHILIP MORRIS SUPER LIGHTS|
+|32|レギュラー|&image(MARDAKENKO.png,y=50)|&ruby(マーダケンコー){&bold(){MARDAKENKO}}|20,000|2024/01/08|変わったフィルター|9mg|0.7mg|PARLIAMENT|
+|33|レギュラー|&image(KTS.png,y=50)|&ruby(ケーティーエス){&bold(){KTS}}&br()(Kawakami Tobacco Special)|20,000|2024/01/08|かっこよさげ|11mg|1mg|J.P.S.(John Player Special)|
+|34|葉巻・キセル|&image(REIMEI.png,y=50)|&ruby(レイメイ){&bold(){REIMEI}}&br()(黎明)|100,000|2024/01/08|キセル乗車|-|-|キセル「薄暮」|
+|35|リトルシガー|&image(Horse_Bat.png,y=50)|&ruby(ホースバット){&bold(){HORSEBAT}}|10,000|2024/01/08|金棒|15mg|1mg|GOLDEN BAT|
+|36|メンソール|&image(MIJINKO_SEVEN_Menthol.png,y=50)|&ruby(ミジンコセブンメンソール){&bold(){MIJINKOSEVENMENTHOL}}|20,000|2024/01/08|ニッチ|12mg|0.9mg|MILD SEVEN menthol|
+|37|メンソール|&image(MARLKOGEHOTBLASTGIGA8.png,y=50)|&ruby(マルコゲホットブラストギガエイト){&bold(){MARLKOGEHOTBLASTGIGA8}}|20,000|2024/01/08|プチってする|8mg|0.5mg|Marlboro ice blast mega 8|
+|38|レギュラー|&image(Mugirobo_Gold.png,y=50)|&ruby(ムギロボゴールド){&bold(){MUGIROBOGOLD}}|20,000|2024/01/08|金丸|6mg|0.5mg|Marlboro gold|
+|39|リトルシガー|&image(Kakuhan Acid Cherry.png,y=50)|&ruby(カクハン){&bold(){Kakuhan}} &ruby(アシッド){&bold(){Acid}} &ruby(チェリー){&bold(){Cherry}}|20,000|2024/01/09|リトルシガー|8mg|0.8mg|Captain Black Cherry|
+|40|キセル・葉巻|&image(CANCER.png,y=50)|&ruby(キャンサー){&bold(){CANCER}}|20,000|2024/01/09|安い葉巻|-|-|チャズ・ロングシガリロ792|
+|41|レギュラー|&image(LANK.png,y=50)|&ruby(ランク){&bold(){LANK}} &ruby(クラシック){&bold(){CLASSIC}} &ruby(デヤルド){&bold(){DEYALD}}|20,000|2024/01/11|ランクやるぞ|9mg|0.7mg|LARK CLASSIC MILD|
+|42|メンソール|&image(NOOB_BOOST_MINT_8_450.png	,y=50)|&ruby(ヌーブ){&bold(){NOOB}} &ruby(ブースト){&bold(){BOOST}} &ruby(メンソール){&bold(){MENTHOL}}|20,000|2024/01/11|ニッチ|8mg|0.7mg|KOOL BOOST MINT|
+|43|お菓子|&image(gakimattya2.png,y=50)|&ruby(ワビ){&bold(){WABI}} &ruby(マッチャ){&bold(){MATCHA}}&br()(ガキタバコ　詫び入れ抹茶味)|10,000|2024/01/11|世の中そんな甘くない|0mg|0mg|ORION'S ココアシガレット|
+|44|お菓子|&image(gakiramune2.png,y=50)|&ruby(ヤニ){&bold(){YANI}} &ruby(クラッシュ){&bold(){CRASH}} &ruby(ラムネ){&bold(){RAMUNE}}&br()(ガキタバコ　ヤニクララムネ味)|10,000|2024/01/11|子供時代って泡みたい|0mg|0mg|ORION'S ココアシガレット|
+|45★|レギュラー|&image(MINE_ROAD_45_300.png,y=50)|&ruby(マイン){&bold(){MINE}} &ruby(ロード){&bold(){ROAD}} &bold(){45}&br()※[[NO LIMIT>>NO LIMIT]]専売商品&br()合言葉：45番|20,000|2024/01/11|シャグの量に限界なんてない|45mg|2.5mg|なし|
+|46|お菓子|&image(gakichoco2.png,y=50)|&ruby(ガチ){&bold(){GACHI}} &ruby(チョコレート){&bold(){CHOCOLATE}}&br()(ガキタバコ　ガチチョコレート味)|10,000|2024/01/11|とりあえずチョコやっときゃいい|0mg|0mg|ORION'S ココアシガレット|
+|47|お菓子|&image(gakicoke2.png,y=50)|&ruby(アッパー){&bold(){UPPER}} &ruby(コーラ){&bold(){COLA}}&br()(ガキタバコ　アッパーコーラ味)|10,000|2024/01/11|ニコチン0mg!カフェイン80mg!|0mg|0mg|ORION'S ココアシガレット|
+|48|レギュラー|&image(MADAM.png,y=50)|&ruby(マダム){&bold(){MADAM}}|20,000|2024/01/11|肺に穴あく|32mg|1.5mg|GARAM SURYA MILD|
+|49|レギュラー|&image(ARK_ANGEL100mm.png,y=50)|&ruby(アーク){&bold(){ARK}} &ruby(エンジェル){&bold(){ANGEL}}|20,000|2024/01/11|紅茶みたいな名前|6mg|0.5mg|ARK ROYAL PARADISETEA|
+|50|レギュラー|&image(POKER_MINI.png,y=50)|&ruby(ポーカー){&bold(){POKER}}|20,000|2024/01/11|ジョーカー|13mg|1.3mg|Joker Chaos|
+|51|レギュラー|&image(kakin.png,y=50)|&ruby(カキン){&bold(){KAKIN}}|20,000|2024/01/16||8mg|0.7mg|CABIN MILD|
+|52|お菓子|&image(OrangeCigarette.png,y=50)|&ruby(オレンジシガレット){&bold(){ORANGECIGARETTEG}}|10,000|2024/01/16||0mg|0mg|サワーシガレット|
+|53|レギュラー|&image(KEN-O 9.png,y=50)|&ruby(){&bold(){KEN-09}}|20,000|2024/01/16||9mg|0.8mg|KENT9 KSBOX|
+|54|レギュラー|&image(CANCER MENTHO.png,y=50)|&ruby(キャンサー){&bold(){CANSER}} &ruby(メンソール){&bold(){MENTHOL}}|20,000|2024/01/16||-|-|Ploom X Camel Menthol|
+|55|-||欠番|-|----/--/--|-|-|-||
+|56|お祝い|&image(25.png,y=50)|&ruby(花){&bold(){HANA}} &ruby(タバコ){&bold(){TABACCO}}|1,000,000|2024/01/18|花言葉は『ふれあい』|-|-||
+|57|お祝い|&image(Blessing-600.png,y=50)|&ruby(ヤニ){&bold(){YANI}} &ruby(ブーケ){&bold(){bouquet}}|1,000,000|2024/01/18|花言葉は『孤独が好き』|-|-||
+|58|お祝い|&image(TABACAKE.png,y=50)|&ruby(タバケーキ){&bold(){TABACAKE}}|1,000,000|2024/01/18|流石におめでとう|-|-||
+|59|お祝い|&image(TABACAKE2nd.png,y=50)|&ruby(タバケーキ2nd){&bold(){TABACAKE2nd}}|1,000,000|2024/02/04|流石におめでとうすぎる|-|-||
+|60|パイプ|&image(SmokingPipe_200.png,y=50)|&ruby(ホームズ){&bold(){Homes}}|20,000|2024/02/04|こんな大人になりたい|-|-|FZZ-パイプ|
+|61|レギュラー|&image(sailor_moon_light.png,y=50)|&ruby(セーラー){&bold(){SAILOR}} &ruby(ムーンライト){&bold(){MOONLIGHT}}|20,000|2024/02/04|懐かしすぎる|7mg|0.6mg|セーラム・ライト|
+|62|お菓子|&image(RABBITS.png,y=50)|&ruby(ラビッツ){&bold(){RABBITS}}|20,000|2024/02/04|にんじん|-|-|プリッツ|
+|63|レギュラー|&image(POKER CORE.png,y=50)|&ruby(ポーカー){&bold(){POKER}} &ruby(コア){&bold(){CORE}}|20,000|2024/02/04|特になし|11mg|1.2mg|Joker CORE|
+|64|レギュラー|&image(Moon stone.png,y=50)|&ruby(ムーン){&bold(){Moon}} &ruby(ストーン){&bold(){stone}}|20,000|2024/02/04|見たことないたばこ|5mg|0.4mg|ウィンストン・スパークリング メンソール|
+|65|お菓子|&image(JACKY_.png,y=50)|&ruby(ジャッキー){&bold(){JACKY}}|20,000|2024/02/04|大人をなめるな|-|-|ポッキー|
+|66|レギュラー|&image(chillui.png,y=50)|&ruby(チルい){&bold(){Chillui}}|20,000|2024/02/04|こんなん誰がわかるん？|23mg|1.9mg|いこい|
+|67|リトルシガー|&image(BlockSteak.png,y=50)|&ruby(ブロック){&bold(){Block}} &ruby(ステーキ){&bold(){Steak}} &ruby(ベリー){&bold(){Berry}}|20,000|2024/02/27|濃いめのベリー|-|-|Black Stone|
+|68|お菓子|&image(KAMIKAMI.png,y=50)|&ruby(カワ){&bold(){KAWA}} &ruby(カミカミ){&bold(){KAMIKAMI}} &ruby(レモン){&bold(){LEMON}}|20,000|2024/02/27|うちは駄菓子屋じゃねえんだぞチクショウ|-|-|かむかむレモン／ハイチュウ|
+|72☆|レギュラー|&image(Hakumaru Gold.png,y=50)|&ruby(ハクマル){&bold(){Hakumaru}} &ruby(ゴールド){&bold(){Gold}}&br()※[[ハク　ナツメ]]専売商品(デザインは本人の持ち込み)&br()合言葉：72番|20,000|2024/01/26|ナツメオリジナル|8mg|0.9mg|Marlboro Gold|
+|88★|パイプ|&image(Macdonald.png,y=50)|&ruby(マクドナルド){&bold(){MACDONALD}}&br()※[[GoodbyeCircus]]専売商品&br()合言葉：88番|20,000|2024/01/25|bye bye ha!|9.8mg|1mg||
+|99★|レギュラー|&image(Mozu Silver.png,y=50)|&ruby(モズ){&bold(){MOZU}} &ruby(シルバー){&bold(){SILVER}}&br()※[[MOZU]]専売商品&br()合言葉：99番|20,000|2024/01/18||-|-||
+|100★|レギュラー|&image(Mozu Gold.png,y=50)|&ruby(モズ){&bold(){MOZU}} &ruby(ゴールド){&bold(){GOLD}}&br()※[[MOZU]]専売商品&br()合言葉：100番|20,000|2024/01/18||-|-||
+|101☆|レギュラー|&image(White Tiger.png,y=50)|&ruby(ほわいと){&bold(){White}} &ruby(たいが){&bold(){tiger}}&br()※[[ほわいとたいが>>碇　イチカ]]専売商品&br()合言葉：101番|20,000|2024/01/17|手巻きタイガー|-|-||
+|0111☆|レギュラー|&image(A2_5.png,y=50)|&ruby(エーツー){&bold(){A2}} &ruby(シグ){&bold(){Cig}}&br()※[[A2 Lab]]専売商品&br()合言葉：0111番|20,000|2024/02/27|address7326|-|-||
+|0602☆|パイプ|&image(BOIRA2-100.png,y=50)|&ruby(ボイラ){&bold(){BOIRA}}&br()※[[キラ・メキーラ]]、[[ボイラ　テンガリン]]専売商品&br()合言葉：0602番|20,000|2024/02/13|左手の悪魔が静まります|12mg|1mg||
+|777★|レギュラー|&image(BlackJack.png,y=50)|&ruby(ブラックジャック){&bold(){BLACKJACK}}&br()※[[ALLIN]]専売商品&br()合言葉：777番|20,000|2024/01/16||21mg|1.9mg||
+|810★|レギュラー|&image(Evolve.png,y=50)|&ruby(エヴォルブ){&bold(エヴォルブ){EVOLVE}}&br()※[[餡ブレラ>anbrella(餡ブレラ)]]専売商品&br()合言葉：810番|20,000|2024/02/27||-|-||
+|911☆|レギュラー|&image(皇帝100.png,y=50)|&ruby(テイコウ){&bold(){TEIKOU}}&br()※[[ヘスティア　ゴデス]]、[[ニックス　リア]]専売商品&br()合言葉：911番|20,000|2024/02/13|Thanks for being the sunlight in Los Santos.|-|-||
+|981★|レギュラー|&image(Dompteur.png,y=50)|&ruby(ドンプテーア){&bold(){DOMPTEUR}}&br()※[[GoodbyeCircus]]専売商品&br()合言葉：981番|20,000|2024/01/25|Good肺|9.8mg|1mg||
+||food|&image(WHISKY BONBON.png,y=50)|&ruby(ウイスキー){&bold(){Whiskey}} &ruby(ボンボン){&bold(){BONBON}}&br()|20,000|2024/02/27|煙に合わんことはない|-|-|モロゾフ　ウイスキーボンボン|
+||drink|&image(KanalyXOCognac.png,y=50)|&ruby(カナリ){&bold(){Kanaly}} &bold(){XO} &ruby(コニャック){&bold(){Cognac}}&br()|50,000|2024/02/27|安物のキャンディに合う|-|-|Hennessy|
+||drink|&image(KANKO-HI-.png,y=50)|&ruby(カン){&bold(){KAN}} &ruby(コーヒー){&bold(){KO-HI-}}&br()|10,000|2024/02/27|ヤニカスのお供|-|-|ボス 無糖ブラック|
+//
+#table_sorter{even=#FBFAF5,odd=#FFFEFA}
+#endregion(Season1)
+***Season2
+#region(開く,open)
+#table_filter(){No.=show,種類=hide,画像=show,商品名=show,価格=show,提供開始日=hide,説明=show,タール=hide,ニコチン=hide,的なやつ=hide}
+#table_style(head=center:#80604D:#EDD3A1,hover=#ECD3AF){No.=center,画像=center,価格=right}
+|~No.|~種類|~画像|~商品名|~価格|~提供開始日|~説明|~タール|~ニコチン|~的なやつ|h
+
+#table_sorter{even=#FBFAF5,odd=#FFFEFA}
+#endregion(Season2)
+----
+&font(b,16px,#444){商品画像}
+***Season1
+#region(開く)
+#region(24/01/06　メニュー表)
+#table_style(head=center:#80604D:#EDD3A1)
+|24/01/06　メニュー表|h
+|&image(川上たばこ店_メニュー240106.jpg,y=400)|
+#endregion
+#region(24/01/08　メニュー表)
+#table_style(head=center:#80604D:#EDD3A1)
+|24/01/08　メニュー表|h
+|&image(川上たばこ店_メニュー240108.jpg,y=400)|
+#endregion
+#region(24/01/11　メニュー表)
+#table_style(head=center:#80604D:#EDD3A1)
+|24/01/11　メニュー表|h
+|&image(川上たばこ店_メニュー240111.jpg,y=400)|
+#endregion
+#endregion
+***Season2
+****メニュー表
+#region(開く,open)
+#region(26/05/10　メニュー表)
+#table_style(head=center:#80604D:#EDD3A1)
+|>|26/05/10　メニュー表|h
+|&image(川上たばこ店_メニュー260510_0.jpeg,x=300)|&image(川上たばこ店_メニュー260510_1.jpeg,x=300)|
+#endregion
+#region(26/06/12　メニュー表,open)
+#table_style(head=center:#80604D:#EDD3A1)
+|>|26/06/12　メニュー表|h
+|&image(川上たばこ店_メニュー260613.jpeg,x=300)|&image(川上たばこ店_メニュー260613_2.jpeg,x=300)|
+#endregion
+#endregion
+****商品画像
+#region(開く,open)
+#region(26/05/10　新メニュー)
+#table_style(head=center:#80604D:#EDD3A1)
+|>|26/05/10　新メニュー|h
+|&image(S2_エナジードリンク.jpeg,x=300)|&image(飲食も始めました.jpeg,x=300)|
+#endregion
+#region(26/05/16　店内限定シーシャ)
+#table_style(head=center:#80604D:#EDD3A1)
+|26/05/16　店内限定シーシャ|h
+|&image(シーシャ販売中.jpeg,x=300)|
+#endregion
+#region(26/07/02　親子サーモン定食,open)
+#table_style(head=center:#80604D:#EDD3A1)
+|26/07/02　親子サーモン定食|h
+|&blankimg(S2_サーモン定食.jpeg,x=280,y=190)|
+#endregion
+#endregion
+****限定商品
+#region(開く,open)
+#region(26/04/16　四月限定タバコ)
+#table_style(head=center:#80604D:#EDD3A1)
+|26/04/16　四月限定タバコ|h
+|&blankimg(川上タバコ店_メニュー260416.jpg,x=200,y=260)|
+#endregion
+#region(26/05/01　五月限定タバコ)
+#table_style(head=center:#80604D:#EDD3A1)
+|26/05/01　五月限定タバコ|h
+|&blankimg(S2_5月限定.jpeg,x=300,y=200)|
+#endregion
+#region(六月限定タバコ)
+#table_style(head=center:#80604D:#EDD3A1)
+|六月限定タバコ|h
+|&blankimg(S2_6月限定.jpeg,x=300,y=180)|
+#endregion
+#region(2026/07/02　七月限定タバコ)
+#table_style(head=center:#80604D:#EDD3A1)
+|2026/07/02　七月限定タバコ|h
+|&blankimg(S2_7月限定.jpeg,x=300)|
+#endregion
+#region(2026/08/21　レース限定タバコ,open)
+#table_style(head=center:#80604D:#EDD3A1)
+|>|2026/08/21　レース限定タバコ|h
+|&blankimg(S2_レース限定.jpeg,x=160,y=200)|MIDDLE:CENTER:&blankimg(S2_レース限定2.jpeg,x=180)|
+#endregion
+
+#endregion
+//
+//
+#co{↓コピー用
+
+#region(yy/mm/dd　タイトル,open)
+#table_style(head=center:#80604D:#EDD3A1)
+|yy/mm/dd　タイトル|h
+|&image(画像,y=400)|
+#endregion
+
+}
+
+*&color(#EDD3A1){エピソード}
+***2024年
+#region(開く,close)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#80604D:#EDD3A1)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|01/05|タバコ屋OPEN|[[川上>川　上]]、[[大川>大　川]]|盛況のため、[[大川>大　川]]もオープニングスタッフとして参加した。|
+|01/06|[[焦月>焦月　ツルギ]] 体験入店|[[焦月ツルギ>焦月　ツルギ]]|資金難の焦月を3割バックの条件で体験雇用。|
+|01/10|[[ぎゃるみ↑>きゃばみざわ☆　ぎゃるみ↑]] 体験入店|[[きゃばみざわ☆ぎゃるみ↑>きゃばみざわ☆　ぎゃるみ↑]]|開店当初から欲しがっていたギャル枠としてぎゃるみ↑を体験雇用。|
+|01/11|[[ぎゃるみ↑>きゃばみざわ☆　ぎゃるみ↑]] 正式採用|[[きゃばみざわ☆ぎゃるみ↑>きゃばみざわ☆　ぎゃるみ↑]]|早々にぎゃるみ↑をバイトとして正式雇用することにした。辞めたいときにやめたっていい。|
+|01/18|[[ぎゃるみ↑>きゃばみざわ☆　ぎゃるみ↑]] 退職|[[きゃばみざわ☆ぎゃるみ↑>きゃばみざわ☆　ぎゃるみ↑]]|ぎゃるみ↑が日本へ帰国するため自主退職。|
+|01/26|[[柚麦>柚麦　とと]] 体験入店|[[柚麦とと>柚麦　とと]]|適当にやってくれるやる気のないバイトを募集するTwiXの文言に即レス。そのまま体験入店へ。|
+|02/03|[[ぴん子>ろぜ柳　ぴん子]] 体験入店|[[ろぜ柳ぴん子>ろぜ柳　ぴん子]]|ぴん子本人の知らないところで話が進みなぜか働くことに。&br()店番に立たせてみると、デフォで客に番号での注文を要求する逸材だった。|
+|02/04|[[元難波芽久未>元難波　芽久未]] 体験入店|[[元難波芽久未>元難波　芽久未]]|元難波　芽久未を体験雇用。|
+|03/03|値上がり|[[川上>川　上]]|台風の災害によりギャングたばことオリジナルたばこを依頼していた工場が吹っ飛んでしまい、&br()割高の工場に依頼することになり￥20,000に値上げすることになった。|
+|09/25|値上がり|[[ぴん子>ろぜ柳　ぴん子]]|[[ぴん子>ろぜ柳　ぴん子]]の誕生日祝いに何が欲しいか尋ねたところ「値上げの権利が欲しい」とのことだったので商品の一律1万円値上げが決定した。|
+|09/26|[[白狼　フリル]] 雇用|[[白狼　フリル]]|店を建てる為の資金が欲しい白狼フリルと金が欲しいオーナーとで需給が合致したため採用。自販機がメインとなる予定。|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#FBFAF5,odd=#FFFEFA}
+#endregion
+//
+***2026年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#80604D:#EDD3A1)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|04/01|従業員募集|関係者|TwiXにてオープニングスタッフの募集を開始。|
+|04/16|営業開始|関係者|たばこ店が正式にオープンする。|
+//|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#FBFAF5,odd=#FFFEFA}
+#endregion
+
+【　追記･編集 歓迎です。 】
+----
+#right(){&link_up(🔝ページTOPへ)}

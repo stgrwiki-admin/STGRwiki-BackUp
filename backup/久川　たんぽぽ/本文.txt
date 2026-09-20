@@ -1,0 +1,1067 @@
+*&color(#FFFF5E){プロフィール} &color(#F9C1CF){&icon_fa(fa fa-user-circle)}
+&image(IMG_1409.jpeg,y=400)
+
+#table_filter(){Season１=hide,Season２=show}
+#table_style(head=#FFFF5E:#FF2FA2){名前=#fad0dd:#FF2FA2:b:center}
+
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season１|~Season２|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(ひさかわ){久川}　&ruby(){たんぽぽ}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本の田舎|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|1999年03月23日 (&countup(1999/03/23,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年09月07日 (&countup(2024/09/07,yd)経過)|2026年07月19日(&countup(2026/07/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-suitcase )|アイドル &small(){＊非ジョブ}&br()花屋 💐【[[ColorFlora]]】店員 &small(){2024/12/26〜}&br()メカニック 🛠️【[[9055]]】社員 &small(){2025/3/17〜} &br()[[個人医]] &small(){2025/4/9〜} &br()&small(){&openclose2(show=過去の職業){&br() アイドルユニット&small(){＊非ジョブ}【[[ハピフル]]】(相方:[[蓮 シオン>蓮　シオン]]) &small(){2024/9/15〜2025/4/30}}} | メカニック 🛠️【[[LUNA Garage]]】体験&small(){2026/7/19〜}|
+|~TwiX|~&icon_fa(fa fa-dove)|@tanpopo0323|@tanpopo|
+|~レーサー名|~&icon_fa(fas fa-car)|[TPP]たんぽぽ|-|
+|~PixelLink|~&icon_fa(fa-brands fa-instagram)|@tanpopo0323|-|
+|~所有物件|~&icon_fa(fa fa-home)|自宅アパート(8039)&br()クリニック(9058)||
+|~免許|~&icon_fa(fa fa-address-card-o)|普通 &small(){＊バーバリアン田中が面倒を見る条件付きで[[隣　紀子]]から交付}&br()自動二輪 ([[涼眩　此方>ヘラシギ]]から交付)&br()ヘリ ([[ラグランジュ　光芝]]から交付)&br()大型 ([[近藤　武蔵]]から交付)|-|
+|BGCOLOR(#fad0dd):~&color(#FF2FA2){プレイヤー}|BGCOLOR(#fad0dd):~&color(#FF2FA2){&icon_fa(fa fa-heart)}|>|めぐ|
+|BGCOLOR(#fad0dd):~&color(#FF2FA2){告知等}|BGCOLOR(#fad0dd):~&color(#FF2FA2){&icon_fa(fa fa-bullhorn)}|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/meguchan_0612]]&br()＊制限中の元の本垢[[&color(#1DA1F2){gume0612}>>https://x.com/gume0612]]|
+|BGCOLOR(#fad0dd):~&color(#FF2FA2){配信場所}|BGCOLOR(#fad0dd):~&color(#FF2FA2){&icon_fa(fa fa-gamepad)}|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube(@megu0612)}>>https://youtube.com/@megu0612]]&small(){(~55日目)}&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube(@ssong5797)}>>https://youtube.com/@ssong5797]]&small(){(56日目~)} / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch(megu_0612)}>>https://twitch.tv/megu_0612]](同時配信)| &font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube(@ssong5797)}>>https://youtube.com/@ssong5797]]  / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch(megu_0612)}>>https://twitch.tv/megu_0612]](同時配信)|
+|BGCOLOR(#fad0dd):~&color(#FF2FA2){切り抜きch}|BGCOLOR(#fad0dd):~&color(#FF2FA2){&icon_fa(fa fa-cut)}|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){めぐです}>>https://www.youtube.com/@ssong5797]]|
+|BGCOLOR(#fad0dd):~&color(#FF2FA2){ガイドライン}|BGCOLOR(#fad0dd):~&color(#FF2FA2){&icon_fa(fa-solid fa-circle-info)}|>|[[ガイドライン(初回配信)>>https://www.youtube.com/live/1ACo_qT99xw]]|
+
+//
+//|~レーサー名|なし|
+//
+////市民ID、電話番号の内容を警察データベース(https://w.atwiki.jp/streamergta5/pedit/27/1815.html)へ移しました。
+//レーサー名は決定次第COから外して情報欄に追加願います
+//
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&color(#FFFF5E){基本情報}  &color(#F9C1CF) {&icon_fa(fa fa-id-card-o)}
+&bold(){&font(i){「アイドルになりたくて田舎からこの街に引っ越してきました！よろしくお願いします！」}}
+・歌うのが好き。
+・この街で1番運転が下手な人という噂が出回っている。
+・天然なのかもしれない。
+・[[安城　成]]の&openclose2(show=幼馴染){&small(){(魂同士が小学生からの幼馴染)}}であり、「ぽっぽ」と呼ばれている。
+・3/21に[[シャンクズプロモーション]]へ所属希望を[[四皇　シャンクズ]]へ伝え後日合否待ちとなった。（4/16シャンクズより結果は不採用である旨を伝えられた。）
+
+#region(ジョブ,open)
+ジョブ
+#table_style(head=center:#fff){入手日=right,購入額=right}
+|~名称|~種別|~日時|~備考|h
+|[[サンサンクレープ]]|体験|2024/09/08〜||
+|[[海上レストラン「Urashima」>Urashima]]|体験|2024/09/10,25||
+|[[9055]]|社員|(体験)2024/09/13 , 2025/2/9〜3/11 (社員)3/17〜||
+|[[菖光亭]]|体験|2024/09/14〜||
+|[[BMC>BMカスタム]]|体験|2024/09/21 ,10/09 ,2025/1/31||
+|[[PYC]]|体験|2024/10/02〜||
+|[[JTS>ジョアンナテクノサービス]]|体験|2024/10/05 ,11/09||
+|[[救急隊>ロスサントス救急救命隊]]|体験|2024/10/12 ,11/27 ,12/04|不採用|
+|[[警察>ロスサントス警察 ]]|体験|2024/10/16,18,19|不採用|
+|[[猫カフェ>猫カフェ武蔵]]|体験|2024/10/23〜||
+|[[ColorFlora]]|店員|(体験)2024/12/04 (店員)12/26〜||
+|[[魔法少女カフェ「RitUal:」>RitUal:]]|体験|2025/1/13〜||
+|[[Lunaflix]]|体験|2025/2/9〜||
+|[[個人医]]|中立医|2025/4/9〜||
+#table_sorter{even=#fff,odd=#fff}
+#endregion
+
+#region(個人の請求書)
+個人の請求書
+#table_style(head=center:#fff){入手日=right,購入額=right}
+|~From|~金額|~請求番号|~請求ID|~日時|~備考|h
+|隣紀子|¥300000|#302687|OK34601370|2024-09-08 01:29:19|普通自動車|
+|安城成|¥300000|#303434|OKAC2711E2|2024-09-09 03:18:51|1|
+|mechanic_6th(月乃えるな)|¥300000|#303438|OK2D3E9154|2024-09-09 03:29:20|Custom|
+|mechanic_6th(上田さん)|¥100000|#303618|OK22FF9C74|2024-09-09 21:36:30|Custom|
+#table_sorter{even=#fff,odd=#fff}
+#endregion
+
+*&color(#FFFF5E){車両一覧} &color(#F9C1CF){&icon_fa(fa fa-car)}
+#div(width=150px,bgcolor=#F9C1CF){&color(#FFFF5E){【&bold(){Season1}】}}
+#region(所有)
+所有
+#table_style(head=center:#fff){入手日=right,購入額=right}
+|~名称|~車種|~車名|~入手日|~備考|~プレート|h
+|[[Benefactor Club>>YouTubeリンク]]|Compact||2024/09/07|[[バーバリアン　田中]]から譲り受ける|MJFF4341|
+|[[Bravado Rumpo Custom>https://w.atwiki.jp/gtav/pages/1630.html]]|Van||2024/09/28|[[三否亭　四五六確]]の提案で、自身にいつの日かアイドルとして稼いだ6000万(ランポの1.5倍)を譲渡することを交換条件としてプレゼントされる|VBUV7712|
+|[[Vapid Winky>https://w.atwiki.jp/gtav/pages/2648.html]]|Off-road||2024/11/21|[[上田　さん]]からSWAG入隊記念に譲り受ける|LZNE2462|
+|[[Nagasaki Snowmobile]]|Off-road||2025/1/12|[[マックさん>マクドナルド]]主催のお年玉争奪スノーモービルレースに参加する為購入|KZAZ2139|
+|[[Sparrow>https://w.atwiki.jp/gtav/pages/2654.html]]|Helicopter||2025/1/15|初の億超えの買い物。[[豆　やん]]から購入|TYIV4976|
+|[[Enus Paragon>https://w.atwiki.jp/gtav/pages/2479.html]]|Sports||2025/1/15|上田 さんから購入|DLPR5832|
+|[[SeaSparrow>https://w.atwiki.jp/gtav/pages/1956.html]]|Helicopter||2025/1/22|[[白井　満太]]から勧められ、1億円で買い取る|AAVD1714|
+|[[Western Powersurge>>https://w.atwiki.jp/gtav/pages/2958.html]]|Motorcycle||2025/3/23|[[月乃　えるな]]からのお誕生日プレゼント|VHZP0698|
+|[[Vapid Flash GT>>https://w.atwiki.jp/gtav/pages/1954.html]]|Sports||2025/4/4|[[葵井　優]]から購入|GHKT0553|
+|[[Lampadati Tropos Rallye>>https://w.atwiki.jp/gtav/pages/1642.html]]|Sports||2025/4/4|葵井　優から購入|FDXF7348|
+|[[Grotti X80 Proto>>https://w.atwiki.jp/gtav/pages/1635.html]]|Super||2025/5/9|[[まいたろう>まい　にい]]から4.5億で買い取る|RYDV4915|
+|[[Shinobi >>https://w.atwiki.jp/gtav/pages/2738.html]]|Motorcycle||2025/7/30|[[星唄　サウ]]から購入|KUBO8940|
+
+#table_sorter{even=#fff,odd=#fff}
+#endregion
+
+#div(width=150px,bgcolor=#F9C1CF){&color(#FFFF5E){【&bold(){Season2}】}}
+#region(所有,open)
+所有
+#table_style(head=center:#fff){入手日=right,購入額=right}
+|~名称|~車種|~車名|~入手日|~備考|~プレート|h
+|Annis Mochi AT|Compact||2026/7/31|Season2初のマイカー|BQT1YU49|
+
+#table_sorter{even=#fff,odd=#fff}
+#endregion
+
+*&color(#FFFF5E){交友関係} &color(#F9C1CF){&icon_fa(fa fa-users)}
+#div(width=330px,bgcolor=#F9C1CF){&size(16){&space()&space()&color(#FFFF5E){&icon_fa(fa fa-person)&space()&space()&bold(){アイドルユニット“ハピフル”}}}}
+#region(開く,close)閉じる
+#table_style(head=center){}
+#table_color(#F9C1CF)
+|~&color(#FFFF5E){キャラクター名}|~&color(#FFFF5E){詳細}|
+|[[蓮　シオン]]|【[[ハピネスフルール>>ハピフル]]】の相方|
+#endregion
+
+#div(width=330px,bgcolor=#F9C1CF){&size(16){&color(#FFFF5E){&space()&icon_fa(fa-solid fa-people-group)&space()&space()&bold(){劇団夢歩き}}}}
+
+#region(開く,close)閉じる
+#table_style(head=center){}
+#table_color(#F9C1CF)
+|~&color(#FFFF5E){キャラクター名}|~&color(#FFFF5E){詳細}|
+|[[山田　ジェイミー]]|劇団の主催|
+|[[寝言　怠惰]]|副団長|
+|[[天近　くるみ]]|演者兼脚本|
+#endregion
+
+#div(width=330px,bgcolor=#F9C1CF){&size(16){&color(#FFFF5E){&space()💐&space()&bold(){ColorFlora}}}}
+
+#region(開く,close)閉じる
+#table_style(head=center){}
+#table_color(#F9C1CF)
+|~&color(#FFFF5E){キャラクター名}|~&color(#FFFF5E){詳細}|
+|[[御花　はな]]|店長|
+|[[パンプキング>アキヲ・煉獄・ペスカトーレ]]|[[ハピフル]]に“100ドル”というオーダーメイドの花束を作ってくれた|
+|[[花沢　まるん]]|店番Day(フラワーライブ)の日に一緒に勤務|
+|[[冬那　フナ]]|たんぽぽ店番時に来客し、実は自分も店員であると打ち明けられる|
+|[[広場　うた子]]|お花屋さんの同期|
+
+#endregion
+
+#div(width=330px,bgcolor=#F9C1CF){&size(16){&color(#FFFF5E){&space()&space()&icon_fa(fa fa-heartbeat)&space()&space()&bold(){救急隊}}}}
+
+#region(開く,close)閉じる
+#table_style(head=center){}
+#table_color(#F9C1CF)
+|~&color(#FFFF5E){キャラクター名}|~&color(#FFFF5E){詳細}|
+|[[サンクチュアリ　たえこ]]|推し|
+|[[ブラック　ジャックス]]|お互いの体験初日に一緒に勤務して以来の腐れ縁|
+|[[伊藤　カテジ]]|救急隊とスタジオカテジの活動を両立されていることを尊敬|
+|[[鬼桃　ぷぅ]]|体験時やダウン時に高確率でお世話になっている人|
+
+#endregion
+
+#div(width=330px,bgcolor=#F9C1CF){&size(16){&color(#FFFF5E){&space()&space()&icon_fa(fa fa-shield-halved)&space()&space()&bold(){警察}}}}
+
+#region(開く,close)閉じる
+#table_style(head=center){}
+#table_color(#F9C1CF)
+|~&color(#FFFF5E){キャラクター名}|~&color(#FFFF5E){詳細}|
+|[[バーバリアン　田中]]|第一街人。引越し初日の街案内やその後も何かとお世話になっている人|
+|[[日之　ぱちお]]|白市民パスを発行してもらった人|
+|[[伊勢　えびす]]|ホストイベント時に接客してくれた人|
+|[[皇帝>>ニックス　リア]]|体験初日に指導してくれた人。しごできで尊敬|
+|[[ボイラ　テンガリン]]|体験時にセクハラ被害を受けた張本人。ただアニメ等の趣味は合う模様|
+|[[後藤　れむ]]|ボイラさんからのセクハラ被害に関して相談に乗ってくれた人|
+|[[文月　夏苗]]|体験時に運転のコツについて色々教えてもらった人|
+|[[味野　環九郎]]|1日違いの同期|
+|[[ぺん　ゆきや]]|なにかと[[ハピフル]]の仲を切り裂くような発言をしてくる人|
+|[[ガヴァイ　アッカンマン]]|救急隊に受かるか不安だった際に励ましてくれた同期|
+
+#endregion
+
+#div(width=330px,bgcolor=#F9C1CF){&size(16){&color(#FFFF5E){&space()&space()&icon_fa(fa fa-face-smile)&space()&space()&bold(){白市民}}}}
+
+#region(開く,close)閉じる
+#table_style(head=center){}
+#table_color(#F9C1CF)
+|~&color(#FFFF5E){キャラクター名}|~&color(#FFFF5E){詳細}|
+|[[涼眩　此方>>ヘラシギ]]|街に来てすぐの頃にアイドルとしてやっていく上での相談に色々のってくれた人|
+|[[ギガ姉>>Dr．ギガ]]|ホストイベント時に一緒に行動し奢ってくれた人|
+|[[にし　のん]]|[[BMC>>Bear Moon Custom]]を訪れた際、“ぽぽんた”と名付けてくれた人|
+|[[ボタリン　モンロー]]|劇団夢歩きの劇場をプレゼントしてくれた人|
+|[[はまべ]]|劇団夢歩きやハピフルのイベントでスタッフとしてよくお手伝いしてくれる人|
+|[[ルウ　ギャラクティカ]]|もともと劇団夢歩きメンバーの活動に出資したかったのと、初心者イベも行きたかったがタイミング合わず、行けなかったことのお詫びも兼ねて1億円を寄付してくれた人|
+|[[万十　忍]]|レースクイーンの依頼をしてくれた人|
+|[[八王子　めぐ]]|Sisyphus Theaterにて夢を語り合った仲|
+|[[蒲田　ヤバッキオ]]|Sisyphus Theaterにて夢を語り合った仲|
+|[[渡戸　リー]]|渡戸探検隊 隊長|
+|[[真新　サトシ]]|渡戸探検隊のメンバー|
+|[[星ノ　みこ]]|渡戸探検隊 副副隊長|
+|[[上田　さん]]|救急隊体験終了後に不安だったところ相談にのってくれた人|
+|[[大　川]]|初のソロワンマンのステージを提供してくれた人|
+|[[ハン　バーガー]]|[[ハンバーガー教]]の教祖兼同期|
+|[[ゆた　んぽ]]|名前をよく間違えられることがある|
+|[[黒桜　ローレン]]|街に来て初のゴミ拾いバイトを一緒にした仲|
+#endregion
+
+#div(width=330px,bgcolor=#F9C1CF){&size(16){&color(#FFFF5E){&space()&space()&icon_fa(fa fa-user-secret)&space()&space()&bold(){黒市民}}}}
+
+#region(開く,close)閉じる
+#table_style(head=center){}
+#table_color(#F9C1CF)
+|~&color(#FFFF5E){キャラクター名}|~&color(#FFFF5E){詳細}|
+|[[安城　成]]|幼馴染。何かと気まずい模様|
+|[[三否亭　四五六確]]|ホストイベント時に接客してくれた人。リサセンにて素材を買い取ってくれ、条件付きでランポもプレゼントしてくれた|
+|[[バケ モノ>>エスターク・Z・ダークネス]]|[[ハピフル]]と一緒にアイドルをやりたがっている|
+|[[ほわいと　たいが>>イチカ　ウィルキンズ]]|[[ハピフル]]で出演した秋の収穫祭イベントの主催|
+|[[キャプテン　わきを]]|劇団夢歩きの演劇イベントで共演|
+|[[黒岩　るい子]]|レギオンにて初めて人質に取られた相手|
+|[[白井　満太]]|ヘリの師匠。自らが所有していたシースパを1億円で売ってくれた|
+#endregion
+
+*&color(#FFFF5E){出演} &color(#F9C1CF){ &icon_fa(fa-solid fa-microphone)}
+#table_style(head=#fffacd:center:b){開催日=center,イベント名称=bold}
+//#table_filter()
+|~開催日|~イベント名称|~内容|~場所|~主催・協賛・後援・協力|h
+|2024/9/24|夢へ一歩|オリジナル曲発表、ユニット名発表、朗読劇|8078|[[山田　ジェイミー]]|
+|2024/10/17|秋の収穫祭〜北の食材をたべつくそう〜|[[サンクチュアリ　たえこ]]の代役で急遽出演|1015|[[ほわいと たいが>>イチカ　ウィルキンズ]]|
+|2024/10/22|1stワンマンライブ「𝔽𝕦𝕝𝕝𝔹𝕝𝕠𝕠𝕞🌸」|歌ライブ、チェキ会|8078|[[蓮　シオン]]＆[[久川　たんぽぽ]]|
+|2024/10/29|夢へ一歩#2|マチネ,ソワレ共に若き日のローマン役で初の演劇ステージ出演|8078|[[山田　ジェイミー]]|
+|2024/12/8|突発ライブ|八王子めぐからの勧めで[[大　川]]さんのライブハウスにて急遽ソロ歌披露|6185|[[BlackVivian>Bellows]]|
+|2024/12/21|第一回 [[シャンクズプロモーション]] 紅白歌合戦 1日目|Day1のトップバッター|6077|[[シャンクズプロモーション]]|
+|2025/1/15|フラワーライブ〜お花屋さんの音楽日和〜|[[久川　たんぽぽ]]と[[八王子　めぐ]]のツーマンライブ|8006|[[ColorFlora]]|
+|2025/3/19|フラワーライブVol.2〜お花屋さんの音楽日和〜|[[久川　たんぽぽ]]と[[うさぎさん>山田　パルコ]]のツーマンライブ|8006|[[ColorFlora]]|
+|2025/3/20|アイドル大集合！？マジカルドリームパーティー|[[久川　たんぽぽ]]初のソロステージ|9081|[[べりはぴ]]×[[シャンクズプロモーション]]|
+|2025/4/30|2ndワンマンライブ「LAST LIVE！」|[[ハピフル]]の解散ライブ、チェキ会|8078|[[久川　たんぽぽ]]&[[蓮　シオン]]|
+|2025/5/18|お花見フラワーライブ|[[葵井　優]]、[[久川　たんぽぽ]]、[[山田　パル子]]のスリーマンライブ|2000番台付近の湖|[[ColorFlora]]|
+|2025/8/14|lost open fes|[[亀山　ヒロ>焼野原　ひろし]]、[[奈落　破滅]]、[[久川　たんぽぽ]]によるサーキットフェス|7123,7118,8235|[[パン　チャン]]|
+
+
+
+*&color(#FFFF5E){エピソード} &color(#F9C1CF){&icon_fa(fa fa-scroll)}
+#div(width=150px,bgcolor=#F9C1CF){&color(#FFFF5E){【&bold(){Season1}】}}
+***2024年
+#region(9月)&bold(){9月}
+****09/07 [[【#ストグラ】１日目🔰初めまして！ロスサントスに引っ越してきた日のお話！【久川たんぽぽ／#めぐすとりーむ】 >>https://www.youtube.com/live/1ACo_qT99xw]]
+#region(開く,open)
+-衛星の力を借りてStateAppから警察署へ、[[バーバリアン　田中(第一村人)>>バーバリアン　田中]]、[[寝言　怠惰]]に出会う
+-[[バーバリアン　田中]]に街案内をしてもらう
+-[[隣　紀子]]から自動車免許(AT)教習を受ける
+--免許取得に手間取り、街がざわつく？という噂がながれつつも、バーバリアン田中が面倒を見るという条件付きで合格
+-芸能事務所をやっている[[亀山 HERO>>焼野原　ひろし]]に出会う
+#endregion
+****09/08 [[【#ストグラ】2日目🔰ロスサントスのお仕事が気になる！【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/live/Sml1cQyLGDw?si=3lDbfMVE49dXhAS2 ]]
+#region(開く,open)
+-[[赤ちゃんキャップ>ましゃかり　トラボルタ]]、[[日之　ぱちお]]、[[二部　らるたる]]、[[安保　さぶ郎]]、[[月乃　えるな]]、[[ごいす　太郎]]、[[ボタリン>ボタリン　モンロー]]、[[ヘラシギ]]、[[上田　さん]]に出会う
+-警察署を訪れ、白市民パスを入手する。
+-月乃えるなに筋肉の使い方と設定方法を教えてもらう。
+-出身は日本の田舎
+-クレープ屋(サンサンクレープ)を体験する。
+-幼馴染[[安城　成]]と再会する。
+-レギオンと病院の間の自宅に戻る
+#endregion
+****09/10 [[【#ストグラ】3日目🔰色んな職場を体験してみよう！①【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/live/VWRsui5qqFs]]
+#region(開く,open)
+-[[9055]]にて[[上田　さん]]に車の見た目カスタムを教えてもらう。
+--[[トウ　ユン]]、[[葛城　司]]と出会う。
+-海上レストランに向かう途中、煽り運転に遭遇([[万十　忍]]運転)
+-海上レストランにて職場体験。志望動機は「楽しそうだから.ᐟ.ᐟ」
+--[[パンプキング>アキヲ・煉獄・ペスカトーレ]]が来店、会話の中から小さい頃の記憶が曖昧であると判明。
+--[[くま　ぽこ]]、[[谷藤　ろみみ]]、バーバリアン田中、　[[grow]]、[[ロイ　マーチングナンバー]]、[[毒多　博士]]、[[ラグランジュ　光芝]]、[[文殊　セイジ]]、[[ジェフリー　ヒッチコック]]、[[花沢　まるん]]が来店。
+--[[パン　チャン]]に自販機の未来を託される。
+-退勤後、亀山HEROの提案で同じく職場体験中だったgrowとスカイダイビングに三度挑戦するも、パラシュートがなかなか開かずそのまま落下。🔰加護もあり事なきを得る。
+-その後、ジェットコースターに乗ろうとするも現金400円しか所持しておらず、慌ててATMへ。
+-乗車後、具合の悪い亀山HEROに付き添う形でピルボックス病院へ。
+--救急隊の[[橘　かげまる]]、[[雷堂　ましろ]]、[[ももみ>ももみ　マルフォイ]]、[[鬼桃　ぷぅ]]、[[みら　らんど]]、[[サンクチュアリ　たえこ]]と出会う。
+#endregion
+****09/13 [[【#ストグラ】4日目🔰色んな職場を体験してみよう！②【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/live/s0S_b96RHBs]]
+#region(開く,open)
+-初めて17時台(17:30ころ)に起きる。
+-救急隊に興味があり病院へ向かう途中に車がハマる。
+-たまたま通りがかった[[パン　チャン]]が[[上田　さん]]を呼んでくれて事なきを得る。
+-そのまま車を修理しに9055へ。
+--9055でも体験を19時から受け付けているが、救急隊への興味が強くその場を後に病院へ。
+-[[ノビー　ラング]]に出会い、体験する為には六法への申請と初心者マークを取ることを知り、今日は諦める。
+-先程の9055の体験募集を思い出し再び9055へ。
+-パン  チャン指導の元体験開始。
+--暇な時間は2人で病院まで行き(むりやり)直す車を出してもらう。
+-他にも初のカジノルーレットを体験したりツナギを作ったり猫カフェへ行ったりと楽しく過ごす。
+-0時からのにかのりを見るために魔法少女カフェへ。
+-途中で眠くなりバイクの免許を取りに行く。
+--無事合格。
+-バイク免許を発行してくれた[[涼眩　此方>ヘラシギ]] さんに連れられ[[ダイナー>今井のダイナー]]へ。[[デヤンス>小者　デヤンス]]さんと出会う。
+-涼眩此方さんに9055へ送ってもらい解散。
+-にかのり終わりのメンバーと話して眠りにつく。
+#endregion
+****9/14[[【#ストグラ】5日目🔰ホストに行ってきました！！【久川たんぽぽ／#めぐすとりーむ】>>https://youtu.be/QEk_eHYKu8Q]]
+#region(開く,open)
+-レギオンにて[[蓮　シオン]]と出会い、お互い気になっていた22時openのホストイベント開催地まで一緒に行くことに。
+-ホストまでの道に二人して迷っていたところ、[[ギガ姉>Dr．ギガ]]に遭遇。成り行きで同行することに。
+--一緒に行動する中で、ギガ姉からいい女とはなんたるかを教えてもらう。
+--会場に到着、ギガ姉の奢りでVIP席へ通される。
+--[[三否亭　四五六確]]、[[花沢　まるん]]、[[伊勢　えびす]]に接客してもらう。
+--体験後、3人でのお写真を三否亭 四五六確、[[白井　満太]]に撮ってもらう。
+--その後、ホスト待機時間のうちに連絡を取っていた[[香月　ろぎあ]]から電話があり、[[菖光亭]]で蓮シオンと一緒に職場体験できることに。
+-[[菖光亭]]にて[[ジョーカー>半沢　直ふぃ]]、くま ぽこ、[[よすみの　かど]]、バーバリアン 田中、亀山 HERO、[[帝　レン]]、[[ボイラ　テンガリン]]、[[スコティッシュ・ホールド]]、[[KT>フランク・ジェスター]]が来店。
+--勤務中、初の餓死でのダウンを経験。救急隊の[[イナ　イロハ]]に治療してもらう。
+-退勤後、蓮シオンの提案でバスケコートに行き、フリースローなどをして遊ぶ。
+-その後、釣りをしに海上レストラン方面の釣り場へ。
+--到着後、ひとまずベンチに座り、お互いの生い立ちや今後について語り合う。話の中から意外な共通点も見つかり、思い切ってアイドルユニットを一緒に組まないかと提案。シオンは最初悩んでいたが、たんぽぽの持ち前の明るさ、優しさ、ポジティブさに触れ、提案を承諾。2人のアイドルユニットが結成されることに。
+-釣りは別の機会にしようということになり、シオンの車で移動しようとするも車がなかなか動かず、偶然ガレージに車を取りに来ていた[[揚物　ころも]]に車を診てもらう。
+-無事車を動かせるようになり、お礼を言った後、丁度開いていた[[魔女の酒場]]へ。
+--[[魔女の酒場]]では寝言 怠惰、[[小峯　玲]]らと話し、アイドルとしてやっていく上での相談に乗ってもらう。
+#endregion
+****9/15[[【#ストグラ】6日目🔰貴重な経験ができた日【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=aJ8HUVlGGpk]] 
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/17[[【#ストグラ】7日目🔰この街に来てから1週間！！【久川たんぽぽ／#めぐすとりーむ】>>https://youtu.be/9Hay_iqi4wI]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/18[[【#ストグラ】8日目🔰イベントに向けて頑張るぞー！！【久川たんぽぽ／#めぐすとりーむ】>>https://youtu.be/Z9OwTNeikiw]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/21[[【#ストグラ】9日目🔰大学講義遅刻しました【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=XNYinxr3uNM ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/21[[【#ストグラ】10日目🔰今日はBMCで職場体験のはずが、、、！！【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=KWfJKZhfRZs ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/22[[【#ストグラ】11日目🔰イベントまであと2日！アイドル活動頑張る日！！【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=3dVDbjc7_XY ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/24[[【#ストグラ】12日目🔰ついに初心者卒業！？アイドルユニットお披露目イベント当日！【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=_fCU6m9xW0Y ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/25[[【#ストグラ】13日目🌼久川たんぽぽ🌼イベントお疲れ様の余韻【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=ArbCnEtLlaY ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/28[[【#ストグラ】14日目🌼久川たんぽぽ🌼今日は早番するよー！！！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=l0jl4P58oCg ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/29[[【#ストグラ】15日目🌼久川たんぽぽ🌼アイドル活動のために働きます！！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=pVMywJQ2d-A ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(9月)
+
+#region(10月)&bold(){10月}
+****10/2[[【#ストグラ】16日目🌼久川たんぽぽ🌼お披露目反省会と今日は海で練習したい気分【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=NaBn-H4_OQw ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/2[[【#ストグラ】17日目🌼久川たんぽぽ🌼PYCメカニックでお仕事体験！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=2-bE5O6FZng ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/5[[【#ストグラ】18日目🌼久川たんぽぽ🌼JTSジョアンナタレントスクール体験！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=yivmsf-Qg-g ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/9[[【#ストグラ】アイドル活動19日目🌼久川たんぽぽ🌼今日はしっかりBMC体験！！！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=HwUN3ge2YPI ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/12[[【#ストグラ】アイドル活動20日目🌼久川たんぽぽ🌼初救急隊体験！！！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=YuJluQJVDN0]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/16[[【#ストグラ】アイドル活動21日目🌼久川たんぽぽ🌼今日はアイドルイベントに向けて頑張る！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=gmjdT14oehc]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/16[[【#ストグラ】アイドル活動22日目🌼久川たんぽぽ🌼今日は初警察体験！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=L1k-8ANCLu8]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/17[[【#ストグラ】アイドル活動23日目🌼久川たんぽぽ🌼急遽秋の収穫祭イベント出演？！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=74r2H6kyJJI]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/18[[【#ストグラ】アイドル活動24日目🌼久川たんぽぽ🌼警察体験2日目！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watchv=Pe1kxe0Gyqs&pp=uAQw]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/19[[【#ストグラ】アイドル活動25日目🌼久川たんぽぽ🌼ラスト警察体験3日目！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=ZT2SnjiLT1E]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/21[[【#ストグラ】アイドル活動26日目🌼久川たんぽぽ🌼ワンマンライブに向けて頑張るよー！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=P8NjzFWlJQg]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion  
+****10/22[[【#ストグラ】アイドル活動27日目🌼久川たんぽぽ🌼ハピフルワンマンライブ当日！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=Nn9W2qMhTEw]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/23[[【#ストグラ】アイドル活動28日目🌼久川たんぽぽ🌼猫カフェ体験？【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=M00PMXnexkI ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/25[[【#ストグラ】アイドル活動29日目🌼久川たんぽぽ🌼街がざわついています！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=Yu_Qb1s42G4 ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/27[[【#ストグラ】アイドル活動30日目🌼久川たんぽぽ🌼救急隊のイベントに行くぞー！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=h5D2pVozph0 ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/29[[【#ストグラ】31日目🌼久川たんぽぽ🌼第二回演劇イベント当日！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=lWjoK3kK9OU ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****10/30[[【#ストグラ】32日目🌼恐怖！ロスサントスの世界統合！？何が起きるの！？🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=rXuveTvVQbI ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(10月)
+
+#region(11月)&bold(){11月}
+****11/7[[【#ストグラ】33日目🌼ひさびさに目覚めました！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=mCH0VOowGtg ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****11/9[[【#ストグラ】34日目🌼ハピフルJTS体験と探検隊で冒険してきました！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=57TYYDuJsyI ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****11/17[[【#ストグラ】35日目🌼ひさびさに起床！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=B8hMtcqSO2E ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****11/20[[【#ストグラ】36日目🌼今日は遅番です！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=WcVBUhTtl-Y&pp=uAQw ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****11/20[[【#ストグラ】37日目🌼紅白歌合戦のオーディション頑張るぞー！！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=FebPSjdi_cA]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****11/26[[【#ストグラ】38日目🌼GBCのミュージカルイベントに行こうとしたら、、、🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=KXKvJiWZSr4]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****11/27[[【#ストグラ】39日目🌼今日は救急隊体験！1日目！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=9llWF80D1n4]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****11/28[[【#ストグラ】40日目🌼イベント多めな1日！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=qiouqrKLt-k]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(11月)
+
+#region(12月)&bold(){12月}
+****12/4[[【#ストグラ】41日目🌼かなり遅番！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=G-G_t_z3hMw]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****12/4[[【#ストグラ】42日目🌼お花屋さん体験と救急隊体験2日目！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=PREYGM3e4gQ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****12/7[[【#ストグラ】43日目🌼救急隊体験の合否が出ました。。。🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=N3iurjP06lo]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****12/21[[【#ストグラ】44日目🌼ハピフルシャンプロ紅白歌合戦出演！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=-Z2heAkY-mQ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****12/26[[【#ストグラ】45日目🌼無職アイドルひさびさに早起き！！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >https://www.youtube.com/watch?v=Y4w97lwZlT8]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****12/28[[【#ストグラ】46日目🌼お花屋さんに就職しました！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >https://www.youtube.com/watch?v=IvaoTllaWU8]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****12/30[[【#ストグラ】47日目🌼お花屋アイドルたんぽぽです！今年最後の起床！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >https://www.youtube.com/live/x8_n5M_eppY?si=5OfRpteUaF1vJnhP]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(12月)
+
+***2025年
+#region(1月)&bold(){1月}
+****1/11 [[【#ストグラ】48日目🌼お花屋さんアイドル今年初ロスサントス起床！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/DXus0Kzw4NI?si=Jg_iQZGPgs3KR1Up]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****1/12[[【#ストグラ】49日目🌼もうすぐ成人式だね！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/watch?v=qxz1IpspFh8&pp=uAQw]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****1/14[[【#ストグラ】50日目🌼お花屋さんのミニライブ準備！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/hqzfwi8eLWo?si=K7Fl19vkySIT06tA]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****1/15[[【#ストグラ】51日目🌼八王子めぐちゃんとお花屋さんでミニライブ当日！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/v0OhyLUmsv0?si=Pl9Gd-zSdCaFJPXD]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****1/17[[【#ストグラ】52日目🌼オタクになる！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/xBy88hN7FFg?si=99NBDyeUFLd4NR7J]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****1/21[[【#ストグラ】53日目🌼ヘリ乗れるようになりたい！特訓する！！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/watch?v=YX0Se8i54Qw]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****1/22[[【#ストグラ】54日目🌼今日もヘリ特訓！！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/HtEJdM2CvXw?si=vQusNIRshvmuXwKC]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****1/25[[【#ストグラ】54.5日目🌼今日は少しだけ！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.twitch.tv/videos/2362291899?tt_content=vod&tt_medium=mobile_web_share]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****1/30[[【#ストグラ】55日目🌼今日はなにをしようかな？お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/qLevefbeLXE?si=ep8o3iFc_HYrBCUK]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(1月)
+
+#region(2月)&bold(){2月}
+****2/4[[【#ストグラ】56日目🌼今日はレースクイーンやるよ！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/Ykk3JGa3MRo?si=jICbydqcmHt1OFbY]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****2/7[[【#ストグラ】57日目🌼STGラジオの日だ！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/_h5dRQBXvV0?si=if9_yRi7K5Kl5Rzw]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****2/8[[【#ストグラ】58日目🌼メカニックで働きたい！！／私の居場所🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/mEmGUQdOOS8?si=WmatcsZmUgxPT_E1]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****2/14[[【#ストグラ】59日目🌼市長選挙があるらしい！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/hIU7UcV7ZEI?si=-YXcxpLa-yrQVIBb]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****2/22[[【#ストグラ】60日目🌼今日は遅番！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/77TL5NgaAuI?si=wU00YNH5nhICedl5]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****2/23[[【#ストグラ】61日目🌼今日はヘリ練しようかな！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/mPaDc1KGfYE?si=XvLZX5WbYGdePvcu]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(2月)
+
+#region(3月)&bold(){3月}
+****3/1[[【#ストグラ】62日目🌼久々の起床！！お花屋さんと9055アルバイト🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/guP-eZjXqRM?si=PAsBG86YegiRux33]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****3/2[[【#ストグラ】63日目🌼政見放送みんなで聴こう！お花屋さんと9055アルバイト🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/Ip20Mjl9q3k?si=iSOXNXtEPKYCZvH_]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****3/6[[【#ストグラ】64日目🌼相方が起きたぁああ！！大切なお話をしました🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/W5ohHBfs9Kc?si=7QkaFbJUgjiqHigk]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****3/11[[【#ストグラ】65日目🌼ひさびさ早番！新市長になったらしい！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/BYPptTwfdzU?si=kXfCdZHuidwVl-0F]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****3/17[[【#ストグラ】65.5日目🌼ちょっとだけゆるーく起きます！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.twitch.tv/videos/2407308105?tt_content=vod&tt_medium=mobile_web_share]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****3/18[[【#ストグラ】66日目🌼明日のフラワーライブに向けて頑張るぞー！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/tIosAzOprWg?si=CJmFJBbBON_Nad6T]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****3/19[[【#ストグラ】67日目🌼うさぎさんとフラワーライブ！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/dApj3Lrp31Y?si=8PVcP8jRyqDvHqqb]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****3/20[[【#ストグラ】68日目🌼初めてのソロステージ！アイドルフェス出演！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/5y_wZMeWjOM?si=F_y6gbhofsl-uv4O]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****3/22[[【#ストグラ】69日目🌼アイドルもお仕事も全部頑張る！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/fvINHJ1d7no?si=9QC4WEgDQYyxhti4]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****3/22[[【#ストグラ】70日目🌼もう少しでお誕生日！！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/UblsTX8FsLg?si=MBBAnSr7drcLw1Ib]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****3/26[[【#ストグラ】71日目🌼お誕生日だったのに寝てた！！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/J99cVvouf7U?si=dZOWNNJvrBq38D22]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****3/27[[【#ストグラ】72日目🌼春の収穫祭でお花屋さん出店！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/asF2MiFAEKQ?si=eyzOOMDa7GYDkJja]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(3月)
+
+#region(4月)&bold(){4月}
+****4/1[[【#ストグラ】73日目🌼シャッフルパージデー🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/g-KEN5wpUBw?si=J5UiLADMHGNRuEnf]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****4/1[[【#ストグラ】73日目🌼シャッフルパージデー2🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/D67O-GaMwKw?si=Pnd4oRifFZ03Qxa7]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****4/3[[【#ストグラ】74日目🌼9055会議🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/RINwRqrNVtI?si=hTTwa0ig_KyGiLLP]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****4/7[[【#ストグラ】75日目🌼強盗がくるかも？街が変わっている！？9055メカニックお花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/BBIeb9kBfmk?si=B3rFvamgJwKS3nA9]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****4/9[[【#ストグラ】76日目🌼9055メカニックお花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/40LVq4rx5qI?si=aDXFH3DYOWfOUTTI]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****4/12[[【#ストグラ】77日目🌼久川たんぽぽ個人医編#1🌼【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/JD0Ad9GZwqs?si=WMAB1nnJGD0O5fZ5]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****4/16[[【#ストグラ】78日目🌼お花屋さんで店番Day！久川たんぽぽ🌼【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/chm1wzKB64c?si=S4P5us1w05u1eABn]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****4/20[[【#ストグラ】79日目🌼遅番個人医ヘリ特訓！久川たんぽぽ🌼【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/Otr2QsS_cvw?si=9waR8fRIBx530f3_]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****4/28[[【#ストグラ】80日目🌼ハピフルラストワンマンに向けて頑張る！久川たんぽぽ🌼【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/UZDEOvN0oYA?si=SbbXfujU5DIyhWG7]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****4/29[[【#ストグラ】81日目🌼ハピフルラストワンマンに向けて頑張る！#2 久川たんぽぽ🌼【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/a1vQRtkjAic?si=XQVjTsIlqFTbVSPC]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****4/30[[【#ストグラ】82日目🌼アイドルユニットハピネスフルール2ndワンマンライブ『LAST LIVE』 久川たんぽぽ🌼解散前ラスト【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/oi_2sJweuv4?si=VX794WdcXUGvuh_N]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(4月)
+
+#region(5月)&bold(){5月}
+****5/3[[【#ストグラ】83日目🌼ライブのお礼を返していく！お仕事も頑張るよ！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/c1urTTrLNXw?si=maElN-Z4Ir7RrFlQ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****5/4[[【#ストグラ】84日目🌼運転下手すぎる久川たんぽぽ個人医編#2🌼【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/a4x5bcTf98c?si=s3AtHg2xh4a4cqxz]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****5/9[[【#ストグラ】85日目🌼今日は早番！9055メカニック久川たんぽぽ🌼【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/Vg1x-GCtK_8?si=Hg1Quf0l6C0H5RIU]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****5/11[[【#ストグラ】86日目🌼チルな時間に起床する！9055メカニック久川たんぽぽ🌼個人医編#3【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/DXClSPid4LE?si=fLzWWrt77k2ZBejm]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****5/16[[【#ストグラ】87日目🌼超絶遅番！9055メカニック久川たんぽぽ🌼個人医4日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/fXSpdQdUuq8?si=unhGUzI7NhRUoW-x]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****5/18[[【#ストグラ】88日目🌼明日はお花見ライブ！少しだけ準備！9055メカニック久川たんぽぽ🌼個人医5日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/5iOY7XcfZTw?si=VY938fE0UQtOyy1Y]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****5/18[[【#ストグラ】89日目🌼今日はお花見ライブ！アイドルソロ活動！9055メカニック久川たんぽぽ🌼個人医6日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/XMYpFfVplhE?si=oAye8zk76VmuSiIv]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****5/22[[【#ストグラ】90日目🌼お花屋さん9055メカニック久川たんぽぽ🌼個人医7日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/EbCvHz28nbI?si=NFoTpUto64anhWMI]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****5/29[[【#ストグラ】91日目🌼超絶遅番！久川たんぽぽ🌼個人医8日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/AfkMVg0aHQ0?si=xm-CGb1G2RhA_axq]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(5月)
+
+#region(6月)&bold(){6月}
+****6/1[[【#ストグラ】92日目🌼超絶遅番！久川たんぽぽ🌼今日は9055へ出勤！！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/dhlHwUn2oD8?si=kikWV1uNR28-x24T]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****6/9[[【#ストグラ】93日目🌼お花屋さんと個人医クリニックハウジング！久川たんぽぽ🌼【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/UC6__4bv3yE?si=3uptxMfM-4Zf0VaJ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****6/13[[【#ストグラ】94日目🌼クリニックひと段落！久川たんぽぽ🌼個人医9日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/fUjWXE9u7Wg?si=YnxQYi2oJFTRwCAh]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****6/16[[【#ストグラ】95日目🌼久川たんぽぽ🌼今日は何が起きるかな？9055メカニック！個人医10日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/V24gu-b-M5g?si=Sbpbk33Bb-lc-60E]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****6/19[[【#ストグラ】96日目🌼久川たんぽぽ🌼9055社員旅行！個人医11日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/g9XmkOhqx1c?si=e0DThhrFkygmeuwp]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****6/21[[【#ストグラ】97日目🌼久川たんぽぽ🌼9055メカニック！個人医12日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/9bb0HZFRTFw?si=fiuN-Jsbeot9_DAP]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****6/28[[【#ストグラ】98日目🌼久川たんぽぽ🌼超絶遅番！9055メカニック！個人医13日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/l4Tu8cLmW8I?si=KrxpdvStY3pvgCgd]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(6月)
+
+#region(7月)&bold(){7月}
+****7/4[[【#ストグラ】99日目🌼久川たんぽぽ🌼お医者さんがんばる！個人医14日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/M9R6hbiGrLs?si=S-tambhUubCEkYLX]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****7/5[[【#ストグラ】祝100日目を迎えました！！！！🌼久川たんぽぽ🌼9055メカニック【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/71DuFN1S4x4?si=083bjBZl-YHAEbqx]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****7/12[[【#ストグラ】101日目可愛いだけじゃだめですカーレース！🌼久川たんぽぽ🌼9055メカニック【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/lPA0jPNF54s?si=-EDhkrrbvDc5v7Eb]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****7/14[[【#ストグラ】102日目なんかやばい気がする！？🌼久川たんぽぽ🌼9055メカニック/個人医15日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/O29fYrETV1U?si=xZZT7PJV7RbaoItP]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****7/20[[【#ストグラ】103日目🌼久川たんぽぽ🌼9055メカニック/個人医16日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/Sf26FB63PM8?si=BNr2rBCsTdAF5yMa]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****7/24[[【#ストグラ】104日目🌼超絶遅番！久川たんぽぽ🌼9055メカニック/個人医17日目【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/-MyA3H7n7Zc?si=fRkHfTT5QgbAG3Gf]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****7/27[[【#ストグラ】105日目🌼個人医再研修になっちゃった！！久川たんぽぽ🌼9055メカニック/個人医18日目【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/BcTa_IqdrUM?si=AWj88ME5nib-Ccvz]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****7/29[[【#ストグラ】106日目🌼いつもより早起きです！久川たんぽぽ🌼9055メカニック/個人医18日目/再研修2日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/ctoVo-nC_Xk?si=Jn9mTFTtH7kMEGCs]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****7/31[[【#ストグラ】107日目🌼べりはぴのライブを見に行く！！ヲタ活！久川たんぽぽ🌼9055メカニック/個人医19日目/再研修3日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/QkVjDr5-vZM?si=IKvual9AqpKgJDGl]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(7月)
+
+#region(8月)&bold(){8月}
+****8/1[[【#ストグラ】108日目🌼今日は9055会議！！！久川たんぽぽ🌼9055メカニック/個人医20日目/再研修4日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/EWtZT1gvrC0?si=_mQhl0Hxy4_mxJDc]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****8/6[[【#ストグラ】109日目🌼超絶遅番久川たんぽぽ🌼9055メカニック/個人医21日目/再研修5日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/OB_chgn9tME?si=VkbeS8WM8j4uj56v]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****8/12[[【#ストグラ】110日目を迎えました🌼超絶遅番久川たんぽぽ🌼9055メカニック/個人医22日目/再研修6日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/qn_oDCmcBBQ?si=t0XHapwYOF-sTJPA]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****8/14[[【#ストグラ】111日目🌼個人医再研修終わりました！！明日のライブに向けて準備！！✨久川たんぽぽ🌼9055メカニック/個人医23日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/L1FA2kmHi6E?si=xcw93O-NjZtMLTPw]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****8/14[[【#ストグラ】112日目🌼今日は久々に街で歌います！！久川たんぽぽ🌼9055メカニック【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/U_TjpZHOUp8?si=PiSWX97neY1Vnw9H]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****8/20[[【#ストグラ】113日目🌼いろいろ起きてる予感！久川たんぽぽ🌼9055メカニック/個人医24日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/AStWMVPJJ6w?si=ts0BaEdoifyNFxwO]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****8/23[[【#ストグラ】114日目🌼今日は何が起きるかな！久川たんぽぽ🌼9055メカニック/個人医25日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/C7DryNyDdCE?si=6zR-APMFwky_x7Uc]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****8/26[[【#ストグラ】115日目🌼SGPD祭に行くよー！！🌼9055メカニック/個人医26日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/BzF4Euezio4?si=EPvgMymFUNVujmlE]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****8/27[[【#ストグラ】116日目🌼今日は3周年イベントだ！！🌼久川たんぽぽ🌼9055メカニック/個人医27日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/dvLWVGEHSiI?si=MdznJh8QS97lsP6r]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****8/28[[【#ストグラ】117日目🌼9055抗争！？🌼久川たんぽぽ🌼9055メカニック/個人医28日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/55oQDhvw5Pc?si=sY7aaCCwR4s0pB3M]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(8月)
+
+#region(9月)&bold(){9月}
+****9/4[[【#ストグラ】118日目🌼ひさしぶりに起きた！！🌼久川たんぽぽ🌼9055メカニック/個人医29日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/ugD7xwUHuys?si=OZW6AeUnOOpUkiU1]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/4[[【#ストグラ】119日目🌼今日は何が起きるかな？🌼久川たんぽぽ🌼9055メカニック/個人医30日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/s8WKJHTLb1s?si=p59uVJAfCd-LNhjN]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/7[[【#ストグラ】120日目🌼今日でこの街に来て1年が経ちました！🌼久川たんぽぽ🌼9055メカニック/個人医31日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/Jc6eglevs9w?si=QCSvdsJUCudcfw9W]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/10[[【#ストグラ】121日目🌼運命の日🌼久川たんぽぽ🌼9055メカニック【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/LkgjXVO9PmU?si=xN9dytyBSjDYqDLd]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/17[[【#ストグラ】122日目🌼こんな時間に起きてしまった🌼久川たんぽぽ🌼9055メカニック/個人医32日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/Q92tVt5Bzew?si=8tx72tYDbvlqnWJe]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/18[[【#ストグラ】123日目🌼またこんな時間に起きてしまった🌼久川たんぽぽ🌼9055メカニック【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/U4lObPcpx2E?si=wWfJiX7LY10Yryzo]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/20[[【#ストグラ】124日目🌼遅番個人医33日目🌼久川たんぽぽ🌼9055メカニック/お花屋さん【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/cEp3NT29C8w?si=O7pOeYnSG3HSc_9S]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/21[[【#ストグラ】125日目🌼遅番個人医34日目🌼久川たんぽぽ🌼9055メカニック/お花屋さん【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/na4LKRyiuEg?si=xRxqXlarcKKQS82v]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****9/21[[【#ストグラ】126日目🌼久川たんぽぽ🌼終末…全部大切な思い出。みんなと一緒に居たい【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/CAOXqxqsVhs?si=RLeR779pmVmEz5we]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+#endregion(9月)
+
+#div(width=150px,bgcolor=#F9C1CF){&color(#FFFF5E){【&bold(){Season2}】}}
+***2026年
+#region(7月,open)&bold(){7月}
+****7/19 [[【#ストグラSeason2】久川たんぽぽ、転送…？ Day1【めぐ／#めぐすとりーむ】 >>https://youtube.com/live/icOB606Mcv4?si=Wha38rxWTDOAkRiQ ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****7/24 [[【#ストグラSeason2】転送されたら世界が変わってた Day2【久川たんぽぽ／#めぐすとりーむ】 >>https://www.youtube.com/live/sIWFm7JgEHs?si=Cf0-dfZsehTgRKzT ]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+****7/30 [[【#ストグラSeason2】転送されたら世界が変わってた Day3【久川たんぽぽ／#めぐすとりーむ】 >>https://www.youtube.com/live/BaPTvWl_WjU?si=oDEpK9CwOkG3YtAk]]
+#region(エピソード募集中,close)閉じる
+-エピソード募集中
+#endregion
+
+
+
+
+
+#endregion(7月)
+
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(mm月)
+
+}
+
+*&color(#FFFF5E){アーカイブ} &color(#F9C1CF){&icon_fa(fa fa-video)}
+#div(width=150px,bgcolor=#F9C1CF){&color(#FFFF5E){【&bold(){Season1}】}}
+***2024年
+#region(2024)
+2024
+#table_style(head=center:#FFFF5E){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|9/7|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】1日目🔰初めまして！ロスサントスに引っ越してきた日のお話！【久川たんぽぽ／#めぐすとりーむ】>>https://youtu.be/1ACo_qT99xw]]||
+|9/8|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】2日目🔰ロスサントスのお仕事が気になる！【久川たんぽぽ／#めぐすとりーむ】>>https://youtu.be/Sml1cQyLGDw]]||
+|9/10|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】3日目🔰色んな職場を体験してみよう！①【久川たんぽぽ／#めぐすとりーむ】>>https://youtu.be/VWRsui5qqFs]]||
+|9/13|4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】4日目🔰色んな職場を体験してみよう！②【久川たんぽぽ／#めぐすとりーむ】>>https://youtu.be/s0S_b96RHBs]]||
+|9/14|5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】5日目🔰ホストに行ってきました！！【久川たんぽぽ／#めぐすとりーむ】>>https://youtu.be/QEk_eHYKu8Q]]||
+|9/15|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】6日目🔰貴重な経験ができた日【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=aJ8HUVlGGpk ]]||
+|9/17|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】7日目🔰この街に来てから1週間！！【久川たんぽぽ／#めぐすとりーむ】>>https://youtu.be/9Hay_iqi4wI]]||
+|9/18|8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】8日目🔰イベントに向けて頑張るぞー！！【久川たんぽぽ／#めぐすとりーむ】>>https://youtu.be/Z9OwTNeikiw]]||
+|9/21|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】9日目🔰大学講義遅刻しました【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=XNYinxr3uNM ]]||
+|9/21|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】10日目🔰今日はBMCで職場体験のはずが、、、！！【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=KWfJKZhfRZs ]]||
+|9/22|11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】11日目🔰イベントまであと2日！アイドル活動頑張る日！！【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=3dVDbjc7_XY ]]||
+|9/24|12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】12日目🔰ついに初心者卒業！？アイドルユニットお披露目イベント当日！【久川たんぽぽ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=_fCU6m9xW0Y ]]||
+|9/25|13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】13日目🌼久川たんぽぽ🌼イベントお疲れ様の余韻【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=ArbCnEtLlaY ]]||
+|9/28|14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】14日目🌼久川たんぽぽ🌼今日は早番するよー！！！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=l0jl4P58oCg ]]||
+|9/29|15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】15日目🌼久川たんぽぽ🌼アイドル活動のために働きます！！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=pVMywJQ2d-A ]]||
+|10/2|16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】16日目🌼久川たんぽぽ🌼お披露目反省会と今日は海で練習したい気分【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=NaBn-H4_OQw ]]||
+|10/2|17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】17日目🌼久川たんぽぽ🌼PYCメカニックでお仕事体験！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=2-bE5O6FZng ]]||
+|10/5|18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】18日目🌼久川たんぽぽ🌼JTSジョアンナタレントスクール体験！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=yivmsf-Qg-g ]]||
+|10/9|19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動19日目🌼久川たんぽぽ🌼今日はしっかりBMC体験！！！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=HwUN3ge2YPI ]]||
+|10/12|20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動20日目🌼久川たんぽぽ🌼初救急隊体験！！！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=YuJluQJVDN0]]||
+|10/16|21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動21日目🌼久川たんぽぽ🌼今日はアイドルイベントに向けて頑張る！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=gmjdT14oehc]]||
+|10/16|22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動22日目🌼久川たんぽぽ🌼今日は初警察体験！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=L1k-8ANCLu8]]||
+|10/17|23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動23日目🌼久川たんぽぽ🌼急遽秋の収穫祭イベント出演？！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=74r2H6kyJJI]]||
+|10/18|24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動24日目🌼久川たんぽぽ🌼警察体験2日目！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=Pe1kxe0Gyqs&pp=uAQw]]||
+|10/19|25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動25日目🌼久川たんぽぽ🌼ラスト警察体験3日目！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=ZT2SnjiLT1E]]||
+|10/21|26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動26日目🌼久川たんぽぽ🌼ワンマンライブに向けて頑張るよー！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=P8NjzFWlJQg]]||
+|10/22|27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動27日目🌼久川たんぽぽ🌼ハピフルワンマンライブ当日！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=Nn9W2qMhTEw]]||
+|10/23|28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動28日目🌼久川たんぽぽ🌼猫カフェ体験？【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=M00PMXnexkI]]||
+|10/25|29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動29日目🌼久川たんぽぽ🌼街がざわついています！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=Yu_Qb1s42G4]]||
+|10/27|30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】アイドル活動30日目🌼久川たんぽぽ🌼救急隊のイベントに行くぞー！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=h5D2pVozph0]]||
+|10/29|31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】31日目🌼久川たんぽぽ🌼第二回演劇イベント当日！【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=lWjoK3kK9OU]]||
+|10/30|32|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】32日目🌼恐怖！ロスサントスの世界統合！？何が起きるの！？🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=rXuveTvVQbI]]||
+|11/7|33|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】33日目🌼ひさびさに目覚めました！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=mCH0VOowGtg]]||
+|11/9|34|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】34日目🌼ハピフルJTS体験と探検隊で冒険してきました！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=57TYYDuJsyI]]||
+|11/17|35|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】35日目🌼ひさびさに起床！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=B8hMtcqSO2E]]||
+|11/20|36|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】36日目🌼今日は遅番です！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=WcVBUhTtl-Y&pp=uAQw]]||
+|11/20|37|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】37日目🌼紅白歌合戦のオーディション頑張るぞー！！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=FebPSjdi_cA]]||
+|11/26|38|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】38日目🌼GBCのミュージカルイベントに行こうとしたら、、、🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=KXKvJiWZSr4]]||
+|11/27|39|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】39日目🌼今日は救急隊体験！1日目！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=9llWF80D1n4]]||
+|11/28|40|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】40日目🌼イベント多めな1日！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=qiouqrKLt-k]]||
+|12/4|41|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】41日目🌼かなり遅番！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=G-G_t_z3hMw]]||
+|12/4|42|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】42日目🌼お花屋さん体験と救急隊体験2日目！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=PREYGM3e4gQ]]||
+|12/7|43|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】43日目🌼救急隊体験の合否が出ました。。。🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=N3iurjP06lo]]||
+|12/21|44|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】44日目🌼ハピフルシャンプロ紅白歌合戦出演！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/watch?v=-Z2heAkY-mQ]]||
+|12/26|45|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】45日目🌼無職アイドルひさびさに早起き！！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/watch?v=Y4w97lwZlT8]]||
+|12/28|46|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】46日目🌼お花屋さんに就職しました！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/watch?v=IvaoTllaWU8]]||
+|12/30|47|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】47日目🌼お花屋アイドルたんぽぽです！今年最後の起床！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/x8_n5M_eppY?si=5OfRpteUaF1vJnhP]]||
+
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***2025年
+#region(2025)
+#table_style(head=center:#FFFF5E){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|1/11|48|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】48日目🌼お花屋さんアイドル今年初ロスサントス起床！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/DXus0Kzw4NI?si=Vf2Ruc8KChhx5Y8q]]||
+|1/12|49|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】49日目🌼もうすぐ成人式だね！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/watch?v=qxz1IpspFh8&pp=uAQw]]||
+|1/14|50|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】50日目🌼お花屋さんのミニライブ準備！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/hqzfwi8eLWo?si=XffHr791HE4AZk7U]]||
+|1/15|51|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】51日目🌼八王子めぐちゃんとお花屋さんでミニライブ当日！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/v0OhyLUmsv0?si=MMDA_MwqnrXAPbRT]]||
+|1/17|52|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】52日目🌼オタクになる！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/xBy88hN7FFg?si=sI4VT_MfIqUcMewg]]||
+|1/21|53|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】53日目🌼ヘリ乗れるようになりたい！特訓する！！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/watch?v=YX0Se8i54Qw]]||
+|1/22|54|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】54日目🌼今日もヘリ特訓！！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/HtEJdM2CvXw?si=vQusNIRshvmuXwKC]]||
+|1/25|54.5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】54.5日目🌼今日は少しだけ！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.twitch.tv/videos/2362291899?tt_content=vod&tt_medium=mobile_web_share]]||
+|1/30|55|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】55日目🌼今日はなにをしようかな？お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/qLevefbeLXE?si=ep8o3iFc_HYrBCUK]]||
+|2/4|56|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】56日目🌼今日はレースクイーンやるよ！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/Ykk3JGa3MRo?si=jICbydqcmHt1OFbY]]||
+|2/7|57|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】57日目🌼STGラジオの日だ！お花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/_h5dRQBXvV0?si=if9_yRi7K5Kl5Rzw]]||
+|2/8|58|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】58日目🌼メカニックで働きたい！！／私の居場所🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >> https://www.youtube.com/live/mEmGUQdOOS8?si=WmatcsZmUgxPT_E1]]||
+|2/14|59|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】59日目🌼市長選挙があるらしい！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/hIU7UcV7ZEI?si=-YXcxpLa-yrQVIBb]]||
+|2/22|60|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】60日目🌼今日は遅番！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/77TL5NgaAuI?si=wU00YNH5nhICedl5]]||
+|2/23|61|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】61日目🌼今日はヘリ練しようかな！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/mPaDc1KGfYE?si=XvLZX5WbYGdePvcu]]||
+|3/1|62|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】62日目🌼久々の起床！！お花屋さんと9055アルバイト🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/guP-eZjXqRM?si=am-s2QgVh367M_-M]]||
+|3/2|63|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】63日目🌼政見放送みんなで聴こう！お花屋さんと9055アルバイト🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/Ip20Mjl9q3k?si=iSOXNXtEPKYCZvH_]]||
+|3/6|64|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】64日目🌼相方が起きたぁああ！！大切なお話をしました🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/W5ohHBfs9Kc?si=7QkaFbJUgjiqHigk]]||
+|3/11|65|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】65日目🌼ひさびさ早番！新市長になったらしい！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/BYPptTwfdzU?si=m2kJ95JwV7LF-3W2]]||
+|3/17|65.5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】65.5日目🌼ちょっとだけゆるーく起きます！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.twitch.tv/videos/2407308105?tt_content=vod&tt_medium=mobile_web_share]]||
+|3/18|66|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】66日目🌼明日のフラワーライブに向けて頑張るぞー！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/tIosAzOprWg?si=CJmFJBbBON_Nad6T]]||
+|3/19|67|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】67日目🌼うさぎさんとフラワーライブ！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/dApj3Lrp31Y?si=8PVcP8jRyqDvHqqb]]||
+|3/20|68|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】68日目🌼初めてのソロステージ！アイドルフェス出演！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/5y_wZMeWjOM?si=fsUfxJfAhlycHCWY]]||
+|3/22|69|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】69日目🌼アイドルもお仕事も全部頑張る！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/fvINHJ1d7no?si=9QC4WEgDQYyxhti4]]||
+|3/22|70|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】70日目🌼もう少しでお誕生日！！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/UblsTX8FsLg?si=MBBAnSr7drcLw1Ib]]||
+|3/26|71|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】71日目🌼お誕生日だったのに寝てた！！！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/J99cVvouf7U?si=dZOWNNJvrBq38D22]]||
+|3/27|72|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】72日目🌼春の収穫祭でお花屋さん出店！🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/asF2MiFAEKQ?si=ngeY2QnyH3XZc4y5]]||
+|4/1|73|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】73日目🌼シャッフルパージデー🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/g-KEN5wpUBw?si=-0JHWxYu6JjQ9vIS]]||
+|4/1|73|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】73日目🌼シャッフルパージデー2🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/D67O-GaMwKw?si=kw2YSAwWKy_XCW8c]]||
+|4/3|74|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】74日目🌼9055会議🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/RINwRqrNVtI?si=hTTwa0ig_KyGiLLP]]||
+|4/7|75|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】75日目🌼強盗がくるかも？街が変わっている！？9055メカニックお花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/BBIeb9kBfmk?si=B3rFvamgJwKS3nA9]]||
+|4/9|76|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】76日目🌼9055メカニックお花屋さんアイドル🌼久川たんぽぽ【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/40LVq4rx5qI?si=aDXFH3DYOWfOUTTI]]||
+|4/12|77|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】77日目🌼久川たんぽぽ個人医編#1🌼【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/JD0Ad9GZwqs?si=rgllw69cqRDOEuoB]]||
+|4/16|78|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】78日目🌼お花屋さんで店番Day！久川たんぽぽ🌼【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/chm1wzKB64c?si=YcYEczm7qhP_h8W2]]||
+|4/20|79|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】79日目🌼遅番個人医ヘリ特訓！久川たんぽぽ🌼【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/Otr2QsS_cvw?si=9waR8fRIBx530f3_]]||
+|4/28|80|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】80日目🌼ハピフルラストワンマンに向けて頑張る！久川たんぽぽ🌼【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/UZDEOvN0oYA?si=SbbXfujU5DIyhWG7]]||
+|4/29|81|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】81日目🌼ハピフルラストワンマンに向けて頑張る！#2 久川たんぽぽ🌼【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/a1vQRtkjAic?si=XQVjTsIlqFTbVSPC]]||
+|4/30|82|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】82日目🌼アイドルユニットハピネスフルール2ndワンマンライブ『LAST LIVE』久川たんぽぽ🌼解散前ラスト【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/oi_2sJweuv4?si=qZ2hNpG_zCKNk2I_]]||
+|5/3|83|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】83日目🌼ライブのお礼を返していく！お仕事も頑張るよ！久川たんぽぽ🌼【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/c1urTTrLNXw?si=ZT2Nfooy7cpT-PQg]]||
+|5/4|84|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】84日目🌼運転下手すぎる久川たんぽぽ個人医編#2🌼【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/a4x5bcTf98c?si=4h6KJEAQ-PVfAuUw]]||
+|5/9|85|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】85日目🌼今日は早番！9055メカニック久川たんぽぽ🌼【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/Vg1x-GCtK_8?si=Hg1Quf0l6C0H5RIU]]||
+|5/11|86|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】86日目🌼チルな時間に起床する！9055メカニック久川たんぽぽ🌼個人医編#3【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/DXClSPid4LE?si=fLzWWrt77k2ZBejm]]||
+|5/16|87|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】87日目🌼超絶遅番！9055メカニック久川たんぽぽ🌼個人医4日目【めぐ／#めぐすとりーむ】    22>>https://www.youtube.com/live/fXSpdQdUuq8?si=unhGUzI7NhRUoW-x]]||
+|5/18|88|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】88日目🌼明日はお花見ライブ！少しだけ準備！9055メカニック久川たんぽぽ🌼個人医5日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/5iOY7XcfZTw?si=VY938fE0UQtOyy1Y]]||
+|5/18|89|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】89日目🌼今日はお花見ライブ！アイドルソロ活動！9055メカニック久川たんぽぽ🌼個人医6日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/XMYpFfVplhE?si=oAye8zk76VmuSiIv]]||
+|5/22|90|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】90日目🌼お花屋さん9055メカニック久川たんぽぽ🌼個人医7日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/EbCvHz28nbI?si=NFoTpUto64anhWMI]]||
+|5/29|91|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】91日目🌼超絶遅番！久川たんぽぽ🌼個人医8日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/AfkMVg0aHQ0?si=xm-CGb1G2RhA_axq]]||
+|6/1|92|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】92日目🌼超絶遅番！久川たんぽぽ🌼今日は9055へ出勤！！【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/dhlHwUn2oD8?si=kikWV1uNR28-x24T]]||
+|6/9|93|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】93日目🌼お花屋さんと個人医クリニックハウジング！久川たんぽぽ🌼【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/UC6__4bv3yE?si=3uptxMfM-4Zf0VaJ]]||
+|6/13|94|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】94日目🌼クリニックひと段落！久川たんぽぽ🌼個人医9日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/fUjWXE9u7Wg?si=9vVU1FqhJq8eJuYY]]||
+|6/16|95|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】95日目🌼久川たんぽぽ🌼今日は何が起きるかな？9055メカニック！個人医10日目【めぐ／#めぐすとりーむ】    >>https://www.youtube.com/live/V24gu-b-M5g?si=Sbpbk33Bb-lc-60E]]||
+|6/19|96|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】96日目🌼久川たんぽぽ🌼9055社員旅行！個人医11日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/g9XmkOhqx1c?si=e0DThhrFkygmeuwp]]||
+|6/21|97|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】97日目🌼久川たんぽぽ🌼9055メカニック！個人医12日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/9bb0HZFRTFw?si=fiuN-Jsbeot9_DAP]]||
+|6/28|98|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】98日目🌼久川たんぽぽ🌼超絶遅番！9055メカニック！個人医13日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/l4Tu8cLmW8I?si=KrxpdvStY3pvgCgd]]||
+|7/4|99|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】99日目🌼久川たんぽぽ🌼お医者さんがんばる！個人医14日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/M9R6hbiGrLs?si=xn5Ebnq2PzNghSoU]]||
+|7/5|100|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】祝100日目を迎えました！！！！🌼久川たんぽぽ🌼9055メカニック【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/71DuFN1S4x4?si=083bjBZl-YHAEbqx]]||
+|7/12|101|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】101日目可愛いだけじゃだめですカーレース！🌼久川たんぽぽ🌼9055メカニック【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/lPA0jPNF54s?si=-EDhkrrbvDc5v7Eb]]||
+|7/14|102|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】102日目なんかやばい気がする！？🌼久川たんぽぽ🌼9055メカニック/個人医15日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/O29fYrETV1U?si=xZZT7PJV7RbaoItP]]||
+|7/20|103|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】103日目🌼久川たんぽぽ🌼9055メカニック/個人医16日目【めぐ／#めぐすとりーむ】>>https://www.youtube.com/live/Sf26FB63PM8?si=BNr2rBCsTdAF5yMa]]||
+|7/24|104|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】104日目🌼超絶遅番！久川たんぽぽ🌼9055メカニック/個人医17日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/-MyA3H7n7Zc?si=fRkHfTT5QgbAG3Gf]]||
+|7/27|105|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】105日目🌼個人医再研修になっちゃった！！久川たんぽぽ🌼9055メカニック/個人医18日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/BcTa_IqdrUM?si=ITT17R_SZmqMsFWa]]||
+|7/29|106|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】106日目🌼いつもより早起きです！久川たんぽぽ🌼9055メカニック/個人医18日目/再研修2日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/ctoVo-nC_Xk?si=32FQyDPR4X470qIQ]]||
+|7/31|107|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】107日目🌼べりはぴのライブを見に行く！！ヲタ活！久川たんぽぽ🌼9055メカニック/個人医19日目/再研修3日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/QkVjDr5-vZM?si=IKvual9AqpKgJDGl]]||
+|8/1|108|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】108日目🌼今日は9055会議！！！久川たんぽぽ🌼9055メカニック/個人医20日目/再研修4日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/EWtZT1gvrC0?si=_mQhl0Hxy4_mxJDc]]||
+|8/6|109|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】109日目🌼超絶遅番久川たんぽぽ🌼9055メカニック/個人医21日目/再研修5日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/OB_chgn9tME?si=VkbeS8WM8j4uj56v]]||
+|8/12|110|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】気づいたら110日目を迎えました🌼久川たんぽぽ🌼9055メカニック/個人医22日目/再研修6日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/qn_oDCmcBBQ?si=t0XHapwYOF-sTJPA]]||
+|8/14|111|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】111日目🌼個人医再研修終わりました！！明日のライブに向けて準備！！✨久川たんぽぽ🌼9055メカニック/個人医23日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/L1FA2kmHi6E?si=xcw93O-NjZtMLTPw]]||
+|8/14|112|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】112日目🌼今日は久々に街で歌います！！久川たんぽぽ🌼9055メカニック【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/U_TjpZHOUp8?si=PiSWX97neY1Vnw9H]]||
+|8/20|113|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】113日目🌼いろいろ起きてる予感！久川たんぽぽ🌼9055メカニック/個人医24日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/AStWMVPJJ6w?si=ts0BaEdoifyNFxwO]]||
+|8/23|114|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】114日目🌼今日は何が起きるかな！久川たんぽぽ🌼9055メカニック/個人医25日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/C7DryNyDdCE?si=zMRkUDVEn3jtgEbw]]||
+|8/26|115|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】115日目🌼SGPD祭に行くよー！！🌼9055メカニック/個人医26日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/BzF4Euezio4?si=DjPJLQZEDmAh-2Y9]]||
+|8/27|116|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】116日目🌼今日は3周年イベントだ！！🌼久川たんぽぽ🌼9055メカニック/個人医27日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/dvLWVGEHSiI?si=VbOf6qr8ORgFbG5W]]||
+|8/28|117|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】117日目🌼9055抗争！？🌼久川たんぽぽ🌼9055メカニック/個人医28日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/55oQDhvw5Pc?si=PHPDQ_g4EDytQVgP]]||
+|9/4|118|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】118日目🌼ひさしぶりに起きた！！🌼久川たんぽぽ🌼9055メカニック/個人医29日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/ugD7xwUHuys?si=dR_q40bXwknJ7rJl]]||
+|9/4|119|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】119日目🌼今日は何が起きるかな？🌼久川たんぽぽ🌼9055メカニック/個人医30日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/s8WKJHTLb1s?si=dZy6zBhK-SSnr49C]]||
+|9/7|120|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】120日目🌼今日でこの街に来て1年が経ちました！🌼久川たんぽぽ🌼9055メカニック/個人医31日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/Jc6eglevs9w?si=WANnNMDlUtlSMR0r]]||
+|9/10|121|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】121日目🌼運命の日🌼久川たんぽぽ🌼9055メカニック【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/LkgjXVO9PmU?si=eY_IkT0hUK9LPEWw]]||
+|9/17|122|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】122日目🌼こんな時間に起きてしまった🌼久川たんぽぽ🌼9055メカニック/個人医32日目【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/Q92tVt5Bzew?si=LLRVWYxdM12DQ7Ya]]||
+|9/18|123|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】123日目🌼またこんな時間に起きてしまった🌼久川たんぽぽ🌼9055メカニック【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/U4lObPcpx2E?si=g4F6ZDXznUnLJi2Z]]||
+|9/20|124|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】124日目🌼遅番個人医33日目🌼久川たんぽぽ🌼9055メカニック/お花屋さん【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/cEp3NT29C8w?si=_7S9H1fc8JM5i_zK]]||
+|9/21|125|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】125日目🌼遅番個人医34日目🌼久川たんぽぽ🌼9055メカニック/お花屋さん【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/na4LKRyiuEg?si=S34rGGQ1gVidq4Q5]]||
+|9/21|126|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】126日目🌼久川たんぽぽ🌼終末…全部大切な思い出。みんなと一緒に居たい【めぐ／#めぐすとりーむ】  >>https://www.youtube.com/live/CAOXqxqsVhs?si=7WGR3A5Jt1to-7SH]]||
+
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#div(width=150px,bgcolor=#F9C1CF){&color(#FFFF5E){【&bold(){Season2}】}}
+***2026年
+#region(開く,open)
+#table_style(head=center:#FFFF5E){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|7/19|127|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラSeason2】久川たんぽぽ、転送…？ Day1【めぐ／#めぐすとりーむ】 >>https://www.youtube.com/live/icOB606Mcv4?si=gy3FBYN1N7nJfMkL]]||
+|7/24|128|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラSeason2】転送されたら世界が変わってた Day2【久川たんぽぽ／#めぐすとりーむ】 >>https://www.youtube.com/live/sIWFm7JgEHs?si=Cf0-dfZsehTgRKzT]]||
+|7/30|129|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラSeason2】転送されたら世界が変わってた Day3【久川たんぽぽ／#めぐすとりーむ】 >>https://www.youtube.com/live/BaPTvWl_WjU?si=oDEpK9CwOkG3YtAk]]||
+
+
+
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+*&color(#FFFF5E){ストグラ外コラボ} &color(#F9C1CF){&icon_fa(fa fa-gamepad fa-beat)}
+***2024年
+#region(開く,open)
+#table_style(head=center:#FFFF5E){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/2|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ外コラボ配信】八王子めぐちゃんこと夜巡ハナちゃんとお歌コラボ配信！【歌枠／#めぐすとりーむ】>>https://www.youtube.com/watch?v=C-64RfHbujQ]]||
+|12/18|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ外コラボ】警察のアイドルるんるんさんこと森野めるんちゃんと初お歌配信！【歌枠／#めぐすとりーむ】>>https://www.youtube.com/watch?v=PREYGM3e4gQ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***2025年
+#region(開く,open)
+#table_style(head=center:#FFFF5E){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|3/10|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラオフコラボ】お花屋さんColorFloraメンバーで人生初モンハン！【モンスターハンターワイルズ】>>https://www.youtube.com/live/Unq3NSleSIE?si=qzjrQ3jb7pJjCjM1]]||
+|5/5|4|&font(#6441A4){&icon_fa(fa fa-twitch)}  [[ 9055メンバーでカスタムバロラント➜2次会Golf It！>>https://www.twitch.tv/videos/2450970588?tt_content=vod&tt_medium=mobile_web_share ]]||
+|5/12|5|&font(#6441A4){&icon_fa(fa fa-twitch)}  [[ 9055メンバーでAmong Us 3D➜ガーティックフォン➜ファーストペンギン>>https://www.twitch.tv/videos/2456835234?tt_content=vod&tt_medium=mobile_web_share ]]||
+|5/19|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ/オフコラボ】9055メンバーで3DAmong Us【トーマスP/しえる/パンくん/Shiron/水無月ひいろ/yue/まいたけ/ばなな/ニケ/#めぐすとりーむ】>>https://www.youtube.com/live/UHkx_dbDp7s?si=LVqan80h8nuxOLSN]]||
+|5/31|7|&font(#6441A4){&icon_fa(fa fa-twitch)}  [[ 【#ストグラ/オフコラボ】ストグラメンバーで3DAmong Us【アベレージ/森野めるん/ノビー/紫闇ヘル/島ゴリ/乙奈りの/ぱちしゅう/kame/めぐ/#めぐすとりーむ】>>https://www.twitch.tv/videos/2473303856?tt_content=vod&tt_medium=mobile_web_share]]||
+|8/19|8|&font(#6441A4){&icon_fa(fa fa-twitch)}  [[ #ストグラコラボ 9055と＋仲良しでデスノート人狼！【めぐ/しえる/ぱんくん/shiron/こっさり/たいたい/羽流ぴょこ/白帝りいた/谷藤博美】>>https://www.twitch.tv/videos/2544199466?tt_content=vod&&tt_medium=mobile_web_share]]||
+|12/14|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}  [[ 【VALORANT】初めての9055フルパでやるよー！！！【めぐ/しんのすけ/ろっくちゃん/しえる/kaki/kossari/羽流ぴょこ/ぱんくん/うめJam/パーフェクト•ボンバー】>>https://www.youtube.com/live/9vYI2WuZI1k?si=1ltOG35UgfAxo16T]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***2026年
+#region(開く,open)
+#table_style(head=center:#FFFF5E){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|1/13|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【3D Among Us】9055メンバーでひさびさに遊ぶよー！！【めぐ視点/#ストグラ】>>https://www.youtube.com/live/M50pjc2QFKI?si=n56nsyprPHy72HtS]]||
+|7/13|11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【大切なお知らせあり！】元9055メンバーでめっちゃカメレオン！【#めぐすとりーむ/#ストグラ/久川たんぽぽ】>>https://www.youtube.com/live/ob6E-EIs648?si=Yz88pXL9KuvRe0N4]]||
+
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion

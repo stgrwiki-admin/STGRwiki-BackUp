@@ -1,0 +1,71 @@
+#slide_img(auto=4,position=left,width=350,height=350){IMG_6986.jpeg,赤色にごう【ペールノエル】.png,ちのまるこ.jpg,IMG_6947.jpeg}
+
+//-----------------------------------------------------------
+
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#F00:#FFF)
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&bold(){赤色}　&bold(){にごう}|
+|~偽名|~&icon_fa(fa fa-user-secret)|>|ちの　まるこ|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本 (大阪)|
+|~血液型|~&icon_fa(fa-solid fa-droplet)|>|O型|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|&co(2000年02月01日)2000年02月01日 (&countup(2000/02/01,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年8月7日 (&countup(2023/8/7,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|&openclose2(show=💎) {闇メカニック（[[Glare Gem]]）}&br() ギャング【[[NO LIMIT]]】executive underboss&small(){2025/3/27～}&br()&openclose2(show=過去の職業▼){&br()メカニック（[[Project Y]]）&br()半グレ集団（[[ギャングシティ]]）&br()レコードショップ（[[麻SICK RECORDS]]）}|イタリアンレストラン【[[acqua ovest]]】&small(){(2026/01/11～)}|
+|~恋人|~&icon_fa(fas fa-heart)||[[ライジングサン　宗介]]&small(){（2026/07/10～）（&countup(2026/07/10,yd)経過）}|
+|~TwiX|~&icon_fa(fa fa-crow)|@250||
+|~プレイヤー|~&icon_fa(fa fa-address-card-o)|>|&font(b,#007BBB){にごんご}|
+|~告知等|~&icon_fa(fa fa-bullhorn)|>|&icon_fa(fa fa-brands fa-x-twitter)  [[X(Twitter)>>https://twitter.com/nigongo25]]|
+|~配信場所|~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/nigongo25?sr=a]]|
+|~動画投稿|~&icon_fa(fa fa-video-camera)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@HappyNigongo]]|
+//-----------------------------------------------------------
+
+&aname(目次1,option=nolink){}
+#region(目次,open)
+目次
+#contents(level=2)
+#endregion//目次
+//-----------------------------------------------------------
+*&font(25px,#F00){基}本情報 &icon_fa(fa fa-id-card-o)
+#div(width=330px,bgcolor=#FFDBDA){&font(b,16px,#F00){&space()&icon_fa(fa fa-file-text-o)&space()プロフィール}}
+&font(20px,#F00){●&space()}人生が全然うまくいかず仕事も辞める事になりロスサントスに来た一般女性。
+&font(20px,#F00){●&space()}仕事をやめて無敵の人になったときに、銃が扱える世界に転生していた時期がある。
+&font(20px,#F00)
+//-----------------------------------------------------------
+#div(width=330px,bgcolor=#FFDBDA){&font(b,16px,#F00){&space()&icon_fa(fa fa-search)&space()性格・特徴}}
+&font(20px,#F00){●&space()}赤色が大好きな関西人。
+&font(20px,#F00){●&space()}寂しがりやのコミュ障。気を遣いすぎて空回りするタイプ。重度の方向音痴でよく迷子になっている。
+&font(20px,#F00){●&space()}嘘が下手であまり悪いことするのに向いてないけど、銃を扱うのが大好きなのでギャングに憧れている。真面目な努力家で、悪いことを日々勉強・特訓中！いつも気を遣っている反動か、たまにとても大胆になる。
+&font(20px,#F00){●&space()}本名ではなく「ちのまるこ」としての行動が増えており、その間に接した人物は「ちのまるこ」として認識している事が多い。
+//-----------------------------------------------------------
+#div(width=330px,bgcolor=#FFDBDA){&font(b,16px,#F00){&space()&icon_fa(fa fa-user-secret)&space()犯罪者として}}
+&font(20px,#F00){●&space()}多くの住民は「赤色にごう」の名すら知らない。
+&font(20px,#F00){●&space()}偽名である「ちのまるこ」は白市民であると認識されたまま半グレとして活動をしている事からも、世渡りや生活上の立ち回りも非常に優れている事がわかる。
+&font(20px,#F00){●&space()}半グレチーム[[ギャングシティ]]に所属、解散までを過ごす。
+&font(20px,#F00){●&space()}[[Project Y]]に入社。メカニックとして過ごし白市民パスを取得するまで犯罪行為を自粛していたが現在では解禁。
+&font(20px,#F00){●&space()}[[NO LIMIT]]への加入を希望しており、[[ハク　ナツメ]]から新興ギャングに勧誘された際には悩んだ末に断った。
+&font(20px,#F00){●&space()}ようやく[[四皇　シャンクズ]]へと加入希望の意志を伝えたが採用には至らなかった。
+&font(20px,#F00){●&space()}「欲しい人材ではあるが、色々な兼ね合いもあり今採用とする決断は難しく3ヶ月～半年後になる可能性もある為、この話は無いものと考えていただいて構わない。時が来ればお声がけするかもしれませんが…」と現時点では不採用との返答を貰う。
+&font(20px,#F00){●&space()}奇しくも30分後[[Project Y]]の解散が発表され、[[NO LIMIT]]加入希望のきっかけともなった居場所を失う。
+&font(20px,#F00){●&space()}まだしばらく半グレとして日々を過ごす事となる。
+&font(20px,#F00){●&space()}[[タラ　ちゃん]]達と数回一緒に面白犯罪をしたことをきっかけに、タラちゃんがギャングを設立するにあたり絶対欲しい人材と言われる。入りたいギャングがあり、現在はまだ未練があるから吹っ切れたら考えると告げる。
+&font(20px,#F00){●&space()}[[四皇　シャンクズ]]より、断られても加入を思い続けていたことを評され、志望理由的には不採用だがNO LIMITに体験することになった。
+&font(20px,#F00){●&space()}12日間に及ぶ体験の結果、仮採用スタート。
+&font(20px,#F00){●&space()}約1ヶ月の仮採用期間後、晴れて本採用になった。
+&font(20px,#F00){●&space()}現在はギャング[[NO LIMIT]]の構成員として働く。
+&font(20px,#F00){●&space()}2025年2月27日に[[四皇　シャンクズ]]の家出時に、役職を付与され晴れてギャングボスになった。
+//-----------------------------------------------------------
+*&font(25px,#F00){エ}ピソード &icon_fa(fa fa-calendar-o)
+編集ページは[[こちら>赤色　にごう/エピソード]]
+#include(赤色　にごう/エピソード)
+//-----------------------------------------------------------
+*&font(25px,#F00){ア}－カイブ &icon_fa(fa fa-twitch)
+編集ページは[[こちら>赤色　にごう/アーカイブ]]
+#include(赤色　にごう/アーカイブ)
+//-----------------------------------------------------------
+*&font(25px,#F00){関}連
+#region(ストグラ1周年🍾住人テキストインタビュー)&bold(){ストグラ1周年🍾住人テキストインタビュー}
+▶ [[赤色にごう(ストグラ公式X)>>https://twitter.com/STGR_RolePlay/status/1696338743026913596]]
+#endregion
+
+#right(){&link_aname(目次1){△目次へ}}

@@ -1,0 +1,324 @@
+&aname(ページトップ)
+//&image(ここに画像のURLを入力,y=300)
+//❗️不要な行は削除して使用してください
+//
+//#slide_img(auto=4,width=370,height=208,position=center){画像,画像}
+//
+#co{
+&b(){◆編集者様へ} &u(){店舗名が判明次第、ページ名を変更予定です。}
+
+以下URLリンクの使用をお願い致します。
+ [[魔法学校カフェ（仮）>https://w.atwiki.jp/streamergta5/pages/3708.html]]
+}
+//
+#table_style(head=#e0daec,hover=#f7f5fa:bold){}
+|~店名|~&icon_fa(fa fa-fort-awesome)|&ruby(まほうがっこう){魔法学校}グリントアカデミー&co(){&ruby(てんめい){店名}}|
+|~job名|~&icon_fa(fa fa-user-tag)|　|
+|~業種|~&icon_fa(fa fa-hat-wizard)|飲食店：コンセプトカフェ|
+|~開業日|~&icon_fa(fa fa-paw)|yyyy年mm月dd日&space()&small(){（&countup(yyyy/mm/dd,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-broom)|6027番地|
+|~TwiX|~&icon_fa(fa fa-feather)|@magicschool|
+|~オーナー|~&icon_fa(fa fa-black-tie)|&bold(){[[ノビー　ラング]]}|
+//|~店長|~&icon_fa(fa-solid fa-user-tie)|&co(){&bold(){[[名前]]}}|
+//|~副店長|~&space()&icon_fa(fa-solid fa-user)&space()|&co(){&bold(){[[名前]]}}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**&font(25,#927eba){&font(35,#5a4498){基}本情報 &icon_fa(fa fa-wand-sparkles)}
+-[[ToY]]・[[魔法少女カフェ>>RitUal:]]・[[犬カフェ>>Re:One's]]の元従業員が集まり、合同で経営（予定）する魔法学校をコンセプトにした飲食店。
+-店舗を立ち上げた7名は[[救急隊>>ロスサントス救急救命隊]]に所属している。
+-建築は建築士の[[閃光寺　亜夢]]が担当。&br()&font(11px,#bbb){関連動画：&font(10px){[[&color(#bbb){打ち合わせ}>>https://youtu.be/QEu4DZBTvlA]] / [[&color(#bbb){建築の様子①}>>https://youtu.be/8nu_hAgbN6g]] / [[&color(#bbb){②}>>https://youtu.be/mtlu9V9OioM]] / [[&color(#bbb){お披露目}>>https://youtu.be/H9Lv5EcmdE8]]}}
+-[[Dr．ギガ]]が店内BGMを制作。
+
+&font(b,16px,#927eba){&icon_fa(fa fa-envelope)}&space()&font(b,16px,#444){クラウドファンディング}
+-2026年6月18日 開店資金調達のためオープン魔法「クラウドファンディング」を詠唱。
+#center{&blankimg(MagicSchool_クラウドファンディング.jpeg,x=370,y=210)}
+***支援者一覧　&font(red,11px){追記･編集 歓迎です}
+#region(開く)
+#size(90%){#table_style(head=#e0daec){金額=right,支援者=bold}
+|~金額|~支援者|~返礼品|
+|3,000万円|[[メチャ南　よる]]|オリジナル使い魔ぬいぐるみ 指名権&small(){（限定3名）}&br()各寮の使い魔たちの衣装デザインを指定できる&br()&small(){現物プレゼント＋秘密の部屋ご招待＋プレオープンご招待セット}|
+|1,000万円|[[ライジングサン　宗介]]|ToYで販売していたお弁当シリーズ指定券&small(){（限定3名）}|
+|~|[[花沢　まるん]]|~|
+|500万円|[[ラグランジュ　光芝]]|秘密の部屋ご招待&small(){（限定10名）}|
+|~|[[スコティッシュ・ホールド]]|~|
+|~|[[天羽　よつは]]|~|
+|~|[[銭形　やいち郎]]|~|
+|300万円|[[銭形　やいち郎]]|復刻商品優先指名権&small(){（限定5名）}|
+|100万円|[[畳　かえる]]|プレオープンご招待|
+|~|[[福田　明宏]]|~|
+|~|[[天羽　よつは]]|~|
+|~|[[神崎　治]]|~|
+|~|[[銭形　やいち郎]]|~|
+|~|[[柚麦　とと]]|~|
+}
+#endregion
+
+***&color(#927eba){&icon_fa(fa fa-paw)} 寮の特徴と組み分け方式
+#table_style(head=#e0daec){名前=bold}
+|~名前|~イメージカラー|~使い魔|~詳細|h
+|MIDDLE:名前|　|　||
+|MIDDLE:名前|　|　||
+|MIDDLE:名前|　|　||
+|MIDDLE:名前|　|　||
+#table_sorter{even=#fcfcfd,odd=#FFFFFF}
+
+**&font(25,#927eba){&font(35,#5a4498){従}業員情報 &icon_fa(fa fa-hat-wizard)}
+***従業員
+#region(開く,open)
+#table_filter(){就職日=show,兼業=hide,備考=hide}
+#table_style(head=#e0daec){名前=bold}
+|~役職|~名前|~就職日|~兼業|~備考|h
+|オーナー／Manager(4)|[[ノビー　ラング]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|魔法少女カフェ[[RitUal:]]の元店長|
+|従業員／Advanced(3)|[[葛城　司]]|2026/08/02|[[救急隊>>ロスサントス救急救命隊]]&br()裁判官|魔法少女カフェ[[RitUal:]]の元従業員（人事担当）|
+|従業員／Advanced(3)|[[はが　かける]]|2026/09/09|[[救急隊>>ロスサントス救急救命隊]]|魔法少女カフェ[[RitUal:]]の元従業員|
+|従業員／Advanced(3)|[[加賀　イズミ]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|犬カフェ[[かしりん]]、[[ToY]]の元従業員／[[Re:One's]]の元店長&br()ToY・犬カフェで商品制作を行っていた|
+|従業員／Advanced(3)|[[鳥野　ぎん]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|[[ToY]]の元オーナー|
+|従業員／Advanced(3)|[[ももみ]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]&br()[[不動産>>Wizardry Works]]|[[ToY]]の元従業員|
+|従業員／Advanced(3)|[[箱根　しおん]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|[[ToY]]の元従業員|
+
+//|役職|[[名前]]|yyyy/mm/dd|　|
+#table_sorter{even=#fcfcfd,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+#endregion
+
+#co{
+//***職業体験者
+#table_style(head=#e0daec)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#fcfcfd,odd=#FFFFFF}
+}
+#co{
+//***退職者
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+**&font(25,#927eba){&font(35,#5a4498){商}品情報 &icon_fa(fa fa-book-tanakh fa-flip-horizontal)}
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***レギュラー商品一覧
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　レギュラー商品一覧
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#region(開く,open)
+&small(){&icon_fa(fa-solid fa-utensils)&space()= Food / &icon_fa(fa-solid fa-coffee)&space()= Drink / &icon_fa(fa-solid fa-martini-glass)&space()= Alcohol / &icon_fa(fa-solid fa-wand-magic-sparkles)&space()= Relax / &icon_fa(fa-solid fa-ribbon)&space()= Otners / &icon_fa(fa-solid fa-award)&space()= Special / &icon_fa(fa-solid fa-gift)&space()= Random}
+#table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=hide,備考=hide}
+#table_style(head=#e0daec){種類=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
+|MIDDLE:&icon_fa(fa-solid fa-utensils)|商品名|価格|yyyy/mm/dd|説明|備考|
+|MIDDLE:&icon_fa(fa-solid fa-coffee)|商品名|価格|yyyy/mm/dd|説明|備考|
+|MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|商品名|価格|yyyy/mm/dd|説明|備考|
+
+//|種類|商品名|価格|yyyy/mm/dd|説明|備考|
+#table_sorter{even=#fcfcfd,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//
+#co{コピー用
+|MIDDLE:種類|商品名|価格|yyyy/mm/dd|説明|備考|
+|MIDDLE:種類|商品名|価格|yyyy/mm/dd|説明|備考|
+|MIDDLE:種類|商品名|価格|yyyy/mm/dd|説明|備考|
+
+🍴&icon_fa(fa-solid fa-utensils)
+☕&icon_fa(fa-solid fa-coffee)
+🥂&icon_fa(fa-solid fa-martini-glass)
+🍃&icon_fa(fa-solid fa-wand-magic-sparkles)
+その他 犬カフェのポーチなど
+&icon_fa(fa-solid fa-ribbon)
+スペシャル 高額商品・VIP向けなど
+&icon_fa(fa-solid fa-award)
+ガチャ 常設商品
+&icon_fa(fa-solid fa-gift)
+}
+#endregion
+
+***イベント・期間限定販売
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　イベント・期間限定販売
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#region(開く,close)
+&small(){&icon_fa(fa-solid fa-utensils)&space()= Food / &icon_fa(fa-solid fa-coffee)&space()= Drink / &icon_fa(fa-solid fa-martini-glass)&space()= Alcohol / &icon_fa(fa-solid fa-wand-magic-sparkles)&space()= Relax / &icon_fa(fa-solid fa-ribbon)&space()= Otners / &icon_fa(fa-solid fa-award)&space()= Special / &icon_fa(fa-solid fa-gift)&space()= Random}
+#table_filter(){種類=show,価格=show,販売期間=show,商品説明=hide,備考=hide}
+#table_style(head=#e0daec){種類=center,価格=right}
+|~種類|~商品名|~価格|~販売期間|~商品説明|~備考|h
+|MIDDLE:&icon_fa(fa-solid fa-utensils)|ヨチュピファイ|10,000|2026/09/09|山椒で痺れないようにね(^_-)-☆|きゅうきゅう（9月9日）の日 イベント用|
+|MIDDLE:&icon_fa(fa-solid fa-coffee)|ウィンガーディアムレヴァオサーム|10,000|2026/09/09|いい？「レヴァオサーム」よ。あなたのは「レヴァオサー」|きゅうきゅう（9月9日）の日 イベント用|
+|MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|トキメキバルーン【赤】|0|2026/09/09| |きゅうきゅう（9月9日）の日 イベント用|
+|MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|トキメキバルーン【青】|0|2026/09/09| |きゅうきゅう（9月9日）の日 イベント用|
+|MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|トキメキバルーン【黄】|0|2026/09/09| |きゅうきゅう（9月9日）の日 イベント用|
+//|種類|商品名|価格|yyyy/mm/dd|説明|備考|
+#table_sorter{even=#fcfcfd,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+#co{【限定商品】コピー用
+|種類|商品名|価格|yyyy/mm/dd|説明|備考|
+|種類|商品名|価格|yyyy/mm/dd|説明|備考|
+|種類|商品名|価格|yyyy/mm/dd|説明|備考|
+
+🍴&icon_fa(fa-solid fa-utensils)
+☕&icon_fa(fa-solid fa-coffee)
+🥂&icon_fa(fa-solid fa-martini-glass)
+🍃&icon_fa(fa-solid fa-wand-magic-sparkles)
+その他 犬カフェのポーチなど
+&icon_fa(fa-solid fa-ribbon)
+スペシャル 高額商品・VIP向けなど
+&icon_fa(fa-solid fa-award)
+ガチャ 期間限定
+&icon_fa(fa-solid fa-gift)
+}
+#endregion
+
+#hr(height=2,color=#927eba)
+***メニュー表
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　メニュー表
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#region(開く,open)
+
+#co{
+#region(yyyy/mm/dd 画像名,open)&b(){yyyy/mm/dd 画像名}
+//&blankimg(ここに画像のURLを入力,y=400)
+#endregion
+}
+//
+#endregion(メニュー表)
+
+***商品画像
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　商品画像
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#region(開く,open)
+
+#co{
+#region(yyyy/mm/dd 画像名,open)&b(){yyyy/mm/dd 画像名}
+//&blankimg(ここに画像のURLを入力,y=400)
+#endregion
+}
+//
+#endregion(商品画像)
+
+***限定商品画像
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　限定商品画像（季節・イベント）
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#region(開く,open)
+
+#co{
+#region(yyyy/mm/dd 画像名,open)&b(){yyyy/mm/dd 画像名}
+//&blankimg(ここに画像のURLを入力,y=400)
+#endregion
+}
+//
+#endregion(限定商品画像)
+
+***チラシ・告知画像
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　チラシ・告知画像
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#region(開く,open)
+
+#co{
+#region(yyyy/mm/dd 画像名,open)&b(){yyyy/mm/dd 画像名}
+//&blankimg(ここに画像のURLを入力,y=400)
+#endregion
+}
+//
+#endregion(チラシ・告知画像)
+
+#hr(height=2,color=#927eba)
+【　追記･編集 歓迎です。 】
+#right{&font(#927eba){&icon_fa(fa-solid fa-circle-up)&link_anchor(ページトップ){ページTOPへ}}}
+//
+//
+**&font(25,#927eba){&font(35,#5a4498){イ}ベント情報 &icon_fa(fa fa-broom-ball)}
+***一覧
+//主体で動いているイベント
+#region(開く,open)
+#table_filter(){開催場所=hide,チケット価格=hide,出演者/関係者=hide,イベント内容=show,備考=hide,切り抜き動画=hide}
+#table_style(head=#e0daec){イベント名=bold,チケット価格=right}
+|~日付|~イベント名|~開催場所|~チケット価格|~出演者/関係者|~イベント内容|~備考|~切り抜き動画|h
+//|日付|イベント名|xxxx番地|価格|出演者/関係者|イベント内容|　|　|
+//|日付|イベント名|xxxx番地|価格|出演者/関係者|イベント内容|　|　|
+#table_sorter{even=#fcfcfd,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//
+#co{コピー用
+
+//|日付|イベント名|xxxx番地|価格|出演者/関係者|イベント内容|　|　|
+
+【切り抜き動画は従業員視点のみ】
+&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[投稿者名>>リンク]]
+}
+#endregion
+
+***イベント告知画像
+#region(開く,open)
+
+#co{
+#region(yyyy/mm/dd 画像名,open)&b(){yyyy/mm/dd 画像名}
+//&blankimg(ここに画像のURLを入力,y=400)
+#endregion
+}
+//
+#endregion(イベント告知画像)
+
+#hr(height=2,color=#927eba)
+【　追記･編集 歓迎です。 】
+#right{&font(#927eba){&icon_fa(fa-solid fa-circle-up)&link_anchor(ページトップ){ページTOPへ}}}
+//
+//
+**&font(25,#927eba){&font(35,#5a4498){沿}革 &icon_fa(fa fa-feather-pointed)}
+***2026年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#e0daec)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|06/05|店舗物件の申請|[[ももみ]]、[[葛城　司]]、[[ノビー　ラング]]&br()[[橘　かげまる]]、[[閃光寺　亜夢]]|[[不動産>>Wizardry Works]]・建築士と店舗予定地で打ち合わせを行った|
+|06/18|クラウドファンディング||オープン魔法「クラウドファンディング」を詠唱|
+|07/02|開業申請準備|[[ノビー　ラング]]、[[葛城　司]]、[[天羽　よつは]]|市役所にて開業申請用の資料を受け取る|
+|07/17|店舗物件購入|[[橘　かげまる]]、[[ノビー　ラング]]、[[葛城　司]]、[[ももみ]]、[[鳥野　ぎん]]||
+|07/26|開業申請書類の提出|[[葛城　司]]、[[天羽　よつは]]|市と市役所職員の天羽よつはに開業申請の書類を提出|
+|08/05|オーナー権限付与|[[ノビー　ラング]]、[[葛城　司]]、[[加賀　イズミ]]、[[ももみ]]、[[鳥野　ぎん]]、[[箱根　しおん]]|従業員へjobの付与を行った|
+|09/09|イベント出店||[[救急隊>>ロスサントス救急救命隊]]主催「きゅうきゅうの日」イベントにて飲食出店|
+
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#fcfcfd,odd=#FFFFFF}
+#endregion
+#hr(height=2,color=#927eba)
+【　追記･編集 歓迎です。 】
+#right{&font(#927eba){&icon_fa(fa-solid fa-circle-up)&link_anchor(ページトップ){ページTOPへ}}}
+
+**&font(25,#927eba){&font(35,#5a4498){関}連動画 &icon_fa(fa fa-video)}
+#region(開く)
+//
+//店員・スタッフのみ　横に4つずつ繋げます
+//
+|&video(https://youtu.be/sOeIhA20ets){208,117}|
+
+#endregion
+
+#right{&font(#927eba){&icon_fa(fa-solid fa-circle-up)&link_anchor(ページトップ){ページTOPへ}}}

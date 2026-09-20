@@ -1,0 +1,99 @@
+&image(わんも〜GAS_STATION_ロゴ.png,Y=300)
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#FFE682:#5D2C03)
+|~店名|~&icon_fa(fa fa-store)|&ruby(わんも〜がすすてーしょん){わんも〜GAS STATION}|
+|~業種|~&icon_fa(fas fa-gas-pump)|ガソリンスタンド経営|
+|~オープン日|~&icon_fa(fa fa-flag)|2026年08月06日&space()&small(){（&countup(2026/08/06,yd)経過）}&br()&small(){※2026年07月29日にプレオープン}|
+|~所在地|~&icon_fa(fa fa-map-marker)|9139番地|
+|~オーナー|~&icon_fa(fa fa-user-secret)|&bold(){[[牧田　ここな]]}|
+|~関連事業|~&icon_fa(fa fa-link)|[[わんも〜Cafe]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-情報を記述
+
+**従業員情報
+***従業員
+#table_filter(){No.=show,役職=show,権限=hide,名前=show,就職日=show,備考=hide}
+#table_style(head=#FFE682:#5D2C03)
+|~役職|~権限|~名前|~雇用日|~備考|h
+|オーナー|オーナー|[[牧田　ここな]]|2026/07/29|[[わんも〜Cafe]]の店長|
+|従業員|フルアクセス|[[叢雲　るい]]|2026/07/29|[[わんも〜Cafe]]の従業員|
+|従業員|上級アクセス|[[パン　チャン]]|2026/08/06||
+|従業員|上級アクセス|[[伊藤　ぽて]]|2026/08/08|[[わんも〜Cafe]]の従業員|
+|従業員|上級アクセス|[[琵琶山　法師]]|2026/08/12|[[わんも〜Cafe]]の元体験|
+|従業員|上級アクセス|[[ブラック　ジャックス]]|2026/08/15||
+|従業員|上級アクセス|[[街雄　サンリ]]|2026/08/26||
+|従業員|上級アクセス|[[ツクヨミ　レオ]]|2026/08/28|[[わんも〜Cafe]]の従業員|
+//|役職||[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#co{
+//***退職者
+#table_style(head=#FFE682:#5D2C03)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+**ガソリンの種類と価格
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=show,補足=hide}
+#table_style(head=#FFE682:#5D2C03){No.=center,価格=right}
+|~種類|~価格|~提供開始日|~補足|h
+|レギュラー|557円|2026/07/29||
+|プラス|667円|2026/07/29||
+|プレミアム|777円|2026/07/29||
+|ディーゼル|887円|2026/07/29||
+|普通充電|350円|2026/07/29||
+//|種類|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+※価格は燃料1リットルあたり、または電気1kWhあたりの金額。
+#endregion
+
+#co(){
+***限定商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+
+***お知らせ画像
+#region(2026/08/06 正式オープン告知,open)2026/08/06 正式オープン告知
+//&image(ここに画像のURLを入力,y=400)
+&image(わんも〜GAS_STATION_オープン告知_20260806.png,Y=400)
+#endregion
+
+
+**沿革
+***2026年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=hide}
+#table_style(head=#FFE682:#5D2C03)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|2026/07/22|オークションで落札|[[叢雲　るい]]|わんも〜Cafeとしてガソリンスタンドを経営するため、オークションに参加。&br()牧田ここな不在のため、叢雲るいが代理で出席。&br()9139番地のガソリンスタンドを7000万円で落札する。（実際の販売価格は1億円）|
+|2026/07/29|オーナー権限をもらう、プレオープン|[[牧田　ここな]]、[[叢雲　るい]]|市役所職員の[[天羽　よつは]]からオーナー権をもらい、「わんも〜GAS STATION」としてプレオーンする。|
+|2026/08/06|ロゴ完成、正式オープン|[[牧田　ここな]]|ガソリンスタンドのロゴが完成し、正式にオープンする。|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

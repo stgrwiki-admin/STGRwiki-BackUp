@@ -1,0 +1,588 @@
+//STGR公式Xアカウントのリポストのないキャラクター
+**プロフィール
+|&image(lazy.png,y=350)|&image(レイジールードマン_ネイル.jpg,y=350)|
+
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#E6E6FA:#666666){}
+|~シーズン|~&icon_fa(fa fa-calendar)|BGCOLOR(#4682B4):CENTER:&color(#ffffff){&bold(){Season1}}|BGCOLOR(#4682B4):CENTER:&color(#ffffff){&bold(){Season2}}|h
+|~名前|~&icon_fa(fa fa-user)|>|レイジー　ルードマン|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|-|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|- &co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年07月30日 (&countup(2024/07/30,yd)経過)|2025年12月25日 (&countup(2025/12/25,yd)経過)|
+|~電話番号|~&icon_fa(fa-solid fa-phone-volume)|(520)612-9261|-|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|-&br()&small(){&openclose2(show=▼Season1の体験){&br()メカニック【[[9055]]】 '25/08/28&br()メカニック【[[A2 Lab]]】 '25/09/03&br()メカニック【[[BMC>>Bear Moon Custom]]】 '25/09/09}&br()※情報募集中}|メカニック【[[JTS>>ジョアンナテクノサービス]]】社員 &small(){'25/12/25~}&br()酒場【[[Club Passiona]]】&small(){店員'26/5/9~}|
+|~所属|~&icon_fa(fa fa-users)|-|サークル【[[ウクレレ部]]】&small(){'26/3/25~}&br()アカペラグループ【ストペラ】&small(){'26/6/18~}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@lazyrudeman|-|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|>|遠田翔平|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|>|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>>https://x.com/ShowheyTohda]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|>|&font((#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/showheytohda]]|
+|BGCOLOR(#eee):~アーカイブ|BGCOLOR(#eee):~&icon_fa(fa-solid fa-film)|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@ShowheyTohda]]|
+|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):&icon_fa(fa fa-user-plus)|&small(){&openclose2(show=※ネタバレ注意){&br()[[宴　ボストン]]}}|-|
+//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ガイドライン>>ここにガイドラインのURLを入力]]|
+//
+#co{コピー用🔽以下必要な場合にご利用下さい
+
+【Instagram】&font(#CF2E92){&icon_fa(fa-brands fa-instagram)} [[&font(#DC2E74){Instagram}>>ここにアカウントのURLを入力]]
+
+ 【ツイキャス】[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting(チャンネル名)}>>ここにチャンネルのURLを入力]]
+【TikTok】&font(#000){&icon_fa(fa-brands fa-tiktok)}[[&font(#000){TikTok(チャンネル名)}>>ここにチャンネルのURLを入力]]
+【キック】[[&font(#008000){&icon_fa(fa fa-external-link)Kick(チャンネル名)}>>ここにチャンネルのURLを入力]]
+
+}
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**&font(20){基本情報 &icon_fa(fa fa-file-text-o)}
+-街に来た目的は出稼ぎ
+-街同期は同日入国で[[谷藤　ろみみ]]
+-つっこみ役になることが多い
+//同期について、基本情報はキャラ本人が覚えていなくてもよいという判断で記載しています。
+
+****&font(#000080){&italic(){"SEASON2"}} &icon_fa(fa fa-file-text-o)
+-JTSに仮採用のまま、転送されてしまいやっと新しい街でJTSの採用が決まる
+-ヨシャパテからの熱烈な勧誘により、[[Club Passiona]]に就職
+--併せて[[Pガールズ]]のマネージャーにも採用
+-アカペラグループ「ストペラ」を[[ラグランジュ　光芝]]と[[ボクジュール　すずり]]と発足
+-夏フェスにて主催の他、浪速漢Dの上新ジョー代役をすることに
+(あまりにも変装が警察の伊勢えびすに似ていたため一部がざわついた)
+
+#region(とある日のやらかし)
+ろぎあさんに占いをしてもらうためバーテックスへ向かうと、
+ろぎあさんはギャングらしき人たち(餡ブレラ)の対応をしているところだった。
+
+ろぎあ「占いのお客さんがきたので、次で最後になります」
+？「勝ち逃げするのかよ」
+
+
+レイジー「タチ悪ぃな」
+
+つぶやいた一言がその日の運命を変えた
+
+
+to be continue(加筆予定)
+
+#endregion
+
+-情報募集中
+
+**イベント出演
+&font(15,#000080){&bold(){JTS}}
+#table_style(head=#000080:#FFF)
+|~日付|~イベント名|~内容|~備考・エピソード|
+|26/02/25|Not lost time|JTSダンスヒーローショー|ヨシャパテ主催|
+|26/08/09|夏フェス2026|"あなたはファンタジスタ"バックダンサー|主催兼務|
+
+#table_autoincrement(){}
+#table_sorter{even=#f7f7f7,odd=fff}
+
+&icon_fa(fa fa-music)&font(15,#000080){&bold(){ストペラ}}&icon_fa(fa fa-music)
+#table_style(head=#000080:#FFF)
+|~日付|~イベント名|~楽曲|~備考・エピソード|
+|26/07/30|たいがの収穫祭(夏)|Tonight～月の下眠る君～|カバー曲|
+|26/08/09|夏フェス2026|流星|ストペラオリジナル曲|
+
+#table_autoincrement(){}
+#table_sorter{even=#f7f7f7,odd=fff}
+
+&color(#F54738){※twix及びトレンディにてカバー曲"二人の距離”公開中}
+[[♪ストペラ"二人の距離"ショート&color(#F54738){&icon_fa(fa fa-youtube-play)}>>https://youtube.com/shorts/WHEHPVe_mu8?si=PPnjso4ohYj0K8JH]]
+
+
+
+**&font(18,#191970){エピソー&font(23,#6495ed){ド&icon_fa(fa fa-scroll)}}
+***2024年
+#region(7月)&bold(){7月}
+****7/30 １日目（アーカイブ無し）
+#region(開く)
+-[[ジョーカー>>半沢　直ふぃ]]さんと話す。
+--移動の足としてジョーカーさんからバイクを譲ってもらう。&co(){※Xからの情報のためタイミング不明}
+-[[隣　紀子]]さんに免許講習を依頼。
+-免許講習中にカジノで[[谷藤　ろみみ]]さんに出会う。
+#endregion
+追加エピソード募集中
+#endregion('24/7月)
+//
+//
+***2025年
+#region(8月)&bold(){8月}
+****8/28 [[【8/28 #ストグラ】レイジー・ルードマン【２日目】※後半のみ>>https://www.youtube.com/watch?v=WJqs-IBUq9A]]
+#region(前半[アーカイブ無し])前半を閉じる
+-1年ぶりに街に起きてくる。
+-[[もり　るんるん]]さんに街案内してもらう。
+-[[ミンミンボウ]]へ連れて行ってもらい　[[ヘルアン]]さんと合流し一緒に街案内してもらう。
+-[[JTS>>ジョアンナテクノサービス]]へ連れて行ってもらい　[[豆　やん]]さんと[[ラグランジュ　光芝]]さんと出会う。
+　そこで体験のお話をする。
+-[[BMC>>Bear Moon Custom]]へ連れて行ってもらい[[ゆた　んぽ]]さんと[[葛城　司]]さんに挨拶をする。
+-[[カジノ]]へ連れて行ってもらい[[香月　ろぎあ]]さん　[[メチャ南　よる]]さん　[[山本　寅子]]さんに挨拶をする。
+-TwiXで[[丘猫　まる]]さんにれいじーくれいじーさんと呼びかけられる。
+#endregion(前半)
+#region(後半,open)後半を閉じる
+-道端で[[雪だるま頭の住民>犬　ルリ]]、レギオンで[[なつめ　しろ]]さん、連絡待ち中[[クッキーの覆面の住民>>霜月　ろっぷ]]に遇う。
+-[[須藤バックスコーヒー]]で[[かな市長補佐]]さんに挨拶をする。
+-[[パン　チャン]]さんの案内で[[9055]]体験。
+-サバゲーに参加する。
+#endregion(後半)
+追加エピソード募集中
+----
+****8/29 [[【8/29 #ストグラ】レイジー・ルードマン【３日目】>>https://www.youtube.com/watch?v=_jGTO0gEBok]]
+#region(開く,open)
+-9055で起床。
+--レッカーされたバイクがどこに行ったのか[[沖原　たくみ]]さん(衛星外)に教えてもらう。
+--ラジオ(無線)を返しに再度訪れる。
+-レギオン駐車場の[[たいがのごはん]]で交流。
+-服屋へ行く。
+#endregion
+追加エピソード募集中
+----
+#endregion(8月)
+//
+#region(9月)&bold(){9月}
+****9/3 [[【9/3 #ストグラ】レイジー・ルードマン【４日目】>>https://www.youtube.com/watch?v=SA-srtdGCXk]]
+#region(開く,open)
+-[[SKE>>菖光エンジニア]]で交流。
+-[[A2 Lab]]で交流。
+-[[A2 Lab]]で体験開始。
+-強制瞑想から復帰中に消えない表示が残り、就寝。
+#endregion
+追加エピソード募集中
+----
+****9/6 [[【9/6 #ストグラ】レイジー・ルードマン【５日目】>>https://www.youtube.com/watch?v=_u4CqDjQDuQ]]
+#region(開く,open)
+-[[川上たばこ店]]で交流。
+-[[SKE>>菖光エンジニア]]で交流。
+-[[FOWK]]で交流。
+--バニーマンの恰好を作り大勢で街を周る。
+#endregion
+追加エピソード募集中
+----
+****9/9 [[【9/9 #ストグラ】レイジー・ルードマン【６日目】>>https://www.youtube.com/watch?v=upl8Tp9gIbY]]
+#region(開く,open)
+-[[BMC>>Bear Moon Custom]]で体験開始。（ポリスコスチュームデー）
+--体験終了時にダーク市民の襲撃を少しだけ目にする。
+#endregion
+追加エピソード募集中
+----
+****9/13 [[【9/13 #ストグラ】レイジー・ルードマン【７日目】①前半>>https://www.youtube.com/watch?v=td6yEBw0Y3k]]／[[②後半>>https://www.youtube.com/watch?v=uaOGFdZ4aiU]]
+#region(前半)前半を閉じる
+-ガソリンスタンドで[[黒いお面の住民>>堕夜　だよ]]、[[メチャ南　よる]]さんと交流。
+--[[黒いお面の住民>>堕夜　だよ]]の軽く撃った弾が給油機に当たりバイクが爆散、示談金を貰う。
+-よるさんの付き添いで[[9055]]に修理へ向かう。(対応者：[[須藤　冬馬]]、[[猫ノ宮　ひな]])
+--9055魔法石ガチャに挑戦する。
+--[[パン　チャン]]さんがダウンしたまま起床し、搬送されるのを見届ける。
+---戻ってきたパンチャンさんに銃の練習がしたいと話すとE5'sミッションがあることを教えてもらう。
+-体験の再予約のため[[JTS>>ジョアンナテクノサービス]]へ行く。
+--[[豆　やん]]さんから高い声が出るか聞かれ、マウスな声を披露する。
+--[[社長>>町田　ジョアンナ]]の突発音楽に合わせて踊る従業員を見ている途中で強制瞑想になってしまう。
+#endregion(前半)
+#region(後半)後半を閉じる
+-JTSで[[日野間　るた]]さんと話す、[[今井　教次]]さんと挨拶する。
+-警察署にアーマーを貰いに行くというので同行する。
+--エージェント Bを名乗る[[ジャック　馬ウアー]]さんと会う。
+-JTSにいた面々と[[E5's BURGER]]へミッションを受けに行く。&openclose2(show=同行者▶){[[ジョアンナ　町田>>町田　ジョアンナ]]、[[ねずみさん>>えぐち　きの子]]、[[豆　やん]]、[[今井　教次]]、[[風早　音子]]}
+--店内でピエロの襲撃に遭う。
+--[[ジャック・馬・ウメー>>松竹　ウメ]]さん合流、今井　教次さんや豆やんさんが途中離脱などありつつ何度かミッションをこなす。
+-墓場駐車場でねずみさんと[[キャプテン　わきを]]さんと話す。
+#endregion(後半)
+追加エピソード募集中
+----
+****9/16 [[【9/16 #ストグラ】レイジー・ルードマン【８日目】>>https://www.youtube.com/watch?v=hVk6YN0X-jQ]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****9/17 [[【9/17 #ストグラ】レイジー・ルードマン【９日目】>>https://www.youtube.com/watch?v=HvOXS5dI5T0]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****9/18 [[【9/18 #ストグラ】レイジー・ルードマン【10日目】>>https://www.youtube.com/watch?v=EaNBLRp9L7s]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****9/19 [[【9/19 #ストグラ】レイジー・ルードマン【11日目】>>https://www.youtube.com/watch?v=LUZadO3I3Vk]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****9/20 [[【9/20 #ストグラ】レイジー・ルードマン【12日目】>>https://www.youtube.com/watch?v=wc5w2dAQSuA]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****9/21 [[【9/21 #ストグラ】レイジー・ルードマン【13日目】>>https://www.youtube.com/watch?v=5trGw224TUw]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+#endregion(9月)
+
+**&font(18,#191970){エピソードSEASON&font(23,#6495ed){2&icon_fa(fa fa-scroll)}}
+***2025年
+#region(12月)&bold(){12月}
+****12/25 [[【12/25 #ストグラS2】レイジー・ルードマン【1日目（累計14日目）】>>https://www.twitch.tv/videos/2652637634]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(12月)
+
+***2026年
+#region(1月)&bold(){1月}
+#endregion(1月)
+#region(2月)&bold(){2月}
+
+****2/11 【2/11#ストグラSeason2】レイジー・ルードマン【14日目(累計27日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****2/12 【2/12#ストグラSeason2】レイジー・ルードマン【15日目(累計28日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****2/15 【2/15#ストグラSeason2】レイジー・ルードマン【16日目(累計29日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****2/18 【2/18#ストグラSeason2】レイジー・ルードマン【17日目(累計30日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****2/19 【2/19#ストグラSeason2】レイジー・ルードマン【18日目(累計31日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****2/21 【2/21#ストグラSeason2】レイジー・ルードマン【19日目(累計32日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****2/22 【2/22#ストグラSeason2】レイジー・ルードマン【20日目(累計33日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****2/25 【2/25#ストグラSeason2】レイジー・ルードマン【21日目(累計34日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****2/27 【2/27#ストグラSeason2】レイジー・ルードマン【22日目(累計35日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+#endregion(2月)
+#region(3月)&bold(){3月}
+****3/1 【3/1#ストグラSeason2】レイジー・ルードマン【23日目(累計36日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/5 【3/5#ストグラSeason2】レイジー・ルードマン【24日目(累計37日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/6 【3/6#ストグラSeason2】レイジー・ルードマン【25日目(累計38日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/8 【3/8#ストグラSeason2】レイジー・ルードマン【26日目(累計39日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/11 【3/11前編#ストグラSeason2】レイジー・ルードマン【27日目(累計40日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/11 【3/11後編#ストグラSeason2】レイジー・ルードマン【27日目(累計40日目)】
+#region(開く,open)
+「2度寝した」
+-エピソード募集中
+#endregion
+----
+****3/12 【3/12#ストグラSeason2】レイジー・ルードマン【28日目(累計41日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/13 【3/13#ストグラSeason2】レイジー・ルードマン【29日目(累計42日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/15 【3/15#ストグラSeason2】レイジー・ルードマン【30日目(累計43日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/18 【3/18#ストグラSeason2】レイジー・ルードマン【31日目(累計44日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/19 【3/19#ストグラSeason2】レイジー・ルードマン【32日目(累計45日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/20 【3/20#ストグラSeason2】レイジー・ルードマン【33日目(累計46日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/21 【3/21#ストグラSeason2】レイジー・ルードマン【34日目(累計47日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/22 【3/22#ストグラSeason2】レイジー・ルードマン【35日目(累計48日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/25 【3/25#ストグラSeason2】レイジー・ルードマン【36日目(累計49日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/26 【3/26#ストグラSeason2】レイジー・ルードマン【37日目(累計50日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/27 【3/27#ストグラSeason2】レイジー・ルードマン【38日目(累計51日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/28 【3/28#ストグラSeason2】レイジー・ルードマン【39日目(累計52日目)】
+#region(開く,open)
+-JTS出勤
+-社長たちとウクレレの接続確認
+-ウクレレ練習
+-警察車両の修理
+-飯を買いにアクアオヴェストへ
+-JTSへ戻る
+-社長から自分の入社秘話を聞く
+-ヨシャパテさんの自作ウクレレ曲を聴く
+
+#endregion
+----
+****3/29 【3/29#ストグラSeason2】レイジー・ルードマン【40日目(累計53日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+#endregion(3月)
+#region(4月)&bold(){4月}
+****4/1 【4/1#ストグラSeason2】レイジー・ルードマン【41日目(累計54日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/2 【4/2#ストグラSeason2】レイジー・ルードマン【42日目(累計55日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/3 【4/3#ストグラSeason2】レイジー・ルードマン【43日目(累計56日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/4 【4/4#ストグラSeason2】レイジー・ルードマン【44日目(累計57日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/5 【4/5#ストグラSeason2】レイジー・ルードマン【45日目(累計58日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/8 【4/8#ストグラSeason2】レイジー・ルードマン【46日目(累計59日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/9 【4/9#ストグラSeason2】レイジー・ルードマン【47日目(累計60日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/10 【4/10#ストグラSeason2】レイジー・ルードマン【48日目(累計61日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/11 【4/11#ストグラSeason2】レイジー・ルードマン【49日目(累計62日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/12 【4/12#ストグラSeason2】レイジー・ルードマン【50日目(累計63日目)】
+#region(開く)
+-星野みこさんとイースターエッグ探し
+-窓ふきバイト
+-JTSでメカニック
+-そろそろ慣れてきたし、飲食店で仕事してもいいかなぁ
+-ウクレレ練習
+
+
+#endregion
+----
+****4/15 【4/15#ストグラSeason2】レイジー・ルードマン【51日目(累計64日目)】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+#endregion
+#region(5月)&bold(){5月}(5月)
+
+#endregion(5月)
+#region(6月)&bold(){6月}(6月)
+
+#endregion(6月)
+#region(7月)&bold(){7月}(7月)
+
+#endregion(7月)
+#region(8月)&bold(){8月}(8月)
+
+#endregion(8月)
+
+
+
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd 【配信タイトル】
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+
+#endregion(mm月)
+
+}
+
+　&b(){※エピソードの編集は一行からでも募集中}
+
+**アーカイブ&color(#F54738){&icon_fa(fa fa-youtube-play)}
+***2025年
+#region(開く)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|アーカイブ|~備考|h
+|08/28|2|【8/28 #ストグラ】レイジー・ルードマン【2日目】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}※後半>>https://www.youtube.com/watch?v=WJqs-IBUq9A]]||
+|08/29|3|【8/29 #ストグラ】レイジー・ルードマン【3日目】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=_jGTO0gEBok]]||
+|09/03|4|【9/3 #ストグラ】レイジー・ルードマン【4日目】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=SA-srtdGCXk]]||
+|09/06|5|【9/6 #ストグラ】レイジー・ルードマン【5日目】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=_u4CqDjQDuQ]]||
+|09/09|6|【9/9 #ストグラ】レイジー・ルードマン【6日目】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=upl8Tp9gIbY]]||
+|09/13|7|[[【9/13 #ストグラ】レイジー・ルードマン【7日目】>>https://www.twitch.tv/videos/2565422968]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}※前半>>https://www.youtube.com/watch?v=td6yEBw0Y3k]]&br()[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}※後半>>https://www.youtube.com/watch?v=uaOGFdZ4aiU]]||
+|09/16|8|【9/16 #ストグラ】レイジー・ルードマン【8日目】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=hVk6YN0X-jQ]]||
+|09/17|9|【9/17 #ストグラ】レイジー・ルードマン【9日目】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=HvOXS5dI5T0]]||
+|09/18|10|【9/18 #ストグラ】レイジー・ルードマン【10日目】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=EaNBLRp9L7s]]||
+|09/19|11|【9/19 #ストグラ】レイジー・ルードマン【11日目】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=LUZadO3I3Vk]]||
+|09/20|12|【9/20 #ストグラ】レイジー・ルードマン【12日目】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=wc5w2dAQSuA]]||
+|09/21|13|【9/21 #ストグラ】レイジー・ルードマン【13日目】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=5trGw224TUw]]||
+|12/25|14|[[【12/25 #ストグラS2】レイジー・ルードマン【1日目（累計14日目）】>>https://www.twitch.tv/videos/2652637634]]|||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+***2026年
+#region(1～6月)
+#table_style(head=center:#008b8b:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|アーカイブ|~備考|h
+|2/11|27|【2/11 #ストグラSeason2】レイジー・ルードマン【14日目(累計27日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/43G-77Sf3sg?si=MDXj_uL9BhxVszai]]||
+|2/12|28|【2/12 #ストグラSeason2】レイジー・ルードマン【15日目(累計28日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/8lmb7aSolXw?si=JbdAoxVOFwMoDyXk]]||
+|2/15|29|【2/15 #ストグラSeason2】レイジー・ルードマン【16日目(累計29日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/YKZqOnbBVxk?si=cmkZchG7eLALE3t6]]||
+|2/18|30|【2/18 #ストグラSeason2】レイジー・ルードマン【17日目(累計30日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/CrDRzmC75sc?si=EX6fnEC5Z3y39D10]]||
+|2/19|31|【2/19 #ストグラSeason2】レイジー・ルードマン【18日目(累計31日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/aWJyyLy_yF4?si=kHcfspUId494IL79]]||
+|2/21|32|【2/21 #ストグラSeason2】レイジー・ルードマン【19日目(累計32日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/0Xe9OZdwfAo?si=OXwCBaTB91k1TGLn]]||
+|2/22|33|【2/22 #ストグラSeason2】レイジー・ルードマン【20日目(累計33日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>ここにURLを入力]]||
+|2/25|34|【2/25 #ストグラSeason2】レイジー・ルードマン【21日目(累計34日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/ngydeplAFy0?si=ugdP8YFKl1h1TIkV]]||
+|2/27|35|【2/17 #ストグラSeason2】レイジー・ルードマン【22日目(累計35日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/hUl15Y9wnN8?si=7cnOVvDoa40IxMxM]]||
+|3/1|36|【3/1 #ストグラSeason2】レイジー・ルードマン【23日目(累計36日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/GRZ-3vjoqX8?si=YZLKKLVGrDZGGcra]]||
+|3/5|37|【3/5 #ストグラSeason2】レイジー・ルードマン【24日目(累計37日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/2PjcoC1HwD0?si=zL_q46LXpDhgu_LC]]||
+|3/6|38|【3/6 #ストグラSeason2】レイジー・ルードマン【25日目(累計38日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/OJ1Y07o1SeU?si=A-w8zrI2GG0t10KZ]]||
+|3/8|39|【3/8 #ストグラSeason2】レイジー・ルードマン【26日目(累計39日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/QH3QJt5jYGE?si=vCQWfPnRPPOJfvrQ]]||
+|3/11|40|【3/11前編 後編 #ストグラSeason2】レイジー・ルードマン【27日目(累計40日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/zDlr46fAnM0?si=GwH8VBDP_BT4AVN8]][[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/U7f8Bs81X4s?si=7kD-XmbOiBd1tpU_]]|前編後編|
+|3/12|41|【3/12 #ストグラSeason2】レイジー・ルードマン【28日目(累計41日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/aONPj1KtM-Q?si=SCduFTZIr8f2tA3s]]||
+|3/13|42|【3/13 #ストグラSeason2】レイジー・ルードマン【29日目(累計42日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/vOFZLGZBRUU?si=wLEJ_M_hNiHfmM6j]]||
+|3/15|43|【3/15 #ストグラSeason2】レイジー・ルードマン【30日目(累計43日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/iP2NOWgN6-E?si=tCj4C_NcfHFAwyGX]]||
+|3/18|44|【3/18 #ストグラSeason2】レイジー・ルードマン【31日目(累計44日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/QNK4TQa5eLg?si=qvZOTbWK97xx491S]]||
+|3/19|45|【3/19 #ストグラSeason2】レイジー・ルードマン【32日目(累計45日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/AT1E7ThJ8b0?si=CgkZ-DDtqcc-wbe0]]||
+|3/20|46|【3/20 #ストグラSeason2】レイジー・ルードマン【33日目(累計46日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/vakhm4OKs8c?si=R-ZdyXAckKNpxUdh]]||
+|3/21|47|【3/21 #ストグラSeason2】レイジー・ルードマン【34日目(累計47日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/nYFtZHLmZiA?si=Ov3yY2n_m4M-LJ0_]]||
+|3/22|48|【3/22 #ストグラSeason2】レイジー・ルードマン【35日目(累計48日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/17vdzDgZfPw?si=wywlkUAJjQo9IREQ]]||
+|3/25|49|【3/25 #ストグラSeason2】レイジー・ルードマン【36日目(累計49日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/7XQlr8GAICs?si=Q2FcohDestSCabhX]]||
+|3/26|50|【3/26 #ストグラSeason2】レイジー・ルードマン【37日目(累計50日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/ZhOq0mW6KLY?si=1W1m-E2BVYh35TLA]]||
+|3/27|51|【3/27 #ストグラSeason2】レイジー・ルードマン【38日目(累計51日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/nJuAGAnGtyY?si=N9osQ93lypNQgUyK]]||
+|3/28|52|【3/28 #ストグラSeason2】レイジー・ルードマン【39日目(累計52日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/vfAMduuaxM0?si=hXK4EyOJG5Uxenfo]]||
+|3/29|53|【3/29 #ストグラSeason2】レイジー・ルードマン【40日目(累計53日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/8RZ_H57DIpA?si=hq2ETfvegOuYfOM1]]||
+|4/1|54|【4/1 #ストグラSeason2】レイジー・ルードマン【41日目(累計54日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/575c8tA2A64?si=-qK_E5c4KH-m-ouh]]||
+|4/2|55|【4/2 #ストグラSeason2】レイジー・ルードマン【42日目(累計55日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/lMYHPl7RBxI?si=X6aOIvVi80tv2hrA]]||
+|4/3|56|【4/3 #ストグラSeason2】レイジー・ルードマン【43日目(累計56日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/LdacSu9IfcM?si=rh2WGBCcQprZ2ZB-]]||
+|4/4|57|【4/4 #ストグラSeason2】レイジー・ルードマン【44日目(累計57日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/yFQVmJhujPM?si=Odfddpimniqd1EMs]]||
+|4/5|58|【4/5 #ストグラSeason2】レイジー・ルードマン【45日目(累計58日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/kQN5_spM1fA?si=YtJ1uIVqFPyWS0zJ]]||
+|4/8|59|【4/8 #ストグラSeason2】レイジー・ルードマン【46日目(累計59日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/7UzkHj9OAQY?si=gWo7T2CtJXayy-xS]]||
+|4/9|60|【4/9 #ストグラSeason2】レイジー・ルードマン【47日目(累計60日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/JvMK6rmgtUs?si=U9zSCSbG6W2Oynqn]]||
+|4/10|61|【4/10 #ストグラSeason2】レイジー・ルードマン【48日目(累計61日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/OC24GTWlJPU?si=kFEqmy88bQAPIWB0]]||
+|4/11|62|【4/11 #ストグラSeason2】レイジー・ルードマン【49日目(累計62日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/Sbu46_R0ULM?si=F2emmPnM3-6GXGi4]]||
+|4/12|63|【4/12 #ストグラSeason2】レイジー・ルードマン【50日目(累計63日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/cSB5Th_kuJk?si=iz4AEEEdrWMwkpLM]]||
+|4/15|64|【4/15 #ストグラSeason2】レイジー・ルードマン【51日目(累計64日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/yojVC6phgIo?si=IAFtLqzAuo8IZI7m]]||
+|4/16|65|【4/16 #ストグラSeason2】レイジー・ルードマン【52日目(累計65日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/eEqfJjVp9Vs?si=jnXirwJgIz19ZEkp]]||
+|4/17|66|【4/17 #ストグラSeason2】レイジー・ルードマン【53日目(累計66日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/u30Qlnd_0Yk?si=TeAdWF5CKb0aL1pM]]||
+|4/18|67|【4/18 #ストグラSeason2】レイジー・ルードマン【54日目(累計67日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/xqadTbmJzx4?si=U7QtGiuyGwvR8HjU]]||
+|4/19|68|【4/19 #ストグラSeason2】レイジー・ルードマン【55日目(累計68日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/bUNI_lh88RA?si=GL3NB6M0pFavcBtc]]||
+|4/22|69|【4/22 #ストグラSeason2】レイジー・ルードマン【56日目(累計69日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/fCRu5oQBTiQ?si=jMf1kxgMaHKwxiIE]]||
+|4/23|70|【4/23 #ストグラSeason2】レイジー・ルードマン【57日目(累計70日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/DPyxhi1fCCE?si=pSZ5rznIVtkz--8o]]||
+|4/24|71|【4/24 #ストグラSeason2】レイジー・ルードマン【58日目(累計71日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/AWgEvfZSkM8?si=YwdKIvlao4pv2c9F]]||
+|4/25|72|【4/25 #ストグラSeason2】レイジー・ルードマン【59日目(累計72日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/7i3vxDA-KxM?si=kWCVwobY4Awd6dsq]]||
+|4/26|73|【4/26 #ストグラSeason2】レイジー・ルードマン【60日目(累計73日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/fXQP4rWhHlI?si=mQd_WnLw3ZNFMzSt]]||
+|4/29|74|【4/29 #ストグラSeason2】レイジー・ルードマン【61日目(累計74日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/t5X4FBVwUus?si=5kwETF3x8RBZSrjb]]||
+|4/30|75|【4/30 #ストグラSeason2】レイジー・ルードマン【62日目(累計75日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/Xlyo8rySsJA?si=rRF9GG1gOXMOJmtA]]||
+|5/1|76|【5/1 #ストグラSeason2】レイジー・ルードマン【63日目(累計76日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/ZCo8W_Ts_qU?si=uF8EgBNfLbjbF2Se]]||
+|5/2|77|【5/2 #ストグラSeason2】レイジー・ルードマン【64日目(累計77日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/QDAJm2ep77c?si=_39HBJmSFpZ7HwAE]]||
+|5/3|78|【5/3 #ストグラSeason2】レイジー・ルードマン【65日目(累計78日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/e35b2mXF4Yw?si=Ch-BRw66ch1r9yqu]]||
+|5/6|79|【5/6 #ストグラSeason2】レイジー・ルードマン【66日目(累計79日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/GGH2rPuHmUo?si=NVBqXLRK7e2vT3KI]]||
+|5/7|80|【5/7 #ストグラSeason2】レイジー・ルードマン【67日目(累計80日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/mT5rKHye2kw?si=LV1nx_H8xVLTRFKO]]||
+|5/8|81|【5/8 #ストグラSeason2】レイジー・ルードマン【68日目(累計81日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/SwlZHuWJ57I?si=hdNy7v-ZQRFz3Uas]]||
+|5/9|82|【5/9 #ストグラSeason2】レイジー・ルードマン【69日目(累計82日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/DaZF9FGp1Qo?si=vct2tPPIxP6DhnPI]]||
+|5/10|83|【5/10 #ストグラSeason2】レイジー・ルードマン【70日目(累計83日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/7x_nYNjKVuE?si=Dmdndp6wY-HzzPIJ]]||
+|5/13|84|【5/13 #ストグラSeason2】レイジー・ルードマン【71日目(累計84日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>]]||
+|5/14|85|【5/14 #ストグラSeason2】レイジー・ルードマン【72日目(累計85日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>]]||
+|5/15|86|【5/15 #ストグラSeason2】レイジー・ルードマン【73日目(累計86日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>]]||
+|5/16|87|【5/15 #ストグラSeason2】レイジー・ルードマン【74日目(累計87日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>]]||
+|5/17|88|【5/17 #ストグラSeason2】レイジー・ルードマン【75日目(累計88日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>]]||
+|5/17|88|【5/17 #ストグラSeason2】レイジー・ルードマン【75日目(累計88日目)】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>]]|アーカイブ2個目|
+
+
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>ここにURLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(7～12月)
+#table_style(head=center:#008b8b:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|アーカイブ|~備考|h
+
+
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>ここにURLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#right(){&link_up(🔝ページTOPへ)}

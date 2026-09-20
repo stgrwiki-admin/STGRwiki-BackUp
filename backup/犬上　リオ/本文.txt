@@ -1,0 +1,1280 @@
+*&font(25px,#ff8f66){プ}ロフィール &icon_fa(fa fa-id-card-o)
+#slide_img(auto=3,width=300,height=400){S2_SWAT1-2.jpg,犬上リオ.jpg,すわっと服装.jpeg,冬毛.jpeg}
+//他に良い画像があったら上書きしてください
+
+　&color(#ff3333){&size(23){&b(){「よし、行こう〜！」}}}
+　
+//ここからプロフィール
+#table_color(head=#ff3333:#fff)
+|~シーズン|~&icon_fa(fa fa-calendar)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(いぬがみ){犬上}　リオ|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~血液型|~&icon_fa(fa fa-heartbeat)|>|B型|
+|~身長|~&icon_fa(fa fa-male)|>|169㎝|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|1997年04月27日(&countup(1997/04/27,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年07月04日 (&countup(2024/07/04,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|[[警察官>>ロスサントス警察]] &small(){2024/07/23～(&countup(2024/07/23,yd)経過)}&br()&nbsp(3)&small(){(本署) 2024/07/23～2025/07/08}&br()&nbsp(3)&small(){(東署) 2025/07/08〜}&br()&small(){　}階級Grade:3のLieutenant(警部補)&br()&small(){　}SWAT4&br()&nbsp(3)&link_anchor(police_kaiju,page=犬　ルリ){怪獣部隊}：怪獣6号&small(){(2024/08/16～)}&br()&nbsp(3)[[特殊部隊Dogs>後藤　れむ#Dogs]]|[[警察官>>ロスサントス警察]] &small(){2025/12/19～(&countup(2025/12/19,yd)経過)}|
+|~|~&icon_fa(fa fa-user-slash)|&small()&openclose2(show=過去の所属){&nbsp(br,7)&icon_fa(fa fa-wrench fa-fw)メカニック【[[PYC]]】体験&small(){（2024/07/06～07/09)}&nbsp(br,7)&icon_fa(fa fa-wrench fa-fw)メカニック【[[9055]]】体験&small(){（2025/06/01～06/03)}&nbsp(br,7)💋飲食店【[[魔女の酒場]]】体験&small(){（2025/01/25)}}|-|
+|~TwiX|~&icon_fa(fa fa-crow)|@inugamirio|@rio|
+|~レーサー名|~&icon_fa(fas fa-car)|Rio|-|
+|BGCOLOR(#ff6666):~プレイヤー|BGCOLOR(#ff6666):~&icon_fa(fa fa-address-card-o)|>|Rio|
+|BGCOLOR(#ff6666):~告知等|BGCOLOR(#ff6666):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/ribo_taro]]|
+|BGCOLOR(#ff6666):~配信場所|BGCOLOR(#ff6666):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/rio_taro]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/rio_taro]]&br()&font(#FF0000){&icon_fa(fa-brands fa-youtube)} [[&font(#FF0000){YouTube}>>https://www.youtube.com/@rio0198]]|
+|BGCOLOR(#ff6666):~動画投稿|BGCOLOR(#ff6666):~&icon_fa(fa fa-video-camera)|>|&font(#c9243a){&icon_fa(fa fa-youtube-play)}[[&font(#c9243a){YouTube (@rio0198)}>>https://www.youtube.com/@rio0198]]|
+//
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(25px,#ff8f66){s}eason1終了後𓂃 𓈒𓏸‪‪
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">#ストグラ</a> Season1お疲れ様でした！<br>本当に皆ありがとうー！</p>&mdash; Rio (@ribo_taro
+) <a href="https://twitter.com/ribo_taro/status/1969786275122311395">september 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+
+
+*&font(25px,#ff8f66){基}本情報 &icon_fa(fa fa-user-circle)
+-元軍人で[[ミン　ドリー]]の後輩。
+-警察になるためにロスサントスに引っ越してきた。
+-口癖は「大丈夫かぁ〜！」「よし、行こう〜！」「チルいなぁ」「ちなみに〜」。最近では[[二部>>二部　らるたる]]の口癖、「えぇえぇえぇ」が伝染っている。
+-[[二部　らるたる]]や[[ブロッコリー　斎藤]]など仲の良い人にはすぐに手錠をかけたり、スライディングをする癖がある。
+-[[鬼桃　ぷぅ]]、[[三島　みつー]]と信号機したっぱトリオを結成している。
+-[[鬼桃　ぷぅ]]、[[ヘルアン]]とチル部を結成している。
+//
+***&size(110%){&bgcolor(#ff6252){&nbsp()&font(#fefefe,90%){　外見}&nbsp(6)}}
+-赤髪の短髪。
+-黒毛の犬耳と尻尾がついている。冬毛になると白毛になる。
+-警察勤務時は黒い猫耳フードに裸足。フードを被るようになってからヘッドショットされる回数が下がった。
+//
+***&size(110%){&bgcolor(#ff6252){&nbsp()&font(#fefefe,90%){　趣味・嗜好}&nbsp(6)}}
+-好きな色は赤。警察車両、自家用車ともに赤色にしている。
+-好きな食べ物はお寿司（特にうに）、嫌いな食べ物はセロリ。
+-趣味はギャンブル、レース。
+--チンチロ、ポーカー、テキサスポーカーができる。よくカジノに行きお金を増やす。テキサスポーカーは公務員ポーカー部で遊ぶことが多い。また、チンチロ大会で優勝し60億を手にしたことがある。
+--レースでは、得意な運転技術もあり現在レート1678、ランキング3位。(2025.06.06時点)
+-スマホのMusicアプリを多用している。お気に入りはプレイリスト入り。前は超大型ミッション中/餡ブレラ、今はAno/畳かえるがお気に入り。
+-大切なものや限定の食事などは車の中に貯めている。
+--さらに一番大切な物はBOSSバックにしまっていつも持ち歩いている。
+//
+***&size(110%){&bgcolor(#ff6252){&nbsp()&font(#fefefe,90%){　性格}&nbsp(6)}}
+-様々な場面で褒める事が多く、他者に対して全肯定であるが故に時折状況が思い掛けない方向へ進む事もある。
+-口プが弱く、圧が皆無。更にシリアス場面に直面すると胃痛を感じ始める為、積極的に市民対応へ向かう機会が少ない。
+-無意識なノンデリ傾向があるが、会話の最中で周囲の雰囲気から不意に察して慌てる事が多々ある。
+-稀に人の話を聞いておらず、右から左に流れてしまいがち。
+-人当たりが良く愛嬌がある。雰囲気で冗談を言ったり、相手のノリに乗ってあげたりと茶目っ気がある。
+-押しには弱い為、相手から積極的に来られたり、自分で言い出した冗談を真に受けられると、露骨に表には出さないものの狼狽えてしまう一面もある。
+-はっきりと発言する芯の強さと冷静な判断力も持ち合わせている。
+//
+***&size(110%){&bgcolor(#ff6252){&nbsp()&font(#fefefe,90%){　警察として}&nbsp(6)}}
+#region(Season1)&space()&font(b,15px){Season1}
+-警察になってからの初検挙は[[千代田　ヨウ]]。
+-撃ち合いが得意で、有利な状況でも油断をしない丁寧な立ち回りが特徴。その腕前は様々なギャングが「赤いパトカー」「赤い警官」を警戒するほど。
+--[[hantasma]]の構成員からは「赤い死神」と呼ばれている。
+--[[MOZU]]の構成員より必ず複数人で相手する決まりがあると告げられた。
+-他の警察署員からエースと呼ばれている。
+--久しぶりに起きてきた署員や体験にも署員たちがエースだと伝えるため、話しかけられる第一声がエースですか？とよく聞かれる。
+-起床後に本署内で武器クラフトを日課にして、銃を作れるレベルまで熟練度を上げた。
+-使用する銃は自らクラフトしている。自分で作った銃の方が命中しやすい気がするため。
+-愛用していた銃はブルパップ。音が好き。また、武器スキンで色も変えている。白と赤が多い。
+--時々カービンやタクティカルも使うが今は、犬ルリ・リスペクトでタクティカルライフル使用中。
+-チル時間はエイム合わせで本署周辺の街灯をよく撃つ。テーザーの練習もよくみんなで行う。
+--現在は署内で撃つことが禁止のため、街頭を撃つことはやっていない。
+-2024/12/1に世代名を[生命(いのち)の世代]と命名される。
+--警察同世代は[[文月　夏苗]]、[[二部　らるたる]]、[[五十嵐　ボブ]]、[[ヒロ　ヤマモト]]、[[ブロッコリー　斎藤]]、[[赤兎　がみとも]]、[[亀有　大吉]]、[[羽芝　ユン]]、[[ルール　ちゃん]]、[[冷泉　ナデシコ]]、[[鬼瓦　るる]]、[[よすみの　かど]]、[[ゴリ田　ゴリ男]]
+--本人が採用時期がほぼ同じ同期として名前を上げるのは鬼瓦るるとよすみのかど。
+-怪獣部隊、特殊部隊Dogsに所属している。
+--Dogsのコードネームは「ポメラニアン」自分自身もポメラニアンが好き。
+-10/16警察、SWATランク2昇格。01/24二部ブロッコリーと共に警察、SWATランク3昇格。06/19SWATランク4に昇格。
+#endregion
+#right(){&link_up(🔝ページTOPへ)}
+
+*&font(25px,#ff8f66){衣}装倉庫 
+&size(15){(※画像をクリックすると別タブで表示されます。)}
+//画像を2:3に切り抜くと掲載した際に伸びたりせずに綺麗に表示されます。
+#region(Season2,close)
+|BGCOLOR(#9ea1a3):~&blankimg(S2_SWAT1.png,x=180,y=300)|BGCOLOR(#9ea1a3):~&blankimg(S2_私服1.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(S2_スーツ.png,x=200,y=300)|
+|BGCOLOR(#c0c6c9):~SWAT服&small(){(別画像：[[1>>https://img.atwiki.jp/streamergta5/attach/1793/26711/S2_SWAT1b.png]],[[2>>https://img.atwiki.jp/streamergta5/attach/1793/25783/S2_SWAT1-2.jpg]])}|BGCOLOR(#c0c6c9):~私服1|BGCOLOR(#c0c6c9):~スーツ|
+#endregion
+
+#region(Season1)
+|BOTTOM:BGCOLOR(#9ea1a3):~&blankimg(すわっと服装.jpeg,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(犬上リオ_私服.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(犬上リオ_私服面付.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(犬上リオ_東署.png,x=200,y=300)|
+|BGCOLOR(#c0c6c9):~SWAT服|BGCOLOR(#c0c6c9):~私服|BGCOLOR(#c0c6c9):~お面付|BGCOLOR(#c0c6c9):~東署|
+|BGCOLOR(#9ea1a3):~&blankimg(犬上リオ_東署2.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(新署キッチンカー.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(警察体験初期.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(警察体験服2.png,x=200,y=300)|
+|BGCOLOR(#c0c6c9):~東署2|BGCOLOR(#c0c6c9):~東署キッチンカー|BGCOLOR(#c0c6c9):~警察体験|BGCOLOR(#c0c6c9):~警察体験2|
+|BGCOLOR(#9ea1a3):~&blankimg(真っ黒SWAT服.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(怪獣部隊6号.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(怪獣部隊.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(赤トサカ.jpg,x=200,y=300)|
+|BGCOLOR(#c0c6c9):~真っ黒SWAT服|BGCOLOR(#c0c6c9):~怪獣部隊|BGCOLOR(#c0c6c9):~怪獣部隊2|BGCOLOR(#c0c6c9):~トサカ部隊|
+|BGCOLOR(#9ea1a3):~&blankimg(釣り.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(白スーツ.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(学生服.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(メイド服.png,x=200,y=300)|
+|BGCOLOR(#c0c6c9):~釣り服|BGCOLOR(#c0c6c9):~白スーツ|BGCOLOR(#c0c6c9):~学生服|BGCOLOR(#c0c6c9):~メイド服|
+|BGCOLOR(#9ea1a3):~&blankimg(ギャラクシー1.jpg,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(ギャラクシー2.jpeg,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(夏私服.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(牧場フレンズ.png,x=200,y=300)|
+|BGCOLOR(#c0c6c9):~ギャラクシー1|BGCOLOR(#c0c6c9):~ギャラクシー2(右側)|BGCOLOR(#c0c6c9):~夏服|BGCOLOR(#c0c6c9):~牧場フレンズ|
+|BGCOLOR(#9ea1a3):~&blankimg(チャイナ服.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(灰色スーツ.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(黒スーツ.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(学生服.png,x=200,y=300)|
+|BGCOLOR(#c0c6c9):~チャイナ服|BGCOLOR(#c0c6c9):~灰色スーツ|BGCOLOR(#c0c6c9):~黒スーツ|BGCOLOR(#c0c6c9):~学生服|
+|BGCOLOR(#9ea1a3):~&blankimg(学生服2.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(サッカー.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(私服.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(人狼変装.png,x=200,y=300)|
+|BGCOLOR(#c0c6c9):~学生服2|BGCOLOR(#c0c6c9):~サッカー|BGCOLOR(#c0c6c9):~私服|BGCOLOR(#c0c6c9):~人狼変装|
+|BGCOLOR(#9ea1a3):~&blankimg(皇帝.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(なしま記念.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(ヘリバトル.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(二部クイズ大会.jpg,x=200,y=300)|
+|BGCOLOR(#c0c6c9):~皇帝|BGCOLOR(#c0c6c9):~なしま記念|BGCOLOR(#c0c6c9):~ヘリバトル|BGCOLOR(#c0c6c9):~二部のクイズ大会|
+|BGCOLOR(#9ea1a3):~&blankimg(パンダ.png,x=200,y=300)|BGCOLOR(#9ea1a3):~&blankimg(べりはぴ法被.png,x=200,y=300)|
+|BGCOLOR(#c0c6c9):~パンダ|BGCOLOR(#c0c6c9):~べりはぴ法被|
+//　他の衣装などの画像がありましたら更新お願いいたします。
+#endregion
+
+*&font(20px,#e83929){&icon_fa(fa fa-car)}&font(20px){ 所有車両}
+#region(Season2,open)&bold(){Season2}
+***バイク&icon_fa(fa fa-motorcycle)（計2台）
+#region(開く)
+#table_style(head=center:#f5f5f5)
+|BGCOLOR(#f5f5f5):~&color(#ffff){種類}|BGCOLOR(#f5f5f5):~&color(#ffff){車名}|BGCOLOR(#f5f5f5):~&color(#ffff){読み}|BGCOLOR(#f5f5f5):~&color(#ffff){ナンバー}|BGCOLOR(#f5f5f5):~&color(#ffff){概要}|
+|CENTER:&icon_fa(fa fa-motorcycle)|Dinka Ventoso AT|ベントソ|VL30YND3||
+|CENTER:&icon_fa(fa fa-motorcycle)|Dinka Thrust AT|スラスト|1XT8SU2A||
+#endregion(バイク)
+#endregion(Season2)
+
+#region(Season1)&bold(){Season1}
+***車両&icon_fa(fa fa-car)・ヘリ&icon_fa(fa-solid fa-helicopter)
+#region(開く)
+#table_style(head=center:#17184b)																										
+|BGCOLOR(#f5f5f5):~&color(#ffff){種類}|BGCOLOR(#f5f5f5):~&color(#ffff){名前}|BGCOLOR(#f5f5f5):~&color(#ffff){車種}|BGCOLOR(#f5f5f5):~&color(#ffff){読み}|BGCOLOR(#f5f5f5):~&color(#ffff){ナンバー}|BGCOLOR(#f5f5f5):~&color(#ffff){概要}|
+|CENTER:&icon_fa(fa-solid fa-car)|リオット|Paragon R|パラゴン|ZOTB0343||
+|CENTER:&icon_fa(fa-solid fa-car)||Arcida Egg Car|エッグカー|EGG25004|イースターイベントの景品|
+|CENTER:&icon_fa(fa-solid fa-car)|リオくん誕生日おめでとう！yamamoto|Krieger|クリーガー|SPNO8487||
+|CENTER:&icon_fa(fa-solid fa-car)|リオくん誕生日おめでとう!!!penpen|RaptorSports|ラプター|BPCU9141||
+|CENTER:&icon_fa(fa-solid fa-car)|りおくんたんおめnibusan|Elegy RH-7|エレジー|CNQR9803||
+|CENTER:&icon_fa(fa-solid fa-car)|さぶ郎さんテザラクト|Pegassi Tezeract Super|テザラクト|GCBY0709||
+|CENTER:&icon_fa(fa-solid fa-car)|さぶ郎さんフラッシュ|Flash GT|フラッシュGT|OREH1364||
+|CENTER:&icon_fa(fa-solid fa-car)|リオ―ゴンレース用|Overflod Imorgon|イモーゴン|USPH9703||
+|CENTER:&icon_fa(fa-solid fa-car)||Lampadati tropos Rallye|トロポスラリー|DCQX5380||
+|CENTER:&icon_fa(fa-solid fa-car)||Pegassi Ignus|イグナス|RHZB3005||
+|CENTER:&icon_fa(fa-solid fa-car)||Grotti Turismo R|ツーリスモ|IBFZ9942||
+|CENTER:&icon_fa(fa-solid fa-car)||Enus Paragon S|パラゴンS|HHPN4247|乱歩の誕生日にプレゼントしたため、所有なし|
+|CENTER:&icon_fa(fa-solid fa-car)|リオ君誕生日プレゼントトロポスラリーressan|Lampadati tropos Rallye|トロポスラリー|UZAN6966||
+|CENTER:&icon_fa(fa-solid fa-car)|manuitali-!||イタリー|ZMRO0942||
+|CENTER:&icon_fa(fa-solid fa-car)||Unknown City Cycle||CPKY2875||
+|CENTER:&icon_fa(fa-solid fa-car)|リオ君へお誕生日おめでとう！|Raiden GBR|(通称)ゴミ箱カー|3967LPBS|タマーチより誕生日プレゼント|
+|CENTER:&icon_fa(fa-solid fa-car)|つよきさん昇格おめでとうエメラス|Progen Emerus|エメラス|NSPS2338||
+|CENTER:&icon_fa(fa-solid fa-car)|りお|Weevil||ZICB5633|まるんから貰う|
+|CENTER:&icon_fa(fa-solid fa-car)||VooDoo SideCar||KRFG9017||
+|CENTER:&icon_fa(fa-solid fa-car)||Dundreary Stretch||FEXQ7121||
+|CENTER:&icon_fa(fa-solid fa-car)|VENTOSO(犬上リオ)|VENTOSO|ベントソ|AMBO5081||
+|CENTER:&icon_fa(fa-solid fa-car)||Benefactor Club||JKTJ0257||
+|CENTER:&icon_fa(fa-solid fa-car)||Bollokan Prairie||FBDJ4723||
+|CENTER:&icon_fa(fa-solid fa-car)|誕生日おめでとーさーん！！|Pfister Growler,Sports||MMIA3085||
+|CENTER:&icon_fa(fa-solid fa-car)||Unknown City Cycle||PAHA4594|乱歩の誕生日プレゼントにあげたため所持なし|
+|CENTER:&icon_fa(fa-solid fa-car)||Pegassi Faggio Sport||UEUL9383||
+|CENTER:&icon_fa(fa-solid fa-helicopter)||Sparrow|スパロー||クリスマスプレゼント交換会、レッサンより|
+//|CENTER:&icon_fa(fa-solid fa-car)||||||	
+
+#endregion
+//
+//
+
+***個人所有パトカー&icon_fa(fa fa-car)（計3台）
+#region(開く)
+#table_style(head=center:#17184b)																										
+|BGCOLOR(#f5f5f5):~&color(#ffff){種類}|BGCOLOR(#f5f5f5):~&color(#ffff){シリーズ}|BGCOLOR(#f5f5f5):~&color(#ffff){車名}|BGCOLOR(#f5f5f5):~&color(#ffff){読み}|BGCOLOR(#f5f5f5):~&color(#ffff){ナンバー}|BGCOLOR(#f5f5f5):~&color(#ffff){概要}|
+|CENTER:&icon_fa(fa-solid fa-car)||Police Zentorno CTX|ゼントーノ|TFWF9391|50億の車。警察署員の中で三番目の購入、現在は2台しかない。&small(){&infobox(title=*注,gravity=south){犬ルリが購入後、市に返却したため味野とリオの2台のみ。}}|
+|CENTER:&icon_fa(fa-solid fa-car)||Police Terminus|ターミナス|ULQM4970||
+|CENTER:&icon_fa(fa-solid fa-car)||Police Coquette D10|コケット|DYKT2768||
+//|CENTER:&icon_fa(fa-solid fa-car)||||||		
+
+#endregion
+//
+//
+
+***バイク&icon_fa(fa fa-motorcycle)（計2台）
+#region(開く)
+#table_style(head=center:#f5f5f5)
+|BGCOLOR(#f5f5f5):~&color(#ffff){種類}|BGCOLOR(#f5f5f5):~&color(#ffff){名前}|BGCOLOR(#f5f5f5):~&color(#ffff){車名}|BGCOLOR(#f5f5f5):~&color(#ffff){読み}|BGCOLOR(#f5f5f5):~&color(#ffff){ナンバー}|BGCOLOR(#f5f5f5):~&color(#ffff){概要}|
+|CENTER:&icon_fa(fa fa-motorcycle)|shinobi りおくん誕生日おめでとう!!marunsan|shinobi|シノビ|IDFA6425||
+|CENTER:&icon_fa(fa fa-motorcycle)|味野さんバイク|Western Powersurge|パワーサージ|ZJTJ2593||
+//|CENTER:&icon_fa(fa fa-motorcycle)|||||
+//|CENTER:&icon_fa(fa fa-motorcycle)|||||
+
+#endregion
+#endregion(Season1)
+
+*&font(25px,#ff8f66){人}間関係 &icon_fa(fa fa-users)
+***&font(#4169E1){&icon_fa(fa-solid fa-shield-halved)} ロスサントス警察
+#region(生命の世代)&b(){生命の世代}
+2024年6～7月に合格した警察同期。
+人によっては一ヶ月以上先に採用されているため、先輩認識が強い相手もいる。
+//
+****[[二部　らるたる]]（二部さん・二部くん・らるたるさん）
+-行動を共にすることが多く、事件対応でも抜群のコンビネーションを誇る。
+-同日にSWATランク3や、警察ランク3に昇格した。上官を二人で目指している。
+-いつも笑っていて怒っているところを見たことないため、人間じゃない説を説いている。
+-先輩だが、タメで話せて一緒に遊んでくれたり、カジノ行ってくれたり、ふざけあったりできる親友であり仲間。
+-独特のセンスの服をお揃いで作らされることがある。
+-二部の口癖「えぇえぇえぇ」が伝染り、自身の口癖になりつつある。
+-信用度☆だださがり。だが、なんだかんだで二部に甘い節がある。
+
+****[[五十嵐　ボブ]]（ボブ先輩・ボブくん）
+-仲が良く、ボブが起床している際はバディ行動をすることが多い。
+-何かと面白い提案［トサカ部隊など］をしてくれる。
+-体験の時から大型の知識を教えてくれた師匠。
+
+****[[文月　夏苗]](夏苗さん)
+-警察の先輩。
+-同日にSWATランク3へ昇格した。
+-起きているときは大型へ一緒に行くことが多い。
+-東署の立ち上げの第一人者。
+
+****[[ヒロ　ヤマモト]]（ヒロさん）
+-同期ではないが、同期と言ってくれる先輩。
+-東署設立に向けて一緒に動いている仲間であり、署長になる予定。
+-とても優秀であり、警察swatともに上官を勧めていた。
+
+
+****[[ブロッコリー　斎藤]]（ブロッコリーさん、ブロ）
+-癒しを感じており、マイナスイオンが出ていると言っている。
+-ペアで動くことが多い。
+-最近は見かけたら「ヘイ！ブロー！」と呼んでスライディングしている。
+-信用度☆地に落ちた。
+
+****[[鬼瓦　るる]]（るるさん）
+-警察同期といえる数少ないうちの1人。
+-大型に一緒に行ったり、雑談をよくする。
+-よく大型中に名前を間違えて呼んでしまい、大慌てする。
+
+
+****[[よすみの　かど]](かどさん)
+-警察同期といえる数少ないうちの1人。砂漠署。
+-実は髪型が同じ。
+-同期なのにランクが低いことに疑問を持っている。
+
+
+#endregion(生命の世代)
+//
+#region(警察の先輩)&b(){警察の先輩}
+//追加しやすくするため、採用日順に並び替えしました
+****[[後藤　れむ]]（れむさん）
+-特殊部隊Dogs隊長。リオを「ポメ(ポメラニアン)」と呼ぶ。
+-[[裏切り犬>みこだ　よう]]をころすというミッションを与えられている。
+
+****[[ゴンザレス　マヌ太郎]]（マヌさん）
+-東署特殊刑事課の先輩。
+-4月になりよく起きてくれ、ゴンザレスマヌ太郎ー！と言ってよくスライディングする。
+-大型に一緒に行ったり、撃ち合いが強い。
+
+****[[ニックス　リア]]（皇帝さん)
+-SWAT副隊長。ロスサントスの太陽。
+-ヘリでのIGLが分かりやすく、助けられることが多い。
+-結構、ノンデリ。
+
+****[[ミン　ドリー]]（ミンドリーさん、ミンドリー先輩）
+-軍人時代の先輩。警察の上官。SWAT隊長。
+-ロスサントスに引っ越してきた初日に連絡を取り、街案内をしてもらう。
+
+****[[青井　らだお]]
+-初めて会った時に犬ルリさんの後輩かと聞かれた
+-警察の最前線張る立場を慮ってくれて、1年頑張れそうだと思った
+
+****[[花沢　まるん]]（まるんさん)
+-南署の署長。
+-一緒にポーカーをしたり、車をプレゼントしてくれた。
+-ライオットの扱いがとても上手い。
+
+****[[犬　ルリ]]（犬ルリさん→ルリ先)
+-怪獣部隊の隊長。
+-一緒に大型の前線に行き、カバーしあう犬コンビ。ユニオンは高速側を必ず攻略。
+-とある日のパシでルリが破壊させる姿を間近で見たことでファンボになり、リスペクトで同じ銃を使いだした。
+-最近よくスライディングされたりテーザー撃たれたりと、よくちょっかいをかけられる。
+
+****[[安保　さぶ郎]]（さぶ郎さん）
+-尊敬する先輩。優しい。電話帳はさぶろう様で登録している。
+-些細なことにもよく気がつき、皆をフォローしてくれる。
+-警察になった頃からお世話になり、3時以降も街探検などし仲良くなった。
+-さぶ郎のぬいぐるみ.ブロマイド.アクスタをインベントリに入れている。
+-さぶ郎の誕生日には、街に来て1番かっこいいと思った車、テザラクト(9億)をプレゼントした。
+-自身の誕生日には、さぶ郎からレース用にフラッシュGTとテザラクトをプレゼントしてもらった。
+
+****[[きらりんぶい☆　なずぴ(10)]]（なずぴさん)
+-北署の副署長。IGLが分かりやすく、撃ち合いも強い。
+-よくサーマルの座学をしている。その度に電話してきてサーマルやろうと言われる。
+-バカ3人(二部、ブロッコリー、リオ)を提言した張本人。
+
+****[[伊勢　えびす]]（えびすさん）
+-IGLが上手くて撃ち合いも強い、頼りになる先輩。
+-プライベートでも仲が良く、二部らるたると３人でカジノへよく行く。
+-「褒められて照れるえびすさんは可愛い」と思っている。
+
+****[[もり　るんるん]]（るんるんさん）
+-南署の先輩、PYCでも働いていた。
+-白市民パスを発行してもらった。
+
+****[[安倍　霊明]]（霊明さん）
+-本署の先輩。陰陽師で｢あなや｣や｢六根清浄｣が口癖。
+-面白く黒白関係なく住民に親しまれ顔が広い。リオのことを犬だと思っている節がある。
+-ヘリも地上も事務もそつなくこなす。声がよく通り報告が綺麗。まとめ役もでき頼りになる存在。
+
+****[[レッサン　パンナ]]（レッサン）
+-いつも声をかけてくれる先輩。
+-イベントに誘ってくれたり、カジノチップをくれたり、食べ物をポケットに押し込まれたりする。
+-ヘリで伊勢えびすと連携をよくしている。
+
+****[[バーバリアン　田中]]（田中さん）
+-警察メインの砂漠署署長の先輩。
+-街のことならなんでも知っていると思っている。
+-口癖は「それは大変なことだよ」。みんなよく口にする。
+
+****[[夜若木　颯]]（よわきさん、つよきさん)
+-体験の頃から気にかけてくれる先輩。
+-運転も立ち回りも本当に上手い。
+-昇格のときには車をプレゼントしてくれた。誕生日にスパローをあげ、ヘリレースで1位目指してくださいと伝えた。
+
+****[[立花　乱歩]]（乱歩さん・乱歩先輩)
+-何かとちょっかいをかけにくる先輩。お迎えを頼まれることも。つよきさんに遊ばれているのを見かける。
+-事件対応やIGLで声がよく通る。
+-救急隊に似ている人がいて、たまに混乱する。
+
+****[[御庭野　えんちょう]]（えんちょうさん)
+-PYC(体験時)と警察の先輩。
+-穏やかで、優しい。いつも褒めてくれる。
+-ヘリも地上もそつなくこなす。
+
+#endregion(警察の先輩)
+//
+#region(警察の後輩)&b(){警察の後輩}
+****[[味野　環九郎]]（アジカンさん)
+-初めて出来た後輩。真面目。
+-味野が長時間勤務をすることを心配している。
+-パトカーに同乗し、共に対応へ行くこともある。
+
+****[[ぺん　ゆきや]]（ぺんぺん）
+-何かと構いたくなる後輩。からかったり、甘やかすことも多い。
+-問題児だが、そんなところも面白いと思っているし、心配もしている。
+-ロケランの弾をせがまれるので買い与える
+
+****[[紀伊路　つみき]]（つみきさん）
+-慕ってくれている後輩。
+-撃ち合いの秘訣や戦い方を尋ねられることが多い。
+-二部らるたるになんとなく似ている。
+-名前を高頻度で間違える。
+
+****[[胡　將]]　(胡將さん）
+-2月に入った新人。強くなりそうと思っている。
+-「エース先輩」と呼ばれている。
+-戦闘に対して通ずるものがあり、よく意見交換をしている。
+
+****[[真島　ルイ]]（真島さん・姐さん）
+-最近入った新人。警察のホープ。
+-最近大型でカバーが上手くなっていて褒めた。
+
+****[[悠　えん]]（悠えんさん)
+-6月に入った新人。とても真面目。
+-体験の頃から大型の座学やFBをもらいにきている。
+-教え甲斐のあるとても優秀な後輩。
+
+****[[こはる　はる]]（こはるさん)
+-6月に入った新人。撃ち合いが強い。
+-座学をしたり、遊びについて行ったりする。
+
+#endregion(警察の後輩)
+//
+***&font(#F00){&icon_fa(fa fa-heartbeat)} ロスサントス救急救命隊
+#region(開く)&b(){閉じる}
+****[[鬼桃　ぷぅ]]（ぷぅさん）
+-救急隊所属。最近警察に受かり後輩になった。
+-信号機したっぱトリオの一人。
+-ぷぅちゃんと呼ばないため、いつも「ぷぅちゃんだよ！」とツッコんでいる。
+
+****[[ノビー　ラング]]（ノビーさん)
+-救急隊所属。
+-歌がとても上手で、話も面白い。
+-マッスル治療という特殊な技術がある。
+
+****[[雷堂　ましろ]]（ましろ先生)
+-救急隊所属。
+-話を聞いてくれて、良き言葉をくれる。
+
+****[[神崎　治]]（おさむさん）
+-救急隊所属。
+-本当によく間違えて乱歩さんと呼ぶ相手。
+-なぜか乱歩のことをチクチク言うと攻撃的になってくる。
+
+****[[切間　てつお]]（てつおさん）
+-救急隊所属のイージスゼロ。ピンクの服装。
+-大型での救助が速くて鮮やかでかっこいい。
+
+****[[天羽　よつは]]（よつは先生）
+-救急隊所属、治の彼女。
+-大型でよく救助してもらい、送ってもらえる。
+-誕生日にフラッシュGTをおさよつカラーでプレゼント。
+
+****[[ブラック　ジャックス]]（ジャックスさん）
+-救急隊所属。
+-ゆちゃめろでぃと何かある人、よく事件現場に二人でいる。
+-おもしろい人。
+
+#endregion(ロスサントス救急救命隊)
+//
+***&font(#4f455c){&icon_fa(fa fa-user-secret)} 犯罪者
+#region(MOZU)&b(){MOZU}
+****[[三階堂　キミトス]]
+-逮捕した[[別の犯罪者>>ナタル　イルコフ]]に何度かキミトスと名乗られて疑わなかった。(のちにその犯罪者から別人であると種明かしされた)
+-その一件があり、キミトス本人を逮捕した際には何度も本人確認して戸惑われた。
+
+****[[タマーチ　ニキタ]]
+-よく暇電をかけてくる。警察署襲撃の際も気にかけて電話をしてきた。
+-何かと会いに来る。最近ストーカー気味。リオの小さな変化によく気づく。
+--リオ以外の警察の電話番号以外いらないと言うほど。
+-会った際必ず「いい匂いだね、くんくんくん」と言ってくる。
+
+#endregion(MOZU)
+//
+#region(餡ブレラ)&b(){餡ブレラ}
+****[[いわさき　そす]]
+-ブースティングでチェイスになることが多い。
+-捕まえると「また、犬上か！」と言われる。(打倒！犬上！らしい)
+-ギャングとしての厳しい態度と隙間からなんとなく見えるやさしさが尊敬ポイント。
+
+****[[酒槻　すん]]
+-コンビニ強盗にコンパクトカーで現れて、チェイス挑まれる。
+-電話で犯罪予告をしてきて、待っている時もある。
+-最近は大型で撃ち勝ち、護送の時に会うことが多く、お互い煽る。
+
+****[[伊達咲　政宗]]
+-大型現場での撃ち合いやチェイスを褒められる。
+-カニメイトで働いている。
+
+****[[ニャンコ・スキー]]
+-会うと「ニャンコスキー！」と挨拶をする。
+-警察署へ営業をするためにやってくる。
+
+****[[エスターク・Z・ダークネス>エスターク・Z・ダークネス]]
+-元ALLIN構成員。
+-ヘリの扱いが上手くいつも感心している。
+-レースでライバル視している。GotSpeedDarkness。
+-逮捕される度に体を痛めており、言い訳にしている。
+
+#endregion(餡ブレラ)
+//
+#region(Nolimit)&b(){Nolimit}
+
+****[[飯田　けんつ]]
+-TOPGEARの元ボス。
+-本署にTOPGEARの解散を伝えにきた。
+-現在は免許も取り、白市民パスを所持している白市民。
+--だったが、宝石店強盗をし再度黒市民に。
+-飯田書店の店長でにぶりお写真集の発案者。
+
+****[[半沢　直ふぃ]](ジョーカー)
+-Trickster元ボス。
+-コンビニ強盗やフリーカ銀行強盗の対応でよくチェイスをする。
+-高級住宅街のジャンプ台や街中チェイスが得意。
+-つい最近、ギャングを立てたと律儀に報告をしてきた。
+-アジトに快く招き入れてくれた。ボス用の椅子はちょっとダサい。
+
+
+#endregion(Nolimit)
+//
+#region(868)&b(){868}
+****[[ケイン／オー]]
+-元警察官。
+-罰金額が違うとすぐに指摘が入る。罰金については言い返しづらい。切りたくない一人。
+-逮捕後、北署の牢屋にてプリズンへ送る直前に押収し忘れの手錠をかけられた。
+
+****[[JD>J　D]]
+-小型犯罪や車両窃盗でチェイスになることが多い。
+-重窃盗もよくする。
+-口が立つ犯罪者なので逮捕後の留置場でやり込められないようにするのが大変。
+
+****[[ジョシュア・マーキル]]
+-ATM強盗の常習犯。チェイスが非常に上手い。
+-重窃盗をしてレースをしたり、よく分からない行動が多い。
+
+****[[魚参　屋]]
+-三角帽子を被り、たまにアヒルカーに乗っている姿をみかける。
+-傍目には犯罪者に見えないタイプ。
+-会うと体調を気遣われる。
+
+#endregion(868)
+//
+#region(hantasma)&b(){hantasma}
+****[[アドミゲス・ハン]]
+-hantasmaのボス。オモシロ ハン罪者。
+-何故か忠誠心を示しそうになるにおいがする。
+-街に導入されたアクティビティに誘ってくれたり、チェイスで指導を受けている。
+-車の扱いが警察の中で[[ミン　ドリー]]とならんで一番うまいと認められた。
+
+****[[エダ　ゴブレット]]
+-一度しかあったことのない人。本署に来た際に電話番号を交換した。
+-一度しか会ったことがないが許せず、捕まえたい、みつけたら倒すと豪語するほどの人。
+
+****[[畳　かえる]]
+-hantasmaの構成員。ファーマーと名乗る。
+-会った際に毎度「いつこちら側にきてくれるんですか」とhantasmaに勧誘されている。
+-歌が上手く大絶賛しており、ミュージックアプリで毎度聞いている。
+--1億払って簡易的なライブも開催してくれた。
+
+****[[ヘルアン]]
+-元ALLIN構成員。その後hantasmaに加入。
+-3時以降にパラシュート交流会やテキサスポーカー部を開催し、参加している。
+-コンビニ強盗でチェイスに負けた際に、奇抜な服の着用を求めてくる。（例：ギャラクシー)
+-警察官以外の友達として1番最初に名前が出るくらい友達だと思っている。
+-牢屋対応は必ずする。わざわざ拾いに行くほど。当の本人は嫌がっているふしあり。
+
+#endregion(hantasma)
+//
+#region(RqteL)&b(){RqteL}
+
+****[[みこだ　よう>神子田　頼]]
+-元警察、元Dogs隊員。元ALLIN構成員。
+-犯罪者にも関わらず警察体験時や警察署襲撃時にもメンケアをしに来たりと何かとお世話になっている。
+
+****[[五十嵐　えいむ]]
+-元ALLIN構成員。
+-元白い仮面。現在は青髪。
+-撃ち合いでの攻防が多い。
+
+****[[三島　みつー]]
+-信号機したっぱトリオの一人。
+-同時期に街へやってきた二部らるたるとなんとなく似ている。
+-所属していた[[組織>>TOPGEAR]]がなくなり心配をしていたが、楽しいと聞き安堵している。
+--3/23ALLIN解散と聞き、再度心配している。
+
+#endregion(RqteL)
+//
+#region(DERAY)&b(){DERAY}
+
+****[[小峯　玲]](ハイライト)
+-魔女の酒場で働いている。
+-よくコンビニ強盗やひとり軍事物資強盗を行う。
+-対応に来た警察官たちに食べ物や飲み物を配る。
+
+#endregion(DERAY)
+//
+#region(その他の犯罪者)&b(){その他の犯罪者}
+****[[Mon　D]]
+-ALLINボス。撃ち合いが強い。
+-一度車をぶつけてしまい、100億を請求された。
+-サッカーボールにされる、装甲車で追いかけられる、ALLINアジトまで誘拐をされたことがある。
+
+****[[ひの　らん]]（ひのらんさん）
+-元警察。退職後に闇堕ちした。
+-闇堕ちした日の客船で血痕を発見した。
+
+#endregion(その他の犯罪者)
+//
+***&font(#3EB370){&icon_fa(fa fa-female)} 市民
+#region(開く)&b(){閉じる}
+****[[ねずみさん>えぐち　きの子]]
+-JTSで働いているメカニック。
+-カスタムは必ずお願いしている。
+
+****[[ルウ　ギャラクティカ]]（ルウさん)
+-PYC元社長。メカニック体験時の上司。
+-パトカーの修理にPYCをよく利用する。
+-警察官として活躍していることを喜んでくれている。
+
+****[[パキ　ち]]
+-PYC体験時の先輩。見かけると声をかけてくれる。
+-警察署近くのパキッちン(パキち経営)に食べ物や飲み物をよく買いに行く。
+
+****[[マカイーノ　アッコパス]]
+-奇肉屋店長。
+-リクエストしたカツ丼(ドン勝)をメニューに加えてくれた。
+
+****[[まい　にい]]
+-謎電話が時折かかってきて長話をする。謎行動もよく見かける。
+-暇なときはダル絡みされることもある。
+-帰国が近いため、ALLINを脱退し白市民生活をしている。
+
+****[[須藤　冬馬]]
+-9055の社員。レースレートランキング3位。
+-車の流行りや正解に近いカスタムなど教えてくれる。レースはとても速い。
+-レースを通して親交が深まり、今ではレースでお互い煽っては褒めてをしている。
+
+#endregion(市民)
+#right(){&link_up(🔝ページTOPへ)}
+//
+*&font(25px,#ff8f66){エ}ピソード &icon_fa(fa fa-book)
+&font(12px,b,#000){※ アーカイブはサブスクライバー限定となっています。}
+
+#region(Season2,open)Season2
+***2025年
+#region(開く,close)&b(){閉じる}
+#include(犬上　リオ/エピソード2025年-12)
+#endregion(2025年)
+#endregion(Season2)
+
+#region(Season1,close)Season1
+***2024年
+#region(開く)
+#include(犬上　リオ/エピソード2024)
+#endregion(2024年)
+***2025年
+#region(開く,close)&b(){閉じる}
+#include(犬上　リオ/エピソード2025年-1)
+#include(犬上　リオ/エピソード2025年-2)
+#include(犬上　リオ/エピソード2025年-3)
+#include(犬上　リオ/エピソード2025年-4)
+#include(犬上　リオ/エピソード2025年-5)
+#include(犬上　リオ/エピソード2025年-6)
+#include(犬上　リオ/エピソード2025年-7)
+#include(犬上　リオ/エピソード2025年-8)
+#include(犬上　リオ/エピソード2025年-9)
+
+#endregion(2025年)
+#endregion(Season1)
+
+&small(){編集ページ}
+&small(){[[2024年(S1)>>犬上　リオ/エピソード2024]]}
+&small(){2025年(S1)：[[1月>>犬上　リオ/エピソード2025年-1]]/[[2月>>犬上　リオ/エピソード2025年-2]]/[[3月>>犬上　リオ/エピソード2025年-3]]/[[4月>>犬上　リオ/エピソード2025年-4]]/[[5月>>犬上　リオ/エピソード2025年-5]]/[[6月>>犬上　リオ/エピソード2025年-6]]/[[7月>>犬上　リオ/エピソード2025年-7]]/[[8月>>犬上　リオ/エピソード2025年-8]]/[[9月>>犬上　リオ/エピソード2025年-9]]}
+&small(){2025年(S2)：[[12月>>犬上　リオ/エピソード2025年-12]]}
+#right(){&link_up(🔝ページTOPへ)}
+*&font(25px,#ff8f66){ア}ーカイブ &icon_fa(fa fa-twitch)
+&font(12px,b,#000){アーカイブはサブスクライバー限・メンバー限&small(){&infobox(title=*注,gravity=south){Season2から同時配信開始}}となっています。}
+
+#region(Season2,open)Season2
+***2025年12月
+#region(開く)&b(){閉じる}
+#table_style(head=center:#ff3333:#fff){配信日=right,#=center,YouTubeアーカイブ=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|12/19|1|[[【#ストグラ】ストグラseason2 犬上リオ1日目>>https://www.twitch.tv/videos/2647678935]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=7KD7uNybTLo]]|Season2初日|
+|12/24|2|[[【ストグラ】ストグラseason2 犬上リオ2日目>>https://www.twitch.tv/videos/2651850723]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=nzKVeXEIJcA]]||
+|12/25|3|[[【ストグラ】犬上リオ 3日目>>https://www.twitch.tv/videos/2652587817]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=T8oR9ZDuuMo]]||
+|12/28|4|[[【ストグラ】犬上リオ 4日目>>https://www.twitch.tv/videos/2654169325]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=XJLW5IcMb5s]]||
+|12/29|5|[[【ストグラ】犬上リオ 5日目>>https://www.twitch.tv/videos/2655015762]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=Eab0XSOCDnY]]||
+|12/31|6|[[【ストグラ】犬上リオ 6日目 2025年感謝！また来年もよろしくお願いします！>>https://www.twitch.tv/videos/2657539705]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=tjAWjDsqWRU]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2025年12月)
+
+***2026年
+#region(開く,open)&b(){閉じる}
+#region(01月,close)&bold(){01月}
+#table_style(head=center:#ff3333:#fff){配信日=right,#=center,YouTubeアーカイブ=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|01/03|7|[[【ストグラ】正月！ 犬上リオ 7日目>>https://www.twitch.tv/videos/2659963004]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://youtube.com/watch?v=wLprUbaawoI]]||
+|01/10|8|[[【#ストグラ】 犬上リオ 8日目>>https://www.twitch.tv/videos/2666129572]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://youtube.com/watch?v=S5s0O1w45Yw]]||
+|01/11|9|[[【ストグラ】犬上リオ 9日目>>https://www.twitch.tv/videos/2667115455]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=NzcgPxekcgM]]||
+|01/15|10|[[【ストグラ】犬上リオ 10日目>>https://www.twitch.tv/videos/2670564068]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=QAqVEZbtTT0]]||
+|01/16|11|[[【ストグラ】犬上リオ 11日目>>https://www.twitch.tv/videos/2671451910]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=2iO1MXpz63w]]||
+|01/18|12|[[【ストグラ】犬上リオ 12日目>>https://www.twitch.tv/videos/2673378225]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=w_RBIBxNT0Q]]||
+|01/22|13|[[【ストグラ】犬上リオ 13日目>>https://www.twitch.tv/videos/2676871995]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=4rV2TbQWyu8]]||
+|01/24|14|[[【ストグラ】犬上リオ 14日目>>https://www.twitch.tv/videos/2678748172]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=EHP0wQo8EMo]]||
+|01/28|15|[[【ストグラ】犬上リオ 15日目>>https://www.twitch.tv/videos/2682465325]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=1vUr3wEetIo]]||
+|01/31|16|[[【ストグラ】犬上リオ 16日目>>https://www.twitch.tv/videos/2685165020]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=bXZNIQE1nMo]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(01月)
+#region(02月,close)&bold(){02月}
+#table_style(head=center:#ff3333:#fff){配信日=right,#=center,YouTubeアーカイブ=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|02/01|17|[[【ストグラ】犬上リオ 17日目 おそよう～>>https://www.twitch.tv/videos/2686234029]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=r0w3JL1JbF8]]||
+|02/05|18|[[【ストグラ】犬上リオ 18日目>>https://www.twitch.tv/videos/2689602248]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=QZeAmX52Z30]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(02月)
+#region(03月,close)&bold(){03月}
+#table_style(head=center:#ff3333:#fff){配信日=right,#=center,YouTubeアーカイブ=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|03/05|19|[[【#ストグラ】 犬上リオ 19日目 今日から警察>>https://www.twitch.tv/videos/2714347483]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=j_lHvzbUVVI]]||
+|03/08|20|[[【#ストグラ】 犬上リオ 20日目>>https://www.twitch.tv/videos/2717033234]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=ZLQ8iSvoeCI]]||
+|03/11|21|[[【#ストグラ】 犬上リオ 21日目>>https://www.twitch.tv/videos/2719487053]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=jBdywb8AtaY]]||
+|03/12|22|[[【#ストグラ】 犬上リオ 22日目>>https://www.twitch.tv/videos/2720331440]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=FFsDsXHlRJk]]||
+|03/13|23|[[【#ストグラ】 犬上リオ 23日目>>https://www.twitch.tv/videos/2721147624?t=02h19m42s]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/live/wUkMVTSn_y4?t=8236]]|配信時間2時間20分～ストグラ|
+|03/14|24|[[【#ストグラ】 犬上リオ 24日目 でかい犯罪がくるらしい。>>https://www.twitch.tv/videos/2722051615]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=v_F_s3hBeYQ]]||
+|03/15|25|[[【#ストグラ】 犬上リオ 25日目>>https://www.twitch.tv/videos/2722916535?t=02h22m30s]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/live/shK84yPPExQ?t=8550]]|配信時間2時間22分～ストグラ|
+|03/18|26|[[【#ストグラ】 犬上リオ 26日目>>https://www.twitch.tv/videos/2725414726]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=TpE8jUzACYI]]||
+|03/19|27|[[【#ストグラ】 犬上リオ 27日目>>https://www.twitch.tv/videos/2726238560]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=E69v3Nb4gDE]]||
+|03/20|28|[[【#ストグラ】 犬上リオ 28日目>>https://www.twitch.tv/videos/2727083976]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=p7K_Hvp7JDQ]]||
+|03/22|29|[[【#ストグラ】 犬上リオ 29日目>>https://www.twitch.tv/videos/2728854903]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=Ct3uUpxXNZw]]||
+|03/25|30|[[【#ストグラ】 犬上リオ 30日目>>https://www.twitch.tv/videos/2731308571]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=lznUAI-xwgs]]||
+|03/26|31|[[【#ストグラ】 犬上リオ 31日目>>https://www.twitch.tv/videos/2732124598]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=6lKn8n13-d8]]||
+|03/28|32|[[【#ストグラ】 犬上リオ 32日目>>https://www.twitch.tv/videos/2733789134]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=hEgkBrHCz24]]||
+|03/29|33|[[【#ストグラ】 犬上リオ 33日目>>https://www.twitch.tv/videos/2734684319]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=59LrGxt3LFA]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(03月)
+#region(04月,close)&bold(){04月}
+#table_style(head=center:#ff3333:#fff){配信日=right,#=center,YouTubeアーカイブ=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|04/02|34|[[【#ストグラ】 犬上リオ 34日目>>https://www.twitch.tv/videos/2737965939]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=rTCSKLdtjZI]]||
+|04/03|35|[[【#ストグラ】 犬上リオ 35日目>>https://www.twitch.tv/videos/2738808493]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=4goBRtgs31A]]||
+|04/04|36|[[【#ストグラ】 犬上リオ 36日目>>https://www.twitch.tv/videos/2739668611]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=o_fMOK4GxHE]]||
+|04/08|37|[[【#ストグラ】 犬上リオ 37日目>>https://www.twitch.tv/videos/2742890126?t=02h52m32s]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=F4y2-2iRWbI]]||
+|04/22|38|[[【#ストグラ】 犬上リオ 38日目 久々の警察>>https://www.twitch.tv/videos/2754232545]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=11UQyBw8138]]||
+|04/24|39|[[【#ストグラ】 犬上リオ 39日目 警察！>>https://www.twitch.tv/videos/2755822204]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=4qdnPwCZy94]]||
+|04/25|40|[[【#ストグラ】 犬上リオ 40日目 警察！>>https://www.twitch.tv/videos/2756654305]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=6iGDVRxVL7M]]||
+|04/26|41|[[【#ストグラ】 犬上リオ 41日目>>https://www.twitch.tv/videos/2757487418]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=RHElFRHbf8k]]||
+|04/29|42|[[【#ストグラ】 犬上リオ 42日目>>https://www.twitch.tv/videos/2759846448]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=uiH8kROkA2o]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(05月)
+#region(05月,close)&bold(){05月}
+#table_style(head=center:#ff3333:#fff){配信日=right,#=center,YouTubeアーカイブ=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|05/02|43|[[【#ストグラ】 犬上リオ 43日目>>https://www.twitch.tv/videos/2762332044]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=fWRC_Nyv2AU]]||
+|05/06|44|[[【#ストグラ】 犬上リオ 44日目>>https://www.twitch.tv/videos/2765459761]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=JyY8Llz1Lkc]]||
+|05/07|45|[[【#ストグラ】 犬上リオ 45日目>>https://www.twitch.tv/videos/2766241573]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=TIk0ubD5T6s]]||
+|05/08|46|[[【#ストグラ】 犬上リオ 46日目>>https://www.twitch.tv/videos/2767016229]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=WRQ1XeS-9ww]]||
+|05/10|47|[[【#ストグラ】 犬上リオ 47日目>>https://www.twitch.tv/videos/2768657755]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=2lAX8KcJjGQ]]||
+|05/14|48|[[【#ストグラ】 犬上リオ 48日目>>https://www.twitch.tv/videos/2771693573]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=A4X7eEbzQNo]]||
+|05/17|49|[[【#ストグラ】 犬上リオ 49日目>>https://www.twitch.tv/videos/2774187955]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=VZ7P7366Dmo]]||
+|05/20|50|[[【#ストグラ】 犬上リオ 50日目>>https://www.twitch.tv/videos/2776510906]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=fq-QgPayYQ4]]||
+|05/21|51|[[【#ストグラ】 犬上リオ 51日目>>https://www.twitch.tv/videos/2777298735]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=2LIylEay7JQ]]||
+|05/24|52|[[【#ストグラ】 犬上リオ 52日目>>https://www.twitch.tv/videos/2779714115]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=V1nHZWd5pOQ]]||
+|05/27|53|[[【#ストグラ】 犬上リオ 53日目>>https://www.twitch.tv/videos/2782072640]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=u8NR3WyTP20]]||
+|05/30|54|[[【#ストグラ】 犬上リオ 54日目>>https://www.twitch.tv/videos/2784443344]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=uSB8rZ7_mZQ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(05月)
+#region(06月,close)&bold(){06月}
+#table_style(head=center:#ff3333:#fff){配信日=right,#=center,YouTubeアーカイブ=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|06/03|55|[[【#ストグラ】 犬上リオ 55日目>>https://www.twitch.tv/videos/2787568037]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=qqOoOqMf9qA]]||
+|06/04|56|[[【#ストグラ】 犬上リオ 56日目>>https://www.twitch.tv/videos/2788366491]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=T0v7YCuKUkQ]]||
+|06/07|57|[[【#ストグラ】 犬上リオ 57日目>>https://www.twitch.tv/videos/2790861962]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=VZmtmLYy_r8]]||
+|06/10|58|[[【#ストグラ】 犬上リオ 58日目>>https://www.twitch.tv/videos/2793233665]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=jeEswJWviXM]]||
+|06/12|59|[[【#ストグラ】 犬上リオ 59日目>>https://www.twitch.tv/videos/2794812288]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=LR4SIvJeSHQ]]||
+|06/14|60|[[【#ストグラ】 犬上リオ 60日目>>https://www.twitch.tv/videos/2796414662]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=DtEZ4Yedn9c]]||
+|06/17|61|[[【#ストグラ】 犬上リオ 61日目>>https://www.twitch.tv/videos/2798768393]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=kNTEfV5MYLg]]||
+|06/19|62|[[【#ストグラ】 犬上リオ 62日目>>https://www.twitch.tv/videos/2800341081]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=sxA1PRPqf6c]]||
+|06/20|63|[[【#ストグラ】 犬上リオ 63日目>>https://www.twitch.tv/videos/2801148293]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=wavJZ9Y1y_o]]||
+|06/21|64|[[【#ストグラ】 犬上リオ 64日目>>https://www.twitch.tv/videos/2801939061]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=debJ7t44V50]]||
+|06/24|65|[[【#ストグラ】 犬上リオ 65日目>>https://www.twitch.tv/videos/2804290209]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=9lmsLe5UHxA]]||
+|06/25|66|[[【#ストグラ】 犬上リオ 66日目>>https://www.twitch.tv/videos/2804993377]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=TJYOMeXMcJ4]]||
+|06/26|67|[[【#ストグラ】 犬上リオ 67日目>>https://www.twitch.tv/videos/2807333968]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=1hh54jQI-VA]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(06月)
+#region(07月,close)&bold(){07月}
+#table_style(head=center:#ff3333:#fff){配信日=right,#=center,YouTubeアーカイブ=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|07/01|68|[[【#ストグラ】 犬上リオ 68日目>>https://www.twitch.tv/videos/2809607908]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=Efh4dyuLDAU]]||
+|07/04|69|[[【#ストグラ】 犬上リオ 69日目>>https://www.twitch.tv/videos/2811959729]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=WM39b3ffhzo]]||
+|07/10|70|[[【#ストグラ】 犬上リオ 70日目>>https://www.twitch.tv/videos/2816534459]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=h-FhCguK0zI]]||
+|07/11|71|[[【#ストグラ】 犬上リオ 71日目>>https://www.twitch.tv/videos/2817396183]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=CujBn9MK1vY]]||
+|07/12|72|[[【#ストグラ】 犬上リオ 72日目>>https://www.twitch.tv/videos/2818177819]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=05_PUGjxeMI]]||
+|07/15|73|[[【#ストグラ】 犬上リオ 73日目>>https://www.twitch.tv/videos/2820534149]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=xp0jNNzjRpE]]||
+|07/17|74|[[【#ストグラ】 犬上リオ 74日目>>https://www.twitch.tv/videos/2822122788]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=LV21iHoc4X0]]||
+|07/23|75|[[【#ストグラ】 犬上リオ 75日目>>https://www.twitch.tv/videos/2826136824]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=Xx1AO-EsXvg]]||
+|07/24|76|[[【#ストグラ】 犬上リオ 76日目>>https://www.twitch.tv/videos/2827779341]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=6wMylKvmhZU]]||
+|07/29|77|[[【#ストグラ】 犬上リオ 77日目 おひさ！>>https://www.twitch.tv/videos/2831871086]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=LVHe51ZLPyQ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(07月)
+#region(08月,close)&bold(){08月}
+#table_style(head=center:#ff3333:#fff){配信日=right,#=center,YouTubeアーカイブ=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|08/02|78|[[【#ストグラ】 犬上リオ 78日目>>https://www.twitch.tv/videos/2835265231]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=6J7NImHXE3Y]]||
+|08/06|79|[[【#ストグラ】 犬上リオ 79日目>>https://www.twitch.tv/videos/2838734789]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=A-fQ8DZDsA8]]||
+|08/19|80|[[【#ストグラ】 犬上リオ 80日目>>https://www.twitch.tv/videos/2850465795]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=JC2WZjwB5RI]]||
+|08/22|81|[[【#ストグラ】 犬上リオ 81日目>>https://www.twitch.tv/videos/2853237992]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=R-zGh9AA1uI]]||
+|08/23|82|[[【#ストグラ】 犬上リオ 82日目>>https://www.twitch.tv/videos/2854230007]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=D1MBU4CfyWg]]||
+|08/23|83|[[【#ストグラ】 犬上リオ 83日目>>https://www.twitch.tv/videos/2856882719]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=jUTwhatiOsY]]||
+|08/28|84|[[【#ストグラ】 犬上リオ 84日目>>https://www.twitch.tv/videos/2858668283]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=T0CYebZD0Ig]]||
+|08/30|85|[[【#ストグラ】 犬上リオ 85日目>>https://www.twitch.tv/videos/2860585687]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=7DR9PWHiDxI]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(08月)
+#region(09月,open)&bold(){09月}
+#table_style(head=center:#ff3333:#fff){配信日=right,#=center,YouTubeアーカイブ=center}
+|~配信日|~#|~配信タイトル|~YouTubeアーカイブ|~備考|h
+|09/03|86|[[【#ストグラ】 犬上リオ 86日目>>https://www.twitch.tv/videos/2864083263]]|[[&font(#FF0000){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=dxAx8paVFH0]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(09月)
+#endregion(2026年)
+#endregion(Season2)
+
+#region(Season1,close)Season1
+***2024年
+#region(開く)&b(){閉じる}
+#include(犬上　リオ/アーカイブ2024)
+#endregion(2024年)
+***2025年
+#region(開く)&b(){閉じる}
+#include(犬上　リオ/アーカイブ2025)
+#endregion(2025年)
+#endregion
+
+&small(){編集ページ：[[2024年>>犬上　リオ/アーカイブ2024]] ／ [[2025年（S1）>>犬上　リオ/アーカイブ2025]] }
+
+#right(){&link_up(🔝ページTOPへ)}
+*&font(25px,#ff8f66){動}画 &icon_fa(fa-brands fa-youtube)
+**ストグラ切り抜き
+#region(Season2,open)Season2
+***2025年12月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|12/28|[[遂に始まったストグラSeason2！転送失敗に医療ミスでバタバタな初日>>https://www.youtube.com/watch?v=M2zE4f3FXeM]]||
+|12/31|[[ピンクギャングの中でも大丈夫な方に町ブラしてたら出会う>>https://www.youtube.com/watch?v=zmWMTtf0zsY]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){start=1,label=#}
+#endregion(2025年12月)
+***2026年
+#region(開く,open)&b(){閉じる}
+#region(01月,close)&bold(){01月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|01/02|[[起きて早々あることで夏苗さんに怒られる>>https://youtube.com/watch?v=FlCTpc7LgRs]]||
+|01/05|[[前の町でクビになったが新しい町で警察になりたい犬ルリ>>https://youtube.com/watch?v=4dL0rAn-V9s]]||
+|01/07|[[ハンバーガーの被り物をした最強の男が暴れすぎて困る警察>>https://youtube.com/watch?v=odORW3b9ZyU]]||
+|01/08|[[堕夜だよとMonDの件について市長を含めて話し合う警察>>https://www.youtube.com/watch?v=0Y2pefvYFRQ]]||
+|01/12|[[コナン級のミステリー!?コンビニ強盗の真犯人とは>>https://www.youtube.com/watch?v=ERZUvHsJxA0]]||
+|01/19|[[最強の犯罪者にまたもや瞬殺される犬上リオ>>https://www.youtube.com/watch?v=a_i4Vq20Ixw]]||
+|01/25|[[最悪な相手と衝突事故をし高額請求される犬上リオ>>https://www.youtube.com/watch?v=gR0aCiDhyHk]]||
+|01/27|[[Dogsに入隊したいぷちおに過酷な面接をする>>https://www.youtube.com/watch?v=NOeStDANuEk]]||
+|01/31|[[犯罪者と一触即発！？容赦なくテーザーを撃ち過ぎる犬上リオ>>https://www.youtube.com/watch?v=u7XFcj2ehCg]]||
+#table_autoincrement(){label=#, start=3}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(02月)
+#region(02月,close)&bold(){02月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|02/02|[[警察の潜入捜査のタレコミをした犯人とは>>https://www.youtube.com/watch?v=845YQ34gyTw]]||
+|02/03|[[解放条件で好きな女性のタイプを言い続けていたら暴走するボイラ>>https://www.youtube.com/watch?v=eSv3720FCyM]]||
+|02/10|[[久しぶりに起きてきた人にノンデリすぎる警察の男たち>>https://www.youtube.com/watch?v=-vZVuYCQ_Bc]]||
+#table_autoincrement(){label=#, start=12}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(02月)
+#region(03月,close)&bold(){03月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|03/09|[[約1ヶ月夢の世界で楽しんでいたら警察が4人クビになっていた>>https://www.youtube.com/watch?v=2Y3UDh2id-k]]||
+|03/12|[[とある理由で妨害という名の横取りをする妨害王>>https://www.youtube.com/watch?v=l_mRozNUBdU]]||
+|03/16|[[遂にギャングに！？暇しすぎている五十嵐えいむにギャングに誘われる>>https://www.youtube.com/watch?v=cPpvfCDdbdE]]||
+|03/18|[[同僚の二部が女連れで誰かと思ったらイナイロハでがっかりする>>https://www.youtube.com/watch?v=-hpHeyx7VN4]]||
+|03/20|[[警察署内でごねる犯人と言い争いをし犯人から●害予告を受ける>>https://www.youtube.com/watch?v=uUeHn_4KdUc]]||
+|03/25|[[警察に帰ってくるために体験を受ける犬ルリの強すぎるパンチライン>>https://www.youtube.com/watch?v=UmLybKfsx4Y]]||
+|03/27|[[餡ブレラ復活！？赤いスーツを着た謎の5人がいると報告のすぐ後にウェスカーと遭遇する>>https://www.youtube.com/watch?v=PDRs1qAQelA]]||
+|03/28|[[868の犯罪対応のはずが登場人物が色んな意味でほぼ警察>>https://www.youtube.com/watch?v=m63Gngsodv0]]||
+|03/31|[[ノーリミット構成員も警察も困る元ボスシャンクズの扱い方>>https://www.youtube.com/watch?v=FEYrnzLQ_VY]]||
+#table_autoincrement(){label=#, start=15}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(03月)
+#region(04月,close)&bold(){04月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|04/02|[[四皇シャンクズの警察体験について犬上リオの心配事や思うこと>>https://www.youtube.com/watch?v=-mzi-X8U1bY]]||
+|04/05|[[シャンクズの体験や今後の対応について夏苗の意見が気になる>>https://www.youtube.com/watch?v=fx2AxW7EpmA]]||
+|04/06|[[いつか起こるであろうイベントのための大切なアイデンティティ>>https://www.youtube.com/watch?v=wnt7P1Xip5s]]||
+|04/09|[[約2か月ぶりに会った夏苗に翻弄される>>https://www.youtube.com/watch?v=Urtfbb2RQMI]]||
+|04/11|[[女性関係の記憶がないはずのボイラのこいてたら捨てられた話>>https://www.youtube.com/watch?v=i5TPsuOXDLc]]||
+|04/25|[[四角い町に行っている間にあの警察官が辞めていた>>https://www.youtube.com/watch?v=v09tjXjxTgc]]||
+|04/27|[[同僚が風呂キャン1週間と聞いてガチでドン引く>>https://www.youtube.com/watch?v=RSfmfJF2tQM]]||
+|04/29|[[捜査に関して市長から警察へ空気を読めのお達し>>https://www.youtube.com/watch?v=eref5IBX3MY]]||
+#table_autoincrement(){label=#, start=24}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(04月)
+#region(05月,close)&bold(){05月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|05/02|[[じっくりコトコトの一件があったのに闇医者が見つかり戸惑う警察>>https://www.youtube.com/watch?v=z7NX77faC2A]]||
+|05/05|[[がみとも先生の医者か怪しいほど慣れていない手術に困惑し怯える犯人>>https://www.youtube.com/watch?v=7sA8GEcJWy8]]||
+|05/08|[[ラーメンの話を一生してくれる一家に一台欲しい便利なコーラボーイ>>https://www.youtube.com/watch?v=V8YljMN3Zoo]]||
+|05/11|[[逃走補助についてこの街の法律の穴に驚愕する>>https://www.youtube.com/watch?v=ZvVVNs06PIQ]]||
+|05/13|[[たまたま1v4したらずっと喧嘩する犯人たち>>https://www.youtube.com/watch?v=llO_ggKz2no]]||
+|05/16|[[脱走できなくてトイレに隠れたり逃げ回るMonD>>https://www.youtube.com/watch?v=KwnSXS1xGFA]]||
+|05/20|[[ダウナー限定の川上タバコ店でダウナーになりきれない>>https://www.youtube.com/watch?v=RWOL9CPh6YI]]||
+|05/23|[[警察署襲撃やエグ目のセクハラでボイラの復職が絶望的に>>https://www.youtube.com/watch?v=FM4FvQ29N1o]]||
+|05/25|[[夏苗と職質に行ったらハプニングが起こったり物騒な街になる>>https://www.youtube.com/watch?v=_fojlTXTeNw]]||
+|05/27|[[プレミア狩りで起こった何も言えない犯人たちの不満>>https://www.youtube.com/watch?v=eMSPlSKHeVo]]||
+|05/29|[[推し犬総選挙でガチすぎてポメラニアンの悪魔になる>>https://www.youtube.com/watch?v=UJPLJjFV_nc]]||
+|05/31|[[1億使った推し犬総選挙結果発表でここ最近で１番緊張する>>https://www.youtube.com/watch?v=YFXRWuTZJFc]]||
+#table_autoincrement(){label=#, start=32}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(05月)
+#region(06月,close)&bold(){06月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|06/02|[[以前夏苗から靴を履けと言われ怒られる前に靴を履く>>https://www.youtube.com/watch?v=x-lR4sUxZEc]]||
+|06/05|[[指名手配犯のゴネに口プが苦手すぎて仲間に救われる>>https://www.youtube.com/watch?v=E_xGs3SIQp0]]||
+|06/08|[[人質ザウルスの絶滅の日に訴えられないかビビりまくる>>https://www.youtube.com/watch?v=jcodhuHIw9w]]||
+|06/10|[[復職した熱血しょうじに通りがかるバァバお気持ちが来る犯人、犯罪現場がカオスになる>>https://www.youtube.com/watch?v=_cfTkusUbu4]]||
+|06/13|[[ブロッコリー斎藤の復職が嬉しすぎて絡みまくる>>https://www.youtube.com/watch?v=hUjOPRmnOHI]]||
+|06/16|[[ポメラニアンの悪魔に次ぐ新しい異名レッドデビル>>https://www.youtube.com/watch?v=6-pVNf1OO6c]]||
+|06/19|[[ボイラと名乗り真似をするやけに警察に詳しい犯人>>https://www.youtube.com/watch?v=YXbiCkplQJQ]]||
+|06/22|[[犯人の技術が上がり悩む車の性能とチェイスの難しさ>>https://www.youtube.com/watch?v=Ts63Re1SeeE]]||
+|06/24|[[渾身のトラウマ話を披露し思い出して気持ち悪くなる>>https://www.youtube.com/watch?v=rYMS_XEwPO0]]||
+|06/26|[[神と名乗る者の即発砲により再びアパート前が戦場となる>>https://www.youtube.com/watch?v=AogdFbWxJJw]]||
+|06/28|[[警察バイク実装初日チェイスで股間を強打しダウンしまくる>>https://www.youtube.com/watch?v=ZVORYEoUSZM]]||
+#table_autoincrement(){label=#, start=44}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(06月)
+#region(07月,close)&bold(){07月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|07/01|[[署長と同い年だと発覚したり年齢の話で盛り上がる>>https://www.youtube.com/watch?v=5vH_gTK8-_4]]||
+|07/03|[[犯罪者らしくはないこの街屈指の不憫属性>>https://www.youtube.com/watch?v=wi2vh9uSu9c]]||
+|07/07|[[まさかのレアキャラ無馬かなに初めて会う>>https://www.youtube.com/watch?v=Bx05EmGkY9k]]||
+|07/10|[[空気を読みすぎた結果犯人見逃しでガチ懺悔>>https://www.youtube.com/watch?v=yMOXjn7bSGg]]||
+|07/13|[[ついに黒の道へ!?思わぬ事件でプリズン送りへ>>https://www.youtube.com/watch?v=BBkKkdqJxSI]]||
+|07/14|[[苦情の電話も来るそれぞれの癖が強い偽物たち>>https://www.youtube.com/watch?v=iXwY0GTBmgU]]||
+|07/18|[[久しぶり起きた犬ルリと犬同士のじゃれ合い>>https://www.youtube.com/watch?v=GZ4c2tAe9O8]]||
+|07/20|[[1億払った推し犬総選挙の商品が可愛すぎて大興奮>>https://www.youtube.com/watch?v=U7qRgRSFMIk]]||
+|07/22|[[この男がいるとシリアスが成立しない>>https://www.youtube.com/watch?v=kEVBhz1jgEo]]||
+|07/25|[[犯人に言われた一言が効きすぎてガチギレする>>https://www.youtube.com/watch?v=BgEtCHeinKA]]||
+|07/28|[[ブロッコリー斎藤に激似な性別不詳の警察体験に全員困惑>>https://www.youtube.com/watch?v=ndzsmH8oI6c]]||
+|07/31|[[紀伊路つみきの復帰に喜びが止まらない>>https://www.youtube.com/watch?v=k4EOYijv_8I]]||
+#table_autoincrement(){label=#, start=55}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(07月)
+#region(08月,open)&bold(){08月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|08/03|[[ついに本音が明らかに！？最近起きない理由とは>>https://www.youtube.com/watch?v=whFuCpVO2sU]]||
+|08/07|[[警察の懐かしい話に思わず本音が漏れる>>https://www.youtube.com/watch?v=cHMWP5sYKio]]||
+|08/18|[[あまりのネットリテラシーの低さに衝撃を受ける>>https://www.youtube.com/watch?v=4tsA3WaHAcA]]||
+|08/21|[[最近黒になった元警察のゆるい闇落ち理由>>https://www.youtube.com/watch?v=BaK7ijuAkWA]]||
+|08/25|[[警察にも共有できない！？無馬かなから聞く難しい話>>https://www.youtube.com/watch?v=Hkh5nt7QrkI]]||
+|08/28|[[小峯玲から情報を聞き出そうとしたら露骨すぎてすぐバレる>>https://www.youtube.com/watch?v=3CTE8BREOu8]]||
+|08/31|[[理解しようとはした３バカによる考察チャンネル>>https://www.youtube.com/watch?v=D1FO0fXOf3k]]||
+#table_autoincrement(){label=#, start=67}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(08月)
+#endregion(2026年)
+#endregion(Season2)
+
+#region(Season1,close)Season1
+***2024年
+#region(開く)&b(){閉じる}
+#region(12月,open)&bold(){12月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|12/22|[[証拠は揃ってるんだ！冷静に高橋滅論を追い詰めるさぶ郎警部すごすぎ！！！>>https://www.youtube.com/watch?v=D1ovY_jrTcs]]&br()|12/17イベントテロ罪取り調べ|
+|12/28|[[警察陣がギャングになって大暴れ！天才的ルートで完璧に警察を撒く！！！！>>https://www.youtube.com/watch?v=dJk6-4FaoR4]]&br()|12/23ストグラFVギャング|
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(12月)
+#endregion(2024年)
+//
+***2025年
+#region(開く,open)&b(){閉じる}
+#region(01月)&bold(){01月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|01/05|[[謎の恋愛アドバイザーにそそのかされて、ブロッコリー斎藤がナデシコ警官をナンパした結果ｗｗ>>https://www.youtube.com/watch?v=dwhFtKSiwNo]]&br()|2024/12/31警察|
+|01/12|[[クリスティーヌとアジカンの仲を進展させようと一肌脱ぐブロッコリーｗｗｗ>>https://youtu.be/Go9NzEPOtH8?si=scvPWwQK_gdiGm7F]]&br()|2025/01/01警察|
+#table_autoincrement(){label=#, start=3}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(01月)
+#region(02月)&bold(){02月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|02/05|[[868が警察に!?タラちゃん主犯のパレットがやばすぎたｗｗ>>https://youtu.be/kAb5dhq2k3Q?si=llWpmXhU1Lsegvzd]]&br()|2025/01/28警察|
+|02/23|[[大金飛び交うオークションがやばすぎたｗｗｗ>https://youtu.be/QWbOfwLszb0si=llWpmXhU1Lsegvzd]]&br()|2025/02/02警察|
+//|mm/dd|[[動画タイトル>>ここに動画URLを入力]]||
+#table_autoincrement(){label=#, start=5}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(02月)
+#region(04月)&bold(){04月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|04/10|[[エイプリルフールでシリアス!?犯人探しがすごすぎたｗｗ>>https://youtu.be/mMqmHMUDmGc]]&br()|2025/04/01シャッフルパージデーギャング|
+#table_autoincrement(){label=#, start=7}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(04月)
+#region(09月,open)&bold(){09月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|09/13|[[1日でレベル3に挑戦！？街の危機を救うためE5最高難易度へ挑戦する>>https://youtu.be/rpHIfrDYB-c?si=ugjKo2tOHUCIj0ab]]&br()||
+#table_autoincrement(){label=#, start=8}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(09月)
+#endregion(2025年)
+#endregion(Season1)
+
+**YouTubeショート動画
+#region(Season2,open)Season2
+***2025年12月
+#region(開く)&b(){閉じる}
+#table_style(head=center:#ff3333:#fff){#=center,投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|12/28|[[転送失敗！？？？>>https://www.youtube.com/shorts/AdX2pUqQbM0]]||
+|12/31|[[ピンクギャングの中でも大丈夫な方に町ブラしてたら出会う>>https://www.youtube.com/shorts/YWTH7eVQkVk]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){start=1,label=#}
+#endregion(2025年01月)
+***2026年
+#region(開く,open)&b(){閉じる}
+#region(01月,close)&bold(){01月}
+#table_style(head=center:#ff3333:#fff){#=center,投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|01/02|[[起きて早々あることで夏苗さんに怒られる・・・>>https://www.youtube.com/shorts/8aBAN3zhC6o]]||
+|01/05|[[前の町でクビになったが新しい町で警察になりたい犬ルリ>>https://www.youtube.com/shorts/bDreemHZGJo]]||
+|01/07|[[ハンバーガーの被り物をした最強の男が暴れすぎて困る警察>>https://www.youtube.com/shorts/zC2TbW4HVxI]]||
+|01/08|[[堕夜だよとMonDの件について市長を含めて話し合う警察>>https://www.youtube.com/shorts/d81HKAqv8aI]]||
+|01/12|[[女にうつつを抜かすリオ>>https://www.youtube.com/shorts/9-bsVRNqUU4]]||
+|01/25|[[最悪な相手と衝突事故をし高額請求される犬上リオ>>https://www.youtube.com/shorts/ITHRIcoqldY]]||
+|01/27|[[Dogsのコードネーム>>https://www.youtube.com/shorts/7lmD9E67CLY]]||
+|01/31|[[犯罪者と一触即発！？容赦なくテーザーを撃ち過ぎる犬上リオ>>https://www.youtube.com/shorts/elrfxGWkNqc]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){start=3,label=#}
+#endregion(01月)
+#region(02月,close)&bold(){02月}
+#table_style(head=center:#ff3333:#fff){#=center,投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|02/02|[[警察の潜入捜査のタレコミをした犯人とは>>https://www.youtube.com/shorts/wak_ZRwwirI]]||
+|02/03|[[解放条件で好きな女性のタイプを言い続けていたら暴走するボイラ>>https://www.youtube.com/shorts/Jb4-dy7JRHU]]||
+|02/06|[[二十日ネルの裏の顔>>https://www.youtube.com/shorts/tOQS4gX6DBc]]||
+|02/10|[[久しぶりに起きてきた人にノンデリすぎる警察の男たち>>https://www.youtube.com/shorts/999fbjItsS0]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){start=11,label=#}
+#endregion(02月)
+#region(03月,close)&bold(){03月}
+#table_style(head=center:#ff3333:#fff){#=center,投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|03/16|[[遂にギャングに！？暇しすぎている五十嵐えいむにギャングに誘われる>>https://www.youtube.com/shorts/90UukFegqYM]]||
+|03/18|[[良い音が鳴るイナイロハ>>https://www.youtube.com/shorts/Ai-AdnGJ1hc]]||
+|03/20|[[お前変わっちまったな>>https://www.youtube.com/shorts/Q_lf0pk_3wM]]||
+|03/25|[[警察に帰ってくるために体験を受ける犬ルリの強すぎるパンチライン>>https://www.youtube.com/shorts/GN8h7aMtFE0]]||
+|03/27|[[ニューなかーま>>https://www.youtube.com/shorts/plEj7u6Y3qM]]||
+|03/28|[[混ぜたら何色なるかな>>https://www.youtube.com/shorts/anMBa4mhTtk]]||
+|03/31|[[キャンキャン言ってる感ある>>https://www.youtube.com/shorts/9D6kekzn2Ww]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){start=15,label=#}
+#endregion(03月)
+#region(04月,close)&bold(){04月}
+#table_style(head=center:#ff3333:#fff){#=center,投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|04/02|[[まさかの匂わせ！？>>https://www.youtube.com/shorts/Zjt5t4wSGaE]]||
+|04/05|[[こんなワ●ピースは嫌だ>>https://www.youtube.com/shorts/It_j_KRgg3A]]||
+|04/06|[[イベント対策の裏話>>https://www.youtube.com/shorts/ds0pAh773X0]]||
+|04/11|[[こいてたら捨てられた>>https://www.youtube.com/shorts/LdzY9j6jTMA]]||
+|04/25|[[沈めてくれあの魚を>>https://www.youtube.com/shorts/3iqLSq-q5o4]]||
+|04/27|[[風呂キャン1週間に驚愕>>https://www.youtube.com/shorts/w35jUPZqnZE]]||
+|04/29|[[トイレに詰まりそうな名前>>https://www.youtube.com/shorts/b7h1Dzeg4Ec]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){start=22,label=#}
+#endregion(04月)
+#region(05月,close)&bold(){05月}
+#table_style(head=center:#ff3333:#fff){#=center,投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|05/01|[[ちょっといってくる>>https://www.youtube.com/shorts/PG28KF1qC1Y]]||
+|05/02|[[誕生日って怖い>>https://www.youtube.com/shorts/kRwfVsE1rJQ]]||
+|05/05|[[やっちゃうがみとも先生>>https://www.youtube.com/shorts/_aDDSwiX9hA]]||
+|05/08|[[便利なコーラボーイ>>https://www.youtube.com/shorts/x6WKwi_pAo8]]||
+|05/11|[[ポニョハラスメント>>https://www.youtube.com/shorts/qfEcpPLSZ6Y]]||
+|05/13|[[じゃあ違うか>>https://www.youtube.com/shorts/vRM9bwYAr7Y]]||
+|05/16|[[消えた100日世代>>https://www.youtube.com/shorts/K-Ed66xOhog]]||
+|05/20|[[ダウナー限定の川上タバコ店>>https://www.youtube.com/shorts/VolgAfQ0IxA]]||
+|05/23|[[この町にいられないよ>>https://www.youtube.com/shorts/V2l9V-qzhDk]]||
+|05/25|[[職質中のハプニング>>https://www.youtube.com/shorts/BpBNUFMsP4E]]||
+|05/27|[[半オクターブ高い>>https://www.youtube.com/shorts/8ndANogFtcM]]||
+|05/29|[[押し犬は？>>https://www.youtube.com/shorts/8jGFdJsYBKE]]||
+|05/30|[[人質ごとやったっていい>>https://www.youtube.com/shorts/YSDRdFVIEfg]]||
+|05/31|[[警察ってお金持ってないか>>https://www.youtube.com/shorts/QRi2gR6LkDU]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){start=29,label=#}
+#endregion(05月)
+#region(06月,close)&bold(){06月}
+#table_style(head=center:#ff3333:#fff){#=center,投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|06/01|[[部下になめられる>>https://www.youtube.com/shorts/zUkmKfZQwg8]]||
+|06/02|[[IQ200の犯人>>https://www.youtube.com/shorts/-W5pAsaLeAo]]||
+|06/08|[[やるなって言われたらや>>https://www.youtube.com/shorts/nl8zO5-yzj4]]||
+|06/09|[[絶滅するかも今日で>>https://www.youtube.com/shorts/QCHcmcRWhYY]]||
+|06/10|[[弱すぎだろってお気持ち来る>>https://www.youtube.com/shorts/ZH-VBm3baAk]]||
+|06/11|[[とんでもねえこと言った>>https://www.youtube.com/shorts/gSDHZiyQyeI]]||
+|06/12|[[カオスすぎる犯罪現場>>https://www.youtube.com/shorts/RgRk8UIozM4]]||
+|06/13|[[好きな人が風呂キャンだったら>>https://www.youtube.com/shorts/8zblsdppmrQ]]||
+|06/16|[[レッドでビルって誰やねん>>https://www.youtube.com/shorts/TpL_biANYPs]]||
+|06/19|[[三者三様のアホ3人>>https://www.youtube.com/shorts/u0Vchnvsp04]]||
+|06/20|[[元からいなかったんだ>>https://www.youtube.com/shorts/CJM-QzY-LlQ]]||
+|06/22|[[会話って知ってる？>>https://www.youtube.com/shorts/YCzo4jvQ6vY]]||
+|06/24|[[渾身のトラウマ話>>https://www.youtube.com/shorts/9EidnlKgbRs]]||
+|06/26|[[謝るけど反省はしません>>https://www.youtube.com/shorts/XpW2ECTxNOQ]]||
+|06/28|[[ほぼくまなんだよね>>https://www.youtube.com/shorts/LYrcrZXKupc]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){start=43,label=#}
+#endregion(06月)
+#region(07月,close)&bold(){07月}
+#table_style(head=center:#ff3333:#fff){#=center,投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|07/01|[[トンネルは息を止める>>https://www.youtube.com/shorts/f2s_2qqrIHw]]||
+|07/03|[[様子がおかしい後輩に教育>>https://www.youtube.com/shorts/93fmbWAmj14]]||
+|07/04|[[どっちが悪い？>>https://www.youtube.com/shorts/alNEGlIdz7Y]]||
+|07/07|[[初めて会う無馬かな>>https://www.youtube.com/shorts/RasDngz27JU]]||
+|07/10|[[陽気な保育園の先生>>https://www.youtube.com/shorts/BnKcPf-9BTE]]||
+|07/13|[[この男がついにプリズンへ>>https://www.youtube.com/shorts/OFovU67hnjI]]||
+|07/14|[[お前はどこ中だ>>https://www.youtube.com/shorts/1LR4KXJ9wEg]]||
+|07/15|[[ポンコツなおもしれー男>>https://www.youtube.com/shorts/vR8IeX_kBpE]]||
+|07/16|[[犬語のみのチェイスだワン>>https://www.youtube.com/shorts/nkfDvDvTYao]]||
+|07/17|[[逮捕されて泣いちゃう>>https://www.youtube.com/shorts/sDB9yDDyEDY]]||
+|07/18|[[おもちゃを与えた結果>>https://www.youtube.com/shorts/ybgAvXZBgZc]]||
+|07/20|[[100点のアンジャッシュ>>https://www.youtube.com/shorts/2za9y5GORpw]]||
+|07/22|[[ちっちゃい？「超でかい」>>https://www.youtube.com/shorts/93_UtZ5z0Lc]]||
+|07/25|[[しつこいおじさんたち>>https://www.youtube.com/shorts/kqVldy8kyYc]]||
+|07/28|[[おじさんおばさんどっち？>>https://www.youtube.com/shorts/O250dP47kFg]]||
+|07/31|[[キュッが好き>>https://www.youtube.com/shorts/PA5FBEebl60]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){start=58,label=#}
+#endregion(07月)
+#region(08月,open)&bold(){08月}
+#table_style(head=center:#ff3333:#fff){#=center,投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|08/01|[[素晴らしいオチ>>https://www.youtube.com/shorts/SFWb1o-9dFM]]||
+|08/02|[[ここで寝たら風邪ひくよ>>https://www.youtube.com/shorts/AlcOebvdg-k]]||
+|08/03|[[本当に言ってた>>https://www.youtube.com/shorts/Rlf4uIQEGsQ]]||
+|08/07|[[お前なにしてんだよ！>>https://www.youtube.com/shorts/ZviGVsbF8wo]]||
+|08/18|[[こうやってバレるんだろうな>>https://www.youtube.com/shorts/is83aMoxMEc]]||
+|08/20|[[呼び方が独特な体験>>https://www.youtube.com/shorts/juMvqrLPXuE]]||
+|08/21|[[赤い悪魔「ナイスエイム」>>https://www.youtube.com/shorts/j5UgvGkg0_c]]||
+|08/25|[[無馬かなの圧>>https://www.youtube.com/shorts/fLdIRriZyDA]]||
+|08/28|[[ドッキリ>>https://www.youtube.com/shorts/3nCtUecbQgc]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){start=74,label=#}
+#endregion(08月)
+#endregion(2026年)
+#endregion(Season2)
+
+#region(Season1)Season1
+***2024年
+#region(開く)&b(){閉じる}
+#region(12月,open)&bold(){12月}
+#table_style(head=center:#ff3333:#fff){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|12/10|[[無馬記念、この街最速の男がマジで速すぎる！！！！！>>https://youtube.com/shorts/DHrp7pJpQeU]]||
+|12/11|[[恋物語のアテレコが面白すぎたｗ>>https://youtube.com/shorts/Qy4CMQPyz6M]]||
+|12/12|[[まさに「パチネーター」推理が天才的すぎるぱちおさん！！>>https://youtube.com/shorts/H_6eAh5A0fA]]||
+|12/13|[[警察署前でたま抜けすると・・・・>>https://youtube.com/shorts/n5rNt_qoWfk]]||
+|12/14|[[えびすさん！ウマ、"埋ま"ってるよ！！>>https://www.youtube.com/shorts/mRPG9AMenK4]]||
+|12/15|[[犯人闇堕ちの結果、いつの間にか犯罪の片棒を担がされる!???? >>https://www.youtube.com/shorts/bgZLE7Mf-wU]]||
+|12/16|[[突然現れたヴァン・ダーマーに警察の仕事を聞かれた瞬間に・・・・>>https://youtube.com/shorts/SgJJ8-Z4kaA]]||
+|12/18|[[二十日ネルさんと大声勝負した結果ｗｗ>>https://youtube.com/shorts/s0idvjy_ST0]]||
+|12/26|[[さぶ郎警部の名推理に高橋滅論もたじたじに.......。>>https://youtube.com/shorts/CCbPl4W2aP8]]||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(12月)
+#endregion(2024年)
+//
+***2025年
+#region(開く,open)&b(){閉じる}
+#region(01月)&bold(){01月}
+#table_style(head=center:#ff3333:#fff){#=center,投稿日=right}
+|~#|~投稿日|~動画タイトル|~備考|h
+|10|01/03|[[思わずつぶやいた一言・・・>>https://youtube.com/shorts/vYFbUTdIAYk]]||
+|11|01/07|[[年始一発目の大勝負に横取りが！！！>>https://www.youtube.com/shorts/ZJyWmnkISzQ]]|2025/01/03警察|
+|12|01/14|[[犬ルリ先輩のガチフィードバックに突如現れたたえこがバーサーカーすぎた！！>>https://t.co/r2w34ZT1ro]]||
+|13|01/20|[[恋のキューピットブロッコリーの天才ムーブ！！！>>https://t.co/6y9YEMO5kG]]|2025/01/01警察|
+|14|01/30|[[客船ALLINのとんでもない配置がえぐすぎた・・・>>https://youtube.com/shorts/34XEm2htM4A?si=YRFgn_Ftub_tOa2b]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(01月)
+#region(02月)&bold(){02月}
+#table_style(head=center:#ff3333:#fff){#=center,投稿日=right}
+|~#|~投稿日|~動画タイトル|~備考|h
+|15|02/03|[[警察署の壁の完璧に擬態する男がすごすぎたｗｗ>>https://t.co/tHgLydrc2O]]||
+|16|02/09|[[突如現れた警察を癒しに来た謎の男がやばすぎたｗｗｗ>>https://www.youtube.com/shorts/97DIGygCLNQ]]||
+//|n|mm/dd|[[ショート動画タイトル>>ここにURLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(02月)
+#endregion(2025年)
+#endregion(Season1)
+#right(){&link_up(🔝ページTOPへ)}
+*&font(25px,#ff8f66){コ}ラボ &icon_fa(fa-regular fa-handshake)
+**コラボ配信
+***2024年
+#region(開く,)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#ff3333:#fff){配信日=right}
+|~配信日|~配信タイトル|~参加者※順不同|h
+|08/19|警察VALOカスタム(枠なし)|017([[冷泉　ナデシコ]])/にぶぶ([[二部　らるたる]])/えびす([[伊勢　えびす]])/おらんじ～な([[立花　乱歩]])/かど([[よすみの　かど]])/さぶ郎([[さぶ郎安保　さぶ郎]])/花芽なずな([[きらりんぶい☆　なずぴ(10)]])/るなりあ([[ニックス　リア]])/ルルベル([[ルール　ちゃん]])/森野めるん([[もり　るんるん]])/碧輝りお([[ラピス　りお]])|
+|10/14|警察デッドロック(枠なし)|アベレージ([[安倍　霊明]])/あどみん([[夜若木　颯]])/おらんじ～な([[立花　乱歩]])/marunnn([[花沢　まるん]])/るなりあ([[ニックス　リア]])|
+|10/21|[[5億年ぶりAPEX  ぷうさんヘルアンさん>>https://www.twitch.tv/videos/2281558852]]|鬼ヶ島ぴぃち([[鬼桃　ぷぅ]])/紫闇ヘル([[ヘルアン]])|
+|11/11|[[公務員PUBGカスタム！>>https://www.twitch.tv/videos/2299133888]]([[&font(#6441A4){&icon_fa(fa-brands fa-twitch)}ダイジェスト>>https://www.twitch.tv/videos/2320345726]])|アベレージ([[安倍　霊明]])/るなりあ([[ニックス　リア]])/あどみん([[夜若木　颯]])/きもともと([[キーモット　ホームズ]])/かど([[よすみの　かど]])/Middleee([[ミン　ドリー]])/レントンゲームズ([[赤城　煉]])/さぶ郎([[安保　さぶ郎]])/れいか([[レッサン　パンナ]])/森野めるん([[もり　るんるん]])/ごっちゃんマイキー([[後藤　れむ]])/D.ManueL([[ゴンザレス　マヌ太郎]])&br()ねけまる([[ブロッコリー　斎藤]])/碧輝りお([[ラピス　りお]])/ぱちしゅう([[日之　ぱちお]])/しおこうじ([[シオコ　リコ]])/二十日ネル([[二十日　ネル]])/えびす([[伊勢　えびす]])/ホロ酔いさん。([[猪原　ローズ]])/ルルベル([[ルール　ちゃん]])/にぶぶ([[二部　らるたる]])/てんぷら([[オルカ　トヴォロ]])/ハユン([[羽芝　ユン]])/たけぉ([[バーバリアン　田中]])&br()アジ吉([[味野　環九郎]])/寧々丸([[鬼瓦　るる]])/おらんじ～な([[神崎　治]]・[[立花　乱歩]])/憩居ももあ([[星野　ももあ]])/kaka([[加賀　イズミ]])/こるぺん([[鳥野　ぎん]])/天羽よつは([[天羽　よつは]])/夢咲刻夜([[命田　守]])/ノビー([[ノビー　ラング]])/切嘛([[切間　てつお]])/しょうじ([[竹井　勝痔]])/鬼ヶ島ぴぃち([[鬼桃　ぷぅ]])/花芽なずな([[きらりんぶい☆　なずぴ(10)]])|
+|12/02|お邪魔してすみません。 w/えびすさんれりあさん(アーカイブなし)|えびす([[伊勢　えびす]])/聖女れりあ([[聖母　れりあ]])|
+|12/18|[[DogsでPUBG→PUBG PARK>>https://www.twitch.tv/videos/2329739673]]([[&font(#6441A4){&icon_fa(fa-brands fa-twitch)}ダイジェスト>>https://www.twitch.tv/videos/2361504563]])|ごっちゃんマイキー([[後藤　れむ]])/花芽なずな([[きらりんぶい☆　なずぴ(10)]])/二十日ネル([[二十日　ネル]])|
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2024年)
+***2025年
+#region(開く)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#ff3333:#fff){配信日=right}
+|~配信日|~配信タイトル|~参加者※順不同|h
+|01/19|[[WarZone先生に教わる。w/なずぴs みどりs まぬs →ストグラ>>https://www.twitch.tv/videos/2357549110]]|花芽なずな([[きらりんぶい☆　なずぴ(10)]])/Middleee([[ミン　ドリー]])/D.ManueL([[ゴンザレス　マヌ太郎]])|
+|01/20|[[公務員PUBGカスタム！！>>https://www.twitch.tv/videos/2358540843]]|アベレージ([[安倍　霊明]])/森野めるん([[もり　るんるん]])/ヘスティアハピネス([[ヘスティア　ゴデス]]・[[セリーヌ　ゴデス]])/わきを([[宮脇　悠悟]])/へくしょん([[箱根　しおん]])/てんぷら([[オルカ　トヴォロ]])/こるぺん([[鳥野　ぎん]])/TUTTI([[土田　ぷちお]])/017([[冷泉　ナデシコ]])&br()すず音([[桃兎　すずめ]])/えびす([[伊勢　えびす]])/鬼ヶ島ぴぃち([[鬼桃　ぷぅ]])/冥鳴ひまり([[冥鳴　キマリ]])/ファロ([[福田　明宏]])/れいか([[レッサン　パンナ]])/ぱちしゅう([[日之　ぱちお]])/ちゃげぽよ。([[ヒロ　ヤマモト]])/切嘛([[切間　てつお]])/Runpa([[亀有　大吉]])/鈴木ノリアキ([[鷹山　ノリアキ]])&br()ごっちゃんマイキー([[後藤　れむ]])/しょうじ([[竹井　勝痔]])/空衣御侍([[雷堂　ましろ]])/レントンゲームズ([[赤城　煉]])/ノビー([[ノビー　ラング]])/みつき([[紀伊路　つみき]])/のすけ([[サンクチュアリ　たえこ]])/せかめん([[ガヴァイ　アッカンマン]])/かてぃ([[伊藤　カテジ]])/RintoXD([[メチャ南　よる]])&br()花芽なずな([[きらりんぶい☆　なずぴ(10)]])/かど([[よすみの　かど]])/白帝りいた([[ミカド　ルアシェイア]])/ペレ夫([[伊豆院　登]])/D.ManueL([[ゴンザレス　マヌ太郎]])/まぐなむ([[フランシスコ　マグナム]])/ねけまる([[ブロッコリー　斎藤]])/さぶ郎([[安保　さぶ郎]])/あんない([[ブラック　ジャックス]])&br()kaka([[加賀　イズミ]])/稲荷いろは([[イナ　イロハ]])/おらんじ～な([[神崎　治]]・[[立花　乱歩]])/レウクラウド([[伊田場　零雨]])/烏星([[深沢　えぼし]])/憩居ももあ([[星野　ももあ]])/寧々丸([[鬼瓦　るる]])/天羽よつは([[天羽　よつは]])/夢咲刻夜([[命田　守]])/アジ吉([[味野　環九郎]])/ゆきや([[ぺん　ゆきや]])&br()にぶぶ([[二部　らるたる]])/たけぉ([[バーバリアン　田中]])/えんちょう。([[御庭野　えんちょう]])/marunnn([[花沢　まるん]])/きもともと([[キーモット　ホームズ]])/あどみん([[夜若木　颯]])/るなりあ([[ニックス　リア]])/Middleee([[ミン　ドリー]])|
+|02/24|[[LOLカスタム w/おらんじーな,よつは,皇帝,にぶ,ドリー,寧々,小峯,葉風邪ナイ,叶>>https://www.twitch.tv/videos/2389976338]]|おらんじ～な([[神崎　治]])/天羽よつは([[天羽　よつは]])/るなりあ([[ニックス　リア]])/にぶぶ([[二部　らるたる]])/Middleee([[ミン　ドリー]])/寧々丸([[鬼瓦　るる]])/FOXRABBIT([[小峯　玲]])/天城てん([[葉風邪　ナイ]])/叶([[無馬　かな]])/灯油([[トウ　ユン]])|
+|03/03|[[7Days 難易度一番高いやつやる。w/なずな,にぶ,ぶろ,さぶ郎,ぷぅ>>https://www.twitch.tv/videos/2396011639]]|花芽なずな([[きらりんぶい☆　なずぴ(10)]])/にぶぶ([[二部　らるたる]])/ねけまる([[ブロッコリー　斎藤]])/さぶ郎([[安保　さぶ郎]])/鬼ヶ島ぴぃち([[鬼桃　ぷぅ]])|
+|03/24|[[公務員PUPG!!!>>https://www.twitch.tv/videos/2414071299]]|アベレージ([[安倍　霊明]])/森野めるん([[もり　るんるん]])/pepper([[胡將]])/ヘスティアハピネス([[ヘスティア　ゴデス]]・[[セリーヌ　ゴデス]])/へくしょん([[箱根　しおん]])/てんぷら([[オルカ　トヴォロ]])/TUTTI([[土田　ぷちお]])/017([[冷泉　ナデシコ]])&br()冥鳴ひまり([[冥鳴　キマリ]])/ファロ([[福田　明宏]])/れいか([[レッサン　パンナ]])/ぱちしゅう([[日之　ぱちお]])/ちゃげぽよ。([[ヒロ　ヤマモト]])/空衣御侍([[雷堂　ましろ]])/レントンゲームズ([[赤城　煉]])/ノビー([[ノビー　ラング]])/のすけ([[サンクチュアリ　たえこ]])/かてぃ([[伊藤　カテジ]])/RintoXD([[メチャ南　よる]])&br()かど([[よすみの　かど]])/白帝りいた([[ミカド　ルアシェイア]])/ペレ夫([[伊豆院　登]])/ホロ酔いさん。([[猪原　ローズ]])/D.ManueL([[ゴンザレス　マヌ太郎]])/まぐなむ([[フランシスコ　マグナム]])/ねけまる([[ブロッコリー　斎藤]])/さぶ郎([[安保　さぶ郎]])/あんない([[ブラック　ジャックス]])&br()kaka([[加賀　イズミ]])/宙星ぱる([[小中　ぺこり]])/稲荷いろは([[イナ　イロハ]])/レウクラウド([[伊田場　零雨]])/烏星([[深沢　えぼし]])/寧々丸([[鬼瓦　るる]])/夢咲刻夜([[命田　守]])/未空あいす([[ゆた　んぽ]])/アジ吉([[味野　環九郎]])/ゆきや([[ぺん　ゆきや]])&br()にぶぶ([[二部　らるたる]])/たけぉ([[バーバリアン　田中]])/きもともと([[キーモット　ホームズ]])/あどみん([[夜若木　颯]])/るなりあ([[ニックス　リア]])/Middleee([[ミン　ドリー]])|
+|04/11|[[ちる(VALORANT)>>https://www.twitch.tv/videos/2429822809?t=10h04m57s]]&small(){&infobox(title=*注,gravity=south){5時瞑想後同枠にてVALORANT}}|TUTTI([[土田　ぷちお]])/pepper([[胡將]])/アジ吉([[味野　環九郎]])/BOIRA([[ボイラ　テンガリン]])|
+|04/28|[[ストグラメンバーで人狼っぽいなにか!!>>https://www.twitch.tv/videos/2444862583]] |日ノ隈らん/Mainy/Middleee/tamattchi/yue/あんない/zelk/たここ/れいちゃん/紺乃しお/松村芽久未|
+|05/05|[[初めてのRUST！SGPDコラボカフェメンバーと！>>https://www.twitch.tv/videos/2450918460]] |marunnn([[花沢　まるん]])/ましゃかり([[ましゃかり　トラボルタ]])/ごっちゃん@マイキー([[後藤　れむ]])/二十日ネル([[二十日　ネル]])/るなりあ([[ニックス　リア]])/さぶ郎。([[安保　さぶ郎]])/たけぉ([[バーバリアン　田中]])/Middleee([[ミン　ドリー]])|
+|05/06|[[ハードコアコアキーパー！警察メンバーと！>>https://www.twitch.tv/videos/2451044281]] &small(){&infobox(title=*注,gravity=south){配信前、叶さんのチャンネルにて麻雀→コアキ}}|marunnn([[花沢　まるん]])/にぶぶ([[二部　らるたる]])/ねけまる([[ブロッコリー　斎藤]])/ちゃげぽよ。([[ヒロ　ヤマモト]])/叶([[文月　夏苗]]/pepper([[胡　將]]))|
+|05/07|[[REPO>>https://www.twitch.tv/videos/2451708567]] |あどみん([[夜若木　颯]])/さぶ郎。([[安保　さぶ郎]])/おらんじ～な([[神崎　治]])/天羽よつは([[天羽　よつは]])/空衣御侍([[雷堂　ましろ]])|
+|05/07|ハードコアコアキーパー（配信外）|叶([[文月　夏苗]]/pepper([[胡　將]]))/BOIRA([[ボイラ　テンガリン]])/三行ナカバ([[小此木 ナカバ]])|
+|05/08|[[ちる(ハードコアコアキーパー)>>https://www.twitch.tv/videos/2452573557]]|叶([[文月　夏苗]]/pepper([[胡　將]]))/marunnn([[花沢　まるん]])/BOIRA([[ボイラ　テンガリン]])|
+|05/09|[[ちる(ハードコアコアキーパー)>>https://www.twitch.tv/videos/2454230920]]|叶([[文月　夏苗]]/pepper([[胡　將]]))/marunnn([[花沢　まるん]])/三行ナカバ([[小此木 ナカバ]])|
+|05/13|[[隣の家を荒らしに行くゲーム w/おらんじ～な,寧々丸,ボイラ,魔光リサ,ManueL,まるん,かどさん>>https://www.twitch.tv/videos/2456823299]]|おらんじ～な([[立花　乱歩]]/寧々丸([[鬼瓦　るる]]))/BOIRA([[ボイラ　テンガリン]])/魔光リサ([[真島　ルイ]])/ManueL([[ゴンザレス　マヌ太郎]])/marunnn([[花沢　まるん]])/かど([[よすみの　かど]])/Middleee([[ミン　ドリー]])|
+|05/19|[[公務員PUBGカスタムやるぞーーーー！>>https://www.twitch.tv/videos/2462806965]]|アベレージ([[安倍　霊明]])/アジ吉([[味野　環九郎]])/森野めるん([[もり　るんるん]])/ヘスティアハピネス([[ヘスティア　ゴデス]]・[[セリーヌ　ゴデス]])/わきを([[宮脇　悠悟]])/へくしょん([[箱根　しおん]])/TUTTI([[土田　ぷちお]])/すず音([[桃兎　すずめ]])&br()えびす([[伊勢　えびす]])/ファロ([[福田　明宏]])/ぱちしゅう([[日之　ぱちお]])/ちゃげぽよ。([[ヒロ　ヤマモト]])/ごっちゃんマイキー([[後藤　れむ]])/空衣御侍([[雷堂　ましろ]])レントンゲームズ([[赤城　煉]])/ノビー([[ノビー　ラング]])&br()のすけ([[サンクチュアリ　たえこ]])/RintoXD([[メチャ南　よる]])かど([[よすみの　かど]])/白帝りいた([[ミカド　ルアシェイア]])/D.ManueL([[ゴンザレス　マヌ太郎]])/さぶ郎([[安保　さぶ郎]])/寧々丸([[鬼瓦　るる]])/夢咲刻夜([[命田　守]])/アジ吉([[味野　環九郎]])&br()にぶぶ([[二部　らるたる]])/たけぉ([[バーバリアン　田中]])/marunnn([[花沢　まるん]])/きもともと([[キーモット　ホームズ]])/あどみん([[夜若木　颯]])/るなりあ([[ニックス　リア]])未空あいす([[ゆた　んぽ]])/しおこうじ([[シオコ　リコ]])ハユン([[羽芝　ユン]])魔光リサ([[真島　ルイ]])|
+|05/21|[[239日目 ちる　(REPO)>>https://www.twitch.tv/videos/2464467010]]|アベレージ([[安倍　霊明]])/馬人([[ジャック　バウアー]])/ごっちゃん@マイキー([[後藤　れむ]])/marunnn([[花沢　まるん]])/二十日ネル([[二十日　ネル]])/るなりあ([[ニックス　リア]])/さぶ郎。([[安保　さぶ郎]])/たけぉ([[バーバリアン　田中]])/森野めるん([[もり　るんるん]])|
+|05/29|[[244日目 ちる（REMATCH)>>https://www.twitch.tv/videos/2471441843]]|るなりあ([[ニックス　リア]])/わきを([[宮脇　悠悟]])/Middleee([[ミン　ドリー]])/おらんじ～な([[立花　乱歩]])//pepper([[胡　將]]))/ねけまる([[ブロッコリー　斎藤]])/宙星ぱる([[小中　ぺこり]])|
+|06/30|[[ホラゲー？ w/へるあん ぷう太郎 あびすさん>>https://www.twitch.tv/videos/2499923250]]|紫闇ヘル([[ヘル　アン]])/鬼ヶ島ぴぃち([[鬼桃　ぷぅ]])/闇乃あびす([[光乃　あびす]])/|
+|07/01|[[LoL (枠なし、ツイートあり)>>https://x.com/ribo_taro/status/1939721865662283841]]|pepper([[胡　將]]))/にぶぶ([[二部　らるたる]])/叶([[文月　夏苗]])/魔光リサ([[真島　ルイ]])|
+|07/08|[[271日目　ちる（REMATCH）>>https://www.twitch.tv/videos/2508704868]]|pepper([[胡　將]]))/にぶぶ([[二部　らるたる]])/叶([[文月　夏苗]])/marunnn([[花沢　まるん]])|
+|07/10|[[274日目　ちる（REMATCH）>>https://www.twitch.tv/videos/2509495958]]|pepper([[胡　將]]))/にぶぶ([[二部　らるたる]])/叶([[文月　夏苗]])/marunnn([[花沢　まるん]])|
+|07/11|[[273日目　ちる（REMATCH）>>https://www.twitch.tv/videos/2506851692?t=17528s]]|pepper([[胡　將]]))/にぶぶ([[二部　らるたる]])/叶([[文月　夏苗]])/marunnn([[花沢　まるん]])|
+|07/14|[[REMATCH大会本番！！！ #リアマスWIN>>https://www.twitch.tv/videos/2512147696]]|pepper([[胡　將]]))/にぶぶ([[二部　らるたる]])/叶([[文月　夏苗]])/marunnn([[花沢　まるん]])|
+|07/15|[[警察ゾンビ>>https://www.twitch.tv/videos/2513142874]]|花芽なずな([[きらりんぶい☆　なずぴ(10)]])/にぶぶ([[二部　らるたる]])/ねけまる([[ブロッコリー　斎藤]])/さぶ郎([[安保　さぶ郎]])|
+|07/16|[[275日目 ちる(7days)>>https://www.twitch.tv/videos/2513949264]]||
+|07/17|[[276日目 ちる(7days)>>https://www.twitch.tv/videos/2514855607]]||
+|07/18|[[278日目 ちる(7days)>>https://www.twitch.tv/videos/2515732012]]||
+|07/19|[[278日目 ちる(7days)>>https://www.twitch.tv/videos/2516640182]]||
+|07/28|[[公務員PUBGカスタムやるぞーーーー>>https://www.twitch.tv/videos/2524607913]]||
+|07/31|[[284日目　ちる(OW2)>>https://www.twitch.tv/videos/2525476468]]|花芽なずな([[きらりんぶい☆　なずぴ(10)]])にぶぶ([[二部　らるたる]])/さぶ郎。([[安保　さぶ郎]])/BOIRA([[ボイラ　テンガリン]])/ゆきや([[ぺん　ゆきや]])/ManueL([[ゴンザレス　マヌ太郎]])/しょうじ([[竹井　勝痔]])/KOHAL([[こはる　はる]])/Middleee([[ミン　ドリー]])|
+|08/04|OW2カスタム（枠なし.3時〜)|BOIRA([[ボイラ　テンガリン]])/えびす([[伊勢　えびす]])/ManueL([[ゴンザレス　マヌ太郎]])/しょうじ([[竹井　勝痔]])/かど([[よすみの　かど]])/もこ田中めめめ([[白　雲隠]])/紫闇ヘル([[ヘル　アン]])/鬼ヶ島ぴぃち([[鬼桃　ぷぅ]])/pepper([[胡　將]])|
+|08/04|[[警察OW2カスタム！>>https://www.twitch.tv/videos/2530800978]]|アベレージ[[安倍　霊明]])/しおこうじ([[シオコ　リコ]])/さぶ郎。([[安保　さぶ郎]])/BOIRA([[ボイラ　テンガリン]])/宙星ぱる([[小中　ぺこり]])/ManueL([[ゴンザレス　マヌ太郎]])/しょうじ([[竹井　勝痔]])/kohal([[こはる　はる]])/森野めるん([[もり　るんるん]])|
+|08/09|[[OW2 SCRIM~~~~~>>https://www.twitch.tv/videos/2535316265]]|アベレージ[[安倍　霊明]])/Middleee([[ミン　ドリー]])/やみえん([[ヤミー　エンデバー]])/森野めるん([[もり　るんるん]])/pepper([[胡　將]])|
+|08/10|[[OW2 SCRIM!! 2日目>>https://www.twitch.tv/videos/2536296882]]|アベレージ[[安倍　霊明]])/Middleee([[ミン　ドリー]])/やみえん([[ヤミー　エンデバー]])/森野めるん([[もり　るんるん]])/pepper([[胡　將]])|
+|08/11|[[OW2大会本番!!!! 「STGRivals Overwatch2 Supprted by Activision Blizzard Japan」>>https://www.twitch.tv/videos/2537126684]]|アベレージ[[安倍　霊明]])/Middleee([[ミン　ドリー]])/やみえん([[ヤミー　エンデバー]])/森野めるん([[もり　るんるん]])/pepper([[胡　將]])|
+|08/22|[[山登り w/にぶぶろさぶ>>https://www.twitch.tv/videos/2546724177]]|にぶぶ([[二部　らるたる]])/ねけまる([[ブロッコリー　斎藤]])/さぶ郎([[安保　さぶ郎]])|
+|08/28|[[本気レポ。 w/なずな にぶ さぶ郎 ブロ>>https://www.twitch.tv/videos/2551863628]]|花芽なずな([[きらりんぶい☆　なずぴ(10)]])/にぶぶ([[二部　らるたる]])/ねけまる([[ブロッコリー　斎藤]])/さぶ郎([[安保　さぶ郎]])|
+|09/03|VALORAN(配信外)|ゼルク([[エスターク・Z・ダークネス]])/鹿乃([[椎花　まほ]])/やなつん([[柳瀬　つん]])/にごんご([[ちのまるこ>>赤色　にごう]])|
+|09/03|[[299日目　ちる（VALORAN）>>https://www.twitch.tv/videos/2557020421]]|おらんじ～な([[神崎　治]])/天羽よつは([[天羽　よつは]])/るなりあ([[ニックス　リア]])/憩居ももあ([[星野　ももあ]])|
+|09/05|[[笑いなし感動ありレポ。w/なずなにぶさぶ郎ブロ>>https://www.twitch.tv/videos/2558663747]]|花芽なずな([[きらりんぶい☆　なずぴ(10)]])/にぶぶ([[二部　らるたる]])/ねけまる([[ブロッコリー　斎藤]])/さぶ郎([[安保　さぶ郎]])|
+|09/08|[[やるぞーーーーー！ キミトスさんあげいんさんミカさんさぶ郎さん>>https://www.twitch.tv/videos/2561201125]]|キミトス([[三階堂　キミトス]])/あげいん([[三島　改]])/みかちー([[ミカ・ピトフーイ]])/さぶ郎([[安保　さぶ郎]])|
+|09/15|[[今日は２回行動！ライトさんやんみさんあべさん>>https://www.twitch.tv/videos/2567104803]]|ライト([[天羽　りひと]])/栗山やんみ([[羽山ペティ]])/アベレージ([[安倍　霊明]])|
+|09/25|[[ちょっと雑談＋たまにはクリップ鑑賞みたいなやつ！>>https://www.twitch.tv/videos/2575327476]]|にぶぶ([[二部　らるたる]])※途中から|
+|09/26|[[ゆったり山登り。 みつーさんヘルアンさんぷうさん>>https://www.twitch.tv/videos/2576148339]]|みつき([[三島　みつー]])/紫闇ヘル([[ヘル　アン]])/鬼ヶ島ぴぃち([[鬼桃　ぷぅ]])|
+#table_autoincrement(){label=#, start=7}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+//|mm/dd|[[配信タイトル>>ここに配信URLを入力]]|参加メンバー|
+#endregion(2025年)
+***2026年
+#region(開く,open)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#ff3333:#fff){配信日=right}
+|~配信日|~配信タイトル|~参加者※順不同|h
+|03/25|[[警察救急でRustベッドウォーズやるぞ～>>https://www.twitch.tv/videos/2730508291]]|アベレージ([[安倍　霊明]])/ごっちゃんマイキー([[後藤　れむ]])/さぶ郎([[安保　さぶ郎]])/馬人（[[ジャック　馬ウアー]]）/たけぉ（[[バーバリアン　田中]])/るなりあ（[[ニックス　リア]])/森野めるん([[もり　るんるん]])/おらんじ～な([[神崎　治]])/こるぺん（[[鳥野　ぎん]]）/ノビー（[[ノビー　ラング]]）/天羽よつは（[[天羽　よつは]]）/影。（[[橘　かげまる]]）/空衣御侍（[[雷堂　ましろ]]）/憩居ももあ（[[星野　ももあ]]）/小花衣ももみ（[[ももみ>>ももみ　マルフォイ]]）|
+|04/27|[[公務員PUBGカスタムー！>>https://www.twitch.tv/videos/2758274897]]|アベレージ([[安倍　霊明]])/D.ManueL([[ゴンザレス　マヌ太郎]])/さぶ郎([[安保　さぶ郎]])/るなりあ（[[ニックス　リア]])/にぶぶ([[二部　らるたる]])/ぱちしゅう（[[日之　ぱちお]]）/かど（[[よすみの　かど]]）/ねけまる（[[ブロッコリー　斎藤]]）/KOHAL([[こはる　はる]])/marunnn([[花沢　まるん]])/えびす([[伊勢　えびす]])/RintoXD([[メチャ南　よる]])/レントンゲームズ([[赤城　煉]])/ルルベル([[ルール　ちゃん]])/宙星ぱる([[小中　ぺこり]])/碧輝りお([[ラピス　りお]])/栗山やんみ([[仄々山　すごす]])/羽流ぴょこ（[[羽津　ピオコ]]）/ライト（[[ライル　ブラック]]）/未空あいす([[ゆた　んぽ]])/羊飼いK（[[執事　K]]）/shiron（[[葛城　司]]）/南登かなる（[[はが　かける]]）/瀬戸あさひ（[[ザ！！！コーラボーイ！！！]]）|
+#table_autoincrement(){label=#, start=51}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+//|mm/dd|[[配信タイトル>>ここに配信URLを入力]]|参加メンバー|）
+#endregion(2026年)
+
+**コラボ切り抜き
+#region(開く,open)
+#table_style(head=center:#ff3333:#fff){配信日=right}
+|~投稿日|~動画タイトル|~参加者※順不同|h
+|2024/12/20|[[チームDogsでPUBG PARK参戦！>>https://youtu.be/6hwZmuaWTek]]&br()|ごっちゃんマイキー([[後藤　れむ]])/花芽なずな([[きらりんぶい☆　なずぴ(10)]])/二十日ネル([[二十日　ネル]])|
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){label=#, start=1}
+#endregion(コラボ切り抜き)
+
+**ストグラFV
+#region(開く,open)
+#table_style(head=center:#ff3333:#fff){配信日=right}
+|~配信日|~配信タイトル|~ダイジェスト|~備考|h
+|2024/12/23|[[【ストグラFV】1日目 警察の皆でギャング 犬山リオ>>https://www.twitch.tv/videos/2333966082]]|[[&font(#6441A4){&icon_fa(fa-brands fa-twitch)}ダイジェスト>>https://www.twitch.tv/videos/2361505013]]|ギャング「Forest Veil」に参加|
+|2025/02/10|[[【ストグラFV】警察の皆でギャングやるぞー！>>https://www.twitch.tv/videos/2377380622]]||ギャング「Forest Veil」に参加|
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){label=#, start=1}
+#endregion(ストグラFV)
+#right(){&link_up(🔝ページTOPへ)}
+
+*&font(25px,#ff8f66){関}連 &icon_fa(fa-solid fa-radio)
+**ストグラジオ
+#region(開く,open)
+#size(90%){#table_style(head=center:#ff3333:#fff)
+|~配信日|~#|~内容|~備考|h
+|2024/12/10|01|第87回[[ストグラジオ]]出演|[[二部　らるたる]]、犬上　リオ|
+
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion
+//
+**リアルイベント／グッズ販売等
+#region(開く,open)
+#size(90%){#table_style(head=center:#ff3333:#fff)
+|~開催日程|~タイトル|~会場/販売サイト|~備考|
+|2025.04.27～05.11|[[Rio(犬上リオ) 誕生日グッズ！>>https://riopome.booth.pm/items/6842378]]|BOOTH||
+|2025.05.08～06.02|[[SGPD collaboration café>>https://t.co/rkb6ovX5kL]]|CONCEPT CAFE SHINJUKU BY SWEETS PARADISE(東京)&br()CONCEPT CAFE OSAKA BY SWEETS PARADISE(大阪)&br()CoLaBoNo(名古屋)&br()CONCEPT CAFE HIROSHIMA BY SWEETS PARADISE(広島)||
+|2025.08.30～08.31|[[ストグラフェス>>https://stgrfestival.com/]]|シティエリア・幕張メッセ 国際展示場展示ホール1〜2/ステージエリア・幕張イベントホール|両日出演→シティエリア・警察ブース、31日14:00～15:00→シティエリア・ミート＆グリート|
+|2025.10.04|[[緊急大型発生中！OPERATION SGPD>>https://x.com/hatsukaneru/status/1960676548786233684]]|府中の森芸術劇場 どりーむホール|第2部出演|
+|2025.12.04〜09|[[Buddy's Mission PUS>>https://x.com/senpanorange/status/1984967035223151096?s=46&t=9pFBrwyMbCV40CTV_4fzLw]]|Laforet HARAJUKU 5F MAKE THE STAGE|12.06に二部らるたると一緒に、12.09に犬上リオとお話し会開催|
+|2025.12.13-14|[[Rloe Play Live 2025>>https://x.com/light_starboy/status/1981631389306101766?s=46&t=9pFBrwyMbCV40CTV_4fzLw]]|幕張メッセイベントホール|Day1劇、Day2歌の予定|
+|2026.02.23|[[公務員スーパーハチャメチャバトル2026>>https://x.com/kagemaru0205/status/2005556896590090707]]|横浜BUNTAI|初公務員合同イベント|
+|2026.04.27～05/10|[[Rio誕生日グッズ2026>>https://inugamirio.official.ec/]]|BASE|犬上リオグッズあり|
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion
+#right(){&link_up(🔝ページTOPへ)}

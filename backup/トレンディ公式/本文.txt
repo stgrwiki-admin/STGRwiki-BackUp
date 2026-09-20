@@ -1,0 +1,72 @@
+//&image(ここに画像のURLを入力,y=300)
+
+#table_style(head=#9400d3:#ffffff){}
+|~組織名|~&space()&icon_fa(fa fa-mobile fa-shake)&space()|トレンディ公式|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年1月23日&br()&small(){（&countup(2026/01/23,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~TwiX|~&icon_fa(fa fa-twitter)|@trendy|
+|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[Lv〇　チンピラ]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-縦型動画投稿アプリ『トレンディ』を盛り上げるために発足した団体
+-市長に自分たちの活動をアピールし公認を得た
+-市から予算の提供を受けトレンディ動画投稿者の収益化業務を担当
+--投稿した人への報酬の提供の他、クオリティの高いバズった動画には特別報酬も授与している
+-公式メンバーも積極的に規範となる動画投稿をしている
+-[[ニュース記事：公式Discordリンク>>https://discord.com/channels/1020353737539199057/1021121445356638348/1469730585114312826]]
+#twitter_widget3(){
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9Season2?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラSeason2</a> ニュース更新📰<br><br>◆TOPIC◆<br>あなたもトレンディを始めませんか？<br><br>街で流行している動画投稿アプリ「トレンディ」について、みかん(PL:<a href="https://twitter.com/solionzi?ref_src=twsrc%5Etfw">@solionzi</a>)による記事が更新されました📱<br><br>詳細は公式Discord内のニュースにて💁<a href="https://t.co/5hKEPUYEiy">https://t.co/5hKEPUYEiy</a> <a href="https://t.co/02JTRjznHx">pic.twitter.com/02JTRjznHx</a></p>&mdash; ストグラ運営 (@STGR_RolePlay) <a href="https://twitter.com/STGR_RolePlay/status/2020505396503630110?ref_src=twsrc%5Etfw">February 8, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+}
+
+**メンバー
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){加入日=hide,役職=show,備考=show}
+|~名前|~加入日|~役職|~備考|h
+|[[Lv〇　チンピラ]]|2026年1月|||
+|[[剛力　たけし]]|2026年1月|||
+|[[亀山　ヒロ>>焼野原　ひろし]]|2026年1月|||
+|[[ねずみさん>>えぐち　きの子]]|2026年1月|会計||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+//***協力関係
+//
+#co{
+//***過去メンバー
+#table_style(head=#696969:#F9FCFF)
+|~名前|~加入日|~脱退日|~備考|h
+|名前|加入日|yyyy/mm/dd|備考|
+|名前|加入日|yyyy/mm/dd|備考|
+//|名前|加入日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+#co{
+//**拠点
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
+|~番地|~場所|~通称|~管理者|~備考|h
+|番地|場所|通称|管理者|備考|
+|番地|場所|通称|管理者|備考|
+|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+**歴史
+***2026年
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+|01/23|市からの認可を受ける|[[Lv〇　チンピラ]]、[[剛力　たけし]]、&br()[[亀山　ヒロ>>焼野原　ひろし]]、[[ねずみさん>>えぐち　きの子]]|トレンディを盛り上げる運営団体として市長に認められ正式に発足&br()提供される資金の管理は信頼のおける者としてねずみさんが指名された|
+|03/18|TwiXバイト募集開始|-|業務内容は一日一本トレンディからおすすめの動画をTwiXにアップロードすること&br()一本20万(一日)以上でアルバイトの募集を行う|
+|06/14|収益化無期限停止||運営継続困難の為収益化の無期限停止を発表した&br()&openclose2(show=告知文▼){&br()【トレンディ収益化無期限停止】&br()長らく収益分配の運営をさせていただいてましたがいろいろな要因が重なって&br()運営継続がお約束できない状況になったので無期限で収益化停止させていただきます。&br()また復活した際はよろしくお願いします！&br()ありがとうございました&br()現在までの動画はすべて収益化させていただきます！}|
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+&link_aname(トレンディ公式,page=えぐち　きの子){関連：ねずみさんのページ該当項へのリンク}
+
+#right(){&link_up(🔝ページTOPへ)}

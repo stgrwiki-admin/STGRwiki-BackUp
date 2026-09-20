@@ -1,0 +1,91 @@
+*プロフィール
+//&image(ここに画像のURLを入力,y=400)
+
+//ここからプロフィール
+#table_style(head=#E6E6FA:#666666){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(ほだか){歩高}　&ruby(){よつば}|
+|~出身地|~&icon_fa(fa fa-location-dot)||
+|~誕生日|~&icon_fa(fa fa-cake-candles)|yyyy年mm月dd日 (&countup(//,)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2026年04月10日 (&countup(2026/04/10,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|海上レストラン「[[Urashima]]」&small(){体験(2026/04/10)}|
+|~所属|~&icon_fa(fa fa-users)||
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)||
+|~レーサー名|~&icon_fa(fa fa-car)||
+|~電話番号|~&icon_fa(fa fa-phone)||
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|よつばくん|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/428_kun]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@428kun]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/428kun]]|
+|BGCOLOR(#eee):~アーカイブ|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@428vt]]|
+|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)||
+//海上レストランの体験を始めたのは4/11ですが年表ルールに準拠して記載を4/10としています。
+//
+#co{コピー用🔽以下必要な場合にご利用下さい
+
+【Instagram】&font(#CF2E92){&icon_fa(fa-brands fa-instagram)} [[&font(#DC2E74){Instagram}>>ＵＲＬ]]
+【ツイキャス】[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting(チャンネル名)}>>ＵＲＬ]]
+【TikTok】&font(#000){&icon_fa(fa-brands fa-tiktok)}[[&font(#000){TikTok(チャンネル名)}>>ＵＲＬ]]
+【キック】[[&font(#008000){&icon_fa(fa fa-external-link)Kick(チャンネル名)}>>ＵＲＬ]]
+
+}
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-情報を記述
+
+*エピソード
+**2026年
+&bold(){エピソード募集中}
+#region(4月,close)&bold(){4月}
+***4/10 [[歩高よつば1日目>>https://www.youtube.com/live/pqSdmZfWGdo?si=2RcBwPafiMLnZCiU]]
+#region(開く,close)
+- 
+#endregion()
+***4/11 [[歩高よつば2日目>https://www.youtube.com/live/iPbiVEkNDVA?si=ZEDo09-f-uiQts1U]]
+#region(開く,close)
+
+#endregion()
+***4/23 [[歩高よつば3日目>https://www.youtube.com/live/MEreohrZmN8?si=irO1kZPgIkzvW2VF]]
+#region(開く,close)
+
+#endregion()
+#endregion(4月)
+#region(5月,open)&bold(){5月}
+***5/1 [[歩高よつば4日目>https://www.youtube.com/live/qPgH0XMgc-I?si=8tzwngiBqcc-L5pi]]
+#region(開く,close)
+
+#endregion()
+#endregion(5月)
+
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion(dd日)
+
+#endregion(mm月)
+
+}
+
+*アーカイブ
+**2026年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|4/10|1|[[歩高よつば1日目>>https://www.youtube.com/live/pqSdmZfWGdo?si=LlB-aq37kpOift1d]]||
+|4/11|2|[[歩高よつば2日目>https://www.youtube.com/live/iPbiVEkNDVA?si=JqOAtPLmnzKGzs76]]||
+|4/23|3|[[歩高よつば3日目>https://www.youtube.com/live/iPbiVEkNDVA?si=JqOAtPLmnzKGzs76]]||
+|5/1|4|[[歩高よつば4日目>https://www.youtube.com/live/iPbiVEkNDVA?si=JqOAtPLmnzKGzs76]]||
+|||||
+//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

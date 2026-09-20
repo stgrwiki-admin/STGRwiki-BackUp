@@ -1,0 +1,189 @@
+&font(16px,b,u,black){Season1}
+#region(開く)
+***&font(25px,#EB7474){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(お試し5.png,x=100,y=200)|~&size(35){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&size(35){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&blankimg(夏服.png,x=100,y=200)|~&blankimg(秋服2.png,x=100,y=200)|~&blankimg(寝巻.png,x=100,y=200)|~&blankimg(春.png,x=100,y=200)|~&blankimg(うさぎ.png,x=100,y=200)|
+|~お試し5|~私服4|~私服6|~夏服|~秋服2|~寝巻|~春|~うさぎ|
+|&font(10px){ギャング服の試作&br()だったが私服になった}|&font(10px){240322&br()衣類アプデ時に作成}|&font(10px){240322&br()衣類アプデ時に作成}|&font(10px){}|&font(10px){}|&font(10px){構成員とお揃い}|||
+//
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(ぎゃう_02.png,x=100,y=200)|
+|~ぎゃう|
+||
+#endregion()
+//
+***&font(25px,#969696){&icon_fa(fa-solid fa-user-tie)} 協会正装服
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(花2.png,x=100,y=200)|~&blankimg(空き巣２.png,x=100,y=200)|
+|~花2|~空き巣３|
+|&font(10px){マトリ撲滅協会正装&br()サバンナカイト}|&font(10px){空き巣協会正装&br()白井太郎}|
+//空き巣協会正装：衣類アプデによる修正時に空き巣2から空き巣3（太斗氏）に上書きで変更
+#endregion()
+//
+***&font(25px,#EB7474){&icon_fa(fa-solid fa-ghost)} 変装服
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(花.png,x=100,y=200)|~&blankimg(ホットドック.png,x=100,y=200)|~&blankimg(ダイビング.png,x=100,y=200)|~&blankimg(チキンスーツ.png,x=100,y=200)|~&blankimg(キングスーツ.png,x=100,y=200)|~&blankimg(推し-01.png,x=100,y=200)|~&blankimg(雀荘.png,x=100,y=200)|~&blankimg(軍事.png,x=100,y=200)|
+|~花|~ホットドック|~ダイビング|~チキンスーツ|~キングスーツ|~推し|~雀荘|~軍事|
+||&font(12px){ホット婆}|&font(10px){違法ダイビング&釣り用&br()魚 魚魚}||&font(10px){ジャックキング}|&font(12px){安藤茂}|&font(12px){西ゴリラ東}|&font(12px){軍人上官}|
+//変装服2段目
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(その他.png,x=100,y=200)|~&blankimg(医者.png,x=100,y=200)|~&blankimg(春大型2.png,x=100,y=200)|
+|~その他|~医者|~春大型2|
+|&font(10px){警察}|&font(10px){医者}|&font(10px){春の大型服没案}|
+#endregion()
+//
+****&font(25px,#FFBFCB){&icon_fa(fa fa-user-secret)} 【868】ギャング服
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(お試し2_冬大型.png,x=100,y=200)|~&blankimg(sima.png,x=100,y=200)|~&blankimg(sima2.png,x=100,y=200)|~&blankimg(seisou_SR.png,x=100,y=200)|~&blankimg(夏服大型.png,x=100,y=200)|~&blankimg(秋大型2.png,x=100,y=200)|~&blankimg(春大型.png,x=100,y=200)|
+|~お試し２|~sima|~sima2|~'seisou|~夏服大型|~秋大型2|~春大型|
+|冬用大型服|旧シマトリ服|シマトリ服&br()ルブタン|ギャングスーツ|夏用大型服|秋用大型服|春用大型服|
+#endregion()
+//
+//&blankimg('seisou.png,x=100,y=200)
+//
+****&font(25px,#EB7474){&icon_fa(fa-solid fa-person-circle-question)} その他
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(purizun.png,x=100,y=200)|~&blankimg(お試し8.png,x=100,y=200)|~&blankimg(夏服大型3.png,x=100,y=200)|
+|~purizun|~お試し8|~夏服大型3|
+||&font(10px){ギャング服試作}|&font(10px){夏の大型服没案}|
+//
+#endregion()
+//
+//-----------------------------------------削除済の服---------------------------------
+***&font(25px,#000){&icon_fa(fa fa-trash-can)} 削除済の服
+#region(開く)閉じる
+※ほぼ削除されたのちに記載しているため、名称が不正確です。情報募集中。
+***&font(25px,#EB7474){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(初期服.png,x=100,y=200)|~&blankimg(私服１.png,x=100,y=200)|~&blankimg(名称不明_居たら嫌なやつ.png,x=100,y=200)|~&blankimg(私服.png,x=100,y=200)|~&size(35){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&size(35){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&size(35){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&blankimg(mizgi.png,x=100,y=200)|
+|~初期服|~私服１|~3 (?)|~私服|~私服3|~私服5|~休暇|~mizgi|
+|&font(10px){隣町から逃げて&br()来たときの服装}|&font(10px){普段着だったが&br()崩壊し削除}|&font(10px){居たら嫌なやつ}|&font(10px){}||||&font(10px){水着}|
+//削除済日常服：2段目
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(mizgi2.png,x=100,y=200)|~&blankimg(釣り.png,x=100,y=200)|~&blankimg(秋服.png,x=100,y=200)|~&blankimg(ぎゃう_01.png,x=100,y=200)|
+|~mizgi2|~釣り|~秋服|~ぎゃう|
+|&font(10px){水着}|&font(10px){}|&font(10px){}|&font(10px){[[天王寺>天王寺　京司郎]]さんと&br()お揃いのズボン}|
+#endregion
+//
+***&font(25px,#EB7474){&icon_fa(fa-solid fa-ghost)} 変装服
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(私服２.png,x=100,y=200)|~&blankimg(空き巣1.png,x=100,y=200)|~&blankimg(犯罪１.png,x=100,y=200)~&blankimg(犯罪1-02.png,x=100,y=200)|~&blankimg(犯罪２.png,x=100,y=200)|~&blankimg(犯罪3.png,x=100,y=200)|~&blankimg(犯罪_緑.png,x=100,y=200)|~&blankimg(犯罪_ツリー.png,x=100,y=200)|
+|~私服2|~空き巣1|~犯罪１|~犯罪２|~犯罪3|~名称不明|~名称不明|
+|&font(10px){コンドル山崎}|&font(10px){}|&font(10px){ジェントルマン脳みそ&br()脳みそ男}|||&font(10px){犯罪4or5or6}|&font(10px){犯罪4or5or6}|
+//名称不明は恐らく犯罪4or5or6
+//削除済み変装：2段目
+#table_style(head=center:#EB7474:#FFF)
+|~&size(35){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&blankimg(空き巣３.png,x=100,y=200)|~&blankimg(raibu.png,x=100,y=200)|~&blankimg(neko.png,x=100,y=200)|~&size(35){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&blankimg(悪魔_太斗氏.png,x=100,y=200)~&blankimg(悪魔_back.png,x=100,y=200)|
+|~犯罪|~空き巣３|~raibu|~neko|~box|~悪魔|
+|&font(10px){犯罪4or5or6}|&font(10px){天才ハッカー太斗氏}|&font(10px){バンド「LOVE FIST」の&br()Vo:ジョッキー武田}|||&font(10px){天才ハッカー太斗氏、背中の悪魔が見える}|
+//削除済み変装：3段目
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(BBQ-01.png,x=100,y=200)~&blankimg(BBQ-02.png,x=100,y=200)|~&size(35){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&size(35){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&blankimg(tora.png,x=100,y=200)|~&blankimg(〇暴.png,x=100,y=200)|
+|~BBQ|~指名手配|~wasizu|~tora|~〇暴|
+|&font(10px){山野山男}||||&font(10px){四露死苦バイク用}|
+#endregion
+****&font(25px,#EB7474){&icon_fa(fa-solid fa-person-circle-question)} その他
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(ギャング_IRiS.png,x=100,y=200)|~&blankimg(ギャング2_餡ブレラ.png,x=100,y=200)|~&blankimg(a.png,x=100,y=200)|~&blankimg(お試し.png,x=100,y=200)|~&blankimg(お試し3.png,x=100,y=200)|~&blankimg(お試し4.png,x=100,y=200)|~&blankimg(お試し6.png,x=100,y=200)|~&blankimg(お試し7.png,x=100,y=200)|
+|~ギャング|~ギャング2|~a|~お試し|~お試し3|~お試し4|~お試し6|~お試し7|
+|&font(10px){[[IRiS]]の傭兵}|&font(10px){[[餡ブレラ]]の傭兵}|&font(10px){ギャング服試作}|&font(10px){ギャング服試作}|&font(10px){ギャング服試作}|&font(10px){ギャング服試作}|&font(10px){ギャング服試作}|&font(10px){ギャング服試作}|
+//
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(よージロー.png,x=100,y=200)|~&blankimg(’seisou-01.png,x=100,y=200)|~&blankimg(夏服大型2.png,x=100,y=200)|
+|~よージロー|~'seisou|~夏服大型2|
+|&font(10px){レダー考案ギャン服}|&font(10px){音鳴考案&br()ギャングスーツ没案}|&font(10px){夏の大型服試作}|
+//名称不明で登録できない
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(240322 名称不明_たぬき.png,x=100,y=200)~&blankimg(240322 名称不明_白カーデ.png,x=100,y=200)~&blankimg(240322 名称不明_法被.png,x=100,y=200)~&blankimg(240322 名称不明_ピンクパーカー.png,x=100,y=200)|~&blankimg(240505 名称不明_仮面.png,x=100,y=200)|
+|~名称不明|~名称不明|
+|&font(10px){240322衣類アプデ時に作成&br()box, 私服３,私服4, 私服5, 私服6のどれか}|&font(10px){240504 に着用&br()指名手配 or wasizu}|
+#endregion
+//
+#endregion(削除)
+//～～～～～～～～～～～～～～～～～～～～TATTOO～～～～～～～～～～～～～～～～～～～
+***&font(25px,#EB7474){&icon_fa(fa-solid fa-person)} Tattoo
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(音鳴Tattoo_背中.png,x=100,y=100)|~&blankimg(音鳴Tattoo_右腕.png,x=100,y=100)|
+|~背中：悪魔&br()（Weathered Skull）|~右腕:&br()（Angel & Devil）|
+#endregion()
+#endregion(S1)
+
+//====Season2====Season2====Season2====Season2====Season2====Season2====Season2====Season2
+//Season2====Season2====Season2====Season2====Season2====Season2====Season2====Season2====Season2
+//
+&font(16px,b,u,black){Season2}
+***&font(25px,#EB7474){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(S2_音鳴初期服.png,x=120,y=240)|~&blankimg(S2_a.png,x=120,y=240)|~&blankimg(S2_tekitou.png,x=120,y=240)|~&blankimg(S2_itumono.png,x=120,y=240)|
+|~デフォルトコーデ|~a|~tekitou|~itumono|
+|CENTER:&font(7pt){Season2初期服&br()寝ている間に黒髪に戻った}|||CENTER:&font(7pt){Season1秋服2}|
+#endregion(S2日常服)
+//
+//***&font(25px,#EB7474){&icon_fa(fa-solid fa-ghost)} 変装服
+//#region(開く)閉じる
+//
+//
+//#endregion(S2変装)
+//
+****&font(25px,#EB7474){&icon_fa(fa-solid fa-person-circle-question)} その他
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(S2_砂金ハンター.png,x=120,y=240)|~&blankimg(S2_ooo.png,x=120,y=240)|~&blankimg(S2_turi.png,x=120,y=240)|
+|~砂金ハンター|~ooo|~turi|
+|CENTER:砂金用|CENTER:ﾌｧｯｼｮﾝｾﾝﾀｰ二部ｺｰﾃﾞ|CENTER:釣り用|
+#endregion(S2その他)
+***&font(25px,#EB7474){&icon_fa(fa-solid fa-ghost)} 変装服
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(S2_akisuiuu.png,x=120,y=240)|~&blankimg(S2_tanpopo_02.png,x=120,y=240)|
+|~akisuiuu|~tanpopo|
+|CENTER:&bold(){白井 太郎}&br()空き巣協会|CENTER:&bold(){短 歩歩}|
+#endregion(S2変装)
+//-----------------------------------------削除済の服---------------------------------
+***&font(25px,#000){&icon_fa(fa fa-trash-can)} 削除済の服
+#region(開く)閉じる
+***&font(25px,#EB7474){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(S2_音鳴初日.png,x=120,y=240)|~&blankimg(S2_Day3.png,x=120,y=240)|~&blankimg(S2_未保存260201.png,x=120,y=240)|
+|~未保存|~未保存|~未保存|
+|CENTER:未保存で消失|CENTER:未保存で消失|CENTER:Season1の秋服2&br()未保存で消失|
+#endregion()
+***&font(25px,#EB7474){&icon_fa(fa-solid fa-ghost)} 変装服
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(S2_a_02未保存.png,x=120,y=240)|~&blankimg(S2_未保存_260613.png,x=120,y=240)|~&blankimg(S2_tajnpopo.png,x=120,y=240)|~&blankimg(S2_tanpopo.png,x=120,y=240)|
+|~未保存|~未保存|~tajnpopo|~tanpopo|
+|CENTER:a＋マスク&br()未保存で消失|CENTER:変装らしい&br()未保存で消失|CENTER:&bold(){短 歩歩}|CENTER:&bold(){短 歩歩}&br()より茶色に|
+#endregion(S2変装)
+#endregion(削除)
+//～～～～～～～～～～～～～～～～～～～～TATTOO～～～～～～～～～～～～～～～～～～～
+***&font(25px,#EB7474){&icon_fa(fa-solid fa-person)} Tattoo
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#FFF)
+|~&blankimg(S2_音鳴Tattoo_背中.png,x=120,y=120)|
+|~背中：サムライ&br()ライドフォーエバー|
+
+#endregion()
+//
+//↓テンプレート
+//***&font(25px,#EB7474){&icon_fa(fa fa-shirt)} &font(#EB7474){ジャンルタイトル}
+//#region(開く)閉じる
+//#center(){
+//#table_style(head=center:#EB7474:#FFF)
+//|~&blankimg(画像名,x=100,y=200)|
+//|~服タイトル名|
+//|CENTER:&font(10px){}|
+//}
+//#endregion()
+//写真なし：~&size(35){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}

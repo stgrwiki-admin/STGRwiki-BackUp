@@ -1,0 +1,174 @@
+#center{
+#slide_img(auto=3,width=370,height=215){MellowBerry_ロゴ.jpeg,MellowBerry_店内.webp,MellowBerry_店内2.webp}}
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#c1e0ff){}
+|~店名|~&icon_fa(fa fa-store)|&ruby(めろう　べりぃ){Mellow Berry}|
+|~業種|~&icon_fa(fa fa-)|飲食店|
+|~開業日|~&icon_fa(fa fa-flag)|2026年7月1日&space()&small(){（&countup(2026/7/1,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|9080番地|
+|~オーナー（店長）|~&icon_fa(fa-solid fa-user-tie)|&s(){&bold(){[[ゆちゃ　めろでぃ]]}}(失踪)|
+|~臨時オーナー|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[岐阜野　こみ蔵]]}|
+|~仮店長|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[月乃　えるな]]}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・店員が夢の世界で実際に作った『手作り料理』を提供する店。
+・カジノ[[LosVegas]]とメカニック[[LUNA garage]]に資金提供を受けて開業。
+|&blankimg(Mellow Berry_Flier_01.jpg,X=210,y=310)|&blankimg(Mellow Berry Closed.jpg,X=210,y=310)|
+
+
+**従業員情報
+***従業員
+#table_style(head=#c1e0ff)
+|~名前|~役職|~就職日|~備考|~配信|h
+|[[ゆちゃ　めろでぃ]]|オーナー(店長)&br()Manager|26/06/17|失踪（26/07/08）|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCNiU-U3uRSBLuWDEL2hnOnA]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yucham_yuchamero]]|
+|[[岐阜野　こみ蔵]]|臨時オーナー&br()Manager|26/07/08|&font(8pt){店長にもしもの事があったらこの店を頼む、売り払っても構わないと託された。}|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/komichin0704]]|
+|[[月乃　えるな]]|仮店長&br()Manager|26/06/17|&font(8pt){臨時オーナーである岐阜野こみ蔵が一時帰国する為、仮店長ならばと店を引き受けた。}|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/cielxxx247]]|
+|[[こさ　猫弐郎]]|Recruit|26/06/18||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kottaso]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E3%81%93%E3%81%A3%E3%81%95%E3%82%8A%E3%82%B7%E3%83%A5%E3%83%B3%E3%82%BF%E3%82%BD]]|
+|[[マイゴ・ニ＝ナリエル]]|Recruit|26/06/20||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCyzZB-zCayJsVLfRuVWa6aQ?si=SWgXv171w1a6f9Zs]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/stray_channel]]|
+|[[ぎちょう・じょばぁーな]]|Recruit|26/06/24||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/abotan0327]]|
+|[[堕夜　だよ]]|Recruit|26/06/24||&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/dayodayo_dayo]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/@DayoDayo_dayo]]|
+|[[パン　チャン]]|Recruit|26/06/25||&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@Silvershieldgangallll/featured]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCJQIKUi9ZoxTSbdKuGwMVbw]]|
+|[[五十嵐　えいむ]]|Manager|26/07/04|&font(8pt){店長から何かあった時は頼んだとManager権限を託された。}|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@bobsappaim0304]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/bobsappaim0304]]|
+|[[三島　みつー]]|Recruit|26/07/04||&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/mitsuki_mitsuu]]&br()&font(#c9243a){&icon_fa(fa fa-youtube-play)} [[&font(#c9243a){YouTube}>>https://youtube.com/@mituki0916]]|
+|[[キーモット　ホームズ]]|Recruit|26/09/09|[[音凪　紬]]の紹介で雇用された。&br()探偵事務所としても間借りしている|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kimotomoto]]|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+#co{
+//***職業体験者
+#table_style(head=#c1e0ff)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+}
+#co{
+//***退職者
+#table_style(head=#c1e0ff)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+**商品情報
+***Food
+#region(,open)
+#size(90%){#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,料理人=hide,商品説明=show}
+#table_style(head=#c1e0ff){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~料理人|~商品説明|h
+|🍔|&blankimg(バスクチーズケーキ.png,y=40,x=50)|バスクチーズケーキ|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|表面は香ばしく、中はしっとりなめらか。濃厚なチーズのコクと優しい甘さが広がる、&br()満足感たっぷりのバスクチーズケーキです。|
+|🍔|CENTER:MIDDLE:&blankimg(珈琲ゼリー.png,y=40,x=20)|珈琲ゼリー・ア・ラ・モード|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|ほろ苦いコーヒーゼリーに、なめらかなバニラアイスを贅沢に添えた大人のデザート。&br()コーヒーの豊かな香りとほろ苦さに、バニラアイスの優しい甘さが溶け合い、&br()ひと口ごとに違った味わいを楽しめます。食後にぴったりな、どこか懐かしく上品な一杯です。 |
+|🍔|&blankimg(紫陽花団子.png,y=40,x=50)|紫陽花団子|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|もちもちの白玉にあんこでお花をしぼりました。|
+|🍔|&blankimg(肉じゃが.png,y=40,x=50)|肉じゃが|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|じっくり煮込んだ牛肉と野菜に、やさしい出汁がしみ込んだ定番の一品。&br()どこか懐かしく、心までほっと温まる家庭の味です。|
+|🍔|&blankimg(豚骨ラーメン.png,y=40,x=50)|豚骨ラーメン|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|豚骨の旨みを丁寧に引き出した、コク深くまろやかなスープ。&br()最後の一口まで飽きずに楽しめる、満足感たっぷりの一杯です。|
+|🍔|&blankimg(旨辛コングクス.png,y=40,x=50)|旨辛コングクス|¥5,000|26/07/08|[[月乃　えるな]]|コングクスは苦手なのでがっつり味付けてみました。コングクスって何？|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}}
+#endregion
+//&blankimg(.png,y=40,x=50)
+//
+***🥚卵焼きガチャ
+#region(,open)
+#size(90%){#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,料理人=hide,商品説明=show}
+#table_style(head=#c1e0ff){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~料理人|~商品説明|h
+|🍔|CENTER:&blankimg(ガチャ1_卵焼きガチャ.png,y=40,x=40)|🥚卵焼きガチャ|¥10,000|26/07/01||かわいいあの子がつくった卵焼きがはいっているかも？|
+|🍔|&blankimg(ガチャ1_あげころ卵焼き.png,y=40,x=50)|🥚あげころ卵焼き|-|26/07/01|[[揚物　ころも]]|こんなかわいい卵焼きを作れるんだよ！|
+|🍔|&blankimg(ガチャ1_あげころ卵焼き失敗作.png,y=40,x=50)|🥚あげころ卵焼き失敗作|-|26/07/01|[[揚物　ころも]]|かわいい卵焼きを作ろうとしたら失敗しました。|
+|🍔|&blankimg(ガチャ1_じょば卵焼き.png,y=40,x=50)|🥚じょば卵焼き|-|26/07/01|[[ぎちょう・じょばぁーな]]|実は料理できちゃう系男子じょばの作った卵焼き|
+|🍔|&blankimg(ガチャ1_だよ卵焼き.png,y=40,x=50)|🥚だよ卵焼き|-|26/07/01|[[堕夜　だよ]]|卵焼きといってこの見た目を作れるのはボクだけです。|
+|🍔|&blankimg(ガチャ1_ぱんちゃん卵焼き.png,y=40,x=50)|🥚ぱんちゃん卵焼き|-|26/07/01|[[パン　チャン]]|お母さんが卵は2個のほうがいいよと言ったので2個にしました。|
+|🍔|&blankimg(ガチャ1_ぱんちゃん卵焼き（ロゴ入り）.png,y=40,x=50)|🥚ぱんちゃん卵焼き（ロゴ入り）|-|26/07/01|[[パン　チャン]]|お母さんが卵は2個がいいよといったので2個にしました。&br()上手につくれてうれしくなってロゴも書きました。|
+|🍔|&blankimg(ガチャ1_ゆちゃ卵焼き.png,y=40,x=50)|🥚ゆちゃ卵焼き|-|26/07/01|[[ゆちゃ　めろでぃ]]|白だしをつかったシンプル卵焼き|
+|🍔|&blankimg(ガチャ1_こさ卵焼き.png,y=40,x=50)|🥚こさ卵焼き|-|26/07/01|[[こさ　猫弐郎]]|こっさん卵焼き。大根おろしといっしょにどうぞ。|
+|🍔|&blankimg(ガチャ1_ナリエル.png,y=40,x=50)|🥚ナリエル|-|26/07/02|[[マイゴ・ニ＝ナリエル]]|明太子たまご焼きです。|
+|🍔|&blankimg(ガチャ1_スコ卵焼き.png,y=40,x=50)|🥚スコ卵焼き|-|26/07/05|[[スコティッシュ・ホールド]]|頑張ってお料理したの😸|
+|🍔|&blankimg(ガチャ1_こみ蔵卵焼き.png,y=40,x=50)|🥚こみ蔵卵焼き|-|26/07/16|[[岐阜野　こみ蔵]]|秘伝のタレに漬け込んだ甘辛いホルモンを包み込んだ卵焼き|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}}
+#endregion
+//&blankimg(ガチャ1_.png,y=40,x=50)
+//
+***Drink
+#region(,open)
+#size(90%){#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,料理人=hide,商品説明=show}
+#table_style(head=#c1e0ff){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~料理人|~商品説明|h
+|💧|CENTER:MIDDLE:&blankimg(果実の午後.png,y=40,x=30)|果実の午後|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|果実の甘い香りがふわりと広がる、爽やかなレモンティー。&br()レモンのすっきりとした酸味に、オレンジやベリーを思わせる優しい果実感を重ねました。&br()紅茶の香りと果実の余韻が心地よく続く、午後のひとときを彩る一杯です。|
+|💧|CENTER:MIDDLE:&blankimg(琥珀ラテ.png,y=40,x=27)|琥珀ラテ|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|香り高いコーヒーにミルクをたっぷり合わせた、まろやかなアイスラテ。&br()琥珀色に溶け合うコーヒーとミルクの優しい甘さをお楽しみください。|
+|🍔💧|CENTER:MIDDLE:&blankimg(星彩ソーダ.png,y=40,x=27)|星彩ソーダ|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|色とりどりのわらび餅がきらめく、まるで夜空の宝石箱のようなソーダ。&br()爽やかな炭酸ともちもち食感を楽しめる一杯です。|
+|💧|CENTER:MIDDLE:&blankimg(紫陽花の雫_icon.png,y=40,x=40)|紫陽花の雫|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|巨峰の芳醇な甘さとレモンの爽やかな風味が織りなす、紫陽花をイメージした幻想的なソーダ。&br()きらめく炭酸が雨上がりの雫のように弾け、紫から淡く移ろう色彩が初夏の景色を映し出します。&br()見た目にも美しく、すっきりとした味わいを楽しめる一杯です。| 
+|💧|CENTER:MIDDLE:&blankimg(紅月ソーダ_icon.png,y=40,x=40)|❤️紅月ソーダ|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|夕暮れの空に浮かぶ紅い月をイメージした幻想的なドリンク。&br()華やかな香りと深みのある甘さが、特別な夜へと誘います。深みのあるベリーとチェリーの華やかな甘さ。|
+|💧|CENTER:MIDDLE:&blankimg(蒼空ソーダ.png,y=40,x=20)|💙蒼空ソーダ|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|どこまでも広がる青空を映した、爽やかなクリームソーダ。&br()弾ける炭酸と優しい甘さが、心地よい風のように駆け抜けます。澄み渡る青空のような爽やかなラムネ風味。|
+|💧|CENTER:MIDDLE:&blankimg(翠星ソーダ.png,y=40,x=20)|💚翠星ソーダ|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|彗星のように美しく輝く緑をイメージしたメロンソーダ。&br()みずみずしい甘さと爽快な炭酸が楽しめる一杯です。王道メロンソーダを爽やかにアレンジ。|
+|💧|CENTER:MIDDLE:&blankimg(陽月ソーダ_icon.png,y=40,x=40)|💛陽月ソーダ|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|夜空を照らす黄金の月明かりを表現したドリンク。&br()優しい甘さと明るい色合いが、心をほっと温めてくれます。月明かりのように優しく輝く甘酸っぱい一杯。|
+|💧|CENTER:MIDDLE:&blankimg(宵月ソーダ.png,y=40,x=20)|💜宵月ソーダ|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|夕暮れから夜へ移り変わる空を閉じ込めた幻想的なソーダ。&br()紫色のグラデーションと爽やかな後味が印象的な一杯です。|
+|💧|CENTER:MIDDLE:&blankimg(夕星ソーダ_icon.png,y=40,x=40)|🧡夕星ソーダ|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|夕焼けの空に最初に輝く一番星を表現したオレンジソーダ。&br()柑橘の爽やかさと優しい甘みが広がる、温かな味わいです。|
+|💧|CENTER:MIDDLE:&blankimg(暁空ソーダ_icon.png,y=40,x=40)|🩷暁空ソーダ|¥5,000|26/07/01|[[ゆちゃ　めろでぃ]]|夜明け前の空を染める淡い桃色をイメージした一杯。&br()優しい甘さとやわらかな色合いが、穏やかな朝の訪れを感じさせます。朝焼けの空を思わせる優しい桃の甘さ。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}}
+#endregion
+//CENTER:MIDDLE:&blankimg(.png,y=40,x=20) 2:1
+//CENTER:MIDDLE:&blankimg(.png,y=40,x=30) 4:3
+//CENTER:MIDDLE:&blankimg(.png,y=40,x=26) 3:2
+//
+***Joint
+#region(,open)
+#size(90%){#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,料理人=hide,商品説明=show}
+#table_style(head=#c1e0ff){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~料理人|~商品説明|h
+
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}}
+#endregion
+//
+***非売品
+#region(,open)
+#size(90%){#table_filter(){No.=show,種類=show,商品説明=show}
+#table_style(head=#c1e0ff){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~商品説明|h
+|🍔💧||めぐうさアイス|めぐみさんイメージのいちごみるく味アイス！お注射で元気になぁれ！|
+|🍔|&blankimg(えるな非売品_イライラさせてんじゃね～よ.png,y=40,x=50)|イライラさせてんじゃね～よ|イライラした時にどうぞ。 |
+|🍔|&blankimg(えるな非売品_ダラダラしてんじゃね～よ.png,y=40,x=50)|ダラダラしてんじゃね～よ|懐かしい味。おつまみにどうぞ。 |
+|🍔|&blankimg(えるな非売品_ヘラヘラしてんじゃね～よ.png,y=40,x=50)|ヘラヘラしてんじゃね～よ|ヘラヘラしてる奴にどうぞ。なんかノリノリになれます♪ |
+||CENTER:&blankimg(ゆちゃ非売品_ねねぬい.png,y=50,x=40)|ねねぬい|鬼野ねねはいつもあなたの心の中に|
+||CENTER:&blankimg(ゆちゃ非売品_仮面ねねぬい.png,y=50,x=40)|仮面ねねぬい|鬼野ねねはいつもあなたの心の中に|
+|🍔⚡|CENTER:&blankimg(ゆちゃ非売品_ゆちゃクッキー.png,y=50,x=40)|ゆちゃクッキー|ゆちゃめろクッキー いつもみんなありがとう🍓大好きです♬&br()（ストレスが溜まる）|
+||CENTER:&blankimg(ぴぴ非売品_ゆちゃさんへ.png,y=50,x=40)|🐱ゆちゃさんへ|少しでも穏やかな時間を過ごせますように。&br()ぴぴはいつでもゆちゃさんの味方だす。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}}
+#endregion
+//&blankimg(非売品_.png,y=40,x=50)
+//
+***メニュー画像
+#region(開く,open)閉じる
+&blankimg(Mellow Berry Menu_01.jpg,X=210,y=310)&blankimg(Mellow Berry_卵焼きガチャFlier.jpg,X=210,y=310)
+#endregion
+//
+//画像はゆちゃ視点のスクショをメインに使用しています。ゆちゃのインベントリが銃や闇医者道具で物騒すぎるため背景を透過しています。きれいな画像の提供大歓迎。
+
+**沿革
+***2026年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#c1e0ff)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|05/30|店舗ハウジング完成|[[ゆちゃ　めろでぃ]]|建築士の[[閃光寺　亜夢]]にハウジングを依頼し、1日で納品された。|
+|06/17|開業許可|[[ゆちゃ　めろでぃ]]|市より開業許可が下り、オーナー権限が付与された。&br()マップに「&icon_fa(fa-solid fa-music)」のアイコンが付いた。&small(){&openclose2(show=開業目的){:稼ぎの悪い闇医者の為に開業。実は闇医者と複合ジョブとなっている。&br()裏の拠点で治療道具を販売する予定。秘匿組織のカモフラージュの為に白市民も雇用。}}|
+|07/01|グランドオープン|[[ゆちゃ　めろでぃ]]&br()[[月乃　えるな]]&br()[[こさ　猫弐郎]]&br()[[パン　チャン]]|急遽25時よりオープン。&br()10万円以上のお会計でサイコロの目に応じた[[LosVegas]]のカジノチップをキャッシュバックした。|
+|07/08|店長失踪|[[ゆちゃ　めろでぃ]]&br()[[岐阜野　こみ蔵]]|[[ゆちゃ　めろでぃ]]が失踪。何かあったらと後を託されていた[[岐阜野　こみ蔵]]が責任者となった。|
+|07/17|不動産管理者移行|[[岐阜野　こみ蔵]]&br()[[ももみ]]|ゆちゃが残していた委任状により、不動産管理者がこみ蔵に移された。&small(){&openclose2(show=*){&br()裏の住宅は闇医者用だったが、こみ蔵が知らないため、店舗と一緒にこみ蔵に移された。}}|
+|08/01|こみ蔵一時帰国|[[岐阜野　こみ蔵]]|こみ蔵が一時帰国。留守中の管理は[[月乃　えるな]]に託された。従業員に店舗の鍵を渡せない。|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

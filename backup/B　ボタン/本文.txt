@@ -1,0 +1,56 @@
+**プロフィール
+//&image(ここに画像のURLを入力,y=400)
+
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#E6E6FA:#666666){}
+|~世界線|~&space()&icon_fa(fa fa-arrow-right-to-city)&space()|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(びー){B}　ボタン|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|ボタン惑星ボタン王国|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年06月12日 (&countup(2025/06/12,yd)経過)|2026年1月15日（&countup(2026/01/15,yd)経過）|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|&bold(){&small(){ロスサントス警察}【[[警察官>ロスサントス警察]]】}👮 &small(){(2025/06/21〜) [&countup(2025/6/21,yd)経過]}&br()&small(){　・南署所属} &small(){(2025/07/10〜)}&br()&small(){　・階級はGrade:1,Officer(巡査長)}&br()&small(){　・特殊部隊SWAT Grade:1}|&bold(){【[[ロスサントス警察]]】}&small(){(2026/01/15〜&space()／ &countup(2026/1/15,yd)経過)}&br()&small(){　・[[特殊部隊SWAT>ロスサントス警察#SWAT]]}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|||
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|>|Aボタン|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/Abotan0327]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/abotan0327]]|
+|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):&icon_fa(fa fa-user-plus)|>|&small(){&openclose2(show=※ネタバレ注意){&br()[[ぎちょう・じょばぁーな ]]}}|
+//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ガイドライン>>ここにガイドラインのURLを入力]]|
+//|~誕生日|~&icon_fa(fa fa-cake-candles)|yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)|
+//&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@Abotan]]
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-ボタン星のボタン王国からやってきた。地球では人の姿に擬態している。
+-母星の友人は追い焚きボタン等がいる。しかしボタン星は地球の270倍の大きさの為中々友達に会えないらしい。
+-CでもDでもなくBボタン。Aボタンは一番あり得ない。
+
+**エピソード
+//
+//
+#co{↓コピー用素材
+
+//*yyyy年
+//***mm月
+#region(開く,open)&bold(){閉じる}
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+#endregion(mm月)
+
+　　 ↑コピー用素材}
+
+**アーカイブ
+***2025年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/12|1|[[Bボタン 1日目 『街の平和を守るんだ』>>https://www.twitch.tv/videos/2483867864]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

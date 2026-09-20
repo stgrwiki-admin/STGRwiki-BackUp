@@ -1,0 +1,812 @@
+*&font(25px,#00ccbb){プ}ロフィール &icon_fa(fa fa-id-card-o)
+//&image(ここに画像のURLを入力,y=400)
+|&image(初期.jpg,y=400)|&image(c8965447-5836-4fbc-a18e-1b538cd1dc12.png,y=400)|&image(S2_メチャ南よるSWAT.png,y=400)|
+　
+//ここからプロフィール
+#table_style(head=#00A497:#fff){名前=#fff:b:center}
+#table_filter(){Season1=hide,Season2=show}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user fa-fw)|>|メチャ&ruby(みなみ){南}　よる|
+|~出身地|~&icon_fa(fa fa-map-pin)|>|南の島|
+|~転入日|~&icon_fa(fa fa-suitcase-rolling)|2024年09月21日 (&countup(2024/09/21,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|1998年05月06日 (&countup(1998/05/06,y)歳)|
+|~血液型|~&icon_fa(fa fa-heartbeat)|>|不明|
+|~職業|~&icon_fa(fa fa-university fa-fw)|&icon_fa(fa-solid fa-shield-halved)&space()[[ロスサントス警察]]&br()&small(){・(1)Officer/巡査長：2024/11/12～(&countup(2024/11/12,yd)経過)}&br()&small(){・特殊部隊[[SWAT>ロスサントス警察#SWAT]] (2)}&br()&icon_fa(fa-solid fa-ice-cream)&space()[[サンサンクレープ]]&space()&small(){店員 (2024/10/30～)}&br()&icon_fa(fa-solid fa-utensils)&space()[[パキッちン]]&space()&small(){自販機バイト}| &icon_fa(fa-solid fa-shield-halved)&space()[[ロスサントス警察]]&br()&small(){・(1)Officer/巡査長：2025/12/19～(&countup(2025/12/19,yd)経過)&br()・科学捜査課}&br()&co(){&small(){・特殊部隊[[SWAT>ロスサントス警察#SWAT]] (1)}}&br()|
+|~TwiX|~&icon_fa(fa fa-dove)|@yoru|@　|
+|BGCOLOR(#9f6edb):~プレイヤー|BGCOLOR(#9f6edb):~&icon_fa(fa-solid fa-headset)|>|RintoXD|
+|BGCOLOR(#9f6edb):~告知等|BGCOLOR(#9f6edb):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/RintoXD]]|
+|BGCOLOR(#9f6edb):~配信場所|BGCOLOR(#9f6edb):~&icon_fa(fa fa-solid fa-satellite)|>|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch (rintoxd)}>>https://www.twitch.tv/rintoxd]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@RintoXD/streams]] &small(){(97日目～ 同時配信)}|
+|BGCOLOR(#9f6edb):~動画|BGCOLOR(#9f6edb):~&icon_fa(fa fa-video fa-fw)|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube (@RintoXD)}>>https://www.youtube.com/@RintoXD/videos]]|
+//
+//
+//|ガイドライン|&icon_fa(fa-solid fa-circle-info)|[[ガイドライン>>ここにガイドラインのURLを入力]]|
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&font(25px,#00ccbb){基}本情報 &icon_fa(fa fa-user-circle)
+-日常的に重火器が使われる南の島に住んでいたが、「お前に銃は向いてない」と言われて島流しにあった
+-第一住民は救急隊の[[神崎　治]]
+-一部の救急隊員から「ベリーサザンナイト」と呼ばれている(魂曰く名前の「よる」は「寄る」から来ているため、実際は「ナイト(夜)」ではないらしい)
+//
+***&underdot(#00A497,3px){&font(b){&space(2)警察として&space(2)}}
+-2024/11/12 ロスサントス警察に合格。同期は[[味野 環九郎>>味野　環九郎]]／[[ミカド ルアシェイア>>ミカド　ルアシェイア]]／[[ぺん ゆきや>>ぺん　ゆきや]]／[[紀伊路 つみき>>紀伊路　つみき]]／&s(){[[ガヴァイ アッカンマン>>ガヴァイ　アッカンマン]]}(退職)／[[いぬね こう>>いぬね　こう]]／[[土田 ぷちお>>土田　ぷちお]]／[[焔 零児>>焔　零児]]／&s(){[[山田 ジェイミー>>山田　ジェイミー]]}(退職)。【[[襲撃の世代>ロスサントス警察#襲撃の世代]]】と呼ばれている。
+-世代名に反して、自身は警察署襲撃の被害にまだ遭ってないと思っている（&openclose2(show=※他視点情報){：実は警察合否待ち期間中に発生した餡ブレラ警察署襲撃の関係者。クレープ屋の店番をしていた所へ餡ブレラ構成員2名が銃を持って来店。実質人質状態となり店長の[[日之　ぱちお]]を呼び出すのに利用された}）
+-大型対応時はヘリ乗りを積極的に行っている
+-2025/3/5にSWATランク2へ昇格
+-2025年3月より4ヶ月ほどの長期睡眠を経て2025年8月に復帰した
+//
+*&font(25px,#00ccbb){交}友関係 &icon_fa(fa fa-users)
+メチャ南よるの視点から得られた情報を元にしているため、事実と異なる場合があります。 
+***&font(#4169E1){&icon_fa(fa-solid fa-shield-halved)} ロスサントス警察
+#region(警察の同期)&bold(){警察の同期}
+[[襲撃の世代>ロスサントス警察#襲撃の世代]]と呼ばれている
+****[[味野　環九郎]]（アジカンさん、アジカン）
+-一緒に警察勤務する機会が多い
+-よくテーザーを撃たれたり、スライディングで転ばされる等のイタズラをされる
+-2025年8月久しぶりに起床した際、驚かれた
+--味野「シんだんじゃなかったの？！」
+#endregion(警察の同期)
+#region(警察の先輩)&bold(){警察の先輩}
+****[[ニックス　リア]]（皇帝）
+-初日に街が溶けて困っていた所を助けられた
+****[[日之　ぱちお]]
+-警察の先輩であり、[[サンサンクレープ]]の上司でもある
+
+#endregion(警察の先輩)
+//
+***&font(#ff0000){&icon_fa(fa fa-heartbeat)} ロスサントス救急救命隊
+#region(開く)&bold(){閉じる}
+****[[神崎　治]]（治先生）
+-第一住民の一人
+
+****[[雷堂　ましろ]]（ましろ先生）
+-第一住民の一人
+
+#endregion(救命隊)
+//
+***&font(#4f455c){&icon_fa(fa fa-user-secret)} 犯罪者
+#region(開く)&bold(){閉じる}
+****[[半沢　直ふぃ]]（ジョーカーさん）
+-チェイスを秒でまかれた結果、小型でかけつけると「当たりきた」と言われるようになった
+
+#endregion(犯罪者)
+//
+***&font(#3eb370){&icon_fa(fa fa-person)} 市民
+#region(開く)&bold(){閉じる}
+****[[えびな　ヨネ]]（ヨネばあ）
+-初日にレギオン近くで会った。初めて連絡先を交換した
+ 
+#endregion(市民)
+//
+*&font(25px,#00ccbb){エ}ピソード &icon_fa(fa fa-book)
+&color(#F54738){&bold(){※エピソード募集中。ご本人が見る場合もあるので、自視点でわかる内容のみ記述してください。}}
+***2024年
+#region(開く)&b(){閉じる}
+****09/21 1日目。南の島から流れ着きました。
+#Region(開く)閉じる
+-病院前で救急隊の[[神崎　治]]、[[雷堂　ましろ]]と出会う。まず本署に向かうようにとアドバイスされる
+-100日以上徘徊しているという[[えびな　ヨネ]]と出会う。アドレスの交換方法を教えて貰う
+-本署で[[皇帝>>ニックス　リア]]と出会い、町案内してもらう
+-メカニックの[[町田　ジョアンナ]]を紹介してもらい、4日先輩の[[ハン　バーガー]]と一緒にJTSへ向かう
+-[[多良里　ずぅ]]の勧めでスポーツタイプの自転車を購入
+#EndRegion(09/21)
+****11/05 [[22日目。クレープ売りつつ何か。>>https://www.twitch.tv/videos/2335851095]]
+#region(開く)閉じる
+-サンサンクレープに銃を持った赤いスーツの2人組来店（[[&icon_fa(fa-solid fa-video)クリップ>>https://www.twitch.tv/rintoxd/clip/AnimatedBadShrewTwitchRaid-UXAK0c8LGQAJuqwy]]）
+--[[ぱちおさん>日之　ぱちお]]の居場所を聞かれるが知らないと答える
+--連絡取れないかと聞かれて、ぱちおさんに電話する
+--店の外の様子を確認したら、銃を持った赤いスーツの男性が立っているのを確認。店内へ戻る
+--ぱちおさんからもうすぐ到着の電話が来る。店の外へ出て赤いスーツの男性に伝言を伝える
+--[[茶担　えり]]と電話。店の建物の向こうから物騒な会話が聞こえる。店内へ戻る
+--店の外へ出て周囲を確認。誰もいなくなっていたが血痕を発見。嫌な予感を感じる。
+-ペールノエルへ行く
+--[[味野さん>味野　環九郎]]に会って今日の出来事を話す。首を突っ込んだら本当に駄目なやつだったと聞く
+#endregion
+#endregion(2024年)
+***2025年
+#region(1月,open)&bold(){1月}
+****01/04 [[警察 62日目>>https://www.twitch.tv/videos/2346357195]]
+#region(開く)閉じる
+-[[Mon　D]]さんのTwix投稿「ALLIN@1」「8242」に気付く（[[&icon_fa(fa-solid fa-video)クリップ1>>https://www.twitch.tv/rintoxd/clip/SmoggyWiseRadicchioResidentSleeper-sifVLHd4mrd7gEg9]]・[[&icon_fa(fa-solid fa-video)クリップ2>>https://www.twitch.tv/rintoxd/clip/CalmCreativeDonutDatSheffy-ByFQSQU-yOtVnoWT]]）
+#endregion(01/04)
+#endregion(1月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion(mm/dd)
+
+#endregion(mm月)
+}
+
+*&font(25px,#00ccbb){ア}ーカイブ &icon_fa(fa fa-video-camera)
+※ Twitchアーカイブは一定期間を過ぎると視聴できなくなります。YouTubeアーカイブはメンバー限定。
+//テーブルソートがおかしくなっていたため、セル結合を解除しました
+
+#region(Season2,open)&b(){Season2}
+***2025年12月
+#region(開く)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){配信日=right,#=center,ダイジェスト=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|12/19|1|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} 1日目 メチャ南の日常|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=M6P7ka8ltQ0]]||
+|12/27|2|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[2日目 警察に復職したメチャ南の日常>>https://www.twitch.tv/videos/2654136213]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=lXAQzv5JxgY]]||
+|12/28|3|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[3日目 車が欲しいメチャ南>>https://www.twitch.tv/videos/2654993996]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=bd6g6h8peys]]||
+|12/31|4|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[4日目 二回目の年越しを迎えるメチャ南>>https://www.twitch.tv/videos/2657591018]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=B_UF6rkN6Vo]]||
+#endregion(2025年12月)
+***2026年
+#region(開く,open)&b(){閉じる}
+****1月
+#region(開く)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){配信日=right,#=center,ダイジェスト=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|01/02|5|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[5日目 正月休暇はないメチャ南>>https://www.twitch.tv/videos/2659097306]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=pUoIZctV1sE]]||
+|01/03|6|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[6日目 市民交流も大事にしたいメチャ南>>https://www.twitch.tv/videos/2659947849]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=V5SU29odcBU]]||
+|01/04|7|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[7日目 チェイス練習をしたいメチャ南>>https://www.twitch.tv/videos/2660858431]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=cBPtvxMKhz8]]||
+|01/09|8|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[8日目 久しぶりのメチャ南>>https://www.twitch.tv/videos/2665147267]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=wV5bBKVWk6o]]|Twitch：1h14m～|
+|01/11|9|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[9日目 警察も市民交流大事だよね>>https://www.twitch.tv/videos/2667118410]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=MDV_SyLPjIc]]||
+|01/15|10|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[10日目 検挙率UPが目標>>https://www.twitch.tv/videos/2670545083]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=aLlSxTZnFro]]||
+|01/16|11|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[11日目 一人前の警官に>>https://www.twitch.tv/videos/2671404394]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=UWz1QX6PUuQ]]||
+|01/17|12|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[12日目 裁判やるの？>>https://www.twitch.tv/videos/2672341360]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=DozloEPjhB4]]||
+|01/18|13|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[13日目 裁判 is Coming>>https://www.twitch.tv/videos/2673448798]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=kPM4A1SB9UU]]||
+|01/21|14|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[14日目 裁判無事終わってよかった>>https://www.twitch.tv/videos/2676075501]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=G3gBJ-UjyP4]]||
+|01/22|15|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[15日目 昨日の車と薬>>https://www.twitch.tv/videos/2676844974]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=suMY2ts_C1U]]||
+|01/23|16|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[16日目 じっくり確実に>>https://www.twitch.tv/videos/2677716545]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=zeBh21vXsyM]]||
+|01/24|17|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[17日目 今日もまじめに>>https://www.twitch.tv/videos/2678788457]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=jNZaEggGrsM]]||
+|01/25|18|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[18日目 チェイス強化と市民交流>>https://www.twitch.tv/videos/2679696164]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=sabyH9nhJU8]]||
+|01/28|19|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[19日目 自身の立場>>https://www.twitch.tv/videos/2682456351]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=55fkY15e7xQ]]||
+|MIDDLE:01/29|MIDDLE:20|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[20日目 進路相談①>>https://www.twitch.tv/videos/2683329089]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[20日目 進路相談②>>https://www.twitch.tv/videos/2683443342]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ①>>https://www.youtube.com/watch?v=29hu0zOoG_o]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ②>>https://www.youtube.com/watch?v=QPJM8Unf-CQ]]||
+|01/30|21|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[21日目 今日こそ相談>>https://www.twitch.tv/videos/2684224113]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=5BZSV6u84uU]]||
+|01/31|22|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[22日目 今日から科捜研の男>>https://www.twitch.tv/videos/2685111604]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Mw0R3TfE83E]]||
+#endregion(1月)
+****2月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){配信日=right,#=center,ダイジェスト=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|02/01|23|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[23日目 遅番科捜研>>https://www.twitch.tv/videos/2686179561]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Oe8NhndB0nU]]||
+|02/04|24|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[24日目 法律の整理をしたい>>https://www.twitch.tv/videos/2688755693]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=LGmuUy6FUIs]]||
+|02/05|25|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[25日目 法律の確認を姫路城さんにしたい>>https://www.twitch.tv/videos/2689550940]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=cgwBRBMeFkU]]||
+|02/06|26|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[26日目 鼻声警察>>https://www.twitch.tv/videos/2690476045]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=u6Tc0Ghxur0]]||
+|02/07|27|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[27日目 デスツイックス捜査編 Rになる>>https://www.twitch.tv/videos/2691398992]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=QRouYhHxxhw]]||
+|02/08|28|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[28日目 デスツイックスの裁判準備？>>https://www.twitch.tv/videos/2692346150]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=b6-o9wZLbYQ]]||
+|02/11|29|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[29日目 早番科捜研>>https://www.twitch.tv/videos/2694824451]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=DV2-qAAxx4g]]||
+|02/12|30|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[30日目 科捜研の相談>>https://www.twitch.tv/videos/2695716821]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=dRJ5sC9z0NQ]]||
+|02/14|31|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[31日目 バレンタインは0回避>>https://www.twitch.tv/videos/2697485471]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=-rgFN_752AY]]||
+|02/15|32|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[32日目 なりたい先輩像>>https://www.twitch.tv/videos/2698425173]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=1e7r1RyCMFA]]||
+|02/18|33|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[33日目 どうやら体験が来るらしい>>https://www.twitch.tv/videos/2700998219]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=ZtjgpOAe0Jg]]||
+|02/19|34|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[34日目 警察金庫どうしよう>>https://www.twitch.tv/videos/2701950387]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=iIudrtyqG44]]||
+|02/20|35|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[35日目 夕飯は自分で決めたい>>https://www.twitch.tv/videos/2702771669]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=QbLwsmeYPJc]]||
+|02/21|36|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[36日目 起きた時が朝警察>>https://www.twitch.tv/videos/2703642275]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=ZW7PyH6jR5I]]||
+|02/22|37|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[37日目 今日もチェイス強化月間>>https://www.twitch.tv/videos/2704647121]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=TFlY44dA640]]||
+|02/25|38|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[38日目 イベント観覧警察>>https://www.twitch.tv/videos/2707293849]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Ub1-XEnHzg0]]||
+|02/27|39|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[39日目 日々精進>>https://www.twitch.tv/videos/2709015224]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=MZeroZyslrE]]||
+|02/28|40|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[40日目 魂を守る戦い>>https://www.twitch.tv/videos/2709955366]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Ykku2ivpSlI]]||
+#endregion(2月)
+****3月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){配信日=right,#=center,ダイジェスト=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|03/01|41|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[41日目 今日こそたくさん検挙>>https://www.twitch.tv/videos/2710857775]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=vcB_iy178eE]]||
+|03/04|42|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[42日目 人手は足りるはず>>https://www.twitch.tv/videos/2713519392]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=QFfGVKs_HLc]]||
+|03/05|43|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[43日目 今日もこつこつ>>https://www.twitch.tv/videos/2714352599]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=gv5w2eh8XXE]]||
+|03/06|44|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[44日目 今日は早番警察>>https://www.twitch.tv/videos/2715154402]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=7jLKOc2D7hE]]||
+|03/07|45|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[45日目 今日はまったり警察がいいな>>https://www.twitch.tv/videos/2716136405]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=vjDpFuQtLt4]]||
+|03/08|46|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[46日目 体験に向けての心構え>>https://www.twitch.tv/videos/2716992063]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=val1Tw_M6MM]]||
+|03/11|47|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[47日目 体験が始まるらしい(n回目>>https://www.twitch.tv/videos/2719483570]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=rRdyYamuAeM]]||
+|03/12|48|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[48日目 新しい挑戦者が現れました(体験>>https://www.twitch.tv/videos/2720314190]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=WZDZqvKmb3E]]||
+|03/13|49|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[49日目 新しい犯罪の衝撃に備える>>https://www.twitch.tv/videos/2721148031]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=NjtdOaHjFDE]]||
+|03/14|50|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[50日目 衝撃に備えろ>>https://www.twitch.tv/videos/2722014280]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=J9mcTdvs6i8]]||
+|03/15|51|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[51日目 今日も人員たくさんいるよね？>>https://www.twitch.tv/videos/2722900758]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=IMosve-919M]]||
+|03/18|52|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[52日目 今日も元気に早番警察>>https://www.twitch.tv/videos/2725399065]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=0vS0gXUSnbY]]||
+|03/19|53|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[53日目 中型対応上手くなりたい>>https://www.twitch.tv/videos/2726205689]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Ck60sfJqi-4]]||
+|03/20|54|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[54日目 チェイスの新環境を制したい>>https://www.twitch.tv/videos/2727058799]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=r7384Hjzjpg]]||
+|03/21|55|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[55日目 チェイスと撃ち合い>>https://www.twitch.tv/videos/2727965463]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=pTlwbBeaZyA]]||
+|03/22|56|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[56日目 情け無用>>https://www.twitch.tv/videos/2728815969]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=f5S7Q7VjSLE]]||
+|03/25|57|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[57日目 常に上昇志向>>https://www.twitch.tv/videos/2731271434]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=8kZxZ9PrvUI]]||
+|03/26|58|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[58日目 事件対応と市民対応の両立>>https://www.twitch.tv/videos/2732085795]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=OZ64cxSMY4E]]||
+|03/27|59|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[59日目 これからの組織図>>https://www.twitch.tv/videos/2732896725]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=1TqdXRpYW8Q]]||
+|03/28|60|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[60日目 理想の警察像>>https://www.twitch.tv/videos/2733748545]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=ypbx2mdgKsU]]||
+|03/29|61|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[61日目 メチャフルタイムよる>>https://www.twitch.tv/videos/2734629085]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Sqc-JnXuTHE]]||
+#endregion(3月)
+****4月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){配信日=right,#=center,ダイジェスト=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|04/01|62|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[62日目 今日は珍しくメチャタイミー>>https://www.twitch.tv/videos/2737097985]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Mxted9lLEts]]||
+|04/02|63|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[63日目 今日も丁寧に>>https://www.twitch.tv/videos/2737916900]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=j_K_87NAHPA]]||
+|04/03|64|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[64日目 2連勝警察>>https://www.twitch.tv/videos/2738803246]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=MQ6rhAnufKo]]||
+|04/05|65|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[65日目 久しぶりの休み明け>>https://www.twitch.tv/videos/2740523871]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=G4EmJYJqCpU]]||
+|04/08|66|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[66日目 脇逢魔包囲網>>https://www.twitch.tv/videos/2742884698]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=NbweiAzdf3M]]||
+|04/09|67|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[67日目 打倒ノヴァファミリア、あと上田>>https://www.twitch.tv/videos/2743686285]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=-BXmn9JLnwQ]]||
+|04/10|68|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[68日目 裁判から一夜明けて>>https://www.twitch.tv/videos/2744496563]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=SLuLP3NmCZg]]||
+|04/12|69|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[69日目 短時間警察>>https://www.twitch.tv/videos/2746234127]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Bfp8-z9jwWc]]||
+|04/15|70|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[70日目 コナン見てきた警察>>https://www.twitch.tv/videos/2748583795]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=X9z8PDQfcb8]]||
+|MIDDLE:04/16|MIDDLE:71|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[71日目 ラジオ組警察>>https://www.twitch.tv/videos/2749389491]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[71日目 ラジオ組警察>>https://www.twitch.tv/videos/2749409527]]|MIDDLE:&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=NieTXgzwZ2s]]||
+|04/17|72|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[72日目 森へ出張前の警察業務>>https://www.twitch.tv/videos/2750186050]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=xHy4zijCKmY]]||
+|04/19|73|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[73日目 久しぶりの早番警察>>https://www.twitch.tv/videos/2751833510]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=L2J_mGSr4n8]]||
+|04/22|74|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[74日目 ラジオ終わり警察>>https://www.twitch.tv/videos/2754237670]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=dOExkI5851s]]||
+|04/23|75|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[75日目 早め警察>>https://www.twitch.tv/videos/2755019912]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=BH5bVbUffEY]]||
+|04/24|76|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[76日目 粘り強い捜査>>https://www.twitch.tv/videos/2755814172]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=04Muwns4iLI]]||
+|04/25|77|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[77日目 ゆっくりじっくりねっとりコトコト>>https://www.twitch.tv/videos/2756652646]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=QfRJuvyWQas]]||
+|04/26|78|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[78日目 当たり前を当たり前に>>https://www.twitch.tv/videos/2757508068]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=XtZNPW5nDRs]]||
+|04/29|79|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[79日目 闇医者(魔女)捜査編1>>https://www.twitch.tv/videos/2759871115]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=ynFnKars8yo]]||
+|04/30|80|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[80日目 凡事徹底、魔女捜索1>>https://www.twitch.tv/videos/2760623263]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=3OFlCN21TD0]]||
+#endregion(4月)
+****5月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){配信日=right,#=center,ダイジェスト=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|05/01|81|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[81日目 現場スキル強化月間>>https://www.twitch.tv/videos/2761481196]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=DuttHd2KA4U]]||
+|05/02|82|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[82日目 平穏を守るお仕事>>https://www.twitch.tv/videos/2762320889]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=EQ89ycbDNQ0]]||
+|05/03|83|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[83日目 今日は命大事に>>https://www.twitch.tv/videos/2763132848]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=quB6LDIIasM]]||
+|05/06|84|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[84日目 週の始まりは大事に>>https://www.twitch.tv/videos/2765421803]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=f-efQ9-P7wU]]||
+|05/07|85|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[85日目 地道な努力>>https://www.twitch.tv/videos/2766225089]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Wj_rA2pIEsM]]||
+|05/08|86|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[86日目 科捜研の逆襲>>https://www.twitch.tv/videos/2767006327]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=-PBbN89jT-k]]||
+|05/09|87|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[87日目 本質を見極める力>>https://www.twitch.tv/videos/2767830779]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=VrgzpE-vSsQ]]||
+|05/10|88|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[88日目 業務の徹底>>https://www.twitch.tv/videos/2768645982]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=YoZxmzvGNRc]]||
+|05/13|89|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[89日目 パンプアップ警察>>https://www.twitch.tv/videos/2770876619]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=LkVOlhDPT3A]]||
+|05/14|90|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[90日目 進化したパトカーの練習>>https://www.twitch.tv/videos/2771708203]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=aRsozKst1_U]]||
+|05/15|91|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[91日目 今日もこつこつ科捜研>>https://www.twitch.tv/videos/2772518931]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=uSOubyUxTAA]]||
+|05/16|92|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[92日目 結局起床科捜研>>https://www.twitch.tv/videos/2773428954]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Ho738iowBCk]]||
+|05/17|93|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[93日目 仕事と私情>>https://www.twitch.tv/videos/2774168617]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=OjJqZlPEyLk]]||
+|05/20|94|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[94日目 襲撃明けの水曜>>https://www.twitch.tv/videos/2776494750]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=XX5dExCyw60]]||
+|MIDDLE:05/21|MIDDLE:95|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[95日目 正義と悪①>>https://www.twitch.tv/videos/2777284136]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[95日目 正義と悪②>>https://www.twitch.tv/videos/2777356534]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[95日目 正義と悪③>>https://www.twitch.tv/videos/2777359222]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ①>>https://www.youtube.com/watch?v=jWSvrrS1XPM]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ②>>https://www.youtube.com/watch?v=LU7W5oFxvwI]]||
+|05/22|96|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[96日目 犯罪者との間合い>>https://www.twitch.tv/videos/2778079763]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=q-reRynBAS8]]||
+|05/23|97|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[97日目 怪しい物は注視せよ>>https://www.twitch.tv/videos/2778897045]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=3kfAolHobaA]]||
+|05/24|98|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[98日目 狩るか狩られるか>>https://www.twitch.tv/videos/2779669863]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=GvF1wiS21S8]]||
+|05/27|99|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[99日目 週明け早番警察>>https://www.twitch.tv/videos/2782015583]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=C7tvsoOup4Q]]||
+|05/28|100|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[100日目 気づけば三桁 遅番>>https://www.twitch.tv/videos/2782938499]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=4dLRokrO1ho]]||
+|05/29|101|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[101日目 今日はしっかり働く>>https://www.twitch.tv/videos/2783615426]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=ZNqQTwFBk8A]]||
+|05/31|102|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[102日目 久しぶりの休日明け>>https://www.twitch.tv/videos/2785232906]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=vTtO1WbGszY]]||
+#endregion(5月)
+****6月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){配信日=right,#=center,ダイジェスト=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|06/03|103|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[103日目 しばらく遅番勤務>>https://www.twitch.tv/videos/2787673138]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=1Lyl_AxDwRw]]||
+|06/04|104|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[104日目 プレミア狩りの次はブースティング狩り？>>https://www.twitch.tv/videos/2788461878]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=gU5ktaKRH10]]||
+|06/05|105|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[105日目 28になったらしい>>https://www.twitch.tv/videos/2789253376]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=q1IJZwQWqPw]]||
+|06/07|106|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[106日目 仕事終わり警察>>https://www.twitch.tv/videos/2790915303]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=JToXOnFka2w]]||
+|06/10|107|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[107日目 週明け警察>>https://www.twitch.tv/videos/2793226659]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=TQvYDvi138c]]||
+|06/12|108|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[108日目 実況終わり警察>>https://www.twitch.tv/videos/2794891214]]|||
+|06/13|109|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[109日目 遅番警察>>https://www.twitch.tv/videos/2795700438]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/live/QQPG_oBZs10]]||
+|06/17|110|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[110日目 今週くらいまで遅番警察>>https://www.twitch.tv/videos/2798847935]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=UPqEGvyyHxg]]||
+|06/19|111|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[111日目 今週末まで遅番警察>>https://www.twitch.tv/videos/2800420015]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Hc_fx3Ckl88]]||
+|06/20|112|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[112日目 闇医者問題のその先>>https://www.twitch.tv/videos/2801212177]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=axdLuFIBKuA]]||
+|06/24|113|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[113日目 週の初めは丁寧に>>https://www.twitch.tv/videos/2804192124]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=uWlsbA1-dI4]]||
+|06/25|114|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[114日目 バイクが楽しい警察>>https://www.twitch.tv/videos/2804964205]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=oBgtdGCcPoo]]||
+|06/26|115|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[115日目 凡事徹底>>https://www.twitch.tv/videos/2805744509]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=-pMBiqyDrtU]]||
+|06/27|116|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[116日目 薬と闇医者の真相>>https://www.twitch.tv/videos/2806540498]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=XbhmDu_PPXg]]||
+|06/28|117|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[117日目 犯罪者との距離感>>https://www.twitch.tv/videos/2807320001]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=hqT73h-D9qU]]||
+#endregion(6月)
+****7月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){配信日=right,#=center,ダイジェスト=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|07/01|118|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[118日目 週明けから始める闇医者捜査>>https://www.twitch.tv/videos/2809569851]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=X5RceffdbIA]]||
+|07/02|119|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[119日目 新パトともに犯罪撲滅>>https://www.twitch.tv/videos/2810333606]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=kztjHbmog1A]]||
+|07/03|120|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[120日目 今後の闇医者捜査の在り方>>https://www.twitch.tv/videos/2811145914]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=7ExOHlmWxmY]]||
+|07/04|121|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[121日目 たいたいの行方>>https://www.twitch.tv/videos/2811892775]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=CQxZSEQM19A]]||
+|07/05|122|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[122日目 無馬の思惑と溶鉱炉の残り火>>https://www.twitch.tv/videos/2812645543]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=itPKUemzokk]]||
+|07/08|123|123日目 激務の先週末。今後の闇医者捜査。|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=qLqW0vorUVk]]||
+|07/10|124|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[124日目 闇医者騒動の終着点は…>>https://www.twitch.tv/videos/2815840018]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=d7w35P0bCEM]]||
+|07/11|125|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[125日目 休暇明けのメチャ>>https://www.twitch.tv/videos/2817438728]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=BIery6LGGJE]]||
+|07/15|126|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[126日目 きっと荒れる週明け>>https://www.twitch.tv/videos/2820519807]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=6AjLYlY_iB4]]||
+|07/16|127|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[127日目 手錠の行方>>https://www.twitch.tv/videos/2821305090]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=lYjHEAs-nMw]]||
+|07/17|128|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[128日目 白と黒の関係性>>https://www.twitch.tv/videos/2822111371]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=SKYok8hi6yA]]||
+|07/18|129|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[129日目 誰のための警察か>>https://www.twitch.tv/videos/2822931037]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/live/A5A1aspt3VM]]||
+|07/19|130|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[130日目 モルデ推し警察>>https://www.twitch.tv/videos/2823715673]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Uii3gdkvD_I]]||
+|07/22|131|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[131日目 今週も勤勉に>>https://www.twitch.tv/videos/2826128877]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=2TZLzhaLwH4]]||
+|MIDDLE:07/23|MIDDLE:132|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[132日目 自分のやるべきことを①>>https://www.twitch.tv/videos/2826960236]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[132日目 自分のやるべきことを②>>https://www.twitch.tv/videos/2826989725]]|MIDDLE:&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=8SIESFHWndI]]||
+|07/24|133|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[133日目 同期との絆>>https://www.twitch.tv/videos/2827796164]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=S5HehTf70GA]]||
+|07/25|134|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[134日目 ありきたりな日常>>https://www.twitch.tv/videos/2828648177]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=4Ma15a2uzwo]]||
+|07/26|135|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[135日目 こみ蔵さんの行方>>https://www.twitch.tv/videos/2829467833]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=2r2imQslQD8]]||
+|07/29|136|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[136日目 改めて警察とは>>https://www.twitch.tv/videos/2831868181]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=QY1_4RQgWEo]]||
+|07/30|137|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[137日目 闇医者の次は薬かな>>https://www.twitch.tv/videos/2832682397]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/live/tRW_wDtXHY4]]||
+|07/31|138|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[138日目 体験定着のための施策>>https://www.twitch.tv/videos/2833520470]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=hdIyG6nXkv4]]||
+#endregion(7月)
+****8月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){配信日=right,#=center,ダイジェスト=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|08/01|139|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[139日目 凡事徹底の日々>>https://www.twitch.tv/videos/2834367103]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=qGVXVguxf0I]]||
+|08/02|140|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[140日目 新人への気配り>>https://www.twitch.tv/videos/2835241749]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=NW5RRfvHHg4]]||
+|08/05|141|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[141日目 メチャ休暇ある>>https://www.twitch.tv/videos/2837852734]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=JkzEGK4S0og]]||
+|08/07|142|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[142日目 しばらくガチ遅番>>https://www.twitch.tv/videos/2838860321]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=TD4tIaQ8GAY]]||
+|08/08|143|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[143日目 ちょっとだけ警察>>https://www.twitch.tv/videos/2839769502]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Y5G6rmgDu3w]]||
+|08/09|144|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[144日目 5連勝警察>>https://www.twitch.tv/videos/2840681938]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=MvY9W2_kG7Q]]||
+|08/13|145|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[145日目 出張の谷間出勤>>https://www.twitch.tv/videos/2845000713]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=ThodlBDrHQk]]||
+|08/19|146|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[146日目 出張明けの出勤>>https://www.twitch.tv/videos/2850460486]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=HL06tPEl_0k]]||
+|MIDDLE:08/20|MIDDLE:147|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[147日目 やっぱり2時に何か起こる①>>https://www.twitch.tv/videos/2851372836]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[147日目 やっぱり2時に何か起こる②>>https://www.twitch.tv/videos/2851535107]]|MIDDLE:&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=5gZKpnb3DXg]]||
+|08/21|148|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[148日目 出会いと別れ>>https://www.twitch.tv/videos/2852267400]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=JrhBJ_Lfwik]]||
+|08/22|149|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[149日目 市民交流の重要性>>https://www.twitch.tv/videos/2853190231]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=6QTcKYG51Hg]]||
+|08/23|150|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[150日目 白市民の持つ種>>https://www.twitch.tv/videos/2854218253]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=iIrh1oTrRUI]]||
+|08/26|151|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[151日目 種から垂れる墨汁>>https://www.twitch.tv/videos/2856875613]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=GOmA2TKR3bY]]||
+|08/27|152|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[152日目 事態の進展>>https://www.twitch.tv/videos/2857789280]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=czLuuQKliYE]]||
+|08/29|153|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[153日目 芽を摘むには>>https://www.twitch.tv/videos/2859616183]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=9g5AcSePT_E]]||
+|08/30|154|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[154日目 解毒剤の在りか>>https://www.twitch.tv/videos/2860528872]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=6AN7N2_hUAM]]||
+#endregion(8月)
+****9月
+#region(開く,open)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){配信日=right,#=center,ダイジェスト=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|09/02|155|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[155日目 タイムリミット>>https://www.twitch.tv/videos/2863337296]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=LqvxJrN57g0]]||
+|09/03|156|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[156日目 花の使い道>>https://www.twitch.tv/videos/2864086931]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=D-6Xo7lxG1U]]||
+|09/04|157|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[157日目 出張ではない人>>https://www.twitch.tv/videos/2865049325]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=y93twOEAXmQ]]||
+|09/05|158|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[158日目 種の進捗>>https://www.twitch.tv/videos/2866906549]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=fWKACY5Ujwo]]||
+|09/09|159|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[159日目 週初め>>https://www.twitch.tv/videos/2869449174]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=z0A4od5Qtdg]]||
+|09/10|160|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[160日目 花束のその後>>https://www.twitch.tv/videos/2870307253]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=YsZ0qDGT6d0]]||
+|09/11|161|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[161日目 箱探し>>https://www.twitch.tv/videos/2871274207]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=iARCCdnX3jo]]||
+#endregion(9月)
+#endregion(2026年)
+#endregion(Season2)
+
+#region(Season1)&b(){Season1}
+#include(メチャ南　よる/アーカイブ（S1）)
+#endregion(Season1)
+//↓コピペ用
+//****m月
+//#region(開く,open)&b(){閉じる}
+//#table_style(head=center:#00A497:#fff){配信日=right,#=center}
+//|~配信日|~#|~配信タイトル|~アーカイブ|~備考|h
+//|mm/dd|n|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[配信タイトル>>ここにTwitch配信URLを入力]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>ここにYoutubeアーカイブURLを入力]]||
+//#table_sorter{even=#F7F7F7,odd=fff}
+//#endregion(m月)
+
+*&font(25px,#00ccbb){動}画 &icon_fa(fa-brands fa-youtube)
+**切り抜き
+#region(Season2,open)&b(){Season2}
+***2025年12月
+#region(開く)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|12/20|[[いよいよシーズン2スタート‼メチャ南の第2のスタート>>https://www.youtube.com/watch?v=BL3cyI917XQ]]||
+|12/21|[[新しい街での一日目。同期によって早々にダウンするメチャ南>>https://www.youtube.com/watch?v=9YCf5kYU508]]||
+|12/29|[[窓を拭いてたらパトカーを紛失しそうになるメチャ南>>https://www.youtube.com/watch?v=zm-mtH4eXuc]]||
+|12/30|[[ぺんぺんとの再開とアジカンの奇行でむしろ安心するメチャ南>>https://www.youtube.com/watch?v=3ZxfoGowTQM]]||
+|12/31|[[街が瞑想したら負けのしりとり勝負を挑むメチャ南>>https://www.youtube.com/watch?v=mjcHZERRqzI]]||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2025年12月)
+
+***2026年
+#region(開く,open)&b(){閉じる}
+****1月
+#region(開く)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|01/01|[[窓拭きバイトは危ないと知るメチャ南>>https://www.youtube.com/watch?v=S-Y6kbq4Sd4]]||
+|01/02|[[2025→2026へ結局バタバタのSGPDとメチャ南>>https://www.youtube.com/watch?v=MbGcLBL4QwU]]||
+|01/03|[[新年早々プリズンブレイク発生⁉検証を手伝うメチャ南>>https://www.youtube.com/watch?v=1ZT3GQfUKFw]]||
+|01/04|[[マンションの引越しで一悶着あるアジカンとメチャ南>>https://www.youtube.com/watch?v=F_SEeKlvkjk]]||
+|01/05|[[昨年同様デスマウンテンに初日の出を見に行くメチャ南>>https://www.youtube.com/watch?v=TbRMLvtXzWk]]||
+|01/06|[[ついにキャップによってあだ名が決定するメチャ南>>https://www.youtube.com/watch?v=sN9z-GLPglQ]]||
+|01/07|[[病院で暴れまわるMonDをなんとか取り押さえるメチャ南>>https://www.youtube.com/watch?v=0_t71rItiF0]]||
+|01/08|[[犯人との住人しりとりに挑むメチャ南>>https://www.youtube.com/watch?v=TQWelYKUkzU]]||
+|01/09|[[護送中に消えた犯人をとあるきっかけで発見するメチャ南>>https://www.youtube.com/watch?v=3vFJhqHUI7U]]||
+|01/12|[[いつもの名前イジリをカルテ化されて手が出るメチャ南>>https://www.youtube.com/watch?v=69bvcACR_H8]]||
+|01/13|[[犯罪者のトラックに蹂躙されるメチャ南>>https://www.youtube.com/watch?v=hM2zDZspV9k]]||
+|01/16|[[フルーツ海賊団襲来に対抗するメチャ南>>https://www.youtube.com/watch?v=uYevgUwR7GM]]||
+|01/16|[[GMえびす先輩の負けたら感電のデスゲームを強いられるアジカンとメチャ南>>https://www.youtube.com/watch?v=QxB_t3CFjqg]]||
+|01/17|[[今度は鉱山の車両で暴れるMonD。まさかの裁判に発展して困惑するメチャ南>>https://www.youtube.com/watch?v=VMioD3gpo0w]]||
+|01/18|[[犯人を小突いて綺麗な花火にしてしまうメチャ南>>https://www.youtube.com/watch?v=zyEdNKmQO9s]]||
+|01/19|[[ついに始まる裁判。証人として奮闘するメチャ南>>https://www.youtube.com/watch?v=sNEYPyynI0o]]||
+|01/22|[[忘れ物を取りに行ったら怪しいやつに遭遇するメチャ南>>https://www.youtube.com/watch?v=v0Rqe5alpiQ]]||
+|01/23|[[れむ先輩に過保護なももみ先生に詰められるぷちおを憐れむメチャ南>>https://www.youtube.com/watch?v=_uCMXL6kIp8]]||
+|01/24|[[唐突に始まる徒歩チェイスやしりとりと格闘するメチャ南>>https://www.youtube.com/watch?v=O1QR4t0xzoo]]||
+|01/25|[[大悪党上田を確保するブロ先輩とメチャ南>>https://www.youtube.com/watch?v=5zdStnpFY5I]]||
+|01/26|[[犯人との相撲に負け爆散するメチャ南>>https://www.youtube.com/watch?v=kkbV_utKBfc]]||
+|01/27|[[やっぱり問題を持ってくる上田に呆れるメチャ南>>https://www.youtube.com/watch?v=TKNR22Em6J4]]||
+|01/28|[[小峯さんの考え方に色々考えさせられるメチャ南>>https://www.youtube.com/watch?v=vEjg1cs--ZU]]||
+|01/29|[[唐突に始まる軍事物資に困惑するメチャ南>>https://www.youtube.com/watch?v=wtrr62lvCkw]]||
+#table_autoincrement(){label=#, start=6}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(1月)
+****2月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|02/01|[[上田との司法取引に踏み切る警察と交渉するメチャ南>>https://www.youtube.com/watch?v=FmFy4Qtv4qs]]||
+|02/04|[[自分の進む道をえびす先輩に相談して決断するメチャ南>>https://www.youtube.com/watch?v=y1jgJ8444aQ]]||
+|02/05|[[上司のえびす先輩を人質にされてキレる部下のメチャ南>>https://www.youtube.com/watch?v=1XkdGqcNiHo]]||
+|02/06|[[小峯さんとチェイス談議に花を咲かせるメチャ南>>https://www.youtube.com/watch?v=K2hI2FxzmmY]]||
+|02/07|[[警察車両を盗んだ犯人をとある方法で見つけ追い詰めるメチャ南>>https://www.youtube.com/watch?v=NdcGnK-UnWk]]||
+|02/09|[[自称死神を連れる重要参考人を取り調べするメチャ南>>https://www.youtube.com/watch?v=j8l-9GUt2GY]]||
+|02/10|[[次は裁判の証人から弁護側になりそうなメチャ南>>https://www.youtube.com/watch?v=ZDAueQ6IsMo]]||
+|02/11|[[厄日と思うくらいついてない一日を過ごすメチャ南>>https://www.youtube.com/watch?v=bFfd9DQLhi0]]||
+|02/12|[[デスツイックス事件の衝撃の結末に絶句するメチャ南>>https://www.youtube.com/watch?v=p6wGs5n9WmU]]||
+|02/13|[[これからのはずの司法取引が打ち切りで悲しむメチャ南>>https://www.youtube.com/watch?v=VKeVTJNMSQI]]||
+|02/16|[[科捜研の検証で逃げ道を潰しに行くメチャ南>>https://www.youtube.com/watch?v=lWoSn-rTfd0]]||
+|02/17|[[警察未満組が暴れる裏で起こる新犯罪に直面するメチャ南>>https://www.youtube.com/watch?v=78BzCML0uak]]||
+|02/18|[[ここなさんへの当たりがどうにも強い命田隊長、皇帝先輩に乗っかるメチャ南>>https://www.youtube.com/watch?v=vhAsy1eE8Ek]]||
+|02/19|[[警察の危機を救うアジカンを崇める署員とメチャ南>>https://www.youtube.com/watch?v=sVC_xXwheNQ]]||
+|02/20|[[人質解放条件の内容に頭を悩ますメチャ南>>https://www.youtube.com/watch?v=vq0Iw621Qoo]]||
+|02/21|[[まさかの新しい世界線でギャラクシーに遭遇するメチャ南>>https://www.youtube.com/watch?v=x7v34lMbBoI]]||
+|02/22|[[チルいJTSで繰り広げられるみどりさんとののろけ話にたじたじのメチャ南>>https://www.youtube.com/watch?v=3wGIZqsSKz8]]||
+#table_autoincrement(){label=#, start=30}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2月)
+****3月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|03/01|[[現金輸送車強盗のやり方が分かってしまうメチャ南>>https://www.youtube.com/watch?v=WQDpBs7hqts]]||
+|03/02|[[真剣な話のはずがなぜか署長が切れる展開に笑うしかないメチャ南>>https://www.youtube.com/watch?v=hddplGPqTYI]]||
+|03/03|[[パトカーを盗んだ天草との熾烈な争いをするメチャ南>>https://www.youtube.com/watch?v=5unEXVJuafY]]||
+|03/04|[[わんも～Cafeでつかの間のチルタイムを楽しむメチャ南>>https://www.youtube.com/watch?v=dLukYVOX9vw]]||
+|03/05|[[ハンさんを捕まえたと気を抜いたら一緒に爆散するメチャ南>>https://www.youtube.com/watch?v=ugEXCQqc8ZI]]||
+|03/06|[[今にも破産しそうな警察金庫を市長に助けてもらうため話をするメチャ南>>https://www.youtube.com/watch?v=h9l04Cl6pFA]]||
+|03/07|[[北で市民対応してたら真横で犯罪が起こり困惑するメチャ南>>https://www.youtube.com/watch?v=omvWcbBbRLE]]||
+|03/08|[[ひょんなことから暴れるアジカンにボコボコにされるメチャ南>>https://www.youtube.com/watch?v=_nhcQQvLk5M]]||
+|03/12|[[現場に向かったはずがチェイスのメンケアになるメチャ南>>https://www.youtube.com/watch?v=uH23JsNsNNc]]||
+|03/12|[[ついに始まる警察体験に沸く警察とメチャ南>>https://www.youtube.com/watch?v=6It--tXM144]]||
+|03/13|[[今後に関わる重大な情報を市長から共有されるメチャ南>>https://www.youtube.com/watch?v=daq-VYeRtxY]]||
+|03/14|[[警察としての行動を考えさせられるメチャ南>>https://www.youtube.com/watch?v=ZMluvjp7eK4]]||
+|03/15|[[2月の特大報告会でバタバタのメチャ南>>https://www.youtube.com/watch?v=N1D4_X1hR2o]]||
+|03/15|[[ついに始まった飛行場とアーティファクトの対応に挑むメチャ南>>https://www.youtube.com/watch?v=ODNUwFj6yeE]]||
+|03/16|[[中型犯罪のダウン者がなぜか病院以外で蘇生されていることに気づくメチャ南>>https://www.youtube.com/watch?v=eCYVvjTAPQ8]]||
+|03/16|[[新しい指名手配のかけ方を共有するメチャ南>>https://www.youtube.com/watch?v=UxSVDzmefSE]]||
+|03/17|[[犯罪者に新規住人にいろんな対応に追われるメチャ南>>https://www.youtube.com/watch?v=qsMv9jCoKeM]]||
+|03/18|[[事件現場帰りにとんでもない事故現場を目撃するメチャ南>>https://www.youtube.com/watch?v=9yv885KVwag]]||
+|03/20|[[出張から帰ってきた胡將へ物量攻撃を仕掛けるメチャ南>>https://www.youtube.com/watch?v=zIfKzm1NXpw]]||
+|03/21|[[マックさんが仕掛ける女を巡る争いにウキウキで乗っていくメチャ南>>https://www.youtube.com/watch?v=x021EgqJ_C0]]||
+|03/23|[[街のダウン中に魂での雑談を楽しむRintoXD>>https://www.youtube.com/watch?v=IBcWb3GhoME]]||
+|03/24|[[指名手配の解釈について葛城先生の授業を受けるメチャ南>>https://www.youtube.com/watch?v=zd2y6q0AXcU]]||
+|03/25|[[理不尽に降りかかる解放条件の解決策を模索するメチャ南>>https://www.youtube.com/watch?v=99lFLh8HrwA]]||
+|03/26|[[新しい街でウェスカーさんと口プバトルに発展するメチャ南>>https://www.youtube.com/watch?v=bLMLBjO8P0o]]||
+|03/26|[[想定外のところからSWATの存在を聞かされるメチャ南>>https://www.youtube.com/watch?v=lWA30Fmwfto]]||
+|03/27|[[市民対応に奔走するシャンクズさんを目撃するメチャ南>>https://www.youtube.com/watch?v=y4PrYQ5KrDg]]||
+|03/27|[[シャンクズさんの処遇に衝撃の回答を出す市長に驚くメチャ南>>https://www.youtube.com/watch?v=60nGWn5sfX4]]||
+|03/27|[[警察とそれっぽいだけのシャンクズさんがなぜか会議になり困惑するメチャ南>>https://www.youtube.com/watch?v=5GejYZ6wEls]]||
+|03/28|[[シャンクズさんの今後を模索するメチャ南>>https://www.youtube.com/watch?v=994-WE0axTY]]||
+|03/28|[[仕事の疲れをいやしてくれるカフェを楽しむメチャ南>>https://www.youtube.com/watch?v=iJIHHfDtGXk]]||
+|03/29|[[科捜研の大事な証拠の血痕が消せることを知るメチャ南>>https://www.youtube.com/watch?v=YuPlSMqjctk]]||
+|03/29|[[探偵組の復職に向けての動きに頭を抱えるメチャ南>>https://www.youtube.com/watch?v=b-UP70fWlRs]]||
+|03/30|[[四五六確さんからの依頼を署員に共有するメチャ南>>https://www.youtube.com/watch?v=ud78CByM8ZY]]||
+|03/31|[[昔を思い出す即興ソングをジョアンナさんに披露するメチャ南>>https://www.youtube.com/watch?v=DyZm2RlC7ek]]||
+#table_autoincrement(){label=#, start=47}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(3月)
+****4月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|04/01|[[これまでのSGPDを楽しむキャップと報告するメチャ南>>https://www.youtube.com/watch?v=v-TW5G5YhRc]]||
+|04/02|[[体験の晴さんに教えながら犯人を確保するメチャ南>>https://www.youtube.com/watch?v=SMTuXSbFUxU]]||
+|04/05|[[帰ってきた餡ブレラにいた同期のことをアジカンに聞くメチャ南>>https://www.youtube.com/watch?v=2oi5dZVqOlY]]||
+|04/06|[[警察署襲撃が適用される事態の発生に色々考えるメチャ南>>https://www.youtube.com/watch?v=i-0dMvv7FZA]]||
+|04/06|[[交通事故かと思ったら発砲事件に発展して焦るメチャ南>>https://www.youtube.com/watch?v=Udke5bLHGis]]||
+|04/09|[[脇逢魔を捕まえたはずが最悪の事態に発展して苦しむメチャ南>>https://www.youtube.com/watch?v=mMZnaLlkBTc]]||
+|04/09|[[脇逢魔のために暴れる上田たちを詰めまくる各トップを見て笑うしかないメチャ南>>https://www.youtube.com/watch?v=0dcxo8QDaAI]]||
+|04/09|[[必ず捕まえるために懸賞金の額上げる市長に驚くメチャ南>>https://www.youtube.com/watch?v=ML2QzFJ72ag]]||
+|04/10|[[ついに始まる法廷の戦いを署長に託され気合を入れるメチャ南>>https://www.youtube.com/watch?v=zdlMO0aU3wY]]||
+|04/17|[[コンビニ対応のはずがとんでもないものを目撃するメチャ南>>https://www.youtube.com/watch?v=O-9u--cxbrA]]||
+|04/25|[[加熱している薬物問題を市長に報告するメチャ南>>https://www.youtube.com/watch?v=n66CsQm3-c0]]||
+|04/26|[[チルなカフェで展開されるすれ違いトークをするメチャ南>>https://www.youtube.com/watch?v=jNJdLjiFVVk]]||
+|04/27|[[中型の片づけ中になぜか闇医者問題に直面するメチャ南>>https://www.youtube.com/watch?v=S15bohGgIgc]]||
+#table_autoincrement(){label=#, start=80}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(4月)
+****5月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|05/03|[[犯罪現場の事後処理について今後の方針会議をするメチャ南>>https://www.youtube.com/watch?v=S0Mn5dzVE7I]]||
+|05/04|[[犯人を制圧するも現場から犯人が消えるマジックに頭を抱えるメチャ南>>https://www.youtube.com/watch?v=y4vg9aClP9Y]]||
+|05/04|[[いろんな形でコーラボーイ一色な日々を過ごすメチャ南>>https://www.youtube.com/watch?v=BCbuiqbCucI]]||
+|05/08|[[科捜研存続の危機に頭を抱えるメチャ南>>https://www.youtube.com/watch?v=K9gaK5UAqd0]]||
+|05/09|[[ついに現れた犯罪者の無線を調べ始めるメチャ南>>https://www.youtube.com/watch?v=cSYuC2CKJcU]]||
+|05/10|[[市長を無線や闇医者の件で共有の波で溺れさせに行くメチャ南>>https://www.youtube.com/watch?v=91tr4MJJ4OQ]]||
+|05/13|[[中型の対応会議で鶴の一声のコーラボーイに感心するメチャ南>>https://www.youtube.com/watch?v=6qGKU2Wj4Zg]]||
+|05/14|[[犯罪者と公務員の付き合い方の難しさを痛感するメチャ南>>https://www.youtube.com/watch?v=zN3HiCqG0qQ]]||
+|05/14|[[飲食の転売裁判をなぜかコーラボーイを抱えて傍聴するメチャ南>>https://www.youtube.com/watch?v=d69OAYLNchA]]||
+|05/15|[[逃走補助疑惑のタラちゃんへ事情聴取するメチャ南>>https://www.youtube.com/watch?v=JWjn_VVRqao]]||
+|05/15|[[ギルベルトから呼び出されガチすぎる人生相談をされるメチャ南>>https://www.youtube.com/watch?v=9bEYVFyUfxs]]||
+|05/16|[[探偵組の復帰に向けての話を署長と一緒に考えるメチャ南>>https://www.youtube.com/watch?v=xC9yENQD47A]]||
+|05/16|[[ライルくんが今の警察に思うところを聞き自分の考えを伝えるメチャ南>>https://www.youtube.com/watch?v=p2Ks7-fDk7k]]||
+|05/17|[[ボイラさんと警察復帰の話をするも風向きが変わり頭を抱える署長とメチャ南>>https://www.youtube.com/watch?v=4Hv5_eI8H2Q]]||
+|05/17|[[なかなか捕まらなかったマックさんをついに逮捕し色々話すメチャ南>>https://www.youtube.com/watch?v=5SsbZ3MpM4Y]]||
+|05/18|[[復帰目前のボイラに最大のピンチ⁉マクドナルドの暴走に大混乱のメチャ南>>https://www.youtube.com/watch?v=3wvB8GUDeAQ]]||
+|05/18|[[らすぱらでコーラボーイ達とのチルタイムのはずがとんでもない襲撃をされるメチャ南>>https://www.youtube.com/watch?v=1yKnHINQHyA]]||
+|05/19|[[キャップに探偵組のことを報告しながら昔話をしてもらうメチャ南>>https://www.youtube.com/watch?v=BbJnjALNuv4]]||
+|05/21|[[警察と餡ブレラがバチバチに発展。将来を考え頭の痛いメチャ南>>https://www.youtube.com/watch?v=jH5joEuXZiY]]||
+|05/21|[[辺賀の襲撃の件は仲直りかと思いきや衝撃の真犯人に困惑するメチャ南>>https://www.youtube.com/watch?v=HClkCY2p3rI]]||
+|05/23|[[2人目の無線所持者を見つけ、さらに怪しすぎるバックまで出てきて疑うしかないメチャ南>>https://www.youtube.com/watch?v=HIM6c-EHY0Q]]||
+|05/23|[[中型現場で犯人をストレッチャーで運ぶ黒ずくめまでも目撃するメチャ南>>https://www.youtube.com/watch?v=9Jr4KOBZchg]]||
+|05/24|[[パトカー狩りに署長の襲撃未遂。狩るか狩られるかの事態に先行きが不安になるメチャ南>>https://www.youtube.com/watch?v=N6RVdMP563M]]||
+|05/24|[[アパート前のプレミア問題。いろんな対策を考える警察とメチャ南>>https://www.youtube.com/watch?v=ysNmjR59qtk]]||
+|05/25|[[アパート前の一件で浮き彫りになる警察と犯罪者の立場の違いに悩むメチャ南>>https://www.youtube.com/watch?v=MsTfRf3reOM]]||
+|05/25|[[現場対応にごねる犯人とのすり合わせのはずが違う狙いに気づき焦るメチャ南>>https://www.youtube.com/watch?v=1GwBfEeEacg]]||
+|05/28|[[まじめな株主総会の顔をした好きなコスプレの暴露大会に爆笑のメチャ南>>https://www.youtube.com/watch?v=sBtrHo8uf9Q]]||
+#table_autoincrement(){label=#, start=93}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(5月)
+****6月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|06/01|[[一繋ぎの財宝を狙う海賊団を追う海軍こと警察とメチャ南>>https://www.youtube.com/watch?v=BbFj9klcbfA]]||
+|06/03|[[帰ってきた竹井勝痔に早々にかまされやっぱ不憫なメチャ南>>https://www.youtube.com/watch?v=QCmzOnd-mk8]]||
+|06/11|[[コーラボーイと真島の姐さんのために親バカになる警察とメチャ南>>https://www.youtube.com/watch?v=Ab7uz3cAg0U]]||
+|06/12|[[3時瞑想前に本署前で大暴れする警察とメチャ南>>https://www.youtube.com/watch?v=a3siL5ty_u0]]||
+|06/13|[[天才コーラボーイ考案の新商品でヤバいSSRを引き、オープン前のキャバクラを見せてもらうメチャ南>>https://www.youtube.com/watch?v=vvG9LjpipLw]]||
+|06/14|[[脇逢魔の呼び出しに渋々応じると想定してない事件に巻き込まれるメチャ南>>https://www.youtube.com/watch?v=mx5zWMyjip8]]||
+|06/18|[[散々現場を荒らしてきた闇医者の正体を暴くメチャ南>>https://www.youtube.com/watch?v=WG3iHdYTPoA]]||
+|06/18|[[公務員同士の闇医者共有。新たな闇医者疑惑者について考察するメチャ南>>https://www.youtube.com/watch?v=FE_SDHYiYt8]]||
+|06/24|[[闇医者が活発な今、犯人の治療先に心当たりを考える警察とメチャ南>>https://www.youtube.com/watch?v=EGF3aYxLdL8]]||
+|06/24|[[なぜか見覚えのある警察コスプレの重窃盗犯との殴り合いに発展するメチャ南>>https://www.youtube.com/watch?v=N6BhRjFG9x4]]||
+|06/27|[[仮白パスを犯罪行為で吹き飛ばす宗介に頭を抱えるメチャ南>>https://www.youtube.com/watch?v=9z8v81JhkYE]]||
+|06/27|[[今警察が抱える薬物と闇医者の問題を今一度考えるメチャ南>>https://www.youtube.com/watch?v=Kau3loBY0ms]]||
+#table_autoincrement(){label=#, start=120}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(6月)
+****7月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|07/01|[[ブースティング疑惑の車を追うもまさかの心なきで頭を抱えるメチャ南>>https://www.youtube.com/watch?v=tgI3o7ERxPk]]||
+|07/02|[[新たな闇医者と疑惑の白市民に色んな可能性を考えるメチャ南>>https://www.youtube.com/watch?v=HnHgirWGQ9k]]||
+|07/02|[[餡ブレラの策に嵌められよつは先生をプリズンに送った二部さんの許しを請うメチャ南>>https://www.youtube.com/watch?v=YerZXwfOTIE]]||
+|07/03|[[渦中のたいたいが意識不明の重体になり自分たちの行動を悔やむメチャ南>>https://www.youtube.com/watch?v=TzaxjsP0tog]]||
+|07/03|[[現場介入が増える闇医者に振り回されながら対策を考えるメチャ南>>https://www.youtube.com/watch?v=EYfeUibl4XY]]||
+|07/04|[[溶鉱炉事件から闇医者とのバチバチに発展してこれからを想うメチャ南>>https://www.youtube.com/watch?v=JYKWQu-6EtA]]||
+|07/05|[[昨夜の激闘を終え改めてキャップたちと状況を整理するメチャ南>>https://www.youtube.com/watch?v=HhQlRlU6j-A]]||
+|07/05|[[闇医者拠点での撃ち合いを経て小峯さんと警察の腹の探り合いを見守るメチャ南>>https://www.youtube.com/watch?v=IOBnsYwfFeU]]||
+|07/05|[[「蛇」と呼ぶ裏組織を牛耳っているであろう無馬かなとボイラさんの邂逅を見守るメチャ南>>https://www.youtube.com/watch?v=wHLRXfWg5w0]]||
+|07/05|[[昨夜の争いに関して警察の認識を確認する無馬かなの真意を予想して焦るメチャ南>>https://www.youtube.com/watch?v=wz72UNF7gnk]]||
+|07/08|[[無馬かなの一件から葛城さんに注意喚起とともに心配するメチャ南>>https://www.youtube.com/watch?v=lUEK7iRov08]]||
+|07/08|[[溶鉱炉事件を経てルナガレージの今後の方針を聞くメチャ南>>https://www.youtube.com/watch?v=TknNr8gb3VY]]||
+|07/09|[[闇医者アジトに強制捜査を実行。ヤバイ物を山ほど見つけるメチャ南>>https://www.youtube.com/watch?v=HCEQququpao]]||
+|07/09|[[闇医者アジトを調べて浮かび上がった怪しい人物に事情聴取をするメチャ南>>https://www.youtube.com/watch?v=Z2DAsEo7-Eo]]||
+|07/09|[[無馬かなの思わせぶりな言動。警察署周りでの車両爆発に青ざめるメチャ南>>https://www.youtube.com/watch?v=O-JVNUmQ9XE]]||
+|07/10|[[深夜の情報共有の中で出てくるはずのない容疑者が浮上して言葉が出ないメチャ南>>https://www.youtube.com/watch?v=hqRgRxcweNM]]||
+|07/12|[[ルナガレの一件で黒市民と白市民の関係性と警察の無力さに悩むメチャ南>>https://www.youtube.com/watch?v=ntXTr-YiuKs]]||
+|07/16|[[手錠を奪われたキャップのためにも餡ブレラアジトに乗り込むメチャ南>>https://www.youtube.com/watch?v=YhMWktaLi7U]]||
+|07/17|[[キャップとウェスカーの手錠をめぐる争いも決着。警棒で暴れ回りすぎて引かれるメチャ南>>https://www.youtube.com/watch?v=-q9Lw5Hw6FM]]||
+|07/18|[[吸葉さんが思う正義感の向かう先に不安を覚えるメチャ南>>https://www.youtube.com/watch?v=li0E2rZsZaw]]||
+|07/23|[[新しく来た体験の釜出ででこがとにかく濃くてワクワクするメチャ南>>https://www.youtube.com/watch?v=YTQ7yqmBvjY]]||
+|07/23|[[新店舗オープンに動くコーラボーイを家に連れ帰るメチャ南>>https://www.youtube.com/watch?v=uH0cYVTFzYs]]||
+|07/24|[[殉職したはずの紀伊路つみきの復帰に沸く襲撃の世代たち>>https://www.youtube.com/watch?v=q82lFaYDH5U]]||
+|07/26|[[こみ蔵さんが行方不明になりギャングと白市民のトラブル対応策を考えるメチャ南>>https://www.youtube.com/watch?v=O3nW6nh3_z4]]||
+|07/26|[[ダウンに落語にマシンガントークとコーラボーイとのドタバタなひとときを過ごすメチャ南>>https://www.youtube.com/watch?v=pkShrMM5O44]]||
+|07/27|[[昨夜から続くこみ蔵行方不明事件の進展に頭を悩ませるメチャ南>>https://www.youtube.com/watch?v=0laQwldT4wE]]||
+|07/27|[[拉致事件後に明らかになってくるこみ蔵の不可解な行動に頭を抱えるメチャ南>>https://www.youtube.com/watch?v=ovHwivIhE_k]]||
+|07/30|[[病院地下で暗躍する闇医者を確保し牢屋で事情聴取するメチャ南>>https://www.youtube.com/watch?v=I2GK9yaKgwo]]||
+|07/30|[[こみ蔵監禁事件の顛末が本人の口から語られ、その真相に絶句するメチャ南>>https://www.youtube.com/watch?v=XY0gDZGWt6I]]||
+|07/31|[[警察が抱える新人が根付かない問題を救急隊に相談するメチャ南>>https://www.youtube.com/watch?v=zxxjrnF-Rew]]||
+#table_autoincrement(){label=#, start=132}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(7月)
+****8月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|08/01|[[警察の日頃のパトカーの運転に問題がありぱちお先輩から説教されるメチャ南>>https://www.youtube.com/watch?v=vd_GtRsqOMk]]||
+|08/02|[[今後の新人育成のためにいい案がないかぱちお先輩に相談をするメチャ南>>https://www.youtube.com/watch?v=UssrGqP6oSk]]||
+|08/02|[[署長の服装イジリから始まる警察抜き打ちファッションチェックで撃沈するメチャ南>>https://www.youtube.com/watch?v=RYeTMvSi5go]]||
+|08/03|[[新人警官が定着するために何が必要か署長に相談するメチャ南>>https://www.youtube.com/watch?v=GjT-zFR9QMc]]||
+|08/03|[[新人定着問題から始まった今後の警察ための定例会議に出席するメチャ南>>https://www.youtube.com/watch?v=0RUIzY1X6-4]]||
+|08/03|[[第3次警察体験募集を受けて体験にコーラボーイを誘うメチャ南>>https://www.youtube.com/watch?v=luRI1di70mc]]||
+|08/06|[[竹井勝痔が白市民に発砲したと聞き頭を抱えるメチャ南>>https://www.youtube.com/watch?v=Mtr-5IG4SL4]]||
+|08/06|[[今後の警察をより良くするべく始めた定例会議を回し始めるメチャ南>>https://www.youtube.com/watch?v=AqQ1YSmpH5g]]||
+|08/08|[[もう何度目か分からないルナガレと犯罪者と警察とのトラブルを起こした赤城さんに苦笑いのメチャ南>>https://www.youtube.com/watch?v=dprfUurDUK0]]||
+|08/09|[[ギルベルトとの件で署長が最高のネゴシエーターぶりに感服するメチャ南>>https://www.youtube.com/watch?v=buP3PeMJai8]]||
+|08/11|[[コーラボーイとポテトにコーラにくだらない話ばかりしてチルするメチャ南>>https://www.youtube.com/watch?v=ufuyWktTmwM]]||
+|08/15|[[JTS内を通過して逃げる犯人対しての対応を考えるメチャ南>>https://www.youtube.com/watch?v=MRy9Gc83gB0]]||
+|08/23|[[定例会議で挙がる今後の課題と黒落ちの原因を考えるメチャ南>>https://www.youtube.com/watch?v=JOQtsd4JpME]]||
+|08/24|[[謎の種を探せという無馬かなの心意を考えるメチャ南>>https://www.youtube.com/watch?v=KD1JhvqmGf8]]||
+|08/24|[[白市民の女性陣の素性を探りに来たBackAlleyの狙いを考えるメチャ南>>https://www.youtube.com/watch?v=a6R0OUbWSkY]]||
+|08/26|[[無馬かなから課せられた種探しで1人目が発覚しその人物に驚愕するメチャ南>>https://www.youtube.com/watch?v=EdNWTAa2_c0]]||
+|08/27|[[定例会議で種の存在が黒市民にバレてる可能性が浮上し焦るメチャ南>>https://www.youtube.com/watch?v=xpOZK-58PxI]]||
+|08/30|[[無馬かなからのアジカンへの電話を受けて嫌な感じしかしないメチャ南>>https://www.youtube.com/watch?v=elCO0HEd2Zs]]||
+|08/30|[[ぱちお先輩の置き土産と署長の思いに頭を悩ませるメチャ南>>https://www.youtube.com/watch?v=g3IVj6lF3sA]]||
+#table_autoincrement(){label=#, start=162}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(8月)
+****9月
+#region(開く,open)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|09/01|[[昨夜の無馬の話を整理したアジカンから話を聞くメチャ南>>https://www.youtube.com/watch?v=SVyRCZWCcJ4]]||
+|09/01|[[定例会議で隊長から行われた謝罪に驚くメチャ南>>https://www.youtube.com/watch?v=1mR9zZY9uz0]]||
+|09/02|[[本署内で倒れているコーラボーイを見つけて病院へ緊急搬送するメチャ南>>https://www.youtube.com/watch?v=Ru1oYzG6uKE]]||
+|09/09|[[警察に復職するのかあやふやなキモ先に市長からの正論パンチで苦笑いのメチャ南>>https://www.youtube.com/watch?v=U9fIVtQVL18]]||
+|09/10|[[例の種から咲いた花で作る花束を見て考えるメチャ南>>https://www.youtube.com/watch?v=FhupDEVvIzE]]||
+|09/11|[[救急隊のヘリを盗んだウェスカーと牢屋で想定してない展開になり焦るメチャ南>>https://www.youtube.com/watch?v=tKLzGHFn2Ck]]||
+#table_autoincrement(){label=#, start=181}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(9月)
+#endregion(2026年)
+#endregion(Season2)
+
+**ショート動画
+#region(Season2,open)&b(){Season2}
+***2026年
+#region(開く,open)&b(){閉じる}
+***1月・2月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|01/27|[[アジカンのよるきゅん呼びに爆笑の警察とメチャ南>>https://www.youtube.com/shorts/EQEy9PUFnHk]]||
+|02/02|[[チェイス練習でへまするメチャ南>>https://www.youtube.com/shorts/77USyUn1eaY]]||
+|02/04|[[えびす先輩の神ドラテクに興奮するメチャ南>>https://www.youtube.com/shorts/VT09GMW-sUQ]]||
+|02/07|[[3時瞑想芸が上手く決まらないえびす、霊明、メチャ南>>https://www.youtube.com/shorts/O32539I2gko]]||
+|02/08|[[えびす先輩に注意され不貞腐れるメチャ南>>https://www.youtube.com/shorts/JzsyR634n1I]]||
+|02/09|[[ギガさんかろぎあさんか分からなくなるアジカンとメチャ南>>https://www.youtube.com/shorts/VFat36WhhTo]]||
+|02/14|[[瞑想したら負けのしりとりをネル先輩と霊明さんとメチャ南>>https://www.youtube.com/shorts/kV9pG8_awlY]]||
+|02/23|[[またもやパトカーをダメにするメチャ南>>https://www.youtube.com/shorts/EqdNu6ABoPo]]||
+|02/24|[[元南署署長の煉先輩が甘えてきて困惑するメチャ南>>https://www.youtube.com/shorts/wYYXi81EEfE]]||
+|02/25|[[アジカンに謎のパパムーブをしてキレられるメチャ南>>https://www.youtube.com/shorts/lwVn6OtJbaE]]||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(1月・2月)
+***3月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|03/09|[[結局爆発するメチャ南>>https://www.youtube.com/shorts/2tlrKMC0r_s]]||
+|03/10|[[有名な爆散スポットで散るアジカンを見つけるメチャ南>>https://www.youtube.com/shorts/VAJ1kQKM1lw]]||
+|03/11|[[暴れ回るアジカンにダウンさせられるメチャ南>>https://www.youtube.com/shorts/oyF1ZEfyF6E]]||
+|03/23|[[つんザウルス通っていた犯人が入れ替わり困惑するメチャ南>>https://www.youtube.com/shorts/E1pAqFqrsds]]||
+|03/24|[[ただのチョケなのに天罰が下るアジカンに爆笑のメチャ南>>https://www.youtube.com/shorts/pFQfvuDNpGY]]||
+|03/25|[[早番キャップの無線挨拶に反応するメチャ南>>https://www.youtube.com/shorts/unEClmosglI]]||
+|03/26|[[アーティファクト中に足を滑らせてダウンするメチャ南>>https://www.youtube.com/shorts/hKd-RHUz6Hg]]||
+|03/28|[[現場対応に向かう途中にヘリアタックをされるメチャ南>>https://www.youtube.com/shorts/IK3LhvS4LrU]]||
+|03/29|[[ザウルス大興奮のダイナミックな戦いをするメチャ南>>https://www.youtube.com/shorts/RcOTvo4QHPc]]||
+|03/30|[[中型現場の延長でのロングチェイスがあっけない終わり方をするメチャ南>>https://www.youtube.com/shorts/bfapA5O0zDA]]||
+#table_autoincrement(){label=#, start=11}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(3月)
+***4月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|04/03|[[人質にさせまいと頑張って体を張るのもやっぱり不憫なメチャ南>>https://www.youtube.com/shorts/ROL4M3lz_uI]]||
+|04/29|[[歪みでアジカンを引きずり降ろしたらあの世に連れていかれる不憫なメチャ南>>https://www.youtube.com/shorts/M5w1knaG5XI]]||
+#table_autoincrement(){label=#, start=21}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(4月)
+***5月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|05/05|[[アジカンのいたずらでまたもやダウンしかける不憫なメチャ南>>https://www.youtube.com/shorts/KHefhdnM418]]||
+|05/06|[[事件対応中になぜか爆散し続けるアジカンとメチャ南>>https://www.youtube.com/shorts/RfPZCExvNqI]]||
+|05/13|[[治療のため病院へ搬送中に空を舞うメチャ南>>https://www.youtube.com/shorts/allE68qHhpc]]||
+|05/20|[[着信音を全力で阻止しようとするイロハさんとそれを邪魔したいピルギャンとメチャ南>>https://www.youtube.com/shorts/9QvD4xuehGg]]||
+|05/21|[[自分のパトカーに警棒を振りかざすまるんにブチギレるメチャ南>>https://www.youtube.com/shorts/54JW7LBhBac]]||
+#table_autoincrement(){label=#, start=23}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(5月)
+***7月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|07/06|[[復帰早々に派手にかます竹井勝痔に振り回されるメチャ南>>https://www.youtube.com/shorts/Jef-2q3rufw]]||
+|07/07|[[狐さんとのチェイス中に派手に爆散するメチャ南>>https://www.youtube.com/shorts/LauZb1otB-8]]||
+|07/13|[[カーチェイスの先にあるものがお決まりの爆散で爆笑のメチャ南>>https://www.youtube.com/shorts/zc-MP1u3gcY]]||
+|07/14|[[ハンさんにの誘いに乗った結果音速の世界に攫われるメチャ南>>https://www.youtube.com/shorts/H8ldFvH6V9U]]||
+|07/19|[[ぺんぺんが道端で拾ってきたフロガーにぐちゃぐちゃにされるメチャ南>>https://www.youtube.com/shorts/2rI2LW5kbYk]]||
+|07/19|[[爆散コンビと一緒に3時瞑想前に爆散するメチャ南>>https://www.youtube.com/shorts/9rxzQI4pO2I]]||
+|07/21|[[犯人から押収した消防車にもみくちゃにされるメチャ南>>https://www.youtube.com/shorts/5Wsh_DfpOXM]]||
+|07/22|[[コンビニ強盗犯に対して少々やりすぎてしまうメチャ南>>https://www.youtube.com/shorts/Ld66Mtg1Q3Q]]||
+|07/29|[[またもや赤立駐で犯人の大爆発を目撃するメチャ南>>https://www.youtube.com/shorts/UpSrsFXYZXg]]||
+|07/30|[[ボイラのさんのピンチに現れる消防車を見て大笑いのメチャ南>>https://www.youtube.com/shorts/4m2iJykOU80]]||
+#table_autoincrement(){label=#, start=28}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(7月)
+***8月
+#region(開く,close)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|08/05|[[爆発祭のトリを飾るプレミアの大ジャンプに突っ込むメチャ南>>https://www.youtube.com/shorts/E2QbDllKuO0]]||
+|08/07|[[すんとの本署前決戦でまた性格が変わって暴れるメチャ南>>https://www.youtube.com/shorts/70MHYJ_c4rE]]||
+|08/08|[[チェイス中にリオ先輩からのアタックでガレージに突っ込み大炎上するメチャ南>>https://www.youtube.com/shorts/WozwT0kYuNU]]||
+#table_autoincrement(){label=#, start=38}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(8月)
+***9月
+#region(開く,open)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|09/04|[[寝起き早々歪みで閉じ込められ同期のアジカンに助けを求めるメチャ南>>https://www.youtube.com/shorts/ZphJYNxGGoc]]||
+#table_autoincrement(){label=#, start=41}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(9月)
+#endregion(2026年)
+#endregion(Season2)
+
+#region(Season1)&b(){Season1}
+***2024年
+#region(開く)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|10/07|[[この街に来た理由をペラペラ語るメチャ南よる>>https://www.youtube.com/shorts/UR5SsLqMymI]]||
+|10/08|[[食事の施しを受けながら某島の話をするメチャ南よる>>https://www.youtube.com/shorts/oG6MiOKUtAg]]||
+|10/09|[[服選びが下手なせいで秘密道具が出せそうなメチャ南よる>>https://www.youtube.com/shorts/kuyE0o8jISE]]||
+|10/26|[[カジノで朝まで楽しんでたら監禁されかけるメチャ南よる>>https://www.youtube.com/shorts/bVmP4hjsHXg]]||
+|10/27|[[完成度の低いモノマネを披露するメチャ南よる>>https://www.youtube.com/shorts/r5MEBzr5xKw]]||
+|10/28|[[南の島直伝の技術を使い真顔でクラッシュしていくメチャ南よる>>https://www.youtube.com/shorts/elSo3Lh0JvU]]||
+|10/29|[[JTS名物の無茶ぶりに食らいつくメチャ南よる>>https://www.youtube.com/shorts/R_C3yBRYrlc]]||
+|10/30|[[エモ筋の使い方が分からずバーで暴走するメチャ南よる>>https://www.youtube.com/shorts/BaNVanJE094]]||
+|10/31|[[魂では考えられないキレキレのダンスを披露するメチャ南よる>>https://www.youtube.com/shorts/TLXDAtLhId4]]||
+|11/01|[[相変わらずパラシュートはいまいちなメチャ南よる>>https://www.youtube.com/shorts/GY-1xL_1HLo]]||
+|11/02|[[れりあさんにおんぶに抱っこな空飛ぶメチャ南よる>>https://www.youtube.com/shorts/dZuLhvyWSDk]]||
+|11/03|[[夢の世界とは違い泳ぎが下手なメチャ南よる>>https://www.youtube.com/shorts/dcfdodGPBNI]]||
+|11/04|[[優雅な空の旅…… とはいかないメチャ南よる>>https://www.youtube.com/shorts/CzZjRwacnFg]]||
+|11/05|[[パラシュートがつけられているかを命がけで確かめるメチャ南よる>>https://www.youtube.com/shorts/-3gWYBVohpc]]||
+|12/31|[[警察に合格して早々、派手にやらかすメチャ南よる>>https://www.youtube.com/shorts/DXn7mZSAVnU]]||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2024年)
+//
+***2025年
+#region(開く,open)&b(){閉じる}
+#table_style(head=center:#00A497:#fff){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|01/24|[[同期のアジカンにボコボコにされるメチャ南よる>>https://www.youtube.com/shorts/s_kRf_fuvqk]]||
+|02/14|[[先輩が口プで負けるのを笑って見守るしかないメチャ南よる>>https://www.youtube.com/shorts/Km9hQzgl_SM]]||
+|03/04|[[明路笑生の無茶ぶりに押し負けるNOLIMITボスのシャンクズと警察のメチャ南よる>>https://www.youtube.com/shorts/9OuA2hNBRCU]]||
+//|日付|[[タイトル>>リンク]]||
+#table_autoincrement(){label=#, start=16}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2025年)
+#endregion(Season1)
+
+*&font(25px,#00ccbb){コ}ラボ &icon_fa(fa fa-video-camera)
+※ Twitchアーカイブは一定期間を過ぎると視聴できなくなります
+***2026年
+#region(開く,open)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#00A497:#fff){配信日=right,#=center}
+|~配信日|~配信タイトル|~アーカイブ|~備考|h
+|04/07|[[【#ストグラ コラボ】2月の遅番組で頭を使ったサバイバルします【Dreadway】>https://www.twitch.tv/videos/2742121519]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=FYGzQH20EMo]]|Dreadway&br()アジ吉、ちゃげぽよ。|
+|04/27|[[#ストグラ公務員PUBG 7に今回も参戦する人よりちょっとPUBGに詳しいやつ>>https://www.twitch.tv/videos/2758275050]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=JsuAHwYbMck]]|PUBG&br()アベレージ、D.ManueL、さぶ郎、るなりあ、Rio、にぶぶ、ぱちしゅう、かど、ねけまる、KOHAL、marunnn、えびす、レントンゲームズ、ルルベル、宙星ぱる、碧輝りお、栗山やんみ、羽流ぴょこ、ライト、未空あいす、羊飼いK、shiron、南登かなる、瀬戸あさひ|
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2026年)
+***2025年
+#region(開く,close)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#00A497:#fff){配信日=right,#=center}
+|~配信日|~配信タイトル|~アーカイブ|~備考|h
+|01/20|[[#ストグラ公務員PUBGに参る【RintoXD/メチャ南よる】>>https://www.twitch.tv/videos/2358540763]]|[[&font(#6441A4){&icon_fa(fa-brands fa-twitch)}ダイジェスト>>https://www.twitch.tv/videos/2359906685]]&br()[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=c36y6uAMfk4]]|実況あり|
+|02/06|[[襲撃の世代コラボ ボードゲーム【#ストグラ】【#メチャ南よる】>>https://www.twitch.tv/videos/2371311624]]|[[&font(#6441A4){&icon_fa(fa-brands fa-twitch)}ダイジェスト>>https://www.twitch.tv/videos/2376486372]]|アジ吉、白帝りいた、せかめん、山田ジェームス武、ぜろなな&br()コードネーム、ito、PUBG|
+|02/17|[[せかめんさんとPUBG【#メチャ南よる】#ストグラ】>>https://www.twitch.tv/videos/2383615799]]|[[&font(#6441A4){&icon_fa(fa-brands fa-twitch)}ダイジェスト>>https://www.twitch.tv/videos/2385738957]]|せかめん、山田ジェームス武|
+|05/19|【PUBG】ストグラ公務員PUBG４に参加します|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=9smwF0cMVfw]]|メン限|
+|07/28|【PUBG】第5回 ストグラ公務員PUBG【質問等はご自由に】|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}アーカイブ>>https://www.youtube.com/watch?v=t0YCNvtMQhY]]||
+|09/22|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【#ストグラ】PUBGカスタム>>https://www.twitch.tv/videos/2572165057]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=kLpR_BAOHK0]]||
+|09/26|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【PUBG】TGS2日間楽しかった。PUBGやります。with アベレージさん>>https://www.twitch.tv/videos/2576241331]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=gvVZXb1Yil0]]||
+|09/28|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラのメンバーでLOL>>https://www.twitch.tv/videos/2577237866]]|||
+|09/28|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【#ストグラ】SGPD 襲撃の世代 Season1振り返り雑談会【#メチャ南よる】>>https://www.twitch.tv/videos/2577925555]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=8OpSiFifEzo]]||
+//|mm/dd|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[配信タイトル>>ここにTwitch配信URLを入力]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>ここにYouTubeアーカイブURLを入力]]||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2025年)
+
+*&font(25px,#00ccbb){そ}の他 &icon_fa(fa fa-video-camera)
+※ Twitchアーカイブは一定期間を過ぎると視聴できなくなります
+***2026年
+#region(開く,open)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#00A497:#fff){配信日=right,#=center}
+|~配信日|~配信タイトル|~アーカイブ|~備考|h
+|04/22|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラジオ ゲスト:えびす、RintoXD>>https://www.twitch.tv/videos/2754207973]]||配信は[[市長>>山下　ひろし]]（しょぼすけ）枠&br()[[伊勢えびす（えびすくん）>>伊勢　えびす]]、メチャ南よる（RintoXD）|
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2026年)
+***2025年
+#region(開く,close)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#00A497:#fff){配信日=right,#=center}
+|~配信日|~配信タイトル|~アーカイブ|~備考|h
+|09/02|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【#ストグラ】ストフェスの軽い振り返り【#メチャ南よる】>>https://www.twitch.tv/videos/2556143815]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=wDiy4nXCGfU]]||
+|09/27|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[メチャ南のストグラSeason1振り返り雑談とクリップ鑑賞>>https://www.twitch.tv/videos/2577040124]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=njuoG-L0Nrc]]||
+//|mm/dd|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[配信タイトル>>ここにTwitch配信URLを入力]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>ここにYouTubeアーカイブURLを入力]]||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2025年)
+
+#right(){&link_up(🔝ページTOPへ)}

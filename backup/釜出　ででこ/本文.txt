@@ -1,0 +1,65 @@
+**プロフィール
+//&image(ここに画像のURLを入力,y=400)
+&image(ででこ_S2.jpg,y=400)
+
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#E6E6FA:#666666){名前=#eee:b:center}
+|~世界線|~Season1|~Season2|h
+|~名前|>|&ruby(かまで){釜出}　&ruby(){ででこ}|
+|~出身地|>|日本|
+|~誕生日|>|yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)|
+|~転入日|2024年09月20日 (&countup(2024/09/20,yd)経過)|2026年07月22日 (&countup(2026/07/22,yd)経過)|
+|~職業|||
+|~体験||警察【[[ロスサントス警察]]】&small(){(2026/07/22~)}|
+|~TwiX|||
+|プレイヤー|>|かなででで|
+|告知等|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://twitter.com/R_k7den]]|
+|配信場所|>|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/r_k7den]] / &font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@K7dedede]]|
+|別キャラ|>|&small(){&openclose2(show=※ネタバレ注意){ ：[[天草　蒼]]}}|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-情報を記述
+
+**エピソード
+***2024年
+#region(09月,open)&bold(){09月}
+****09/20 [[1日目 おはようみんな>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(mm月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(mm月)
+
+}
+
+**アーカイブ
+***2024年
+#region(開く
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/20|1|[[おはようみんな>>ここに配信URLを入力]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***2025年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/19|2|[[#釜出でで子>>https://www.twitch.tv/videos/2409649556]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion

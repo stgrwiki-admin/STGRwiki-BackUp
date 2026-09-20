@@ -1,0 +1,459 @@
+//S1の同名キャラクターと別人とのことで新しく作成しました。(公式discord初衛星場所の情報より)
+//同一人物と判明した場合、統合してください。
+*プロフィール
+//良い画像があったら差し替えお願いします。
+#slide_img(auto=3,width=300,height=340){noma_poko.png,noma_sunny_fuyu.png,noma_rock.png,noma_mgr.png}
+
+//ここからプロフィール
+#table_style(head=#E6E6FA:#666666){}
+|~名前|~&icon_fa(fa fa-user)|&bold(){&ruby(のま){野間}}|
+|~本名|~&icon_fa(fa fa-user)|&ruby(のま){野間}　&ruby(けんき){賢樹}|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|1993年5月21日 (&countup(1993/5/21,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2026年05月14日 (&countup(2026/05/14,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|ケバブ屋【[[サニーケバブ]]】&small(){自称エリアマネージャー '26/06/03~}&br()&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&small(){自称エグゼクティブマネージャー}|
+|~所属|~&icon_fa(fa fa-users)|サッカーチーム【ブリザードギア】&br()ロックバンド【OVER JOKE】&small(){Lead Gt.}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|野間 (@kenkinoma)|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|けんき|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&image(wick.svg,width=16,height=16,inline,alt=Wick) [[&font(#000){Wick (@KenkNoma)}>>https://wick-sns.com/sns/profile/22b5f51f-3d57-4c01-9248-a9559f983dea]]&space()/&space()&font(#000){&icon_fa(fa fa-brands fa-x-twitter)} [[&font(#000){X (@T_kenki)}>>https://x.com/T_kenki]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch (kenki521)}>>https://www.twitch.tv/kenki521]]|
+|BGCOLOR(#eee):~動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@Kenki521)}>>https://www.youtube.com/@Kenki521]]|
+|BGCOLOR(#eee):~切り抜きに関して|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[Youtubeの切り抜きについて>>https://www.youtube.com/watch?v=JQziS3PAt5c&t=1377s]]&br()[[ショート動画について①>>https://www.twitch.tv/kenki521/clip/PlausibleTubularCocoaRuleFive-Ue-Hygj_y3Kt-b2Y]][[②>>https://www.twitch.tv/kenki521/clip/FantasticSpineyPoultryKappaClaus-o4YCleoAMuBIWldj]][[③>>https://www.twitch.tv/kenki521/clip/ArbitraryDrabWaterOneHand-l9I9iR1byjc8uvEq]][[④>>https://www.twitch.tv/kenki521/clip/MotionlessEnjoyableSparrowLitty-HgYrgnpSBR2wDK0B]]|
+//
+#co{コピー用🔽以下必要な場合にご利用下さい
+
+【Instagram】&font(#CF2E92){&icon_fa(fa-brands fa-instagram)} [[&font(#DC2E74){Instagram}>>ＵＲＬ]]
+【ツイキャス】[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting(チャンネル名)}>>ＵＲＬ]]
+【TikTok】&font(#000){&icon_fa(fa-brands fa-tiktok)}[[&font(#000){TikTok(チャンネル名)}>>ＵＲＬ]]
+【キック】[[&font(#008000){&icon_fa(fa fa-external-link)Kick(チャンネル名)}>>ＵＲＬ]]
+
+}
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+- もともと[[別の街>>https://w.atwiki.jp/newtowngta/pages/112.html]]で飲食店（バー）をやっていた
+- &s(){[[一緒に働いていた友達>>https://w.atwiki.jp/newtowngta/pages/155.html]]が失踪したため探しに来た}
+- 自分の店を持つのが夢
+--2026/7/17BJローン融資のもと6000万で店舗地決定
+--2026/9/2内装が完成
+- 反社を絶対に許さない。関わりを避けるため、頻繁に反社チェックを行っている
+- 会話中、少しでも隙を見せると完全に野間のペースに飲み込まれてしまう。ケバブ屋での接客中によく発生するため、同僚からは「&bold(){野間劇場}」と呼ばれている
+- コント用の服を頻繁に購入するため、常に金欠気味である
+- 起床後2時間ほどは、一人で釣りをしていることが多い
+- 喧嘩を売られた際は、口プ一つで警察、反社、ギャングと渡り合う
+- シーズン1に居た同姓同名の[[野間賢樹>野間　賢樹]]とは別人
+-新たに追加されたパターゴルフにてここなと協力し裏ゴルフを不定期開催している（違法賭博）
+-ハウジングを知り2時間没頭。楽しすぎてサニーケバブの社宅にてイタズラもした
+*交友関係
+***友人
+//野間視点で分かっていることのみ記載
+#region(開く)
+#table_style(head=center:#444:#ffffff)
+|~名前|説明|h
+|[[け　もの]]|初日にSNSで知り合い、街を案内してもらった|
+|[[くま　ぽこ]]|初日にアパート前で出会い、街を案内してもらった。野間の飲食店に1,000万円の出資を約束（ヴァリュエーション1億）|
+|[[鴨葱　吸葉]]|[[サニーケバブ]]の同期。釣り・バイト仲間|
+|[[猫ノ宮　ひな]]|タクシー運転手。タクシー退勤中でも直電して配車してもらっている。なぜかよく野間と居合わせては振り回されている|
+|[[アイン]]|[[サニーケバブ]]の同僚。「分からない」が口癖。分からないことを一緒に考えてあげると何故か黙ってしまうことがある|
+|[[ましゃかり　トラボルタ]]|魂が株をやっており野間と投資について語り合っている。過去に〇VIDIAを当てて以来やり続け長らく負けていたが最近ようやくプラス域に向かいつつある。&bold(){&color(#F54738){この衛星及びWikiは特定の株式の売買を推奨するもでのはありません。投資は余剰資金で行いましょう}}|
+|[[ももみ]]|救急隊。出会う度に「ももみちゃん、大きくなったね。何歳になったの？１４歳になったの」とだけ絡む仲|
+|[[牧田　ここな]]|前職が闇の武器商人のカフェの店長。押しに弱くゴリ押せば大体やってくれる。白パス2回選考落ちなど不憫エピソードが多い。あだ名はたこ|
+|[[ボイラ　テンガリン]]|ゴブリンになるのが夢だった警察官。ボイス納品の際すべてバラされあだ名がゴブ先輩になったらしい。女騎士を探している|
+|[[マイゴ・ニ＝ナリエル]]|リサセンにこもっている先輩。野間に倉庫のアルバイトを教えてくれた。所持金は奢りとかで食費に消えるらしい|
+//|[[ここに名前]]|ここに説明|
+#table_autoincrement(){label=No.}
+#endregion
+
+*&anchor(株式会社NoMA,option=nolink){}株式会社NoMA&aname(株式会社NoMA)
+//野間視点で分かっていることのみ記載
+-代表取締役　野間 賢樹
+-契約タレントの芸能活動全般のマネージメント業務を行う
+-書面契約を徹底している（例外あり）
+-プロデュースした7社をexitさせた実績がある（自称）
+-タレントのマネージメントに加え、ボイス販売事業「マルチボイス」も展開している
+-胡散臭い、契約書がガチ、挨拶がハッピーなどから、周囲には「詐欺ではないか」と疑われている
+-契約書全文が一部に流出する事件が起きた際、[[葛城]]裁判官の目に入ったがその完成度の高さに笑っていた。
+****マルチボイス事業
+-株式会社NoMAが展開するボイス販売事業
+-購入者の希望に合わせ、契約タレントによるオーダーメイドボイスを制作・販売している
+-ボイスには松・竹・梅の3プランがあり、&color(#CC5568){梅}150万、&color(#6CB289){竹}300万、&color(#66864D){松}500万
+-購入時にはキャスト、シチュエーション、台詞の方向性、固有名詞の有無などを指定できる
+-「硬め濃いめ」など、購入者の細かな好みにも対応可能
+-完成したボイスはスマホのボイスメモとして購入者に納品される
+-購入者にはボイスの権利ごと譲渡される。この大元となるボイスを「&bold(){親ボイス}」と呼ぶ
+-親ボイスの権利を得た購入者は、他者に向けてより安価な「&bold(){子ボイス}」として二次販売できる
+-子ボイスとして展開することで「&bold(){必ず儲かる}」仕組み
+-&bold(){孫ボイス}の販売は禁止している
+-権利ごと譲渡するため、二次販売時にNoMAが売上の一部を受け取ることはなく、販売後の管理や&bold(){責任}は基本的に購入者側に移る
+-ボイス事業を始めたい人向けのOEM商材や、好きなボイスを集めるコレクター向け商品などとして提案している
+-事業の胡散臭さが加速する一方で、契約や権利関係の説明だけは妙に具体的である
+-女性向けの男性ボイスも考えているが街の男性の年齢高く難航している
+-納品されたボイスは聞かないor衛生に流れないようにして聞くため気になった人はタレントか発注者の衛生に行くことをおすすめする
+-タレントの自己実現を応援しているため&s(){（計算がめんどくさい）}野間の取り分はそこまで無く、自分で取ってきた&bold(){公式闇営業}は満額渡しているため必ず儲ると言っているが&bold(){大元が一番儲かっていない}という状況になっている
+-なんなら情報をくれた顧客にもお金を払っているのでほんとに儲かっていない
+-顧客に連絡がつかない場合&bold(){職場に押しかけ無線で呼び出し＆作品名を公開される}
+-野間が定期的に出張に行くため起床率が悪くなったりするためタレント本人がすべての業務を行う
+完全裏営業も認められている。
+-作品の品質上昇と切磋琢磨のためタレント間の作品交換は無料で行える
+****おじボイス事業
+-いろんなおじさんがあの手この手で人を笑顔にさせようと頑張るプロジェクト
+-サンプルがゲームBGM再現だったためシリアスに疲れた際に誰かに電話をかけてもらいボイスを着信音にすることで和らげる使い方を推奨している。
+-基本的に音声一発どりがルール。（これはマルチボイスも同じ）
+****契約タレント
+//吸葉はモンプロとは関係者の扱いのため所属はしていない
+#region(開く)
+#table_style(head=center:#444:#ffffff)
+|~名前|~契約日|~所属・活動|~進捗・備考|~自己実現の目標|h
+|[[ミルキー・ピンク]]|2026/6/11 契約|[[モンプロ]]所属|ラインギリギリ（たまに超える）なボイスを得意とする|飲食店たてること|
+|[[猫ノ宮　ひな]]|2026/6/11 契約|[[モンプロ]]所属|もちもちな寝起きボイスを得意とする&br()因みにwickでガチ寝起きボイスを聞くことが出来る|お店作りたい&br()ヒーローショーしたい|
+|[[ぞん　美子]]|2026/6/11 契約|[[モンプロ]]所属|||
+|[[鴨葱　吸葉]]|2026/6/11 口頭契約||2026/6/19 [[ヤバッキオ>蒲田　ヤバッキオ]]のシネマティックビデオ出演決定&br()魂が喫煙者でありダウナー系のボイスを得意とする||
+|[[萌愛　くしゅり]]|2026/6/13 契約|アイドル活動|条件付き「事務所の所属は出来ません、犯罪もしません」&br()ボイス納品の速さに定評がある|お金のためならなんでもやる&br()この街のすべてを知りたい|
+|[[不働　めい]]|2026/6/19 契約|アイドル活動|[[くしゅり>萌愛　くしゅり]]からの紹介|5,000万円貯めてカジノを潰したい|
+|[[王城　リレイ]]|2026/6/26?||2026/6/26 ボイス販売したいと本人から申し出&br()現在ボイスの内容をどうするかで難航中||
+|[[牧田　ここな]]|2026/6/27契約||前の街で悪い事をしたことの償い。誤って友達に契約内容を喋ってしまったが自首したためお咎めなし||
+|[[イナ　イロハ]]|2026/7/2契約|[[救急隊>ロスサントス救急救命隊]]|お近づきのしるしに契約書送付。契約書の長さを同僚を伝えるため全文送ってしまう&br()居合わせた葛城直々に違反認定され何かしらの禊を確約||
+|[[さとう]]|7月13日契約予定を約束。口頭約束||自分のライブを近々するためそこで名を広めてから契約予定|夢や目標|
+
+//|[[ここに名前]]|契約日・形態|所属・活動|進捗・備考|夢や目標|
+#table_autoincrement(){label=No.}
+#endregion
+****業務提携・関係者
+#region(開く)
+#table_style(head=center:#444:#ffffff)
+|~名前|~カテゴリ|~関係日|~関係性・内容|~備考|h
+|[[タラ　ちゃん]]|業務委託元|2026/6/11|NoMAへ[[モンプロ]]所属女性タレントのマネージメント業務を委託（口頭契約）。おじボイスも担当。契約後反社という話を聞いた（本人確認はまだ）|[[モンプロ]]オーナー|
+|[[蒲田　ヤバッキオ]]|映像案件関係者|2026/6/19|NoMA所属タレントのアーティスティックビデオ及びシネマティックビデオ出演を打診される||
+|[[飯田　けんつ]]|販売代理店・提携先|2026/6/19|NoMAと[[飯田書店]]とでマルチボイス事業の販売代理店契約を大枠合意|[[ヤバッキオ>蒲田　ヤバッキオ]]からの紹介|
+|[[SECRET]]|プロデューサー？|2026/7/13|依頼をしようとした[[アウト　くるーど]]の勘違で仕事を受注|[[牧田　ここな]]がサポートを行っている|
+//|[[ここに名前]]|カテゴリ|関係日|関係性・内容|備考|
+#table_autoincrement(){label=No.}
+#endregion
+****ボイス作品
+//サンプル・製品版ともに1行1ボイスで記載
+//タイトルは野間のボイスメモタイトルママ、詳細情報は備考欄に記載
+//製品版のランクは「松・竹・梅」、サンプルは「-」で記載
+#region(開く)
+#table_style(head=center:#444:#ffffff)
+|~タイトル|~種別|~演者|~日時|~依頼主|~値段|~按分|~長さ|~クリップ|~シチュ|~備考|h
+|萌愛くしゅり　サンプルボイス|サンプル|[[萌愛　くしゅり]]|2026/6/14|-|-|-|0:32|[[野間>>https://www.twitch.tv/kenki521/clip/PlainHeartlessBoarTinyFace-w7yFEoLeZkViKOQp]]|甘々好き好きお家デート||
+|そうくん♡ cv萌愛くしゅり|&bold(){&color(#66864D){松}}ボイス|[[萌愛　くしゅり]]|2026/6/17|[[天草　蒼]]|500万|演者450万、野間50万|1:40|[[天草>>https://www.twitch.tv/r_k7den/clip/ProtectiveSeductiveWrenKappa-ylmfMbtwQxyvpja0]]|誕生日お家デート終盤||
+|猫ノ宮ひな　サンプルボイス|サンプル|[[猫ノ宮　ひな]]|2026/6/19|-|-|-|0:30|[[野間>>https://www.twitch.tv/kenki521/clip/CloudyDeafCrabTebowing-Hd6bEbOvM0lz0n-K]]|寝起き||
+|鴨葱すいは　サンプルボイス|サンプル|[[鴨葱　吸葉]]|2026/6/20|-|-|-|0:32|[[野間>>https://www.twitch.tv/kenki521/clip/FriendlyEnchantingDuckFunRun-ZJ6wonN68BGIB1ID]]|喫煙所/シーシャバー、ダウナー吸葉||
+|鴨葱吸葉　サンプル2|サンプル|[[鴨葱　吸葉]]|2026/6/20|-|-|-|0:27||||
+|Come up soon CMボイス 猫ノ宮ひな|&bold(){&color(#6CB289){竹}}ボイス|[[猫ノ宮　ひな]]|2026/6/20|[[亀山　HERO]]|300万|演者250万、野間20万、モンプロ30万|0:36|[[演者>>https://www.twitch.tv/nkomiya_hinata/clip/AmazonianTiredCobblerPipeHype-_7JUI4wOpol0kMvQ]] [[亀山>>https://www.twitch.tv/kamehirosi/clip/ArtsyAlertDadNomNom-lDaEY1s8cAhcVWDo]]|[[COME UP SOON]]広告、じゅるり有り||
+|ミルキーピンク　サンプル1|サンプル|[[ミルキー・ピンク]]|2026/6/28|-|-|-|0:27||||
+|ミルキーピンク　サンプル2|サンプル|[[ミルキー・ピンク]]|2026/6/28|-|-|-|0:38||||
+|ボイラ様　スイハ竹|&bold(){&color(#6CB289){竹}}ボイス|[[鴨葱　吸葉]]|2026/6/28|[[ボイラ　テンガリン]]|300万|演者300万|1:13|||本人が案件を取ってきたため野間の取り分は無し|
+|ミルキーピンク　初恋|&bold(){&color(#66864D){松}}ボイス|[[ミルキー・ピンク]]|2026/7/2|[[天草　蒼]]|500万|演者500万|1:07||初恋、固有名詞あり（そうくん）|本人が案件を取ってきたため野間の取り分は無し|
+|ミルキーピンク　釣りシチュ|&bold(){&color(#66864D){松}}ボイス|[[ミルキー・ピンク]]|2026/7/2|[[ジョーカー]]|500万||1:00||釣り、ぬるぬるの鰻、竿のしなり|2026/7/15に[[ジョーカー]]のボイス事業第三弾の一つとして販売開始。100万で販売して売れているらしい|
+|ジェクト戦BGM|おじボイスサンプル|[[タラ　ちゃん]]|2026/7/2||||0:35||||
+|ミルキーピンク　風呂|&bold(){&color(#66864D){松}}ボイス|[[ミルキー・ピンク]]|2026/7/11|[[ブラック　ジャックス]]|500万|演者450万、野間50万|1:05||サンプルの続き||
+|いのちださん|&bold(){&color(#66864D){松}}ボイス|[[鴨葱　吸葉]]|2026/7/12|[[命田守]]|500万||1:02||釣りの時聞ける落ち着いたもの||
+|ミルキーピンク　風呂２|&bold(){&color(#66864D){松}}ボイス|[[ミルキー・ピンク]]|2026/7/16|[[ブラック　ジャックス]]|500万|演者450万、野間50万|1:05||サンプルの続きの続き。演者にキモイと言われた||
+|ゴブリン|&bold(){&color(#66864D){松}}ボイス|[[猫ノ宮　ひな]]|2026/8/20|[[ボイラ　テンガリン]]|500万|演者400万、野間100万|1:05||演者は高貴な女騎士。ボイラはゴブリン（取り巻きなし）くっ殺せは必須　くっ貴様何をするが第一声|野間が2ヶ月の出張により納品が遅れた。警察の全体会議中に納品したため署内にて質問攻めが行われた。分配率が違うのは野間が分配率を忘れているを思われる|
+|ゴブリン　ここな|&bold(){&color(#66864D){松}}ボイス|[[牧田　ここな]]|2026/8/21|[[ボイラ　テンガリン]]|550万|演者500万、野間50万|1:05||ゴブリンシリーズ第二弾。内容は1弾の声優違いに近い。|50万多いのは&s(){ボイラさんが受け取りをごまかそうとしたから。}一度削除したため蘇生のためのサーバー代|
+|命田守2（釣りボイス）仮|&bold(){&color(#66864D){松}}ボイス|[[萌愛　くしゅり]]|2026/8/26|[[命田守]]|500万||||釣りの時聞ける落ち着いたもの　とオーダーしたがかなり攻めた内容だった||
+|片翼の天使|おじボイス|[[タラちゃん]]|2026/9/3|[[大川]]|1000万（言い値）|||[[https://www.twitch.tv/kenki521/clip/TameEnticingCardEagleEye-Vj6J2jZrRf9hWd6Q?range=7d|長らく時間がかかったがそれだけに見合った作品。全作品の中での最高傑作と野間のお墨付き。15年前ならニコ〇コで100万再生取れると言われた&color(#F54738){\セフィロス/}|元を取るためと広めるため大川さんが各地を売り歩き最終的に一日で5000万弱売り上げる大記録を作り上げた（＋4000万）|
+//|タイトル|サンプル / 製品ボイス（松・竹・梅） |[[演者名]]|yyyy/m/d|[[依頼主]]|金額|演者○万、野間○万|[[クリップ>>https://www.twitch.tv/]]|シチュ|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+****納品待ち、発注待ち作品
+//1行1作品で記載納品されたら更新してください
+#region(開く)
+#table_style(head=center:#444:#ffffff)
+|~タイトル|~種別|~演者|~依頼主|~報酬|状況|~クリップ|~備考|
+|命田守2（釣りボイス）仮|&bold(){&color(#66864D){松}}ボイス|[[萌愛　くしゅり]]|[[命田守]]|500万|納品済み。未発送||釣りの時聞ける落ち着いたもの|
+|ジャックス3（続きの続きの続き）|&bold(){&color(#66864D){松}}ボイス|[[ミルキー・ピンク]]|[[ブラック　ジャックス]]|500万|納品待ち||サンプルの続きの続きの続き。|
+|チンピラ（仮）|&bold(){&color(#6CB289){竹}}ボイス|[[萌愛　くしゅり]]|[[チンピラ]]|300万|納品待ち||闇営業につき満額。先輩にいじめられてるシチュエーション。|
+|赤ちゃんキャップ（仮）|&bold(){&color(#66864D){松}}ボイス|[[猫宮ひな]]|[[赤ちゃんキャップ]]|500万|未発注||ゴブリンに感化されたキャップがオーダー。脚本もキャップが企画|
+|ヤンデレ妹に愛されて眠れない鮫島フラム|&bold(){&color(#66864D){松}}ボイス|[[ミルキー・ピンク]]|[[鮫島フラム]]|500万|納品済み||片翼の天使を聞いた鮫島フラムがで発注。因みにミルキー・ピンクは元ネタを知らなかったそう|
+随時追加中
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+****映像作品
+//1行1作品で記載
+#region(開く)
+#table_style(head=center:#444:#ffffff)
+|~タイトル|~種別|~演者|~日時|~製作者|~報酬|~按分|~クリップ|~備考|h
+||シネマティックビデオ|[[萌愛　くしゅり]]&br()[[鴨葱　吸葉]]&br()[[猫ノ宮　ひな]] |2026/6/24撮影&br()7月発売予定|監督・撮影 [[蒲田　ヤバッキオ]]|1人600万|演者550万、野間50万||陸上女子３人の学園友情もの|
+|牧田ここな　サンプル|サンプル|[[牧田　ここな]]|2026/7/17|||||妹モノ。ボイスアプリがうまくいかなかったため録画となった。ボイス内容をイメージしたイラストがある|
+//|タイトル|シネマティックビデオ / アーティスティックビデオ|[[演者名]]|yyyy/m/d|[[依頼主]]|金額|演者○万、野間○万|[[クリップ>>https://www.twitch.tv/]]|進捗・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+****マネージメント契約書
+#region(開く)閉じる
+#expand(600){
+#center(){&font(20px,b,#3f3424){マネージメント契約}}
+
+株式会社NoMA（以下「甲」という。）と、演者＿＿＿＿＿＿（以下「乙」という。）は乙の芸能活動及び配信活動等に関するマネージメント業務について、以下のとおり契約（以下「本契約」という。）を締結する。
+
+&font(b,#5a4325){第一条（契約目的）}
+甲は乙の芸能活動、配信活動、イベント出演その他これらに付随する活動を支援し、乙は甲のマネージメントのもとで活動を行うものとする。
+
+&font(b,#5a4325){第二条（マネージメント業務）}
+甲は乙に対し、次の業務を行う。
+&color(#666666){&nowiki(){▪ 芸能活動の企画立案}}
+&color(#666666){&nowiki(){▪ スケジュール管理}}
+&color(#666666){&nowiki(){▪ イベント及び案件獲得支援}}
+&color(#666666){&nowiki(){▪ 広報・宣伝活動}}
+&color(#666666){&nowiki(){▪ 各種契約交渉}}
+&color(#666666){&nowiki(){▪ その他甲乙協議のうえ必要と認める業務}}
+
+&font(b,#5a4325){第三条（売上分配）}
+乙の活動により発生した収益については以下の分配とする。
+
+&bold(){分配率　甲30％　乙70％}
+
+なお対象となる収益には以下を含むものとする。イベント出演料・ボイス販売料・グッズ販売収益
+（編集者注: その後タラちゃんと協議し、モンプロが関与する案件では分配率が「モンプロ10％、NoMA20％」に変更された。また計算がめんどうという理由で一律50万円としたり、タレント自身で案件を獲得した場合は満額をタレントに分配したりと、柔軟に対応している。）
+
+&font(b,#5a4325){第五条（専属性）}
+乙は契約期間中、甲の承諾なく第三者のマネージメント契約を締結してはならない。ただし甲が書面により承認した場合はこの限りではない。
+
+&font(b,#5a4325){第六条（守秘義務）}
+甲及び乙は本契約に関して知り得た相手方の情報を第三者へ漏洩させてはならない。本条の義務は契約終了後も継続する。
+
+&font(b,#5a4325){第八条（契約解除）}
+甲または乙は、次のいずれかに該当した場合、相手側への通知により本契約を解除できる。
+&color(#666666){&nowiki(){▪ 本契約に重大な違反があった場合}}
+&color(#666666){&nowiki(){▪ 著しく信用を失墜させる行為があった場合}}
+&color(#666666){&nowiki(){▪ GTA RP内外を問わず重大な迷惑行為を行った場合}}
+&color(#666666){&nowiki(){▪ その他信用関係の維持が困難となった場合}}
+
+&font(b,#5a4325){第九条（協定事項）}
+本契約に定めのない事項又は解釈に疑義が生じた場合は、甲乙誠意をもって協議し解決するものとする。
+----
+&font(b,#5a4325){締結欄}
+本契約締結の証として、本書2通を作成し、甲乙各1通を保有する。
+
+&bold(){甲}
+株式会社NoMA
+代表取締役　野間 賢樹
+署名：代表取締役　野間 賢樹
+}
+#endregion(契約書)
+
+*エピソード
+//エピソード各項目はいい感じに編集お願いします。書き換えていただいても大丈夫です
+**2026年
+#region(5月)&bold(){5月}
+***05/14 [[ストグラ>>https://www.twitch.tv/videos/2771723578]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(14日)
+***05/15 [[ストグラ>>https://www.twitch.tv/videos/2772481202]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(15日)
+***05/16 [[雑談>>https://www.twitch.tv/videos/2773315360]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(16日)
+***05/17 [[ストグラ>>https://www.twitch.tv/videos/2774242585]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(17日)
+***05/20 [[雑談>>https://www.twitch.tv/videos/2776458456?t=1h54m43s]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(20日)
+***05/22 [[雑談>>https://www.twitch.tv/videos/2778044935?t=1h14m8s]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(22日)
+***05/30 [[雑談→ストグラ>>https://www.twitch.tv/videos/2784476098?t=1h9m6s]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(30日)
+#endregion(5月)
+
+#region(6月)&bold(){6月}
+***06/03 [[ストグラ>>https://www.twitch.tv/videos/2787625314]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(03日)
+***06/04 [[雑談→ストグラ>>https://www.twitch.tv/videos/2784476098?t=49m1s]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(04日)
+***06/05 [[ストグラ>>https://www.twitch.tv/videos/2789121496]]
+#region(開く)閉じる
+-ケバブ屋勤務
+-電気工事バイト w/ [[ホシ・バミオ]]
+-ケバブ屋勤務
+-ごみ収集バイト w/ [[猫ノ宮　ひな]]、[[五味　カス]]、バミオ
+-車修理@JTS
+-釣り w/ [[くま　ぽこ]]
+-釣り w/ [[蟹雑　炊]]、[[王城　リレイ]]
+-相乗りタクシー w/ 猫ノ宮
+-初心者卒業レース
+-盗難バイク追跡、白パス申請 w/ [[バンザイ　スギル]]、[[ぞん　美子]]、猫ノ宮
+#endregion(05日)
+***06/07 [[ストグラ>>https://www.twitch.tv/videos/2790973631]]
+#region(開く)閉じる
+-初バンド練習 w/ [[タラ　ちゃん]]、[[銭形　やいち郎]]、[[音姫　みつお]]、[[Dr．ギガ]]、[[鮫島　フラム]]
+-ケバブ屋勤務
+-釣り w/ [[猫ノ宮　ひな]]、[[寝言　怠惰]]
+#endregion(07日)
+***06/11 [[ストグラ>>https://www.twitch.tv/videos/2794003453]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(11日)
+***06/13 [[ストグラ>>https://www.twitch.tv/videos/2795637130]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(13日)
+***06/17 [[ストグラ>>https://www.twitch.tv/videos/2798783901]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(17日)
+***06/19 [[雑談>>https://www.twitch.tv/videos/2800271991?t=2h8m51s]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(19日)
+***06/20 [[ストグラ>>https://www.twitch.tv/videos/2801132412]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(20日)
+***06/24 [[ストグラ>>https://www.twitch.tv/videos/2804246447]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(24日)
+***06/25 [[雑談→ストグラ>>https://www.twitch.tv/videos/2804947077?t=02h35m32s]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(25日)
+***06/26 [[雑談>>https://www.twitch.tv/videos/2805756900]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(26日)
+***06/27 [[雑談>>https://www.twitch.tv/videos/2806554577]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(27日)
+#endregion(6月)
+
+#region(7月,open)&bold(){7月}
+***07/02 [[ストグラ>>https://www.twitch.tv/videos/2810346635]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(02日)
+***07/05 [[ストグラ>>https://www.twitch.tv/videos/2812754309]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(05日)
+***07/10 [[ストグラ>>https://www.twitch.tv/videos/2816606029]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(10日)
+#endregion(7月)
+
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion(dd日)
+
+#endregion(mm月)
+
+}
+
+*アーカイブ / 切り抜き動画
+**2026年
+#region(5月)&bold(){5月}
+#table_style(head=center:#E6E6FA){配信日=right,#=center,配信タイトル=center}
+|~配信日|~#|~配信タイトル|~切り抜き動画|~備考|h
+|MIDDLE:05/14|MIDDLE:1|MIDDLE:[[ストグラ>>https://www.twitch.tv/videos/2771723578]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} ストグラ参加初日にファンキーな住人「くまぽこ」と出会って爆笑するけんき>>https://youtu.be/iXB-OHC-6oIv]]||
+|~|~|~|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 謎の住人「けもの」に適当な言葉を教えて爆笑するけんき>>https://youtu.be/V0ZKhS-rwOI]]|~|
+|MIDDLE:05/15|MIDDLE:2|MIDDLE:[[ストグラ>>https://www.twitch.tv/videos/2772481202]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 素で煽り続けるノンデリくまぽこに爆笑するけんき>>https://youtu.be/9iMWllj-2AU]] ||
+|~|~|~|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 占い師に友人の行方を占ってもらって爆笑するけんき>>https://youtu.be/eRx9oLf8pmE]]|~|
+|MIDDLE:05/16|MIDDLE:3|MIDDLE:[[雑談>>https://www.twitch.tv/videos/2773315360]]|MIDDLE:[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 街中の人に反社チェックをして爆笑するけんき>>https://youtu.be/uZVgnix8wAU]]||
+|~|~|~|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 最近ピンク案件に厳しいこの街で通報されて爆笑するけんき>>https://youtu.be/x_AigoLU8uY]]|~|
+|05/17|4|[[ストグラ>>https://www.twitch.tv/videos/2774242585]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} ストグラで中学サッカー部(ベンチ)だった頃を思い出して爆笑するけんき>>https://youtu.be/FCNRbiRhCXA]]||
+|05/20|5|[[雑談>>https://www.twitch.tv/videos/2776458456?t=1h54m43s]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} その気はないのに見下してるような発言をするくまぽこに爆笑するけんき>>https://youtu.be/KIJ8h-mHT9g]]|ストグラは01:54:43頃〜|
+|05/22|6|[[雑談>>https://www.twitch.tv/videos/2778044935?t=1h14m8s]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} ほろんのファーストキスの話で爆笑するけんき>>https://youtu.be/YA1EcnE9qNU]]|ストグラは01:14:08頃〜|
+|MIDDLE:05/30|MIDDLE:7|MIDDLE:[[雑談→ストグラ>>https://www.twitch.tv/videos/2784476098?t=49m1s]]|MIDDLE:[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 40代から20代前半の会話が噛み合わなくて爆笑するけんき>>https://youtu.be/UQkT1ef8sIs]]|ストグラは00:49:01頃〜&br()帰省のため1週間ぶりの起床|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(5月)
+
+#region(6月)&bold(){6月}
+#table_style(head=center:#E6E6FA){配信日=right,#=center,配信タイトル=center}
+|~配信日|~#|~配信タイトル|~切り抜き動画|~備考|h
+|06/03|8|[[ストグラ>>https://www.twitch.tv/videos/2787625314]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 店員が多すぎて客が来ないサニーケバブに爆笑するけんき>>https://youtu.be/YF53XzlJnkg]]||
+|06/04|9|[[雑談→ストグラ>>https://www.twitch.tv/videos/2788318208?t=42m50s]]|MIDDLE:[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} ましゃかりにやりたい放題の接客をして爆笑するけんき>>https://youtu.be/QRYv169Ks0A]]|ストグラは00:42:50頃〜|
+|06/05|10|[[ストグラ>>https://www.twitch.tv/videos/2789121496]]|~||
+|06/07|11|[[ストグラ>>https://www.twitch.tv/videos/2790973631]]|||
+|06/11|12|[[ストグラ>>https://www.twitch.tv/videos/2794003453]]|||
+|06/13|13|[[ストグラ>>https://www.twitch.tv/videos/2795637130]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} カジノにて負けすぎて限界を迎えて爆笑するけんき>>https://youtu.be/PkmRaJTv3z0]]||
+|06/17|14|[[ストグラ>>https://www.twitch.tv/videos/2798783901]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 時代を逆行する価値観を堂々と掲げる奴らに怯えて爆笑するけんき>>https://youtu.be/PLuzeS375z4]]||
+|06/19|15|[[雑談>>https://www.twitch.tv/videos/2800271991?t=2h8m51s]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} じじい過ぎて何もできないタラちゃんに爆笑するけんき>>https://youtu.be/VVYuM-96d34]]|ストグラは02:08:51頃〜|
+|06/20|16|[[ストグラ>>https://www.twitch.tv/videos/2801132412]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 名指しで拒否されたのに逆張りで人質になり爆笑するけんき>>https://youtu.be/tFQhEfRo_eI]]||
+|06/24|17|[[ストグラ>>https://www.twitch.tv/videos/2804246447]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 女の子３人で青春ドラマを撮るはずが雲行きが怪しくなって爆笑するけんき>>https://youtu.be/mOvtrc1LO1Q]]||
+|06/25|18|[[雑談→ストグラ>>https://www.twitch.tv/videos/2804947077?t=02h35m32s]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} コスプレメカニックに地獄のようなゲームをやらせて爆笑するけんき>>https://youtu.be/lGtP8hogKls]]|ストグラは02:35:32頃〜|
+|06/26|19|[[雑談>>https://www.twitch.tv/videos/2805756900]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 学生時代にねずみ講に引っかかったりLoLをしすぎて留年するリレイに爆笑するけんき>>https://youtu.be/6gVK4x7O6NI]]||
+|06/27|20|[[雑談>>https://www.twitch.tv/videos/2806554577]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} >>]]||
+|06/28|21|[[ストグラ>>https://www.twitch.tv/videos/2807289224]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} ボイスを求める変態紳士に爆笑するけんき>>https://youtu.be/JegoA6q2jhs]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(6月)
+
+#region(7月)&bold(){7月}
+#table_style(head=center:#E6E6FA){配信日=right,#=center,配信タイトル=center}
+|~配信日|~#|~配信タイトル|~切り抜き動画|~備考|h
+|07/02|22|[[ストグラ>>https://www.twitch.tv/videos/2810346635]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} ついにイナイロハと出会い爆笑するけんき>>https://youtu.be/eCicqznsh_s]]||
+|07/05|23|[[ストグラ>>https://www.twitch.tv/videos/2812754309]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} >>]]||
+|07/10|24|[[ストグラ>>https://www.twitch.tv/videos/2816606029]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 部長のまさかの暴走でSNSが炎上している視聴者の会社に爆笑するけんき>>https://youtu.be/YlW0YsBjej0]]||
+|07/12|25|[[ストグラ>>https://www.twitch.tv/videos/2818275017]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} >>]]||
+|07/15|26|[[ストグラ>>https://www.twitch.tv/videos/2820567949]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} >>]]||
+|07/16|27|[[ストグラ>>https://www.twitch.tv/videos/2821389846]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} やたら再限度の高い「水見式」に爆笑するけんき>>https://youtu.be/it-5Jn21Kig]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(7月)
+
+#region(8月,open)&bold(){8月}
+#table_style(head=center:#E6E6FA){配信日=right,#=center,配信タイトル=center}
+|~配信日|~#|~配信タイトル|~切り抜き動画|~備考|h
+|08/19|28|[[ストグラ>>https://www.twitch.tv/videos/2850502668]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 女騎士とゴブリンボイスを注文した客の職場に赴いて爆笑するけんき>>https://youtu.be/L33h1JbLxAo]]||
+|MIDDLE:08/20|MIDDLE:29|[[ストグラ>>https://www.twitch.tv/videos/2851406664]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} >>]]||
+|~|~|[[ストグラ>>https://www.twitch.tv/videos/2851434802]]|~|再起動のため2枠目|
+|08/21|30|[[ストグラ>>https://www.twitch.tv/videos/2852319172]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} キモすぎるボイラゴブリンに爆笑するけんき>>https://youtu.be/WslKejgRQKI]]||
+|08/22|31|[[ストグラ>>https://www.twitch.tv/videos/2853282115]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} セクハラおじ達の暴走が止まらなすぎて爆笑するけんき>>https://youtu.be/1moOcCFsE7c]]||
+|08/23|32|[[ストグラ>>https://www.twitch.tv/videos/2854158704?t=54m]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} >>]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(8月)
+
+// 
+#co(){
+
+↓↓新しい行を追加する時のテンプレート↓↓
+|mm/dd|n|[[タイトル>>ＵＲＬ]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} タイトル>>URL]]||
+
+↓↓新しい月を追加する時のテンプレート↓↓
+#region(mm月,open)&bold(){mm月}
+#table_style(head=center:#E6E6FA){配信日=right,#=center,配信タイトル=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|mm/dd|n|[[タイトル>>ＵＲＬ]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} (タイトル)>>(URL)]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(mm月)
+
+}
+
+*その他
+**関連
+&font(b,red){※ネタバレ注意}
+#region(別キャラクター)
+・[[野間　賢樹]]
+・[[人田　すける]]
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

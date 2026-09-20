@@ -1,0 +1,317 @@
+◆ 編集者の皆様へ
+店舗名が『&ruby(ロスベガス){LosVegas}』で確定した為、4月1日のグランドオープンに合わせてページ名を変更致しました。
+----
+#co{
+#slide_img(auto=4,position=left,width=370,height=208){
+画像名
+}
+表示の際にこの文字ごと消す➡️}
+
+#table_style(head=#feedc9){}
+|~店舗名|~&icon_fa(fa fa-hand-holding-dollar)|&ruby(ロスベガス){LosVegas}|
+|~施設名|~&icon_fa(fa fa-university)|&b(){&ruby(パールズ){PEARLS} &ruby(カジノ){CASINO}}|
+|~リゾート施設|~&icon_fa(fa fa-umbrella-beach)|[[飯田リゾート(仮)>>飯田　けんつ]]&br()&font(11px,#bbb){正式名称：PEARLS RESORT [[&color(#bbb){*}>>https://youtu.be/F7FOkTu-5pA?si=79YI2t6O_OYUU1Zy]]}|
+|~業種|~&icon_fa(fa fa-coins)|カジノ・リゾート|
+|~営業開始日|~&icon_fa(fa fa-flag)|&small(){プレオープン：}2026年3月27日&br()&small(){グランドオープン：}2026年4月1日&space()&small(){（&countup(2026/04/01,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|8000番地|
+|~TwiX|~&icon_fa(fa-brands fa-twitter)|@losvegas|
+|~オーナー|~&icon_fa(fa-solid fa-user-secret)|&bold(){[[星詠　あう]]}&br()&small(){&openclose2(show=▼過去のオーナー){&br()[[岐阜野　こみ蔵]]}}|
+//|~支配人|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[銭形　やいち郎]]}|(6月4日の会議にて支配人は空席に)
+//|~job名|~&icon_fa(fa fa-user-tag)|ボスメニューのジョブネーム&co(){※わからない場合は、行ごと削除}|
+//|~支配人|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[銭形　やいち郎]]}|(6月4日の会議にて支配人は空席に)
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-街に3つ存在するカジノのうちの一つで、旧海上レストラン方面のリゾート施設の地下に併設されている。
+-店舗1階に海上レストラン[[Urashima]]がオープンしている。
+-施設を活用した定期的なイベントを開催。
+-外部イベントへの提携・協賛も積極的。レースや対戦系イベントでの賭けを受け持つことも多い。
+
+*従業員情報
+***&icon_fa(fa fa-user-plus)&space()従業員
+#region(開く,open)&font(#ccc,12px){※jobが付与された日を基準とする}
+#table_filter(){役職=show,名前=show,就職日=show,兼任=hide,備考=show}
+#table_style(head=#feedc9)
+|~役職|~名前|~就職日|~兼任|~備考|h
+|オーナー/　|[[星詠　あう]]|2026/05/17|[[森のぶんぶんメカニック]]&br()[[Club Passiona]]|わくワークでのタイムカードやビンゴシステム開発の貢献度を評価され副支配人として就職。&br()2026/07/29 一時帰国するこみ蔵からカジノを託され2代目オーナーに就任。|
+|ディーラー/Manager(4)|[[マッハボクシング　ドク]]|2026/03/12|[[カイリキバーガー]]|　|
+|ディーラー/Manager(4)|[[惑朽　ルーシー]]|2026/03/12|&small(){&s(){[[サニーケバブ]]}}&br()[[Club Passiona]]|MCなどを担当|
+|ディーラー/Manager(4)|[[テクス・ギルベルト]]|2026/03/12|&small(){&s(){[[サニーケバブ]]}}| |
+|ディーラー/Experienced(2)|[[瀬戸　ろろ]]|2026/03/12|&small(){&s(){[[カイリキバーガー]]}}||
+|ディーラー/Manager(4)|[[よりどり　みどり]]|2026/03/13|[[JTS>ジョアンナテクノサービス]]||
+|ディーラー/Advanced(3)|[[カテジ]]|2026/03/13|[[救急隊>ロスサントス救急救命隊]]|風貌から住民たちに賭け事のイメージを持たれやすい人物。&br()以前の街では賭けイベントの開催経験がある。|
+|スタッフ/Novice(1)|[[万十　忍]]|2026/03/19|[[UGM>Usa Gimmick Motors]]&br()[[公認勝手にレース協会]]|確率計算担当。&br()提携先メカニック[[UGM]]との橋渡し役、またレースと賭けの架け橋役。|
+|ディーラー/Novice(1)|[[イナ　イロハ]]|2026/03/19?|[[救急隊>ロスサントス救急救命隊]]||
+|ディーラー/Novice(1)|[[ゆちゃ　めろでぃ]]|2026/04/01|[[Mellow Berry]]|失踪|
+|ディーラー/Novice(1)|[[ボクジュール　すずり]]|2026/04/04|毛筆屋-硯- &small(){（自営業）}&br()[[Club Passiona]]|体験からの正社員登用。|
+|ディーラー/Novice(1)|[[ユン　ユンミ]]|2026/04/10||支配人やいち郎の紹介で雇用。|
+|ディーラー/Novice(1)|[[とろろ　ろろ]]|2026/04/17||オーナーこみ蔵のスカウトで雇用。|
+|ディーラー/Novice(1)|[[伊勢　えびす]]|2026/05/13|[[SGPD>ロスサントス警察]]|　|
+|ディーラー/Novice(1)|[[音凪　紬]]|2026/08/06|||
+|ディーラー/Novice(1)|[[捌木　たいたい]]|2026/08/06|[[LUNA Garage]]|親友こみ蔵の一時帰国にあたり帰る場所を守りたいと入社。|
+|ディーラー/Novice(1)|[[ジョーカー]]|2026/08/15|[[川上たばこ店]]|特殊スロットの運用責任者として就職。|
+|ディーラー/Novice(1)|[[鈴那　衣遠]]|2026/09/10|||
+//
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//兼任枠は就職日からのもの。それ以前のものはカウントせず、兼任がなくなったものはsmallとsを利用して表示。黒に関しては要検討（ネタバレ禁止と同じ扱い予定）
+//ボクジュール　すずりの役職が未確認→ //04/18に編集、すずり視点の就職時で確認済
+#endregion
+
+***&icon_fa(fa fa-user)&space()職業体験者
+#region(開く)
+#table_style(head=#feedc9)
+|~名前|~体験開始日|~備考|h
+|[[姫野　咲]]|2026/04/03||
+|[[ヒロ　ヤマモト]]|2026/04/03||
+|[[ボクジュール　すずり]]|2026/04/03|正社員に採用|
+|[[鯵屋>魚参　屋]]&font(12px){（ｺﾞｰｼﾞｬｽ・ﾏﾈｰ・ﾀﾞｼﾝ）}|2026/04/15||
+|[[丘猫　まる]]|2026/05/08||
+|[[浦戸　ゼン]]|2026/05/09||
+|[[不働　めい]]|2026/07/02||
+|[[宇由　りる]]|2026/07/02||
+|[[音凪　紬]]|2026/08/06|正社員に採用|
+|[[鈴那　衣遠]]|2026/08/20|正社員に採用|
+//|[[名前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+#endregion
+
+***&icon_fa(fa-solid fa-handshake-angle)&space()協力関係
+#region(開く)
+//
+// jobがつく場合は従業員へ移動
+//
+#table_style(head=#feedc9)
+|~名前|~備考|h
+|[[飯田　けんつ]]|『8000番地盛り上げ隊』勝手に公認イベンター&font(#aaa){（市長による任命）}&br()リゾート施設を利用したイベントの企画などで連携する|
+|[[蒲田　ヤバッキオ]]|飯田けんつと同様に施設を利用したイベントに携わる人物|
+|[[穴井　元]]|表向きカジノ関係者であることは秘匿としている|
+|[[TANKTOP　竹本]]|（ジョブ状況不明）|
+|[[レッサン　パンナ]]|退職した時期は不明だが、ジョブ枠的に退職済みではある。 |
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+&font(b,16px,#444){&icon_fa(fa fa-university fa-fw)&space()企業関連}
+#region(開く)
+#table_style(head=#feedc9)
+|~会社・店舗名|~備考|h
+|[[海上レストラン>>Urashima]]|同じ施設内でリニューアルオープンした飲食店。&br()カジノにてプレオープンに合わせてハイ&ローを開催。|
+|[[カイリキバーガー]]|市内にある飲食店。&br()カジノ専用メニューの商品供給を予定している。|
+|[[Fashion MiMi]]|カジノ制服のコーディネートを担当。|
+|[[Usa Gimmick Motors]]|レースやカジノへの商品提供などで提携。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+***&icon_fa(fa fa-user-minus)&space()退職者
+#region(開く)
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[岐阜野　こみ蔵]]|2026/03/12|2026/08/01|[[ダイヤモンドカジノ>カジノ]]出身&br()グランドオープン時点で唯一のカジノ経験者。&br()帰国する為、カジノを[[星詠　あう]]へ託した。|
+|[[銭形　やいち郎]]|2026/03/12|2026/08/01|元ギャングの白市民。荒事なども担当。&br()2026/06/04 支配人としての役職を解任。&br()オーナー変更に伴い、カジノ経営一新の為に勇退。|
+|[[レッサン　パンナ]]|||退職した時期は不明だが、ジョブ枠的に退職済みではある。|
+
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+
+*施設情報
+**ルーレット
+&size(20){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-arrows-spin fa-spin)&space(2)&font(18px,b,#444){ラッキーフリップ}&space(2)}}
+・誰でも一日一回無料で引けるログインボーナス
+・当選者は目玉となる賞品を受け取ることができる。
+・仮白市民パス所有者はプラス１回引くことが可能。
+・現在無期限停止中
+&blankimg(LuckyFlip.png,y=144,x=256)
+
+**カジノゲーム
+***&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-dice)&space(2)ハイ＆ロー&space(2)}}
+・ディーラーが3つのダイスを振り、ハイかローを当てるゲーム。合計が10以下ならロー、11以上ならハイ
+・サイコロの出目は216通り。ローが108通りでハイが108通り、確率は50%
+・ハイorローを宣言し掛け金をディーラーに渡す。正解すれば倍戻し、外れた場合掛け金は没収となる。
+//&blankimg(ハイ＆ロー.png,y=110,x=200)
+&blankimg(ハイ&ロー_修正.png,y=144,x=256)
+
+***&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-crown)&space(2)ロスゴッド極&space(2)}}
+//&blankimg(ロスゴッド.jpeg,y=110,x=200)&space()
+&blankimg(ロスゴッド極.jpeg,y=144,x=256)
+
+***&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-robot)&space(2)スロットマシン&space(2)}}
+・一般的な[[カジノ]]スロット。図柄の組み合わせで配当が決まる。
+・イベントデーとして賭けれる上限が高額になることもある。
+#co{編集✏️ズレを回避するために“ ** ”を使用しておりません。表示の際に書き換えをお願いいたします。
+【＊＊＊】&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-coins)&space(2)バカラ&space(2)}}
+
+【＊＊＊】&size(18){&underdot(#eee,4px){&space(2)&font(120%){♠}&space(2)ポーカー&space(2)}}
+}
+
+***&icon_fa(fa-solid fa-users-slash)&space()出入り禁止
+#region(開く,open)
+#table_style(head=#feedc9)
+|~名前|~開始日|~終了日|~備考|h
+|[[不働　めい]]|2026/04/02|2026/04/08|めいが借金で困っているのを見兼ねた[[コーラボーイ>ザ！！！コーラボーイ！！！]]がマネージャー業務をめいに依頼。&br()業務報酬で借金を返すのかと思っていたら、報酬をギャンブルに使ってしまい、&br()借金が増えていった為コーラボーイから出禁にするように依頼された。&br()対応者は[[ドク>マッハボクシング　ドク]]|
+|[[不働　めい]]|2026/05/21|2026/06/04|ドクをそそのかしてくじ屋でチンチロ（賭博行為）をしていたため。&br()[[こみ蔵>岐阜野　こみ蔵]]と出禁を賭けて勝負をし、2回ドローにしたが結局負け（四－四五六）。&br()通算2度目、最終的に2週間の出禁となった。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+**飯田リゾート
+・新設されたリゾート施設で、[[飯田けんつ>>飯田　けんつ]]を中心にイベントを開催予定。詳細はキャラクターページへ（このページではカジノとの合同イベントのみ記載）
+
+#co{編集✏️ズレを回避するために“ ** ”を使用しておりません。表示の際に書き換えをお願いいたします。
+【＊】商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+【＊＊＊】商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#feedc9){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+#co(){
+【＊＊＊】限定商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#feedc9){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+【＊＊＊】メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion
+}
+*イベント情報
+***🎲〜天下一ンチロ武道会〜🎲
+#region(開く)
+&blankimg(天下一ンチロ武道会.jpeg,x=150,y=210)
+
+#table_color(#feedc9)
+|~開催日時|2026/04/11(土) 22:00〜|
+|~場所|8000番地 [[LosVegas]]|
+|~主催|[[LosVegas]]|
+・メカニック、飲食店、警察、救急隊の各店舗・組織から代表3名1組による勝ち抜きトーナメントを開催。
+・1回戦終了後に8チームに対して勝者を予想しての賭けを開催。1枚10万円でチケットを販売。
+//トーナメント表、メンバー表、オッズ表は差し替えていただいて問題ありません 4/12 0:42
+&b(){トーナメント表}
+先鋒、中堅、大将（ライフ2）で勝ち抜き戦。4勝したチームの勝利。
+#table_style(head=#ffd700){}
+|~No|>|~1回戦|>|~2回戦|>|~準決勝|>|~決勝|
+|~1|[[Club Passiona]]|2|MIDDLE:木こり|MIDDLE:0|MIDDLE:海上レストラン&br()Urashima|MIDDLE:1|BGCOLOR(#ffff00):MIDDLE:わんも〜Cafe|BGCOLOR(#ffff00):MIDDLE:4|
+|~2|BGCOLOR(#ffff00):[[木こり>渡戸林業]]|BGCOLOR(#ffff00):4|~|~|~|~|~|~|
+|~3|BGCOLOR(#ffff00):[[海上レストランUrashima>Urashima]]|BGCOLOR(#ffff00):4|BGCOLOR(#ffff00):MIDDLE:海上レストラン&br()Urashima|BGCOLOR(#ffff00):MIDDLE:4|~|~|~|~|
+|~4|[[救急隊>ロスサントス救急救命隊]]|1|~|~|~|~|~|~|
+|~5|[[Usa Gimmick Motors]]|3|BGCOLOR(#ffff00):MIDDLE:わんも〜Cafe|BGCOLOR(#ffff00):MIDDLE:4|BGCOLOR(#ffff00):MIDDLE:わんも〜Cafe|BGCOLOR(#ffff00):MIDDLE:4|~|~|
+|~6|BGCOLOR(#ffff00):[[わんも〜Cafe]]|BGCOLOR(#ffff00):4|~|~|~|~|~|~|
+|~7|BGCOLOR(#ffff00):[[森のぶんぶんメカニック]]|BGCOLOR(#ffff00):4|MIDDLE:森のぶんぶんメカニック|MIDDLE:3|~|~|~|~|
+|~8|[[LastJump in ParadiseLost]]|3|~|~|~|~|~|~|
+|~9|[[カイリキバーガー]]|2|BGCOLOR(#ffff00):MIDDLE:Acqua ovest|BGCOLOR(#ffff00):MIDDLE:4|MIDDLE:Acqua ovest|MIDDLE:3|MIDDLE:BJローン|MIDDLE:0|
+|~10|BGCOLOR(#ffff00):[[Acqua ovest>acqua ovest]]|BGCOLOR(#ffff00):4|~|~|~|~|~|~|
+|~11|BGCOLOR(#ffff00):[[Vertex>V HOTEL]]|BGCOLOR(#ffff00):4|MIDDLE:Vertex|MIDDLE:3|~|~|~|~|
+|~12|[[Joanna Techno Service>ジョアンナテクノサービス]]|3|~|~|~|~|~|~|
+|~13|[[LUNA Garage]]|2|MIDDLE:SGPD|MIDDLE:1|BGCOLOR(#ffff00):MIDDLE:BJローン|BGCOLOR(#ffff00):MIDDLE:4|~|~|
+|~14|BGCOLOR(#ffff00):[[SGPD>ロスサントス警察]]|BGCOLOR(#ffff00):4|~|~|~|~|~|~|
+|~15|BGCOLOR(#ffff00):[[BJローン]]|BGCOLOR(#ffff00):4|BGCOLOR(#ffff00):MIDDLE:BJローン|BGCOLOR(#ffff00):MIDDLE:4|~|~|~|~|
+|~16|[[サニーケバブ]]|3|~|~|~|~|~|~|
+
+&b(){当日参加メンバー}
+#table_style(head=#feedc9){}
+|~&Space()|~チーム名|>|>|~メンバー|
+|~1|[[Club Passiona]]|[[寝言　怠惰]]|[[えびな　ヨネ]]|[[ボクジュール　すずり]]|
+|~2|[[木こり>渡戸林業]]|[[渡戸　リー]]|[[飯田　けんつ]]|[[レッサン　パンナ]]|
+|~3|[[海上レストランUrashima>Urashima]]|[[亀山　Hero]]|[[畳　かえる]]|[[帆立　ほたる]]|
+|~4|[[救急隊>ロスサントス救急救命隊]]|[[カテジ]]|[[雷堂　ましろ]]|[[元難波　登]]|
+|~5|[[Usa Gimmick Motors]]|[[山田　パルコ]]|[[揚物　ころも]]|[[ゆた　んぽ]]|
+|~6|[[わんも〜Cafe]]|[[叢雲　るい]]|[[B　ルモッチェ]]|[[牧田　ここな]]|
+|~7|[[森のぶんぶんメカニック]]|[[星野　ももあ]]|[[ブラック　ジャックス]]|[[もり　るんるん]]|
+|~8|[[LastJump in ParadiseLost]]|[[豆乳　ちゃんもも]]|[[萌愛　くしゅり]]|[[ライジングサン　宗介]]|
+|~9|[[カイリキバーガー]]|[[山田　カイキ]]|[[ザ！！！コーラボーイ！！！]]|[[千咲　にと]]|
+|~10|[[Acqua ovest>acqua ovest]]|[[ダミ　アン]]|[[ラグランジュ　光芝]]|[[ほわいとたいが>イチカ　ウィルキンズ]]|
+|~11|[[Vertex>V HOTEL]]|[[帝　レン]]|[[香月　ろぎあ]]|[[鳥羽　咲夜]]|
+|~12|[[Joanna Techno Service>ジョアンナテクノサービス]]|[[豆　やん]]|[[大　川]]|[[レイジー　ルードマン]]|
+|~13|[[LUNA Garage]]|[[沖原　たくみ]]|[[パン　チャン]]|[[月乃　えるな]]|
+|~14|[[SGPD>ロスサントス警察]]|[[ジャック・馬ウアー]]|[[ヒロ　ヤマモト]]|[[茜根　晴]]|
+|~15|[[BJローン]]|[[トナカイ>タシロ　カワセ]]|[[千代田　ヨウ]]|[[猫又　ぴぴ]]|
+|~16|[[サニーケバブ]]|[[夜仲　コウ]]|[[カカッテコ＝イナフ]]|[[ジュリウス・ベッキー]]|
+
+&b(){チンチロ武道会オッズ}（最終）
+#table_style(head=#ffb56b){}
+|~No.|~チーム名|~オッズ（倍率）|
+|COLOR(#000000):1|COLOR(#000000):木こり|8.32|
+|BGCOLOR(#000000):COLOR(#FFFFFF):2|BGCOLOR(#000000):COLOR(#FFFFFF):海上レストラン|10.4|
+|BGCOLOR(#ff0000):COLOR(#FFFFFF):3|BGCOLOR(#ff0000):COLOR(#FFFFFF):わんも〜Cafe|5.04　★|
+|BGCOLOR(#0000ff):COLOR(#FFFFFF):4|BGCOLOR(#0000ff):COLOR(#FFFFFF):森のぶんぶんメカニック|6.65|
+|BGCOLOR(#ffff00):COLOR(#000000):5|BGCOLOR(#ffff00):COLOR(#000000):Acqua ovest|6.16|
+|BGCOLOR(#006633):COLOR(#FFFFFF):6|BGCOLOR(#006633):COLOR(#FFFFFF):HOTEL Vertex|11.88|
+|BGCOLOR(#ff7f00):COLOR(#FFFFFF):7|BGCOLOR(#ff7f00):COLOR(#FFFFFF):SGPD|3.61|
+|BGCOLOR(#ff7f7f):COLOR(#000000):8|BGCOLOR(#ff7f7f):COLOR(#000000):BJローン|6.16|
+#endregion
+
+*沿革
+***&underdot(#feedc9,3px){&space()2026年&space()}
+#region(開く,open)
+#region(上半期)&b(){上半期}
+#table_filter(){エピソード・備考=show}
+#table_style(head=#feedc9)
+|~日付|~出来事|~エピソード・備考|h
+|01/21|オーナー任命|[[岐阜野　こみ蔵]]らが市長と面談を行い正式にオーナー任命される|
+|01/29|ハイ＆ロー|カジノの周知や遊びの提案を兼ねた『ハイ＆ロー』を開催|
+|01/31|カジノ3社会議|今後開催されるイベントや経営に関する擦り合わせを行う|
+|02/09|社内会議|集まった社員で『ロスゴッド』の確率検証、調整|
+|03/05|イベント協賛|[[海上レストラン>>Urashima]]主催のオープン記念イベントに協賛|
+|03/07|イベント協賛|[[寝言怠惰>>寝言　怠惰]]主催のイベント『トレジャーパンティス！』に協賛|
+|03/12|ジョブ付与|市長によりジョブが付与される|
+|03/18|市長面談|カジノ3社の代表者と市長を交えて面談を行った|
+|03/27|プレオープン|　|
+|04/01|グランドオープン|　|
+|04/11|天下一ンチロ武道会|チンチロ勝ち抜きトーナメント戦を開催|
+|04/17|LOSBINGO|LvCOINを使用したLOSBINGOを開催|
+|05/01|来店イベント|[[アルフォート　ウェスカー]]来店イベントを開催|
+|05/14|来店イベント|[[Dr．ギガ]]来店イベントを開催|
+|06/04|支配人解任|オーナーこみ蔵から支配人銭形の仕事へのやる気の無さやコミュニケーション不足を指摘&br()一旦支配人の役職をとき今後の行動で戻すかどうかを判断することとなった|
+|06/21|イベント開催|LosVegas王 ルーキーズ杯を開催|
+|06/25|ログインボーナス開始|一日一回誰でも引ける「ラッキーフリップ」サービスを開始|
+|06/26|一部サービスの無期限停止|市からの通告を受け「ロスビンゴ」「ロスゴッド」「ラッキーフリップ」を無期限で停止した|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+#size(50%){　}
+#region(下半期,open)&b(){下半期}
+#table_filter(){エピソード・備考=show}
+#table_style(head=#feedc9)
+|~日付|~出来事|~エピソード・備考|h
+|07/12|当面の間閉業&br()&openclose2(show=▼画像){&br()&blankimg(losvegas_閉業のお知らせ.jpg,x=120,y=160)}|再開時期不明の閉業をTwiXで告知|
+|07/19|営業再開&br()&openclose2(show=▼画像){&br()&blankimg(losvegas_リニューアルオープン.jpeg,x=120,y=160)&space()&blankimg(losvegas_リニューアルオープン2.jpeg,x=120,y=160)}|TwiXにてリニューアルオープンの告知を行う|
+|07/29|オーナー引き継ぎ|[[岐阜野　こみ蔵]]から[[星詠　あう]]へ託された|
+|08/06|オーナー権限付与|[[星詠　あう]]へ市からオーナー権限が付与された|
+//|mm/dd|出来事|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+#endregion(2026)
+
+#right(){&link_up(🔝ページTOPへ)}

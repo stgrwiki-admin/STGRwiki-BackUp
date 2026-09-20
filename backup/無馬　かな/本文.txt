@@ -1,0 +1,1580 @@
+#co(){^^^^^^^^^^^^^^^^
+相談なく記載を削除する行為は"荒らし行為"となる為ご注意ください。
+削除したい場合は編集提案にてお願いいたします。(例外：誤字脱字修正、ストグラに無関係な内容の削除)
+過去の情報も必要ですので勝手に消さないようご協力よろしくお願いします！
+
+'26/7/25：半年以上更新されていなかったため、以前から文章・文脈に違和感のあったところや主観の強い言い回しとなっていた箇所を全体的に修正しました。
+→8/30：他キャラとアーカイブページの管理だけで手いっぱい来れてない時間が長くなりまして…qiyouさんが見ててくださって助かりました！文章・文脈について、今までは記載した方の文を極力使う方針でしたが、今後はどんどんブラッシュアップしていく方針で自分も問題ないです！socha (少し経った後、運用方針のみここへ残しツリーはコメント欄へ格納します)
+→9/6：ありがとうございます。今後も言葉の用法や文章に違和感のある箇所・事実ベースの書き方でない箇所は適宜修正させていただきます。また、自分は主にこのページしか編集作業をしていないので、ここ半年の更新内容程度の更新作業であれば任せていただいて問題ありません。qiyou
+
+【運用方針メモ】
+・botリンク回避したいもの → 言い回し変更 or インライン化（＆font(){}で統一）処置。
+・読み込み処理について →　内容が多くなってるので、文章より後に表示されても良さそうな画像は子ページ(エピソードページなど)へ移行し引用。
+・日付 → 1日は17:00PM～5:00AM。(AMは前日の日付にて処理)
+
+【報告案件メモ】
+報告済(対応待ち中)
+
+未報告(誤編集の可能性にて静観中)
+・2024/10/03 (木) 06:19:40(不要な復元編集)
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+//---<header>------------------------------------------------------------------//
+#co(){~~~プロファイル情報記述基準~~~~~~~~~~~
+【写真項】
+選定基準：各時期の代表的なスタイルの画像。
+→ご指摘(現行のものだけにしてしまうと、別視点で昔の服装しか知らない方や、過去の服装の方が印象が強い方へ不親切である旨)にて。　変装やネタバレ配慮が必要な恰好はその期間のみ(その後は除外)にて運用中。
+仕様：320×650px、バストアップ、なるべく高画質
+
+チャンク項、画像付きでギャラリーへ移行しました。
+
+【職業項】
+就いているジョブ。オーナー項の脚注説明に該当するものはオーナー項へ。
+
+【オーナー項】
+経営権を譲った日ではなく、所有権を持った日で記載
+※現行のものなので不都合になった場合コメ欄相談にて適宜変更
+Season2からは管理者として所有している権限を記載する箇所として運用
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}
+//
+#slide_img(auto=4,position=left,width=320,height=650)
+{Style_ArcanaUni.png,Style_White.png,Style_AllinBattle.png,Style_BraidHair.png,Style_GraySuit.png,Style_ShortHair.png}
+//
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#A4C4E2:#666){世界線=center:b:#666:#A4C4E2}
+|BGCOLOR(#666):COLOR(#A4C4E2):~世界線|BGCOLOR(#666):COLOR(#A4C4E2):~&icon_fa(fa fa-earth-asia)|COLOR(#9370DB):~Season1|COLOR(#9370DB):~Season2|
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(なしま){無馬} かな|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|不明 (25歳らしい)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年8月1日 &small(){(～2025/05/25)}|2025年12月24日 (&countup(2025/12/24,yd)経過) |
+|~職業|~&icon_fa(fa fa-user)| &b(){キャラクターエンディング済}　&small(){～2025年5月25日}&br()&small(){&openclose2(show=過去の職業){&nbsp(br,3)タクシー会社[[菖光會]] &small(){運転手　'23/08/02〜'23/08/27}&nbsp(br,3)ギャング[[ALLIN]] &small(){UB　'23/08/16〜'24/03/19}&nbsp(br,3)カフェ[[Père Noël]] &small(){店員　'23/08/23〜'23/09/15}&nbsp(br,3)[[個人医]] &small(){ALLIN専属　'23/08/27〜'23/09/29}&nbsp(br,3)民間傭兵会社[[ACADEMY]] &small(){理事長　'24/05/25〜'24/08/03}&nbsp(br,3)武器屋[[FEMME FATALE]] &small(){代表　'24/05/28〜'24/08/30}&nbsp(br,3)民間賭博場[[カジノ]] &small(){支配人　'23/09/29〜'24/09/05}&nbsp(br,3)[[個人医]] &small(){(復職)　'24/03/19～'25/05/25}}}| (キャラクターエンディング済)&br()&b(){[[イベントキャラクター>無馬　かな#イベントキャラ]]として継続}&br()メカニック【[[LUNA Garage]]】&small(){&openclose2(show=仮採用　'26/08/29～){&nbsp(br,60)体験　'26/07/17～'26/08/29}}|
+|~オーナー&footnote(【Season1】創業者として所有しているジョブ。経営権譲渡後は名誉役員のような立ち位置としてジョブの付け外しを自由に行える権利を有する。【Season2】管理者として所有しているジョブ。)|~&icon_fa(fa fa-user)|[[民営カジノ>カジノ]]&nbsp(2)&small(){'23/09/29〜'25/05/25}&br()[[FEMME FATALE]]&nbsp(2)&small(){'24/05/28〜'25/05/25}| [[闇医者]]&nbsp(2)&small(){'26/02/08〜}&br() [[DEP]]&nbsp(2)&small(){'26/02/08〜}&br()[[FEMME FATALE]]&nbsp(2)&small(){'26/02/08〜} |
+|~所属|~&icon_fa(fa fa-users)|&b(){[[ARCANA]] ボス&br()[[無馬グループ]] 代表}|？？？|
+|~TwiX|~&icon_fa(fa fa-crow)|@nashima_2434 / @dr.bongore|@nashima2434|
+|~Pixellink|~&icon_fa(fa-brands fa-instagram)|@nashima_2434||
+|~着信音|~&icon_fa(fa fa-music)&nbsp(br,2)|『[[if>>https://www.youtube.com/watch?v=xJBfEY5Ffnc]]』&br()&small(){&openclose2(show=過去の着信音){&nbsp(br,2)『[[Trick>>https://www.youtube.com/watch?v=6HKs1qJluU4]]』&nbsp(br,2)『[[ラヴィットパラダイス>>https://www.youtube.com/watch?v=HcyAdLE1oV0]]』}}||
+|プレイヤー|BGCOLOR(#666):COLOR(#A4C4E2):~&icon_fa(fa fa-heart)|>|叶（にじさんじ）|
+|告知等|BGCOLOR(#666):COLOR(#A4C4E2):~&icon_fa(fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#666){X &small(){(旧&font(#1da1f2){Twitter}) @Kanae_2434}}>>https://x.com/Kanae_2434/]]|
+|配信場所|BGCOLOR(#666):COLOR(#A4C4E2):~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (kanae_2434)}>>https://www.twitch.tv/kanae_2434]]|
+|ガイドライン|BGCOLOR(#666):COLOR(#A4C4E2):~&icon_fa(fa fa-info-circle)|>|[[ANYCOLOR二次創作ガイドライン>>https://www.anycolor.co.jp/guidelines/]]|
+|~&small(){別キャラ}|BGCOLOR(#A4C4E2):COLOR(#666):~&small(){&icon_fa(fa fa-user-plus)}|>|&small(){&openclose2(show=ネタバレ注意){&nbsp(br,2) [[文月 なえ>文月　なえ]]、[[文月 夏苗>文月　夏苗]]、[[さしすせ そーだ>さしすせ　そーだ]]}}|
+#size(30%){　}
+&image(kana_CharacterBanner2.png,y=60)
+#size(10%){　}
+&font(11,gray){公式タグ：[[#無馬かなクリップ集>>https://x.com/Kanae_2434/status/1896791149685440943]]}
+#size(30%){　}
+//
+&aname(目次)
+#region(目次を開く)
+#contents(fromhere=true,level=2)
+#endregion(目次)
+#size(30%){　}
+//
+&image(page=無馬　かな/エピソード7,season2.gif,https://x.com/STGR_RolePlay/status/1962089502341750786)
+//↑wikiでのseason2の扱いが決まるまで暫定配置
+//
+//---<基本情報>------------------------------------------------------------------//
+*&font(#e0e0e0){基本情報 &font(#A4C4E2){&icon_fa(fa fa-address-card-o)}}
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 基本情報}&nbsp(42)}}
+&image(listmarker.png,inline)100年前に犯罪者から警察に転向した異色な経歴の記憶を持つ青年。
+&image(listmarker.png,inline)人あたりがよく交渉術に長けており、ギャング[[ALLIN]]のアンダーボスを務めていた。
+&image(listmarker.png,inline)個人性能が高く、各方面から敵に回すと厄介だと思われたり、逆に勧誘を受けることも。
+&image(listmarker.png,inline)カジノオーナーを務め、ブラックビジネスを興す等、街の経済要所を担っている。
+&image(listmarker.png,inline)ギャングを辞した後は、秘密組織[[ARCANA]]のトップとして街の裏情勢を握るべく暗躍。
+&image(listmarker.png,inline)生きる目的を達成した後は身辺整理を主軸に活動。資産の継承および約束の履行を終わらせる。
+&image(listmarker.png,inline)街で最後の時間を過ごした後、[[とある男>Famos　Gray]]の命に従い、暗い海の向こうへ姿を眩ませた。
+//
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 外見}&nbsp(48)}}
+&image(listmarker.png,inline)茶～黒系の髪色。ギャング初期頃は短髪だったが、現在はお団子や三つ編みヘアー等の長髪。
+&image(listmarker.png,inline)素顔はあまり見せたがらず常に青いマスクを着用。アイテム化申請する程の気に入り様。
+#openclose(show=＞眼帯を付けている右目など、目について){
+&image(listmarker.png,inline)利き目は左目。
+#size(50%){　}
+&font(u,b){右目に眼帯を付け始めてからのエピソード}
+&nbsp(1)&b(){'24/03/21} →逃亡生活中、正体を隠す目的で警察プロファイル偽造を決行。
+&nbsp(2)顔に大きな変化が無ければ変更不可であったため、右目を傷付け外傷とした。
+&nbsp(2)右目欠損の確定性は未観測だが、この日より右目を失ったとみられる言動&openclose2(show=※){&br()（銃の命中率が下がる、右側に立たれたくない、右から来た車を避けきれなかった、見えないと公言する等）}が増える。
+&nbsp(1)&b(){'24/04/12} →[[秘書>鬼野　ねね]]より、いつでも移植手術ができるようスペアの目玉を預かる。
+&nbsp(2)天才医師が居れば移植手術が可能であること、その医師を[[ゆちゃ姐>ゆちゃ　めろでぃ]]が探してくれていることを聞く。
+&nbsp(1)&b(){'24/05/08} →レーシック手術完了。
+&nbsp(1)&b(){'24/05/12} →右目の存在が観測される。「解釈はお任せします」
+&nbsp(1)&b(){'24/05/17} →衛星外で「義眼入れた?」という質問に肯定ともとれる生返事をしたシーン有。
+&nbsp(1)&b(){'25/03/19} →[[ヴァン ダーマー>ヴァン　ダーマー]]との対話にて、右目についての真相&openclose2(show=※){&br()本来の右目は自身で抉って欠損しており、最先端医療で[[秘書>鬼野　ねね]]から貰ったスペアの目を移植している。&br()現在は遜色なく見えており、眼帯はノリで付けているだけ。}を明かす。}
+&image(listmarker.png,inline)黒のネイルをしており、男性用口紅に興味を示す等、洒落てる一面も。
+&image(listmarker.png,inline)左首筋と背中&font(11,#aaa){(サンプル用)}に[[ARCANA]]タトゥー施術済。
+//
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 趣味嗜好}&nbsp(42)}}
+&image(listmarker.png,inline)少ない露出・モノトーンなどの落ち着いた服を好む。
+&image(listmarker.png,inline)タバコは好きで吸うわけではない。愛用は「ゴールドマスター川上」&openclose2(show=※){&br()（[[川上たばこ店]]の1本50万円の最高級品。富豪感を感じられるとのこと。）}
+&image(listmarker.png,inline)(使ってる香水はフェラガモのプールオム )
+//
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 性格}&nbsp(48)}}
+****&underdot(#ACC2DF,3px){&font(15,#666){かなりの効率厨かつ完璧主義でA型&nbsp()}}
+&image(listmarker.png,inline)効率や完璧さを求めるあまり、同レベルのA型としか倉庫を共有できない程。
+&image(listmarker.png,inline)また、多くの事業を並行して進行できるマルチタスク。
+#openclose(show=＞詳細Episode){
+&image(listmarker.png,inline)ハウジングやステッカーの位置調整では、小数点以下まで測り綺麗に揃える。
+&image(listmarker.png,inline)自身の住居は基本的にワンルーム。飾るためのハウジングは滅多にしない。
+&image(listmarker.png,inline)&co(RPや雰囲気作りで入り組んだ構造の部屋を選択する場合もあるのでニュアンス回避)また、住居内装はアクセスの良さを重視。玄関付近で完結する&openclose2(show=家具){スタッシュとクローゼットなど必要最低限の}配置を好む。
+&image(listmarker.png,inline)ゴミ整理に割く労力を嫌っており、ぐちゃぐちゃになっていないと気が済まない。
+&image(listmarker.png,inline)運転中の携帯操作は朝飯前。ながら運転をしないことの方が稀。
+&image(listmarker.png,inline)運転ルートにも効率を求めギリギリを攻める為、よく事故る。
+}
+****&underdot(#ACC2DF,3px){&font(15,#666){冷酷で実利主義な一面がある&nbsp()}}
+&image(listmarker.png,inline)感情があまり表に出ず、泣いたり寂しがったりすることはほぼ無い。
+&image(listmarker.png,inline)また、正しいかどうかと感情的な好き嫌いは別であると考える。
+#openclose(show=＞詳細Episode){
+&image(listmarker.png,inline)着なくなった服や不要なものは、貰った物でも関係なく即処分する。
+&image(listmarker.png,inline)人から施しを受けることに慣れておらず、祝われたりプレゼントを貰ったりするのが苦手。
+&image(listmarker.png,inline)「他人が泣いていても特に何も思わない」と話すことも。
+}
+****&underdot(#ACC2DF,3px){&font(15,#666){自分の信じる筋を通す性格&nbsp()}}
+&image(listmarker.png,inline)黒はより黒らしくあるべきと考え、自身のこなす役割などに一貫した筋を持つ。
+#openclose(show=＞詳細Episode){
+&image(listmarker.png,inline)ギャング加入時、公務員との関係性を&openclose2(show=整理){(親しかった救急隊との関係を断つ・警察への情を自戒するなど)}。黒としての線引きを徹底。
+&image(listmarker.png,inline)納得性がなければ掘り返してでも直談判し、言葉が届かない場合は力を持ち出すことも。
+&image(listmarker.png,inline)“家族”と形容した組織の人間でも、自身の筋から外れることを良しとしない。&co(見切りを付けるは少し強かったので、脱退時エピソード以外でも当てはめられれるようなニュアンスへ)
+}
+****&underdot(#ACC2DF,3px){&font(15,#666){面倒見が良く、付き合いや繋がりを重要視する&nbsp()}}
+&image(listmarker.png,inline)恩や約束、体裁などを重んじ、その義理を果たすことを何よりも大切にしている。
+#openclose(show=＞詳細Episode){
+&image(listmarker.png,inline)相談事によく乗り、相手の誠意に対し同じだけ誠意を返す。
+&image(listmarker.png,inline)しんどい感情の機微に聡く、人が悩んでる姿を見ると進んで声をかける。
+&image(listmarker.png,inline)自身に近しい人が被害に合えば、自ら動き強硬な姿勢も厭わない。
+&image(listmarker.png,inline)双方を尊重するため、人伝手の情報は参考程度に、当人から直接聞いた情報のみを信じる。
+&image(listmarker.png,inline)旧友である[[MonD>Mon　D]]を強く慕い、彼の元を離れてなお"街で一番強い"と信じて疑わない。
+&image(listmarker.png,inline)街を去ることになった後も、約束を果たすまでは去れないと言い行動するほど。
+}
+//
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 能力}&nbsp(48)}}
+****&underdot(#ACC2DF,3px){&font(15,#666){運転技術について&nbsp()}}
+高い運転技術を持ち、レースだけでなくチェイスでも魅せられるテクニックを有する。
+運転機会が減った状態で技術更新が入ったため、マニュアル(ST)運転は勉強中。
+#openclose(show=＞レース情報){
+&image(listmarker.png,inline)レーサー名：NASHIMA
+}
+****&underdot(#ACC2DF,3px){&font(15,#666){戦闘能力について&nbsp()}}
+銃火器の扱いに長け、大型犯罪や銃撃戦で光るシーンが多い。
+心無きとの戦闘法や、立ち回りのレクチャーをすることも。
+#size(30%){　}
+#openclose(show=＞無馬流格闘術){
+高難易度技を武器に、読み合いに特化した格闘流派。
+&image(listmarker.png,inline)門外不出の連続技「真・黒閃」で殴り合い最強格へ。一世を風靡した。
+&image(listmarker.png,inline)その強さに魅入られた門下生が複数存在し、格闘で名を馳せたい住人が度々門を叩きに来る。
+#openclose(show=＞技一覧){
+&b(){連続技「真・黒閃」}
+&image(listmarker.png,inline)他ギャングの連続技を受け対応策を思案していたところ、偶然新たな連続技の発生方法を見つけ、「黒閃」と名付けたのが始まり。
+&image(listmarker.png,inline)格闘強者が放つ黒閃に割り込む性能を有しており、同技でのみ互角のフィジカル勝負となる。
+&image(listmarker.png,inline)最高速度を保つには、練度を高めなければならない。流派内では、よく「呪力を練る」と表現されている。
+&image(listmarker.png,inline)発生方法は極秘事項となっており、各ギャングボス等の限られた人にのみ1億で伝授している。
+&openclose2(show=＞伝授者){&nbsp(br,2)[[MonD>Mon　D]]([[ALLIN]]ボス)、[[RB>R　B]]([[ALLIN]]幹部)、[[ヴァン ダーマー>ヴァン　ダーマー]]([[MOZU]]ボス)、[[菖蒲 光樹>菖蒲　光樹]]([[IRiS]]ボス)、[[アルフォート ウェスカー>アルフォート　ウェスカー]]([[餡ブレラ>anbrella(餡ブレラ)]]ボス)}
+&b(){奇襲技「ゼロスラ」}
+&image(listmarker.png,inline)通常であれば助走が必要なスライディング攻撃をゼロ距離で打つ技。回避や不意打ちによく使う。
+&b(){反撃技「ブギウギ」}
+&image(listmarker.png,inline)相手との位置関係が特定の条件下でのみ発動するカウンター技。
+&image(listmarker.png,inline)発動率は100％ではないが、わざと殴らせることによって先手を取ることが出来る。
+&b(){ネタ技「ファントムバレット」}
+&image(listmarker.png,inline)殴ったりスライディング直後に消える技。
+&image(listmarker.png,inline)その瞬間に発動するため誰も姿をとらえることは出来ない。(寝ているだけ)
+}}
+//
+****&underdot(#ACC2DF,3px){&font(15,#666){外交能力について&nbsp()}}
+頭が切れ交渉事に強く、常に先を見据える目を持っている。
+&image(listmarker.png,inline)自身すら交渉の手札・盤上の駒として認識しており、自分の命すらも「消耗品」と捉えている。
+****&underdot(#ACC2DF,3px){&font(15,#666){取得資格について&nbsp()}}
+医師免許、&s(){ガンライセンス}、&s(){白市民パス(返却)}、&s(){各種運転免許(剥奪)}
+&openclose2(show=＞取得経験のある運転免許一覧){&nbsp(br,2)普通自動車、自動二輪、原付、タクシー、大型、特殊車両、船舶、ヘリ、レース、航空機、バス}
+****&underdot(#ACC2DF,3px){&font(15,#666){経営手腕について&nbsp()}}
+0から1を作り出すことに長けており、数々の事業を起こしている。
+#size(30%){　}
+#openclose(show=＞接客サービス「かなスペシャル」){
+癒しをお届けする接客サービス。
+&image(listmarker.png,inline)街に来て間もない頃のシノギとして営業。
+&image(listmarker.png,inline)ねこカフェの店員別特別サービス(スペシャル)を参考に考案。
+&image(listmarker.png,inline)男性か女性か、衛星外か衛星内かで内容が変化。
+&image(listmarker.png,inline)数回利用するとVIP会員へ移行。
+&image(listmarker.png,inline)尺は無馬主導。終わり次第IDへ料金のお支払い。
+#openclose(show=＞ オプション){
+&image(listmarker.png,inline)女性：一緒に野球エモートでハッピーに。(ボイス無)
+&image(listmarker.png,inline)男性：短めのスキンシップ(ボイス無)
+&image(listmarker.png,inline)VIP①300万円～：お姫様抱っこでバブらせてくれる。
+&image(listmarker.png,inline)VIP②100万円～：赤ちゃんかなを抱っこであやせる。
+&image(listmarker.png,inline)極上(4回目以降)：尺自由。
+}}
+//
+#openclose(show=＞金融稼業「闇金ナシジマくん」){
+お金がない人向けの高利金貸し業。
+&image(listmarker.png,inline)カジノ客で一文無しになった人への金貸しが始まり。
+&image(listmarker.png,inline)金利は50%/日、3日滞納で+150%(最大)
+&image(listmarker.png,inline)説明を聞いたうえで借りる人が後を絶たないらしい。
+&image(listmarker.png,inline)基本ギャンブル利用での貸し付けが多いが、融資なども行っている。
+&image(listmarker.png,inline)融資の場合は上記と比べて低金利としている。
+&image(listmarker.png,inline)返済能力のない債務者には、仕事の斡旋など返済方法の提案をする。
+#openclose(show=＞債務者一覧){
+&image(listmarker.png,inline)[[切間 てつお>切間　てつお]]：カジノで散財したのをきっかけに、常連客へ。
+&image(listmarker.png,inline)[[ネケ ニマス>ネケ　ニマス]]：融資希望で借金。初心者で返済計画が無かったため花バイトを斡旋。
+&image(listmarker.png,inline)[[山本 龍也>山本　龍也]]：カジノにて借入。[[なの>なのの　なの]]に借金をして返済。
+&image(listmarker.png,inline)[[エスターク>エスターク・Z・ダークネス]]：ブラックジャックで勝利して返済。
+&image(listmarker.png,inline)[[天草 蒼>天草　蒼]]：ランポカスタムの購入費を融資してほしいと頼まれ、花3回分の労働を対価に出資。
+&image(listmarker.png,inline)[[荒川 拓也>荒川　拓也]]：ヴァンダーマーから斡旋を受けた顧客。
+&image(listmarker.png,inline)[[柳田 ライアン>柳田　ライアン]]：黒閃なしの殴り合いで柳田が勝てば無利子で1億貸与、無馬が勝てば闇金金利で貸与。
+&image(listmarker.png,inline)[[オザワ ハヤマサ>オザワ　ハヤマサ]]：返済総額5億の借金を負った。
+&image(listmarker.png,inline)'24/2/18）[[エスターク>エスターク・Z・ダークネス]]：[[MonD>Mon　D]]とのチンチロで5億の借金を負う。5億と&small(){卒論}を条件に貸し付ける。
+&image(listmarker.png,inline)'24/5/28）[[エスターク>エスターク・Z・ダークネス]]：10億の借金を無利子で肩代わり。
+&image(listmarker.png,inline)'24/6/8）[[酒槻 すん>酒槻　すん]]：1億を3割で貸し付けチンチロ勝負。欲をかいた2回目で2ゾロにて計3億9千万の借金。
+}}
+//
+#openclose(show=＞賭博施設の民営化){
+前任が夜逃げし廃れていた国営カジノの復興。
+&nbsp()→ 詳細は、[[カジノ]]頁へ。
+#size(30%){　}
+&image(listmarker.png,inline)一度金庫が尽きたが、今では街に目を付けられるほどの莫大な富を集約。
+&image(listmarker.png,inline)得た資産を街へ還元するため[[無馬グループ]]を設立。
+}
+//
+#openclose(show=＞ARCANAによる闇ビジネス){
+黒市民向けビジネスの展開。
+&nbsp()→ 詳細は、[[ARCANA]]頁へ。
+#size(30%){　}
+&image(listmarker.png,inline)内容は多岐に渡り、個人間の違法取引から、既存事業([[DEP]],[[闇メカ>Glare Gem]]etc.)のサポート、新規事業([[傭兵事業>ACADEMY]],[[武器事業>FEMME FATALE]]etc.)の立ち上げまで数々。
+&image(listmarker.png,inline)その影響力はギャングボスが一目置くほど強く、一時期は黒の流通を掌握するほど。
+}
+//--○○としての無馬かな-------------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 各時代の無馬かな}&nbsp(30)}}
+&image(kana_Icon1.png,x=65,https://w.atwiki.jp/streamergta5/pages/3816.html#%E3%82%AE%E3%83%A3%E3%83%B3%E3%82%B0,title=ギャングとしての無馬,inline)&nbsp(2)&image(kana_Icon2.png,x=65,https://w.atwiki.jp/streamergta5/pages/3816.html#%E5%80%8B%E4%BA%BA%E5%8C%BB,title=個人医としての無馬,inline)&nbsp(2)&image(kana_Icon4.png,x=65,https://w.atwiki.jp/streamergta5/pages/3816.html#%E7%99%BD%E5%B8%82%E6%B0%91,title=白市民としての無馬,inline)
+#size(11){&nbsp(3)ギャング&nbsp(11)個人医&nbsp(14)白市民}
+//
+#co(){^^^^^^^^^^^^^^^^
+前々から要望をいただいていた「○○としての無馬かな」項目の整理のため子頁化しました
+
+
+レイアウトで問題あった場合の別パターン↓
+
+#table_style(hover=#A4C4E2){}
+|&image(kana_Icon1.png,x=50,https://w.atwiki.jp/streamergta5/pages/3816.html#%E3%82%AE%E3%83%A3%E3%83%B3%E3%82%B0,title=ギャングとしての無馬,inline)&nbsp()[[ギャングとしての無馬>無馬　かな/キャラクター#ギャング]]|
+|&image(kana_Icon2.png,x=50,https://w.atwiki.jp/streamergta5/pages/3816.html#%E5%80%8B%E4%BA%BA%E5%8C%BB,inline)&nbsp()[[個人医としての無馬>無馬　かな/キャラクター#個人医]]|
+|&image(kana_Icon4.png,x=50,https://w.atwiki.jp/streamergta5/pages/3816.html#%E7%99%BD%E5%B8%82%E6%B0%91,inline)&nbsp()[[白市民としての無馬>無馬　かな/キャラクター#白市民]]|
+
+#include(無馬　かな/キャラクター)
+
+^^^^^^^^^^^^^^^^^^^^^^^^}
+//
+//--過去-----------------------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 無馬の過去}&nbsp(40)}}
+#openclose(show= ＞出自について){
+&image(listmarker.png,inline)日本のスラム出身。
+&image(listmarker.png,inline)ロスサントスに移る前は貧しい暮らしをしていた。
+&image(listmarker.png,inline)親に育てられた記憶はなく、誰かにというよりも場所に育てられた。
+&image(listmarker.png,inline)自身を「リサイクルされた側」と形容している。
+&image(listmarker.png,inline)現在、親族といった存在はなく、[[MonD>Mon　D]]が一番古い友人。
+&image(listmarker.png,inline)家族か大切な人かを自身の手で殺めた記憶がある。&nbsp(br,2)→「両親を自分の手で殺めている」その時のことが今でも脳裏にこびりついて離れない。
+#size(30%){　}
+#openclose(show= ＞出自を知るヒント){
+&image(listmarker.png,inline)自身の出自について、「[[とある人物>文月　夏苗]]を調べれば分かることもあるかもしれない」と残す。
+&image(listmarker.png,inline)なお、無馬は“彼”のことについて所属・年齢なども把握しており「よく知っている」が、“彼”は無馬のことを「何も知らない」だろうと話している。
+}
+//
+//&image(listmarker.png,inline)その正体は、誰かの&bold(){クローン}である。&nbsp(br,4)→[[Famos Gray>Famos　Gray]]や[[4番>Back　Alley]]など、街に潜んでいる謎の組織の人間しか無馬の正体を知る者はいない。&nbsp(br,4)→[[4番>Back　Alley]]からは「ネームド」と呼ばれており、無馬もまた彼のことを番号でしか呼ばない。
+//すみません、↑の文について、エンディングストーリー項の関係で伏せさせていただきます。
+//なお、正体についてPLによるキャラ設定言及が行われるまでは記載を控えたいと考えています。(夏苗のストーリーが進めばわかることなので、記載はRP外欄に項目を作る予定です。)
+}
+#size(30%){　}
+#openclose(show= ＞家庭・家族について){
+&i(){どういう家で育ったのか、覚えてることしか覚えてない}
+#size(50%){　}
+&image(listmarker.png,inline)生家が代々警察の家系であることは知っているが、親の職業についてはわからない。
+&nbsp(2)→由緒正しきしっかりした家系だったが、自身がそうじゃなくした。と捉えている。
+&image(listmarker.png,inline)学校に通った記憶はないが、一般的には裕福な家庭の生まれであると自覚。
+&image(listmarker.png,inline)家族や兄弟についても、感覚的な&openclose2(show=※){（生物学的に親が居たことはわかっている、というような）}ものしかわからない。「言葉にすると難しい」
+}
+#size(30%){　}
+#openclose(show= ＞誕生日について){
+&image(listmarker.png,inline)ある時を境に祝われることが無くなり、今では誕生日がいつなのか忘れてしまっている。
+&image(listmarker.png,inline)白市民パスBOD欄は2023年7月7日との記載があるが、年齢と合致しないため偽証である。
+&nbsp(2)→本人は適当に語呂で書いた入国書類が反映されているのではと推測。
+&image(listmarker.png,inline)「誕生日は祝われない方がいい場合もある」「誕生日やお祝いされるのが好きじゃない」
+}
+#size(30%){　}
+#openclose(show= ＞街に来た理由){
+&image(listmarker.png,inline)この街に来た理由は犯罪が盛んで治安が悪い（お金が稼ぎやすい）と聞いたから。
+&image(listmarker.png,inline)街を去る際の[[Famos>Famos　Gray]]との会話にて「言われた通りのことはやった」と発言したことで、人の命令で街に来ていたと判明。
+&image(listmarker.png,inline)一時入国時の[[タラちゃん>タラ　ちゃん]]との会話で、「この街にある任務で来ていた」と明言された。
+}
+----
+//--エンディング-------------------------------
+**エンディングストーリー
+"契約"の支払い期限が来たため、無馬がクソ野郎と呼ぶ[[Famos Gray>Famos　Gray]]という人物の元へ。
+#openclose(show= ＞クソ野郎とのチャット履歴){
+#region('25/03/19)
+|&font(9,#aaa){Famos Gray}&br()今日であの組織を抜け&br()て１年&br()&font(9,#aaa){'25/03/19 17:20 PM}|
+#size(50%){　}
+|&font(9,#aaa){Famos Gray}&br()お前の希望した期間は終&br()わりだ&br()&font(9,#aaa){'25/03/19 17:20 PM}|
+#size(50%){　}
+|&font(9,#aaa){Famos Gray}&br()この島での役目を終えて&br()戻ってこい&br()&font(9,#aaa){'25/03/19 17:20 PM}|
+#size(50%){　}
+|BGCOLOR(#D6E2EF):&font(9,#aaa){Nashima}&br()了解&br()&font(9,#aaa){'25/03/20 00:48 AM}|
+#endregion(3/19)
+#size(50%){　}
+#region('25/03/24)
+|BGCOLOR(#D6E2EF):&font(9,#aaa){Nashima}&br()MonDの死亡を確認しまし&br()た。&br()&font(9,#aaa){'25/03/24 4:29 AM}|
+#size(50%){　}
+#endregion(3/24)
+#size(50%){　}
+#region('25/05/25)
+|BGCOLOR(#D6E2EF):&font(9,#aaa){Nashima}&br()街に潜らせてるの何番?&br()&font(9,#aaa){'25/05/25 20:41 PM}|
+#size(50%){　}
+|BGCOLOR(#D6E2EF):&font(9,#aaa){Nashima}&br()あと番号も教えてくださ&br()い&br()&font(9,#aaa){'25/05/25 20:41 PM}|
+#size(50%){　}
+|&font(9,#aaa){Famos Gray}&br()code4 phone number&br()(602)142-0588&br()&font(9,#aaa){'25/05/25 20:44 PM}|
+#size(50%){　}
+|&font(9,#aaa){Famos Gray}&br()名はバック・アレイだ&br()&font(9,#aaa){'25/05/25 20:44 PM}|
+#size(50%){　}
+|BGCOLOR(#D6E2EF):&font(9,#aaa){Nashima}&br()23:45 港で&br()&font(9,#aaa){'25/05/25 22:23 PM}|
+#size(50%){　}
+|&font(9,#aaa){Famos Gray}&br()わかっている。遅れるな&br()&font(9,#aaa){'25/05/25 22:25 PM}|
+#endregion(5/25)
+}
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 期限について}&nbsp(37)}}
+#region(詳細)&font(10px){詳細}
+>無馬は時折、自身の寿命が"長くない"とも"長続きしない"ともとれる冗談を口にし、&br()また、"人の死とは何か"、"生きる理由"などの問いをよく投げかけている。
+#size(30%){　}
+&underdot(#ACC2DF,3px){&font(b,15,#666){概要}}
+&image(listmarker.png,inline)ギャング時代から時折、親しい黒の住人へ死の定義について問う。
+#co(){ 無馬の問いと返答
+「人は何を持って死を死とたらしめるのか」
+}
+&image(listmarker.png,inline)25年の1月頃から、自身の期限について比喩を用い言及が多くなる。
+#openclose(show= ＞比喩内容){
+&image(listmarker.png,inline)この街に来る前から首に爆弾が付いており、時間切れになると爆発する。
+&image(listmarker.png,inline)首の爆弾って例えるのが一番分かり易そうだった。実際の爆弾じゃない。制約みたいな。
+&image(listmarker.png,inline)解除する方法は探したが見つけられなかった。
+&image(listmarker.png,inline)'25/01/26：そろそろ爆発する時間。残り1カ月くらい。2月中に解除法を見つけられなかったら少なくとも。
+}
+&image(listmarker.png,inline)最後にアイスクリーム屋をやりたいと言い、今まで自身が行ってきたことは線を繋ぐための点とも語る。
+#endregion(期限)
+//
+&anchor(契約,option=nolink)
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 契約について}&nbsp(37)}}
+#region(詳細)&font(10px){詳細}
+&underdot(#ACC2DF,3px){&font(b,15,#666){契約概要}}
+&image(listmarker.png,inline)目的実現の為の力を欲したことが契約の動機。
+&image(listmarker.png,inline)契約相手は街の外の人間。当人は"悪魔"と呼称。
+'25/03/19、期限が来てしまった事を明かす。
+&image(listmarker.png,inline)メッセージ内容から、契約が[[クソ野郎>Famos　Gray]]に関わりがあることが判明。
+#size(50%){　}
+&underdot(#ACC2DF,3px){&font(b,15,#666){支払について}}
+&image(listmarker.png,inline)言われた仕事の遂行。
+#openclose(show= ＞仕事について){&image(listmarker.png,inline)詳細は不明。
+&image(listmarker.png,inline)淡々とこなすだけの自由のない生活。その先には死が存在している。
+&image(listmarker.png,inline)契約相手をどうにかすることは可能だが、かなりの労力がかかる。
+&image(listmarker.png,inline)[[秘書>鬼野　ねね]]にのみ契約内容を話しており、本人が願うのであればと同行を許可。
+}
+#endregion(期限)
+
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ エピローグ}&nbsp(40)}}
+#co(){~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+折りたたまない関係で、殺したことについてなど直接的なものは少し濁しました。
+また、基本項目なので情景や感情を含む詳細は各個人エピソードへ移行しました。
+
+会話をまるまる文字起こしした理由について
+：正体について一切の公開を行わないPLの意図を汲み、視聴者が考察を楽しめるよう、また、編集者の主観が一切入らないような形をとりました。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}
+&image(listmarker.png,inline)[[Famos Gray>Famos　Gray]]へ連絡。街に潜入している人間の番号を聞く。
+&image(listmarker.png,inline)同行を希望した[[秘書>鬼野　ねね]]へ処遇を与え、Famosから共有された[[番号>Back　Alley]]の人物へ街の外の仕事を依頼。
+&image(listmarker.png,inline)約束の時間まで街で過ごし、10100番地埠頭&openclose2(show=※){（[[ARCANA計画>ARCANA#ARCANA計画]]発足の際にFamosと取引をした港）}へ。
+&image(listmarker.png,inline)Famosが用意したボートへ共に乗り込み、今回の仕事について会話。
+&image(listmarker.png,inline)そのまま、次の仕事へ向かうため暗い海の向こうへと姿を消した。
+#size(50%){　}
+&underdot(#ACC2DF,3px){&font(b,15,#666){Famosとの最後の会話}}
+#size(30%){　}
+#openclose(show= ＞乗船後){
+　
+&font(#678dbf,i){そういえば 4番に名前ついてたけど。}
+&font(#gray,i){ああそうだな。まぁこの島で名前が無いと生きづらいと思うからな。}
+
+&font(#678dbf,i){これ運転…僕なんだね。}
+&font(#gray,i){それは私に言ってるのか君は。}
+&font(#678dbf,i){いやまぁまぁまぁ、い、いいですけど。}
+
+
+&font(#gray,i){結局、この街の犯罪組織はどうだったんだ？}
+&font(#678dbf,i){まぁもう今の状態だと…犯罪者が居ることは誰も疑問に思ってないんじゃないかなぁ。}
+&font(#gray,i){あぁそう。}
+&font(#gray,i){おかげで私の"ビジネス"も上手く行っているよ。}
+&font(#678dbf,i){まぁ言われた通りのことは。大体できたんじゃないかなぁ}
+
+&font(#gray,i){ギャングに潜入するというのもうまく行ったのか。}
+&font(#678dbf,i){まぁ黒の活性化にあたってはね。}
+&font(#678dbf,i){結局一番戦いとかをしたがるギャングが都合よかったから、無事ALLINも…}
+&font(#gray,i){それにしては、MonDに情を置いてたんじゃないか？}
+&font(#678dbf,i){流石にね。}
+&font(#678dbf,i){こう…一番にしようっていうスタンスを貫いていると、情も湧いてくるよ。}
+&font(#gray,i){ほぉ… "クローン"の癖に生意気なことを言うんだな。}
+&font(#678dbf,i){同じなのは"遺伝子"だけね。}
+&font(#gray,i){ﾊｯ、じゃあまぁ、君がこの街で…まぁある意味成長したのかもね。}
+&font(#678dbf,i){僕は“番号付き”とは違うからね、元々。}
+&font(#gray,i){ああそう。まあ、ちゃんと達成してきたからね。まあ、君はやはり成功品だろう。}
+
+
+&font(#678dbf,i){そういえば、あの～なんだっけ…　日本の"ヤクザ"、いるでしょう？}
+&font(#gray,i){ああ、いるよ。あいつはまだ私の下で働いてるよ。}
+&font(#678dbf,i){何してんだあの人今。働いてる？}
+&font(#gray,i){日本の技術を、私に提供して私が仲介してこの島に流したり、}
+&font(#gray,i){そういった感じで、日本から私のことを手伝ってくれているね。}
+&font(#678dbf,i){それも興味あるんだよなぁ。}
+
+&font(#gray,i){まあ。いずれ君に紹介することになるだろうな。}
+&font(#678dbf,i){ま、それを楽しみにしてるよ。}
+&font(#gray,i){ああ。}
+
+
+&font(#678dbf,i){あぁ…お別れかぁ街とも。}
+&font(#gray,i){そんなに名残惜しいの？}
+&font(#678dbf,i){いや、二年居たんだよ二年。やり残したこととか思い残すことは無いけど。}
+&font(#gray,i){あぁ。}
+&font(#678dbf,i){長かったなぁ…。}
+
+&font(#gray,i){まぁでも君にはしてもらわないといけないことがいっぱいあるからね。}
+&font(#678dbf,i){次の仕事…ですか。　次はなにすんの？}
+&font(#gray,i){いや大丈夫だ。着いた時に説明する。}
+&font(#678dbf,i){そっか。}
+
+
+
+&font(#678dbf,i){まあ…}
+
+&font(#678dbf,i){人は一日に多くのことを忘れるからね。}
+&font(#678dbf,i){この街で過ごしたこともすぐ忘れるでしょ。}
+
+
+}
+
+#region(エンディング後のプレイヤーのポスト,open)&b(){エンディング後のプレイヤーのポスト}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">無馬かな END<br><br>ほんとに長い間楽しんでいただいてありがとうございました！！<br>関わってくれた全ての人に感謝を</p>&mdash; 叶＠にじさんじ (@Kanae_2434) <a href="https://twitter.com/Kanae_2434/status/1926653369013125295">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion()
+#size(30%){　}
+#region(END後公開されたカバー曲,open)&b(){END後公開されたカバー曲}
+&youtube(https://youtu.be/L2ZBGulIJrI){320,180}
+#endregion()
+//
+#right{&link_anchor(目次){△目次へ}}
+----
+&anchor(イベントキャラ,option=nolink)
+**イベントキャラクターストーリー
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 一時入国 ???}&nbsp(40)}}
+#co(){~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+仮置き
+
+ストグラフェスの内容について
+一時入国の動悸についての言及されていたため、SNSでネタバレされている内容程度で記載。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}
+[[Famos>Famos　Gray]]の指示で再び街へ。
+#size(30%){　}
+#region(一時入国についての事前話)&b(){一時入国についての事前話}
+&image(listmarker.png,inline)&ruby(ストグラフェス){'25/08/30に行われたイベント}にて、資格を得た観光客向けに発信。
+#openclose(show= ＞概要※ネタバレ){
+&image(listmarker.png,inline)[[アルバイト体験>>https://x.com/STGR_Festival/status/1962505621032612247]]にて、ミッションを完遂した観光客をArcanaアジトへ招待。
+&image(listmarker.png,inline)アジト内PCから通話。血肉として滞在を許可。Arcanaメンバーも一部滞在。
+}
+#openclose(show= ＞発信内容※ネタバレ){
+&font(#gray,10){曖昧につき修正求。}
+&font(#678dbf,i){やっほー、よく来たね。}
+&font(#678dbf,i){興味があるなら見て構わないけど、見るからには覚悟しなきゃね。}
+
+&font(#678dbf,i){アルカナへようこそ。}
+&font(#678dbf,i){これで君もこの蛇の血肉となりました。}
+&font(#678dbf,i){今となってはここも特別意味のあるものじゃないんだけどね。}
+
+
+&font(gray){(着信音)}
+&font(#678dbf,i){あ、電話だ。…4番？}
+&font(#678dbf,i){例の任務、アイツから聞いてる？}
+&font(#678dbf,i){そろそろ指令が行くと思うから、ギャングの人に手紙送っておいて。}
+&font(#678dbf,i){あと、例の警察官どうなってんの？}
+&font(#678dbf,i){そっちも早めに情報欲しいんだけど。}
+&font(#678dbf,i){はーい。}
+&font(gray){(切電)}
+
+
+&font(#678dbf,i){アイツも人遣い荒いよね。}
+&font(#678dbf,i){やっと新しいところでミッションを始めたっていうのに、こっちでもまた働けって言うんだよ？}
+&font(#678dbf,i){4番も、ほんと使えないよね。簡単な任務も失敗するし。}
+&font(#678dbf,i){だから失敗作なんだよ。}
+
+&font(#678dbf,i){ああ、ごめんね。まあいずれ分かるよ。}
+
+
+&font(#678dbf,i){さて、僕はそろそろ行こうかな。}
+&font(#678dbf,i){気になるならもうちょっと居てもいいよ。}
+
+&font(#678dbf,i){ま、人は1日に多くのことを忘れるからね。}
+&font(#678dbf,i){君もこの場所、今日この街で過ごしたこともすぐに忘れるんだろうね。}
+
+}
+#endregion()
+#size(30%){　}
+&image(listmarker.png,inline)Famosが街へ介入するための駒として派遣。
+&image(listmarker.png,inline)Famosのシナリオ通りに進めるべく、適当なタイミングで街と接触。
+#openclose(show= ＞接触①（'25/09/09）){
+[[E5's BURGER]]へ行き伝言を残す。
+#size(20%){　}
+&font(u,b){伝言内容}
+&image(listmarker.png,inline)9/15(実質9/14の夜)までにコインを200枚集めろ。
+&image(listmarker.png,inline)コインは今から(9/9)のもの。手段は問わない。
+&image(listmarker.png,inline)集められたら、街に関係あるやつが色々してくれる。
+&image(listmarker.png,inline)受け取りは加藤さんの元へ、人(出来損ない)を向かわせる。
+}
+#openclose(show= ＞接触②（'25/09/16）){
+武器普及の様子を見に街へ。
+状況を鑑みヒントとなる情報を提供。
+#size(20%){　}
+&font(u,b){伝言内容}
+&image(listmarker.png,inline)加藤さんへ二種類の航空写真を譲渡。
+&image(listmarker.png,inline)扱いは加藤さんらへ任せる。
+&image(listmarker.png,inline)ピエロが何故同じ顔をしているのか尋ね、謎を残す。
+}
+#size(30%){　}
+&underdot(#ACC2DF,3px){&font(b,15,#666){最終結末}}
+&image(listmarker.png,inline)本来の仕事を終えた後、Famos、4番と合流するためいつもの埠頭へ。
+#openclose(show= ＞合流後の会話){&br()&font(#678dbf,i){はいお疲れ〜…さま。}
+&font(#gray,i){仕事は終わったのか。}
+&font(#678dbf,i){終わりまし、たっ。}
+&font(#gray,i){ああ、そうか。}
+
+&font(#gray,i){まあどうせ…明日この街は転送されるだろう。}
+&font(#678dbf,i){なんか言ってた、っすね。そんなこと。どうだこうだ。}
+
+&font(#gray,i){私のシナリオ通りでは…明日、この街は終わるはずだ。}
+&font(#678dbf,i){明日ねぇ…。}
+&font(#678dbf,i){転送されるんすか皆。}
+&font(#gray,i){まあそれは、彼らの頑張り次第だろう。}
+&font(#678dbf,i){ふーん…。}
+&font(#678dbf,i){まあいいや、帰りましょうか。}
+
+&font(#c0c0c0,i){遅くなりました。}
+&font(#678dbf,i){いいよぅ。}
+&font(#gray,i){あぁ。}
+
+&font(#gray,i){じゃあ、いつも通り。}
+&font(#678dbf,i){どっち、どっちで帰んの？どっちで帰んの？どっち、あっち？こっち？どっち？}
+&font(#gray,i){まぁ、私はボートで行こうと思うけど。}
+&font(#c0c0c0,i){あちら二人乗りなんで。}
+&font(#678dbf,i){あっち二人乗り？}
+&font(#c0c0c0,i){はい。}
+&font(#678dbf,i){こっちのボートは？}
+&font(#gray,i){あっちのボートは三人以上乗れるぞ？}
+&font(#678dbf,i){あぁまぁじゃあ…ボートにするか。}
+
+
+
+&font(#678dbf,i){そういえば…何、}
+&font(#gray,i){どうした。}
+&font(#678dbf,i){タイムリーパーって。}
+&font(#gray,i){あぁ、彼の遺体だ。}
+&font(#678dbf,i){あ、へぇ～。タイムリーパーなんだ。}
+&font(#gray,i){あぁ。この時代の人間じゃないらしい。}
+
+&font(#678dbf,i){ふーん。}
+
+
+}
+&image(listmarker.png,inline)[[乗船前の行動>>https://www.twitch.tv/kanae_2434/clip/TriumphantTangibleCamelHassaanChop-IbHbSlH_wXuIRnA5]]
+#openclose(show= ＞行動後の会話){&br()&font(#678dbf,i){あいつ今ペンダント持ってないんでしょ？}
+&font(#c0c0c0,i){はい、}
+&font(#678dbf,i){馬鹿だね～。}
+&font(#c0c0c0,i){タダの人間です。}
+
+&font(#678dbf,i){転送…されるかなぁ？}
+&font(#c0c0c0,i){恐らく…命は…保たないのではないですかね。}
+&font(#678dbf,i){うーん、流石に明日までには絶えるだろ命。}
+&font(#c0c0c0,i){いや、どうですかねぇ、救急隊も個人医も通知は出せないでしょう。}
+&font(#678dbf,i){うーん。流石に24時間以上経てば。}
+&font(#c0c0c0,i){はい。}
+&font(#678dbf,i){なんかね、生きてる人だけらしいから。連れてかれんの。}
+&font(#c0c0c0,i){そうみたいですね。}
+
+&font(#678dbf,i){さっきこの街の仲間と話してたんだけど。}
+&font(#c0c0c0,i){はい。}
+&font(#678dbf,i){生きてても手足が切断されてたら連れてかれると思うけど。}
+&font(#c0c0c0,i){はい。}
+&font(#678dbf,i){たぶん生きてなかったら何も…もう心無き以下だもんね存在としての価値って。}
+&font(#c0c0c0,i){そう…ですね。}
+&font(#678dbf,i){うーん。}
+
+
+&font(#678dbf,i){あぁ疲れた。}
+&font(#c0c0c0,i){お疲れさまです。}
+
+&font(#678dbf,i){よし、逃げよう。}
+&font(#c0c0c0,i){はい。}
+
+
+
+&font(#678dbf,i){うーんなんか忘れてる気がするなぁ…。}
+&font(#c0c0c0,i){そう、ですかね？}
+
+
+
+&font(#678dbf,i){あぁ…そうだ、そういえば…}
+&font(#678dbf,i){そのわきを何？}
+
+
+
+}
+#right{&link_anchor(目次){△目次へ}}
+//---< Season2 >---------------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ Season2 }&nbsp(45)}}
+&image(listmarker.png,inline)自身の手で始末した[[とある男>Famos　Gray]]の[[部下>Back　Alley]]を引き連れ、謎の“組織”の人間として街の裏で暗躍中。
+&image(listmarker.png,inline)[[ARCANA]]時代の部下や繋がりをも活用し、街に影を落としている。
+&image(listmarker.png,inline)基本的にすべてに対して中立であることを最優先とし、必要な場合のみ介入するスタンスを取る。
+&font(#678dbf,i){「僕はね、誰の味方でもないよ」}
+#size(50%){　}
+//
+#openclose(show= ＞現状発覚した仕事){
+&image(listmarker.png,inline)[[武器屋>FEMME FATALE]]に武器製造情報を流し製造させるよう4番に指示。→'25/12/26 成果物を受領。
+&image(listmarker.png,inline)元個人医&openclose2(show=※){(ゆちゃめろでぃ、犬好マイキー)}を拉致。闇医者ボスとして雇用し、闇医者組織設立を補助。
+&image(listmarker.png,inline)4番伝手で[[加藤 圧>加藤　圧]]へ手紙を渡し、薬のレシピに関する情報を流す。
+&image(listmarker.png,inline)「[[武器屋>FEMME FATALE]]」「[[麻薬カルテル>DEP]]」「[[闇医者]]」の3組織に対して不定期に視察・近況の確認を行い、必要があれば介入。
+&image(listmarker.png,inline)ブラックビジネスに多大な不利益が生じた場合および自身を裏切った場合の対象者の処分。&openclose2(show=※){(この「処分」は海に沈める等でなく、街から存在を消すことを指す)}
+&image(listmarker.png,inline)7138番地の建物に犯罪者専用の店を構える計画を進行中。手始めに貨物飛行機襲撃とアーティファクトヘイストへの斡旋を開始。
+&image(listmarker.png,inline)謎の花の種を育てる仕事を白市民に依頼。街における情報拡散経路の観測と、必要な人材を確保するための住民の選定を行う。
+}
+
+#right{&link_anchor(目次){△目次へ}}
+//
+----
+//---< 裏話 >---------------------------------
+***&underdot(#ACC2DF,3px){&font(15,#666){◆ 裏話、RP外&nbsp()}}
+#openclose(show= ＞名前の由来){
+&image(listmarker.png,inline)某アニメに登場する、&s(){重曹を舐める}10秒で泣けるヒロインキャラクターのもじり。
+&image(listmarker.png,inline)初期の頃は漢字で名札を表示していたが、読み違いが多かったため平仮名表記にすることが多くなった。
+}
+#openclose(show= ＞BGM){
+&image(listmarker.png,inline)カジノゲームプレイ時 BGM　&font(11px,u){[[🎬clip>>https://www.twitch.tv/kanae_2434/clip/WittyAwkwardJaguarOMGScoots-dH-sfvpG_yWtzVwO]]}
+&image(listmarker.png,inline)ARCANA BGM　&font(11px,u){[[🎬clip>>https://clips.twitch.tv/SuccessfulGloriousBaguetteKappaWealth-wHTLYCjowUcXLUCE]]}
+}
+#openclose(show= ＞キャラ設定について){
+キャラクター設定について、RP外では滅多に言及されないが、
+"どのような生い立ちがあれば今の様なキャラクターになるか"といった&u(){キャラ背景}については、[[白井さん>白井　満太]]のPLであるしろまんた先生と裏で設定済であることを明かしている。
+//探し出せたらクリップ添付予定
+}
+#openclose(show= ＞エンドについて){
+&font(u,b){認識}
+&image(listmarker.png,inline)「とはいえエンドしてるからね」
+&image(listmarker.png,inline)キャラは撤退しますという、プレイヤーとしてのエンドという認識。
+&image(listmarker.png,inline)「NPCになるっていう形が、僕が思う無馬かなにとって最適なエンディングだった気がするなぁとは思うね」とのこと。
+#size(50%){　}
+&font(u,b){エンド後裏話}
+&image(listmarker.png,inline)キャラクタースロットごと削除されたかと思われていたが、'25/09/02、本人によりスロットの下の方へ移動させていただけだったと明かされた。
+&image(listmarker.png,inline)何年間も楽しませてもらった恩があるので、定期的にイベントNPC的に手伝う旨を伝えていた。
+&image(listmarker.png,inline)街を出た頃（キャラクターエンド時）にはすでにその後の展開にイベントキャラクターとして再登場することが決まっていた。
+}
+#openclose(show= ＞一時入国について){
+&image(listmarker.png,inline)ストグラフェスで大々的に出たゆえに、「全く出てこないのもか？」ということで予定より少しだけ時期を早めて出ることにした。
+&image(listmarker.png,inline)一時入国した際の内容などについてはそんなにずっと前から決まっていたわけではなかった。
+}
+#openclose(show= ＞Season2参加について){
+&font(u,b){キャラクターの立ち位置}
+&image(listmarker.png,inline)Season1のエンド後（一時入国時）から変わらずイベントキャラクターとしての参加。
+&image(listmarker.png,inline)後々のもののために手伝っている・システムを動かしている、NPCやメッセンジャーのような役割。
+&image(listmarker.png,inline)この街はみんなが主人公。でも無馬かなは主人公にならないしなれない。スピンオフ。
+&image(listmarker.png,inline)「彼はエンドしましたから」「もう終わったんです彼のストーリー。彼が主人公の話は」
+#size(50%){　}
+&font(u,b){立ち回りに関する裏話}
+&image(listmarker.png,inline)プレイヤーとしてちゃんと生活していくみたいなものはあんまり無い。ゆえに4番から資金調達をしている。
+&image(listmarker.png,inline)どういう着地になるのかだけを先に聞いて、それまでの道筋を考えて全部アドリブでやっている。
+}
+#right{&link_anchor(目次){△目次へ}}
+//---<ギャラリー>------------------------------------------------------------------//
+*&font(#e0e0e0){ギャラリー &font(#A4C4E2){&icon_fa(fa fa-picture-o)}}
+#co(){^^^^^^^^^^^^^^^^^^^^^^^^^^
+レイアウトを一行スクロールのままにするつもりなので、今後増えることを考慮し左から最新に配置中。
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+//---Season1-----------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#9370DB,90%){▷ Season1}&nbsp(48)}}
+#openclose(show=＞表示){
+#region(チャンク一覧)&b(){チャンク一覧　&icon_fa(fa fa-spinner fa-pulse)}
+#size(90%){#table_style(head=#F0F0F0:85%:center){}
+|~'24/09/08|~'24/05/07|~'24/03/19|~'24/01/13|~'23/10/30|h
+|~&image(page=無馬　かな/エピソード6,Chunk_5.png,https://clips.twitch.tv/LachrymoseExquisiteHamburgerItsBoshyTime-ExiOOZPub2mb6YHx,X=200,title=やりたいな...)|~&image(page=無馬　かな/エピソード5,Chunk_4.png,https://clips.twitch.tv/LaconicSneakyAdminPraiseIt-HWSKXbXe5RKZyFsG,X=200,title=え？)|~&image(page=無馬　かな/エピソード4,Chunk_3.png,https://clips.twitch.tv/ImpartialMagnificentWasabiBrainSlug-VO-xmxnHk4Dj04Tv,X=200,title=＜●)|~&image(page=無馬　かな/エピソード3,Chunk_2.png,https://clips.twitch.tv/ProductiveRacyCattleKevinTurtle-2hPthFnjVDMLp_3h,X=200,title=みてるぞ)|~&image(page=無馬　かな/エピソード2,Chunk_1.png,https://clips.twitch.tv/AttractiveTangentialSwallowM4xHeh-q15Uimok0onSGqca,X=200,title=利子)|
+|~やりたいな...|~え？|~＜●|~みてるぞ|~利子|
+#table_sorter{even=#F0F0F0,odd=#F0F0F0}
+}
+#endregion(チャンク)
+#size(50%){　}
+//
+#region(ロゴ、ステッカー)&b(){ロゴ、ステッカー}
+#size(90%){#table_style(head=#F0F0F0:85%:center){}
+|MIDDLE:&blankimg(logo_CasinoOwner.png,x=200,y=200)|MIDDLE:&blankimg(page=無馬　かな/エピソード2,logo_Casino.png,x=200,y=200)|MIDDLE:&blankimg(logo_Nashima.png,x=200,y=50)|
+|カジノオーナーロゴ&br()無馬邸のモニターに表示&br()&font(9,#aaa){'24/05/29～}|カジノロゴ&br()Casino01：黒、Casino02：白&br()&font(9,#aaa){'23/10/17～}|なしまステッカー&br()Nashima01：黒、Nashima02：白&br()&font(9,#aaa){'23/10/11～}|
+#table_sorter{even=#F0F0F0,odd=#F0F0F0}
+}
+#endregion(ステッカー)
+#size(50%){　}
+//
+#region(TwiX画像)&b(){TwiX画像}
+#size(90%){#table_style(head=#F0F0F0:85%:center){}
+|~'24/03/04 04:41|~'24/02/19 02:54|~'24/01/25 00:24|~'23/11/10 20:54|~'23/11/04 18:39|~'23/10/30 18:22|~'23/10/22 03:47|~'23/10/12 00:41|~'23/10/11 03:42|~'23/10/09 20:38|~'23/10/09 04:13|~'23/09/30 20:56|~'23/09/30 18:27|~'23/09/29 04:30|~'23/09/15 04:57|~'23/08/26 01:35|h
+|&blankimg(page=無馬　かな/エピソード4,kana_twix_ 24-03-04.png,x=350,y=200)|&blankimg(page=無馬　かな/エピソード3,kana_twix_24-02-19.png,x=350,y=200)|&blankimg(page=無馬　かな/エピソード3,kana_twix_24-01-25.png,x=150,y=200)|&blankimg(page=無馬　かな/エピソード2,twix_23-11-10.png,x=350,y=200)|&blankimg(page=無馬　かな/エピソード2,twix_23-11-04.jpg,x=350,y=200)|&blankimg(page=無馬　かな/エピソード2,twix_23-10-30.png,x=350,y=200)|&blankimg(page=無馬　かな/エピソード2,twix_23-10-22.png,x=350,y=200)|&blankimg(page=無馬　かな/エピソード2,twix_23-10-12.jpg,x=350,y=200)|&blankimg(page=無馬　かな/エピソード2,twix_23-10-11.jpg,x=350,y=200)|&blankimg(page=無馬　かな/エピソード2,twix_23-10-09.jpg,x=350,y=200)|&blankimg(page=無馬　かな/エピソード2,twix_23-10-09_2.jpg,x=350,y=200)|&blankimg(page=無馬　かな/エピソード1,twix_23-09-30_2.jpg,x=350,y=200)|&blankimg(page=無馬　かな/エピソード1,twix_23-09-30.jpg,x=350,y=200)|&blankimg(page=無馬　かな/エピソード1,twix_23-09-29.jpg,x=350,y=200)|&blankimg(page=無馬　かな/エピソード1,twix_23-09-15.png,x=350,y=200)|&blankimg(page=無馬　かな/エピソード1,twix_23-08-26.jpg,x=350,y=200)|
+||&b(){本文：}&br()くまとくま||&b(){本文：}&br()従業員を募集します|&b(){本文：}&br()カジノホイール新車入荷しました！&br()「デカすぎんだろ...」|&b(){本文：}&br()ホイール新しいバイク入れました！&br()こちらも非売品ですのでぜひ！|&b(){本文：}&br()★カジノにＡＴＭ追加されました！|&b(){本文：}&br()★New Jackpot Vehicle&br()『くもさんもくもくカー』|&b(){本文：}&br()★なんと！本日入れた景品が本日当たりました！！&br()ももみさん、おめでとうございます！|&b(){本文：}&br()★大当たりの車が明日から入荷されます！&br()&openclose2(show=＞){今回はプスカ大佐様がデザインをしてくださいました！&br()それに伴ってホイールの値段が15000に変更になりますので&br()ご注意ください！}|&b(){本文：}&br()★ルーレット大当たり！★&br()けっつん太郎様、vehicle大当たりおめでとうございます！|&b(){本文：}&br()★カジノからお知らせ&br()&openclose2(show=＞){ラッキーホイールに車入荷しました！&br()今回は1回1万チップで回せます！&br()ぜひ当ててください～！}|&b(){本文：}&br()★カジノからお知らせ&br()&openclose2(show=＞){&br()・更衣室が追加されました！&br()・BlackJackのVIP以外のテーブルの掛け金上限が上がりました。&br()緑は500万 青は100万までいけます。}|&b(){本文：}&br()ちる。|&b(){本文：}&br()借りた金はちゃんと返せ。|&b(){本文：}&br()警官がイキって山から下りて死んで&br()とんでもないことになっててワロタです。|
+#table_sorter{even=#F0F0F0,odd=#F0F0F0}
+}
+#endregion(ツイート画像)
+#size(50%){　}
+//
+#region(モチーフアイテム)&b(){モチーフアイテム}
+#table_style(head=#F0F0F0:85%:center){}
+|~[[名無しのナイフ>奇肉屋#名無しのナイフ]]|~なしま吸い|~無馬記念和三盆|~NASHIMAND|~なしまうどん|~[[立派なナイフ>奇肉屋#立派なナイフ]]|~&ruby(ダイヤモンドカクテル){[[DIAMOND COCKTAIL>Abelia#DIAMOND COCKTAIL]]}|~&ruby(なしぬい){[[NASHINUI>鬼野　ねね#NASHINUI]]}|~&ruby(なしまチョコ){NASIMA CHOCO}|~&ruby(ナッシー){[[NASSI>KoKo七番屋#NASSI]]}|~&ruby(なしま　カクテル){[[NASHIMA COCKTAIL>Abelia#NASHIMA COCKTAIL]]}|
+|~&blankimg(page=奇肉屋,立派なナイフ詳細.PNG,x=150,y=150)|~&blankimg(page=無馬　かな/エピソード6,NashimaKinen_nashimasui.png,x=150,y=150)|~&blankimg(page=無馬　かな/エピソード6,NashimaKinen_wasanbon.jpg,x=150,y=150)|~&blankimg(https://pbs.twimg.com/media/GeUFbqpbwAABiZQ?format=jpg,x=150,y=150)|~&blankimg(page=無馬　かな/エピソード6,NashimaKinen_udon.png,x=150,y=150)|~&blankimg(page=奇肉屋,立派なナイフ詳細.PNG,x=150,y=150)|~&blankimg(https://pbs.twimg.com/media/GS_Hx1caoAAnUtx?format=jpg,x=150,y=200)|~&blankimg(https://pbs.twimg.com/media/GSD4kRdaoAAlSed?format=png,x=182,y=200)|~&blankimg(page=無馬　かな/エピソード3,NASIMACHOCO.png,x=150,y=150)|~&blankimg(page=KoKo七番屋,KoKo七番屋_Item_NASSI.png,x=140,y=200)|~&blankimg(https://pbs.twimg.com/media/F9ZJvM_akAAblX_?format=jpg,x=119,y=200)|
+|&small(){[[奇肉屋]]の立派なナイフを気に&br()入った無馬が常設化を依頼。&br()ストレス軽減が追加された。&br()}&br()&font(9,#aaa){Relax　'24/12/08～}|&small(){[[Yadorigi]]から発売された&br()無馬記念コラボ限定品。&br()&br()}&br()&font(9,#aaa){Relax　'24/12/08～}|&small(){[[よすが]]から発売された&br()無馬記念コラボ限定品。&br()&br()}&br()&font(9,#aaa){food　'24/12/08～}|&small(){[[麻SICK RECORDS]]の&br()無馬記念コラボ限定品。&br()&ruby(Armand){とある高級シャンパンの}&br()名前のもじりでもある。}&br()&font(9,#aaa){drink　'24/12/08～}|&small(){[[はままるうどん]]発売の&br()無馬記念コラボ限定品。&br()&br()}&br()&font(9,#aaa){food　'24/12/08～}|&small(){無馬記念コラボの限定品&br()[[奇肉屋]]ガチャのSRとして登場。&br()無馬をイメージしたカラーの&br()ナイフ。}&br()&font(9,#aaa){Relax　'24/12/08～}|&small(){カジノバー[[Abelia]]の商品。&br()時間経過で表情が変わるカクテル。&br()無馬をイメージした青色とマスク柄&br()のコインチョコが第一印象。}&br()&font(9,#aaa){drink　'24/07/20～}|&small(){[[秘書>鬼野　ねね]]からの頂き物。&br()[[武器屋>FEMME FATALE]]開業祝いとして贈られた。&br()差分も存在していたとの噂。&br()}&br()&font(9,#aaa){joint　'24/07/09～}|&small(){カジノオーナーモチーフの&br()バレンタイン返礼品。&br()気を利かした[[秘書>鬼野　ねね]]が用意。&br()}&br()&font(9,#aaa){food　'24/02/14～}|&small(){カレー屋[[KoKo七番屋]]の商品。&br()無馬のマスク顔に飾り切られた&br()梨が添えられた梨ラッシー。&br()[[マック>ライトスターボーイ]]さんの一声で作られた。}&br()&font(9,#aaa){drink　'24/01/17～}|&small(){カジノバー[[Abelia]]の商品。&br()バーテンダーの[[鳥羽>鳥羽　咲夜]]さん&br()による従業員オリカク。&br()シンプルさがお気に入り}&br()&font(9,#aaa){drink　'23/11/04～}|
+#table_sorter{even=#F0F0F0,odd=#F0F0F0}
+#endregion(モチーフ)
+#size(50%){　}
+//
+#region(保管アイテム（END車の中）)&b(){保管アイテム（END車の中）}
+&image(listmarker.png,inline)宝物補完用としてENDと名付けられた車の中のアイテム。
+&image(listmarker.png,inline)街を出る前に確認したところ、歪み等で中身はほとんど消えてしまっていた。
+&font(i,gray){「思い出ももう全部期限切れって感じだな」}
+
+#table_style(head=#F0F0F0:80%:center){}
+|~BUSINESS CARD|~BUSINESS CARD|~FLYER|~FLYER|~PLUSH 6|
+|~&blankimg(page=無馬　かな/エピソード3,BusinessCard.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,BusinessCard.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,FLYER.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,FLYER.png,x=80,y=80)||
+|&small(){&br()}&br()&font(9,#aaa){'24/00/00}|&small(){&br()}&br()&font(9,#aaa){'24/00/00}|&small(){&br()}&br()&font(9,#aaa){'24/00/00}|&small(){&br()}&br()&font(9,#aaa){'24/00/00}|&small(){[[ボス>Mon　D]]から貰った&br()遊園地の景品}&br()&font(9,#aaa){'23/10/30}|
+|~BUSINESS CARD|~BUSINESS CARD|~FLYER|~FLYER|~PLUSH 5|
+|~&blankimg(page=無馬　かな/エピソード3,BusinessCard.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,BusinessCard.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,FLYER.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,FLYER.png,x=80,y=80)||
+|&small(){&br()}&br()&font(9,#aaa){'24/00/00}|&small(){&br()}&br()&font(9,#aaa){'24/00/00}|&small(){&br()}&br()&font(9,#aaa){'24/00/00}|&small(){&br()}&br()&font(9,#aaa){'24/00/00}|&small(){[[ボス>Mon　D]]から貰った&br()遊園地の景品}&br()&font(9,#aaa){'23/10/30}|
+|~R USAGISAN|~R RURU|~R AGEKORO|~R JEFFRY|~SABUROU NUI|
+|~&blankimg(page=無馬　かな/エピソード3,R USAGI.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,R RURU.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,R AGEKORO.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,R JEFFREY.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,SaburouNui.png,x=80,y=80)|
+|&small(){[[カニメイト]]の&br()[[BMC>Bear Moon Custom]]ガチャ景品。}&br()&font(9,#aaa){'24/00/00}|&small(){[[カニメイト]]の&br()[[BMC>Bear Moon Custom]]ガチャ景品。}&br()&font(9,#aaa){'24/00/00}|&small(){[[カニメイト]]の&br()[[BMC>Bear Moon Custom]]ガチャ景品。}&br()&font(9,#aaa){'24/00/00}|&small(){[[カニメイト]]の&br()[[BMC>Bear Moon Custom]]ガチャ景品。}&br()&font(9,#aaa){'24/00/00}|&small(){[[さぶちゃん>安保　さぶ郎]]からの&br()ぬい}&br()&font(9,#aaa){'24/00/00}|
+|~NENE FLOWER|~TOBA COCKTAIL|~N PUSUKA|~N JEFFREY|~HORY SWORD KEY|
+|~&image(page=無馬　かな/エピソード5,NENE_flower.png,https://img.atwiki.jp/streamergta5/attach/1212/18825/NENE_flower2.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,TOBACocktail.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,N PUSKA.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,N JEFFREY.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,HolySwordKey.png,x=80,y=80)|
+|&small(){[[ねね>鬼野　ねね]]からの花束。&br()[[ARCANA]]の母へ}&br()&font(9,#aaa){'24/05/12}|&small(){[[咲夜さん>鳥羽　咲夜]]の&br()従業員カクテル}&br()&font(9,#aaa){'24/00/00}|&small(){[[カニメイト]]の&br()[[BMC>Bear Moon Custom]]ガチャ景品。}&br()&font(9,#aaa){'24/00/00}|&small(){[[カニメイト]]の&br()[[BMC>Bear Moon Custom]]ガチャ景品。}&br()&font(9,#aaa){'24/00/00}|&small(){[[魔法少女カフェ>RitUal:]]の&br()聖剣キーホルダー}&br()&font(9,#aaa){'24/00/00}|
+|~KOGETUKI STICKER|~T-SHIRT KOGEMURA|~BUSINESS CARD|~VF SPECIAL CIGARET|~NAKANAORI CURRY|
+|~&blankimg(page=無馬　かな/エピソード3,KOGETSUKI STICKER.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,T-SHIRT KOGEMURA.png,x=80,y=80)|~&image(page=無馬　かな/エピソード3,BusinessCard.png,https://img.atwiki.jp/streamergta5/attach/1677/18806/NENE_Letter.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,VF SPECIAL CIGARET.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,NAKANAORI CURRY.png,x=80,y=80)|
+|&small(){[[焦村家]]で貰った&br()}&br()&font(9,#aaa){'24/02/13}|&small(){[[焦村家]]で貰った&br()}&br()&font(9,#aaa){'24/02/13}|&small(){[[ねね>鬼野　ねね]]から感謝の手紙&br()}&br()&font(9,#aaa){'24/05/12}|&small(){&br()}&br()&font(9,#aaa){'24/00/00}|&small(){エスとツルギの&br()仲直り記念カレー}&br()&font(9,#aaa){'24/00/00}|
+|~KUMA CHOCO|~NENECHOCO|~ALLIN CHOCOLATE|||
+|~&blankimg(page=無馬　かな/エピソード3,KUMA CHOCO.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,NENECHOCO.png,x=80,y=80)|~&blankimg(page=無馬　かな/エピソード3,ALLINCHOCO.png,x=80,y=80)|||
+|&small(){合コンで[[くまちゃん>メリー・クロース]]&br()から貰ったチョコ。}&br()&font(9,#aaa){'24/02/13}|&small(){[[ねね>鬼野　ねね]]から貰った&br()バレンタインチョコ}&br()&font(9,#aaa){'24/02/14}|&small(){[[ボス>Mon　D]]からの&br()バレンタインチョコ}&br()&font(9,#aaa){'24/02/14}|&small(){&br()}&br()&font(9,#aaa){}|&small(){&br()}&br()&font(9,#aaa){}|
+#table_sorter{even=#F0F0F0,odd=#F0F0F0}
+#co(){
+&image(listmarker.png,inline)Bossバッグの中
+}
+#endregion(宝物)
+}
+//---Season1-----------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#9370DB,90%){▷ Season2}&nbsp(48)}}
+
+
+#co(){^^^^^テンプレ^^^^^^^^^^
+
+|~&ruby(^^^){[[^^^>^^^]]}|
+|~&blankimg(^^,x=^^^,y=200)|
+|&small(){^^^&br()^^^}&br()&font(9,#aaa){'24/^^/^^～}|
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+#right{&link_anchor(目次){△目次へ}}
+//---<服装一覧>------------------------------------------------------------------//
+*&font(#e0e0e0){外見情報 &font(#A4C4E2){&icon_fa(fa-brands fa-black-tie)}}
+**服装
+//---Season1-----------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#9370DB,90%){▷ Season1}&nbsp(48)}}
+#openclose(show=＞表示){
+****&underdot(#ACC2DF,3px){&font(15,#666){◆ クローゼット&nbsp()}}
+#region(衣服,open)&b(){衣服}
+#table_style(head=#F0F0F0:85%:center){}
+|~&blankimg(page=無馬　かな/エピソード2,kana_GraySuit.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_Black_T-shirt.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード5,kana_ArcanaUni_suit.png,x=111,y=250)|
+|~スーツ|~a|~Arcana 正装|
+|&font(10){[[ALLIN]]時代のスーツ。&br()}&br()&font(9,#aaa){'25/05/25～'25/05/25}|&font(10){落ち着く夏服。&br()}&br()&font(9,#aaa){'25/05/14～'25/05/25}|&font(10){[[ARCANA]]活動中に着る&br()フォーマルな服装。}&br()&font(9,#aaa){'24/05/20～'25/05/25}|
+#table_zebra(#F0F0F0,#F0F0F0)
+#endregion(現行)
+//
+****&underdot(#ACC2DF,3px){&font(15,#666){◆ 過去一覧&nbsp()}}
+#region(過去の衣服)&b(){過去の衣服}
+#table_style(head=#F0F0F0:85%:center){}
+||~&blankimg(page=無馬　かな/エピソード7,Kana_winterStyle.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_MOZU-like.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_MOZU.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_Doctor.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_anbrella.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_Referee.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_ALLIN.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_Dr.K2.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_TOPGEAR.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_Black_T-shirt.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード5,kana_ArcanaUni_battle.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード5,kana_ArcanaUni_casual.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード2,kana_Osoro_esu.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード2,kana_Casino.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード2,kana_GraySuit.png,x=105,y=250)|~&blankimg(page=無馬　かな/エピソード4,kana_ShiroHappi.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード4,kana_White.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード5,kana_knitwear.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_Coveralls.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード4,kana_KuroHappi.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード4,kana_BlackSuit.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード4,kana_BlackSuit2.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード4,kana_pa-ka-.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード3,kana_goukon.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード3,kana_Casino2.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード4,kana_shujin.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード4,kana_wolf.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード4,kana_cat.png,x=111,y=250)|||~&blankimg(page=無馬　かな/エピソード3,kana_WinterCoat.png,x=111,y=250)|~&blankimg(kana_jeans.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード2,kana_BattleCloth.png,x=111,y=250)|||~&blankimg(page=無馬　かな/エピソード2,kana_BlackChina.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_mitsuami.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_Dr.K.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_ShortHair.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_Office.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_China.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_Père Noël.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_burger_T-shirt.png,x=111,y=250)|
+|~コスプレ|~冬|~MOZUっぽい|~MOZU|~個人医|~餡ブレラ|~審判|~ALLIN|~白法被|~TOPGEAR|~普段着|~私服1|~Arcana 戦闘|~Arcana 普段着|~&font(){カジノ}|~昔のスーツ|~白法被|~普段着|~ニット|~作業着|~黒法被|~黒スーツ|~黒スーツ(上着なし)|~パーカー|~部屋着|~カジノ2|~イベント囚人|~個人医|~個人医|~オーバーオール|~レース|~普段着|~普段着|~特殊装備|~戦闘服③|~戦闘服②|~戦闘服①|~普段着|~闇医者|~普段着|~オフィス|~チャイナ|~Père Noël制服|~普段着|
+|&font(10){スマホに送られていた&br()番号で制作。[かな かな]}&br()&font(9,#aaa){'25/02/25～'25/03/23}|&font(10){寒さを凌ぐ冬服。&br()}&br()&font(9,#aaa){'25/01/26～'25/03/23}|&font(10){[[MOZU]]の制服に&br()寄せた黒スーツ。}&br()&font(9,#aaa){'24/10/18～'25/03/23}|&font(10){[[MOZU]]傭兵服。&br()}&br()&font(9,#aaa){'24/10/18～'25/03/23}|&font(10){[[個人医]]活動用の服。&br()安定の白T。}&br()&font(9,#aaa){'24/09/25～'25/03/23}|&font(10){[[餡ブレラ]]傭兵服。&br()}&br()&font(9,#aaa){'24/09/13～'25/03/23}|&font(10){賭けサッカー主催時の&br()審判服。}&br()&font(9,#aaa){'24/09/13～'25/03/23}|&font(10){[[ALLIN]]傭兵服。&br()}&br()&font(9,#aaa){'24/09/08～'25/03/23}|&font(10){懐かしのドクターK服。&br()[[個人医]]時に利用。}&br()&font(9,#aaa){'24/09/08～'25/03/23}|&font(10){[[TOPGEAR]]傭兵服。&br()}&br()&font(9,#aaa){'24/09/05～'25/03/23}|&font(10){黒市民へ復帰した姿。&br()}&br()&font(9,#aaa){'24/09/05～'25/03/23}|&font(10){懐かしの特殊戦闘服。&br()銃を持つ際に着用。}&br()&font(9,#aaa){'24/05/20～'25/03/23}|&font(10){[[ARCANA]]活動中に着る&br()カジュアルな服装。}&br()&font(9,#aaa){'24/05/20～'25/03/23}|&font(10){[[エス>エスターク・Z・ダークネス]]とのお揃い服&br()柄のキャラがお気に}&br()&font(9,#aaa){'23/10/10～'25/03/23}|&font(10){[[カジノ]]支配人制服&br()}&br()&font(9,#aaa){'23/10/08～'25/03/23}|&font(10){[[ALLIN]]時代の正装。&br()コードネームはJoker}&br()&font(9,#aaa){'23/08/31～'25/03/23}|&font(10){[[個人医]]無馬時の白服。&br()}&br()&font(9,#aaa){'24/04/03～'24/09/08}|&font(10){マスクを外した姿。&br()白として生きるための服}&br()&font(9,#aaa){'24/04/30～'24/09/05}|&font(10){&br()}&br()&font(9,#aaa){'24/05/20～'24/09/05}|&font(10){[[武器屋>FEMME FATALE]]で作業する際に&br()よく着る作業服}&br()&font(9,#aaa){'24/05/20～'24/09/05}|&font(10){[[ギャング>ALLIN]]逃亡後の普段着&br()}&br()&font(9,#aaa){'24/04/03～'24/05/20}|&font(10){フォーマルな装い&br()}&br()&font(9,#aaa){'24/03/26～'24/05/20}|&font(10){フォーマルな装い②&br()}&br()&font(9,#aaa){'24/03/26～'24/05/20}|&font(10){サバゲーなどの&br()カジュアルな場に}&br()&font(9,#aaa){'24/03/26～'24/05/20}|&font(10){合コンデート用に&br()作った春服}&br()&font(9,#aaa){'24/02/13～'24/05/20}|&font(10){カジノバーの雰囲気に&br()寄せたカジノ制服2}&br()&font(9,#aaa){'23/02/03～'24/05/20}|&font(10){[[イベント>らびすぴ#イベント会社「らびすぴ」]]ゲスト服&br()強そうな囚人役}&br()&font(9,#aaa){'24/03/24～'24/03/26}|&font(10){[[個人医]]復帰にて用意した&br()白服③。狼}&br()&font(9,#aaa){'24/03/19～'24/03/24}|&font(10){[[個人医]]復帰にて用意した&br()白服②。猫。にゃしま}&br()&font(9,#aaa){'24/03/19～'24/03/24}|&font(10){私服の一つ}&br()&font(9,#aaa){～'24/03/24}|&font(10){レース用の服&br()レーサー名:サムライ}&br()&font(9,#aaa){～'24/03/24}|&font(10){シックな冬服&br()}&br()&font(9,#aaa){'24/02/03～'24/03/24}|&font(10){シャツ+ジーンズ&br()}&br()&font(9,#aaa){～'24/02/03}|&font(10){ギャング服でない戦闘服&br()傭兵用。部隊名はSplit}&br()&font(9,#aaa){'23/11/05～'24/03/24}|&font(10){[[ALLIN]]戦闘服③&br()黒チャイナ+首飾り}&br()&font(9,#aaa){～'24/03/24}|&font(10){[[ALLIN]]戦闘服②&br()青チャイナ+首飾り}&br()&font(9,#aaa){}|&font(10){[[ALLIN]]戦闘服①&br()全身黒のチャイナ服}&br()&font(9,#aaa){'23/11/29～}|&font(10){三つ編みヘアーの&br()普段着}&br()&font(9,#aaa){'23/09/10～}|&font(10){[[ドクターK>無馬　かな/キャラクター#ドクターK]]の固定服。&br()チャイナ変装を流用。}&br()&font(9,#aaa){'23/08/24～}|&font(10){ギャング初期の普段着&br()魂の姿によく似ている}&br()&font(9,#aaa){'23/08/24～}|&font(10){ギャング初期頃の&br()フォーマルな服装}&br()&font(9,#aaa){'23/08/31～}|&font(10){黒の中華風服。&br()初の青マスク姿。}&br()&font(9,#aaa){'23/08/31～}|&font(10){店員服。上下黒から変更&br()髪は纏めてお団子に。}&br()&font(9,#aaa){'23/08/23～'23/09/16}|&font(10){街に来てすぐの普段着&br()なしまバーガー}&br()&font(9,#aaa){'23/08/16～'23/08/24}|
+#table_zebra(#F0F0F0,#F0F0F0)
+#endregion(過去衣装)
+#size(50%){　}
+//
+#region(別名義)&b(){別名義}
+#table_style(head=#F0F0F0:85%:center){}
+|~&blankimg(page=無馬　かな/エピソード1,Kana_Nashijima.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード2,kana_Rippa.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード4,kana_Dr.Bongore.png,x=111,y=250)|
+|~ナシジマ カオル|~ジャック・ザ・立派|~ドクターBONGORE|
+|&font(10){「闇金ナシジマくん」。&br()法外な利子の金貸し&br()&font(9,#aaa){'23/09/10～'25/03/23}}|&font(10){4:55に旧[[PY>Project Y]]に現れる悪魔&br()}&br()&font(9,#aaa){'23/10/12～'25/03/23}|&font(10){癖の強い[[個人医]]。&br()}&br()&font(9,#aaa){'24/03/19～'25/03/23}|
+#table_zebra(#F0F0F0,#F0F0F0)
+#endregion(偽名)
+#size(50%){　}
+//
+#region(過去の変装)&b(){過去の変装}
+#table_style(head=#F0F0F0:85%:center){}
+|~&blankimg(page=無馬　かな/エピソード4,kana_AndMichael.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード6,kana_Santa.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_KokoroNaki.png,x=111,y=250)||~&blankimg(page=無馬　かな/エピソード2,kana_Firefighter.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード2,kana_StaffZaurus.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード2,kana_Animals.png,x=111,y=250)||~&blankimg(page=無馬　かな/エピソード2,kana_imai.png,x=111,y=250)||~&blankimg(page=無馬　かな/エピソード1,kana_Honkan.png,x=111,y=250)||~&blankimg(page=無馬　かな/エピソード1,kana_alien.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_hito.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_Cloud.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_burger.png,x=118,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_Shotaro.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_CrimeHelmet.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_Police.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_Sok.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_Kanakura.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_J.Kannor.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_ChaseMan.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_tonakai.png,x=118,y=250)|~&blankimg(page=無馬　かな/エピソード1,kana_Elsa.png,x=111,y=250)|
+|~空き巣|~使い捨て|~心無き変装|~警察|~消防士|~店員ザウルス|~ANIMALS|~殺人鬼|~今井 信二|~ドビー|~本官|~ゴーストライダー佐藤|~えいりあん わたし|~ヒ ト|~シンラ ヘイ|~覚悟バーガー|~ショータロー|~犯罪ヘルメット|~警察風|~カナソック|~かな倉 小十郎|~ジョン カナー|~だれよりもはやく Y|~トナカイ トカナイ|~カナ エルサ|
+|&font(10){[[空き巣協会>音鳴　ミックス#空き巣協会]]の正装&br()アンド ミカエル&br()&font(9,#aaa){'24/04/09～'25/03/23}}|&font(10){絶対バレない&br()汚れたサンタ服&br()&font(9,#aaa){'24/03/28～'25/03/23}}|&font(10){心無き風変装②&br()心なしま。&br()&font(9,#aaa){'23/09/21～'25/03/23}}|&font(10){&br()}&br()&font(9,#aaa){～'24/05/20}|&font(10){消防隊コスプレ&br()ラートム}&br()&font(9,#aaa){'23/11/06～'24/05/20}|&font(10){[[ARCANA]]所有コンビニ&br()でのバイト姿}&br()&font(9,#aaa){～'24/05/20}|&font(10){犯罪ストリーマー集団&br()の服。動物マスク姿&br()&font(9,#aaa){'23/11/19～'24/05/20}}|&font(10){通り魔をするときの服&br()得物はナイフ}&br()&font(9,#aaa){'23/11/06～}|&font(10){衛星外薬練りの姿&br()キャバに行ったことも}&br()&font(9,#aaa){'23/11/28～'24/02/13}|&font(10){[[スネイブ先生>安城　成]]対面時の姿&br()タイツ変装を流用。&s(){立派}}&br()&font(9,#aaa){'23/10/07～}|&font(10){警官の変装&br()よく市民を騙していた}&br()&font(9,#aaa){'23/08/31～}|&font(10){佐藤の発音はさとぅ。&br()骸骨フェイスが特徴。}|&font(10){[[緑えいりあん>R　B]]も存在。&br()人質、銀行強盗経験あり&br()&font(9,#aaa){'23/09/22～}}|&font(10){心無き市民風の変装。&br()パレト最速保持者。&br()&font(9,#aaa){'23/09/21～}}|&font(10){"神羅兵クラウド"という&br()ニッチなコスプレ。&br()&font(9,#aaa){'23/09/11～'23/11/03}}|&font(10){普段着+バーガーマスク。&br()バイクチェイスが得意。&br()&font(9,#aaa){'23/08/24～'23/11/03}}|&font(10){未実装の超バイク用服&br()結局実装されず破棄。}&br()&font(9,#aaa){'23/08/24～}|&font(10){真っ黒な犯罪用変装。&br()}&br()&font(9,#aaa){'23/08/23～}|&font(10){警察っぽい変装。&br()}&br()&font(9,#aaa){'23/08/24～'23/08/28}|&font(10){空き巣用の変装。&br()某警備会社風。}&br()&font(9,#aaa){'23/08/18～'23/08/24}|&font(10){倒幕派の侍。時代考証・&br()語尾共に怪しめ。&br()&font(9,#aaa){'23/08/20～'23/08/21}}|&font(10){某映画子役に似た変装。&br()ママを探している。}&br()&font(9,#aaa){'23/08/18～'23/08/20}|&font(10){別名チェイスマン。&br()Yは警官[[千代田ヨウ>千代田　ヨウ]]のY}&br()&font(9,#aaa){'23/08/18～'23/08/20}|&font(10){変装がバレて用意した&br()トナカイの着ぐるみ。}&br()&font(9,#aaa){'23/08/17～'23/08/20}|&font(10){初の変装・偽名。&br()某映画風な雪だるま。&br()&font(9,#aaa){'23/08/16～'23/08/20}}|
+#table_zebra(#F0F0F0,#F0F0F0)
+#endregion(過去変装)
+}
+//---Season2-----------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#9370DB,90%){▷ Season2}&nbsp(48)}}
+****&underdot(#ACC2DF,3px){&font(15,#666){◆ クローゼット&nbsp()}}
+#region(衣服,open)&b(){衣服}
+#table_style(head=#F0F0F0:85%:center){}
+|~&blankimg(page=無馬　かな/エピソード8,kanaS2_BlueMask.png,x=111,y=250)|~&blankimg(page=無馬　かな/エピソード5,kana_ArcanaUni_suit.png,x=111,y=250)||
+|~仮面|~Arcana||
+|&font(10){いつもの青マスク。&br()}&br()&font(9,#aaa){'25/12/24～}|&font(10){[[ARCANA]]活動中の服。&br()}&br()&font(9,#aaa){'25/12/24～}|&font(10){機動隊に見えそうな&br()犯罪服。}&br()&font(9,#aaa){'24/12/26～}|
+#table_zebra(#F0F0F0,#F0F0F0)
+#endregion(現行)
+//--------------------------------
+**その他
+***&underdot(#ACC2DF,3px){&font(15,#666){◆ メイク系&nbsp()}}
+#region(タトゥー,remember)&b(){タトゥー}
+#table_style(head=#F0F0F0:85%:center){}
+|~&blankimg(page=無馬　かな/エピソード4,tattoo_neck.png,x=150,y=150)|~&blankimg(page=ARCANA,Arcana_tattoo.png,x=150,y=150)|
+|~ARCANA(首元)|~ARCANA(背中)|
+|&font(10){ARCANA幹部のタトゥー。&br()}&br()&font(9,#aaa){'24/04/30～}|&font(10){ARCANA幹部タトゥー。背中は&br()模様を見せるためのサンプル。}&br()&font(9,#aaa){'24/04/30～}|
+#table_zebra(#F0F0F0,#F0F0F0)
+#endregion(メイク)
+#size(50%){　}
+//
+#co(){
+#region(ネイル,remember)&b(){ネイル}
+#endregion(ネイル)
+}
+//
+#right{&link_anchor(目次){△目次へ}}
+//---<車両情報>------------------------------------------------------------------//
+*&font(#e0e0e0){車両情報 &font(#A4C4E2){&icon_fa(fa fa-car)}}
+//---Season1-----------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#9370DB,90%){▷ Season1}&nbsp(48)}}
+#openclose(show=＞表示){車を持ちすぎていたため整理を決行。→'24/10/31 完
+#openclose(show= ＞整理について){
+&image(listmarker.png,inline)元々の不要なものを持ちたくない性格と、何かあった時にすぐ動けるように始めた身辺整理にて、所持していた大量の車両を手放すことを決める。
+&image(listmarker.png,inline)整理を始めた当初は、店舗横の無人買取場へ売る予定だったが、PYC店員らによる「そこに売るくらいなら私に売って」の一言で、街の住人への売却予定に切り替えた。
+&image(listmarker.png,inline)下準備として全修理しレギオンへ集約。必要車と不要車の仕分けをし、普段使いのものには◎、残しておく車には〇、売却予定の物には✕マークが付けられた。
+&image(listmarker.png,inline)'24/10/31：おにんじん号に関してはお世話になった気持ちとして、それ以外の車両については「お金をもらっても仕方ない」という理由で[[パキち>パキ　ち]]へ無償譲渡。
+}
+//
+****&underdot(#ACC2DF,3px){&font(15,#666){◆ 所有車両&nbsp()}}
+#region(自動車)
+#size(90%){#table_color(#A4C4E2,#ffffff){車両名=b,整理時=center,購入元・カスタム担当=11px}
+#table_filter(){画像=show,車種=show,メーカー=hide,車両名=show,入手日=show,詳細=show,整理時=hide,購入元・カスタム担当=show}
+|~画像|~車種|~メーカー|~車両名|~入手日|~詳細|~整理時|~購入元・カスタム担当|h
+||🚗&br()&small(){CCT}|BF|[[Club>>https://w.atwiki.jp/gtav/pages/2602.html]]&br()✎ &font(11){ＥＮＤ}|'23/11/26|薬売却用に売却量と同じ150積載車の中で最優良車として注文購入。&br()→現在は人から貰った大事なものを保管するのに使用。|✕|購入：[[ルウ>ルウ　ギャラクティカ]]&br()カスタム：[[ルウ>ルウ　ギャラクティカ]]|
+|&blankimg(page=無馬　かな/エピソード2,kana_car_Zeno.png,x=70,y=40)|🚗&br()|Överflöd|[[Zeno>>https://w.atwiki.jp/gtav/pages/2732.html]]&br()✎ &font(11){}|'23/12/29|100年後の世界で見た目を気に入り購入。&br()犯罪には使わず普段使いの車として愛用。|◎|購入：[[てつお>切間　てつお]]&br()カスタム：[[揚物>揚物　ころも]]|
+||🏎&br()&small(){Super}|Grotti|[[X80 Proto>>https://w.atwiki.jp/gtav/pages/1635.html]]&br()✎ &font(11){}|'24/01/17|[[ボス>Mon　D]]が愛用していた10億のスーパーカー。&br()ボスが乗らなくなったため、カジノ景品として7億で買い取った。&br()街を出る直前まで乗っていた車。|✕|購入：-&br()カスタム：-|
+||🏍&br()&small(){MOTO}|Pegassi|[[Bati 901>>https://www.gta5-mods.com/vehicles/pegassi-bati-901-add-on-tuning-sounds-lods]]&br()✎ &font(11){}|'25/02/23|性能のいいバイクという注文で購入したバイク。&br()評価ポイントは二人乗り。|-|購入：[[猪狩 翔太>猪狩　翔太]]&br()カスタム：-|
+||🏍&br()&small(){MOTO}|Nagasaki|[[Shinobi Outlaw>>https://www.gta5-mods.com/vehicles/nagasaki-shinobi-outlaw-add-on-lod-s]]&br()✎ &font(11){}|'25/02/23|性能のいいバイクという注文で購入したバイク2。&br()評価ポイントはウィリー。|-|購入：[[猪狩 翔太>猪狩　翔太]]&br()カスタム：-|
+|&blankimg(page=無馬　かな/エピソード7,car_Election.png,x=70,y=40)|&br()&small(){}||投票用街宣車&br()✎ &font(11){選挙カー無馬様用}|'25/02/27|選挙用に配られた選挙カー。&br()マックさんが市長補佐から受け取ってくれた。&br()[[ウェスカーさん>アルフォート　ウェスカー]]のために起こしたお遊び警察署襲撃でも使用。|-|購入：-&br()カスタム：-|
+#table_sorter{even=#f7f7f7,odd=#fff}}
+#endregion(自動車)
+#size(50%){　}
+//
+#region(航空機・船)
+#size(90%){#table_color(#A4C4E2,#ffffff){車両名=b,購入元・カスタム担当=11px}
+#table_filter(){画像=hide,車種=show,メーカー=hide,車両名=show,入手日=show,詳細=show,購入元・カスタム担当=show}
+|~画像|~車種|~メーカー|~車両名|~入手日|~詳細|~購入元・カスタム担当|h
+||✈️&br()|Buckingham|[[Alpha-Z1>>https://w.atwiki.jp/gtav/pages/1834.html]]|'23/10/23|定価10億の小型飛行機。&br()在庫を抱えていた[[鳥野>鳥野　ぎん]]と交渉し、7.5億で購入。|購入：[[鳥野>鳥野　ぎん]]&br()カスタム：-|
+||🚁&br()||[[Sparrow>>https://w.atwiki.jp/gtav/pages/2654.html]]|'23/10/27|スピードに優れた2人乗りの小型ヘリ。&br()白井に借りていたが、思ったより気に入ったため自前で購入。|購入：[[成瀬>成瀬　力二]]&br()カスタム：-|
+||🛥&br()|Speedophile|[[Seashark>>https://w.atwiki.jp/gtav/pages/584.html]]&br()✎ &font(11){赤,赤,灰,黒,桃}|'23/10/30|海上移動用のジェットスキー。5隻まとめて購入。|購入：[[命田>命田　守]]&br()カスタム：-|
+||🚁&br()|Buckingham|[[Volatus>>https://w.atwiki.jp/gtav/pages/1633.html]]|'24/04/23|市販ヘリの中では最高峰の機動力を誇る大型高速ヘリ。|購入：[[ふでこ>くまの　ふでこ]]&br()カスタム：-|
+||⛵&br()|||'25/03/23|ボスの最後を見送るため、白井さんから借りたヨット。|購入：-&br()カスタム：-|
+#table_sorter{even=#f7f7f7,odd=#fff}}
+#endregion
+//
+***&underdot(#ACC2DF,3px){&font(15,#666){◆ 過去車両&nbsp()}}
+#region(貸出)
+#size(90%){#table_color(#A4C4E2,#ffffff){車両名=b,購入元・カスタム担当=11px}
+#table_filter(){画像=hide,車種=show,メーカー=hide,車両名=show,入手日=show,詳細=show,購入元・カスタム担当=show}
+|~画像|~車種|~メーカー|~車両名|~入手日|~詳細|~購入元・カスタム担当|h
+||🏎&br()|Vysser|Neo|'23/09/07|A帯レース参加用に購入。ピーキーな性能だが「顔」が気に入り選んだ。ゲンガー。&br()→[[鬼野　ねね]]の運転練習用に無期限貸与。|購入：[[天王寺>天王寺　京司郎]]&br()カスタム：[[天王寺>天王寺　京司郎]]、[[ボア>ボア　セニャコック]]、[[ルウ>ルウ　ギャラクティカ]]、[[ヘルアン]]|
+||🚗&br()|Dundreary|Virgo Custom|'23/10/18|カジノ景品用に[[有坂　誉]]から譲り受けたBoosting限定クラシックマッスルカー。&br()11/7カジノ景品として仕上げるため[[BIG　SUZUKI]]にカスタム依頼中。|購入：非売品&br()カスタム：-|
+||🚁&br()|Nagasaki|Havok|'23/09/20|1人乗りの豆ヘリ。Alpha割引交渉の謝礼として購入。かわいい形が気に入った。&br()→10/23[[鬼野ねね>鬼野　ねね]]のヘリ練習用に貸与。→1/9[[上田>上田　さん]]のロケラン制作移動手段として貸与。|購入：[[鳥野>鳥野　ぎん]]&br()カスタム：-|
+||🚁&br()|Unknown|Sparrow|'24/01/09|部下のロケラン制作移動手段として購入。[[鬼野　ねね]]から豆ヘリを回収した後貸与。|購入：[[成瀬>成瀬　力二]]、[[青井>青井　らだお]]&br()カスタム：-|
+#table_sorter{even=#f7f7f7,odd=#fff}}
+#endregion(貸出)
+#size(50%){　}
+//
+#region(過去車両)
+#size(90%){#table_color(#A4C4E2,#ffffff){車両名=b,購入元・カスタム担当=11px}
+#table_filter(){画像=hide,車種=show,メーカー=hide,車両名=show,入手日=show,詳細=show,購入元・カスタム担当=show}
+|~画像|~車種|~メーカー|~車両名|~入手日|~詳細|~購入元・カスタム担当|h
+||🚗&br()|Obey|Tailgater S|'23/09/01|闇医者活動用に購入。Neon購入に伴い中古車ディーラーに売却。|購入：[[深沢>深沢　えぼし]]&br()カスタム：[[なの>なのの　なの]]|
+||🏎&br()|Pfister|Neon|'23/09/02|静音性が高く初速の速い電気自動車。Tailgater Sに代わる闇医者活動用車として購入。&br()Tezeract購入に伴い[[ヘスティア>ヘスティア　ゴデス ]]に売却。|購入：[[千代田>千代田　ヨウ]]&br()カスタム：[[なの>なのの　なの]]|
+||🚙&br()|Declasse|Burrito Custom|'23/09/18|闇金ナシジマくんが債務者貸出用に購入した黒塗りのバン。ウ●ジマくん感マシマシ。&br()→11/27 部下の[[鬼野　ねね]]を仲介しRumpo Customと交換。|購入：[[小豆>小豆　最中]]&br()カスタム：[[ネケ>ネケ　ニマス]]|
+||🛥️&br()|Shitzu|Longfin|'23/09/20|犯罪での水上移動用に購入した高速艇。後部座席に4人乗れ、停泊時は銃撃も可能。&br()水上戦抗争の後[[マイゴ・ニ＝ナリエル]]に売却。|購入：[[命田>命田　守]]&br()カスタム：-|
+||🚙&br()|Vapid|Speedo Custom|'23/09/25|闇金債務者貸出用に追加購入。&br()→11/27 部下の[[鬼野　ねね]]を仲介しRumpo Customと交換。|購入：[[小豆>小豆　最中]]&br()カスタム：-|
+||🚚&br()|Zirconium|Journey2&br()✎ &font(11){薬倉庫}|'23/11/11|移動倉庫として購入。&br()→えいむの誕生日にプレゼントとして譲渡。|購入：[[ルウ>ルウ　ギャラクティカ]]&br()カスタム：[[ルウ>ルウ　ギャラクティカ]]|
+||🏎&br()|Pegassi|Zentorno&br()✎ &font(11){犯罪用}|'23/11/16|限定入荷数の人気スーパーカー。&br()とりあえずで確保し景品にするか迷ったが、犯罪車両として愛用。&br()→12/24、リバリーを気に入った[[てつお>切間　てつお]]に売却。|購入：[[オザワ>オザワ　ハヤマサ]]&br()カスタム：[[ルウ>ルウ　ギャラクティカ]]、[[セイジ>文殊　セイジ]]|
+||🚙&br()|Bravado|Rumpo Custom&br()✎ &font(11){赤ランポ}|'23/11/27|[[部下>鬼野　ねね]]を仲介しSpeedo Customと交換して得た中古車。&br()→'24/2/14、TwiXで積載量多め車が欲しいとツイートしていた[[七転　うぐ]]に3500万円で売却。|購入：-&br()カスタム：-|
+||🚙&br()|Bravado|Rumpo Custom&br()✎ &font(11){青ランポ}|'23/11/27|[[部下>鬼野　ねね]]を仲介しBurrito Custommと交換して得た中古車。&br()→'24/2/24、えいむに3500万で売却。|購入：-&br()カスタム：-|
+||🚙&br()|Bravado|Rumpo Custom&br()✎ &font(11){緑ランポ}|'23/11/30|薬用に追加購入。→'24/2/24、エスに3500万で売却。|購入：-&br()カスタム：-|
+||🚙&br()|Bravado|Rumpo Custom&br()✎ &font(11){黄ランポ}|'23/11/30|薬用に追加購入。→'24/3/4、先輩に4000万で売却。|購入：-&br()カスタム：-|
+||🏎&br()|Pegassi|Osiris|'23/12/29|[[鬼野　ねね]]へのプレゼントとして購入。&br()中にはねねが誤って紛失した賢者の石を入れておいた。|購入：[[てつお>切間　てつお]]&br()カスタム：[[プスカ大佐>ネズ]]|
+||🚗&br()|Karin|Dilettante2|'24/03/03|PATROLのペイントが特徴的なコンパクトカー。&br()エンジンスワップができなかったため[[さとう]]に譲渡。|購入：[[BIG　SUZUKI]]&br()カスタム：-|
+||🚁&br()|Unknown|Frogger nl|'24/06/07|[[ACADEMY]]生徒への貸出用に購入。現在は[[雪菱 メラ>雪菱　メラ]]が所持。&br()→'24/8/3、ギャング所属餞別としてそのままプレゼント。|購入：[[御庭野 えんちょう>御庭野　えんちょう]]&br()カスタム：-|
+||🏍&br()&small(){MOTO}|Kafaros|[[Monowhee>>https://www.gta5-mods.com/vehicles/monowheel]]&br()✎ &font(11){カジノ}|'24/02/15|カジノ景品用に市長から特別購入した玩具の&s(){Dホイール}バイク。&br()需要大を見込んで購入した残りの1台。&br()→'24/9/8、カジノの全権移行に伴い[[鳥羽>鳥羽　咲夜]]さんへ。|購入：[[市長>山下　ひろし]]&br()カスタム：-|
+||🚗&br()|Nagasaki|[[runabout>>https://www.gta5-mods.com/vehicles/1901-oldsmobile-runabout]]&br()✎ &font(11){カジノ景品}|'24/04/07|カジノ景品用に市長から特別購入した&br()童話に出てくる馬車のようなヴィンテージカー。&br()→'24/9/8、カジノの全権移行に伴い[[鳥羽>鳥羽　咲夜]]さんへ。|購入：[[市長>山下　ひろし]]&br()カスタム：-|
+||🚙&br()🛥|Kafaros|[[BoatMobile>>https://www.gta5-mods.com/vehicles/boat-mobile]]&br()✎ &font(11){カジノイベント用,カジノ}|'24/04/07|カジノにて1台&b(){100億}で計2台、市長から特別購入した水陸両用車両。&br()車でありながら渡河可能であるため、使用はイベントのみに制限。&br()→'24/9/8、カジノの全権移行に伴い[[鳥羽>鳥羽　咲夜]]さんへ。|購入：[[市長>山下　ひろし]]&br()カスタム：[[ルウ>ルウ　ギャラクティカ]]|
+||&br()&small(){}|Coil|[[Raiden GRB>>https://www.gta5-mods.com/vehicles/coil-raiden-grb-add-on-tuning-lods]]&br()✎ &font(11){ゴミ箱,ゴミ箱,景品}|'24/05/21|ブースティング限定車。オークション用に3台購入。&br()→'24/9/8、カジノの全権移行に伴い[[鳥羽>鳥羽　咲夜]]さんへ。|購入：[[そす>いわさき　そす]]&br()カスタム：-|
+|&blankimg(page=無馬　かな/エピソード2,kana_car_Virtue.png,x=70,y=40)|🏎&br()&small(){Super}|Ocelot|[[Virtue>>https://w.atwiki.jp/gtav/pages/2960.html]]&br()✎ &font(11){}|'23/10/05|販売当時6億(現在10億)の新型電気自動車。&br()舎弟の[[エスターク>エスターク・Z・ダークネス]]からのプレゼント。&br()→'24/10/18、身辺整理のためエスタークへ。渡す前に消したが、最後の名称は"さようなら"|購入：[[千代田>千代田　ヨウ]]&br()カスタム：[[安保>安保　さぶ郎]]|
+||🏎️&br()&small(){Sports}|Pfister|[[Neon>>https://w.atwiki.jp/gtav/pages/1907.html]]&br()✎ &font(11){4人乗り}|'23/10/10|カジノの社用4シーター車として再購入。&br()→'24/10/18、身辺整理のため[[生雲丹>生雲丹　よづな]]へ。|購入：[[てつお>切間　てつお]]&br()カスタム：|
+||&br()|Unknown|[[Carrot Car>>https://libertycity.net/files/gta-5/206234-carrot-car.html]]&br()✎ &font(11){おにんじん号}|'24/06/26|[[けんつ>飯田　けんつ]]のギャング設立資金融資のため30億で買取。&br()救急車両であるRaidenと同じ性能を持つ。&br()→'24/10/31、身辺整理のため、かねてより約束していた[[パキち>パキ　ち]]へ。|購入：[[飯田>飯田　けんつ]]&br()カスタム：-|
+||🚗&br()&small(){Sedan}|Obey|[[Tailgater>>https://w.atwiki.jp/gtav/pages/253.html]]&br()✎ &font(11){}|'24/03/19|逃亡生活のために購入した地味なセダン。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[大川>大　川]]&br()カスタム：-|
+||🏎&br()&small(){Super}|Bravado|[[Buffalo STX>>https://w.atwiki.jp/gtav/pages/2722.html]]&br()✎ &font(11){}|'24/03/19|パワフルな走りが特徴のマッスルカー。&br()16発まで耐える防弾ガラスに目をつけ購入。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[大川>大　川]]&br()カスタム：[[大川>大　川]]|
+||🚙&br()&small(){ORV}|Maxwell|[[Vagrant>>https://w.atwiki.jp/gtav/pages/2546.html]]&br()✎ &font(11){}|'24/03/21|個人医用に購入したオフロードバギー。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[パキち>パキ　ち]]&br()カスタム：[[パキち>パキ　ち]]|
+||🏍&br()&small(){MOTO}|LCC|[[Sanctus>>https://w.atwiki.jp/gtav/pages/1680.html]]&br()✎ &font(11){}|'24/03/21|個人医用に購入した不気味なバイク。&br()ドクロは患者だったもの。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[パキち>パキ　ち]]&br()カスタム：[[パキち>パキ　ち]]|
+||🚙&br()&small(){SUV}|Bravado|[[Gresley>>https://w.atwiki.jp/gtav/pages/370.html]]&br()✎ &font(11){}|'24/03/19|逃亡生活のために購入した地味なSUV。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[大川>大　川]]&br()カスタム：|
+||🚕&br()||[[taxi>>https://w.atwiki.jp/gtav/pages/328.html]]|'24/04/23|Boostingでしか入手できないレア車。&br()個タクをしようと思いつき[[そすさん>いわさき　そす]]から1億で購入。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[いわさき>いわさき　そす]]&br()カスタム：[[パキち>パキ　ち]]|
+||🚗&br()|Maibatsu|[[SunriseR>>https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds]]&br()✎ &font(11){}|'24/02/22|販売当日に[[麻林>麻林　ラル]]から購入。&br()後輪のフェンダーに施された麻ステッカーが特徴的。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[麻林>麻林　ラル]]&br()カスタム：[[麻林>麻林　ラル]]、[[ヤブ下>ヤブ下　安理]]|
+||🏎️&br()&small(){Sports}|Pfister|[[Comet S2>>https://w.atwiki.jp/gtav/pages/2698.html]]&br()✎ &font(11){}|'24/02/21|警察車両であるPolice Comet S2の一般モデル。&br()Jugularと同様警察車両に偽装し撹乱する目的で購入。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[ミンドリー>ミン　ドリー]]&br()カスタム：-|
+||🏎️&br()&small(){Sports}|Ocelot|[[Jugular>>https://w.atwiki.jp/gtav/pages/2501.html]]&br()✎ &font(11){}|'24/02/21|警察車両であるPolice Jugularの一般モデル。&br()ボンネットに貼られた[[ローズ>猪原　ローズ]]の特大ステッカーが特徴。&br()警察車両と同モデルであることを活かし撹乱目的で購入。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[上田>上田　さん]]&br()カスタム：[[御庭野>御庭野　えんちょう]]|
+||🏎️&br()&small(){Sports}|Weeny|[[Issi Sport>>https://w.atwiki.jp/gtav/pages/2478.html]]&br()✎ &font(11){}|'24/02/21|S帯へと昇格したコンパクトスポーツカー。&br()レースにおける加速力と小回りの良さに興味を持ち購入。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[ルウ>ルウ　ギャラクティカ]]&br()カスタム：-|
+||🏎️&br()&small(){Sports}|Benefactor|[[SM722>>https://w.atwiki.jp/gtav/pages/2840.html]]&br()✎ &font(11){}|'24/02/15|市長補佐からのみ購入できる限定車。&br()無馬が購入した初のオープンカーであり、性能より希少性で購入。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：かな市長補佐&br()カスタム：[[プスカ大佐>ネズ]]|
+||🏎️&br()&small(){Sports}|Übermacht|[[Sentinel Classic>>https://w.atwiki.jp/gtav/pages/1864.html]]&br()✎ &font(11){}|'24/01/30|[[GBC>GoodbyeCircus]]との抗争に備え、B帯のレース用車両として購入。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[プスカ大佐>ネズ]]&br()カスタム：[[プスカ大佐>ネズ]]|
+||🏎&br()&small(){Super}|Bravado|[[Banshee 900R>>https://w.atwiki.jp/gtav/pages/1608.html]]&br()✎ &font(11){}|'24/01/12|[[月見>月見　結]]からの贈与品。&br()最近ドリフト車を欲しがっていた無馬のことを考えたプレゼント。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：-&br()カスタム：[[川上>川　上]]|
+||🚗&br()&small(){Sedan}|Dundreary|[[Stretch>>https://w.atwiki.jp/gtav/pages/398.html]]&br()✎ &font(11){}|'23/09/04|みんなで乗れる車が欲しいと購入した6名乗りリムジン。&br()[[ALLIN]]の予算で購入。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[BIG　SUZUKI]]&br()カスタム：[[天王寺>天王寺　京司郎]]|
+||🏍&br()&small(){MOTO}|Nagasaki|[[BF400>>https://w.atwiki.jp/gtav/pages/1647.html]]&br()✎ &font(11){}|'23/10/20|[[月見>月見　結]]からの贈与品。&br()オフロードバイクを好む無馬のことを考えたプレゼント。&br()→'24/10/31、身辺整理のための譲渡車両の選定当初、名称を"形見"に変更したのみだったが、&br()「まあこれも処分しちゃうか」で[[パキち>パキ　ち]]へ。|購入：-&br()カスタム：-|
+||🏎&br()&small(){Super}|Karin|[[Sultan Retro Custom>>https://w.atwiki.jp/gtav/pages/2537.html]]&br()✎ &font(11){}|'23/10/20|[[月見>月見　結]]からの贈与品。オフロードに強いA帯レース車で&br()月見考案の最強カスタムが施されている。&br()月見がギャング入りした際に無馬が贈ったものと同じ車種。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：-&br()カスタム：-|
+||🚙&br()&small(){SUV}|Pegassi|[[Toros>>https://w.atwiki.jp/gtav/pages/2427.html]]&br()✎ &font(11){}|'24/07/05|4人乗りの車として購入。見た目を気に入ってる。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[パキち>パキ　ち]]&br()カスタム：|
+||🏍&br()&small(){MOTO}|Shitzu|[[Hakuchou Drag>>https://w.atwiki.jp/gtav/pages/1655.html]]&br()✎ &font(11){}|'23/08/25|犯罪サポートに使用するための主力バイクとして購入。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[斎藤>斎藤　まさのり]]&br()カスタム：[[てって>なんば　てって]]、[[ルウ>ルウ　ギャラクティカ]]|
+|&blankimg(page=無馬　かな/エピソード2,kana_car_Shinobi.png,x=70,y=40)|🏍&br()|Nagasaki|[[Shinobi>>https://w.atwiki.jp/gtav/pages/2738.html]]&br()✎ &font(11){}|'23/10/31|小回りの効く一人乗りバイク。&br()100年前に愛用していた記憶がある。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[ルウ>ルウ　ギャラクティカ]]&br()カスタム：[[ルウ>ルウ　ギャラクティカ]]|
+||🚙&br()&small(){SUV}|Declasse|[[Granger>>https://w.atwiki.jp/gtav/pages/369.html]]&br()✎ &font(11){}|'24/05/14|武器クラフト倉庫用に購入したであろう車。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[パキち>パキ　ち]]&br()カスタム：[[パキち>パキ　ち]]|
+||🏎&br()&small(){Super}|Coil|[[Raiden>>https://w.atwiki.jp/gtav/pages/1852.html]]&br()✎ &font(11){}|'24/03/05|救急車両であるEMS Raidenの一般モデル。&br()偽装警察車両2台と同様、偽装救急隊車両として撹乱目的で購入。&br()→'24/10/31、身辺整理のため[[パキち>パキ　ち]]へ。|購入：[[にしのん>にし　のん]]&br()カスタム：-|
+||🏎&br()&small(){Super}|Obey|[[9F Cabrio>>https://w.atwiki.jp/gtav/pages/280.html]]&br()✎ &font(11){}|'23/10/23|街を去った[[山本さん>山本　龍也]]の形見。&br()彼が街に戻るまでは見た目を変えず持っておくと約束した。&br()→'25/03/19、山本さんと親交の深かった[[ルウ>ルウ　ギャラクティカ]]さんが欲しがったので譲渡。|購入：-&br()カスタム：-|
+|&blankimg(page=無馬　かな/エピソード1,kana_car_Tezeract.png,x=70,y=40)|🏎&br()&small(){Super}|Pegassi|[[Tezeract>>https://w.atwiki.jp/gtav/pages/1942.html]]&br()✎ &font(11){}|'23/09/15|価格9億の高級電気自動車。&br()電気自動車好きの無馬が目標にしていた、無馬にとって愛情深い車。&br()→'25/05/25、街を出る前に[[大川さん>大　川]]に譲渡。|購入：[[てつお>切間　てつお]]&br()カスタム：[[ボア>ボア　セニャコック]]、[[BIG SUZUKI>BIG　SUZUKI]]、[[ヘルアン]]、[[ルウ>ルウ　ギャラクティカ]]|
+|&blankimg(page=無馬　かな/エピソード4,kana_car_Thrax.png,x=70,y=40)|🏎&br()&small(){Super}|Truffade|[[Thrax>>https://w.atwiki.jp/gtav/pages/2475.html]]&br()✎ &font(11){}|'23/12/30|[[RB>R　B]]への贈呈車購入時に獲得した割引でついで購入。&br()黒塗装で犯罪者御用達にして、当時の[[ALLIN]]の標準戦闘車両。&br()→'24/3/22逃亡生活の際、BONGOREイメージの青白ツートンへ。&br()→'25/05/25、街を出る前に[[大川さん>大　川]]に譲渡。|購入：[[難波>難波　ハル]]&br()カスタム：[[大川>大　川]]|
+||🚚&br()&small(){Van}|Zirconium|[[Journey>>https://w.atwiki.jp/gtav/pages/527.html]]&br()✎ &font(11){}|'23/08/20|移動倉庫として購入した大積載量のバス型キャンピングカー。&br()通称：犯罪倉庫&br()→'25/05/25、街を出る前に[[小峯さん>小峯　玲]]に譲渡。|購入：[[深沢>深沢　えぼし]]&br()カスタム：-|
+||🚚&br()&small(){Van}|Bravado|[[Rumpo Custom>>https://w.atwiki.jp/gtav/pages/1630.html]]&br()✎ &font(11){}|'23/09/17|闇金ナシジマくんが債務者に&br()麻薬原料を集めさせるための貸出用バン。&br()→'25/05/25、街を出る前に[[小峯さん>小峯　玲]]に譲渡。|購入：[[深沢>深沢　えぼし]]&br()カスタム：[[サウ汰>星唄　サウ汰]]|
+|&blankimg(page=無馬　かな/エピソード3,kana_car_neneRumpo.png,x=70,y=40)|🚚&br()&small(){Van}|Bravado|[[Rumpo Custom>>https://w.atwiki.jp/gtav/pages/1630.html]]&br()✎ &font(11){}|'24/01/09|[[秘書>鬼野　ねね]]からの贈呈車。V12エンジン搭載などの魔改造が施されており、&br()無馬にしか乗りこなせないモンスターバン。通称：ねねランポ。&br()→'25/05/25、街を出る前に[[小峯さん>小峯　玲]]に譲渡。|購入：-&br()カスタム：[[大川>大　川]]|
+|&blankimg(page=無馬　かな/エピソード5,car_Express.png,x=70,y=40)|🚙&br()&small(){SUV}|Vapid|[[Speed Express>>https://www.gta5-mods.com/vehicles/vapid-speedo-express-add-on-liveries]]&br()✎ &font(11){}|'24/06/11|積載1000のバン。今後の効率を考えねねと購入。&br()無理やりロゴを消しているため、うっすら文字が見える。&br()→'25/05/25、街を出る前に[[小峯さん>小峯　玲]]に譲渡。|購入：[[パキち>パキ　ち]]&br()カスタム：[[パキち>パキ　ち]]|
+|&blankimg(page=無馬　かな/エピソード7,car_Tri-Cycles.png,x=70,y=40)|🚲&br()&small(){}|UnKnown|Tri-Cycles Race Bike&br()✎ &font(11){}|'25/01/28|気分で購入した自転車。個人医の足として利用。&br()→'25/05/25、街を出る前に[[タラちゃん>タラ　ちゃん]]に譲渡。|購入：-&br()カスタム：-|
+|&blankimg(page=無馬　かな/エピソード3,kana_car_Swinger.png,x=70,y=40)|🚗&br()&small(){Classic}|Ocelot|[[Swinger>>https://w.atwiki.jp/gtav/pages/2212.html]]&br()✎ &font(11){}|'24/02/03|白黒各1台限定の最高級クラシックスポーツカー。驚愕の&b(){30億円}。&br()白市民の所有者は麻林ラル。無馬「お揃いにしてくれた。」&br()→'25/05/25、街を出る前に[[ヴァンさん>ヴァン　ダーマー]]に置き土産として譲渡。|購入：[[川上>川　上]]&br()カスタム：[[チェン マヨ>チェン　マヨ]]、[[ヤブ下>ヤブ下　安理]]|
+#table_sorter{head=#99000d,even=#f7f7f7,odd=#fff}}
+#endregion
+#size(50%){　}
+//
+#region(景品行)
+#size(90%){#table_color(#A4C4E2,#ffffff){車両名=b,購入元・カスタム担当=11px}
+#table_filter(){画像=hide,車種=show,メーカー=hide,車両名=show,入手日=show,詳細=show,購入元・カスタム担当=show}
+|~画像|~車種|~メーカー|~車両名|~入手日|~詳細|~購入元・カスタム担当|h
+||🏍&br()&small(){MOTO}|Nagasaki|BF400|'23/08/07|バイクレース参加のため購入したオフロードバイク。&br()カジノ景品へ投入済。|購入：[[深沢　えぼし]]&br()カスタム：[[深沢　えぼし]]|
+||🚗&br()|Grotti|Brioso 300&br()✎ &font(11){くもさんもくもくカー}|'23/08/19|個人用の汎用車として購入。かわいいフォルムが購入の決め手。&br()カフェ就職後[[BIG SUZUKI]]にリペイントを依頼し「くもさんもくもくカー」に生まれ変わった。&br()カジノ景品として投入済。|購入：[[斎藤>斎藤　まさのり]]&br()カスタム：[[まりー>まりー　あんとあー]]、[[BIG SUZUKI]]|
+||🏍&br()&small(){MOTO}|Western|Powersurge|'23/09/20|静音性と加速に優れるEVバイク。試乗会で購入を決め[[菖光モータース]]の開店セールにて購入。&br()あまり気に入らなかったため[[プスカ大佐>ネズ]]に塗装依頼し、カジノ景品へ投入済。|購入：[[ジョーカー>半沢　直ふぃ]]&br()カスタム：[[ボア>ボア　セニャコック]]|
+||🚗&br()|Declasse|Tornado Custom|'23/10/16|カジノ景品用に[[山本　龍也]]から譲り受けたBoosting限定レア車両。一時保有後カジノ景品へ。|購入：非売品&br()カスタム：[[ジャー武>ジャーク　武士]]|
+||🏎&br()|Överflöd|Entity XXR|'23/10/18|カジノ景品用に[[有坂　誉]]から譲り受けたBoosting産スーパーカー。&br()ディーラー価格3億の未発売車(当時)を1億で譲り受け、カジノグランドオープンと同時にカジノ景品へ。|購入：非売品&br()カスタム：-|
+||🏍&br()&small(){MOTO}|Dinka|Vindicator&br()✎ &font(11){カジノ景品バイク}|'23/10/18|カジノ景品用に[[有坂　誉]]から譲り受けたBoosting限定高性能バイク。&br()景品用だが、気に入っていたのでそれなりに乗り回していた。カジノ景品投入済。|購入：非売品&br()カスタム：[[ルウ>ルウ　ギャラクティカ]]|
+||🚚&br()|Vapid|Guardian RV|'23/11/01|大容量スタッシュとクローゼットが付いた高性能キャンピングカー。&br()移動倉庫として購入したが、車体の大きさがネックになりカジノ景品へ。|購入：[[てつお>切間　てつお]]&br()カスタム：-|
+||🏎&br()|Pegassi|Torero XO|'23/11/17|[[ミン　ドリー]]の誕生日に勤務先のEDENで購入。&br()カジノ景品投入済。|購入：[[ミンドリー>ミン　ドリー]]&br()カスタム：[[ルウ>ルウ　ギャラクティカ]]|
+||🚗&br()|Wow|Omnis&br()✎ &font(11){おもちゃ}|'23/11/19|EDENで購入。&s(){カジノ景品投入予定。}[[安保　さぶ郎]]への誕生日プレゼントとして渡した。|購入：[[葉時山>葉時山　バジル]]&br()カスタム：[[セイジ>文殊　セイジ]]|
+||🚗&br()|BIG|Bobby Car&br()✎ &font(11){カジノ景品ベビーカー}|'23/12/30|カジノ景品用に市長から特別購入した超小型車。&br()カジノ景品投入済。|購入：[[市長>山下　ひろし]]&br()カスタム：[[キャップ>ましゃかり　トラボルタ]]|
+||🛋&br()|Flywheels|Couch Supreme&br()✎ &font(11){カジノ景品ソファ}|'23/12/30|カジノ景品用に市長から特別購入した走るソファー。カジノ景品投入済。|購入：[[市長>山下　ひろし]]&br()カスタム：[[キャップ>ましゃかり　トラボルタ]]|
+||🛺&br()|Flywheels|Tunak&br()✎ &font(11){カジノ景品トゥクトゥク}|'23/12/30|カジノ景品用に市長から特別購入したトゥクトゥク。&br()3人乗り。カジノ景品投入済。|購入：[[市長>山下　ひろし]]&br()カスタム：[[プスカ大佐>ネズ]]|
+||🏍&br()&small(){MOTO}|Shitz|Bosozoku&br()✎ &font(11){カジノ景品族車}|'23/12/30|カジノ景品用に市長から特別購入した暴走族風バイク。&br()カジノ景品投入済。|購入：[[市長>山下　ひろし]]&br()カスタム：[[川上>川　上]]|
+||🏎&br()|Ocelot|Virtue&br()✎ &font(11){カジノ景品}|'24/02/15|カジノ景品用に購入、一時保有。&br()カジノ景品投入済。|購入：[[切間　てつお]]&br()カスタム：[[うさぎさん>山田　パルコ]]|
+||🏍️&br()&small(){MOTO}|Kafaros|Monowheel|'24/02/15|カジノ景品用に市長から特別購入した変なバイク。&br()人によって想起するモデルが異なる。カジノ景品投入済。|購入：[[市長>山下　ひろし]]&br()カスタム：[[する蔵>天成　する蔵]]|
+||🚲&br()|Cycle|Lowrider Bicycle|'24/02/15|カジノ景品用に市長から特別購入した自転車。&br()スペアタイヤ付き。カジノ景品レース賞金へ。|購入：[[市長>山下　ひろし]]&br()カスタム：-|
+||🚗&br()|Vapid|Flivver|'24/04/07|カジノ景品用に市長から特別購入したクラシックカー。&br()車の礎となった1910〜20年代を彷彿とさせる。|購入：[[市長>山下　ひろし]]&br()カスタム：-|
+||🚗&br()|Nagasaki|tomado_st|'24/04/07|カジノ景品用に市長から特別購入した世紀末を感じさせるクラシックカー。&br()→カジノ景品として仕上げるため[[上田>上田　さん]]にカスタム依頼。そのまま景品へ|購入：[[市長>山下　ひろし]]&br()カスタム：[[上田>上田　さん]]|
+//カジノ景品車両の当選者情報はカジノページへ移行
+#table_sorter{head=#99000d,even=#f7f7f7,odd=#fff}}
+#endregion(景品)
+}
+//---Season2-----------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#9370DB,90%){▷ Season2}&nbsp(48)}}
+****&underdot(#ACC2DF,3px){&font(15,#666){◆ 所有車両&nbsp()}}
+#region(自動車,open)
+#size(90%){#table_color(#A4C4E2,#ffffff){車両名=b,購入元・カスタム担当=11px}
+#table_filter(){画像=show,車種=show,メーカー=hide,車両名=show,入手日=show,詳細=show,購入元・カスタム担当=show}
+|~画像|~車種|~メーカー|~車両名|~入手日|~詳細|~購入元・カスタム担当|h
+||🏎️&br()&small(){Sports}|ANNIS|[[ZR350>>https://w.atwiki.jp/gtav/pages/2693.html]]&br()✎ &font(11){}|'26/02/05|移動用に購入。|購入：-&br()カスタム：-|
+||🏍|DINKA|[[Thrust>>https://w.atwiki.jp/gtav/pages/1089.html]]&br()✎ &font(11){}|'26/04/05|移動用に購入。|購入：-&br()カスタム：-|
+||🚙&br()&small(){SUV}|Peggassi|[[Toros>>https://w.atwiki.jp/gtav/pages/2427.html]]&br()✎ &font(11){}|'26/07/04|移動用に購入。購入資金は[[4番>Back Alley]]からのお小遣い。|購入：-&br()カスタム：-|
+#table_sorter{head=#99000d,even=#f7f7f7,odd=#fff}}
+#endregion(自動車)
+
+#co(){~~~~テンプレ~~~~
+|&blankimg(^^画像URL^^,x=70,y=40)|^^車種絵文字^^&br()&small(){^^車種(SUVとか)^^}|^^メーカー^^|[[^^車名^^>>^^GTA5Wiki該当車のURL^^]]&br()✎ &font(11){^^つけた名前^^}|'25/m/n|^^&br()^^|購入：[[>]]&br()カスタム：[[>]]|
+
+【絵文字一覧】
+🚗:CCT(コンパクト) Sedan、Classic、🏎️:Sports、🏎:Super、
+🚙:SUV、ORV(オフロードoff-road vehicle)、🚚:Van、
+🏍:MOTO(バイク)、
+✈️:飛行機、🚁:ヘリ、⛵:ヨット
+
+【リンク】
+   　：https://w.atwiki.jp/gtav/pages/ｎｎｎ.html
+MOD車：https://www.gta5-mods.com/vehicles
+~~~~}
+//
+#right{&link_anchor(目次){△目次へ}}
+//---<拠点情報>------------------------------------------------------------------//
+*&font(#e0e0e0){拠点情報 &font(#A4C4E2){&icon_fa(fa fa-home)}}
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#9370DB,90%){▷ Season1}&nbsp(48)}}
+#openclose(show=＞表示){
+#region(所有不動産)
+#size(90%){#table_color(#A4C4E2,#ffffff)
+#table_filter(){番地=show,場所=show,通称=show,備考=show}
+|~番地|~場所|~通称|~備考|h
+|10002|飛行場近く|旧薬用拠点|ガレージ付き。市が通達なく別の建物へ建て替えた結果、現在、空間分裂中。|
+|7026|市内クラフト場近く|クラフトハウス|再現補填物件①。倉庫。[[R B>R　B]]と共用。ガレージ付き。|
+|7140|市内||再現補填物件②。敷地内にハイドアウトガレージがある。ガレージ付き。|
+|7276|市内||再現補填物件③。ガレージ付き。|
+|7292|[[カジノ]]内||再現補填物件④。会議室として利用予定。|
+|1036|パレト銀行近く||再現補填物件⑤。敷地内にハイドアウトガレージがある。ガレージ付き。|
+|6067|高級住宅街|旧オーナー宅|カジノ資金で購入。オーナー個人宅にするか、社宅にするかは検討中。&br()内装デザインの評判を聞いていた[[天近>天近　くるみ]]さんにほとんど全室の内装を依頼。&br()6069に無馬邸を建てたため、現在30億(仮)で売り出し中。|
+|1105|薬の売人近く||薬用拠点。[[白井>白井　満太]]と共用。ガレージ付き。|
+|7292|[[カジノ]]内|カジノホテル|[[カジノ]]の2階にあるホテル。備え付けの部屋501～511をカジノ資金で購入。&br()&openclose2(show=503号室){[[ヴァン ダーマー>ヴァン　ダーマー]]へ},&openclose2(show=507号室){[[アルフォート ウェスカー>アルフォート　ウェスカー]]へ},&openclose2(show=510号室){[[Mon D>Mon　D]]へ}を超VIP会員に無料提供。&br()購入済：&openclose2(show=511号室){[[麻林 ラル>麻林　ラル]]}|
+|7324|[[A2>A2 Lab]]近く||BONGORE用の個人医拠点。|
+|6069|高級住宅街|無馬邸|海外製の特別な邸宅。共有個人ガレージ付き。[[(MLO)>>https://youtu.be/UnUyrgnQdP0?si=6p5wvwhzVzf9E-lO]]&br()各モニターにはカジノロゴが投影されているカジノオーナー仕様。|
+|9386|東郊外|倉庫|セーフハウス。|
+|9384|東郊外|うさちゃんハウス|セーフハウス兼、狩猟用拠点。|
+#table_sorter{even=#f7f7f7,odd=#fff}}
+#endregion
+#size(50%){　}
+//
+#region(ARCANA関連)
+#size(90%){#table_color(#A4C4E2,#ffffff)
+#table_filter(){番地=show,場所=show,通称=show,備考=show}
+|~番地|~場所|~通称|~備考|h
+|3029|中央湖とクラフト場&br()の間||再現補填物件⑥。禁止区域の物件を移動。店舗型の内装が選べる特殊物件。&br()[[武器屋>FEMME FATALE]]の受け渡し店舗として利用。ガレージ付き。|
+|9096|[[PYC]]横|旧アジト|再現補填物件⑦。ガレージ付き。新アジトへ移行後、[[秘書>鬼野　ねね]]のメインハウスへ。|
+|8216|[[KoKo七番屋]]2F|セーフハウス|[[麻林>麻林　ラル]]から[[ARCANA]]メンバーで集まる際にと鍵を渡された。|
+|6069&br()地下|高級住宅街|アジト|無馬邸の地下にある[[ARCANA]]拠点。中に別の共有個人ガレージ付き。&br()無馬邸の崖側面に存在するシャッターから出入りが可能。|
+|10108|コンテナ埠頭海側|葉っぱハウス|薬素材格納用に購入。葉の養育場のような内装と、近所の練り場という&br()[[秘書>鬼野　ねね]]が夢見た最高の薬ハウス。更にランポを直付けできるガレージも完備。|
+|10102|コンテナ埠頭入口|粉の家|薬格納用に購入。薬精製所のような内装で雰囲気◎。ガレージ付き。|
+|10102|コンテナ埠頭入口||薬格納用ハウスの隣にある居住スペース。|
+|6072|高級住宅地|傭兵拠点|旧[[ACADEMY]]拠点。同敷地内に社員用の倉庫用宅完備。ガレージ付き。|
+|4024&br()近隣|細道を上がった&br()砂漠中|ガンハウス&br()製作所|[[武器屋>FEMME FATALE]]で使うロックのかかった隠し扉付きの武器制作所。&br()現在、鍵が空いた状態になる歪み発生中。共有個人ガレージ付き。|
+|9386|東郊外||(9386-9384の間辺り)[[ブラックマーケット>ARCANA#ブラックマーケット]]の店舗用に管理している拠点。|
+#table_sorter{even=#f7f7f7,odd=#fff}}
+#endregion
+#size(50%){　}
+//
+#region(ハイドアウトガレージ)
+#size(90%){#table_color(#A4C4E2,#ffffff)
+#table_filter(){番地=show,場所=show,通称=show,管理=hide,備考=show}
+|~番地|~場所|~通称|~管理|~備考|h
+|1036|パレト銀行付近|ハイドアウト|[[無馬 かな>無馬　かな]]|北での犯罪用に購入した3台入ハイドアウトガレージ。ガレージ併設。|
+|9034|[[ALLIN]]旧アジト横|ハイドアウト|[[無馬 かな>無馬　かな]]|盗難車保存用に購入した3台入ハイドアウトガレージ。旧アジトの真横。|
+|7140|[[JTS>ジョアンナテクノサービス]]付近|盗難車保管用|[[無馬 かな>無馬　かな]]|10台入ハイドアウトガレージ。ガレージ併設。|
+|9128|消防署裏|ハイドアウト|[[無馬 かな>無馬　かな]]|[[ARCANA]]用に購入した1台入ハイドアウトガレージ。|
+|8187|[[GG>Glare Gem]]近く|盗難車受渡用|[[不二子 キャスパー>不二子　キャスパー]]|盗難車カスタムの受け渡し用ガレージ。|
+|7074|高級住宅街南|ハイドアウト|[[無馬 かな>無馬　かな]]|[[ARCANA]]傭兵用に利用できないか検討した3台入ハイドアウトガレージ。|
+||||||
+#table_sorter{even=#f7f7f7,odd=#fff}}
+#endregion
+#size(50%){　}
+#region(その他)
+#size(90%){#table_color(#A4C4E2,#ffffff)
+#table_filter(){番地=show,場所=show,通称=show,備考=show}
+|~番地|~場所|~通称|~備考|h
+|9038|[[旧PY>Project Y]]奥ソファー||仮眠場や就寝場所としてよく利用。スマホの壁紙はここで取られた写真。|
+|8186|[[GG>Glare Gem]]内||[[不二子>不二子　キャスパー]]さんから自宅の様に使っていいと言われている地下空間。|
+|7333|犬カフェ前|ゆちゃ姐宅|個人医関連で相談にのった際に鍵共有を受けた。姐さんの友達がよく集まっている。|
+|3000|||[[ねね>鬼野　ねね]]所有の個人医クリニック。無馬もびっくりな真っ白な診療所&br()'25/1/26、個人医で使えるようにと鍵の共有を受ける。|
+|||||
+#table_sorter{even=#f7f7f7,odd=#fff}}
+#endregion
+----
+#region(過去物件)
+#size(90%){#table_color(#A4C4E2,#ffffff)
+#table_filter(){番地=show,場所=show,通称=show,備考=show}
+|~番地|~場所|~通称|~備考|h
+|3025|砂漠||半グレ時代～ギャング初期頃の[[ALLIN]]拠点。物件リセットにて過去物件へ。|
+|9128|消防署裏|旧[[ARCANA]]アジト|使い勝手の悪さから売却。|
+|9092|[[PYC]]|旧[[ARCANA]]アジト|PYC新設により立退き。ガレージのみ利用できるままになっている。|
+|9035|[[旧PY>Project Y]]近く|旧アジト|[[ALLIN]]の旧アジト。|
+|8242|港|新アジト|[[ALLIN]]の新アジト。|
+|9035|旧アジト階段横|ハウジング部屋|[[ALLIN]]の会議室拠点。※|
+|9035|旧アジトの隣|こたつ部屋|[[ALLIN]]の倉庫拠点。相談を受ける際によく使われる。※|
+|7029|教会・墓地周辺|教会|[[ALLIN]]のセーフハウス。※|
+|4018|ペットショップ&br()近く|北の家|ガレージ付きの薬用拠点。&br()'24/06/26→[[タラちゃん>タラ　ちゃん]]へ売却。譲渡時に効率厨な内装が露見。|
+#table_sorter{even=#f7f7f7,odd=#fff}}
+&font(11px,#A9A9A9){※未確認だが利用予定が無いため過去物件へ}
+#endregion
+
+}
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#9370DB,90%){▷ Season2}&nbsp(48)}}
+#region(所有不動産,open)
+#size(90%){#table_color(#A4C4E2,#ffffff)
+#table_filter(){番地=show,場所=show,通称=show,備考=show}
+|~番地|~場所|~通称|~備考|h
+|7138|市内|ARCANAハウス&br()18782部屋|犯罪者専用の店を構えるために市長に交渉して獲得した物件。&br()現状街で唯一パスワード制の扉がつけられている。|
+}
+#endregion
+#right{&link_anchor(目次){△目次へ}}
+//---<交友関係>------------------------------------------------------------------//
+*&font(#e0e0e0){交友関係 &font(#A4C4E2){&icon_fa(fa fa-users)}}
+//容量削減のため子ページ化
+//https://w.atwiki.jp/streamergta5/pages/2545.html
+#include(無馬　かな/交友関係)
+#right{&link_anchor(目次){△目次へ}}
+//---<組織関係>------------------------------------------------------------------//
+*&font(#e0e0e0){組織関係 &font(#A4C4E2){&icon_fa(fa fa-sitemap)}}
+//---Season1-----------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#9370DB,90%){▷ Season1}&nbsp(48)}}
+#openclose(show=＞表示){
+//---<自組織>-------------------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 自組織}&nbsp(47)}}
+****&underdot(#ACC2DF,3px){&icon_fa(fa fa-moon-o)&nbsp()私設組織「ARCANA」&nbsp(2)}
+無馬を慕い、無馬の指示で動く秘匿組織。
+　→詳しくは[[ARCANA]]の頁を参照。
+****&underdot(#ACC2DF,3px){&icon_fa(fa-solid fa-gun)&nbsp()武器商人「FEMME FATALE」&nbsp(2)}
+[[ARCANA]]下部組織である輸入武器販売会社。
+　→詳しくは[[FEMME FATALE]]の頁を参照。
+****&underdot(#ACC2DF,3px){&icon_fa(fa fa-crown)&nbsp()&anchor(無馬グループ,option=nolink){無馬グループ}&nbsp(2)}
+無馬が代表を務める興行事業グループ。
+　→詳しくは[[無馬グループ]]の頁を参照。
+****&underdot(#ACC2DF,3px){&icon_fa(fa fa-diamond)&nbsp()民営カジノ「DIAMOND CASINO」&nbsp(2)}
+白市民への還元を軸とする経済振興策を掲げる民営賭博場。
+　→詳しくは[[カジノ]]の頁を参照。
+//---<所属組織>-------------------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 所属組織}&nbsp(44)}}
+****&underdot(#ACC2DF,3px){&icon_fa(fa fa-stethoscope)&nbsp(1)個人医&nbsp(2)}
+通報義務の発生しない医者。
+　→詳しくは[[個人医としての無馬>無馬　かな/キャラクター#個人医]]の項、[[個人医]]の頁を参照。
+//---<協力組織>-------------------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 協力組織}&nbsp(44)}}
+****&underdot(#ACC2DF,3px){&icon_fa(fa fa-flask)&nbsp()麻薬カルテル「DEP」&nbsp(2)}
+#openclose(show= ＞Episode){
+麻薬の売買、新薬の開発を行う裏組織。
+　→詳しくは、[[ARCANA頁の麻薬事業項>ARCANA#麻薬事業]]、[[DEP]]の頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)[[加藤　圧]]の考えるカルテル構想を実現するための協力者として参画。
+&image(listmarker.png,inline)新薬を巡る情報戦にてカルテルと警察で二重スパイで活動していた。
+&image(listmarker.png,inline)カルテルからの護衛依頼をきっかけとした、ARCANA大規模作戦を実施。
+&image(listmarker.png,inline)捕縛されたカルテルの解放を条件とした司法取引を行い、身柄と引き換えに協力傘下とした。
+}
+//
+****&underdot(#ACC2DF,3px){&icon_fa(fa-solid fa-cannabis)&nbsp()麻陀羅組&nbsp(2)}
+#openclose(show= ＞Episode){
+麻薬市場の開拓、流通で名を残すことを目的とした組織。
+　→詳しくは[[麻陀羅組]]の頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)ARCANA配下の[[タラちゃん>タラ　ちゃん]]がボスであり、立ち上げ等の面倒を見ていたことから一方的に傀儡と呼んでいる。
+}
+//---<過去関連>-------------------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#666,90%){▷ 過去関連組織}&nbsp(38)}}
+#region(一覧,remember)
+****&underdot(#ACC2DF,3px){&icon_fa(fa fa-taxi)&nbsp()菖光會&nbsp(2)}
+#openclose(show= ＞Episode){
+半グレ時代に世話になったタクシー会社。
+　→詳しくは[[菖光會]]の頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)街に来たばかりでも車を乗り回せ、交流による情報収集や半グレでも就業可能な点に魅力を感じ就職。
+&image(listmarker.png,inline)仕事や街での半グレ評判が評価され、裏の顔であるギャング[[IRiS]]に誘われるも断る。
+&image(listmarker.png,inline)その後も中核メンバーとの友好関係は続き、[[IRiS]]解散後、自組織へ勧誘するなど協力関係へと発展した。
+}
+****&underdot(#ACC2DF,3px){&icon_fa(fa-solid fa-mug-hot)&nbsp()Père Noël&nbsp(2)}
+#openclose(show= ＞Episode){
+店主が元犯罪者で、自由な気風のカフェ。
+　→詳しくは[[Père Noël]]の頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)[[マイゴ・ニ＝ナリエル]]の紹介で働いていた。
+&image(listmarker.png,inline)個人サービスである、かなスペシャル営業が裏メニューとして存在。
+&image(listmarker.png,inline)出張販売と称しペールノエル風にカスタムされた「くもさんもくもくカー」を乗り回していた。
+}
+****&underdot(#ACC2DF,3px){♠&nbsp(1)ALLIN&nbsp(2)}
+#openclose(show= ＞Episode){
+所属していたボス至上主義のギャング。
+　→詳しくは[[ギャングとしての無馬>無馬　かな/キャラクター#ギャング]]の項、[[ALLIN]]の頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)ボスを一番にするため所属していたが、メンバーとの行動理念の乖離が原因で離脱。ロケランで全員を爆殺し一時は追われる身に。
+}
+****&underdot(#ACC2DF,3px){&icon_fa(fa-regular fa-face-surprise)&nbsp()空き巣協会&nbsp(2)}
+#openclose(show= ＞Episode){
+空き巣界隈を盛り上げたいと謳う組織。
+　→詳しくは[[空き巣協会>音鳴　ミックス#空き巣協会]]の頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)臨時[[ARCANA]]アジトの近所に住む者を確認するため接触。
+&image(listmarker.png,inline)[[会長>音鳴　ミックス]]のひと押しにより協会指定変装を作成。一回きりの参加を約束(日程未定)。
+&image(listmarker.png,inline)活動名は200種の白にちなんだ「アンド ミカエル」を予定。
+&image(listmarker.png,inline)現在は、無馬が白市民パスを取得したため決行するか不明。
+}
+****&underdot(#ACC2DF,3px){&icon_fa(fa-solid fa-champagne-glasses)&nbsp()ShanaoR&nbsp(2)}
+#openclose(show= ＞Episode){
+[[MOZU]]のフロントとして営業する、黒市民をターゲットとするバー。
+　→詳しくは[[ShanaoR]]の頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)[[大佐>ネズ]]と職場体験予定で一足先に職場見学をしたが、ジョブが埋まってしまったため未定。
+}
+****&underdot(#ACC2DF,3px){&icon_fa(fa-solid fa-person-rifle)&nbsp()ACADEMY&nbsp(2)}
+#openclose(show= ＞Episode){
+元[[ARCANA]]下部組織の傭兵会社。理事として所属。
+　→詳しくは[[ACADEMY]]の頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)譲渡先である[[飯田>飯田　けんつ]]がギャング設立に至ったため解体。
+}
+#endregion
+
+}
+//---Season2-----------------------------
+***&size(120%){&bgcolor(#A4C4E2){&nbsp()&font(#9370DB,90%){▷ Season2}&nbsp(48)}}
+&anchor(？？？,option=nolink){}
+****&underdot(#ACC2DF,3px){&icon_fa(fa-solid fa-chess-king)&nbsp()？？？&nbsp(2)}
+無馬が所持する国外のブローカー組織。
+#openclose(show= ＞About){
+ロスサントスの黒情勢へ、国外の違法品や闇仕事を仲介・斡旋することを主に活動。
+#size(50%){　}
+&image(listmarker.png,inline)元は[[とある男>Famos　Gray]]の所有物だったが、自由を得るため簒奪。
+&image(listmarker.png,inline)現在はFの部下だった[[4番>Back　Alley]]を従え、街の裏で暗躍している。
+}
+//
+****&underdot(#ACC2DF,3px){&icon_fa(fa-solid fa-wrench)&nbsp()LUNA Garage&nbsp(2)}
+正規ルートで唯一就業しているメカニック。仮採用中。
+　→詳しくは[[LUNA Garage]]の頁を参照。
+#openclose(show= ＞Episode){
+&image(listmarker.png,inline)闇医者で重要人物と化した[[捌木 たいたい>捌木　たいたい]]の監視を理由に接近。
+&image(listmarker.png,inline)表向き、旧ALLINアジト跡地に建てられたため思い入れが有ると話す。
+}
+//
+//****&underdot(#ACC2DF,3px){&icon_fa(　　　)&nbsp()　　&nbsp(2)}
+//追加候補：闇医者、武器屋、DEP、
+#right{&link_anchor(目次){△目次へ}}
+//
+//---<歴史>------------------------------------------------------------------//
+*&font(#e0e0e0){歴史 &font(#A4C4E2){&icon_fa(fa fa-calendar-o)}}
+**年表
+#co(){~~~~~~~~~~~~~~~~~~
+【現在の運用】
+・ソートが機能しなくなる、~ >でのセル統合✕
+・ギャング、カジノ、Arcana関連の詳細はそれぞれの頁へ
+・個人間の想い出系は住人関連の方へ移設中。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~}
+***&underdot(#ACC2DF,3px){&font(10,#9370DB){Season1}&nbsp()第１部　ALLIN　}
+//----１-序章------------------
+#region(表示)
+#div(width=500px,bgcolor=#f7f7f7){&font(b,#666,110%){&nbsp()序章　タクシー運転手編}}
+#openclose(show=＞開く){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|'23/08/01|ロスサントスへ||
+|'23/08/02|&b(){[[菖光會]]入社}|タクシー会社に就職。|
+|'23/08/03|&b(){半グレ一味に参加}|半グレ集団であった[[薬乃 紅>yaku　beni]]一味に知人[[RB>R　B]]を経由して参加。|
+|'23/08/05|かなスペシャル考案|[[マクドナルド>ライトスターボーイ]]の営業を回避、見学した後、無馬流のスペシャルを考案。|
+|'23/08/06|初公式レース参加|[[てつお>切間　てつお]]に借りたリボルターで参加した初のA帯レースで3位に。&br()レース車購入が目標に。|
+|'23/08/08|初大型ミッション|客船襲撃ミッションを遂行・完全犯罪を達成。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}}
+//----１-１章------------------
+#div(width=500px,bgcolor=#DBDBDB){&font(b,#666,110%){&nbsp()１章　ギャング・闇医者編}}
+#openclose(show=＞開く){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|&b(){'23/08/16}|&b(){ギャング[[ALLIN]]加入}|勧誘された[[菖光會]]の[[裏稼業>IRiS]]を断り、紅一味母体の新興ギャングへ。|
+|'23/08/21|犯罪指導商売開始|犯罪初心者向けのビジネス。街の半グレたちから頼られるように。|
+|'23/08/23|&b(){[[Père Noël]]就職}|親切にしてくれた[[マイゴ・ニ＝ナリエル]]の紹介でカフェに就職。|
+|'23/08/24|&ruby(ブレイキング・タウン){格闘大会}参加|初参加にして連勝。犯罪者達から格闘強者として一目置かれ始める。|
+|'23/08/24|犯罪サークル構想|&openclose2(show=同志){[[伊達咲 政宗>伊達咲　政宗]]、[[エスターク>エスターク・Z・ダークネス]]}を誘い不殺の犯罪サークルを構想するも断念。&openclose2(show=理由){&nbsp(br,3)半グレの組織化を危険視した[[MOZU]]をはじめとする、既存ギャングとの軋轢を避ける為。}|
+|'23/08/27|&b(){闇医者転向}|[[市長>山下　ひろし]]からテストケースとして闇医者へ。[[ALLIN]]お抱え医師に。&openclose2(show=詳細){&nbsp(br,3)カラーギャングを抜け準構成員となり、[[そす>いわさき　そす]]さん率いる闇医者一派に参加。&nbsp(br,3)挨拶回りをきっかけに各ギャングボスとの親交を深める。}|
+|'23/08/27|[[菖光會]]退社|[[ALLIN]]加入により敵味方の区別をはっきりさせるため。|
+|'23/09/07|A帯レース車購入|当初の目標だったレース車購入を達成。次の目標を9億のEV車購入へ。|
+|'23/09/09|闇金業務開始|[[カジノ]]での闇金活動を開始。初の債務者は[[てつおさん>切間　てつお]]。|
+|'23/09/09|ダイヤ12億事件|[[RB>R　B]]との&openclose2(show=検証で得た情報){&nbsp(br,3)石洗いのダイヤが盗品のダイヤと同価値で換金できること。数時間の石洗いファームをして検証した。}を善意で市長へ報告するも無に帰す。|
+|'23/09/10|「黒閃」を考案|以降しばらく殴り合い一強状態へ。|
+|'23/09/11|抗争参加|闇医者として[[IRiS]]対[[MOZU]]の抗争へ|
+|'23/09/15|[[Père Noël]]退職|ギャング活動が多忙になり、顔を出せていない状態が続いたため。|
+|'23/09/15|高級EV車購入|9億のTezeractを購入。ギャング幹部としてのハクをつける目標を達成。&br()&b(){第1部完}を宣言。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}}
+//----１-２章------------------
+#div(width=500px,bgcolor=#B6B6B6){&font(b,#555,110%){&nbsp()２章　闇金・カジノ編}}
+#openclose(show=＞開く){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|'23/09/16|市長と会議|[[カジノ]]経営の刷新についてプレゼンを行う。|
+|'23/09/20|署長ルーレット事件|留置所での一件が事件へ。[[エピソード詳細>無馬　かな/エピソード1#署長ルーレット事件]]|
+|'23/09/21|[[餡ブレラ>anbrella(餡ブレラ)]]とひと悶着|お互いにギャングと知らず行動した結果火種に。&openclose2(show=行動内容){&nbsp(br,3)ギャングと知らず人質にした[[関>西蓮寺　華月]]と、ギャングと知らず人質になり「銀行を出たらギャングが取り囲んでいる」ドッキリを仕掛けた無馬}|
+|&b(){'23/09/29}|&b(){[[カジノ]]オーナー就任}|5千万でカジノ経営権を買い取り、20億円の融資を受ける。&br()それに伴い、個人医免許を返納しギャング正規構成員に復帰。|
+|'23/10/01|[[餡ブレラ>anbrella(餡ブレラ)]]と抗争|人数不利の中接戦。|
+|'23/10/12|立派誕生|ほんのお遊びで始めたジャック・ザ・立派が概念へ。|
+|'23/10/18|秘書を雇用|[[鬼野 ねね>鬼野　ねね]]が専属の秘書へ。|
+|&b(){'23/10/26}|&b(){[[カジノ]]新装開店}|自身の経営する民間カジノがグランドオープンへ。|
+|&b(){'23/11/01}|&b(){[[ARCANA]]正式設立}||
+|'23/11/11|超大口薬取引|他組織の大型に被せ1万以上の薬を売却。15分程続けた為&ruby(DDoS呼び){事件}になる。|
+|'23/11/27|主戦力からの退陣|大型犯罪へのメイン参加を最後に。&br()今後は一線を退き、&openclose2(show=裏ビジネス){(軍備転売や薬物カルテルなど)}を中心にすることを表明。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}}
+//----１-３章------------------
+#div(width=500px,bgcolor=#777777){&font(b,#F2F2F2,110%){&nbsp()３章　裏ビジネス・外交編}}
+#openclose(show=＞開く){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|'23/11/30|麻薬カルテル協議|[[E5's BURGER]]の麻薬カルテル構想に５億出資。|
+|'23/12/27|スペハラを確認|[[BMC>BMカスタム]]にて|
+|'23/12/29|[[セイジ>文殊　セイジ]]の見送り|豪邸を貸し出し、彼と彼の仲間を招待。最後の想い出作りに貢献。|
+|'24/01/07|黒井愛事件へ対応|アジト会議中の[[現アンダーボス>千代田　ヨウ]]の対応に疑問を感じ介入。&br()事実関連の確認から対応まですべてを一人で行う。|
+|'24/01/10|[[GBC>GoodbyeCircus]]と2回目の会議|抗争に向け舌戦を繰り広げる。|
+|'24/01/12|ツルギ事件の後始末|舎弟[[エスターク>エスターク・Z・ダークネス]]が起こした揉め事に対応。翌日まで続く|
+|'24/01/14|[[PIN>伊藤　ぺいん]]との邂逅|PDFのMP3に。『WAV』|
+|'24/01/20|[[Sell u>Sell　u]]を見送る|韓国に帰国するためとのこと。|
+|'24/01/24|[[らびすぴ]]と会議|新設会社によるイベント開催における[[カジノ]]からの融資を決議。|
+|'24/01/24|警察との会議|カジノヘイスト時の対応についてすり合わせ。|
+|'24/01/27|[[タラさん>タラ　ちゃん]] 協力関係へ|麻薬で名を馳せたいタラちゃんと正式に手を組む。|
+|'24/01/30|[[冬野 雪>冬野　雪]]を見送る||
+|'24/01/31|[[PY>Project Y]]の閉店に立ち会う||
+|'24/02/03|[[カジノ]]懇親会に参加|[[魔法少女カフェ>RitUal:]]にて。|
+|'24/02/16|&ruby(ブラックマーケット){闇市}構想|[[月ノ島 ごう>月ノ島　ごう]]に盗難車やロケランなどを売る事業構想を話す。|
+|'24/02/17|[[月見>月見　結]]脱退に立ち会う||
+|'24/03/05|[[闇メカ>Glare Gem]]と会議|[[不二子>不二子　キャスパー]]さんと盗難車販売事業の商談をする。|
+|'24/03/03|ギャング会議参加|受注関連のギャング会議に、カジノオーナー兼ギャングUBとして参加。|
+|'24/03/05|麻林邸ドッキリ企画|スプレーの仕方で住人間トラブルへ、と見せかけたドッキリ。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}}
+//----１-４章------------------
+#div(width=500px,bgcolor=#4E4E4E){&font(b,#fff,110%){&nbsp()４章　後進育成編}}
+#openclose(show=＞開く){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|'24/03/10|&b(){機転}|ギャングとしての振る舞いに影響を及ぼしかねない程の&openclose2(show=情){&nbsp(br,3)指名手配によるぺいんとのチェイス中に[[仲の良い警察>ボイラ　テンガリン]]に名前を呼ばれたことを&nbsp(br,3)"話したい”のかと思い車を止めてしまったこと。}を&br()いつのまにか持ってしまっていたことに気が付く。|
+|'24/03/12|[[エス>エスターク・Z・ダークネス]]との舎弟関係解消|一人前になった[[エス>エスターク・Z・ダークネス]]を、次のステップへと旅立たせる。|
+|'24/03/14|外交役を託す|無馬が主に行ってきたALLINの外交役を[[チヨ>千代田　ヨウ]]と[[ヘル>ヘルアン]]に託す。|
+|&b(){'24/03/19}|&b(){ALLIN離脱}|2時間に及ぶ警察署襲撃と救急隊殺戮をきっかけに組織から離脱。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}}
+#endregion(１)
+***&underdot(#ACC2DF,3px){&font(10,#9370DB){Season1}&nbsp()第２部　ARCANA　}
+#region(表示)
+//----２-１章------------------
+#div(width=500px,bgcolor=#f7f7f7){&font(b,#666,110%){&nbsp()１章　ギャング離脱・逃亡生活編}}
+#openclose(show=＞開く){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|&b(){'24/03/19}|&b(){[[個人医]] 復職}|黒向けビジネスの進行上、逃亡中でも黒と交流出来る個人医へ復職。&br()「無馬かな」の存在を隠し、「ドクターBONGORE」として活動。|
+|'24/03/20|[[警察>ロスサントス警察]]へ偽装協力要請|居場所が漏れにくくなるよう、[[ぺいん>伊藤　ぺいん]]と[[ミンドリー>ミン　ドリー]]に協力を仰ぎ、&br()"無馬かな"のプロファイルを"ドクターBONGORE"のものへと偽装。|
+|'24/03/21|[[MonD>Mon　D]]と対話|個人医である今の現状を共有。埠頭でチェスをする。|
+|'24/03/22|[[くまちゃん>メリー・クロース]] 関係解消|[[くまちゃん>メリー・クロース]]へ今は脳焼きで遊べる身分に無い旨を伝え&openclose2(show=物){&br()(バレンタインデーのお返しのくまちゃんカクテルと、スワンボートのチケット)}を贈る。|
+|'24/03/24|警察の保護下へ|[[ボイラ>ボイラ　テンガリン]]によって証人保護プログラムに組み込まれる。|
+|'24/03/24|[[ALLIN]]vs[[GBC>GoodbyeCircus]]抗争見学|偶然居合わせ、レース作成者の[[てつお>切間　てつお]]のヘリに同乗し密かに観戦。|
+|'24/03/24|[[らびすぴ]]イベント参加|強い囚人役として参加。逃亡後「無馬」として人前に現れるのは初。|
+|'24/03/24|[[カルテル>DEP]]と協議|新薬をめぐる情報戦へ。|
+|'24/04/01|[[明晰夢>ストグラシャッフルパージデー]]を見る|[[マクドナルド署長>ライトスターボーイ]]の下でSWAT隊長として働く夢を見る。|
+|'24/04/03|ダイスポーカー大勝|[[カジノ]]で[[ウェスカー>アルフォート　ウェスカー]]と勝負。全財産(113億)を勝ち取る。&br()結果、ギャングボスが一時失踪する騒ぎに。|
+|'24/04/03|[[ALLIN]]内方針を聞く|[[ごう>月ノ島　ごう]]さんからALLINの現状と方針を聞き、ある程度の安全を認知。&br()以降「無馬かな」として隠れず行動するようになる。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}}
+//----２-２章------------------
+#div(width=500px,bgcolor=#DBDBDB){&font(b,#666,110%){&nbsp()２章　個人医・暗躍白市民編}}
+#openclose(show=＞開く){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|'24/04/05|プロファイル偽装解除|表での活動を本格的に開始。ドクターBONGOREは見納めへ。|
+|'24/04/09|[[空き巣協会>音鳴　ミックス#空き巣協会]]入会|[[会長>音鳴　ミックス]]のごり押しに遭い「一回だけなら」と協会入り。|
+|'24/04/14|[[咲夜>鳥羽　咲夜]]さんを見送る|一時帰国する咲夜さんを飛行場で見送る。前日には&openclose2(show=贈り物){&br()(カジノのロゴが入ったオーダーメイドのシェイカー)}も。|
+|'24/04/23|&b(){[[ARCANA]]&br()裏ビジネス始動}|全ギャングを対象とした裏ビジネスが動き始める。&br()これらは後の大きなビジネスの準備だという。　経過は[[ARCANA]]へ|
+|'24/04/23|白市民パス取得|警察署にて発行してもらい、注意事項などを確認した。|
+|'24/04/23|グループ会社構想|[[カジノ]]と他職種の連携による、多角的な事業グループの創立を計画。|
+|'24/04/24|映画制作構想|嘘始りの映画制作構想を実現すべく、[[マック>ライトスターボーイ]]さんに話を持ち掛ける。|
+|'24/04/25|&ruby(ブレイキング・タウン){格闘大会}買収|[[そす>いわさき　そす]]さんから権利を買収。会場は[[ラル>麻林　ラル]]さんの地下闘技場を活用予定。|
+|'24/04/30|墨入れ|ARCANAのタトゥーが完成したので首と背中に墨を入れる。|
+|'24/05/09|市長と会議|個人医の体制、車両協会、オークション開催について協議。|
+|'24/05/09|[[そす>いわさき　そす]]さんと会議|闇車両協会と連携をとれないか打診。|
+|'24/05/09|[[マック>ライトスターボーイ]]さんと会議|映画製作会社の起業相談。会社内では無馬の配下となる了承を得る。|
+|'24/05/12|[[MOZU]]を詰める|[[ARCANA]]ビジネスで不誠実を働いた[[銭形>銭形　やいち郎]]から転売意志の言質を取る。|
+|'24/05/12|[[ARCANA]]傭兵部隊構想|転売疑惑事件にて、自由に動かせる傭兵部隊の必要性を感じる。|
+|'24/05/14|[[ヴァン>ヴァン　ダーマー]]さんとお話|転売疑惑のケジメとして今後に利用できる大きめの貸しを作る。|
+|'24/05/22|[[マック>ライトスターボーイ]]さんと会議|映画事業の&openclose2(show=諸々){&nbsp(br,2)計画案共有、ポートフォリオ鑑賞、1作目の作品思案、&nbsp(br,2)スタッフキャスト選定、街中オーディション、ロケ視察&br()}について話し、正式に進行する。|
+|'24/05/23|[[エド>エド・エトワール]]と対話|無馬の対話能力とタラさんの解説により、エドの本心を聞く。|
+|'24/05/25|傭兵事業の整備|民間軍事会社[[ACADEMY]]設立に伴い、拠点等、諸々の整備を行う。|
+|'24/05/26|[[ARCANA]]準備期間終了|BMと薬の裏ビジネスを終了し、週明けからの「新ビジネス」を告知。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}}
+//----２-３章------------------
+#div(width=500px,bgcolor=#B6B6B6){&font(b,#555,110%){&nbsp()３章　秘匿組織確立編}}
+#openclose(show=＞開く){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|&b(){'24/05/28}|&b(){[[ARCANA]]本格始動}|準備期間を終え本格始動。（UNIONが追加される）|
+|'24/05/28|&ruby(クソ野郎){[[Famos Gay>Famos　Gray]]}&co(){綴りとしてはfamousが正しいですが、出会ったときの本人が表示した名札の綴りを優先しています。}との取引|輸入武器と新薬のレシピを大量の薬物とBMで買い付ける。|
+|'24/05/28|各ギャンボスと商談|[[ARCANA]]の新サービスについて告知と宣伝。|
+|'24/05/28|無馬邸のお披露目|キープしていた6069の土地に輸入物の豪邸が建つ。|
+|'24/05/28|[[ARCANA]]幹部会出席|初の幹部会を開催。|
+|'24/05/29|[[ALLIN]]と商談|島取り品の&ruby(エナジードリンク){労働力回復アイテム}の取引を持ち掛けられる。|
+|'24/05/29|[[ハク ナツメ>ハク　ナツメ]]と対話|[[CC>concellge]]解散報告を受け、行き先のないメンバーの面倒見を約束。貸し1。|
+|'24/05/31|工場見学|[[ごう>月ノ島　ごう]]さんの工場に見学へ。闇工場の構想を思いつく。|
+|'24/06/07|[[ハン>アドミゲス・ハン]]さん専属運転手へ|前々からの勧誘が実り専属運転手へ。|
+|'24/06/11|[[武器商>FEMME FATALE]]職へ|[[FEMME FATALE]]正式稼働。武器商人のジョブがつく。|
+|'24/06/21|大型受注権の入手構想|大型犯罪受注権を得る手段について構想を練り始める。|
+|'24/06/25|進路相談開始|[[ACADEMY]]譲渡に伴い約束履行にて生徒達の進路相談を始める。|
+|'24/07/04|違法鞄の商談|[[ごう>月ノ島　ごう]]さんと押収品(武器)を入れられる鞄を作れないか相談。|
+|'24/07/09|[[ARCANA]]定例会出席|新しい顔ぶれを紹介するため定例会を開催。|
+|'24/07/10|アジト型物件の内見|[[小峯>小峯　玲]]さんより元[[IRiS]]所有のアジト物件を売出す予定だと聞き内見。|
+|'24/07/23|[[武器屋>FEMME FATALE]]定例会出席|今後の予定や方針、目標について共有。|
+|'24/07/28|&b(){[[ARCANA]]大規模作戦へ}|ARCANA総動員の作戦を実施。&small(){詳細は[[ARCANA頁へ>ARCANA]]}&br()[[警察>ロスサントス警察]]と司法取引を行った結果、警察や[[一部市民>高橋　滅論]]から疑われる立場へ。|
+|'24/07/28|狩猟を始める|[[ヘラシギ]]さんからやり方を聞き[[大川>大　川]]さんと狩猟体験。|
+|'24/08/03|高橋滅論の件へ対応|違法な司法取引を聞き対警察ゲームを仕掛ける。&small(){詳細は[[ARCANA頁へ>ARCANA#高橋滅論騒動]]}|
+|'24/08/30|[[武器屋>FEMME FATALE]]の経営権譲渡|[[ティエリ>ヤブ下　安理]]さんへ経営権を譲渡。新武器開発や責任のみ受け負う形へ。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}
+//狩猟関連エピソード消す場合、どこかに狩猟の記述まとめを置かないとですけど、大型やレースと同じでまとめるほど記述が多くないので年表補完でいいかな状態です。
+}
+//----２-４章------------------
+#div(width=500px,bgcolor=#777777){&font(b,#F2F2F2,110%){&nbsp()４章　黒市民復帰編}}
+#openclose(show=＞開く){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|'24/09/04|&b(){白市民パス返納}|猟師制度が新しくなった結果、白市民パスの必要性を感じなくなり返納。&br()その足で犯罪を解禁し晴れて黒市民へ。|
+|'24/09/05|傭兵参加解禁|初傭兵は[[TOPGEAR]]。今後は各ギャンボスからの要請のみに参加。|
+|'24/09/05|[[カジノ]]経営引継ぎ|経営を任せきっていた[[鳥羽>鳥羽　咲夜]]さんへ正式に経営権を譲渡。鳥羽さんの意向&br()とカジノの性質上、オーナーとしての形は継続し責任のみ担う立場へ。|
+|'24/09/08|金庫強盗へ参加|新しく見つかった犯罪を[[ARCANA]]メンバーで&s(){検証} 挑戦。|
+|'24/09/13|無馬CUPを主催|賞金の出るサッカー杯を突発的に開催。第一回は[[MOZU]]vs[[餡ブレラ]]|
+|'24/09/14|ALLINホストへ|久しぶりに起きていた懐かしい顔ぶれと雑談。代金の100億は掛けに|
+|'24/09/22|武器商情報操作|[[警察>ましゃかり　トラボルタ]]へ[[武器屋>FEMME FATALE]]の情報を流し始める。|
+|'24/09/22|MOZU個人医案件|[[MOZU]]と[[個人医]]組合が揉めた案件へ介入。&openclose2(show=＞概要){&nbsp(br,2)[[小峯>小峯　玲]]による報告で事案を把握した無馬。今回の揉め事が、個人医全体に関わる話へ&nbsp(br,2)発展していたことを逆手に取り、関係者として双方から話を聞くことに。&nbsp(br,2)MOZU側は[[銭形>銭形　やいち郎]]と[[竹森>TANKTOP　竹森]]から、個人医側は柳瀬から聞き、個人医組合の非をいち早く察し&nbsp(br,2)た無馬は、組合とは違う立場である旨を表明すべく[[ヴァン>ヴァン　ダーマー]]さんへメッセージを残す。&nbsp(br,2)組合とMOZU間の会合内容を聞いた後、無馬の個人医スタンスを内外共に明確にすべく&nbsp(br,2)鬼野と柳瀬を連れヴァンさんと対話。[[ARCANA]]所属個人医としてすり合わせを行う。&nbsp(br,2)その際、MOZUから組合の様子や[[春春>宗像　宗三郎]]のことを聞いたため、組合側のスタンスを確認し&nbsp(br,2)今後の関わり方を考慮すべく[[姐さん>ゆちゃ　めろでぃ]]と対話。&nbsp(br,2)また、MOZUと遺恨がある元ギャングであると明かされた春春については、動機を調査。&nbsp(br,2)もし私怨で個人医を巻き込む形になっていた場合、[[師>いわさき　そす]]から託された個人医組織の立場を&nbsp(br,2)危うくしたケジメを取らせるべく調査を開始。(～9/26)&nbsp(br,2)調査を終えた後、既に反省モードの春春と対話。謝罪もといケジメの付け方について&nbsp(br,2)話をつけ、お礼にロストテクノロジーであるスナイパーライフルを借りる。}|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}}
+//----２-５章------------------
+#div(width=500px,bgcolor=#4E4E4E){&font(b,#fff,110%){&nbsp()終章　}}
+#openclose(show=＞開く){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|&b(){'24/10/18}|&b(){目的成就}|かつて誓ったこの街で生きる目的を達成。身辺整理を主軸へ。|
+|'25/02/21|[[新市長選>無馬　かな/キャラクター#新市長選挙]]出馬宣言|[[マック>ライトスターボーイ]]さんの願いを受け出馬を決意。|
+|'25/03/07|[[新市長選>無馬　かな/キャラクター#新市長選挙]]落選|落選を機に、別れに向けた本格的な挨拶回りを開始。|
+|'25/03/19|タイムリミット|街への滞在もしくは自身の役割に関する[[契約>無馬　かな#契約]]が終了。|
+|'25/03/23|[[Mon D>Mon　D]]との別れ|借りたボートで最愛の友の旅立ちを見届ける。&font(blue){＞}[[無馬だけが知る最後>無馬　かな/交友関係#MonDの最後]]|
+|'25/05/14|最後のお遊び|ウェスカーさんへ、かつての黒の自由さを思い出してもらう。&br()&openclose2(show=＞遊びの詳細){&nbsp(br,2)&b(){意味が解らないような警察署襲撃}&nbsp(br,2)ギャングボス兼市長の責任感で身動きが取れないウェスカーさんを焚きつけ&nbsp(br,2)襲撃を敢行。Twixで&openclose2(show=仲間){[[ズズ>キングスターダイヤモンド　ズズ]]、[[セイジ>文殊　セイジ]]}を集め、だん市長補佐を人質に選挙カーで警察署へ。&nbsp(br,2)ロケランが飛び交う結果になったが、市長への不信感を助長することに成功。&nbsp(br,2)不信任決議案を出されたウェスカーさんへ辞めるきっかけを残す。}|
+|&b(){'25/05/25}|&b(){街を去る}|[[ARCANA]]の面々や世話になった人たちと過ごし、[[Famos Gray>Famos　Gray]]の元へ。&br()街を出て、次の仕事に向かう。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}
+//エンディングに向けた物語(自身の寿命や死とは何かの問い、ファモスとの契約関連)については専用項目を設置したので、詳細はそちらへ。
+}
+#endregion(２)
+//
+***&underdot(#ACC2DF,3px){&font(10,#9370DB){Season1}&nbsp()幕　間　？？？　}
+#region(表示)
+#size(90%){
+#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|'25/08/30|街へ介入|[[F>Famos　Gray]]の駒として任務を遂行。[[ARCANA]]を使い観光客向けミッションを発令。&openclose2(show=※){ストグラフェス内秘匿イベントの内容}|
+|'25/08/31|再入国|観光客が帰国する間際、潜水艦にて再入国。&openclose2(show=※){[[Season2告知PV>>https://www.youtube.com/watch?v=dt2sLl9_nPg]]のこと}|
+|'25/09/09|市民接触|[[F>Famos　Gray]]からの命令でメッセンジャーとして行動開始。&br()E5's BURGERにいた市民にミッションを伝える。|
+|'25/09/16|状況確認|街の様子を確認。ミッション遂行の対価の普及に問題があったため情報を提供。|
+|'25/09/20|任務完了|任務をすべて完了した後、[[F>Famos　Gray]]の駒としての役割に終止符を打つ。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}
+
+#endregion(幕間)
+//
+***&underdot(#ACC2DF,3px){&font(10,#9370DB){Season2}&nbsp()第３部　無馬かな　}
+#region(表示,open)
+//----３-１章------------------
+#div(width=500px,bgcolor=#f7f7f7){&font(b,#666,110%){&nbsp()１章　環境整備編}}
+#openclose(show=＞開く){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|'25/12/24|再び街へ|無事に転送され街へ。[[4番>Back　Alley]]を従え、記憶喪失のフリをし情報収集。|
+|'25/12/28|闇医者事業開始|住民2名を闇医者として雇い、闇医者組織を設立する。|
+|'26/02/08|近況確認|[[4番>Back　Alley]]への近況確認。街の状況や事業の進捗、気になることなど。|
+|'26/03/13|物件交渉|7138番地の物件獲得のために部下を使い市長と交渉。&br()その後、直近で起こる組織犯罪の情報と引き換えに物件を獲得。|
+|'26/03/14|組織犯罪計画始動|&openclose2(show=中型犯罪){（貨物飛行機襲撃とアーティファクトヘイスト）}を開始するため、仲介業者に犯罪者を斡旋する。|
+|'26/04/05|闇医者近況確認|闇医者の情報を聞きつけ近況確認に訪れる。人員や報酬などを調整。|
+|'26/06/25|各組織の近況確認|武器屋と[[脇 逢魔>脇　逢魔]]の揉め事の件について聞き取り。&br()闇医者の近況についても報告を受ける。|
+|'26/07/03|闇医者発覚事件への介入|闇医者トップの[[BB>ゆちゃ　めろでぃ]]より事件の顛末について報告を受けるも&br()処分不足と判断。再処分を指示・補助した。&br()&openclose2(show=＞事件の詳細){&nbsp(br,2)[[BB>ゆちゃ　めろでぃ]]と以前から親交の深かった[[捌木 たいたい>捌木　たいたい]]が、彼女が本名で指名手配されている&nbsp(br,2)ことに気付いたのをきっかけに「彼女がそんなことをするはずがない、誰かに脅&nbsp(br,2)されているのかもしれない」と独自に身辺調査を開始。数日間の尾行・張り込み&nbsp(br,2)によりBBの正体がゆちゃめろでぃであることと闇医者組織の存在を知ってしまい、&nbsp(br,2)BBによって溶鉱炉に沈められ意識不明の重体で病院に搬送される。&nbsp(br,2)BBとしてはそれで処分が完了した認識だったが、無馬に報告したところ「危篤状&nbsp(br,2)態ならまだ生きてる」「本当に記憶を失ったかの確証が無い」と指摘され、「捌木&nbsp(br,2)たいたいを消すか、BBが死ぬか」の2択を迫られる。それに対しBBは「捌木たい&nbsp(br,2)たいを病院から誘拐し闇医者アジトで隔離・記憶がどうなっているか確認してか&nbsp(br,2)ら必要があれば再処分をする」という第3の選択を取る。&nbsp(br,2)それを許可した無馬の助力もあり、病院から闇医者の本アジトに誘拐成功。事態&nbsp(br,2)の共有のために闇医者全員がアジト内にいるタイミングで、捌木たいたいから事&nbsp(br,2)前に共有を受けていた[[ボイラ>ボイラ　テンガリン]]を筆頭に、警察にアジトを包囲される。&nbsp(br,2)この緊急事態にBBはダークチャットを使用し、犯罪者に「アジトの外に警察がい&nbsp(br,2)るから助けてほしい」と通達。結果、その時間に起きていた大勢の犯罪者たちも&nbsp(br,2)巻き込んだ逃走劇に発展した。&nbsp(br,2)&nbsp(br,2)その後、目を覚ました捌木たいたいは“闇医者の件に関する記憶”を失っていたが、&nbsp(br,2)ゆちゃのことは覚えていたため、ゆちゃの手によって再手術され“ゆちゃの存在に&nbsp(br,2)関する記憶”も抹消された。&nbsp(br,2)事件としてはこれでひと段落したものの、捌木たいたいが[[岐阜野 こみ蔵>岐阜野　こみ蔵]]にもゆち&nbsp(br,2)ゃに関する相談をしていたことが発覚したり、捌木たいたいから親しかったはず&nbsp(br,2)のゆちゃの記憶だけが消えたことで、彼の勤めているルナガレの従業員が疑惑を&nbsp(br,2)抱いていたり、今回の騒ぎで警察に闇医者の存在が完全明るみになったりなど、&nbsp(br,2)後に残る問題はもはや収拾のつかない状態にまで発展してしまった。}|
+|'26/07/08|闇医者への処分&br()警察車両爆破テロ事件|闇医者が発覚した事件の影響規模を鑑み、[[BB>ゆちゃ　めろでぃ]]を処分。&openclose2(show=＞処分内容){&nbsp(br,2)BB自身がこれまで闇医者の存在が発覚する危機に瀕するたびに&nbsp(br,2)[[キーモット ホームズ>キーモット　ホームズ]]や[[捌木 たいたい>捌木　たいたい]]に対して記憶を消す手術を&nbsp(br,2)施してきたことから、「同じ目に遭う」ためにBack Alleyが&nbsp(br,2)運転するヘリに乗せられ、街の外にある“本部”へと持ち帰られた。}&br()警察に出頭し、事の顛末を報告した後、&br()“偶然”かけた電話によって警察車両を全爆破するテロ事件を起こす。|
+|'26/07/17|メカニック体験就職開始|[[LUNA Garage]]に体験就職。メカニックとして働き始める。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+}}
+//----３-２章------------------
+#div(width=500px,bgcolor=#DBDBDB){&font(b,#666,110%){&nbsp()２章　種蒔き編}}
+#openclose(show=＞開く,block){#size(90%){#table_style(head=#A4C4E2:#fff){}
+|~日付|~出来事|~エピソード・備考|h
+|'26/08/20|種蒔き開始|謎の「種」を住民に配り始める。&br()警察官の[[真島 ルイ>真島　ルイ]]と“ゲーム”と称した取引を開始。&br()&openclose2(show=＞取引の詳細){&nbsp(br,2)無馬が種を渡した白市民を3人探し出せたら真島の勝ち。&nbsp(br,2)探し出せなかった場合は負け。真島に対してペナルティーが与えられる。&nbsp(br,2)期限は10月1日まで。&nbsp(br,2)&bold(){＜勝った際の真島への報酬＞}&nbsp(br,3)・種の入手経路を教える&nbsp(br,3)・咲いた花の用途を教える&nbsp(br,3)・市民たちに危害を加えない&nbsp(br,2)&bold(){＜負けた際の真島へのペナルティー＞}&nbsp(br,3)・警察を辞め、無馬の言う通りに働く}|
+|'26/08/27|経過確認|謎の「種」を配った住民への経過確認。[[日之 ぱちお>日之　ぱちお]]と取引を行う。|
+|'26/08/29|種蒔き序章完了|[[4番>Back　Alley]]から新たな種とアタッシュケース&openclose2(show=※){（1つはダミー、もう1つはRavolver Mk2が隠されたもの）}を受け取る。&br()[[日之 ぱちお>日之　ぱちお]]を引き込み手中に収める。|
+|'26/09/03|種蒔き第2章開始|[[4番>Back　Alley]]からプレス機と加工台、レシピ&openclose2(show=※){（レシピは薬効など無いダミー品のもの。&br()残り2つのアイテムは加藤さんへ手渡しされた）}を受け取る。&br()[[日之 ぱちお>日之　ぱちお]]と[[丘猫 まる>丘猫　まる]]に種に関する事業を引き継ぐ。&br()新聞記者にレシピをタレコミ、記事化を依頼。|
+||||
+#table_sorter{even=#f7f7f7,odd=#fff}
+}}
+#endregion(３)
+#right{&link_anchor(目次){△目次へ}}
+//---------------------------------------------------
+**&anchor(エピソード,option=nolink){エピソード}
+#include(無馬　かな/エピソード)
+
+#right{&link_anchor(目次){△目次へ}}
+//---------------------------------------------------------------------//
+*&font(#e0e0e0){配信、動画 &font(#A4C4E2){&icon_fa(fa fa-archive)}}
+**&anchor(アーカイブ,option=nolink){アーカイブ} &font(#6441A4){&icon_fa(fa fa-twitch)}
+#include(無馬　かな/アーカイブ)
+
+#right{&link_anchor(目次){△目次へ}}
+//---<クリップ>-----------------------------//
+**クリップ動画 &font(#6441A4){&icon_fa(fa fa-twitch)}
+公式タグ&nbsp()▶&nbsp(2)[[#無馬かなクリップ集>>https://x.com/Kanae_2434/status/1896791149685440943]]
+#include(無馬　かな/クリップ)
+
+#right{&link_anchor(目次){△目次へ}}
+//---<公式動画>-----------------------------//
+#include(無馬　かな/公式動画)
+
+#right{&link_anchor(目次){△目次へ}}
+----
+//---<その他関連>-----------------------------//
+**&anchor(その他関連,option=nolink){その他関連}
+***&underdot(#ACC2DF,3px){◆ 出演　}
+#region(開く,remember)
+#size(90%){#table_style(head=center:#e6e6fa){開催日=right,#=center,内容=11px,参加者=11px,}
+|~開催日|~内容|~タイトル|~会場|~参加者|~備考|h
+|'24/11/16|リアルイベント&br()音声出演|&b(){ROLE PLAY LIVE 2024@ぴあアリーナMM}&br()&font(11,u){[[告知：&font(#000){&icon_fa(fa-brands fa-square-x-twitter)}&nbsp()light/ライト>>https://x.com/light_starboy/status/1839605715784306698]]}|ぴあアリーナMM&br()[[ライブ配信（Hulu）>>https://www.hulu.jp/store/role-play-live-2024?service=hulustore&url=https%3A%2F%2Fwww.hulu.jp%2Fstore%2Frole-play-live-2024]]|[[ましゃかり>ましゃかり　トラボルタ]]、[[アベレージ>安倍　霊明]]、[[ごっちゃん@マイキー>アルフォート　ウェスカー]]、[[so5u>いわさき　そす]]、[[番田長助>ヴァン　ダーマー]]、[[寧々丸>鬼野　ねね]]、[[わきを>キャプテン　わきを]]、&br()[[ズズ>キングスターダイヤモンド　ズズ]]、[[こはならむ>こはな　らみ]]、[[ねろちゃん>椎名　圧]]、[[馬人>ジャック　馬ウアー]]、[[こるぺん>鳥野　ぎん]]、[[たけぉ>バーバリアン　田中]]、[[二十日ネル>二十日　ネル]]、[[marunnn>花沢　まるん]]、&br()[[ライト>ライト　スターボーイ]]、[[キミトス>三階堂　キミトス]]、[[Middleee>ミン　ドリー]]、[[空衣御侍>雷堂　ましろ]]、[[しょぼすけ>山下　ひろし]]&br()音声出演：[[小花衣ももみ>ももみ　マルフォイ]]、[[ぐちつぼ>つぼ浦　匠]]、[[叶>無馬　かな]]　　ナレーション：[[中村悠一>ネズ]]|&openclose2(show=簡単な概要){&br()秘書の電話相手として音声出演}|
+|'25/08/30&br()～08/31|リアルイベント&br()音声出演|&b(){ストグラフェス}&br()&font(11,u){[[告知：&font(#000){&icon_fa(fa-brands fa-square-x-twitter)}&nbsp()ストグラフェス公式>>https://x.com/STGR_Festival]]}|幕張メッセ 国際展示場&br()展示ホール1〜2|[[公式サイトへ>>https://stgrfestival.com/]]|&openclose2(show=簡単な概要){&br()[[謎解き>>https://x.com/STGR_Festival/status/1962505621032612247]]後のARCANAアジトブースにて音声出演&br()KoKo七番屋にてモチーフ飲食(バニラアイス)の販売}|
+|||||||
+#table_sorter{odd=#fff,even=#f8f8f8}
+}
+#endregion(出演)
+//
+***&underdot(#ACC2DF,3px){◆ ストグラ外コラボ　}
+#region(開く,remember)
+&font(10px){随時追記中}
+#size(90%){#table_style(head=center:#e6e6fa){配信日=right,#=center,内容=11px,参加者=11px,}
+|~配信日|~内容|~配信タイトル|~アーカイブ|~参加者|~備考|h
+|'24/03/09|VALORANT|[[【ストグラ 171日目】|無馬 かな|※鳩禁>>https://www.twitch.tv/videos/2085744118]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}&nbsp()アーカイブ>>https://youtu.be/U0q2aYxgf6s?t=14721s]]|Mondo[[(MonD)>Mon　D]]、ごっちゃん@マイキー[[(アルフォート ウェスカー)>アルフォート　ウェスカー]]、すず音[[(栖家幡 華憐)>栖家幡　華憐]]&br()わきを[[(キャプテン わきを)>キャプテン　わきを]]、DattE政宗[[(伊達咲 政宗)>伊達咲　政宗]]、こうまい[[(西蓮寺 華月)>西蓮寺　華月]]&br()ありけん[[(チャルロスSAY!)>チャルロス　SAY!]]、桃園りえる[[(刃牙 りえる)>刃牙　りえる]]、Fe:[[(斎藤 まさのり)>斎藤　まさのり]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}&nbsp()ダイジェスト&nbsp()04:05:20>>https://www.twitch.tv/videos/2086275369?t=04h05m20s]]～6:36:20|
+|'24/03/09|Street Fighter 6|[[【ストグラ 171日目】|無馬 かな|※鳩禁>>https://www.twitch.tv/videos/2085744118]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}&nbsp()アーカイブ>>https://youtu.be/U0q2aYxgf6s?t=24140]]|ごっちゃん@マイキー[[(アルフォート ウェスカー)>アルフォート　ウェスカー]]、わきを[[(キャプテン わきを)>キャプテン　わきを]]&br()ありけん[[(チャルロスSAY!)>チャルロス　SAY!]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}&nbsp()ダイジェスト&nbsp()06:42:20>>https://www.twitch.tv/videos/2086275369?t=06h42m20s]]～|
+|'25/02/03|ASKA|Arcanaで街作りゲームやる|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}&nbsp()アーカイブ>>https://youtu.be/XMcuOQthN0Q]]|FOXRABBIT[[(小峯 玲)>小峯　玲]]、Bact[[(大川)>大　川]]、寧々丸[[(鬼野 ねね)>鬼野　ねね]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}&nbsp()ダイジェスト>>https://www.twitch.tv/videos/2372090010]]|
+|'25/02/07|Fast Food Simulator|Arcana呼んでバーガー屋ガチる|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}&nbsp()アーカイブ>>https://youtu.be/DAQoo48Z5ZE]]|FOXRABBIT[[(小峯 玲)>小峯　玲]]、Bact[[(大川)>大　川]]、寧々丸[[(鬼野 ねね)>鬼野　ねね]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}&nbsp()ダイジェスト>>https://www.twitch.tv/videos/2375691613]]～2:38:24|
+|'25/02/24|League of Legends|[[スト６対戦会▶２４時LOL>>https://www.twitch.tv/videos/2389885379]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}&nbsp()アーカイブ>>https://youtu.be/d9uvug5R2Rs]]|Middleee[[(ミン ドリー)>ミン　ドリー]]、FOXRABBIT[[(小峯 玲)>小峯　玲]]、寧々丸[[(鬼野 ねね)>鬼野　ねね]]&br()るなりあ[[(皇帝)>ニックス　リア]]、天城てん[[(葉風邪 ナイ)>葉風邪　ナイ]]、天羽よつは[[(羽山 パティ)>羽山　パティ]]&br()Rio[[(犬上 リオ)>犬上　リオ]]、おらんじ〜な[[(立花 乱歩)>立花　乱歩]]、にぶぶ[[(二部 らるたる)>二部　らるたる]]|途中で灯油[[(トウユン)>トウ　ユン]]さんへ引継ぎ|
+#table_sorter{odd=#fff,even=#f8f8f8}
+//|'23/11/04|VALORANT|||ごっちゃん@マイキー／るなりあ／DattE政宗／イナゴン／Fe：／Reita／so5u／こうまい／シノ／わきを／なつめ先生||
+//|'23/11/05|VALORANT|||ごっちゃん@マイキー／高垣／みこだよ／ニョス||
+//|'24/01/09|VALORANT|||ごっちゃん@マイキー／ファン太／MARUTAKE／ありけん／ゆふな／高木少年兵||
+//デッドロック
+}
+//
+#co(){^^^^^^^^^^^^^^^^^^^^
+【判断基準】
+・配信タイトルor概要に、ストグラ関連であることがわかるもの
+・ストグラ内で日程が決められたもの
+
+【テンプレ】
+|'25//||[[>>]]||||
+
+[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}&nbsp()アーカイブ>>]]
+[[&font(#6441A4){&icon_fa(fa fa-twitch)}&nbsp()ダイジェスト&nbsp()0:00:00>>]]～0:00:00
+
+|'y/m/d|n|配信内容|[[配信タイトル>配信URL]]|[[アーカイブ>>左欄の配信と同じ内容のyoutubeアーカイブURL]]|参加者|備考[[ダイジェスト>>左欄の配信と同じ内容のtwitchiダイジェストURL]]|
+
+^^^^^^^^^^^^^^^^^^^^^^^^^}
+//
+#endregion(外コラボ)
+#right{&link_anchor(目次){△目次へ}}
+//---<情報提供場>------------------------------------------------------------------//
+*&font(#e0e0e0){情報提供場 &font(#A4C4E2){&icon_fa(fa fa-comments)}}
+情報提供、修正・削除についてはこちら
+【[[コメント履歴>無馬　かな/コメント欄]]】
+#size(50%){　}
+交流は[[公式Discrod>>https://w.atwiki.jp/streamergta5/pages/143.html]]の個別チャット「[[無馬かな>>https://discord.gg/BPHefHR7FB]]」へ
+&font(12,gray){(考察はネタバレフォーラム[[【無馬かな考察】>>https://discord.com/channels/1020353737539199057/1235837780723240960]]まで)}
+#pcomment(title_name=,2,無馬　かな/コメント欄,reply,enableurl,new)
+&aname(commentbtm)
+//
+#co(){^^^コメント欄の運用について^^^^^^^^^^^^^^^^^^^^^
+
+【コメント欄について】
+編集相談所の議論[2024-07-03 01:39:19]内容へ順守予定です。
+(提唱者による締結が行われ、議論内容が反映され次第)
+
+
+【荒れた場合の対処法(予定)】
+荒れた場合の対処法(予定)
+→表示数を減らして流す(今ココ)＞過去コメページへの導線を無くす＞ログインユーザーのみコメントできるようにする＞情報提供所ごとCO>管理権によるコメ封鎖
+
+#logined_mes(){#pcomment(title_name=,1,無馬　かな/コメント欄,reply,enableurl,new)}
+↑ログインユーザーのみコメントできる形、相談所より拝借。
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+#right(){&link_up(△ページTOPへ)}

@@ -1,0 +1,901 @@
+// アットウィキより復元対応
+//荒らしとは関係ありませんが他ページと同じように目次を追加。見出しにあるアスタリスクに反応してしまうので文字のみに変更。基本情報が上にくるように項目の並び替え。
+*プロフィール 
+&aname(ページ上部,option=nolink){}
+#table_color(#ffa98d)
+|&image(overalls_green.jpg,y=450)|h
+//&image(overalls_orange.jpg,y=250)|&image(yellow_miniskirts.jpg,y=250)|h
+
+#table_style(head=#ffa98d,hover=#ffeff1:bold)
+#table_filter(){Season1=hide,Season2=show}
+|>||Season1|Season2|h
+|~&font(#ffeff1){名前}|~&space()&font(#ffeff1){&icon_fa(fa fa-user)}&space()|>|&ruby(すけばん){栖家幡}　&ruby(かれん){華憐}|
+|~&font(#ffeff1){出身地}|~&space() &font(#ffeff1){&icon_fa(fa fa-map-marker)}&space()|>|日本|
+|~&font(#ffeff1){誕生日}|~&space()&font(#ffeff1){&icon_fa(fa fa-birthday-cake)}&space()|>|2006年06月06日 (&countup(2006/06/06,y)歳)|
+|~&font(#ffeff1){転入日}|~&space()&font(#ffeff1){&icon_fa(fa fa-plane-arrival)}&space()|2023年06月08日 &br()&b(){キャラクターエンディング済}　&small(){～2025年6月13日}|2026年04月01日 &small(){(&countup(2026/04/01,yd)経過)}|
+|~&font(#ffeff1){職業}|~&space()&font(#ffeff1){&icon_fa(fa fa-university)}&space()|ギャング〖 &u(){[[&font(#ff8673){餡ブレラ}>anbrella(餡ブレラ)]]} 〗&space(1)&sizex(1){(2023/06/13〜)}||
+|~|~|中華料理屋 &u(){[[&font(#ff8673){明味房}>ミンミンボウ]]} 店員&space(1)&sizex(1){(2024/03/05〜)}|~|
+|~&font(#ffeff1){TwiX}|~&space() &font(#ffeff1){&icon_fa(fa fa-crow)}&space()|>|@karen|
+|BGCOLOR(#ffeff1):~&color(#ffa98d){プレイヤー}|BGCOLOR(#ffeff1):&space() &font(#ffa98d){&icon_fa(fa fa-gamepad)}&space()|>|すず音(のなめぷろだくしょん)|
+|BGCOLOR(#ffeff1):~ &color(#ffa98d){告知等}|BGCOLOR(#ffeff1):&space() &font(#ffa98d){&icon_fa(fa fa-bullhorn)}&space()|>|&font(#ff8673){&icon_fa(fa fa-brands fa-x-twitter)} &u(){[[&font(#ff8673){(@suzune_rabbit)}>https://twitter.com/suzune_rabbit]]}|
+|BGCOLOR(#ffeff1):~ &color(#ffa98d){配信場所}|BGCOLOR(#ffeff1):&space() &font(#ffa98d){&icon_fa(fa fa-video)}&space()|>|&font(#ff8673){&icon_fa(fa fa-twitch)}&u(){[[&font(#ff8673){Twitch}>https://www.twitch.tv/suzune_rabbit]]}  &space(2)/&space(2)&font(#ff8673){&icon_fa(fa fa-youtube-play)}&u(){[[&font(#ff8673){YouTube}>https://www.youtube.com/@suzune_rabbit]]}|
+|BGCOLOR(#ffeff1):~&font(#ffa98d){別キャラクター}|BGCOLOR(#ffeff1):&font(#ffa98d){&space() &icon_fa(fa fa-user-plus)}|>|&small(){&openclose2(show=※ネタバレ注意){&br()[[桃兎　すずめ]]&br()[[月野　ルナ]]&br()[[鈴乃　うた]]}}|
+// (&countup(2023/06/08,d)日経過) 〜2025/06/13:736日
+
+#region(目次)&b(){目次}
+#contents(fromhere=true,level=2)
+#endregion
+
+*キャラクターエンディング
+・&b(){2025/06/14} &space(5)ウェスカーさんが餡ブレラを解散し街を出ることにしたので、華憐も仲間と共にウェスカーさんについていく事に決めた。
+#region(PLのXポスト)
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; アカウント名 (@suzune_rabbit) <a href="https://twitter.com/suzune_rabbit/status/1933610362366276053">午前4:40 · 2025年06月14日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion()
+//#include(栖家幡　華憐/切り抜き①)
+//
+
+*基本情報 
+//
+#size(90%){#table_style(hover=#ffeff1)
+|&space(2)&sizex(5){&font(#ffa98d){&icon_fa(fa fa-quote-left)}}&br()&space(2)日本に住んでいたが、父親が借金で蒸発してしまったため&br()&space(2)入院している母親の入院費3000万円を稼ぐためにロスサントスに来た。&br()&space(2)年齢は17歳で高校はケンカをして中退。&br()&space(2)口は悪いがたぶん心優しいところはあるはず。たぶんね？&br()&space(2)悪いことをしてでもお金を早くためて母親の元へ帰らねば・・・&br()&sizex(1){&space(1)}|
+}
+//#blockquote(){{日本に住んでいたが、父親が借金で蒸発してしまったため入院している&bgcolor(#ffa98d){&b(){母親の入院費3000万円を稼ぐため}}にロスサントスに来た。年齢は17歳で高校はケンカをして中退。口は悪いがたぶん心優しいところはあるはず。たぶんね？悪いことをしてでも&bgcolor(#ffa98d){&b(){お金を早くためて母親の元へ帰らねば・・・}} }}
+
+#region(基本情報,close)
+&b(){&bgcolor(#ffa98d){基本情報}}
+****&size(30%){&color(#fff){_}}
+・一人称は「うち」
+・基本的に喋り方は出身の地方の関係（とある情報筋では日本の山形県説が濃厚）で訛っていることが多い&br()→ ロスサントスで暮らす期間が長くなるにつれて標準語に近い言葉や訛らずに喋ることが増えている。
+//・餡ブレラの初期メンバーで、クラフト・ハウジング担当。
+//初期から餡ブレラの見えない所を支えてきた
+//為、メンバーからの評価も非常に高い。
+・現在、ロスサントスに来た目的である3000万円は母親のところに&font(b,#ff9966){送金済み}でロスサントスを楽しんでいる
+・[[西蓮寺　華月]]は双子の兄。栖家幡は母方の苗字で西蓮寺は父方の苗字。
+#endregion()
+//
+#region(餡ブレラ,close)
+&b(){&bgcolor(#ffa98d){餡ブレラ}}
+****&size(30%){&color(#fff){_}}
+・[[餡ブレラ]] 立ち上げメンバーのうちの1人
+・&s(){魂的には犯罪をしながら闇医者を目指そうと思っていたが、} ロスサントスに来た初日に[[ウェスカーさん>>アルフォート　ウェスカー]]・[[有坂さん>>有坂　誉]]に偶然出会って犯罪を教えてもらい、翌日にウェスカーさんからギャング入りの勧誘を受け、加入が決まった
+//・&infobox(title=クラフト,trigger=click,gravity=west){化学Lv.6(56000)、武器Lv.12(上限値)、手芸Lv.5(41900)、ロケランLv.2(10500) (1/16時点)}・ハウジング・備品管理などを担当している
+#endregion()
+//
+#region(兄妹,close)
+&b(){&bgcolor(#ffa98d){兄妹}}  
+****&size(30%){&color(#fff){_}}
+&u(){[[華月>>西蓮寺　華月]]との再会}
+・[[2023年9月10日>>https://youtu.be/AwNh170eyPo?si=na3H3XqHcX9ykI0R]]、華憐が銀行強盗の人質探しにレギオンへ向かったところで"かづき"と名乗る人物を見かける。声をかけてみると実の兄である[[華月>西蓮寺　華月]]であることが判明。10歳に離れ離れになって以来、約7年ぶりの再会を果たす
+・父方についていた華月だったが、借金を残して父親が蒸発したため、借金を返すことを目的に稼げるとの噂のロスサントスにやってきたとのことで、仕事があれば紹介してほしいと言われる。、今自分がしている仕事を見てもらおうと、華月を連れて銀行強盗をした
+・その後、自分ががお世話になっている餡ブレラの人たち・特にウェスカーさんに兄を紹介したいと思い、華月を連れてプリズンにいるウェスカーさんらを迎えに行くことにしたが、その間に餡ブレラと警察やジャムリーヌさんの間でトラブルがあったことが判明。ことが落ち着いてから連絡することに
+----
+・トラブル解決後、餡ブレラメンバーに、華憐から実兄と再会したこと・餡ブレラに紹介したいことを伝える。また華月に犯罪を教えて良いか聞こうとした際に、緊張から早まって餡ブレラとして一緒にやっていきたいといった旨を伝えてしまう。そんな華憐に対してウェスカーさんから会うことを提案され、華月に連絡。高級車ディーラーにて初対面しウェスカーさんやメンバーとの面接。華月の『華憐を守るためならどんなとこでもする』という発言と、ウェスカーさんの『華憐さんのお願いなら』という考えから、華月の餡ブレラ入りが決定した。
+#endregion()
+//
+#region(性格,close)
+&b(){&bgcolor(#ffa98d){性格}}
+****&size(30%){&color(#fff){_}}
+・良いことをしてくれた人への尊敬の念は忘れない
+//・褒められたことがあまりないのか、褒められたいので何事も努力する
+・人見知りしやすく打ち解けるまで時間かかる場合もある
+・負けず嫌いな部分があり何度失敗しても何度でもトライする
+・17才とは思えないほどママみが強く、餡ブレラの仲間達をあやすことがしばしばある
+#endregion()
+//
+#region(好きと嫌い,close)
+&b(){&bgcolor(#ffa98d){好きと嫌い}}
+****&size(30%){&color(#fff){_}}
+//・車の運転は苦手&br()(これまで高頻度で車を爆発させている)
+//・&openclose2(show=ヘリコプター){(使用筋肉：テンキー)}の運転は好き&br()（木と棒などの障害物がないため）
+//&br()（絶賛練習中。デイリーで爆発させがち)
+//・何もしていなくても警察車両のサイレンが怖い
+//・組織のために手持ちのお金を使っていても自分で手出しできる範囲であるから、という理由で経費申告するのが苦手&s(){ほぼしない}
+//・屋外での作業は変化があるので何時間もできる&br()(リサイクルセンターよりゴミ箱素材収集の方が好き)
+#table_style(hover=#ffeff1)
+|&font(#ffa98d){&icon_fa(fa-solid fa-heart)}&br()オレンジ色｜綺麗な月、空の写真を撮ること｜盗難車&br()|
+・殺風景な拠点をコーディネートするためにハウジングを嗜んでいる
+・街探検が好きで空き時間には中に入れる建物探しをしている。
+#table_style(hover=#ffeff1)
+|&font(#ffa98d){&icon_fa(fa-solid fa-heart-crack)}&br()人が多い場所｜雨の音｜英語｜スケボー｜溶鉱炉|
+・車の運転は苦手でこれまで運転中に11回程車を爆発させている)&br()→ チェイス練習やレース練習を経て成長を重ねている
+#endregion()
+//
+#region(犯罪,close)
+&b(){&bgcolor(#ffa98d){犯罪}}
+****&size(30%){&color(#fff){_}}
+・この街で銀行強盗ができるようになってから暫く、毎日何度も銀行強盗を行っていたので一部の警察に『デイリー華憐』と呼ばれ、警察体験の人にチュートリアルを頼まれることも多々。銀行強盗の罰金はチェイスの練習料金だと考えており、これまで1日で最高5回プリズンに収容の経験がある。プリズンに行き過ぎて実家のような安心感を感じていた。
+・1人で行う犯罪については、罰金が高くなろうとも楽しさを優先しており、罰金軽減の為の無抵抗の犯罪はあまりしない。&br()→ 六法変更により、心無きの人質が禁止されて心ありの人質必須だった頃は、相手の都合を考えるとなかなか人質にとることができなかったり、🐱を付けていない市民に人質を依頼した際に『人質になることに対して白市民にメリットがあるか』と断られたことがあり、人質が必要な店舗犯罪は控えていた。&br()→ その代わり、この期間にATM強盗に没頭。これまで引っこ抜いたATMは50台以上にも及ぶ。(自称ATMプロ)
+・店舗強盗での自家用車禁止を受け、盗難車SUVが必須なATM強盗が難しくなり、代わりにコンビニ強盗に没頭。ギミックが新しくなる度に真っ先に早番でコンビニ強盗を行い、餡ブレラメンバーのコンビニ強盗チュートリアルも行うことも。度々店員のボブに殴られるなどのボブヘイストが起こる。
+・島取りの新システムが導入され、忠誠度管理のために基本的に常時カラーギャングとなった華憐だが、カラーギャングの状態で餡ブレラが保有する島内のコンビニでボブを射殺すると忠誠度が下がる可能性があった為、数少ない島外のコンビニ強盗しかできなくなった。コンビニ強盗をする犯罪者が増えてクールタイム待ちが増えたこともあり、コンビニ強盗の頻度は減少。
+・コンビニ強盗の代わりに、現在は度々探し回っていた高級車窃盗に没頭中。お金稼ぎの為ではなくかっこいい盗難車を集めるために行っている。コレクションした盗難車は1億のショールーム型ハイドアウトガレージに飾っている。
+・チェイス・狙撃共に練習中
+・盗難車は可愛い色にカスタムしてもらうことが多い。課金して可愛くすることで、捕まりたくない気持ちを高めてチェイスへのモチベーション向上を図っている。
+#endregion()
+//
+#co(){
+*交友関係
+//#region(市民交流について)
+//&b(){市民交流について}
+//#areaedit()
+//以下の理由から、白市民の方との接客的な交流はあまり行っていないが、素材買取・飲食店巡りを通しての出会いが交流の場になっている。
+//・レギオンで少し話をしたことがあった🔰の子が警官になり、初めて華憐を検挙した際にかなりショックを受けられたため
+//・車修理などで色々お世話になっていた自称白市民の[[山本さん>>山本　龍也]]に華憐が指名手配中に通報され、それがきっかけで餡ブレラVS山本さんの街パチに発展したことがあるため
+//#areaedit(end)
+//#endregion
+//
+#region(餡ブレラ)
+&b(){&bgcolor(#ffa98d){餡ブレラ}}
+#areaedit()
+//-------------
+//・本人視点では知り得ないネタバレ等の直接の記載は控え、記載する際は伏せ表示にするようお願いいたします
+//・第三者から聞いたものや本人が発言したものなら構わないですが、根拠のない憶測や個人の感想に近いものは控えるようお願いいたします。本人の発言であれば証跡(発言日時等)を残してくださると助かります。
+//・上記に相応しくないと思われる記載があってもすぐに消さず、先頭に｢//｣を付けて非表示にして下さい。
+//-------------
+//
+&u(){[[アルフォート　ウェスカー]]} &infobox(title=💬,trigger=click,gravity=west){華憐さん・華憐}
+・街に来た初日に有坂さんと共に出会い、コンビニ強盗を教えてもらった後、翌日にギャング加入の勧誘を受けた
+・最初の印象こそは、怖いお兄さんであったが、拾ってもらったことへの恩義があり、「餡ブレラ」として一緒に過ごしていく中で信頼・尊敬する存在となっている
+・当初はクラフト要員としてウェスカーさんに声をかけてもらったが、実際には様々な仕事を教えてもらい「餡ブレラ」の一員として育ててくれることを喜んでいる[[▶︎10日目 5:40:50〜5:41:50>https://youtu.be/Xms37eij39E?t=20450]]
+・呼称：ウェスカーさん
+&u(){[[有坂　誉]]} &infobox(title=💬,trigger=click,gravity=west){華憐さん}
+・街に来た初日に出会う
+・面倒見のいいお兄さんで「餡ブレラ」として一緒に過ごしていてピリついてる時に空気を和ませてくれる心強い優しいお兄さんである
+・ウェスカーさんと同様に信頼・尊敬している。この二人と出会えていなかったら今の華憐はいなかったかもしれない
+・華憐への発言は割と辛辣[[▶︎70日 37:56〜>>https://youtu.be/UymlgeEjhIQ?si=pOBtfQtzEFs0Q1ul?t=2276]]
+・呼称：有坂さん
+&u(){[[アーモンド　サラザール]]} &infobox(title=💬,trigger=click,gravity=west){スケさん}
+・何かとサポートをしてくれる優しい人であり華憐が落ち込んでいたりすると励ましてくれる
+・MOZUとの最初の抗争の際に2日間バディとして活動したことで車両の運転や狙撃のうまさ・冷静な状況判断をする人であることを知る
+・新人教育や経費についてなど、ボスに話す前にお互いに事前に相談し合うことがある
+・呼称：アーモンドさん→ハンクさん
+&u(){[[アレクサンダー　アイスボックス]]} &infobox(title=💬,trigger=click,gravity=west){すけべさん→華憐さん・華憐ちゃん}
+・最初こそは口うるさいおじさんであったが、素材集めや情報収集に精を出していたことや、[[メリーさん>メリー　クロース]]の面倒をみていたことで人柄の良さを認めるようになった
+・拠点のベッドに博士が寝転がった際に匂いをかいだことで変態属性があることを知る[[▶︎5日目 10:43〜>https://youtu.be/Jkbo3e0yHuc?t=643]]
+・呼称：博士orじじい
+&u(){[[メリー　クロース]]} &infobox(title=💬,trigger=click,gravity=west){かれぴ}
+・出会いはレギオン駐車場。華憐が1人でいる時に声をかけてくれ、クマのぬいぐるみをくれた。お返しとして初心者マークが外れたばかりだった彼女に包帯をあげた。
+・餡ブレラで女子2人だった期間が長いこともあり、お互い守りたいと思っている大切な存在である。
+・くまちゃんは街に来てすぐ餡ブレラに入ってるので華憐自身は餡ブレラメンバーだけでなくもっと色んな人と交流して楽しい生活も過ごしてほしいと思っていたが、カニメイトで働くこととなり、一安心している
+・久々に会うことができると、その度にくま成分を吸っている
+・呼称：くまちゃんorくま
+&u(){[[ジェイク　レディントン]]} &infobox(title=💬,trigger=click,gravity=west){華憐さん}
+・MOZUとの初めての抗争で狙撃・車両の運転・状況判断など優れてるところが多いという印象を持つ
+・最近長い眠りから覚めたジェイクだったが、いつの間にかお互い煽り合う関係に
+・呼称：ジェイクさん
+&u(){[[キャプテン　わきを]]} &infobox(title=💬,trigger=click,gravity=west){華憐・かれぴ・ぐぎぎザウルス}
+・ウェスカーさんに餡ブレラ入りを勧誘された場で初めて会う。その際に喧嘩になり、バットでダウンさせた
+・お互い煽り合いがち。喧嘩しがち。([[&icon_fa(fa fa-clapperboard)>>https://clips.twitch.tv/HonestHeadstrongHerringRalpherZ-BeijOsrysrhUJyoQ]])
+・呼称：わきをさん
+&u(){[[九頭峰　誠士郎]]} &infobox(title=💬,trigger=click,gravity=west){華憐}
+・初めて会った時に訛りから同じ地方の出身ではないかという話になり、兄ちゃんと呼んでいた
+・呼称：&s(){兄ちゃん} 九頭峰くん
+&u(){[[クマ　ゴリラ]]} &infobox(title=💬,trigger=click,gravity=west){華憐さん}
+・いつも優しく声をかけてくれ、知らない事を聞くと丁寧に教えてくれる
+・呼称：くまさん
+&u(){[[ニャンコ・スキー]]} &infobox(title=💬,trigger=click,gravity=west){華憐さん→ママ}
+・よく一緒にカジノのホイールを回しにいったり、コンビニの盗品を売りに行ったりするなど、華憐に懐いてる
+・にゃんこの発言に対して、頻繁に可愛さを感じている
+・呼称：ニャンニャン→ニャンコ
+&u(){[[聖母　れりあ]]} &infobox(title=💬,trigger=click,gravity=west){ママ}
+・餡ブレラ加入前にレギオンにて1人で黄昏れる彼女に声をかけ、ギャングに所属している女子として意気投合し連絡先を交換したのが交友関係を持った始まり
+・２人でいる時は所謂ガールズトークで盛り上がることが多い
+・呼称：れりあちゃん
+&u(){[[七瀬　ぜろ]]} &infobox(title=💬,trigger=click,gravity=west){華憐さん}
+・街に来た初日に挨拶をした後、餡ブレラ加入までの 絡みはほぼ無かった
+・整理整頓大好き同盟
+・呼称：ぜろくん
+&u(){[[伊達咲　政宗]]} &infobox(title=💬,trigger=click,gravity=west){華憐ちゃん→華憐}
+・街に来た初日に出会う。餡ブレラ加入前の政宗との絡みは、プリズン帰りに彼が徒歩で帰っていたところを拾ったり、銀行強盗の方法を聞かれたことがある程度。
+・2人でいる時はふざけ合っているが、華憐が落ち込んでいたり緊張しているときは声をかけて励ましてくれる
+・呼称：政宗くんor政宗
+&u(){[[西蓮寺　華月]]} &infobox(title=💬,trigger=click,gravity=west){華憐ちゃん}
+・双子の兄。遺伝なのか、ハウジングが得意であることや、ビタミンカラーが好きであることなど似ているところがある
+・華憐が餡ブレラ入りを打診し加入。華憐が小型犯罪やクラフトを教え、代わりに華月から車の運転を教えてもらった
+・とにかく華憐に過保護
+・呼称：にぃに
+&u(){[[アルベール]]}
+・加入当初に母みを感じると言われた
+・華憐は魔王の口癖『うむ』をよく真似している
+・呼称：魔王
+&u(){[[那須　裕貴]]}&infobox(title=💬,trigger=click,gravity=west){華憐さん}
+・早番でよく犯罪に誘ってくれて、犯罪のコツなどを丁寧に教えてくれる
+・那須と話していると、その話し方につられるらしい
+・呼称：那須くん
+&u(){[[酒槻　すん]]}&infobox(title=💬,trigger=click,gravity=west){華憐さん}
+・加入後から、クラフトや犯罪などを一緒にして指導しており、そのお礼としてヘリをプレゼントされた　その後も気が合うのか、何かと一緒に行動する
+・3時以降の車やヘリの練習相手
+・呼称：すんくん
+&u(){[[刃牙　りえる]]}&infobox(title=💬,trigger=click,gravity=west){華憐さん}
+・街に来た頃の華憐を思い出すかのように似ている部分が多いため何かと気にかける
+・呼称：りえるちゃん
+&u(){[[いわさき　そす]]} &infobox(title=💬,trigger=click,gravity=west){華憐さん}
+・餡ブレラでクラフト担当になった当初に素材を融通してくれたりクラフト指南をしてくれた
+&u(){[[あいまいみー]]} &infobox(title=💬,trigger=click,gravity=west){華憐さん}
+・華憐がロスサントスに来て数日からの知り合い
+・あいまいみー餡ブレラ加入前から怪我をしたときにすぐ駆けつけてくれたり、指名手配中に治療が必要な時の頼りの綱で、白衣の天使のような存在であった
+#endregion
+//
+#region(個人医)
+&b(){&bgcolor(#ffa98d){個人医}} 
+#areaedit(end)
+#areaedit()
+//-------------
+//・本人視点では知り得ないネタバレ等の直接の記載は控え、記載する際は伏せ表示にするようお願いいたします
+//・第三者から聞いたものや本人が発言したものなら構わないですが、根拠のない憶測や個人の感想に近いものは控えるようお願いいたします。本人の発言であれば証跡(発言日時等)を残してくださると助かります。
+//・上記に相応しくないと思われる記載があってもすぐに消さず、先頭に｢//｣を付けて非表示にして下さい。
+//-------------
+//
+&u(){[[柳田　ライアン]]}
+・MOZUとの抗争以降、会う度に互いに煽り合い、タイマン勝負をしていた(10/9時点 1勝4敗と負け越し中)
+//1230 1負
+・ライアンが個人医になってからも煽り合いは健在。すぐ鎮静剤を打たれる([[&icon_fa(fa fa-clapperboard)>>https://clips.twitch.tv/LightHonorableScorpionStinkyCheese-1gP1xT-88yt6TJNt]])
+
+#endregion
+//
+#region(警察)
+&b(){&bgcolor(#ffa98d){警察}}
+#areaedit(end)
+#areaedit()
+#co(){
+・本人視点では知り得ないネタバレ等の直接の記載は控え、記載する際は伏せ表示にするようお願いいたします(鳩になりうる為)
+・第三者から聞いたものや本人が発言したものなら構わないですが、根拠のない憶測や個人の感想に近いものは控えるようお願いいたします。本人の発言であれば証跡(発言日時等)を残してくださると助かります。
+・上記に相応しくないと思われる記載があってもすぐに消さず、先頭に｢//｣を付けて非表示にして下さい。
+}
+&u(){[[赤城　煉]]}
+・よく煽られている。ロスサントスに来た当初に捕まった際に煽り負けたことから、いつか仕返しをしたいと考えている&br()→これまで、パトカーのトランクに栗饅頭や新聞を詰めたり、餡ブレラのステッカーを貼ったり、バットで殴るなどのイタズラをしている
+&u(){[[オルカ　トヴォロ]]}
+・運転のレベルが同じ位だった為、チェイス相手として指名することが多々あった
+・2人でピザ屋の1日バイト体験をしたり、3時以降に洋服選びや飲食店に行くなどしたことがある
+&u(){[[花沢　まるん]]}
+・オレンジ色キャラが被っており、どちらも譲らぬ攻防戦
+・釈放後、おうち(会議室) まで送迎してくれる
+&u(){[[猪原　ローズ]]}
+・よくやり負けるので宿敵。いつか頭をぶち抜きたいと考えている相手
+&u(){[[安保　さぶ郎]]}
+・華憐の推し。癒し。
+・メッセージで綺麗な月や空の写真を度々送り合っている
+
+#endregion
+//
+#region(市民)
+&b(){&bgcolor(#ffa98d){市民}}
+#areaedit(end)
+#areaedit()
+//-------------
+//・本人視点では知り得ないネタバレ等の直接の記載は控え、記載する際は伏せ表示にするようお願いいたします
+//・第三者から聞いたものや本人が発言したものなら構わないですが、根拠のない憶測や個人の感想に近いものは控えるようお願いいたします。本人の発言であれば証跡(発言日時等)を残してくださると助かります。
+//・上記に対して相応しくないと思われる記載があってもすぐに消さず、先頭に｢//｣を付けて非表示にして下さい。
+//-------------
+&u(){[[ノビー　ラング]]}
+・ロスサントスに来た初日からお世話になっており、当初お金がなかった華憐にご飯を恵んでくれていた。華憐が犯罪でダウンしてノビーさんに助けてもらう度に、その優しさで心が痛むことも
+・ノビーさんのカツアゲ現場をウェスカーさんに目撃されたことが餡ブレラ入りの勧誘を受けるきっかけの発端
+・よく銀行強盗に誘っていた(人質)
+&u(){[[焦月　ツルギ]]}
+・華憐が所有していた物件がラーメン屋オープンに伴い立ち退きが必要になったことがきっかけで仲良くなり、ハウジングを教えたことからよく同居ノリをしていた。
+・[[華月>>西蓮寺　華月]]とラーメン屋で出会った際、華憐とツルギの同居疑惑から一悶着あった。
+
+#endregion
+//
+#region(犯罪者)
+&b(){&bgcolor(#ffa98d){犯罪者}}
+#areaedit(end)
+#areaedit()
+//-------------
+//・本人視点では知り得ないネタバレ等の直接の記載は控え、記載する際は伏せ表示にするようお願いいたします
+//・第三者から聞いたものや本人が発言したものなら構わないですが、根拠のない憶測や個人の感想に近いものは控えるようお願いいたします。本人の発言であれば証跡(発言日時等)を残してくださると助かります。
+//・上記に対して相応しくないと思われる記載があってもすぐに消さず、先頭に｢//｣を付けて非表示にして下さい。
+//-------------
+&u(){[[三階堂　キミトス]]}
+・『緑髪』と呼び、会う度に互いに煽り合う ( [[&icon_fa(fa fa-clapperboard)>>https://clips.twitch.tv/HonestCrispyCoffeePanicBasket-pMUMWsQZk1uERW7R]] | [[&icon_fa(fa fa-clapperboard)>>https://clips.twitch.tv/YawningRamshackleFoxPhilosoraptor-7FVOrZPqvd32c1Lp]] )
+&u(){[[山本　龍也]]}
+・過去に華憐の指名手配を警察に通報し、その後の謝罪が無かったことから、餡ブレラvs山本さんで、お互いに見つけたら殺し合うという争いが3日間続いた。&br()→ 休戦後は餡ブレラ・華憐共々、適度な関係を築いている
+&u(){[[リリアナ　ポメラニアン]]}
+・殴り合ったり煽り合う仲。殴り合いは今のところ全敗
+・一緒に犯罪することもしばしばある
+&u(){[[四皇　シャンクズ]]} &infobox(title=💬,trigger=click,gravity=west){ママ}
+・華憐のママ呼びの名付け親。抱っこをせがまれる
+・クラフトを1から指導。武器の習熟度を効率よく上げるために誤ってコンペンセイターを作るように助言したことがきっかけで、&s(){無駄な}コンペンセイターが大量生産され始める
+・呼称：シャンシャン
+&u(){[[ハクナツメ]]}
+・元警察上官・元餡ブレラメンバー。警察時代も餡ブレラ時代も、車やヘリの運転についてアドバイスをしてもらっていた
+・2023/12/18に餡ブレラ脱退を直接伝えられる
+・呼称：はっくん
+
+#endregion
+
+#region(ストグラ印象表)
+&b(){&bgcolor(#ffa98d){ストグラ印象表}}
+#areaedit(end)
+#areaedit()
+#table_color(#eee,hover=#ffa98d){▽ 印象= #ffa98d:center,11/16=#fff}
+#table_filter(){2023/11/16=show}
+|BGCOLOR(#FFF):~ ▽ 印象|~[[2023/11/16]]|　
+|【尊敬】|[[ウェスカーさん>>アルフォート　ウェスカー]]|
+|【信頼】|[[餡ブレラ>>anbrella(餡ブレラ)]]のみんな　[[シャンシャン>>四皇　シャンクズ]]|
+|【好印象】|[[ポメ>>リリアナ　ポメラニアン]]　[[つばめちゃん>>青梅　つばめ]]　[[イチカちゃん>>碇　イチカ]]&br()[[レイラちゃん>>レイラ　キャンベル]]　[[えんじちゃん>>パス ヒソカ]]　[[SAYちゃん>>パス トバリ]]&br()[[ロスサントス警察]]の皆さん|
+|【好敵手】|[[赤城　煉]]　[[オルカ>>オルカ　トヴォロ]]　[[まるん>>花沢　まるん]]|
+|【期待】|ATM|
+|【対立】|[[わきをさん>>キャプテン　わきを]]　[[キミトス>>三階堂　キミトス]]|
+|【胸熱】|[[不二子ちゃん>>不二子　キャスパー]]　[[ネルさん>>二十日　ネル]]　[[ろぎあさん>>香月　ろぎあ]]|
+|【最推し】|[[くまちゃん>>メリー　クロース]]　[[サウ汰ちゃん>>星唄　サウ汰]]|
+|【覚醒期待】|[[すんくん>>酒槻　すん]]|
+|【苦手】|街路樹　電柱　道路標識　人混み|
+|【心配】|[[ハク　ナツメ]]|
+|【不安】|チェイス　ヘリの運転　爆発|
+|【厄介】|心無きボブ|
+|【ちょっと厄介】|[[にー>>西蓮寺　華月]]|
+|【うちが守る！】|[[くまちゃん>>メリー　クロース]]|
+|【大好き】|[[くまちゃん>>メリー　クロース]]　[[にしのんちゃん>>にし　のん]]　[[ねねちゃん>>鬼野　ねね]]&br()ATM　ゴミ箱|
+|【おもしろっ】|[[ズズ>>キングスターダイヤモンド　ズズ]]|
+#areaedit(end)
+#endregion()
+}
+*メモリー
+***&font(b,110%,#404040){服装}
+#region(開く,open)
+閉じる
+//
+#region(Season1)
+&b(){Season1}
+#size(90%){
+#table_style(hover=#ffeff1)
+|BGCOLOR(#616666):&image(s1_vermillion.png,y=230)|
+|CENTER:&small(){Vermillion}|
+//|BGCOLOR(#ffa98d):|BGCOLOR(#ffa98d):|BGCOLOR(#ffa98d):|BGCOLOR(#ffa98d):|BGCOLOR(#ffa98d):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:
+
+}
+
+#endregion
+//
+#region(Season2,open)
+&b(){Season2}
+#region(正装)&b(){正装}
+#size(90%){
+#table_style(hover=#ffeff1)
+|BGCOLOR(#616666):&image(s2_suit_red.PNG,y=230)|BGCOLOR(#616666):&image(s2_suit_white.PNG,y=230)|BGCOLOR(#616666):&image(s2_sento_white.PNG,y=230)|BGCOLOR(#616666):&image(s2_uniform_white.PNG,y=230)|BGCOLOR(#616666):&image(s2_uniform_white2.PNG,y=230)|BGCOLOR(#616666):&image(s2_whitecoat.PNG,y=230)|
+}
+
+#endregion
+//
+#region(私服)&b(){私服}
+#size(90%){
+#table_style(hover=#ffeff1)
+|BGCOLOR(#616666):&image(s2_blackdress.png,y=230)|BGCOLOR(#616666):&image(s2_overall.png,y=230)|BGCOLOR(#616666):&image(s2_overall2.png,y=230)|BGCOLOR(#616666):&image(s2_pajamas.png,y=230)|BGCOLOR(#616666):&image(s2_black.png,y=230)|BGCOLOR(#616666):&image(s2_yukata.png,y=230)|
+
+
+}
+
+#endregion
+//
+//
+#region(変装)&b(){変装}
+#size(90%){
+#table_style(hover=#ffeff1)
+|BGCOLOR(#616666):&image(s2_henso.png,y=230)|BGCOLOR(#616666):&image(s2_henso3.png,y=230)|BGCOLOR(#616666):&image(s2_henso2.png,y=230)|
+
+}
+
+#endregion
+//
+#endregion
+#endregion
+//&image(s2_shihuku.PNG,y=230)|
+***&font(b,110%){クリップ} 
+#region(開く,open)
+閉じる
+
+#table_style(head=#ffa98d,hover=#ffeff1)
+|~ &color(#ffeff1){&icon_fa(fa fa-clapperboard)}&space(2) 2023/09/28| &u(){[[&font(#ff8673){このまま捕まります！}>https://clips.twitch.tv/TardyCoweringManateeBabyRage-2wObh4d2Z0TQvBnn]]}|
+
+#endregion
+***&font(b,110%){所有車両} 
+//&font(#ffffff,#ffa98d,60%){&space(1)&new2(2024/02/27 12:00:00,time=36,show=UPDATE)&space(1)}
+#region(開く)
+&b(){閉じる}
+#region(Season1)
+&b(){Season1}
+#table_style(head=#ffa98d,hover=#ffeff1)
+#table_filter(){種類=show,名前=show,色=hide,入手日=show,備考=show}
+|~種類|~名前|~色|~入手日|~備考|h
+|Vans|&icon_fa(fa fa-car)&space(1)[[Rumpo Custom>https://w.atwiki.jp/gtav/sp/?cmd=word&word=Rumpo%20Custom&pageid=1630 ]]|BGCOLOR(#ffb864):|2023/06/10|素材収集用にウェスカーさんに買ってもらう|
+|Motorcycles|&icon_fa(fa fa-motorcycle)&space(1)[[Enduro>https://w.atwiki.jp/gtav/sp/?cmd=word&word=エンデューロ&pageid=1355]]||2023/06/12|10/4 すんくんに貸与|
+|Motorcycles|&icon_fa(fa fa-motorcycle)&space(1)&s(){[[MONKEY Z50J>https://www.gta5-mods.com/vehicles/honda-z50j-monkey]]}||2023/06/24|デスマウンテンへ行く際にウェスカーさんに買ってもらう&br()(ウェスカーさん、アーモンドさん、博士、くまちゃんとお揃い)&br()→ 8/31 実車削除のため売却|
+|Boat|&icon_fa(fa fa-ship)&space(1)[[Seashark>https://w.atwiki.jp/gtav/pages/584.amp]]||2023/07/03||
+|SUV|&icon_fa(fa fa-car)&space(1)&s(){[[Jeep SRT-8>https://www.gta5-mods.com/vehicles/jeep-srt-8-2015-add-on-replace]]}||2023/07/08|有坂さんから買取る予定だったが、ウェスカーさんが代わりに買ってくれる&br()→ 8/30 実車削除のため売却|
+|Sports|&icon_fa(fa fa-car)&space(1)[[Futo GTX>https://w.atwiki.jp/gtav/sp/?cmd=word&word=Futo%20GTX&pageid=2703 ]]|BGCOLOR(#f48064):|2023/07/13|個人主催レース用。餡ブレラメンバーでお揃い|
+|Motorcycles|&icon_fa(fa fa-motorcycle)&space(1)[[Nightblade>https://w.atwiki.jp/gtav/pages/1665.html]]||2023/07/15||
+|Motorcycles|&icon_fa(fa fa-motorcycle)&space(1)&s(){[[Bati 801>https://w.atwiki.jp/gtav/pages/392.html]]}|BGCOLOR(#ea7e76):|2023/07/15|2024/09/03 チャルにプレゼント|
+|Helicopter|&icon_fa(fa fa-helicopter)&space(1)[[Sparrow >https://w.atwiki.jp/gtav/sp/pages/2654.html]]|BGCOLOR(#ff901b):|2023/08/01|餡ブレラメンバーからのプレゼント。くまちゃんと色違い|
+|Off-road|&icon_fa(fa fa-car)&space(1)[[Draugur>https://w.atwiki.jp/gtav/sp/pages/2843.html]]|BGCOLOR(#ffe7e7):|2023/09/16|餡ブレラメンバーと同タイミングで購入|
+|Sports|&icon_fa(fa fa-car)&space(1)[[Neon>https://w.atwiki.jp/gtav/sp/pages/1907.html]]|BGCOLOR(#bb3223):|2023/09/17|有坂さんから借りていたものを買取。不二子カスタム。ダッシュボードに電子レンジとスラッシーが入っている。|
+|Motorcycles|&icon_fa(fa fa-motorcycle)&space(1)[[Powersurge>https://w.atwiki.jp/gtav/sp/pages/2958.html]]||2023/09/20||
+|Sports|&icon_fa(fa fa-car)&space(1)[[Itali RSX>https://w.atwiki.jp/gtav/sp/pages/2649.html]]|BGCOLOR(#dd3e3a):|2023/09/25|華月からのプレゼント。華憐がずっと欲しかった車。|
+|Motorcycles|&icon_fa(fa fa-motorcycle)&space(1)[[Shinobi>>https://w.atwiki.jp/gtav/sp/pages/2738.html]]|BGCOLOR(#ff7353):|2023/10/04|レース用に購入|
+|Vans|&icon_fa(fa fa-car)&space(1)[[Rumpo Custom>https://w.atwiki.jp/gtav/sp/?cmd=word&word=Rumpo%20Custom&pageid=1630 ]]|BGCOLOR(#e5fbff):|2023/10/10|2台目|
+|Super|&icon_fa(fa fa-car)&space(1)[[Tyrant>https://w.atwiki.jp/gtav/pages/1967.html]]|BGCOLOR(#fdf1ff):|2023/10/18|餡ブレラのみんなでお揃いで乗りたいと提案され、ウェスカーさんとハンクさんから購入資金・カスタム資金を一部出してもらい購入。|
+|Helicopter|&icon_fa(fa fa-helicopter)&space(1)[[Sea Sparrow >https://w.atwiki.jp/gtav/pages/1956.html]]|BGCOLOR(#ffe8be):|2023/10/23|すんくんからのプレゼント。|
+|Off-road|&icon_fa(fa fa-car)&space(1)[[Freecrawler>https://w.atwiki.jp/gtav/sp/pages/2337.html]]||2023/11/02|くまちゃんとのお揃いで貰う|
+|Airplane|&icon_fa(fa fa-plane)&space(1)[[Ultralight>https://w.atwiki.jp/gtav/sp/pages/1816.html]]||2023/11/02|くまちゃんとのお揃いで貰う。「墜落気をつけろかれん」|
+|SUV|&icon_fa(fa fa-car)&space(1)[[Toros>>https://w.atwiki.jp/gtav/pages/2427.html]]|BGCOLOR(#ff9aa3):|2023/11/12|ATM強盗用|
+|Sports|&icon_fa(fa fa-car)&space(1)&s(){[[Massacro>>https://w.atwiki.jp/gtav/pages/1088.html]]}|BGCOLOR(#ef3939):|2023/11/12|銀行強盗用→2024/07/30 魔王に譲渡|
+|Helicopter|&icon_fa(fa fa-helicopter)&space(1)[[Frogger>https://w.atwiki.jp/gtav/pages/644.html]]|BGCOLOR(#fccbc2):|2023/11/12||
+|Motorcycles|&icon_fa(fa fa-motorcycle)&space(1)Bati 901|BGCOLOR(#fdd4ba):|2023/11/16|発売日開始日にわきをさんと共に買いに行く。つばめちゃんカスタム。|
+|Sports|&icon_fa(fa fa-car)&space(1)[[Jester>https://w.atwiki.jp/gtav/pages/977.html]]|BGCOLOR(#e6f7ff):|2023/11/22|クマゴリさんから購入|
+|Compacts|&icon_fa(fa fa-car)&space(1)[[Peanut>>https://gtafanon.fandom.com/wiki/Peanut]]|BGCOLOR(#f6d398):|2023/12/06|すんくんから誕生日プレゼント|
+|SUV|&icon_fa(fa fa-car)&space(1)[[Patriot>https://w.atwiki.jp/gtav/pages/230.html]]|BGCOLOR(#A7393D):|2023/12/06|有坂さんからの誕生日プレゼント|
+|Motorcycles|&icon_fa(fa fa-motorcycle)&space(1)[[Vindicator>https://w.atwiki.jp/gtav/pages/1461.html]]||2023/12/07|わきをさんからの誕生日プレゼント。ぐぎぎ号|
+|SUV|&icon_fa(fa fa-car)&space(1)[[Issi Rally>>https://w.atwiki.jp/gtav/pages/2956.html]]|BGCOLOR(#ff7c42):|2023/12/10|那須くんからの誕生日プレゼント|
+|Boat|&icon_fa(fa fa-ship)&space(1)[[Longfin>https://w.atwiki.jp/gtav/pages/2676.html]]|BGCOLOR(#ffb864):|2023/12/12|博士・政宗くんからの誕生日プレゼント|
+|Motorcycle|&icon_fa(fa fa-motorcycle)&space(1)[[Hakuchou Drag>>https://w.atwiki.jp/gtav/pages/1655.html]]||2023/12/12|れりあちゃんからの誕生日プレゼント|
+|Helicopter|&icon_fa(fa fa-helicopter)&space(1)[[Frogger>https://w.atwiki.jp/gtav/pages/644.html]]|BGCOLOR(#e0f3ff):|2023/12/18|2台目|
+|Off-road|&icon_fa(fa fa-car)&space(1)Snowmobile||2023/12/24|個人レース用。餡ブレラでお揃い|
+|Helicopter|&icon_fa(fa fa-helicopter)&space(1)[[Buzzard>https://w.atwiki.jp/gtav/pages/227.html]]|BGCOLOR(#fdd4ba):|2024/01/15|普段乗り用。|
+|Sports|&icon_fa(fa fa-car)&space(1)[[Paragon R>>https://w.atwiki.jp/gtav/pages/2479.html]]|BGCOLOR(#ffc99a): |2024/02/12|くまちゃんからのプレゼント。かれごん。|
+|Sports|&icon_fa(fa fa-car)&space(1)Sunrise R|BGCOLOR(#e5ffed):|2024/02/22|居合わせた餡ブレラメンバー全員、ボスから買ってもらう。|
+|Bicycle|&icon_fa(fa fa-bicycle)&space(1)J-CRUISER|BGCOLOR(#ffb864):|2024/03/02|すんくんと共に購入。|
+|Motorcycles|&icon_fa(fa fa-motorcycle)&space(1)Bati 901|BGCOLOR(#e5ffea):|2024/03/10||
+|Super|&icon_fa(fa fa-car)&space(1)[[Furia>https://w.atwiki.jp/gtav/pages/2534.html]]|BGCOLOR(#486eaf):|2024/04/06||
+|Motorcycles|&icon_fa(fa fa-motorcycle)&space(1)Bati 901|BGCOLOR(#ff4b60):|2024/05/16|島取り用の赤いバイク。購入直後1分で事故る。|
+|Helicopter|&icon_fa(fa fa-helicopter)&space(1)[[Havok >https://w.atwiki.jp/gtav/pages/1835.html]]|BGCOLOR(#ffc99a): |2024/06/05|まるんさんから誕生日プレゼントに貰う|
+|Helicopter|&icon_fa(fa fa-helicopter)&space(1)[[SuperVolito>https://w.atwiki.jp/gtav/pages/1588.html]]|BGCOLOR(#f4ceec):|2024/06/21||
+|Sports|&icon_fa(fa fa-car)&space(1)[[Paragon R>>https://w.atwiki.jp/gtav/pages/2479.html]]|BGCOLOR(#e24645): |2024/06/28|2台目|
+|Vaxs|&icon_fa(fa fa-car)&space(1)[[Speedo Express>>https://tg_stig.artstation.com/projects/e0Eeg3]]|BGCOLOR(#f4d9e2):|2024/07/03|購入日7/4？|
+|Sports|&icon_fa(fa fa-car)&space(1)[[Jester RR>https://w.atwiki.jp/gtav/pages/2694.html]]|BGCOLOR(#4c2337):|2024/07/05||
+|Helicopter|&icon_fa(fa fa-helicopter)&space(1)[[Frogger>https://w.atwiki.jp/gtav/pages/644.html]]|BGCOLOR(#ffffff):|2024/07/16|3台目|
+|Motorcycles|&icon_fa(fa fa-motorcycle)&space(1)Bati 901|BGCOLOR(#bff3ee):|2024/08/18|4台目|
+#table_autoincrement(){label=No.}
+#table_sorter(){repeathead=10,even=#fff,odd=#f7f7f7}
+
+#endregion
+//
+#region(Season2, open)
+&b(){Season2}
+#table_style(head=#ffa98d,hover=#ffeff1)
+#table_filter(){車両=show,色=hide,ナンバープレート=show,入手日=show,備考=show}
+|~車両|~色|~ナンバープレート|~入手日|~備考|h
+|BGCOLOR(#f4f7f9):Faggio Mod|&color(#ffffff){■}|&tt(){}|||
+|BGCOLOR(#f4f7f9):Cody|&color(#ffffff){■}|&tt(){}|||
+
+#endregion
+#endregion
+//
+***&font(b,110%){利用拠点} 
+#region(開く)
+閉じる
+
+#table_style(head=#ffa98d,hover=#ffeff1)
+#table_filter(){番地=show,場所=show,備考=show}
+|~番地|~場所|~備考|
+|7157|会議室上|ラーメン屋裏に所有していた物件の立退要請により移転。&br()ジェイクさんの荷物一時置き場としてスタッシュを1つ貸出中。|
+|?|プール周り|BM一時置き場|
+|7164|会議室横|組織のクラフト素材在庫等置き場として開放。&br()他メンバーにも鍵を渡している。&br()|
+|7164|会議室横(ラーメン屋側)|RPG／洗剤のクラフト素材置き場用に購入。|
+|7166|ガソリンスタンド裏|ボス所有の拠点。薬拠点として間借りさせてもらっている。|
+|7166|ガソリンスタンド裏|クマゴリさんにプレゼントしてもらった拠点|
+|7166|ガソリンスタンド裏|くまちゃんとの共有拠点|
+|7173|BMC横|クラフト素材保管用拠点(BMCとの素材取引用)|
+|8214?|商店街|島取り用の拠点(政宗と購入)|
+|8248|猫カフェ付近|JTS北支店立退要請に伴い移転。島取り用の拠点|
+#table_sorter(){repeathead=10,even=#fff,odd=#f7f7f7}
+#table_autoincrement(){label=No.}
+//
+#endregion
+//
+
+*切り抜き
+//
+#table_color(#ffa98d)
+|&video(https://youtu.be/Nj4K6oup4Dk?si=QeSTcwK3ln1HqW4){320,190}|&video(https://youtu.be/jupbPjfJwkM?si=8FDhCMnkpCZRVcLs){320,190}|h
+
+#region(Season1)
+&b(){Season1}
+***YouTube切り抜き
+
+#size(90%){#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1)
+#table_filter(){投稿日=show,タイトル=show,備考=hide}
+|~投稿日|~タイトル|~備考|
+|2024/05/21| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){お花を摘みにきたらサメに襲われた！！}>>https://youtu.be/92pbqwFe_ew?si=DqycEQuT0DR9D_W7]]}&space(2)|2024/05/15 早番|
+|2024/09/16| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){怒られRTA。そすさんに怒られる華憐とわきを}>https://youtu.be/2nBFCrRUYS8?si=ibJ7GROfU7vlzccj]]}&space(2)||
+|2024/09/18| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){やる気満々だったのでボブキャットの中に入ってみたwww}>https://youtu.be/zvn9lKLQuwM?si=2bsyl4fWhz1v5rDv]]}&space(2)||
+|2024/09/24| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){ 今熱い！みんな大好き高級車窃盗でクマゴリさんが！？}>https://youtu.be/asQuAdqa_V4?si=y9S31ZqZRczb8l44]]}&space(2)|2024/09/17|
+|2024/09/25|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){餡ブレラアジトが襲撃にあう！？犯人は誰だ…}>https://youtu.be/9yslPJ2GEb0?si=UvEhjHbQMCLyr4pk]]}&space(2)|2024/09/20|
+|2024/09/27|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){MOZUが個人医に攻撃！？個人医から話を聞く華憐}>https://youtu.be/Xmrxrjg-_hM?si=VI_fw1GwRn9MJGUb]]}&space(2)||
+|2024/09/28|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){久々に起きてきた魔王を乗せて警察とチェイス！その結果は！？}>https://youtu.be/0TLF0ut2adc?si=Gh7whf67TilV9Wvt]]}&space(2)|2024/09/24|
+|2024/09/30|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){アルゴリズム体操しながらコンビニ強盗してみた！}>https://youtu.be/b51NK9-kVTA?si=hNsgxJw6geHF2R1g]]}&space(2)||
+|2024/10/01|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){いつもの場所でATMを解体したら大変なことになった！}>https://youtu.be/fP2jg1bcrdc?si=DOVLF5dUR9dNpBGr]]}&space(2)|2024/09/27|
+|2024/10/04|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){プリズンで感動の面会！！華憐の父親が救急隊の命田隊長！？}>https://youtu.be/8Z4ISQq-8LE?si=gdRMhZFVP1lXep7V]]}&space(2)||
+|2024/10/13|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){だれもやっていない犯罪シリーズ 「飛行機ハッキング墜落ミッション」やってみた！}>https://youtu.be/WaVVABMUM5s?si=cmgjm7oq8V8P0pNH]]}&space(2)|2024/10/01|
+|~投稿日|~タイトル|~備考|
+|2024/10/14|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){みんなも眠い時はちゃんとお布団で寝ようね？約束だよ！}>https://youtu.be/0r6Ubxr2yw4?si=hjYv3Jq8WpZfyj5j]]}&space(2)||
+|2024/10/15|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){たまには役に立つこともあるかもしれない！？いつも助けてくれる仲間を助けたい華憐！}>https://youtu.be/k1g6ued2y5k?si=KeWwLZXJ8eJO3aCt]]}&space(2)|2024/10/09|
+|2024/10/16|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){スケバンが街にやってきた日。ここから華憐の運命が変わった}>https://youtu.be/Nj4K6oup4Dk?si=QeSTcwK3ln1HqW4v]]}&space(2)||
+|2024/10/17|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){一人じゃ何もできない…そんな時に声をかけてくれたのは…！}>https://youtu.be/jupbPjfJwkM?si=8FDhCMnkpCZRVcLs]]}&space(2)||
+|2024/10/18|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){餡ブレラ設立8日目で街1番のギャングMOZUと抗争！？}>https://youtu.be/h-sclMu_84U?si=A904wkNlU1Ru0rjW]]}&space(2)||
+|2024/10/20|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){MOZUとの抗争中に遊んでみた！今は無き思い出の場所で号泣する華憐}>>https://youtu.be/3GS5ywTpVFg?si=bPcHeXT88x2zWmER}]]}&space(2)||
+|2024/10/22|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){868さんとの火種問題勃発！？一日の終わりにボーナスが！！}>https://youtu.be/XNTzXvx4mvA?si=2Yv-sreBk9fId_TG]]}&space(2)|2024/10/16|
+|2024/10/22|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){ウェスカーさんがついにあの力を！！！？}>https://youtu.be/h5jk5l5btWM?si=8JzpYoLBzjKW5dqJ]]}&space(2)||
+|2024/11/01|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){餡ブレラ初期メンで初めての客船！そこでできたのは…？}>https://youtu.be/tCDmaH33B3Q?si=8yIkKHyxP7smhri3]]}&space(2)||
+
+#table_sorter{even=#fff,odd=#f7f7f7}
+#co(){
+||&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){title}>url]]}&space(2)||
+}
+
+}
+***YouTubeショート
+#size(90%){#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1){配信日=left}
+#table_filter(){投稿日=show,タイトル=show,備考=hide}
+|~投稿日|~タイトル|~備考|
+|2025/07/25| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】友達（？）とヘリに乗りたかっただけなのに #ストグラ #shorts}>>https://youtube.com/shorts/qzZ1pAnoBoI?si=_uh7D51x111X-isQ]]}&space(2)||
+|2025/07/26| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】何も上手くいかない日 #ストグラ #shorts}>>https://youtube.com/shorts/ZEpUSYPYeww?si=ipFlnemVMXrlzKsI]]}&space(2)||
+|2025/07/27| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】RTA #ストグラ #shorts}>>https://youtube.com/shorts/NNhVc_5Fk84?si=Jn1aFzGZIiwRk9yh]]}&space(2)||
+|2025/08/04| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】大炎上 #ストグラ #shorts}>>https://youtube.com/shorts/-GYXESAMoJI?si=1DvrA28sFI7ukLxsrl]]}&space(2)||
+|2025/08/06| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】世界が狙える大回転ジャンプ #ストグラ #shorts}>>https://youtube.com/shorts/nPmW83vuw3Y?si=N6sdJy6LxyeedDrR]]}&space(2)||
+|2025/08/08| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】不憫な一日 #ストグラ #shorts}>>https://youtube.com/shorts/KhEjqU8V9qQ?si=s25zXf2xU-4GqkJi]]}&space(2)||
+|2025/08/10| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】ATM強盗をしてやるぜ #ストグラ #shorts}>https://youtube.com/shorts/Fa1ghhwP1f0?si=_ZFPiq0OrjUwlIPe]]}&space(2)||
+#table_sorter{even=#fff,odd=#f7f7f7}
+}
+//|| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){title}>>url]]}&space(2)||
+
+***X切り抜き
+#size(90%){#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1){配信日=left}
+#table_filter(){投稿日=show,タイトル=show}
+|~投稿日|~タイトル|
+|2023/10/14| &font(#ff8673){&icon_fa(fa fa-brands fa-x-twitter)}&space(2)&u(){[[&font(#404040){ゴール🏍🏳&br()レースって楽しいね}>>https://x.com/suzune_rabbit/status/1713054920092565824?s=46&t=UWhjL2Yz5FYvb_kXwZZnqA]]}&space(2)|
+|2023/10/16| &font(#ff8673){&icon_fa(fa fa-brands fa-x-twitter)}&space(2)&u(){[[&font(#404040){芸術点は高いと言われています💯}>>https://x.com/suzune_rabbit/status/1713768065836675473?s=46&t=UWhjL2Yz5FYvb_kXwZZnqA]]}&space(2)|
+|2023/10/29| &font(#ff8673){&icon_fa(fa fa-brands fa-x-twitter)}&space(2)&u(){[[&font(#404040){もらったヘリの色をかわいいオレンジに🍊&br()あとは帰るだけだったのに😭😭😭}>>https://x.com/suzune_rabbit/status/1718520785567199353?s=46&t=UWhjL2Yz5FYvb_kXwZZnqA]]}&space(2)|
+|2023/10/31| &font(#ff8673){&icon_fa(fa fa-brands fa-x-twitter)}&space(2)&u(){[[&font(#404040){これは・・・&br()いつもと一味違う！逃げれたしね✨}>>https://x.com/suzune_rabbit/status/1719227257649295524?s=46&t=UWhjL2Yz5FYvb_kXwZZnqA]]}&space(2)|
+|2023/11/04| &font(#ff8673){&icon_fa(fa fa-brands fa-x-twitter)}&space(2)&u(){[[&font(#404040){まさかの街中での銃撃戦！？からの落ち着いた結果…}>>https://x.com/suzune_rabbit/status/1720644634811191461?s=46&t=UWhjL2Yz5FYvb_kXwZZnqA]]}&space(2)|
+|2023/11/07| &font(#ff8673){&icon_fa(fa fa-brands fa-x-twitter)}&space(2)&u(){[[&font(#404040){車よりもヘリの方が上手ですｷﾘｯ💪🔥}>>https://x.com/suzune_rabbit/status/1721774572838818012?s=46&t=UWhjL2Yz5FYvb_kXwZZnqA]]}&space(2)|
+|2023/11/18| &font(#ff8673){&icon_fa(fa fa-brands fa-x-twitter)}&space(2)&u(){[[&font(#404040){華憐は銀行に行きたかっただけなのに…}>>https://x.com/suzune_rabbit/status/1725780044226949277?s=46&t=UWhjL2Yz5FYvb_kXwZZnqA]]}&space(2)|
+|2023/11/30| &font(#ff8673){&icon_fa(fa fa-brands fa-x-twitter)}&space(2)&u(){[[&font(#404040){体張ってお仕事してます！！}>>https://x.com/suzune_rabbit/status/1730181039564451987?s=46&t=UWhjL2Yz5FYvb_kXwZZnqA]]}&space(2)|
+|2023/12/13| &font(#ff8673){&icon_fa(fa fa-brands fa-x-twitter)}&space(2)&u(){[[&font(#404040){こういうこともたまにはあるよね…？}>>https://x.com/suzune_rabbit/status/1734898382165184649?s=46&t=UWhjL2Yz5FYvb_kXwZZnqA]]}&space(2)|
+|2024/01/18| &font(#ff8673){&icon_fa(fa fa-brands fa-x-twitter)}&space(2)&u(){[[&font(#404040){大事なものないなった…}>>https://x.com/suzune_rabbit/status/1747881259966357913?s=46&t=UWhjL2Yz5FYvb_kXwZZnqA]]}&space(2)|
+#table_sorter{even=#fff,odd=#f7f7f7}
+}
+
+#endregion
+//
+#region(Season2,open)
+&b(){Season2}
+****YouTube切り抜き
+#table_color(head=#ffa98d)
+|&color(#fff){最新の切り抜き}&br() &video(https://youtu.be/TJMi0pOhmFc?si=eeWB5eL0eLXJ2icq){320,190}|h
+
+#size(90%){#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1)
+#table_filter(){投稿日=hide,タイトル=show,アーカイブ=hide}
+|~投稿日|~タイトル|~アーカイブ|
+|2026/03/25| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】#ストグラ Season2 ロスサントスに行ったBOSSが帰ってこない！餡ブレラみんなで迎えに来たよ}>>https://youtu.be/EPgXnRBgeyc?si=d5hsNcu91knlsdTL]]}|2026/03/20|
+|2026/04/01| &font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】#ストグラ Season2 BOSSを迎えに！街ブラをして金稼ぎ＆新興ギャングの情報を知る餡ブレラ}>>https://youtu.be/SaHMTpbYjK0?si=JNsEmQFeg2KpjD3C]]}|2026/03/20|
+|2026/04/06|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】#ストグラ Season2 ロスサントスに再び⁉白い集団餡ブレラ}>>https://youtu.be/Vg3pzHutmZU?si=RMubIx5qKkY6bof4]]}|&u(){[[&font(#404040){2026/04/01}>>https://www.youtube.com/live/REot9z49mTY?si=yXJImWjSYV52MPtm]]}|
+|2026/04/07|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】#ストグラ Season2 餡ブレラアジトはやっぱりここがいいよね！}>>https://youtu.be/ryjFWGVotZ4?si=SbsQG_NYTiEDLLKH]]}|&u(){[[&font(#404040){2026/04/01}>>https://www.youtube.com/live/REot9z49mTY?si=yXJImWjSYV52MPtm]]}|
+|2026/06/09|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】#ストグラ Season2 初のブースティングでやらかした結果}>>https://youtu.be/94znvKWpmfA?si=QLYLUgJ1LnQAZkn8]]}|&u(){[[&font(#404040){2026/06/03}>>url]]}|
+|2026/06/20|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】【大爆笑】神様に見放された犯罪者の一日}>>https://youtu.be/-xJNM6_bmeI?si=qjXdTlLdSA7LD1hW]]}|&u(){[[&font(#404040){2026/06/19}>>url]]}|
+|2026/07/13|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】#ストグラ Season2 謎の液体に上田をぶち込む餡ブレラ}>>url]]}|&u(){[[&font(#404040){2026/07/05}>>url]]}|
+|2026/07/19|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】#ストグラ Season2 餡ブレラのクソガキたち}>>https://youtu.be/nP05dVqGAWg?si=hwcSCoJki6VyrA_S]]}|&u(){[[&font(#404040){2026/07/09}>>url]]}|
+|2026/07/21|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】#ストグラ Season2 久しぶりの餡女子起床に喜ぶ華憐}>>https://youtu.be/GgqCpscm9oM?si=sPyNnw__TjErnyym]]}|&u(){[[&font(#404040){2026/07/17}>>url]]}|
+|2026/07/26|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】#ストグラ Season2 久しぶりのりえるとポンコツ犯罪}>>https://youtu.be/zV50dPCGZQ8?si=HD4VsV_hr7XN5OZ8]]}|&u(){[[&font(#404040){2026/07/22}>>url]]}|
+|2026/08/12|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){【GTA】#ストグラ Season2 不憫警官を見て大爆笑する不憫すぎる犯罪者たち}>>https://youtu.be/TJMi0pOhmFc?si=THli8trJx0m0hark]]}|&u(){[[&font(#404040){2026/08/05}>>url]]}|
+
+#table_sorter{even=#fff,odd=#f7f7f7}
+// |2026/04/07|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){#title}>>url]]}|&u(){[[&font(#404040){2026/mm/dd}>>url]]}|
+}
+
+//------------------------------
+***YouTubeショート
+//
+#region(2026年,open)
+&b(){2026年}
+
+//
+#size(90%){#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1)
+#table_filter(){投稿日=show,タイトル=show,アーカイブ=hide}
+|~投稿日|~タイトル|~アーカイブ|
+|06/01|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){チェイスでジャンプをしてみた結果⁉}>>https://youtube.com/shorts/4J7mJ7_efjg?si=V1TpI4Pt_8sg8xB4]]}||
+|06/04|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){犯罪のミッションクリアで大爆笑}>>https://youtube.com/shorts/5nvAKEjxtYg?si=0FiW-bEEfz8kDB9P]]}|2026/06/04 00:57|
+|06/05|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){爆発？そんなことしません}>>https://youtube.com/shorts/bEj-ynZQ77Q?si=Tsvxlg-lNigurzCf]]}|2026/06/05 01:50|
+|07/03|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者の結末}>>https://youtube.com/shorts/TPACQlj2HME?si=haKg77e3V-pyt4ap]]}||
+|07/10|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){〇ンをパンチした結末}>>https://youtube.com/shorts/Ryqov56BDV4?si=5IqOtS0VGikE0yDL]]}|2026/07/09 22:05|
+|07/18|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){IQ200のやらかし}>>https://youtube.com/shorts/_Q5i8YdFpTY?si=pnjYKUkBeyBx9O9I]]}|2026/07/04 23:52|
+|07/21|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者の一日の始まり}>>https://youtube.com/shorts/eGybL5F6fVU?si=5G20iQC-gWco7Pi9]]}|2026/07/04 19:49|
+|07/23|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者が救急隊を人質にしようとした結果}>>https://youtube.com/shorts/82-lTCjXjZw?si=HGL10GFFCAElPBS8]]}||
+|07/24|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者orポンコツすぎる犯罪者}>>https://youtube.com/shorts/2_RBaBJ4DN4?si=duU0KJVRWIuCtl3V]]}|59日目 │ 2026/07/13 01:34|
+|07/27|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){たまには魅せる不憫な犯罪者}>>https://youtube.com/shorts/vtlJCRM-A24?si=WUMBErzU87jz7wln]]}|63日目 │ 2026/07/19 19:30|
+|~投稿日|~タイトル|~アーカイブ|
+|07/29|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者たち}>>https://youtube.com/shorts/iou5VCUm-4M?si=qDb4f2vehDNCkE1j]]}|XX日目  │ 2026/07/27 00:06|
+|08/01|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者}>>https://youtube.com/shorts/ATOqFY2J-Hk?si=Z3uWKIyj4fviMCWd]]}|69日目  │ 2026/08/01 02:26|
+|08/05|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者}>>https://youtube.com/shorts/WomtzzMaRTc?si=tlkuYuTZ-cSIireR]]}|2026/06/22 00:47|
+|08/07|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎた犯罪者}>>https://youtube.com/shorts/dTlTIVxPEho?si=7H9fjPIhYV7iuoUv]]}|72日目  │  2026/08/06 00:03|
+|08/10|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫というかアホすぎる犯罪者}>>https://youtube.com/shorts/mwoTCvPrp3E?si=kn0ZA0bw9R2BXIZ3]]}||
+|08/11|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){アホすぎる犯罪者}>>https://youtube.com/shorts/Ut5y9UgeA88?si=UyC1RUs87udBqHU0]]}||
+|08/14|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者}>>https://youtube.com/shorts/mavTFfsvLgQ?si=8haSeZPS7b-RZqkm]]}|75日目 │  &u(){[[&font(#404040){2026/08/09 0:21}>>url]]}|
+|08/15|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){ポンコツすぎる犯罪者}>>https://youtube.com/shorts/1CM2lylPopU?si=xYm-wd09ajSMUH91]]}|74日目 │ &u(){[[&font(#404040){2026/08/08 01:57}>>url]]}|
+|08/16|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者}>>https://youtube.com/shorts/pgvmcX21AFk?si=DJLccYgMKRpwwxpS]]}||
+|08/17|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者}>>https://youtube.com/shorts/1OaaCCIw4pM?si=5HRSNXXKnF1iIMkG]]}||
+|~投稿日|~タイトル|~アーカイブ|
+|08/20|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者}>>https://youtube.com/shorts/hm0oQWvoHyo?si=0FhamTDQ7YfmcbaA]]}||
+|08/21|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者}>>https://youtube.com/shorts/f5U4nu172-0?si=UvWnXgufqp46hoUL]]}||
+|08/22|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者}>>https://youtube.com/shorts/JacbQiEEIks?si=s7l7h7Hujtf-ElE9]]}||
+|08/24|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎた犯罪者}>>https://youtube.com/shorts/yvXNPFrZgZw?si=M9RHUTcFjEgDYm2f]]}|76日目 │ 2026/08/23 22:57|
+|08/27|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者}>>https://youtube.com/shorts/Ca-MM-xtUK0?si=pMshydYlBcDqPJQh]]}|79日目 │ 2026/08/26 23:35|
+|08/31|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){不憫すぎる犯罪者}>>https://youtube.com/shorts/6xDSEPCnBF8?si=PeQRLitBsFHZo983]]}||
+
+#table_sorter{even=#fff,odd=#f7f7f7}
+}
+
+#endregion
+// |2026/08/|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){#title}>>url]]}|&u(){[[&font(#404040){2026/mm/dd}>>url]]}|
+
+#endregion
+//
+
+*アーカイブ
+//
+#include(栖家幡　華憐/アーカイブ①)
+#include(栖家幡　華憐/アーカイブ②)
+#include(栖家幡　華憐/アーカイブ③)
+#include(栖家幡　華憐/アーカイブ④)
+//
+//
+//
+//
+#region(7月)
+***&bgcolor(#ffa98d){&sizex(3){&space(1)7月&space(1)}}
+#size(90%){#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1){配信日=left}
+#table_filter(){配信日=show,主なエピソード=show}
+|~配信日|~タイトル|~主なエピソード| 
+|07/01|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){51日目}>>https://www.youtube.com/live/IhGiTHVjj24?si=wNgyhYyeLqHFntnL]]}||
+|07/03|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){52日目}>>https://www.youtube.com/live/kylsGzzx7YU?si=2H2pdan6VRTnzBo-]]}||
+|07/04|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){53日目}>>https://www.youtube.com/live/hpTuWzE9k9M?si=SUBrMdDE1iENKSN1]]}||
+|07/05|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){54日目}>>https://www.youtube.com/live/SZPG2lkU6oM?si=FAunIC-9LML3QdS5]]}|キャップから手錠強奪([[&icon_fa(fa fa-clapperboard)>>https://www.twitch.tv/suzune_rabbit/clip/HeartlessSpikyRaisinYouDontSay-lcNEYOrX_bFhqyZD]]) / NOVAと抗争|
+|07/08|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){55日目}>>https://www.youtube.com/live/2wGnNUbDUX4?si=qAft_x_Zjofktrvm]]}||
+|07/09|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){56日目}>>https://www.youtube.com/live/Bk2k9Yl-6a8?si=BeEFt7QCgQ4H_z99]]}||
+|07/10|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){57日目}>>https://www.youtube.com/live/n0xunmWeQjw?si=d7hdIMd6TAlNi5UJ]]}||
+|07/11|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){58日目}>>https://www.youtube.com/live/x8i8X6F_L8I?si=hfDVv7WHW0L2LQrg]]}||
+|07/12|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){59日目}>>https://www.youtube.com/live/u1Q_GkOfk5U?si=mRzC_6zKMyhx59XK]]}|餡ブレラで置き配([[&icon_fa(fa fa-clapperboard)>>https://www.twitch.tv/suzune_rabbit/clip/BelovedTriumphantRatOptimizePrime-tLSPmG0JiOREUrcI]])|
+|07/16|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){60日目}>>https://www.youtube.com/live/4Nn9UoIw8BA?si=nnhwO_DlY8pEs4ns]]}|手錠押収したい警察との対決|
+|07/17|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){61日目}>>https://www.youtube.com/live/b1a5k91wIkk?si=mNtr-lXCjweGg5_k]]}||
+|07/18|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){62日目}>>https://www.youtube.com/live/aZo7-g8-J8U?si=B01SoaV6RTVW4Hkr]]}||
+|07/19|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){63日目 ①}>>https://www.youtube.com/live/Vfi-MdrhqG0?si=pCzXtDfKdT2bukd3]]} / &u(){[[&font(#404040){②}>>https://www.youtube.com/live/EoVFuhXhuEg?si=xxZh9voTnAf6Phpb]]} ||
+|07/22|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){64日目}>>https://www.youtube.com/live/c7E4QFxHL5Y?si=9ip6pNery7SCAR6c]]}||
+|07/23|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){65日目}>>https://www.youtube.com/live/aoEMFiq-rD4?si=KJQ14ObeIVNMdTec]]}||
+|07/24|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){66日目}>>https://www.youtube.com/live/zXpv0S9WPgo?si=1wtXuu_FtT_XUb6q]]}||
+|07/25|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){67日目}>>https://www.youtube.com/live/lrKp2e2JX0E?si=2PGmq9ChYu6fLhG4]]}||
+|07/26|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){68日目}>>https://www.youtube.com/live/7BHNWPyhx10?si=6WqKDrIS_CFUluJG]]}||
+|07/30|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){すずめ→かれん}>>https://www.youtube.com/live/TK8Xyw7wKDw?si=54fiCGNZVLL7laD-]]}||
+|07/31|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){69日目}>>https://www.youtube.com/live/c6zIT-svDAE?si=l8eV25DFAWqnyRez]]}||
+
+#table_sorter{even=#fff,odd=#f7f7f7}
+#table_autoincrement(){label=#,start=52}
+}
+#endregion
+//
+#region(8月)
+***&bgcolor(#ffa98d){&sizex(3){&space(1)8月&space(1)}}
+#size(90%){#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1){配信日=left}
+#table_filter(){配信日=show,主なエピソード=show}
+|~配信日|~タイトル|~主なエピソード| 
+|08/01|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){70日目}>>https://www.youtube.com/live/yAsjBWxKgYk?si=crfELA4qHPrRHZy7]]}||
+|08/02|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){71日目}>>https://www.youtube.com/live/ssiuvtEFrwU?si=slWPvDwkYj8ZFEqK]]}||
+|08/05|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){72日目}>>https://www.youtube.com/live/eFk9nLeIWF0?si=PG6qM8K5IT229_iJ]]}||
+|08/06|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){73日目}>>https://www.youtube.com/live/IlJSMhCOpKU?si=DLSNkXQiHTdNvr77]]}||
+|08/07|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){74日目①}>>https://www.youtube.com/live/0aSvUast2l4?si=DgYw_kTymkstw7vG]]} / &u(){[[&font(#404040){②}>>https://www.youtube.com/live/81Q69uZu11s?si=g58YrqQQCmFio56L]]}||
+|08/08|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){75日目}>>https://www.youtube.com/live/82tbcMotvWY?si=TkOLlrvUAI1a6vgm]]}||
+|08/16|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){76日目}>>https://www.youtube.com/live/PwU3d3C8Irs?si=Ota7ZbfYJtI7HST5]]}||
+|08/20|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){77日目}>>https://www.youtube.com/live/a3amb_c6NBU?si=EbJeLSF9_T5Zec9m]]}||
+|08/23|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){78日目}>>https://www.youtube.com/live/ndwJtwTyFdw?si=Ffc4Q_BlUeLz6173]]}||
+|08/26|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){79日目}>>https://www.youtube.com/live/T1u5LHL5Vcw?si=gGVs3y7en5l3KwhQ]]}||
+|08/27|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){80日目}>>https://www.youtube.com/live/Q1GnvF8SS6M?si=q6W1VRKDBJCpJr-L]]}||
+|08/29|81日目|夏祭り ※アーカイブ無し|
+|08/30|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){82日目}>>https://www.youtube.com/live/qvYY8jJqBWA?si=LksAY3Lp2PB4zEcF]]}||
+|09/04|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){83日目}>>https://www.youtube.com/live/ph70wf5dEqA?si=GSHcXPwpKOeio15r]]}||
+|09/05|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){84日目}>>https://www.youtube.com/live/FktISQN8ij0?si=9DCWKYNZDAGdMuEu]]}||
+
+#table_sorter{even=#fff,odd=#f7f7f7}
+#table_autoincrement(){label=#,start=72}
+}
+#endregion
+//
+#region(9月,open)
+***&bgcolor(#ffa98d){&sizex(3){&space(1)9月&space(1)}}
+#size(90%){#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1){配信日=left}
+#table_filter(){配信日=show,主なエピソード=show}
+|~配信日|~タイトル|~主なエピソード| 
+|09/04|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){83日目}>>https://www.youtube.com/live/ph70wf5dEqA?si=GSHcXPwpKOeio15r]]}||
+|09/05|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){84日目}>>https://www.youtube.com/live/FktISQN8ij0?si=9DCWKYNZDAGdMuEu]]}||
+
+#table_sorter{even=#fff,odd=#f7f7f7}
+#table_autoincrement(){label=#,start=87}
+}
+#endregion
+//
+
+
+//テンプレート↓
+//
+#co(){
+|MM/DD|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){title}>>url]]}||
+}
+//
+//編集用
+#region(編集用)
+***&bgcolor(#ffa98d){&sizex(3){編集用}}
+//子ページ一覧
+#ls()
+//
+//テンプレート ここから↓
+#region(◎月)
+***&bgcolor(#ffa98d){&sizex(3){&space(1)◎月&space(1)}}
+#size(90%){#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1){配信日=left}
+#table_filter(){配信日=show,日数=hide,早番=show,エピソード=show}
+|~配信日|~日数|~早番|~エピソード|
+| [[配信日>>遅番URL]]|日数|[[▶︎>>早番URL]]|[早番]早番エピソード&br()・エピソード①&br()・エピソード②&br()・エピソード③&br()[3時]3時以降のエピソード|
+#table_sorter{even=#fff,odd=#f7f7f7}
+}
+#endregion
+//テンプレート ここまで↑
+//
+//
+#endregion //編集用ここまで
+
+//
+//*&sizex(4){&font(#ffa98d){&icon_fa(fa fa-asterisk)}}&space(1)エピソード
+//#include(栖家幡　華憐/エピソード①)
+//#include(栖家幡　華憐/エピソード②)
+//&icon_fa(fa fa-square-caret-up)
+&bold(){御本人が確認する場合もあるので、本視点でのみ知り得た情報を記載するようお願いいたします。}
+#right(){[[目次へ>#目次1]]}　
+
+*ストグラコラボ
+***ストグラジオ
+#size(90%){#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1){配信日=left}
+|~2024年8月6日|&u(){[[&font(#ff8673){#ストグラジオ ゲスト:こうまい、すず音}>>https://www.twitch.tv/videos/2217170309]]}&space(2) |
+}
+***ストグラコラボ
+#region(2023年)&b(){2023年}
+#size(90%){#table_color(#ffa98d)#table_filter(){配信日=show,ゲームタイトル=show,コラボ参加者視点(敬称略)=show}
+#table_style(head=left,hover=#ffeff1){配信日=left}
+|~配信日|~ゲームタイトル|~コラボ参加者(敬称略)|
+|10/02|Grand theft auto Ⅴ|キミトス／こうまい／レントン|
+|[[11/18>>https://www.twitch.tv/videos/1980673119]]|桃太郎電鉄ワールド|しょぼすけ／みにゃ／こうまい|
+|02/02|桃太郎電鉄ワールド|ファン太／TUTTI／ジャイケル|
+#table_sorter{even=#F7F7F7,odd=#FFF}}
+
+#endregion(2023年)
+//
+#region(2024年)&b(){2024年}
+#size(90%){#table_color(#ffa98d)#table_filter(){配信日=show,ゲームタイトル=show,コラボ参加者(敬称略)=show}
+#table_style(head=left,hover=#ffeff1){配信日=left}
+|~配信日|~ゲームタイトル|~コラボ参加者視点(敬称略)|
+|[[01/09>>https://www.twitch.tv/videos/2026383387]]|桃太郎電鉄ワールド|ファン太／TUTTI／宙星ぱる|
+|[[01/11>>https://www.twitch.tv/videos/2029240880]]|桃太郎電鉄ワールド|幼少ギミック／たここ／ニコラ・クラエス|
+|03/18|Witch It|ごっちゃん@マイキー／こうまい／水無月ひいろ／シノ／桃園りえる／ぜろなな／DattE政宗／TUTTI／D.ManueL／ニコラクラエス|
+|~|Terraria|ごっちゃん@マイキー／こうまい／水無月ひいろ／シノ／桃園りえる／ぜろなな／DattE政宗／TUTTI／D.ManueL／Fe：|
+|03/25|Project Winter・Pummel Party|ごっちゃん@マイキー／わきを／こうまい／シノ／ぜろなな／DattE政宗／TUTTI／Fe：|
+|04/02|Pacify・APEX Legends |猫月みお／キミトス|
+|~|APEX Legends・Super Bunny Man|TUTTI|
+|~|Tribes of Midgard| ごっちゃん@マイキー／こうまい／シノ／TUTTI／なつめ先生／ぎるくん／やみえん／ゆふな|
+|[[04/08>>https://www.twitch.tv/videos/2114286313]]|Hand Simulator・PICO PARK・Enshrouded |ごっちゃん@マイキー／Fe：／Datte政宗／TUTTI|
+|04/22|Leathal Company|しとまき／にしのん／さくまりる／バル子／水無月ひいろ／こうまい／Datte政宗|
+|04/29|Project Winter| ごっちゃん@マイキー／こうまい／ニコラクラエス／番田長助／キミトス／ユッカ／猫月みお|
+|~|Pummel Party| ごっちゃん@マイキー／こうまい／番田長助／猫月みお／桃雛なの／ベルモナ|
+|[[05/01>>https://www.youtube.com/live/B5Yz1MhIOWU?si=LQKgggFNT_bXwHwc]]|Leathal Company|しとまき／にしのん／さくまりる／るなぼう／切嘛／こうまい|
+|[[05/06>>https://www.twitch.tv/videos/2138823204]]|Minecraft|TUTTI|
+|[[05/07>>https://www.twitch.tv/videos/2139624179?t=3567s]]|7Days to Die|しとまき／にしのん／さくまりる／こうまい／水無月ひいろ／Datte政宗／わきを|
+|05/13|Minecraft|TUTTI|
+|05/20|7Days to Die|しとまき／にしのん／さくまりる／こうまい／水無月ひいろ／Datte政宗／ごっちゃん@マイキー|
+|06/03|PUBG|ごっちゃん@マイキー／こうまい／GetMauel／水無月ひいろ／ホロ酔いさん／TUTTI／ありけん／イナゴン／なつめ先生／だよだよ／こはならむ／|
+|06/17|Apex Legends|Datte政宗／のあち|
+|~|Valorant|Datte政宗／のあち／小澤直将／だよだよ|
+|06/24|Minecraft|TUTTI|
+|07/01|Overcooked|Datte政宗／イナゴン／小澤直将|
+|07/08|Apex Legends|こうまい／イナゴン|
+|[[07/22>>https://www.twitch.tv/videos/2204125891?t=7185s]]|Apex Legends|キミトス／猫月みお|
+|08/05|Once Human|Datte政宗／シノ／D.ManueL|
+|08/12|Once Human|Datte政宗／イナゴン／Fe：／D.ManueL|
+|08/19|Grand theft auto Ⅴ|Datte政宗／イナゴン／小澤直将|
+|08/26|Apex Legends|キミトス／むちちゃん|
+|~|Chained Together|こうまい|
+|~|Once Human|叶／ごっちゃん@マイキー／しろまんた／だよだよ／番田長助／むちちゃん／so5u／D.ManueL|
+|09/02|ストグラFV|小澤直将|
+|09/09|Apex Legends|Datte政宗／TUTTI|
+|09/16|Apex Legends|Datte政宗／イナゴン|
+|09/24|Minecraft|餡ブレラ+MOZU|
+#table_sorter{even=#F7F7F7,odd=#FFF}}
+
+#endregion(2024年)
+//
+#region(2026年)&b(){2026年}
+#size(90%){#table_color(#ffa98d)#table_filter(){配信日=show,ゲームタイトル=show,コラボ参加者(敬称略)=show}
+#table_style(head=left,hover=#ffeff1){配信日=left}
+|~配信日|~ゲームタイトル|~コラボ参加者視点(敬称略)|
+|[[04/13>>https://www.twitch.tv/videos/2747050878]]|7 Days to Die|ごっちゃん@マイキー ／ 二十日ネル ／シノ／イナゴン／ D.ManueL ／ KOHAL ／ こうまい ／ 桃園りえる|
+|[[04/15>>https://www.twitch.tv/videos/2747866361]]|7 Days to Die|ごっちゃん@マイキー ／ 二十日ネル ／シノ／ イナゴン ／ D.ManueL ／  KOHAL ／ 桃園りえる ／ Zelk ／ありけん|
+#table_sorter{even=#F7F7F7,odd=#FFF}}
+
+#endregion(2023年)
+***ストグラ2次会コラボ
+#region(開く)
+閉じる
+
+#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1){配信日=left}
+|~配信日|~ゲームタイトル|~コラボ参加者(敬称略)|h
+|2023/07/21|Among Us他|餡|
+|[[2023/08/27>>https://youtu.be/tFwMlb8Gr0E?si=Rz-E61kE5RE1utkm?t=3h07m20s]]|Apex Legends||
+|2023/12/03|Braizing Sails||
+|[[2023/12/04>>https://youtu.be/9q6HoUPZi7o?si=bHU-Wixw_BMlSA18?t=1h5m]]|Braizing Sails・Party Animars|ごっちゃん@マイキー／仁科ジン／わきを／シノ／Datte政宗／こうまい／なつめ先生／聖女れりあ|
+|2023/12/05||餡+α|
+|2024/01/09|PUBG・RAFT|TUTTI|
+|2024/01/13|RAFT|TUTTI|
+|2024/01/19|Palworld||
+|2024/01/20|RAFT|TUTTI|
+|2024/01/20|Palworld||
+|2024/01/21|Palworld|ごっちゃん@マイキー／Fe：／鈴音舞夢／こうまい／ニコラ・クラエス／ありけん／ぜろなな／仁科ジン／わきを／ニョス／水無月ひいろ|
+|2024/01/22?|RAFT|TUTTI|
+|2024/01/22|Palworld|Fe：／こうまい／ごっちゃん@マイキー|
+|2023/01/23|Palworld||
+|2024/01/24|Palworld|Fe：／こうまい／ごっちゃん@マイキー 他|
+|2024/01/25|RAFT|TUTTI|
+|2024/01/25|Palworld||
+|2024/01/29|RAFT|TUTTI|
+|2024/02/03|RAFT|TUTTI|
+|[[2024/03/02>>https://youtu.be/CTL-B4fUGlA?si=SIjNcOTIBDmnAury?t=7h1m]]|APEX Legends|Datte政宗／TUTTI|
+|2024/03/04|APEX Legends|Datte政宗／TUTTI／ニコラクラエス|
+|[[2024/03/06>>https://youtu.be/yDYXlh9SGEk?si=H_lyyusC6rUl0DQ6?t=5h59m]]|APEX Legends|ニコラクラエス／TUTTI|
+|2024/03/07|VALORANT|ごっちゃん@マイキー ／Fe:／わきを／ありけん／ニコラ・クラエス／ニョス／TUTTI／聖女れりあ／柊ツルギ|
+|~|Apex Legends|TUTTI|
+|2024/03/09|VALORANT|Mondo／叶／ごっちゃん@マイキー／Datte政宗／ありけん／桃園りえる／Fe:／こうまい／わきを|
+|~|APEX Legends|Datte政宗／Fe:／ゆふな|
+|[[2024/03/10>>https://youtu.be/oUDvZaDFvUg?si=XTBJikb9Yto4PGDK?t=6h50m]]|APEX Legneds|TUTTI／ごっちゃん@マイキー|
+|2024/03/15|Apex Legends|Datte政宗|
+|[[2024/03/16>>https://youtu.be/DF2BwMjDHqA?si=VSNLHyU0RO4txtYO?t=7h18m30s]]|APEX Legends|Datte政宗／鴉紋ゆうく|
+|[[2024/03/17>>https://youtu.be/xGxL_N1spds?si=x-TOu7k_bqi3khor?t=1h20m30s]]|Apex Legends|TUTTI|
+|2024/03/18|Golf it|ごっちゃん@マイキー／ニコラクラエス／シノ／Datte政宗／こうまい／TUTTI|
+|[[2024/03/19>>https://youtu.be/PDGUf06NfjM?si=0qPPqug5aLH6BftP?t=6h34m22s]]|Terraria|ごっちゃん@マイキー／シノ／TUTTI／わきを／so5u|
+|[[2024/03/20>>https://youtu.be/H6KwvMr5k9A?si=e0u5G0evxpz85Djq?t=7h1m]]|Terraria|ごっちゃん@マイキー／シノ／TUTTI／わきを／Datte政宗|
+|[[2024/03/21>>https://youtu.be/6He8BrelAYA?si=y4ADp0W0303a7NNf?t=5h52m]]|Terraria|ごっちゃん@マイキー／シノ／ニョス／わきを／Fe：|
+|[[2024/03/22>>https://youtu.be/vELHEveS8Gg?si=fIZ5vvv8mH5L-EwY?t=6h28m]]|Terraria|ごっちゃん@マイキー／シノ／Fe：／TUTTI|
+|[[2024/03/23>>https://youtu.be/-2n8iqtEz1o?si=zbPGD0Reei8d9Iu-?t=6h57m]]|Terraria|ごっちゃん@マイキー／シノ／Fe：／so5u／DattE政宗／TUTTI|
+|[[2024/03/24>>https://youtu.be/9Yi8JRwM_DY?si=vBjlnpbhNuOoRshr?t=4h56m]]|Apex Legends||
+|[[2024/03/26>>https://youtu.be/x8uCXgXnLj0?si=nk3SGuPxS51UFyEb?t=4h36m20s]]|Pummel Party|ごっちゃん@マイキー／シノ／DattE政宗／わきを／Fe：|
+|~|Tribes of Midgard |ごっちゃん@マイキー／シノ／わきを／Fe：|
+||Tribes of Midgard||
+||Tribes of Midgard||
+|[[2024/04/04>>https://youtu.be/MSrf6aeHiCU?si=6FE34xNzDgk2z_b8?t=6h4m30s]]|Super Bunny Man|TUTTI|
+|[[2024/04/05>>https://youtu.be/HYYH7n4bzKk?si=Q-Uerb5XyeMgPhT8?t=6h21m50s]]|Super Bunny Man|TUTTI|
+|[[2024/04/07>>https://youtu.be/Ov_3occiYrE?si=wY0dt2Hd04J6Es7h?t=6h37m10s]]|Super Bunny Man|TUTTI|
+|[[2024/04/09>>https://youtu.be/QHg0hoVYND8?si=wyayNmEIChuvSPvf?t=4h29m40s]]|Enshrouded|ごっちゃん@マイキー／シノ／so5u／Fe：／わきを／ニコラ・クラエス|
+|[[2024/04/10>>https://youtu.be/vRudw46LnU8?si=jY3-tgHfwmEYPSnr?t=5h32m35s]]|Enshrouded|ごっちゃん@マイキー／水無月ひいろ／Fe：／ニョス／TUTTI／桃園りえる／so5u|
+|[[2024/04/11>>https://youtu.be/7PWwsgs5YR0?si=PfBORjcSB8KCL_Da?t=4h5m25s]]|Enshrouded|ごっちゃん@マイキー／ありけん／so5u／ニョス／Fe：|
+|[[2024/04/12>>https://youtu.be/QqtCR1Hp9a8?si=YXq_le0No78xmro3?t=4h43m55s]]|Enshrouded|ごっちゃん@マイキー／Fe：／so5u|
+|[[2024/05/09>>https://youtu.be/-G0cbXFA4_M?si=xCd4ZRz1vT4hfHQk?t=2h50m30s]]|Among Us| ごっちゃん@マイキー／Fe：／わきを／D.ManueL／Datte政宗／ぜろなな／鈴音舞夢／TUTTI／イナゴン|
+|~|Apex Legends| ごっちゃん@マイキー／D.ManueL |
+|[[2024/06/22>>https://youtu.be/2NDn5idQIK8?si=wAni25OhPvFQbv-J?t=5h3m]]|ApexLegends| Datte政宗／小澤直将|
+|[[2024/07/09>>https://youtu.be/4961Ydv1Tmc?si=-hljM7xq0Z3PUILF?t=4h21m]]|GROUNDED|ごっちゃん@マイキー／ニョス／二十日ネル |
+|[[2024/07/10>>https://youtu.be/yQKtY7LjDUA?si=sU0414WQ72bjyyMZ?t=5h37m]]|GROUNDED|ごっちゃん@マイキー／ニョス／二十日ネル |
+|[[2024/07/11>>https://youtu.be/x6-GsbKYX2g?si=A1_aZwsA2kyNcAEu?t=4h58m]]|GROUNDED|ごっちゃん@マイキー／ニョス／二十日ネル |
+|[[2024/07/12>>https://youtu.be/5CGtWrk6FVw?si=u6lEOpfQ7GXyecbL?t=5h10m]]|GROUNDED|ごっちゃん@マイキー／ニョス／二十日ネル|
+|2024/08/10|ApexLegends|Datte政宗／TUTTI|
+|2024/08/11|ApexLegends|D.ManueL／イナゴン|
+|2024/08/25|Once Human|むちちゃん|
+|2024/09/11|Golf with your friends|ごっちゃん@マイキー／ニコラクラエス／こうまい／TUTTI／桃園りえる|
+|2024/09/20|Apex Legends|ニコラクラエス／Datte政宗|
+#table_sorter(){repeathead=11,even=#fff,odd=#f7f7f7}
+
+#endregion
+//*&sizex(4){&font(#ffa98d){&icon_fa(fa fa-asterisk)}}&space(1)関連
+//#region
+//#endregion
+
+#right(){[[目次へ>#目次1]]}　

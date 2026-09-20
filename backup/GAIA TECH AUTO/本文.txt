@@ -1,0 +1,83 @@
+#slide_img(auto=5,position=center,width=500,height=281){GAIA TECH AUTO_Logo.jpg,GAIA TECH AUTO_01.jpg,}
+
+#table_style(head=#ddbcff){}
+|~店名|~&icon_fa(fa-solid fa-shop)|&ruby(ガイア){&bold(){GAIA}} &ruby(テック){&bold(){TECH}} &ruby(オート){&bold(){AUTO}}|
+|~STATE表示|~&icon_fa(fa fa-tag)|&bold(){【GAIA】}|
+|~業種|~&icon_fa(fa-solid fa-screwdriver-wrench)|整備工場|
+|~開業日|~&icon_fa(fa-regular fa-calendar-days)|2026年8月28日&small(){（&countup(2026/08/28,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|8004番地|
+|~社長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[花塚　暁磨]]}|
+|~TwiX|~&icon_fa(fa fa-crow)|GAIA TECH AUTO@gaia|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(20px){&font(27px,#ddbcff){基}本情報 &icon_fa(fa-solid fa-car-side)}
+・車好きの花塚が開業した小規模なメカニック。
+・顧客のドライビングのクセや好みに寄り添ったチューニングショップを目指す。
+・花塚並みに車に詳しく、車両を大事にし、花塚と気が合う者のみ雇用する。
+
+*&font(20px){&font(27px,#ddbcff){従}業員情報 &icon_fa(fa fa-users)}
+#div(width=330px,bgcolor=#ddbcff){&font(16px,b,#fff){&size(16){&space()&icon_fa(fa-solid fa-user)&space()&bold(){従業員}}}}
+#table_filter(){名前=show,役職=show,ランク=show,就職日=show,備考=show,配信=show}
+#table_style(head=center:#E6E6FA)
+|~名前|~役職|~ランク|~就職日|~備考|~配信|h
+|[[花塚　暁磨]]|社長|4:Manager|2026/04/30||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/guilty1223]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@giruru/featured]]|
+|[[猪狩　翔太]]|従業員予定|||元[[SKE>菖光エンジニア]]社長(S1)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/ki_n_chi]]|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//***退職者
+//#table_filter(){役職=show,ランク=show,名前=show,就職日=show,最終出勤日=show,備考=show,配信=hide}
+//#table_style(head=center:#E6E6FA)
+//|~名前|~役職|~ランク|~就職日|~最終出勤日|~備考|~配信|h
+//|[[名　前]]|||yyyy/mm/dd|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//***職業体験者
+//#table_style(head=center:#E6E6FA)
+//|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#FF7F7,odd=#FFFFFF}
+
+#co(){
+階級コピペ用
+4:Manager
+3:Advanced
+2:Experienced
+1:Novice
+0:Recruit
+}
+
+*&font(20px){&font(27px,#ddbcff){年}表 &icon_fa(fa-solid fa-book)}
+***2026年
+#region(開く,open)閉じる
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#E6E6FA)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|01/25|市長面談|[[花塚　暁磨]]&br()[[山下　ひろし]]|8004の前の街の[[中古車ディーラー>Reboot]]の建物で開業を申請する。|
+|03/26|開業許可|[[花塚　暁磨]]&br()[[山下　ひろし]]|[[市長>山下　ひろし]]より開業許可が下りる。&br()元々申請していた場所の隣に建った大きな店舗に変更になり、従業員を増やすように求められた。|
+|03/28|従業員確保|[[花塚　暁磨]]&br()[[猪狩　翔太]]|溶鉱炉で出会った[[猪狩　翔太]]と花塚が意気投合し、従業員の確保に至った。|
+|04/10|店舗設備完成||店舗の設備が整い、マップにアイコンが付いた。市長に会い次第開業予定だが市長と起床時間が合わない。|
+|04/30|社長就任|[[花塚　暁磨]]&br()[[山下　ひろし]]|市長よりジョブ付与。開業資金3000万の融資を受ける。|
+|>|>|>|CENTER:～チューニングアプデまで開業延期～|
+|08/28|&bold(){開業}|[[花塚　暁磨]]|[[4周年記念CLL>>https://youtu.be/qHcWYj0WuUM&t=3779]]の企業コラボでロゴが発表されたため、急遽開業。しれっとオープン|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(年表)
+//
+#Co(){
+まだ詳細が出ていないため出さないでください。プレビューに出ているこれは表示されません。
+//*&font(20px){&font(27px,#ddbcff){ス}トグラ外コラボ &icon_fa(fas fa-icons)}
+***&size(20){&color(#ddbcff){●}} &font(15px){&bold(){STGR×caseplay メカニックコラボ}}
+#region(開く,open)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #cccccc;){
+#size(14px){2026/mm/dd [[STGR×caseplay メカニックコラボ>>URL]] 
+&space(3)&small(){商品名} 
+}}}}
+#endregion
+}
+#right(){&link_up(🔝ページTOPへ)}

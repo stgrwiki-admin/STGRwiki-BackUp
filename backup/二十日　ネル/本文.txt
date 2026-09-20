@@ -1,0 +1,309 @@
+//**プロフィール
+*&font(35px,#B3D3D2){&icon_fa(fa fa-user-circle)}&font(35px,#ffffff){プ}&font(25px,#ffffff){ロフィール}
+&aname(ページ上部,option=nolink){}
+#div(width=200px,bgcolor=#7DADDD){&size(17){&font(b,#FFFFFF){　Season 2}}}
+//#region(開く,open)閉じる
+#slide_img(auto=0,position=left,width=360,height=216){二十日 ネル【SWAT3】.jpg,二十日 ネル【SWAT4】.jpg}
+　&bold(){｢おはよ～｣}　&bold(){｢寝ま～す おやすみなさい｣}
+//#endregion()
+#table_style(head=#B3D3D2:#373737)
+|BGCOLOR(#4682B4):~&color(#ffffff){Season}|BGCOLOR(#4682B4):~&color(#ffffff){&icon_fa(fa fa-calendar)}|BGCOLOR(#4682B4):CENTER:&color(#ffffff){&bold(){Season  2}}|BGCOLOR(#4682B4):CENTER:&color(#ffffff){&bold(){Season 1}}|
+|~名前|~&icon_fa(fa fa-user) |>|&ruby(はつか){二十日}　ネル|
+|~出身地|~&icon_fa(fa fa-map-marker) |>|施設|
+|~誕生日|~&icon_fa(fa fa-birthday-cake) |>|2002年2月20日 (&countup(2002/02/20,y)歳) &small(){※1 プロファイル上}&br()2002年12月21日 (&countup(2002/12/21,y)歳) &small(){※2 公式グッズ上}|
+|~血液型|~&icon_fa(fa fa-heartbeat)|>|A型|
+|~転入日|~&icon_fa(fa fa-plane-arrival) |2025年12月28日 (&countup(2025/12/28,yd)経過)|2022年8月29日 (&countup(2022/08/29,yd)経過)|
+|~物件|~&icon_fa(fa fa-home)|アパート 8039番地|自宅 8046番地|
+|~職業|~&icon_fa(fa fa-university) |&bold(){[[警察官>ロスサントス警察]]} 特殊部隊Dogs &small(){2025/12/28～}&nbsp(br,4)&bold(){階級はGrade:6のChief(警視正)}|&s(){タクシー運転手} &s(){ホットドッグ屋} &small(){2022/8/29}&br()&bold(){[[警察官>ロスサントス警察]]} 特殊部隊Dogs &small(){2022/8/29～}&nbsp(br,4)&bold(){階級はGrade:5のSuperintendent(警視)}&br()魔女カフェ【[[RitUal:]]】&small(){2023/8/8～}|
+|~TwiX|~&icon_fa(fa fa-tag) ||@二十日ネル|
+|~恋人|COLOR(#660000):~&icon_fa(fa fa-heart) ||[[吉田　ユッカ]]|
+|BGCOLOR(#B5BCB5):COLOR(#373737):~プレイヤー|BGCOLOR(#B5BCB5):COLOR(#373737):~&icon_fa(fa fa-address-card) |>|二十日ネル|
+|BGCOLOR(#B5BCB5):COLOR(#373737):~告知等|BGCOLOR(#B5BCB5):COLOR(#373737):~&icon_fa(fa fa-bullhorn) |>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[&font(#000000){X(旧Twitter) @hatsukaneru}>>https://twitter.com/hatsukaneru]]|
+|BGCOLOR(#B5BCB5):COLOR(#373737):~配信場所|BGCOLOR(#B5BCB5):COLOR(#373737):~&icon_fa(fa fa-gamepad) |>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (hatsukaneru)}>>https://twitch.tv/hatsukaneru]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725) {YouTube}>>https://www.youtube.com/channel/UChS8E6_q2Ew6QV2M3yEa8xw/featured]]|
+|BGCOLOR(#B5BCB5):COLOR(#373737):~動画投稿|BGCOLOR(#B5BCB5):COLOR(#373737):~&icon_fa(fa fa-video-camera)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E4%BA%8C%E5%8D%81%E6%97%A5%E3%83%8D%E3%83%AB]]|
+|BGCOLOR(#B5BCB5):COLOR(#373737):~ガイドライン|BGCOLOR(#B5BCB5):COLOR(#373737):~&icon_fa(fa fa-info-circle)|>|[[切り抜きガイドライン>>https://x.com/hatsukaneru/status/1804052420953280995]]|
+|BGCOLOR(#211C1C):COLOR(#eaf4fc):~別キャラ|BGCOLOR(#211C1C):COLOR(#eaf4fc):~&icon_fa(fa fa-user-plus)|>|&openclose2(show=ネタバレ注意){&nbsp(br,2)[[メアリー　ディクソン]]&nbsp(br,2)[[宿無　おきる]]&nbsp(br,2)[[LUCA　KUROSAWA]]&nbsp(br,2)[[灯熄　あおる]]}|
+
+#div(width=200px,bgcolor=#7DADDD){&size(17){&font(b,#FFFFFF){　Season 1 画像}}}
+#region(開く,close)閉じる
+#slide_img(auto=3,width=290,height=460)
+{二十日 ネル【SWAT1】.jpg,二十日 ネル【SWAT2】.jpg,二十日 ネル【POLICE1】.jpg,二十日　ネル　【制服】.png}
+&bold(){｢いつまでもポンコツじゃないゼ！、ボクは！｣}
+&bold(){｢二十日 ネルだよ〜｣}
+#endregion()
+
+&aname(目次1,option=nolink){}
+#region(close,目次を開く)&big(){&bold(){目次}}
+#contents(level=1)
+#endregion
+//**基本情報
+*&font(35px,#B3D3D2){&icon_fa(fa fa-address-book-o)}&font(35px,#ffffff){基}&font(25px,#ffffff){本情報}
+・シーズン1の初日からの住民。
+//（衛星開始：2022/8/28 24:41〜）
+・施設で育ち、ロスサントスへは施設を抜け出してやって来た。施設にいた頃の名前は「12番」で、本名は不明。「二十日 ネル」という名前は、ロスサントスに来てから名乗り始めた。
+・ボクっ娘。
+・現警察官の中で最も長く在籍している。現在は上官でもあり、警察のマスコット。
+・[[後藤 れむ]]が立ち上げた特殊部隊 “Dogs” に所属しており、そのため犬耳としっぽをつけている。コードネームは（アフガン）ハウンド。
+・優しい性格のため多くの人から好かれており、その影響か後輩の署員や犯罪者からイジられたり、からかわれたりすることがある。
+・二つ名は「Angel」
+#div(width=200px,bgcolor=#7DADDD){&size(17){&font(b,#FFFFFF){　Season 1}}}
+#region(開く,close)閉じる
+・当時の署長である[[番田　長助]]に憧れ、2日目に警察官になる。
+・初期の同期組は[[キャップ>ましゃかり　トラボルタ]]、[[深沢　えぼし]]、[[キーモット　ホームズ]]、[[如月　キャシー]]、[[ジャック　馬ウアー]]。
+//・たまに周囲の人がボケたりすると「～するんか～い！」などとツッコむ。
+・ポンコツ気味な一面もあり、シートベルトを忘れて吹っ飛んだり、ヘリの運転中に空腹でダウンしてしまうことがある。
+・コメット乗り。
+・ヘリの運転と情報を落とすことが得意で、指示を出すことは少し苦手としている。
+・責任が増えることを理由に昇格を拒んでいたが、周囲の昇格に合わせて本人も昇格している。
+//・怪力
+・Season1での恋人は、街のヒーローであり不動産業や救急隊などを務める[[吉田　ユッカ]]。
+//・[[付き合っている人>吉田　ユッカ]]がいる。(ゆっくんに関係あることをすると強制的に瞑想させられる。)
+//・着替える際に、よく出してしまう。
+//・お食事警官
+//・警察犬｢ジン｣を飼っている。
+・非公式で発足された口プ課の[[成瀬　力二]]と[[狼恋　エギ]]が天敵。
+・Season1では特殊部隊"Dogs"に、[[後藤　れむ]]、[[きらりんぶい☆なずぴ>>きらりんぶい☆　なずぴ(10)]]と共に加入し、街を約1か月離れている間に新たに [[犬上 リオ]] が加入した。また、[[みこだ よう>神子田 頼]] も一時期所属していたが、警察を退官している。
+・100年前と100年後の記憶を持っており、どちらの時代でも警察サポートを担当している。
+#endregion()
+
+#right(){&link_anchor(目次1){△目次へ}}
+
+//**エピソード
+*&font(35px,#B3D3D2){&icon_fa(fa fa-book)} &font(35px,#ffffff){エ}&font(25px,#ffffff){ピソード}
+#div(width=200px,bgcolor=#7DADDD){&size(17){&font(b,#FFFFFF){　Season 1}}}
+#region(開く,close)閉じる
+
+#include(二十日　ネル/エピソード)
+
+★ 印はエピソード未記入です
+エピソードを編集される方は[[こちら>二十日　ネル/エピソード]]
+
+#endregion()
+
+#div(width=200px,bgcolor=#7DADDD){&size(17){&font(b,#FFFFFF){　Season 2}}}
+#region(開く,open)閉じる
+***&color(#7DADDD){2025年12月と2026年1月のエピソード}
+#Region(open,開く)閉じる
+・エピソード募集中
+
+#EndRegion
+#endregion()
+
+#right(){&link_anchor(目次1){△目次へ}}
+//**&sizex(5){♥}
+*&font(35px,#B3D3D2){♥} 
+//*&font(35px,#ff78ae){♥} 
+#div(width=200px,bgcolor=#7DADDD){&size(17){&font(b,#FFFFFF){　Season 1}}}
+***&color(#7DADDD){ 2022/08～}
+#region(第1章)&bold(){｢ボクの片思いなんだ｣}
+
+・[[ヒーロー>吉田　ユッカ]]が[[8歳の女児>薩摩　妹子]]に手錠をかけ、遊園の観覧車の頂点で手を離した容疑にかけられてることを知り、｢はぁ…普通にショックだな…｣と悲しむ。
+・ヒーローに服を選んでもらう。｢好きな人だから、言うとこと聞くんでしょうに…気づいてないなぁ｣と1人になった時に言う。
+・キャシーと恋バナをする。[[キャシー>如月　キャシー]]に10/12のキャンプに誘われ、ヒーローも呼んだらどうかと言われる。
+・伊坂くんと恋バナをする。ヒーローへの気持ちを話し、キャンプで[[伊坂くん>伊坂　直樹]]がキャシーに指輪をあげることを聞く。
+・キャンプが終わり、別れ際に遊びに行く約束をする。｢2人でね！｣と最後に言う。
+・キャシーとえぼたんと恋バナをする。
+&image(二十日 ネル【恋バナ】.jpg)
+・キャシーとえぼたんと[[須藤さん>須藤　冬馬]]の元へ行き、話してる時のえぼたんの言葉に｢ボクも水着あるし…｣で対抗。
+このときの彼女の姿はとてもかわいかった。
+
+・&bold(){10/19 午前2時頃}、[[ゆっくんとデートに行く>https://youtu.be/BO99PkF293c?t=3h43m30s]]ことになる。
+・手こずりながらも、[[ネックレスを渡す>https://youtu.be/BO99PkF293c?t=3h55m19s]]。それだけで帰ろうとする。だが、夜景をバックにツーショットを撮ることにした。
+&image(二十日 ネル【ツーショ①】.jpg,x=250)
+・再び帰ろうとするが、勇気を出し、[[告白>https://youtu.be/BO99PkF293c?t=3h59m05s]]することができた。
+・これから、[[付き合う>https://youtu.be/BO99PkF293c?t=4h06m32s]]ことになったのである。
+
+#endregion()
+//他にキュンポイントあったら、お願いします。
+
+#region(第2章)&bold(){[[｢だから…好きだってこと！｣>https://youtu.be/BO99PkF293c?t=4h00m54s]]}
+
+・ドライブ中の会話。｢待ってていいってこと？｣
+・[[ゆっくん>吉田　ユッカ]]と撮った写真を見ようとしたが、保存されてなくて悲しむ。
+・付き合ったことをキャシーに報告すると、とても喜んでもらえた。
+・ホストクラブを見に来た時にゆっくんに、[[嫉妬>https://www.twitch.tv/videos/1640491687?t=6777s]]される。
+・Barでキャシーとあんずさんと女子会で、[[お話>https://www.twitch.tv/videos/1640577088?t=2427s]]をする。
+・ゆっくんから[[ピンクワインをもらう>https://www.twitch.tv/videos/1640577088?t=3918s]]。
+・[[パパ>番田　長助]]が[[気遣ってくれる>https://www.twitch.tv/videos/1640577088?t=4405s]]。
+・一人で椅子に座ってると、ゆっくんが酔っ払いながらハグしてくれようとした。実際に[[ハグ>https://www.twitch.tv/videos/1640577088?t=4716s]]もできた。
+&image(二十日 ネル【ハグ】.jpg,x=200)
+・11/14、病院前でゆっくんを見かける。[[「うちの彼氏いたんだけど。あいつ、街に来たら、連絡よこせよ。」>https://youtu.be/oY_4e3CDXA4?t=3h49m34s]]と[[ヴァン　ダーマー]]を追いかけながら、呟く。
+・11/15午前5時前頃、ゆっくんが自分の連絡先を持ってなかったことを知り殴る。連絡先を送る。([[ゆっくん視点>https://www.twitch.tv/videos/1652553817?t=17139s]])
+・11/16、ゆっくんに「何でバイクを買ったの？」という質問すると「[[お前とツーリングが行きたくてな>https://www.twitch.tv/videos/1653466873?t=1201s]]」と返される。その後、テニスを楽しむ。
+&image(二十日 ネル【ツーリング】.jpg,x=200)
+・11/22午前3時過ぎ頃、ゆっくんと屠殺デートに行く。他の人と同棲をしていると聞き、直ぐに[[帰ろう>https://www.twitch.tv/videos/1658970178?t=15061s]]とする。実際は、シャワーに入って綺麗にするため、ガレージのためであった。
+・ゆっくんに服を選んでもらう。
+&image(二十日 ネル【ヒーローセレクト②】.jpg,x=100,y=200)
+・11/24午前4時すぎ頃、恋愛、ゆっくんを好きになったことに関して、キャシーと[[話す>https://www.twitch.tv/videos/1660708868?t=15133s]]。
+・11/27午前4時30分過ぎ、ゆっくんと[[話し、ハグしてくれる>https://www.twitch.tv/videos/1663139908?t=25512s]]。
+・11/30午前5時前、[[告白の時の話をする>https://www.twitch.tv/videos/1665707313?t=24941s]]。
+・12/7午前中2時頃、ゆっくんに高級車店に[[呼び出される>https://www.twitch.tv/videos/1671848126?t=7646s]]。そして、ずっと欲しかったポルシェを買ってもらう。
+
+#endregion()
+//他にキュンポイントあったら、お願いします。
+
+#div(width=200px,bgcolor=#7DADDD){&size(17){&font(b,#FFFFFF){　Season 2}}}
+***&color(#7DADDD){ 2025/12～}
+#region(開く,open)閉じる
+・エピソード募集中
+
+#endregion()
+
+
+#right(){&link_anchor(目次1){△目次へ}}
+
+//**アーカイブ・動画
+*&font(25px,#B3D3D2){&icon_fa(fa-brands fa-twitch)}&font(25px,#B3D3D2){&icon_fa(fa-brands fa-youtube)}&font(35px,#ffffff){ア}&font(25px,#ffffff){ーカイブ}&font(35px,#B3D3D2) 
+※ &font(#6441A4){&icon_fa(fa fa-twitch)} Twitchでの配信の場合、一定期間経過すると視聴できなくなります
+#div(width=200px,bgcolor=#7DADDD){&size(17){&font(b,#FFFFFF){　Season 1}}}
+#region(開く,close)
+//[[二十日　ネル/アーカイブ1]]
+#include(二十日　ネル/アーカイブ1)
+#endregion()
+
+#div(width=200px,bgcolor=#7DADDD){&size(17){&font(b,#FFFFFF){　Season 2}}}
+*** 2025/12～2026/01
+#region(開く,close)閉じる
+#table_style(head=center:#93CAD7){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/12/28|1|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ひさしぶっりいいいい！！→ #ストグラ シーズン２いっぱつめ>https://www.twitch.tv/videos/2654958599]]||
+|2025/12/31|2|&font(#6441A4){&icon_fa(fa fa-twitch)}[[今年も一年ありがとうございました！配信納め #ストグラ>https://www.twitch.tv/videos/2657485472]]||
+|2026/01/01|3|&font(#6441A4){&icon_fa(fa fa-twitch)}[[明けましておめでとうございます #ストグラ>https://www.twitch.tv/videos/2658248034]]||
+|2026/01/02|4|&font(#6441A4){&icon_fa(fa fa-twitch)}[[やれっていわれたゲーム初見>https://www.twitch.tv/videos/2659037551?t=06h34m16s]]|後半ストグラ|
+|2026/01/10|5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ぽりす #ストグラ>>https://www.twitch.tv/videos/2666143369]]| |
+|2026/01/14|6|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ぽ #ストグラ>>https://www.twitch.tv/videos/2669719359]]| |
+|2026/01/18|7|&font(#6441A4){&icon_fa(fa fa-twitch)}[[治安よく #ストグラ>>https://www.twitch.tv/videos/2673329123]]| |
+|2026/01/23|8|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ぽりす #ストグラ>>https://www.twitch.tv/videos/2677761010]]| |
+|2026/01/30|9|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ぽぽぽ #ストグラ>>https://www.twitch.tv/videos/2684221005]]| |
+#table_sorter{even=#D0E8EE,odd=fff}
+#endregion()
+*** 2026/09～
+#table_style(head=center:#93CAD7){配信日=right,#=center}
+#region(開く,open)閉じる
+|~配信日|~#|~配信タイトル|~備考|h
+|2026/09/13|10|&font(#6441A4){&icon_fa(fa fa-twitch)}[[すみません有給とりすぎました #ストグラ>>https://www.twitch.tv/videos/2873087917]]| |
+|2026/09/17|11|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ゆるぽり #ストグラ>>https://www.twitch.tv/videos/2876506707]]| |
+#table_sorter{even=#D0E8EE,odd=fff}
+#endregion()
+
+#right(){&link_anchor(目次1){△目次へ}}
+
+*&font(35px,#B3D3D2){&icon_fa(fa-brands fa-youtube)}&font(35px,#ffffff){切}&font(25px,#ffffff){り抜き}&font(35px,#B3D3D2) 
+***2023年
+#region(開く,close)閉じる
+#table_style(head=center:#93CAD7){配信日=right,#=center}
+|~投稿日|~#|~タイトル|~備考|h
+|2023/08/10|1|[[二十日ネルによって裸にされてしまう◯◯ww>>https://www.youtube.com/watch?v=glsmX-_PyN4]]||
+|2023/08/11|2|[[期待の新人警官 ファン太(シャンクズ)現るｗｗ>>https://www.youtube.com/watch?v=9j06R_2IQTA]]||
+|2023/08/12|3|[[二十日ネルに警察を教わった後速攻で犯罪をするシャンクズ>>https://www.youtube.com/watch?v=QMS-peLtrwE]]||
+|2023/08/14|4|[[シャンクズが犯罪した本当の目的とは…>>https://www.youtube.com/watch?v=ehcNHd2hfGo]]||
+|2023/08/15|5|[[ファムロ・レイと名乗る人物にあのセリフを言わせて興奮する二十日ネル>>https://www.youtube.com/watch?v=9OOCEi_w-YU]]||
+|2023/08/16|6|[[二十日ネルが銀行強盗を捕まえようとしたらまさかのあの人で爆笑ｗｗｗ>>https://www.youtube.com/watch?v=P38cDGixSok]]||
+|2023/08/17|7|[[人質と引き換えで犯人から○○に着替えさせられる二十日ネル>>https://www.youtube.com/watch?v=o0Bo5JnORNQ]]||
+|2023/08/18|8|[[ダウン中の二十日ネルに最低なヤジを飛ばす犯罪者ｗｗ>>https://www.youtube.com/watch?v=BpnA_yaKb7Y]]||
+|2023/08/19|9|[[自分の告白シーンをリスナーと振り返る二十日ネル>>https://www.youtube.com/watch?v=DxNiNfDRtPY]]||
+|2023/08/20|10|[[占い師に『二十日ネル』を占ってもらったらとんでもない結果が？！>>https://www.youtube.com/watch?v=7rHHA4h3tvA]]||
+|2023/08/21|11|[[コナンの『あの有名な博士』が二十日ネルに電話…？！何かが起こる！>>https://www.youtube.com/watch?v=ZsNhmnvisZI]]||
+|2023/08/22|12|[[『あの人』が銀行に立てこもってるんだけどｗｗ>>https://www.youtube.com/watch?v=yx56_x3WQZQ]]||
+|2023/08/23|13|[[強盗した叶オラフが歌いながら〇〇されるｗｗ>>https://www.youtube.com/watch?v=ePC9-9y-86U]]||
+|2023/08/24|14|[[ハイクオリティな『あの人』のコスプレに思わず吹き出す二十日ネル>>https://www.youtube.com/watch?v=hhLl61QZIiQ]]||
+|2023/08/25|15|[[飲食業界のトップの『あの人』の取り調べが面白すぎたｗｗ>>https://www.youtube.com/watch?v=fONfv550C_4]]||
+|2023/08/26|16|[[二十日ネルにヤバい写真を誤送してしまうシャンクズｗｗ>>https://www.youtube.com/watch?v=DbW2FJiIUmY]]||
+|2023/08/29|17|[[爆弾を付けられて脅されてると言い犯罪のルールを聞く叶さん>>https://www.youtube.com/watch?v=S1HJA0nNAAM]]||
+|2023/08/30|18|[[二十日ネルの兄？！二十日"セル"が現れてとんでもない事態にｗｗ>>https://www.youtube.com/watch?v=TxxKSquH6VE]]||
+|2023/08/31|19|[[『あの人』が今度は１７号で会いに来たんだけどｗｗ>>https://www.youtube.com/watch?v=pkZz-EJGwJU]]||
+|2023/09/01|20|[[ストグラ１周年で『あの人』がギャグを披露した結果ｗｗ>>https://www.youtube.com/watch?v=59AqyuAp7Lg]]||
+|2023/09/03|21|[[人質交渉で『ガチな男性なタイプ』を聞かれる二十日ネル>>https://www.youtube.com/watch?v=o7JNHqX1dUo]]||
+|2023/09/06|22|[[ギャングとの決戦で『とんでもない奇跡』が起きたんだけどｗｗ>>https://www.youtube.com/watch?v=rEvW49wXuHs]]||
+|2023/09/14|23|[[タイマンで負けた二十日ネルをバチクソに煽るシャンクズｗｗ>>https://www.youtube.com/watch?v=pK1vdYQtlRU]]||
+|2023/09/16|24|[[大事件発生？！犯罪の人質にされてしまう二十日ネルｗｗ>>https://www.youtube.com/watch?v=zqS_h4wF2Hs]]||
+|2023/09/18|25|[[二十日ネルから警察合格発表を受けて速攻で闇落ちしそうになるローレン>>https://www.youtube.com/watch?v=JSkjAuP_0oc]]||
+|2023/09/21|26|[[餡ブレラとのチェイス中にとんでもない事になる二十日ネル>>https://www.youtube.com/watch?v=Rouw5ThuY1w]]||
+|2023/09/24|27|[[ネタをこすり過ぎた署長に毒を吐くなるせさんｗｗ>>https://www.youtube.com/watch?v=B7MJaY5vcAY]]||
+|2023/09/27|28|[[犯罪者を煽りまくる狼恋(ローレン)をプリズンに飛ばして爆笑するネル>>https://www.youtube.com/watch?v=EVkdSki8ahU]]||
+|2023/09/30|29|[[プリズンに送られる間際にセクハラをブチかますシャンクズ>>https://www.youtube.com/watch?v=J2grNb5BDic]]||
+|2023/10/02|30|[[Mondoにハメられて警官クビになりかける二十日ネル>>https://www.youtube.com/watch?v=yA7zGP-N6RA]]||
+|2023/10/04|31|[[コナンの『あの有名な博士』が久しぶりに登場?!遊園地デート(？)する事に…？！>>https://www.youtube.com/watch?v=9p0kNLt5Uy4]]||
+|2023/10/07|32|[[なるせさんにテーザー撃たれて転落する二十日ネル>>https://www.youtube.com/watch?v=qjlZos2utsA]]||
+#table_sorter{even=#D0E8EE,odd=fff}
+#endregion
+***2024年
+#region(開く,close)閉じる
+#table_style(head=center:#93CAD7){配信日=right,#=center}
+|~投稿日|~#|~タイトル|~備考|h
+|2024/06/24|33|[[犬ルリに遊ばれまくる二十日ネルを見て爆笑する警察官たちww>>https://www.youtube.com/watch?v=EGMMc-XeDjY]]||
+|2024/06/26|34|[[警察を騙すため変装した二十日ネルを「おきる」と紹介する犬ルリwww>>https://www.youtube.com/watch?v=gJcV87lOaYM]]||
+|2024/06/29|35|[[伊藤ぺいんのとある言葉を発端に二十日ネルの暴露大会が始まる警察ww>>https://www.youtube.com/watch?v=12rlhjLCpYc]]||
+|2024/06/30|36|[[ウェスカーとの会話中に現れたアンチをモデレーターにしてしまう二十日ネルw>>https://www.youtube.com/watch?v=7IxkJ3SHLck]]||
+|2024/07/01|37|[[警察が隠密部隊を結成!! ひのらんを真似しようとして変な鳴き声が出てしまう猫マンゴーww>>https://www.youtube.com/watch?v=t8fAOR8sFfw]]||
+|2024/07/07|38|[[とある記事で話題になった「パキパキ童◯事件」の真相を突き止める二十日ネル>>https://www.youtube.com/watch?v=7P-Hy5BIb9U]]||
+|2024/07/08|39|[[常識クイズに挑戦するも珍回答で爆笑される二十日ネル>>https://www.youtube.com/watch?v=XjvwZkkf2-g]]||
+|2024/07/09|40|[[壮大な勘違いを起こす餡ブレラにドン引きする二十日ネルww>>https://www.youtube.com/watch?v=i45XbPg45iA]]||
+|2024/07/10|41|[[ついに明かされる二人の関係性｡ ウェスカーの洗脳を疑う二十日ネル>>https://www.youtube.com/watch?v=NaxnhgrGy48]]||
+|2024/07/12|42|[[とあるモノマネをした二十日ネルを二人がかりでボコボコにする犬ルリと猫マンゴー>>https://www.youtube.com/watch?v=u4mawjvS9PU]]||
+|2024/07/13|43|[[「おきるを助けたい」 餡ブレラに洗脳された宿無おきるを助け出すため作戦会議を行う二十日ネル>>https://www.youtube.com/watch?v=UkZdeLyTdYY]]||
+|2024/07/13|44|[[暴言を吐きプリズンへ逃亡するハクナツメにガチ切れする二十日ネル>>https://www.youtube.com/watch?v=06PJv9-O254]]||
+|2024/07/20|45|[[16億円の借金返済のため1日中マクドナルドの奴隷になる署長>>https://www.youtube.com/watch?v=Re2HNelJ17E]]||
+|2024/07/22|46|[[警察無線で全力の萌え声を披露する二十日ネル>>https://www.youtube.com/watch?v=JjsAj2W2TCU]]||
+|2024/07/25|47|[[警察金庫の10億円を借金返済に利用してしまい横領疑惑をかけられる二十日ネル >>https://www.youtube.com/watch?v=dPE4rqpI4cE]]||
+|2024/07/26|48|[[口プ最強のミンドリーに口プを教わるも雑魚すぎる二十日ネルww>>https://www.youtube.com/watch?v=FX-6dflJ9vw]]||
+|2024/07/27|49|[[あり得ないミスをするウェスカーに大爆笑するさぶ郎と二十日ネル>>https://www.youtube.com/watch?v=3F5HwQiSXdo]]||
+|2024/07/28|50|[[新しくなった奇肉屋の圧倒的な完成度に驚きまくるさぶ郎と二十日ネル>>https://www.youtube.com/watch?v=eAWPMdPeObI]]||
+|2024/08/01|51|[[終始無言のヴァンダーマーに轢かれまくる二十日ネルwww>>https://www.youtube.com/watch?v=QGztkUaKVeQ]]||
+|2024/08/08|52|[[レイドされた直後､飲酒運転で大事故を起こすなずぴと二十日ネルwww>>https://www.youtube.com/watch?v=nCiuLnLDmTg]]||
+|2024/08/12|53|[[幽体離脱が可能になるヤバ過ぎる新薬の治験に参加するさぶ郎と二十日ネル>>https://www.youtube.com/watch?v=YEjjZ5aGuFE]]||
+|2024/08/13|54|[[病院から出た3分後に868に轢き56され再び病院送りになる二十日ネル>>https://www.youtube.com/watch?v=xRyrKvSULoM]]||
+|2024/08/14|55|[[ケツが丸見えの水着で警察たちと夏を満喫する二十日ネルww>>https://www.youtube.com/watch?v=F08KPCSeyl0]]||
+|2024/08/15|56|[[トラックの中にいる人質を予想するクイズで爆笑するさぶ郎と二十日ネルww>>https://www.youtube.com/watch?v=um5MK3UiY4M]]||
+|2024/08/16|57|[[ボイラのキモ過ぎるトラップに引っかかり射殺される二十日ネルww>>https://www.youtube.com/watch?v=XRzGJ-vW0Zg]]||
+|2024/08/17|58|[[キャップの魂貫通コスプレ披露会で爆笑する二十日ネル>>https://www.youtube.com/watch?v=zmV6-1Hla2s]]||
+|2024/08/21|59|[[配信が上手すぎると話題になった二十日ネルのダウンシーンww>>https://www.youtube.com/watch?v=SgqiZKYCTuA]]||
+|2024/08/26|60|[[犯人は救急隊の◯◯!? 市長を悪用してチラシを作った犯人をガン詰めする二十日ネル>>https://www.youtube.com/watch?v=p4SuBiqxeCQ]]||
+//|yyyy/mm/dd|n|[[動画タイトル>>https://www.youtube.com/watch?v=●]]||
+
+#table_sorter{even=#D0E8EE,odd=fff}
+#endregion()
+
+#right(){&link_anchor(ページ上部){▲ページ上部へ}}
+
+*&font(35px,#B3D3D2){&icon_fa(fa-solid fa-play)}&font(35px,#ffffff){S}&font(25px,#ffffff){horts}&font(35px,#B3D3D2) 
+#region(開く,close)閉じる
+#table_style(head=center:#93CAD7){配信日=right,#=center}
+|~投稿日|~タイトル|~備考|h
+|2022/09/04|[[今話題の で出会った市民がヤバすぎるwww>https://youtube.com/shorts/wyvDEhM_5kE?]]||
+|2022/09/09|[[ストリーマーグラセフで部下と喧嘩してたらとんでもない事故起きたｗｗｗ>https://youtube.com/shorts/a9P5Ye93shI?]]||
+|2022/09/10|[[ストリーマーグラセフに表れた凶悪サンタクロースの罪が重すぎるｗ>https://youtube.com/shorts/dVRDmF_sNQ0?]]||
+|2022/09/11|[[遭難者助けに行ったら全滅したんだが？？ >https://youtube.com/shorts/RRsTX87Cx1Y?]]||
+|2022/09/13|[[とんでもない聞き間違えをするVtuber>https://youtube.com/shorts/EBLLcghw0oo?]]||
+|2022/09/15|[[ハム太郎として潜入調査？してみたｗ >https://youtube.com/shorts/wvz62Cvp0q8?]]||
+|2022/09/16|[[上司を刑務所に送る部下>https://youtube.com/shorts/hw0FcbuTdJk?]]||
+|2022/09/17|[[またもや上司を刑務所に送ってしまう部下 >https://youtube.com/shorts/SZkpaD3uRnU?]]||
+|2022/09/18|[[誘拐されたと思ったらデートしただけだった>https://youtube.com/shorts/FcSDWgPZr1c?]]||
+|2022/09/19|[[ヒーローにわいせつされる婦人警官>https://youtube.com/shorts/XdaUBwsSHeU?]]||
+|2022/09/20|[[部下からの扱いがひどすぎるｗｗｗ>https://youtube.com/shorts/Kjs64itxKDI?]]||
+|2022/09/21|[[映画みたいな展開になって周り騒然！これ本当にゲーム？>https://youtube.com/shorts/gAfO1PF0YUY?]]||
+|2022/09/22|[[この街の警察がゆるすぎる>https://youtube.com/shorts/oFL2XGuurRg?]]||
+|2022/09/23|[[この病院には幽霊（？）がいます>https://youtube.com/shorts/GNSxRu78-m4?]]||
+|2022/09/24|[[イメチェンしたら上司にドン引きされたｗｗｗ>https://youtube.com/shorts/rOwNPsq8pec?]]||
+|2022/09/25|[[上司に髪形を選んでもらいご機嫌になる部下>https://youtube.com/shorts/xhWsi-J87Gk?]]||
+|2022/09/26|[[一発芸披露したらとんでもない勘違いされた>https://youtube.com/shorts/m7_SqKADSEI?]]||
+|2022/09/27|[[ヒーローにボコボコにされる警察官ｗｗｗ>https://youtube.com/shorts/D3G1Q0mXa80?]]||
+|2022/09/28|[[同僚吹っ飛ばし事件>https://youtube.com/shorts/9c7W1GzJlAQ?]]||
+|2022/09/29|[[訓練中の事故に一向に気づかないポンコツ警察官>https://youtube.com/shorts/GYmgRAwhOOY?]]||
+|2022/09/30|[[警察の私生活がおかしい>https://youtube.com/shorts/Q7Nwq7jzvfY?]]||
+|2023/08/13|[[すぐ脱ぐ救急隊にツッコミが止まらないww>https://www.youtube.com/shorts/V_ZOkjUnrTU]]||
+|2023/08/28|[[ファガサ博士にハメられる二十日ネルw>https://www.youtube.com/shorts/3GWxIDGb6KQ]]||
+
+#table_sorter{even=#D0E8EE,odd=fff}
+#endregion()
+
+//*&font(25px,#B3D3D2){&icon_fa(fa fa-user)} &font(35px,#ffffff){関}&font(25px,#ffffff){連}
+//&bold(){&color(#F54738){ネタバレ注意}}
+//#region(開く)
+//プレイヤー「二十日ネル」の別キャラクター
+//▶︎[[メアリー　ディクソン]]
+//▶︎[[宿無　おきる]]
+////別キャラクター名記載の詳細については、編集相談所ログ2024-03-26 06:13:03～を参照願います。
+//#endregion
+
+#right(){&link_anchor(ページ上部){▲ページ上部へ}}

@@ -1,0 +1,74 @@
+&image(無人車両販売所_8167.png,y=300)
+
+
+#table_style(head=#E0E0E0){}
+|~店名|~&icon_fa(fa fa-store)|&ruby(むじんしゃりょうはんばいしょ){無人車両販売所}|
+|~業種|~&icon_fa(fa fa-car-side)|カーディーラー|
+|~開業日|~&icon_fa(fa fa-flag)|2025年12月19日&space()&small(){（&countup(2025/12/19,yd)経過）}|
+|~　所在地　|~&icon_fa(fa fa-map-marker)|8167番地|
+//|~オーナー(会長)|~&icon_fa(fa fa-user-slash)|-（無人店舗）|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-「Premium Deluxe Motorsport」という看板を掲げている無人店舗
+-カーディーラーが整備される前に、心無き（NPC）から車両を購入・売却することができる
+
+**外観・内観
+#region(開く,open)閉じる
+・外観
+&image(外観.png,y=300)
+・内観
+&image(内観.png,y=300)
+#endregion(外観・内観)
+
+**購入方法・試乗方法・簡易売却
+#region(開く,open)閉じる
+・車両販売専用の心無きに対して、心の眼を合わせて「ディーラーアクセス」をする
+&image(販売専用NPC.png,y=300)
+・登録されている車両を選択する
+・・車種：普通車、バイク、オフロード、スポーツカーが登録されている
+&image(車両購入画面01.png,y=300)
+&image(試乗車両選択.png,y=300)
+・選択した車両が見本に展示され、車両購入か試乗かを選択できる
+&image(車両選択完了.png,y=300)
+・購入、または、試乗された車両は店舗裏から発車することができる
+&image(試乗開始.png,y=300)
+・所有している車両を簡易売却することができる
+&image(簡易売却.png,y=300)
+
+#endregion(購入方法)
+
+#co{
+//*販売車両一覧
+//**車両
+#region(開く)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~価格|~備考|h
+
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+//**バイク・スクーター
+#region(開く)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~価格|~備考|h
+
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+}
+*沿革
+***2025年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|2025/12/19|開店|-|Season2開始とともに開設されているカーディーラー。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

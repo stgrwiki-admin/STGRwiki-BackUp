@@ -1,0 +1,793 @@
+*プロフィール
+//&image(ここに画像のURLを入力,y=400)
+#table_color(head=#17184b)
+|&image(BJスーツ_456_Season2_01.png,y=400)|h
+
+#region(Season1：開く,close)&bold(){Season1：閉じる}
+#slide_img(auto=4,position=left,width=300,height=450){
+BJスーツ_456_02.png,
+456_07.png,
+456_海上レストラン体験01.png,
+20250829_ヒッチハイク456_②.png,
+20250829_ヒッチハイク456.png,
+456_02.png,
+456_03.png,
+456_04.png,
+456_05.png,
+456_06.png,
+}
+#endregion(Season1の画像)
+
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#17184b:#c0c0c0)
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&bold(){&ruby(さんひてい){三否亭}　&ruby(しごろかく){四五六確}}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|1996年10月30日  (&countup(1996/10/30,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年02月07日 (1年227日)|2025年12月19日(&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fas fa-money-bill-wave)|>|消費者金融【[[BJローン]]】&small(){創設者 (2025/04/02～)}|
+|~|~&icon_fa(fa fa-home)|不動産【[[ヒーローハウジング]]】&small(){(2025/06/03～2025/09/21)}|不動産【[[Wizardry Works]]】&small(){(2025/12/24～)}|
+|~|~&icon_fa(fas fa-gas-pump)||[[ガソリンスタンド]]経営&small(){【9051番地】オーナー}&br()&small(){(BJローンとして経営)(2026/07/22～)＊jobなし}|
+|~|~&icon_fa(fas fa-gas-pump)||ガソリンスタンド経営&small(){【7166番地】従業員}&br()&small(){(BJローンとして経営)(2026/07/22～)＊jobなし}|
+|~|~&icon_fa(fas fa-clock)|&small(){&openclose2(show=▼過去の職業){&br()素材屋【[[クリスマス急便]]】&small(){店員}&br()ギャング【[[ALLIN]]】&small(){構成員 (2024/04/22～2025/03/23) 解散}&br()海上レストラン【[[Urashima]]】&small(){アルバイト}&small(){(2025/06/13)}&br()木こり&small(){(2025/06/19)}}}|&small(){&openclose2(show=▼過去の職業){&br()超革命法律事務所&small(){弁護士}(2026/01/18～2026/01/18)}}|
+|~所属|~&icon_fa(fas fa-user-secret)|&small(){&openclose2(show=▼過去の所属){&br()ギャング【[[ALLIN]]】&small(){構成員 (2024/04/22～2025/03/23) 解散}}}||
+|~恋人|~&icon_fa(fas fa-heart)|>|&bold(){[[星唄　サウ汰]]}&small(){（2025/09/20～）（&countup(2025/09/20,yd)経過）}&br()関連ページ：[[しごサウ]]|
+|~所有物件|~&icon_fa(fas fa-home)||7031番地(BJローンオフィス)|
+|~ライセンス|~&icon_fa(fa fa-id-card-o fa-fw)|普通車/自動二輪/ヘリ/航空機/原付/船舶/&br()ガンライセンス/白市民|白市民(仮)|
+|~TwiX|~&icon_fa(fa fa-crow)|&small(){@468 &small(){(メインアカウント)&br()@konoyonoyami (サブアカウント)}&br()@bjbj &small(){(BJローン用カウント)}&br()@bjloangame &small(){(ゲーム用アカウント)}}|MIDDLE:@456&small(){(メインアカウント)}&br()@bjloan&small(){(BJローンアカウント)}&br()&small(){&openclose2(show=▼殆ど使用していないアカウント){&br()@taxisaikou&br()@keihatuisgood&br()@coffeeura&br()@pistolisgod&br()}}|
+|~電話番号|~&icon_fa(fas fa-phone)|(520)782-6554|MIDDLE:(205)540-5825|
+|~着信音|~&icon_fa(fa-solid fa-phone-volume fa-shake)||[[『イチ・ニー・サン・シゴロカク』>https://youtu.be/iFkaR9R3qRI?si=zY2HoSkNRChJHrXy]]|
+|BGCOLOR(#000000):~&color(#fcc800){プレイヤー}|BGCOLOR(#000000):COLOR(#fcc800):~&icon_fa(far fa-address-card)|>|&ruby(きょうゆう){梟雄}しろや(のりプロ)|
+|BGCOLOR(#000000):~&color(#fcc800){告知等}|BGCOLOR(#000000):~&color(#fcc800){&icon_fa(fa fa-bullhorn)}|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/Kyoyu_Shiroya]]|
+|BGCOLOR(#000000):~&color(#fcc800){配信場所}|BGCOLOR(#000000):~&color(#fcc800){&icon_fa(fa fa-gamepad)}|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@kyoyushiroya]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kyoyu_shiroya]]|
+|BGCOLOR(#000000):~&color(#fcc800){切り抜き}|BGCOLOR(#000000):~&color(#fcc800){&icon_fa(fa fa-scissors)}|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@kyoyushiroya]]|
+|BGCOLOR(#000000):~&color(#fcc800){ガイドライン}|BGCOLOR(#000000):~&color(#fcc800){&icon_fa(fa fa-info-circle)}|>|[[のりプロ二次創作ガイドライン>>https://noripro.jp/fanart/]]&br()ストグラ配信の切り抜きはNG&br()※当人が許可をしたチャンネルは除く|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+///2025年2月24日現在、ガイドラインが改定されて所属タレントさん全てのストグラ切り抜きがNGになりました。追記しようと思ったのですが(コード的に)めちゃくちゃになりそうなので、どなたか追記をお願いします。
+//職業を追加・更新した場合、「 https://w.atwiki.jp/streamergta5/pages/20.html#id_ab0a5ace 」（職業一覧->就業者一覧）等への追加・更新のご協力をお願いいたします。
+//TwiXの「@okane」アカウントですが、作成後に即削除したのを確認したため項目からも削除しました。（12/20）
+//着信音について記入しました。配信に映った限定公開のURLを拝借したため何か問題があれば消去します。（09/10）
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+>会社とギャンブル、勝負事の往復のみ。枯れた日々を過ごしていた男。&br()そんな日々を変えるべく、おもしれー男になるべく、幾度となく往復を繰り返した地元を捨てる。&br()会社は簡単に辞められた。でも"遊戯"はやめられない。&br()それなら"遊戯"で花咲ける街で残りの人生を謳歌しよう。&br()俺はロスサントス一の遊ぎ王になる男、「三否亭 四五六確」
+
+&bold(){Season2}
+
+#region(基本情報（Season1）,close)閉じる
+・会社を脱サラし、この街にやってきたがギャンブルだけはやめられなかった。
+・・夢の世界でも脱サラしたことを、5/2の衛星でさらっと報告していた
+・あらゆるゲームの遊ぎを極めて、遊ぎ王になりにきた。
+・・遊ぎには[[カジノ]]やレースなど、あらゆる勝負事が含まれているとのこと。
+・・「ぎ」と平仮名にしているのは、色々な面への配慮や「技」もまた極めるという意味がある。
+・三は否定しているが一、二は否定していない。(他の住民から四五六確定してるじゃないかとツッコまれてはいる)
+・・他住民からチンチロに関連する名だと思われることが多いが、名前の元ネタはパチスロである。
+・名前とは裏腹に、あまり運がいい方では無い。[[ギャング]]に所属するまでの間はカジノのような勝負運だけでなくロスサントス生活全般の運もなかったため、本人は「ここでの人生の運は一二確」などと自虐している。
+・・[[ALLIN]]加入後は大型犯罪でそれなりに稼いでいるはずだが、ギャンブルで負けることが多く所持金が増える日は少ない
+・自身の目的の関係上とにかく金が必要になることもあり、この街にやってきた当初から黒い事への興味を示していた。
+・・後に自身がとある事件へ巻き込まれたこととその顛末をきっかけとして闇堕ち。半グレとして活動を始める。
+・・&s(){とある事件以降[[コンセルジュ>concellge(コンセルジュ)]]メンバーに話しかけられる度、警戒度がMAXになり怯えている。}&br()[[ALLIN]]加入後は[[ハク　ナツメ]]の頭に弾丸を1発撃ちこみたいと思う程度で、そこまで警戒することはなくなった
+・義理や道理を重んじる性格。半グレ期は素材屋としてギャングに素材を流していたが、情報を得るためにALLINとの専属契約を守り続けていた。
+・・こうした実直な真面目さが実を結び、4/22付でALLIN入りを果たした。
+・他人の女性関係に対してはかなり強火の否定派で、辛辣な評価を下すことが多い。
+・・ちなみに自身については「恋愛関係的に親密にされるのが苦手であり、自分の面倒を見るので精一杯ということもあって恋人は必要ない」というスタンスだった。
+・・また、上記のスタンス由来なのか、かなりのノンデリ。好きなタイプを聞かれた際には「自分にとって都合のいい女性」と言い切ったこともある。
+・・もっとも、[[ALLIN]]解散後は自由な時間が増えて余裕が出来た結果、恋愛に対して積極的になっていた。
+・一見真面目で筋の通った人間のように思われるが、「物流・アスカ・半グレー(ギャング所属後は「ギャングレー」)」や「低音ヒク」、「二次元大介」などの奇抜な変装や、下ネタやギャンカスエピソードなどを交えた会話力なども備えた面白人間でもある。
+・ALLINでたびたび開始される&s(){地獄の配信}メンタルトレーニング時のアドリブ力と日頃からの説明力の高さをBOSSに評価され、加入前から希望していた外交役の1人に抜擢された。
+・・ちなみに&s(){地獄の配信}メンタルトレーニングには毎度のようにスーパーチャットをくれる「ずぶずぶタートル」さんがおり、その正体はBOSSだとされている（諸説あり）。
+・ALLIN解散日に起きれなかったことをかなり後悔している。
+・ALLIN解散後、他のギャングに入るつもりもなく、犯罪に手を染める気もなかった。しかし、白市民に戻る選択肢も考えていなかった。そんな中、ボスから受け継いだ遺産を活用し、とっさに思いついた「[[BJローン]]」の事業を元ALLINメンバーに提案すると、興味を持ってもらえた。最終的には「Mon&Cカンパニー」をメイズバンクタワーに建てたい。金儲けが目的ではなく、住人同士の舞台装置となることを目指し、現在はメンバー集めと事業の準備を進めている。元ALLINメンバーで固めるつもりはなく、多くて4,5人程度に止める予定。2025/04/02に開業した。
+・2025/06/04 不動産[[ヒーローハウジング]]に就職。お客様第一号は[[星唄　サウ汰]]。
+・2025/06/26 ダウンした際に脳が豆腐で、腸がホースで代用して治療されている。
+・2025/08/27 [[カジノ]]のラッキーホイールの景品、街に3台しかない世界最速の飛行機[[ハワード>https://w.atwiki.jp/gtav/pages/1841.html]]を当てる。
+・2025/09/20 彼女ができる。
+#endregion
+
+*** &icon_fa(fas fa-hamburger)【好きな食べ物】
+・エビフライの尻尾、エンガワのお寿司
+・好きな野菜はニンニクの芽、ヤングコーン、ピーマン
+・好きなチョコ菓子はバナナチョコチップス
+
+*** &icon_fa(fas fa-hamburger)【嫌いな食べ物、飲み物】
+・生トマト
+・コーヒーとお酒は苦手。
+
+*** &icon_fa(fas fa-glass-martini-alt)【好きな飲み物】
+・コーラ、リア〇ゴールド
+
+*関連人物
+***&font(25px,#FF3333){&icon_fa(fas fa-heart)} 恋人
+#region(開く)閉じる
+#size(95%){{{
+#table_style(head=#FFF:#FFF:center)
+|BGCOLOR(#c0c0c0):~キャラクター名|BGCOLOR(#17184b):~詳細|h
+|MIDDLE:[[星唄　サウ汰]]|[[銭形 やいち郎>銭形　やいち郎]]に「彼女が欲しい」と相談したことをきっかけに、[[うさぎさん>山田　パルコ]]を通じて紹介された。&br()後日[[しごたろう>三否亭　四五六確]]・[[さうたろう>星唄　サウ汰]]・[[やいちろう>銭形　やいち郎]]・[[うさたろう>山田　パルコ]]の4人でWデートをすることになり、&br()約4時間のWデートを経て友人（？）としての関係が始まる。&br()もともとお互いの存在は知っていたものの会話する機会はほとんどなかったが、Wデートを境に&br()何故か街で顔を合わせることが増え不思議な縁を感じるようになる。&br()やいち郎はその偶然の重なりを「デスティニー」と表現し応援している。&br()後に四五六確はサウ汰に対し「彼女候補として声をかけた女性の中で一番まともだった。」と語った。&br()彼女との出会いを機に、[[パラロス>PARADISE LOST]]を断ち真摯に向き合う決意を固めた。&br()そしてメッセージのやりとりやデートを重ねるうちに、2人の関係は次第に変化し感情も少しずつ変化&br()してきている。&br()Wデートから約5ヶ月、紆余曲折ありながらも2025/09/20にお付き合いがスタートした。&br()→お二人の関係について詳しくは[[こちら>しごサウ]]|
+
+#table_sorter{even=#fffff4,odd=#eeeeee}
+}}}
+#endregion(恋人)
+***&font(25px,#3EB370){&icon_fa(fa fa-child)} 白市民
+#region(開く)閉じる
+#size(95%){{{
+#table_style(head=#FFF:#FFF:center)
+|BGCOLOR(#c0c0c0):~キャラクター名|BGCOLOR(#17184b):~詳細|h
+|MIDDLE:[[葵井　優]]|カジノで知り合ったリサイクルセンターの同志。&br()最初は四五六確から素材を買い取っていたが、あまりの量に良心の呵責がうずき、[[素材屋>クリスマス急便]]に推薦してくれたとてもいい人。&br()ただし、彼の仕事量は四五六確からしても異常なレベルであり、時間の流れが違うのではと感じている。|
+|MIDDLE:[[牧田　ここな]]|彼女候補を探し[[タマーチ　ニキタ]]に自分に合う女性は誰かと聞いたところ名前があがった。&br()その後すぐに「ここな、大事な話がある」とメッセージを送り占いデートに誘った。&size(12)&openclose(show=〖 詳細 〗){1回目の占いデートは[[フォーチュン安村>千代田　ヨウ]]のトランプ占いに行き、&br()2回目の占いデートは[[黒亜　ネマ]]の最強あみだくじ占いに行き、&br()3回目の占いデートは[[青梅　つばめ]]の占いに行った。&br()その際、ここなは[[パパ>ライトスターボーイ]]、[[おじいちゃん>緋赤　まい]]、[[おばあちゃん>町田　ジョアンナ]]にデートに行くと伝えてから向かった。&br()↳結果、占い中ここなにパパから電話があり「今誰といるのか」「電話を代われ」と言われ、&br()一度ここなを家に帰すことになった。&br()その後[[GBCの人>トウ　ユン]]から「マクドナルドさんが会いたがっている」と連絡を受け、&br()墓場まで迎えに来てもらい[[9055]]へ向かった。&br()9055の裏に家があり入るとそこにはここなの、パパ、おじいちゃん、おばあちゃんの三人がおり&br()家族で話し合いをすることに…&br()話し合いの結果ここなとは、友達から始めることになった。}|
+|MIDDLE:[[犬　ルリ]]| ALLINの頃から見かけていた元最強警察。&br()[[BJローン]]から100億を借入、カジノで155億まで増やしたが翌日0にしてしまう。&br()とある方法で返済したが詳細は四五六確とルリだけの秘密。&size(12)&openclose(show=〖 詳細 〗){所持金を0にした日に&openclose2(show=BM){（警察金庫から盗んだ）}で返済し、他社員にも内緒にしてほしいとお願いされた。&br()そのため返済方法は四五六確とルリ2人だけのトップシークレットとなっている。&br()四五六確はこの密約を墓場まで持っていくと決めている。&br()また、船着場で行われたこの取引にルリはガチ変装して来ており、犬の仮面の下は四五六確がかつて[[お世話になった人>Mon　D]]に激似であった。}|
+|MIDDLE:[[天使　はの]]|twixでヒッチハイクを求めていた新規住民。出会うことは無かった。&size(12)&openclose(show=〖 詳細 〗){【四五六確夢物語】&br()（登場人物）&br()[[天使　はの]]→歪みで異世界行きした少女。twixでヒッチハイクを募集&br()[[三否定　四五六確]]→大型終わりにtwixのヒッチハイク募集をみて親切心でヘリで急行&br()物語はここから始まった。&br()ヘリで急行した四五六確は街中で強制瞑想。&br()復帰後盗難車で西高速を北上し到着するも天使はのは異世界におり、お互いに見えない状態に。&br()天使はのは瞑想へ行き、四五六確は補填部屋へ行った時に車が消失。&br()改めて盗難車を拾おうとしたがガソリン消失歪みで瞑想へ。&br()天使はのは瞑想明けにワープが発生し湖北部の漁村へ。1089で落ち合うことに。&br()四五六確は瞑想明けに状況を理解し、バスをハイジャック。山道を越えて向かおうとするもバランスが悪く3回横転しフリップビークルで起こすも、4回目の横転で乗り捨てて、道に走る車を奪い合流地点へ。&br()このタイミングでもお互いを視認することができなかったため、補填部屋で落ち合おうとしたが世界が違うため合流することはできなかった。&br()四五六の補填部屋へ行ったタイミングでなぜか[[帝　レン]]が。そのすぐ後に[[えだまめもん]]が補填部屋に登場。&br()四五六確は相手にレギオン湧きをお願いして一旦の解決へ。&br()その後四五六確は乗ってきたバスを再度フリップし、乗り込んだが5回目の横転。&br()再び盗難車で1030に。道中[[えだまめもん]]から電話がかかってくる。&br()そして1030は誕生日でもあった。これは世界統合の前触れなのかもしれない...。&br()余談&br()この後レギオンに湧いた天使はのは、えだまめもんと出会うことになるが、それはまた別のお話&br()10月19日、BMCにてとうとう出会い電話番号を交換した。}|
+|MIDDLE:[[ジョーカー>半沢　直ふぃ]]|[[SKE>菖光エンジニア]]で車の修理をした際に出会った黒の道の案内人&br()黒いことについて初心者マークがついていたころからいろいろと話をしてくれる&br()[[IRiS]]の人事担当であることを明かしてくれている|
+#table_sorter{even=#fffff4,odd=#eeeeee}
+}}}
+#endregion(白市民)
+***&font(25px){&icon_fa(fa fa-user-secret)} 黒市民 
+#region(開く,close)閉じる
+#size(95%){{{
+#table_style(head=#FFF:#FFF:center)
+|BGCOLOR(#c0c0c0):~キャラクター名|BGCOLOR(#17184b):~詳細|h
+|MIDDLE:[[Mon　D]]|ALLINのBOSS&br()体験期間中はスケジュールの都合でなかなか直接会う機会がなく、加入前は「本当に上手くやっていけるだろうか」と不安を抱いていた。&br()しかし、いざ加入してみると四五六確のユーモアや冷静な判断力を高く評価してくれ、配信部屋ではほぼ毎回ネタを振られる存在に。&br()さらに車用のボーナスを与えるなど何かと気にかけてもらっていた。&br()加入後には不安も解消され、ボスの怖さも感じることはなくなり、やがて忠誠を誓うようになっていった。&br()ALLIN解散の際にはMon D以外を「BOSS」と呼べない、「MonD以外の下ではギャングをするつもりはない」と語るほど深く敬愛していた。&br()四五六確はALLIN解散の日には立ち会うことができず、解散とともに姿を消したボスに会えなかったことを後悔していた。&br()2026/01/02、転送後のレギオンで約1年ぶりに再会した&br()「BOSS」と呼んでいた。|
+|MIDDLE:[[ちのまるこ>赤色　にごう]]|以前から知り合いではあったが、[[セオ君>風見　セオ]]の紹介で半グレであることを知る|
+|MIDDLE:[[つよがり　とうか]]|どこのギャングに所属しているか聞かれた際に、スイーティーポップコーンのチャッピーであると自己紹介する。「三否亭はチャッピーていと読むんだよ」と教えた。&br()会った際に度々、自分の名前と所属組織を言えるか確認している。&br()最近は、お金をねだったり、物を買いに行かせたりとうか虐をしている。ほぼ毎日顔を合わせるため、デイリーとうかと呼んでいる。|
+|MIDDLE:[[家好　にーと]]|リサイクルセンターで何度か会っていた人&br()[[セオ君>風見　セオ]]の紹介で半グレであることを知る&br()4/16の衛星で指名手配リストに載っていることを確認し、進捗が見られたことを喜んでいた|
+|MIDDLE:[[ハク　ナツメ]]|[[ヘラシギ]]との因縁から起こった2/21連れ去り事件の主犯。&br()四五六確としては、一部言っていることを理解できなくはないが、すべての行動を容認することは難しい。&br()黒の道に関する腕を磨き、弾丸で挨拶することが目標の一つとなる。&br()事件後にかなり丁寧に謝られたことがあり、弾丸で挨拶する気持ちはやや薄らいでいるらしい。&br()後に彼がトップを務めるギャングは解散してしまったと聞いた。|
+//|[[人物名]]|エピソード|
+#table_sorter{even=#fffff4,odd=#eeeeee}
+}}}
+#endregion(黒市民)
+//|[[人物名]]|エピソード|
+***&font(25px){&icon_fa(fa fa-user-secret)} 元ALLIN（キャラクターエンディング済み・長期休眠者含む）
+#region(開く,close)閉じる
+#size(95%){{{
+#table_style(head=#FFF:#FFF:center)
+|BGCOLOR(#c0c0c0):~キャラクター名|BGCOLOR(#17184b):~詳細|h
+|MIDDLE:[[薬乃　紅>yaku　beni]]|ALLINのUB&br()面識はあまりないが配信部屋で「しごべにチャンネル」をいっしょにやった。&br()「べに先輩」と呼んでいた。|
+|MIDDLE:[[白井　満太]]|ALLINの相談役&br()「白井さん」、と呼んでいた。|
+|MIDDLE:[[R　B]]|ALLINのUB&br()ALLIN専属をやめようか迷ったときに事実確認として[[ヘルアン]]と[[千代田ヨウ]]と共に同席していた所、&br()話の上手さや考え方等でいい人材だと[[ALLIN]]に入れることを推してくれていてRBの推薦でALLINに入ることができた。&br()よく[[同じ人物>mimi　taya]]の足を見ていた。&br()「RBさん」と呼んでいた。|
+|MIDDLE:[[薬乃　みみ>mimi　taya]]|ALLINの構成員&br()着替え中に足について語っていたところ貫通歪みですべて聞かれていた。&br()待ち受けの画像はみみ先輩の足の写真&br()「みみ先輩」と呼んでいた。|
+|MIDDLE:[[千代田　ヨウ]]|ALLINのUB&br()ALLIN解散後、一緒にBJローンを企業した。&br()「チヨ先輩」と呼んでいた。|
+|MIDDLE:[[エスターク・Z・ダークネス]]|ALLINの構成員&br()配信部屋でよく「エスしごチャンネル」をやらされていた。&br()「エス先輩」と呼んでいた。|
+|MIDDLE:[[ヘルアン]]|ALLINのUB&br()ALLIN加入前から素材取引で知り合った。[[ヘラシギ]]からの紹介で知り合った[[ALLIN]]の人間。&br()サバゲーに誘うなど、四五六確に最初からフランクに接してくれた。&br()[[ALLIN]]専属をやめようか迷ったときに相談した人。&br()加入後は、「ヘノレアン」や「ヘリアン」の変装で街を歩きいたずらをしていた。&br()「ヘル先輩」と呼んでいた。|
+|MIDDLE:[[マイゴ・ニ＝ナリエル]]|ALLINの構成員&br()「ナリエル先輩」と呼んでいた。|
+|MIDDLE:[[安城　成]]|ALLINの構成員&br()ALLIN解散後は山に籠っているがBJローンに勧誘している。&br()「安城先輩」と呼んでいた。|
+|MIDDLE:[[椎花　まほ]]|ALLINの構成員&br()リサセンで知り合った[[ALLIN]]の人間で、一時は素材の取引相手でもあった。&br()出会った当初はしっかりしているという印象だったが、[[無馬　かな]]との話し合い後、計算に関してはかなりのポンコツであることを知る。&br()[[ALLIN]]体験のときから不足物資がないか確認するなど、いろいろ世話を焼いてくれる優しいお姉さん。&br()[[ALLIN]]メンバーによるノンデリトークに余裕でついてきて、さらには刺す場面もあることを考えると、彼女もノンデリなのかもしれない。&br()「椎花先輩」と呼んでいた。|
+|MIDDLE:[[天草　蒼]]|ALLINの構成員&br()[[ALLIN]]の体験時に出会った頼れる先輩。&br()最初からウマがあったのか、出会ったその日から長時間話をしていた。&br()車の運転技術においては光るモノがあり、街でジャンプできる場所やニトロの吹かし方などいろいろ四五六確に教えてくれた。&br()「天草先輩」と呼んでいた。|
+|MIDDLE:[[五十嵐　えいむ]]|ALLINの構成員&br()「えいむ先輩」と呼んでいた。|
+|MIDDLE:[[CPU]]|ALLINの構成員&br()黒向けのチェイス練習コースを練習時に出会った[[ALLIN]]の先輩。&br()体験前のまったくの初対面にも関わらず、長時間運転技術を教えてもらった。&br()彼のアドバイスで初対面の[[ボス>Mon　D]]にチンチロ勝負をしかけており、仲良くなるきっかけになった感じがあった。&br()[[ALLIN]]メンバーで誰が優しいかという話になったとき、四五六確はダントツで一番だと名前を挙げていた&br()四五六のことを気に入っており大型服の仮面はCPUに決めてもらったもの。&br()赤色のパラゴンを預かっている。&br()「CPU先輩」と呼んでいた。|
+|MIDDLE:[[トナカイ>タシロ　カワセ]]|ALLINの構成員&br()ALLIN解散後は、一緒にBJローンを企業した。&br()「トナカイ先輩」と呼んでいた。|
+|MIDDLE:[[月ノ島　ごう]]|ALLINの構成員&br()同じ5期生でよく「大人組」と言われていた。&br()「ごうさん」と呼んでいた。|
+|MIDDLE:[[芳賀　ノエル]]|ALLINの構成員&br()四五六確より後にはいったが別ギャングをやっていたため後輩ではないなと語っていた。&br()「ノエルさん」と呼んでいた。|
+|MIDDLE:[[黒亜　ネマ]]|ALLINの構成員&br()ノエルと同様に後輩ではないなと語っていた。&br()「ネマさん」と呼んでいた。|
+|MIDDLE:[[みこだ　よう]]|ALLINの構成員&br()「みこださん」「みこにゃん」と呼んでいた。|
+|MIDDLE:[[三島　みつー]]|ALLINの構成員&br()「みつーくん」「みちゅー」「三島」と呼んでいた。|
+//|[[人物名]]|エピソード|
+#table_sorter{even=#fffff4,odd=#eeeeee}
+}}}
+#endregion(ALLIN)
+***&font(25px){&icon_fa(fa fa-solid fa-person-circle-minus)} キャラクターエンディング済み・長期休眠者
+#region(開く)閉じる
+#size(95%){{{
+#table_style(head=#FFF:#FFF:center)
+|BGCOLOR(#c0c0c0):~キャラクター名|BGCOLOR(#17184b):~詳細|h
+|MIDDLE:[[焦月　ツルギ]]|最初に街案内してもらった縁があり、なにくれとなく声をかけてくれる。&br()経営している[[焦村家]]に遊びに行くこともある。|
+|MIDDLE:[[ヘラシギ]]|単車とレース免許取得の際に知り合った恩人。&br()この街での経験の長さと広い人脈で、いろいろと相談に乗ってくれた。&br()四五六確を気に入ってくれており、[[ALLIN]]への紹介もしてくれた。&br()2/21連れ去り事件の影響で、[[ヘラシギ]]への黒の道に関する相談はやめることになった。|
+|MIDDLE:[[風見　セオ]]|2/21の衛星にて自分が半グレであることを明かし、黒方面に進むことを決めた四五六確と相棒になる&br()犯罪の先生となって手順を教えてくれたり、半グレ仲間を紹介してくれたりする&br()3/1の衛星にて自分も連れ去り事件で聴き取りされた人のうちの1人であること、[[ハク　ナツメ]]から四五六確から直接話を聞いても良いと許可をもらっていることを打ち明けられ、腹を割って話す仲になった&br()3月中旬以降は起きてくることが少なくなり、四五六確としては寂しがっている模様|
+|MIDDLE:[[レキ　ウィステリア]]|[[セオ君>風見　セオ]]の紹介で知り合った半グレ仲間&br()最初は[[セオ君>風見　セオ]]が犯罪を教えていたが、途中から四五六確が教える役になる&br()彼女が[[MOZU]]志望であることを知っており、4/21の衛星ではそのことについて長時間アドバイスをしていた|
+|MIDDLE:[[無馬　かな]]|[[椎花　まほ]]からの紹介で知り合った元[[ALLIN]]の人間。&br()2/16の5時強制瞑想直前に456確は車で轢かれている。&br()話したときは[[ALLIN]]のNo.2であり、ギャングの事情について言える範囲で教えてくれる。&br()最初の轢かれ事件の印象とは全く違い、かなりの頭脳派という印象を456確は受けた模様。&br()後々話したときに[[ALLIN]]を抜けたことを知り、ロスサントス令和一の衝撃を受けていた。|
+|MIDDLE:[[豆乳　ちゃんもも]]|[[パラロス>PARADISE LOST]]に行った際に、先に指名するも途中で[[高橋　滅論]]を指名したことで「早く帰れ」「二度と来るな」と嫌われてしまう。&br()四五六確にだけツンデレの接客であり、それを楽しみで頻繁に訪れている。&br()店が開いたら必ず行くため帰宅率100%であるが、扱いがほかの客よりかなり冷たい|
+#table_sorter{even=#fffff4,odd=#eeeeee}
+}}}
+#endregion(キャラクターエンディング済み・長期休眠者)
+
+*所有乗物一覧
+*** &icon_fa(fa fa-car) Season1
+#region(開く,close)閉じる
+#table_filter(){分類=show,車両=show,取得日=show,備考=show}
+#table_style(head=#3CBCEB:#FFFFFF:b:center){分類=center,車両=b,取得日=center}
+|~分類|~車両|~取得日|~備考|
+|MIDDLE:バイク|[[バティー801>>https://w.atwiki.jp/gtav/pages/392.html]]|2024/02/08|初めて購入した単車|
+|~|[[シノビ>>https://w.atwiki.jp/gtav/pages/2738.html]]|2024/02/13||
+|~|[[バティー901>>https://www.gta5-mods.com/vehicles/pegassi-bati-901-add-on-tuning-sounds-lods]]|2025/06/13|[[さうたろう>星唄　サウ汰]]にハーネス姿に似合うバイクを見繕ってもらいカスタマイズまでお願いした|
+|~|[[ヴェントーゾ>>https://www.gta5-mods.com/vehicles/dinka-ventoso-add-on-liveries]]|2025/06/13|[[さうたろう>星唄　サウ汰]]からの不動産就職祝い(ハーネス姿で乗っているのを見たいだけにプレゼントされた)|
+|MIDDLE:バン|[[ランポ・カスタム>>https://w.atwiki.jp/gtav/pages/1630.html]]|2024/02/16|フルカス済み|
+|~|[[スピード エクスプレス>>https://www.gta5-mods.com/vehicles/vapid-speedo-express-add-on-liveries]]|2025/07/13|[[トナカイ>タシロ　カワセ]]からプレゼント。フルカス済み|
+|MIDDLE:スポーツカー|[[リボルター>>https://w.atwiki.jp/gtav/pages/1906.html]]|2024/04/10|本体価格10％オフで購入。フルカス済み|
+|~|[[パラゴン>>https://w.atwiki.jp/gtav/pages/2479.html]]|2024/04/16|フルカス済み|
+|~|[[オムニス>>https://w.atwiki.jp/gtav/pages/2831.html]]|2024/11/02|[[ヘル先輩>ヘルアン]]からの誕生日プレゼント。|
+|~|[[ネオン>>https://w.atwiki.jp/gtav/pages/1907.html]]|2024/11/00|[[天草先輩>天草　蒼]]からの誕生日プレゼント。|
+|MIDDLE:スーパーカー|[[イタリGTB>https://w.atwiki.jp/gtav/pages/1715.html]]|2024/04/10|[[天草先輩>天草　蒼]]から一時的に借り受ける。すでに返却済み|
+|~|[[デヴェステ>>https://w.atwiki.jp/gtav/pages/2444.html]]|2024/05/26|[[ボス>Mon　D]]から資金をもらって購入。フルカス済み|
+|~|[[ヴァグネル>>https://w.atwiki.jp/gtav/pages/1782.html]]|2024/11/01|[[ごうさん>月ノ島　ごう]]からの誕生日プレゼント。|
+|~|[[ゼントーノ>>https://w.atwiki.jp/gtav/pages/1086.html]]|2024/11/02|[[エス先輩>エスターク・Z・ダークネス]]•[[椎花先輩>椎花　まほ]]•[[まいにい>まい　にい]]からの誕生日プレゼント。|
+|~|[[トラクス>https://w.atwiki.jp/gtav/pages/2475.html]]|2025/03/16|ALLIN脱退に伴い、[[まい　にい]]から譲り受ける。当日不在のため後日受け取った。|
+|~|[[T20>https://w.atwiki.jp/gtav/pages/1459.html]]|2025/03/26|ALLIN解散に伴い、[[ボス>Mon　D]]から譲り受ける。本人不在のため[[えいむ先輩>五十嵐　えいむ]]が代わりに選んでくれた|
+|~|[[エメラス>https://w.atwiki.jp/gtav/pages/2495.html]]|2025/03/26|ALLIN解散に伴い、[[ボス>Mon　D]]から譲り受ける。本人不在のため[[えいむ先輩>五十嵐　えいむ]]が代わりに選んでくれた|
+|MIDDLE:ヘリ|[[ハボック（豆ヘリ）>>https://w.atwiki.jp/gtav/pages/1835.html]]|2024/02/29|[[セオくん>風見　セオ]]から練習用にもらう|
+|~|[[フロガー>>https://w.atwiki.jp/gtav/pages/644.html]]|2024/05/24|[[ボス>Mon　D]]からもらった|
+|MIDDLE:航空機|[[ハワード>https://w.atwiki.jp/gtav/pages/1841.html]]|2025/08/27|[[カジノ]]のラッキーホイールで当てる。|
+|MIDDLE:船|[[ロングフィン>>https://w.atwiki.jp/gtav/pages/2676.html]]|2024/11/01|[[ごうさん>月ノ島　ごう]]からの誕生日プレゼント。|
+|~|[[ロングフィン>>https://w.atwiki.jp/gtav/pages/2676.html]]|2024/11/01|[[ナリエル先輩>マイゴ・ニ＝ナリエル]]からの誕生日プレゼント(虹色)|
+#endregion
+
+*** &icon_fa(fa fa-car) Season2
+#region(開く,close)閉じる
+#table_filter(){分類=show,車両=show,取得日=show,備考=show,ナンバー=hide}
+#table_style(head=#3CBCEB:#FFFFFF:b:center){分類=center,車両=b,取得日=center}
+|~分類|~車両|~取得日|~備考|~ナンバー|
+|MIDDLE:コンパクトカー|[[ディレタンテ>>https://w.atwiki.jp/gtav/?cmd=word&word=Diletta&pageid=315]]|2025/12/19|Season2で初めて購入した車|BODH9329|
+|MIDDLE:オフロード|カニー|2026/01/17||0N8IXW28|
+|MIDDLE:バイク|Dinka Thrust AT|2026/05/29|Season2で初めて購入したバイク|2U8X94WW|
+#endregion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//*遊ぎ王（予定）の実績
+//#region(02月,close)&bold(){02月}
+//#areaedit()
+//#table_style(head=#3CBCEB:#FFFFFF:center:){配信日=center,項目=center}
+//|~配信日|~項目|~収支|~備考|h
+//|02/07|カジノ|－340万||
+//|02/08|カジノ|－480万||
+//|02/10|カジノ|－25万|初めて20万勝つことに成功|
+//|02/11|カジノ|－320万||
+//|02/12|カジノ|－10万||
+//|02/16|カジノ|＋90万||
+//|02/20|カジノ|－660万||
+//|02/21|カジノ|－1265万|[[風見　セオ]]にもらった500万を含む|
+//|>|合計|－3010万||
+//#table_zebra(#EEFFFF, #FFF, #3CBCEB)
+//#areaedit(end)
+//#endregion(02月)
+//#region(03月,close)&bold(){03月}
+//#areaedit()
+//#table_style(head=#3CBCEB:#FFFFFF:center:){配信日=center,項目=center}
+//|~配信日|~項目|~収支|~備考|h
+//|03/02|カジノ|－2000万||
+//|03/02|カジノ|－500万||
+//|03/09|カジノ|－3000万||
+//|03/16|カジノ|＋1億2000万|衛星外|
+//|>|合計|＋6500万||
+//#table_zebra(#EEFFFF, #FFF, #3CBCEB)
+//#areaedit(end)
+//#endregion(03月)
+//#region(04月,close)&bold(){04月}
+//#areaedit()
+//#table_style(head=#3CBCEB:#FFFFFF:center:){配信日=center,項目=center}
+//|~配信日|~項目|~収支|~備考|h
+//|04/10|[[ボス>Mon　D]]と勝負|＋1億|チンチロ|
+//|04/13|カジノ|－5000万||
+//|>|合計|＋5000万||
+//#table_zebra(#EEFFFF, #FFF, #3CBCEB)
+//#areaedit(end)
+//#endregion(04月)
+
+*エピソード
+#size(90%){&color(#aaa){編集はこちら}}↓
+#size(90%){&color(#aaa){[[2024年>>三否亭　四五六確/エピソード１]]}}#size(90%){&color(#aaa){[[2025年>>三否亭　四五六確/エピソード2]]}}#size(90%){&color(#aaa){[[2025年②>>三否亭　四五六確/エピソード3]]}}#size(90%){&color(#aaa){[[2025年③>>三否亭　四五六確/エピソード4]]}} #size(90%){&color(#aaa){[[2025年④>>三否亭　四五六確/エピソード5]]}} #size(90%){&color(#aaa){[[2025年⑤>>三否亭　四五六確 /エピソード6]]}}　#size(90%){&color(#aaa){[[2025年⑥>>三否亭　四五六確/エピソード７]]}}　　#size(90%){&color(#aaa){[[2025年⑦>>三否亭　四五六確/エピソード8]]}}　#size(90%){&color(#aaa){[[2025年⑧>>三否亭　四五六確/エピソード9]]}}
+
+***&big(){ 2024年2月～9月 }
+#include(三否亭　四五六確/エピソード１)
+***&big(){ 2025年 }
+#include(三否亭　四五六確/エピソード2)
+#include(三否亭　四五六確/エピソード3)
+#include(三否亭　四五六確/エピソード4)
+#include(三否亭　四五六確/エピソード5)
+#include(三否亭　四五六確 /エピソード6)
+***&big(){ 2026年 }
+#include(三否亭　四五六確/エピソード７)
+#include(三否亭　四五六確/エピソード8)
+#include(三否亭　四五六確/エピソード9)
+*&font(#915da3){&icon_fa(fa fa-twitch)} アーカイブ
+***2024年
+#region(２月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/07|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY1 / 初心者🔰俺はこの街の遊戯王になる男、三否亭 四五六確！>>https://www.youtube.com/watch?v=C3MhXFLYDrQ]]||
+|02/08|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY2/初心者🔰遊ぎ王になるには金と足と仕事が要る。>>https://www.youtube.com/live/9hjErp2FrJw?si=b3LMsjEaRbHtiUCs]]||
+|02/10|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY3 / 初心者🔰お仕事を探さないと生活がままならない>>https://www.youtube.com/watch?v=s85rU4LQ2wc]]|日付ギリギリに始まったため世界線は11日|
+|02/11|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY4/初心者🔰今日で所持金を盛り返す！そしてカジノで倍！>>https://www.youtube.com/live/HdLjKi5k8Rs?si=M0S_8Ymp7dC9VHnW]]||
+|02/12|5|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY5/仕事について真剣に考える>>https://www.twitch.tv/kyoyu_shiroya/v/2060648047?sr=a&t=0s]]||
+|02/13|6|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY6/初の体験入店ができるかもしれん!>>https://www.twitch.tv/kyoyu_shiroya/v/2061564798?sr=a]]||
+|02/15|7|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY7/考えを張り巡らせろ！頭を動かせ！>>https://www.twitch.tv/kyoyu_shiroya/v/2063403169?sr=a]]||
+|02/16|8|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY8/マイカーを買う&卸先を決める。>>https://www.twitch.tv/kyoyu_shiroya/v/2064347786?sr=a]]||
+|02/18|9|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY9/まずは自分に出来ることをしよう>>https://www.twitch.tv/kyoyu_shiroya/v/2065461905?sr=a]]||
+|02/20|10|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY10 白黒はっきりするのかカフェオレか①>>https://www.twitch.tv/kyoyu_shiroya/v/2068385231?sr=a]]&br()&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY10 白黒はっきりするのかカフェオレか②>>https://www.twitch.tv/kyoyu_shiroya/v/2068584495?sr=a]]|②は瞑想後のため世界線は21日|
+|02/21|11|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY11 この街の色は>>https://www.twitch.tv/kyoyu_shiroya/v/2069339843?sr=a]]||
+|02/22|12|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY12 進む道が決まったので準備と勉強>>https://www.twitch.tv/kyoyu_shiroya/v/2070314137?sr=a]]||
+|02/23|13|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY13 / もう引き返せないブラックコーヒー人生>>https://www.twitch.tv/kyoyu_shiroya/v/2071259524?sr=a]]||
+|02/25|14|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY14 １度堕ちると人間は戻れない①>>https://www.twitch.tv/kyoyu_shiroya/v/2072384413?sr=a]]&br()&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY14 １度堕ちると人間は戻れない②>>https://www.twitch.tv/kyoyu_shiroya/v/2072436214?sr=a]]||
+|02/25|15|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY15 / 黒くなっても人情は大事>>https://www.twitch.tv/kyoyu_shiroya/v/2071259524?sr=a]]||
+|02/27|16|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY16 / しばらくは灰色をコツコツ楽しむ>>https://www.twitch.tv/kyoyu_shiroya/v/2075163840?sr=a]]||
+|02/29|17|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY17 駆け込みブラック>>https://www.twitch.tv/kyoyu_shiroya/v/2076188953?sr=a]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(３月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/01|18|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY18 遅起きは何文の得になるか>>https://www.twitch.tv/kyoyu_shiroya/v/2076188953?sr=a]]||
+|03/02①|19|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY19 / 一石二鳥三否亭四五六確>>https://www.twitch.tv/kyoyu_shiroya/v/2078060801?sr=a]]||
+|03/02②|20|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY20 / もう20日もたってしまったか>>https://www.twitch.tv/kyoyu_shiroya/v/2078998264?sr=a]]||
+|03/03|21|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY21 /向かうなら東がいい>>https://www.twitch.tv/kyoyu_shiroya/v/2080049118?sr=a]]||
+|03/08|22|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY22 / ロスサントスに追いつけ>>https://www.twitch.tv/kyoyu_shiroya/v/2084751114?sr=a]]||
+|03/09|23|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY23 / 妖怪コンビニ荒らし>>https://www.twitch.tv/kyoyu_shiroya/v/2085750115?sr=a]]||
+|03/10|24|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY24 / それいけ半グレ生活>>https://www.twitch.tv/kyoyu_shiroya/v/2086792376?sr=a]]||
+|03/12|25|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY25 / 凝を怠るな>>https://www.twitch.tv/kyoyu_shiroya/v/2086792376?sr=a]]||
+|03/14|26|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY26 / やっと億超えの半グレ>>https://www.twitch.tv/kyoyu_shiroya/v/2089620044?sr=a]]||
+|03/15|27|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY27 / 人生長いからゆっくりと>>https://www.twitch.tv/kyoyu_shiroya/v/2091388848?sr=a]]||
+|03/17|28|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY28 /どうするか決めるべき？>>https://www.twitch.tv/kyoyu_shiroya/v/2093415769?sr=a]]||
+|03/27|29|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY29 / 久しぶりの街！>>https://www.twitch.tv/kyoyu_shiroya/v/2102020848?sr=a]]||
+|03/28|30|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY30 / 街にきて1か月>>https://www.twitch.tv/videos/2102961946?sr=a]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(４月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/04|31|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY31 / 久しぶりのロスサントス半グレ生活！>>https://www.twitch.tv/kyoyu_shiroya/v/2110540325?sr=a]]||
+|04/05|32|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY32 / 目指せ全グレー>>https://www.twitch.tv/kyoyu_shiroya/v/2111463571?sr=a]]||
+|04/06|33|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY33 / 少しだけ起きる>>https://www.twitch.tv/kyoyu_shiroya/v/2112490302?sr=a]]||
+|04/07|34|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY34 / 待ってる間に考えること>>https://www.twitch.tv/kyoyu_shiroya/v/2113425004?sr=a]]||
+|04/10|35|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY35 / 進退>>https://www.twitch.tv/kyoyu_shiroya/v/2115208509?sr=a]]||
+|04/10|36|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY36 / 体験…かも？>>https://www.twitch.tv/kyoyu_shiroya/v/2116027965?sr=a]]||
+|04/12|37|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY37 / コンビニで刺激足りる？>>https://www.twitch.tv/kyoyu_shiroya/v/2116937831?sr=a]]||
+|04/13|38|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY38 / いろいろ勉強>>https://www.twitch.tv/kyoyu_shiroya/v/2117824154?sr=a]]||
+|04/13|39|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY39 今日から少し静かかな　その1>>https://www.twitch.tv/kyoyu_shiroya/v/2118674869?sr=a]]&br()&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY39 今日から少し静かかな　その2>>https://www.twitch.tv/kyoyu_shiroya/v/2118732689?sr=a]]|その2は世界線は14日|
+|04/14|40|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY40 ALLINさん体験期間①>>https://www.twitch.tv/kyoyu_shiroya/v/2119602999?sr=a]]&br()&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY40 ALLINさん体験期間②>>https://www.twitch.tv/kyoyu_shiroya/v/2119860272?sr=a]]&br()&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY40 ALLINさん体験期間③>>https://www.twitch.tv/kyoyu_shiroya/v/2119907949?sr=a]]|②から世界線は15日|
+|04/16|41|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY41 決めました>>https://www.twitch.tv/kyoyu_shiroya/v/2121347392?sr=a]]||
+|04/18|42|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY42 / 前向き体験記>>https://www.twitch.tv/kyoyu_shiroya/v/2123035619?sr=a]]||
+|04/21|43|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY43 / 前向き体験記その2>>https://www.twitch.tv/kyoyu_shiroya/v/2124920299?sr=a]]||
+|04/21|44|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY44 / 前向き体験記その3>>https://www.twitch.tv/kyoyu_shiroya/v/2125741892?sr=a]]||
+|04/26|45|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY45 / ALLIN1日目>>https://www.twitch.tv/kyoyu_shiroya/v/2129215475?sr=a]]||
+|04/26|46|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY46 / ALLIN2日目>>https://www.twitch.tv/kyoyu_shiroya/v/2129996963?sr=a]]||
+|04/28|47|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY47 / ALLIN3日目>>https://www.twitch.tv/kyoyu_shiroya/v/2131898295?sr=a]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(５月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/01|48|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY48 / ALLIN4日目>>https://www.twitch.tv/kyoyu_shiroya/v/2134546151?sr=a]]||
+|05/02|49|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY49 / ALLIN5日目>>https://www.twitch.tv/kyoyu_shiroya/v/2135344274?sr=a]]||
+|05/03|50|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY50 / ALLIN6日目>>https://www.twitch.tv/kyoyu_shiroya/v/2136152040?sr=a]]||
+|05/04|51|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY51 / ALLIN7日目>>https://www.twitch.tv/kyoyu_shiroya/v/2136990665?sr=a]]||
+|05/05|52|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY52 / ALLIN8日目>>https://www.twitch.tv/kyoyu_shiroya/v/2137917569?sr=a]]||
+|05/09|53|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY53 / ALLIN9日目>>https://www.twitch.tv/kyoyu_shiroya/v/2140542706?sr=a]]||
+|05/10|54|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY54 / ALLIN10日目>>https://www.twitch.tv/kyoyu_shiroya/v/2141180462?sr=a]]||
+|05/11|55|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY55 / ALLIN11日目>>https://www.twitch.tv/kyoyu_shiroya/v/2143064028?sr=a]]||
+|05/12|56|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY56 / ALLIN12日目>>https://www.twitch.tv/kyoyu_shiroya/v/2143856590?sr=a]]||
+|05/14|57|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY57 / ALLIN 13日目>>https://www.twitch.tv/kyoyu_shiroya/v/2145377109?sr=a]]||
+|05/15|58|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY58 / ALLIN14日目>>https://www.twitch.tv/kyoyu_shiroya/v/2146257776?sr=a]]||
+|05/16|59|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY59 / ALLIN15日目>>https://www.twitch.tv/kyoyu_shiroya/v/2147200185?sr=a]]||
+|05/19|60|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY60 / ALLIN16日目>>https://www.twitch.tv/kyoyu_shiroya/v/2149708101?sr=a]]||
+|05/19|60|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY60 / ALLIN16日目>>https://www.twitch.tv/kyoyu_shiroya/v/2149798183?sr=a]]|途中で落ちたため2枠目|
+|05/21|61|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY61 / ALLIN17日目>>https://www.twitch.tv/kyoyu_shiroya/v/2151326716?sr=a]]||
+|05/22|62|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY62 / ALLIN18日目>>https://www.twitch.tv/kyoyu_shiroya/v/2152233538?sr=a]]||
+|05/24|63|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY63 / ALLIN19日目>>https://www.twitch.tv/kyoyu_shiroya/v/2153891770?sr=a]]||
+|05/25|64|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY64 / ALLIN20日目>>https://www.twitch.tv/kyoyu_shiroya/v/2154862230?sr=a]]||
+|05/26|65|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY65 / ALLIN21日目>>https://www.twitch.tv/kyoyu_shiroya/v/2155723530?sr=a]]||
+|05/29|66|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY66 / ALLIN22日目>>https://www.twitch.tv/kyoyu_shiroya/v/2158214722?sr=a]]||
+|05/30|67|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY67 / ALLIN23日目>>https://www.twitch.tv/kyoyu_shiroya/v/2159062309?sr=a]]||
+|05/31|68|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY68 / ALLIN24日目>>https://www.twitch.tv/kyoyu_shiroya/v/2159909179?sr=a]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(６月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/01|69|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY69 / ALLIN25日目>>https://www.twitch.tv/kyoyu_shiroya/v/2160876459?sr=a]]||
+|06/05|70|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY70 / ALLIN26日目>>https://www.twitch.tv/kyoyu_shiroya/v/2163392197?sr=a]]||
+|06/05|71|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY71 / ALLIN27日目>>https://www.twitch.tv/kyoyu_shiroya/v/2164142390?sr=a]]||
+|06/08|72|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY72 / ALLIN28日目>>https://www.twitch.tv/kyoyu_shiroya/v/2166723455?sr=a]]||
+|06/13|73|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY73 / ALLIN29日目>>https://www.twitch.tv/kyoyu_shiroya/v/2170851279?sr=a]]||
+|06/14|74|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY74 / ALLIN30日目>>https://www.twitch.tv/kyoyu_shiroya/v/2171692851?sr=a]]||
+|06/16|75|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY75 / ALLIN31日目>>https://www.twitch.tv/kyoyu_shiroya/v/2173574467?sr=a]]||
+|06/18|76|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY76 / ALLIN32日目>>https://www.twitch.tv/kyoyu_shiroya/v/2175128904?sr=a]]||
+|06/19|77|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY77 / ALLIN33日目>>https://www.twitch.tv/kyoyu_shiroya/v/2175975833?sr=a]]||
+|06/20|78|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY78 / ALLIN34日目>>https://www.twitch.tv/kyoyu_shiroya/v/2176815736?sr=a]]||
+|06/22|79|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY79 / ALLIN35日目>>https://www.twitch.tv/kyoyu_shiroya/v/2178600653?sr=a]]||
+|06/27|80|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY80 / ALLIN36日目>>https://www.twitch.tv/kyoyu_shiroya/v/2182948422?sr=a]]||
+|06/28|81|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY81 / ALLIN37日目>>https://www.twitch.tv/kyoyu_shiroya/v/2183815827?sr=a]]||
+|06/29|82|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY82 / ALLIN38日目>>https://www.twitch.tv/kyoyu_shiroya/v/2184745581?sr=a]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#region(７月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/05|83|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY83 / ALLIN39.5日目番外編>>https://www.twitch.tv/kyoyu_shiroya/v/2189684743?sr=a]]||
+|07/06|84|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY83 / ALLIN40日目>>https://www.twitch.tv/kyoyu_shiroya/v/2190594577?sr=a]]||
+|07/11|85|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY84 / ALLIN41日目>>https://www.twitch.tv/kyoyu_shiroya/v/2194760770?sr=a]]||
+|07/12|86|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY85 / ALLIN42日目>>https://www.twitch.tv/kyoyu_shiroya/v/2195628727?sr=a]]||
+|07/14①|87|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY86 / ALLIN43日目>>https://www.twitch.tv/kyoyu_shiroya/v/2196647116?sr=a]]||
+|07/14②|88|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY87 / ALLIN44日目>>https://www.twitch.tv/kyoyu_shiroya/v/2197344133?sr=a]]||
+|07/18|89|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY88 / ALLIN45日目>>https://www.twitch.tv/kyoyu_shiroya/v/2200804060?sr=a]]||
+|07/19|90|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY89 / ALLIN46日目>>https://www.twitch.tv/kyoyu_shiroya/v/2201612801?sr=a]]||
+|07/20|91|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY90 / ALLIN47日目>>https://www.twitch.tv/kyoyu_shiroya/v/2202506866?sr=a]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(7月)
+#region(８月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/02|92|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY91 / ALLIN48日目>>https://www.twitch.tv/kyoyu_shiroya/v/2213703109?sr=a]]||
+|08/03|93|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY92 / ALLIN49日目>>https://www.twitch.tv/kyoyu_shiroya/v/2214642317?sr=a]]||
+|08/04|94|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY93 / ALLIN50日目>>https://www.twitch.tv/kyoyu_shiroya/v/2215449643?sr=a]]||
+|08/08|95|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY94 / ALLIN51日目>>https://www.twitch.tv/kyoyu_shiroya/v/2218857488?sr=a]]||
+|08/09|96|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY95 / ALLIN52日目①>>https://www.twitch.tv/kyoyu_shiroya/v/2219699797?sr=a]]&br()&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY95 / ALLIN52日目②>>https://www.twitch.tv/kyoyu_shiroya/v/2219884319?sr=a]]||
+|08/11|97|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY96 / ALLIN53日目>>https://www.twitch.tv/kyoyu_shiroya/v/2221581808?sr=a]]||
+|08/13|98|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY97 / ALLIN54日目>>https://www.twitch.tv/kyoyu_shiroya/v/2223167203?sr=a]]||
+|08/15|99|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY98 / ALLIN55日目>>https://www.twitch.tv/kyoyu_shiroya/v/2224761718?sr=a]]||
+|08/16|100|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY99 / ALLIN56日目>>https://www.twitch.tv/kyoyu_shiroya/v/2225612713?sr=a]]||
+|08/17|101|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY100 / ALLIN57日目>>https://www.twitch.tv/kyoyu_shiroya/v/2227409766?sr=a]]||
+|08/22|102|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY101 / ALLIN58日目>>https://www.twitch.tv/kyoyu_shiroya/v/2230867404?sr=a]]||
+|08/29|103|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY102 / ALLIN59日目>>https://www.twitch.tv/kyoyu_shiroya/v/2236961806?sr=a]]||
+|08/31|104|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY103 / ALLIN60日目>>https://www.twitch.tv/kyoyu_shiroya/v/2238755977?sr=a]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(8月)
+#region(９月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/01|105|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[お留守番DAY104/ALLIN61日目>>https://www.twitch.tv/kyoyu_shiroya/v/2239687111?sr=a]]||
+|09/03|106|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY105 / ALLIN62日目>>https://www.twitch.tv/kyoyu_shiroya/v/2241435460?sr=a]]||
+|09/05|107|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY106 / ALLIN63日目>>https://www.twitch.tv/kyoyu_shiroya/v/2243133835?sr=a]]||
+|09/06|108|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY107 / ALLIN64日目>>https://www.twitch.tv/kyoyu_shiroya/v/2243917453?sr=a]]||
+|09/07|109|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY108 / ALLIN65日目>>https://www.twitch.tv/kyoyu_shiroya/v/2244856436?sr=a]]||
+|09/10|110|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY109 / ALLIN66日目>>https://www.twitch.tv/kyoyu_shiroya/v/2247415739?sr=a]]||
+|09/11|111|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY109 / ALLIN66日目>>https://www.twitch.tv/kyoyu_shiroya/v/2248233072?sr=a]]||
+|09/12|112|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY111 / ALLIN68日目>>https://www.twitch.tv/kyoyu_shiroya/v/2249064466?sr=a]]||
+|09/13|113|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY112　/　ALLIN69日目　/　にかのり出演？>>ここに配信URLを入力]]|(リンクは後で)|
+|09/14|114|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ホストやるぞ！DAY113 / ALLIN70日目>>ここに配信URLを入力]]|(リンクは後で)|
+|09/15|115|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[寝てたら一瞬。また明日。DAY114/ALLIN71日目>>ここに配信URLを入力]]|(リンクは後で)|
+|09/17|116|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY115 / ALLIN72日目>>ここに配信URLを入力]]|(リンクは後で)|
+|09/18|117|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY116 / ALLIN73日目>>ここに配信URLを入力]]|(リンクは後で)|
+|09/19|118|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY117 / ALLIN74日目>>ここに配信URLを入力]]|(リンクは後で)|
+|09/25|119|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY118 / ALLIN75日目>>ここに配信URLを入力]]|(リンクは後で)|
+|09/26|120|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY119 / ALLIN76日目>>ここに配信URLを入力]]|(リンク未入力)|
+|09/28|121|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[DAY120 / ALLIN77日目>>ここに配信URLを入力]]|(リンク未入力)|
+#table_sorter{even=#f7f7f7,odd=fff}
+//9月11日はタイトルは同じだがリンク違います。
+#endregion(９月)
+
+***2025年
+#region(3月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|03/01|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day199 / Day192 / ALLIN149日目>>https://www.twitch.tv/videos/2394209551]]||
+|03/02|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day193 / ALLIN150日目>>ここに配信URLを入https://www.twitch.tv/videos/2395127500]]||
+|03/05|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day194 / ALLIN151日目>>https://www.twitch.tv/videos/2397686533]]||
+|03/08|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day195 / ALLIN152日目>>https://www.twitch.tv/videos/2400290106]]||
+|03/11|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day196 / ALLIN153日目>>https://www.twitch.tv/videos/2402918596]]||
+|03/16|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day196 / ALLIN153日目>>https://www.twitch.tv/videos/2407225735]]|[[まい　にい]]脱退|
+|03/25|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day197 / ALLIN154日目??>>https://www.twitch.tv/videos/2414897056]]|ALLIN解散を知る|
+|03/26|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day198 / 半グレ:Re 1日目>>ここに配信URLを入力https://www.twitch.tv/videos/2415742674]]||
+#endregion(3月)
+#region(4月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|04/02|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day199 / 半グレ:Re 2日目>>https://https://www.twitch.tv/videos/2421903953]]|オフィス購入/メンバー確保|
+|04/03|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day199 / 半グレ:Re 3日目>>https://www.twitch.tv/videos/2422758247]]|開業許可/魔法少女・窓際☆間近|
+|04/04|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day201 / 半グレ:Re 4日目>>https://www.twitch.tv/videos/2423736406]]|占い|
+|04/05|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day202 / 半グレ:Re 5日目>>https://www.twitch.tv/videos/2424603721]]|レースの協賛/STGラジオ内のCM|
+|04/06|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day203 /  BJローン5日目>>]]|素材集め|
+|04/10|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day204 / BJローン6日目>> https://www.twitch.tv/videos/2429042634]]|[[ReBoot]]斡旋協力/債権買取・取り立て|
+|04/12|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day205 / BJローン7日目>>https://www.twitch.tv/videos/2430799537]]|オフィス完成/カジノ提携/トナカイ先輩の恋愛相談|
+|04/13|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day206 / BJローン8日目>>https://www.twitch.tv/videos/2431744865]]|裁判参考人/なのさん正式加入/となぴぴデート観察|
+|04/15|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day207 / BJローン9日目>>https://www.twitch.tv/videos/2433447183]]|占い|
+|04/17|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day208 / BJローン10日目>>https://www.twitch.tv/videos/2435168293]]|BJ協賛レース/うさぎさんのlive/愛人探し|
+|04/18|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day209 / BJローン11日目>>https://www.twitch.tv/videos/2436089424]]|スクラッチで5億円当てる|
+|04/19|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day210 / BJローン12日目>>https://www.twitch.tv/videos/2437086001]]|るるちゃんの宣材写真撮影/犬を飼う(?)|
+|04/20|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day211 / BJローン13日目>>https://www.twitch.tv/videos/2437911953]]||
+|04/22|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day212 / BJローン14日目>>https://www.twitch.tv/videos/2439593757]]||
+|04/24|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day213 / BJローン15日目>>https://www.twitch.tv/videos/2441323554]]||
+|04/25|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day214 / BJローン16日目>>https://www.twitch.tv/videos/2442166959]]||
+|04/26|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day215 / BJローン17日目>>https://www.twitch.tv/videos/2443113191]]||
+|04/29|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day216 / BJローン18日目>>https://www.twitch.tv/videos/2445756850]]||
+|04/30|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day217 / BJローン19日目>>https://www.twitch.tv/videos/2446540738]]||
+#endregion(4月)
+#region(5月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|05/01|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day218 / BJローン20日目>>https://www.twitch.tv/videos/2447459967]]||
+|05/02|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day219 / BJローン21日目>>https://www.twitch.tv/videos/2448279695]]|#1|
+|05/02|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day219 / BJローン21日目>>https://www.twitch.tv/videos/2448501957]]|#2|
+|05/02|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day219 / BJローン21日目>>https://www.twitch.tv/videos/2448503905]]|#3|
+|05/03|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day220 / BJローン22日目>>https://www.twitch.tv/videos/2449218726]]||
+|05/04|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day221 / BJローン23日目>>https://www.twitch.tv/videos/2450057031]]||
+|05/06|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day222 / BJローン24日目>>https://www.twitch.tv/videos/2451755100]]||
+|05/07|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day223 / BJローン25日目>>https://www.twitch.tv/videos/2452530567]]|Wデート|
+|05/08|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day224 / BJローン26日目>>https://www.twitch.tv/videos/2453431773]]||
+|05/09|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day225 / BJローン27日目>>https://www.twitch.tv/videos/2454244707]]||
+|05/10|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day226 / BJローン28日目>>https://www.twitch.tv/videos/2455161667]]||
+|05/11|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day227 / BJローン29日目>>https://www.twitch.tv/videos/2455161667]]||
+|05/13|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day228 / BJローン30日目>>https://www.twitch.tv/videos/2457658713]]||
+|05/14|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day229 / BJローン31日目>>https://www.twitch.tv/videos/2458500864]]||
+|05/15|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day230 / BJローン32日目>>https://www.twitch.tv/videos/2459356612]]||
+|05/16|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day231 / BJローン33日目>>https://www.twitch.tv/videos/2460176720]]||
+|05/17|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day232 / BJローン34日目>>https://www.twitch.tv/videos/2461113607]]||
+|05/20|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day233 / BJローン35日目>>https://www.twitch.tv/videos/2463668199]]|#1|
+|05/20|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day233 / BJローン35日目>>https://www.twitch.tv/videos/2463792702]]|#2|
+|05/21|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day234 / BJローン36日目>>https://www.twitch.tv/videos/2464519207]]||
+|05/22|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day235 / BJローン37日目>>https://www.twitch.tv/videos/2465367509]]||
+|05/23|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day236 / BJローン38日目>>https://www.twitch.tv/videos/2466353398]]||
+|05/24|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day237 / BJローン39日目>>https://www.twitch.tv/videos/2467142143]]||
+|05/25|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day238 / BJローン40日目>>https://www.twitch.tv/videos/2468028554]]||
+|05/26|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day239 / BJローン41日目>>https://www.twitch.tv/videos/2469749579]]||
+|05/27|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day240 / BJローン42日目>>https://www.twitch.tv/videos/2470623065]]|#1|
+|05/27|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day240 / BJローン42日目>>https://www.twitch.tv/videos/2470726675]]|#2|
+|05/29|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day241 / BJローン43日目>>https://www.twitch.tv/videos/2471539648]]||
+|05/31|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day242 / BJローン44日目>>https://www.twitch.tv/videos/2473347160]]||
+#endregion(5月)
+#region(6月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|06/01|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day243 / BJローン45日目>>https://www.twitch.tv/videos/2474272168]]||
+|06/03|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day244 / BJローン46日目>>https://www.twitch.tv/videos/2476025913]]||
+|06/04|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day245 / BJローン47日目>>https://www.twitch.tv/videos/2476868441]]||
+|06/05|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day246 / BJローン48日目>>https://www.twitch.tv/videos/2477777619]]||
+|06/07|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day247 / BJローン49日目>>https://www.twitch.tv/videos/2479497395]]||
+|06/08|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day248 / BJローン50日目>>https://www.twitch.tv/videos/2480452913]]||
+|06/10|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day249 / BJローン51日目>>https://www.twitch.tv/videos/2482206830]]||
+|06/11|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day250 / BJローン52日目>>https://www.twitch.tv/videos/2483011746]]||
+|06/12|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day251 / BJローン53日目>>https://www.twitch.tv/videos/2483959844]]||
+|06/13|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day252 / BJローン54日目>>https://www.twitch.tv/videos/2482206830]]||
+|06/14|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day253 / BJローン55日目>>https://www.twitch.tv/videos/2485770533]]||
+|06/15|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day254 / BJローン56日目>>https://www.twitch.tv/videos/2486699058]]||
+|06/17|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day255 / BJローン57日目>>https://www.twitch.tv/videos/2488385355]]||
+|06/18|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day256 / BJローン58日目>>https://www.twitch.tv/videos/2489279257]]||
+|06/19|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day257 / BJローン59日目>>https://www.twitch.tv/videos/2490178805]]||
+|06/20|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day258 / BJローン60日目>>https://www.twitch.tv/videos/2491076711]]||
+|06/22|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day259 / BJローン61日目>>https://www.twitch.tv/videos/2492906270]]||
+|06/24|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day260 / BJローン62日目>>https://www.twitch.tv/videos/2494615614]]||
+|06/25|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day261 / BJローン63日目>>https://www.twitch.tv/videos/2495465371]]||
+|06/26|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day262 / BJローン64日目>>https://www.twitch.tv/videos/2496389396]]||
+|06/27|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day263 / BJローン65日目>>https://www.twitch.tv/videos/2497290180]]||
+|06/28|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day264 / BJローン66日目>>https://www.twitch.tv/videos/2498175470]]||
+|06/29|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day265 / BJローン67日目>>https://www.twitch.tv/videos/2499107550]]||
+#endregion(6月)
+#region(7月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|07/01|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day266 / BJローン68日目>>https://www.twitch.tv/videos/2500824741]]||
+#endregion(7月)
+#region(8月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|08/01|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day289 / BJローン91日目>>https://www.twitch.tv/videos/2528144237]]||
+|08/03|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day290 / BJローン92日目>>https://www.twitch.tv/videos/2529998038]]||
+|08/05|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day291 / BJローン93日目>>https://www.twitch.tv/videos/2531772155]]||
+|08/06|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day292 / BJローン94日目>>https://www.twitch.tv/videos/2532611179]]||
+|08/07|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day293 / BJローン95日目>>https://www.twitch.tv/videos/2533510065]]||
+|08/08|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day294 / BJローン96日目>>https://www.twitch.tv/videos/2534494726]]||
+|08/09|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day295 / BJローン97日目>>https://www.twitch.tv/videos/2535312671?t=08h19m58s>]]|ow後起床|
+|08/10|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day296 / BJローン98日目>>https://www.twitch.tv/videos/2536274185?t=08h56m47s]]|ow後4分起床|
+|08/12|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day297 / BJローン99日目>>https://www.twitch.tv/videos/2538091695]]||
+|08/13|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day298 / BJローン100日目>>https://www.twitch.tv/videos/2538951764]]||
+|08/14|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day299 / BJローン101日目>>https://www.twitch.tv/videos/2539830818]]||
+|08/15|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day300 / BJローン102日目>>https://www.twitch.tv/videos/2540792732]]||
+|08/16|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day301 / BJローン103日目>>https://www.twitch.tv/videos/2541683210]]||
+|08/19|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day302 / BJローン104日目>>https://www.twitch.tv/videos/2544147546]]||
+|08/20|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day303 / BJローン105日目>>https://www.twitch.tv/videos/2545020283]]||
+|08/21|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day304 / BJローン106日目>>https://www.twitch.tv/videos/2545880737]]||
+|08/22|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day305 / BJローン107日目>>https://www.twitch.tv/videos/2546737878]]||
+|08/25|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day306 / BJローン108日目>>https://www.twitch.tv/videos/2548624332]]||
+|08/26|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day307 / BJローン109日目>>https://www.twitch.tv/videos/2550209655]]||
+|08/27|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day308 / BJローン110日目>>https://www.twitch.tv/videos/2551033355]]||
+|08/28|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day309 / BJローン111日目>>https://www.twitch.tv/videos/2552046615]]||
+|08/29|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day310 / BJローン112日目>>https://www.twitch.tv/videos/2552778983]]||
+#endregion(8月)
+#region(9月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|09/2|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day311 / BJローン113日目>>https://www.twitch.tv/videos/2556265682]]||
+|09/4|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day312 / BJローン114日目>>https://www.twitch.tv/videos/2557897745]]||
+|09/5|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day313 / BJローン115日目>>https://www.twitch.tv/videos/2558789780]]||
+|09/6|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day314 / BJローン116日目>>https://www.twitch.tv/videos/2559615258]]||
+|09/7|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day315 / BJローン117日目>>https://www.twitch.tv/videos/2560485220]]||
+|09/9|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day316 / BJローン118日目>>https://www.twitch.tv/videos/2562121742]]||
+|09/10|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day317 / BJローン119日目>>https://www.twitch.tv/videos/2562903720]]||
+|09/11|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day318 / BJローン120日目>>https://www.twitch.tv/videos/2563769172]]||
+|09/13|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day319 / BJローン121日目>>https://www.twitch.tv/videos/2565403909]]||
+|09/14|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day320 / BJローン122日目>>https://www.twitch.tv/videos/2566268644]]||
+|09/16|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day321 / BJローン123日目>>https://www.twitch.tv/videos/2567859665]]||
+|09/17|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day322 / BJローン124日目>>https://www.twitch.tv/videos/2568683484]]||
+|09/18|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day323 / BJローン125日目>>https://www.twitch.tv/videos/2569536874]]||
+|09/19|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day324 / BJローン126日目>>https://www.twitch.tv/videos/2570361360]]||
+|09/20|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day325 / BJローン127日目>>https://www.twitch.tv/videos/2571200473]]||
+|09/21|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[Day326 / BJローン128日目>>https://www.twitch.tv/videos/2571978655]]|season1終了|
+#endregion(9月)
+#region(12月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|12/19|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day1>>https://www.twitch.tv/videos/2647684794]]||
+|12/24|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day2>>https://www.twitch.tv/videos/2651853468]]||
+|12/25|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day3>>https://www.twitch.tv/videos/2652554020]]||
+|12/26|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day4>>https://www.twitch.tv/videos/2653284568]]||
+|12/27|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day5>>https://www.twitch.tv/videos/2654152021]]||
+|12/31|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day6>>https://www.twitch.tv/videos/2657511061]]||
+#endregion(12月)
+***2026年　season2
+#region(1月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|1/1|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day7>>https://www.twitch.tv/videos/2658304472]]||
+|1/2|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day8>>https://www.twitch.tv/videos/2659197760]]|ボスと再会|
+|1/3|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day9>>https://www.twitch.tv/videos/2659994470]]|新事業|
+|1/9|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day10>>https://www.twitch.tv/videos/2665258766]]||
+|1/10|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day11>>https://www.twitch.tv/videos/2666163647]]||
+|1/11|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day12>>https://www.twitch.tv/videos/2667124934]]||
+|1/14|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day13>>https://www.twitch.tv/videos/2669748313]]||
+|1/15|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day14>>https://www.twitch.tv/videos/2670657091]]||
+|1/17|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day15>>https://www.twitch.tv/videos/2672403100]]||
+|1/18|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day16>>https://www.twitch.tv/videos/2673360805]]||
+|1/21|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day17>>https://www.twitch.tv/videos/2676003318]]||
+|1/22|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day18>>https://www.twitch.tv/videos/2676895900]]||
+|1/23|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day19>>https://www.twitch.tv/videos/2677772149]]||
+|1/25|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day20>>https://www.twitch.tv/videos/2679755683]]||
+|1/28|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day21>>https://www.twitch.tv/videos/2682535903]]||
+|1/30|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day22>>https://www.twitch.tv/videos/2684247555]]||
+|1/31|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day23>>https://www.twitch.tv/videos/2685171028]]||
+#endregion(1月)
+#region(2月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|2/1|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day24>>https://www.twitch.tv/videos/2686173713]]||
+|2/|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day25>>]]||
+|2/|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day26>>]]||
+|2/|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day27>>]]||
+|2/|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day2>>]]||
+|2/|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day2>>]]||
+#endregion(2月)
+#region(3月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|3/27|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day46>>https://www.twitch.tv/videos/2733028897]]|不動産残業RP|
+|3/28|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day47>>https://www.twitch.tv/videos/2733808712]]|ローン取り立てシャッター前土下座|
+|3/29|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day48>>https://www.twitch.tv/videos/2734746741]]|不動産クレーム対応|
+#endregion(3月)
+#region(4月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|4/1|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day49>>https://www.twitch.tv/videos/2737157517]]|マンション横元ALLIN会議＆BJローンJob化|
+|4/2|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day50 その1>>https://www.twitch.tv/videos/2737984717]][[その2>>https://www.twitch.tv/videos/2738146576]]||
+|4/3|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day51>>https://www.twitch.tv/videos/2738883718]]||
+|4/4|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day52>>https://www.twitch.tv/videos/2739757723]]||
+|4/5|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day53>>https://www.twitch.tv/videos/2740525063]]|不働めい取り立てドッキリ＆UGM OPEN後のサウ汰と出会う|
+|4/10|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day54>>https://www.twitch.tv/videos/2744511883]]||
+|4/15|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day55>>https://www.twitch.tv/videos/2748615269]]||
+|4/19|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day56>>https://www.twitch.tv/videos/2751913075]]||
+|4/22|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day57>>https://www.twitch.tv/videos/2754268065]]|マイクに謎の女性？の声？検証回＆MBM修理会|
+|4/23|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day58>>https://www.twitch.tv/videos/2755081149]]|ブチ切れ渡戸リーさん|
+|4/24|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day59>>https://www.twitch.tv/videos/2755885466]]|旅行帰りのサウ汰と出会う、誕生日プレゼントを渡す|
+|4/25|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day60>>https://www.twitch.tv/videos/2756676872]]|ジャックスに変装して救急隊就任ドッキリ＆つばめさん占い|
+|4/26|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day61>>https://www.twitch.tv/videos/2757514742]]|大川さんツール持ち込み＆あうさん占い|
+|4/30|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day62>>https://www.twitch.tv/videos/2760646910]]|不動産×建築士会議|
+#endregion(4月)
+#region(5月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|5/1|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day63>>https://www.twitch.tv/videos/2761498716]]|しばらく西方面に行くサウ汰から電話＆裁判官補佐打診|
+|5/2|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day64>>https://www.twitch.tv/videos/2762331532]]|初物件差し押さえ＆魔女の酒場チル雑談|
+|5/7|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day65>>https://www.twitch.tv/videos/2766251384]]|Lanima 1stライブデート|
+|5/8|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day66>>https://www.twitch.tv/videos/2767035454]]|アウトくるーど逃走開始＆VERTEXイベント＆サニーケバブナポリタン転売事件＆市指定金融機関確認|
+|5/10|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day67>>https://www.twitch.tv/videos/2768675814]]|千代田トナカイプリズン送り＆アウトくるーど逃走最終日|
+|5/13|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day68>>https://www.twitch.tv/videos/2770923437]]|1日限定キャバクラ「スキャンダル」提携＆サニーケバブナポリタン転売事件裁判傍聴|
+|5/16|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day69>>https://www.twitch.tv/videos/2773409902]]|魔女の酒場雑談回|
+|5/17|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day70>>https://www.twitch.tv/videos/2774276514]]|丘猫まる応援キャンペーン＆高橋滅論不動産立ち合い＆ヤシャロアさん体験秘書|
+|5/23|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day71>>https://www.twitch.tv/videos/2778913991]]|ハクナツメさん含む4人でオイルリグバイト＆釣り雑談ｗみつー、とうか|
+|5/27|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day72>>https://www.twitch.tv/videos/2782083479]]|BJL先週の動き共有＆トナカイが千代田にしかけた雑な爆弾の話＆釣り＆魔女の酒場雑談|
+|5/28|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day73>>https://www.twitch.tv/videos/2782877022]]|釣りブームに言及する＆瞑想明けに知らない家＆トラブル続きのオイルリグバイトｗサウ汰、ヤシャロア、田中花江＆ぷぅちゃんBJローン利用|
+|5/29|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day74>>https://www.twitch.tv/videos/2783655614]]|5月不動産建築士会議＆ゆたんぽさんBJローン利用＆バイク購入|
+|5/31|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day75>>https://www.twitch.tv/videos/2785274055]]|BJローン共有＆ALLINクイズ＆オイルリグ、建築バイト＆魔女の酒場雑談|
+#endregion(5月)
+#region(6月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|6/3|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day76>>https://www.twitch.tv/videos/2787606329]]|ブロッコリー斎藤BJローン利用＆FOWK O'FON MUSIC LIVE Vol.4鑑賞＆ダイビングギア導入＆魔女の酒場雑談|
+|6/4|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day77>>https://www.twitch.tv/videos/2788389037]]|天草・チンピラの債権譲渡問題決着＆千代田からトナカイの禊について相談|
+|6/6|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day78>>https://www.twitch.tv/videos/2790065827]]|白市民パス発行手続き＆千代田からじょば貸付の件共有＆資金洗浄の話ｗとうか＆無線導入＆BJローンオイルリグバイトさぼり裁判|
+|6/10|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day79>>https://www.twitch.tv/videos/2793319996]]|ブロッコリー斎藤返済１回目＆不働めいBJローン利用＆わんも～Cafe雑談＆魔女の酒場雑談|
+|6/11|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day80>>https://www.twitch.tv/videos/2794046352]]|不動産対応＆本購入（4冊）＆わんも～cafeにてサウ汰のお悩み相談会|
+|6/12|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day81>>https://www.twitch.tv/videos/2794891268]]|不動産対応＆トナカイ釣果確認＆魔女の酒場雑談|
+|6/14|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day82>>https://www.twitch.tv/videos/2796452137]]|上田さん・揚物ころも結婚式＆建築バイト＆魔女の酒場雑談|
+|6/17|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day83>>https://www.twitch.tv/videos/2798789546]]|BJローン信託銀行開始＆日之ぱちおさん住宅ローン申込＆武器屋商談|
+|6/18|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day84>>https://www.twitch.tv/videos/2799587409]]|信託銀行営業・カード配布＆オーシャンLIVEチケット購入＆武器屋vsNOVA FAMILIA立ち合い＆飯田書店雑談＆魔女の酒場雑談|
+|6/19|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day85>>https://www.twitch.tv/videos/2800337736]]|BJ水産開始＆ぎちょう・じょばぁーなBJローン利用＆ここ数日の新規事業など社員に共有＆ヤシャロア入社検討|
+|6/20|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day86>>https://www.twitch.tv/videos/2801159474]]|べりはぴ2周年ライブ観覧＆安城へオフィスの鍵を渡す＆信託銀行初週経営状況報告＆不動産主催イベントチケット販売＆HOTEL VERTEX雑談＆魔女の酒場雑談|
+|6/21|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day87>>https://www.twitch.tv/videos/2801967402]]|仮白パス発行＆牧田ここなは白パスが取れない話＆BJローン黒事業相談＆チーズバーガーさんに釣り市場調査＆ヤシャロア試用社員加入|
+|6/24|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day88>>https://www.twitch.tv/videos/2804198701]]|海上LIVE観覧＆店舗開店融資商談＆ぎちょう・じょばぁーな1億5千万スロット|
+|6/25|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day89>>https://www.twitch.tv/videos/2804941586]]|BJマイカーローン開始＆ヤシャロア産業スパイ疑惑＆BJ水産稼働＆BJローン青空会議＆魔女の酒場雑談|
+|6/26|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day90>>https://www.twitch.tv/videos/2805759460]]|BJローン社員面談＆黒事業相談＠小峯さん＆BJ水産営業回り＆魔女の酒場雑談|
+|6/27|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day91>>https://www.twitch.tv/videos/2806575770]]|Wizardry Works主催LIVEスタッフ＆信託銀行2週目経営状況報告＆投資予定BARの物件探し|
+|6/28|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day92>>https://www.twitch.tv/videos/2807416510]]|ヤシャロア営業相談会＆BJ水産営業＆不動産営業＆3時瞑想1分前にサウ汰からのメッセージ|
+#endregion(6月)
+#region(7月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|7/1|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day93 その1>>https://www.twitch.tv/videos/2809649661]][[その2>>https://www.twitch.tv/videos/2809764890]]|BJローン業務共有＆[[パキち>パキ　ち]]にジョブと鍵譲渡＆[[くまぽこ>くま　ぽこ]]イメージモデル採用|
+|7/3|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day94>>https://www.twitch.tv/videos/2811188381]]|BJローン業務共有＆イベント用服作り＆[[堕夜だよ>堕夜　だよ]]BJローン利用＆[[牧上るる>なのの　なの]]BJローン復帰＆不動産業務＆酒場開店待ち雑談|
+|7/4|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day95>>https://www.twitch.tv/videos/2811977697]]|レースイベント Jump&Punk参加＆信託銀行3週目経営状況報告|
+|7/5|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day96>>https://www.twitch.tv/videos/2812733232]]|安城業務共有＆[[ウラシマタ・ロー>ケイン／オー]]さんと出会う＆[[餡ブレラ>餡ブレラ]]アジトにて[[上田さん>上田　さん]]に貸付業務＆[[飯田けんつ>飯田　けんつ]]オークションの話＆[[ヤシャロア>ヤシャ　ロア]]業務報告|
+|7/8|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day97>>https://www.twitch.tv/videos/2814973107]]|BJローン業務共有＆[[飯田>飯田　けんつ]]オークション鑑賞＆[[さとう>さとう]]開業資金相談＆[[ヤバッキオ>蒲田　ヤバッキオ]]開業資金相談＆[[山田カイキ>山田　カイキ]]ローン利用＆[[ハンバーガー>Mon　D]]8242番地購入相談＆[[うさぎさん>山田　パルコ]]([[UGM>Usa Gimmick Motors]])カーローン利用＆魔女酒雑談|
+|7/9|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day98>>https://www.twitch.tv/videos/2815762898]]|8242番地対応、[[月ノ島ごう>月ノ島　ごう]]雑談＆不動産対応＆[[ヤバッキオ>蒲田　ヤバッキオ]]投資相談続き＆[[ヤシャロア>ヤシャ　ロア]]アイドルライブ打ち合わせ＆[[バチ公>バチ　公]]お墓参り＆BREATING DOWN S鑑賞会＆魔女酒雑談|
+|7/10|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day99>>https://www.twitch.tv/videos/2816591233]]|[[天草蒼>天草　蒼]]の[[ギャング>SHIRAHA]]加入を聞く＆オオカミ合コン鑑賞＆[[ウェスカー>アルフォート　ウェスカー]]経由で[[高橋滅論>高橋　滅論]]へ貸付、即日返済＆[[ホシバミオ>ホシ・バミオ]]さんに初めまして営業＆[[猫ノ宮ひな>猫ノ宮　ひな]]不動産対応＆魔女酒滑り込み雑談|
+|7/11|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day100>>https://www.twitch.tv/videos/2817432614]]|ビアガーデンイベント参加＆[[脇逢魔>脇　逢魔]]経由で[[アルタスカイブルー>アルタ・スカイブルー]]への貸付相談（結果貸付せず）＆信託銀行4週目経営状況報告|
+|7/13|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day101>>https://www.twitch.tv/videos/2818288600]]|BJローン・千代田、トナカイ、安城、ちょき、ヤシャロアへここ数日の事業共有＆ネイルサロン[[Ailemu>Ailemu]]で[[あっちゃん>圧子]]に人参ネイルをしてもらう|
+|7/15|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day102>>https://www.twitch.tv/videos/2820568654]]|諸業務電話対応＆[[ハンバーガー>Mon　D]]8242番地購入相談＆千代田にサツマイモネイル＆春原、亀山Hero不動産対応＆魔女酒雑談|
+|7/16|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day103 その1>>https://www.twitch.tv/videos/2821350326]][[その2>>https://www.twitch.tv/videos/2821407538]]|Dr(ドラマー).ギガとして街に繰り出す＆水見式系統診断を行う＆BJ水産事業対応＆[[無馬さん>無馬　かな]]の動向を聞く＆レベルくじとバイト|
+|7/18|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day104>>https://www.twitch.tv/videos/2822963978]]|[[SECRET]]のライブにファン（すごろかく）として参加＆ファンの姿で不動産対応＆シーシャ屋の面接を受ける＆ガソスタオークション準備＆ヤシャロア正式採用通達＆信託銀行5週目経営状況報告|
+|7/22|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day105>>https://www.twitch.tv/videos/2826154853]]|[[王城リレイ>王城　リレイ]]さんカーローン対応＆千代田から犯罪報告＆ガソスタオークション参加＆[[さとう]]と[[妻垣さすらい>妻垣　さすらい]]の住宅ローン対応|
+|7/26|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day106>>https://www.twitch.tv/videos/2829464618]]|[[上田>上田　さん]]逃走中最終日＆不動産会議＆ガソスタ出荷バイト　※後半50分は別ゲームのアーカイブとなります|
+|7/30|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day107>>https://www.twitch.tv/videos/2832702468]]|[[大阪ボスナ>大阪　ボスナ]]カーローン対応＆サウ汰と夏の収穫祭　※後半2時間45分は別ゲームのアーカイブとなります|
+#endregion(7月)
+#region(8月,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~簡易エピソード|h
+|8/14|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストリヌ #5 復活のハリボテキリト ~最果ての地編~>>https://www.twitch.tv/videos/2845947188?t=03h50m11s]]|[[Vertex>V HOTEL]]の新しいスロットを打ちに行く&トナカイから最近のBJローンの共有を軽く受ける　※前半3時間50分は別ゲームのアーカイブとなります|
+|8/21|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day109>>https://www.twitch.tv/videos/2852314315]]||
+|8/22|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day110>>https://www.twitch.tv/videos/2853298990]]||
+|8/23|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day111>>https://www.twitch.tv/videos/2854284606]]||
+|8/26|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day112>>https://www.twitch.tv/videos/2856919754]]||
+|8/27|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day113>>https://www.twitch.tv/videos/2857829435]]||
+|8/28|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day114>>https://www.twitch.tv/videos/2858748992]]||
+|8/29|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[ストグラSeason2 Day115>>]]||
+#endregion(8月)
+//コピー用
+//|mm/dd|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[配信タイトル>>ここに配信URLを入力]]||
+
+
+//&font(#DA1725){&icon_fa(fa-brands fa-youtube)}
+
+
+*&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 切り抜き
+#table_style(head=center:#e6e6fa){#=center,配信タイトル=left}
+***2024年
+#region(開く)
+|投稿日|~配信タイトル|~備考|h
+|2024/02/19|[[初日で全財産をカジノに落とす男、三否定四五六確>>https://youtu.be/uYlN99hIf9Y?si=4bp8erIk94Smc15i]]||
+|2024/10/28|[[ALLIN専属ファーマーを辞退しようとするもUB3人と急遽面接をすることになる四五六確>>https://www.youtube.com/watch?v=t40RYhcVXyM]]||
+|2024/11/03|[[チェイス中の警察の質問に突如下○タで返し笑われる四五六確>>https://www.youtube.com/watch?v=Hl2LSzfjYl0]]||
+|2024/11/11|[[自主練中にALLINメンバーと偶然邂逅しまくる四五六確>>https://www.youtube.com/watch?v=VJJZWjtmgYA]]||
+|2024/12/09|[[ヘルアン先輩に変装しチルすぎる街中を走り回るヘノレアンこと四五六確ｗｗｗ>>https://www.youtube.com/watch?v=scwGeVBY1GY]]||
+|2024/12/11|[[止まらないヘノレアンこと四五六がついに先輩の彼女にまで濃厚接触するｗｗｗ>>https://www.youtube.com/watch?v=__74XW8zDNM]]||
+|2024/12/16|[[ALLINと恋愛の間で揺れていた謹慎中まいにいから報告を受ける四五六確>>https://www.youtube.com/watch?v=He2O_9lOs1U]]||
+|2024/12/23|[[誕生日プレゼント用のボイス収録現場がヤバすぎたｗｗ>>https://www.youtube.com/watch?v=rBU0pAYSx1M]]||
+#endregion
+
+***2025年
+#region(開く,open)閉じる
+#table_style(head=center:#e6e6fa){#=center,配信タイトル=left}
+|投稿日|~配信タイトル|~備考|h
+|2025/01/06|[[エスターク・Z・ダークネスを囲んだぶっちゃけ恋愛トークが面白すぎたｗｗ>>https://www.youtube.com/watch?v=fWu1I8ZvUk8]]||
+|2025/01/27|[[パシフィック銀行をめぐって餡ブレラと衝突する四五六確達>>https://www.youtube.com/watch?v=lqp8avWfEUY]]||
+|2025/04/13|[[衝撃のALLIN解散と、思いつきの新事業構想「BJローン」の始まり>>https://www.youtube.com/watch?v=AGjZRGCqqR0]]|BJローン編始動|
+|2025/04/14|[[どうしてもBJローンに安城先輩が欲しい！安城成大捜索編>>https://www.youtube.com/watch?v=JEm4sVxY62Q]]||
+|2025/04/17|[[創設メンバーと物件とかわいいワンコが決定！トントン拍子のBJローン！>>https://www.youtube.com/watch?v=uqLv8tY7k6s]]||
+|2025/05/01|[[BJローン開業をウェスカー市長に申請！公務員からの利用相談も！？>>https://youtu.be/HtKqVngDNwM?si=nMny3pZ-LmyFNBZT]]||
+|2025/05/03|[[連帯保証人になったエス先輩の末路！？人生の教材にもなるBJローン！>>https://youtu.be/FSEvXPAPTpM?si=0Z73Dv9ETzeGSqvC]]||
+|2025/05/15|[[後のロスサントスの大借金魔人がBJローンに忍び寄る！>>https://youtu.be/jAur9_LV_pk?si=2RBKJXfAJL2dEZ6d]]||
+|2025/06/04|[[ブラックジャックスの借金取り立てで救急隊阿鼻叫喚！！>>https://www.youtube.com/watch?v=a_w-DgPIYQU]]||
+|2025/07/01|[[ついにオフィス完成！＆警察内部で裁判沙汰！？>>https://www.youtube.com/watch?v=I_dQLQfoKZY]]||
+|2025/07/02|[[面白すぎｗｗ借金から始まった警察裁判！！>>https://www.youtube.com/watch?v=JhhPnKZZP1c]]||
+
+#endregion
+
+*&font(#915da3){&icon_fa(fa fa-twitch)} ストグラジオ
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|投稿日|~配信タイトル|~備考|h
+|2025/05/28|[[#ストグラジオ ゲスト:梟雄しろや,ラムチョ>>https://www.twitch.tv/videos/2470520427]]|with千代田ヨウ|
+|2025/11/19|[[#ストグラジオ ゲスト：天唄サウ、梟雄しろや>>https://www.twitch.tv/videos/2622415815]]|with星唄サウ汰|
+|2026/03/05|[[#ストグラジオ ゲスト:梟雄しろや、馬人>>https://www.twitch.tv/videos/2714299698]]|withジャック馬ウアー|
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,272 @@
+*プロフィール
+//3:4画像
+#slide_img(auto=5,position=center,width=390,height=520){夜仲コウ_TOP画01.jpg,夜仲コウ_TOP画02.jpg,夜仲コウ_TOP画03.jpeg,夜仲コウ_TOP画04.jpeg}
+
+//ここからプロフィール
+#table_color(head=#bb262d:#fff)
+|~名前|~&icon_fa(fa fa-user)|&bold(){&ruby(よなか){夜仲}　コウ}|
+|~出身地|~&icon_fa(fa fa-location-dot)|-|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|-&Co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2026年03月19日 (&countup(2026/03/18,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|書店【[[飯田書店]]】&small(){従業員 (2026/06/14~)}&br()&small(){&openclose2(show=過去の職業 ▼){&br()メカニック【[[LUNA Garage]]】&small(){体験 (2026/03/20~03/22)} &br()飲食店【[[サニーケバブ]]】&small(){従業員 (2026/03/26～06/14)}&br()}} |
+|~所属|~&icon_fa(fa fa-users)|ギャング【[[hantasma]]】&small(){構成員 '26/8/21~&br()}&small(){&openclose2(show=▼過去の所属){&br()ギャング【[[hantasma]]】体験 '26/8/7~8/21}}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@yonaka|
+|~レーサー名|~&icon_fa(fa fa-car)|-|
+|~電話番号|~&icon_fa(fa fa-phone)||
+|BGCOLOR(#F47A4D):~&font(#FFF){プレイヤー}|BGCOLOR(#F47A4D):~&font(#FFF){&icon_fa(fa fa-address-card-o fa-fw)}|&ruby(まひる){陽向}コウ(RIONECTION)|
+|BGCOLOR(#F47A4D):~&font(#FFF){告知等}|BGCOLOR(#F47A4D):~&font(#FFF){&icon_fa(fa fa-bullhorn)}|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/MahiruKou]]|
+|BGCOLOR(#F47A4D):~&font(#FFF){配信場所}|BGCOLOR(#F47A4D):~&font(#FFF){&icon_fa(fa fa-gamepad)}|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@mahirukou]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/mahirukou]]|
+|BGCOLOR(#F47A4D):~&font(#FFF){アーカイブ}|BGCOLOR(#F47A4D):~&font(#FFF){&icon_fa(fa fa-video-camera fa-fw)}|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@mahirukou]] &small(){※メンバーシップ限定}|
+|BGCOLOR(#F47A4D):~&font(#FFF){ハッシュタグ}|BGCOLOR(#F47A4D):~&font(#FFF){&icon_fa(fa fa-crow)}| &small(){総合タグ} #まひる間&br()&small(){FAタグ(全年齢向け)} #コウピクチャ |
+|BGCOLOR(#F47A4D):~&font(#FFF){ガイドライン}|BGCOLOR(#F47A4D):~&font(#FFF){&icon_fa(fa fa-info-circle)}|[[タグやお約束>>https://lit.link/Mahirukou]]|
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+・ノリと勢いで身一つで街に引っ越してきた。
+・しっかりしたお姉さんっぽいと言われることが多い。
+・やや不憫属性持ち。
+・第一住民は[[天草　蒼]]
+・前の街で人を殺してしまい、逃亡生活をしていたらしい。
+
+&small(){〜情報募集中〜}
+
+*関係人物
+//
+****&size(130%){&bgcolor(#F42D4D){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)▷飯田書店}}&nbsp(40)}}
+#region(開く)
+#table_style(head=center:#F47A4D:#fff)
+|~キャラクター名|~詳細|
+|&bold(){&b(){&font(15,#666){[[飯田　けんつ]]}&space(2)}}|&bold(){&b(){[[飯田書店]]}の店長。}|
+|&bold(){&b(){&font(15,#666){[[大川>大　川]]}&space(2)}}|&bold(){&b(){[[飯田書店]]}のスタッフ。カメラマン。}|
+#endregion
+//
+****&size(130%){&bgcolor(#F42D4D){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)▷サニーケバブ}}&nbsp(40)}}
+#region(開く)
+#table_style(head=center:#F47A4D:#fff)
+|~キャラクター名|~詳細|
+|&bold(){&b(){&font(15,#666){[[柚乃　いずみ]]}&space(2)}}|&bold(){&b(){[[サニーケバブ]]}の店長。}|
+|&bold(){&b(){&font(15,#666){[[揚物　ころも]]}&space(2)}}|&bold(){&b(){[[サニーケバブ]]}の副店長。……だったが、転売騒動を起こしクビに。}|
+|&bold(){&b(){&font(15,#666){[[タラ　ちゃん]]}&space(2)}}|&bold(){&b(){[[サニーケバブ]]}の店員。&b(){[[サニーケバブ]]}で不祥事が発生した時に、&br()店長を支えている頼りになる先輩。}|
+|&bold(){&b(){&font(15,#666){[[ジュリウス・ベッキー]]}&space(2)}}|&bold(){&b(){[[サニーケバブ]]}の店員。&b(){体験に行った[[ルナガレ>>LUNA Garage]]}でも同僚。}|
+
+#endregion
+//
+****&size(130%){&bgcolor(#F42D4D){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)▷友人}}&nbsp(46)}}
+#region(開く)
+#table_style(head=center:#F42D4D:#fff)
+|~キャラクター名|~詳細|
+|&bold(){&b(){&font(15,#666){[[ボクジュール　すずり]]}&space(2)}}|&bold(){&b(){初日に[[acqua ovest]]で出会った同期。トラックボール筋の使い手で運転が苦手。&br()モーニングコールを掛け合う仲の1人。}}|
+|&bold(){&b(){&font(15,#666){[[沖原　たくみ]]}&space(2)}}|&bold(){&b(){仲良くなった元[[ルナガレージ>>LUNA Garage]]社員の男子。モーニングコールを掛け合う仲の1人。&br()2人で長時間お出かけしたり暇電することもある。}}|
+|&bold(){&b(){&font(15,#666){[[くま　ぽこ]]}&space(2)}}|&bold(){&b(){モーニングコールを掛け合う仲の1人。}}|
+|&bold(){&b(){&font(15,#666){[[テクス・ギルベルト]]}&space(2)}}|&bold(){&b(){一緒にチェイス練習をしたり犯罪をする友達。 }}|
+|&bold(){&b(){&font(15,#666){[[カミジョウ　レン]]}&space(2)}}|&bold(){&b(){飯田書店の店員仲間で、半グレ。[[hantasma]]への加入を目指しているらしい。}}|
+#endregion
+//
+****&size(130%){&bgcolor(#F42D4D){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)▷黒市民}}&nbsp(46)}}
+#region(開く)
+#table_style(head=center:#F42D4D:#fff)
+|~キャラクター名|~詳細|
+|&bold(){&b(){&font(15,#666){[[小峯 れい>小峯　玲]]}&space(2)}}|&bold(){&b(){「黒い仕事に興味があれば面倒を見てあげる」と言われ、実際に初犯罪から犯罪指南をしてもらっている。}}|
+|&bold(){&b(){&font(15,#666){[[ティエリ・ブッシュ>ヤブ下　安理]]}&space(2)}}|&bold(){&b(){武器屋さんの代表。クリス・リエンという名前も使っておりどちらでも呼んでもいいらしい。&br()武器屋さんの従業員には、[[不二子　キャスパー]]さんと、[[柳瀬　つん]]（ザウルス）さんがいる。}}|
+|&bold(){&b(){&font(15,#666){[[加藤 圧>加藤　圧]]}&space(2)}}|&bold(){&b(){薬屋さんの代表。お茶目オジサン。}}|
+|&bold(){&b(){&font(15,#666){[[AB>ティキーチック　のすけ]]}&space(2)}}|&bold(){&b(){闇医者の方。手続きの際に利用説明をしてくれた人。}}|
+#endregion
+
+-夜仲コウ視点で知り得ている情報のみの記載お願いします。（情報大募集中！）
+
+*エピソード
+**2026年
+#region(3月の出来事)&bold(){3月の出来事}
+-&bold(){3/19} 街にやってくる。
+#endregion(3月)
+
+#region(4月の出来事)&bold(){4月の出来事}
+-&bold(){4/dd} エピソード募集中
+#endregion(4月)
+
+#region(5月の出来事)&bold(){5月の出来事}
+-&bold(){5/dd} エピソード募集中
+#endregion(5月)
+
+#region(6月の出来事)&bold(){6月の出来事}
+-&bold(){6/06} 飯田書店で体験開始
+-&bold(){6/14} 書店の正社員雇用が決まる
+-&bold(){6/14} サニーケバブを退職する
+#endregion(6月)
+
+#region(7月の出来事)&bold(){7月の出来事}
+-&bold(){7/03} 初犯罪、初逮捕
+-&bold(){7/05} [[武器屋>FEMME FATALE]]を紹介してもらう
+-&bold(){7/10} [[闇医者]]、[[薬屋>DEP]]を紹介してもう
+#endregion(7月)
+
+#region(8月の出来事)&bold(){8月の出来事}
+-&bold(){8/22} [[hantasma]]に加入
+#endregion(8月)
+
+&font(b,#bb262d){〜エピソード大募集中！〜}
+&font(b,#F47A4D,10px){過去エピソード追記なども是非お願いします！&br()主要エピソードがわかる日、一行だけの記載からでも助かります！&br()編集・追記どなたでもお気軽にどうぞ！！}
+
+//
+#co{↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(dd日)
+
+#endregion(mm月)
+
+↑ここまで}
+
+*切り抜き動画
+#size(90%){&font(#DA1725){&icon_fa(fa fa-youtube-play)} ストグラ関連動画 プレイリスト「[[ストグラ切り抜き>>https://youtube.com/playlist?list=PLRdjywI-1PK0RYPCo8IcbJxwSQMObuOPC&si=n3Dvc-reAba4xTFw]]」}
+
+#areaedit
+#table_style(head=center:#F47A4D:#fff){配信日=right,アーカイブ=center}
+|~投稿日|~&font(##fff){&icon_fa(fa fa-youtube-play)} 動画タイトル|h
+|05/03|[[ついに街初日！初対面からほんのり危ない香りがありつつ街を知る>>https://youtu.be/THdrCAq484U?si=gYlccEJaQO5rqdOo]] |
+|05/06|[[泥酔チンチロをしてたら3ギャングの会話に遭遇してしまう二日目>>https://youtu.be/sMpR1XrQKG8?si=opwMO4b4M3FSHnF8]] |
+|05/16|[[溶鉱炉しゃぶしゃぶ?? ノリがよすぎる銀行強盗>>https://youtu.be/KFgivTaKvpY?si=wF95-JxvnUDqUFTK]] |
+|05/17|[[副店長初めて見たのにクビ！？サニーケバブ転売事件当日>>https://youtu.be/tYcpSg4Eua4?si=EmYuMXvDk-PeQ3gD]] |
+|05/24|[[転売事件の禊 店に立ち続けた8時間>>https://youtu.be/rHyibvw4sYM?si=cEkeyJEx02Bct6qa]] |
+|06/21|[[犯罪者への道を相談する>>https://youtu.be/-ZZerTJqPL4?si=uX001g-dfdjkDhoo]] |
+|06/22|[[白が黒を殴る!? 黒市民の詰めを見学する>>https://youtu.be/U6w6-yW7-vI?si=YKBLB7EgPCEsRo63]] |
+|07/07 |[[ついに黒堕ち！初逮捕の日>>https://youtu.be/SQgl1DTl7YY?si=LVyGvTX8RL8m82nC]] |
+//|M/DD|[[Title>>URL]] |
+#areaedit(end)
+
+
+*アーカイブ
+#size(90%){&font(#6441A4){&icon_fa(fa fa-twitch)} Twitchの配信アーカイブは一定期間経過後に視聴できなくなります。&br() &font(#DA1725){&icon_fa(fa fa-youtube-play)} 配信アーカイブはメンバーシップ限定です。プレイリスト「[[ストグラ>>https://youtube.com/playlist?list=PLRdjywI-1PK0uxEMGo8WQn7wC4XhXHRVc&si=dTF9up1vSvB2rVBe]]」}
+//
+**2026年
+#region(開く,open)
+
+#region(3月)3月
+#areaedit
+#table_style(head=center:#F47A4D:#fff){配信日=right,アーカイブ=center}
+|~配信日|~&font(##fff){&icon_fa(fa fa-youtube-play)} YouTube|h
+|03/19|[[初めまして、夜仲コウです DAY1>>https://www.youtube.com/live/8wUZSY__XVU?si=JccDxXVBqYGklD9x]]|
+|03/20|[[Day2 メカニック体験と街ぶら>>https://www.youtube.com/live/tR49koL8RuM?si=1Mx30FZqT2yrd0MH]]|
+|03/21|[[Day3 街のことを知りたい>>https://www.youtube.com/live/bE-9vmZv3y4?si=tSagwIiPVmFK0ZQ1]]|
+|03/22|[[Day4 車買って街の散策が順調！>>https://www.youtube.com/live/GrlLqDfKwc4?si=PGjVuHmqvlT2ww2p]]|
+|03/25|[[Day5 街の人を知りたい>>https://www.youtube.com/live/nE09vQobHV4?si=AjCtCZJ2TrQuQDQG]]|
+|03/26|[[Day6 定職に就きたい>>https://www.youtube.com/live/nbltVJalOWE?si=VJ_bWfYeMH8XMVrU]]|
+|03/27|[[Day7 遅起き！ >>https://www.youtube.com/live/VWBB4DdtslE?si=I7NLAQk6UgBCsmin]]|
+|03/28|[[Day8 職に就く>>https://www.youtube.com/live/RITkynUdXY4?si=z7UvuVtX4C4eebBT]]|
+|03/29|[[Day9 遅めの街起き！>>https://www.youtube.com/live/4GjIpXaURhU?si=M4vJmLbpiXf1egP_]]|
+#areaedit(end)
+#endregion
+
+#region(4月)4月
+#areaedit
+#table_style(head=center:#F47A4D:#fff){配信日=right,アーカイブ=center}
+|~配信日|~&font(##fff){&icon_fa(fa fa-youtube-play)} YouTube|h
+|04/01|[[Day10 お店に立つ！運転したい！>>https://www.youtube.com/live/J09hh8XOuWM?si=ARRCl6LeZ25IqgQq]]|
+|04/02|[[Day11 黒が多い店舗らしい(?) >>https://www.youtube.com/live/aU4d1EqIvNc?si=QRHUsl9L_5sZX1Bu]]|
+|04/03|[[(Day12 タイトルなし)>>https://www.youtube.com/live/2UXNMFp9k34?si=kVYBWNJfyQb4esRe]]|
+|04/04|[[Day13 ST練習 >>https://www.youtube.com/live/gksEXQRWNFA?si=Ra37yTQXx384OYgr]]|
+|04/05|[[Day14 🔰卒業の日かも？>>https://www.youtube.com/live/iCTGjp4m0EE?si=vyA5mzZcQFN5jzLQ]]|
+|04/08|[[Day15 🔰外れた次の日-夜仲コウ>>https://www.youtube.com/live/OmYMeVLIUms?si=G06JVTzZ5ro_ln9e]]|
+|04/09|[[Day16 にんげんかんさつ！>>https://www.youtube.com/live/f6ToL7xup4c?si=wo_UAEy1exiOjTRx]]|
+|04/10|[[Day17 街の人をよくみてみよう！>>https://www.youtube.com/live/Hwhsun-Nf_o?si=NARzzl2evwGrOzLS]]|
+|04/11|[[Day18 チンチロイベント！ >>https://www.youtube.com/live/PikKOjv8D4k?si=vANXqT-ryBOJwWAX]]|
+|04/12|[[Day19 よなかさんの一日 >>https://www.youtube.com/live/i5aXbrjLZXs?si=4ndh3M3g2f7wep4-]]|
+|04/15|[[Day20 よなかさんの一日>>https://www.youtube.com/live/nCREzhC2PeE?si=pUQpbQmg-nK_WWvr]]|
+|04/16|[[Day21 よなかさんの一日 >>https://www.youtube.com/live/iniS-v6lFro?si=Tz0NWVzeqhCSgpZI]]|
+|04/19|[[Day23 よなかさんの一日>>https://www.youtube.com/live/3NdivOrL9Zc?si=t1r-sRK3-cj-MsFm]]|
+|04/22|[[Day24 よなかさんの一日>>https://www.youtube.com/live/C8OSNgwIYs0?si=kBd89Eo4bsKFjIo5]]|
+|04/23|[[Day25 よなかさんの一日>>https://www.youtube.com/live/xoe4M67sjY4?si=VKMYbrp1_vgupX88]]|
+|04/24|[[Day26 よなかさんの一日>>https://www.youtube.com/live/6_vaiIIz5c0?si=xXFFLg7aJjV-rclh]]|
+|04/25|[[Day27 よなかさんの一日>>https://www.youtube.com/live/BOkEBdtzQHs?si=qf5AT1EGzLJGAO1F]]|
+|04/26|[[Day28 よなかさんの一日>>https://www.youtube.com/live/K8Fd5racbWI?si=ECx1EKyfSowFHPeo]]|
+|04/29|[[Day29 よなかさんの一日>>https://www.youtube.com/live/In1HL5AHKRs?si=pgBI43TG-SyY-YKk]]|
+|04/30|[[Day30 よなかさんの一日>>https://www.youtube.com/live/YVeLQQF1nEc?si=p23agPdf0rvpgbJx]]|
+#areaedit(end)
+#endregion
+
+#region(5月)5月
+#areaedit
+#table_style(head=center:#F47A4D:#fff){配信日=right, Twitch=center}
+|~配信日|~&font(##fff){&icon_fa(fa fa-youtube-play)} YouTube|~&font(##fff){&icon_fa(fa fa-twitch)} Twitch|h
+|05/09|[[Day37 よなかさんの一日 -夜仲コウ>>https://www.youtube.com/live/m0HN0X6-Mko?si=iMl1fmZ8I1JpHTcj]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/mahirukou/v/2767810107]] |
+|05/10|[[Day38 よなかさんの一日 -夜仲コウ>>https://www.youtube.com/live/N0NamBZ6gOs?si=JCrEVUSpqtlTsqbC]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/mahirukou/v/2768594591]] |
+|05/13|[[Day39 よなかさんの一日 -夜仲コウ>>https://www.youtube.com/live/afALh3K0Izc?si=1SzGhcMRS9tLj4Ar]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/mahirukou/v/2770870727]] |
+|05/14|[[Day40 よなかさんの一日 -夜仲コウ>>https://www.youtube.com/live/Jv1aK7DkYE8?si=0eOR_KdyOW_DP56t]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/mahirukou/v/2771761609]] |
+|05/15|[[Day41 よなかさんの一日 -夜仲コウ>>https://www.youtube.com/live/ymGe77NSXA0?si=V0tHEbr9OtI3A0Z5]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/mahirukou/v/2772578063]]  |
+|05/16|[[Day42 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/ZUDlKZX9F2U?si=VHsiwLDmcVWgHjX-]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/mahirukou/v/2773322519]] |
+|05/17|[[Day43 よなかさんの一日 - 夜仲コウ(2-1)>>https://www.youtube.com/live/J4glhJG-OaU?si=npCdK23uWc4QrZM5]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+||[[Day43 よなかさんの一日 - 夜仲コウ(2-2)>>https://www.youtube.com/live/00gT5AHQ2ns?si=3jkjpkjAj_lo45M_]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|05/20|[[Day44 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/OmEb2V8qo7Q?si=RybxZ0fYAivgiGd_]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|05/21|[[Day45よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/1VBfU6b1H7Y?si=nItrJCDXkrwFf5RX]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|05/22|[[Day46よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/cdQVmRG_IGY?si=G_iHB-o_uRFfqM51]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|05/23|[[Day47よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/GrlHJyrxO40?si=fu2fzInjXC2ez3TN]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|05/24|[[Day48よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/JrPlA4nvt2U?si=OjyA2WnfslD_2BOg]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|05/27|[[Day49よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/6IcnO1FbBrw?si=E3qwEvEBxucotEEd]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|05/28|[[Day50よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/W7rYNanTXyo?si=EUOE9vl-uDIZxRmY]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|05/29|[[Day51よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/8uDbqixLMFA?si=RH5eBe0mRybf36bJ]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|05/30|[[Day52よなかさんの一日 - 夜仲コウ(2-1)>>https://www.youtube.com/live/rIhqqv3_dR0?si=34w2wjlFAueHNl4n]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+||[[Day52よなかさんの一日 - 夜仲コウ(2-2)>>https://www.youtube.com/live/YGrwKMcrTZ4?si=c8-WBUdSacSBt-Nr]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|05/31|[[Day53よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/W8Vb0tGBunE?si=xmBZzay62va3SMwl]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+#areaedit(end)
+#endregion
+
+#region(6月)6月
+#areaedit
+#table_style(head=center:#F47A4D:#fff){配信日=right, Twitch=center}
+|~配信日|~&font(##fff){&icon_fa(fa fa-youtube-play)} YouTube|~&font(##fff){&icon_fa(fa fa-twitch)} Twitch|h
+|6/03|[[Day54よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/Hzou66zQ_R8?si=oEfCwcZcofrUhFFl]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|6/04|[[Day55よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/nW6EbO9Ufkw?si=WQXO9ZRHgkxT8LGw]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|6/05|[[Day56よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/mmnzOJBa7z0?si=pp30Q5Bc-K-X4GB-]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|6/06|[[Day57よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/3OFVaiC78Gc?si=SJUAFzB9RbqwU_is]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|6/07|[[Day58よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/ju8JIFAH8ps?si=xzVswnq-5icSKZrU]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|6/10|[[Day59よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/HNuq3EfErls?si=oXQs8l9mwB5wU9eS]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|6/11|[[Day60よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/ok8o-7SXlFk?si=wrdGLpTPbXUt19hd]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|6/12|[[Day61よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/nRTvjTQnwlw?si=al9CL-jS9oPsKsL1]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|6/13|[[Day62よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/fwBYfwpbds0?si=X6SQeGXRl_1QKjBN]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2795752955]] |
+|6/14|[[Day63よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/dJTku9YfA2w?si=wf9pYNCW4kAFeaXJ]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2796444123]] |
+|6/18|[[Day64 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/irQaF5kmMTM?si=Xcs-ZGSsSHRz3o5l]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2799599414]] |
+|6/19|[[Day65 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/zBhxKNKZs1U?si=KCGK52ePVcQQ9LkW]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2800370879]] |
+|6/20|[[Day66 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/tHRLUcLSpPM?si=IbF7zim-JZfw-CcY]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+|6/24|[[Day67 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/oigy68qVd3o?si=XJFk9qymLMcwUxts]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>]] |
+|6/28|[[Day68 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/O8nqF90SMp0?si=6mkLvf_JpBCCeSs6]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]] |
+#areaedit(end)
+#endregion
+
+#region(7月)7月
+#areaedit
+#table_style(head=center:#F47A4D:#fff){配信日=right,アーカイブ=center}
+|~配信日|~&font(##fff){&icon_fa(fa fa-youtube-play)} YouTube|~&font(##fff){&icon_fa(fa fa-twitch)} Twitch|h
+|7/01|[[Day69 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/qrdbtQq01rQ?si=V4ZmUTJJUyGdb9hp]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]]|
+|7/02|[[Day70 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/8SfXlBcpRug?si=m4T-7qgA6Z7Zy-qG]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]]|
+|7/03|[[Day71 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/DrXjW9n-IRY?si=ySFRgxjfvgOGHuZB]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]]|
+|7/04|[[Day72 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/buMlaHMNXIQ?si=r4mFtV4fr4sZWdQI]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]]|
+|7/05|[[Day73 よなかさんの一日 - 夜仲コウ>>https://www.youtube.com/live/Mq5TXauomjE?si=spOD6sEEO1xA18zw]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]]|
+//|7/DD|[[Title>>URL]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]]|
+//|7/DD|[[Title>>URL]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]]|
+#areaedit(end)
+#endregion
+
+#co{☀️テンプレ
+
+#region(●月,open)●月
+#areaedit
+#table_style(head=center:#F47A4D:#fff){配信日=right,アーカイブ=center}
+|~配信日|~&font(##fff){&icon_fa(fa fa-youtube-play)} YouTube|~&font(##fff){&icon_fa(fa fa-twitch)} Twitch|h
+//|M/DD|[[Title>>URL]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]]|
+//|M/DD|[[Title>>URL]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]]|
+//|M/DD|[[Title>>URL]]|[[&font(##fff){&icon_fa(fa fa-twitch)}>>URL]]|
+#areaedit(end)
+#endregion
+
+ここまで☝️テンプレ}
+
+#endregion(2026)
+
+#right(){&link_up(🔝ページTOPへ)}

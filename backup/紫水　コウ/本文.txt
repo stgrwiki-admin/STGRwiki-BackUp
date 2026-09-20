@@ -1,0 +1,600 @@
+*&font(25px,#dda0dd){プ}&font(25px,#e6e6fa){ロフィール &icon_fa(fa fa-user-circle)}
+
+#slide_img(auto=3,width=300,height=400){紫水コウ_new hairstyle.png,240423 紫水コウ.png,紫水あまにい２.png,紫水夏服２.png}
+
+//画像は必要に応じて削除・変更してください。
+
+#table_style(head=#483D8B:#FFF){名前=#6A5ACD:#FFF:b:center}
+|~名前|~&icon_fa(fa fa-user fa-fw)|&ruby(しすい){紫水}　&ruby(こう){コウ}|
+|~出身地|~&icon_fa(fa fa-map-marker fa-fw)|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake fa-fw)|1995年3月12日  (&countup(1995/3/12,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival fa-fw)|2024年04月23日 (&countup(2024/04/23,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|&s()&bold(){ギャング[[868]]メンバー}&small(){2024/05/15～}&br()&s()海上レストラン[[Urashima]]店員&small(){2024/05/15～} &br()&openclose2(show=過去の体験){&br()ホットドッグ屋&small(){2024/04/23～5/16}&br()メカニック[[9055]]体験&small()　{2024/05/01〜05/03}&br()メカニック[[JTS>ジョアンナテクノサービス]]体験 &small() {2024/05/04}&br()メカニック[[PYC]]体験 &small(){2024/05/07〜05/09}} |
+|~TwiX|~&icon_fa(fa fa-user-tag)|@cisicou|
+|~レーサー名|~&icon_fa(fas fa-car)|コウ|
+|~ペット|~&icon_fa(fa-solid fa-dog)|ニワトリ：コッコー|
+|プレイヤー|BGCOLOR(#6A5ACD):COLOR(#FFF):~&icon_fa(fa fa-address-card-o fa-fw)|ふらんしすこ (Crazy Raccoon)|
+|告知等|BGCOLOR(#6A5ACD):COLOR(#FFF):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/franciscooo_t]]|
+|配信場所|BGCOLOR(#6A5ACD):COLOR(#FFF):~&icon_fa(fas fa-gamepad)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/franciscoow]]|
+|動画投稿|BGCOLOR(#6A5ACD):COLOR(#FFF):~&icon_fa(fa fa-video-camera)|&font(#c9243a){&icon_fa(fa fa-youtube-play)}[[&font(#c9243a){Youtube}>>https://www.youtube.com/@Francisco_T]]|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+&font(b,24px){｢ちゃんと悩んでください？選択は間違えないように｣}
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=1)
+#endregion
+
+*&font(25px,#dda0dd){基}&font(25px,#e6e6fa){本情報 &icon_fa(fa fa-address-book-o)}
+#div(width=330px,bgcolor=#dda0dd){&font(16px,b, #483d8b){&space()&icon_fa(fa fa-file-text-o)&space()基本情報}}
+-[[100年後>https://w.atwiki.jp/streamergta5/pages/118.html#100nengo]]の世界から来たらしい。
+-スポーツカーやクラシックスポーツカーに興味があるようだ。
+-目標は友達100人作ること。達成後も増える連絡先を楽しみにしている。
+-2024/5/15　[[レダー>レダー　ヨージロー]]、[[ケイン／オー]]、[[フェアリー　トピオ]]、[[芹　沢]]、[[牢王　蓮]]による正式な勧誘と加入の儀を受け、ギャング[[868]]へ加入。
+-同日、体験の時の雰囲気が気に入ったため、[[海上レストラン>Urashima]]に就職。
+-社交性を生かした情報集めが得意。868の仲間候補を探すための情報共有も行う。
+-[[クッキー戦隊>ジョシュア・マーキル/クッキー戦隊]]のパープルを担当している。
+
+#region(入居直後について)閉じる
+-見た目や服装から、よく黒市民と勘違いされていた。
+-2日目にして[[らびすぴ]]主催の運動会にて参加したチームが優勝するという幸先の良さを見せる。
+-初めて出会った[[ギャングのボス>アルフォート　ウェスカー]]にスライディングするような振る舞いを見せる。
+-メカニックで働いている人たちが好きで、どこのメカニックで働くか迷っていた。
+-[[レダー　ヨージロー]]に誘われ、コンビニ強盗で犯罪デビュー。
+
+#endregion
+
+#div(width=330px,bgcolor=#dda0dd){&font(16px,b, #483d8b){&space()&icon_fa(fa fa-heart-o)&space()性格}}
+-ファームが好き。リサセンで籠るよりはゴミ箱漁りでウロウロしたい派。
+-ヒモになれるならなりたい。
+-白市民との交流を好み、街のイベントなどにも積極的に顔を出すなど人懐こく温和な性格。その一方で「（ギャングとして）ナメられたら殺す」と発言することも。
+-くだけた敬語で喋ることが多い。
+-初対面でもすぐ独自の呼び方・あだ名をつけて相手との距離を詰めるタイプ。
+-軽薄な印象を持たれがちだが、所属組織の情報の扱い方には気を使っている。
+-そのため、仲間候補の半グレにも自分の所属を隠したまま情報を抜く場面が多々あり、必要なこととはいえ後ろめたさと気まずさに苛まれることもしばしば。
+
+*&font(25px,#dda0dd){交}&font(25px,#e6e6fa){友関係&icon_fa(fa-solid fa-users)}
+#table_style(head=center:#E6E6FA)	
+**&font(25px,#FFB6C1){&icon_fa(fa-solid fa-people-group)} 仲間
+#region(交友関係)交友関係
+#table_style(head=center:#FFB6C1:#696969)
+#table_filter(){愛称=hide,説明=show}
+|~名前|愛称|説明|h
+|[[レダー　ヨージロー]]|ヨーちゃん|868のボスかつホットドッグ屋。&br()白市民時代に初接触。彼を黒の道に導いた張本人。&br()紫水が白から黒に移行する過程で銃を売ってくれたり、コンビニ強盗とフリーカ銀行強盗を教えてくれた。&br()傭兵として何度も誘われ、真っ向から『ギャングとして囲う』ことまで宣言された。&br()彼の最終的な判断によりトピオら5人で868会議室へ紫水を&s(){拉致}招待、正式に紫水をギャングへ勧誘し、868加盟の契機となった。&br()紫水が長期睡眠している間に隣町に帰ってしまっていた。|
+|[[フェアリー　トピオ]]||868の先輩。&br()白市民時代に初接触。素直で純真。&br()黒になった段階で飛行機墜落とブースティングについて教わる。&br()その後、[[芹沢>芹　沢]]と3人で初めてのパレト銀行に挑戦。加入日が近く同期と見なされることが多い。|
+|[[ケイン／オー]]|オーくん|868のボス。&br()白市民時代に初接触。ファーマー同士でブースティング仲間。&br()犯罪含め様々な868についてのことをレクチャーしてくれた。&br()街中のいたるところに所有物件を持つ。|
+|[[芹　沢]]||868のボス。&br()傭兵として初接触。とてつもない戦闘能力を誇る。&br()また、傭兵としてパレト挑戦前、情報の行き違いにより加入前の紫水に868のギャング名と自分たちがその構成員であることをピークさせてしまった。|
+|[[音鳴　ミックス]]||868のボス。&br()傭兵として初接触。頼れる射撃精度と行動力を持つムードメーカー。&br() 紫水を「シスコウ」と呼ぶ。空き巣協会の会長。|
+|[[牢王　蓮]]||868のボス。&br()傭兵として初接触。的確な発言と機転の速さを持つ。&br()たまたま彼の久々の起床日と重なったため実は868への加入日は同じ。|
+|[[刃弐　ランド]]||868のボス。&br()868加入翌日に初接触。第一声「知らない人いない？誰っすか？」&br()撃ち合いもチェイスも強いオールラウンダー。以前、[[けんつさん>飯田　けんつ]]が高級車Dを辞める前にトラクスを購入したく、&br()必死にバイトを探していたところ、何も聞かずに1億貸してくれた漢らしい人。|
+|[[成瀬　夕コ]]||868のボス。&br()まだ会ったことはない。|
+|[[ジョシュア・マーキル]]|マーくん|868のはじめての後輩。&br()クールで慎重で性格と顔の良い半グレだった。今まで紫水が一緒に走った中で車の運転が一番上手い。&br()紫水の推薦がきっかけで868との縁が繋がり加入に至った。コウくんマーくんと呼び合う仲。|
+|[[J　D]]|JDくん|868の後輩。&br()マーくんと仲が良く、紫水含めた3人のおはようLINEがある。&br()落ち着いたトーンの大人の男性。紫水を兄貴と呼んで慕ってくれるが、何でもできて勝てるところがない。&br()半年ぶりに目覚めた時から何故か周りから不仲説が囁かれるくらいJDに対する態度が悪くなっている。|
+|[[轟　ばーど]]||868の後輩。寝ている間に加入していた。&br()乗り物全般の運転が得意なイケおじ。&br()10か月間別の街に行っており、帰ってきてホットドッグ屋さんをしていたところケインと音鳴とジョシュアに出会い加入したらしい。|
+|[[鯵屋>魚参　屋]]||868の後輩。寝ている間に加入していた。紫水のおかげで868に入ったらしい。&br()白市民との交流を大事にしていたり、過去にJTSと9055を体験していたことがあるなど紫水と似ているところが多い。&br()初心者時代にケインと音鳴とジョシュアと出会い、黒の稼ぎ方を教えてもらう為に目の前でマークを外したらしい。|
+|[[ルナ　ホークアイ>月渚　雪人]]||868の後輩。寝ている間に加入したことを共有メッセージで知る。&br()以前に花摘みのバイトで取引したことがある。ビッグマウス。愛すべきバカ。&br()868の自由なところと、3人の占い師に視てもらった結果入ると良い事があると言われた事をきっかけに加入を決めたらしい。|
+#table_autoincrement(){label=No.}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+//|[[名前>リンク]]|愛称|説明|←コピーして使ってね[[ページ名またはURL]]
+#endregion(仲間)
+**&font(25px,#4c6cb3){&icon_fa(fas fa-user)} 白市民
+#region(交友関係)交友関係
+#table_style(head=center:#87CEEB:#FFFFFF)
+#table_filter(){愛称=hide,説明=show}
+|~名前|愛称|説明|h
+|[[小此木　ナカバ]]|ナカ兄|第一村人。おすすめのアプリやアプリの入れ方、簡単にお金を稼ぐことが出来るダウジングについて、教えてくれた。&br()話が合う人。|
+|[[パキ　ち]]|パキ姉|[[免許センター>斎藤Driving School]]で免許を取る際にお世話になった人。普通自動車免許講習と併せて、初心者研修をしてもらった。&br()スポーツカーを買ったら隣に乗せる　という約束を交わした。|
+|[[須藤　冬馬]]||[[9055]]メカニックの社員でレース仲間。&br()半グレ時代に黒専用のレースを教えてもらった。|
+|[[葛城　司]]||[[9055]]メカニックの社員でレース仲間。初めてのレース時助手席から色々教えてくれた。&br()よく女性にフラれる人らしい。|
+|[[ねずみさん>えぐち　きの子]]|ねず先輩|[[JTS]]の社員。&br()一緒に卓球大会に出た際にお揃いのねずみ衣装を作っている。クラフト友達で3時以降などよく一緒にクラフトをしている。|
+|[[パン　チャン]]||868協力者。最初の拠点を貸してもらう。&br()9055とPYC、黒になるの３つで迷っていたときに相談に乗ってもらう。|
+|[[無馬　かな]]|無馬さん|[[カジノ]]のオーナー。&br()PYC体験中に大金持ちと気づいてから、養子にとってもらおうした。|
+|[[レッサン　パンナ]]|レッサン|海上レストランを紹介してくれた。初めて警察に捕まった後にはすぐ電話がかかってきた。|
+|[[安倍　霊明]]|霊明殿|初検挙された警察官。チェイスが上手でいつかリベンジしたいと思っている。&br()ノリ良く丁寧に対応してくれてから推している1番好きな警察官。霊明の口癖「あなや」を気に入りよく真似している。|
+|[[花沢　まるん]]|まるるん|お気に入りの警察官の一人。「まるるん」「コウコウ」と呼び合う仲。よく歪み対応をお願いしたりする。|
+|[[渡戸　リー]]|リーさん|初日に出会った住人。今ではおはようおやすみ電話をする仲に。いつか一緒にホストをやろうと誘っているが毎回断られている。|
+|[[飯田　けんつ]]|けんつの兄貴|[[9055]]から闇落ちし、ギャング[[TOPGEAR]]のボスとなり、ALLINとの諍いの禊で白市民に戻った。&br()[[9055]]体験の際にお世話になったこともあり、黒落ちした際の犯罪の手引きをした。&br()ALLINとの抗争により、白市民に戻る事や借金など身の上話をしてくれた。その際、868を嗅ぎまわっている白市民がいることを教えてくれた。|
+
+#table_autoincrement(){label=No.}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+//|[[名前>リンク]]|愛称|説明|←コピーして使ってね[[ページ名またはURL]]
+#endregion(白市民)
+**&font(25px,#4F455C){&icon_fa(fa fa-user-secret)} 黒市民
+#region(交友関係)交友関係
+#table_style(head=center:#696969:#FFFFFF)
+#table_filter(){愛称=hide,ギャング=hide,説明=show}
+|~名前|愛称|ギャング|説明|h
+|[[月ノ島　ごう]]|ごうさん|[[ALLIN]]|素材屋。集めた素材の売り先。100年後とこの街の違いを教わる。&br()運動会の時に車を快く貸してくれた親切なお兄さん。|
+|[[天草　蒼]]|あま兄|半グレ|天草のファッションセンスに惹かれ、一緒にお揃いのコーディネートを作りにデパートに行った明るいお兄さん。|
+|[[マイゴ・ニ＝ナリエル]]|ナリエルさん|個人医|ダウジング用の探知機を目指して北に向かっていた時にたまたまコンビニで出会い色々教えてくれた親切な人。&br()|
+|[[小峯　玲]]|小峯さん|半グレ|パキちさんとの教習中に立ち寄った、コンビニ兼ガソリンスタンドでコンビニ強盗をしていた人。挨拶をしただけ。|
+
+
+#table_autoincrement(){label=No.}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+//|[[名前>リンク]]|愛称|説明|←コピーして使ってね[[ページ名またはURL]]
+#endregion(黒市民)
+
+*&font(25px,#dda0dd){服}&font(25px,#e6e6fa){装一覧&icon_fa(fa fa-shopping-bag)}
+#div(width=330px,bgcolor=#dda0dd){&font(16px,b,#fff){&space()Season1}}
+//&font(16px,b,u,black){Season1}
+//#region(開く)
+※衣類髪型アプデにより崩壊中
+髪型変更は受け入れたため短髪になりました。
+***&font(25px,#6A5ACD){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)
+#center(){
+|&blankimg(紫水BIG.png,x=120,y=200)|&blankimg(紫水あまにい.png,x=120,y=200)|&blankimg(紫水夏服.png,x=120,y=200)|&blankimg(服１.png,x=120,y=200)|&blankimg(NEWkawa.png,x=120,y=200)|
+|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):BIG|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):あまにい|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):夏服|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):服１|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):NEWkawa|}
+#endregion()
+//
+***&font(25px,#FFBFCB){&icon_fa(fa fa-user-secret)} ギャング服
+#region(開く)
+#center(){
+|&blankimg(868大型冬服.png,x=120,y=200)|&blankimg(紫水シマトリ.png,x=106,y=200)&blankimg(紫水シマトリ_Back.png,x=100,y=200)|&blankimg(868スーツ.png,x=100,y=200)|&blankimg(紫水大型夏服.png,x=120,y=200)|
+|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):yaroya|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):島取り4|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):868スーツ|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):868夏服|}
+#endregion
+//
+***&font(25px,#6A5ACD){&icon_fa(fa fa-person-circle-question)} 変装
+#region(開く)
+#center(){
+|&blankimg(犯罪.png,x=100,y=200)|&blankimg(犯罪２.png,x=100,y=200)|&blankimg(犯罪３.png,x=120,y=200)|&blankimg(空き巣.png,x=90,y=200)|&blankimg(心無き.png,x=100,y=200)|&blankimg(軍事.png,x=120,y=200)|&blankimg(クッキーパープル.png,x=120,y=200)|&blankimg(あまにい２.png,x=120,y=200)|
+|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):犯罪|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):犯罪2|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):犯罪3|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):空き巣|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):心無き|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):軍事|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):クッキーパープル|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):あまにい２|}
+#endregion()
+//
+***&font(25px,#6A5ACD){&icon_fa(fa fa-user-plus)} その他
+#region(開く)
+#center(){
+|&blankimg(紫水らびすぴ.png,x=120,y=200)|&blankimg(紫水海上.png,x=100,y=200)|&blankimg(紫水９０５５.png,x=120,y=200)|&blankimg(紫水ねず先輩.png,x=120,y=200)|&blankimg(紫水JTS.png,x=100,y=200)|&blankimg(紫水PYC.png,x=100,y=200)|&blankimg(紫水PYC2.png,x=120,y=200)|
+|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):らびすぴ|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):海上|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):9055|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):ねず先輩|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):JTS|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):PYC|CENTER:BGCOLOR(#dda0dd):COLOR(#483d8b):PYC2|}
+#endregion
+//#endregion(S1)
+
+//#div(width=330px,bgcolor=#dda0dd){&font(16px,b,#fff){&space()Season2}}or &font(16px,b,u,black){Season2}
+*&font(25px,#dda0dd){所}&font(25px,#e6e6fa){有車両&icon_fa(fa-solid fa-car)}
+#div(width=330px,bgcolor=#dda0dd){&font(16px,b,#fff){&space()Season1}}
+//or &font(16px,b,u,black){Season1}
+#region(所有車両)&bold(){所有車両}
+#table_filter(){入手日=hide,メーカー=hide,車両名=show,レース車両登録=show,分類=hide,説明=show}
+#table_style(head=center:#483d8b:#FFFFFF)
+|~入手日|~メーカー|~車両名|~レース登録|~分類|~説明|
+|2024/04/23|BF|[[Club>>https://w.atwiki.jp/gtav/pages/2602.html]]|★|Compacts|初めてこの街に来た日に小此木ナカバから買ってもらった車。|
+|2024/04/25|Nagasaki|[[Shinobi Outlaw>リンク先URL]]|★||自分のお金で初めて買ったバイク|
+|2024/05/01|Declasse|[[Draugur>https://w.atwiki.jp/gtav/pages/2843.html]]|★||9055の体験中、上田社長にプレゼントされた車。|
+|2024/05/01|Progen02|[[Itali GTO>https://w.atwiki.jp/gtav/pages/2433.html]]|★||S帯のレースに出るために購入した車。|
+|2024/05/04|Bravado|[[Rumpo Custom>https://w.atwiki.jp/gtav/pages/1630.html]]|||購入できるようになって帰ってきたファーム車。|
+|2024/05/07|Grotti|[[Turismo R>https://w.atwiki.jp/gtav/pages/975.html]]|★||100年後の世界での愛車。|
+|2024/05/09|Enus|[[Paragon R>https://w.atwiki.jp/gtav/pages/2479.html]]|★||Turismo Rがレースで使いにくいと感じたため、購入。|
+|2024/05/12|Nagasaki|[[Blazer>https://w.atwiki.jp/gtav/pages/475.html]]|||跳ぶのが面白く、値段も安かったため購入。|
+|2024/05/23|Bravado|[[Rumpo Custom>https://w.atwiki.jp/gtav/pages/1630.html]]|||マトリに遭いインパウンドされたため2台目購入。|
+|2024/05/29|Truffade|[[Thrax>https://w.atwiki.jp/gtav/pages/2475.html]]|||念願の購入。|
+|2024/06/06|Vapid|[[Speedo Express]]|||豆やんからうちの平井さんから買うてな！と推されていた積載1000の車。|
+|2024/07/07|Dinka|[[Jester RR Drift>https://w.atwiki.jp/gtav/pages/2694.html]]|||ねずみさんにプレゼントしてもらった。|
+|2024/12/28|Maibatsu|[[MonstroCiti>https://w.atwiki.jp/gtav/?cmd=word&word=%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B7%E3%83%86%E3%82%A3&pageid=3028]]||Off-road|豆やんからもらった車。|
+|2025/04/19|Übermacht|[[Niobe>https://w.atwiki.jp/gtav/?cmd=word&word=%E3%83%8A%E3%82%A4%E3%82%AA%E3%83%93&pageid=3117]]||Sports|ねずみさんから誕生日＆街に来て1周年記念でプレゼントしてもらった車。|
+|2025/04/20|Dewbauchee|[[Rapid GT>https://w.atwiki.jp/gtav/pages/285.html]]||Sports|豆やんから誕生日＆街に来て1周年記念でプレゼントしてもらった車。|
+//|入手日20XX/XX/XX|メーカー|[[正式名称>リンク先URL]]|車両分類|説明、一言|←コピーして使ってね
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#table_autoincrement(){label=No.}
+#endregion
+
+#region(所有ヘリコプター)&bold(){所有ヘリコプター}
+#table_filter(){取得日=hide,車両ID=hide,航空機名=show,会社名=hide,備考=show}
+#table_style(head=center:#483d8b:#FFFFFF){名前=left,#=center,取得日=right}
+|~取得日|~車両ID|~航空機名|~会社名|~備考|h
+|2025/01/05|BHWZ3116|Frogger（紫水へ　byレダーヨージロー。）|Maibatsu|[[レダー>レダー　ヨージロー]]から預かった[[トピオ>フェアリー　トピオ]]から贈与された|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion
+
+//#div(width=330px,bgcolor=#dda0dd){&font(16px,b,#fff){&space()Season2}}
+//&font(16px,b,u,black){Season2}
+//
+//----------------------------------------------------------------------
+*&font(25px,#dda0dd){エ}&font(25px,#e6e6fa){ピソード&icon_fa(fa fa-book)}
+#div(width=330px,bgcolor=#dda0dd){&font(16px,b,#fff){&space()Season1}}
+***2024年
+#region(開く)
+#include(紫水　コウ/エピソード1)
+#include(紫水　コウ/エピソード2)
+#include(紫水　コウ/エピソード3)
+#endregion(2024年)
+***2025年
+#region(開く,open)
+#include(紫水　コウ/エピソード4)
+#endregion(2025年)
+//
+//#div(width=330px,bgcolor=#dda0dd){&font(16px,b,#fff){&space()Season2}}
+//#include(紫水　コウ/エピソード5)←S2起床後ページを作る
+----
+&size(12){エピソードページリンク｜[[EP1>>紫水　コウ/エピソード1]],[[EP2>>紫水　コウ/エピソード2]],[[EP3>>紫水　コウ/エピソード3]],[[EP4>>紫水　コウ/エピソード4]]}
+//
+//エピソードのサイトを分けたため、編集する際はエピソードページリンクから飛んでください。
+//2024年　4,5月→EP1、6月→EP2、7,8,12月→EP3
+//2025年　1,2,3,4月→EP4
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)閉じる
+・エピソード募集中
+#endregion
+#endregion(mm月)
+
+}
+*&font(25px,#dda0dd){ア}&font(25px,#e6e6fa){ーカイブ&icon_fa(fa-brands fa-twitch)}
+#div(width=330px,bgcolor=#dda0dd){&font(16px,b,#fff){&space()Season1}}
+※ダイジェストほぼ消失、1, 2, 3, 16日目のみ残存
+&font(16px,b,u,black){2024年}
+#region(開く)&b(){閉じる}
+***4月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|04/23|1|[[【1日目】初めまして🔰紫水コウっす>>https://www.twitch.tv/videos/2127369580]]|&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト&br()[[1-1>>https://www.twitch.tv/videos/2129089021]]/[[1-2>>https://www.twitch.tv/videos/2129089230]]/[[1-3>>https://www.twitch.tv/videos/2129092760]]|自動車&レーサー免許取得&br()初日にして所持金が1000万円を超える|
+|04/24|2|[[【2日目】新人レーサー🔰紫水コウっす>>https://www.twitch.tv/videos/2128228139]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2129093981]]|運動会参加&br()優勝賞金で愛車をフルカス|
+|04/25|3|[[【3日目】頑張ってバイト始めるぞ🔰紫水コウっす>>https://www.twitch.tv/videos/2129088918]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2129712423]]|海上レストランでバイト|
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+***5月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|05/01|4|[[【4日目】久しぶりの起床です🔰紫水コウっす>>https://www.Twitch.tv/videos/2134360960]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2135777408]]|9055メカニックで体験|
+|05/02|5|[[【5日目】メカニック体験やりつつレース(？)🔰紫水コウっす>>https://www.twitch.tv/videos/2135232786]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2135778889]]|9055メカニックで体験|
+|05/03|6|[[【6日目】9055最終日だ；；🔰紫水コウっす>>https://www.twitch.tv/videos/2136563458]]|&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト&br()[[1-1>>https://www.twitch.tv/videos/2136563197]]/[[1-2>>https://www.twitch.tv/videos/2136563458]]|9055メカニックで体験|
+|05/04|7|[[【7日目】ニートに出戻り🔰紫水コウっす>>https://www.twitch.tv/videos/2137913004]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2137913004]]|JTSで体験|
+|05/05|8|[[【8日目】🔰マーク外れたぞおおお 紫水コウっす>>https://www.twitch.tv/videos/2139195740]]|&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト&br()[[1>>https://www.twitch.tv/videos/2139195740]]/[[2>>https://www.twitch.tv/videos/2139196366]]/[[3>>https://www.twitch.tv/videos/2139196657]]/[[4>>https://www.twitch.tv/videos/2139197049]]/[[5>>https://www.twitch.tv/videos/2139197416]]/[[6>>https://www.twitch.tv/videos/2139197870]]|PYCで体験することを約束|
+|05/07|9|[[【9日目】PYC寝坊マ？ 紫水コウっす>>https://www.twitch.tv/videos/2140371053]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2140371053]]|PYC体験1日目|
+|05/08|10|[[【10日目】PYC体験 今日は車買ったるぞ 紫水コウっす>>https://www.twitch.tv/videos/2141272672]]|&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト&br()[[1>>https://www.twitch.tv/videos/2141271978]]/[[2>>https://www.twitch.tv/videos/2141272331]]/[[3>>https://www.twitch.tv/videos/2141272672]]|PYC体験2日目|
+|05/09|11|[[【11日目】そろそろ街探検か？ 紫水コウっす>>https://www.twitch.tv/videos/2141191508]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2143613628]]|PYC体験3日目|
+|05/10|12|[[【12日目】ニートか分岐点か 紫水コウっす>>https://www.twitch.tv/videos/2142029624]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2143613928]]|初犯罪|
+|05/11|13|[[【13日目】コンビニ王目指すか 紫水コウっす>>https://www.twitch.tv/videos/2142941048]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2143614163]]|けんつの兄貴、レッサンとリサセン|
+|05/12|13.5|[[【13.5日目】一旦チルか。 紫水コウっす>>https://www.twitch.tv/videos/2143217556]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2143614350]]|半ぐれになったことをパンチャンに報告。|
+|05/13|14|[[【14日目】やるか。 紫水コウっす>>https://www.twitch.tv/videos/2143783177]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2146225477]]|飛行機墜落とパレト銀行に挑戦。|
+|05/14|15|[[【15日目】おはようです🌞 紫水コウっす>>https://www.twitch.tv/videos/2145387901]]|&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト&br()[[1>>https://www.twitch.tv/videos/2146225574]]/[[2>>https://www.twitch.tv/videos/2146225655]]|初のお花摘み、ボブキャット。|
+|05/15|16|[[【16日目】東西南北東西南北 紫水コウっす>>https://www.twitch.tv/videos/2146236149]]|&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト&br()[[1>>https://www.twitch.tv/videos/2147092278]]/[[2>>https://www.twitch.tv/videos/2147092367]]|4つの大型に挑戦。868加入、海上レストラン就職。|
+|05/16|17|[[【17日目】初ギャングとして 紫水コウっす>>https://www.twitch.tv/videos/2147092364]]|&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト&br()[[1>>https://www.twitch.tv/videos/2148565828]]/[[2>>https://www.twitch.tv/videos/2148566045]]|ギャング初日。|
+|05/17|18|[[【18日目】薬ねりねりチャンネル 紫水コウっす>>https://www.twitch.tv/videos/2147861925]]|&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト&br()[[1>>https://www.twitch.tv/videos/2148566263]]/[[2>>https://www.twitch.tv/videos/2148566473]]|初めてのシマ取り、空き巣。|
+|05/18|19|[[【19日目】今日はライブだなぁ！？ 紫水コウっす>>https://www.twitch.tv/videos/2148731194]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2149228863]]||
+|05/19|20|[[【20日目】おはｙ 紫水コウっす(1枠目)>>https://www.twitch.tv/videos/2149641792]], [[(2枠目)>>https://www.twitch.tv/videos/2149760743]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト 1>>https://www.twitch.tv/videos/2150011294]]/[[2>>https://www.twitch.tv/videos/2150011547]]||
+|05/21|21|[[【21日目】短めかもです 紫水コウっす(1枠目)>>https://www.twitch.tv/videos/2151596260]], [[(2枠目)>>https://www.twitch.tv/videos/2151464268]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト 1>>https://www.twitch.tv/videos/2152049009]]/[[2>>https://www.twitch.tv/videos/2152049146]]||
+|05/22|22|[[【22日目】島取りに海上レストラン 紫水コウっす>>https://www.twitch.tv/videos/2152157448]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2152966125]]||
+|05/23|23|[[【23日目】早寝早起きかもです 紫水コウっす>>https://www.twitch.tv/videos/2153000378]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2153904981]]||
+|05/24|24|[[【24日目】島に薬に色々 紫水コウっす(1枠目)>>https://www.twitch.tv/videos/2153841707]], [[(2枠目)>>https://www.twitch.tv/videos/2154090636]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト 1>>https://www.twitch.tv/videos/2154303498]]/[[2>>https://www.twitch.tv/videos/2154303930]]||
+|05/26|25|[[【25日目】今日はなにするか>>https://www.twitch.tv/videos/2155655040]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2157828316]]||
+|05/28|26|[[【26日目】今日はなにするか(1枠目)>>https://www.twitch.tv/videos/2157371129]], [[(2枠目)>>https://www.twitch.tv/videos/2157374347]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト2>>https://www.twitch.tv/videos/2157828901]]||
+|05/29|27|[[【27日目】ぎり帰宅か>>https://www.twitch.tv/videos/2158256881]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2160664990]]||
+|05/30|28|[[【28日目】今日は少し早起き>>https://www.twitch.tv/videos/2159016476]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2160665817]]||
+|05/31|29|[[【29日目】島で過ごす(1枠目)>>https://www.twitch.tv/videos/2159861016]], [[(2枠目)>>https://www.twitch.tv/videos/2159895397]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト 1>>https://www.twitch.tv/videos/2160666014]]/[[2>>https://www.twitch.tv/videos/2160666164]]||
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+***6月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|06/01|30|[[【30日目】裁判ですか・・・>>https://www.twitch.tv/videos/2160743600]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2162425887]]||
+|06/02|31|[[【31日目】この街に来て1か月だあああ>>https://www.twitch.tv/videos/2161674384]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2162425976]]||
+|06/04|32|[[【32日目】おはようです>>https://www.twitch.tv/videos/2163261291]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2169903783]]||
+|06/05|33|[[【33日目】準備しなきゃ>>https://www.twitch.tv/videos/2164133467]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2169904002]]||
+|06/06|34|[[【34日目】短時間かもです>>https://www.twitch.tv/videos/2164998414]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2169904167]]||
+|06/07|35|[[【35日目】おそようか？>>https://www.twitch.tv/videos/2165834684]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2169904313]]||
+|06/11|36|[[【36日目】久しぶりな気もする>>https://www.twitch.tv/videos/2169194384]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2169905568]]||
+|06/12|37|[[【37日目】島と薬と>>https://www.twitch.tv/videos/2170102812]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2173463585]]||
+|06/13|38|[[【38日目】練りチャンかもです>>https://www.twitch.tv/videos/2170955854]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2173463708]]||
+|06/16|39|[[【39日目】おきたあああ>>https://www.twitch.tv/videos/2173462852]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2174273855]]||
+|06/18|40|[[【40日目】低気圧すごめか？>>https://www.twitch.tv/videos/2175059696]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2177659560]]||
+|06/19|41|[[【41日目】島まもるよなぁ！？(1枠目)>>https://www.twitch.tv/videos/2175995440]], [[(2枠目)>>https://www.twitch.tv/videos/2176013867]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト1>>https://www.twitch.tv/videos/2177659625]]/[[2>>https://www.twitch.tv/videos/2177659702]]||
+|06/20|42|[[【42日目】雑談多めかもです>>https://www.twitch.tv/videos/2176763419]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2177659794]]||
+|06/21|43|[[【43日目】久しぶりに交流したいよね>>https://www.twitch.tv/videos/2177625909]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2178596355]]||
+|06/22|44|[[【44日目】今日も早め 夜はコラボだ>>https://www.twitch.tv/videos/2178533190]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2180456820]]||
+|06/23|45|[[【45日目】おはようです>>https://www.twitch.tv/videos/2179458361]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2180457249]]||
+|06/25|46|[[【46日目】早寝早起きです(1枠目)>>https://www.twitch.tv/videos/2181167179]], [[(2枠目)>>https://www.twitch.tv/videos/2181168452]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2183905906]]||
+|06/26|47|[[【47日目】おはようです(1枠目)>>https://www.twitch.tv/videos/2182034609]], [[(2枠目)>>https://www.twitch.tv/videos/2182036603]], [[(3枠目)>>https://www.twitch.tv/videos/2182039532]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2183906088]]||
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+***7月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|07/07|48|[[【48日目】久しぶりの起床？>>https://www.twitch.tv/videos/2191374402]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2192283761]]||
+|07/10|49|[[【49日目】島とり？(1枠目)>>https://www.twitch.tv/videos/2194006181]], [[(2枠目)>>https://www.twitch.tv/videos/2194203647]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト1>>https://www.twitch.tv/videos/2196749516]]/[[2>>https://www.twitch.tv/videos/2196749729]]||
+|07/11|50|[[【50日目】おそようではある。>>https://www.twitch.tv/videos/2194875519]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2196749911]]||
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+***8月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|08/15|51|[[【51日目】おはようだね？>>https://www.twitch.tv/videos/2224835952]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2231871986]]||
+|08/18|52|[[【52日目】街ぶらday(1枠目)>>https://www.twitch.tv/videos/2227402350]], [[(2枠目)>>https://www.twitch.tv/videos/2227471499]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト1>>https://www.twitch.tv/videos/2231872399]]/[[2>>https://www.twitch.tv/videos/2231872597]]||
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+***12月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|12/17|53|[[【52日目】おはようなんだけど覚えてるか・・・？(1枠目)>>https://www.twitch.tv/videos/2328981667]], [[(2枠目)>>https://www.twitch.tv/videos/2328994620]], [[(3枠目)>>https://www.twitch.tv/videos/2329149121]], [[(4枠目)>>https://www.twitch.tv/videos/2329158989]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト1>>https://www.twitch.tv/videos/2334005123]]/[[2>>https://www.twitch.tv/videos/2334005217]]/[[4>>https://www.twitch.tv/videos/2334005327]]|※53日目|
+|12/18|54|[[【53日目】お散歩多めかもです>>https://www.twitch.tv/videos/2329814451]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2334005421]]|※54日目|
+|12/28|55|[[【54日目】おはよ～珍時>>https://www.twitch.tv/videos/2338069593]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2343161195]]|※55日目|
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#endregion(2024年)
+//
+&font(16px,b,u,black){2025年}
+#region(開く)&b(){閉じる}
+***1月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|01/05|56|[[【55日目】あけおめじゃない？>>https://www.twitch.tv/videos/2345085778]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2349017665]]|※56日目|
+|01/07|57|[[【56日目】紫水散歩？>>https://www.twitch.tv/videos/2346712487]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2349017914]]|※57日目|
+|01/25|58|[[チル>>https://www.twitch.tv/videos/2363055167?t=01h04m42s]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2366610338?t=01h04m43s]]|前半別枠。1:04:42～|
+|01/26|59|[[20時ぐらいまで【58日目】>>https://www.twitch.tv/videos/2364004713]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2366610492]]|※59日目|
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+***2月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|02/01|60|[[🥱🥱🥱【59日目】>>https://www.twitch.tv/videos/2369404839]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2371810387]]|※60日目|
+|02/06|61|[[６０日目だ【60日目】>>https://www.twitch.tv/videos/2373884951]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ダイジェスト>>https://www.twitch.tv/videos/2378530784]]|※61日目|
+|02/25|62|[[ぽ【61日目】>>https://www.twitch.tv/videos/2390762205]]||※62日目|
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+***3月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|03/18|63|[[短時間起床【62日目】>>https://www.twitch.tv/videos/2408839523]]||※63日目|
+***4月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~ダイジェスト|~備考|h
+|04/02|64|[[起床です【63日目】>>https://www.twitch.tv/videos/2421881484]]||※64日目|
+|04/19|65|[[ぽはよ【64日目】>>https://www.twitch.tv/videos/2436966664]]||※65日目|
+|04/20|66|[[早寝早起きがもっとーです【65日目】>>https://www.twitch.tv/videos/2437832497]]||※66日目|
+|04/24|67|[[街きて１年経ったぞおおおおおお【66日目】>>https://www.twitch.tv/videos/2441257765]]||※67日目|
+#endregion(2025年)
+//内容に対して折り畳みが多すぎるため、月ごとの折り畳みをなくしました。
+//
+#co{Season2起床後使用予定
+#div(width=330px,bgcolor=#dda0dd){&font(16px,b,#fff){&space()Season2}}
+&font(16px,b,u,black){2026年}
+#region(開く,open)&b(){閉じる}
+//***月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#endregion(2026年)
+}
+#co{
+//***mm月
+#table_style(head=center:#483d8b:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+}
+
+*&font(25px,#dda0dd){動}&font(25px,#e6e6fa){画&icon_fa(fa-brands fa-youtube)}
+#div(width=330px,bgcolor=#dda0dd){&font(16px,b,#fff){&space()Season1}}
+***2024年
+#region(開く)&b(){閉じる}
+***4月
+#region(開く)
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~配信タイトル|h
+|04/23|[[遂にストグラ参戦！ロスサントスに来た理由を語る紫水コウ>>https://youtu.be/X7vY0GjC7SA]]|
+|04/27|[[マクドナルドから警官に車を買わせる手口を伝授される紫水コウ>>https://youtu.be/wFmKpvYFisQ]]|
+|04/28|[[自ら事故で負傷し病院に駆け込むも救急隊不在でマクドナルドの手術を受ける紫水コウ>>https://youtu.be/HFZ6jw1HyXM]]|
+|04/29|[[海上レストランのアルバイト体験で高価な商品の上手な売り方を教えてもらう紫水コウ>>https://youtu.be/_l3wYx7dP6I]]|
+#table_autoincrement(){label=#, start=1}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#endregion(4月)
+***5月
+#region(開く)
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~配信タイトル|h
+|05/02|[[メカニック体験！9055で飯田けんつからエモートを巧みに使ったセールス術を学ぶ紫水コウ>>https://youtu.be/n3q8cq6G-V0]]|
+|05/03|[[初対面の伊藤ぺいんの車を修理しようとして顔面にエルボーをかます紫水コウ>>https://youtu.be/0ohWIJXPze4]]|
+|05/03|[[焦月ツルギから金を稼ぐのに"良い方法"を聞く紫水コウ>>https://youtu.be/ehBIDgD8NVI]]|
+|05/04|[[9055体験最終日にスカウトされた紫水コウ、兄貴から別れの言葉を受け取る>>https://youtu.be/jQGt6rhtkEs]]|
+|05/05|[[初対面の人たちに言いたい放題言われまくる紫水コウ>>https://youtu.be/NPDznx_ezEc]]|
+|05/06|[[ロスサントスで初めての人質に乗り気すぎる紫水コウ>>https://youtu.be/CAhcmyi9eSM]]|
+|05/07|[[スコティッシュ・ホールドに初めましてでボケを返すもいまいち響かなかった紫水コウ>>https://youtu.be/lXXYJJ5dvG4]]|
+|05/08|[[ホットドッグ屋のレダ―から意味深な誘いを受ける紫水コウ>>https://youtu.be/M7Ih9SuuSE0]]|
+|05/09|[[なしまかなの資産にすぐさま飛びつくヒモムーブの紫水コウ>>https://youtu.be/Q_eDhKH7Hqw]]|
+|05/09|[[出張修理の新たな営業方法"スケボー押し売り"に目覚める紫水コウ>>https://youtu.be/ivf4TtTRDLA]]|
+|05/10|[[レダ―の"サンマ定食"の真相を知り、PYCにもスカウトされ行き先に悩む紫水コウ>>https://youtu.be/CQCVcfR-NvE]]|
+|05/11|[[一晩悩み抜いた末にレダーのサンマ定食を頼むことに決めた紫水コウ>>https://youtu.be/XhfhvXWw50M]]|
+|05/11|[[お世話になった人たちに「黒堕ち」報告とこれまでの感謝の気持ちを伝える紫水コウ>>https://youtu.be/9ig4rAhryyM]]|
+|05/12|[[初チェイスで負けた安倍霊明にいつかリベンジしたい紫水コウ>>https://youtu.be/85I30L3_7a4]]|
+|05/13|[[芹沢から衝撃の自己紹介を受けたあと、そのまま大型へ連れていかれる半グレ紫水コウ>>https://youtu.be/LAE8apCzCzg]]|
+|05/15|[[ギャングの傭兵に誘われて何かと含みのある呼び方をされる紫水コウ>>https://youtu.be/DibiZ8D7XmE]]|
+|05/16|[[大型傭兵での活躍が認められ、868への加入が決定した紫水コウ>>https://youtu.be/aJg3TXUXYUM]]|
+|05/17|[[初対面にしては当たりが強い刃弐ランドにギャングへの適性を疑われる紫水コウ>>https://youtu.be/67s3gzwo3Ns]]|
+|05/17|[[唐突に始まる868パレト受験！加入したばかりの紫水コウは合格できるのか？>>https://youtu.be/EcETooZwyW8]]|
+|05/18|[["空き巣協会"の新人・白杉小太郎として空き巣適正の高さを会長達にみせつける紫水コウ>>https://youtu.be/u4OTxvXAMgk]]|
+|05/19|[[警察署襲撃にまで発展し全員逮捕、紫水とケインだけが罰金を免れたため刑務所で乱闘騒ぎになる>>https://youtu.be/SLKmd08HW44]]|
+|05/20|[[ヘリを使ったカオスなシミュレーション訓練でダウン祭りになる紫水コウと868メンバーたち>>https://youtu.be/I8rbg0_eY7w]]|
+|05/21|[[らびすぴ逃走中で"心無き"のフリをして風景に溶け込む作戦に出る紫水コウ>>https://youtu.be/LGhAznnMFUw]]|
+|05/21|[[ねずみさん1周年記念に日頃の感謝を伝えるべく、サプライズでプレゼントを渡す紫水コウ>>https://youtu.be/N_3YQ420rwk]]|
+|05/22|[[9055で営業停止レベルの事件が発生し、上田社長とけんつ兄貴から事情を聞く紫水コウ>>https://youtu.be/zX4QFZeTWIU]]|
+|05/23|[[シマ取りでMOZU・GBCらと大混戦になり、時間ギリギリで銃撃戦に負けた相手とお互いの健闘をたたえ合う紫水コウ>>https://youtu.be/_pnac9SeMos]]|
+|05/24|[[久しぶりに起きた狼恋エギに護送され、罰金でぼったくられそうになる紫水コウ>>https://youtu.be/ENIF9U9V0b4]]|
+|05/25|[[個人医ヘリを海に落とされ、そす神・ろっぷによる紫水コウ救出リレーが始まる>>https://youtu.be/GKuT9I1lsuw]]|
+|05/26|[[紫水コウの人脈は868の人員不足問題を解決するひとつのキッカケになるのか？>>https://youtu.be/FuQtc91YS4U]]|
+|05/27|[[伊藤ぺいんと紫水コウ、警察と犯罪者が檻を隔ててなぜかコントをし始め救急隊も逃げ出す地獄絵図になる>>https://youtu.be/J1tTQp-YMbU]]|
+|05/28|[[初めて参加するギャング同士の会議に向けて、ギャングっぽい服装・立ち振る舞いを考える紫水コウ>>https://youtu.be/Zjho3vKhaCo]]|
+|05/28|[[9055の飯田けんつから、兄貴自身のロスサントスに来た目的と今後の活動方針を聞く紫水コウ>>https://youtu.be/SmKJAZIaVD0]]|
+|05/29|[[新薬メメント・モリのレシピ発見と素材集めに奔走。そして868で情報漏洩事件が発覚。一方その頃、何も知らない紫水コウはいつも通りファーム中、何故か無線で怒られていた>>https://youtu.be/U3_fshS4Nbw]]|
+|05/30|[[刃弐ファンドの投資を受け、昔からの兄貴との約束である7億の車トラクスを購入する紫水コウ>>https://youtu.be/NI3-9CgLYi0]]|
+|05/31|[[人脈の広さを遺憾なく発揮し半グレや初心者の詳細な情報を提供する紫水コウ、レダーに868人材担当と言わしめる>>https://youtu.be/S7ymrGrUc8Y]]|
+#table_autoincrement(){label=#, start=5}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#endregion(5月)
+***6月
+#region(開く)
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~配信タイトル|h
+|06/01|[[紫水コウが尊敬する渋カッコいいメカニック大川さんがポンだらけではっちゃけていた日>>https://youtu.be/NQP-Mr5NX0g]]|
+|06/01|[[激しいシマ取り合戦になる中、コミュ強＆陽キャすぎてMOZU相手に連絡先交換しに行きまくる紫水コウ>>https://youtu.be/BvWcebm5umU]]|
+|06/01|[[ジョシュア・マーキルを868メンバーと共に勧誘しに行く紫水コウ、その後浜辺でお互いの胸中を語り合う>>https://youtu.be/MogAK2TfWIM]]|
+|06/02|[[9055裁判開廷！市長の言葉の強さに押されていく上田さん。お世話になった社長に判決が言い渡されるその時、紫水コウは...>>https://youtu.be/youURyA5yv4]]|
+|06/03|[[大型傭兵初参加のジョシュア・マーキル、868に勧誘された際やはり、圧を感じていたと漏らす>>https://youtu.be/LCzh5KjdB58]]|
+|06/03|[[半グレの友人JDを大型傭兵に誘うことになり、自分がギャングであることを隠している関係性からどう立ち回るべきか悩む紫水コウ>>https://youtu.be/kWrJahCTEB0]]|
+|06/05|[[大型ボブキャットの心無きがバグで無敵になりハチの巣にされる868と紫水コウ、リセット後に再挑戦するも今度は猫マンゴーに破壊される>>https://youtu.be/B768xsdWpPY]]|
+|06/06|[[ジョシュア飛行場リベンジ成功！良い雰囲気でこのまま868へ勧誘の流れになる中、ただひとり刑務作業としてリアル腕立て伏せを課せられた紫水コウ>>https://youtu.be/AbBpZ0J-xpc]]|
+|06/07|[[あまりに強すぎる警察・猫マンゴーの意外すぎる弱点を話してくれる芹沢、5人で挑む限界大型で不憫すぎる失敗続きだった客船の呪いから解き放たれたい紫水コウ>>https://youtu.be/Am7UaugsO0U]]|
+|06/08|[[9055を退職した兄貴・飯田けんつが黒堕ちして紫水コウと共に犯罪に手を染めていくまとめ>>https://youtu.be/36RAyKVwOvU]]|
+|06/08|[[遂に868新メンバー・ジョシュアが加入！劇場版と称されるほど大型客船で様々なドラマが起きているその時、またしてもひとり呪いから逃れられない868不憫枠紫水コウ>>https://youtu.be/-84iSBQdsEY]]|
+|06/08|[[薬練り中に「警察来た！」とウソをつく芹沢と呆れる868メンバー、その後本当に警察が来て助けを呼ぶも信じてもらえず"オオカミ少年芹沢"になる>>https://youtu.be/qJodbV7z-Uk]]|
+|06/09|[[魔女の酒場で小峯玲からこの街にいる癖強な人のエピソードや、868ボスが所属するホットドッグ協会の昔話を聞く紫水コウとトピオ>>https://youtu.be/579yVE49nt0]]|
+|06/12|[[「パンチャンは正式な協力者になった」と868からの共有で知った紫水コウ、ちょうど一緒にいたため自ら868メンバーであることを打ち明け、以前からの胸中を語る>>https://youtu.be/KerMEoHYbCE]]|
+|06/13|[[マクドナルドとズズがシマ取り中に襲来！応援ソングを鳴らしながら走り回り、どう考えても冷やかしにしか見えない紫水コウ>>https://youtu.be/f9pnATKte38]]|
+|06/13|[[ジョシュアがファームの道中で洞窟の中に鍵が付いた怪しい拠点を発見、その後中から出てきた人物とばったり鉢合わせになったという報告を受け心配する紫水コウ>>https://youtu.be/rapoCi0AacA]]|
+|06/14|[[868で2人しか起きてないのにノリでアーティファクトを受注し、警察の情報を探りながら超限界大型に挑むことになる牢王蓮と紫水コウ>>https://youtu.be/JCFhLrol4o8]]|
+|06/16|[[ジョシュアと初めましてのときから実は「ヒモになるには」を伝授していた紫水コウ、彼が語るヒモの流儀とは―。>>https://youtu.be/cIDxVQm_kz0]]|
+|06/17|[[最近ハマって見てる「にじさんじGTA」のとある警察署長の良さを刃弐ランドに語りたいが、どう説明すれば伝わるのか言葉選びが難しく強行策に出る紫水コウ>>https://youtu.be/pFOE8joeLgc]]|
+|06/18|[[868で共有されたJDの加入希望を見て、3人で仲良くなるきっかけになったエピソードを懐かしむジョシュアと紫水コウ>>https://youtu.be/VEhPUw4Y0xE]]|
+|06/19|[[らっだぁと話すとよく年齢の話題でバトルになるという魂貫通トークにアツくなる>>https://youtu.be/db2Es2kTjhk]]|
+|06/20|[[大型がヘリチェイスで盛り上がる一方、あるところに仲良く川の字でダウンしている3人組がいました>>https://youtu.be/UwOL5mvBUY8]]|
+|06/20|[[JD加入希望に対しての回答を868メンバーに聞いて話を進めていき、人事部としての働きを見せる紫水コウ>>https://youtu.be/9wOk6v3uBfI]]|
+|06/21|[[猫マンゴーとはじめましての挨拶をする紫水といつも通りふざけ倒す音鳴、そして刃弐ランドは刑務所前で土下座して待っていた>>https://youtu.be/dMjITfnBfEM]]|
+|06/21|[[レダー不在のシマ取りでタイムキーパーとして覚醒する紫水コウと、改めて「ヘリのありがたさ」に気づく868メンバー>>https://youtu.be/QjQUG0_LFGc]]|
+|06/21|[[「薬練り素材問題」でやりたいことが出来ず悩む芹沢が、猫マンゴーとして警察で楽しんでいたのを見て魂で喜んでいたシスコ>>https://youtu.be/0HsZOWse3Rk]]|
+|06/22|[[紫水、家を買う。長らく借りていたケイン先輩のコンテナに別れを告げる>>https://youtu.be/Wjzu7KZIxEs]]|
+|06/22|[[半グレの人たちとの交流から得られた情報を元にアルカナの動向を推測する紫水コウ>>https://youtu.be/Svgr5udK8HM]]|
+|06/23|[[868軍人RP限界大型パレト銀行編。冷やかし担当、紫水コウ>>https://youtu.be/Zkxqfu1B2tw]]|
+|06/23|[[川上たばこ店の店長と遂に出会い、はじめましての挨拶をする紫水コウ>>https://youtu.be/fbrJLDuO5RA]]|
+|06/24|[[堕夜だよと出会いおもむろに「lean4」で共鳴し合う紫水コウ>>https://youtu.be/V25x1jItO30]]|
+|06/24|[[JDが加入した場合の868側のデメリットについて、自身の考えを述べる紫水コウ>>https://youtu.be/7YktJsc61bk]]|
+|06/25|[[交流によって得た情報の多さから868の諜報担当にもなった紫水コウ、この先どうやっていくか悩む同期タマーチの相談に乗る>>https://youtu.be/-Nk-gSPR1HE]]|
+|06/26|[[調理師免許を持つシスコの家族は料理家系だった！？リスナーからの資格に関する相談に自分の経験を語る雑談回>>https://youtu.be/iSjyIrvlUjE]]|
+|06/26|[[警察に追われているイベントテロ罪無視の凶悪犯に突撃インタビューを試みる紫水コウたち>>https://youtu.be/p_BOETu6_Ig]]|
+|06/27|[[起きたら868に加入していたJDに先輩面しようとしたら何ひとつ勝てる要素がなかった紫水コウ>>https://youtu.be/ixzuWbwmPhk]]|
+#table_autoincrement(){label=#, start=40}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#endregion(6月)
+***7月
+#region(開く)
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~配信タイトル|h
+|07/08|[[けんつ兄貴が新しいギャングを立ち上げようとしているという噂をレダーから聞き、遂に「868の紫水コウ」として腹を割って話す>>https://youtu.be/utVYUM9aNL4]]|
+|07/08|[[この街5日目にしてギャングに命を狙われているらしい虚空新聞のゴシップ記者、ムーチョ文岡と出会う紫水コウ>>https://youtu.be/9U_Iv8Zeymk]]|
+|07/09|[[気まぐれな猫マンゴーに振り回され、トピジョアが強盗で盗んじゃったパトカーと白バイを警察体験に変装して返しに行くのに付き合わされる保護者紫水コウ>>https://youtu.be/QbN110etGaY]]|
+|07/09|[[久しぶりに起床した紫水。堕夜と会えばlean4、ねずみさんからプレゼントをもらい、そして新規住民にヒモムーブを教える。>>https://youtu.be/w0FaTFF0wOI]]|
+|07/11|[[クッキー戦隊現る！868構成員からなる謎の戦隊にヒモ担当クッキーパープルとして入隊する紫水コウ>>https://youtu.be/g1hqtlFF9Sk]]|
+|07/12|[[クッキー戦隊転落！おんぶしたままビルから落下したパープルとブルー、その場にいたねずみさんに疑惑が向けられるが果たして事件の真相は...？>>https://www.youtube.com/watch?v=eAoLzoVptP8]]|
+|07/13|[[限界大型リグが歪みで断念、どこからか撃たれてダウンした紫水とジョアのビデオ判定(VAR)が始まる>>https://youtu.be/YFWxAIZ46wY]]|
+#table_autoincrement(){label=#, start=76}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#endregion(7月)
+***8月
+#region(開く)
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~配信タイトル|h
+|08/16|[[約1ヶ月ぶりの起床で、喉の絞り方すら忘れてしまった紫水コウ。セクハラ抗争などのエピソードを868メンバーから聞く>>https://www.youtube.com/watch?v=-JjJUvG0a-s]]|
+|08/17|[[歪みでダウンした紫水がいつものヒモムーブですり寄ろうとするのを一言で止めるJD>>https://www.youtube.com/watch?v=fgftSWKNmzE]]|
+|08/19|[[TOPGEARの大型参加人数を聞いて、868の限界ぶりを再確認する紫水コウ>>https://www.youtube.com/watch?v=VDRs1cW8Um8]]|
+#table_autoincrement(){label=#, start=83}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#endregion(8月)
+***12月
+#region(開く)
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~配信タイトル|h
+|12/18|[[約4ヶ月ぶりの起床で衝撃の事実を868メンバーから告げられる紫水コウ>>https://www.youtube.com/watch?v=pV5tW4vCT-w]]|
+|12/18|[[昔は出来なかったヘリの操縦を、夢で「青い怪物」から教わっていた紫水コウ>>https://www.youtube.com/watch?v=zVOnzcv6eas]]|
+|12/19|[[紫水も魚参屋も交流が好きで「ヒモ」だということがわかり、868白市民ヘイストが発案される>>https://www.youtube.com/watch?v=wf5etci4830]]|
+|12/19|[[久しぶりの868大型にウッキウキで向かうも、アクシデントの連続でやっぱり不憫枠な紫水コウ>>https://www.youtube.com/watch?v=YsFx_6MhMEA]]|
+|12/20|[[新興ギャングのボスや構成員から内情を聞く紫水コウ>>https://youtu.be/63P7nPgkRBw]]|
+|12/21|[[JTSに仲の良い友達が続々と集まって同窓会みたいになり、積もりに積もった話で盛り上がる紫水コウ>>https://youtu.be/fALEfCrEq18]]|
+|12/30|[[レダーに会ったことがないという魚参屋に、868として一緒に活動していた頃の思い出を語る紫水コウ>>https://youtu.be/N9lM6VeRxAY]]|
+#table_autoincrement(){label=#, start=86}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#endregion(12月)
+#endregion(2024年)
+***2025年
+#region(開く)&b(){閉じる}
+***1月
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~動画タイトル|h
+|01/02|[[新規住民を連れて街ブラをする868。紫水コウと魚参屋が似てると言われ、小競り合いをする２人>>https://youtu.be/g78uezZWc2Q]]|
+|01/06|[[加入希望者「光乃あびす」について話し合いをする868。魚参屋の市民交流をベタ褒めする紫水コウ>>https://youtu.be/34QoaAezLGI]]|
+|01/07|[[トピオがレダーから預かっていたフロガーを貰う紫水コウ>>https://youtu.be/4SEneaFzAhk]]|
+|01/08|[[ボスたちの昔の写真を振り返りながら、868で集合写真を撮る紫水コウ>>https://www.youtube.com/watch?v=LMJRzYT558U]]|
+|01/08|[[半年ぶりに起床した牢王蓮、開幕からマシンガントークが止まらず疲弊する魚参屋と紫水コウ>>https://www.youtube.com/watch?v=9ceXFG498M4]]|
+|01/09|[[車で橋の下に宙吊りになり金庫失敗という前代未聞の結末に、お互いに相手のせいだと言い争う音鳴と紫水>>https://youtu.be/FL0OsDbAUsw?si=KuSLGw_LCUz-_22Q]]|
+|01/26|[[TOPGEAR解散の理由をけんつ兄貴から直接聞く紫水コウ>>https://youtu.be/wCjiyKwQATg?si=LORZQ8eSx1UCg5uX]]|
+|01/27|[[868を嗅ぎまわっている白市民がいるという情報を得て、ボスに共有する紫水コウ>>https://youtu.be/yMjTyfSrcZ8?si=-wEH4-VdDC-r2ynV]]|
+#table_autoincrement(){label=#, start=93}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+***2月
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~動画タイトル|h
+|02/02|[[なぜかてつおに会ったことがないジョシュアに角刈りについて教える紫水コウ>>https://youtu.be/YX8YS1eMTBY?si=xs4Jx0Xx28Z6YIET]]|
+|02/03|[[青井らだお＆レダーヨージローグッズを誰よりも早く予約したシスコ / レギ横界隈を盛り上げようと人を集める紫水コウ>>https://youtu.be/Fe6VP4_mHc8?si=l87xM92vEx_xyjTB]]|
+|02/04|[[白市民に溶け込みすぎていて、ジョシュアに驚かれる紫水コウ>>https://youtu.be/seVvxXLKjUA?si=TXuSqW5DhI8ZL3St]]|
+|02/05|[[ボス不在の状況が初めてで、１番先輩なことに新鮮味を感じる紫水コウ>>https://youtu.be/2ku0kwbam_A?si=CJdSVesFaBHucz6W]]|
+|02/28|[[アジトのTVでなぜか流れていた音鳴の衛星をウォチパする紫水コウ>>https://youtu.be/-BcaezFxqRs?si=Zfy9JRfRNxMwoTtW]]|
+#table_autoincrement(){label=#, start=101}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+***3月
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~動画タイトル|h
+|03/01|[[気球で爆散する868。全員をダウンさせた犯人を考察する紫水たち。>>https://youtu.be/pyP3xmsvvEk?si=K9_snoG9J5nVu7zZ]]|
+|03/10|[[魂で食事中のケインオーから愛をささやかれていると勘違いする紫水コウ>>https://youtu.be/VfiANpMX3Wo?si=ahGgN9yHIhvYcrV2]]|
+|03/19|[[868に入りたいと悩む親友パンチャンに相談を受け、本音で語る紫水コウ>>https://youtu.be/jLIb171h4c8?si=t9FLyMV6wPniF7Qw]]|
+#table_autoincrement(){label=#, start=106}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+***4月
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~動画タイトル|h
+|04/04|[[久しぶりの起床で街の出来事を何も知らない浦島太郎３人衆>>https://youtu.be/-YthizP6VNE?si=djLH2YfAperxkc76]]|
+|04/21|[[何も知らないぞん美子さんに麻陀羅組へ誘われ、ふざけて868を抜けようとする紫水コウ>>https://youtu.be/UKxUT-Ho5Ro?si=Ff75ijHk2wCMY2IP]]|
+|04/22|[[868に新メンバーが加入したことを知り、ルナホークアイの強烈すぎるキャラに爆笑する紫水コウ>>https://youtu.be/bAjKqWKtu4k?si=pW3Hao6R8_VcsA7d]]|
+|04/23|[[868人事部として、半グレたちの拠り所を作るために店長を目指す紫水コウ>>https://youtu.be/UitO55Gc1vU?si=Eh_V_hiCtkkXo8Lw]]|
+|04/27|[[街のみんなから一周年を祝われる。ヒモを愛し、ヒモに愛された男・紫水コウ>>https://youtu.be/lpNfVBN34UM?si=_OSWEBSbMpBTSdJk]]|
+#table_autoincrement(){label=#, start=109}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#endregion(2025年)
+//
+#co{
+#div(width=330px,bgcolor=#dda0dd){&font(16px,b,#fff){&space()Season2}}
+//***2026年
+#region(開く,open)&b(){閉じる}
+//***月
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~動画タイトル|h
+
+#table_autoincrement(){label=#, start=1}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#endregion(2026年)
+}
+//
+#co{
+//***mm月
+#region(開く,open)
+#table_style(head=center:#483d8b:#FFFFFF){投稿日=right}
+|~投稿日|~動画タイトル|h
+|mm/dd|[[動画タイトル>>ここに動画URLを入力]]|
+#table_autoincrement(){label=#, start=nn}
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}
+#endregion(mm月)
+}
+*&font(25px,#e6e6fa){&font(25px,#dda0dd){ス}トグラ外コラボ等 &icon_fa(fa fa-twitch)}
+***2025年
+#region(開く)閉じる
+#size(90%){#table_style(head=center:#483d8b:#ffffff){配信日=right,#=center}
+|~配信日|~配信タイトル|~コラボ相手|~ゲームタイトル|動画|備考|h
+|04/25|[[久しぶりに顔出し雑談>>https://www.twitch.tv/videos/2442140544]]|ととみっくす|雑談|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/QVLD9IFIhSk]]|実写|
+|09/01|[[ゲームやろや～w/きるま ととみ とっぴー>>https://www.twitch.tv/videos/2555326931]]|切嘛、ととみっくす、とっぴー|Chained in the Backrooms→BAPBAP|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}①>>https://youtu.be/dcSYbnahI9I]][[②>>https://youtu.be/XmzVO98dvUs]]||
+|09/22|[[構成員フルパ(?)>>https://www.twitch.tv/videos/2572781212]]|aja、切嘛、とっぴー、金豚きょー|VALORANT|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}①>>https://youtu.be/bDLFD2ldsAY]][[②>>https://youtu.be/EvdPnrAdcL4]]||
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}}
+#endregion
+***2026年
+#region(開く,open)閉じる
+#size(90%){#table_style(head=center:#483d8b:#ffffff){配信日=right,#=center}
+|~配信日|~配信タイトル|~コラボ相手|~ゲームタイトル|動画|備考|h
+|01/07|[[ホラゲーやろや・・・・・・・・w/ととみ きるま あじゃ>>https://www.twitch.tv/videos/2663463446]]|ととみっくす、切嘛、aja|DON'T SCREAM TOGETHER|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/1lvbiy8CMNM]]||
+|01/24|[[楽しくやろや！！！！！！w/きるま あじゃ ととみ>>https://www.twitch.tv/videos/2678703291]]|ととみっくす、切嘛、aja|Super Mario Party Jamboree|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}①>>https://youtu.be/izmvxD8UJT4]][[②>>https://youtu.be/I6T6__iNVzY]]||
+|03/30|[[ればぶる！#2 初ロケ！サバゲーに挑戦‼️>>https://www.openrec.tv/live/nqr6ndddg86]]|ギルくん、Middleee、とっぴー|ギルくんとMiddleeeによるオリジナル番組||冒頭無料、ゲスト出演（実写）|
+|04/08|[[みんなでVALHEIMやるぞ～～(チルサバアイバルゲー)>>https://www.twitch.tv/videos/2743663082]]|ととみっくす、切嘛、aja|Valheim|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}①>>https://youtu.be/OibYXW19RhA]][[②>>https://youtu.be/SgKLwQdWJWA]][[③>>https://youtu.be/F2arg-UBUNc]]||
+|04/13|[[VALHEIM２日目(チルサバイバルゲー)>>https://www.twitch.tv/videos/2746999169]]|ととみっくす、切嘛、aja|Valheim|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}①>>https://youtu.be/3jKYx0oQdcA]][[②>>https://youtu.be/RNI2h57m9Y8]][[③>>https://youtu.be/wXEOWe8sKV0]]||
+|04/20|[[ればぶる！【最推しプラン限定】アフタートーク　#２>>https://www.openrec.tv/movie/gkrplx5kk85]]|ギルくん、Middleee、ふらんしすこ|ギルくんとMiddleeeによるオリジナル番組||（実写）|
+|05/02|[[定期的にマイクラやりたいね会w/きるま きょー とっぴー>>https://www.twitch.tv/videos/2762293757]]|金豚きょー、切嘛、とっぴー|Minecraft|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}①>>https://youtu.be/3ukvmWZzP0s]][[②>>https://youtu.be/JO1y1pXcOnE]]||
+|06/09|[[1回目があるって事は２回目あるな？w/きるま とっぴー きょー>>https://www.twitch.tv/videos/2792390118]]|金豚きょー、切嘛、とっぴー|Minecraft|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/1kMLbdl_Koc]]||
+|07/17|[[valheim#3 今日はボス倒しにいくぞおおおおおお>>https://www.twitch.tv/videos/2822124535]]|ととみっくす、切嘛、aja|Valheim|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=67OO-SOUamI]]||
+|08/10|[[『MARVEL Tōkon: Fighting Souls』#PR w/ととさん>>https://www.twitch.tv/videos/2842263869]]|ととみっくす|MARVEL Tōkon: Fighting Souls|||
+|08/10|[[ととさんとタルコフする>>https://www.twitch.tv/videos/2842320951]]|ととみっくす、aja、（ありさか）|Escape from Tarkov|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}①>>https://www.youtube.com/watch?v=24T2g1-0lT8]]||
+|09/16|[[休日満喫 俺はOWの民→Valheim生活３日目>>https://www.twitch.tv/videos/2875562525]]|ととみっくす、切嘛、aja|Valheim|||
+#table_sorter{head=#606060,even=#f7f7f7,odd=#fff}}
+#endregion
+//[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>
+#right(){&link_up(🔝ページTOPへ)}

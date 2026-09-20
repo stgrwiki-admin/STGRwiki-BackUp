@@ -1,0 +1,213 @@
+&image(FOWK_logo.jpg,x=350)
+
+#slide_img(auto=4,width=480,height=270){FOWK_外観1.webp,FOWK_内装1.webp,FOWK_外観2.webp,FOWK_外観3.webp}
+
+#size(50%){　}
+#table_style(head=#1d5243:#d6ad18:center){}
+#table_filter(){SEASON1=hide,SEASON2=show}
+|~世界線|~SEASON1|~SEASON2|h
+|~店名|>|COLOR(black):&ruby(フォーク){FOWK}|
+|~業種|>|COLOR(black):飲食店|
+|~開業日|COLOR(black):2025年3月29日|COLOR(black):2026年04月29日&small(){（&countup(2026/04/29,yd)経過）}|
+|~所在地|COLOR(black):8073番地|COLOR(black):7296番地|
+|~店長|>|[[ペトロ　アルドベッグ]]|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+//S2開業日についてまだ開店していないとのことでしたので修正しました。失礼しました。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+・[[ペトロ　アルドベッグ]]の故郷であるイギリスをイメージしたアイリッシュPUBの店。
+・彼が占いにおいて愛用しているタロットカードをモチーフにしたメニューを考案中。
+・店名の『FOWK』はスコットランドの言葉で『人々』の意。
+
+　&font(i,b,u){情報募集中}
+
+**従業員情報
+***従業員
+****Season1
+#region(開く)
+#table_style(head=#1d5243:#d6ad18:center)
+|~役職|~名前|~就職日|~備考|h
+|店長|[[ペトロ　アルドベッグ]]|2024/12/27||
+|店員|[[浅寝　天蔵]]|2025/01/30||
+|店員|[[モネ　ネット]]|2025/05/17||
+|店員|[[アプリコット]]|2025/07/29||
+|店員|[[Super　Subaru]]|2025/08/06|※当日はジョブを付けたのみ|
+|店員|[[羽津　ピオコ]]|2025/08/23||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#endregion(Season1)
+****Season2
+#region(開く,open)
+#table_style(head=#1d5243:#d6ad18:center)
+|~役職|~名前|~就職日|~備考|h
+|店長|[[ペトロ　アルドベッグ]]|2026/04/29||
+|店員|[[ジェフリー　ヒッチコック]]|2026/06/10||
+|アルバイト|[[丘猫　まる]]|2026/05/17|パブビュー対応や梅雨フェスなど人手が必要な時のみ|
+|店員|[[ルーファス　ウィルキンズ]]|2026/07/04||
+//↑ジョブの付与のみでまだ扱いがわからないので、一旦掲載は保留させてください。
+//|店員|[[名前]]|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#endregion(Season2)
+
+//***退職者
+//#table_style(head=#1d5243:#d6ad18:center)
+//|~名前|~就職日|~最終出勤日|~備考|h
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+***職業体験者
+****Season1
+#region(開く)
+#table_style(head=#1d5243:#d6ad18:center)
+|~名前|~体験開始日|~備考|h
+|[[猫耳　ぽこ太郎]]|2025/06/15||
+|[[マアカ　ピィ]]|2025/09/04||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|[[名　前]]|yyyy/mm/dd|備考|
+#endregion(Season1)
+****Season2
+#region(開く,open)
+#table_style(head=#1d5243:#d6ad18:center)
+|~名前|~体験開始日|~備考|h
+|[[猫ノ宮　ひな]]|2026/08/19|　|
+|[[黒澤　乃依]]|2026/08/23|　|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//|[[名　前]]|yyyy/mm/dd|備考|
+#endregion(Season2)
+
+**商品情報
+***Season1
+#region(開く)
+&space()&font(b,18px,#444444){&icon_fa(fa-solid fa-wine-bottle)&space()Drink}
+#table_filter(){価格=show,備考=show}
+#table_style(head=#1d5243:#d6ad18:center){商品名=bold,価格=right}
+|~商品名|~価格|~備考|h
+|MIDDLE:The EMPRESS|MIDDLE:50,000|MIDDLE:クリスタルヴァイツェンスタイルのビール。|
+|MIDDLE:The DEVIL|MIDDLE:50,000|MIDDLE:ドライスタウトスタイルのビール。|
+|MIDDLE:THE VACATION SUN|MIDDLE:50,000|MIDDLE:ピルスナースタイルのビール。夏向けの一杯。|
+|MIDDLE:のんあるえんぷれす|MIDDLE:50,000|MIDDLE:The EMPRESSのノンアルバージョン。|
+|MIDDLE:のんあるでびる|MIDDLE:50,000|MIDDLE:The DEVILのノンアルバージョン。|
+|MIDDLE:のんある ばけーしょん さん|MIDDLE:50,000|MIDDLE:THE VACATION SUNのノンアルバージョン。|
+|MIDDLE:アイラウイスキー|MIDDLE:50,000|MIDDLE:[[店長>ペトロ　アルドベッグ]]の独断で選ばれたアイラ3種のブレンデッドウィスキー。|
+|MIDDLE:FOWK COFFEE|MIDDLE:50,000|MIDDLE:持ち運びカップに淹れられたコーヒー。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+&space()&font(b,18px,#444444){&icon_fa(fa-solid fa-utensils)&space()Food}
+#table_filter(){価格=show,備考=show}
+#table_style(head=#1d5243:#d6ad18:center){商品名=bold,価格=right}
+|~商品名|~価格|~備考|h
+|MIDDLE:Chips(フライドポテト)|MIDDLE:50,000|MIDDLE:ウェッジカット(皮付き)のポテト。ブルーチーズソース付き。|
+|MIDDLE:Fish&Chips|MIDDLE:50,000|MIDDLE:イギリス定番の一品。モルトビネガー付き。|
+|MIDDLE:チョコレートサンデー|MIDDLE:50,000|MIDDLE:日曜日じゃなくても購入可能。|
+|MIDDLE:ベリーベリーサンデー|MIDDLE:50,000|MIDDLE:ベリーをこれでもかと使ったサンデー。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+#co(){
+***レギュラー商品
+#region(open,開く)
+#table_filter(){種類=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#444444:#FFFFFF:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~備考|h
+|MIDDLE:Food|FOWK BREW ZERO|MIDDLE:50,000|MIDDLE:2024/10/17|MIDDLE:FOWKオープン記念ボトル|
+//#table_autoincrement(){label=No.}
+//|種類|商品名|価格|提供開始日|説明|
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+}
+&space()&font(b,18px,#444444){&icon_fa(fa-solid fa-face-smile)}&font(b,16,#444444){コラボ商品}
+#table_filter(){種類=show,価格=show,備考=show}
+#table_style(head=#1d5243:#d6ad18:center){商品名=bold,価格=right}
+|~種類|~商品名|~価格|~備考|h
+|MIDDLE:Drink|MIDDLE:STGLAGER|MIDDLE:50,000|MIDDLE:[[STGラジオ局]]とのコラボ商品。ピルスナースタイルのビール。|
+|MIDDLE:Drink|MIDDLE:のんあるSTGらがあ|MIDDLE:50,000|MIDDLE:[[STGラジオ局]]とのコラボ商品。STGLAGERのノンアルバージョン。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//***オリジナル商品
+//#region(,open)
+//#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+//#table_style(head=center:#E0E0E0){No.=center,価格=right}
+//|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//#table_autoincrement(){label=No.}
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+//#endregion
+#endregion
+#endregion(Season1)
+
+***Season2
+#region(開く,open)閉じる
+***メニュー画像
+#region(開く,open)
+#region(メニュー・占い,open)
+&image(FOWK_メニュー20260429.jpg,x=711,y=400)
+
+&image(FOWK_占い.png,y=400)
+#endregion
+#region(2026/06/07 日焼け止め,open)2026/06/07 日焼け止め
+&image(FOWK_メニュー_日焼け止め.jpeg,y=290,x=290)
+#endregion
+
+#endregion
+#endregion(Season1)
+
+　&font(i,b,u){情報募集中}
+
+
+**沿革
+//#table_filter(){出来事=show}
+#table_style(head=#1d5243:#d6ad18:center){}
+|~日付|~出来事|~エピソード|h
+|2024/12/27|店舗購入|様々な物件を巡り巡った末、8073番地の建屋を購入|
+|2025/01/30|業務提携|[[ShanaoR]]と提携を結び、キッチンの借用によるメニュー開発許可を得る。|
+|2025/03/29|店舗開店|営業開始。オープニングセレモニーで、&openclose2(show=4人のアーティスト※){([[Milkins>ルーファス　ウィルキンズ]]・[[ツクヨミ　レオ]]・[[くまの　ふでこ]][[ラブストレート小里馬ァ>アイドゥラー　ヨシャパテ]])}が歌唱を披露した。|
+|2025/09/21|住民転送|[[全人類転送ミッション]]により店の人間はいなくなり、店舗だけが街に残された。|
+|2026/04/04|店舗購入|転送されたγ世界線で再び同名の店のオープン準備を進め、建物を購入した。|
+|2026/04/29|オープン|オープン日限定のビールを提供。&br()賞金付き記念レース及びテラスLIVEを開催|
+#table_zebra(#F7F7F7,#FFFFFF,#1d5243)
+//|mm/dd|出来事|関係者|エピソード・備考|
+
+　&font(i,b,u){情報募集中}
+
+**開催イベント
+***Season2
+#region(Re:OPEN EVENT,open)
+#table_style(head=#1d5243:#d6ad18:center){}
+|~#|~イベント名|~開催日|~出演者|~備考|
+|1|&bold(){「FOWK O' FON LIVE」}&image(FOWKOFONLIVE1.jpg,y=180)|2026/2/11|[[Super　Subaru]]&br()[[天近　くるみ]]&br()[[妻垣　さすらい]]||
+|2|&bold(){「FOWK O' FON LIVE vol.2」}&image(FOWKOFONLIVE2.jpg,y=180)|2026/3/11|[[天近　くるみ]]&br()[[妻垣　さすらい]]||
+|3|&bold(){「PUB FOWK Re:OPEN EVENT」}&image(FOWK_再オープンイベントチラシ.jpg,y=180)|2026/4/29||Season2でのFOWKオープンイベント。&br()ミニライブと賞金総額1千万相当の&br()新レースイベント|
+|4|&bold(){「FOWK O' FON LIVE vol.3」}&image(FOWKOFONLIVE3.jpg,y=180)|2026/4/29|[[Super　Subaru]]&br()[[天近　くるみ]]&br()[[妻垣　さすらい]]&br()[[ボクジュール　すずり]]|初のオールオリジナル楽曲LIVE|
+|5|&bold(){「FOWK O' FON LIVE vol.4」}&image(FOWKOFONLIVE4.jpg,y=180)|2026/6/3|[[Super　Subaru]]&br()[[天近　くるみ]]&br()[[妻垣　さすらい]]&br()[[ボクジュール　すずり]]|90's-00'sのカバー曲LIVE|
+|6|&bold(){「FOWK O' FON LIVE vol.5」}&image(FOWKOFONLIVE5.jpg,y=180)|2026/7/24|[[天近　くるみ]]&br()[[灰部理　秀人]]&br()[[ボクジュール　すずり]]|夏曲オンリーのカバー曲LIVE|
+|7|&bold(){「FOWK O' FON LIVE vol.6」}&image(FOWKOFONLIVE6.jpg,y=180)|2026/9/19|[[妻垣　さすらい]]&br()[[ボクジュール　すずり]]&br()[[アビビービ・ビービ・コ]]|「月」をテーマにしたLIVE|
+|8|&bold(){「タイトル未定」}|2026/10/9予定|||
+
+
+#endregion
+
+*リアル企画
+2026/04/23の[[ストグラCLL>>https://www.twitch.tv/videos/2755017849]]&font(#6441A4){&icon_fa(fa fa-twitch)}にて、ストグラ街歩きin大阪の企画として、FOWKで提供されているメニューの一部が、コミュニティフードホール 大阪日本橋とのコラボで実際に販売される旨が発表された。
+
+#div(width=320px){
+#openclose(show=【告知ポスト（ツイート）】,border:none;,margin:0px;,padding:0px;,block){
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"> </p>&mdash; ストグラ運営 (@STGR_RolePlay)  <a href="https://twitter.com/STGR_RolePlay/status/2047278948414107671">4/23</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+
+}}
+
+
+#right(){&link_up(🔝ページTOPへ)}

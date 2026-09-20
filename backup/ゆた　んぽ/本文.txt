@@ -1,0 +1,272 @@
+＊プロフィール
+//
+//編集相談所で本ページにおける生成AI画像の使用の是非の話し合いから、ストグラwiki管理人より【ページ作成と編集ガイドライン】の「画像編集・AIツールの使用方針と編集に関するお願い」が発表されました。それに伴い、AI生成疑惑のある画像を削除いたしました。ガイドラインを確認の上、掲載可能な画像を使用するようにしてください。
+//
+//
+&image(S2_ゆたんぽ.png)
+
+
+#region(Season1のゆたんぽ)Season1のゆたんぽ
+#slide_img(auto=3,width=290,height=580){初期1.png,ゆたんぽ_ワンピ犬耳.png}
+#endregion
+
+#marquee(御達者で〜,left,size=30,bgcolor=#FFE921,color=#ffffff)
+
+//ここからプロフィール
+
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#FFDE69){名前=center:b:#FA8072:#FFF}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|ゆた　んぽ|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本(北海道)|
+|~血液型|~&icon_fa(fa fa-droplet)|>|O型|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年09月11日 (1年11日)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|2001年12月12日（24歳）|
+|~職業|~&icon_fa(fa fa-university)|&small(){&openclose2(show=▼Season1){&br()メカニック【&bold(){[[BMC>>Bear Moon Custom]]}】&br()&small(){・社員 / 階級Grade3 (Advanced) (2024/10/11～2025/09/21)}&br()救急救命士【&bold(){[[ロスサントス救急救命隊]]}】&br()&small(){・(3) Surgeon / 外科医 (2024/12/07～2025/09/21)}&br()消費者金融会社【[[BJローン]]】&br()&small(){・協力関係者(日雇いアルバイト)}&small(){＊非ジョブ}}}&br()&small(){&openclose2(show=▼Season1の過去の職業){&br()ダイニングカフェ【[[Yadorigi]]】&small(){・店員 (2024/10/16～2025/03/26)}}}|救急救命士【&bold(){[[ロスサントス救急救命隊]]}】&br()&small(){・(1) Paramedic / 救命士 (2025/12/19～)}&br()メカニック【&bold(){[[UGM]]}】&br()&small(){・従業員/階級1:Novice}|
+|MIDDLE:~拠点|~&icon_fa(fa fa-home)|&small(){&openclose2(show=▼Season1){&br()7173(BMCの敷地内、BMCのすぐ横)&br()7322(犬カフェ[[Re:One's]]近くの池はさんで向かい側)}}||
+|~ライセンス|~&icon_fa(fa fa-id-card-o fa-fw)|普通車/自動二輪/大型特殊/レース/ヘリ/航空機/船舶/&br()ウマ/ウェポン/白市民パス||
+|~TwiX|~&icon_fa(fa fa-crow)|@ゆたんぽ||
+|BGCOLOR(#e6e6fa):COLOR(#666):プレイヤー|BGCOLOR(#e6e6fa):COLOR(#666):~&icon_fa(fa fa-address-card-o)|>|&ruby(みるく){未空}あいす|
+|BGCOLOR(#e6e6fa):COLOR(#666):~告知等|BGCOLOR(#e6e6fa):COLOR(#666):~&icon_fa(fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){未空あいす💟🐱 (@ice_miru9)}>>https://twitter.com/ice_miru9]]|
+|BGCOLOR(#e6e6fa):COLOR(#666):~配信場所|BGCOLOR(#e6e6fa):COLOR(#666):~&icon_fa(fa fa-gamepad)|>|&font(#9146FF){&icon_fa(fa fa-twitch)} [[&font(#9146FF){未空あいす (ice_miruku)}>>https://www.twitch.tv/ice_miruku]](主にストグラやストグラコラボ)&br()&font(#FF0000){&icon_fa(fa fa-youtube-play)} [[&font(#FF0000){未空あいす-miruku ice-}>>https://www.youtube.com/channel/UC7quFGFol7Jjeu1-Qq3Fe7g]](その他ゲーム配信や歌枠など)|
+|BGCOLOR(#e6e6fa):COLOR(#666):~切り抜きや&br()SNS投稿に関して|BGCOLOR(#e6e6fa):COLOR(#666):~&icon_fa(fa-solid fa-scissors)|>|MIDDLE:&small(){切り抜きやSNS投稿の際は#未空あいす&br()ではなく[[&font(#696969){#ゆたんぽ}>>https://x.com/search?q=%23%E3%82%86%E3%81%9F%E3%82%93%E3%81%BD&src=hashtag_click]]を付けてください}|
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&size(18){&color(#FFE921){&size(28){&color(#FFDE69){基}}本情報 }} &size(25){&color(#FFDE69){&icon_fa(fa fa-id-card)}}
+・友達100人作るため、幼馴染の[[白狼　フリル]]と一緒にロスサントスにやってきた
+・よく動き、よく喋る。自由に動き回るため、一つの事に縛られるのが苦手
+・1人が苦手で何事でも｢みんなで行きましょう｣が口癖
+・優柔不断な性格で大事な事でも決定権を人に委ねるタイプ
+・小動物と可愛い女性(特にロリっ子)が好き。貢ぐのが生きがい。
+・基本的に女性には挨拶代わりにハグをする。
+・[[ブラック ジャックス>>ブラック　ジャックス]]、[[福田 明宏>>福田　明宏]]とは救急隊の同期。3人揃って借金世代と渾名される。
+・救急隊員として１年強が経ち、医者としてかなり成長しており、後輩の[[執事  K>>執事  K]]からは医療技術についての的確な指導を絶賛された。
+・[[猫又 ぴぴ>>猫又　ぴぴ]]を実の妹のように可愛がっている。
+・[[ラピス  りお>>ラピス  りお]]とは転送前からの親友。
+・3月25日[[UGM]]に正式採用された。
+・[[UGM]]のオープンイベントレースでは従業員総出でレースクイーンを務めた。
+・４月17日暫定的に[[脇  逢魔]]の母親となった。
+・[[くま  ぽこ]]とよく間違えられるが髪色が若干違う。
+・よく下ネタを言う。
+・エモート芸が得意。
+
+
+#region(（Season1）)閉じる
+・第一街人は[[鬼桃　ぷぅ]]。街案内は[[バーバリアン　田中]]にしてもらった
+・この街で一番お世話になっている人、信頼できる人に[[青梅　つばめ]]の名前を上げている(2024年12月時点)
+・異性の推しは[[白井　満太]]→[[&icon_fa(fa-solid fa-paperclip)>>https://www.twitch.tv/ice_miruku/clip/BreakableDiligentToadArgieB8-o8WAY7XMwsxSn4zZ]]
+・初日に、ロスサントスの占い師の一人[[青梅　つばめ]]に占ってもらい、「黒い人たちからの誘惑もあるが安易に決めず、一旦すべての職業を体験してから決めたほうがいい」とアドバイスを貰った
+・独特のイントネーションで会話をし、度々住人から指摘される(例:リ↑サセン、く↑ず↓しろさん)&bold(){ゆたんぽ語}。
+・2024/12/12の誕生日に右手の甲のスマイリーの刺青をいれた→&blankimg(ゆたんぽ_スマイリー.png,x=55,y=55)(2025/01/26に[[ニャンコ・スキー]]も同じ刺青を入れた。)
+・ジャックスに関する言動(他の女性への無意識マウントや意味深なネイル等)が散見し好きなのでは無いかと噂されているが本人曰くただの同僚
+・口癖
+・・「御達者で～」
+・・「ワンちゃんネコちゃん」
+・・「違うんですよ～」
+・・「私じゃないです！」
+・・「だって〇〇さんが！」
+・好きな言葉
+・・「ワンちゃんネコちゃん」
+・・「ち〇ち〇」
+・・「お〇ぱい」
+#endregion
+
+#div(width=330px,bgcolor=#FFDE69){&font(b,#696969,120%){　 &icon_fa(fa fa-briefcase)&space(2)仕事について}}
+#region(開く（Season1）)閉じる
+****仕事全般
+・Yadorigiは基本的に早番の早い時間に出勤している。→[[A2 Cafe]]などの他の飲食店の職業体験を受けるため退職した。
+・白の[[個人医]]の道も考えていた。
+・・理由は遅い時間などの救急隊ワンオペを見て。
+・・ただし1人が苦手という性格からか、非常に高い出勤率にも関わらず、救急隊員が起床していない日の出勤は少なく、ワンオペの経験がほとんどない。
+・&s(){[[救急隊>ロスサントス救急救命隊]]に入隊はしたが【1番は[[BMC>>Bear Moon Custom]]】の精神は変わらずあり、出勤も『この日は[[救急隊>ロスサントス救急救命隊]]、この日は[[BMC>>Bear Moon Custom]]or〇時間だけ[[BMC>>Bear Moon Custom]]、〇時間だけ[[救急隊>ロスサントス救急救命隊]]』といった感じにしっかり分業化する様だ。&s()}
+・・当初はBMC、救急隊の出勤比率は半々の予定だったが結果的には救急隊のでの出勤が多く、現在はBMCの出勤日数、出勤時間は救急隊と比べると極めて少なく稀である。
+****BMC
+・ロスサントス初日に占いをしてもらった[[青梅　つばめ]]と一緒に働きたいと思い[[BMC>>Bear Moon Custom]]に体験に志願した。
+・・24/10/11　[[BMC>>Bear Moon Custom]]体験中にバイトからでも働きたいからとの熱意が[[社長>>にし　のん]]に認められ就職が決まった。
+・・カラーリングのセンスがある。
+・・最近はほとんど出勤できていない。
+****救急隊
+・2024/12/7 救急隊人事部の[[鳥野　ぎん]]に「出張修理20台くらい」と呼び出され、いつの間にかジョブが追加されているサプライズ(救急隊入隊)を受けた。
+・・同期は現状[[ブラック　ジャックス]]と[[福田　明宏]]
+・・2024/12/26 昇格試験を経てランク2に昇格。
+・ゆたんぽ自身の&s(){見境なくハグするくらい}&bold(){女の子大好き}な性格も相まって、病院に来院または運び込まれた患者が男女どちらかによって対応速度に明らかな差がある事をほぼ全同僚に見透かされている。&u(){(※ちなみに即座に駆け寄り治療する対象は当然女の子である)}。
+・・6月上旬、禊の為に1週間の間女の子へのボディタッチが禁止された。だがしかし解禁後、ボディタッチが出来なかった期間分より一層行為が加速している。
+・&bold(){救急隊の不憫枠、また負債者枠。}
+・25年のバレンタインに販売された気球購入(21億4,000万円)の為に救急隊のとある上司から21億円もの借金をし購入。
+・・地道に返済をしていけば良いものを、定期的に誘われる『一発逆転借金返済チンチロ』に敗北し続けた結果、負債額の変動は「21億→18億→21億→16億円」である。&bold(){またチンチロが異常な程弱い}。
+・車両各種の見た目カスタムが某人曰く&s(){(なんか悔しいけど、解釈不一致だけど)}秀でていると言われている。救急隊員が誰かに贈る車両の見た目カスタムはほぼほぼ担当。
+・救急隊のランクアップ試験(雷電＆ヘリコプター)を苦戦の末クリア。2025年5月14日、見事ランク3へ昇格(専用車両は[[加賀　イズミ]]のネオンをもらった)。&bold(){と同時に借金完済。}
+・救急隊の外から見え方を酷く気にしており自身の汚職の禊([[責任者>>元難波　登]]から髪の移植)を外部にはイメチェンと貫き通した。
+
+#endregion(仕事)
+
+*&size(18){&color(#FFE921){&size(28){&color(#FFDE69){交}}友関係 }} &size(25){&color(#FFDE69){&icon_fa(fa fa-group fa-address-card)}}
+　　[[白狼フリル>白狼　フリル]]、[[ニャンコ・スキー]]、[[パンチャン>パン　チャン]]、[[胡將>胡　將]]以外の人には基本的に「〇〇さん」呼び
+#co{文字数が増えたため子ページ作成済みです。子ページを直接部分編集いただくと、こちらの親ページに自動で反映されます。子ページ検索タグ：［ゆた　んぽ］随時加筆、編集中}
+#region(（Season1）)閉じる
+***2026/5/15更新
+#region(開く)
+#include(ゆた　んぽ/交友関係)
+#endregion
+#endregion
+*&size(18){&color(#FFE921){&size(28){&color(#FFDE69){着}}信音 }} &size(25){&color(#FFDE69){&icon_fa(fa fa-mobile-phone)}}
+#region(（Season1）)閉じる
+[[&icon_fa(fa-solid fa-paperclip)>>https://www.twitch.tv/ice_miruku/clip/BlazingFreezingVultureDAESuppy-X7Al6Nndxn6ylsIJ]]「ほ～あた!あた!ほあた!　秘孔　通信を突いた　おまえはもう電話に出ている」　声:[[龍造寺　ケンシロウ]](2024/11/26～)
+#endregion
+*&size(18){&color(#FFE921){&size(28){&color(#FFDE69){所}}有車両等 }} &size(25){&color(#FFDE69){&icon_fa(fa fa-car-side)}}
+#region(（Season1）)閉じる
+***&font(25px){&icon_fa(fa fa-car-side)} 所有車両
+#region(開く)
+#table_style(head=center:#ABD3D8){車両=center,名前=center,備考=center}
+|~種類|~車両|~写真|~名前|~備考|h
+|~🚗|MIDDLE:Peanut|MIDDLE:&blankimg(ゆたんぽ_Peanut.png,x=55,y=55)|MIDDLE:ちびんぽ|MIDDLE:BMC入社祝いとして[[空舞月　りり]]からのプレゼント|
+|~🚗|MIDDLE:Peanut|MIDDLE:&blankimg(ゆたんぽ_ももろん号.png,x=55,y=55)|MIDDLE:ももろん号|MIDDLE:[[豆乳　ちゃんもも]]と[[高橋　滅論]]からの誕生日プレゼント|
+|~🚗|MIDDLE:[[Benefactor SM722>>https://w.atwiki.jp/gtav/pages/2840.html]]|&blankimg(ゆたんぽ_SM722.png,x=55,y=55)|MIDDLE:ゆたんぽ号|MIDDLE:9055体験時に見た目カスタム用に[[上田　さん]]から貰った物&br()[[味野　環九郎]]がカスタム|
+|~🚗|MIDDLE:[[Benefactor Club>>https://w.atwiki.jp/gtav/pages/2602.html]]|&blankimg(ゆたんぽ_田中マン.png,x=55,y=55)|MIDDLE:田中マン|MIDDLE:[[バーバリアン　田中]]からの譲渡 |
+|~🏍️|MIDDLE:[[Powersurge>>https://w.atwiki.jp/gtav/pages/2958.html]]|MIDDLE:&blankimg(ゆたんぽ_ノアちゃんマン2.png,x=55,y=55)|MIDDLE:ノアちゃんマン|MIDDLE:[[ノア　チェンバー]]からの譲渡|
+|~🏍️|MIDDLE:[[Shotaro>>https://w.atwiki.jp/gtav/pages/1682.html]]|&blankimg(ゆたんぽ_Shotaro.png,x=55,y=55)|MIDDLE:ゆたろう|MIDDLE:🔰取れたお祝いに[[三島　みつー]]からのプレゼント|
+|~🚗|MIDDLE:[[Tropos Rallye>>https://w.atwiki.jp/gtav/pages/1642.html]]|&blankimg(ゆたんぽ_ねずみらりー.png,x=55,y=55)|MIDDLE:ねずみらりー|MIDDLE:[[ねずみさん>>えぐち　きの子]]から購入&br()ルーフにBMCのステッカーが貼ってある|
+|~🚗|MIDDLE:[[Jester Classic>>https://w.atwiki.jp/gtav/pages/2209.html]]|&blankimg(ゆたんぽ_JesterClassic2.png,x=55,y=55)||MIDDLE:[[神道　まきぴ]]から購入|
+|~🚲|MIDDLE:一輪車|&blankimg(ゆたんぽ_一輪車.png,x=55,y=55)||MIDDLE:2024/11/20開催の一輪車レースに出場するために購入|
+|~🚗|MIDDLE:[[Freecrawler>>https://w.atwiki.jp/gtav/pages/2337.html]]|&blankimg(ゆたんぽ_Freecrawler.png,x=55,y=55)||MIDDLE:[[青梅　つばめ]]からの誕生日プレゼント|
+|~🚗|MIDDLE:[[FIAT 500>>https://w.atwiki.jp/gtav/pages/2657.html]]&br()(Brioso 300)|&blankimg(ゆたんぽ_FIAT 500.png,x=55,y=55)|MIDDLE:忍号|MIDDLE:[[万十　忍]]からの誕生日プレゼント|
+|~🚗|MIDDLE:[[Brioso 300>>https://w.atwiki.jp/gtav/pages/2657.html]]|&blankimg(ゆたんぽ_Nade edit.png,x=55,y=55)|MIDDLE:Nade edit|MIDDLE:2024/12/26に開催された公務員クリスマスプレゼント交換会&br()にて[[冷泉　ナデシコ]]からのプレゼント|
+|~🚗|MIDDLE:Castella|&blankimg(ゆたんぽ_フリるん.png,x=55,y=55)|MIDDLE:フリるん|MIDDLE:[[白狼　フリル]]からの誕生日プレゼント&br()ナンバープレートには「YUTANPO」の文字が刻まれている|
+|~🚗|MIDDLE:Castella|&blankimg(ゆたんぽ_ぷぅちゃん号.png,x=55,y=55)|MIDDLE:ぷぅちゃん号|MIDDLE:[[ぷぅちゃん>>鬼桃　ぷぅ]]からの誕生日プレゼント&br()ルーフにぷぅちゃんのステッカーが貼ってある|
+|~🚗|MIDDLE:[[Tyrant>>https://w.atwiki.jp/gtav/pages/1967.html]]|&blankimg(ゆたんぽ_Överflöd Tyrant.png,x=55,y=55)|MIDDLE:大川さんから🎁!誕生日求|MIDDLE:[[大　川]]からの誕生日プレゼント|
+|~🚗|MIDDLE:[[Bestia GTS>>https://w.atwiki.jp/gtav/pages/1626.html]]|&blankimg(ゆたんぽ_ノアてあ.png,x=55,y=55)|MIDDLE:ノアてあ|MIDDLE:[[ノア　チェンバー]]からの誕生日プレゼント|
+|~🚗|MIDDLE:[[Clique>>https://w.atwiki.jp/gtav/pages/2431.html]]|&blankimg(ゆたんぽ_Clique.png,x=55,y=55)|MIDDLE:とうか号|MIDDLE:[[つよがり　とうか]]からの誕生日プレゼント|
+|~🚗|MIDDLE:[[Issi Sport>>https://w.atwiki.jp/gtav/pages/2478.html]]|&blankimg(ゆたんぽ_Issi Sport.png,x=55,y=55)|MIDDLE:Zすぽーつ|MIDDLE:[[Zさん>>エスターク・Z・ダークネス]]からの救急隊入隊祝いと&br()誕生日を兼ねてのプレゼント|
+|~🚗|MIDDLE:[[Brioso 300 Widebody>>https://w.atwiki.jp/gtav/pages/2857.html]]|&blankimg(ゆたんぽ_Widebody.png,x=55,y=55)||MIDDLE:[[チェン　マヨ]]からの救急隊入隊祝いと&br()誕生日を兼ねてのプレゼント|
+|~🚗|MIDDLE:[[Speedo Express>>https://w.atwiki.jp/gtav/pages/798.html]]|&blankimg(ゆたんぽ_Speedo Express.png,x=55,y=55)|MIDDLE:ぷぅんぽアゲアゲ賞|MIDDLE:2024/12/19に開催された[[JTS>>ジョアンナテクノサービス]]主催のレースイベント「マチダカート」&br()にて[[ぷぅちゃん>>鬼桃　ぷぅ]]と共にアゲアゲもりもり賞に選ばれ、その景品|
+|~🚗|MOCHI||||
+|~🚗|TURTLE||||
+|~🚗|MIDDLE:[[Guardian>>https://w.atwiki.jp/gtav/pages/1354.html]]|MIDDLE:&blankimg(ゆたんぽ_Guardian.png,x=55,y=55)||[[青梅　つばめ]]がカスタム&br()荷台に[[空舞月　るる]]が描いたゆたんぽのステッカーが貼ってある&blankimg(ゆたんぽ_Guardian2.png,x=55,y=55)|
+|~🚗|[[Turismo R>>https://w.atwiki.jp/gtav/pages/975.html]]||||
+|~🚗|[[MonstroCiti>>https://w.atwiki.jp/gtav/pages/3028.html]]||||
+|~🚗|Snowmobile||||
+|~🚗|[[Winky>https://w.atwiki.jp/gtav/pages/2648.html]]||||
+#endregion
+///|~🚗|[[]]||||
+***&font(25px){&icon_fa(fa-solid fa-helicopter)} 所有航空機
+#region(開く)
+#table_style(head=center:#ABD3D8){車両=center,名前=center,備考=center}
+|~種類|~車両|~写真|~名前|~備考|h
+|~🚁|MIDDLE:[[Sparrow>>https://w.atwiki.jp/gtav/pages/2654.html]]|&blankimg(ゆたんぽ_Sparrow.png,x=55,y=55)|||
+|~🛩️|MIDDLE:[[Ultralight>>https://w.atwiki.jp/gtav/pages/1816.html]]&br()(紙飛行機)|&blankimg(ゆたんぽ_ウルトラ豆やん.png,x=55,y=55)|MIDDLE:ウルトラ豆やん|MIDDLE:[[豆　やん]]からの誕生日プレゼント|
+|~🛩️|MIDDLE:[[Dodo>>https://w.atwiki.jp/gtav/pages/1309.html]]|&blankimg(ゆたんぽ_Dodo.png,x=55,y=55)|MIDDLE:どーどー!&br()にしのん社長🐰|MIDDLE:[[にし　のん]]からの誕生日プレゼント|
+|~🎈|MIDDLE:VooDoo Dooballoo&br()(熱気球)|&blankimg(ゆたんぽ_気球.png,x=55,y=55)|||
+//|~|||||
+#endregion
+***&font(25px){&icon_fa(fa fa-ship)} 所有船
+#region(開く)
+#table_style(head=center:#ABD3D8){車両=center,名前=center,備考=center}
+|~種類|~車両|~写真|~名前|~備考|h
+|~⛵|MIDDLE:[[Longfin>>https://w.atwiki.jp/gtav/pages/2676.html]]|&blankimg(ゆたんぽ_ろんぐひろ.png,x=55,y=55)|MIDDLE:ろんぐひろ|MIDDLE:[[亀山　ヒロ>>焼野原　ひろし]]からの誕生日プレゼント|
+|~⛵|MIDDLE:[[Longfin>>https://w.atwiki.jp/gtav/pages/2676.html]]|&blankimg(ゆたんぽ_チョコポート.jpg,x=55,y=55)|MIDDLE:んぽチョコボート||
+#endregion
+***&font(25px){&icon_fa(fa fa-car-side)} 借りている車両
+#region(開く)
+#table_style(head=center:#ABD3D8){車両=center,名前=center,備考=center}
+|~種類|~車両|~備考|h
+|~🚗|[[Bravado Youga Classic 4x4>>https://w.atwiki.jp/gtav/pages/2635.html]]|リサセン用に[[白狼　フリル]]から借りている|
+///||||
+#endregion
+#endregion
+
+*&size(18){&color(#FFE921){&size(28){&color(#FFDE69){ク}}ローゼット }} &size(25){&color(#FFDE69){&icon_fa(fa fa-shirt)}}
+#region(（Season1）)閉じる
+#table_style(head=center:#FFDE69:b){}
+|~&blankimg(初期1.png,x=113,y=250)|~&blankimg(ゆたんぽ_冬服.png,x=113,y=250)|~&blankimg(ゆたんぽ_チャイナ.png,x=113,y=250)|~&blankimg(ゆたんぽ_チャイナ2.png,x=113,y=250)|~&blankimg(ゆたんぽ_バニー.png,x=113,y=250)|~&blankimg(ゆたんぽ_ギンガムチｪｯク.png,x=113,y=250)|~&blankimg(ゆたんぽ_BIG4.png,x=113,y=250)|
+|~猿とカレー&br()(私服)|~猿とカレー&br()(私服)(冬服)|~チャイナ|~チャイナ2|~バニー|~チェック柄|~乳がでかくなる服|
+
+#table_style(head=center:#FFDE69:b){}
+|~&blankimg(ゆたんぽ_BIG3.png,x=113,y=250)|~&blankimg(ゆたんぽ_yellow.png,x=113,y=250)|~&blankimg(ゆたんぽ_オーバーオール.png,x=113,y=250)|~&blankimg(ゆたんぽ_kawaii.png,x=113,y=250)|~&blankimg(ゆたんぽ_サンタ.png,x=113,y=250)|~&blankimg(ゆたんぽ_Urashima.png,x=113,y=250)|~&blankimg(ゆたんぽ_はろうぃん.png,x=113,y=250)|
+|~乳がでかくなる服&br()布教用|~チェック黄色&br()の服！|~オーバーオール|~なんか可愛い!|~サンタ|~海上レストラン|~はろうぃん|
+
+#table_style(head=center:#FFDE69:b){}
+|~&blankimg(ゆたんぽ_BMCツナギ.png,x=113,y=250)|~&blankimg(ゆたんぽ_救急体験.png,x=113,y=250)|~&blankimg(ゆたんぽ_救急隊冬.png,x=113,y=250)|~&blankimg(ゆたんぽ_パジャマ.png,x=113,y=250)|~&blankimg(ゆたんぽ_Yadorigi.png,x=113,y=250)|~&blankimg(ゆたんぽ_Yadorigi2.jpg,x=113,y=250)|~&blankimg(ゆたんぽ_Yadorigiハロウィン.png,x=113,y=250)|
+|~BMCツナギ|~救急隊|~救急隊(長袖)|~救急隊&br()(パジャマ)|~Yadorigi|~Yadorigi&br()(はげ)|~Yadorigi&br()(ハロウィン)|
+
+#table_style(head=center:#FFDE69:b){}
+|~&blankimg(ゆたんぽ_ださセーター.png,x=113,y=250)|~&blankimg(ゆたんぽ_チア.png,x=113,y=250)|~&blankimg(ゆたんぽ_マチダカート.png,x=113,y=250)|~&blankimg(ゆたんぽ_白.png,x=113,y=250)|~&blankimg(ゆたんぽ_ハンバーガー教.png,x=113,y=250)|~&blankimg(ゆたんぽ_着物.png,x=113,y=250)|~&blankimg(ゆたんぽ_正月服.png,x=113,y=250)|
+|~ださセーター|~チア|~町田カート|~白|~ハンバーガー教&br()集会服|~着物|~正月|
+
+#table_style(head=center:#FFDE69:b){}
+|~&blankimg(ゆたんぽ_ワンピ.png,x=113,y=250)|~&blankimg(ゆたんぽ_JTS.png,x=113,y=250)|~&blankimg(ゆたんぽ_パイナポ.png,x=113,y=250)|~&blankimg(ゆたんぽ_ギャラクシー.png,x=113,y=250)|~&blankimg(ゆたんぽ_ノビｰ.png,x=113,y=250)|
+|~1月ワンピ|~JTS|~パイナポ2号|~ギャラクシー|~ノビｰランポ|
+
+#table_style(head=center:#FFDE69:b){}
+|~&blankimg(ゆたんぽ_寝巻.png,x=113,y=250)|~&blankimg(ゆたんぽ_衛生外.png,x=113,y=250)|
+|~寝巻(🔕)|~🔕|
+
+//~|
+//~&blankimg()|
+#endregion(クローゼット)
+
+*&size(18){&color(#FFE921){&size(28){&color(#FFDE69){友}}人からの絵の贈り物 }} &size(25){&color(#FFDE69){&icon_fa(fa fa-image)}}
+#region(開く)
+#table_style(head=center){}
+|&blankimg(ゆたんぽ_あげころ誕プレ.png,x=150,y=200)|MIDDLE:&blankimg(ゆたんぽ_加賀イズミ誕プレ2.jpg,x=200,y=113)|MIDDLE:&blankimg(ゆたんぽ_るる誕プレ.jpg,x=200,y=113)|
+|~[[揚物　ころも]]|~[[加賀　イズミ]]|~[[空舞月　るる]]|
+#endregion(友人からの絵の贈り物)
+
+*&size(18){&color(#FFE921){&size(28){&color(#FFDE69){ア}}ーカイブ }} &size(25){&color(#6441A4){&icon_fa(fa fa-twitch)}}
+#co{文字数が増えたため子ページ作成済みです。子ページを直接部分編集いただくと、こちらの親ページに自動で反映されます。子ページ検索タグ：［ゆた　んぽ］随時加筆、編集中}
+#region(開く)閉じる
+#include(ゆた　んぽ/アーカイブ)
+#endregion
+
+*&size(18){&color(#FFE921){&size(28){&color(#FFDE69){別}}キャラクター }} &size(25){&color(#FFDE69){&icon_fa(fa fa-group fa-address-card)}}
+&font(red,b){※ネタバレ注意！}
+#region(開く)
+[[ころっけ>>https://w.atwiki.jp/streamergta5/pages/3526.html]]
+
+//別キャラクター名記載の詳細については、編集相談所ログ2024-03-26 06:13:03～を参照願います。
+#endregion
+*&size(18){&color(#FFE921){&size(28){&color(#FFDE69){シ}}ャッフルパージデー}} &size(25){&color(#6441A4){&icon_fa(fa fa-twitch)}}
+***[[SPD2025>https://w.atwiki.jp/streamergta5/pages/2554.html]]
+#region(開く,close,remember)SPD2025
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|h
+|03/31|1|[[【ストグラ】#ストグラSPD2025 シャッフルパージデー○○してはいけない?!ゆたんぽどうなる？！>>https://www.twitch.tv/videos/2420332381]]|
+|04/01|2|[[【ストグラ】#ストグラSPD2025 シャッフルパージデー○○してはいけない?!ゆたんぽが警察！？>>https://www.twitch.tv/videos/2421034791]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(SPD2025)
+
+*&size(18){&color(#FFE921){&size(28){&color(#FFDE69){ス}}トグラコラボ }} &size(25){&color(#FFDE69){&icon_fa(fa-brands fa-youtube)}}
+***#1~
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|配信タイトル|参加者|h
+|2024/10/23|1|&font(#6441A4){&icon_fa(fa fa-twitch)}[[突発ふるぱ！ストグラメンバー！>>https://www.twitch.tv/videos/2282637720]]|[[けっつん>>けっつん　太郎]]/[[あしさんり>>街雄　サンリ]]/[[ゆふな>>冬那　フナ]]/[[月夜見レオ>>無月　レオ]]|
+|2024/11/18|2|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ひらいけ】マイクラ初心者です！のんびり遊ばせていただきます！>>https://www.twitch.tv/videos/2304876527]]|[[あっくん大魔王>>マカイーノ　アッコパス]]/[[真澄せんの>>青梅　つばめ]]|
+|MIDDLE:2024/12/02|MIDDLE:3|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ひらいけ】マイクラ初心者です！建築と海底神殿にいきます！かぜひきました>>https://www.twitch.tv/videos/2316426147]]|[[アメザリひらい>>平井　善之]]/[[にしのん>>にし　のん]]/[[ほろん>>高橋　滅論]]/[[天唄サウ>>星唄　サウ汰]]/[[天城てん>>葉風邪　ナイ]]/&br()[[猫街もも>>あやな　みれい]]/[[蝦名彩香>>えびな　ヨネ]]/[[バル子>>山田　パルコ]]/[[あっくん大魔王>>マカイーノ　アッコパス]]|
+|2024/12/09|4|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ひらいけ】マイクラ初心者です！建築とネザーで素材集め！>>https://www.twitch.tv/videos/2322319232]]|[[花束ゆいは>>御花　はな]]|
+|2025/01/06|5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【Unraild】救急隊さんコラボ！てんさんこんたみさんあんないさん！>>https://www.twitch.tv/videos/2345834414]]|[[天城てん>>葉風邪　ナイ]]/[[コンタミ>>ウィル　ナイアー]]/[[あんない>>ブラック　ジャックス]]|
+|2025/02/01|6|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【The Headliners】救急隊コラボ！w/稲荷いろはさん,のすけさん,コンタミさん>>https://www.twitch.tv/videos/2369433812]]|[[稲荷いろは>>イナ　イロハ]]/[[のすけ>>サンクチュアリ　たえこ]]/[[コンタミ>>ウィル　ナイアー]]|
+|2025/02/03|7|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【Unraild】救急隊さんコラボ！天城てんさん,コンタミさん,あんないさん！>>https://www.twitch.tv/videos/2371289466]]|[[天城てん>>葉風邪　ナイ]]/[[コンタミ>>ウィル　ナイアー]]/[[あんない>>ブラック　ジャックス]]|
+|2025/02/08|8|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【マリパジャンボリー】救急隊コラボ！W/ももみさん,御侍さん,あんないさん>>https://www.twitch.tv/videos/2375498296]]|[[小花衣ももみ>>ももみ　マルフォイ]]/[[空衣御侍>>雷堂　ましろ]]/[[あんない>>ブラック　ジャックス]]|
+|MIDDLE:2025/02/24|MIDDLE:9|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ルマ島】救急隊コラボ！w/ももみさん,御侍さん,あんないさん/寝落ちにおすすめ>https://www.twitch.tv/videos/2389878041]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ルマ島】救急隊コラボ！w/ももみさん,御侍さん,あんないさん/寝落ちにおすすめ>https://www.twitch.tv/videos/2389964850]]|MIDDLE:[[小花衣ももみ>>ももみ　マルフォイ]]/[[空衣御侍>>雷堂　ましろ]]/[[あんない>>ブラック　ジャックス]]|
+|2025/02/25|11|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】103日目🔰ゆたんぽです！救急隊出勤！→ルマ島コラボ/w/ももみさん,御侍さん,あんないさん>https://www.twitch.tv/videos/2390677619?t=02h34m55s]]|[[小花衣ももみ>>ももみ　マルフォイ]]/[[空衣御侍>>雷堂　ましろ]]/[[あんない>>ブラック　ジャックス]]|
+|2025/02/26|12|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】104日目🔰ゆたんぽです！救急隊出勤！→24時ルマ島コラボ/w/ももみさん,御侍さん,あんないさん>https://www.twitch.tv/videos/2391516588?t=05h21m06s]]|[[小花衣ももみ>>ももみ　マルフォイ]]/[[空衣御侍>>雷堂　ましろ]]/[[あんない>>ブラック　ジャックス]]|
+|2025/02/28|13|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【MHWs】モンハン初心者が行く！救急隊コラボ🚑w【小花衣ももみ/空衣御侍/あんない】※ネタバレ注意です！>https://www.twitch.tv/videos/2393153043]]|[[小花衣ももみ>>ももみ　マルフォイ]]/[[空衣御侍>>雷堂　ましろ]]/[[あんない>>ブラック　ジャックス]]|
+|2025/03/01|14|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ→MHWs】救急隊ちょっとだけ出勤！24時～モンハン初心者が行く！救急隊コラボ🚑w【小花衣ももみ/空衣御侍/あんない】※ネタバレ注意です！>https://www.twitch.tv/videos/2394259991?t=01h49m53s]]|[[小花衣ももみ>>ももみ　マルフォイ]]/[[空衣御侍>>雷堂　ましろ]]/[[あんない>>ブラック　ジャックス]]|
+|2025/03/02|15|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【MHWs】モンハン初心者が行く！救急隊コラボ🚑w【小花衣ももみ/空衣御侍/夢咲刻夜】※ネタバレ注意です！ちょっとだけちょっとだけ…>https://www.twitch.tv/videos/2395306024]]|[[小花衣ももみ>>ももみ　マルフォイ]]/[[空衣御侍>>雷堂　ましろ]]/[[夢咲刻夜>>命田　守]]|
+#right(){&link_up(🔝ページTOPへ)}
+//|//||&font(#6441A4){&icon_fa(fa fa-twitch)}[[]]||
+#endregion
+&small(){※ &font(#6441A4) Twitchの配信アーカイブは&underline(){60日経過すると視聴できなくなります}}
+
+*&size(18){&color(#FFE921){&size(28){&color(#FFDE69){子}}ページ一覧 }} &size(25){&color(#FFDE69){&icon_fa(fas fa-book-open)}}
+
+[[ゆたんぽ/交友関係>https://w.atwiki.jp/streamergta5/pages/2368.html]]
+
+[[ゆたんぽ/アーカイブ>https://w.atwiki.jp/streamergta5/pages/2378.html]]
+
+
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,1288 @@
+***プロフィール
+//&image(ここに画像のURLを入力,y=300)
+#slide_img(auto=4,position=left,width=290,height=435){スクリーンショット 2024-06-04 231520.png,菖光エンジニア2.png,警察.png}
+
+//ここからプロフィール
+#table_color(#3AEFFD)
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#3AEFFD:#fff){シーズン=#e77:#fefefe:b:center}
+|~&color(#AA2AD6){シーズン}|&color(#AA2AD6){&icon_fa(fa fa-calendar)}|&color(#AA2AD6){Season1}|&color(#AA2AD6){Season2}|h
+|~&color(#AA2AD6){名前}|~&color(#AA2AD6){&icon_fa(fa fa-user)}|>|&ruby(よすみの){よすみの}　&ruby(かど){かど}|
+|~&color(#AA2AD6){出身地}|~&color(#AA2AD6){&icon_fa(fa fa-location-dot)}|>|日本&small(){(ライセンス上はセントビンセント及びグレナディーン諸島)}|
+|~&color(#AA2AD6){誕生日}|~&color(#AA2AD6){&icon_fa(fa fa-cake-candles)}|>|不明&small(){(ライセンス上は表記されているが現状、不詳の設定)}&br()&small(){(国籍もだが表示されると思わず適当に入力してしまったとの事)}|
+|~&color(#AA2AD6){転入日}|~&color(#AA2AD6){&icon_fa(fa fa-plane-arrival)}|2023年09月05日 (&countup(2023/09/05,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~&color(#AA2AD6){職業}|~&color(#AA2AD6){&icon_fa(fa fa-university)}|ハンバーガー屋「[[アイアンバーガー]]」店員&br()メカニック「[[菖光エンジニア]]」Rank3&br()[[警察官>>ロスサントス警察]] &small(){2024/07/21～(&countup(2024/07/21,yd)経過)}&br()&space(5)&small(){(本署) 2024/07/21～2025/03/28}&br()&space(5)&small(){(砂漠署) 2025/03/28～2025/09/21} &br()&space(5)&small(){・階級はGrade:2のSergeant(巡査部長)}&br()&space(5)&small(){・[[特殊部隊SWAT>ロスサントス警察#SWAT]]：ランク1}&br()&s(){&s(){&s(){[[ゴシップ記者>>記者]]「やすみのかぞく編集部}}」&small(){(2024/6/19~2024/7/21)}}&small()|[[警察官>>ロスサントス警察]] &small(){2025/12/19～(&countup(2025/12/19,yd)経過)}&br()&space(5)&small(){(砂漠署) 2025/12/19〜}&br()&space(5)&small(){・階級はGrade:2のSergeant(巡査部長)}&br()&space(5)&small(){・[[特殊部隊SWAT>ロスサントス警察#SWAT]]：ランク2}&br()飲食店「[[after U>>https://w.atwiki.jp/streamergta5/pages/3732.html]]」店員|
+|~&color(#AA2AD6){Twix}|~&color(#AA2AD6){&icon_fa(fa fa-crow)}|>|@yosumino3（s1・s2共通）|
+|~&color(#AA2AD6){レーサー名}|~&color(#AA2AD6){&icon_fa(fas fa-car)}|&ruby(すみっこぐらっしー){SMGラッシー}||
+|BGCOLOR(#29EAEB):~&color(#000000){プレイヤー}|BGCOLOR(#29eaeb):COLOR(#000):~&icon_fa(fa fa-address-card)|>|かど〔しょうじ一味〕|
+|BGCOLOR(#29EAEB):~&color(#000000){告知等}|BGCOLOR(#29eaeb):COLOR(#000):~&icon_fa(fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/Fado_Piver]]|
+|BGCOLOR(#29EAEB):~&color(#000000){配信場所}|BGCOLOR(#29eaeb):COLOR(#000):~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/cadomeee]]|
+|BGCOLOR(#29EAEB):~&color(#000000){切り抜き}|BGCOLOR(#29eaeb):COLOR(#000):~&icon_fa(fa fa-video fa-fw)|>|&font(#c9243a){&icon_fa(fa fa-youtube-play)}[[&font(#c9243a){YouTube}>>https://youtube.com/playlist?list=PLRj7qDi8sV-nzhKmkiQuDDfLs7wVYUMki&si=R4yaU5Rt93j5kGqY]]|
+|BGCOLOR(#29EAEB):~&color(#000000){アーカイブ}|BGCOLOR(#29eaeb):COLOR(#000):~&icon_fa(fa fa-video fa-fw)|&font(#c9243a){&icon_fa(fa fa-youtube-play)}[[&font(#c9243a){Season1}>>https://youtube.com/playlist?list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48]]|&font(#c9243a){&icon_fa(fa fa-youtube-play)}[[&font(#c9243a){Season2}>>https://www.youtube.com/playlist?list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN]]|
+
+#region(目次を開く,close)目次
+#contents(fromhere=true,level=2)
+#endregion　
+**基本情報
+***&size(110%){&bgcolor(#654f87){&nbsp()&font(#ffffff,90%){　入国経緯}&nbsp(6)}}
+・かつて日本で着ぐるみバイトをしていたが上司がブラックだったため、バックレて着ぐるみのままロスサントスへと逃げてきた。しかし、亡命先のロスサントスにはその上司、[[竹井　勝痔]]がすでに引っ越してきており、わずか２日目にして対面した。
+・日本でもともと看護師をやっていた[[ゆちゃ　めろでぃ]]に、ブラック上司の件を相談しており以前から世話になっていた。
+
+***&size(110%){&bgcolor(#654f87){&nbsp()&font(#ffffff,90%){　人物}&nbsp(6)}}
+・街に起きてこない日は一日中部屋に引きこもってTwiXを見ており、「TwiXはネタツイやどうでもいいツイートばかりが流れてきて欲しい」と願っている。
+・SKEの先輩である[[羽山　ペティ]]曰く、よすみのかどは「[[科場　諸朋]]をこねくり回して角という角を取りまくって、優しさをプラスした感じ」らしい。
+・会話や言動、接客が基本的に適当で、よく「脊髄で喋ってる」と言われる。
+・・コンビニ強盗の人質解放条件で歌わされそうになった時は人質解放を諦めて帰ろうとしたり、[[SKE]]で勤務している時には基本的に他の店員に修理を任せたり、[[アイアンバーガー]]店員の時にはオーダーを聞いて3秒で内容を忘れたりする。
+・・こういった前科があるためか、3ジョブ全てが埋まっていながらその全てが「副業」扱いをされている。本人も特に否定はしない。（なお、本人いわく本業はSKE。）
+・方向音痴なところがあり、行きたい場所にピンを指さないと必ず迷ってしまう。警察体験中には本署の出口がわからずに本署内をグルグル回っていたことがある。
+・シングルタスカーで、複数の数字を出されると全てを忘れる。しかし、警察署でのライセンス発行の際は、三方面から一度に話しかけられるも、上手く捌いていた（？）
+・警察就職前からSKEに勤めている事もあり、黒市民、白市民ともに、それなりに広く浅い人間関係を築いている。
+・・「副業警察官」として認知されている為、非番の時に、黒市民が警察など居ないかのように目の前で犯罪をすることが多々ある。勿論、よすみのかどが口を出すことは無い。
+・・「副業警察官」を徹底しているからか、稀に「かどならいいか」と犯罪者に言われ、得することもある。（コンビニ強盗後やフリーカ対応時の人質解放条件の難易度を下げてくれるなど）
+・シリアスが合わない
+・・[[餡ブレラ]]による[[Violet Fizz]]襲撃事件の事の発端となる[[ヤミー　エンデバー]]拉致事件が目の前で発生する。[[アルフォート　ウェスカー]]がヤミーを拘束して禍々しい雰囲気が漂う中彼は、呑気に足を伸ばして地べたに座っていた。
+・・[[ゆちゃ　めろでぃ]]に対して押し売りをした際、それを耳にした複数人の黒市民に詰められるも全く動じず、彼のノリの軽さや適当さ、急にでる謎の真面目さから「コイツやりづれぇな」と、詰めてきた側が戸惑っていた。
+・・餡ブレラによる警察署襲撃事件の際、警察に出勤しようとしていたが市民に今警察署襲撃が起きていると教えられ、SKEに帰った。(その後しっかり対応した)
+・もともと本署所属だったが[[バーバリアン　田中]]に「店舗を渡り歩くだけで評価される」と勧誘され快諾。砂漠署所属となった。なお砂漠署のメンバーを聞いた際には「いいですね、倫理観がなくて」と答えた。
+・[[バーバリアン　田中]]からランク昇格試験として&u(){飲食物を30種類集める}という課題が与えられたが、[[はままるうどん]]でメニューを全種類1個注文するというグリッチを使い、わずか15分でクリアした。
+**交友関係
+よすみのかど視点のみの情報となっています。
+
+***🔧SKE
+#region(SKE)閉じる
+
+[[羽山　ペティ]]
+・「これいいな」と思った車両を見つけるとおすすめし合ったり、一緒に収穫祭に行ったりする仲だが、お互いに友達とは認めない。
+・ゴシップ記者のジョブに就くのを勧めてくれた。記事の内容や文章を一緒に考えたり、記事に載せる写真を撮る時にも協力してくれた。
+・かどが警察である事に不信感や不満を抱いている。
+　ペティ「警察向いてないですよ」
+
+・SKE勤務中、従業員に『[[Bellows]]』に行くと伝えると、それを他の店と勘違いしたペティに「『ペティのリップ』を買ってきて」と頼まれる。彼女はすぐに勘違いに気づき『やっぱりいいです』とキャンセルした。
+・・数時間後、たまたま『[[Merry&Belle]]』に来店したかどはそこで『ペティのリップ』が売っている事を知り、一度頼みを取り消されたにも関わらず購入。
+・・ペティには直接渡さず、SKEのスタッシュの中の目立つ場所に入れておいた。
+・餡ブレラ事変(2025/6/13)の際、妹の[[羽山　パティ]]に依頼されUFORUまで様子を見に行き、タワー屋上で行われている戦いを二人でTV観戦する。その戦いでパティの番が来たのを目の当たりにしたペティは、しばし狼狽した末「もしパティちゃんが〇ぬような事になったら、自分の頭を撃ってほしい。」という旨をよすみのかどに頼み、彼は若干戸惑いながらも申し出を受諾する。
+
+[[白　雲隠]]
+・髪色が同じような色合いだからか、時々似ていると言われることがある、ペティの元ストーカー兼SKEの後輩。&br()雲隠がSKEのシャッター越しにペティを眺める不審者写真を持っている。
+・雲隠がペティを口説いている場面を見かけた際には｢キッショ｣とシンプルな悪口を吐いた。
+・友達か雲隠に聞かれた際には曖昧に返し、友達になるか聞かれた時には結構と断ったり、友達料を設定し雲隠へ支払うシステムならいいと答えている。&br()しかし、[[大川>大　川]]と[[小峯>小峯　玲]]に友達がいるか聞かれた際には、Twixをフォローしてくれているからという理由で友達と返答していた。
+・警察体験を終え、無事合格。晴れて、警察としても後輩になった。
+・警察出勤中、並んで立っていたところ似ていると5回ほど言われた為、雲隠には個性が足りないと主張し、激ダサポリスベストを着用させることに成功した。
+
+[[猪狩　翔太]]
+・勤め先のSKEの前社長。
+・知識と経験が豊富なため、様々な場面で信頼している。
+・・とりわけ車両については抜群の知識量なので、車両関係の歪みの相談や、新車購入の相談を受けてもらっている。
+・街に来た当初は、お金稼ぎのためのごみ拾いで大変お世話になった。
+・・ごみ拾いRTAを極めており、効率よく収集するために、一定距離離れてはまた戻る方法を生み出していた。（200mほど離れると、ゴミの配置がリセットされる）&br()この時[[ゆちゃ　めろでぃ]]も一緒に行動しており、彼女らと「この辺りの心無きはシャイだから、自分たちが離れたタイミングでゴミ出しをしている。」という考えに落ち着いた。
+
+#endregion(SKE)
+
+***🚓警察
+#region(警察)閉じる
+
+[[ジャック　馬ウアー]]
+・警察署長。転送後何故か若返った。
+・新たに追加されたショート動画アプリ『トレンディ』を一緒に撮影している。
+[[ましゃかり　トラボルタ]]
+・東署の署長。トラボルタくん、トラボルタ。
+・転送前はキャップ呼びであったが、名前が変わった為さぶ郎と共に名前で呼んでいる。
+・強盗でピリついていた日には、さぶ郎としりとりで和ませようとしたが、順番を飛ばしてしまい失敗した。｢俺のターンないやん？｣
+[[安保　さぶ郎]]
+・副業警察のかどの事を何かと気にかけてくれる、優しくて頼れる先輩。
+・かどのあまりのチェイスの下手さに感銘を受けた(？)さぶ郎に「ぽんこつ部隊」に誘われる。
+・かどが喋るだけで面白いと思っている。
+・テーザーを撃たれた時の反応がおかしいといじられたことがある。
+・[[セリーヌ>>セリーヌ　ゴデス]]に名付けられた「くらやみのかど」を名前にしていると、心を閉ざしたのかと心配し電話を掛けてきたことがある。
+[[バーバリアン　田中]]
+・砂漠署の署長。S2では一時、警察をクビになり、探偵として活動後、署名活動を経て復職。
+・店舗強盗の対応後2人で車に乗った際、方向音痴が故に進行中のユニオンのど真ん中へと向かってしまいそのまま巻き込まれ、ダウンさせてしまった事がある。
+[[ボイラ　テンガリン]]
+・砂漠署のセクハラでバズった副所長。S2では一時、警察をクビになり、探偵として活動後、署名活動を経て復職。
+・定期的にスピードメーターを出しているか確認をしようとしてくる為聞かれるたび適当に返事をしている。なお、復職後に早速出し方を覚えているかの確認が入った。
+・会話することが好きらしいが、二人で会話した際全く盛り上がらなかった。
+・誕生日（誕生日ではない）を祝ったことがある。
+[[竹井　勝痔]]
+・日本にいた時の上司。
+・この男から逃れるためにロスサントスへやってきたが、偶然同タイミングで竹井もこの街にやってきていた。
+・警察に就職したため、またもや竹井の部下になっている。
+・転送後、死んだかと思われていたが5月某日突如として出現した。
+[[二部　らるたる]]
+・砂漠署の同僚、ギャンブラー。
+・何とも言い難い服のセンスを持っている。
+・砂漠署の署長・副署長がクビで空席となった際、[[ボクジュール すずり>>https://w.atwiki.jp/streamergta5/pages/3555.html]]に依頼した賞状で自分自身で署長へと任命し、砂漠署署長となった。
+[[ブロッコリー　斎藤]]
+・ブロッコリーな先輩。S2では一時、警察をクビになり、探偵として活動後、署名活動を経て復職。
+・よく冗談を言い合っている。
+・値段交渉が下手。
+[[犬上　リオ]]
+・同じ世代の中でもほぼ同日に入った同期、勤務スタイルから髪の色まで真逆。しかし、リオから伝えられたが実は、髪型が一緒な模様。
+・同時期に入ったにも関わらず、大型等対応力があり自身との差から感心している。様々な話題でランク差や知識の差があり、度々同期だったよね？と驚かせている。
+・暇かどうか聞かれついて行ったところ、「危ないから気を付けて行ってくれ」と、ある住居に連れて行かれ、無限に落ち続け抜け出せない世界へとイタズラで落とされた。
+・わんもーCafeにてコイン乞食を行い、猫又ぴぴと共にクッキーを分け合いたいと夢を語ったところ1000枚コインを恵んでもらう。
+[[ぺん　ゆきや]]
+・砂漠署の後輩。脱糞のぺんゆきや。
+・アヒルボートでパシフィックへ向かったり、ヘリから飛び降りダイナミックエントリーしようと考えたり、よく互いにふざけあっている。
+[[味野　環九郎]]
+-よく&s(){17時5時}19時3時で働いている後輩。
+-パスタをよく食べていると思っている。パスカンあるいはパスタ環九郎。定期的に味野に今日何を食べたのか確認するパスタチェックを行っている。
+・紫市民に拉致された際、｢君でもいい｣と言われかどを置いてその場から逃亡した。
+・瞑想前に味野に轢かれ、問い詰めようとすると逃亡の末、警察署前の家に逃げ込まれロケランを放ったことがある(なお味野には当たらなかった)。
+・上記の事もあってか、かどの事をサイコパスだと思っている。
+・街がチルで一緒にレースへでた際、白市民パス発行の為1位だったレースを抜けた姿を見てその対応力に感心している。(変わりたかったが、&s(){ランク}諸事情があった為、自身はレースをそのまま走った。)
+・PCの不調で落ち、そのまま起きて来なかった日に[[皇帝>ニックス　リア]]・[[おばちゃん>>山本　寅子]]と遺影を作成し、警察の公式アカウントで告知したのち、葬儀をとりおこなった。
+・S2序盤ではパトカーが個人1台しかなく、インパウンド回収される度に連日アシカンとして頼みすぎた結果、別件で名前を呼んだところ｢インパウンドですか？｣と返された。
+[[メチャ南  よる>https://w.atwiki.jp/streamergta5/pages/1992.html]]
+- 科捜研所属の後輩。
+-2人合わせて「伊勢えびす」の伊勢担当。
+[[真島  ルイ>https://w.atwiki.jp/streamergta5/pages/2055.html]]
+- 東署所属の後輩。
+-定期的に中型対応人数残り1人の状態でどちらが向かうかを互いに譲り合っている。
+[[ほのぼの山　すごす]]
+・後輩。ぼこぼこ山ころす、ごっさんさん。
+・署長と共にトレンディの動画の内容を考え撮影をしている。
+[[こはる　はる]]
+・体験の時、パティからU FOR Uに連れて来てと言われ連れてきたものの勝手に蛙化されてしまった後輩。
+・合格してからも時々話しかけてくるようになった。&br()U FOR Uでご飯を奢った時の個数が少なかったことについて少し根に持たれている模様。
+・何故か一緒に大型に行っていない筈だが銃の扱いはよすみのより自分の方が上手いと謎の自信を持ってペティ&パティに向かって言ったことがある。
+・次パティが店を開けたら逆に2人でパティに蛙化してやろうと計画中である。
+
+#endregion(警察)
+
+***after U
+#region(after U)閉じる
+
+[[ブラック ジャックス>>https://w.atwiki.jp/streamergta5/pages/2019.html]]
+- 救急隊兼、after Uのオーナー。
+-U FOR Uで何度も押し売りをしてきた店員。
+
+[[猫又　ぴぴ]]
+- 記者兼、after Uの店長。
+・U FOR Uでいつも通りキリの悪い注文をしても快く引き受続けてくれた店員。
+・ぴぴがロスサントスに来た初期の時期に知り合った。
+・お店の全商品を1品ずつ買ってコンプリートしようと約束している。
+・頼れるお兄さんだと思ってくれている。
+・記事のネタになると思い共にガソリンスタンドの価格帯を調査した。（なお、個人経営開始前で変動がなかった為、調査は中断。）
+・転送後は、かつてのU FOR U跡地にジャックスと共に後継店を建てるということで店員へと勧誘された。
+
+[[柳瀬 つん>>https://w.atwiki.jp/streamergta5/pages/793.html]]
+- after UそしてかつてはSKEの同僚のザウルス。
+-お互いによく適当な会話をし合っている。
+
+#endregion(after U)
+
+
+***◻️白市民
+#region(白市民)閉じる
+
+[[パン　チャン]]
+・何故かよすみのかどの保護者は[[羽山　ペティ]]だと思い込んでいる。
+・かどの独特な感性や創造性を見込まれ、パン チャンの計画するロスランド博物館の作品を作ってくれないかと言う依頼を受けている。
+・パンチャンが警察体験を受けようか迷っている時はかどに相談を持ちかけた。
+・・警察体験の結果報告を受け、何故不合格だったと思うか聞かれたかどは「そもそも僕に相談をすることが間違いだったんじゃないか」と答えた。
+
+[[月乃　えるな]]
+・[[半沢　直ふぃ]]の仲介で誘われた[[Lunaflix]]の社長。
+・・動画編集者として手伝うかも知れないという話になったが、よすみのかどが返答を渋っているため、街中で遭遇した際、追いかけまわされることが多々ある。よすみのかどは嫌がっているわけではなく、単純に面白いから逃げているとのこと。
+・・よすみのかどの編集スタイルが自我を出すタイプなため、Lunaflixには合わないかもしれないと言うのが、回答を渋っている理由。
+・・一度、どのような動画を作成しているのか見せてもらえれば出来るかもと思っている。
+
+#endregion(白市民)
+
+***◼️黒市民
+#region(黒市民)閉じる
+
+[[ゆちゃ　めろでぃ]]
+・[[アイアンバーガー]]や、[[SKE]]のクレーマー
+・日本にいた時からお世話になってきた人。
+・SKEへの体験を取り持ってくれたり、体験中は、ほぼ壊れてなくても修理の車を持ってきてくれていた。（ボディが1%しか削れてないヘリ等）
+・ゆちゃが日本で看護師をしていた時に入院していた。
+なお、よすみの自身は入院時の記憶はあまりない模様。（過去の詳細は不明だが、ゆちゃからは、その時期は病んでいたので覚えてないのではと返された（day.141））
+・他の人に比べ距離感が近いからか、関係性について疑われた事がある。
+
+[[羽山　パティ]]
+・あだ名は「よすよす」又は「すみすみ」のどちらかで呼んでもらう事になったはずが、その翌日から「なんとかのかどさん」と呼ばれ始めた。
+・警察署襲撃の日、何も知らずに警察に出勤しようとした所、「今危ないよ〜」と引き留めてくれた恩人。
+・ユニオン対応でダウンした際、彼女に拾われて蘇生してもらった。一億円の請求書が来た。
+・・後日、大型の現場でパティが車内でダウンしているのを発見するが、見逃してほしいとせがまれ「護送の仕方分かんねぇや」と言って見逃した。
+-「コンビニ強盗を○○番地でするから来て〜」と予約の電話を掛けてコンビニ強盗を行い、ロストすると「私の勝ち〜」という勝利宣言の電話を掛けてくる。
+
+[[ガヴァイ・アッカンマン>ガヴァイ　アッカンマン]]
+-警察の元後輩。センタードット略してセンド君a.k.a金貸し。
+-転送前は、よすよす先輩あるいはさん呼びだった筈だが、転送後突如として、かどさん呼びへと変わった。
+- お悩み相談を受け付けている。以前、お金が無いと言ったところ、とある犯罪者にブラックマネーを手渡され、処理に困っていた事を伝えるとまた、お金に困った時は相談してくださいという回答を貰う。
+
+#endregion(黒市民)
+
+
+**衣装倉庫🧥
+・より良い画像があれば差し替えお願いします！
+#region(season1)season1
+***&color(#008080){■}服一覧表
+#region(一覧)一覧
+#table_style(head=#008080:#fff:center){一覧1=#fff, 一覧2=#fff, Season2=#fff}
+|~一覧1|~一覧2|h
+|&image(Screenshot_20250517-233511~2.png,y=300)|&image(Screenshot_20250517-233516~2.png,y=300)|
+#endregion()
+
+***&color(#20b2aa){■}私服
+#region(私服)私服
+#table_style(head=#20b2aa:#fff:center){くろいやつ=#fff, シャツのヤツ=#fff}
+|~くろいやつ|~シャツのヤツ|h
+|&image(Screenshot_20250517-231858~2.png,y=300)|&image(Screenshot_20250517-225324~2.png,y=300)|
+#endregion()
+
+***&color(#20b2aa){■}SKE
+#region(ツナギ)ツナギ
+#table_style(head=#20b2aa:#fff:center){SKEツナギ(黒)=#fff, SKEツナギ(紫)=#fff}
+|~SKEツナギ(黒)|~SKEツナギ(紫)|h
+|&image(Screenshot_20250517-225208~2.png,y=300)|&image(Screenshot_20250517-232726~2.png,y=300)|
+#endregion()
+
+#region(ジャケット)ジャケット
+#table_style(head=#20b2aa:#fff:center){SKEジャケット=#fff}
+|~SKEジャケット|h
+|&image(Screenshot_20250524-215220~2.png,y=300)|
+#endregion()
+
+***&color(#20b2aa){■}警察
+#region(本署)本署
+#table_style(head=#20b2aa:#fff:center){おおがたよー(長袖)=#fff, おおがたよー(半袖)=#fff}
+|~おおがたよー(長袖)|~おおがたよー(半袖)|h
+|&image(Screenshot_20250517-224149~2.png,y=300)|&image(Screenshot_20250517-231307~2.png,y=300)|
+#endregion()
+
+#region(砂漠署)砂漠署
+#table_style(head=#20b2aa:#fff:center){砂漠署 SWAT服=#fff}
+|~砂漠署 SWAT服|h
+|&image(Screenshot_20250517-224552~2.png,y=300)|
+#endregion()
+
+***&color(#20b2aa){■}アイアンバーガー
+#region(制服)制服
+#table_style(head=#20b2aa:#fff:center){NEW PERT1=#fff}
+|~NEW PERT1|h
+|&image(Screenshot_20250517-223801~2.png,y=300)|
+#endregion()
+
+***&color(#20b2aa){■}その他
+#region(その他)その他
+#table_style(head=#20b2aa:#fff:center){レタス 白菜=#fff, レタス 白菜=#fff}
+|~レタス 白菜|~レタス 白菜|h
+|&image(Screenshot_20250524-232757~2.png,y=300)|&image(Screenshot_20250524-232811~2.png,y=300)|
+#endregion()
+
+#endregion()
+
+
+#region(season2)season2
+***&color(#008080){■}服一覧表
+#region(一覧)一覧
+#table_style(head=#008080:#fff:center){一覧1=#fff, 一覧2=#fff, Season2=#fff}
+|~一覧1|~一覧2|h
+|&image(IMG_2594.jpeg,y=300)|&image(IMG_2595.jpeg,y=300)|
+#endregion()
+
+***&color(#20b2aa){■}私服
+#region(私服)私服
+#table_style(head=#008080:#fff:center){あのひのかど=#fff,パーカー 私服=#fff,青々とした私服=#fff,黒いジャケット=#fff,マムラサキ=#fff,BIGFOOT=#fff, Season2=#fff}
+|~あのひのかど|~パーカー 私服|~青々とした私服|黒いジャケット|マムラサキ|BIGFOOT|h
+|&image(IMG_2607.jpeg,y=300)|&image(IMG_2609.jpeg,y=300)|&image(IMG_2611.jpeg,y=300)|&image(IMG_2600.jpeg,y=300)|&image(IMG_2614.jpeg,y=300)|&image(IMG_2597.jpeg,y=300)|
+#endregion()
+
+***&color(#20b2aa){■}警察
+#region(警察)警察
+#table_style(head=#008080:#fff:center){砂漠署？=#fff,SWAT黒=#fff,SWAT（黒）半袖=#fff,POLICE黒半袖=#fff, Season2=#fff}
+|~砂漠署？|~SWAT黒|SWAT（黒）半袖|POLICE黒半袖|h
+|&image(IMG_2608.jpeg,y=300)|&image(IMG_2598.jpeg,y=300)|&image(IMG_2606.jpeg,y=300)|&image(IMG_2599.jpeg,y=300)|
+#endregion()
+
+***&color(#20b2aa){■}after U
+#region(after U)after U
+#table_style(head=#008080:#fff:center){after Uベスト=#fff,after Uスーツ=#fff, Season2=#fff}
+|~after Uベスト|~after Uスーツ|h
+|&image(IMG_2603.jpeg,y=300)|&image(IMG_2604.jpeg,y=300)|
+#endregion()
+
+***&color(#20b2aa){■}その他
+#region(その他)その他
+#table_style(head=#008080:#fff:center){フォーマル（笑）=#fff,ロシュラン=#fff,SKE復刻版=#fff,喪服=#fff, Season2=#fff}
+|~フォーマル（笑）|~ロシュラン|SKE復刻版|~喪服|h
+|&image(IMG_2610.jpeg,y=300)|&image(IMG_2612.jpeg,y=300)|&image(IMG_2601.jpeg,y=300)|&image(IMG_2613.jpeg,y=300)|
+#endregion()
+
+
+#endregion()
+
+
+**制作物一覧
+・追加・追記等、お待ちしております！
+***&color(#20b2aa){■}SKE関連
+#region(SKE,open)SKE
+|&blankimg(IMG_4041.jpeg,y=258,x=200)|&blankimg(IMG_4042.jpeg,y=135,x=240)|
+|BGCOLOR(#EAEFF2):~宣伝ポスター(ドッキリ)&br()&size(10){SKEポーズの写真を採用&br()菖の字を菖蒲の紫、光を黄色にしたのがポイント&br()ドッキリとしてペティが作ったということにした。}|BGCOLOR(#EAEFF2):~移転記念ガチャチケット(※手書き部分)&br()&size(10){闇メカではありません。(新SKE一同)&br()チケット部分はペティさん作&br()無料券は種類別で別の社員が落書きをしている。}|
+#endregion
+***&color(#20b2aa){■}警察関連
+#region(警察)警察
+|&blankimg(IMG_4043.png,y=225,x=190)|&blankimg(IMG_4044.jpeg,y=225,x=190)|&blankimg(IMG_4189.jpeg,y=190,x=225)|&blankimg(IMG_4190.jpeg,y=210,x=175)|&blankimg(IMG_4191.jpeg,y=258,x=200)|
+|BGCOLOR(#EAEFF2):~事件報告書(遠足のしおり風)&br()&size(13){なお、しっかりとした文書タイプの報告書もタブレットに書いている。}|BGCOLOR(#EAEFF2):~砂漠署VS麻陀羅組抗争チケット&br()&size(12){ガチャ仕様になっており、回すと2枚目のように半券部分が切れる仕掛けがある。}|BGCOLOR(#EAEFF2):~SabakuShow07.04&br()&size(13){砂漠署VS麻陀羅組抗争宣伝ポスター}|
+#endregion
+**エピソード
+//***2023年
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+***&size(110%){&bgcolor(#71bdd0){&nbsp()&font(#ffffff,90%){　2024年}&nbsp(6)}}
+//
+****&bold(){02/16}[[【#ストグラ 15日目】確かバーガー屋の店員だった男、よすみのかど>>https://youtu.be/k1ZjYu78ZM0?si=vpxfad4100ZoB_S8]]
+#region(閉じる)
+-アイアンバーガーで起床。プラカードを持ち外で店番をする
+-一度店内に戻り、メニューを覚えるため商品を確認する
+-[[神道  まきぴ]]が来店、寝ている間に仕様が変わり料理が作れない、請求書の送り方を忘れていながらも何とか見守られながら対応をする。
+-再びプラカードを持ち店番する。&br()「最後尾でございますこちら」&br()「大盛況！皆様のおかげで大盛況でございます。」
+-[[羽山  ペティ]]が来店する&br()「どこからどう見ても最後尾ですね…」
+--色々と雑談をする。普段家に引き篭ってTwiXを確認して街に起きず5ヶ月過ごしてきたことを話すと親近感を持たれる。
+--久々に起き、喉の開き方に苦戦した話で同胞っぽさを感じ、友達になろうと連絡先を交換する。&br()「面白い方ですね、良かったですここに来て」
+--ビジネスアプリの便利性を教えてもらう
+-店番中エモートを研究する
+#endregion
+
+//
+****&bold(){02/18}[[【#ストグラ 16日目】バーガー屋など、やるかもな>>https://youtu.be/xsnpkN_zPSA]]
+#region(閉じる)
+-魔法少女カフェで白米を購入した際、白米にまつわるエピソード『呪いの白米事件』を聞く
+-アイアンバーガーに来店した[[超越ヶ谷　にかり]]が呼び出した狂暴な犬に襲われる
+・エピソード募集中。
+#endregion
+//
+****&bold(){05/11}[[【#ストグラ Day21?】殺人鬼に追われる夢から目覚める>>https://youtu.be/m7De3Wzqkn8?si=G5njUimaNOw21JYS]]
+#region(閉じる)
+-ラジコンカーを操りアイアンバーガーの社長（心無き）をおかしくさせる。
+-
+・エピソード募集中。
+#endregion
+//
+****&bold(){02/18}[[【#ストグラ Day25】明日は月曜日✨️まずい>> https://youtu.be/BpXvohC5YW4?si=xLnPGmdSRa1yU47O]]
+#region(閉じる)
+-SKE体験2日目。ペティさん・猪狩さんと会い体験を始めた事を伝える。街が隠れんぼイベントの為、雑談をしながら過ごす。
+--会ったことは無いがどうやら[[科場  諸朋]]に似ていると猪狩さんに言われる。
+-[[生雲丹  よづな]]が来店。名前をやすみのかぞくと間違われる
+-ゆちゃさんからイベント中に体験するなと抗議の連絡がくる
+-ペティを殴りかけDV癖の疑いをかけられる。冗談で臨戦態勢をとるが、猪狩さんに銃を構えられた為即謝罪。
+-猪狩さんと出張修理へ
+--猪狩さんとよづなさんのヘリ練を地上で見守る。ヘリで飛ばされた心無きに殴り掛かられ逃げる
+-休職中の衛星外作業さん([[レレレ先輩>レイナ・レアレッタ＝レインハート]])と出会う。勤務中のジャケットが色違いのお揃いだと教えてもらい見せてもらう。
+-[[ヤミーさん>>ヤミー  エンデバー]]と適当さが似てると言われ自身が適当だったと知る。
+-[[まさのりさん>>斎藤  まさのり]]を会社に誘っているという話を猪狩さんから聞く。みんなのパパのような人で猿の顔をしたおじさんらしい。
+-夜から青空に急に変わり弁当屋の話から猪狩弁当を出そうという話になる。(メインはチキンカツ漬物はたくあん)
+-ゆちゃさんが来店3時以降菖光亭へ行こうという話に
+-菖光亭内の財閥前で写真を撮る
+#endregion
+//
+****&bold(){05/23}[[【#ストグラ Day27】時間は有意義に使うべし（自戒）>>https://youtu.be/hNq33BiSTqs?si=wcyqH0EzTgEAekBi]]
+#region(閉じる)
+-大渋滞を発生させている心無きと自撮りをする。
+-
+・エピソード募集中。
+#endregion
+//
+****&bold(){06/01}[[【#ストグラ Day31】衛星落としのプロ>>https://youtu.be/h3jLYw_hR1E?si=SZuRdXSs3C1QBOz_]]
+#region(閉じる)
+・アイアンバーガーにて、[[Dr．ギガ]]さんに思い出の味を提供する。
+・犬を飼う。名前はバーンズ。
+・安いガソスタをひたすら探し300円のガソスタを発見。血の契約を交わし、お布施としてジェリ缶を購入した。
+・SKE体験終了し正社員に。
+・[[レレレ先輩>レイナ・レアレッタ＝レインハート]]と[[猪狩さん>猪狩　翔太]]にSKEポーズを披露し、写真を撮ってもらう。
+・エピソード募集中。
+#endregion
+//
+****&bold(){06/02}[[【#ストグラ Day32】責任を負えてしまう、よすみのかど>>https://youtu.be/rxyuM6ER_Fs?si=1cpumM9U3PsWT237]]
+#region(閉じる)
+・職場（SKE）で浮く（物理）。
+・[[ゆちゃめろ>ゆちゃ　めろでぃ]]にフルカスをお願いされる。エンジンスワップのやり方がわからず長時間待たせたうえ[[羽山　ペティ]]に助けを求める。
+・クレーマーゆちゃめろに対し、責任者に最も近い羽山ペティが謝罪する。
+・エピソード募集中。
+#endregion
+//
+****&bold(){06/04}[[【#ストグラ Day33】午前１時までの起床は早番だから。>>https://youtu.be/KY3IAiBDC6w?si=Q7jQla_A2cXbQwhi]]
+#region(閉じる)
+・服屋へ行く途中で出会った犬のあとをつける。
+・アイアンバーガーに来店した[[ゆちゃめろ>ゆちゃ　めろでぃ]]に華麗な仕事捌きを披露したが、誤って１桁多い額を請求した。その後、関係者と名乗ってゆちゃめろに電話をかけ返金の旨をはなし、IDを尋ねる。しかし電話を切った瞬間にIDを忘れたため再度かけ直した。
+・エピソード募集中。
+#endregion
+//
+****&bold(){06/05}[[【#ストグラ Day34】スローライフ（0.5倍速）>>https://youtu.be/b7thK96tp8Y?si=p5sHWemO2XYFPOrg]]
+#region(閉じる)
+・[[カム　カマダ]]とアイアンバーガーで働く。
+・チルなところに[[ジョシュア・マーキル]]が来店し[[セクシーセット売れ残りのストラップ>切間　てつお]]を渡す。
+・エピソード募集中。
+#endregion
+//
+****&bold(){06/06}[[【#ストグラ Day35①】配信絶対落とさない委員会会長就任>>https://youtu.be/iMdVfDsrxis?si=5bFE38lG6bRb4-fR]]
+#region(閉じる)
+・[[羽山　ペティ]]とスドバに行き、なぜか二発殴られる。強制瞑想中ペティが注文してくれていた「たまごサンド」と「マヨネーズ」を受け取る。
+・たまご尽くしだったため他のドリンクも[[かな市長補佐]]のおまかせで注文した。
+・ペティに[[キーモット　ホームズ]]のブロマイドを渡したが即返却された。
+・アイアンバーガーに来店した[[世風天　みにゃ]]と自転車の話になり、共に川下りに行く。
+・エピソード募集中。
+#endregion
+//
+****&bold(){06/08}[[【#ストグラ Day36】実に１日ぶりの起床>>https://www.twitch.tv/videos/2167067962?filter=highlights&sort=time]]
+#region(閉じる)
+・SKEに来店した[[ゆちゃめろ>ゆちゃ　めろでぃ]]から、以前アイアンバーガーの青髪の店員がシゴデキかと思われたが１０倍の額が請求された上、関係者からの謝罪電話でIDを伝えたが秒で忘れたため二度も電話がかかってきたと言われる。謝罪電話をかけた関係者だけはよすみのかど本人であると伝えた。
+・[[羽山　ペティ]]に病院まで迎えを頼まれた際、1人乗りの自転車で迎えに行った。(なんやかんやで結局置いて行かれたペティは、一緒にいた[[命田　守]]に送って貰った。)
+・病院帰りの人を徒歩で帰らせるという鬼畜の所業をしてみたいと思い、馬鹿な振りをすれば許されると思ったらしい。
+・ペティからフラカスをプレゼントされる。
+・エピソード募集中。
+#endregion
+//
+****&bold(){06/28}[[【#ストグラ Day47】朝５時起き遅番(???)>>https://youtu.be/cwuYjEz_rgw]]
+#region(閉じる)
+-やすみのかぞく編集部として書いた菖光亭の映えスポット化に関する記事を[[草薙　まお]]に絶賛される
+-新しい記事の匂いを嗅ぎ取り、移転したコスメショップへ向かう
+・エピソード募集中。
+#endregion
+//
+****&bold(){07/05}[[【#ストグラ Day49】暑さに負け次第おわる回>>https://youtu.be/SzSKpr-LiXo?si=ENVH2RxCOqQpIfUT]]
+#region(閉じる)
+-アイアンバーガー店長に昇格する。
+-トゥトゥトゥのリズムで壊滅的なリズム感を披露する。
+・エピソード募集中。
+#endregion
+//
+****&bold(){07/21}[[【#ストグラ Day54】奇しくも…>>https://youtu.be/oKarrdsrxIw]]
+#region(閉じる)
+-幻の体験4日目を経て警察官に採用された。なお、[[羽山　ペティ]]には警察に向いてない（落ちる）と思われていた模様
+-同期は[[鬼瓦　るる]]、[[犬上　リオ]]となった。
+-ジョブ枠がいっぱいなのでゴシップ記者を辞める。
+・エピソード募集中。
+#endregion
+//
+****&bold(){08/11}[[【#ストグラ Day63】まじめ警察業務です【よすみのかど】>>https://ijgdZTcN.be/5ioezTc6ke8]]
+#region(閉じる)
+-店舗強盗の犯人[[アドミゲス・ハン]]をカーチェイスの末に初めて逮捕、犯人の提案で警察署内にて凱旋。
+　※なおチェイス中、犯人はかなりスピードを緩めて走行しており、よすみのがロストするたび合流してくれていた。
+・エピソード募集中。
+#endregion
+//
+****&bold(){08/21}[[【#ストグラ Day66】俺がルール【よすみのかど】>>https://youtu.be/8qFMNS4CZW4]]
+#region(閉じる)
+・アイアンバーガーでワンオペ
+・閉店後、[[ジョーカー>半沢　直ふぃ]]から着信、”ビッグ・ビジネス”の誘いを受けたので話を聞く。
+・勧誘の内容は、「[[月乃　えるな]]を社長に据えた番組制作会社【&bold(){[[Lunaflix]]}】の参謀地位に就かないか？」という提案。
+どこか怪しく感じたため、後日もう一度連絡するように促した。
+・エピソード募集中。
+#endregion
+//
+****&bold(){08/22}[[【#ストグラ Day67】怪しすぎた勧誘が気になる【よすみのかど】>>https://youtu.be/8mtl8_rZ2gM]]
+#region(閉じる)
+・前日の勧誘に対しては結論が出せないまま、ひとまずSKE出勤。
+・従業員に事情を話し、携帯を機内モードにして”レタス白菜”の偽名と変装でSKEに出勤することに。[[月乃　えるな]]、[[ジョーカー>半沢　直ふぃ]]からの電話を回避しようとする。
+・ゴミ箱の上でヨガをしていたところ、注目を集めてしまい、偶然来店したジョーカーに顔を凝視されるが事なきを得る。
+・最終的には、覚悟を決めて自身から[[月乃　えるな]]に連絡、直接話し合いを行った。
+・エピソード募集中。
+#endregion
+//
+****&bold(){10/14}[[【#ストグラ Day88】自分、やれます。【よすみのかど】>>https://youtu.be/q1kfqIl72u8]]
+#region(閉じる)
+・一旦チル、いつも通り飲食巡り
+・警察出勤
+・フリーカ→声掛けに反応がなく銀行からでてきた犯人に手錠をかけられる
+・フリーカ2回目→[[まるん先輩>花沢　まるん]]をひく、犯人心無きに引かれダウンし確保
+・アーティファクト向かう前にBMCで車を修理中に[[平井さん>平井　善之]]恋バナを聞くがその間にアーティファクト終了
+・飛行場、ユニオン 向かう
+・店舗強盗向かいチェイス開始するも強制瞑想、復帰後再開
+・菖光亭でチル
+・[[ユンミさん>ユン　ユンミ]]にこっそりおしぼりを貰う
+・本署戻ると自首しにきた[[ハイライトさん>小峯　玲]]が｢自首するから誰かプリズンでおしゃべりしようよ〜｣｢かどがいい、かど｣
+・持ち物検査をする際にウェルカムドリンクを窃盗
+・わざと[[ボイラ先輩>ボイラ　テンガリン]]を60分でプリズンに送る後ハイライトを60分で送る
+・本署戻り更衣室に入れないボイラ先輩を手錠し連れていってあげ、出れないボイラ先輩を放置し更衣室に監禁
+・[[ロックさん>犬億　ロック]]にサッカー誘われ警察退勤
+・エピソード募集中
+#endregion
+***&size(110%){&bgcolor(#71bdd0){&nbsp()&font(#ffffff,90%){　2025年}&nbsp(6)}}
+//
+****&bold(){01/16}[[【#ストグラ Day117】自然と戯れる収穫祭>>https://youtu.be/G4NrZmBwmQM?si=do8aSzV5uaT08PJq]]
+#region(閉じる)
+・起床後車を取りに本署へ行きそのままSKEへ、車の中を整理していたところペティさんが来て吉田(おみくじ)を渡される。
+・収穫祭へ行くかの話になり、チケットを持っていなかったペティさんに余っていたチケットを渡し一緒に行くことに。
+・リオさん来店。収穫祭があると知らなかったらしく、収穫祭やその他イベントについて話す。
+・一旦カジノへ行きSKEに戻るが忙しそうだったのでペティさんを置いて収穫祭へ向かう
+・あまりにもポケットの空きがなかった為一旦ガレージへ戻る途中でペティさんから置いていきましたねと電話が来る。
+・収穫祭へ戻る、中川さん達の方へ向かい、オイルリグ中の上空ヘリを共に眺める。
+・U FOR Uの出店で科場さん･高山から100個買えと言われ100個買う。
+・新規住民の[[緋赤  まい]]さんと会う大川さんから自身について副業で警察をやってるしょうもない人と紹介される。
+・[[アヌギフさん>>アヌギフ  白川]]から再度U FOR Uの商品を買う。
+・うさぎさんのMCであった困った時は周りを見よう、人を頼ろう支えあおうという言葉からペティさんと吉田(おみくじ)を互いに押し付け合う。
+・[[高山>>ブラック  ジャックス]]から冷やかしで撮ったらエモくなったペティさんとのツーショット写真を貰う。
+・全ステージ終了後[[UFORUジャンさん>>ジャン＝ジャック・ヴァラン]]から何か買ってけと言われ再々度U FOR Uで商品を購入。
+・SKEへ帰ったあとペティさんに店番を頼まれるが、５分もしないうちに外出しよすがへ向かう。
+・店番について詰められる。中川さんが謝り、自身は突っ立ち中川さんに殴られる謎の流れができる。&br()猪狩さん｢2人で漫才やれんもん｣
+・Bellowsへ向かうと伝えるとペティさんからお店違いでリップを頼まれる。店内でまいさん、かえるさんと話す。
+・Bellowsから出るとバイクが何故か飛ばされパンクもしていた。犯人は見ていなかったが店に入る前にすれ違った科場さんだと予想を立てる。
+・大量に買ったドッグランをキャップに押し付けようと中川さんと計画する。
+・オルカ先輩来店。カスタムをどうにか避けようとし、態度を詰められる。
+・仕事が一段落し雑談。猪狩さんのレンジがさっき壊れた話や中川さんの学生時代に家庭科室から校庭へ爆発して飛んできたレンジの扉の話を聞く。
+・クラフトをし続けていたら中川さんに仕事をしているという理由で怯えられる。
+・電子レンジが壊れたショックで凹み続けている猪狩さんの退勤を中川さんと見届ける。
+・Merry&Belleへ、先程ペティさんから間違ってリップを頼まれた店がこの店だと気付きリップを購入し中川さんに託す。
+・退勤後警察でクラフトをし、警察も即退勤する。
+・明味房へ行きその後就寝。
+#endregion
+****&bold(){03/16}[[【#ストグラ Day149】モイ！>> https://youtu.be/DSymkWOZBrc?si=1PvogP4h8lVNzfQs]]
+#region(閉じる)
+・SKEへ、新商品のエナドリ・馬刺しを貰う
+・先日買ったヘリをカスタム。途中で食べた菖光亭の生牡蠣が当たる。
+・チャーリー君出勤、須藤さん来店チャーリー君のこの街に解毒剤を探し聞きたと聞き、発明家の話になり、[[ニサワクサさん>>シャーク ニサワール]]の名前が出て「なんだポンコツの方か」と口に出す。
+・[[ゆきやさん>>ぺん ゆきや]]来店、働いていることに驚かれる。気球イベントがどうだったか聞く。
+・警察へ出勤強盗対応にいくが、クイズを全問間違えロスト。
+・南署でマクドナルドがまた、何かしていると聞いたので署員と一緒に野次馬へ行く。
+・野次馬後、署員たちと会話最近ずっとマクドナルドさんが何かを起こすため全員疲弊しているらしい。
+・マクドナルドの対応をしていたブロッコリー先輩が疲弊し癒しを求めSKEへ向かおうとしたため野次馬でついて行く。
+・チャーリー君にキレたり、野次馬で来た他の署員から貰った花火を打ち上げたりした上でSKE内にずっと居た為、手錠をし外へ連れ出しそのまま瞑想。
+・瞑想明け、ブロッコリーが来たと聞きつけ小峯さんが来店していた。ちょっと面白いから放置しとこ。という考えをするな、次共犯側に立った場合、お前も沈めると釘を刺される。
+・警察退勤後U FOR Uへ。紫市民という言葉をよく聞く、キャバ嬢の「さしすせそ」でかどがほぼ話している等雑談。
+・猪狩さんも来店してブロッコリーが出禁になったと聞く。
+・再び雑談、マックの話になり、ペティさん・猪狩さん以外バーガー1個じゃ足りないと言う話になる。(賛同派ぴぴさん・アヌギフさん・じぇいのすけさん)
+#endregion
+****&bold(){03/18}[[【#ストグラ Day150】めちゃ熱メカニック>>https://youtu.be/JOsdq6ep2kY?si=Q7wi4U9BErbS25lj]]
+#region(閉じる)
+・起床してSKEへ
+・体験として[[けんつさん>>飯田　けんつ]]が来ており漢のメカニック3ジョブをしている、A2の人員が足りてないということを聞く。
+・メカニックのスタッシュにいちご大福が入っているのに気付く。次新人が来た時新しく出たパーツだと騙そうと[[しゃっちょさん>>菖蒲  光樹]]と話す
+・新たに追加されたプライマリーを見る 
+・大体の色が腐ってるようにしか思わなかったがペティさんから似合ってると言われる
+「かどさんの為にある色ですね」「ギリ、悪口ですよね？」
+・けんつさんがレッサンから頼まれたカスタムを見学しながら会話する。
+「レッサンももう上官だからな」「レッサンって上官だったんですね」「なんで知らねぇんだよ」
+・裁判があるらしくペティさんから迎えを頼まれたが、車の仕様変更もあり操作が上手く効かないドリフトタンパで迎えに行き一緒に裁判を見に行く。帰った時には車はボコボコで[[猪狩さん>>猪狩  翔太]]に驚かれる。
+・[[パティさん>>羽山  パティ]]が来店。現在チェイスで毎度ロストしていることをバラされる。
+・ペティさんから"とある質問"を投げかけられる。
+#region(ペティの質問･かどの答え,close)
+&br()「もし、尊敬している・大切な人がずっと言えないことがあって、聞いてしまったらショックな事かもしれないけど聞きたいか？と言われたらどうしますか？」
+&br()「全部聞きますね、全部聞いて都合が悪かったら聞き流そうかなって感じですね」
+#endregion
+・[[さぶ郎先輩>>安保  さぶ郎]]が[[ゆきやさん>>ぺん  ゆきや]]の誕生日プレゼントをカスタムに来店。フルカス･塗装を対応した。
+・警察へ出勤
+・パティさんからコンビニの予約が入る。別の事件応援が無線で入ってる中淡々と店舗へ向かったので面白そうだとさぶ郎先輩が応援に来るがロスト。警察署に戻るとパティから電話が来る。
+・他の事件の応援へ向かう。ダウン後何故か今回の犯人ではなく先程のパティの方へ怒りをつのらせる。
+・[[アジカンさん>>味野  環九郎]]に先程自分がカスタムした筈のプレゼント用バイクで轢き飛ばされ宙に浮いた瞬間に瞑想する。
+・瞑想後、署内にはかど自身とアジカンしかおらず問い詰めようとしたが逃げたためバットを持って追いまわした。
+「あれ、あのぺんゆきやの誕生日プレゼントのやつですね」
+「そっすよね、あれカスタムしたのさぶ郎先輩で、それを施行したの僕なんで」
+その言葉を聞きさらに逃亡、ヘリでチェイスや立てこもり等、約40分攻防を繰り広げる。
+・わきおさんから電話。アジカンさんの件の借りでレースに勝つためにパトカーを貸してほしいとの事だった為、助手席に乗ってレースに参加する。
+・マトリに参加する。世界もちもち等意味のわからない事ばかり言っていた犯人を検挙する。
+#endregion
+****&bold(){03/20}[[【#ストグラ Day151】1日休暇明け>> https://youtu.be/8AWIQBq5aGQ?si=RTO0NrfHda4BBgyg]]
+#region(閉じる)
+・起床後SKEへ、まさのりさんという方が新たに入ったと聞く。(昔、誰かが話してたなと思い出す。)
+・小峯さん来店、雑談の途中でアイドル好きそうですけどねと言ったところ手錠をされそのままフリーカの人質へ。
+・対応に来たブロッコリー先輩の車を蹴り仕返しで轢かれダウン。病院へ行った後ブロッコリー先輩が戻ってきて送ってくれたが、SKE出禁だった為とんでもない送り方をされる。仕返しで轢いたがまた轢かれる。
+・ちょうど帰ってきた猪狩さん、くるみさん、まさのりさんに心配される。
+・くるみさんが作業着以外で修理をしていたため写真を撮る
+・SKEを退勤しようとするとまさのりさんから、後藤れむへの伝言と、かどくんはSKEのマスコットだと猪狩さんから聞いたと言われる。
+・警察出勤後、U FOR Uへ魂抜けしたぴぴさんに声が聞こえるようその場にいたメンツで取り囲み会話をする。(ジャックスさん、ぱちお先輩、チェンマヨさん)
+・パシフィックが来た為退店しようとしたが、車が無くなった為ぱちお先輩に送って貰う。
+・SKEへ小峯さんが先程ブロッコリーが轢いたことを警察に伝えたと教えてもらう。
+・ゆちゃさんから強盗しようとしている人がいるというていで、強盗の予約が入る。強盗対応中車が壊れた為チェイス中だがSKEへ。その後のチェイスでロスト。
+・ロスト後、足が無くなった為ゆちゃさんを呼び出す。
+・さっきの強盗を捕まえたかと聞かれたので、捕まえたと嘘をつく。確認のためプリズンへ行ったが犯人はいなかった。
+・そのまま本署へ送って貰う、ゆちゃさんが他の署員にも捕まえたか聞いていた為誤魔化すが、さぶ郎先輩がロストしてたと言った為、退勤しようとする。
+・警察退勤後SKEへ、イチカさんから収穫祭のチケットを買う
+・まさのりさんからドラテクを教えて欲しいて言われ了承したところイメージよりフッ軽ですねと言われたがくるみさんから口だけだと言われる。
+・瞑想後、魔女の酒場へ
+・エピソード募集中
+#endregion
+****&bold(){04/10}[[【#ストグラ Day161】ショートな衛星>>https://youtu.be/36IFWxfmtwk?si=vOd2bE9gA1soAiQf]]
+#region(閉じる)
+・起床後カジノへ向かう道中で、変装をした何故か知ってる声な人を轢く。
+・SKEへ向かい、久しぶりに猪狩さんに会う
+・猪狩さんが今週いっぱいでSKEを辞めることを聞く
+・・休みを貰う感覚でいずれ戻ってくるかもと言われた為、戻ってくるなら、嬉しい。戻ってこなくても、猪狩さんがやりたいことをやるのが1番･応援していると伝える。
+・・犯罪したくなったらいつでも予約してもらえば対応する。その時はチェイスをしましょうと伝える。
+・・SKEは猪狩さんのお店のイメージと伝えるも本人にそんなことは無いと言われる。
+・[[ルイさん>>真島　ルイ]]が体験をしに来店。
+・ステート･無線を確認すると、謎のp3さんがいる話になる。次々名前が変わっていき困惑するが、まいにいさんだと発覚する。
+・店もチルで体験もいる為、砂漠署の制服を作りに服屋へ
+・制服を作り終えSKEへ、制服を作りに行った話から、ルイさんが東署チャーリーエンジェル部隊に配属になったと聞く。
+・警察ベストの確認の為警察署へ、よく分からなかったので退勤し、そのまま家へ帰宅し就寝
+#endregion
+//
+//#endregion
+//
+//#endregion
+//
+//#endregion
+//
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+※Twitchアーカイブはメンバー限定です。
+&u(){YouTubeはメンバー関係なく再生リストから視聴可能です}
+再生リスト（Season1）→&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[Twitch配信｜ストグラ/よすみのかど>>https://youtube.com/playlist?list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&si=qhhDcpwAHyBQz_3V]]
+再生リスト（Season2）→&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[配信│ストグラS2／よすみのかど>>https://www.youtube.com/playlist?list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN]]
+***&size(110%){&bgcolor(#654f87){&nbsp()&font(#ffffff,90%){　2023年}&nbsp(6)}}
+#region(開く,close)
+#region(2023年9月,close)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/05|01|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[着ぐるみバイトがブラックだったので亡命しに来ました。>>https://youtu.be/sfznGZ02Un8]]||
+|09/06|02|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[２日目！車とかほしくね？>>https://www.youtube.com/live/-9qZQM-UbtI?si=7DaVHSIZPRYLbo8j]]||
+|09/09|03|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[３日目！街でもブラつくか？【よすみのかど】>>https://youtu.be/vbSvjBo-jIg]]||
+|09/14|04|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[久しぶりの起床！おれ何してたっけ・・・【よすみのかど】>>https://youtu.be/rZ1HjTmWv9g]]||
+|09/18|05|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[夢なんて諦めてなんぼですから。【よすみのかど】>>https://youtu.be/BE8QiukIy5M]]||
+|09/19|06|&font(#6441A4){&icon_fa(fa-brands fa-twitch)}よすみのかど ストグラ６日目！（初ツイッチゆえ何もわからない編）|アーカイブなし|
+|09/23|07|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ストグラ７日目！よすみのかど、サボります>>https://youtu.be/uhdxtOb6CUw?si=7iq0D5GHnbz6-2f4]]||
+|09/25|08|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ストグラ８日目！よすみのかど、ちょっとやる（ちょっと）>>https://youtu.be/R3SnrRSSqX4?si=YxDN5guopnI64YVE]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2023年10月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/01|09|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[９日目、つまり何？［よすみのかど］>>https://youtu.be/kDnjoOWeF4A?si=N9gtiiMGVWpJPEY-]]||
+|10/07|10|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[10日目、つまりすごい ［よすみのかど］>>https://youtu.be/jrb-7SZKNCE?si=bJOJaXOI7n27ao0C]]||
+|10/24|11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[11日目だが久しぶりの起床 ストグラ/よすみのかど>>https://youtu.be/q7qDyzESoGo?si=MINz8it8XXzNA_Dk]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2023年12月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/29||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ストグラ13日目 よすみのかど>>https://youtu.be/ujHN8fytujA?si=B8KLV_MtftCYbn1m]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion
+***&size(110%){&bgcolor(#654f87){&nbsp()&font(#ffffff,90%){　2024年}&nbsp(6)}}
+#region(開く,close)
+#region(2024年2月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/16||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[たしかバーガー屋の店員だった男、よすみのかど 15日目>>https://youtu.be/k1ZjYu78ZM0?si=IYa3UzfXhSroQrqP]]||
+|02/16||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[たしかバーガー屋の店員だった男、よすみのかど 15日目 ２>>https://youtu.be/Vf06m52zty0?si=Wd5tBA6T4DFnU-5S]]||
+|02/18||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[バーガー屋など、やるかもな16日目>>https://youtu.be/xsnpkN_zPSA?si=ybLZReWoJhyGbu-C]]||
+|02/21||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[深夜に起床してみた、よすみのかど 17日目>>https://youtu.be/Bt33mAFz2L4?si=C1g9UO4P9ucZUFi8]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2024年3月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[時間経つの早すぎ、よすみのかど 18日目>>https://youtu.be/zeZw3L8L_WA?si=2FiuZbbVJ3xpawD2]]||
+#endregion
+
+#region(2024年4月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/07||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ガチ２ミリだけ起床する、よすみのかど 2>>https://youtu.be/4-vY1SpJF7A?si=W45v1oOVLQONGffi]]||
+|04/13||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[１歩進んで２歩下がる、よすみのかど。>>https://youtu.be/b6B1-OkAG3o?si=LFvuP_aykglOq66_]]||
+|04/18||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[丁寧な生活>>https://youtu.be/L-qnn-BU86Y?si=m9p-XFco64UCxzMQ]]||
+|04/30||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ゴールデンニート inロスサントス ⇒ 【DBD】三試合だけやる【厳守】>>https://youtu.be/2jXfiE_pX4A?si=EVuk9JvoNEjrfFHA]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2024年5月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/07||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[はたらく車､働かないよすみのかど Day20?>>https://youtu.be/uNCBEG4tAuc?si=V98tkHnz2w6tK5lg]]||
+|05/11||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[殺人鬼に追われる夢から目覚める Day21?>>https://youtu.be/m7De3Wzqkn8?si=mzaxH63z4aD_I6x_]]||
+|05/14||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[連想ゲームガチ勢 Day23(←たぶん正確)>>https://youtu.be/vtcvz-P1O4I?si=kiVj13Lr0qCj106E]]||
+|05/18||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ガチマジ絶対に起床する、よすみのかど Day24>>https://youtu.be/zSlyptehlmU?si=qKrxJqc2VoVs4dnY]]||
+|05/20||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[明日は月曜日✨まずい Day25>>https://youtu.be/BpXvohC5YW4?si=G4ank0H73OCWgzv-]]||
+|05/21||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[よすみのかど連続起床事件 Day26>>https://youtu.be/W9LyH9AK83Y?si=4hwjv_AC_1IGuNZW]]||
+|05/23||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[時間は有意義に使うべし（自戒） Day27>>https://youtu.be/hNq33BiSTqs?si=gM0vB6jiKZXchwLA]]||
+|05/24||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[(前)気合の連日起床、、！ Day28>>https://youtu.be/fINn_V5UFxA?si=mbHBPSabLyOi25_j]]||
+|05/24||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[(後)気合の連日起床、、！ Day28 >>https://youtu.be/fpZKyWYkuMc?si=jiOyn6Wdi1A-NIlw]]||
+|05/26||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[闊歩闊歩でガッポガッポ Day29 →鯖落ちでソロゲー→ストグラ復帰>>https://youtu.be/QjLuK08IqXs?si=kLF9-IUxYIB2nG7A]]||
+|05/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}深夜徘徊 Day30 [[part1>>https://youtu.be/NTTvm6Z-cUw?si=7hDmu1qWtSwZutDC]][[part2>>https://youtu.be/tWhepIY_Bms?si=U-S7SzZVBVtpiJGE]][[part3>>https://youtu.be/twQGAhtOc34?si=PuIgnRzurSImhetJ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2024年6月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/02||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[衛星落としのプロ Day31>>https://youtu.be/h3jLYw_hR1E?si=tymBTJZk21sajzcB]]||
+|06/02||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[責任を負えてしまう、よすみのかど Day32 >>https://youtu.be/rxyuM6ER_Fs?si=mtUqpRWxchrD-7rA]]||
+|06/05||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[午前１時までの起床は早番だから。 Day33>>https://youtu.be/KY3IAiBDC6w?si=gBo0FvydvHtpX-EY]]||
+|06/06||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[スローライフ（0.5倍速）Day34>>https://youtu.be/b7thK96tp8Y?si=Qo4C49t0UTRtb628]]||
+|06/07||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}配信絶対落とさない委員会会長就任 Day35[[part1>>https://youtu.be/iMdVfDsrxis?si=7-N3X-6cpimdNI8B]][[part2>>https://youtu.be/DNrCcyr3N0U?si=naNa4Vl5wnilPlxE]]||
+|06/08||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}実に１日ぶりの起床 Day36[[part1>>https://youtu.be/M_dqfXeCc70?si=KIZysSzZ0MBp2axm]][[part2>>https://youtu.be/yCkXMg90qaA?si=QuG0Q06qsebPc0O9]][[part3>>https://youtu.be/6YqxTYRtwKo?si=y4ZNgYrYScE7dLbR]]||
+|06/09||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[法遵守、倫理無視、よすみのかど　Day37>>https://youtu.be/zRZVWlU7zXQ?si=hKby1s5_8KNa-VHC]]||
+|06/12||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[日付け変わらなければ早番だから。　Day38>>https://youtu.be/XtGN3OG4UKA?si=hMzjs5r8KQ6ci9HZ]]||
+|06/13||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[毎日夜通し配信健康生活　Day39>>https://youtu.be/CWQ9OI_ogEo?si=yQQjduAuCcKgcJcf]]||
+|06/15||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ジョブハンター よすみのかど……。　Day40>>https://youtu.be/CCjhT6Bu4Fk?si=84o-YS2IBfzqpP6i]]||
+|06/18||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[もうすぐで風邪ひけそう　Day41>>https://youtu.be/UHVQMqUCq8M?si=id61zUhlALrCWH_M]]||
+|06/19||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[デマ流して100万もらうバイト　Day42>>https://youtu.be/GMVIoFA8Gc0?si=80UhjCSeTL94ixvS]]||
+|06/21||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[新たな挑戦の兆し？　Day43>>https://youtu.be/fGg5wFNIG30?si=P3_s0UA2w77Algfk]]||
+|06/22||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}幸先のいい日を期待する Day44[[part1>>https://youtu.be/f0ozPyNb0lA?si=nNjyl7WOkj-fhnmM]][[part2>>https://youtu.be/WzYRfiG1BDU?si=iRytCCzJUVliXbQW]]||
+|06/23||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[2:30からの健康的な起床→DBD2試合Day45>>https://youtu.be/n10oQWeFrAY?si=XUbwgCHZn-f6pHR2]]||
+|06/25||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[未知の日晴れ　Day46>>https://youtu.be/_c1seeYm6gM?si=YhuuxRbHqLZalHKa]]||
+|06/28||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[朝５時起き遅番(???)　Day47>>https://youtu.be/cwuYjEz_rgw?si=MfYi6S7O9u4PMHXL]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2024年7月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/02||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[PCを買い替え、そして、最強へ─。　Day48>>https://www.youtube.com/watch?v=4ZdtqGUEZPw&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|07/05||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[暑さに負け次第おわる回　Day49>>https://www.youtube.com/watch?v=SzSKpr-LiXo&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|07/09||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[世界が爆裂にキレイになったぞ…　Day50>>https://www.youtube.com/watch?v=IQV7wIdSWsI&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|07/12||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[幻の警察体験４日目をする　Day51>>https://www.youtube.com/watch?v=YXhajybumqM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|07/14||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[涼しい通り越して寒いの何？？　Day52>>https://www.youtube.com/watch?v=nn3InUQZIGg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|07/18||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[人としてあり得ないゴミみたいな時間に起床する　Day53>>https://www.youtube.com/watch?v=xwMPnhOArEA&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|07/21||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[奇しくも…　Day54>>https://www.youtube.com/watch?v=oKarrdsrxIw&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|07/23||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[地理知らず　Day55>>https://www.youtube.com/watch?v=aPxzokI_6Bk&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|07/25||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[やり遂げた男　Day56>>https://www.youtube.com/watch?v=HqmoanxhMZs&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|07/26||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[みろ、早番だ。　Day57>>https://www.youtube.com/watch?v=18JcEPgh7Hw&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|07/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ポンコツスープ　Day58>>https://www.youtube.com/watch?v=WFORj40nwZg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|07/30||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[家の天井に頭が刺さって起床　Day59>>https://www.youtube.com/watch?v=27r1Nf3tK8c&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=135&pp=iAQB]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2024年8月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/01||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ハチｶﾞﾂ!?　Day60>>https://www.youtube.com/watch?v=GUy92c1NSUo&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=134&pp=iAQB]]||
+|08/04||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[寝ると日付が変わる　Day61>>https://www.youtube.com/watch?v=k26O-qzMFdI&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=133&pp=iAQB0gcJCdQJAYcqIYzv]]||
+|08/07||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[正義追及チャンネル　Day62>>https://www.youtube.com/watch?v=kSPNoJlsdr8&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=132&pp=iAQB]]||
+|08/11||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[まじめ警察業務です　Day63>>https://www.youtube.com/watch?v=5ioezTc6ke8&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=131&pp=iAQB0gcJCdQJAYcqIYzv]]||
+|08/17||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[早すぎて見えないよな？　Day64>>https://www.youtube.com/watch?v=6Yez2DV2E6Y&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=130&pp=iAQB]]||
+|08/18||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察学び男　Day65>>https://www.youtube.com/watch?v=wucB3bt6kJk&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=129&pp=iAQB]]||
+|08/21||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[俺がルール　Day66>>https://www.youtube.com/watch?v=8qFMNS4CZW4&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=128&pp=iAQB]]||
+|08/22||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[怪しすぎた勧誘が気になる　Day67>>https://www.youtube.com/watch?v=8mtl8_rZ2gM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=127&pp=iAQB]]||
+|08/23||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[お蕎麦ん　Day68>>https://www.youtube.com/watch?v=JYwRansp2vY&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=126&pp=iAQB]]||
+|08/25||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[何かをする　Day69>>https://www.youtube.com/watch?v=GlsnHHAdP-g&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=125&pp=iAQB0gcJCdQJAYcqIYzv]]||
+|08/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[街が2周年　Day70>>https://www.youtube.com/watch?v=sibrus9w0Oo&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=124&pp=iAQB]]||
+|08/30||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[遅起早寝の可能性　Day71>>https://www.youtube.com/watch?v=cg2NRjRf4xY&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=123&pp=iAQB]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2024年9月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/12||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[何も知らない病み上がりし者　Day72>>https://www.youtube.com/watch?v=q_5ak2_mFEc&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=122&pp=iAQB]]||
+|09/14||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[運転を学びたい　Day73>>https://www.youtube.com/watch?v=1SI4TYMn1Xw&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=121&pp=iAQB]]||
+|09/19||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}２時の起床（健康的）　Day74[[part1>>https://www.youtube.com/watch?v=m8eBPaCh8Ek&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=120&pp=iAQB]][[part2>>https://www.youtube.com/watch?v=vbVcvpzRe4s&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=119&pp=iAQB]]||
+|09/20||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ドドドド！！　Day75>>https://www.youtube.com/watch?v=JfqTr2bcj1M&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=118&pp=iAQB]]||
+|09/22||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[５円ありますか？　Day76>>https://www.youtube.com/watch?v=1PezfgOuIMc&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=117&pp=iAQB]]||
+|09/24||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ラッキーセブンで秋到来　Day77>>https://www.youtube.com/watch?v=t6njzpgf3UM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=116&pp=iAQB]]||
+|09/25||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[呪い回避男　Day78>>https://www.youtube.com/watch?v=M05kdfc-dQQ&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=115&pp=iAQB]]||
+|09/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[家を恵んでください　Day79>>https://www.youtube.com/watch?v=Y0Z-1262pbM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=114&pp=iAQB0gcJCdQJAYcqIYzv]]||
+|09/28||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[何もして、何もしない　Day80>>https://www.youtube.com/watch?v=NIUtAehhxqA&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=113&pp=iAQB0gcJCdQJAYcqIYzv]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2024年10月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/01||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[なんでもできる　Day81>>https://www.youtube.com/watch?v=qJEPWnKmRzo&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=112&pp=iAQB]]||
+|10/04||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[逃避行動（早すぎる起床）　Day82>>https://www.youtube.com/watch?v=UOBLCQD3-So&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=111&pp=iAQB]]||
+|10/06||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[２日で飽きる　Day83>>https://www.youtube.com/watch?v=zqCn9p-5Thg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=110&pp=iAQB]]||
+|10/08||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[全職副業フリーター男　Day84>>https://www.youtube.com/watch?v=kPb6HnFJhH4&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=109&pp=iAQB]]||
+|10/09||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[寒すぎワロタ号　Day85>>https://www.youtube.com/watch?v=05j7QUk1Jos&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=108&pp=iAQB]]||
+|10/11||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[消えた秋のゆくえ　Day86>>https://www.youtube.com/watch?v=d6GsR9XH5Jo&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=107&pp=iAQB]]||
+|10/13||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[深夜徘徊リターンズ　Day87>>https://www.youtube.com/watch?v=hd6QbjHKs9E&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=106&pp=iAQB]]||
+|10/14||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[自分、やれます。　Day88>>https://www.youtube.com/watch?v=q1kfqIl72u8&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=105&pp=iAQB]]||
+|10/18||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[車など探してみる？　Day89>>https://www.youtube.com/watch?v=beYpGQ7_ydo&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=104&pp=iAQB]]||
+|10/20||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[自由の身　Day90>>https://www.youtube.com/watch?v=69k8kbTF7eg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=103&pp=iAQB]]||
+|10/22||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ごゆるりと　Day91>>https://www.youtube.com/watch?v=VPGvcW211-4&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=102&pp=iAQB]]||
+|10/29||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[もはや化石　Day92>>https://www.youtube.com/watch?v=asnvX7m-_-k&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=101&pp=iAQB]]||
+|10/30||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[世界統合に立ち向かう調査K団　Day93>>https://www.youtube.com/watch?v=br1AmyXXK0M&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=100&pp=iAQB0gcJCdQJAYcqIYzv]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2024年11月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|11/03||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[こんにチル（眠）　Day94>>https://www.youtube.com/watch?v=1s2PmkvN_oY&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=99&pp=iAQB]]||
+|11/05||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[手違いで消えた１億円　Day95>>https://www.youtube.com/watch?v=uva7yWNxUG0&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=98&pp=iAQB]]||
+|11/09||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[なんか警察大変らしい　Day96>>https://www.youtube.com/watch?v=WXXZsDJD5aY&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=97&pp=iAQB]]||
+|11/13||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[足を2回ぶつけましておはよう　Day97>>https://www.youtube.com/watch?v=GHrTrykA1gE&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=96&pp=iAQB]]||
+|11/19||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[夏に欲しかった寒さ　Day98>>https://www.youtube.com/watch?v=3wzE_RTwv7w&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=95&pp=iAQB]]||
+|11/20||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[二桁に、さようなら。 Day99>>https://www.youtube.com/watch?v=LBQC2CXRlyk&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=94&pp=iAQB]]||
+|11/24||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[100ってスゴい！ Day100>>https://www.youtube.com/watch?v=IgDzseR25zc&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=93&pp=iAQB]]||
+|11/26||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[カウントアップ！ Day101>>https://www.youtube.com/watch?v=EqgaYOa5OxI&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=92&pp=iAQB]]||
+|11/28||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[原点回帰、懐かしの遅番/新レーシック Day102>>https://www.youtube.com/watch?v=G7NkNqfLB5A&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=91&pp=iAQB]]||
+|11/30||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[溶岩も凍る冷え性 Day103>>https://www.youtube.com/watch?v=zrPVJyxyqMg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=90&pp=iAQB]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2024年12月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/04||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[奇跡の早番め Day104>>https://www.youtube.com/watch?v=YW5DX4Q0OI0&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=89&pp=iAQB0gcJCdQJAYcqIYzv]]||
+|12/07||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[メカニックコンテスト優勝候補の見守り候補 Day105>>https://www.youtube.com/watch?v=9pYGppLCMD0&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=88&pp=iAQB]]||
+|12/10||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[そこは雪国であった Day106>>https://www.youtube.com/watch?v=ZahwvjoTMwU&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=87&pp=iAQB]]||
+|12/13||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[晴れん！！ Day107>>https://www.youtube.com/watch?v=q5MzQhPwPHg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=86&pp=iAQB]]||
+|12/17||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[喉乾燥眩暈男 Day108>>https://www.youtube.com/watch?v=0Ri-nHjMaeo&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=85&pp=iAQB]]||
+|12/26||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[不労浮浪 Day109>>https://www.youtube.com/watch?v=VeE7lMjx-Kg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=84&pp=iAQB]]||
+|12/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[勤労デー Day110>>https://www.youtube.com/watch?v=7ENs4iVAhOI&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=83&pp=iAQB]]||
+|12/29||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[年末は加湿器を買おう Day111>>https://www.youtube.com/watch?v=kiF3HsC9j7k&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=82&pp=iAQB]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion
+***&size(110%){&bgcolor(#654f87){&nbsp()&font(#ffffff,90%){　2025年}&nbsp(6)}}
+#region(開く)
+#region(2025年1月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/02||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[街初め Day112>>https://www.youtube.com/watch?v=e_cLs1setHk&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=81&pp=iAQB]]||
+|01/08||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[SKE新店舗初日 Day113>>https://www.youtube.com/watch?v=BjfZMupXAdA&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=80&pp=iAQB0gcJCdQJAYcqIYzv]]||
+|01/10||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[早番のはずでした Day114>>https://www.youtube.com/watch?v=9Ey60rzeQ8k&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=79&pp=iAQB]]||
+|01/12||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[飯がうまいと配信がある Day115>>https://www.youtube.com/watch?v=UxZlRMejAAM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=78&pp=iAQB]]||
+|01/14||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[この時間の景色を知りたくて Day116>>https://www.youtube.com/watch?v=YhxZPUA6obY&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=77&pp=iAQB]]||
+|01/16||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[自然と戯れる収穫祭 Day117>>https://www.youtube.com/watch?v=G4NrZmBwmQM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=76&pp=iAQB]]||
+|01/19||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[検挙 やり方 初心者 Day118>>https://www.youtube.com/watch?v=gsCXNF6Ag7M&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=75&pp=iAQB]]||
+|01/21||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[働き方改革 Day119>>https://www.youtube.com/watch?v=4TsYda-5r6U&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=74&pp=iAQB]]||
+|01/24||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[１月末は加湿器を買え Day120>>https://www.youtube.com/watch?v=18Md_ddm6KQ&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=73&pp=iAQB0gcJCdQJAYcqIYzv]]||
+|01/30||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ゆるりと少しの街　Day121>>https://www.youtube.com/watch?v=T4_qxjSy47U&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=72&pp=iAQB]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2025年2月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/02||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[いま何してる？　Day122>>https://www.youtube.com/watch?v=A4i3ddQiG6E&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=71&pp=iAQB]]||
+|02/04||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ステップアップ～　Day123>>https://www.youtube.com/watch?v=rgc3JxIdHB8&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=70&pp=iAQB]]||
+|02/05||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ねみ～さみ～街～～　Day124>>https://www.youtube.com/watch?v=bm1ZtVI7-gg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=69&pp=iAQB]]||
+|02/06||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[遅起きの効用　Day125>>https://www.youtube.com/watch?v=pIXSaTHjS5A&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=68&pp=iAQB]]||
+|02/07||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[こんにちは✨　Day126>>https://www.youtube.com/watch?v=J2gYzrFa_wI&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=67&pp=iAQB]]||
+|02/09||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[うお～～（笑）　Day127>>https://www.youtube.com/watch?v=uq55Q8wn7A4&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=66&pp=iAQB]]||
+|02/11||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[趣味は警察とかです　Day128>>https://www.youtube.com/watch?v=DHDqM9JGDPs&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=65&pp=iAQB0gcJCdQJAYcqIYzv]]||
+|02/13||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[換気して部屋を凍らそう　Day129>>https://www.youtube.com/watch?v=F9yl-tCFR78&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=64&pp=iAQB]]||
+|02/15||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[チルであって暇ではない　Day130>>https://www.youtube.com/watch?v=0tTXI4cxfQs&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=63&pp=iAQB]]||
+|02/16||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察であって多忙ではない　Day131>>https://www.youtube.com/watch?v=r-KkoCza78k&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=62&pp=iAQB]]||
+|02/19||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[日が変わらなければ早番だから　Day132>>https://www.youtube.com/watch?v=BcVk1NYr7gs&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=61&pp=iAQB]]||
+|02/22||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[とっても𝑪𝒉𝒊𝒍𝒍𝒊𝒏𝒈...　Day133>>https://www.youtube.com/watch?v=4roc4H00MPg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=8]]||
+|02/25||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[遅番控えたほうがいいですよ　Day134>>https://www.youtube.com/watch?v=jTQpKuYbnLI&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=7]]||
+|02/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[謙虚に生きるぞｺﾗ　Day135>>https://www.youtube.com/watch?v=k6WFPr02ELM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=6]]||
+|02/28||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[逆張りの逆張り　Day136>>https://www.youtube.com/watch?v=A5XrA_wqG-s&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=5]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2025年3月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/01||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ちょっと！　Day137>>https://www.youtube.com/watch?v=cU8fdWsf6dA&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=4]]||
+|03/02||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[新市長候補を定めよう！　Day138>>https://www.youtube.com/watch?v=DLhC4viIQ_g&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=3]]||
+|03/04||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[目指すはワーカホリック　Day139>>https://www.youtube.com/watch?v=uMfhauSkiN0&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=2]]||
+|03/05||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[なんでも大丈夫です　Day140>>https://www.youtube.com/watch?v=10cF0IQWa58&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=1]]||
+|03/06||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ドンとこ〜　Day141>>https://youtu.be/H742ZQruPps v=10cF0IQWa58&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=1]]||
+|03/07||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[どなたでもオーケー　Day142>>https://youtu.be/9Qh0kqCmodI v=10cF0IQWa58&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=1]]||
+|03/08||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[クーデターっていけますか？　Day143>>https://youtu.be/5NYgkyQQrug v=10cF0IQWa58&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=1]]||
+|03/11||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[退任と就任と　Day144>>https://www.youtube.com/watch?v=VRnTydF0d9A&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=11]]||
+|03/12||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[雑多にいろいろ　Day145>>https://www.youtube.com/watch?v=tphpRaZE4lQ&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=10]]||
+|03/13||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[まったりとした生活　Day146>>https://www.youtube.com/watch?v=A_hj4NbtJCA&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=9]]||
+|03/14||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[鼻高々の金曜日　Day147>>https://www.youtube.com/watch?v=EYS-w_-CtYI&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=8]]||
+|03/15||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[零時街　Day148>>https://www.youtube.com/watch?v=1a9ZNZ9UgQI&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=7]]||
+|03/16||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[モイ！　Day149>>https://www.youtube.com/watch?v=DSymkWOZBrc&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=6]]||
+|03/18||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[めちゃ熱メカニック　Day150>>https://www.youtube.com/watch?v=JOsdq6ep2kY&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=5]]||
+|03/20||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[１日休暇明け　Day151>>https://www.youtube.com/watch?v=8AWIQBq5aGQ&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=4]]||
+|03/23||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[深夜は突然やってくる　Day152>>https://www.youtube.com/watch?v=-DSIS7WqLsc&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=3]]||
+|03/24||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[怒涛の勢い　Day153>>https://www.youtube.com/watch?v=9PjqrHf-jK8&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=2]]||
+|03/26||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[５時起き　Day154>>https://www.youtube.com/watch?v=PLt3Utbcphs&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|03/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[春の収穫祭 - 収穫しない縛り　Day155>>https://www.youtube.com/watch?v=DgF_WQ4MU1s&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|03/28||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[もっちりしっとり　Day156>>https://www.youtube.com/watch?v=j5njVxX3hVs&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|03/29||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[二つ返事で砂漠署　Day157>>https://www.youtube.com/watch?v=n50D1syjwLQ&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2025年4月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/01||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[副業ギャング　Day??>>https://www.youtube.com/watch?v=pthky9bPZkQ&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|04/01||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[副業ギャング Part2　Day??>>https://www.youtube.com/watch?v=yyb8HL1KYvw&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|04/03||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[いわゆる日常パート　Day158>>https://www.youtube.com/watch?v=cvU1ZMZKfXo&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|04/05||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ちゃおち～る　Day159>>https://www.youtube.com/watch?v=hpNlJbtso_E&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|04/08||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[がんばりましょう✨　Day160>>https://www.youtube.com/watch?v=kWIHIEUrYNM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|04/10||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ショートな衛星　Day161>>https://www.youtube.com/watch?v=36IFWxfmtwk&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|04/11||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[え、花粉？　Day162>>https://www.youtube.com/watch?v=9hIS5kgITHA&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|04/15||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[なんの日？　Day163>>https://www.youtube.com/watch?v=T00Tx0nPC-4&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|04/17||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ば～～ん！（0時）　Day164>>https://www.youtube.com/watch?v=4bSdR-3M4mM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|04/18||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[衛星もタイミーで　Day165>>https://www.youtube.com/watch?v=XPDyMiKOP2o&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|04/23||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[おひさし、ゆえ早番　Day166>>https://www.youtube.com/watch?v=n6jk7cr8KIs&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|04/25||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[華金の過ごし方　Day167>>https://www.youtube.com/watch?v=nAWPuvl12qk&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2025年5月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/01||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ゴガトゥーン　Day169>>https://www.youtube.com/watch?v=wyoXXC2-4MM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|05/02||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[昨夜は家に帰れませんでした　Day170>>https://www.youtube.com/watch?v=P3YTE0aCSWg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|05/03||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ベンチぐらし　Day171>>https://www.youtube.com/watch?v=5udlZcvinU8&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|05/04||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[にく食べたい　Day172>>https://www.youtube.com/watch?v=7aLfzyMwTLs&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|05/06||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[遅番も久しく　Day173>>https://www.youtube.com/watch?v=Ks5EcAsPWBk&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|05/07||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[運転スキル向上委員会　Day174>>https://www.youtube.com/watch?v=JP_iFg_ExwM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|05/09||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[早寝番　Day175>>https://www.youtube.com/watch?v=7_31dVD43yE&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|05/10||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[標準的な生活　Day176>>https://www.youtube.com/watch?v=_F8MCQNbjCw&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|05/15||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[狩前早番　Day177>>https://www.youtube.com/watch?v=msDQ1209TbQ&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|05/18||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[まさかの４回行動　Day178>>https://www.youtube.com/watch?v=_3QK9irHqEM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=]]||
+|05/20||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[気圧とおともだち　Day179>>https://www.youtube.com/watch?v=vq7HCnpYjzs&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=13&pp=iAQB]]||
+|05/22||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[砂漠署抗争の日　Day180>>https://www.youtube.com/watch?v=xi8zbrHqd4k&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=12&pp=iAQB]]||
+|05/25||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[シェイプシフター　Day181>>https://www.youtube.com/watch?v=8jsmvnKCqY8&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=11&pp=iAQB]]||
+|05/28||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[23時起き定期　Day182>>https://www.youtube.com/watch?v=ZeQ0p-25XCs&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=10&pp=iAQB]]||
+|05/30||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[毎日早番健康生活１日目、失敗　Day183>>https://www.youtube.com/watch?v=y2wyz9kPexk&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=9&pp=iAQB]]||
+|05/31||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[自称エッセンシャルワーカー　Day184>>https://www.youtube.com/watch?v=UaLdaDenLIc&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=8&pp=iAQB]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2025年6月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/01||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[まかせろまかせろ　Day185>>https://www.youtube.com/watch?v=_XQuAczbZtg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=7&pp=iAQB]]||
+|06/05||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[けいさ２の日かもね　Day186>>https://www.youtube.com/watch?v=HXn0_vSakbw&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=6&pp=iAQB]]||
+|06/07||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[超チルの予感　Day187>>https://www.youtube.com/watch?v=evVocSTlfTM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=5&pp=iAQB]]||
+|06/10||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[業務参観　Day188>>https://www.youtube.com/watch?v=PLpLZ7u76XM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=4&pp=iAQB0gcJCdQJAYcqIYzv]]||
+|06/13||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[パーティーですか？　Day189>>https://www.youtube.com/watch?v=E4ra0slY9P4&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=1&pp=iAQB]]||
+|06/14||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[治安維持を少々　Day190>>https://www.youtube.com/watch?v=YekgFe3cb3g&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=3&pp=iAQB]]||
+|06/15||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[早番 ～2時間スペシャル～　Day191>>https://www.youtube.com/watch?v=wN3LNPeJP6s&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=2&pp=iAQB]]||
+|06/17||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[UFOどころでない暑さ　Day192>>https://www.youtube.com/watch?v=sznW5zDN-Vo&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=4&pp=iAQB]]||
+|06/18||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ギャグ会場は式場らしい　Day193>>https://www.youtube.com/watch?v=9qi93LTqojs&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=1&pp=iAQB]]||
+|06/21||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[起きとし起きるもの　Day194>>https://www.youtube.com/watch?v=o-jggRjUWAc&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=3&pp=iAQB]]||
+|06/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[6日ぶり…??　Day195>>https://www.youtube.com/watch?v=fMd2BwpoleA&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=2&pp=iAQB]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2025年7月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/01||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[砂漠署抗争ポスター　Day196>>https://www.youtube.com/watch?v=-Os5Rz1Ft0c&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=1&pp=iAQB]]||
+|07/03||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[平和に行こう…な？　Day197>>https://www.youtube.com/watch?v=rlRVOptPihU&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=6&pp=iAQB]]||
+|07/04||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[砂漠署抗争 feat. 麻陀羅組　Day198>>https://www.youtube.com/watch?v=02RLXvDDJ1g&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=5&pp=iAQB]]||
+|07/12||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[過眠症か？　Day199>>https://www.youtube.com/watch?v=9j8AlL-KZ-g&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=4&pp=iAQB]]||
+|07/17||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[遅番は終わらない　Day200>>https://www.youtube.com/watch?v=JpgiKCyW0EM&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=3&pp=iAQB]]||
+|07/23||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ステップアップ　Day201>>https://www.youtube.com/watch?v=E-7RjPcjoug&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=2&pp=iAQB]]||
+|07/24||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[2時起きに注意!　Day202>>https://www.youtube.com/watch?v=trafxJ3QIwA&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=1&pp=iAQB]]||
+|07/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[チルを所望いたす　Day203>>https://www.youtube.com/watch?v=R1s77infsN8&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=9&pp=iAQB]]||
+|07/31||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[作業Dreamを終えて。　Day204>>https://www.youtube.com/watch?v=L1q3kRdW9Jo&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=8&pp=iAQB]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2025年8月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/01||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[職務うろ覚え副業警察　Day205>>https://www.youtube.com/watch?v=2ilf2NBUYTk&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=7&pp=iAQB]]||
+|08/02||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[お気楽バテ　Day206>>https://www.youtube.com/watch?v=7F6JsGDcm28&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=6&pp=iAQB]]||
+|08/03||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[深夜業務の日　Day207>>https://www.youtube.com/watch?v=ahPneyWiHZ0&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=5&pp=iAQB]]||
+|08/06||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[昼寝甲斐　Day208>>https://www.youtube.com/watch?v=cUZOSXtX37M&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=4&pp=iAQB]]||
+|08/07||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[お仕事とか得意です　Day209>>https://www.youtube.com/watch?v=SqmmaCnq-sk&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=3&pp=iAQB]]||
+|08/08||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[読書出来ない夏　Day210>>https://www.youtube.com/watch?v=VCAi15jkue4&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=2&pp=iAQB]]||
+|08/10||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[マンゴーってガソリンの味するよな　Day211>>https://www.youtube.com/watch?v=HMJVlnd2b44&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=1&pp=iAQB]]||
+|08/19||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[中途半番　Day212>>https://www.youtube.com/watch?v=Qkb5QZ3SlJU&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|08/23||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[遅れてやってきて早めに去る　Day213>>https://www.youtube.com/watch?v=lhoslpJv4gg&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|08/24||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[近況の8割を知らない警察　Day214>>https://www.youtube.com/watch?v=TfUxT_REnMw&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index]]||
+|08/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[３周年式典ですって　Day215>>https://https://www.youtube.com/watch?v=8mo3TBO0xD0&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=7&pp=iAQB]]||
+|08/28||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[フェス直前ですって　Day216>>]]||
+|08/29||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[流れるツイート犬ばかり　Day217>>https://www.youtube.com/watch?v=SVRo1N5I5zA&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=6&pp=iAQB]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#region(2025年9月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/05||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[この街に来て2周年　Day218>>https://www.youtube.com/watch?v=DhjD2vx-9FQ&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=5&pp=iAQB]]||
+|09/06||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[非常にLittle　Day219>>https://www.youtube.com/watch?v=7bhwyUuLMnE&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=4&pp=iAQB]]||
+|09/10||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ワケもなく早番して怖がらせましょう！　Day220>>https://www.youtube.com/watch?v=r38IMjuWRO0&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=3&pp=iAQB]]||
+|09/11||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[少し起きて沢山寝る　Day221>>https://www.youtube.com/watch?v=ERdROlsxrV8&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=2&pp=iAQB]]||
+|09/13||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[気分は世紀末！　Day222>>https://www.youtube.com/watch?v=UdOv46N58sA&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=1&pp=iAQB]]||
+|09/19||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[醒めて悪夢　Day223>>https://www.youtube.com/watch?v=Oiii7TkHAd4&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=3]]||
+|09/20||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[足掻く街　Day224>>https://www.youtube.com/watch?v=hKBuh3LwcMo&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=2]]||
+|09/21||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[最高の終末　Day225>>https://www.youtube.com/watch?v=Fm_P7-WKLr0&list=PLRj7qDi8sV-l1qGIG58yq3LrHwa2xbF48&index=1]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#region(2025年12月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/19||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[転送されますように─。　Day1>>https://www.youtube.com/watch?v=ktV-8V9dQwc&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=14]]||
+|12/24||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[何も解決しない警察のイブ　Day2>>https://www.youtube.com/watch?v=VNUMDllDbLM&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=13]]||
+|12/25||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[配給のクリスマス　Day3>>https://www.youtube.com/watch?v=zz5sljK0Ars&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=12]]||
+|12/27||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[治安が良いのでなんでもいい警察　Day4>>https://www.youtube.com/watch?v=mBz7piQvvrA&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=11]]||
+|12/28||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[平穏の終わり？　Day5>>https://www.youtube.com/watch?v=UU01IdnnHpI&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=10]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion
+***&size(110%){&bgcolor(#654f87){&nbsp()&font(#ffffff,90%){　2026年}&nbsp(6)}}
+#region(2026年,open)
+#region(2026年1月)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/03||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[寝正月からの生還　Day6>>https://www.youtube.com/watch?v=6xKLEoB4Cpo&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=9]]||
+|01/09||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[久々だな～と思ったが皆そうだった　Day7>>https://www.youtube.com/watch?v=gHnGVzhv2-k&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=9]]||
+|01/11||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[街のご様子いかがかな　Day8>>https://www.youtube.com/watch?v=DO5UI0slQuQ&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=7]]||
+|01/15||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[初早番だぜ　Day9>>https://www.youtube.com/watch?v=D6_lHKi2gwU&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=6]]||
+|01/17||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ここで遅番ひとつまみ　Day10>>https://www.youtube.com/watch?v=DIQVrhQFVxw&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=5]]||
+|01/23||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[フレックスさんへ　Day11>>https://www.youtube.com/watch?v=MSUVn8OUndc&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=4]]||
+|01/24||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[SGPD広報部、欲しくない？　Day12>>https://www.youtube.com/watch?v=QwFSZXxUbDo&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=3]]||
+|01/25||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[レッカー車を止めてくれ　Day13>>https://www.youtube.com/watch?v=OnrCp7y3QDQ&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=2]]||
+|01/28||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[目を覚ますと知らない天井だった─。(※本署)　Day14>>https://www.youtube.com/watch?v=zZoTTchFBJ8&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=1]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#region(2026年2月,open)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#table_filter(){配信日=show,#=show,配信タイトル=show,備考=show}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/01||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[暑くて寒い　Day15>>https://www.youtube.com/watch?v=Evj3Rk2kGXs&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=4]]||
+|02/04||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[アプデ味見　Day16>>https://www.youtube.com/watch?v=8q9cD5H2kUg&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=3]]||
+|02/08||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[雪が眩しい　Day17>>https://www.youtube.com/watch?v=YnoXj7PUTKA&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=2]]||
+|02/11||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[やけに早起きの日　Day18>>https://www.youtube.com/watch?v=oXfjICZEGDc&list=PLRj7qDi8sV-kLvACcxzO78E71MJOk_qHN&index=1]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion
+#right(){&link_up(🔝ページTOPへ)}
+**ストグラ切り抜き動画（Season1）
+***&size(110%){&bgcolor(#71bdd0){&nbsp()&font(#ffffff,90%){　2024年}&nbsp(6)}}
+#region(開く)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|07/01|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[無能新人バイト、初日からクレーマー客にキレられ先輩を売るｗｗ>>https://www.youtube.com/watch?v=0mQAWBkCCoU]]||
+|07/25|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[優しいフリして性格が悪すぎる”お迎え”した結果ｗｗ>>https://www.youtube.com/watch?v=kjzJsP6eCwk]]||
+|08/10|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[提案されたポスターがダサすぎたら、さすがの猪狩さんでも怒る説ｗｗ>>https://www.youtube.com/watch?v=p6J8_qxJ3DE]]||
+|08/24|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[初対面のギャング相手に、白市民が騙し討ちを試みた結果ｗｗ>>https://www.youtube.com/watch?v=CczY221WDwM&t=330s]]||
+|09/01|5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[街いちばんの方向音痴が、警察体験にやってきたｗｗ>>https://youtu.be/WTdc8SBNVPY?si=aDzw7CMO3hDc95FM]]||
+|09/23|6|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ゴシップ記者になって、ウソすぎる記事を書こう！>>https://www.youtube.com/watch?v=nWSH6NvhKCI&t=442s]]||
+|10/19|7|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[救急隊に突撃インタビュー！上官の印象に迫る？！>>https://www.youtube.com/watch?v=ZVw_SuFSRqs&t=243s]]||
+|11/10|8|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察署襲撃を隠れてサボってた警察官の末路ｗｗ>>https://www.youtube.com/watch?v=y_Oj4MMGC34&t=1s]]||
+|11/26|9|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[残念なことに！警察合格し初めての職質した結果･･･！！>>https://www.youtube.com/watch?v=kAcXZojNzzo]]||
+|12/31|10|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[方向音痴がユニオンに迷い込んで大事件になったｗｗ>>https://www.youtube.com/watch?v=ftv_EU6Sd68]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2024年)
+***&size(110%){&bgcolor(#71bdd0){&nbsp()&font(#ffffff,90%){　2025年}&nbsp(6)}}
+#region(開く)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|01/04|11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[救急隊合格を祝したサプライズが大失敗すぎて笑うしかないｗｗ>>https://www.youtube.com/watch?v=B_-_23cQk5k]]||
+|01/31|12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[発言が黒すぎるメカニックSKE。待望のリニューアルオープン！！>>https://www.youtube.com/watch?v=OA1-9Dm-y0Q]]||
+|02/14|13|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[凶悪犯の犯行理由を聞いてみたら、ツッコミ所しかなかった件ｗｗ>>https://www.youtube.com/watch?v=wnYo3F9xoHg&t=13s]]||
+|03/05|14|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ジョーカーの怪しげな勧誘！SKEで逃亡生活するハメにｗｗ>>https://www.youtube.com/watch?v=6EJllN7JQwQ&t=777s]]||
+|03/10|15|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[白市民に誘拐され、新市長について詰められる副業警察よすみの>>https://youtu.be/qH6ikuGLct0 v=6EJllN7JQwQ&t=777s]]||
+|03/14|16|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[紫市民の事件を｢遠足のしおり｣形式で報告する副業警察と、新市長に対する公務員のリアクション>>https://youtu.be/zyfePluGoec v=6EJllN7JQwQ&t=777s]]||
+|03/20|17|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察の今後について面談、お手本にされてたことが判明する副業警察よすみの>>https://www.youtube.com/watch?v=J29KlX45YZQ&t=32s]]||
+|04/03|18|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[紫市民事件の犯人が判明したので、GBCを気まずくさせたい副業警察よすみの>>https://www.youtube.com/watch?v=4dhS3KLhHQM]]||
+|04/08|19|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察がギャングだった世界線、なぜかハリポタ同好会と化すIFハンタスマ>>https://www.youtube.com/watch?v=2G1TqOwBjqg]]||
+|04/14|20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[IFノーリミと抗争⁉︎過失を激詰めされる副業ギャングよすみの>>https://www.youtube.com/watch?v=IMPtnphG4uI]]||
+|04/30|21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察ペティを脅迫!? 土場リグゼを褒めないと帰れない地獄空間>>https://www.youtube.com/watch?v=o57uTFqVkt4]]||
+|05/03|22|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[署長の”とある一言”で戦況がメチャクチャになった件ｗｗ>>https://www.youtube.com/watch?v=9BTsz0cosQs&t=39s]]||
+|05/10|23|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察内部でイジめられブロを呪殺するしかなくなった副業警察よすみの>>https://www.youtube.com/watch?v=i-mUu1-78vM]]||
+|05/18|24|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[これまでを反省したらクソ迷惑がられた警察タイミーさん>>https://www.youtube.com/watch?v=vIn_8fZgwi8]]||
+|05/23|25|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[砂漠署解体を賭けた抗争がただのお楽しみ会だった件について>>https://www.youtube.com/watch?v=tx8XvEfZ_9U]]||
+|05/24|26|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[街全域で激ムズかくれんぼ抗争した結果、第４を不仲にさせてしまう砂漠署員たち>>https://www.youtube.com/watch?v=y9j83IRkW68&t=633s]]||
+|05/25|27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[砂漠署が襲撃され、ギャング解散の危機に爆笑する署員たちｗｗ>>https://www.youtube.com/watch?v=f0mbrgHYo0A]]||
+|05/31|28|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[苦情きた新人バイトを勝手に謹慎処分させてみた結果ｗ>>https://www.youtube.com/watch?v=tSMRgQSiQHs]]||
+|06/04|29|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ビル50階から市民を救え！最悪の結末をもたらす警察タイミーさん>>https://www.youtube.com/watch?v=dknQNZ_MwDU]]||
+|06/14|30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ナゾの鳥人間と誹謗中傷バトルを始める副業警察よすみの>>https://www.youtube.com/watch?v=81qFhbIj2QY]]||
+|06/18|31|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[餡ブレラの街襲撃で救急隊すら見捨てる警察たちww>>https://www.youtube.com/watch?v=Tkn-u7fVLgQ]]||
+|06/27|32|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[日付も知らないボイラの誕生日を祝う激ヤバ警察たちｗｗ>>https://www.youtube.com/watch?v=IXBvfL31XPI]]||
+|07/03|33|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[喧嘩売りまくりな『抗争ポスター』を作ってしまうタイミーさん>>https://www.youtube.com/watch?v=Y9pkt1oVxKY]]||
+|07/06|34|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[砂漠署抗争でトラブル発生し、ド派手な負け方をしてしまうｗｗ>>https://www.youtube.com/watch?v=OyD5SEfsHiw]]||
+|07/12|35|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[抗争中なぜか仲間にブッ飛ばされ、大ダメージを追う砂漠署ｗｗ>>https://www.youtube.com/watch?v=kElZGxk-kUs]]||
+|07/30|36|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[”市民対応”で雑用させられキレそうになる副業警察よすみの>>https://www.youtube.com/watch?v=bndek6odFhM]]||
+|08/08|37|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[嘘しか発表してはいけない警察のユニオン座学会ｗｗ>>https://www.youtube.com/watch?v=RkYZqJVMWd4]]||
+|08/11|38|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[上田さんに恋した『サウ汰刺傷事件』第二の被害者に困惑する警察>>https://www.youtube.com/watch?v=iWY181ObxRw]]||
+|08/15|39|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[わずか時速10キロでプリズンまで送ってあげる外道警察よすみの>>https://www.youtube.com/watch?v=0v4nHNvWPDI]]||
+|08/21|40|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[市民交流しまくれ？！砂漠署長からの挑戦状に本気出すタイミーさん>>https://www.youtube.com/watch?v=vbU6lEcXwCw]]||
+|08/31|41|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[高性能パラゴンをSKEで台無しにされる副業警察よすみのｗｗ>>https://www.youtube.com/watch?v=hocUrdeG8cw]]||
+|09/01|42|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[上田を国外追放させるべく､裏で糸を引く警察よすみのｗｗ>>https://www.youtube.com/watch?v=4xjs7JpFnjU]]||
+|09/02|43|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[何も知らない上田のアジトを警察が完全包囲ドッキリｗｗ>>https://www.youtube.com/watch?v=T_KoZDTLS1Q]]||
+|09/12|44|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[絶望した猫を飼う羽山ペティに爆笑する大川＆よすみのかど>>https://www.youtube.com/watch?v=cIDrCkJrafU]]||
+|10/09|45|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[アジカン闇落ちをでっち上げて制裁を下そう！副業警察よすみの>>https://www.youtube.com/watch?v=e2GWy7FtZGo]]||
+|10/13|46|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[SKEで小峯玲と最悪な出会い方をして笑うしかない副業警察よすみの>>https://www.youtube.com/watch?v=OrsN4nRo6ao]]||
+|11/07|47|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ボイラに｢会話の下手さ｣を指摘され､ぶっちゃける副業警察よすみの>>https://www.youtube.com/watch?v=t7ni0PCEzuw]]||
+|12/08|48|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ペティが絶句するほど悪質なサボりを見せるよすみの>>https://www.youtube.com/watch?v=NUCcyNN1l9Y]]||
+|12/13|49|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[マックに絡まれ､個人医パティにはカモられて悔やむ副業警察>>https://www.youtube.com/watch?v=ZREtalrJbdE]]||
+//|mm/dd|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画タイトル>>ここに動画URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2025年)
+***&size(110%){&bgcolor(#71bdd0){&nbsp()&font(#ffffff,90%){　2026年}&nbsp(6)}}
+#region(開く)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|01/07|50|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[羽山ペティの『結婚詐欺』をでっち上げるブロッコリー親子ｗｗ>>https://www.youtube.com/watch?v=GrhzZve2HuA]]||
+|01/12|51|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ペティの悪評をバラ撒いて小峯に本気で詰められる男ｗｗ>>https://www.youtube.com/watch?v=C6kvLCW8O9w]]||
+|02/08|52|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[羽山パティに完全敗北した爆笑チェイス対決まとめｗｗ>>https://www.youtube.com/watch?v=LqxJ_lUAWnE]]||
+|02/15|53|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ペティの義理チョコに大喜びのストーカーに挑まれるよすみの>>https://www.youtube.com/watch?v=LzjHZUtaYnQ&t=13s]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2026年)
+#right(){&link_up(🔝ページTOPへ)}
+
+**ストグラ切り抜き動画（Season2）
+***&size(110%){&bgcolor(#71bdd0){&nbsp()&font(#ffffff,90%){　2025年}&nbsp(6)}}
+#region(開く)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|12/21|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[思わぬ質問をされ返答が無茶すぎる警察よすみの>>https://www.youtube.com/watch?v=sqRU8fXGZBc]]||
+|12/23|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[春の交通安全でボコされるさぶ郎＆副業警察よすみのww>>https://www.youtube.com/watch?v=hj-P1YfT6ns]]||
+|12/26|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察クビをかけた大喜利バトルに動揺するよすみの>>https://www.youtube.com/watch?v=zHA8pkOmdLA]]||
+|12/29|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[不気味な施設でとんでもない茶番劇を見せられる警察よすみの>>https://www.youtube.com/watch?v=fOLDjqHg2f8]]||
+//|mm/dd|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画タイトル>>ここに動画URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2025年)
+***&size(110%){&bgcolor(#71bdd0){&nbsp()&font(#ffffff,90%){　2026年}&nbsp(6)}}
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|01/02|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[散歩中に深刻な問題を発見するさぶ郎＆よすみの>>https://www.youtube.com/watch?v=qJ3aznlNI64]]||
+|01/04|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察のピリついた空気をぶっ壊しにいくさぶ郎＆よすみの>>https://www.youtube.com/watch?v=9gLrRU1FRHE]]||
+|01/16|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[不運なダウンで搬送される北署長に爆笑するよすみのｗｗ>>https://www.youtube.com/watch?v=Q6W7uLGIa7k]]||
+|01/20|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[868の人質に取られた小峯さんをぶっ飛ばす警察よすみの>>https://www.youtube.com/watch?v=h6-iDBK_IgI]]||
+|01/24|5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[無能すぎるゆちゃタクシーに絶句するよすみのｗｗ>>https://www.youtube.com/watch?v=PBah_piWA_Y]]||
+|01/27|6|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[犬上リオのチョケで大騒ぎする同期よすみのｗ>>https://www.youtube.com/watch?v=fl3d5a8MFvc]]||
+|02/05|7|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[車の下敷きになったコーラボーイを煽りまくる猫又ぴぴｗ>>https://www.youtube.com/watch?v=mVEjArwb_Q0]]||
+//|mm/dd|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画タイトル>>ここに動画URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+
+#right(){&link_up(🔝ページTOPへ)}
+
+**ストグラ切り抜きショート動画（Season1）
+***&size(110%){&bgcolor(#654f87){&nbsp()&font(#ffffff,90%){　2024年}&nbsp(6)}}
+#region(開く)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|06/26|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[緊迫した警察体験３日目、大型事件がコメディになる瞬間ww>>https://www.youtube.com/shorts/lUnRFDdBpgc]]||
+|07/03|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[絶対に数字が覚えられない男 VS 返金対応>>https://www.youtube.com/shorts/Ljptu_YFmBk]]||
+|07/25|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[センスがダサすぎて、いじめを疑われてしまう可哀想な上田さん>>https://www.youtube.com/shorts/3IqMYx9kV24]]||
+|08/15|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[雰囲気だけでやってる最悪の店員>>https://www.youtube.com/shorts/EW9R7lh92DQ]]||
+|08/16|5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ダサすぎるポスター作ったときの同僚のリアクションww>>https://www.youtube.com/shorts/VsR_Fch_RKU]]||
+|08/17|6|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[お迎えを依頼してきた羽山ペティを置き去りにする回>>https://www.youtube.com/shorts/HvtckgH_Qek]]||
+|10/21|7|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[大川さんから真っ当に信頼がない男、よすみのかど>>https://www.youtube.com/shorts/UY-_bx5q8WU]]||
+|10/22|8|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[豪華すぎるズズの名前が信じられない、よすみのかど>>https://www.youtube.com/shorts/BnsiEXpqzRM]]||
+|10/23|9|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[アヌギフ白川からのお誘いをバレバレの嘘で断る>>https://www.youtube.com/shorts/pWaNzkTwVSg]]||
+|11/11|10|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察署襲撃中、副業で警察やってるせいでもはや意味がわからない男>>https://www.youtube.com/shorts/WvtkkqSopIo]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2024年)
+***&size(110%){&bgcolor(#654f87){&nbsp()&font(#ffffff,90%){　2025年}&nbsp(6)}}
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#region(開く)
+|~投稿日|~#|~動画タイトル|~備考|h
+|01/22|11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ALLINに襲われたブロッコリー斎藤、あり得ないダウンをしてしまうｗｗ>>https://www.youtube.com/shorts/HmMOWC7O-Yo]]||
+|02/02|12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[普段は見ないアプリ使ってみたｗ>>https://www.youtube.com/shorts/AactAJ_DblY]]||
+|02/15|13|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[言い訳が下手すぎるコンビニ強盗犯ｗｗ>>https://www.youtube.com/shorts/64ESoIytcGw]]||
+|02/16|14|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[凶悪な雪だるま(ケインオー)に交渉を挑んだ結果…ｗ>>https://www.youtube.com/shorts/YaCC8DTQakE]]||
+|02/18|15|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[言葉を失い、心神喪失する瞬間ｗｗ>>https://www.youtube.com/shorts/_DRhfIHLIyo]]||
+|03/06|16|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ヒロヤマモトの完璧な整理術に、もちろん気づいてた男>>https://www.youtube.com/shorts/Vnv5KRrRkm0]]||
+|03/20|17|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[トナカイ顔のひと、お名前を教えて>>https://www.youtube.com/shorts/ak23lxinPI8]]||
+|04/08|18|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[シャッフルパージデー特有の不思議な距離感＆スネイプ先生がギャングだった世界ｗ>>https://www.youtube.com/shorts/RguRtn2V0So]]||
+|04/09|19|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[雑すぎるハリーポッターのコスプレ大会ｗｗ>>https://www.youtube.com/shorts/75srtLomnlY]]||
+|04/10|20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[副業警察の存在に、驚きを隠せない不二子キャスパーｗ>>https://www.youtube.com/shorts/fe9a2zMzklk]]||
+|05/25|21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[新署長バーバリアン田中の掲げる、砂漠署の方針に驚愕する署員たちｗ>>https://www.youtube.com/shorts/5cxeu3CbD-8]]||
+|05/26|22|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[仲間(D4)に不満爆発で、居場所を失う高橋滅論が可哀想ｗ>>https://www.youtube.com/shorts/MwEoVseKUZ8]]||
+|05/27|23|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[大遅刻をした豆乳ちゃんもも、砂漠署×DEPに鬼の圧をかけられるww>>https://www.youtube.com/shorts/A6A6Fmlqp68]]||
+|06/15|24|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ルナホークアイとの交通事故により、容姿批判バトル始まる>>https://www.youtube.com/shorts/cDiIUGeILzE]]||
+|08/09|25|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[嘘しかついてはいけない、警察のユニオン座学>>https://www.youtube.com/shorts/QYcQWfVhh7c]]||
+|08/10|26|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[市民から舐められすぎた結果、雑用をさせられる警察>>https://www.youtube.com/shorts/KFIMjaiXnP0]]||
+|08/11|27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[無能な味方『ぺんゆきや』に大打撃を受ける砂漠署ｗｗ>>https://www.youtube.com/shorts/h4d8XGLHcCQ]]||
+|08/12|28|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[後輩警察に新ハラスメント「人柱になってくれないか？」>>https://www.youtube.com/shorts/HSopx_P0r2I]]||
+|08/13|29|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[”人柱”選定中にナターレが見つけた答えに納得する副業警察>>https://www.youtube.com/shorts/4yd5Bh0YQPA]]||
+|08/15|30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ドッキリ相手のボイラを雑に帰らせる警察ｗｗ>>https://www.youtube.com/shorts/Dvfp_sP4NhQ]]||
+|08/16|31|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察無線でありえない聞き間違いをしてしまう副業警察ｗｗ>>https://www.youtube.com/shorts/1DA_Ip4xUXM]]||
+|08/17|32|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[「いまの何の音だ？」「普通に〇〇では？」>>https://www.youtube.com/shorts/ZBXCKBX6SEI]]||
+|08/18|33|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[プリズンからプリズンへ送る”最短ワープ”ｗｗ>>https://www.youtube.com/shorts/hFjOYd4BBzw]]||
+|08/19|34|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ブロッコリー斎藤の『成れ果て』ｗｗ>>https://www.youtube.com/shorts/wRwkDuf_ATY]]||
+|08/22|35|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[これが砂漠署流のランク昇格試験だ…？！>>https://www.youtube.com/shorts/yTfLVrKaizw]]||
+|08/23|36|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[アジカンを殉職させてみた>>https://www.youtube.com/shorts/sWDXAJxOYPc]]||
+|08/24|37|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[小峯さんはメイドカフェでなんと呼ばれるか？>>https://www.youtube.com/shorts/b05zS6sZ2ow]]||
+|09/01|38|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察パラゴンを最弱にするカスタムｗｗ>>https://www.youtube.com/shorts/1J7Q1ihJLbE]]||
+|09/02|39|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[22世紀からやって来た”羽山ペティ(?)”>>https://www.youtube.com/shorts/0Oh73cFPvII]]||
+|09/03|40|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[逃亡中の上田が謎すぎる一言ww>>https://www.youtube.com/shorts/fqJFY95_Vs0]]||
+|09/11|41|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[脅し文句で本当に牢屋が開いてしまった上田さんｗｗ>>https://www.youtube.com/shorts/rV8x8rtAmu0]]||
+|09/13|42|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[接客で大川さん＆羽山ペティを怒らせる方法>>https://www.youtube.com/shorts/uGVMcYaovLY]]||
+|09/15|43|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[人生諦めたペティの飼い猫>>https://www.youtube.com/shorts/-PEH7C5Y2I0]]||
+|09/17|44|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[救急隊のシリアス中にずっとやかましい警察３人衆ｗｗ>>https://www.youtube.com/shorts/8Drk45BwQUI]]||
+|10/16|45|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察試験を合格最低点で突破した男ｗｗ>>https://www.youtube.com/shorts/SieDt_Tt87U]]||
+|11/08|46|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ボイラに説教されてるときの心境これ>>https://www.youtube.com/shorts/RLTMLyXoruc]]||
+|11/09|47|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[クズすぎる発言に爆笑するさぶ郎>>https://www.youtube.com/shorts/k_I0ENoI_OA]]||
+|11/12|48|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[沈み続けるガヴァイを追う大川と副業警察>>https://www.youtube.com/shorts/HBxUM02BzE4]]||
+|11/18|49|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[会話がオワってるボイラと副業警察>>https://www.youtube.com/shorts/INXo8h_XZQY]]||
+|11/25|50|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[神道まきぴ先生による会話アドバイスに不満なボイラ>>https://www.youtube.com/shorts/keICDIihkic]]||
+|12/09|51|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[遠慮するパンチャンvs急に責めてくるペティ>>https://www.youtube.com/shorts/EoEAhh0cp5g]]||
+|12/10|52|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[かどのウソを瞬時に察知する羽山ペティ>>https://www.youtube.com/shorts/WTZmIVNOoNA]]||
+|12/16|53|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[意地でも無線を戻さない立花乱歩と副業警察よすみの>>https://www.youtube.com/shorts/XawvWDvgM3U]]||
+|12/19|54|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[救急隊じゃなくて個人医に頼った結果ww>>https://www.youtube.com/shorts/kc3YIiS52kk]]||
+|12/24|55|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[すずめの巣みたいなブロッコリー斎藤>>https://www.youtube.com/shorts/x0fhxPApdek]]||
+|12/25|56|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[一同驚きのやらかしをする山下ひろしくん（警察体験）（市長）>>https://www.youtube.com/shorts/4ZM-N2Wqtwc]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2025年)
+***&size(110%){&bgcolor(#654f87){&nbsp()&font(#ffffff,90%){　2026年}&nbsp(6)}}
+#region(開く)
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|01/08|57|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[羽山ペティ「結婚です。」>>https://www.youtube.com/shorts/4RQt5oCFBqo]]||
+|01/10|58|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ブロッコリーの保護者バーバリアン田中ｗ>>https://www.youtube.com/shorts/nwUn88eBSBc]]||
+|01/13|59|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[シリアス中の電話に応答してみたｗ>>https://www.youtube.com/shorts/oaL6dZhh_1Y]]||
+|02/09|60|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察を舐めてる羽山パティｗｗ>>https://www.youtube.com/shorts/O4QFOtS7vmI]]||
+|02/10|61|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[羽山ペティをスマートにお迎えした結果>>https://www.youtube.com/shorts/NZgWU5eZ4wU]]||
+|02/11|62|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[辛辣なパティ vs 軽口警察よすみの>>https://www.youtube.com/shorts/SWfCSDoQ2SM]]||
+//|mm/dd|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画タイトル>>ここに動画URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2026年)
+
+**ストグラ切り抜きショート動画（Season2）
+***&size(110%){&bgcolor(#654f87){&nbsp()&font(#ffffff,90%){　2025年}&nbsp(6)}}
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+#region(開く)
+|~投稿日|~#|~動画タイトル|~備考|h
+|12/22|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[答えづらすぎるSWATベストの買い方>>https://www.youtube.com/shorts/IEf84c5TreU]]||
+|12/23|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ガヴァイにあだ名を付ける丘猫まる＆よすみの>>https://www.youtube.com/shorts/V1QAoP7Nsno]]||
+|12/27|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[食事にありつけなかったドクと戦犯ほのぼの山すごすｗｗ>>https://www.youtube.com/shorts/68jEkXPzLSI]]||
+|12/28|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[警察のグダグダな大喜利対決ｗｗ>>https://www.youtube.com/shorts/EPHK1JsgN-k]]||
+|12/30|5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[勝手にアジカン結婚を匂わせてみた>>https://www.youtube.com/shorts/-G-YVOfV5lE]]||
+|12/31|6|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[署長のボケに一瞬でマジレスする警察よすみの>>https://www.youtube.com/shorts/IEf84c5TreU]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2025年)
+
+***&size(110%){&bgcolor(#654f87){&nbsp()&font(#ffffff,90%){　2026年}&nbsp(6)}}
+#table_style(head=center:#29EAEB){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|01/03|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[やり方知らないのに対応する警察さぶ郎＆よすみのｗｗ>>https://www.youtube.com/shorts/B2s3GyrNuxU]]||
+|01/05|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[元特殊刑事課、現トラボルタの赤ちゃんキャップ>>https://www.youtube.com/shorts/evix3VZ7Dwg]]||
+|01/07|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[怒れる男をさらに怒らせるさぶ郎ｗｗ>>https://www.youtube.com/shorts/_hiuAcNAALA]]||
+|01/18|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[キモセン最悪の日に爆笑するよすみのかど/さぶ郎/二部らるたるｗｗ>>https://www.youtube.com/shorts/a_xZj6AD0PE]]||
+|01/21|5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[人質の小峯玲をぶっ飛ばす>>https://www.youtube.com/shorts/wfA6EclUnyM]]||
+|01/24|6|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ざうるすタクシー VS 警察タクシー>>https://www.youtube.com/shorts/mHORm9nREYs]]||
+|01/25|7|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[全く乗せる気がないタクシーゆちゃめろでぃ>>https://www.youtube.com/shorts/FUX-gRFhV30]]||
+|01/28|8|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[選ばれなかった男、安部霊明>>https://www.youtube.com/shorts/sVBfrc-7q9k]]||
+|01/30|9|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[キルレが高すぎた犬上リオ>>https://www.youtube.com/shorts/vNL12S8BTEg]]||
+|02/06|10|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[見捨てられた伊勢えびす(空気読み)>>https://www.youtube.com/shorts/BePPV0POaS0]]||
+|02/07|11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[無自覚でコーラボーイを煽る猫又ぴぴ>>https://www.youtube.com/shorts/t7WsxwtbupE]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#right(){&link_up(🔝ページTOPへ)}

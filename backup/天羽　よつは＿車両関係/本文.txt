@@ -1,0 +1,97 @@
+// アットウィキにて修正
+***&color(#b9d08b){●}Season１
+#region(開く)
+****&color(#b9d08b){●}所有車両
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　所有車両
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#size(90%){{{#table_style(head=center:#f19ca7:#fff,hover=#fdfdea:bold)
+|~車種|~写真|~名前|~入手日|~備考|H
+|&icon_fa(fa fa-car-side)|&blankimg(S1_ウーバーマフトセンチネル.jpeg,x=55,y=55)|&ruby(ウーバーマフト　センチネル){Übermacht Sentinel}|2022/9/29|&small(){[[葉風邪>葉風邪　ナイ]]カスタム}&br()パステルオレンジ/ホワイト|
+|&icon_fa(fa fa-motorcycle)|&blankimg(S1_Bati.jpeg,x=55,y=55)|&ruby(バティー){ Bati } 801|2023/9/21|ライムグリーン/クリーム|
+|&icon_fa(fa-solid fa-sleigh)|&blankimg(S1_スノーモービル.jpeg,x=55,y=55)|&ruby(スノーモービル){Snowmobile}|2023/12/24|&small(){鳥野からのプレゼント}&br()オレンジ|
+|&icon_fa(fa fa-bicycle)|&blankimg(S1_Jクルーザー.jpeg,x=55,y=55)|&ruby(ジェイ　クルーザー){J-Cruiser}|2024/1/29|グリーン|
+|&icon_fa(fa fa-helicopter)|&blankimg(S1_バザード.jpeg,x=55,y=55)|&ruby(バザード){Buzzard}|2024/5/29|&small(){治からの誕生日プレゼント&br()車体には二人のイラストステッカーが貼られている}|
+|&icon_fa(fa fa-helicopter)|&blankimg(S1_ハボック.jpeg,x=55,y=55)|&ruby(ハボック){Havok}|2024/5/29|&small(){鳥野からの誕生日プレゼント}|
+|&icon_fa(fa fa-car-side)|&blankimg(S1_クリーク.jpeg,x=55,y=55)|&ruby(クリーク){Clique}|2024/5/29|&small(){救急隊からの誕生日プレゼント}|
+|&icon_fa(fa fa-car-side)|&blankimg(S1_SM722.jpeg,x=55,y=55)|&ruby(エスエム){SM}722|2024/5/29|&small(){救急隊からの誕生日プレゼント}|
+|&icon_fa(fa fa-van-shuttle)|&blankimg(S1_ヨウガクラシック.jpeg,x=55,y=55)|&ruby(ヨウガ　 クラシック){Youga Classic} 4x4|2024/6/19|&small(){ToYの販売車両}|
+|&icon_fa(fa fa-plane)|&blankimg(準備中.jpeg,x=55,y=55)|-&co(&ruby(ふりがな){名前}|2024/12/25|&small(){[[犬上リオ>>犬上　リオ]]さんからのクリスマスプレゼント&br()公務員プレゼント交換会でもらったもの}&br()|
+|&icon_fa(fa fa-car-side)|&blankimg(S1_Peanut.jpeg,x=55,y=55)|&ruby(ピーナッツ){Peanut}|2024/12/25|&small(){治に譲ってもらったもの&br()『夕張メロン号』と名付けて乗っている}|
+|&icon_fa(fa fa-car-side)|&blankimg(S1_HotringWeevil.jpeg,x=55,y=55)|&ruby(ホットリング　ウィーヴィル){Hotring Weevil}|2025/1/16|&small(){治とお揃いの猫耳カー&br()ナンバープレートは市長補佐に変更してもらった&br()『YOTHA529』}|
+|&icon_fa(fa fa-parachute-box)|&blankimg(S1_気球.jpeg,x=55,y=55)|&ruby(気球){VooDoo Dooballoo}|2025/2/18|&small(){鳥野(鳥野エアー)から購入&space(2)カスタムはゆたんぽが担当&br()カラーリングはよつはの好きな色でもある治の瞳の色}&br()オレンジ／グリーン／パール光沢：ピンク|
+|&icon_fa(fa fa-car-side)|&blankimg(S1_イッシースポーツ.jpeg,x=55,y=55)|&ruby(イッシースポーツプラス){Issi Sport Plus}|2025/3/14|&small(){治からホワイトデーのプレゼント&br()治こだわりのカスタム メインカラー：白／サブカラー：ピンク&br()ダウンライトはよつはの桜色の髪と同じカラー}|
+|&icon_fa(fa fa-egg)|&blankimg(S1_エッグカー.jpeg,x=55,y=55)|&ruby(エッグカー){Egg Car}|2025/5/10|&small(){エッグカーを5台当てた[[ゆたんぽ>>ゆた　んぽ]]からのプレゼント}&br()|
+|&icon_fa(fa fa-car-side)|&blankimg(S1_ツーリスモオマジオ.jpeg,x=55,y=55)|&ruby(ツーリスモ){Turismo} &ruby(オマジオ){Omaggio}|2025/5/28|&small(){[[救急隊>>ロスサントス救急救命隊]]からの誕生日プレゼント}&br()ピンク|
+|&icon_fa(fa fa-motorcycle)|&blankimg(S1_ヘルスポーン.jpeg,x=55,y=55)|&ruby(ヘルスポーン){Hellspawn}|2025/5/28|&small(){[[てつお>>切間　てつお]]さんからの誕生日プレゼント}&br()ピンク|
+|&icon_fa(fa fa-motorcycle)|&blankimg(S1_ FaggioSport.jpeg,x=55,y=55)|&ruby(ファギオ){Faggio} &ruby(スポーツ){Sport}|2025/5/28|&small(){[[ゆたんぽ>>ゆた　んぽ]]さんからの誕生日プレゼント 二人乗りのバイク}&br()ピンク|
+|&icon_fa(fa fa-car-side)|&blankimg(S1_ラストン.jpeg,x=55,y=55)|&ruby(ラストン){Ruston}|2025/5/28|&small(){[[さぶ郎>>安保　さぶ郎]]さんからの誕生日プレゼント}&br()カメレオン|
+|&icon_fa(fa fa-car-side)|&blankimg(S1_ビバナイト.jpeg,x=55,y=55)|&ruby(ビバナイト){Vivanite}|2025/5/28|&small(){[[ミンドリー>>ミン　ドリー]]さんからの誕生日プレゼント 6人乗りのファミリーカー}&br()カメレオン／オレンジ|
+|&icon_fa(fa fa-motorcycle)|&blankimg(S1_ケンプファー.jpeg,x=55,y=55)|ケンプファー|2025/5/28|&small(){[[まるマヨ]]からの誕生日プレゼント 二人乗りのバイク}&br()ピンク／グリーン／オレンジ|
+|&icon_fa(fa fa-car-side)|&blankimg(S1_FlashGT.jpeg,x=55,y=55)|&ruby(フラッシュ){Flash} GT|2025/5/28|&small(){[[犬上リオ>>犬上　リオ]]さんからの誕生日プレゼント}&br()カメレオン／オレンジ／ピンク|
+|&icon_fa(fa fa-plane)|&blankimg(S1_ AlphaZ1.jpeg,x=55,y=55)|&ruby(アルファ){Alpha}-Z1 |2025/5/28|&small(){[[救急隊>>ロスサントス救急救命隊]]からの誕生日プレゼント}&br()ピンク|
+#co{
+|&icon_fa(fa fa-van-shuttle)|【画像準備中】|&ruby(エスエム722){SM722}|2024/5/29|&small(){ToYの販売車両}|
+}
+}}}
+****&color(#b9d08b){●}救急個人車両
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　救急隊　個人車両
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#size(90%){{{#table_style(head=center:#f19ca7:#fff)
+|~車種|~名前|~支給日|~備考|H
+|&icon_fa(fa fa-truck-medical)|EMS雷電bnyC,Emergency|2023/10/14|フルカスタム|}}}
+
+#size(90%){{{#table_style(head=center:#f19ca7:#fff,hover=#fdfdea)
+|2023.10〜2024.3|&blankimg(S1_救急隊個人車両1.jpeg,x=75,y=75)|車体：オレンジ光沢&br()ミラー：ピンク&br()サイドシル：ピンク&br()タイヤ：ピンク|
+|2024.3〜|&blankimg(S1_救急隊個人車両2.jpeg,x=75,y=75)|初期カラー&br()(歪みで剥がれてからそのまま)|
+|2024.7.21〜|&blankimg(S1_救急隊個人車両3.jpeg,x=75,y=75)|[[ねずみさん>>えぐち　きの子]]カスタム&br()車体：オレンジみのあるピンク&br()パール光沢：ピンク |
+|2024.12.7〜|&blankimg(S1_救急隊個人車両4.jpeg,x=75,y=75)|[[切間 てつお>>切間　てつお]]カスタム&br()車体：ピンク / ライト：オレンジ&br()パール光沢：白 / タイヤ：白|}}}
+//
+#co{
+#size(90%){{{#table_style(head=center:#f19ca7:#fff)
+|~車種|~名前|~購入日|~備考|H
+|&icon_fa(fa fa-truck-medical)|名前|日付|備考|}}}
+
+#size(90%){{{#table_style(head=center:#f19ca7:#fff,hover=#fdfdea)
+|日付〜|&blankimg(画像,x=75,y=75)|車体：カラー&br()|}}}
+}
+****&color(#b9d08b){●}レース
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　レース
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#div(width=170px,bgcolor=#f2a0a1){&font(b,#FFFFFF,120%){　レーサー名：428}}
+#size(90%){{{
+#table_style(head=center:#f19ca7:#fff,hover=#fdfdea)
+|~種別|~レース名|~ベストタイム|
+|&icon_fa(fa fa-truck-medical)|ライデン訓練コース|01:59:862 (暫定-位)|
+|&icon_fa(fa fa-helicopter)|ヘリ上級コース|03:19.634 (暫定-位)|
+|&icon_fa(fa fa-helicopter)|ヘリ爆散コース|-|
+|&icon_fa(fa fa-helicopter)|速いヘリ用訓練コース|02:59.926 (暫定-位)|
+|&icon_fa(fa fa-motorcycle)|バイク訓練コース|-|}}}
+#endregion(Season１)
+***&color(#b9d08b){●}Season２
+#region(開く)
+****&color(#b9d08b){●}所有車両
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　所有車両
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#size(90%){{{#table_style(head=center:#f19ca7:#fff,hover=#fdfdea:bold)
+|~車種|~写真|~名前|~車両ナンバー|~入手日|~備考|H
+|&icon_fa(fa fa-motorcycle)|&blankimg(Faggio Mod.jpeg,x=55,y=55)|Faggio MOD|YOTHA428|2025/12/25|ピンク|
+|&icon_fa(fa fa-car-side)|&blankimg(Lampadati Cinquemila.jpeg,x=55,y=55)|&ruby(ランパダーティ){Lampadati} &ruby(チンクエミーラ){Cinquemila}|　|2026/6/20|水色 4人乗り|
+
+#co{
+|&icon_fa(fa fa-car-side)|&blankimg(画像.jpeg,x=55,y=55)|&ruby(なまえ){名前}|ナンバー|20yy/mm/dd|説明|
+}
+}}}
+
+#endregion(Season２)

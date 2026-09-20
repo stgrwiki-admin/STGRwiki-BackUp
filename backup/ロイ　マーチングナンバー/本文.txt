@@ -1,0 +1,581 @@
+//編集者様　いつも更新していただき誠にありがとうございます。一観測者として嬉しく思い、一編集者として応援させていただいております。
+//エピソード欄の更新は焦らず、お時間と余裕がある時に、書けそうなところから少しずつ記載していけば大丈夫です！
+*&size(23){&color(#e0e0e0){&font(#dcd3b2){&icon_fa(fa fa-user)}  プロフィール}}
+#slide_img(auto=4,position=left,width=300,height=450){ロイマーチングナンバー_初期.jpg,Roy 9055.jpg,ロイ 夏服.jpeg}
+//より良い写真がありましたら差し替えをお願いします。
+
+#table_style(head=#66cc99:#fff){}
+#table_filter(){Season1=hide,Season2=show}
+|~シーズン|~&icon_fa(fa fa-calendar)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|ロイ　マーチングナンバー |
+|~出身地|~&icon_fa(fa fa-location-dot)|>|イギリス|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|1999年11月11日 (&countup(1999/11/11,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年8月14日 (&countup(2024/08/14,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|メカニック【[[9055]]】社員 &small(){'24/9/25～}&br()普通車D【[[プラネットモータース]]】社長&br()・&small() {社員 '24/9/12〜→ 社長 '25/8/24～}|メカニック【[[LUNA Garage]]】社員 &small(){'26/3/22～}&br()&small(){&openclose2(show=▼過去の職業){&br()メカニック【[[JTS>ジョアンナテクノサービス]]】 &small(){'25/12/27～'26/3/22}}}|
+|~副業|~&icon_fa(fa fa-star)|番組制作会社【[[Lunaflix]]】運転手部門 &small(){臨時雇用 '24/10/4～}&br()ガソリンスタンド経営&small(){（9051番地）}&br()免許センター【[[斎藤Driving School]]】教員 &small(){'25/6/19～}||
+|~レーサー名|~&icon_fa(fas fa-car)|ロイ||
+|~TwiX|~&icon_fa(fa fa-dove)|@ロイロイ|@roy|
+|BGCOLOR(#ff99cc):~プレイヤー|BGCOLOR(#ff99cc):~&icon_fa(fa fa-address-card-o)|>|ニケ|
+|BGCOLOR(#ff99cc):~告知等|BGCOLOR(#ff99cc):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/Nike_niconama]]|
+|BGCOLOR(#ff99cc):~配信場所|BGCOLOR(#ff99cc):~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/n1ke1036]]|
+|BGCOLOR(#ff99cc):~アーカイブ|BGCOLOR(#ff99cc):~&icon_fa(fa fa-video-camera)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Nike-001/videos]]|
+//|BGCOLOR(#ff99cc):~別キャラ|BGCOLOR(#ff99cc):&icon_fa(fa fa-user-plus)|&small(){&openclose2(show=※ネタバレ注意){&br()[[🍂マークの場合ここに別キャラ名を入力]]}}|
+//|~&color(white){切り抜きについて}||
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&size(23){&color(#e0e0e0){&font(#dcd3b2){&icon_fa(fa-solid fa-id-card)}  基本情報}}
+・イギリスでメカニックの仕事に就いていた青年。
+・さらなるメカニックのスキルアップの為にロスサントスへ降り立った。
+・[[ジェフリー>ジェフリー　ヒッチコック]]とはイギリスにいた頃の友人。[[ルーファス>ルーファス　ウィルキンズ]]が経営していたホテルの車両修理を依頼したことで出会い、意気投合した。
+・たまに別の人格のようなどこかで聞いたことがあるような声が聞こえてくることがある。
+・車とバイクが好き。特にバイクには目が無い。
+・あだ名はロイロイ。
+#openclose(show=その他にも個性的な呼ばれ方が…)
+{
+・[[レン>帝　レン]]「足舐めロイ」：13日目に場の雰囲気に乗って[[えるな>月乃　えるな]]と[[ももこ>牛桃　ももこ]]の足を舐めた所から。不可抗力。
+・[[サトシ>真新　サトシ]]「大剣ロイ」：メカニック行脚中「体験ロイ」の名でいたことから。ファイアー エンブレムじゃない。
+・[[ほわいとたいが>イチカ　ウィルキンズ]]「マスタング」：某錬金術師に登場する大佐との間違え。指パッチンで火は出ない。
+・[[天草>天草　蒼]]「ロリ クラウチングスターター」：全く関係ないが語感から勝手に。ちょっと慣れ始めている。
+・[[パンチャン>パン　チャン]]「ルロイ」：よく知らないが修道士じゃない。
+・[[ダミチェル>ダ　ミチェル]]「普通車」：名前を「普通車D ロイ」にしていることから。Last nameと思われている説。
+・[[セイジ>文殊　セイジ]]「早ロイ」：141日目に即落ち2コマで[[れりあ>聖母　れりあ]]を女にしてスッキリ戻ってきたことから。遅ロイだと否定。
+・「エロイ」：言動や女性に好まれることの多い良い声から。
+}
+・4日目にはメカニック「[[9055]]」の体験後内定を貰っていたが、他のメカニックの社風も体験したいため保留にしてもらい、1ヶ月間メカニック体験行脚をしていた。
+・・様々な体験を経て29日目に改めて社長の[[上田さん>上田　さん]]に連絡し、[[9055]]の正社員として就職した。
+・車関係だけではなく、様々な業種の方と交流するきっかけになるとよいとの思いで番組制作会社[[Lunaflix]]へ就職。
+・・基本的に[[社長>月乃　えるな]]と一緒に仕事をすることから形態を非ジョブに変更。
+・2025/8/24 [[ルウ>ルウ　ギャラクティカ]]から[[プラネットモータース]]を引き継ぎ二代目社長に就任。
+
+//----------------------------------------------------------------------------------------------------
+*&size(23){&color(#e0e0e0){&font(#dcd3b2){&icon_fa(fa fa-car)}  所有車両}}
+***&u(){Season1}
+#region(開く)
+***&bold(){&icon_fa(fa fa-car-side)} 車
+#region(開く)閉じる
+#table_filter(){Date=hide,Class=show,メーカー=hide,車両名=show,日本語=show,Tier=show,登録名=hide,備考=show}
+#table_style(head=#3c3c3c:#f9fcff,center,b)
+|~Date|~Class|~メーカー|~車両名|~日本語|~Tier|~登録名|~備考|h
+|‘24/08/14|🚗 Sports|Benefactor|[[Schlagen GT>>https://w.atwiki.jp/gtav/pages/2441.html]]|シュラーゲンGT|||初日に[[ジェフ>ジェフリー　ヒッチコック]]から餞別として貰う、初カスタム車|
+|’24/08/21|🏍 Motorcycle|Nagasaki|[[Shinobi>>https://w.atwiki.jp/gtav/sp/pages/2738.html]]|シノビ|D|ニンジャ1000|[[菖光モータース]]にて[[ジョーカー>半沢　直ふぃ]]に買って貰う|
+|’24/08/23|🚘️ Compact|Benefactor|[[Panto>>https://w.atwiki.jp/gtav/pages/1205.html]]|パント|||[[ReBoot]]にて初心者限定10円で購入|
+|’24/08/23|🚲 Bicycle||[[BMX>>https://w.atwiki.jp/gtav/pages/606.html]]|||||
+|’24/08/28|🚚 Van|Bravado|[[Rumpo Custom>>https://w.atwiki.jp/gtav/pages/1630.html]]|ランポ カスタム||ランポカスタム|[[ジョアンナ>町田　ジョアンナ]]より購入|
+|’24/08/28|🚙 Sedan|Obey|[[Tailgater S>>https://w.atwiki.jp/gtav/pages/2701.html]]|テイルゲイターS|||[[パキち>パキ　ち]]より購入|
+|’24/09/04|🚗 Sports|Karin|[[Futo>>https://w.atwiki.jp/gtav/pages/152.html]]|フト|||[[上田さん>上田　さん]]にカスタム練習用として買って貰う|
+|’24/09/08|🚚 Van|Vapid|[[Speedo Express>>https://www.gta5-mods.com/vehicles/vapid-speedo-express-add-on-liveries]]|スピードー エクスプレス||食料庫スピードエクスプレス|[[上田さん>上田　さん]]より購入|
+|’24/09/11|🚗 Sports|Progen|[[Itali GTO>>https://w.atwiki.jp/gtav/pages/2433.html]]|イタリGTO|S|フェラーリ812スーパーファスト|[[にしのん>にし　のん]]より購入|
+|’24/09/12|🚗 Sports|Dinka|[[Jester RR Drift>>https://w.atwiki.jp/gtav/pages/2694.html]]|ジェスターRR||新型スープラ|[[ルウ>ルウ　ギャラクティカ]]にディーラー仕事を教わりつつ買って貰う|
+|’24/09/22|🚙 Muscle|Bravado|[[Gauntlet Classic>>https://w.atwiki.jp/gtav/pages/2492.html]]|ガントレット レトロ||ダッジチャージャー|[[上田さん>上田　さん]]より譲渡|
+|’24/09/22|🏍 Motorcycle|Maibatsu|[[Sanchez>>https://w.atwiki.jp/gtav/pages/672.html]]|サンチェス||オフロードバイク白|[[上田さん>上田　さん]]より譲渡|
+|’24/09/23|🚗 Sports|Dinka|[[Jester Racecar>>https://w.atwiki.jp/gtav/pages/1316.html]]|ジェスター レースカー|A|ロイJoin!!!!! |9055就職お祝い|
+|’24/09/27|🚗 Coupe|übermacht|[[Oracle XS>>https://w.atwiki.jp/gtav/pages/284.html]]|オラクルXS|||[[斎藤モータース]]にて[[上田さん>上田　さん]]に買って貰う|
+|’24/09/29|🚗 Sports|Invetero|[[Coquette D10>>https://w.atwiki.jp/gtav/pages/2625.html]]|コケットD10|A|コルベットC8|[[上田さん>上田　さん]]より購入|
+|’24/10/15|🚗 Sports|Dinka|[[Jester Racecar>>https://w.atwiki.jp/gtav/pages/1316.html]]|ジェスター レースカー|A|ジェスターレースカー|9055 9月のタイムアタック抽選で当選|
+|’24/10/18|🚗 Sports|Annis|[[ZR350 Drift>>https://w.atwiki.jp/gtav/pages/2693.html]]|ZR350 Drift||||
+|’24/10/18|🚙 Muscle|Bravado|[[Gauntlet Hellfire>>https://w.atwiki.jp/gtav/pages/2496.html]]|ガントレット ヘルファイア||||
+|’24/10/18|🚙 Muscle|Bravado|[[Buffalo STX>>https://w.atwiki.jp/gtav/pages/2722.html]]|バッファローSTX||||
+|’24/10/23|🚙 Muscle|Bürgerfahrzeug|[[Weevil Custom>>https://w.atwiki.jp/gtav/pages/2879.html]]|ウィーヴィル カスタム||テントウムシ|てんとう虫のカスタム|
+|’24/10/25|🚗 Sports|Maibatsu|[[Sunrise R>>https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds]]|サンライズR|A|ランサーエヴォリューション|[[ねずみさん>えぐち　きの子]]から購入、ねずみさんステッカー付き|
+|’24/10/27|🚜 off-road|Dinka|[[Verus>>https://w.atwiki.jp/gtav/pages/2687.html]]|ベルス|C||SWAG用に購入してもらったバギー|
+|’24/10/31|🚙 Muscle|Vapid|[[Clique>>https://w.atwiki.jp/gtav/pages/2431.html]]|クリーク|||大きなピンクリボンのカスタム|
+|’24/11/02|🚙 Muscle|Albany|[[Manana Custom>>https://w.atwiki.jp/gtav/pages/2642.html]]|マニャーナ カスタム||||
+|’24/11/02|🚙 Muscle|Vapid|[[Chino>>https://w.atwiki.jp/gtav/pages/1457.html]]|チノ||||
+|’24/11/17|🚙 Muscle|Declasse|[[Vigero ZX>>https://w.atwiki.jp/gtav/pages/2839.html]]|ヴィゲーロZX|||[[焔>焔　零児]]カスタム|
+|’24/11/20|🚗 Sports|übermacht|[[Sentinel Classic>>https://w.atwiki.jp/gtav/pages/1864.html]]|センチネル レトロ||コンテスト用センチネル|カスタムコンテスト候補車|
+|’24/11/21|🚙 Sedan|Cheval|[[Fugitive>>https://w.atwiki.jp/gtav/pages/301.html]]|フュージティブ|||SWAG SP編 で購入|
+|’24/12/12|🚗 Sports|Emperor|[[Vectre>>https://w.atwiki.jp/gtav/pages/2706.html]]|ベクター||レクサス|[[上田さん>上田　さん]]より購入|
+|’24/12/12|🚗 Sports|Pfister|[[Comet S2>>https://w.atwiki.jp/gtav/pages/2698.html]]|コメットS2|||[[めぐ>八王子　めぐ]]カスタム|
+|’24/12/19|🚗 Sports|Annis|[[Roxanne>>https://gtafanon.fandom.com/wiki/Roxanne]]|ロクサーヌ|A|シルビア|[[上田さん>上田　さん]]にボーナスを貰い購入|
+|’24/12/22|🚗 Sports|Karin|[[Kuruma>>https://w.atwiki.jp/gtav/pages/1356.html]]|クルマ|B|ランエボ|[[上田さん>上田　さん]]より購入　※衛星外|
+|’25/01/01|🚗 Sports|Declasse|[[Drift Tampa>>https://w.atwiki.jp/gtav/pages/1648.html]]|ドリフトタンパ|A|ドリフトタンポ||
+|’25/01/02|🚘️ Compact|Karin|[[Turtle>>https://www.gta5-mods.com/vehicles/karin-turtle-demo-addon-fivem-tuning-liveries-template]]|タートル|C|マーチ|お正月限定宝探しイベント車　※衛星外|
+|’25/01/02|🚘️ Compact|Annis|Mochi|モチ|||お正月限定宝探しイベント車　※衛星外|
+|’25/01/08|🚐 SUV|Weeny|[[Issi Rally>>https://w.atwiki.jp/gtav/pages/2956.html]]|イッシーラリー|B|イッシーラリー||
+|’25/01/30|🏍 Motorcycle|Western|[[Powersurge>>https://w.atwiki.jp/gtav/pages/2958.html]]|パワーサージ|S|パワーサージ|初のEV車|
+|’25/02/04|🏎️ Super|Överflöd|[[Tyrant>>https://w.atwiki.jp/gtav/pages/1967.html]]|タイラント|S|タイラント|D事件前日[[上田さん>上田　さん]]より購入|
+|’25/02/06|🚐 SUV|Albany|[[Cavalcade XL>>https://w.atwiki.jp/gtav/pages/3070.html]]|カヴァルケードXL||キャデラック|[[猫ノ宮>猫ノ宮　ひな]]とお揃いのリバリー|
+|’25/03/05|🚛 Van|Dinka|Cody|コディ|C|軽トラ|The軽トラ|
+|’25/03/11|🚗 Sports|Weeny|[[Issi Sport>>https://w.atwiki.jp/gtav/pages/2478.html]]|イッシースポーツ|A|イッシースポーツ|[[葛城>葛城　司]]の手により[[てつお>>切間　てつお]]エディションに|
+|’25/03/14|🚗 Sports|Weeny|[[Issi Sport Plus>>https://www.gta5-mods.com/vehicles/weeny-issi-sport-plus-addon-fivem]]|イッシースポーツ プラス||イッシースポーツプラス|ホワイトデー限定、リバリーが特徴的|
+|’25/03/28|🛻 Motorcycle|Nagasaki|[[Snowmobile>>https://www.gtaall.com/gta-5/motorcycles/71936-snowmobile.html]]|スノーモービル||スノーモービル||
+|’25/04/07|🚗 Sports|Vapid|[[Flash GT>>https://w.atwiki.jp/gtav/pages/1954.html]]|フラッシュGT|A|貸し出し用フラッシュGT|社用車|
+|’25/04/19|🏎️ Super|Benefactor|[[Krieger>>https://w.atwiki.jp/gtav/pages/2512.html]]|クリーガー|S|クリーガー|[[上田>上田　さん]]所有車を割引価格で購入|
+|’25/05/18|🚐 SUV|Karin|Vivante LE|ビバナイトLE||ベルファイア|EV車|
+|’25/05/23|🚗 Sports|Annis|[[Remus Ⅱ>>https://www.gta5-mods.com/vehicles/annis-remus-ii-add-on-tuning-lod-s-sounds]]|レミュスⅡ||レミュス2ドリフト|[[上田>上田　さん]]所有車を割引価格で購入|
+|’25/05/23|🚗 Sports|Invetero|[[Coquette Thunderstruck>>https://www.gta5-mods.com/vehicles/invetero-coquette-thunderstruck-add-on-tuning-lods]]|コケット サンダーストラック|A|コケット サンダーストラック|[[須藤>須藤　冬馬]]より中古価格で購入|
+|’25/05/31|🚘️ Compact|Bürgerfahrzeug|[[Hotring Weevil>>https://www.gta5-mods.com/vehicles/bf-hotring-weevil]]|ホットリング ウィーヴィル||猫耳カー|猫耳カスタムカー|
+|’25/06/08| 🏎️ Super |Pegassi|[[Tempesta EVO Stradale>>https://www.gta5-mods.com/vehicles/bf-hotring-weevil]]|テンペスタ エボ|S|ウラカン|[[ジョーカー>半沢　直ふぃ]]からの代物弁済品|
+|’25/06/28|🚗 Sports|Lampadati|[[Tropos Rallye>>https://w.atwiki.jp/gtav/pages/1642.html]]|トロポスラリー|B|トロポスラリー|[[万十>>万十　忍]]から購入|
+|’25/07/20|🚗 Sports|Annis|[[ZR350 Drift>>https://w.atwiki.jp/gtav/pages/2693.html]]|ZR350 Drift||||
+|’25/07/20|🚗 Sports|Annis|[[Remus Drift>>https://w.atwiki.jp/gtav/pages/2696.html]]|レミュス ドリフト||||
+|’25/08/13|🏎️ Super|Pegassi|[[Torero XO>>https://w.atwiki.jp/gtav/pages/2821.html]]|トレロXO||トレロ|[[猪狩>>猪狩　翔太]]から購入|
+|’25/08/13|🏎️ Super|Enus|[[Paragon S>>https://w.atwiki.jp/gtav/pages/3118.html]]|パラゴン S||パラゴンS|[[猪狩>>猪狩　翔太]]から購入|
+|’25/08/15|🚚 Van|Vapid|[[Speedo Express>>https://www.gta5-mods.com/vehicles/vapid-speedo-express-add-on-liveries]]|スピードー エクスプレス||販売車1||
+|’25/08/15|🚚 Van|Bürgerfahrzeug|[[Surfer Custom>>https://w.atwiki.jp/gtav/pages/2947.html]]|サーファー カスタム||||
+|’25/08/15|🚐 SUV|Albany|[[Cavalcade XL>>https://w.atwiki.jp/gtav/pages/3070.html]]|カヴァルケードXL||シャノール販売車|[[ShanaoR]]の移動販売用車|
+|’25/08/28|🏎️ Super|Pegassi|[[Zentorno>>https://w.atwiki.jp/gtav/pages/1086.html]]|ゼントーノ||ゼントーノ|[[ねずみさん>えぐち　きの子]]から購入|
+|’25/09/05|🚗 Sports|Annis|[[Remus Tsuki Edition>>https://www.gta5-mods.com/vehicles/annis-remus-tsuki-edition-add-on-fivem-tuning-lods]]|レミュス ツキ エディション|||[[猪狩>>猪狩　翔太]]から購入|
+//|入手日|クラス|メーカー|車両名|日本語|ティア|登録名|備考|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(車)
+***&bold(){&icon_fa(fa-solid fa-helicopter)} 航空機
+#region(開く)閉じる
+#table_filter(){Date=hide,Class=show,メーカー=hide,車両名=show,日本語=show,登録名=hide,備考=show}
+#table_style(head=#3c3c3c:#f9fcff,center,b)
+|~Date|~Class|~メーカー|~車両名|~日本語|~登録名|~備考|h
+|’25/06/08| 🚁 Helicopter||[[Sparrow>>https://w.atwiki.jp/gtav/pages/2654.html]]|スパロー|すぱ|[[ジョーカー>半沢　直ふぃ]]からの代物弁済品2|
+|’25/08/14| 🛩️ Aeroplane|Nagasaki|[[Ultralight>>https://w.atwiki.jp/gtav/pages/1816.html]]|ウルトラライト|一周年は流石にGOOD!!!|[[パンチャン>パン　チャン]]から1周年記念にもらう、紙飛行機|
+|’25/08/14| 🚁 Helicopter|Maibatsu|[[Frogger>>https://w.atwiki.jp/gtav/pages/664.html]]|フロガー||[[9055]]のみんなから1周年のお祝いにもらう|
+|’25/09/14| 🛩️ Aeroplane|Buckingham|[[Vestra>>https://w.atwiki.jp/gtav/pages/978.html]]|ベストラ||[[福田>福田　明宏]]から購入|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(航空機)
+***&bold(){&icon_fa(fa-solid fa-gift)} 譲渡車両
+#region(開く)閉じる
+#table_filter(){譲渡日=show,メーカー=hide,車名=show,譲渡相手=show,備考=show}
+#table_style(head=#3c3c3c:#f9fcff,center,b)
+|~譲渡日|~メーカー|~車名|~譲渡相手|~備考|h
+|‘24/10/05|Declasse|[[Asea>>https://w.atwiki.jp/gtav/pages/297.html]]|[[一　一]]|’24/09/22購入|
+|‘24/10/15|Declasse|[[Asea>>https://w.atwiki.jp/gtav/pages/297.html]]|[[ミカ・ピトフーイ]]|’24/09/22購入|
+|‘24/10/15|Declasse|[[Asea>>https://w.atwiki.jp/gtav/pages/297.html]]|[[ティキーチック　のすけ]]|’24/10/15購入|
+|’24/12/20|Declasse|[[Vigero ZX>>https://w.atwiki.jp/gtav/pages/2839.html]]|[[物忘　レイナ]]|カスタムコンテスト出品車（某黄色変形金属生命体B）を販売|
+|’25/01/30|Pegassi|[[Toros>>https://w.atwiki.jp/gtav/pages/2427.html]]|[[胡　將]]|’24/11/12購入|
+|‘25/07/22|Weeny|[[Issi Sport>>https://w.atwiki.jp/gtav/pages/2478.html]]|[[羽津　ピオコ]]|’25/07/20購入|
+|‘25/08/26|Bravado|[[Buffalo STX>>https://w.atwiki.jp/gtav/pages/2722.html]]|[[天春　ヨウ]]|’25/08/26購入|
+|‘25/08/28|Enus|[[Paragon S>>https://w.atwiki.jp/gtav/pages/3118.html]]|[[聖母　れりあ]]|’25/08/28購入|
+//|’24/10/22|🚗|Annis|[[Remus>>https://w.atwiki.jp/gtav/pages/2696.html]]|[[上田さん>上田　さん]]にカスタム|
+//|譲渡日|メーカー|車名|譲渡相手|備考|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(譲渡車両)
+#endregion(S1)
+//===================================
+
+***&u(){Season2}
+***&bold(){&icon_fa(fa fa-car-side)} 車
+#region(開く)閉じる
+#table_filter(){Date=hide,Class=show,メーカー=hide,車両名=show,日本語=show,Tier=show,登録名=hide,備考=show}
+#table_style(head=#3c3c3c:#f9fcff,center,b)
+|~Date|~Class|~メーカー|~車両名|~日本語|~Tier|~登録名|~備考|h
+|‘25/12/27|🚘️ Compact|Dinka|[[Blista>>https://w.atwiki.jp/gtav/pages/164.html]]|ブリスタ|||number plate：BXET1111|
+|‘26/01/02|🛵 Motorcycle|Pegassi|[[Faggio Sports>>https://w.atwiki.jp/gtav/pages/1657.html]]|ファギオ スポーツ||||
+|‘26/03/22|🏍️ Motorcycle|Dinka|[[Double-T>>https://w.atwiki.jp/gtav/pages/579.html]]|ダブルT||||
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+//---------------------------------------------------------------------------------------------------
+
+
+
+*&size(23){&color(#e0e0e0){&font(#dcd3b2){&icon_fa(fa fa-calendar-o)}  エピソード}}
+#size(90%){&color(#aaa){編集はこちら}}
+#size(90%){&color(#aaa){[[EP1>>ロイ　マーチングナンバー/エピソード1]]}}#size(90%){&color(#aaa){[[EP2>>ロイ　マーチングナンバー/エピソード2]]}}#size(90%){&color(#aaa){[[EP3>>ロイ　マーチングナンバー/エピソード3]]}}
+
+#div(width=330px,bgcolor=#8FBC8F){&font(16px,b,#fff){&space()Season1}}
+***&u(){2024年}
+#region(開く,close)
+#include(ロイ　マーチングナンバー/エピソード1)
+#endregion
+***&u(){2025年}
+#region(開く,close)
+#include(ロイ　マーチングナンバー/エピソード2)
+#endregion
+//----------------------------------------------------------------------------------------------------
+
+#div(width=330px,bgcolor=#8FBC8F){&font(16px,b,#fff){&space()Season2}}
+#include(ロイ　マーチングナンバー/エピソード3)
+//----------------------------------------------------------------------------------------------------
+
+
+*&size(23){&color(#e0e0e0){&font(#dcd3b2){&icon_fa(fa-solid fa-folder)}  アーカイブ}}
+&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/n1ke1036]]アーカイブ(60日間)は、適宜 &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Nike-001/videos]]にアップロードされます。
+
+#div(width=330px,bgcolor=#8FBC8F){&font(16px,b,#fff){&space()Season1}}
+***&u(){2024年}
+#region(開く,close)
+***&bold(){8月}
+#region(【1〜13日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2024/08/14|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【1日目】降り立つ>>https://youtu.be/kI1lOej1d9c?si=CR_ccqrOBEj0mGcF]]||
+|2024/08/15|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【2日目】邂逅>>https://youtu.be/NZ_xxy3iQYo?si=bhxc8iT4vPshnC4T]]||
+|2024/08/20|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【3日目】時間>>https://youtu.be/587kHPQ_HGQ?si=GUayVinIvUBw6lwu]]||
+|2024/08/21|4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【4日目】少し>>https://youtu.be/BE_WLuwDPj0?si=BuRZesPLImANZ2ad]]||
+|2024/08/22|5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【5日目】旅立ち>>https://youtu.be/Pk7FDDja-Kw?si=z7Y364PRSRElzawX]]||
+|2024/08/23|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【6日目】早起き>>https://youtu.be/SNMEq7nZPVg?si=azWGfBnO0SZW2fv-]]||
+|2024/08/23|6.5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【6.5日目】早起きの続き>>https://youtu.be/sVIABQjk64M?si=tXSu5UTweeUjVt8L]]||
+|2024/08/24|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【7日目】少しだけ>>https://youtu.be/xcUkdTvDGcY?si=EqsJxnUVJvEJv_Y4]]||
+|2024/08/24|7.5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【7.5日目】引き続き>>https://youtu.be/LfBjhdyo4nI?si=aygKJVNVa0rsR-J7]]||
+|2024/08/26|8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【8日目】ついに>>https://youtu.be/gKSfxr_1mtA?si=2NCqcADFfGpr3sbE]]||
+|2024/08/27|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【9日目】初心者マークからの卒業>>https://youtu.be/IV-8ygGOsVQ?si=5dC1XzkoFS4Z2OPM]]||
+|2024/08/28|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【10日目】これから>>https://youtu.be/nKm8scNqWwc?si=yrSjQIgWTl2EPP_a]]||
+|2024/08/29|11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【11日目】ちるちる>>https://youtu.be/beAkpk2BM-w?si=3h45BbT3KLjdqIsP]]||
+|2024/08/30|12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【12日目】今日も>>https://youtu.be/WElByhIHYE8?si=bH5wb82vFdpEmpI9]]||
+|2024/08/31|13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【13日目】まったりと>>https://youtu.be/iVX40oXf_z0?si=DMgeYwtbHpOhszHI]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){9月}
+#region(【14〜32日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2024/09/03|14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【14日目】街の変化>>https://youtu.be/01wRGWt7NNU?si=2-GEXpljNWu4yzZn]]||
+|2024/09/06|15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【15日目】遅起き>>https://youtu.be/E7UzlhaNdIc?si=lfDJ8vJVLkyIjls4]]||
+|2024/09/07|16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【16日目】早起き>>https://youtu.be/ppgYbO2Fpe4?si=9j_gBpNdJJbrwreJ]]||
+|2024/09/08|17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【17日目】今日も一日>>https://youtu.be/FAnjM5zp-pI?si=6PER9t8dWDgGf1aS]]||
+|2024/09/10|18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【18日目】何が起こる>>https://youtu.be/iHBkZJmdtP8?si=W19aToSOxqdf9so1]]||
+|2024/09/11|19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【19日目】BMC体験>>https://youtu.be/ydVG4EwcJbs?si=QkxOUujoZdBrr3-t]]||
+|2024/09/12|20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【20日目】PYC体験>>https://youtu.be/F4tF8KdqfnM?si=DvVJb0FBggVnr4m-]]||
+|2024/09/13|21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【21日目】続PYC体験>>https://youtu.be/cCD44NBPv-k?si=RSVPvHUm8fNccGV4]]||
+|2024/09/15|22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【22日目】続PYC体験２>>https://youtu.be/2VAUraCaGXI?si=I4XBj-tVE23QATFk]]||
+|2024/09/17|23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【23日目】今日はなにしよう>>https://youtu.be/8jl_cmO1zNk?si=8qSoyNY5yZUWjM7v]]||
+|2024/09/18|24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【24日目】レースにはまりそう>>https://youtu.be/rXxa4uy4g1k?si=v9Nb2FS7upSSZamn]]||
+|2024/09/19|25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【25日目】かなり遅起き>>https://youtu.be/HLoDt2PaW0U?si=94NvkD7WhYRx_CQI]]||
+|2024/09/20|26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【26日目】少しだけ>>https://youtu.be/obQby-2DQtg?si=IbDt-ylN1yXGh8BF]]||
+|2024/09/21|27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【27日目】気持ちの変化>>https://youtu.be/rt_pffGXRPU?si=taI9FxzfLbjD6PsU]]||
+|2024/09/22|28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【28日目】これから>>https://youtu.be/QKHpApEM0sg?si=2D08VljFZEeCIfDd]]||
+|2024/09/25|29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【29日目】ついに>>https://youtu.be/U76Sw_Wc4UY?si=9Yhp3B6KyR2qCQ21]]||
+|2024/09/26|30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【30日目】9055就職>>https://youtu.be/bXpl3Ga6lus?si=dfmBUaYFaLSkCVnv]]||
+|2024/09/27|31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【31日目】遅起きすぎた>>https://youtu.be/oL_BU3K9F3Q?si=reOESReUTJZpFWBo]]||
+|2024/09/29|32|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【32日目】レーシックした>>https://youtu.be/nxN0Fa-YM00?si=NABhoRq7r4MHbW8a]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){10月}
+#region(【33〜51日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2024/10/01|33|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【33日目】なにしよう>>https://youtu.be/ocjiOpUSmYQ?si=xgBtYVDnXzORm_NI]]||
+|2024/10/02|34|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【34日目】これから>>https://youtu.be/NdX5eBsbT3I?si=UQRtLTa0D9eRnvhN]]||
+|2024/10/04|35|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【35日目】練習>>https://youtu.be/kCDBeTRsOFc?si=l0DqYyhMscURo0pS]]||
+|2024/10/05|36|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【36日目】圧倒的遅起き>>https://youtu.be/9shBB3rC0JA?si=YJRFfDad8tbtLf78]]||
+|2024/10/06|37|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【37日目】圧倒的遅起き続き>>https://youtu.be/4C2AOpq9Ct8?si=o7BLz5yWQa1hzMDd]]||
+|2024/10/08|38|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【38日目】圧倒的遅起きpart3>>https://youtu.be/pJsjLvae-as?si=3NMKS5vFJPM8pXrf]]||
+|2024/10/10|39|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【39日目】何かする>>https://youtu.be/4ozy2EtvnHk?si=h9cGg1CHnBi_nrhd]]||
+|2024/10/15|40|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【40日目】久々>>https://youtu.be/hxIPqZXXAfY?si=oaCvOKKCBjGmLldi]]||
+|2024/10/16|41|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【41日目】いつも通り>>https://youtu.be/gRgjCqn4X6k?si=p9ZeGIod_gOy51JT]]||
+|2024/10/17|42|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【42日目】必ず手に入れる>>https://youtu.be/0ak5D5iaYEU?si=ID-RbSzAhvSVopbY]]||
+|2024/10/17|42.5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【42.5日目】ふて寝からの起床>>https://youtu.be/h_a-IL8hHM8?si=O1thj1yRVdosPnta]]||
+|2024/10/18|43|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【43日目】f今日も一日>>https://youtu.be/SAUTzdmIUCw?si=wrniT3ysNAo60MGy]]||
+|2024/10/22|44|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【44日目】車をいじりたい>>https://youtu.be/HhHPbHsIx0A?si=OEZxFuMAPk7eseEw]]||
+|2024/10/23|45|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【45日目】レースの練習>>https://youtu.be/PzjaJnHcuKg?si=yd2JfxLTlHVLIGwR]]||
+|2024/10/25|46|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【46日目】ちるちる>>https://youtu.be/tIPPMVospRA?si=kVmB2FfUP5ioPtuf]]||
+|2024/10/26|47|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【47日目】今日も今日とて>>https://youtu.be/TUTV2Zhrxps?si=vPlZUhl2wrhP2MhP]]||
+|2024/10/27|48|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【48日目】ちるたいむ>>https://youtu.be/UIPySyu09M4?si=8zFNlPvWwtLOG9gm]]||
+|2024/10/29|49|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【49日目】見に行く>>https://youtu.be/2AVP3wQYMxg?si=-A1OFfldeIRM0f0p]]||
+|2024/10/30|50|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【50日目】世界統合>>https://youtu.be/EIvJg6naaLM?si=bjHG70MZFc2jWrnm]]||
+|2024/10/31|51|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【51日目】練習>>https://youtu.be/iKpuuxliACQ?si=rfNAfMk_fOnCGPR8]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){11月}
+#region(【52〜63日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2024/11/01|52|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【52日目】練習２>>https://youtu.be/0bIQE8BsRgE?si=RFaJslUoYQLGdWRy]]||
+|2024/11/02|53|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【53日目】久々の早起き>>https://youtu.be/HLp7THyHOWU?si=RrAP_lCVvSC_0lyC]]||
+|2024/11/06|54|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【54日目】閃き>>https://youtu.be/o4VGZ0z9Si4?si=ItpR5AWwRRrJoNMJ]]||
+|2024/11/10|55|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【55日目】誕生日だってよ>>https://youtu.be/SslzLZdpi3A?si=qWvxBxzekQM82Hfq]]||
+|2024/11/12|56|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【56日目】誕生日後>>https://youtu.be/OGLEy2Sr4sw?si=Cr46JWcWDn6eqdbT]]||
+|2024/11/13|57|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【57日目】色々あった9055その後>>https://youtu.be/TE4tkFWuYBo?si=qJOZMS812-2tao8w]]||
+|2024/11/14|58|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【58日目】今日も一日>>https://youtu.be/JAtT608ClQs?si=wh5_LggezrlH-8B7]]||
+|2024/11/17|59|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【59日目】なにかあるらしい>>https://youtu.be/c_boYJJFvew?si=sab8C4Qdrh8IumPG]]||
+|2024/11/19|60|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【60日目】9055イベント>>https://youtu.be/98GPnXCy1-k?si=pn2QZqP8txdA5p8H]]||
+|2024/11/20|61|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【61日目】コンテストに向けて>>https://youtu.be/dZflulgRiZg?si=ZAPlTYuErBohVSWw]]||
+|2024/11/21|62|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【62日目】9055イベント>>https://youtu.be/4ImAHpY1RLw?si=CzKDS1Id5jcoefzZ]]||
+|2024/11/26|63|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【63日目】コンテストに向けて>>https://youtu.be/X3NIHtPCvQY?si=ItIj4XQoa-vZGxfe]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){12月}
+#region(【64〜72日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2024/12/03|64|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【64日目】久々の起床 前編>>https://youtu.be/xFTA5dA0bxY?si=1HE9Wj3nXeb_gEf2]]||
+|2024/12/03|64|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【64日目】久々の起床 後編>>https://youtu.be/Br6r5r7xSxg?si=R3lMLQ3tQYoHkMyT]]||
+|2024/12/07|65|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【65日目】イベントの日>>https://youtu.be/s9nFRvdGQLM?si=YoInnUo0PQWcqd0t]]||
+|2024/12/10|66|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【66日目】無馬記念の結果>>https://youtu.be/bNcIEfDfu2E?si=F0zonpOPTAqXpl94]]||
+|2024/12/12|67|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【67日目】散財>>https://youtu.be/llxoxI58MiA?si=s6zPM1UPhjZm6JrC]]||
+|2024/12/14|68|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【68日目】なにしようか>>https://youtu.be/wzNar13I3Ps?si=T7iNX7AfEskGSkzo]]||
+|2024/12/15|69|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【69日目】ちょっと早め>>https://youtu.be/D5Jy8dQ29rE?si=mjE1G4EKozG_HWei]]||
+|2024/12/19|70|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【70日目】いつも通り>>https://youtu.be/NBaj-Dl7f38?si=hhp76p0D8KIrPY-V]]||
+|2024/12/20|71|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【71日目】いつもより>>https://youtu.be/ULxa57JDdkQ?si=d77mHrAvfoPjSMGn]]||
+|2024/12/25|72|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【72日目】なにしよう>>https://youtu.be/XnIA6hk3yeI?si=mijluuR2IMB9TXCp]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&u(){2025年}
+#region(開く,close)
+***&bold(){1月}
+#region(【73〜81日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/01/01|73|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【73日目】あけおめ！>>https://youtu.be/_cG7DwjiSiw?si=4I6Yk_Xy2xWqXHYI]]||
+|2025/01/03|74|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【74日目】衛星外からおきました>>https://youtu.be/Jp9jFdHmAoE?si=5KsmW8ARFwtiChWU]]||
+|2025/01/08|75|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【75日目】おそよう>>https://youtu.be/Qk5PkdzCxGs?si=0ywMGB4sqS3K9vWm]]||
+|2025/01/16|76|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【76日目】気づいたらこの時間おそよう>>https://youtu.be/3HERkkzy-oo?si=Y93hFxzkCMbppzpw]]||
+|2025/01/18|77|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【77日目】一旦早起きすぎた>>https://youtu.be/ig-u3O-_6Fc?si=4ETpSQ2YSom_7a4P]]||
+|2025/01/21|78|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【78日目】おきた>>https://youtu.be/LGctOqjzF8s?si=sdvBpJadrVcFztBw]]||
+|2025/01/22|79|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【79日目】いつもどおり>>https://youtu.be/6Y4aT30iGJY?si=Dia1IQ7expEngsMl]]||
+|2025/01/23|80|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【80日目】今日も一日>>https://youtu.be/xXO2-ipyMhM?si=rufIuqfZ_rmCJCFY]]||
+|2025/01/30|81|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【81日目】今日も一日>>https://youtu.be/qTRx4t7D0go?si=86hV1cOXKFzNpAPJ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){2月}
+#region(【82〜91日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/02/01|82|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【82日目】問題を解く>>https://youtu.be/yu8QxDhIZlQ?si=8I0TpGwbBETBtF8F]]||
+|2025/02/04|83|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【83日目】問題を解く続き>>https://youtu.be/bKsrXVW4Cy8?si=vPIuP3PNpRJWxWsE]]||
+|2025/02/04|83|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【83日目】続 問題を解く続き>>https://youtu.be/7jreEBUbDHk?si=YwYw5DBgoifiPFTl]]||
+|2025/02/06|84|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【84日目】テストが終わらない>>https://youtu.be/Eu2nifIOTzE?si=-pH_huujj4cOSNJa]]||
+|2025/02/07|85|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【85日目】終わりの始まり>>https://youtu.be/jKrUDAikcvE?si=ovdQOyF3p-ffVHNf]]||
+|2025/02/08|86|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【86日目】上田さんはどうなるのか>>https://youtu.be/n0mPQTT9h14?si=_7B-KBAdGX2gd874]]||
+|2025/02/09|87|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【87日目】一難去ってまた一難>>https://youtu.be/tXM_PT6y05Y?si=Ecb_dkhOGfmpih1T]]||
+|2025/02/12|88|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【88日目】その後>>https://youtu.be/qaZLQTHTGwI?si=ohvlSxDAZq49g5Fj]]||
+|2025/02/21|89|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【89日目】久々>>https://youtu.be/hOuAOhSzNPE?si=vNzqVbsCNMijDV_U]]||
+|2025/02/22|90|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【90日目】なにしよう>>https://youtu.be/MCsoUpnA2rI?si=ZqKmz3W2GBkugJht]]||
+|2025/02/25|91|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【91日目】BMC×9055のテストの話>>https://youtu.be/Gl7Ppy-SNg4?si=HbgDWme3DXeqcNl7]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){3月}
+#region(【92〜98日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/03/05|92|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【92日目】今日はなにをしよう>>https://youtu.be/7MXmYhu--08?si=qYKlvJfU1Lpcy3By]]||
+|2025/03/11|93|【93日目】いつも通り||
+|2025/03/14|94|【94日目】少しだけ||
+|2025/03/18|95|【95日目】メカニックが何か変わったらしい||
+|2025/03/20|96|【96日目】会議||
+|2025/03/28|97|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【97日目】街を見る>>https://youtu.be/Jez_woHeQT8?si=2iKyVLly1gC-hePe]]||
+|2025/03/31|98|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【98日目】街があいてる！Part 1/3>>https://youtu.be/Hkl9yoZNJgk?si=ahys_5-4NoB7M3X0]]|※ SPD2025|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){4月}
+#region(【98〜106日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/04/01|98|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【98日目】街があいてる！Part 2/3>>https://youtu.be/gSrf99097-k?si=BIQlvUhRvTxmkXR3]]|※ SPD2025|
+|2025/04/01|98|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【98日目】街があいてる！Part 3/3>>https://youtu.be/nO_-maStFWg?si=MD89wHNJLGTZxNpd]]|※ SPD2025|
+|2025/04/03|99|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【99日目】会議>>https://youtu.be/-zl6vYi2omw?si=Xd4iWGlJo59NN9VP]]||
+|2025/04/05|100|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【100日目】9055の変化>>https://youtu.be/7YVk811nq0A?si=ehKd7qIU4kpGEKMJ]]||
+|2025/04/06|101|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【101日目】遅めの起床>>https://youtu.be/Qyua7Ki5AXE?si=LeIuOy4mNTYZgtkQ]]||
+|2025/04/11|102|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【102日目】遅起き早寝>>https://youtu.be/9A43q7j8K4c?si=X9Xe0I7PBe301Orl]]||
+|2025/04/12|103|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【103日目】走る>>https://youtu.be/IDGioHgPNp4?si=TYNN9oAWDiDQEaNt]]||
+|2025/04/17|104|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【104日目】うさぎさんがライブらしい>>https://youtu.be/GmU4l1t0Tb0?si=6DTJd4RZKneJt0tr]]||
+|2025/04/19|105|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【105日目】おそい>>https://youtu.be/6AYvb7EBELg?si=NQc3Aem4sZmX2GhE]]||
+|2025/04/26|106|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【106日目】遅番>>https://youtu.be/z5SaqJ7sHes?si=YdR_F-CjeGt-S2BA]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){5月}
+#region(【107〜112日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/05/03|107|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【107日目】遅番>>https://youtu.be/HMZ4lN4ByBo?si=86ivlHz0LVHmwU-y]]||
+|2025/05/10|108|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【108日目】9055に！ついに！！>>https://youtu.be/Qcz1np_mom4?si=x22L4Mn06r7bThCu]]||
+|2025/05/18|109|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【109日目】超遅番>>https://youtu.be/ezqZPGMpRnY?si=10HQ9ky-CzqFFOI_]]||
+|2025/05/22|110|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【110日目】いつもより>>https://youtu.be/ipJJnUjW5SU?si=bBgnzqUAGE0ScXGa]]||
+|2025/05/23|111|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【111日目】最遅>>https://youtu.be/gmjGZnASb_4?si=qQ3e0SlfAbxepzwz]]||
+|2025/05/31|112|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【112日目】寝坊>>https://youtu.be/JjPOlTLh7Rg?si=J2_aym3ZHEdQLnAW]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){6月}
+#region(【113〜120日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/06/01|113|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【113日目】マジでちょっとだけ>>https://youtu.be/Z0Bc-s4ZIL4?si=ZaORKjyfKwRw0Qu8]]||
+|2025/06/08|114|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【114日目】久々ですかもしかして>>https://youtu.be/91WZtIAG_G4?si=78817jJ0VAc64YEz]]||
+|2025/06/11|115|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【115日目】今後についてて>>https://youtu.be/x2G7YWpLiNQ?si=xQaAyoElxKFEGdJk]]||
+|2025/06/13|116|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【116日目】街が・・・？？>>https://youtu.be/EfQVBZnTupE?si=fSgOr_9-Lpx9l1O-]]||
+|2025/06/15|117|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【117日目】悩み>>https://youtu.be/qTc1BLuX1ic?si=4Vzh95tkZYOdu6uQ]]||
+|2025/06/19|118|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【118日目】目覚め>>https://youtu.be/p-AtCzCIrhA?si=pnaGzOpL1QXkMYg0]]||
+|2025/06/25|119|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【119日目】上田を見守る>>https://youtu.be/qF3p53EbiPc?si=Yw8oGs0aPUjLLwux]]||
+|2025/06/28|120|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【120日目】こんばんは>>https://youtu.be/W5UzJkD-cOk?si=VUvLxgS7GitwYDNy]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){7月}
+#region(【121〜127日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/07/04|121|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【121日目】起きた>>https://youtu.be/DzAFFzvv_Po?si=ApIcqR06TdcahLKQ]]||
+|2025/07/11|122|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【122日目】おっそ>>https://youtu.be/EZyjC8pcz8g?si=pz-Jn2IFlQA3vZ0h]]||
+|2025/07/12|123|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【123日目】🌸可愛いだけじゃダメですカーレース🌸>>https://youtu.be/54r8nTbhMlU?si=ainVugXeAdmBgS5H]]||
+|2025/07/20|124|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【124日目】久しぶりじゃない？>>https://youtu.be/jlG7MO1SM9c?si=Ms1BPm8Z6snK5k9W]]||
+|2025/07/22|125|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【125日目】【オーバータイム】本当に最後>>https://youtu.be/GZiaoudUMqo?si=jeUnV5zByvqCVNhx&t=2947]]|&small(){※ 別世界後 ツイキャス同時配信}|
+|2025/07/30|126|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【126日目】いつも遅い>>https://youtu.be/5Z3tTEulsqw?si=A-N9bu4qElO_fQYo]]||
+|2025/07/31|127|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【127日目】いつも通り遅い>>https://youtu.be/dunhON_AyXI?si=mBc7RVkSF1Paz3SS]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){8月}
+#region(【128〜145日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/08/01|128|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【128日目】9055会議？？>>https://youtu.be/AllMggrBWxw?si=5byRiqBa9BnnTLxk]]||
+|2025/08/06|129|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【129日目】ふらっと>>https://youtu.be/-zn0CiHUtD0?si=Kq1shwk6QAQRPUIP]]||
+|2025/08/07|130|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【130日目】少しだけ>>https://youtu.be/tbn32mMum3k?si=-gGvNGqXA3l3oDuJ]]||
+|2025/08/08|131|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【131日目】ロスリンピック前日>>https://youtu.be/pjyLoB6qzE0?si=DTZQIiPs2H_pKFoZ]]||
+|2025/08/09|132|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【132日目】ロスリンピック>>https://youtu.be/9elQ5y5b0GE?si=lc1QN-ALZa8D5m_p]]||
+|2025/08/10|133|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【133日目】一夜明けて>>https://youtu.be/L4sPjRsAA9I?si=c3ku5IvjoNJhgfnT]]||
+|2025/08/13|134|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【134日目】分岐点>>https://youtu.be/cBum_x--M74?si=SLmaY5L1D1VXV9j_]]||
+|2025/08/14|135|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【135日目】今日で街来て１周年>>https://youtu.be/iHMUoxuEYfo?si=FATM8ZgoCHvwq6dL]]||
+|2025/08/15|136|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【136日目】いつもより>>https://youtu.be/gbkgWYC-RcA?si=kWTQUvRKnQ-xtLdp]]||
+|2025/08/17|137|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【137日目】ラスト50分>>https://youtu.be/M3V7wLDCBu4?si=g2d5nEQC0iA3uB1o]]||
+|2025/08/19|138|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【138日目】今日も一日>>https://youtu.be/00WhxHTopog?si=Rdqv9GOrUXO33JHy]]||
+|2025/08/21|139|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【139日目】いつも通り遅起き>>https://youtu.be/C6VyCjX2hJg?si=NruCte2GiwgApbEc]]||
+|2025/08/22|140|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【140日目】遅すぎる起床>>https://youtu.be/6dO-mRL-SDY?si=eEIrb2Cxm5fxoCNv]]||
+|2025/08/23|141|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【141日目】起きるのギリギリ>>https://youtu.be/OjNRtQQvh2M?si=6NSiBEaBL6eargCb]]||
+|2025/08/24|142|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【142日目】いつもより早い！>>https://youtu.be/LTkB1lFk3uI?si=UcuN6eCVWprcv_i9]]||
+|2025/08/26|143|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【143日目】イベント尽くし>>https://youtu.be/Q6E29iyiUhQ?si=T5oNq5RVuA6GH2-x]]||
+|2025/08/27|144|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【144日目】3周年！>>https://youtu.be/V6rIWflyHw4?si=GsLe6s77NVnT05-W]]||
+|2025/08/28|145|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【145日目】何か起こりそう>>https://youtu.be/f-DtNOuo1xE?si=1vP7Q9Fddgd-IkHW]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){9月}
+#region(【146〜157日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/09/02|146|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【146日目】事件は起こった・・・>>https://youtu.be/cMiuHrlkVZA?si=qzZZvFiciyi1-A6F]]||
+|2025/09/05|147|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【147日目】今日は何か>>https://youtu.be/JYBuGk6jZAQ?si=OId-3H7dwGPAHusI]]||
+|2025/09/06|148|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【148日目】少しだけ>>https://youtu.be/JzoY9FgwPtg?si=t4vrBvQ4dSXTBlll]]||
+|2025/09/10|149|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【149日目】起きる！>>https://youtu.be/N559QfuODus?si=NFbHBb3Xai1eB6wo]]||
+|2025/09/12|150|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【150日目】遅番>>https://youtu.be/fSZjao3NIn0?si=vVsmNK2aXTQs19mJ]]||
+|2025/09/13|151|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【151日目】ルウさん帰国の日…>>https://youtu.be/5-6OHnu5Br0?si=rKkewnGuj4iwgLqB]]||
+|2025/09/14|152|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【152日目】いつも元気に遅番>>https://youtu.be/C9kQ6MXYj54?si=PVFgSBzs3zHYfaTs]]||
+|2025/09/16|153|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【153日目】まだ続くE5’sバーガーの依頼>>https://youtu.be/LChGFdz_ZUg?si=VTWsCmbHXWraNQEZ]]||
+|2025/09/18|154|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【154日目】いつも通り遅起き>>https://youtu.be/Du8qzlpJ8VY?si=fzLxCmlbpl1IqRic]]||
+|2025/09/19|155|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【155日目】瞑想後の起床>>https://youtu.be/M16gqJvcVgY?si=lR5dtj0Hy5orEiKz]]||
+|2025/09/20|156|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【156日目】早起き早寝>>https://youtu.be/jSN7SflpCiw?si=idR3cUjCzy5zAU4F]]||
+|2025/09/21|157|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【157日目】街のゆくえ・・・>>https://youtu.be/5m-NZhI7coU?si=aoRC1tW36uDVPJRG]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#endregion
+//----------------------------------------------------------------------------------------------------
+
+#div(width=330px,bgcolor=#8FBC8F){&font(16px,b,#fff){&space()Season2}}
+***&u(){2025年}
+#region(開く,close)
+***&bold(){12月}
+#region(【1〜3日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/12/19|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【1日目】新しい世界>>https://youtu.be/pBcHgbQUZks?si=nFsw3Gn-p9QJE2_A]]||
+|2025/12/27|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【2日目】どう生きるか>>https://youtu.be/giMIE7GGS0g?si=R0holYQ-_d082ye_]]||
+|2025/12/28|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【3日目】大金が舞い込んできた>>https://youtu.be/BfydC9R10Pc?si=vuSAlscRyDU-T-w0]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&u(){2026年}
+#region(開く,open)
+***&bold(){1月}
+#region(【4〜8日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2026/01/01|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【4日目】資金を集める>>https://youtu.be/9XgAMEHvSaQ?si=la8JkMfjhtokl2dl]]||
+|2026/01/02|5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【5日目】早めの起床>>https://youtu.be/vm-FfjwSPlw?si=KMuxYm-PccxnqaFO]]||
+|2026/01/03|6|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【6日目】サニーケバブに就職？！>>https://youtu.be/LfkSQyLQlVI?si=2cX5Q0x07rEx178l]]||
+|2026/01/16|7|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【7日目】久々の起床>>https://youtu.be/izuHp9BK6zo?si=sTuLQFzaPiNnlsvd]]||
+|2026/01/24|8|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【8日目】何かがかわる>>https://youtu.be/bxXyc1KsaWY?si=Mmu9x8N3ycYyop7g]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){3月}
+#region(【9日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2026/03/22|9|[[【9日目】久々の起床>>https://www.twitch.tv/videos/2728915249]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){5月}
+#region(【10〜11日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2026/05/18|10|[[【10日目】いつぶりですか>>https://www.twitch.tv/videos/2774366047]]||
+|2026/05/30|11|[[【11日目】イベントがあるらしい>>https://www.twitch.tv/videos/2784459377]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){6月}
+#region(【12〜13日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2026/06/18|12|[[【12日目】遅すぎ出勤>>https://www.twitch.tv/videos/2798907369]]||
+|2026/06/19|13|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【13日目】連日の起床>>https://youtu.be/oBWU297_MLM?si=o2q_5CDXINZBFOVH]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){7月}
+#region(【14〜17日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2026/07/02|14|[[【14日目】・・・>>https://www.twitch.tv/videos/2809676528]]||
+|2026/07/09|15|[[【15日目】わぁ>>https://www.twitch.tv/videos/2815850233]]||
+|2026/07/11|16|[[【16日目】お腹いっぱい>>https://www.twitch.tv/videos/2817480423]]||
+|2026/07/12|17|[[【17日目】何も知らないのに沈められたロイ、そのご>>https://www.twitch.tv/videos/2818250768]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){8月}
+#region(【18〜22日目】,close)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2026/08/08|18|[[【18日目】今日はどうなる？>>https://www.twitch.tv/videos/2840623190]]||
+|2026/08/22|19|[[【19日目】一旦起きてみる>>https://www.twitch.tv/videos/2853370328]]||
+|2026/08/23|20|[[【20日目】毎日起きる>>https://www.twitch.tv/videos/2854345462]]||
+|2026/08/28|21|[[【21日目】今日は何が起こるのか>>https://www.twitch.tv/videos/2858776660]]||
+|2026/08/30|22|[[【22日目】今日はおそめ>>https://www.twitch.tv/videos/2859850085]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){9月}
+#region(【23日目〜】,open)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2026/09/02|23|[[【23日目】一難去ってまた一難>>https://www.twitch.tv/videos/2863335130]]||
+|2026/09/13|24|[[【24日目】今日は遅すぎる番>>https://www.twitch.tv/videos/2873283483]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#endregion
+
+
+*&color(#e0e0e0){&font(#dcd3b2){&icon_fa(fa fa-folder-open)} ストグラ外コラボ配信}
+#region(開く,open)
+
+#table_style(head=center:#E0E0E0)
+|~配信日|~配信タイトル|~参加者  ※敬称略|~備考|h
+|2025/01/25|[[ストグラメンバーでマーベルライバルズ>>https://t.co/FwW3sSNhyl]]|[[えーぼたん>ぎちょう・じょばぁーな]]、[[しえる>月乃　えるな]]、[[ろっくちゃん>犬億　ロック]]、kossori||
+|2025/04/07|[[VALORANT→Pummel Party 9055コラボ>>https://youtu.be/uvH0qGyQxNM?si=IeHCENQo4y1ZU2FL]]|[[むさしまる>丸井　まる]]、[[しんのすけ>上田　さん]]、[[水無月ひいろ>近藤　武蔵]]、[[yue>悠　えん]]、[[ばんくん>パン　チャン]]、[[まいたけ>緋赤　まい]]||
+|2025/05/19|[[アモアス3D 9055コラボ>>https://youtu.be/93K-PEUFftE?si=pUkSB_9qH28amEWS]]|[[Thomas P>須藤　冬馬]]、[[しえる>月乃　えるな]]、[[ばんくん>パン　チャン]]、[[Shiron>葛城　司]]、[[水無月ひいろ>近藤　武蔵]]、[[めぐ>久川　たんぽぽ]]、[[yue>悠　えん]]、[[まいたけ>緋赤　まい]]、[[ばなな>北村　ばなな]]||
+|2025/08/10|[[APEXコラボ こさ！！>>https://twitcasting.tv/nike_niconama/movie/821237464]]|[[こっさり>こさ　猫弐郎]]||
+|2025/10/04|[[MODもりもりな9055鯖のマイクラがあってだな>>https://twitcasting.tv/nike_niconama/movie/824214859]]|||
+|2025/10/26|[[ストグラ9055コラボ ベッドウォーズ>>https://twitcasting.tv/nike_niconama/movie/825444125]]|||
+|2025/11/01|[[こさとARCRaidersって新作ゲームやってむる>>https://twitcasting.tv/nike_niconama/movie/825760989]]|[[こっさり>こさ　猫弐郎]]||
+|2025/11/22|[[レゴぱーてぃーなるもの>>https://twitcasting.tv/nike_niconama/movie/826833775]]|[[しえる>月乃　えるな]]、[[ばんくん>パン　チャン]]、[[こっさり>こさ　猫弐郎]]||
+|2025/12/04|[[ドントスクリーム！ストグラコラボ>>https://twitcasting.tv/nike_niconama/movie/827445264]]|[[猫宮ひなた>猫ノ宮　ひな]]、[[ぺこP>渡戸　リー]]、[[ひらがななちこ>フグ田　ナチ]]||
+|2026/01/26|[[ストグラコラボ 一致するまで終われまテン！>>https://youtu.be/_SGcVkpEofU?si=YZSy6mvEV7P2HHCH]]||※上田さん視点|
+|2026/06/16|[[【ルナガレージ】ストグラコラボ めちゃカメレオン>>https://youtu.be/UjPKX1zW9-U?si=F3Ri3-TxCdm42HKq]]|[[kossari>こさ　猫弐郎]]、[[じゃじゃまる>剛力　たけし]]、[[たいたい>捌木　たいたい]]、[[ばんくん>パン　チャン]]、[[ろっくちゃん>犬億　ロック]]、[[アトラ>アルタ・スカイブルー]]、[[トーマスP>須藤　冬馬]]、[[羽流ぴょこ>羽津　ピオコ]]、[[たぁくぅ>沖原　たくみ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+
+//他ページに倣い、「#ストグラ」及び「ロイ・マーチングナンバー視点」を省略し、17～29時を1日の基準にしました。
+//YouTubeリンク先をアイコンで加えました。
+
+//コピペ用　　|yy/mm/dd||[[【dd日目】タイトル>>https://www.twitch.tv/videos/]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>]]|
+
+#right(){&link_up(🔝ページTOPへ)}

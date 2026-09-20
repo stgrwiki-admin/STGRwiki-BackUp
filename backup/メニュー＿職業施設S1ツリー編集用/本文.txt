@@ -1,0 +1,358 @@
+//★記述の追加・変更・削除を行う時は「職業・施設一覧」ページ(https://w.atwiki.jp/streamergta5/pages/20.html)の更新もあわせてお願いします！
+//--左メニュー「データベース」に記載されていた
+//--シーズン1の「職業・施設一覧」の[+][-]で展開されるリンクについて
+//--行数が多かったため、子ページ化を行いました。編集を行う際はこちらからお願いいたします
+#region(公務員)公務員
+#areaedit()
+-[[市長]]
+-[[市長補佐]]
+-[[市議会議員>市議会]](現在休止中)
+-[[救急救命隊>ロスサントス救急救命隊]]
+-[[警察官>ロスサントス警察]]
+--[[SWAT>https://w.atwiki.jp/streamergta5/pages/121.html#SWAT]](内部組織)
+--保安官 (現在休止中)
+-[[免許センター>斎藤Driving School]]
+-裁判官
+#areaedit(end)
+#endregion(公務員)
+
+#region(飲食店)飲食店
+#areaedit()
+-レストラン・ビュッフェ
+--[[今井のダイナー]]
+--[[Urashima（海上レストラン）>Urashima]]
+--[[ToY]]
+--[[パキッちン]]
+--[[ビュッフェ・アミティーステラ]]
+--[[For Emperors]]
+-専門料理店
+--[[アイアンバーガー]]
+--[[E5's BURGER]]
+--[[菖光亭]]（和食店）
+---[[2号店 スナック めろでぃ>菖光亭#snack melody]]
+--[[KoKo七番屋〜カレーのおうち〜>KoKo七番屋]]
+--[[家系総本山 焦村家>焦村家]]
+--&ruby(ミンミンボウ){[[明味房>ミンミンボウ]]}
+--[[はままるうどん]]
+--[[Soffietto]]
+-カフェ・スイーツ
+--[[須藤バックスコーヒー]]
+--[[猫カフェ武蔵]]
+--[[RitUal:（魔法少女カフェ）>RitUal:]]
+--&ruby(ペールノエル){[[Père Noël]]}
+--[[A2 Cafe]]
+--[[らびすぴ]]
+--[[カニメイト]]
+--[[U FOR U]]
+--[[サンサンクレープ]]
+--[[よすが]]
+--[[Yadorigi]]
+--[[Forest>Forest]]
+--[[GroobyBabyCafe]]
+--[[Re:One's]]
+--[[たまぬけカフェ]]
+--[[PARADISE LOST]]
+--[[Bloody BonBon]]
+--[[ぽっぷぽっぷもんすたー]]
+--[[Cocon]]
+-酒場
+--[[eight]]
+--[[Violet Fizz]]
+--[[Abelia]]
+--[[魔女の酒場]]
+--[[GoodNight]]
+--[[ShanaoR]]
+--[[隣のまちこ]]
+--[[Bellows]]
+--[[FOWK]]
+--[[串カツ山田]]
+--[[飛翔]]
+-テイクアウト専門店
+--[[ベーカリー早苗]]
+--[[ザリ蛸]]
+--[[ロスランド]]
+--[[たいがのごはん]]
+--[[GYOGYO]]
+--[[輸入商品店]]
+-フードアミューズメントパーク
+--[[√渡り通り]]
+#region(休止・閉店したお店)休止・閉店したお店
+-専門料理店
+--[[Wonderful Pizza]]
+-カフェ
+--[[かしりん]]（ドッグカフェ）
+-酒場
+--[[Vermillion>https://w.atwiki.jp/streamergta5/pages/553.html#Vermillion2]]
+--[[Happy Nutty Bunny（ストリップバー）>Happy Nutty Bunny]]
+-テイクアウト専門店
+--肉暴力
+--[[奇肉屋]]
+#endregion(休止・閉店したお店)
+#areaedit(end)
+#endregion(飲食店)
+
+#region(車両・運輸)車両・運輸
+#areaedit()
+-タクシー会社
+--[[菖光會]]
+-メカニック
+--[[【JTS】Joanna Techno Service>ジョアンナテクノサービス]]
+--[[【BMC】Bear  Moon Custom>Bear Moon Custom]]
+--[[【B.A.D】BIG Automotive Design>BIG Automotive Design]]
+--[[【SKE】SHOKO ENGINEER>菖光エンジニア]]
+--[[【A2】A2 Lab>A2 Lab]]
+--[[【9055】9055>9055]]
+--[[【GG】Glare Gem>Glare Gem]]
+-カーディーラー
+--[[斎藤モータース]]
+--[[深沢モータース]]
+--[[プラネットモータース]]
+-高級車ディーラー
+--[[CAR STORE EDEN>EDEN]]
+--[[大川自動車販売(有)]]
+--[[にしのんキングダム]]
+-クラシックスポーツカーディーラー
+--[[ClassicSport J's]]
+-バイクディーラー
+--[[菖光モータース]]
+-中古車ディーラー
+--[[ReBoot]]
+-航空機ディーラー
+--[[鳥野エアー]]
+--[[豆おじさんのエアークラフト]]
+-ボートディーラー
+--[[ボートライフサンフォレスト]]
+--[[SeaYosoro 天王寺]]
+#region(休止・閉店したお店)休止・閉店したお店
+-中古車ディーラー
+--[[ROAD]]
+-メカニック
+--[[【PY】Project Y>Project Y]]
+--[[【PYC】Project Your Custom>PYC]]
+--[[【FOG】FOG>FOG]]
+-高級車ディーラー
+--[[Marie Motors]]
+#endregion(休止・閉店したお店)
+#areaedit(end)
+#endregion(車両・運輸)
+
+#region(医療)医療
+#areaedit()
+-[[個人医]]
+-薬局
+--[[ヤク薬局]]
+#region(休止・閉店したお店)休止・閉店したお店
+-薬局
+--[[KASHIYA PHARMACY]]
+#endregion(休止・閉店したお店)
+#areaedit(end)
+#endregion
+
+#region(金融機関)金融機関
+#areaedit()
+-消費者金融会社
+--[[BJローン]]
+-証券会社
+--[[F&G証券]]
+#areaedit(end)
+#endregion
+
+#region(販売業)販売業
+#areaedit()
+-不動産屋
+-- [[ヒーローハウジング]]
+-素材屋
+--[[月ノ屋]]
+--[[クリスマス急便]]
+-コスメショップ
+--[[Merry&Belle]]
+-たばこ・シーシャ店
+--[[川上たばこ店]]
+--[[UNRÊVE]]
+-レコードショップ
+--[[麻SICK RECORDS]]
+-花屋
+--[[ColorFlora]]
+-武器スキン販売
+--[[Grand Chariot>https://w.atwiki.jp/streamergta5/pages/553.html#Grand_Chariot]]
+-くじ屋
+--[[Lv.94]]
+#region(休止・閉店したお店)休止・閉店したお店
+-宝石商
+--[[BLUE MOON]]
+#endregion(休止・閉店したお店)
+#areaedit(end)
+#endregion
+
+#region(製造業)製造業
+#areaedit()
+-木こり
+--[[渡戸林業]]
+-工場
+--[[月ノ鞄]]
+#areaedit(end)
+#endregion
+
+#region(サービス業)サービス業
+#areaedit()
+-記者・ゴシップ記者
+--[[ペンカートン情報局]]
+--[[文秋館]]
+--[[ゴシップ記者]]
+-芸能プロダクション・イベント会社
+--[[シャンクズプロモーション]]
+--[[らびすぴ>らびすぴ#イベント会社「らびすぴ」]]
+--[[Goodbye Company>GoodbyeCircus#Goodbye Company]]
+--[[ギャラクシープロダクション]]
+--[[Trickplay Studio>Trickster/Trickplay Studio]]
+--[[モンスターハウスプロダクション]]
+-芸能団体(事務所未所属のもの)
+--[[べりはぴ]]
+--[[おっさんずＷ]]
+--[[浪速漢D]]
+--[[ろすぷり]]
+-番組制作・放送局
+--[[Lunaflix]](テレビ)
+--[[STGラジオ局]](ラジオ)
+-カジノ
+--[[ダイヤモンドカジノ>カジノ]]
+-体感型ゲーム店
+--[[電気椅子ゲーム>https://w.atwiki.jp/streamergta5/pages/441.html#death_game]]
+--[[ドラコネ（脱出ゲーム屋）>ドラコネ]]
+-書店
+--[[飯田書店]]
+-雀荘
+--[[倍々荘]]
+-[[なんでも屋]]
+-占い処
+--[[猫の隠れ家]]
+-サウナ
+--[[SPA だはは]]
+--[[らびっとむんむん>Trickster/らびっとむんむん]]
+-仕立て屋
+--[[アトリエ・シフォン]]
+-内装工事業
+--[[うさぎさん工務店>https://w.atwiki.jp/streamergta5/pages/491.html#usagisan-koumuten]]
+--[[ゼニー工務店>https://w.atwiki.jp/streamergta5/pages/589.html#zenny-koumuten]]
+//--[[渡戸工務店>渡戸　リー]]←PLページ内に工務店の説明・実績記載がありませんので、いったんCOします。
+#region(休止・閉店したお店)休止・閉店したお店
+-芸能団体
+--[[ハピフル]]
+#endregion(休止・閉店したお店)
+#areaedit(end)
+#endregion
+
+#region(グループ会社・複合商業施設)グループ会社・複合商業施設
+#areaedit()
+-グループ会社
+--[[菖光グループ>菖蒲　光樹/菖光グループ]]
+--[[無馬グループ]]
+-複合商業施設
+--[[FIB]]
+#areaedit(end)
+#endregion
+
+#region(教育機関)教育機関
+#areaedit()
+-[[ストグラ大学]]
+#areaedit(end)
+#endregion(教育機関)
+
+#region(宗教団体)宗教団体
+#areaedit()
+-[[ハンバーガー教]]
+#areaedit(end)
+#endregion(宗教団体)
+
+#region([[市民協会>職業・施設一覧#市民協会]])[[市民協会>職業・施設一覧#市民協会]]
+#areaedit( )
+-公式協会
+--[[飲食協会]]
+--運送協会
+-非公式協会
+--[[物産展協会]]
+--[[ホットドッグ協会]]
+--[[公認勝手にレース協会]]
+#region(解散した組織)解散した組織
+-公式協会
+--[[車両協会]]
+#endregion(解散した組織)
+#areaedit(end)
+#endregion(市民協会)
+
+#region(市民グループ)市民グループ
+#areaedit()
+-サークル系
+--[[魔痔蚊流]]
+--[[エンペラーAge]]
+--[[ママみ同好会]]
+--[[最底辺の世代]]
+-自治会系
+--[[白市民町内会（仮）]]
+--[[西サントス]]
+-ファミリー系
+--[[ユニベロス]]
+--[[暦家]]
+--[[ひらいけ]]
+--[[ふぁ〜部]]
+#areaedit(end)
+#endregion(市民グループ)
+
+#region([[ギャング]])[[ギャング]]
+#areaedit( )
+-[[GoodbyeCircus]]
+-[[麻陀羅組]]
+-[[868]]
+-[[hantasma]]
+-[[第4宇宙速度]]
+-[[DERAY]]
+#region(解散した主なギャング)解散した主なギャング
+-[[ペンギンファミリー]]
+-[[チームドラゴン]]
+-[[深沢組]]
+-[[LWGP]]
+-[[MOZU]]
+-[[GATO]]
+-[[餡ブレラ]]
+-[[IRiS]]
+-[[ALLIN]]
+-[[concellge>concellge(コンセルジュ)]]
+-[[TOPGEAR]]
+-[[Trickster]]
+-[[RqteL]]
+-[[NO LIMIT]]
+//[[職業・施設一覧]]の解散したギャング項と合わせ、主要ギャング以外をco。
+#endregion(解散したギャング)
+#areaedit(end)
+#endregion(ギャング)
+
+#region(その他組織)その他組織
+#areaedit( )
+-秘匿組織
+--[[ARCANA]]
+-武器商
+--[[FEMME FATALE]]
+-麻薬カルテル
+--[[DEP]]
+-犯罪斡旋ギルド
+--[[FadeGate]]
+-非公認犯罪協会
+--[[闇車両協会]]
+-異次元を発端とする組織
+--[[時空警察]]
+-半グレ集団
+--[[Re×bellion]]
+--[[Valhysea>極楽鳥花]]
+//-未分類グループ
+//--
+#region(解散した組織)解散した組織
+-半グレ集団(犯罪団体)
+--[[ラグナロク]]
+--[[ギャングシティ]]
+-民間軍事会社
+--[[ACADEMY]]
+#endregion(解散した組織)
+#areaedit(end)
+#endregion(その他組織)
+&space(40)
+&br()&size(10){編集ページ:[[１>>メニュー/職業施設S1ツリー編集用]]}

@@ -1,0 +1,394 @@
+&bold(){観測前に&font(12pt,u,#1F79E0){[[観測者の心得]]}をご確認ください。}
+*&font(25px,#FFF){&font(30px){プ}ロフィール &icon_fa(fa-solid fa-dove)}
+#slide_img(auto=5,width=300,height=450){S2_轟ばーど_01.png,轟ばーど.png,轟ばーど_Thrax.png}
+
+//ここからプロフィール
+//視認性やスマホからの見やすさ、Season2の転入日（起床日でしかない）の違和感を鑑みて、[[S2ページ編集案]]の編集例②を採用。
+#table_color(#e6e6fa)
+|~名前|~&icon_fa(fa fa-user fa-fw)|&ruby(とどろき){轟}　ばーど|
+|~出身地|~&icon_fa(fa fa-map-marker)|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|2099年12月24日(年齢非公開)|
+|~転入日|~&icon_fa(fa fa-plane fa-fw)|2023年12月11日 (&countup(2023/12/11,yd)経過)|
+|~職業|~&icon_fa(fa fa-university fa-fw)|&icon_fa(fa fa-gun)&bold(){ギャング}【[[868]]】構成員 &small(){2024/10/26~}&nbsp(br)&small()&openclose2(show=Season1 過去の職業){&nbsp(br)&icon_fa(fa fa-hotdog)&space()&bold()ホットドッグ屋}|
+|~TwiX|~&icon_fa(fa fa-twitter)|轟鳥@birdcar&small(){（Season1）}&br()ばーど@todoroki bird&small(){（Season2）}|
+|~レーサー名|~&icon_fa(fa fa-flag-checkered)|GO鳥&small(){（Season1）}|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card)|金豚きょー|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>https://twitter.com/badkyo]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)| &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>https://www.twitch.tv/gpbadkyo]]|
+|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):~&icon_fa(fa fa-user-plus)|&openclose2(show=クリックで表示){&br()[[金豚　きょー]]&br()[[天王寺　京司郎]]}|
+//
+//年齢に関して、25/09/26のPLご本人の雑談にて60才代と公開されたが、雑談配信の内容を公開することは禁じられている及び他の方の配信で鳩コメントを確認したため、ストグラ内で公開するまで公開禁止と致します。
+//Season2で誕生年が1900年に変わっていたが、未来人と発言があるためスルー。
+//
+//↓編集例①
+#Co{
+#table_filter(){Season1=show,Season2=show}
+#table_color(#e6e6fa)
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|
+|~名前|~&icon_fa(fa fa-user fa-fw)|>|&ruby(とどろき){轟}　ばーど|
+|~出身地|~&icon_fa(fa fa-map-marker)|>|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|2099年12月24日(年齢非公開)|
+|~転入日|~&icon_fa(fa fa-plane fa-fw)|2023年12月11日 (&countup(2023/12/11,yd)経過)|2025年12月24日 (&countup(2025/12/24,yd)経過)|
+|~職業|~&icon_fa(fa fa-university fa-fw)|>|&icon_fa(fa fa-gun)&bold(){ギャング}【[[868]]】構成員 &small(){2024/10/26~}|
+|~|~|&icon_fa(fa fa-hotdog)&space()&bold()ホットドッグ屋||
+|~TwiX|~&icon_fa(fa fa-twitter)|轟鳥@birdcar|ばーど@todoroki bird|
+|~レーサー名|~&icon_fa(fa fa-flag-checkered)|GO鳥&small(){（Season1）}||
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card)|>|金豚きょー|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|>|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>https://twitter.com/badkyo]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>https://www.twitch.tv/gpbadkyo]]|
+|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):~&icon_fa(fa fa-user-plus)|>|[[金豚　きょー]]&br()[[天王寺　京司郎]]|
+}
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=1)
+#endregion
+*&font(25px,#FFF){&font(30px){基}本情報 &icon_fa(fa fa-id-card-o)}
+&font(20px,#999){●&space()}誰にも言っていないが2099年生まれの未来人である。
+&font(20px,#999){●&space()}この街の乗り物全て手に入れるという野望がある。
+&font(20px,#999){●&space()}街に来て1か月ほど半グレ仲間と警察にいたずらをしていた。(2023年12月)
+&font(20px,#999){●&space()}9か月間街から離れ、犯罪のついでに金儲けのために個人医をしようと街に戻ったが、募集がなくなれなかった。
+&font(20px,#999){●&space()}1日8時間のブースティングで生計を立てていた。
+&font(20px,#999){●&space()}浦島太郎状態で街の現状がわかっていないので、今(2024年10月現在)の犯罪を誰かに教わりたいと考えていたところで、[[868]]のメンバーと出会った。
+&font(20px,#999){●&space()}数回の傭兵を経て、[[ギャング]]【[[868]]】に加入。(2024/10/26)
+&space(5)&font(15px,#999){●&space()}ボスの言いなりの組織ではないところ、構成員のジョシュアのチョケ具合を見て加入を決めた。
+#div(width=330px,bgcolor=#cccccc){&font(16px,b,#FFF){&space()&icon_fa(fa-solid fa-dove)&space()外見}}
+&font(20px,#999){●&space()}白髪白髭の色黒イケオジ。
+&font(20px,#999){●&space()}サングラスの下の目は開いていない。
+&font(20px,#999){●&space()}白を好んでおり、モノトーンな服装が多い。
+&font(20px,#999){●&space()}γ世界線への転送で顔面が変わってしまい、クッキーマスクで顔を隠すようになった。
+#div(width=330px,bgcolor=#cccccc){&font(16px,b,#FFF){&space()&icon_fa(fa fa-heart-o)&space()性格・気質}}
+&font(20px,#999){●&space()}性格は穏やかで、誰に対しても敬語で話すが、気心の知れた仲間のチョケに対して語気が強くなることも。
+&font(20px,#999){●&space()}868のメンバーの前ではエロジジイの頭角を現してきた。
+&font(20px,#999){●&space()}868メンバーのボケとチョケに関西弁で軽快なつっこみを入れる。
+&font(20px,#999){●&space()}身内以外に興味がなく、他組織の人と交流することは稀。
+&font(20px,#999){●&space()}やったことがないことを何でもやりたい意欲がある。「やったりましょやー」
+&font(20px,#999){●&space()}ファームが好きで1人で黙々と衛星外ファームをしていることが多い。『花摘みの妖精』
+&font(20px,#999){●&space()}気づいたらメカニックの[[JTS>ジョアンナテクノサービス]]に向かっている癖がある。
+#div(width=330px,bgcolor=#cccccc){&font(16px,b,#FFF){&space()&icon_fa(fa fa-tasks)&space()技能}}
+&font(20px,#999){●&space()}ヘリや車、バイクなど乗り物全般の運転が得意。
+　　&font(15px,#999){●&space()}フォークリフトの運転、インフラ整備はプロ級。
+&font(20px,#999){●&space()}ギャングに入るまでやったことがなかったヘリアタックも試行錯誤し、めきめきと腕をあげている。（ヘリの操縦はデフォルト筋である）
+&font(20px,#999){●&space()}撃ち合いに苦手意識があるが、生存を意識した立ち回りに長けている。
+&font(20px,#999){●&space()}座学よりも実践派。
+&font(20px,#999){●&space()}エモートが得意でよく羽ばたいている。
+#div(width=330px,bgcolor=#cccccc){&font(16px,b,#FFF){&space()&icon_fa(fa fa-thumbs-o-up)&space()嗜好}}
+&font(20px,#999){●&space()}コンビニタバコがお気に入り。
+&font(20px,#999){●&space()}お金を貯めるのが好きでギャンブルは嫌いである。
+&font(20px,#999){●&space()}からあげっ！
+*&font(25px,#FFF){&font(30px){交}友関係 &icon_fa(fas fa-users)}
+***&font(25px,#f9f){&icon_fa(fa-solid fa-people-group)} 868
+#region(開く)閉じる
+#table_style(head=:center){キャラクター名=center}
+|~キャラクター名|~詳細|h
+|[[ケイン／オー]]|ボス。元ホットドッグ屋でブースティング上位のロボット。&br()9か月ぶりに帰国し、浦島太郎状態だった轟に度々傭兵の依頼をしてくれ、868に勧誘してくれた。&br()知識が豊富で車も銃もヘリも上手い。|
+|[[音鳴　ミックス]]|ボス。挨拶キャンペーン中と話しかけてきた人。&br()868のみんなに「会長」と呼ばれているが、何の会長か知らない。&br()花摘み中に盗んだパトカーでドッキリを仕掛けてくる愉快な人。音鳴さんのヘリは怖い。|
+|[[牢王　蓮]]|ボス。加入後5か月経って初めて会った。&br()無線の返事がなく怖い人かと思い緊張したが、鯵屋さんタイプのノリがいい人で安心した。|
+|[[ジョシュア・マーキル]]|先輩構成員。トピオさんと非常に仲が良いい。面倒見が良く、鯵屋にいつもダル絡みされている。&br()轟とはエモートでチョケ合う仲。ジョシュアさんのチョケ具合をみて868加入を決めた。&br()車の運転がうまくSUVで警察を撒くATM強盗のプロ。|
+|[[JD>J　D]]|先輩構成員。轟の前に868に入った構成員なので、薬関係やその他もろもろの情報共有をしてもらった。&br()家を譲ってもらったり、甘やかされている。&br()しっかり者だが、なにかあっても全部ボスたちに投げたらいいと、自由を謳歌している。|
+|[[鯵屋>魚参　屋]]|同期構成員。半グレ時代は868の傭兵仲間だったが、轟の1週間後に加入した同期。&br()ケインさんに堕とされ、868に嫁入りしたとわけのわからないことを言っている。ぎゃう&br()なにかとマウントを取ってこようとしてくる。鯵屋のせいで新人育成のための座学がなくなった。&br()鯵屋の元気がないと「こんなの鯵屋じゃない」と心配になる。&br()ピーピーピーピーうるさいのでどんなに強くなっても鯵屋は『稚魚』である。|
+|[[フェアリー　トピオ]]|先輩構成員。ジョシュアさんと非常に仲がいい。&br()初めて会った日にエモートでハグをしてくれた。眼前で警察ヘリを落として救出してくれたMVP。&br()トピオとねずみさんがいることでばーどがバブになり、トピオに殴られ正気に戻る。トピ兄ちゃん！|
+|[[紫水　コウ]]|先輩構成員。白市民交流を大事にしている人で、ヒモになる技を会得している。&br()|
+|[[月渚　雪人]]&br()（ルナ ホークアイ）|後輩構成員。元個人医。『ユッケ』と呼んでいる。&br()生意気でマウントを取ってこようとするピヨピヨうるさい雛鳥。&br()後先を考えない言動が多く世話を焼いている。ほんとに困った子。|
+|[[レダー　ヨージロー]]|ボス。もう街にはいないらしい。半グレ時代にこの人からホットドッグを買った覚えがある。|
+#table_zebra(#f5f5f5, #fff, #dcdcdc)
+#endregion(868)
+//せりちゃん、ばにさんの名前は聞いたが、ばーど本人が「会うまでは知らない人」と発言しているため、会ったことのないボスは記入不要。
+***&font(25px,#4f455c){&icon_fa(fa fa-user-secret)} 黒市民
+#region(開く)閉じる
+#table_style(head=:center){キャラクター名=center}
+|~キャラクター名|~詳細|h
+|[[タラ　ちゃん]]|[[麻陀羅組]]のボス&br()2023年12月の半グレ時代に小型犯罪を教えてくれた半グレ仲間だった。&br()11か月ぶりに再会し、帰国したことと868に加入したことを報告したら大喜びしてくれた。|
+|[[文殊　セイジ]]|2023年12月の半グレ時代に一緒に遊ぶ半グレ仲間だった。当時、彼の一時帰国と同時期に轟も街を離れた。|
+#table_zebra(#f5f5f5, #fff, #dcdcdc)
+#endregion(悪い人)
+*&size(25){&color(#ffffff){&size(30){所}有車両等 &icon_fa(fa fa-car)}}
+&font(16px,b,u,black){Season1}
+#region(開く)
+***&font(25px){&icon_fa(fa fa-car-side)} 所有車両
+#region(開く)
+#table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,ランク=hide,取得日=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,ランク=center,取得日=right}
+|~車両ID|~車両名|~会社名|~タイプ|~ランク|~取得日|~備考|h
+|BNZJ2244|Kalahari|Canis|Off-Road||1日目(23/12/09)|[[ゴンザレス　マヌ太郎]]から購入|
+|OFQI4651|Club|Benefactor|Compact car||(23/12/--)||
+|MJZI1275|CavalcadeⅡ|Albany|SUV||(23/12/--)||
+|JDRJ4328|Rumpo Custom|Bravado|Vans||(23/12/--)||
+|DLPJ6602|Rumpo Custom（セイジRumpo Custom）|Bravado|Vans||9日目(23/12/29)|[[文殊　セイジ]]から贈与|
+|TAJL2120|Rancher XL|Declasse|Off-Road||13日目(24/10/03)|[[上田　さん]]から購入、ごはんカー|
+|UUVV1318|Unicycle||Cycles||13日目(24/10/03)|自転車屋で10万円で購入|
+|LRDM1993|Revolter|Übermacht|Sports||15日目(24/10/09)|[[上田　さん]]から購入|
+|QLKN1466|Shinobi|Nagasaki|Motorcycles||22日目(24/11/02)|[[ロイ　マーチングナンバー]]から購入|
+|RKLA4961|Speedo Express（bard）|Vapid|Vans||25日目(24/11/17)|[[868]]から支給|
+|RZUS6498|Omnis e-GT|Obey|Sports||25日目(24/11/17)|[[三島　改]]から購入|
+|NJKY4809|Thrax|Truffade|Sports||29日目(24/12/15)|[[ねずみさん>えぐち　きの子]]から購入|
+|YSXE1951|Flash GT|Vapid|Sports||32日目(25/01/23)|[[Reboot]]から買い取った[[ケイン／オー]]から100万円で購入|
+|CFZN6692|Turismo R|Grotti|Super||40日目(25/05/06)|[[万十　忍]]から購入|
+|EGG25156|Egg Car|Arcida|Sports|U|衛星外(25/05/10以前)|[[Magic! Easter Event>イースターイベント]]で獲得した。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(所有車両)
+***&font(25px){&icon_fa(fa-solid fa-helicopter)} 所有航空機
+#region(開く)
+#table_filter(){車両ID=hide,航空機名=show,会社名=hide,色=hide,取得日=show, 備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,取得日=right}
+|~車両ID|~航空機名|~会社名|~色|~取得日|~備考|h
+|VVXF9632|Frogger|Maibatsu|&font(#640125){&icon_fa(fa-solid fa-helicopter)}&font(10px){メタリックブラックにサーモンピンクのパール光沢}|26日目(24/11/21)|[[ケイン／オー]]からプレゼント|
+|MTTS4098|Sparrow||初期ピンク|32日目(25/01/23)|麻陀羅組との抗争のためにギャンプーで[[豆やん>豆　やん]]から購入|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+//
+|&blankimg(Bird_Frogger.png,x=117,y=66)|&blankimg(Bird_Sparrow.png,x=117,y=66)|
+|1: Frogger|2: Sparrow|
+#endregion(所有航空機)
+#endregion(S1)
+
+//===================================
+//
+&font(16px,b,u,black){Season2}
+***&font(25px){&icon_fa(fa fa-car-side)} 所有車両
+#region(開く)
+#table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,取得日=right}
+|~車両ID|~車両名|~会社名|~タイプ|~取得日|~備考|h
+|MGRB4739|Faggio Sport|Pegassi|Motorcycles|1日目(25/12/24)||
+|OB0W1T98|Castella|Shitzu|Compact|6日目(26/02/01)|245万円で購入|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion
+*&font(25px,#FFF){&font(30px){不}動産関連 &icon_fa(fa fa-house)}
+&font(16px,b,u,black){Season1}
+#region(開く)
+***&font(25px,#32cd32){&icon_fa(fa fa-house)} 所有物件
+#region(開く)
+#table_filter(){購入日=show,番地=show,用途=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,購入日=right}
+|~購入日|~番地|~用途|~備考|h
+|13日目(24/10/03)|9118|自宅|初めて買った家。駐車場有|
+|20日目(24/10/30)|番地なし（4013の東）|薬物用|[[J D]]に譲ってもらった家。駐車場有|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+***&font(25px,#ffdbed){&icon_fa(fa fa-house)} 共有物件（868）
+#region(開く)
+#table_filter(){共有日=show,番地=show,通称=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,購入日=right}
+|~共有日|~番地|~通称|~備考|h
+|19日目(24/10/26)|10091|本アジト中|水族館アジト敷地内の物件。駐車場有|
+|19日目(24/10/26)|10047|南の薬拠点|ハウジングがされている。駐車場有|
+|19日目(24/10/26)|9281|ボブキャ南|道沿いの拠点。駐車場有|
+|19日目(24/10/26)|9285|ボブキャ南|逃走用拠点。駐車場有 &openclose2(show=※){逃げ先登録}|
+|19日目(24/10/26)|8196|高速下|逃走用拠点。駐車場有|
+|19日目(24/10/26)|9093|ゲーセンアジト|868のゲーセンアジト。ハウジングがされている。駐車場有&openclose2(show=※){逃げ先登録}|
+|19日目(24/10/26)|9093|倉庫|ゲーセンアジトの脇の倉庫①。武器用倉庫。|
+|19日目(24/10/26)|9093|倉庫|ゲーセンアジトの脇の倉庫②。素材用倉庫。駐車場有|
+|19日目(24/10/26)|9093|倉庫|ゲーセンアジトの脇の倉庫③。ケイン専用倉庫。ハウジングがされている。|
+|19日目(24/10/26)|7171|16億の家|ロムバンク隣の地下のエレベーターの物件。ケイン個人の家。駐車場有|
+|19日目(24/10/26)|7219|Fiz裏|ハウジングしてある和室のある小さな物件。|
+|19日目(24/10/26)|7038|豪邸|&bold(){868のおうち。}学校横ヘリガレージ隣の高級住宅街の家。駐車場有 &openclose2(show=※){逃げ先登録}|
+|19日目(24/10/26)|7038|武器倉庫|豪邸の武器倉庫。駐車場有|
+|19日目(24/10/26)|7038|素材倉庫|豪邸の素材倉庫。駐車場有|
+|19日目(24/10/26)|7185|JTSフリーカ上|逃走用拠点。駐車場有 &openclose2(show=※){逃げ先登録}|
+|19日目(24/10/26)|5038|海辺拠点|西海岸の浜辺近くの拠点。泳ぎ＆船逃走用拠点。 &openclose2(show=※){逃げ先登録}|
+|19日目(24/10/26)|4010|ケインの家|ケイン／オーの薬用倉庫。水自由に取っていい。オープンガレージ|
+|19日目(24/10/26)|4025|コの字|砂漠の逃走用拠点。駐車場有 &openclose2(show=※){逃げ先登録}|
+|19日目(24/10/26)|3000|レダーの家|レダーの薬用倉庫。駐車場有|
+|19日目(24/10/26)|2048|シマトリ拠点|シマトリ用拠点。駐車場有|
+|19日目(24/10/26)|1025|リサセン拠点|リサセン用倉庫。駐車場有|
+|19日目(24/10/26)|1046|パレト近く|逃走用拠点。パレト銀行近く、屋根有シャッターの拠点。駐車場有 &openclose2(show=※){逃げ先登録}|
+|28日目(24/11/30)|1105近く|アシッド拠点|アシッド兼利確物件。駐車場有 &openclose2(show=※){逃げ先登録}|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+***&font(25px,#6a5acd){&icon_fa(fa-solid fa-warehouse)} ハイドアウトガレージ
+#region(開く)
+#table_filter(){購入日=show,番地=show,名称=hide,価格=hide,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,購入日=right,価格=right}
+|~購入日|~番地|~名称|~価格|~備考|h
+|-日目(23/12/--)|9128|Davis Auto Repairs Workshop|$16,000,000|駐車スペース：1台|
+|14日目(24/10/05)|4014|Haemony Factory|$14,000,000|駐車スペース：1台|
+|16日目(24/10/16)|7259|Del Perro Clubhouse|$50,000,000|駐車スペース：4台|
+|43日目(25/08/10)|7140|Los Santos Burton|$99,000,000|駐車スペース：10台|
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(ハイドアウトガレージ)
+#endregion(S1)
+
+//===================================
+//
+&font(16px,b,u,black){Season2}
+***&font(25px,#85DC86){&icon_fa(fa fa-house)} 所有物件
+#region(開く)
+#table_filter(){購入日=show,番地=show,用途=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,購入日=right}
+|~購入日|~番地|~用途|~備考|h
+|25/12/24|8039|初期アパート|初期アパートの341号室。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+
+#endregion(所有物件)
+*&size(25){&color(#ffffff){&size(30){服}装一覧 &icon_fa(fa fa-shopping-bag)}}
+#include(轟　ばーど/服装)
+&font(10px){[[編集>>轟　ばーど/服装]]}
+*&font(25px,#FFF){&font(30px){エ}ピソード &icon_fa(fa fa-calendar-o)}
+#div(width=330px,bgcolor=#cccccc){&font(16px,b,#fff){&space()Season1}}
+#include(轟　ばーど/エピソード1)
+#include(轟　ばーど/エピソード2)
+
+#div(width=330px,bgcolor=#cccccc){&font(16px,b,#fff){&space()Season2}}
+#include(轟　ばーど/エピソード3)
+//
+//&color(#778899){&bold(){※エピソード募集中。}}
+----
+&size(12){エピソードページリンク｜[[EP1>>轟　ばーど/エピソード1]],[[EP2>>轟　ばーど/エピソード2]],[[EP3>>轟　ばーど/エピソード3]]}
+//
+//エピソードのサイトを分けたため、編集する際はエピソードページリンクから飛んでください。
+//2023年～2024年→EP1、2025年→EP2、S2 2025~ →EP3
+*&font(25px,#FFF){&font(30px){ア}－カイブ &icon_fa(fa fa-twitch)}
+&bold(){twitchアーカイブはサブスク限定。60日後に視聴できなくなります。}
+※[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} YouTubeチャンネル>>https://youtube.com/@kinbutakyo?si=7xZxXAJ_1KAER75L]]にて「轟ばーどがギャング”868”に入るまで」のアーカイブがメンバー限定で公開されています。
+#div(width=330px,bgcolor=#cccccc){&font(16px,b,#fff){&space()Season1}}
+***&u(){2023年}
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|
+|12/09|1|[[初めましてこんにちは>https://www.twitch.tv/videos/2001220804]]|〜02:26:20。5:04:17あたりから再び轟|
+|12/12|2|[[天王寺やりつつ轟もやる>https://www.twitch.tv/videos/2002089563]]||
+|12/15|3|[[ストグラ犯罪に手を出す>https://www.twitch.tv/videos/2004621797]]|衛星後半よりストグラ開始|
+|12/16|4|[[天王寺の日、明日は多分犯罪者の日>https://www.twitch.tv/videos/2005662406]]||
+|12/17|5|[[悪いことしますか>https://www.twitch.tv/videos/2006492369]]||
+|12/19|6|[[少し天王寺、その後轟>https://www.twitch.tv/videos/2008207695]]||
+|12/22|7|[[雑談しながら21時くらいまで犯罪者>https://www.twitch.tv/videos/2010801059]]||
+|12/23|8|[[1日3回行動 すこし轟やる>https://www.twitch.tv/videos/2011030686]]||
+|~|~|[[犯罪者ムーブ>>https://www.twitch.tv/videos/2011804651]]||
+|12/29|9|[[犯罪者納め>>https://www.twitch.tv/videos/2016908758]]||
+//|mm/dd|n|[[配信タイトル>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***&u(){2024年}
+#region(開く)
+//24/01/03 ばーどの車を運転しているクリップを発見。記入漏れ。(260105)
+//
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|
+|01/03|10|2024年、車弄りおじさん＆犯罪者おじさん初め||
+|09/17|11|[[街に帰ってきた奴 (少しだけ)>>https://www.twitch.tv/videos/2253359809]]|帰国|
+|09/20|12|[[#ストグラ 天王寺＆轟>>https://www.twitch.tv/videos/2255690342]]||
+|10/03|13|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 半グレ 轟>>https://youtu.be/QOOJDAqnwiw]]|ホットドッグ屋初開店、白市民パス発行|
+|10/05|14|[[#ストグラ 少しだけJTS天王寺 後に半グレ轟 21時くらいまで>>https://www.twitch.tv/videos/2268093991]]||
+|10/09|15|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 少しだけ轟>>https://youtu.be/EXBBWUnqmBY]]|衛星開始は日をまたいで10/10、初傭兵初大型犯罪（金庫）|
+|10/16|16|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 轟ばーど>>https://youtu.be/flNMzcgBBJY]]|傭兵（客船）、白市民パス剥奪|
+|10/18|17|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 轟>>https://youtu.be/4v4PzQGHcZA]]|傭兵（飛行場、金庫、客船）|
+|10/22|18|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[眠気が来るから配信しよう>>https://youtu.be/zyuodbz8crU]]|傭兵（飛行場、金庫、ボブキャ、アーティ）|
+|10/26|19|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 轟>>https://youtu.be/Asuh2fqryvU]]|傭兵（金庫）、868加入、鍵ツアー|
+|10/30|20|[[#ストグラ 轟>>https://www.twitch.tv/videos/2289112075]]|世界統合|
+|10/31|21|[[#ストグラ 轟>>https://www.twitch.tv/videos/2289996283]]||
+|11/02|22|[[ワイルズ終わったから轟>>https://www.twitch.tv/videos/2291743214]]|パレト受験合格、初オイルリグ、鯵屋868加入|
+|11/03|23|[[#ストグラ 轟>>https://www.twitch.tv/videos/2292583496]]|構成員のみの日、鯵屋に薬関係共有|
+|11/06|24|[[#ストグラ 轟>>https://www.twitch.tv/videos/2294981513]]|ATMﾀﾞｰﾋﾞｰ、初ユニオン|
+|11/17|25|[[#ストグラ 轟 おひさ>>https://www.twitch.tv/videos/2304072622]]|ケインさん最強リグ、漁船客船（ヘリに自信がつく）、ｶﾗｷﾞｬﾝに入る|
+|11/21|26|[[#ストグラ 轟 短めの可能性が微レ存>>https://www.twitch.tv/videos/2307335834]]|占い、ケインさんからﾌﾛｶﾞｰのﾌﾟﾚｾﾞﾝﾄ|
+|11/26|27|[[#ストグラ 轟>>https://www.twitch.tv/videos/2311485944]]|JDさんとﾃﾞｭｵﾊﾟﾚﾄ|
+|11/30|28|[[#ストグラ 轟 体調そこそこ>>https://www.twitch.tv/videos/2314669965]]|鯵屋パレト受験失敗&初イベテロ罪、ボスの神救出リグ、ｶﾗｷﾞｬﾝを鯵屋へ|
+|12/15|29|[[#ストグラ おひさ轟 雑談しながら近況報告>>https://www.twitch.tv/videos/2327357929]]|868リハビリ期到来、Thrax購入|
+|12/17|30|[[#ストグラ 轟>>https://www.twitch.tv/videos/2329001862]]|紫水コウと初めて会う。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2024年)
+***&u(){2025年}
+#region(開く)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|
+|01/05|31|[[#ストグラ 久々 轟>>https://www.twitch.tv/videos/2344943801]]|構成員ﾘｸﾞ、初物資強奪、ALLINの大型受注&加入希望者について会議、初飛行機墜落、集合写真撮影|
+|01/23|32|[[#ストグラ 轟 いつも久々>>https://www.twitch.tv/videos/2361209304]]|運動会の準備、スパロー購入、&bold(){麻陀羅組と&s(){運動会}抗争}、金庫強盗withタラちゃん、868レース|
+|01/30|33|[[#ストグラ ちょっと起きる 轟>>https://www.twitch.tv/videos/2367753561]]|寝起き金庫、ユニオン|
+|02/25|34|[[#ストグラ 過眠気味 轟>>https://www.twitch.tv/videos/2390794385]]|フリー5人ボブキャ、鯵屋パレト受験、マトリ撲滅協会|
+|03/18|35|[[#ストグラ 少し起きるか轟くん>>https://www.twitch.tv/videos/2408916524]]|リハビリリグ、大歪み金庫、YouTuberパレト、レース|
+|03/19|36|[[#ストグラ まさかの連続起床轟>>https://www.twitch.tv/videos/2409762866]]|ボス[[牢王蓮>牢　王蓮]]と挨拶、軍事物資強奪、リニューアル後初飛行場襲撃|
+|03/31|37|[[月曜なのに開いてるみたいだし少し起きるか轟>>https://www.twitch.tv/videos/2420235990]]|オイルリグ横取り、大嵐|
+|04/01|-|[[月曜なのに開いてるみたいだし少し起きるか轟>>https://www.twitch.tv/videos/2420235990?t=2h13m42s]]|かわちいギャング if868 構成員&br()[[ストグラシャッフルパージデー × 〇〇してはいけない]]|
+|~|-|[[何かがおかしい1日 轟>>https://www.twitch.tv/videos/2420984926]]|~|
+|04/08|38|[[パタパタ起きるよ轟>>https://www.twitch.tv/videos/2427344166]]|ﾌﾞｰｽﾃｨﾝｸﾞ、傭兵雪人と飛行場、鯵屋と不正BJ|
+|04/24|39|[[ちょっと起きる 轟>>https://www.twitch.tv/videos/2441339219]]|雪人加入後初対面、6人ボブキャ、抽選会、夏服飛行場|
+|05/06|40|[[起床轟>>https://www.twitch.tv/videos/2451751126]]|略奪、アーティ、初上位ブースティング、大型春服|
+|05/17|41|[[#ストグラ 奇跡のダブル起床 天王寺＆轟>>https://www.twitch.tv/videos/2460999504]]|フォークリフトで遊ぶ。前半別キャラ|
+|08/02|42|[[5億年ぶりに少しだけ起床 轟>>https://www.twitch.tv/videos/2529065772]]|ソロ起床、ﾌｫｰｸﾘﾌﾄでｲﾝﾌﾗ整備、街探索「DOPE」探し|
+|08/10|43|[[はい起きます少しだけはい 轟>>https://www.twitch.tv/videos/2536391576]]|赤コンテナ開封、E5初ミッション、タコストラック|
+|09/13|44|[[#ストグラ やっとやれる轟ばーど>>https://www.twitch.tv/videos/2565412892]]|街の危機を知る。E5ミッション|
+|09/19|45|[[#ストグラ 何か街ヤバそうだから轟起きとこう>>https://www.twitch.tv/videos/2570335051]]|6人起床、バンカー挑戦|
+|09/21|46|[[#ストグラ おわり 轟ばーど>>https://www.twitch.tv/videos/2571980695]]|6人起床、水族館アジトで市長の護衛、全人類転送完了 【&bold(){ストグラSeason1終了}】|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(S1 2025)
+
+#div(width=330px,bgcolor=#cccccc){&font(16px,b,#fff){&space()Season2}}
+***&u(){2025年}
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|
+|12/24|1|[[ストグラシーズン2 轟>>https://www.twitch.tv/videos/2651832589]]|【Season2開始】転送完了、ケイン, 雪人、鯵屋と合流、バイト、音鳴発見|
+|12/26|2|[[ストグラS2 轟 2日目>>https://www.twitch.tv/videos/2653299831]]|バイト、街探索、てつお誘拐|
+|12/28|3|[[ストグラS2 轟 3日目 ほんの少し>>https://www.twitch.tv/videos/2655096059]]|バイト、街探索、ブラックマーケット発見|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+***2026年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|
+|01/03|4|[[ストグラS2 轟 4日目>>https://www.twitch.tv/videos/2660054608]]|バイト、街探索、JDと合流|
+|01/11|5|[[ストグラS2 轟 5日目 少し>>https://www.twitch.tv/videos/2667212816]]|バイト、S2初犯罪|
+|>|>|>||
+|02/01|6|[[ストグラS2 轟 6日目>>https://www.twitch.tv/videos/2686118678]]|パンツ、Castella購入&爆散、受注待機、バスで遊ぶ|
+|>|>|>||
+|07/15|7|[[一旦雑談→ストグラS2 久々すぎてなんもわからん轟ばーど>>https://www.twitch.tv/videos/2820554450]]|5か月ぶりの起床、タラちゃん・鯵屋と置き配&情報共有|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+
+*&font(25px,#FFF){&font(30px){ス}トグラ外コラボ等 &icon_fa(fa fa-twitch)}
+****&size(110%){&bgcolor(#cccccc){&nbsp()&font(#ffffff,90%){　&icon_fa(fas fa-comments)&space()トーク、実写系コラボ}&nbsp(7)}}
+&size(20){&color(#999){●}} &font(15px){&bold(){ストグラジオ}}
+#region(開く,open)
+#size(90%){#table_style(head=center:#dcdcdc){投稿日=right,#=center,アフタートーク=center}
+|~配信日|~配信タイトル|~共演のパーソナリティー|~アフタートーク|~備考|h
+|25/10/20|しょぼすけ枠[[第126回ストグラジオ>>https://www.twitch.tv/videos/2596662005]]|[[山下ひろし>山下　ひろし]]役/しょぼすけ、[[鯵屋>魚参　屋]]役/aja|[[FANBOX>>https://www.fanbox.cc/@sutogura/posts/10771171]]|[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/STGR_RolePlay/status/1979095041735037133]]|
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion(ストグラジオ)
+&size(20){&color(#999){●}} &font(15px){&bold(){実写系}}
+#region(開く,open)
+#size(90%){#table_style(head=center:#dcdcdc){配信日=right,#=center}
+|~配信日|~配信タイトル|~コラボ相手|備考|h
+|26/08/26|[[ればぶる！#7 豪華ゲスト参戦！！　白熱のポーカー対決！！>>https://www.mellow-fan.com/live/p2zjvlyylzw]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ミラー枠(前半)>>https://www.youtube.com/watch?v=DYQOo0ilEgM]]|ギルくん、Middleee、とっぴー、ごっちゃん@マイキー、わきを、あどみん|前半無料|
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion()
+****&size(110%){&bgcolor(#cccccc){&nbsp()&font(#ffffff,90%){　&icon_fa(fa-solid fa-gamepad)&space()ゲーム系コラボ}&nbsp(7)}}
+//&size(20){&color(#999){●}} &font(15px){&bold(){2025年}}
+#region(開く,open)
+#size(90%){#table_style(head=center:#dcdcdc){投稿日=right,#=center}
+|~配信日|~配信タイトル|~コラボ相手(敬称略)|~ゲームタイトル等|~備考|h
+|2025/09/22|[[5億年ぶりにフルパvaloやるみたい 遅延あり>>https://www.twitch.tv/videos/2572781227]]|aja、切嘛、とっぴー、ふらんしすこ|VALORANT||
+|MIDDLE:2025/11/01|MIDDLE:[[RPLメンバーのRustベッドウォーズに参加させて頂きます>>https://www.twitch.tv/videos/2606849769]]|&font(7pt){ごっちゃん@マイキー、LIGHT、イナゴン、馬人、Middleee、&br()FOXRABBIT、あどみん、アメザリひらい、Rio、ノビー、&br()KYS、ましゃかり、アベレージ、ズズ、霧島ジャック、梟雄しろや}|MIDDLE:Rust||
+|>|>|>|>||
+|2026/05/02|[[何億年振りのマイクラサバイバル w/きるましすことっぴー>>https://www.twitch.tv/videos/2762293766]]|切嘛、とっぴー、ふらんしすこ|Minecraft||
+|2026/06/09|[[マルチでマイクラ脱出マップする w/きるとぴしす>>https://www.twitch.tv/videos/2792390134]]|切嘛、とっぴー、ふらんしすこ|Minecraft||
+|2026/08/27|[[まちんぱーてー →make way w/ajaきるまちーの>>https://www.twitch.tv/videos/2857763841]]|aja、切嘛、（ちーの）|Machine Party→Make Way||
+#table_sorter{even=#F7F7F7,odd=fff}
+}
+#endregion()
+****&size(110%){&bgcolor(#cccccc){&nbsp()&font(#ffffff,90%){　&icon_fa(fas fa-icons)&space()イベント・グッズ}&nbsp(4)}}
+***&size(20){&color(#999){●}} &font(15px){&bold(){Role Play Live 2025}}
+#region(開く)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #cccccc;){
+#size(14px){2025/12/13　Role Play Live 2025 &br()2025/12/14　Role Play Live 2025～After The Party～&space(10)[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} OP Movie>>https://youtu.be/w9ooRnAq1DQ]]&br()&small(){（会場：幕張メッセ）[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/light_starboy/status/1981631389306101766]]}
+2025/11/15 17:00〜11/16 23:59：[[事前オンライングッズ販売>>https://rpl.official.ec/]]&br()&space(3)&small(){アクリルスタンド、フレークステッカーセット、マフラータオル、ランダムステッカー、ランダムアンブレラ―マーカー&space()[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/light_starboy/status/1989605315017675112?s=20]]}
+2025/12/15 18:00～26/01/04 23:59：[[事後オンライングッズ販売>>https://rpl.official.ec/]]
+|後日談|12/16配信|[[雑談 RPL2025お疲れ様でした>>https://www.twitch.tv/videos/2645261072]]|
+2025/12/29, 30 [[PPV配信 (hulu)>>https://www.hulu.jp/store/role-play-live-2025]]
+}}}}
+#endregion()
+***&size(20){&color(#999){●}} &font(15px){&bold(){GRPL -Gang Role Play Live-}}
+#region(開く)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #cccccc;){
+#size(14px){2026/02/07　＜DAY1＞GRPL -Gang Role Play Live- &br()2026/02/08　＜DAY2＞GRPL -Night Drive- &space(10)[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} OP Movie>>https://youtu.be/RWMJnEKeivA]]&br()&small(){（会場：ぴあアリーナMM）[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/light_starboy/status/2005914635229356219?s=20]]、[[公式ホームページ>>https://gangboss.jp/]]}
+2026/02/10 18:00～03/01 23:59： [[事後オンライングッズ販売>>https://shop.utage-live.co.jp/collections/grpl]]
+2026/02/28 19:00～03/31 23:59：[[PPV配信 (hulu)>>https://www.hulu.jp/store/grpl]]
+}}}}
+#endregion
+#right(){&link_up(🔝ページTOPへ)}

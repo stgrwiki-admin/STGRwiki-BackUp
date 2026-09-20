@@ -1,0 +1,85 @@
+**&color(#939393){&size(25){&color(#ff8c00){プ}}ロフィール &font(25px,#ff8c00){&icon_fa(fas fa-user-circle)}}
+//&image(ここに画像のURLを入力,y=300)
+|&image(leotkym1.png,y=300)|&image(leotkym2.png,y=300)|
+
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_color(head=#f1f1f1:#484848)
+|Season|&nbsp()&font(#696969,100%)&icon_fa(fa fa-calendar)&space()|BGCOLOR(#f1f1f1):~&color(#484848){Season1}|BGCOLOR(#484848):~&color(#f1f1f1){Season2}|h
+|~名前|~&icon_fa(fa-solid fa-user)|>|ツクヨミ　レオ|
+|~出身地|~&icon_fa(fa-solid fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|1999年9月27日 (&countup(1999/09/27,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年12月15日 (&countup(2024/12/15,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|&s(){メカニック【[[9055]]】体験} &small(){（2024/12/28~2025/01/08）}&br()ギャング【[[NO LIMIT]]】&small(){(2025/01/08～)}|ケバブ屋【[[サニーケバブ]]】従業員&small(){(2026/06/11～)}&br()【[[わんも〜Cafe]]】従業員&small(){(2026/07/01～)}|
+|~所属|~&icon_fa(fa fa-users)|芸能プロダクション【[[シャンクズプロモーション]]】&small(){（2024/12/20~）}&br()レーシングチーム【Rewards of Sin】&small(){（2025/05/27~）}||
+|~TwiX|~&icon_fa(fa fa-crow)|@tkym_leo|@leotkym|
+|~レーサー名|~&icon_fa(fa fa-flag-checkered)|[RoS]白銀の獅子||
+|BGCOLOR(#ff8c00):~&color(#f8fbf8){プレイヤー}|BGCOLOR(#ff8c00):~&color(#f8fbf8){&icon_fa(fas fa-moon)}|>|月夜見レオ|
+|BGCOLOR(#ff8c00):~&color(#f8fbf8){告知等}|BGCOLOR(#ff8c00):~&color(#f8fbf8){&icon_fa(fa-solid fa-bell)}|>|&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){月夜見レオ(@Leo_tkym)}>>https://twitter.com/Leo_tkym]]|
+|BGCOLOR(#ff8c00):~&color(#f8fbf8){配信場所}|BGCOLOR(#ff8c00):~&color(#f8fbf8){&icon_fa(fa-solid fa-video)}|>|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441a5){月夜見レオ(leotukuyomi)}>>https://www.twitch.tv/leotukuyomi]]|
+|BGCOLOR(#ff8c00):~&color(#f8fbf8){動画投稿}|BGCOLOR(#ff8c00):~&color(#f8fbf8){&icon_fa(fa-solid fa-upload)}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#ff0000){月夜見レオ / Leo Tukuyomi(@Leo_Tukuyomi)}>>https://www.youtube.com/@Leo_Tukuyomi]]|
+|BGCOLOR(#ff8c00):~&color(#f8fbf8){別キャラ}|BGCOLOR(#ff8c00):~&color(#f8fbf8){&icon_fa(fa fa-user-plus fa-fw)}|>|[[無月　レオ]]|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**&color(#939393){&size(25){&color(#ff8c00){基}}本情報 &font(25px,#ff8c00){&icon_fa(fa fa-id-card-o)}}
+-自分探しのためにロスサントスにやってこようとしていたが、目が覚めると見知らぬ場所で[[見知らぬひと>>NO LIMIT]]たちに囲まれていて、自分の名前も思い出せない。&br()彼らが言うには、僕は[[レオ>>無月　レオ]]という名前で先祖ツクヨミの体に本来死ぬはずだった僕の魂を入れて復活させたらしい。詳細は[[こちら>>時空警察]]
+#region(ツクヨミ（先祖）について)
+ツクヨミ（先祖）について
+-「時空を越える方法」を発見し濫用することで時空警察に追われていたレオのご先祖様。時空の旅で自らの子孫であるレオを見つけ、我が子のように見守っていた。しかし死の運命がレオに迫っていることを知り、その運命を変える為にあらゆる手を尽くすが結末を変えることは叶わず、自らも時空警察から命を狙われてしまう。心身共に疲弊したツクヨミは、レオが生存するたったひとつの世界線に辿り着く。&bold(){レオの魂を自身の死後その身に宿すことでレオを蘇らせる}という世界線である。ツクヨミは全てを悟り、時空警察に自身の身柄を差し出した。
+#region(実は…)
+実は…
+-無月レオの魂は時空警察（上官）の手違いによって焼却され&bold(){完全に消滅していた}。
+-蘇った時点で無月レオとしての記憶を失くしていたり、自身の名前を覚えていなかったのは、上官が魂を宿す際、シャンクズから渡されたレオの魂と趣味で集めていた赤の他人の魂を間違えて入れ違えたため。
+-つまり現時点でツクヨミレオという人物は血縁関係こそあるものの、無月レオとは&bold(){全く無関係の存在ということになる}。
+#endregion
+#endregion
+
+-ひとまず[[NO LIMIT]]に居候として身を寄せながら街を見て回っている。[[9055]]でメカニックの体験勤務をしながら交友関係と見識を広げている。
+-2025年1月5日のNO LIMIT会議にて[[シャンクズ>>四皇　シャンクズ]]から犯罪に興味がないかを問われ参加する意欲を伝えた。
+--1月8日体験、1月17日仮採用となった。
+--2月7日に正式採用となった。
+-レースに積極的に参加するようになりTOPクラスのレーサーとして名を馳せつつある。
+-[[シャンクズプロモーション]]にも所属しアーティストとして歌手活動にも勤しむ。
+
+***&size(110%){&bgcolor(#696969){&nbsp()&font(#f1f1f1,90%){　Season2}&nbsp(5)}}
+-[[NO LIMIT]]と[[シャンクズプロモーション]]の解散を受けて、あらためて自分を見つめ直す時間としてゆっくりと街での交流を広げている。
+--[[サニーケバブ]]従業員(2026/06/11～)
+--[[わんも〜Cafe]]従業員(2026/07/01～)
+
+
+**&color(#939393){&size(25){&color(#ff8c00){ア}}－ティスト活動 &font(25px,#ffa500){&icon_fa(fas fa-guitar)}}
+#table_style(head=center:#e5e4e6, hover=#ffc680:#666666:bold){日付=right,#=center}
+|~日付|~イベント名|~歌唱曲|備考|h
+|2024/12/22|[[第1回シャンプロ紅白歌合戦　DAY2>シャンクズプロモーション/LIVE／EVENT#第1回シャンプロ紅白歌合戦DAY2]]|[[みずあび>>https://youtu.be/tYVSo8Vs3hY?si=rEAou0fOIj2cKPXu]]||
+|2025/02/07|[[新春シャンプロビンゴ大会>シャンクズプロモーション/LIVE／EVENT#新春シャンプロビンゴ大会]]|[[Wherever you are>>https://youtu.be/KDtm4GUm9zg?si=5uoQ0SqC4titycAI]]|[[さとう>>さとう]]とのデュエット曲|
+|2025/02/14|[[Valentine Dinner Show>シャンクズプロモーション/LIVE／EVENT#ValentineDinnerShow]]|[[耳の聞こえなくなった恋人とそのうたうたい、落陽(original)>>https://youtu.be/SQycZzIgzP0?si=85eYyyOEzX33nLZC]]||
+|2025/03/29|[[FOWK OPEN SPECIAL STAGE>シャンクズプロモーション/LIVE／EVENT#FOWKOPENSPECIALSTAGE]]|[[星空えんどろーる(original)>>https://youtu.be/IQqB5cnMr5U?si=Z5RAG-4MY7OuIQu_]]&br()[[なんでもないや、すべり台(original)、レオ、OH MY LITTLE GIRL>>https://youtu.be/hMvM04vnJgs?si=GTTFp0Hvx7-_WpVB]]||
+|2025/04/12|[[超激動 -SUPER GEKIDO-　DAY1>シャンクズプロモーション/LIVE／EVENT#超激動-SUPERGEKIDO-DAY1]]|桜吹雪(original)||
+|2025/04/13|[[超激動 -SUPER GEKIDO-　DAY2>シャンクズプロモーション/LIVE／EVENT#超激動-SUPERGEKIDO-DAY2]]|むっつりスケベ(original)&br()落陽(original)||
+|2025/07/15|[[3on3ヘリバトル Second>シャンクズプロモーション/LIVE／EVENT#3on3ヘリバトルSecond]]|Clutch(original)|[[MC Sunrise>>MC　Sunrise]]とのデュエット曲|
+|2025/08/16|[[SUMMER FESTIVAL 2025>シャンクズプロモーション/LIVE／EVENT#SUMMERFESTIVAL2025]]|[[むっつりスケベ(original)>>https://youtu.be/na69VRXfUgY?si=8g3uZlRDrKH8cWBp]]||
+|2025/08/30|Dream Music Live　DAY1|家系ラーメンの歌(original)&br()落陽(original)||
+|2026/01/30|[[新春シャンプロショー>シャンクズプロモーション/LIVE／EVENT#新春シャンプロショー]]|[[落陽(original)>>https://youtu.be/UDsbQw3MYuo?si=5kXpwIHlB9P1Qile]]||
+#table_autoincrement()
+#table_sorter{even=#F7F7F7,odd=fff}
+**&color(#939393){&size(25){&color(#ff8c00){エ}}ピソード &font(25px,#ff8c00){&icon_fa(fa fa-calendar-o)}}
+&sizex(3){Season1 編集ページは[[こちら>>ツクヨミレオ/エピソード1]]} / &sizex(3){Season2 編集ページは[[こちら>>ツクヨミレオ/エピソード2]]}
+#include(ツクヨミレオ/エピソード1)
+
+#include(ツクヨミレオ/エピソード2)
+**&color(#939393){&size(25){&color(#ff8c00){ア}}ーカイブ &font(25px,#6441a5){&icon_fa(fa fa-twitch)}}
+&sizex(3){Season1 編集ページは[[こちら>>ツクヨミレオ/アーカイブ1]]} / &sizex(3){Season2 編集ページは[[こちら>>ツクヨミレオ/アーカイブ2]]}
+#include(ツクヨミレオ/アーカイブ1)
+
+#include(ツクヨミレオ/アーカイブ2)
+**&color(#939393){&size(25){&color(#ff8c00){投}}稿動画 &font(25px,#ff0000){&icon_fa(fa fa-youtube-play)}}
+&sizex(3){Season1 編集ページは[[こちら>>ツクヨミレオ/投稿動画1]]} / &sizex(3){Season2 編集ページは[[こちら>>ツクヨミレオ/投稿動画2]]}
+#include(ツクヨミレオ/投稿動画1)
+
+#include(ツクヨミレオ/投稿動画2)
+#right(){&link_up(🔝ページTOPへ)}

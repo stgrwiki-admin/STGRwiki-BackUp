@@ -1,0 +1,156 @@
+&image(jts_school_logo2.png,y=190)
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#F4A92C:#FFF){}
+|~学校名|~&icon_fa(fa fa-school)|ジョアンナタレントスクール|
+|~業種|~&icon_fa(fa fa-landmark)|教育・サービス業|
+|~始動日|~&icon_fa(fa fa-flag)|2026年04月19日&space()&small(){（&countup(2026/04/19,yd)経過）}|
+|~開校日|~&icon_fa(fa fa-school-flag)|2026年05月18日&space()&small(){（&countup(2026/05/18,yd)経過）}|
+|~校長|~&icon_fa(fa fa-user-secret)|&b(){[[町田　ジョアンナ]]}|
+|~教頭|~&icon_fa(fa fa-user-ninja)|&b(){[[豆　やん]]}|
+
+//|~job名|~&icon_fa(fa fa-user-tag)|ボスメニューのジョブネーム&co(){※わからない場合は、行ごと削除}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+//----
+*基本情報
+***&icon_fa(fa fa-flag)&space()&underdot(3px){開業までの経緯}
+街で長く過ごしている住民が、筋肉の使い方を知らなかったことがきっかけ
+
+|練習場所|番地|h
+|あらよっとスタジオ(貸しスタジオ)|7099|
+*関係者一覧
+**講師陣
+-原則としてJTS社員は何らかの講師に就くことになっている
+#table_filter(){名前=show,就任日=show,担当=show,備考=hide}
+#table_style(head=#F4A92C:#FFF){名前=b,就任日=center}
+|~名前|~就任日|~担当|~備考|h
+|[[町田　ジョアンナ]]|2026/04/25|全般||
+|[[ねずみさん>>えぐち　きの子]]|2026/04/25|ダンス振付・レッスン||
+|[[毒多　博士]]|2026/05/10|映画製作||
+|[[豆　やん]]|2026/05/21|営業||
+|[[よりどり　みどり]]|2026/09/03|セクシー講座||
+//|[[レイジー　ルードマン]]|2026/mm/dd|芝居、演技、ショートドラマ脚本||
+//|[[アイドゥラー　ヨシャパテ]]|||||
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//就任日はそれぞれ事業を始めたタイミングを目安にしています
+**生徒
+***0期生
+-立派なチアガールに育てるべく[[Pガールズ]]を迎え入れた
+-0期生であるのは、開校前からレッスンを受けていた為
+#region(開く,open)
+#table_filter(){名前=show,入学日=show,備考=hide}
+#table_style(head=#F4A92C:#FFF){名前=b,就任日=center}
+|~名前|~入学日|~備考|h
+|[[寝言　怠惰]]|2026/05/08||
+|[[ボクジュール　すずり]]|2026/05/08||
+|[[星詠　あう]]|2026/05/08||
+|[[帆立　ほたる]]|2026/05/08||
+|[[ヤング　ヨネ>>えびな　ヨネ]]|2026/05/08||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//入学日はレッスン開始日を目安にしています
+#co{
+//***職業体験者
+#table_style(head=#E0E0E0)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+}
+#co{
+//***退職者
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+//-------------------------------------------------
+*サービス一覧
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+**料金表
+***&icon_fa(fa fa-person-running)&space()ダンス
+#table_filter(){サービス・講座=show,コース=show,料金=show,提供開始日=hide,内容=show}
+#table_style(head=#F4A92C:#FFF){No.=center,価格=right}
+|~サービス・講座|~コース|~料金|~提供開始日|~内容|h
+|振付|初級|50万|2026/05/18|デックの筋肉がない人でも気軽に受講できる|
+|~|中級|70万|~||
+|~|上級|100万|~||
+|振り入れ(レッスン)|初級|50万|2026/05/18|デックの筋肉がない人でも気軽に受講できる|
+|~|中級|70万|~||
+|~|上級|100万|~||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+----
+***&icon_fa(fa fa-clapperboard)&space()映像
+#table_filter(){サービス=show,料金=show,提供開始日=hide,内容=show}
+#table_style(head=#F4A92C:#FFF){No.=center,価格=right}
+|~サービス|~料金|~提供開始日|~内容|h
+|制作|100万|2026/05/18||
+|撮影|80万|2026/05/18||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+----
+***&icon_fa(fa fa-seedling)&space()基礎
+#table_filter(){講座=show,料金=show,提供開始日=hide,内容=show}
+#table_style(head=#F4A92C:#FFF){No.=center,価格=right}
+|~講座|~料金|~提供開始日|~内容|h
+|デック筋肉の使い方|50万|2026/05/18|身体の動かし方を学ぶ|
+|音の出し方|50万|2026/05/18||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+----
+***&icon_fa(fa-regular fa-face-grin-squint-tears)&space()エンタメ
+#table_filter(){サービス・講座=show,料金=show,提供開始日=hide,内容=show}
+#table_style(head=#F4A92C:#FFF){No.=center,価格=right}
+|~サービス・講座|~料金|~提供開始日|~内容|h
+|自己紹介作成|30万|2026/05/18||
+|謎かけ|30万|2026/05/18||
+|セクシー|50万|2026/05/18||
+|芝居|30万|2026/05/18||
+**実績
+#table_filter(){関係者=hide,内容=show}
+#table_style(head=#F4A92C:#FFF)
+|~日付|~出来事|~関係者|~内容|h
+|05/09|イベント出演|ジョアンナ、ねずみさん、Pガールズ|Pガールズがチアダンスを初披露|
+|05/27|ダンスレッスン|ジョアンナ、ねずみさん、めれにくす|アイドル【[[めれにくす]]】初めての練習|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#co(){
+***限定商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+----
+***&icon_fa(fa-regular fa-file)&space()ポスター
+|&blankimg(jts_school1.png,y=200)|&blankimg(jts_school2.png,y=200)|
+
+*沿革
+&b(){2026年}
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#F4A92C:#FFF)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|04/19|ジョアンナタレントスクール始動||[[ヨシャパテ>>アイドゥラー　ヨシャパテ]]から[[Pガールズ]]養成の依頼|
+|04/25|レッスンスタート|ジョアンナ、ねずみさん、Pガールズ|Pガールズが踊るチアダンスの振付&レッスン|
+|05/18|ジョアンナタレントスクール開校|ジョアンナ、ねずみさん、Pガールズ|Pガールズがサッカー大会でチアダンスを披露&br()Pガールズの実績を基に本格始動|
+//
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#right(){&link_up(🔝ページTOPへ)}

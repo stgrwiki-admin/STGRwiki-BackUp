@@ -1,0 +1,219 @@
+//&image(ここに画像のURLを入力,y=300)
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#00234d:#FFFFFF){}
+|~店名|~&icon_fa(fa fa-solid fa-hat-wizard)|&ruby(ウィザードリィ・ワークス){Wizardry Works}|
+|~業種|~&icon_fa(fa fa-home)|不動産|
+|~開業日|~&icon_fa(fa fa-calendar-check)|2025年12月26日&space()&small(){（&countup(2025/12/26,yd)経過）}|
+|~TwiX|~&icon_fa(fa fa-crow)|@housing|
+|~所在地|~&icon_fa(fa fa-map-marker)|6189番地|
+|~社長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[ももみ>ももみ　マルフォイ]]}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+※【前身であるヒーローハウジングに関しては[[こちら>ヒーローハウジング]]】
+・新しく物件・ガレージを作成し、市民に販売する仕事。
+・価格は物件や土地によって様々。
+・内見は不動産事務所の壁にある地図を心の目で見る事で可能。
+・住宅を売った不動産屋に売上の一部が入る。
+・市民から購入物件を売却したいと依頼された場合は不動産屋にて売却手続きが可能。購入価格の一部(50%)が購入者に返金される。
+・2026年2月12日に社長交代および社名変更。
+#region(開く)
+&blankimg(WizardryWorks_変更.png,y=300,x=250)
+#endregion()
+・住宅購入審査は毎週水曜日に行われる。
+#region(開く)
+&blankimg(WizardryWorks_TwiX告知.png,y=300,x=250)
+#endregion()
+
+#center{&blankimg(TwiX.jpeg,x=370,y=250)}
+
+***建築士
+・顧客の要望に合わせて間取りや階数を決められるオーダーメイド物件の販売が可能になった。
+#region(建築士募集)&b(){建築士募集}
+&blankimg(オリジナル内装_建築士.png,y=300,x=250)
+#endregion()
+
+**従業員情報
+***従業員
+#table_filter(){役職=show,名前=show,就職日=hide,備考=show}
+#table_style(head=#00234d:#FFFFFF){名前=bold}
+|~役職|~名前|~就職日|~備考|h
+|MIDDLE:社長|[[ももみ>>ももみ　マルフォイ]]&br()&blankimg(WizardryWorks_ももみ.png,x=100,y=130)|MIDDLE:2025/12/24||
+|MIDDLE:社員|MIDDLE:[[橘　かげまる]]&br()&blankimg(WizardryWorks_かげまる.png,x=100,y=130)|MIDDLE:2025/12/24||
+|MIDDLE:社員|MIDDLE:[[パン　チャン]]&br()&blankimg(WizardryWorks_ぱんちゃん.png,x=100,y=130)|MIDDLE:2025/12/24||
+|MIDDLE:社員|MIDDLE:[[三否亭　四五六確]]&br()&blankimg(WizardryWorks_しごろ.png,x=100,y=130)|MIDDLE:2025/12/24||
+#table_sorter{even=#f6f7f8,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+***従業員(建築士)
+#table_style(head=#00234d:#FFFFFF){名前=bold}
+|~役職|~名前|~就職日|~備考|h
+|社員|[[天近　くるみ]]|2026/02/27|インテリアコーディネーター（ハウジング代行）の経験がある&br()[[魔女の酒場]]にオーダーメイド物件のモデルケースとなってもらう代わりに&br()売値の半額を不動産が負担する形で合意・就職するに至った|
+|社員|[[ペトロ　アルドベッグ]]|2026/03/11|　|
+|社員|[[閃光寺　亜夢]]|2026/03/11|　|
+#table_sorter{even=#f6f7f8,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#co{
+【***】職業体験者
+#table_style(head=#00234d:#FFFFFF)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f6f7f8,odd=#FFFFFF}
+}
+#co{
+【***】退職者
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+***業務提携
+#table_style(head=#00234d:#FFFFFF){名前=bold}
+|~名前|~提携日|LEFT:~　備考|h
+|[[BJローン]]|2026/03/19&br()&font(10px){ローン開始日基準}|社長の[[ももみ]]からBJローン社長の[[三否亭　四五六確]]に打診があり前向きに検討。&br()当初は犯罪者向けも並行する予定だったが、諸般の事情で白市民向けローンとして始動。&br()市民が犯罪をしているか否かについては[[警察>>ロスサントス警察]]と連携し、確認を得た上で、BJローンと&br()ローン契約を結べば、分割払いで不動産が購入できる。|
+//提携の話がなくなった場合は項目ごと削除して頂いて問題ありません。
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f6f7f8,odd=#FFFFFF}
+
+#right(){&link_up(🔝ページTOPへ)}
+**販売商品
+***主な販売物
+#region(開く,open)
+#size(90%){{{#table_filter(){No.=show,価格=show,備考=show}
+#table_style(head=center:#00234d:#FFFFFF){No.=center,価格=right}
+|~名称|~価格|~備考|h
+|アパートの引越し|50万|　|
+|不動産物件|300万～1300万|設置場所・設置内装によって価格は様々|
+|オーダーメイド物件|　万|飲食店などの内装（壁・窓・階段・階数 ※4階まで）を顧客の要望に合わせてカスタマイズした物件|
+|レンタルライブハウス|300万|8042番地にて建築士が作成したライブハウスの貸出を行う。300万円＋手数料 / 2日|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f6f7f8,odd=#FFFFFF}}}}
+//
+#co{
+|個人ガレージ||個人でしか使用できない駐車場。|
+|ハウジングガレージ&br()(共有ガレージ)||不動産物件に付随する形で設置する駐車場。|
+|牧場||牛・豚・鶏を飼育し、収入を得る特殊な物件。&br()一定の日数欠かさずに世話をする必要があるが、その分収入が大きい特徴がある。|
+|引っ越し|土地代＋購入価格の10％||
+}
+//
+#endregion()
+
+#region(2026/07/01 レンタルライブハウス,open)&b(){2026/07/01 レンタルライブハウス}
+|&blankimg(レンタルライブハウス.jpeg,x=320,y=180)|
+#endregion
+
+----
+***内装
+・家の所有者の変更・物件の譲渡は不可。
+・合鍵の受け渡しは代表契約者のみ可能。
+#region(物件リスト)
+#size(90%){{{#table_filter(){No.=show,物件名=show,価格=show,容量=hide,備考=show}
+#table_style(head=center:#00234d:#FFFFFF){No.=center,価格=right}
+|~物件名|~価格|~容量|~備考|h
+
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f6f7f8,odd=#FFFFFF}}}}
+#endregion(内装)
+
+***建築士物件作例
+#region(開く)&b(){閉じる}
+****天近くるみ
+|&image(くるみ_魔女の酒場.webp,x=300)|
+|魔女の酒場(ハウジング装飾込み)|
+
+****閃光寺 亜夢
+#slide_img(auto=4,position=left,width=330,height=185){
+閃光寺_テラス付きワンルーム.jpg,
+閃光寺_ライブハウス.jpg,
+閃光寺_カフェ.jpg,
+閃光寺_2LDK.jpg,
+https://img.atwiki.jp/streamergta5/attach/2900/27170/%E9%A3%AF%E7%94%B0%E6%9B%B8%E5%BA%97_%E5%86%85%E8%A3%851.jpg,
+https://img.atwiki.jp/streamergta5/attach/2900/27171/%E9%A3%AF%E7%94%B0%E6%9B%B8%E5%BA%97_%E5%86%85%E8%A3%852.jpg,
+閃光寺_救急隊宿直室1.webp,
+閃光寺_救急隊宿直室2.webp
+}
+#openclose(show=関連動画▼){{
+#size(80%){{{#table_style(100%,head=#E0E0E0:center){}
+|[[テラス付きワンルーム>https://www.youtube.com/watch?v=4iG_wgaPcWQ]]|[[ライブハウス>https://www.youtube.com/watch?v=uocoyiSSwIk]]|
+|[[カフェ>https://www.youtube.com/watch?v=qIITPNOK7Lk]]|[[中庭付き2LDK>https://www.youtube.com/watch?v=gx0kER4IImI&t=344s]]|
+|[[飯田書店①>>https://youtu.be/yIBuCFW4TOQ?si=-k4yi3j3ZbPppqU3]]・[[②>>https://youtu.be/vZzJdnt_mhU?si=jAxDOcQ94s_Gc0hK]]|[[廃工場風アジト①>>https://youtu.be/Izo71hERTSI?si=jsn3TVv4Elq9MoTJ]]・[[②>>https://youtu.be/9Of46lpoVlk?si=By9EvUQU-wLpz8VZ]]|
+|[[救急隊宿直室①>>https://youtu.be/HzoZzTNFHyw?si=LVn028sY4l-Rt_Nk]]・[[②>>https://youtu.be/bUE_rZ0f9Ig?si=GPY46oZg_CRJ3MYq]]/[[③>>https://youtu.be/r-ueUs9i1MQ?si=Fzdu0njAThsmg4xM]]・[[④>>https://youtu.be/5DqcggYCmd8?si=Wu0YtrKz1_1-ew1q]]|[[キャバクラ①>>https://youtu.be/eO0kl8WmEOo?si=8knyL65FDh6vw4Qq]]・[[②>>https://youtu.be/1gd_NcCBUeE?si=baHIZ-dv6uT5b41L]]|
+|[[ライブハウス&飲食>>https://youtu.be/ZzXhlTPaByg?si=CPBTeSXYmmYqVZwb]]||
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+}}}}}
+#endregion(建築士)
+//
+//
+#co{▼▼▼ ここからCO ▼▼▼
+
+----
+【***】土地
+・2026年2月現在の土地代は北や砂漠などは300万、街中は1000万～1300万。
+#region(土地代リスト)
+#size(90%){{{#table_filter(){No.=show,種類=show,地価=show,備考=show}
+#table_style(head=center:#00234d:#FFFFFF){No.=center,地価=right}
+|~種類|~地価|~備考|h
+
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f6f7f8,odd=#FFFFFF}}}}
+#endregion(土地)
+
+　　▲▲▲ ここまでCO ▲▲▲}
+
+
+#right(){&link_up(🔝ページTOPへ)}
+**沿革
+***2025年
+#region(開く)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#00234d:#FFFFFF)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|12/24|再就職|[[ももみ]]・[[パン　チャン]]・[[橘　かげまる]]・[[三否亭　四五六確]]|新しい街の不動産に再就職&br()アパートの引っ越し（10万）ができるようになった|
+#table_sorter{even=#f6f7f8,odd=#FFFFFF}
+#endregion
+//
+***2026年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show,関連動画=hide}
+#table_style(head=center:#00234d:#FFFFFF)
+|~日付|~出来事|~関係者|~エピソード・備考|~関連動画|h
+|01/09|面談&br()建築士|[[山下　ひろし]]・[[ももみ]]|市長とももみが面談 ハウジングがいよいよ動き出すことを伝えられる&br()新たなジョブ『建築士』について話があった|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ももみ>>https://youtu.be/asto7Cb0eJQ]]|
+|01/14|内見開始|-|ハウジングの内見が始まる||
+|02/12|社名変更&br()社長交代|-|社名が「ヒーローハウジング」から「Wizardry Works」に&br()社長が吉田ユッカからももみに正式に交代する|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[パンチャン>>https://youtu.be/9oeQMlZUiMs?si=xzIRSlQEizo8vL5s]]|
+|02/14|不動産会議&br()業務提携について|[[ももみ]]・[[橘　かげまる]]&br()[[三否亭　四五六確]]・[[パン　チャン]]|間取りのオーダーメイド・住宅ローンについて会議を行う&br()[[BJローン]]の社員3名と社長のももみが業務提携に関する方針のすり合わせを行った|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ももみ>>https://youtu.be/tgMQ-sibidM]]&br()&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[パンチャン>>https://youtu.be/5PFJnzsm2Zg]]|
+|02/25|物件販売開始|-|||
+|02/25|トラブル発生|[[ももみ]]・[[橘　かげまる]]・[[葛城司]]&br()[[銭形　やいち郎]]・[[三階堂　キミトス]]|物件購入を巡るトラブルが発生 法に詳しい葛城司を交えて意見交換を行う||
+|02/27|[[天近　くるみ]]入社||建築士として雇用。[[ももみ]]が入社手続きとオーダーメイド物件の講習を行った||
+|03/11|建築士講習|[[ももみ]]・[[天近　くるみ]]・[[香月　ろぎあ]]&br()[[ペトロ　アルドベッグ]]・[[閃光寺　亜夢]]|[[天近　くるみ]]が[[香月　ろぎあ]]・[[ペトロ　アルドベッグ]]・[[閃光寺　亜夢]]の3名に建築士の仕事について講習を行った|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ももみ>>https://youtu.be/0gXVmXf-ciE]]|
+|03/11|[[ペトロ　アルドベッグ]]入社&br()[[閃光寺　亜夢]]入社|[[ももみ]]・[[天近　くるみ]]&br()[[ペトロ　アルドベッグ]]・[[閃光寺　亜夢]]|建築士として雇用。[[ももみ]]が入社手続きを行った||
+|03/12|不動産会議|[[ももみ]]・[[橘　かげまる]]&br()[[三否亭　四五六確]]・[[パン　チャン]]|飲食オリジナル内装店舗の募集選考について会議を行う&br()社長の[[ももみ]]から当選した応募者へ連絡・内装制作希望者には建築士jobの付与を行った|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ももみ>>https://youtu.be/FI2BO8fqxNU]]&br()&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[パンチャン>>https://youtu.be/p1Z9zKddRI0]]&br()&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[パンチャン>>https://youtu.be/1u47YsgLDPE]]|
+|03/18|面談|[[市長>>山下　ひろし]]・[[ももみ]]&br()[[橘　かげまる]]・[[三否亭　四五六確]]|市役所にて住宅ローンに関する話し合いを行った||
+|03/19|住宅ローン始動|[[BJローン]]・[[ももみ]]|前日の面談で市長から許可が下り、住宅ローンが始動した。||
+|03/21|不動産会議|[[ももみ]]・[[橘　かげまる]]&br()[[三否亭　四五六確]]・[[パン　チャン]]|建築士関連の給料・料金・顧客とのやり取り等の会議を行った||
+|03/25|面談|[[山下　ひろし]]・[[ももみ]]・[[天近　くるみ]]|市長より市役所職員用の作業部屋の作成依頼||
+|04/30|不動産・建築士会議|[[ももみ]]・[[橘　かげまる]]・[[三否亭　四五六確]]・[[パン　チャン]]&br()[[ペトロ・アルドベッグ]]・[[閃光寺　亜夢]]・[[天近　くるみ]]|　|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ももみ>>https://youtu.be/l4QQRy9grX4]]&br()&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ももみ>>https://youtu.be/sQ6gfq_UjEI]]&br()&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[閃光寺 亜夢>>https://youtu.be/MMQzaQ9iOJg]]|
+|05/10|オリジナル内装の受注停止|-|6月〜7月頃まで予定が埋まる見込みの為、一時的に受注を停止する||
+|05/22|CM完成 [[&font(#c53d43){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/uXS__kYmH_Q]]|[[ももみ]]・[[橘　かげまる]]・[[パン　チャン]]&br()[[カテジ]]・[[天羽　よつは]]・[[鳥野　ぎん]]|[[スタジオカテジ>>STADIO KATEJI（スタジオカテジ）]]に依頼していたWizardry WorksのCMが完成||
+|05/29|不動産・建築士会議|[[ももみ]]・[[橘　かげまる]]・[[三否亭　四五六確]]・[[パン　チャン]]&br()[[閃光寺　亜夢]]・[[天近　くるみ]]|　|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[パンチャン>>https://youtu.be/CnPeGa4QYaw]]&br()&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[閃光寺 亜夢>>https://youtu.be/cyt-EmVS3kM]]|
+|06/27|イベント開催&br()&openclose2(show=▼告知画像){&br()&blankimg(レンタルライブハウス公開記念ライブ.jpeg,x=150,y=200)}|協力：[[キラ・メキーラ]]&br()[[天近　くるみ]]・[[橘　かげまる]]・[[灰部理　秀人]]・[[さとう]]&br()[[銭形　やいち郎]]・[[町田　ジョアンナ]]＆[[音姫　みつを]]|レンタルライブハウス公開記念ライブを開催||
+|07/01|レンタルライブハウス||建築士が作成したライブハウスの貸出を開始|　|
+|07/02|不動産・建築士会議|[[ももみ]]・[[橘　かげまる]]・[[パン　チャン]]&br()[[閃光寺　亜夢]]・[[天近　くるみ]]・[[ペトロ・アルドベッグ]]|　|　|
+|07/08|内装受付再開||内装の広さ＋1億円でオリジナル内装物件の受付を再開|　|
+#table_sorter{even=#f6f7f8,odd=#FFFFFF}
+//|日付|タイトル|関係者|備考|動画|
+//&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[投稿者名>>URL]]
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

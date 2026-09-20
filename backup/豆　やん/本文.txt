@@ -1,0 +1,360 @@
+**プロフィール
+#slide_img(auto=4,position=left,width=300,height=400){
+S2_豆やん.png,
+S2_豆やん_2.webp,
+}
+
+#table_filter(){season1=hide,season2=show}
+#table_style(head=#222:#FFF){シーズン=#FFF:#56754B:b:center}
+|~シーズン|~&icon_fa(fa fa-calendar)|~season1|~season2|
+|~名前|~&icon_fa(fa fa-user) |>|&ruby(まめ){豆}　やん|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本の関西|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|1986年12月01日 (&countup(1986/12/01,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年10月31日 (&countup(2023/10/31,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa fa-wrench)&space()&b(){メカニック【[[ジョアンナテクノサービス]]】&small(){マネージャー (2023/12/24~)}}&br()&icon_fa(fa fa-plane)&space()&b(){航空機ディーラー【[[豆おじさんのエアークラフト]]】&small(){社長 (2024/03/13~)}}&br()&icon_fa(fa fa-ship)&space()&b(){ボートディーラー【[[SeaYosoro 天王寺]]】&small(){社員 (2024/03/01~)}}&br()&icon_fa(fa fa-gas-pump)&space()&b(){コンビニ・ガソリンスタンド経営(9033番地)}|&icon_fa(fa fa-wrench)&space()&b(){メカニック【[[ジョアンナテクノサービス]]】&small(){マネージャー (2025/12/24~)}}&br()&icon_fa(fa fa-pizza-slice)&space()&b(){イタリアンレストラン【[[acqua ovest]]】&small(){店員(2026/01/02~)}}&br()&icon_fa(fa fa-person-military-pointing)&space()&b(){警察官【[[ロスサントス警察]]】&small(){(2026/08/28~)}}|
+|~前職|~&icon_fa(fa fa-building-circle-arrow-right)|&icon_fa(fa fa-tree)&space()&font(90%){木こり}&br()&icon_fa(fa fa-gem)&space()&font(90%){カジノ【[[DIAMOND CASINO>>カジノ]]】&small(){従業員(~2024/02/28)}}||
+|~所属|~&icon_fa(fa fa-users)|お笑いトリオ「きりまんじゃろ」&br()自治会「[[西サントス]]」&br()イベント会社「[[モンスターハウスプロダクション]]」|&b(){サービス業【[[ジョアンナタレントスクール]]】&small(){教頭 ( 2026/05/21~)}}|
+|~TwiX|~&icon_fa(fa fa-crow)|豆やん||
+|~配偶者|~&icon_fa(fa fa-heart)|>|[[ダミ　アン]] (本名：豆　アン)|
+|~養子|~&icon_fa(fa fa-female)|>|[[銅鑼　チエリ]] &br()[[銅鑼　イオリ]]|
+|~レーサー名|~&icon_fa(fas fa-car)|豆ライダー!|MAME-RIDER|
+|BGCOLOR(#9D4140):~プレイヤー|BGCOLOR(#9D4140):~&icon_fa(fa fa-address-card-o) |>|豆腐ちゃん🍺🐾（あしあと。)|
+|BGCOLOR(#9D4140):~告知等|BGCOLOR(#9D4140):~&icon_fa(fa fa-bullhorn) |>|&font(85%){&color(#FFF,#000){&space()𝕏&space()}} [[&font(#000){豆腐ちゃん🍺🐾}>>https://twitter.com/touhutin]]|
+|BGCOLOR(#9D4140):~配信場所|BGCOLOR(#9D4140):~&icon_fa(fa fa-gamepad) |>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){あしあと。}>>https://www.youtube.com/@ashiato]]｜&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){豆やん豆腐ちゃん}>>https://www.twitch.tv/mameyan1201]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・&openclose2(show=夫婦喧嘩){（目玉焼きにケチャップをかけた）}したのが原因で、嫁が家を出てこの街にいるという噂を聞き、探しに来た。
+・・街の人からは、仲直りのアドバイスを貰ったりして気にかけてもらっていた。
+・・捜索中は、名前を『嫁が家出中　豆やん』にしていた。
+#region(妻の特徴)
+・歌が上手い
+・ものすごい人見知り
+・ボーイッシュと言えばボーイッシュ。活発と言えば活発。
+・モノマネが得意。色んな声を出せるらしい。
+・ファーストネームは&bold(){"アン"}らしい。
+#endregion()
+
+・&bold(){その後、妻が[[ダミ　アン]]として暮らしている事が発覚し、仲直りした。}
+・・その為、名前を『嫁が帰ってきた　豆やん』に変更した。
+・妻を見つける途中でこの街のことも気に入り、妻も同じ気持ちでいるため、正式に夫婦そろってこの街に移住した。
+
+・当初の目的「妻の捜索」が達成された後、&bold(){「[[JTS>ジョアンナテクノサービス]]を盛り上げたい！」}と目標を掲げている
+・[[JTS>ジョアンナテクノサービス]]では主に「早番」(17時〜(ほぼ毎日))から勤務している
+・・早番は[[多良里　ずぅ]]・[[ねずみさん>えぐち　きの子]]と勤務していることが多い
+・メカニックの少ない早い時間帯に出勤し続けているため住民からは感謝されている(デイリー豆やん)
+・・車だけでなく、航空機や船など街の乗り物全般に詳しく相談されることも多い
+・コンビニ&ガソリンスタンド経営者でもある
+・・コンビニで販売されいる商品の大量注文を受けることもある
+・声が大きく特徴的なため「どこにいるかすぐわかる」（[[ねずみさん>えぐち　きの子]]談）
+・毎日修理に来てくれる変装した[[ギャング]]（[[ニャンコ・スキー]]）が修理ついでにコンビニ強盗を行う際、拉致されることを「デイリー」と呼んでいる（人質として拉致されるのは[[ねずみさん>えぐち　きの子]]や[[多良里　ずぅ]]の場合もある）
+
+&bold(){外見}
+・インパクトのある男になりたくて猿のマスクをつけた。
+・・が、脱いだ方がいいと言われ、脱いだ。
+・イベントやイレギュラーな出来事の際は全身の衣装をデパートへ買いに行くことが多い。
+・・デパートが閉店したため、現在は服屋で購入している。
+
+&bold(){性格}
+・楽観的な性格で声が特徴的な気のいいおっちゃん。
+・釣りが好き。
+・オヤジギャグが好き。
+・数字と英語が苦手。
+・寂しがり屋さん。
+//
+**人間関係
+#region(家族)家族
+
+&b()[[ダミ　アン]]
+・夫婦喧嘩が原因で家出し、ロスサントスで再会した妻。
+・仲直りし、正式に日本からロスサントスへ移住した。現在は夫婦で住む豪邸を持っている。
+・よく[[JTS>ジョアンナテクノサービス]]で夫婦漫才をしている。
+
+&b()[[銅鑼　チエリ]]、[[銅鑼　イオリ]]
+・成り行きで夫婦の養子になった双子。
+・おこづかいをあげたり車を買ってあげたりと、実の娘のように&s(){甘やかして}可愛がっている。
+#endregion(家族)
+
+#region([[JTS>ジョアンナテクノサービス]])[[JTS>ジョアンナテクノサービス]]
+
+&b()[[町田　ジョアンナ]]
+・[[JTS>ジョアンナテクノサービス]]の社長。
+・豆やんは彼女にコントのネタやハウジングについて相談されることもある。
+・彼女の考案したコントやコスプレに付き合うのを楽しんでいる。
+
+&b()[[ねずみさん>えぐち　きの子]]
+・[[JTS>ジョアンナテクノサービス]]の早番でよく一緒に働いている。
+・豆やんと同じくイタズラ好きで、一緒にチョケることもある。
+・豆やんと[[大川さん>大　川]]の会話がきっかけで[[高級車ディーラー>大川自動車販売(有)]]にも就職した。
+
+&b()[[多良里　ずぅ]]
+・[[ねずみさん>えぐち　きの子]]と同じく[[JTS>ジョアンナテクノサービス]]の早番でよく働くダウナーな女の子。
+・修理中にうっかり殴ったりチョケでスライディングを当てて、よく制裁される。
+・豆やんの[[航空機ディーラー>豆おじさんのエアークラフト]]の他に[[不動産屋>ヒーローハウジング]]でも働いており、彼女のことを自分より金持ちだろうと思っている。
+
+&b()[[つか山　天乃進]]
+・ほぼ同期の独居老人。
+・彼の「〜だと、思うよぉ」という口癖を非常に気に入っており、よく「〜だと？」とフリを行う。
+・おじいちゃんのマイカーを一緒に買いに行った。ランポカスタムを買う際には半額の2000万を無利子無担保で融資した。
+
+&b()[[ラブストレート　小里馬ァ>アイドゥラー　ヨシャパテ]]
+・[[JTS>ジョアンナテクノサービス]]の体験に来た謎のオタク。
+・豆やんは彼の[[正体>アイドゥラー　ヨシャパテ]]を教えてもらっているが、恋愛相談を聞くほど仲良くしている。
+・2024/08/12に正式採用。[[JTS>ジョアンナテクノサービス]]総出+[[ルウさん>ルウ　ギャラクティカ]]でサプライズお祝いをした結果、感涙していた。
+#endregion(JTS)
+
+#region(メカニック)メカニック
+
+&b()[[チェン　マヨ]]
+・初心者の頃、お金の稼ぎ方やバイトの斡旋をしてくれた優しい人。
+・メカニックとしてマイカーの塗装も行った。
+・当時は[[SKE>菖光エンジニア]]メカニックだったが、現在は[[A2 Lab]]で働いている。
+#endregion(メカニック)
+
+#region(白市民)白市民
+
+&b()[[ヘラシギ]]
+・この街のチュートリアルをしてくれた[[免許センター>斎藤Driving School]]のおにいさん。
+・途中『七半　はしる』と名乗る免許センターのおねえさんに交代したが、その[[正体>ヘラシギ]]に気づいた時は頭がパンクし、一旦トイレに行った。
+・・色々な声が出せるので&bold(){探している妻疑惑が出た}。
+
+&b()[[松竹　ウメ]]
+・パルクールの仕方を教えてくれた元気なおばあちゃん。
+
+&b()[[鳥羽　咲夜]]
+・[[カジノ]]の店員さんでありながら、一緒に釣りを始めた釣り仲間。
+・・何故か二人一緒に海へダイブし、[[鳥羽咲夜>鳥羽　咲夜]]はダウンしてしまった。
+・アシッドバイトも一緒にした。
+
+&b()[[渡戸　リー]]
+・木こりの仕事を教えてもらった。
+・それ以来、大頭や親方などと呼んでいる。
+
+&b()[[平井　善之]]
+・[[JTS>ジョアンナテクノサービス]]の同僚だったおっちゃん。
+・豆やんがボイチェンでAI平井のおっちゃん『&bold(){HirAi}』に扮した時はあまりのそっくりさに[[本物>平井　善之]]を驚愕させた。
+・現在は[[斎藤モータース]]の社長代理業務に専念するため、[[JTS>ジョアンナテクノサービス]]を退職している。
+#endregion(白市民)
+
+#region(警察)警察
+
+&b()[[竹井　勝痔]]
+・初心者時代に車を買おうとしたらお金が足りず、足りない200万円分を借金した。車は購入した。
+・[[JTS>ジョアンナテクノサービス]]でマネージャーに昇進した日に報告をしたら祝金1000万をくれた。
+
+&b()[[安倍　霊明]]
+・豆やんの大好きな陰陽師で警察官。副業で[[コスメ店員>Merry&Belle]]。
+・霊明が初心者マークの時からお祓いの虜になり、可愛がって仲良くしている。以前2日間JTS体験をしてくれたが、霊明ならいつでも歓迎と語るほど気に入っている。
+・[[JTS>ジョアンナテクノサービス]]北支店オープンのお祝いでヘリを購入してくれるなど豆やんを慕ってくれている。
+#endregion(警察)
+
+#region(ギャング)ギャング
+
+&b()[[イネヌコ]]
+・[[竹井　勝痔]]への借金を立て替えてくれたと思ったら、400万円返済しろと言われた（お互い初心者）。
+・・後日返済した。
+
+&b()[[マクドナルド>ライトスターボーイ]]
+・[[GBC>GoodbyeCircus]]社長。
+・豆やんは「おとうさん」と呼ばれている。
+・豆やんが尊敬している人物の1人でもある。
+
+[[真新サトシ>>真新　サトシ]]
+・[[GBC>>GoodbyeCircus]]社員
+・親友。
+・🔰が付いてる頃に街を案内してくれた青年。イタ電を掛け合う仲になる。　
+・カジノの面接で友達はいるかと問われ「サトシが友達」と答えた。
+#endregion(ギャング)
+**エピソード
+#region(開く,open)
+|2023/10/31|&bold(){ケンカして逃げた妻を探して、街へ降り立つ。}|
+|2023/11/26|[[カジノ]]に就職。|
+|2023/12/24|メカニック([[JTS>ジョアンナテクノサービス]]) に就職。|
+|2024/01/23|メカニック([[JTS>ジョアンナテクノサービス]]) でマネージャーに昇進。|
+|2024/01/29|&bold(){この街で暮らしている[[ダミ　アン]]が妻だと発覚し、仲直りする。}|
+|2024/02/10|[[銭形　やいち郎]]から航空機ディーラーの提案をされる。|
+|2024/02/28|カジノ退職。|
+|2024/03/13|航空機ディーラー　([[豆おじさんのエアークラフト]])を正式開店。|
+|2024/03/16|大喜利イベント show点に『関白亭 豆へ～』として出演。|
+|2024/04/16|[[銅鑼　チエリ]]、[[銅鑼　イオリ]]が養子になる。|
+|2024/06/15|JTS敷地内（店舗前駐車場）にて、警察vsギャングの襲撃戦が起きた際、&br()ギャングのひとりにスライディングをしてしまう「スライディング事件」発生。|
+|2024/07/02|殺人（2人）罪にて1分間、プリズンに収監される。|
+|2024/07/03|ドレスコード（フォーマル）のある[[Violet Fizz]]にみすぼらしい服装で来店、&br()何度も着替えを促されるも（[[ねずみさん>えぐち　きの子]]とちょけて）相応しくない格好ばかりに着替えを繰り返し、&br()[[ねずみさん>えぐち　きの子]]と仲良く1分間、プリズンへ送られてしまう。|
+|2024/07/06|エアークラフト会社から[[ずぅさん>多良里　ずぅ]]へのお誕生日プレゼント「Tezeract」（９億）と&br()自分用に「Ignus」を（高級車ディーラーの）[[ねずみさん>えぐち　きの子]]から購入する。&br()（衛星外の）[[天王寺さん>天王寺　京司郎]]から200日記念サプライズで「Autarch」を貰い、&br()嬉しすぎて感激のあまり話せなくなってしまう。|
+|2024/07/11|[[ねずみさん>えぐち　きの子]]、[[ずぅさん>多良里　ずぅ]]とパラシュートチャレンジするも失敗し[[ねずみさん>えぐち　きの子]]がダウン。&br()救助に来てくれた[[切間　てつお]]に事情を話すと興味を示し協力的に！&br()[[てつおさん>切間　てつお]]を「隊長」に迎え再チャレンジするも[[隊長>切間　てつお]]がダウンしてしまう。&br()が！諦めない[[隊長>切間　てつお]]の再再（？）チャレンジ中にヘリ購入依頼の電話で&br()チャレンジ会場を後にする。|
+//|||
+//|||
+
+#endregion(エピソード)
+//
+&size(20){&color(red){エピソード募集中}}
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+***2023年
+#region(開く,close)
+//
+#region(10月,close)10月
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/10/31|1|[[【ストグラ】豆やん今日からこの街にお世話になります。>>https://www.youtube.com/live/phdQ3JNVvOY]]||
+#table_sorter{even=#f9e2d5,odd=fff}
+#endregion
+//
+#region(11月,close)11月
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/11/02|2|[[【ストグラ】豆やんお金を稼いで車を買おう！>>https://www.youtube.com/live/cXjPLjJfKy0]]||
+|23/11/04|3|[[【ストグラ】借金返済のために頑張るぞ～!!>>https://www.youtube.com/live/maQIqQ0Vz-k]]||
+|23/11/05|4|[[【ストグラ】頑張って綺麗な体になるぞ～!!>>https://www.youtube.com/live/0cWiMZYVv5I]]||
+|23/11/06|5|[[【ストグラ】初カスタムカーでドライブ＆仕事！>>https://www.youtube.com/live/DoLwlQ0FXcA]]||
+|23/11/07|6|[[【ストグラ】500万たまったら初心者マーク外す！【豆やん】>>https://www.youtube.com/live/Nn2QxDF2gvk]]||
+|23/11/08|7|[[【ストグラ】記憶と持ち物が…。【豆やん】>>https://www.youtube.com/live/pGEqW9vc6nE]]||
+|23/11/10|8|[[【ストグラ】今日もお仕事さがします。【豆やん】>>https://www.youtube.com/live/kc1xXEHup2w]]||
+|23/11/11|9|[[【ストグラ】豆やん！今日も遊ぶよ～ん！>>https://www.youtube.com/live/Fxyrn6ntCl0]]||
+|23/11/12|10|[[【ストグラ】豆やん！遅めのお仕事します!!>>https://www.youtube.com/live/tpMroeu0BIo]]||
+|23/11/13|11|[[【ストグラ】おっし!!稼ぐぞ！>>https://www.youtube.com/live/md7elYlH4nA]]||
+|23/11/14|12|[[【ストグラ】】豆やん！仕事用車買うために頑張るぞ！>>https://www.youtube.com/live/LNiwrzpfIbk]]||
+|23/11/15|13|[[【ストグラ】】豆やん！仕事車ゲットで働きます！>>https://www.youtube.com/live/GQ8z4Yv_Z-E]]||
+|23/11/16|14|[[【ストグラ】】豆やん！今日も頑張って仕事しよう～！>>https://www.youtube.com/live/6CWumiR60yw]]||
+|23/11/18|15|[[ストグラ】】豆やん！友達ふやそう～！15日目>>https://www.youtube.com/live/TeuQjd3uK_k]]||
+|23/11/19|16|[[【ストグラ】】豆やん！今日も遊ぶ～！16日目>>https://www.youtube.com/live/CpR3SWp0QFM]]||
+|23/11/20|17-1|[[【ストグラ】】豆やん！まさかのカジノに就職！？>>https://www.youtube.com/live/r9paaRDEiiA]]||
+|23/11/20|17-2|[[【ストグラ】】豆やん！まさかのカジノに就職⁉　パート２>>https://www.youtube.com/live/kvNIl0Yofdk]]||
+|23/11/22|18|[[【ストグラ】】豆やん！結婚式に着る服を買おう！>>https://www.youtube.com/live/cgDLgxy1el8]]||
+|23/11/23|19|[[【ストグラ】治療費150万w稼ぎ150万w>>https://www.youtube.com/live/UKAiE39R9Lg]]||
+|23/11/24|20|[[【ストグラ】豆やん　今日も遊ぶぞ～！>>https://www.youtube.com/live/qqjzRVb0MSw]]||
+|23/11/29|21|[[【ストグラ】】豆やん色々遊ぶぜ～！>>https://www.youtube.com/live/HPzg1w6BCyI]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2023/11)
+//
+#region(12月,close)12月
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/12/04|22-1|[[【ストグラ】豆やん！今日から復活！>>https://www.youtube.com/live/cBI32JOhy7A]]||
+|23/12/04|22-2|[[【ストグラ】豆やん！カジノのお仕事!!>>https://www.youtube.com/live/cBI32JOhy7A]]||
+|23/12/05|23|[[【ストグラ】豆やん！倉庫が欲しいです!!23日目>>https://www.youtube.com/live/3ZZhrJPNP24]]||
+|23/12/06|24|[[豆やん！今日も遊ぶぜ！!!24日目>> https://www.youtube.com/live/4PHaFCSoYO0]]||
+|23/12/08|25|[[豆やん！物件探し！!!25日目>>https://www.youtube.com/live/D7jrCfFj2S4]]||
+|23/12/10|26|[[豆やん！目隠し運転ゲーム!? 26日目>>https://www.youtube.com/watch?v=FHUkJxLpaVM]]||
+|23/12/11|27|[[豆やん！レース免許に挑む！27日目>>https://www.youtube.com/watch?v=hgq-T7ymV3A]]||
+|23/12/12|28|[[豆やん！初、飛行機運転!!！28日目>>https://www.youtube.com/watch?v=T4zWDnNl2cc]]||
+|23/12/13|29|[[豆やん！お金が欲しい今日この頃！29日目>>https://www.youtube.com/watch?v=j6WAgaGUPu4]]||
+|23/12/14|30-1|[[豆やん！車買っちゃう⁉　30日目>>https://www.youtube.com/watch?v=_kmvuSgPLrk]]||
+|23/12/14|30-2|[[この街の5人だけが知ってる!? 秘密のミッション！　30日目>>https://www.youtube.com/watch?v=4vXK5Bkon7M]]||
+|23/12/15|31|[[お仕事しましょう！　31日目>>https://www.youtube.com/watch?v=bPdnGgEOf-w]]||
+|23/12/16|32|[[【ストグラ】豆やん！メカニック入社！　32日目>>https://www.youtube.com/live/EijlDkYnRLs]]||
+|23/12/19|33|[[【ストグラ】ルパンカーに色塗ってみた！　33日目>>https://www.youtube.com/watch?v=VaX6Q1I58c0]]||
+|23/12/20|34|[[【ストグラ】カジノミーティング！　34日目>>https://www.youtube.com/live/RIwYoyQhbi4]]||
+|23/12/21|35|[[豆やんメカニック！　35日目>>https://www.youtube.com/watch?v=tNyHiKHY3p4]]||
+|23/12/23|36|[[豆やん！カジノイベントダー！　36日目>>https://www.youtube.com/watch?v=xaf1-4zgXXc]]||
+|23/12/24|37|[[豆やん！遊びます。　37日目>>https://www.youtube.com/watch?v=n4L9VMbyFK0]]||
+|23/12/25|38-1|[[豆やん！】クリスマスにカジノでお仕事！？　37日目>>https://www.youtube.com/live/2BzI6P5NZ3M]]||
+|23/12/25|38-2|[[豆やん！】クリスマスイベン‼37日目>>https://www.youtube.com/watch?v=pREkwMSXFcs]]||
+|23/12/26|39|[[豆やん！『メカニック』『カジノ』『きこり』38日目>>https://www.youtube.com/watch?v=_iBZoZoPrHM]]||
+|23/12/27|40|[[これはあなたのう〇ちですか!?　40日目>>https://www.youtube.com/watch?v=_lC3BxuDroc]]||
+|23/12/28|41|[[いろいろして遊ぼう～！！　41日目>>https://www.youtube.com/watch?v=M-Zxh9IlHJY]]||
+|23/12/29|42|[[豆やん牧場物語の始まりです。　42日目>>https://www.youtube.com/watch?v=n8iV6PtgV1Y]]||
+|23/12/30|43|[[豆やん今日もふらふら遊ぶ！つよし牧場2日目！　43日目>>https://www.youtube.com/watch?v=o0kCmJ7-IDU]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2023/12)
+#endregion(2023年)
+//
+***2024年
+#region(開く,close)
+//
+#region(1月,close)1月
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|24/01/03|44|[[あけおめです。『豆やん』44日目>>https://www.youtube.com/watch?v=EpbP0804mKA]]||
+|24/01/04|45|[[60点つよしのタバコミッション！ ばれたらやりなおし。45日目>>https://www.youtube.com/watch?v=pBCqO4Q5BZA]]||
+|24/01/05|46|[[豆やん１日で売り上げ１億超えた！46日目>>https://www.youtube.com/watch?v=BXhspPYFrXo]]||
+|24/01/06|47|[[豆やん今日もふらふら～っと遊ぶ！47日目>>https://www.youtube.com/watch?v=MTlazpnshno]]||
+|24/01/07|48|[[豆やん!今日はお金使う日！48日目>>https://www.youtube.com/watch?v=5vGonV5DX0M]]||
+|??/??/??|49|＊日数のズレにより衛星そのものがありません||
+|24/01/09|50|[[豆やん!楽しく色々しよう！50日目>>https://www.youtube.com/watch?v=vZQf_js-7Yc]]||
+|24/01/10|51|[[つよし牧場！ブタさん初出荷します！豆やん!51日目>>https://www.youtube.com/watch?v=a20ubYz0U6Q]]||
+|24/01/11|52|[[今日も遊ぶ～！豆やん!52日目>>https://www.youtube.com/watch?v=ztnw9qLFnrA]]||
+|24/01/12|53|[[稼ぐ！遊ぶ！豆やん!53日目>>https://www.youtube.com/watch?v=8ceNyVcv-U0]]||
+|24/01/13|54|[[第２回カジノ王決定戦！豆やん!54日目>>https://www.youtube.com/watch?v=Em8XRuczNro]]||
+|24/01/15|55|[[豆やん!のんびり遊びます。55日目>>https://www.youtube.com/watch?v=lxNSXj7ismE]]||
+|24/01/17|56|[[つよしが遊びます！【豆やん】56日目>>https://www.youtube.com/watch?v=C895Ci8703M]]||
+|24/01/18|57|[[怖いけど…へりの練習します！【豆やん】57日目>>https://www.youtube.com/watch?v=dTqBpIgf-cg]]||
+|24/01/19|58|[[メンタルケアでメンタルケアやられたw【豆やん】58日目>>https://www.youtube.com/watch?v=N0UIh9mea0c]]||
+|24/01/20|59|[[賞金２億円！VIP限定カジノ王決定戦！【豆やん】59日目>>https://www.youtube.com/watch?v=Xe8czY764_o]]||
+|24/01/23|60|[[初のヘリコプター購入！【豆やん】60日目>>https://www.youtube.com/watch?v=85m8qZ6XqJY]]||
+|24/01/24|61|[[祝！豆やんJTSで昇進しました！【豆やん】61日目>>https://www.youtube.com/watch?v=MSRwjoVRWtw]]||
+|24/01/26|62|[[今日も元気に遊ぶ！【豆やん】62日目>>https://www.youtube.com/watch?v=kVdnO0TI1JM]]||
+|24/01/27|63|[[【ストグラ】限定カジノ王決定戦！【豆やん】63日目>>https://www.youtube.com/live/qNYOdsjgcck]]||
+|24/01/28|64|[[カジノとメカニックする！【豆やん】64日目>>https://www.youtube.com/watch?v=pidPV1y4Lj4]]||
+|24/01/29|65|[[今日はにかのりを見る！がんばれ社長！【豆やん】65日目>>https://www.youtube.com/watch?v=5krEswRzMYY]]||
+|24/01/30|66|[[今日も色々やります～！【豆やん】66日目>>https://www.youtube.com/watch?v=Dnhsq8UsQWs]]||
+|24/01/31|67|[[ボートレースイベント！【豆やん】67日目>>https://www.youtube.com/watch?v=tcCvQTyOmXo]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2024/01)
+//
+#region(2月)2月
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|24/02/01|68|[[【ストグラ】のんびりしよう！【豆やん】68日目>>https://www.youtube.com/live/uygrvHp0OWM]]||
+|24/02/02|69|[[【ストグラ】今日も色々しよう～！【豆やん】69日目>>https://www.youtube.com/live/1HPWyA2htsw]]||
+|24/02/03|70|[[【ストグラ】今日はのんびり～24時からカジノ懇親会！【【豆やん】70日目>>https://www.youtube.com/watch?v=xhV02a6qxe0]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2024/02)
+//
+
+#endregion(2024年)
+//
+***2025年
+#region(開く,open)
+//
+#region(7月)7月
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/07/23|488|[[7/23【ストグラ】豆やんの一日！今日も遊ぼうー！　488日目　【豆やん】>>https://www.youtube.com/live/ZObZTOtd5bM]]||
+|2025/07/24|489|[[7/24【ストグラ】豆やんの一日！今日も遊ぼうー！　489日目　【豆やん】>>https://www.youtube.com/live/cqi1zee5nU0]]||
+|2025/07/25|490|[[7/25【ストグラ】豆やんの一日！今日も遊ぼうー！　490日目　【豆やん】>>https://www.youtube.com/live/MpreLes8MeU]]||
+|2025/07/27|491-1|[[7/27【ストグラ】豆やんの一日！今日も遊ぼうー！　491日目　【豆やん】>>https://www.youtube.com/live/yUy5IPM00Ro]]||
+|2025/07/27|491-2|[[7/27【ストグラ】豆やんの一日！今日も遊ぼうー！part2　491日目　【豆やん】>>https://www.youtube.com/live/Kbk0Qu-4jqk]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2025/07)
+//
+#region(8月)8月
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|yy/mm/dd|n|[[配信タイトル>>配信URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2025/08)
+//
+#region(9月)9月
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2025/09/21|533|[[9/21【ストグラ】　　街が大変だ！豆やんの１日 　533日目　【豆やん】>>https://www.youtube.com/live/_CdZa_XXjWk]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2025/09)
+//
+#endregion(2025年)
+//
+#co{
+#region(m月)m月
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|yy/mm/dd|n|[[配信タイトル>>配信URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(yyyy/mm)
+}
+//
+#right(){&link_up(🔝ページTOPへ)}

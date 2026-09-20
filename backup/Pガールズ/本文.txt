@@ -1,0 +1,102 @@
+//#slide_img(auto=3,width=512,height=288,position=center)
+#slide_img(auto=3,width=400,height=255,position=center)
+{Pガールズ2.jpg,Pガールズ4.jpg,Pガールズ3.jpg,Pガールズ練習2.jpg,}
+
+#table_style(head=#FF4DA6:#FFF5FA){}
+|~グループ名|~&icon_fa(fa fa-users)|&bold(){P-GIRLS (Passionaガールズ)}|
+|~結成日|~ &icon_fa(fa fa-calendar)|2026年04月19日 &br()&small(){（&countup(2026/04/19,yd)経過）}|
+|~プロデューサー|~ &icon_fa(fa fa-user) |[[アイドゥラー　ヨシャパテ]]|
+|~種別|~&icon_fa(fa-solid fa-music)|チアガールグループ|
+|~所属|~ &icon_fa(fa fa-building)|[[Club Passiona]]|
+
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**&font(30px,#ffa500){基}&font(25px)本情報 &font(30,#ffa500){&icon_fa(fa fa-file-text-o)}
+・プロデューサーである[[アイドゥラー　ヨシャパテ]]が[[Club Passiona]]で粒ぞろいの女性従業員の姿を見て、「街を盛り上げたい」という想いから提案し、結成されたチアガールグループ。
+・・2026/4/19にレギオン公園にて[[ジョアンナテクノサービス]]と[[Club Passiona]]の従業員で開催されたお花見にて&br()[[アイドゥラー　ヨシャパテ]]より、お花見に参加していた[[ボクジュール　すずり]]・[[帆立　ほたる]]・[[寝言　怠惰]]の３名に提案して発足。
+・活動内容としては、サッカーでのハーフタイムやイベントでの応援など様々なところでチアとして街を盛り上げていくというもの。&br()将来的には歌ったりなどアイドル活動のようなことも視野に入れている。
+・チアでの動きやダンスなどは[[アイドゥラー　ヨシャパテ]]の実姉である[[町田　ジョアンナ]]の[[ジョアンナタレントスクール]]と提携し、多数のエモートを組み合わせて考えられている。
+・・2026/5/8から[[ジョアンナタレントスクール]]より[[町田　ジョアンナ]], [[ねずみさん]]指導の下、ダンスレッスン開始。
+・ダンスレッスン開始から翌日、さっそく[[Club Passiona]]のオープン記念＆初のクラブイベントにてにて初パフォーマンスを披露。&br()イベント参加者にはP-GIRLSランダムブロマイドも配布された。
+・・P-GIRLSランダムブロマイドは[[Club Passiona]]にて販売されており、1パックにランダムで1枚封入されている仕様。&br()パックから排出されるのは全25種類（メンバー5人 × 各5種類）となっており、同じメンバーの5種類すべてを集めると、そのメンバーのスペシャルカードが貰える。&br()さらに、メンバー5人分すべてのスペシャルカードを集めると、特別なカードが貰える。
+//1パックからは1枚しか出てこないです。
+・時期は未定となるが、2期生メンバー加入によって拡大することを検討中。
+・所属は[[Club Passiona]]となっているが、メンバーは必ずしも従業員である必要はない方針。
+
+**&font(25,#000000){&font(30,#ffa500){メ}ンバー} &font(30,#ffa500){&icon_fa(fa fa-user)}
+#table_filter(){加入日=hide}
+#table_style(head=#FF4DA6:#FFF5FA)
+|~名前|~加入日|~備考|h
+|[[帆立　ほたる]]|2026/04/19|1期生メンバー / リーダー|
+|[[星詠　あう]]|2026/04/23|1期生メンバー / 副リーダー|
+|[[ボクジュール　すずり]]|2026/04/19|1期生メンバー / 歌唱リーダー|
+|[[寝言　怠惰]]|2026/04/19|1期生メンバー|
+|[[えびな　ヨネ]]|2026/04/24|1期生メンバー|
+#table_sorter{even=#fff6de,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+***マネージャー
+#table_filter(){加入日=hide}
+#table_style(head=#FFEA00)
+|~名前|~加入日|~備考|h
+|[[アイドゥラー　ヨシャパテ]]|2026/04/19|プロデューサー 兼 マネージャー|
+|[[レイジー　ルードマン]]|||
+|[[窓朽　ルーシー]]|||
+#table_sorter{even=#fff6de,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+//**&font(30px,#ffa500){沿}&font(25px)革 &font(30,#ffa500){&icon_fa(fa fa-file-text-o)}
+//※後日追加予定
+
+**&font(25,#000000){&font(30,#ff69b4){P}-Girls応援グッズ} &font(30,#ff69b4){&icon_fa(fa fa-fan)}
+#table_style(head=#9400d3:#FF69b4)
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|other|P-Girlsランダムブロマイド|50,000円|2026/05/09|P-Girlsランダムブロマイド全25種+スペシャルカード6種|
+|food|PGパーフェクトカロリー|10,000円|2026/05/17|チアガールズ「P-Girls」応援商品　栄養食品|
+|drink|PGスポーツドリンク|10,000円|2026/05/17|チアガールズ「P-Girls」応援商品　スポドリ|
+|joint|PGリフレッシュタオル|10,000円|2026/05/17|チアガールズ「P-Girls」応援商品　タオル|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(商品画像,open)商品画像
+|&blankimg(Pガールズ.jpg,y=180)|&blankimg(Pガールズ 1ｰ2.jpg,width=128,height=128)|&blankimg(Pガールズタオル.jpg,width=128,height=128,center)|&blankimg(Pガールズスポドリ.jpg,width=128,height=250,center)|
+|ランダムブロマイド|パーフェクトカロリー|リフレッシュタオル|スポーツドリンク|
+#endregion
+
+**&font(25,#000000){&font(30,#ffa500){イ}ベント出演} &font(30,#ffa500){&icon_fa(fa fa-music)}
+***2026年
+#region(開く,open)
+#table_filter(){関連アーカイブ=show}
+#table_style(head=#FFEA00)
+|~イベント名|~開催日|~備考|関連切り抜き/アーカイブ|h
+|&bold(){「Club Passiona主催&br()ナイトプールイベント SANTOS POOL NIGHT」}&image(サントスプールナイト1.jpg,y=200)|2026/05/09|イベント前日が初レッスンを開始したタイミングだったが、&br()メンバーの飲み込みがかなり早かったため、&br()急遽翌日のイベントで初パフォーマンスとして披露。&br()[[イベント詳細はヨシャパテ主催イベント参照>>アイドゥラー　ヨシャパテ]]|■切り抜き&br()[[【ストグラ】ナイトプールイベントで住民達が嘔吐を多発!?陽キャすぎる空間にw【ヨシャパテ ストグラSeason2 パッショーナ GTA5】>>https://youtu.be/a797PW8ol4w?si=T_Zr6vJ5nOxigdoN]]&br()■アーカイブ&br()[[ヨシャパテの夢071 - Club Passiona ->>https://www.twitch.tv/videos/2767825918]]&br()[[【#ストグラSeason2】帆立ほたるのぴかぴか新入社員生活-SANTOS POOL NIGHT-(DAY40)　>>https://www.youtube.com/live/xxAhyqbcmbs?si=w1cedHUvPUnz3Yoc]]&br()[[【#ストグラSeason2│Day33】Pガールズ、お披露目なのだ！の巻【#星詠あう】>>https://www.youtube.com/live/ND8LwotPdCI?si=PjsXfN253jdlNQaj]]&br()[[♯39【 #ストグラseason2 】💃ナイトプールイベ🌴書道家で歌うたいのロスサントス生活 【 #ボクジュール すずり / 彩華すゞり 】>>https://www.youtube.com/live/qT7VPNhw3BM?si=jdntoNPivlW8hy4u]]&br()[[【 #ストグラ 】S2-86日目の寝言怠惰！【 #VTuber 】>>https://www.twitch.tv/videos/2767873488]]&br()[[【 #ストグラSeason2 】第四十八話　Club Passionaで水着でナイトプール！？ヨネ～【 #GTA / #STGR 】>>https://www.youtube.com/live/5NPoTLGWquw?si=cX1h_YT8xPitWpQs]]|
+|&bold(){「第一回 Professional Soccer Match」}&image(第一回プロフェッショナルサッカーマッチ.jpg,x=280)|2026/05/17|開会式と決勝戦前にて２種のパフォーマンスを披露。|■アーカイブ&br()[[ヨシャパテの夢076 - P-GIRLS ->>https://www.twitch.tv/videos/2774165358]]&br()[[【#ストグラSeason2】帆立ほたるのぴかぴか新入社員生活-PGIRLS-(DAY42)>>https://www.youtube.com/live/3qVyRT545AQ?si=CcmxVPP4fyMwWyUt]]&br()[[【#ストグラSeason2│Day38】P Girlsはじめてのお仕事！の巻【#星詠あう】>>https://www.youtube.com/live/iiQX_5nTuFU?si=83jps79dxAdXXh2C]]&br()[[♯45【 #ストグラseason2 】書道家で歌うたいのロスサントス生活 - ⚽サッカー応援⚽ - 【 #ボクジュール すずり / 彩華すゞり 】>>https://www.youtube.com/live/KWzOnt-FJ6I?si=i82kdWbB1PwHSaqb]]&br()[[【 #ストグラ 】S2-92日目の寝言怠惰！【#VTuber】>>https://www.twitch.tv/videos/2774165716]]&br()[[【 #ストグラSeason2 】第五十四話　P-GIRLSチア新曲披露とプロサッカーリーグ本番ヨネ【 #GTA / #STGR 】>>https://www.youtube.com/live/QNji0Esekw4?si=-eJDJoZEQ1h5BluX]]|
+|&bold(){「夏フェス2026」}&image(夏フェス2026.jpg,y=200)|2026/08/09|カーレース前の応援として3曲のパフォーマンスを披露||
+
+//|No|イベント名|開催日yyyy/mm/dd|備考||
+//MIDDLE:mm/dd|MIDDLE:イベント名|出演者|エピソード・備考|
+#table_sorter{even=#fffce9,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+**&font(25,#000){&font(30,#ffa500){沿}革&space()&font(30,#ffa500){&icon_fa(fa fa-history)}}
+***2026年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#ffa500:#ffffff)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|04/19|P-Girls発足|ヨシャパテ,ほたる,すずり,怠惰|JTS・Passiona合同お花見会にて発足|
+|05/08|レッスン開始||1曲目candy練習、Passiona屋上にて振り渡し|
+|05/09|SANTOS POOL NIGHT特別出演||発足の発表し特別披露|
+|05/15|2曲目レッスン||銭形のスタジオを借りてレッスン「FireHeart」|
+|05/17|Professional Soccer Match出演||2パフォーマンス披露|
+|08/02|3曲目レッスン||「3rd ribbon」|
+|08/09|夏フェス出演||3曲パフォーマンス披露|
+
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

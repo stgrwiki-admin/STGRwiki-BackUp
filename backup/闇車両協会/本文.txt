@@ -1,0 +1,355 @@
+#slide_img(auto=5,position=center,width=500,height=325,position=left){
+闇車両協会2.png,2024-05-04.png,boosting.png,2025-04-03.png}
+
+#table_style(head=#A082B2:#F9FCFF:center:b)
+|~組織名|&ruby(やみしゃりょうきょうかい){闇車両協会}|
+|~設立日|2024年05月01日|
+|~本拠地|不明&br()9038番地　PY跡地に出没する|
+//|~会長|[[有坂　誉]]|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//本拠地に関しては市長補佐との会議で車両協会本拠地の隣になる可能性が示唆されているものの現状は不明で
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+闇車両協会では、ブースティングに出現する車両選定、システムや仕様に関するフィードバック及び調整、それらに関する法整備を行っている
+
+***&size(110%){&bgcolor(#A082B2){&nbsp()&font(#fff,90%){▷ブースティングの概要}&nbsp(5)}}
+-車両が指定され、納品場所まで移動させる「車両窃盗」のことを指す
+-車両窃盗は、軽強盗罪、または、強盗罪が適用される犯罪である
+-経験値によるランク制度があり、契約したプレイヤーのランクに応じて車両が指定される
+-1つの契約に対して、4人まで同行できる
+-車両窃盗契約の成功に伴い、現金、コイン(coin)、経験値(EXP)が獲得される
+-出現する車両はバイク、車となっており、ヘリ・航空機・船舶は含まれない&br()また、車両には「[[市場販売されている車両>闇車両協会/車両情報DB]]」と「ブースティング限定車」の2種類が存在する
+-車両の性能に関しては、[[市長補佐>かな市長補佐]]と車両調査会の調整に基づいている
+-Sランク、Aランクの車両窃盗契約では、車両に警察に通知がいくGPSがついており、ハッキングして解除しないと納品ができない
+#region(ランク制度について)閉じる
+***ランク制度について
+-契約したプレイヤーのランクに応じて車両が指定される
+-ブースティングのタブレットから、プレイヤーの経験値、ランクを確認できる
+-Cランクより上のランクでは車両に鍵がかかっており、車両用ロックピックが必要となり、&br()車両から一度降りた場合は、ワイヤーキットが必要となる
+-Aランク、Sランクの車両には、GPSがついており、契約開始と同時に警察へ通知される。&br()ハッキングによりGPSの通知を数秒間消すことができる。&br()Aランクは10回、Sランクは15回のハッキングが必要となる
+
+#table_style(head=center:#E0E0E0)
+|~ランク|~閾値|h
+|Sランク|経験値2500以上|
+|Aランク|経験値 800以上|
+|Bランク|経験値 100以上|
+|Cランク|経験値 5以上|
+|Dランク|初期状態|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(ランク制度について)
+#region(契約の報酬について)閉じる
+***契約の報酬について
+-コイン
+　報酬コインは「受注者：他同行者＝6：4」程度で分配される
+　現金に換金した場合、「1コイン＝1万円」として扱われる
+　コインの譲渡に関しては、[[市長補佐>かな市長補佐]]に依頼する（手数料でコイン10%が必要となる）
+　コインは契約受注や、車両購入に必要となる
+-報酬金額
+　同行する人数で均等に分配される
+-経験値
+　獲得される経験値は1契約に同行する人数に応じて変わる
+　「最高効率」とされるのは、3人組でBランクの契約受注を繰り返すことと言われている
+#table_style(head=center:#E0E0E0)
+|~同行する人数|~獲得する経験値|h
+|1人|4EXP|
+|2人|2EXP|
+|3人|4EXP|
+|4人|3EXP|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(契約の報酬について)
+
+***&size(110%){&bgcolor(#A082B2){&nbsp()&font(#fff,90%){▷闇車両協会の調整内容}&nbsp(15)}}
+・ブースティングシステムのアップデートが行われ、車両の地上への沸き状態を確認
+・ブースティングに出現する車両を記録し、各ランクに適した車両を選定した
+・初期段階の調整は、警察協力のもと行われていた
+・報酬（金額、コイン、経験値）の増額、調整
+・Sランク、Aランクのミッションスタート時に発生した心無きの削除（発砲の必要性を排除する）
+・Sランク、Aランクの車両についているGPSが起動している間に聞こえる不気味な警告音を削除
+・Sランク、Aランクのハッキング回数の調整
+・ランクに＋（プラス）がついている場合、カスタマイズされており、その対象ランクを調整した&br()調整前はDランクなどもカスタマイズされていたが、高ランクのみがカスタマイズされるようにした&br()現在はカスタマイズ済みの車両がでるのはB+、A+、S+としている
+・ATの1速歪みに関して、原因がトランスミッションと判明し、盗難車のカスタマイズから全て取り外した
+・盗難車のガソリンがほぼ無くなる歪みを市へ報告した
+・グループを組んでいる時に報酬が入るのが受注者のみだったのを分配するように変更した
+・出現する車両に自転車が含まれていたので削除した
+***&size(110%){&bgcolor(#A082B2){&nbsp()&font(#fff,90%){▷Sランク到達者}&nbsp(5)}}
+現時点でのSランク到達者は数名おり、ブースティング限定車の受注をすることができる
+闇車両協会から市へ報告されている
+#table_style(head=center:#E0E0E0)
+|~氏名|~備考|h
+|[[有坂　誉]]|2023/09/19到達|
+|[[いわさき　そす]]|2024/05/05到達|
+|[[ユン　ユンミ]]|2025/01/03到達|
+|[[五十嵐　えいむ]]|2025/03/05到達|
+|[[みこだ　よう]]|2025/04/19到達|
+|[[エスターク・Z・ダークネス]]|2025/04/23到達|
+|[[菖蒲　光樹]]|2025/04/30到達|
+|[[タマーチ　ニキタ]]|2025/05/03到達|
+|[[ケイン／オー]]|2025/05/04到達|
+|[[猪狩　翔太]]|2025/05/14到達|
+|[[アドミゲス・ハン]]|2025/07/18到達|
+//|[[ハイライト>>小峯　玲]]|yyyy/mm/dd到達|　※次のランキングは小峯さん「2275」2025/08/15時点
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//有坂さんのS帯到達はX(旧Twitter)で確認できましたhttps://x.com/Riku247gin/status/1703958127534809381
+//
+**ブースティング限定車両
+***&size(110%){&bgcolor(#A082B2){&nbsp()&font(#fff,90%){▷ ブースティングの限定車両一覧}&nbsp(5)}}
+ブースティングのみでしか入手できない車両一覧
+　※目撃情報のみで抽出しているため、誤り・過不足があり得ます。情報募集中です※
+#openclose(show=▽Sランク){
+-Sheava＜リスト除外＞
+-Furia WideBody1＜リスト除外＞
+-Furia WideBody2＜リスト除外＞
+// -Bravado Banshee 900R ※販売車両のため除外しました。
+-Vapid Bullet GT
+-Vapid FMJ Bullet＜リスト除外＞
+-Dinka Jester Classic Charlie Kit
+// -Progen GP1 ※販売車両のため除外しました。
+-Annis ZR350 Nishukan＜リスト除外＞
+-Annis ZR350 Zinxy WideBody
+-Grotti Itali RSX Roadster
+// -Ocelot Penetrator ※販売車両のため除外しました。
+-Karin 98S/1
+-Grotti Itali GT-C
+}
+//販売車両だという点はどこで確認できそうですか？(05/08 akina3)
+//  →どなたかの視点で高級車のカタログを見る機会があればそちらで見てもらうと良いかなと思います。
+//  正しい回答を持ってしまっているので今後も訂正だけさせていただければ幸いです(5/8 karna)
+//　→回答頂きありがとうございます、ただただ感謝です。自分でも探してみます！（5/9 akina3)
+//　→一旦、高級車ディーラの画面をメモしたので、ページ末尾に残しておきます（5/11 akina3)
+//
+//Furia WideBody1がラスト１台か、リスト除外予定かも？（25/8/15 akina3)→9/16確認できたので、リスト除外
+//
+#openclose(show=▽A～Dランク){
+-Sentinel SG4
+-Mammoth Squaddie
+-Duneloader
+-Caracara
+-Voodoo
+-Gang Burrito
+-Bodhi
+-ロメロ霊柩車 （Romero Hearse）
+-Raiden GRB（ゴミ箱）＜リスト除外＞
+}
+***&size(110%){&bgcolor(#A082B2){&nbsp()&font(#fff,90%){▷ブースティング限定の車両リスト}&nbsp(5)}}
+ブースティング仕様の調整ならびに整備段階では、「見つける楽しさ」を重視する為、リストは公開されていなかった
+ある出来事(※1)をきっかけに、犯罪利用の可否も含めて周知させる必要性がでた為、市長補佐に一任されている
+#openclose2(show=※1){：2025/02/11、個人医の現場介入、逃走補助に利用される事案}
+
+***&size(110%){&bgcolor(#A082B2){&nbsp()&font(#fff,90%){▷ブースティング限定車両の台数制限}&nbsp(5)}}
+・Sランク
+希少性を保つ為に、Sランクの限定車について台数制限を設けることとなった
+Sランクの限定車が3台納品されたことを確認されたら、ブースティングの出現リストから除外される
+その代わり、別の限定車がリストに追加される
+一度除外された車両はローテーションされ、状況によっては出現リストに復活する予定
+#table_style(head=center:#E0E0E0)
+|~車両|~除外日|~備考|h
+|Sheava|2025/04/22|街に5台|
+|Furia WideBody2|2025/04/29以降|街に3台|
+|Vapid FMJ Bullet|2025/05/13以降|街に3台|
+|Annis ZR350 Nishukan|2025/05/27以降|街に3台|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+・A～Dランク
+自家用車としてコイン購入された台数が多くなり、白市民にも多く流通された場合、&br()ランクの変更や出現リスト除外とする処置が行われる
+#table_style(head=center:#E0E0E0)
+|~車両|~備考|h
+|Raiden GRB（ゴミ箱）|街に数十台は流通した。&br()入手難易度を変更後、リスト除外された|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+***&size(110%){&bgcolor(#A082B2){&nbsp()&font(#fff,90%){▷犯罪への利用可否}&nbsp(15)}}
+ブースティング限定車について、犯罪への利用制限は基本的には行われていない
+車両の性能的に不適切と判断されたものは利用しないように通達されている
+(例）Raiden GRB（ゴミ箱）：防弾仕様、銃弾が貫通しない仕様となっており、犯罪利用不可と判断された
+
+***&size(110%){&bgcolor(#A082B2){&nbsp()&font(#fff,90%){▷限定車の車両調整}&nbsp(15)}}
+限定車を街へ導入するにあたって、車両調整が行われていない場合が多い
+Sランクのブースティングにおいて、速度が遅い状態で挑むことなる
+無事に納品された後、六法経由で車両調整の申請が行われている
+
+**メンバー
+//
+闇車両協会のメンバーは、会長の[[有坂　誉]]の声掛けから始まり、&br()「ブースティングが好きで、ランクがAランク以上であること」を条件に集まった
+新規メンバーについては、既存メンバーの合意が取れることが重視される
+#table_style(head=#A082B2:#F9FCFF:center:b)
+#table_filter(){役職=show,名前=show,ハンドルネーム=show,加入日=hide,ランク=show,備考=show}
+|~役職|~名前|~ハンドルネーム|~加入日|~所属団体|~ランク|~備考|
+|会員|[[いわさき　そす]]|元闇医者|2024/05/01|中古車ディーラー【[[ReBoot]]】社員|Sランク||
+|会員|[[小峯　玲]]|ハイライト|2024/05/01| ギャング【[[DERAY]]】Boss |Aランク||
+|会員|[[ケイン／オー]]|robo|2024/05/01|ギャング【[[868]]】Boss&br()中古車ディーラー【[[ReBoot]]】社長|Sランク||
+|会員|[[アドミゲス・ハン]]|HAN|2024/05/16|ギャング【[[hantasma]]】Boss|Sランク|ブースティング協会は発砲により除名|
+//|役職|名前|リーダーボード登録名|加入日|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//---メンバー候補者---//
+//|会員|[[猪狩　翔太]]|無害な鶏|2025/05/**|元ギャング【[[IRiS]]】構成員|Aランク||
+
+***過去メンバー
+#table_style(head=#A082B2:#F9FCFF:center:b)
+#table_filter(){名前=show,ハンドルネーム=hide,加入日=hide,脱退日=show,備考=show}
+|~名前|~ハンドルネーム|~加入日|~脱退日|~備考|
+|[[無月　レオ]]|布柱|2024/05/07|2024/11/29|キャラクターエンディング済み|
+|[[有坂　誉]]|有坂誉|2024/05/01|2025/06/13|キャラクターエンディング済み&br()闇車両協会元会長&br()ブースティング仕様変更前唯一のSランク到達者|
+//|名前|ハンドルネーム|加入日|脱退日|備考|
+//|名前|ハンドルネーム|加入日|脱退日|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+
+**よく間違われる類似組織
+下記の組織と混合される場合がある為、補足として記載いたします
+#region(車両協会)閉じる
+***車両協会
+現在は解散している協会。詳細は[[車両協会]]を参照。
+闇車両協会の設立時、白市民で構成されていた車両協会に対して、&br()メンバーが犯罪者で構成されていたことから「闇」と銘打たれた経緯がある
+#endregion(車両協会)
+#region(車両調査会)閉じる
+***車両調査会
+[[市長補佐>かな市長補佐]]から指名された人物によって構成された車両の仕様・性能の調査を行う団体である
+どこか知らない場所に集まり、様々な車両の仕様変更に伴う、全車両の調査、調整、試走を行っている
+ここでの調査結果が市へ報告され、街への導入時の価格や性能に反映されている
+ただし、詳細なことがこの街へ持ち込まれることはない
+#endregion(車両調査会)
+#region(ブースティング協会)閉じる
+***ブースティング協会
+「ブースティングを楽しむこと」のみを目的とした組織である
+ブースティング協会は「車の犯罪は車で片をつける」の理念から『不殺の契り』を掲げており、特に「銃の使用」を禁じている
+ブースティングにおいて、銃を使用した者は協会から除名になる
+ダークチャットを介して、組織の垣根を超えてブースティング参加者を募る仕組みを作った
+ブースティングにおいてトラブル(※2)が発生した際、協会員に対して意見を求められた
+#openclose2(show=※2){：2025/02/09、[[半グレ>>アヌギフ　白川]]がブースティングのやり方を警察に説明してしまった事案}
+・ブースティング協会メンバー
+#table_style(head=#A082B2:#F9FCFF:center:b)
+#table_filter(){役職=show,名前=show}
+|~役職|~名前|
+|会員|[[いわさき　そす]]|
+|会員|[[小峯　玲]]|
+|会員|[[ケイン／オー]]|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+※その他、不殺の契りを守れる者のみが協会服の着用を許され、ブースティング協会員となる。
+不殺の契りを破る者が増え、協会員の把握が不可能になった。現在は主に[[868]]の構成員が許されている。
+#endregion(ブースティング協会)
+**沿革
+#table_style(head=#A082B2:#F9FCFF:center:b)
+|~日付|~出来事|~詳細|h
+|'24/04/25|「闇車両協会」発足&space()|有坂、そす、ケインで「闇車両協会」構想が立ち上がる。&space()|
+|'24/04/27|二者会議|868の会議室にて、有坂とケインでブースティングおよび闇車両協会設立について話し合いを行った。六法開設。&space()|
+|'24/04/30|ブースティング仕様変更|有坂、そす、ケインで市に打診していたブースティングの仕様にアップデートが入った。&br()ブースティング経験値の変更、AクラスおよびSクラスの受注が実装された。|
+|'24/05/01|「闇車両協会」設立&space()||
+|'24/05/02|ブースティングA初出現|そす、ケイン、[[月ノ島>月ノ島　ごう]]、小峯で初挑戦。市長補佐と警察に事前に通達し、[[みこだ>みこだ　よう]]とフィードバックを行った。|
+|~|闇車両協会定例会初開催&space()|ブースティングに出現する車両やブースティング全体の仕様についてのフィードバックを[[市長補佐>かな市長補佐]]に行った。|
+|'24/05/03|ブースティングS初出現|有坂、そす、ケイン、小峯で初挑戦。警察に事前に通達し、[[皇帝>ニックス　リア]]とフィードバックを行った。|
+|'24/05/07|無月レオ加入|いわさきそすに治療を受けた際に勧誘され、[[無月レオ>無月　レオ]]が加入した。&space()|
+|'24/05/16|アドミゲスハン加入|闇車両協会メンバーと共にブースティングをする際に勧誘され[[アドミゲスハン>アドミゲス・ハン]]が加入した。&space()|
+|'24/11/26|ブースティング限定車導入開始|ブースティング限定車が出現するようにアップデートされた。&space()|
+|'25/04/03|闇車両協会会議&space()|ブースティングSランクに出現する限定車両の台数制限について話し合った。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//自動リンクbotが「車両協会」の部分にリンクを付けてしまうため、「闇車両協会」の文字がある文の末尾にインラインプラグインのspaceを入れています。
+//
+#Co{
+#div(width=330px,bgcolor=#A082B2){&font(16px,b,#fff){&space()Season2}}
+
+#table_style(head=#A082B2:#F9FCFF:center:b)
+|~日付|~出来事|~詳細|h
+|'26/06/03|ブースティング追加|γ世界線にてブースティングタブレットが購入できるおじさんが現れた。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+//闇車両協会がSeason2で動くかは不明だが、一応記録しておく。
+**ストグラ外コラボ等
+&size(20){&color(#999){●}} &font(15px){&bold(){ストグラジオ}}
+#table_style(head=#A082B2:#F9FCFF:center:b){投稿日=right,#=center,アフタートーク=center}
+|~配信日|~配信タイトル|~アフタートーク|~参加者|~備考|h
+|'24/06/13|[[第66回ストグラジオ>>https://www.twitch.tv/videos/2170910554]]|[[FANBOX>>https://sutogura.fanbox.cc/posts/8128760]]|&font(9pt){[[山下ひろし>山下　ひろし]]役/しょぼすけ、[[いわさきそす>いわさき　そす]]役/so5u、[[小峯玲>小峯　玲]]役/FOXRABBIT、[[ケイン／オー]]役/ギルくん}|[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/STGR_RolePlay/status/1795047784501944373]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+#right(){&link_up(🔝ページTOPへ)}
+**過去の出来事（ブースティング関連、個人のエピソードを含む）
+#region(開く)閉じる
+***&color(#4682B4){&icon_fa(fa-solid fa-book)}&space()Shotaro（ショータロー）について
+#region(開く)閉じる
+▼登場人物
+　[[有坂　誉]]、[[アルフォート　ウェスカー]]、[[ケイン／オー]]、[[かな市長補佐]]
+▼2023年6月～2023年8月頃
+　ブースティングの仕様調整前にしか存在しなかった車両。街に1台しかない
+　仕様調整前のSランク、Aランクが出現しなくなる直前に、滑り込みで入手し、ハイドアウトガレージに格納した
+　ブースティング契約者だった有坂誉が所有していたが、餡ブレラのボスであるアルフォートウェスカーへ譲渡された
+　アルフォートウェスカーのハイドアウトに格納されていたが、盗難車両であった為、強制瞑想で消える可能性があり、登場シーンは少なかった
+　Shotaro（ショータロー）は餡ブレラのカラー「赤」で塗装されており、鮮やかな赤色で発光している
+　性能カスタムがされていない状態でも、機敏な動きを見せる性能を持っていた。タイヤはパンクすることはない
+▼2025年8月7日
+　餡ブレラ一同が街を出る際、有坂誉からアルフォートウェスカーへ「闇車両協会に貢献したケイン/オーへ引き継ぎたい」と相談があった
+　有坂誉の代わりに、アルフォートウェスカーが、ケイン/オーへShotaroを譲渡した
+　ケイン/オーは、譲り受けたShotaroを餡ブレラ会議室横にあるハイドアウトガレージに格納した
+　かな市長補佐と市へ「盗難車両を所有車両にする許可」をお伺いをし、全てのコイン（603,039コイン）と引き換えに許可が下りた
+　安全のために、車両IDを9196CMEUから、新しい車両ID「BOOSTING」へ変更した。&font(12px){※名付け親はケイン/オーの衛星コメントにいた有坂誉}
+▼車両情報
+|車名|Nagasaki　Shotaro,Motorcycles|
+|車両ID|BOOSTING　(旧：9196CMEU）|
+|ハイドアウトガレージ|&blankimg(Shotaro1.png,x=400,y=225)|
+|夜間走行時の発光|&blankimg(Shotaro2.png,x=400,y=225)|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+▼塗装情報
+|項目|内容|
+|プライマリー|メタリックBlack|
+|セカンダリー|マッドRed|
+|パール光沢|ストック|
+|ホイール|マッドBlack|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+▼類似車両
+　街で一般販売されている類似車両「Shotaro ccc（Shotaro　Civilian Carbon Classic）」
+　ShotaroとCarbon RSを融合させたバイク、発光なし、カラーは黒固定、リムのみ変更可能
+▼関連動画、クリップ
+#table_filter(){投稿者=show,投稿日=show,リンク=show}
+#table_style(head=#A082B2:#F9FCFF:center:b)
+|~投稿者|~投稿日|~リンク|h
+|[[有坂　誉]]|2023/06/27|&font(#DA1725){&icon_fa(fa-solid fa-film)}[[【 #ストグラ 】さすがに素材を集める！【 #餡ブレラ 】>>https://youtu.be/bA_bpB7WAFg?si=LdROZ1FwLgoECVeC&t=10865]]|
+|[[アルフォート　ウェスカー]]|2023/08/06|&font(#DA1725){&icon_fa(fa-solid fa-film)}[[近未来的バイク🏍✨>>https://twitcasting.tv/clipview.php?movie_id=773685850&clip_id=2650222]]|
+|[[ケイン／オー]]|2025/08/07|&font(#DA1725){&icon_fa(fa-solid fa-film)}[[ウェスカーと空の旅、名誉会長からの贈り物>>https://www.twitch.tv/guilty1223/clip/DullBenevolentSpindleChocolateRain-xL4X_jytfXZsd9De]]|
+|[[ケイン／オー]]|2025/08/07|&font(#DA1725){&icon_fa(fa-solid fa-film)}[[有坂さんからのプレゼント🏍>>https://www.twitch.tv/guilty1223/clip/BillowingNurturingCrocodileNomNom-LPeeMvAV2RjfpYVU]]|
+|[[ケイン／オー]]|2025/08/07|&font(#DA1725){&icon_fa(fa-solid fa-film)}[[頂いたショータローは赤のままで>>https://www.twitch.tv/guilty1223/clip/PreciousStrangeDinosaurPlanking-ElHDgT1TgWR67592]]|
+|[[ケイン／オー]]|2025/08/07|&font(#DA1725){&icon_fa(fa-solid fa-film)}[[引き継いだ物を消さないための保険代（603039コイン）>>https://www.twitch.tv/guilty1223/clip/CaringUgliestOkapiPunchTrees-ryY6RY1TS3FA2CjN]]|
+//|[[]]|2025/XX/XX|&font(#DA1725){&icon_fa(fa-solid fa-film)}[[タイトル>>URL]]|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(Shotaro（ショータロー）)
+#endregion(過去の出来事)
+
+#right(){&link_up(🔝ページTOPへ)}
+#co(){
+//高級車ディーラで確認できた販売車両（25/05/11メモ　間違ってる可能性もあります）
+//スーパーカー----------
+ADDER,AUTARCH,BANSHEE 900R,BULLET,CHEETAH,
+CYCLONE,DEVESTE,EMERUS,ENTITY XXR,
+ENTITY XF,FMJ,FURIA,GP1,INFERNUS,
+ITALI GTB CUSTOM,KRIEGER,RE-7B,NERO,NERO CUSTOM,
+OSIRIS,PENETRATOR,B11,X80 PROTO,REAPER,
+S80RR,SC1,ETR1,T20,TAIPAN,
+TEMPESTA,TEZERACT,THRAX,TIGON,TURISMO R,
+TYRANT,TYRUS,VACCA,VAGNER,VOLTIC,
+XA-21,ZORRUSSO,ZENTORNO,TORERO XO,VIRTUE,
+ENTITY MT,LM87,ITALI GTB,EXPRESSION,TEMPESTA EVO STRADALE,
+TURISMO OMAGGIO
+//スポーツカー----------
+ALPHA,BANSHEE,BESTIA GTS,BUFFALO,BUFFALO S,
+CALICO GTF,CARBONIZZARE,CHAMPION,CHEETAH CLASSIC,
+COMET,COMET RETRO CUSTOM,COMET SAFARI,COMET SR,COMET S2,
+COQUETTE,COQUETTE D10,CYPHER,BF DRAFTER,ELEGY RETRO CUSTOM,
+DLEGY RH8,EUROS,FELTZER,FLASH GT,FUTO GTX,
+GB 200,GROWLER,IGNUS,IMORGON,ITALI GTO,
+JESTER,JESTER RACECAR,JESTER CLASSIC,JESTER RR,JUGULAR,
+KHAMELION,KOMODA,KURUMA,LOCUST,LYNX,
+MASSACRO,MASSACRO RECECAR,NEO,NEON,9F,
+9F CABRIO,OMNIS,PARAGON,PARIAH,PENUMBRA,
+PENUMBRA FF,RAPID GT CONVERTIBLE,RAPTOR,REMUS,REVOLTER,
+RT3000,RUSTON,SCHAFTER V12,SCHAFTER LWB,SCHLAGEN GT,
+SCHWARTZER,SEVEN-70,SPECTER,STREITER,SUGOI,
+SULTAN,SULTAN CLASSIC,SULTAN CLASSIC CUSTOM,SULTAN RS,SURANO,
+TROPOS RALLYE,EMPEROR VECTRE,VERLIERER,VISIONE,V-STR,
+ZENO,ZR350,COIL RAIDEN,300R,CORSITA,
+DMNIS E-GT,10F WIDEBODY,COMET S2 CABRIO,PANTHERE,10F,
+SENTINEL CLASSIC WIDEBODY,COUQTTE THUNDERSTRUCK,
+SUNRISE R,ELEGY RH4,SPECTER CUSTOM,HOTRING EVERON,ITALI GTO STINER TT,
+NIOBE,PARAGON S,ROXANNE,REMUS Ⅱ,ELEGY RH7,S-230,Kawaii,SIGMA-TWO,ZR-380,
+Sultan BE,Remus Tsuki Edition（ドリフト車両）
+}

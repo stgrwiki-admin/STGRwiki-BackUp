@@ -1,0 +1,115 @@
+//&image(ここに画像のURLを入力,y=300)
+#slide_img(auto=5,width=400,height=225,position=center)
+{
+喫茶ひまわり_内装1.jpg,喫茶ひまわり_内装2.jpg
+}
+//❗️不要な行は削除して使用してください
+#table_style(head=#F2B31C){}
+|~店名|~&icon_fa(fa fa-store)|&ruby(きっさ){喫茶}ひまわり|
+|~業種|~&icon_fa(fa fa-mug-hot)|喫茶店|
+|~開業日|~&icon_fa(fa fa-flag)|2026年09月02日 &space()&small(){（&countup(2026/09/01,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|7014番地|
+|~無線|~&icon_fa(fa-solid fa-walkie-talkie)|13.74 MHz|
+|~店長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[日之　ぱちお]]}|
+|~副店長|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[丘猫　まる]]}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-西海岸に佇むこじんまりとした純喫茶。
+--ぱちおとまるで分担協力して内装を作り上げた。
+
+-2階には探偵事務所『[[エノテラ]]』が併設されている。
+
+**従業員情報
+***従業員
+#table_style(head=#F2B31C)
+|~役職|~名前|~就職日|~備考|h
+|店長|[[日之　ぱちお]]|2026/08/05||
+|副店長|[[丘猫　まる]]|2026/08/08||
+||[[捌木　たいたい]]|2026/09/02|以前より声をかけていた為、オープン当日に面接し採用された。|
+
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+#co{
+//***職業体験者
+#table_style(head=#F2B31C)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+}
+#co{
+//***退職者
+#table_style(head=#F2B31C)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+**商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#F2B31C:center){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|🍔|パンケーキ|5,000|||
+|🍔|プリンアラモード|5,000|||
+|🍔💧|モーニングセット|6,000||19時～22時まで限定販売|
+|💧|アイスカフェラテ|5,000||喫茶ひまわり特製アイスカフェラテ|
+|💧|アイスコーヒー|5,000||喫茶ひまわり特製水出しアイスコーヒー|
+|💧|ホットコーヒー|5,000||持ち運びしやすいホットコーヒー|
+|🚬|シンバのスクイーズ|5,000|26/09/13|喫茶ひまわりの看板犬のスクイーズ|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+#co(){
+//***限定商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0:center){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+//
+***メニュー画像
+#region(,open)
+//&image(&image(ここに画像のURLを入力,)
+&blankimg(喫茶ひまわり_menu_260902.jpg,x=533,y=300)
+
+&blankimg(シンバのスクイーズ_menu_260918.jpg,x=533,y=300)
+#endregion
+
+**沿革
+***2026年
+#region(,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#F2B31C:center)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|08/05|店舗登録完了||マップにアイコンが付いた|
+|08/15|プレオープン|[[日之　ぱちお]]||
+|09/02|グランドオープン|[[日之　ぱちお]]、[[丘猫　まる]]、[[捌木　たいたい]]|特別にモーニングプレートを終日販売|
+
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

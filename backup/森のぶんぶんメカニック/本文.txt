@@ -1,0 +1,119 @@
+#slide_img(auto=3,width=370,height=225){森のぶんぶんメカニック_ロゴ.jpeg,MBM_店内.webp}
+
+#table_style(head=#ffee7c){}
+|~店名|~&icon_fa(fa fa-car)|&ruby(森の){&bold(){Mori no}} &ruby(ぶんぶん){&bold(){Bun-Bun}} &ruby(メカニック){&bold(){Mechanic}}（&bold(){MBM}）|
+|~略称|~&icon_fa(fa fa-tag)|もりぶん|
+|~STATE表示|~&icon_fa(fa fa-tag)|MBM|
+|~業種|~&icon_fa(fa-solid fa-wrench)|整備工場|
+|~開業日|~&icon_fa(fa fa-flag)|2026年4月4日 &small(){(&countup(2026/4/4,yd)経過)}|
+|~所在地|~&icon_fa(fa fa-map-marker)|6187番地|
+|~社長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[もり　るんるん]]}|
+|~副社長(女)|~&space()&icon_fa(fa-solid fa-user)&space()|[[星詠　あう]]|
+|~副社長(男)|~&space()&icon_fa(fa-solid fa-user)&space()|[[ブラック　ジャックス]]|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-[[ロスサントス警察]] 市民課 課長である[[もりるんるん>もり　るんるん]]が設立したメカニック。
+--1/3が公務員、新規住民で構成されている。
+**コンセプト
+
+#center(){&font(b,150%){「気分るんるん、誰もがハニカム笑顔になれるメカニック」}}
+
+・お店のハニカムモチーフや、ミツバチの羽ばたく音、車のエンジン音、そして「るんるん」という名前の響きを掛け合わせたメカニック名
+・元気であたたかく、訪れただけで自然と声が弾むような雰囲気のメカニック
+・乗り物の修理だけではなく、お客さんが抱える「悩み」や「夢」も一緒に整え、前に進むきっかけを届けられるメカニック
+
+**スタッフ・経営方針
+***&underdot(#B22222,3px){採用基準}
+・🐝のように元気or可愛いこと
+・顧客の要望に沿った対応ができること
+・みんなで仲良くお仕事が出来ること
+・採用基準を満たす（社会復帰を目指す方）
+・メカニックをメインジョブにしたい方を中心に採用
+
+***&underdot(#B22222,3px){顧客満足度の調査・報酬}
+・月に一回顧客満足度調査を行い、優秀な従業員に対しては、特別報酬を支払い、表彰する
+
+***&underdot(#B22222,3px){街のメカニックと共に}
+・メカニック事業を盛り上げる為の相談・協力をする
+
+***&underdot(#B22222,3px){定期的なメカニック会議}
+・SNSの使い方
+・接客に関する指導・服装指導
+・従業員の悩み相談（黒落ちを防ぐ）
+
+**従業員情報
+***従業員
+//-----------------------------------------------------
+// 従業員の変更があれば「参加者一覧」への反映もお願いします
+//-----------------------------------------------------
+#region(開く,open)
+#table_filter(){役職=show,名前=show,兼業=show,就職日=hide,備考=show,口上=hide}
+#table_style(head=#ffee7c)
+|~役職|~名前|~兼業|~就職日|~備考|~口上|h
+|MIDDLE:社長|[[もり　るんるん]]|[[警察>ロスサントス警察]]|yyyy/mm/dd|MIDDLE:元「[[PYC]]」||
+|MIDDLE:|[[星野　ももあ]]|[[救急隊>ロスサントス救急救命隊]]|yyyy/mm/dd|MIDDLE:|あなたの車も　あなたの心も　もあもあチャージ　癒し担当星野ももあです|
+|MIDDLE:|[[シオコ　リコ]]|[[警察>ロスサントス警察]]|yyyy/mm/dd|MIDDLE:元「[[9055]]」|あなたのお姉さん担当　いつでも甘えていいんだよ　シオコリコです|
+|MIDDLE:|[[小此木　かりん]]|イタリアンレストラン【[[acqua ovest]]】|yyyy/mm/dd|MIDDLE:新規住民|元気りんりん　今日もキミ好みに　元気担当小比木かりんです|
+|MIDDLE:|[[柚乃　いずみ]]|ケバブ屋【[[サニーケバブ]]】|yyyy/mm/dd|MIDDLE:新規住民||
+|MIDDLE:|[[寝言　怠惰]]||yyyy/mm/dd|MIDDLE:Twixの募集を見て入社|すやすや～　今日も怠惰に会いに来てね～　ふわふわ担当寝言怠惰です|
+|MIDDLE:|[[神無月　カンナ]]|イタリアンレストラン【[[acqua ovest]]】|yyyy/mm/dd|MIDDLE:新規住民||
+|MIDDLE:副社長|[[星詠　あう]]|酒場【[[Club Passiona]]】&br()カジノ【[[LosVegas]]】|yyyy/mm/dd|MIDDLE:新規住民|星を詠み　運命を照らすラッキーガール　スター担当星詠あうです|
+|MIDDLE:|[[推使　みゅあ]]||yyyy/mm/dd|MIDDLE:|推しにしてくれないと　みゅあ困っちゃうよ　ぴゅあぴゅあ担当推使みゅあです|
+|MIDDLE:副社長&br()マスコット|MIDDLE:[[ブラック　ジャックス]]|MIDDLE:[[救急隊>ロスサントス救急救命隊]]|MIDDLE:yyyy/mm/dd||キミのハートをしっかり導いてやるよ　困ったときは　俺を頼りな　森のあんないぐまジャックスです|
+||[[トナカイ>タシロ　カワセ]]|市指定金融機関【[[BJローン]]】|2026/08/01|||
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#fffce9,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//-----------------------------------------------------
+// 従業員の変更があれば「参加者一覧」への反映もお願いします
+//-----------------------------------------------------
+#endregion
+
+***職業体験者
+#region(開く)
+#table_style(head=#ffee7c)
+|~名前|~体験開始日|~備考|h
+|[[鴨葱　吸葉]]|2026/08/15||
+|[[土根　ジョー]]|2026/08/26||
+|[[王城　リレイ]]|2026/08/26||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#fffce9,odd=#FFFFFF}
+#endregion
+
+***退職者
+#region(開く)
+#table_filter(){役職=show,名前=show,兼業=hide,就職日=hide,退職日=show,備考=show,口上=hide}
+#table_style(head=#ffee7c)
+|~役職|~名前|~兼業|~就職日|~退職日|~備考|~口上|h
+|MIDDLE:副社長見張り役|MIDDLE:[[岐阜野　こみ蔵]]|MIDDLE:&s(){&b(){カジノ"[[Los Vegas>https://w.atwiki.jp/streamergta5/pages/3460.html]]"}}&br()&b(){飲食店"[[Mellow Berry]]"}|MIDDLE:2026/04/04|MIDDLE:2026/07/29|MIDDLE:BJローンから逃げる上田の協力をし、&br()MBM内でトラブルを起こした責任を取り退職した。|クマったときは僕におまかせ　クマ担当岐阜野こみ蔵です。|
+//|役職|[[名前]]|兼業|就職日|退職日|備考、退職理由など|口上|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+**沿革
+***2026年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#ffee7c){}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|MIDDLE:01/22|MIDDLE:市長面談|MIDDLE:[[もり　るんるん]]・[[市長>>山下　ひろし]]||
+|MIDDLE:01/25|MIDDLE:人集め|[[もり　るんるん]]||
+|MIDDLE:02/22|MIDDLE:設立許可が下りる|MIDDLE:[[もり　るんるん]]・[[シオコ　リコ]]&br()[[推使　みゅあ]]・[[星詠　あう]]・[[市長>>山下　ひろし]]||
+|MIDDLE:03/01|MIDDLE:顔合わせ&会議|MIDDLE:[[もり　るんるん]]・[[星野　ももあ]]・[[シオコ　リコ]]&br()[[柚乃　いずみ]]・[[寝言　怠惰]]・[[星詠　あう]]&br()[[推使　みゅあ]]・[[岐阜野　こみ蔵]]・[[ブラック　ジャックス]]|MIDDLE:一緒に働くメンバーと顔合わせを行う|
+|MIDDLE:03/19|MIDDLE:市長面談|[[市長]]・[[もり　るんるん]]・[[岐阜野　こみ蔵]]&br()[[星野　ももあ]]・[[星詠　あう]]|ボスメニュー付与と3000万円の開業資金の融資を受ける|
+|MIDDLE:04/04|MIDDLE:グランドオープン|-|オープンを記念してオリジナルソングミニライブとレースを開催|
+
+//|MIDDLE:mm/dd|MIDDLE:出来事|関係者|エピソード・備考|
+#table_sorter{even=#fffce9,odd=#FFFFFF}
+#endregion
+
+**&font(30px)&font(25px){BGM &icon_fa(fa fa-music)}
+&youtube(https://www.youtube.com/watch?v=FSApboGmhxE){400,250}
+
+#right(){&link_up(🔝ページTOPへ)}

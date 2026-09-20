@@ -1,0 +1,312 @@
+//
+//&font(#bbb,12px){◆ 編集者様へ：『 [[&font(b,u,#aaa){UGM}>>UGM]] 』でリダイレクト設定済です}
+//
+#slide_img(auto=3,width=430,height=270,position=center){UGM_ロゴ.png,UGM_20260326.webp,UGM_20260409.webp,UGM_20260530.jpg,UGM_20260625.jpg,UGM_20260715.webp,UGM_20260813.webp}
+
+//❗️不要な行は削除して使用してください
+#table_style(hover=#eaf4fc,head=#FEDCBD){}
+|~店名|~&icon_fa(fa fa-car)|&ruby(ウサ){&bold(){Usa}} &ruby(ギミック){&bold(){Gimmick}} &ruby(モータース){&bold(){Motors}}（&bold(){UGM}）|
+|~STATE表示|~&icon_fa(fa fa-tag)|[&bold(){UGM}]|
+|~業種|~&icon_fa(fa-solid fa-wrench)|整備工場|
+|~開業日|~&icon_fa(fa fa-flag)|2026年3月26日（&countup(2026/03/26,yd)経過）|
+|~所在地|~&icon_fa(fa fa-map-marker)|8191番地|
+|~TwiX|~&icon_fa(fa fa-crow)|@ugm|
+|~無線番号|~&icon_fa(fa-solid fa-walkie-talkie)|81.91MHz|
+|~社長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[山田　パルコ]]}|
+|~副社長|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[星唄　サウ汰]]}|
+|~従業員数|~&icon_fa(fa-solid fa-users)|11名　[男性:3名女性:8名]&br()(2026年6月19日現在)|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&font(30px){基}&font(25px){本情報 &icon_fa(fa-solid fa-wrench)}
+-前の街で[[メカニック>Bear Moon Custom]]をしていた山田パルコが、8191番地に設立したメカニック。
+-ユニフォームが各種コンセプトに合わせた日替わりであることから『コンセプトメカニック』との異名を持つ。
+-前の街で[[BMC>Bear Moon Custom]]で働いていた人を中心に構成されている。
+-様々な企業と提携し、街全体が盛り上がるような経営をしていきたいという想いがある。またカタログなど新たな文化を作り出し、街に浸透していくような仕組み作りを考えている。
+-隣の敷地にアジトをもつ[[NOVA FAMILIA]]とは友好的な関係を築いている。NOVAの構成員は時間ができればUGMに遊びに来たり、サブスクに加入してくれたり、UGMに何かあれば守りたいといった言葉をかけてくれている。
+-[[前の街で素材提供等で協力関係を築いていた>Bear Moon Custom]]ギャング[[餡ブレラ]]とは引き続き友好的な関係を築いている。
+-[[上田>上田　さん]]、[[揚物　ころも]]は出禁。
+
+*&font(30px){経}&font(25px){営方針 &icon_fa(fa-solid fa-wrench)}
+***&underdot(#ff0000,3px){①&nbsp(2)ファッション目線からも車を楽しんでもらうメカニック　}
+&font(12px,#000){●&space()}[[Fashion MiMi]]と提携し様々なコーディネートを制服として従業員が着用。その服装に合った車のカスタムと従業員を一緒に写真を撮り、カタログ雑誌にしてご提案します。
+
+***&underdot(orange,3px){②&nbsp(2)性能も加味したお客様のライフスタイルに合わせたご提案　}
+&font(12px,#000){●&space()}レース、チェイス、ファーム、ドライブ、デートなどUGM独自の資料に纏めた車両データを用いお客様のライフスタイルに合わせた車種そのものの提案や性能調整が可能です。
+
+&font(12px,#000){●&space()}①にも記載した外見ドレスアップも合わせて車の中もその人に合わせた完璧な1台をご提供します。
+
+
+&bold(){■&u(){2026/4/30よりUGM株主エントリー制度を導入}}
+
+&font(12px,#000){・&space()}&u(){&bold(){松、竹、梅}}の３ランクがある。
+特典は、全員に株主証明書が発行され、
+①エンジンボディ無料＆チェキ交渉権（月に松5回・竹3回・梅2回）
+②株主グループチャット参加権
+③株主六法への招待(梅はなし)
+④「UGM株主総会」参加権(梅はなし)
+⑤候補衣装への投票権
+⑥万十忍監修「UGM CarLibrary」 WEBサイト閲覧権
+などがある。ちなみに、&bold(){松竹梅全てのプランに加入している株主は}&color(#3B4EF0){&color(#3B4EF0){&color(#3B4EF0){&color(#3B4EF0){&color(#F54738){&bold(){&bold(){筆頭株主}}}}}}}と呼ばれている。
+
+&bold(){■}&u(){&bold(){体験・}}&bold(){&u(){就職について}}
+大々的に募集はしておらず、基本的には車に興味がある人、UGMでの体験を希望した人、働きたいと申し出のあった人、タイミングが合い声をかけた人のみ受け付けており、体験希望の際は体験エントリーシートを記入するところから始まる。
+3日間の体験を終了するとUGM入社希望フォームを受け取ることができ、提出した際は体験中の様子、首脳陣会議の結果、社長との面談で就職の可否が決定する。
+社長の考えとして雇用人数を増やすと現在勤務している社員の一人あたりの給料・収入が減るということについての懸念があり、少人数雇用の方針としている。
+
+
+
+
+
+
+
+
+*&font(30px){従}&font(25px){業員情報（2026/06/19現在） &icon_fa(fa fa-users)}
+***従業員
+#table_filter(){グレード/役職=show,名前=show,誕生日(年齢)=hide,兼業=show,就職日=hide,備考=show}
+#table_style(head=#E0E0E0){名前=bold}
+|~グレード/役職|~名前|~誕生日(年齢)|~兼業|~就職日|~備考|h
+|4:Manager/社長|[[山田　パルコ]]|1997年6月10日 (&countup(1997/06/10,y)歳)||2026/03/26|元BMC|
+|4:Manager/副社長|[[星唄　サウ汰]]|2100年4月17日 (&countup(2001/04/17,y)歳)||2026/03/26|元BMC|
+|MIDDLE:4:Manager/広報&カス&br()タムマネージャー|MIDDLE:[[青梅　つばめ]]|MIDDLE:2001年12月10日 (&COUNTUP(2001/12/10,Y)歳)|MIDDLE:[[市役所職員]]|MIDDLE:2026/03/26|MIDDLE:元BMC|
+|4:Manager/&br()メカニックマネージャー|MIDDLE:[[万十　忍]]|MIDDLE:⁇⁇年5月5日(24より上)|カジノ【[[LosVegas]]】&br()[[公認勝手にレース協会]]|MIDDLE:2026/03/26|MIDDLE:元BMC|
+|1:Novice/従業員|[[天ノ　ぷら子]]|2001年9月8日 (&countup(2001/09/08,y)歳)||2026/03/26|元BMC|
+|MIDDLE:1:Novice/従業員|[[太田　民子]]|1997年4月20日 (&countup(1997/04/20,y)歳)||2026/03/26|元BMC|
+|1:Novice/従業員|[[ゆた　んぽ]]|2001年12月12日 (&countup(2001/12/12,y)歳)|[[救急隊>ロスサントス救急救命隊]]|2026/03/26|元BMC|
+|1:Novice/従業員|[[御花　はな]]|2000月8月7日 (&countup(2000/08/07,y)歳)||2026/03/26|元BMC|
+|1:Novice/従業員|[[星乃　すみ]]|2000年09月23日 (&countup(2000/09/23,y)歳)||2026/03/26|元BMC|
+|1:Novice/従業員|[[ジェフリー　ヒッチコック]]|1987年04月25日 (&countup(1987/04/25,y)歳)|アイリッシュPUB【[[FOWK]]】|2026/06/07|元BMC|
+|1:Novice/従業員|[[浦戸　ゼン]]|-|[[サニーケバブ]]|2026/06/19|体験を経て入社|
+//||[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#co(){
+階級コピペ用
+4:Manager
+3:Advanced
+2:Experienced
+1:Novice
+0:Recruit
+}
+
+
+****職業体験者(正社員採用者除く)
+#table_filter(){名前=show,体験開始日=show,体験終了日=show,備考=hide}
+#table_style(head=#E0E0E0)
+|~名前|~体験開始日|~体験終了日|~備考|
+|MIDDLE:[[猫又　ぴぴ]]|MIDDLE:2026/4/16|||
+|MIDDLE:[[猿飛　サンタロー]]|MIDDLE:2026/6/12|MIDDLE:2026/6/18||
+|MIDDLE:[[百地　ちよこ]]|MIDDLE:2026/6/18|MIDDLE:2026/7/24|MIDDLE:万十忍が主に車の知識面をかってスカウト&br()万十曰く、「俺がもう一人増えるようなもの」とのこと。|
+|MIDDLE:[[アイン]]|MIDDLE:2026/7/18|2026/8/02||
+|MIDDLE:[[森野　スナサン]]|MIDDLE:2026/7/18|||
+|MIDDLE:[[ダブチ🍔🍔>春原　新]]|MIDDLE:2026/7/18||諸事情ありほとんど体験出来ないまま終了|
+|MIDDLE:[[王城　リレイ]]|MIDDLE:2026/8/13|||
+//|MIDDLE:[[浦戸　ゼン]]|MIDDLE:2026/6/11|MIDDLE:2026/6/13||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+//|MIDDLE:[[]]|MIDDLE:|||
+
+
+***職業体験予定者
+#region(開く)閉じる
+#table_filter(){名前=show,体験開始予定日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~体験開始予定日|~備考|h
+||MIDDLE:||
+//|[[名　前]]|MIDDLE:||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+#endregion(職業体験予定者)
+
+
+***退職者
+#region(開く)閉じる
+#table_filter(){名前=show,就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|MIDDLE:[[揚物　ころも]]|2026/03/26|2026/05/08|[[上田>>上田　さん]]と共に[[acqua ovest]]の商品を[[サニーケバブ]]で転売した事についての裁判で詐欺脅迫罪、&br()業務妨害罪の執行猶予がついたのと他の社員や会社の事を鑑みて解雇になった|
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(退職者)
+*&font(30px){衣}&font(25px){装 &icon_fa(fa fa-id-card-o)}
+#region(開く,open)閉じる
+
+***更新日2025/06/09
+//判明次第、都度更新お願いします
+#table_style(head=center:#FEDCBD,center)
+||~女性陣|~男性陣|~ジェフリー|
+|月|>|>|街のお休み|
+|火|>|>|街のお休み|
+|水|ナース|医者||
+|木|ギンガムチェック|||
+|金|ギャル|||
+|土|メイド|執事||
+|日|>|バニー||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+*&font(30px){価}&font(25px){格 &icon_fa(fa fa-credit-card)}
+#region(開く,open)閉じる
+#table_style(head=center:#FEDCBD,center)
+||~部位|~料金|~備考|
+|修理|エンジン|150,000||
+||ボディ|50,000||
+||燃料タンク|200,000||
+||バッテリー|170,000||
+||オイル|100,000||
+||点火プラグ|100,000||
+||ドライブシャフト|230,000||
+||タイヤ|20,000|1個あたり|
+|カスタム|カラー|||
+||パーツ|||
+||ティントフィルム|||
+//|||||
+//|||||
+//|商品|ダクトテープ|2,000|1個|
+
+#endregion
+*&font(30px){業}&font(25px){務提携 &icon_fa(fa fa-id-card-o)}
+#table_style(hover=#eaf4fc,head=#E0E0E0)
+#table_filter(){No.=show,企業名=show,提携日=hide,備考=show}
+|CENTER:~企業名|CENTER:~提携日|CENTER:~備考|h
+|[[Fashion MiMi]]|2026/03/26|店内にてCM放映中|
+|[[LosVegas]]|2026/03/26|店内にてCM放映中|
+*&font(30px){沿}&font(25px){革 &icon_fa(fa fa-id-card-o)}
+#region(開く,open)閉じる
+***2026年1月～（設立準備期間）
+#region(1月,close)閉じる
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|MIDDLE:01/9|MIDDLE:[[山田パルコ>山田　パルコ]]がメカニック設立を決意||候補地巡りをする|
+|MIDDLE:01/10|MIDDLE:[[万十　忍]]、[[青梅　つばめ]]共に&br()山田パルコからのマネージャーの打診を快諾|||
+|MIDDLE:01/24|MIDDLE:市長と面談|[[山田パルコ>山田　パルコ]]&br()[[青梅つばめ>青梅　つばめ]]&br()[[星唄サウ汰>星唄　サウ汰]]&br()[[揚物ころも>揚物　ころも]]&br()[[天ノぷら子>天ノ　ぷら子]]&br()[[万十忍>万十　忍]]&br()[[市長>山下　ひろし]]||
+|MIDDLE:01/29|MIDDLE:山田パルコが[[星唄サウ汰>星唄　サウ汰]]に副社長&br()就任を打診する|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[星唄サウ汰>星唄　サウ汰]]|MIDDLE:|
+#endregion(1月)
+#region(2月,close)閉じる
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|MIDDLE:02/11|MIDDLE:一旦設立許可が下りる|[[山田パルコ>山田　パルコ]]&br()[[市長>山下　ひろし]]|市長から街が閉じる5分前に電話があった。&br()設立許可は下りたものの[[さとう]]との話し合いが必要だといわれる。|
+|MIDDLE:02/12|MIDDLE:市長から前日の電話の内容について&br()の補足の説明がある|[[山田パルコ>山田　パルコ]]&br()[[万十忍>万十　忍]]&br()[[市長>山下　ひろし]]|MIDDLE:JTSにて説明があった。|
+|MIDDLE:02/15|MIDDLE:価格会議|[[山田パルコ>山田　パルコ]]&br()[[万十忍>万十　忍]]||
+|MIDDLE:02/18|MIDDLE:価格会議|[[山田パルコ>山田　パルコ]]&br()[[万十忍>万十　忍]]&br()[[青梅つばめ>青梅　つばめ]]&br()[[星唄サウ汰>星唄　サウ汰]]||
+|MIDDLE:02/20|MIDDLE:星唄サウ汰が副社長になる事を承諾|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[星唄サウ汰>星唄　サウ汰]]|MIDDLE:|
+|MIDDLE:02/22|MIDDLE:[[さとう]]と話し合う|[[山田パルコ>山田　パルコ]]&br()[[さとう]]||
+|MIDDLE:02/26|MIDDLE:正式に設立許可が下りる|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[市長>山下　ひろし]]|MIDDLE:[[市長>>山下　ひろし]]が[[JTS>>ジョアンナテクノサービス]]に訪れた際、[[山田パルコ>>山田　パルコ]]と話し設立の許可をもらう。|
+#endregion(2月)
+#region(3月,close)閉じる
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|MIDDLE:03/18|MIDDLE:市長が山田にボス権限付与|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[市長>山下　ひろし]]|MIDDLE:万十忍、青梅つばめにジョブを付与|
+|MIDDLE:03/19|MIDDLE:ジョブ付与|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[太田民子>太田　民子]]|MIDDLE:[[太田民子>太田　民子]]にジョブを付与|
+|MIDDLE:03/20|MIDDLE:ジョブ付与&br()市長より3000万円の融資を受ける|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[市長>山下　ひろし]]|MIDDLE:市長から無期限無利子の融資を受ける。[[揚物ころも>揚物　ころも]]にジョブを付与|
+|MIDDLE:03/21|MIDDLE:ジョブ付与&br()価格&イベント会議|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[星唄サウ汰>星唄　サウ汰]]&br()[[星乃すみ>星乃　すみ]]|MIDDLE:星唄サウ汰、[[星乃すみ>星乃　すみ]]にジョブを付与|
+|MIDDLE:03/25|MIDDLE:ジョブ付与&br()OPEN準備&イベント、経営会議&br()レースコース試走|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[万十忍>万十　忍]]&br()[[御花はな>御花　はな]]&br()[[ゆたんぽ>ゆた　んぽ]]&br()[[天ノぷら子>天ノ　ぷら子]]&br()[[太田民子>太田　民子]]&br()[[青梅つばめ>青梅　つばめ]]&br()[[星唄サウ汰>星唄　サウ汰]]|MIDDLE:[[御花はな>御花　はな]]、[[ゆたんぽ>ゆた　んぽ]]、[[天ノぷら子>天ノ　ぷら子]]にジョブを付与|
+|MIDDLE:03/26|MIDDLE:Usa Gimmick Motors開業&br()OPEN記念レース開催|MIDDLE:&openclose2(show=全社員){[[（揚物ころも）>揚物　ころも]]を除く}|MIDDLE:UGM開店&正式稼働。[[万十忍>万十　忍]]制作のレースコースにて開業記念レース開催。&image(UGM_OPENポスター.png,width=114,height=166)|
+//|MIDDLE:mm/dd|MIDDLE:出来事|MIDDLE:|MIDDLE:|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(3月)
+***2026年4月～（UGM設立以降～）
+#region(4月,close)閉じる
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|MIDDLE:04/05|MIDDLE:ATM設置|MIDDLE:|MIDDLE:市長補佐により店内にATMが設置される。|
+|MIDDLE:04/11|MIDDLE:「天下一ンチロ武道会」にUGMとして出場|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[揚物ころも>揚物　ころも]]&br()[[ゆたんぽ>ゆた　んぽ]]&br()[[万十忍>万十　忍]](カジノ従業員として参加)|MIDDLE:カジノ「[[LosVegas]]」にて開催された「🎲〜天下一ンチロ武道会〜🎲」にUGMとして出場。|
+|MIDDLE:04/29|MIDDLE:サブスク【🐰UGM株主エントリー!🐰】販売開始|MIDDLE:全従業員|MIDDLE:サブスク【🐰UGM株主エントリー!🐰】販売開始。「松竹梅」の3コースを設定。修理無料券&チェキ交渉権等。&br()「松、竹」コースには株主総会参加権や証明書、Dチャットへの招待等が付与。&small(){&openclose2(show=※加入者第一号){：[[伊勢　えびす]]}}|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(4月)
+#region(5月,close)閉じる
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|MIDDLE:05/08|MIDDLE:メカニック対抗レース UGM代表2名決定|MIDDLE:[[惑朽ルーシー>惑朽　ルーシー]]&br()[[浦戸ゼン>浦戸　ゼン]]|MIDDLE:万十忍が運転技術・意欲を見て勧誘。|
+|MIDDLE:05/13|MIDDLE:従業員解雇|[[揚物ころも>揚物　ころも]]|[[揚物ころも>揚物　ころも]]他を被告とするacqua ovestの商品転売事件の裁判結果を受け解雇処分。|
+|MIDDLE:05/27|MIDDLE:第一回UGM株主総会　開催|MIDDLE:【従業員】&br()[[山田パルコ>山田　パルコ]]&br()[[星唄サウ汰>星唄　サウ汰]]&br()[[万十忍>万十　忍]]&br()[[星乃すみ>星乃　すみ]](25時の部)&br()[[ゆたんぽ>ゆた　んぽ]](25時の部)&br()【20時の部】&br()[[伊勢えびす>伊勢　えびす]]&br()[[赤ちゃんマンキャップ>ましゃかり　トラボルタ]]&br()[[岐阜野こみ蔵>岐阜野　こみ蔵]]&br()[[ブラックジャックス>ブラック　ジャックス]]&br()[[斎藤>ブロッコリー　斎藤]]&br()[[二部らるたる>二部　らるたる]]&br()[[メチャ南よる>メチャ南　よる]]&br()【25時の部】&br()[[ラグランジュ光芝>ラグランジュ　光芝]]&br()[[まちお>街雄　サンリ]]&br()[[銭形やいち郎>銭形　やいち郎]]|MIDDLE:|
+|MIDDLE:05/30|MIDDLE:メカニック対抗レース「M-1GP」開催|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[万十忍>万十　忍]]&br()[[ゆたんぽ>ゆた　んぽ]]&br()[[青梅つばめ>青梅　つばめ]]&br()[[星唄サウ汰>星唄　サウ汰]]&br()[[星乃すみ>星乃　すみ]]&br()[[惑朽ルーシー>惑朽　ルーシー]]&br()[[浦戸ゼン>浦戸　ゼン]]|MIDDLE:メカニック4社による対抗レース。UGMはレーサーとして[[惑朽ルーシー>惑朽　ルーシー]]、[[浦戸ゼン>浦戸　ゼン]]を起用。&br()結果は3位となった。&br()&blankimg(M1GP_20260530.jpg,width=114,height=166,inline)&blankimg(UGM_20260530_2.webp,width=114,height=166)|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(5月)
+#region(6月,close)閉じる
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|MIDDLE:06/07|MIDDLE:ジョブ付与|MIDDLE:[[ジェフリーヒッチコック>ジェフリー　ヒッチコック]]|MIDDLE:[[ジェフリーヒッチコック>ジェフリー　ヒッチコック]]が入社。|
+|MIDDLE:06/17|MIDDLE:[[BJ信託銀行>BJローン]]に法人口座を開設|MIDDLE:全社員|[[BJローン]]の新事業である信託銀行の口座を法人として開設。&br()[[社長>山田　パルコ]]、[[副社長>星唄　サウ汰]]も同時に個人口座を開設。|
+|MIDDLE:06/19|MIDDLE:社宅購入|MIDDLE:全社員|[[パンチャン>パン　チャン]]より社屋裏口に社宅を購入。|
+|MIDDLE:06/19|MIDDLE:ジョブ付与|MIDDLE:[[浦戸ゼン>浦戸　ゼン]]|MIDDLE:[[浦戸ゼン>浦戸　ゼン]]が職業体験を経て入社。|
+|MIDDLE:06/25|MIDDLE:第1回UGM株主様感謝デー開催|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[万十忍>万十　忍]]&br()[[青梅つばめ>青梅　つばめ]]&br()[[星唄サウ汰>星唄　サウ汰]]&br()[[天ノぷら子>天ノ　ぷら子]]&br()[[星乃すみ>星乃　すみ]]&br()[[浦戸ゼン>浦戸　ゼン]]|MIDDLE:株主からの意向により選択された衣装で従業員が巫女＆陰陽師として接客。&br()UGMを神社に見立て[[安倍霊明>安倍　霊明]]により接客の指南を受ける。&br()&blankimg(第1回UGM株主様感謝デー.jpg,width=96,height=54)|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(6月)
+#region(7月,close)閉じる
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|MIDDLE:07/04|MIDDLE:バイク＆軽トラ障害物レースJump＆Punk|Singer[[山田パルコ>山田　パルコ]] 運営[[万十忍>万十　忍]]修理担当[[星唄サウ汰>星唄　サウ汰]]修理担当[[星乃すみ>星乃　すみ]]|[[AILES]]主催による北のサーキット場でのレース。各メカニックの代表者２名が修理を担当。&br()[[罰下リ>罰　下リ]]作曲によるテーマ曲を[[山田パルコ>山田　パルコ]]が披露。|
+|MIDDLE:07/08|MIDDLE:UGMのCM撮影、収録|[[山田パルコ>山田　パルコ]]&br()[[万十忍>万十　忍]]&br()[[星唄サウ汰>星唄　サウ汰]]&br()[[天ノぷら子>天ノ　ぷら子]]&br()[[ゆたんぽ>ゆた　んぽ]]&br()[[御花はな>御花　はな]]&br()[[星乃すみ>星乃　すみ]]&br()[[浦戸ゼン>浦戸　ゼン]]&br()[[カテジ]]&br()[[天羽よつは>天羽　よつは]]&br()[[キラ・メキーラ]]|[[スタジオカテジ]]によるUGMのCM撮影とCMソングの収録が行われる。&br()CMの主演女優にロスサントスのエマ・ワトソンと名高い[[天羽よつは>天羽　よつは]]を起用。&br()（撮影風景）&link2(🎬,https://youtu.be/w8dD7KI02Dw?si=YRIGhyUkxLvOxLoF,target=blank)|
+|MIDDLE:07/15|MIDDLE:第2回UGM株主様感謝デー開催|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[万十忍>万十　忍]]&br()[[星唄サウ汰>星唄　サウ汰]]&br()[[天ノぷら子>天ノ　ぷら子]]&br()[[ゆたんぽ>ゆた　んぽ]]&br()[[星乃すみ>星乃　すみ]]&br()[[ジェフリーヒッチコック>ジェフリー　ヒッチコック]]&br()[[浦戸ゼン>浦戸　ゼン]]|MIDDLE:株主からの意向により選択された衣装で従業員がキャビンアテンダント＆パイロットとして接客。&br()&blankimg(第2回UGM株主様感謝デー.jpg,width=106,height=76)|
+|MIDDLE:07/15|MIDDLE:夏のボーナス支給|||
+|MIDDLE:07/18|MIDDLE:[[UGM CM「ドウイウコトナノ・カ・シラネ(1428~1856)」>>https://youtu.be/e-15XfrLjZ0?si=IUdsWGtTg5Ok9Vh_]]完成|MIDDLE:全社員|MIDDLE:先日撮影が行われた[[スタジオカテジ]]によるUGMのCMが完成。&br()￥20,000,000にて納品。&openclose2(show=裏話。){作曲＆MIXは[[ノビー・ラング>ノビー　ラング]]。ピッチ補正を「行っていない」のはうさぎさんだけとのこと。}&br()&video(https://youtu.be/e-15XfrLjZ0?si=IUdsWGtTg5Ok9Vh_,width=200,height=150)|
+|MIDDLE:07/22|MIDDLE:8194のガソリンスタンド経営権取得|MIDDLE:全社員|オークションにより8194のガソリンスタンドの経営権を習得。&br()オーナーは[[山田パルコ>山田　パルコ]]。&br()&blankimg(山田パルコ_ガソスタ.webp,width=74,height=105)|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(7月)
+#region(8月,open)閉じる
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|MIDDLE:08/06|MIDDLE:第二回UGM株主総会　開催|MIDDLE:【従業員】&br()[[山田パルコ>山田　パルコ]]&br()[[星唄サウ汰>星唄　サウ汰]]&br()[[万十忍>万十　忍]]&br()[[星乃すみ>星乃　すみ]]&br()[[ゆたんぽ>ゆた　んぽ]](24時の部)&br()【20時の部】&br()[[ラグランジュ光芝>ラグランジュ　光芝]]&br()[[銭形やいち郎>銭形　やいち郎]]&br()[[バーバリアン田中>バーバリアン　田中]]&br()[[ブラックジャックス>ブラック　ジャックス]]&br()【24時の部】&br()[[ブラックジャックス>ブラック　ジャックス]]&br()[[ボイラ テンガリン>ボイラ　テンガリン]]&br()[[街雄サンリ>街雄　サンリ]]|【主な報告内容】&br()*サブスク内容の変更＆追加&br()*8194番地のGSの経営参画&br()*今後の事業計画の公開&BR()*経営状況の公開&br()*衣装への投票を株主六法での開始告知&br()*社宅の公開|
+|MIDDLE:08/13|MIDDLE:第3回UGM株主様感謝デー開催|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[星唄サウ汰>星唄　サウ汰]]&br()[[万十忍>万十　忍]]&br()[[天ノぷら子>天ノ　ぷら子]]&br()[[星乃すみ>星乃　すみ]]&br()[[ジェフリーヒッチコック>ジェフリー　ヒッチコック]]&br()[[浦戸ゼン>浦戸　ゼン]]&br()[[王城リレイ>王城　リレイ]]|MIDDLE:株主による投票で選択された衣装で従業員が~悪の戦闘員~として接客。&br()&blankimg(第3回UGM株主様感謝デー.jpg,width=179,height=107)|
+#endregion(8月)
+#region(9月,open)閉じる
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|MIDDLE:09/02|MIDDLE:給与体系の変更|MIDDLE:全社員|給料制の廃止。請求割合を7:3に。サブスク、警察からの支払い分等を都度ボーナス支給に|
+#endregion(9月)
+#co{
+
+コピペ用
+
+[[山田パルコ>山田　パルコ]] 
+[[星唄サウ汰>星唄　サウ汰]]
+[[青梅つばめ>青梅　つばめ]]
+[[万十忍>万十　忍]]
+[[天ノぷら子>天ノ　ぷら子]]
+[[ゆたんぽ>ゆた　んぽ]]
+[[御花はな>御花　はな]]
+[[星乃すみ>星乃　すみ]]
+[[ジェフリーヒッチコック>ジェフリー　ヒッチコック]]
+[[浦戸ゼン>浦戸　ゼン]]
+
+}
+
+***イベントポスター一覧
+#region(開く,close)閉じる
+****2026/03/26　Usa Gimmick Motorsオープン記念イベント
+|&blankimg(UGM_OPENポスター.png,width=200,height=300)|
+
+****2026/06/25　第1回UGM株主様感謝デー
+|&blankimg(第1回UGM株主様感謝デー_ポスター.webp,width=200,height=300)|
+
+****2026/07/15　第2回UGM株主様感謝デー
+|&blankimg(第2回UGM株主様感謝デー_ポスター.webp,width=200,height=300)|
+
+#endregion
+#endregion(沿革)
+
+*&font(30px){店}&font(25px){内用BGM &icon_fa(fa fa-music)}
+
+&youtube(https://youtu.be/EL7fgHMgoqk?si=eeeU6jfcuEkbrCms){400,250}
+
+#right(){&link_up(🔝ページTOPへ)}
+
+*&font(30px){U}&font(25px){GM CM &icon_fa(fa fa-youtube)}
+
+&youtube(https://youtu.be/e-15XfrLjZ0?si=IUdsWGtTg5Ok9Vh_){400,250}
+
+#right(){&link_up(🔝ページTOPへ)}

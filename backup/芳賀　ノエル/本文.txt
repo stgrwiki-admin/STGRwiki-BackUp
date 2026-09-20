@@ -1,0 +1,615 @@
+//**👑&size(25){&color(#75AEB6){&bold(){プ}}}ロフィール
+
+//&image(芳賀 ノエル.png,y=400)
+#slide_img(auto=5,width=312,height=439.2,position=left){
+ノエル_ALLIN正装01.png,
+ノエル_ALLIN戦闘服01.png,
+ノエル_私服03.png,
+私服1.png,
+私服2.png,
+変装ギャル.png,}
+
+#table_style(head=#75AEB6:#fff){名前=#7B7D7E:#fff:b:center}
+|~名前|&ruby(はが){芳賀} ノエル|
+|~出身地|不明|
+|~誕生日|2000年12月24日 (&countup(2000/12/24,y)歳)|
+|~転入日|2023年10月07日 (&countup(2023/10/07,yd)経過)|
+|~職業|素材屋【[[クリスマス急便]]】(9049番地)経営&br()武器商【[[FEMME FATALE]]】&small(){2025/04/08～}&br()&openclose2(show=???){犯罪斡旋ギルド【[[FadeGate]]】&small(){2025/05/20～}}&br()&small(){&openclose2(show=▼過去の職業){&br()バイクディーラー【[[菖光モータース]]】&br()バイクメカニック【[[菖光エンジニア]]】&br()⛽ガソスタ（9139番地）オーナー&br()🏪コンビニ（3026番地）オーナー}&br()}|
+|~所属|&small(){&openclose2(show=▼過去の所属){&br()ギャング【[[concellge>concellge(コンセルジュ)]]】メンバー&space()&small(){設立〜2024/05/29}&br()ギャング【[[ALLIN]]】 メンバー&space()&small(){2024/05/29～2025/03/24}&br()}}|
+|~TwiX|@xmas_transport|
+|~レーサー名|サンタさん|
+|プレイヤー|パカエル|
+|告知等|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X&space()(旧&font(#1da1f2){Twitter})}>>https://twitter.com/paka_el]]|
+|配信場所|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/p4k4el]]&space(2)&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@P4K4EL/streams]]&space(2)※同時配信|
+|動画|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@P4K4EL/videos]]|
+|別キャラ|&ruby(はが　かえる){[[芳賀　帰]]}|
+
+//2/10 コンビニ＆ガソリンスタンドの経営権については他者へに移譲する方向で進めていることと、最近仕入れなどをしていないことがRP上確認できているため、職業から削除してみました
+
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**👑&size(25){&color(#75AEB6){&bold(){基}}}本情報
+-一人称は「芳賀」。
+-素材屋[[クリスマス急便]]を経営している。
+-チルタイムにはバイクレースに出たりサバゲーをすることが好き。
+-白市民時代に[[MOZU]]のボス[[ヴァンダーマー>>ヴァン　ダーマー]]が運転する車に衝突して因縁をつけられた経験があり、以来[[MOZU]]を敵視している。また、ギャングとなってからも白市民には横暴な態度をとらないことをポリシーとしている。
+-一時期[[ALLIN]]と専属契約を結び格安で素材や武器を提供していたが、[[コンセルジュ>concellge(コンセルジュ)]]への加入を決めたことを契機に契約をとりやめた。
+-ギャング[[コンセルジュ>concellge(コンセルジュ)]]の立ち上げメンバーであり、解散まで過ごす。
+-解散後、ボス[[ハク　ナツメ]]の紹介で、[[まい　にい]]と一緒に[[ALLIN]]の面接を受ける。
+--厳しい面接試験をクリアし、[[ALLIN]]に入隊。
+-成分がわからない食べ物を受け付けない体質。以前、[[奇肉屋]]の商品を口にして体調を悪くしたこともある。そのため、スーパースター（黄色薬）などの薬は服用していない。
+--うっかりミスで薬を服用してしまうと声がカワボから一転してイケボになってしまう副作用が起きることが判明した。
+--しかし[[ALLIN]]加入後、[[ALLIN]]のフロント企業である[[ヤク薬局]]の商品「おクスリのめたわね」が日常的に入手可能になったため、薬と一緒に服用することで苦手な薬を克服した。
+-2024/12/26　実装2日目で「ギャング専用アーティファクト略奪ミッション」の【売却NPC】を発見する（第1&s(){おじさん}発見&s(){おじさん}者）
+-どうやらパン屋の牛乳を飲むと走り出したくなるらしい。
+-粉薬が苦手で、飲む時は[[ヤク薬局]]の「おクスリのめたわね」を一緒に飲まないと飲めないらしい。
+--タバコが吸えず、川上タバコ店に特注で「ジャッキー」というチョコ菓子を開発してもらい愛用している。
+--お酒も苦手。
+//--以前、希肉屋の商品を口にして体調を悪くしたこともある
+//4/11 希肉屋の件追記ありがとうございます、文章を2文→1文に統合させていただきました
+//★2/16 本ページを現在メインで編集している者です。どなたかによって以下の2行が追記されましたが本キャラクターのRPに合致していない認識です。牢王蓮らの観測者様による追記かと推測しますが、本キャラは、現在半グレチームで活動している牢王蓮らを敵視している状態ではありません。本キャラ本人の🤮発言を借りると「揉め事が好き」で、過去の経緯（ストーリー）を通じてMOZUに対して良い印象を持っていないため、MOZUが牢王蓮らに対してどう対応するのか他人事として眺めるのが楽しみだ、との発言をしています。
+//一旦非表示にさせていただきます。もしも非表示から復活されたい場合はコメントアウトにて本キャラクターの該当アーカイブ（日時と時間）を指定したうえで根拠の提示をお願いします。根拠のご提示なく復活された場合には、当方から編集相談所にて管理者様へ対処（IPアドレスのBANなど）を依頼させていただきます。
+//-心の扉が意外と固く、敵と判断したもの（半グレなど）には、かなり高圧的。
+//-芳賀自身から発せられたが性格が悪いらしい。花・薬などに手をつけている半グレ[[牢王　蓮]]らの話を聞いてMOZUにバレればいいのになどの発言が見られた。
+//-[[白井　満太]]からコンビニとガソリンスタンドのオーナーを引き継いだ
+//-[[椎花　まほ]]、[[天草　蒼]]とは友人関係
+//&s(){ALLINに興味を示しており}、友人の椎花まほ、天草蒼、白井満太に相談している。
+//--コンビニ・ガソリンスタンドの経営権を[[鳥羽　朔夜]]に移譲。
+
+#div(width=330px,bgcolor=#75AEB6){&font(16px,#FFF,b){&space()&icon_fa(fas fa-tshirt)&space()concellge時代の服装}}
+#region(開く)閉じる
+
+|CENTER:BGCOLOR(#75AEB6):~&color(#ffffff)&blankimg(コンセルジュスーツ.png,x=220,y=300)|CENTER:BGCOLOR(#75AEB6):~&color(#ffffff)&blankimg(コンセルジュ戦闘服.png,x=220,y=300)|
+
+#endregion
+
+**👑&size(25){&color(#75AEB6){&bold(){エ}}}ピソード
+//CMの入り込む位置を変えるため見出しのデザインを変更させていただきました。問題あるようでし🤮たらお知らせください。
+#div(width=330px,bgcolor=#75AEB6){&font(16px,#FFF,b){&space()&icon_fa(fas fa-crown)&space()2023年}}
+#region(2023年　OPEN,close)2023年　CLOSE
+#region (10月)10月
+・空あ港に降り立つ。ツテも足もないので取り敢えず走って上の方に向かう。自力で着いたレギオンで[[椎花　まほ]]に会い、た何をしてるか聞かれて「空港から歩いてきました」と話し「空港から歩いてきたんですか？www」と笑われる。「同じ初心者だから使えないですね」とまほに言い去る。まほは第一村人にカウントされなかった。
+・第一村人のホットドッグ屋の[[デヤンス>小者　デヤンス]]に無料でホットドッグとトロピカルジュースを貰う。親切にしてくれた彼に「この町にもいい人がいる」「初めて罵倒以外の言葉をかけてくれたな」と呟く。
+・病院前で猫ちゃんを見ている時に命田 守に話しかけられる。命田守に大きい声の出しや方を教わる。その間に来た切間 てつおと挨拶を交わす。
+てつおに「ちなみに何をされてるんですか？」「えー、ハンバーガーショップ店長兼高級車ディーラーです」「あ、今の現状の方なんですけど……」「うんうん。そうだな現状はどっちもやっ
+てます！」「ハンバーガー……あ、いや、今の、“今”何をされているんでしょうか？」「あwwww今は出勤しようと思ってスケボーに乗って、ちょっと走ってました」と中々話が噛み合わず壮大なコミュニケーションエラーを起こす。
+・レギオンで自転車に乗っていた
+たまほに自転車の乗り方について聞くが何故か自転車で壮大に転ける。それを見たノエルは「この人にホントに付いて行っていいのだろうか……」と悩む。
+まほの運転技術を不安に感じる。
+まほに自転車屋に連れて行ってもらい買い方を教えてもらうも分からず「騙されてきたかもしれない」と呟くもなんとか自転車を買うことが出来た。
+まほと魔法少女カフェに入る。魔法少女の[[超越谷　にかり]]に「芳賀」を「よしか」と呼び間違えられる。次回のお買い物で使えるギフトカードを貰う。「次回の来店って、一回出て入ったらもう次回」と言われたので店を入り直す、まほとノエル。
+10万円のギフトカードで警察ガチャを引きまほは警察署長の[[ジャック　馬ウアー]]のブロマイド、ノエルも同じく[[ジャック　馬ウアー]]のアクリルスタンドを貰う。
+まほに連絡先を教えてと言われ、自転車で全力で逃げよう🤮とする。
+・瞑想後に[[ちの　まるこ]]と挨拶を交わし、連絡先交換する。
+・レギオンで[[竹井　勝痔]]、[[ヘスティア　ゴらデス]]、[[プテラ　のたか]]、[[アキヲ・煉獄・ペスカレーレ]]、[[焼野原　ひろし]]、[[桜星　ヨウコウ]]、[[鳥羽　咲夜]]、[[ボア　セニャコック]]、[[ペトロ　アルドベッグ]]と挨拶を交わす。
+・竹井さんの車でPère Noëlにま行く途中でJTSに寄り[[天王寺　京司郎]]、名物[[松竹　ウメ]]に挨拶を交わす。
+道中、竹井さんに「どんな仕事に就きたいか」聞かれ[[まほ>椎花　まほ]]は人の役に立つお仕事がしたいらしい。
+猫カフェで店員の[[世風天　みにゃ]]、[[桃兎　すずめ]]に会う。猫に癒される。
+・レギオンに戻り[[しら　ぽち]]と[[よすみの　かど]]も加わり再出発する。
+竹井さんの秘密基地 斎藤モータースでみんなでスライディングで遊ぶ。
+・みんなで病院に行き[[雷堂　ましろ]]に「怪我人が多すぎない！？」と驚かれる。
+・レギオンで[[コット　ソン>牧田　ここな]]に出会う。
+・自転車で北のコンビニに行くが商品の高
+ま価格に驚く。まほから電話がきて大人のお店に誘われる。
+・みんなでストリップバーに行く。ホストの[[エド　エトワール]]のストリップ
+ショーを見る。
+・[[天王寺>天王寺　京司郎]]さんに物を溶かす仕事を頼まれる。初心者なので多めに50万貰う。
+・免許を取り斎藤モータースで車を買った。新車に乗りレギオンに戻り、まほと再開する、社会見学で人質になったらしい。(10/07)
+・まほ、竹井さん、柳瀬 つん、[[上田　さん]]、[[家好　にーと]]、[[安城　成]]と一緒にクイズをした。
+・市民、ギャング、警察でサバゲーをした。
+・まほに素材回収の仕方を教わる
+・[[アラリル・アルシャバ・ままアルカ]]に釣りのらやり方を教わった。
+・まほ、つん、[[なの>なのの　なの]]と一緒にボーリングをして遊んだ。 (10/09)
+・[[エド>エド　エトワール]]に誘われて、みんなでサバゲーをした。
+・[[ザウルス>柳瀬　つん]]にパラシュートを貰う。ヘリでビルの屋上に行き、みんなでスカイダイビングをした。初心者の加護で1人だけ助かり、唯一の生還者となった。
+・レギオンで[[つん>柳瀬　つん]]と[[半沢 直ふぃ]]まの連絡先を交換する。半沢にメカニックの仕事を教わる。
+・[[竹井　勝痔]]に「ノエル、静かなる暗○者」と仲間紹介される。(10/12)
+・[[竹井　勝痔]]と菖光亭に行く、遅れて[[ザウルス>柳瀬　つん]]と[[まほ>椎花　まほ]]も来た。[[花沢まるん>花沢　まるん]]と[[パキち>パキ　ち]]も来店する。[[ハムボッチ　白百合]]、[[花沢まるん>花沢　まるん]]と連絡先交換をする。まほとつんと一緒に木こりをやってみる。デパートの服屋で水色のザウルスになる。[[ももこちゃん>牛桃　ももこ]]の服を買いにデパートに行く(10/14)
+・服屋に来たみんなでお揃いの牛のコーデを買い記念撮影をした。スドバで“ゴチになります”を見た。リサセンで会った[[仮面の男>無馬　かな]]にパレト銀行の人質にされる、口止め料や物を貰い[[警察>赤城　煉]]の聴取の際に嘘の情報をま伝える。仮面の男に優しくされ、捕まっている間助けに来なかった警察に不信感を抱く。レギオンに戻ると2度目の人質にされるが犯人が瞑想しても銀行をハッキング出来なくてお小遣いだけ貰いレギオンで開放され🤢た。(10/15)
+・レギオンでまほとの雑談中に奇声を上げる[[バケ　モノ>エスターク・Z・ダークネス]]に会う、「トモダチが欲しくてぇ」と言われ連絡先を交換する、[[上田さん>上田　さん]]、まほ、バケモノとデートスポットに行った。(10/16)
+・ザウルス違いで豆腐ザウルスに挨拶をする。(10/17)
+・クラフト→リサセンを循環する(10/18)
+・レギオンで[[キングスターダイヤモンド　ズズ]]の一発芸を見る。[[ザウルス>柳瀬　つん]]、[[セリーヌ>セリーヌ　ゴデス]]、[[幹部> Lv〇 チンピラ]]とゴミ収集バイトをするがセリーヌと接触事故を起こし病院に運ばれる。[[月渚雪人>月渚　雪人]]にバイクを買ってもらう。(10/19)
+・[[ジョーカー>半沢　直ふぃ]]、[[トナカイ> アーモンド　サラザール]]、まほ、つんとサバゲーをする(10/20)
+・学校で謎解きゲームをした。(10/23)
+・バイクに乗り新規事業の物件探しをした。ハン罪者に強盗の人質にされた。(10/24)
+・(10/25)
+・じゃんけんに勝ったら[[タコス男>Mon　D]]に強盗の人質にされた。メンタルケアは自転車に乗った[[赤城>赤城　煉]]がしてくれた。ザウルスの運転でサーカスを見に行った。(10/28)
+・変装してクラフトに行くと[[伊達咲>伊達咲　政宗]]に名前を聞かれるも決めていなかったので「名前は秘密です」と答える。中に入ると赤いスーツを身に纏った[[ぎゃるみ> きゃばみざわ☆　ぎゃるみ↑]]と[[ヘルメット男>安城　成]]がいた。また名前を聞かれるが答えられなかった。道路に伏せる[[不審者>柳瀬　つん]]を見つける。クラクションを鳴らすも「シッー！なんかやってる人いる！」と止められる、不審者が見ていたのはピアノを弾く[[10歳の女の子>きらりんぶい☆　なずぴ(10)]]だった……。(10/29)
+・[[パン　マン>エスターク・Z・ダークネス]]にSRホットドッグを最低価格で押し売りされる。レギオンで[[虎マスク>聖母　れりあ]]の人に人質として誘拐される。初見の警察[[ミナミとと>ミナミ　とと]]と挨拶をする。[[みこだ>神子田　頼]]にガンライセンスを発行してもらう。レギオンで[[狐マスク>小峯　玲]]に強盗の人質にされた。バイクを買いに来た[[赤城>赤城　煉]]をつんと接客(?)した。ジョーカーにヘリの修理を頼まれた。(10/30)
+#endregion
+#region (11月)11月
+・ストバトが流行っていることを知る。(11/01)
+・新規住民の[[ダミ　アン]]にデパートまを案内する。パンマンについてみんなで話す。カーレースの表彰式を見に行った。(11/02)
+・市役所に行き[[市長>山下　ひろし]]に起業相談をして起業許可が下りる。[[みらさん>みら　らんど]]にクラフトのやり方を教えた。裁判を傍聴した。(11/03)
+・みんなとキャンプに行き目的地に着くが焚き火で[[タラちゃん>タラ　ちゃん]]炎上する。[[ひなちゃん>猫ノ宮　ひな]]の運転で温泉を目指すも車が水没して詰む。水没組で登山をするも足を滑らせて4人中3人がダウンしてしまう。[[闇医者>いわさき　そす]]が助けに来るが医療バッグがおにぎりコロコロ状態になりロストしたので病院に送ってもらう。(11/04)
+・鬼ごっこをしに目的地に近づいたら「助けてー！」と声が聞こえてきたので側によるとW方向にいる御乱心のボブが銃を乱射していた。ダウン者の[[はるはる　小僧]]、[[ヤマンバ花子>ヤマンバ　花子]]に「警察を呼んで」と頼まれたため[[みこだ>神子田　頼]]に連絡をした。その間[[お兄ちゃん>しめ鯖　しらす]]は永遠に死体撃ちを🤢されていた。[[宇宙人さん>オザワ　ハヤマサ]]の銀行の人質にされた。内見しに行った。ゴミ収集バイトからレギオンに戻ると[[新規住民>難波　ハル]]さんがいたので挨拶と連絡先の交換をした。魔法少女コスプレをして新規住民達の魔法少女カフェ体験を見守った。(11/05)
+・[[難波ハル>難波　ハル]]にまカジノの案内をした。鳥羽と難波でアシット集めをした。「助けてー」と声が聞こえたヘリに近づくと「降りたら4にます」と言う警察の[[みこだ>神子田　頼]]がいた。みこだは矢庭にヘリを降り、その瞬間爆発が起こり近くにいたノエルは巻き込まれた。治療費は[[警察>神子田　頼]]に払ってもらった。(11/06)
+-ギャング内での物品流通状況等、情報提供を条件に[[ALLIN]]のお抱え素材屋・クラフターとして優先売買契約を結ぶ。(11/23）
+-今後、素材屋・クラフターであり続けるか、黒になるかなど、自身の現状に悩んでいる（11/30）
+#endregion
+#region (12月)12月
+-今後のことについて、[[白井　満太]]、[[椎花　まほ]]、[[天草　蒼]]に相談した（12/01）
+--警察への不信感([[ロケラン裁判判決後の事件参照>>ロケラン裁判]])、ギャングに助けられてきたこれまでについて、黒になることへの興味など
+-上田2000万鬼ごっこに[[ま参加者を妨害する影武者役>>https://x.com/STGR_RolePlay/status/1731269113451036998?s=20]]で参加[[📝>>https://x.com/STGR_RolePlay/status/1731267030815281454?s=20]][[📝>>https://x.com/STGR_RolePlay/statusま/1731269113451036998?s=20]][[📝>>https://x.com/STGR_RolePlay/status/1731290166554505226?s=20]](12/03)
+-[[天草　蒼]]と[[ALLIN]]への所属も含めて今後について話す。(12/9)
+--今後[[ALLIN]]への所属を希望するなら、[[ALLIN]]で成し遂げたいことなど、所属を希望する意味の大切さを指摘される。また、所属希望などに関する相談は混乱を避けるため相談窓口を一つにするようにとのこと。
+--ギャングに入るなら今の人間関係上[[ALLIN]]だという思いは変わらずあるが…。
+//↑この部分会話の展開的にどう表現するか迷いがあるので、書き換え等必要であればよろしくお願いしたいです。
+-[[ハク　ナツメ]]、[[黒亜　ネマ]]から新設予定のギャングに勧誘される。(12/10)
+--第一目標が[[IRiS]]&font(#767676,10px){(※ノエルの所属する[[菖光エンジニア]]は[[IRiS]]のフロント企業)}であることを知らされる。
+-[[ALLIN]]と優先取引をする上でほかに売るのと比較した場合のマイナスが億ちょっとになること、取引条件でまあった情報が思ったようには得られないこと、前日[[ハク　ナツメ]]から勧誘があったことなどを踏まえ、揺らいでいる。
+--[[千代田　ヨウ]]、[[椎花　まほ]]と現状の優先取引契約について話す。
+-そもそも悩んでいた内容自体白か黒か、ではなくどのギャングなら合うかであったことに気づき、黒になる決心をした。(12/13)
+-[[ハク　ナツメ]]の計画している新興ギャングに加入することを決意し、ビルの屋上にて入りたい意志を伝えた。(12/13)
+-[[コンセルジュ>concellge(コンセルジュ)]]の立ち上げまでの期間、個人で所有していた素材を[[コンセルジュ>concellge(コンセルジュ)]]の拠点に運び入れたり、内定メンバーの犯罪チュートリアルに人質として付き合い犯罪のやり方を横目で学んだ。
+-誕生日に、[[コンセルジュ>concellge(コンセルジュ)]]に内定しているメンバーからプレゼントとしてヘリSuper Volitoをもらった。(12/24)
+-コンビニとガソリンスタンドの経営権を誰かまに譲り渡す調整を行った。
+//2/10 経営権の結論がどうなったかご存じの方追記いただけると助かります🤢
+#endregion(12月)
+#endregion(2023年)
+//👑👑👑👑👑👑👑2024年ここから
+
+#div(width=330px,bgcolor=#75AEB6){&font(16px,#FFF,b){&space()&icon_fa(fas fa-crown)&space()2024年}}
+//***2024年
+#region(2024年　OPEN,open)2024年　CLOSE
+#region (1月)1月
+-経営する素材屋『[[クリスマス急便]ま]』が入居していた質屋の物件の明け渡しがロスサントス市から求められ、7075番地から9049番地へと移転させた。(1/11)
+-ギャング[[コンセルジュ>concellge(コンセルジュ)]]が設立され、加入した。(1/13)
+#endregion
+#region (2月)2月
+・エピソード募集中
+#endregion
+#region (3月,close)3月
+・ギャング[[コンセルジュ>concellge(コンセルジュ)]]のボス[[ナツメ>>ハク　ナツメ]]からギャング活動に役立つ薬（スーパースターなど）を飲むよう強硬に指示されたことに抵抗し、約一日にわたって "家出" した。（3/22）
+・[[ナツメ>>ハク　ナツメ]]に対してた体質的に成分がわからない薬を飲めないことを説明＆今まで黙っていたことを謝り、今後は薬を飲まなくて良いとの許可を受けた。（3/23）
+#endregion
+#region (4月,close)4月
+・救急隊になって活動する夢を見た。（4/1）&br()※エイプリルフールイベント『[[ストグラシャッフルパージデー]]』
+#endregion
+#region (5月,close)5月
+・ギャングのシマリセットに伴うシマ取りに参加し、おもに他ギャングの居場所や動向を索敵する遊撃部隊として活動している。（5/14～）
+・うっかりミスで薬を服用してしまい、声がカワボから一転してイケボになってしまう事態が起きた。しかしノエル本人は何が起きたか全く覚えておらず、意外と薬飲んでも大丈夫だなという感触だけ覚えている。（5/24）
+・ギャング[[コンセルジュ>concellge(コンセルジュ)]]が解散。(5/29)
+・[[ハク　ナツメ]]の紹介で[[ALLIN]]の面接を受け合格。ギャング[[ALLIN]]の構成員となる。(5/ま29)
+#endregion
+#region (6月,close)6月
+-エピソード募集
+#endregion
+#region (7月,close)7月
+-エピソード募集
+#endregion
+#region (8月,close)8月
+-エピソード募集
+#endregion
+#region (9月,close)9月
+-エピソード募集
+#endregion
+#region (10月,close)10月
+-エピソード募集
+#endregion
+#region (11月,close)11月
+-エピソード募集
+#endregion
+#region (12月,close)12月
+-12/26　実装2日目で「ギャング専用アーティファクト略奪ミッション」の【売却NPC】を発見する（第1&s(){おじさん}発見&s(){おじさん}者）
+--今回は歪みなのかわからないが、略奪物資がま売れなかったため、いったん退却🤢
+#endregion(12月)
+#endregion(2024年)
+
+今日の日付:&today()
+
+**👑&size(25){&color(#75AEB6){&bold(){所}}}有施設等
+***&bold(){※出入りするた物件を含む}
+#region(開く,open)閉じる
+#left()
+#table_filter(){No.=show,購入等の日時📅=hide,番地=show,場所=show,通称=show,鍵🔒=hide,所有者👤=hide,備考📝=hide,購入額💰=hide,内装🏠=hide}
+#table_style(head=center:#75AEB6:#fff)
+{No.=right,購入等の日時📅=right,番地=center,場所=center,通称=left,鍵🔒=center,所有者👤=center,た備考📝=left,購入額💰=right,内装🏠=center}
+|~No.|~購入等の日時📅|~番地|~場所|~通称|~鍵🔒|~所有者👤|~備考📝|~購入額💰|~内装🏠|h
+|1|-|9049|街中|素材屋『[[クリスマス急便]]』店舗|[[-]]|[[-]]|-|-|-|
+|2|-|7219|街西側|犯罪道具の置き場所|[[-]]|[[-]]|-|-|-|
+|3|-|3015|砂漠地帯|犯罪道具の置き場所|[[-]]|[[-]]|-|-|-|
+|4|-|2051|砂漠地帯|犯罪用の車をましまうハイドアウトガレージ|[[-]]|[[-]]|-|-|-|
+|5|2024/3/17|9341|街東側|犯罪道具の置き場所　ガレージ付き|[[-]]|[[-]]|-|-|-|
+#endregion
+//以下は非表示にしました
+//|1|-|3026|-|コンビニ『Rob's Liquor』|[[芳賀　ノエル]]|[[芳賀　ノエル]]|[[白井　満太]]より経営権譲渡|-|-|
+//|2|-|9139|-|ガソリンスタンド|[[芳賀　ノエル]]|[[芳賀　ノエル]]|[[白井　満太]]より経営権譲渡|-|-|
+
+**👑&size(25){&color(#75AEB6){&bold(){ア}}}－カイブ
+#div(width=330px,た=#75AEB6){&font(16px,#FFF,b){&space()&icon_fa(fas fa-crown)&space()2023年}}
+
+//👑👑👑👑👑2023年ここから🤢
+#div(width=330px,bgcolor=#75AEB6){&font(16px,#FFF,b){&space()&icon_fa(fas fa-crown)&space()2023年}}
+//***2023年
+#region(2023年 OPEN)2023年 CLOSE
+#region(10月,close)10月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/10/07|1|[[&font(#6441A4){&icon_fa(fa fa-twitch)}新生活！！！>>https://www.twitch.tv/videos/1944829318]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-たplay)}[[🔰＃１　初めてのストグラ上陸！！芳賀ノエル視点>>https://youtu.be/5XW-Eihh5No?si=S_LQppEsyt4mrtp5]]|初衛星|
+|23/10/09|2|[[&font(#6441A4){&icon_fa(fa fa-twitch)}仕事…？２日目>>https://www.twitch.tv/p4k4el]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[🔰＃2　仕事…？芳賀ノエル視点>>https://youtu.be/Dt4KMCR3BX4?si=7aCEDhFFo6z-Q8Iy]]|-|
+#table_sorter{even=#F2F2F2,odd=#white}
+#endregion(10月)
+#region(11月,close)11月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/11/11|30|[[&font(#6441A4){&icon_fa(fa fa-twitch)}1ヶ月記念日～30日目>>https://www.twitch.tv/p4k4el]]|-|
+|23/11/12|31|[[&font(#6441A4){&icon_fa(fa fa-twitch)}着々とお店準備っち～31日目>>https://www.twitch.tv/p4k4el]]|-|
+|23/11/14|32|[[&font(#6441A4た){&icon_fa(fa fa-twitch)}～32日目>>https://www.twitch.tv/p4k4el]]|-|
+|23/11/18|33|[[&font(#6441A4){&icon_fa(fa fa-twitch)}今日から復活だ～＃33>>https://www.twitch.tv/p4k4el]]|-|
+|23/11/19|34|[[&font(#6441A4){&icon_fa(fa fa-twitch)}オフホワイト市民～＃34>>https://www.twitch.tv/p4k4el]]|-|
+|23/11/20|35|[[&font(#6441A4){&icon_fa(fa fa-twitch)}今日はどんな事件が・・・～＃35>>https://www.twitch.tv/p4k4el]]|-|
+|23/11/21|36|[[&font(#6441A4){&icon_fa(fa fa-twitch)}ここにタイトルを入力＃36>>https://www.twitch.tv/p4k4el]]|-|
+|23/11/22|37|[[&font(#6441A4){&icon_fa(fa fa-twitch)}情報収集…の段！＃37>>https://www.twitch.tv/p4k4el]]|-|
+|23/11/23|38|[[&font(#6441A4){&icon_fa(fa fa-twitch)}仮オープンと分岐点…の段！＃38>>https://www.twitch.tv/p4k4el]]|[[ALLIN]]と優先売買契約を結ぶ（[[該当箇所🎬>>https://www.twitch.tv/videos/1985054843?t=06h40m16s]]）|
+|23/11/24|39|[[&font(#6441A4た){&icon_fa(fa fa-twitch)}クラフターの朝は早い。…の段！＃39>>https://www.twitch.tv/p4k4el]]|-|
+|23/11/25|40|[[&font(#6441A4){&icon_fa(fa fa-twitch)}はたらくにんげん…の段！＃40>>https://www.twitch.tv/p4k4el]]|-|
+|23/11/26|41|[[&font(#6441A4){&icon_fa(fa fa-twitch)}チルはいずこへ…の段！＃41>>https://www.twitch.tv/videos/1987749000]]|-|
+|23/11/27|42|[[&font(#6441A4){&icon_fa(fa fa-twitch)}ワーカーホリックニート…の段！＃42>>https://www.twitch.tv/videos/1988512721]]|-|
+|23/11/28|43|[[&font(#6441A4){&icon_fa(fa fa-twitch)}芳賀の行く先…の段！＃43>>https://www.twitch.tv/videos/1989353075]]|-|
+|23/11/29|44|[[&font(#6441A4){&icon_fa(fa fa-twitch)}理由探し…の段！＃た44>>https://www.twitch.tv/videos/1990210501]]|-|
+|23/11/30|45|[[&font(#6441A4){&icon_fa(fa fa-twitch)}迷いの芳賀…の段！＃45>>https://www.twitch.tv/p4k4el]]|-|
+#table_sorter{even=#F2F2F2,odd=#white}
+#endregion(11月)
+#region(12月)12月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|23/12/01|46|&font(#6441A4){&icon_fa(fa fa-twitch)}[[キーワードは白！…の段！＃46>>https://www.twitch.tv/p4k4el/v/1992146584?sr=a&t=7390s]]|-|-|
+|23/12/02|47|&font(#6441A4){&icon_fa(fa fa-twitch)}[[さてどうなる…の段！＃47>>https://www.twitch.tv/p4k4el/v/1992864707]]|-|-|
+|23/12/03|48|&font(#6441A4){ま&icon_fa(fa fa-twitch)}[[おにごっこだぞ！…の段！＃48>>https://www.twitch.tv/p4k4el]]|-|-|
+|23/12/01|49|&font(#6441A4){&icon_fa(fa fa-twitch)}[[海に生きる…かも！…の段！＃49>>https://www.twitch.tv/p4k4el/v/1994877997?sr=a&t=13s]]|-|-|
+|23/12/05|50|&font(#6441A4){&icon_fa(fa fa-twitch)}[[多分短め（当社比）…の段！＃49>>https://www.twitch.tv/videos/1995824066]]前半&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[多分短め（当社比）…の段！＃49>>https://www.twitch.tv/videos/1995825856]]後半|-|-|
+|23/12/06|51|&font(#6441A4){&icon_fa(fa fa-twitch)}[[めちゃめちゃ変わったｚ…の段！＃50>>https://www.twitch.tv/videos/1996630191]]|-|-|
+|23/12/07|52|&font(#6441A4){&icon_fa(fa fa-twitch)}[[今日はできますように…の段！＃ま51>>https://www.twitch.tv/videos/1997506745]]|-|-|
+|23/12/09|53|&font(#6441A4){&icon_fa(fa fa-twitch)}[[のんびりまったり…の段！＃53>>https://www.twitch.tv/videos/1999350273]]前半&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[のんびりまったり…の段！＃53>>https://www.twitch.tv/videos/1999352204]]後半|-|-|
+|23/12/10|54|&font(#6441A4){&icon_fa(fa fa-twitch)}[[父さんな…仮想通貨で稼ごうと思うんだ…の段！＃54>>https://www.twitch.tv/p4k4el]]|-|[[ハクナツメ]]からの勧誘|
+|23/12/11|55|&font(#6441A4){&icon_fa(fa fa-twitch)}[[社宅を買うぞ！！！…の段！＃55>>https://www.twitch.tv/videos/2001187796]]|-|-|
+|23/12/12|56|&font(#6441A4){&icon_fa(fa fa-twitch)}[[決断の時、来たれり…の段！＃56>>https://www.twitch.tv/videos/2002076280]]前半&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[決断の時、来たれり…の段！＃56>>https://www.twitch.tv/videos/2002077448]]後半|-|-|
+|23/12/13|57|&font(#6441A4){&icon_fa(fa fa-twitch)}[[グ、レ…の段！＃57>>https://www.twitch.tv/videos/2002981394]]|-|ギャング加入決意|
+|21/12/14|58|&font(#6441A4){&icon_fa(fa fa-twitch)}[[仮想通貨大暴落でワロタ…の段！＃58>>https://www.twitch.tv/videos/2003761975]]|-|-|
+|23/12/15|59|&font(#6441A4){&icon_fa(fa fa-twitch)}[[準備～…の段！＃59>>https://www.twitch.tv/videos/2004664915]]|-|-|
+|23/12/16|60|&font(#6441A4){&icon_fa(fa fa-twitch)}[[チルの中の戦…の段！＃60>>https://www.twitch.tv/p4k4el/v/2005590016]]前|-|-|
+|~|~|&font(#6441A4){&icon_fa(fa fa-twitch)}[[チルの中の戦…の段！＃60>>https://www.twitch.tv/p4k4el/v/2005590298]]中|~|~|
+|~|~|&font(#6441A4){&icon_fa(fa fa-twitch)}[[チルの中の戦…の段！＃60>>https://www.twitch.tv/p4k4elま/v/2005931220]]後|~|~|
+|23/12/17|61|&font(#6441A4){&icon_fa(fa fa-twitch)}[[今日はみじかめ…の段！＃61>>https://www.twitch.tv/p4k4el/v/2007347562]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日からこっちでも！！＃61>>https://www.youtube.com/watch?v=ytyHF717fuE]]|Youtube&Twich同時配信開始|
+|23/12/21|62|&font(#6441A4){&icon_fa(fa fa-twitch)}[[寒すぎワロタ…の段！＃62>>https://www.twitch.tv/videos/2009919599]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[寒すぎワロタ＃62>>https://www.youtube.com/watch?v=GHbP1dcGRKk]]|-|
+|23/12/22|63|&font(#6441A4){&icon_fa(fa fa-twitch)}[[金が吹き飛んだ…の段！＃63>>https://www.twitch.tv/videos/2010896635]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[金が吹き飛んだ＃63>>https://www.youtube.com/watch?v=dob67_ASvg0]]|-|
+|23/12/23|64|&font(#6441A4){&icon_fa(fa fa-twitch)}[[みんなおかえり！！…の段！＃64>>https://www.twitch.tv/videos/2011752627]]|&font(#DA1725){&icon_fa(fa fa-youtube-まplay)}[[みんなおかえり！！＃64>>https://www.youtube.com/watch?v=VfUO96sJaWY]]|-|
+|23/12/24|65|&font(#6441A4){&icon_fa(fa fa-twitch)}[[めり～…の段！＃65>>https://www.twitch.tv/videos/2012720603]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[クリスマース＃65>>https://www.youtube.com/watch?v=im5M02192HI]]|-|
+|23/12/26|66|&font(#6441A4){&icon_fa(fa fa-twitch)}[[そろそろ本格的に？…の段！＃66>>https://www.twitch.tv/videos/2014135676]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[1日ぶりってだいたい2日ぶり＃66>>https://www.youtube.com/watch?v=XtD-Ej97fJk]]|-|
+|23/12/28|67|&font(#6441A4){&icon_fa(fa fa-twitch)}[[空もだいたい飛べるはず…の段！＃66>>https://www.twitch.tv/videos/2015976034]]|&font(#DA1725){&icon_fa(fa fa-youtube-まplay)}[[色々な準備＃67>>https://www.youtube.com/watch?v=bTVCDXgijTg]]|Twitch枠タイ正しくは#67|
+|23/12/29|68|&font(#6441A4){&icon_fa(fa fa-twitch)}[[年越し前の蓄えリス…の段！＃68>>https://www.twitch.tv/videos/2016931102]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[年越し前のリス＃68>>https://www.youtube.com/watch?v=n7uinHHt9mE]]|-|
+#table_sorter{even=#F2F2F2,odd=#white}
+#areaedit(end)
+#endregion(12月)
+#endregion(2023年)
+
+//👑👑👑👑👑2024年ここから🤢
+#div(width=330px,bgcolor=#75AEB6){&font(16px,#FFF,b){&space()&icon_fa(fas fa-crown)&space()2024年}}
+//***2024年
+#region(2024年 OPEN)2024年&space()CLOSE
+#region(1月)1月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/01/04|69|&font(#6441A4){&icon_fa(fa fa-twitch)}[[あけおめロスサントス！！＃69>>https://www.twitch.tv/videos/2022353583]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[あけおめロスサントス！！＃69>>https://www.youtube.com/watch?v=1ldbiQXXthQ]]|-|
+|24/01/05|70|&font(#6441A4){&icon_fa(fa fa-twitch)}[[準備をするのだ！！＃70>>https://www.twitch.tv/videos/2023459560]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[着々と準備段階！＃70>>https://www.youtube.com/watch?v=oHPfTIvTWak]]|-|
+|24/01/06|71|&font(#6441A4){ま&icon_fa(fa fa-twitch)}[[芳賀ノエルの日常その１！＃71>>https://www.twitch.tv/videos/2024481125]]前半|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[芳賀ノエルの日常その１＃71>>https://www.youtube.c//***2024年om/watch?v=IT0NXAMw_so]]|-|
+|~|~|&font(#6441A4){&icon_fa(fa fa-twitch)}[[芳賀ノエルの日常その１！＃71>>https://www.twitch.tv/videos/2024482650]]後半|~|~|
+|24/01/07|72|&font(#6441A4){&icon_fa(fa fa-twitch)}[[吐きそう＃72>>https://www.twitch.tv/videos/2025398643]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[吐きそう＃72>>https://www.youtube.com/watch?v=QB1gvXLYnss]]|-|
+|24/01/09|73|&font(#6441A4){&icon_fa(fa fa-twitch)}[[お金を稼ごう！＃73>>https://www.twitch.tv/videos/2027319038]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[お金を稼ごう！＃73>>https://www.youtube.com/watch?v=wcILCpXwh_4]]|-|
+|24/01/10|74|&font(#6441A4){ま&icon_fa(fa fa-twitch)}[[早朝ゴミ拾い委員会＃74>>https://www.twitch.tv/videos/2028188343]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[早朝ゴミ拾い委員会＃74>>https://www.youtube.com/watch?v=pJMn9axEjNI]]|-|
+|24/01/11|75|&font(#6441A4){&icon_fa(fa fa-twitch)}[[お店が転移した！！！＃75>>https://www.twitch.tv/videos/2029204054]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[お店が転移した！！！＃75>>https://www.youtube.com/watch?v=rsSfrqNyF1g]]|-|
+|24/01/12|76|&font(#6441A4){&icon_fa(fa fa-twitch)}[[新章！ギャング編きちゃ！！＃76>>https://www.twitch.tv/videos/2030070176]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新章！ギャング編きちゃ！！＃76>>https://www.youtube.com/watch?v=OwKWqiuMPQ0]]|24時に[[コンセルジュ>concellge(コンセルジュ)]]が設立されメンバーとなる|ま
+|24/01/15|77|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ1日目＃77>>https://www.twitch.tv/videos/2033147146]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ1日目＃77>>https://www.youtube.com/watch?v=8Q-Fr8rBWes]]|-|
+|24/01/16|78|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ2日目＃78>>https://www.twitch.tv/videos/2034220899]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ2日目＃78>>https://www.youtube.com/watch?v=GqIW3Nyuo_s]]|-|
+|24/01/17|79|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ3日目＃79>>https://www.twitch.tv/videos/2035101402]]前半|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ3日目＃79>>https://www.youtube.com/watch?v=6wxGX--3ZCA]]|-|
+|~|~|&font(#6441A4){&icon_fa(まfa fa-twitch)}[[コンセルジュ3日目＃79>>https://www.twitch.tv/videos/2035109027]]後半|~|~|
+|24/01/18|80|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ4日目＃80>>https://www.twitch.tv/videos/2036214383]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ4日目＃80>>https://www.youtube.com/watch?v=uvYupIxIguo]]|-|
+|24/01/19|81|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ5日目＃81>>https://www.twitch.tv/videos/2037011333]]前半|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ5日目＃81>>https://www.youtube.com/watch?v=oVm8xpErKNA]]|-|
+|~|~|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ5日目＃81>>https://www.twitch.まtv/videos/2037012323]]後半|~|~|
+|24/01/20|82|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ6日目＃82>>https://www.twitch.tv/videos/2038073808]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ6日目＃82>>https://www.youtube.com/watch?v=atzXpKnX_T8]]|-|
+|24/01/21|83|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ7日目＃83>>https://www.twitch.tv/videos/2039223333]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ7日目＃83>>https://www.youtube.com/watch?v=_hXk7bLH7nQ]]|-|
+|24/01/23|84|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ8日目＃84>>https://www.twitch.tv/videos/2041159421]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ8日目＃84>>https://www.youtube.com/watch?v=H8BCuF9utqs]]|-|
+|24/01/24|85|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ9日目＃85>>https://www.twitch.tv/videos/2042171327]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ9日目＃85>>https://www.youtube.com/まwatch?v=pAeDO8614ew]]|-|
+|24/01/25|86|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【APEX】渋ハルカスタム最終回！脱☆カスタム番長～約束の楽園（えでん）～>>https://www.twitch.tv/videos/2043080343?t=2h31m50s]]&br()【律可/久我レオ/パカエル】|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ10日目＃86>>https://www.youtube.com/watch?v=4K0Nm0x3Cuo]]|チャプター2がストグラ配信|
+|24/01/26|87|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ11日目＃87>>https://www.twitch.tv/videos/2043977943]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ11日目＃87>>https://www.youtube.comま/watch?v=_Nl4YRfmoVc]]|-|
+|24/01/27|88|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ11日目＃87>>https://www.twitch.tv/videos/2045028032]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ12日目＃88>>https://www.youtube.com/watch?v=hYA7qVOD6XI]]|Twtich枠タイ正しくはコンセルジュ12日目＆ノエル88日目|
+|24/01/28|89|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ13日目＃89>>https://www.twitch.tv/videos/2046084293]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ13日目＃89>>https://www.youtube.com/watch?v=GIk-2pMev7c]]|-|
+|24/01/30|90|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ14日目＃90>>https://www.twitch.tv/videos/2048029860]]|&font(#DA1725){&icon_fa(fa fa-youtubeま-play)}[[コンセルジュ14日目＃90>>https://www.youtube.com/watch?v=TW4KdtBo5yI]]|-|
+|24/01/31|91|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ15日目＃91>>https://www.twitch.tv/videos/2048863027]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ15日目＃91>>https://www.youtube.com/watch?v=3uX96HuFTxA]]|-|
+#table_sorter{even=#F2F2F2,odd=#white}
+#endregion(1月)
+#region(2月)2月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/02/01|92|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ16日目＃92>>https://www.twitch.tv/videos/2049921671]]|&font(#DA1725){&icon_fa(fa fa-youtube-まplay)}[[コンセルジュ16日目＃92>>https://www.youtube.com/watch?v=mu38wbUgKMo]]|-|
+|24/02/02|93|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ17日目＃93>>https://www.twitch.tv/videos/2050759095]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ17日目＃93>>https://www.youtube.com/watch?v=2PKcu11a-Y4]]|-|
+|24/02/03|94|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ18日目＃94>>https://www.twitch.tv/videos/2051877893]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ18日目＃94>>https://www.youtube.com/watch?v=387IdbpNmfA]]|-|
+|24/02/04|95|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ19日目＃95>>https://www.twitch.tv/videos/2052834121]]|&font(#DA1725){&icon_fa(fa fa-youtube-まplay)}[[コンセルジュ19日目＃95>>https://www.youtube.com/watch?v=Jde2AEvg6TY]]|-|
+|24/02/06|96|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ20日目＃96>>https://www.twitch.tv/videos/2054785128]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ20日目＃96>>https://www.youtube.com/watch?v=Q4WSyU5_JNg]]|-|
+|24/02/07|97|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ21日目＃97>>https://www.twitch.tv/videos/2055745163]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ21日目＃97>>https://www.youtube.com/watch?v=MvzxuPU8OAg]]|-|
+|24/02/08|98|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ22日目＃98>>https://www.twitch.tv/videos/2056660104]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ22日目＃98>>https://www.youtube.com/watch?v=Y7PLBlGHBVw]]|-|
+|24/02/09|99|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ23日目＃99>>https://www.twitch.tv/videos/2057584792]]|&font(#DA1725){&icon_fa(fa fa-youtube-まplay)}[[コンセルジュ23日目＃99>>https://www.youtube.com/watch?v=sisr62iedrA]]|-|
+|24/02/10|100|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ24日目＃100>>https://www.twitch.tv/videos/2058634351]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ24日目＃100>>https://www.youtube.com/watch?v=FKTQWS2xJvA]]|-|
+|24/02/11|101|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ24日目＃100>>https://www.twitch.tv/videos/2059614514]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ25日目＃101>>https://www.youtube.com/watch?v=CHWuM19bJro]]|Twtich枠タイ正しくはコンセルジュ25日目＆ノエル101日目|
+|24/02/12|102|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ26日目＃102 >>https://www.twitch.tv/videos/2060595266]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ26日目＃102>>https://www.youtube.com/watch?v=3iNkb4rQTRU]]|-|
+|24/02/13|103|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ27日目＃103>>https://www.twitch.tv/videos/2061508648]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ27日目＃103>>https://www.youtube.com/watch?v=6Qni7VXdgKM]]|-|
+|24/02/15|104|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ28日目＃104>>https://www.twitch.tv/videos/2063369399]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ28日目＃104>>https://www.youtube.com/watch?v=Hg9i2ntxsjM]]|-|
+|24/02/16|105|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ29日目＃105>>https://www.twitch.tv/videos/2064271088]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ29日目＃105>>https://www.youtube.com/watch?v=npRoOZ13diY]]|-|
+|24/02/17|106|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ30日目＃106>>https://www.twitch.tv/videos/2065242977]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ30日目＃106>>https://www.youtube.com/watchま?v=5TdhDC3-9ec]]|-|
+|24/02/21|107|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ31日目＃107>>https://www.twitch.tv/videos/2069385548]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ31日目＃107>>https://www.youtube.com/watch?v=D2UKuzWzgac]]|-|
+|24/02/22|108|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ32日目＃108>>https://www.twitch.tv/videos/2070302817]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ32日目＃108>>https://www.youtube.com/watch?v=ZqLi-AvObuA]]|-|
+|24/02/23|109|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ33日目＃109>>https://www.twitch.tv/videos/2071276790]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ33日目＃109>>https://www.youtube.com/まwatch?v=wuFVk-kIlbA]]|-|
+|24/02/24|110|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃110>>https://www.twitch.tv/videos/2072212712]]|&font(#DA1725){&icon_まfa(fa fa-youtube-play)}[[コンセルジュ＃110>>https://www.youtube.com/watch?v=2fnY6KWMq3k]]|-|
+|24/02/25|111|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃111>>https://www.twitch.tv/videos/2073321594]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ＃111>>https://www.youtube.com/watch?v=ANpQaWyiJl8]]|-|
+|24/02/26|112|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃112>>https://www.twitch.tv/videos/2074238054]]|&font(#DA1725){&icon_fa(fa まfa-youtube-play)}[[コンまセルジュ＃112>>https://www.youtube.com/watch?v=o0YuPYhxNw4]]|-|
+|24/02/27|113|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃113>>https://www.twitch.tv/videos/2075164429]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ＃113>>https://www.youtube.com/watch?v=edYWInaaVbI]]|-|
+|24/02/29|114|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃114>>https://www.twitch.tv/videos/2077058840]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ＃114>>https://www.youtube.com/watch?v=PtmqsZmFGEQ]]|-|
+#endregion(2月)
+#region(3月)3月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/03/01|115|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃115>>https://www.twitch.tv/videos/2077967544]]|&font(#DA1725){&icon_fa(fa fa-youtubeま-play)}[[コンセルジュ＃115>>https://www.youtube.com/watch?v=HNCddYgmE_o]]|-|
+|24/03/02|116|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃116>>https://www.twitch.tv/videos/2078980050]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ＃116>>https://www.youtube.com/watch?v=D7M8JesncNs]]|-|
+|24/03/03|117|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃117>>https://www.twitch.tv/videos/2079898082]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ＃117>>https://www.youtube.com/watch?v=4F15BBK7l-Q]]|-|
+|24/03/05|118|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃118>>https://www.twitch.tv/videos/2081842628]]|&font(#DA1725){&icon_fa(まfa fa-youtube-play)}[[コンセルジュ＃118>>https://www.youtube.com/watch?v=MJHmSO1XZ3o]]|-|
+|24/03/06|119|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃119>>https://www.twitch.tv/videos/2082709129]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ＃119>>https://www.youtube.com/watch?v=KNBny6gxsQs]]|-|
+|24/03/07|120|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃120>>https://www.twitch.tv/videos/2083705419]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ＃120>>https://www.youtube.com/watch?v=hJEPDh9Xe3U]]|-|
+|24/03/09|121|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ＃121>>https://www.twitch.tv/videos/2085638747]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ＃121>>https://www.youtube.com/watch?v=y1_QoNEkqWI]]|-|
+|24/03/10|122|&font(#6441A4){&icon_fa(fa fa-twitch)}[[金稼ぎの編 コンセルジュ＃122>>https://www.twitch.tv/videos/2086632139]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[金稼ぎの編 コンセルジュ＃122>>https:/ま/www.youtube.com/watch?v=O_EfYJhDMWw]]|-|
+|24/03/12|123|&font(#6441A4){&icon_fa(fa fa-twitch)}[[金稼ぎの編 コンセルジュ＃123>>https://www.twitch.tv/videos/2088529832]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[金稼ぎの編 コンセルジュ＃123>>https://www.youtube.com/watch?v=LR62rLbgMwg]]|-|
+|24/03/13|124|&font(#6441A4){&icon_fa(fa fa-twitch)}[[金稼ぎの編 コンセルジュ＃124>>https://www.twitch.tv/videos/2089475791]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[金稼ぎの編 コンセルジュ＃124>>https://www.youtube.com/watch?v=Crq92DlFMd4]]|-|
+|24/03/14|125|&font(#6441A4){&icon_fa(まfa fa-twitch)}[[早番ゴミ拾いリターンズ＃125>>https://www.twitch.tv/videos/2090348804]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[早番ゴミ拾いリターンズ＃125>>https://www.youtube.com/watch?v=dRyIq5VjDWg]]|-|
+|24/03/15|126|&font(#6441A4){&icon_fa(fa fa-twitch)}[[リクルート芳賀 ＃126>>https://www.twitch.tv/videos/2091318600]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[リクルート芳賀　＃126>>https://www.youtube.com/watch?v=dcC4rC8lLNc]]|-|
+|24/03/16|127|&font(#6441A4){&icon_fa(fa fa-twitch)}[[続・リクルート芳賀 ＃127>>https://www.twitch.tv/videos/2092378585]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[続・リクルート芳賀　＃127>>https://www.youtube.com/watch?v=M_m660uRRPA]]|-|
+|24/03/17|128|ま&font(#6441A4){&icon_fa(fa fa-twitch)}[[ダーティーマネー芳賀 ＃128>>https://www.twitch.tv/videos/2093329452]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ダーティーマネー芳賀 ＃128>>https://www.youtube.com/watch?v=Fac0RK_5npA]]|-|
+|24/03/19|129|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ワーカーホリック芳賀 ＃129>>https://www.twitch.tv/videos/2095165970]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ワーカーホリック芳賀 ＃129>>https://www.youtube.com/watch?v=HzHB6ZbStS0]]|-|
+|24/03/20|130|&font(#6441A4){&icon_fa(fa fa-twitch)}[[トリガーハッピー芳賀 ＃130>>https://www.twitch.tv/videos/2096129437]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[トリガーハッピー芳賀 ＃130>>https://www.youtube.com/watch?v=Q1VEdmiPiqs]]|-|
+|24/03/21|131|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ロングスリープ芳賀 ＃131>>https://www.twitch.tv/videos/2097073778]]|&font(#DA1725){&iconま_fa(fa fa-youtube-play)}[[ロングスリープ芳賀 ＃131>>https://www.youtube.com/watch?v=K1-sAFZ6Mac]]|-|
+|24/03/22|132|&font(#6441A4){&icon_fa(fa fa-twitch)}[[マイペース芳賀 ＃132>>https://www.twitch.tv/videos/2098049883]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[マイペース芳賀 ＃132>>https://www.youtube.com/watch?v=PTouxXzzHOU]]|-|
+|24/03/23|133|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ノーウェア芳賀 ＃133>>https://www.twitch.tv/videos/2099040858]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ノーウェア芳賀 ＃133>>https://www.youtube.com/watch?v=OEVoxL5cmuY]]|-|
+|24/03/27|134|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ホームカミング芳賀 ＃134>>https://www.twitch.tv/videos/2102856712]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ホームカミング芳賀 ＃134>>https://www.youtube.com/watch?v=_FvAcxhPp_Q]]|-|
+#endregion(3月)
+#region(4月)4月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/04/01|135|&font(#6441A4){&icon_fa(fa fa-twitch)}[[??????????芳賀 ＃135 ????????? 芳賀ノエル>>https://www.twitch.tv/videos/2106867131]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[???????????芳賀 ＃135 ????????? 芳賀ノエル>>https://www.youtube.com/watch?v=7PIHc5zNjcw]]|※エイプリルフールイベント『[[ストグラシャッフルパージデー]]』|
+|24/04/07|136|&font(#6441A4){&icon_fa(fa fa-twitch)}[[カムバック芳賀 ＃136>>https://www.twitch.tv/videos/2113307310]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[カムバック芳賀 ＃136>>https://www.youtubecom/watch?v=nLflzmOQKNk]]||
+|24/04/09|137|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ミッドナイト芳賀 ＃137>>https://www.twitch.tv/videos/2115157544]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ミッドナイト芳賀 ＃137>>https://www.youtube.com/watch?v=1MaDDM3naQw]]||
+|24/04/10|138|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ショート芳賀 ＃138>>https://www.twitch.tv/videos/2116025846]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ショート芳賀 ＃138>>https://www.youtube.com/watch?v=2yNIAZ4VA_I]]||
+|24/04/14|139|&font(#6441A4){&icon_fa(fa fa-twitch)}[[フライアウェイ芳賀 ＃139>>https://www.twitch.tv/videos/2119604683]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[フライアウェイ芳賀 ＃139>>https://www.youtube.com/watch?v=A6tfLzCgz0A]]||
+|24/04/17|140|&font(#6441A4){&icon_fa(fa fa-twitch)}[[バーサーカー芳賀 140>>https://www.twitch.tv/videos/2122160989]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[バーサーカー芳賀 ＃140>>hhttps://www.youtube.com/watch?v=Bahszs7lDk4]]||
+#endregion(4月)
+#region(5月,close)5月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/05/02|141|&font(#6441A4){&icon_fa(fa fa-twitch)}[[久々の芳賀 ＃141>>https://www.twitch.tv/videos/2135263338]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[久々の芳賀 ＃141>>https://www.youtube.com/watch?v=BpkpwxKehiI]]||
+|24/05/03|142|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ミッドナイト芳賀 ＃142>>https://www.twitch.tv/videos/2136188506]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ミッドナイト芳賀 ＃142>>https://www.youtube.com/watch?v=XPw-zxCmXcU]]||
+|24/05/09|143|&font(#6441A4){&icon_fa(fa fa-twitch)}[[スリーピー芳賀 ＃143>>https://www.twitch.tv/videos/2141322387]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[スリーピー芳賀 ＃143>>https://www.youtube.com/watch?v=6DXWFLSksT8]]||
+|24/05/14|144|&font(#6441A4){&icon_fa(fa fa-twitch)}[[モーニング芳賀 ＃144>>https://www.twitch.tv/videos/2145420386]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[モーニング芳賀 ＃144>>https://www.youtube.com/watch?v=3SX5b3yxHIc]]|ギャングシマ取り1日目|
+|24/05/17|145|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ドンパチ芳賀 ＃145>>https://www.twitch.tv/videos/2147925050]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ドンパチ芳賀 ＃145>>https://www.youtube.com/watch?v=AEUWrRxu4m8]]||
+|24/05/22|146|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ドンパチ芳賀その２ ＃146>>https://www.twitch.tv/videos/2152228273]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ドンパチ芳賀その２ ＃146>>https://www.youtube.com/watch?v=GdB_LGpEUlw]]||
+|24/05/24|147|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ダブル芳賀 ＃147>>https://www.twitch.tv/videos/2153895389]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ダブル芳賀 ＃147>>https://www.youtubecom/watch?v=pYw6oZ4NFaI]]|うっかり薬を服用し声がイケボになる副作用が発生|
+|24/05/25|148|&font(#6441A4){&icon_fa(fa fa-twitch)}[[チル芳賀 ＃148>>https://www.twitch.tv/videos/2154879380]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[チル芳賀 ＃148>>https://www.youtube.com/watch?v=fw7mRON58_8]]||
+|24/05/26|149|&font(#6441A4){&icon_fa(fa fa-twitch)}[[レーシック芳賀 ＃149>>https://www.twitch.tv/videos/2155736594]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[レーシック芳賀 ＃149>>https://www.youtube.com/watch?v=WqRf3Albf0s]]||
+|24/05/28|150|&font(#6441A4){&icon_fa(fa fa-twitch)}[[パーフェクトレーシック芳賀 ＃150>>https://www.twitch.tv/videos/2157354854]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[パーフェクトレーシック芳賀 ＃150>>https://www.youtube.com/watch?v=8xD3U2A2whs]]||
+|24/05/29|151|&font(#6441A4){&icon_fa(fa fa-twitch)}[[コンセルジュ芳賀 ＃151>>https://www.twitch.tv/videos/2158176011]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[コンセルジュ芳賀 ＃151>>https://www.youtube.com/watch?v=IOtogPWskgI]]||
+#endregion(5月)
+#areaedit()
+#region(6月,close)6月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/06/dd|nnn|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]||
+#endregion(6月)
+#areaedit(end)
+#areaedit()
+#region(7月,close)7月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/07/dd|nnn|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>URL]]||
+|24/07/dd|nnn|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]||
+|24/07/dd|nnn|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]||
+|24/07/dd|nnn|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]||
+#endregion(7月)
+#areaedit(end)
+#areaedit()
+#region(8月,close)8月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/08/01|194|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[の　える＃194>>https://www.youtube.com/watch?v=mVDeyNzoIPI&t=54s]]||
+|24/08/02|195|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる＃195 >>https://www.youtube.com/watch?v=tc1WREuPOh0]]||
+|24/08/03|196 |&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる＃196 >>https://www.youtube.com/watch?v=9GvCpzOXiRM]]||
+|24/08/09|197|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる＃197>>https://www.youtube.com/watch?v=L_6IgVIX3ks]]||
+#endregion(8月)
+#areaedit(end)
+#areaedit()
+//👑👑👑9月ここから
+#region(9月,close)9月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/09/03|198|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ひさびさののえる＃198>>https://www.youtube.com/watch?v=Htvuhy-2jl4]]||
+|24/09/04|199|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる＃199>>https://www.youtube.com/watch?v=xxC6g7IRrcg]]||
+|24/09/05|200|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#200>>https://www.youtube.com/watch?v=w3nTaVF6-XA]]||
+|24/09/08|201|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#201>>https://www.youtube.com/watch?v=xpahboN7Kug]]||
+|24/09/10|202|&co(){
+&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#202>>https://www.youtube.com/watch?v=edC0eeLnxQg]]||
+|24/09/11|203|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#203>>https://www.youtube.com/watch?v=3hbSeaprGwM]]||
+|24/09/12|204|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#204>>https://www.youtube.com/watch?v=mOLF0__xhXE]]||
+|24/09/13|205|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#205>>https ://www.youtube.com/watch?v=BcNNr3WpAhA]]||
+|24/09/14|206|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[くろふくのえる#206>>https://www.youtube.com/live/Pv2kKtDfUUA?si=hY_tCeLgnZOsS6YJ]]||
+|24/09/15|207|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[みおくるのえる#207>>https://www.youtube.com/live/7MwhoDYmPQ4?si=ZUG3PGv-sL77vl7I]]||
+|24/09/19|208|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#208>>https://www.youtube.com/live/Ox0haByThis]]||
+|24/09/22|209|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#209>>https//www.youtube.com/live/Y5WgAI9oNfg?si=eNeUXW3ntVOJt0n6]]||
+|24/09/24|210|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#210>>https://www.youtube.com/live/WqbyRmQwI-4?si=n_D5OoOYIJ3bBYQO]]||
+|24/09/25|211|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#211>>https://www.youtube.com/live/W2nr9JRj5Fo?si=lnubxK2a42sFnuJ8]]||
+|24/09/26|212|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#212>>https://www.youtube.com/live/csn8b1N5pBE?si=6QyMcyTLyzQEHqjt]]||
+|24/09/27|213|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#213>>https://www.youtube.com/watch?v=c2uxXAmq9fQ]]||
+|24/09/28|214|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#214>>https://www.youtube.com/watch?v=Mu2uE96R4Ro]]||
+|24/09/29|215|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ちょいうたったのえる#215>>https://www.youtube.com/live/PzsrY2DWOZE]]||
+#endregion(9月)
+#areaedit(end)
+#areaedit()
+//👑👑👑10月ここから
+#region(10月,close)10月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/10/01|216|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#216>>https://www.youtube.com/live/pSXjmEM9h3s?si=hs-LE1UFQG-d45Wu]]||
+|24/10/02|217|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイト>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#217>>https://www.youtube.com/live/sjqF6AnSJCo?si=dXWUj-slCaVaHWap]]||
+|24/10/03|218|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#218>>https://www.youtube.com/live/-nLz2Di2KIY?si=Qs3w2v3--OmGz2pK]]||
+|24/10/04|219|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#219 >>https://www.youtube.com/live/WXm5dzd6y2E]]||
+|24/10/05|220|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#220>>https://www.youtube.com/live/yQDd-NxaTuY?si=qu1qa6keOzQlvvJI ]]||
+|24/10/06|221|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#221>>https://www.youtube.com/live/aDuFgR-Oe6I?si=uJOTvfxKNP4PLUmL ]]||
+|24/10/08|222|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#222>>https://www.youtube.com/live/JRRLwVnniiQ?si=LctV1oZdllUE94IV]]||
+|24/10/09|223|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#223>>https://www.youtube.com/watch?v=Ujs3z1Mr8nw]]||
+|24/10/10|224|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#224>>https://www.youtube.com/live/g0GtIGnw08E?si=ZKJM3Opd3j_Op-gb ]]|餡ブレラとの抗争決定|
+|24/10/11|225|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[こうそうのえる#225>>https://www.youtube.com/live/VW3kOlayGRE?si=xUEOvGi_LvyYWqtc]]|餡ブレラとの抗争|
+|24/10/12|226|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#226>>https://www.youtube.com/live/7OX1oaeHArI?si=rPuZf2pzvmSRSAnB]]||
+|24/10/13|227|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#227>>https://www.youtube.com/live/mDW2Mrq4iuE?si=rA-3vWjli3WfVoWz]]||
+|24/10/15|228|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[のえる#228>>https://www.youtube.com/live/vMQsFak3Iok?si=Po4CC_YSIW2p4C2i ]]||
+|24/10/16|229|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#229>>https://www.youtube.com/live/TzAO_lhXt8w?si=QR9TlAMIh9Wwvf_n]]||
+|24/10/17|230|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#230>>https://www.youtube.com/live/oZzzd3qV1BE?si=9ECe8IsLFElL9BTW]]||
+|24/10/18|231|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#231>>https://www.youtube.com/live/JMbfi9qbIfo?si=h8lFbVMeYCuUNK-9]]||
+|24/10/19|232|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#232>>https://www.youtube.com/live/mVHuzgLeZvc?si=v9YpZ0vmLqEEYbZt ]]||
+|24/10/20|233|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#233>>https://www.youtube.com/live/S6jhsfzQvmM?si=WgfJCYx-pQ5Bc1-s]]||
+|24/10/22|234|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#234>>https://www.youtube.com/live/Upd4nsJy2kY?si=33ohQro5BUSDUoYC ]]||
+|24/10/24|235|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#235>>https://www.youtube.com/watch?v=WD4QqCsS7B4]]||
+|24/10/25|236|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#236>>https://www.youtube.com/live/jig_MZQWUbk?si=GHb1_vtqJHa3yC3S]]||
+|24/10/26|237|&c(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#237>>https://www.youtube.com/live/ac-s9EGbsh4?si=DIexBUE4-MoXHP_S]]||
+|24/10/27|238|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#238>>https://www.youtube.com/watch?v=ZhB8m5qEqrQ]]||
+|24/10/30|239|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ほうかいのえる#239>>https://www.youtube.com/watch?v=TI-ADEvmCbA]]||
+|24/10/31|240|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[そろそろさむねかえたいのえる#240>>https://www.youtube.com/live/Vral6wHY03s?si=ODOGYaRm6TeHXTI_]]||
+#endregion(10月)
+#areaedit(end)
+#areaedit()
+//👑👑👑11月ここから
+#region(11月,close)11月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/11/01|241|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#241>>https://www.youtube.com/live/oaTF6xnDoiw?si=E7cMa_VA7cwwsH5J]]||
+|24/11/02|242|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#242>>https://www.youtube.com/watch?v=remodYCn7Ok]]||
+|24/11/03|243|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#243>>https://www.youtube.com/live/-m1bbTbgZoU?si=mPnEwj_L04RgFtHJ]]||
+|24/11/05|244|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#244>>https://www.youtube.com/live/truFbt_h4G4?si=-]]||
+|24/11/07|245|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#245>>https://www.youtube.com/live/d8BsVDYpYWA?si=vJPrW0W6KUWR4vi3]]||
+|24/11/08|246|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#246>>https://www.youtube.com/live/WcJh6UT9gxM]]||
+|24/11/09|247|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#247>>https://www.youtube.com/live/LjeOvAwQuNM?si=TDqBIL_UtHw9-qve]]||
+|24/11/10|248|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#248>>https://www.youtube.com/watch?v=SGYKSbs9bsI]]||
+|24/11/12|249|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#249>>https://www.youtube.com/live/Y2ZfC_pasoU?si=81FvMHX7sOQAYh8c]]||
+|24/11/13|251|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#250>>https://www.youtube.com/live/oUvPA88q034?si=Af_Nm464u05jy6Sk]]||
+|24/11/14|251|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#251>>https://www.youtube.com/live/ruTgRSQWTBk?si=KACD8dlK9gdI9xYY]]||
+|24/11/19|252|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#252>>https://www.youtube.com/watch?v=u5h6DCCyUjA]]||
+|24/11/20|253|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#253>>https://www.youtube.com/watch?v=lNIMufDehvw]]||
+|24/11/21|254|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[きくのえる#254>>https://www.youtube.com/watch?v=h2nK39KrwjY]]||
+|24/11/22|254|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[すこしのえる#254>>https://www.youtube.com/watch?v=AUlQBmR9lSc]]||
+|24/11/24|255|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#255>https://www.youtube.com/watch?v=Ghd0YBFmSoQ]]||
+|24/11/26|256|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#256>>https://www.youtube.com/watch?v=2kO8rO2V3zQ]]||
+|24/11/27|257|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[のえる#257>>https://www.youtube.com/live/keomqOZR0Lo]]||
+|24/11/28|258|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】のえる#258 ALLIN:芳賀ノエル【パカエル】>>https://www.youtube.com/watch?v=nzJc-6VhPu8]]||
+|24/11/29|259|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】のえる#259 ALLIN:芳賀ノエル【パカエル】>>https://www.youtube.com/live/yCjf-XHj7ok]]||
+|24/11/30|261|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】のえる#261  ALLIN:芳賀ノエル【パカエル】>>https://www.youtube.com/live/W2qFDtCz0z0?si=Uhgsv10Fvzf631qU]]||
+#endregion(11月)
+#areaedit(end)
+#areaedit()
+//👑👑👑12月ここから
+#region(12月,close)12月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|24/12/01|262|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】のえる#262  ALLIN:芳賀ノエル【パカエル】>>https://www.youtube.com/live/KOTg6XGkaig?si=robU5HImTHISWL0w]]||
+|24/12/04|263|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】のえる#263  ALLIN:芳賀ノエル【パカエル】>>https://www.youtube.com/live/XRJptC75MTg?si=-QiLQXih3DiWYqKS]]||
+|24/12/05|264|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】のえる#264  ALLIN:芳賀ノエル【パカエル】>>"【#ストグラ】のえる#264  ALLIN:芳賀ノエル【パカエル】"]]||
+|24/12/06|265|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】すぱむのえる#265 ALLIN:芳賀ノエル【パカエル】>>https://www.youtube.com/live/DIJjO_B7eRI?si=XQns9v5i4XFvLqs6]]||
+|24/12/07|266|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】のえる#266 ALLIN:芳賀ノエル【パカエル】>>https://www.youtube.com/live/N3DUOWucsp4?si=N9XbBC3qfO-9-xdZ]]||
+|24/12/08|267|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】ちょうすこしのえる#267 ALLIN:芳賀ノエル【パカエル】>>https://www.youtube.com/live/mIUOZuVryX0]]||
+//|24/12/10|nnn|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL ]]||
+//|24/12/11|nnn|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL ]]||
+//|24/12/12|nnn|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL ]]||
+#endregion(12月)
+#areaedit(end)
+#endregion(2024年)
+
+//👑👑👑👑👑2025年ここから
+#div(width=330px,bgcolor=#75AEB6){&font(16px,#FFF,b){&space()&icon_fa(fas fa-crown)&space()2025年}}
+//***2025年
+#region(2025年 OPEN,close)CLOSE
+#areaedit()
+//👑👑👑01月ここから
+#region(01月,close)01月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+//|24/mm/dd|nnn|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL ]]||
+#endregion(01月)
+#areaedit(end)
+#endregion(OPEN)
+
+//👑👑👑👑👑2026年ここから
+#div(width=330px,bgcolor=#75AEB6){&font(16px,#FFF,b){&space()&icon_fa(fas fa-crown)&space()2026年}}
+//***2026年
+#region(2026年 OPEN,close)CLOSE
+#areaedit()
+//👑👑👑01月ここから
+#region(01月,close)01月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|26/01/18|001|&co(){&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[こんにちは！芳賀ノエルです！>>https://www.youtube.com/live/FSMDBdBo-k8?si=mib1dVrFhcNEJJ9v ]]||
+#endregion(01月)
+//
+//👑👑👑02月ここから
+#region(02月,close)02月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|26/02/08|002|&font(#6441A4){&icon_fa(fa fa-twitch)}[[芳賀ノエル集め>>https://www.twitch.tv/videos/2692374131]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[芳賀ノエル集め>>https://www.youtube.com/live/_uzPLwI2PpY?si=GTzE7ZT7k5ma8ug1 ]]||
+|26/02/12|003|&font(#6441A4){&icon_fa(fa fa-twitch)}[[爆弾残り3>>https://www.twitch.tv/videos/2695788647]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[爆弾残り3　芳賀ノエルDxffI?si=ynXRcUlcS7xNpjiW ]]||
+|26/02/13|004|&font(#6441A4){&icon_fa(fa fa-twitch)}[[萌え萌えメイドさんデビューま？？>>https://www.twitch.tv/videos/2696582799]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[萌え萌えメイドさんデビューま？？>>https://www.youtube.com/live/L13wrUZ8JMw?si=bO39pRdwJah6xjxd ]]||
+|26/02/28|005|&font(#6441A4){&icon_fa(fa fa-twitch)}[[爆弾起爆寸前残り1つ　芳賀ノエル>>https://www.twitch.tv/videos/2707258843]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[爆弾起爆寸前残り1つ>>https://www.youtube.com/live/NTebapf5VUg?si=D9IsIL6_tyHBK8Df ]]||
+#endregion(02月)
+//
+//👑👑👑03月ここから
+#region(03月,close)03月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|26/03/07|006|&font(#6441A4){&icon_fa(fa fa-twitch)}[[芳賀ノエルを終わらせましょう>>https://www.twitch.tv/videos/2716159723]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[芳賀ノエルを終わらせましょう>>https://www.youtube.com/live/nBfxesTm9V0?si=ehxbUoelU9sVz6EM ]]||
+|26/03/11|007|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2719509626]]、[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2719640847]]&br()　芳賀ノエル　を始めましょう|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[　芳賀ノエル　を始めましょう>>https://www.youtube.com/live/Vamf4DQN4zk?si=4JCpv5UMzlqK__sT ]]||
+|26/03/12|008|&font(#6441A4){&icon_fa(fa fa-twitch)}[[芳賀ノエルを続けましょう>>https://www.twitch.tv/videos/2720355559]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[芳賀ノエルを続けましょう>>https://www.youtube.com/live/zqtBK8ywGJU?si=Gh7kyZsFzg2g6xkt ]]||
+|26/03/13|009|&font(#6441A4){&icon_fa(fa fa-twitch)}[[芳賀ノエルを続けましょう>>https://www.twitch.tv/videos/2721163623]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[芳賀ノエルを続けましょう>>https://www.youtube.com/live/bvrX8sdQEok?si=cajo4QARuKobf6iV ]]||
+|26/03/14|010|&font(#6441A4){&icon_fa(fa fa-twitch)}[[芳賀ノエルを続けるの？>>https://www.twitch.tv/videos/2722034113]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[芳賀ノエルを続けるの？>>https://www.youtube.com/live/JzgDPYjdLG8?si=ruifHOpqm_7IisXi ]]||
+|26/03/15|011|&font(#6441A4){&icon_fa(fa fa-twitch)}[[芳賀ノエルごっこ>>https://www.twitch.tv/videos/2722904907]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[芳賀ノエルごっこ>>https://www.youtube.com/live/XdEdiDokmy8?si=fLkfDw_VZWiYYphv ]]||
+|26/03/19|012|&font(#6441A4){&icon_fa(fa fa-twitch)}[[像、似姿、幻影、面影、偽物、見せかけ　芳賀ノエル>>https://www.twitch.tv/videos/2726284856]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[像、似姿、幻影、面影、偽物、見せかけ　芳賀ノエル>>https://www.youtube.com/live/amwxbgNNUfU?si=mmFYbZGIeA2eDx9w ]]||
+|26/03/20|013|&font(#6441A4){&icon_fa(fa fa-twitch)}[[これからどうすっよ　芳賀ノエル>>https://www.twitch.tv/videos/2727108026]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[これからどうすっよ　芳賀ノエル>>https://www.youtube.com/live/6an5UW4HuBg?si=txAyOexOr5IZI8w5 ]]||
+#endregion(03月)
+//
+//👑👑👑05月ここから
+#region(05月,close)05月
+#table_style(head=center:#BAE5E3){配信日=right,#=center}
+|~配信日|~#|~配信タイトル(Twitch)|~配信タイトル(YouTube)|~備考|h
+|26/05/07|023|&font(#6441A4){&icon_fa(fa fa-twitch)}[[久々なのでおそらく債務者。>>https://www.twitch.tv/videos/2766193399]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[久々なのでおそらく債務者。>>https://www.youtube.com/watch?v=FV1Rof_qgXE]]||
+#endregion(01月)
+#areaedit(end)
+#endregion(OPEN)
+
+***今日の日付:&today()
+**👑&size(25){&color(#75AEB6){&bold(){動}}}画
+//👑👑👑👑👑2024年ここから
+***2024年
+・[[【ストグラ】自称問題解決屋なのに自分の問題事しか解決した事ない焦月ツルギに困惑する【パカエル / 柊ツルギ】>>https://www.youtube.com/watch?v=UN9VkapWoCs]]
+・[[【ストグラ】倉庫でとある事をしたら警察に囲まれてしまうパカエル【パカエル/二十日ネル/日ノ隈らん/しょうじ】>>https://www.youtube.com/watch?v=Z9G8buVFEd0]]
+・[[【ストグラ】タバコ欲しいのに川上に伝わらずノエルに助けを求めるマクドナルド【パカエル/釈迦/ライト】>>https://www.youtube.com/watch?v=aUXhCx2WHv8]]
+・[[【ストグラ】コンセルジュのみんなで白熱する豪華客船【パカエル/ハクナツメ/めぐみちゃんだよ！ /kawase】>>https://www.youtube.com/watch?v=gqWeA5UoPls]]
+・[[【ストグラ】ヘリ中に突然失踪するボスの原因が意外過ぎたｗｗ【パカエル/なつめ先生】>>https://www.youtube.com/watch?v=xASxe2_NqIA]]
+・[[【ストグラ】角刈りレースの開会式で手錠されてしまうズズ【パカエル/ズズ/ralph】>>https://www.youtube.com/watch?v=0O8QMni3w8o]]
+・[[【ストグラ】ヘラシギさんについて警察と議論するハクナツメボス【パカエル/なつめ先生/ぺいんと】>>https://www.youtube.com/watch?v=ZxmYSYkKDjg]]
+・[[【ストグラ】とんでもない話の最中にレイドされてめっちゃ焦りだすパカエル【パカエル】>>https://www.youtube.com/watch?v=wuN5-nbOu2I]]
+・[[【ストグラ】ボス公認？色恋するギャングたちｗｗ【パカエル/なつめ先生】>>https://www.youtube.com/watch?v=espT2YoDrcI]]
+・[[【ストグラ】オイルリグでヘリに追われながら激的な耐えを魅せていく【パカエル/concellge】>>https://www.youtube.com/watch?v=kfes_QeMA-Y]]
+・[[【ストグラ】たけネマ合同ユニオンでバチバチに撃ち合うノエル【NOLIMIT/パカエル】>>https://www.youtube.com/watch?v=araONIQb6kE]]
+・[[【ストグラ】抗争？とある火種エピソードで唖然とする一同【パカエル/ハクナツメ】>>https://www.youtube.com/watch?v=q34oxHFS_0w]]
+・[[【ストグラ】コンビニ強盗でおもしろチェイスに発展してしまうｗｗ【パカエル/青井らだお/猪原ローズ】>>https://www.youtube.com/watch?v=suIuhIx6mYg]]
+・[[【ストグラ】オイルリグで白熱する芳賀ノエル【パカエル/青井らだお/猪原ローズ】>>https://www.youtube.com/watch?v=TF92TzcTyVc]]
+-[[コンセルジュの解散からALLIN加入までの経緯とお話【パカエル】>>https://youtu.be/VH4Jg20WFQQ?si=3NQg5vNvdhH55I14]]
+-[[ALLIN解散のXトレンドを見たパカエルの反応>>https://youtu.be/P4WSp-KO1Ro?si=3c_Ir7TiWNkIQIE0]]
+-[[【ストグラ】負けた方のボスは下っ端に？ALLIN VS 餡ブレラの抗争！芳賀ノエル視点まとめ【パカエル】>>https://youtu.be/TkhP_kZchiU?si=JWLRI4OTpVX8T2Tu]]
+-[[【ストグラ】ALLIN謹慎中のまいにいに過去一ブチギレる芳賀ノエル【パカエル】>>https://youtu.be/ngZJopCZlcs?si=JQEaJ5NFNSzo_7yT]]
+#right(){&link_up(🔝ページTOPへ)}
+
+//👑👑👑👑👑2025年ここから
+***2025年

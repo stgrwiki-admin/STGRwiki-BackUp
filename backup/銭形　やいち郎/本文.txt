@@ -1,0 +1,481 @@
+//旧MOZUタグにつきましては、編集相談所をご確認願います　※ここのCOはご確認次第削除してくださって大丈夫です
+//
+#center(){
+**&size(25){&color(#383872){&icon_fa(fa fa-id-card)}} &size(25){&color(#47478d){プ} &color(#5555aa){ロ} &color(#7272b8){フ} &color(#8d8dc7){ィ} &color(#aaaad5){ー} &color(#e2e2f1){ル}}
+}
+#slide_img(position=left,width=290,height=398)
+{akigata.png,20240929_face.png,銭形闇一郎.png}
+>&font(130%){&bold(){&color(#233B6C){&bold(){『あらよっと』}}}}
+
+//ここからプロフィール
+#table_style(head=#4682b4:#fff){}
+#table_filter(){SEASON1=hide,SEASON2=show}
+|~シーズン|~&icon_fa(fa fa-calendar)|~SEASON1|~SEASON2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(ぜにがた){銭形}　やいち&ruby(ろう){郎}|
+|~本名|~&icon_fa(fa fa-user)|>|&ruby(ぜにがた){銭形}　&ruby(やいちろう){八弌郎}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本（大阪）|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|1993年3月22日 (32歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年8月09日 (&countup(2023/08/09,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd))|
+|~職業|~&icon_fa(fa fa-university)|&s(){ギャング【[[MOZU]]】}（2023/12/10～2024/09/29）&br()&s(){ギャング【[[MOZU]]】}（2024/10/20～2025/8/24）&br()&s()&s(){カフェ}&s(){「[[A2 Cafe]]」}&br()Bar「[[ShanaoR]]」（2024/01/24〜）&br()「ゼニー工務店」&br()[[航空機ディーラー>豆おじさんのエアークラフト]] (2025/09/10~)|イタリアンレストラン【[[acqua ovest]]】&small(){ 従業員 (26/01/02)}&br()【[[AILES ENTERTAINMENT>>AILES]]】&small(){社長}&br()&openclose2(show=▼過去の職業){&br()カジノ【[[LosVegas]]】&small(){(～2026/08/01)}}|
+|~所属|~&icon_fa(fa fa-users)|自治会【[[西サントス]]】|&openclose2(show=▼※秘匿){&br()&s(){【[[わくわくハーデス隊】]]}&br()【[[わくわくハピネス隊]]】}&br()ロックバンド【[[OVER JOKE>>AILES#OVER JOKE]]】|
+|~TwiX|~&icon_fa(fa fa-crow)|@銭形やいち郎||
+|~レーサー名|~&icon_fa(fa fa-user-tag)|&s(){銭形やいち郎}&br()銭Zzzz||
+|~着信音|~&icon_fa(fa fa-music)|『[[銭形漢道～あらよっと～>>https://www.youtube.com/watch?v=dcMyK7rFYfM]]』&br()『[[ゼニーカーニバル～あらよっとサンバ～>>https://youtu.be/y19x7GTngpY?si=Py5PZa-P2KZbOsvz]]』||
+|~プレイヤー|~&icon_fa(fa fa-address-card-o)|>|やいちんさん|
+|~告知等|~&icon_fa(fa fa-bullhorn)|>|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/yaicin_channel]]|
+|~配信場所|~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yaicin_heros]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@yaicinsan]]※アーカイブ動画|
+
+//yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+#center(){
+**&size(25){&color(#383872){&icon_fa(fa fa-spinner fa-pulse fa-fw)}} &size(25){&color(#47478d){基} &color(#5555aa){本} &color(#7272b8){情} &color(#8d8dc7){報}}
+}
+#div(width=330px,bgcolor=#c7d5e2){&size(17){&color(#007cbf){&icon_fa(fa fa-cog)&space()&bold(){基本情報}}}}
+・とある事件で大事な人達を失ってから「正しいこととは何なのか？」という問いに答えを出すべくロスサントスへやってきた。
+//・・[[とある人物＞＞赤城　煉]]を頼りにロスサントスへやってきた。
+・20代のころは荒くれ者だった。
+・初対面の人に自己紹介するとなぜかは分からないが「警察の方ですか？」と返されることがよくある。
+&s(){・今の服装になったのは[[とある人物>不二子　キャスパー]]がきっかけになっている→[[アーカイブ>>https://www.youtube.com/watch?v=uQjFOpKXmGk&t=8542s]]}
+・警察を志し、体験までこぎつけるも不合格となってしまう。
+・表の姿は「銭形 やいち郎」であるが、裏の姿で「闇 一郎」と名乗っており、犯罪を行っている。
+・・闇一郎は警察不合格の反動で黒堕ちした際の半グレ活動中の名前。いろいろヤンチャをしたので現在は闇一郎時代の記憶を封印している(あの時代のことはもう忘れたと語る)
+・ロスサントスにくる前の三年ほど記憶がない。
+・・徐々に記憶を取り戻してきているのか、出身地の方言である関西弁が時折出ることがある。
+・自身をテザラクト推進委員会（布教委員会）と自称する。
+・呼び名：「いち郎」「やいち」「銭形さん」「あらよっとおじさん」
+・・[[MOZU]]内で「いち郎」呼びが主流のため新加入のしろくまくんから「銭形や」までが名字だと勘違いされるハプニングがあった。
+・いち郎の『あらよっと』はギャグシーンのあらゆる場面で使われる便利(？)な返し。ギャグが滑ったとき、うっかりミスが出たときなどいつでもどこでもあらよっと。
+・・「あらよっと」2024年[[ストグラ流行語大賞]]3位受賞
+・・・紅白や流行語大賞のおかげか、「あらよっと」はロスサントスの住民に広く知れ渡ることになる。街中でやいち郎を見かけると「あらよっと！」と話しかけられたり、やいち郎が言う前に「あらよっと」と言われてしまうため「あらよっと」の後に「ポンポン」と返すようになった。この「ポンポン」はやいち郎が、街に来て間もない[[プリンセス　いくら]]に最初に伝授したものである。
+・[[ShanaoR]]のチーフに昇格し人事にも係われるポジションに。支配人ルーファスが起きてこれない日もまめに開店するようになり常連も増えてきた。イベントや突発のライブも開催され売り上げのプールも着実に増加中。
+・・店員に白市民が入ったことでますます開店頻度が増えている(1人で店を開ける許可を与えていないため)。
+・2025年2月11日レーシック手術を行う
+
+#div(width=330px,bgcolor=#c7d5e2){&size(17){&color(#007cbf){&icon_fa(fa-solid fa-magnifying-glass)&space()&bold(){外見}}}}
+●【服装】初期はトレンチコートを着たインターポールの警察官風だったが警察に入れず闇堕ちしてから服装は変わった。現在はMOZU内でもオシャレに気をつかっている勢になっている。
+●【髪型】真ん中分けのおかっぱ風ショートヘアだった期間が長かったが現在はスキンフェードのベリーショートにしていることが多い。ときどき髪型を変えている。
+●ケツあご。ボスからキミトスと2人でケツアゴブラザーズと言われたことがあった。
+●褐色肌
+●サングラス
+●ヒゲ（無いこともあり）
+●右手に龍、左手に虎、背中に[[MOZU]]の刺青が彫られている。
+　※MOZUの刺青を入れる前には侍の刺青が入っていた。今も残る両腕の虎と龍、今は消えた背中の侍は彫り師[[柳田　ライアン]]の最後の作品である。
+***■ 衣装・変装
+#region(衣装倉庫,open)
+|MOZU作業着|MOZU黒スーツ|MOZU戦闘服|私服(黒シャツ)|
+|&image(yaichi_作業服.png,Y=250)|&image(yaichi_mozublacksuit.png,Y=250)|&image(yaichi_battlesuit.png,Y=250)|&image(yaichi_bouzu.png,Y=250)|
+|ShanaoR制服|世界統合用戦闘服|冬コート|結婚式|
+|&image(ShanaoR制服.png,Y=250)|&image(世界統合用戦闘服.png,Y=250)|&image(冬コート.png,Y=250)|&image(結婚式.png,Y=250)|
+|結婚式（豆やん）|ステージ衣装（札吹雪）|半グレ（お団子）|警部っぽい衣装|
+|&image(結婚式_豆やん.png,Y=250)|&image(ステージ衣装_札吹雪.png,Y=250)|&image(半グレ_お団子.png,Y=250)|&image(警部っぽい衣装.png,Y=250)|
+|||||
+|||||
+#endregion(衣装倉庫)
+
+#region(変装)
+|ＭＣ(秋の収穫祭)|ゼェニモン田中|カブトマン紺||
+|&image(yaichi_MC.png,Y=250)|&image(ゼェニモン田中.png,Y=250)|&image(カブトマン紺.png,Y=250)||
+#endregion(変装)
+
+#region(Tattoo)
+|前側|背面|左腕 (夜叉＋虎)||
+|&image(tattoo_両腕前側.png,y=250)|&image(tattoo_背.png,y=250)|&image(tattoo_左腕.png,y=250)||
+#endregion(Tattoo)
+
+
+
+#div(width=330px,bgcolor=#c7d5e2){&size(17){&color(#007cbf){&icon_fa(fa fa-caret-square-o-down)&space()&bold(){性格・趣味嗜好}}}}
+・人当たりが良く、初心者にも積極的に声をかけている。
+・半グレに対しては自身の経験から苦労しているため、対応は温厚で協力的である。
+・都合の悪い事に対し取り繕いをしてしまう癖があるが、都度指導を受け改善傾向にある。
+・歌が好きでよく口ずさんでおりShanaoRで歌うことも。オリジナルの持ち歌もある。&br()★オリジナル曲　[[『銭形漢道～あらよっと～』>>https://www.youtube.com/watch?v=dcMyK7rFYfM]]&br()★2ndシングル　[[『ゼニーカーニバル～あらよっとサンバ～』>>https://youtu.be/y19x7GTngpY?si=cxnf-92zpAhgxfJ2]]&br()★3rdシングル　  『桜花爛漫』&br()
+・ヘリからのレース実況、キミトスIDナンバー1記念パレードのカラス役、秋の収穫祭イベントMCなどの実績あり。アナウンサーやMC的な役割が得意。
+・普段から99アジトの食料やジョイントをこまめに補充していたこともあり、スタッシュの中身の端数が中途半端になっていることに常々憤っていた。
+・・手持ちではなくスタッシュの端数を揃えるようメンバーに根気強く呼びかけたところ、大幅に改善された。
+・初めて加入したサブスクは「[[ハンバーガー教]]」(既に退会済み)
+*これまでのストーリー
+#div(width=330px,bgcolor=#c7d5e2){&size(17){&color(#007cbf){&icon_fa(fa fa-user-secret)&space()&bold(){ギャングとのいざこざ}}}}
+・過去には[[ALLIN]]の[[無馬>無馬　かな]]に師事していたが、高級車購入の為に借金をする際、闇金業を営む無馬ではなくALLINの他のメンバーから金を借り、その事を知った無馬が激怒。無馬が詰めるとやいち郎はALLINのメンバーであれば間接的にALLINに利益をもたらすからと訳の分からない持論を展開し、火に油を注ぐ結果となり、それまでの不手際も重なり無馬に三行半を突き付けられる。
+・[[餡ブレラ]]を牛ブレラと罵倒し、[[ウェスカー>アルフォート　ウェスカー]]に車ごとカーゴボブで吊り上げられ上空から落下させられ、この世界の厳しさを知る事となる。
+
+#div(width=330px,bgcolor=#c7d5e2){&size(17){&color(#007cbf){&icon_fa(fa fa-pagelines)&space()&bold(){更生の道}}}}
+・[[ヴァン　ダーマー]]の助言を受け、固定店舗を持たない事を条件に[[市長>山下　ひろし]]の許可を得てハウジングの壁や床貼り業『ゼニー工務店』を一人で起業。人伝やTwixで宣伝しつつ活動している
+・かつての自分に足りない部分を補うため、白市民として過ごし他の市民との交流も積極的に増やし人脈を築いている
+
+#center()
+**&color(#7272b8){&font(#47478d){&icon_fa(fa fa-user-secret)} MOZUに加入するまでの軌跡}
+#region(開く)
+・犯罪をするようになってから、[[ヴァン　ダーマー]]より大型ミッション時の陽動や索敵のバイトを持ち掛けられる。街に来たばかりの頃に「ブレイキングタウン」に誘われ初心者マークを外し参加した経緯等もあり、ヴァンダーマーとの縁を感じギャングに入るなら[[MOZU]]しかないと思い志願するも断られてしまう。しかし、MOZUへの思いを捨てきれず再度加入を志願する。
+--下積みとして試用期間を設けられ無線の共有や事務所への立ち入りを許可される。大型ミッションでは直接介入ではなく、索敵が主な役割として与えられる。毎日自分に出来る事を精一杯頑張るも空回りが続き数回面談の場が設けられたり、界隈の悪評も手伝い日々ヴァンダーマーの頭を悩ませてしまう。本人の意思とは関係なく伝言ゲームで情報が湾曲し言っていない事も言ったように報告されてしまう。2023/10/21を以て下積みが終了し加入への道は閉ざされる事となる
+--ギャングとしてではなく、[[MOZU]]がフロント企業として開店する店舗で働かないかと打診を受け快諾。花摘み以外の犯罪から足を洗い、市民として生活をする。無線やアジト等に入る事を許可され、素材集めのバイトや警察の動向の情報を流す。又、アジトや倉庫の足りない物資の補給等を誰に頼まれるわけでもなく行う細やかさが垣間見える
+--最初は前線で犯罪が出来ない事に対し物足りなさや銃を持てないせいでメンバーを助けられない歯痒さを感じていたが、裏方として動いていく内に自分にはサポートが合っているのかもしれないと感じ遣り甲斐を持って行動出来るようになった。その背景にはギャングのボスであるヴァンダーマーが率先して地味な作業をコツコツやるのではなく、サポート側の自分が代われるのであればその役割を担いたいという思いがあると一人語りで吐露している
+--フロント企業の開店を待つ間、勉強のためにと[[A2 Cafe]]で働いている
+・白市民として過ごしつつ献身的にMOZUをサポートを続けていたがヴァン　ダーマーに対し[[三階堂　キミトス]]、[[アイドゥラー　ヨシャパテ]]から推薦があり、その後の話し合いで「仲間が血を流している時に共に血を流せない事が悔しい」と発言した気持ちが認められ、2023/12/10に正式にMOZUへ加入となる
+#endregion()
+**&color(#7272b8){&font(#47478d){&icon_fa(fa fa-user-secret)} MOZU}
+#div(width=330px,bgcolor=#c7d5e2){&size(17){&color(#007cbf){&icon_fa(fa fa-users)&space()&bold(){ギャング【MOZU】正式加入後情報(2023/12/10～2024/09/29)}}}}
+・半グレ時代暴れすぎて[[餡ブレラ]]を筆頭に火種を抱えていたやいち郎。[[MOZU]]への門を叩き、その悪名からMOZU内でも様々検討があったのちに長い下積み研修期間があり、最終的にキミトス、ヨシャパテからの推薦を得て正式加入した。
+・早番から入れることが多く組織の細々した補助作業を率先して行っている縁の下の力持ち。食料他の消耗品補充、島維持などの日常で必要不可欠な雑務を自主的にコツコツ行っている。組織を回す潤滑油的な気遣いができる点に定評アリ。
+・ハウジングの腕を上げ、[[MOZU]]の新しい事務所と会議室を担当した。
+・銃や運転はまだまだだと自覚があるが今はボスに購入してもらった高価なヘリ(Volatus)を乗りこなすため日々練習を行い、現在乗りこなせるまでに上達。
+・[[TANKTOP　竹森]]からはお母さん的な存在と思われている。
+・(2024/09/29) MOZUと[[個人医]]間でのトラブルはおおよそ収束したが内部情報漏洩など付随する問題も重なり組織内には重い空気が流れていた。そんな中ボスに全員が呼び出され告げられたのがボス以外全員解雇という重い決定だった。
+・・やいち郎は戸惑うものの、半グレ時代に道に迷ったとき光を示してくれたボスの元へ戻るべく進む決意をした。
+
+#div(width=330px,bgcolor=#c7d5e2){&size(17){&color(#007cbf){&icon_fa(fa fa-users)&space()&bold(){ギャング【MOZU】解雇後情報&br()(2024/09/29～10/20)}}}}
+・解雇後すぐに、MOZU無線に残ると自ら進んで名乗り出た。
+・・まだ解雇を聞いていないメンバーや、今は無線から抜けているメンバーが戻ってきたときに無線に誰もいないと寂しい思いをするだろうからという、仲間の気持ちを慮っての上だった。
+・解雇前から準備をしていた[[ShanaoR]]の自販機に取り組む。
+・・一度研修を落ちた時にMOZUに残れたのはShanaoRのおかげという想いが強く、ShanaoRの売り上げが上がればボスのため、MOZUのためになると考え、解雇後はチーフとして積極的に店を開けた。
+・個人医問題で[[堕夜　だよ]]に相談された際、やいち郎が引き留めたにも関わらず個人医へ話をしにいったことが引っかかっており煮え切らない気持ちでいた。
+・・しかし、だよと直接話をし「（やいち郎と話をして）一度は踏みとどまった」ということを聞き、だよへの不信感は無くなった。
+
+#div(width=330px,bgcolor=#c7d5e2){&size(17){&color(#007cbf){&icon_fa(fa fa-users)&space()&bold(){ギャング【MOZU】新生MOZU合流後&br()(2024/10/20～2025/8/24)}}}}
+・2024年11月23日25時24分、99にてヴァンダーマーから鳥の名「慈鳥」を授かる。別名、烏。
+#region(詳細)閉じる
+・鳥の名を授かる際にヴァン　ダーマーから「都度トラブルが最初は多々あったが、今となっては立派になった」「痒い所に手が届く、縁の下の力持ちとなっている」「お前の組織に対しての慈愛の精神、非常に良いものだ」と伝えられた。それに対しやいち郎は「謹んでお受け致します」と返答した。
+#endregion(詳細)
+
+
+#div(width=330px,bgcolor=#c7d5e2){&size(17){&color(#007cbf){&icon_fa(fa fa-pagelines)&space()&bold(){【MOZU解散後】戦う航空機ディーラー　白市民編&br()(2025/8/25～)}}}}
+・MOZU解散後、航空機ディーラーになるため白市民になる決意を固める。
+・免許取得できるまで、移動は自転車のみ（三台所有）。
+・ロスサントスがピエロに襲われる有事のため、自転車での移動は心もとない。仮免許でも良いから発行してくれないかと警察に相談するも断られる。
+・・それでもやいち郎は諦めず、一番偉い山下市長へ直談判を行った。その時の市長の反応は悪くなく、その後9月9日の記者会見で市長から「犯罪者から足を洗って我々と共に戦ってくれようとしている者」で「犯罪歴が一週間以上ついていない者」は免許を取得できるという異例の措置の発表があった。
+・・・やいち郎は会見後すぐに警察署へと向かいジャック　馬ウアーに車とヘリ、二輪の免許を再発行してもらった。
+・ヘリ免許が取得できた次の日の9月10日、追加で大型免許も取得し航空機ディーラーとして豆おじさんのエアークラフトに就職。
+・・最初の購入者はヘル　アン。
+
+
+*&color(#e0e0e0){&font(#d4d4d4){&icon_fa(fa-solid fa-people-arrows)} 人間関係}
+※情報お気軽に追加・修正お願いします。
+
+#region(元MOZU)閉じる
+***[[ヴァン　ダーマー]]
+・MOZUのボス。やいち郎にとっての光。その背中を追ってここまで来た。
+>お前は本当にダメなヤツだった。&br()だがおまえのそのいぶし銀が今、私には非常に輝いて見えている。&br()――叱った甲斐があったというものだ。
+・(2024/09/29)奇しくも解雇宣言の前にボスからお褒めの言葉があった。
+・・自宅の壁にスプレーでボスの肖像画を飾った。(肖像画は科場諸朋に依頼して作成)
+***[[三階堂　キミトス]]
+・MOZU研修時代にヨシャパテと共にMOZUに推薦してくれたことを恩義に感じている。推薦にあたりやいち郎の尻拭いをするという約束があったため、やいち郎が禊のため坊主にした際にはキミトスも連帯責任で三日間坊主となった。キミトスを「兄貴」と呼び、慕っている。
+***[[TANKTOP　竹森]]
+・やいち郎MOZU加入直後にMOZUに加入したこともあり、お世話係をボス直々に任命されていたことがある。竹森が二代目軍鶏を襲名した時、やいち郎の持っていた柳田のオリジナルZIPPOを竹森にプレゼントした。
+***[[ティキーチック　のすけ]]
+・ヴァン　ダーマーに心酔し、MOZUへの加入を志願したことからShanaoRで働くことになる。PYC従業員だった頃から吹き出るボスへの熱い想い（通称マグマ）を堪え切れず、やいち郎が幾度となく苦言を呈した。やいち郎の強火ファンボであり、大音量であらよっとが流れるラジカセを詰んだ車で走行したり、周りのファンボファンガにやいち郎マウントをとったりする。
+***[[三島　改]]
+・MOZUを志願する際に、ボスと話がしたいと最初にやいち郎へと電話をかけてきた。MOZUではヘリを得意とし、ミッションではやいち郎と二人で空を任せられることも多い。あまり周りに感じさせないが、ミュージックアプリではあらよっとのみのプレイリストをもつなどし、立派なやいち郎のファンボである。
+***[[黒桜　ローレン]]
+・ShanaoRでの職場体験中に黒になる決意をし、何度かやいち郎へ黒の道にいくことへの相談をするなど、やいち郎への信頼は厚い。ギャングへ入る決心を告げた際、その熱い想いを汲んだやいち郎はローレンのMOZU加入を推薦した。やいち郎とはゴムパッチンの絆で結ばれており、2ndシングル発売の時には着信音が鳴るたび告知をしてくれるなどやいち郎のファンボでもある。
+//***[[ぎちょう　じょばーな]]
+//・
+//***[[]]
+//・
+#endregion(元MOZU)
+
+#region(黒市民・闇医者等)閉じる
+
+***[[無馬　かな]]
+・無馬とは運命力が強く、やいち郎は半グレ時代に無馬を師匠と呼んでいた。無馬の乗っていたテザラクトに憧れ、自身もテザラクトに乗れることを目標としていた。
+***[[マクドナルド]]
+・半グレ時代、マクドナルドの方からやいち郎を銀行強盗に誘ってくれるなどし、面倒を見ていてくれていた。
+//***[[アルフォート　ウェスカー]]
+//・
+***[[柳田　ライアン]]
+・研修生としてMOZUへ加入した際、当時のやいち郎の街での評判はあまり良いものではなくMOZUメンバー全員が快く受け入れない中、柳田だけはMOZUのユニフォームである黒スーツを一緒に作ってくれた。その経緯もあり柳田がMOZUを抜けた今でも信頼度は高く、誕生日にはVFのヘラシギに頼み作ってもらったオリジナルZIPPOをプレゼントした。
+***[[山田　カイキ]]
+・MOZU時代、早番として時間を共にすることが多かった。カイキはMOZUを辞めることになったが、辞めた後もブースティングやヘリバトルなど誘いあう気が置けない仲である。カイキの依頼で、やいち郎はママみ同好会本部のハウジングを担当した。現NO LIMIT。
+***[[坂柳　陣平]]
+・MOZUに所属していた時、組織内での認識の違いから一度激しく口論したことがある。その後ボスの仲裁のもと和解。そのことを通じてやいち郎自身は以前よりも陣平を理解できたと感じた。
+***[[光乃　あびす]]
+・やいち郎の強火ファンガ。ShanaoRが開店すればやいち郎に会いに来店する。プリズンにいたためやいち郎の2ndシングル初お披露目の瞬間に間に合わず激凹みした。やいち郎以外でオリジナル曲の着信音を持つ、唯一の住人である。
+***[[八王子　めぐ]]
+・元ShanaoR店員。めぐが頼りにしている大川さんから「銭形は悪いようにはしない」と言われたこともあり、めぐからやいち郎への信頼度は高い。積極的にめぐからデートに誘ってきたりするが、めぐ曰く「おじさんは一番落ちやすいから」らしい。ShanaoRは店内で知り得た情報を外部に漏らしたためクビとなった。&s(){現トリックスター。}
+***[[アイドゥラー　ヨシャパテ]]
+・MOZU研修生時代にキミトスと共にMOZUに推薦してくれたことを恩義に感じている。ヨシャパテがMOZUにいたときは「パテ兄」と呼んでいた。現NO LIMIT。
+
+#endregion(黒市民・闇医者等)
+
+#region(白市民)閉じる
+***[[豆やん]]
+・豆やんのほぼ第一村人として出会う。白市民時代、木こりをやっていたやいち郎が豆やんに木こりを教えたことがある。立場は白と黒であるが、互いに手を組み航空機ディーラーの株式化も考えていた。それまで豆やんはやいち郎のことを「リーダー」と呼んでいたが、航空機ディーラー株式化の話が白紙となり、白と黒の別々の道を頑張ることにした今は「銭形さん」と呼ぶようになった。
+***[[日野間　るた]]
+・やいち郎が日本にいた時、やいち郎の右腕としてSP兼秘書を担っていた。るたは両親のいない自身を拾って育ててくれたやいち郎を『恩人』として慕っており、やいち郎はるたのことを『弟』『弟分』として住民に紹介している。るたはやいち郎のことを「銭形さん」「兄貴」「社長」と呼ぶ。
+
+#endregion(白市民)
+
+#region(警官・救急隊)閉じる
+***[[鬼桃　ぷぅ]]
+・やいち郎に特級呪物が憑りついたとき、特級呪物を取り除いてくれた。それ以降ぷぅを「大先生」と呼んでいる。
+***[[竹井　勝痔]]
+・警察早番組。やいち郎が早番で違法花を摘んでいると、見回り取り締まりを頻繁にしており、朝早くからバチバチとやり合う相手だった。
+
+//***[[つぼ浦　匠]]
+//・
+#endregion(警官・救急隊)
+
+*&color(#e0e0e0){&font(#d4d4d4){&icon_fa(fa-solid fa-pencil)} エピソード}
+
+#region(2024/11/20：シャンプロ主催紅白歌合戦オーディション参加)閉じる
+・救急隊のがみともさんから推薦を受けオーディション参加を打診されて参加。先日できたばかりのオリジナル曲をシャンクズ他審査員の前で披露した。合否は後日発表される。
+>『みなさんの生活の一部に"あらよっと"をお届けにきました』
+
+&image(20241120_audition.jpg)
+
+#endregion(2024/11/20 シャンプロ主催紅白歌合戦オーディション参加)
+
+#region(2024/11/22：天草　蒼への誕生日プレゼントとしてボイス収録)閉じる
+・三否亭　四五六確の依頼により、天草　蒼への誕生日プレゼントとして寝起き甘々ボイスを収録する。概要は、付き合って三ヶ月の彼氏の天草、彼女のやい子（やいち郎）が一緒のベッドで寝ているところ、先に目を覚ましたやい子が寝ている天草に愛を語り掛けるシチュエーション。四五六確と千代田の的確なディレクションもあり、やいち郎自身も満足の作品が出来上がった。
+#endregion(天草　蒼への誕生日プレゼントとしてボイス収録)
+
+#region(2024/12/11：あらよっと居酒屋　開店)閉じる
+
+(編集中)
+
+#endregion(あらよっと居酒屋　開店)
+
+#region(2024/12/16：空き巣グループ「LSP」結成)閉じる
+
+(編集中)
+
+#endregion(空き巣グループ「LSP」結成)
+
+#region(2024/12/22：第一回シャンプロ紅白歌合戦)閉じる
+オーディションに通り、本戦であるDay2に出場。やいち郎としてはイベントで初めての歌唱。もともと出番は全出場者の中で一番目の予定だったが、当日になり[[特別ゲスト>明路　笑生]]がやいち郎の前に歌うことになり、実質二番目（白組では一番目）での歌唱になった。普段は「緊張しない」と自称しているやいち郎だが、この日ばかりは出番前舞台袖でシャンクズに「緊張している」とこぼした。本番は素晴らしいあらよっとな歌声を会場中に響かせ、見事特別ゲストの後という大役を果たした。
+イベント中はギリギリ指名手配中であったため事前に主催のシャンプロと警察と話し合いを行い、イベント終了後に警察署に自ら出頭し自首をした。
+
+#endregion(第一回シャンプロ紅白歌合戦)
+
+***オリジナル曲
+#region(詳細)閉じる
+#size(90%)#table_filter(){発表順=show,タイトル=show,エピソード=show,Music Video=show}
+#table_style(hover=#FFFFFF,head=#000033:#FFFFFF::center)
+|~発表順|~タイトル|~エピソード|Music Video|h
+|1|銭形漢道&br()&space(5)〜あらよっと〜|記念すべきオリジナル一曲目。&br()前々からジョアンナ　町田にオリジナルの着信音が欲しいと依頼しており、その時に「昭和歌謡みたいな曲が良い」と言っていた。&br()その後天（衛星の民）から曲が送られてきた。&br()MVの製作者はりおんさん。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/dcMyK7rFYfM?si=yNa9R9jGyntsBMcn]]|
+|2|ゼニーカーニバル&br()&space(3)〜あらよっとサンバ〜|みんなを元気にしたいというコンセプトの一曲。&br()2025年2月1日、ShanaoRにて初披露。&br()サビの「今日もいい日にしよう」の歌詞は魂が会社勤めをしていた時によく使っていた言葉が好きで採用した。&br()「HAVE A NICE D」の歌詞が“DAY”ではなく“D”なのは、曲が仮歌で送られてきたときに発音が誤ってDになっていたのを、気に入りそのまま採用。&br()歌の最後の「HAVE A NICE D」の後に「DAYね」と言っているのは上野　かみや。&br()かみや本人にセリフとしての使用許可をとっておらず、街の音楽アプリに登録が済んだ後にかみや本人に伝え使用許可を得た。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/y19x7GTngpY?si=tvKnBVmUCbw4x_FZ]]|
+|3|桜花爛漫|銭形を頼り、同時期にMOZUへ加入となったティキーチック　のすけ、三島　改、黒桜　ローレンに向けた一曲。&br()歌詞中の紅桜はのすけ、青桜は改、夜桜はローレンのことである。&br()2025年3月30日、JTS北支店の銭形ワンマンライブの中で初披露。&br()その時、まだ曲にコーラスが入っていなかったり銭形自身歌い込んでいなかったりしたが、豆やんからの「絶対に今歌った方がいい」というアドバイスもあり決行した。||
+|4|夢の向こうへ|夢の世界で販売されている銭形漢道〜あらよっと〜のCDにのみ入っている幻の4曲目。&br()2025年6月20日の衛星で、餡ブレラが解散し気落ちしている伊達咲　政宗を元気づけるために、西サントスのメンバーの前のみで初披露された。&br()今後、ステージで歌ったりMVを作る予定はない。||
+#endregion(詳細)
+
+***銭形やいち郎　名？言集
+#region(詳細)閉じる
+***あらよっと
+・「あらよっと」という言葉はやいち郎がロスサントスに来る前から使っており、挨拶にも話のオチにも使える上に言い方によっても意味合いを変えることができる魔法の言葉だと説明している。
+***ぽんぽん
+・「あらよっと」の合いの手。「あらよっと」の言い方、語気に合わせた「ぽんぽん」を返すと良い。
+***HAVE A NICE D
+・ゼニーカーニバル〜あらよっとサンバ〜の一節。元々ShanaoRに勤務している時に「HAVE A NICE DAY」と言っていたものが転じて、「HAVE A NICE D」になった
+***DAYね
+・「HAVE A NICE D」の合いの手。応用編として、逆に相手に「HAVE A NICE DAY」と言われた場合は「Dね」と返すと良い。
+***メイクデステニーや
+・三否亭　四五六確と星唄　サウ汰がダブルデート後に行く先々で偶然会うことに対してやいち郎が言った言葉。友達から一歩進展させるために、多用した。
+***もしもしおーーい！
+・
+#endregion(詳細)
+
+
+//いったん非表示にしています（消す可能性もあります）
+//***光乃あびすと銭形（～ファンガールと歌手～）
+//#region(詳細)閉じる
+//#size(90%)#table_filter(){日付=hide,できごと=show,詳細=show,リンク=show}
+//#table_style(hover=#223a70,head=#000033:#FFFFFF::center)
+//|~日付|~できごと|詳細|リンク|h
+//|||||
+//|||||
+//|||||
+//#endregion(詳細)
+
+**ゼニー工務店 施工実績&anchor(zenny-koumuten)
+#region(開く,open)閉じる
+#table_filter(){依頼主=show,依頼内容=show,用途=show,備考=show}
+|~依頼主|~依頼内容|~用途|~備考|h
+|ヴァン　ダーマー|ハウジング|アジト||
+|ヴァン　ダーマー|ハウジング|会議室||
+|山田　カイキ|ハウジング|ママみ同好会本部||
+|ヴァン　ダーマー|ハウジング|5024一室||
+|山田　カイキ|リノベージョン|ママみ同好会本部|MOZUと高橋　滅論の関係悪化のため契約破棄|
+|山田　カイキ|ハウジング|串カツ屋お店舗||
+|ヴァン　ダーマー|ハウジング助手|MOZUビル内アジト|うさぎさんを親方とし、合同でハウジングを行う|
+|上田　さん|ハウジング|探偵事務所||
+|||||
+
+
+※お気軽に追加・修正お願いいたします！
+#endregion(ゼニー工務店 施工実績)
+
+*所有動産・不動産
+***&size(30){&color(#246dbf){&icon_fa(fa fa-car)}}&space()&size(20){&color(#007bbb){所有車両 }}
+#region(開く,close)閉じる
+
+#table_filter(){車種名=show,車両名=show,ナンバー=show,備考=hide}
+|~車種名|~車両名|~ナンバー|~備考|h
+|Bike Fixter||JDJO0043||
+|Pegassi Bati901||RUMQ0616||
+|Übermacht Revolter|やいち郎のレボルタ|CGLJ2615||
+|Draugur|ドラウグル|RFLK9335|[[ヴァン　ダーマー]]からのプレゼント|
+|Gallivanter Ballerll||HAVY7790||
+| Bravado Rumpo Custom|やいち郎のランポ|CGLJ2615||
+|Shitzu Hakuchou Drag||QCIL1063||
+|Torero XO|やいち郎のtorero！！|PADQ7218||
+|Canis Freecrawler||VWVO0310||
+|Vysser Neo||ENMM5603||
+|NAGASAKI Snowmobile||COXO5688||
+| Bravado Rumpo Custom|千のランポ|SMIU7841||
+|Enus Jubilee|送迎者|HQVG5723||
+|Overflod Tyrant|やいち郎のタイラント|ZKBS6044||
+|Dinka Vindicator|やいちろうげーたー|RIGA9021||
+
+#endregion
+
+***&size(30){&color(#246dbf){&icon_fa(fa fa-helicopter)}}&space()&size(20){&color(#007bbb){所有ヘリ }}
+#region(開く,close)閉じる
+
+#table_filter(){車種名=show,車両名=show,ナンバー=show,備考=hide}
+|~車種名|~車両名|~ナンバー|~備考|h
+|Maibatsu Frogger|やいち郎のフロガー|AOIG3338||
+|Buckingham Volatus|やいち郎のヴォラタス|TRLM2956||
+|Buckingham SuperVolito Carbon|やいち郎のボリトー|VQEM4759||
+
+#endregion
+
+***&size(30){&color(#246dbf){&icon_fa(fa-solid fa-house)}}&space()&size(20){&color(#007bbb){所有不動産 }}
+//編集のかたへ：『呼称』はたとえば"北の倉庫"など自分で使っている呼び名があれば入れる想定です。『用途』は「倉庫」「ハイドアウトガレージ」「自宅」など。
+
+#region(開く,close)閉じる
+#table_filter(){地番=show,呼称=show,用途=show,備考=show}
+|~地番|~呼称|~用途|~備考|h
+|||||
+#endregion
+
+#center()
+*&size(25){&color(#383872){&icon_fa(fa fa-archive)}} &size(25){&color(#47478d){ア} &color(#5555aa){ー} &color(#7272b8){カ} &color(#8d8dc7){イ} &color(#aaaad5){ブ}}
+***2023年
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~アーカイブ動画|~備考|h
+|2023/08/9|1|[[銭形やいち郎 初プレイ！！！ 何したらいいのかわからない！！！ＷＷ>>https://www.twitch.tv/videos/1894954054]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/0dDC4PkT-hw]]||
+|08/10|2|[[銭形 やいち郎！！！今日は服ほしい。まずは仕事はじめるか。。。。。>>https://www.twitch.tv/videos/1895835038]]|||
+|08/11|3|[[銭形 やいち郎 の素顔！！！ 善となるか悪となるか。>>https://www.twitch.tv/videos/1896710259]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/uQjFOpKXmGk]]||
+|08/12|4|[[銭形 やいち郎 この町で善となるか悪となるか、、、、>>https://www.twitch.tv/videos/1897572584]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/4zJ4z69RNjg]]||
+|~|~|[[ver2 銭形 やいち郎 この町で善となるか悪となるか、、、、>>https://www.twitch.tv/videos/1897828452]]|||
+|08/13|5|[[銭形 やいち郎☺ 善か悪かどっちがただしいんだ、、、、、>>https://www.twitch.tv/videos/1898434939]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/5ffsMincUQw]]||
+|08/14|6|[[銭形 やいち郎☺ 善か悪かどっちがただしいんだ、、、、、>>https://www.twitch.tv/videos/1899273979]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=A9cdO_UYTSo]]||
+|08/15|7|[[銭形 やいち郎☺ 初心者マークがはずれた日。物語がうごきだす、、、、、？？>>https://www.twitch.tv/videos/1900189122]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=dcpxwUfuIXg]]||
+|08/16|8|[[銭形 やいち郎 運命の分岐点>>https://www.twitch.tv/videos/1901105730]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=3qXKuzo2E2g]]||
+|08/17|9|銭形やいち郎 警察入隊か！！？|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=yrcTl39jnmI]]||
+|08/18|10|銭形 やいち郎 心は正義に動くのか、、、、|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=jinxgB9h12c]]||
+|08/19|11|警察官になるために！！！正義の道を突き進む 銭形　警察へのみちが、、、、|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=EgEQY5DnkB4]]||
+|08/20|12|行き場をうしなった銭形、、、、、途方に暮れるこの想いはいったいどこにぶつければ、、、、、、|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=7rqXjcglfJk]]||
+|08/21|13|行き場をうしなった銭形が動き出すか、、気持ちが揺|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=wcmWO2lCNlM]]||
+|08/22|14|銭形ついに動き出す。 今までの迷いは、、、、、噓|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=xvPsvHRj79U]]||
+|08/23|15|銭形やいち郎の第二幕スタート|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=gYZN7pWaFXw]]||
+|08/25|16|闇に落ちた男の下剋上|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=7SHdrYhS7MI]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***2023年　MOZU編
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~アーカイブ動画|~備考|h
+|2023/12/11|1|ストグラ　MOZU編 新章スタート【1日目】／一所懸命／ 銭形 やいち郎|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=0SvdYyOCI64]]||
+|12/12|2|ストグラ MOZU編 【２日目】MOZU編 ／脚下照顧／ 銭形 やいち郎|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=oZ8lpoRCEBA]]||
+|12/13|3|ストグラ MOZU編 【３日目】MOZU編 ／ギャングの心得／ 銭形 やいち郎|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://www.youtube.com/watch?v=HL-7Vsgc9pQ]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***2024年　名もなき翼編
+#region(開く)閉じる
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~アーカイブ動画|~備考|h
+|2024/10/01|1|[[10月スタート！！【ストグラ】名もなき翼 編 / 静寂/ 銭形やいち郎>>https://www.twitch.tv/videos/2264812566 ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/qbdBHyHRed4?si=Okg5yFz9zwoWz4HT]]||
+|10/02|2|[[【ストグラ】名もなき翼 編 Day２/ 歩幅/ 銭形やいち郎>>https://www.twitch.tv/videos/2265630001 ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/xRB5hLVradI?si=Ey9D1G1wvnhp92b4]]||
+|||【ストグラ】名もなき翼 編 Day２/ 歩幅/ 銭形やいち郎 part2|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/oAFKK_56Bzk?si=_lFQK0Pjt8QUWp7y]]||
+|10/03|3|[[【ストグラ】名もなき翼 編 Day3/ 情報/ 銭形やいち郎>>https://www.twitch.tv/videos/2266441672?t=00h00m00s ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/CNwYJ19DyQs?si=D-Ccr6IAqf1pS1Gq]]||
+||3.5|[[【ストグラ】名もなき翼 編 Day3 part 2/ 情報/ 銭形やいち郎>>https://www.twitch.tv/videos/2266596896 ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/1CUF2MvHQwk?si=spZQMwYeXpQQZwKC]]||
+|10/04|4|[[【ストグラ】名もなき翼 編 Day4/ 志/ 銭形やいち郎/>>https://www.twitch.tv/videos/2267233572 ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/Z6AYpoN-mSU?si=ggk_gvKLIiVX7scQ]]||
+|10/05|5|[[【ストグラ】名もなき翼 編 Day5/ 鍛錬/ 銭形やいち郎/>>https://www.twitch.tv/videos/2268177987 ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/fDvyuvk7ivU?si=MjozPE4k-xYWdg0l]]||
+|10/06|6|[[【ストグラ】名もなき翼 編 Day６/ 境界線/ 銭形やいち郎/>>https://www.twitch.tv/videos/2268958423]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/1_tN0CTZvVQ?si=hZYpsw52enNkjB2C]]||
+|10/08|7|[[【ストグラ】名もなき翼 編 Day7/ 求めるもの/ 銭形やいち郎>>https://www.twitch.tv/videos/2270648566 ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/vQFHpcfcVgw?si=fgDEy39xP-3uVBUK]]||
+|10/09|8|[[【ストグラ】名もなき翼 編 Day8/ 重り/ 銭形やいち郎>>https://www.twitch.tv/videos/2271437859 ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/cjDb2qgU5Z4?si=3ljrBAvmAmmdz0VG]]||
+|10/10|9|[[【ストグラ】名もなき翼 編 Day9/ 整理/ 銭形やいち郎>>https://www.twitch.tv/videos/2272273044?t=00h00m00s ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/-ccWFu2efXA?si=nCsC3sZtPFWB1bMQ]]||
+|10/11|10|[[【ストグラ】名もなき翼 編 Day10/ 重ねる/ 銭形やいち郎>>https://www.twitch.tv/videos/2273100761 ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/YzcpsUaOVkQ?si=UIOgpspVEEB-BXfx]]||
+|10/12|11|[[【ストグラ】名もなき翼 編 Day11/ 揺るがない/ 銭形やいち郎>>https://www.twitch.tv/videos/2273956986 ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/6jpjRI0M-Ko?si=dT1NUBJqefAI6ago]]||
+|10/13|12|[[【ストグラ】名もなき翼 編 Day12/ 責任/ 銭形やいち郎>>https://www.twitch.tv/videos/2274845630 ]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/P6O4FNPDQNg?si=st_SHwmB1E0gdIhX]]||
+
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***MOZU 飛翔編
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~アーカイブ動画|~備考|h
+|2024/10/22|1|【ストグラ】MOZU 飛翔 編 /新たなる道 / 銭形やいち郎 新章突入！！！！|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} &font(#DA1725)>>https://youtu.be/QWNHnq2zDLo?si=14Q9UCnMQmKwoysZ]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***切り抜き動画
+#region(開く,open)
+#table_style(head=center:#e6e6fa){投稿日=right,#=center}
+|~投稿日|~#|~動画タイトル||h
+|2024/05/20|1|[[【ストグラ】4ギャング合同客船【餡ブレラ IRIS GBC MOZU】>>https://youtu.be/A2eM0fG_khQ?si=PDO9jzkdTTR22zrh ]]||
+|05/25|2|[[【ストグラ】銭形やいち郎大ピンチの転売疑惑【無馬かな　たらちゃん　山田カイキ】>>https://youtu.be/4t_e0duEEPo?si=03vnIcMU9hVHYEPT]]||
+|05/31|3|[[【ストグラ】LIAR STAGE ～ライアーステージ～　/JTS/ヴァンダーマー/焦月ツルギ>>https://youtu.be/gDyl7PVqnW0?si=OF7yJe4DxzoilFwI ]]||
+|06/04|4|[[【ストグラ】街にワンピースが！？お宝さがし>>https://youtu.be/79rt3XYnil4?si=P0R30EboZ35r-Gzd ]]||
+|07/11|5|[[【ストグラ】決死のユニオン！！！　白熱の逃走劇！！！>>https://youtu.be/-83cyNblTPA?si=SeAERXh9KpYYwzpm ]]||
+|07/14|6|[[【ストグラ】謎だらけのヴァン・ジャーマーに翻弄されるMOZU>>https://youtu.be/hnsspMQe1wM?si=RE6e9SyJGZRzZoTJ ]]||
+|07/19|7|[[【ストグラ】MOZUヘリ盗難事件勃発！？>>https://youtu.be/7xq5znSr-qQ?si=A1liDLk99DQbSQjv ]]||
+|07/22|8|[[【ストグラ】868との島取後　餡ブレラと戦争勃発！？>>https://youtu.be/_u3TpYJDTyQ?si=TqObjXETPIGWjY7i ]]||
+|08/14|9|[[MOZU ヴァンダーマーの帰還　新薬でパーフェクトユニオン>>https://youtu.be/t1HBk29c_jE?si=L0AfjSGLNT9YLjzB ]]||
+|08/25|10|[[【ストグラ】ロスサントスのゴシップ記者が街をかき乱す！？>>https://youtu.be/PBN5W2DK-6Q?si=C1AKCFj_5-ybdR4Z ]]||
+|09/01|11|[[銭形　MOZU脱退！？　JTSのダンス　最高傑作がついに完成>>https://youtu.be/bsspGWHgS_0?si=u1HhDff3dL0OFFWM ]]||
+|09/12|12|[[【ストグラ】マクドナルド選手権 の予選がハイレベルでおもしろすぎた！！>>https://youtu.be/ufmWx5pB4oo?si=Ee7jaikaxTjj9vIl ]]||
+|09/14|13|[[【ストグラ】MOZUに新たな新メンバー　JOIN！！！>>https://youtu.be/QsSwfnno5Pw?si=rbOEPKdzVH0-F73d ]]||
+|09/16|14|[[【ストグラ】ロスサントス史上　初の呪物と三つ巴抗争/MOZU/餡ブレラ/GBC>>https://youtu.be/h_h9eHA_M18?si=VgROLaIuJpbjN-KF ]]||
+|09/17|15|[[【ストグラ】無馬カップ！！MOZU　VS　餡ブレラ　ギャングサッカー抗争勃発！？/ MOZU/餡ブレラ/無馬かな>>https://youtu.be/30otlU7n1F4?si=k44vf6HeYZVbF6gL ]]||
+|09/22|16|[[【ストグラ】警察署長が遂に闇落ち⁉マックひき逃げ事件！！！>>https://youtu.be/eiRSd9QwAxw?si=Wk1NpTS5zPDVtiVI ]]||
+|09/30|17|[[【ストグラ】MOZU　解散！？解雇通告でバラバラに。>>https://youtu.be/wSTP2d3ktsE?si=s8XjT5uol1LuivHR ]]||
+|10/07|18|[[【ストグラ】MOZUの未来　解雇後元NO.2との対話>>https://youtu.be/DKofN3zF8G8?si=xkQaFYvYCiI3lCbp ]]||
+|10/22|19|[[【ストグラ】解雇中に不信な動きARCANA　MOZU　JOIN！？>>https://youtu.be/pfxXoaiSjq4?si=0ittdK7JsPkFd0NO ]]||
+|10/28|20|[[【ストグラ】もう一度空へ　新生 MOZU 飛翔>>https://youtu.be/zclDZMQHAfY?si=HY_BMcE-yUXKA1OI ]]||
+|11/06|21|[[【ストグラ】けっつんが企画した一日メイドカフェが神過ぎた！/二十日ネル/けっつん太郎/八王子めぐ>>https://youtu.be/EnrhtL4gfE8?si=HYMtTn6KinfbXj66 ]]||
+|11/25|22|[[【ストグラ】紅白歌合戦　オーディション～あらよっと～/四皇シャンクズ/無月レオ/うしくん/銭形やいち郎>>https://youtu.be/loj9JO1A4UY?si=cASZl6AvyCxJfG46 ]]||
+|11/29|23|[[ALLIN からの依頼がとんでもなかった銭形やいち郎/千代田ヨウ/三否亭四五六確/エスターク・Z・ダークネス>>https://youtu.be/CI4l6EvlSR0?si=thjsKoLLSvFsex9J ]]||
+|12/09|24|[[MOZU 1年越しに鳥の名をもらう銭形やいち郎/ヴァンダーマー/銭形やいち郎/三階堂キミトス>>https://youtu.be/BG4hihCVam0?si=CxZt9h9ApBqdRAkf ]]||
+|12/16|25|[[世界で一番あらよっとが飛び交った　1日限定あらよっと居酒屋/町田ジョアンナ/隣紀子/銭形やいち郎>>https://youtu.be/J14nKC5ObLc?si=JWXus8Ei6CFByJIp]]||
+|12/21|26|[[闇落ち、元餡ボス　まさかのドリームマッチ　オイルリグ/ひのらん/アルフォート・ウェスカー/小峰れい>>https://youtu.be/JIGyfNyLs3U?si=PjklZsz-KNvm6rTa ]]||
+|12/23|27|[[【ストグラ】第１回シャンプロ紅白歌合戦　本祭　魂の漢道/四皇 シャンクズ/明路笑生(MayJ)/銭形やいち郎>>https://youtu.be/Ff_SlS4j0u8?si=cFbvsfxQqlUDhS7D ]]||
+|12/31|28|[[謎の人物ﾞF゛からの依頼/ヴァンダーマー/銭形やいち郎>>https://youtu.be/MzHsk5UG_gY?si=6_yDCqLi69S17HsO ]]||
+|2025/01/10|29|[[ミラクルがおこった魂のチンチロ！！！/岡野やうじ/ユンユンミ/のすけ/ジャン＝ジャック・ヴァラン>>https://youtu.be/V-eNMWIUbHY?si=qV4a6l0kjf8M0dqk ]]||
+|01/19|30|[[【ストグラ】様子がおかしいNOLIMIT 文殊セイジ　大量発生>>https://youtu.be/GIe05vxBl3c?si=SZ6ofFuHF0Gs4jC9 ]]||
+|01/27|31|[[【ストグラ】過去と未来　MOZU　新メンバーJOIN!?>> https://youtu.be/EYg07MFBW_I?si=lIqW5lyGEHq4S0NP ]]||
+|02/01|32|[[【ストグラ】街でうごめく　NISHIサントス　計画！？/アメザリ平井さん/豆腐さん/しゅりぺさん/やいちんさん>> https://youtu.be/9rI-oo80zy0?si=rmc1a0ev8Pf5kpng]]||
+
+
+
+
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+
+
+***オリジナル曲
+#region(開く,open)
+#table_style(head=center:#e6e6fa){投稿日=right,#=center}
+|~投稿日|~動画タイトル||h
+|2024/11/11|[[銭形漢道～あらよっと～/ 銭形やいち郎/やいちんさん>>https://youtu.be/dcMyK7rFYfM?si=TG1oENf_Rzz-0HR2 ]]||
+|2025/3/10|[[ゼニーカーニバル～あらよっとサンバ～/銭形やいち郎/やいちんさん>>https://youtu.be/y19x7GTngpY?si=kDDVQlrstHFLms-l ]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+
+
+
+
+
+#right(){&link_up(🔝ページTOPへ)}

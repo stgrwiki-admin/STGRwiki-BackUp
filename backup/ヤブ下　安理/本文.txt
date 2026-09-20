@@ -1,0 +1,712 @@
+#region(S1,open)Season1
+#slide_img(auto=4,position=left,width=300,height=415){ヤブ下安理_S1カジュアル1.jpeg,ヤブ下安理_S1カジュアル2.jpg,ヤブ下安理_S1フォーマル.png}
+#endregion(S1)
+#region(S2,open)Season2
+#slide_img(auto=4,position=left,width=300,height=415){ヤブ下安理_S2_1.jpeg,ヤブ下安理_S2_2.jpeg}
+#endregion(S2)
+#region(●● 裏の顔 ●● photos 📷,close)&bold(){●●　📷ティエリ・ブッシュ／クリス・リエン　●●}
+#slide_img(auto=4,position=left,width=300,height=533){ティエリブッシュ_ティエリスーツ.jpg,ティエリブッシュ_クリスメガネ.jpg,ティエリブッシュ_クリスコート.jpg,ティエリブッシュ_クリスマスク1.jpg,ティエリブッシュ_クリスマスク2.jpg}
+#endregion
+
+
+//------------------プロフィール------------------
+#table_filter(){SEASON1=hide,SEASON2=show}
+#table_style(head=#005243:#f7f7f7, hover=#ffffff)
+//{世界線=#f7f7f7}
+//#table_color(#005243)
+|~世界線|~&icon_fa(fa fa-calendar)|~SEASON1|~SEASON2|h
+|~名前|~&icon_fa(fa fa-user)|ヤブ&ruby(した){下}　&ruby(あんり){安理}|ヤブ&ruby(した){下}　&ruby(あんり){安理}&br()&small(){&openclose2(show=🔒γ世界線での名前){&nbsp(br,3)-- 偽名 --&br()●ティエリ・ブッシュ&br()●クリス・リエン(※γ世界線戸籍上本名)&br()●寿 司}}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|1991年07月24日 (&countup(1991/07/24,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年10月28日 (&countup(2023/10/28,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd))|
+|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa fa-tree)&icon_fa(fa fa-utensils)カフェ＆バー「[[Forest]]」&br()&openclose2(show=🔒➡){&icon_fa(fa fa-gun)武器商人「[[FEMME FATALE]]」}&br()&small(){&openclose2(show=過去の職業){&nbsp(br,3)&icon_fa(fa fa-car-rear)高級車ディーラー「[[Marie Motors]]」&nbsp(br,3)&icon_fa(fa fa-car)&icon_fa(fa fa-screwdriver-wrench)メカニック「[[A2 Lab]]」&nbsp(br,3)&icon_fa(fa fa-car)&icon_fa(fa fa-beer-mug-empty)カフェ「[[A2 Cafe]]」}}|&openclose2(show=🔒➡){&br()&icon_fa(fa fa-gun)[[武器商人>FEMME FATALE]]&br()&icon_fa(fa fa-wine-bottle)[[The Artemis]]&small(){スタッフ}}|
+|~住居|~&icon_fa(fa fa-soilid fa-house-user)|9314 高電圧標識のガレージ|7254回転扉・8039アパート|
+|~電話番号|~&icon_fa(fa fa-phone)|(980)704-2157|(205)437-1877|
+|~TwiX|~&icon_fa(fa fa-crow)|@under_bush|@romonly|
+|~レーサー名|~&icon_fa(fa fa-car-on)|Ride on Bush||
+|BGCOLOR(#f5f5f5):~&color(#666666){プレイヤー}|BGCOLOR(#f5f5f5):~&color(#666666){&icon_fa(fa fa-address-card-o)}|>|HENRY-8492|
+|BGCOLOR(#f5f5f5):~&color(#666666){告知等}|BGCOLOR(#f5f5f5):~&color(#666666){&icon_fa(fa fa-bullhorn)}|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X&space()(旧&font(#1da1f2){Twitter})}>>https://twitter.com/henry8492]]|
+|BGCOLOR(#f5f5f5):~&color(#666666){配信場所}|BGCOLOR(#f5f5f5):~&color(#666666){&icon_fa(fa fa-gamepad)}|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/henry_8492]]|
+//S2職業欄につきましてThe Artemisがヤブ下としての採用でないため🔒にいれさせていただきましたkeik26/09/05
+
+#region(目次を開く,close)&icon_fa(fa fa-book-open)目次
+#contents(fromhere=true,level=2)
+#endregion
+//------------------基本情報------------------
+//*&font(27px,#ee7800){基}本情報 &icon_fa(fa fa-id-card-o)
+*&font(30px,#00A66C){基}本情報 &icon_fa(fa fa-address-book)
+#div(width=120px,bgcolor=#005243){&font(16px,b,#02D6AF){&space()● SEASON1 ●}}
+- かなりの車好きで稼いでいるのに常に金欠気味らしい。
+- 運転技術が高く、レースで安定して上位に入る腕前。
+- 初心者用レースのサポートを行うこともある。
+- 飲食品は[[海上レストラン>Urashima]]、[[魔法少女カフェ>RitUal:]]、[[KoKo七番屋]]などその日空いている飲食店をTwixでチェックして調達する。[[A2 Cafe]]の商品は極力食べず他店で買うことを心掛けている。
+#region(外出について　※他視点の情報あり,close)
+- 出かける際に理由を伝え忘れることがある、川上視点で上記のような女性が多く働いている飲食店でよく会うと感じることから、A2の同僚である大川や川上にキャバクラのような店が好きなのでは？と疑われている。
+- ヤブ下視点では2人から直接聞かれたことがなく、1人で出かけた際は買い物・用件が終われば基本的に長居せず帰るため、現状濡れ衣である。
+#endregion(外出)
+- インベントリ・スタッシュの整理整頓が非常に几帳面。
+-- A2ガレージ内スタッシュが社員私物で埋まっていればバックヤードのボススタッシュに移し替える、持ち物を10単位で揃えるなど要所に垣間見れる。
+-- 血液型はA型。※関連性は不明
+//勝手ながら飲食店周りの文言を一部折りたたみ表示化・編集・追記いたしました。読みやすく誤解を招かないよう記載を心掛けていますが、ご要望ございましたら下記スラッシュ後にご相談ください。2024/02/07 22:00
+//
+#region(裏の顔)
+-2024/06/14より[[麻林　ラル]]から[[無馬　かな]]に紹介してもらい、ティエリ・ブッシュとして[[FEMME FATALE]]に所属。
+-2024/12/20、野邪 葉子（のじゃ ようこ）名義でのコンビニ強盗で初犯逮捕。白市民パス、ウェポンライセンス剥奪。
+-2025/01/28、[[無馬　かな]]からBOSSランク付与され、店の全権利を譲渡される。
+-2025/07/20、衛星外にてティエリの姿で武器運搬中にスピード違反で検挙される。ティエリの姿は衛星外の変装ということにし、「自分はよく知らない人に武器運搬を依頼された」と答え、釈放された。
+-2025/08/21、エルメス（女性体型になれる衣装での変装。ティエリの秘書という設定）の姿で運転中、[[マヌ太郎>>ゴンザレス　マヌ太郎]]のパトカーにぶつかりそうになった。逆走と判断され事情聴取を受けた際に車両の中に残っていた武器受注書が見つかってしまい、チェイスの後に逮捕された。DNA鑑定の結果エルメスはヤブ下であると判明したが「性別が違う」と言い張ることで警察を混乱させ、うやむやな状態でプリズンに送られた。武器受注書は押収され、そこに記載されていた[[DERAY]]、[[hantasma]]、[[RqteL]]の3ギャングが指名手配を受け、内[[hantasma]]の構成員が逮捕されてしまった。翌8/22、この騒動の謝罪をする際、エルメスを伴ってティエリが謝罪することが困難であるため、「エルメスはカッとなったティエリが処分した」とカバーストーリーを作り、エルメスの変装は封印。ティエリの正体は誰にもバレずに済んだがヤブ下の女装癖疑惑は残った。
+-2025/09月のピエロ騒動によりティエリの姿で人前に出ることが増えたため、街ブラ用の変装で出歩くことに。E5ピエロ討伐ミッション対応で警察官店員もいる中で、[[月ノ島　ごう]]がティエリを呼ぶ際に「リエンさん」と咄嗟の命名したことから、以降「クリス・リエン」という偽名を用いるようになった。変装の変装まで作ることとなり、ほとんどヤブ下として活動していない現状を嘆いたりした。
+#endregion
+
+#div(width=120px,bgcolor=#005243){&font(16px,b,#02D6AF){&space()● SEASON2 ●}}
+
+#region(γ世界線での顔)
+-前世界線から引き続き、[[武器商人組織>FEMME FATALE]]の代表を務める。
+-武器屋としての変装「ティエリ・ブッシュ」の街ブラ用の姿･偽名であった「クリス･リエン」の状態のまま転送されたため本名が消え去った。「クリス・リエン」として街で生活している。&br()&bold(){本名が転送されなかった男。}
+-前の街から付き合いのある黒市民は「ティエリ」の名で呼ぶ人も多いが、現世界線で初めて挨拶をした白市民などには「クリス・リエン」の名前で自己紹介をしている。
+-ティエリの正体がヤブ下であると明かしているのは、武器屋を創設した[[無馬　かな]]，秘書の[[鬼野　ねね]]及び初期メンバー（[[柳瀬　つん]]，[[不二子　キャスパー]]，[[生雲丹　よづな]]）、無馬にヤブ下を紹介した[[麻林　ラル]]のみと限られていること、また、γ世界線到達当初に名前の変更ができなかったため「ヤブ下　安理」としては動けなくなっている状態である。&br()∟26/06/07 髪型がコーデ保存できるようになったことをきっかけに、ヤブ下の姿で釣り大会イベントに顔を出す。[[チェン　マヨ]]らの前に姿を現し、生きていたのかと驚かれる。あまり起きていないと説明。
+-[[柳瀬　つん]]や[[不二子　キャスパー]]と話す際には、口調や応答がヤブ下に寄ることが多々ある。
+-たまに変装姿「寿 司(ことぶき つかさ)」で病院や街歩きの用事を済ませる。寿司の時は関西弁の気さくな兄ちゃんのように喋る。&br()・「寿司」名前の由来…街中でたまたま名前を訊かれた[[ねずみさん>江口　きの子]]に紅白でめでたいから「寿」と名付けてもらう。「寿」を踏まえて名を[[つん>柳瀬つん]]に「司」（すしとも読める）と名付けられ気に入って使うようになる。赤髪が漬けマグロ、服が多めのシャリ、マスクがわさびとなっている。（※コーデ画像は衣装倉庫参照）よく乗る黒いバイクにまたがっている際は軍艦の状態らしい。
+-[[わんも〜Cafe]]を、立地の良さ･レギ横の[[ケバブ屋>サニーケバブ]]よりも人の目が少ない面から気に入っている。時間がある際は[[牧田　ここな]]店長や店員[[叢雲　るい]]と店内で雑談をし、毎回注文する商品も決まっているくらい行きつけである。
+-愛用たばこは[[川上たばこ店]]41番「LANK CLASSIC DEYALD」。※S1ヤブ下での行動時から変わらず
+-車好きで、カーディーラーには新車が出ているか頻繁に通い、気に入れば即決で購入することも。車のカスタムにもかなりこだわる。
+-たまに口調がギャルになる。
+-ダークチャットの名前はHekmatyarである。
+#region(🐾ペットについて)
+|MIDDLE:1|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/29503/bushS2_pet_roberta.jpg,x=200,y=280)|>|BGCOLOR(#02D6AF):COLOR(#4D4D4F):CENTER:MIDDLE:【ロベルタ】|
+|~|~|BGCOLOR(#02D6AF):COLOR(#4D4D4F):MIDDLE:飼育開始日|MIDDLE:26/09/02～|
+|~|~|BGCOLOR(#02D6AF):COLOR(#4D4D4F):MIDDLE:犬種|MIDDLE:German Shepherd|
+|~|~|BGCOLOR(#02D6AF):COLOR(#4D4D4F):MIDDLE:性別|MIDDLE:メス|
+|~|~|BGCOLOR(#02D6AF):COLOR(#4D4D4F):MIDDLE:価格|MIDDLE:￥270万|
+|~|~|BGCOLOR(#02D6AF):COLOR(#4D4D4F):MIDDLE:備考|MIDDLE:-|
+#endregion(ペット)
+#endregion
+
+#region(γ世界線での人間関係)
+***&color(#02D6AF){&icon_fa(fa fa-users)} γ世界線での人間関係　
+#table_filter(){No.=show,組織･関係性=hide,名前=show,人物詳細=show,備考=hide}
+#table_style(head=center:#005243:#f7f7f7:110%){|~No.|~組織･関係性|~名前|~人物詳細|~備考|h}
+|~組織･関係性|~名前|~人物詳細|~備考|h
+|[[FEMME FATALE]]･[[ARCANA]]|[[柳瀬　つん]]|武器屋No.2のマスコット恐竜。真意を持って仕事に取り組む姿勢に信頼を置き、相談相手でもある部下。&br()γ世界線では白市民のように振る舞い街に紛れているが、元ギャング･元個人医の黒市民としての経験があり白黒区別に関して厳格な考えを持ち、&br()銃にも詳しく、戦闘員としても頼れる存在。ティエリがヤブ下であると知っている希少な人物。|元[[IRiS]]|
+|[[FEMME FATALE]]|[[不二子　キャスパー]]|武器屋への献身的な姿勢に信頼を置いている部下。FEMME FATALE設立当初からヤブ下と同じく外向き白市民の枠で所属し、身分を隠して武器屋の仕事&br()に就いていた。主に素材確保の面で動き、γ世界線からは信頼のおける黒市民には身分を明かし販売員としても動いている。一時MOZUの構成員になる&br()ためFFを退職していたが、二分一の苦渋の選択であったことを理解している。ティエリがヤブ下であると知っている希少な人物。|元[[MOZU]]|
+|[[FEMME FATALE]]|[[菖蒲　光樹]]|γ世界線でも武器屋に関わりたいという意思を聞き続投雇用。しゃっちょ。|元[[IRiS]]BOSS|
+|？？？|[[無馬　かな]]|武器屋FEMME FATALE創設者。ティエリとして無馬から店の権限を譲渡された形だが、創設からの理念や方向性は変えていない。&br()γ世界線ではたまに様子を見に武器屋にも顔を出す。||
+|？？？|[[Back　Alley]]|前世界線からのビジネスパートナー。γ世界線でも武器を作って販売するビジネスをするようティエリに直接接触依頼･設備案内した。&br()設備増築依頼や向こうからの追加の仕事依頼など、必要に応じてメッセージ等で連絡を取っている。||
+|[[ARCANA]]|[[麻林　ラル]]|武器屋関係者以外で唯一ティエリ（クリス・リエン）がヤブ下であると明かしている人物。前世界線で武器屋創設者の無馬にヤブ下を紹介した経緯&br()があり、γ世界線でラルから、消去法でヤブ下なのではないかと訊かれ素性を明かした。||
+|[[ARCANA]]・[[DEP]]|[[加藤　圧]]|麻薬カルテル[[DEP]]のBOSS。前世界線で[[全人類転送ミッション]]の際に協力関係にあり密な情報共有や武器提供などをしていたことから、γ世界線では&br()より強固な協力体制をしくことを話している。ヤブ下としては同郷。||
+|[[ARCANA]]|[[小峯　玲]]|武器屋外部の人間だが、ARCANA所属であったことから武器屋事情を知る人間。武器屋の秘匿性へのクッションとして、武器や素材の仲介を依頼して&br()いる。無馬の秘書的存在と認識しており、黒事情に精通していることからビジネス上での相談などもする関係。|元[[IRiS]]・元[[DERAY]]BOSS|
+|[[ARCANA]]|[[大　川]]|γ世界線で大川の方から声をかけられ、ティエリ（クリス・リエン）として挨拶、その後無馬かな周りの関係者集合時に顔を合わせ改めて挨拶。&br()前世界線ではMOZUの取引現場で顔を合わせたことがある。ヤブ下としては同郷、大川が社長のメカニック店舗A2の元従業員。|[[A2]]|
+|[[DEP]]|[[聖母　れりあ]]|ある日突然接触があり話が合い気に入られ、飼い主とペットのような関係になったおもしれえ女。&br()業務上情報共有やミッション協力等で密に連絡を取っている一方、彼女が心に抱える過去を知ったことをきっかけに気にかけ、黒として生きる中で&br()お互い"自分の為にいなくならないで"という約束をし、起床時の彼女からの生存確認、内面的な相談事にも応じている。ほぼ毎日エサやりをしている。|元[[餡ブレラ]]|
+|[[闇医者]]|[[BB>ゆちゃ　めろでぃ]]|[[闇医者]]の元BOSS。相互補助組織として、物件鍵貸出や情報共有などで連携をとっていた。&br()闇医者組織が、彼女のプライベートに関する出来事によって白市民に露見した問題の責任をとる形で処分され街から姿が消えた。&br()&openclose2(show=※処分の詳細について※){&size(10){命までは奪われておらず[[Back Alley]]に身柄が渡り脳をいじられることになったと[[小峯>小峯　玲]]から共有された}}|元個人医|
+|[[闇医者]]|[[nobody>犬好　マイキー]]|[[闇医者]]のBOSS。||
+|黒市民|[[堕夜　だよ]]|元武器屋FF従業員。前世界線MOZU解散後FFに雇用し、γ世界線でも雇用続投したが、彼の犯罪者ビジネスに向かない行動や考えから組織に置いて&br()おけないと判断しクビにした。&br()復職の意思を受け取りつつ、彼自身や関係者からの話を聞き武器屋組織で求める人材としての自己解決能力がまだ足りていないと判断している。|元[[MOZU]]|
+|白市民|[[牧田　ここな]]|唯一クリスと関わりを持っている白一般市民。行きつけ飲食店わんも～Cafeの店長。駐車場裏の物件を買っていることを他言無用とし明かし、店裏&br()駐車場や周辺物件購入状況について情報共有する仲。前世界線での過去の職業をメカニックや飲食と明かしており、彼女の一時帰国の見送りにも&br()立ち会った等の情報も開示している(※2人で雑談中でのからかい)。&br()&openclose2(show=前世界線での武器商人){&size(8){※明るみになっていないが前世界線ではFFの武器パーツも作成依頼していた}}の顔も世に明るみになっており、そのことや人質プロについて冗談でイジることも。||
+|白市民|[[チェン　マヨ]]|前世界線でのA2での同僚で、ヤブ下として一緒に過ごした時間が長い。&br()γ世界線でヤブ下として街を歩いた日は、覗きに行った釣り大会に一緒に参加たり、彼女が店長の[[ネイルショップ>Ailemu]]がオープンした日には店に訪れ彼女&br()からネイル施術を受けたり買い物をしたりしている。||
+|その他|[[カミ＝ジョウ　レン>カミジョウ　レン]]|クリスを“先生”と呼ぶ。γ世界線からの新規住民で街での所作や鉱山を丁寧に教えたところ慕われ、度々連絡をとっては人生相談に乗っている。&br()身内以外の街中の市民で唯一他愛もない&openclose2(show=フラットな会話){&size(8){パチスロの話題}}ができる話し相手。過去の職業がメカニックであったことも内緒でとして明かしている。||
+#table_autoincrement(){label=No.}
+#table_zebra(#ffffff, #f5f5f5, #005243)
+#table_sorter{even=#f7f7f7,odd=fff}
+//人間関係欄を見られる状態にしてあります。過不足あれば編集してください。keik26/07/12
+
+#endregion
+
+*&font(27px,#00A66C){衣}装倉庫 &icon_fa(fa fa-shirt)
+　&size(11){～ 画像クリックで別タブ表示できます ～}
+
+//------------------Season1　衣装倉庫------------------
+#div(width=120px,bgcolor=#005243){&font(16px,b,#02D6AF){&space()● SEASON1 ●}}
+
+#region(開く,close)
+#table_color(head=#005243:#f7f7f7)
+|&blankimg(bush_cloth_work.png,x=153,y=200)|&blankimg(bush_cloth_casual.png,x=153,y=200)|&blankimg(bush_cloth_formal.jpg,x=153,y=200)|&blankimg(bush_cloth_race.png,x=153,y=200)|
+|CENTER:~作業着&br()&size(12){［メカニック］}|CENTER:~カジュアル2&br()&size(12){［冬服］}|CENTER:~フォーマル&br()&size(12){［ディーラー・よそ行き］}|CENTER:~レース&br()&size(12){［レース用、まず着ない］}|
+|&blankimg(bush_cloth_natsu.png,x=153,y=200)||||
+|CENTER:~夏&br()&size(12){［夏服］}||||
+#endregion(服)
+
+//------------------Season2　衣装倉庫------------------
+#div(width=120px,bgcolor=#005243){&font(16px,b,#02D6AF){&space()● SEASON2 ●}}
+
+#region(開く,open)
+#region(ヤブ下,close)
+****&underdot(#005243,4px){ &font(25px,#005243){●} ヤブ下 安理}
+&font(20px,#02D6AF){●} コーデ
+#region(開く,open)
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26551/bush_clothS2_yabu.jpg,x=270,y=160)|
+|BGCOLOR(#C5D6B9):~ 【ヤブ下】&br()&size(10){26/02/19作成}|
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28426/bush_clothS2_yabu2.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28423/bush_clothS2_yabu2glasses.jpg,x=270,y=160)|
+|BGCOLOR(#C5D6B9):~ 【ヤブ下】&br()&size(10){26/06/07作成}|BGCOLOR(#C5D6B9):~ 【ヤブ下】メガネ有&br()&size(10){26/06/07作成 ※クリス【白】と同一コーデ髪型違い}|
+
+#region(過去消滅コーデ,close)過去消滅コーデ
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26543/bush_clothS2_yabuwinter.jpg,x=270,y=160)|
+|BGCOLOR(#C5D6B9):~ 冬服&br()&size(10){25/12/19作成}|
+#endregion(消滅コーデ)
+#endregion(ヤブ下コーデ)
+
+&font(20px,#02D6AF){●} 髪型
+#region(開く,open)
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28421/bush_clothS2_yabuhair2.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28419/bush_clothS2_yabuhair_setting2.jpg,x=180,y=160)|
+|BGCOLOR(#C5D6B9):~ 髪型&br()&size(10){※顔面は変わる可能性あり}|BGCOLOR(#C5D6B9):~ 髪型髪色設定&br()&size(10){髪色26/06/07～※画像クリックで別タブ表示可}|
+#region(過去消滅髪型髪色,close)過去消滅髪型髪色
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26541/bush_clothS2_yabuhair.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26542/bush_clothS2_yabuhair_setting.jpg,x=180,y=160)|
+|BGCOLOR(#EAEFF2):~ 髪型&br()&size(10){※顔面は変わる可能性あり} |BGCOLOR(#EAEFF2):~ 髪型髪色設定&br()&size(10){髪色～26/06/07※画像クリックで別タブ表示可}|
+#endregion(過去消滅髪型髪色)
+#endregion(ヤブ下髪型)
+#endregion(ヤブ下)
+
+#region(ティエリ,close)
+****&underdot(#72777B,4px){ &font(25px,#72777B){●} ティエリ・ブッシュ（クリス・リエン）}
+&font(20px,#BFC5CA){●} コーデ
+#region(開く,open)
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26545/bush_clothS2_chris_glasses.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):~ 【クリス】&br()&size(10){クリス・リエン メガネ姿 ～26/03/28作成～}|
+#region(参考（マスクなし・顔周り）,close)
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26546/bush_clothS2_chris_nomask.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26790/bush_clothS2_chris_glasses_face.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):~参考：マスク・メガネなし&br()&size(10){&br()}|BGCOLOR(#EAEFF2):~参考：【クリス】顔周り&br()&size(10){&br()}|
+#endregion
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/29495/bush_clothS2_chris_summerwork.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28826/bush_clothS2_chris_coat2.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):~ 【夏仕事】&br()&size(10){クリス・リエン～26/08/09作成　作成協力れりおくん～}|BGCOLOR(#EAEFF2):~ 【コート】&br()&size(10){クリス・リエン 衛星外作成}&br()&size(10){～26/07/08作成(確認) 07/09グローブ追加～}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26791/bush_clothS2_thierry_gasmask.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/29502/bush_clothS2_chris_suit.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):~ 【ティエリ(スーツ)】&br()&size(10){ティエリ・ブッシュ グレースーツ姿×ガスマスク}&br()&size(10){～26/04/02作成(マスク更新)～}|BGCOLOR(#EAEFF2):~ 【スーツ(クリス)】&br()&size(10){クリス・リエン グレースーツ姿×メガネ}&br()&size(10){～26/07/19作成～}|
+#region(参考（ガスマスク）,close)
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/29497/bush_clothS2_thierry_maskcloseup.jpg,x=150,y=210)|
+|BGCOLOR(#EAEFF2):~&size(12){参考：ガスマスク}|
+#endregion
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28526/bush_clothS2_chris_missionsummer.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28932/bush_clothS2_chris_missionyubiaki.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):TOP:~ 【ミッション(夏)】&br()&size(10){クリス・リエン 夏ミッション服 ～26/06/13作成～}|BGCOLOR(#EAEFF2):~ 【ミッション】&br()&size(10){クリス・リエン ミッション服}&br()&size(10){～26/06/25作成　07/12指抜きグローブに更新～}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28522/bush_clothS2_chris_summershits.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28523/bush_clothS2_chris_summerblue.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):~ 【夏シャツ】&br()&size(10){クリス・リエン 夏服 ～26/06/13作成～}|BGCOLOR(#EAEFF2):~ 【夏青】&br()&size(10){クリス・リエン 夏服 ～26/06/13作成～}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/29494/bush_clothS2_chris_blueshirtsummer.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/29496/bush_clothS2_chris_young.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):TOP:~ 【青シャツ夏】&br()&size(10){クリス・リエン ～26/07/24作成～}|BGCOLOR(#EAEFF2):~ 【若い】&br()&size(10){クリス・リエン 夏服 ～26/08/10作成～}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/29523/bush_clothS2_chris_theartemis.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):~ 【The Artemis】&br()&size(10){クリス・リエン　The Artemis黒服制服}&br()&size(10){～26/09/04作成～}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28521/bush_clothS2_thierry_doshihana.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28816/bush_clothS2_thierry_sushi.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):~ 【どしたん話聞こか？】&br()&size(10){-変装-　～26/06/14作成～}|BGCOLOR(#EAEFF2):~ 【寿司】&br()&size(10){-変装-　寿司🍣(ことぶきつかさ)～26/06/21緑マスク追加～}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28815/bush_clothS2_thierry_madao.jpg,x=180,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26548/bush_clothS2_thierry_sagyo.jpg,x=90,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28813/bush_clothS2_thierry_black.jpg,x=90,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/29493/bush_clothS2_thierry_nemaki.jpg,x=90,y=160)|
+|BGCOLOR(#EAEFF2):~ 【マダオ】&br()&size(10){姫一夕に作成依頼　～26/06/21作成～}|BGCOLOR(#EAEFF2):~ 【作業着】&br()&size(10){&br()}|BGCOLOR(#EAEFF2):~ 【黒】&br()&size(10){&br()}|BGCOLOR(#EAEFF2):~ 【寝間着】&br()&size(10){&br()}|
+
+#region(過去消滅コーデ,close)過去消滅コーデ
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26544/bush_clothS2_chris.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26547/bush_clothS2_thierry.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):~ クリス・リエンの姿&br()&size(10){転送時の姿　黒マスク}|BGCOLOR(#EAEFF2):~ ティエリ&br()&size(10){グレースーツ姿×黒マスク　～2026/04/02ガスマスクに更新～}|
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28424/bush_clothS2_chris_hansode.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28814/bush_clothS2_chris_mission.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):~ 【半袖】&br()&size(10){クリス・リエン 夏服 ～26/06/07作成～}|BGCOLOR(#EAEFF2):~ 【ミッション】&br()&size(10){クリス・リエン ミッション服仮面追加 ～26/06/25作成～}|
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/27195/bush_clothS2_thierry_hensou1.JPG,x=270,y=160)|
+|BGCOLOR(#EAEFF2):~ 胡散臭い男 -変装-&br()&size(10){【ヤブ下】コーデを使った変装　〜26/05/09一時作成〜} |
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28425/bush_clothS2_chris_white.jpg,x=270,y=160)|
+|BGCOLOR(#EAEFF2):~ 【白】&br()&size(10){クリス・リエン 夏服 26/06/07作成 ※ヤブ下と髪型違い}|
+
+#endregion(消滅コーデ)
+#endregion(ティエリコーデ)
+
+&font(20px,#BFC5CA){●} 髪型
+#region(開く,open)
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26549/bush_clothS2_thierryhair.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26550/bush_clothS2_thierryhair_setting.jpg,x=180,y=160)|
+|BGCOLOR(#EAEFF2):~ 髪型&br()&size(10){ティエリ・クリス共通※画像未更新}|BGCOLOR(#EAEFF2):~ 髪型髪色設定&br()&size(10){※画像クリックで別タブ表示可}|
+#region(変装,close)変装
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28525/bush_clothS2_thierry_doshihanahair.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28524/bush_clothS2_thierry_doshihanahair_setting.jpg,x=180,y=160)|
+|BGCOLOR(#EAEFF2):~ 髪型&br()&size(10){どしたん話聞こか？}|BGCOLOR(#EAEFF2):~ 髪型髪色設定&br()&size(10){※画像クリックで別タブ表示可}|
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/29498/bush_clothS2_thierry_madaohair.jpg,x=114,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/29492/bush_clothS2_thierry_madaohair_setting.jpg,x=360,y=160)|
+|BGCOLOR(#EAEFF2):~ 髪型・眉・ひげ&br()&size(10){マダオ}|BGCOLOR(#EAEFF2):~ 髪型髪色設定&br()&size(10){※画像クリックで別タブ表示可}|
+#endregion(変装)
+#region(過去消滅髪型髪色,close)過去消滅髪型髪色
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/27194/bush_clothS2_thierry_hensou1hair.JPG,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/27193/bush_clothS2_thierry_hensou1hair_setting.JPG,x=180,y=160)|
+|BGCOLOR(#EAEFF2):~ 【ヤブ下】(26/02/19)コーデ使用変装髪型&br()&size(10){〜26/05/09一時作成〜} |BGCOLOR(#EAEFF2):~ 髪型髪色設定&br()&size(10){※画像クリックで別タブ表示可}|
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/26549/bush_clothS2_thierryhair.jpg,x=270,y=160)|&blankimg(https://img.atwiki.jp/streamergta5/attach/864/28420/bush_clothS2_thierryhair_setting2.jpg,x=180,y=160)|
+|BGCOLOR(#EAEFF2):~ 髪型&br()&size(10){ティエリ・クリス共通} |BGCOLOR(#EAEFF2):~ 髪型髪色設定&br()&size(10){髪色変更～26/05/09※画像クリックで別タブ表示可}|
+#endregion(過去消滅髪型髪色)
+#endregion(ティエリ髪型)
+#endregion(ティエリ)
+#endregion(Season2)
+//S2画像について：縦16:横9のスクリーンショットを組み合わせて編集(横～3枚並べ)したものを、y=160として表示させています
+
+//------------------所有車両------------------
+#include(ヤブ下　安理/所有車両)
+
+&size(13){～所有車両編集はこちら～[[▶所有車両>ヤブ下　安理/所有車両]]}
+#co{子ページ作成しました。子ページで直接部分編集いただくと、こちらの親ページに自動で反映する仕組みになっています。よろしくお願いします。}
+//------------------エピソード------------------
+*&font(27px,#00A66C){エ}ピソード &icon_fa(fa fa-book-bookmark)
+#co{文字数が増えたため子ページ作成しました。子ページで直接部分編集いただくと、こちらの親ページに自動で反映する仕組みになっています。よろしくお願いします。}
+//
+#div(width=120px,bgcolor=#005243){&font(16px,b,#02D6AF){&space()● SEASON1 ●}}
+
+#region(開く,close)
+#include(ヤブ下　安理/S1 2023年～2025年)
+#endregion(Season1)
+
+#div(width=120px,bgcolor=#005243){&font(16px,b,#02D6AF){&space()● SEASON2 ●}}
+
+#region(開く,open)
+#include(ヤブ下　安理/S2 2025年12月～2026年2月)
+#include(ヤブ下　安理/S2 2026年3月～)
+#include(ヤブ下　安理/S2 2026年6月)
+#include(ヤブ下　安理/S2 2026年7月)
+#include(ヤブ下　安理/S2 2026年8月)
+#endregion(Season2)
+----
+&size(15){～エピソード編集はこちらから～&br()｜[[S1>ヤブ下　安理/S1 2023年～2025年]]｜[[S2-1>ヤブ下　安理/S2 2025年12月～2026年2月]]｜[[S2-2>ヤブ下　安理/S2 2026年3月～]]｜[[S2-3>ヤブ下　安理/S2 2026年6月]]｜[[S2-4>ヤブ下　安理/S2 2026年7月]]｜[[S2-5>ヤブ下　安理/S2 2026年8月]]｜}
+----
+
+*&font(27px,#00A66C){ア}ーカイブ &icon_fa(fa fa-archive)
+&font(17px,#00A66C){&bold(){～ アーカイブは2ヶ月で視聴できなくなります ～}}
+
+#div(width=120px,bgcolor=#005243){&font(16px,b,#02D6AF){&space()● SEASON1 ●}}
+
+#region(開く,close)
+***2023年
+#region(開く,close)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/10/28|1|ヤブ下安理 0日目||
+|23/11/11|13|[[【ストグラ】ヤブ下安理 13日目 8000万のスポーツカーが欲しい>>https://www.twitch.tv/videos/1985294990]]||
+|23/11/12|14|[[【ストグラ】ヤブ下安理 14日目 仕事からの仕事>>https://www.twitch.tv/videos/1985296111]]||
+|23/11/13|15|[[【ストグラ】ヤブ下安理 15日目>>https://www.twitch.tv/videos/1985296557]]||
+|23/11/17|19|[[【ストグラ】ヤブ下安理 19日目 今日こそトラック免許取りたい>>https://www.twitch.tv/videos/1992042875]]||
+|23/11/18|20|[[【ストグラ】ヤブ下安理 20日目 ちょっとトラック>>https://www.twitch.tv/videos/1992043022]]||
+|23/11/19|21|[[【ストグラ】ヤブ下安理 21日目 ちょっとトラック>>https://www.twitch.tv/videos/1992043200]]||
+|23/11/20|22|[[【ストグラ】ヤブ下安理 22日目 やはり車が欲しい>>https://www.twitch.tv/videos/1992043355]]||
+|23/11/21|23|[[【ストグラ】ヤブ下安理 23日目 今日はピーナッツレース>>https://www.twitch.tv/videos/1992044141]]||
+|23/11/22|24|[[【ストグラ】ヤブ下安理 24日目 今日はTailgater S>>https://www.twitch.tv/videos/1992044314]]||
+|23/11/23|25|[[【ストグラ】ヤブ下安理 25日目 今日はどの車いじろうかな>>https://www.twitch.tv/videos/1992188825]]||
+|23/11/24|26|[[【ストグラ】ヤブ下安理 26日目 今日はどの車いじろうかな>>https://www.twitch.tv/videos/1992189152]]||
+|23/11/25|27|[[【ストグラ】ヤブ下安理 27日目 今日は遅め>>https://www.twitch.tv/videos/1992189412]]||
+|23/11/26|28|[[【ストグラ】ヤブ下安理 28日目 今日も遅め>>https://www.twitch.tv/videos/1992189775]]||
+|23/11/27|29|[[【ストグラ】ヤブ下安理 29日目 今日も遅め>>https://www.twitch.tv/videos/1992978070]]||
+|23/11/28|30|[[【ストグラ】ヤブ下安理 30日目 のどの調子×>>https://www.twitch.tv/videos/1992978231]]||
+|23/11/29|31|[[【ストグラ】ヤブ下安理 31日目 体調×>>https://www.twitch.tv/videos/1992978435]]||
+|23/11/30|32|[[【ストグラ】ヤブ下安理 32日目 体調×>>https://www.twitch.tv/videos/1992979045]]||
+|23/12/01|33|[[【ストグラ】ヤブ下安理 33日目 遅め>>https://www.twitch.tv/videos/1992979171]]||
+|23/12/02|34|[[【ストグラ】ヤブ下安理 34日目 車屋さん>>https://www.twitch.tv/videos/2003811972]]||
+|23/12/03|35|[[【ストグラ】ヤブ下安理 35日目>>https://www.twitch.tv/videos/2003812151]]||
+|23/12/10|41|[[【ストグラ】ヤブ下安理 41日目 カレー>>https://www.twitch.tv/videos/2012793796]]||
+|23/12/11|42|[[【ストグラ】ヤブ下安理 42日目 遊ぶ>>https://www.twitch.tv/videos/2012794323]]||
+|23/12/12|43|[[【ストグラ】ヤブ下安理 43日目 サルタンRSをいじる>>https://www.twitch.tv/videos/2012794548]]||
+|23/12/14|44|[[【ストグラ】ヤブ下安理 44日目 サルタンRSをいじる>>https://www.twitch.tv/videos/2012794777]]||
+|23/12/15|45|[[【ストグラ】ヤブ下安理 45日目 スーパーカー買うか迷う>>https://www.twitch.tv/videos/2012795227]]||
+|23/12/17|46|[[【ストグラ】ヤブ下安理 46日目 四駆専門家への道>>https://www.twitch.tv/videos/2012795384]]||
+|23/12/18|47|[[【ストグラ】ヤブ下安理 47日目 四駆専門家への道>>https://www.twitch.tv/videos/2012795529]]||
+|23/12/19|48|[[【ストグラ】ヤブ下安理 48日目 四駆専門家への道>>https://www.twitch.tv/videos/2012795757]]||
+|23/12/20|49|[[【ストグラ】ヤブ下安理 49日目 四駆専門家への道>>https://www.twitch.tv/videos/2012795919]]||
+|23/12/21|50|[[【ストグラ】ヤブ下安理 50日目 四駆専門家への道>>https://www.twitch.tv/videos/2012798679]]||
+|23/12/24|51|[[【ストグラ】ヤブ下安理 51日目 四駆専門家への道>>https://www.twitch.tv/videos/2012798883]]||
+|23/12/25|52|[[【ストグラ】ヤブ下安理 52日目 四駆専門家への道>>https://www.twitch.tv/videos/2023322567]]||
+|23/12/26|53|[[【ストグラ】ヤブ下安理 53日目 四駆専門家への道>>https://www.twitch.tv/videos/2023322686]]||
+|23/12/29|56|[[【ストグラ】ヤブ下安理 56日目 四駆専門家への道>>https://www.twitch.tv/videos/2016868706]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//0日目アーカイブ期限切れのためリンク削除　https://www.twitch.tv/videos/1960830323
+***2024年
+#region(開く,close)
+#region(1月~6月,close)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|24/01/05|57|[[【ストグラ】ヤブ下安理 57日目 あけおめ お年玉もらった>>https://www.twitch.tv/videos/2023326536]]||
+|24/01/06|58|[[【ストグラ】ヤブ下安理 58目 今日は人が少ない>>https://www.twitch.tv/videos/2024376288]]||
+|24/01/07|59|[[【ストグラ】ヤブ下安理 59目 家欲しい>>https://www.twitch.tv/videos/2025343821]]||
+|24/01/09|60|[[【ストグラ】ヤブ下安理 60目 家欲しい>>https://www.twitch.tv/videos/2027285898]]||
+|24/01/11|61|[[【ストグラ】ヤブ下安理 60目 家欲しい>>https://www.twitch.tv/videos/2029207264]]|※61日目|
+|24/01/12|62|[[【ストグラ】ヤブ下安理 62目 家欲しい?>>https://www.twitch.tv/videos/2030152039]]||
+|24/01/13|63|[[【ストグラ】ヤブ下安理 63目>>https://www.twitch.tv/videos/2031201293]]||
+|24/01/14|64|[[【ストグラ】ヤブ下安理 64目>>https://www.twitch.tv/videos/2032168245]]||
+|24/01/15|65|[[【ストグラ】ヤブ下安理 65目>>https://www.twitch.tv/videos/2033240872]]||
+|24/01/16|66|[[【ストグラ】ヤブ下安理 66目>>https://www.twitch.tv/videos/2034182189]]||
+|24/01/17|67|[[【ストグラ】ヤブ下安理 67目>>https://www.twitch.tv/videos/2035143385]]||
+|24/01/19|68|[[【ストグラ】ヤブ下安理 68目>>https://www.twitch.tv/videos/2037074510]]||
+|24/01/20|69|[[【ストグラ】ヤブ下安理 69目>>https://www.twitch.tv/videos/2038131057]]||
+|24/01/21|70|[[【ストグラ】ヤブ下安理 70日目>>https://www.twitch.tv/videos/2039157260]]||
+|24/01/23|71|[[【ストグラ】ヤブ下安理 71日目 スタンスキット研究編>>https://www.twitch.tv/videos/2041099926]]||
+|24/01/24|72|【ストグラ】ヤブ下安理 72日目 レース日和[[前編>>https://www.twitch.tv/videos/2042110127]] [[後編>>https://www.twitch.tv/videos/2042368913]]||
+|24/01/25|73|[[【ストグラ】ヤブ下安理 73日目 遅め>>https://www.twitch.tv/videos/2043163540]]||
+|24/01/26|74|[[【ストグラ】ヤブ下安理 74日目 アクロバット運転>>https://www.twitch.tv/videos/2043992986]]||
+|24/01/27|75|[[【ストグラ】ヤブ下安理 75日目 あさイチ起床>>https://www.twitch.tv/videos/2044978482]]||
+|24/01/28|76|[[【ストグラ】ヤブ下安理 75日目 あさイチ起床>>https://www.twitch.tv/videos/2046085515]]|※76日目|
+|24/01/29|77|【ストグラ】ヤブ下安理 77日目[[前半>>https://www.twitch.tv/videos/2047081950]] [[後半>>https://www.twitch.tv/videos/2047143521]]||
+|24/01/30|78|[[【ストグラ】ヤブ下安理 78日目 雪なのでファームです>>https://www.twitch.tv/videos/2047963720]]||
+|24/01/31|79|[[【ストグラ】ヤブ下安理 78日目 雪なのでファームです>>https://www.twitch.tv/videos/2048923733]]|※79日目|
+|24/02/01|80|[[【ストグラ】ヤブ下安理 80日目>>https://www.twitch.tv/videos/2049912078]]||
+|24/02/02|81|[[【ストグラ】ヤブ下安理 81日目 ファーム>>https://www.twitch.tv/videos/2050961965]]||
+|24/02/03|82|[[【ストグラ】ヤブ下安理 82日目 予定は未定>>https://www.twitch.tv/videos/2051786258]]||
+|24/02/04|83|[[【ストグラ】ヤブ下安理 83日目 レース練>>https://www.twitch.tv/videos/2052904962]]||
+|24/02/06|84|[[【ストグラ】ヤブ下安理 84日目 自販機とスタンスキット>>https://www.twitch.tv/videos/2054801080]]||
+|24/02/07|85|[[【ストグラ】ヤブ下安理 85日目 ブレイザーレース>>https://www.twitch.tv/videos/2055724959]]||
+|24/02/08|86|[[【ストグラ】ヤブ下安理 86日目>>https://www.twitch.tv/videos/2056682047]]||
+|24/02/09|87|[[【ストグラ】ヤブ下安理 87日目>>https://www.twitch.tv/videos/2057662760]]||
+|24/02/10|88|[[【ストグラ】ヤブ下安理 88日目>>https://www.twitch.tv/videos/2058641250]]||
+|24/02/11|89|[[【ストグラ】ヤブ下安理 89日目>>https://www.twitch.tv/videos/2059640388]]||
+|24/02/12|90|[[【ストグラ】ヤブ下安理 90日目>>https://www.twitch.tv/videos/2060631086]]||
+|24/02/13|91|[[【ストグラ】ヤブ下安理 91日目>>https://www.twitch.tv/videos/2061553256]]||
+|24/02/14|92|[[【ストグラ】ヤブ下安理 92日目>>https://www.twitch.tv/videos/2062445334]]||
+|24/02/15|93|[[【ストグラ】ヤブ下安理 93日目>>https://www.twitch.tv/videos/2063393723]]||
+|24/02/16|94|[[【ストグラ】ヤブ下安理 94日目>>https://www.twitch.tv/videos/2064296467]]||
+|24/02/17|95|[[【ストグラ】ヤブ下安理 95日目>>https://www.twitch.tv/videos/2065319891]]||
+|24/02/18|96|[[【ストグラ】ヤブ下安理 96日目>>https://www.twitch.tv/videos/2066390952]]||
+|24/02/20|97|[[【ストグラ】ヤブ下安理 97日目>>https://www.twitch.tv/videos/2068311759]]||
+|24/02/22|98|[[【ストグラ】ヤブ下安理 98日目>>https://www.twitch.tv/videos/2070274975]]||
+|24/02/23|99|[[【ストグラ】ヤブ下安理 99日目>>https://www.twitch.tv/videos/2071180385]]||
+|24/02/24|100|[[【ストグラ】ヤブ下安理 100日目>>https://www.twitch.tv/videos/2072192398]]||
+|24/02/25|101|[[【ストグラ】ヤブ下安理 101日目>>https://www.twitch.tv/videos/2073258618]]||
+|24/02/26|102|[[【ストグラ】ヤブ下安理 102日目>>https://www.twitch.tv/videos/2074176168]]||
+|24/02/27|103|[[【ストグラ】ヤブ下安理 103日目>>https://www.twitch.tv/videos/2075132215]]||
+|24/02/28|104|[[【ストグラ】ヤブ下安理 104日目>>https://www.twitch.tv/videos/2076076130]]||
+|24/02/29|105|[[【ストグラ】ヤブ下安理 105日目>>https://www.twitch.tv/videos/2077019807]]||
+
+|24/03/02|106|[[【ストグラ】ヤブ下安理 106日目>>https://www.twitch.tv/videos/2088565736]]||
+|24/03/03|107|[[【ストグラ】ヤブ下安理 107日目>>https://www.twitch.tv/videos/2088565917]]||
+|24/03/05|108|[[【ストグラ】ヤブ下安理 108日目>>https://www.twitch.tv/videos/2088566065]]||
+|24/03/06|109|[[【ストグラ】ヤブ下安理 109日目>>https://www.twitch.tv/videos/2088566253]]||
+|24/03/07|110|[[【ストグラ】ヤブ下安理 110日目>>https://www.twitch.tv/videos/2088566403]]||
+|24/03/08|111|[[【ストグラ】ヤブ下安理 111日目>>https://www.twitch.tv/videos/2088566547]]||
+|24/03/09|112|[[【ストグラ】ヤブ下安理 112日目>>https://www.twitch.tv/videos/2088566668]]||
+|24/03/13|113|[[【ストグラ】ヤブ下安理 114日目>>https://www.twitch.tv/videos/2109615504]]||
+|24/03/14|114|[[【ストグラ】ヤブ下安理 115日目ホワイトデー>>https://www.twitch.tv/videos/2109615657]]||
+|24/03/14|115|[[【ストグラ】ヤブ下安理 115日目ホワイトデー　その２>>https://www.twitch.tv/videos/2109615820]]||
+|24/03/16|116|[[【ストグラ】ヤブ下安理 116日目>>https://www.twitch.tv/videos/2109615968]]||
+|24/03/17|117|[[【ストグラ】ヤブ下安理 117日目>>https://www.twitch.tv/videos/2110395967]]||
+|24/03/21|118|[[【ストグラ】ヤブ下安理 118日目>>https://www.twitch.tv/videos/2111501792]]||
+|24/03/22|119|[[【ストグラ】ヤブ下安理 119日目>>https://www.twitch.tv/videos/2117829640]]||
+|24/03/24|120|[[【ストグラ】ヤブ下安理 120日目>>https://www.twitch.tv/videos/2117829822]]||
+|24/03/26|121|[[【ストグラ】ヤブ下安理 121日目>>https://www.twitch.tv/videos/2117830202]]||
+|24/03/27|122|[[【ストグラ】ヤブ下安理 122日目>>https://www.twitch.tv/videos/2129046585]]||
+|24/03/28|123|[[【ストグラ】ヤブ下安理 123日目>>https://www.twitch.tv/videos/2129046793]]||
+|24/03/29|124|[[【ストグラ】ヤブ下安理 124日目>>https://www.twitch.tv/videos/2129046912]]||
+|24/03/31|125|[[【ストグラ】ヤブ下安理 125日目>>https://www.twitch.tv/videos/2129046986]]||
+
+|24/05/10|134|[[【ストグラ】ヤブ下安理 134日目>>https://www.twitch.tv/videos/2188134193]]||
+|24/05/12|135|[[【ストグラ】ヤブ下安理 135日目>>https://www.twitch.tv/videos/2188134663]]||
+|24/05/16|136|[[【ストグラ】ヤブ下安理 136日目>>https://www.twitch.tv/videos/2188135351]]||
+|24/05/17|137|[[【ストグラ】ヤブ下安理 136日目>>https://www.twitch.tv/videos/2188135489]]|※137日目|
+|24/05/22|138|[[【ストグラ】ヤブ下安理 138日目>>https://www.twitch.tv/videos/2188135713]]||
+|24/05/22|138|[[【ストグラ】ヤブ下安理 138日目>>https://www.twitch.tv/videos/2188136241]]|※一つ前の動画の続きです|
+|24/05/23|139|[[【スト6】寝るまで>>https://www.twitch.tv/videos/2188136680]]|この配信内ではストグラも配信しているため載せています|
+|24/05/30|140|[[【ストグラ】ヤブ下安理 140日目>>https://www.twitch.tv/videos/2188136963]]||
+|24/05/31|141|[[【ストグラ】ヤブ下安理 140日目>>https://www.twitch.tv/videos/2188137314]]|※141日目|
+|24/06/01|142|[[【ストグラ】ヤブ下安理 141日目>>https://www.twitch.tv/videos/2188137615]]|※142日目|
+|24/06/02|143|[[【ストグラ】ヤブ下安理 142日目>>https://www.twitch.tv/videos/2188138111]]|※143日目|
+|24/06/04|144|[[【ストグラ】ヤブ下安理 142日目>>https://www.twitch.tv/videos/2188138810]]|※144日目|
+|24/06/05|145|[[【ストグラ】ヤブ下安理 144日目>>https://www.twitch.tv/videos/2188139100]]|※145日目|
+|24/06/06|146|[[【ストグラ】ヤブ下安理 145日目>>https://www.twitch.tv/videos/2188139306]]|※146日目|
+|24/06/07|147|[[【ストグラ】ヤブ下安理 146日目>>https://www.twitch.tv/videos/2188139620]]|※147日目|
+|24/06/09|148|[[【ストグラ】ヤブ下安理 146日目>>https://www.twitch.tv/videos/2188139843]]|※148日目|
+|24/06/11|149|[[【ストグラ】ヤブ下安理 146日目>>https://www.twitch.tv/videos/2188140042]]|※149日目|
+|24/06/13|150|[[【ストグラ】ヤブ下安理 147日目>>https://www.twitch.tv/videos/2188140383]]|※150日目|
+|24/06/14|151|[[【ストグラ】ヤブ下安理 149日目>>https://www.twitch.tv/videos/2188140670]]|※151日目|
+|24/06/15|152|[[【ストグラ】ヤブ下安理 150日目>>https://www.twitch.tv/videos/2188140852]]|※152日目|
+|24/06/18|153|[[【ストグラ】ヤブ下安理 150日目>>https://www.twitch.tv/videos/2188141114]]|※153日目|
+|24/06/19|154|[[【ストグラ】ヤブ下安理 152日目>>https://www.twitch.tv/videos/2188141322]]|※154日目|
+|24/06/20|155|[[【ストグラ】ヤブ下安理 153日目>>https://www.twitch.tv/videos/2188141537]]|※155日目|
+|24/06/21|156|[[【ストグラ】ヤブ下安理 154日目>>https://www.twitch.tv/videos/2188141744]]|※156日目|
+|24/06/22|157|[[【ストグラ】ヤブ下安理 155日目>>https://www.twitch.tv/videos/2188141908]]|※157日目|
+|24/06/23|158|[[【ストグラ】ヤブ下安理 156日目>>https://www.twitch.tv/videos/2188142270]]|※158日目|
+|24/06/25|159|[[【ストグラ】ヤブ下安理 157日目>>https://www.twitch.tv/videos/2188143084]]|※159日目|
+|24/06/26|160|[[【ストグラ】ヤブ下安理 158日目>>https://www.twitch.tv/videos/2188143084]]|※160日目|
+|24/06/28|161|[[【ストグラ】ヤブ下安理 159日目>>https://www.twitch.tv/videos/2188143524]]|※161日目|
+|24/06/30|162|[[【ストグラ】ヤブ下安理 160日目>>https://www.twitch.tv/videos/2188143695]]|※162日目|
+|24/06/30|162|[[【ストグラ】ヤブ下安理 160日目>>https://www.twitch.tv/videos/2188143863]]|※一つ前の動画の続きです|
+#endregion
+
+#region(7月~12月,close)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|24/07/02|163|[[【ストグラ】ヤブ下安理 161日目>>https://www.twitch.tv/videos/2188144048]]|※163日目|
+|24/08/20|193|[[【ストグラ】ヤブ下安理 193日目>>https://www.twitch.tv/videos/2229238522]]||
+|24/08/21|194|[[【ストグラ】ヤブ下安理 194日目 早め>>https://www.twitch.tv/videos/2229942216]]||
+|24/08/21|194|[[【ストグラ】ヤブ下安理 194日目 その２>>https://www.twitch.tv/videos/2230093421]]|※一つ前の動画の続きです|
+|24/08/23|195|[[【ストグラ】ヤブ下安理 195日目>>https://www.twitch.tv/videos/2231721313]]||
+|24/08/24|196|[[【ストグラ】ヤブ下安理 196日目>>https://www.twitch.tv/videos/2232697189]]||
+|24/08/25|197|[[【ストグラ】ヤブ下安理 197日目 超遅め>>https://www.twitch.tv/videos/2233760968]]||
+|24/08/30|198|[[【ストグラ】ヤブ下安理 198日目 受け渡しだけ>>https://www.twitch.tv/videos/2237800221]]||
+|24/08/30|198|[[【ストグラ】ヤブ下安理 198日目 寝れん>>https://www.twitch.tv/videos/2237989857]]|※一つ前の動画の続きです|
+
+|24/09/02|199|[[【ストグラ】ヤブ下安理 199日目>>https://www.twitch.tv/videos/2242387305]]||
+|24/09/08|200|[[【ストグラ】ヤブ下安理 200日目>>https://www.twitch.tv/videos/2245891304]]||
+|24/09/10|201|[[【ストグラ】ヤブ下安理 202日目>>https://www.twitch.tv/videos/2247534035]]||
+|24/09/11|202|[[【ストグラ】ヤブ下安理 203日目>>https://www.twitch.tv/videos/2248426293]]||
+|24/09/12|203|[[【ストグラ】ヤブ下安理 204日目>>https://www.twitch.tv/videos/2249163152]]||
+|24/09/14|204|[[【ストグラ】ヤブ下安理 205日目>>https://www.twitch.tv/videos/2250912170]]||
+|24/09/17|205|[[【ストグラ】ヤブ下安理 205日目>>https://www.twitch.tv/videos/2253347291]]||
+|24/09/19|206|[[【ストグラ】ヤブ下安理 206日目>>https://www.twitch.tv/videos/2255043131]]||
+|24/09/25|207|[[【ストグラ】ヤブ下安理 207日目>>https://www.twitch.tv/videos/2260040075]]||
+|24/10/05|208|[[【ストグラ】ヤブ下安理 207日目>>https://www.twitch.tv/videos/2268249134]]|※208日目|
+|24/10/08|209|[[【ストグラ】ヤブ下安理 209日目>>https://www.twitch.tv/videos/2270723463]]||
+|24/10/09|210|[[【ストグラ】ヤブ下安理 210日目>>https://www.twitch.tv/videos/2271583259]]||
+|24/10/10|211|[[【ストグラ】ヤブ下安理 211日目>>https://www.twitch.tv/videos/2272418198]]||
+|24/10/11|212|[[【ストグラ】ヤブ下安理 212日目>>https://www.twitch.tv/videos/2273231794]]||
+|24/10/13|213|[[【ストグラ】ヤブ下安理 213日目>>https://www.twitch.tv/videos/2274915438]]||
+|24/10/15|214|[[【ストグラ】ヤブ下安理 214日目>>https://www.twitch.tv/videos/2276611582]]||
+|24/10/17|215|[[【ストグラ】ヤブ下安理 214日目>>https://www.twitch.tv/videos/2278242461]]|※215日目|
+|24/10/18|216|[[【ストグラ】ヤブ下安理 216日目>>https://www.twitch.tv/videos/2279003981]]||
+|24/10/20|217|[[【ストグラ】ヤブ下安理 217日目>>https://www.twitch.tv/videos/2280852439]]||
+|24/10/22|218|[[【ストグラ】ヤブ下安理 218日目>>https://www.twitch.tv/videos/2282454449]]||
+|24/10/24|219|[[【ストグラ】ヤブ下安理 219日目>>https://www.twitch.tv/videos/2284037970]]||
+|24/10/25|220|[[【ストグラ】ヤブ下安理 220日目>>https://www.twitch.tv/videos/2284814595]]||
+|24/10/26|221|[[【ストグラ】ヤブ下安理 221日目>>https://www.twitch.tv/videos/2285790581]]||
+|24/10/27|222|[[【ストグラ】ヤブ下安理 222日目>>https://www.twitch.tv/videos/2286692589]]||
+|24/10/29|223|[[【ストグラ】ヤブ下安理 223日目>>https://www.twitch.tv/videos/2288323432]]||
+|24/10/30|224|[[【ストグラ】ヤブ下安理 224日目>>https://www.twitch.tv/videos/2289146163]]||
+|24/10/31|225|[[【ストグラ】ヤブ下安理 225日目>>https://www.twitch.tv/videos/2290098877]]||
+
+|24/11/01|226|[[【ストグラ】ヤブ下安理 226日目>>https://www.twitch.tv/videos/2290757747]]||
+|24/11/02|227|[[【ストグラ】ヤブ下安理 227日目>>https://www.twitch.tv/videos/2291762020]]||
+|24/11/03|228|[[【ストグラ】ヤブ下安理 228日目>>https://www.twitch.tv/videos/2292650157]]||
+|24/11/05|229|[[【ストグラ】ヤブ下安理 229日目>>https://www.twitch.tv/videos/2294296738]]||
+|24/11/05|229|[[【ストグラ】ヤブ下安理 229日目>>https://www.twitch.tv/videos/2294395381]]|※一つ前の動画の続きです|
+|24/11/07|230|[[【ストグラ】ヤブ下安理 230日目>>https://www.twitch.tv/videos/2295862489]]||
+|24/11/08|231|[[【ストグラ】ヤブ下安理 231日目>>https://www.twitch.tv/videos/2296561733]]||
+|24/11/08|231|[[【ストグラ】ヤブ下安理 231日目>>https://www.twitch.tv/videos/2296732545]]|※前回配信の続き|
+|24/11/10|232|[[【ストグラ】ヤブ下安理 232日目>>https://www.twitch.tv/videos/2298394199]]||
+|24/11/12|233|[[【ストグラ】ヤブ下安理 232日目>>https://www.twitch.tv/videos/2300041123]]|※233日目|
+|24/11/13|234|[[【ストグラ】ヤブ下安理 233日目>>https://www.twitch.tv/videos/2300879076]]|※234日目|
+|24/11/15|235|[[【ストグラ】ヤブ下安理 235日目>>https://www.twitch.tv/videos/2302356419]]||
+|24/11/17|236|[[【ストグラ】ヤブ下安理 236日目>>https://www.twitch.tv/videos/2304114399]]||
+|24/11/20|237|[[【ストグラ】ヤブ下安理 237日目>>https://www.twitch.tv/videos/2306589605]]||
+|24/11/24|238|[[【ストグラ】ヤブ下安理 237日目>>https://www.twitch.tv/videos/2309900718]]|※238日目|
+|24/11/26|239|[[【ストグラ】ヤブ下安理 238日目>>https://www.twitch.tv/videos/2311503164]]|※239日目|
+|24/11/26|239|[[【ストグラ】ヤブ下安理 238日目>>https://www.twitch.tv/videos/2311580731]]|※前回配信の続き|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#endregion
+***2025年
+#region(開く,close)
+#endregion
+#endregion
+
+#div(width=120px,bgcolor=#005243){&font(16px,b,#02D6AF){&space()● SEASON2 ●}}
+***2025年
+#region(12月,close)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/19|01|[[ストグラ S2 何商人？>>https://www.twitch.tv/videos/2647754680]]||
+|12/24|02|[[ストグラ Season2 何商人？>>https://www.twitch.tv/videos/2651881904]]||
+|12/27|03|[[ストグラ S2 / 3日目 / 何商人？>>https://www.twitch.tv/videos/2654125065]]||
+#endregion
+
+***2026年
+#region(1月,close)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/02|04|[[ストグラ S2 / 4日目 / 何商人？>>https://www.twitch.tv/videos/2659261828]]|※01/03am|
+|01/03|05|[[ストグラ S2 / 5日目 / 武器商人>>https://www.twitch.tv/videos/2659957429]]&br()[[ストグラ S2 / 5日目 / 武器商人>>https://www.twitch.tv/videos/2659962738]]|通信環境により枠が分断|
+|01/09|06|[[ストグラ S2 / 6日目 / 武器商人>>https://www.twitch.tv/videos/2665200454]]||
+|01/10|07|[[ストグラ S2 / 6日目 / 武器商人>>https://www.twitch.tv/videos/2666323585]]|※7日目 ※01/11am|
+|01/11|08|[[ストグラ S2 / 7日目 / 武器商人>>https://www.twitch.tv/videos/2667158142]]|※8日目|
+|01/14|09|[[ストグラ S2 / 8日目 / 武器商人>>https://www.twitch.tv/videos/2669775302]]|※9日目|
+|01/15|10|[[ストグラ S2 / 9日目 / 武器商人>>https://www.twitch.tv/videos/2670652489]]|※10日目|
+|01/16|11|[[ストグラ S2 / 10日目 / 武器商人>>https://www.twitch.tv/videos/2671597635]]|※11日目 ※01/17am|
+|01/17|12|[[ストグラ S2 / 11日目 / 武器商人>>https://www.twitch.tv/videos/2672540268]]|※12日目 ※01/18am|
+|01/18|13|[[ストグラ S2 / 12日目 / 武器商人>>https://www.twitch.tv/videos/2673489758]]|※13日目 ※01/19am|
+|01/21|14|[[ストグラ S2 / 13日目 / 武器商人>>https://www.twitch.tv/videos/2676086995]]|※14日目|
+|01/22|15|[[ストグラ S2 / 14日目 / 武器商人>>https://www.twitch.tv/videos/2676916126]]|※15日目|
+|01/23|16|[[ストグラ S2 / 15日目 / 武器商人>>https://www.twitch.tv/videos/2677763277]]|※16日目|
+|01/28|17|[[ストグラ S2 / 16日目 / 武器商人>>https://www.twitch.tv/videos/2682563157]]|※17日目 ※01/29am|
+|01/30|18|[[ストグラ S2 / 17日目 / 武器商人>>https://www.twitch.tv/videos/2684249748]]|※18日目|
+|01/31|19|[[ストグラ S2 / 18日目 / 武器商人>>https://www.twitch.tv/videos/2685298836]]|※19日目 ※02/01am|
+#endregion
+#region(2月,close)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/01|20|[[ストグラ S2 / 19日目 / 武器商人>>https://www.twitch.tv/videos/2686154801]]|※20日目|
+|02/05|21|[[ストグラ S2 / 20日目 / 武器商人>>https://www.twitch.tv/videos/2689639820]]|※21日目|
+|02/07|22|[[ストグラ S2 / 21日目 / 武器商人 短め>>https://www.twitch.tv/videos/2685298836]]|※22日目|
+|02/08|23|[[ストグラ S2 / 22日目 / 武器商人>>https://www.twitch.tv/videos/2685298836]]|※23日目|
+|02/13|24|[[ストグラ S2 / 23日目 / 武器商人>>https://www.twitch.tv/videos/2696554051]]|※24日目|
+|02/14|25|[[ストグラ S2 / 24日目 / 武器商人>>https://www.twitch.tv/videos/2697506858]]|※25日目|
+|02/15|26|[[ストグラ S2 / 25日目 / 武器商人>>https://www.twitch.tv/videos/2698374150]]|※26日目|
+|02/18|27|[[ストグラ S2 / 26日目 / 武器商人>>https://www.twitch.tv/videos/2701122940]]|※27日目|
+|02/19|28|[[ストグラ S2 / 27日目 / 武器商人>>https://www.twitch.tv/videos/2701973216]]|※28日目|
+|02/28|29|[[ストグラ S2 / 28日目 / 武器商人>>https://www.twitch.tv/videos/2710112045]]|※29日目|
+#endregion
+#region(3月,close)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/01|30|[[ストグラ S2 / 29日目 / 武器商人>>https://www.twitch.tv/videos/2710897948]]|※30日目|
+|03/04|31|[[ストグラ S2 / 30日目 / 武器商人>>https://www.twitch.tv/videos/2713507115]]|※31日目|
+|03/05|32|[[ストグラ S2 / 31日目 / 武器商人>>https://www.twitch.tv/videos/2714412106]]|※32日目|
+|03/06|33|[[ストグラ S2 / 32日目 / 武器商人>>https://www.twitch.tv/videos/2715202074]]|※33日目|
+|03/08|34|[[ストグラ S2 / 33日目 / 武器商人>>https://www.twitch.tv/videos/2717066067]]|※34日目|
+|03/11|35|[[ストグラ S2 / 34日目 / 武器商人>>https://www.twitch.tv/videos/2719484148]]|※35日目|
+|03/12|36|[[ストグラ S2 / 35日目 / 武器商人>>https://www.twitch.tv/videos/2720404169]]|※36日目|
+|03/13|37|[[ストグラ S2 / 36日目 / 武器商人>>https://www.twitch.tv/videos/2721193447]]|※37日目|
+|03/14|38|[[ストグラ S2 / 37日目 / 武器商人>>https://www.twitch.tv/videos/2722062705]]|※38日目|
+|03/15|39|[[ストグラ S2 / 38日目 / 武器商人>>https://www.twitch.tv/videos/2722934465]]|※39日目|
+|03/18|40|[[ストグラ S2 / 39日目 / 武器商人>>https://www.twitch.tv/videos/2725567569]]|※40日目|
+|03/19|41|[[ストグラ S2 / 40日目 / 武器商人>>https://www.twitch.tv/videos/2726246223]]|※41日目|
+|03/20|42|[[ストグラ S2 / 41日目 / 武器商人>>https://www.twitch.tv/videos/2727164406]]|※42日目|
+|03/27|43|[[ストグラ S2 / 42日目 / 武器商人>>https://www.twitch.tv/videos/2732929209]]|※43日目|
+|03/28|44|[[ストグラ S2 / 43日目 / 武器商人>>https://www.twitch.tv/videos/2733919715]]|※44日目 ※03/29am|
+|03/29|45|[[ストグラ S2 / 44日目 / 武器商人>>https://www.twitch.tv/videos/2734650918]]|※45日目|
+#endregion
+#region(4月,close)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/01|46|[[ストグラ S2 / 45日目 / 武器商人>>https://www.twitch.tv/videos/2737108973]]|※46日目|
+|04/02|47|[[ストグラ S2 / 46日目 / 武器商人>>https://www.twitch.tv/videos/2737948895]]|※47日目|
+|04/03|48|[[ストグラ S2 / 47日目 / 武器商人>>https://www.twitch.tv/videos/2738833885]]|※48日目|
+|04/04|49|[[ストグラ S2 / 48日目 / 武器商人>>https://www.twitch.tv/videos/2739686634]]|※49日目|
+|04/09|50|[[ストグラ S2 / 49日目 / 武器商人>>https://www.twitch.tv/videos/2743819538]]|※50日目 ※04/10am|
+|04/10|51|[[ストグラ S2 / 50日目 / 武器商人>>https://www.twitch.tv/videos/2744540399]]|※51日目|
+|04/11|52|[[ストグラ S2 / 51日目 / 武器商人>>https://www.twitch.tv/videos/2745385721]]|※52日目|
+|04/12|53|[[ストグラ S2 / 52日目 / 武器商人>>https://www.twitch.tv/videos/2746200192]]|※53日目|
+|04/24|54|[[ストグラ S2 / 53日目 / 武器商人>>https://www.twitch.tv/videos/2755846020]]|※54日目|
+|04/25|55|[[ストグラ S2 / 54日目 / 武器商人>>https://www.twitch.tv/videos/2756638843]]|※55日目|
+|04/26|56|[[ストグラ S2 / 55日目 / 武器商人>>https://www.twitch.tv/videos/2757551199]]|※56日目|
+#endregion
+#region(5月)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+#table_filter(){主な出来事=hide,備考=show}
+|~配信日|~#|~配信タイトル|~主な出来事|~備考|h
+|05/03|57|[[ストグラ S2 / 56日目 / 武器商人>>https://www.twitch.tv/videos/2763250138]]||※57日目 ※05/04am|
+|05/07|58|[[ストグラ S2 / 57日目 / 武器商人>>https://www.twitch.tv/videos/2766248123]]||※58日目|
+|05/08|59|[[ストグラ S2 / 58日目 / 武器商人>>https://www.twitch.tv/videos/2767061735]]||※59日目|
+|05/09|60|[[ストグラ S2 / 59日目 / 武器商人>>https://www.twitch.tv/videos/2767838763]]||※60日目|
+|05/14|61|[[ストグラ S2 / 60日目 / 武器商人>>https://www.twitch.tv/videos/2770939952]]||※61日目|
+|05/15|62|[[ストグラ S2 / 61日目 / 武器商人>>https://www.twitch.tv/videos/2772621028]]||※62日目 ※05/16am|
+|05/17|63|[[ストグラ S2 / 62日目 / 武器商人>>https://www.twitch.tv/videos/2774163592]]||※63日目|
+|05/20|64|[[ストグラ S2 / 63日目 / 武器商人>>https://www.twitch.tv/videos/2776531687]]||※64日目|
+|05/21|65|[[ストグラ S2 / 64日目 / 武器商人>>https://www.twitch.tv/videos/2777417688]]||※65日目 ※05/22am|
+|05/27|66|[[ストグラ S2 / 65日目 / 武器商人>>https://www.twitch.tv/videos/2782164345]]||※66日目 ※05/28am|
+|05/28|67|[[ストグラ S2 / 66日目 / 武器商人>>https://www.twitch.tv/videos/2782916980]]||途中回線落ちで枠分断 ※67日目|
+|~|~|[[ストグラ S2 / 66日目 / 武器商人>>https://www.twitch.tv/videos/2772621028]]|~|回線復活 ※67日目-2 ※05/29am|
+#endregion
+#region(6月)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+#table_filter(){主な出来事=hide,備考=show}
+|~配信日|~#|~配信タイトル|~主な出来事|~備考|h
+|06/04|68|[[ストグラ S2 / 67日目 / 武器商人>>https://www.twitch.tv/videos/2788430984]]||※68日目|
+|06/06|69|[[ストグラ S2 / 68日目 / 武器商人>>https://www.twitch.tv/videos/2790078376]]|無線購入･つんと武器屋人事会議|※69日目|
+|06/07|70|[[ストグラ S2 / 69日目 / 武器商人>>https://www.twitch.tv/videos/2790839820]]|ヤブ下くんで釣り大会参加･聖母れりあ初コンタクト日|※70日目|
+|06/10|71|[[ストグラ S2 / 70日目 / 武器商人>>https://www.twitch.tv/videos/2793268598]]||※71日目|
+|06/11|72|[[ストグラ S2 / 71日目 / 武器商人>>https://www.twitch.tv/videos/2794014117]]||※72日目|
+|06/12|73|[[ストグラ S2 / 72日目 / 武器商人>>https://www.twitch.tv/videos/2794828019]]||※73日目|
+|06/13|74|[[ストグラ S2 / 73日目 / 武器商人>>https://www.twitch.tv/videos/2795583839]]|資金洗浄盗難発生|※74日目|
+|06/14|75|[[ストグラ S2 / 74日目 / 武器商人>>https://www.twitch.tv/videos/2796409050]]|NOVAFAMILIA武器屋取引停止|※75日目|
+|06/17|76|[[ストグラ S2 / 75日目 / 武器商人>>https://www.twitch.tv/videos/2798770732]]|従業員会議･餡ブレラ VS NOVAFAMILIA･寿司誕生|※76日目|
+|06/18|77|[[ストグラ S2 / 76日目 / 武器商人>>https://www.twitch.tv/videos/2799552362]]|脇逢魔と対話･NOVAFAMILIA取引再開|※77日目|
+|06/19|78|[[ストグラ S2 / 77日目 / 武器商人>>https://www.twitch.tv/videos/2800336478]]||※78日目|
+|06/20|79|[[ストグラ S2 / 78日目 / 武器商人>>https://www.twitch.tv/videos/2801141790]]||※79日目|
+|06/21|80|[[ストグラ S2 / 79日目 / 武器商人>>https://www.twitch.tv/videos/2801913084]]||※80日目|
+|06/24|81|[[ストグラ S2 / 80日目 / 武器商人>>https://www.twitch.tv/videos/2804258242]]|BJ黒部門担当者打合せ･おじ会･薬屋アジト見学|※81日目|
+|06/25|82|[[ストグラ S2 / 81日目 / 武器商人>>https://www.twitch.tv/videos/2805002820]]||※82日目|
+#endregion
+#region(7月,open)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+#table_filter(){主な出来事=hide,備考=show}
+|~配信日|~#|~配信タイトル|~主な出来事|~備考|h
+|07/01|83|[[ストグラ S2 / 82日目 / 武器商人>>https://www.twitch.tv/videos/2809680427]]|BJローン打合せ|※83日目|
+|07/02|84|[[ストグラ S2 / 83日目 / 武器商人>>https://www.twitch.tv/videos/2810368831]]||※84日目|
+|07/03|85|[[ストグラ S2 / 84日目 / 武器商人>>https://www.twitch.tv/videos/2811222706]]|7138番地命田隊長に目撃された件 無馬かな報告･占い･闇医者本拠点警察訪問日|※85日目|
+|07/04|86|[[ストグラ S2 / 85日目 / 武器商人>>https://www.twitch.tv/videos/2811979696]]|闇医者説明会･酒場会･おじ会|※86日目|
+|07/05|87|[[ストグラ S2 / 86日目 / 武器商人>>https://www.twitch.tv/videos/2812717002]]||※87日目|
+|07/08|88|[[ストグラ S2 / 87日目 / 武器商人>>https://www.twitch.tv/videos/2815032467]]|BJローン取引①･闇医者本拠点家宅捜索日|※88日目|
+|07/09|89|[[ストグラ S2 / 88日目 / 武器商人>>https://www.twitch.tv/videos/2815778641]]|小峯れいから闇医者事件の顛末を聞く|※89日目|
+|07/10|90|[[ストグラ S2 / 89日目 / 武器商人>>https://www.twitch.tv/videos/2816633120]]|ボイラテンガリンから職質|※90日目|
+|07/11|91|[[ストグラ S2 / 90日目 / 武器商人>>https://www.twitch.tv/videos/2817405916]]|ヤブ下くんでネイルサロン開業祝い(チェンマヨ店長)･市役所襲撃の野次馬･恐竜仕事歪みダウン苦戦|※91日目|
+|07/12|92|[[ストグラ S2 / 91日目 / 武器商人>>https://www.twitch.tv/videos/2818253045]]||※92日目|
+|07/15|93|[[ストグラ S2 / 92日目 / 武器商人>>https://www.twitch.tv/videos/2820622549]]|堕夜だよから復職希望話･タラちゃんと話|※93日目 ※07/16am|
+|07/16|94|[[ストグラ S2 / 93日目 / 武器商人>>https://www.twitch.tv/videos/2821378857]]||※94日目|
+|07/17|95|[[ストグラ S2 / 94日目 / 武器商人>>https://www.twitch.tv/videos/2822186958]]|hantasma五味カス武器屋紹介|※95日目|
+|07/18|96|[[ストグラ S2 / 95日目 / 武器商人>>https://www.twitch.tv/videos/2822974518]]|SECRETライブ･SHIRAHA挨拶|※96日目|
+|07/19|97|[[ストグラ S2 / 96日目 / 武器商人>>https://www.twitch.tv/videos/2823857938]]|BJローン取引②|※97日目|
+|07/22|98|[[ストグラ S2 / 97日目 / 武器商人>>https://www.twitch.tv/videos/2826223377]]||※98日目|
+|07/23|99|[[ストグラ S2 / 97日目 / 武器商人>>https://www.twitch.tv/videos/2827019068]]|07/24誕生日🎂|※99日目|
+|07/24|100|[[ストグラ S2 / 100日目 / 武器商人>>https://www.twitch.tv/videos/2827798869]]|誕生日🎂||
+|07/25|101|[[ストグラ S2 / 101日目 / 武器商人>>https://www.twitch.tv/videos/2828691257]]|ボイラテンガリン接触||
+|07/26|102|[[ストグラ S2 / 102日目 / 武器商人>>https://www.twitch.tv/videos/2829491215]]|SHIRAHAシャマ・アルカディア武器屋紹介･レベルコイン88.1枚売却||
+|07/29|103|[[ストグラ S2 / 103日目 / 武器商人>>https://www.twitch.tv/videos/2831931316]]|闇医者罪状制定と説明会･自宅不動産申請||
+|07/30|104|[[ストグラ S2 / 104日目 / 武器商人>>https://www.twitch.tv/videos/2832736746]]|夏の収穫祭||
+|07/31|105|[[ストグラ S2 / 105日目 / 武器商人>>https://www.twitch.tv/videos/2833631882]]|すんさんの人質|※08/01am|
+#endregion
+#region(8月,open)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+#table_filter(){主な出来事=hide,備考=show}
+|~配信日|~#|~配信タイトル|~主な出来事|~備考|h
+|08/01|106|[[ストグラ S2 / 106日目 / 武器商人>>https://www.twitch.tv/videos/2834446861]]|つんさん給与付与||
+|08/02|107|[[ストグラ S2 / 107日目 / 武器商人>>https://www.twitch.tv/videos/2835334368]]|||
+|08/05|108|[[ストグラ S2 / 108日目 / 武器商人>>https://www.twitch.tv/videos/2837942167]]|||
+|08/06|109|[[ストグラ S2 / 109日目 / 武器商人>>https://www.twitch.tv/videos/2838830388]]|||
+|08/07|110|[[ストグラ S2 / 110日目 / 武器商人>>https://www.twitch.tv/videos/2839696616]]|||
+|08/08|111|[[ストグラ S2 / 111日目 / 武器商人>>https://www.twitch.tv/videos/2840602091]]|銃声範囲計測検証、大川さん小峯さんと話||
+|08/09|112|[[ストグラ S2 / 112日目 / 武器商人>>https://www.twitch.tv/videos/2841579737]]||※08/10am|
+|08/12|113|[[ストグラ S2 / 113日目 / 武器商人>>https://www.twitch.tv/videos/2844219505]]||※08/13am|
+|08/14|114|[[ストグラ S2 / 114日目 / 武器商人>>https://www.twitch.tv/videos/2846042174]]||※08/15am|
+|08/16|115|[[ストグラ S2 / 115日目 / 武器商人>>https://www.twitch.tv/videos/2847882013]]|||
+|08/19|116|[[ストグラ S2 / 116日目 / 武器商人>>https://www.twitch.tv/videos/2850584378]]||※08/20am|
+|08/20|117|[[ストグラ S2 / 117日目 / 武器商人>>https://www.twitch.tv/videos/2851428421]]|||
+|08/21|118|[[ストグラ S2 / 118日目 / 武器商人>>https://www.twitch.tv/videos/2852408942]]||※08/22am|
+|08/22|119|[[ストグラ S2 / 119日目 / 武器商人>>https://www.twitch.tv/videos/2853264722]]|キャバクラ･占い･つんさん夏ボーナス②付与||
+|08/23|120|[[ストグラ S2 / 120日目 / 武器商人>>https://www.twitch.tv/videos/2854273755]]|自宅不動産購入･早寝||
+|08/26|121|[[ストグラ S2 / 121日目 / 武器商人>>https://www.twitch.tv/videos/2856957273]]|明日から出張||
+#endregion
+#region(9月,open)
+#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+#table_filter(){主な出来事=hide,備考=show}
+|~配信日|~#|~配信タイトル|~主な出来事|~備考|h
+|09/02|122|[[ストグラ S2 / 122日目 / 武器商人>>https://www.twitch.tv/videos/2863249856]]|おじ会、ペット『ロベリア』を飼い始める||
+|09/03|123|[[ストグラ S2 / 123日目 / 武器商人>>https://www.twitch.tv/videos/2864169390]]|武器屋3名共有会、不二子さん夏ボーナス②付与||
+|09/04|124|[[ストグラ S2 / 124日目 / 武器商人>>https://www.twitch.tv/videos/2864990743]]|The Artemisスタッフ採用就職||
+|09/05|125|[[ストグラ S2 / 125日目 / 武器商人>>https://www.twitch.tv/videos/2865914127]]|The Artemis黒服出勤||
+|09/06|126|[[ストグラ S2 / 126日目 / 武器商人>>https://www.twitch.tv/videos/2866972129]]||※09/07am|
+|09/09|127|[[ストグラ S2 / 127日目 / 武器商人>>https://www.twitch.tv/videos/2865914127]]|||
+|09/11|128|[[ストグラ S2 / 127日目 / 武器商人>>https://www.twitch.tv/videos/2871214846]]||※128日目|
+|09/12|129|[[ストグラ S2 / 128日目 / 武器商人>>https://www.twitch.tv/videos/2872202240]]||※129日目|
+|09/13|130|[[ストグラ S2 / 129日目 / 武器商人>>https://www.twitch.tv/videos/2873153047]]||OBS設定変更で枠分断※130日目|
+|~|~|[[ストグラ S2 / 129日目 / 武器商人>>https://www.twitch.tv/videos/2873194509]]|~|※130日目-2 ※09/13am|
+|09/17|131|[[ストグラ S2 / 130日目 / 武器商人>>https://www.twitch.tv/videos/2876673772]]||※131日目 ※09/18am|
+#endregion
+//#region(3月～4月,close)
+//#table_style(head=center:#005243:#f7f7f7){配信日=right,#=center}
+//|~配信日|~#|~配信タイトル|~備考|h
+//|00/00/00|№|[[配信タイトル>>配信URL]]||
+//|00//||[[【ストグラ】ヤブ下安理 日目>>]]||
+*&font(27px,#00A66C){そ}の他アーカイブ &icon_fa(fa fa-archive)
+***ストグラジオ
+#table_style(head=center:#005243:#f7f7f7){配信日=right}
+#table_filter(){配信日=show,配信タイトル=show,参加者=show,関係性=hide,アーカイブ=show}
+|~配信日|~配信タイトル|~参加者|~関係性|~アーカイブ|h
+|2025/10/05|ストグラジオVol.125|Katoo（[[加藤　圧]] 役）&br()HENRY-8492（ヤブ下 安理 役）|裏の功労者|[[Twitch>>https://www.twitch.tv/videos/2583801221]]／[[Pixivfanbox-アフタートーク>>https://sutogura.fanbox.cc/posts/10719186]]|
+|2025/10/22|裏ストグラジオVol.7&br()(フェス裏話編 前編)|だん&br()Henry||[[Pixivfanbox>>https://sutogura.fanbox.cc/posts/10720165]]&br()※運営日記プラン以上加入者のみ|
+|2025/11/03|裏ストグラジオVol.8&br()(フェス裏話編 後編)|だん&br()Henry||[[Pixivfanbox>>https://sutogura.fanbox.cc/posts/10809601]]&br()※運営日記プラン以上加入者のみ|
+|2026/04/15|ストグラジオVol.141|Katoo（[[加藤　圧]] 役）&br()Bact（[[大　川]] 役）&br()FOXRABBIT（[[小峯　玲]] 役）&br()HENRY-8492（ヤブ下 安理／ティエリ ブッシュ 役）|裏組織関係者|[[Twitch>>https://www.twitch.tv/videos/2748567023]]／[[Pixivfanbox-アフタートーク>>https://sutogura.fanbox.cc/posts/11748148]]|
+※参加者敬称略
+
+***ストグラコラボ（ゲーム/雑談）
+&color(#00A66C){&bold(){～ アーカイブは2ヶ月で視聴できなくなります ～}}
+#region(2025年,close)
+#table_style(head=center:#005243:#f7f7f7){配信日=right}
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,参加者=show}
+|~配信日|~ゲーム名|~配信|~参加者|h
+|25/10/08|R.E.P.O|&icon_fa(fa fa-twitch)R.E.P.O. w/やなつん、むちちゃん、だよだよ|やなつん、むちちゃん。、だよだよ、HENRY-8492|
+|25/10/16|Unraild!→Golf It!|&icon_fa(fa fa-twitch)ファムファタメンバーコラボw/やなつん、むちちゃん、だよだよ|やなつん、むちちゃん。、だよだよ、HENRY-8492|
+|25/10/24|BATTLEFIELD6|&icon_fa(fa fa-twitch)BF6やる w/やなつんさん|やなつん、HENRY-8492|
+|25/10/31|PEAK→Golf It!|&icon_fa(fa fa-twitch)武器屋で山登り w/やなつん、むち、だよだよ|やなつん、むちちゃん。、だよだよ、HENRY-8492|
+|25/11/07|Phasmophobia|&icon_fa(fa fa-twitch)FFコラボ ホラゲ会 w/むちまる、やなつん|やなつん、むちちゃん。、HENRY-8492|
+|25/11/14|Phasmophobia→Golf It!|&icon_fa(fa fa-twitch)ストグラコラボ Phasmophobia w/むちまる、やなつん|やなつん、むちちゃん。、HENRY-8492|
+|25/11/18|Overcooked 2|&icon_fa(fa fa-twitch)ストグラ武器屋コラボ w/やなつん、むちちゃん|やなつん、むちちゃん。、HENRY-8492|
+|25/11/28|MIMESIS|&icon_fa(fa fa-twitch)ストグラ武器屋コラボ w/やなつん、むちちゃん|やなつん、むちちゃん。、HENRY-8492|
+|25/12/04|DON’T SCREAM TOGETHER&br()→Keep Digging|&icon_fa(fa fa-twitch)武器屋コラボ w/やなつん/むちちゃん/だよだよ|やなつん、むちちゃん。、だよだよ、HENRY-8492|
+|25/12/09|Left 4 Dead 2→Keep Digging|&icon_fa(fa fa-twitch)武器屋コラボ w/やなつん/むちちゃん/だよだよ|やなつん、むちちゃん。、だよだよ、HENRY-8492|
+#endregion
+//
+#region(2026年,open)
+#table_style(head=center:#005243:#f7f7f7){配信日=right}
+#table_filter(){配信日=show,ゲーム名=show,配信=show,参加者=show}
+|~配信日|~ゲーム名|~配信|~参加者|h
+|26/02/09|雀魂|&icon_fa(fa fa-twitch)|やなつん、むちちゃん。、だよだよ、HENRY-8492|
+|26/02/17|LOST EGG 2: Be together→雀魂|&icon_fa(fa fa-twitch)|やなつん、むちちゃん。、だよだよ、HENRY-8492|
+|26/02/24|雀魂|&icon_fa(fa fa-twitch)|やなつん、むちちゃん。、HENRY-8492|
+|26/04/25|Overwatch| - |やなつん、HENRY-8492|
+|26/06/23| ※雑談※&size(8){(予告なくメンバー限定になる可能性あり) }|[[&icon_fa(fa fa-twitch)ストグラ住民コラボ w/厄介な女>>https://www.twitch.tv/videos/2803478951]]|聖女れりあ、HENRY-8492|
+|26/07/07|ジオゲッサー→雀魂|[[&icon_fa(fa fa-twitch)ストグラ武器屋コラボ w/やなつん/むちちゃん>>https://www.twitch.tv/videos/2814195872]]|やなつん、むちちゃん。、HENRY-8492|
+|26/07/23|APEX ※STGRから枠続き→03:29:15頃～|[[&icon_fa(fa fa-twitch)APEX w/れりあさん>>https://www.twitch.tv/videos/2826223377]]|聖女れりあ、HENRY-8492|
+|26/08/03|R.E.P.O|[[&icon_fa(fa fa-twitch)武器屋と薬屋コラボ R.E.P.O>>https://www.twitch.tv/videos/2836092634]]|Katoo、のあち、聖女れりあ、弥勒セイジ、やなつん、むちちゃん。、HENRY-8492|
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

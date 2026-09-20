@@ -1,0 +1,597 @@
+//
+//
+*&size(25){&color(#999){プ}}&color(#ccc){ロフィール} &color(#afeeee){&icon_fa(fa fa-user-circle)}
+|&image(とろろろろ_初期.jpg,y=500)|
+
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#ccc:#666){シーズン=#ffc0cb:b:center}
+|BGCOLOR(#4496d3):CENTER:&color(#afeeee){シーズン}|BGCOLOR(#4496d3):CENTER:&color(#afeeee){&icon_fa(fa fa-calendar)}|BGCOLOR(#4496d3):CENTER:&color(#afeeee){&bold(){Season1}}|BGCOLOR(#4496d3):CENTER:&color(#afeeee){&bold(){Season2}}|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(){とろろ}　&ruby(){ろろ}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本（大阪）|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|2005年2月19日 (&countup(2005/2/19,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年6月19日 (&countup(2025/6/19,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~所属|~&icon_fa(fa fa-users)|ギャング【[[hantasma]]】&small(){2025/7/22〜9/21}&br()&small(){&openclose2(show=▼過去の体験){&br()ギャング【[[hantasma]]】2025/7/16〜7/22}}|ギャング【[[hantasma]]】&small(){仮始動 2026/1/11〜&openclose2(show=*){([[ボス>>アドミゲス・ハン]]の宣言日)}}|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|居酒屋【[[飛翔]]】&small(){2025/8/10～9/21&co(){←初出勤日、ジョブ付与日8/6}}&br()&small(){&openclose2(show=▼過去の職業){&br()個人素材屋 2025/6/20～7/16&br()個人武器商人 2025/6/29～7/16}&br()&openclose2(show=▼過去の体験){&br()中華料理屋【[[明味房>>ミンミンボウ]]】2025/6/19～7/9&br()ダイニングカフェ【[[Yadorigi]]】2025/6/20&br()カフェ【[[Père Noël]]】2025/6/21～6/28&br()メカニック【[[9055]]】2025/6/22&br()メカニック【[[JTS>>ジョアンナテクノサービス]]】2025/6/24～7/11}}|カジノ【[[LosVegas]]】&small(){2026/4/17〜}|
+|~家族|~&icon_fa(fa-solid fa-children)|>|姉：とろろ　らら&small(){（所在不明）}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@とろろろろ|@tororo(とろろろろ)|
+|~レーサー名|~&icon_fa(fa-solid fa-flag-checkered)|とろろろろ|-|
+|~偽名|~&icon_fa(fa-solid fa-user-secret)|&small(){&openclose2(show=▼表示する){&br()いぬ　ふらんそわ}}|&small(){&openclose2(show=▼表示する){&br()やまい　もも}}|
+|&font(#4496d3){プレイヤー}|BGCOLOR(#ffc0cb):~&color(#4496d3){&icon_fa(fa fa-address-card)}|>|鬼ヶ島ぴぃち|
+|&font(#4496d3){告知等}|BGCOLOR(#ffc0cb):~&color(#4496d3){&icon_fa(fa fa-bullhorn)}|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/piiiti_v?t=tIgfntdSHIOoMifTpY2y_g&s=09]]|
+|&font(#4496d3){配信場所}|BGCOLOR(#ffc0cb):~&color(#4496d3){&icon_fa(fa fa-gamepad)}|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@piiiti_vt/streams]]|
+|MIDDLE:&font(#4496d3){動画投稿}|BGCOLOR(#ffc0cb):~&color(#4496d3){&icon_fa(fa fa-video)}|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@piiiti_vt]]&small(){(メインch '26/3/25から)}&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCM_jY_dDFf5FfJmK5swnUsg]]&small(){(公認ch '26/3/25まで)}&co(){休止?旧名ストグラ観測所}|
+|&font(#4496d3){ガイドライン}|BGCOLOR(#ffc0cb):~&color(#4496d3){&icon_fa(fa fa-circle-info)}|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/piiiti_v/status/2031667069121671270?s=46&t=b89A-5gzkZraBLjrHHv6CQ]] &small(){※切り抜き動画について}|
+
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+//日付は年表を参考に0時以前で記載しています。
+&small(){記載した内容を無断で削除する行為が発生しております。&br()&font(#F54738){編集合戦}を避けるために、違和感のある編集であると感じたら一呼吸置き&br()削除する場合は&font(#F54738){削除理由}を「//(非表示コメント)」で残すか、「&font(#F54738){編集相談所}」で意見を募ってください。}
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&size(25){&color(#999){基}}&color(#ccc){本情報} &color(#afeeee){&icon_fa(fa fa-pen-to-square)}
+#div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&space()&icon_fa(fa-solid fa-user)&bold(){ 人物概要}}}
+&size(16)&color(#999){●}街に居ると思われる姉を探しに街へ来た。
+&size(16)&color(#999){　●}優先度は低く、&s(){趣味の写真を撮りながら}ギャングとしてゆっくり生活していく。
+&size(16)&color(#999){　●}姉の本名は「とろろ らら」で23歳ぐらいの女性だというが、名前も見た目も変えている可能性がある。
+#co(){/////編集者の予想であるため一時非表示/////
+【姉(予想)候補】
+|①[[星唄　サウ汰]] |年齢・関西弁・髪色まで全てに合致。&br()&bold(){※だが未来人である。}|
+}
+
+#div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&space()&icon_fa(fa-solid fa-chalkboard-user)&bold(){ 特徴}}}
+&size(16)&color(#999){●}呼びづらい名前であることを自覚しているため様々な呼び方で呼ばれることに抵抗がない。
+&size(16)&color(#999){　●}大トロやととろ、とrrrrと巻き舌で呼ばれることが多く、中には[[嘔吐しているように呼ぶ人>>ノビー　ラング]]もいるが許容している。
+&size(16)&color(#999){●}おかめの面と顔横ピースの組み合わせを気に入っており、住民から覚えてもらうアイデンティティにしている。
+&size(16)&color(#999){　●}[[ゴンザレス　マヌ太郎]]や[[元難波　登]]からは怖がられている。
+&size(16)&color(#999){●}労働力は窓拭きや電気工事バイトに使用している。&co(){変わり次第編集}
+&size(16)&color(#999){●}入国時白髪だったが、[[くま　ぽこ]]とそっくりの髪型であったため水色に染めている。
+&size(16)&color(#999){●}一時的に幼女化した[[シャーク　ニサワール]]に対して、ロリコンであると明かしている。
+
+#region(Season1の情報)&b(){Season1}
+&size(16)&color(#999){●}素材集めが楽しいゆえに好きで、特に水汲みが好きだと話している（短時間かつ稼げるため）。
+&size(16)&color(#999){　●}好きの度合いは 水汲み＞サルファ＞アシッド＝リサセン＝布集め
+&size(16)&color(#999){　●}2日目以降毎日 衛星内でなにかしらのファームを行っている。
+&size(16)&color(#999){　●}3日目のペールノエルでの体験終了後、興味を持った[[寝言　怠惰]]に水汲みのやり方を教えている。
+&size(16)&color(#999){●}リサセンにてSTGラジオ（第19回）で聴いた[[八王子　めぐ]]の『巡り、巡る』を気に入り、以後ファーム中などにMUSICアプリで流している。
+&size(16)&color(#999){　●}そのほかにも[[畳　かえる]]の曲やおススメされた[[マクドナルド>>ライトスターボーイ]]の曲を聴いている。
+#endregion()
+
+#div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&space()&icon_fa(fa-solid fa-user-secret)&bold(){ 黒市民として}}}
+//&b(){Season2}
+//&size(16)&color(#999){●}
+
+#region(Season1の情報)&b(){Season1}
+&size(16)&color(#999){●}真っ先に&u(){武器クラフト経験値}を上げてる事から、&bold(){黒ルート}が濃厚である。
+&size(16)&color(#999){●}白市民パス剥奪（黒堕ち）への抵抗はないと語っている。
+&size(16)&color(#999){●}黒(市民)になりたい理由は「街中のハイドアウトガレージが全て欲しいから」。
+&size(16)&color(#999){●}6/29より[[hantasma]]の武器商人をしていたが7/16に初犯、半グレ？になったがそのまま熱烈な勧誘を受け白パスを所持したまま体験へ。
+&size(16)&color(#999){●}7/19に宝石強盗で捕まり白パスを剥奪された。
+&size(16)&color(#999){●}7/22に起床していた構成員全員からの合格（「合」8名、「豪鬼」1名）と「逆のこというクイズ」を経て、hantasmaへ正式に加入した。
+///白市民に黒への興味を訊ねただけでその記述を書くと大量の黒市民のページに同様の記述を記載する必要が生まれてしまうため削除しました。
+&size(16)&color(#999){●}黒市民歴は浅いが銃の撃ち合い、車の運転、ヘリの操縦を全てにおいて高水準にこなすオールラウンダー。
+#endregion()
+
+*&size(25){&color(#999){保}}&color(#ccc){有資産・資格・商品} &color(#afeeee){&icon_fa(fa fa-database)}
+#size(18){#div(width=330px,bgcolor=#666666,color=#ffffff){&bold(){&space(2)Season1}}}
+#region(開く)
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa fa-truck-field)} 車両関係}
+#region(開く)
+#size(90%){#table_style(head=center:#e6e6e6:#666){種別=center}
+|~種別|~入手日|~車種|~登録名|~備考|h
+|🚗|2025/06/19|Egg Car|初めてのたまご|ガヴァイさんから200万で購入|
+|🚗|2025/06/20|Guardian|【🎁】天草さんから貰った！|天草さんから汎用積載車として譲受|
+|🏍|2025/06/20|Shinobi|シノビ|うしべさんに入荷依頼|
+|🚛|2025/06/27|Speedo Express|素材屋さん|まさのりさんに入荷依頼|
+|🚗|2025/06/27|Brioso 300 Widebody|C帯レース用【BFおっそ】|えびすさんに入荷依頼|
+|🚗|2025/06/27|Flash GT|A帯レース用GT|ヘルアンさんに購入資金を貰い、忍さんに入荷依頼|
+|🚛|2025/06/28|Speedo Express|上田さんから買った素材屋さん|上田さんから5000万で購入|
+|🚁|2025/06/29|Havok|Nagasaki Havok|ブロッコリーさんに入荷依頼|
+|🚗|2025/07/02|Tropos Rallye|B帯レース用【とろろぽす】|たくみさんに入荷依頼|
+|🚗|2025/07/03|MonstroCiti|【🎁】とろろんへ|ぽこ師匠からお近づきの印に譲渡|
+|🚁|2025/07/04|Frogger Custom|Maibatsu Frogger nl|豆やんさんから借金し、こみ蔵さんに入荷依頼|
+|🚗|2025/07/11|Massacro Racecar|忍さん主催レースの車(カスタムNG)|TAイベント用、武蔵さんに入荷依頼|
+|🚗|2025/07/19|Caracara 4x4|【🎁】とろちゃん体験来てくれてありがとう☺ユンミ|ユンミさんから体験記念に譲渡|
+|🚗|2025/07/20|Paragon|【🎁】レースお疲れ様ぱらンゴ^p^|ハンさんから忍レース出場の労い譲渡|
+|🚗|2025/07/22|Itali GTO|【🎁】じぇいのすけさんから貰ったイタリ|じぇいのすけさんから加入祝いで譲渡|
+|🚛|2025/07/22|Journey|【🎁】とろちゃんハンタスマにきてくれてありがとう☺ユンミ|ユンミさんから加入祝いで譲渡|
+|🚗|2025/07/29|Blazer|デフォブラ|はなさんに入荷依頼|
+|🚗|2025/07/29|HOTブレイザー|遊園地ぶーぶー|はなさんに入荷依頼、ここな店長にカラー依頼|
+|🚗|2025/07/29|Blazer Sport|Annis Blazer Sport|はなさんに入荷依頼|
+|🚗|2025/07/29|Blazer Lifeguard|Nagasaki Blazer Lifeguard|はなさんに入荷依頼|
+|🚗|2025/07/29|Paragon S|初パラゴンS|たくみさんに入荷依頼、リコさんフルカス、ハンさんに深緑カラー依頼|
+|🚲|2025/08/02|J-Cruiser(ママチャリ)|Unknown City Cycle|-|
+|🚲|2025/08/02|BMX|Unknown BMX|-|
+|🚲|2025/08/02|Cruiser|Unknown Cruiser|-|
+|🚲|2025/08/02|Fixter|Unknown Fixter|-|
+|🚲|2025/08/02|Tri-Cycles Race Bike|Unknown Tri-Cycles Race Bike|-|
+|🚲|2025/08/02|Unicycle(一輪車)|Unknown Unicycle|-|
+|🚲|2025/08/02|Scorcher|Unknown Scorcher|-|
+|🚤|2025/08/07|Seashark|Speedophile Seashark Yacht|豆やんさんに入荷依頼|
+|🏍|2025/08/14|Faggio Mod|【🎁】まさのりさんから貰ったバイク|まさのりさんから譲渡|
+|🚗|2025/08/14|Peanut(ピーナッツ)|おかめうしーなっつ|まさのりさんに入荷依頼|
+|🚗|2025/08/15|Ignus|イグナス|忍さんに入荷依頼&フルフルカス、ハンさんに深緑カラー依頼|
+|🚤|2025/08/27|Swandoo|VooDoo Swandoo|3周年記念ガチャから入手、レア度コモン|
+|🚲|2025/08/27|Unicycle(一輪車)|Unknown Unicycle|-|
+|🚗|2025/09/06|sigma2|シグマ２|忍さんに入荷依頼&おすすめフルカス|
+|🚗|2025/09/17|Raiden|雷電|ドリーさんに入荷依頼|
+|✈|2025/09/21|DooBalloo|トロ様いつもありがとう|おねぎから譲渡|
+#table_sorter{even=#fb3c02:#fff,odd=fff}
+}　&co(){size(90%)の括弧}
+#endregion(車両)
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa fa-house-circle-check)} 所有物件}
+#region(本人契約)&bold(){本人契約}
+#table_style(head=center:#e6e6e6:#666)
+|~入手日|~番地|~備考|h
+|2025/06|7149|初期アパート|
+|2025/06/22|7167|倉庫　担当：四五六確|
+|2025/07/01|1051|倉庫　担当：四五六確|
+#table_sorter{even=#fb3c02:#fff,odd=fff}
+#endregion(本人契約)
+#region(鍵所有物件)&bold(){鍵所有物件}
+#table_style(head=center:#e6e6e6:#666){鍵共有日=right}
+|~鍵共有日|~番地|~譲渡した人物|~用途|h
+|2025/07/03~|7106|天草　蒼|&s(){素材取引、運び入れ}取引終了&br()倉庫や麻取逃げ込み物件として使用|
+|2025/07/05~|8116|神田　じぇいのすけ|素材・武器取引、運び入れ|
+|2025/07/09~|6186|光乃　あびす|素材取引、運び入れ|
+|2025/07/13~|7172|ミカ・ピトフーイ|飲食店従業員として|
+|2025/07/15~|9253|アドミゲス・ハン|hantasmaアジト|
+|2025/07/16~|9253|シュガー　ピーチ|レクリエーションAorB部屋|
+|2025/07/15~&br()随時|----|アドミゲス・ハン等|逃げ込みアジト&br()詳細は[[hantasma]]を参照ください|
+|2025/07/23~|7174|畳　かえる|BMC付近薬精製所最寄りガレージ|
+|2025/07/24~|3016|くま　ぽこ|麻薬関係の砂漠拠点|
+#table_sorter{even=#fb3c02:#fff,odd=fff}
+#endregion(鍵所有)
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa-solid fa-id-card)} 所有ライセンス}
+#region(全て失効済)全て失効済
+#table_style(head=center:#e6e6e6:#666){発行日=right}
+|~発行日|~パス/免許|~担当者|~備考|h
+|2025/06/19|&s(){白市民パス&br()付属ガンライセンス}|[[山本　寅子]]|同行したあないから銃を渡されかけた。&br()25/07/19剥奪|
+|2025/06/19|&s(){普通車&br()自動二輪}|[[ラグランジュ　光芝]]&br()🔰[[チェン　マヨ]]|25/07/19剥奪|
+|2025/06/24|&s(){ヘリ}|🔰[[月乃　えるな]]|25/07/19剥奪|
+|2025/07/04|&s(){航空機}|🔰[[月乃　えるな]]&br()&small(){付き添い[[ラグランジュ　光芝]]}|25/07/19剥奪|
+#table_sorter{even=#fb3c02:#fff,odd=fff}
+#endregion(ライセンス・免許)
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa-solid fa-bowl-food)} モチーフ商品}
+#region(開く)
+#table_style(head=center:#e6e6e6:#666){提供開始日=right,値段=right}
+|~提供開始日|~商品名|~値段|~担当者|~備考|h
+|2025/09/06|🌸ねぎとろとろろカレー|50,000|[[KoKo七番屋]]（[[牧田　ここな]]）|ココナナガチャのSSRココナナ引き換え券で依頼 &co(){異変状態のここな店長から受け取った時の日付と値段です。}|
+#table_sorter{even=#fb3c02:#fff,odd=fff}
+#endregion(モチーフ商品)
+#endregion(Season1)
+
+#size(18){
+#div(width=330px,bgcolor=#666666,color=#ffffff){&bold(){&space(2)Season2}}}
+#region(開く,open)
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa fa-truck-field)} 車両関係}
+#region(開く,open)
+#table_style(head=center:#e6e6e6:#666){種別=center}
+|~種別|~入手日|~車種|~備考|h
+|🚗|2025/12/24|Dilettante|電気自動車|
+|🏍|2025/12/24|Faggio MOD||
+|🚗|2025/12/26|Blista||
+|🏍|2026/01/02|Faggio Sport|バイクレース参加のために購入|
+|🚚|2026/01/09|Cody||
+|🚚|2026/01/28|Cody||
+#table_sorter{even=#fb3c02:#fff,odd=fff}
+//|種別|2026/mm/dd|車種|備考|
+#endregion(車両)
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa fa-house-circle-check)} 所有物件}
+#region(本人契約,open)&bold(){本人契約}
+#table_style(head=center:#e6e6e6:#666)
+|~入手日|~番地|~備考|h
+|2025/12/19|8039|初期アパート|
+#table_sorter{even=#fb3c02:#fff,odd=fff}
+//|2026/mm/dd|xxxx|備考|
+#endregion(本人契約)
+#region(鍵所有物件,open)&bold(){鍵所有物件}
+#table_style(head=center:#e6e6e6:#666){鍵共有日=right}
+|~鍵共有日|~番地|~譲渡した人物|~用途|h
+|2025/12/28|8039|畳　かえる|組織共有スタッシュ|
+|2026/??/??|9253|アドミゲス・ハン|簡易アジト兼倉庫|
+#table_sorter{even=#fb3c02:#fff,odd=fff}
+//|2026/mm/dd|xxxx|人物|用途|
+//取引終了などで鍵を剥奪された日は共有日に記載をお願いします。
+#endregion(鍵所有)
+#co(){
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa-solid fa-id-card)} 所有ライセンス}
+#region(開く,open)
+#table_style(head=center:#e6e6e6:#666){発行日=right}
+|~発行日|~パス/免許|~担当者|~備考|h
+|2026/mm/dd||[[]]||
+#table_sorter{even=#fb3c02:#fff,odd=fff}
+//|2026/mm/dd|ライセンス名|[[担当　者]]|備考　&co(){25/mm/dd剥奪}|
+#endregion(ライセンス・免許)
+}
+#co(){
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa-solid fa-bowl-food)} モチーフ商品}
+#region(開く)
+#table_style(head=center:#e6e6e6:#666){提供開始日=right,値段=right}
+|~提供開始日|~商品名|~値段|~担当者|~備考|h
+|2026/mm/dd|||[[]]（[[]]）||
+#table_sorter{even=#fb3c02:#fff,odd=fff}
+//|2026/mm/dd|商品名||[[担当者or店舗名]]|備考|
+#endregion(モチーフ商品)
+}
+#endregion(Season2)
+
+*&size(25){&color(#999){街}}&color(#ccc){の住人} &color(#afeeee){&icon_fa(fa fa-people-robbery)}
+&size(14)&b(){&color(#666666){※本人視点で得た情報のみを記述するようにお願いします。}}
+//状況に応じて内容変更する可能性があります。
+//長く関わりがない住民はスラッシュで非表示になる場合があります。
+
+#div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&bold(){&space(2)Season1}}}
+#region(開く)閉じる
+#div(width=330px){&size(18){&space()&bold(){&color(#222222){&icon_fa(fa-solid fa-people-group)} 入国同期}}}
+#region(開く)
+#table_style(head=center:#e6e6e6:#666666)
+|~名前|~関係・エピソード|
+|[[穴井　元]]|枯葉同期。約半年ぶりに起きてきてほぼ同期らしい。|
+|[[沖原　たくみ]]|メカニックの男性。謎解きをして以降"漁夫のろろ"とからかう。|
+|[[岐阜野　こみ蔵]]|カジノ店員。わからないことがあると、とろろを頼り交流の機会が多い。麻陀羅服で居るのを目撃。|
+|[[捌木　たいたい]]|若葉同期会の長。進路に迷っていた時にあびすさんと一緒に素材売りを勧めた。現メカニック。|
+|[[三ッ星　ちゅに]]|友達として仲良くしてくれており、半グレ志望であると明かしてくれた。怜さんと仲がいい。|
+//|[[名前]]|関係|
+#endregion(同期)
+
+#div(width=330px){&size(18){&space()&bold(){&color(#222222){&icon_fa(fa-solid fa-ghost)} hantasma}}}
+#region(開く)
+#table_style(head=center:#e6e6e6:#666666)
+|~名前|~関係・エピソード|
+|[[アドミゲス・ハン]]|3vs3の賭けサバゲーで[[ヘルアン]]とともにチームを組んで3000万を得た。[[畳　かえる]]が「部下」らしい。&br()&bold()たまたま二人だけでレースをしたことがあり、20分ほどの長いレースでずっと実況と解説をしてくれた。優しくて面白い人。|
+|[[ユン　ユンミ]]|ブースティングの女王。銃撃戦が得意で大型で強さを発揮している。|
+|[[ジャン＝ジャック・ヴァラン]]|ツンデレだと思われている。とろろに噛みつかれていて喧嘩システムが絶えない。とろろ負け越し中。|
+|[[くま　ぽこ]] (ぽこ師匠)|あびすさんと仲良しな黒市民。ヘリに興味のあるとろろの先生となる。後に一緒にヘリバトル大会に出場。|
+|[[畳　かえる]]|ガンショップの代理購入を教わった。定期的に素材バイトを募り素材屋の人脈を増やしている。|
+|[[シュガー　ピーチ]]|街の長い組織のお姉さん。かえるさんをからかうのが好きでジャンさんを甘やかしている。|
+|[[光乃　あびす]]|初めてのバイト先の店員。黒いことが知りたくなったら聞いてほしいと言われた。|
+|[[夜桜　怜]]|幼い女性が好みだと思われている。秘密結社Lv2ではとろろとバディを組んでいる。|
+|[[シャーク　ニサワール]]|ロリ。実は70歳のおじいちゃん。|
+|[[三条　ねぎ]] (おねぎ)|おかめうしの衣装とギャンブルで意気投合し、ねぎとろコンビとなった。|
+|[[神田　じぇいのすけ]]|かえるさんの代わりに銃取引の受付をした構成員。ツッコミ担当だがノリのいい一面もあるバランス感覚を持つ。|
+|[[ヘルアン]]|レースで勝利し、フラッシュGTの購入資金の5000万をもらう。もし、黒になりたいなら聞きに来な、教えたげると言われた。|
+//|[[名前]]|関係|
+#endregion(hantasma)
+
+#div(width=330px){&size(18){&space()&bold(){&color(#222222){&icon_fa(fa-solid fa-user-secret)} 黒市民}}}
+#region(開く)
+#table_style(head=center:#e6e6e6:#666666)
+|~名前|~所属|~関係・エピソード|
+|[[ミカ・ピトフーイ]]|MOZU|居酒屋【[[飛翔]]】の店長。飲食初挑戦ということもあり、とろろの商品効果提案や自販機入金にすぐ対応してくれる。|
+|[[天草　蒼]]|新ギャング予定|黒市民の情報や過去の話をしてくれたYadorigiの店長。リサセンの取引先。危ないおもちゃとして手錠を貰った。|
+|[[聖母　れりあ]]|不明|素材系バイトを教わった。うしべ、翔のボスらしい。|
+|[[うしべ>>蜂夜　ハチ]]|E5'sバーガー|バイクDで(故意でなく)所持金以上のバイクを売られ借金をしたことがある。バーガー屋ミッションの受付。|
+|[[三島　みつー]]|Rqtel|水汲み同行時初めて実銃を触らせてもらった。からかいやいたずらが多いためとろろからは言動が変だと思われている。|
+|[[霜月　ろっぷ]]|Rqtel|"ろ"を多めに呼ぶ元個人医。hantasma構成員を見ると「この憎き‥！」と言うが、とろろはまだ未洗脳で憎くないらしい。|
+|[[奈落　破滅]]|半グレ|元9055の黒に行くことを教えてくれた住民。電話を食べたような声や[[PARADISE LOST]]で吐息多め接客をしている。|
+//|[[名前]]|所属|関係|
+#endregion(黒市民)
+
+#div(width=330px){&size(18){&space()&bold(){&color(#222222){&icon_fa(fa-solid fa-user-tie)} 公務員}}}
+#region(開く)
+#table_style(head=center:#e6e6e6:#666666)
+|~名前|~関係・エピソード|
+|[[ミカド　ルアシェイア]]|勇者パーティに誘ってきた警察。5000万もの入国支援金をくれた。|
+|[[竹井　勝痔]]|様々な住人からヤバいと言われている警察。「どうせ黒になるんだろ」と強く言われた。|
+|[[ボイラ　テンガリン]]|道交法やマトリでパトロールをしている警察。ハンタスマ女子は色気がないと断言している。|
+//|[[名前]]|関係|
+#endregion(公務員)
+
+#div(width=330px){&size(18){&space()&bold(){&color(#222222){&icon_fa(fa-solid fa-street-view)} 住人}}}
+#region(開く)
+#table_style(head=center:#e6e6e6:#666666)
+|~名前|~関係・エピソード|
+|[[わおん　ちょき]] (姫)|お揃いの衣装を作った姫と王子の関係。ツーショット写真はスマホの待受にしている。|
+//|[[名前]]|関係|
+#endregion(市民)
+#endregion(Season1)
+
+#div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&bold(){&space(2)Season2}}}
+#region(開く,open)閉じる
+#div(width=330px){&size(18){&space()&bold(){&color(#222222){&icon_fa(fa-solid fa-people-group)} 入国同期}}}
+#region(開く)
+#table_style(head=center:#e6e6e6:#666666)
+|~名前|~関係・エピソード|
+|[[穴井　元]]|枯葉同期。転送後はタクシーへ就職。|
+|[[沖原　たくみ]]|メカニックの男性。レギオン周辺にいるため人質になりがち。|
+|[[岐阜野　こみ蔵]]|ダイスでできるギャンブルをよく誘うカジノ店員。こみ蔵さんが負けやすいときはこみ蔵ファームと言われている。|
+//|[[名前]]|関係|
+#endregion(同期)
+
+#div(width=330px){&size(18){&space()&bold(){&color(#222222){&icon_fa(fa-solid fa-ghost)} hantasma}}}
+#region(開く)
+#table_style(head=center:#e6e6e6:#666666)
+|~名前|~関係・エピソード|
+|[[アドミゲス・ハン]]|街の住民からパパや園長と言われているボス。かえるさん曰くファームをさせると蕁麻疹が出るらしい。|
+|[[エダ　ゴブレット]]|喧嘩システムを使う古参構成員。転送後は寒そうに縮こまっていた。|
+|[[ユン　ユンミ]]|ブースティングの女王。銃撃戦が得意で強さを発揮するのは少し先となる。|
+|[[ジャン＝ジャック・ヴァラン]]|ツンデレだと思われている。とろろに生意気なことを言われがち。|
+|[[くま　ぽこ]] (ぽこ師匠)|あびすさんと仲良しなヘリの師匠。感情の機微に敏感。|
+|[[畳　かえる]]|ファーム好きのしっかり者で転送後も外部取り引きや検証を任されている。[[素材屋連盟]]主要メンバー。|
+|[[シュガー　ピーチ]]|街の長い組織のお姉さん。|
+|[[光乃　あびす]]|言葉選びが独特なムードメーカー。|
+|[[夜桜　怜]]|幼い女性が好みだと思われている。|
+|[[シャーク　ニサワール]]|精神が70歳のおじいちゃんのロリ。転送後はサブカルファッションに。|
+|[[三条　ねぎ]] (おねぎ)|ねぎとろの相方。異性コンビであるため出会ったカプ厨な住民にカップリング扱いされることがある。&br()とろろを巻き込む行動が多いため組織内で入り組んだ喧嘩をしたことも。|
+|[[神田　じぇいのすけ]]|ツッコミ担当だがノリのいい一面もあるバランス感覚を持つ。|
+|[[ヘルアン]]|組織のツッコミ担当。転送直後は別行動をしていたが、ハンさんと話し合ったのち契約更新となった。|
+|[[黒桜　ローレン]]|レースで活躍していた元[[MOZU]]。S1終盤hantasmaに入る前に考えや思いを語ってくれていた。|
+//|[[名前]]|関係|
+#endregion(hantasma)
+
+#div(width=330px){&size(18){&space()&bold(){&color(#222222){&icon_fa(fa-solid fa-user-secret)} 黒市民}}}
+#region(開く)
+#table_style(head=center:#e6e6e6:#666666)
+|~名前|~所属|~関係・エピソード|
+|[[霜月　ろっぷ]]|元[[Rqtel]]|"ろ"を多めに呼ぶ元気な住民。|
+|[[堕夜　だよ]]|元[[武器屋>>FEMME FATALE]]|ギャンブル好きのとろろを煽る等で乗せて勝つチンチロの天敵。|
+//|[[名前]]|所属|関係|
+#endregion(黒市民)
+
+#div(width=330px){&size(18){&space()&bold(){&color(#222222){&icon_fa(fa-solid fa-user-tie)} 公務員}}}
+#region(開く)
+#table_style(head=center:#e6e6e6:#666666)
+|~名前|~関係・エピソード|
+|[[伊勢　えびす]]|バイクDや[[BBB>>Bloody BonBon]]協賛カーで世話になった警察。新プリズンのヒントを教わった。|
+//|[[名前]]|関係|
+#endregion(公務員)
+
+#div(width=330px){&size(18){&space()&bold(){&color(#222222){&icon_fa(fa-solid fa-street-view)} 住人}}}
+#region(開く,open)
+#table_style(head=center:#e6e6e6:#666666)
+|~名前|~関係・エピソード|
+//|[[名前]]|関係|
+#endregion(市民)
+#endregion()
+
+*&size(25){&color(#999){ク}}&color(#ccc){ローゼット} &color(#afeeee){&icon_fa(fa fa-shirt)}
+&size(14)&b(){&color(#666666){※和の面が苦手な方は注意}}
+//編集者が画像削除権限を持っていないため、頻出の衣装を優先して載せました。
+#div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&bold(){&space(2)Season1}}}
+#region(開く)閉じる
+&b(){登録名：（用途）：画像}
+#table_style(head=center:#e6e6e6:#666)
+|初期|ハンタスマ大型服|魔法使い|h
+|CENTER:（初期私服）|CENTER:（大型服・略奪）|CENTER:（E5'sミッション）|
+|&image(とろろろろ_初期2.jpg,y=300)|&image(とろろろろ_大型服.jpg,y=300)|&image(とろろろろ_秘密結社服.jpg,y=300)|
+|おかめうし|飛翔|小型用(ねぎ)|h
+|CENTER:（私服）|CENTER:（飲食従業員）|CENTER:（私服）|
+|&image(とろろろろ_おかめうし.jpg,y=300)|&image(とろろろろ_飛翔.jpg,y=300)|&image(とろろろろ_ねぎ夏服.jpg,y=300)|
+#endregion(Season1)
+
+#div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&bold(){&space(2)Season2}}}
+#region(開く)閉じる
+&b(){登録名：（用途）：画像}
+#table_style(head=center:#e6e6e6:#666)
+|大型|夏服|おかめうし|h
+|CENTER:（転送初期）|CENTER:（私服）|CENTER:（私服）|
+|&image(とろろろろ_S2大型服1.jpg,y=300)|&image(とろろろろ_S2ねぎ夏服.jpg,y=300)|&image(とろろろろ_S2おかめうし.jpg,y=300)|
+#endregion(Season2)
+
+*&size(25){&color(#999){エ}}&color(#ccc){ピソード} &color(#afeeee){&icon_fa(fa fa-scroll)}
+#div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&bold(){&space(2)Season1}}}
+#include(とろろ　ろろ/エピソードS1)
+
+&small(){※子ページ &u(){[[①>>とろろ　ろろ/エピソードS1]]}}
+
+#div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&bold(){&space(2)Season2}}}
+***&underdot(#eee,3px){&font(17,#777){&icon_fa(fa fa-circle)} 2025年}
+#region(12月)&bold(){12月}
+****12/19 [[1日目：シーズン２の幕開け>>https://www.youtube.com/watch?v=uc7hDEMY0cM&t=6180]]
+#region(開く,open)
+-目が覚めると、デスマウンテンの岩に突き刺さっていた。
+-とりあえず徒歩で街中に移動することにした。
+--下山すると自転車に乗った心無き集団に会ったため奪おうとしたが、激昂され襲われるリスクを考えて歩くことにした。
+-追加エピソード募集中
+#endregion
+****12/24 [[2日目：お金がほしい>>https://www.youtube.com/watch?v=WD5AfvXCX2c]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****12/25 [[3日目：街探索したい>>https://www.youtube.com/watch?v=1bVCzC9g1E0]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****12/26 [[4日目：おかめうしを求めて>>https://www.youtube.com/watch?v=F4ziBaoPYUw]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****12/27 [[5日目：お金ためて飲食店に行きたい>>https://www.youtube.com/watch?v=yPc1436T0N4]]／[[本島で５日目とろろ続き>>https://www.youtube.com/watch?v=5-N52ydLNew&t=13980]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****12/28 [[6日目：ついに銃が手に入る？？>>https://www.youtube.com/watch?v=NTSnXTy-Y-s]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****12/31 [[7日目：ここで年越し！>>https://www.youtube.com/watch?v=S47E79vZ1l8]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(12月)
+***&underdot(#eee,3px){&font(17,#777){&icon_fa(fa fa-circle)} 2026年}
+#region(1月)&bold(){1月}
+****01/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(1月)
+#region(2月)&bold(){2月}
+****02/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(2月)
+#region(3月)&bold(){3月}
+****03/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(3月)
+#region(4月,open)&bold(){4月}
+****04/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(4月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(mm月)
+
+}
+
+*&size(25){&color(#999){ア}}&color(#ccc){ーカイブ} &color(#afeeee){&icon_fa(fa fa-video)}
+#div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&bold(){&space(2)Season1}}}
+#include(とろろ　ろろ/アーカイブS1)
+
+&small(){※子ページ &u(){[[①>>とろろ　ろろ/アーカイブS1]]}}
+
+#div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&bold(){&space(2)Season2}}}
+***&underdot(#eee,3px){&font(17,#777){&icon_fa(fa fa-circle)} 2025年}
+#region(12月)&bold(){12月}
+#table_style(head=center:#e6e6e6:#666666){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~主な出来事|~備考|h
+|12/19|1|[[1日目：シーズン２の幕開け>>https://www.youtube.com/watch?v=uc7hDEMY0cM&t=6180]]|市長挨拶/ﾚﾝﾀｻｲｸﾙ/道具探し/砂漠の島|雑談後に開始 1:43:00～|
+|12/24|2|[[2日目：お金がほしい>>https://www.youtube.com/watch?v=WD5AfvXCX2c]]|ATMﾄﾞﾘﾙ/バイト開始/車購入/ｱｼﾞﾄで情報共有||
+|12/25|3|[[3日目：街探索したい>>https://www.youtube.com/watch?v=1bVCzC9g1E0]]|||
+|12/26|4|[[4日目：おかめうしを求めて>>https://www.youtube.com/watch?v=F4ziBaoPYUw]]|||
+|12/27|5|[[5日目：お金ためて飲食店に行きたい>>https://www.youtube.com/watch?v=yPc1436T0N4]]||早寝|
+|12/27|5.5|[[なんか変だな？？？→本島で５日目とろろ続き>>https://www.youtube.com/watch?v=5-N52ydLNew&t=13980]]||3:53:00～|
+|12/28|6|[[6日目：ついに銃が手に入る？？>>https://www.youtube.com/watch?v=NTSnXTy-Y-s]]|||
+|12/31|7|[[7日目：ここで年越し！>>https://www.youtube.com/watch?v=S47E79vZ1l8]]|||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(12月)
+***&underdot(#eee,3px){&font(17,#777){&icon_fa(fa fa-circle)} 2026年}
+#region(開く,open)
+#region(1月)&bold(){1月}
+#table_style(head=center:#e6e6e6:#666666){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~主な出来事|~備考|h
+|01/01|8|[[8日目：あけおめやん！そろそろ悪いことしようや>>https://www.youtube.com/watch?v=x0gzNQ0hO6w]]|消防署情報/武器屋から注意点/初犯/プリズン探索||
+|01/02|9|[[9日目：コンビニとバイト生活>>https://www.youtube.com/watch?v=WG-pVzMXAMk]]|ろっぷと同行/ﾊﾞｲｸﾚｰｽ/情報共有/プリズン侵入||
+|01/03|10|[[10日目：今日はなにするの？？>>https://www.youtube.com/watch?v=h9Q25aIHdCY]]|ろっぷと同行/署前交流/チンチロ/危険なﾊﾞｰｶﾞｰ||
+|01/04|11|[[11日目：失った３００万のため今日も働く>>https://www.youtube.com/watch?v=hw8zkElmLT0]]|||
+|01/09|12|[[12日目：今日こそ新たな発見を>>https://www.youtube.com/watch?v=dlQq3usLe6o]]|||
+|01/14|13|[[13日目：久しぶりの街>>https://www.youtube.com/watch?v=JMXwu5-uc1s]]|||
+|01/15|14|[[14日目：カジノで億万長者に>>https://www.youtube.com/watch?v=dgREOu-DloU]]|||
+|01/16|15|[[15日目：今日こそカジノで億万長者>>https://www.youtube.com/watch?v=B7adwiuGHsY]]|||
+|01/18|16|[[16日目：なにしよう>>https://www.youtube.com/watch?v=K16aQuNGfI0]]|||
+|01/21|17|[[17日目：色々増えてんじゃない！？>>https://www.youtube.com/watch?v=tRUy__pcJ78]]|||
+|01/22|18|[[18日目：寒いよ>>https://www.youtube.com/watch?v=YE7BPaEN_2E]]|||
+|01/23|19|[[19日目：ハンタスマ今日は喧嘩する？>>https://www.youtube.com/watch?v=oa5_lN-5DFU]]|||
+|01/24|20|[[20日目：そろそろ鍵見つけたい>>https://www.youtube.com/watch?v=98YuC-fPN4g]]|||
+|01/25|21|[[21日目：破産しない生き方>>https://www.youtube.com/watch?v=eXNqSRS89ms]]|||
+|01/28|22|[[22日目：BMためる日々>>https://www.youtube.com/watch?v=WF4-5K0_iAw]]|||
+|01/30|23|[[23日目：少しだけ→ガチグラDay３>>https://www.youtube.com/watch?v=wL8LP7LbunA]]||5:01:20まで|
+//|02/dd|n|[[配信タイトル>>ここに配信URLを入力]]|||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(1月)
+#region(2月)&bold(){2月}
+#table_style(head=center:#e6e6e6:#666666){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~主な出来事|~備考|h
+|02/dd|n|[[配信タイトル>>ここに配信URLを入力]]|||
+//|02/dd|n|[[配信タイトル>>ここに配信URLを入力]]|||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2月)
+#region(3月)&bold(){3月}
+#table_style(head=center:#e6e6e6:#666666){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~主な出来事|~備考|h
+|03/dd|n|[[配信タイトル>>ここに配信URLを入力]]|||
+//|03/dd|n|[[配信タイトル>>ここに配信URLを入力]]|||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(3月)
+#region(4月,open)&bold(){4月}
+#table_style(head=center:#e6e6e6:#666666){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~主な出来事|~備考|h
+|04/dd|n|[[配信タイトル>>ここに配信URLを入力]]|||
+//|04/dd|n|[[配信タイトル>>ここに配信URLを入力]]|||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(4月)
+#endregion(2026年)
+
+&b(){再生リストはこちら→}[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}【シーズン２ストグラとろろろろ】>>https://www.youtube.com/playlist?list=PLFXb_2gaeOAdaCjAj7aShEHa3OsO6zrXn]]
+
+*&size(25){&color(#999){動}}&color(#ccc){画} &font(#afeeee){&icon_fa(fa-brands fa-youtube)}
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa-solid fa-file-video)} 切り抜き動画}
+#region(2026年,open)&b(){2026年}
+#region(3月)&b(){3月}
+#table_style(head=center:#e6e6e6:#666666){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|03/25|[[【ストグラ2】改めてヘルアンとの関係を話し合うハンタスマメンバー達…>>https://www.youtube.com/watch?v=TJHP3igqzgk]]||
+|03/26|[[【ストグラ2】久々に起床したジャジャヴァへの態度で序列システムを崩壊させるとろろろろwww>>https://www.youtube.com/watch?v=dy5anI2Lfww]]||
+|03/27|[[【ストグラ2】急すぎるヘルアンの脱退に困惑するハンタスマメンバー達…>>https://www.youtube.com/watch?v=CqvFjvcwne0]]||
+|03/27|[[【ストグラ2】新メンバー候補へのハンさんの紹介に落ち込むとろろろろwww>>https://www.youtube.com/watch?v=JqaP7SuX4OM]]||
+|03/29|[[【ストグラ2】心無きの暴走によって弱ったメンタルをノビーさんにケアしてもらうとろろろろwww>>https://www.youtube.com/watch?v=8-myjvAJdSU]]||
+|03/30|[[【ストグラ2】ヘルアン脱退に対する本音をあびすと語り合うとろろろろ…>>https://www.youtube.com/watch?v=K2GRNk-rkcI]]||
+|03/30|[[【ストグラ2】小峯さんから昔のギャング観について学ぶとろろろろ達…>>https://www.youtube.com/watch?v=M6ocJvJBbLU]]||
+|03/31|[[【ストグラ2】五十嵐えいむからあることを指摘されるとろろろろwww>>https://www.youtube.com/watch?v=D6uMWnFdBbk]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(3月)
+#region(4月,open)&b(){4月}
+#table_style(head=center:#e6e6e6:#666666){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|04/03|[[【ストグラ2】ハンさんを無言で殴るぽこ師匠に驚愕するとろろろろ達www>>https://www.youtube.com/watch?v=xYOkAUIeVV8]]||
+|04/04|[[【ストグラ2】ノヴァファミリアとの抗争に負けてしまい反省会をするねぎとろ…>>https://www.youtube.com/watch?v=jatKemu05aw]]||
+|04/06|[[【ストグラ2】抗争に負けてハンタスマの今後について話すハンさんと椅子(?)になるとろろろろwww>>https://www.youtube.com/watch?v=AYncee0coFc]]||
+|04/11|[[【ストグラ2】警察一厄介なたぬきとチェイスをするとろろろろと畳かえるwww>>https://www.youtube.com/watch?v=heIsVhbr6w8]]||
+|04/12|[[【ストグラ2】さぶ郎とイロハの仲良しすぎる掛け合いに爆笑するとろろろろ達www>>https://www.youtube.com/watch?v=TXnkKVrsLow]]||
+//|mm/dd|[[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(4月)
+#endregion(切り抜き)
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa-solid fa-scissors)} ショート動画}
+#region(2026年,open)&b(){2026年}
+#region(2月～3月)&b(){2月～3月}
+#table_style(head=center:#e6e6e6:#666666){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|02/10|[[今のストグラって空飛べるんやw>>https://www.youtube.com/shorts/HUTfkanbaGg]]||
+|03/26|[[ジャンジャックヴァランとの場外乱闘>>https://www.youtube.com/shorts/nzZv0reaEik]]||
+|03/28|[[ハンタスマ加入のきっかけ>>https://www.youtube.com/shorts/3r5JV6JkGOA]]|S1|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2月～3月)
+#region(4月,open)&b(){4月}
+#table_style(head=center:#e6e6e6:#666666){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|04/02|[[ハンさんが大好きすぎて…>>https://www.youtube.com/shorts/hjs9__Vn4II]]|S1|
+|04/05|[[エイプリルフールの告白>>https://www.youtube.com/shorts/VGeI3c7gvJE]]||
+|04/07|[[ハンさんの椅子になったとろろろろwww>>https://www.youtube.com/shorts/coSbJOKy8fw]]||
+|04/12|[[カッコ良すぎる犯人のセリフ>>https://www.youtube.com/shorts/TDnzdYA2-Vk]]||
+//|mm/dd|[[タイトル>>ＵＲＬ]]|備考|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(4月)
+#endregion(ショート)
+
+*&size(25){&color(#999){関}}&color(#ccc){連情報} &color(#afeeee){&icon_fa(fa fa-folder-plus)}
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa fa-calendar-days)} ストグラ外コラボ}
+#include(鬼桃　ぷぅ/ストグラ外コラボ)
+//
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa fa-bag-shopping)} 関連グッズ}
+#region(開く,open)
+#table_style(head=center:#e6e6e6:#666666)
+#table_filter(){タイトル=show,詳細=hide,備考=show}
+|~期間|~タイトル|~詳細|~備考|h
+|10/30～11/10|【ハロウィングッズ】鬼桃ぷぅ・とろろろろ・鬼ヶ島ぴぃち|【個別】アクリルスタンド、ランダム缶バッジx?|boothで販売。受注生産+在庫が無くなり次第終了。|
+//|mm/dd|タイトル|詳細|補足内容|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+***&underdot(#eee,3px){&font(20,#777){&icon_fa(fa-solid fa-user-plus)} その他}
+&font(b,red){※ネタバレ注意}
+#region(別キャラクター)&b(){別キャラクターを閉じる}
+▶[[鬼桃　ぷぅ]]
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

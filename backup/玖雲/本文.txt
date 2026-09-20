@@ -1,0 +1,131 @@
+//16:9 
+#slide_img(auto=3,width=640,height=360,position=center){9c_20260731.jpg,玖雲20260419.jpeg,9c_20260808.jpg} 
+
+#table_style(head=#C0C0C0){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(ナイン クラウド){玖雲}|
+|~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|-&co(){※unionが存在しない組織の場合、この行ごと削除}|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年02月26日&br()&small(){（&countup(2026/02/26,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|9117番地|
+|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|施設名|
+|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[トウ　ユン]]|
+|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&s(){&font(b,#9E76B4){紫}}（抗争敗退により保留）|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(b,#9E76B4){&icon_fa(fa fa-cloud)} 基本情報
+-玖雲【ナインクラウド】･･･"最高潮（cloud nine）"など いろいろな意味を含ませている。9はトウユンが嫌っている数字だがあえて名称に取り入れた。9Cと略記されることあり。
+-ギャングというよりマフィア。
+-トラブルの際は武力より対話での解決を目指す。
+-理想を現実にするための力をつける、「強くなる」ギャング。
+-チームカラーは未定となっていたが、紫で固まった。
+--理由①　トウユンのイメージカラーの赤と、出身のGBCのチームカラーの青を合わせて
+--理由②　構成員の髪色・イメージカラーが紫の人が多かったため（トウユンの髪色も赤に青メッシュ）
+
+**フロント企業
+
+***&icon_fa(fa fa-music)&space()[[音楽レーベル Lanima（ラニマ）>>ラニマ]]
+-トウユンと罰下りの２人で起ち上げた音楽レーベル。
+-黒市民白市民問わず在籍。玖雲のメンバーと重なる部分も多い。
+-玖雲のメンバーでない人にも玖雲のフロント企業であることは伝えている。
+
+
+**組織の最終目標
+この目標は一部の構成員にのみ明かされている。
+#region(秘匿事項,close)閉じる
+
+&bold(){トウユンと共に日本に戻り、父の組織を潰す仲間を見つけるため}
+-2026/6/27　猿飛サンタローとお互いの身の上話をした流れで開示された
+-2026/7/27　イナフ・日々に開示
+#endregion(秘匿事項)
+
+*&icon_fa(fa fa-group) メンバー
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){加入日=hide,役職=show,コードネーム=hide,備考=show,配信=show}
+|~名前|~加入日|~役職|コードネーム|~備考|~配信|h
+|[[トウ　ユン]]|2026/02/26|ボス|王（ワン）|前の街ではギャングGBCのメンバー。GBCボスのマクドナルドを深く慕っていたが&br()新しい街でGBCは実質解散となっており自らギャング設立を決意した。|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@touyukann]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch} >>https://twitch.tv/touyukan]]|
+|[[カカッテコ＝イナフ]]|2026/02/26|アンダーボス|紫電（シデン）|設立メンバー。家族を求め黒になった。行き詰まりを感じていたところにトウユンが手を伸ばしてくれた。&br()トウユンの元で師事していたところ、ハンタスマからの勧誘を受け、玖雲設立のきっかけとなった。|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@LABY_enough]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/laby_enough]]|
+|[[日々]]|2026/02/26||銀（シルバ）|設立メンバー。元GBCの仲間内でもトウユンが特に"家族"と呼べるほどの信頼関係。&br()白市民を続けながら組織を支える予定だが、何かあれば黒として動く意志も持つ。|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UC4wkAf2pIPIoO-SmikQHN2A]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/daily009]]|
+|[[黒丈　シロウ]]|2026/03/08|||多少なり黒に手を染めた自身の進路を決めかねていた際にトウユンについて行きたいと志願して加入。&br()[[サニーケバブ]]に所属していたが、[[いずみ店長>柚乃　いずみ]]やケバブ屋の仲間を巻き込みたくないと職を辞している。&br()それと同時に[[モンスターハウスプロダクション]]の手伝いからも身を引いている。|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@shiro_zakuro]]|
+|[[瀬戸　ろろ]]|2026/03/19|||自分の帰れる場所を求め、音楽の師であり[[ラニマ]]に縁のあるトウユンに直訴して加入。&br()表では状況を説明したうえでカジノ[[LosVegas]]に所属している。|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCN6daCSFWSEG1oUGSbHP3Sw]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/siina_tororo]]|
+|[[ぬくお>https://w.atwiki.jp/streamergta5/pages/1339.html]]|2026/06/07||タモさん|自分以外の経験者を求めるトウユンが、その頭脳と人柄に惹かれてスカウト。&br()気軽に声をかけられる犯罪仲間を求めていたぬくおの条件に合い、しばらく見守るということで加入。|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@snapaaai]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/snapaaai]]|
+|[[沖原　たくみ>https://w.atwiki.jp/streamergta5/pages/2775.html]]|2026/07/30||クラマ|[[LUNA Garage]]や[[ふぁ〜部>https://w.atwiki.jp/streamergta5/pages/3056.html]]で起こった白黒の軋轢の中、白市民で出来ることの限界を感じていた。&br()黒になることを考えていたところ、勧誘を受け、大事なものを守る力を得るために加入。&br()[[LUNA Garage]]を退職後、8/6より本格的に犯罪を始める。|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E3%81%9F%E3%81%81%E3%81%8F%E3%81%85%E3%82%AA%E3%82%AD%E3%82%B5%E3%83%90]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/taakuu_okisaba]]|
+//|[[ゼペ・アルテミス>https://w.atwiki.jp/streamergta5/pages/3671.html]]|2026/07/04||ネロ|自称かつてトウユンがご飯をあげていた野良猫の生まれ変わり。&br()恩を返すためについていくと宣言するも、犯罪に手を染めることに悩み、闇の人格が生まれるなど迷走。&br()そんな中、脇の「拉致して洗脳してでもNOVAに入れる」という宣言を受け、保護のため、強くなるために加入。|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E3%81%9C%E3%82%8D%E3%82%8D%E3%81%BA]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/zeropez]]|
+//|[[名前]]|2026/mm/dd|役職|コードネーム|備考|配信|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+
+***過去メンバー
+#table_style(head=#696969:#F9FCFF)
+|~名前|~加入日|~脱退日|~経緯|~備考|h
+|[[ゼペ・アルテミス>https://w.atwiki.jp/streamergta5/pages/3671.html]]|2026/07/04|2026/09/03|友人の音姫みつおとの諍いで黒として詰めると上奏したことにより、トウユンとの認識差が明確に。&br()それを埋められないまま、NOVAの介入を受け入れたことでこじれ、決裂の末脱退となった。||
+
+***勧誘中／メンバー候補
+声掛けは多くしているため、既存住民は明確に加入勧誘した人、新規住民は加入の意思を見せた人だけ記載。
+#region(候補,close)閉じる
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){名前=show,備考=show,結果=show}
+|~名前|~備考|~結果|h
+|[[マッハボクシング　ドク>https://w.atwiki.jp/streamergta5/pages/2511.html]]|一緒に犯罪をしてみたいと感じたトウユンが、ばったり路地裏で出会った時に誘ったのが始まり。&br()その後機会があるごとに「そろそろか？」と尋ね、「自分はまだまだですよ」と返されている。|まだまだ|
+|[[御薬　キメ太郎]]|GBC時代に勧誘を断られていたが、新しい街でRqteLが解散したことにより改めて勧誘。&br()しかしその直後、交友関係などから不安要素が浮上し、それについて話す時間もないまま長期睡眠。&br()久しぶりの起床時に、今後の活動の不安定さなどを理由にアイドル共々辞退となった。|辞退|
+|[[カミジョウ　レン]]|車の運転に自信がない。能力不足でトウユンに迷惑をかけたくないからと加入希望を言い出せずにいた。&br()打ち明けた際にトウユンから加入条件として4月中にコンビニか銀行で、自力チェイスし犯罪を成功させるように言われる。&br()26/04/30に試験予定だったが、約1ヶ月間熟考した結果として辞退となった。|辞退|
+|[[ぬくお>https://w.atwiki.jp/streamergta5/pages/1339.html]]|経験者を加入させたいトウユンが勧誘。メンバーとは顔合わせをしており、瀬戸ろろには犯罪関連の指南をしている。|加入|
+|[[真新　サトシ>https://w.atwiki.jp/streamergta5/pages/740.html]]|GBCでの経験から、また一緒に犯罪がしたいとトウユンが勧誘。&br()S1の長い休眠を経て犯罪から離れており、木こりの職についていることもあり考え中。||
+|[[モーガン・フリーザン>https://w.atwiki.jp/streamergta5/pages/791.html]]|トウユンがGBC時代からずっと勧誘しており、ストレリチアの解散を機にこの街でも勧誘。&br()他にも誘いを受けており、六度の解散を経て慎重になっているため、返答は保留中。||
+|[[ゼペ・アルテミス>https://w.atwiki.jp/streamergta5/pages/3671.html]]|前世の猫の頃の恩を返すため、トウユンについていくと加護が外れた直後に宣言。&br()想定していたよりも急な展開な上、本人にも迷いがあるので、自分の人生は自分で決めてまた改めて申し出てほしいと保留。| 加入|
+|[[ジョーカー >https://w.atwiki.jp/streamergta5/pages/517.html]]|前の街から親しくしているトウユンが、隙あらば「いつうちに来るの？」と勧誘をかけている。&br()本人曰く今は白で忙しく、いつか黒に戻るにしてもトリガーが必要とかわされている。||
+|[[浦戸　ゼン]]|新規住民カーレースで誰よりも練習コースを走り込んでいる姿勢を気に入り、組織全体で熱烈な勧誘をかける。&br()一週間後までに白パスが発行されなかった場合は加入するという話になったが、白をやりきってからにしたいとの結論に至った。|辞退|
+|[[ぎちょう・じょばぁーな]]|その明るい人柄をトウユンが欲し、構成員にも好評だったため勧誘。&br()多大な借金を抱えていること、極楽鳥花に入る前に勧誘されていたところに筋を通してまず体験したいとのことで辞退。|辞退|
+//|[[名前]]|備考|結果|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(候補)
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//***協力関係
+//
+#co{
+//***過去メンバー
+#table_style(head=#696969:#F9FCFF)
+|~名前|~加入日|~脱退日|~備考|h
+|名前|加入日|yyyy/mm/dd|備考|
+|名前|加入日|yyyy/mm/dd|備考|
+//|名前|加入日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+*&icon_fa(fa fa-map-marker) 拠点
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){番地=show,用途=show,通称=show,管理者=hide,備考=show}
+|~番地|~用途|~通称|~管理者|~備考|h
+|9117|仮アジト&br()事務所&br()素材倉庫|お家|トウユン|初めて買った元東署インパウンド場・立体駐車場の直近の家。&br()購入時にその場所がマクドナルドストリートだと表示されて驚き、選んだ場所に運命的なものを感じた。&br()玖雲の仮アジトでありラニマの事務所でもある。&br()ユンと日々で資金を半々で出し合った。|
+|8238|素材倉庫|-|日々|元GBCアジト横の離れの家を素材倉庫として一階・二階とも購入。|
+|7068|黒用倉庫|-|トウユン|駐車場の横の物件。逃げ込み先として購入。|
+//|7151|本アジト|-|トウユン|建築士物件。|
+
+//|番地|用途|通称|管理者|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+*&icon_fa(fa fa-book) 歴史
+***2026年
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+|02/26|ギャング設立を決意|トウユン、イナフ、日々|ギャングを設立するのか、自分にできるのかとずっと考え続けてていたトウユンだったが&br()慕ってついてきてくれていたイナフがハンタスマから勧誘を受けたのをきっかけに設立を決意|
+|02/28|アジト購入|トウユン|[[マクドナルド]]ストリートに一軒家購入|
+|03/08|新メンバー加入|トウユン、イナフ、シロウ|黒丈　シロウ加入|
+|03/19|新メンバー加入|トウユン、ろろ|瀬戸　ろろ加入|
+|06/07|新メンバー加入|トウユン、ぬくお|ぬくお加入|
+|07/04|新メンバー加入|トウユン、ゼペ、イナフ、日々|ゼペ・アルテミス加入|
+|07/30|新メンバー加入|トウユン、たくみ、日々|沖原　たくみ加入|
+|08/19|アンダーボス任命|トウユン、日々、イナフ、たくみ|ボス療養に伴い、イナフをアンダーボスに任命|
+|09/03|メンバー脱退|トウユン、ゼペ、イナフ、たくみ、日々、ぬくお|ゼペ・アルテミス脱退|
+|09/17|抗争|トウユン、イナフ、たくみ、ぬくお|NOVA FAMILIAとの抗争　4vs7開始で最終1vs2まで持ち込み敗退|
+//|mm/dd|出来事|関係者|備考|
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#right(){&link_up(🔝ページTOPへ)}

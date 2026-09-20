@@ -1,0 +1,177 @@
+&image(Confate_ロゴ.jpg,y=300,center)
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#333:#ff1493){}
+|~店名|~&icon_fa(fa fa-star fa-flip)|&ruby(コンフェイト){Confate}|
+|~業種|~&icon_fa(fa fa-music)|飲食店：LIVE&BAR|
+|~開業日|~&icon_fa(fa fa-flag)|2026年8月23日&space()&small(){（&countup(2026/8/23,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|8073番地|
+|~店長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[さとう]]}|
+//|~job名|~&icon_fa(fa fa-user-tag)|　|
+//|~副店長|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[名　前]]}|
+//|~オーナー(会長)|~&icon_fa(fa fa-user-secret)|&bold(){[[名　前]]}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-さとうが新しい街でも歌を歌う人たちが気軽に披露出来る場所を作りたいと思い作り上げたライブステージ併設のバー。
+-建物の間取り及び内装の装飾のハウジングは建築士の[[閃光寺　亜夢]]に依頼した。
+-構想自体は2月初旬からあり、建築場所問題、資金面、オープンイベントの準備など様々な問題を乗り越えて8月23日オープンした。
+-メニューの価格帯に関しては、レギュラー商品とスタッフ特製商品で価格分けをしている。
+-さとう曰く、店長（オーナー）名義はさとうだが、設立メンバー4人が共同代表としている。
+#slide_img(auto=4,position=left,width=370,height=208,position=center){
+店内.webp,
+店内2.webp
+}
+
+**従業員情報
+***従業員
+#region(開く,open)
+#table_style(head=#333:#ff1493){名前=bold}
+|~役職|~名前|~就職日|~備考|h
+|店長|[[さとう]]|2026/06/24|設立メンバー|
+|店員|[[妻垣　さすらい]]|2026/06/24|設立メンバー|
+|店員|[[罰　下リ]]|2026/06/24|設立メンバー|
+|店員|[[キーピー・ダイヤ]]|2026/08/13|設立メンバー|
+|店員|[[紫音　ウィスタリア]]|2026/08/22||
+|店員|[[宇佐　卓]]|2026/09/02|2026/08/28体験　面接にて採用|
+|店員|[[亀山　Hero]]|2026/09/02|面接にて採用|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#endregion
+
+***職業体験者
+#region(開く)
+#table_style(head=#333:#ff1493){}
+|~名前|~体験開始日|~備考|h
+|[[N.A.W.A]]|2026/08/26||
+|[[宇佐　卓]]|2026/08/28|正規雇用済|
+|[[精一杯　まさ子]]|2026/09/17||
+|[[君乃　アイボ]]|2026/09/18||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+#endregion
+
+#co{
+//***退職者
+#region(開く)
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+}
+**商品・サービス情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***レギュラー商品
+#region(開く,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#333:#ff1493){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|Food|コンフェイトサンド|5,000|2026/08/23|開店時初期メニュー|
+|Drink|ロックスターエナジー|5,000|2026/08/23|開店時初期メニュー|
+|Joint|ハッピーラムネ|5,000|2026/08/23|開店時初期メニュー|
+|Food|USトロフィー|10,000|2026/09/13|[[宇佐 卓]]が初めて作った商品&br()イベント「ムーンカップ」出店時に初売り|
+|Drink|PINK☆NITORO|10,000|2026/09/13|作成者：[[紫音　ウィスタリア]]&br()イベント「ムーンカップ」出店時に初売り|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//種類＝Food,Drink,Joint,Others など
+#endregion
+
+#co(){
+***限定商品
+#region(開く,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#333:#ff1493){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+//
+***メニュー画像
+#region(2026/08/23 メニュー,close)&b(){2026/08/23 メニュー}
+&blankimg(メニュー_260823.jpeg,x=350,y=200)
+#endregion
+#region(2026/09/19 メニュー,open)&b(){2026/09/19 メニュー}
+&blankimg(メニュー_260919.png,x=350,y=200)
+#endregion
+
+#co{
+#region(yyyy/mm/dd メニュー,open)&b(){yyyy/mm/dd メニュー}
+&blankimg(ここに画像のURLを入力,x=350)
+#endregion
+}
+
+***サービス関連チラシ
+#region(開く,open)
+#region(2026/08/28 ライブハウスレンタル・貸切,open)&b(){2026/08/28ライブハウスレンタル・貸切}
+&blankimg(ライブハウス利用プラン.jpeg,x=250,y=350)
+#endregion
+
+#endregion
+//
+//
+#co{
+#region(yyyy/mm/dd メニュー,open)&b(){yyyy/mm/dd メニュー}
+&blankimg(ここに画像のURLを入力,x=350)
+#endregion
+}
+
+**イベント情報
+#region(開く,open)
+#table_filter(){開催場所=hide,出演者/関係者=hide,イベント内容=show,備考=hide,切り抜き動画=hide}
+#table_style(head=#333:#ff1493){イベント名/ポスター=bold}
+|~日程|~イベント名/ポスター|~開催場所|~出演者/関係者|~イベント内容|~備考|~切り抜き動画|h
+|2026/08/23|MIDDLE:CENTER:LIVEHOUSE&BAR&br()OPENING EVENT&br()&blankimg(confate_オープンライブ.jpeg,x=180,y=250)|8073番地 Confate店内|出演者：[[さとう]]／[[罰　下リ]]／[[妻垣　さすらい]]|Confate従業員による歌唱ライブ|　|動画|
+//|yyyy/mm/dd|イベント名&br()&blankimg(画像,x=210,y=300)|xxxx番地|出演者：[[名前]]／[[名前]]／[[名前]]／&br()関係者：[[名前]]／[[名前]]／[[名前]]／|イベント内容|備考|動画|
+
+#table_autoincrement(){label=No.}
+#endregion
+//
+#co{
+|yyyy/mm/dd|イベント名&br()&blankimg(画像,x=210,y=300)|xxxx番地|出演者：　&br()関係者：　&br()|イベント内容|備考|動画|
+
+[[名前]]／[[名前]]／[[名前]]／[[名前]]／[[名前]]
+
+&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[投稿者名>>URL]]
+}
+
+**沿革
+***2026年
+#region(開く,open)
+#table_filter(){エピソード=show,関係者=hide,備考=hide}
+#table_style(head=#333:#ff1493){}
+|~日付|~エピソード|~関係者|~備考|h
+|06/27|TwiXにてオープン告知・従業員の募集を開始。雀士も募集している。&br()&openclose2(show=▼求人ポスター){&br()&blankimg(confate_求人ポスター.jpeg,x=150,y=200)} |[[さとう]]||
+|08/23|LIVE&BAR Confateオープンライブを開催|[[さとう]]、[[罰　下リ]]、[[妻垣　さすらい]]||
+|08/28|ライブハウス利用プラン開始。TwiXにて告知を行う&br()&openclose2(show=▼告知チラシ){&br()&blankimg(ライブハウス利用プラン.jpeg,x=150,y=200)} |[[さとう]]||
+|09/02|店長、店員4人による採用面接を行う。&br()[[宇佐　卓]]、[[亀山　Hero]]を採用|[[さとう]]、[[妻垣　さすらい]]&br()[[キーピー・ダイヤ]]、[[紫音　ウィスタリア]]||
+|09/13|[[LUNA Garage]]主催 レース＆歌イベント『ムーンカップ』にて飲食販売を行う&br()[[さとう]]も歌手として出演|[[さとう]]|オープン後、初めてのイベント出店|
+//|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+**その他
+***credit
+デザイン案：SUGAROCK [[ポストリンク>>https://x.com/SUGAROCK_jp/status/2092218334276431984]][[。>>https://x.com/crazy69stars/status/2092220511707451608]]
+ロゴ・キャラクター：mani (@wiliemillie) [[ポストリンク>>https://x.com/wiliemillie/status/2092223681904968100]]
+飲食物商品：Eno (@ego_illust) [[ポストリンク>>https://x.com/SUGAROCK_jp/status/2092218334276431984]]
+
+#right(){&link_up(🔝ページTOPへ)}

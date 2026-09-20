@@ -1,0 +1,82 @@
+&image(DASU_TwiX.png,x=320)
+
+//❗️不要な行は削除して使用してください
+#table_color(head=#fadd68:#be5f4d){}
+|~会社名|~&icon_fa(fa-solid fa-palette)|&ruby(ダス){DASU}|
+|~業種|~&icon_fa(fa-solid fa-brush)|デザイン制作会社|
+|~開業日|~&icon_fa(fa fa-flag)|2026/04/03|
+|~所在地|~&icon_fa(fa fa-map-marker)||
+|~Twix|~&icon_fa(fa-solid fa-dove)|@pipidasu|
+|~創業メンバー|~&icon_fa(fa-solid fa-user-tie)|[[猫又　ぴぴ]]&br()[[天近　くるみ]]|
+//アイコンの間違いに気が付きませんでした。修正ありがとうございます。
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+#div(width=200px,bgcolor=#fadd68){&size(17){&font(b,#be5f4d){　概要}}}
+・[[猫又　ぴぴ]]と[[天近　くるみ]]が始めたデザイン制作会社。
+
+#div(width=200px,bgcolor=#fadd68){&size(17){&font(b,#be5f4d){　業務内容}}}
+・フライヤー、雑誌、パンフレットの作成
+
+#div(width=200px,bgcolor=#fadd68){&size(17){&font(b,#be5f4d){　業務実績}}}
+#region(依頼一覧)&b(){依頼一覧}
+#areaedit
+#table_style(head=center:#fadd68:#be5f4d){店舗名=bold}
+|~依頼者|~依頼日|~納品日|~依頼内容|~備考|h
+|[[ジョーカー]]||2026/04/08|めれにくすの名刺||
+|[[斎藤>>ブロッコリー　斎藤]]|||ぶろっと保険のチラシとパンフレットの作成||
+|[[パン　チャン]]|2026/04/11||廃車買取サービスのフライヤーの作成||
+//|[[依頼者]]|依頼日|納品日|依頼内容|備考|
+//情報がすべて揃っていなくても良いので更新してもらえるとありがたいです。
+#table_autoincrement(){label=No.,start=1}
+#areaedit(end)
+#endregion
+
+#div(width=200px,bgcolor=#fadd68){&size(17){&font(b,#be5f4d){　料金表}}}
+・現在、以下2つのプランがある。
+#table_style(head=#fadd68:#be5f4d){}
+|>|>|&b(){プラン：全部まるっとお任せ！まずはお試しに！}|
+|~納品物|~金額|~補足|
+|フライヤー(1枚)|100万円||
+|雑誌、パンフレット等|300万円～|1ページ追加ごとに50万円|
+
+#table_style(head=#fadd68:#be5f4d){}
+|>|>|&b(){プラン：こだわりたい方におすすめ！一緒に作る！}|
+|~納品物|~金額|~補足|
+|フライヤー(1枚)|300万円～||
+|雑誌、パンフレット等|要相談||
+
+**従業員情報
+***&underdot(#f7e6e7,3px){&space()従業員&space()}
+#table_style(head=#fadd68:#be5f4d){名前=bold}
+|~役職|~名前|~就職日|~備考|h
+||[[猫又　ぴぴ]]|2026/04/03|DASU立ち上げメンバー|
+||[[天近　くるみ]]|2026/04/03|DASU立ち上げメンバー|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+#co{
+//***&underdot(#f7e6e7,3px){&space()体験&space()}
+#table_style(head=#fadd68:#be5f4d){名前=bold}
+|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+}
+**沿革
+***&underdot(#f7e6e7,3px){&space()2026年&space()}
+#region(,open)
+#table_filter(){エピソード・備考=show}
+#table_style(head=#fadd68:#be5f4d)
+|~日付|~出来事|~エピソード・備考|h
+|04/03|事業開始|[[猫又　ぴぴ]]と[[天近　くるみ]]の2名にて事業を開始する。|
+//|mm/dd|出来事|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//雇用情報は基本的に従業員情報へ
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

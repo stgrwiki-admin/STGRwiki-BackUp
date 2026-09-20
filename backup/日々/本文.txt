@@ -1,0 +1,1049 @@
+&image(S2日々_top画.jpg,x=400,center)
+
+#region(Season1 プロフィール画像)
+#image(日々_230708.jpg,y=350)
+#endregion
+
+#table_filter(){SEASON1=hide,SEASON2=show}
+#table_style(head=#F37053:#4C2E30){}
+|~世界線|~SEASON1|~SEASON2|h
+|~名前|>|&bold(){&ruby(ひび){日々}}|
+|~出身地|>|日本|
+|~誕生日|>|2005年05月05日 (&countup(2005/05/04,y)歳)|
+|~転入日|2023年06月06日 (&countup(2023/06/06,yd)経過)|2025年12月19日 (&countup(2025/12/18,yd)経過)|
+|~職業|&link_anchor(id_1d672329,pageid=558){GoodbyeCompany}所属タレント&br()[[Père Noël]]店員&br()[[GroobyBabyCafe]]店員|[[LastJump in ParadiseLost]] &small(){（2025/12/27~）}&br()[[渡戸林業]] &small(){（2026/01/10~）}　|
+|~副業|牧場経営&br()ガソリンスタンド経営&br()バス運転手&br()木こり|素材屋（個人納品）参考：[[素材屋連盟]]|
+|~所属|-|マフィア【[[玖雲]]】 &small(){（2026/02/27~）}&br()音楽レーベル【[[ラニマ]]】&small(){(2026/03/06~)}&br()サークル【[[ウクレレ部]]】&small(){（2026/03/25~）}|
+|~TwiX|@daily|@daily|
+|~レーサー名|月影さや|　|
+|BGCOLOR(#F37053):~&color(#ffffff){プレイヤー}|>|Rin|
+|BGCOLOR(#F37053):~&color(#ffffff){告知等}|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/RinRi_0070]]|
+|BGCOLOR(#F37053):~&color(#ffffff){配信場所}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UC4wkAf2pIPIoO-SmikQHN2A]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (daily009)}>>https://www.twitch.tv/daily009]]|
+|BGCOLOR(#F37053):~&color(#ffffff){動画/アーカイブ}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UC4wkAf2pIPIoO-SmikQHN2A]] |
+
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+&color(#000000){&size(20){&bold(){目次}}}
+#region(開く,open)
+閉じる
+&aname(目次1,option=nolink){}
+#contents(level=2)
+#endregion
+
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+* &color(#F37053){&icon_fa(fa fa-id-card-o)} 基本情報
+・あだ名はびーちゃん、[[GBC>GoodbyeCircus]]内では裏ボスと称される。
+・日本で歌手を目指しているが、まだアーティストとして認められていない。[[葉時山 バジル>葉時山　バジル]]の会見を見て、ロスサントスにやってきた。
+・[[マクドナルド]]曰く【天然のナ↑マ↓コ(生娘)】度々ボンヤリとしてしまうがそんな所も彼女の可愛らしい一面。メンバーから愛されている癒し枠。
+・完全白市民で現在は犯罪行為は行わない方針。
+・ロスサントス屈指のファーマーであり、素材屋として界隈では女王とも言われるほど。&br()組織では素材武器食料品まで団員が不自由なく動ける状態を作り出す頼れる母のような存在。
+・日々の脳内に描かれている独自の自販機のルートを[[ろぜ柳 ぴん子>ろぜ柳　ぴん子]]により日々直伝の自販機レースコースとして具現化され自販機界隈では高く評価されている。
+・綺麗な歌声を持っており、経験0から作曲も行い多数のオジリナル曲を持つ。夏フェスやサーカス、[[カジノ]]競輪イベントで披露。
+・ジャパニーズヤクザの家系で元々隠して生きていく予定だったが一部の団員には[[マクドナルド]]によって伝わっている。
+・学生時代は女バスだったらしく、意外だと言われる。
+・タクシー免許を取得し就職。これにより全ての免許を取得した。(2024/06/14)
+&openclose2(show=※別人格？ネタバレ){&br()&size(12){「火野さん」という声の低い別人格？がいる（2024/11/16）}}
+
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+*&color(#F37053){&icon_fa(fas fa-icons)} イベント関連
+#div(width=200px,bgcolor=#F15B47){&size(17){&font(b,#FFFFFF){　SEASON 1}}}
+#region(開く)閉じる
+・[[カジノ]]競輪イベントではGBCの歌姫として大きく紹介された。(2024/04/13)
+・第1回ひみつの音楽祭を企画開催、自身も歌唱しオープニングを飾った。(2024/04/25)
+・魔法少女カフェ[[RitUal:]]社員旅行の謎解きを企画。当日参加が難しかったため団員へバトンを渡し無事開催。内容も素晴らしいと好評を得た。(2024/05/21)
+・第2回ひみつの音楽祭を企画開催、[[ダミアン>ダミ　アン]]と創り上げた「Days」を歌唱。(2024/07/25)
+・[[GroobyBabyCafe]]オープン記念ピアノカバーライブにて「Shout Baby / 緑黄色社会」を歌唱（2024/10/23）
+・第3回ひみつの音楽祭を企画開催、アカペラにて「ねむりのうた」を歌唱。(2024/12/18)
+・海上レストランにて飲食店交流会の発足・説明会を開催(2025/04/20)
+・[[STGラジオ局]]ディレクターとしてオリジナル曲を紹介する音楽番組「MusicDays」を担当。第16回（2025/05/30）
+・GBC SummerShowをダミアンと企画開催、[[ダミアン>ダミ　アン]]と[[トウユン>トウ　ユン]]3人で「ひかり」を歌唱（2025/07/29 23:14）
+#endregion
+
+#div(width=200px,bgcolor=#F15B47){&size(17){&font(b,#FFFFFF){　SEASON 2}}}
+#region(開く,open)閉じる
+・『小さな水辺のコンサート』[[モンスターハウスプロダクション]](2026/01/25)
+
+#endregion
+
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+*&color(#F37053){&icon_fa(fa-solid fa-music)} オリジナル曲(全15曲)
+***Season1
+#region(開く)
+#region(「住処」,close)「住処」
+#blockquote(){{&b(){「住処」&br()&size(12){※この街に来るにあたって作曲　マクドナルドに出会った際に披露}}
+
+振り向けばほら　みんなの笑顔
+君はそう　一人じゃない
+夢を求めて　出会った街は
+今日もいろんな色に染まってる
+この街は生きてる
+
+もうダメだって　孤独になって
+世界が黒く歪んで見えても
+振り向けばほら　みんなの笑顔
+君はもう1人じゃない
+この街と生きてる
+
+運命が重なり合って
+
+素敵な出会い　悲しい別れ
+どんな記憶も　大切な思い出
+振り向けばみんなの笑顔
+この街で生きていく
+
+}}
+
+#endregion
+
+#region(「きのこ狩りの歌」,close)「きのこ狩りの歌」
+#blockquote(){{&b(){「きのこ狩りの歌」&br()&size(12){※夏フェスオーディションで歌唱}}
+
+きのこ狩りに行くぞ　きのこ狩りに行くぞ
+頑張って山登り　凝らし目できのこ狩り
+ここ そこ あそこ一面に　綺麗に洗って即ばいばい
+ 
+きのこ　きのこ　きのきのこ
+きのこ　きのこ　きのきのこ
+きのこ　きのこ　きのきのこ
+きのこ　きのこ　きのきのこ
+
+}}
+
+#endregion
+
+#region(「マーメイドの唄」,close)「マーメイドの唄」
+#blockquote(){{&b(){「マーメイドの唄」&br()&size(12){※ボイラ・ノアのデートで歌唱}}
+
+愛し合う2人　見つめあって
+手と手をとって　このまま海の果てに消えていこう
+
+La~ LoveLoveLove LaLaLa~
+La~ LoveLoveLove 
+
+ずっと　一緒に
+
+}}
+
+#endregion
+
+#region(「サーカス」,close)「サーカス」
+#blockquote(){{&b(){「サーカス」&br()&size(12){※サーカスショーで歌唱}}
+
+みんなと過ごす楽しい時間　必ず終わりは来るけれど
+それはきっと思い出に変わる　そう素敵な、思い出
+
+ここはサーカス　ずっとハッピータイム
+もっとカーニバル　最上のNightStar
+ここはパラダイス　ずっとカーニバル
+今日はおやすみ　最高のサーカス
+
+}}
+
+#endregion
+
+#region(「警察慰安旅行用ジャズ」,close)「警察慰安旅行用ジャズ」
+#blockquote(){{&b(){「警察慰安旅行用ジャズ」&br()&size(12){※マクドナルドの前で披露 (2023/11/08 02:49)}}
+
+雨の降る街　ネオンの香り
+着飾るジュエルもっと深みへ
+
+あなたの口で　奏でる夢は
+どんな言葉も叶える魔法
+
+言葉ではなく気持ちで伝えて
+気持ちではなく言葉で伝えて
+
+吐き出す感情求める志向
+熱いメロディ隣で聴いて
+求める感情吐き出す志向
+熱いメロディ隣で聞いて
+
+}}
+
+#endregion
+
+#region(「カジノイベント用の曲①」,close)「カジノイベント用の曲①」
+#blockquote(){{&b(){「カジノイベント用の曲①」&br()&size(12){※レンとひろしの前で披露 (2024/01/31 00:37)　レン,ひろし,ズズ,サトシ,ももこ,天乃進,ヨウコウの前で披露 (2024/04/09 23:52)}}
+
+1,2 1,2,3
+LaLaLa　成功天下優勝幸福成就
+今日は全部全部全部　HappyDay
+LaLaLa　勝利合格昇格一攫千金
+今日は全部全部全部　LukkyDay
+
+Ah みんな夢を背負って駆ける(賭ける)
+
+LaLaLa　成功天下優勝幸福成就
+今日は全部全部全部　HappyDay
+LaLaLa　勝利合格昇格一攫千金
+今日は全部全部全部　LukkyDay
+
+LaLaLa　みんなに幸あれ
+
+}}
+
+#endregion
+
+#region(「カジノイベント用の曲②」,close)「カジノイベント用の曲②」
+#blockquote(){{&b(){「カジノイベント用の曲②」&br()&size(12){※レン,ひろし,ズズ,サトシ,ももこ,天乃進,ヨウコウの前で披露 (2024/04/09 23:51)}}
+
+あぁこの日のために生まれてきたんだ
+最高の舞台と最高のコンディション
+
+力と速さの高速パレード
+輝く勝利を僕のこの手に
+
+駆ける駆ける駆ける(賭ける賭ける賭ける)　もう君は止まらない
+駆ける駆ける駆ける(賭ける賭ける賭ける)　夢を掴むまで
+駆ける駆ける駆ける(賭ける賭ける賭ける)　この胸の高鳴りは
+駆ける駆ける駆ける(賭ける賭ける賭ける)　もう誰も止められない
+
+}}
+
+#endregion
+
+#region(「カジノイベント用の曲②完成版」,close)「カジノイベント用の曲②完成版」
+#blockquote(){{&b(){「カジノイベント用の曲②完成版」&br()&size(12){※カジノ競輪イベントにて歌唱 (2024/04/13 23:21)}}
+
+ただ前だけを見て　ここまで来たんだ
+晴天の青空　迎えた今日という日に
+
+みんなの声援力に変えて
+ペダルを漕ぎ出す強く激しく
+
+駆ける(賭ける)　どんな道も　もう君は止まらない
+挑め　壁を超えて　夢を掴むまで
+届け　熱い思い　この胸の高鳴りは
+目指せ　勝利掴め　未来は君のために
+
+}}
+
+#endregion
+
+#region(「ねむりのうた」（夢の子守唄）,close)「ねむりのうた」(夢の子守唄）
+#blockquote(){{&b(){「ねむりのうた」(夢の子守唄)&br()&size(12){※ダミアンとひろしの前で披露 (2024/03/24 01:54)&br()ダミアン,ももこ,フラム,チエリ,こはるの前で披露 (2024/06/19 01:50)&br()マクドナルド,ボイラの前で披露 (2024/06/27 01:24)&br()ダミアン,天乃進,こはる,レンの前で披露 (2024/07/13 02:41)&br()FIBの音楽室にて歌唱 (2024/12/09 02:14)&br()第3回ひみつの音楽祭にて歌唱 (2024/12/18 23:04)}}
+
+遠くに聞こえる　鐘の音が響き
+闇に包まれる　白い欠けた月
+あなたを想って　奏でる唄は
+月夜の光が　優しく包む
+
+眠れよ眠れ　心穏やかに
+眠れよ眠れ　夢にとけてゆく
+
+明るい夜明けが　希望を照らす
+深い暗闇も　共にとけてゆく
+
+眠れよ眠れ　心穏やかに
+眠れよ眠れ　夢にとけてゆく
+
+}}
+
+#endregion
+
+#region(「Grow up」,close)「Grow up」
+#blockquote(){{&b(){「Grow up」&br()&size(12){※第1回ひみつの音楽祭にて歌唱 (2024/04/25 23:05)}}
+
+初めの一歩　踏み出す勇気持って
+
+手を伸ばしても　指先さえ届かない
+自信が持てず　心が折れそうでも
+一緒に行こう　何か迷うこともある
+見つめる先は　自分で決めるの
+
+大丈夫　失敗は成功への道しるべ
+
+初めの一歩　踏み出す勇気持って
+羽ばたきたい　もっと自由な空へ　飛び立とう
+
+ただ同じことを　繰り返していく毎日
+だけどたまには　ちょっと色を付けたい
+美味しいとこだけ　一口ずつつまみ食い
+そんな贅沢も　たまにはいいでしょ
+楽しいこと　何でも片っ端からやってみよう
+
+初めの一歩　踏み出す勇気持って
+羽ばたきたい　もっと自由な空へ　飛び立とう
+
+未来の私のために　今どんな事ができるのかな
+
+夢を描く　パレットは無限大
+過去の不安に　別れを告げて
+
+初めの一歩　踏み出す勇気持って
+羽ばたきたい　もっと自由な空へ　飛び立とう
+
+}}
+
+#endregion
+
+#region(「Days」,close)「Days」
+#blockquote(){{&b(){「Days」&br()&size(12){作詞：日々 作曲：ダミアン&br()※第2回ひみつの音楽祭にて歌唱 (2024/07/25 23:33)}}
+
+◇ダミアンパート ◆日々パート ★2人
+
+◇ 見上げた空　深呼吸して
+◆ 魔法の言葉を唱えるの
+★ 絶対大丈夫！と
+★ 大空へ
+
+◇ 自信が持てなくなって
+◇ 立ち止まって
+◇ 前に進めなくて
+
+◇ 目の前の
+◇ あなたの背中遠くに見える
+
+◆ 深いため息を誤魔化して
+◆ 深呼吸さえもうまくできない
+
+★ 心の汗が瞼を濡らす
+★ もうダメだよって
+★ 言葉を飲み込む
+
+★ それでも
+★ 諦めたくない夢があるの
+★ 勇気を奮いおこし
+★ 何度も立ちあがる
+
+◇ 思い切り自分を騙して
+◆ 弱い自分に嘘をついてこう
+★ 私は大丈夫！と
+★ 大声で
+
+◇ 何ができるかなんて
+◇ なにも浮かばない
+◇ ただ過ぎてく日々
+
+◇ 一歩でも踏み出せない
+◇ 臆病な心
+
+◆ あなたの声が聞こえなくて
+◆ 焦るばかりで空回り
+
+★ 心の奥の何かが折れて
+★ もう終わりだって
+★ 言葉を飲み込む
+
+★ Ah
+
+◇ 弱い私のこと
+◇ 好きになれなくて
+◆ それでも弱さも
+◆ 受け止めてゆこう
+
+★ それでも
+★ 諦めたくない夢があるの
+★ 勇気を奮いおこし
+★ 何度も立ちあがる
+
+◇ 思い切り自分を騙して
+◆ 弱い自分に嘘をついてこう
+★ 私は大丈夫！と
+★ 大声で
+
+★ 絶対大丈夫！と
+★ 叫んでる
+
+}}
+
+#endregion
+
+#region(「記憶のかけら（仮）」,close)「記憶のかけら（仮）」
+#blockquote(){{&b(){「記憶のかけら(仮)」&br()&size(12){※FIBの音楽室にて歌唱 (2024/12/09 02:20)&br()マクドナルドの前で披露 (2025/02/14 01:41)}}
+
+今は遠い昔に　片付けられた人形が
+恋や愛は幻　ぽつりとつぶやく
+
+暗闇の中で見る　幸せな夢は
+思い出しては消える　記憶の欠片
+
+街は光に溢れ　幸せが満ちる
+手を伸ばしては消える　形あるもの
+
+いつか壊れる　もう夢なんてみなくていい
+いつか壊れる　もう愛なんて知らなくていい
+
+月明かりだけの部屋　つかない暖炉見つめて
+静かな夜に響く　行き交う人の足音
+一人暗闇の中　暖かい部屋夢見て
+恋や愛は幻　静かに呟く　そっと囁く
+
+}}
+
+#endregion
+
+#region(「DEAD END（仮）」,close)「DEAD END（仮）」
+#blockquote(){{&b(){「DEAD END(仮)」&br()&size(12){※別荘船着き場にて歌唱 (2024/12/11 23:54)&br()サーカスにてマクドナルド含め団員の前で披露 (2024/12/16 00:14)}}
+
+夕日を見つめながら　アスファルトに映る影ひとつ
+分かり合えない悩みを　いくつも抱えながら歩く
+高い壁が行く手を塞いで
+出口のない迷路を彷徨う
+
+広がる世界に追いつけずに　手を伸ばしても
+崩れ落ち手を伸ばしても　掴みきれず
+彷徨い続け　明日へ続いてく
+
+薄れゆく記憶の中　思い出せない何かを探す
+振り向いても掴めないもの　未来を記す道しるべ
+遠い世界に追いつけずに　手を伸ばしても
+崩れ落ち手を伸ばしても　掴みきれず　
+彷徨い続け　明日へ続いてく
+
+広がる世界に追いつけずに　手を伸ばしても
+崩れ落ち手を伸ばしても　掴みきれず
+彷徨い続け　明日へ続いてく
+もう戻らない日に　前に進む道
+ひたすら歩いて　ただ歩いていく
+
+}}
+
+#endregion
+
+#region(「メイド喫茶の歌（仮）」,close)「メイド喫茶の歌（仮）」
+#blockquote(){{&b(){「メイド喫茶の歌(仮)」&br()&size(12){※メイド喫茶にてマクドナルド、ちゃんももの前で即興披露 (2024/12/16 00:14)}}
+
+La La La　・・・　ご主人様おかえりなさい　今日はどんな時間を過ごしますか
+オムライスにはなんて書きます　今日は何時までいられますか
+La La La　・・・今日はたくさん一緒にお話してくださいね
+
+}}
+#endregion
+
+#region(「ひかり」,close)「ひかり」
+#blockquote(){{&b(){「ひかり」&br()&size(12){作詞；日々 作曲：ダミアン Mix：トウユン&br()※GBC SummerShowで歌唱 (2025/07/29 23:14)&br()GroobyBabyCafeにてイベント打ち上げで歌唱（2025/07/30 01:02）}}
+
+明かりが灯ったら
+会いにおいで
+ビルの合間ぬけて
+いつもの場所へ
+
+
+眩い光が（輝いて）
+続いてゆくこの道を（どこまでも）
+
+翔け抜けてゆく空（追いかけて）
+辿り着いた
+大切な場所
+
+初めましてと言って
+希望にあふれるこの街で
+なんでも叶うはず
+ただ夢だけ持ってた
+
+
+寂しい時には
+迷わずにおいで
+喧騒と靴音も
+僕らのメロディー
+
+明かりが灯ったら
+会いにゆこう
+ビルの合間ぬけて
+いつもの場所へ
+
+
+未だ見ぬ未来を（手探りで）
+進んでゆく迷っても
+
+羽ばたいてく空（飛び越えて）
+かけがえのない
+特別な場所
+
+偶然が重なって
+巡りあえたこの街で
+なんでもできるはず
+ただ夢だけ追ってた
+
+
+楽しい時にも
+迷わずおいで
+笑顔が奏でる
+愉快なハーモニー
+
+明かりが灯ったら
+会いにゆこう
+ビルの合間ぬけて
+いつもの場所へ
+
+
+ふと不安が押し寄せる
+そんな夜もあるけれど
+手を伸ばせば、ほら
+そこにみんながいるから
+
+
+明かりが灯ったら
+会いにゆこう
+ビルの合間ぬけて
+いつもの場所へ
+
+僕達（ぼくら）の明日は
+何色かな？
+まっしろなキャンバスに
+描こう
+
+oh-
+
+澄み渡る空に
+虹を掛けて
+何色にもなれる
+夢を描こう
+
+明かりが灯ったら
+会いにゆこう
+みんなの待つ
+いつもの場所へ
+
+LALALA-
+
+}}
+#endregion
+#endregion
+
+***Season2
+
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+*&color(#F37053){&icon_fa(fa-solid fa-file-pen)} エピソード
+
+//-------------------------------------------------
+#div(width=200px,bgcolor=#F15B47){&size(17){&font(b,#FFFFFF){　SEASON 1}}}
+***2023年
+#region(開く)閉じる
+****6/6　#1　[[初めましてロスサントス>>https://youtu.be/jh3NGDTILGg]]
+#region(エピソード募集中)
+・エピソード募集中
+#endregion
+
+****7/7　#2　[[新しい街で今日はお仕事を探してみる？>>https://youtu.be/VazAOnalHgM]]
+#region(エピソード募集中)
+・エピソード募集中
+#endregion
+
+****7/8　#3　[[家族？お家？占いのご縁はなんだろう>>https://youtu.be/aqFJQB0394Y]]
+#region(エピソード募集中)
+・エピソード募集中
+
+#endregion
+#endregion(2023年)
+//-------------------------------------------------
+//
+***2024年
+#region(開く)閉じる
+****1月　
+#region(開く)1月　
+****1/3　[[#101 初夢見れたかな？☆日々/Rin視点>>https://www.twitch.tv/videos/2020625557]]
+#region(エピソード募集中)
+・エピソード募集中
+#endregion
+****1/3　[[#102 のんびりお正月！☆日々/Rin視点>>https://www.twitch.tv/videos/2021538909]]
+#region(エピソード募集中)
+・エピソード募集中
+#endregion
+****1/4　[[#103 今日もいろいろお仕事します！☆日々/Rin視点>>https://www.twitch.tv/videos/2022471074]]
+#region(開く)
+・エピソード募集中
+・7030倉庫で月影として起床。衛星外で進めた7030倉庫ハウジングの進捗とスタッシュがいっぱいなので向かい2部屋を購入したと衛星に報告。
+・向かい部屋購入直後の出来事として、GBCグルチャで[[らみ>>https://w.atwiki.jp/streamergta5/pages/534.html]]から&bold(){「7030の家、allinにばれたと思うので鍵は忘れずに！」}報告を確認して笑っちゃう→無線で7030を使うときは変装で（グッバイとバレてる）と確認&共有→そんなかんじなので変装していた
+・[[帝　レン]]が倉庫の鍵を持っていないため、無線でマクドナルド起床後鍵をもらうよう伝える
+・ゴミ箱漁り
+・現状〝布〟は[[カム>>https://w.atwiki.jp/streamergta5/pages/137.html]]たちが補充しているため枯渇しているほどではない
+・本日クラフトは一回済み
+・[[らみ>>https://w.atwiki.jp/streamergta5/pages/534.html]]から&bold(){「スプレーします！」}報告無線にお願いします応答
+・紙を売りに行こうか思案。手芸をあげたい人がいれば必要なためどうかな～と悩む。
+・新しい変装もつくったほうが良さそう。月影もずっと使っているため
+・8000番台（マップ番号よく見えず）倉庫に収集素材を収納
+・GBCグルチャで0時飛行場確認
+・昨日[[カム>>https://w.atwiki.jp/streamergta5/pages/137.html]]から話された「（無線に）入っていいのかわからないので今のところ入ってない」旨を無線メンバーに相談。日々としては入っていいよと伝えている。[[ダミアン>>https://w.atwiki.jp/streamergta5/pages/875.html]]は既に入っている。「（カムが）入り辛そうだから初回は（カムダミ）一緒にいるときがいいのかなと思って」「皆はどっちにした方がいいんだろうていうのがあると思って」→[[サトシ>>https://w.atwiki.jp/streamergta5/pages/740.html]]「0時飛行場あるからそれがもしとれなかったら集まる？一回」全員賛同して一時保留。
+・[[けっつん>>https://w.atwiki.jp/streamergta5/pages/539.html]]からの素材買取依頼を再確認。1月5日以降（メタルスクラップ1000×3000円/プラスチック2000×2000円＝700万円）
+・客船が始まりアジトがすごいことになってると無線で聞く。
+・銃弾を買い足したいためショップで値段確認ついでに購入しようとするが免許携帯しておらず取りに戻る→パス、ウエポンライセンス携帯、お金もなかった！クラフトもしたいのでATM引き出し→レギオンクラフト場で簡易蘇生キット等制作「これとかはさ量産に時間がかかるから。すぐほしいってときにすぐ出せるように。常日頃必要ないときにもちょくちょく作るのがね、いいんじゃないかなって思うので」
+・[[ネケ>>https://w.atwiki.jp/streamergta5/pages/751.html]]からの無線呼びかけにらみが応じ4人が観戦中なのを聞く
+・ショップで5.56X45を3000購入→追加で.45ACPを500購入
+・サイレン中のパトカーとバイクで事故り吹っ飛ぶ。怪我をしたが大丈夫ですで済ませる。パトカーから降りて謝罪してきた警官（虎マスクの男を足元に引き連れ）に「何かあったら警察の方に。[[伊田場　零雨]]がって感じで連絡くれれば」と伝えられる。→変装中＋持ち物がまずいためアジトへ収納に行く
+・アジトにつくなり一眼レフを構えフラッシュをたきまくる[[らみ>>https://w.atwiki.jp/streamergta5/pages/534.html]]達に絡まれる
+・アジトで[[らみ>>https://w.atwiki.jp/streamergta5/pages/534.html]]、[[ネケ>>https://w.atwiki.jp/streamergta5/pages/751.html]]、[[レン>>https://w.atwiki.jp/streamergta5/pages/355.html]]、[[サトシ>>https://w.atwiki.jp/streamergta5/pages/740.html]]、[[ひろし>>https://w.atwiki.jp/streamergta5/pages/796.html]]と合流。ネケから怪我を心配され警察の車とぶつかったと報告。
+&color(#00008b){ひろし「えぇ！？警察の不祥事か！？」}&color(#ff1493){らみ「警察まじかぁ」}&color(#006400){ネケ「許せない。記事として書いとくわそれ」}
+・目前が一瞬暗くなり慌ててバーカウンタースタッシュに銃弾収納
+・いつもの姿に戻る
+・ネケが一眼レフカメラマン、ひろし、レンがガンマイクアシスタントする中、ダモさんが登場。アジト外でパトカーが止まったのを見つけ、ネケらが取材に出ていくのをついていく
+・皆が停車している無人パトカーを取り囲む様子を見守る
+&color(#ff1493){らみ「これカンパニーの敷地じゃないですか！？ここ」}
+&color(#006400){ネケ「違法駐車ってやつじゃないですか？」}
+&color(#F54738){日々「あ～…」}
+・ネケがパトカーを物色。メニューが盗まれているという
+「スチールが61個入ってるぞ！」「とるか！？」&color(#F54738){日々「とっちゃだめですよ！」}
+・病院へ行くネケに同行する。3人乗りでネケの隣ではなく後部座席に座ったところネケにつっこまれ否定しつつ大笑いしちゃう。&bold(){「日々さん…やっぱり人の上に立ちたいんだね…横じゃなくてわざわざその上に乗るって…」「違う違う！！」}→向かう途中車両が横転したところ狐マスクのバイク男に話しかけられる「楽しそうだねえ」→助手席に乗りなおす。ネケの運転にハラハラしていると到着直前で一回転し病院を通り過ぎる。スリリングな運転に二人で大笑い
+・病院ロビー水槽の中で立ち尽くす[[鳥野　ぎん]]を目撃。かなりホラー
+・[[ももみ>>https://w.atwiki.jp/streamergta5/pages/61.html]]に治療してもらう
+・帰路の際、またしてもネケ車両の後部座席に乗ってしまう。ネケの「極道の女ってのは…」というぼやきに「実家がアレなんでね」と返しネケを驚かせるも、ダイナミックな運転で回転しながら吹っ飛ぶ。（無傷）
+
+#endregion(1/4)
+#endregion(1月)
+
+#endregion(2024年)
+
+//-------------------------------------------------
+#div(width=200px,bgcolor=#F15B47){&size(17){&font(b,#FFFFFF){　SEASON 2}}}
+***2025年
+#region(12月)12月
+//
+****12/19　&font(#BA87F1){&icon_fa(fa fa-twitch)}[[新たな街へ！>>https://www.twitch.tv/videos/2647701449]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****12/24　&font(#BA87F1){&icon_fa(fa fa-twitch)}[[新たな職探し！>>https://www.twitch.tv/videos/2651865917]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****12/25　&font(#BA87F1){&icon_fa(fa fa-twitch)}[[Merry Christmas！>>https://www.twitch.tv/videos/2652554631]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****12/26　&font(#BA87F1){&icon_fa(fa fa-twitch)}[[色々なところに行ってみる！>>https://www.twitch.tv/videos/2653272474]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****12/27　&font(#BA87F1){&icon_fa(fa fa-twitch)}[[ラスパラオープン！>>https://www.twitch.tv/videos/2654089066]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****12/28　&font(#BA87F1){&icon_fa(fa fa-twitch)}[[GBCは心の中に！出会いと再出発>>https://www.twitch.tv/videos/2654943178]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****12/31　&font(#BA87F1){&icon_fa(fa fa-twitch)}[[ゆく年くる年！>>https://www.twitch.tv/videos/2657487708]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+#endregion(12月ここまで)
+//
+***2026年
+#region(01月)01月
+****01/01　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[新しい年！>>https://www.twitch.tv/videos/2658260930]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+****01/02　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[街を散策しよう！>>https://www.twitch.tv/videos/2659061824]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+****01/03　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[生活基盤をつくる！part1>>https://www.twitch.tv/videos/2659958270]] / [[Part2>>https://www.twitch.tv/videos/2660091560]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+****01/04　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[素材屋さんの活動準備！お金を貯めようpart1>>https://www.twitch.tv/videos/2660871744]] / [[Part2>>素材屋さんの活動準備！お金を貯めようpart2]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+****01/09　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[GBC新年会！part1>>https://www.twitch.tv/daily009/v/2665180313]] / [[part2>>>>https://www.twitch.tv/daily009/v/2665264535]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/10　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[今後の展望イベントもしたい木こりもしたい！>>https://www.twitch.tv/videos/2666118188]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/11　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[芸能プロダクションに加入！？>>https://www.twitch.tv/videos/2667312051]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/14　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[イベントや素材屋のお仕事がんばる！>>https://www.twitch.tv/videos/2669695901]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/15　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[企画の準備と素材集め！>>https://www.twitch.tv/videos/2670545950]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/16　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[立ち回りを考える！>>https://www.twitch.tv/videos/2671410329]]
+#region(開く)
+・タラちゃんから麻陀羅組に勧誘されるが、&openclose2(show=とある人){&color(red){※ トウユン}}から既に「手伝ってほしいことがある」と声をかけられていると伝える
+・タラちゃん曰く「麻陀羅組に日々さんと亀山HEROは勧誘しようと思っていた」とのこと
+・「HEROさんは麻陀羅組に行く気満々だと思いますよ」「GBCでの新年会で、そんなようなことを言っていました」と伝える
+#endregion
+//
+****01/17　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[素材屋の納品数達成！>>https://www.twitch.tv/videos/2672348704]]
+#region(開く,open)
+・ファームが好きという新規住民のエマ・アッシュさんにファームをひと通り教える
+・鉱山にて車がインパウンドされてしまったため、トウユンにお迎えのお願いの連絡をしたところ
+　&color(#F54738){「僕は日々様のアッシーでしたね」「アッシーで登録しておいてください」}と言われる
+#endregion
+//
+****01/18　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[何がある？教えてもらった所に行ってみる！>>https://www.twitch.tv/videos/2673305118]]
+#region(開く)
+・妻垣さすらいさんの歌を聴く
+・小峯さんに依頼されていた素材納品を完了する
+#endregion
+//
+****01/21　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[何か新しいこと出来るようになる？！>>https://www.twitch.tv/videos/2675960639]] / [[Part2>>https://www.twitch.tv/videos/2676187908]]
+#region(開く,open)
+・違法なクラフト台を発見し、ローリングペーパーを作ってしまう
+・今まで空だったゴミ箱からアイテムが出現するようになった
+・ゴミ箱漁りをしていたところ、アークダイマーさんから
+「ゴミ箱を漁っていたら鍵が出てきた。何に使うかわかったら教えてほしい」と言われる
+#endregion
+//
+****01/22　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[歌練習と街散策！>>https://www.twitch.tv/videos/2676836923]] /Part2/Part3/Part4
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/23　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[ひたすらファーム！>>https://www.twitch.tv/videos/2677719693]] /〜Part7
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/24　&font(#BA87F1){&icon_fa(fa fa-twitch)} 明日のライブのリハーサル！
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/25　&font(#BA87F1){&icon_fa(fa fa-twitch)} ちいさな水辺のコンサート本番！！
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/28　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[GBC3周年！新しいこと素材屋も盛り上げていきたい！>>https://www.twitch.tv/daily009/v/2682428666]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/29　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[新クラフトアイテム出現！どう立ち回る？素材屋連盟>>https://www.twitch.tv/videos/2683307362]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/30　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[銀行強盗の人質になってみる？犯罪を知ろう！>>https://www.twitch.tv/videos/2684178310]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+****01/31　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[素材屋フル稼働！>>https://www.twitch.tv/videos/2685111286]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+
+#endregion(1月ここまで)
+//
+#region(02月)02月
+
+****02/01　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[今日もお仕事！がんばります>>https://www.twitch.tv/videos/2686079565]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+****02/04　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[2/25イベントチケット販売日！>>https://www.twitch.tv/videos/2688698307]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+****02/05　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[素材屋がんばりたいけど孤独なのなんとかしたい！>>https://www.twitch.tv/videos/2689556922]]/[[Part2>>]]/[[Part3>>]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+****02/06　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[新ギャング・ワクワクハーデス隊に勧誘される>>https://www.twitch.tv/videos/2690423724]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+****02/07　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[素材売り側に転じたい！>>https://www.twitch.tv/videos/2691345850]]/[[Part2>>]/[[Part3>>]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+****02/08　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[労働力に支配された生活！>>https://www.twitch.tv/videos/2692292369]]/～Part15
+#region(開く,open)
+・エピソード募集中
+#endregion
+****02/11　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[今日は何をしようかな？ >>https://www.twitch.tv/videos/2694836814]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//****02/DD　&font(#BA87F1){&icon_fa(fa fa-twitch)} [タイトル>>URL]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+
+#endregion(2月ここまで)
+
+&font(b,#F15B47){〜エピソード大募集中！〜}
+&font(b,#9D9087,10px){アーカイブはご本人様が YouTube にもあげてくださっているので、&br()過去エピソード追記も是非おねがいします！&br()主要エピソードがわかる日、一行だけの記載からでも助かります！&br()編集・追記どなたでもお気軽にどうぞ！！}
+//-------------------------------------------
+
+#co{↓日別用コピペテンプレ
+
+****MM/DD　&font(#BA87F1){&icon_fa(fa fa-twitch)} [[タイトル>>URL]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+
+⇑⇑⇑上記４行⇑⇑⇑}
+
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+*&color(#F37053){&icon_fa(fa-solid fa-film)} アーカイブ
+#div(width=200px,bgcolor=#F15B47){&size(17){&font(b,#FFFFFF){　SEASON 1}}}
+&color(#F54738){&icon_fa(fa fa-youtube-play)} YouTube プレイリスト「[[【LIVE】ストグラS1アーカイブ/日々>>https://youtube.com/playlist?list=PLrOSodhsfenCiB7WqQpB-wOQNltkJHhB3&si=Q2cqqGdmslPQjnJN]]」
+***2023年
+#region(開く)
+#region(6-8月,close)6-8月
+#table_style(head=center:#FF8080){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/06|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[初めましてロスサントス>>https://youtu.be/jh3NGDTILGg]]||
+|07/07|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新しい街で今日はお仕事を探してみる？>>https://youtu.be/VazAOnalHgM]]||
+|07/08|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[家族？お家？占いのご縁はなんだろう>>https://youtu.be/aqFJQB0394Y]]||
+|08/05|4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[素敵な景色を見つけに行こう！>>https://youtu.be/slwWqnZNkdA]]||
+|08/06|5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新しいところに行ってみたい！街のお散歩DAY>>https://youtu.be/MCCpJZQTjyg]]||
+|08/08|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[手に職を！今できることって何だろう？>>https://youtu.be/1shRewh8L4k]]||
+|08/09|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日で街に来て1週間！新しいこと巡りたい>>https://youtu.be/o86kuHw7bAw]]|ギャング【GoodbyeCircus】加入|
+|08/11|8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ミュージシャンのたまごとしての第一歩！>>https://youtu.be/44pdTU1hUUs]]||
+|08/12|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新しいことたくさんしたい！>>https://youtu.be/NG8MLmBhauo]]||
+|08/13|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[次のステップへの準備をしよう！>>https://youtu.be/KTuizSGLL5E]]||
+|08/14|11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日も日課！自分磨きをがんばろう>>https://youtu.be/PKMPj5mw_Hs]]||
+|08/15|12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[街に溶け込め！溶け込みながら色々準備していこう！>>https://youtu.be/6pbRZau9X10]]||
+|08/16|13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[お仕事先のカフェオープン！>>https://youtu.be/XcrxfoY0e_E]]||
+|08/17|14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[やりたいこと着実に！>>https://youtu.be/qHfqJYWFnZk]]||
+|08/18|15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ついにうたの第一歩！動きます>>https://youtu.be/9xSI1EY74Q4]]||
+|08/19|16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[やりたいことありすぎて時間が足りない！>>https://youtu.be/ZKH98HYlRaM]]||
+|08/20|17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ロスサントスで初めてのオーディション！>>https://youtu.be/NdESUWSWADg]]||
+|08/21|18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[前進あるのみ！>>https://youtu.be/jaWrltq8prw]]||
+|08/22|19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日できること！>>https://youtu.be/vBLsKov9e9Y]]||
+|08/23|20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[大きな壁！>>https://youtu.be/6REzKosSUEA]]||
+|08/24|21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新しい車か倉庫が欲しい！>>https://youtu.be/IcGeRspiH6E]]||
+|08/25|22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[少しだけコソ練！>>https://youtu.be/OVCJU_YhFqI]]||
+|08/27|23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[祝・一周年パレード！>>https://youtu.be/L7qxr5OIlj8]]||
+|08/28|24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ひとりオーディション！>>https://youtu.be/klVrKDULagg]]||
+|08/29|25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[気になること！>>https://youtu.be/tRJCqXBhOHI]]||
+|08/30|26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今できること！>>https://youtu.be/vQ3394Aw25w]]||
+|08/31|27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[正解って何だろう？>>https://youtu.be/dzJUczhLdJc]]||
+|08/31|27.5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[初めてのこと！>>https://youtu.be/SiJ6AdV8Z8U]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(08月)
+//
+#region(09月,close)09月
+#table_style(head=center:#FF8080){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/01|28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[念願のMyStudio！>>https://youtu.be/qr15zZZs7x0]]||
+|09/02|29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[できることと、したいこと！の間>>https://youtu.be/aEHvzwq81EY]]||
+|09/06|30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[体調復活！おはようロスサントス>>https://youtu.be/fzJADyNeMrU]]||
+|09/07|31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[いよいよ明日！夏フェス前夜祭>>https://youtu.be/o2z5mrPcdWg]]||
+|09/08|32|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[本番！ミュージックサマーフェス前夜祭で歌います>>https://youtu.be/Gu1WNlIDPOA]]||
+|09/09|33|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ミュージックサマーフェス本祭を見に行きます！>>https://youtu.be/vW-Y-OegAGI]]||
+|09/11|34|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[知ることわかること！>>https://youtu.be/tpQRq5CTOBM]]||
+|09/12|35|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[この大空につばさをひろげてみる！>>https://youtu.be/JAk5BLB_d1A]]||
+|09/13|36|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[遅く起きた朝に>>https://youtu.be/L391aDXbcMg]]||
+|09/15|37|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[少しだけおはよう>>https://youtu.be/Qb7bL8M9dxA]]||
+|09/17|38|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[負けられない戦いがそこにある！？>>https://youtu.be/AM6vmdHgqiY]]||
+|09/18|39|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日は何をしようかな？>>https://youtu.be/R2vUGJ6xb3M]]||
+|09/19|40|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[いつもと違う街>>https://youtu.be/e_tUmSjg6I0]]||
+|09/20|41|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[バイクが欲しい！>>https://youtu.be/P4f76OkfcGA]]||
+|09/22|42|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[人のやさしさ>>https://youtu.be/R1zb5SMC9DQ]]||
+|09/22|42.5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[人のやさしさ2>>https://youtu.be/-jnHrsHTey4]]||
+|09/23|43|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日のおしごと>>https://youtu.be/DVGeHZgCuAs]]||
+|09/23|43.5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日のおしごと2>>https://youtu.be/BPvf1YW05So]]||
+|09/26|44|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[不穏なこと>>https://youtu.be/Lc4k44smzOc]]||
+|09/27|45|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新しい倉庫が欲しい！>>https://youtu.be/t27j7RbhDJE]]||
+|09/28|46|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[はじめてのおつかい！>>https://youtu.be/YXEF-eO-5kU]]||
+|09/29|47|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[少しだけ、おはよう！>>https://youtu.be/I-ke2H3tovs]]||
+|09/30|48|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[なにやらお宝があるらしい！？>>https://youtu.be/W6Jd0CK-9rY]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(09月)
+//
+#region(10月,close)10月
+#table_style(head=center:#FF8080){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/01|49|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[裏素材屋、今日も売ります！>>https://youtu.be/9IvmGUMVwA0]]||
+|10/03|50|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[船を買う！？海の旅をしてみたい！>>https://youtu.be/7-e8rrtQbCw]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(10月)
+#endregion(2023)
+//
+***2024年
+#region(開く)
+#region(2月,close)2月
+#table_style(head=center:#FF8080){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/15|124|&font(#6441A4){&icon_fa(fa fa-twitch)}[[気分転換！>>https://www.twitch.tv/videos/2063370458]]||
+|02/17|125|&font(#6441A4){&icon_fa(fa fa-twitch)}[[まずは一歩！>>https://www.twitch.tv/videos/2064449872]]||
+|02/18|126|&font(#6441A4){&icon_fa(fa fa-twitch)}[[やることいろいろ！>>https://www.twitch.tv/videos/2066360527]]||
+|02/22|127|&font(#6441A4){&icon_fa(fa fa-twitch)}[[前進！>>https://www.twitch.tv/videos/2069550780]]||
+|02/23|128|&font(#6441A4){&icon_fa(fa fa-twitch)}[[もう少し前へ！>>https://www.twitch.tv/videos/2070510969?filter=all&sort=time]]||
+|02/25|129|&font(#6441A4){&icon_fa(fa fa-twitch)}[[レース！>>https://www.twitch.tv/videos/2072375126]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(02月)
+//
+#region(8月,close)8月
+#table_style(head=center:#FF8080){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/1|207|[[白と黒！>>https://www.youtube.com/watch?v=bBeauHAPl-k]]||
+|08/2|208|[[いろんな準備！>>https://www.youtube.com/watch?v=AgP6_9qaCv4]]||
+|08/3|209|[[ももちゃんのLive！>>https://www.youtube.com/watch?v=vSJUufKU3KY]]||
+|08/4|210|[[クレープ屋さんができるみたい！>>https://www.youtube.com/watch?v=5GhqHRrImf4]]||
+|08/7|211|[[レンさん＆トウユンさんをお祝いする！>>https://www.youtube.com/watch?v=7e7qPXwK_4o]]||
+|08/9|212|[[一周年！>>https://www.youtube.com/watch?v=DtRdQ4NJ6UM]]||
+|08/10|213|[[少しだけ起きる！>>https://www.youtube.com/watch?v=1GS3omx5CaI]]||
+|08/11|214|[[JTS北支店オープン記念トライアスロンレースを見に行く！>>https://www.youtube.com/watch?v=OqvCNjJEuJo]]||
+|08/14|215|[[やることいろいろ！>>https://www.youtube.com/watch?v=LnVpqgDJ1tw]]||
+|08/16|216|[[レースとキャバクラ！>>https://www.youtube.com/watch?v=dw1-gwZ17no]]||
+|08/17|217|[[辛いもの食べに行く！>>https://www.youtube.com/watch?v=o-FT9HnME38]]||
+|08/18|218|[[辛い物フェス2日目！>>https://www.youtube.com/watch?v=lgUlVI5w2Hk]]||
+|08/20|219|[[のんびりロスサントス！>>https://www.youtube.com/watch?v=AIsGT4eQHno]]||
+|08/21|220|[[やることたくさん！>>https://www.youtube.com/watch?v=EXjNtQP_66E]]||
+|08/23|221|[[街ぶらさんぽ！>>https://www.youtube.com/watch?v=PgssQf_emHs]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(8月)
+//
+#region(9月,close)9月
+#table_style(head=center:#FF8080){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/26|241|[[お仕事いろいろ！>>https://www.youtube.com/watch?v=a6gnjSyvd1o]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(9月)
+//
+#region(11月,close)11月
+#table_style(head=center:#FF8080){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|11/23|277|[[欲深く！>>https://www.youtube.com/watch?v=HnG17gVCrXQ]]||
+|11/26|278|[[ミュージカル「I LOVE YOU」本番です！>>https://www.youtube.com/watch?v=9T68b2-O8Ho]]|ミュージカル延期(12/17公演予定)|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(11月)
+#endregion(2024)
+//-------------------------------------------------
+
+#div(width=200px,bgcolor=#F15B47){&size(17){&font(b,#FFFFFF){　SEASON 2}}}
+//
+&font(#BA87F1){&icon_fa(fa fa-twitch)} Twitch の配信アーカイブはサブスク加入者限定でご覧いただけます。
+&color(#F54738){&icon_fa(fa fa-youtube-play)} YouTube プレイリスト「[[【LIVE】ストグラS2アーカイブ/日々>>https://youtube.com/playlist?list=PLrOSodhsfenCT7yBmpGvyxwJpn95fXjdv&si=P39yzCKkJAyLMSsR]]」
+//
+***2025年
+#region(12月,close)12月
+#table_style(head=center:#F37053:#FFF){配信日=right,アーカイブ=center}
+|~配信日|~#|~&icon_fa(fa-brands fa-twitch)&space()配信タイトル|~&icon_fa(fa fa-youtube-play)&space()アーカイブ|h
+|12/19|01|[[新たな街へ！>>https://www.twitch.tv/videos/2647701449]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=eKRG4arKp7o]]|
+|12/24|02|[[新たな職探し！>>https://www.twitch.tv/videos/2651865917]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=pLtwEE0c3Ms]]|
+|12/25|03|[[Merry Christmas！>>https://www.twitch.tv/videos/2652554631]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=GinYbPFmnw8]]|
+|12/26|04|[[色々なところに行ってみる！>>https://www.twitch.tv/videos/2653272474]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/r9DlhqJhiWw?si=3s9oxjPs8bwJ2VOh]]|
+|12/27|05|[[ラスパラオープン！>>https://www.twitch.tv/videos/2654089066]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/GdtfkFwlfB8?si=XMhtDRIEsTosBir6]]|
+|12/28|06|[[GBCは心の中に！出会いと再出発>>https://www.twitch.tv/videos/2654943178]]| [[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/VqHLGqzK3Oc?si=5LsvqBi3clm1PS_S]]|
+|12/31|07|[[ゆく年くる年！>>https://www.twitch.tv/videos/2657487708]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/epaK4_Ea9rI?si=yY1aUwx3BIglfCXi]]|
+#endregion
+//
+***2026年
+#region(1月)1月
+#table_style(head=center:#F37053:#FFF){配信日=right,アーカイブ=center}
+|~配信日|~#|~&icon_fa(fa-brands fa-twitch)&space()配信タイトル|~&icon_fa(fa fa-youtube-play)&space()アーカイブ|h
+|01/01|08|[[新しい年！>>https://www.twitch.tv/videos/2658260930]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/kyCWP1zY29c?si=bA9E9RWBkXBfrLVM]]|
+|01/02|09|[[街を散策しよう！>>https://www.twitch.tv/videos/2659061824]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/UrjA58IVwEg?si=TJEDBnixj3C3OrUU]]|
+|01/03|10-1|[[生活基盤をつくる！part1>>https://www.twitch.tv/videos/2659958270]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/nxn5luwWxPI?si=jqnzmZjxWyvBU_32]]|
+|~|10-2|[[生活基盤をつくる！part2>>https://www.twitch.tv/videos/2660091560]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/X0d6L-PMb5I?si=CyXk3kFoF2HNPr59]]|
+|01/04|11-1|[[素材屋さんの活動準備！お金を貯めようpart1>>https://www.twitch.tv/videos/2660871744]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/fyHN2UVbTKg?si=vih-hxoquxu_2SfA]]|
+|~|11-2|[[素材屋さんの活動準備！お金を貯めようpart2>>素材屋さんの活動準備！お金を貯めようpart2]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/2fKPyoEBxgs?si=t1Mgv-4FwHY3pisV]]|
+|01/09|12-1|[[GBC新年会！part1>>https://www.twitch.tv/daily009/v/2665180313]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/5T_QLW9oUB8?si=VCm-RPNmG8aikH3r]]|
+|~|12-2|[[GBC新年会！part2>>https://www.twitch.tv/daily009/v/2665264535]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/V0jcOCXFREE?si=An-sTdudyPraBdFl]]|
+|01/10|13|[[今後の展望イベントもしたい木こりもしたい！>>https://www.twitch.tv/videos/2666118188]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/bEgEe6aQp-k?si=asSF7J8A9pr-6Ifu]]|
+|01/11|14|[[芸能プロダクションに加入！？>>https://www.twitch.tv/videos/2667312051]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/IlwLUKY64XU?si=HFZj3lkOoIk82mN6]]|
+|01/14|15|[[イベントや素材屋のお仕事がんばる！>>https://www.twitch.tv/videos/2669695901]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/FohjBkjCcW4?si=CUpBjYhJyLdNBNxy]]|
+|01/15|16|[[企画の準備と素材集め！>>https://www.twitch.tv/videos/2670545950]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/eSkuJKjLjJs?si=16r6IiccQvqsGwKd]]|
+|01/16|17|[[立ち回りを考える！>>https://www.twitch.tv/videos/2671410329]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/o7-AsbmbGMA?si=N02F63TdmAWecbyk]]|
+|01/17|18|[[素材屋の納品数達成！>>https://www.twitch.tv/videos/2672348704]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/wsbF09bqIiY?si=kq9qek5HkSYNr64M]]|
+|01/18|19|[[何がある？教えてもらった所に行ってみる！>>https://www.twitch.tv/videos/2673305118]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/IIUiMiIw6d8?si=pzr091WGDLzGn-aK]]|
+|01/21|20-1|[[何か新しいこと出来るようになる？！part1>>https://www.twitch.tv/videos/2675960639]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/LG8zBz-Y67A?si=EHLCEz8tldJ3YU6-]]|
+|~|20-2|[[何か新しいこと出来るようになる？！part2>>https://www.twitch.tv/videos/2675960639]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/vxbIR8dCn5w?si=j8y4mwZWHZr7tW16]]|
+|01/22|21|[[歌練習と街散策！>>https://www.twitch.tv/videos/2676836923]]/[[21-2>>https://www.twitch.tv/videos/2676841841]]/[[21-3>>https://www.twitch.tv/videos/2676969965]]/[[21-4>>https://www.twitch.tv/videos/2677019154]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/2L3Pk09Xh2g?si=Th1V6ywwffeJF-mU]]|
+|01/23|22|[[ひたすらファーム！>>https://www.twitch.tv/videos/2677719693]]&br()[[22-2>>https://www.twitch.tv/videos/2677760769]] / [[22-3>>https://www.twitch.tv/videos/2677746548]] / [[22-4>>https://www.twitch.tv/videos/2677875666]] / [[22-5>>https://www.twitch.tv/videos/2677876041]] / [[22-6>>https://www.twitch.tv/videos/2677881272]] / [[22-7>>https://www.twitch.tv/videos/2677881272]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/y7fwCpOZ-wM?si=7NrVdYHtF88uxmfG]]|
+|01/24|23|[[明日のライブのリハーサル！>>https://www.twitch.tv/videos/2678712970]]/[[23-2>>https://www.twitch.tv/videos/2678714764]]/[[23-3>>https://www.twitch.tv/videos/2678734351]]/[[23-4>>https://www.twitch.tv/videos/2678860535]]/[[23-5>>https://www.twitch.tv/videos/2678968104]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/Uawkc_0mB7M?si=7tk384gpMQYmxBnE]]|
+|01/25|24|[[『Days』歌唱！ちいさな水辺のコンサート本番！>>https://www.twitch.tv/videos/2679697605]]&br()/[[24-2>>https://www.twitch.tv/videos/2679703810]]/[[24-3>>https://www.twitch.tv/videos/2679717195]]/[[24-4>>https://www.twitch.tv/videos/2679809269]]/[[24-5>>https://www.twitch.tv/videos/2679867293]]/[[24-6>>https://www.twitch.tv/videos/2679901496]]/[[24-7>>https://www.twitch.tv/videos/2679930458]]/[[24-8>>https://www.twitch.tv/videos/2679948233]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/Ud3n3NE0S6M?si=dAyVKVqeXXGlFOQx]]|
+|01/28|25|[[GBC3周年！新しいこと素材屋も盛り上げていきたい！>>https://www.twitch.tv/daily009/v/2682428666]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/zs828iVvpeA?si=JxymG3LdJBEpGAzb]]|
+|01/29|26|[[新クラフトアイテム出現！どう立ち回る？素材屋連盟>>https://www.twitch.tv/videos/2683307362]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/cgxxwIwchJ4?si=b7L2aq_qBQIZqUmZ]]|
+|01/30|27|[[銀行強盗の人質になってみる？犯罪を知ろう！>>https://www.twitch.tv/videos/2684178310]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/qhF9fYBzieo?si=g1gpqKPS2eG57BXU]]|
+|01/31|28|[[素材屋フル稼働！>>https://www.twitch.tv/videos/2685111286]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/jU5ORH8DDMM?si=mu9VHBw1WmDGy4HC]]|
+#endregion
+//
+#region(2月,open)2月
+#table_style(head=center:#F37053:#FFF){配信日=right,アーカイブ=center}
+|~配信日|~#|~&icon_fa(fa-brands fa-twitch)&space()配信タイトル|~&icon_fa(fa fa-youtube-play)&space()アーカイブ|h
+|02/01|29|[[今日もお仕事！がんばります>>https://www.twitch.tv/videos/2686079565]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/18MHiyFPMQk?si=sUXoCwTqecjPBaEJ]]|
+|02/04|30|[[2/25イベントチケット販売日！>>https://www.twitch.tv/videos/2688698307]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/oVWLQrYdZGY?si=iS2P0K8gtje_y2U1]]|
+|02/05|31|[[素材屋がんばりたいけど孤独なのなんとかしたい！>>https://www.twitch.tv/videos/2689556922]]&br()/[[31-2>>https://www.twitch.tv/videos/2689743030]]/[[31-3>>https://www.twitch.tv/videos/2689784275]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/Sz9lZ0Ccjm0?si=jEBjpahDG6lqF0N6]]|
+|02/06|32|[[新ギャング・ワクワクハーデス隊に勧誘される>>https://www.twitch.tv/videos/2690423724]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/czXHwPzg-e8?si=VMFN1eqy0FvH9jFM]]|
+|02/07|33|[[素材売り側に転じたい！>>https://www.twitch.tv/videos/2691345850]]/[[33-2>>https://www.twitch.tv/videos/2691367768]]/[[33-3>>https://www.twitch.tv/videos/2691390758]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/XdZxT1-Wr3M?si=TuQKsm1Xti87vDIt]]|
+|02/08|34|[[労働力に支配された生活！>>https://www.twitch.tv/videos/2692292369]]&br()/[[34-2>>https://www.twitch.tv/videos/2692297254]]/[[34-3>>https://www.twitch.tv/videos/2692297608]]/[[34-4>>https://www.twitch.tv/videos/2692299695]]/[[34-5>>https://www.twitch.tv/videos/2692301614]]/[[34-6>>https://www.twitch.tv/videos/2692316645]]/[[34-7>>https://www.twitch.tv/videos/2692317630]]/[[34-8>>https://www.twitch.tv/videos/2692318667]]/[[34-9>>https://www.twitch.tv/videos/2692323908]]/[[34-10>>https://www.twitch.tv/videos/2692324737]]&br()/[[34-11>>https://www.twitch.tv/videos/2692333272]]/[[34-12>>https://www.twitch.tv/videos/2692334753]]/[[34-13>>https://www.twitch.tv/videos/2692439364]]/[[34-14>>https://www.twitch.tv/videos/2692451075]]/[[34-15>>https://www.twitch.tv/videos/2692451827]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/zPzUKwHE9Gg?si=OUJDOnPkAFfSl--1]]|
+|02/11|35|[[今日は何をしようかな？>https://www.twitch.tv/videos/2694836814]]/[[35-2>>https://www.twitch.tv/videos/2694855879]]/[[35-3>>https://www.twitch.tv/videos/2694866338]]/[[35-4>>https://www.twitch.tv/videos/2694906569]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>URL]]|
+//|02/DD|XX|[[タイトル>>URL]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>URL]]|
+//|02/DD|XX|[[タイトル>>URL]]|[[&font(#F18795){&icon_fa(fa fa-youtube-play)}>>URL]]|
+#endregion
+
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+*&color(#F37053){&icon_fa(fa fa-youtube-play) } 切り抜き動画
+&color(#F54738){&icon_fa(fa fa-youtube-play)} YouTube プレイリスト
+[[【MOVIE】ストグラS1/日々>>https://youtube.com/playlist?list=PLrOSodhsfenDLPCZyejylRoAunyuqy1XU&si=v0gERuYmwvK-Y4F6]]
+[[【MOVIE】ストグラS2/日々>>https://youtube.com/playlist?list=PLrOSodhsfenCUG4eiE85-g5mS5ZtsiTmE&si=U-ZvEuE4Ed2c9y8I]]
+[[【MOVIE】ストグラshort>>https://youtube.com/playlist?list=PLrOSodhsfenBWTxd8NMv9FPTMpx9CwZvr&si=N3FpJ0tLVIt6VaLq]]
+
+***Season 2
+#region(開く,open)閉じる
+#table_style(head=center:#F37053:#FFF){投稿日=right,備考=12px}
+|~投稿日|~&icon_fa(fa fa-youtube-play)&space()動画タイトル|~備考|h
+|2025/12/23|[[まさかの転送失敗？別時空のパンチャン現る！？>>https://youtu.be/tXW8lx_W8Ac?si=RtV1IKmVpcUgRE5M]]|パンチャン・こさ猫弐郎・上田さん・安城成・日々|
+|12/24|[[先生も手探り状態！？突如始まった緊急初手術>>https://youtu.be/cQ2heEEOCzg?si=q6Am5FcRHwlcasXK]]|天羽よつは・神崎治・日々|
+|12/30|[[高額収入を探せ！高所で危険なアルバイト>>https://youtu.be/-jIdnZNcwLM?si=1sNbc7YFLEg_u6NO]]|小峯玲・メイカイ・トウユン・日々|
+|12/31|[[バイトばっくれ！？社用車観光で地図にない道を発見>>https://youtu.be/OgxNOydee-c?si=nPdAqTMaCGN2T5ia]]|メイカイ・トウユン・日々|
+|2026/01/07|[[見慣れない空母出現！武器の新たな入手法！？>>https://youtu.be/vRVc8g9V66A?si=79WuyT_tKHJ8B4au]]|小峯玲・トウユン・日々|
+|01/08|[[相乗りタクシーで鉱山へ！？突如始まる石堀マウントバトル！！>>https://youtu.be/uCfFl4wGecE?si=sodFgIL4fA6QE3HR]]|牧田ここな・上田さん・フェアリートピオ・トウユン・日々|
+|01/09|[[ちゃんももちゃんと再会！メイドカフェ開業の店舗探し>>https://youtu.be/cHYcp1arJ3g?si=LmdpLNtHGtdzMEOb]]|豆乳ちゃんもも・平井善之・アークダイマー・トウユン・日々|
+|01/10|[[サーカス・本部のない街で抑えていた本音を語る日々>>https://youtu.be/qMme5IOahF0?si=TUOoPhJNDIImCJrd]]|GBC・トウユン・日々|
+|02/04|[[怒号飛び交う極安タクシー！？噂のロスライドに乗ってみた>>https://youtu.be/Qa-t5kQUUWo?si=JUEkEssQ1xkHciwK]]|三否亭四五六確・千代田ヨウ・日々|
+//|00/00|[[タイトル>>URL]]|　|
+//|00/00|[[タイトル>>URL]]|　|
+//|00/00|[[タイトル>>URL]]|　|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+*&color(#F37053){&icon_fa(fa fa-youtube-play) } 関連動画
+***&underdot(#F37053,3px){&size(18){&color(#F37053){■} &bold(){歌動画}&space(2)}}
+****2025年
+&bold(){【歌ってみた】『ひかり』MV(オリジナル曲)}
+GroobyBabyCafe1周年記念☆
+トウユン(灯油)/ダミアン(しゅりぺ)/日々(Rin)
+&small(){各種音楽サービスにて配信実施中}
+♫[[ストリーミング一覧>>https://linkco.re/Y2nASuyf]]
+&youtube(https://youtu.be/Ntn3_De3EkQ?si=fhfSJOep8LsOmmkV,width=400,height=225)
+
+***&underdot(#F37053,3px){&size(18){&color(#F37053){■} &bold(){ストグラ外コラボ}&space(2)}}
+&color(#F54738){&icon_fa(fa fa-youtube-play)} YouTube プレイリスト
+[[【LIVE】ストグラコラボ>>https://youtube.com/playlist?list=PLrOSodhsfenBNeHBqpQBUWS69hvVcZb8S&si=_-JM7RnToHw-qORt]]
+[[【LIVE】ARK>>https://youtube.com/playlist?list=PLrOSodhsfenBvpkY4dJ92DkIYwUcqoQBg&si=BpfZOboY3H3bHcRy]]（#ミドルアイルアンド）
+
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+*&color(#F37053){&icon_fa(fa-solid fa-user-plus) } その他情報
+
+#region(ネタバレ注意,close)&bold(){ネタバレ注意}
+プレイヤーRin(りん)🌼の演じる別キャラクター
+
+&font(b,16){▶ [[御花見　さくら]]}（2022/10/13〜）
+
+#endregion
+
+
+#right(){&link_up(🔝ページTOPへ)}
+//
+//
+//月別けの雛型です
+//　　↓↓
+//#region(mm月,close)mm月
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+//#table_sorter{even=#f7f7f7,odd=fff}
+//#endregion(mm月)
+//
+//
+//開く・閉めるの基本型↓↓
+//#region(開く,open)
+//#endregion(2024)

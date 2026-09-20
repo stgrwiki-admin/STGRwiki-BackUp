@@ -1,0 +1,694 @@
+//編集者の方へ(以下コメントへ)
+//基本的に他編集者の方が記入した情報は勝手に消去しないようにお願いします
+//もし消去する場合、編集相談所などで相談してください
+//region,endregionのプラグインがエラーを出してないかをしっかり確認してください。
+*&font(25px){&font(30px,#82cddd){プ}ロフィール &icon_fa(fa fa-user-circle)}
+#slide_img(auto=3,position=left,width=290,height=355){
+白フードアップ.jpg,
+大型夏服アップ.jpg,
+}
+//&image(刃弐ランド_正面アップ.png,y=300)
+//編集者の方へ(以下コメントへ)
+//基本的に他編集者の方が記入した情報は勝手に消去しないようにお願いします
+//もし消去する場合、編集相談所などで相談してください
+//
+//ここからプロフィール
+#table_color(head=#008db7:#FFF){名前=#00afcc:b:center}
+|~名前|~&icon_fa(fa fa-user)|&ruby(ばに){刃弐}　ランド|
+|~出身地|~&icon_fa(fa fa-map-marker)|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|2000年12月21日 (&countup(2000/12/21,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane)|2024年01月19日 (&countup(2024/01/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-wrench) &br()&icon_fa(fa fa-gun)|&openclose2(show=？){&s(){闇メカニック [[Glare Gem]]} &small(){2024/02/08～2025/04/18}}&br()ギャング &bold(){[[868]] &small(){BOSS}} &small(){2024/03/26～}|
+|~TwiX|~&icon_fa(fa fa-crow)|@vaniland|
+|プレイヤー|BGCOLOR(#00afcc):&icon_fa(fa fa-address-card-o)|VanilLa (Crazy Raccoon)|
+|告知等|BGCOLOR(#00afcc):&icon_fa(fa fa-bullhorn)|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/VanilLaaa12]]|
+|配信場所|BGCOLOR(#00afcc):&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/cr_vanilla/home]]|
+|MIDDLE:動画投稿|MIDDLE:BGCOLOR(#00afcc):&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@CR.VanilLa]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){【公認】CR_バニラ / アーカイブch.}>>https://youtube.com/@cr.vanilla_archive]]|
+|公認切抜|BGCOLOR(#00afcc):&icon_fa(fa fa-cut)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){公認切り抜きch}>https://www.youtube.com/@VanilLa_CLIP]]|
+//
+//職業を追加・更新した場合、「参加者一覧」等への追加・更新のご協力をお願いいたします。
+//
+
+&font(24px,b){｢これで&color(#00afcc){綺麗}になったな｣}
+
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+//
+//編集者の方へ(以下コメントへ)
+//基本的に他編集者の方が記入した情報は勝手に消去しないようにお願いします
+//もし消去する場合、編集相談所などで相談してください
+//
+*&font(25px){&font(30px,#82cddd){基}本情報 &icon_fa(fa fa-id-card-o)}
+//
+#div(width=330px,bgcolor=#008db7){&font(16px,b,#FFF){&space()&icon_fa(fa fa-file-text-o)&space()基本情報}}
+&font(20px,#82cddd){●&space()}隣街のロスヨントスからやって来た元警察官。
+&font(20px,#82cddd){●&space()}元上官[[成瀬 夕コ>成瀬　夕コ]]が汚職をきっかけに逃亡したため、彼女の後を追いかけ仲間の[[レダー ヨージロー>レダー　ヨージロー]]、[[牢王 蓮>牢王　蓮]] 、[[芹 沢>芹　沢]]、[[音鳴 ミックス>音鳴　ミックス]]と共に、海を泳いで不法入国した。
+&font(20px,#82cddd){●&space()}趣味は&openclose2(show="チェイスで遊ぶ"){&font(12px,){&u(){逃げ込みより撒くことを重視、相手も楽しめるルートの研究、馴染みの警察を撒いた時は電話や自撮りで煽る、追い込まれても警察を撃たない}}}こと。街に来て数日から宝石店強盗などで金を稼ぎまくっていた、仲間内の稼ぎ頭。
+&space()&font(12px,){&color(#82cddd){&icon_fa(fa-solid fa-user-check)&space()}警察プロファイル&openclose2(show=メモ){&u(){《凄いチェイスがうまいですこの人》《ネズミのマスクを被り宝石店強盗を頻繁に行っている》《非通知でかけてるつもりがちゃんと電話番号公開してかけてきたおちゃめな部分アリ》}}}
+&font(20px,#82cddd){●&space()}半グレ時代には組織的な傭兵としても活動し、依頼先から「青髪強い」と評されていた。
+&font(20px,#82cddd){●&space()}ギャング【 [[868]] 】設立メンバーの1人。加入時に肩に乗せる仲間の証『ピンクのうさぎ』は刃弐の発案。
+&font(20px,#82cddd){●&space()}100年前は黄色のギャング兼メカニック、100年後は警察の記憶を持つ。
+
+#div(width=330px,bgcolor=#008db7){&font(16px,b,#FFF){&space()&icon_fa(fa fa-diamond)&space()性格}}
+&font(20px,#82cddd){●&space()}穏やかでマイペース。少し人見知りで警戒心が高め。
+&font(20px,#82cddd){●&space()}自分の意見を真っ直ぐに述べる素直さを持ち、基本的に嘘は苦手。かと思えばしれっと騙していることもある。
+&font(20px,#82cddd){●&space()}負けず嫌いで戦闘狂な一面があり、特に仲間の危機には血の気が多くなる。
+&font(20px,#82cddd){●&space()}低音でダウナーな話し方をするためクールな印象を受けやすいが、身内では悪ガキポジでかなりのゲラ。
+&font(20px,#82cddd){●&space()}メッセージは未読無視多め。
+
+#div(width=330px,bgcolor=#008db7){&font(16px,b,#FFF){&space()&icon_fa(fa-solid fa-diamond)&space()人物}}
+&font(20px,#82cddd){●&space()}軍事物資のトラックで山越え作戦を決行したり、シースパやジャーニーで大型犯罪に繰り出すなど遊び心満載。
+&font(20px,#82cddd){●&space()}サバゲーは筋トレだと思っている。
+&font(20px,#82cddd){●&space()}持ち出した組織の物資を、戻すのが面倒で頬袋(自分の家)に&s(){横領}溜め込む癖がある。以前[[レダー>レダー　ヨージロー]]に見つかって叱られ、一旦みんなに土下座した。
+&font(20px,#82cddd){●&space()}犯罪CT="覚悟が決まる時間"、強盗="集金"、使い物になるか怪しい物="壺"など表現が個性的。初逮捕され晴れて白から黒となった仲間には「綺麗になったな」と祝福した。
+&font(20px,#82cddd){●&space()}テレビっ子。アジトで寝転んで観ることが多い。ドラマ『愛と青春ってなんやねん？』は全話試聴済み。仲間とウォチパする『空き巣チャンネル』がお気に入り。
+&font(20px,#82cddd){●&space()}無意識のうちに街のお兄さん、おじさんに気に入られる傾向がある。
+&font(20px,#82cddd){●&space()}道端にいた猫をギャングに勧誘しようとした。
+&font(20px,#82cddd){●&space()}待ち時間によく踊っている。
+&font(20px,#82cddd){●&space()}行きつけの店はラーメン屋 [[焦村家]]。
+
+#div(width=330px,bgcolor=#008db7){&font(16px,b,#FFF){&space()&icon_fa(fa-solid fa-magnifying-glass)&space()外見}}
+&font(20px,#82cddd){●&space()}童顔。青髪が特徴的で&openclose2(show="左頬にタトゥー"){&font(12px,){&u(){周囲に「傷」だと言う場面も。話せば長くなるらしい。}}}を入れている。
+&font(20px,#82cddd){●&space()}「大人っぽいかな」という理由で髭を生やしていたが、[[夕コ>成瀬　夕コ]]から「ずっと思ってたけど似合わない」と言われすぐに剃りに行った。
+&font(20px,#82cddd){●&space()}変装が面倒くさく、大型以外の犯罪や日常生活は基本ネズミのマスク姿でいたため、警察や住民から青髪のネズミは刃弐だと認識されている。最近は素顔で過ごすことも多い。
+&font(20px,#82cddd){●&space()}仲間内から[[レダー>レダー　ヨージロー]]、[[ケイン>ケイン／オー]]と共に『服ダサ三銃士』と呼ばれているが(なぜか)自分だけは違うと思っている。
+
+#div(width=330px,bgcolor=#008db7){&font(16px,b,#FFF){&space()&icon_fa(fa-solid fa-chart-simple)&space()技能}}
+&font(20px,#82cddd){●&space()}大型犯罪・シマ取りの作戦立案担当。
+&font(20px,#82cddd){●&space()}銃の撃ち合いが非常に強く、大型では何度も不利な状況を覆し犯罪成功を遂げてきた。生存能力を活かした立ち回りや、ラークに長けている。
+&font(20px,#82cddd){●&space()}カーチェイスの逃走成功率がかなり高い。また、出場したレースやタイムアタックは常に上位にランクインしている。
+#region(詳細・エピソード)エピソードを閉じる
+・警察内では「インフェルナスで山を使って逃走するのは刃弐ランド」と情報共有され、その運転の上手さから一部巷では『オフロードの[[アドミゲス・ハン]]』と言われたことも。
+・初めの頃はオフロードに行くことが多かったが、いまは街中でのチェイスがメイン。逃走成功率が高いからか犯人が刃弐だと分かると警察が集結しがち。
+・金稼ぎは勿論だがチェイスで警察と遊ぶのが目的。時には相手の要望を聞いたり、新人警察にアドバイスすることもある。
+・ハンさんから「この街の中でみても(運転が)相当上手い、レースで俺のよきライバルとなって欲しい」と認められており、定期的に鬼ごっこやレース練習をする仲。
+・レースではまだ新人の頃から各コースで上位の成績を出しており、タイムアタックでハンさんに追いつきたいと日々研鑽している。
+#endregion
+&font(20px,#82cddd){●&space()}ヘリの運転も得意でレースで好成績を残している。敵ヘリを落とすアタックも難なくこなす。
+&font(20px,#82cddd){●&space()}無線アキネーターが上手く、仲間が護送されている際には得ている情報と警察の行動予測から的確な質問を繰り返し、仲間の居場所を把握することができる。
+&font(20px,#82cddd){●&space()}闇メカニック [[GG>Glare Gem]]に所属。主に自分や仲間の車修理、カスタムをしている。
+//
+//編集者の方へ(以下コメントへ)
+//基本的に他編集者の方が記入した情報は勝手に消去しないようにお願いします
+//もし消去する場合、編集相談所などで相談してください
+
+*&font(25px){&font(30px,#82cddd){人}間関係 &icon_fa(fa fa-users)}
+//フォーマットの変更はお控えください。
+//テーブルとスクロールバーを離すため、最終空白行を入れています。
+***&font(25px,#FF6EC7){&icon_fa(fa-solid fa-people-group)} 仲間
+#region(開く)
+#table_style(head=#A0D0D7:#FFF:center)
+|~キャラクター名|~詳細|h
+|[[成瀬　夕コ]]|隣街からの上官であり、元Grade:6の警察官だったが汚職がバレて逃亡。&br()現[[ロスサントス警察]]官兼カニメイトのオーナーである[[成瀬 力二>成瀬　力二]]の姉。無自覚のブラコン。&br()半グレ時代から仲間が大型犯罪に参加できるよう、傭兵の仕事を掴むなど交渉術に長けている。&br()ヘリが上手く撃ち合いも強い。ハウジングのプロ。|
+|[[レダー　ヨージロー]]|隣街からの同僚であり、元警察官。一緒に夕コを追いかけてきた仲間の一人。&br()落ち着いたトーンで話すまとめ役で、情報収集が得意。[[ホットドッグ協会]]会長。&br()犯罪時のレダーのヘリからの報告や、カバーの手厚さには絶大の信頼を置いている。&br()普段は刃弐のことをよく褒めてくれるが、スタッシュを散らかすと怒られる。|
+|[[牢王　蓮]]|同じく隣街からの同僚であり、元警察官。一緒に夕コを追いかけてきた仲間の一人。&br()口が達者。お調子者のムードメーカーで、よくツボに刺さる。報告が上手く、撃ち合いが強い。&br()性格は真反対な蓮と刃弐だが隣街の年下組同士仲が良く、お決まりは無言爆速おんぶとプリプリ。&br()一緒にいるとデバフがかかる最悪で最強なダブルカッティコンビ。|
+|[[芹　沢]]|同じく隣街からの同僚であり、元警察官。一緒に夕コを追いかけてきた仲間の一人。&br()撃ち合いの強さは組織内随一。大型犯罪で配置決めやラークを刃弐と共に担当することが多い。&br()基本的に温厚だが、たまに毒舌でいたずらっ子な面もあり。&br()仲間思いで後輩のことをよく見ている。ファームなど積極的に取り組む頑張り屋さん。|
+|[[音鳴　ミックス]]|同じく隣街からの同僚であり、元警察官。一緒に夕コを追いかけてきた仲間の一人。&br()みんなからいじられる愛されキャラであり、音鳴がいると刃弐の爆笑回数が増える。&br() 普段から遠慮なく言い合える相手だが、さりげないメンケアもしてくれる。&br()チェイスと撃ち合いが上手く、服のセンスが良い。空き巣協会会長。|
+|[[空架　ぐち逸]]|街に来た日に出会った記憶喪失の医師。夕コの提案で一旦行動を共にすることとなった。&br()刃弐たちが半グレの時に、3種類の薬物のクリティカルレシピを自力で調べ上げ共有してくれた。&br()犯罪者も警察も助ける中立個人医だが、868から贈られたピンクのうさぎを着けている。&br()麻薬製造・販売組織[[DEP]]に所属。|
+|[[ケイン／オー]]|元ロスサントス警察官ロボット。刃弐が強盗をするとよく駆けつけて来て、チェイスを楽しむ&br()警察官の一人だったが、ハッキングで改造し仲間に引き入れた。現ホットドッグ協会副会長。&br()ファーム力、戦闘力、起床率が高い。なぜか外出先でよく遭遇する。&br()刃弐はチョケに一番乗っかるのはケインだと思っている。|
+|[[フェアリー　トピオ]]|868設立後はじめてのメンバー。ホットドッグ協会員。&br()トピオが半グレの時に知り合い、勧誘目的でアシッドバイトとして囲った。&br()ギャングに入った頃はまだ街での生活や犯罪に慣れておらず初々しい点もあったが、&br()持ち前の向上心と吸収力で今では頼れる一員へと成長している。|
+|[[紫水　コウ]]|刃弐が寝ていた間にメンバーになっていた男。100年後の世界から来たらしい。&br()社交性が高く、組織外の情報がよく集まる。加入して間もない頃、大型中の報告が少なかったため&br()「紫水、喋れ！」と活を入れたことがあり、そこから臆せず無線を使ってくれるようになった。&br() 働いている[[海上レストラン>Urashima]]の挨拶(野太め)が好きで、時々やってもらう。 |
+|[[ジョシュア・マーキル]]|紫水と仲の良い半グレで、傭兵として何度か雇った後メンバーになった。&br()車の運転技術が非常に高く、エモート筋の使い手。同じ闇メカに所属している。&br()868内でのジョシュアの愛称「ジョア」は、刃弐が呼びにくいからと名付けた。&br()クールキャラだと思っていたが、どうやらチョケまくっている様子。|
+|[[J　D]]|加入前から紫水・ジョアと仲が良く、刃弐が寝ていた間にメンバーになっていた。&br()傭兵で何度か一緒に大型をしており、ボスとして加入には賛成していた。&br()運転技術が高いほか、銃や報告もかなり上手いオールラウンダー。&br()ケイン曰くJDもチョケているとのこと。音鳴を信奉しているらしい。|
+
+#table_zebra(#F8F8F8, #fff, #82cddd)
+#endregion()
+//
+***&font(25px){&icon_fa(fa fa-user-secret)} 犯罪者
+#region(開く)
+#table_style(head=#A0D0D7:#FFF:center)
+|~キャラクター名|~詳細|h
+|[[ハイライト>小峯　玲]]|職場体験した[[魔女の酒場]]の店員兼元[[IRiS]]の構成員。&br()半グレ時代からチェイスの腕前を見てくれたり、&br()傭兵として雇ってくれたりと良好な関係を築いている。|
+|[[アドミゲス・ハン]]|元[[IRiS]]のアンダーボスでありロスサントス最速のレース王。&br()王であるが故に肩を並べる者が居ない寂しさを抱えており、&br()刃弐が自身のライバルになり得ると期待を寄せてくれている。&br()刃弐もまた、ハンのチェイス力を尊敬しており、&br()半グレ時代はタイミングが合えば一緒に走って研鑽し合う間柄だった。|
+|[[ヴァン　ダーマー]]|[[MOZU]]のBOSS。街に来た当初、夕コが探していた"白髪でサングラスのおじさん"。&br()半グレに厳しい組織であるとよく耳にするのに傭兵ビジネスを提案してきたこと、&br()夕コとヴァンダーマーが話をしたあとも彼の部下が自分たちを探るような行動を&br()取っていたことから警戒していた。|
+|[[銭形　やいち郎]]|[[MOZU]]所属。彼も長い間半グレだったらしい。&br()868半グレ時代、拠点やレダー達との繋がりに探りを入れてくるため警戒していた。&br()彼と[[ナタル　イルコフ]]に衛星外花摘み中に詰められたことにより、&br()MOZUへの敵対心が明確なものとなった。|
+|[[アルフォート　ウェスカー]]|[[anbrella(餡ブレラ)]]のBOSS。半グレ時代、刃弐が[[那須>那須　裕貴]]に傭兵業を売り込んだところ雇ってくれた。&br()その後も何度か傭兵として使ってくれ、ギミックは遠慮なく教えてくれたりと、&br()刃弐が餡に対して恩を感じてしまうほどよくしてもらった。&br()868を設立した今では敵対組織として良い関係を築いている。|
+|[[有坂　誉]]|[[anbrella(餡ブレラ)]]所属。レダーの伝手で大型犯罪などの犯罪知識を沢山教えてくれたいい人。|
+|[[那須　裕貴]]|[[anbrella(餡ブレラ)]]所属。初対面はプリズンの刑務作業で気まずい1on1。第一印象怖い人。&br()数週間後にBMCで再会した際、傭兵業を売り込んだことがきっかけでよく依頼をしてくれた。&br()大型犯罪での動き方などを手取り足取り丁寧に教えてくれた、優しくて頼れる兄貴のような存在。|
+|[[みこだ　よう>神子田　頼]]|元[[ロスサントス警察]]官。&br()宝石店強盗をしているとよく駆け付けてきて、お互いに煽り合っていた。|
+
+#table_zebra(#F8F8F8, #fff, #82cddd)
+#endregion()
+//
+***&font(25px,#007BBB){&icon_fa(fa fa-shield-halved)} ロスサントス警察
+#region(開く)
+#table_style(head=#A0D0D7:#FFF:center)
+|~キャラクター名|~詳細|h
+|[[成瀬　力二]]|[[夕コ>成瀬　夕コ]]の弟であり、人気飲食店[[カニメイト]]のオーナー。|
+|[[伊藤　ぺいん]]|コンビニ強盗で金庫破りに苦戦していた所にアドバイスをくれ、自首しろと500万円をくれたため自首した。&br()その後も犯罪をしていないか確認の電話がかかってきたり、逆に電話をかけて煽り合いができる仲になる。&br()非通知の電話の掛け方も教えてくれた。印象はただただいい人、チェイスが下手な人である。&br()ヘリでのチェイスをチラつかされている。|
+|[[花沢　まるん]]|バイクが上手い警察官。どうやら好敵手にされているようだ。&br()チェイスを逃げ切ったあとに煽り電話をよく掛けるが、&br()彼曰くチェイスの途中で"毎回"大型が入り、"泣く泣く"追うのを断念しているらしい。&br()宝石店強盗中に高級車ディーラーとしての営業を何度かかけられている。|
+|キャップ&br()([[ましゃかり　トラボルタ]])|警察兼[[BMC>BMカスタム]]メカニック。彼の要望で「ばにちゃん」「キャップおじさん」と呼び合うことになった。&br()長い間、警察としてのキャップを見たことがなかったが、宝石店強盗中に遂に鉢合わせた。|
+|ばあちゃん&br()([[バーバリアン　田中]])|マトリと小型犯罪でよく会う警察。初めてばあちゃんに逮捕された際、&br()ノートをめくって一生懸命罰金額を計算していたのを見て好感をもっている。&br()宝石店強盗をしているとばあちゃんだけが来てくれることがある。&br()1v1のチェイスはのほほんとしている。|
+
+#table_zebra(#F8F8F8, #fff, #82cddd)
+#endregion()
+//
+***&font(25px,#F00){&icon_fa(fa fa-heartbeat)} ロスサントス救急隊
+#region(開く)
+#table_style(head=#A0D0D7:#FFF:center)
+|~キャラクター名|~詳細|h
+|[[切間　てつお]]|救急隊兼メカニック兼[[アイアンバーガ―]]の店長。&br()角刈りコースの製作者がてつおと知り、初対面で「ファンです！」と伝えた。&br()[[ハンさん>アドミゲス・ハン]]の紹介をきっかけにチェイスをする仲になった。最初は「角刈りさん」と呼んでいた。|
+|[[サンクチュアリ　たえこ]]|犯罪のCT中にテレビで「[[救急隊OLのモーニングルーティーン>https://www.youtube.com/watch?v=Bb0ZOmZNzP8]]」を見てからのファン。&br()路上で見かけたときは「あれたえこさんじゃない！？」とテンションが上がった。&br()たえこの警察体験中にニアミスしたものの、直接接触したことはまだない。|
+
+#table_zebra(#F8F8F8, #fff, #82cddd)
+#endregion()
+//
+***&font(25px,#3EB370){&icon_fa(fa fa-child)} 市民
+#region(開く)
+#table_style(head=#A0D0D7:#FFF:center)
+|~キャラクター名|~詳細|h
+|[[プスカ大佐>ネズ]]|街に来て初めて車を購入する際にとても親切にしてくれた。&br()その後も2台目の車購入時や、車の修理・カスタムでお世話になった。|
+|[[牧田　ここな]]|カレー屋[[KoKo七番屋]]の店長。&br()蓮と共に単発バイトとして雇ってもらったことがある。&br()レースで何度か顔を合わせていた。|
+|[[天近　くるみ]]|隠れ家バー[[魔女の酒場]]の店主。&br()単発バイトでお世話になった。お店のハウジングを自身で手がけており、占いも行う。&br()音鳴・ケインと一度占ってもらったところ、3人とも魂に響いてしまった。|
+|[[ヘラシギ]]| BAR[[Violet Fizz]]のオーナー。&br()以前[[ギャング>MOZU]]に属していた。街に来て間もない頃、街のことを色々教えてくれた。&br()刃弐の顔のタトゥーや髪型の雰囲気が、[[昔の知人>山本　龍也]]を思い出させるらしい。|
+|[[不二子　キャスパー]]|刃弐が働く闇メカニック[[Glare Gem]]の社長。&br()旧PY体験中に闇メカニックで働きたいと相談し雇ってもらった。&br()よく気にかけてくれる社員思いの人で、何かあれば報連相はするが、&br()以前の会話などから[[敵対組織>MOZU]]と関係値がありそうなため心は開けていない。|
+|[[大　川]]|メカニック[[A2 Lab]]のオーナー＆高級車ディーラー。&br()車についての相談や、高級車を購入したい時にまず連絡する相手。&br()大川さん「刃弐さんには真っ赤な車乗って欲しいすけどね。真っ赤な車エロいんで。」|
+|[[パン　チャン]]|白市民の素材屋。868の正式な協力者。&br()ケインやレダーが懇意にしていることから縁ができ、刃弐もお世話になっている。&br()一緒にクリスタルを取りに行った際、パンチャンが無心で掘っている姿に感心した。&br()868がパンチャンの後ろ盾になると報告を受けた際、すぐに賛成した。|
+
+#table_zebra(#F8F8F8, #fff, #82cddd)
+#endregion()
+
+//
+*&font(25px){&font(30px,#82cddd){服}装一覧 &icon_fa(fa fa-shopping-bag)}
+//
+***&font(22px,#FF6EC7){&icon_fa(fa fa-gun)}【8&color(#FF6EC7){6}8】
+#region(開く)
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(868大型アップ.jpg,x=140,y=220)|~&blankimg(大型服_素顔.jpg,x=140,y=220)|~&blankimg(大型服_ねずみ.jpg,x=140,y=220)|~&blankimg(シマ取り.jpg,x=140,y=220)|
+|~大型服|~大型服 (全身)|~大型服 (ねずみ)|~シマ取り|
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(大型服_夏1.jpg,x=140,y=220) |~&blankimg(大型服_夏1_マスク.jpg,x=140,y=220)|~&blankimg(外交スーツアップ.jpg,x=140,y=220)|~&blankimg(外交スーツ全身.jpg,x=140,y=220)|
+|~大型服 夏 |~大型服 夏 (マスク)|~外交スーツ|~外交スーツ (全身)|
+#endregion()
+//
+//
+***&font(22px,#008db7){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(刃弐2.jpg,x=140,y=220)|~&blankimg(日常服ねずみ.jpg,x=140,y=220)|~&blankimg(ねずみ赤りぼん.jpg,x=140,y=220)|~&blankimg(白フード全身.jpg,x=140,y=220)|
+|~マスクなし|~ねずみ|~赤りぼん|~白フード|
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(青ブルゾン.jpg,x=140,y=220)|~&blankimg(黒スーツ.jpg,x=140,y=220)|~&blankimg(半袖ねずみ全身.jpg,x=140,y=220)|~&blankimg(夏服1.jpg,x=140,y=220)|
+|~青ブルゾン|~黒スーツ|~半袖|~夏服 1|
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(夏服2.jpg,x=140,y=220)|~&blankimg(夏服2_マスク.jpg,x=140,y=220)|~&blankimg(夏服3.jpg,x=140,y=220)|~&blankimg(夏服4.jpg,x=140,y=220)|
+|~夏服 2|~夏服 2 (マスク)|~夏服 3 (イメチェン)|~夏服 4|
+#endregion()
+//
+//
+***&font(24px,#008db7){&icon_fa(fa fa-person-circle-question)} 変装服
+#region(開く)
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(白ねずみ.jpg,x=140,y=220)|~&blankimg(茶ねずみ.jpg,x=140,y=220)|~&blankimg(生肉.jpg,x=140,y=220)|~&blankimg(生肉2.jpg,x=140,y=220)|
+|~白ねずみ|~茶ねずみ|~生肉 1|~生肉 2|
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(空き巣.jpg,x=140,y=220)|~&blankimg(牛さん.jpg,x=140,y=220)|~&blankimg(赤うさぎ.jpg,x=140,y=220)|~&blankimg(浴衣.jpg,x=140,y=220)|
+|~空き巣協会|~モー・モー|~赤うさぎスーツ|~熱海旅行|
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(青系.jpg,x=140,y=220)|~&blankimg(パパイヤ.jpg,x=140,y=220)|~&blankimg(ガスマスク.jpg,x=140,y=220)|~&blankimg(猿マスク.jpg,x=140,y=220)|
+|~青系|~パパイヤ|~ガスマスク|~猿マスク|
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(わるいうさぎ.jpg,x=140,y=220)|~&blankimg(エプロン.jpg,x=140,y=220)|~&blankimg(DJ社長.jpg,x=140,y=220)|~&blankimg(鹿.jpg,x=140,y=220)|
+|~わるいうさぎ|~エプロン|~DJ社長|~鹿|
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(マジ誰シリーズ2.jpg,x=140,y=220)|~&blankimg(マジ誰シリーズ3.jpg,x=140,y=220)|~&blankimg(マジ誰シリーズ4.jpg,x=140,y=220)|~&blankimg(マジ誰シリーズ5.jpg,x=140,y=220)|
+|~マジ誰シリーズ 1|~マジ誰シリーズ 2|~マジ誰シリーズ 3|~マジ誰シリーズ 4|
+#endregion()
+//
+//
+***&font(20px,#008db7){&icon_fa(fa fa-user-plus)} その他
+#region(開く)
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(カレー体験.jpg,x=140,y=220)|~&blankimg(酒場体験.jpg,x=140,y=220)|~&blankimg(旧PY体験.jpg,x=140,y=220)|~&blankimg(囚人服.jpg,x=140,y=220)|
+|~体験 (KoKo七番屋)|~体験 (魔女の酒場)|~体験 (旧PY)|~囚人服|
+#table_style(head=#82cddd:#FFF:center)
+|~&blankimg(餡ブレラアップ.jpg,x=140,y=220)|~&blankimg(餡ブレラ全身.jpg,x=140,y=220)|~&blankimg(IRiSアップ.jpg,x=140,y=220)|~&blankimg(IRiS全身.jpg,x=140,y=220)|
+|~傭兵 (餡ブレラ)|~傭兵 (餡ブレラ 全身)|~傭兵 (IRiS)|~傭兵 (IRiS 全身)|
+#endregion()
+
+//
+//
+//↓テンプレート
+//#table_style(head=#82cddd:#FFF:center)
+//|~&blankimg(画像,x=140,y=220)|
+//|~服の名前|
+*&font(25px){&font(30px,#82cddd){所}有車両 &icon_fa(fa fa-car)}
+//
+***&font(22px,#008db7){&icon_fa(fa fa-car)} 所有車両
+#region(開く)
+#table_filter(){名前=show,種類=hide,購入日=show,ランク=hide,備考=show}
+#table_style(head=center:#A0D0D7:#FFF){#=center}
+|~名前|~種類|~購入日|~ランク|~備考|h
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(ウィーヴィル){Weevil}|COMPACT|2024/01/20|C|[[プスカ大佐>ネズ]]から購入。ダイス勝負で60万援助してもらう。|
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(イッシー){Issi}&ruby(スポーツ){Sport}|COMPACT|2024/01/21|S|[[プスカ大佐>ネズ]]から購入。大佐が信用貸しを提案してくれ3,000万借り購入。|
+|&space()&icon_fa(fa-solid fa-truck-field)&space()&ruby(ランポ){Rumpo} &ruby(カスタム){Custom}&space()|VANS|2024/01/27|||
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(パラゴン){Paragon} R|SPORTS|2024/02/07|S|[[レダー>レダー　ヨージロー]]からのプレゼント。塗装・フルカスタムまでしてくれた。|
+|&space()&icon_fa(fa-solid fa-motorcycle)&space()&ruby(ブレイザー){Blazer} &ruby(スポーツ){Sport}&space()|OFF-ROAD|2024/02/11||[[須藤>須藤　冬馬]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-helicopter)&space()&ruby(スパロー){Sparrow}|HELICOPTERS|2024/02/12||[[鳥野>鳥野　ぎん]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(エレジー){Elegy}&space()&ruby(レトロ){Retro}&space()&ruby(カスタム){Custom}&space()|SPORTS|2024/02/16|A|[[ヤブ下>ヤブ下　安理 ]]さんから購入。A帯レース用。|
+|&space()&icon_fa(fa-solid fa-motorcycle)&space()&ruby(ヴァグラント){Vagrant}|OFF-ROAD|2024/02/26|A|[[大川>大　川 ]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(トラクス){Thrax}|SUPER|2024/03/02|S|[[ミンドリー>>ミン　ドリー ]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(ドラウグル){Draugur}|OFF-ROAD|2024/03/09|A|[[みら>>みら　らんど]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(センチネル){Sentinel} &ruby(クラシック){Classic}&space()|COUPE|2024/03/17|B|[[大川>大　川 ]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-motorcycle)&space()&ruby(シノビ){Shinobi}|MOTORCYCLES|2024/03/19|D|[[大川>大　川 ]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(サルタン){Sultan}&space()&ruby(クラシック){Classic}&space()&ruby(カスタム){Custom}&space()|SPORTS|2024/03/24|A|[[大川>大　川 ]]さんから購入。A帯レース用。|
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(グレンジャー){Granger}|SUVS|2024/03/27|A|[[大川>大　川]]さんから購入。8人乗り。|
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(ブリオッソ){Brioso} 300|COMPACT|2024/03/28||[[ルウ>ルウ　ギャラクティカ]]さんから購入。スタッシュ用。|
+|&space()&icon_fa(fa-solid fa-truck-field)&space()&ruby(ボブキャット){Bobcat} &space()&ruby(){XL}&space()&ruby(オープン){Open}|VANS|2024/03/30||[[大川>大　川]]さんから購入。スタッシュ用。|
+|&space()&icon_fa(fa-solid fa-helicopter)&space()&ruby(フロガー){Frogger} &ruby(カスタム){Custom}|HELICOPTERS|2024/04/10||[[豆やん>豆　やん]]さん、[[くまのふでこ>くまの　ふでこ]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-motorcycle)&space()&ruby(シノビ){Shinobi}&space()&ruby(アウトロー){Outlaw}|MOTORCYCLES|2024/04/25|D|[[ケイン>>ケイン／オー]]からのプレゼント。|
+|&space()&icon_fa(fa-solid fa-helicopter)&space()&ruby(スーパーヴォリトー){SuperVolito}|HELICOPTERS|2024/05/16||[[豆やん>豆　やん]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-truck-field)&space()&ruby(ジャーニー){Journey}|VANS|2024/05/23||[[パキち>パキ　ち]]さんから2台同時購入。スタッシュ用。|
+|&space()&icon_fa(fa-solid fa-truck-field)&space()&ruby(ジャーニー){Journey}|VANS|2024/05/23||[[パキち>パキ　ち]]さんから2台同時購入。スタッシュ用。|
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(プリンシペ){Principe} &ruby(デヴェステ){Deveste}&space()|SUPER|2024/05/24|S|[[大川>大　川 ]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-truck-field)&space()&ruby(ランポ){Rumpo} &ruby(カスタム){Custom}&space()|VANS|2024/05/31||[[パキち>パキ　ち]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-car-side)&space()&ruby(ブリオッソ){Brioso} 300|COMPACT|2024/05/31||[[パキち>パキ　ち]]さんから購入。スタッシュ用。|
+|&space()&icon_fa(fa-solid fa-truck-field)&space()&ruby(ジャーニー){Journey}&space()&ruby(ツー){II}|VANS|2024/06/05||[[パキち>パキ　ち]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-truck-field)&space()&ruby(スピード){Speedo}&space()&ruby(エクスプレス){Express}|VANS|2024/06/07||[[パキち>パキ　ち]]さんから購入。|
+|&space()&icon_fa(fa-solid fa-ship)&space()&ruby(ロングフィン){Longfin}|Boat|2024/06/07||[[豆やん>豆　やん]]さんから購入。|
+
+#table_zebra(#F8F8F8, #fff, #82cddd)
+#endregion
+//
+//
+***&font(22px,#008db7){&icon_fa(fa fa-car-burst)} 過去に所有していた車両
+#region(開く)
+#table_filter(){名前=show,種類=hide,購入日=show,喪失/譲渡日=show,ランク=hide,備考=show}
+#table_style(head=center:#A0D0D7:#FFF)
+|~名前|~種類|~購入日|~喪失/譲渡日|~ランク|~備考|h
+|&space()&icon_fa(fa-solid fa-helicopter)&space()&ruby(シー){Sea}&space()&ruby(スパロー){Sparrow}|HELICOPTERS|2024/05/31|2024/06/07||[[豆やん>豆　やん]]さん、[[ずぅ>多良里　ずぅ]]さんから購入。脱法カスタム('24/06/07現在は違法)済み。&br()TwiXで買取募集をかけ、[[ルナ ホークアイ>月渚　雪人]]とジャンケン勝負を行い1億8500万で譲渡。|
+
+#table_zebra(#F8F8F8, #fff, #82cddd)
+#endregion
+
+//
+*&font(25px){&font(30px,#82cddd){不}動産関連 &icon_fa(fa fa-house)}
+***&font(22px,#008db7){&icon_fa(fa fa-house)} 所有物件
+#region(開く,close)閉じる
+#table_filter(){購入日=hide,番地=show,場所=show,通称=show,備考=show}
+#table_style(head=center:#82cddd:#FFF)
+|~購入日|~番地|~場所|~通称|~備考|h
+|24/01/19|8039|市街 病院横|アパート|初期アパート。|
+|24/02/23|4025|砂漠 拠点横||コの字の1号室。自分の物資保管用。|
+|24/02/24|3003|砂漠 質屋前||盗品宝石の保管用。|
+|24/03/13|8190|市街 東部||闇メカニック素材の保管用。|
+|24/03/26|7144|市街 北部|自分の部屋|868本拠地内の部屋。|
+|24/04/12|3003|砂漠 質屋前||質屋前拠点横のコンテナ。|
+|24/04/12|5025|山上 STGR看板裏||ヘリ逃げ込み用。|
+|24/04/12|7232|市街||逃げ込み用。|
+|24/04/12|10100|港湾倉庫地帯||ボート逃げ込み用。|
+|24/06/15|2012|湖上の町 西部||2000番にあるゲーセン。&br()シマ取り復帰用拠点として組織で購入予定だったが、高額のため自腹で購入した。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F8F8F8,odd=#FFF}
+#endregion
+//
+***&font(22px,#008db7){&icon_fa(fa-solid fa-key)} 共有物件
+#region(開く,close)閉じる
+#table_filter(){共有日=hide,番地=show,場所=show,通称=show,管理者=hide,備考=show}
+#table_style(head=center:#82cddd:#FFF)
+|~共有日|~番地|~場所|~通称|~管理者|~備考|h
+|24/01/21|7219|市街 北西部|街中/VF裏|レダー ヨージロー|第一拠点。|
+|24/01/29|4025|砂漠|砂漠拠点/コの字|レダー ヨージロー|薬物素材の保管用拠点。|
+|24/01/30|10047|港|薬/南拠点|レダー ヨージロー|元薬物精製用拠点。|
+|24/02/22|9130|市街 南部||ケイン/オー|ケインのゴミ箱漁りもの保管場所。|
+|24/02/24|1105|西海岸 軍事基地付近|アシッド拠点|ケイン/オー|ケインのアシッド保管場所。|
+|24/02/26|3053|鉱山地帯||ケイン/オー|ケインのサルファー保管場所。|
+|24/02/28|9093|市街 南部|ゲーセンアジト|ケイン/オー|第二のメイン拠点＋保管庫。(3ヶ所)|
+|24/03/17|9093|市街 南部|会議室|ケイン/オー|ゲーセンアジト裏。会議室/応接室。|
+|24/03/26|7144|市街 北部|本アジト|868|ギャング868本拠地。|
+|24/03/26|7144|市街 北部|倉庫|ケイン/オー|本アジト倉庫。(3ヶ所)|
+|24/04/12|4006|砂漠||成瀬 夕コ|夕コと音鳴のシェアハウス。|
+|24/05/18|2015|湖北東側||音鳴 ミックス|音鳴の花保管場所。ガレージタイプ。|
+|24/05/18|2015|湖北東側||音鳴 ミックス|音鳴の花保管場所。ハウスタイプ。|
+|24/05/19|2016|湖北東側||ケイン/オー|逃走用拠点。|
+|24/05/21|7185|市街 北部|銀行上|ケイン/オー|逃走用拠点。|
+|24/05/22|7038|高級住宅街南部|豪邸|ケイン/オー|第三のメイン拠点。|
+|24/05/22|7038|高級住宅街南部|豪邸の倉庫|ケイン/オー|第二のメイン拠点予定地内の倉庫。(2箇所)|
+|24/05/26|5038|西海岸||ケイン/オー|泳ぎ・船逃走用拠点。|
+|24/05/26|1046|北の町 中部||ケイン/オー|北の町の逃走用拠点。|
+|24/07/23|9281|市街 南東部||ケイン/オー|ボブキャット南の逃走用拠点①。|
+|24/07/23|9285|市街 南東部||ケイン/オー|ボブキャット南の逃走用拠点②。|
+|24/07/23|9384|市街 東部||ケイン/オー|東クラフト場付近にある逃走用拠点①。|
+|24/07/23|9287|市街 南東部|9番出口|ケイン/オー|ボブキャット南の逃走用拠点②。|
+|24/07/23|8196|市街 東部||ケイン/オー|高速下の逃走用拠点。|
+|24/07/23|2048|湖東側||ケイン/オー|2000番台のシマ取り用拠点。|
+|24/07/23|8012|市街 南西部||JD|トンネル内にある逃走用拠点。|
+|24/07/23|9016|市街 南部||JD|工業地帯内のプレハブ小屋。逃走用拠点。|
+|24/07/23|9287南|市街 南東部|犯罪者マンション|JD|JDの個人宅だった工場内ガレージ。|
+
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F8F8F8,odd=#FFF}
+#endregion
+//
+***&font(22px,#008db7){&icon_fa(fa fa-warehouse)} ハイドアウトガレージ
+#region(開く,close)閉じる
+#table_filter(){購入日=hide,番地=show,場所=show,備考=show}
+#table_style(head=center:#82cddd:#FFF)
+|~購入日|~番地|~場所|~備考|h
+|24/02/14|7259|市街 街中アジト前|駐車スペース：車4台|
+|24/02/15|4020|砂漠|駐車スペース：車3台|
+|24/02/28|9128|市街 新アジト付近|駐車スペース：車1台|
+|24/02/29|8199|市街 ピザ屋付近|駐車スペース：車10台|
+|24/03/28|7140|市街 868本拠地付近|駐車スペース：車10台|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F8F8F8,odd=#FFF}
+#endregion
+
+//
+*&font(25px){&font(30px,#82cddd){エ}ピソード &icon_fa(fa fa-calendar-o)}
+#include(刃弐　ランド/エピソード1)//24年1-3月
+
+#include(刃弐　ランド/エピソード2)//24年4-月
+
+&size(12){エピソードページリンク：[[EP1>刃弐　ランド/エピソード1]] / [[EP2>刃弐　ランド/エピソード2]]}
+//
+//環境によって重くて編集できない状態だったため、子ページを作成しました。編集は各エピソードページにお願いします。(24/4/27)
+*&font(25px){&font(30px,#82cddd){ア}－カイブ &icon_fa(fa fa-archive)}
+&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){【公認】CR_バニラ / アーカイブch.}>>https://youtube.com/@cr.vanilla_archive]]に移行完了。　[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 再生リスト>>https://youtube.com/playlist?list=PLTuThQzXm8o4EmLQvXHz6W4S49YZB3MNN&si=RMOAuvn6z3DBvW74]]
+***&color(#008db7){2024年1月のアーカイブ&font(#DA1725){&icon_fa(fa fa-youtube-play)}}
+#region(開く)
+#table_style(head=center:#82cddd:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|1/19|1|[[ストグラ初参戦 初めまして。刃弐ランドです。>>https://youtu.be/ZahTzh4Cevc]]||
+|1/20|2|[[ストグラ DAY2 町ぶらり 刃弐 ランド>>https://youtu.be/res8fu0COCk]]||
+|1/21|3|[[ストグラ DAY3 まったり 刃弐 ランド>>https://youtu.be/YotaYdl0vfA]]||
+|1/23|4|[[ストグラ DAY4 脱初心者の日 刃弐 ランド>>https://youtu.be/rZohpG-OLkI]]||
+|1/24|5|[[ストグラ DAY5 まぁ色々とね 刃弐 ランド>>https://youtu.be/-3sKU-OsRIU]]||
+|1/25|6|[[ストグラ DAY6 おはよ【刃弐 ランド】>>https://youtu.be/bv3fe0XkYP4]]||
+|1/26|7|[[ストグラ DAY7 資金集めGO【刃弐 ランド】>>https://youtu.be/EvG1q3MZpdQ]]||
+|1/27|8|[[ストグラ DAY8 ざっくりがっぽり【刃弐 ランド】>>https://youtu.be/KwQRlfnBUm0]]||
+|1/28|9|[[ストグラ DAY9 敵しかいねぇ【刃弐 ランド】>>https://youtu.be/ICEc10h9EhM]]||
+|1/29|10|[[ストグラ DAY10 走る【刃弐 ランド】>>https://youtu.be/cIWanksnhZs]]||
+|1/30|11|[[ストグラ DAY11 集金or集金【刃弐 ランド】>>https://youtu.be/Yxk9S4LSd_4]]||
+#table_zebra(#f7f7f7, #fff, #82cddd)
+#endregion(24.01)
+//
+***&color(#008db7){2024年2月のアーカイブ&font(#DA1725){&icon_fa(fa fa-youtube-play)}}
+#region(開く)
+#table_style(head=center:#A0D0D7:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2/1|12|[[ストグラ DAY12 ばちこりレツゴ【刃弐 ランド】>>https://youtu.be/jsW8pmRhscg]]||
+|2/2|13|[[ストグラ DAY13 なんでもします【刃弐 ランド】>>https://youtu.be/wAGTaZmn_is]]||
+|2/6|14|[[ストグラ DAY14 おはお【刃弐 ランド】>>https://youtu.be/Is9yoBHne60]]||
+|2/7|15|[[ストグラ DAY15 ハッピーハッピーハッピー【刃弐 ランド】>>https://youtu.be/jnd5RUpQ7r4]]||
+|2/8|16|[[ストグラ DAY16 チピチピチャパチャパ【刃弐 ランド】>>https://youtu.be/b4RSzSZLFEU]]||
+|2/9|17|[[ストグラ DAY17 ざっくりがっぽり【刃弐 ランド】>>https://youtu.be/MyeWJKmupOU]]||
+|2/10|18|[[ストグラ DAY18 3億ためるか【刃弐 ランド】>>https://youtu.be/tp-NiDkZ6MQ]]||
+|2/11|19|[[ストグラ DAY19 おはよごじゃます【刃弐 ランド】>>https://www.youtube.com/watch?v=t_oe1c2tN4w]]||
+|2/12|20|[[ストグラ DAY20 買い物したい【刃弐 ランド】>>https://www.youtube.com/watch?v=dRBBvux0IHg]]||
+|2/13|21|[[ストグラ DAY21 おきあ【刃弐 ランド】>>https://www.youtube.com/watch?v=5pFDIYSLccA]]||
+|2/14|22|[[ストグラ DAY22 犯罪ぱーりない【刃弐 ランド】>>https://www.youtube.com/watch?v=WJ9mjxjIRMc]]||
+|2/15|23|[[ストグラ DAY23 起きたんだYO【刃弐 ランド】>>https://www.youtube.com/watch?v=_bjCidtlr9c]]||
+|2/16|24|[[ストグラ DAY24 チェイス日和【刃弐 ランド】>>https://www.youtube.com/watch?v=3AWdcIbYkaA]]||
+|2/18|25|[[ストグラ DAY25 まったり【刃弐 ランド】>>https://www.twitch.tv/videos/2066302632]]|アーカイブなし|
+|2/21|26|[[ストグラ DAY26 走るド【刃弐 ランド】>>https://www.youtube.com/watch?v=v7U2dLVc4hM]]||
+|2/23|27|[[ストグラ DAY27 モーニングルーティーン【刃弐 ランド】>>https://youtu.be/XwxyLqnGijs]]||
+|2/24|28|[[ストグラ DAY28 ちょとやる【刃弐 ランド】>>https://youtu.be/AEbH9WLCxvk]]||
+|2/26|29|[[ストグラ DAY29 金金金【刃弐 ランド】>>https://youtu.be/7fw-0It22ZI]]||
+|2/27|30|[[ストグラ DAY30 まったりぽっちゃり【刃弐 ランド】>>https://youtu.be/wO1p2In5iqQ]]||
+|2/28|31|[[ストグラ DAY31 早起き【刃弐 ランド】>>https://youtu.be/61MFWSyAVGA]]||
+|2/29|32|[[ストグラ DAY32 飯食った【刃弐 ランド】>>https://youtu.be/CHqLcRddv8Q]]||
+#table_zebra(#f7f7f7, #fff, #82cddd)
+#endregion(24.02)
+//
+***&color(#008db7){2024年3月のアーカイブ}&font(#DA1725){&icon_fa(fa fa-youtube-play)}
+#region(開く)
+#table_style(head=center:#A0D0D7:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|3/1|33|[[ストグラ DAY33 まじでChill【刃弐 ランド】>>https://youtu.be/bG46mCnfIBQ]]||
+|3/2|34|[[ストグラ DAY34 朝一番【刃弐 ランド】>>https://youtu.be/MzZg_sleRGE]]||
+|3/3|35|[[ストグラ DAY35 稼ぐ【刃弐 ランド】>>https://youtu.be/vRtRq-8j6zI]]||
+|3/5|36|[[ストグラ DAY36【刃弐 ランド】>>https://youtu.be/T39FtM5XeVo]]||
+|3/6|37|[[ストグラ DAY37 ぐで【刃弐 ランド】>>https://youtu.be/w2a9QkiPELE]]||
+|3/9|38|[[ストグラ DAY38 おきた【刃弐 ランド】>>https://youtu.be/qcyTPgGX2nw]]||
+|3/10|39|[[ストグラ DAY39 HEY【刃弐 ランド】>>https://youtu.be/mobcP7vPoqw]]||
+|3/13|40|[[ストグラ DAY40 まったりいろいろ～【刃弐 ランド】>>https://youtu.be/4i0fmzCq_Ow]]||
+|3/14|41|[[ストグラ DAY41【刃弐 ランド】>>https://www.twitch.tv/videos/2119443044]]|ｱｰｶｲﾌﾞなし|
+|3/16|42|[[ストグラ DAY42 おはよございます【刃弐 ランド】>>https://www.twitch.tv/videos/2119446171]]|ｱｰｶｲﾌﾞなし|
+|3/17|43|[[ストグラ DAY43 犯罪ライフ【刃弐 ランド】>>https://www.twitch.tv/videos/2119446225]]|ｱｰｶｲﾌﾞなし|
+|3/19|44|[[ストグラ DAY44 れてぃご【刃弐 ランド】>>https://www.twitch.tv/videos/2119446273]]|ｱｰｶｲﾌﾞなし|
+|3/22|45|[[ストグラ DAY45 起きた【刃弐 ランド】>>https://www.twitch.tv/videos/2119446605]]|ｱｰｶｲﾌﾞなし|
+|3/24|46|[[ストグラ DAY46【刃弐 ランド】>>https://youtu.be/8U7jqBr1tCM]]||
+|3/26|47|[[ストグラ DAY47【刃弐 ランド】>>https://youtu.be/oU93BwmvOxY]]||
+|3/27|48|[[ストグラ DAY48 だらり作業【刃弐 ランド】>>https://youtu.be/cAzKKTXKFTk]]||
+|3/28|49|[[ストグラ DAY49 金ないマ【刃弐 ランド】>>https://youtu.be/IaT6NCvRykM]]||
+|3/29|50|[[ストグラ DAY50 ギャン【刃弐 ランド】>>https://youtu.be/dUXf2mennXA]]||
+|3/30|51|[[ストグラ DAY51 雑談しながら作業【刃弐 ランド】>>https://www.twitch.tv/videos/2119494815]]|ｱｰｶｲﾌﾞなし|
+#table_zebra(#f7f7f7, #fff, #82cddd)
+#endregion(24.03)
+//
+***&color(#008db7){2024年4月のアーカイブ}&font(#DA1725){&icon_fa(fa fa-youtube-play)}
+#region(開く)
+#table_style(head=center:#A0D0D7:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|4/3|52|[[ストグラ DAY52 ｺﾝﾆﾁﾜｯ【刃弐 ランド】>>https://www.twitch.tv/videos/2119494974]]|ｱｰｶｲﾌﾞなし|
+|4/7|53|[[ストグラ DAY53 ちょい久【刃弐 ランド】>>https://www.twitch.tv/videos/2119495059]]|ｱｰｶｲﾌﾞなし|
+|4/9|54|[[ストグラ DAY54 大型わっしょい【刃弐 ランド】>>https://www.twitch.tv/videos/2119495382]]|ｱｰｶｲﾌﾞなし|
+|4/10|55|[[ストグラ DAY55 ジャックポット指名手配犯【刃弐 ランド】>>https://www.twitch.tv/videos/2119495423]]|ｱｰｶｲﾌﾞなし|
+|4/12|56|[[ストグラ DAY56 今日もいろいろ【刃弐 ランド】>>https://youtu.be/8gqzxotuqeI]]||
+#table_zebra(#f7f7f7, #fff, #82cddd)
+#endregion(24.04)
+//
+***&color(#008db7){2024年5月のアーカイブ}&font(#DA1725){&icon_fa(fa fa-youtube-play)}
+#region(開く)
+#table_style(head=center:#A0D0D7:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|5/8|57|[[北海道から帰りますた。このあとちょっとだけストグラ>>https://youtu.be/MUZeZD8cS7A]]|[[00:31:29～>>https://youtu.be/MUZeZD8cS7A&t=1889]]|
+|5/9|58|[[ストグラ DAY58 リハビリ生活【刃弐 ランド】>>https://youtu.be/P8-UepnlRCQ]]||
+|5/11|59|[[ストグラ DAY59 あい【刃弐 ランド】>>https://www.twitch.tv/videos/2143021000]]|ｱｰｶｲﾌﾞなし|
+|5/16|60|[[ストグラ DAY60 もったり色々【刃弐 ランド】>>https://youtu.be/x71mu_Pc27o]]||
+|5/17|61|[[ストグラ ギャング生活 DAY61【刃弐 ランド】>>https://youtu.be/AloRe1StJW8]]||
+|5/18|62|[[ストグラ ギャング生活 DAY62【刃弐 ランド】>>https://youtu.be/OBZVpFwDieY]]||
+|5/19|63|[[ストグラ ギャング生活 DAY63 Chill【刃弐 ランド】>>https://youtu.be/2RGzMKpvxqs]]||
+|5/21|64|[[ストグラ ギャング生活 DAY64【刃弐 ランド】>>https://youtu.be/xtVDZykgGSQ]]||
+|5/22|65|[[ストグラ ギャング生活 DAY65 縄張り争いれつご【刃弐 ランド】>>https://youtu.be/opKzkH18qFI]]||
+|5/23|66|[[ストグラ ギャング生活 DAY66 まったり【刃弐 ランド】>>https://youtu.be/0GYQNLdET8w]]||
+|5/24|67|[[ストグラ ギャング生活 DAY67 島取物語【刃弐 ランド】>>https://youtu.be/8RzUm21dBi8]]||
+|5/25|68|[[ストグラ ギャング生活 DAY68【刃弐 ランド】>>https://youtu.be/w2iN1wZTBbI]]||
+|5/26|69|[[ストグラ ギャング生活 DAY69【刃弐 ランド】>>https://youtu.be/jFzGx6VrpyY]]||
+|5/28|70|[[ストグラ ギャング生活 DAY70【刃弐 ランド】>>https://youtu.be/KXPDki63eks]]||
+|5/29|71|[[ストグラ ギャング生活 DAY71 島取り【刃弐 ランド】>>https://youtu.be/WVBp42jBKfc]]||
+|5/30|72|[[ストグラ ギャング生活 DAY72 CHILL【刃弐 ランド】>>https://youtu.be/PDmgOw753jg]]||
+|5/31|73|[[ストグラ ギャング生活 DAY73 SHIMATORI【刃弐 ランド】>>https://youtu.be/tjcd8e8FYPQ]]||
+#table_zebra(#f7f7f7, #fff, #82cddd)
+#endregion(24.05)
+//
+***&color(#008db7){2024年6月のアーカイブ}&font(#DA1725){&icon_fa(fa fa-youtube-play)}
+#region(開く)
+#table_style(head=center:#A0D0D7:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|6/2|74|[[ストグラ ギャング生活 DAY74【刃弐 ランド】>>https://youtu.be/7vMUN_cOYxk]]||
+|6/4|75|[[ストグラ ギャング生活 DAY75【刃弐 ランド】>>https://youtu.be/S5vONZ3jKSg]]||
+|6/5|76|[[ストグラ ギャング生活 DAY76【刃弐 ランド】>>https://youtu.be/ZiwCRYFZU4s]]||
+|6/7|77|[[ストグラ ギャング生活 DAY77【刃弐 ランド】>>https://youtu.be/7WUUPqj3peY]]||
+|6/11|78|[[ストグラ ギャング生活 DAY78【刃弐 ランド】>>https://youtu.be/NMfTEX2bzCI]]||
+|6/12|79|[[ストグラ ギャング生活 DAY79【刃弐 ランド】>>https://youtu.be/UQm-TgrMSOE]]||
+|6/15|80|[[ストグラ ギャング生活 DAY80【刃弐 ランド】>>https://youtu.be/UgFVBAvJE-o]]||
+|6/16|81|[[ストグラ ギャング生活 DAY81【刃弐 ランド】>>https://youtu.be/dRHaf8c1iUs]]||
+|6/18|82|[[ストグラ ギャング生活 DAY82【刃弐 ランド】>>https://youtu.be/cnULEmUwqLs]]||
+|6/19|83|[[ストグラ ギャング生活 DAY83【刃弐 ランド】>>https://youtu.be/vSIarUF63vM]]||
+#table_zebra(#f7f7f7, #fff, #82cddd)
+#endregion(24.06)
+//
+***&color(#008db7){2024年7月のアーカイブ}&font(#DA1725){&icon_fa(fa fa-youtube-play)}
+#region(開く)
+#table_style(head=center:#A0D0D7:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|7/23|84|[[久々に起床 ストグラ ギャング生活 DAY84【刃弐ランド】>>https://www.youtube.com/watch?v=D3C7Ys5qIlY]]||
+#table_zebra(#f7f7f7, #fff, #82cddd)
+#endregion(24.07)
+//
+//***&color(#63A4AE){2024年mm月のアーカイブ}
+//#region(開く)
+//#table_style(head=center:#008db7:#FFF){配信日=right,#=center}
+//|~配信日|~#|~配信タイトル|~備考|h
+//#table_zebra(#f7f7f7, #fff, #82cddd)
+//#endregion()
+//
+
+*&font(25px){&font(30px,#82cddd){動}画 &icon_fa(fa fa-youtube)}
+**公式チャンネル
+//フォーマット、タイトルの変更はお控えください。
+***&color(#008db7){2024年1月～3月}
+#region(開く)
+#size(90%){
+#table_style(head=center:#A0D0D7:#FFF){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|1/22|1|[[【ストグラ】遂にバニラがストグラに参戦！！初日から危ない橋を渡りまくりの新参者達ｗｗｗ【バニラ/ローレンイロアス/なるせ/selly/ととみっくす/らっだぁ】>>https://www.youtube.com/watch?v=i_tFMULv5PI]]|1/19配信分|
+|1/24|2|[[【ストグラ】優しいギャングに出会うも人質ビジネスの味を知ってしまい闇堕ちしかけるｗｗｗ【バニラ】>>https://www.youtube.com/watch?v=6hQG9sF2pGI]]|1/20配信分|
+|1/25|3|[[【ストグラ】何かがおかしすぎる訳アリ激ヤバ車屋が面白すぎたんだが【バニラ】>>https://www.youtube.com/watch?v=iQIxRN2P59o]]|1/21配信分|
+|1/27|4|[[【ストグラ】初めましての人との地獄の空間に耐えられなくなるバニラ【バニラ】>>https://www.youtube.com/watch?v=N5NonnRTHVA]]|1/23配信分|
+|1/29|5|[[【ストグラ】何故か捕まえに来た警察から強盗のやり方と500万を貰うバニラｗｗｗ【バニラ/ローレンイロアス/らっだぁ】>>https://www.youtube.com/watch?v=XuRkYQ8nJZA]]|01/24配信分|
+|2/1|6|[[【ストグラ】ヤ〇ザなのか警察なのかわからない人達に捕まってしまうバニラｗｗｗ【バニラ】>>https://www.youtube.com/watch?v=V9UDtMIepvY]]|1/25配信分|
+|2/3|7|[[【ストグラ】ポリスをひたすら煽りまくるも思いもしない展開になってしまうバニラとととみｗｗｗ【バニラ/ととみっくす】>>https://www.youtube.com/watch?v=PtHGihSAJJk]]|1/27配信分|
+|2/6|8|[[【ストグラ】敗色濃厚のチェイスでまさかの逃げ切り成功するバニラの逃走劇【バニラ】>>https://www.youtube.com/watch?v=1LHtfo-C7_0]]|1/28配信分|
+|2/8|9|[[【ストグラ】チェイス終了後に警察に対して煽り電話を入れるバニラ【バニラ】>>https://www.youtube.com/watch?v=3eFaQoc8sMU]]|1/29配信分|
+|2/9|10|[[【ストグラ】神をも味方につけたチェイスがヤバすぎたｗｗｗ【バニラ】>>https://www.youtube.com/watch?v=vU_0N1gfCG4]]|1/30配信分|
+|2/10|11|[[【バニラ】アツすぎるバイクとのチェイスに思わず大興奮のバニラ【ストグラ】>>https://www.youtube.com/watch?v=IRwK25j7_P4]]|2/1配信分|
+|2/11|12|[[【ストグラ】お姉さんに色々と勘違いされるバニラが面白すぎたｗｗｗ【バニラ】>>https://www.youtube.com/watch?v=Adw7yFq925s]]|2/2配信分|
+|2/13|13|[[【ストグラ】空き巣協会会長の公開生配信をレダーと見るも速攻で捕まる音鳴が面白すぎたｗｗｗ【バニラ】>>https://www.youtube.com/watch?v=_D1wKr1doqw]]|2/6配信分|
+|2/15|14|[[【ストグラ】初めてみた暴走するNPCに大困惑してしまうバニラｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=usy8ZEc468U]]|2/7配信分|
+|2/16|15|[[【ストグラ】金を強奪するつもりが何故か飛行機を強奪する展開にｗｗｗ【バニラ】>>https://www.youtube.com/watch?v=yAHT3jDW3F4]]|2/8配信分|
+|2/17|16|[[【ストグラ】変態警官に絡まれるバニラ【バニラ】>>https://www.youtube.com/watch?v=m6LK_Dqah04]]|2/9配信分|
+|2/21|17|[[【ストグラ】チェイスで最強の敵が現る！？硬すぎるゴリラバイクとのチェイスバトルが面白すぎたｗｗｗ【バニラ】>>https://www.youtube.com/watch?v=hQIy83uAd1U]]|2/10配信分|
+|2/22|18|[[【ストグラ】初めて焦村家に行くも、数々の爆笑展開に大満足のバニラ【バニラ】>>https://www.youtube.com/watch?v=nxhEzqippXg]]|2/11配信分|
+|2/23|19|[[【ストグラ】バニラ、遂に１億するヘリ買いました。【バニラ】>>https://www.youtube.com/watch?v=PRxpZfxpCNQ]]|2/12配信分|
+|2/26|20|[[【ストグラ】レダーの逃走をカバーしようとしたらギャングの抗争に巻き込まれたお話【バニラ/レダー】>>https://www.youtube.com/watch?v=EW_ADxy_bAc]]|2/13配信分|
+|2/26|21|[[【ストグラ】200IQの逃走術で絶体絶命の状態から逃走成功するバニラ【バニラ】>>https://www.youtube.com/watch?v=Wi4nVovw3dM]]|2/14配信分|
+|2/27|22|[[【ストグラ】レダーと一緒にNPCのトラックの荷台に乗って旅するバニラ【バニラ】>>https://www.youtube.com/watch?v=LImmyHyF_Bo]]|2/15配信分|
+|2/28|23|[[【ストグラ】初めましての警官に初心者を装うもすぐ伊藤ぺいんが来て詰められるバニラｗｗｗ【バニラ】>>https://www.youtube.com/watch?v=3JlQK9OfOqs]]|2/16配信分|
+|2/28|24|[[【ストグラ】遂に殴りたかった人間ドラムさんに強烈なパンチを入れて大喜びするバニラ【バニラ】>>https://www.youtube.com/watch?v=4StxpmpRH60]]|2/18配信分|
+|2/29|25|[[【ストグラ】ケイン/オーをホットドッグの事しか考えられないドック/オーに改造してしまった神回が面白すぎた【バニラ】>>https://www.youtube.com/watch?v=kMmIZa_zC5M]]|2/21配信分|
+|3/4|26|[[【ストグラ】変わった極小物件！？色んな物件を探しに行くバニラ【バニラ】>>https://www.youtube.com/watch?v=FKe8xDnWtK8]]|2/24配信分|
+|3/5|27|[[【ストグラ】ケインオーに空き巣.exeをインストールした結果、とんでもない化け物が誕生してしまうｗｗｗ【バニラ/らっだぁ/なるせ】>>https://www.youtube.com/watch?v=VqeKk3G5wtA]]|2/26配信分|
+|3/6|28|[[【ストグラ】バニラのチェイスをヘリでひたすら実況する成瀬夕コさん【バニラ】>>https://www.youtube.com/watch?v=-hk0LYmhm5A]]|2/27配信分|
+|3/7|29|[[【ストグラ】流石にウェス様ファンボすぎてドン引きされる牢王蓮とその光景を見て大爆笑の刃弐ランド【刃弐ランド/牢王蓮/ウェスカー】>>https://www.youtube.com/watch?v=ldl2lrcvWZs]]|2/27配信分|
+|3/8|30|[[【ストグラ】レダーと一緒に物件探ししてたら夕コさんの前の住居を発見したんだが...ｗ【刃弐ランド/レダーヨウジロウ/成瀬夕コ】>>https://www.youtube.com/watch?v=uGcW-mDvXAU]]|2/28配信分|
+|3/10|31|[[【ストグラ】結構前にプロやってた男がGTAでも暴れてみた【刃弐ランド】>>https://www.youtube.com/watch?v=56OBr1_JmS8]]|2/28配信分|
+|3/11|32|[[【ストグラ】ケインオーも大興奮だった8000万円で買ったガレージが大当たりすぎた件【刃弐ランド/ケインオー/成瀬夕コ】>>https://www.youtube.com/watch?v=__QtO0y7XWA]]|2/29配信分|
+|3/13|33|[[【ストグラ】犯罪中にとんでもないハプニングが起こってしまう刃弐ランドが面白いｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=fDL3WW5WX4E]]|3/1配信分|
+|3/14|34|[[【ストグラ】ケインオー×音鳴ミックスの空き巣配信がガチの神回だったｗｗｗ【刃弐ランド/ケインオー/音鳴ミックス】>>https://www.youtube.com/watch?v=cc_hMRGnwpQ]]|3/1配信分|
+|3/15|35|[[【ストグラ】傭兵成功率100%の男の逃走術とは...？【刃弍ランド】>>https://www.youtube.com/watch?v=8enYy4_b5Xk]]|2/29配信分|
+|3/17|36|[[【ストグラ総集編】刃弐ランドのストグラ生活1日目～10日目まとめ【刃弐ランド/レダーヨウジロウ/成瀬夕コ/音鳴ミックス/牢王蓮】>>https://www.youtube.com/watch?v=uCekp9ZPyIo]]|1/19～1/29配信分|
+|3/18|37|[[【ストグラ】まるんさんからの突然の報告に笑いが止まらなくなる刃弐ランド【刃弐ランド】>>https://www.youtube.com/watch?v=iFwaXmhW4Fg]]|3/2配信分|
+|3/19|38|[[【ストグラ】監獄からひたすら警官を煽り散らかす刃弐ランド×ケインオーが面白すぎるｗｗｗ【刃弐ランド/ケインオー】>>https://www.youtube.com/watch?v=vPdiUIR5uUM]]|3/3配信分|
+|3/20|39|[[【ストグラ】戦う相手がいなくなってしまった刃弐ランドの孤独なチェイス【刃弐ランド】>>https://www.youtube.com/watch?v=Tr_V_eVaRg0]]|3/3配信分|
+|3/21|40|[[【ストグラ】刃弐ランドのヘリ３台とのチェイスが楽しすぎたｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=ijHnixvGtsM]]|3/5配信分|
+|3/22|41|[[【ストグラ】空き巣コラボした住民が、まさかの凶悪犯罪者でとんでもない額の罰金切られる展開が面白すぎるｗｗｗ【刃弐ランド/レダーヨウジロウ/音鳴ミックス/天草】>>https://www.youtube.com/watch?v=REvqYomkos0]]|3/5配信分|
+|3/23|42|[[【ストグラ】餡ブレラからの勧誘に返事をする刃弐ランドとケインオー【刃弐ランド/ケインオー】>>https://www.youtube.com/watch?v=9P0OJ4XP7Es]]|3/6配信分|
+|3/25|43|[[【ストグラ】衝撃的すぎる大型服のケインオーにブチぎれた夕コさんの話が面白すぎたｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=Lua8ucTa6VI]]|3/9配信分|
+|3/26|44|[[【ストグラ】車体が永遠に憑いてくるバグのまま傭兵しようとする刃弐ランドが面白すぎたｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=DGbjSXuq4E4]]|3/10配信分|
+|3/27|45|[[【ストグラ】みんなでファッション大会を開催した結果...【刃弐ランド/レダーヨウジロウ/牢王蓮/音鳴ミックス】>>https://www.youtube.com/watch?v=fUy6EJ_TKmI]]|3/10配信分|
+|3/29|46|[[【ストグラ】ヘリをぶっ壊された事に関して警察にガン詰めするレダーが面白すぎたｗｗｗ【刃弐ランド/レダーヨウジロウ】>>https://www.youtube.com/watch?v=nC6jvaMzTjo]]|3/13配信分|
+|3/30|47|[[【ストグラ】傭兵で絶体絶命の事態にとある１人の救世主が...【刃弐ランド/牢王蓮】>>https://www.youtube.com/watch?v=sSFRlAdIa2c]]|3/13配信分|
+|3/31|48|[[【ストグラ】人を褒めるのが苦手な刃弐ランドのきつい一言で落ち込む警察官【刃弐ランド】>>https://www.youtube.com/watch?v=k1ZuDGISva0]]|3/14配信分|
+#table_zebra(#f7f7f7, #fff, #82cddd)
+}
+
+#endregion(2024.1-3)
+//
+***&color(#008db7){2024年4月～6月}
+#region(開く)
+#size(90%){
+#table_style(head=center:#A0D0D7:#FFF){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|4/1|49|[[【ストグラ】刃弐ランド自慢の"あの場所"に音鳴を連れて行ったら感動してたｗｗｗ【刃弐ランド/音鳴ミックス】>>https://www.youtube.com/watch?v=EdONcWKskEI]]|3/14配信分|
+|4/2|50|[[【ストグラ】刃弐ランドの不自然すぎる警察官の交わし方が面白すぎたｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=Ef6PNnAeCmw]]|3/16配信分|
+|4/4|51|[[【ストグラ】原付警官とのチェイスが意外と白熱してて面白かったwww【刃弐ランド】>>https://www.youtube.com/watch?v=4yT_1ryK8wM]]|3/17配信分|
+|4/6|52|[[【ストグラ】突然殴られた刃弐ランドの代わりにキレてくれるケインオーが面白すぎたｗｗｗ【刃弐ランド/ケインオー/レダーヨウジロウ】>>https://www.youtube.com/watch?v=nJIh3HQAAs0]]|3/17配信分|
+|4/8|53|[[【ストグラ】強制瞑想からの初めて見る景色に困惑する刃弐ランド【刃弐ランド】>>https://www.youtube.com/watch?v=VezIXufb9aQ]]|3/19配信分|
+|4/10|54|[[【ストグラ】一発ギャグに感動してしまい大金を振込はじめる刃弐ランドｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=8Jz7dJlBXJI]]|3/19配信分|
+|4/11|55|[[【ストグラ】諦めムードの中１人で警官を蹂躙し見事逃走に成功してしまう刃弐ランド【刃弐ランド/ケインオー/レダーヨウジロウ】>>https://www.youtube.com/watch?v=BeHeANkd6MY]]|3/22配信分|
+|4/13|56|[[【ストグラ】音鳴を自分からボコボコにして修理費を巻き上げようとする刃弐ランドｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=U9mmYGjN-V0]]|3/24配信分|
+|4/15|57|[[【ストグラ】ギャング「868」を結成した後伝説を残す男達が面白すぎるｗｗｗ【刃弐ランド/レダーヨウジロウ/ケインオー/成瀬夕コ/音鳴ミックス】>>https://www.youtube.com/watch?v=OL84wL38_Zo]]|3/26配信分|
+|4/16|58|[[【ストグラ】伝説の新人空き巣の白草四郎くんに出会って絡みまくる刃弐ランド達が面白すぎたｗｗｗ【刃弐ランド/レダーヨウジロウ/白草四郎/ケインオー】>>https://www.youtube.com/watch?v=RNCWplT5eEM&t=56s]]|3/26配信分|
+|4/28|59|[[【ストグラ】何故か伊藤ぺいんだけが知ってるという幻のお薬について語る【刃弐ランド】>>https://www.youtube.com/watch?v=S9WWCO-Xdn8]]|3/27配信分|
+|4/29|60|[[【ストグラ】久しぶりにチェイスで暴れようかと思ったら大爆笑チェイスになったｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=1-tCIrVBIRM]]|3/28配信分|
+|4/30|61|[[【ストグラ】警官説を疑ってわかりやすすぎる嘘をつくも、全員見事に真っ黒だった刃弐ランドｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=vc6sE1mtP_A]]|3/29配信分|
+|5/2|62|[[【ストグラ】買わない人達を皆56しにする凶悪商売をして悪の道を突き進んでしまう刃弐ランドｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=7CDGMkdrOws]]|3/30配信分|
+|5/4|63|[[【ストグラ】警官に対してチェイス講座を開く刃弐ランドが面白すぎたｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=aJ5c62X6hrk]]|4/3配信分|
+|5/5|64|[[【ストグラ】刃弐ランド×ケインオーの爆笑海中逃走劇ｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=VDEbEd03mgA]]|4/7配信分|
+|5/6|65|[[【ストグラ】868の加入面接で映画のような演出をしようとするも上手くいかずに何度もリテイクする爆笑展開にｗｗｗ【刃弐ランド/レダーヨウジロウ/ケインオー/音鳴/フェアリートピオ】>>https://www.youtube.com/watch?v=vPuur8lvs5I]]|4/9配信分|
+|5/7|66|[[【ストグラ】お花を摘んでいただけなのに突然ヘリでのチェイスが始まってしまうｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=_lWmhQ8b7X0]]|4/10配信分|
+|5/10|67|[[【ストグラ】芹沢相手にナメた事をしてしまい報復を受ける刃弐ランドととんでもない結末を迎えてしまう芹沢ｗｗｗ【刃弐ランド/芹沢/ケインオー/レダーヨウジロウ/868】>>https://www.youtube.com/watch?v=KhI0sa5kL9k]]|5/9配信分|
+|5/21|68|[[【ストグラ】紫水コウを56したら大量の個人医が駆けつけてきてカオス状態になったｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=BMJDRqpVezg]]|5/16配信分|
+|5/23|69|[[【ストグラ】芹沢をさつ害した後に怨念のせいか怖すぎる怪奇現象に襲われる刃弐ランド【芹沢/刃弐ランド】>>https://www.youtube.com/watch?v=J9mDJlE2jB4]]|5/17配信分|
+|5/24|70|[[【ストグラ】刃弐ランドによる誰でも簡単に逃げれるチェイス講座【刃弐ランド】>>https://www.youtube.com/watch?v=JbwQimsIxzY]]|5/18配信分|
+|5/25|71|[[【ストグラ】刃弐ランド×牢王蓮のコンビが芸人すぎて歴史に残るマヌケ事件を起こしてしまうｗｗｗ【刃弐ランド/牢王蓮】>>https://www.youtube.com/watch?v=si3yNOOaiV8]]|5/18配信分|
+|5/26|72|[[【ストグラ】理不尽すぎる理由から降下中のケインオーを処刑する芹沢ｗｗｗ【芹沢/ケインオー/刃弐ランド】>>https://www.youtube.com/watch?v=po1JS_2zja0]]|5/19配信分|
+|5/27|73|[[【ストグラ】11億円で買った868の新アジトがやばすぎたｗｗｗ【刃弐ランド/音鳴/レダーヨウジロウ/ケインオー/トピオ】>>https://www.youtube.com/watch?v=yO83mi256iw]]|5/21配信分|
+|5/28|74|[[【ストグラ】本当にどうでもいいチキンレースで裏切り合いが勃発してしまう868が面白すぎたｗｗｗ【刃弐ランド/牢王蓮/音鳴】>>https://www.youtube.com/watch?v=YYyg3dOsNQg]]|5/22配信分|
+|5/29|75|[[【ストグラ】突然現れた最強警察官にボコボコにされる刃弐ランドｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=9wqWGionLZ8]]|5/23配信分|
+|5/30|76|[[【ストグラ総集編】刃弐ランドのストグラ生活11日目～20日目まとめ【刃弐ランド/レダーヨウジロウ/音鳴/ケインオー/】>>https://www.youtube.com/watch?v=8juZPKiQaIs]]|1/30～2/12配信分|
+|5/30|77|[[【ストグラ】恐怖の呪いヘルメットに感染されファッションセンス０の男になってしまう刃弐ランド【刃弐ランド】>>https://www.youtube.com/watch?v=NPkn_euEmx4]]|5/24配信分|
+|5/31|78|[[【ストグラ】一番起こってほしくないタイミングで歪む天才芸人牢王蓮が面白すぎるｗｗｗ【刃弐ランド/牢王蓮】>>https://www.youtube.com/watch?v=F8sP9nk6aTI]]|5/24配信分|
+|5/31|79|[[【ストグラ】初ユニオンで劇的な逃走劇を繰り広げる868【刃弐ランド/レダーヨウジロウ/芹沢/ケインオー/牢王蓮/音鳴】>>https://www.youtube.com/watch?v=DW2er7KamVI]]|5/25配信分|
+|6/1|80|[[【ストグラ】テンション爆上げでファッション撮影会する刃弐ランド×牢王蓮【刃弐ランド/牢王蓮】>>https://www.youtube.com/watch?v=KnOsdhhuAC0]]|5/26配信分|
+|6/3|81|[[【ストグラ】868の構成員を疑われている謎のおばあちゃんがあの人に似すぎてる件ｗｗｗ【刃弐ランド/レダーヨウジロウ/音鳴/ケインオー/芹沢】>>https://www.youtube.com/watch?v=rWBfqDHqYEM]]|5/28配信分|
+|6/4|82|[[【ストグラ】ケインオーの盛大な誤射により数千万吹っ飛ぶ珍事件が面白すぎたｗｗｗ【刃弐ランド/ケインオー/レダーロウジロウ/トピオ】>>https://www.youtube.com/watch?v=RBGdhq-l71w]]|5/30配信分|
+|6/6|83|[[【ストグラ/868】自らの失言で話が大きくなってしまい留置場でとんでもない事になる刃弐ランドが面白すぎたｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=Nz4SNMrB3gg]]|5/31配信分|
+|6/8|84|[[【ストグラ/868】人の車で遊んだり悪さするクソガキギャング達が面白すぎたwww【刃弐ランド】>>https://www.youtube.com/watch?v=yqspurxlD4g]]|6/2配信分|
+|6/9|85|[[【ストグラ/868】ボブキャットの歪みのせいで最強になった心なきに皆56しにされる868メンバーが面白すぎるｗｗｗ【刃弐ランド/レダーヨウジロウ/ケインオー/紫水コウ】>>https://www.youtube.com/watch?v=tVc-B6wp13o]]|6/4配信分|
+|6/10|86|[[【ストグラ】新時代の幕開け！？奇想天外なこの車両がマジで最強すぎる件ｗｗｗ【刃弐ランド/芹沢/レダーヨウジロウ/ケインオー/トピオ】>>https://www.youtube.com/watch?v=L7Yn2CI0Uso]]|6/5配信分|
+|6/11|87|[[【ストグラ/868】シースパをどうしてもレダーに売りつけたい刃弐ランドのセールストークが面白すぎたwww【刃弐ランド/レダーヨウジロウ/ケインオー】>>https://www.youtube.com/watch?v=l4lqWlL548c]]|6/7配信分|
+|6/12|88|[[【ストグラ/868】自業自得の狼少年芹沢を注意する刃弐ランドと反省する芹沢が面白いwww【刃弐ランド/レダーヨウジロウ/ケインオー/トピオ】>>https://www.youtube.com/watch?v=xNfegNIn92Q]]|6/7配信分|
+|6/14|89|[[【ストグラ/868】868が紫水コウを変えてしまったのかもしれません...。【刃弐ランド/レダーヨウジロウ/ケインオー/紫水コウ】>>https://www.youtube.com/watch?v=lx-Mp1H-j64]]|6/11配信分|
+|6/16|90|[[【ストグラ/868】868の限界すぎる飛行場の襲撃が面白すぎたｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=hQmu08yxNMs]]|6/12配信分|
+|6/17|91|[[【ストグラ/868】新武器の威力をトピオを試してしまう刃弐ランドが怖すぎるｗｗｗ【刃弐ランド/トピ/音鳴】>>https://www.youtube.com/watch?v=gbcbx-hhpi0]]|6/12配信分|
+|6/18|92|[[【ストグラ/868】高すぎる火力！？最強の拳銃で敵を56しまくる刃弐ランド【刃弐ランド】>>https://www.youtube.com/watch?v=i47b6yWu4Cw]]|6/12配信分|
+|6/19|93|[[【ストグラ/868】大型ミッション中のサメ出現により過去のトラウマが蘇ってしまう刃弐ランドｗｗｗ【刃弐ランド/芹沢/トピオ】>>https://www.youtube.com/watch?v=4I8Xz7PWFlM]]|6/15配信分|
+|6/20|94|[[【ストグラ/868】ケインオーとの連携で客船強盗での限界ギリギリすぎる逃走に成功する刃弐ランド【刃弐ランド/ケインオー】>>https://www.youtube.com/watch?v=wVX-FPwCHSw]]|6/16配信分|
+|6/21|95|[[【ストグラ/868】ひたすら煽りまくる刃弐＆紫水コンビが面白すぎたｗｗｗ【刃弐ランド/ケインオー/紫水コウ/音鳴】>>https://www.youtube.com/watch?v=Cet9v3AFKTk]]|6/16配信分|
+|6/22|96|[[【ストグラ/868】危機的状況を面白すぎる行動で回避する刃弍ランド【刃弐ランド】>>https://www.youtube.com/watch?v=G8NC3RPYRjU]]|6/16配信分|
+|6/23|97|[[【ストグラ/868】ストグラの世界なのに違法性を全く感じないゆるふわカーを見つけご機嫌ドライブをする刃弐ランドｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=OOySCkYSg2A]]|6/18配信分|
+|6/25|98|[[【ストグラ/868】超絶くだらない遊びに命を懸ける3人が面白すぎたｗｗｗ【刃弐ランド/レダーヨウジロウ/ケインオー】>>https://www.youtube.com/watch?v=anKzLBkGTsM]]|6/18配信分|
+|6/26|99|[[【ストグラ/868】868のシマ取り中にマクドナルドさん乱入で応援曲を歌いまくる姿に爆笑する刃弐ランド【刃弐ランド/マクドナルド】>>https://www.youtube.com/watch?v=y89-xjAh-5A]]|6/19配信分|
+|6/27|100|[[【ストグラ/868】逃走経路の確認中にとんでもない事故に遭ってしまう刃弐ランドｗｗｗ【刃弐ランド】>>https://www.youtube.com/watch?v=mQdYSFDms7Q]]|6/19配信分|
+#table_zebra(#f7f7f7, #fff, #82cddd)
+}
+
+#endregion(2024.4-6)
+//
+***&color(#008db7){2024年7月～}
+#region(開く)
+#size(90%){
+#table_style(head=center:#A0D0D7:#FFF){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|7/29|101|[[【ストグラ/868】JDのセクハラ事件について語るも絶対にダメな方向に結論づいてしまう868【刃弐ランド/レダーヨウジロウ/JD】>>https://www.youtube.com/watch?v=IoWEWKJbdx4]]|7/23配信分|
+|7/30|102|[[【ストグラ/868】ストグラ界でも元プロの実力を発揮して無双する刃弐ランド【刃弐ランド】>>https://www.youtube.com/watch?v=s5MmICOVeIQ]]|7/23配信分|
+#table_zebra(#f7f7f7, #fff, #82cddd)
+}
+
+#endregion(2024.4-6)
+**公認チャンネル
+#region(開く)
+#size(90%){
+#table_style(head=center:#A0D0D7:#FFF){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|01/20|1|[[【#ストグラ】初心者マークを盾にどこまで値引いて貰えるかチャレンジするVanilLaととんでもない仕事を提案するローレンｗｗｗ【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=fw6MqRB5QBg]]| |
+|01/23|2|[[【#ストグラ】優しすぎるプスカ大佐（中村悠一）との出会い！刃弐ランド初めての車購入【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=i9u1jUlyzqw]]| |
+|01/27|3|[[【#ストグラ】突如赤ちゃんになった刃弐ランドに容赦ないヘラシギさんと牢王蓮さんが面白すぎるｗｗｗ【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=276yZoUPIKo]]| |
+|01/29|4|[[【#ストグラ】自分のRPについてのスタンスと指示コメントについて話すVanilLaさん【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=6nX5QEsD2uo]]| |
+|02/09|5|[[【#ストグラ】『強そうな顔』って理由で十人以上の警察とチェイスすることになる刃弐の結末が面白すぎるｗｗｗ【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=GPoqy0Gir8k]]| |
+|02/15|6|[[【#ストグラ】好敵手「伊藤ぺいん」をまさかの逃げ方で撒いてしまう刃弐が面白すぎるｗｗｗ【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=aJi5E8SGWfI]]| |
+|02/19|7|[[【#ストグラ】安定の戦闘力で『IRiS』の傭兵として大活躍する刃弐ランド【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=EGnuKGceuSk]]| |
+|02/29|8|[[CRフェス開催を知らされていないVanilLaさんに驚くローレン・イロアスさんｗｗｗ【CR 切り抜き #バニラ切り抜き ストグラ】>>https://www.youtube.com/watch?v=RSBUbiRpLLc]]| |
+|03/03|9|[[自身のストグラの今後についてやCRフェスオフライン参加について色々答えてくれるVanilLaさん【CR 切り抜き #バニラ切り抜き ストグラ】>>https://www.youtube.com/watch?v=-p_9B7Qw7Lw]]| |
+|03/07|10|[[【#ストグラ】レダー・ヨージロー＆刃弐ランドのDUOで挑んだパレト銀行強盗が予想出来なかった神回で面白すぎるｗｗｗ【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=1eIfWcKhGz0]]| |
+|03/10|11|[[【#ストグラ】絶体絶命に陥った刃弐ランドを救う超天才アキネーター成瀬夕コ【CR 神回 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=cNhBNkXE_js]]| |
+|03/12|12|[[【#ストグラ】急に「餡ブレラ」や「IRiS」にキレ出す刃弐ランド！？ギャングになった後の不安や考えを語る【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=Wvqz7_ctnMM]]| |
+|03/20|13|[[【#ストグラ】完璧なタイミングで現れる空架ぐち逸が面白すぎて爆笑する刃弐ランドとケイン・オーｗｗｗｗ【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=ZunxxeHu4vk]]| |
+|03/23|14|[[【#ストグラ】ケインオーと音鳴ミックスを救いレダー・ヨージローにも褒められた最強すぎる刃弐ランドがこちらです【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=CIJQdwL7prM]]| |
+|03/28|15|[[【#ストグラ】奇跡的な事故を起こした相手がまさかの身内で爆笑する刃弐ランドｗｗｗ【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=I1Ul7gdnYE0]]| |
+|04/01|16|[[【#ストグラ】毎日の日課の花摘みをしにきただけなのに恐怖体験を引き起こしてしまう刃弐ランドさんｗｗｗ【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=NJ_JNL_i-g4]]| |
+|04/09|17|[[【#ストグラ】歪み事故から映画さながらの爆発を見せてしまう刃弐ランドが面白すぎるｗｗｗ【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=5zD30zjCzmg]]| |
+|05/11|18|[[【#ストグラ】一ヶ月振りの起床で白市民パスを狙う刃弐ランドさんVS花沢まるんさんの戦い！衝撃のラストが面白すぎるｗｗｗ【CR 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=Y6MhtmMun5A]]| |
+|05/18|19|[[【#ストグラ】絶対絶命！？そす神の伝説級ピックで九死に一生を得る刃弐ランドｗｗｗｗ【CR グラセフ 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=D-vLRzedH7g]]| |
+|05/21|20|[[【#ストグラ】パラシュートの練習をしているだけなのに面白すぎる868の皆さんがこちらですｗｗｗ【CR グラセフ 刃弐ランド 切り抜き 爆笑 神回 #バニラ切り抜き】>>https://www.youtube.com/watch?v=Z6NShRplHmM]]| |
+|05/27|21|[[【#ストグラ】紫水コウが何気なくきいた質問から改めて分かる刃弐ランド含む868がMOZUと敵対する理由【CR グラセフ 切り抜き #バニラ切り抜き】#868組>>https://www.youtube.com/watch?v=SMFq1KmTRbA]]| |
+|06/01|22|[[【#ストグラ】改めてCrazyRaccoonが自分にぴったりの職場だと感じるVanilLaさんとマネージャーさんのエピソード【CR グラセフ 刃弐ランド 切り抜き 雑談 #バニラ切り抜き】#868組>>https://www.youtube.com/watch?v=KdTwFrxGV_4]]| |
+|06/06|23|[[【#ストグラ】ギャング車に新時代！？まさかのJourney2で新メタを開拓する刃弐ランドが面白すぎるｗｗｗ【CR グラセフ 刃弐ランド 切り抜き 神回 #バニラ切り抜き】#868組>>https://www.youtube.com/watch?v=KcpoOXqTAjo]]| |
+|06/08|24|[[【#ストグラ】人魚になった刃弐ランド！？客船強盗準備中にまさかの"サメ"に襲われてしまう瞬間が面白すぎるｗｗｗ【CR グラセフ 刃弐ランド 切り抜き #バニラ切り抜き】#868組>>https://www.youtube.com/watch?v=LX8zti5dElc]]| |
+|06/16|25|[[【#ストグラ】ストグラ配信に関する報告やGiGO x CrazyRaccoonコラボの話をしてくれるVanilLaさん【CR 雑談 刃弐ランド 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=aBIg3xJ30jw]]| |
+|06/17|26|[[【#ストグラ】巷で話題の #にじGTA に対して紫水コウと意思の疎通が取れなくて爆笑する刃弐ランドが面白すぎるｗｗｗ【CR 雑談 刃弐ランド 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=rzZSadDAjj4]]| |
+|06/19|27|[[【#ストグラ】この男……強すぎる！限界客船強盗の最強部屋で最強になる刃弐ランド【CR グラセフ 刃弐ランド 切り抜き #バニラ切り抜き】#868組>>https://www.youtube.com/watch?v=dJyAzhy4to0]]| |
+|06/20|28|[[【#ストグラ】運転が上手な人しか出来ない飛行場逃げルートを開拓してしまいテンションの上がる刃弐ランド【CR グラセフ 刃弐ランド 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=sIuwtMXzg0M]]| |
+#table_zebra(#f7f7f7, #fff, #82cddd)
+}
+
+#endregion()
+//|04/18|18|[[【#VCRRUST】叶社長のライブのチケットをいただくVanilLa＆一ノ瀬うるは＆ぺいんとの話 / ストグラ「刃弐ランド」の由来について【CR 切り抜き VCR RUST #バニラ切り抜き】>>https://www.youtube.com/watch?v=WpH016J776g]]| |
+//|07/10|30|[[最近なぜ #ストグラ 配信が減ったのか教えてくれるVanilLaさん【CR CrazyRaccoon 雑談 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=-ZnGZJqZqeQ]]| |
+//|11/10|31|[[ストグラはやらないの？バニーガーデンは？一番怖かったホラゲーは？様々な質問に答えてくれるバニラさんとJUNON特集の真実ww【CR CrazyRaccoon 雑談 切り抜き #バニラ切り抜き】>>https://www.youtube.com/watch?v=x3hCd0dfTa8]]| |
+
+//
+//***&color(#008db7){2024年mm月～mm月}
+//#region(開く,close)閉じる
+//#size(90%){
+//#table_style(head=center:#A0D0D7:#FFF){配信日=right,#=center}
+//|~投稿日|~#|~動画タイトル|~備考|h
+//
+//#table_zebra(#f7f7f7, #fff, #82cddd)
+//#endregion()
+#right(){&link_up(🔝ページTOPへ)}

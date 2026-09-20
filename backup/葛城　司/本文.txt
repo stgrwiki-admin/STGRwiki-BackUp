@@ -1,0 +1,764 @@
+*&size(140%){👓} &color(#60EE3C){プロフィール} &size(140%){🚘}
+///
+///#slide_img(auto=4,position=center,width=290,height=600)
+///
+|&image(葛城司_03.jpeg,y=400) |&image(38BCD765-F18C-4E23-984B-4C7F4B89E39A.jpeg, y=400) |
+
+&font(b,18px,#3cb371){「はじめまして。葛城司と申します。」&br()「葛城ですぅ...」}
+
+#table_color(#66CC00)
+#table_filter(){SEASON 1=hide,SEASON 2=show}
+|~世界線|~SEASON 1|~SEASON 2|h
+|~名前|>|&ruby(くずしろ){葛城}　&ruby(つかさ){司}|
+|~出身地|>|日本・鹿児島|
+|~誕生日|>|1992年10月08日 (&countup(1992/10/08,y)歳)|
+|~転入日|2023年2月23日（&countup(2023/02/23,yd)経過）|2025年12月19日（&countup(2025/12/19,yd)経過）|
+|~身長|>|168cm|
+|~体重|>|68kg|
+|~職業|[[個人医]]&br()[[魔法少女カフェ「RitUal:」>RitUal:]]人事担当&br()メカニック[[9055]]社員&size(11){※復職}&br()[[ストグラ大学]]副学長&size(11){※非ジョブ}|救急「[[ロスサントス救急救命隊]]」&br()&small(){・(5) Captain / 経理部 部長補佐}&br()メカニック「[[LUNA Garage]]」&br()飲食店「[[魔法学校グリントアカデミー]]」&small(){予定}&br()&small(){&openclose2(show=▼過去の職業){&br()&small(){メカニック「[[JTS>>ジョアンナテクノサービス]]」&br()}}}|
+|~副職|　|5016番地「ガソリンスタンド経営」&small(){2026/7/29 経営権獲得}|
+|~所属|臨時裁判官&br()レースチーム"Blaze to Rise"&br()[[ストグラ大学]]&br()魔法少女サークル(グリーン)&br()イベント実行委員会&br()[[公認勝手にレース協会]]&br()[[エンペラーAge]]|市役所職員「裁判官」&br()宝探し実行委員会|
+|~TwiX|&s(){@kuzushiro_low}&br()@kuzushiro_desu|@kuzushirodesu|
+|~レーサー名|&s(){Strafrecht}&br()[BtR]kzp|　|
+|~プレイヤー|>|Shiron|
+|~告知等|>|&font(#1da1f2){&icon_fa(fa fa-twitter)}[[&font(#1da1f2){Twitter}>>https://twitter.com/Shirono_hiou]]|
+|~配信場所|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://m.youtube.com/@shiron_103]] / &font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/shiron103]]|
+|~別キャラ|>|[[デクノ　ボー]]|
+
+&aname(目次1,option=nolink){}
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&size(140%){👓} &color(#60EE3C){基本情報} &size(140%){🚘}
+・日本で弁護士をしていたが、離婚や相続など民事事件ばかりだったため、刑事事件を求めて訴訟大国アメリカのロスサントスへ降り立った。
+&font(b,16px,#444){職業遍歴}
+***&underdot(#60EE3C,4px){&font(16,#444){Season1}}
+#region(開く)閉じる
+・&s(){ホットドッグ屋}
+・&s(){裁判官}→臨時裁判官
+・[[魔法少女カフェ「RitUal:」>RitUal:]]&s(){副店長}→人事担当
+・&s(){メカニック[[Project Y]]}（体験）
+・&s(){メカニック[[9055]]社員}
+・[[カジノ]]従業員一時雇用
+・メカニック[[9055]]社員(復職)
+#endregion
+***&underdot(#60EE3C,4px){&font(16,#444){Season2}}
+#region(開く,open)閉じる
+・裁判官
+・[[ロスサントス救急救命隊]]
+・[[魔法学校グリントアカデミー]]
+#endregion
+
+**背景など
+***&underdot(#60EE3C,4px){&font(16,#444){Season1}}
+#region(開く)閉じる
+・レーサーとしての顔も持っており、仕事の合間にレースに参加して賞金を稼いでいる。&s(){とりあえず目標は「事故らずゴールすること」。}
+・レース第1シーズン3位
+・レース第2シーズン3位(同率3位[[coffee master> 須藤　冬馬]])
+・・「魔法少女カフェ」開店の少し前に、[[雷堂　ましろ]]、[[ジャムリーヌ　バルサミコス]]と一緒にレーシングチーム&bold(){「Blaze to rise」}を結成。レーサー名は &bold(){"kzp"} 。
+・・その後[[アドミゲス　ハン>アドミゲス・ハン]]もチームに加わる。
+・・現在は、後進の育成にも積極的。([[弟子>はが　かける]])
+・「魔法少女サークル」にも所属。カラーはグリーン(暫定)。
+・&s(){救急隊の人たちとの交流も多く、(自称)救急隊ボランティアもしている。}
+　　→現在は白の[[個人医]]として救急隊と協力関係にある。
+・真面目な性格で殆どの人に対しさん付け＆敬語。
+・・親しい間柄の人には結構ちょけたり、積極的にボケていく。
+・時間がある時は街のあちこちを探検しているため、街の物件や施設に詳しい。
+・下着はトランクス派
+・デザインに長けており、魔法少女カフェのメニュー表や[[Violet Fizz]]のチラシを手がけたりしている。
+・・ハウジングにも長けており、個人事務所のデザインは[[サブちゃん>アイアンメイデン　三郎太]]から絶賛されている。
+・&s(){名前に[[Ｎのイニシャル>超越ヶ谷　にかり]][[が付く女>なのの　なの]]を好きになる習性があるとかないとか・・・}
+・Drギガとあげころに脳を改造されて、多重人格者となる。
+#endregion
+***&underdot(#60EE3C,4px){&font(16,#444){Season2}}
+#region(開く,open)閉じる
+
+#endregion
+
+**裁判官として(臨時裁判官時代を含む)
+***&underdot(#60EE3C,4px){&font(16,#444){Season1}}
+#region(開く)
+・街に来た当初から司法職に就くことを希望しており、[[市長>山下　ひろし]]にも伝えていた。しかし、長く受理されずホットドッグ屋などで日銭を稼いでいた。また、猫カフェで[[ねこさん>青梅　つばめ]]に占ってもらった結果、&bold(){「弁護士になったら悪い人に利用されるかもしれない」「もう一つの司法職である裁判官になった場合は『審判』の正位置」}という結果が出たことから裁判官への就職も検討し始めた。
+・・動物園開園と同じ頃に再び市長と相談し、市長の判断で現職の裁判官が不在がちなのもあり&bold(){新たな裁判官に任命された}。
+・・裁判官になったものの、訴訟が全くないため市民への法律相談や新聞への法律コラムの投稿を検討している。また、司法職のトップとして警察への逮捕状発行も開始。後述の誘拐事件で初めて逮捕状を発行。
+・・[[サブちゃん>アイアンメイデン　三郎太]]誘拐事件の発生を機に司法職の職務が増加することを予期して、ロスサントスでこれまで起きた事件・判例をもとに法整備を行なっている。
+・・裁判官としてロスサントスの「司法権」を担っている関係上、三権分立の観点から「立法権」である市民議会には立候補しないことを明言している。
+・普段は友人たち相手にイタズラやおふざけを良くする悪ガキ的な一面があるが、裁判の際には物凄く頼りになる。その厳格っぷりには初めて葛城の裁判を受けた[[ヴァン　ダーマー]]が思わず「ガチやん...！」とビビったレベル。
+・・ただし、本人もあまり堅くなりすぎないよう配慮はしており、裁判中の面白事件には積極的に乗っていくことも多い。証人の歌にノリノリでサイリウム振り回す裁判官は彼ぐらいだろう。
+・必要とあれば捜査令状、逮捕状、告訴状なども発行する。
+
+・&bold(){8月25日付で市長に相談のうえ裁判官を辞職}。&br()※ただし、後任が決まるまでは「臨時裁判官」として引き続き公判の際は裁判長の席に座ることとなっている。
+#region(詳細)&bold(){くずぴ、三十にして立つ(愛する人のため)}
+・表向きは「裁判官をしていて、『この街は白市民と黒市民は変わらない』って気づいた」「訳あって救急隊呼べない人も、助けたいと思うようになった」「救急隊と仲良いから、制度のわかっていない新規住民さんのフォローも個人医側としてしたい」と語っている。
+・本音としては「[[好きな女性>なのの　なの]]のため」。でも、それだけじゃないと念は押している。
+#endregion
+・上記の辞職以降もその職の特殊性ゆえ裁判官を勤めることが多い。日本など諸外国を参考にしつつもこの街らしい落とし所を的確に見極める判断により住人たちからの信頼は厚い。
+#endregion
+***&underdot(#60EE3C,4px){&font(16,#444){Season2}}
+#region(開く,open)閉じる
+・Season1に引き続き裁判官を引き受け、裁判が行われた際は市からボーナスを受け取っている。
+・必要とあれば捜査令状、逮捕状、告訴状なども発行する。また、警察官の捜査に立ち会うこともある。
+#endregion
+
+**個人医として &font(13px){Season1}
+#region(開く)閉じる
+・救急隊員との関わりが多く、治療費やスタンスは救急隊に近い。
+・治療した人間の[[カルテ>>https://twitter.com/Shirono_hiou/status/1697360190625259784?s=20]]を書いている。
+・基本的に現場介入はしない方針であり、銃撃戦などが起きている場合は撤退することも多い。
+・闇医者に対して違う方針ではあれど同じ医療従事者として、良好な関係を徹底している。
+・現場への迅速な出動のため二人乗りヘリコプターを所有している。
+・白[[個人医]][[星野　サラ]]の師匠として、犯罪現場などの危険な場所の共有や無線での指示に加えてイベント等のダウン者対応も共に行っている。
+・一方で、個人医になった当時からの変化や医療費の改定などにより、中立個人医として働き続けることが難しくなっていることが理由で救急隊への入隊を希望するようになった。救急隊体験を受けるものの結果として不採用となり、Season1終了まで紆余曲折ありつつ個人医の活動を続けた。
+#endregion
+
+**救急隊として &font(13px){Season2}
+・Season2では個人医制度が設立される見込みが当面立たなかったため、Season2初の救急隊体験者となり、仮採用を経て救急隊に本採用された。
+・公務員になったことで[[警察>>ロスサントス警察]]と連携が取りやすくなり、勤務中に法律関係の相談に対応することがある。
+・経理部として病院の金庫管理を行っている。
+
+**名前間違えられリスト
+#region(開く,open)&bold(){なぜかよく名前を間違えられる}。&sizex(3){&color(#F54738){くずしろ}ですぅ、、、}
+
+|&bold(){くさかべさん}|名前間違いの[[始祖>ヘスティア　ゴデス]]命名。&br()シンプルに読み間違えただけ。&br()最近じゃすっかり&bold(){「くさかべさん」→「くずしろですぅ」}が鉄板ネタに。&br()(主に[[この人>ラグランジュ　光芝]]とか[[この人>えぐち　きの子]]、最近は[[この人>香月　ろぎあ]]も)|
+|&bold(){かつらぎさん}|最も多い間違い。&br()漢字だけ見ると間違いではない。&br()初対面の新規住民さん🔰に多い。|
+|&bold(){くずもちさん}|&bold(){餅。}&br()どうしてこうなった。[[猫ノ宮　ひな]]が発言。&bold(){謎。}|
+|&bold(){くさもちさん}|~|
+#endregion
+
+*&size(140%){👓} &color(#60EE3C){関連人物} &size(140%){🚘}
+&size(200%){&bold(){&color(#F54738){絶賛編集中！}情報提供・加筆お待ちしております！}}
+#region(友人・仕事仲間)閉じる
+&size(150%){☆}&bold(){[[にかりん（超越ヶ谷にかり）>超越ヶ谷　にかり]]}
+・同期（さんこいち）の一人。魔女。
+・魔法少女を自称している16歳。魔法少女サークル創設者。
+・[[魔女カフェ>RitUal:]]の経営場所を探して二人で街を回っていた。
+・&s(){長い間好意を寄せていた。いろいろあった。本当に。うん。}今では良き相棒であり理解者である。
+・・にかりんがハ○ヒなら、自分はキ⚪︎ンだと評している。
+・0から1にすることが得意なことには純粋に感心している。
+
+&size(150%){☆}&bold(){[[ノビー　ラング]]}
+・同期の一人。救急隊。
+・[[魔女カフェ>RitUal:]]の副店長。
+・第一次市議会議員であり、共に夏祭りや文化祭を企画・運営した。
+
+&size(150%){☆}&bold(){[[サブちゃん（アイアンメイデン三郎太）>アイアンメイデン　三郎太]]}
+・（ほぼ）同期。[[情報局>ペンカートン情報局]]局長。
+・にかりんへの気持ちを見事に見破られた。
+・・その際に自分の気持ちに気付かされたきっかけとして彼に怒りを抱き、自分の過去を吐露した。
+・・一応溜飲は下げているので、今は特に蟠りはない。
+・信頼できる人間の一人。裁判の際には資料の融通などもしている。
+
+&size(150%){☆}&bold(){[[小此木　ナカバ]]}
+・真面目な警察官。一緒に刑法に関する話をすることが多い。
+・&s(){第一回にかのり前後で葛城、ナカバ、にかりの三角関係が爆誕。}現在の関係は良好。
+
+&size(150%){☆}&bold(){[[渡戸　リー]]}
+・木こり時代の上司。森の神。圧倒的白市民。
+・北での生活を共にした。イタズラをやり合う仲。
+
+&size(150%){☆}&bold(){[[キラ・メキーラ]]}
+・救急隊。木こりとしても活動。
+
+&size(150%){☆}&bold(){[[雷堂　ましろ]]}
+・救急隊。レースチームBtRのリーダー。
+・女装してデート指南をしてくれた。
+・ましろの別人格&s(){という体の}「雷堂　まくろ」フォームがある。
+
+&size(150%){☆}&bold(){[[赤兎　がみとも]]}
+&size(150%){☆}&bold(){[[葵井　優]]}
+&size(150%){☆}&bold(){[[鳥羽　咲夜]]}
+・カジノで出会い、一緒に遊ぶことが多い仲良し4人組。
+・4人で[[魔女の酒場]]での占いを受けた際は、自身の恋愛について容赦なく刺されてしまう一幕も。
+
+&size(150%){☆}&bold(){[[オスカー・ローラン]]}
+&size(150%){☆}&bold(){[[ライジングサン　宗介]]}
+&size(150%){☆}&bold(){[[ヤシャ　ロア]]}
+・2024年後半～2025年前半に[[魔女カフェ>RitUal:]]に入社したルーキートリオ。
+・１年ぶりの大量入社もあり店の活発化が目立つ
+・オスカー＆宗介は魔法学校等の幅広いコスプレとモノマネでの接客、ヤシャロアはゲーム制作の才など期待している後輩たち
+#endregion
+#region(教え子たち)閉じる
+
+&size(150%){☆}&bold(){[[猫ノ宮　ひな]]}
+・初心者だったひなの案内とカフェの体験を経て、店員に。
+・バイクレースの才能があるので、レーサーとして色々と仕込んでいる。
+・11歳の誕生日に[[にかりん>超越ヶ谷　にかり]]、[[小此木　ナカバ]]と共にHacyou Dragをプレゼントした。
+・彼女からは「ちち」と呼ばれて慕われている。
+・葛城と同じく[[魔女カフェ>RitUal:]]と[[9055]]の社員である。
+
+&size(150%){☆}&bold(){[[はが　かける]]}
+・魔女カフェの店員の一人。二人で喋ると無限にボケ倒せる。
+・レーサーを志しているため、「師匠」としてさまざまな技を伝授している。
+・師弟仲は良好であり、互いにプレゼント交換をすることも。
+・・ただ「おじいちゃんみたい」という評価には納得いかねえ！
+・のちに[[9055]]の社員にも就任。
+#region(ネタバレ注意)
+女性関係で三度も痛い目を見た司。
+クリスマスに引き続き、バレンタインでも「リア充爆発しろー！」と言わんばかりに拗らせ、&bold(){「本命もらったやつは治療費2倍請求　葛城」}として降臨。しかも、本命もらったリア充を一人治療するたびに0.5ずつ倍率があがる地獄仕様。
+どうせなら荒稼ぎしてやる！と血眼でダウン通知を待つ司。
+そんな司を知ってかしらずか、はがさんが「チョコカルチョやりましょ！」と持ちかける。
+[[ろぎあさん>香月　ろぎあ]]や[[ヨネさん>えびな　ヨネ]]と一緒に思い思いの番号を伝え、チョコをもらうも、&bold(){結果は「義理チョコ」}。
+本命を貰えなかったことに落ち込む司だったが、&bold(){はがさんが去り際に無言で何かをポケットに入れていった。}
+それは、さっきとは別のチョコだった。
+これを本命と考えていいものか。
+司は大いに悩むのだった...
+#endregion
+
+&size(150%){☆}&bold(){[[星野　サラ]]}
+・[[個人医]]としての後輩で、先輩として色々と指南している。
+・バレンタインには、「いつもお世話になっているから」と義理ではないチョコ(友チョコ)とラーメンをもらった。
+
+#endregion
+#region(？？？)閉じる
+
+&size(150%){★}&bold(){[[ヴァン　ダーマー]]}
+・[[MOZU]]のリーダー。「不幸の手紙」事件をきっかけでにかりんと変な縁ができてしまったのをきっかけでこっちにも変な繋がりができてしまった。
+・一回、ふざけて&bold(){「パパ活おじさん」}呼ばわりしてしまったばっかりに、「おめえなめとんのか？！」と激怒され&bold(){デスマウンテン山頂に置いて行かれた}。
+・・それ以降、かなり苦手意識を抱いている。
+
+&size(150%){☆}&bold(){[[なのの　なの]]}
+・新人案内で魔女カフェの体験。その後レースを共に行うことが増えた。
+・その後なのが就職した[[Project Y]]にレースを誘いにきたりコース制作を二人でしていた。
+・なのが個人医になり犯罪者の手伝いをしていると知り、自分の立場上の悩みの末、裁判官退職後、同じく個人医として活動することに。
+・紆余曲折あったが結局のところ恋が実ることはなく、関わりも減っている。
+・が、長らく悩んでいた仕事のことを解決に導いてくれた彼女には感謝している。
+
+#endregion
+
+*&size(140%){👓} &color(#60EE3C){エピソード} &size(140%){🚘}
+***&underdot(#60EE3C,4px){&font(16,#666){Season1}}
+・&bold(){[[詳細エピソード>>葛城　司/エピソード１]]編集中！}
+#region(開く)閉じる
+・仕事の合間にサークルの拠点となるコンセプトカフェ「魔法堂」を開くのに適した物件を探索。
+・・島の西側にある商店街の空き店舗をコンセプトカフェ「魔法堂」として営業する許可を貰った。
+・・魔法少女サークルメンバーを集め、商品会議を取り仕切った。
+・・当初店長代理として店を運営する予定だったが、春のラブハリケーンにより精神を病み、今後は魔法少女サークルと距離を置くつもりでい&s(){る}&bold(){た}。&br()&bold(){→}木こり組合を始めとするいくつかの居場所を見つけ、改めてコンカフェのオープンに向け動き出した。
+・失恋の傷を癒すため、[[雷堂　ましろ]]の特別な治療プログラムを受診していた。
+・・たまたま参加した女子会で、同じく失恋したばかりの[[天ノ　ぷら子]]と意気投合。
+・・あくまで手の打ち所のない患者に対するケアだったと言われたと知り、微かにましろとの友情について疑いを持つ。
+・ドラッグ『ギフト』が違法薬物リストに載っていないことからその時点では違法ではないと判断をした。
+・・失恋から目をそらす手助けとして、[[アイアンメイデン　三郎太]]から『ギフト』を受け取り服用。それ以降、大量に所持するようになる。
+・・相思相愛だと思い込んでいた[[雷堂　ましろ]]に治療の一環で患者としか思っていないとこっぴどく振られた[[天ノ　ぷら子]]に自分の姿を重ね、『ギフト』を譲渡。後日、ぷら子の口から誤飲した事、それから体の調子が良くない事を伝えられた。
+・・『ギフト』を新規住民に渡していると[[小此木　ナカバ]]に誤解された結果、『ギフト』の違法リスト入りがスピード決定。所持も違法になったため、その日のうちに全て捨てた。
+・・[[フランク　コロンボ]]から[[アイアンメイデン　三郎太]]が『ギフト』の過剰摂取により入院、記憶喪失状態にある事を聞かされ、自らの過ちに気づく。解毒方法を探るとともに、[[天ノ　ぷら子]]をケアしていく事を決意する。
+・・[[雷堂　ましろ]]から”『ギフト』を葛城が配っていたという噂を聞いて、怒っている人物がいる”という情報を貰う。ましろ曰く、[[ギャング]]ではないかという話だったため、しばらく北に避難する。
+・[[超越ヶ谷　にかり]]の力添えにより、にかのり以降緊張状態だった[[小此木　ナカバ]]と表向き和解。
+・・公平でありたいという信念の下、犯罪者である[[イヴ　トワイライト]]とも親友としての関係を築いていると話した。
+・[[なのの　なの]]に心惹かれ、より親密な関係を望んだことを理由の1つとして裁判官を退職。自らも個人医となるが、[[なのの　なの]]自体にその気はなく、[[個人医]]になり数日経った後に振られた。
+・魔法少女カフェの[[猫ノ宮　ひな]]にパパ活しているとの噂がある(実際は父親の代わりらしい)。
+・[[イヴ　トワイライト]]からの誘導質問により、薬の材料集めを通報した人物のヒントを与えてしまった。その結果、[[渡戸　リー]]がギャングに狙われてしまったことを後悔していると[[ヘラ シギ]]からの相談時に話している。
+・&s(){新規住民との交流を深めるため、免許センター職員を目指すことに。}&br()→3job目をメカニックにすることにしたため、現在は[[9055]]に所属している。
+・バレンタインデー当日、&bold(){「本命チョコもらった野郎は治療費2倍　葛城」}として降臨。
+・・なお、&bold(){該当者を一人治療するごとに倍率が0.5ずつ上がる}地獄仕様。
+・・司自身が本命を貰えたらこの悲しいマラソンは終わるらしい。
+・・そんな司のポッケに、いつの間にやら[[見知らぬチョコが...？>はが　かける]]
+・2024/5/31合コンイベントで、[[はが　かける]]と[[雷堂　ましろ]]のカップルが成立(恋人ではなく友人として成立)。以前から約束していた場所にましろと行くと断られてしまった。
+・2024/6/19禁煙を開始。[[9055]]社員らに喫煙を煽られる。
+#endregion
+***&underdot(#60EE3C,4px){&font(16,#666){Season2}}
+#region(開く,open)閉じる
+
+#endregion
+
+*&size(140%){👓} &color(#60EE3C){関わった裁判} &size(140%){🚘}
+関連ページ：[[ロスサントス裁判例]]
+
+#region(一覧)閉じる
+***2024/6/1　民事裁判 (被告:[[市長>山下 ひろし]])
+#region(開く)
+#table_color(#66CC00)
+|~被告|[[市長>山下　ひろし]]|
+|~原告|[[上田　さん]]|
+|~原告代理人|[[飯田　けんつ]]|
+|~裁判員|[[焼野原　ひろし]]、[[パキ　ち]]、[[高橋　滅論]]|
+
+#endregion(編集中)
+
+***2023/11/3　民事裁判 (被告:[[つぼ浦　匠]])
+#region(開く)
+#table_color(#66CC00)
+|~被告|[[つぼ浦　匠]]|
+|~原告|[[三階堂　キミトス]]|
+|~弁護人|[[四皇　シャンクズ]]|
+|~裁判員|[[天王寺　京司郎]]、[[パキ　ち]]、[[御花　はな]]|
+
+#region(裁判内容ネタバレ注意)
+
+
+個別ページ[[ロケラン裁判]]を参照
+
+&u(){経緯}
+・原告三階堂氏がTwiXにて警察を煽るような発言をしたところ被告つぼ浦氏が六法にてこの街の罪全てを付け、指名手配にした。その後[[別の>ミン　ドリー]][[警察官>成瀬　力二]]によって指名手配の罪状を全て切られ、プリズンに送られた。
+&u(){要求}
+・被告つぼ浦に対する慰謝料&s(){三億円}五億円
+&u(){判決内容}
+・警察の金庫より指名手配で切られた分の罰金を返還。原告は被告に対し、手数料500円を支払うこと。
+&u(){判決理由}
+・Coming soon...
+&u(){余談}
+・閉廷間際、被告つぼ浦氏が裁判官葛城に対し、ロケットランチャーを発射。延焼した結果、裁判関係者を始め、傍聴人にも被害が及び、20名前後がダウンした。
+・その後処分として、つぼ浦、キャップ両名をランク0に降格の上制服着用を義務付けた。
+#endregion
+#endregion
+
+***2023/6/9　交通事故裁判 (被告:[[にし　のん]])
+#region(開く)
+#table_color(#66CC00)
+|~被告|[[にし　のん]]|
+|~弁護人|[[山本　龍也]]|
+|~検察|[[後藤　れむ]]|
+|~裁判員|？|
+|~証人|[[ノビー　ラング]]|
+#region(裁判内容ネタバレ注意)
+&u(){経緯}
+警官で被害者の[[後藤　れむ]]が確定囚人の[[ヴァン　ダーマー]]を逮捕・護送中、時速80キロで走行中の被告人の車が被害者を跳ね飛ばした。事故後、被告人は被害者に対して謝罪したが、被害者の「免許はく奪だ」という一方的な通達に激怒。「負けてもいいからこっちの主張も聞いてほしい！」と免許の返納を拒否し、裁判を行う運びとなった。
+&u(){争点}
+警察側に過失はなかったか？
+&u(){判決内容}
+起訴取り下げにより、無効
+&u(){判決理由}
+被告人の友人[[ノビー　ラング]]が証言台で歌った『にしのんかなのトリセツ』に検察側が感動し、起訴を取り下げた。
+#endregion
+#endregion
+
+//他ページからのリンク
+&aname(abc)
+***2023/6/7　刑事事件（通称：REDRUM連続殺人未遂事件） (被告:[[マイケル　モイヤーズ]])
+#region(開く)
+#table_color(#66CC00)
+|~被告|[[マイケル　モイヤーズ]]|
+|~弁護人|なし|
+|~検察|[[ジャック　馬ウアー]]|
+|~裁判員|[[多山　八雲]]、[[天池　天]]、[[セレナ　ソング]]|
+|~証人|[[転移　逆転移]]（心理カウンセラー）|
+#region(裁判内容ネタバレ注意)
+&u(){経緯}
+ロスサントス中を震撼させた連続殺人未遂事件。5人の被害者に共通するのは、被告人に親切にした人間であるという事。4人目の被害者[[アイアンメイデン　三郎太]]を狙った際に素顔であったため、被害者の意識が回復した後に犯人であるとの証言を得る。逮捕後、被告人自らの自供により、犯人である事が確定した。
+&u(){争点}
+被告人に刑事責任能力があるかどうか
+&u(){判決内容}
+被告人は十分刑事責任能力を持っていると判断。自らの罪に向き合い、更生してほしいとの思いから、定期的なカウンセリングを条件とした無期懲役刑が言い渡された。
+#endregion
+#endregion
+
+***2023/3/26　刑事事件 (被告:[[HAIGURE　TAMAO]])
+#region(開く)
+#table_color(#66CC00)
+|~被告|[[HAIGURE　TAMAO]]|
+|~弁護人|[[ガンロスD・ラブバイブレーション]]|
+|~検察|[[後藤　れむ]]、[[二十日　ネル]]|
+|~裁判員|[[TANAKA　MASAMITSU>>TANAKA　MASAMITU]]、[[まりー　あんとあー]]、[[柏猫　ねこ子]]|
+#region(裁判内容ネタバレ注意)
+Coming soon...
+&u(){経緯}
+客船強盗事件が発生。現場の目撃情報から、外見の一致する[[HAIGURE　TAMAO]]が容疑者とされ、逮捕される。しかし、当人は関与を否定し、「自分の姿をした偽物がでっちあげた冤罪だ！」と主張。その真否を確認するため刑事訴訟をする運びとなった
+&u(){起訴内容}
+銃器所持法違反、公務執行妨害、NPC殺人罪、重強盗
+&u(){争点}
+外見の一致は有罪の決定的証拠となりうるか
+&u(){判決内容}
+&color(#F54738){以下の判決は効力を有するが、判例としては残されないので注意}
+&bold(){被告HAIGURE　TAMAO(D)は証拠不十分により無罪。}
+&bold(){ただし、著しい精神衰弱が確認されたため、180分の入院を勧告。}
+もし、入院を拒否した場合「精神薄弱だと法廷で虚偽の供述をした」として詐欺罪の現行犯逮捕とする。
+(のちに警察の「不手際」を一切追及しないという条件付きで100万円の罰金刑に変更)
+&u(){判決理由}
+検察・弁護人双方からの証拠が不十分であり、検察の主張する「被告が犯人である」という立証ができなかった。ただし、これは弁護側も同様に証拠不十分であり、「無罪とも有罪とも言えない『シュレディンガーのTAMAO』」状態となったため、「疑わしきは被告人の利益のため」の原則に則り無罪とした。
+判例として残さないのは、ロスサントスの特殊な事情(声が極めてよく似た住人が複数人いるため、&bold(){声による個人の特定は証拠たり得ない}という点)によるもので、「外見による個人の判別を決定的証拠としない場合、警察の指名手配が意味をなさなくなり、逮捕手段が現行犯逮捕のみとなる」ため、市長からの助言もあり今後の法整備の課題という意味も込めて「判例として残さず」という異例の処置に踏み切った。
+&u(){余談}
+・被告人は自分で決めた開廷時間を実に15分遅刻。しかも、開廷予定時間ギリギリに「遅れるってことで」と極めて軽い口調で連絡を入れており、裁判官と傍聴人の心象は悪化した。
+・裁判の途中に、被告と全く同じ格好をした3人の「TAMAO」が登場。本人を含めA〜Dと仮称(Dが本人)されたが、そのうちの一人は公判中に[[ヴァン　ダーマー]]であることが判明。
+・・まさか正体がバレると思っていなかったダーマーは屈辱的な姿を晒されたことを恥じたのか、判決の最後に「異議ありぃ...」とか細い声で主張していた。
+・ぶっちゃけ4人のTAMAOが登場したあたりからグダグダになり、&bold(){完全にコント「刑事裁判」状態に}。検察・弁護人双方に「証拠の提出の徹底」を喚起した。
+・初の法廷画家が出動した裁判。担当はグラフィックアーティストを目指すピザ屋の店員、[[奇夢　ヤミ]]。
+・はじめて公式に裁判費用が裁判官に支払われた。(今回は「敗訴」となった検察＝警察が300万円負担)
+#endregion
+#endregion
+
+***2023/3/21　刑事裁判 (被告:[[ヴァン　ダーマー]]、[[細嶋　光希]]、[[柳田　ライアン]])
+#region(開く)
+#table_color(#66CC00)
+|~被告|[[ヴァン　ダーマー]]、[[細嶋　光希]]、[[柳田　ライアン]]|
+|~弁護人|[[山本　龍也]]|
+|~検察|[[後藤　れむ]]|
+|~裁判員|[[雷堂　ましろ]]、[[サミュエル　佐藤]]、[[深沢　えぼし]]|
+
+#region(裁判内容ネタバレ注意)
+&u(){経緯}
+・コンビニ強盗が発生し、街頭の監視カメラにて細嶋、柳田の両名がある民家(4018番)に駆け込んだのが確認された。二人を任意同行後、警察が当該民家を張り込みした結果ヴァン・ダーマーが来訪。その場で身体検査を依頼するも逃走したため、コンビニ強盗との共犯関係を疑い、テーザーガンで制圧し確保。身体検査により拳銃の所持が確認されたのでその場で逮捕し、共犯関係の有無を調べるため裁判にかけることに。
+&u(){起訴内容}
+・銃刀法違反、公務執行妨害、NPC殺人罪、軽強盗罪(コンビニ強盗)(3人とも)
+&u(){争点}
+・ダーマーは他二人の共犯なのか。NPC殺人罪やコンビニ強盗の罪が適用されるのか。
+&u(){判決内容}
+・ダーマー：&bold(){銃刀法違反、公務執行妨害を適応。罰金刑+懲役6万年(※情状酌量により懲役60分に)}
+・細嶋・柳田：&bold(){起訴内容を全て適用。罰金刑と切符交付。}
+&u(){判決理由}
+・ダーマー：警察の訴えた共犯関係は証拠不十分のため成立せず。ただし、共犯関係にないため、「証拠隠滅」「犯人隠匿」が適応されると判断(この二つは共犯関係にあった場合は適用されない)。この二つの要件により罰金金額が基準を超過したため、罰金刑に加え懲役刑を適用。年数については[[市長>山下　ひろし]]からの提案による。
+・細嶋・柳田：&bold(){全ての起訴内容について弁護人が認めたため有罪判決}。
+&u(){余談}
+・葛城にとっては裁判官に就任して初めてとなる公的裁判。ロスサントス史上でも2022年10月19日以来となる2回目の公的裁判となった。
+・日本の法律や判例を元に判決を下したが、ロスサントスの現状に即した形式に直す必要があるかもしれない。
+・「警察のベテラン新人」の一声で急遽開催されることとなり、弁護人も裁判の直前に決定した。やはり事前の話し合いは必要だろう。
+・裁判費用は下りなかったが、[[サブちゃん>アイアンメイデン　三郎太]]から判決後の取材に対する取材費として100万円、[[れむくん>後藤　れむ]]から労いとして300万円をもらった。「カテジ抱きつき事件」での判決では裁判費用300万円が出たとのことなので、そこら辺についても整備をする必要がある
+#endregion
+#endregion
+
+***番外編
+#region(開く)閉じる
+&bold(){3/19 模擬裁判}
+#table_color(#66CC00)
+|~被告|[[超越ヶ谷　にかり]]|
+|~弁護人|[[アイアンメイデン　三郎太]]|
+|~検察|[[ジャーク　武士]]|
+
+経緯
+・ピザ屋にてジャーク武士にたまたま出会った超越ヶ谷にかりがジャークの所有している車の台数を聞き、「そのうちの一台をちょうだい」とお願いすると同時に「お金ちょうだい」と迫る。これをジャークが渋ると超越ヶ谷はファイティングポーズをとった後、ジャークを殴打。現場に司法トップである葛城が居合わせたため、急遽「模擬裁判」として扱うことに。
+起訴内容
+・恐喝罪、暴行罪
+判決内容
+・起訴内容を全て適用。懲役3年、執行猶予4年(※あくまで形式上)。
+判決理由
+・ジャークが立てた証人のうち2名は証拠となる発言を認められなかったが、証人・[[奇夢　ヤミ]]、[[アイアンメイデン　三郎太]]、[[葛城　司]]の発言により暴行の事実が裏付けられた。また、開廷中に被告が逃走を企てたほか、連れ戻された際に「私がやりました」と自供したことから起訴内容を全て適用。年数については日本の法律や判例を基準とした。
+#endregion
+
+#endregion
+
+*&color(#60EE3C){⚠️ 過去の話 ⚠️}
+#region(ネタバレ注意)
+・ロスサントスを訪れた時、周囲には「日本で弁護士をやっていても稼ぐことができないからこの街を訪れた」と話していたが、実際は異なる。
+・日本にて、弁護した犯罪者(誘拐・詐欺犯)にはめられ、行った行為(公文書偽造？)が弁護士倫理規定違反となり資格を失い、弁護士会からの除名処分を受けた。
+・その復讐のためにこの街を訪れた。対象は２名いるとのこと。１名の名前は『四ツ谷』
+・[[アイアンメイデン　三郎太]]に日本で1人殺している事を告白（44日目　4:00:00頃）
+・名前は『四ツ谷　アカリ』（日本時代の妻？）
+
+&bold(){〇この街で過ごして}
+・にかり、ナカバとの三角関係の末、居場所を見失い破壊衝動に駆られる。 
+・&bold(){「&color(#F54738){居場所壊すか。魔法少女サークルも、レースチームも、ましろ先生も、あんとあーさんも、にしのんもジャム姐も、リーさんも!!!ラグランジュさんもいぬりんもさぁ。りりさんもるるさんも、全部壊すか。}」「&color(#3B4EF0){んなことできるわけないんだよ...結局、道化になるしかないんだよ..}」}
+
+#endregion
+
+**ストグラ印象表
+#Region(5/22時点)&b(){5/22時点}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; Shiron🌱三上重工 (@Shirono_hiou) <a href="https://twitter.com/Shirono_hiou/status/1660369762583740416?s=20">ストグラ印象表</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#EndRegion
+
+#Region(9/23時点)&b(){9/23時点}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; Shiron🌱三上重工 (@Shirono_hiou) <a href="https://twitter.com/Shirono_hiou/status/1705349959267295400?t=JBQLjiHpHJBNSpGuq6pcAw&s=19">ストグラ印象表</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#EndRegion
+
+#Region(10/28時点)&b(){10/28時点}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; Shiron🌱三上重工 (@Shirono_hiou) <a href="https://twitter.com/Shirono_hiou/status/1718093030601990411?t=8X-lyBxreVbHFsaoUmS0Dg&s=19">ストグラ印象表</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#EndRegion
+
+#Region(11/27時点)&b(){11/27時点}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; Shiron🌱三上重工 (@Shirono_hiou) <a href="https://twitter.com/Shirono_hiou/status/1729013870352843195?t=YsPPesb6BGYknwsFrmoE1w&s=19">ストグラ印象表</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#EndRegion
+//
+//URLだけ変更すれば使えます
+//#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; Shiron🌱三上重工 (@Shirono_hiou) <a href="URL">ストグラ印象表</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+//
+
+*&size(160%){📕}📕 &color(#60EE3C){アーカイブ} 📕&size(160%){📕}
+***&underdot(#60EE3C,4px){&font(b,16,#444){Season1}}
+#region(開く)閉じる
+****2023年2月 (Day1~5)
+#region(開く)
+#table_style(head=center:#66CC00){配信日=right,Day=center}
+|~配信日|~Day|~配信タイトル|~エピソード|h
+|02/23|1|[[File.1「訴訟の多いこの国で」>>https://www.youtube.com/live/0zt9Gjnp-mE?feature=share]]|マクドナルドに車を貰う&br()チュートリアルおじさんの町案内|
+|02/24|2|[[File.2「よい法律家は悪い隣人」>>https://www.youtube.com/live/PdjPaDNVCoQ?feature=share]]|初心者ツアーに参加|
+|02/25|3|[[File.3「親切には、法律以上の力がある」>>https://www.youtube.com/live/CPPCkzqK0q8?feature=share]]|ドラマ撮影に参加|
+|02/26|4|[[File.4「武力がものをいえば法律は沈黙す」>>https://www.youtube.com/live/xE6aRMbnC6Y?feature=share]]|トラックバイトやレース|
+|02/28|5|[[File.5「社会あるところに法あり」>>https://www.youtube.com/live/PptGK8RMEhQ?feature=share]]|飲食店巡り、レース|
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****2023年3月 (Day6~29)
+#region(開く)
+#table_style(head=center:#66CC00){配信日=right,Day=center}
+|~配信日|~Day|~配信タイトル|~エピソード|h
+|03/01|6|[[File.6「人が集まれば法は生まれる」>>https://www.youtube.com/live/bpvmV3J4FiQ?feature=share]]|ダイビング|
+|03/02|7|[[File.7「法＝正義とは限らない」>>https://www.youtube.com/live/OcsQ3aw-c_g?feature=share]]|コント、🔰を外す|
+|03/03|8|[[File.8「悪法も法なり」>>https://www.youtube.com/live/4pmbQD0viKo?feature=share]]||
+|03/04|9|[[File.9「刑法は犯罪者のマグナカルタ」>>https://www.youtube.com/live/GE9bkGI_V1Q?feature=shae]]||
+|03/06|10|[[File.10「承諾した者に不法は生じない」>>https://www.youtube.com/live/uS2i2Ib4KWo?feature=share]]||
+|03/07|11|[[File.11「法は不可能を強いない」>>https://www.youtube.com/live/7APRpKa3cA0?feature=share]]||
+|03/08|12|[[File.12「裁判官は物言う法理である」>>https://www.youtube.com/live/zbCPw49YHoM?feature=share]]||
+|03/09|13|[[幕間1「裁判官のお仕事」>>https://www.youtube.com/live/YhjJ57jzbLc?feature=share]]||
+|03/10|14|[[幕間2「情報収集」>>https://www.youtube.com/live/DFeD2XkYtEo?feature=share]]||
+|03/11|15|[[File.13「裁判募集中」>>https://www.youtube.com/live/HbzljHK70h8?feature=share]]||
+|03/12|16|[[File.14「副業活動」>>https://www.youtube.com/live/cdCFKoyRZYk?feature=share]]||
+|03/13|17|[[File.15「裁判を探して三千里」>>https://www.youtube.com/live/Fr6kgE4R_Y4?feature=share]]||
+|03/14|18|[[File.16「お散歩日和」>>https://www.youtube.com/live/Y1Gcczku96s?feature=share]]||
+|03/15|19|[[File.17「閑古鳥」>>https://www.youtube.com/live/TzpCwNmptuU?feature=share]]||
+|03/17|20|[[File.18「仕事の時間だ…」>>https://www.youtube.com/live/ppIK18Ey-N4?feature=share]]||
+|03/18|21|[[幕間3「この街の法律」>>https://www.youtube.com/live/4sOc2sgeHm0?feature=share]]||
+|03/19|22|[[File.19「居ないと思ったんです」 >>https://www.youtube.com/live/KIh9t5npKEg?feature=share]]|模擬裁判実行|
+|03/20|23|[[File.20「平和な日々」 >>https://www.youtube.com/live/BMCb5hBgY9Q?feature=share]]|急遽、刑事裁判を行う|
+|03/21|24|[[File.21「疑わしきは被告人の利益に」 >>https://www.youtube.com/live/dkMFjcIP46w?feature=share]]|いろんな人と金属探知|
+|03/23|25|[[File.22「ひと月の重さ」 >>https://www.youtube.com/live/HQ_CfjJbdzc?feature=share]]|コンカフェ場所探しお手伝い&br()裁判予約　ガンゲーム参加|
+|03/25|26|[[File.23「緊張」>>https://www.youtube.com/live/SGCHx7qrKak?feature=share]]||
+|03/26|27|[[File.24「刑事裁判」>>https://www.youtube.com/live/Tl6m28Hf2A0?feature=share]]|たまお裁判を行う|
+|03/27|28|[[File.25「休日」>>https://youtube.com/live/6x3S3-JkVsQ?feature=share]]||
+|03/30|29|[[File.26「今日こそは」>>https://www.youtube.com/live/YvsjfYYsUaQ?feature=share]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****2023年4月 (Day30~47)
+#region(開く)
+#table_style(head=center:#66CC00){配信日=right,Day=center}
+|~配信日|~Day|~配信タイトル|~エピソード|h
+|04/02|30|[[File.27「裁判官は刑罰執行の夢を見るか」>>https://youtube.com/live/-okDxPOcyH0?feature=share]]||
+|04/03|31|[[File.28「法律は判ってくれない」>>https://youtube.com/live/hSKmpR1G8x0?feature=share]]||
+|04/04|32|[[File.29「葛城ツカサの憂鬱」>>https://youtube.com/live/cyW4iQUxqfU?feature=share]]|ヴァンダーマーに狙われる|
+|04/06|33|[[File.30「信念の行方」>>https://youtube.com/live/rjMHDvbxyo4?feature=share]]||
+|04/08|34|[[File.31「ジョニーは裁判へ行った」>>https://youtube.com/live/QTclbli2sX0?feature=share]]||
+|04/09|35|[[File.32「米と卵とほんの少しの魔法」>>https://youtube.com/live/ks4rekEDcE4?feature=share]]||
+|04/12|36|[[幕間4「賭博」>>https://www.youtube.com/live/J6rE-aGQGcw?feature=share]]|チンチロで900万勝つ|
+|04/14|37|[[File.33「被告たちの沈黙」>>https://www.youtube.com/live/TFdPwE4pdhk?feature=share]]|サイモで雑談&br()猫カフェで雑談|
+|04/15|38|[[File.34「真実と虚構」>>https://www.youtube.com/live/V60_87XcMpk?feature=share]]|大規模瞑想前のニョッキ大会|
+|04/18|39|[[作業1「金策と葛藤」>>https://www.youtube.com/live/e2b5m_4MyBY?feature=share]]||
+|04/19|40|[[File.35「男たちの旅路」>>https://www.youtube.com/live/4O3tG8P76QY?feature=share]]|ナカバとデート|
+|04/21|41|[[File.36「あまのじゃく」>>https://youtube.com/live/5V-SPUlsssY?feature=share]]|サブちゃんと3本勝負|
+|04/22|42|[[File.37「about time」>>https://www.youtube.com/live/YZomGB3eSKQ?feature=share]]|ナカバに取材&br()ジャム姉に嵌められる|
+|04/25|43|[[File.38「Fragile」>>https://youtu.be/sVnz2qj3Md4]]||
+|04/26|44|[[File.39「SPECIAL TSUKASA BROKEN」>>https://www.youtube.com/live/5rUvOO99cIk?feature=share]]|ヨウコウの黒い噂&br()三郎太は中立か？|
+|04/27|45|[[File.40「Before Sunrise」>>https://www.youtube.com/live/6Ui6nNLl7ps?feature=share]]|三角関係について相談&br()ノビつばの関係を知る|
+|04/28|46|[[File.41「あと1センチの」>>https://www.youtube.com/live/HRcg7-0Hr7k?feature=share]]|にかのりの取材を受ける&br()三郎太に銃口を向ける|
+|04/30|47|[[File.42「日常」>>https://www.youtube.com/live/OaCzw8KcGq8?feature=share]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****2023年5月 (Day48~73)
+#region(開く)
+#table_style(head=center:#66CC00){配信日=right,Day=center}
+|~配信日|~Day|~配信タイトル|~エピソード|h
+|05/03|48|[[File.43「夜活」>>https://youtube.com/live/oU9cKR5mZ88?feature=share]]|いぬりん、リーとツーリング|
+|05/03|49|[[File.44「光」>>https://www.youtube.com/live/6Ywb1GFUROc?feature=share]]|[[蒙古タンメン中本先生>>転移　逆転移]]&br()三個一で海難事故|
+|05/04|50|[[File.45「疾走」>>https://youtube.com/live/BHlLJ6GqedU?feature=share]]||
+|05/06|51|[[File.46「烏有」>>https://www.youtube.com/live/iLEhNBByBv0?feature=share]]||
+|05/07|52|[[File.47「狷介」>>https://www.youtube.com/live/bRZ7a4e0Mvk?feature=share]]||
+|05/09|53|[[File.48「騎虎」>>https://www.youtube.com/live/fvs2X3EPvLo?feature=share]]||
+|05/10|54|[[File.49「競争」>>https://www.youtube.com/live/AeqACPS15_E?feature=share]]|ジャーク武士に状況整理してもらう|
+|05/11|55|[[File.50「商品会議」>>https://www.youtube.com/live/Agyx-UlX01A?feature=share]]|魔女カフェ商品会議&br()ヨネさんに恋愛相談&br()涙の失恋リサイタル|
+|05/12|56|[[File.51「四面楚歌」>>https://www.youtube.com/live/BGX2OgXJGGA?feature=share]]|今井さんに失恋した事を話す&br()ましろを仮初の彼女にする|
+|05/13|57|[[File.52「単純なバカでありたい」>>https://www.youtube.com/live/e-XKq5e-Ezg?feature=share]]|ハニーさん、空舞月姉妹の町案内|
+|05/15|58|[[File.53「暗中模索」>>https://www.youtube.com/live/fqzCgpkE7Sk?feature=share]]|ティラノエモートレースで3位になる&br()ケアプログラムの事を打ち明ける&br()シルバーブレッドの正体に気づく|
+|05/16|59|[[File.54「逆潮」>>https://www.youtube.com/live/i-E3wR3g0ow?feature=share]]|大物釣りに出かける&br()七半はしるとデート|
+|05/17|60|[[File.55「レーシングチームを作るらしい」>>https://youtube.com/live/TJQWfrrpsyQ?feature=share]]|レーシングチーム結成&br()リーさんたちと観光地巡り|
+|05/18|61|[[File.56「遅起き」>>https://youtube.com/live/8u6jMlN4ipk?feature=share]]|サーファーカスタムに一目ぼれ&br()涙の女子会&br()ましろ先生の恋愛＝治療疑惑|
+|05/19|62|[[File.57「独白」>>https://youtube.com/live/0shJs9EMk9k?feature=share]]|住民たちに居場所について聞いて回る&br()リセットしたい衝動に駆られる&br()ジャーク武士に過去を打ち明ける&br()レースチームの名前決め失敗|
+|05/20|63|[[File.58「思索」>>https://youtube.com/live/imTpTXECfAU?feature=share]]|ハニーさんとデート|
+|05/21|64|[[File.59「居場所」>>https://youtube.com/live/2ruwyjjSSKE?feature=share]]|木こり協同組合連合会設立|
+|05/22|65|[[File.60「北の町」>>https://youtube.com/live/WD37bSlC_Zg?feature=share]]||
+|05/23|66|[[File.61「欠けた月」>>https://www.youtube.com/live/n-rZyOM6DEc?feature=share]]|ぷら子の秘密を知る&br()仮死薬の解毒方法を探る&br()リーさんとるるさんの仲を疑う|
+|05/24|67|[[File.62「浅い眠り」>>https://youtube.com/live/xKvh4f7e5wc?feature=share]]|ぷら子の話を信じる&br()葛城を狙うギャングの噂&br()ハニーさんへの挑戦状|
+|05/26|68|[[File.63「微睡」>>https://youtube.com/live/LN-SIrIA-ZI?feature=share]]|くじら釣りリベンジ|
+|05/27|69|[[File.64「劇薬」>>https://youtube.com/live/pB-3MsLtZXc?feature=share]]||
+|05/27|70|[[File.65「残滓」>>https://youtu.be/NkA4m3IAz8s]]||
+|05/28|71|[[File.66「祝福」>>https://youtube.com/live/cftMuPv9zzY?feature=share]]|リーさんの誕生日をお祝い|
+|05/30|72|[[File.67「後遺」>>https://youtube.com/live/kz3VhBNa6v0?feature=share]]||
+|05/31|73|[[File.68「良心」>>https://youtube.com/live/4RWuPvieW2g?feature=share]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****2023年6月 (Day74~98)
+#region(開く)
+#table_style(head=center:#66CC00){配信日=right,Day=center}
+|~配信日|~Day|~配信タイトル|~エピソード|h
+|06/02|74|[[作業2「ハウジングとか」>>https://youtube.com/live/KLR1ePRNiyA?feature=share]]||
+|06/02|75|[[File.69「嘆願」>>https://youtube.com/live/TmpvDo4SCYo?feature=share]]|スカイダイビング|
+|06/03|76|[[File.70「交流」>>https://youtube.com/live/AbwZyhnZUtA?feature=share]]|地獄の四天王会議&br()にかりんと和解|
+|06/04|77|[[File.71「調査」>>https://youtube.com/live/FeNF4VOT9lQ?feature=share]]||
+|06/07|78|[[File.72「落ち着き」>>https://youtube.com/live/icd4FNl4ghs?feature=share]]|メリーさんに木こりをレクチャー|
+|06/07|79|[[File.73「裁定」>> https://youtube.com/live/F_stXYJED44?feature=share]]|RED RUM事件裁判&br()精神分析を受けてみた|
+|06/09|80|[[File.74「平和」>>https://youtube.com/live/Jl_kI692TgU?feature=share]]||
+|06/09|81|[[File.75「交通裁判」>>https://youtube.com/live/W_Z_EiwNQEk?feature=share]]|にしのん逆転無罪|
+|06/11|82|[[作業「判例書いたりやることやったり」>>https://youtube.com/live/iJrePU_rSFA?feature=share]]||
+|06/12|83|[[作業「今日こそやりたいことをやる」>>https://youtube.com/live/V9KWmgMJ_Z4?feature=share]]||
+|06/13|84|[[File.76「夜更かし」>>https://www.youtube.com/live/PPFtEKH8zy8?feature=share]]||
+|06/15|85|[[File.77「まったり」>>https://www.youtube.com/live/RbLvIApLS1Q?feature=share]]||
+|06/15|86|[[File.78「レース！レース！レース！」>>https://www.youtube.com/live/6v6bifYJoZc?feature=share]]||
+|06/16|87|[[File.79「開店」>>https://www.youtube.com/live/U0pD3q687yg?feature=share]]||
+|06/18|88|[[File.80「方向性」>>https://www.youtube.com/live/67DKYcQ2o1c?feature=share]]||
+|06/19|89|[[File.81「移動販売の準備」>>https://www.youtube.com/live/vw00j9jcdtE?feature=share]]||
+|06/19|90|[[File.82「民事裁判」>>https://www.youtube.com/live/lePg4om0WUo?feature=share]]||
+|06/21|91|[[File.83「何気ない日常」>>https://www.youtube.com/live/NljADi3ayY8?feature=share]]||
+|06/21|92|[[File.84「見知らぬ顔が増えた」>>https://www.youtube.com/live/mCjiCeG9BTY?feature=share]]||
+|06/22|93|[[File.85「レースが楽しくて仕方がない」>>https://www.youtube.com/live/1nswkD2QwAc?feature=share]]||
+|06/23|94|[[File.86「作りたいもの」>>https://www.youtube.com/live/RmYw0FxpJ5o?feature=share]]||
+|06/24|95|[[File.87「一秒でも速く」>>https://www.youtube.com/live/f5nCRus-G4Q?feature=share]]||
+|06/25|96|[[File.88「また街が発展するらしい」>>https://www.youtube.com/live/vIH-cAU8J0w?feature=share]]||
+|06/28|97|[[File.89「社会現象」>>https://www.youtube.com/live/23_P_E2Vo4c?feature=share]]||
+|06/28|98|[[File.90「グラモンマスターへの道」>>https://www.youtube.com/live/Jug-q_1gPcg?feature=share]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****2023年7月 (Day99~120)
+#region(開く)
+#table_style(head=center:#66CC00){配信日=right,Day=center}
+|~配信日|~Day|~配信タイトル|~エピソード|h
+|07/02|99|[[File.91「億...?」>>https://www.youtube.com/live/Sqn7QCjCmds?feature=share]]||
+|07/04|100|[[File.92「市政の行方」>>https://www.youtube.com/live/5sUDgDHYp8A?feature=share]]||
+|07/08|101|[[File.93「使い道」>>https://www.youtube.com/live/ocplbN070bQ?feature=share]]||
+|07/09|102|[[File.94「育成」>>https://www.youtube.com/live/1kmiA2gAKmE?feature=share]]||
+|07/10|103|[[File.95「目標一億1千万円」>>https://www.youtube.com/live/DzMQv2ajO7I?feature=share]]||
+|07/14|104|[[File.96「発掘したい」>>https://www.youtube.com/live/VutKHgHiLX4?feature=share]]||
+|07/15|105|[[File.97「高級車」>>https://www.youtube.com/live/cBqhNJfdec0?feature=share]]||
+|07/16|106|[[File.98「イベントの問題を考える」>>https://www.youtube.com/live/8-YYiBejVjI?feature=share]]||
+|07/18|107|[[File.99「TOP5」>>https://www.youtube.com/live/4gTu7-J9Rtw?feature=share]]||
+|07/19|108|[[File.100「高みを目指して」>>https://www.youtube.com/live/4wslY2qvfvk?feature=share]]||
+|07/20|109|[[File.101「おかえり煩悩」>>https://www.youtube.com/live/0b4o853_xNU?feature=share]]||
+|07/21|110|[[File.102「夏メニュー」>>https://www.youtube.com/live/xAOBwZ3DPPg?feature=share]]||
+|07/22|111|[[File.103「輝き」>>https://www.youtube.com/live/bmgX4D8hk4Q?feature=share]]||
+|07/24|112|[[File.104「寄稿の準備」>>https://www.youtube.com/live/uMBKcVrn4T0?feature=share]]||
+|07/24|113|[[File.105「記事を書く」>>https://www.youtube.com/live/5zBrd_bVQ4Q?feature=share]]||
+|07/25|114|[[File.106「ミスなく走りたい」>>https://www.youtube.com/live/eqqWUwc1sK8?feature=share]]||
+|07/26|115|[[File.107「コースを作りたい」>>https://www.youtube.com/live/W7AYxHEEI7Q?feature=share]]||
+|07/28|116|[[File.108「あてもなく」>>https://www.youtube.com/live/8KaDP6HCVsY?feature=share]]||
+|07/29|117|[[File.109「お披露目」>>https://www.youtube.com/live/D5MfdCVXTNw?feature=share]]||
+|07/29|118|[[File.110「自覚」>>https://www.youtube.com/live/vf_ZyCUU4nM?feature=share]]||
+|07/30|119|[[File.111「真昼の月」>>https://www.youtube.com/live/o6XHVvEV0gQ?feature=share]]||
+|07/31|120|[[File.112「街の探検」>>https://www.youtube.com/live/TJn9qzxjNa8?feature=share]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****2023年8月 (Day121~150)
+#region(開く)
+#table_filter(){Twitch配信タイトル=show}
+#table_style(head=center:#66CC00){配信日=right,Day=center}
+|~配信日|~Day|~YouTube配信(アーカイブ)タイトル|~Twitch配信タイトル|~エピソード|h
+|08/01|121|[[File.113「コース作り再び」>>https://www.youtube.com/live/K8mP02Z967s?feature=share]]|||
+|08/02|122|[[File.114「試走と調整」>>https://www.youtube.com/live/CnVDnpy-nX0?feature=share]]|||
+|08/04|123|[[File.115「夏の夜」>>https://www.youtube.com/live/FXHGnUJFBIU?si=9GR50Yd7utppTZMt&t=6723]] (1:52:03~)|||
+|08/04|124|[[File.116「路地裏」>>https://www.youtube.com/live/SE66ehSIqik?feature=share]]|||
+|08/05|125|[[File.117「バイクレース」>>https://www.youtube.com/live/dPcLikIw_nE?feature=share]]|||
+|08/06|126|[[File.118「人脈」>>https://www.youtube.com/live/WSYDwj3ViKA?feature=share]]|||
+|08/07|127|[[File.119「新シーズン」>>https://www.youtube.com/live/TvJIhO2j1ks?feature=share]]|||
+|08/08|128|[[File.120「バラの行方」>>https://www.youtube.com/live/mBNNgXRB4t4?feature=share]]|||
+|08/09|129|[[File.121「ただ走る」>>https://www.youtube.com/live/xIybjMnpFTE?feature=share]]|||
+|08/10|130|[[File.122「第二回にかのり」>>https://www.youtube.com/live/qdEACFr0zbk?feature=share]]|||
+|08/11|131|[[File.123「次の準備」>>https://www.youtube.com/live/nAuL4beXE-s?feature=share]]|||
+|08/12|132|[[File.124「バイト三昧」>>https://www.youtube.com/live/HDEDog-rPNc?feature=share]]|||
+|08/13|133|[[File.125「夏祭り」>>https://www.youtube.com/live/-hOf4ykD2Cc?feature=share]]|||
+|08/14|134|[[File.126「釣りをしてみたい」>>https://www.youtube.com/live/gSTdGS-jO-o?feature=share]]|||
+|08/15|135|[[File.127「今日こそ釣りだ！」>>https://www.youtube.com/live/NzNdrbeUAHI?feature=share]]|||
+|08/16|136|[[File.128「釣り⇒レース⇒釣り」>>https://www.youtube.com/live/0zhSro4QPcU?feature=share]]|||
+|08/17|137|[[File.129「気ままに」>>https://www.youtube.com/live/C1eAbm8q464?feature=share]]|||
+|08/18|138|[[File.130「スランプ」>>https://www.youtube.com/live/EWY0XKvHdvU?feature=share]]|||
+|08/20|139|[[File.131「ドリフト」>>https://www.youtube.com/live/Ftby7QH5oBY?feature=share]]|||
+|08/21|140|[[File.132「対話」>>https://www.youtube.com/live/UHSUP--rbPo?feature=share]]|||
+|08/22|141|[[File.133「３度目の正直」>>https://www.youtube.com/live/desOmCB8-Uk?feature=share]]|||
+|08/23|142|[[File.134「Xデー」>>https://www.youtube.com/live/IzTM057msgM?si=O2HTXmXu6uqhpGSV]]|||
+|08/24|143|[[File.135「岐路」>>https://www.youtube.com/live/C1SYzFT56uk?si=96WHJOhfrK81x-Y2]]|||
+|08/25|144|[[File.136「相談」>>https://www.youtube.com/live/XIyslVMQxFI?si=Lus8Odd2YP2-7GSA]]|||
+|08/27|145|[[個人医1日目 医療 （137日目）>>https://youtu.be/52FkH3KG2ok]]|[[137日目(1)個人医　葛城司の視点>>https://www.twitch.tv/videos/1909087466]]&br()[[137日目(2)>>https://www.twitch.tv/videos/1909145256]]||
+|08/28|146|[[個人医2日目 パレード （138日目）>>https://youtu.be/-Xy8ep2YL0A]]|[[個人医2日目　葛城司の視点（138日目）>>https://www.twitch.tv/videos/1909899360]]||
+|08/29|147|[[個人医3日目 身バレ（139日目）>>https://youtu.be/ilQMV9eLWMo]]|[[個人医3日目　葛城司の視点(139日目)>>https://www.twitch.tv/videos/1910845866]]||
+|08/29|148|[[個人医4日目 今日はデザイナー（140日目）>>https://youtu.be/5WrMPqCLxlw]]|[[個人医4日目　今日はデザイナー　葛城司の視点（140日目）>>https://www.twitch.tv/videos/1911619669]]&br()[[個人医4日目(2)>>https://www.twitch.tv/videos/1911661961]]||
+|08/30|149|[[個人医5日目 根回し（141日目）>>https://youtu.be/YNHWWbl86iQ]]|[[個人医5日目　根回し　葛城司の視点(141日目)>>https://www.twitch.tv/videos/1912480141]]||
+|08/31|150|[[個人医6日目 （142日目）>>https://youtu.be/xv77Bs5H1h0]]|[[個人医6日目　個人医はBARにいる　葛城司の視点(142日目)>>https://www.twitch.tv/videos/1913306485]]&br()[[個人医6日目(2)>>https://www.twitch.tv/videos/1913359038]]・[[(3)>>https://www.twitch.tv/videos/1913411044]]・[[(4)>>https://www.twitch.tv/videos/1913423524]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****2023年9月 (Day151~177)
+#region(開く)
+#table_filter(){Twitch配信タイトル=show}
+#table_style(head=center:#66CC00){配信日=right,Day=center}
+|~配信日|~Day|~YouTube配信(アーカイブ)タイトル|~Twitch配信タイトル|~エピソード|h
+|09/01|151|[[個人医7日目（143日目）>>https://youtu.be/tRMOVxYg5tE]]|[[個人医7日目(1) だから個人医は前を向く 葛城司の視点 (143日目)>>https://www.twitch.tv/videos/1914165313]]&br()[[個人医7日目(2)>>https://www.twitch.tv/videos/1914347411]]||
+|09/03|152|[[個人医8日目（144日目）>>https://youtu.be/kZWjNNUya4g]]|[[個人医8日目(1) ヘリが必要だと気付いた 葛城司の視点 (144日目)>>https://www.twitch.tv/videos/1915209812]]&br()[[個人医8日目(2)>>https://www.twitch.tv/videos/1915326331]]||
+|09/03|153|[[個人医9日目（145日目）>>https://youtu.be/tF6pyrPBhsg]]|[[個人医9日目(1) レースで資金繰り 葛城司の視点 (145日目)>>https://www.twitch.tv/videos/1915968014]]&br()[[個人医9日目(2)>>https://www.twitch.tv/videos/1916233758]]||
+|09/04|154|[[個人医10日目（146日目）>>https://youtu.be/AQ1K-2l0Knk]]|[[個人医10日目 ヘリまであと少し 葛城司の視点 (146日目)>>https://www.twitch.tv/videos/1916833167]]&br()[[個人医10日目(2)>>https://www.twitch.tv/videos/1916858580]]・[[(3)>>https://www.twitch.tv/videos/1916864428]]・[[(4)>>https://www.twitch.tv/videos/1916894969]]・[[(5)>>https://www.twitch.tv/videos/1916969966]]・[[(6)>>https://www.twitch.tv/videos/1917007528]]||
+|09/05|155|[[個人医11日目 ヘリ練習（147日目）>>https://youtu.be/kO8CDnmEe2k]]|[[個人医11日目 ヘリ練習 葛城司の視点 (147日目)>>https://www.twitch.tv/videos/1917774973]]||
+|09/06|156|[[個人医12日目（148日目）>>https://youtu.be/jgILgJlB5HA]]|[[個人医12日目 見学したい人がいるらしい 葛城司の視点 (148日目)>>https://www.twitch.tv/videos/1918533708]]&br()[[個人医12日目(2)>>https://www.twitch.tv/videos/1918605290]]・[[(3)>>https://www.twitch.tv/videos/1918721860]]||
+|09/07|157||[[個人医13日目 最高のカスタムバイクと共に 葛城司の視点 (149日目)>>https://www.twitch.tv/videos/1919339173]]&br()[[個人医13日目(2)>>https://www.twitch.tv/videos/1919445211]]||
+|09/08|158||[[個人医14日目 綱渡り 葛城司の視点 (150日目)>>https://www.twitch.tv/videos/1920193117]]&br()[[個人医14日目(2)>>https://www.twitch.tv/videos/1920244076]]||
+|09/09|159||[[個人医15日目 美しい街ロスサントス 葛城司の視点 (151日目)>>https://www.twitch.tv/videos/1921003575]]&br()[[個人医15日目(2)>>https://www.twitch.tv/videos/1921042136]]・[[(3)>>https://www.twitch.tv/videos/1921138241]]・[[(4)>>https://www.twitch.tv/videos/1921165262]]||
+|09/12|160||[[個人医16日目 葛城司の視点 (152日目)>>https://www.twitch.tv/videos/1923552553]]&br()[[個人医16日目(2)>>https://www.twitch.tv/videos/1923559484]]・[[(3)>>https://www.twitch.tv/videos/1923567995]]||
+|09/13|161||[[個人医17日目 葛城司の視点 (153日目)>>https://www.twitch.tv/videos/1924345923]]||
+|09/14|162||[[個人医18日目 葛城司の視点 (154日目)>>https://www.twitch.tv/videos/1925214522]]||
+|09/15|163||[[個人医19日目 葛城司の視点 (155日目)>>https://www.twitch.tv/videos/1926020323]]&br()[[個人医19日目(2)>>https://www.twitch.tv/videos/1926025981]]・[[(3)>>https://www.twitch.tv/videos/1926092780]]・[[(4)>>https://www.twitch.tv/videos/1926097749]]||
+|09/16|164||個人医20日目① 葛城司の視点 (156日目)&br()個人医20日目②||
+|09/17|165||個人医21日目① 葛城司の視点 (157日目)&br()個人医21日目②・③||
+|09/18|166||個人医22日目① 葛城司の視点 (158日目)&br()個人医22日目②・③||
+|09/19|167||個人医23日目① 葛城司の視点 (159日目)&br()個人医23日目②・③||
+|09/21|168||個人医24日目 葛城司の視点 (160日目)&br()個人医24日目(2)||
+|09/22|169||個人医25日目 葛城司の視点 (161日目)||
+|09/23|170||個人医26日目「新人レーサーたち」葛城司の視点 (162日目)||
+|09/24|171||個人医27日目「この夏最後のホラー」葛城司の視点 (163日目)||
+|09/25|172||個人医28日目 レース沼 葛城司の視点 (164日目)||
+|09/26|173||個人医29日目 父親…? 葛城司の視点 (165日目)||
+|09/27|174||個人医30日目 自転車でアクロバットなことをしたい 葛城司の視点 (166日目)||
+|09/29|175||個人医31日目 宝探し 葛城司の視点 (167日目)||
+|09/29|176||個人医32日目 続：ロケラン探し 葛城司の視点 (168日目)||
+|09/30|177||個人医33日目 タイムリミット？ 葛城司の視点 (169日目)||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****2023年10月 (Day178~204)
+#region(開く)
+#table_filter(){Twitch配信タイトル=show}
+#table_style(head=center:#66CC00){配信日=right,Day=center}
+|~配信日|~Day|~YouTube配信(アーカイブ)タイトル|~Twitch配信タイトル|~エピソード|h
+|23/10/01|178||個人医34日目 メニュー作り 葛城司の視点 (170日目)||
+|10/02|179||個人医35日目 新メニュー？ 葛城司の視点 (171日目)||
+|10/03|180||個人医36日目 ルパンカー事変 葛城司の視点 (172日目)||
+|10/04|181||個人医37日目 葛城司の視点 (173日目)||
+|10/05|182||個人医38日目 葛城司の視点 (174日目)||
+|10/07|183||個人医39日目 葛城司の視点 (175日目)||
+|10/09|184||個人医40日目 葛城司の視点 (176日目)||
+|10/10|185||個人医41日目 葛城司の視点 (177日目)||
+|10/11|186||個人医42日目 葛城司の視点 (178日目)||
+|10/13|187||個人医43日目 葛城司の視点 (179日目)||
+|10/14|188||個人医44日目 葛城司の視点 (180日目)||
+|10/14|189||個人医45日目 葛城司の視点 (181日目)||
+|10/16|190||個人医46日目 葛城司の視点 (182日目)||
+|10/17|191||個人医47日目 葛城司の視点 (183日目)||
+|10/19|192||個人医48日目 葛城司の視点 (184日目)||
+|10/20|193||個人医49日目 葛城司の視点 (185日目)||
+|10/21|194||個人医50日目 文化祭運営 葛城司の視点 (186日目)||
+|10/22|195||個人医51日目 祭壇探し 葛城司の視点 (187日目)||
+|10/23|196||個人医52日目 葛城司の視点 (188日目)||
+|10/24|197||個人医53日目 バイクレース作り 葛城司の視点 (189日目)||
+|10/25|198||個人医54日目 新作コース試走会 葛城司の視点 (190日目)||
+|10/26|199||個人医55日目 バイクレース修正 葛城司の視点 (191日目)||
+|10/27|200||個人医56日目 レート上げ 葛城司の視点 (192日目)||
+|10/28|201||個人医57日目 ポジティブな悩み 葛城司の視点 (193日目)||
+|10/29|202||個人医58日目 葛城司の視点 (194日目)||
+|10/31|203||個人医59日目 葛城司の視点 (195日目)||
+|10/31|204||個人医60日目 シーズン最終日 葛城司の視点 (196日目)||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion(Season1)
+***&underdot(#60EE3C,4px){&font(b,16,#444){Season2}}　&font(11px,#666){アーカイブはメンバー限定}
+&font(b,16px,#444){2025年}
+****12月 (Day1~)
+#region(開く)
+#table_filter(){Twitch配信タイトル=hide}
+#table_style(head=center:#66CC00){配信日=right,Day=center}
+|~配信日|~Day|~YouTube配信(アーカイブ)タイトル|~Twitch配信タイトル|~エピソード|h
+|mm/dd|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]|&font(#6441A4){&icon_fa(fa fa-twitch)} ||
+
+//|mm/dd|No|&font(#DA1725){YouTube} [[タイトル>>URL]]|&font(#6441A4){&icon_fa(fa fa-twitch)} ||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//配信日は配信サムネイルに書いている日付に合わせて配信開始時の日付にしています。
+
+*&size(160%){🎥} &color(#60EE3C){切り抜き動画} &size(160%){🎞}
+#region(一覧,open)閉じる
+***#1~20
+#region(開く,open)
+#table_style(head=center:#66CC00,hover=#FFF:#444:bold){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+|2026/07/21|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[精神攻撃を使った爆笑 病院襲撃 !! 葛城 だけに効果抜群な件>>https://youtu.be/wA9wr2MluJs]]||
+|2026/07/29|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[AIも困惑する添え木壁事件／TwiXのプロフにこれでもかとネタを詰め込む救急隊>>https://youtu.be/_Z60Nsa9rbA]]||
+|2026/08/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[解説付き!! 医療品窃盗の犯人である闇医者に圧をかける救急隊と裁判官>>https://youtu.be/fOUcSbBpfzQ?si=ESftxSSSczrrlX51]]||
+//|yyyy/mm/dd|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]||
+#table_autoincrement(){label=#,start=1}
+#endregion(#1〜20)
+#endregion(切り抜き動画)
+
+#right(){&link_up(▲ページTOP)}

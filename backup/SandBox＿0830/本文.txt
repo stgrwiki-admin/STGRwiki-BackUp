@@ -1,0 +1,11 @@
+***8月30日（日）
+#region(開く,open)
+#size(80%){{{#table_style(head=#e6e6fa:center,hover=#ffffeb){}
+#table_filter(){時刻=show,関連=show,出来事=show,詳細=hide,備考=hide,動画=hide}
+//
+|~時刻|~関連|~出来事|~詳細|~備考|~動画|h
+
+//
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}}}
+#endregion(8/30)
+[[SandBox/練習ページ2]]

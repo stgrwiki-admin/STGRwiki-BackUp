@@ -1,0 +1,209 @@
+&image(TheArtemis.png,width=400,height=267,center)
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#600f18:#FFF){}
+|~店名|~&icon_fa(fa fa-wine-bottle)|&bold(){&ruby(){The Artemis}}|
+|~job名|~&icon_fa(fa fa-user-tag)|　|
+|~業種|~&icon_fa(fa fa-champagne-glasses)|キャバクラ／ナイトクラブ|
+|~開業日|~&icon_fa(fa fa-flag)|2026年8月22日&space()&small(){（&countup(2026/8/22,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|8067番地|
+|~オーナー|~&icon_fa(fa fa-user-tie)|&bold(){[[ザ！！！コーラボーイ！！！]]}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+#slide_img(auto=4,position=left,width=370,height=208,position=center){
+店内.webp,
+店内2.webp
+}
+-[[ザ！！！コーラボーイ！！！]]がオーナーを務める高級クラブ。
+-イベントとしてではなく定期的に開くお店として営業していく事を目指す。
+-キャバクラ⇔ホストクラブと営業形態を2週間おきに切り替える。
+
+-自作のホームページも公開中。[[リンク>>https://the-artemis-official.onrender.com/]]
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//
+//　　　　　　　従業員情報
+//
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*従業員情報
+***スタッフ一覧
+#region(開く,open)
+#table_style(head=#600f18:#FFF)
+|~役職|~名前|~就職日|~備考|h
+|オーナー|[[ザ！！！コーラボーイ！！！]]|2026/07/22||
+|スタッフ|[[トナ　カイ]]|2026/08/19||
+|スタッフ|[[丘猫　まる]]|2026/08/20||
+|スタッフ|[[安保　さぶ郎]]|2026/8/22||
+|スタッフ|[[テクス・ギルベルト]]|2026/8/22||
+|スタッフ|[[牧田　ここな]]|2026/8/22||
+|スタッフ|[[琵琶山　法師]]|2026/8/22|仮|
+|スタッフ|[[ライジングサン　宗介]]|2026/8/22|仮|
+|スタッフ|[[小此木　ナカバ]]|2026/8/22||
+|スタッフ|[[クリス・リエン>>ヤブ下　安理]]|2026/09/04||
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#endregion
+
+***キャスト一覧（キャバクラ）
+#region(開く,open)
+#table_filter(){源氏名=show,名前=hide,初出勤日=hide,備考=show}
+#table_style(head=#600f18:#FFF){No.=center}
+|源氏名|~名前|~初出勤日|~備考|h
+|聖母 れりあ|[[聖母　れりあ]]|2026/8/22||
+|&ruby(ダイアナ){大穴}|[[ブラック　ジャックス]]|2026/8/22||
+|なな|[[柚麦　とと]]|2026/8/22||
+|秀子|[[真島　ルイ]]|2026/8/22||
+|カグラ|[[神楽坂　レイナ]]|2026/8/22||
+|猫助|[[猫又　ぴぴ]]|2026/8/22||
+|スイカ|[[鴨葱　吸葉]]|2026/8/22||
+|あい|[[ヤシャ　ロア]]|2026/8/22||
+|リオレイア|[[王城　リレイ]]|2026/8/22||
+|ゆな|[[音凪　紬]]|2026/8/22||
+|光乃 あびす|[[光乃　あびす]]|2026/8/22||
+|にこ|[[千咲　にと]]|2026/8/22||
+//|源氏名|名前|初出勤日|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#endregion
+
+***キャスト一覧（ホスト）
+#region(開く,open)
+#table_filter(){源氏名=show,名前=hide,初出勤日=hide,備考=show}
+#table_style(head=#600f18:#FFF){No.=center}
+|源氏名|~名前|~初出勤日|~備考|h
+
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#endregion
+#co{
+//***職業体験者
+#region(開く)
+#table_style(head=#600f18:#FFF)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+#endregion
+}
+#co{
+//***退職者
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//
+//　　　　　　　メニュー・商品情報
+//
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*メニュー・商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***メニュー一覧
+#region(開く,open)
+#table_filter(){価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#600f18:#FFF){No.=center,価格=right}
+|~メニュー|~価格|~提供開始日|~商品説明|h
+|1set 20min|300,000|2026/08/22|　|
+|本指名料|500,000|2026/08/22|　|
+|場内指名料|300,000|2026/08/22|　|
+|VIP席 20min|2,000,000|2026/08/22|　|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***飲食商品一覧
+#region(開く,open)
+#table_filter(){種類=show,画像=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#600f18:#FFF){No.=center,価格=right}
+|~種類|画像|~商品名|~価格|~提供開始日|~商品説明|h
+|Drink|&image(コライナー.png,width=100,height=100)|コライナー|10,000|2026/8/22|うぇーいｗｗｗ|
+|Drink|&image(コライナー ココナッツ.png,width=100,height=100)|コライナー ココナッツ|10,000|2026/8/22|うぇうぇーいｗｗｗ|
+|Drink|&image(BLACK COLA.png,width=100,height=100)|BLACK COLA|50,000|2026/8/22|少し苦みのあるシャンパン|
+|Drink|&image(ROYAL COLA.png,width=100,height=100)|ROYAL COLA|100,000|2026/8/22|ザ!!!コーラ!!!を贅沢に使った至極の1本|
+|Drink|&image(GOLD COLA.png,width=100,height=100)|GOLD COLA|500,000|2026/8/22|金色に輝くピカピカシャンパン|
+|Drink|&image(GOD COLA.png,width=100,height=100)|GOD COLA|1,000,000|2026/8/22|神に選ばれた者のみが口にすることができる神酒|
+|Drink|&image(ドンペコラニオン.png,width=100,height=100)|ドン ペコラニオン|5,000,000|2026/8/22|この世のすべてを手に入れる者が最後に自ずと求める究極のシャンパン|
+|Food|&image(チーズ盛り合わせ.png,width=100,height=75)|チーズ盛り合わせ|10,000|2026/8/22|チーズたくさん食ってたら気持ち悪くなる瞬間あるよね|
+|Food|&image(ミックスナッツ.png,width=100,height=75)|ミックスナッツ|10,000|2026/8/22|ダイエットにいいって言われてますけど普通にカロリー高くてビビる|
+|Food|&image(生ハム盛り合わせ.png,width=100,height=75)|生ハム盛り合わせ|10,000|2026/8/22|生ハムの味を初めて知った時の衝撃たるや|
+|Food|&image(フルーツ盛り合わせ.png,width=100,height=75)|フルーツ盛り合わせ|10,000|2026/8/22|高級メロンってマジでビビる値段するときあるよね|
+|Food|&image(チョコレート盛り合わせ.png,width=100,height=75)|チョコレート盛り合わせ|10,000|2026/8/22|結局ホワイトチョコが1番うめぇんだよなぁ|
+|Joint||商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//
+#co(){
+***限定商品
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+//
+
+***メニュー画像
+#region(2026/08/22 メニュー,open)2026/08/22 メニュー
+&blankimg(メニュー.png,x=350,y=220)
+#endregion
+
+
+|&blankimg(TheArtemis_ポスター.jpg,x=210,y=300)|&image(TheArtemis_ポスター2.jpg,x=210,y=300)|
+|~&bold(){2026/08/22}|~&bold(){2026/09/05}|
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//
+//　　　　　　沿革
+//
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*沿革
+***2026年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード=show,備考=show}
+#table_style(head=#600f18:#FFF)
+|~日付|~出来事|~関係者|~エピソード|備考|h
+|05/13|物件購入完了|[[ザ！！！コーラボーイ！！！]]、[[ももみ]]、[[閃光寺　亜夢]]|建築士[[閃光寺>>閃光寺　亜夢]]制作の物件が導入された。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}動画>>https://youtu.be/ZvMZizhs3KY?si=sMrlsbsI7ZepvN4C]]|
+|05/24|ハウジング内装完成|[[ザ！！！コーラボーイ！！！]]、[[閃光寺　亜夢]]|建築士に依頼していたハウジングが完成する。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}動画①>>https://youtu.be/fXNewrFWYwo?si=v40Iyg5RFmzCAHaE]][[②>>https://youtu.be/4SfEgcb3s6Y?si=Bt73tUyDus5ygRic]][[③>>https://youtu.be/JTm88dxkncg?si=w_38mkoYyJTgJiti]][[④>>https://youtu.be/0GfXht-D5cw?si=k97YT9T0ocvvQlrx]]|
+|07/22|オーナー権限付与|[[ザ！！！コーラボーイ！！！]]、[[町田　ジョアンナ]]|市役所にて権限を受け取り、メニューを作成する|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}コーラボーイ視点>>https://youtu.be/VYl5odaSCiU?si=vuqAZIDAbh6X-r8I]]|
+|08/22|グランドオープン|　|キャバクラとして営業　|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}動画>>https://youtu.be/E9DQZo7IQWk?si=NKrNZMZ7GQ0jgGAS]]　|
+|09/05|ホストクラブ営業||||
+
+//
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

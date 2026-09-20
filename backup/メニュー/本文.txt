@@ -1,0 +1,329 @@
+このWikiでは『ストグラFV』、『ストグラFV Casual』の情報は収集しておりません。予めご了承ください。　ストグラWiki管理人より
+
+#include(管理人からのお知らせ)
+
+***編集を始める前に
+-[[ページ作成と編集ガイドライン]]
+-&link_anchor(メンバー申請,page=ページ作成と編集ガイドライン){メンバー登録申請時の注意点}&br()&color(red){&bold(){【申請時必読】}}
+
+**メニュー
+-[[トップページ]]
+-[[ストグラとは]]
+-[[ストグラに参加する方法]]
+-[[サーバールール]]
+-[[プレイ指針について]]
+
+-[[観測者の心得]]
+-[[二次創作について]]
+-[[ストグラ切り抜きについて]]
+**データベース
+//参加者一覧ページにて配信者本人からページ作成をしないようお願いがある方をリストしています。新規作成時はお手数ですがご確認をお願いいたします。
+#region([[参加者一覧]])&font(){}[[参加者一覧]]
+//表示名と実際のページ名が異なる方に⚠️をつけています。リンク設定時にはご注意ください。
+//---参加者一覧の下に表示されていたツリーについて、行数が多くなっていたので子ページ化しております
+//---今後は「参加者ツリー編集用」での編集をお願い致します（2025/12/21副管理人5）
+
+#include(メニュー/参加者ツリー編集用)
+
+・[[参加者一覧（season1）>参加者一覧/参加者一覧（season1）]]
+#endregion(参加者一覧)
+
+#region([[職業・施設一覧（Season1）>職業・施設一覧]])&font(){}[[職業・施設一覧]]
+//★記述の追加・変更・削除を行う時は「職業・施設一覧」ページ(https://w.atwiki.jp/streamergta5/pages/20.html)の更新もあわせてお願いします！
+//---職業・施設一覧（Season1）の下に表示されていたツリーについて、行数が多くなっていたので子ページ化しております
+//---今後は「職業施設S1ツリー編集用」での編集をお願い致します（2025/12/21副管理人5）
+
+#include(メニュー/職業施設S1ツリー編集用)
+#endregion(職業・施設一覧)
+
+#region([[職業・施設一覧（Season2）>職業・施設一覧（Season2）]])&font(){}[[職業・施設一覧（Season2）>職業・施設一覧（Season2）]]
+//★記述の追加・変更・削除を行う時は「職業・施設一覧」ページ(https://w.atwiki.jp/streamergta5/pages/3277.html)の更新もあわせてお願いします！
+
+#region(公務員)公務員
+#areaedit()
+-[[市長]]
+-[[市長補佐]]
+-[[救急救命隊>ロスサントス救急救命隊]]
+-[[警察官>ロスサントス警察]]
+--[[SWAT>https://w.atwiki.jp/streamergta5/pages/121.html#SWAT]](内部組織)
+-[[市役所職員]]
+--[[Fashion MiMi]] (洋服屋)
+--裁判官
+#areaedit(end)
+#endregion(公務員)
+
+#region(飲食店)飲食店
+#areaedit()
+-レストラン
+--[[acqua ovest]]
+--[[Urashima]]
+--[[Mellow Berry]]
+-専門料理店
+--[[くるくるバーガー>>カイリキバーガー]]
+--[[サニーケバブ]]
+-カフェ・スイーツ
+--[[LastJump in ParadiseLost]]
+--[[わんも〜Cafe]]
+--[[after U]]
+--[[喫茶ひまわり]]
+--[[魔法学校グリントアカデミー]]
+--[[よすが]]
+-パン屋
+--[[ベーカリー早苗]]
+-酒場
+--[[Club Passiona]]
+--[[魔女の酒場]]
+--[[FOWK]]
+--[[Confate]]
+--[[The Artemis]]
+-軽食
+--[[飯田書店]] &small(){(店舗内併設)}
+--[[川上たばこ店]] &small(){(店舗内併設)}
+-移動販売
+--[[たいがのごはん]]
+#areaedit(end)
+#endregion(飲食店)
+
+#region(車両・運輸)車両・運輸
+#areaedit()
+-タクシー会社
+--[[タクシー会社HQ（仮）>https://w.atwiki.jp/streamergta5/pages/3420.html]]
+-メカニック
+--[[【JTS】Joanna Techno Service>ジョアンナテクノサービス]]
+--[[【LUNA】LUNA garage>LUNA garage]]
+--[[【UGM】Usa Gimmick Motors>Usa Gimmick Motors]]&co(){メカニック整備後にディーラーも開業される予定}
+--[[【MBM】Mori no Bun-Bun Mechanic>森のぶんぶんメカニック]]
+--[[【GAIA】GAIA TECH AUTO>GAIA TECH AUTO]]
+--[[【A2】A2 Lab>A2 Lab]]
+-カーディーラー
+--[[無人車両販売所]]
+#co(){
+-高級車ディーラー
+-クラシックスポーツカーディーラー
+-バイクディーラー
+}
+#areaedit(end)
+#endregion(車両・運輸)
+//
+//#region(医療)医療
+//#areaedit()
+//#areaedit(end)
+//#endregion(医療)
+
+#region(金融機関、保険業)金融機関、保険業
+#areaedit()
+-消費者金融
+--[[BJローン]]
+-保険業
+--[[ぶろっと保険>>ブロッコリー　斎藤#ぶろっと保険]]
+#areaedit(end)
+#endregion(金融機関、保険業)
+
+#region(販売業)販売業
+#areaedit()
+-不動産屋
+--[[Wizardry Works]]
+-くじ屋
+--[[Lv.94]]
+-書店
+--[[飯田書店]]
+-たばこ屋
+--[[川上たばこ店]]
+-ネイル・コスメショップ
+--[[Ailemu]]
+-[[ガソリンスタンド]]
+-[[ペットショップ]]
+#areaedit(end)
+#endregion(販売業)
+
+#region(製造業)製造業
+#areaedit()
+-木こり（Lumber Jack）
+--[[渡戸林業]]
+//-工場
+//--[[月ノ鞄]]
+//　かばん屋は、01/09時点で開業申請予定と月ノ島ごう視点で確認
+#areaedit(end)
+#endregion(製造業)
+
+#region(サービス業)サービス業
+#areaedit()
+-[[カジノ]]
+--[[WAND BOX]]
+--[[Los Vegas>>https://w.atwiki.jp/streamergta5/pages/3460.html]]
+--[[VERTEX]]
+-芸能プロダクション・イベント会社
+--[[モンスターハウスプロダクション]]
+--[[COME UP SOON]]
+--[[ラニマ]]
+--[[AILES]]
+--[[株式会社NoMA>野間#株式会社NoMA]]
+-タレントスクール
+--[[ジョアンナタレントスクール]]
+-芸能団体(事務所未所属のもの)
+--[[おっさんずＷ]]
+--[[べりはぴ]]
+--[[ろすぷり]]
+--[[P-GIRLS>Pガールズ]]
+--[[めれにくす]]
+--[[SECRET]]
+--[[わざとじゃないもん！]]
+-探偵
+--[[H&B探偵事務所]]
+--[[エノテラ]]
+-デザイン制作
+--[[DASU]]
+--[[ALPHA LAB]]
+-映像制作
+--[[STADIO KATEJI>>STADIO KATEJI（スタジオカテジ）]]
+-ジョブマッチングサービス
+--[[わくワーク>>わくわくハピネス隊#わくワーク]]
+#region(廃業した会社)廃業した会社
+-芸能プロダクション・イベント会社
+--[[シャンクズプロモーション]]
+#endregion(廃業したお店)
+#areaedit(end)
+#endregion(サービス業)
+
+#region(メディア業)メディア業
+#areaedit()
+-記者
+--[[フリーReporter>記者]]
+--[[フリーGossip>記者]]
+-[[トレンディ公式]]
+-新聞
+--[[LOSTIMES>わくわくハピネス隊#LOSTIMES-ロスタイムズ-]]
+--[[LOSNEWS>わくわくハピネス隊#LosNews-ロスニュース-]]
+-ラジオ
+--[[ロスラジ>わくわくハピネス隊#ロスラジ]]
+#areaedit(end)
+#endregion(メディア業)
+
+#region(宗教団体)宗教団体
+#areaedit()
+-[[聖ヤマシタ教会]]
+#areaedit(end)
+#endregion(宗教団体)
+
+#region(市民協会)市民協会
+#areaedit()
+-市公認
+--[[公認勝手にレース協会]]
+--[[宝探し実行委員会]]
+-非公認
+--[[素材屋連盟]]
+#areaedit(end)
+#endregion(市民協会)
+
+#region(市民グループ)市民グループ
+#areaedit()
+-サークル系
+--[[キャミソール小隊]]
+--[[ウクレレ部]]
+--[[OVER JOKE]]
+-ファミリー系
+--[[ふぁ〜部]]
+-事業サポートギルド&co(){組織体系の記述を取り込んでみました}
+--[[わくわくハピネス隊]]
+#co(){
+-自治会系
+}
+#areaedit(end)
+#endregion(市民グループ)
+//Season1と同じ分類にしています。
+
+#region([[ギャング>ギャング（Season2）]])[[ギャング>ギャング（Season2）]]
+#areaedit()
+-[[餡ブレラ]]
+-[[麻陀羅組]]
+-[[868]]
+-[[hantasma]]
+-[[DERAY]]
+-[[SHIRAHA]]
+-[[玖雲]]
+-[[NOVA FAMILIA]]
+-[[チンピラギャング（仮）]]
+-[[わくわくハーデス隊]]
+#region(解散した主なギャング)解散した主なギャング
+-[[RqteL]]
+-[[NO LIMIT]]
+-[[極楽鳥花]]
+-[[第4宇宙速度]]
+#endregion(解散したギャング)
+#co(//非表示//){
+//#region(解散していない停止中のギャング)解散していない停止中のギャング
+//-[[Vendetta]](個別ページなし)
+//-[[Rose]]
+//#endregion(解散していない停止中のギャング)
+}
+#areaedit(end)
+#endregion(ギャング)
+
+#region(その他組織・グループ)その他組織・グループ
+#areaedit()
+-半グレ集団
+--[[闇鍋インパクト]](改名予定)
+//--[[Re×bellion]]
+//--[[Valhysea]]
+#areaedit(end)
+#endregion(その他組織)
+
+#region(裏組織)裏組織
+#areaedit()
+-秘匿組織
+--[[ARCANA]]
+-武器商
+--[[FEMME FATALE]]
+-麻薬カルテル
+--[[DEP]]
+-非認可医療組織
+--[[闇医者]]
+//-未分類グループ
+//--
+//#region(解散した組織)解散した組織
+//#endregion(解散した組織)
+#areaedit(end)
+#endregion(裏組織)
+//
+
+#endregion(職業・施設一覧（Season2）)
+
+-[[復帰プレイヤー]]
+-[[ロスサントスの犯罪について]]
+-[[ロスサントス裁判例]]
+
+-[[ロスサントス年表>年表]]
+-[[ストグラ用語集]]
+-[[スマホアプリ]]
+
+-[[特別番組・イベント・グッズ等]]
+-[[ストグラジオ]]
+-[[クリップ鑑賞会]]
+-[[視聴者向けストグラ交流鯖]]
+
+**その他
+-[[テンプレート(住人)]]
+-[[テンプレート(組織)]]
+-[[テンプレート(施設)]]
+#region([[編集相談所]]（[[現在のログ>編集用コメントページ]]）)&font(){}[[編集相談所]]（[[現在のログ>編集用コメントページ]]）
+#ls(編集相談所)
+#endregion(過去ログ)
+-[[SandBox（編集練習場）>>SandBox]]
+**関連サイト
+-[[ストグラ公式HP>>https://stgr.life/]]
+-[[ストグラ運営X>>https://twitter.com/stgr_roleplay]]
+-[[ストグラ公式Youtube>>https://www.youtube.com/@sutogura]]
+-[[ストグラ lit.link>>https://lit.link/stgr]]
+-[[ストグラROFL公式通販サイト>>https://store-rofl.com/?mode=cate&cbid=2880463&csid=0&sort=n]]
+-[[ストグラLINEスタンプ>>https://store.line.me/search/ja?q=%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9%E5%85%AC%E5%BC%8F]]
+-[[ストグラ開発本部 pixivFANBOX>>https://sutogura.fanbox.cc/]]
+-[[STGR Designs Official>>https://stgr-sdo.tebex.io/]]
+-[[しょぼすけwiki>>https://w.atwiki.jp/shobominecraft/]]
+-[[ストグラFV まとめ@非公式wiki>>https://w.atwiki.jp/fvstreamergta5/]]
+**非公式サイト・ツール
+-[[ストッチャー（WEB版）>>https://stgr-watcher.com/]]
+-[[ストッチャー（iOSアプリ版）>>https://apps.apple.com/jp/app/%E3%82%B9%E3%83%88%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC/id6749803386]]
+-[[ストッチャー（Androidアプリ版）>>https://play.google.com/store/apps/details?id=me.rigu.stgr_watcher]]
+-[[ストグラInfo>>https://stgr-info.com/]]
+----
+-[[管理人へのお問い合わせ>https://w.atwiki.jp/streamergta5/contact]]

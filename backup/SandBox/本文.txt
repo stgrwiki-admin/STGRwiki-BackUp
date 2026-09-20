@@ -1,0 +1,1103 @@
+&b(){編集練習用のSandBox（砂場）です。編集を挑戦してみたいけどいきなり実践は自信がない、新しいページやレイアウトを試作してみたけど皆の意見を聞きたいなど、誰でも使える練習場としてお使い下さい。}
+----
+//この行以下から自由にお使い下さい。
+#region(目次を開く,open)目次を閉じる
+#contents(fromhere=true,level=1)
+#endregion(目次)
+
+----
+*Tips
+**折り畳み
+#region(折り畳み,close)
+折り畳み（１行目をタイトルと同じ名前や「閉じる」などにしておくと親切です）
+
+#region(折りたたみ一覧と動作確認用)折りたたみ一覧と動作確認用
+#areaedit()
+#region(open,オープン設定)オープン設定
+
+<構文>
+&nowiki(){#region(open,オープン設定)オープン設定}
+&nowiki(){//折りたたみの本文}
+&nowiki(){#endregion(オープン設定に対応)}
+
+#endregion(オープン設定に対応)
+
+#region(close,クローズ設定)クローズ設定
+
+<構文>
+&nowiki(){#region(close,クローズ設定)クローズ設定}
+&nowiki(){//折りたたみの本文}
+&nowiki(){#endregion(クローズ設定に対応)}
+
+#endregion(クローズ設定に対応)
+
+#region(開閉状態･未指定)開閉状態･未指定
+
+開閉状態･未指定→クローズで動作
+
+<構文>
+&nowiki(){#region(開閉状態･未指定)開閉状態･未指定}
+&nowiki(){//折りたたみの本文}
+&nowiki(){#endregion(開閉状態･未指定に対応)}
+
+#endregion(開閉状態･未指定に対応)
+
+#region(open,remember,折りたたみ開閉状態を記憶 初回オープン)折りたたみ開閉状態を記憶 初回オープン
+
+初回オープンで動作指定
+
+<構文>
+&nowiki(){#region(open,remember,折りたたみ開閉状態を記憶 初回オープン)折りたたみ開閉状態を記憶 初回オープン}
+&nowiki(){//折りたたみの本文}
+&nowiki(){#endregion(折りたたみ開閉状態を記憶 初回オープンに対応)}
+
+#endregion(折りたたみ開閉状態を記憶 初回オープンに対応)
+
+#region(close,remember,折りたたみ開閉状態を記憶 初回クローズ)折りたたみ開閉状態を記憶 初回クローズ
+
+初回クローズで動作指定
+
+<構文>
+&nowiki(){#region(close,remember,折りたたみ開閉状態を記憶 初回クローズ)折りたたみ開閉状態を記憶 初回クローズ}
+&nowiki(){//折りたたみの本文}
+&nowiki(){#endregion(折りたたみ開閉状態を記憶 初回クローズに対応)}
+
+#endregion(折りたたみ開閉状態を記憶 初回クローズに対応)
+
+#region(remember,折りたたみ開閉状態を記憶 初回動作･未指定)折りたたみ開閉状態を記憶 初回動作･未指定
+
+初回動作･未指定→初回クローズで動作
+
+<構文>
+&nowiki(){#region(remember,折りたたみ開閉状態を記憶 初回動作･未指定)折りたたみ開閉状態を記憶 初回動作･未指定}
+&nowiki(){//折りたたみの本文}
+&nowiki(){#endregion(折りたたみ開閉状態を記憶 初回動作･未指定に対応)}
+
+#endregion(折りたたみ開閉状態を記憶 初回動作･未指定に対応)
+
+#areaedit(end)
+#endregion(折りたたみ一覧と動作確認用に対応)
+
+-[[atwikiコマンド一覧>>https://w.atwiki.jp/guide/pages/264.html]]
+--&b(){太字}
+--&i(){イタリック}
+--&u(){下線引き}
+--&s(){打ち消し線}
+--&sizex(+2){大きな文字} &sizex(-2){小さな文字}
+--&color(blue){色変更} &color(#FF6644){カラーコード指定も可能}
+--&font(b,i,u,20px,white,red){太字、イタリック、下線引き、20px、白字、赤背景}
+--同じ行での&br()改行
+--&nbsp(br,4)改行+スペース
+--文章中での&co(コメントアウト)
+--[[Wiki内へのページリンク>トップページ]]
+--[[Wiki外部へのページリンク>>https://www.google.com/]]
+--画像表示 &image(ストグラロゴ.png,width=200)
+#endregion(折り畳み練習：終わり)
+
+**他ページ取り込み
+#region(他ページ取り込み)他ページ取り込み
+
+-[[やりかた>>https://w.atwiki.jp/guide/pages/265.html#id_0fca712c]]
+-[[階層構造を持ったページ(子ページ)の作成方法]]
+
+こうすればメインページの容量がいっぱいの時に、サブページに追加したエピソードだけ書いてメインページに取り込めるかも？
+
+**編集用コメントページ
+#region(編集用コメントページ)
+#include(編集用コメントページ)
+#endregion
+
+**山下　ひろし
+#region(山下　ひろし)
+#include(山下　ひろし)
+#endregion
+#endregion(編集用コメントページ)
+
+**Twitter引用
+#region(Twitter引用)
+***実装例
+[[やり方はこちら>>https://w.atwiki.jp/guide/pages/266.html#id_9694e618]]
+#region(市長のツイート)
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">視聴者同士の交流用 <a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%BB%E3%83%95?src=hash&amp;ref_src=twsrc%5Etfw">#ストリーマーグラセフ</a> <br>Discordサーバーがあります！<br><br>・過去の分も含めたロスサントスのツイッターやインスタがリアルタイムで更新される！<br>・各配信者の配信予定が共有されて確認できる<br>・ネタバレありで感想が共有できる！<a href="https://t.co/1gJtMes7nl">https://t.co/1gJtMes7nl</a><br><br>ぜひご参加下さい！</p>&mdash; しょぼすけ / ShoboSuke (@ShoboLinco) <a href="https://twitter.com/ShoboLinco/status/1578252469968117760?ref_src=twsrc%5Etfw">October 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion
+
+#region(市長のツイート（Hide Conversation）)
+#twitter_widget3(){<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">ツイートのリンクが切れているのでこちらも更新しておきます<br><br>リスナー向け交流Discord<a href="https://t.co/egZW86U2Ex">https://t.co/egZW86U2Ex</a></p>&mdash; しょぼすけ / ShoboSuke (@ShoboLinco) <a href="https://twitter.com/ShoboLinco/status/1582448191575773184?ref_src=twsrc%5Etfw">October 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion
+
+***ゲーム内のツイートをツイート風に見せる
+ツイート風のHTMLを作成しても、実際のツイートがない場合は表示されません
+<a>タグに記載したURL先のツイートが出ます
+#region(テスト)
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツイート内容</p>&mdash; アカウント名 (@id) <a href="https://twitter.com/ShoboLinco/status/1578252469968117760?ref_src=twsrc%5Etfw">October 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion
+
+***引用（blockquote）で紹介
+#region()
+#blockquote(){&b(){Anzu Sanforest} @anzu - 2022/10/22
+また、IFAKS（フリスク）の
+販売も開始しました。こちら
+多少の傷の回復、鎮痛効果、
+ストレスの回復が可能な錠剤
+です。もちろんJOINTも販売
+しております！よろしくお願
+いします！！
+🔁　🤍 0}
+#endregion
+
+#endregion(Twitter引用)
+
+**情報の隠し方
+#region(情報の隠し方)
+***折りたたみ表示　region～endregion
+#region(ネタバレ注意)
+・ネタバレ情報
+・ネタバレ情報
+#endregion
+
+***表示切り替え　openclose
+・「表示」を押したら下に表示
+#openclose(){
+通常、この部分の文章は隠されています。「表示」のところを押せば表示されます。
+} 
+
+・「表示」の文字を変えたい場合
+#openclose(show=任意のタイトル){
+通常、この部分の文章は隠されています。「任意のタイトル」のところを押せば表示されます。
+}
+
+***インライン表示切替　openclose2
+・だれかの&openclose2(show=正体){（市長）}を隠したい場合や&openclose2(show=目的){「👁👁」}を秘匿したい場合など
+・文章途中を伏字にしつつ&openclose2(show=なにか){（[[別のページ>山下　ひろし]]や[[外部URLに誘導>>https://youtu.be/1MN80UMsKPM]]）}できる
+#endregion(情報の隠し方)
+
+----
+**色コード一部
+色指定のときに、黒ならblackか#000000と入力。
+#region(開く,close)
+閉じる
+|~色1|~サンプル1|~コード1|~色2|~サンプル2|~コード2|h
+|黒色|&font(black){黒色}|black/#000000|白色|&font(white,black){白色}|white/#ffffff|
+|灰色|&font(silver){灰色}|silver/#c0c0c0|桃色|&font(fuchsia){桃色}|fuchsia/#ff00ff|
+|赤色|&font(red){赤色}|red/#ff0000|紫色|&font(purple){紫色}|purple/#800080|
+|青色|&font(blue){青色}|blue/#0000ff|水色|&font(aqua){水色}|aqua/#00ffff|
+|緑色|&font(green){緑色}|green/#008000|黄緑|&font(lime){黄緑}|lime/#00ff00|
+|黃色|&font(yellow,black){黄色}|yellow/#ffff00|オレンジ色|&font(#ff9933){オレンジ色}|#ff9933|
+|茶色|&font(maroon){茶色}|maroon/#800000||||
+#endregion
+
+**使うかもしれない編集コマンド
+#region(開く,close)//使うかもしれない編集コマンド
+閉じる
+-[[atwikiコマンド一覧>>https://w.atwiki.jp/guide/pages/264.html]]
+●&font(u){青文字下線クリックで各説明ページへ　　}
+
+●よく使うコマンド（折りたたみ表示 / リンク / コメント）
+#region(開く,close)//よく使うコマンド
+閉じる
+●&font(u){[[折りたたみ表示>>https://w.atwiki.jp/guide/pages/269.html#id_6285de79]]　　}
+使用例:エピソードをまとめる、情報を隠す
+　#region(閉時のテキスト,初期openかclose)
+　ここに閉じる等書いておくと良いかも
+　テキスト
+　#endregion
+#region(開く,close)
+閉じる
+テキスト
+#endregion
+
+●&font(u){[[リンク>>https://w.atwiki.jp/guide/pages/931.html#id_1214d188]]　　}
+使用例:キャラページへのリンク、アーカイブへのリンクなど
+同ウィンドウ
+#nowiki(){　[[ページ名]]
+　[[テキスト>ページ名かURL]]
+}
+　[[参加者一覧]]
+別ウィンドウ
+#nowiki(){　[[テキスト>>ページ名かURL]]}
+　[[トップページ（別ウィンドウ）>>トップページ]]
+動画時間リンク
+&font(#DA1725){&icon_fa(fa fa-youtube-play)}YouTube:共有からコピーしたURL?t=秒数（1時間なら3600） 又は、URL?t=時間h分数m秒数s 
+　&nowiki(){　例：[[～～のシーン>>共有URL?t=90]]　}
+　&nowiki(){　例：[[～～のシーン>>共有URL?t=0h18m5s]]　}
+　　[[チュートリアルver.1「キャラメイク」>>https://youtu.be/5Y1loNM-jHw?t=68]]
+&font(#6441A4){&icon_fa(fa fa-twitch)}Twitch:URL?t=時間h分数m秒数s 
+　&nowiki(){　例：[[～～のシーン>>URL?t=0h28m5s]]　}
+　　[[裁判長のおしごともできる市長「裁判開始」>>https://www.twitch.tv/videos/1629414203?t=0h15m50s]]
+
+
+●&font(u){[[コメント>>https://w.atwiki.jp/guide/pages/265.html#id_67254459]]　　}
+使用例:編集ページ用のメモ
+　//テキスト
+　#co{
+　テキスト
+　複数行
+　}
+と書くとページには表示されず
+編集ページのみで見える。
+//コメント
+#co{
+コメント
+複数行
+}
+#endregion//よく使うコマンド
+
+●&font(u){表の作成・装飾・列の表示/非表示切り替え・降順/昇順切り替え・自動連番　　}
+使用例:プロフィール、アーカイブ、名簿など
+#region(開く,close)//表の作成
+閉じる
+●&font(u){表の作成　　}
+　|~見出し1|~見出し2|h
+　|2022/1/1|あいう|
+　のように見出しのまえに~(チルダ)
+　見出し行の末尾にhを書く
+|~見出し1|~見出し2|h
+|2022/1/1|あいう|
+|2022/2/2|かきく|
+
+●&font(u){[[表の装飾>>https://w.atwiki.jp/guide/pages/265.html#id_d331d072]]　　}
+　表の直前に#table_style(){}
+#table_style(head=#ddd,center,b){見出し1=#AAFFFF}
+|~見出し1|~見出し2|h
+|2022/1/1|あいう|
+|2022/2/2|かきく|
+
+●&font(u){[[列の表示/非表示切り替え>>https://w.atwiki.jp/guide/pages/265.html#id_8244bfc8]]　　}
+　表の直前#table_filter(){}
+#table_filter(){見出し1=show,見出し2=hide}
+|~見出し1|~見出し2|h
+|2022/1/1|あいう|
+|2022/2/2|かきく|
+
+●&font(u){[[降順/昇順切り替え>>https://w.atwiki.jp/guide/pages/265.html#id_ab6d9c89]]　　}
+　表の直後に#table_sorter(){}
+|~見出し1|~見出し2|h
+|2022/1/1|あいう|
+|2022/2/2|かきく|
+#table_sorter(){}
+
+●&font(u){[[表の自動連番>>https://w.atwiki.jp/guide/pages/265.html#id_df582661]]　　}
+　表の直後に#table_autoincrement(){}
+|~見出し1|~見出し2|h
+|2022/1/1|あいう|
+|2022/2/2|かきく|
+#table_autoincrement(){label=No,start=100,inc=10}
+#endregion//表の作成
+
+1〜5（改行 / 目次 / ページ内移動 / 見出し / 見出しの文字を強調解除）
+#region(開く,close)//1〜5
+閉じる
+●&font(u){[[改行>>https://w.atwiki.jp/guide/pages/265.html#id_ef4a87a1]]　　}
+使用例:表での改行など
+#nowiki(){　テキスト&br()テキスト}
+あいう&br()えお
+
+●&font(u){[[目次>>https://w.atwiki.jp/guide/pages/2912.html]]　　}
+　#contents(level=2)数字は見出しの前の*の数
+目次
+#contents(level=1)
+
+●&font(u){[[ページ内移動>>https://w.atwiki.jp/guide/pages/931.html#id_6cf25dbb]]　　}
+使用例:目次まで戻すなど
+#nowiki(){　&aname(アンカー名,option=nolink){テキスト}
+
+　&link_aname(アンカー名){テキスト}
+}
+&aname(アンカー1,option=nolink){テスト}
+
+
+&link_aname(アンカー1){テストへ}
+
+●&font(u){[[見出し>>https://w.atwiki.jp/guide/pages/2912.html]]　　}
+　*を見出しにしたい文字の前につける(つけた数で見た目や役割が変わる)
+　**見出し
+　***見出し2
+//**見出し
+//***見出し2
+//Tipsの編集画面が途中で途切れてしまうためコメントアウトしました。確認する時はコメントアウトを一時的に解除してください
+
+●&font(u){[[見出しの文字を強調解除>>https://w.atwiki.jp/guide/pages/265.html#id_2b8d1db6]]　　}
+#nowiki(){　&nobold(){テキスト}}
+//**見出し&nobold(){テキスト}です。
+//Tipsの編集画面が途中で途切れてしまうためコメントアウトしました。確認する時はコメントアウトを一時的に解除してください
+#endregion//1〜5
+
+6〜10（プルダウンリンク / 文字装飾 / ルビ振り / 水平線 / 更新日）
+#region(開く,close)//6〜10
+閉じる
+●&font(u){[[プルダウンリンク>>https://w.atwiki.jp/guide/pages/269.html#id_db97330f]]　　}
+使用例:いくつかのリンクをまとめる
+#nowiki(){　#pulldown_jump(ページ名1,[[テキスト>URLかページ名]],...)
+}
+#pulldown_jump(sandbox,[[参加者一覧>https://w.atwiki.jp/streamergta5/pages/19.html]])
+
+●&font(u){[[文字装飾>>https://w.atwiki.jp/guide/pages/265.html#id_f2292d4f]]　　}
+使用例:文字の斜体・太字・上線・下線・消し線・文字色・背景色・サイズ変更
+#nowiki(){　&font(i,b,o,u,l,文字色,背景色,サイズpx){テキスト}
+　&font(i,b,u){テキスト2}
+}
+&font(i,b,o,u,l,lime,black,18px){テキスト}
+&font(i,b,u){テキスト2}
+
+●&font(u){[[ルビ振り>>https://w.atwiki.jp/guide/pages/265.html#id_b0c7a223]]　　}
+使用例:名前など
+#nowiki(){　&ruby(ルビ){テキスト}}
+&ruby(ルビ){テキスト}
+
+●&font(u){[[水平線>>https://w.atwiki.jp/guide/pages/265.html#id_3bc7dc19]]　　}
+使用例:区切り線
+　----
+----
+
+●&font(u){[[更新日>>https://w.atwiki.jp/guide/pages/271.html#id_91e020c7]]　　}
+#nowiki(){　&update(format=Y/m/d H:i:s,別ページ名)}
+Y年/m月/d日 H時:i分:s秒　
+書いたページの更新日ならページ名は書かなくてよい
+&update(format=Y/m/d H:i:s)
+#endregion//6〜10
+
+11〜15（別ページ取り込み / カウントダウン・アップ / 上・下付き文字 / 左・右・中央揃え / 新着表示）
+#region(開く,close)//11〜15
+閉じる
+●&font(u){[[別ページ取り込み>>https://w.atwiki.jp/guide/pages/269.html#id_b47ea3bb]]　　}
+使用例:ページ内容を別ページに分け容量節約
+　#inc(ページ名)
+#region(開く（参加者一覧）,close)
+閉じる
+#inc(参加者一覧)
+#endregion
+
+●&font(u){[[カウントダウン・アップ>>https://w.atwiki.jp/guide/pages/271.html#id_5b454a88]]　　}
+使用例:イベント、記念日など
+#nowiki(){　2026年まであと&countdown(2026/01/01,v)です。
+　22世紀まであと&countdown(2101/01/01,yd)です。
+　市長の転居日8/28から&countup(2022/08/28,yd)経過してます。
+}
+2026年まであと&countdown(2026/01/01,v)です。
+22世紀まであと&countdown(2101/01/01,yd)です。
+市長の転居日8/28から&countup(2022/08/28,yd)経過してます。
+
+●&font(u){[[上・下付き文字>>https://w.atwiki.jp/guide/pages/265.html#id_f0653a46]]　　}
+#nowiki(){　10cm&sup(){上付き文字}
+　CO&sub(){下付き文字}
+}
+　10cm&sup(){3}
+　CO&sub(){2}
+
+●&font(u){[[左・右・中央揃え>>https://w.atwiki.jp/guide/pages/265.html#id_00d90efc]]　　}
+　#left(){テキスト}
+　#right(){テキスト}
+　#center(){テキスト}
+#left(){テキスト}
+#right(){テキスト}
+#center(){テキスト}
+
+●&font(u){[[新着表示>>https://w.atwiki.jp/guide/pages/269.html#id_bb8cccf4]]　　}
+#nowiki(){　5日以内ならNew、1日以内ならNew!と表示
+　　&new(日付)
+　日時がtime時間以内は文字と色を決め表示
+　　&new2(日時,time=数字,show=テキスト,color=文字色red等)
+　ページの最終更新がtime時間以内は文字と色を決め表示
+　　&new3(time=数字,show=テキスト,color=文字色red等)
+}
+#endregion//11〜15
+
+16〜20（現在のページ名表示 / Font Awesomeのアイコンフォントを表示する）
+#region(開く,close)//16〜20
+閉じる
+●&font(u){[[現在のページ名表示>>https://w.atwiki.jp/guide/pages/269.html#id_c2e46635]]　　}
+#nowiki(){　&this_page()}
+&this_page()
+
+●&font(u){[[Font Awesomeのアイコンフォントを表示する>>https://w.atwiki.jp/guide/pages/265.html#id_33a4597b]]　　}
+#nowiki(){　&icon_fa(Font Awesomeのclass名)}
+&icon_fa(fa fa-user)
+
+[[Font Awesome ver.6.5.1>>https://fontawesome.com/search?o=r&m=free]]のアイコンフォントを表示する。
+[[オプション>>https://fontawesome.com/docs/web/style/animate]]も利用可能。
+&icon_fa(fa-solid fa-gamepad fa-2x fa-spin)
+#endregion//16〜20
+
+#endregion//使うかもしれない編集コマンド
+----
+**画像スライド
+画像スライド
+#region(開く)&b(){閉じる}
+#expand(450){
+#img_slide()
+}
+　#img_slide()
+(空欄)だとこのページの画像がスライドになる。
+()にページ名を入れて別ページも指定できる。
+(anbrella(餡ブレラ))：()の干渉で別ページからの指定はできないが、anbrella(餡ブレラ)のページ内ではできる。
+※アップロードした画像名にアポストロフィ(')は使用不可
+
+#endregion(画像スライド)
+**ページ作成
+#region(新規ページ,close)
+新規ページ
+左メニュー&参加者一覧に名前の追加→　
+参加者一覧ページから追加した名前をクリック
+→「(キャラ名)」を既存ページのコピーから作成する→「テンプレート」で検索・決定→ページの作成
+#endregion
+
+#region(追加ページ,close)
+子ページ(ページの上のパンくずリスト(〜>〜>)でつながる、子ページ用のコマンドが使える)
+大元にするページ(キャラページなど)へ移動→上の方にある新規作成 → 新規ページ作成(その他)→ このページの子ページを作成→親ページ名/子ページ名(キャラ名/エピソード1など)で新規ページ作成
+#endregion
+
+*その他
+//
+// 2022/11/01 記述
+//議論・反映が完了した提案を整理しました。
+//ログを見たい方、再議題として再利用したい場合はアーカイブからの参照をお願い致します
+//
+**折り畳み表示の挙動について
+長くなったので折りたたみました。
+#openclose(show=【クリック/タップで表示】,border:none;,margin:none;,padding:none;){
+#size(50%){　}
+regionを入れ子で使用し、内側のregionに*で見出しを入れた場合に、&exp(){&br()}横向きのスクロールバーが現れる現象(PC表示のみ？)の検証。
+原因としては、恐らくregionの表示幅=一番長い文章の幅として規定をしているが、編集マークが文字として認識されないことだと思われる。
+この現象は編集マークが表示されない記事編集画面では確認できず、保存して記事のページに戻って初めて確認できる。
+発生状況としては、エピソード欄(年のregionの内側に月のregionを入れ、その中に***で日ごとの表題を作成するケース)が多いだろうか。
+
+
+#region(open,親リージョン)
+親リージョン
+***ここでは発生しない
+#region(子リージョン)
+子リージョン
+****小見出し　ここでスクロールバーが発生
+#region(本文)
+閉じる
+なお、スクロールバー発生regionよりも広いregionが親子問わずどこかで開いているとスクロールバーは消滅する。
+本文による横広幅は問題なく表示される模様。(編集マークが存在しない為)
+#endregion(本文)
+
+#region(孫リージョン)
+孫リージョン
+****入れ子の内側になっている場合はどの段階でも発生
+#endregion(孫リージョン)
+
+#region(孫リージョン2)
+孫リージョン2
+****入れ子の内側になっている場合はどの段階でも発生　　　　　　　　　
+応急的な解決策として、
+本文の終わりに長くスペースを打つことにより、
+幅を伸ばして編集マークが表示されるようにできる。
+その代わりにスマホ表示だと文末の空白が大きくなる。
+・スペースのみだと文字としてカウントされないため、&br()何かしらのプラグインで囲むか、&br()Spaceプラグインの使用を推奨。
+&co(){ここにスペース→}&font(){　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　}
+#endregion(孫リージョン2)
+#endregion(子リージョン)
+#endregion(親リージョン)
+
+子リージョン内本文に記載している通り、親子問わず横幅が広いregionがどこかにあればスクロールバーの発生は抑えられるので、
+一番親のregionと対になるendregionの直前に長くスペースを打てばその中のregion全てに反映される。
+
+#region(#expandプラグインについて)閉じる
+#expand(1000){&nowiki(){#expand}プラグインを使用して表示幅を定義する手段もあるが、数値が固定されることでウィンドウサイズに合わせての自動折り返しがされなくなるため、幅が広くなるとスクロールバーが発生し、狭いとページの横幅が余ってしまうという事態が起きてしまう。
+(例として、この部分の表示幅は1000に設定している)}
+#endregion
+
+
+
+また、X(旧Twitter)の埋め込みをregion内に入れると表示が小さくなる。
+こちらも原因は上記と同様に文章の横幅に依存しているためであり、恐らく下記(再現)のようなツイート読み込み前のプラグイン文章の幅が反映されている。
+
+>loading tweet…
+>― ストグラ運営 (@STGR_RolePlay) &color(#0066dc){September 24, 2023}
+　↑の文章の幅が反映
+
+
+ポスト埋め込みサイズ比較
+#openclose(show=【通常】 ※opencloseプラグインで格納した場合も同サイズ,block,border: 0px solid #ccc;){
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a></p>&mdash; ストグラ運営 (@STGR_RolePlay) <a href="https://twitter.com/STGR_RolePlay/status/1705959013211599309?ref_src=twsrc%5Etfw">September 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+}
+
+#region(open,region内ポスト埋め込み)
+region内ポスト埋め込み
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a></p>&mdash; ストグラ運営 (@STGR_RolePlay) <a href="https://twitter.com/STGR_RolePlay/status/1705959013211599309?ref_src=twsrc%5Etfw">September 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion
+
+
+こちらも上記の孫リージョン2と同様に、regionの中に長くスペースを打つか、
+プラグイン内の日付の記述を長くすることにより、サイズの拡大ができる模様。
+
+#region(region内ポスト埋め込み　スペースでサイズ調整後)
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a></p>&mdash; ストグラ運営 (@STGR_RolePlay) <a href="https://twitter.com/STGR_RolePlay/status/1705959013211599309?ref_src=twsrc%5Etfw">September 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+&co(){ここにスペース}&font(){　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　}
+#endregion
+
+#region(region内ポスト埋め込み　プラグイン内の日付にスペースを入れてサイズ調整後) 
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a></p>&mdash; ストグラ運営 (@STGR_RolePlay) <a href="https://twitter.com/STGR_RolePlay/status/1705959013211599309?ref_src=twsrc%5Etfw">　　　　　　　　　　　September 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion
+
+
+逆に標準の表示だと大きすぎるという場合には、#expandプラグインで表示幅を縮める手段がある。
+例：#expandプラグインで表示幅を350に設定
+#expand(350){#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a></p>&mdash; ストグラ運営 (@STGR_RolePlay) <a href="https://twitter.com/STGR_RolePlay/status/1705959013211599309?ref_src=twsrc%5Etfw">September 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+}
+}
+----
+**未作成リンクリスト
+-&font(85%){99％誤植(半角スペースや誤字)なので、wiki内検索して編集で修正していくと練習になるかも。}
+#region(開く)&b(){閉じる}
+#size(80%){{{
+#yetlist(50,ref)
+}}}
+//修正数が少なく済むものを探すため、表示数を20から50に変更する一方で全体的なサイズを縮小することでスクロールの影響を下げる試みをしました。
+//記述元ページへのリンクを表示を表示するパラメーターを追加しました
+#endregion(未作成リンクリスト)
+//
+----
+**リンク画像確認リスト
+-別サイト(Discord)の画像を引用しているページを確認するためのリストです。&br()編集で修正していくと練習になるかも。
+#region(開く,open)&b(){閉じる}
+#size(80%){{{
+「cdn.discordapp.com」
+#list_by_search(target=withbody,sort=create, errmsg=もうないかも？,20,cdn.discordapp.com)
+「media.discordapp.net」
+#list_by_search(target=withbody,sort=create, errmsg=もうないかも？,20,media.discordapp.net)
+}}}
+#endregion(リンク画像確認リスト)
+//
+----
+
+*練習場所
+#areaedit()//(部分編集の開始)
+&b(){練習場所リンク}　&co(){&font(b,u,Blue){現在空き：２・３・５・６・７．８・１０・１１・１２・１３・１４・１５・練習ページ}}
+|[[１>#練習１]]/[[２>#練習２]]/[[３>#練習３]]/[[４>#練習４]]/[[５>#練習５]]/[[６>#練習６]]/[[７>#練習７]]/[[８>#練習８]]/[[９>>#練習９]]/[[１０>>#練習１０]]/[[１１>#練習１１]]/[[１２>#練習１２]]/[[１３>#練習１３]]/[[１４>#練習１４]]/[[１５>#練習１５]]/[[練習ページ>SandBox/練習ページ]]|
+#areaedit(end)//(部分編集の終了)
+//
+**&aname(練習１,option=nolink){練習場所１}
+※2025/12/19時点で練習３、練習７、練習８に記載されていたものは、練習１へ転記しております。下記参照してください
+　練習場所の空き調整のため、ご協力をお願いいたします
+#region(Font Awesome Stackingテスト)Font Awesome Stackingテスト
+|>|>|>|>|>|>|>|~Font Awesome Stackingテスト|
+|&spanclass(fa-stack){&color(#000000){&icon_fa(fa fa-camera fa-stack-1x)}&color(#F54738){&icon_fa(fa fa-ban fa-stack-2x)}}|For Your Eyes Only|&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-heart fa-stack-2x)}&color(#FFFFFF){&icon_fa(fa fa-bolt fa-stack-1x fa-lg)}}|失恋|&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-heart-o fa-stack-2x)}&color(#3B4EF0){&icon_fa(fa fa-handshake-o fa-stack-1x fa-lg)}}|飾り握手|BGCOLOR(#000000):&spanclass(fa-stack){&color(#FFFFFF){&icon_fa(fa fa-square fa-stack-2x)}&color(#F54738){&icon_fa(fa fa-id-card-o fa-stack-2x)}}|白抜きID|
+|&spanclass(fa-stack){&color(#3B4EF0){&icon_fa(fa fa-motorcycle fa-stack-1x fa-lg)}&color(#F54738){&icon_fa(fa fa-ban fa-stack-2x)}}|バイク禁止|&spanclass(fa-stack){&color(#000000){&icon_fa(fa fa-square-o fa-stack-2x)}&color(#F54738){&icon_fa(fa fa-check fa-stack-2x)}}|黒枠赤チェック|&spanclass(fa-stack){&color(#3B4EF0){&icon_fa(fa fa-shield-halved fa-stack-2x)}&color(#F54738){&icon_fa(fa fa-star-o fa-stack-1x fa-lg)}}|飾り警察|BGCOLOR(#000000):&spanclass(fa-stack){&color(#FFFFFF){&icon_fa(fa fa-circle fa-stack-1x)}&color(#F54738){&icon_fa(fa fa-youtube-play fa-stack-2x)}}|白抜きYT|
+|&spanclass(fa-stack){&color(#000000){&icon_fa(fa fa-user-secret fa-stack-1x fa-lg)}&color(#F54738){&icon_fa(fa fa-ban fa-stack-2x)}}|ギャング禁止|&spanclass(fa-stack){&color(#000000){&icon_fa(fa fa-square fa-stack-1x)&icon_fa(fa fa-person fa-stack-2x)}&color(#F54738){&icon_fa(fa fa-user-secret fa-stack-2x)}}|黒目ギャング|&spanclass(fa-stack){&color(#3B4EF0){&icon_fa(fa fa-circle-o fa-stack-2x)}&color(#3eb370){&icon_fa(fa fa-users fa-stack-1x)}}|飾り人々|BGCOLOR(#000000):&spanclass(fa-stack){&color(#FFFFFF){&icon_fa(fa fa-circle fa-stack-2x)}&color(#F54738){&icon_fa(fa fa-info-circle fa-stack-2x)}}|白抜きINFO|
+|&spanclass(fa-stack){&color(#000000){&icon_fa(fa fa-mobile fa-stack-1x fa-lg)}&color(#F54738){&icon_fa(fa fa-ban fa-stack-2x)}}|スマホ禁止|&spanclass(fa-stack){&color(#000000){&icon_fa(fa fa-user-secret fa-stack-2x)}&color(#F54738){&icon_fa(fa fa-question fa-stack-1x fa-lg)}}|Unknown|&spanclass(fa-stack){&color(#3B4EF0){&icon_fa(fa fa-circle-o fa-stack-2x)}&color(#3eb370){&icon_fa(fa fa-cutlery fa-stack-1x)}}|飾りレストラン|BGCOLOR(#000000):&spanclass(fa-stack){&color(#FFFFFF){&icon_fa(fa fa-heart fa-stack-2x)}&color(#F54738){&icon_fa(fa fa-heartbeat fa-stack-2x)}}|白抜きバイタル|
+|&spanclass(fa-stack){&color(#3B4EF0){&icon_fa(fa fa-dove fa-stack-1x fa-lg)}&color(#F54738){&icon_fa(fa fa-ban fa-stack-2x)}}|鳩禁止|&spanclass(fa-stack){&color(#3eb370){&icon_fa(fa fa-circle fa-stack-2x)}&color(#3B4EF0){&icon_fa(fa fa-globe fa-stack-2x)}}|地球|BGCOLOR(#000000):&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-suitcase fa-stack-2x)}&color(#FFFFFF){&icon_fa(fa fa-medkit fa-stack-2x)}}|白抜き救急鞄|BGCOLOR(#000000):&spanclass(fa-stack){&color(#FFFFFF){&icon_fa(fa fa-flag fa-stack-2x)}&color(#F54738){&icon_fa(fa fa-flag-checkered fa-stack-2x)}}|白抜きフラッグ|
+|&spanclass(fa-stack){&color(#3B4EF0){&color(#F54738){&icon_fa(fa fa-ban fa-stack-2x)}&icon_fa(fa fa-random fa-rotate-270 fa-stack-1x fa-lg)}}|車線変更禁止|&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-coffee fa-stack-2x)}&color(#FFFFFF){&icon_fa(fa fa-paw fa-stack-1x)}}|猫カフェ|BGCOLOR(#000000):&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-truck fa-stack-2x)}&color(#FFFFFF){&icon_fa(fa fa-ambulance fa-stack-2x)}}|白抜き救急車|BGCOLOR(#000000):&spanclass(fa-stack){&color(#FFFFFF){&icon_fa(fa fa-battery fa-stack-2x)}&color(#F54738){&icon_fa(fa fa-battery-1 fa-stack-2x)}}|白抜きバッテリー1|
+|&spanclass(fa-stack){&color(#3B4EF0){&color(#F54738){&icon_fa(fa fa-ban fa-stack-2x)}&icon_fa(fa fa-level-down fa-rotate-270 fa-stack-1x fa-lg)}}|右折禁止|&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-sun-o fa-stack-2x)}&color(#F54738){&icon_fa(fa fa-smile-o fa-stack-1x)}}|にっこり太陽|BGCOLOR(#000000):&spanclass(fa-stack){&color(#FFFFFF){&icon_fa(fa fa-shield fa-stack-2x fa-flip-horizontal)}&color(#3B4EF0){&icon_fa(fa fa-shield-halved fa-stack-2x)}}|白抜き警察|BGCOLOR(#000000):&spanclass(fa-stack){&color(#FFFFFF){&icon_fa(fa fa-file fa-stack-2x)}&color(#F54738){&icon_fa(fa fa-file-movie-o fa-stack-2x)}}|白抜き動画|
+|BGCOLOR(#000000):&spanclass(fa-stack){&color(#FFFFFF){&icon_fa(fa fa-shield fa-flip-horizontal fa-stack-2x)}&color(#3B4EF0){&icon_fa(fa fa-shield-halved fa-stack-2x)}&color(#FFFFFF){&icon_fa(fa fa-star fa-stack-1x fa-lg)}&color(#3B4EF0){&icon_fa(fa fa-star-o fa-stack-1x fa-lg)}}|>|>|星飾り白抜き警察(4スタック)|BGCOLOR(#000000):&spanclass(fa-stack){&color(#FFFFFF){&icon_fa(fa fa-shield fa-flip-horizontal fa-stack-2x)}&color(#3B4EF0){&icon_fa(fa fa-shield-halved fa-stack-2x)}&color(#FFFF00){&icon_fa(fa fa-star fa-stack-1x fa-lg)}&color(#3B4EF0){&icon_fa(fa fa-star-o fa-stack-1x fa-lg)}}|>|>|飾り警察黄色星(4スタック)|
+
+カレンダー表示テスト
+
+&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(#F54738){&font(b,9){&spanclass(fa-stack-1x){SUN}}}}&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(blacl){&font(b,17){&spanclass(fa-stack-1x){24}}}}&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(){&bold(){&space()&space()&size(82%){Dec}}}}&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(){&bold(){&space()&space()&size(130%){20}}}}&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(){&bold(){&space()&space()&size(130%){23}}}}
+まで残り&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(){&bold(){&space()&size(130%){&countdown(2023/12/24,d,roundup)}}}}日
+&new2(2023/12/25 00:00:00,time=24,show=🎉🎂Happy Holidays🎂🎉,color=red)
+
+&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(){&bold(){&space()&space()&size(68%){Mon}}}}&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(){&bold(){&space()&space()&size(130%){01}}}}&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(){&bold(){&space()&space()&size(90%){Jan}}}}&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(){&bold(){&space()&space()&size(130%){20}}}}&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(){&bold(){&space()&space()&size(130%){24}}}}
+まで残り&spanclass(fa-stack){&color(#F54738){&icon_fa(fa fa-calendar-o fa-stack-2x)}&color(){&bold(){&space()&size(130%){&countdown(2024/01/01,d,roundup)}}}}日
+&new2(2024/01/01 12:00:00,time=12,show=Happy New Year 2024,color=red)
+
+FA仕様変更により微細な歪み発生
+#endregion(練習１ Font Awesome Stackingテスト)
+
+#region(注意書き時の「caution」テープ ※練習3からの転記)注意書き時の「caution」テープ ※練習3からの転記
+#center(){
+
+&sizex(6){&bgcolor(#ffff00){&sizex(7){&color(black){&b(){>>>>CAUTION>>>>}}}}}
+
+&sizex(6){&bgcolor(#ffff00){&sizex(7){&color(black){&b(){ / / / /  CAUTION / / / / }}}}}
+
+&sizex(6){&bgcolor(#000000){&sizex(7){&color(yellow){&b(){>>>>CAUTION>>>>}}}}}
+
+&sizex(6){&bgcolor(#000000){&sizex(7){&color(yellow){&b(){/ / / / CAUTION / / / / }}}}}
+
+}
+#endregion(注意書き時の「caution」テープ)
+
+#region(opencloseプラグインを応用した疑似的な装飾box　※練習７からの転記)opencloseプラグインを応用した疑似的な装飾box　※練習７からの転記
+#size(0%){#div(bgcolor=#282828,color=#FFFFFF){#openclose(show=　,block,margin:none;,padding:10px;,border:3px double #fac107;){#center(){#size(28px){&font(b,#FFFFFF,#735905){&size(15px){&space(3)&ruby(ここに表題){&size(20px){ここに表題}}&space(3)}}}}
+#size(14px){#size(50%){　}
+まずopencloseプラグインの表示部分を#sizeプラグインで0に指定し見えなくする。
+その後、opencloseの直前にdivプラグインでボックス内の背景色とフォント色を指定。
+opencloseのmarginをnoneに設定し、本文との隙間を無くす(指定して開けることも可)。
+opencloseのpaddingを設定し、枠と本文との隙間を設定。
+borderはsolidで1本線、doubleで2重線、他CSSの[[&font(#FFF,u){border-style &size(10){&icon_fa(fa fa-external-link)}}>>https://developer.mozilla.org/ja/docs/Web/CSS/border-style]]プロパティが使用可能。
+※ただし辺ごとの複数指定はできない模様
+このボックスではdoubleを適用している。
+
+最後にopenclose内テキストに#sizeプラグインでフォントサイズを再定義することで、
+冒頭のサイズ0%指定を上書き。
+このように本文を表示させることが可能。
+
+#center(){&video(https://www.youtube.com/watch?v=VlVfi3HoqyM,width=330,height=186)}
+#size(50%){　}
+動画やツイート埋め込みも挿入可
+
+}
+}}}
+
+#size(0%){#div(height=0px){#openclose(show=　,block,margin:2px;,padding:none;,border:none;){&font(25px,b,#666){テスト}}}}
+&font(25px,b,#DDD){テスト}
+#size(50%){　}
+&nowiki(){#div}プラグインを使った影付き文字のテスト
+
+[[【実際の使用例】>>https://w.atwiki.jp/streamergta5/pages/440.html#楽曲]]
+
+#endregion(似的な装飾box)
+
+#region(アンカーテスト　※練習8からの転記)アンカーテスト　※練習8からの転記
+[[SandBox#アンカーテスト1]]
+[[SandBox#アンカーテスト2]]
+
+#region(グループ1){グループ1}
+**&aname(アンカーテスト1)&b(){グループ1}
+・アンカーテスト1
+#endregion
+#region(グループ2){グループ2}
+**&aname(アンカーテスト2)&b(){グループ2}
+・アンカーテスト2
+#endregion
+#endregion(アンカーテスト　※練習8からの転記)
+
+**&aname(練習２,option=nolink){練習場所２}
+
+#region(タイトル見た目 案❶❷)#div(width=300px,bgcolor=#ea99c0){&space()&font(16px,b,#fff){タイトル見た目}}
+
+***&font(#c71585){編集関連}
+#pulldown_jump([[編集方法一覧>https://w.atwiki.jp/guide/pages/264.html]],[[アイコン一覧>https://fontawesome.com/search?o=r&m=free]],[[アイコンの動かし方>https://docs.fontawesome.com/web/style/animate]],[[カラーコード検索>https://encycolorpedia.jp]])
+
+**&font(25,#ea99c0){&font(35,#c71585){プ}ロフィール &icon_fa(fa fa-user)}
+**&font(25,#ea99c0){&font(35,#c71585){基}本情報 &icon_fa(fa fa-list)}
+**&font(25,#ea99c0){&font(35,#c71585){街}の住人 &icon_fa(fa-solid fa-users)}
+**&font(25,#ea99c0){&font(35,#c71585){車}両関係 &icon_fa(fa fa-car-side)}
+**&font(25,#ea99c0){&font(35,#c71585){ギ}ャラリー &icon_fa(fa fa-camera)}
+**&font(25,#ea99c0){&font(35,#c71585){ク}ローゼット &icon_fa(fa fa-user-tie)}
+**&font(25,#ea99c0){&font(35,#c71585){エ}ピソード &icon_fa(fa fa-book-open-reader)}
+**&font(25,#ea99c0){&font(35,#c71585){ア}ーカイブ &icon_fa(fa fa-video)}
+**&font(25,#ea99c0){&font(35,#c71585){公}式切り抜き &icon_fa(fa fa-cut)}
+**&font(25,#ea99c0){&font(35,#c71585){ス}トグラ外コラボ &icon_fa(fa fa-gamepad)}
+
+#hr(height=2,color=#d44f98)
+
+**&font(35,#e076ac){&icon_fa(fa fa-user-circle)} &font(25,#f3bcd5){プロフィール}
+**&font(35,#e076ac){&icon_fa(fa fa-brands fa-readme)} &font(25,#f3bcd5){基本情報}
+**&font(35,#e076ac){&icon_fa(fa-solid fa-children)} &font(25,#f3bcd5){人間関係}
+**&font(35,#e076ac){&icon_fa(fa-solid fa-car)} &font(25,#f3bcd5){車両関連}
+**&font(35,#e076ac){&icon_fa(fa fa-solid fa-image)} &font(25,#f3bcd5){アルバム}
+**&font(35,#e076ac){&icon_fa(fa fa-solid fa-black-tie)} &font(25,#f3bcd5){衣装倉庫}
+**&font(35,#e076ac){&icon_fa(fa fa-pen-clip)} &font(25,#f3bcd5){エピソード}
+**&font(35,#e076ac){&icon_fa(fa fa-folder-open)} &font(25,#f3bcd5){アーカイブ}
+**&font(35,#e076ac){&icon_fa(fa fa-film)} &font(25,#f3bcd5){切り抜き動画}
+**&font(35,#e076ac){&icon_fa(fa fa-microphone)} &font(25,#f3bcd5){コラボ}
+
+#endregion
+//
+#hr(height=2,color=#d44f98)
+//
+#region(毎日エピソードを書けない時の編集方法)&b(){毎日エピソードを書けない時の編集方法}
+特別なエピソードやキャラクターの人生を左右する出来事のみを書く方法
+**&font(25,#ea99c0){&font(35,#c71585){年}表 &icon_fa(fa fa-calendar-week)}
+#table_style(head=#ea99c0:#FFF:center)
+|~Day|出来事|エピソード|h
+|12/19|新たな世界線|人類の転送が完了し約3ヶ月ぶりに目覚める|
+
+**&font(35,#e076ac){&icon_fa(fa fa-book)} &font(25,#f3bcd5){ピックアップエピソード}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){&icon_fa(fa fa-bookmark)&space(3)Season1}&nbsp(10)}}
+****&color(#c71585){2025年}
+#region(12/19 新たな世界線)&b(){12/19 新たな世界線}
+-&b(){全人類の転送}
+転送後、約3ヶ月ぶりに目覚める。街を散策し住民と挨拶をした。
+#endregion(12/19)
+
+#endregion
+#region(その他 案)#div(width=300px,bgcolor=#ea99c0){&space()&font(16px,b,#fff){その他}}
+
+#center{
+**&font(25px,#c71585){&icon_fa(fa fa-heart-o)}　&font(25px,#ea99c0){タイトル}　&font(25px,#c71585){&icon_fa(fa fa-heart-o)}
+}
+
+#center{
+**&font(25px,#c71585){&sub(){&icon_fa(fa fa-heart-o)}}　&font(25px,#ea99c0){タイトル}　&font(25px,#c71585){&sup(){&icon_fa(fa fa-heart-o)}}
+}
+
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){　人物概要}&nbsp(10)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){　外見 特徴}&nbsp(9)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){　性格}&nbsp(17)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){　趣味 嗜好}&nbsp(9)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){　職業関連}&nbsp(10)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){　ライセンス}&nbsp(6)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){　過去}&nbsp(17)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){　その他}&nbsp(14)}}
+
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){　人物概要}&nbsp(60)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){　外見 特徴}&nbsp(59)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){　性格}&nbsp(67)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){　趣味 嗜好}&nbsp(59)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){　職業関連}&nbsp(60)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){　ライセンス}&nbsp(56)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){　過去}&nbsp(67)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){　その他}&nbsp(64)}}
+
+#hr(height=2,color=#d44f98)
+
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){&icon_fa(fa fa-check)&space(3)人物概要}&nbsp(10)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){&icon_fa(fa fa-check)&space(3)外見 特徴}&nbsp(9)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){&icon_fa(fa fa-check)&space(3)性格}&nbsp(17)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){&icon_fa(fa fa-check)&space(3)趣味 嗜好}&nbsp(9)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){&icon_fa(fa fa-check)&space(3)職業関連}&nbsp(10)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){&icon_fa(fa fa-check)&space(3)ライセンス}&nbsp(6)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){&icon_fa(fa fa-check)&space(3)過去}&nbsp(17)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){&icon_fa(fa fa-check)&space(3)その他}&nbsp(14)}}
+***&size(110%){&bgcolor(#ea99c0){&nbsp()&font(#fefefe,90%){&icon_fa(fa fa-check)&space(3)特記事項}&nbsp(10)}}
+
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){&font(#ea99c0){&icon_fa(fa fa-circle-check)}&space(2)人物概要}&nbsp(60)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){&font(#ea99c0){&icon_fa(fa fa-circle-check)}&space(2)外見 特徴}&nbsp(59)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){&font(#ea99c0){&icon_fa(fa fa-circle-check)}&space(2)性格}&nbsp(67)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){&font(#ea99c0){&icon_fa(fa fa-circle-check)}&space(2)趣味 嗜好}&nbsp(59)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){&font(#ea99c0){&icon_fa(fa fa-circle-check)}&space(2)職業関連}&nbsp(60)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){&font(#ea99c0){&icon_fa(fa fa-circle-check)}&space(2)ライセンス}&nbsp(56)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){&font(#ea99c0){&icon_fa(fa fa-circle-check)}&space(2)過去}&nbsp(67)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){&font(#ea99c0){&icon_fa(fa fa-circle-check)}&space(2)その他}&nbsp(64)}}
+***&size(110%){&bgcolor(#faddea){&nbsp()&font(#777777,90%){&font(#ea99c0){&icon_fa(fa fa-circle-check)}&space(2)特記事項}&nbsp(60)}}
+
+//　　　　　 👇🏻ここの数字で長さ変更
+#div(width=340px,color=#ffffff,bgcolor=#d44f98){&font(i,b,18px){&space(5)性格 特徴}}
+#region(開く)
+#areaedit()
+・情報を記述
+#areaedit(end)
+#endregion
+
+#div(width=340px,color=#ffffff,bgcolor=#d44f98){&font(i,b,18px){&space(5)趣味 嗜好}}
+#region(開く)
+#areaedit()
+・情報を記述
+#areaedit(end)
+#endregion
+
+#hr(height=2,color=#d44f98)
+
+***&font(o,u,b,#c71585,#faddea,16px){&space(2)タイトル&space(2)}
+***&font(o,u,b,#c71585,#faddea,18px){&space(2)タイトル&space(2)}
+
+***&font(18px,#c71585){■}&font(u,b,#d44f98){&space(2)タイトル&space(2)}
+***&font(20px,#c71585){■}&font(u,18px,b,#d44f98){&space(2)タイトル&space(2)}
+
+***&underdot(#e076ac,4px){&font(17px,#c71585){&icon_fa(fa fa-check-square)}&space(2)&font(b,#c71585){タイトル}&space(2)}
+***&underdot(#e076ac,5px){&font(17px,#c71585){&icon_fa(fa fa-check-square)}&space(2)&font(b,18px,#c71585){タイトル}&space(2)}
+
+***&underdot(#e076ac,4px){&font(#f3bcd5){&sup(){&icon_fa(fa fa-heart-o)}}&space(2)&font(#c71585){タイトル}&space(2)&font(#f3bcd5){&sub(){&icon_fa(fa fa-heart-o)}}}
+***&underdot(#e076ac,5px){&font(#f3bcd5){&sup(){&icon_fa(fa fa-heart-o)}}&space(2)&font(18px,#c71585){タイトル}&space(2)&font(#f3bcd5){&sub(){&icon_fa(fa fa-heart-o)}}}
+
+***&underdot(#e076ac,4px){&font(#c71585,#faddea,b){&space(2)タイトル&space(2)}}
+***&underdot(#e076ac,5px){&font(#c71585,#faddea,b){&space(2)&font(18px){タイトル}&space(2)}}
+
+&font(20px,#c71585){✿︙}
+
+&font(20px,#c71585){✿ ⁑ }
+
+&font(20px,#c71585){✿⌇}
+
+#hr(height=2,color=#d44f98)
+
+&font(i,#666,#faddea){「言葉 台詞 発言」}
+
+&font(i,b,#666,#faddea){「言葉 台詞 発言」}
+
+&font(i,#fff,#c71585){「言葉 台詞 発言」}
+
+&font(i,b,#fff,#c71585){「言葉 台詞 発言」}
+
+&space()&font(u,14px,b,#e076ac){&font(16px,#c71585){&icon_fa(fa fa-calendar-check-o)}&space()今日の日付:&today()}
+
+#hr(height=25,color=#e076ac)
+
+#marquee(ここに文字,left,size=30,bgcolor=#ea99c0,color=#ffffff)
+
+#marquee(💌,right,size=20,bgcolor=#ea99c0,color=#ffffff)
+
+
+***&underdot(#e076ac,5px){&space(2)&font(b,18px,#c71585){交友関係}&space(2)}
+#table_style(hover=#fbeaf0)
+|BGCOLOR(#ea99c0):|>|>|>||BGCOLOR(#ea99c0):|
+||~名前|~呼び方|~呼ばれ方|~詳細||
+|~|&b(){名前}|呼び方|呼ばれ方|詳細|~|
+|~|&b(){名前}|呼び方|呼ばれ方|詳細|~|
+|~|&b(){名前}|呼び方|呼ばれ方|詳細|~|
+|BGCOLOR(#ea99c0):|>|>|>||BGCOLOR(#ea99c0):|
+//|~|&b(){名前}|呼び方|呼ばれ方|詳細|~|
+
+***&underdot(#e076ac,5px){&space(2)&font(b,18px,#c71585){店名}&space(2)}
+#table_style(head=center:)
+|BGCOLOR(#ea99c0):|>|>||BGCOLOR(#ea99c0):|
+||MIDDLE:CENTER:BGCOLOR(#fbeaf0):&b(){店名}|MIDDLE:CENTER:BGCOLOR(#fbeaf0):&icon_fa(fa fa-store)|BGCOLOR(#fbeaf0):■■||
+|~|MIDDLE:CENTER:&b(){job名}|MIDDLE:CENTER:&icon_fa(fa fa-user-tag)|●●|~|
+|~|MIDDLE:CENTER:BGCOLOR(#fbeaf0):&b(){業種}|MIDDLE:CENTER:BGCOLOR(#fbeaf0):&icon_fa(fa fa-tag)|BGCOLOR(#fbeaf0):■■|~|
+|~|MIDDLE:CENTER:&b(){開業日}|MIDDLE:CENTER:&icon_fa(fa fa-calendar-check-o)|yyyy年mm月dd日&br()&small(){（&countup(yyyy/mm/dd,yd)）}|~|
+|~|MIDDLE:CENTER:BGCOLOR(#fbeaf0):&b(){所在地}|MIDDLE:CENTER:BGCOLOR(#fbeaf0):&icon_fa(fa fa-building-user)|BGCOLOR(#fbeaf0):■■|~|
+|~|MIDDLE:CENTER:&b(){オーナー}|MIDDLE:CENTER:&icon_fa(fa fa-id-badge)|●●|~|
+|~|MIDDLE:CENTER:BGCOLOR(#fbeaf0):&b(){店長}|MIDDLE:CENTER:BGCOLOR(#fbeaf0):&icon_fa(fa fa-id-card-clip)|BGCOLOR(#fbeaf0):■■|~|
+|~|MIDDLE:CENTER:&b(){無線番号}|MIDDLE:CENTER:&icon_fa(fa fa-walkie-talkie)|●●|~|
+|BGCOLOR(#ea99c0):|>|>||BGCOLOR(#ea99c0):|
+
+
+#left(){#table_style(head=#ffffff:100%, hover=#ea99c0)
+|~|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|~|
+|~|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|MIDDLE:CENTER:&youtube(https://youtu.be/i8IjlUE1Kd8?si=ouIR1gCMAqkuDTxx,width=390,height=219.375)|~|
+|~|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|BGCOLOR(#ffffff):|BGCOLOR(#fbeaf0):|~|
+}
+
+&font(16px,#e076ac){&icon_fa(fa fa-heart fa-fade)}　&font(16px,#e076ac){&icon_fa(fa fa-heart fa-beat)}　&font(16px,#e076ac){&icon_fa(fa fa-heart fa-beat-fade)}　&font(16px,#e076ac){&icon_fa(fa fa-heart fa-bounce)}　&font(16px,#e076ac){&icon_fa(fa fa-heart fa-shake)}　&font(16px,#e076ac){&icon_fa(fa fa-heart fa-flip)}　&font(16px,#e076ac){&icon_fa(fa fa-heart fa-spin)}
+
+#endregion(練習2)
+
+**&aname(練習３,option=nolink){練習場所３}
+#region(現在空き,close)閉じる
+
+
+
+
+#endregion(練習３に対応)
+
+
+**&aname(練習４,option=nolink){練習場所４}
+#region(使用中：smith2026/8/24,close)&b(){閉じる}
+
+**市民見聞録
+市民見聞録（仮）
+
+***趣旨
+街を賑わせた出来事を白市民視点でエピソードを収集。
+既存の個人ページや警察、救急隊、店舗、職業に収まらないエピソードもしくは事件のサイドストーリー。
+
+
+***編集注意事項
+可能な限り白市民視点で編集を行うこと。
+他ページでリンクを設定する際には&nolink([[名称>ページ名#エピソード#○○事件名]])をご利用ください。
+&u(){他人へ話す際や配信でコメントする際、情報漏洩（ネタバレや鳩コメント）にならぬようご注意ください。}
+
+***目次
+
+
+
+***エピソード
+****2026年
+#region(開く,open)
+//--------------------
+#region(ぼったくりキャバクラ,close)
+*****&aname(ぼったくりキャバクラ,option=nolink){}&font(b,120%){【ぼったくりキャバクラ】1/3～}&aname(ぼったくりキャバクラ)
+******&font(b,#FFFFFF,#2f4f4f){　概　要　}
+飲食店の飲食転売問題につながっていく初代エピソード。
+隠れ家的な接客サービス（ぼったくりキャバクラに見えるキャバクラ）を企画・運営。
+第1弾は参加者（ジョーカーや亀山ひろ、剛力たけし）を招き、接客（独自のサービス）を提供し、その後サービス内容に基づいて高額になった金額を請求した。
+その後、金額に納得できなかった亀山ひろが各所に助けを求める。その結果、予想外に提供されていた飲食商品が各飲食店の商品を高額販売したことを問題視されるようになっていく。
+黒も白も、様々な思惑も巻き込んで想像以上の珍事に発展していくのであった。
+
+******&font(b,#FFFFFF,#2f4f4f){　時系列／詳細　}
+1/3　ある男が企画の草案を語っている場面あり
+　[[ある男>蒲田　ヤバッキオ]]が地道なアルバイトから富の再分配（起床ごとに主張が変わるため真相は不明）として計画を考える。
+
+1/4「SecretNight」の第1弾開催
+　場所：8000番地
+　主催：[[セバスチャン(偽名)>蒲田　ヤバッキオ]]
+　接客：レイーカ(源氏名)>レイカ，なのーか(源氏名)>シュガーピーチ
+参加者：ジョーカー，亀山ひろ，剛力たけし、
+協力者：黒服①よだれだこ>チンピラ，黒服②>カイキ
+
+1/dd　飲食店会議
+
+1/17「SecretNight」の第2弾開催
+　場所：北の水上リゾート施設
+　主催：[[セバスチャン(偽名)>蒲田　ヤバッキオ]]
+　接客：(源氏名)>，(源氏名)>
+参加者：、
+協力者：黒服①よだれだこ>チンピラ，黒服②>カイキ|備考|
+
+1/
+
+
+******&font(b,#FFFFFF,#2f4f4f){　関連／波及　}
+ナポリタン転売事件
+レッサン警察復職（2026年8月）
+******&font(b,#FFFFFF,#2f4f4f){　関連動画　}
+#table_style(head=#2f4f4f:#F9FCFF)
+#table_filter(){投稿日=show,視点=show,動画=show,備考=hide}
+|~投稿日|~視点|~動画|~備考|h
+|/|視点|動画|備考|
+|1/18|大川視点|[[【ストグラ】店のナポリタンが闇キャバクラで高額転売!? 市長に現状や今後の対応について聞きに行く大川たち【切り抜き/しょぼすけ/豆腐ちゃん/やいちんさん/しゅりぺ/noon】>>https://youtu.be/tY5T002I2ks]]||
+|1/20|カイキ視点|[[【#ストグラ】ぼったくりキャバにカチコミ！？心に大きな傷を負う山田カイキ【かんせる/PIRA/さくまりる/カイキング】>>https://youtu.be/k2UmzZxXxKY]]||
+|1/20|亀山ひろ視点|[[【ストグラ2】地獄の違法キャバクラ襲撃事件【亀山HERO/シャンクズ/銭形やいち郎/豆やん/紫音ウィスタリア/山田カイキ/ヤバッキオ/Lv1チンピラ/トウユン/高橋滅論/タラちゃん/切り抜き】>>https://youtu.be/bDjmq6qis2o]]||
+|1/21|大川視点|[[【ストグラ】闇キャバクラに潜入する銭形と第三勢力の襲撃の話を警察にリークする大川【切り抜き/やいちんさん/しゅりぺ/豆腐ちゃん/BOIRA/ちゃげぽよ。】>>https://youtu.be/lYt9LJVSpLI]]||
+|1/22|カイキ視点|[[【#ストグラ】ぼったくりキャバ事件にギャングの血が騒ぎ強火になる山田カイキ【かんせる/PIRA/カイキング】>>https://youtu.be/yEHEIpfaVIg]]||
+|1/30|カイキ視点|[[【#ストグラ】ぼったくりキャバの件で激詰め→亀山Heroの寝返りに爆笑する山田カイキ【なつめ先生/kame/かんせる/カイキング】>>https://youtu.be/BSBNfKksv3o]]||
+|1/31|タラ視点|[[ぼったくりキャバクラとの最後の話し合いに乗り込むタラちゃん【ふぁんきぃ・焼野原ひろし・揚物ころも・高橋滅論・トウユン・小峯玲・ヤバッキオ・ハクナツメ・山田カイキ・脇逢魔】>>https://youtu.be/0GOxjVZRcbk]]||
+|2/2|トウユン視点|[[【ストグラ２】亀山HEROがヤバッキオ達に攫われてしまいぼっキャバの件が加速する>>https://youtu.be/y6p5d55NgSI]]||
+|2/2|トウユン視点|[[【ストグラSeason2】ぼったくりキャバクラ襲撃がバレ、ヤバッキオらと激しい応酬を繰り広げるトウユン【切り抜き/トウユン/タラちゃん/蒲田ヤバッキオ/ハクナツメ/山田カイキ】>>https://youtu.be/4Z2_AxT30Nk]]||
+|mm/dd|視点|動画|備考|
+//|mm/dd|視点|動画|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+
+#endregion(【ぼったくりキャバクラ】)
+//--------------------
+----
+//--------------------
+#region(ナポリタン転売事件,open)
+*****&aname(ナポリタン転売事件,option=nolink){}&font(b,120%){【ナポリタン転売事件】5/8～}&aname(ナポリタン転売事件)
+******&font(b,#FFFFFF,#2f4f4f){　概　要　}
+サニーケバブにて数量限定販売された商品について、アクアオベストで販売されているナポリタンを、商品についていた旗を差し替えて流用したものと発覚した出来事。
+他店との公式コラボではなく、企画・実行に関わったあげころ、上田（※サニーケバブ従業員ではない）に対して市民から重い非難や追及が集まる。
+白市民の店舗経営や信頼関係を巻き込んだ大きな話題となっていく。
+******&font(b,#FFFFFF,#2f4f4f){　時系列／詳細　}
+//日付出来事詳細備考
+5/8　サニーケバブで限定50個販売
+5/9　禊たこ焼き
+
+
+
+******&font(b,#FFFFFF,#2f4f4f){　関連／波及　}
+あげころUGMクビ
+上田あげころ結婚式
+
+******&font(b,#FFFFFF,#2f4f4f){　関連動画　}
+#table_style(head=#2f4f4f:#F9FCFF)
+#table_filter(){投稿日=show,視点=show,動画=show,備考=hide}
+|~投稿日|~視点|~動画|~備考|h
+|5/9|けんつ視点|[[【ストグラ2】ケバブ屋が転売で炎上した事件を聞き店長を心配するハッピー飯田けんつと同期のジャック馬ウアー【飯田けんつ/揚物ころも/山下市長/レッサン/奇夢ヤミ/#ストグラseason2】>>https://youtu.be/hALfxl09g3I]]||
+|5/9|きゃっぷ視点|[[【ストグラS2】飲食店の歴史上最悪の詐欺行為を行いケバブをクビになったあげころ【切り抜き/ましゃかり/赤ちゃんキャップ】>>https://youtu.be/J2WPAAVokiU]]||
+|5/10|タラ視点|[[ケバブ屋転売事件の全容!!被害店舗と対面しあげころ上田が起こした事件の対応を迫られる店長とタラちゃん【ふぁんきぃ・馬ウアー・平井・夜仲コウ・ヂョー一朗・脇逢魔・大川・いずみ・山下・れりあ】>>https://youtu.be/CvFtujsuBBU]]||
+|5/10|大川視点|[[【ストグラ】あげころがまたもや大やらかし!? イタリアンの商品を悪質転売した件を聞いて詰める大川【切り抜き/甘乃あもこ/しんのすけ/ふぁんきぃ/アメザリひらい/しゅりぺ/豆腐ちゃん】>>https://youtu.be/Iq0Gm4EUqLU]]||
+|5/10|けんつ視点|[[【ストグラ2】揚物ころもの転売事件の話で持ち切りな飯田書店での住民達の会話。新規住民達の感想【飯田けんつ/大川/ケバブ屋/#ストグラseason2】>>https://youtu.be/hH8OfYfIofA]]||
+|5/10|きゃっぷ視点|[[【ストグラ2】飲食史上最大の被害を受けたケバブ屋店長が遂に怒りあげころを訴える【切り抜き/いづみ/ましゃかり/赤ちゃんキャップ】>>https://youtu.be/EGhWmwyQGCE]]||
+|5/10|ほろん視点|[[【#ストグラ】転売事件の反省の色が見えないあげころ、いずみ店長ショックが隠せず号泣する【わくハピ/高橋滅論/柚乃いずみ/揚物ころも/上田/タラちゃん/アルタ/銭形/陽影空/アルタ/ベッキー】>>https://youtu.be/vboI6Uxiaao]]||
+|5/11|タラ視点|[[ケバブ屋転売事件翌日!!謝罪に出向きゲキ詰めされたりブチギレと号泣のいずみVSあげころを見て絶叫するタラちゃん【ふぁんきぃ・ボイラ・チンピラ・亀山・レイジー・銭形・高橋滅論・上田】>>https://youtu.be/0FQz6kP0YmE]]||
+|5/12|ダミアン視点|[[【ストグラseason2】ナポリタン転売の真相と上田とは⁈という話題にｗ【ダミアン/しゅりぺ】>>https://youtu.be/4QL_aRpnIO4]]||
+|5/14|大川視点|[[【ストグラ】あげころと上田が遂に裁かれる!? 転売事件の裁判を傍聴し2人の供述内容に爆笑する大川【切り抜き/甘乃あもこ/しんのすけ/柚原いづみ/Shiron】>>https://youtu.be/kfhoE36c2Fg]]||
+|5/15|タラ視点|[[遂にケバブ屋転売事件終結!!最後に上田あげころに真正面からぶちかますタラちゃん【ふぁんきぃ・小峯・柚乃いずみ・揚物ころも・ジャックス・葛城・亀山・馬ウアー・平井】>>https://youtu.be/-Pqk7p9CHmY]]||
+|5/16|やいちろう視点|[[【ストグラSeason2】サニーケバブがついになくなる ?!転売疑惑で揺れる飲食店>>https://youtu.be/dH8w8wyzabo]]||
+|5/17|ばうあー視点|[[【ストグラS2】サニーケバブ転売事件の裁判で被告側が開始早々白旗を挙げ困惑する弁護人馬ウアー【馬人/ジャック馬ウアー/ストグラ警察】>>https://youtu.be/cbWilKhO4vA]]||
+|5/30|平井視点|[[被害者平井！ なぽりたん転売事件【#ストグラSeason2 切り抜き/揚物ころも/神田じぇいのすけ/山田カイキ/灰部理秀人/ダミアン/豆やん/銭形やいち郎/平井のおっちゃん】>>https://youtu.be/goOAPpbk8cQ]]||
+|6/15|ほろん視点|[[【#ストグラ】第2回ロスラジ放送MCはボイラ・ブロッコリー、ゲストはナポリタン転売事件の上田・あげころ【わくハピ/高橋滅論/上田/揚物ころも/ボイラテンガリン/ブロッコリー斎藤/丘猫まる】>>https://youtu.be/PD_08RiDmBk]]||
+|6/16|タラ視点|[[開幕アンジャッシュしたりケバブ屋転売事件解決の最後のチャンスを逃した上田あげころへの感想が合致するいずみ店長とタラちゃん【ふぁんきぃ・高橋滅論・ぞん美子・ましゃかり・亀山Hero】>>https://youtu.be/TOqdhxis2uY]]||
+|/|視点|[[]]||
+|/|視点|[[]]||
+|/|視点|[[]]||
+|/|視点|[[]]||
+//|mm/dd|視点|動画|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#endregion(【ナポリタン転売事件】)
+//--------------------
+----
+//--------------------
+#region(○○事件,open)
+*****&aname(○○事件,option=nolink){}&font(b,120%){【○○事件】m/d～}&aname(○○事件)
+******&font(b,#FFFFFF,#2f4f4f){　概　要　}
+
+******&font(b,#FFFFFF,#2f4f4f){　時系列／詳細　}
+//日付出来事詳細備考
+
+
+
+******&font(b,#FFFFFF,#2f4f4f){　関連／波及　}
+
+******&font(b,#FFFFFF,#2f4f4f){　関連動画　}
+#table_style(head=#2f4f4f:#F9FCFF)
+#table_filter(){投稿日=show,視点=show,動画=show,備考=hide}
+|~投稿日|~視点|~動画|~備考|h
+|mm/dd|視点|動画|備考|
+|mm/dd|視点|動画|備考|
+//|mm/dd|視点|動画|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#endregion(◎月◎日_××事件)
+//--------------------
+
+
+#co(){
+//--------------------
+#region(日付_見聞録,open)&b(){閉じる}
+*****&aname(○○事件,option=nolink){}&font(b,120%){【○○事件】m/d～}&aname(○○事件)
+******&font(b,#FFFFFF,#2f4f4f){　概　要　}
+
+******&font(b,#FFFFFF,#2f4f4f){　時系列／詳細　}
+//日付出来事詳細備考
+
+
+
+******&font(b,#FFFFFF,#2f4f4f){　関連／波及　}
+
+******&font(b,#FFFFFF,#2f4f4f){　関連動画　}
+#table_style(head=#2f4f4f:#F9FCFF)
+#table_filter(){投稿日=show,視点=show,動画=show,備考=hide}
+|~投稿日|~視点|~動画|~備考|h
+|mm/dd|視点|動画|備考|
+|mm/dd|視点|動画|備考|
+//|mm/dd|視点|動画|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#endregion(見聞録名)
+//--------------------
+}
+
+
+#endregion(2026)
+
+#endregion(練習４)
+
+**&aname(練習５,option=nolink){練習場所５}
+#region(現在空き)閉じる
+#endregion(練習５)
+
+**&aname(練習６,option=nolink){練習場所６}
+#region(現在空き)閉じる
+#endregion(練習6に対応)
+
+**&aname(練習７,option=nolink){練習場所７}
+#region(現在空き)閉じる
+#endregion(練習７)
+
+**&aname(練習８,option=nolink){練習場所８}
+#region(現在空き)閉じる
+#endregion(練習８)
+
+**&aname(練習９,option=nolink){練習場所９}
+#region(現在空き)
+
+#endregion(練習９)
+
+**&aname(練習１０,option=nolink){練習場所１０}
+#region(現在空き)
+
+#endregion(練習１０)
+
+**&aname(練習１１,option=nolink){練習場所１１}
+#region(現在空き)
+
+#endregion
+
+**&aname(練習１２,option=nolink){練習場所１２}
+#region(現在空き)
+#endregion
+
+**&aname(練習１３,option=nolink){練習場所１３}
+#region(現在空き)
+#endregion
+
+**&aname(練習１４,option=nolink){練習場所１４}
+#region(現在空き)
+#endregion
+
+**&aname(練習１５,option=nolink){練習場所１５}
+#region(現在空き)
+#endregion
+
+**&aname(練習ページ,option=nolink){練習場所ページ}
+ページ丸ごと練習用
+[[SandBox/練習ページ]]
+[[SandBox/練習ページ2]]　使用中🌱
+//
+//▲練習場所を増やすならここより上に
+//これ↓をこのページの末尾に
+&nbsp(br,br,br,br,br,br)

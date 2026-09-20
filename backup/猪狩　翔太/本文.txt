@@ -1,0 +1,395 @@
+//-リスト
+#slide_img(auto=4,position=left,width=300,height=400){猪狩_20230924150827.png,無題9.jpg,猪狩2.png}
+
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#17184b:#c0c0c0)
+#table_style(head=#17184b:#FFF){名前=#897858:#FFF:b:center}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|
+|~名前|~&icon_fa(fa-solid fa-user)|>|&ruby(いがり　しょうた){猪狩　翔太}　|
+|~出身地|~&icon_fa(fa fa-map-marker)|>|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|1992年9月11日(&countup(1992/09/11,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|>|2023年6月27日(&countup(2023/06/27,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa fa-wrench fa-fw) メカニック【[[菖光エンジニア]]】&br()&icon_fa(fa fa-car)  高級車ディラー【[[大川自動車販売(有)]]】&br()&icon_fa(fa fa-stethoscope fa-fw)  【[[個人医]]】&br()&icon_fa(fa fa-university)  ガソリン経営(9330)&br()&small(){&openclose2(show=過去の職業){&nbsp(br,3)【木こり】&br()ギャング【[[IRiS]]】構成員(2023/08/21～2024/06/12)&br()タクシー会社【[[菖光會]]】&br()バイクディーラー【[[菖光モータース]]】&br()【[[斎藤Driving School]]】社員(2023/7/26〜2023/8/20,2024/09/29〜2025/04/30)}}| |
+|~所属|~&icon_fa(fa fa-users)|ドリフトチーム【[[S-style Racing]]】&br()【[[ドリフト協会]]】|-|
+|~TwiX|~&icon_fa(fa fa-crow)|>|@19920911|
+|BGCOLOR(#897858):COLOR(#FFF):プレイヤー|BGCOLOR(#897858):COLOR(#FFF):&icon_fa(fa fa-address-card-o)|>|きんち@父ノ背中|
+|BGCOLOR(#897858):COLOR(#FFF):告知等|BGCOLOR(#897858):COLOR(#FFF):&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000){X&space()(旧&font(#1da1f2){Twitter})}>>https://twitter.com/KI_N_CHI]]&br()ファンアート　#絵狩|
+|BGCOLOR(#897858):COLOR(#FFF):配信場所|BGCOLOR(#897858):COLOR(#FFF):&icon_fa(fa fa-gamepad)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@EdgeWorksRhapsody]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/ki_n_chi]]|
+//|別キャラ|BGCOLOR(#897858):COLOR(#FFF):&icon_fa(fa fa-user-plus)|
+
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+**&color(#17184b){&icon_fa(fa fa-id-card)基本情報}
+>・日本では[[菖蒲　光樹]]が組長を務めていた親背組に所属しており、菖蒲、[[中川　蔵人]]と共にロスサントスへ来る予定だったが、飛行機に乗り遅れたために数日遅れてやってきた。
+>　※遅れた理由については、説明する相手によって内容が違っており、確認できる限りで以下の四つがある。
+>　①飛行機に乗り遅れた　②チケットを無くして乗れなかった　③天災で飛行機が引き返した　④そもそも日本に居た頃の記憶がない
+>・飛行機事故の影響で日本での記憶は曖昧な部分があるが日本では猟師をしていた頃の等の記憶はあるため、親背組の頃の記憶が曖昧ではある。
+>・日本では猟師(スナイパー)をしていた。ちなみに両親は医者
+>・銃は撃てるが体質により酔いやすいので長時間の銃撃戦は不可
+●公道のレースよりもドリフトが好きなドリフター、なお自己紹介するときに、この街の暴走族と言っている。(現状1人である)
+●慕われやすい性格のため、男女共わず慕われているが本人は慕われてはないと思っている。また警察は嫌いだがなるべく表に出さないようにしている。
+●トラック経営や薬物精製の傍ら港をホームコースとして活動している他、峠やドリフトサーキット場にも出没したり、地下レース場にドリフトコースを作り新規参入し易い環境を整えるなどの努力も見られる。
+・&bold(){IRiSの中でも一番多く車を所持しているのと街の中でも一番ドリ車持ってる人物&size(18)}。
+●車が好きな理由は&bold()&size(18){人間は裏切るが機械は裏切らない}ため
+●基本不幸属性と自身を評しているが、補充された当日に[[カジノ]]のルーレットで高級車を引き当てるなど、時たま超ド級の幸運を発揮する。
+・レースに興味がある他、親交のある[[ヘラシギ]]などの勧めによって教習所の先生になるなど、車の運転に関することに興味を持っている。また[[斎藤　まさのり]]から[[斎藤Driving School]]の社長にならないかとの打診を受けるが、社長になるのは断り、あまりにも免許センターの仕事が忙しくタクシーの内部事情と自由時間が取れないため、8月20日付けで斎藤DrivingSchoolを退職。2024/09/29に免許センターがサブジョブ化したため再就職するもメカニックを一次退職した際に同時に辞める。
+●何故か[[ギャング]]ボスの連絡先を他のメンバーより持っている。(何故か篠崎と朝羽の連絡先も持っている。)
+●[[川上たばこ店]]の好きな銘柄は、北斗七星。
+●貯蓄の鬼なので、素材の在庫が一定数を下回ると頭痛に見舞われる。&bold(){「リサセンは癒し」}
+●[[聖母　れりあ]]に殺しを教えた1人。
+●飛行機事故の影響で一部記憶喪失ではあるが、現状8割ほど記憶は回復している。
+●愛用銃:ブルパップライフル
+●2025/05/03にブースティング中に警察に見つかり白パス剥奪となる。→メカニック復職希望のため2025/06/26に免許再取得、2025/07/17に白パス再取得する。
+
+※変装着 天麓すべるについて
+#region(開く)閉じる
+・名前の由来……排気量1600がテンロク、ドリフトなのですべる
+・元々舌っ足らずな喋り方なためか、幼女としてのクオリティがやけに高い
+・ざぁこと言うと喜ぶ人がいる
+・女性からも好印象
+・愛車はAnnis ZR350
+#endregion
+****&size(120%){&bgcolor(#17184b){&nbsp()&font(#ffffff,90%){&icon_fa(fa fa-heart)&nbsp(2) 自制と現状の状態}&nbsp(2)}}
+#region(詳細)
+Season1
+○自制について
+・日本にいた頃、親背組の人達と出会う前にいろいろ抑え込む訓練をしていた。具体的に言うと感情関係でそれを抑え込まないとパフォーマンスにも影響するほどである。
+・ロスサントスに来る際に飛行機事故に会い、記憶喪失になった引金で抑え込む効力がなくなっており、思ってることや自分が普段なら言わないようなことを言ってしまうことが露骨になってきており行動に出てしまう可能性があり、度が過ぎて店員に手を出してしまう恐れがあるので危ないので離れようと決意。
+・自分の中の物を抑え込むためにメカニックを辞職し、抑え込むすべがこの街にあるかも知れないのでそれを探すのもありかなと考え、一度退職するも現在はメカニックを復職している。	
+・現状は落ち着いており、前よりも感情は表に出すようになったが人間不信は前よりも倍になった。																																																														
+・なお感情を取り戻す儀式によって、感情を取り戻すもあまりにも膨大な量のため取り戻した関係で感情がうまく制御出来ない状況である。　
+・その影響で1シーズンでは向こう側へのゲートが開いた関係でダーク側の干渉もあり、羨み等の感情や向こう側の思念が勝手に己の中に入ってきて向こう側の真似事をすれば何か得られるのではと考えてしまい、そのため身体をダーク側に乗っ取られやすくなってしまっていた。もしかするとそれは[[彼女>>壬　人]]が言っていた、&bold(){よくないものが混じりこんでいる}に当てはまるかも知れない、今の自分は空っぽで半分よく分からないものに半分侵食されて混じってる状態だそう。(解決策は不明)
+・現状、儀式により感情を取り戻していってるが普通人間と同じ感情量に戻るには時間がかかる状態となっている。
+・現状それについて詳しく知る者は、日本にいた頃の弟子の[[れりあ>>聖母　れりあ]]と[[謎の女>>壬　人]]のみである。	
+・秘密を打ち明けた[[羽山　ペティ]]には自制については落ち着いたのみ伝え、儀式の件については何も知らないのであった。
+-----
+Season2
+●
+・[[れりあ>>聖母　れりあ]]に、ダークな自分は殺しをしていた現役時代の自分だったと打ち明ける。
+・その自分は現在それを封じる箱に封じ込め天使擬きにどっかに持ってて貰ったと教える。
+・-その箱は感情を餌に動いていたため、あのまま使用しているとダークシリーズの手下になっていた可能性があったと打ち明け、その箱が消えたため銃も握れないただの人になったと打ち明ける。
+#endregion
+
+****&size(120%){&bgcolor(#17184b){&nbsp()&font(#ffffff,90%){&icon_fa(fa-solid fa-user-secret)&nbsp(2) IRiSとして}&nbsp(2)}}
+#region(詳細)
+●IRiSとしての立ち回りは白市民サイドであり、銃が撃てないためクラフターとサポーター役として動いている。(&bold(){実質IRiSのママ})
+・主なサポートとしては武器の管理や購入、メンバー(主に[[小峯　玲]])のメンケア対応をしている。
+・車を多く所有しているため、いざとなった場合　ドリフト車を通常使用に変更出来たり、小峯が新人にオススメするための車の性能チェックを行っている。
+●自分の資金の半分は組の金だと思ってため、上納金もSKEからと自分のマネーから多めに出している。
+●白市民サイドではあるが自称アンダーボスを名乗ってもおかしく無いのではと思ってる。(ほぼ幹部扱いとなっている。)
+●&bold(){IRiSの中でボスの次に怒らせてはいけない人}。
+●たまにSKEの入り口で頭上にいるヘリを監視し、たまに無線で[[菖光會]]付近が安全か情報を落としてたりしている。(混声が苦手のため大型時は無線を切り、終息した頃合いかなと見計らったタイミングでそっと無線を戻して聞いていたりする。)
+●猪狩がIRiSなのは秘匿情報となっているため、メンバー協力の元　白市民として生活している。(本人は知らないが、&bold(){IRiSの地雷原}である。)※一部の他ギャングメンバーも知っているが口外しないようにしてくれている。
+●&bold(){社長のためなら死ねる}精神を持っている
+●[[IRiS]]が解散後も社長の悪戯によりユニオンがついたままなので&bold(){唯一の[[IRiS]]}となっている。(なお、久々に起きてきた社長にユニオンいるか聞くと再結成したときに貰うから持っといてと返却拒否される)→2025/07/20 に山下市長に申告しユニオンを外してもらう。
+#endregion
+#div(width=330px,bgcolor=#1c305c)
+****&size(120%){&bgcolor(#17184b){&nbsp()&font(#ffffff,90%){&icon_fa(fa fa-wrench fa-fw)&nbsp(2)SKEとして}&nbsp(3)}}
+#region(詳細)
+Season1
+●2023/10/06にSKEに就職、オーナーの指示により2023/10/10よりW社長体制となる。
+●2025/03時点では猪狩のみが社長という体制になっている。
+●従業員の前では大人ぶってるが、時々悪餓鬼になる。
+●犯罪者に優しい店としてのイメージが強く、たまに半グレや半グレ上がりの新人ギャング構成員からオススメの車を聞かれたりする。
+●会社として個人請求制度を導入しているが、基本会社請求にして会社にお金が貯まるようにしている。
+●従業員を大変可愛がっており、時々許せない行動しかける従業員がいるものの　それを含めて可愛がっている。
+●従業員からかなり懐かれているものの自覚がなく、従業員の[[羽山　ペティ]]からかなり好かれているものの本人から言われるまで気づかなかった。
+●金銭感覚が分からないため従業員のボーナスは基本億超えで渡している。
+●素材の買い付けやファームもメインで担当している。
+●2025/04/30 にメカニックを辞めてフリーのみになる。表の理由としては2年近くメカニックをやっていたので疲れたのと息抜きとして、真の理由は自制のコントロールが効かなくなってきたため。　　　
+●2025/07/20にメカニック復職する。
+----
+Season2
+●新しい街にSKEがなく再建するために合同メカニックとなっているJTSに就職し、再建を目指す。
+●再建予定であったが複数設立予定があり、Season1同様メカニックが溢れかえるのではと予測し再建保留している。
+●チューニング設立出来た場合はSKEと言う名前ではなく、新たな名前でチューニングショップとメカニックを同時併設にしようと計画中。
+●SKE再建を元従業員に聞かれた際はチューニングショップをすると言い、その時は雇う予定だが働く人しか雇わないと言っている。
+#endregion
+
+****&size(120%){&bgcolor(#17184b){&nbsp()&font(#ffffff,90%){&icon_fa(fa fa-stethoscope fa-fw)&nbsp(2) 個人医として}&nbsp(2)}}
+#region(詳細)
+Season1
+●親が医者をしており、2025/07/20に市長と面談し、かねてよりやってみたかった個人医に採用となる。
+●ダウン場所によっては銃を撃つことがある。(なお、IRiSや白市民時代より銃を撃つ機会が増えた。)
+●個人医になったことを出会う犯罪者から驚かれ、喜ぶ人もいるが、会う人にメカニックは辞めたのか聞かれることがほとんどであった。(ちゃんとメカニックと両立している)
+●メカニックの際は白のTシャツを着ているが何故か服が光る。(ザウルス仕様)
+●ドリフトしてる人と広まっているのでドリフトしながら駆けつけてきてほしいと言われる事も多々。
+----
+Season2
+●現状、個人医は解体となり個人医としての職を失った。
+●白で出来る医者がないならしないと現状決めている。
+
+#endregion
+//**&color(#1c305c){&icon_fa(fa-solid fa-user)印象表}
+//#region(open)	
+//&image(印象表.png,x=400,y=180)
+//#endregion
+//**&color(#1c305c){&icon_fa(fa-solid fa-user)印象表}
+//#region(open)	
+//&image(印象表.png,x=400,y=180)
+//#endregion
+**&color(#17184b){&icon_fa(fa fa-car)所有車両}
+****&size(120%){&bgcolor(#17184b){&nbsp()&font(#ffffff,90%){&nbsp(1)Season1}&nbsp(2)}}																																																																																																																			
+#region(開く)																																																																																																																		
+****個人所有車両&icon_fa(fa fa-car)(計70台)																																																																																																																			
+//実写車両が消えるので手放し																																																																																																																			
+//・NISSAN 180SX Type-X																																																																																																																																																																																																																														
+#region(開く)																																																																																																												
+#table_style(head=center:#17184b)																																																																																																												
+|BGCOLOR(#17184b):~&color(#f9fcff){種類}|BGCOLOR(#17184b):~&color(#f9fcff){シリーズ}|BGCOLOR(#17184b):~&color(#f9fcff){車名}|BGCOLOR(#17184b):~&color(#f9fcff){読み}|BGCOLOR(#17184b):~&color(#f9fcff){ナンバー}|BGCOLOR(#17184b):~&color(#f9fcff){概要}|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Comet|Comet S2|コメットS2|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Albany|Emperor Altior|エンペラー アルティオール|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Weeny|Issi Spoot|イッシースポーツ|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Progen|Itali GTB Custom|イタリGTB・カスタム|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Vysser|Neo|ネオ|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Imponte|Ruiner  ZZ-R8|ルイナー ZZ-R8||【ドリフト】|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Maibatsu |Sunrise R|サンライズR|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Pegassi|Zentorno|ゼントーノ|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Elegy RH4|エレジーRH4|DHRT2843|MT車|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Elegy RH7|エレジーRH7|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Elegy RH8|エレジーRH8|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Eiegy Rettor Custom|エレジー・レトロカスタム|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Euros|ユーロス|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Euros Drift|ユーロスドリフト|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Hellion|ユヘリオン||猪狩さんおたおめです。([[犬億　ロック]]からのプレゼント)|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Remus|レミュス|JVEN3535|【ドリフト】レミュスV8|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Remus Drift|レミュス ドリフト|OMCC1959||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|RemusⅡ|レミュスⅡ|NXZV7410|1号機|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|RemusⅡ|レミュスⅡ|NYTS74714|2号機|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|RemusⅡ|レミュスⅡ|ADMP3044|3号機|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Remus Tsuki  Edition|レミュス　ツキエディション|KANA0821||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Remus Tsuki  Edition|レミュス ツキエディション|IZGU4361||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|Roxanne|ロクサーヌ|BPOW1725||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|ZR350 |ZR350|TBP6170||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|ZR350 |ZR350|ERPK4796||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|ZR350|ZR350|RLUH5688|【[[朝羽　龍之介]]】に譲渡予定|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Annis|ZR350 Drift|ZR350 ドリフト|QHNK9792||																																																																																																												
+|&icon_fa(fa-solid fa-car)|BF|BF Club|BFクラブ|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|BF|BF Weevil|ウィーヴィル|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Coquette|Coquette D10|コケットD10|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Coquette|Coquette Thunderstruck|コケット サンダーストラック|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Declasse|Yosemite Drift|ヨセミテ ドリフト|EYNF1135||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Declasse|Draugue|ドラウグル||【普段用】ドラウグル|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Declasse|VigeroZX|ビゲーロZX|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Dewbauchee|Seven-70|セブン70|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Dinka|Jester|ジェスター|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Dinka|Jester Classic|ジェスター クラシック|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Dinka|Jester Racecar|ジェスター　レースカー|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Dinka|JesterRR|ジェスターRR||【ドリフト】ジェスターRR|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Dinka|JesterRR|ジェスターRR|CWVW0906||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Dinka|JesterRR Drift|ジェスターRR ドリフト|HABCO1706||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Dinka|RT3000|RT3000|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Enus|Paragon|パラゴン|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Enus|Paragon Offroad|パラゴンオフロード||抽選会カー|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Enus|Paragon S|パラゴンS|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Grotti|Itali GTO|イタリGTO||ノアチェン号(ノアチェンバーからのプレゼント)|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Karin|Futo|フト|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Karin|Futo GTX|フトGTX|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Karin|Futo GTX Drift|フトGTX ドリフト|FPOO9987||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Karin|Kuruma|クルマ||免許講習用カー|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Karin|Sultan Classic Custom|サルタン クラシックカスタム|LMYL1135||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Karin|Sultan Classic Custom|サルタン クラシックカスタム|CVUX4512||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Karin|Sultan RS|サルタンRS|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Obey|Tailgater S|テイルゲイターS||教習車|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Obey|8F Drafter|8Fドラフター|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Ocelot|Jugular|ジャグラー|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Rumpo|Rumpo Custom|ランポカスタム|ZINF5368|【積載用】ランポカス|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Rumpo|Rumpo Custom|ランポカスタム|STSM6461|【積載用】ランポカスタムV12|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Truffade|Nero Custom|ネロ　カスタム||トナカイカスタム|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Übermacht|Cypher|サイファー|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Übermacht|Revolter|リボルター|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Vapid|Bobcat XL Open|ボブキャットXL||【積載用】ぼぶとらっく|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Vapid|Flash GT|フラッシュGT|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Vapid|Speedo Express|スピード　エクスプレス|||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Vapid|Speedo Express|スピード　エクスプレス|YORU7272||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Zirconium|Jouuney|ジャーニー|CPAY4545||																																																																																																												
+|&icon_fa(fa-solid fa-car)|Zirconium|JouuneyⅡ|ジャーニー2|DXDC6562|メカニックインベントリー用|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Canis|Terminus|ターミナス||イナペティ号([[ペティ>>羽山　ペティ]]＆[[イロハ>>イナ　イロハ]]からの誕生日プレゼント)|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Pfister|Astron|アストロン||大川からのプレゼント|																																																																																																												
+|&icon_fa(fa-solid fa-car)|Fathom|FR36|FR36|||																																																																																																																																																																																																																								
+#endregion																																																																																																												
+****バイク&icon_fa(fa fa-motorcycle)(計13台)																																																																																																												
+#region(開く)																																																																																																												
+#table_style(head=center:#17184b)																																																																																																												
+|BGCOLOR(#17184b):~&color(#f9fcff){種類}|BGCOLOR(#17184b):~&color(#f9fcff){車名}|BGCOLOR(#17184b):~&color(#f9fcff){読み}|BGCOLOR(#17184b):~&color(#f9fcff){ナンバー}|BGCOLOR(#17184b):~&color(#f9fcff){概要}|																																																																																																												
+|&icon_fa(fa fa-motorcycle)|BF400|BF400|||																																																																																																												
+|&icon_fa(fa fa-motorcycle)|Blazer|ブレイザー||4輪バイク|																																																																																																												
+|&icon_fa(fa fa-motorcycle)|Enduro|エンデューロ|||																																																																																																												
+|&icon_fa(fa fa-motorcycle)|Esskey|エスキー|||																																																																																																												
+|&icon_fa(fa fa-motorcycle)|Manchez Scout|マンチェススカウト|||																																																																																																												
+|&icon_fa(fa fa-motorcycle)|Shinobi|シノビ|||																																																																																																												
+|&icon_fa(fa fa-motorcycle)|Hakuchou|ハクチョウ|||																																																																																																												
+|&icon_fa(fa fa-motorcycle)|Lighting Sanctus|ライディングサンクタス|||																																																																																																												
+|&icon_fa(fa fa-motorcycle)|NEMESIS|ネメシス|||																																																																																																												
+|&icon_fa(fa fa-motorcycle)|Powersurge|パワーサージ|||																																																																																																												
+|&icon_fa(fa fa-motorcycle)|Shotaro CCC|ショータローCCC|||																																																																																																												
+|&icon_fa(fa fa-motorcycle)|一輪車|イチリンシャ|||																																																																																																												
+|&icon_fa(fa fa-motorcycle)|Stockholm|ストックホルム||抽選会カー|																																																																																																												
+//|&icon_fa(fa fa-motorcycle)||||																																																																																																												
+																																																																																																												
+#endregion																																																																																																												
+****ヘリ&icon_fa(fa fa-plane)(計6台)																																																																																																												
+#region(開く)																																																																																																												
+#table_style(head=center:#17184b)																																																																																																												
+|BGCOLOR(#17184b):~&color(#f9fcff){種類}|BGCOLOR(#17184b):~&color(#f9fcff){ヘリ名}|BGCOLOR(#17184b):~&color(#f9fcff){読み}|BGCOLOR(#17184b):~&color(#f9fcff){ナンバー}|BGCOLOR(#17184b):~&color(#f9fcff){概要}|																																																																																																												
+|&icon_fa(fa fa-plane)|nagasaki　Havok|ハヴォック|KZKC6188|通称豆ヘリ|																																																																																																												
+|&icon_fa(fa fa-plane)|Unknown Sparrow|スパロー|UKHM1588||																																																																																																												
+|&icon_fa(fa fa-plane)|Unknown Sparrow|スパロー|LIDU5816|いがりさんへ(ペティカスタム)|																																																																																																												
+|&icon_fa(fa fa-plane)|Unknown Sparrow|スパロー|PLQS3652|お誕生日おめでとう!同期のみこより|																																																																																																												
+|&icon_fa(fa fa-plane)|Unknown Sparrow|バザード|IROO7720|すぱあぁ3|																																																																																																												
+|&icon_fa(fa fa-plane)|Frogger|フロガー|||																																																																																																												
+#endregion																																																																																																												
+****舟&icon_fa(fa fa-ship)																																																																																																												
+#region(開く)																																																																																																												
+#table_style(head=center:#17184b)																																																																																																												
+|BGCOLOR(#17184b):~&color(#f9fcff){種類}|BGCOLOR(#17184b):~&color(#f9fcff){ヘリ名}|BGCOLOR(#17184b):~&color(#f9fcff){読み}|BGCOLOR(#17184b):~&color(#f9fcff){概要}|																																																																																																												
+|&icon_fa(fa fa-ship)|Seashark|シーシャーク3||																																																																																																												
+#endregion																																																																																																																																																																																																																																																																																																																																	
+#endregion																																																																																																																																																																																																																																		
+****&size(120%){&bgcolor(#17184b){&nbsp()&font(#ffffff,90%){&nbsp(1)Season2}&nbsp(2)}}	
+#region(開く)
+****個人所有車両&icon_fa(fa fa-car)(計9台)																																																																																																																			
+#region(開く)																																																																																																											
+#table_style(head=center:#17184b)																																																																																																												
+|BGCOLOR(#17184b):~&color(#f9fcff){種類}|BGCOLOR(#17184b):~&color(#f9fcff){シリーズ}|BGCOLOR(#17184b):~&color(#f9fcff){車名}|BGCOLOR(#17184b):~&color(#f9fcff){読み}|BGCOLOR(#17184b):~&color(#f9fcff){ナンバー}|BGCOLOR(#17184b):~&color(#f9fcff){概要}|
+|&icon_fa(fa-solid fa-car)|Annis|ZR350 |ZR350|DB8U7|ST車|																																																																																																											
+|&icon_fa(fa-solid fa-car)|DINKA|Cody|コーディ|R4L65C2X|軽トラ　ST車| 
+|&icon_fa(fa-solid fa-car)|DINKA|Cody|コーディ|815V5QO9|軽トラ　ST車| 
+|&icon_fa(fa-solid fa-car)|DINKA|Cody|コーディ|7X732F93|軽トラ　ST車| 
+|&icon_fa(fa-solid fa-car)|DINKA|Cody|コーディ|EIH3G1GD|軽トラ　ST車|
+|&icon_fa(fa-solid fa-car)|DINKA|Cody|コーディ|8K4HJ81M|軽トラ　ST車| 
+|&icon_fa(fa-solid fa-car)|Karin|Sultan Classic Custom|サルタン クラシックカスタム　スポーツ|89L0P762|ST車|
+|&icon_fa(fa-solid fa-car)|Shitzu|Castella|カステラ|HYUL2838|ST車|
+|&icon_fa(fa-solid fa-car)|DINKA|Cody|コーディ|52G6U009|軽トラ　ST車| 
+//|&icon_fa(fa-solid fa-car)|||||| 
+#endregion
+****バイク&icon_fa(fa fa-motorcycle)(計0台)		
+#region(開く)		
+#table_style(head=center:#17184b)		
+|BGCOLOR(#17184b):~&color(#f9fcff){種類}|BGCOLOR(#17184b):~&color(#f9fcff){車名}|BGCOLOR(#17184b):~&color(#f9fcff){読み}|BGCOLOR(#17184b):~&color(#f9fcff){ナンバー}|BGCOLOR(#17184b):~&color(#f9fcff){概要}|		
+|&icon_fa(fa fa-motorcycle)|||||
+#endregion																																																																																																																																																																																																																																																																																																																																																																																																																																		
+****舟&icon_fa(fa fa-ship)																																																																																																												
+#region(開く)																																																																																																												
+#table_style(head=center:#17184b)																																																																																																												
+|BGCOLOR(#17184b):~&color(#f9fcff){種類}|BGCOLOR(#17184b):~&color(#f9fcff){ヘリ名}|BGCOLOR(#17184b):~&color(#f9fcff){読み}|BGCOLOR(#17184b):~&color(#f9fcff){概要}|																																																																																																												
+|&icon_fa(fa fa-ship)|Select colors of the  vehicle|||																																																																																																												
+#endregion																																																																																																																																																																																																																																																																																																																																		
+#endregion																																																																																																									
+**&color(#1c305c){&icon_fa(fa fa-suitcase)衣装倉庫}
+&size(15){(※画像をクリックすると別タブで表示されます。)}
+#table_style(head=center)
+****&size(120%){&bgcolor(#17184b){&nbsp()&font(#ffffff,90%){&nbsp(1)Season1}&nbsp(2)}}
+#region(開く)	
+****通常着																																																																																																																			
+#region(開く)																																																																																																																	
+|BGCOLOR(#393f4c):~&blankimg(猪狩_20230924150827.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(タクシー衣装_20230924162114.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(教官_20230928060259.png,y=300,x=200)|																																																																																																																			
+|BGCOLOR(#84b9cb):~初期|BGCOLOR(#84b9cb):~タクシー衣装|BGCOLOR(#84b9cb):~教官着|																																																																																																																			
+|BGCOLOR(#393f4c):~&blankimg(猪狩スーツ.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(猪狩IRiS_20230915133048_1.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(作業着_20231010214345.png,y=300,x=200)|																																																																																																																			
+|BGCOLOR(#84b9cb):~スーツ|BGCOLOR(#84b9cb):~IRiS正装|BGCOLOR(#84b9cb):~作業着|																																																																																																																			
+|BGCOLOR(#393f4c):~&blankimg(無題70_20231010221232.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(無題71_20231010220001.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(無題72_20231010215917.png,y=300,x=200)|																																																																																																																			
+|BGCOLOR(#84b9cb):~秋服(メイン)|BGCOLOR(#84b9cb):~秋服2|BGCOLOR(#84b9cb):~秋服(パーカー)|																																																																																																																			
+|BGCOLOR(#393f4c):~&blankimg(無題74_20231010220733.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(無題92_20231113173239.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(エレン1.jpg,y=300,x=200)|																																																																																																																			
+|BGCOLOR(#84b9cb):~秋服(皮)|BGCOLOR(#84b9cb):~トラック服|BGCOLOR(#84b9cb):~春私服(エレン)|																																																																																																																			
+|BGCOLOR(#393f4c):~&blankimg(エレン.jpg,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(無題6.jpg,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(無題9.jpg,y=300,x=200)|																																																																																																																			
+|BGCOLOR(#84b9cb):~春私服2|BGCOLOR(#84b9cb):~春私服3|BGCOLOR(#84b9cb):~作業服2|																																																																																																																			
+|BGCOLOR(#393f4c):~&blankimg(半袖1.png,x=200,y=300)|BGCOLOR(#394f4c):~&blankimg(SKE制服1.png,x=200,y=300)|BGCOLOR(#394f4c):~&blankimg(猪狩制服2.png,x=200,y=300)|																																																																																																																			
+|BGCOLOR(#84b9cb):~半袖|BGCOLOR(#84b9cb):~SKE制服1|BGCOLOR(#84b9cb):~SKE制服2|																																																																																																																			
+|BGCOLOR(#394f4c):~&blankimg(スーツ　新髪型.png,x=200,y=300)|BGCOLOR(#394f4c):~&blankimg(新髪型　普段着.png,x=200,y=300)|BGCOLOR(#394f4c):~&blankimg(個人医着　半袖ver.png,x=200,y=300)|																																																																																																																			
+|BGCOLOR(#84b9cb):~スーツ(新髪型ver)|BGCOLOR(#84b9cb):~普段着(新髪型)|BGCOLOR(#84b9cb):~個人医着(半袖ver)|																																																																																																																			
+|BGCOLOR(#394f4c):~&blankimg(白パーカー.png,x=200,y=300)|																																																																																																																			
+|BGCOLOR(#84b9cb):~(白パーカー)|																																																																																																																			
+#endregion																																																																																																																			
+#table_style(head=center)																																																																																																																			
+****変装着																																																																																																																			
+#region																																																																																																																			
+|BGCOLOR(#393f4c):~&blankimg(wiki3_20230910205846_Original.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(メイド服_20230928052228.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(IMO_20230928035907.png,y=300,x=200)|																																																																																																																			
+|BGCOLOR(#84b9cb):~牛|BGCOLOR(#84b9cb):~メイド服|BGCOLOR(#84b9cb):~IMO|																																																																																																																			
+|BGCOLOR(#393f4c):~&blankimg(さるぅ.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(特殊_20231004175813.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(特攻服_20231004123604.png,y=300,x=200)|																																																																																																																			
+|BGCOLOR(#84b9cb):~さるぅ|BGCOLOR(#84b9cb):~特殊|BGCOLOR(#84b9cb):~特攻服|																																																																																																																			
+|BGCOLOR(#393f4c):~&blankimg(秋戦闘.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(無題80_20231025023138.png,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(私服　黄色ver.jpg,y=300,x=200)|																																																																																																																			
+|BGCOLOR(#84b9cb):~秋戦闘服|BGCOLOR(#84b9cb):~天麓すべる|BGCOLOR(#84b9cb):~私服　黄色ver|																																																																																																																			
+|BGCOLOR(#393f4c):~&blankimg(黄色1.jpg,y=300,x=200)|BGCOLOR(#393f4c):~&blankimg(黄色2.jpg,y=300,x=200)|BGCOLOR(#394f4c):~&blankimg(車.png,x=200,y=300)|																																																																																																																			
+|BGCOLOR(#84b9cb):~黄色1|BGCOLOR(#84b9cb):~黄色2|BGCOLOR(#84b9cb):~軍|																																																																																																																			
+|BGCOLOR(#394f4c):~&blankimg(ザウルス.png,x=200,y=300)|BGCOLOR(#394f4c):~&blankimg(たまご.png,x=200,y=300)|BGCOLOR(#394f4c):~&blankimg(法被.png,x=200,y=300)|																																																																																																																			
+|BGCOLOR(#84b9cb):~ザウルス|BGCOLOR(#84b9cb):~たまご|BGCOLOR(#84b9cb):~法被|																																																																																																																			
+|BGCOLOR(#394f4c):~&blankimg(白衣.jpg,x=200,y=300)|BGCOLOR(#394f4c):~&blankimg(D猪狩.jpg,x=200,y=300)|																																																																																																																			
+|BGCOLOR(#84b9cb):~白衣|BGCOLOR(#84b9cb):~ダーク猪狩|																																																																																																																			
+#endregion																																																																																																																																																																																																																																					
+#endregion	
+#table_style(head=center)
+****&size(120%){&bgcolor(#17184b){&nbsp()&font(#ffffff,90%){&nbsp(1)Season2}&nbsp(2)}}
+#region(開く) 
+****通常着
+#region(開く)
+|BGCOLOR(#393f4c):~&blankimg(普段着.jpg,y=300,x=200)|
+|BGCOLOR(#84b9cb):~普段着　　|
+#endregion
+#endregion
+**&icon_fa(fa fa-film)　&color(#17184b){アーカイブ}
+----
+&color(#483d8b){※Twitchのアーカイブはメンバー限定コンテンツです}&color(#F54738){※YouTubeは再生リストより閲覧可能}
+#table_style(head=center:#e6e6fa){配信日=right}
+#include(猪狩　翔太/アーカイブ)
+**&color(#17184b)&icon_fa(fa fa-newspaper-o)エピソード
+#include(猪狩　翔太/エピソード 2023年06-2023年11)　
+#include(猪狩　翔太/エピソード 2023年12-2024年02)
+#include(猪狩　翔太/エピソード 2024年03-2024年05) 
+#include(猪狩　翔太/エピソード 2024年06-2024年08)
+#include(猪狩　翔太/エピソード 2024年09-2024年11) 
+#include(猪狩　翔太/エピソード 2024年12-2025年01)
+#include(猪狩　翔太/エピソード 2025年02-2025年03) 
+#include(猪狩　翔太/エピソード 2025年04-2025年06) 
+#include(猪狩　翔太/エピソード 2025年07) 
+#include(猪狩　翔太/エピソード 2025年08) 
+#include(猪狩　翔太/エピソード 2025年09) 
+#include(猪狩　翔太/エピソード 2025年10) 
+#include(猪狩　翔太/エピソード 2025年12―2026年3) 
+#include(猪狩　翔太/エピソード 2026年4月-5月)
+#include(猪狩　翔太/エピソード 2026年6月-) 
+**&color(#17184b){&icon_fa(fa-solid fa-radio)ストグララジオ}
+#region(open)
+#table_style(head=center:#17184b:#fff){配信日=left}
+#table_filter(){配信日=show,配信タイトル=show,メンバー=show}
+|~配信日|~配信タイトル|~メンバー|h
+|2024/01/25|&font(#6441A4){&icon_fa(fa fa-twitch)}[[#ストグラジオ ゲスト:きんち、鈴木 ノリアキ>https://www.twitch.tv/videos/2100995161]]|w/きんち（[[猪狩　翔太]]）、鈴木 ノリアキ（[[BIG　SUZUKI]]）|
+|2025/09/12|&font(#6441A4){&icon_fa(fa fa-twitch)}[[#ストグラジオ ゲスト:きんち、栗山やんみ、かど> https://www.twitch.tv/videos/2564430282]]|w/きんち([[猪狩　翔太]])、栗山やんみ([[羽山　ペティ]])、かど([[よすみの　かど]])|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+**&color(#17184b){&icon_fa(fa-solid fa-paperclip)クリップ観賞}
+#region(open)
+#table_filter(){配信日=show,配信タイトル=show,メンバー=show}
+#table_style(head=e6e6fa:center)
+|BGCOLOR(#17184b):~&color(#f9fcff){配信日}|BGCOLOR(#17184b):~&color(#f9fcff){配信タイトル}|BGCOLOR(#17184b):~&color(#f9fcff){メンバー}|h　　　　
+|2025/09/28|【[[SKEクリップ鑑賞会>>https://www.twitch.tv/videos/2577930937]]】|w/きんち([[猪狩　翔太]])、栗山やんみ([[羽山　ペティ]])、かど([[よすみの　かど]])|
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+**&color(#17184b){&icon_fa(fas fa-plane)} ストグラFV
+#region(open)
+#table_filter(){配信日=show,配信タイトル=show,備考=show}
+#table_style(head=e6e6fa:center)
+|BGCOLOR(#17184b):~&color(#f9fcff){配信日}|BGCOLOR(#17184b):~&color(#f9fcff){配信タイトル}|BGCOLOR(#17184b):~&color(#f9fcff){備考}|
+|5/11|【猪狩 翔太】FV島に遊びに行ってみる||
+//||||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+　
+**&color(#17184b){&icon_fa(fa fa-gamepad)ストグラ外コラボ}
+#include(猪狩　翔太/ゲームコラボ)
+
+***雑談コラボ
+#region(open)
+#table_filter(){配信日=show,配信タイトル=show,メンバー=show}
+#table_style(head=e6e6fa:center)
+|BGCOLOR(#17184b):~&color(#f9fcff){配信日}|BGCOLOR(#17184b):~&color(#f9fcff){配信タイトル}|BGCOLOR(#17184b):~&color(#f9fcff){メンバー}|h　　　　
+|2025/06/14|【[[きんちと飲酒雑談！>>https://www.youtube.com/live/fRTh3yObmaQ?si=ioBHWxzSX6EhrxGt]]】|スクラップ（[[ヘラシギ]]）、きんち([[猪狩　翔太]])|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

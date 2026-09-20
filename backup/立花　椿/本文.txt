@@ -1,0 +1,73 @@
+*プロフィール
+//&image(ここに画像のURLを入力,y=400)
+
+//ここからプロフィール
+#table_style(head=#E6E6FA:#666666){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(たちばな){立花}　&ruby(つばき){椿}|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|　&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2026年6月6日 (&countup(2026/06/06,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|　|
+|~所属|~&icon_fa(fa fa-users)|ギャング&b(){【[[Rose]]】}　|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@tsubaki|
+|~レーサー名|~&icon_fa(fa fa-car)|　|
+|~電話番号|~&icon_fa(fa fa-phone)|(907)511-0788|
+|BGCOLOR(#f8b500):~プレイヤー|BGCOLOR(#f8b500):~&icon_fa(fa fa-address-card-o fa-fw)|たぁくぅ＠オキサバ|
+|BGCOLOR(#f8b500):~告知等|BGCOLOR(#f8b500):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/takumochan1017]]|
+|BGCOLOR(#f8b500):~配信場所|BGCOLOR(#f8b500):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/taakuu_okisaba]]|
+|BGCOLOR(#f8b500):~アーカイブ|BGCOLOR(#f8b500):~&icon_fa(fa fa-film)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[YouTube>>https://www.youtube.com/@%E3%82%AA%E3%82%AD%E3%82%B5%E3%83%90%E3%81%9F%E3%81%81%E3%81%8F%E3%81%85]]|
+|BGCOLOR(#f8b500):~別キャラ|BGCOLOR(#f8b500):&icon_fa(fa fa-user-plus)|&small(){&openclose2(show=※ネタバレ注意){：[[沖原　たくみ]]}}|
+//|BGCOLOR(#f8b500):~ガイドライン|BGCOLOR(#f8b500):~&icon_fa(fa fa-circle-info)|>|[[ガイドライン>>ここにガイドラインのURLを入力]]|
+//
+#co{コピー用🔽以下必要な場合にご利用下さい
+
+【Instagram】&font(#CF2E92){&icon_fa(fa-brands fa-instagram)} [[&font(#DC2E74){Instagram}>>ＵＲＬ]]
+【ツイキャス】[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting(チャンネル名)}>>ＵＲＬ]]
+【TikTok】&font(#000){&icon_fa(fa-brands fa-tiktok)}[[&font(#000){TikTok(チャンネル名)}>>ＵＲＬ]]
+【キック】[[&font(#008000){&icon_fa(fa fa-external-link)Kick(チャンネル名)}>>ＵＲＬ]]
+
+}
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-[[野茨　ライカ>>野茨　来華]]を探しにロスサントスへやってきた一行の一人。
+-車が好きで速そうな車を見かけては興味を持つ。
+
+*エピソード
+**2026年
+#region(mm月,open)&bold(){mm月}
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(dd日)
+#endregion(mm月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(dd日)
+
+#endregion(mm月)
+
+}
+
+*アーカイブ
+**2026年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|6/6|1|[[【ストグラ2】#1 立花椿>>https://www.twitch.tv/videos/2790004079]]||
+|6/7|2|[[【ストグラ2】#2 立花椿>>https://www.twitch.tv/videos/2790807632]]||
+//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

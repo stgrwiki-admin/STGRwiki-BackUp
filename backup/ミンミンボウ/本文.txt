@@ -1,0 +1,341 @@
+#center(){&image(明味房ロゴ.png)}
+
+//#table_filter(){Season１=hide,Season２=show}
+#table_style(head=center:#00a968:#fafafa){}
+|~店名|&ruby(ミンミンボウ){明味房}|
+|~業種|CHINESE|
+|~開業日|2024年03月04日|
+|~所在地|8141番地|
+|~店長|[[ミン　ドリー]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・[[ミン　ドリー]]が経営する中華料理屋。
+・店長の「犯罪をしていない時は皆同じ市民である」という思想から、店員の黒白は問わない方針。
+・出前にも対応しており、デリバリー用の原付も社用車として用意されている。
+・店構えや内装は古き良き町中華の風情があり、提供する料理も慣れ親しんだ中華料理が中心。
+・職務（JOB）として請求書を作成し相手が支払った場合、請求金額の80%が請求書作成者に振り込まれる。(ミンドリーのおさげチュロスのみ、10%はミンミンボウ金庫、10%は[[カニメイト]]へ)
+
+**従業員情報
+***Season1
+#region(開く)
+#slide_img(auto=4,position=left,width=300,height=400){
+店頭.png,
+オープン記念.png,
+店員(まる、くまの).png,
+店員(ぺいん、ルゥ、くまの、まる).png
+}
+#left(){{
+&font(80%){2枚目：左から[[ルウギャラクティカ>ルウ　ギャラクティカ]]，[[ミンドリー>ミン　ドリー]]，[[丘猫まる>丘猫　まる]]}
+&font(80%){3枚目：左から[[くまのふでこ>くまの　ふでこ]]，[[丘猫まる>丘猫　まる]]}
+&font(80%){4枚目：左から[[伊藤ぺいん>伊藤　ぺいん]],　[[ルウギャラクティカ>ルウ　ギャラクティカ]]， [[くまのふでこ>くまの　ふでこ]]，[[丘猫まる>丘猫　まる]]}
+}}
+
+***従業員
+#table_style(head=center:#00A968:#FAFAFA){就職日=right}
+|~役職|~名前|~就職日|~兼業|~備考|h
+|店長|[[ミン　ドリー]]|2024/03/04|警察官【[[ロスサントス警察]]】&br()高級車ディーラー【[[EDEN]]】||
+|店員|[[聖母　れりあ]]|2024/03/04|ギャング【[[anbrella(餡ブレラ)]]】||
+|店員|[[丘猫　まる]]|2024/03/04|ギャング【[[NO LIMIT]]】||
+|店員|[[ルウ　ギャラクティカ]]|2024/03/04|メカニック【[[PYC]]】社長&br()普通車ディーラー【[[プラネットモータース]]】社長||
+|店員|[[伊藤　ぺいん]]|2024/03/05|警察官【[[ロスサントス警察]]】||
+|店員|[[ルール　ちゃん]]|2024/05/16|警察官【[[ロスサントス警察]]】||
+|店員|[[光乃　あびす]]|2024/11/17|ギャング【[[hantasma]]】||
+//|役職|[[名　前]]|yyyy/mm/dd|兼業|備考|
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+***退職者
+#table_style(head=center:#00A968:#FAFAFA){就職日=right,最終出勤日=right}
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[イチカ　ウィルキンズ>イチカ　ウィルキンズ]]|2024/03/08||転職の為退職|
+|[[チェン　マヨ]]|2024/03/07||転職の為退職|
+|[[くまの　ふでこ]]|2024/03/06||一身上の都合により退職|
+|[[鷹　シエール]]|2024/12/??|||
+|[[高橋　滅論]]|2024/09/25|25/03/18|【[[PARADISE LOST]]】へ転職のため退職|
+|[[栖家幡　華憐]]|2024/03/05||2025/06/13街を去ったため退職|
+//#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+//
+***職業体験者
+#table_style(head=center:#00A968:#FAFAFA){体験開始日=right}
+|名前|~体験開始日|~兼業|~備考|h
+|[[オルカ　トヴォロ]]|2024/03/06|警察官【[[ロスサントス警察]]】&br()カフェ【[[須藤バックスコーヒー ]]】||
+|[[二十日　ネル]]|2024/03/06|警察官【[[ロスサントス警察]]】&br()魔女カフェ【[[RitUal:]]】||
+|[[安保　さぶ郎]]|2024/03/08|警察官【[[ロスサントス警察]]】&br()花屋【[[ColorFlora]]】|花屋で働くことになったが店長の&br()ミンドリーから言われjobは残している|
+|[[アドミゲス・ハン]]|2024/03/11|ギャング【[[hantasma]]】ボス||
+|[[香月　ろぎあ]]|2024/03/12|魔女カフェ【[[RitUal:]]】&br()高級和食店【[[菖光亭]]】&br()【[[ARCANA]]】構成員||
+|[[高橋　滅論]]|2024/09/25|||
+|[[飯田　けんつ]]|2025/01/22|||
+|[[モラード・バ・ナーナ]]|2025/01/30|||
+|[[二部　らるたる]]|2025/05/17|警察官【[[ロスサントス警察]]】|借金返済の為バイトをするが、5/30には自主退職していた|
+|[[とろろ　ろろ]]|2025/06/19|||
+|[[穴井　元]]|2025/06/19|||
+|[[暦　ゆうみ]]|2025/07/20|||
+|[[暦　しんあ]]|2025/08/23|||
+|[[暦　あずみ]]|2025/07/20|||
+|[[暦　あやの]]|2025/08/23|||
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#endregion(Season1)
+//
+//
+#co{
+//***Season2
+#region(開く,open)
+//****従業員
+#table_style(head=center:#00A968:#FAFAFA){就職日=right}
+|~役職|~名前|~就職日|~兼業|~備考|h
+|店長|[[ミン　ドリー]]|yyyy/mm/dd|警察官【[[ロスサントス警察]]】&br()||
+|店員|[[名前]]|yyyy/mm/dd|兼業||
+|店員|[[名前]]|yyyy/mm/dd|兼業||
+//|役職|[[名前]]|yyyy/mm/dd|兼業||
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//****退職者
+#region(開く)
+#table_style(head=center:#00A968:#FAFAFA){就職日=right,最終出勤日=right}
+|~名前|~就職日|~最終出勤日|~備考|h
+//|[[名前]]|就職日||備考|
+//#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#endregion
+//
+//****職業体験者
+#region(開く)
+#table_style(head=center:#00A968:#FAFAFA){体験開始日=right}
+|名前|~体験開始日|~兼業|~備考|h
+//|[[名前]]|yyyy/mm/dd|兼業||
+//|[[名前]]|yyyy/mm/dd|兼業||
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#endregion
+#endregion(Season2)
+}
+
+**商品情報
+***Season1
+#region(開く)閉じる
+****フード
+#region(,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=center:#00A968:#FAFAFA){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~備考|h
+|food|&blankimg(ミンミンボウ印の肉まん.png,x=43,y=43)|ミンミンボウ印の肉まん|50,000|2024/03/03|【明味房】印の肉まん、当店人気№１|
+|food|&blankimg(パラッパラ炒飯.png,x=43,y=43)|パラッパラ炒飯|50,000|2024/03/03|これが家で食えたなら…|
+|food|&blankimg(カニ玉.png,x=43,y=43)|カニ玉|50,000|2024/03/03|一匹の蟹が一人舞台を飾る|
+|food|&blankimg(どろどろ豚骨ラーメン.png,x=43,y=43)|どろどろ豚骨ラーメン|50,000|2024/03/03|百聞は一食にしかず／水分回復、アルコール分解|
+|food|&blankimg(油淋鶏.png,x=43,y=43)|油淋鶏|50,000|2024/03/03|サクサク！ジュワっと油淋鶏|
+|food|&blankimg(豚キムチ.png,x=43,y=43)|豚キムチ|50,000|2024/03/03|旨辛！ごま香る豚キムチ|
+|food|&blankimg(エビチリ.png,x=43,y=43)|エビチリ|50,000|2024/03/03|新鮮なものが一番|
+|food|&blankimg(酢豚.png,x=43,y=43)|酢豚|50,000|2024/03/03|ホロホロと柔らかい豚肉が逸品|
+|food|&blankimg(小籠包.png,x=43,y=43)|小籠包|50,000|2024/03/03|ジュワ～、アッツとなる肉汁たっぷり小籠包|
+|food|&blankimg(天津飯.png,x=43,y=43)|天津飯|50,000|2024/03/03|零れ出そうな量のトロトロ餡がおススメ！|
+|food|&blankimg(しそ入り餃子.png,x=43,y=43)|しそ入り餃子|50,000|2024/03/03|五味の調和|
+|food|&blankimg(にんにくマシマシ餃子.png,x=43,y=43)|にんにくマシマシ餃子|50,000|2024/03/03|ニオイなんか気にするな、好きに食え|
+|food|&blankimg(生姜餃子.png,x=43,y=43)|生姜餃子|50,000|2024/03/03|ガツンとショウガが癖になる！|
+|food|&blankimg(シュウマイ.png,x=43,y=43)|シュウマイ|50,000|2024/03/03|のみ込むのがもったいねぇ…|
+|food|&blankimg(めちゃカラ麻婆豆腐.png,x=43,y=43)|めちゃカラ麻婆豆腐・中辛|50,000||めちゃカラな麻婆豆腐　辛さ：中辛／火傷の恐れあり|
+|food|&blankimg(串.png,x=43,y=43)|○○串|50,000|2024/07/04|多彩な味わい、人串で！まんまる串|
+|food|&blankimg(串持ち帰り.png,x=43,y=43)|○○串・お持ち帰り|50,000|2024/07/04|食べ歩きの新定番！まんまる串|
+|food|&blankimg(キムチ.png,x=43,y=43)|キムチ盛り合わせ|50,000||キムチの極上コレクション／アルコール分解|
+|food|&blankimg(harumaki.png,x=43,y=43)|パリパリ春巻き|50,000|2025/01/30|パリッと香ばしい、心も満たす贅沢春巻き！|
+
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+****ソフトドリンク
+#region(,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=center:#00A968:#FAFAFA){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~備考|h
+|drink|&blankimg(中華スープ.png,x=43,y=43)|中華スープ|50,000|2024/03/03||
+|drink|&blankimg(たまごスープ.png,x=43,y=43)|たまごスープ|50,000|2024/03/03||
+|drink|&blankimg(烏龍茶.png,x=43,y=43)|ウーロン茶|50,000|2024/03/03||
+|drink|&blankimg(果汁100％オレンジジュース.png,x=43,y=43)|果汁100％オレンジジュース|50,000|2024/03/03||
+|drink|&blankimg(中華に合うコーラ.png,x=43,y=43)|中華に合うコーラ|50,000|2024/03/03||
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+****お酒
+#region(,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=center:#00A968:#FAFAFA){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~備考|h
+|drink|&blankimg(キンキンに冷えたビール.png,x=43,y=43)|キンキンに冷えたビール|50,000|2024/03/03|ビールはアルコールではない&br()＋アルコール|
+|drink|&blankimg(紹興酒.png,x=43,y=43)|紹興酒|50,000|2024/03/03|酒入れば舌出ず&br()－ストレス、＋アルコール|
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+****デザート
+#region(,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=center:#00A968:#FAFAFA){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~備考|h
+|dessert|&blankimg(おさげチュロス.png,x=43,y=43)|ミンドリーのおさげチュロス|50,000||ミンドリーのおさげチュロス&br()空腹回復　ストレス軽減&br()[[カニメイト]]の商品|
+|dessert|&blankimg(杏仁.png,x=43,y=43)|杏仁豆腐|50,000||優雅な一口、杏仁の心地よい贅沢&br()空腹回復　ストレス軽減|
+|dessert|&blankimg(月餅.png,x=43,y=43)|明味房の月餅|50,000|2025/02|一口で広がる、贅沢な甘さ&br()空腹回復|
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+****ジョイント
+#region(,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=center:#00A968:#FAFAFA){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~備考|h
+|joint|&blankimg(倒流香.png,x=43,y=43)|倒流香|50,000|2024/03/03|お好きなお香でゆっくりリラックス|
+|joint|&blankimg(sippou.png,x=43,y=43)|明味房の七宝健身球|50,000|2025/01/30|集中力アップ、リラックス効果|
+|joint|&blankimg(明味房のラー油.png,x=43,y=43)|明味房のラー油|50,000||辛味と旨味の絶妙ハーモニー|
+|joint|&blankimg(まるステッカー.png,x=43,y=43)|ステッカー　まる|50,000||【丘猫まる】リラックス効果付きステッカー|
+|joint|&blankimg(ミンドリーステッカー.png,x=43,y=43)|ステッカー　ミンドリー|50,000||【ミンドリー】リラックス効果付きステッカー|
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+****ガチャ商品
+|&image(ミンミンボウ_ガチャ_ミンドリー.jpg,x=250)|&image(ミンミンボウ_ガチャ_まる.jpg,x=250)|
+|&image(ミンミンボウ_ガチャ_あびす.jpg,x=250)|&image(ミンミンボウ_ガチャ_ルウ.jpg,x=250)|
+|&image(ミンミンボウ_ガチャ_華憐.jpg,x=250)||
+
+
+****メニュー画像
+#region(,open)
+
+|新|h
+|&blankimg(ミンミンボウ_お品書き250329.png,width=350,height=198)|h
+|旧|h
+|&blankimg(ミンミンボウ_お品書き240304.jpg,width=350,height=198)|h
+#endregion
+****デザイン協力頂いた方について
+#region(,close)
+#twitter_widget3(){
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="ja" dir="ltr">明味房(ミンミンボウ)開店しました！<br>商品のイラストは 時雨さんだぞ（<a href="https://twitter.com/Sigure_3dazo?ref_src=twsrc%5Etfw">@Sigure_3dazo</a>）<br>看板は やまみね（<a href="https://twitter.com/yamamine3?ref_src=twsrc%5Etfw">@yamamine3</a>）<br>に作成いただきました！<br>ご協力ありがとうございました！<a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a></p>&mdash; Middleee (ミドリ) (@MiddleeeTV) <a href="https://twitter.com/MiddleeeTV/status/1765676585783611799?ref_src=twsrc%5Etfw">March 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+}
+#twitter_widget3(){
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="ja" dir="ltr">ストグラのミンドリー役 Middleeeさん（<a href="https://twitter.com/hashtag/MiddleeeTV?src=hash&amp;ref_src=twsrc%5Etfw">#MiddleeeTV</a>）のご依頼で、新店舗「明味房（ミンミンボウ）」の看板を作成させて頂きました！街ではさっそく口コミで大人気！沢山の方に看板デザインも褒めて頂き嬉しいです😭<br><br>ぜひ配信で見てくれたら嬉しいです！→<a href="https://t.co/JYwVslg3XI">https://t.co/JYwVslg3XI</a><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a> <a href="https://twitter.com/hashtag/%E6%98%8E%E5%91%B3%E6%88%BF?src=hash&amp;ref_src=twsrc%5Etfw">#明味房</a> <a href="https://t.co/uFcQzVhQ9a">pic.twitter.com/uFcQzVhQ9a</a></p>&mdash; やまみね (@yamamine3) <a href="https://twitter.com/yamamine3/status/1765679917734469977?ref_src=twsrc%5Etfw">March 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+}
+[[ガチャ商品：赤野天道さん（@akazato）>>https://x.com/MiddleeeTV/status/1972220133478383850]]
+#CO{ 「Twitter Publish」がエラーで埋め込みコード生成できず。
+#twitter_widget3(){
+}
+}
+#endregion
+#endregion(Season1)
+//
+//
+#co{
+***Season2
+****フード
+#region(開く,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=center:#00A968:#FAFAFA){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~備考|h
+|food|&blankimg(ミンミンボウ印の肉まん.png,x=43,y=43)|ミンミンボウ印の肉まん|50,000|2024/03/03|【明味房】印の肉まん、当店人気№１|
+|food|&blankimg(パラッパラ炒飯.png,x=43,y=43)|パラッパラ炒飯|50,000|2024/03/03|これが家で食えたなら…|
+|food|&blankimg(カニ玉.png,x=43,y=43)|カニ玉|50,000|2024/03/03|一匹の蟹が一人舞台を飾る|
+|food|&blankimg(どろどろ豚骨ラーメン.png,x=43,y=43)|どろどろ豚骨ラーメン|50,000|2024/03/03|百聞は一食にしかず／水分回復、アルコール分解|
+|food|&blankimg(油淋鶏.png,x=43,y=43)|油淋鶏|50,000|2024/03/03|サクサク！ジュワっと油淋鶏|
+|food|&blankimg(豚キムチ.png,x=43,y=43)|豚キムチ|50,000|2024/03/03|旨辛！ごま香る豚キムチ|
+|food|&blankimg(エビチリ.png,x=43,y=43)|エビチリ|50,000|2024/03/03|新鮮なものが一番|
+|food|&blankimg(酢豚.png,x=43,y=43)|酢豚|50,000|2024/03/03|ホロホロと柔らかい豚肉が逸品|
+|food|&blankimg(小籠包.png,x=43,y=43)|小籠包|50,000|2024/03/03|ジュワ～、アッツとなる肉汁たっぷり小籠包|
+|food|&blankimg(天津飯.png,x=43,y=43)|天津飯|50,000|2024/03/03|零れ出そうな量のトロトロ餡がおススメ！|
+|food|&blankimg(しそ入り餃子.png,x=43,y=43)|しそ入り餃子|50,000|2024/03/03|五味の調和|
+|food|&blankimg(にんにくマシマシ餃子.png,x=43,y=43)|にんにくマシマシ餃子|50,000|2024/03/03|ニオイなんか気にするな、好きに食え|
+|food|&blankimg(生姜餃子.png,x=43,y=43)|生姜餃子|50,000|2024/03/03|ガツンとショウガが癖になる！|
+|food|&blankimg(シュウマイ.png,x=43,y=43)|シュウマイ|50,000|2024/03/03|のみ込むのがもったいねぇ…|
+|food|&blankimg(めちゃカラ麻婆豆腐.png,x=43,y=43)|めちゃカラ麻婆豆腐・中辛|50,000||めちゃカラな麻婆豆腐　辛さ：中辛／火傷の恐れあり|
+|food|&blankimg(串.png,x=43,y=43)|○○串|50,000|2024/07/04|多彩な味わい、人串で！まんまる串|
+|food|&blankimg(串持ち帰り.png,x=43,y=43)|○○串・お持ち帰り|50,000|2024/07/04|食べ歩きの新定番！まんまる串|
+|food|&blankimg(キムチ.png,x=43,y=43)|キムチ盛り合わせ|50,000||キムチの極上コレクション／アルコール分解|
+|food|&blankimg(harumaki.png,x=43,y=43)|パリパリ春巻き|50,000|2025/01/30|パリッと香ばしい、心も満たす贅沢春巻き！|
+
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+****ソフトドリンク
+#region(開く,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=center:#00A968:#FAFAFA){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~備考|h
+|drink|&blankimg(中華スープ.png,x=43,y=43)|中華スープ|50,000|2024/03/03||
+|drink|&blankimg(たまごスープ.png,x=43,y=43)|たまごスープ|50,000|2024/03/03||
+|drink|&blankimg(烏龍茶.png,x=43,y=43)|ウーロン茶|50,000|2024/03/03||
+|drink|&blankimg(果汁100％オレンジジュース.png,x=43,y=43)|果汁100％オレンジジュース|50,000|2024/03/03||
+|drink|&blankimg(中華に合うコーラ.png,x=43,y=43)|中華に合うコーラ|50,000|2024/03/03||
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+****お酒
+#region(開く,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=center:#00A968:#FAFAFA){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~備考|h
+|drink|&blankimg(キンキンに冷えたビール.png,x=43,y=43)|キンキンに冷えたビール|50,000|2024/03/03|ビールはアルコールではない&br()＋アルコール|
+|drink|&blankimg(紹興酒.png,x=43,y=43)|紹興酒|50,000|2024/03/03|酒入れば舌出ず&br()－ストレス、＋アルコール|
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+****デザート
+#region(開く,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=center:#00A968:#FAFAFA){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~備考|h
+|dessert|&blankimg(おさげチュロス.png,x=43,y=43)|ミンドリーのおさげチュロス|50,000||ミンドリーのおさげチュロス&br()空腹回復　ストレス軽減&br()[[カニメイト]]の商品|
+|dessert|&blankimg(杏仁.png,x=43,y=43)|杏仁豆腐|50,000||優雅な一口、杏仁の心地よい贅沢&br()空腹回復　ストレス軽減|
+|dessert|&blankimg(月餅.png,x=43,y=43)|明味房の月餅|50,000|2025/02|一口で広がる、贅沢な甘さ&br()空腹回復|
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+****ジョイント
+#region(開く,open)
+#table_filter(){No.=show,種類=show,画像=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=center:#00A968:#FAFAFA){No.=center,価格=right,提供開始日=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~備考|h
+|joint|&blankimg(倒流香.png,x=43,y=43)|倒流香|50,000|2024/03/03|お好きなお香でゆっくりリラックス|
+|joint|&blankimg(sippou.png,x=43,y=43)|明味房の七宝健身球|50,000|2025/01/30|集中力アップ、リラックス効果|
+|joint|&blankimg(明味房のラー油.png,x=43,y=43)|明味房のラー油|50,000||辛味と旨味の絶妙ハーモニー|
+|joint|&blankimg(まるステッカー.png,x=43,y=43)|ステッカー　まる|50,000||【丘猫まる】リラックス効果付きステッカー|
+|joint|&blankimg(ミンドリーステッカー.png,x=43,y=43)|ステッカー　ミンドリー|50,000||【ミンドリー】リラックス効果付きステッカー|
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+****ガチャ商品
+#region(開く,open)
+|&image(ミンミンボウ_ガチャ_ミンドリー.jpg,x=250)|&image(ミンミンボウ_ガチャ_まる.jpg,x=250)|
+|&image(ミンミンボウ_ガチャ_あびす.jpg,x=250)|&image(ミンミンボウ_ガチャ_ルウ.jpg,x=250)|
+|&image(ミンミンボウ_ガチャ_華憐.jpg,x=250)||
+#endregion
+
+****メニュー画像
+#region(開く,open)
+|新|h
+|&blankimg(ミンミンボウ_お品書き250329.png,width=350,height=198)|h
+|旧|h
+|&blankimg(ミンミンボウ_お品書き240304.jpg,width=350,height=198)|h
+#endregion
+}
+
+**沿革
+****2024年
+#region(開く)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#00A968:#FAFAFA){日付=right,出来事=b}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'24/03/03|開店|店長[[ミン　ドリー]]|口コミによる集客を目指し、宣伝せずに開店した。|
+|'24/07/04|肉フェスに出店|[[ミン　ドリー]]&br()[[くまの　ふでこ]]&br()[[聖母　れりあ]]&br()[[チェン　マヨ]]&br()[[ルウ　ギャラクティカ]]&br()[[ルール　ちゃん]]|肉フェス用メニューを開発&br()また、ライブにて、「みんなミンミンボウやめへんで」コント披露|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#EFF9EF,odd=#FFFFFF}
+#endregion
+
+・エピソード募集中
+#right(){&link_up(🔝ページTOPへ)}

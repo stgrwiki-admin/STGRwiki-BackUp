@@ -1,0 +1,120 @@
+*プロフィール
+//&image(ここに画像のURLを入力,y=400)
+&aname(top,option=nolink){ }
+#slide_img(auto=5,width=300,height=400,position=center)
+{王城リレイ_MIMI.jpg,王城リレイ_サニーケバブ.jpg,王城リレイ_ネイル.jpg}
+
+//ここからプロフィール
+#table_style(head=#E6E6FA:#666666){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(おうじょう){王城}　リレイ|
+|~出身地|~&icon_fa(fa fa-location-dot)|-|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|- &co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2026年03月01日 (&countup(2026/03/01,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|ケバブ屋&b(){"[[サニーケバブ]]"}|
+|~所属|~&icon_fa(fa fa-users)|総合総社&b(){"[[モンスターハウスプロダクション]]"}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|王城リレイ(@lireia)|
+|~レーサー名|~&icon_fa(fa fa-car)|-|
+|~電話番号|~&icon_fa(fa fa-phone)|(520)326-8785|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|羚王リレイア|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/lireia_reiyou]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@lireia]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/reiy0u]](同時配信)|
+//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-とある国の王であったが異世界転生をし、気が付くとロスサントスにたどり着いていた。
+-ロスサントスでは国を作りたいと思っている。
+*関係人物
+****&size(125%){&bgcolor(#7b68ee){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)▷所属組織}}&nbsp(47)}}
+#Region(サニーケバブ)&underdot(#E6E6FA,3px){&font(20,b){&icon_fa(fa fa-utensils)&space()サニーケバブ}}
+#table_style(head=center:#7b68ee:#fff)
+|~キャラクター名|~詳細|
+|MIDDLE:&bold(){&b(){&font(15,#666){[[柚乃　いずみ]]}}}|&bold(){飲食店&b(){"[[サニーケバブ]]"}の店長。}|
+|MIDDLE:&bold(){&b(){&font(15,#666){[[タラ　ちゃん]]}}}|&bold(){飲食店&b(){"[[サニーケバブ]]"}の店員であり、黒市民禁止のケバブ屋唯一の黒市民。&br()サニーケバブへの功績が大きく、黒市民として意見をしてくれるアドバイザーとして働いている。&br()イベント会社&b(){"[[モンスターハウスプロダクション]]"}のCEOも勤めており、イベントで街を盛り上げている。}|
+#EndRegion
+//
+****&size(125%){&bgcolor(#7b68ee){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)▷公務員}}&nbsp(50)}}
+#Region(警察)&underdot(#E6E6FA,3px){&font(20,b){&icon_fa(fa-solid fa-person-military-rifle)&space()警察}}
+#table_style(head=center:#7b68ee:#fff)
+|~キャラクター名|~詳細|
+|MIDDLE:&bold(){&b(){&font(15,#666){[[ニックス　リア]]}}}|&bold(){自称"ロスサントス帝国の皇帝"を名乗る警察。&br()出会って早々に厨二病扱いしてきた為、口ケンカとなった。}|
+#EndRegion
+
+#Region(救急隊)&underdot(#E6E6FA,3px){&font(20,b){&icon_fa(fa-solid fa-user-doctor)&space()救急隊}}
+#table_style(head=center:#7b68ee:#fff)
+|~キャラクター名|~詳細|
+|MIDDLE:&bold(){&b(){&font(15,#666){[[命田　守]]}}}|&bold(){釣りガチ勢の救急隊隊長。}|
+|MIDDLE:&bold(){&b(){&font(15,#666){[[イナ　イロハ]]}}}|&bold(){魚の頭をしている救急隊。救急体験をした際、色々教えてくれた。}|
+|MIDDLE:&bold(){&b(){&font(15,#666){[[ノビー　ラング]]}}}|&bold(){タヌキの格好をしている救急隊。救急隊で一番面白いらしい。}|
+#EndRegion
+//
+****&size(125%){&bgcolor(#7b68ee){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)▷黒市民}}&nbsp(50)}}
+#Region(黒市民)&underdot(#E6E6FA,3px){&font(20,b){&icon_fa(fa fa-person-rifle)&space()黒市民}}
+#table_style(head=center:#7b68ee:#fff)
+|~キャラクター名|~詳細|
+|MIDDLE:&bold(){&b(){&font(15,#666){[[五味　カス]]}}}|&bold(){飲食店&b(){"[[サニーケバブ]]"}の元店員。&br()初心者マーク🔰を外し、すぐ黒市民となった。}|
+#EndRegion
+//
+#EndRegion
+*エピソード
+**2026年
+#region(3月,open)&bold(){3月}
+***3/1 [[0日目 - まずはキャラを決めていこう>>https://www.youtube.com/watch?v=JkKUCKVTVWQ]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion(1日)
+
+#endregion(3月)
+//
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion(dd日)
+
+#endregion(mm月)
+
+}
+
+*アーカイブ
+**2026年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/01|0|[[0日目 - まずはキャラを決めていこう>>https://www.youtube.com/watch?v=JkKUCKVTVWQ]]||
+|03/04|1|[[1日目 - 初めまして、ここに国を作ろうと思います。>>https://www.youtube.com/watch?v=OcIBQk0wABw]]||
+|03/05|2|[[王城 リレイ視点 2日目 - 初心者だから何しても許されるわけではない>>https://www.youtube.com/watch?v=I0iesoXwX2s]]||
+|03/07|3|[[王城リレイ 3日目 - 街をぶらぶら回ってみる>>https://www.youtube.com/watch?v=cl6wKlr_AIQ]]||
+|03/08|4|[[王城リレイ 4日目 - 初心者だぞ>>https://www.youtube.com/watch?v=HiS9hk0FUQA]]||
+|03/13|5|王城 リレイ - 5日目 |Twitch配信のためアーカイブは無し|
+|03/14|6|[[王城リレイ 6日目 - メカニックの体験をしたい>>https://www.youtube.com/watch?v=praa-a3vjHk]]||
+|03/15|7|[[王城リレイ 7日目 - 間違えて一番高いマニュアル車を買ったアホな王>>https://www.youtube.com/watch?v=0LMs3-VI1Pc]]||
+|03/18|8|[[王城リレイ 8日目 - 車の運転が上手くなりたい年頃>>https://www.youtube.com/watch?v=zxqkZW7Qa1A]]||
+|03/22|9|[[王城リレイ視点>>https://www.youtube.com/watch?v=Nt-R1Q6IEG0]]||
+|03/26|10|[[王城リレイ視点 - 10日目 >>https://www.youtube.com/watch?v=LOlRVEGob1o]]||
+|03/28|11|[[王城リレイ - 11日目 サッカー王に俺はなる！>>https://www.youtube.com/watch?v=JQlj6pjpmF8]]||
+|04/01|12|[[王城リレイ - 12日目 木こりとメカニックを体験する >>https://www.youtube.com/watch?v=v16hTYzY93U]]||
+|04/03|13|[[王城リレイ - 13日目>>https://www.youtube.com/watch?v=VLAjLImj_bI]]||
+|04/05|14|[[王城リレイ - 14日目 川上たばこ店の面接があるらしい>>https://www.youtube.com/watch?v=1dLj2Xtj73I]]||
+|04/15|15|[[王城リレイ - 15日目 初心者卒業イベント考えないと！>>https://www.youtube.com/watch?v=1rfaJ0lBRnY]]||
+|05/15|16|[[街がいろいろ変わったらしい>>https://www.twitch.tv/videos/2772518083]]||
+|05/16|17|[[1000万稼ぐ / 王城リレイ 17日目>>https://www.twitch.tv/videos/2773341181]]||
+|05/17|18|[[サッカーおうえんする / 王城リレイ 18日目>>https://www.twitch.tv/videos/2774229441]]||
+|05/22|19|[[この街の傷をいやしに来ました。王城リレイ 19日目>>https://www.twitch.tv/videos/2778061475]]||
+|05/24|20|[[救急隊の体験をさせて頂きます。(ご迷惑はかけないように…！) 王城リレイ 20日目>>https://www.youtube.com/watch?v=0_Y35s5b0Ks]]|「[[救急隊>>ロスサントス救急救命隊]]」体験・1日目|
+|05/27|21|[[救急隊の体験2日目 俺がこの街の特効薬になる（ドン） 王城リレイ 21日目>>https://www.youtube.com/watch?v=aeuiUcLK73U]]|「救急隊」体験・2日目|
+|05/30|22|[[救急隊体験３日目 最終日なので全力で楽しむ！-王城リレイ 22日目>>https://www.youtube.com/watch?v=oJ1IIN-tWMo]]|「救急隊」体験・3日目|
+//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

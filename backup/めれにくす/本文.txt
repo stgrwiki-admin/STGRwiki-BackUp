@@ -1,0 +1,115 @@
+#co{ 
+#center(){&image(xx.jpg)}}
+//ヘッダなどの色は仮で入れていますので修正あればお願いします。
+#table_style(head=#ffff7f:#ff1493){}
+|~団体名|🔰&bold(){めれにくす}🎀|
+|~活動開始日|2026年03月26日 (&countup(2026/03/25,yd)経過)|
+|~所属|-|
+|~業種|アイドルグループ|
+|~TwiX &icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@merenikusu（🔰めれにくす🎀）|
+|~拠点|-|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(30px,#ff1493){基}&font(25px)本情報
+-[[萌愛　くしゅり]]の呼びかけにより誕生した5人組アイドルグループ。
+-ロスサントスで『１番かわいいアイドル🎤✨』を目指す。
+-ユニット名の由来は、「め」い、「れ」ん、「に」と、「く」しゅり、「す」てやま、と各メンバーの名前の一文字目を取っている。
+
+**&font(30px,#ff1493){関}係者・組織
+//最初期の加入日についてはTwiXで正式に稼働を発表した日を基準にしています
+***メンバー
+#region(開く,open)
+#table_filter(){加入日=hide}
+#table_style(head=center:#ffe7b8)
+|~名前|~加入日|~担当カラー|~備考|h
+|[[萌愛　くしゅり]]|2026/03/26|ピンク|リーダー|
+|[[千咲　にと]]|2026/03/26|白||
+|[[カミ＝ジョウ　レン>カミジョウ　レン]]|2026/03/26|赤||
+|[[タイフーン　捨山]]|2026/03/26|オレンジ||
+|[[不働　めい]]|2026/03/26|緑||
+#table_sorter{even=#fffcf5,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+***スタッフ
+#region(開く,open)
+#table_filter(){加入日=hide}
+#table_style(head=center:#ffe7b8)
+|~名前|~加入日|~役職・関係|~備考|h
+|[[ジョーカー]]|2026/03/26|プロデューサー・演出||
+#table_sorter{even=#fffcf5,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+***協力者
+#region(開く,open)
+#table_style(head=center:#ffe7b8)
+|~名前|~関係|~備考|h
+|[[罰　下リ]]|楽曲提供||
+|[[豆乳　ちゃんもも]]|グッツ製作||
+|[[ねずみさん]]|演出|元アイドル候補|
+|[[瀬戸　ろろ]]|楽曲提供|元アイドル候補|
+#table_sorter{even=#fffcf5,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+***協力関係にある企業・組織
+#region(開く,open)
+#table_style(head=center:#ffe7b8)
+|~名前|~関係|~備考|h
+|[[Fashion MiMi]]|アイドル雑誌製作||
+#table_sorter{even=#fffcf5,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+#co{ 
+//**&font(30px,#ff1493){楽}曲
+#region(開く,open)
+#table_style(head=center:#ffe7b8)
+|~曲名|~リリース日|~備考|h
+|曲名|yy/mm/dd||
+#table_sorter{even=#fff6de,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+}
+
+*&font(30px,#ff1493){グ}ッズ
+***商品情報
+#table_style(head=#fef9fb){種類=center}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|&icon_fa(fa fa-gifts)|推しセット|¥500.000|2026/06/10|推しの色カップケーキ×10・メロンソーダ×10・ジョイントキーホルダー×10&br()特別ボイス・チェキ撮影セット|
+|&icon_fa(fa fa-microphone)|ランダムボイス|¥300.000|2026/06/10|学校シチュエーションボイス&br()台本は[[スコティッシュ・ホールド]]が制作した|
+//|　|　|　|yyyy/mm/dd|　|
+#table_sorter{even=#fafdff,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#co{
+&icon_fa(fa-solid fa-candy-cane) = food
+&icon_fa(fa-solid fa-glass-water) = drink
+&icon_fa(fa-solid fa-spray-can-sparkles) = relax
+&icon_fa(fa-solid fa-ribbon) = otners
+&icon_fa(fa-solid fa-award) = Special
+&icon_fa(fa-solid fa-gift) = Random
+}
+
+***画像
+#region(2026/06/10 ふぁーすとらいぶ,open)&b(){2026/06/10 ふぁーすとらいぶ}
+&blankimg(Goods_1st_LIVE.png,x=200)
+#endregion(2026/06/10 ふぁーすとらいぶ)
+
+*&font(30px,#ff1493){イ}ベント
+***2026年
+#region(開く,open)
+#table_filter(){出演者=hide,エピソード・備考=show,関連アーカイブ=hide}
+#table_style(head=#b1ff9a){}
+|~日付|~イベント名|~告知画像|~出演者|~エピソード・備考|~関連アーカイブ|
+|MIDDLE:06/10|MIDDLE:めれにくす ふぁーすとらいぶ|&blankimg(Event_ふぁーすとらいぶ.jpeg,x=100)|MIDDLE:[[出演者]]/[[出演者2]]|備考内容|[[タイトル>>URL]]|
+
+//|MIDDLE:mm/dd|MIDDLE:イベント名|出演者|エピソード・備考|
+#table_sorter{even=#fbfffa,odd=#FFFFFF}
+#endregion
+
+
+#right(){&link_up(🔝ページTOPへ)}

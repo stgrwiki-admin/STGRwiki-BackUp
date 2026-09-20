@@ -1,0 +1,303 @@
+*&font(#2ca9e1){&icon_fa(fa-solid fa-user)} プロフィール
+&image(暦ゆうみ_上半身.png)
+
+#table_style(head=#2ca9e1:#fff){}
+#table_filter(){Season 1=hide,Season 2=show}
+|~&co()|~&icon_fa(fa-solid fa-earth-americas)|~Season 1|~Season 2|
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(こよみ){暦}　&ruby(ゆうみ){柚卯実}|
+|~本名|~&icon_fa(fa fa-user-tag)|>|&openclose2(show=???){&br()&ruby(いのせ){猪瀬}　&ruby(うさぎ){卯}}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|2008年01月01日 (&countup(2008/01/01,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年07月13日 (&countup(2025/7/13,yd)経過)|2026年02月26日 (&countup(2026/02/26,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|飲食店【[[Urashima]]】&small(){（25/09/07~）}&openclose2(show=※){&br()&small(){（オムライス屋の商品登録・製造のため）}}&br()&small(){&openclose2(show=職業体験){&br()メカニック【[[A2 Lab]]】（25/09/07）&br()飲食店【[[KoKo七番屋]]】（25/08/23）&br()メカニック【[[9055]]】（25/08/17~）&br()サウナ【[[らびっとむんむん>>Trickster/らびっとむんむん]]】&br()メカニック【[[BMC>>Bear Moon Custom]]】（25/08/03）&br()飲食店【[[明味房>>ミンミンボウ]]】（25/07/20~）&br()メカニック【[[SKE>>菖光エンジニア]]】（25/07/20）&br()飲食店【[[ビュッフェ・アミティーステラ]]】（25/07/13）}}|~|
+|~|~|&openclose2(show=イベント){&br()キャバクラ【[[GoodNight>>GoodNight]]】&small(){（25/09/10）}}||
+|~家族|~&icon_fa(fa fa-users)|>|[[暦家]]|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@yu-mi|@koyomiyuumi|
+|BGCOLOR(#fff):~&color(#2ca9e1){プレイヤー}|BGCOLOR(#fff):~&color(#2ca9e1){&icon_fa(fa fa-address-card-o fa-fw)}|>|ゆちゃむ|
+|BGCOLOR(#fff):~&color(#2ca9e1){告知等}|BGCOLOR(#fff):~&color(#2ca9e1){&icon_fa(fa fa-bullhorn)}|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/yuchamchan0928]]|
+|BGCOLOR(#fff):~&color(#2ca9e1){配信場所}|>|BGCOLOR(#fff):~&color(#2ca9e1){&icon_fa(fa fa-gamepad)}|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E3%82%86%E3%81%A1%E3%82%83%E3%82%80]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/yucham_yuchamero]]&small(){（※同時配信）}|
+|BGCOLOR(#fff):~&color(#2ca9e1){ハッシュタグ}|>|BGCOLOR(#fff):&color(#2ca9e1){&icon_fa(fa fa-hashtag)}|[[&font(#696969){#暦家}>>https://x.com/hashtag/暦家?src=hashtag_click&f=live]]|
+|BGCOLOR(#fff):~&color(#2ca9e1){別キャラ}|BGCOLOR(#fff):&color(#2ca9e1){&icon_fa(fa fa-user-plus)}|>|&small(){&openclose2(show=※ネタバレ注意){：[[ゆちゃ めろでぃ>>ゆちゃ　めろでぃ]]、[[神楽 結菜>>神楽　結菜]]、[[音凪 紬>>音凪　紬]]}}|
+//|BGCOLOR(#fff):~ガイドライン|BGCOLOR(#fff):~&icon_fa(fa fa-circle-info)|[[ガイドライン>>ここにガイドラインのURLを入力]]|
+
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(#2ca9e1){&icon_fa(fa-solid fa-id-card)} 基本情報
+-[[暦家>>暦家]]の四女。
+
+***&underdot(#2ca9e1,3px){&nbsp()&color(#2ca9e1){&icon_fa(fa-solid fa-paw)}&nbsp()ペット&nbsp(2)}
+#region(開く,open)
+#table_style(head=center:#2ca9e1:#fff){#=center,種類=center,名前=center,お迎え=right}
+|~#|~種類|~名前|~お迎え|~備考|
+|1|🐰|うに|25/08/23|久々に呼び出したら月に帰っていた。&br()新鮮な肉と毛皮を手に入れた。|
+#table_sorter{even=#fff,odd=F7F7F7}
+#endregion
+
+**&font(#2ca9e1){&icon_fa(fa-solid fa-calendar-days)} 暦家とは？
+-2025年7月13日以降、不定期に日本から転入してきた12姉妹。
+-全員が2008年1月1日生まれの&countup(2008/01/01,y)歳である。
+-次女の[[暦 ちひろ>>暦　ちひろ]]から託された「手紙」と「航空チケット」を手に、「素敵なレディ」になることを目指して生活している。
+-街に来た本当の理由、家庭環境、姉妹の名前や出生には多くの謎が残されている。
+&u(){&nbsp()※詳細は「[[暦家>>暦家]]」へ&nbsp(2)}
+
+**&color(#2ca9e1){&icon_fa(fa-solid fa-shirt)} 衣装倉庫
+***&underdot(#2ca9e1,3px){&nbsp()&color(#2ca9e1){&icon_fa(fa fa-square-check)}&nbsp()私服&nbsp(2)}
+#region(開く,close)&b(){私服}
+|&blankimg(ゆうみ_私服.png,x=180,y=320)|&blankimg(ゆうみ_私服ひらひら.png,x=180,y=320)|
+|BGCOLOR(#f0f8ff):~私服&br()&small(){お団子ver.あり}|BGCOLOR(#f0f8ff):~私服ひらひら|
+#endregion
+
+*&font(#2ca9e1){&icon_fa(fa-solid fa-book)} エピソード
+
+***&underdot(#2ca9e1,3px){&nbsp()&color(#2ca9e1){&icon_fa(fa fa-square-check)}&nbsp()日別エピソード&nbsp(2)}
+#include(暦　ゆうみ/エピソード1)
+
+#div(width=80px,bgcolor=#e8eef3,color=#2ca9e1){&size(16){&space()&b(){ Season2}}}
+***2026年
+#region(2月,open)&bold(){2月}
+****02/26 #DAY1 [[ここはどこ？>>https://www.youtube.com/live/qKhBoxjocsM?si=CXJXbMCEcx6FUis7]]
+#region(開く,close)閉じる
+-見知らぬアパートで目覚める。何この小さい部屋。皆で買った家は?
+--連絡先を確認するが、誰の番号も入っていなかった。
+-レギオンに向かう。
+--[[サニーケバブ]]前で[[アルタ・スカイブルー]]に会う。[[あやの>>暦　あやの]]と[[しんあ>>暦　しんあ]]の連絡先を受け取る。
+--アルタさんが宇宙人であることを聞く。
+--[[マッハボクシング・ドク>>マッハボクシング　ドク]]に会う。
+--[[千咲 にと>>千咲　にと]]に会う。
+--あやのに電話。
+--TwiXで姉妹の情報を募集する。
+-ドクさんに[[acqua ovest]]まで送ってもらう。
+--あやの、[[亀山 ヒロ>>亀山　ヒロ]]に会う。
+--大川に会う。
+--亀山さんが色々あって海上レストランの体験に降格したことを聞く。社員に戻れるようにお願いする代行サービスをあやのとやることが決定した。
+--[[神無月 カンナ>>神無月　カンナ]]、[[ダミアン>>ダミ　アン]]に会う。二人に亀山さんのいいところを聞いてみる。
+-あやのと近況報告をする。
+--[[ちひろ>>暦　ちひろ]]の番号が消えていることに気づくが、なんとかしてくれるだろう。
+-レギオンに行く。
+--[[いのん>>暦　いのん]]と合流。
+--[[星ノ みこ>>星ノ　みこ]]に会う。
+--[[銭形 やいち郎>>銭形　やいち郎]]、[[岐阜野 こみ蔵>>岐阜野　こみ蔵]]に会う。
+-カジノ主催のイベントに参加。ハイ&ローとチンチロに挑戦する。負けた。
+--[[伊勢 えびす>>伊勢　えびす]]、[[味野 環九郎>>味野　環九郎]]に会う。
+-窓拭き場に向かう。
+--[[星唄 サウ汰>>星唄　サウ汰]]に会う。
+--三人で窓拭きバイトに行く。窓拭きなんて、お手伝いさんにやらせればいいのに。
+--[[鳥羽 咲夜>>鳥羽　咲夜]]に会う。
+--[[斎藤 まさのり>>斎藤　まさのり]]に会う。
+--同じメンバーで再度窓拭きに行く。
+-伊勢えびすにレギオンまで送ってもらう。
+--あやののF3ルーレットでえびすさんから100万円いただく。
+-窓拭きで稼いだお金で再びハイ&ローに挑戦。勝って負けた結果、残金580円になってしまった。
+-サニーケバブに行く。
+--[[トナカイ>>タシロ　カワセ]]、[[飯田 けんつ>>飯田　けんつ]]に会う。
+-車両販売所に行く。
+--[[不働 めい>>不働　めい]]に会う。
+-あやの、いのんと窓拭きに行く。
+-[[JTS>>ジョアンナテクノサービス]]に行く。
+--[[豆やん>>豆　やん]]に会う。
+-病院に行く。
+--[[元難波 登>>伊豆院　登]]、[[福田 明宏>>福田　明宏]]、[[世風天 みにゃ>>世風天　みにゃ]]、[[小豆 最中>>小豆　最中]]、[[ゆたんぽ>>ゆた　んぽ]]、[[葛城 司>>葛城　司]]に会う。
+-レギオンに行く。
+--みこさんに亀山さんの件を聞く。
+--一旦作戦会議をした後、亀山さんが社員に戻れるようお願いする。
+--さらに聞いた話を踏まえて再度作戦会議。全てを話すことにする。
+--みこさんに依頼の件や、[[オムライス屋>>暦家オムライス屋（仮）]]のことを伝える。
+--亀山さんに成果報告。
+-アパートに戻る。
+--一日の出来事を報告して就寝。
+#region(今日の報告,close)&b(){今日の報告}
+>家族グループ！
+
+>今日はお願い代行頑張ったね。みんな無事に転送されますように
+#endregion
+#endregion
+#endregion(2月)
+//
+#co{
+
+#region(2月,open)&bold(){2月}
+****02/dd #DAYn [[タイトル>>URL]]
+#region(開く,close)閉じる
+-エピソードを記述
+#region(今日の報告,close)&b(){今日の報告}
+>
+#endregion
+#endregion
+#endregion(2月)
+
+}
+
+*&font(#2ca9e1){&icon_fa(fa-solid fa-video)} アーカイブ
+#div(width=80px,bgcolor=#e8eef3,color=#2ca9e1){&size(16){&space()&b(){ Season1}}}
+****&color(#2ca9e1){&icon_fa(fa fa-square-check)}&nbsp()&bold(){Day.1 ~ Day.11（2025/07/13〜2025/09/18）}
+&small(){※Twitchアーカイブはサブスクライバー限定}
+#region(開く,close)
+#table_filter(){YouTube=show,Twitch=show,主な出来事=hide}
+#table_style(head=center:#2ca9e1:#fff){配信日=right,day=center,YouTube=center,Twitch=center}
+|~配信日|~day|~YouTube|~Twitch|~配信タイトル|~主な出来事|~備考|h
+|25/07/13|1|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/G86lBZWggJI?si=3eDqTbFxZ-gRHtk4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2511312234]]|突然のお引越し|ロスサントス転入 / アミステでバイト||
+|25/07/20|2|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/VZ2yFCD4og8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2517526509]]|家族がロスサントスに着く？|白パス交付 / 運転免許取得 / 明味房で体験 / SKEで体験||
+|25/07/22|3|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/IPOJ4o-Baqc?si=uy9iOuAoLKDrlSBN]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2519294643]]|お姉ちゃんが来ないと何にもわからないよ|ボイラと衝突 / SKEで働く / 家族会議||
+|25/08/03|4|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/JwrcW1Jm4so?si=3fPNf2BnHm8T_bbZ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2529971328]]|今日は妹が来る？？|テキ屋の大捕物を見届ける / BMCで体験 / 爆発に巻き込まれる||
+|25/08/17|5|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/5o1Ja1rGdIU?si=bTi6TMk52oDA9pOS]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2542437021]]|妹たちが来る日|王に謁見 / らびっとむんむんでバイト / 9055でバイト||
+|25/08/23|6|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/_L0PsS-kzeI?si=ZmYsT3hdZ4shGjOj]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2547589465]]|待ってたよ|明味房でバイト / 市長にオムライス屋の相談 / カレー屋で体験||
+|25/08/27|7|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/nIEkuBLOMFo?si=g3mql4jQX0UPpmor]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2550997729]]|クローンって何ですか？|9055でバイト / 3周年記念式典を見る||
+|25/09/07|8|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/wMOUr_FV6qk?si=tkQH-xT53EYJbqcb]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2560457415]]|おねぇちゃんからメッセージ|A2 Labでバイト / オムライス屋を開業 / デートで3億稼ぐ / 初めてのリサセン||
+|25/09/10|9|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/_a-Sl36ZQf4?si=uD-RilF2O_aX1aBk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2562897974]]|いんが来る日！街がやばいのに暦家キャバクライベント|9055でバイト / うにちゃんが月に帰る / 暦家キャバクラ||
+|25/09/14|10|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/-IbeSugiWhs?si=7IhL9b74EOeh5Cf6]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2566203708]]|猫の存在。私たちって本当は？|E5ミッションに挑戦 / 暦みよことの出会い / 刺傷事件 / 姉妹の家を購入||
+|25/09/18|11|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/SLmtCYE4r4w?si=hzGNYGL1s7oZXICk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2569417548]]|猫の言っていたこと|スポンサーたちと暦家会議 / 借金返済||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#div(width=80px,bgcolor=#e8eef3,color=#2ca9e1){&size(16){&space()&b(){ Season2}}}
+****&color(#2ca9e1){&icon_fa(fa fa-square-check)}&nbsp()&bold(){Day.1 ~（2026/02/26〜）}
+&small(){※Twitchアーカイブはサブスクライバー限定}
+#region(開く,open)
+#table_filter(){YouTbe=show,Twitch=hide,主な出来事=hide}
+#table_style(head=center:#2ca9e1:#fff){配信日=center,day=center,YouTube=center,Twitch=center}
+|~配信日|~day|~YouTube|~Twitch|~配信タイトル|~主な出来事|~備考|h
+|26/02/26|1|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/qKhBoxjocsM?si=CXJXbMCEcx6FUis7]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]|ここはどこ？|||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+#co{
+
+****&color(#2ca9e1){&icon_fa(fa fa-square-check)}&nbsp()&bold(){Day.1~（2026/02/26〜）}
+&small(){※Twitchアーカイブはサブスクライバー限定}
+#region(開く,open)
+#table_filter(){YouTbe=show,Twitch=show,主な出来事=hide}
+#table_style(head=center:#2ca9e1:#fff){配信日=center,day=center,YouTube=center,Twitch=center}
+|~配信日|~day|~YouTube|~Twitch|~配信タイトル|~主な出来事|~備考|h
+|26/02/26|1|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>URL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]|タイトル|||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+}
+
+*&font(#2ca9e1){&icon_fa(fa-solid fa-tv)} 関連リンク
+***&underdot(#2ca9e1,3px){&nbsp()&color(#2ca9e1){&icon_fa(fa-solid fa-film)}&nbsp()再生リスト&nbsp(2)}
+[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【ストグラ暦ゆうみアーカイブ】>>https://youtube.com/playlist?list=PLfKYLDDknv07j2GQYaTBl2NlzGelXGkPT&si=-UeB6lVqOjfr5J7W]]
+[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【ストグラseason2暦ゆうみアーカイブ】>>https://youtube.com/playlist?list=PLfKYLDDknv07rkh2YGbQJJ1Pb12X8tkFJ&si=tKRxBzXbfDvPU6u7]]
+[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ストグラ切り抜き>>https://youtube.com/playlist?list=PLfKYLDDknv04CLvpvap4reTm93j3hag2D&si=fiMoOO7ksOiHdiIO]] &small(){※&openclose2(show=別キャラ){：[[ゆちゃめろでぃ>>ゆちゃ　めろでぃ]]}含む}
+
+***&underdot(#2ca9e1,3px){&nbsp()&color(#2ca9e1){&icon_fa(fa-solid fa-scissors)}&nbsp()切り抜き動画&nbsp(2)}
+#region(開く,open)
+#table_filter(){関連人物=hide}
+#table_style(head=center:#2ca9e1:#fff){投稿日=right}
+|~投稿日|~タイトル|~関連人物|~備考|h
+|26/03/07|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[入国初日濃すぎる警察に囲まれる暦ゆうみ>>https://youtu.be/CSLJ-lco09A?si=63xn_nrbC4UsTO0Q]]|[[暦 みう>>暦　未羽]]、[[キーモット・ホームズ>>キーモット　ホームズ]]、[[ブロッコリー 斎藤>>ブロッコリー　斎藤]]||
+|26/04/10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ロスサントスの常識に馴染めず広場うた子と意気投合する暦ゆうみ>>https://youtu.be/3t2YjUuxNcw?si=pgqAx55qhSoQLnA-]]|[[暦 みう>>暦　未羽]]、[[牧田 ここな>>牧田　ここな]]、[[広場 うた子>>広場　うた子]]||
+|26/05/08|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[雷堂ましろに姉妹の生い立ちを聞かれる暦姉妹>>https://www.youtube.com/watch?v=YBzgkG2NL2E&t=14s]]|[[暦 みう>>暦　未羽]]、[[暦 いのん>>暦　いのん]]、[[雷堂 ましろ>>雷堂　ましろ]]||
+|26/06/08|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[初めての飛行機免許に大苦戦する暦ゆうみ>https://youtu.be/GF-NWMxyipg?si=M03DAexkCpVhIoXf]]|[[暦 あずみ>>暦　あずみ]]、[[斎藤 まさのり>>斎藤　まさのり]]、[[山田 ジェイミー>>山田　ジェイミー]]||
+|26/06/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[暦姉妹の買い物に頭を抱えるマッハボクシングドク>>https://youtu.be/PlgjO7Q94OU?si=2EfkIzBhBXTZEak6]]|[[暦 あずみ]]、[[斎藤まさのり>>斎藤　まさのり]]、[[マッハボクシング・ドク>マッハボクシング　ドク]]||
+|26/08/14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[初対面なのに失礼すぎるボイラにキレる暦ゆうみに振り回されるマッハボクシングドク>>https://www.youtube.com/watch?v=CiQNY85t3Xw]]|[[ボイラ・テンガリン>>ボイラ　テンガリン]]、[[マッハボクシング・ドク>>マッハボクシング　ドク]]||
+|26/08/31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[第1回暦家会議をする暦ゆうみ/ 暦にこ/暦あずみ/暦みう/暦いのん>>https://www.youtube.com/watch?v=pJWprzpCLv0]]|||
+#table_sorter{even=#F7F7F7,odd=fff}
+//
+#co{
+|yy/mm/dd|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]|||
+}
+#endregion
+
+**&color(#2ca9e1){&icon_fa(fa-solid fa-arrow-up-right-from-square)} ストグラ外コラボ
+***&underdot(#2ca9e1,3px){&color(#2ca9e1){&icon_fa(fa fa-gamepad)}&nbsp()ゲーム&nbsp(2)}
+#region(2025年,open)&b(){2025年}
+#table_filter(){ゲーム名=hide,参加者=show,参加住民=hide,備考=show}
+#table_style(head=#2ca9e1:#F9FCFF:center:b){配信日=center}
+|~配信日|~ゲーム名|~内容/タイトル|~参加者|~参加住民|~備考|h
+|25/10/27|ラウンジ&br()①一致するまで終われまテン！&br()②擬音語で説明しましょう！|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[初コラボ！！！\一致するまで終われまテン！/姉妹役やってるんだもん息ぴったりだよねっ♪>>https://www.youtube.com/live/uRRp5T59-OA?si=u2UaBxknA47jtAO3]]|[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]|[[ゆうみ>>暦　ゆうみ]]、[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[しんあ>>暦　しんあ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]||
+|25/12/01|ワードウルフ|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[姉妹で騙しあうだと？！>>https://www.youtube.com/live/GVnQEz30Fv8?si=kiFRnZqbWg3SAdx0]]|[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]|[[ゆうみ>>暦　ゆうみ]]、[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[しんあ>>暦　しんあ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[いのん>>暦　いのん]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#co{
+|yy/mm/dd|ゲーム|タイトル|[[プレイヤー>>SNS]]|[[住民>>wiki]]||
+
+&color(#fc9403){&icon_fa(fa fa-bell-slash)}
+
+[[&font(#696969){#暦家}>>https://x.com/hashtag/暦家?src=hashtag_click&f=live]]
+
+▼暦家住民wiki
+[[にこ>>暦　にこ]]
+[[いん>>暦　いん]]
+[[ゆうみ>>暦　ゆうみ]]
+[[しんあ>>暦　しんあ]]
+[[あずみ>>暦　あずみ]]
+[[ひるの>暦　午ノ]]
+[[みう>>暦　未羽]]
+[[あやの>>暦　あやの]]
+[[ゆん>>暦　ゆん]]
+[[いのん>>暦　いのん]]
+
+▽一気ver.
+[[ゆうみ>>暦　ゆうみ]]、[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[しんあ>>暦　しんあ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]
+
+▼暦家プレイヤーSNS
+[[甘乃あもこ>>https://x.com/amoko_official]]
+[[遠吠きゃん>>https://x.com/Kyan_VPI]]
+[[ゆちゃむ>>https://x.com/yuchamchan0928]]
+[[もこ田めめめ>>https://x.com/mokomeme_ch]]
+[[あずもな>>https://x.com/mo_na_ka1025]]
+[[バル子>>https://x.com/baruko_dayo]]
+[[neon>>https://x.com/neon_niconico]]
+[[羽ヶ町つまみ>>https://x.com/Hagamatti]]
+[[にしのん>>https://x.com/2_nsnn_4]]
+[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+▽一気ver.
+[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+}
+
+***&underdot(#2ca9e1,3px){&nbsp()&color(#2ca9e1){&icon_fa(fa-solid fa-music)} 歌ってみた&nbsp(2)}
+#region(2026年,open)&b(){2026年}
+//
+#table_filter(){曲名=show,タイトル=hide,参加者=show,住民名=hide,備考=show}
+#table_style(head=#2ca9e1:#F9FCFF:center:b){投稿日=center}
+|~投稿日|~曲名|~タイトル|~参加者|~住民名|~備考|h
+|26/01/05|[[経験値上昇中☆>>https://youtu.be/mK9aZ5webu8?si=QbLw1vJSe_s3Z9Oq]]|[[『経験値上昇中☆』-みなみけCovered by #暦家/甘乃あもこ/遠吠きゃん/ゆちゃむ/もこ田めめめ/あずきもなか/バル子/neon/羽ヶ町つまみ/にしのん/美南まよ>>https://youtu.be/mK9aZ5webu8?si=QbLw1vJSe_s3Z9Oq]]|[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]|[[ゆうみ>>暦　ゆうみ]]、[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[しんあ>>暦　しんあ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+#co{
+|yy/mm/dd|曲名|タイトル|[[プレイヤー>>URL]]|[[住民>>wiki]]||
+
+[[&font(#696969){#暦家}>>https://x.com/hashtag/暦家?src=hashtag_click&f=live]]
+
+▼暦家住民wiki
+[[にこ>>暦　にこ]]
+[[いん>>暦　いん]]
+[[ゆうみ>>暦　ゆうみ]]
+[[しんあ>>暦　しんあ]]
+[[あずみ>>暦　あずみ]]
+[[ひるの>暦　午ノ]]
+[[みう>>暦　未羽]]
+[[あやの>>暦　あやの]]
+[[ゆん>>暦　ゆん]]
+[[いのん>>暦　いのん]]
+
+▽一気ver.
+[[ゆうみ>>暦　ゆうみ]]、[[にこ>>暦　にこ]]、[[いん>>暦　いん]]、[[しんあ>>暦　しんあ]]、[[あずみ>>暦　あずみ]]、&br()[[ひるの>暦　午ノ]]、[[みう>>暦　未羽]]、[[あやの>>暦　あやの]]、[[ゆん>>暦　ゆん]]、[[いのん>>暦　いのん]]
+
+▼暦家プレイヤーSNS
+[[甘乃あもこ>>https://x.com/amoko_official]]
+[[遠吠きゃん>>https://x.com/Kyan_VPI]]
+[[ゆちゃむ>>https://x.com/yuchamchan0928]]
+[[もこ田めめめ>>https://x.com/mokomeme_ch]]
+[[あずもな>>https://x.com/mo_na_ka1025]]
+[[バル子>>https://x.com/baruko_dayo]]
+[[neon>>https://x.com/neon_niconico]]
+[[羽ヶ町つまみ>>https://x.com/Hagamatti]]
+[[にしのん>>https://x.com/2_nsnn_4]]
+[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+▽一気ver.
+[[ゆちゃむ>>https://x.com/yuchamchan0928]]、[[甘乃あもこ>>https://x.com/amoko_official]]、[[遠吠きゃん>>https://x.com/Kyan_VPI]]、[[もこ田めめめ>>https://x.com/mokomeme_ch]]、[[あずもな>>https://x.com/mo_na_ka1025]]、&br()[[バル子>>https://x.com/baruko_dayo]]、[[neon>>https://x.com/neon_niconico]]、[[羽ヶ町つまみ>>https://x.com/Hagamatti]]、[[にしのん>>https://x.com/2_nsnn_4]]、[[美南まよ>>https://x.com/MiNAMi_MAYO]]
+
+}
+
+#right(){&link_up(🔝ページTOPへ)}

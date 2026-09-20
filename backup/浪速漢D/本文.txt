@@ -1,0 +1,121 @@
+//TOP画像サイズは基本的に16：9の倍数でお願いします
+#slide_img(auto=3,width=480,height=270,position=center)
+{浪速漢D1.webp,浪速漢D2.webp}
+撮影：[[うしくん>キラ・メキーラ]]
+
+#table_style(head=#D8BEBD:#FFFFFF){}
+|BGCOLOR(#ecdede):|>|>|BGCOLOR(#f9f4f4):|BGCOLOR(#ecdede):|
+|BGCOLOR(#f9f4f4):|MIDDLE:CENTER:~グループ名|MIDDLE:CENTER:~&space()&icon_fa(fa-solid fa-music)&space()|&space(2)&ruby(なにわだんでぃ){&bold(){&color(#7ED956){浪}&color(#FEDE2B){速}&color(#FC67C5){♡}&color(#930976){漢}&color(#5271FF){D}}}|BGCOLOR(#f9f4f4):|
+|~|MIDDLE:CENTER:~種別|MIDDLE:CENTER:~&icon_fa(fa fa-microphone)|&space(2)オジさんアイドル&space(2)|BGCOLOR(#9370db):~|
+|~|MIDDLE:CENTER:~結成日|MIDDLE:CENTER:~&icon_fa(fa fa-flag)|&space(2)2025年04月15日&br()&small(){（&countup(2025/04/14,yd)経過）}&co(){※countupは設立日の1日前に設定}&space(2)|BGCOLOR(#9370db):~|
+|~|MIDDLE:CENTER:~デビュー日|MIDDLE:CENTER:~&icon_fa(fa fa-flag)|&space(2)2025年08月16日&br()&space(2)SUMMER FESTIVAL 2025&space(3)&br()&small(){（&countup(2025/08/15,yd)経過）}&co(){※countupは設立日の1日前に設定}|BGCOLOR(#9370db):~|
+|~|MIDDLE:CENTER:~メンバー|MIDDLE:CENTER:~&icon_fa(fa fa-solid fa-users)|&space(2)5名&small(){（2025年8月16日現在）}|BGCOLOR(#9370db):~|
+|~|MIDDLE:CENTER:~プロデューサー|MIDDLE:CENTER:~&icon_fa(fa fa-user)|&space(2)&bold(){[[ダミ　アン]]}|BGCOLOR(#9370db):~|
+|~|MIDDLE:CENTER:~所属|MIDDLE:CENTER:~&icon_fa(fa-solid fa-tower-observation)|&space(2)&small(){&openclose2(show=Season1の所属){：&bold(){[[西サントス]]}}}|BGCOLOR(#9370db):~|
+|~|MIDDLE:CENTER:~事務所|MIDDLE:CENTER:~&icon_fa(fa fa-map-marker)|&space(2)&small(){&openclose2(show=Season1の拠点){：8009番地}}|BGCOLOR(#9370db):~|
+|~|MIDDLE:CENTER:~Xの＃タグ|MIDDLE:CENTER:~&icon_fa(fa fa-crow)|&space(2)[[&font(b,u,#696969){#浪速漢D}>>https://x.com/hashtag/%E6%B5%AA%E9%80%9F%E6%BC%A2D?src=hashtag_click]]|BGCOLOR(#9370db):~|
+|BGCOLOR(#ecdede):|>|>|BGCOLOR(#f9f4f4):|BGCOLOR(#ecdede):|
+#table_sorter{even=#f9f4f4,odd=#FFFFFF}
+//
+//|~|MIDDLE:CENTER:~TwiX|MIDDLE:CENTER:~&icon_fa(fa fa-dove)|&space()&space()@【】&space()&space()|BGCOLOR(#9370db):~|
+
+#region(目次を開く,close)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**&font(30px,#bea5a4){基}&font(25px){本情報 &icon_fa(fa fa-id-card-o)}
+-「[[西サントス]]」の寄り合いの中で生まれたオジさんアイドル。
+-「[[シャンクズプロモーション]]」主催の「SUMMER FESTIVAL 2025」にてデビュー。
+-デビュー曲は&bold(){「愛してまんがな」}。
+-プロデューサーは[[ダミアン>ダミ　アン]]。作詞作曲を担当。
+-振付師は[[ジョアンナ町田>町田　ジョアンナ]]。
+-サビのダンスは[[ねずみさん>えぐち　きの子]]の「ちゅうの安売りダンス」から来ている。
+-美女コーラス隊がいる。
+
+**&font(30px,#bea5a4){メ}&font(25px){ンバー &icon_fa(fa fa-solid fa-microphone-lines)}
+#table_style(head=#D8BEBD:#FFFFFF:center:b){名前=bold}
+#table_filter(){担当カラー=show,加入日=hide,備考=show}
+|~名前|~担当カラー|~加入日|~備考|h
+|&ruby(さくらのみや　じゅうそう){&bold(){桜ノ宮 十三}} &size(11){&openclose2(show=※ネタバレ注意){[[銭形 やいち郎>銭形　やいち郎]]}}|&bold(){&color(#FC67C5){桜色}}|2025/04/15|メインボーカル＆ダンサー|
+|&ruby(いまみや　てんま){&bold(){今宮 天満}} &size(11){&openclose2(show=※){[[豆 やん>豆　やん]]}}|&bold(){&color(#FEDE2B){黄色}}|2025/04/15|ボーカル＆ダンサー|
+|&ruby(ほうえんざか　かどま){&bold(){法円坂 門真}} &size(11){&openclose2(show=※){[[平井のおっちゃん>平井　善之]]}}|&bold(){&color(#930976){紫色}}|2025/04/15|ボーカル＆ダンサー|
+|&ruby(かみしん　じょう){&bold(){上新 ジョー}} &size(11){&openclose2(show=※){[[伊達咲 政宗>伊達咲　政宗]]}}|&bold(){&color(#5271FF){青色}}|2025/xx/xx|バックダンサー|
+|&ruby(しもしん　じょう){&bold(){下新 ジョー}} &size(11){&openclose2(show=※){[[亀山 ヒロ>焼野原　ひろし]]}}|&bold(){&color(#7ED956){緑色}}|2025/xx/xx|バックダンサー|
+//|[[名前]]|2025/mm/dd|役職|備考|配信|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+***美女コーラス隊
+#table_style(head=#D8BEBD:#FFFFFF:center:b){名前=bold}
+#table_filter(){備考=show}
+|~名前|~備考|h
+|&bold(){コーラス コ隊}|&bold(){&size(11){&openclose2(show=※ネタバレ注意){&br()[[ダミ アン>ダミ　アン]]&br()[[ジョアンナ 町田>町田　ジョアンナ]]&br()[[君島 こはる>君島　こはる]]}}}|
+|&bold(){玉造三姉妹}|&bold(){&size(11){&openclose2(show=※ネタバレ注意){&br()[[ダミ アン>ダミ　アン]]&br()[[山田 パルコ>山田　パルコ]]&br()[[太田 民子>太田　民子]]}}}|
+
+//|[[名前]]|2025/mm/dd|役職|備考|配信|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+**&font(30px,#bea5a4){ス}&font(25px){タッフ &icon_fa(fa fa-solid fa-id-card-clip)}
+#table_style(head=#D8BEBD:#FFFFFF:center:b){名前=bold}
+#table_filter(){加入日=hide,備考=show}
+|~名前|~加入日|~備考|h
+|&bold(){[[ダミ　アン]]}|2025/04/15|プロデューサー|
+|&bold(){[[町田　ジョアンナ]]}|2025/xx/xx|振付師|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+**&font(30px,#bea5a4){事}&font(25px){務所 &icon_fa(fa fa-home)}
+#table_style(head=#D8BEBD:#FFFFFF:center:b){}
+#table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
+|~Season|~番地|~場所|~備考|h
+|Season1|8009番地|寄合所|[[西サントス]]の寄合所。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+**&font(30px,#D8BEBD){出}&font(25px){演 &icon_fa(fa-solid fa-calendar-days)}
+#table_style(head=#D8BEBD:#FFFFFF:center:b){イベント名称=bold}
+//#table_filter()
+|~開催日|~主催|~イベント名称|~内容|~場所|h
+|2025/08/16(土) 21:00～|[[シャンクズプロモーション]]|SUMMER FESTIVAL 2025|デビューライブを行った。|7006番地|
+|2026/01/25(日) 22:00〜|[[モンスターハウスプロダクション]]|ちいさな水辺のコンサート||8210番地|
+|2026/08/09(日)　|[[Club Passiona]]・[[JTS]]|夏フェス|新曲を披露|　|
+//|||||
+#table_sorter{even=#f9f4f4,odd=#FFFFFF}
+
+//
+//
+#co{
+**&font(30px,#D8BEBD){楽}&font(25px){曲 &icon_fa(fa-solid fa-music)}
+#table_style(head=#D8BEBD:#FFFFFF:center:b){タイトル=bold}
+//#table_filter()
+|~公開日|~タイトル|~内容|h
+
+//|||||
+#table_sorter{even=#f9f4f4,odd=#FFFFFF}
+}
+//
+//
+//
+**&font(30px,#bea5a4){歴}&font(25px){史 &icon_fa(fa-solid fa-book-open)}
+***2025年
+#region(開く)
+#table_style(head=#D8BEBD:#FFFFFF:center:b){}
+#table_filter(){}
+|~日付|~出来事|~備考|h
+|04/15|「[[西サントス]]」の寄り合いにて結成された。||
+|08/16|「[[シャンクズプロモーション]]」主催の「SUMMER FESTIVAL 2025」にてデビュー。|歌唱曲「愛してまんがな」|
+#table_sorter{even=#f9f4f4,odd=#FFFFFF}
+#endregion
+***2026年
+#region(開く,open)
+#table_style(head=#D8BEBD:#FFFFFF:center:b){}
+#table_filter(){}
+|~日付|~出来事|~備考|h
+|01/25|イベント出演|[[モンスターハウスプロダクション]]主催『ちいさな水辺のコンサート』に出演|
+|02/25|イベント出演|[[アイドゥラー　ヨシャパテ]]主催の住民参加型イベント -Not Lost Time- に出演|
+|08/09|イベント出演|[[Club Passiona]]・[[JTS]]主催『夏フェス』に出演|
+//|mm/dd|出来事|備考|
+#table_sorter{even=#f9f4f4,odd=#FFFFFF}
+#endregion
+#right(){&link_up(🔝ページTOPへ)}

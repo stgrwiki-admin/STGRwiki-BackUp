@@ -1,0 +1,26 @@
+&font(16px,b,u,black){Season1}
+#region(開く)
+***&font(22px){&icon_fa(fa fa-car)} 所有車両
+#table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=show,備考=show}
+#table_style(head=center:#E6E6FA){名前=left,#=center,取得日=right}
+|~車両ID|~車両名|~会社名|~タイプ|~取得日|~備考|h
+|GOJC3103|Fixter||Cycle|0日目(25/05/28)|自転車屋で22,500円で購入。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(S1所有車両)
+
+//===================================
+//
+&font(16px,b,u,black){Season2}
+***&font(22px){&icon_fa(fa fa-car)} 所有車両
+#region(開く)
+#table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=show,備考=show,画像=show}
+#table_style(head=center:#E6E6FA){名前=left,#=center,取得日=right}
+|~車両ID|~車両名|~会社名|~タイプ|~取得日|~備考|~画像|h
+|L9V9ZLCV|Faggio|Pegassi|Motorcycles|1日目(26/01/11)||&blankimg(01_Faggio.png,width=40,height=22)|
+|VBE8T0E4|Cody Mechanic Truck (ST)|Dinka|Off-road|2日目(26/01/14)||&blankimg(02_Cody Mechanic Truck ST_01.png,width=40,height=22)&blankimg(02_Cody Mechanic Truck ST_02.png,width=40,height=22)|
+|81PI8OU|Blista|Dinka|Compact|10日目(26/03/26)||&blankimg(03_Blista.png,width=40,height=22)&blankimg(03_Blista_02.png,width=40,height=22)|
+|L3CE7559|Cody Mechanic Truck (AT)|Dinka|Off-road|11日目(26/03/28)|ATを購入したが、ガレージではSTと表記される||
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(S2所有車両)

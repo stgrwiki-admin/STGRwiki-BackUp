@@ -1,0 +1,539 @@
+【　旧店名"Marie's Bakery"時代の情報もこちら　】
+
+#image(ベーカリー早苗_230614.jpg, y=320)
+
+#slide_img(auto=3,width=320,height=180){
+ベーカリー早苗_230721.jpg,
+ベーカリー早苗_店内1.jpg,
+ベーカリー早苗_店内2.jpg,
+ベーカリー早苗_移動販売1.jpg,
+ベーカリー早苗_移動販売4.jpg,
+ベーカリー早苗_移動販売6.jpg,
+ベーカリー早苗_移動販売10.jpg,
+ベーカリー早苗_移動販売3.jpg,
+ベーカリー早苗_移動販売8.jpg
+}
+
+#table_color(#EEEEEE)
+#table_filter(){Season1=hide,Season2=show}
+|~世界線|~Season1|~Season2|
+|~店名|>|ベーカリー&ruby(さなえ){早苗}|
+|~業種|>|飲食店：パン屋|
+|~開業日|2022年9月5日 (&countup(2022/09/05,yd)経過)|2026年04月22日 &small(){(&countup(2026/04/22,yd)経過)}&br()2026年06月24日 &small(){(グランドオープン)}|
+|~所在地|>|8043番地|
+|~店長|[[小花衣　早苗]]・[[ラグランジュ　光芝]]|[[ラグランジュ　光芝]]|
+//&font(#666666){【開業日について9/5より以前の情報お持ちであれば編集お願いします。】}
+//9/2は市役所の就職リストに載ってないことを確認しています。9/3・9/4確認中。
+
+&anchor(目次1,option=nolink){}
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-パン、ドリンクなどの商品を販売するお店。
+***Season1
+#region(開く)
+-店内の棚に並んでいる商品はセルフで購入出来るため店員不在時でも利用できる。
+-セルフの購入方法は店内入ってすぐにところにあるバスケットを心の目で持ち、欲しい商品を各棚から心の目でバスケットに入れた後、レジを心の目でPayから支払うことで購入できる。
+--バスケットに商品が入った状態で未払いのまま外へ出るとバスケットに入れた商品はリセットされる。
+--バスケットは共有されるようで複数人が商品をバスケットに入れた状態で1人が会計するとその時点でバスケットに入っている全員分の商品の支払いをしてしまう恐れがある
+-一部ドリンクとオリジナル商品は店員から直接購入する必要がある。
+-旧店名は"Marie's Bakery"。22/10/14"ベーカリー早苗"に変更された。
+-居抜き物件の為か、店の看板には「Marie Blachere」と書かれている
+-店内入り口付近上部に「BOULANGERIE & PATISERRIE」、壁紙に「CAKE」と書かれている通りパンの他にケーキ類も取り扱う。
+-車で移動販売することもあり、レギオン駐車場で行うことが多い。
+-従業員は駐車場のPAY STATIONから社用車としてレンタカーを借りることが出来る。
+-社宅・駐車場完備（23/06/05）
+-社宅の名前は「早苗荘」(23/08/11)
+#endregion
+***Season2
+-開店資金調達のためクラウド&s(){ファン}パンディングを実施。(26/04/05)
+-プレオープン中(26/04/22)
+-住宅ローンの残債を一括返済(26/05/20)
+-グランドオープン(26/06/24)
+-グランドオープンに併せて店舗横に駐車場が設置された。
+
+**クラウドパンディング
+-開店資金調達のためクラウド&s(){ファン}パンディングを実施。
+#region(チラシ,close)&b(){チラシ}
+&blankimg(ベーカリー早苗_クラウドパンディング.png,x=480,y=679)
+#endregion
+#region(出資者,close)&b(){出資者}
+#table_style(head=center){}
+|~出資者|~出資内容|~出資金額|~店長メモ|h
+|[[ダミ　アン]]|オリジナルパン500万|500万||
+|[[寝言　怠惰]]|オリジナルパン500万|500万|ビーグル犬 黒白系|
+|[[神田　じぇいのすけ]]|ラテアート50万|50万||
+|[[ももみ>ももみ　マルフォイ]]|ラテアート300万|300万|ももみ顔甘め|
+|[[橘　かげまる]]|オリジナルパン500万|500万|ヨーソロー|
+|[[シオコ　リコ]]|オリジナルパン500万&br()ラテアート100万|500万&br()100万|お支払い済|
+|[[亀山　Hero]]|ラテアート100万|100万|支払い未|
+//|||||
+#table_autoincrement()
+#endregion
+//店長メモが「のすけ」だったため、間違えていたら修正願います。
+
+**従業員情報
+***従業員
+#region(Season1)
+#table_style(head=#eee,center){}
+#table_filter(){備考=show}
+|~役職|~名前|~就職日|~備考|h
+|&b(){店長}|[[小花衣　早苗]]|[[22/09/05>>https://youtu.be/1FCIhQGLx-g?t=1959]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|店名にある"早苗"当人。&br()[[オーナー>服部　ぺぇ次]]が早々にパン屋を辞めてしまった為、店長になった。|
+|&b(){店長}|[[ラグランジュ　光芝]]|[[22/10/07>>https://youtu.be/l71FBi1P64s?t=2240]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|早苗店長不在時長らく店長代理として勤務していたが&br()とある事件をきっかけに決意し、以降店長として勤務している。|
+|店員|[[犬神　いぬりん]]|[[23/03/20>>https://youtu.be/CqSTi5-X5NU?t=7265]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|パン屋としては5ヶ月ぶりとなった待望の新規従業員。&br()移動販売を精力的に行っている。|
+|店員|[[シオコ　リコ]]|[[23/07/20>>https://youtu.be/gw37xYyiDFg?t=5041]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[ラグランジュ　光芝]]に勧められ就職を決める。&br()7/20付(7/19深夜)雇用契約書にサイン。|
+|店員|[[山田　パルコ]]|[[23/08/13>>https://youtu.be/TevekbS-Zl8?t=17727]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|職業体験を経て就職。&br()正規雇用後も時折 芝一族コスチュームで勤務してくれている。|
+|店員|[[駆音　エル]]|[[23/09/25>>https://youtu.be/8kw3xRDzcjQ?t=10110]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|職業体験を経て就職。|
+|店員|[[七転　うぐ]]|[[??/??/??>>https://youtu.be/]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|23/04/13時点で従業員リストに載っている事を確認。|
+|店員|[[grow]]|[[24/09/05>>https://youtu.be/fzGDVeWOY_c?t=8348]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|職業体験を経て就職。|
+//|店員|[[御花見　さくら]]|[[22/10/12>>https://youtu.be/vJOvOsR2RUU?t=8923]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[小花衣　早苗]]が買った移動販売用の車を譲り受けている。&br()最終出勤日12/4。|
+#table_autoincrement()
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//BOSSMENUの従業員リストに載っている人を記載（副業で一時的に抜けてる人も含む）。
+//日付は29時(am5時)更新として記述しています。
+//就職日はBOSSMENUでの雇用日としています。
+//備考欄は基本的にはパン屋関連・就職関連の情報に留めています。
+//水城いがこの就職については9/7配信時既に就職済みだったが就職自体は配信外で行われたと思われるので厳密な日付は不明、自視点情報初出の9/6(深夜)を就職日に書いています。
+#size(50%){　}
+#region(開く ロスサントス初契約書 【プレイヤーKADAのツイート】)
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a>　<br>今日は3時以降の方が忙しいレベルだった…！<br>謎に免許センター面子の結束が固まったｗ<br><br>パン屋もシオコさんと契約を結べたので今後どうなるだろう！シオコさんが契約書ほしいと言っていたので社宅で雇用契約書作ったぞ！ｗ <a href="https://t.co/k99LJidcsa">pic.twitter.com/k99LJidcsa</a></p>&mdash; KADA (@kada_teion) <a href="https://twitter.com/kada_teion/status/1681759435511988225?ref_src=twsrc%5Etfw">July 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion(ロスサントス初契約書 【プレイヤーKADAのツイート】)
+
+#endregion
+#size(50%){　}
+#region(Season2,open)
+#table_style(head=#eee,center){}
+#table_filter(){備考=show}
+|~役職|~名前|~就職日|~備考|h
+|&b(){店長}|[[ラグランジュ　光芝]]|yyyy/mm/dd||
+|&b(){店員}|[[ホシ・バミオ]]|yyyy/mm/dd||
+|&b(){店員}|[[grow]]|2026/06/17||
+
+//|&b(){}|[[]]|||
+#endregion
+
+***職業体験者
+#region(Season1)
+#table_style(head=center){}
+#table_filter(){備考=show}
+|~名前|~体験開始日|~備考|h
+|[[えびな　ヨネ]]|[[23/03/17>>https://youtu.be/kaL9nCBMD7A?t=1840]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}||
+|[[空舞月　りり]]|[[23/05/17>>https://youtu.be/iLDUL2rUVB0?t=1365]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|体験時の名前：ヴェルファーレ りり芝|
+|[[加賀　イズミ]]|[[23/05/17>>https://www.twitch.tv/videos/1822485189?collection=JuNqsUNlXxfOlQ&t=02h34m34s]]&font(#6441A4){&icon_fa(fa fa-twitch)}|体験時の名前：ヴィバルディ イズ芝|
+|[[空舞月　るる]]|[[23/05/17>>https://youtu.be/YCieA6V87Dw?t=560]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|体験時の名前：ヴァンキッシュ るる芝|
+|[[キラ・メキーラ]]|[[23/05/23>>https://youtu.be/0duWuj_gXjU?t=6291]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}||
+|[[牧田　ここな]]|[[23/06/04>>https://youtu.be/JqacBGYwV7A?t=5169]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|体験時の名前：ヴィヴィアン ここ芝|
+|[[あやな　みれい]]|[[23/06/07>>https://youtu.be/Rd5rJ8biLHc?t=11509]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}||
+|[[あいまいみー]]|[[23/06/12>>https://www.twitch.tv/videos/1844952066?t=00h37m25s]]&font(#6441A4){&icon_fa(fa fa-twitch)}|体験時の名前：ヴィンテージ まい芝|
+|[[ヘスティア　ゴデス]]|[[23/06/26>>https://youtu.be/iYijVxkKTi0?t=882]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|体験時の名前：ヴォルテックス ヘス芝|
+|[[エド・エトワール]]|[[23/07/21>>https://youtu.be/ZGEddkk6gFo?t=16120]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}||
+|[[山田　パルコ]]|[[23/07/24>>https://youtu.be/m6GLHOz30ZA?t=6148]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|体験時の名前：ヴィンテージ パル芝→(2日目7/26以降)ヴィーナス パル芝|
+|[[牧野　ムギ]]|[[23/07/24>>https://www.twitch.tv/videos/1880378857?t=00h35m18s]]&font(#6441A4){&icon_fa(fa fa-twitch)}||
+|[[ルウ　ギャラクティカ]]|[[23/07/26>>https://youtu.be/zABCe_c1EjA?t=4245]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|体験時の名前：ルウ &ruby(オー){Ｏ}芝|
+|[[駆音　エル]]|[[23/09/20>>https://youtu.be/NMSmFYdYVtk?t=4012]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}||
+|[[イネヌコ]]|23/10/30||
+|[[豆　やん]]|23/12/15||
+|[[ネズ]]|24/04/13|体験時の名前：UN パンマン、JAMおじさん|
+|[[吉花　ブルーハート]]|24/05/28||
+#table_autoincrement()
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+//日付は29時(am5時)更新として記述しています。
+&font(#666666){【他体験者の情報お持ちの方がいましたら追記・編集お願いします。】}
+#endregion
+#size(50%){　}
+#region(Season2)
+//
+//
+#table_style(head=#eee,center){}
+#table_filter(){備考=show}
+|~名前|~体験開始日|~備考|h
+//|[[名前]]|yy/mm/dd||
+#table_autoincrement()
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+#endregion
+
+***バイト経験者
+#region(Season1)
+#table_style(head=center){}
+#table_filter(){備考=show}
+|~名前|~就業開始日|~備考|h
+|[[しら　ぽち]]|[[23/10/07>>https://youtu.be/FJoZ1nLh9VQ?t=17946]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|光芝勤続1周年セールのストック作りの為&br()何でも屋へ依頼して来てくれた単発バイト|
+#table_autoincrement()
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+//日付は29時(am5時)更新として記述しています。
+&font(#666666){【他経験者の情報お持ちの方がいましたら追記・編集お願いします。】}
+|[[ネズ]]|
+#endregion
+
+***退職者
+#region(Season1)
+#table_style(head=center){}
+#table_filter(){備考=show}
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[服部　ぺぇ次]]|[[22/09/05>>https://youtu.be/rPpj7-i61Sc?t=2035]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|22/09/06|当初パン屋オーナー傍らに探偵業をするつもりだったが、&br()弁護士に就いたため退職。|
+|[[杠葉　瑠衣]]|[[22/09/15>>https://youtu.be/5G8NKfslic4?t=21175]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|22/09/15|就職日以降街に来ておらず、BOSSMENU従業員リストにも残っていない。|
+|[[霊岳　礼子]]|[[22/10/12>>https://youtu.be/5XJM6WqHKDA?t=16392]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|22/10/14|[[御花見　さくら]]と共に市役所で就職。&br()人があまり居ないと聞いて就職したが思いの外居た為、記者に転職。|
+|[[空舞月　りり]]|[[23/05/19>>https://youtu.be/JiOrL01LJQY?t=7143]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[23/09/15>>https://www.youtube.com/watch?v=3nOme0an3-Q&t=3435s]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|職業体験を経て就職。芝一族の流れを作った。&br()芝一族ネームはヴェルファーレ りり芝 改め ヴァルファーレ りり芝。&br()クラシックスポーツカーディーラーに就くため退職。|
+|[[水城　いがこ]]|[[22/09/06>>https://youtu.be/q--_Xgyp15s?t=607]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|22/09/06|就職日以降見かけず、長らく従業員リストに載っていた幽霊部員ならぬ幽霊定員。&br()従業員リストからは23/10/29を最後に外れている。|
+|[[御花見　さくら]]|[[22/10/12>>https://youtu.be/vJOvOsR2RUU?t=8923]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|22/12/04|[[小花衣　早苗]]が買った移動販売用の車を譲り受けている。&br()従業員リストからは24/04/13時点で外れている。|
+#table_autoincrement()
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+//日付は29時(am5時)更新として記述しています。
+&font(#666666){【他退職者の情報お持ちの方がいましたら追記・編集お願いします。】}
+#endregion
+#size(50%){　}
+#region(Season2)
+//
+//
+#table_style(head=center){}
+#table_filter(){備考=show}
+|~名前|~就職日|~最終出勤日|~備考|h
+//|[[名前]]|yy/mm/dd|yy/mm/dd||
+#table_autoincrement()
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+#endregion
+
+#right(){&link_anchor(目次1){△目次へ}}
+**商品情報
+***Season1
+#region(開く)閉じる
+****レギュラー商品
+#region(商品リスト,open)
+#table_style(head=center){種類=center,価格=right,旧価格2=right,旧価格1=right}
+#table_filter(){価格=hide,旧価格2=hide,旧価格1=hide,備考=show}
+|~種類|~商品名|~価格|~旧価格2|~旧価格1|~備考|h
+|Food|&b(){Small Baguette}（スモールバゲット）|20000円|4000円|2000円||
+|Food|&b(){Medium Baguette}（ミディアムバゲット）|20000円|5000円|2500円||
+|Food|&b(){Large Baguette}（ラージバゲット）|20000円|6000円|3000円|腹持ちがいい大人気商品|
+|Food|&b(){Croissant}（クロワッサン）|20000円|3000円|2000円||
+|Food|&b(){Regular Donut}（ドーナツ）|20000円|10000円|1000円||
+|Food|&b(){Chocolate Donut}（チョコレートドーナツ）|20000円|10000円|1000円||
+|Food|&b(){Glazed Pink Donut}（グレーズドピンクドーナツ）|20000円|10000円|1000円||
+|Food|&b(){Frozen Pizza}（冷凍ピザ）|20000円|20000円|1200円|そのままでは食べられないらしい？|
+|Food|&b(){Snacks}（スナック各種）|各20000円|各10000円|各1000円|Nachos・Twix・Snickers・Crispsの4種|
+|Drink|&b(){Milk}（ミルク）|20000円|10000円|1500円|飲んだ直後数秒足が早くなる噂がある|
+|Drink|&b(){Juice}（ジュース各種）|各20000円|各10000円|各1500円|Grape・Apple・Orangeの3種|
+|Drink|&b(){Beer}（ビール各種）|各20000円|各10000円|各1500円|Dusche・Logger・AM・Jakey・Logopenの5種|
+|Drink|&b(){Coffee}（コーヒー）|10000円|2000円|1000円|店員から直接購入する商品、飲んだ直後数秒足が早くなる噂がある&br()ほんのりリラックス効果があるが何故か時折ストレスを感じることもある|
+|Drink|&b(){Espresso}（エスプレッソ）|10000円|3000円|2000円|店員から直接購入する商品|
+|Drink|&b(){Espresso Macchiato}（エスプレッソマキアート）|10000円|3000円|2000円|店員から直接購入する商品|
+|Drink|&b(){Ice Caffe Latte}（アイスカフェラテ）|10000円|3000円|2000円|店員から直接購入する商品|
+|Drink|&b(){Cold Brew Latte}（コールドブリューラテ）|10000円|3000円|2000円|店員から直接購入する商品、飲んだ直後数秒足が早くなる噂がある|
+|Drink|&b(){Strawberry Vanilla Oat Latte}（ストロベリーバニラオートラテ）|10000円|3000円|2000円|店員から直接購入する商品|
+|Drink|&b(){Honey Hazelnut Oat Latte}（ハニーヘーゼルナッツオートラテ）|10000円|3000円|2000円|店員から直接購入する商品|
+|Drink|&b(){Water}（水）|10000円|1000円|500円|店員から直接購入する商品|
+|Drink|&b(){Cola}（コーラ）|10000円|1000円|500円|店員から直接購入する商品|
+※旧価格1は2023年9月以前のもの。
+※旧価格2は2023年10月15日以前のもの。
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+#endregion
+
+****オリジナル商品
+#region(商品リスト,open)
+#table_style(head=center){＃=right,種類=center,画像=center,登録者=center,価格=right,旧価格=right}
+#table_filter(){＃=hide,画像=hide,価格=hide,旧価格=hide,登録者=hide,備考=show}
+|~＃|~登録日|~種類|~画像|~商品名と商品説明|~価格|~旧価格|~登録者|~備考|h
+|1|22/10/23|Food|&image(早苗パン_Helloween basket.png,x=35)|&b(){Helloween basket}（ハロウィンバスケット）&br()kawaii halloween basket desu|10000円|1000円|小花衣早苗|ハロウィン限定商品、パン4種つめあわせ&br()カボチャパン,プレッツェル,チョココロネ,ホイップパン|
+|2|22/10/23|Food|&image(早苗パン_Helloween cookie.png,x=35)|&b(){Helloween cookie}（ハロウィンクッキー）&br()halloween rasii kawaii ikimono san no cookie desu|10000円|1000円|小花衣早苗|ハロウィン限定商品&br()かわいい生き物さんのクッキーつめあわせ|
+|3|22/10/23|Food|&image(早苗パン_Helloween cupcake.png,x=35)|&b(){Helloween cupcake}（ハロウィンカップケーキ）&br()kawaii ikimono san no cupcake desu|10000円|1000円|小花衣早苗|ハロウィン限定商品、プリティーな生き物さんの&br()ハロウィンカラーリングカップケーキ|
+|4|22/10/26|Food|&image(早苗パン_niconico sanae pan.png,x=35)|&b(){niconico sanae pan}（ニコニコ早苗パン）&br()sanae kara shika kaenai special na pan (kao)|37000円|37000円|小花衣早苗|他2種と合体出来るエグゾディアパン(早苗の顔型)&br()早苗しか作れず早苗からしか買えない特別なパン|
+|5|22/10/26|Food|&image(早苗パン_dokidoki sanae pan.png,x=35)|&b(){dokidoki sanae pan}（ドキドキ早苗パン）&br()sanae kara shika kaenai special na pan (ue)|37000円|37000円|小花衣早苗|他2種と合体出来るエグゾディアパン(早苗の上半身型)&br()早苗しか作れず早苗からしか買えない特別なパン|
+|6|22/10/26|Food|&image(早苗パン_wakuwaku sanae pan.png,x=35)|&b(){wakuwaku sanae pan}（ワクワク早苗パン）&br()sanae kara shika kaenai special na pan (shita)|37000円|37000円|小花衣早苗|他2種と合体出来るエグゾディアパン(早苗の下半身型)&br()早苗しか作れず早苗からしか買えない特別なパン|
+|7|22/11/30|Food|&image(光芝パン_Degu pan.png,x=35)|&b(){Degu pan}（デグーパン）&br()gessirui ha iizo|10000円|8000円|ラグランジュ光芝|光芝パン第一弾、転生前の姿であるデグーがモチーフ|
+|8|22/11/30|Food|&image(光芝パン_Harikomi anpan.png,x=35)|&b(){Harikomi anpan}（張り込みアンパン）&br()"hosi" wo tukamaero!(tubuan)|10000円|2000円|ラグランジュ光芝|光芝パン第一弾、警察(キーモットホームズ)をイメージ&br()犯人("クロ" "ホシ")を捕まえろという意味を持たせたデザイン|
+|9|22/12/13|Food|&image(光芝パン_Degu cake_Agouti.png,x=35)|&b(){Degu cake(Agouti)}（デグーケーキ(アグーチ)）&br()model no degu ha ququ♀|10000円|10000円|ラグランジュ光芝|クリスマス向け|
+|10|22/12/13|Food|&image(光芝パン_Degu cake_sand.png,x=35)|&b(){Degu cake(sand)}（デグーケーキ(サンド)）&br()model no degu ha ende♂|10000円|10000円|ラグランジュ光芝|クリスマス向け|
+|11|23/01/13|Food|&image(光芝パン_sinzou pan.png,x=35)|&b(){sinzou pan}（心臓パン）&br()pan massage|10000円|8000円|ラグランジュ光芝|救急隊をイメージ&br()静動脈はチョコペンで作成|
+|12|23/01/21|Food|&image(光芝パン_heart pan.png,x=35)|&b(){heart pan}（ハートパン）&br()magokoro wo,kimini|10000円|8100円|ラグランジュ光芝|心臓パン不評につきかわいい心臓(ハート)でバレンタインにも向けた商品&br()生地にクランベリーパウダーを使用|
+|13|23/01/21|Food|&image(光芝パン_menhera pan.png,x=35)|&b(){menhera pan}（メンヘラパン）&br()omoi ga afureteru|10000円|8100円|ラグランジュ光芝|ハートパンの裏メニュー&br()焼いてる途中でチョコが溢れ出てしまう|
+|14|23/01/31|Food|&image(光芝パン_Dear JOANNA.png,x=35)|&b(){Dear JOANNA}（ディア ジョアンナ）&br()I'm so happy to habe you in my life.||priceless|ラグランジュ光芝|[[斎藤 まさのり>斉藤　まさのり]]特注品(専売)|
+|15|23/02/13|Food|&image(光芝パン_Valentine cake.png,x=35)|&b(){Valentine cake}（バレンタインケーキ）&br()Valentine's cake made by Otoko for Souta||10000円|ラグランジュ光芝|[[風早　音子]]特注品(専売)|
+|16|23/02/13|Food|&image(光芝パン_HAPPY VALENTINE.png,x=35)|&b(){HAPPY VALENTINE}（ハッピーバレンタイン）&br()I'd do anything to make you Happy.||10000円|ラグランジュ光芝|[[斎藤 まさのり>斉藤　まさのり]]特注品(専売)|
+|17|23/02/26|Food|&image(光芝パン_queen's breakfast.png,x=35)|&b(){queen's breakfast}（クイーンズブレックファースト）&br()kono aji ga wakaru kasira|10000円|10000円|ラグランジュ光芝|[[まりー　あんとあー]]専用メニュー(専売)|
+|18|23/03/08|Drink|&image(光芝パン_pan tea.png,x=35)|&b(){pan tea}（パン ティー）&br()named by raido mashiro|10000円|4600円|ラグランジュ光芝|パンを添えた紅茶、紅茶の味はハニーレモン&br()[[雷堂　ましろ]]の発言からヒントを得て考案|
+|19|23/03/08|Food|&image(光芝パン_kare- pan.png,x=35)|&b(){kare- pan}（「カレー」パン）&br()on th curry-ya medium-spicy|10000円|5500円|ラグランジュ光芝|「カレー」という文字のパンをカレーに乗せた品&br()パン ティーに添えているパンの残った材料で作成|
+|20|23/03/13|Food|&image(光芝パン_Degu cake 2022.png,x=35)|&b(){Degu cake 2022}（デグーケーキ2022）&br()2022 no Xmas ni tukutta.|10000円|10000円|ラグランジュ光芝|ホワイトデー向け|
+|21|23/03/31|Food|&image(光芝パン_MASHIRO PAN.png,x=35)|&b(){MASHIRO PAN}（ましろパン）&br()Shambles!!|10000円|4600円|ラグランジュ光芝|パン ティーに添えていたパンを単品商品化&br()形は[[雷堂　ましろ]]の"雷"をイメージ|
+|22|23/04/02|Food|&image(光芝パン_hato pan.png,x=35)|&b(){hato pan}（はとパン）&br()poppo poppo hato-poppo|10000円|8100円|ラグランジュ光芝|いたずら心で考案&br()目の部分はラムレーズン|
+|23|23/04/15|Food|&image(光芝パン_marimo pan.png,x=35)|&b(){marimo pan}（まりもパン）&br()oisii meronpan|10000円|3000円|ラグランジュ光芝|[[まりー　あんとあー]]制作パン、光芝は厨房貸出(登録)で協力&br()まりも(Marie Motors)にちなんで毬藻をイメージした抹茶味のメロンパン|
+|24|23/04/15|Food|&image(光芝パン_Mushi Mariimon.png,x=35)|&b(){Mushi Mariimon}（蒸しまりーもん）&br()Marimo no marui mushipan desu.|10000円|3000円|ラグランジュ光芝|[[ジョアンナ　町田]]制作パン、光芝は厨房貸出(登録)で協力&br()まりも(Marie Motors)にちなんで毬藻をイメージした抹茶味の蒸しパン|
+|25|23/04/17|Food|&image(光芝パン_Heart pan 2.png,x=35)|&b(){Heart pan 2}（ハートパン ツー）&br()frambose masi masi|10000円|8100円|ラグランジュ光芝|ハートパンのピンク感増した改良版&br()トッピングはフランボワーズ|
+|26|23/04/17|Drink|&image(光芝パン_Champan_glass.png,x=35)|&b(){Champan (glass)}（シャンパン(グラス)）&br()awa ha silver dragees|10000円|5000円|ラグランジュ光芝|パンだけど飲み物、シャンパンイースト使用&br()水面は色付き砂糖、気泡はアラザンで表現|
+|26|23/04/18|Food|&image(光芝パン_Pan Dahmer.png,x=35)|&b(){Pan Dahmer}（パンダーマー）&br()nakami ha siro-an da-na-|10000円|8000円|ラグランジュ光芝|白あんパンのパンダパン&br()おさげがチャームポイント|
+|28|23/05/05|Drink|&image(早苗パン_milkul.png,x=35)|&b(){Milkul}（ミルクル）&br()milk...? yoghourt...? sanae original drink!|10000円|3700円&br()&sizex(-3){12歳以下}100円|小花衣早苗|坊っちゃんたち向けの牛乳&br()容器は哺乳瓶|
+|29|23/05/05|Drink|&image(早苗パン_Sanae Original Juice.png,x=35)|&b(){Sanae Original Juice}（早苗オリジナルジュース）&br()Sanae mixed juice! It is not"Sanae Juice".|10000円|3700円|小花衣早苗|早苗が好きなものをジューサーに入れて作ったドリンク&br()栄養満点、早苗汁ではありません|
+|30|23/05/30|Food|&image(光芝パン_karna pan.png,x=35)|&b(){karna pan}（かーなパン）&br()Maximum thanks to you.|10000円|7494円|ラグランジュ光芝|かな市長補佐がモデルで感謝の意を込めたパン&br()帽子にホワイトチョコパウダーとクーベルチュール、髪に紫芋パウダー&br()顔にキャラメルチョコチップとキャラメルパウダーを使用|
+|31|23/06/03|Food|&image(光芝パン_BirthdaycakeJune6th.png,x=35)|&b(){BirthdaycakeJune6th}（バースデーケーキ6月6日）&br()Manamichan otanjoubi omedetou|10000円|10000円|ラグランジュ光芝|[[キーモット　ホームズ]]特注品(専売)|
+|32|23/08/12|Food|&image(光芝パン_Gentsuki Yaki.png,x=35)|&b(){Gentsuki Yaki}（げんつき焼き）&br()Riri burned it in the kitchen.|10000円|3000円|ラグランジュ光芝|夏祭りに向けた商品　7/21店内モトコンポ炎上事件から考案&br()車体のクッキー生地に紅麹パウダー&br()パン部分にブラックココアパウダーを使用|
+|33|23/08/26|Food|&image(光芝パン_Hiroshi pan.png,x=35)|&b(){Hiroshi pan}（ひろしパン）&br()Shicyou erai !! sutogura saikou !!!|10000円|10000円|ラグランジュ光芝|街の1周年記念商品&br()8/27･28日は限定価格1640円で販売|
+|34|23/09/01|Food|&image(パルコパン_NINJIN PAN.png,x=35)|&b(){NINJIN PAN}（にんじんパン）&br()Rabbit's Favorite Food|10000円|3000円|山田パルコ|パルコオリジナルメニュー第1弾&br()うさぎさんとうまさんに人気|
+|35|23/09/24|Food|&image(光芝パン_siba pan.png,x=35)|&b(){siba pan}（芝パン）&br()kusa koete siba|10000円|円|ラグランジュ光芝||
+|36|23/10/00|Drink|&image(光芝パン_Star champagne tower.png,x=35)|&b(){Star champagne tower}（スターシャンパンタワー）&br()Drink it on a starry night.|100万円|円|ラグランジュ光芝|救急隊イベント"ゴチになります"に提供した商品&br()シャンパンタワーに星が降り注いでいる&br()"stgr"のデコレートがされている|
+|37|23/10/13|Food|&image(光芝パン_Bazuri koge pan.png,x=35)|&b(){Bazuri koge pan}（バズリ焦げパン）&br()nakama sayumi ga kogasite bazutta.|10000円|円|ラグランジュ光芝|夢の世界のXでバズったパン&br()バズったポストに対しての[[プレイヤーKADAのリツイート>>https://twitter.com/kada_teion/status/1713051610350539166]]&font(#1da1f2){&icon_fa(fa fa-twitter)}|
+|38|23/10/20|Food|&image(光芝パン_age age pan.png,x=35)|&b(){age age pan}（アゲ↑揚げパン）&br()We are PARTY PEOPLE!!|10000円|円|ラグランジュ光芝|文化祭に向けた商品|
+|39|23/11/15|Food||&b(){cream pan soda}（クリームパンソーダ）&br()メロンゼリーにクリームパン、そしてドレンチェリー。|円||ラグランジュ光芝|各飲食店がクリームソーダを販売している状況に食べ物で参戦&br()ゼリーの上にクリームパンとドレンチェリーを乗せた商品|
+|40|23/11/15|Food||&b(){The pan of the ring}（パンオブザリング）&br()指輪を模したパンに琥珀糖をあしらいました。ご結婚おめでとうございます。|円||ラグランジュ光芝|[[命田　守]]＆[[サンフォレスト　あんず]]結婚式用に依頼された特注品&br()宝石の部分は琥珀糖を使用|
+|41|(23/12/06)|Food||&b(){ZETTAI ONPAN}（絶対音パン）&br()今日も素敵な音が聞けますように。|10000円|||エル オリジナルメニュー第1弾|
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+※旧価格は2023/10/15以前のもの。(飲食店協会で店の飲食物下限額が1万円に決まった為価格変更となった)
+//日付はRegisterProduct登録日、不明なものは配信上初登場日。
+//日付は29時(am5時)更新として記述しています。
+//日本語表記はサブタイ、ストグラ内メッセージ、Twitterなどで確認できたものはそれに準ずる。
+//まりもパン日付は推測です。14日配信上まだメニューに無く次配信の17日には既に登録済、16日は丸々INしてない発言があり視聴者参加Discodeでも確認できず、15日は配信なかったが視聴者参加Discodeで4時間ほどIN確認出来るので恐らく。
+#endregion
+#endregion(Season1)
+***Season2
+#region(開く,open)閉じる
+***レギュラー商品
+#region(商品リスト,open)
+&icon_fa(fa-solid fa-bread-slice)&space()= food / &icon_fa(fa-solid fa-coffee)&space()= drink / &icon_fa(fa-solid fa-wheat-awn)&space()= relax / &icon_fa(fa-solid fa-ribbon)&space()= otners / &icon_fa(fa-solid fa-cake-candles)&space()= Special / &icon_fa(fa-solid fa-gift)&space()= Random
+#table_style(head=center){種類=center,価格=right}
+#table_filter(){価格=hide,備考=show}
+|~種類|~商品名|~価格|~備考|h
+|&icon_fa(fa fa-bread-slice)|デグーパン|5,000円|　|
+|&icon_fa(fa fa-bread-slice)|張り込みあんぱん|5,000|　|
+|&icon_fa(fa fa-bread-slice)|ハートパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|メンヘラパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|あんチョ〜コパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|おちょこパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|かな市長補佐パン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|きのこパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|げんつき焼き| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|しかこしあんぱん| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|つれぇパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|とりももどーなつ| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|にんじんパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|はとパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|もまーふいん| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|アゲ↑揚げパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|クリームパンソーダ| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|チュロロ座カバー| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|デグーケーキ| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|デグートゥロン＆マサパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|パンノミミアゲターノ| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|パンノミミマルメターノ| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|パンノミミクリヌカレターノ| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|パンダーマー| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|ブッシュ・ド・デグー| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|ホワイトハートパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|レモンクリームパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|弱虫おばけパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|強いぞ狼マリトッツォ| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|心臓パン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|早々のシュトーレン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|白ヘビパン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|絶対音パン| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|馬刺しサンド| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|しっとりしとしとフレンチトースト| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|ホワイトアップルローズパン|4 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|からめるチョコプレッツェル| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|お花見桜ぁんぱん| 5,000円|　|
+|&icon_fa(fa fa-bread-slice)|ニシンのパイ| 5,000円|　|
+|&icon_fa(fa fa-coffee)|早苗コーヒー| 5,000円|　|
+|&icon_fa(fa fa-coffee)|ラムネフラッペ| 5,000円|　|
+|&icon_fa(fa fa-coffee)|ミルクル| 5,000円|　|
+|&icon_fa(fa fa-coffee)|早苗オリジナルジュース| 5,000円|　|
+|&icon_fa(fa fa-coffee)|パンティー| 5,000円|　|
+|&icon_fa(fa fa-coffee)|グラスシャン「パン」| 5,000円|　|
+|&icon_fa(fa fa-coffee)|ジョアップルジュースタチバナナシェイク| 5,000円|　|
+|&icon_fa(fa fa-coffee)|キラメキーラテ| 5,000円|　|
+|&icon_fa(fa fa-coffee)|キャラメルカプチッペ| 5,000円|　|
+|&icon_fa(fa fa-coffee)|人魚の涙| 5,000円|　|
+|&icon_fa(fa fa-coffee)|スパイシースターココア| 5,000円|　|
+|&icon_fa(fa fa-wheat-awn)|パイプパン| 5,000円|　|
+|&icon_fa(fa fa-wheat-awn)|ノビートング| 5,000円|　|
+|&icon_fa(fa fa-wheat-awn)|ヨツハーブ| 5,000円|　|
+|&icon_fa(fa fa-cake-candles)|パン生日おめでとう|30,000円|誕生日ギフト品|
+|&icon_fa(fa fa-gift)|ランダムパン袋|4,000円|フードメニューがどれか入っているガチャ|
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+
+&small(){2026/08/28 価格改定 4,000円→5,000円}
+#endregion
+#endregion(Season2)
+
+***メニュー画像
+****Season1
+#region(開く)
+//#region(22/11/09 レギュラーメニュー)&b(){22/11/09 レギュラーメニュー}
+//#endregion
+//#region(23/09/08 オリジナルメニュー)&b(){23/09/08 オリジナルメニュー}
+//#endregion
+#region(23/09/12 レギュラーメニュー（価格改正）)&b(){23/09/12 レギュラーメニュー（価格改正）}
+&blankimg(ベーカリー早苗_メニュー230912.png,x=480,y=340)
+#endregion
+#region(23/10/24 Foodメニュー（価格改正＆新商品追加）)&b(){23/10/24 Foodメニュー（価格改正＆新商品追加）}
+&blankimg(ベーカリー早苗_メニュー231024food.jpg,x=480,y=270)
+#endregion
+#region(23/10/24 Drinkメニュー（価格改正）)&b(){23/10/24 Drinkメニュー（価格改正）}
+&blankimg(ベーカリー早苗_メニュー231024drink.jpg,x=480,y=270)
+#endregion
+//#region(23/12/06 Foodメニュー（クリームパンソーダ･絶対音パン 追加）)&b(){23/12/06 Foodメニュー（クリームパンソーダ･絶対音パン 追加）}
+//#endregion
+#region(23/12/13 Foodメニュー（地図追加）)&b(){23/12/13 Foodメニュー（地図追加）}
+&blankimg(ベーカリー早苗_メニュー231213.png,x=480,y=560)
+#endregion
+#region(24/08/21 レギュラーメニュー（夏の新商品追加）)&b(){24/08/21 レギュラーメニュー（夏の新商品追加）}
+&blankimg(ベーカリー早苗_メニュー240821.jpeg,x=480,y=330)
+&blankimg(ベーカリー早苗_夏の新商品240821.jpg,x=480,y=290)
+#endregion
+#region(24/10/27 イベントFoodメニュー（ピルボックス学園祭出店）)&b(){24/10/27 イベントFoodメニュー（ピルボックス学園祭出店）}
+&image(https://pbs.twimg.com/media/Ga6q2ttbwAAnHia?format=jpg&name=large,x=480,y=330)
+&image(https://pbs.twimg.com/media/Ga6q2txbcAAboFf?format=jpg&name=large,x=480,y=330)
+#endregion
+#region(Foodメニュー)&b(){Foodメニュー}
+&image(https://stgr-r2.libhalt.net/images/9767a468-519c-4d3f-bae2-559ff444f156.jpeg,x=480,y=330)
+#endregion
+#region(クリスマスメニュー、正月限定メニュー) &b(){クリスマスメニュー、正月限定メニュー}
+&image(https://stgr-r2.libhalt.net/images/3a6cedfb-14a4-4e4a-aea3-c7bf7a0507b5.png,x=480,y=390)
+#endregion
+#region(バレンタインデー)&b(){バレンタインデー}
+&image(https://stgr-r2.libhalt.net/images/09fd19ea-8bfc-4dcf-85ca-c2c8b041d213.png,x=480,y=330)
+#endregion
+#region(Foodメニュー,open)&b(){Foodメニュー}
+&image(https://stgr-r2.libhalt.net/images/178721e4-6a6e-47d5-acd1-426c14d94c81.jpeg,x=480,y=240)
+&image(https://stgr-r2.libhalt.net/images/9b919e5d-ee2a-44dd-b492-26eed9b1af1c.jpeg,x=480,y=330)
+#endregion
+#region(イースター限定商品,open)&b(){イースター限定商品}
+&image(https://stgr-r2.libhalt.net/images/5f845255-ee70-4df6-bcba-1282ac376948.png,x=290,y=290)
+#endregion
+#endregion(Season1)
+****Season2
+#region(開く,open)
+//
+//
+#region(26/04/22 プレオープンメニュー)&b(){26/04/22 プレオープンメニュー}
+&blankimg(ベーカリー早苗_メニュー260423.jpg,x=480,y=672)
+#endregion
+#region(26/06/25 メニュー)&b(){26/06/25 メニュー}
+&blankimg(ベーカリー早苗_メニュー260625.jpeg,x=260,y=400)
+#endregion
+#region(26/08/28 メニュー,open)&b(){26/08/28 メニュー}
+&blankimg(ベーカリー早苗_メニュー260828.jpeg,x=370,y=200)
+&blankimg(ベーカリー早苗_メニュー260828_2.jpeg,x=370,y=200)
+&blankimg(ベーカリー早苗_メニュー260828_3.jpeg,x=370,y=200)
+
+#endregion
+
+#endregion(Season2)
+#co{
+#region(日付 タイトル,open)&b(){タイトル}
+&blankimg(画像,x=480,y=330)
+#endregion
+}
+
+#right(){&link_anchor(目次1){△目次へ}}
+**パン屋年表
+***2022年
+#region(開く)閉じる
+#table_style(head=center){日付=right}
+#table_filter(){備考=show}
+|~日付|~出来事|~備考|h
+|22/09/05|"Marie's Bakery" 開業&br()[[服部　ぺぇ次]] 就職(22時頃)&br()[[小花衣　早苗]] 就職(25時40分頃)||
+|09/06|[[水城　いがこ]] 就職(～25時)&br()[[服部　ぺぇ次]] 退職(27時頃)||
+|09/15|[[杠葉　瑠衣]] 就職||
+|22/10/07|[[ラグランジュ　光芝]] 就職||
+|10/12|[[御花見　さくら]]、[[霊岳　礼子]] 就職||
+|10/14|店名が"ベーカリー早苗"に変わる&br()[[霊岳　礼子]] 退職||
+|10/24|「ハロウィン限定商品3種」販売開始||
+|10/28|「早苗エグゾディアパン3種」販売開始||
+|22/11/10|飲食組合会議||
+|22/12/01|「デグーパン」「張り込みアンパン」販売開始||
+|12/23|「デグーケーキ」販売開始||
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+//日付は29時(am5時)更新として記述しています。
+#endregion
+***2023年
+#region(開く)閉じる
+#table_style(head=center){日付=right}
+#table_filter(){備考=show}
+|~日付|~出来事|~備考|h
+|23/01/15|「心臓パン」販売開始||
+|01/19|福男イベントに協賛||
+|01/23|「ハートパン」「メンヘラパン」販売開始||
+|01/31|「Dear JOANNA」受注||
+|23/02/02|店内にTV導入||
+|02/13|「Valentine's cake」「HAPPY VALENTINE」受注||
+|23/03/06|「QUEEN'S BREAKFAST」を[[まりー　あんとあー]]へプレゼント||
+|03/09|「パン ティー」「「カレー」パン」販売開始||
+|03/13|「デグーケーキ2022」販売開始||
+|03/17|[[えびな　ヨネ]] 職業体験||
+|03/19|居抜き風看板設置||
+|03/20|[[犬神　いぬりん]] 就職|約5ヶ月ぶりの新規従業員|
+|03/23|[[小花衣　早苗]] 約100日ぶりの出勤||
+|23/04/01|「ましろパン」販売開始||
+|04/03|「はとパン」販売開始||
+|04/04|春のパンまつり会議||
+|04/06|ストグラ春のパンまつり 募集開始（4月末締切）||
+|04/18|「ハートパン ツー」「シャンパン(グラス)」販売開始||
+|04/21|まりもパン審査||
+|04/25|まりもイベント協力||
+|04/27|「まりもパン」「蒸しまリーもん」販売開始||
+|04/30|ストグラ春のパンまつり 応募締切||
+|23/05/06|「ミルクル」「早苗オリジナルジュース」販売開始||
+|05/09&br()～05/10|エンデ君生誕記念セール(24時～)|デグーケーキ(サンド)&br()通常価格1万円を1000円で販売|
+|05/17|「パンダーマー」販売開始&br()[[空舞月　りり]]、[[加賀　イズミ]]、[[空舞月　るる]] 職業体験||
+|05/19|[[空舞月　りり]] 就職||
+|05/21|NEWSアプリ記事パン屋特集||
+|05/23|[[キラ・メキーラ]] 職業体験||
+|23/06/01|「かーなパン」販売開始||
+|06/03|「BirthdaycakeJune6th」受注||
+|06/04|[[牧田　ここな]] 職業体験||
+|06/05|社宅購入||
+|06/07|[[あやな　みれい]] 職業体験||
+|06/12|[[あいまいみー]] 職業体験||
+|06/26|[[ヘスティア　ゴデス]] 職業体験||
+|06/30|「ミルクル」「パン ティー」リラックス効果追加||
+|23/07/20|[[シオコ　リコ]] 就職||
+|07/21|[[エド・エトワール]] 職業体験||
+|07/24|[[山田　パルコ]]、[[牧野　ムギ]] 職業体験||
+|07/26|[[ルウ　ギャラクティカ]] 職業体験||
+|23/08/11|[[小花衣　早苗]]　3ヶ月ぶりの出勤&br()社宅命名「早苗荘」||
+|08/13|第1回夏祭り花火大会に出店&br()「げんつき焼き」販売開始&br()[[山田　パルコ]] 就職||
+|08/27|[[市長>山下　ひろし]]に「ひろしパン」をプレゼント&br()「ひろしパン」販売開始（27･28日は限定価格）|街の1周年セレモニー開催|
+|08/31&br()～09/01|咕咕(くーくー)生誕記念セール|デグーケーキ(アグーチ)&br()通常価格1万円を1000円で販売|
+|23/09/04|「にんじんパン」販売開始||
+|09/15|[[空舞月　りり]] 退職||
+|09/20|[[駆音　エル]] 職業体験||
+|09/25|[[駆音　エル]] 就職||
+|23/10/07|[[ラグランジュ　光芝]]勤続1周年記念セール&br()[[しら　ぽち]] 単発バイト勤務|パン全品1000円で販売(1人10個まで)|
+|10/14|救急隊イベント"ゴチになります"企画参加・商品提供&br()「スターシャンパンタワー」販売開始||
+|10/15|飲食組合会議|飲食店の商品価格が下限1万円に(Joint系除く)&br()パン屋のセルフ販売商品は一律2万に決まる|
+|10/21|文化祭 出店&br()「アゲ↑揚げパン」販売開始||
+|10/24|「ハロウィン限定商品3種」販売開始(再販)||
+|10/30|[[イネヌコ]] 職業体験||
+|23/11/15|[[小花衣　早苗]]　3ヶ月ぶりの出勤&br()「パンオブザリング」納品||
+|11/18|「クリームパンソーダ」販売開始||
+|11/25|社用ヘリ"SPARROW"購入||
+|23/12/上旬|インベントリ仕様変更と商品登録方法変更に伴う商品再登録&br()「絶対音パン」販売開始||
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+//日付は29時(am5時)更新として記述しています。
+#endregion
+***2024年
+#region(開く)閉じる
+#table_style(head=center){日付=right}
+#table_filter(){備考=show}
+|~日付|~出来事|~備考|h
+|04/13|[[ネズ]] 職業体験||
+|07/09|オリジナルパン袋完成|[[月ノ鞄]]に依頼していた「パンパンパン袋」「ランダムパン袋」が完成。|
+|10/27|ピルボックス学園祭出店|救急隊コラボ商品を販売|
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+//日付は29時(am5時)更新として記述しています。
+#endregion
+----
+***2026年
+#region(開く,open)
+#table_style(head=center){日付=right}
+#table_filter(){備考=show}
+|~日付|~出来事|~備考|h
+|04/05|クラウドパンディング|パン屋再建に向けてクラウドファンディングの募集を開始。|
+|04/15|物件購入|[[ラグランジュ光芝>>ラグランジュ　光芝]]が不動産の[[ももみ]]から店舗物件を購入する。|
+|04/22|プレオープン||
+|06/24|グランドオープン||
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
+#endregion
+
+----
+#right(){&link_up(△ページTOPへ)}

@@ -1,0 +1,718 @@
+&bold(){観測前に&font(12pt,u,#1F79E0){[[観測者の心得]]}をご確認ください。}
+* &font(#d17d7d){&icon_fa(fa fa-user)} プロフィール
+//&image(ここに画像のURLを入力,y=400)
+#slide_img(width=300,height=400,position=center){https://img.atwiki.jp/streamergta5/attach/1624/10490/JD_9055_1.jpg,https://img.atwiki.jp/streamergta5/attach/1624/22461/JD_face-03.png,https://img.atwiki.jp/streamergta5/attach/1624/16286/JD_face-02.png,https://img.atwiki.jp/streamergta5/attach/1624/18556/JD_Rig.png}
+
+//ここからプロフィール
+#table_filter(){SEASON1=hide,SEASON2=show}
+#table_style(head=#d17d7d:#666666){}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~SEASON1|~SEASON2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(じぇい){J}　&ruby(でぃー){D}|
+|~本名|~&icon_fa(fa fa-user)|>|&openclose2(show=ネタバレ注意){&br()&ruby(ミン　ギョウク){明　業紅}}|
+|~出身地|~&icon_fa(fa fa-map-marker)|>|中国|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|2001年02月18日 (&countup(2001/02/18,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane)|>|2024年05月17日 (&countup(2024/05/17,yd)経過)|
+|~職業|~&icon_fa(fa fa-gun)|>|&bold(){ギャング [[868]]メンバー} &small(){2024/06/25～}|
+|~|~&icon_fa(fa fa-user-slash)|&small(){&openclose2(show=Season1 過去の職業){&br()メカニック【[[9055]]】体験(2024/05/17～05/19)&br()海上レストラン【[[Urashima]]】体験(2024/05/21)&br()ホットドッグ屋(2024/05/17～07/02)&br()闇メカニック「[[Glare Gem]]」(2024/07/02〜)}}||
+|~所属|~&icon_fa(fa fa-face-surprise)|>|空き巣協会|
+|~|~&icon_fa(fa fa-truck-pickup)|>|LCTA(高級車窃盗協会) CEO|
+|~|~&icon_fa(fa fa-user-slash)|&small(){&openclose2(show=過去所属){&br()秘匿組織【[[ARCANA]]】幹部&br()民間軍事会社【[[ACADEMY]]】取り纏め&br()【[[ホットドッグ協会]]】会員}}||
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal)|@jdx|@lsujd|
+|~レーサー名|~&icon_fa(fa fa-flag-checkered)|LS大学チア部||
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o)|>|Middleee(ミドリ)|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧 &font(#1da1f2){&icon_fa(fa fa-twitter) Twitter}) @MiddleeeTV}>>https://x.com/MiddleeeTV]] &small(){（メイン）}&br()&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧 &font(#1da1f2){&icon_fa(fa fa-twitter) Twitter}) @Middleeetv_real}>>https://twitter.com/Middleeetv_real]] &small(){（避難）}|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (middleeetv)}>>https://www.twitch.tv/middleeetv]]|
+|BGCOLOR(#eee):~動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video-camera)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@Middleeetv)}>>https://www.youtube.com/@Middleeetv]] &small(){（切り抜き動画）}&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@Middleeetv_2nd)}>>https://www.youtube.com/@Middleeetv_2nd]]&small(){（アーカイブ置き場）}|
+|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):~&icon_fa(fa fa-user-plus)|>|&openclose2(show=クリックで表示){&br()[[ミン　ドリー]]&br()[[Los Santos Live Camera]]}|
+
+&font(24px,b){ 「あ、いいですよー」}
+//↑暫定。JDらしい印象的なセリフがありましたら書き換えてください。
+//
+//誕生日と年齢を修正出来る情報がありましたら、こちらにアップロードした上で修正してください。
+//情報の提示が無い状態で変更した場合はアクセス禁止の対応がとられる可能性がありますのでご注意願います。
+//&br()[[キャラクター情報>>https://img.atwiki.jp/streamergta5/attach/1624/10987/JD_%E3%82%AD%E3%83%A3%E3%83%A9%E6%83%85%E5%A0%B1.jpg]]
+//(2025/04/12）本名が追加されていましたが、キャラ視点で語っていないのでネタバレとしました
+//(2025/02/19)プレイヤーより各種アカウントが乗っ取られていることが報告され、Xのアカウントが一時アカウントに変更されています。
+//参考URL:https://www.youtube.com/watch?v=ufVvj7XbrS4
+//(2025/03/20)Xのメインアカウントが復活しました
+//ギャングの加入日を書き換えられていましたが、年表ページのルールに則り、0時～5時の出来事は前日の出来事として記されます。
+//
+
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(#d17d7d){&icon_fa(fa fa-address-card)} 基本情報
+***&color(#ba6463){人物像}
+&color(#ba6463){ーInformation&space()}
+&color(#ba6463){●}&font(16px){&space()}中国からやってきた元軍人。
+&color(#ba6463){●}&font(16px){&space()}街に来た目的は過去にこの街には旅行で来たことがあり、退役したタイミングでこの街で自由に生きてみようと思ったため。
+&color(#ba6463){●}&font(16px){&space()}従軍時代に乗っていたらしくクルマやヘリの運転はお手のもの。
+&color(#ba6463){●}&font(16px){&space()}名前のJDは長い名前のためJDに省略されたもの、もしくは、「そう呼ばれている」とだけ説明することが多い。&s(){女子大生の略ではない。}
+&color(#ba6463){●}&font(16px){&space()}傭兵派遣組織ACADEMYの取りまとめをしていたが、友人の紫水を介してJD個人に傭兵依頼&素材の取引をしていたギャング【[[868]]】に加入希望を申し出、無事加入した。
+&color(#ba6463){●}&font(16px){&space()}[[クッキー戦隊>ジョシュア・マーキル/クッキー戦隊]]のグリーンを担当している。
+&color(#ba6463){●}&font(16px){&space()}高級車窃盗に脳を焼かれており、キャリアカーを発見するとテンションが上がる。LCTA(高級車窃盗協会) CEOを名乗っている。
+
+#region(秘密情報)閉じる
+-街に来た本当の目的は人捜し及びその人物を殺害するため。
+-従軍時代の同僚を殺害した同僚を探している。
+-対象の人物は黒寄りの人であるため、人捜しの事は隠しており信用できる人物にしか話していない。
+-退役後、仇討ちのために前の街でしばらく黒の社会で生活し、ロスサントスに追って来た。
+-[[兄>ミン　ドリー]]がいるが、誰にも話していない。&color(#a9a9a9){868の仲間には「(兄弟が)居るっちゃ居る」と伝えたが、JDにだけ魂の話だと伝わっていない状態だった為流れた。&space()}
+-兄は弟がこの街に来ていることは知っているが、弟の本当の目的やどこで何をしているかは知らない。
+-整形しているため仮に現在の姿を兄が見たとしても弟であると気づけない可能性が高い。
+-兄からのメッセージは見ているが返信していない。
+-名前のJDはジョン・ドゥ(日本でいう田中太郎、名無しの権兵衛)の頭文字を取ったものであり、偽名である。
+-本名はミン・ギョウクであるが、人に本名は明かしていない。
+--E5's BURGERのミッションを受ける為に本名を登録しなければならず、始めはJDで登録しようとしていたが[[ナターレ ケルスト>芳賀　ノエル]]に「ガチ本名で」と念押しされ、ミン・ギョウクとJDの両方が登録された。
+//Lv2からは2名での攻略が可能となるため、バレるとしても現状868のみという状況。
+#region(兄視点ネタバレ)閉じる
+-兄曰く「自慢のできる弟ではあるけど、ちょっと抜けてるところがある。自分(兄)よりノリがいい」「話し方とか割りと似てると言われる」「口喧嘩が多かった」「あいつも(口プが)ヤバい」
+#endregion()
+#endregion()
+
+&color(#ba6463){ーLooks&space()}
+&color(#ba6463){●}&font(16px){&space()}銀髪に赤のメッシュの外見だが、地毛は赤。ストレスが原因。
+&color(#ba6463){●}&font(16px){&space()}首に兄とおそろいの蜘蛛のタトゥーを入れている。頬のタトゥーはこの街に来てから入れた。（Season2：転送の影響ですべて消失）
+&color(#ba6463){●}&font(16px){&space()}ピアスは左耳のみ。Season1では黒い石、Season2ではシンプルなシルバーのリングを付けている。
+
+&color(#ba6463){ーPersonality&space()}
+&color(#ba6463){●}&font(16px){&space()}基本的に誰にでも親切。
+&color(#ba6463){●}&font(16px){&space()}話術にて相手から情報を引き出す能力が高い。
+&color(#ba6463){●}&font(16px){&space()}効率化の鬼。ホットドッグ販売ではホットドッグ製造、ドリンク製造、販売物出入れを一歩も動かずに出来るようにしたり、アジトではドア横にスタッシュを配置して荷物の出し入れをし易くするなど行動の効率化を求める傾向がある。
+&color(#ba6463){●}&font(16px){&space()}リサセン、サルファ、アシッド集めなどファームが苦にならない性格。
+&color(#ba6463){●}&font(16px){&space()}車、ヘリ、銃撃戦などオールマイティにこなせる。特に戦場を俯瞰で見て行動に移す能力が非常に高い。
+&color(#ba6463){●}&font(16px){&space()}この街の法律を全て読み込んでいることから、警察との口プにも負けない。
+&color(#ba6463){●}&font(16px){&space()}J Dという名前から様々なあだ名が付けられている("女子大生"、"ジャーマンポテト大"。さらに、餡ブレラのおきるとの一件で餡ブレラから"女子大好き")
+&color(#ba6463){●}&font(16px){&space()}868内からも女子好きキャラにされている。
+&color(#ba6463){●}&font(16px){&space()}1日に1度は転ける(デイリー)
+&color(#ba6463){●}&font(16px){&space()}1日1回高級車窃盗をしないと蕁麻疹が出る。
+&color(#ba6463){●}&font(16px){&space()}しっかり者のイメージを持たれがちだが、組織内だと気が緩むのか天然で無邪気な部分が顔を出す。
+&color(#ba6463){●}&font(16px){&space()}しっかり者のイメージを持たれるせいで「何も知らないJD」が幹部に据えられたり、おつかいに行かされることもある。
+&color(#ba6463){●}&font(16px){&space()}犯罪前にアーティの神(?)に祈りを捧げたり、セクハラ疑惑が出た時は責任をとるために最悪結婚まで視野に入れる等、ぶっ飛んだ思考を持っている。
+&color(#ba6463){●}&font(16px){&space()}悪い事をすぐに思いつくが、自分ではやらない。
+&color(#ba6463){●}&font(16px){&space()}責任のある立場には絶対になりたくないと思っている。
+
+
+*&font(#d17d7d){&icon_fa(fa fa-users)} 人間関係
+***&font(25px,#f9f){&icon_fa(fa-solid fa-people-group)} 868
+#region(開く,close)閉じる
+//※JDから見たどういう人物かを記入。ご本人が知らないことは書かないようにお願いいたします。
+#table_style(head=:center:#d17d7d:#fff){キャラクター名=center}
+|~キャラクター名|~詳細|h
+|[[レダー　ヨージロー]]|[[868]]ボスの一人。情報戦やヘリを得意とする組織の中心的存在。&br()ホットドッグ協会会長でもあり、協会加入への&s(){圧がけ}勧誘をされた。&br()警戒心が強く、連絡先交換も慎重であり、JDが協会加盟を決めたことで特別に連絡先を交換してくれた。&br()自身の来歴と目的のために情報を集めていることを打ち明け、868への加入希望を申し出た。&br()餡ブレラの横取りでセクハラの疑いが出てしまった際は、JDを守ると断言してくれた。&br()レダーが街を去ることになった際、引き止めようとしたJDの口プで丸め込まれそうになっていた。|
+|[[ケイン／オー]]|[[868]]のボスの一人。[[闇車両協会]]会員。868の中で一番起床時間も長く、わからないことがあれば頼りにしている。&br()半グレ時代に大量の素材と花を購入してくれるお得意様だった。&br()お互いに車が好きで、ブースティングや高級車窃盗の話をよくする。イマイチな犯罪だった高級車窃盗を変えてくれた。&br()餡ブレラの横取りでセクハラの疑いが出てしまった際はウェスカーを丸め込んでくれた。&br()いつかどこかに行ってしまうならついて行くつもりである。|
+|[[音鳴　ミックス]]|[[868]]のボスの一人。空き巣協会会長。JDの868加入の手続きをしてくれた。&br()868の加入きっかけにもなった4人でのアーティ成功などもあり、彼のことを『アーティ神』と慕っている。&br()餡ブレラの横取りでセクハラの疑いが出てしまった際は、逃げようとした。&br()『JD!!あいさつは?!』『ボスの座を狙っている』といつもちょけて突っかかってくる。&br()彼が不憫なことになっている姿に大喜びしている。シリアスは音鳴さんへと後輩に助言している。|
+|[[刃弐　ランド]]|[[868]]のボスの一人。闇メカニック|
+|[[芹沢　ヤニ>芹　沢]]|[[868]]のボスの一人。|
+|[[牢王　蓮]]|[[868]]のボスの一人。音鳴さんと同じ匂いがするが、音鳴さんと違ってモテに行っていないらしい。|
+|[[紫水　コウ]]&br()（コウくん）|先輩構成員。この街のヒモ。[[クッキー戦隊>ジョシュア・マーキル/クッキー戦隊]]のパープル&br()[[マーくん>ジョシュア･マーキル]]と3人でのグルチャ（通称：おはようLINE）を作るほど、仲が良い友達。&br()868の傭兵に参加した後、ギャングである[[868]]に所属していることを打ち明けてくれた。&br()他の街でのとある発言で怒らせてしまいチクチクされるようになったが、何のことか分からない。&br()|
+|[[ジョシュア・マーキル]]&br()（マーくん）|先輩構成員。この街の同期。JDが街に訪れた日からの友人。「マーくん」&br()互いに信頼し合っており、街に来た本当の目的を初めて他人に明かした。&br()半グレ仲間として共に遊んでいたが、実は既に868に所属していることを心苦しそうに打ち明けてくれた。&br()JDの868加入が決まった際はハイタッチをして喜びを分かち合った。&br()半グレ時代から暇さえあれば2人で高級車窃盗に行くのが恒例。&br()[[クッキー戦隊>ジョシュア・マーキル/クッキー戦隊]]のブルー|
+|[[フェアリー　トピオ]]&br()（トピくん）|一番上の先輩構成員。[[クッキー戦隊>ジョシュア・マーキル/クッキー戦隊]]のピンク&br()天然気質で彼の言動に笑ってしまう。&br()無線で怒っていたらしいが、全然わからなかった。|
+|[[轟　ばーど]]&br()|初めての後輩構成員。落ち着きのあるイケオジ。&br()新人に薬関係を教える伝統を彼に遂行し、使っていない家を譲渡した。&br()「顔でかいからや」の持ちネタから大きいものはばーどさんとして扱う。|
+|[[鯵屋>魚参　屋]]&br()（あじくん、あじ）|後輩構成員。868に嫁入りしたらしい。『欲しかったんでしょ?私が』&br()衛星外で呼び出されて救出したり、家を貸してあげたり甘やかしている。&br()泣いたり拗ねたり感情表現が豊かで思慮深い。問題児のルナの教育に責任を感じている。|
+|[[ルナホークアイ>月渚　雪人]]&br()|後輩構成員。鷹の頭をした自称「宇宙最速の個人医」だった。&br()仲間の証である肩のうさぎを意気揚々と見せつけられた。案外子供っぽい。&br()個人医として1人で生きていた時間が長かったためか、金にだらしなく、&br()868とは真逆の所謂ギャングらしい生き方をしていた問題児。様子見するのをやめ、厳しく教育することにした。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+//表にしました
+***&font(25px,#3eb370){&icon_fa(fa fa-child)}市民
+#region(開く,close)閉じる
+#table_style(head=:center:#d17d7d:#fff){キャラクター名=center}
+|~キャラクター名|~詳細|h
+|[[黒髭　ツムギ]]|街で最初に会った人物。&br()自動車免許を取ろうとTwiXで[[パキ　ち]]の書き込みを見て[[PYC]]に到着した際に出会った。|
+|[[パキ　ち]]|JDの自動車免許取得時の担当で[[9055]]の体験仕事を斡旋してくれた。&br()普通車の購入やカスタム、修理など度々お世話になっている。|
+|[[大　川]]|[[焦村家]]で、初めて会い、その後ホットドッグを買いに来てくれたり、&br()情報が欲しい事を話せば、[[無馬 かな>無馬　かな]]と繋げてくれた。|
+|[[犬億　ロック]] |わんちゃん。Academyの生徒でとても真面目。&br()ヘリの筋肉、操縦の仕方なども教えた。誕生日にバイクをプレゼントした。今は白市民として[[メカニック>>PYC]]になっている。|
+|[[パン　チャン]]|大家、[[9055]]メカニック、不動産屋、素材屋。&br()街に来たばかりの時にパンチャンアパートを貸してくれ、素材の売買のノウハウを教えてくれた。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+//
+***&font(25px,#4f455c){&icon_fa(fa fa-user-secret)} 黒市民
+#region(開く,close)閉じる
+#table_style(head=:center:#d17d7d:#fff){キャラクター名=center}
+|~キャラクター名|~詳細|h
+|[[みこだ　よう]]|元[[RqteL]]、元[[ALLIN]]、元警察官、[[9055]]の体験同期。この街の事を色々教えてくれた。&br()自分が警察を休職しているのではなく退職した事を周囲に秘密にしている時期に明かしてくれた。|
+|[[飯田　けんつ]]|白市民→ギャングボス→白市民→黒市民という異色の経歴を持っている。&br()街に来た当初は[[9055]]のメカニック体験、海上レストランの体験でお世話になった。&br()[[Academy]]の取り纏めを黒市民になった彼に引き継いだ。&br()ギャング[[TOPGEAR]]を立ち上げた際に事前に挨拶回りの連絡が来たがJDではなくマー君に来た為不仲説が浮上した。&br()TOPGEARが解散し、50億の借金を抱えていた彼に、初日に貰ったランポとパンチャンアパートを譲渡し、街に来た当初の恩を返した。|
+|[[無馬　かな]]|秘匿組織[[ARCANA]]の代表。[[Academy]]創設者。&br()情報収集のために一時的に所属していた組織のボス。&br()何も知らないJDをARCANAの幹部に据えた人。JDのAcademy卒業を快く受け入れ送り出してくれた。&br()市長選では彼に投票した。|
+|[[いわさき　そす]]|元[[餡ブレラ]]の構成員。元[[闇医者>個人医]]。ブースティング協会員&br()ケインと仲が良く、ブースティングの師匠的存在。&br()上位ブースティングでホットワイヤーに失敗し『このガキ！』とそすに叱られトラウマとなった。&br()ブースティングでレンチで警察を撲殺してしまったことも苦言を呈された。|
+|[[ユン　ユンミ]]|[[hantasma]]の構成員。ブースティングの女王。&br()ブースティングのAクラスを目指すに当たり、一緒にやるようになった。&br()効率的なブースティングのやり方を教えてもらったが、ブースティング協会と流派が異なる。|
+|[[エスターク・Z・ダークネス]]|元[[ALLIN]]の構成員。&br()ブースティングを共にしていたが、流派が異なるため、今後はできないと伝えた。|
+|[[上田　さん]]|[[9055]]元社長。街に来てすぐメカニック体験でお世話になった。ギャングのボスを目指しているらしい。&br()「D」スプレー事件で多額の借金を抱え、黒市民になった彼に様々な稼ぎ方をアドバイスした。&br()自分では絶対にやらない悪い事を吹きこんでからかっている。&br()おすすめはしないと言っているのにJDの犯罪教唆に乗る彼を警察に突き出す一連の流れがある。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+//
+***&font(25px,#4c6cb3){&icon_fa(fa fa-shield-halved)} ロスサントス警察
+#region(開く,close)閉じる
+#table_style(head=:center:#d17d7d:#fff){キャラクター名=center}
+|~キャラクター名|~詳細|h
+|[[ミン　ドリー]]|実兄。かつて同じ軍の同じ部隊にいた。同じタトゥーを入れるほど仲が良かったが、自分の事情に巻き込むつもりはないため接触を避けている。&br()メッセージは既読無視している。兄のことは誰にも伝えていない。&br()街の人から聞く彼の噂はろくでもない。868の仲間からは「アスパラ」と呼ばれている。&br()γ世界線への転送でお揃いのタトゥーも連絡先も消失した。|
+|[[皇帝>ニックス　リア]]|4019コンビニのオーナー。商品が高い。&br()捕まるまで皇帝コンビニを襲うのを日課にしていた。|
+|[[日之　ぱちお]]|868が悪戯ターゲットにしている警察官の1人。いつでも彼のヴィゲロを狙っている。|
+|[[真島　ルイ]]|刑務所の社会科見学を頼んだり、変なことを依頼して反応を楽しんでいる。暇電相手。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()
+
+※追記・修正募集しています
+*&font(#d17d7d){&icon_fa(fa fa-car)} 所有車両等
+&font(16px,b,u,black){Season1}
+#region(開く)
+***&font(25px){&icon_fa(fa fa-car-side)} 所有車両
+#region(開く,close)閉じる
+#table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=show,備考=show}
+#table_style(head=center:#d17d7d:#fff){名前=left,#=center,取得日=right}
+|~車両ID|~車両名|~会社名|~タイプ|~取得日|~備考|h
+|GIZR6799|Tahoma Coupe（【JDカスタム】タホマクーペ）|Declasse|Muscle|1日目(24/05/17)|[[上田　さん]]から仕事の報酬|
+|PRJT4095|Rumpo Custom（【ファーム】1号車）|Bravado|Vans|2日目(24/05/18)|[[パキ　ち]]から購入|
+|DXBC5540|Frakas|Dinka|Motorcycles|6日目(24/05/23)|[[皇帝>ニックス　リア]]から購入|
+|EDDO9765|Bati 801|Pegassi|Motorcycles|17日目(24/06/06)||
+|JUVZ8972|Paragon|Enus|Sports|20日目(24/06/09)|[[大　川]]から購入|
+|QSFF4453|Jester RR Drift（Jester RR JD's ドリフト　スペシャル）|Dinka|Sports|32日目(24/06/30)|[[ねずみさん>>えぐち　きの子]]から購入|
+|IMMC0948|Journey（【豪邸用】スタッシュジャーニー）|Zirconium|Vans|34日目(24/07/03)|[[パキ　ち]]から購入|
+|YBWH7117|Journey（【島取り】メカニックジャーニー（絶対出しちゃダメ））|Zirconium|Vans|37日目(24/07/09)|[[パキ　ち]]から購入|
+|XPAH3461|J-Cruiser（【地味 大輔用】自転車）||Cycle|40日目(24/07/14)|自転車屋で購入|
+|PBSL4368|Issi（【地味 大輔用】ISSI）|Weeny|Compacts|40日目(24/07/14)|[[パキ　ち]]から購入|
+|MIII4501|Issi Classic（【地味 大輔用】ISSI Classic）|Weeny|Compacts|40日目(24/07/14)|[[パキ　ち]]から購入|
+|KHIG5685|Bagger|Western Motorcycle Company|Motorcycles|42日目(24/07/17)|[[パキ　ち]]から購入|
+|LSOO2570|Sunrise R|Maibatsu|Sports|衛星外44日目(24/07/23)||
+|DAUI2850|Revolter|Übermacht|Sports|46日目(24/07/25)|[[大　川]]から借用していたが買い取った|
+|FTSN3065|Speedo Express（【ファーム】Speedo Express）|Vapid|Vans|48日目(24/07/27)||
+|0058GOTP|Rumpo Custom（【ファーム】3号車）|Bravado|Vans|53日目(24/08/02)|ブースティングにて入手|
+|RYTU6778|Elegy RH8|Annis|Sports|衛星外(24/09/26~29)||
+|YJGQ8797|Tezeract|Pegassi|Super|衛星外(24/09/26~29)||
+|DSQT3060|Dilettante Patrol|Karin|Compacts|68日目(24/10/16)||
+|ZRHW5500|Buffalo S|Bravado|Sports|69日目(24/10/17)|[[ねずみさん>えぐち　きの子]]から購入|
+|QMLQ0885|Coquette D10|Invetero|Sports|衛星外||
+|DZKC8642|Sanchez Livery|Maibatsu|Motorcycles|78日目(24/11/01)||
+|1195CDIJ|Dubsta 6×6|Annis|Off-Road|衛星外|ブースティングにて入手|
+|8850WBUL|Raiden GRB|Coil|Sports|85日目(24/12/26)|ブースティングにて入手|
+|VSQA5402|Bosozoku|Shitzu|Motorcycles|87日目(25/01/09)||	
+|WIBK9549|Mochi|Annis|Compacts|87日目(25/01/09)|お正月特別車購入券を集め1500万円で[[市長補佐]]から購入|
+|OTOQ0052|Turtle|Karin|Compacts|87日目(25/01/09)|お正月特別車購入券を集め1500万円で[[市長補佐]]から購入|
+|GNZO5456|Flash GT|Vapid|Sports|89日目(25/01/22)|[[Reboot]]から買い取った[[ケイン／オー]]から100万円で購入|
+|JUBK1931|Nero Custom|Truffade|Super|衛星外(25/01/23～24)||
+|FTVC1487|Cavalcade XL|Albany|SUV|94日目(25/02/12)||
+|7378BAIO|Patriot Stretch|Mammoth|SUV|不明、衛星外？|ブースティングにて入手|
+|0460YWVN|Kamacho|Canis|Off-Road|94日目(25/03/06)|ブースティングにて入手|
+|8269UREF|Dorado|Bravado|SUV|衛星外|ブースティングにて入手|
+|8948VKAW|Rumpo|Bravado|Vans|100日目(25/03/14)|ブースティングにて入手、RadioHeadNEWS仕様|
+|LZPB2358|Tropos Rallye|Lampadati|Sports|105日目(25/03/21)||	
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+※取得日の〇日目は実際の日数（アーカイブの#）に準拠
+#endregion(所有車両)
+//25/05/06のJDのガレージ情報から表に書き換えました。（25/07/05）
+//ガレージ情報：Dubsta 6×6がなぜかBenefactorではなくAnnisになっている。
+//|QUQB6459|Rumpo Custom（【ファーム】2号車）|Bravado|Vans|1日目(24/05/17)|[[飯田　けんつ]]から譲渡、返却|
+//|TWIN1023|Thrax|Truffade|Sports|10日目(24/05/28)|[[大川>大　川]]より借用後24/08/20返却|
+//|APZT3110|Paragon|Enus|Sports|10日目(24/05/28)|[[大　川]]から借用。返却|
+//|LWUI2102|Deveste|Principe|Super|10日目(24/05/28)?|[[大　川]]から借用。返却|
+***&font(25px){&icon_fa(fa-solid fa-helicopter)} 所有航空機
+#region(開く)
+#table_filter(){車両ID=hide,航空機名=show,会社名=hide,取得日=show, 備考=show}
+#table_style(head=center:#d17d7d:#fff){名前=left,#=center,取得日=right}
+|~車両ID|~航空機名|~会社名|~取得日|~備考|h
+|CMJO8081|Sparrow||23日目(24/06/14)||
+|SNBL0839|Super Volito|Buckingham|37日目(24/07/09)||
+|UWPN1621|Frogger（JDへ）|Maibatsu|65日目(24/09/25)|[[レダー>>レダー　ヨージロー]]から預かったジョシュアから贈与された|
+|DCDP8865|Frogger|Maibatsu|72日目(24/10/22)|パール光沢なし|
+|YDDJ0874|Volatus|Buckingham|83日目(24/11/26)||
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+//
+|&blankimg(JD_Sparrow.png,x=117,y=66)|&blankimg(JD_Super Volito.png,x=117,y=66)|&blankimg(JD_Frogger From Rader.png,x=117,y=66)|&blankimg(JD_Frogger 2.png,x=117,y=66)|&blankimg(JD_Volatus.png,x=117,y=66)|
+|1: Sparrow|2: Super Volito|3: Frogger|4: Frogger|5: Volatus|
+#endregion(所有航空機)
+//
+***&font(25px){&icon_fa(fa-solid fa-ship)} 所有船舶
+#region(開く)
+#table_filter(){車両ID=hide,船舶名=show,会社名=hide,取得日=show, 備考=show}
+#table_style(head=center:#d17d7d:#fff){名前=left,#=center,取得日=right}
+|~車両ID|~船舶名|~会社名|~取得日|~備考|h
+||Longfin|Shitzu|58日目(24/08/17)||
+||SeaShark3|Speedophile|71日目(24/10/20)||
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(所有船舶)
+#endregion(S1)
+//
+//===================================
+//
+&font(16px,b,u,black){Season2}
+***&font(25px){&icon_fa(fa fa-car-side)} 所有車両
+#region(開く,close)閉じる
+#table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=show,備考=show}
+#table_style(head=center:#d17d7d:#fff){名前=left,#=center,取得日=right}
+|~車両ID|~車両名|~会社名|~タイプ|~取得日|~備考|h
+|6514NDBJ|Faggio Sport|Pegassi|Motorcycles|1日目(26/01/03)|30万で購入。|
+|X9T86515|Blista|Dinka|Compact|2日目(26/01/04)|120万円で購入。|
+|YGW8GAY2|Cody|Dinka|Off-road|5日目(26/01/24)|87万円で購入。軽トラ|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(所有車両)
+*&font(#d17d7d){&icon_fa(fa fa-house)} 所有物件
+&font(16px,b,u,black){Season1}
+#region(開く)
+***&font(25px,#32cd32){&icon_fa(fa fa-house)} 個人用物件
+#region(開く,close)閉じる
+#table_filter(){購入日=show,番地=show,用途=show,備考=show}
+#table_style(head=center:#d17d7d:#fff){名前=left,#=center,購入日=right}
+|~購入日|~番地|~用途|~備考|h
+||8252|初期アパート||
+|4日目(24/05/21)|番地なし(9287の南)|クラフト倉庫|犯罪者マンション(工場)1階。主にクラフト素材や犯罪用道具をしまう家。駐車場有|
+|8日目(24/05/25)|番地なし(4013の北東)|倉庫|一軒家正面入り口。駐車場有|
+|9日目(24/05/28)|番地なし(プリズン北)||砂漠地帯プリズンの北の秘密基地。駐車場有。24/11/05 鯵屋にあげるが、鍵の管理者のまま|
+|16日目(24/06/05)|番地なし(4013の東)|倉庫|一軒家正面入り口。駐車場有|
+|42日目(24/07/17)|1032|リサセン||
+|42日目(24/07/17)|8012|逃走用|高速下トンネル内|
+|42日目(24/07/17)|9016|逃走用|屋根付きプレハブ|
+|81日目(24/11/21)|7027|個人用|駐車場有。25/03/14 [[母井ランガ>母井　蘭牙]]&[[宇治ジョージ>宇治　ジョージ]]に貸与。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+***&font(25px,#e14747){&icon_fa(fa-solid fa-house-circle-xmark)} 手放した物件
+#region(開く)
+#table_filter(){購入日=show,番地=show,用途=show,備考=show}
+#table_style(head=center:#d17d7d:#fff){名前=left,#=center,購入日=right}
+|~売却日|~購入日|~番地|~用途|~備考|h
+|76日目(24/10/30)|16日目(24/06/05)|番地なし(4013の東)|倉庫|一軒家のガレージ。駐車場有。轟ばーどに譲渡|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+***&font(25px,#ba6463){&icon_fa(fa fa-house)} 共有物件
+#region(開く,close)閉じる
+&s(){&color(#ba6463){●&space()}&bold(){7218（モーテル）の2号室}}
+　&s(){素材の倉庫として[[パン　チャン]]から貸与。}→[[飯田　けんつ]]に譲渡
+&color(#ba6463){●&space()}&bold(){7189番の裏路地}
+　素材用の倉庫として使って欲しいと[[葵井　優]]から貸与。
+//6073 [[ACADEMY]]のアジト
+&color(#ba6463){●&space()}&bold(){868の拠点 43軒}
+#endregion()
+#endregion(S1)
+//
+//===================================
+//
+&font(16px,b,u,black){Season2}
+***&font(25px,#32cd32){&icon_fa(fa fa-house)} 所有物件
+#region(開く,close)閉じる
+#table_filter(){購入日=show,番地=show,用途=show,備考=show}
+#table_style(head=center:#d17d7d:#fff){名前=left,#=center,購入日=right}
+|~購入日|~番地|~用途|~備考|h
+||8039|初期アパート|初期アパートの180号室。ケイン、音鳴に鍵を共有。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+***&font(25px,#FFBFCB){&icon_fa(fa fa-house)} 共有物件
+#region(開く)
+#table_filter(){共有日=show,番地=show,通称=show,管理=hide,備考=show}
+#table_style(head=center:#d17d7d:#fff){名前=left,#=center,購入日=right}
+|~共有日|~番地|~通称|~管理|備考|h
+|22日目(26/06/25)|7027|拠点|ケイン|&bold(){γ世界線最初の拠点。}|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+*&font(#d17d7d){&icon_fa(fa fa-shirt)} 服装一覧
+#include(J　D/服装一覧)
+&size(12){[[編集ページ>J　D/服装一覧]]}
+*&font(#d17d7d){&icon_fa(fa fa-book)} エピソード
+#div(width=330px,bgcolor=#d17d7d){&font(16px,b,#fff){&space()Season1}}
+&font(16px,b,u,black){2024年}
+#region(開く)
+#include(J　D/エピソード)
+#include(J　D/エピソード2)
+#include(J　D/エピソード3)
+#endregion
+#include(J　D/エピソード4)
+//
+//--------------------------------------------------------
+//
+
+#div(width=330px,bgcolor=#d17d7d){&font(16px,b,#fff){&space()Season2}}
+#include(J　D/エピソード5)
+----
+2024年：[[EP1(5~6月)>>J　D/エピソード]],[[EP2(7~8月)>>J　D/エピソード2]],[[EP3(9~12月)>>J　D/エピソード3]], 2025年：[[EP4(1~8月)>>J　D/エピソード4]], 2026年：[[EP5>>J　D/エピソード5]]
+*&font(#d17d7d){&icon_fa(fa fa-calendar-days)} アーカイブ
+&font(#ba6463,12px,b){注意：&font(#6441A4){&icon_fa(fa fa-twitch)} Twitchアーカイブはサブスク限定。60日後に&font(white,red,15px){削除}されます。}
+&font(#ba6463,12px,b){&icon_fa(fa fa-youtube-play)&space()アーカイブはYoutubeの[[Middleeetv アーカイブ置き場>>https://www.youtube.com/@Middleeetv_2nd]]に移行(一部メン限あり)。[[Season1再生リスト&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtube.com/playlist?list=PLakwlwAh2pyRWume-UJa7eANDxnnGpx7O]]、[[Season2再生リスト(メン限)&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtube.com/playlist?list=PLakwlwAh2pySriV9oABZDaf_Em2lYClSS&si=B0HMAOeUdR1uKUrz]]}
+&font(12px,b){※アーカイブ移行後はYoutubeのリンクに差し替えています。twitchのリンクはエピソード項目に残してあります。}
+#div(width=330px,bgcolor=#d17d7d){&font(16px,b,#fff){&space()Season1}}
+&font(16px,b,u,black){2024年}
+#region(開く)閉じる
+****5月
+#region(開く)閉じる
+5月 9、10日目のダイジェストなし
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/17|1|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【1日目】街に来た #ストグラ>>https://youtu.be/ekPpM-7ep_g]]|免許取得、[[9055]]体験、白市民パス発行、ホットドッグ屋就職|
+|05/18|2|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【2日目】今日は街巡りたい #ストグラ 【JD】>>https://youtu.be/lNN69giVS7A]]|ガンライセンス取得|
+|05/19|3|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【3日目】イベントあるらしい #ストグラ 【JD】>>https://youtu.be/5LqKfZo1vCc]]||
+|05/21|4|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【4日目】今日も別の体験してみる #ストグラ 【JD】>>https://youtu.be/jjVtV0-9EuA]]|ホットドッグ協会入会|
+|05/22|5|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【5日目】だいぶ街に慣れた #ストグラ 【JD】>>https://youtu.be/osjImQtnoTc]]|6:10:50まで|
+|05/23|6|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【6日目】準備 #ストグラ 【JD】>>https://youtu.be/hUdjrbvokCc]]||
+|05/24|7|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【7日目】いろいろ買わなきゃ #ストグラ 【JD】>>https://youtu.be/ZfEd34BMRg8]]||
+|05/25|8|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【8日目】白市民パス #ストグラ 【JD】>>https://youtu.be/EE5ydH-H0ZY]]||
+|05/28|9|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【231日】ドリー → JD #ストグラ 【9日】>>https://www.twitch.tv/videos/2157395854]]|2:14:25から|
+|05/29|10|[[&font(#6441A4){&icon_fa(fa fa-twitch)} ドリー 232日目 → JD 10日目 #ストグラ>>https://www.twitch.tv/videos/2158200922]]|3:24:00から|
+|05/30|11|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 11日目 #ストグラ>>https://youtu.be/3zfcm-ciYd0]]||
+|05/31|12|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 12日目 → ドリー 233日目(仮) #ストグラ>>https://youtu.be/BPEvo2xIbfw]]|6:17:10まで|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+****6月
+#region(開く)閉じる
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/01|13|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ドリー 234日目 #ストグラ>>https://youtu.be/_JlSvh0R0Mc]]|[[5:10:00から>>https://youtu.be/_JlSvh0R0Mc?si=3hPnDpb2ckRX00DA&t=18628]] ※日付が1日ずれる|
+|06/02|14|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 13日目 #ストグラ>>https://youtu.be/_MxGDNYT_Dk]]|初傭兵(868, オイルリグ)、初指名手配、白市民パス剥奪|
+|06/04|15|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 14日目 #ストグラ>>https://youtu.be/3WRClxfg928]]||
+|06/05|16|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 15日目 #ストグラ>>https://youtu.be/5U2aKz4CcK8]]||
+|06/06|17|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 16日目 → ミンドリー 235日目 #ストグラ>>https://youtu.be/wt-871pxEmE]]||
+|06/07|18|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ミンドリー 235日目 #ストグラ>>https://youtu.be/sX3qcb5Gx1I]]|5:02:50から|
+|06/08|19|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 18日目 #ストグラ>>https://youtu.be/ZmXVnApls60]]||
+|06/09|20|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 19日目 #ストグラ>>https://youtu.be/gzEEO8YSE2g]]||
+|06/11|21|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 20日目 #ストグラ>>https://youtu.be/5pxNgzPS82o]]||
+|06/12|22|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ミンドリー 236日目 #ストグラ>>https://youtu.be/lGlzBjwktUI]]|[[3:18:20から>>https://youtu.be/lGlzBjwktUI?si=rZCSYR6UjZm2FsUY&t=11901]] ※日付が2日ずれる|
+|06/14|23|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 21日目 #ストグラ>>https://youtu.be/0iCtzFk0j_Y]]|MOZUの傭兵で警察署襲撃、868に加入希望を申し出る|
+|06/18|24|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 22日目 #ストグラ>>https://youtu.be/kF1oq8Xzgcc]]||
+|06/21|25|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ミンドリー 241日目 → JD 23日目 #ストグラ>>https://youtu.be/CyYe6LYJamI]]|[[3:34:00から>>https://youtu.be/CyYe6LYJamI&t=12775]]|
+|06/22|26|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ミンドリー 242日目 → JD 24日目仮 #ストグラ>>https://youtu.be/X-gSdtdFVEg]]|[[3:13:00から>>https://youtu.be/X-gSdtdFVEg&t=11580]]|
+|06/23|27|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ミンドリー 243日目 or JD 25日目 #ストグラ>>https://youtu.be/vMfCmym1GcA]]|[[1:34:00から>>https://youtu.be/vMfCmym1GcA&t=5562]]|
+|06/25|28|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 26日目 #ストグラ>>https://youtu.be/HHj-AXrYRic]]|2:52:00～3:37:00まで別キャラ &bold(){ギャング[[868]]加入}|
+|06/26|29|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 27日目 868 #ストグラ>>https://youtu.be/9Nes7ec3U2o]]||
+|06/28|30|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 28日目 868 #ストグラ>>https://youtu.be/71QLPMIigSM]]||
+|06/29|31|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 29日目 久しぶりの早番#ストグラ>>https://youtu.be/D_rXU_MlLjY]]||
+|06/30|32|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 30日目本日も早番#ストグラ>>https://youtu.be/bnMZfLu2Dvk]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+****7月
+#region(開く)閉じる
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/02|33|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 31日目 #ストグラ>>https://youtu.be/lsvEj0Bfq4o]]||
+|07/03|34|[[&font(#6441A4){&icon_fa(fa fa-twitch)}JD 32日目 #ストグラ>>https://www.twitch.tv/videos/2226037596]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 32日目 #ストグラ>>https://youtu.be/cefCBhqkUEM]]|設定見直しのため衛星付け直し|
+|07/05|35|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 33日目 素材が減ってきた気がする #ストグラ>>https://youtu.be/hjlMxS1t4U4]]|6:06:00まで|
+|07/06|36|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 34日目 #ストグラ>>https://youtu.be/F-DFXYuvGP4]]||
+|07/09|37|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ミンドリー 246日目 → JD 35日目 #ストグラ>>https://youtu.be/mWU027-lFuE]]|3:24:00から|
+|07/10|38|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 36日目 #ストグラ>>https://youtu.be/nWh6xCFIyTc]]|闇メカ疑惑|
+|07/13|39|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 37日目 #ストグラ>>https://youtu.be/AYlpYuxpIaM]]||
+|07/14|40|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 38日目 → ミンドリー 249日目 #ストグラ>>https://youtu.be/sJdUeApMMwg]]|3:46:30まで、6:36:10から|
+|07/16|41|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 39日目 #ストグラ>>https://youtu.be/CabBACODJK4]]||
+|07/17|42|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 40日目 島取りか #ストグラ>>https://youtu.be/a349JrtZ2i8]]||
+|07/21|43|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 41日目 #ストグラ>>https://youtu.be/kBtNHX4HXv4]]||
+|07/23|44|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 42日目 #ストグラ>>https://youtu.be/I_a0wehrt_A]]||
+|07/24|45|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 43日目 & ミンドリー 251日目 #ストグラ>>https://youtu.be/cwKaPkNAqZg]]|[[2:28:00から>>https://youtu.be/cwKaPkNAqZg?si=f-d9Aa8JFK2MwltP&t=8911]]|
+|07/25|46|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ミンドリー 252日目 余裕あればJDやる#ストグラ>>https://youtu.be/Zq7j17zjSo0]]|[[3:07:00から>>https://youtu.be/Zq7j17zjSo0?si=WPDTPkZGQpb0Ef8E&t=11220]]|
+|07/26|47|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 45日目 #ストグラ>>https://youtu.be/DsmbXaAsjXQ]]||
+|07/27|48|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 46日目 #ストグラ>>https://youtu.be/P5R-dnMlluo]]||
+|07/28|49|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ミンドリー 253日目 or JD 47日目 #ストグラ>>https://youtu.be/mfF7BZvYnT8]]|3:38:00から|
+|07/30|50|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 48日目 or ミンドリー 254日目 #ストグラ>>https://youtu.be/QQexPRnl4L4]]|5:53:00まで|
+|07/31|51|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 49日目 #ストグラ>>https://youtu.be/CQyZBSUBNgY]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+****8月
+#region(開く)閉じる
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/01|52|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 50日目 #ストグラ>>https://youtu.be/QOP5GOWfJSk]]||
+|08/02|53|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 51日目 #ストグラ>>https://youtu.be/WaLReAXoqZ8]]||
+|08/03|54|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 52日目 #ストグラ>>https://youtu.be/VI5U5Wa4UsQ]]||
+|08/04|55|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 53日目 → ミンドリー予定 #ストグラ>>https://youtu.be/6xnozkyny84]]|2:26:30まで|
+|08/15|56|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 久しぶり JD 54日目 #ストグラ>>https://youtu.be/8Lyvd0pK77w]]||
+|08/16|57|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 55日目 #ストグラ>>https://youtu.be/iYrjrjYMDXE]]||
+|08/17|58|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 56日目 → ミンドリー予定 #ストグラ>>https://youtu.be/jOrn2y18b4k]]||
+|08/18|59|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 57日目 #ストグラ>>https://youtu.be/SLJiP3USvs4]]||
+|08/20|60|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 58日目 #ストグラ>>https://youtu.be/CsZ6_7gMnbI]]||
+|08/24|61|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 59日目 #ストグラ>>https://youtu.be/AG-9jECw_X8]]||
+|08/28|62|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 60日目 ひさしぶり #ストグラ>>https://youtu.be/Cg5cxJwBpFs]]||
+|08/29|63|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 61日目 寝すぎた #ストグラ>>https://youtu.be/LswpvqjAo7Q]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+****9月
+#region(開く)閉じる
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/03|64|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 62日目 アプデがいろいろあるらしい #ストグラ>>https://youtu.be/VgYT-dzZGhM]]||
+|09/25|65|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ミンドリー269日目ゆっくり#ストグラ>>https://youtu.be/HG19mXAxb_Y]]|[[4:07:00から>>https://youtu.be/HG19mXAxb_Y?si=hRStUl3SXYGxIT3w&t=14820]]|
+|09/26|66|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 63日目 久しい#ストグラ>>https://youtu.be/fyWq-ot3OVE]]||
+|09/29|67|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 64日目 街ブラしたっていい#ストグラ>>https://youtu.be/dI1tlw8wxcs]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+****10月
+#region(開く)
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/16|68|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】JD 65日目 いつぶりだろう>>https://youtu.be/u7k_EtFI3u0]]||
+|10/17|69|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【#ストグラ】JD 66日目 早番、チル多めかも>>https://youtu.be/0f5D7pJQ7h8]]||
+|10/18|70|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 67日目 今日は金策#ストグラ>>https://youtu.be/KpHzim3zyVo]]|| 
+|10/20|71|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 68日目今日は何するか #ストグラ>>https://youtu.be/DIOhTIyjpZs]]||
+|10/22|72|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 69日目ヘリが欲しい #ストグラ>>https://youtu.be/nBh2ThuzfdI]]|| 
+|10/24|73|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 70日目欲しいものがおおい#ストグラ>>https://youtu.be/EZgX_Wjskp4]]|2:40:00まで| 
+|10/25|74|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 71日目欲しいものがおおい#ストグラ>>https://youtu.be/_GZdEHa5NUE]]|| 
+|10/29|75|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 73日目久々早い時間から#ストグラ>>https://youtu.be/ZnkOuR3A4Ko]]|8:15:15まで| 
+|10/30|76|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 74日orミンドリー285日#ストグラ>>https://youtu.be/igDxrQRZ33g]]|2:59:47まで| 
+|10/31|77|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 75日 or ミンドリー 286日 #ストグラ>>https://youtu.be/EZM5sIrwWFs]]|5:01:00まで| 
+#endregion
+****11月
+#region(開く)
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|11/01|78|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 76日 or ミンドリー 287日 #ストグラ>>https://youtu.be/8juk4Ty8eWE]]|1:38:00まで|
+|11/03|79|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 77日 #ストグラ>>https://youtu.be/oODtK457tX0]]|| 
+|11/20|80|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 78日 めちゃくちゃ久しぶり起床 #ストグラ>>https://youtu.be/dG4dUwBg-GQ]]||
+|11/21|81|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 79日 遅番 #ストグラ>>https://youtu.be/b4kgXAfyMIo]]||
+|11/24|82|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 80日 → ミンドリー 298日 今日は早いよ #ストグラ>>https://youtu.be/uuF7INOdAc4]]||
+|11/26|83|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 81日 早起き #ストグラ>>https://youtu.be/NfR947tPl1I]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(11月)
+****12月
+#region(開く)
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/17|84|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 82日 ひさびさ #ストグラ>>https://youtu.be/4KbObJL38Ow]]||
+|12/26|85|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 83日 ひさびさ早番、短め#ストグラ>>https://youtu.be/djb-LYSD2Kg]]||
+|12/28|85.5|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} APEXやって、あとからたぶんストグラいく JD 83.5日目>>https://youtu.be/-wCYaYVhCbw]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(12月)
+//&font(#6441A4){&icon_fa(fa fa-twitch)}
+#endregion(2024)
+&font(16px,b,u,black){2025年}
+#region(開く)閉じる
+****1月
+#region(開く)閉じる
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/08|86|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 84日 あけおめか #ストグラ>>https://youtu.be/aOBjpNHEjy0]]|ALLIN受注権&加入希望者の話、てつおとボートレース|
+|01/09|87|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 85日 今日はこっち #ストグラ >>https://youtu.be/gf5QiEVOO7Q]]|歪み散らかし飛行場|
+|01/21|88|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 85日 早起きしてみようと思う  #ストグラ >>https://youtu.be/szX2tIRBlLE]]|鯵屋誕生日計画、構成員大型2回、マトリ撲滅、TOPGEAR解散について|
+|01/22|89|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 86日 金稼ぎや #ストグラ>>https://youtu.be/E28k3qB5aOE]]|ｲﾝﾊﾟｳﾝﾄﾞ依頼した警察に轢かれる、重窃盗パレト|
+|01/23|90|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 87日 今日は運動会 #ストグラ>>https://youtu.be/FEVMVrdzoNQ]]|運動会、タラちゃんと金庫強盗、ホット婆小型見学|
+|01/24|91|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}（JD88日目）ミンドリー 320日 久々の早番 #ストグラ>>https://youtu.be/R1trvxOqZwA]]|牢王起床、ﾀﾗちゃん連れ回し、警察自爆特攻に抗議、ﾁﾝﾁﾛ金庫|
+|01/28|92|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 89日 鯵 #ストグラ>>https://youtu.be/8vJVsWZawDw]]|（鯵屋不在）略奪ﾐｯｼｮﾝ初成功、麻陀羅組とﾊﾟﾚﾄｺﾝﾄ|
+|01/30|93|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}（JD90日）ミンドリー 324日 告知あったね #ストグラ>>https://youtu.be/5eBed5HBN4M]]|1:57:39~ 鯵屋の誕生日を祝う、金庫、ユニオン|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(1月)
+****2月
+#region(開く)
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/12|94|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 91日 久々じゃない？ #ストグラ>>https://youtu.be/7S-Ra9attTk]]|新薬、軍事物資強盗(コント)|
+|02/15|95|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 92日 反動で今日は早い #ストグラ>>https://youtu.be/fQaOyDoR-ZU]]|上田とBoosting、市長不信任可決、LCTAにレンチ導入、重窃盗ﾁｪｲｽ、市長と話|
+|02/18|96|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 93日 hayaban #ストグラ>>https://youtu.be/0cw_tq-MpUM]]|ﾃﾞｭｵﾘｸﾞ、先取りボブキャ|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(2月)
+****3月
+#region(開く)
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/06|97|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 94日 ひさびさすぎない？ #ストグラ>>https://youtu.be/tA1jbo6J8MM]]|救急車で遊ぶ、リトルマーメイド客船|
+|03/07|98|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 95日 今日はおそめ #ストグラ>>https://youtu.be/PiDGTfKxLmY]]|新市長発表、気球ユニオン、鯵屋空き巣協会|
+|03/13|99|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 96日 早番のちドリー #ストグラ>>https://youtu.be/ssF0HQUPZMY]]|LCTA、上田ﾊﾞｽｼﾞｬｯｸ、構成員金庫|
+|03/14|100|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 97日 ブースティングやる #ストグラ>>https://youtu.be/y_UWpxPzbOU]]|宇治&母井に家を貸す、個人医とリグ|
+|03/15|101|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 98日 ブースティング上げる #ストグラ>>https://youtu.be/AokpgIGuEaw]]|Boosting Aクラス到達|
+|03/16|102|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 99日 → ミンドリー 351日 ブースティングからのイベント #ストグラ>>https://youtu.be/nNF-nQdUXvw]]|Boosting|
+|03/19|103|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 100日 お金稼げるようになったらしいじゃん？ #ストグラ>>https://youtu.be/krVfiCdqW3k]]|牢王起床、大型受注方法変更、薬物売買でイベテロ罪、ギャング会議|
+|03/20|104|[[&font(#6441A4){&icon_fa(fa fa-twitch)} JD 101日 → ミンドリー 353日 薬、ブースティング、イベント #ストグラ>>https://www.twitch.tv/videos/2410475143]]|マトリが大型に|
+|03/21|105|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 102日はやおき #ストグラ>>https://youtu.be/9z9ELsEkqC8]]|トピくんとATM、飛行機墜落、ボブキャ|
+|03/25|106|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 103日目 少し #ストグラ>>https://youtu.be/RtcRIRJgRgw]]|ALLIN解散報告、ｽｰﾊﾟｰｼｬｳﾄﾎﾞﾌﾞｷｬ|
+|03/29|107|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 104日目 本日はこちら #ストグラ>>https://youtu.be/Af99izke35I]]|レース、菖蒲さんを訪ねる|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(3月)
+****4月
+#region(開く)
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/13|108|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 105日目 ひさびさじゃない？ #ストグラ>>https://youtu.be/oqMo_Z8vUr0]]|Boosting|
+|04/16|109|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 106日目 すこし #ストグラ>>https://youtu.be/1eo5xezWfU4]]|レンチBoostingにお叱りを受ける|
+|04/22|110|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 107日目 遅起き #ストグラ>>https://youtu.be/42H7PJxMt_c]]|ルナホークアイ加入後初対面、闇メカ再就職|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(4月)
+****5月
+#region(開く)
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/06|111|[[&font(#6441A4){&icon_fa(fa fa-twitch)}JD 108日目 いくか #ストグラ>>https://www.twitch.tv/videos/2451682608]]|ﾎﾞﾌﾞｷｬ、ウサギ会長、ｱｰﾃｨ、略奪、868Boosting、大型春服|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+****8月
+#region(開く)
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考 & 出来事|h
+|08/03|112|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD いつぶりだろう #ストグラ>>https://youtu.be/gjJpt89he7s]]|3か月ぶりの起床、「どぺ」、免許取得、松葉杖略奪、赤ｺﾝﾃﾅ探し、鯵屋と話|
+|08/08|113|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD 110日目らしい>>https://youtu.be/qh4NcOhkgLQ]]|(本当は113日目) ソロ起床：こいのぼり注文、本名初公開、初E5ﾐｯｼｮﾝ、ソロ略奪|
+|08/30|???|&font(10px){[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD ???日目 #ストグラフェス 会場からブレインスリープさんの体験するよ #PR>>https://youtu.be/tI4kt-EFqCE]]}|実写JD、ストグラフェス案件|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#endregion(S1 2025)
+
+#div(width=330px,bgcolor=#d17d7d){&font(16px,b,#fff){&space()Season2}}
+&font(16px,b,u,black){2026年}
+****1月～
+#region(開く,open)閉じる
+#table_style(head=center:#d17d7d:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/03|1|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 目覚め JD #1>>https://www.youtube.com/live/MCBX0XKT5II]]|5か月ぶりの起床。転送？、街探索、ばーどと合流|
+|01/04|2|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 情報集め JD #2>>https://www.youtube.com/live/3vcazFCWAmc]]|バイト、武器屋と接触、街探索、素潜り、ゴルフ、上田犯罪教唆、Blista購入|
+|01/09|3|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} いろいろと変わったみたい JD #3>>https://youtu.be/rrwi8_SNYH8]]|ジョシュア音鳴ケインと合流、ダウンDay、転送後初犯罪|
+|01/23|4|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2677769846]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} なにか変わったかな JD #4>>https://www.youtube.com/live/2dRY-R_zMyE]]|上田とコンビニ強盗、ジョシュアとコンビニ強盗、パンツ|
+|01/24|5|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2678687788]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} DM貯金生活 JD #5>>https://www.youtube.com/live/HO-ctLj5RjM]]|ゴミ箱漁り、売人発見、チンチロ大会、ランドリー発見|
+|01/28|6|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2682468339]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} クラフター JD #6>>https://www.youtube.com/live/sDfF6TQdc5s]]|ルナ再会(5/6ぶり)、街探索、ファーム|
+|01/29|7|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2683319695]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 探索隊 JD #7>>https://www.youtube.com/live/Bxx7plyjFh8]]|ファーム、探索、鯵屋と再会、銀行強盗、コンビニ強盗|
+|01/30|8|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2684176662]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 初早番してみるか JD #8>>https://www.youtube.com/live/fKBlYqylDjs]]|ファーム、クラフト|
+|>|>|>||
+|03/20|9|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2727119691]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 1ヶ月ぶりか？ JD #9>>https://www.youtube.com/live/H1qPX1h7w-g]]|不動産内見、小型犯罪、初逮捕、違法ハッキング|
+|03/26|10|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2732100813]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD家を買う JD #10>>https://youtu.be/BDmXot82Ib4]]|6人起床、現金輸送車、闇医者、違法ﾊｯｸ逃走劇、868ｱｰﾃｨ、868会議|
+|>|>|>||
+|04/15|11|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2748562528]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} おひさ JD #11>>https://youtu.be/I-OgBMR3c-A]]|868会議、金策、闇医者と話し合い|
+|04/16|12|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2749394390]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 借金 JD #12>>https://www.youtube.com/live/Casf4p7TFsc]]|金策|
+|04/17|13|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2750142810]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 次は医療費代 JD #13>>https://www.youtube.com/live/7b67izOKSJE]]|金策、鯵ルナと話、闇医者バッジ代完済|
+|>|>|>||
+|06/13|14|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2795613352]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 2か月ぶりか？ JD #14>>https://www.youtube.com/live/mhg1q2Msl7M]]|音鳴・鯵屋の情報共有、無線購入、小型が大型化、置き配窃盗|
+|06/14|15|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2796353678]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 新犯罪いろいろ触りたい JD #15 or ミンドリー #48 ← スト6>>]]|別ゲー後、ブースティング|
+|06/17|16|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2798732159]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 今日は少し、家のお金貯めたい JD #16>>]]|ルナ救出、4人で置き配窃盗|
+|06/18|17|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2799512434]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 時計がﾎｼｲ JD #17>>https://www.youtube.com/live/OiVxAwIWQak]]|お花の置き配窃盗団、ﾌﾞｰｽﾃｨﾝｸﾞ、置き配が大型化、ﾎｯﾄﾄﾞｯｸﾞ屋開業会議|
+|06/19|18|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2800338132]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 本日の置き配 JD #18>>]]|置き配&ﾌﾞｰｽﾃｨﾝｸﾞ、消防車強盗、人質くしゅりの恋バナ|
+|06/20|19|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2801097381]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} JD少し #19 → ミンドリー 推し活 #48>>]]|置き配窃盗、ブースティング￤途中別キャラ|
+|06/21|20|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2801906058]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} あ～、忙し、忙し JD #20>>]]|ブースティング、ルナの滞納を叱責、置き配窃盗、ルナ教育会議|
+|06/24|21|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2804166297]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 目標金額まで JD #21>>https://www.youtube.com/live/KvFBEsNWBG8]]|ブースティング、消防車で暴れる、ルナ教育会議共有|
+|06/25|22|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2804938732]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} お金結構溜まった、ブースティングもやる JD #22>>https://www.youtube.com/live/NXe_Imzm8VQ]]|ケインに近況&ルナの素行報告、ブースティング、ホットドッグ屋会議|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+//Twitchのアーカイブ消滅後にyoutubeだけ残す
+//
+//
+//|mm/dd|n|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>]]￤[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} >>]]||
+#right(){&link_up(🔝ページTOPへ)}
+*&font(#d17d7d){&icon_fa(fa fa-youtube)} 切り抜き(Youtube)
+#include(J　D/youtube)
+----
+&size(12){詳細ページ：[[youtube>>J　D/youtube]]}
+*&font(#d17d7d){&icon_fa(fa-solid fa-people-group)}ストグラ外コラボ等
+***&size(110%){&bgcolor(#d17d7d){&nbsp()&font(#ffffff,90%){　&icon_fa(fas fa-comments)&space()トーク系コラボ}&nbsp(7)}}
+&size(20){&color(#d17d7d){●}} &font(15px){&bold(){ストグラジオ}}
+#region(開く)
+#size(90%){#table_style(head=center:#E6E6FA){投稿日=right,#=center,アフタートーク=center}
+|~配信日|~配信タイトル|~アフタートーク|~共演のパーソナリティー|~備考|h
+|2024/08/22|[[第75回ストグラジオ>>https://www.twitch.tv/videos/2230841484]]|[[FANBOX>>https://sutogura.fanbox.cc/posts/8452119]]|[[山下ひろし>山下　ひろし]]役/しょぼすけ、[[ジョシュア・マーキル]]役/切嘛|[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/STGR_RolePlay/status/1824038332348907901]]|
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion(ストグラジオ)
+&size(20){&color(#d17d7d){●}} &font(15px){&bold(){トーク}}
+#region(開く,open)
+#size(90%){#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~配信タイトル|~共演のパーソナリティー|~備考|h
+|MIDDLE:2025/08/22|しょぼすけ枠&br()[[#ストグラCLL #ストグラフェス & #FiveM開発者向け新発表>>https://www.twitch.tv/videos/2546677581]]|&font(8pt){しょぼすけ/ギルくん/aja/ゼルク/わきを&br()二十日ネル/ととみっくす/ごっちゃん@マイキー}||
+|MIDDLE:2026/02/18|ふぁんきぃ枠[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}前半>>https://www.youtube.com/live/bqH3nhsTD3s]]&br()&font(10px){[[ふぁんきぃクッキング #8 最近がんばってる2人にごほうび！ギルくんミドリとプチお疲れ様会！【前半無料】>>https://www.openrec.tv/live/olryvqvnwr2?utm_source=organic_social&utm_medium=share&utm_campaign=user_share_movie&utm_content=olryvqvnwr2]]}|ふぁんきぃ、ギルくん|前半無料、ゲスト出演（実写）|
+|MIDDLE:2026/06/23|ふぁんきぃ枠[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}前半>>https://www.youtube.com/live/uCG1pdqM_tQ]]&br()[[ふぁんきぃクッキング #12 番組1周年記念でちょっと早い夏休み！？🍉 >>https://www.openrec.tv/live/e5rk9qkv9zv?utm_source=organic_social&utm_medium=share&utm_campaign=user_share_movie&utm_content=e5rk9qkv9zv]]&br()〜極上のBBQを目指して高級食材争奪バトル🔥〜|ふぁんきぃ、FOX RABBIT、&s(){ほろん}、ととみっくす、とっぴー|前半無料、ゲスト出演（実写）|
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion()
+//
+****&size(20){&color(#d17d7d){●}} &font(15px){&bold(){[[ればぶる！>>https://www.openrec.tv/user/rebaburu]]}}
+#region(開く,open)
+ギルくんとMiddleeeによるオリジナル番組！[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/or_rebarubu]]
+#size(90%){#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~配信タイトル|~共演のパーソナリティー|~備考|h
+|26/02/11|[[【特別編】ればぶるRADIO【第一話】～SPL直前トーク～>>https://www.openrec.tv/live/gkrpl2lv585]]|ギルくん||
+|26/02/11|[[【特別編】ればぶるRADIO【第二話】～僕らの関係性について〜>>https://www.openrec.tv/movie/2p8vvlvp38y]]|ギルくん||
+|26/02/17|[[【特別編】ればぶるRADIO【第三話】～番組の意気込み！～>>https://www.openrec.tv/movie/gkrpl27lw85]]|ギルくん||
+|26/02/20|[[【初回配信🎉】#1 スロットに挑戦‼️>>https://www.openrec.tv/live/o7z4y4e2pzl]]|ギルくん、ゲスト：ととみっくす|前半無料|
+|26/03/16|[[【最推しプラン限定】アフタートーク　#1>>https://www.openrec.tv/movie/e5rk93kw4zv]]|ギルくん、ゲスト：ととみっくす||
+|26/03/30|[[#2 初ロケ！サバゲーに挑戦‼️>>https://www.openrec.tv/live/nqr6ndddg86]]|ギルくん、ゲスト：ふらんしすこ・とっぴー|前半無料|
+|26/04/20|[[【最推しプラン限定】アフタートーク　#２>>https://www.openrec.tv/movie/gkrplx5kk85]]|ギルくん、ゲスト：ふらんしすこ・とっぴー||
+|26/04/28|[[#3 ギルくんHAPPY BIRTHDAY‼️テラスでBBQ‼️>>https://www.openrec.tv/live/em8xv1kvkr2]]|ギルくん、ゲスト：イナゴン|前半無料|
+|26/05/27|[[【最推しプラン限定】アフタートーク　#3>>https://www.openrec.tv/movie/1o8qmo7jnzk]]|ギルくん、ゲスト：イナゴン||
+|26/05/28|[[ればぶる！#4 格ゲー杯開催‼️4人でガチバトル‼️>>https://www.openrec.tv/live/em8xv1plwr2]]|&s(){ギルくん}（体調不良欠席）、ゲスト：あどみん・紫闇ヘル|前半無料|
+|26/06/05|[[～番外編～ 競輪バトル🚲🔥>>https://www.openrec.tv/live/kdr7n901wzj]]|ギルくん、ゲスト：ととみっくす・ありけん|全編無料|
+|26/06/26|[[#5 トレカ開封‼️ 俺だけのデッキを作ろう‼️>>https://www.openrec.tv/live/e5rk9qpm1zv]]|ギルくん|前半無料|
+|26/07/02|[[【最推しプラン限定】アフタートーク　#4>>https://www.mellow-fan.com/movie/o7z4y5v3pzl]]|ゲスト：あどみん・紫闇ヘル||
+|26/07/22|[[【最推しプラン限定】アフタートーク　#5>>https://www.mellow-fan.com/movie/ov82yggxozw]]|ギルくん||
+|26/07/30|[[#6　空澄セナ参戦！！　オンラインドライブ！！🚙>>https://www.mellow-fan.com/live/ov82yggqwzw]]|ギルくん、ゲスト：空澄セナ|前半無料|
+|26/08/26|[[#7 豪華ゲスト参戦！！　白熱のポーカー対決！！>>https://www.mellow-fan.com/live/p2zjvlyylzw]]/[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ミラー枠(前半)>>https://www.youtube.com/watch?v=DYQOo0ilEgM]]|ギルくん、ゲスト：とっぴー・金豚きょー・ごっちゃん@マイキー・わきを・あどみん|前半無料|
+|26/09/14|[[【最推しプラン限定】アフタートーク　#6>>https://www.mellow-fan.com/movie/ovrdvp0xyrj]]|ギルくん、ゲスト：空澄セナ||
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion()
+****&size(110%){&bgcolor(#d17d7d){&nbsp()&font(#ffffff,90%){　&icon_fa(fa-solid fa-gamepad)&space()ゲーム系コラボ}&nbsp(7)}}
+//868メンバーとのコラボのみ記載しています。
+&size(20){&color(#d17d7d){●}} &font(15px){&bold(){2024年}}
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~配信タイトル|~コラボ相手|~種類|~動画|~備考|h
+|08/21|【EFT】たるこふわいぷきたあ|ギルくん/るなりあ|Escape from Tarkov|||
+|08/22|【EFT】タルコフ熱がありすぎてやる Lv.10~|ギルくん|Escape from Tarkov|||
+|08/31|【EFT】新たな生徒2名と先生2名|ギルくん/切嘛/とっぴー|Escape from Tarkov|||
+|09/02|【EFT】先生2名でタスク鬼消化|ギルくん|Escape from Tarkov|||
+|~|【EFT】task消化先生|ととみっくす/切嘛|Escape from Tarkov|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2024年)
+&size(20){&color(#d17d7d){●}} &font(15px){&bold(){2025年}}
+#region(開く)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~配信タイトル|~コラボ相手|~種類|~動画|~備考|h
+|01/01|【EFT】新年いこ～|ギルくん/aja|Escape from Tarkov|||
+|02/26|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[【APEX】珍メンバー>>https://youtu.be/uRRuNZc7O6k]]|切嘛/aja|Apex Legends||とっぴーﾀﾞﾌﾞﾙﾌﾞｯｷﾝｸﾞﾄﾞﾀｷｬﾝ|
+|04/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Valorant コンペやるよ>>https://youtu.be/CBYeQASUCpQ]]|ギルくん/切嘛/とっぴー/aja|VALORANT|||
+|05/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[やっとはじめてのルマ島>>https://youtu.be/_VbFhfHfpbs]]|切嘛/とっぴー/aja|ルマ島（Luma Island）|||
+|07/17|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[会長に教えを乞う>>https://youtu.be/XlU80XxZQ-c]]|ととみっくす|Escape from Tarkov|||
+|08/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[APEXやるよ>>https://youtu.be/HRRUp6wLq_U]]|切嘛/aja|Apex Legends→Up N' Down|||
+|11/01|[[ストグラRPL2025メンバーとRustベットウォーズ>>https://www.twitch.tv/videos/2606846094]]|&font(8px){FOXRABBIT/あどみん/アメザリひらい/ごっちゃん@マイキー&br()LIGHT/イナゴン/金豚きょー/Rio/ノビー/KYS/ましゃかり&br()アベレージ/ズズ/霧島ジャック/梟雄しろや/馬人}|Rust|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2025年)
+//
+***&size(20){&color(#d17d7d){●}} &font(15px){&bold(){2026年}}
+#region(開く,open)閉じる
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~配信タイトル|~コラボ相手|~種類|~動画|~備考|h
+|05/25|[[対戦会、鍛えてもらう>>https://www.twitch.tv/videos/2780472584]]|切嘛/とっぴー/ととみっくす|STREET FIGHTER 6|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/GcrFr9ml_XI]]||
+|07/22|[[【グラブルリリンクPARK】Team B 最速目指す #PR>>https://www.twitch.tv/videos/2826077931]]|aja/とっぴー/ギルくん|GRANBLUE FANTASY: Relink - Endless Ragnarok||[[大会本部>>https://www.mellow-fan.com/live/o7z4y550lzl]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2026年)
+****&size(110%){&bgcolor(#d17d7d){&nbsp()&font(#ffffff,90%){　&icon_fa(fas fa-icons)&space()イベント・グッズ}&nbsp(4)}}
+&size(20){&color(#d17d7d){●}} &font(15px){&bold(){ストグラフェス}}
+#region(開く)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #d17d7d;){
+#size(14px){2025/08/30～2025/08/31：[[ストグラフェス]]・[[グッズ会場販売>>https://stgrfestival.com/goods]] &small(){（会場：幕張メッセ）[[公式ウェブサイト>>https://stgrfestival.com/]]&br()&small()&space()&space()&space()出演：08/30 Day1 ギャングブースアトラクション(客船強盗ミッション受注場所)、12:00～13:00 STGラジオ公開収録 、14:00～ミート＆グリート、Day1 終了後 ストグラフェス×ブレインスリープ協賛記念キャンペーン「現地タイアップ配信」　08/31 Day2 別キャラ}
+|後日談|09/01配信|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラフェス お疲れさまだ、雑談>>https://youtu.be/A2WsAGupRsU]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/7rVI0tINs8w]]|
+2025/06/27～2025/07/06：[[第1弾グッズ 自宅配送受付>>https://openrec.store/collections/stgrfes]]（早期終了）&br()&space()&space()&space()&small(){JDアクリルスタンド、アクリルキーホルダー}
+2025/07/19～：[[第2弾グッズ 会場受取予約>>https://stgr.life/news/7-17%e6%9c%a8cll%e6%83%85%e5%a0%b1%e3%81%be%e3%81%a8%e3%82%81%ef%bc%86%e3%80%8c%e3%82%b9%e3%83%88%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9%e3%80%8d%e8%bf%bd%e5%8a%a0%e6%83%85%e5%a0%b1%e2%91%a1/]]&br()&space()&space()&space()&small(){ランダムトレカ 2種/133種&space()[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/STGR_RolePlay/status/1945997938578092509]]}
+----
+2025/08/30～2025/09/15：ストグラフェスガチャ [[オンラインガチャ販売>>https://gacha.orgoods.com/store]] &br()&space()&space()&space()&small(){ギャングボックス 缶バッジ、ステッカー、集合アクリルパネル&space()[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/STGR_RolePlay/status/1955589503911080156]]}
+2025/08/31～2025/10/07 23:59：[[ストグラフェスグッズ オンライン販売>>https://openrec.store/collections/stgrfes]]
+}}}}
+#endregion(ストグラフェス)
+***&size(20){&color(#d17d7d){●}} &font(15px){&bold(){Role Play Live 2025}}
+#region(開く)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #d17d7d;){
+#size(14px){2025/12/13　Role Play Live 2025 &br()2025/12/14　Role Play Live 2025～After The Party～&space(10)[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} OP Movie>>https://youtu.be/w9ooRnAq1DQ]]&br()&small(){（会場：幕張メッセ）[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/light_starboy/status/1981631389306101766]]}
+2025/11/15 17:00〜11/16 23:59：[[事前オンライングッズ販売>>https://rpl.official.ec/]]&br()&space(3)&small(){アクリルスタンド、フレークステッカーセット、マフラータオル、ランダムステッカー、ランダムアンブレラ―マーカー&space()[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/light_starboy/status/1989605315017675112?s=20]]}
+|後日談|12/15配信|[[#RPL2025 振り返りしようか>>https://www.twitch.tv/videos/2643758752]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/5UwQ4axRP8E]]|
+2025/12/15 18:00～26/01/04 23:59：[[事後オンライングッズ販売>>https://rpl.official.ec/]]
+2025/12/29 20:00～2026/03/31 23:59 [[PPV配信 (hulu)>>https://www.hulu.jp/store/role-play-live-2025]]
+}}}}
+#endregion()
+***&size(20){&color(#d17d7d){●}} &font(15px){&bold(){GRPL -Gang Role Play Live-}}
+#region(開く)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #d17d7d;){
+#size(14px){2026/02/07　＜DAY1＞GRPL -Gang Role Play Live- &br()2026/02/08　＜DAY2＞GRPL -Night Drive- &space(10)[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} OP Movie>>https://youtu.be/RWMJnEKeivA]]&br()&small(){（会場：ぴあアリーナMM）[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/light_starboy/status/2005914635229356219?s=20]]、[[公式ホームページ>>https://gangboss.jp/]]}
+2026/02/10 18:00～03/01 23:59：[[事後オンライングッズ販売>>https://shop.utage-live.co.jp/collections/grpl]]
+2026/02/28 19:00～03/31 23:59：[[PPV配信 (hulu)>>https://www.hulu.jp/store/grpl]]
+}}}}
+#endregion
+****&size(20){&color(#d17d7d){●}} &font(15px){&bold(){Street Park Live 2}}
+#region(開く)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #d17d7d;){
+#size(14px){2026/02/11　Street Park Live 2 &small(){（会場：横浜BUNTAI）[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/2525Funky_P/status/2001595254659780907?s=20]]}&br()2026/01/08 18:00〜01/12 23:59：[[事前オンライングッズ販売>>https://openrec.store/collections/street-park-live2]]&space()&small(){&space()[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/streetparklive/status/2008826042967028207?s=20]]}&br()&space(3)&small(){Tシャツ、タオル、アクリルスタンド、アクリルパネル、ランダムキーホルダー、ランダムバッジ、ランダムステッカー、うちわ}
+2026/02/11 22:00～03/08 23:59： [[事後オンライングッズ販売>>https://openrec.store/collections/street-park-live2]]
+3月上旬～03/22 23:59：[[PPV配信 (OPENREC)>>https://www.openrec.tv/ppv/street_park_live_2]]
+|後日談|02/12配信|&font(#DA1725){&icon_fa(fa fa-youtube-play)}&font(12px){[[【NEWTOWN】ギャングになりました 3日目>>https://www.youtube.com/live/PIKe-PmRsHM]]}|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/live/PIKe-PmRsHM]]|
+}}}}
+#endregion
+****&size(20){&color(#d17d7d){●}} &font(15px){&bold(){STGR with mellow JD グッズ}}
+#region(開く)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #d17d7d;){
+#size(14px){【[[with mellow>>https://with-mellow.store/collections/stgr-with-mellow-jd]]】&space()&small(){&space()[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/with_mellow_/status/2037469683079839919?s=20]]}&br()&small(){受注期間：26/03/30 19:00〜26/04/06 23:59&br()スウェット、キャップ、ポーチ、ステッカーセット}
+}}}}
+#endregion
+****&size(20){&color(#d17d7d){●}} &font(15px){&bold(){STGR MYSTERY SHOW 2026}}
+#region(開く,open)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #d17d7d;){
+#size(14px){2026/11/15 STGR MYSTERY SHOW 2026&space()&small(){&space()&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[告知1>>https://x.com/STGR_RolePlay/status/2093287722861682849]][[告知2>>https://x.com/mystery_show__/status/2093285179184046529]][[告知3>>https://x.com/STGR_RolePlay/status/2098728333500699092]][[告知4>>https://x.com/mystery_show__/status/2101267514332446831]]}&br()13:00~ 第一部&small(){（会場：有楽町よみうりホール）}&br()&small()
+}}}}
+#endregion
+#right(){&link_up(🔝ページTOPへ)}

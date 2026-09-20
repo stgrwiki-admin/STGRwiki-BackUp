@@ -1,0 +1,520 @@
+#center(){
+#slide_img(auto=5,position=center,width=320,height=180){26.5.29記念撮影-1-1.jpg,25.9.21軍事防衛.jpg,20251224モーガン加入.jpg}
+}
+#table_color(head=#d3381c:#fff:center:b)
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&font(16px){&u()&bold(){&ruby(ストレリチア){極楽鳥花}}}|
+|~設立挑戦開始日|~&space()&icon_fa(fa fa-flag)&space()|&bold()2025年05月31日&br()(&small(){&countup(2025/05/31,yd)経過)}|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|&bold()2026年03月21日&br()(&small(){&countup(2026/03/21,yd)経過)}|
+|~解散日|~&space()&icon_fa(fa-solid fa-users-slash)&space()|内示：2026年05月14日&br()正式：2026年05月29日&br()&small(){（活動期間 70日）}|
+|~Season1本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|6173番地/ホテル(ハウジング)|
+|~Season2本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|7008番地|
+|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[緋赤　まい]]&br()[[天草　蒼]]|
+//|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&font(b,#d3381c){赤を希望}|
+//|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|番地/()|
+//|~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()||
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+//-----------------------------------------------------------
+*&font(#FFFFF){&icon_fa(fa fa-info-circle fa-xl)} &font(#d3381c){基}本情報
+***&font(20px){&color(#d3381c) &underdot(#B22222,2px){『&ruby(ストレリチア){極楽鳥花}』由来}}
+・極楽鳥花(ストレリチア)の花言葉に「すべてを手に入れる」とあり、ALLINの意思を受け継いでいる。(天草:元ALLIN構成員)
+・&bold(){▶ALLINで種を植え}
+・「”極楽鳥”花」「極楽鳥花の花部分は鳥が羽を広げた姿に似ていること」がMOZUで飛び方を学んだことに由来する。(メンバー全員:元MOZU構成員)
+・&bold(){▶MOZUで飛び方を教わり}
+・&bold(){▶極楽鳥花で花咲かす}
+▷設立挑戦から294日後の ’26/3/21 設立。(逆一二三の日。チンチロで一二三は最低でその逆。)
+[[―極楽鳥花の由来―>>https://youtu.be/qVm6My1FkaI?si=utKrI9UUuXTEKBx6&t=2394]]
+
+***&font(20px){&color(#d3381c) &underdot(#B22222,2px){今までの組織名}}
+『&bold(){HBBQ}』’25/5/2頃〜’25/8/24
+・将来メンバーで経営する焼肉屋さんをしたい→BBQ
+・楽しいことをしたい→ギャング名Happinessが候補に上がる
+・楽しいところには人が集まる→だから全面に楽しいを出していきたい→HappinessBBQ→HBBQ(→HappyBBQ)
+▷正式な組織名が決まるまでの仮名。MOZU加入前、MOZU体験期間の名前。
+[[―HBBQの由来―>>https://youtu.be/_F5AB-P6XGk?si=eEjug6dQMae_Hjs9&t=5211]]
+
+『&bold(){&ruby(ヴァルヒセア){Valhysea}}』’25/8/24〜’26/3/20
+・”ヴァル”は北欧神話に登場するヴァルハラとヴァルキリーから、”ヒセア”はBOSSである[[緋赤　まい]]と[[天草　蒼]]の名前からそれぞれ引用している。
+・「戦死した勇敢な英雄の魂はヴァルキリーによって北欧神話の主神が住む王宮ヴァルハラへ招かれる」が由来。
+・一緒にいて楽しい居場所がない人を[[緋赤　まい]]と[[天草　蒼]]が組織に招き入れ、居場所を作ってあげたい。
+▷MOZU解散後にギャング名として決定。主に半グレ期間の名前。
+[[―Valhyseaの由来―>>https://youtu.be/i531aHVZXh8?si=LmC8hrHMfnGIWR4v&t=300]]
+
+#co{
+***&font(20px){&color(#d3381c) &underdot(#B22222,2px){『Valhysea』由来}}
+-”ヴァル”は北欧神話に登場するヴァルハラとヴァルキリーから、”ヒセア”はBOSSである[[緋赤　まい]]と[[天草　蒼]]の名前からそれぞれ引用している。
+-「戦死した勇敢な英雄の魂はヴァルキリーによって北欧神話の主神が住む王宮ヴァルハラへ招かれる」が由来。
+-一緒にいて楽しい居場所がない人を[[緋赤　まい]]と[[天草　蒼]]が組織に招き入れ、居場所を作ってあげたい。
+[[天草視点切り抜き―Valhyseaの由来―>>https://youtu.be/i531aHVZXh8?si=21qBiZxQ5VQXLi2Z]]
+***&font(20px){&color(#d3381c) &underdot(#B22222,2px){組織名について}}
+-ギャング名を『Valhysea』から変更する予定があることを[[三階堂　キミトス]]との対談で明かした。（'25/12/27）
+・・ギャング名には鳥の名が入る予定とのこと。
+・・多少ALLIN要素も入っているらしい。
+・3/15まいに『極楽鳥花』(読み方:ストレリチア)に変名したいことを天草が打ち明け、他のメンバーの意向も聞いた上で決定する流れに。
+}
+***&font(20px){&color(#d3381c) &underdot(#B22222,2px){ロゴ}}
+&image(極楽鳥花ロゴ.png,x=200,y=200)
+
+***&font(20px){&color(#d3381c) &underdot(#B22222,2px){理想の組織像}}
+-一緒にいて楽しいと思える奴らと、馬鹿笑い出来る居場所を作りたい。
+-家族のような組織。
+・守りたいものを守るための力をつける。
+
+***&font(20px){&color(#d3381c) &underdot(#B22222,2px){活動方針・特色}}
+・コンセプト・メインテーマ&font(18px){&u(){&bold(){『貪欲であれ』}}}
+・・自分自身の欲やしたいこと叶えたいことをすべて手に入れる。
+・太陽のような楽しい居場所へ[[緋赤　まい]]が導き、ギャングとしての影の部分を[[天草　蒼]]が背負う一蓮托生の二人BOSS。
+・二人の良さを合わせたデュオBOSSだからこそのおもろい組織にする。
+・・黒経験が浅いまいだけで破綻しないよう、経験豊富な天草だけで安牌な道を進まないように。
+・方針は[[天草　蒼]]を除き[[ギャング]]・半グレ経験の浅い者と、ほぼ同一地点から出発し成長していくこと。
+・・ただ上記方針はほぼ無くなり天草以外にも[[ギャング]]経験者の加入も決定した。
+・決定権について
+・・天草の意見＝まいの意見とし、互いにそれに従う。
+・・基本的にはBOSS二人で決める。
+・BOSS二人の呼び名は人それぞれ。BOSSと呼ぶと二人振り返ってしまうことや、構成員との今までの関係性から。
+・・以前決めていた、まいがドン、天草が頭になるかは未定。
+・武力方面もやるからには本気で楽しむをモットーに。
+//・・決まらない二択を迫られたときはまいの意見を優先する。(構成員にはこれは明かさない)
+//・・最終決定権は[[緋赤　まい]]が握っている。
+//・・天草とまいはお互いに、考えが似ているため長時間の話し合いが必要ないことが多い。
+
+***&font(20px){&color(#d3381c) &underdot(#B22222,2px){発足経緯}}
+#region(開く)
+-[[天草　蒼]]は[[ALLIN]]の解散後、路頭に迷っていた際に体験希望で訪れた[[ピザ屋>>soffietto]]で店長として勤務していた[[緋赤　まい]]と出会う。(25/4/4)
+-[[天草　蒼]]は[[緋赤　まい]]から[[とある人物>>ライトスターボーイ]]を知るために、同じギャングボスという視点に立ちたいという話を聞く。(25/4/21)
+-組織を建てるなら[[緋赤　まい]]、[[天草　蒼]]のデュオボスに。（25/4/26）　
+-一時期の仮名「HappyBBQ」が話し合いで出る。（25/5/2）
+-組織を建てる決意をする。(25/5/31)
+-[[ヴァン　ダーマー]]と[[大　川]]との話し合いで[[MOZU]]で体験をすることになる。（25/6/1）
+-無線番号決定。（25/7/13）
+-6月から[[天草　蒼]]、7月から[[緋赤　まい]]、[[北村　ばなな]]、[[丸井　まる]]の[[MOZU]]での体験開始。
+-[[MOZU]]の解散をもって体験終了。(25/8/22)
+-組織名を「Valhysea」(ｳﾞｧﾙﾋｾｱ)に決定。（25/8/24）
+・[[ぎちょう・じょばぁーな]]加入。(25/9/14)
+・[[タマーチ　ニキタ]]加入。(25/9/21)
+・・設立条件6名に達する。
+・未設立のまま、街の転送が行われた。（25/9/22）　
+・まい以外のメンバーが転送完了。（25/12/19）
+・[[モーガン・フリーザン]]が加入。(25/12/24)
+・7008番地にアジト購入。（26/3/13）
+・まいが転送完了。（26/3/15）
+・組織名「極楽鳥花」として発足。（26/3/21）
+#endregion(5月)
+
+//***&font(20px){&color(#d3381c) &underdot(#B22222,2px){プール金制度&small(){※一旦期間限定}}}
+//・起きた日は約50万(バイト2回分)プール金としてアジトのスタッシュに入れる
+//・ファームのために労働を使ってるメンバーは免除
+//・4/4〜4/18頃までの2週間お試し制度→続行
+
+***&font(20px){&color(#d3381c) &underdot(#B22222,2px){無線番号}}
+・メイン　　　　3.14 (理由:割り切れない関係)(外部にバレた場合円周率の数字を増やす)
+・組織外合同用　3.149、3.15
+
+***&font(20px){&color(#d3381c) &underdot(#B22222,2px){神獣の名}}
+-お世話になった[[MOZU]]の鳥の名の命名に憧れを持ち、組織名に関係する神獣の名を命名することとした。
+--設立メンバー4名は組織名が決まった'25/8/24に四神獣の名を命名済み。
+#right(){&link_up(🔝ページTOPへ)}
+//-----------------------------------------------------------
+*&font(#FFFFF){&icon_fa(fa fa-users)} &font(#d3381c){メ}ンバー情報
+***&font(20px){&color(#d3381c){&icon_fa(fa fa-user)} &underdot(#B22222,2px){Season1在籍メンバー}}
+#region(開く)
+#size(90%){{{
+#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b)
+#table_filter(){名前=show,役職=show,神獣名=show,職業=hide,ギャング加入日=hide,組織加入日=hide,志願日=hide,誕生日=hide,期生=hide,備考=show,リンク=show}
+|~名前|~役職|~神獣名|~職業|~ギャング加入日|~組織加入日|~志願日|~誕生日|~期生|~備考|~リンク|h
+|&bold(){&ruby(ひせき　まい){[[緋赤　まい]]}}|Boss|&b(){朱雀}&br()&small(){・方位：南&br()&small()・季節：夏&br()&small()・象徴色：赤（朱）}|中古車ディーラー/[[ReBoot]]&br()ピザ屋/[[Soffietto]]店長&br()&small(){元9055}||2025/05/31||1999/01/12&br()(&countup(1999/01/12,y)歳)|設立メンバー|元[[MOZU]]構成員(研修)。&br()組織のパパ的存在。度々身内の人間をヒヤヒヤさせるステーキを製造する。&br()無意識にかっこいい言動をしており、人たらしと言われるくらい人に自然と好いてもらえている。&br()実際白市民時代、複数のギャングからの勧誘を受けていた。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kinotake00]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UCgIHvyZWE6Ny7pfRpya86Yw]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){まいたけ@ちょこらび}>>https://x.com/_kinotake_?mx=2]]|
+|&bold(){&ruby(あまくさ　そう){[[天草　蒼]]}}&br()|Boss|&b(){青龍/蒼龍}&br()&small(){・方位：東&br()・季節：春&br()・象徴色：緑（青）}|カフェ/[[Yadorigi]] 店長||2025/05/31||2000/10/30&br()(&countup(2000/10/30,y)歳)|設立メンバー|元[[ALLIN]]構成員3番隊、戦闘部隊。元[[MOZU]]構成員(研修)。&br()組織のママ的存在。（ママ草）とにかく頼りになる。ばななと同郷。タマーチの犯罪の師匠。&br()戦闘面に長けていて、ALLIN時代などの経験値から状況の判断力や適応力がある。&br()まいとギャングをしたいと伝えた際も、valhyseaへの勧誘の際も、どストレートな言葉で落としている。&br()ALLINのBOSSであった[[Mon　D]]を唯一BOSSと呼び、尊敬している。(MOZUの[[ヴァン　ダーマー]]は、呼び名は以前と変わらずヴァンさん。)&br()valhyseaには役職名はBOSSでもBOSSと呼ばれる人間はいない。&br()まいが度々ステーキを持ってくるため、まだ設立していないにも関わらずかなり食べている。&br()ギャングになるため、ギャングボスになるため、特に恋愛面では諦めたり覚悟を決めている。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/r_k7den]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@K7dedede/streams]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){かなででで🍡}>>https://x.com/R_k7den]]|
+|&bold(){&ruby(きたむら　ばなな){[[北村　ばなな]]}}||&b(){玄武}&br()&small(){・方位：北&br()・季節：冬&br()・象徴色：黒（玄）}|&small(){元9055}||2025/05/31||2000/12/15&br()(&countup(2000/12/15,y)歳)|設立メンバー |元[[MOZU]]構成員(研修)。&br()組織の縁の下の力持ち。クラフトなど積極的にしてくれている。&br()白市民時代、恋を応援してくれて背中を押してくれたことがきっかけでまいのことをかなり慕うようになる。&br()まいに命を賭すことができると発言するほど心酔している。&br()まいが黒落ちすると聞いた時から、得意ではないまいの分までクラフトをしたり、情報収集をしたりしてくれていた。&br()Valhyseaの初めての構成員。天草と同郷。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/ba77n]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Ba77nn]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){ばなな}>>https://x.com/Ba7777777nnnnnn]]|
+|&bold(){&ruby(まるい　まる){[[丸井　まる]]}}&br()||&b(){白虎}&br()&small(){・方位：西&br()・季節：秋&br()・象徴色：白}|たこ焼き屋/[[ザリ蛸]] 副店長&br()&small(){元9055}||2025/07/09||2005/08/08&br()(&countup(2005/08/08,y)歳)|設立メンバー|元[[MOZU]]構成員(研修)。&br()組織の末っ子。寂しがりやで一人になるとぺしょぺしょしちゃうこともある。&br()レースやチェイスなど車関係の腕前がいい。まいばななと共に9055で勤めていた同期組。&br()初心者マークを一人で外そうとしていたところにまいが声をかけ、人がいる場所で外すことができたため、ばなな同様まいを慕っている。&br()黒落ち前から、まいより聞いていた組織設立の話が具体的になってきたタイミングで志願。&br()天草とは半グレ期間が被っており、組織加入決定前から面識はあった。&br()同じく起床率の高い天草と無線に2人だけになることも多く、そのうちに天草のことも信頼し、欠かせない存在となった。&br()街転送直前、軍事基地でBOSS2人に、街が転送しても2人のために命を燃やすと発言している。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/maru_18sai]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@maru_18sai]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){むさしまる}>>https://x.com/maru_18sai]]|
+|&bold(){&ruby(ぎちょう　じょばぁーな){[[ぎちょう・じょばぁーな]]}}&br()|||[[ビュッフェ・アミティーステラ]]店長||2025/09/14||2001/03/27&br()(&countup(2001/03/27,y)歳)|初期メンバー|元[[MOZU]]構成員。&br()組織のツッコミ。ムードメーカー。&br()人懐っこい性格で、MOZU体験期間ほとんど関わりのなかったまいともValhysea加入後すぐ打ち解けている。&br()設立メンバーであるまるを除き、Valhysea初の志願者で初期メンバー1人目。&br()外交をBOSSとともに行っていく予定。顔が広く、勧誘に関しても任せられている。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/abotan0327]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Abotan]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){Aボタン}>>https://x.com/Abotan0327]]|
+|&bold(){&ruby(たまーち　にきた){[[タマーチ　ニキタ]]}}&br()|||||2025/09/21|2025/9/20|2001/05/15&br()(&countup(2001/05/15,y)歳)|初期メンバー|元[[TOPGEAR]]アンダーボス。元[[MOZU]]構成員。&br()戦闘技術に秀でている。天草の弟子の一人。負担が大きくなりがちな天草を支える右腕に。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/tamatthi]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@tamatthi-n9l]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){tamatthi🎯🦭}>>https://x.com/tamatthiii]]|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion
+//ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+***&font(20px){&color(#d3381c){&icon_fa(fa fa-user)} &underdot(#B22222,2px){Season2在籍メンバー}}
+#region(開く,open)
+#size(90%){{{
+#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b)
+#table_filter(){名前=show,役職=show,神獣名=show,職業=hide,ギャング加入日=hide,組織加入日=hide,志願日=hide,誕生日=hide,期生=hide,備考=show,リンク=show}
+|~名前|~役職|~神獣名|~職業|~ギャング加入日|~組織加入日|~志願日|~誕生日|~期生|~備考|~リンク|h
+|&bold(){&ruby(ひせき　まい){[[緋赤　まい]]}}|&font(14px){&bold(){BOSS}}|&b(){朱雀}&br()&small(){・方位：南&br()&small()・季節：夏&br()&small()・象徴色：赤（朱）}|||2025/05/31||1999/01/12&br()(&countup(1999/01/12,y)歳)|設立メンバー|元[[MOZU]]構成員(研修)。&br()&bold(){役割：メンバーのメンケア・勧誘したい人間のピックアップ}&br()組織のパパ的存在。度々身内の人間をヒヤヒヤさせるステーキを製造する。&br()無意識にかっこいい言動をしており、人たらしと言われるくらい人に自然と好いてもらえている。&br()実際白市民時代、複数のギャングからの勧誘を受けていた。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kinotake00]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UCgIHvyZWE6Ny7pfRpya86Yw]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){まいたけ}>>https://x.com/_kinotake_?mx=2]]|
+|&bold(){&ruby(あまくさ　そう){[[天草　蒼]]}}&br()|&font(14px){&bold(){BOSS}}|&b(){青龍/蒼龍}&br()&small(){・方位：東&br()・季節：春&br()・象徴色：緑（青）}|||2025/05/31||2000/10/30&br()(&countup(2000/10/30,y)歳)|設立メンバー|元[[ALLIN]]構成員3番隊、戦闘部隊。元[[MOZU]]構成員(研修)。&br()&bold(){役割：犯罪に重きを置き、情報収集など}&br()組織のママ的存在。（ママ草）とにかく頼りになる。ばななと同郷。タマーチの犯罪の師匠。&br()戦闘面に長けていて、ALLIN時代などの経験値から状況の判断力や適応力がある。&br()まいとギャングをしたいと伝えた際も、valhyseaへの勧誘の際も、どストレートな言葉で落としている。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/r_k7den]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@K7dedede/streams]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){かなででで🍡}>>https://x.com/R_k7den]]|
+|&bold(){&ruby(きたむら　ばなな){[[北村　ばなな]]}}||&b(){玄武}&br()&small(){・方位：北&br()・季節：冬&br()・象徴色：黒（玄）}|||2025/05/31||2000/12/15&br()(&countup(2000/12/15,y)歳)|設立メンバー |元[[MOZU]]構成員(研修)。&br()&bold(){役割：BOSSの補佐(まいメイン)(疑似アンダーボス)・情報共有}&br()組織の縁の下の力持ち。天草と同郷。&br()まいに命を賭すことができると発言するほど心酔している。&br()Valhyseaの初めての構成員。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/ba77n]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Ba77nn]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){ばなな}>>https://x.com/Ba7777777nnnnnn]]|
+|&bold(){&ruby(まるい　まる){[[丸井　まる]]}}&br()||&b(){白虎}&br()&small(){・方位：西&br()・季節：秋&br()・象徴色：白}|||2025/07/09||2005/08/08&br()(&countup(2005/08/08,y)歳)|設立メンバー|元[[MOZU]]構成員(研修)。&br()&bold(){役割：BOSS天草の補佐・金銭管理大臣}&br()組織の末っ子。寂しがりやで一人になるとぺしょぺしょしちゃうこともある。&br()クラフト担当。&br()レースやチェイスなど車関係の腕前がいい。まいばななと共に9055で勤めていた同期組。&br()天草と二人行動が増えるうちに天草のことも慕うようになる。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/maru_18sai]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@maru_18sai]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){むさしまる}>>https://x.com/maru_18sai]]|
+|&bold(){&ruby(ぎちょう　じょばぁーな){[[ぎちょう・じょばぁーな]]}}&br()|||||2025/09/14||2001/03/27&br()(&countup(2001/03/27,y)歳)|初期メンバー|元[[MOZU]]構成員。&br()&bold(){役割：外交大臣・ばななの補佐・他組織との話し合いの際の付き添い・情報収集・勧誘}&br()組織のツッコミ。ムードメーカー。サングラスを外したらエンドするらしい。&br()人懐っこい性格で、MOZU体験期間ほとんど関わりのなかったまいともValhysea加入後すぐ打ち解けている。&br()設立メンバーである まるを除き、Valhysea初の志願者で初期メンバー1人目。&br()外交をBOSSとともに行っていく予定。顔が広く、勧誘に関しても任せられている。&br()【12/31〜】転送時に記憶なのか夢なのかはっきりしないが出身国イタリアで人を失った経験が脳裏によぎり、後悔や恐怖がある。&br()しかしその恐怖とValhyseaでギャングしたいという気持ちが共存しているため天草に相談。&br()自身のトラウマの克服しながら、戦闘員になると決断するまで組織のサポートに回る選択をとる。&br()▶転送されてからの空いた期間で克服し3/21犯罪デビュー。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/abotan0327]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Abotan]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){Aボタン}>>https://x.com/Abotan0327]]|
+|&bold(){&ruby(たまーち　にきた){[[タマーチ　ニキタ]]}}&br()|||||2025/09/21|2025/9/20|2001/05/15&br()(&countup(2001/05/15,y)歳)|初期メンバー|元[[TOPGEAR]]アンダーボス。元[[MOZU]]構成員。&br()&bold(){役割：素材倉庫管理、ファーム大臣}&br()戦闘技術に秀でている。天草の弟子の一人。負担が大きくなりがちな天草を支える右腕に。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/tamatthi]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@tamatthi-n9l]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){tamatthi🎯🦭}>>https://x.com/tamatthiii]]|
+|&bold(){&ruby(もーがん　ふりーざん){[[モーガン・フリーザン]]}}&br()|テイスティング&br()アンダーボス||||2025/12/24||2023/09/25&br()(&countup(2023/09/25,y)歳)|二期メンバー|元[[concellge]]構成員。元[[TOPGEAR]]構成員。元[[MOZU]]体験。元[[RqteL]]構成員。&br()&bold(){役割：テイスティングアンダーボス}&br()任務:わくわくハーデス隊への潜入(スパイ)加入。加入条件&openclose2(show=*){モーガンがけんつさんからわくハーに勧誘される。&br()本来組織の掛け持ちは禁止だが、他組織をテイスティングする目的で今回に限り認めている。&br()わくハー関係で起こした問題はストレリチアには関係ないものとし、こちらに影響するような問題が起こった際は相応の対応をする。&br()わくハー側にストレリチアの情報を漏らさない。わくハーの情報を仕入れるたび報告。&br()}秘密&openclose2(show=*){わくハー側はストレリチアのみんなを裏切り、内緒でわくハーに加入し、バレないよう偽名でターキーと名乗っていると認識している。&br()しかし、すべてストレリチア側のスパイがバレにくいようにするための計画。}&br()テイスティングアンダーボスという新たに手に入れた薬や銃などをテイスティングする(薬は一番に服用、銃は打たれ具合などを試す)役。&br()アンダーボスの座(肩書)がほしいという本人の希望からボスより授与された。(実際は構成員と同じ立場。)|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/tossin1]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@tossinch/streams]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){とっしん}>>https://x.com/tossin1]]|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion(Season2在籍メンバー)
+//設立メンバーは、以前の発言から４名のみ。以後、衛星内等で明確な発言があれば変更いたします。
+//相違あれば修正お願いいいたします。
+//s1s2で備考欄多少変更しました。
+
+***&font(20px){&color(#d3381c){&icon_fa(fa fa-dog)} &underdot(#B22222,2px){ペット}}
+#region(開く,open)
+#size(90%){{{
+#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b)
+#table_filter(){名前=show,役職=hide,職業=hide,ギャング加入日=hide,組織加入日=hide,誕生日=hide,期生=hide,備考=show,リンク=show}
+|~名前|~役職|~職業|~ギャング加入日|~組織加入日|~誕生日|~期生|~備考|~リンク|h
+|[[わおん　ちょき]]|ペット|メカニック/[[LUNA Garage]]&br()消費者金融/[[BJローン]]||2025/08/15|||[[天草>>天草　蒼]]が51％、[[まい>>緋赤　まい]]が49%の持ち株でアジトで飼っているペット&br()現在はペット兼天草の役に立ちたいと後方支援枠で無線共有済み。行く行くは構成員になる可能性あり。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@ToboeKyan]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){遠吠きゃん}>>https://x.com/kyan_vpi]]|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion(ペット)
+
+***&font(20px){&color(#d3381c){&icon_fa(fa fa-user)} &underdot(#B22222,2px){過去メンバー}}
+#region(開く)
+#size(90%){{{
+#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b)
+#table_filter(){名前=show,役職=show,神獣名=show,職業=hide,ギャング加入日=hide,組織加入日=hide,志願日=hide,誕生日=hide,期生=hide,備考=show,リンク=show}
+|~名前|~役職|~神獣名|~職業|~ギャング加入日|~組織加入日|~志願日|~誕生日|~期生|~備考|~リンク|h
+|&bold(){&ruby(つきのしま　ごう){[[月ノ島　ごう]]}}&br()|||||2025/12/19||1889/07/26&br()(&countup(1889/07/26,y)歳)|二期メンバー|元[[ALLIN]]構成員。&br()【1/23〜】加入保留。（定義されたギャングがまだないため、ごう自身の動きやすさも考え設立時まで保留に。）|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/gotsukishima]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@GoTsukishima/streams]]&br()&font(#000000){&icon_fa(fa fa-brands fa-x-twitter)}[[&font(#000000){月島ごう}>>https://x.com/0726go]]|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion()
+
+***&font(20px){&color(#d3381c){&icon_fa(fa fa-child-reaching)} &underdot(#B22222,2px){メンバー候補}}
+#region(開く,close)
+#size(90%){{{
+#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b)
+|~名前|~勧誘日|~志願日|~備考|~リンク|
+|[[アウト　くるーど]]|2026/2/26&small(){頃~数回}||チェイスがうまい。天草タマーチちょきが欲しがっている。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/include3]]|
+|[[星ノ　みこ]]|2026/2/16||[[Urashima]]店員、[[Lv.94]]店員、[[個人医]]&br()天草の推薦。個人医を満喫しているので、組織が立ってから声をかける予定。関係値つくりはしておく。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/miko_official_]]|
+|[[エスターク・Z・ダークネス]]|2025/7/9,2026/2/21||元[[ALLIN]]、元[[餡ブレラ]]構成員。&br()[[天草　蒼]]の家族。街に帰ってきた際は居場所となる事を約束する。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/darkzelk]]|
+|[[三ッ星　ちゅに]]|2025/8/27||[[soffietto]]店員。&br()天草の推薦で、最有力候補。交流を増やして全員で囲っていく予定。&br()8/27の勧誘で、半グレとして翌日以降犯罪を教えることに。組織にしっくりきてくれれば加入。&br()9/20、レベル2ミッションへ同行。天草と話をし、心は決まったと報告を受ける。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/miiishu_628]]|
+|[[つよがり　とうか]]|2026/2/22||元[[餡ブレラ]]構成員、元[[RqteL]]構成員&br()天草が勧誘。（本人発言であまり加入の可能性は高くないとのこと）|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/touka3210]]|
+|[[ヘルアン]]|2025/??/?||元[[ALLIN]]アンダーボス、現[[hantasma]]構成員。&br()[[天草　蒼]]の家族。ギャングを立てる構想時点からずっと天草がおまほししている。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/m2_kento_heluan]]|
+|[[聖母　れりあ]]|2025/7/11||元[[餡ブレラ]]構成員。&br()居場所に困ったら来いと伝えた。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/hijirimelaeria]]|
+|[[上田　さん]]|2025/??/??||元[[餡ブレラ]]パシリ。&br()上田ギャングが設立できなかった際に、声をかける予定。(条件付き)|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/shinnosuke_th]]|
+|[[キャプテン　わきを]]|2025/??/??||元[[餡ブレラ]]構成員。&br()上田ギャングの構成員候補。（エンド済）|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/wakiwaki612?lang=ja]]|
+|[[羽津　ピオコ]]|2025/??/??||[[9055]]社員、[[FOWK]]店員、警察官。&br()まるの推薦、警察採用に合格したため関係値を築いていく予定|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@HaneruPyoko/featured]]|
+|[[モラード・バ・ナーナ]]|2025/??/??||元[[9055]]社員。半グレ経験あり。&br()久々に起きてきた際、天草が犯罪を教えると声掛け済みではあるが、天草とまる的には保留。特にまいと仲が良い。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/banana_game_channel]]|
+|[[メイ・カイ]]|2025/8/27||長期冬眠明け。半グレ経験あり。&br()ALLINに武器や素材を卸してくれていた。天草がALLINの時から気に入っており、勧誘済み。9/2サーマルを一緒に。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/meikai_loveka]]|
+|[[奈落　破滅]]|2025/9/7||[[PARADISE LOST]]店員、[[ロスランド]]店員|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/madotsuki_twitch]]|
+|[[ティキーチック　のすけ]]|2026/??/??||元[[MOZU]]構成員。モーガンが勧誘。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/riinosuke_twitch]]|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion(メンバー候補)
+//|[[モーガン・フリーザン]]元[[MOZU]]体験。満場一致で空気清浄機としてほしい人材。9/4勧誘。9/12、同じく欲しがっていたRqteLの五十嵐えいむと天草で取り合いの抗争の後敗北。RqteL加入が決まったが、本人より設立してから再度抗争をほのめかす発言があった。
+//⇑今後の編集の参考のため一時的に残しております。
+#right(){&link_up(🔝ページTOPへ)}
+//-----------------------------------------------------------
+*&font(#FFFFF){&icon_fa(fas fa-user-friends)} &font(#d3381c){対}外組織関係値
+***&font(15px){&color(#d3381c){&icon_fa(fas fa-users)} &underdot(#B22222,2px){現存組織}}
+#region(開く,close)
+#size(90%){{{
+#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b)
+|~組織名|~備考|h
+|&icon_fa(fa-solid fa-chess-queen)&space()[[GoodbyeCircus]]|[[マクドナルド>>ライトスターボーイ]]がBOSSのギャング|
+|&icon_fa(fa-solid fa-skull-crossbones)&space()[[NO LIMIT]]|[[四皇　シャンクズ]]がBOSSのギャング|
+|&icon_fa(fa-solid fa-cannabis)&space()[[麻陀羅組]]|[[タラ　ちゃん]]がBOSSのギャング|
+|&icon_fa(fa-brands fa-octopus-deploy)&space()[[868]]||
+|&icon_fa(fa-solid fa-ghost)&space()[[hantasma]]|[[アドミゲス・ハン]]がBOSSのギャング|
+|&icon_fa(fa fa-rocket)&space()[[第4宇宙速度]]|[[豆乳　ちゃんもも]]がBOSSのギャング|
+|&icon_fa(fa-solid fa-clock)&space()[[DERAY]]|[[小峯　玲]]がBOSSのギャング|
+|&icon_fa(fa-solid fa-tablets)&space()[[DEP]]|[[加藤　圧]]が代表を務める麻薬カルテル|
+|&icon_fa(fa-solid fa-gun)&space()[[FEMME FATALE]]|[[ティエリ ブッシュ>>ヤブ下 安理]]が代表を務める一般には出回っていない物を取り扱う武器商人組織|
+|&icon_fa(fa-solid fa-comments-dollar)&space()[[F.A.D.E>>FadeGate]]|[[加藤　圧]]が代表を務める裏ビジネスを斡旋する組織|
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion(現存組織)
+***&font(15px){&color(#d3381c){&icon_fa(fas fa-users)} &underdot(#B22222,2px){過去組織}}
+#region(開く,close)
+#size(90%){{{
+#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b)
+|~組織名|~備考|h
+|&icon_fa(fa-solid fa-dice)&space()[[ALLIN]]|[[Mon D]]がBOSSのギャング&br()[[天草>>天草　蒼]]が所属していた組織|
+|&icon_fa(fa-solid fa-masks-theater)&space()[[Trickster]]|[[ジョーカー>>半沢　直ふぃ]]がBOSSのギャング|
+|&icon_fa(fa-solid fa-feather)&space()[[MOZU]]|[[ヴァン　ダーマー]]がBOSSのギャング&br()[[まい>>緋赤　まい]],[[天草>>天草　蒼]],[[ばなな>>北村　ばなな]],[[まる>>丸井　まる]]の４人がギャングを立ち上げるための知見を深めるために研修として所属していたギャング|
+|&icon_fa(fa-solid fa-paw)&space()[[RqteL]]|[[五十嵐　えいむ]]がBOSSのギャング|
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion(過去組織)
+#right(){&link_up(🔝ページTOPへ)}
+//-----------------------------------------------------------
+*&font(#FFFFF){&icon_fa(fa fa-map-marker)} &font(#d3381c) {拠}点
+***&font(b,#e0e0e0,#606060,130%){&color(#606060){-}&icon_fa(fas fa-house)&space(2)物 件&color(#606060){-==}}
+&font(16px,b){&underdot(#B22222,2px){&color(#d3381c){&icon_fa(far fa-calendar-alt)}&space()Season1}}
+#region(開く,close)
+#size(90%){{{
+#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){番地=center,場所=left,通称=center,用途=center,管理=center,購入日=center,内装=center,備考=left}
+#table_filter(){番地=show,通称=show,用途=show,管理=show,購入日=hide,内装=hide,備考=show}
+|番地|通称|用途|管理|購入日|内装|備考|h
+|6173|アジト|アジト|[[天草　蒼]]|2025/7/5|Vinewood house1|[[パン　チャン]]から天草のALLINの遺産から土地代1億+内装20億で購入。|
+|6173|||[[天草　蒼]]||||
+|6173|||[[天草　蒼]]||||
+|7106|SKE横|逃げ込み拠点|[[天草　蒼]]||||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion(拠点)
+//-----------------------------------------------------------
+*&font(#FFFFF){&icon_fa(fa fa-book)} &font(#d3381c){歴}史
+***&font(b,#e0e0e0,#606060,130%){&color(#606060){-}&icon_fa(fas fa-history)&space(2)年 表&color(#606060){－-}}
+&font(16px,b){&underdot(#B22222,2px){&color(#d3381c){&icon_fa(far fa-calendar-alt)}&space()Season1}}
+#region(開く)閉じる
+****5月
+#region(開く)
+#size(90%){{{#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){日付=center,出来事=left,関係者=left,備考=left,動画=center}
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show}
+|日付|出来事|関係者|備考|動画|h
+|05/31|MIDDLE:ギャング設立挑戦決意|MIDDLE:&small(){[[緋赤　まい]],[[天草　蒼]],[[北村　ばなな]]&br()[[ヴァン　ダーマー]],[[大　川]]}|MIDDLE:[[まい>>緋赤　まい]]と関係値の深い[[大　川]]の紹介で[[ヴァン　ダーマー]]と今後について対話を行う中で、ギャング設立に向けて動きだすことを決意する。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=XnNPLcimqsg]]|
+}}}
+#endregion
+//
+****6月
+#region(開く)
+#size(90%){{{#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){日付=center,出来事=left,関係者=left,備考=left,動画=center}
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show}
+|日付|出来事|関係者|備考|動画|h
+|MIDDLE:06/01|MIDDLE:[[天草　蒼]]が[[MOZU]]に加入|MIDDLE:&small(){[[ヴァン　ダーマー]],[[天草　蒼]]}|MIDDLE:[[天草>>天草　蒼]]が研修のため[[MOZU]]に加入する|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=N56K4MsicZs]]|
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion(6月)
+****7月
+#region(開く)
+#size(90%){{{#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){日付=center,出来事=left,関係者=left,備考=left,動画=center}
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show}
+|日付|出来事|関係者|備考|動画|h
+|07/05|MIDDLE:アジト購入|MIDDLE:&small(){[[天草　蒼]],[[パン　チャン]]}|MIDDLE:アジトとして運用予定の物件を6173番地に購入|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=65WeXeTl8Sw]]|
+|07/09|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[天草　蒼]],[[エスターク・Z・ダークネス]]}|[[天草>>天草　蒼]]が[[エスターク・Z・ダークネス]]を勧誘。エスタークが一時帰国から帰ってくる居場所を作っておくと伝えた。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=iTAifLNGNSM]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=in5ckFu9K48]]|
+|~|MIDDLE:加入志願者|MIDDLE:&small(){[[緋赤　まい]],[[丸井　まる]]}|MIDDLE:[[まい>>緋赤　まい]]と[[丸井　まる]]が対話を行い、組織への加入志願をもらう|~|
+|~|MIDDLE:新メンバー加入|MIDDLE:&small(){[[緋赤　まい]],[[天草　蒼]]&br()[[丸井　まる]]}|MIDDLE:加入志願をもらった[[丸井　まる]]について[[まい>>緋赤　まい]]が[[天草>>天草　蒼]]に相談した結果、「[[まい君>>緋赤　まい]]が入れたいと思うならいい」ということで加入が決定する|~|
+|07/11|MIDDLE:[[丸井　まる]]MOZU傭兵決定|MIDDLE:&small(){[[ヴァン　ダーマー]],[[丸井　まる]]&br()[[天草　蒼]],[[緋赤　まい]]}|MIDDLE:まる加入志願に伴い、過去のトラブルを清算した後、ヴァンさんに相談しまるをMOZUの傭兵として呼ぶ許可をもらう。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtu.be/pF7k17TnUgo?si=PwXbPFBsiC7c7S2B]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=EIRsoxOYUM0]]|
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[天草　蒼]],[[聖母　れりあ]]}|[[天草>>天草　蒼]]が[[聖母　れりあ]]を勧誘。居場所に困ったら来いと伝えた。||
+|07/12|MIDDLE:[[緋赤　まい]],[[北村　ばなな]]初犯罪|MIDDLE:&small(){[[緋赤　まい]],[[天草　蒼]]&br()[[北村　ばなな]],[[丸井　まる]]}|MIDDLE:[[天草>>天草　蒼]]指導の下、[[まい>>緋赤　まい]]と[[ばなな>>北村　ばなな]]が初犯罪を行った。　結果、[[ばなな>>北村　ばなな]]が初検挙となった。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=HKi_dkyyM-Y]]|
+|MIDDLE:07/16|MIDDLE:[[緋赤　まい]]が[[MOZU]]に加入|MIDDLE:&small(){[[ヴァン　ダーマー]],[[緋赤　まい]]}|MIDDLE:[[まい>>緋赤　まい]]が研修のため[[MOZU]]に加入する||
+|MIDDLE:07/17|MIDDLE:[[北村　ばなな]]が[[MOZU]]に加入|MIDDLE:&small(){[[ヴァン　ダーマー]],[[北村　ばなな]]}|MIDDLE:[[ばなな>>北村　ばなな]]が研修のため[[MOZU]]に加入する||
+|MIDDLE:07/19|MIDDLE:[[丸井　まる]]が[[MOZU]]に体験加入|MIDDLE:&small(){[[ヴァン　ダーマー]],[[丸井　まる]]}|MIDDLE:[[まる>>丸井　まる]]が研修のため[[MOZU]]に体験加入する|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=IC4PzuY9Y9k]]|
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion(7月)
+****8月
+#region(開く)
+#size(90%){{{#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){日付=center,出来事=left,関係者=left,備考=left,動画=center}
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show}
+|日付|出来事|関係者|備考|動画|h
+|08/15|MIDDLE:ペットを飼う|MIDDLE:&small(){[[天草　蒼]],[[わおん　ちょき]]}|[[わおん　ちょき]]を[[天草>>天草　蒼]]が51％,[[まい>>緋赤　まい]]が49%の持ち株にてアジトで飼うことになる。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=C18tsV4uGLg]]|
+|08/24|MIDDLE:[[MOZU]]解散|MIDDLE:&small(){[[MOZU]]}|[[MOZU]]の解散に伴い研修加入終了。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=-lDL0is0JX4&t=2063s]]|
+|~|MIDDLE:組織名決定|MIDDLE:&small(){[[緋赤　まい]],[[天草　蒼]],[[北村　ばなな]],[[丸井　まる]]}|MIDDLE:話し合いの末、組織名を[[ばなな>北村　ばなな]]考案の「Valhysea」(ｳﾞｧﾙﾋｾｱ)に決定。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/watch?v=i531aHVZXh8]]|
+|08/27|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[天草　蒼]],[[三ッ星　ちゅに]]}|[[天草>>天草　蒼]]が[[三ッ星　ちゅに]]を勧誘。||
+|~|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[天草　蒼]],[[メイ・カイ]]}|[[天草>>天草　蒼]]が[[メイ・カイ]]を勧誘。||
+|08/28|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[天草　蒼]],[[三島　改]]}|[[天草>>天草　蒼]]が[[三島　改]]を勧誘。||
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion(8月)
+****9月
+#region(開く,close)
+#size(90%){{{#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){日付=center,出来事=left,関係者=left,備考=left,動画=center}
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show}
+|日付|出来事|関係者|備考|動画|h
+|09/04|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[天草　蒼]],[[モーガン・フリーザン]]}|[[天草>>天草　蒼]]が[[モーガン・フリーザン]]を勧誘。||
+|09/06|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[天草　蒼]],[[タマーチ　ニキタ]]}|[[天草>>天草　蒼]]が[[タマーチ　ニキタ]]を勧誘。||
+|09/07|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[天草　蒼]],[[ぎちょう・じょばぁーな]]}|[[天草>>天草　蒼]]が[[ぎちょう・じょばぁーな]]を勧誘。||
+|09/07|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[天草　蒼]],[[柳瀬　つん]]}|[[天草>>天草　蒼]]が[[柳瀬　つん]]を勧誘。[[FEMME FATALE]]に勤務しているためギャングするつもりはないと断られる。傭兵業を行っていると聞き、傭兵に呼ぶ約束をする。||
+|09/07|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[天草　蒼]],[[緋赤　まい]],[[奈落　破滅]]}|[[天草>>天草　蒼]],[[緋赤　まい]]が[[奈落　破滅]]を勧誘。||
+|09/12|MIDDLE:勧誘抗争|MIDDLE:&small(){[[天草　蒼]],[[モーガン・フリーザン]],[[五十嵐　えいむ]]}|[[天草　蒼]]が以前から勧誘していた[[モーガン・フリーザン]]を取り合い[[RqteL]]の[[五十嵐　えいむ]]と抗争。惜しくも敗北。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>https://youtu.be/TzmwjHg884U?si=I6tpGu0ra3BBqLp8]]|
+|09/14|MIDDLE:新メンバー加入|MIDDLE:&small(){[[ぎちょう・じょばぁーな]],[[天草　蒼]],[[緋赤　まい]],[[丸井　まる]]}|[[ぎちょう・じょばぁーな]]が加入決定。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){じょば視点}>>https://youtu.be/Y6TUmSGumnI?si=Cn0aZOeH5IKiQY_U]]&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){天草視点}>>https://youtu.be/xVBJ86q3Rqw?si=TBErmFIO12X5Aihz]]|
+|09/21|MIDDLE:新メンバー加入|MIDDLE:&small(){[[タマーチ　ニキタ]],[[天草　蒼]],[[緋赤　まい]],[[北村　ばなな]],[[丸井　まる]]}|[[タマーチ　ニキタ]]が加入決定。||
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion(9月)
+#endregion
+
+&font(16px,b){&underdot(#B22222,2px){&color(#d3381c){&icon_fa(far fa-calendar-alt)}&space()Season2}}
+#region(開く,open)閉じる
+****12月
+#region(開く)
+#size(90%){{{#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){日付=center,出来事=left,関係者=left,備考=left,動画=center}
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show}
+|日付|出来事|関係者|備考|動画|h
+|MIDDLE:12/19|MIDDLE:新メンバー加入|MIDDLE:&small(){[[月ノ島　ごう]],[[天草　蒼]]}|MIDDLE:[[月ノ島　ごう]]が加入決定。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){天草視点}>>https://youtu.be/XxDYcxKRXHg?si=VjCpKU7q0lgWUIhg]]&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){ごう視点}>>https://youtu.be/zlqVLthECsw?si=U-sW4eSJp6IqnJkP]]|
+|MIDDLE:12/24|MIDDLE:新メンバー加入|MIDDLE:&small(){[[モーガン・フリーザン]],[[天草　蒼]]}|MIDDLE:[[モーガン・フリーザン]]が加入決定。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){じょば視点}>>https://youtu.be/E5A3JycNKxM?si=p_TTibXAAv90XCPS]]&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){ごう視点}>>https://youtu.be/tAqAOInvgGg?si=_RltSYaixvJuxvp1]]&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){天草視点}>>https://youtu.be/nty4-GIG9Uc?si=FbzUk1GBX_Pro5BJ]]&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){モーガン視点1}>>https://youtu.be/fKg_kZUDMSo?si=3cosnDNX5BTXpG3t]]&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){モーガン視点2}>>https://youtu.be/mg_mxF47fGw?si=5bN5CQgJaS27q_Rt]]|
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion
+****1月
+#region(開く)
+#size(90%){{{#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){日付=center,出来事=left,関係者=left,備考=left,動画=center}
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show}
+|日付|出来事|関係者|備考|動画|h
+|MIDDLE:1/10|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[ティキーチック　のすけ]],[[モーガン　フリーザン]],[[天草　蒼]]}|MIDDLE:[[ティキーチック　のすけ]]をモーガンが勧誘。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){モーガン視点}>>https://youtu.be/YQ17cvz-Oeg?si=e1hRX3WuOIFvtE_q]]|
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion
+****2月
+#region(開く)
+#size(90%){{{#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){日付=center,出来事=left,関係者=left,備考=left,動画=center}
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show}
+|日付|出来事|関係者|備考|動画|h
+|MIDDLE:2/16|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[星ノ　みこ]],[[天草　蒼]]}|MIDDLE:[[星ノ　みこ]]を天草が勧誘。||
+|MIDDLE:2/21|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[エスターク・Z・ダークネス]],[[天草　蒼]]}|MIDDLE:[[エスターク・Z・ダークネス]]を天草が勧誘。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){エスターク視点}>>https://youtu.be/t7o45H_uE4Y?si=-PpzR9NnPUOOJfBb]]&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){天草視点}>>https://youtu.be/oYvvcy7CRY4?si=rvP0eARq9QdxLlki]]|
+|MIDDLE:2/22|MIDDLE:メンバー勧誘|MIDDLE:&small(){[[つよがり　とうか]],[[天草　蒼]]}|MIDDLE:[[つよがり　とうか]]を天草が勧誘。||
+|MIDDLE:2/27|MIDDLE:アジト購入申請|MIDDLE:&small(){[[タマーチ　ニキタ]],[[天草　蒼]],[[パン　チャン]]}|MIDDLE:7008番地にアジト購入のため申請。&br()&openclose2(show=[詳細*]){7008番地の白い物件一階の扉、内装Loft3、5000万＋土地代1000万&br()スタッシュ2つ置くことができる物件&br()(申請予定物件:同物件上階、内装Loft1)}||
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion
+****3月
+#region(開く)
+#size(90%)
+{{{#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){日付=center,出来事=left,関係者=left,備考=left,動画=center}
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show}
+|日付|出来事|関係者|備考|動画|h
+|MIDDLE:3/13|MIDDLE:アジト購入|MIDDLE:&small(){[[パン　チャン]],[[天草　蒼]][[タマーチ　ニキタ]]}|MIDDLE:7008番地にアジト購入。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){天草視点}>>https://youtu.be/Uj6a9Jtq8rc?si=RBoaPObzHwfTnToR]]|
+|MIDDLE:3/21|MIDDLE:設立|MIDDLE:&small(){[[緋赤　まい]],[[天草　蒼]]}|MIDDLE:ギャングを設立。||
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion
+****4月
+#region(開く)
+#size(90%){{{#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){日付=center,出来事=left,関係者=left,備考=left,動画=center}
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show}
+|日付|出来事|関係者|備考|動画|h
+|MIDDLE:4/4|MIDDLE:会議|MIDDLE:&small(){[[緋赤　まい]],[[天草　蒼]]、[[北村　ばなな]]、[[ぎちょう・じょばぁーな]]}|MIDDLE:天草が今までの苦悩を話す。それを踏まえ組織で話し合い、今後の動きなどを決めた。||
+|MIDDLE:~|MIDDLE:組織員の役割決め|MIDDLE:&small(){[[緋赤　まい]],[[天草　蒼]]、[[北村　ばなな]]、[[ぎちょう・じょばぁーな]]}|MIDDLE:ボス構成員それぞれに役割付けをした。(メンバー情報に記載)||
+#endregion
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+****5月
+#region(開く)
+#size(90%){{{#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b){日付=center,出来事=left,関係者=left,備考=left,動画=left,ポスト=center}
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show,ポスト=show}
+|日付|出来事|関係者|備考|動画|ポスト|h
+|MIDDLE:5/15|MIDDLE:解散|MIDDLE:&small(){[[天草　蒼]]、[[ぎちょう・じょばぁーな]]}|MIDDLE:解散決定。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){天草視点}>>https://youtu.be/uI1E8ALTGqg?si=hex3lnqAOYCNM8tB]]&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){じょば視点}>>ttps://youtu.be/uI1E8ALTGqg?si=hex3lnqAOYCNM8tB]]||
+|MIDDLE:~|MIDDLE:報告|MIDDLE:&small(){[[天草　蒼]]、[[モーガン・フリーザン]]}|MIDDLE:モーガンに解散報告。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){モーガン視点}>>https://youtu.be/W83gF1c0Z0M?si=EL3y7cnnDpPRgxn1]]||
+|MIDDLE:5/20|MIDDLE:報告|MIDDLE:&small(){[[天草　蒼]]、[[北村　ばなな]]}|MIDDLE:ばななに解散報告。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){天草視点}>>https://youtu.be/RnDv-TyA1zI?si=SpIH6KsIFwsB_XbL]]||
+|MIDDLE:~|MIDDLE:抗争決定|MIDDLE:&small(){[[天草　蒼]]、[[北村　ばなな]]}|MIDDLE:ばななの提案で最後に[[NOVA FAMILIA]]との抗争決定。|MIDDLE:~||
+|MIDDLE:5/21|MIDDLE:報告|MIDDLE:&small(){[[天草　蒼]]、[[わおん　ちょき]]}|MIDDLE:ちょきに解散報告。|||
+|MIDDLE:5/29|MIDDLE:抗争|MIDDLE:&small(){[[天草　蒼]]、[[緋赤　まい]]、[[北村　ばなな]]、[[ぎちょう・じょばぁーな]]、[[タマーチ　二キタ]]、[[モーガン・フリーザン]]}|MIDDLE:最初で最後の抗争。2−0ストレート勝利。|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){天草視点}>>https://youtu.be/ezknGoU1XT0?si=qi7O_MoGL2N7BnP4]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){モーガン視点①}>>https://youtu.be/csLN85vERL0?si=tD8946vxGfxkC6Q1]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){モーガン視点②}>>https://youtu.be/ccJou3qoQ6Q?si=VnH7Rse9HizbnxMO]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){ほぼ週ストグラ}>>https://youtu.be/vEFCA6Hk7ag?si=hBAFeSMtiZ027PDp]]|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)}[[&font(#000){天草ポスト}>>https://x.com/R_k7den/status/2060408599550341604?s=20]]&br()&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)}[[&font(#000){まいポスト}>>https://x.com/_kinotake_/status/2060411790119608422?s=20]]&br()&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)}[[&font(#000){じょばポスト}>>https://x.com/Abotan0327/status/2060585293519139183?s=20]]&br()&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)}[[&font(#000){モーガンポスト}>>https://x.com/tossin1/status/2060402929178464627?s=20]]|
+|MIDDLE:5/30|MIDDLE:正式解散|MIDDLE:&small(){[[天草　蒼]]、[[緋赤　まい]]、[[北村　ばなな]]、[[ぎちょう・じょばぁーな]]、[[タマーチ　二キタ]]、[[モーガン・フリーザン]]、[[わおん　ちょき]]}|MIDDLE:まいタマーチへの解散報告と抗争終了につき正式解散。|MIDDLE:~|MIDDLE:~|
+#endregion
+#table_sorter{even=#f0f8ff,odd=#FFFFFF}
+}}}
+#endregion
+
+***&font(b,#FFFFFF,#606060,130%){&color(#606060){-}&icon_fa(fas fa-history)&space(2)犯罪歴&color(#606060){－-}}
+&font(16px,b){&underdot(#B22222,2px){&color(#d3381c){&icon_fa(far fa-calendar-alt)}&space()Season1}}
+#region(開く)
+#size(90%)
+#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b)
+#table_filter(){日付=show,犯罪名=show,参加メンバー=show,合同・傭兵=show,備考=show}
+|~日付|~犯罪名|~参加メンバー|~合同・傭兵|~備考|h
+|2025/7/12|コンビニ強盗|緋赤まい/天草蒼/北村ばなな||・警察車両の重窃盗&br()・ばななのみ車からはたき出されプリズン送り|
+|2025/8/2|銀行強盗|緋赤まい/天草蒼/丸井まる||・月乃えるな、近藤武蔵、パンチャン、ボイラテンガリンを人質にとる ・天草、まるはチェイスの後逮捕。&br()・まいは逃げ切ったが、9055社員を人質にとったため懸賞金と指名手配がかかる ・9055社員複数名とチェイスし負け、逮捕プリズン行き|
+|2025/8/25|宝石店強盗|緋赤まい/北村ばなな/丸井まる||・全員プリズン行き|
+|2025/9/9|軍事物資強奪|緋赤まい/天草蒼/北村ばなな|UED/キャプテンわきを/ライジングサン宗介|・UEDギャングと合同|
+|~|軍事物資強奪|緋赤まい/天草蒼|ぎちょう・じょばぁーな/タマーチニキタ/UED/キャプテンわきを|・UEDギャングと合同・じょば、タマーチは加入前|
+|2025/9/11|軍事物資強奪|緋赤まい/天草蒼/丸井まる|ぎちょう・じょばぁーな/UED/キャプテンわきを|・UEDギャングと合同・じょば加入前|
+#endregion
+//MOZU期間は記入なし。E5は現在犯罪ではないため記入なし。設立前、半グレ期間は組織員2人以上参加で記入。
+***&font(b,#FFFFFF,#606060,130%){&color(#606060){-}&icon_fa(fas fa-history)&space(2)抗争歴&color(#606060){－-}}
+#region(開く)
+#size(90%)
+#table_style(hover=#f8f8f8,head=#d3381c:#fff:center:b)
+#table_filter(){日付=show,抗争組織名=show,参加メンバー=hide,賭け=show,勝敗=show,備考=show}
+|~日付|~抗争組織名|~参加メンバー|~賭け|~勝敗|~備考|
+|2026/5/29|NOVA FAMILIA|天草　蒼、緋赤　まい、北村　ばなな、ぎちょう・じょばぁーな、タマーチ　二キタ、モーガン・フリーザン|極:負けた際天草まいばななタマーチがNOVA FAMILIA加入、N:4000万支払い|2−0勝利|最初で最後の抗争。観戦にちょき。|
+#endregion
+#right(){&link_up(🔝ページTOPへ)}
+
+//-----------------------------------------------------------
+*&font(#FFFFF){&icon_fa(fa fa-camera)} &font(#d3381c){思}い出アルバム
+編集ページは[[こちら>Valhyseaアルバム1]]
+#region(開く,open)
+#include(Valhyseaアルバム1)
+#endregion
+//-----------------------------------------------------------
+//*&font(#FFFFF){&icon_fa(fa fa-paperclip)} &font(#d3381c){ク}リップ
+
+//-----------------------------------------------------------
+*&font(#FFFFF){&icon_fa(fa fa-gamepad)} &font(#d3381c){ス}トグラ外コラボ
+#region(開く,close)閉じる
+#table_style(head=center:#e14024:#fff)
+#table_filter(){配信日=show,内容=show,コラボメンバー(PL)=show,コラボメンバー(キャラ名)=hide,備考=show,配信枠有=hide,リンク=show}
+|~配信日|~内容|~コラボメンバー(PL)|~コラボメンバー(キャラ名)|~備考|~配信枠有|リンク|h
+|2025/10/7|VALORANT|かなででで/tamatthi/ばなな/まいたけ/むさしまる|天草蒼/タマーチニキタ/北村ばなな/緋赤まい/丸井まる|初コラボ|全員/twitch||
+|2025/11/9|Minecraft Hardcore|Aボタン/かなででで/tamatthi/遠吠きゃん/ばなな/まいたけ/むさしまる|ぎちょう・じょばぁーな/天草蒼/タマーチニキタ/わおんちょき/北村ばなな/緋赤まい/丸井まる|⚠配信内容ネタバレ&openclose2(show=*){4回目【死んだ回数】かなででで2回 まいたけ1回 Aボタン1回【ポイント】⭕️2P  Aボタン⭕️1P かなででで,まいたけ,ばなな,きゃん,たまっち&br()5回目【死んだ回数】かなででで1回 まいたけ1回 Aボタン1回 きゃん1回 たまっち1回【ポイント】⭕️3P たまっち⭕️2P  Aボタン⭕️1P かなででで,まいたけ,ばなな,きゃん&br()6回目【死んだ回数】かなででで1回 まいたけ1回 Aボタン1回 きゃん2回 たまっち1回【ポイント】⭕️4P たまっち⭕️3P きゃん⭕️2P  Aボタン,かなででで⭕️1P まいたけ,ばなな&br()➥《チーム》まいたけ,ばなな,Aボタン／かなででで,きゃん,たまっち,むさしまる&br()7回目【死んだ回数】かなででで1回 まいたけ2回 Aボタン1回 きゃん2回 たまっち1回【ポイント】⭕️5P きゃん⭕️4P たまっち⭕️3P まいたけ⭕️2P  Aボタン,かなででで⭕️1P ばなな,むさしまる&br()➥《チーム》まいたけちょき(Dog's)／Aボタンむさしまる／かなでばななたまっち(アルパカーズ)&br()8回目【死んだ回数】かなででで1回 まいたけ2回 Aボタン1回 きゃん2回 たまっち1回 むさしまる1回【ポイント】⭕️5P きゃん⭕️4P たまっち⭕️3P まいたけ,むさしまる⭕️2P  Aボタン,かなででで⭕️1P ばなな}|全員/きゃんyoutube他6人twitch|[[きゃん視点>>https://www.youtube.com/live/V_pCvaIDARc?si=ZbnJ06K03fYer0mE]]|
+※名前敬称略,五十音順
+#endregion
+//-----------------------------------------------------------
+*&font(#FFFFF){&icon_fa(fa fa-comments)} &font(#d3381c){組}織内用語辞典
+&aname(索引)
+|BGCOLOR(#606060):COLOR(#FFFFFF):索引 ▶︎|&space(1)[[あ>#あ]]&space(1)|BGCOLOR(#F7F7F7):&space(1)[[か>#か]]&space(1)|&space(1)[[さ>#さ]]&space(1)|BGCOLOR(#F7F7F7):&space(1)[[た>#た]]&space(1)|&space(1)[[な>#な]]&space(1)|BGCOLOR(#F7F7F7):&space(1)[[は>#は]]&space(1)|&space(1)[[ま>#ま]]&space(1)|BGCOLOR(#F7F7F7):&space(1)[[や>#や]]&space(1)|&space(1)[[ら>#ら]]&space(1)|BGCOLOR(#F7F7F7):&space(1)[[わ>#わ]]&space(1)|
+
+#region(一覧,close)閉じる
+//◆あ行---------------------------------------------------------
+&aname(あ)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)あ行}&space(30)}
+
+&aname(アジト)
+***アジト
+7008番地の拠点
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆か行---------------------------------------------------------
+&aname(か)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)か行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆さ行---------------------------------------------------------
+&aname(さ)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)さ行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆た行---------------------------------------------------------
+&aname(た)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)た行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆な行---------------------------------------------------------
+&aname(な)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)な行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆は行---------------------------------------------------------
+&aname(は)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)は行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆ま行---------------------------------------------------------
+&aname(ま)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)ま行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆や行---------------------------------------------------------
+&aname(や)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)や行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆ら行---------------------------------------------------------
+&aname(ら)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)ら行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆わ行---------------------------------------------------------
+&aname(わ)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)わ行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+#endregion
+
+//-----------------------------------------------------------
+#right(){&link_up(🔝ページTOPへ)}

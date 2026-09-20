@@ -1,0 +1,280 @@
+*&color(#f0f8ff){&font(30px,#bbdbf3){&icon_fa(fa-solid fa-fish-fins fa-flip)}  プロフィール}
+&image(イナイロハ全身.jpg,y=400)
+
+#region(写真を表示)
+|&image(https://r2.fivemanage.com/images/gU2d9tVyUKy2.png,y=300)|&image(https://r2.fivemanage.com/images/LcWO6k4lPxzR.png,y=300)|&image(イナイロハ_デメキン.webp,y=300)|
+#endregion
+============================================
+&bold(){&sizex(5){この街に}&sizex(7){&color(#3B4EF0){両親}}と&sizex(7){&color(#F54738){良心}}&sizex(5){を探しにきました！}}
+&sizex(5){&bold(){　　　　新米メイドのイナイロハです！　　}}
+============================================
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#bbdbf3:#fff,hover=#f0f8ff){}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|
+|~名前|~&icon_fa(fa-solid fa-fish-fins)|>|イナ　イロハ &color(#AAAAAA){&small(){&openclose2(show=※){&br()168と呼ばれていた事だけは覚えている}}}|
+|~出身地|~&icon_fa(fa fa-map-marker)|>|不明　(孤児院で過ごしていた)|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|3月7日(仮)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年12月26日 (&countup(2023/12/26,yd)経過)|　|
+|~職業|~&icon_fa(fa fa-building-columns)|&icon_fa(fa fa-wrench)&space()メカニック([[SKE>菖光エンジニア]]所属)&br()&icon_fa(fa-solid fa-user-nurse)&space()[[ロスサントス救急救命隊]]&br()&space(5)&small(){ランク4 Sub-Captain/外科医}&br()&space(5)&small(){(特殊救急隊イージスゼロ所属)}&br()&icon_fa(fa fa-hotdog)&space()ホットドック屋&br()&icon_fa(fa fa-fish)&space()飲食店 [[GYOGYO]]&br()&small(){&openclose2(show=過去の職業){&nbsp(br,3)[[カジノ]] 従業員}}|&co(){■■■■■ここからSeason2■■■■■}&icon_fa(fa-solid fa-user-nurse)&space()[[ロスサントス救急救命隊]]&br()&space(5)&small(){ランク4 Sub-Captain/副隊長}&br()&space(5)&small(){営業部 (2026/06/24~)}&br()&icon_fa(fa fa-coins)&space()カジノ [[LosVegas]]|
+|~TwiX|~&icon_fa(fa fa-crow)|@ina_iroha&br()@gyogyo|　|
+|~ドライバー名|~&icon_fa(fa fa-user-tag)|サスライダー|　|
+|~プレイヤー|~&icon_fa(fa fa-heart)|>|稲荷いろは（のりプロ）|
+|~告知等|~&icon_fa(fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X&space()(旧&font(#1da1f2){Twitter})}>>https://twitter.com/inariiroha_]]|
+|~配信場所|~&icon_fa(fa fa-gamepad)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play fa-fw)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@inariiroha]]&font(#9146FF){&icon_fa(fa fa-twitch)} [[&font(#9146FF){Twitch}>>https://www.twitch.tv/inariiroha_]]|
+|~切り抜き|~&icon_fa(fa fa-scissors)|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@inariiroha?si=SVw8-3e7cl6Y5Vu0]]|
+|~ガイドライン|~&icon_fa(fa fa-info-circle)|>|[[のりプロ推し活ガイドライン>>https://noripro.jp/fandom/]]&br()[[二次創作ガイドライン>>https://noripro.jp/fanart/]]&br()&bold(){※ストグラ関連の切り抜きNG}(許諾chは除く)|
+//
+//職業を追加・更新した場合、「 https://w.atwiki.jp/streamergta5/pages/20.html#id_ab0a5ace 」（職業一覧->就業者一覧）等への追加・更新のご協力をお願いいたします。
+//
+//⚠️(12/28追記)プレイヤーの所属表記について
+//他記事のVtuberの方やグループ所属の方の表記に合わせ、所属先を併記させていただいています
+//もし、表記に関してご意見のある場合は編集相談所までお願いします　JohnHeartless
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&color(#f0f8ff){&font(30px,#bbdbf3){&icon_fa(fa-solid fa-fish-fins fa-bounce)}  基本情報}
+>皆様お初にお目にかかります！新米メイドの「イナ イロハ」です🔰
+>元は孤児院におりその後お屋敷で働いておりましたが、両親がロスサントスにいることをしり引っ越して参りました！
+>二人を探す為なら何でもする所存です…よろしくお願いします！
+#right(){[[DAY1 概要欄より>https://www.youtube.com/watch?v=XeliRHH-lK8]]}
+***&size(130%){&bgcolor(#7eb3da){&nbsp()&font(#fff,90%){　人物概要}&nbsp(56)}}
+#region(開く,open)&bold(){閉じる}
+・孤児院出身の新米メイド。名前も顔も知らない両親がロスサントスにいると聞き、二人を探すためやってきた。
+#region(ネタバレ詳細,close)&bold(){閉じる}
+・本当の名前はイロハではなく168(イチロクハチ)と呼ばれていた。(DAY132参照)
+・・なぜ168と呼ばれていたかを知りたくて両親を探している。
+#endregion
+・・「イナ　イロハ」という名前も、孤児院の職員さんがつけてくれた名前であり、本名は不明。本人は気に入っていない。
+・・両親の名前も不明なので、自分とよく似た人を探すことにしている。
+・・最悪見つからなかったら、ロスサントスで「パパ」「ママ」になってくれる人を探そうとしている...？
+#region(ネタバレ注意)&bold(){両親についてわかっていること}
+&sizex(6){&bold(){父親}}
+・銃の名手だった&br()➡️それならばと警察官かギャングの道を選ぼうと思っている。
+&sizex(6){&bold(){母親}}
+・現状情報なし
+#endregion
+#region(ネタバレ注意)&bold(){「パパ」「ママ」候補の}&s(){犠牲者}&bold(){&size(18){住民の皆さん}}
+&sizex(6){&bold(){パパ}}
+・&bold(){[[ジョーカー>半沢　なおふぃ]]さん}&br()もうすっかりお馴染みの「パパ」。家やらなんやら色々買ってくださった。
+&sizex(6){&bold(){ママ}}
+・&bold(){[[咲夜>鳥羽　咲夜]]さん}&br()救急隊orカジノの選択で悩んだ末、カジノを断念する報告をした際に優しさに触れ、「もう咲夜さんはお姉ちゃんどころじゃない、&bold(){ママかもしれん}」と思うように。
+#endregion
+・孤児院出身のため、空腹や貧乏にトラウマがあり、そのような状態になりたくないと強く願っている。
+#endregion
+***&size(130%){&bgcolor(#7eb3da){&nbsp()&font(#fff,90%){　性格・特徴}&nbsp(52)}}
+#region(開く,open)&bold(){閉じる}
+・お屋敷に雇われていた時は、あまり外出できていなかったため、外の世界は新しいことばかりで興味津々。
+・・その一方で、人見知りなところがあり、大人数のところに入っていくのは苦手。
+・・それでも頑張って色んな人と触れ合おうとする頑張り屋さん。
+・・人見知りを発動すると謎の変装や奇行に走ることが多いが、頑張ってるんだな・・・と思って温かい目で観測してください。
+・・[[菖光会>IRiS]]メンバーや[[ギャラクシー師匠>ヘルアン]]など、ある程度親しくなりさえすれば人見知りが消えてノリノリでボケるようになる。
+・両親を探す以外にやりたいことは？と聞かれて、&bold(){「戦いたい」}と答えるなど結構な武闘派。
+・・初日から市民を斧でワンパン&bold(){(完全な事故)}というとんでもないことをしたせいか、二日目にして「救済したい...」と言い出すなど、いろんな意味でロスサントスに順応しつつある。良心はどこへ……。
+・・現状はサバイバルゲームで銃撃の腕を磨きつつ、黒に転じたと時に活きるようクラフトのレベルを上げている。
+・なんでか知らないけど&bold(){よく転ぶ}。
+・・とにかく手持ち無沙汰になると走って転ぶ。気がつくと顔面から出血していることもしばしば。
+・・本人曰く、「雪道だから滑りやすい！」とのこと。その真相は春の雪解けで明かされるだろう...。(結局雪が溶けたあともよく転んでいる)
+・立ち止まって通話ができない。ずっとうろうろしながら電話する癖がある。
+・さらに立ち止まって会話もできない。大体相手の周りをぐるぐる回ることが多い。相手から落ち着いてwとツッコミが出ることもしばしば。もしや内なる衝動から狩ろうとしている・・・？
+・カジノバー勤務時代はカジノが好きな知人も多いということもあり、よくブラックジャックをしていたがほぼ負けを喫していた。
+・「いなり寿司」と聞くといてもたってもいられなくなる。
+・普通の服はかわいいのだが、変装用の衣服や衛生外用の服などを選ぶと何故か&bold(){インパクトが強烈すぎてむしろ目立つ}物になる。
+・・過去には本人にとっては衛星外用の服を着ていたにも関わらず、あまりに服の個性が立っていたために長く話しかけられてあたふた……ということが複数回あった。
+・ボケる時はよく声色が変わる。唐突にカワボやイケボになったり追い詰められると震え声になる。
+#endregion
+***&size(130%){&bgcolor(#7eb3da){&nbsp()&font(#fff,90%){　その他}&nbsp(60)}}
+#region(開く,open)&bold(){閉じる}
+・&bold(){白身魚}
+・・主な生息地はSKE,リサセンだが飲食を買いに飲食店に現れることもある。
+・・イナイロハの弟らしい。何かと美味しく調理されかけている。
+・&bold(){サカナース}
+・・衛星外で救急勤務するときのイナイロハの姿だが最近は衛星でも魚マスクを被っているため違いは特にない。
+・・魚で覚えられすぎた結果、素顔の人気が少ないことが最近少し不満。
+・・・最近は自他共に魚介類と同じ扱いになっており、釣りで仲間(魚)が乱獲される事に心を痛めている。この街屈指の釣り好きである命田隊長を逆に釣り上げるのが目標。
+・&bold(){シュビドゥバ!!}
+・・生まれ育った村に伝わる魔法の言葉。特に意味はない。
+・・去り際に付け足すことが多い。たまに知り合いからやり返される。
+・・現在これに変わる去り際の言葉を募集中。「シュビドゥバは古いかなぁ〜？と思って」とのこと。どこから見て古いのかは本人にしか知り得ない。
+・&bold(){シュワァ!!}
+・・変装時はこれしか喋れない。翻訳機をつけると3分間だけ会話できる。
+・&bold(){ちょっと事件起こしてきます！}
+・・主に救急隊がチルタイムの時に発言。イロハはいつも勢いよく病院を飛び出して行くが大体何も起きない。
+・&bold(){アイスパック!!}
+・・雪玉の事。上官のてつおが治療と称して患者にぶつけたり鳥野と雪合戦しているのを見てマネし始め、今では救急隊で一番雪玉を活用している。
+・・なお普通に痛いのでやり過ぎて一度命田隊長にてつお鳥野共々説教された。
+#endregion
+***&size(130%){&bgcolor(#7eb3da){&nbsp()&font(#fff,90%){　お酒にまつわるエピソード}&nbsp(25)}}
+#region(開く,open)&bold(){閉じる}
+//・2025年4月20に開催された公務員お花見会
+//エピソード募集中
+#endregion
+
+*&color(#f0f8ff){&font(30px,#bbdbf3){&icon_fa(fa fa-flag)}  目標！}
+-レースで一位をとる！
+-&s(){10億}&bold(){5億}貯める！&sizex(2){刻んでいこう！}
+-友達をもっと増やす！
+-&s(){カジノと}SKEのお仕事を頑張る！
+--救急隊との並立が難しいことから、悩みに悩んだ末にカジノの正式採用を見送り、救急隊へと進むことを決意した。
+
+-&bold(){白市民として頑張る目標を見つける！}
+--救急隊として、先輩たちの負担を少しでも軽くできるようにする！
+--街に詳しくなる！&bold(){エモスポットをたくさん見つけよう！}
+
+*&color(#f0f8ff){&font(30px,#bbdbf3){&icon_fa(fas fa-users)}  関連人物}
+🦖&sizex(5){&bold(){[[恐竜さん>柳瀬　つん]]}}
+#region
+・第一住民さん。ザウルス。
+・メカニックとしての先輩でもあり、SKEではよく指導員をしてくれる。
+・[[ギャング]]への勧誘により、今後のロスサントスでの生き方を悩むイロハに、自分の経験を話してくれる。
+・・「イロハさんの人生だから、何を選択しても誰も責めないし、答えを先に伸ばすことがその人に対しての不義理になることはないよ」と優しくアドバイスしてくれた。
+#endregion
+🎭&sizex(5){&bold(){[[ジョーカーさん>半沢　直ふぃ]]}}
+#region
+・なにくれとなく世話を焼いてくれている[[ギャング]]の人。
+・・「初日斧ワンパン事件」で、イロハを気に入り、そのまま[[SKE>菖光エンジニア]]に縁を結んでくれた。
+・お世話になっているので「パパ」呼びをしたら怒られてしまった。
+・・その後、あまりにも呼びすぎたせいか、「パパ」呼びを受け入れられてしまった。
+・「黒いことしたくなったら連絡しな」と言われている。
+・二日目に新聞を確認したところ、刑務所に収監されていることがわかり、ちょっとショックを受けた。
+・一度はイロハを[[ギャング]]に勧誘してくれて、色々と受け入れられるよう素地を作ってくれていた。
+・・しかし、イロハは悩みに悩んだ末に、「もう少し白市民として生きてみたい」と心のうちを明かした。
+・・ジョーカーさんはイロハの拙い言葉を辛抱強く聞いてくれて、イロハの意志を尊重してくれた。
+#endregion
+🎭&sizex(5){&bold(){[[ヘルアン]]}}さん
+#region
+・ギャラクシー師匠にしてギャンブラーの師匠。変装に迷うイロハにギャラクシーな変装を教えてくれて、なおかつギャンブルも教えてくれた優しい人。
+・ノリの良いゲラなお兄さん。ギャラクシーモードだとどちらかが笑っていること多数。
+・・優しい性格故に将来の身の振り方を相談したところ、なんとこの人も犯罪に詳しい[[ギャング]]であった。彼自身も将来の選択に悩んでいた時期があったらしく、真摯に相談に乗ってくれた。
+#endregion
+😊&sizex(5){&bold(){[[冬那　フナ]]}}さん
+#region
+・2日目に遭遇した同期。
+#endregion
+😊&sizex(5){&bold(){[[チャルロス　SAY!]]}}さん
+#region
+・3日目に遭遇した同期。
+・・お互いに「潰す」という形でライバル関係を構築した一方で、共に職場体験をするなどして親交を深めた。
+#endregion
+🍸&sizex(5){&bold(){[[鳥羽　咲夜]]}}さん
+#region
+・[[カジノ]]の副支配人　兼　[[カジノ]]内のバーの店長。イロハがカジノバーに体験入店した際に即採用を視野に入れるほど気に入ってくれた。
+-その恩に報いるべくカジノの仕事を頑張ろうとしていたが、[[オーナーさん>無馬　かな]]から「カジノと救急隊の兼業はできない」「救急隊がダメだった時の保険という形なら雇用はできない」と厳しいながら筋の通った言葉をいただき、長いこと悩んだ果てに、イロハはカジノへの正規就職を辞退する決断をした。
+--決断した後、咲夜さんに決断に至った経緯まで涙ながらに報告。その全てを受け入れてくれた咲夜さんの優しさに触れ、これまで以上に慕うように。
+--これからは友人として仲良くしていくことを互いに約束した。
+--体験時にいただいた300万チップを返却しようとするも咲夜さんは「受け取れっていうのなら、もう遊ばないよ？」とこれを固辞。イロハは、この300万チップはカジノで使い果たすことで咲夜さんに恩返しをしようと決意した。
+#endregion
+🚑&sizex(5){&bold(){[[切間　てつお]]}}さん
+#region
+・イロハが属する救急隊特殊部隊イージスゼロの隊長であり永遠のランクゼロ。ロスサントス在住歴も長いこの街屈指のレーサー。
+・色んな意味で自由な人でありインフルエンサーとしてエモートや写真研究に余念がなく、身体を張って危険な撮影に挑み時にはチョケでダウンする事も。イロハも日々その姿勢を学んでいる。
+・一方で面倒見がよく、事件対応のフィードバックや運転技術を伝授し、イロハが自己評価が低い事を見抜いて克服できるよう度々暖かい言葉をかけてくれる。
+・・一度大きなミスでイロハが落ち込んだ時はイージスゼロの仲間達と共に励ましてくれた。
+#endregion
+🚓🚑&sizex(5){&bold(){[[安保　さぶ郎]]}}さん
+#region
+・ロスサントス屈指の愛され警察官。イナイロハ強火ガチ推し勢。
+・好きすぎてラブコールを送ったり度々オジサン化する。
+・・「さぶ郎がイロハのイソギンチャクになる。」「俺のイロハー！」
+・目の前で犯罪者にまだ自分が受けた事のない添い寝治療をされた時はあまりのショックに黒堕ちしようとした。
+・2025年3月22日に救急隊に合格しイロハの後輩になった。
+#endregion
+
+*&color(#f0f8ff){&font(30px,#bbdbf3){&icon_fa(fa fa-calendar)}  エピソード}
+編集はこちら »［[[イナ　イロハ/エピソード]]］
+#include(イナ　イロハ/エピソード)
+
+*&color(#f0f8ff){&font(30px,#bbdbf3){&icon_fa(fa fa-video fa-fw)}  アーカイブ}
+編集はこちら »［[[イナ　イロハ/アーカイブ]]］
+#include(イナ　イロハ/アーカイブ)
+
+*&color(#f0f8ff){&font(30px,#DA1725){&icon_fa(fa-brands fa-youtube)}  切り抜き}
+#region(#1〜15,close)
+#table_style(head=center:#e6e6fa){#=center,配信タイトル=left}
+|~#|~配信タイトル|~備考|h
+|1|[[イナイロハストグラに参戦するも初日から大事件を起こす。>https://youtu.be/1f9Z8gngZSA?si=88oPMoXfU49th3v7]]||
+|2|[[チャルロスと初心者🔰二人で白市民？のMon Dさんに警察の衝撃的な真実を教えられる…>https://youtu.be/SmZwTqh7r7I?si=J0r1pKTzkC5n_H8m]]||
+|3|[[初対面で出会った好敵手？が面白すぎたwwwそして初心者🔰が終わり今後を考える…>https://youtu.be/Fdwi59hFFSY?si=mtHiCCPs6UWiZFQN]]||
+|4|[[救急隊体験で魚爆誕！ツルギさんと本来の姿で会うも◯◯◯いと困惑させてしまう…>https://youtu.be/QedjJ-wqURg?si=PZhRFepG_17xx23h]]||
+|5|[[救急隊入隊直後にイージスゼロへ加入！初日から怒涛のキルとダウンの連続を繰り広げる！>https://youtu.be/EI1MrcTh_DM?si=FIM2NhyQ9pML-3tY]]||
+|6|[[なしまさんに盛大におもちゃにされる救急隊ナース>https://youtu.be/kKS9-0iOqBI?si=AwTzmbEuheOV9EIF]]||
+|7|[[新人歓迎会で起こったハプニングを助けてくれたなしまさんにとんでもない関係性を暴露される>https://youtu.be/SCAL7rdLD2w?si=X2FDBfBoKODweNqR]]||
+|8|[[最高に楽しんだらびすぴプリズンブレイク！看守の後藤れむさんとチェイス後ロケランを撃ち込まれる…>https://youtu.be/Hu8FNV0fGNk?si=05Ub4nal0jf7Pdva]]||
+|9|[[命田隊長から迫られる救急隊昇格試験問題で…イロハとてつおのクビが決まる！？>https://youtu.be/3WnGdCsXQho?si=uVlvsHNJAHxHJbQ2]]||
+|10|[[ついに揃う！奇想天外なイージスゼロ初合宿！>https://youtu.be/3NDBQpV2ZfA?si=-CJND58vqvg2V7H-]]||
+|11|[[突如現れたズズさんにターゲットにされブチ切れるイロハ>https://youtu.be/XWu0-GIdO-Q?si=6rIlTh35cfJePgY4]]||
+|12|[[はじめたての大型対応で先輩方のメンケア&勤務後訓練に感激>https://youtu.be/Aq_FppB4PFA?si=wubrK6zAy-QIAJZD]]||
+|13|[[救急隊の命が掛かった(？)オーディションに挑む>https://youtu.be/flX4YRVPCyA?si=JpoZWMHa34AxvzMk]]||
+|14|[[エスタークへ28股していた復讐の為にみんなで粛清を下す…！>https://youtu.be/eh_cDndlAWw?si=7sBrcejqAb1idsWp]]||
+|15|[[鳥野さんに成長を見せようとするもとんでもない運転を見せるイロハ>https://youtu.be/83O2C4R0QzE?si=tUucWdCXBQn3xTRj]]||
+#endregion(#1〜15)
+#region(#16〜30,close)
+#table_style(head=center:#e6e6fa){#=center,配信タイトル=left}
+|~#|~配信タイトル|~備考|h
+|16|[[街の動物たちと一緒に突如ストグラ救急隊に現れた珍獣ハンター>https://youtu.be/kAyb0srm3Ek?si=mneE9nYVBK8SI6by]]||
+|17|[[イロハ人生はじめて魂の大貫通を食らう…！>https://youtu.be/PVa7vgUFhhg?si=v5-_F40K8tGaqr8H]]||
+|18|[[無馬さんへのイロハの一言が切っ掛けで事件が起こる>https://youtu.be/i_dfqSOUZlY?si=kxsBHzJ7OgPq8qzE]]||
+|19|[[れりあさんの事故の傷を癒そうとするも　とある一言で逆にえぐる結果に…>https://youtu.be/GCpTeWP9Ywg?si=oqZAxiasIe9xw0D2]]||
+|20|[[イロハとノビーさんによる救急隊老夫婦爆誕>https://youtu.be/E6HI8iRi3AE?si=XJJvMRybCfnTbPzg]]||
+|21|[[救急隊に入隊しはじめてのご指名でテンション崩壊>https://youtu.be/7FVaQmda_Yk?si=vzgRdGOP-NcFJUmr]]||
+|22|[[VS角刈りのはずが不憫にも巻き込まれるイージス二人>https://youtu.be/oT75dZkrzVE?si=fN3ApRyZAqB-0r2L]]||
+|23|[[イロハ・登・さぶ郎さんによるめっちゃええやんの輪>https://youtu.be/pE_ILrrdBJg?si=3Lfp6aj4yQFnCQaa]]||
+|24|[[強くなる為に修行するも想像以上にボコボコにされるイロハ>https://youtu.be/6Zzumvj2swU?si=P3RXK0UbjxdHnrUL]]||
+|25|[[衛星外無敵の二人に連れられ初心霊スポットへ行くも悲劇的な結末を迎える…>https://youtu.be/mxqJtJONeDA?si=Pk1L4tbQqB7j5kNb]]||
+|26|[[ロスサントス禁断の地下基地へ緊急救助向かう！>https://youtu.be/RT_6pr9ig-o?si=BDS1gvvS6FHADyg-]]||
+|27|[[まさかのイナイロハ…イージスゼロ脱退！？>https://youtu.be/zvKlAeyUdc4?si=ClfjgQVwLHBoUJ0l]]||
+|28|[[命がけの救急隊バイクレース！そしてはじまるポンコツによる蘇生儀式…>https://youtu.be/sKw95vsU7Us?si=cl1W80H1axIcKBEn]]||
+|29|[[救急隊のスタッシュで発見したノビーさんの重大な秘密>https://youtu.be/yAnd5n6jKMc?si=0JN_SiNEGgjPHGFg]]||
+|30|[[タイトル>URLリンク]]||
+#endregion(#16~30)
+#region(#31〜45,close)
+#table_style(head=center:#e6e6fa){#=center,配信タイトル=left}
+|~#|~配信タイトル|~備考|h
+|31|[[寝起き0秒　THE　FIRST　TAKE イロハ〜地下からの脱出〜>https://youtu.be/ic5ohNmVpb4?si=H2Px4zi4L8De_NyY]]||
+|32|[[救急隊の下ネタ三銃士(？)から教わるとんでもないエモート…！？>https://youtu.be/Tb4vqdrAflw?si=ZCe8vQgdv5qoPrJj]]||
+|33|[[◯◯◯同盟に勧誘されそうになるイロハと天罰が下るボイラさん>https://youtu.be/ouLfEPlJsWU?si=RoIXv_dXoL7g7J6U]]||
+|34|[[釣りアプデにより魚の危機！？阻止した相手がまさかの人だったw>https://youtu.be/THOkMlYeK3w?si=iIC5bdHICrFkZZUV]]||
+|35|[[人生最大のピンチ！？魚界のヌシVS海のギャング>https://youtu.be/27JfTht5OMw?si=qlELVi9B4QLHR_DC]]||
+|36|[[180℃の油を手で洗うとこからはじまる化け物揃いのアイアンバーガーバイト>https://youtu.be/3ogWoTNXH4M?si=RLHY6UiumSc94Iry]]||
+|37|[[救急隊でシェアハウス！？拍車がかかり禁断のワードを言ってしまう…>https://youtu.be/WZ01P2w_Eh4?si=wxb7REnVH-r3YJPT]]||
+|38|[[ヘスティアさんと一緒に警察とALLINのホストに潜入してみた…！>https://youtu.be/Q-EWKcbXGPA?si=7paQ-W8rUqM-0Ynv]]||
+|39|[[男性陣がつい黙ってしまったイロハの●ヒュン事件>https://youtu.be/DXVsVJB21jg?si=KV1oyV75ATNjuONG]]||
+|40|[[平和なゲームのはずが事故に事故を呼ぶ大波乱スノーモービル対決！！>https://youtu.be/eCBRWvwsLyA?si=aPs8e_9cO5sSTP0p]]||
+|41|[[救急隊が男女逆転！？みんなのたがが外れ始める…>https://youtu.be/f_WKOBX9rP8?si=Re10Glv1etDglcGo]]||
+|42|[[敗訴の禊中のはずがタラちゃんvsイロハvs警察勃発！？>https://youtu.be/Plv_wrVd-88?si=y9G_F4Fjj28QcIbe]]||
+|43|[[ぺいんさんを救出に行くも焦り過ぎて何度も名前を聞くイロハ>https://youtu.be/f5CmgyBqoZY?si=aPi6XpDtPnBAYWCi]]||
+|44|[[消えた探索メンバーそして突如背後に迫るジャックザ立派に大絶叫>https://youtu.be/licbT5_8bUU?si=eJkrz_iKxvkwV2jp]]||
+|45|[[気づかぬ間にライデンの後部座席に迫るピンク色の影…>https://youtu.be/J_0h8NHKggM?si=YxwWl-Kwj4JzFBNW]]||
+#endregion(#31〜45)
+#region(#46〜60,close)
+#table_style(head=center:#e6e6fa){#=center,配信タイトル=left}
+|~#|~配信タイトル|~備考|h
+|46|[[ピルボックス学園祭開幕！大暴れのイロハだが最後にしっかり制裁が下る…>https://youtu.be/VBSl-DiUreg?si=Z1V8qIXHzHZRLI-X]]||
+|47|[[すべてを薙ぎ払う葉風邪！イージスゼロ久しぶりの大暴走！>https://youtu.be/4EtmTdXrITo?si=0Asmpu0dzpUK2mPf]]||
+|48|[[れりあさんの癒し治療に対抗すべくももみ先生からまさかの一言で盛大に慌てるイロハ>https://youtu.be/bfemvQzkEAE?si=aHp5DVQHdGCz3sI1]]||
+|49|[[セクシーポーズで待つカラフル救急隊を本気で選んでくれる大川さん…その結果は>https://youtu.be/FUeOSs7XM20?si=B7vWQG3gT0K0lZ7b]]||
+|50|[[とある行動でイロハまたしてもクビの危機？！>https://youtu.be/6v4QLsFJ6Yk?si=0EE2CBvufo0FjvjP]]||
+|51|[[救急隊エモート研究から一斉キルするやらかしを魅せるイロハ>https://youtu.be/8BGB3mYv4cI?si=Sr2hl2lNECR_yojX]]||
+|52|[[牢屋対応のとあるイロハの行動でさぶ郎がまさかの闇落ち！？>https://youtu.be/ATbOtCdynYI?si=fz9ZsbkIs_6BiG6U]]||
+|53|[[イロハがイメージチェンジするもキャラ崩壊…しまいには通報されかける！？>https://youtu.be/ZmNg5jrbT_A?si=Ql7sSVpXBSDOrcLD]]||
+|54|[[パラシュートの歪み検証のはずが…だん市長課金パラシュート疑惑vsてつおさんの呪い>https://youtu.be/w7reW1zRf3k?si=m174g0l_8xomJdDQ]]||
+|55|[[救急隊を巻き込むイロハ大爆破総集編>https://youtu.be/Nlb0oSvitiE?si=5JmZRIjDdBCrmjlU]]||
+|56|[[隊長とてつおさんたちの健闘むなしく年始大暴走する酔っ払いたち>https://youtu.be/LLqkhgBtx14?si=1knMttj2VYXCFjrS]]||
+|57|[[イロハと隊長がコンビニ強盗でチェイス！？そして衝撃の結末…>https://youtu.be/0moSiJKoteM?si=m8bzJaEJYD7eIlMp]]||
+|58|[[救急隊・ギャングボスを巻き込む覚醒いろはの大暴走>https://youtu.be/efYt8WyhySM?si=2kL0ILT5On0iDuJ8]]||
+|59|[[イロハが公務執行妨害！？そしてなぜかはじまる公開歯磨き>https://youtu.be/LCKNjmlBTA8?si=SyuQGFoFgxTK5gHP]]||
+|60|[[SKE新装開店!新しいガチャにハマるヴァンさんと盛大にチョケるイロハ>https://youtu.be/CfLs8y3MOUY?si=VWrcXmU3qGAQNbma]]||
+#endregion(#46〜60)
+#region(#61〜,open)
+#table_style(head=center:#e6e6fa){#=center,配信タイトル=left}
+|~#|~配信タイトル|~備考|h
+|61|[[新しく出した飲食物が苦情！？急遽遭難救助に参加するも大事故多発する>https://youtu.be/2IbE-uixOK0?si=lrQoySL2_-0RZkQk]]||
+|62|[[とんでもない特急呪物バイクで救急・警察・補佐を嵌めるイロハ>https://youtu.be/ciu6Kqba4UE?si=6PsWTeSedC8NJSVm]]||
+|63|[[救急隊でカッコいいセリフ選手権で隊長一言で癒着疑惑が浮上する…！？>https://youtu.be/EyyW8EpBKOk?si=4NnGlJpsQUsjibYy]]||
+|64|[[隊長と科場さんに失言したことによりイロハ絶体絶命！？>https://youtu.be/zNSPRuM5K1Y?si=g2liGoaRqD5xpPHw]]||
+|65|[[秘密の部屋へ潜入！置いて行かれた隊長がダウンしももみ先生大激怒>https://youtu.be/YmmCo6BF5-Y?si=Cb8yMhWZFaBtHYcW]]||
+#endregion()
+//|~#|[[タイトル>URLリンク]]||
+
+#right(){&link_up(🔝ページTOPへ)}

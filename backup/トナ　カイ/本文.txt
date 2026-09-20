@@ -1,0 +1,737 @@
+#table_style(head=center:#dc143c:#FFFFFF)
+#slide_img(auto=4,position=left,width=300,height=450){
+BJ_トナカイ.png,
+BJ_トナカイ②.png,
+}
+
+#region(その他：開く,close)&bold(){その他：閉じる}
+#slide_img(auto=4,position=left,width=290,height=400){
+タシロ　カワセ.png,
+トナカイ_個人医服.png,
+トナカイ_戦闘服.png,
+カワセ_素顔変装①.png,
+カワセ_素顔変装②.png,
+カワセ_ボロン.png,
+}
+#endregion
+
+//ここからプロフィール
+#table_filter(){世界線=show,SEASON1=hide,SEASON2=show}
+#table_style(head=#dc143c:#fff1cf)
+|~世界線|~&space()&icon_fa(fa fa-arrow-right-to-city)&space()|~SEASON1|~SEASON2|h
+|~名前|~&space()&icon_fa(fa fa-user)&space()|>|トナ　カイ&br()&small(){&openclose2(show=▼過去の名前){&br()タシロ　カワセ&small()(2023/08/21～2026/08/05)}}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|もののけの森&color(#faf0e6){っていう設定}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年08月21日 (&countup(2023/08/21,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|2001年5月6日 (&countup(2001/05/06,y)歳)|
+|~職業|~&icon_fa(fas fa-money-bill-wave)|>|消費者金融【[[BJローン]]】 &br()&font(10,gray){●(2025/04/02〜)}|
+|~|~&icon_fa(fa-solid fa-wrench)|[[個人医]] &br()&font(10,gray){●(2024/2/14～2024/5/18) ／ (復職：2025/7/20〜)}|メカニック【[[森のぶんぶんメカニック]]】&br()&font(10,gray){●(2026/08/01〜)}|
+|~|~&icon_fa(fa fa-champagne-glasses)||キャバクラ&ナイトクラブ【[[The Artemis]]】&br()&font(10,gray){●(2026/08/19〜)}|
+|~|~&icon_fa(fas fa-gas-pump)||[[ガソリンスタンド]]経営&small(){(9051/7166番地)}　&br()&font(10,gray){●BJローンとして経営(2026/07/22〜)＊jobなし}|
+|~過去の職業|~&icon_fa(fa fa-solid fa-person-circle-minus)|&small(){&openclose2(show=▼一覧){&br()[[救急救命士>ロスサントス救急救命隊]]&small(){（2023/09/27~2024/02/09）}&br()[[ALLIN]]専属個人医【闇医者】&small(){(2024/2/14～2024/5/18)}&br()ギャング【[[ALLIN]]】&small(){(2024/5/18～2025/03/23)}&br()薬局[[ヤク薬局]] 店員&small(){(2024/5/26〜2025/7/20)}}}|&small(){&openclose2(show=▼一覧){&br()麻薬カルテル【[[DEP]]】 &font(10,gray){(2026/02/08〜2026/08/05)}}}|
+|~&s(){恋人}|~&icon_fa(fas fa-heart-broken)|>|&s(){[[猫又　ぴぴ]]}　&small(){(2025/04/12～2026/03/05)}&br()関連ページ：[[トナぴぴ]]|
+|~電話番号|~&icon_fa(fas fa-phone)|(437)343-1197|(205)831-5857|
+|~TwiX|~&icon_fa(fa fa-crow)|@トナカイ||
+|BGCOLOR(#808080):~&color(#e0e0e0){プレイヤー}|BGCOLOR(#808080):~&color(#e0e0e0){&icon_fa(fa fa-address-card-o fa-fw)}|>|カワセ (FENNEL)|
+|BGCOLOR(#808080):~&color(#e0e0e0){告知等}|BGCOLOR(#808080):~&color(#e0e0e0){&icon_fa(fa fa-bullhorn)}|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter) }[[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/GG_kawase]]|
+|BGCOLOR(#808080):~&color(#e0e0e0){配信場所}|BGCOLOR(#808080):~&color(#e0e0e0){&icon_fa(fa fa-gamepad)}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UCSZNA2IIxtb0rHcy86daUoQ?view_as=subscriber]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kawase56]]|
+|BGCOLOR(#606060):~&color(#add8e6){別キャラ}|BGCOLOR(#606060):~&color(#add8e6){&icon_fa(fa fa-user-plus)}|[[武師　鬼ン郡]]（キャラクターエンディング済）||
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・[[救急隊>ロスサントス救急救命隊]]→[[個人医]]【闇医者】→[[ギャング>ALLIN]]&[[薬局>ヤク薬局]]店員→[[消費者金融会社>BJローン]]社員&[[個人医]](復職)→Season2 [[消費者金融会社>BJローン]]社員&[[メカニック>森のぶんぶんメカニック]]&[[キャバクラ&ナイトクラブ>The Artemis]]スタッフ←&bold(){現在}、という希有な経歴の持ち主。
+#region(Season1,close)閉じる
+・元救急隊員で、北の医院長を目指していた。某天才外科医と髪色が同じであるが物腰は柔らかく丁寧。
+・真面目に働いていたが個性がないと言われ、周りの救急隊員に影響され壊れたほうが良いことに気づく。
+・・様々なコスプレを試して最終的に赤いシルクハットを被ったトナカイ「チェリーチェリートッパー」の姿に落ち着く。
+・・&openclose2(show=後輩達){([[りゅーぷ>ネズ]]・[[澄乃　ミレイ]]・[[葉風邪　ナイ]])}のキャラが濃い事を気にした結果こうなった。
+・・トナカイの名前と姿で救命活動を続け、タシロよりもトナカイとして認識する住人も多くなっていった。
+・愛称は「シーシャニキ」略して「シャニキ」
+・事件現場の状況把握力に長けており、[[ましろ>雷堂　ましろ]]曰く街の地形さえ覚えれば優秀なIGLの資質があるとの事。
+・[[カジノ]]で大勝ちした経験から日に日にギャンブルにのめり込んでいっている。
+
+・[[ギャング]]から勧誘を受けたことをきっかけに2024/02/07に隊長に[[個人医]]になりたいこと、救急隊をやめることを伝え02/09の最終出勤をもって個人医になった。救急隊を裏切ることに罪悪感を感じていたが、隊長、鳥野さんに背中を押され個人医の道に進んだ。
+・・個人医になった理由は、大型犯罪現場において救急隊は倒れた警察官の救急搬送だけを行い、倒れた犯罪者は警察に任せて置き去りにする現状に疑問を抱き、犯罪者も別け隔てなく救助できる個人医に魅力を感じた、と説明している。
+・・&openclose2(show=本音は...){カジノに入り浸るためのお金がほしい、救急隊じゃ稼げない。}
+・2024/02/14より[[ALLIN]]２人目のお抱え個人医となった。&br()ミッション時は基本的に個人医として動き、実働人数が少ない場合は戦闘員として参加する形をとる方針となった。
+・2024/05/16 市からの要請によりお抱え個人医制度が完全に廃止となり、[[ALLIN]]に残るか個人医として生きるかの選択を迫られる。&br()当初は残留を決めていたが、精神的に不安定になってしまう。元の職場の救急隊員や[[個人医]]仲間、[[ALLIN]]メンバーに気持ちを打ち明け、無事ALLINの正式組員として迎え入れられた。
+・持ち前のPSスキルが輝き固定砲台として活躍。救急隊及び[[個人医]]経験から培ったヘリの情報落としとしても力を発揮する。
+・2025/03/23 [[ALLIN]]が解散となる。&br()進路が決まっていない組員がほとんどで元のアジトで集まり、一緒に傭兵に行くなど交友は続いている。
+・2025/04/02 [[三否亭　四五六確]]から[[BJローン]]に勧誘され、創設メンバーの一員となる。
+・[[ALLIN]]が解散してから出会った[[猫又　ぴぴ]]と2025/04/12より交際を始める。出会った姿が某恩返しをしそうな猫紳士ボロンの姿だった為、ぴぴからはにゃんにゃんと呼ばれている。
+・2025/07/20 個人医に復職。
+#endregion
+
+&bold(){Season2}
+・2025/12/19 無事に転送後、引き続き[[BJローン]]へ所属。
+・2026/02/08 正式に[[DEP]]への加入が決定。暇さえあれば薬を練るファーム生活へ。
+・2026/03/05 すれ違いが続いていた[[猫又　ぴぴ]]との交際が終了。悩み抜いた結果、トナカイ側から別れ話を切り出した。
+・2026/06/19 [[BJローン]]の事業部門としてBJ水産が始動。トナカイが担当となり、魚の代行買い取りや船レンタルを始める。
+・2026/08/01 かくかくしかじかあり[[森のぶんぶんメカニック]]に就職。
+・2026/08/05 MBMで働く際ステートに本名が載り街の人達が一目でトナカイだとわからないためタシロカワセの名前を捨てトナカイへと改名した。
+**エピソード
+//***2023年
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+#region(2024年)閉じる
+・2024/02/11&br()[[餡ブレラ>>anbrella(餡ブレラ)]]の仮専属個人医として[[餡ブレラ>>anbrella(餡ブレラ)]]対[[IRiS]]の戦争の手伝いを行った。個人医としての初めての本格的な仕事となった。同日、人生初の指名手配をかけられる。&br()Clip→[[新米個人医トナカイ、初仕事にてナイスピック>>https://clips.twitch.tv/HyperJoyousArugulaRiPepperonis-OLnH1t4mHDnJ0b_v]]
+・2024/02/14&br()[[ALLIN]]の豪華客船強盗に体験で個人医として参戦した。逮捕された[[ALLIN]]の面々をプリズンに迎えに行き、アジトに送り届けたところでぬるっと[[ALLIN]]加入を許可された。&br()その後加入後初の大型犯罪として飛行場襲撃に参加し、無事成功を収めた。&br()Clip→[[ALLIN加入おめでとう>>https://clips.twitch.tv/AlertClearMochaCharlietheUnicorn-gluuwywYBF70BahR]]
+・2024/02/15&br()パシフィック銀行強盗にて初の戦闘員としての大型参戦を果たした。&br()[[天草　蒼]]と共に正面入口のAを守り、金持ちの[[ヘルアン]]と共に正面入口から脱出し成功を収めた。&br()Clip1→[[さながら競技シーンの報告をする個人医トナカイ>>https://clips.twitch.tv/ColdEntertainingReubenShazBotstix-B-Iko85pEJnGAOGj]]&br()Clip2→[[パシフィック正面から逃走成功>>https://clips.twitch.tv/ObservantStormyKimchiStrawBeary-iNZAeZiHcFl02pAD]]
+・2024/02/16&br()大型犯罪の受注をなかなか勝ち取ることができず、[[ALLIN]]全体がゆったりとした１日だった。そんな中トナカイ自身はブラックマネー洗浄の苦行に追われる時間を過ごした。&br()[[Mon　D]]、[[CPU]]と共に店内を担当した宝石店強盗では、どこか見覚えのある裸姿で戦闘員を努めた。&br()Clip→[[KAKUMEIの風が吹いた宝石店強盗>>https://clips.twitch.tv/EnjoyableImportantHamsterDoritosChip-iHCFmXTetZ04108z]]
+・2024/02/18&br()人数不足や大型の性質の関係で全ての大型で戦闘員として参戦した。カジノヘイストでは初めて撃ち合いでの対人戦を経験し、20人近い警察を相手に大健闘して成功を収めた。&br() Clip→[[カジノヘイスト 金庫前の攻防>>https://clips.twitch.tv/PlacidTallThymeDancingBanana-xh4-4koOJgEr64kn]]
+-2024/05/16&br()市長より宣告のあったお抱え個人医の廃止とその後の自身の進路（ALLINとして家族とも言える仲間とともにギャングを続けるか,中立個人医としてALLINからは一定の距離を取るか）について、当初ギャングを選ぶ事に傾いていた様子に見えたが、ここに来て迷いが生じていることをUBであるチヨ先輩に相談（[[時間指定リンク🎞>>https://www.twitch.tv/cr_kawasee/v/2147154296?sr=a&t=4807s]]）&openclose2(show=*CLIP🎬){&br()（[[CLIP1🎬>>https://clips.twitch.tv/SassyRudeBobaTriHard-zCIkSWVf4EPOHtJz]][[CLIP2🎬>>https://clips.twitch.tv/FantasticHelplessCamelArsonNoSexy-7k18h6OLCTTs2JCX]][[CLIP3🎬>>https://clips.twitch.tv/SmoggyEncouragingNarwhalFrankerZ-l20LjghrCs1KFQiy]][[CLIP4🎬>>https://clips.twitch.tv/SpookyBadAntYouDontSay-EW02E2cPTUywti-U]][[CLIP5🎬>>https://clips.twitch.tv/FrigidTiredGrouseBlargNaut-gyo2wJZSYruc36y6]][[CLIP6🎬>>https://clips.twitch.tv/AnnoyingObeseSalmonFailFish-55kiXpHQuzvlbO-t]]）（[[千代田　ヨウ]]視点[[CLIP🎬>>https://clips.twitch.tv/AwkwardStupidButterSwiftRage-UZIeKYUGCdPiQTGw]]）&br()}。その他懇意にしていた救急隊員などにも相談をする。その後ダークヒーロー[[キックアス>>安城　成]]との会話をきっかけにALLINの他メンバーにも自身の今の想いを伝えた。市長に示された期限は翌17日に迫っており、「ALLINに残りたい」「個人医も続けたい」という二つの願いの狭間で揺れていることをつぶやきながら就寝した。
+-2024/05/17&br()今後の生き方について結論の出ないまま決断の日を迎える。この日は同時に２度目のシマ取りが実施される日でもあった。&br()シマ取りが収束フェーズに入ったところで、同じALLINお抱え個人医であり、先に決断を済ませていたナリエルに今の想いを涙ながらに吐露する。ナリエルからは、自身もALLINのお抱えではあってもALLINではないという想いを常に抱えていたこと。トナカイが初めての同じ立場の近しい存在であったこと。わがままだけれども、ともにALLINで歩んで行きたいこと。などを伝えられる。今の自分の想い、何よりも「必要とされる人でありたい」という想いをALLINのメンバーにも知ってもらおうとナリエルから提案される。&br()新アジトにて、メンバーに涙ながらに語り、メンバーからもトナカイへの想いを口々に告げられる。Bossの計らいでテキーラを飲みつつ、ALLINにギャングとして残ることを決断する。今後の市長との面談を待って正式にギャングALLINのメンバーになることとなる。（[[時間指定リンク🎞>>https://www.twitch.tv/cr_kawasee/v/2147938122?sr=a&t=6451s]]）&openclose2(show=*CLIP🎬){([[CLIP1🎬>>https://clips.twitch.tv/AnimatedAbrasiveHornetUnSane-xWNhXV5ogGBqy1M5]][[CLIP2🎬>>https://clips.twitch.tv/EnticingHilariousPigAMPEnergyCherry-gcjp47lF5pejO0H4]][[CLIP3🎬>>https://clips.twitch.tv/HorribleFairPeppermintRuleFive-gEw4ogYFdgaalSH5]][[CLIP4🎬>>https://clips.twitch.tv/BlazingHelplessPassionfruitKippa-TZuT5rj8vmMURzm6]])}
+-2024/05/18&br()市長との面談を経て晴れてALLINのギャングとなる。（[[CLIP🎬>>https://clips.twitch.tv/OnerousSingleWalletNononoCat-tkZqg3W_v2UxOSiv]]）ここからALLINのユニオンをつけての活動が始まる。
+
+#endregion(2024年)
+
+#region(2025年,open)閉じる
+//・エピソードを記述
+#endregion(2025年)
+//#endregion
+//
+//#endregion(2023年)
+//
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+※Twitchのアーカイブは仕様により60日終了後に見れなくなります。
+***2023年
+#region(開く,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/21|1|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラ1日目 タシロ再出陣>>https://www.twitch.tv/videos/1904612529]]||
+|08/29|2|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラ2日目 救急隊面接合格しました>>https://www.twitch.tv/videos/1911602126]]||
+|08/31|3|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラ3日目 警察研修編>>https://www.twitch.tv/videos/1913342632]]||
+|09/11|4|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラ4日目 タシロ個人医研修編>>https://www.twitch.tv/videos/1922726760]]||
+|09/12|5|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラ5日目 警察研修編>>https://www.twitch.tv/videos/1923522265]]||
+|09/28|6|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ6日目】救急隊初日 北の医院長目指して。>>https://www.twitch.tv/videos/1937288511]]||
+|11/07|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ6日目】お久しぶりの早番出勤です。世界は変わってるか。>>https://www.youtube.com/watch?v=ysCU2UKilTs]]|（＊正確には７日目）|
+|11/09|8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ7日目】早番出勤です。今日は新人さんに会えるのか。>>https://www.youtube.com/watch?v=RdpSeVkmDak]]|（＊正確には８日目）|
+|11/10|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ9日目】救急隊頑張るぞ、目的を作りたい。>>https://www.youtube.com/watch?v=QDTcY9bM-IA]]||
+|11/11|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ10日目】早番！！ワンオペ救急隊頑張るぞ、目的を作りたい。>>https://www.youtube.com/watch?v=cyZFsWaTPt4]]||
+|11/13|11|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ11日目】救急隊頑張るぞ。>>https://www.twitch.tv/videos/1976253444]]||
+|11/15|12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ12日目】お久しぶりの早番出勤です。救急隊行くぞ～>>https://www.youtube.com/watch?v=J7eAUniA-MA]]||
+|11/18|13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ13日目】早番出勤です。救急隊行くぞ～>>https://www.youtube.com/watch?v=iVorPspdDGY]]||
+|11/20|14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ14日目】早番出勤です。壊れた方が良い事に気づく。救急隊行くぞ～>>https://www.youtube.com/watch?v=fTfh9uedYJI]]||
+|11/24|15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ15日目】おひさひさ、救急隊行くぞ～>>https://www.youtube.com/watch?v=wTu-btTDkxg]]||
+|11/25|16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ16日目】コスプレが趣味です。救急隊行くぞ～>>https://www.youtube.com/watch?v=cL8XIwv6H_4]]||
+|11/26|17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ17日目】そろそろ慣れてきた救急隊行くぞ～>>https://www.youtube.com/watch?v=26gaYnfhwh4]]||
+|11/28|18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ18日目】早番行くぞ>>https://www.youtube.com/watch?v=JPkfe_Fnr58]]||
+|11/29|19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ19日目】恋が始まりそう早番行くぞ>>https://www.youtube.com/watch?v=5T6ydKuEGmM]]||
+|11/30|20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ20日目】恋が始まりそう早番行くぞ>>https://www.youtube.com/watch?v=5GpEFfulzQc]]||
+|12/02|21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ21日目】救急隊早番GOGO>>https://youtu.be/6qiR6vMJmhQ]]||
+|12/24||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】DAY23、ただいま。今日いないやつは許さん。>>https://www.youtube.com/watch?v=nbmS8Jn2Pmc]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+***2024年
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/01||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】DAY24、安全第一>>https://www.youtube.com/watch?v=bBD0n7zoEPg]]||
+|01/05||[[&font(#6441A4){&icon_fa(fa fa-twitch)}【ストグラ】25日目、ひさびさやで～～～>>https://www.twitch.tv/videos/2023288514]]||
+|01/10||[[&font(#6441A4){&icon_fa(fa fa-twitch)}【ストグラ】26日目、俺もう普通に働けないよ。>>https://www.twitch.tv/videos/2028229941]]||
+|01/11||[[&font(#6441A4){&icon_fa(fa fa-twitch)}【ストグラ】27日目、ちゃんと働くと思ったか。>>https://www.twitch.tv/videos/2029138989]]||
+|01/17||[[&font(#6441A4){&icon_fa(fa fa-twitch)}【ストグラ】27日目、第2の職を見つけたい。>>https://www.twitch.tv/videos/2035143301]]||
+|01/18||[[&font(#6441A4){&icon_fa(fa fa-twitch)}【ストグラ】27日目、プロギャンブラーに俺はなる。>>https://www.twitch.tv/videos/2036064097]]||
+|01/23||[[&font(#6441A4){&icon_fa(fa fa-twitch)}【ストグラ】29日目、救急隊稼げるようになった！？>>https://www.twitch.tv/videos/2041103394]]||
+|01/25||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ/救急隊】30話、今の救急隊本気でやれば12時間で5000万稼げる説。【トナカイ】>>https://www.youtube.com/watch?v=zhIKtAConhI]]||
+|01/26||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ/救急隊】31話、早番組行くぞ【トナカイ】>https://www.twitch.tv/videos/2043964958]]||
+|01/28||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ/救急隊】32話、真面目にランク上げます【トナカイ】>>https://www.twitch.tv/videos/2046042376]]||
+|01/31||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ/救急隊】33話、五千兆円欲しい！！【トナカイ】>>https://www.twitch.tv/videos/2048876877]]||
+|02/01||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ/救急隊】33話、まさかの2オペ【トナカイ】>>https://www.twitch.tv/videos/2049834462]]||
+|02/02||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ/救急隊】34話、まさかの1オペ！？【トナカイ】>>https://www.youtube.com/watch?v=GHGnuK9rhx4]]||
+|02/07||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ/救急隊】34話、まさかの1オペ！？【トナカイ】>>https://www.twitch.tv/videos/2055022664]]||
+|02/09||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ/救急隊】トナカイ最後の出勤の日。>>https://www.twitch.tv/videos/2057593303]]||
+|02/11||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】トナカイ初めての個人医勤務1日目。>https://www.twitch.tv/videos/2059615607]]||
+|02/13||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】トナカイ個人医勤務2日目。今日体験できるかな。>https://www.twitch.tv/videos/2061467747]]||
+|02/14||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】トナカイ個人医勤務3日目。今日は短いかも。>https://www.twitch.tv/videos/2062441830]]||
+|02/15||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】トナカイ個人医勤務4日目。今日から心機一転。>https://www.twitch.tv/videos/2063293126]]||
+|06/18||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【59日目】久々の起床だ！！キャバクラがあるらしい>https://www.twitch.tv/videos/2175182452]]||
+|06/22||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【60日目】今日はテンション高めで行きます>https://www.twitch.tv/videos/2178631484]]||
+|06/23||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【61日目】今日もテンション高めで行きます>https://www.twitch.tv/videos/2179474284]]||
+|06/29||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】今日もALLINトナカイ>>https://www.youtube.com/watch?v=fi5WKwPzDAM]] / &font(#6441A4){&icon_fa(fa fa-twitch)}[[【62日目】1週間ぶりに起きます。>https://www.twitch.tv/videos/2184615543]]||
+|06/30||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】今日もALLINトナカイ>>https://www.youtube.com/watch?v=Zu87LVwYVzM]] / &font(#6441A4){&icon_fa(fa fa-twitch)}[[【63目】今日も早番いくぞいくぞ。>https://www.twitch.tv/videos/2185477330]]||
+|07/02||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【64目】今日は遅番です。>https://www.twitch.tv/videos/2187276766]]||
+|~||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【64目】今日は遅番です。>https://www.twitch.tv/videos/2187323591]]||
+|07/03||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【65目】久しぶりの島取参加じゃ>https://www.twitch.tv/videos/2188073185]]||
+|07/04||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【66目】今日も今日とて強くなりたい>https://www.twitch.tv/videos/2188914719]]||
+|07/11||&font(#6441A4){&icon_fa(fa fa-twitch)}[[APEX@2→クリップ鑑賞会→【68目】今日から早番だぞ>https://www.twitch.tv/videos/2194652771]]|※サブスク限定|
+|07/13||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【69目】今日も早番だ行くぞ>https://www.twitch.tv/videos/2196452946]]||
+|~||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【69目】今日も早番だ行くぞ>https://www.twitch.tv/videos/2196453776]]||
+|07/14||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【70目】今日も早番だ行くぞ>https://www.twitch.tv/videos/2197300593]]||
+|07/16||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【71目】強くならないといけない>https://www.twitch.tv/videos/2198971631]]||
+|07/17||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【72目】強くならないといけない>https://www.twitch.tv/videos/2199958772]]||
+|07/18||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【73目】強くならないといけない>https://www.twitch.tv/videos/2200827535]]||
+|07/19||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【73目】強くならないといけない>https://www.twitch.tv/videos/2201581549]]||
+|07/24||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【74目】島取りだ〜強くならないといけない>https://www.twitch.tv/videos/2206030671]]||
+|07/25||&font(#6441A4){&icon_fa(fa fa-twitch)}[[【75目】遅番行くぞ、強くならないといけない>https://www.twitch.tv/videos/2206900972]]||
+|10/10||&font(#6441A4){&icon_fa(fa fa-twitch)}[[2か月ぶりの起床>https://www.twitch.tv/videos/2272505638]]||
+|11/15||&font(#6441A4){&icon_fa(fa fa-twitch)}[[7月以来の起床>https://www.twitch.tv/videos/2302336692]]||
+|11/16||&font(#6441A4){&icon_fa(fa fa-twitch)}[[もしかして俺しかいないロサントス>https://www.twitch.tv/videos/2303108342]]||
+|12/27||&font(#6441A4){&icon_fa(fa fa-twitch)}[[久々すぎる起床>>https://www.twitch.tv/videos/2337037558]]||
+|12/31||&font(#6441A4){&icon_fa(fa fa-twitch)}[[久々すぎる起床(2回目)>>https://www.twitch.tv/videos/2340596895]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***2025年
+#region(開く,open)
+****1月～2月
+#region(1月~2月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/02||&font(#6441A4){&icon_fa(fa fa-twitch)}あけおめええ|アーカイブなし|
+|01/03||&font(#6441A4){&icon_fa(fa fa-twitch)}[[あけおめええ>>https://www.twitch.tv/videos/2343007553]]||
+|~||&font(#6441A4){&icon_fa(fa fa-twitch)}[[あけおめええ>>https://www.twitch.tv/videos/2343044241]]||
+|01/05||&font(#6441A4){&icon_fa(fa fa-twitch)}[[冬眠から目覚めた>>https://www.twitch.tv/videos/2344885519]]||
+|01/07||&font(#6441A4){&icon_fa(fa fa-twitch)}[[最近起床率高め>>https://www.twitch.tv/videos/2346731740]]||
+|01/08||&font(#6441A4){&icon_fa(fa fa-twitch)}[[撃ち合いの調子がいいです>>https://www.twitch.tv/videos/2347622795]]||
+|01/15||&font(#6441A4){&icon_fa(fa fa-twitch)}[[久々の起床なのか？>>https://www.twitch.tv/videos/2353905613]]|アーカイブなし|
+|01/21||&font(#6441A4){&icon_fa(fa fa-twitch)}[[いつも久々な気がします>>https://www.twitch.tv/videos/2359375868]]||
+|01/23||&font(#6441A4){&icon_fa(fa fa-twitch)}[[MOZU抗争行くぞ>>https://www.twitch.tv/videos/2361302703]]||
+|01/25||&font(#6441A4){&icon_fa(fa fa-twitch)}[[MOZU抗争行くぞ>>https://www.twitch.tv/videos/2363015577]]||
+|01/26||&font(#6441A4){&icon_fa(fa fa-twitch)}[[珍しい早番>>https://www.twitch.tv/videos/2363997259]]||
+|02/06||&font(#6441A4){&icon_fa(fa fa-twitch)}[[めっちゃ遅番です>>https://www.twitch.tv/videos/2374034586]]||
+|02/07||&font(#6441A4){&icon_fa(fa fa-twitch)}[[めっちゃ遅番です>>https://www.twitch.tv/videos/2374874510]]||
+|02/08||&font(#6441A4){&icon_fa(fa fa-twitch)}[[何と珍しい早番>>https://www.twitch.tv/videos/2375570776]]||
+|~|~|&font(#6441A4){&icon_fa(fa fa-twitch)}[[何と珍しい早番>>https://www.twitch.tv/videos/2375577894]]||
+|~|~|&font(#6441A4){&icon_fa(fa fa-twitch)}[[何と珍しい早番>>https://www.twitch.tv/videos/2375587792]]||
+|02/09||&font(#6441A4){&icon_fa(fa fa-twitch)} 何と珍しい遅番||
+|02/13||&font(#6441A4){&icon_fa(fa fa-twitch)} 左耳が変、抗争行くぞ||
+|02/16||&font(#6441A4){&icon_fa(fa fa-twitch)}[[久々トナカイ>>https://www.twitch.tv/videos/2382679221]]||
+|02/20||&font(#6441A4){&icon_fa(fa fa-twitch)}[[何と早番だよ>>https://www.twitch.tv/videos/2386182565]]||
+|02/21||&font(#6441A4){&icon_fa(fa fa-twitch)} 何と早番だよ||
+//|mm/dd||[[TITLE>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****3月
+#region(3月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/04||&font(#6441A4){&icon_fa(fa fa-twitch)} 何と早番||
+|03/05||&font(#6441A4){&icon_fa(fa fa-twitch)} 何と遅番||
+|03/06||&font(#6441A4){&icon_fa(fa fa-twitch)} 何と遅番||
+|03/07||&font(#6441A4){&icon_fa(fa fa-twitch)} 何と遅番||
+|03/08||&font(#6441A4){&icon_fa(fa fa-twitch)} 何と早番||
+|03/12||&font(#6441A4){&icon_fa(fa fa-twitch)} 何と遅番||
+|03/14||&font(#6441A4){&icon_fa(fa fa-twitch)} 何と早番||
+|03/15||&font(#6441A4){&icon_fa(fa fa-twitch)} お金稼がないと...||
+|03/16||&font(#6441A4){&icon_fa(fa fa-twitch)} 今日も今日とて|UFORUなどへ行き交流/ぴぴさんと初対面|
+|03/18||&font(#6441A4){&icon_fa(fa fa-twitch)} なんかめちゃ変わったらしい|みつーくんと一緒にUFORUへ|
+|03/19||&font(#6441A4){&icon_fa(fa fa-twitch)} なんかめちゃ変わったらしい||
+|03/21||&font(#6441A4){&icon_fa(fa fa-twitch)} 日進月歩||
+|03/22||&font(#6441A4){&icon_fa(fa fa-twitch)} 日進月歩||
+|03/23||&font(#6441A4){&icon_fa(fa fa-twitch)} 就職先決まりました。|ALLIN最終日|
+|03/25||&font(#6441A4){&icon_fa(fa fa-twitch)} 無職になりました。||
+|03/26||&font(#6441A4){&icon_fa(fa fa-twitch)} 今後どうするかね。||
+|03/27||&font(#6441A4){&icon_fa(fa fa-twitch)} 有夜無夜。||
+|03/28||&font(#6441A4){&icon_fa(fa fa-twitch)} めちゃ遅番。||
+|03/29||&font(#6441A4){&icon_fa(fa fa-twitch)} めちゃ遅番だああああ。||
+|03/30||&font(#6441A4){&icon_fa(fa fa-twitch)} めちゃ遅番だよ。||
+//|mm/dd||[[TITLE>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****4月
+#region(4月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+//|mm/dd||[[TITLE>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****5月
+#region(5月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+//|mm/dd||[[TITLE>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****6月
+#region(6月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+//|mm/dd||[[TITLE>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****7月
+#region(7月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+//|mm/dd||[[TITLE>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+****8月
+#region(8月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+//|mm/dd||[[TITLE>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion(2025)
+**切り抜き動画
+&font(b,13pt){救急隊編}
+#region(close)
+#size(80%){#table_style(head=#6283C2:#FFFFFF)
+| &color(#FFFFFF){動画タイトル(youtube)}|H
+|[[【ストグラ】救急隊の先輩にガン無視され泣いてしまうカワセwwww【ストグラ救急隊/天羽よつは/加賀イズミ/タシロカワセ】>https://www.youtube.com/watch?v=mDB05MUZLOY]]|
+|[[救急隊のモテ男ランキングを聞き卒倒するカワセ達【ストグラ救急隊/澄乃ミレイ/加賀イズミ/タシロカワセ】>https://www.youtube.com/watch?v=noJUnsh2a0s]]|
+|[[唐突な大好きだよに驚きを隠せず壊れてしまう救急隊達【ストグラ/カテジ/キラメキーラ/タシロカワセ/黒亜ネマ】>https://www.youtube.com/watch?v=TN4eexmO8VY]]|
+|[[救急隊に壊されトナカイになってしまうカワセ【ストグラ救急隊/青井らだお/成瀬力二/赤ちゃんキャップ】>https://www.youtube.com/watch?v=6dVT97pBe2M]]|
+|[[テンションが壊れ始め女性隊員のコスプレをしだす男性救急隊。【ストグラ/雷堂ましろ/カテジ/タシロカワセ/キラメキーラ/星野ももあ/天羽よつは】>https://www.youtube.com/watch?v=0wg2bVXljeY]]|
+|[[【#ストグラ】クリスマスイヴなのに多く起きてる救急隊に嬉しくも悲しくもなる隊員達www【雷堂ましろ/カテジ/タシロカワセ/キラメキーラ/吉田ユッカ/加賀イズミ/世風天みにゃ/黒亜ネマ】>https://www.youtube.com/watch?v=j9JCS7HNfFM]]|
+|[[【ストグラ】がみともダーリン事件に言及したらごちゃごちゃしてて面白かった件www 【ストグラ救急隊/タシロカワセ/がみとも/生雲丹よづな】>hhttps://www.youtube.com/watch?v=-dagY-ywtXU]]|
+|[[【ストグラ】救急隊退職日に仲間からの暖かさに号泣してしまうカワセ。【ストグラ/救急隊/タシロカワセ/がみとも/鳥野ギン/命田守/キラメキーラ/神崎治/橘かげまる/雷堂ましろ】>https://www.youtube.com/watch?v=7D9dJdZ8qVs]]|
+#table_autoincrement(){label=#}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion
+
+&font(b,13pt){ALLIN編}
+#region(close)
+#size(80%){#table_style(head=#6283C2:#FFFFFF)
+| &color(#FFFFFF){動画タイトル(youtube)}|H
+|[[【ストグラ】地獄過ぎたALLIN飲み会の惨状について話すカワセwww【タシロカワセ/MonD/白井満太/千代田ヨウ/エスターク・Z・ダークネス/ヘルアン/安城成/天草蒼】>https://www.youtube.com/watch?v=GK8o_GIew3s]]|
+|[[【ストグラ】最低すぎるゲームで認め合う、トナカイとシャンクズ【タシロカワセ/シャンクズ/ファン太】>https://www.youtube.com/watch?v=IXC0wqv-M30]]|
+|[[【復讐】エスタークのやばすぎる恋愛エピソードを聞き一回痛い目に合わせようとするトナカイ達。【ストグラ切り抜き、ALLIN、タシロカワセ、エスターク・Z・ダークネス】>https://www.youtube.com/watch?v=UAJE7tj4lpE]]|
+|[[【ストグラ】BMCの洗礼を受けタジタジになるカワセがおもろすぎたwwwww【ストグラ、くまのふでこ、タシロカワセ、空舞月るる】>https://www.youtube.com/watch?v=q70Tdkn0u9A]]|
+|[[【ストグラ】無理難題を断ったら本人から鬼電がかかってきて、滅茶苦茶圧をかけられるカワセ【天草蒼、タシロカワセ、トナカイ、シュガーピーチ、ALLIN】>https://www.youtube.com/watch?v=yoFbn92DgvI]]|
+|[[【ストグラ】お抱え個人医解雇！？市長に言い渡された解雇宣言に対してALLIN全員の言葉が暖かすぎて涙が出るナリエル、トナカイ【ALLIN/千代田ヨウ/マイゴ・ニ＝ナリエル/タシロカワセ/白井満太】>https://www.youtube.com/watch?v=6dObqYR_TMk]]|
+|[[【ストグラ】性獣エスタークしっかりとやばいムーブして椎花に刺され、何故かついでに刺されるカワセwww【ストグラ切り抜き/ALLIN/タシロカワセ/エスターク・Z・ダークネス/椎花まほ】>https://www.youtube.com/watch?v=x3GdNpZ_oRs]]|
+|[[【CRフェス】ホテルで視聴者に会った話やシスコさんに怒られるmondoの話などをしCRフェスを振り返るカワセ【ストグラ】>https://www.youtube.com/watch?v=rv5b05Sc2KE]]|
+|[[【ストグラ】ALLIN皆んなで焼肉行った話をする横でしっかりハブられるエスターク【ストグラ切り抜き、タシロカワセ、エスターク、千代田ヨウ、天草蒼、ナリエル】>https://www.youtube.com/watch?v=ZFa5viS9COk]]|
+|[[【ストグラ】お薬の作り方をダイスで決め遊んでいたところをウェスカーさんに見られるALLIN【ストグラ切り抜き、タシロカワセ、エスターク、アルフォートウェスカー、白井満太、天草蒼】>https://www.youtube.com/watch?v=TSXijYjvscU]]|
+|[[【大号泣】寝れずに悩みぺしょぺしょになったトナカイにずっと寄り添い近くにいてくれたナリエル【ALLIN/Mond/ナリエル/千代田ヨウ/白井満太/エスターク/五十嵐エイム/ストグラ/切り抜き】>https://www.youtube.com/watch?v=dwcScZWs_kQ]]|
+|[[【ストグラ】大型待機中に暇すぎて、怖い話を始める、ALLINと餡ブレラwww【ストグラ切り抜き、タシロカワセ、エスターク、アルフォートウェスカー、白井満太、キャプテンわきを】>https://www.youtube.com/watch?v=Un913nBjaEQ]]|
+|[[【ストグラ】急に意味深な事を言い出すALLINに笑いが堪えきれず深夜の下ネタ大会が始まるwwww【ストグラ切り抜き、タシロカワセ、ナリエル、Mond、CPU、千代田ヨウ、天草蒼、薬乃ミミ】>https://www.youtube.com/watch?v=PNB9UHN-kqE]]|
+|[[【ストグラ】深夜のALLIN唐突な失言で珍しくツボにはまる四五六確www【ALLIN/トナカイ/ナリエル/四五六確/鳥野ぎん/聖母レリア/切り抜き/GTA】>https://www.youtube.com/watch?v=fBhhu7VF22g]]|
+|[[【ストグラ】ALLINで完成度の高いコスプレを警察に見せに行ったらペインに逮捕されたwwwww【ALLIN/トナカイ/ナリエル/四五六確/さぶ郎/伊藤ペイン/切り抜き/GTA】>https://www.youtube.com/watch?v=hgdWPO-5be8]]|
+|[[【ストグラ】突然始まる深夜のALLIN悪口大会があまりにもやばかったwwww 【ALLIN/トナカイ/mond/四五六確/エスターク/天草/ヘルアン/千代田/切り抜き/GTA】>https://www.youtube.com/watch?v=hOQwSox76pw]]|
+#table_autoincrement(){label=#}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion
+
+&font(b,13pt){BJローン編}
+#region(close)
+#size(80%){#table_style(head=#6283C2:#FFFFFF)
+| &color(#FFFFFF){動画タイトル(youtube)}|H
+|[[【#ストグラ切り抜き 】BJローン初取り立てに動く！？BJローンブラックジャックス編！！/ストグラ救急隊/三島みつー/トナカイ/命田守/雷堂ましろ/三否亭四五六確/千代田ヨウ>https://www.youtube.com/watch?v=bf_yHzD9JRE]]|
+|[[【#ストグラ切り抜き 】トナカイ告白編！？BJローン組や恋愛マスターに手伝ってもらい思いを伝えるトナカイ【三島みつー/猫又ぴぴ/三否亭四五六確/ゆちゃめろでぃ/小峯玲】>https://www.youtube.com/watch?v=iCkxsytLIKg]]|
+|[[【#ストグラ切り抜き】史上最凶の債権者襲来！？BJローン上田編！/餡ブレラ/ウェスカー/三否亭四五六確/三島みつー/トナカイ/上田>https://www.youtube.com/watch?v=EGmcG3xxi2w]]|
+|[[【#ストグラ切り抜き】ブラックジャックス再び！彼の企みを聞いて驚愕し、動き出すBJローン！/ジョーカー/三否亭四五六確/三島みつー/トナカイ/上田/ブラックジャックス>https://www.youtube.com/watch?v=t5byY8k7nC8]]|
+|[[【#ストグラ切り抜き】トナカイ試練の時？！恋人が連帯保証人！？「BJ」がかき乱す！どうするBJローン！/三否亭四五六確/三島みつー/トナカイ/猫又ぴぴ/ブラックジャックス/BJローン>https://www.youtube.com/watch?v=Ws9O9iHgGKc]]|
+|[[【#ストグラ切り抜き】急展開！「BJ」がジョーカーさんを詰める？！BJローン三者確認編！/三否亭四五六確/三島みつー/トナカイ/猫又ぴぴ/ジョーカー/ブラックジャックス/BJローン>https://www.youtube.com/watch?v=YGA_TPv1OT8]]|
+|[[【#ストグラ切り抜き】ついにカレー屋に取り立てに動く！BJローンカレー屋ヘイスト編！/トナカイ/三否亭四五六確/三島みつー/牧上るる/牧田ここな/BJローン>https://www.youtube.com/watch?v=0bxPW1Gi3io]]|
+|[[【#ストグラ切り抜き】新事業開始？！金融×チンチロ？！BJローン鉄骨チンチロテスト編！/トナカイ/三否亭四五六確/三島みつー/牧上るる/伊藤カテジ/切間てつお/雷堂ましろ>https://www.youtube.com/watch?v=9BHRgRNKaho]]|
+|[[【#ストグラ切り抜き】四五六恋人を作る？！BJローンパキち勧誘編！/トナカイ/三否亭四五六確/天草蒼/パキち/BJローン>https://www.youtube.com/watch?v=1-k7SjZA3NA]]|
+|[[【#ストグラ切り抜き】お金の次は車？！「BJ」財産差し押さえ？！経緯を聞くトナカイ！/トナカイ/三否亭四五六確/ブラックジャックス/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=VRpMxlFdO7I]]|
+|[[【#ストグラ切り抜き】鉄骨チンチロに次ぐ新たなゲーム！BJローン抜け駆けゲームテスト編！/トナカイ/三否亭四五六確/牧田ここな/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=Mcoxe8P8Fy0]]|
+|[[【#ストグラ切り抜き】警察官への振り込め詐欺？！名探偵四五六編！/トナカイ/三否亭四五六確/くまぽこ/光乃あびす/バーバリアン田中/BJローン>https://www.youtube.com/watch?v=SrIhe4DvI-E]]|
+|[[【#ストグラ切り抜き】事業好調！BJローンの進捗を聞くトナカイ！/トナカイ/三否亭四五六確/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=L_eZ2xsuC7I]]|
+|[[【#ストグラ切り抜き】ALLIN解散から1か月！ALLIN家族会議？！話を聞くBJ組！/トナカイ/三否亭四五六確/三島みつー/BJローン/ALLIN>https://www.youtube.com/watch?v=9KBG1ZV46iA]]|
+|[[【#ストグラ切り抜き】新人半グレの悩み？BJローン相談室！星ノみこ編！/トナカイ/三否亭四五六確/星ノみこ/BJローン>https://www.youtube.com/watch?v=grF8PvVRlno]]|
+|[[【#ストグラ切り抜き】トナカイノンデリ発動？！トナぴぴ話し合い編！/トナカイ/三否亭四五六確/猫又ぴぴ/霜月ろっぷ/黒亜ネマ/BJローン>https://www.youtube.com/watch?v=q7CmmVoxmiU]]|
+|[[【#ストグラ切り抜き】ついにギャングボスに取り立てへ！BJローン麻陀羅組ボス激詰め編！/トナカイ/三否亭四五六確/千代田ヨウ/猫又ぴぴ/麻陀羅組/タラちゃん/BJローン>https://www.youtube.com/watch?v=0Iele1gZRMs]]|
+|[[【#ストグラ切り抜き】四五六パラロス卒業？！トナカイチルい一日編！/トナカイ/三否亭四五六確/三島みつー/猫又ぴぴ/ALLIN/BJローン>https://www.youtube.com/watch?v=41HNLW4IOZ8]]|
+|[[【#ストグラ切り抜き】ネマさんが帰国？！エス先輩の独白？！ALLIN戦友との別れ編！/トナカイ/黒亜ネマ/エスターク・Z・ダークネス/ALLIN/BJローン>https://www.youtube.com/watch?v=z_m8isrxw9M]]|
+|[[【#ストグラ切り抜き】ついにマークが？！BJローン本格始動！！/トナカイ/みこだよう/宇治ジョージ/つよがりとうか/霜月ろっぷ/BJローン>hhttps://www.youtube.com/watch?v=jPUkADiFSAw]]|
+|[[【#ストグラ切り抜き】大型貸付から急展開！？BJローン100億円事件！！/トナカイ/三否亭四五六確/犬ルリ/パキち/BJローン>https://www.youtube.com/watch?v=_chhALpHzL0]]|
+|[[【#ストグラ切り抜き】警察の魔の手が？！トナカイ一人で大奮闘！BJローン100億事件編2！！/トナカイ/三否亭四五六確/犬ルリ/パキち/BJローン>https://www.youtube.com/watch?v=psd6MGwu1Sg]]|
+|[[【#ストグラ切り抜き】ぶつかる四五六とトナカイ！会社存続の危機？！BJローン100億事件編3！！/トナカイ/三否亭四五六確/千代田ヨウ/香月ろぎあ/BJローン>https://www.youtube.com/watch?v=jmqmIwJh0us]]|
+|[[【#ストグラ切り抜き】虚空新聞から抗争へ？！BJローンTrickster編！/トナカイ/三否亭四五六確/千代田ヨウ/ムーチョ文岡/ガヴァイアッカンマン/ジョーカー/Trickster/BJローン>https://www.youtube.com/watch?v=2REcIgdAFWQ]]|
+|[[【#ストグラ切り抜き】債権販売？！警察からの緊急要請！BJローン対警察商談編！/トナカイ/三否亭四五六確/バーバリアン田中/ボイラ/味野環九郎/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=ukTdOv-CCp8]]|
+|[[【#ストグラ切り抜き】最凶の公務員、襲来？！BJローン続・100億円事件編！/トナカイ/三否亭四五六確/パキち/猫又ぴぴ/犬ルリ/BJローン>https://www.youtube.com/watch?v=est2nqLDsTQ]]|
+|[[【#ストグラ切り抜き】ついに捜査の手が？！ボイラに事情聴取されるBJローン！/トナカイ/三否亭四五六確/ボイラテンガリン/まいにい/BJローン>https://www.youtube.com/watch?v=hWO9gUarFLk]]|
+|[[【#ストグラ切り抜き】徹底抗戦の構え？！BJローンムーチョ文岡取り立て編！/トナカイ/三否亭四五六確/ムーチョ文岡/バーバリアン田中/ボイラテンガリン/BJローン>https://www.youtube.com/watch?v=6rczkrRopm4]]|
+|[[【#ストグラ切り抜き】ジャックス、ここなサイボーグ化？！BJローン債務者サイボーグ化計画編！/トナカイ/三否亭四五六確/千代田ヨウ/ブラックジャックス/牧田ここな/毒多博士/BJローン>https://www.youtube.com/watch?v=J-SOHsVf2ag]]|
+|[[【#ストグラ切り抜き】滅論激詰め現場に立ち会い？！BJローン第4宇宙速度融資編！/トナカイ/三否亭四五六確/高橋滅論/加藤圧/餡ブレラ/BJローン>https://www.youtube.com/watch?v=_PqMMfW7Znw]]|
+|[[【#ストグラ切り抜き】餡ブレラ解散？！ロスサントス崩壊の危機？！またしても何も知らないトナカイ！/トナカイ/三否亭四五六確/天草蒼/みこだよう/餡ブレラ/BJローン>https://www.youtube.com/watch?v=HVKnK9BA8Ls]]|
+|[[【#ストグラ切り抜き】最凶の公務員、ついに返済へ！BJローン犬ルリ借金完済？編！/トナカイ/三否亭四五六確/犬ルリ/猫又ぴぴ/BJローン>hhttps://www.youtube.com/watch?v=hWsGSIvxigg]]|
+|[[【#ストグラ切り抜き】ついに歴史に新たな1ページが！BJローンジャックスサイボーグ化計画編2！/トナカイ/三否亭四五六確/千代田ヨウ/ブラックジャックス/牧田ここな/BJローン>https://www.youtube.com/watch?v=D_ULXxcwk7o]]|
+|[[【#ストグラ切り抜き】サイボーグ化が大きな溝を生む？！BJローンジャックスサイボーグ編！/トナカイ/三否亭四五六確/ブラックジャックス/牧田ここな/BJローン>https://www.youtube.com/watch?v=8-7jr57NU5c]]|
+|[[【#ストグラ切り抜き】いつも渦中には「彼ら」が？！BJローンルーク秋山債務回収編！/トナカイ/三否亭四五六確/ルーク秋山/ムーチョ文岡/堕夜だよ/MOZU/BJローン>https://www.youtube.com/watch?v=_6L9RW3AIEU]]|
+|[[【#ストグラ切り抜き】慰謝料で借金返済？！BJローン宗介vs斎藤！裁判編！/トナカイ/三否亭四五六確/ライジングサン宗介/ブロッコリー斎藤/つよがりとうか/BJローン>https://www.youtube.com/watch?v=ApPoj-MYuqs]]|
+|[[【#ストグラ切り抜き】大きめイベントの裏で進展が？！BJローンルーク秋山債務回収編2！/トナカイ/三否亭四五六確/ルーク秋山/ムーチョ文岡/堕銭形やいち郎/MOZU/BJローン>https://www.youtube.com/watch?v=DJFmCCPhO28]]|
+|[[【#ストグラ切り抜き】ちょけからシリアスへ？！トナカイガヴァイ人生相談編！/トナカイ/ガヴァイアッカンマン/猫又ぴぴ/Trickster/BJローン>https://www.youtube.com/watch?v=Or90u4Rw0Nw]]|
+|[[【#ストグラ切り抜き】とある報告で衝撃の事実発覚？！トナカイエスターク帰国報告編！/トナカイ/エスターク・Z・ダークネス/BJローン>https://www.youtube.com/watch?v=AHxThUCl0TI]]|
+|[[【#ストグラ切り抜き】新しい仕事でまさかの悲劇？！トナカイesportLv2初受注編！/トナカイ/五十嵐えいむ/E5's BURGER/BJローン>https://www.youtube.com/watch?v=eYpaY7C3g0A]]|
+|[[【#ストグラ切り抜き】急展開すぎてトナカイ驚愕！ガヴァイ進路相談解決編！/トナカイ/ガヴァイアッカンマン/猫又ぴぴ/Trickster/BJローン>https://www.youtube.com/watch?v=qi1m7e7XyKk]]|
+|[[【#ストグラ切り抜き】元・最強ギャングの個人医復職？！トナカイ新章！個人医復職編！/トナカイ/葛城司/犬好マイキー/星ノみこ/久川たんぽぽ/三否亭四五六確/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=BWiMe8M9o2o]]|
+|[[【#ストグラ切り抜き】面白すぎる言葉連発でトナカイ大爆笑？！BJローンお題卓球編！/トナカイ/三否亭四五六確/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=KWCS5qTREzY]]|
+|[[【#ストグラ切り抜き】ギャング解散？！街から去る宣言？！ジョーカーの件を聞くトナカイ！/トナカイ/ジョーカー/猫又ぴぴ/Trickster/BJローン>https://www.youtube.com/watch?v=DnZdkQjeT28]]|
+|[[【#ストグラ切り抜き】上田爆速白パスはく奪？！ALLIN面子大集合？！トナカイ個人医初日編！/トナカイ/ノアチェンバー/星ノみこ/マイゴ・ニ＝ナリエル/BJローン>https://www.youtube.com/watch?v=TjFWow3HcgI]]|
+|[[【#ストグラ切り抜き】人間に戻った彼にさらなる負債が！BJローンジャックス編再来？！/トナカイ/三否亭四五六確/ブラックジャックス/BJローン>https://www.youtube.com/watch?v=S9HJg43038M]]|
+|[[【#ストグラ切り抜き】街から見放される腫れ物に四五六困惑？！ポーク秋山牧場脱走？！/トナカイ/三否亭四五六確/ルーク秋山/BJローン>https://www.youtube.com/watch?v=jrAJmgpEaIo]]|
+|[[【#ストグラ切り抜き】警察署襲撃に脱獄と大暴走？！なぜか巻き込まれるトナカイ！上田、全ギャングに喧嘩を売る？！/トナカイ/上田/牧田ここな/ブラックジャックス>https://www.youtube.com/watch?v=xQBdqIuhZYc]]|
+|[[【#ストグラ切り抜き】個人医トナカイ緊急出動！tib攻略ギャング救出編！/トナカイ/RqteL/NO LIMIT/五十嵐えいむ/三島みつー/BJローン>https://www.youtube.com/watch?v=ySsiRP1vGEw]]|
+|[[【#ストグラ切り抜き】一触即発？！元ALLIN全員と1v1？！滅論から頼み事をされるトナカイ！/トナカイ/高橋滅論/BJローン>https://www.youtube.com/watch?v=ukILK-OMKaA]]|
+|[[【#ストグラ切り抜き】ドクは〇度落ちる？！そして過去最高のてこちんへ！BJローン上田vsドク鉄骨チンチロ編！/トナカイ/三否亭四五六確/千代田ヨウ/マッハボクシングドク/上田/BJローン>https://www.youtube.com/watch?v=WOknZroBLp4]]|
+|[[【#ストグラ切り抜き】真っ暗な空母でお仕事！強制瞑想に間に合うか！トナカイLv2BattleShipHeist挑戦編！/トナカイ/三島みつー/BJローン>https://www.youtube.com/watch?v=aC2CuVq65M4]]|
+|[[【#ストグラ切り抜き】80億貸付から即日返済？！なぜかBJローン大忙し！BJローン様子のおかしい四五六編！/トナカイ/三否亭四五六確/千代田ヨウ/星唄サウ汰/BJローン>https://www.youtube.com/watch?v=vyFJHbGGmO0]]|
+|[[【#ストグラ切り抜き】80億の次は倍付5億チンチロ？！BJローン大忙し！BJローン様子のおかしいサウ汰編！/トナカイ/三否亭四五六確/星唄サウ汰/BJローン>https://www.youtube.com/watch?v=mYwloAanyeo&t=690s]]|
+|[[【#ストグラ切り抜き】BMCの爆撃事件？！マイキー爆散？！トナカイ8月3日個人医総集編！/トナカイ/三否亭四五六確/犬好マイキー/BJローン>https://www.youtube.com/watch?v=qOhAIFWaU60]]|
+|[[【#ストグラ切り抜き】あの警察をクビに？！またも多額の借入？！BJローン犬ルリ再来編！！/トナカイ/三否亭四五六確/犬ルリ/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=NalJuaXy724]]|
+|[[【#ストグラ切り抜き】過去最高の負け額？！トナカイ初ディーラー！BJローン上田vsちゅにvsたいたい抜け駆けゲーム編！/トナカイ/上田/三ツ星ちゅに/捌木たいたい/BJローン>https://www.youtube.com/watch?v=Bt_VRY4ajZ0]]|
+|[[【#ストグラ切り抜き】Tricksterを貰う？！巷を騒がす彼が市長に喧嘩を売る？！上田、市長面談立ち合い編/トナカイ/千代田ヨウ/上田/Trickster/山下ひろし/ジョーカー/BJローン>https://www.youtube.com/watch?v=4IYQUX-3JCo]]|
+|[[【#ストグラ切り抜き】ギャンボスと決闘？！トナカイがついに先生に！滅論と学ぶ！客船大型講座！/トナカイ/高橋滅論/BJローン>https://www.youtube.com/watch?v=l4R1RExR1zo]]|
+|[[【#ストグラ切り抜き】お騒がせな市民、ついにギャング設立でキングに？！トナカイ上田ギャング勧誘編！/トナカイ/上田/BJローン>https://www.youtube.com/watch?v=kceVnuTgrJc]]|
+|[[【#ストグラ切り抜き】2人の因縁、ついに決着？！鉄骨の上でドラム音？！BJローンタラちゃんvsフラムてこちん編！/トナカイ/三否亭四五六確/鮫島フラム/タラちゃん/BJローン>https://www.youtube.com/watch?v=fe_TwJI8Z5Q]]|
+|[[【#ストグラ切り抜き】BJローン全員が勧誘される事態に？！BJローン四五六、上田ギャング勧誘編！/トナカイ/三否亭四五六確/上田/BJローン>https://www.youtube.com/watch?v=DCbWM6tbBes]]|
+|[[【#ストグラ切り抜き】あの仕事がついに犯罪化？！ムーブに悩む個人医たち！トナカイ個人医話し合い編！/トナカイ/マイゴ・ニ＝ナリエル/三否亭四五六確/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=qTTC9PUk-K4]]|
+|[[【#ストグラ切り抜き】トナカイついにあの「ピエロ」に襲われる？！トナカイ謎のピエロ？編！/トナカイ/マイゴ・ニ＝ナリエル/五十嵐えいむ/三島みつー/RqteL/BJローン>https://www.youtube.com/watch?v=gRm1j6rbAXk]]|
+|[[【#ストグラ切り抜き】あの白市民が会社初の借金踏み倒し？！白パスはく奪？！BJローン牧田ここなバースト編！/トナカイ/牧田ここな/ボイラテンガリン/ロスサントス警察/BJローン>https://www.youtube.com/watch?v=7xTyf0EqB6g]]|
+|[[【#ストグラ切り抜き】処分はフェスの会場で？！メディア大喜利？！トナカイ爆笑？署長記者会見編！/トナカイ/三否亭四五六確/猫又ぴぴ/ジャック馬ウアー/小峯玲/アドミゲスハン/沼忌三郎/BJローン>https://www.youtube.com/watch?v=928RzSVOO94]]|
+|[[【#ストグラ切り抜き】長年の付き合いのあの人が帰国！トナカイ帰国阻止？！トナカイエスターク帰国編！/トナカイ/エスターク・Z・ダークネス/三否亭四五六確/猫又ぴぴ/小峯玲/BJローン>https://www.youtube.com/watch?v=21821vAweVQ]]|
+|[[【#ストグラ切り抜き】ロスサントスで起きた純粋悪の話を四五六に共有！BJローンロスサントス3億円事件共有編！/トナカイ/猫又ぴぴ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=uijDItUW9GM]]|
+|[[【#ストグラ切り抜き】暇を極めすぎた人の末路？！いろんな人にダルがらみ？！トナカイ某ちゃん変装編！/トナカイ/三島みつー/牧田ここな/ブラックジャックス/山本寅子/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=ujLuZ9W1A6A]]|
+|[[【#ストグラ切り抜き】カジノイベントに目を付ける二人！いろんなところへ営業へ！BJローンここな店長営業編！/トナカイ/牧田ここな/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=xZWmwiv5Nk4]]|
+|[[【#ストグラ切り抜き】あのカレー屋の店長が記憶喪失？！トナカイここな記憶喪失編！/トナカイ/牧田ここな/千代田ヨウ/三否亭四五六確/ボイラテンガリン/BJローン>https://www.youtube.com/watch?v=wIR1JajDpOM]]|
+|[[【#ストグラ切り抜き】トナカイ発案のイベント開催？！BJローンマネーのトナ編！/トナカイ/三否亭四五六確/千代田ヨウ/マッハボクシングドク/ブロッコリー斎藤/BJローン>https://www.youtube.com/watch?v=-yv_8pUfZ-M]]|
+|[[【#ストグラ切り抜き】街崩壊の予兆？！最強個人医ダークシリーズと初交戦！トナカイダークかな襲撃編！/トナカイ/三否亭四五六確/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=yZRp4Ns8qqg]]|
+|[[【#ストグラ切り抜き】ついにBJローンにあの人が？！一体どんなお知らせが？！BJローン大きなお知らせ編！/トナカイ/三否亭四五六確//千代田ヨウ/BJローン>https://www.youtube.com/watch?v=FCxaCqABsHQ&t=2442s]]|
+|[[【#ストグラ切り抜き】新入社員入ったばかりで解散の危機？！BJローン解散危機？編！/トナカイ/三否亭四五六確/千代田ヨウ/ブラックジャックス/RqteL/BJローン>https://www.youtube.com/watch?v=uTB0sOxtgDA]]|
+|[[【#ストグラ切り抜き】カジノイベントでのいざこざが裁判に！トナカイ爆笑裁判傍聴編！/トナカイ/ブロッコリー斎藤/雷堂ましろ/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=3Dn-j0GLzG0]]|
+|[[【#ストグラ切り抜き】ピエロとダークツインズとの戦闘も佳境に！トナカイピエロに誘拐される？！/トナカイ/ムーチョ文岡/三否亭四五六確/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=PHkk0H05zy4]]|
+|[[【#ストグラ切り抜き】未来に行った毒多博士から語られる衝撃の情報？！BJローンロスサントスの未来を共有される？！/トナカイ/千代田ヨウ/三否亭四五六確/毒多博士/BJローン>https://www.youtube.com/watch?v=WHEtnO5MEvA]]|
+|[[【#ストグラ切り抜き】悪ガキヘッショ千代に色ボケ四五六と行く！BJローンE5’sミッション挑戦編！/トナカイ/千代田ヨウ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=FeyjsJUopE0]]|
+|[[【#ストグラ切り抜き】知らないところで100億チンチロ倍付で四五六が200億の借金を背負う？！BJローン爆笑・四五六に事情聴取編！/トナカイ/千代田ヨウ/三否亭四五六確/ヘルアン/BJローン>https://www.youtube.com/watch?v=2beIzw3CBak&t=271s]]|
+|[[【#ストグラ切り抜き】四五六のチンチロ負けから思わぬ収穫が？！BJローン新エージェント契約編！/トナカイ/三否亭四五六確/安城成/犬ルリ/BJローン>https://www.youtube.com/watch?v=dnmOU1SdXRU]]|
+|[[【#ストグラ切り抜き】混沌とする街の状況に苦悩する人々！トナカイちょっと重めな一日編！/トナカイ/三否亭四五六確/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=3qhKG33DGMk&t=3049s]]|
+|[[【#ストグラ切り抜き】この街を守り抜け！”mond”の帰還？！トナカイ最終決戦編！/トナカイ/千代田ヨウ/安城成/三否亭四五六確/猫又ぴぴ/MonD/ALLIN/BJローン>https://www.youtube.com/watch?v=FyMvHeq95Oo]]|
+|[[【#ストグラ切り抜き】戦略的撤退？！ダーク市長がついに本気に？！トナカイXデー前哨戦？編！/トナカイ/三否亭四五六確/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=jxC4Dd3h1OQ]]|
+#table_autoincrement(){label=#}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion
+
+&font(b,13pt){Season2 START&br()BJローン編}
+#region(close)
+#size(80%){#table_style(head=#6283C2:#FFFFFF)
+| &color(#FFFFFF){動画タイトル(youtube)}|H
+|[[【#ストグラ切り抜き】新しい世界線でも変わらず喧嘩勃発！？BJローンストグラseason2開幕！/トナカイ/千代田ヨウ/安城成/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=LtkxVsLUkko&t=3596s]]|
+|[[【#ストグラ切り抜き】久々の街で魂貫？3か月前のあの日、3人は...BJローンバイト編！/トナカイ/千代田ヨウ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=Y9t-XW06GKI&t=1599s]]|
+|[[【#ストグラ切り抜き】次なる一手は「賭け＋サッカー」！？BJローンサッカー編！/トナカイ/千代田ヨウ/三否亭四五六確/小峯玲/飯田けんつBJローン>https://www.youtube.com/watch?v=xleCPEijz7I]]|
+|[[【#ストグラ切り抜き】ぴぴさんの安否が不明！？ちゃんと転送されてるのか不安がるトナカイ/トナカイ/千代田ヨウ/三否亭四五六確/白井満太/BJローン>https://www.youtube.com/watch?v=N_pnMUPNS8g]]|
+|[[【#ストグラ切り抜き】起床早々400万の借金が発覚！？安城と資金集めに奔走！？トナカイ安城爆笑珍道中！/トナカイ/安城成/BJローン>https://www.youtube.com/watch?v=hk-B3t9zTb0]]|
+|[[【#ストグラ切り抜き】BJローン会議開催！安城の真剣な悩み！？タクシーで面談？されるトナカイ！/トナカイ/三否亭四五六確/安城成/ゆちゃめろでぃ/BJローン>https://www.youtube.com/watch?v=feCk5_pZJII]]|
+|[[【#ストグラ切り抜き】新年の街散策で大発見！？BM洗浄場所を発見するトナカイ！/トナカイ/天草蒼/上野かみや/BJローン>https://www.youtube.com/watch?v=f5b-ao1kQjU]]|
+|[[【#ストグラ切り抜き】情報量の多さに頭が痛くなる！？MonDに遭遇するトナカイたち！/トナカイ/千代田ヨウ/三否亭四五六確/MonD/ALLIN/BJローン>https://www.youtube.com/watch?v=xq0lwoqlk_c]]|
+|[[【#ストグラ切り抜き】街のインフラになりえる一大事業の全貌公開！？BJローン新事業開始！？/トナカイ/千代田ヨウ/三否亭四五六確/安城成/パキち/BJローン>https://www.youtube.com/watch?v=lsqlPDB1gAU]]|
+|[[【#ストグラ切り抜き】カード普及の一歩のため、ケバブ屋へ商談に！？BJローントナカイ初営業！？/トナカイ/千代田ヨウ/三否亭四五六確/柚乃いずみ/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=clfhilY5Qq0]]|
+|[[【#ストグラ切り抜き】この街で初めての人質で大熱演！？トナカイ大絶叫！？/トナカイ/ヘルアン/霜月ろっぷ/トーマス/BJローン>https://www.youtube.com/watch?v=dOfBPDN_zK0]]|
+|[[【#ストグラ切り抜き】帰国したはずの元ALLINの彼（彼女）に遭遇！？BJローンエス先輩と再会！？/トナカイ/千代田ヨウ/三否亭四五六確/安城成/エスターク・Z・ダークネス/BJローン>https://www.youtube.com/watch?v=rPFMDNyMIhI]]|
+|[[【#ストグラ切り抜き】過去の船着きを彷彿とさせるレギオンの一幕！爆笑！レギオン大爆発事件！？/トナカイ/千代田ヨウ/三否亭四五六確/安城成/MonD/BJローン>https://www.youtube.com/watch?v=x5lxCgkMZqM]]|
+|[[【#ストグラ切り抜き】トナカイ待望のあの情報が！？ごうさんに特大情報を教えてもらう！/トナカイ/千代田ヨウ/月ノ島ごう/ALLIN/BJローン>https://www.youtube.com/watch?v=zdNek7d8DFo]]|
+|[[【#ストグラ切り抜き】笑撃の結末！？この世界線2度目の裁判開廷！ここなvsチンピラ裁判！/トナカイ/千代田ヨウ/牧田ここな/チンピラ/MonD/BJローン>https://www.youtube.com/watch?v=i68iHCCITbI]]|
+|[[【#ストグラ切り抜き】弁護士四五六大奮闘！？街を揺るがす大型裁判！MonD&みつーvs警察裁判開廷！/トナカイ/千代田ヨウ/三否亭四五六確/安城成/三島みつー/MonD/BJローン>https://www.youtube.com/watch?v=VfKU89b5cao&t=1s]]|
+|[[【#ストグラ切り抜き】前日捕まったはずの彼が大暴走！？BJローンvs上田は終わらない！？/トナカイ/三否亭四五六確/上田/BJローン>https://www.youtube.com/watch?v=ahdldU_61YE]]|
+|[[【#ストグラ切り抜き】面白すぎるモーガンとバイト！いろいろ思案するトナカイ！トナカイDay18まとめ！/トナカイ/モーガン・フリーザン/上田/BJローン>https://www.youtube.com/watch?v=JP49B7f0hZw]]|
+|[[【#ストグラ切り抜き】今日もチルな四五六とトナカイはスロットで大散財！？トナカイ、四五六に軍資金にされる！？/トナカイ/三否亭四五六確/寝言怠惰/BJローン>https://www.youtube.com/watch?v=nDfhS4mch2U]]|
+|[[【#ストグラ切り抜き】上田に救済措置？誤送金から大事件へ！？公安特殊組織TEPPANT結成！？/トナカイ/千代田ヨウ/牧田ここな/三否亭四五六確/上田/BJローン>https://www.youtube.com/watch?v=RPjoXwtGwHU]]|
+|[[【#ストグラ切り抜き】ぺしょぺしょの安城と複雑なチヨに板挟みなトナカイ！？安城の相談に乗るトナカイ！/トナカイ/千代田ヨウ/安城成/姫野咲/BJローン>https://www.youtube.com/watch?v=IetY__9JE_s]]|
+|[[【#ストグラ切り抜き】暇を持て余したトナカイの奇行！？本署前の植木鉢で警官にドッキリ！？/トナカイ/ブロッコリー斎藤/もりるんるん/シオコリコ/BJローン>https://www.youtube.com/watch?v=JqePySMtMsw]]|
+|[[【#ストグラ切り抜き】数日前所持金数万だった上田に返済のめどが！？上田がしっかり1600万を返済してくる！？/トナカイ/千代田ヨウ/三否亭四五六確/上田/BJローン>https://www.youtube.com/watch?v=SOf_xgqhb2E]]|
+|[[【#ストグラ切り抜き】とある女性警官の相談に乗る？ガチコーデ作り！？トナカイ恋のキューピッドになる！？/トナカイ/シオコリコ/牧田ここな/BJローン>https://www.youtube.com/watch?v=bIHll7HXXWw]]|
+|[[【#ストグラ切り抜き】トナカイ黒への道、始動！？DEPに面談にいくトナカイ！/トナカイ/千代田ヨウ/三否亭四五六確/加藤圧/ノアチェンバー/聖母れりあ/DEP/BJローン>https://www.youtube.com/watch?v=_MNFoIybGDE]]|
+|[[【#ストグラ切り抜き】新ギャンブルやカジノの振る舞いにBJローンが決断！BJローンこみ蔵カジノとの提携白紙！？/トナカイ/千代田ヨウ/三否亭四五六確/岐阜野こみ蔵/BJローン>https://www.youtube.com/watch?v=Nh2Ndq_6FJc]]|
+|[[【#ストグラ切り抜き】過去一気まずい窓拭き！？応援が止まらない！チヨリコを見守る？トナカイ！/トナカイ/シオコリコ/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=UYfWl9mS19w]]|
+|[[【#ストグラ切り抜き】チョケで始めたデート計画が大ごとに！？デート仕返し作戦決行！？/トナカイ/千代田ヨウ/つよがりとうか/堕夜だよ/BJローン>https://www.youtube.com/watch?v=qIrIbsZ2uZo&t=2s]]|
+|[[【#ストグラ切り抜き】この街にも死神が！？TwiXで死亡予告！？デスツイックス出現！？/トナカイ/千代田ヨウ/タイフーン捨山/山田カイキ/堕夜だよ/BJローン>https://www.youtube.com/watch?v=aYZCIDuuqro]]|
+#table_autoincrement(){label=#}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion
+
+&font(b,13pt){BJローン・DEP編}
+#region(close)
+#size(80%){#table_style(head=#6283C2:#FFFFFF)
+| &color(#FFFFFF){動画タイトル(youtube)}|H
+|[[【#ストグラ切り抜き】ついにこの街でも黒の道へ！トナカイDEP編始動！/トナカイ/加藤圧/ノアチェンバー/聖母れりあ/千代田ヨウ/DEP/BJローン>https://www.youtube.com/watch?v=sJyLnmfyvhU]]|
+|[[【#ストグラ切り抜き】記憶喪失の元ALLINと雑談！とある情報に大爆笑の二人！？/トナカイ/千代田ヨウ/芳賀ノエル/天草蒼/BJローン>https://www.youtube.com/watch?v=uudSPCJwo8M]]|
+|[[【#ストグラ切り抜き】薬練りの鬼！トナカイの本領発揮！？DEPの素材在庫を全て枯らす！？/トナカイ/ノアチェンバー/聖母れりあ/小峯玲/DEP/BJローン>https://www.youtube.com/watch?v=E_Et9bHjwWI]]|
+|[[【#ストグラ切り抜き】長時間の銀行強盗人質から一大事件に！？TEPPANTseason2！？/トナカイ/千代田ヨウ/くまぽこ/光乃アビス/BJローン>https://www.youtube.com/watch?v=vShGeD3O_2E]]|
+|[[【#ストグラ切り抜き】不動産開始と街の情勢に目をつける！BJローン住宅ローン計画始動！？/トナカイ/千代田ヨウ/三否亭四五六確/ももみ/BJローン>https://www.youtube.com/watch?v=mXtY0ApFd40]]|
+|[[【#ストグラ切り抜き】TEPPANTの記事がさらなる火種に！？アドミゲスハンから電話が来る！？/トナカイ/千代田ヨウ/アドミゲスハン/くまぽこ/光乃アビス/BJローン>https://www.youtube.com/watch?v=Vqm-YjLHV0I]]|
+|[[【#ストグラ切り抜き】お薬大臣トナカイに朗報！？熟練度2500で新薬の可能性が浮上！？/トナカイ/加藤圧/ノアチェンバー/聖母れりあ/DEP/BJローン>https://www.youtube.com/watch?v=zmzmiOzIyZo]]|
+|[[【#ストグラ切り抜き】8000番海上ホテルで行わる体験型人狼！ゼブランド人狼に参加してみる！/トナカイ/シオコリコ/BJローン>https://www.youtube.com/watch?v=M2jQTvx8mqU]]|
+|[[【#ストグラ切り抜き】街の新しい要素が想定外の弊害に！？薬の精製所に宝探しの宝が湧く！？/トナカイ/加藤圧/聖母れりあ/千代田ヨウ/DEP/BJローン>https://www.youtube.com/watch?v=V9B94XG7774]]|
+|[[【#ストグラ切り抜き】新たなチョケの計画を相談！？グランメゾンわんもー計画始動！？/トナカイ/千代田ヨウ/牧田ここな/Bルモッチェ/BJローン>https://www.youtube.com/watch?v=F81F4qPAhO4]]|
+|[[【#ストグラ切り抜き】何も知らない名探偵たち大奮闘！？劇場版名探偵上田withブロッコリー！？/トナカイ/千代田ヨウ/牧田ここな/上田/ブロッコリー斎藤/BJローン>https://www.youtube.com/watch?v=cJb-yX8QaC0]]|
+|[[【#ストグラ切り抜き】厳しい修行に3人も驚愕！？謎の修行に参加するBJローン/トナカイ/千代田ヨウ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=vy6lIRHYeAs]]|
+|[[【#ストグラ切り抜き】街の情勢やBJローンの動きに苦悩？悩みすぎた四五六デレる！？/トナカイ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=PaMXEnOt-hE]]|
+|[[【#ストグラ切り抜き】お薬大臣ついに頂へ！？その先の景色とは！トナカイ熟練度2500達成！？/トナカイ/加藤圧/DEP/BJローン>https://www.youtube.com/watch?v=qMCER_7cs-s]]|
+|[[【#ストグラ切り抜き】BJローンについに求人応募？が！？謎の修行に参加するBJローン！？/トナカイ/千代田ヨウ/つよがりとうか/シオコリコ/BJローン>https://www.youtube.com/watch?v=I6lkW339JAI]]|
+|[[【#ストグラ切り抜き】出禁のイタリアンレストランで食い逃げ！？ここなをチョケで嵌める？トナカイたち！/トナカイ/千代田ヨウ/つよがりとうか/牧田ここな/BJローン>https://www.youtube.com/watch?v=F7iMzyOwbOE]]|
+|[[【#ストグラ切り抜き】チヨリコトナで高圧洗浄バイトへ！デートの話でリコさんに詰められる！？/トナカイ/シオコリコ/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=BBI4txB1poY]]|
+|[[【#ストグラ切り抜き】裁判のはずがなぜかジョアンナさんの取り合いに！？ジャックスvs亀山ヒロ民事裁判！/トナカイ/ブラックジャックス/亀山ヒロ/町田ジョアンナ/牧田ここな/BJローン>https://www.youtube.com/watch?v=qerF0OUucv8]]|
+|[[【#ストグラ切り抜き】新事業開始へ3人で会議！BJローン住宅ローン事業会議！/トナカイ/千代田ヨウ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=irEYhXQeoVY]]|
+|[[【#ストグラ切り抜き】新しい街が始まって3か月で心境の変化が！？トナぴぴに亀裂が走る！？/トナカイ/千代田ヨウ/三否亭四五六確/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=_O8szt_5D5A]]|
+|[[【#ストグラ切り抜き】新たな仲間を探すために面接！BJローンジャックス面接！/トナカイ/千代田ヨウ/三否亭四五六確/ブラックジャックス/BJローン>https://www.youtube.com/watch?v=SRrP-jNhI84]]|
+|[[【#ストグラ切り抜き】昨夜の相談からトナカイの様子が？トナカイ吹っ切れまくる！？/トナカイ/千代田ヨウ/三否亭四五六確/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=FCp5o70T_zQ]]|
+|[[【#ストグラ切り抜き】トナカイの想いを伝える、突然の別れへトナぴぴ袂を分かつ/トナカイ/三否亭四五六確/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=mIjo1CPQge4]]|
+|[[【#ストグラ切り抜き】新事業開始へ市長に事業相談！BJローン市長に事業相談！/トナカイ/三否亭四五六確/山下ひろし/BJローン>https://www.youtube.com/watch?v=-llV04gbye0]]|
+|[[【#ストグラ切り抜き】街を動かす新しいローンシステムの全容公開！トナカイ住宅ローンの詳細を聞く！/トナカイ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=g5LR2UFbv9E]]|
+|[[【#ストグラ切り抜き】ついに闇医者展開？暴れているとある人の情報で爆笑！？トナカイ最新の黒情報を聞く！/トナカイ/加藤圧/DEP/BJローン>https://www.youtube.com/watch?v=FBBy7QwMITs]]|
+|[[【#ストグラ切り抜き】暇すぎてチョケまくる！？いつも通りのチョケマグロたち！？クソガキ三人衆当たり屋になる！？/トナカイ/千代田ヨウ/つよがりとうか/BJローン>https://www.youtube.com/watch?v=NYbIJ5puJcE]]|
+|[[【#ストグラ切り抜き】元カノの父親と話し合い！？トナカイガヴァイさんとぴぴさんについて話す！/トナカイ/三否亭四五六確/ガヴァイアッカマン/BJローン>https://www.youtube.com/watch?v=E1fMJyKZlac]]|
+|[[【#ストグラ切り抜き】事業が進まず四五六グレる！？BJローン全員黒落ち検討！？/トナカイ/三否亭四五六確/千代田ヨウ/芳賀ノエル/月ノ島ごう/BJローン/ALLIN>https://www.youtube.com/watch?v=-ksgRWHkU6w]]|
+|[[【#ストグラ切り抜き】トナカイ半年ぶりに銃を撃つ！麻薬カルテル新犯罪に挑戦！？/トナカイ/加藤圧/聖母れりあ/小峯玲/高橋滅論/DEP/BJローン>https://www.youtube.com/watch?v=pT-ZziXq5Tc]]|
+|[[【#ストグラ切り抜き】ホワイトデーのお返し！MRIを受けてみたら衝撃の結果に！？/トナカイ/三否亭四五六確/星唄サウ汰/ももみマルフォイ/ノアチェンバー/BJローン/DEP>https://www.youtube.com/watch?v=V02Zc5MOYAE]]|
+|[[【#ストグラ切り抜き】かつての飼い犬が成犬になって帰ってきた！BJローンわおんちょき面接！/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/BJローン>https://www.youtube.com/watch?v=R0lSb4ehUGk&t=2269s]]|
+|[[【#ストグラ切り抜き】ホワイトデーの忘れ物！？思い出せないトナカイ！？チョコくれた人を忘れるトナカイ！？/トナカイ/三否亭四五六確/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=EDtDVAhSs8c]]|
+|[[【#ストグラ切り抜き】新犯罪と暴れまくる犯罪者！？大暴れのとある人に爆笑するトナカイ/トナカイ/聖母れりあ/柳瀬つん/DEP/BJローン>https://www.youtube.com/watch?v=zMZpeeMw_tE]]|
+|[[【#ストグラ切り抜き】市長との二度目の面談でついに！？BJローン念願の住宅ローン事業開始へ！/トナカイ/三否亭四五六確/千代田ヨウ/つよがりとうか/BJローン>https://www.youtube.com/watch?v=EXH3eBMTNKY]]|
+|[[【#ストグラ切り抜き】住宅ローン施行！元ALLINメンバーの不思議な話！？芳賀ノエルに別人格が！？/トナカイ/三否亭四五六確/芳賀ノエル/BJローン/ALLIN>https://www.youtube.com/watch?v=2Clg3E8V4TU]]|
+|[[【#ストグラ切り抜き】住宅ローン相談殺到！？有能新入社員が大活躍！わおんちょき商談初挑戦！/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/BJローン>https://www.youtube.com/watch?v=wBC754D834M]]|
+|[[【#ストグラ切り抜き】新入社員に住宅ローン研修！トナカイ新人研修に挑戦するも...？/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/BJローン>https://www.youtube.com/watch?v=BAewsGk9y90]]|
+|[[【#ストグラ切り抜き】住宅ローンの依頼殺到！トナカイも住宅ローン商談に初挑戦！/トナカイ/三否亭四五六確/千代田ヨウ/シオコリコ/BJローン>https://www.youtube.com/watch?v=YdIIzOsWS1U]]|
+|[[【#ストグラ切り抜き】積極的？な新規住民と交流！BJローン新規住民との相談に乗る！/トナカイ/三否亭四五六確/千代田ヨウ/ボクジュールすずり/BJローン>https://www.youtube.com/watch?v=7UUn-TVFm4Y]]|
+|[[【#ストグラ切り抜き】BJローン人員確保へ過去一真面目な面接に！？BJローンつよがりとうかを再面接！/トナカイ/三否亭四五六確/千代田ヨウ/つよがりとうか/BJローン>https://www.youtube.com/watch?v=crhzlIPtSpE]]|
+|[[【#ストグラ切り抜き】今後のBJローンを左右する重要な話し合い！BJローンとうかの合否を決める！/トナカイ/三否亭四五六確/千代田ヨウ/つよがりとうか/BJローン>https://www.youtube.com/watch?v=hjuOR58C0AU]]|
+|[[【#ストグラ切り抜き】トナカイワンオペは何かが起こる！？マクドナルドが住宅ローンの相談に！？/トナカイ/マクドナルド/BJローン>https://www.youtube.com/watch?v=tln5XGxina0&t=11s]]|
+|[[【#ストグラ切り抜き】BJローンかDEPか、トナカイの選択のために！加藤さんにDEPでの進路を相談！/トナカイ/加藤圧/三否亭四五六確/千代田ヨウ/DEP/BJローン>https://www.youtube.com/watch?v=_xVFbSOZ1lA]]|
+|[[【#ストグラ切り抜き】ついにこの街にも拠点が！BJローンついにオフィス購入へ！/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/BJローン>https://www.youtube.com/watch?v=vKoHk9-GG3Q]]|
+|[[【#ストグラ切り抜き】ブロッコリーの新事業にアドバイス！ぶろっと保険事業相談に乗る！/トナカイ/千代田ヨウ/三否亭四五六確/上田/ブロッコリー斎藤/BJローン>https://www.youtube.com/watch?v=9O46l7knuHM]]|
+|[[【#ストグラ切り抜き】あの積極的な新規住民の才能に驚愕！？すずりさんの書に驚愕する3人！/トナカイ/三否亭四五六確/千代田ヨウ/ボクジュールすずり/BJローン>https://www.youtube.com/watch?v=XmHB9ZI-nus]]|
+|[[【#ストグラ切り抜き】ついにジョブ追加！ぺしょってる加藤さん！？ヘルアンのhantasma脱退の話を聞く！/トナカイ/三否亭四五六確/千代田ヨウ/ヘルアン/DEP/BJローン/hantasma>https://www.youtube.com/watch?v=YofvSXp2p9g]]|
+|[[【#ストグラ切り抜き】多才で積極的な新規住民からの相談！BJローン音楽レーベル化へ議論！？/トナカイ/三否亭四五六確/千代田ヨウ/ボクジュールすずり/BJローン>https://www.youtube.com/watch?v=PkoijBMvUEA]]|
+|[[【#ストグラ切り抜き】元BJローンの彼と近況雑談！みつーくんとヘルアンの件を語る！/トナカイ/三島みつー/ヘルアン/BJローン/hantasma>https://www.youtube.com/watch?v=-1ppbj3Sdno]]|
+|[[【#ストグラ切り抜き】金にだらしない白市民に鉄槌！？BJローン不働めい取り立てへ！/トナカイ/三否亭四五六確/不働めい/ザ！！！コーラボーイ！！！/BJローン>https://www.youtube.com/watch?v=xuJApomK-h8]]|
+|[[【#ストグラ切り抜き】DEPの今後とトナカイの進路！加藤さんにDEPの今後について聞く！/トナカイ/加藤圧/ノアチェンバー/聖母れりあ/DEP>https://www.youtube.com/watch?v=7D6MV_TYUno]]|
+|[[【#ストグラ切り抜き】あまりにも的確な占いに爆笑！？ろぎあさんに4月の運勢を占ってもらう！/トナカイ/三否亭四五六確/千代田ヨウ/香月ろぎあ/BJローン>https://www.youtube.com/watch?v=WE_0E4kMPxs]]|
+|[[【#ストグラ切り抜き】"あの男"がついに帰還！安城に最近のロスサントスを共有！/トナカイ/三否亭四五六確/安城成/BJローン>https://www.youtube.com/watch?v=maXQwlZ55rM]]|
+|[[【#ストグラ切り抜き】カジノから緊急SOS！？謎のハンバーガーに翻弄されるBJローン！？/トナカイ/千代田ヨウ/MonD/三島みつー/BJローン>https://www.youtube.com/watch?v=MptiaQOQMfw&t=1789s]]|
+|[[【#ストグラ切り抜き】あの白市民の見違えた姿に驚愕！？不働めいマネージャーに転身！？/トナカイ/千代田ヨウ/不働めい/ザ！！！コーラボーイ！！！/BJローン>https://www.youtube.com/watch?v=lixKKEVhhEM]]|
+|[[【#ストグラ切り抜き】ついに薬の売買を開始！トナカイもお手伝いへ！トナカイついにDEPなことがバレる！？/トナカイ/加藤圧/ノアチェンバー/聖母れりあ/DEP>https://www.youtube.com/watch?v=Vj2TJPWkUfw]]|
+#table_autoincrement(){label=#}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion
+
+&font(b,13pt){BJローン編（DEP休職）}
+#region(close)
+#size(80%){#table_style(head=#6283C2:#FFFFFF)
+| &color(#FFFFFF){動画タイトル(youtube)}|H
+|[[【#ストグラ切り抜き】レアなちょきトナ回！ちょきさん初の占いへ！初の占いでボコボコにされるちょきさん！？/トナカイ/わおんちょき/青梅つばめ/BJローン>https://www.youtube.com/watch?v=wcXWWmOqtF0]]|
+|[[【#ストグラ切り抜き】白市民認定証をある人に多数発行！？まさかの警察汚職疑惑！？/トナカイ/三否亭四五六確/シオコリコ/真島ルイ/BJローン>https://www.youtube.com/watch?v=OhGnz4tCgKo]]|
+|[[【#ストグラ切り抜き】繁盛店の店長の裏の顔！？牧田ここなの怪しい動き！？/トナカイ/三否亭四五六確/牧田ここな/BJローン>https://www.youtube.com/watch?v=TD7-sPgnw0c]]|
+|[[【#ストグラ切り抜き】謎にチンチロに強いBJローン！？ずっと気まずいチヨトナぴぴ！？/トナカイ/千代田ヨウ/猫又ぴぴ/BJローン>https://www.youtube.com/watch?v=wuY_e3knu50]]|
+|[[【#ストグラ切り抜き】構成員目線のヘルアンの言動行動に驚愕！？ヘルアンの件についてくまぽこの思いは/トナカイ/くまぽこ/ヘルアン/hantasma/BJローン>https://www.youtube.com/watch?v=uNu7d1ggGNE&t=826s]]|
+|[[【#ストグラ切り抜き】暇つぶしで始めた活動が大盛況！？かもめの郵便屋さんで街の温かさに触れる！？/トナカイ/伊勢えびす/パンちゃん/くまぽこ/パキち/山田パルコ/真島ルイ/天近くるみ>https://www.youtube.com/watch?v=R-mqqwxNw-I&t=3858s]]|
+|[[【#ストグラ切り抜き】パッションすぎるパワープレー裁判！？不法入国の上田の裁判を傍聴！/トナカイ/マクドナルド/上田>https://www.youtube.com/watch?v=k4iGkTl8JSM]]|
+|[[【#ストグラ切り抜き】カジノで遭遇した彼が衝撃の告白！？ダブルチーズバーガー（？）返済拒否！？/トナカイ/三否亭四五六確/千代田ヨウ/MonD/BJローン>https://www.youtube.com/watch?v=AdpMn_bbXrk]]|
+|[[【#ストグラ切り抜き】白市民の彼女からとんでもない発言が！？咲さんから住宅ローンの相談を受ける！/トナカイ/三否亭四五六確/千代田ヨウ/姫野咲/BJローン>https://www.youtube.com/watch?v=I_FtADYFaa0]]|
+|[[【#ストグラ切り抜き】返済期日の彼が案の定逃走へ！？ダブルチーズバーガー（？）逃走編！？/トナカイ/MonD/BJローン>https://www.youtube.com/watch?v=kuG5H8vd0ts]]|
+|[[【#ストグラ切り抜き】ついにるいさんが住宅ローンを利用！るいさんの購入物件に驚愕するトナカイ！？/トナカイ/叢雲るい/BJローン>https://www.youtube.com/watch?v=fA4Uu2xhfcY]]|
+|[[【#ストグラ切り抜き】チルい酒場が突如修羅場に変貌！？魔女の酒場で巻き込まれるトナカイ！？/トナカイ/大川/小峯玲/惑朽ルーシー/BJローン>https://www.youtube.com/watch?v=pOI1z0Al5K0]]|
+|[[【#ストグラ切り抜き】個人医解雇の件を聞いたブロが衝撃の提案！？ブロッコリー斎藤革命を企てる！？/トナカイ/ブロッコリー斎藤/BJローン>https://www.youtube.com/watch?v=eT8h93twkAU]]|
+|[[【#ストグラ切り抜き】ルーシーのノヴァ脱退の件をチヨに共有！ノヴァの所業と白戻りについて何を語る？/トナカイ/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=EbdhDOZ6tSo]]|
+|[[【#ストグラ切り抜き】とうかからの謎のメッセージに困惑！？トナカイなぜか○んだことに！？/トナカイ/三否亭四五六確/わおんちょき/つよがりとうか/BJローン>https://www.youtube.com/watch?v=jvXnbhF9bz4]]|
+|[[【#ストグラ切り抜き】住宅ローン滞納！？渡戸リーさんけんつにキレる！？/トナカイ/三否亭四五六確/千代田ヨウ/飯田けんつ/渡戸リー/BJローン>https://www.youtube.com/watch?v=dmllADmReQA]]|
+|[[【#ストグラ切り抜き】DEP協力者からついに逮捕者が！？薬売買の護衛が逮捕される！？！/トナカイ/ノアチェンバー/三否亭四五六確/千代田ヨウ/DEP/BJローン>https://www.youtube.com/watch?v=d5kqR-EMvvI]]|
+|[[【#ストグラ切り抜き】トナカイの疑問をみんなに質問！ロスサントス世論調査！？/トナカイ/ノアチェンバー/なんばてって/もりるんるん/BJローン>https://www.youtube.com/watch?v=Fk-bcSQGNi8]]|
+|[[【#ストグラ切り抜き】悩める乙女をおちょくるトナカイ！？リコさんの仕返し計画を一緒に練ることに！？/トナカイ/三否亭四五六確/シオコリコ/BJローン>https://www.youtube.com/watch?v=Etuipj_nD3Q&t=291s]]|
+|[[【#ストグラ切り抜き】だよくんのノンデリがここなに直撃！？だよくんの驚愕ノンデリ発言に爆笑！？/トナカイ/三否亭四五六確/牧田ここな/堕夜だよ/BJローン>https://www.youtube.com/watch?v=WGRZC0pCU-s]]|
+|[[【#ストグラ切り抜き】最近活発なDEPと警察との接触についてれりあさんからDEP関連の共有を受ける！/トナカイ/三否亭四五六確/わおんちょき/聖母れりあ/DEP/BJローン>https://www.youtube.com/watch?v=UKHS0hWY2Y8]]|
+|[[【#ストグラ切り抜き】大川さんからレビューの依頼？大川さんの新ツールに驚愕するBJローン！？/トナカイ/三否亭四五六確/千代田ヨウ/大川/BJローン>https://www.youtube.com/watch?v=bBXtwkf3o08]]|
+|[[【#ストグラ切り抜き】パンチャンが新たなローンを開設！？OMNローンの内容に爆笑するトナカイ！？/トナカイ/三否亭四五六確/パンチャン/BJローン>https://www.youtube.com/watch?v=w3JPGC2rzUk]]|
+|[[【#ストグラ切り抜き】星詠あうさんに占いを依頼！占いセカンドオピニオンで衝撃の結果が！？/トナカイ/三否亭四五六確/星詠あう/BJローン>https://www.youtube.com/watch?v=SEvlW8rNYUM]]|
+|[[【#ストグラ切り抜き】魔女の酒場は空前のラブタイプ診断ブーム！？トナカイ、ぴぴさんにぼこぼこに言われる！？/トナカイ/猫又ぴぴ/つよがりとうか/天近くるみ/小峯玲/BJローン>https://www.youtube.com/watch?v=-3QNjKmGA2c]]|
+|[[【#ストグラ切り抜き】DEPのチャットに衝撃の内容が！？DEPのメンバーついに警察にバレる！？/トナカイ/ゆちゃめろでぃ/ボクジュールすずり/叢雲るい/DEP/BJローン>https://www.youtube.com/watch?v=JhwgC88woMc]]|
+|[[【#ストグラ切り抜き】トナカイが増えた？盗難車に乗るコーラボーイ！？お兄ちゃんと呼ぶ謎のトナカイと出会う！？/トナカイ/コーラボーイ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=55Fmn5J2mfQ]]|
+|[[【#ストグラ切り抜き】とうかと一緒に”女”を探す！？無敵すぎるとうかに爆笑するトナカイ！？/トナカイ/つよがりとうか/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=CfydbOkOXgA]]|
+|[[【#ストグラ切り抜き】滞納超過でついにBJローンが動く！初の住宅差し押さえに踏み切ることに！/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/マクドナルド/ジョアンナ町田/BJローン>https://www.youtube.com/watch?v=kdByiKuEC1c]]|
+|[[【#ストグラ切り抜き】この街にBJローンに関わる新たな法律が！？BJローン市指定金融機関になる！？/トナカイ/三否亭四五六確/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=X8gAs4jGpQI&t=1903s]]|
+|[[【#ストグラ切り抜き】郵便屋さん久々の出番！？ロスサントスで呪いの手紙計画！？/トナカイ/小峯玲/ガヴァイアッカマン>https://www.youtube.com/watch?v=da_xFWq_laU]]|
+|[[【#ストグラ切り抜き】セイジさんからBJローンに緊急SOS！？丘猫まるの債権買取依頼が来る！？/トナカイ/文殊セイジ/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=OKtFOfOXzuA]]|
+|[[【#ストグラ切り抜き】ハンバーガー（？）さんがまたも一波乱！？コーラボーイにローン説明するトナカイ！/トナカイ/コーラボーイ/千代田ヨウ/MonD/あうとくるーど/BJローン>https://www.youtube.com/watch?v=bnTOcmIvImM]]|
+|[[【#ストグラ切り抜き】金融の法律について市長に確認！市の指定金融はBJローンなのか？/トナカイ/文殊セイジ/山下ひろし/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=lH7bdM32GEU]]|
+|[[【#ストグラ切り抜き】高額債務者ついにバーストへ！？アウトくるーど指名手配に踏み切る！/トナカイ/三否亭四五六確/千代田ヨウ/アウトくるーど/BJローン>https://www.youtube.com/watch?v=-1JhhaRoATA]]|
+|[[【#ストグラ切り抜き】BJローンは違法か合法か？利息制限法について市長に確認！/トナカイ/三否亭四五六確/千代田ヨウ/山下ひろし/BJローン>https://www.youtube.com/watch?v=H1BxCz7ULKw]]|
+|[[【#ストグラ切り抜き】名推理で大捜索！？名探偵ちょき大活躍！？/トナカイ/わおんちょき/アウトくるーど/BJローン>https://www.youtube.com/watch?v=1uorUarX40g]]|
+|[[【#ストグラ切り抜き】債務者が街で大暴れ！？警察を巻き込む大戦争に！？アウトくるーど大追跡！/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/アウトくるーど/BJローン>https://www.youtube.com/watch?v=etwayN8ZiGo]]|
+|[[【#ストグラ切り抜き】追跡劇の中の一幕！初プリズンから大ごとに！？千代田ヨウBJローンから失踪！？/トナカイ/三否亭四五六確/千代田ヨウ/シオコリコ/BJローン>https://www.youtube.com/watch?v=5-y_R7mJ8Ew]]|
+|[[【#ストグラ切り抜き】宗介さん主催のキャバで大量の債務者が！？BJローンキャバクラ客に貸付へ！/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/佐藤あま/BJローン>https://www.youtube.com/watch?v=B6fnznk_m8c]]|
+|[[【#ストグラ切り抜き】ジャックス新たな事業をスタート！？新金融設立へBJローンに協力打診！？/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/ブラックジャックス/チンピラ/BJローン>https://www.youtube.com/watch?v=XeKO0CBvMZU]]|
+|[[【#ストグラ切り抜き】DEPついに資金が目標額を達成！？麻薬カルテル新アジトに驚愕！？/トナカイ/聖母れりあ/DEP>https://www.youtube.com/watch?v=H3bLJAvEI5E]]|
+|[[【#ストグラ切り抜き】新たな火種を植えにいくトナカイ！？リコさんのデート服を一緒に選ぶ！？/トナカイ/シオコリコ/上田/BJローン>https://www.youtube.com/watch?v=tUtA7y7vCrg&t=2232s]]|
+|[[【#ストグラ切り抜き】聞き覚えのある人との邂逅！？野間さんと西のノリに翻弄される！？/トナカイ/野間けんき/元難波芽久未/銭形やいち郎/BJローン>https://www.youtube.com/watch?v=DDT_4eZwmnY]]|
+|[[【#ストグラ切り抜き】久々のTEPPANT出動！？謎のコンサルを受けて爆笑！？/トナカイ/三否亭四五六確/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=LwDtVf56yOg]]|
+|[[【#ストグラ切り抜き】小峯さんからBJローンにご要望！？魔女酒で最近のロスサントスを雑談！/トナカイ/三否亭四五六確/千代田ヨウ/小峯玲/もりるんるん/マイゴ・ニ＝ナリエル/BJローン>https://www.youtube.com/watch?v=m9LMPV0poI8]]|
+|[[【#ストグラ切り抜き】ついに白市民パスの取得が可能に！トナカイついに白市民パスを申請！？/トナカイ/元難波芽久未/川上たばこ店/BJローン>https://www.youtube.com/watch?v=oppcny1SdBk]]|
+|[[【#ストグラ切り抜き】初対面なのに適当すぎるトナカイ！？リアステファニーとサッカー観戦！/トナカイ/リアステファニー/BJローン>https://www.youtube.com/watch?v=lqh6Gq9OZo8]]|
+|[[【#ストグラ切り抜き】バーガー屋解体でシリアスが！？コーラボーイからバーガー屋とカイキの話を聞く！/トナカイ/千代田ヨウ/ザ!!!コーラボーイ!!!/シオコリコ/BJローン>https://www.youtube.com/watch?v=ob671Zj1_kI&t=706s]]|
+|[[【#ストグラ切り抜き】勤勉な住宅ローン利用者からまさかの連絡！？ラグランジュさん支払い拒否！？/トナカイ/千代田ヨウ/ラグランジュ光芝/BJローン>https://www.youtube.com/watch?v=xqoFG52NiD4]]|
+|[[【#ストグラ切り抜き】アパート前で大銃撃戦が！？餡ブレラvs警察の話を聞く！/トナカイ/小峯玲/猫又ぴぴ/不働めい/ブラックジャックス/BJローン>https://www.youtube.com/watch?v=uttqzed6ewI]]|
+|[[【#ストグラ切り抜き】キャバクラで散財した白市民にドッキリ！？佐糖あまの借金取り立てに動く！/トナカイ/佐糖あま/ライジングサン宗介/BJローン>https://www.youtube.com/watch?v=QNamemdk-8c]]|
+|[[【#ストグラ切り抜き】暇を持て余したトナカイはコスプレに走る！？カイト中居で釣りするトナカイ！？/トナカイ/町田ジョアンナ/星唄サウ汰/BJローン>https://www.youtube.com/watch?v=pcWI9rUI_BE]]|
+|[[【#ストグラ切り抜き】欲しがり(？)なここなと仲間たちと行く！爆笑？初めてのオイルリグバイト！/トナカイ/牧田ここな/なんばてって/星唄サウ汰/BJローン>https://www.youtube.com/watch?v=Ad-RRTOEI0A]]|
+|[[【#ストグラ切り抜き】BJローンの手を離れて大事件に！？丘猫まるvs文殊セイジ思わぬ展開へ！？/トナカイ/牧田ここな/文殊セイジ/丘猫まる/星唄サウ汰/BJローン>https://www.youtube.com/watch?v=zGAd_RLpLm8&t=1394s]]|
+|[[【#ストグラ切り抜き】双方が得をする展開！？丘猫まるの債権の衝撃の顛末（？）/トナカイ/三否亭四五六確/千代田ヨウ/文殊セイジ/丘猫まる/BJローン>https://www.youtube.com/watch?v=N-uwwsdF1so&t=828s]]|
+|[[【#ストグラ切り抜き】釣りの達人のごうさんから熱い提案が！？ごうさんから車のローンの協力依頼！？/トナカイ/三否亭四五六確/千代田ヨウ/月ノ島ごう/BJローン>https://www.youtube.com/watch?v=pKAUS_8EUU4]]|
+|[[【#ストグラ切り抜き】トナカイはお薬大臣から釣り大臣に！？空前の釣りブームに苦言ありな四五六！？/トナカイ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=H2reT7RgYyw]]|
+|[[【#ストグラ切り抜き】トナカイの気になることを街中で大調査！BJローンに合いそうな住民は誰？/トナカイ/柚乃いずみ/二部らるたる/惑朽ルーシー/BJローン>https://www.youtube.com/watch?v=SWc1Hulo32A]]|
+|[[【#ストグラ切り抜き】キャバクラで散財した白市民にドッキリ！？佐糖あまの借金取り立てに動く！/トナカイ/佐糖あま/ライジングサン宗介/BJローン>https://www.youtube.com/watch?v=kwvTl7PpALw]]|
+|[[【#ストグラ切り抜き】大型案件(？)襲来！取り立てるのは元ALLIN！？BJローン天草蒼の債権を買い取り！？/トナカイ/チンピラ/天草蒼/わおんちょき/BJローン>https://www.youtube.com/watch?v=kwvTl7PpALw]]|
+|[[【#ストグラ切り抜き】またもあの公務員がBJローンに借金！？ゆたんぽ詰められる可能性あり！？/トナカイ/ゆたんぽ/福田明宏/くまぽこ/BJローン>https://www.youtube.com/watch?v=gwMTEGRCLTI]]|
+|[[【#ストグラ切り抜き】あのタバコを知らないチヨを二人で糾弾！？唐突に始まるALLINクイズ！？/トナカイ/三否亭四五六確/千代田ヨウ/BJローン/ALLIN>https://www.youtube.com/watch?v=asBm9TwkU7w]]|
+|[[【#ストグラ切り抜き】管理シートに記録ミスしたのは一体誰？記録ミスの犯人探しで大きな問題が発覚！？/トナカイ/三否亭四五六確/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=IQJnQjJc-sM]]|
+|[[【#ストグラ切り抜き】今月も星詠あうさんに6月を占ってもらうことに！トナカイに足りないのは愛だった！？/トナカイ/星詠あう/わおんちょき/BJローン>https://www.youtube.com/watch?v=46CmWAnAXMY&t=1672s]]|
+|[[【#ストグラ切り抜き】ある女の子の頼みで散財したブロに依頼！脇逢魔の弱みを探れ！？/トナカイ/ブロッコリー斎藤/三否亭四五六確/千代田ヨウ/脇逢魔/BJローン>https://www.youtube.com/watch?v=u0cLlISMCOg]]|
+|[[【#ストグラ切り抜き】管理シートの記録ミスの件で進展が！記録ミスの犯人ついに特定！？/トナカイ/三否亭四五六確/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=tHbQLoDpA2Y]]|
+|[[【#ストグラ切り抜き】男の謝罪天草に面会拒否なチンピラ！？天草取り立てに奔走するBJローン！？/トナカイ/チンピラ/天草蒼/三否亭四五六確/千代田ヨウ/わおんちょき/BJローン>https://www.youtube.com/watch?v=EtX_ij_wWJs]]|
+|[[【#ストグラ切り抜き】チョケの準備中に特大シリアスが！？リコさんから絶縁の連絡が！？/トナカイ/千代田ヨウ/シオコリコ/BJローン>https://www.youtube.com/watch?v=_qnZQ4s5Yns]]|
+|[[【#ストグラ切り抜き】返済期日に何やら不穏な動き！？ゆたんぽUGMに立てこもり！？/トナカイ/ゆたんぽ/ブロッコリー斎藤/BJローン>https://www.youtube.com/watch?v=7tGt4qZW06s]]|
+|[[【#ストグラ切り抜き】謎のチヨの告発にひっかきまわす四五六！？BJローン喧嘩から裁判へ！？/トナカイ/三否亭四五六確/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=_2xih0Vkulk]]|
+|[[【#ストグラ切り抜き】とうかの提案をBJローンで議論！BJローンBM洗浄代行に手を出す！？/トナカイ/三否亭四五六確/千代田ヨウ/つよがりとうか/BJローン>https://www.youtube.com/watch?v=E1XVngbx2eE]]|
+|[[【#ストグラ切り抜き】暇すぎておかしくなったチヨ！？ここな店長衛星がうますぎる！？/トナカイ/千代田ヨウ/牧田ここな/BJローン>https://www.youtube.com/watch?v=JReVcpjMB1o]]|
+|[[【#ストグラ切り抜き】金にだらしないあの彼女は今や会社の代表！？不働めいまたもお金を借りに来る！？/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/不働めい/BJローン>https://www.youtube.com/watch?v=LsgNzBWJYQA]]|
+|[[【#ストグラ切り抜き】最近警察に復職した彼に取り立て！ブロッコリーに1週間の成果を聞く！/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/ブロッコリー斎藤/BJローン>https://www.youtube.com/watch?v=JNOZXO7sEkg&t=1140s]]|
+|[[【#ストグラ切り抜き】船を購入して一人で海釣り！トナカイ無限釣りで荒稼ぎなるか！？/トナカイ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=FYbvRMREW5o]]|
+|[[【#ストグラ切り抜き】あまりに不憫な警察に同情！？犯罪が多すぎて通知音でノイローゼに！？/トナカイ/千代田ヨウ/味野環九郎/BJローン>https://www.youtube.com/watch?v=ZxMNFtpJVMo]]|
+|[[【#ストグラ切り抜き】正義感に燃える（暇な）チヨ！チヨトナ犯罪現場に乗り込む！？/トナカイ/千代田ヨウ/牧田ここな/BJローン>https://www.youtube.com/watch?v=CB6B1M4wZX8]]|
+|[[【#ストグラ切り抜き】正装に整えて結婚式へ！BJローン上田あげころの結婚式に出席！/トナカイ/三否亭四五六確/わおんちょき/上田/揚物ころも/BJローン>https://www.youtube.com/watch?v=Y1UR4Q3GOMc]]|
+|[[【#ストグラ切り抜き】返済期日まで残り数日の彼女に遭遇！不働めいに返済について詰めてみる！/トナカイ/三否亭四五六確/わおんちょき/不働めい/BJローン>https://www.youtube.com/watch?v=lJOX8X4q-tI]]|
+|[[【#ストグラ切り抜き】この街に新たな風をBJローンが吹かせる！？BJローン信託銀行事業をスタート！/トナカイ/三否亭四五六確/安城成/牧田ここな/ザ!!!コーラボーイ!!!/BJローン>https://www.youtube.com/watch?v=FiiXGNyxCsQ]]|
+|[[【#ストグラ切り抜き】返済してないのにボドゲで遊ぶ彼女に遭遇！？破滅の未来しか見えない不働めい！？/トナカイ/三否亭四五六確/安城成/不働めい/BJローン>https://www.youtube.com/watch?v=ll8vwxjbFAo]]|
+|[[【#ストグラ切り抜き】全てを持たない男が一世一代の大博打に！？じょばに過去最高金額を貸し付ける！？/トナカイ/三否亭四五六確/ぎちょう・じょばぁーな/チンピラ/BJローン>https://www.youtube.com/watch?v=4Gsfuq3M-LA]]|
+|[[【#ストグラ切り抜き】あまりに場違いなところに呼ばれた四五六！？BJローン黒組織とのつながりができる！？/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/BJローン>https://www.youtube.com/watch?v=FluSG4z8kGM]]|
+|[[【#ストグラ切り抜き】信託銀行を開始して初の決算日！BJローン信初めての決算報告！/トナカイ/三否亭四五六確/安城成/BJローン>https://www.youtube.com/watch?v=caHdTZjTf20]]|
+|[[【#ストグラ切り抜き】新たな入社希望者はたくましすぎるアイドル！？BJローンアイドル部門発足！？/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/ヤシャロア/BJローン>https://www.youtube.com/watch?v=p_c9A1gL-Hc]]|
+|[[【#ストグラ切り抜き】元ALLINで元個人医ついに！？トナカイ白市民パスを取得する！？/トナカイ/安城成/BJローン>https://www.youtube.com/watch?v=Xel55n0CxRg]]|
+|[[【#ストグラ切り抜き】キャップ土下座入店！？牧田ここな白パス申請通らず激昂！？/トナカイ/三否亭四五六確/千代田ヨウ/牧田ここな/BJローン>https://www.youtube.com/watch?v=6cqMbEP6ydc&t=1591s]]|
+
+
+#table_autoincrement(){label=#}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion
+
+&font(b,13pt){BJローンin BJ水産編（DEP休職）}
+#region(close)
+#size(80%){#table_style(head=#6283C2:#FFFFFF)
+| &color(#FFFFFF){動画タイトル(youtube)}|H
+|[[【#ストグラ切り抜き】トナカイもついにビジネスマンへ！？トナカイBJ水産をスタートする！？/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/ボクジュールすずり/BJローン>https://www.youtube.com/watch?v=m7BeTQDVLm0]]|
+|[[【#ストグラ切り抜き】ホスピタリティの足りない運用に四五六から叱咤激励！？BJローン事業会議で意識共有！/トナカイ/三否亭四五六確/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=FR1Kuk82dHc]]|
+|[[【#ストグラ切り抜き】街の黒い秘匿組織とBJローンで協議！BJローン黒部門秘匿組織にヒアリング！/トナカイ/三否亭四五六確/千代田ヨウ/聖母れりあ/クリス・リエン/加藤圧/BJローン>https://www.youtube.com/watch?v=ceGdhClJDdg&t=336s]]|
+|[[【#ストグラ切り抜き】ガチ投資家警官も大絶賛！？BJ信託銀行警察が口座開設！？/トナカイ/三否亭四五六確/ましゃかりトラボルタ/BJローン>https://www.youtube.com/watch?v=y1CBOBLUzHw&t=328s]]|
+|[[【#ストグラ切り抜き】ついにローン事業を独立へ！BJローン単体でローン事業を展開開始！/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/ヤシャロア/BJローン>https://www.youtube.com/watch?v=3qLok4oMA3E]]|
+|[[【#ストグラ切り抜き】BJ水産大盛況！の裏でヤシャロア産業スパイ疑惑浮上！？/トナカイ/三否亭四五六確/安城成/ヤシャロア/BJローン>https://www.youtube.com/watch?v=YVt2jc283lM]]|
+|[[【#ストグラ切り抜き】マイカーローンも大盛況！不働めいローンで4000万の車を買う！？/トナカイ/三否亭四五六確/安城成/不働めい/ザ!!!コーラボーイ!!!/BJローン>https://www.youtube.com/watch?v=a5olJmI2nA8]]|
+|[[【#ストグラ切り抜き】BJローン黒部門でヒアリング！小峯さんと黒事業について話し合い！/トナカイ/三否亭四五六確/千代田ヨウ/安城成/小峯玲/BJローン>https://www.youtube.com/watch?v=8_bBCwpu-28]]|
+|[[【#ストグラ切り抜き】新たな事業も始まって早一週間！トナカイ個人面談を受ける！/トナカイ/三否亭四五六確/安城成/ヤシャロア/BJローン>https://www.youtube.com/watch?v=3sc6pkfr5lM]]|
+|[[【#ストグラ切り抜き】今週はトナカイ大活躍！？BJ信託銀行二度目の決算報告！/トナカイ/三否亭四五六確/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=Cckam3WG-Mk]]|
+|[[【#ストグラ切り抜き】事業好調で嬉しい悲鳴！？BJ水産大盛況で大忙し！？/トナカイ/ボクジュールすずり/不働めい/BJローン>https://www.youtube.com/watch?v=jc1bOD1YwVw]]|
+|[[【#ストグラ切り抜き】新入社員地道に大活躍！ヤシャロア初のローン対応！/トナカイ/三否亭四五六確/安城成/ヤシャロア/BJローン>https://www.youtube.com/watch?v=xd1KiYGhwT4]]|
+|[[【#ストグラ切り抜き】新入社員にいたずら？安城とトナカイでヤシャロアを問い詰める！？/トナカイ/安城成/ヤシャロア/BJローン>https://www.youtube.com/watch?v=aNeS93kYzac]]|
+|[[【#ストグラ切り抜き】真面目に仕事してる裏で事件が？安城とヤシャロアに事情聴取！/トナカイ/三否亭四五六確/安城成/ヤシャロア/BJローン>https://www.youtube.com/watch?v=ikDa9t4r8SU]]|
+|[[【#ストグラ切り抜き】釣りのナーフで廃業の危機！？BJ水産大打撃を受ける！？/トナカイ/三否亭四五六確/安城成/わおんちょき/BJローン>https://www.youtube.com/watch?v=k5q7n6ssA7I]]|
+|[[【#ストグラ切り抜き】トナカイの考えと四五六の懸念！BM洗浄代行を再考する！/トナカイ/三否亭四五六確/安城成/BJローン>https://www.youtube.com/watch?v=03raPPyt84A]]|
+|[[【#ストグラ切り抜き】ヤバッキオとの商談でヤシャロア大苦戦！？BJローン初の事業融資へ！？/トナカイ/三否亭四五六確/安城成/ヤシャロア/わおんちょき/パキち/蒲田ヤバッキオ/BJローン>https://www.youtube.com/watch?v=uk3Qj7ZCLDQ]]|
+|[[【#ストグラ切り抜き】BJローン入りを熱望する彼女が襲来！？くまぽこに再試験することに！？/トナカイ/三否亭四五六確/安城成/ヤシャロア/わおんちょき/パキち/くまぽこ/BJローン>https://www.youtube.com/watch?v=yOwFiVaExOY]]|
+|[[【#ストグラ切り抜き】BJ水産存続のために！トナカイ釣りを検証する！/トナカイ/レイジー・ルードマン/ボクジュールすずり/BJローン>https://www.youtube.com/watch?v=g2Q3PGR8B2c]]|
+|[[【#ストグラ切り抜き】BM洗浄代行検討のために体を張る！？トナカイBM洗浄場所張り込み！？/トナカイ/BJローン>https://www.youtube.com/watch?v=9gBUgpajNmY]]|
+|[[【#ストグラ切り抜き】まさかの滞納をした店長に制裁！？牧田ここなに取り立てにいく！/トナカイ/三否亭四五六確/安城成/ヤシャロア/牧田ここな/BJローン>https://www.youtube.com/watch?v=1FrW4fH-0pY]]|
+|[[【#ストグラ切り抜き】白市民ぱすが取れない店長！？合否の結果を家族度総出で確認しに行く！！/トナカイ/安城成/ハクナツメ/ましゃかりトラボルタ/牧田ここな/BJローン>https://www.youtube.com/watch?v=U5zshvj_3ew]]|
+|[[【#ストグラ切り抜き】BM洗浄場所でBM盗難事件！？トナカイB銃撃戦に巻き込まれる！？/トナカイ/つよがりとうか/BJローン>https://www.youtube.com/watch?v=j4vPx59KKvk]]|
+|[[【#ストグラ切り抜き】ついにBJローンフルメンバーに！なののなのついに起床！？/トナカイ/三否亭四五六確/安城成/ヤシャロア/なののなの/BJローン>https://www.youtube.com/watch?v=E1rrESRoZi0]]|
+|[[【#ストグラ切り抜き】メイドカフェに視察へ！くまぽこの働きぶりに驚愕！？/トナカイ/ゆたんぽ/くまぽこ/BJローン>https://www.youtube.com/watch?v=jFJFf9E5uxU]]|
+|[[【#ストグラ切り抜き】オーナー誕生日記念のスロット！？45万スロットで破滅する人たち！？/トナカイ/三否亭四五六確/安城成/ジョーカー/星詠あう/BJローン>https://www.youtube.com/watch?v=W9eGUuK2sCw&t=680s]]|
+|[[【#ストグラ切り抜き】水産下火の影響はいかに！BJローン今週の決算は？/トナカイ/三否亭四五六確/安城成/BJローン>https://www.youtube.com/watch?v=jDxf4adU6Rg]]|
+|[[【#ストグラ切り抜き】見違えるほど綺麗な上田に遭遇！？上田借金ジャンプ宣言！？/トナカイ/三否亭四五六確/千代田ヨウ/安城成/BJローン>https://www.youtube.com/watch?v=_Jedf8r6QIU]]|
+#table_autoincrement(){label=#}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion
+
+&font(b,13pt){BJローンin BJ水産&黒部門編（DEP休職）}
+#region(close)
+#size(80%){#table_style(head=#6283C2:#FFFFFF)
+| &color(#FFFFFF){動画タイトル(youtube)}|H
+|[[【#ストグラ切り抜き】武器屋全員とついに顔合わせ！BJローン黒部門ついに始動！/トナカイ/三否亭四五六確/千代田ヨウ/ティエリ・ブッシュ/FEMME FATALE/BJローン>https://www.youtube.com/watch?v=o-TBzxRY_2Q]]|
+|[[【#ストグラ切り抜き】あのハンバーガーが不動産を購入！？船着きを購入する者が現れる！？/トナカイ/三否亭四五六確/安城成/ヤシャロア/ALLIN/BJローン>https://www.youtube.com/watch?v=BS-LmVaCNWo]]|
+|[[【#ストグラ切り抜き】BM洗浄代行事業ついに始動！トナカイ初めてBM洗浄をやってみる！/トナカイ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=s-Kb2BjZRj8]]|
+|[[【#ストグラ切り抜き】オークションの裏で大事件が！？飯田オークションでカイキが詰められる！？/トナカイ/三否亭四五六確/千代田ヨウ/パキち/山田カイキ/BJローン>https://www.youtube.com/watch?v=TWtqW4erToM]]|
+|[[【#ストグラ切り抜き】資料動画に爆笑！？ヤバッキオの事業説明を見る！/トナカイ/三否亭四五六確/安城成/ヤシャロア/蒲田ヤバッキオ/BJローン>https://www.youtube.com/watch?v=vXNcylyixIo]]|
+|[[【#ストグラ切り抜き】濃密すぎる1週間に驚愕！？BMの取り扱いについて議論する！/トナカイ/三否亭四五六確/千代田ヨウ/安城成/ヤシャロア/わおんちょき/BJローン>https://www.youtube.com/watch?v=bLg91EcNpOw&t=563s]]|
+|[[【#ストグラ切り抜き】BJ水産追い風の情報が！？釣りジョブ化？の話を聞く！/トナカイ/三否亭四五六確/千代田ヨウ/安城成/ヤシャロア/わおんちょき/BJローン>https://www.youtube.com/watch?v=h9OPBXXOE_k]]|
+|[[【#ストグラ切り抜き】アイドルのほうで進展が！ヤシャロアからアイドルの進捗を聞く！/トナカイ/三否亭四五六確/千代田ヨウ/安城成/ヤシャロア/わおんちょき/BJローン>https://www.youtube.com/watch?v=IelE_3Jl0YU]]|
+|[[【#ストグラ切り抜き】BJローンの日常！ネイルサロンでみんなギャルに！？/トナカイ/三否亭四五六確/千代田ヨウ/安城成/ヤシャロア/わおんちょき/BJローン>https://www.youtube.com/watch?v=XrPsuvrVp1s]]|
+|[[【#ストグラ切り抜き】ついに船着き購入が完了！？あのハンバーガーさんの真意とは！？/トナカイ/三否亭四五六確/安城成/ヤシャロア/MonD/ALLIN/BJローン>https://www.youtube.com/watch?v=RJHgzk8Le5s]]|
+|[[【#ストグラ切り抜き】1億を貸し付けたトラブルメイカー返済せず！？滞納の上田逃走確定！？/トナカイ/三否亭四五六確/千代田ヨウ/上田/BJローン>https://www.youtube.com/watch?v=sACXjbPBztc]]|
+|[[【#ストグラ切り抜き】よく店を空ける店長にいたずら！？わんも～でゴミ箱で潜むトナカイ！？/トナカイ/牧田ここな/BJローン>https://www.youtube.com/watch?v=0L2ThJx04bs]]|
+|[[【#ストグラ切り抜き】見慣れない名前に驚愕！？メカニックに予想外の人物が！？/トナカイ/三否亭四五六確/ヤシャロア/無馬かな/BJローン>https://www.youtube.com/watch?v=7Jjn5yQnsm0]]|
+|[[【#ストグラ切り抜き】BJ水産下火と思いきやリピーター多数！？ヤシャロアBJ水産業務初体験！/トナカイ/三否亭四五六確/ヤシャロア/ボクジュールすずり/BJローン>https://www.youtube.com/watch?v=IWy9BzmsiyU&t=17s]]|
+|[[【#ストグラ切り抜き】最近見ないある住民はどこへ？ゆちゃさんの行方について話を聞く！/トナカイ/岐阜野こみ蔵/ゆちゃめろでぃ/BJローン>https://www.youtube.com/watch?v=YVO2TpUdI0E]]|
+|[[【#ストグラ切り抜き】ついにアイドルがデビュー！応援に行くものの究極の選択を迫られるトナカイ！？/トナカイ/三否亭四五六確/わおんちょき/ヤシャロア/SECRET/BJローン>https://www.youtube.com/watch?v=OrxI5La83os]]|
+|[[【#ストグラ切り抜き】チヨから衝撃のカミングアウト！？トナカイついに初窃盗をする！？/トナカイ/千代田ヨウ/BJローン>https://www.youtube.com/watch?v=oKvAgryNUgU]]|
+|[[【#ストグラ切り抜き】新たな投資先として議論することに！ガソスタオークションについて相談が入る！/トナカイ/千代田ヨウ/柚乃いずみ/BJローン>https://www.youtube.com/watch?v=wFDVlQ2VhS4&t=790s]]|
+|[[【#ストグラ切り抜き】新しくなったバーガー屋から切実な相談！？ガチすぎるバーガー屋に驚愕するBJローン！？/トナカイ/千代田ヨウ/アウトくるーど/マッハボクシングドク/剛力たけし/BJローン>https://www.youtube.com/watch?v=PVYJKp9-YAw]]|
+|[[【#ストグラ切り抜き】信託利用者の話を聞きに行ったらカップルの修羅場に遭遇するトナカイ！？/トナカイ/千代田ヨウ/ライジングサン宗介/赤色にごう/BJローン>https://www.youtube.com/watch?v=Td_nc3SNxP0]]|
+|[[【#ストグラ切り抜き】色物集団でいざ出陣！ガソスタオークション思わぬ壁が！？/トナカイ/千代田ヨウ/三否亭四五六確/わおんちょき/BJローン>https://www.youtube.com/watch?v=cmwFYgiyuq8&t=1395s]]|
+|[[【#ストグラ切り抜き】派閥に分かれて大激論！？バーガー屋のオリジナルメニュー会議！/トナカイ/千代田ヨウ/三否亭四五六確/わおんちょき/BJローン>https://www.youtube.com/watch?v=g0iC3U10h8A]]|
+|[[【#ストグラ切り抜き】上田ジャンプイベント開始！？試しにかけた電話で本音が出る上田！？/トナカイ/わおんちょき/上田/BJローン>https://www.youtube.com/watch?v=XVtT_aDyK50&t=51s]]|
+|[[【#ストグラ切り抜き】上田ジャンプ期間に火種が！？逃走中にギャングをひき逃げ！？/トナカイ/わおんちょき/上田/三階堂キミトス/SHIRAHA/BJローン>https://www.youtube.com/watch?v=WV_CRofan8A]]|
+|[[【#ストグラ切り抜き】謎の新人警官に振り回される！？釜出ででこ登場でなぜか険悪ムードに！？/トナカイ/小峯玲/釜出ででこ/BJローン>https://www.youtube.com/watch?v=e3Uu3t01eu8]]|
+|[[【#ストグラ切り抜き】上田の行動で抗争に発展！？キミトスギャングとNOVAでシリアスに！？/トナカイ/千代田ヨウ/わおんちょき/上田/SHIRAHA/BJローン>https://www.youtube.com/watch?v=eLmKsZ9f84Q]]|
+|[[【#ストグラ切り抜き】様々なギャングが絡む激戦？上田のジャンプついに最終日に！/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/上田/餡ブレラ/BJローン>https://www.youtube.com/watch?v=mpc-VgA42F8&t=2419s]]|
+|[[【#ストグラ切り抜き】犯罪について再度BJローンで話し合い！チヨの犯罪について会議する！/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/BJローン>https://www.youtube.com/watch?v=py-vshfXhIE]]|
+|[[【#ストグラ切り抜き】上田逃走で一人の人生が！？こみ蔵さん身辺整理に来る！？/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/岐阜野こみ蔵/BJローン>https://www.youtube.com/watch?v=MQ-Get7r808]]|
+|[[【#ストグラ切り抜き】トナカイの知らない話続出！ALLIN時代のチヨが楽しかったこととは！/トナカイ/千代田ヨウ/ALLIN/BJローン>https://www.youtube.com/watch?v=K92_KqA3CJA]]|
+|[[【#ストグラ切り抜き】珍しくぺしょぺしょなるんるん！？こみ蔵さんの話を聞くトナカイ！/トナカイ/もりるんるん/寝言怠惰/岐阜野こみ蔵/MBM/BJローン>https://www.youtube.com/watch?v=rvjybEdJzLg&t=3155s]]|
+|[[【#ストグラ切り抜き】謎の多額投資に納得！？ガソスタの錬金術を発見するトナカイ！？/トナカイ/パキち/BJローン>https://www.youtube.com/watch?v=Ax5osQVXbFw]]|
+|[[【#ストグラ切り抜き】上田に顛末を聞いて察するトナカイ！？上田にこみ蔵さんの件を聞いてみる！/トナカイ/なののなの/パキち/上田/BJローン>https://www.youtube.com/watch?v=7VD3jSNsBJk]]|
+|[[【#ストグラ切り抜き】古参の三人の珍しい組み合わせ！？古参女子二人にタジタジなトナカイ！？/トナカイ/なののなの/パキち/BJローン>https://www.youtube.com/watch?v=zgj_Blf7XYw]]|
+
+#table_autoincrement(){label=#}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion
+
+&font(b,13pt){BJローン・MBM編}
+#region(close)
+#size(80%){#table_style(head=#6283C2:#FFFFFF)
+| &color(#FFFFFF){動画タイトル(youtube)}|H
+|[[【#ストグラ切り抜き】どうぶつレースの代打のチヨの暴走！？ボマーチヨに爆弾を投下される！？/トナカイ/千代田ヨウ/もりるんるん/星詠あう/岐阜野こみ蔵/MBM/BJローン>https://www.youtube.com/watch?v=ICx6ZCYx0RU]]|
+|[[【#ストグラ切り抜き】チヨがギャンブラーに転身！？オリジナルスロットに感動するトナカイ！？/トナカイ/千代田ヨウ/Vertex/BJローン>https://www.youtube.com/watch?v=xxXPyTahZsw]]|
+|[[【#ストグラ切り抜き】ローン利用者増加で滞納多発！？債務回収に奔走するトナカイ！/トナカイ/千代田ヨウ/パキち/ブラックジャックス/不働めい/BJローン>https://www.youtube.com/watch?v=yS3-X7ez7Fc]]|
+|[[【#ストグラ切り抜き】出勤初日からいろんな対応をする！？MBMで朝の店番をするトナカイ！/トナカイ/もりるんるん/ブラックジャックス/MBM/BJローン>https://www.youtube.com/watch?v=b6TVseCUl38]]|
+|[[【#ストグラ切り抜き】メカニック店番中の一幕！るんるんワールド全開の雑談に爆笑！？/トナカイ/もりるんるん/MBM/BJローン>https://www.youtube.com/watch?v=5GuVWWgoxv0]]|
+|[[【#ストグラ切り抜き】困りごとの解決のためが思わぬ方向に！？トナカイ本名を改名する！？/トナカイ/町田ジョアンナ/ガヴァイアッカンマン/BJローン>https://www.youtube.com/watch?v=tKz4bnaeoPA]]|
+|[[【#ストグラ切り抜き】ジョブについて加藤さんに相談！トナカイDEPを一時脱退することに！？/トナカイ/千代田ヨウ/加藤圧/不働めい/ザ!!!コーラボーイ!!!/BJローン>https://www.youtube.com/watch?v=9r152WJPfIg]]|
+|[[【#ストグラ切り抜き】無敵の白犬大暴れ！？久々の白井満太に振り回される二人！？/トナカイ/千代田ヨウ/白井満太/BJローン>https://www.youtube.com/watch?v=YvgJDt05Us4]]|
+|[[【#ストグラ切り抜き】BJローン主要メンツは旅行でしばらく不在に！BJローンの命運はちょきの手に！？/トナカイ//わおんちょき/BJローン>https://www.youtube.com/watch?v=hPmPhzFM4bo]]|
+|[[【#ストグラ切り抜き】久々のトナぴぴ絡み！トナカイafter U出禁に！？/トナカイ/猫又ぴぴ/after U/BJローン>https://www.youtube.com/watch?v=zP28rMciMww]]|
+|[[【#ストグラ切り抜き】ちょきの新人研修もついに大詰め！トナカイちょきに週次報告を教える！/トナカイ/わおんちょき/BJローン>https://www.youtube.com/watch?v=Ur2hJi7XSnc]]|
+|[[【#ストグラ切り抜き】ガソスタ錬金術で稼ぎまくる！？トナカイ収支プラスのために大奮闘！？/トナカイ/わおんちょき/BJローン>https://www.youtube.com/watch?v=Gxv-cVYacLM]]|
+|[[【#ストグラ切り抜き】ヤシャロア衝撃（？）の報告！？BJローンの近況をヤシャロアに共有！/トナカイ/わおんちょき/ヤシャロア/BJローン>https://www.youtube.com/watch?v=ZQzpQ80S7Xs]]|
+|[[【#ストグラ切り抜き】最近話題の作品パロでチヨが輝く！？”おおかわ”制作計画始動！？/トナカイ/千代田ヨウ/大川/BJローン>https://www.youtube.com/watch?v=cH8BbouXwPU]]|
+|[[【#ストグラ切り抜き】パロの参考のために！BREATING DOWN Sを見せてもらうことに！/トナカイ/千代田ヨウ/大川/BJローン>https://www.youtube.com/watch?v=Vot8BXs9e2U]]|
+|[[【#ストグラ切り抜き】久々に起きてきた四五六にここ最近のBJローンを共有するトナカイ！/トナカイ/三否亭四五六確/BJローン>https://www.youtube.com/watch?v=zWY76j8-D_E]]|
+|[[【#ストグラ切り抜き】今日はなのさんと二人で走り回る！なのさんからも新事業の提案が！/トナカイ/なののなの/BJローン>https://www.youtube.com/watch?v=Dl5chXn-6rs]]|
+|[[【#ストグラ切り抜き】MBMでのトナカイの日常！るんるんにドッキリするトナカイ！？/もりるんるん/MBM/BJローン>https://www.youtube.com/watch?v=q3KWoZCu8L8]]|
+|[[【#ストグラ切り抜き】めいさんの3週間滞納についに動く！金返せスプレーを実戦投入！/トナカイ/わおんちょき/不働めい/BJローン>https://www.youtube.com/watch?v=fEiVxE5TTbY]]|
+|[[【#ストグラ切り抜き】銃が撃ちたいトナカイ！警察体験を検討する！？/トナカイ/もりるんるん/MBM/BJローン>https://www.youtube.com/watch?v=k3KVg1JUec4]]|
+|[[【#ストグラ切り抜き】適当共有に安城大混乱！？久々起床の安城にいろいろ共有する！/トナカイ/安城成/BJローン>https://www.youtube.com/watch?v=Rg9wG2S33I0]]|
+|[[【#ストグラ切り抜き】依頼したスプレーが大活躍！？滞納者の勤務先にスプレーをばらまく！/トナカイ/三否亭四五六確/安城成/わおんちょき/なののなの/萌愛くしゅり/BJローン>https://www.youtube.com/watch?v=R6Zbloroqao]]|
+|[[【#ストグラ切り抜き】グランドオープンのキャバで黒服をする！？接客にトラブル対応に奔走するトナカイ！/トナカイ/ザ!!!コーラボーイ!!!/無馬かな/The Artemis/BJローン>https://www.youtube.com/watch?v=0U5FsuCSgYM&t=1756s]]|
+|[[【#ストグラ切り抜き】キャバの美女にお金を溶かす住人たち！？BJローン利用者キャバで爆増！？/トナカイ/ザ!!!コーラボーイ!!!/The Artemis/BJローン>https://www.youtube.com/watch?v=ZiVxvfSWeDs]]|
+|[[【#ストグラ切り抜き】頓挫の理由に驚愕！？チヨ渾身の企画「おおかわ」制作断念！？/トナカイ/千代田ヨウ/安城成/BJローン>https://www.youtube.com/watch?v=YMsxmC4_bEc]]|
+|[[【#ストグラ切り抜き】MBMの修理会で虫になる！？トナカイのクワガタコス意外にも大人気に！？/トナカイ/もりるんるん/星詠あう/寝言怠惰/星野ももあ/安城成/MBM/BJローン>https://www.youtube.com/watch?v=TZvM4uUCnUw]]|
+|[[【#ストグラ切り抜き】5億で落札したガソスタについてアウトくるーどと収益分配を議論！/トナカイ/アウトくるーど/三否亭四五六確/安城成/わおんちょき/BJローン>https://www.youtube.com/watch?v=DG_zdKeC43g]]|
+|[[【#ストグラ切り抜き】るんるんの苦手克服のために！？MBMのディベート大会にトナカイも挑戦！？/トナカイ/もりるんるん/星詠あう/寝言怠惰/星野ももあ/MBM/BJローン>https://www.youtube.com/watch?v=9gitTai43Qs]]|
+|[[【#ストグラ切り抜き】長期間滞納で舐めてる債務者に鉄槌！？不働めいにジェイ●ンドッキリを仕掛ける！？/トナカイ/三否亭四五六確/千代田ヨウ/安城成/わおんちょき/不働めい/BJローン>https://www.youtube.com/watch?v=k5niS6yUlH8]]|
+|[[【#ストグラ切り抜き】トナカイ史上最大のやらかし！？ルナガレにスプレーするも大問題へ！？/トナカイ/三否亭四五六確/千代田ヨウ/捌木たいたい/ルナガレージ/BJローン>https://www.youtube.com/watch?v=9QIhVrdo32o]]|
+|[[【#ストグラ切り抜き】トナカイ社内で一番の下っ端に！？トナカイBJローン社内の処分を言い渡される！？/トナカイ/三否亭四五六確/千代田ヨウ/わおんちょき/なののなの/BJローン>https://www.youtube.com/watch?v=ssVHxgsENuA]]|
+
+#table_autoincrement(){label=#}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion
+
+
+
+#right(){&link_up(🔝ページTOPへ)}

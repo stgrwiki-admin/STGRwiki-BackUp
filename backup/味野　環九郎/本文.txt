@@ -1,0 +1,1435 @@
+&bold(){&font(18px,#FFD400){&icon_fa(fa fa-exclamation-triangle)}&space()観測前に&font(15pt,u,#1F79E0){[[観測者の心得]]}をご確認ください。}
+----
+*&font(25px,#C0C0C0){プ}ロフィール &icon_fa(fa fa-id-card-o)
+|&image(初期.jpg,y=300)|&image(警察スタイル.jpg,y=300)|&image(9afa8289-797b-45b3-b7de-8c6e983c9536.png,y=300)|&image(S2_Police.png,y=300)|
+//もっとよいのがあったら差し替えお願いします！
+
+&font(#474a4d,24px,b){「味野出勤します。おはようございます」}
+
+&font(#474a4d,20px,b){-----------------------------------------------}
+&font(#474a4d,20px,b){警察のすべて}
+&font(#474a4d,20px,b){警察の情報保管庫}
+&font(#474a4d,20px,b){警察のホロクロン}
+&font(#474a4d,16px,b){byジャック馬ウアー署長(2025年8月5日)}
+&font(#474a4d,20px,b){-----------------------------------------------}
+
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#474a4d:#fff){}
+|~シーズン|~&icon_fa(fa fa-calendar)|Season1|Season2|h
+|~名前|~&icon_fa(fa fa-user fa-fw)|>|&ruby(あじの){味野}　&ruby(かんくろう){環九郎}|
+|~出身地|~&icon_fa(fa fa-map-marker)|>|日本 ／ 馬が足替わりになっている時代|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年09月08日 (&countup(2024/09/08,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~血液型|~&icon_fa(fa-solid fa-droplet)|>|AB型|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|&openclose2(show=秘密){09月04日}(年齢不詳)|
+|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa fa-shield-halved)&nbsp()警察官【[[ロスサントス警察]]】&br()&space(5)&small(){(本署) 2024/10/03～2025/02/01}&br()&space(5)&small(){(北署) 2025/02/01～2025/07/08} &br()&space(5)&small(){(東署) 2025/07/08〜}&br()&space(5)&small(){・階級はGrade:4のPolice_Inspectort(警部)&br()&space(6)・[[特殊部隊SWAT>ロスサントス警察#SWAT]]：ランク4}&br()&icon_fa(fa-solid fa-candy-cane)&nbsp()お菓子屋【[[Bloody BonBon]]】&small(){2025/05/20～}|&icon_fa(fa fa-shield-halved)&nbsp()警察官【[[ロスサントス警察]]】&br()&space(5)&small(){2025/12/19～}|
+|~家族|~&icon_fa(fas fa-users)|>|父：味野　環十郎&br()母：味野　環奈|
+|~TwiX|~&icon_fa(fa fa-dove)|>|@ajino|
+|~レーサー名|~&icon_fa(fas fa-car)|味野環九郎||
+|BGCOLOR(#eee):COLOR(#696969):~プレイヤー|BGCOLOR(#eee):COLOR(#696969):~&icon_fa(fa fa-address-card)|>|アジ吉|
+|BGCOLOR(#eee):COLOR(#696969):~告知等|BGCOLOR(#eee):COLOR(#696969):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter}) @ajikichi2525}>>https://x.com/ajikichi2525]]&small(){（メイン）}&br()&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter}) @re_ajikichi}>>https://x.com/re_ajikichi]]&small(){（サブ）}&br()&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} &s(){[[&font(#000){X (旧&font(#1DA1F2){Twitter}) @ajikichisan}>>https://x.com/ajikichisan]]}&small(){（凍結中）}|
+|BGCOLOR(#eee):COLOR(#696969):~FAタグ|BGCOLOR(#eee):COLOR(#696969):~&icon_fa(fa fa-hashtag)|>|&u(){[[&font(#696969){#味野絵}>>https://x.com/hashtag/味野絵?src=hashtag_click&f=live]]}|
+|BGCOLOR(#eee):COLOR(#696969):~配信場所|BGCOLOR(#eee):COLOR(#696969):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube (@ajikichi2525)}>>https://www.youtube.com/@ajikichi2525]] &small(){(1日目～9日目)}&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch (ajikichi)}>>https://www.twitch.tv/ajikichi]] &small(){(1日目～)}|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch (ajikichi)}>>https://www.twitch.tv/ajikichi]]|
+|BGCOLOR(#eee):COLOR(#696969):~動画投稿|BGCOLOR(#eee):COLOR(#696969):~&icon_fa(fa fa-video fa-fw)|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@ajikichi2525]] &small(){(アーカイブ／切り抜き動画)}|
+|BGCOLOR(#eee):COLOR(#696969):~ガイドライン|BGCOLOR(#eee):COLOR(#696969):~&icon_fa(fa fa-circle-info)|>|&b(){[[切り抜き動画について>>https://x.com/ajikichi2525/status/1896766149058253134]]&small(){（2025/3/4ポストから引用）&br()・許可なしで味野環九郎視点の切り抜きを&br()&space(3)YouTubeに投稿するのを禁止とします。&br()・Xに関しては悪質な切り抜き以外は&br()&space(3)投稿してもらっても構いません。}}|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+//2026/01/26：Season2に伴い職業欄の書き方を変更しました。問題ありましたら戻していただいて大丈夫です。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&font(25px,#C0C0C0){基}本情報 &icon_fa(fa fa-user-circle)
+-馬が日常的に乗られている時代に漁師をしていた
+-滝つぼに落ちたはずが気づいたらロスサントスにいた
+#region(背景詳細)閉じる
+-日本生まれだが、ぼんやりと前世の記憶がある
+-前世は今で言うアメリカの西部開拓時代で、漁師をしていた
+-滝つぼに落ちて気を失ったときに前世の記憶が蘇った
+-喋るUFOを見たことがある
+-人を滝つぼに沈めたことがある
+#endregion(背景詳細)
+//
+-第一街人は[[ブロッコリー　斎藤]]
+-あだ名は『アジカン』
+-街に来た当時は、いつか『あじのさら』という寿司屋を開業したいと考えていた
+--警察業務に専念しているのと菓子屋に就職したので、現在は自分で開業は考えていない様子
+-父親の名前は味野環十郎、母親の名前は味野環奈
+-この街のありとあらゆる占い師に『女の生霊が憑いている』と言われた
+--口下手が仇となり、あらぬ誤解を生むと占い師に忠告された
+--クリスティーヌ（&openclose2(show=正体は){変装した[[シオコ　リコ]]}）を魔女の酒場に同伴した事がキッカケとなり、[[闇のカプ厨おじさん>>小峯　玲]]達に『付き合ってから振られるまで』を見せるハメになった
+--女性関係の弱みを握られる形になった結果、北署に所属することになった。配属後に壁を蹴り続けたほど不本意
+-年齢は非公開。プロファイルの誕生年は街に来た日なので警察タブレットでも調査不能
+-巨大UFO"Zancudo"を目撃してからUFOの虜になり、暇さえあれば空を眺めたり、ヘリで町を探索したりしている。
+-愛馬は「お市」。病院から本署など中距離の移動に良く使っている。
+--警察署襲撃の際、本署からの脱出時に大活躍した。
+
+***&underdot(#474a4d,3px){&font(#444,#eee,b){&space(2)外見&space(2)}}
+-黒系の服に拘りがあり、初めて会う人には必ず怪しまれる
+-帽子がトレードマーク
+--&s(){Ｍ字ハゲ}
+--髪型は帽子に綺麗に収まるものにしている
+
+***&underdot(#474a4d,3px){&font(#444,#eee,b){&space(2)性格&space(2)}}
+-『冷静沈着』もしくは『感情が日に日になくなっている』
+--ロスサントスで刺激的な毎日を過ごすうち、徐々に感情を取り戻しつつある
+-ローテンションに見えるが、意外とノリは良い
+-以前の街で呼び出されて沈められかけた経験から人間不信になっている
+
+***&underdot(#474a4d,3px){&font(#444,#eee,b){&space(2)警察として&space(2)}}
+-警察の同期は[[ぺん　ゆきや]]、[[ミカド　ルアシェイア]]、[[メチャ南　よる]]、[[紀伊路　つみき]]、&s(){[[ガヴァイ　アッカンマン]]}（退職）、[[いぬね　こう]]、[[土田　ぷちお]]、[[焔　零児]]、&s(){[[山田　ジェイミー]]}（退職）。【[[襲撃の世代>ロスサントス警察#襲撃の世代]]】と呼ばれている。
+-警察の銃を自家用車に入れていたために窃盗されたことがある。それ以来、車に武器を入れないよう注意している
+-17時～5時まで勤務している
+--そのため前日の出来事を共有する立場になることが多く、早番警察からは「警察の語り部」と呼ばれている
+-数々の経験から前科持ちや犯罪者は嘘つきだと思っており、基本的に信用していない
+#region(Season1)&bold(){Season1}
+-2025/02/01に北署に配属させられた。周囲にはパワハラされた結果と説明している
+-2024/10/19に警察とSWAT両方ランク2に昇格。早番からライセンス付与業務できるように考慮された結果、入署15日目でランクアップになった
+-2025/3/14にキーモットとの面談後、警察とSWAT両方ランク3に昇格
+-2025/6/13にキーモットから「SWATだけ、絶対に嫌じゃなければ両方ランクを上げないか」と問われ、警察とSWATランク4に昇格&openclose2(show=※){&br()ただし試してみて何か違うとなったらランクを下げてほしいとキーモットに発言している}
+-2025/07/08に[[文月　夏苗]]から誘われていた新署設立を[[ヒロ　ヤマモト]]、[[犬上　リオ]]、[[胡　將]]と共にミンドリーへ直訴、ミンドリーから「警察署が建設されるまで何もしないのは時間が勿体ない、その間に新署としてやりたい事を5人で実際にやってみた方がいい」と提案され当日いた署長である赤ちゃんキャップによりインターンシップのような扱いとして東署に異動する事になった
+-2025/09/19の警察会議にて新たに「副官」が導入され、東署(インターン組)の副官になった
+#endregion(Season1)
+***&underdot(#474a4d,3px){&font(#444,#eee,b){&space(2)副業&space(2)}}
+-警察に入る前は飲食店とメカニックの体験を転々としていた。
+-[[伊勢　えびす]]に誘われてお菓子専門店[[Bloody BonBon]]で働くことを約束。2025/05/20開店時に就職した。
+
+***&underdot(#474a4d,3px){&font(#444,#eee,b){&space(2)体験履歴&space(2)}}
+#region(開く)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){店名=b}
+#table_filter(){業種=show,体験日=show,エピソード=hide}
+|~店名|~業種|~体験日|~エピソード|h
+|[[9055]]|メカニック|2024/09/08～09/12|9/8 警察への出張修理で竹井不祥事の被害に遭う|
+|[[奇肉屋]]|飲食：精肉店|2024/09/11|ギャングボス相手に請求金額を間違えて土下座|
+|[[サンサンクレープ]]|飲食：クレープ屋|2024/09/13||
+|[[Urashima]]|飲食：海上レストラン|2024/09/14||
+|[[Père Noël]]|飲食：カフェ|2024/09/21||
+|[[今井のダイナー]]|飲食：ダイナー|2024/09/24||
+|[[ロスサントス警察]]|公務員|2024/09/25～09/27|10/02 合格、10/03 入署|
+|[[BMC>Bear Moon Custom]]|メカニック|2024/09/29～10/01||
+|[[PYC]]|メカニック|2024/10/01～10/02||
+|[[Soffietto]]|飲食：ピザ屋|2025/02/26||
+}}}
+#endregion(体験履歴)
+
+***&underdot(#474a4d,3px){&font(#444,#eee,b,16px){&space(2)所有車両等&space(2)}}
+#region(開く)
+#region(Season2,open)&bold(){Season2}
+****&small(){所有車両}
+#region(開く)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){名称=b,取得日=right}
+#table_filter(){車両ID=hide,車名=show,車種=show,取得日=show,備考=show}
+|~車両ID|~車名|~車種|~取得日|~備考|h
+|POL00003|Police Cruiser (Interceptor)|自動車|2025/12/19|初日に受領した警察車両|
+|POL00037|Police Cruiser (Interceptor)|自動車|2025/12/25|警察車両|
+|POL00064|Police Cruiser|自動車|2026/01/04|警察車両|
+|82LW838Z|DINKA Cody Mechanic Truck(ST)|自動車|2026/01/10|軽トラック|
+|UM82UHBW|KARIN Futo GTX|自動車|2026/01/24||
+|9Q18V5R6|DINKA Double-T|バイク|||
+|32LA870W|ANNIS Mochi(AT)|自動車|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}}}}
+#endregion(Season2)
+#endregion()
+//名称・通称は一旦記載していません。わかる方いましたら記載お願い致します
+
+#region(Season1)&bold(){Season1}
+****&small(){所有車両}
+#region(開く)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){名称=b,取得日=right}
+#table_filter(){車両ID=hide,名称=show,通称=hide,車名=hide,車種=show,取得日=show,備考=show}
+|~車両ID|~名称|~通称|~車名|~車種|~取得日|~備考|h
+|MJSF1544|グレンジャー|グレンジャー|Declasse Granger|自動車|2024/09/08|[[上田さん>上田　さん]]から貰った初めての車&br()一時期[[ゆたんぽ>ゆた　んぽ]]に貸していたが'25/2/6に返却された|
+|MYZP5746|リムジン|リムジン|Dundreary Stretch|自動車|2024/09/08|[[上田さん>上田　さん]]からグレンジャーと同時に貰った|
+|AJIKAN94|あじかん号||Benefactor SM722|自動車|2024/09/12|レースA帯。[[上田さん>上田　さん]]から貰った&br()市長補佐からのみ購入可能な限定車&br()車両ナンバーも変更されている|
+|UZFV7795|Pegassl Fagglo Mod|ファギオモッド|Pegassl Fagglo Mod|バイク|2024/09/22|[[パキちさん>パキ　ち ]]から購入。移動用の原付|
+|IIZU7795|Ubermacht Niobe|ナイオビ|Ubermacht Niobe|自動車|2024/11/13|レースS帯。[[オルカさん>オルカ　トヴォロ]]から購入、BMCでカスタム|
+|SWAT0038|Police Police Paragon|パラゴン|Police Paragon R|自動車|2024/12/13|個人ガレージに入れている専用パトカー。警察ジャグラーから変更した&br()定期的にカラーリングを変更している|
+|DRFO2486|Karin Turtle|カメ|Karin Turtle|自動車|2025/01/01|[[だん市長補佐]]から購入。&br()宝探しイベントのチケット交換で購入権を得た特別車。一台目。|
+|UDXW3274|Annis Mochi|モチ|Annis Mochi|自動車|2025/01/09|[[かな市長補佐]]から購入。&br()宝探しイベントのチケット交換で購入権を得た特別車。二台目。|
+|SDTN3158|Grotti Cheetah Classic|チータークラシック|Grotti Cheetah Classic|自動車|2025/01/10|レースB帯。[[上田さん>上田　さん]]から購入、9055でカスタム|
+|PVZN0533|Bravado Buffalo S|バッファロー|Bravado Buffalo S|自動車|2025/01/29|[[豆やんさん>豆　やん]]からロングフィン購入時のおまけで貰った|
+|BJXS8402|Western Powersurge|パワーチャージ|Western Powersurge|バイク|2025/02/01|[[ロイ>ロイ　マーチングナンバー]]から購入。初めてのバイク|
+|OSHK6532|Vapid Flash GT|フラッシュGT|Vapid Flash GT|自動車|2025/02/28|レースA帯。[[まるんさん>花沢　まるん]]から購入、BMCでカスタム|
+|JYLU9824|Enus Paragon S|パラゴンS|Enus Paragon S|自動車|2025/04/03|レースA帯。[[ミンドリーさん>ミン　ドリー]]から購入、BMCでカスタム|
+|CKUD0624|Enus Paragon|パラゴン|Enus Paragon|自動車|2025/04/08|レースA帯。[[まきぴさん>神道　まきぴ]]から購入、BMCでカスタム|
+|ZOFX8985|Grotti Turismo R|ツーリスモR|Grotti Turismo R|自動車|2025/04/08|レースA帯。[[ねずみさん>えぐち　きの子]]から「大川自動車レーチュ」割引で購入、BMCでカスタム|
+|IDGP0733|カマチョ　売値2000万　買値1000万|カマチョ|Canis Kamacho|自動車|2025/04/19|オフロード車。[[上田>上田　さん]]の所持車を1000万で購入。&br()アジカンに似合う車だと直接セールスされて買った|
+|EGG25039|Arcida Egg Car|エッグカー|Arcida Egg Car|自動車|2025/05/03|[[イースターイベント]]で入手できる限定車。&br()トークン10枚で交換した。BMCでカスタム|
+|EGG25119|Arcida Egg Car|エッグカー|Arcida Egg Car|自動車|2025/05/07|[[イースター3イベント]]で入手できる限定車。&br()トークン10枚で交換した二台目。|
+|PWLT6166|Police Jester RR|ジェスターRR|Police Jester RR|自動車|2025/05/13|個人用パトカー。[[おばちゃん>山本　寅子]]から購入、9055でカスタム。&br()警察車両ショップ稼働初日に購入した。&br()警察ジェスターRRの所有者一人目になった。&br()音が実車で大きいのが特徴|
+|KBCC9306|Police Omnis E-GT|オムニス|Police Omnis E-GT|自動車|2025/05/17|個人用パトカー。警察車両ショップで[[おばちゃん>山本　寅子]]から購入。&br()初めて買った電気自動車で音が静か|
+|CUFH4607|Bravado Rumpo Custom|ランポ|Bravado Rumpo Custom|自動車|2025/05/20|[[えびすさん>伊勢　えびす]]から自販機用にと貰った|
+|QYNR0927|どでか積載|スピードエクスプレス|Vapid Speedo Express|自動車|2025/05/22|[[真島>真島　ルイ]]から自販機用にと借りた|
+|TISE0709|警察ゼントーノ|ゼントーノCTX|Police Zentorno CTX|自動車|2025/06/12|個人用パトカー。警察車両ショップで[[おばちゃん>山本　寅子]]から購入、9055でカスタム&br()購入日時点で販売している個人用警察車両の中では最高額50億のパトカー。&br()（[[犬ルリ>犬　ルリ]]さんが返却したため）実質的に警察ゼントーノの所有者一人目になった|
+|RBT00054|RH8 Wagon Annis|エレジーワゴンタイプ|Annis Elegy RH8 Widebody|自動車|2025/06/12|[[Reboot]]の抽選会にて当選して購入、値段は1億5000万。BMCでカスタム&br()まだこの街に2台しかない車&br()過去に何度も抽選会に通っていたが初めて当選した|
+|UERR8728|警察バイク|バティ|Police Bati|バイク|2025/06/24|個人用警察バイク。警察車両ショップで[[おばちゃん>山本　寅子]]から購入。JTSでカスタム&br()二人乗り可能。マトリ時の変装追跡用として購入した|
+|QOBN4490|バケモン|バッファローCTX|Police Buffalo eHF|自動車|2025/08/03|個人用パトカー。警察車両ショップで[[おばちゃん>山本　寅子]]から購入。9055でカスタム&br()電気自動車だがガソリンで動くハイブリットなCTXシリーズ。&br()エンジン音が静かで加速も早くマッスルカーな為アタックが強そうな事から購入した|
+|SDNH6563|Weeny Peanut|ピーナッツ|Weeny Peanut|自動車|2025/08/17|[[えびすさん>伊勢　えびす]]から貰った|
+|GWGM3616|Truffade Thrax|トラクス|Truffade Thrax|自動車|2025/08/29|一時帰国する[[ジェイミー>山田　ジェイミー]]から「大事な車だから預かってくれ」と渡された&br()餡ブレラカラーの赤トラクス。闇堕ちスターターセットと呼んでいた一台|
+|TFJC2858|Plice Cavalcade XL🚓味環さんお誕生日おめでとう！ゆたんぽ|カヴァルケード|Police Cavalcade XL|自動車|2025/09/04|個人用パトカー&br()[[ゆたんぽ>ゆた　んぽ]]からの誕生日プレゼント&br()車両名から何故かoが抜けていた|
+|FRBM0197|あじぱん|パント|Police Panto|自動車|2025/09/04|個人用パトカー&br()[[メチャ南>メチャ南　よる]]からの誕生日プレゼント&br()ルーフに誕生日である94がプリントされている|
+//|車両ID|名称|通称|車名|車種|2025/mm/dd|備考|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}}}}
+#endregion(所有車両)
+//
+****&small(){所有航空機}
+#region(開く)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){名称=b,取得日=right}
+#table_filter(){車両ID=hide,名称=show,通称=hide,航空機名=hide,機種=show,取得日=show,備考=show}
+|~車両ID|~名称|~通称|~航空機名|~機種|~取得日|~備考|h
+|ZUXV3956|プレゼント交換用|||飛行機|2024/12/25|クリスマス交換会で[[鳥野さん>鳥野　ぎん]]から貰った飛行機&br()乗るために航空機免許を後日取得した|
+|ZJRY2021|Nagasaki Buzzard|バザード|Nagasaki Buzzard|ヘリ|2025/01/05|[[豆やんさん>豆　やん]]から購入、BMCでカスタム。&br()正月の宝探しイベントで[[ミンドリーさん>ミン　ドリー]]に乗せてもらったのがきっかけで買った|
+//|車両ID|名称|通称|航空機名|機種|2025/mm/dd|備考|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}}}}
+#endregion(所有航空機)
+//
+****&small(){所有船舶}
+#region(開く)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){名称=b,取得日=right}
+#table_filter(){車両ID=hide,名称=show,通称=hide,船舶名=hide,船種=show,取得日=show,備考=show}
+|~車両ID|~名称|~通称|~船舶名|~船種|~取得日|~備考|h
+|RJAT7815|Shitzu Longfin|ロングフィン|Shitzu Longfin|ボート|2025/01/29|Twixで宣伝していた[[豆やんさん>豆　やん]]から購入。&br()おまけで車一台を貰った|
+|HGZI5915|公務員花見　味野様|シーシャーク|Speedophile Seashark|水上バイク|2025/04/18|公務員花見用に[[ミンドリーさん>ミン　ドリー]]から贈られた。|
+//|車両ID|名称|通称|船舶名|船種|2025/mm/dd|備考|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}}}}
+#endregion(所有船舶)
+//
+****&small(){手放した車両等}
+#region(開く)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){名称=b,取得日=right,手放した日=right}
+#table_filter(){車両ID=hide,名称=show,通称=hide,車名=hide,車種=show,取得日=hide,手放した日=show,備考=show}
+|~車両ID|~名称|~通称|~車名|~車種|~取得日|~手放した日|~備考|h
+|JHWM6695|【イベント】レミュス　17（あじかん）|||自動車|2024/09/12|2024/09/12|9055体験時に[[上田さん>上田　さん]]からカスタム練習で借りた車&br()カスタム終了後、上田さんに返却した|
+|SWAT0030|48.【味環】カスタムヴィゲロ|ヴィゲロ|Police Vigero ZX|自動車|2024/10/03|2024/11/19|元の名前は『48.【共有】カスタム済みヴィゲロ』&br()SWATの共有パトカーを個人用として貰った。&br()SWATガレージから個人用ガレージにパトカーを移動してもらった時にジャグラーに変更した。|
+|GFGC2309|★【イベント】サンチェス29|||バイク|2024/11/19|2024/11/20|9055主催「デスマウンテンバイクレース」参加時にで[[上田さん>上田　さん]]から借りた。&br()返却済み|
+|SWAT0030|味環専用ジャグラー|ジャグラー|Police Jugular|自動車|2024/11/20|2024/12/13|個人用ガレージへパトカーを移動してもらった時にヴィゲロから変更した。&br()後日、[[かな市長補佐]]に依頼して個人用パトカーをパラゴンへ変更した。|
+|JULW8122|豆味ヘリ|豆ヘリ|Nagasaki Havok|ヘリ|2024/12/18|2024/12/25|[[鳥野さん>鳥野　ぎん]]から購入、PYCでカスタム。&br()クリスマス仕様カラーの豆ヘリ。クリスマス交換会で[[医局長>橘　かげまる]]へ贈った。|
+|NLWL0063|クリスへ||Weeny Issi Sport Plus|自動車|2025/03/19|2025/03/20|[[須藤さん>須藤　冬馬]]さんから購入、9055でカスタム&br()ホワイトデーのお返しとして[[リコさん>シオコ　リコ]]へ贈った|
+|ZJTJ2593|Western Powersurge|パワーサージ|Western Powersurge|バイク|2025/04/26|2025/04/26|[[バイクDしゃっちょ>菖蒲　光樹]]から購入、JTSでカスタム。&br()[[リオさん>犬上　リオ]]へ誕生日プレゼントとして贈った。|
+|UBPG8704|Overflod Imorgon|イモーゴン|Overflod Imorgon|自動車|2025/04/12|2025/05/02|レースA帯。[[ブロッコリーさん>ブロッコリー　斎藤]]から借金の担保として差し押さえた。&br()[[BJローン]]に借金中にもかかわらず購入されていたレース用車両。&br()この車を賭けた警察内レースの結果、警察車両出場者ではトップだった味野の手に渡った。&br()所持中は味野自身がレースで使用していた。&br()借金を全部返済したと聞いたのでブロッコリーさんへ車を返した。&br()返却前に貴様リバリーへ変更。タイヤ、シート、クラクションもカスタムした。|
+|YMAW3986|Maibatsu Frogger nl|フロガー|Maibatsu Frogger Custom|ヘリ|2025/02/09|2025/05/25|[[豆やんさん>豆　やん]]から購入。&br()[[悠えんくん>悠　えん]]に売って手放した。|
+|UCPP5484|Truffade Thrax|トラクス|Truffade Thrax|自動車|2025/02/06|2025/06/11|[[ねずみさん>えぐち　きの子]]から購入。&br()[[ハイライト>小峯　玲]]に売って手放した。|
+|BWCA3220|Annis Mochi|モチ|Annis Mochi|自動車|2025/01/01|2025/06/12|[[かな市長補佐]]と[[だん市長補佐]]から購入。&br()宝探しイベントのチケット交換で購入権を得た特別車。一台目。&br()[[ゆたんぽ>ゆた　んぽ]]と一緒にチケットを集めた&br()新規住人の[[Bボタン>B　ボタン]]にプレゼントした|
+|AEEP6339|Karin Turtle|カメ|Karin Turtle|自動車|2025/01/09|2025/06/19|[[かな市長補佐]]から購入。&br()宝探しイベントのチケット交換で購入権を得た特別車。二台目。&br()[[おばちゃん>山本　寅子]]へ誕生日プレゼントとして贈った|
+//|車両ID|名称|通称|車名|車種|yyyy/mm/dd|備考|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}}}}
+#endregion(手放した車両等)
+#endregion(Season1)
+
+#endregion()
+
+***&underdot(#474a4d,3px){&font(#444,#eee,b,16px){&space(2)所有不動産等&space(2)}}
+#region(開く)
+#region(Season1,open)&bold(){Season1}
+****&small(){所有物件}
+#region(開く)
+#size(90%){{{#table_style(head=center:#474a4d:#fff){通称／用途=b,購入日=right}
+#table_filter(){通称／用途=show,番地=show,購入日=show,備考=show}
+|~通称／用途|~番地|~購入日|~備考|h
+|マンション|8252|2024/09/08|街に来て最初に市から提供される家|
+//|用途|番地|2025/mm/dd|備考|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}}}}
+#endregion(所有物件)
+//
+****&small(){共有物件}
+#region(開く)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){通称／用途=b,共有日=right}
+#table_filter(){通称／用途=show,番地=show,共有日=show,管理者=hide,備考=show}
+|~通称／用途|~番地|~共有日|~管理者|~備考|h
+|7119の24号室|7119|2024/09/14|[[パン　チャン]]|[[パンさん>パン　チャン]]から借りている家|
+|7119ガレージ共有用|7119|2024/09/14|[[パン　チャン]]|ガレージ付き（property-1899-garage）&br()共有ガレージ用に24号室と一緒に借りた。|
+|北署ハウス|6001|2025/04/09|[[キーモット　ホームズ]]|北署員のシェアハウス。警察の寮にする構想がある。&br()北署に入ることになった事件が発生した現場。|
+|SPEC部屋|8047|2025/07/03|[[赤城　煉]]|警察本署内の地下にある部屋。盗み聞きされたくない会議等で使用される|
+|ボブキャ南コンテナ|9359|2025/07/03|[[ミン　ドリー]]|素材がある。金庫と革のスタッシュ以外は使っていいと言われている|
+//|用途|番地|2025/mm/dd|管理者|備考|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}}}}
+#endregion(共有物件)
+//
+****&small(){所有ガレージ}
+#region(開く)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){名称=b,購入日=right}
+#table_filter(){名称=show,番地=show,種類=show,購入日=show,備考=show}
+|~名称|~番地|~種類|~購入日|~備考|h
+|San Chianski B|2051|ハイドアウト|2025/01/05|捜査の流れで購入|
+//|名称|番地|種類|2025/mm/dd|備考|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}}}}
+#endregion(所有ガレージ)
+//
+****&small(){手放した物件等}
+#region(開く)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){名称／用途=b,購入日=right,手放した日=right}
+#table_filter(){名称／用途=show,番地=show,種類=show,購入日=hide,手放した日=show,備考=show}
+|~名称／用途|~番地|~種類|~購入日|~手放した日|~備考|h
+|自宅|8048|ハウジング物件|2024/12/10|2025/06/08|[[橘　かげまる]]から購入。共有ガレージ付き。&br()初めて買った本署前の個人宅。&br()隣がホテルアモーレという曰く付きになったこと、ほぼ本署で寝ていること、&br()および個人警察車両代の足しにするために売却|
+|property-2730-garage|8048|ハウジングガレージ|2024/12/10|2025/06/08|自宅前のガレージ。個人宅購入時に設置。&br()自家用車はほとんどこのガレージに入れてあった。&br()自宅売却時に置いてあった車は本署の駐車場へ移した。|
+//|用途|番地|種類|yyyy/mm/dd|2025/mm/dd|備考|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}}}}
+#endregion(手放した物件等)
+#endregion(Season1)
+#endregion(物件)
+//
+#right(){&link_up(🔝ページTOPへ)}
+*&font(25px,#C0C0C0){交}友関係 &icon_fa(fa fa-users)
+味野環九郎の視点から得られた情報を元にしているため、事実と異なる場合があります。 
+***&font(#4169E1){&icon_fa(fa-solid fa-shield-halved)} ロスサントス警察
+#region(警察の同期)&b(){警察の同期}
+2024年秋の警察募集にて合格したメンバー。
+応募期間が一緒なので同期でいいと思っている。
+[[襲撃の世代]]と呼ばれている。
+//
+****[[ぺん　ゆきや]]（ぺんぺん）
+-警察の同期。ALLIN[[天草　蒼]]の同級生
+-寡黙な印象が強くて実直に仕事をこなす味野に対し、賑やかな問題児であるため、対照的なキャラだといわれている
+-とはいえ、なんだかんだで互いが互いの性格をよく理解しており、2人の相性そのものは良好。ぺんゆきやが闇堕ちしたらショックで立ち直れない、とも発言済
+
+****[[ミカド　ルアシェイア]]（ミカドくん、勇者）
+-警察の同期。ぺんぺんと共に採用時期が特に近い
+
+****[[メチャ南　よる]]（メチャ南くん、メチャ南）
+-警察の同期。よく出勤する同期で17時～5時をたまにしている。
+-闇堕ちしたら同期全員で詰めに来ると言われている
+-テーザーで痺れさせたりスライディングで転ばせる等のイタズラをよくしている
+
+****[[紀伊路　つみき]]（つみきくん）
+-警察の同期。体験中に襲撃を受けた一人
+
+****[[いぬね　こう]]
+-警察の同期。体験中に襲撃を受けた一人
+
+****[[土田　ぷちお]]（ぷちお）
+-警察の同期。3時以降の出勤が多い
+-ぷちおが合格して本署に来た時、アジカンと呼び捨てで呼ばれ手錠をかけた
+-3日間罰としてアジカンと一緒に坊主になっていた
+
+****[[焔　零児]]（零児くん）
+-警察の同期。所属した日にまた襲撃があったことを伝えた
+
+#endregion(警察の同期)
+//
+#region(警察の先輩)&b(){警察の先輩}
+//追加しやすくするため採用日順に並べ替えました
+****[[二十日　ネル]]（ネルさん）
+-サーマルが上手くできずにペしょった時、最初に気付いた
+
+****[[赤ちゃんキャップ>ましゃかり　トラボルタ]]（キャップさん）
+-最古参の警官であり東署の署長
+-初めて会ったときは変質者だと思った
+-「17時5時勤務はやめておけ」と忠告されたことがある
+-早番で情報共有や各種捜査に関わる事が多く口癖が移りつつある
+
+****[[深沢　えぼし]]
+-元ギャングボスらしい
+
+****[[如月　キャシー]]（キャシーさん）
+-本署の副署長。初めて挨拶した時に「黒尽くめで怪しいやつ誰ね」と言われた
+-伊坂さんの彼女
+
+****[[キーモット　ホームズ]]（キーモットさん）
+-北署の署長
+-マックさんに刺された時は責任を感じてヘリで見に行った
+
+****[[ジャック　馬ウアー]]（馬ウアー署長）
+-警察の象徴であり総帥
+-なんだかんだで一番署長にふさわしいと思っている
+
+****[[伊坂　直樹]]（伊坂さん）
+-キャシーさんの彼氏
+-約8ヶ月ぶりに起きてきた時、田中さんと一緒に嘘情報を教えた
+
+****[[ゴンザレス　マヌ太郎]]（マヌ太郎さん、マヌさん）
+-東署特殊刑事課で交通安全課。
+-マヌ太郎さんが出勤している時は速度違反しないように注意している。
+
+****[[立花　乱歩]]（乱歩さん）
+-大げさな電話で迎えに来させようとしてくる
+
+****[[後藤　れむ]]（れむさん、れむ先輩）
+-味野ヘイストの時に犯人を逃がして怒られた
+
+****[[小此木　ナカバ]]（ナカバさん、ショットガン先輩）
+-東署の副署長
+-PYCでのショットガン発砲事件以来、ショットガン先輩と呼ばないと反応しなくなってしまった
+
+****[[赤城　煉]]（赤城さん）
+-元南署長。日本へ一時帰国していたがロスサントスに再び戻ってきた
+-早番で花の場所などを教わった。
+
+****[[水無月　縁]]
+-南署員。たまに起きてくる
+
+****[[あやな　みれい]]
+-北署の先輩。早番勤務が多い
+
+****[[ボイラ　テンガリン]]（ボイラさん）
+-砂漠署の副署長。味野に目をかけてくれている上官
+-職務上では尊敬できる相手だが、時々ライン超えの言動をすることがある
+
+****[[ニックス　リア]]（皇帝さん）
+-警察の上官。SWAT副隊長
+-ALLINに誘拐される原因を作った
+-西署設立を目標としておりメンバーに誘われた
+
+****[[ミン　ドリー]]（ミンドリーさん） 
+-警察の上官。SWAT隊長
+-早番時間に警察業務について色々教わった
+-尊敬する先輩として名前を挙げた
+
+****[[青井　らだお]]
+-みこだから「空の王」と聞いていた
+
+****[[伊藤　ぺいん]]
+-黄金の風
+-補填部屋で偶然遭遇した。相手が衛星外だったので気まずい感じになった。
+****[[花沢　まるん]]（まるんさん）
+-南署の署長
+
+****[[オルカ　トヴォロ]]
+-警察ヘリ乗りの一人
+
+****[[シオコ　リコ]]（リコさん）
+-偵察と称して2人で魔女の酒場へ行ったことから小峯に目を付けられるようになる
+
+****[[猫　マンゴー]]
+-伝説の警察官。起床早々ロケラン撃つのを目撃した
+
+****[[犬　ルリ]]（犬ルリさん、ルリさん）
+-最強の犬のおまわりさん、自称闇警察。
+-個人警察車両が追加された際に多額の[[借金>BJローン]]をした事を知り警察が崩壊するかもしれないと危機感を持った
+
+****[[冥鳴　キマリ]]
+-たまに起きてくる警察官
+
+****[[狼恋　エギ]]
+-一度だけ会ったことがある
+
+****[[Arupi　Aru]]
+-特殊刑事課
+
+****[[鷹山　トシアキ]]
+-北署の副署長
+
+****[[安保　さぶ郎]]（さぶ郎さん、さぶ郎先輩）
+-警察の上官。
+-ジェイミーのことでいろいろ話したあと定期的に気にかけてくれている
+
+****[[セリーヌ　ゴデス]]
+-専用パトカーのパーツが抜かれていたので確認した
+
+****[[なずぴ>きらりんぶい☆　なずぴ(10)]]（なずぴさん）
+-北署の副署長。警察ヘリ乗りの一人
+-ガヴァイが辞めた時にメンケアを受けた
+
+****[[日之　ぱちお]]（ぱちおさん）
+-南署の副署長。えるなさんの兄
+-えるなさんを轢いた心なきを撃ったのを目撃したことがある
+
+****[[竹井　勝痔]]（竹井、しょうじさん）
+-街初日に手錠をかけられた因縁がある。その事件で懲戒免職になっていた
+-体験として警察へ戻って来た際、手錠をかけ返すことに成功
+-上官になった後にやらかした為、自らの手でランクを体験へと落とした
+
+****[[伊田場　零雨]]（零雨さん）
+-南署の上官。赤いしっぽがトレードマーク
+-採用初日にパトカーで轢きダウンさせてしまい土下座して謝った
+-南署元署長赤城煉から「似ている」と評された
+
+****[[猪原　ローズ]]
+-最悪の世代の一人
+
+****[[もり　るんるん]]（るんるんさん、もりさん）
+-南署の上官。最悪の世代の一人。
+-面白い担当だと思われているらしい
+
+****[[伊勢　えびす]]（えびすさん）
+-北署の上官。最悪の世代の一人。
+-マトリや血液採取を共にする事が多いが中でも遅番での薬物売買対応が多い
+-彼がオーナーの[[お菓子屋>Bloody BonBon]]で働く約束をし、初めて警察以外の職業に正式に就く事になった
+
+****[[レッサン　パンナ]]（レッサン先輩）
+-初日に会った警官。キャップさんに当たりの警官と呼ばれていた
+-早番で一緒に勤務する機会が多い
+
+****[[安倍　霊明]]（霊明さん）
+-警察の上官。陰陽師。副業でコスメ店勤務
+-指名手配の仕方など警察業務を丁寧に教えてくれた頼りになる先輩だが最近はセクハラ罪でプリズンに送る事も
+-「あなや」や「六根清浄」の使い手
+
+****[[バーバリアン　田中]]（田中さん）
+-砂漠署の署長。ID1番の日が多い
+-ヘリ練習に付き合ってくれたり早番の仕事についてアドバイスしてくれたり、何かと頼れる上官
+-早番で情報共有や捜査に関わる事が多く口癖が移りつつある
+
+****[[柚麦　とと]]
+-タバコ屋でも働いている
+
+****[[川　中]]
+-北署員。魂が強いらしい
+
+****[[夜若木　颯]]（よわきさん・つよきさん）
+-警察レースの記録で勝てないと思っている
+
+****[[ヤミー　エンデバー]]
+-戦闘員と呼ばれている。
+
+****[[御庭野　えんちょう]]（えんちょうさん）
+-メカニックと兼業
+-黒市民との付き合い方について考え始めた時、お互いの思いを話し合った
+
+****[[ありもと　けんいち]]
+-北署員
+
+****[[文月　夏苗]]（夏苗さん）
+-警察の先輩。業務は真面目だが度々ギャンブルに誘ってきたりあれ買って？と言われる事がある
+-夏苗と一緒にいる時はIQ3になる&openclose2(show=*){（言われた振り等を素直にする為）}と救急隊の[[ブラックジャックス>>ブラック　ジャックス]]に言われた事がある
+-新署設立を目標としておりメンバーに誘われた
+
+****[[二部　らるたる]]（二部さん）
+-砂漠署員。時々服装に驚かされる事がある
+-[[お菓子屋>Bloody BonBon]]で共に働く仲間でもあり、砂漠署とDD連合抗争の際には彼の考案で出張販売を行った
+
+****[[五十嵐　ボブ]]
+-
+
+****[[ヒロ　ヤマモト]]（ヒロさん）
+-奇肉屋体験時代からお世話になっている
+-新署設立メンバーの一人で未来の署長
+
+****[[ブロッコリー　斎藤]]（ブロッコリーさん）
+-北署の先輩。この町で初めて出会った住人
+-早番でよく一緒にマトリをしている
+-｢襲撃の世代｣命名者。
+
+****[[亀有　大吉]]（亀有さん）
+-奇肉屋ときこり兼業
+
+****[[羽芝　ユン]]（ユンさん）
+-ブロッコリーさんとルールさんの同期。衛星外で久しぶりに起きてきた時に会った。
+
+****[[冷泉　ナデシコ]]
+-私服のコーディネートをしてもらった
+-北署に入れられた時に美人局された
+
+****[[ゴリ田　ゴリ男]]
+-ゴリ田さん宛の贈り物を預かっている
+
+****[[ルール　ちゃん]]（ルールちゃん）
+-早番でよく一緒になる
+-彼女が牢屋対応の際に間違えてえびすさんをプリズンへ送った際にわざとプリズンに送った
+
+****[[鬼瓦　るる]]（るるさん）
+-警察の先輩。だが何故かアジカン先輩と呼ばれる
+
+****[[よすみの　かど]]（かどさん）
+-砂漠署のタイミーさん
+-誘拐銃撃された時に目撃していた
+
+****[[犬上　リオ]]（リオさん）
+-警察の先輩。警察エース
+-たまにとんでもない発言をするのでノンデリだと思ったことがある
+
+#endregion(警察の先輩)
+//
+#region(警察の後輩)&b(){警察の後輩}
+****[[胡　將]]（胡將くん）
+-北署に所属してから初めての北署の後輩
+-警察に入って数週間で警察車両訓練コース一位になっていた
+
+****[[真島　ルイ]]（真島、真島の姐さん）
+-東署で特殊刑事課の後輩、期待のホープ
+-皇帝さんを全肯定している
+-西部の街に住んでいたことがあるらしい
+-血痕採取や車両整備を共にやる事が多く効率の良いやり方などを教える事がある
+
+****[[ぎこ　猫一郎]]
+-ガヴァイの街同期で、警察になるための助言を受けていたらしい
+
+****[[小中　ぺこり]]
+-
+
+****[[悠　えん]]（悠えんくん）
+-9055でメカニックをしている北署の後輩。警察合格前から車両整備などでよく顔を合わせていた
+
+#endregion(警察の後輩)
+//
+#region(警察関係者)&b(){警察関係者}
+****[[番田　長助]]
+-元警察署長、たまに街へやってくる。
+
+****[[ラピス　りお]]
+-元南署員、日本へ帰国した
+-帰国時に脳の調子が悪くて立ち会えなかった
+
+****[[山本　寅子]]（寅子さん、おばちゃん）
+-大阪出身のおばちゃん。よく飴をくれる
+
+#endregion(警察関係者)
+//
+***&font(#ff0000){&icon_fa(fa fa-heartbeat)} ピルボックスヒル病院
+#region(開く)&bold(){閉じる}
+****[[命田　守]]
+-餡ブレラ襲撃の翌日に直接報告した。メンケアを受けた
+
+****[[橘　かげまる]]
+-2024年クリスマス交換会で豆ヘリを送った
+
+****[[鳥野　ぎん]]
+-2024年クリスマス交換会で航空機をもらった
+
+****[[雷堂　ましろ]]（ましろ先生）
+-救命隊所属。
+-餡ブレラ襲撃後にメンケア電話をくれた
+-よく早番に出勤しており、暇なとき病院で一緒に雑談をしている
+
+
+****[[朱雀　愛未]]
+-キーモット署長の彼女だが別居中
+-ダイナーの体験でお世話になった
+
+****[[キラ・メキーラ]]
+-ボイラさんの彼女
+
+****[[赤兎　がみとも]]
+-救急隊と警察兼業。南署所属
+
+****[[加賀　イズミ]]
+-元警察で犬カフェを経営している
+
+****[[元難波　芽久未]]
+-警察兼業でタバコ屋店員
+-[[まいにい>>まい　にい]]が警察体験をしている時に彼と交際している事を知った
+-まいにいを救助しに来た際に爆発事故を起こしたのを目撃し「リア充爆発した」とからかった
+
+****[[元難波　登]]
+-旧姓は伊豆院
+
+****[[鬼桃　ぷぅ]]（ぷぅちゃん）
+-救命隊所属。アジと呼ばれている。
+-警察を兼業するようになってからはスライディング合戦が始まる事も
+
+****[[福田　明宏]]
+-3時過ぎのマトリ実況担当
+-遅番でワンオペになった時など本署前で雑談をしている
+-互いに帽子をかぶっており背格好が似ている為たまに間違えられる事がある
+
+****[[ゆた　んぽ]]
+-街の同期。BMCで働いているメカニック。救急隊所属
+-一般市民時代、餡ブレラ警察署襲撃時に病院に来ていたため巻き込んでしまった。
+-毎日挨拶と共に何かしらの食べ物を渡され、餌付けされている。
+
+#endregion(ロスサントス救急救命隊)
+//
+***&font(#4f455c){&icon_fa(fa fa-user-secret)} 犯罪者
+#region(MOZU)&bold(){MOZU}
+早番マトリでバチバチやり合う機会が多いギャング
+//
+****[[ヴァン　ダーマー]]
+-MOZUのボス、永久指名手配
+
+****[[銭形　やいち郎]]
+-MOZU所属のギャング。マトリ捜査でしょっちゅう顔を合わせる
+-街中で会うとウザ絡みしてきたりギャングに勧誘してきたりする
+
+****[[三階堂　キミトス]]
+-パトカーに入れていたみたらし団子を盗まれたことがある
+-指名手配中に目の前で事故ダウンした。棚からキミトス
+
+****[[のすけ>ティキーチック　のすけ]]（&s(){のすけくん}）
+-PYC時代は17時5時で働いていた
+-ガヴァイに連絡して初逮捕と聞いた
+
+****[[三島　改]]
+-初心者時代に土下座のやり方を教えた
+-花摘み、薬精製の常習犯
+
+****[[不二子　キャスパー]]
+-闇メカ、武器商人の疑いが濃い
+-MOZUの大型で血痕を発見して指名手配をかけた
+
+#endregion(MOZU)
+//
+#region(GBC)&bold(){GBC}
+****[[マクドナルド>ライトスターボーイ]]（マックさん）
+-おはよう電話をくれる
+-会うたびに心が折れていないか確かめられている
+-ナイフで切り殺された事があり、それ以降少し身構えて対応する様になった
+
+****[[鳳華　マア]]
+-街の同期
+-犯罪者になった後の方がよく会うと言われた
+
+****[[君島　こはる]]
+-白市民パスを発行したが黒市民に戻ってしまった
+
+#endregion(GBC)
+//
+#region(餡ブレラ)&bold(){餡ブレラ}
+初めて大規模警察署襲撃を経験させられたギャング
+//
+****[[アルフォート　ウェスカー]]
+-餡ブレラのギャングボス
+-奇肉屋体験時、お会計をミスして土下座した
+
+****[[西蓮寺　華月]]
+-なぜか占いに誘ってきた
+
+****[[ネオ・レオンハート]]
+-白市民時代は警察署前でホットドッグ屋やクレープの移動販売をしていた
+
+****[[聖母　れりあ]]
+-遅番で薬物売買通知が来ると大体この人だろうと認識している
+
+****[[山田　ジェイミー]]（&s(){ジェイミーくん}、ジェイミー、山田）
+-餡ブレラの元構成員で警察の元同期。街の同期でもある。
+-警察合格当時は忙しくて2ヶ月遅れで配属された。
+-ガヴァイ退職を聞いて泣いたのをメンケアした
+-飯田けんつの再闇堕ちをきっかけに警察を辞める相談を受け、襲撃の経験談を伝えた
+-警察退職時に二度と口をきかないと伝え、後日直接逮捕するまで牢屋対応でも近づかなかった
+--その後彼の抱えていた事情と行動の真意を知り謝罪し、友人として再び対話するようになった。
+
+#endregion(餡ブレラ)
+//
+#region(NO LIMIT)&bold(){NO LIMIT}
+****[[ハク　ナツメ]]
+-元警察
+-餡ブレラ襲撃翌日に本署に来て、メンタルの心配をされた
+
+****[[山田　カイキ]]
+-早番マトリでよく遭遇する
+-元TOPGEAR構成員で勧誘を受けたことがある
+-第一回紅白歌合戦Day2を一緒に見た
+
+****[[蒲田　ヤバッキオ]]
+-白市民時代はA2で働いていた
+-漁師時代に似た名前の人を知っていた気がする
+
+#endregion(NO LIMIT)
+//
+#region(868)&bold(){868}
+重窃盗常習犯だがカスタムパーツは盗まないと思っている
+//
+****[[ケイン／オー]]
+-街初日の免許教習中にJTSで会ったロボット。元警察で最悪の世代の一人
+-初めて花摘み牢屋対応をした犯人
+-元同期とは警察を辞めた後により仲良くなったと聞いた
+-雪だるまの変装時はニャンコスキーと間違えている
+
+****[[魚参　屋]]
+-868所属のギャング。ダブルアジの片割れ
+-警察初日に黒だったことを知った
+-868に加入したことをプロファイルに書いた
+
+#endregion(868)
+//
+#region(Trickster)&bold(){Trickster}
+元同期及び同期が闇落ちする決定打となった女性がいるため、対応火力高めになりやすい
+//
+****[[ジョーカー>半沢　直ふぃ]]（ジョーカーさん）
+-初心者マークを外す時に唯一来てくれた
+-Tricksterのギャングボスで宝石店強盗の常習犯
+
+****[[ガヴァイ　アッカンマン]]（ガヴァイ）
+-警察の元同期。警察体験中に襲撃に遭って体験期間が延び、襲撃の世代命名のきっかけになった一人
+-起床率が高いため同期の中でも一緒に仕事をすることが多く、相次ぐ白市民の黒落ちに悩みながら衛星外でも訓練に勤しむ真面目なメンケア課……だった
+-2025年3月、突如として[[大事な人>天使　はの]]のために黒落ち予定することを明かして、警察を退職。味野に大きなショックを与えた
+
+****[[天使　はの]]
+-ガヴァイの彼女
+-白市民時代は魔法少女カフェで働いていて、チェキを押し売りされた
+
+#endregion(Trickster)
+//
+#region(hantasma)&bold(){hantasma}
+****[[アドミゲス・ハン]]
+-闇メカの疑い濃厚
+
+****[[ユン　ユンミ]]
+-街の同期。9055体験が一緒だった日に同じくたけいしょうじ泥酔事件に遭った
+
+****[[ジャン＝ジャック・ヴァラン]]
+-指名手配中に変装せず飲食店をよく開けている
+
+****[[くま　ぽこ]]
+-しょうじと犬ルリさんに詰められてギャング名を吐かされていた
+-血痕から別の仕事と名前（&openclose2(show=※){通話マッチングサービス「リンリン」のあちゃん}）を知ってしまった
+-バーバリアン田中の娘を騙り詐欺をした以降は田中さちこの名で呼ぶ事もある
+
+****[[神田　じぇいのすけ]]
+-[[ザリ蛸]]の店員。警察署へ移動販売に来ることが多い
+-ボブキャットの牢屋対応で逮捕者の中にいて驚いた
+
+#endregion(hantasma)
+//
+#region(第4宇宙速度)&bold(){第4宇宙速度}
+半グレ時代に「ゆるギャン」として活動していたギャング
+//
+****[[豆乳　ちゃんもも]]（ちゃんももさん）
+-高橋滅論の保護者
+-高橋滅論が盗んだテーザーを返却してくれた
+
+****[[高橋　滅論]]
+-ゆるギャン所属の半グレ。17時5時の男
+-テーザーとタクティカルライフルを盗んでいった張本人
+
+****[[サミュエル　佐藤]]
+-マトリで捕まえることが多い
+
+#endregion(第4宇宙速度)
+//
+#region(RqteL)&bold(){RqteL}
+****[[みこだ　よう]]
+-元警察で元ALLIN所属。なずぴさんのバディだったらしい
+-タブレットの報告書から真面目だったと感じている
+
+#endregion(RqteL)
+//
+#region(DERAY)&bold(){DERAY}
+****[[小峯　玲]]（小峯さん）
+-元IRiS構成員、魔女の酒場の店員
+-闇のカプ厨を自称しクリスティーヌとの関係に何かと口出ししてくる
+-顔を合わせると「おはじの」と挨拶をしてくる
+-人質解放条件などで弄られそうになる事が多く、対応している警官が多い場合は帰る事も
+
+#endregion(DERAY)
+//
+#region(他組織・半グレ)&bold(){他組織・半グレ}
+
+****[[ひの　らん]]（&s(){ひのらんさん}）
+-元警察の犯罪者。警察出勤初日にジョブを付与してもらった
+-警察を退職した日に電話をもらった
+-初めてこの街で闇堕ちする瞬間を見た相手。それ以来、さん付けをやめた
+
+****[[ネケ　ニマス]]
+-白市民パスを取りたがっている
+-花の現場で写真を撮ったり、無免許で事故を起こしたりしている
+
+****[[天草　蒼]]
+-元ALLIN所属のギャング。ダイニングカフェ「Yadorigi」店長。ぺんぺんの同級生
+-黒市民の働く店に金を落としたくないと考えるきっかけになる発言をした
+
+****[[Mon　D]]（モンディ）
+-ALLINのギャングボス。悪い人の中の一番悪い人
+-街の捜査中に発見された時、本署まで送ってくれたので優しいと思っている
+-ALIIN解散宣言後のパシフィック実行後、本署まで来てこれから死ぬと言われた
+
+#endregion(他組織・半グレ)
+//
+***&font(#4f455c){&icon_fa(fa-regular fa-face-smile)} 市民
+#region(街の同期)&bold(){街同期}
+同じ時期に街へ来た。
+山田ジェイミー、ゆたんぽ、ユンユンミ、鳳華マアも含まれる
+//
+****[[白狼　フリル]]
+-街の同期。A2と川上たばこ店で働いている。
+-初めてこの街で会った時、何故か話しやすかった。
+
+****[[蓮　シオン]]
+-警察体験経験者
+
+****[[久川　たんぽぽ]]
+-街の同期。アイドルをしている。花屋に就職した。
+-公務員不採用になったことを励ました
+
+****[[寝言　怠惰]]
+-街の同期。ペールノエルの店員。
+-餡ブレラ警察署襲撃時に救急体験中だったため巻き込んでしまった。
+
+#endregion(街の同期)
+//
+#region(飲食店・メカニック)&bold(){飲食店・メカニック}
+****[[揚物　ころも]]（あげころ）
+-免許センターの人。初日に免許講習を受けた。
+
+****[[青梅　つばめ]]
+-定期的に占いを受けている
+-ジェイミーが闇落ちした後に行った占いにて当てはまる事が多く心境を語った
+
+****[[猫又　ぴぴ]]
+-ガヴァイの娘。ガヴァイの退職をきっかけに交流が深まった
+-唯一この街で素顔を見た相手と言われている（白市民パス発行時に行った写真撮影のため）
+
+****[[上田　さん]]（&s(){ベロス}）
+-元9055の社長で街に来た頃はお世話になった相手。街中にスプレーをした事件で一度闇堕ちした
+-花摘みや薬に手を染めている姿を見て、もう白には戻れないと思っていた
+
+****[[まい　にい]]
+-元ALLIN構成員。白市民パスを取得しSKEに就職
+-早番の時間に修理の仕事を求めて警察署に来たり病院で出会う事が多い
+-彼が警察体験中に[[元難波芽久未>>元難波　芽久未]]と交際関係である事を知った
+
+#endregion(飲食店・メカニック)
+//
+#region(市役所)&bold(){市役所}
+****[[山下　ひろし]]
+-元市長であり現市長。警察体験をしていた
+
+****[[かな市長補佐]]
+-木曜日に試乗会や中古車D抽選会を行っている
+-パトカー関係の対応をしてもらっている
+
+****[[だん市長補佐]]（だんさん）
+-輸入商品店で別の街の商品を売っている
+-たまに警察署に訪れては色々な事を伝えてくれたり雑談をしている
+-彼が真島のチェイス練習を手伝った際は警察になりましょうと伝えるほど運転技術に驚いた
+
+#endregion(市役所)
+#right(){&link_up(🔝ページTOPへ)}
+*&font(25px,#C0C0C0){エ}ピソード &icon_fa(fa fa-book)
+&font(12px,b,#F54738){※エピソード募集中。ご本人が見る場合もあるので、自視点でわかる内容のみ記述してください。}
+//動画リンク先をYouTobeアーカイブに統一しました
+#include(味野　環九郎/エピソード1)
+#include(味野　環九郎/エピソード2)
+//エピソード1が3000行を超えたため、エピソード2を追加しました
+----
+&size(12){詳細ページ：[[エピソード1>味野　環九郎/エピソード1]],[[エピソード2>味野　環九郎/エピソード2]]}
+#right(){&link_up(🔝ページTOPへ)}
+*&font(25px,#C0C0C0){ア}ーカイブ &icon_fa(fa fa-video-camera)
+&font(12px,b,#000){※ &font(#6441A4){&icon_fa(fa fa-twitch)} Twitchアーカイブはサブスクライバー限定です。Twitchの仕様により一定期間経過すると視聴できなくなります。}
+&font(12px,b,#000){※ アーカイブは &font(#DA1725){&icon_fa(fa-brands fa-youtube)} YouTube再生リストにて数日後に限定公開で投稿されています。（Season2  35日目以降のアーカイブはメンバー限定）}
+&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[再生リスト：Season1アーカイブ>>https://www.youtube.com/playlist?list=PLsenjeomhjYML5b0q3rpFKookCUZsLbVk]]
+&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[再生リスト：Season2アーカイブ>>https://www.youtube.com/playlist?list=PLsenjeomhjYPlm0OADeRlZNLWA2Wwkswi]]
+
+***Season2
+#region(開く,open)&bold(){閉じる}
+***2025年12月
+#region(開く)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
+|~配信日|~#|~アーカイブタイトル|~配信|~備考|h
+|12/19|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 1日目>>https://www.youtube.com/watch?v=SLnYO4R2X0k]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2647680485]]||
+|12/24|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[警察2日目 味野環九郎>>https://www.youtube.com/watch?v=1CGMjqKX-hw]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2651852453]]||
+|12/25|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[警察 3日目 味野環九郎>>https://www.youtube.com/watch?v=-evGAQYntOE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2652551774]]||
+|12/26|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 4日目 警察>>https://www.youtube.com/watch?v=GfexATymotA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2653267887]]||
+|MIDDLE:12/27|MIDDLE:5|&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 5日目 警察>>https://www.youtube.com/watch?v=ttyMzUReK-E]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2654087619]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2654151527]]|1枠目（YouTubeアーカイブなし）&br()2枠目|
+|12/28|6|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 6日目 警察>>https://www.youtube.com/watch?v=z72HKdWYlHA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2654935628]]||
+|MIDDLE:12/31|MIDDLE:7|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 7日目 警察①>>https://www.youtube.com/watch?v=pr-FlS1P8LM]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 7日目 警察②>>https://www.youtube.com/watch?v=6bi4-xPp4cA]]|MIDDLE:[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2657484052]]||
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2025年12月)
+***2026年
+#region(開く,open)&bold(){閉じる}
+***1月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
+|~配信日|~#|~アーカイブタイトル|~配信|~備考|h
+|MIDDLE:01/01|MIDDLE:8|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 8日目 新年警察①>>https://www.youtube.com/watch?v=G8hmiwbfpXc]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 8日目 新年警察②>>https://www.youtube.com/watch?v=6kxaXEoaSqM]]|MIDDLE:[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2658160993]]||
+|01/02|9|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 9日目 新年警察>>https://www.youtube.com/watch?v=mV8bHubKqdU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2659056536]]||
+|01/03|10|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 10日目 新年警察>>https://www.youtube.com/watch?v=QUoWUpZftLk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2659947182]]||
+|01/04|11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 11日目 警察>>https://www.youtube.com/watch?v=ZED7BtZhAKw]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2660861070]]||
+|01/09|12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 12日目超遅番警察>>https://www.youtube.com/watch?v=fNPc_rn_YDQ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2665361804]]||
+|01/10|13|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 13日目 警察>>https://www.youtube.com/watch?v=5_NqDtfZG9c]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2666106361]]||
+|01/11|14|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 14日目 警察>>https://www.youtube.com/watch?v=1VdnllIZz98]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2667064404]]||
+|01/14|15|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 15日目 警察>>https://www.youtube.com/watch?v=ZgUhO1gzfUA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2669676556]]||
+|01/15|16|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 16日目 警察>>https://www.youtube.com/watch?v=G1WsdtDG2PI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2670544623]]||
+|01/16|17|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 17日目 警察>>https://www.youtube.com/watch?v=clLDuMQodjY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2671408226]]||
+|01/17|18|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 18日目 警察>>https://www.youtube.com/watch?v=Ad5W2Aau99c]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2672344661]]||
+|01/18|19|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 19日目 警察>>https://www.youtube.com/watch?v=vlnxo9Xl9HY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2673301654]]||
+|01/21|20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 20日目 警察>>https://www.youtube.com/watch?v=wXVHId4Cw6E]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2675957389]]||
+|01/22|21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 21日目 警察>>https://www.youtube.com/watch?v=2gIKpIrbXxE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2676834030]]||
+|01/23|22|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 22日目 警察>>https://www.youtube.com/watch?v=6NrIO_lWR7U]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2677715757]]||
+|01/24|23|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 23日目 警察>>https://www.youtube.com/watch?v=0BpDJ9W37GQ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2678667030]]||
+|01/25|24|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 24日目 警察>>https://www.youtube.com/watch?v=TyQinrORaVk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2679667893]]||
+|01/28|25|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 25日目 警察>>https://www.youtube.com/watch?v=zhtmBiYsnhY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2682420737]]||
+|01/29|26|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 26日目 警察>>https://www.youtube.com/watch?v=UgkEVLyyTAM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2683302879]]||
+|01/30|27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 27日目 警察>>https://www.youtube.com/watch?v=0OeXzBtxhXI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2684176347]]||
+|01/31|28|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 28日目 警察>>https://www.youtube.com/watch?v=d0KpUgzvd9M]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2685109097]]||
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(1月)
+***2月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
+|~配信日|~#|~アーカイブタイトル|~配信|~備考|h
+|02/01|29|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 29日目 警察>>https://www.youtube.com/watch?v=RMjByGXEmAY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2686077248]]||
+|02/04|30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 30日目 警察>>https://www.youtube.com/watch?v=Fc2gOg97hVs]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2688696744]]||
+|02/05|31|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 31日目 警察>>https://www.youtube.com/watch?v=zL1Cyuky6RI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2689556485]]||
+|02/06|32|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 32日目 警察>>https://www.youtube.com/watch?v=3aXe-6Q0eak]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2690421815]]||
+|02/07|33|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 33日目 警察>>https://www.youtube.com/watch?v=WlcHWHImpAk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2691342523]]||
+|02/08|34|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 34日目 警察>>https://www.youtube.com/watch?v=3eg7rxJmHF8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2692289963]]||
+|02/11|35|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 35日目 警察>>https://www.youtube.com/watch?v=R8rzlMs-5Bc]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2694831450]]||
+|02/12|36|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 36日目 警察>>https://www.youtube.com/watch?v=JVISE0yhhcI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2695684761]]||
+|02/13|37|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 37日目 警察>>https://www.youtube.com/watch?v=YSRPzXEadt0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2696538445]]||
+|02/14|38|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 38日目 警察>>https://www.youtube.com/watch?v=sUijYAB5GpE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2697452724]]||
+|02/15|39|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 39日目 警察>>https://www.youtube.com/watch?v=w_frXyuciyM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2698344976]]||
+|02/18|40|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 40日目 警察>>https://www.youtube.com/watch?v=A0r7uIH80iE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2701008057]]||
+|02/19|41|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 41日目 警察>>https://www.youtube.com/watch?v=A0r7uIH80iE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2701874128]]||
+|02/20|42|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 42日目 警察>>https://www.youtube.com/watch?v=hfoqIxI8qWQ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2702738761]]||
+|02/21|43|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 43日目 警察>>https://www.youtube.com/watch?v=MVS8kKPEXng]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2703654260]]||
+|02/25|44|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 44日目 警察>>https://www.youtube.com/watch?v=54OMtmq_1Ek]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2707214696]]||
+|02/26|45|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 45日目 警察>>https://www.youtube.com/watch?v=sac1b5FE-Q4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2708057659]]||
+|02/27|46|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 46日目 警察>>https://www.youtube.com/watch?v=CxpFNYRs5m0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2708942691]]||
+|02/28|47|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 47日目 警察>>https://www.youtube.com/watch?v=MmzkvxtZ2Qw]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2709911223]]||
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2月)
+***3月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
+|~配信日|~#|~アーカイブタイトル|~配信|~備考|h
+|03/01|48|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 48日目 警察>>https://www.youtube.com/watch?v=gJhFQrKGLQ8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2710868237]]||
+|03/04|49|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 49日目 警察>>https://www.youtube.com/watch?v=LIb_7Hxjp_8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2713459263]]||
+|03/05|50|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 50日目 警察>>https://www.youtube.com/watch?v=4Z2epTOIncU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2714305391]]||
+|03/06|51|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 51日目 警察>>https://www.youtube.com/watch?v=HEs0_xX_eac]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2715156724]]||
+|03/07|52|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 52日目 警察>>https://www.youtube.com/watch?v=XFnrpP2f7Ck]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2716062709]]||
+|03/08|53|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 53日目 警察>>https://www.youtube.com/watch?v=zwpqxGL-E7I]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2716981966]]||
+|03/12|54|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 54日目 警察>>https://www.youtube.com/watch?v=SLUpc40uZ54]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2720294259]]||
+|03/13|55|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 55日目 警察>>https://www.youtube.com/watch?v=Lu-qYVcyoGE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2721125173]]||
+|03/14|56|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 56日目 警察>>https://www.youtube.com/watch?v=s41iEAQCleA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2722009851]]||
+|03/15|57|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 57日目 警察>>https://www.youtube.com/watch?v=1Ggs0yMqj0k]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2722904356]]||
+|03/18|58|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 58日目 警察>>https://www.youtube.com/watch?v=aZgEExdwA-c]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2725399271]]||
+|03/19|59|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 59日目 警察>>https://www.youtube.com/watch?v=dUu2jENz5Hk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2726212821]]||
+|03/20|60|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 60日目 警察>>https://www.youtube.com/watch?v=5GwYieAERJg]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2727056457]]||
+|03/21|61|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 61日目 警察>>https://www.youtube.com/watch?v=4ugz_gGy-9o]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2727932009]]||
+|03/25|62|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 62日目 警察>>https://www.youtube.com/watch?v=X2wXeTJx-bc]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2731274917]]||
+|03/26|63|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 63日目 警察>>https://www.youtube.com/watch?v=xVER5yoHOLM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2731274917]]||
+|03/27|64|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 64日目 警察>>https://www.youtube.com/watch?v=WUDjTjkvPBg]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2732896680]]||
+|03/28|65|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 65日目 警察>>https://www.youtube.com/watch?v=SYtKYJCwgyU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2733756103]]||
+|03/29|66|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 66日目 警察>>https://www.youtube.com/watch?v=puR9jhjKTa4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2734639128]]||
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(3月)
+***4月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
+|~配信日|~#|~アーカイブタイトル|~配信|~備考|h
+|04/01|67|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 67日目 警察>>https://www.youtube.com/watch?v=MQYO3WprVDI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2737087107]]||
+|04/02|68|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 68日目 警察 東署零課編>>https://www.youtube.com/watch?v=m0CJUqGXfNs]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2737912833]]||
+|04/03|69|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 69日目 警察 東署零課編>>https://www.youtube.com/watch?v=mNoh1RvOk8k]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2738746209]]||
+|04/04|70|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 70日目 警察 東署零課編>>https://www.youtube.com/watch?v=BHIKxLbug-g]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2739623684]]||
+|04/05|71|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 71日目 警察>>https://www.youtube.com/watch?v=1SL4ji-2z1c]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2740473248]]||
+|04/08|72|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 72日目 警察>>https://www.youtube.com/watch?v=NGytk4qZ3Us]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2742869180]]||
+|04/09|73|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 73日目 警察>>https://www.youtube.com/watch?v=Hj61DOm9neg]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2743664667]]||
+|04/10|74|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 74日目 警察>>https://www.youtube.com/watch?v=Ps2lT4mkLXY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2744463632]]||
+|04/11|75|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 75日目 警察>>https://www.youtube.com/watch?v=SZkvgth4uiE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2745315558]]||
+|04/12|76|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 76日目 警察>>https://www.youtube.com/watch?v=UgcODanLU_Q]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2746179258]]||
+|04/15|77|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 77日目 警察>>https://www.youtube.com/watch?v=yLdZUkT4pgQ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2748557410]]||
+|04/16|78|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 78日目 警察>>https://www.youtube.com/watch?v=OAVFFaFEfmA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2749341949]]||
+|04/17|79|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 79日目 警察>>https://www.youtube.com/watch?v=m3MOWH4GqAY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2750140105]]||
+|04/18|80|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 80日目 警察>>https://www.youtube.com/watch?v=LIQp1e2v_7s]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2750985564]]||
+|04/19|81|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 81日目 警察>>https://www.youtube.com/watch?v=t5DFXOVEDaw]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2751833110]]||
+|04/22|82|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 82日目 警察>>https://www.youtube.com/watch?v=x0gwIOuYJhM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2754208492]]||
+|04/23|83|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 83日目 警察>>https://www.youtube.com/watch?v=US2Vdgu2AHg]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2754998864]]||
+|04/24|84|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 84日目 警察>>https://www.youtube.com/watch?v=9UcON0F4JTE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2755774200]]||
+|04/25|85|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 85日目 警察>>https://www.youtube.com/watch?v=MMqt7pfmufg]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2756604729]]||
+|04/26|86|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 86日目 警察>>https://www.youtube.com/watch?v=xqZHs6KPMiA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2757443041]]||
+|04/29|87|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 87日目 警察>>https://www.youtube.com/watch?v=Wv4WAyeAIEA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2759800002]]||
+|04/30|88|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 88日目 警察>>https://www.youtube.com/watch?v=PPqug2L5Vzs]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2760589172]]||
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(4月)
+***5月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
+|~配信日|~#|~アーカイブタイトル|~配信|~備考|h
+|05/01|89|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 89日目 警察>>https://www.youtube.com/watch?v=Boyn8H4V9zY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2761413636]]||
+|05/02|90|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 90日目 警察>>https://www.youtube.com/watch?v=I0bO-PflKEs]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2762258398]]||
+|05/03|91|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 91日目 警察>>https://www.youtube.com/watch?v=XYSnHwUr_A0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2763090536]]||
+|05/06|92|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 92日目 警察>>https://www.youtube.com/watch?v=vUZpNunocSs]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2765423747]]||
+|05/07|93|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 93日目 警察>>https://www.youtube.com/watch?v=_Ri_8v9YbZs]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2766191709]]||
+|05/08|94|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 94日目 警察>>https://www.youtube.com/watch?v=KqUtU1w79UM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2766964301]]||
+|05/09|95|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 95日目 警察>>https://www.youtube.com/watch?v=VXj3JqZK1vM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2767776110]]||
+|05/10|96|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 96日目 警察>>https://www.youtube.com/watch?v=PY6AxTv2Smk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2768594005]]||
+|05/13|97|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 97日目 警察>>https://www.youtube.com/watch?v=rYE-xSqDbL0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2770866410]]||
+|05/14|98|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 98日目 警察>>https://www.youtube.com/watch?v=5YzjGbO7ROs]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2771649708]]||
+|05/15|99|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 99日目 警察>>https://www.youtube.com/watch?v=IkuJcLy5ucE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2772473794]]||
+|05/16|100|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 100日目 警察>>https://www.youtube.com/watch?v=Ad_Ggaj8bYw]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2773310713]]||
+|05/17|101|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 101日目 警察>>https://www.youtube.com/watch?v=ICf-zks2I1U]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2774141215]]||
+|05/20|102|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 102日目 警察>>https://www.youtube.com/watch?v=uGdlyfSiwvE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2776473593]]||
+|05/21|103|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 103日目 警察>>https://www.youtube.com/watch?v=A5_agbCcxPo]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2777256562]]||
+|05/22|104|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 104日目 警察>>https://www.youtube.com/watch?v=MnWWcXaXB8o]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2778027461]]||
+|05/23|105|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 105日目 警察>>https://www.youtube.com/watch?v=JAe5ySp8wmk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2778839033]]||
+|05/24|106|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 106日目 警察>>https://www.youtube.com/watch?v=7f-1ZHnwN3w]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2779656501]]||
+|05/27|107|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 107日目 警察>>https://www.youtube.com/watch?v=3H_FB9LPNAQ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2782021307]]||
+|MIDDLE:05/28|MIDDLE:108|MIDDLE:&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 108日目 警察>>https://www.youtube.com/watch?v=D8ycZdMHxh0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)&nbsp;①}>>https://www.twitch.tv/videos/2782802765]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)&nbsp;②}>>https://www.twitch.tv/videos/2783001376]]||
+|05/29|109|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 109日目 警察>>https://www.youtube.com/watch?v=7QSeP6N0EJg]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2783575484]]||
+|05/30|110|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 110日目 警察>>https://www.youtube.com/watch?v=CeMXIrMJZmI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2784394368]]||
+|05/31|111|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 111日目 魂が誕生日>>https://www.youtube.com/watch?v=cNWVDw5a9NI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2785199853]]||
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(5月)
+***6月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
+|~配信日|~#|~アーカイブタイトル|~配信|~備考|h
+|06/03|112|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 112日目 警察>>https://www.youtube.com/watch?v=SKjP8sNrMv0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2787535698]]||
+|06/04|113|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 113日目 警察>>https://www.youtube.com/watch?v=9oL_v6kErG8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2788321871]]||
+|06/05|114|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 114日目 警察>>https://www.youtube.com/watch?v=hD6huuAXhxo]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2789116872]]||
+|06/06|115|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 115日目 警察>>https://www.youtube.com/watch?v=ug6IuirNRrk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2789977144]]||
+|06/07|116|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 116日目 警察>>https://www.youtube.com/watch?v=JbjbcTvuf8Y]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2790805355]]||
+|06/10|117|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 117日目 警察>>https://www.youtube.com/watch?v=RILPv2WvpuM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2793187265]]||
+|06/11|118|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 118日目 警察>>https://www.youtube.com/watch?v=BkBKRrDyC1I]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2793981846]]||
+|06/12|119|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 119日目 警察>>https://www.youtube.com/watch?v=g9F5nx4SAPE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2794762693]]||
+|06/13|120|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 120日目 警察>>https://www.youtube.com/watch?v=ElaRurVfrV0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2795579019]]||
+|06/14|121|味野環九郎 121日目 警察|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2796378968]]||
+|06/18|122|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 122日目 警察>>https://www.youtube.com/watch?v=OfqU5eZBa0A]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2799504576]]||
+|06/19|123|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 123日目 警察>>https://www.youtube.com/watch?v=SlBBXguSWSY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}①>>https://www.twitch.tv/videos/2800291227]]&nbsp()[[&font(#6441A4){&icon_fa(fa fa-twitch)}②>>https://www.twitch.tv/videos/2800485493]]||
+|06/20|124|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 124日目 警察>>https://www.youtube.com/watch?v=RCQEOCgm6Uo]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2801088614]]||
+|06/21|125|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 125日目 警察>>https://www.youtube.com/watch?v=5ixIwxehtA4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2801879118]]||
+|06/24|126|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 126日目 警察>>https://www.youtube.com/watch?v=N9b5nBVcxto]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2804157963]]||
+|06/25|127|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 127日目 警察>>https://www.youtube.com/watch?v=zPOtfpL0ydM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2804932515]]||
+|06/26|128|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 128日目 警察>>https://www.youtube.com/watch?v=Q5dDl0LEOcM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2805707694]]||
+|06/27|129|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 129日目 警察>>https://www.youtube.com/watch?v=wgrZRlO04Tw]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2806501925]]||
+|06/28|130|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 130日目 警察>>https://www.youtube.com/watch?v=bBvunRBZnL0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2807283949]]||
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(6月)
+***7月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
+|~配信日|~#|~アーカイブタイトル|~配信|~備考|h
+|07/01|131|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 131日目 警察>>https://www.youtube.com/watch?v=2LfU-L3HIso]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2809555926]]||
+|07/02|132|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 132日目 警察>>https://www.youtube.com/watch?v=6hYVllxiOzM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2810326486]]||
+|07/03|133|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 133日目 警察>>https://www.youtube.com/watch?v=26Nyvt0ZdH4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2811108037]]||
+|07/04|134|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 134日目 警察>>https://www.youtube.com/watch?v=26B5OoXZXdk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2811896993]]||
+|07/05|135|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 135日目 警察>>https://www.youtube.com/watch?v=GD3GoayJ3Ko]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2812638256]]||
+|07/08|136|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 136日目 警察>>https://www.youtube.com/watch?v=vqJ9knFIwXA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2814907474]]||
+|07/09|137|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 137日目 警察>>https://www.youtube.com/watch?v=PCiNvnb0HA0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2815696116]]||
+|07/10|138|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 138日目 警察>>https://www.youtube.com/watch?v=fWHyFlc6bGM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2816506087]]||
+|07/11|139|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 139日目 警察>>https://www.youtube.com/watch?v=bhS9O8SR4pY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2817341433]]||
+|07/12|140|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 140日目 警察>>https://www.youtube.com/watch?v=Gi1nX7hkzHI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2818132805]]||
+|07/15|141|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 141日目 警察>>https://www.youtube.com/watch?v=BcwedLbOAwM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2820488337]]||
+|07/16|142|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 142日目 警察>>https://www.youtube.com/watch?v=OAgNqCmhAUI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2821270438]]||
+|07/17|143|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 143日目 警察>>https://www.youtube.com/watch?v=EGBUo6MBGU8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2822071321]]||
+|07/18|144|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 144日目 警察>>https://www.youtube.com/watch?v=ld8S4F4xkEA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2822897927]]||
+|07/19|145|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 145日目 警察>>https://www.youtube.com/watch?v=BVPQ4LaGOmw]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2823717054]]||
+|07/22|146|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 146日目 警察>>https://www.youtube.com/watch?v=zwMNyY0JmtM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2826096192]]||
+|07/23|147|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 147日目 警察>>https://www.youtube.com/watch?v=bFJZFFSuxp0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2826918120]]||
+|07/24|148|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 148日目 警察>>https://www.youtube.com/watch?v=9k3p-626HQU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2827740406]]||
+|07/25|149|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 149日目 警察>>https://www.youtube.com/watch?v=2AltcdoZG3k]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2828583237]]||
+|07/26|150|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 150日目 警察>>https://www.youtube.com/watch?v=3ZFnUaf74k0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2829403623]]||
+|07/29|151|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 151日目 警察>>https://www.youtube.com/watch?v=4v-x1vtj378]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2831829055]]||
+|07/30|152|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 152日目 警察>>https://www.youtube.com/watch?v=BEALLgff2v4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2832645082]]||
+|07/31|153|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 153日目 警察>>https://www.youtube.com/watch?v=1bzuUhN3GvU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2833463257]]||
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(7月)
+***8月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
+|~配信日|~#|~アーカイブタイトル|~配信|~備考|h
+|08/01|154|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 154日目 警察>>https://www.youtube.com/watch?v=bPu82ymddy0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2834329267]]||
+|08/02|155|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 155日目 警察>>https://www.youtube.com/watch?v=wgXl47DBTyc]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2835193615]]||
+|08/05|156|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 156日目 警察>>https://www.youtube.com/watch?v=Pt1JOHxWeOE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2837787612]]||
+|08/06|157|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 157日目 警察>>https://www.youtube.com/watch?v=u27lHGQsgMY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2838668449]]||
+|08/07|158|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 158日目 警察>>https://www.youtube.com/watch?v=lrdh0tKGlyE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2839561662]]||
+|08/08|159|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 159日目 警察>>https://www.youtube.com/watch?v=f1MJ07Zfu5g]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2840477612]]||
+|08/09|160|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 161日目 警察>>https://www.youtube.com/watch?v=dSNbd5O2K6E]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2841388850]]||
+|08/12|161|味野環九郎 161日目 警察|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2844057452]]||
+|08/13|162|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 162日目 警察>>https://www.youtube.com/watch?v=BSsUiBz0bkE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2844957296]]||
+|08/14|163|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 163日目 警察>>https://www.youtube.com/watch?v=Ztxu7718RM4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2845858731]]||
+|08/15|164|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 164日目 警察>>https://www.youtube.com/watch?v=TZn1I42VQrk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2846770440]]||
+|08/16|165|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 165日目 警察>>https://www.youtube.com/watch?v=A1KIwRdlrlM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2847717191]]||
+|08/19|166|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 166日目 警察>>https://www.youtube.com/watch?v=OeImZoGxdNE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2850418813]]||
+|08/20|167|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 167日目 警察>>https://www.youtube.com/watch?v=eT8eyQ6uoo0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2851321057]]||
+|08/21|168|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 168日目 警察>>https://www.youtube.com/watch?v=N7XAB3Sdpss]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2852230524]]||
+|08/22|169|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 169日目 警察>>https://www.youtube.com/watch?v=B2DnTC5df_c]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2853189782]]||
+|08/23|170|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 170日目 警察>>https://www.youtube.com/watch?v=XLiZbfiM-3s]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2854137822]]||
+|08/26|171|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 171日目 警察>>https://www.youtube.com/watch?v=XTA0exJc9lI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2856814028]]||
+|08/27|172|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 172日目 警察>>https://www.youtube.com/watch?v=Dbn0cUXGAos]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2857726146]]||
+|08/28|173|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 173日目 警察>>https://www.youtube.com/watch?v=CsJL6Nd2c7g]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2858622369]]||
+|08/29|174|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 174日目 警察>>https://www.youtube.com/watch?v=IDZCCJJ_SSM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2859571456]]||
+|08/30|175|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 175日目 警察>>https://www.youtube.com/watch?v=rAXrraWGv40]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2860530611]]||
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(8月)
+***9月
+#region(開く,open)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
+|~配信日|~#|~アーカイブタイトル|~配信|~備考|h
+|09/02|176|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 176日目 警察>>https://www.youtube.com/watch?v=e6_kTUlueFM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2863178845]]||
+|09/03|177|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 177日目 警察>>https://www.youtube.com/watch?v=cV-iJnzUzUY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2864036370]]||
+|09/04|178|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 178日目 警察>>https://www.youtube.com/watch?v=AQkhMt1zHzo]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2864893013]]||
+|09/05|179|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 179日目 警察>>https://www.youtube.com/watch?v=1jF1-p9Kq0s]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2865825339]]||
+|09/06|180|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 180日目 警察>>https://www.youtube.com/watch?v=uaXahNKyu_c]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2866772722]]||
+|09/09|181|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 2周年>>https://www.youtube.com/watch?v=WLtkxBW8CMk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2869416422]]||
+|09/10|182|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 182日目 警察>>https://www.youtube.com/watch?v=r8hUPqhbYrQ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2870267551]]||
+|09/11|183|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 183日目 警察>>https://www.youtube.com/watch?v=wjzvzbrKsDw]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2871121532]]||
+|09/12|184|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 184日目 警察>>https://www.youtube.com/watch?v=u1wgqWFw7ds]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2872047814]]||
+|09/13|185|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 185日目 警察>>https://www.youtube.com/watch?v=z3qF54Mhmas]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2873005181]]||
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(9月)
+#endregion(2026年)
+#endregion(Season2)
+
+***Season1
+#region(開く)&bold(){閉じる}
+***2024年
+#region(開く)&bold(){閉じる}
+#include(味野　環九郎/アーカイブ2024)
+#endregion(2024年)
+***2025年
+#region(開く)&bold(){閉じる}
+#include(味野　環九郎/アーカイブ2025-1)
+#endregion(Season1)
+#endregion(2025年)
+
+//20260616: Season1のアーカイブをすべて別ページに移動
+//テーブルソート機能がおかしくなっていたため、セル結合編集を解除しました
+//○○編分類をエピソードだけにして、アーカイブは年月分類のみに変更しました
+#co{↓コピー用素材 ※見出し行は編集画面が途中で切れるのを防ぐため、行ごとに「//」で重ねてコメントアウトしてください
+//***yyyy年
+#region(開く,open)&bold(){閉じる}
+//****mm月
+#region(開く,open)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
+|~配信日|~#|~アーカイブタイトル|~配信|~備考|h
+//|mm/dd|n|（YouTubeアーカイブなし）配信タイトル|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>ここにTwitch配信URLを入力]]||
+//|mm/dd|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブタイトル>>ここにYouTubeアーカイブURLを入力]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>ここにTwitch配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(mm月)
+#endregion(yyyy年)
+}
+----
+&size(12){詳細ページ：[[2024年>味野　環九郎/アーカイブ2024]]、[[2025年>味野　環九郎/アーカイブ2025-1]]}
+#right(){&link_up(🔝ページTOPへ)}
+*&font(25px,#C0C0C0){動}画 &icon_fa(fa-brands fa-youtube)
+**公式切り抜き
+&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[再生リスト：Season1公式切り抜き>>https://www.youtube.com/playlist?list=PLsenjeomhjYOY0qBq5v8IvVZR9ZEGOg88]]
+&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[再生リスト：Season2公式切り抜き>>https://www.youtube.com/playlist?list=PLsenjeomhjYPBD-iDduFtczVLMJlW6aJ7]]
+
+***Season2
+#region(開く,open)&bold(){閉じる}
+***2026年
+#region(開く,open)&bold(){閉じる}
+***1月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
+#table_filter(){投稿日=show,動画タイトル=show,備考=show}
+|~投稿日|~動画タイトル|~備考|h
+|2026/01/07|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[MonD大暴れで苦戦する警察署員達【味野環九郎】>>https://youtu.be/ojFO44Fo6V8]]|11日目 2026/01/04|
+|2026/01/12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[転送後にバケモノに遭遇 速攻DNA鑑定へ【味野環九郎】>>https://www.youtube.com/watch?v=D7J2NEVq_Bc]]|14日目 2026/01/11|
+|2026/01/15|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[怪しい売人を発見してしまう【味野環九郎】>>https://www.youtube.com/watch?v=zN0gpDPos-A]]|15日目 2026/01/14|
+|2026/01/17|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[MonDに資金洗浄所で違法な花を渡され犯罪者に囲まれて修羅場になる【味野環九郎】>>https://www.youtube.com/watch?v=Qx2sPkZgFao]]|17日目 2026/01/16|
+|2026/01/19|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[大量の花を最速で発見してしまう【味野環九郎】>>https://www.youtube.com/watch?v=D4AuuuIt6oo]]|18日目 2026/01/17|
+|2026/01/22|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[大麻っぽい怪しい葉っぱを発見!? ついに薬物通知が...【味野環九郎】>>https://www.youtube.com/watch?v=BMUFxVDGiDE]]|20日目 2026/01/21|
+|2026/01/23|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[鍵付きの資金洗浄所で犯人に閉じ込められパニックになる警察署員達【味野環九郎】>>https://www.youtube.com/watch?v=woKgRVZTez0]]|21日目 2026/01/22|
+|2026/01/27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[東署インターン組の課の名前が挙がる【味野環九郎】>>https://www.youtube.com/watch?v=h2KH95z9BaA]]|21日目 2026/01/22|
+|2026/01/29|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[銃を証拠隠滅したエスタークを証拠隠滅罪で詰める【味野環九郎】>>https://www.youtube.com/watch?v=BZ9kRRQ9nHo]]|25日目 2026/01/28|
+#table_autoincrement(){label=#,start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(1月)
+***2月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
+#table_filter(){投稿日=show,動画タイトル=show,備考=show}
+|~投稿日|~動画タイトル|~備考|h
+|2026/02/01|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[遂に手芸クラフト台を発見するが、月ノ島ごうに張り込みがバレてしまう【味野環九郎】>>https://www.youtube.com/watch?v=1Su9pdq-QKA]]|28日目 2026/01/31|
+|2026/02/05|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[様子がおかしいマクドナルドさん?が本署にきた【味野環九郎】>>https://www.youtube.com/watch?v=siiLf946Mss]]|30日目 2026/02/04|
+|2026/02/07|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[新犯罪ハッキングUSBを使った犯人Back Alleyの取り調べでまさかの事実が発覚【味野環九郎】>>https://www.youtube.com/watch?v=Nj5xRvodT4s]]|32日目 2026/02/06|
+|2026/02/08|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[謎の鍵部屋で小峯れいに遭遇...闇を知りすぎて記憶喪失の危機【味野環九郎】>>https://www.youtube.com/watch?v=QnSs1avUf2o]]|33日目 2026/02/07|
+|2026/02/10|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[パンツの使い道が判明!? 怪しい取引所で検証する警察署員達【味野環九郎】>>https://www.youtube.com/watch?v=fxoVo7PQm0Y]]|34日目 2026/02/08|
+|2026/02/10|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[警察をガソリンで燃やしてツイックスに晒す凶悪犯にブチギレる一部始終【味野環九郎】>>https://www.youtube.com/watch?v=Qy1_3aud8uk]]|34日目 2026/02/08|
+|2026/02/14|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[バレンタインに叢雲るいから味野ぬいぐるみを貰う!?【味野環九郎】>>https://www.youtube.com/watch?v=iFnC2cL2N4k]]|37日目 2026/02/13|
+|2026/02/15|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[Dr.ギガと謎の歪んだ場所巡りで大はしゃぎｗ【味野環九郎】>>https://www.youtube.com/watch?v=IxaIsbZY_jE]]|37日目 2026/02/13|
+|2026/02/19|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[警察破産!? 署長のお願いで全財産4000万円を警察金庫に送金する羽目になる味野環九郎>>https://www.youtube.com/watch?v=tOmpYTZQ4O8]]|40日目 2026/02/18|
+|2026/02/20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[市長に警察破産4000万の件を報告してみた結果...【味野環九郎】>>https://www.youtube.com/watch?v=AF4cw8zmYwc]]|41日目 2026/02/19|
+|2026/02/23|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[警察を退勤して叢雲るいと姫野咲と遊ぶ味野環九郎>>https://www.youtube.com/watch?v=yiMpYzL8Rqk]]|39日目 2026/02/15|
+|2026/02/26|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[1日寝てただけで行方不明扱いをされH＆B探偵事務所から200万円請求される味野環九郎>>https://www.youtube.com/watch?v=yiMpYzL8Rqk]]|44日目 2026/02/25|
+|2026/02/27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[叢雲るいの謎の力で記憶を消されてしまう【味野環九郎】>>https://www.youtube.com/watch?v=YVMeUiOGe_I]]|45日目 2026/02/26|
+#table_autoincrement(){label=#,start=10}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2月)
+***3月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
+#table_filter(){投稿日=show,動画タイトル=show,備考=show}
+|~投稿日|~動画タイトル|~備考|h
+|2026/03/05|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[さぶ郎先輩に警察業務が辛かったことを打ち明ける【味野環九郎】>>https://www.youtube.com/watch?v=nXmA9vT2FXg]]|49日目 2026/03/04|
+|2026/03/07|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[約1ヶ月ぶりに起きた夏苗先輩に情報共有するが...【味野環九郎】>>https://www.youtube.com/watch?v=sX9NKg2ZOgk]]|51日目 2026/03/06|
+|2026/03/08|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[人質の解放条件「丸一日黄色帽子短パン」に耐えきれず退勤してしまうｗ【味野環九郎】>>https://www.youtube.com/watch?v=LVjLm7w0czg]]|52日目 2026/03/07|
+|2026/03/08|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[人質の解放条件の強要について葛城さんと警察に悩みを相談してみた【味野環九郎】>>https://www.youtube.com/watch?v=jGrGur_fK5M]]|52日目 2026/03/07|
+|2026/03/13|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[警察会議で市長から今後街が大きく変わる重大な情報を知る【味野環九郎】>>https://www.youtube.com/watch?v=YcnivcD_Xl4]]|54日目 2026/03/12|
+|2026/03/15|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[ついに解禁！飛行場襲撃&アーティファクト強盗を対応する【味野環九郎】>>https://www.youtube.com/watch?v=oEoKzO0Ch94]]|56日目 2026/03/14|
+|2026/03/20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[餡ブレラのウェスカーが帰ってきた!?【味野環九郎】>>https://www.youtube.com/watch?v=yoLwomatrJk]]|59日目 2026/03/19|
+|2026/03/21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[元警察同期の山田ジェイミーが餡ブレラにいて困惑する【味野環九郎】>>https://www.youtube.com/watch?v=yoLwomatrJk]]|60日目 2026/03/20|
+|2026/03/27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[衝撃映像... 薬の取引現場を監視カメラで見てしまう【味野環九郎】>>https://www.youtube.com/watch?v=uTBspeKKL5s]]|61日目 2026/03/21|
+|2026/03/27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[特例で四皇シャンクズを警察体験に受け入れることに疑問を抱いてしまう【味野環九郎】>>https://www.youtube.com/watch?v=_LXZwLWFfK0]]|63日目 2026/03/26|
+|2026/03/27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[868パトカー重窃盗事件 真島編【味野環九郎】>>https://www.youtube.com/watch?v=9emeHAOR2yM]]|63日目 2026/03/26|
+|2026/03/28|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[東署組の課「犯罪対策零課」で決定！略して零課【味野環九郎】>>https://www.youtube.com/watch?v=dST2mDdd2qE]]|64日目 2026/03/27|
+|2026/03/29|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[犯罪者が血痕を証拠隠滅できる新事実が発覚し救急隊と警察会議へ【味野環九郎】>>https://www.youtube.com/watch?v=7il2sI1o3Ik]]|65日目 2026/03/28|
+|2026/03/30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[未遂の基準判明で大混乱!?証拠隠滅罪のもどかしさと現実 【味野環九郎】>>https://www.youtube.com/watch?v=7il2sI1o3Ik]]|66日目 2026/03/29|
+#table_autoincrement(){label=#,start=23}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(3月)
+***4月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
+#table_filter(){投稿日=show,動画タイトル=show,備考=show}
+|~投稿日|~動画タイトル|~備考|h
+|2026/04/02|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[餡ブレラ復活宣言!? 本署で口論になってしまう【味野環九郎】>>https://www.youtube.com/watch?v=iQJGqzi2XzA]]|67日目 2026/04/01|
+|2026/04/02|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[犯罪者が人質になっている現状に憤慨する【味野環九郎】>>https://www.youtube.com/watch?v=gLM-fPplvks]]|68日目 2026/04/02|
+|2026/04/05|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[脇逢魔が司法取引を試みるが共犯相手に見放されてしまう一部始終【味野環九郎】>>https://www.youtube.com/watch?v=kuoZpdVQ0-M]]|71日目 2026/04/05|
+|2026/04/06|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[無馬かなへの職質に苦戦する警察署員達【味野環九郎】>>https://www.youtube.com/watch?v=gWJq_1nOxdA]]|71日目 2026/04/05|
+|2026/04/09|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[怖すぎる新人ライルブラックのドイツ式尋問を最初から最後まで見守る味野環九郎>>https://www.youtube.com/watch?v=HtNFS8dGtYk]]|72日目 2026/04/08|
+|2026/04/12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[不法入国で勾留中の上田の件を聞かれる度にとぼける味野【味野環九郎】>>https://www.youtube.com/watch?v=V_AprlgFWpk]]|75日目 2026/04/11|
+|2026/04/12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[マクドナルド詐欺疑惑 BJローン白市民認定証の返却拒否!? 【味野環九郎】>>https://www.youtube.com/watch?v=akgl03IXaQA]]|75日目 2026/04/11|
+|2026/04/18|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[不満が爆発し警察会議を開く味野 テーザーと実銃の件と病院脱走の一部始終【味野環九郎】>>https://www.youtube.com/watch?v=dzdW2bA2C_8]]|77日目 2026/04/15|
+|2026/04/20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[薬物発見!怪しいバンとの関連性は!?職質から発砲事件に発展【味野環九郎】>>https://www.youtube.com/watch?v=DEPl9FgJbjY]]|80日目 2026/04/18|
+|2026/04/26|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[警察同期のぺんゆきやが横領!?ガチの相談を受ける【味野環九郎】>>https://www.youtube.com/watch?v=UE9_XL5AOfI]]|85日目 2026/04/25|
+#table_autoincrement(){label=#,start=37}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(4月)
+***5月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
+#table_filter(){投稿日=show,動画タイトル=show,備考=show}
+|~投稿日|~動画タイトル|~備考|h
+|2026/05/03|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[事件現場に闇医者タクシー!? 全滅後の現場処理に困惑し警察会議へ【味野環九郎】>>https://www.youtube.com/watch?v=oTM3x6IE-dQ]]|90日目 2026/05/02|
+|2026/05/03|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[ハクナツメ闇医者疑惑!? 女装に興味があるのか本人に聞いてみた【味野環九郎】>>https://www.youtube.com/watch?v=9cYeErkyTBI]]|86日目 2026/04/26|
+|2026/05/11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[救急隊ジョンドングリ劇場が面白すぎたｗｗｗ【味野環九郎】>>https://www.youtube.com/watch?v=JK2-7MIU8Sc]]|96日目 2026/05/10|
+|2026/05/23|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[中型現場に白市民!? 無線と検査を頑なに拒む黒いカバンの所持について事情聴取>>https://www.youtube.com/watch?v=D-ghAKcPWLI]]|104日目 2026/05/22|
+#table_autoincrement(){label=#,start=47}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(5月)
+***6月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
+#table_filter(){投稿日=show,動画タイトル=show,備考=show}
+|~投稿日|~動画タイトル|~備考|h
+|2026/06/11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[Dr.ギガに着信音作ってもらいました！「ゴジ・ゴジ・カンクロック」【味野環九郎】>>https://www.youtube.com/watch?v=e3di0s1zBEM]]|101日目 2026/05/17|
+|2026/06/12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[無線入手の裏ルート発覚!?何度も無線を押収している犯罪者に購入履歴がないことに気付き捜査へ【味野環九郎】>>https://www.youtube.com/watch?v=DQGkNw0TO-w]]|118日目 2026/06/11|
+|2026/06/29|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[ぺんゆきやにガチギレドッキリしてみた【味野環九郎】>>https://www.youtube.com/watch?v=N9WkFARmlws]]|85日目 2026/04/25|
+#table_autoincrement(){label=#,start=51}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(6月)
+***7月
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
+#table_filter(){投稿日=show,動画タイトル=show,備考=show}
+|~投稿日|~動画タイトル|~備考|h
+|2026/07/05|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[無馬かなの怖い電話 闇医者アジト家宅捜索の件で詰められる【味野環九郎】>>https://www.youtube.com/watch?v=qQweFSfMiQU]]|134日目 2026/07/04|
+|2026/07/24|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[人質ノビーさんからまさかの解放条件!? しゃくれ縛りでチョケてみた>>https://www.youtube.com/watch?v=AUYTx5RYL4g]]|147日目 2026/07/23|
+|2026/07/31|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[こみ蔵監禁事件について本人からまさかの新事実が発覚する【味野環九郎】>>https://www.youtube.com/watch?v=KwqqkTYgRHU]]|152日目 2026/07/30|
+#table_autoincrement(){label=#,start=54}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(7月)
+***8月
+#region(開く,open)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
+#table_filter(){投稿日=show,動画タイトル=show,備考=show}
+|~投稿日|~動画タイトル|~備考|h
+|2026/08/02|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野宅お泊り会総集編【味野環九郎】>>https://www.youtube.com/watch?v=cqKKYFc5uGE]]|124日目 2026/06/20、126日目 2026/06/24、127日目 2026/06/25&br()135日目 2026/07/05、139日目 2026/07/11、142日目 2026/07/16&br()145日目 2026/07/19、147日目 2026/07/23、150日目 2026/07/26&br()152日目 2026/07/30、159日目 2026/08/08、160日目 2026/08/09|
+|2026/08/30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[日之ぱちお警察退職後に無馬かなから意味深な発言をされる【味野環九郎】>>https://www.youtube.com/watch?v=dwFCVZ3S5Sg]]|174日目 2026/08/29|
+|2026/09/11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[救急隊のヘリが盗まれてウェスカーと口プバトルになる【味野環九郎】>>https://www.youtube.com/watch?v=JxL2RQ6bTNY]]|182日目 2026/09/10|
+#table_autoincrement(){label=#,start=57}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(8月)
+#endregion(2026年)
+
+***2025年
+#region(開く)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
+#table_filter(){投稿日=show,動画タイトル=show,備考=show}
+|~投稿日|~動画タイトル|~備考|h
+|2025/12/20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[17時5時で起きれなくなった男【味野環九郎】>>https://youtu.be/eNbW8kW3ilk]]|1日目 2025/12/19|
+|2025/12/21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[BJローンから電話がかかってきた【味野環九郎】>>https://youtu.be/HUdbkqUmtt0]]|1日目 2025/12/19|
+|2025/12/25|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[転送後初のコンビニ強盗現行犯?【味野環九郎】>>https://youtu.be/Ko8FRTJmgOU]]|2日目 2025/12/24|
+|2025/12/26|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[闇医者の診療所らしき拠点を発見してしまい緊急で警察会議へ【味野環九郎】>>https://youtu.be/CxVBgUFkpAY]]|3日目 2025/12/25|
+|2025/12/28|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[炊き出しを不正に受け取ろうとする自粛RP市民を対応してみた【味野環九郎】>>https://youtu.be/uuhV7BxT7jM]]|5日目 2025/12/27|
+//|2025/mm/dd|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[動画タイトル>>ここにYouTube動画URLを入力]]|n日目 yyyy/mm/dd&br()概要|
+#table_autoincrement(){label=#,start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2025年)
+#endregion(Season2)
+
+***Season1
+#region(開く)&bold(){閉じる}
+***2024年・2025年
+#region(開く,open)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
+#table_filter(){投稿日=show,動画タイトル=show,備考=show}
+|~投稿日|~動画タイトル|~備考|h
+|2024/09/11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[初日で洗礼を食らう男【味野環九郎】>>https://youtu.be/qDtvwN37RZA]]|1日目 2024/09/08&br()普通自動車免許講習|
+|2024/09/14|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[奇肉屋でギャングのボスにお会計ミスして土下座しました【味野環九郎】>>https://youtu.be/kbT9ZMnQa20]]|2日目 2024/09/11&br()奇肉屋体験|
+|2025/03/04|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[同期のガヴァイが警察からギャングへ闇堕ち宣言でメンブレする味野環九郎>>https://www.youtube.com/watch?v=DMA9uP4_Nfg]]|141日目 2025/03/02&br()ガヴァイ警察退職|
+|2025/06/16|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[巨大なUFOに遭遇!? その名はザンクード【味野環九郎】>>https://www.youtube.com/watch?v=XxGjFvsJmN8]]|228日目 2025/06/14&br()229日目 2025/06/15&br()街にUFO出現|
+|2025/06/27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[UFO墜落の衝撃映像 ザンクードVSコナダ【味野環九郎】>>https://www.youtube.com/watch?v=lx7DxHlb7QE]]|238日目 2025/06/26&br()UFOにヘリアタック|
+//|2025/mm/dd|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[動画タイトル>>ここにYouTube動画URLを入力]]|n日目 yyyy/mm/dd&br()概要|
+#table_autoincrement(){label=#,start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2024年・2025年)
+#endregion(Season1)
+
+*&font(25px,#C0C0C0){ス}トグラ番外編 &icon_fa(fa fa-file-text-o)
+&font(12px,b,#000){※ &font(#6441A4){&icon_fa(fa fa-twitch)} Twitchアーカイブはサブスクライバー限定です。仕様により一定期間経過すると視聴できなくなります。}
+**コラボ
+&font(80%,b,#000000){※ コラボ参加者は順不同・敬称略}
+&font(80%,b,#F54738){※ マーダーミステリー・TRPG類はその性質上ストーリーのネタバレに敏感なゲームとなり、&br()&space(2)シナリオによっては視聴すると自分でのプレイが難しくなることがありますのでご注意ください。}
+//Twitch配信コラボも含まれるため、動画からストグラ番外編へ項目移動しました
+***2024年・2025年
+#region(開く,close)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right}
+#table_filter(){配信日=show,配信タイトル=show,アーカイブ=show,参加者=hide,備考=show}
+|~配信日|~配信タイトル|~アーカイブ|~参加者|~備考|h
+|2024/11/11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[ストグラ公務員でPUBGカスタム（味野環九郎）>>https://www.youtube.com/live/7WSs_Fn9kSg]]||アベレージ/るなりあ/あどみん/きもともと/かど/Middleee/レントンゲームズ&br()さぶ郎/れいか/森野めるん/ごっちゃんマイキー/D.ManueL/ねけまる/碧輝りお&br()ぱちしゅう/しおこうじ/二十日ネル/えびす/ホロ酔いさん。/Rio/ルルベル/にぶぶ&br()てんぷら/ハユン/たけぉ/寧々丸/おらんじ～な/憩居ももあ/kaka/こるぺん&br()天羽よつは/夢咲刻夜/ノビー/切嘛/しょうじ/鬼ヶ島ぴぃち/花芽なずな|警察・救急隊コラボ&br()PUBG|
+|2024/12/30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[ストグラ勢によるマダミス『アリスインロストワンダーランド』※ネタバレ注意>>https://www.youtube.com/watch?v=aY3I0Nnb264]]||りおん、島ゴリ、牡丹、谷口博美|マーダーミステリー&br()PL3：チェシャ役|
+|2025/01/17|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラ 105日目 警察【味野環九郎】>>https://www.twitch.tv/videos/2356142372?t=11h54m11s]]（ストグラ終了後）||RintoXD、しおこうじ|PUBG|
+|2025/01/20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【PUBG】ストグラ公務員PUBG2>>https://www.youtube.com/watch?v=2rTUZOyZR_Y]]||アベレージ/きもともと/D.ManueL/ごっちゃん＠マイキー/レントンゲームズ&br()るなりあ/Middleee/marunnn/てんぷら/冥鳴ひまり/鈴木ノリアキ/さぶ郎。&br()花芽なずな/ぱちしゅう/レウクラウド/森野めるん/たけぉ/れいか/えびす&br()あどみん/えんちょう。/にぶぶ/ちゃげぽよ。/ねけまる/Runpa/017/寧々丸/かど&br()Rio/白帝りいた/ゆきや/RintoXD/みつき/せかめん/TUTTI/烏星/おらんじ～な&br()ヘスティアハピネス/夢咲刻夜/天羽よつは/かてぃ/のすけ/まぐなむ/こるぺん&br()空衣御侍/ノビー/へくしょん/kaka/切嘛/憩居ももあ/わきを/稲荷いろは/ペレ夫&br()鬼ヶ島ぴぃち/すず音/あんない/ファロ/しょうじ|警察・救急隊コラボ&br()PUBG|
+|2025/02/03|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラ警察コラボ 襲撃の世代で遊ぶ>>https://www.twitch.tv/videos/2372079615]]||RintoXD、白帝りいた、せかめん、山田ジェームス武、ぜろなな|警察同期コラボ&br()コードネーム、ito、PUBG|
+|2025/02/17|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラ警察コラボ PUBGドン勝耐久 w/シオコリコ>>https://www.twitch.tv/videos/2383535759]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ダイジェスト>>https://www.twitch.tv/videos/2385342075]]|しおこうじ（[[シオコ　リコ]]）|PUBG|
+|2025/03/09|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラ警察コラボ 怖すぎるホラゲーをやる w/ しおこうじ>>https://www.twitch.tv/videos/2401000384]]||しおこうじ|Fear Therapy|
+|2025/03/24|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラ公務員PUBG 警察×救急隊>>https://www.twitch.tv/videos/2414071563]]||アベレージ/きもともと/D.Manuel/三行ナカバ/F.Tさやか/猫街もも/るなりあ&br()Middleee/てんぷら/しおこうじ/冥鳴ひまり/ぱちしゅう/レウクラウド&br()ホロ酔いさん。/森野めるん/れいか/たけぉ/あどみん/にぶぶ/ちゃげぽよ。&br()ねけまる/017/ルルベル/寧々丸/かど/Rio/白帝りいた/ゆきや/RintoXD/TUTTI&br()Pepper/宙星ぱる/さぶ郎。/ヘスティアハピネス/夢咲刻夜/影。/かてぃ/のすけ&br()空衣御侍/ノビー/kaka/稲荷いろは/あんない/ファロ/未空あいす|警察・救急隊コラボ&br()PUBG|
+|2025/05/05|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラ警察コラボ R.E.P.O.>>https://www.twitch.tv/videos/2450881216]]||ルルベル、ねけまる、ゆきや|R.E.P.O.|
+|2025/05/06|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラ警察でハードコア コアキーパー>>https://www.twitch.tv/videos/2451044077]]||叶、Pepper、Rio、marunnn、にぶぶ、ねけまる、ちゃげぽよ。|コアキーパー|
+|2025/05/13|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラ 201日目 警察【味野環九郎】>>https://www.twitch.tv/videos/2457556422?t=12h05m18s]]（ストグラ終了後）||叶、Middleee、Pepper、marunnn、さぶ郎。、しょうじ、D.ManueL|7 Days to Die|
+|2025/05/19|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラ公務員PUBG>>https://www.twitch.tv/videos/2462806842]]||アベレージ/二十日ネル/きもともと/D.ManueL/ごっちゃん＠マイキー/るなりあ&br()marunnn/てんぷら/しおこうじ/ぱちしゅう/森野めるん/えびす/たけぉ/あどみん&br()にぶぶ/ちゃげぽよ。/ハユン/ルルベル/寧々丸/かど/Rio/白帝りいた/RintoXD&br()TUTTI/魔光リサ/さぶ郎。/ヘスティアハピネス/影。/のすけ/空衣御侍/ノビー&br()へくしょん/わきを/すず音/ファロ/未空あいす/レントンゲームズ|警察・救急隊コラボ&br()PUBG|
+|2025/06/09|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラコラボ マトリ界隈でR.E.P.O.>>https://www.twitch.tv/videos/2481331927]]||えびす、TUTTI、鬼ヶ島ぴぃち、Pepper、聖女れりあ|R.E.P.O.|
+|2025/09/27|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラコラボPUBG>>https://www.twitch.tv/videos/2576266077]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=RmAj7TM8ubQ]]|BOIRA、しょぼすけ、ライト、栗山やんみ|PUBG|
+|2025/09/28|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[襲撃の世代と見る #ストグラ Season1クリップ鑑賞>>https://www.twitch.tv/videos/2577934626]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Vh-s2rccSJM]]|RintoXD、白帝りいた、せかめん|警察同期コラボ&br()クリップ鑑賞会|
+|2025/10/05|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【実写コラボ】警察ならストグラ住民を数少ない情報で特定できるよね？>>https://www.youtube.com/watch?v=tuvSnjlp3kk]]||ねけまる/きもともと|[[きもともと>キーモット　ホームズ]]枠&br()ほぼ北署コラボ&br()住民アキネータークイズ|
+|2025/10/14|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラコラボ 襲撃の世代で遊ぶ>>https://www.twitch.tv/videos/2591569219]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=ej0M9pnk80w]]|RintoXD、白帝りいた、せかめん、ぜろなな|警察同期コラボ&br()みんなでウミガメのスープ&br()SKULL、インカの黄金|
+|2025/10/17|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#STGRivals PUBG大会練習>>https://www.twitch.tv/videos/2594062142]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=Ghoo3bxjaJU]]|ねけまる|STGRivalsスクリム参加&br()PUBG|
+|2025/10/18|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[PUBGチーム練習 w/ねけまる さぶ郎 BOIRA>>https://www.twitch.tv/videos/2594811211]]||ねけまる、さぶ郎、BOIRA|STGRivalsチーム練習&br()PUBG|
+|2025/10/19|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#STGRivals PUBG大会本番 17ジエット w/ BOIRA ねけまる さぶ郎>>https://www.twitch.tv/videos/2595824253]]||ねけまる、さぶ郎、BOIRA|STGRivals本戦&br()PUBG|
+|2025/10/27|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラ公務員PUBG>>https://www.twitch.tv/videos/2602625139]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=7nnX9DK2ohA]]|アベレージ/まんさや/きもともと/D.ManueL/ごっちゃん＠マイキー/るなりあ&br()しおこうじ/冥鳴ひまり/レウクラウド/森野めるん/にぶぶ/ねけまる/ハユン&br()かど/Rio/白帝りいた/RintoXD/TUTTI/真光リサ/yue/KOHAL/ヘスティアハピネス&br()夢咲刻夜/影。/空衣御侍/すず音/ファロ/未空あいす/しょぼすけ|警察・救急隊コラボ&br()PUBG|
+|2025/11/18|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラコラボ 謎メンDBD>>https://www.twitch.tv/videos/2621628817]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://youtu.be/vjDZgNoMKYA]]|遠吠きゃん、ぱんくん、鬼ヶ島ぴぃち、ゆちゃむ|Dead by Daylight|
+|2025/12/17|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラ警察でミメシス初見>>https://www.twitch.tv/videos/2646099129]]||せかめん、Rinto、白帝りいた|ミメシス|
+|2025/12/21|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラ警察でAIを見極める>>https://www.twitch.tv/videos/2649434555]]||アベレージ、森野めるん、しおこうじ|ミメシス|
+//|2025/mm/dd|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[Twitch配信タイトル>>ここにTwitch配信URLを入力]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>ここにYoutube動画URLを入力]]|参加者名||
+//|2025/mm/dd|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[Youtube配信タイトル>>ここにYoutube配信URLを入力]]||参加者名||
+#table_autoincrement(){label=#,start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2024年・2025年)
+***2026年
+#region(開く,open)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right}
+#table_filter(){配信日=show,配信タイトル=show,アーカイブ=show,参加者=hide,備考=show}
+|~配信日|~配信タイトル|~アーカイブ|~参加者|~備考|h
+|2026/03/09|&font(#6441A4){&icon_fa(fa-brands fa-twitch)}[[バイオハザードレクイエム初見→ストグラ警察コラボ>>https://www.twitch.tv/videos/2717837386?t=02h03m20s]]||しおこうじ、アベレージ、かど、さぶ郎、にぶぶ、るなりあ、森野めるん|Super Battle Golf&br()2時間3分20秒～|
+|2026/04/07|&font(#6441A4){&icon_fa(fa-brands fa-twitch)}[[ストグラ警察で声を使うサバイバル RIntXD３ちゃげぽよ３>>https://www.twitch.tv/videos/2742126202]]||RintoXD、ちゃげぽよ。|Dreadway|
+#table_autoincrement(){label=#,start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion
+
+**ストグラFV
+&font(80%,b,#000000){※ イベント同行者は順不同・敬称略}
+&font(80%,b,#000000){※ イベント・コラボ回のみ記載}
+[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 再生リスト：ストグラFV>>https://www.youtube.com/playlist?list=PLsenjeomhjYOgfxG0Q1MRt3P0CFk0McF6]]
+***2024年・2025年
+#region(開く,open)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right}
+#table_filter(){配信日=show,配信タイトル=show,アーカイブ=show,同行者=hide,備考=show}
+|~配信日|~配信タイトル|~アーカイブ|~同行者|~備考|h
+|2024/12/23|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラFV ギャングだった世界線の味野環九郎>>https://www.twitch.tv/videos/2334767530]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラFV ギャングだった世界線の味野環九郎 その２>>https://www.twitch.tv/videos/2334767839]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ1>>https://www.youtube.com/watch?v=xUf4zD9qB9Q]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ2>>https://www.youtube.com/watch?v=wXZ-zx1_uKI]]|[[安倍　霊明]]、[[安保　さぶ郎]]、[[伊勢　えびす]]、[[犬山　リオ>犬上　リオ]]、[[キーモット　ホームズ]]&br()[[きらりんぶいっ　なずぴ>きらりんぶい☆　なずぴ(10)]]、[[シオコ　リコ]]、[[乱歩　立花>立花　乱歩]]、[[ニックス皇帝>ニックス　リア]]&br()[[二部　らるたる]]、[[バーバリアン　田中]]、[[花沢　まるん]]、[[日之　ぱちお]]&br()[[ボイラ　テンガリン]]、[[ミン　ドリー]]、[[もり　るんるん]]、[[レッサン　パンナ]]|ギャング「Forest Veil」として活動|
+|2025/02/13|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラFV 警察メンバーでギャング【味野環九郎】>>https://www.twitch.tv/videos/2379500018]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=YTYPiTEWtfo]]|[[安倍　霊明]]、[[安保　さぶ郎]]、[[伊勢　えびす]]、[[犬山　リオ>犬上　リオ]]、[[キーモット　ホームズ]]&br()[[きらりんぶいっ　なずぴ>きらりんぶい☆　なずぴ(10)]]、[[シオコ　リコ]]、[[乱歩　立花>立花　乱歩]]、[[二部　らるたる]]&br()[[バーバリアン　田中]]、[[日之　ぱちお]]、[[ブロッコリー　斎藤]]、[[ミン　ドリー]]&br()[[もり　るんるん]]、[[レッサン　パンナ]]|ギャング「Forest Veil」として活動|
+|2025/04/21|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラFV 国家ギャングの世界線【味野環九郎】>>https://www.twitch.tv/videos/2438738415]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=pLCJ1wUSZJU]]|[[もり　るんるん]]、[[花沢　まるん]]、[[安倍　霊明]]、[[日之　ぱちお]]&br()[[伊勢　えびす]]、[[キーモット　ホームズ]]、[[乱歩　立花>立花　乱歩]]&br()[[ボイラ　テンガリン]]、[[ミン　ドリー]]、[[シオコ　リコ]]|ギャング「Forest Veil」として活動|
+//|2025/mm/dd|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[配信タイトル>>ここにTwitch配信URLを入力]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>ここにYouTubeアーカイブURLを入力]]|一緒に遊んだメンバー|FVコラボ概要を記入|
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(2024年・2025年)
+
+**その他
+#region(開く,open)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right}
+|~配信日|~配信タイトル|~アーカイブ|~備考|h
+|2025/03/13|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラジオ ゲスト:アジ吉,しおこうじ>>https://www.twitch.tv/videos/2404499939]]||第99回[[ストグラジオ]]出演（[[しょぼすけ>山下　ひろし]]枠）|
+|2025/08/27|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラSGPD からリアイベに関するお話です>>https://www.twitch.tv/videos/2550987757]]||[[OPERATION SGPD>>https://x.com/hatsukaneru/status/1960676548786233684]]告知参加（[[二十日ネル>二十日　ネル]]枠）|
+|2025/09/01|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラフェス振り返りおじさん>>https://www.twitch.tv/videos/2555399977]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>https://www.youtube.com/watch?v=MEYqA4_NRJ0]]|[[ストグラフェス>>https://stgrfestival.com/]]振り返り雑談|
+|2025/09/15|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラジオ ゲスト:アジ吉、ボイラ>>https://www.twitch.tv/videos/2566962784]]||第123回[[ストグラジオ]]出演（[[しょぼすけ>山下　ひろし]]枠）|
+|2025/10/05|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[ストグラSGPD警察イベント感想配信>>https://www.twitch.tv/videos/2583713823]]||[[OPERATION SGPD>特別番組・イベント・グッズ等]]感想|
+|2025/10/09|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【カメラ】プレゼント開封します>>https://www.twitch.tv/videos/2587198639]]||[[OPERATION SGPD>特別番組・イベント・グッズ等]]のプレゼント開封|
+|2025/10/25|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#緊急大型発生中 メイキング映像限定公開！みんなでppvも同時視聴しよう>>https://www.twitch.tv/videos/2600830239]]||[[OPERATION SGPD>>https://x.com/hatsukaneru/status/1974473057873084425]] PPV同時視聴（[[二十日ネル>二十日　ネル]]枠）|
+//|yyyy/mm/dd|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[Twitch配信タイトル>>ここにTwitch配信URLを入力]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[アーカイブ>>ここにYouTube動画URLを入力]]||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(その他)
+
+#right(){&link_up(🔝ページTOPへ)}

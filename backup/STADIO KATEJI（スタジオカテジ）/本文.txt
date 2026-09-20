@@ -1,0 +1,372 @@
+//📌ロゴとプロフィール
+&ref(STADIO KATEJI_ロゴ②.png,,width=150,height=150)
+
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#57462B:#FFFFFF){}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|
+|~店名|~&icon_fa(fa fa-tag)|STADIO KATEJI|STADIO KATEJI|
+|~開業日|~&color(#FFFFFF){&icon_fa(fa fa-flag)}|2024年10月12日&br()&small(){（&countup(2024/10/24,yd)経過）}|2026年04月01日&br()&small(){（&countup(2026/4/1,yd)経過）}|
+|~所在地|~&color(#FFFFFF){&icon_fa(fa fa-map-marker)}|8041番地|8039番地|
+|~オーナー|~&color(#FFFFFF){&space()&icon_fa(fa-solid fa-user)&space()}|&bold(){[[カテジ]]}|&bold(){[[カテジ]]}&Br()写真＆映像|
+|~共同オーナー|~&color(#FFFFFF){&space()&icon_fa(fa-solid fa-user)&space()}|&bold(){[[雷堂　ましろ]]}|&bold(){[[雷堂　ましろ]]}&Br()営業・グッズ販売|
+|~TwiX|~&icon_fa(fa fa-crow) ||@stadio kateji|
+|~コンセプトカラー|~&color(#FFFFFF){&space()&icon_fa(fa-solid fa-palette)&space()}||茶色|
+
+//📋目次
+#region(目次,open)&b(){閉じる}&br()
+&underdot(#57462B,3px){&big(){&color(#57462B){&strong(){目次}}}}
+#contents(fromhere=true,level=2)
+#endregion()
+
+//📋基本情報
+**&color(#57462B){基本情報}
+#slide_img(auto=3,width=368,height=207){STADIO KATEJI_今を、撮ろう。②.png,STADIO KATEJI_今を、撮ろう。③.JPG,STADIO KATEJI_今を、撮ろう。④.JPG,STADIO KATEJI_今を、撮ろう。⑤.JPG,STADIO KATEJI_今を、撮ろう。①.png,STADIO KATEJI_今を、撮ろう。⑥.png}
+&q(CM・チラシ・映画・PV・記念撮影・集合写真・旅行記・スポーツ観戦・お花見・ゲートボール・ミートボールまで何でも撮るぞっ...！！電話で1本駆けつけるっ...！)
+
+&ref(STADIO KATEJI_うごくKateji.gif,,width=35,height=46)&nbsp(2)&underdot(#57462B,2px){&big(){&color(#57462B){STADIO KATEJI（スタジオカテジ）}}}&nbsp(2)&ref(STADIO KATEJI_うごくMashiro.gif,,width=22,height=46)
+・カテジの趣味として、写真や映像の制作を行っていく。&Br()&small(){個人の細々(こまごま)とした仕事を細々(ほそぼそ)とやっていきたい。}
+・ハウジングで作られたスタジオ。
+・スタジオ内は壁一面3色に区切られた「クロマキー背景」と入口側に設置されたテレビが特徴。&Br()&small(){（Season1は6色のクロマキー背景、テレビは最奥に設置）} &Br()入口にはグッズ販売用の作業台と、すぐ着替えることの出来るクローゼットを設備。
+・撮影方法は、被写体をクロマキー背景の前に立たせて撮影(視界)する。&Br()カテジの特殊な目でリアルタイムに背景を透過させ好きな背景に置きかえ、テレビに映し出しながら撮影することも可能。&Br()脳に負荷がかかるため、衛生外での撮影もしばしば...🧠！
+・ちなみに"STADIO"の綴りは間違ってない！！！
+&Br()
+&nbsp(5)㊗️2026年04月01日 STADIO KATEJI Season2 OPEN🎉
+&image(STADIO KATEJI_Season2_open.PNG,width=368,height=215)
+
+//📇メンバー情報
+**&color(#57462B){メンバー情報}
+#region(Season1)&b(){閉じる}&br()
+&underdot(#57462B,3px){&color(#57462B){&bold(){Season1}}}&br()
+#table_filter(){No.=show,役職=show,名前=show,就職日=hide,備考=show}
+#table_style(head=center:#57462B:#FFFFFF){名前=bold}
+|~No.|~役職|~名前|~就職日|~&nbsp(30)備考&nbsp(30)|h
+|MIDDLE:1|MIDDLE:Owner|MIDDLE:[[カテジ]]|MIDDLE:||
+|MIDDLE:2|MIDDLE:Co-owner|MIDDLE:[[雷堂　ましろ]]|MIDDLE:||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()
+
+#region(Season2,open)&b(){閉じる}&br()
+&underdot(#57462B,3px){&color(#57462B){&bold(){Season2}}}&br()
+名刺を持っていることがSTADIO KATEJIのメンバーである証
+&small(){※オープン後は名刺をもらった日を就職日としています。}
+
+#table_filter(){No.=show,役職=show,名前=show,就職日=hide,名刺=show,備考=show}
+#table_style(head=center:#57462B:#FFFFFF){名前=bold}
+|~No.|~役職|~名前|~就職日|~名刺|~備考|h
+|MIDDLE:1|MIDDLE:Owner|MIDDLE:[[カテジ]]|MIDDLE:2026/04/01|&blankimg(STADIO KATEJI_名刺_KATEJI.png,x=100,y=130)||
+|MIDDLE:2|MIDDLE:Co-owner|MIDDLE:[[雷堂　ましろ]]|MIDDLE:2026/04/01|&blankimg(STADIO KATEJI_名刺_Mashiro Raido.png,x=100,y=130)||
+|MIDDLE:3|MIDDLE:Top actor|MIDDLE:[[天羽　よつは]]|MIDDLE:2026/04/01|&blankimg(STADIO KATEJI_名刺_Yotsuha Amahane.png,x=100,y=130)|MIDDLE:ロスサントスの『エマ・ワトソン』&Br()ロスサントスの『アン・ハサウェイ』|
+|MIDDLE:4|MIDDLE:Hisho of Haken|MIDDLE:[[キラ・メキーラ]]|MIDDLE:2026/05/09|&blankimg(STADIO KATEJI_名刺_KIRA MEQUILA.png,x=100,y=130)|MIDDLE:スケジュール調整&Br()ケータリング用意|
+|MIDDLE:5|MIDDLE:Music head coach|MIDDLE:[[ノビー　ラング]]|MIDDLE:2026/07/08|&blankimg(STADIO KATEJI_名刺_NOBEE LANG.png,x=100,y=130)||
+|MIDDLE:6|MIDDLE:Actor|MIDDLE:[[星野　ももあ]]|MIDDLE:(2026/08/14)|||
+|MIDDLE:7|MIDDLE:Actor|MIDDLE:[[神崎　治]]|MIDDLE:(2026/08/20)|||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()
+
+//👔正装
+**&color(#57462B){正装}
+#region(Season2)&b(){閉じる}&br()
+&underdot(#57462B,3px){&color(#57462B){&bold(){Season2}}}&br()
+2026/04/03 コンセプトカラーである茶色をベースとしたスーツに決定！
+|&blankimg(STADIO KATEJI_Kateji_正装.PNG,y=240,x=110)|&blankimg(STADIO KATEJI_Mashiro_正装.PNG,y=240,x=110)|
+#table_zebra(#D0C7B8, #D0C7B8, #D0C7B8)
+#endregion()
+
+//💰値段表
+**&color(#57462B){値段表}
+#region(Season2,open)&b(){閉じる}&br()
+&underdot(#57462B,3px){&color(#57462B){&bold(){Season2}}}&br()
+&image(STADIO KATEJI_価格表.png,x=350,y=485)
+#endregion()
+
+//🎞️制作物 
+**&color(#57462B){制作物}
+//🎞️制作物 Season1
+#region(Season1)&b(){閉じる}&br()
+&underdot(#57462B,3px){&color(#57462B){&bold(){Season1}}}
+
+//🎬CM & MV
+#region(CM & MV)&b(){閉じる}&br()
+・CM & MV
+#table_filter(){No.=show,タイトル=show,依頼者=hide,出演者=show,制作物=show,納品日=show,報酬=hide,費用=hide,備考=show}
+#table_style(head=center:#57462B:#FFFFFF){名前=bold}
+|~No.|~タイトル|~依頼者|~出演者|~制作物|~納品日|~報酬|~費用|~備考|h
+|1|CM　スタジオカテジ①&Br()||[[カテジ]]|[[STADIO KATEJI CM「ブレイクダンス編」>>https://www.youtube.com/watch?v=U04NfWaZAfY]]&Br()&video(https://www.youtube.com/watch?v=U04NfWaZAfY,width=200,height=112)|||||
+|2|CM　ロスサントスボートレース&Br()||[[命田　守]]&Br()[[天羽　よつは]]&Br()[[ジョン　ドングリ]]&Br()[[フランシスコ　マグナム]]&Br()[[切間　てつお]]|[[LOS SANTOS BOAT RACE CM「目覚め編」>>https://www.youtube.com/watch?v=KyR9Fs5R_YY]]&Br()&video(https://www.youtube.com/watch?v=KyR9Fs5R_YY,width=200,height=112)|||||
+|3|CM　ドリームバルーン&Br()||[[天羽　よつは]]&Br()[[フランシスコ　マグナム]]&Br()[[雷堂　ましろ]]&Br()[[ブラック　ジャックス]]&Br()[[カテジ]]|[[ドリームバルーン CM「あなたの夢は編」>>https://www.youtube.com/watch?v=VdK3NTAIL1M]]&Br()&video(https://youtu.be/VdK3NTAIL1M?si=fvOQ0rYz3_PE8VZ_,width=200,height=112)|||||
+|4|CM　スタジオカテジ②&Br()||[[橘　かげまる]]&Br()[[フランシスコ　マグナム]]&Br()[[命田　守]]&Br()[[カテジ]]|[[スタジオカテジ CM「ペット環境分裂編」>>https://www.youtube.com/watch?v=GI4Al3Y7hb8]]&Br()&video(https://www.youtube.com/watch?v=GI4Al3Y7hb8,width=200,height=112)|||||
+|5|CM　犬カフェ&Br()||[[加賀　イズミ]]&Br()[[ブラック　ジャックス]]|[[犬カフェ Re:One’s CM「詐欺まがい編」>>https://www.youtube.com/watch?v=9mKHxvRAgDo]]&Br()&video(https://www.youtube.com/watch?v=9mKHxvRAgDo,width=200,height=112)|||||
+|6|PV　雷堂　ましろ||[[雷堂　ましろ]]|[[雷堂ましろ PV「オシャTikTok風編」>>https://www.youtube.com/shorts/X3ku7wkusMY]]&Br()&image(STADIO KATEJI_PV Mashiro.PNG,width=200,height=112)|||||
+|7|PV　ノビー　ラング||[[ノビー　ラング]]|[[出張スタジオカテジ「笑顔の先に編」>>https://www.youtube.com/shorts/raUaUkCjfdI]]|||||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()
+
+//📃フライヤー
+#region(フライヤー)&b(){閉じる}&br()
+・フライヤー
+#table_filter(){No.=show,タイトル=show,依頼者=hide,制作物=show,納品日=show,報酬=hide,費用=hide,備考=show}
+#table_style(head=center:#57462B:#FFFFFF){名前=bold}
+|~No.|~タイトル|~依頼者|~制作物|~納品日|~報酬|~費用|~備考|h
+|1|チラシ&br()スタジオカテジ||&blankimg(STADIO KATEJI_チラシ STADIO KATEJI①.JPG,x=112,y=168)|2025/03/28|||幾何学模様がカテジのアゴになっているのと、&Br()配色がスタジオの背景カラーになっているのがポイント💡|
+|2|ポスター&Br()スタジオカテジ　5月号||&blankimg(STADIO KATEJI_フライヤー 2025年5月号.png,x=112,y=168)|2025/05/03||||
+|3|フライヤー&Br()レベルくじジャックス禊Ver.|[[ブラック　ジャックス]]|&blankimg(STADIO KATEJI_フライヤー レベルくじ.png,x=112,y=168)|2025/05/27|1億|||
+|4|チラシ&Br()アミステ OPEN|[[雷堂　ましろ]]|&blankimg(STADIO KATEJI_チラシ_アミステOPEN.PNG,x=112,y=168)|2025/09/20||||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()
+#endregion()
+
+//🎞️制作物 Season2
+#region(Season2,open)&b(){閉じる}&br()
+&underdot(#57462B,3px){&color(#57462B){&bold(){Season2}}}
+
+//🎬CM & MV
+#region(CM & MV,open)&b(){閉じる}&br()
+・CM & MV
+#table_filter(){No.=show,タイトル=show,依頼者=hide,出演者=show,制作物=show,納品日=show,報酬=hide,費用=hide,備考=show}
+#table_style(head=center:#57462B:#FFFFFF){名前=bold}
+|~No.|~タイトル|~依頼者|~出演者|~制作物|~納品日|~報酬|~費用|~備考|h
+|1|Wデートで使う&Br()アトラクションムービー&Br()|[[ゆちゃ　めろでぃ]]＆[[捌木たいたい]]|[[Vermont Curry ''Mr.Eden Paradise''>>ブラック　ジャックス]]&br()[[Mayor Hokaido Stew>>フランシスコ　マグナム]]|[[サメアトラクション 注意事項>>https://www.youtube.com/watch?v=GcVUunqiv1Y]]&Br()&video(https://www.youtube.com/watch?v=GcVUunqiv1Y,width=200,height=112)|2026/03/13|200万|||
+|2|CM　WizardryWorks&Br()|[[Wizardry Works]]|[[天羽　よつは]]&br()[[としのり>>鳥野　ぎん]]&br()[[ももみ>>ももみ　マルフォイ]]&br()[[橘　かげまる]]&br()[[パン　チャン]]&br()[[ブラック　ジャックス]]|[[WizardryWorks CM>>https://www.youtube.com/watch?v=uXS__kYmH_Q]]&Br()&video(https://www.youtube.com/watch?v=uXS__kYmH_Q,width=200,height=112)|2026/05/22|スタジオカテジ　 ：800万&Br()大女優 天羽よつは：400万&Br()子役 鳥野ぎん　　：5千&Br()声優 ジャックス　：102万&Br()&Br()院内裁判後&Br()ジャックス：80万返金|マネージャー代 メキ：100万&Br()日頃いつもありがとう代 ましろ：50万&Br()&Br()院内裁判後&Br()子役報酬 鳥野：139万5千&Br()裁判費用 ももみ：50万&Br()証言費用 よつは：50万&Br()弁護相談費用 ジャックス：50万&Br()弁護キャンセル費用 ジャックス：50万||
+|3|CM　UGM&Br()|[[Usa Gimmick Motors]]|[[天羽　よつは]]&br()[[山田　パルコ]]&br()[[星唄　サウ汰]]&br()[[星乃　すみ]]&br()[[御花　はな]]&br()[[天ノ　ぷら子]]&br()[[ゆた　んぽ>>ゆた　んぽ]]&Br()[[万十　忍]]|[[ドウイウコトナノ・カ・シラネ(1428~1856)>>https://www.youtube.com/watch?v=e-15XfrLjZ0]]&Br()&video(https://www.youtube.com/watch?v=e-15XfrLjZ0,width=200,height=112)|2026/07/18|スタジオカテジ　 ：1500万&Br()大女優 天羽よつは：500万|紹介代 マグナム：15&Br()給与 ましろ：50万&Br()派遣代 メキ：1万1131&Br()交渉報酬 ジャックス：500万&Br()ケータリング代 メキ：13万2千&Br()UGMソング作成費用 ノビー：200万||
+|4|CM　スタジオカテジ||[[カテジ]]|[[スタジオカテジ新CM しゅわしゅわ編>>https://youtube.com/shorts/XQbEvGBt-vc?si=13LNtqCHU81D0S0L]]&Br()&blankimg(STADIO KATEJI_CM STADIO KATEJI「しゅわしゅわ編」.png,width=200,height=112)|2026/08/05||||
+|5|CM　スタジオカテジ||[[カテジ]]|[[スタジオカテジ新CM 鮭探し編>>https://youtube.com/shorts/-ca_JEBk8s0?si=muUDE4TiMxBhJQPw]]&Br()&blankimg(STADIO KATEJI_CM STADIO KATEJI「鮭探し編」.png,width=200,height=112)|2026/09/02||||
+//|6|||||||||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()
+
+//📃フライヤー
+#region(フライヤー,open)&b(){閉じる}&br()
+・フライヤー
+#table_filter(){No.=show,タイトル=show,依頼者=hide,制作物=show,納品日=show,報酬=hide,費用=hide,備考=show}
+#table_style(head=center:#57462B:#FFFFFF){名前=bold}
+|~No.|~タイトル|~依頼者|~制作物|~納品日|~報酬|~費用|~備考|h
+|1|チラシ&Br()ジャックス式メソッド①|[[ブラック　ジャックス]]|&blankimg(STADIO KATEJI_フライヤー ジャックス式メソッド.png,x=200,y=112)|2026/02/01||||
+|2|チラシ&Br()ジャックス式メソッド②|[[ブラック　ジャックス]]|&blankimg(STADIO KATEJI_ジャックス式メソッド.png,x=112,y=168)|2026/02/27||||
+|3|サブスク用サムネイル&Br()うんうん、そうだね。話聞こか？&Br()|[[雷堂　ましろ]]|&blankimg(STADIO KATEJI_チラシ うんうん、そうだね。.png,x=200,y=112)|2026/04/24|50万||&openclose2(show=背景の渦){&Br()背景の渦はましろを捻りに捻って作った模様}|
+|4|チラシ&Br()着メロボイス販売開始 第2弾|[[ジョーカー>>半沢　直ふぃ]]|&blankimg(STADIO KATEJI_着メロボイス第2弾チラシ.png,x=112,y=168)|2026/05/09|350万||撮影：依頼者様実施済み。|
+|5|サブスク用サムネイル&チラシ&Br()顧問弁護士|[[ブラック　ジャックス]]|&blankimg(STADIO KATEJI_チラシ 顧問弁護士②.JPG,x=200,y=112)&Br()&blankimg(STADIO KATEJI_チラシ 顧問弁護士①.png,x=112,y=168)|2026/05/29|100万円(頂いたか不明)|||
+//|6||||||||
+//|7||||||||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()
+
+//📸写真
+#region(写真,open)&b(){閉じる}&br()
+・写真
+#table_filter(){No.=show,タイトル=show,依頼者=hide,制作物=show,納品日=show,報酬=hide,費用=hide,備考=show}
+#table_style(head=center:#57462B:#FFFFFF){名前=bold}
+|~No.|~タイトル|~依頼者|~制作物|~納品日|~報酬|~費用|~備考|h
+|1|フリー素材|[[キラ・メキーラ]]|&blankimg(STADIO KATEJI_フリー①.png,x=120,y=120)&Br()&image(STADIO KATEJI_フリー②.png,x=120,y=120)&small(){※サンプル&Br()実際に納品したものは背景が透過されたもの}|2026/01/29|||広告の作成で使える写真を撮ってほしい|
+|2|クラファン支援：[[花沢　まるん]]||||支援金200万||スタジオカテジ建設費用 クラウドファンディング&Br()特典：コンセプト写真３シチュエーション|
+|3|クラファン支援：[[ダミ　アン]]||||支援金200万||スタジオカテジ建設費用 クラウドファンディング&Br()特典：コンセプト写真３シチュエーション|
+|4|クラファン支援：[[Vertex]]||||支援金1000万||スタジオカテジ建設費用 クラウドファンディング&Br()特典：ロスバトで使用する写真の撮影(15人分)|
+|5|今日の1枚用|[[切間　てつお]]|&blankimg(STADIO KATEJI_てつお 今日の1枚①.png,x=200,y=112)&Br()&blankimg(STADIO KATEJI_てつお 今日の1枚②.png,x=200,y=112)|2026/05/24|STADIO KATEJIの宣伝||撮影時間5分|
+|6|アー写用の素材|[[N.A.W.A]]|&blankimg(STADIO KATEJI_フリー③.png,x=200,y=112)&Br()&blankimg(STADIO KATEJI_フリー④.png,x=200,y=112)&br()&small(){※サンプルイメージ&Br()実際に納品したものと異なります。}|2026/08/30|10万|||
+//|7||||||||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()
+
+//📽️演出
+#region(演出,open)&b(){閉じる}&br()
+・演出
+#table_filter(){No.=show,タイトル=show,依頼者=hide,出演者=show,制作物=show,納品日=show,報酬=hide,費用=hide,備考=show}
+#table_style(head=center:#57462B:#FFFFFF){名前=bold}
+|~No.|~タイトル|~依頼者|~出演者|~制作物|~納品日|~報酬|~費用|~備考|h
+|1|ふらっしゅもぐ&Br()誕生日お祝い|[[神崎　治]]|[[カテジ]]&br()[[フランシスコ　マグナム]]&br()[[(シェフ)テイル・フラワー>>ノビー　ラング]]&br()[[(ドルチェ)はみ　だしお>>鳥野　ぎん]]&br()[[サンクチュアリ　たえこ]]|[[ふらっしゅもぐ>>https://www.youtube.com/live/kdHQL6y3QHk?si=ZzyuxLqCbYRFxbkd&t=7458]]&Br()&blankimg(STADIO KATEJI_演出 ふらっしゅもぐ①.png,x=200,y=112)|2026/05/29|||&openclose2(show=三ツ星レストラン マーベラス・ウィッシュへようこそ){&Br()最高級フランス料理(松)&Br()&small(){※誰が何と言おうと提供するものは全てフランス料理です。}&Br()&Br()前菜　[[acqua ovest]]&Br()・トマトとモッツアレラのカプレーゼ&Br()・フランス産最高級ワイン&Br()&blankimg(STADIO KATEJI_演出 ふらっしゅもぐ②.png,x=80,y=80)&Br()&small(){※ぶるぼーにゅ地方のワイナリーでどぅわどぅわしたもの。}&Br()&Br()スープ　[[けんちんバーガー>>カイリキバーガー]]&Br()・フランスの郷土料理のスープ&Br()&small(){※けんちーぬ地方の汁}&Br()&Br()メイン　[[わんも〜Cafe]]&Br()・牛肉の小刻みあつめ焼き&Br()&small(){※シェフが逆立ちしている時に思いついた料理}&Br()・SUNDでいいっつふぁいんでぃ&Br()&Br()デザート　[[サニーケバブ]]&Br()・フランス大統領の顔がデザインされているタルト&Br()・フランス大統領のアイシングクッキーが祀られているミルクシェイク&Br()&small(){※ストロー 赤色：好奇心、探求心、自信 白色：友情、潔白、希望、繁栄 fu-fu--}&Br()&Br()ケーキ　[[ベーカリー早苗]]&Br()・フランス産の極上の生地で仕上げたパン生日ケーキ}|
+//|2|||||||||
+//|3|||||||||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()
+#endregion()
+
+//🔥称賛の声 & だれかのモチベ維持用記録
+**&color(#57462B){称賛の声 & だれかのモチベ維持用記録}
+#region(Season2)&b(){閉じる}&br()
+&underdot(#57462B,3px){&color(#57462B){&bold(){Season2}}}
+
+#table_style(head=center:#57462B:#FFFFFF){名前=bold}
+|~日付|~出来事|~エピソード|~備考|h
+|2026/02/11|撮影するか？一旦|[[12投目 十一>>https://www.youtube.com/live/Ohc2QIHay0g?si=nYFvpdl9hv0godHf&t=7061]]|警察体験用動画|
+|2026/02/18|どうなんだっ①|[[16投目 路互>>https://www.youtube.com/live/p-gkyK57LYk?si=SsFHLxWOOVyGrSmJ&t=12149]]|警察体験用動画|
+|2026/02/19|どうなんだっ②|[[17投目 楽園①>>https://www.youtube.com/live/mNAmNN6oW3o?si=ssix7Hu9E3DwrAVt&t=16862]]&Br()[[17投目 楽園②>>https://www.youtube.com/live/mNAmNN6oW3o?si=zOy6OaEbTUJ-l6U5&t=27567]]|警察体験用動画|
+|2026/02/27|餅巾着|[[20投目 新規>>https://www.youtube.com/live/uHkBNxdlOos?si=WqGkkguW3i0Lc7Vk&t=10922]]|バイクをパンチャンに破壊されて買いに行く。|
+|2026/04/15|どうなんだっ③|[[38投目 散紙>>https://www.youtube.com/live/HVilQx8DuBE?si=8jF_31veCawd7WCZ&t=14870]]|警察体験用動画|
+|2026/05/13|どうなんだっ④|[[45投目 行先>>https://www.youtube.com/live/XHSXxAVX10E?si=VIsRgop8uhcaO0WU&t=3054]]|警察体験用動画|
+|2026/05/24|道端で褒められた！|[[49投目 剤形>>https://www.youtube.com/live/NuhEt3P0d5g?si=Vq1uAQW78A83n4ym&t=19712]]|今日の1枚用のてつおの写真を褒められる|
+|2026/05/29|どうなんだっ⑤|[[50投目 形骸>>https://www.youtube.com/live/WH-kmtFCyrA?si=O-BPiO2ZDT_HXZiA&t=970]]||
+|2026/07/30|パン♡|[[66投目 手記>>https://www.youtube.com/live/LTqosyBTTQQ?si=vBGC2v0s0F1RRCVd&t=28811]]||
+//|　||||
+//|　||||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()
+
+//🧾領収書
+**&color(#57462B){領収書}
+#region(Season2)&b(){閉じる}&br()
+&underdot(#57462B,3px){&color(#57462B){&bold(){Season2}}}
+
+//&treemenu2(title=ここをクリックすると開閉します){[[＠ウィキご利用ガイド]]|[[＠ウィキの基本操作]]|[[プラグイン一覧]]}
+&treemenu2(title=・2026/07/08 UGM CM撮影,none){ケータリング購入　キラ・メキーラ&Br()&blankimg(STADIO KATEJI_CM UGM 領収書.png,x=350,y=485)}
+#endregion()
+
+//🗂️エピソード
+**&color(#57462B){沿革}
+//📁エピソード Season1
+#region(Season1)&b(){閉じる}&br()
+&underdot(#57462B,3px){&color(#57462B){&bold(){Season1}}}
+
+#table_style(head=center:#57462B:#FFFFFF)
+|~日付|~&nbsp(20)出来事&nbsp(20)|~&nbsp()エピソード&nbsp()|~&nbsp(30)備考&nbsp(30)|h
+|2023/10/24|CM公開|[[スタジオカテジCMが公開>>https://www.youtube.com/watch?v=U04NfWaZAfY]]||
+|2024/10/24|スタジオ購入|撮影スタジオを購入||
+|2025/03/12|CM公開|[[新作スタジオカテジCMが公開>>https://www.youtube.com/watch?v=GI4Al3Y7hb8]]||
+|2025/05/27|⭐アミステのCMとチラシを作ってほしい|[[CM作成依頼 アミステ>>https://www.youtube.com/live/fKlRhFEDrlE?si=s7sw7WkDvyEwgTqz&t=1187]]||
+|2025/05/27|レベルくじPRチラシを作ってほしい 禊|[[レベルくじPRチラシ 禊>>https://www.youtube.com/live/fKlRhFEDrlE?si=ljtvrpreu0t8CqaZ&t=1789]]||
+|2025/06/03|⭐📷アミステ ポスター撮影&制作|[[アミステ撮影>>https://www.youtube.com/live/mefkM9kXRH8?si=H2MqEmQ-N29Gydj2&t=1578]]||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()
+
+//📁エピソード Season2
+#region(Season2,open)&b(){閉じる}&br()
+&underdot(#57462B,3px){&color(#57462B){&bold(){Season2}}}
+
+//▽2025年12月
+#region(2025年12月)&b(){閉じる}
+#table_style(head=center:#57462B:#FFFFFF)
+2025年12月
+|~日付|~&nbsp(40)出来事&nbsp(40)|~&nbsp()エピソード&nbsp()|~&nbsp(40)備考&nbsp(40)|h
+|2025/12/31|🐎年賀状の写真を撮ろう|[[3投目 越年>>https://www.youtube.com/live/mvHCPgSWMhc?si=xBWUZc2CT9Ow4L6F&t=11840]]||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()&br()
+//▽2026年01月
+#region(2026年01月)&b(){閉じる}
+2026年01月
+#table_style(head=center:#57462B:#FFFFFF)
+|~日付|~&nbsp(40)出来事&nbsp(40)|~&nbsp()エピソード&nbsp()|~&nbsp(40)備考&nbsp(40)|h
+|2026/01/29|広告で使うフリー素材を作りたい|[[7投目 柄本>>https://www.youtube.com/live/ykPUkCXWQQ0?si=3WmFW-WSgv8n8jGb&t=3524]]||
+|2026/01/31|👮警察体験者用MV 作成担当決めコンペ|[[9投目 金平>>https://www.youtube.com/live/crElHhZiPzc?si=310YZ6_-ySxQpAUd&t=7409]]||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()&br()
+//▽2026年02月
+#region(2026年02月)&b(){閉じる}
+2026年02月
+#table_style(head=center:#57462B:#FFFFFF)
+|~日付|~&nbsp(40)出来事&nbsp(40)|~&nbsp()エピソード&nbsp()|~&nbsp(40)備考&nbsp(40)|h
+|2026/02/04 |&ref(STADIO KATEJI_ジャックス式メソッド_ロゴ.png,,width=18,height=18)&nbsp()(病院非公式)ジャックス式メソッド 撮影依頼|[[9投目 金平>>https://www.youtube.com/live/crElHhZiPzc?si=CREzmgI0l-qzyziV&t=4071]]||
+|2026/02/04 |&ref(STADIO KATEJI_ジャックス式メソッド_ロゴ.png,,width=18,height=18)&nbsp()(病院非公式)ジャックス式メソッド ムービー用撮影|[[10投目 手順>>https://www.youtube.com/live/B5WXfCdEaKg?si=tRTME2r9n5r73s_x&t=2898]]|『メイク・ア・ジャスト』|
+|2026/02/15|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()スタジオカテジ TwiXアカウント作成|[[15投目 利確>>https://www.youtube.com/live/JrGnIE513gg?si=L2XVjmgjy82KRM3F&t=3208]]||
+|2026/02/15|🦈アトラクションムービー作成依頼|[[15投目 利確>>https://www.youtube.com/live/JrGnIE513gg?si=xzkBzUNDYKK3uyQi&t=16240]]||
+|2026/02/18|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()スタジオカテジ ロゴ製作&お披露目|[[16投目 路互>>https://www.youtube.com/live/p-gkyK57LYk?si=9EYhV4EvmNcS11aC&t=8335]]||
+|2026/02/19|🦈🎬アトラクションムービー ヒアリング＆撮影|[[17投目 楽園>>https://www.youtube.com/live/mNAmNN6oW3o?si=HS4S9g3c6Dj8h2ah&t=6870]]|Vermont Curry ''Mr.Eden Paradise''&Br()Mayor Hokaido Stew|
+|2026/02/25|🚗JTSヒーローショー撮影|[[19投目 英雄>>https://www.youtube.com/live/mlAupHMwLmU?si=4yzzrqK_xI9Wi2ij&t=9494]]||
+|2026/02/25|🦈アトラクションムービーお披露目|[[19投目 英雄①>>https://www.youtube.com/live/mlAupHMwLmU?si=byHHSI7r3AYRrVOo&t=2236]]&Br()[[19投目 英雄②>>https://www.youtube.com/live/mlAupHMwLmU?si=e-MQGy_mHToFIMym&t=17099]]||
+|2026/02/25|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)🏠スタジオ購入検討①|[[19投目 英雄>>https://www.youtube.com/live/mlAupHMwLmU?si=JCYGUXEDjrCkzV7C&t=16900]]||
+|2026/02/27|&ref(STADIO KATEJI_ジャックス式メソッド_ロゴ.png,,width=18,height=18)&nbsp()ジャックス式メソッド チラシ撮影|[[20投目 新規>>https://www.youtube.com/live/uHkBNxdlOos?si=Zwi2xI3Rj72Ov3m6&t=4238]]||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()&br()
+//▽2026年03月
+#region(2026年03月)&b(){閉じる}
+2026年03月
+#table_style(head=center:#57462B:#FFFFFF)
+|~日付|~&nbsp(40)出来事&nbsp(40)|~&nbsp()エピソード&nbsp()|~&nbsp(40)備考&nbsp(40)|h
+|2026/03/13|🦈Wデート当日(制作ムービーが使われる日）|[[25投目 吊橋>>https://www.youtube.com/live/qGV4QnAPfAE?si=TWiOwsOL2d6SI2RH&t=11891]]||
+|2026/03/20|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)🏠スタジオ購入検討②|[[26投目 事件>>https://www.youtube.com/live/cnP7ay4mE2w?si=fP_Qbs6R8YYRuaeX&t=15265]]||
+|2026/03/25|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)🏠スタジオ購入費ローン相談|[[27投目 魔法>>https://www.youtube.com/live/OCoa836QKrQ?si=COvtHcmUinhGiXPz&t=17963]]||
+|2026/03/26|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()スタジオ購入費を稼ぎたい|[[28投目 保証>>https://www.youtube.com/live/s-hOIsSKjgw?si=QyW4wEtBpfCPyqP2&t=5105]]||
+|2026/03/27|🪄Wizardry Works CM打ち合わせ|[[29投目 投資>>https://www.youtube.com/live/IJeoUYB0-_A?si=EjiK0xDbs2RyUL6H&t=4764]]||
+|2026/03/28|🪄🎬Wizardry Works CM撮影①|[[30投目 寄稿①>>https://www.youtube.com/watch?v=dc6Vhp-4OPw]]&Br()[[30投目 寄稿②>>https://www.youtube.com/live/dc6Vhp-4OPw?si=veAIJvdLMb8eP76b&t=18589]]|天羽よつは&Br()&openclose2(show=としのり){（鳥野　ぎん）}|
+|2026/03/28|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()クラウドファンディングスタート！！|[[30投目 寄稿>>https://www.youtube.com/watch?v=dc6Vhp-4OPw]]||
+|2026/03/28|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()クラウドファンディング支援 Vertex|[[30投目 寄稿>>https://www.youtube.com/live/dc6Vhp-4OPw?si=3bpeN3RcJAqFcbR6&t=17465]]||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()&br()
+//▽2026年04月
+#region(2026年04月)&b(){閉じる}
+2026年04月
+#table_style(head=center:#57462B:#FFFFFF)
+|~日付|~&nbsp(40)出来事&nbsp(40)|~&nbsp()エピソード&nbsp()|~&nbsp(40)備考&nbsp(40)|h
+|2026/04/01|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)🏠㊗️スタジオ購入＆開店|[[32投目 開店>>https://www.youtube.com/live/q43oUluez9g?si=bq-gnLVENNehdbWJ&t=18885]]|撮影スタジオを購入&Br()&openclose2(show=購入費内訳){&Br()&bold(){4800万円(内装代3500万、土地代1300万)}&Br()※ハウジング代は別途&Br()※4800万の内訳&Br()・ましろ：1500万&Br()・クラウドファンディング：1400万&Br()&nbsp()&nbsp()&nbsp()（ダミアン200万、まるん200万、Vertex1000万）&Br()・アトラクションMV：200万&Br()・トレンディ：550万&Br()・ジャックス：150万&Br()・ファッションショーモデル：40万&Br()・救急隊＆窓ふき＆施設(叔父ベガス)：960万&Br()&Br()購入のためローン相談時点でカテジの手元には1000万。&Br()そこからましろのカジノ爆勝ちと&Br()カテジのクラファンや叔父ベガス勤務、窓ふきバイト等の努力により、&Br()約1週間ほどで4800万を貯めきりローンを組まずに購入となった🎉}|
+|2026/04/03|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)👔スタジオカテジ正装服&活動計画|[[33投目 装置>>https://www.youtube.com/live/0a0XQCUJodE?si=qO6a5PcPiI6H55D9&t=8441]]||
+|2026/04/05|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)📇スタジオカテジの名刺|[[34投目 名刺①>>https://www.youtube.com/live/8LtyWXqsnlE?si=lq8a5TtqrFIcQIt9&t=1490]]&Br()[[34投目 名刺②>>https://www.youtube.com/live/8LtyWXqsnlE?si=_TZxpmN_Wf0RX-bA&t=6100]]||
+|2026/04/11|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)📸値段表用の写真撮影|[[37投目 賽投>>https://www.youtube.com/live/vsKTWpwcb28?si=KfvGkkU01jsgcpf0&t=8052]]|切間　てつお|
+|2026/04/15|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()値段表お披露目①|[[38投目 散紙>>https://www.youtube.com/live/HVilQx8DuBE?si=ieJgdVdeQlStzQXZ&t=9709]]||
+|2026/04/23|📸うんうん、そうだね。サブスク用サムネイル撮影|[[40投目 茂雲>>https://www.youtube.com/live/By8Kpw09cMo?si=d1MjCD1nthKzQ6jx&t=10023]]||
+|2026/04/24|📸うんうん、そうだね。サブスク用サムネイル納品|[[40.5投目 茂雲>>https://www.youtube.com/live/ZYenyBMjeJg?si=tnvwpZ9qPzqKnbuj&t=90]]||
+|2026/04/26|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()値段表お披露目②|[[41投目 雲行>>https://www.youtube.com/live/QlsBroJ1Jyo?si=DwHAjAd_Y_Cj4Viv&t=1792]]|&openclose2(show=モデルやるよ！){切間　てつお}|
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()&br()
+//▽2026年05月
+#region(2026年05月)&b(){閉じる}
+2026年05月
+#table_style(head=center:#57462B:#FFFFFF)
+|~日付|~&nbsp(40)出来事&nbsp(40)|~&nbsp()エピソード&nbsp()|~&nbsp(40)備考&nbsp(40)|h
+|2026/05/01|♬チラシ 着メロボイス 第2弾 依頼|[[42投目 行脚>>https://www.youtube.com/live/hUtnwOC_ad8?si=nc7bUXQ7FGqj06A4&t=14842]]||
+|2026/05/01|🐰UGM CM打ち合わせ|[[42投目 行脚>>https://www.youtube.com/live/hUtnwOC_ad8?si=VmgNarJbiF79lpoM&t=15253]]||
+|2026/05/09|そのグリーンバックはなに！！！？|[[44投目 並行>>https://www.youtube.com/live/fRwqktAY3U4?si=8MIl1Ss-xmWASeyN&t=3001]]||
+|2026/05/09|♬📸ボイスチラシ制作＆納品|[[44投目 並行>>https://www.youtube.com/live/fRwqktAY3U4?si=l9tN_CJzDrtDX-tu&t=6213]]||
+|2026/05/13|🐰UGM CM構想&Br()🐰🎬UGM CM撮影(???)|[[45投目 行先>>https://www.youtube.com/watch?v=XHSXxAVX10E&list=PLQJes5N78DuxozY5zw8x-6Bvu-srh6q8H&index=25]]|Vermont Curry ''Mr.Eden Paradise''&Br()Mayor Hokaido Stew|
+|2026/05/17|🪄Wizardry Works 不動産見学とCM撮影可能場所確認&Br()CM撮影日の確認&Br()ましろより報告|[[46投目 先行>>https://www.youtube.com/watch?v=KF5dwKhtkOs&list=PLQJes5N78DuxozY5zw8x-6Bvu-srh6q8H&index=24]]|不動産CMについて、依頼主様と打ち合わせ&Br()&Br()&openclose2(show=報告内容){&Br()Vertexクラファン特典1回目としてましろ立会いの元スタジオを貸し出し。&Br()特典残り14人分}|
+|2026/05/20|🪄🎬Wizardry Works CM構想&CM撮影②|[[47投目 行方>>https://www.youtube.com/watch?v=DThu4FwtrrM&list=PLQJes5N78DuxozY5zw8x-6Bvu-srh6q8H&index=23]]|ももみ&Br()橘　かげまる&Br()パン　チャン&Br()&openclose2(show=としのり){（鳥野　ぎん）}&Br()魔女の酒場|
+|2026/05/22|🪄Wizardry Work CM完成!!お披露目&Br()ギャラを巡り病院内で簡易"裁判"|[[48投目 方剤>>https://www.youtube.com/live/nk2lktuSD9k?si=46AoyPlh4aLQTXJC&t=5270]]|過去最高カット数　あれから７年ッ...！&Br()&openclose2(show=契約終了？){子役　としのり（鳥野　ぎん）}|
+|2026/05/24|📸今日の1枚用撮影＆納品|[[49投目 剤形>>https://www.youtube.com/live/NuhEt3P0d5g?si=B7E18x54Eych3LIr&t=8933]]||
+|2026/05/29|📸顧問弁護士サブスク用サムネイル&チラシ撮影|[[50投目 形骸>>https://www.youtube.com/live/WH-kmtFCyrA?si=BW3DY2G4NYSotHN-&t=1618]]||
+|2026/05/29|📸顧問弁護士サブスク用サムネイル&チラシ構想＆納品|[[50.5投目 骸骨>>https://www.youtube.com/live/kdHQL6y3QHk?si=COLA_xaMVHPgWV7y&t=2311]]||
+|2026/05/29|🐰🎬UGM CM撮影(???)|[[50.5投目 骸骨>>https://www.youtube.com/live/kdHQL6y3QHk?si=-6w_O07SeKFBK4Hi&t=2573]]|サンクチュアリ　たえこ|
+|2026/05/29|演出 姉さんサプライズ誕生日祝い|[[50.5投目 骸骨>>https://www.youtube.com/live/kdHQL6y3QHk?si=CVuD4JnHVPpERXGc&t=3338]]||
+|2026/05/31|🐰UGM 謝罪①|[[51投目 骨抜>>https://www.youtube.com/live/QXgJtoGuwvs?si=yXUnNM1DHx806lLC&t=14512]]|同行者：雷堂　ましろ|
+|2026/05/31|🐰UGM CM構想編① ましろと構想|[[51投目 骨抜>>https://www.youtube.com/live/QXgJtoGuwvs?si=PFFIibZRFEEJ7VxZ&t=15397]]|『らびりずむ』|
+|2026/05/31|写真集を作りたい|[[51投目 骨抜>>https://www.youtube.com/live/QXgJtoGuwvs?si=unVgpXxOpGdGwUqm&t=782]]||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()&br()
+//▽2026年06月
+#region(2026年06月)&b(){閉じる}
+2026年06月
+#table_style(head=center:#57462B:#FFFFFF)
+|~日付|~&nbsp(40)出来事&nbsp(40)|~&nbsp()エピソード&nbsp()|~&nbsp(40)備考&nbsp(40)|h
+|2026/06/05|🐰UGM CM構想編②|[[52投目 抜糸>>https://www.youtube.com/live/wpUC7_2ta0k?si=xo_s8wwHxpqzcqZx&t=3455]]||
+|2026/06/14|🐰UGM 謝罪②|[[53投目 糸口>>https://www.youtube.com/live/p6poQNypj9U?si=lRvOKyQAyTb9vqAe&t=1370]]|同行者：ブラック　ジャックス|
+|2026/06/20|🐰UGM 謝罪③|[[54投目 口頭①>>https://www.youtube.com/live/ZJCQ40WIYpc?si=p4oHWUypVnh7LmD-&t=3170]]&Br()[[54投目 口頭②>>https://www.youtube.com/live/ZJCQ40WIYpc?si=CtFSXKQ-rpdcajpd&t=6310]]|同行者：イナ　イロハ&Br()&openclose2(show=専属女優決定？){イナ　イロハ}|
+|2026/06/20|映画構想 打ち合わせ|[[54投目 口頭>>https://www.youtube.com/live/ZJCQ40WIYpc?si=3loNtoaX1qxiMLwP]]||
+|2026/06/20|🐰UGM CMソング パート構想&Br()姉さん 相談|[[54投目 口頭>>https://www.youtube.com/live/ZJCQ40WIYpc?si=LENuK04BELs9A5f8&t=7411]]|UGM CMソング完成&Br()&openclose2(show=相談内容){ラジオ出演についての相談}|
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()&br()
+//▽2026年07月
+#region(2026年07月)&b(){閉じる}
+2026年07月
+#table_style(head=center:#57462B:#FFFFFF)
+|~日付|~&nbsp(40)出来事&nbsp(40)|~&nbsp()エピソード&nbsp()|~&nbsp(40)備考&nbsp(40)|h
+|2026/07/08|🐰🎬UGM CM撮影|[[57投目 前進>>https://www.youtube.com/live/4bDBELJz26Y?si=nLi9U2PZvIDEv3u8&t=6779]]||
+|2026/07/09|ショートドラマ作成相談|[[58投目 進撃>>https://www.youtube.com/live/LB0JLjwt6N4?si=8QR7kWscz_NDtEir]]|&openclose2(show=相談内容){&Br()シチュエーションムービーを撮りたい&Br()とりあえずマネタイズは気にせず、まずは1本作ってみよう}|
+|2026/07/09|📻ラジオ出演|[[58投目 進撃>>https://www.youtube.com/live/LB0JLjwt6N4?si=6W3_5QIaib4e40nD&t=6607]]||
+|2026/07/11|ショートドラマ 台本確認|[[59投目 撃沈>>https://www.youtube.com/live/1S9kW27EjQw?si=36lG4UmqTy3xS9fd&t=6636]]||
+|2026/07/15|🐰🎬UGM CM追加収録|[[60投目 沈降>>https://www.youtube.com/live/B3Bh8EHZhoI?si=OYhd0gEXN7ktMVIJ&t=10254]]|万十　忍|
+|2026/07/15|🚗JTS撮影について|[[60投目 沈降>>https://www.youtube.com/live/B3Bh8EHZhoI?si=JJh1Bx2t19-HHFHG&t=11879]]||
+|2026/07/18|🐰UGM CMお披露目|[[61投目 降臨>>https://www.youtube.com/live/lQR3IenCKgU?si=4YRMOVVEnw7X0NFN&t=8824]]||
+|2026/07/23|📻ラジオ出演の報酬について|[[63投目 界線>>[https://www.youtube.com/live/UivD6Bl7Fow?si=KcL_2-Wu8G1HVnIt&t=9945]]|&openclose2(show=もう終わり？){ブラック　ジャックス&Br()ましろとカテジのラジオ報酬使っちゃった☆}|
+|2026/07/23|📻ラジオ用に音声のみのCMを制作したい|[[63投目 界線>>https://www.youtube.com/live/UivD6Bl7Fow?si=X-BwzzvRXxcE-erG&t=10941]]||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()&br()
+//▽2026年08月
+#region(2026年08月,open)&b(){閉じる}
+2026年08月
+#table_style(head=center:#57462B:#FFFFFF)
+|~日付|~&nbsp(40)出来事&nbsp(40)|~&nbsp()エピソード&nbsp()|~&nbsp(40)備考&nbsp(40)|h
+|2026/08/01|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()撮影確認(一部)|[[69投目 者名>>https://www.youtube.com/live/-2wK7EzBYcs?si=qdxNTtIsxVAnSR7H&t=14301]]|※撮影は衛生外|
+|2026/08/05|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()スタジオカテジのCM完成！お披露目&Br()救急隊ゴルフコンペ撮影|[[70投目 名人>>https://www.youtube.com/live/ijkPp-XFcXY?si=59hEUwy3PKSmwCIk&t=3179]]||
+|2026/08/06|🚗JTS戦隊PV撮影①|[[71投目 人命>>https://www.youtube.com/live/-SeuZKyLqjo?si=lTBaIbAXtjyulSYJ]]||
+|2026/08/13|劇の役者を探している(観客参加型舞台)&Br()ショートドラマ打ち合わせ|[[74投目 筆圧>>https://www.youtube.com/live/q3h0brM1jDo?si=NJc9spLL1XiEWusk&t=7757]]&Br()[[74投目 筆圧>>https://www.youtube.com/live/q3h0brM1jDo?si=9dAZWZfdK2itVFhW&t=9305]]||
+|2026/08/14|結婚式の前撮写真依頼＆価格交渉&Br()&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()新女優誕生！&初役者仕事説明&Br()🚗JTS戦隊PV撮影日程調整|&Br()[[75投目 圧迫>>https://www.youtube.com/live/wBpKsr-_2E4?si=LXgy4z0ff4x-459d&t=12366]]|&Br()&openclose2(show=新女優){星野ももあ}&Br()&openclose2(show=JTS戦隊PV撮影日){2026/08/26で決定！}&Br()&openclose2(show=忠誠深い。こいつはなんてやつなんだ){ブラック　ジャックス&Br()仲違いした理由について自分の器の小ささに絶望🙄&Br()ビジネスパートナー復活&Br()&blankimg(STADIO KATEJI_75_katejack.png,x=200,y=112)}|
+|2026/08/20|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()新俳優誕生！&初役者仕事説明|[[76投目 迫真>>https://www.youtube.com/live/ERUEhtblGWc?si=ngCTHOKPNX8gSwMc&t=8832]]|&openclose2(show=新俳優){神崎　治}|
+|2026/08/21|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()エキストラを2人募集したい&Br()&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()スタジオカテジ TwiXアカウントパスワード変更|[[77投目 真価>>https://www.youtube.com/live/VgsrJG9ZuX8?si=GsYBUs8BTsZHvflg&t=2496]]&Br()[[77投目 真価>>https://www.youtube.com/live/VgsrJG9ZuX8?si=wI2D00nYwgFFskpZ&t=3508]]|オーディションをやってみよう！！|
+|2026/08/26|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()スタジオカテジ オーディションシート&Br()🚗JTS戦隊撮影 Part2|[[79投目 額外>>https://www.youtube.com/live/F1ezVIc-hSI?si=EO_MaNzyY9PFEWWS&t=2864]]&Br()[[79投目 額外>>https://www.youtube.com/live/F1ezVIc-hSI?si=sxQ2xOFYrlKW59Dc&t=3274]]|&Br()&openclose2(show=豆　やん代理){キラ・メキーラ}|
+|026/08/30|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()アー写を撮ってほしい&br()&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()スタジオカテジ新人発掘オーディション|[[81投目 者共>>https://www.youtube.com/live/wfrHqt8gv-E?si=RPCmHyy0gCeAFB-L&t=944]]&br()[[81投目 者共>>https://www.youtube.com/live/wfrHqt8gv-E?si=uXRDbL54ITb5czbn&t=9134]]||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()&br()
+#region(2026年09月,open)&b(){閉じる}
+2026年09月
+#table_style(head=center:#57462B:#FFFFFF)
+|~日付|~&nbsp(40)出来事&nbsp(40)|~&nbsp()エピソード&nbsp()|~&nbsp(40)備考&nbsp(40)|h
+|2026/09/02|&ref(STADIO KATEJI_ロゴ②.png,,width=18,height=18)&nbsp()スタジオカテジのCM②！お披露目|[[82投目 共存>>https://www.youtube.com/live/bGnhLMM3w84?si=MkLH0Qik2U9sRLU8&t=5042]]||
+|||||
+#table_sorter{head=#D0C7B8,even=#F2F1EE,odd=#FFFFFF}
+#endregion()
+#endregion(Season2)

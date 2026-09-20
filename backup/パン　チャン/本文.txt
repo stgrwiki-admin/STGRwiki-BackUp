@@ -1,0 +1,1703 @@
+&bold(){観測前に&font(12pt,u,#1F79E0){[[観測者の心得]]}をご確認ください。}
+*プロフィール
+#slide_img(auto=5,width=300,height=450){S2_パンチャン_01.jpg,パンチャン_02.png,パンチャン_LuckyWheel.png,パンチャン_9055.png}
+&font(25px,b){「白で生きてたら何でもできる」}
+&font(25px,b){「僕、やっぱり警察になりたい。」}
+//&bold(){「サンタクロースを探しに来ました」}
+
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#FFFF5E){名前=#eee:center:b}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|
+|~名前|~&icon_fa(fa fa-user)|>|パン　チャン|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|東京|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|1997年11月18日 (&countup(1997/11/18,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|>|2023年8月28日 (&countup(2023/8/28,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|素材屋&br()賃貸業&br()ガソリンスタンド経営&small(){（7166番地）}&br()[[9055]]メカニック&small(){（契約社員）（2024/08/27～）}&br()[[ロスランド]]会長&small(){（2024/09/04～）}&br()[[たまぬけカフェ]]&br()[[ヒーローハウジング]]&small(){（2024/12/17～）}&br()コンビニ従業員&small(){（9046番地）（上田さん所有）}|不動産 [[Wizardry Works]]&small(){（2025/12/24～）}&br()メカニック [[LUNA Garage]]&small(){（2026/03/12～）}&br()飲食店[[Mellow Berry]] &small(){(2026/06/25～)}&br()9033ルナガレガソリンスタンド&br()ガソリンスタンド[[わんも〜GAS STATION>わんも〜Cafe/わんも〜GAS STATION]] &small(){(2026/08/06～)}|
+|~過去の職歴|~&icon_fa(fa fa-solid fa-person-circle-minus)|&font(85%){[[Père Noël]]&small(){（解雇）}&br() 海上レストラン【[[Urashima]]】&small(){（退職）}&br()メカニック[[【SKE】>菖光エンジニア]]&small(){（体験）}&br()[[猫カフェ>猫カフェ武蔵]]&small(){（3日間の体験期間終了）}&br()[[家系総本山焦村家>焦村家]]&small(){（自販機専門バイト）}&br()コンビニ経営&small(){（4024番地）（権利消失）}&br()[[プラネットモータース]]普通車ディーラー&small(){（退職）}&br()[[警察>ロスサントス警察]]体験&small(){（2024/11/13~11/15）}}|&font(85%){メカニック [[JTS>>ジョアンナテクノサービス]]&small(){（2025/12/25～2026/03/12）}&br()}|
+|~所属|~&icon_fa(fa fa-university)|料理研究会||
+|~TwiX|~&icon_fa(fa fa-crow)|@パンチャン|パンチャン@panchannnnnn|
+|~レーサー名|~&icon_fa(fa fa-user-tag)|にげない|nigenai|
+|~プレイヤー|~&icon_fa(fa fa-address-card-o)|>|ぱんくん|
+|~告知等|~&icon_fa(fa fa-bullhorn)|>|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/PANKUNXXPG]]|
+|~配信場所|~&icon_fa(fa fa-gamepad)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@Silvershieldgangallll/featured]]or &font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCJQIKUi9ZoxTSbdKuGwMVbw]]/ &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/pankunnanoda]]|
+|~動画投稿|~&icon_fa(fa fa-video-camera)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@Silvershieldgangallll/featured]]|
+|~別キャラ|~&icon_fa(fa fa-user-plus)|>|[[パンタクロース]]|
+
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*基本情報
+・市長曰く&openclose2(show=三大ヤバいやつ){（他 [[高橋　滅論]]、[[アヌギフ　白川]]）}の1人だった。
+・直情的な性格が災いして、街のトラブルメーカーとして就職もできないソロファーマーの日々を送っていたが、憧れた人たちに白市民であることを望まれ、こつこつと真面目に生きて悪名を払拭。住民の信頼を得て、メカニック、飲食店社長、不動産屋にまで登り詰めた。
+・かつての自分のような居場所のない人をなくしたいという信念のもと、初心者支援に力を入れている。
+・γ世界線への転送後も住民からの信頼は厚く、メカニック【[[LUNA Garage]]】、不動産屋【[[Wizardry Works]]】の立ち上げメンバーとして活動している。
+・9055に拾ってくれた[[上田>上田　さん]]イズムが染みついている。
+・友人のために私財も手間も惜しまない。実はいいやつ。
+・警察を志望しているが、これだけは何故か叶わない。（2026年8月現在：不合格6回目 (S1：3回、S2：3回)）
+・憧れた人たちの側にもいれず、警察にもなれず、友人たちにも雑に扱われ（自業自得）、多少自暴自棄気味になっている。
+
+*ピックアップエピソード&事業
+#div(width=330px,bgcolor=#FFFF5E){&font(16px,b,#cccccc){&space()Season1}}
+****2023年8月～（半グレ時代）
+#region(開く)閉じる
+・顔の黄色いラインは悪魔と天使を表現している。
+・・悪の道に行くのと正義の道に行くのとで顔のどちらかの半分の色が全て黄色になる。
+・細かいことまでは分からないが昔ロスサントスにいたというサンタクロースに会いに来た。
+・・町に来て早々サンタクロースの存在を身近に感じてしまい1日目でエンディングを迎える可能性に焦る。
+・・あくまでパンチャンが逢いたいサンタクロースはかつてロスサントスを震撼させプリズンに収容された[[極悪サンタ>>https://youtube.com/clip/Ugkx3eW6hc1yqoAsqSM-z4gn3TF4UWoDdhB2?si=eoNn9GvlqBpMD6N3]]である。
+・若葉マークをつけた新人のはずが[[カジノ]]の行き先を何故か知っていた。
+・新人に優しくしてくれる住人達に新人らしからぬ生意気な態度をとりがち。
+・悪い大人に若葉マークがついているにもかかわらず誘拐されがち(やはり生意気な態度がそうさせてしまうのだろう)。
+&bold(){【ペールノエル事件】}
+・初心者マークの頃に[[ペールノエル>Père Noël]]の体験期間中、いろんな人に無理やりアップルパイを買わせたりポケットに捩じ込ませて移動販売価格と言い高額で売りつけたり、お気持価格の高額請求をして買わせたためペールノエルにクレームが入り、[[りおん社長>海鈴　りおん]]から解雇通知を持たされた従業員に解雇を告げられる。
+・・解雇された後もペールノエルの店外で、体験期間中に作りすぎたアップルパイを販売しようとしていた。その後裁判になるかもしれないと言われ２ヶ月ほど起きなくなる。さすがにやらかしたという自覚もあり、自粛期間としての意図もあった。
+#endregion()
+//
+****2024年1月末頃から〜（白市民ファーマー、就職活動、新規住民向け事業開始）
+#region(開く)閉じる
+・もうそろそろ大丈夫なのでは、と感じたため、再び街に起きてくるようになる。
+・ペールノエル事件でついた評判が悪すぎてどこにも就職できない日々を送る。
+・・GBCの団員に誘われるが、組織内でパンチャンNGが出て断られた。
+・以前は花摘みを行うなど半グレ活動も行っていたが、これを機に白市民寄りの生活スタイルに転換。白市民パスも取得。
+・ファームが得意で、よくリサイクルセンターやゴミ回収をしている。また、クラフターとしても活動しており、持ち前のファーム力で集めた素材を大量の武器類に作り替えて保管している。クラフトスキルを上げるのが趣味。
+・・トラブル時に詰めに来た[[餡ブレラ>anbrella(餡ブレラ)]]メンバーがその物資の量を見て驚き、ボスである[[アルフォート　ウェスカー]]から直々に勧誘されるほどのレベルである。
+・・[[高橋　滅論]]を窓口に、大量の素材を[[麻薬カルテル>DEP]]に売却している。滅論は薬のことも組織のことも隠してはいるが、パンチャンも薄々察してはいる。（素材を売るにつれてどんどん仲良くなり、暇電される仲になった。）
+・黒市民と素材屋として取引をするにつれ、情報厳守の大事さを学び、言ってはいけない事の判断、言い回し等に気を付けるようになる。
+・ペールノエル事件でついた印象を変えるために、飲食店やカーディーラーとして真面目に働いて更生を目指している。事件の影響や半グレの過去、率直すぎる本人の物言いもあり、応募の段階でやんわり断られてしまうことも多かったが、地道な活動が実を結んでいくつかの店舗で採用される。
+・・海上レストランで働くふでこさんが「練るの大変」と言ったことから、[[海上レストラン>Urashima]]の体験を開始。ただし、ここでもチンアナゴロールを過剰に作ってしまい店を困らせてしまったため、長らく仮採用に留められていた。
+・・・その後、正式採用。サプライズでヘリとキャバクラ一億円券をプレゼントされ、従業員一同に加わり記念撮影をした。頻繁に店を開けたり、自販機への在庫を補充したりと、熱心に働いている。
+・・家系ラーメン店である[[焦村家]]にも従業員として応募。生産能力は高く評価されたが、接客面ではリスクがあるとの判断により、自販機への補充バイトとしての雇用となった。
+・・・後に「より本人の持ち味を活かしてほしい」「海上レストランに集中したほうがよい」との[[店長>焦月　ツルギ]]の意向により契約終了。
+・メカニックを志し[[PYC]]に応募したが断られ、一旦[[プラネットモータース]]の普通車ディーラーとして採用された。
+・・プラネットモータース就職後、暇な時は[[PYC]]に常駐しており、[[ルウ　ギャラクティカ]]や[[パキ　ち]]、[[小豆　最中]]と談笑したり、ナミビアからの中継を眺めている。プラネットモータースの一員（[[PYC]]の妖精）として落ち着いた。
+//・[[カジノ]]ホイールでヴァーチャーを当てたことがある。
+//・・[[ギャング]]が乗るようなスーパーカーであり、大型犯罪中やシマ取り中などでタイミングが悪いと、警察や[[ギャング]]から間違われて撃たれることがあるためあまり乗らない。
+#endregion
+//
+****2024年7月～（住民からの信頼を得て就職&警察志望）
+#region(開く)閉じる
+・2024/07/13 警察や救急の車両を修理してあげたいと&bold(){[[9055]]}でメカニックの体験を始める。確定した職業にすることを避け、バイトリーダーとして責任のない立場で勤務をするが、社長の[[上田>上田　さん]]より9055の経営について頭を悩ませるようになる。
+・・社長上田の許可の元、バイトながら雇用権限を持っていたため、社長不在でも新規住民を即座に職業体験で雇う事が出来、新規住民の支援や9055の盛り上がりに一役買っていた。
+・・2025/02/06 上田が起こした「D」スプレー事件で社長の無責任さに激怒した。
+・たくさん関わった人には”パンチャンは実はいい人”と言われることも多くなり、少しずつイメージが改善されてきている。最初は突飛な行動や物言いでトラブルを起こすこともあったが、長く街で過ごすにつれて落ち着いてきた。
+・・素直 &s(){でちょっと生意気} な性格から、話しやすく絡みやすい相手として見られている。お互いに遠慮のないインファイトコミュニケーションが持ち味。
+・・親しい住民からは、悩みを相談されることも増えた。黒堕ちなど、人生の分かれ道にある住民からの相談も。
+・街に人が起きてきて活発になることを重要と考えており、市民向けの事業をいくつも企画している。
+・・初心者への部屋貸出や、ファームの指南などの初心者サポートを行っている。
+・・保有している多数の物件を使ってもらう，展示・店舗エリアの開発を進めている。
+・2024/10/18 [[ロスランド]]計画のためにお土産屋さんを模した飲食店[[ロスランド]]を開業。
+・・飲食店開業サポートのため、キッチンを貸し出すことで営業申請がまだ出来ない住人やワンポイントのプレゼントを作りたい人へ向けてのサポートしている
+・大量の物件を購入していたことから不動産の知識が豊富になり、不動産仲介サポートを行っていた。
+・・2024/12/17 功績が認められ、不動産屋[[ヒーローハウジング]]に正式就職した。&font(10px){※不動産屋は限られた白市民にしか許されていない。}
+・2024/09/10に慕っていた人が街を去った事を起因として、その頃から警察官を目指すようになる。1回目の応募で警察体験をしたが、結果は不合格。その後警察の募集がかかるたびに応募し続け、書類選考で不合格になっている。
+・・警察になれない理由も分からず、警察と仲良くなるには黒市民になった方が良いのではないかと迷走していたが、多くの友人に引き留められ、落ち着いた。
+・2025/09/03 市役所で発行される市民カードを用いたトレーディングカードゲームを思いつき複数枚作成したところ、私文書偽造罪に問われ、警察の温情で裁判になった（裁判官：葛城司、検察官：味野環九郎、弁護人：月乃えるな）。
+・・私文書偽造罪ではあるが、情状酌量により白市民パス剥奪は免除、特別法律授業を受けることになった。
+#endregion
+----
+***素材屋パンチャン
+#region(開く)
+・圧倒的ファーム力で個人で素材屋、クラフト業をしている。
+・・1スタッシュ1素材のみで家を埋めるのが生きがい。
+・クラフトはほぼすべてのレベルをカンストさせている。
+#endregion
+***賃貸事業
+#region(開く)
+・MAP上に緑色のマークが増えるのが楽しくて、大量の物件を爆買いすること（自称シマ取り）が趣味であったが、持っているだけだと活用できないので初心者を中心に、所有する部屋を貸し出す大家さん事業を始めた。
+・貸し出す条件は30分ほど素材集めを一緒にやってくれることである。家賃や貸出期限などは特にない。
+・7218に所有するモーテルは満室状態になり、新しく7109のモーテルを貸し始めた。住人向けのミニイベントも構想している。
+・1人で100軒以上の物件を保有していたことから、物件ごとに課税しようとしていた市の動きをストップさせた逸話がある。
+***モーテル(7218番地)
+#region(開く,close)
+#table_style(head=center:#E0E0E0)
+|~部屋番号|~住居者|~入居日|~エピソード・備考|h
+|1号室|[[レダー　ヨージロー]]|2024/09/10 |ガレージ共有用の部屋 |
+|2号室|[[飯田　けんつ]]|2024/05/17|[[J　D]]から[[飯田　けんつ]]へ譲渡(2025/01/23)ガレージはそのまま残しておく|
+|3号室|[[日々]]|貸出期間終了 |イベントで使用したいため期間限定でのレンタル|
+|12号室|[[犬億　ロック]]|2024/05/03| |
+|14号室|[[阿蘇野　ひなす]]|2024/05/03| |
+|15号室|[[紫水　コウ]]|2024/04/24| |
+|16号室|[[松岡　重造]]|2024/05/17| |
+|17号室|[[タマーチ　ニキタ]]|2024/05/17|犬億ロックの紹介|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|mm/dd|出来事|関係者|エピソード・備考|
+#endregion
+***モーテル(7109番地) 満室
+#region(開く,close)　
+#table_filter(){エピソード・備考=hide,入居日=show}
+#table_style(head=center:#E0E0E0)
+|~部屋番号|~住居者|~入居日|~エピソード・備考|h
+|1号室|（パンチャンが使用中）| | |
+|2号室|（パンチャンが使用中）| | |
+|3号室|（パンチャンが使用中）| | |
+|4号室|[[ジョシュア・マーキル]]|2024/05/22| |
+|5号室|[[白　雲隠]]|2024/05/25| |
+|6号室|[[メイ・カイ]]|2024/05/30| |
+|7号室|[[羽芝　ユン]]|2024/06/01| |
+|8号室|[[小豆　最中]]|2024/06/07| |
+|9号室|[[毒多　博士]]|2024/06/19| |
+|21号室|[[三島　みつー]]|2024/07/15| |
+|22号室|[[ミカド　ルアシェイア]]|2024/08/08| |
+|24号室|[[味野　環九郎]]|2024/09/14| |
+|23号室|[[神ノ宮　のの]]|2024/09/30| |
+|25号室|[[ジャン＝ジャック・ヴァラン]]|2024/09/30| |
+|27号室|[[カルウィン・轟輪]]|2024/10/03| |
+|28号室|[[ブラック　ジャックス]]|2024/10/05| |
+|29号室|[[小恩　せいや]]|2024/10/05| |
+
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|mm/dd|出来事|関係者|エピソード・備考|
+#endregion
+***モーテル(9177番地)
+#region(開く,close)　
+#table_filter(){エピソード・備考=hide,入居日=show}
+#table_style(head=center:#E0E0E0)
+|~部屋番号|~住居者|~入居日|~エピソード・備考|h
+|1号室|（パンチャンが使用中）| | |
+|2号室|（パンチャンが使用中）| | |
+|3号室|[[ミカ・ピトフーイ]]|2024/10/20| |
+|4号室|[[ティキーチック　のすけ]]|2024/10/20| |
+|5号室|[[三島　改]]|2024/10/20| |
+|6号室|[[パキ　ち]]|2024/07/19| |
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|mm/dd|出来事|関係者|エピソード・備考|
+
+#endregion
+***モーテル(7031番地) 満室
+#region(開く,close)　
+#table_filter(){エピソード・備考=show,入居日=show}
+#table_style(head=center:#E0E0E0)
+|~部屋番号|~住居者|~入居日|~エピソード・備考|h
+|1号室|[[諸見　円菓]]|2024/12/05|階段のない入口から入って左手前|
+|2号室|[[光乃　あびす]]|2024/12/07|階段のない入口から入って右手前|
+|3号室|[[星ノ　みこ]]|2024/12/10|階段のある入口から入って右手前|
+|4号室|[[畳　かえる]]|2024/12/14|階段のある入口から入って右奥|
+|5号室|[[モラード・バ・ナーナ]]|2025/01/25|階段のない入口から入って右奥|
+|6号室|[[北村　ばなな]]|2025/02/13|階段のない入口から入って左奥|
+|7号室|[[丸井　まる]]|2025/02/15|階段のある入口から入って左手前|
+|8号室|[[奈落　破滅]]|2025/02/15|階段のある入口から入って左奥|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|mm/dd|出来事|関係者|エピソード・備考|
+#endregion
+***モーテル(8095番地)
+#region(開く,close)　
+#table_filter(){エピソード・備考=show,入居日=show}
+#table_style(head=center:#E0E0E0)
+|~部屋番号|~住居者|~入居日|~エピソード・備考|h
+|1号室|[[シャーク　ニサワール]]|2025/02/23|左から2番目の扉 |
+|2号室|[[夜桜　怜]]|2025/02/25|左から3番目の扉|
+|3号室|[[三条　ねぎ]]|2025/03/20|左から4番目の扉|
+|4号室|[[バチ　公]]|2025/06/04|左から6番目の扉|
+|5号室|[[Super　Subaru]]|2025/06/07|左から7番目の扉|
+|6号室|[[犬　ルリ]]|2025/07/12|下の扉|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//|mm/dd|出来事|関係者|エピソード・備考|
+#endregion
+#endregion
+***ロスランド計画
+#region(開く)
+[[ロスランド]]計画とは、博物館を主題のテーマパークとして盛り上げつつ下記の事業を含んだものを指す&aname(ロスランド計画)
+・&bold(){飲食店開業サポート}（2024/10/06のプレオープンを経て2024/10/18にグランドオープン）
+・・お土産屋さんを模した飲食店&bold(){【[[ロスランド]]】}のキッチンと店舗を貸し出し飲食店の横展開という形でサポートするもの
+・・街に来たばかりで開業申請が行えない人や申請結果を待っている間に営業したいなど様々な理由ですぐに飲食店をオープンしたい人に向けたサービス
+・・開業資金として5000万円と、仕事請求で売り上げの1割を[[ロスランド]]に入れることが条件
+・・友人のプレゼントのためなど簡易的にキッチンを借りたいという人へのサポートも対象
+・・[[ロスランド]]で販売するメニューは全てロスサントスの住人に依頼をし、どの商品がどの住人による作品であるかを紹介することにより、開発能力（絵描き）を日の目にあてるねらいもある
+・・・2号店【[[たまぬけカフェ]]】
+・&bold(){キメラ博物館}
+・・アーティストに物件を貸し出し、ハウジングで芸術作品を創り出してもらう事業
+・・7118番地付近の広範囲に物件を購入し、各アトリエの鍵をあけて開放し、1件ずつの個展巡りのような形をとっている
+・・アーティストはスカウト制で、制作は何もやる事がなく、かつ創作意欲が湧いた時にお願いするスタンス
+・・キメラ博物館 アーティスト登録名簿
+#region(開く,close)　
+#table_filter(){エピソード・備考=hide,登録日=show}
+#table_style(head=center:#E0E0E0)
+|~登録者番号|~アーティスト名|~登録日|~エピソード・備考|h
+|No.1|[[マカイーノ　アッコパス]]|2024/06/16 | |
+|No.2|[[えだまめもん]]|2024/06/16 | |
+|No.3|[[月乃　えるな]]|2024/06/20 | |
+|No.4|[[羽山　ペティ]]|2024/06/25 | |
+|No.5|[[よすみの　かど]]|2024/06/28 | |
+|No.6|[[猫ノ宮　ひな]]|2024/06/29| |
+|No.7|[[豆乳　ちゃんもも]]|2024/07/04| |
+|No.8|[[日々]]|2024/07/29| |
+|No.9|[[銅鑼　イオリ]]|2024/08/06| |
+|No.10|[[揚物　ころも]]|2024/08/13| |
+|No.11|[[チェン　マヨ]]|2024/10/24| |
+|No.12|[[香月　ろぎあ]]|2024/10/24| |
+|No.13|[[葛城　司]]|2024/10/27| |
+|No.14|[[天使　はの]]|2024/10/27| |
+|No.15|[[水嶋　じぇい]]|2024/10/27| |
+
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+・&bold(){ライブハウス【Lost】}&aname(Lost)
+・・7123 forest
+・・7118 Sanctuary
+・・8235 ocean (ハウジング[[うさぎさん]])
+&image(LostFes.jpg,y=300)
+
+#endregion
+//
+----
+***秘匿事項
+#region(開く)
+&font(12pt,b){ギャング【[[868]]】協力者}
+・24/02 リサイクルセンターでよく出会い、正体を隠さずファーム中の話し相手になってくれた[[ケイン／オー]]を慕っており、重要な取引相手としている。
+・・素材の売買において、素材の単純な価格だけでなくファームの対価も加味してくれ、どこよりも高額で買い取ってくれる。
+・[[ケイン／オー]]を通じて、[[レダー　ヨージロー]]ら他メンバーにも、白市民の協力者としての立場から、素材や武器防具の取引や、情報提供をしている。
+・[[餡ブレラ>anbrella(餡ブレラ)]]と揉めて詰められた際に、クラフトアイテム（アーマー）の取引先として[[ケイン／オー]]の名前を出してしまう。この際、その場にいた餡ブレラメンバー全員が「傭兵」の単語とともに納得する反応をした。
+・・後日、[[ケイン>ケイン／オー]]と[[レダー>レダー　ヨージロー]]と面談することになり、状況確認をされる。ケインらと一緒に仕事をしたいと申し出るが断られる。情報管理について釘を刺されつつも&bold(){白市民}としての協力関係の提案をされ、関係を開始した。
+・黒になるならば別の人を探す等、白市民であることに重点を置かれる。
+・アシッドでファームをしていた所、[[DEP]]の[[加藤　圧]]、[[高橋　滅論]]から声を掛けられ、「パンチャン[[868]]に入らないの？[[ギャング]]にならないの？」と聞かれる。[[ギャング]]の名前について知らなかったため「やろやってなんですか？」と返答した所、「そういうフェーズいいから」と言われ、それに対して同じように聞き返すと「もういいよ」と言って帰ってしまった。
+・・24/06/09 このことを[[レダー>レダー　ヨージロー]]に伝えると、レダーらがギャング組織[[868]]であることを開示されるとともに、868との関係が同様の危険を引き寄せうることを述べられる。レダーからは「(お世話になってるから)今後何か詰められるようなことがあればウチが守りに行くよ」と言われ、&bold(){[[868]]の正式な協力者}として認められた。
+・取引をするにつれ、レダーをお父さんみたいと慕うようになる。
+・24/09/10 慕っていたレダーが隣町の警察に戻るために街を去ったことから、868に入りたいという想いを抱えたまま警察を目指すようになる。
+・・24/10/05 ケインにそのことを告げ、「好きに生きろ」と許可された。受かった場合、協力は一切できなくなるとケインに告げられ、了承。
+・半年ほど毎月10日前後にレダーの家で近況報告をしていた。
+・謎の素材「クリスタル」の採取を頼まれるが、一切詮索することなく、下請けのバイトにも悟らせることもなく、顧客である868の情報を守り通した。
+・レダー帰国後、868との関係性は素材屋として合法な素材の取引程度に薄れている。
+・・かつてグレーだった武器の売買も違法になってから一切なくなった。
+・・868側から犯罪や組織の情報を教えて貰えることはほぼない上に、不動産屋として物件の売買をすることも一切なかったため、868の事はほとんど知らない。レダー、ケイン、紫水と一緒にいる人が仲間なんだろうという認識しかもっていないが、かつて友人だったのに868の構成員になったっぽい人には身構えて敬語になってしまう。
+・・868がレギオンで警察とやり合っている現場に巻き込まれた際に、自身の怪我より、ケインを撃っている警察に対し怒りを抱いていた。
+・25/03/18 [[紫水>紫水　コウ]]に警察になった後に868に入りたい旨を告白。868を想ってくれている気持ちは嬉しいが、警察を蔑ろにしている、組織を裏切ることは重罪、今のままではダメだと釘を刺された。
+・レダーが街を去った日に撮らせてもらったレダーの後姿の写真を、その日から転送の瞬間までスマホの壁紙にしていた。
+・γ世界線では犯罪者にファームが必要なくなり、協力関係は一切なくなった。
+#endregion
+//24/06/18に【868】の表記を知る。
+//
+
+#div(width=330px,bgcolor=#FFFF5E){&font(16px,b,#cccccc){&space()Season2}}
+***2026年
+・警察体験動画のクリエイターコンペで勝ち取った。
+・04/01 [[LUNA Garage]]開業以来チョケで付けられた体験のジョブのまま放置され、雇用権限のあるグレードに上げるよう社長のえるなに談判するが、寄ってたかって「信用がない」と嘲笑された。その場でジョブを捨て(一時)自主退職した。
+・・04/03 [[わおん　ちょき]]に「ちょきの許可なく勝手に辞めるな」と叱られ、ちょきに連れられ社長に謝罪(?)、雇用権限は貰えなかったが復職した。&br()→後日Manager権限を貰え、体験を雇用できるようになった。「僕をクビにできるのは僕だけだ。」
+・&bold(){LUNA Garageでチョケとシリアスのラインを反復横跳びしている。}「止まることを知らねぇぜ」
+・・06/03 車両窃盗ブースティングのタブレットの所持（違法ではない）でももみと警察に公務員の自覚がないのかと叱られた。
+・・06/11 駐車場に停めていた複数台の自家用車を告知なくインパウンドした警察に腹を立て、警察車両を勝手に全修理にしていた。社員数名に罪を告白したが、会社の信用を揺るがす事案だったため、隠蔽された。
+・・06/21 /311で救急に通報できるシステムで緊急性のない通報を3回繰り返し、救急隊に迷惑をかけた。
+・・⇒ 06/24 禊として体験に降格、1日5回の善行を積むこととなった。
+・7月からLUNA Garegeで黒市民とのトラブルが続々と発生し、巻き込まれる。それに伴う警察と救急隊の対応に不信感が募るにつれ、自分が警察官になり、変えたいという気持ちが強くなる。
+・・意識不明の友人が病院から誘拐されたことを隠蔽されたり、警察に捜査協力したことを漏らされ、ギャングに詰められたりしている。ギャングに詰められた件は誰にも言っていないため、パンチャンを危険に晒した[[警察官>ブロッコリー　斎藤]]は何も知らない。
+//
+----
+***OMNローン（26/04/26 即日廃業）[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://youtu.be/hQsMKYB3K_E]]
+#region(開く)閉じる
+&blankimg(S2_OMNローン.jpg,x=351,y=198)
+・&bold(){[[BJローン]]や他に借りる当てがあるのにも関わらず、&ruby(おおごと){大事}にしたくない、物語を生まずに金を借りたい そんな”おもんない奴”にお金を貸す金融会社。}
+・・返済日は決まっていない。取り立てもない。返してくれればそれでいい。
+・BJローンさんに許可取りまでしていたが、債務者の[[高橋　滅論]]に”おもんない”と怒られ、借金をなくそうと”おもんない”勝負を仕掛けてきたため廃業。ただ友人に金を貸しているだけに戻る。
+#endregion
+//
+***ろすりせっと（26/05/23開業）
+#region(開く,open)閉じる
+&blankimg(S2_ろすりせっと.jpg,x=200,y=280)
+・&bold(){廃車買取サービス}
+・・事故車・故障車どんな車でも一律50万円で買取。
+・・車が手に入るがパンチャンの私財が減るだけの事業。
+・・メカニックであるパンチャンが修理より買い替えを促している実はヤバい事業。
+・・買い取った車両は[[LUNA Garage]]の社割で修理し、レース時に貸し出している。
+#endregion
+
+*日別エピソード
+#div(width=330px,bgcolor=#FFFF5E){&font(16px,b,#cccccc){&space()Season1}}
+#include(パン　チャン/日別エピソードS1)
+#div(width=330px,bgcolor=#FFFF5E){&font(16px,b,#cccccc){&space()Season2}}
+#region(2025)
+#endregion(2025)
+&u(){エピソード、切り抜き、クリップ募集中}
+*アーカイブ
+※2024/7/9~2024/10/9ダイジェストあり
+※2025/06/12〜Youtubeで配信
+#div(width=330px,bgcolor=#FFFF5E){&font(16px,b,#cccccc){&space()Season1}}
+#include(パン　チャン/アーカイブS1)
+[[編集>>パン　チャン/アーカイブS1]]
+//------------Season2------------Season2------------Season2------------Season2------------
+#div(width=330px,bgcolor=#FFFF5E){&font(16px,b,#cccccc){&space()Season2}}
+#region(2025年)2025年
+#region(12月)12月
+#table_style(head=center:#e6e6fa){配信日=right,day=right}
+|配信日|day|配信タイトル|h
+|12/19|1日目|[[ 1日目 みんなとおはよう！>>https://www.youtube.com/live/RuBk9o5iil8?si=X6ciuTfQR1-ddOh_]]|
+|12/24|2日目|[[ 多分みんなお金お金お金！！ってなってるのかな？2日目>>https://www.youtube.com/live/OHVNAxQ6RM4?si=TMp2M747Eo-uvYLg]]|
+|12/25|3日目|[[45分街に起きる！！！パンチャン>>https://www.youtube.com/live/eEArJgHIGCo?si=x9KeRGauFBbgxKg6]]|
+|~|3.5日目|[[アルバイトも交流もどちらも大事だね！>>https://www.youtube.com/live/V90kjSUmfBs?si=Tb4hS1o_OpRKoqlB]]|
+|12/26|4日目|[[リサセンずっとは出来ないんだ～～1時間経ちましたｗｗｗ4日目！>>https://www.youtube.com/live/9tSEn---EjA?si=iDLSABg_tMbSMOzc]]|
+|12/27|5日目|[[ 交流をしましょう！！！5日目？いや、6日目か？>>https://www.youtube.com/live/4eTohszggfs?si=JYAPaJe6KR6oM5vK]]|
+|12/28|6日目|[[ 確実に起きるのが遅くなる習慣から抜け出せ！！！>>https://www.youtube.com/live/aKajta5HYgQ?si=x81cNNaSugu1uFeL]]|
+|12/31|7日目|[[ この街で年越しをするらしいけど全然眠くなったら寝ます！>>https://www.youtube.com/live/KKtp6YgkaU8?si=fCCK14aB3rt8-vJs]]|
+|~|7日目-2|[[この街で年越しをするらしいけど全然眠くなったら寝ます！>>https://www.youtube.com/watch?v=sd2etsYoyi8]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#endregion(12月)
+#endregion(2025年)
+//-------------2026アーカイブ-------------2026アーカイブ-------------2026アーカイブ------------
+#region(2026年,open)2026年
+#region(1月)1月
+#table_style(head=center:#e6e6fa){配信日=right,day=right}
+|配信日|day|配信タイトル|h
+|01/01|8|[[もう何日目か分からない！>>https://www.youtube.com/watch?v=q5hI8OLFs0g]]|
+|01/03|9-1|[[オハヨウ1時間>>https://www.youtube.com/watch?v=9aULiWxk-Zg]]|
+|~|9-2|[[砂金でお金を稼ぐぞ～！>>https://www.youtube.com/watch?v=fqcmAINk73I]]|
+|01/04|10|[[市長とお話しする予定があるパンチャン（ない可能性大）>>https://www.youtube.com/watch?v=J2zdBk7-Ejo]]|
+|01/09|11|[[街は何か変わってるのかな？>>https://www.youtube.com/watch?v=fXffr9710bE]]|
+|01/10|12|[[街を楽しむ準備は出来た！>>https://www.youtube.com/watch?v=HbzS-c77zoU]]|
+|01/11|13|[[確定演出で1時間だけ起きるパンチャン何日目だい？>>https://www.youtube.com/watch?v=Ir0Ys6GHsN8]]|
+|01/14|14|[[レースが始まるらしいよ！ももみ先生大感謝祭！（全然関係ないです）>>https://www.youtube.com/watch?v=zB58rczyeGA]]|
+|01/15|15|[[レースはまだか！労働力消費チャンネル！>>https://www.youtube.com/watch?v=tFwDYeUouSI]]|
+|01/16|16|[[少しだけランク戦する！→砂金2時間くらいかかったマン...；；労働1000あまりで草>>https://www.youtube.com/watch?v=FzFXx2g-9Fw]]|
+|01/17|17-1|[[労働力消費チャンネル>>https://www.youtube.com/watch?v=aP4zEvwUlL8]]|
+|~|17-2|[[満腹TVパンチャン視点>>https://www.youtube.com/watch?v=LVMQI9lplYQ]]|
+|01/18|18|[[メカニック再建に向けて昨日の続きをするぞ！>>https://www.youtube.com/watch?v=E0iyx_4MHiM]]|
+|01/21|19|[[1時間半砂金のガンギマリくん>>https://www.youtube.com/watch?v=7iRFqitzw30]]|
+|01/22|20|[[初手人質>>https://www.youtube.com/watch?v=vGQRv0EydUI]]|
+|01/23|21|[[何かに一歩近づくぞ！！！>>https://www.youtube.com/watch?v=xT9KS_gZQTI]]|
+|01/24|22|[[リサセンやってから起きたらこの時間やねん！！！>>https://www.youtube.com/watch?v=NCE-cOLwweo]]|
+|01/25|23|[[色々やったりするからほぼ早番からやってみよう！>>https://www.youtube.com/watch?v=7apnYforipo]]|
+|01/28|24|[[鉱山2時間半終わりました！>>https://www.youtube.com/watch?v=WahQ56xXnQE]]|
+|01/29|25|[[貯めた素材を使っていく日だよ！労働力残高198です。>>https://www.youtube.com/watch?v=b_UmTd8-sIo]]|
+|01/30|26|[[寝過ぎちゃったので緩やかに遊びます！>>https://www.youtube.com/watch?v=G-QHpe5r5wE]]|
+|01/31|27|[[鉱山労働チャンネル＆コンペ参加！>>https://www.youtube.com/watch?v=Oe923C9Y4qQ]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#endregion(1月)
+//
+#region(2月)2月
+#table_style(head=center:#e6e6fa){配信日=right,day=right}
+|配信日|day|配信タイトル|h
+|02/01|28|[[カテジの家で寝たら体調不良になりました。>>https://www.youtube.com/watch?v=xRSKny7pmIM]]|
+|02/04|29|[[9035会議があるらしい！>>https://www.youtube.com/watch?v=pd38T7Wilv8]]|
+|02/05|30-1|[[リサセン行くだけ夜ランまでだよ。>>https://www.youtube.com/watch?v=DsLEuzwaGOo]]|
+| |30-2|[[労働全部使い切っちゃった！>>https://www.youtube.com/watch?v=vLaitQQCJfE]]|
+|02/06|31|[[今日は絶対に寝ないぞ！！！>>https://www.youtube.com/watch?v=nykUIqiWXIs]]|
+|02/07|32|[[のんびり白市民生活です！>>https://www.youtube.com/watch?v=OCDD5BpTB2c]]|
+|02/08|33|[[日曜日生活！>>https://www.youtube.com/watch?v=RlKQ6owOQkk]]|
+|02/11|34|[[街でのんびり暮らそうの回！>>https://www.youtube.com/watch?v=GsHWDfoXyl0]]|
+|02/12|35|[[不動産宣伝していくぞ！出勤！！！警察体験動画>>https://www.youtube.com/watch?v=A2atDjowAfE]]|
+|02/13|36|[[たすけて～～～～！！！>>https://www.youtube.com/watch?v=fjoCwDgWVM4]]|
+|02/14|37|[[不動産始動の日！>>https://www.youtube.com/watch?v=CdZ6vrX4Ies]]|
+|02/15|38|[[おはようございます！！>>https://www.youtube.com/watch?v=lMzxXg89oEs]]|
+|02/18|39|[[まちのはじまり！>>https://www.youtube.com/watch?v=tUYosmG7CuY]]|
+|02/19|40|[[キラーイン←ジム休みました！！！>>https://www.youtube.com/watch?v=GIQb6oNUrcI]]|
+|02/20|41|[[おはようおはよう！>>https://www.youtube.com/watch?v=SzfnOAnafUM]]|
+|02/21|42|[[だいぶ遅くなったけど起きましょう！>>https://www.youtube.com/watch?v=7qoCH8tDGMc]]|
+|02/22|43|[[不動産が思ったより厳しい！？警察撮影あり>>https://www.youtube.com/watch?v=B1SKLNetwFw]]|
+|02/25|44-1|[[ストグラ 高圧洗浄機 パンチャン>>https://www.youtube.com/watch?v=oMYd7kEDrH8]]|
+||44-2|[[めっちゃお腹すきました！>>https://www.youtube.com/live/6J_4xv-wPjw?si=CqG4zLUvVj72UKSp]]|
+|02/26|45|[[今日は高圧洗浄機やりたいね！>>https://www.youtube.com/watch?v=0OqJtpHLHWI]]|
+|02/27|46|[[売名してしまい申し訳ないですｗｗｗ>>https://www.youtube.com/watch?v=mR6cvHaehXA]]|
+|02/28|47|[[不動産もっと売りたい！！良き提案をしたい！>>https://www.youtube.com/watch?v=i_dopZs1txk]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#endregion(2月)
+//
+#region(3月)3月
+#table_style(head=center:#e6e6fa){配信日=right,day=right}
+|配信日|day|配信タイトル|h
+|03/01|48|[[何しても良いわけではない街です！>>https://www.youtube.com/watch?v=gTuS4WtGR-A]]|
+|03/05|49|[[生まれ変わったリサセンに会いに行く！>>https://www.youtube.com/watch?v=4odCcOWG8bY]]|
+|03/06|50|[[不動産も少し落ち着いてきた時期ですね。>>https://www.youtube.com/watch?v=h_GUwJ2vuxs]]|
+|03/07|51|[[めっちゃ寝てた仮眠長すぎマン！>>https://www.youtube.com/watch?v=O82nKqMeHLk]]|
+|03/08|52|[[なにかになる！！！>>https://www.youtube.com/live/AEBNSPbeXvA]]|
+|03/11|53|[[ほぼ新キャラぱんちゃん(黒こげ爆発PCマン！)>>https://www.youtube.com/watch?v=qUyN8M3zuFo]]|
+|03/12|54|[[PC大破マンの街中で生きていこうの回！>>https://www.youtube.com/watch?v=E2_FoH5sUMs]]|
+|03/13|55|[[PC大破DAY2 意外と忙しい街の日々！>>https://www.youtube.com/watch?v=wlSfPrmFuT0]]|
+|03/14|56|[[PC大破DAY3 mechanicオープン準備編！>>https://www.youtube.com/watch?v=cM_bu1-2Q6s]]|
+|03/15|57|[[PC大破DAY4 LUNAGarageオープンするよ！！>>https://www.youtube.com/watch?v=z9EIUTbxEzs]]|
+|03/18|58|[[新PCから配信中！LUNAGarageオープンだ！>>https://www.youtube.com/watch?v=gGeGA6O44mI]]|
+|03/19|59|[[謙虚に生きて感謝忘れず。Part1>>https://www.youtube.com/watch?v=R8sw0_xtLQk]],[[Part2>>https://www.youtube.com/watch?v=5BxYDPkO5cI]]|
+|03/20|60|[[ジムさぼり3日目>>https://www.youtube.com/watch?v=R8sw0_xtLQk]]|
+|03/21|61|[[街の時間が短く感じている！>>https://www.youtube.com/watch?v=C_paD1sTL-M]]|
+|03/22|62|[[不動産忙しい！体験募集中のみんメカ社長視点です？？？>>https://www.youtube.com/watch?v=P15d93drs2c]]|
+|03/25|63|[[まちの変化を楽しんでいくぞ～！>>https://www.youtube.com/watch?v=wHOB9gk0_2M]]|
+|03/26|64|[[今日の激熱バイトはなんだい？>>https://www.youtube.com/watch?v=EWz6rQuU_u4]]|
+|03/27|65|[[遅いけど街に入るし遅いだけってハナシ！？Part1>>https://www.youtube.com/watch?v=Ltkuk6NfRAU]],[[Part2>>https://www.youtube.com/watch?v=JNrLKSwcdq8]]|
+|03/28|66|[[街ってたのしいよな！Part1>>https://www.youtube.com/watch?v=4YUdolBVT10]],[[(Part2) re>>https://www.youtube.com/watch?v=P2AC1G1Ztbk]]|
+|03/29|67|[[まちでいきるってはなし>>https://www.youtube.com/watch?v=KUVqPytB4G0]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#endregion(3月)
+#region(4月)4月
+#table_style(head=center:#e6e6fa){配信日=right,day=right}
+|配信日|day|配信タイトル|h
+|04/01|68|[[寝坊したのでどうしよう！！！>>https://www.youtube.com/watch?v=HV6SiDHRTrE]]|
+|04/02|69|[[とりあえず不動産をがんばる！>>https://www.youtube.com/watch?v=b0DPqnm7JYY]]|
+|04/03|70|[[不動産ごり押し営業していきましょう！>>https://www.youtube.com/watch?v=3awIWvWZykA]]|
+|04/04|71|[[かなり寝すぎました！！！>>https://www.youtube.com/watch?v=kS8NAtUNWL0]]|
+|04/05|72|[[最初からこの時間に起きるつもりと思えばセーフ...？>>https://www.youtube.com/watch?v=msX9lIDjhM8]]|
+|04/08|73|[[ルナガレ会議があるらしい！街に何が追加されたのか！？>>https://www.youtube.com/live/9O4mQiIUXiY]]|
+|04/09|74|[[やりたいことが見つかりました！見つけています。>>https://www.youtube.com/watch?v=DDyh_1FW7ew]]|
+|04/10|75|[[喉がらがらマンのメカニック＆不動産！多分早寝マン。Part1>>https://www.youtube.com/watch?v=kLgf9FdpoSE]], [[Part2>>https://www.youtube.com/watch?v=RER-ALjGTwI]]|
+|04/11|76|[[ガチ激ロウチャンネルのパンチャン（風邪気味）ぱんくんは大丈夫です。別に風邪RPはしません。>>https://www.youtube.com/watch?v=CZlrbiiB3Kg]]|
+|04/12|77|[[街でもう少し色々していきたい気持ちがあります！>>https://www.youtube.com/watch?v=TOz24PbkEnU]]|
+|04/15|78|[[不動産を頑張ったりする日なのかもね！>>https://www.youtube.com/watch?v=yHp-xEzLuAU]]|
+|04/16|79|[[やることがだんだん決まってきたマン！>>https://www.youtube.com/watch?v=hP8EMyzPJvw]]|
+|04/17|80|[[おはよう！ガレージ難癖くん>>https://www.youtube.com/watch?v=G4eDH8zGm1M]]|
+|04/18|81|[[クソみたいな仕事>>https://www.youtube.com/watch?v=b9VDcfuhiEc]]|
+|04/19|82|[[re はよ編集せんと明日は外出予定があるのですよ！！！>>https://www.youtube.com/watch?v=EsCYpgInAPs]],[[part2>>https://www.youtube.com/watch?v=v9hr-6LuGqE]]|
+|04/22|83|[[不動産が大変ですがお医者さんごっこ始めます！>>https://www.youtube.com/watch?v=PK18LDL0UK0]]|
+|04/23|84|[[今日も街に起きました！>>https://www.youtube.com/watch?v=N4LVctBXYSs]],[[落ちました！>>https://www.youtube.com/watch?v=F0tdg-ZD1u0]],[[また！ 落ちました！今日も街に起きました！>>https://www.youtube.com/watch?v=XAkZdvQXiTU]]|
+|04/24|85|[[何も考えてないマンの1日（３０分限定配信）>>https://www.youtube.com/watch?v=bNCM7hvg5vo]],[[re>>https://www.youtube.com/watch?v=OCEHH0qw294]]|
+|04/25|86|[[Live行ってきたマンののんびり生活！>>https://www.youtube.com/watch?v=jegvUzAsH0Q]]|
+|04/26|87|[[宇宙人と働くらしいけど僕も人外だから同族だね！>>https://www.youtube.com/watch?v=wHH-qp_TIM8]]|
+|04/30|88|[[不動産会議があるらしいのでしっかり意見を出していくよ！>>https://www.youtube.com/watch?v=3w9WT7NJaeI]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#endregion(4月)
+//
+#region(5月)5月
+#table_style(head=center:#e6e6fa){配信日=right,day=right}
+|配信日|day|配信タイトル|h
+|05/01|89|[[なんかいろいろやりすぎてどれがどこまで進んだのかわからない>>https://www.youtube.com/watch?v=q0E-L1cg_OA]], [[re >>https://www.youtube.com/watch?v=jhoz6WGBWnw]]|
+|05/02|90|[[新曲ずっと聞いてるマンのパンチャン>>https://www.youtube.com/watch?v=VMZ7uertpdw]]|
+|05/03|91|[[街が平穏な時こそできること！？>>https://www.youtube.com/watch?v=R6J_Tb_gBHU]]|
+|05/06|92|[[ここにいよう>>https://www.youtube.com/watch?v=50fgg0uTykU]]|
+|05/07|93|[[ルナガレ破壊編！バイトで従業員を集めていくよ！>>https://www.youtube.com/watch?v=R6tRtaR1kVI]]|
+|05/08|94|[[とうとう来たなこの時が！>>https://www.youtube.com/watch?v=XALco3oVVwc]]|
+|05/09|95|[[レースコース作ってないです！不動産オリジナル最終受付まであとわずか！>>https://www.youtube.com/watch?v=NLG_ZIqkke4]]|
+|05/10|96|[[駐車場の件について全く許せないマン！>>https://www.youtube.com/watch?v=qDl5D1pWm9Q]]|
+|05/13|97|[[21時までに出来そうなことをするTV>>https://www.youtube.com/live/93U9FqAKAk0?si=tvBEXW9CrRYZgEON]]|
+|~|97-2|[[水曜日が楽しみってわけ！>>https://www.youtube.com/live/5a51IEEyE60?si=beaw0THWNHvOtQ7g]]|
+|05/14|98|[[バイト戦士でお金を稼がないといけない日！>>https://www.youtube.com/live/dtt6hB2LDyo?si=DNMzQi9KN5YuemmC]]|
+|05/15|99|[[楽しい街！ではあるが寝坊が増えてきた。ルナガレとバイトの日>>https://www.youtube.com/live/z7d9NMahcCU?si=OGE95zdVJx-gqsO7]]|
+|05/16|100|[[窓ふき超高額バイト化を実行する日！>>https://www.youtube.com/watch?v=0M72xiG2-60]]|
+|05/17|101|[[窓ふき高額バイトセカンドシーズン！残り3時間やる！>>https://www.youtube.com/watch?v=cAjA7pyBqDw]]|
+|05/20|102|[[お金稼ぎ以外のことがしたい気持ちもある！>>https://www.youtube.com/watch?v=zrZqnBUua1w]]|
+|05/21|103|[[何が出来るか考えよう！！！>>https://www.youtube.com/watch?v=4L89mRE3BTo]]|
+|05/22|104|[[本当に寝すぎたマン！>>https://www.youtube.com/watch?v=2f5OwuFhqf8]]|
+|05/23|105|[[短時間になる可能性もありけりのおきな>>https://www.youtube.com/watch?v=zxAZrZoALeM]]|
+|05/24|106|[[ルナガレージと不動産チャンネル！>>https://www.youtube.com/watch?v=yOAAn_JFWA0]]|
+|05/27|107|[[爆睡チャンネル！おはよう水曜日！>>https://www.youtube.com/watch?v=6WUcYf2vagQ]]|
+|05/28|108|[[釣りストファーロビン！>>https://www.youtube.com/watch?v=GvYBn-XN42c]]|
+|05/29|109|[[あ！不動産会議だったわ！今日こそ釣り！の予定だが体験くるかも！>>https://www.youtube.com/watch?v=ZzEEJiTjcK0]]|
+|05/30|110|[[メカニック対抗レース本番だ！みんなの雄姿を見届けよう！！！>>https://www.youtube.com/watch?v=fpwqkx-Yx-c]]|
+|05/31|111|[[メカニック超勧誘編！っと見せかけて何をしようか！>>https://www.youtube.com/watch?v=D9tmT5pcZcA]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#endregion(5月)
+//
+#region(6月)6月
+#table_style(head=center:#e6e6fa){配信日=right,day=right}
+|配信日|day|配信タイトル|h
+|06/03|112|[[6月タイムアタック開催の予感と共に何かしましょう！>>https://www.youtube.com/watch?v=h7SgbW6N8B4]]|
+|06/04|113|[[なんだかんだでやることある視点>>https://www.youtube.com/watch?v=VnpOaNG-v_Y]]|
+|06/05|114|[[今日は何が起きるんだろうな！>>https://www.youtube.com/watch?v=QD1vE8YPrqg]]|
+|06/06|115|[[もしかしたら社宅を考えるかもね！>>https://www.youtube.com/watch?v=UMuUwxbk1vM]]|
+|06/07|116|[[今日はのんびりバイトと何かしよう！>>https://www.youtube.com/watch?v=cbufyha3wN4]]|
+|06/10|117|[[軽トラ値上げしたらしい！車追加されたらしい！>>https://www.youtube.com/watch?v=_k2gcx3FppM]]|
+|06/11|118|[[めっちゃねむい！！！起きました！>>https://www.youtube.com/watch?v=2y87eSWjVQU]]|
+|06/12|119|[[隠蔽するしかない！本当に広めたくないマンの最終判断は如何に！？>>https://www.youtube.com/watch?v=oKCIocUyBKk]]|
+|06/13|120|[[今日は何を起こそうか！？>>https://www.youtube.com/watch?v=5zQFnuQt5gs]]|
+|06/14|121|[[不動産忘れてることないか！？>>https://www.youtube.com/watch?v=zYWqH7ku2Kw]]|
+|06/17|122|[[警察体験動画一旦完成マン起床しました！>>https://www.youtube.com/watch?v=NGwE2GNdP_s]]|
+|06/18|123|[[仮眠のつもりが...>>https://www.youtube.com/watch?v=_PvQBZA-8YY]]|
+|06/19|124|[[おはよう早番って何が出来るんだろうか！>>https://www.youtube.com/watch?v=9g99lCBFjZ4]]|
+|06/21|125|[[リサセンと釣りを終えたので起きます！>>https://www.youtube.com/watch?v=hS6mimHE8AA]]|
+|06/24|126|[[最悪すぎる起床>>https://www.youtube.com/watch?v=4lfACoe7xkQ]]|
+|06/25|127|[[釣り楽しすぎマン！>>https://www.youtube.com/watch?v=PSszIuk8uJI]]|
+|06/26|128|[[良い事１０個する日！昨日の分も合わせて！！！>>https://www.youtube.com/watch?v=wqnBxS0qDwY]]|
+|06/27|129|[[不動産お披露目ライブの日！と５個良い事する！>>https://www.youtube.com/watch?v=XF5MxG7lQco]]|
+|06/28|130|[[よくわかんないけど良い事５個する！>>https://www.youtube.com/watch?v=kRFfsANQDKo]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#endregion(6月)
+//
+#region(7月)7月
+#table_style(head=center:#e6e6fa){配信日=right,day=right}
+|配信日|day|配信タイトル|h
+|07/02|131|[[とりあえず変わった街を見よう！>>https://www.youtube.com/watch?v=KUirVUNdhY8]]|
+|07/03|132|[[今日もやっていくぞ！！！>>https://www.youtube.com/watch?v=0CutFpRAAUA]]|
+|07/04|133|[[絶妙に疲れていますが3時まで起きるだろう！>>https://www.youtube.com/watch?v=8yFiOR8L9xY]]|
+|07/05|134|[[この街の運命力に全てをかける。>>https://www.youtube.com/watch?v=zTJHrXf5yXc]]|
+|07/08|135|[[何があっても街は動き続けるらしい！>>https://www.youtube.com/watch?v=EtN4wBBfsNU]]|
+|07/09|136|[[お金を稼ぐこと以外頭にない。>>https://www.youtube.com/watch?v=R3KS4Vl13_0]]|
+|07/10|137|[[おそらくこのチャンネル最後の配信です！みんなありがとう！次はパンチャンネル作ったときに協力お願いしますｗｗｗ>>https://www.youtube.com/watch?v=mKZpnTHfrgU]]|
+|07/11|138|[[一旦こっちTV遅番ってことだろうな！>>https://www.youtube.com/watch?v=zVHUMNR8U9o]]|
+|07/12|139|[[有料配信が開始されました！>>https://www.youtube.com/watch?v=s-9LCk8eSHM]]|
+|07/15|140|[[公務員になりたい人が参考にするべきチャンネルです！>>https://www.youtube.com/watch?v=LPzbncUjJiA]]|
+|07/16|141|[[イベントをちゃんと考える！>>https://www.youtube.com/watch?v=9-14Ed4EkDI]]|
+|07/17|142|[[お金稼ぐのって大変だぁ～！>>https://www.youtube.com/watch?v=SZXYjF53FFI]]|
+|07/18|143|[[春夏秋冬ってわけ！の後に衛星外スクレのLiveみて風呂入って今！！！>>https://www.youtube.com/watch?v=-Izj2zNA7cM]]|
+|07/19|144|[[途中でご飯を買いに行くかもしれないパンチャン>>https://www.youtube.com/watch?v=F7Yt5cxE5UA]]|
+|07/22|145|[[ガソスタオークションがあるらしいけども！>>https://www.youtube.com/watch?v=LE3eOdArht8]]|
+|07/23|146|[[全く後悔してません。>>https://www.youtube.com/watch?v=1fgCyVec5Vc]]|
+|07/24|147|[[個人面談を始めます！>>https://www.youtube.com/watch?v=h7wL1abh5HY]]|
+|07/25|148|[[マジでおはよう！>>https://www.youtube.com/watch?v=qpu9OdhsyPI]]|
+|07/26|149|[[初めてではないけどしっかりイベントする日！>>https://www.youtube.com/watch?v=otygOg43z08]]|
+|07/29|150|[[本日は何が入ったのだろうか！？>>https://www.youtube.com/watch?v=ZNYitaqeXxo]]|
+|07/30|151|[[音漏れだけでも満足！？なわけない！！！！11月当選たのまい！！！>>https://www.youtube.com/watch?v=kOSs9UvDtLM]]|
+|07/31|152|[[早番するぞ！！！あいつを探す！>>https://www.youtube.com/watch?v=xFJ0tSvq1VA]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#endregion(7月)
+//
+#region(8月)8月
+#table_style(head=center:#e6e6fa){配信日=right,day=right}
+|配信日|day|配信タイトル|h
+|08/01|153|[[ちょっと釣りをしたい気持ちはあるよね！>>https://www.youtube.com/watch?v=z64RFO09Rg0]]|
+|08/02|154|[[店番しながらサムネ作成編！お腹すいたら枠変え！>>https://www.youtube.com/watch?v=085rQssOTMo]]/[[普通に楽しいこの街！>>https://www.youtube.com/watch?v=4r7x_p_Jo6A]]|
+|08/05|155|[[いつかこの素材が爆発する！！！>>https://www.youtube.com/watch?v=LRpYHJ-Iz38]]|
+|08/06|156|[[少なくなったら足すだけメカニック！>>https://www.youtube.com/watch?v=Br9AfhuJAZ4]]|
+|08/07|157|[[I 罠 BE ALRIGHT>>https://www.youtube.com/watch?v=FatUtsWcXK8]]|
+|08/08|158|[[探知機を使って真面目に釣りをする！>>https://www.youtube.com/watch?v=CDop5FrZyS0]]|
+|08/09|159|[[おはよう！元気です！>>https://www.youtube.com/watch?v=YbIJGr6GztM]]|
+|08/12|160|[[バタバタ生きるぞ！>>https://www.youtube.com/watch?v=ADssVEHsnZE]]|
+|08/13|161|[[闇落ちが増えてきたルナガレ>>https://www.youtube.com/watch?v=ogDkuh_MVGs]]|
+|08/16|162|[[ちょっとぶりだけど街で緩く生きる！>>https://www.youtube.com/watch?v=xhNt5QsIa2U]]|
+|08/19|163|[[ルナガレージを最強のメカニックにする長い旅！>>https://www.youtube.com/watch?v=jToTX5zN5Yk]]|
+|08/20|164|[[ギャングだけが僕を弾いてると思うのかい？>>https://www.youtube.com/watch?v=DeL_b18xLtA]]|
+|08/21|165|[[ピトフーーーーーイに全賭け！！！>>https://www.youtube.com/watch?v=GnOUEgXM7OM]]|
+|08/22|166|[[聖地巡礼らしいわず！>>https://www.youtube.com/watch?v=Zzt8raA1-ao]]|
+|08/23|167|[[生きてる！！！体験の時の運用を考えるよう！>>https://www.youtube.com/watch?v=v3ANjZ1CoYo]]|
+|08/26|168|[[AIを使って作ったポスターも愛を注ぎ込んだ飲食物も住民たちは街を盛り上げるために日々、愛を育んでいるのであろう。>>https://www.youtube.com/watch?v=NctlZeSwrf8]]|
+|08/27|169|[[ヘラクレスの厳選をするパンチャン。>>https://www.youtube.com/watch?v=I1JPp2ozUaU]]|
+|08/28|170|[[サーモン19%カニ20％全売却DAY。>>https://www.youtube.com/watch?v=gxAhA_ZAJ8Y]]|
+|08/29|171|[[2時間釣りしてました。余裕がないとせわしなく生きてしまう。>>https://www.youtube.com/watch?v=gFGfXs7PhlA]]|
+|08/30|172|[[めっちゃねむーーーー！>>https://www.youtube.com/watch?v=aPa4ThZ9aWg]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#endregion(8月)
+#areaedit()
+//↑部分編集起点は次の月へ移動させる
+#region(9月,open)9月
+#table_style(head=center:#e6e6fa){配信日=right,day=right}
+|配信日|day|配信タイトル|h
+|09/02|173|[[okita!!!>>https://www.youtube.com/watch?v=9f6sIKOyDeQ]]|
+|09/04|174|[[なんだかんだ何かがありそうな感じはするんだよね！>>https://www.youtube.com/watch?v=XiV61GYN2ig]]|
+|09/05|175|[[とりあえずレースイベントを成功させたい！>>https://www.youtube.com/watch?v=o1auSZfIIK0]]|
+|09/06|176|&font(8pt){[[サムネとタイトルにしなければ疑われない世界で完全犯罪を試みたいけどそんなことやってる暇がないくらいイベントに追われています！種育てます種育てます（嘘です）>>https://www.youtube.com/watch?v=eAB10CkAPjk]]}|
+|09/09|177|[[高圧洗浄機にアプデ入って草 >>https://www.youtube.com/watch?v=GAdaFsGhT20]]|
+|09/10|178|[[イベントを確定して宣伝しながら破壊する！>>https://www.youtube.com/watch?v=00ORSfJ8cd4]]|
+|09/11|179|[[究極チケット販売業者宣伝部と見せかけて釣り復帰！>>https://www.youtube.com/watch?v=qDQgn_b-3B4]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#endregion(月)
+#endregion(2026年)
+#areaedit(end)
+//
+#Co{
+#areaedit()
+//↑部分編集起点は次の月へ移動させる
+#region(月,open)月
+#table_style(head=center:#e6e6fa){配信日=right,day=right}
+|配信日|day|配信タイトル|h
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#endregion(月)
+}
+
+*動画
+#div(width=330px,bgcolor=#FFFF5E){&font(16px,b,#cccccc){&space()Season1}}
+#region(2023)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|2023/09/10|[[新人警官”成瀬カニ”（nqrse さん）の運転テクニックがどう考えても初心者じゃない件ｗｗｗｗｗｗｗｗ>>https://youtu.be/JiuWU0UGsA0?si=8DjwOUDheLTUIAQP]]|
+|09/15|[[治療費2億円を返済するために闇金ナシジマくん（叶くん）にお金を借りることになってしまった。>>https://youtu.be/XnxS5JTJrZg?si=D8nI3s4Hg6Yij4SS]]|
+|09/24|[[ミステリオンクイズ(ズズさん)３問正解したら100万円貰えるクイズに参加した結果ｗｗｗｗｗｗｗｗ >>https://youtu.be/0a4DmX_JfRQ?si=OPEFIIjjsI72MRV9]]|
+|10/01|[[餡ブレラの海賊"わきをさん”をひき〇してしまい海に連れて行かれることになったクソガキRP>>https://youtu.be/3nEZUkmo_n4?si=6JdS13kxmivO--DO]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=1}
+#endregion(2023に対応)
+//
+#region(2024)
+#region(1月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|2024/01/26|[[レダーヨ―ジロー（らっだぁ）の高額ホットドックに大興奮な13歳が可愛すぎるｗｗｗ>>https://youtu.be/fxu8vOw0c5g?si=CnCDquEBptdUE5xm]]|
+|01/29|[[天然新人レーサーに怒りのストグラ救急隊とバイクを盗まれたパンチャン>>https://youtu.be/MbcOP-WUG6E?si=sQorBs_lBIori1KT]]|
+|01/30|[[くまのふでこ大激怒！プリンセスグーで海上レストランの使えない社員をクビにするｗｗｗ>>https://youtu.be/wt9C-cKStHA?si=jTGK3_d2BQ0d8DIm]]|
+|01/31|[[ストメンタルを赤ちゃんキャップ”ましゃかり”視点で見て泣いてしまった話>>https://youtu.be/1RZSWmll0r8?si=o7mk0sDRvW7P0vQL]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=5}
+#endregion(1月)
+#region(2月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|02/01|[[PY閉店セレモニー”さとう”のスペシャルライブ！閉演後に伝えられた別れの言葉とは...！？>>https://youtu.be/I_dOmEXfwRk?si=N_oMruIblEcri4DA]]|
+|02/02|[[マクドナルド率いるギャング”GBC”のマネージャーからお誘いの連絡が来た！>>https://youtu.be/5f0zLBBIKFU?si=CcbEnNSPVFbbllRw]]|
+|02/03|[[グッバイサーカス満場一致の不採用の瞬間が面白すぎたｗｗｗ                   >>https://youtu.be/5kPcT8-1ERs?si=-J0gxbe94egB4QIp]]|
+|02/04|[[プスカ大佐から購入した車をトイストーリーカスタムにしたらBMCの”赤ちゃんキャップ”大興奮のコスプレ大会！>>https://youtu.be/ec1UmXAvDUs?si=FdEKudvP9mv7CNOZ]]|
+|02/05|[[ギャング不採用後、自棄になり半グレ”ちのまるこ”を怒らせてしまうパンチャン>>https://youtu.be/tcMN4o2-fpE?si=9BJqHJeu7beBMtu8]]|
+|02/06|[[初心者レース大会中にホワイトギャング”星野サラ”に騙されて車椅子を取り付けられ煽られるパンチャンｗｗｗ>>https://youtu.be/YNUk_SNiyu0?si=I-RuG9KJBVHVwOes]]|
+|02/07|[[騒ぐだけの警察”伊藤ぺいん”と人質に頭を抱える半グレが面白すぎた         >>https://youtu.be/_TIDyr0f7r8?si=pfs4RPpc59S4Yz05]]|
+|02/08|[[ALL IN構成員”エスターク”天草蒼"大激怒の衛星テロ罪で強制的に謎のバギーを買わされるｗｗｗ>>https://youtu.be/WEvibnelX6k?si=230KF1jL3DuXlqEw]]|
+|02/09|[[くまのふでこから海上レストランを辞めたことを知らされて困惑するパンチャン>>https://youtu.be/GrOjWX4e2Q4?si=CDsQul_KHSy2LjAK]]|
+|02/10|[[グッバイサーカスがお客様としてきたのでお気持ち請求を聞いてみた結果ｗｗｗ>>https://youtu.be/I8PnCB2Kv2Q?si=J4pp2Jl0x_6f4Ktb]]|
+|02/11|[[初めてのカニメイト！新人”アヤスラム”の教育をする成瀬カニが面白すぎたｗｗｗ>>https://youtu.be/oFDpeGmggfg?si=YwvoGdrtYOwDEnlf]]|
+|02/12|[[ちのまるこが一つのギャング”ノーリミット”にこだわる理由を聞いてみた！　　　　　>>https://youtu.be/g-2JrIdoNuM?si=VCXtB5E2uT3oJRyl]]|
+|02/13|[[チンピラまることいきなり始まるパンチャンコスプレ大会に気まずい空気が流れるｗｗｗ　　　　　>>https://youtu.be/UsijkcMGuWA?si=u0jgYx66mb7hPkUvl]]|
+|02/14|[[ロスサントスで僕が好きな住民”丘猫まる”LV1.チンピラ"とお話をする！　　　　　>>https://youtu.be/2UGql0H1SCQ?si=kepbB_rLm8gkoW0Fl]]|
+|02/15|[[NOLIMIT”ノーリミット”の裏事情が面白すぎるｗｗｗ       　　　　　>>https://youtu.be/iNbkoP6gYwE?si=OWaZmlQiW2l06CLQll]]|
+|02/16|[[カレー屋店長”牧田ここな”の優しさに泣かされそうになるｗｗｗ　　　　　>>https://youtu.be/sw9MVfrXX34?si=pS7aw2Auf4W5PCZll]]|
+|02/17|[[初めてのギャング”MOZU”との武器取引に値上げ交渉を試みるパンチャン　　　　　>>https://youtu.be/x02Pqfb6Fx8?si=mRkHFbRlM-qvQb12ll]]|
+|02/18|[[焦村家アルバイト即採用！のはずか過去の過ちが浮き彫りなり大ピンチｗｗｗ　　　　　>>https://youtu.be/qVAhmjW9TI4?si=u-1-pssWfTqdEKG1ll]]|
+|02/19|[[角刈りイベントで”ヴァンダーマー”にニトロで突っ込んでしまうｗｗｗ　　　>>https://youtu.be/z1eYjUVSpB0?si=ifwTkqCyjhjZcZAill]]|
+|02/20|[[バレンタインデーに”丘猫まる”に狂わされる”牧田ここな”とパンチャンｗｗｗ　　　>>https://youtu.be/F_KNRcgoB4M?si=bDTr4GtdyUTcphmfll]]|
+|02/21|[[海上レストランのバイトを卒業しました>>https://youtu.be/7e-D527We5c?si=gevGTAUh6QJKn0Xq]]|
+|02/22|[[10億円のカジノの車を手に入れて街から去りたくなってしまうｗｗｗｗ　　　>>https://youtu.be/BZA7eLddEAg?si=qVfEgNMu4I5aqQMI]]|
+|02/23|[[カジノの景品”ヴァーチャー”を乗り回す元難波芽久未が破天荒すぎたｗｗｗ　　　>>https://youtu.be/xq4cFWhEA94?si=1cIQpJfc3Dr_kYDs]]|
+|02/24|[[見たことないアイテムを手に入れて興奮するチンピラ＆パンチャン　　　>>https://youtu.be/vR4ug40Smsw?si=dfkf_jSeaTwXD1Zz]]|
+|02/25|[[カジノで手に入れた車の所有者が"ヴァンダーマ―”と"無馬かな”だと聞き乗りづらくなるｗｗｗ>>https://youtu.be/x0TIjYrGMbQ?si=S9eQYlwEXrnk3htr]]|
+|02/26|[[トラブル続出！？焦村家自販機専属契約のバイトまとめ   >>https://youtu.be/2fk5jbMOZ3I?si=LxJmgdDyp4KxZfDy]]|
+|02/27|[[真面目に働く衛生外ろぜ柳ぴん子と詐欺のお話をするｗｗｗ   >>https://youtu.be/aFqtRd8CLvk?si=BWjcm3Nt3IP5PhqV]]|
+|02/28|[[全く会話が続かず気まずい空気がずっと流れるラーメン屋ｗｗｗ　　　   >>https://youtu.be/njAcxC3GW6Y?si=3XbpWlsSUN2HlcCs]]|
+|02/29|[[元難波さん！あなたに夢中になっていたらダウンしました！　　　   >>https://youtu.be/DN-v-uuq1I0?si=32lLh1WlieD62u1Y]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=9}
+#endregion(2月)
+#region(3月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|03/01|[[海上レストランの従業員にとんでもないことを言う伊豆院登　　　   >>https://youtu.be/NXg_eC3HrHM?si=FlZceBg6uUWHjNoa]]|
+|03/02|[[ここな店長が一時帰国することを伝えられるパンチャン   >>https://youtu.be/kG9nSpBekgc?si=ndlrrGM3xBk5kEyc]]|
+|03/03|[[方向音痴すぎる葉風邪さんが面白すぎたｗｗｗ   >>https://youtu.be/ma7pPTRBErc?si=_34rEOpQRO856c64]]|
+|03/04|[[半グレフレンズに目標やお仕事のお話を聞いてもらうパンチャン   >>https://youtu.be/NSKbVx-_88s?si=rftjDh9Qatr0M41E]]|
+|03/05|[[店番をしている”さとうちゃん”を驚かせてみたｗｗｗ   >>https://youtu.be/7jz-7zrq_sQ?si=HiyAEzxAOU78gvD5]]|
+|03/06|[[丘猫まるがペールノエルを卒業するので特別な商品3点セットを注文してみた！ >>https://youtu.be/X1J1jmMywZo?si=2YqUDQYPhjJ1pnpg]]|
+|03/07|[[誕生日プレゼントに難解なトリックを仕掛けてしまいその日を終えてしまうパンチャwww >>https://youtu.be/Ao--wRqvWhE?si=lj0DX34b7jZmvEgf]]|
+|03/08|[[天才画家”レインボージャンピン”さんの調子がおかしいｗ >>https://youtu.be/DAzwjdHQAEI?si=5ktza2dnHOatQKEe]]|
+|03/09|[[とんでもない発言をするくまのふでこに爆笑する”伊藤ぺいん”と”パンチャン” >>https://youtu.be/gGeMe8sZHiA?si=jMEei3I_q4qoBQej]]|
+|03/10|[[警察志望の”葵井優”に命を預ける二人！ >>https://youtu.be/ZB0Id4xPSh4?si=QqmwgOLv8myepEQS]]|
+|03/11|[[餡ブレラのミッション準備中に車を突撃させ一生後悔し続けるパンチャン >>https://youtu.be/rCw4rGODFUQ?si=SiPFUKPIENId8D39]]|
+|03/12|[[餡ブレラボス”ウェスカー”含む大勢の構成員に囲まれている中で強制瞑想で消えてしてしまうパンチャン >>https://youtu.be/FIVNfPH5sUI?si=NMjTRaO4pf_YThb4]]|
+|03/13|[[餡ブレラボス”アルフォートウェスカー”直々にギャングへの勧誘をされるパンチャン >>https://youtu.be/fPFH8MD7Ob0?si=KsG084AQL_jqolEe]]|
+|03/14|[[闇落ちしたケインオーと素材の取り引きをするも気づいたら片想いが加速してしまうパンチャン >>https://youtu.be/ZfM5E8topak?si=7yPhG9RnmvkJAKwG]]|
+|03/15|[[868組”レダーヨ―ジロー”による圧迫面接に震えるパンチャン >>https://youtu.be/z4dRdQ7ve-s?si=K52swUYXVCuvW-oJ]]|
+|03/16|[[NL”ノーリミット”体験中のちのまるこに素材をお願いされてとある理由で断ってしまうパンチャン >>https://youtu.be/vo12gCeLeoU?si=UGwqr-wdzg3aNY3K]]|
+|03/17|[[ウェスカーさんと話し合い餡ブレラトンネル突撃問題に終止符を打つパンチャン >>https://youtu.be/sKAABCD3jgM?si=yJ3O29luYohMWyUK]]|
+|03/18|[[大好きなケインくんからの依頼でとんでもない数のサプレッサーを用意するパンチャン >>https://youtu.be/FzJ-3voU30E?si=QX4-KhmqfrnINTCZ]]|
+|03/19|[[ラーメン屋退職後ツルギ店長に対する思いを打ち明けるパンチャン >>https://youtu.be/qr-qRw3COnU?si=PJubU42IEtGBKySb]]|
+|03/20|[[餡ブレラ問題をレダーヨ―ジローに報告すると同時にウェスカーさんの依頼を受けるパンチャン >>https://youtu.be/ozE0WMcg51o?si=W42eL7Oz5NMOsSHV]]|
+|03/21|[[ALLIN"天草蒼”と裏の取り引き中の言動が終わりすぎて観測者に怒られるパンチャン >>https://youtu.be/IpUZxhJukmE?si=HhR1Bcc-VxrBJ_Nz]]|
+|03/22|[[素材の取り引きを激安価格で販売をしようとしてケインオーに怒られるパンチャンｗｗｗ >>https://youtu.be/zl9Sm4gQpbQ?si=8RGo6aflGTGMu2qY]]|
+|03/23|[[”オールイン”や”ノーリミット”を知らない事をチンピラに偉いと言われて困惑するパンチャンｗｗｗ >>https://youtu.be/XeOX-VsKbOg?si=BeaPUdZPZbjCSDfj]]|
+|03/24|[[シリアスな空気が不慣れな”鳥野ぎん”が集まった救急隊は終わりですｗｗｗ >>https://youtu.be/Cqx5DFY7YVc?si=6uTleNmjsggRMAkJ]]|
+|03/25|[[新組織？遂に完成した”チーム友達”のコスチュームを見せて大興奮する二人ｗｗｗ>>https://youtu.be/-SBm-oWwZx0?si=KP1SLSweI4DgONlN]]|
+|03/26|[[人間関係で悩む友達の相談中にデートに誘って誤解されまくるパンチャンｗｗｗ >>https://youtu.be/2tycXUmAai4?si=YUF6gObK27O4kNFP]]|
+|03/27|[[ロスサントス恋愛物語の相談を受けて頭を抱えるパンチャン >>https://youtu.be/TGp_9z157ds?si=loKlNuYKqWv7ZJl9]]|
+|03/28|[[葉風邪ナイさんに提出したパンチャンの酷すぎる企画書を公開しますｗｗｗ >>https://youtu.be/UwRiG5bvKok?si=YtRVi8w7GCTYeC_l]]|
+|03/29|[[ケインオーに濁されていた”わくわくする物”の正体が明らかになり興奮するパンチャン >>https://youtu.be/hP3G4IvOFHw?si=LFNjm8_LRBVJvuf4]]|
+|03/30|[[白市民を巻き込む新薬を868組の”レダーヨ―ジロー”と”ケインオー”にすぐに報告を入れるパンチャン！>>https://youtu.be/-00H5pAfG_c?si=KuOz7WzDm6xjmAvX]]|
+|03/31|[[新薬の出所を突き止め”レダーヨ―ジロー”や”ケインオー”に共有し褒められるパンチャン>>https://youtu.be/lHtbthR3FDM?si=Tm0eIgZOVpVFwdbr]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=38}
+#endregion(3月)
+#region(4月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|04/01|[[レダーさんからの連絡に出れずとんでもない行動に出るパンチャンｗｗｗ>>https://youtu.be/nssHN-YKWcA?si=PzuRJO0emsiFdCJr]]|
+|04/02|[[オールイン構成員”エスターク”と闇取引中に魂が貫通しすぎる話をしてしまうパンチャン>>https://youtu.be/mQfMZ4PX02w?si=KgKyR9mN-B-QtonU]]|
+|04/03|[[恋愛占いの全てをケインくんに当てはめるパンチャンの結末が壮絶すぎたｗｗｗ>>https://youtu.be/Zngy_korurQ?si=_w6zn5eba0pUnsmK]]|
+|04/04|[[街で噂されている工場の存在とパンチャンが知るギャング数を聞いてあざ笑うちのまるこｗｗｗ>>https://youtu.be/ddoz8eYDlBM?si=6Dp2UNaclhNW4O5b]]|
+|04/05|[[警察とBMCで働く”赤ちゃんキャップ”の内部事情を大暴露！魂大貫通トークが酷すぎるｗｗｗ>>https://youtu.be/DlKHaq_agbg?si=i7fjvLan2klp0dYl]]|
+|04/06|[[2キャラ目警察をすることについて思うコト”こども警察”として出勤する妄想をしてたら盛り上がり過ぎたｗｗｗ>>https://youtu.be/ymPk-BtySiY?si=gIagE6vvptq_EHvb]]|
+|04/07|[[1週間ぶりのケインくんへの報告会で何故か緊張してしまうパンチャンｗｗｗ>>https://youtu.be/44Qc3sM4tis?si=owU6-BHiynFeCj1i]]|
+|04/08|[[7.5億の限定車を購入したくまのふでこに背中を押され空き家を全て買い占めるパンチャンに驚愕のももみｗｗｗ>>https://youtu.be/zeNChB4LJFs?si=5ixC_NT6qIJAluPv]]|
+|04/09|[[海上レストランでゴーカート”マリオカート”の練習をしていたらちのまること変な空気になってしまうｗｗｗ>>https://youtu.be/pseJ8o_Dljo?si=9PMRC-Yspc-4xjXm]]|
+|04/10|[[ケインオーと結婚する未来を想像させられるとんでもない勘違い恋愛相談が面白すぎたｗｗｗ>>https://youtu.be/VJ7k_w8X784?si=ztd4msif5Z4xw8is]]|
+|04/11|[[アシッドを求めるギャングを追い払う魔法の技”10ランポチャレンジ”で乗り切るパンチャン>>https://youtu.be/Cv0a8Jt4b34?si=I1Hpwf1wXKc54FZ1]]|
+|04/12|[[遂にロケランの製作所をケインオーに教えてもらい大興奮のパンチャン！！>>https://youtu.be/AT1tzZwllJc?si=sYa-IKA6-bbeYXD9]]|
+|04/13|[[完璧すぎる軍服変装で空母に向かいロケラン制作を成功させるパンチャン！>>https://youtu.be/g8tGy9fYLXw?si=9JdGU2AdVOuOA1Dz]]|
+|04/14|[[ケインオーに868組の”音鳴ミックス”を紹介されアシッドの取り引きとは思えない金額を貰ってうきうきパンチャン>>https://youtu.be/9POKDb3VyRU?si=q5w8CQ71UNQXOvwd]]|
+|04/15|[[ALLIN専属個人医”トナカイ”との取り引きで闇営業を行い後悔に苛まれるパンチャンｗｗｗ>>https://youtu.be/5tGKfsu0IKU?si=KCWoc6bTikDxCL33]]|
+|04/16|[[くまのふでこからサプライズプレゼントに喜ぶパンチャンと幸せを伝染させたい想い>>https://www.youtube.com/watch?v=P10abgwR9yk]]|
+|04/17|[[ケインオーの起床ポストだけで大喜びのパンチャンｗｗｗ>>https://www.youtube.com/watch?v=qXaiiwyoiko]]|
+|04/18|[[緊急事態だ！パンチャンのファーム力が低下してしまうチルタイムを経験してしまう...>>https://www.youtube.com/watch?v=St0lmD4-L6o&t=3s]]|
+|04/19|[[チーム友達の拠点探し中に寝落ちしてしまうチンピラｗｗｗ>>https://www.youtube.com/watch?v=qMVduaKashU]]|
+|04/20|[[ロスサントスで一軍女子と男子って誰だ？>>https://youtu.be/Lo9YYrp202o?si=6WpK3dUm4SVUfiUF]]|
+|04/21|[[ホットドック協会の新人”トピオ”と5万円高すぎ問題で口論になりケインオーに伝わってしまう>>https://youtu.be/Qx21fegbSPE?si=cDHoswi4fRHQNVMS]]|
+|04/22|[[新興ギャング”868組”との繋がりを麻薬カルテル組織に示唆されるパンチャン>>https://youtu.be/PV6-WnzFVTs?si=u03grt08rUWHzYwH]]|
+|04/23|[[ホットドック協会の在り方について説明するパンチャンと反撃を企むパキちに情が熱すぎるトウユンの会話が面白すぎたｗｗｗ>>https://youtu.be/NYA14SpK4JE?si=Bgx9IJ9QoOlDy9hs]]|
+|04/24|[[新しい麻薬クラフトにいち早く気づきケインオーに報告を入れ独自で調査を図るパンチャン！>>https://youtu.be/a5eauQH4d4I?si=H9qY3l2ZqcOcw7yu]]|
+|04/25|[[闇メカ調査中のキャップに罵詈雑言を浴びせられるパンチャンと優しいストグラ救急隊>>https://youtu.be/o17vPrU_-I4?si=EPFm9g8zhqgC47Ib]]|
+|04/26|[[ナミビア視聴中に革命的なサプライズを思い付くPYC職員とパンチャン>>https://youtu.be/1zbQV6ff23M?si=An0JSshH2DGqnzJz]]|
+|04/27|[[らびすぴ運動会よりも観客席に居るレダーケインが気になりすぎるパンチャン >>https://youtu.be/UckgFy-vxpM?si=la6pTa7RBKzBm4qo]]|
+|04/28|[[仕事を辞めたエスタークに労いの言葉を伝えるパンチャンと最低な赤ちゃんキャップｗｗｗ >>https://youtu.be/uVbA4f7aOkw?si=yB2q3ux371AijlK5]]|
+|04/29|[[ロシアの傭兵”タマーチ”と意外な共通点で盛り上がるパンチャンｗｗｗ >>https://youtu.be/UHnOQ88KKog?si=pyJLYJECVrMgV8-S ]]|
+|04/30|[[街での鳥野ぎんのイメージを報告＆離島から帰ってきたズズに切り抜きを見て涙したことを話すパンチャン >>https://youtu.be/1TssUqkE3hA?si=5cY5krRMVuT3Y-8R ]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=69}
+#endregion(4月)
+#region(5月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|05/01|[[川下りをする868と遭遇してストグラの運命力を感じながら己を見つめるパンチャンとアーマー数でケインくんを驚かせる！ >>https://youtu.be/Vp9jhM5XLWs?si=P1EmRMp3WEdmqGRT ]]|
+|05/02|[[さとうが来たーーー！ギャングやメカニックの未来について雑談！ >>https://youtu.be/VqWMJLwnt9g?si=fk2t4ayreSxHqlGU ]]| 
+|05/03|[[布を1枚10万円で買い取る麻林ラルと観測者にありがとうを伝える葉風邪ナイ！ >>https://youtu.be/ySmSWzO5Kc4?si=4p2jvbXY3ggwO6pI ]]|
+|05/04|[[新しく半グレとして生きる犬億ロックにギャング加入のアドバイスをするパンチャン >>https://youtu.be/hYfpa0lsPwA?si=-rkm-B-_qZTzlddaI ]]|
+|05/05|[[高額で取引されるアシッドに怪しい匂いを嗅ぎつけ調査（売るだけ）するわくわくパンチャン >>https://youtu.be/uxX-G7Wh8QE?si=2REE7FksM4pPn_kU ]]|
+|05/06|[[閉店後に爆速で店内に訪れるイナイロハが破天荒すぎたｗｗｗ >>https://youtu.be/hYfpa0lsPwA?si=-rkm-B-_qZTzlddaI ]]|
+|05/07|[[レギオンに現れたサイコパス”あ ああ”に頭を斧でかち割られ病院送りにされてしまうパンチャン >>https://youtu.be/LCM4Ru4uRlY?si=GYo36tiLhv7X_MWi ]]|
+|05/08|[[レダーさんからプリズン送迎の依頼で目が覚めてウキウキのパンチャン >>https://youtu.be/buW1bx5p8io?si=ALLeBUqurP3YiKLn ]]|
+|05/09|[[新薬組織のファーム素材を一人で賄ってるつもりのパンチャン >>https://youtu.be/3LL1PetQmCQ?si=iuOvl9GHt6AOQSh1]]|
+|05/10|[[レダーさんに黒でやりたいことをやんわり伝えるも白市民限定クラフトの話が舞い込んできて食い気味にツッコむパンチャン >>https://youtu.be/R-a_Jo5lPyw?si=8DyLZs8_SgnsJ1pr]]|
+|05/11|[[白か黒の岐路に立たされた紫水コウの相談に乗るちょっとうざい黄色の奴（パンチャン） >>https://youtu.be/dvJkdeTy18E?si=7tpyY9YlsXg0MJaC ]]|
+|05/12|[[ケインオーのロケラン熟練度を聞き何故か申し訳ない気持ちになってしまうパンチャンｗｗｗ >>https://www.youtube.com/watch?v=vRHEW52Q_Y8 ]]|
+|05/13|[[素材屋営業トーク中に”新薬”の効能らしきものを小耳に挟むパンチャン >>https://www.youtube.com/watch?v=3t3Bjqd0bT8 ]]|
+|05/14|[[半年間半グレをしていたちのまるこがついに卒業したと電話で聞かされるパンチャン >>https://youtu.be/L2cTEk5lP50?si=zRs0TGguQrfbN5AW ]]|
+|05/15|[[紫水コウの黒落ちの覚悟を聞き半グレ記念のプレゼントを渡すパンチャン >>https://youtu.be/Z1PqWL5Ytkg?si=_HFpQNRoQTNUdJS6]]|
+|05/16|[[868組の客船を応援するパンチャンと観測者としてレダーケインに楽しかったですを伝えるｗｗｗ>>https://youtu.be/Lyte_M5zfU8?si=0aFRjTdJW17GBUus]]|
+|05/17|[[半グレの人生相談を聞くも行動力が凄すぎて驚くパンチャン >>https://youtu.be/b4UwUNjLAqI?si=Zl_Gm3En9KmRgBvT]]|
+|05/18|[[車両協会解体でPYCに重たい空気が流れるが特に何も考えてないパンチャン！普通車売り上げ13億のパキちさんｗｗ >>https://youtu.be/Y1GrV94zWAI?si=FRV5SP6xw5LSEHoc]]|
+|05/19|[[花摘みをする半グレを騙すギャングに不信感を抱くタマーチくんの相談に乗るパンチャン >>https://youtu.be/JF27C7ub53k?si=sBrfIGERxUHZkC3j]]|
+|05/20|[[専属個人医が解体になりギャングor個人医に悩むトラ雄と話すパンチャン>>https://youtu.be/Ew48WIB-zWs?si=64xH4VP-rs4ftVv5]]|
+|05/21|[[2人の半グレからお悩み相談を受け互いの繋がりを確信するパンチャンｗｗｗ >>https://youtu.be/MwMHyShZJ24?si=qmQHd5U5guLy9ETa]]|
+|05/22|[[半グレの相談に乗るうえで誤った道に進ませないために半グレ大先輩である”ちのまるこ”に相談するパンチャン！>>https://youtu.be/JJOl9z6zi2w?si=mqLt_TCbk2nKKUG_]]|
+|05/23|[[麻薬カルテルから暇電がかかってくる仲になってしまったパンチャンｗｗｗ >>https://youtu.be/RRaL_VB9kQk?si=GjyDH6lwEL_xrZz7]]|
+|05/24|[[この街のほぼ全てを知っている新規住民”JDさん”の相手が不安すぎるパンチャンｗｗｗ>>https://youtu.be/MVfdq58YhM4?si=1Wwts9D7mLpXwtUq]]|
+|05/25|[[生き急ぎ過ぎていた過去と街に起きる続ける事でイメージを変えていくパンチャン>>https://youtu.be/qVdEHJ1rtdE?si=6_M-8UFnnTZIBiy5]]|
+|05/26|[[警察（ばばあ）からの唐突な質問で口を滑らしてしまうパンチャン>>https://www.youtube.com/watch?v=Yfv7N8cCzCw&t=415s]]|
+|05/27|[[めちゃくちゃな難癖を付けてくる常連客は今日も推しパフェを注文するらしい！>>https://www.youtube.com/watch?v=ff5FZ_B2JKc]]|
+|05/28|[[1か月間寝ていた半グレが起床したことに驚くパンチャンと最近の半グレ事情を共有！>>https://www.youtube.com/watch?v=RbT-ddfLyTk&t=555s]]|
+|05/29|[[ケインくんのお友達”刃弐ランド”と”牢王蓮”との素材の取引を経て成長していくパンチャン>>https://www.youtube.com/watch?v=Uhedzu_dKrg]]|
+|05/30|[[チンピラのとんでもない発言に激怒するパンチャンと説教を始める犬億ロックｗｗｗ>>https://www.youtube.com/watch?v=-FUR3QzfuvQ&t=19s]]|
+|05/31|[[衛星外で刃弐ランドとサルファーの取り引きをするも不憫なことが起きすぎるパンチャンｗｗｗ>>https://www.youtube.com/watch?v=paAI5IvSlCQ&t=312s]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=99}
+#endregion(5月)
+#region(6月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|06/01|[[半グレの相談に乗る紫水コウを見て自分の立場を考え悩むパンチャン>>https://www.youtube.com/watch?v=ILfE6A3KK8c&t=1150s]]|
+|06/02|[[ケインくんにヒントを貰い新しく出来た素材”クリスタル”の謎を探しに北に行くパンチャンｗｗｗ>>https://youtu.be/TpdCAcSiJxw?si=u2NcN9HZd4e7hA5k]]|
+|06/03|[[カジノを退職した上田さんに天才的な案でメカニックとカジノディーラーを継続を試みる！>>https://youtu.be/xLL-VIwZcXk?si=-CpVrHTOzKZce9N9]]|
+|06/04|[[半グレから舐められてしまう白市民のパンチャンｗｗｗ>>https://youtu.be/t0FDz4cC9kI?si=jdbNcTvwOCpBDSZl]]|
+|06/05|[[刃弐ランドさんに素材の質問をされあり得ないファーム方法を提案するパンチャン>>https://youtu.be/yqp5iVCLhOI?si=FY7kfTYHE-RoD-2h]]|
+|06/06|[[ようやくできた推しパフェを手にした雷堂ましろの涙の理由とは!?>>https://youtu.be/8t1P3MsD6m4?si=NOR5U4WjRB0wJvo6]]|
+|06/07|[[モーテル貸し出し事業でトラブル発生？もう一人の大家が現れ3人に詰められるパンチャンｗｗｗ>>https://youtu.be/Dk0SK00Rasw?si=dZ4Gppqs1H0c8Pyg]]|
+|06/08|[[地域貢券の価値を知りジョーカーや小峯さんに相談をするパンチャン！>>https://youtu.be/eiuyF-SbNRY?si=gQUCXLHL7-9ZAJ5T]]|
+|06/09|[[麻薬カルテルより”やろや”という組織の存在を知らされて困惑するパンチャン>>https://youtu.be/VsAjlQbqiuY?si=_7LbXFH_F171y4jW]]|
+|06/10|[[レダーさんから正式にギャング"やろや”の協力者である事を伝えられるパンチャン>>https://youtu.be/Sm_nqRtZCU8?si=UJusEXICnpy0-S7b]]|
+|06/11|[[麻薬カルテルが女性と暇電をしているらしいので詰めるパンチャン>>https://youtu.be/W8IznXpK77U?si=AXl661EFiVe9MP5K]]|
+|06/12|[[紫水コウがギャングであると告白！やろやの協力者について探り合いをするパンチャン！>>https://youtu.be/sN31ndstEAU?si=fibpkXjBnFfyC3G9]]|
+|06/13|[[瞑想前には存在しなかったカルテル4を最速で見つけてしまい困惑するパンチャンと交通安全課雷堂ましろ！>>https://youtu.be/YvZjra5MpeU?si=NDneWvsCw4dbzWiP]]|
+|06/14|[[メアリーがギャングを辞めて半グレになったことを伝えられるパンチャン>>https://youtu.be/boamp58Ovws?si=u1rUfRWdGgmpE9sn]]|
+|06/15|[[同僚が知らぬ間に闇落ちしてた件について衛星外で知らされるパンチャンｗｗｗ>>https://youtu.be/EAuGjzVO3O0?si=aLB45bar1mff7tUK]]|
+|06/16|[[私半グレ辞めるわ...犬億ロックの突然の告白に困惑するパンチャン...>>https://youtu.be/R4D6V3U2GIk?si=l31_DoaYhEYHKwrb]]|
+|06/17|[[白市民として生きていくロックちゃんに自分なりのアドバイスをするパンチャン>>https://youtu.be/EW7C2O1ULZs?si=8nWLguAXqz6EaqW4]]|
+|06/18|[[呼び鈴問題を問いただされ口プで勝訴するパンチャンと功績を称える雷堂ましろｗｗｗ>>https://youtu.be/kBuc1bjgkw8?si=GJQGvA80UMyeUa-9]]|
+|06/19|[[舐めたギャング構成員を詰めるパンチャンｗｗｗ>>https://youtu.be/hkqRiJedmfw?si=uw5_b8IFr8EIZZaP]]|
+|06/20|[[白市民として生きる犬億ロックの1日目の想いを聞くパンチャン>>https://youtu.be/eXIHnxvc3hs?si=cqxCg_R7O_RRcU9c]]|
+|06/21|[[ノーリミット？の新ボス”LV99 チンピラ"に溶鉱炉の入り口で詰められるパンチャンｗｗｗ>>https://youtu.be/L2ymAkmG4iE?si=VL1FRe-1k6ym-LUz]]|
+|06/22|[[身に覚えのない商談を持ち掛けてくるパキちに困惑するパンチャンｗｗｗ>>https://youtu.be/v6vB8b8c-AA?si=Q6EesUYmgmcWzDBP]]|
+|06/23|[[あなたと喋っていると頭がおかしくなる！>>https://youtu.be/VeID-fa3ShM?si=ryyriv6DgGKXdDzp]]|
+|06/24|[[圧倒的コミュニケーション能力で場をかき乱していくツルギ店長に関心が止まらないパンチャンｗｗｗ>>https://youtu.be/oJ1JbZGXv4U?si=16cqFeH5m2gu35xL]]|
+|06/25|[[ストグラカップル”えんるう”の行く末を追い続けるパンチャン>>https://youtu.be/1-0DpDtMyYM?si=bDeeJZ9_M8Tynwna]]|
+|06/26|[[エスタークのストグラジオを見てパンチャンの魂が感じたこと！>>https://youtu.be/R5tmDP1dkpQ?si=n4M6Q36cT8C49xX1]]|
+|06/27|[[博物館計画のために羽山ペティを招待したら何故か何でもできる天才だと感じてしまうパンチャン>>https://youtu.be/HtZ0ipaBauk?si=g-NwS20phZbhsVlF]]|
+|06/28|[[クリスタルの依頼で驚きを見せるレダーとこの一瞬のために働くパンチャンｗｗｗ>>https://youtu.be/62hka6uEyGA?si=1wudQT-I6SJ52iaX]]|
+|06/29|[[ロスランドに相応しいイカれたアーティストを紹介させていただきます！>>https://youtu.be/JHHRMOLJeYo?si=cPnmnG_Rj9LA7aYW]]|
+|06/30|[[親戚の姿で接近してくるケインオー？にいじめられるパンチャンｗｗｗ>>https://youtu.be/P_4TDyaAgiM?si=3sIUAvejhW2HnPTd]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=130}
+#endregion(6月)
+#region(7月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|07/01|[[観測者からの伝書鳩に苦しめられる配信者の風刺画をハウジングで表現するパンチャン！>>https://youtu.be/sI7tcleJ4Js?si=BIcMiefSAtOmjkVg]]|
+|07/02|[[コスプレ姿で葉風邪とぴん子に出会い気まずいクリスタル集めが面白すぎたｗｗｗ>>https://youtu.be/9u954BNxTMI?si=WqGHiTwKANmlZn6U]]|
+|07/03|[[タンクローリーにアシッドを詰めるイカれたファーマー現る！>>https://youtu.be/v7TBbohUbRU?si=f2f6gDLPBnRTkgqv]]|
+|07/04|[[高橋さんから得た今後のクリスタルの情報をレダーさんに共有するパンチャン>>https://youtu.be/TVHEp_Y55Uc?si=BEi7QVLLWPlRIfIM]]|
+|07/05|[[炭鉱で遭難したのでギャルに助けてもらう魂ボロボロのパンチャン>>https://youtu.be/7qbCvcCxyZE?si=2YqiF5FYcVyaMHDv]]|
+|07/06|[[いきなり芸術家として活動することを猫ノ宮ひなにお願いするパンチャン>>https://youtu.be/wn44zme4bbA?si=VkPZ7qq-3d3JCbc1]]|
+|07/07|[[警察志望の犬億ロックのアドバイスを聞き自分もなれると錯覚するパンチャン>>https://youtu.be/WxTjLpnP_YM?si=ldkwiOQrVIU6R2rU]]|
+|07/08|[[菖光亭×YURINANコラボに行ったらストグラ公式アカウントにRPされて”なのだ”を拡散されてしまうパンチャンｗｗｗ>>https://youtu.be/4oKTBnSz9iI?si=vEP11DDlB7m6dgh6]]|
+|07/09|[[ロスサントスを批判して危うい空気が流れるパンチャンｗｗｗ>>https://youtu.be/YZsnsIsw-8A?si=_kXL1vpxRnEu_b8A]]|
+|07/10|[[経済補佐の市長に向けた発言が酷すぎて爆笑してしまうニャンコスキーとパンチャンｗｗｗ>>https://youtu.be/7BJCNOCBYC4?si=oq6JzhfuBWZWSWAn]]|
+|07/11|[[四五六確さんから住民サポート事業を称えられ報酬を頂くパンチャン/博物館をまるに伝える！>>https://youtu.be/KTVbMETrrGQ?si=amWLJBMQSvVhaGy-]]|
+|07/12|[[大量の物件を買い詳しくなりすぎたパンチャンｗｗｗ>>https://youtu.be/4cZf_1AQbfw?si=eAtlh1IdGudgQAYi]]|
+|07/13|[[余計なお世話で街の住民をサポートするパンチャンｗｗｗ>>https://youtu.be/QI9q_QLzE3U?si=FZVNXPnYbQsX2eUt]]|
+|07/14|[[パキち占いを受けてすぐにメカニック体験を始めるパンチャン>>https://youtu.be/852ML09LyTY?si=rN4Ere8ON5OXAujp]]|
+|07/15|[[ロスサントスで遂にビルの購入を果たすパンチャン>>https://youtu.be/ZYpp0P4RUjU?si=WcvBtryzNDf3anv8]]|
+|07/16|[[PYC体験に対する想いをルウさんとパキちさんから聞くパンチャン（NG出されてます）>>https://youtu.be/eIltH8jB3t4?si=x2CwuynIF19x9qRJ]]|
+|07/17|[[市長室を盗聴する高橋滅論が普通に終わってる件についてｗｗｗ>>https://youtu.be/mxOw842_v1Q?si=kZoXshk5uQnyqsRr]]|
+|07/18|[[素材屋とメタスクの現状！バーバリアン田中に言葉で刺されるパンチャンｗｗｗ>>https://youtu.be/D-g7dk6Y3dw?si=OQn51NSlB_rF-j6v]]|
+|07/19|[[白市民が稼ぎ過ぎる問題に対してパンチャンが思うコト！>>https://youtu.be/rQRsqoKmcAw?si=j119ljtWbBdjCFjQ]]|
+|07/20|[[車のカスタムを完成させたら何故か殺されてしまうパンチャン>>https://youtu.be/aKSAjGHQieo?si=A-ZJF3c-fVnKRSqV]]|
+|07/21|[[警察同士の抗争開始直後に赤ちゃんキャップを轢いてしまうパンチャン>>https://youtu.be/B-lg8Ij4PYw?si=VLL_rJWgnMFFZdDI]]|
+|07/22|[[白市民に武器のクラフトをさせてる容疑でちのまるこに詰められるパンチャンｗｗｗ>>https://youtu.be/vKa6ciEA1Uc?si=DZqYe0yoGQ3gYsNV]]|
+|07/23|[[住宅を買いすぎて購入制限を出さなきゃいけないと注意をされるパンチャンｗｗｗ>>https://youtu.be/v1W2vT11oRU?si=g-71G6NGbAkLG8Lr]]|
+|07/24|[[高橋滅論の驚愕の収入を聞いて驚くパンチャンｗｗｗ>>https://youtu.be/elrhWb3D-uE?si=RxLLX1EJdFe9qUkr]]|
+|07/25|[[バーバリアン田中に共同経営の素材屋の案を持ち掛けられるパンチャンと都合が良すぎる採用条件ｗｗｗ>>https://youtu.be/4WBCe58UEg0?si=sonwPlP6l8vEFuJZ]]|
+|07/26|[[おはようツイートに犬を載せているので説教したら暴走し始めた葉風邪ナイｗｗｗ>>https://youtu.be/7TYMOXHedXY?si=9mJLbEZSTg8Mvib5]]|
+|07/27|[[リサセンで殴られるも街の住民で自分を殴られる人が多すぎて特定が難しいパンチャンｗｗｗ>>https://youtu.be/pcae3Obqasc?si=P2d4yTBwMhcd4ELa]]|
+|07/28|[[この街に風邪薬が出来たと聞いて診断と院内処方を受けるパンチャン！>>https://youtu.be/DEk--LchHBc?si=Ds6G3HoZBgndFxeW]]|
+|07/29|[[麻薬カルテルがtwixで犯罪者を招集？心無きのフリをして潜入捜査をしてみた！>>https://youtu.be/NGyWZXuiKfs?si=xQAN1w-99hAqHa9j]]|
+|07/30|[[ギャングを轢いても詰めるのが無駄と言われ一緒に遊ぶことで解決してもらうパンチャンｗｗｗ>>https://youtu.be/SfdlqeL5x5Q?si=A_DHAdlFI4AF5jvY]]|
+|07/31|[[黒の道へより深く進むために海上レストランを辞める決断をするけんつの話を聞く>>https://youtu.be/duzKo6TpnKo?si=XoFysAp3HK8Yd7FA]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=160}
+#endregion(7月)
+#region(8月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|08/01|[[個人医とタッグを組んで北の島取りに参加するパンチャンｗｗｗ>>https://youtu.be/uOfCx-lxKAQ?si=tfzVTctT3I0ADKV3]]|
+|08/02|[[押収対象が増えたので高橋滅論から提案を受けるが胡散臭すぎて取り引きを遅らせるパンチャン>>https://youtu.be/64b6cfCtWcY?si=liQTqRXTKWrXuBKw]]|
+|08/03|[[警察の在り方に対して不満が爆発してしまうパンチャンと落ち着かせる羽山ペティｗｗｗ>>https://youtu.be/W5GvhoCov3c?si=339FaOFCKHSqN-Df]]|
+|08/04|[[久しぶりにケインくんと取り引きでわくわくするパンチャン>>https://youtu.be/dOmGamTZdgU?si=w2QsMDy_fO2Vg6-R]]|
+|08/05|[[ファーマーコミュニティを作りたい元ギャングからお誘いを受けるパンチャン>>https://youtu.be/8PltQA2YxFg?si=Sg5FAdWZdY0vUgOz]]|
+|08/06|[[チンピラとロックの恋の板挟みにあうパンチャン/アッシーくん>>https://youtu.be/HC5Q4FLNL78?si=L-nnRycXKi9Rg2RA]]|
+|08/07|[[どらイオリが博物館の作品にとんでもない名前を付けたのでロスランドに即採用するパンチャンｗｗｗ>>https://youtu.be/qHFSnhEbJJU?si=AApb9L326YaK5VIh]]|
+|08/08|[[街の経済が大きく変わる”税金制度”の導入を聞き絶望する住民達>>https://youtu.be/AEmeBC-PALs?si=tn2NdNBAKPRu-sn1]]|
+|08/09|[[パンチャンが思うこの街で一番良い男は誰なのか？>>https://youtu.be/0jTIYuLd5xY?si=2qiiscjCNuHyYyYs]]|
+|08/10|[[たくさんお世話になったここてんが帰ってきたぞ～！>>https://youtu.be/myjRFq4hGgI?si=oUdivxhurm58e3Yo]]|
+|08/11|[[警察が嫌いな理由を語るパンチャン/白市民交流とは何か>>https://youtu.be/8zMCYoUcI1M?si=N--6AsYwRA5KJ0_7]]|
+|08/12|[[普通車を買うだけで怪しい高橋滅論が面白すぎるｗｗｗ>>https://youtu.be/p7AZU9fuuwM?si=9QYplDvBsWGKrpMQ]]|
+|08/13|[[第二回島取りメカニックでウェスカーさんに2連続で轢かれてしまう>>https://youtu.be/dWcN0PHqQts?si=oXt-Hev5gm_GmlZK]]|
+|08/14|[[帰国を匂わせる友達にかける言葉が見当たらないパンチャン...>>https://youtu.be/I5l0rD1UvUQ?si=vhyuMO34R9YBkdqx]]|
+|08/15|[[建物に税金がかかる！？とんでもない金額を毎月支払わないといけなくなりそうなパンチャンｗｗｗ>>https://youtu.be/rly4VPzgE5k?si=pVyPVeLzimAdbhki]]|
+|08/16|[[銅鑼イオリが連れてきた友達はやっぱりサイコパスだった！>>https://youtu.be/2GHdlNA3wJI?si=GwWc3BEgrDOgcHoX]]|
+|08/17|[[葛城さんがメカニックを退職し涙を流す社員と困惑するパンチャン>>https://youtu.be/uSFUFmIbiF0?si=h8mjX-xoxnuomNxq]]|
+|08/18|[[急に始まる9055の面談で正式採用されかけるパンチャン！>>https://youtu.be/k8i88SXT-Hg?si=TfEif6ylvZYbuqld]]|
+|08/19|[[社内恋愛が原因でお互いに退職する葛城かける問題を聞くパンチャン/黒歴史な北支店>>https://youtu.be/x2Y3IaGpJ4s?si=lap3kF2yo5fW1FtH]]|
+|08/20|[[ロスランドを開業するために市長に相談に行くパンチャン>>https://youtu.be/9Vcd-oFlTe0?si=M2Qm4pLtALfUQWCv]]|
+|08/21|[[9055の恋愛問題が起きてしまったきっかけを辿り職場を変えさせようと計画するパンチャン>>https://youtu.be/mNQgSdBwSLc?si=HawSTXzrTnpZvTg6]]|
+|08/22|[[9055遂に退職者が出てしまうが様子がおかしいｗｗｗ>>https://youtu.be/XIRRWrXqji8?si=f7lJZ7StYswj7hTL]]|
+|08/23|[[伊達咲政宗の恋に魂を出してアドバイスするハクナツメが面白すぎたｗｗｗ>>https://youtu.be/V4nk1YksviA?si=Y3ElAYdNLeVaTLmQ]]|
+|08/24|[[伝書鳩作品を見て即答で今日されましたと答えるあげころｗｗｗ/白市民で出来るクラフトをカンストするパンチャン>>https://youtu.be/0z1h_FP2Gkw?si=qgu9mkl-3-IvBMKB]]|
+|08/25|[[868に入りたいと思う気持ちを半グレだったちのまるこを想い浮かべながら語るパンチャン>>https://youtu.be/f73nUbeuIvQ?si=XJTlah77tZHK0BUm]]|
+|08/26|[[雷堂ましろから不在着信が40件来て震えるパンチャン/虹色ランポを透明（インパウンド）される>>https://youtu.be/TsLlhhzGFRA?si=hllDMWlvzDzC_LP8]]|
+|08/27|[[若者のコンテンツについていけない雷堂ましろを躍らせたいパンチャン>>https://youtu.be/7FLX2vw1Z6U?si=UYooHIBA8JG-w44d]]|
+|08/28|[[ロスランド本店が出来た（6割）ので商品開発のお願いをするパンチャン>>https://youtu.be/jmWxlqbBBt8?si=ev8f2140dVCZhpOf]]|
+|08/29|[[30億の借金を抱えた同僚を地面師詐欺の協力者に任命するパンチャン>>https://youtu.be/ywnhRe9GO5k?si=b_JQWjXOJ6DeK3Af]]|
+|08/30|[[雷堂ましろ3D化決定（嘘です）/レンタル彼氏より誘拐する方がいい街の罰金>>https://youtu.be/8fZVOfiNjhk?si=7w_pPGrYZ3mXZr2H]]|
+|08/31|[[9055から雇用形態変更のお知らせが来たけど圧倒的に業務内容が多いパンチャン>>https://youtu.be/7C6YOCqqt1Q?si=quDWt9xp1mU6-4j5]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=191}
+#endregion(8月)
+#region(9月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|09/01|[[新規住民に飲食開業サポートを行うが早くも問題点が浮かび上がるパンチャン！>>https://youtu.be/UQFaj_M-E1c?si=8pYefFrnnQo_S4au]]|
+|09/02|[[開業支援の質問をするつもりがおっちゃんの天才的な発想に大絶賛のパンチャンｗｗｗ>>https://youtu.be/YfpS8pqS8FE?si=ytkBiCK8Tail2Om-]]|
+|09/03|[[上田さんの親切な六法連絡をネタバレ罪で問い詰め9055を巻き込み事件にするパンチャン>>https://youtu.be/b6qYAdFd5so?si=IhWzf345szL-39wn]]|
+|09/04|[[犬億ロックの採用に関してとある理由で問題になっているらしい！>>https://youtu.be/I7Y2yjSAH4c?si=PRVZMll1ID6h1VeJ]]|
+|09/05|[[葛城さんに呼び出され犬億ロックの採用の合否について話し合うパンチャン>>https://youtu.be/20x9S6msQuY?si=IRlYLbPauyh8RCiM]]|
+|09/06|[[突然パキちから”私辞めるからPYCで働いていいよ”と言われ困惑するパンチャン>>https://youtu.be/orAPyYFmxo0?si=_-NETVNH4kYn1e_M]]|
+|09/07|[[救急隊の日常を白市民視点でお送りいたします。>>https://youtu.be/cfsOPW_tXt8?si=adZrYF1WuYb9VZpz]]|
+|09/08|[[白市民でも出来る犯罪”9055ヘイスト”を考えたので社員に共有するパンチャン>>https://youtu.be/kBIwAidmC5k?si=TdDxzV9-gJO-E3kT]]|
+|09/09|[[羽山ペティに新事業を伝え商品開発の依頼をするパンチャン！>>https://youtu.be/xsOLMeE9SaI?si=yOuXX5WgYyj2S3yT]]|
+|09/10|[[パンチャンの同期調べたら丘猫まるだったｗｗｗ>>https://youtu.be/1MhPufNxiFE?si=J3LoF93XjLl4VIsA]]|
+|09/11|[[救急隊落ちたルウ社長をとんでもない方法で慰めるノンデリパンチャンｗｗｗ>>https://youtu.be/Aor7dbhRXWw?si=qFD_uOc1wOflmRR_]]|
+|09/12|[[9055に不採用を言い渡された犬億ロックの話を聞くパンチャン>>https://youtu.be/5ZW_Ghys4II?si=Lb11RXGJrLyi0QiP]]|
+|09/13|[[レダーヨ―ジローから街を去ることを告げられるパンチャン>>https://youtu.be/Z5kc1kE9tzI?si=Dtksd5vjM-qCxwaY]]|
+|09/14|[[パンチャンが働けて犬億ロックが落ちた事に納得がいかない月乃えるなｗｗｗ>>https://youtu.be/iQML5S4Y-ME?si=7AVcZ1WLQkf_tWN9]]|
+|09/15|[[犬億ロックにロスランドの商品開発をお願いするつもりがアホみたいな話が飛び出てくるｗｗｗ※少し魂貫通あり>>https://youtu.be/Rbdpjd762V8?si=FJJqDjQ1oGi4qDmu]]|
+|09/16|[[うどん屋を開店したい新規住民の開業支援をしたいパンチャン>>https://youtu.be/xNZNTPPRa68?si=VgCG4JKXUtUE3Pfy]]|
+|09/17|[[趣味で始めた不動産仲介サポートでお金を稼いでしまうパンチャンｗｗｗ>>https://youtu.be/RwCT523LmQ0?si=8KnvdbXOwmNz-GR0]]|
+|09/18|[[葛城さんが再びデートに誘った事について怒り狂うえるなが面白すぎたｗｗｗ>>https://youtu.be/esP57AqTME0?si=1j0XKMUXddEew2B9]]|
+|09/19|[[無免許でメカニックをやっていたのであげころを騙して取得するパンチャン>>https://youtu.be/wBMxcLldseQ?si=mTb886aNVPDB70Wg]]|
+|09/20|[[バーバリアン田中のとんでもない発言が面白すぎたｗｗｗ>>https://youtu.be/SeZpsBQSKPg?si=rayhQAKpQG0g26bH]]|
+|09/21|[[メカニックでバイトリーダーとして働く警察官に職業内容を聞いてみた！>>https://youtu.be/7IBRT4OsKNk?si=w5u79iOWi0453a4n]]|
+|09/22|[[ロスサントスにおける生き急ぎ問題の影響で新規住民がレース免許取得不可になってしまう事態に...>>https://youtu.be/AY41XyjrIQs?si=TCVqFjQo1P-wTTyV]]|
+|09/23|[[街に来て1週間の住民が行うイベント告知が凄すぎて驚く9055一同ｗｗｗ>>https://youtu.be/12EwdMD9q90?si=52e0bNRNuR2tMZKh]]|
+|09/24|[[警察になりたい気持ちをちのまるこに打ち明けるが鋭利な刃が飛んでくるパンチャン>>https://youtu.be/7XdDxhNQvtw?si=X7YgWWfd8ClqI_kH]]|
+|09/25|[[商品開発会議で何故かずるいと文句を言い始める取引先のペティさん>>https://youtu.be/ex7etyEiOlg?si=KpZ2ULzy5JaV6pYP]]|
+|09/26|[[3度目の警察体験を悩む葵井くんに後押しする理由とは...>>https://youtu.be/Mwcngj-ZOjs?si=sQoSTdlfu1jW3c3m]]|
+|09/27|[[虹色の横断幕を付けたロスランドが一瞬で住民にバレてしまうｗｗｗ>>https://youtu.be/bpXIgWJuXsk?si=SPywVNtmS5vwcFmy]]|
+|09/28|[[リサセン友達が考えたサブスクにまんまと加入させられてしまうパンチャンｗｗｗ>>https://youtu.be/yrOfY4L6co8?si=t19s3IUT20FBsDmY]]|
+|09/29|[[何故かSKEメカニック会議に参加して意見を出すパンチャン>>https://youtu.be/t8IvZD3iHjg?si=3O56wpWT4JzpA9PH]]|
+|09/30|[[天才料理人羽山ペティが作り上げた電球ソーダに大興奮なパンチャン！>>https://youtu.be/2Vhy94to5As?si=vC_d4slr8deeGtnj]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=222}
+#endregion(9月)
+#region(10月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|10/01|[[9055メカニックに営業停止の可能性が出てきてしまう...>>https://youtu.be/kJYLdkP_eN0?si=LHD8rQxaOZM_jkWLj]]|
+|10/02|[[A2メカニックと問題を起こした高橋滅論の尻拭いをするちゃんももの相談会>>https://youtu.be/1IAUGGBNlwU?si=gm_JlqFnHBbCtmDfj]]|
+|10/03|[[初心者のフリをしてクレープ屋で稼ごうとするぷぅちゃんを取り締まるパンチャン>>https://youtu.be/aQF_76WH8ZI?si=DaoAiulpEwG5c-rL]]|
+|10/04|[[犬億ロックにしか頼めない商品をお願いしたら"言うことない完璧100点"な商品が送られてきて大興奮なパンチャン>>https://youtu.be/iPFZJAKuulg?si=WdPjo2mKJIj8LErW]]|
+|10/05|[[海上レストランを辞めた事を迷惑客である雷堂ましろに伝えるパンチャン>>https://youtu.be/_mZFxVdwSg8?si=pHH9MREorbH4UmpG]]|
+|10/06|[[税金に関して市長に怒られるパンチャン/新しいクラフトを目指してごうさんと市長室へ!>>https://www.youtube.com/watch?v=QpAzs8r1p3Q&t=1s]]|
+|10/07|[[新しいお店”ロスランド”と事業についてここな店長に話すパンチャン>>https://youtu.be/U0LcyLb1QLM?si=iPSIWJURqQbGx0ve]]|
+|10/08|[[魚参屋さんの人生相談に乗るも問題発言連発のヘラヘラ症候群である事が判明してしまうパンチャン>>https://youtu.be/5cE8PJ7Gx5A?si=Qjdt354A-vlF5d2R]]|
+|10/09|[[何故かアヌギフさんに公務員を目指さないか聞かれるパンチャン>>https://youtu.be/vacDJNetU4g?si=v1owpbZHilScFzvo]]|
+|10/10|[[ケインくんに警察を目指すことを伝えるパンチャン>>https://youtu.be/u3oG135Q9Bw?si=6xopoXWlRwsX8wx1]]|
+|10/11|[[現役サブジョブ警察官よすみのかどさんに観察者羽山ペティを添えて話をするパンチャン>>https://youtu.be/lxNJ-3u0hS4?si=6F9uvjfiTr5wVcNx]]|
+|10/12|[[ハロウィンに向けてかぼちゃのケースの依頼をえだまめもんにする！>>https://youtu.be/trC70ZTq8rg?si=SztyUOvNmXG5S9Xz]]|
+|10/13|[[破天荒な銅鑼イオリの出張修理にツッコミ続けるパンチャン>>https://youtu.be/tNHmn347420?si=7zdPXFU5qETiA9wn]]|
+|10/14|[[街に長くいる救急隊の人にクラフトで欲しいものを調査する！>>https://youtu.be/3FIwDPU8w2E?si=r0y9l7DvAn2vxeIk]]|
+|10/15|[[疑念を払うために救急隊をロスランドに招待するパンチャン>>https://youtu.be/0y_KG3apdgw?si=KC941FdFY6Y_WDUi]]|
+|10/16|[[新しく出来たスタジオカテジの呪いでメモが消失するパンチャンと髪の毛以外の全てを失うぴん子>>https://youtu.be/aICFwIcFlBY?si=SfwXtRRXy3xkLEw-]]|
+|10/17|[[チンピラが帰ってきた後に電話をかけた相手がパンチャンである事にブチギレる犬億ロックｗｗｗ>>https://youtu.be/0VIhsc-ywV4?si=Sk5yJwn9AU6f6T68]]|
+|10/18|[[ホットドックが5万円だったのは一番美味しいからだよ！/組織とは美しい出会い方がしたい！>>https://youtu.be/nL-m7dlDmPA?si=RqKrh55C00W8SU_r]]|
+|10/19|[[メカニック体験を巡って新たな問題が浮上していた事を知るパンチャン>>https://youtu.be/syV_MeNtcxI?si=0kUqI8z8jdP-itlP]]|
+|10/20|[[ちゃんももからギャング設立の報告を受けるパンチャン>>https://youtu.be/Ya6c-W_WdsY?si=Og5AmV9_3Rd9iQ2V]]|
+|10/21|[[人間という生き物に疑問をいだいたパンチャンに人生の格言を連発する雷堂ましろのアドバイス！>>https://youtu.be/tysYcvJDorA?si=fzwmwVmsaOhqoHki]]|
+|10/22|[[餡ブレラに加入していたかもしれない過去の話をギャング構成員と話すパンチャン>>https://youtu.be/aa-9ZLVuB_E?si=KqKZ5CPEGfIKAVVK]]|
+|10/23|[[9055退職を考えるえるなを必死に止める上田さんとパンチャンｗｗｗ>>https://youtu.be/8488vy-Ked0?si=N3yqAJe3w8gx5-Mx]]|
+|10/24|[[観測者よりも先にケインくんに警察体験が決まったことを報告するパンチャン>>https://youtu.be/Rkq_H4N5dVM?si=X9hKklhr63uu34M2]]|
+|10/25|[[警察を目指すガヴァイさんに素材の取り扱いについて話すパンチャン>>https://youtu.be/KK0ePYCAAdE?si=wwSn_yTHT9TCv5qF]]|
+|10/26|[[賃貸サービスで貸し出し可能な家が無くなったので新しいアパート購入をするパンチャン>>https://youtu.be/Uhl3ecT_1uA?si=sBhFdNJuzek4ICGO]]|
+|10/27|[[落書きを完璧な商品に変えてしまう月乃えるなから9055ヘイストのクエストチケットが届いた！>>https://youtu.be/X9FOqTAt-WY?si=FQetZ9eHbwwrvYzr]]|
+|10/28|[[ハロウィンに向けてロスランドで販売するかぼちゃポップコーンケースが完成したらしい！>>https://youtu.be/NR6pwilX5Ck?si=8987KPjec-reM3Hy]]|
+|10/29|[[街に追加された新しい遊びを誘われるだけで罵倒されるパンチャンｗｗｗ>>https://youtu.be/J-mp5Xd8wv4?si=YmhOwvtVrd96mxOF]]|
+|10/30|[[不思議なお客様にロスランドを乗っ取られる！？>>https://youtu.be/tFgU8lXLRKs?si=3AXNz4WkTv5AJv0l]]|
+|10/31|[[世界統合が始まる前に2人の住民を殺してしまう/ゾンビの残党に襲われてダウンしてしまうｗｗｗ>>https://youtu.be/7cT7dDlA4ts?si=e_-_cJLbD_8Leimd]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=252}
+#endregion(10月)
+#region(11月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|11/01|[[9055をギャングにして構成員を闇メカにすればみんな幸せになれる説！>>https://youtu.be/HlWg-xMguKc?si=yPT3dmnRnmI-e3Rh]]|
+|11/02|[[9055を辞めて新しいジョブに就きたいはがかけるの解決策を考える！>>https://youtu.be/PJIl_BsSThg?si=2WVuZ0u15D2xZQh5]]|
+|11/03|[[ロスサントスの可能性を拡散していくパンチャン>>https://youtu.be/WRGsavH0U-c?si=IA0kWxQS5OOirtVv]]|
+|11/04|[[特大ポスターを貼るためにましろ先生に協力をしてもらうも歪みブレードキルで身動きが取れなくなるパンチャンｗｗｗ>>https://youtu.be/RwCCQ5nAZB8?si=8Ihqq7pUk1Hz3nGC]]|
+|11/05|[[それぞれのお金の価値観について話し合う！>>https://youtu.be/Tn0TmXbhw4U?si=tU0XlKL3zLO_Dr_y]]|
+|11/06|[[変わり果てた葛城さんの考えを聞く9055社員と帰国に向けたとんでもない作戦ｗｗｗ>>https://youtu.be/4ctilWuJZRY?si=VzgPBKt9V64rpUtR]]|
+|11/07|[[素材屋開業に向けて15億の物件を購入するパンチャン！>>https://youtu.be/95Psubf2wGU?si=_NfObJfDorex04nV]]|
+|11/08|[[白市民向けミッションの金額設定について上田さんと会議をする！>>https://youtu.be/LKta3NP4DH0?si=61-mSq_wJefb2tKO]]|
+|11/09|[[体験雇用問題を相談したつもりが不満が溢れ出てきてしまうｗｗｗ>>https://youtu.be/d6pKq_rCESM?si=LyE0isk5FEPIgE0v]]|
+|11/10|[[レギ横キッズにヘリアタックでボコボコにされて墓送りにされてしまうパンチャンｗｗｗ>>https://youtu.be/KtiYymO0mFg?si=fuEA3yTdbQlbKh0M]]|
+|11/11|[[葛城体験を尾行する作戦を立てる9055社員と浮かび上がる悪女像>>https://youtu.be/lQHcm8K6cJY?si=KyOD5nFu3cDpoQmy]]|
+|11/12|[[街に出来た死の迷宮の潜入捜査をしていたら運営に間違えられたｗｗｗ>>https://youtu.be/jk1jAN5j0Wg?si=ZsRMSp5VCEKnSNJ2]]|
+|11/13|[[警察体験に向けてばばあから助言を頂くパンチャン>>https://youtu.be/Nvd9Q-lq-Xw?si=Upn3h4oI2EPFF5Z2]]|
+|11/14|[[警察体験が始まったことをお友達に伝えに行ったりステイトでバレたり忙しい一日！>>https://youtu.be/bDvzohE2G-c?si=nDid7B6lxTHAzCFx]]|
+|11/15|[[クラフトをやり続けた人が警察署の武器販売をみておかしくなるｗｗｗ>>https://youtu.be/WJs4qrD_9yo?si=7LgqduKU3ALjDBF6]]|
+|11/16|[[雷堂ましろが僕の警察体験中に一度も救急隊に出勤しなかった件について>>https://youtu.be/xExGWgqXJGE?si=tZcVoIxHrlR91l6d]]|
+|11/17|[[大切な友達を失ったチンピラに打ち殺されるパンチャン>>https://youtu.be/eD6Q3ovMW1I?si=YoxMG4n--5vvJHsq]]|
+|11/18|[[体験終了後ばばあに呼び出されるも不合格の体で話されてしまうパンチャン>>https://youtu.be/yi3UqxLS2Qk?si=QRgeDfkzpRs01_ME]]|
+|11/19|[[警察体験をちゃんと出来ているか確認に来るくまのふでこ>>https://youtu.be/S_2zr294r9A?si=jsS2IaO6mLt7ZYNi]]|
+|11/20|[[ギャングと警察官の恋に悩む住民と刺しまくるアドミゲスハン>>https://youtu.be/P4dAf9p6KH8?si=RTwZ-gT92vx68Img]]|
+|11/21|[[警察体験を経て今までの白市民生活に対して不満が爆発するパンチャンｗｗｗ>>https://youtu.be/euk_4Cyctxo?si=ai2r4AdJWoC51mKg]]|
+|11/22|[[無理やりカップルにすることで9055で新しい問題を生み出そうと企むパンチャン>>https://youtu.be/GPec_-rD2f0?si=2AOZQsi5X4bzY0op]]|
+|11/23|[[ヴァンダーマーと問題を起こした高橋滅論の相談に乗るここなを盗聴するパンチャンと上田さんｗｗｗ>>https://youtu.be/cmq3gx__8pg?si=9nIo7Gr6mCS11yfW]]|
+|11/24|[[大型の全検挙ってどういう意味なんだろう！/全てをポジティブワードに変えてしまう葉風邪の魔法>>https://youtu.be/UZjGI6eDhjM?si=MPLMBKVH3t3E-kcw]]|
+|11/25|[[警察の合否が出たことを上田さんに報告するパンチャン>>https://youtu.be/6FgospwXO8U?si=SNCnsvLhDTw22n_e]]|
+|11/26|[[警察に落ちた事で今まで伝えてきた街の生き方について間違いだったと謝罪するパンチャン>>https://youtu.be/Ms_fJpi_c48?si=B8Lymt0U3kwAlXDw]]|
+|11/27|[[最近警察に合格した住民を紹介してくるバーバリアンに怒りを隠せないパンチャン>>https://youtu.be/TJnIpFKuJak?si=2Ho1bDh_UcPQGsmt]]|
+|11/28|[[現役警官に今後の生き方のアドバイスを貰うパンチャン>>https://youtu.be/tWjlZG6nLrg?si=BhoEhM6nMPcYaeLO]]|
+|11/29|[[辛辣すぎる羽山ペティに翻弄されるパンチャン>>https://youtu.be/26b4yKs9Wg8?si=HpyPxAKl_ewm1e4H]]|
+|11/30|[[警察を落ちた事を喜び拍手するゆるギャンボスちゃんももがイかれてるｗｗｗ>>https://youtu.be/I7kMFDxOPZg?si=gqnv4ppneiHKUR9A]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=283}
+#endregion(11月)
+#region(12月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|12/01|[[警察に落ちたとしてもパンチャンの黒落ちを選択肢に入れさせないジョーカーｗｗｗ>>https://youtu.be/Q01IFpK6Ojk?si=sTZIhntXIl5SbluE]]|
+|12/02|[[タマーチへ謝罪と黒の道を選ばない尖り発言で微妙な空気を作ってしまうパンチャン>>https://youtu.be/eboFpyD9dpA?si=TbEko5cNM1kkDHTc]]|
+|12/03|[[賃貸サービスの経験を活かして不動産に就職を考えるパンチャン>>https://youtu.be/GMFkyZA6VqQ?si=T9MeN6RvK_gE7QnT]]|
+|12/04|[[警察の合否を報告しちのまるこさんから激励のお言葉を頂くパンチャン！>>https://youtu.be/0znTot0KRQI?si=_p6id64oj_TzOCRB]]|
+|12/05|[[救急隊のヘリ講習に参加して爆散するパンチャンと鳥野ぎん超かっこいいフェスティバル！【星野ももあ/憩居ももあ/鳥野ぎん/こるぺん/パンチャン】>>https://youtu.be/I3gjt3Fp2MU?si=2Up2hoJDVAU5JDpk]]|
+|12/06|[[次の警察体験に向けてアドバイスを貰っていたら暴走しだす山田カイキｗｗｗ【山田カイキ/カイキング/トラ雄/まちょ/あしさんり/パンチャン】>>https://youtu.be/K6LSjh1gUsg?si=109ObfEf8kt8jN_K]]|
+|12/07|[[電気工事バイトで残した血痕のいより空き巣の犯罪者と疑われてしまうｗｗｗ【牧田ここな/たここ/バーバリアン田中/たけぉ/パンチャン】>>https://youtu.be/Ui24y4jlW_0?si=tSmtcCe6FXluE9Ft]]|
+|12/08|[[カテジのとんでもない理由で救急隊の体験に行かされそうになるパンチャン【伊藤カテジ/かてぃ/ノビーラング/ノビー/雷堂ましろ/空衣御侍/パンチャン】>>https://youtu.be/wMrfAP3uavk?si=VKq_MnLk7T3dcNIS]]|
+|12/09|[[半グレとして暮らす光乃あびすと街の生き方について話すパンチャン【光乃あびす/闇乃あびす/パンチャン】>>https://youtu.be/qPxOVAdWx4c?si=7gks0O9o6dxMdTdV]]|
+|12/10|[[警察体験中に捕まえたくまぽこから話を聞いて絶望するパンチャン【くまぽこ/レイちゃん。/パンチャン】>>https://youtu.be/3j7V5U4LMR8?si=fYspkZbGpWpr2FEu]]|
+|12/11|[[雷堂ましろと電話を繋いだまま生活するパンチャン【雷堂ましろ/空衣御侍/パンチャン】>>https://youtu.be/D_w2scL8g_I?si=bDz2cGLnm1XX1ZAQ]]|
+|12/12|[[普通車ディーラーを退職する前に大量のランポを仕入れて暴走するパンチャン【タマーチ二キタ/tamatthi/くまぽこ/レイちゃん。/パンチャン】>>https://youtu.be/BxeOtln1tAo?si=fqZDQo0aJ6d3bX2L]]|
+|12/13|[[雪が降ったことに不満なあびすちゃん/E5バーガーとロスランドのとある共通点に！？【光乃あびす/闇乃あびす/バーバリアン田中/たけぉ/ユズリハシャーロット/柚子花】>>https://youtu.be/vUFqe-jdFm8?si=1j0oRIj41Gw90Ayu]]|
+|12/14|[[不動産を始めるために普通車ディーラー退職イベントを準備するパンチャン【ルウギャラクティカ/玖兎音るう/上田さん/しんのすけ/パンチャン】>>https://youtu.be/CxucQW1XmiU?si=E1GbBLlsFBKPEZZS]]|
+|12/15|[[暴走するあげころにとんでもない発言をされる/ましろ先生と一緒にとびだせゆにばーすな試乗会【揚物ころも/甘乃あもこ/雷堂ましろ/空衣御侍/鬼桃ぷぅ/鬼ヶ島ぴぃち/パンチャン】>>https://youtu.be/C7QRcJBmZjM?si=NLVBvyCtohxkXm8M]]|
+|12/16|[[普通車キャッシュバックイベントで住民の温かさに触れるパンチャン【パンチャン】>>https://youtu.be/1qceWF9s96c?si=ncQ2z9qHAP6njfcn]]|
+|12/17|[[不動産になることを知ったばばあにいじめられるパンチャン【バーバリアン田中/たけぉ/パンチャン】>>https://youtu.be/QsiUDyu4iF8?si=0Ub9F2XAu1NCHg2_]]|
+|12/18|[[去年の冬に大流行した普通車を大量に売り退職するパンチャン【パンチャン】>>https://youtu.be/o8q0098nLkM?si=aDBwLAG1Is6hmk60]]|
+|12/19|[[街に出来た武器スキン屋さんで警察と出会い何故か悔しむパンチャン【那須裕貴/ニョス/犬億ロック/ろっくちゃん/パンチャン】>>https://youtu.be/wvx-dIvYJpc?si=KDSy1uTI5_LcGJRA]]|
+|12/20|[[社長に普通車ディーラーの退職を伝えるパンチャン【ルウギャラクティカ/玖兎音るう/パンチャン】>>https://youtu.be/2JMsnU4ZaHM?si=7MtsjOq6gd1nbNWI]]|
+|12/21|[[不動産に就職していきなり200億の一大プロジェクトが舞い込んでくるパンチャン【ももみ/小花衣ももみ/パンチャン】>>https://youtu.be/2uK4WKMPZPY?si=jKgrdBkms-NxSGxg]]|
+|12/22|[[衛星外でギャング加入を匂わせる発言を連発するくまぽこｗｗｗ【くまぽこ/レイちゃん。/パンチャン】>>https://youtu.be/qrBtYyMKTz0?si=t65855Rn5MmGwO8b]]|
+|12/23|[[エスタークに諭される警察に落ちた本当の理由ｗｗｗ【エスターク/ゼルク/丘猫まる/宙星ぱる/パンチャン】>>https://youtu.be/tyZ88sey2XY?si=JVmvunX-ISZ0eTHK]]|
+|12/24|[[ハウジングの為の情報収集が良からぬ方向へ進んでしまうパンチャン【雷堂ましろ/空衣御侍/パンチャン】>>https://youtu.be/AHZ9SXlSiv0?si=UMSiM-K39a__bFgE]]|
+|12/25|[[不動産として新しくお店を開業する住民のアドバイスをするパンチャン【ペトロアルドベッグ/とうかいねこ/パンチャン】>>https://youtu.be/LquPMy0_GYk?si=D4b3eq1OE9W1FtJ7]]|
+|12/26|[[意味のない会話も生きる上で必要な大切な時間であることを教えるパンチャン【雷堂ましろ/空衣御侍/パンチャン】>>https://youtu.be/ujKvo01tAE0?si=xTGbYns52XtMQsVp]]|
+|12/27|[[MonD計画始動！小文字のOに大苦戦するも完成度が高すぎて大興奮の二人！【ももみ先生/小花衣ももみ/パンチャン】>>https://youtu.be/dRTrR0ZwuPQ?si=F_XdjtQyeJi9WcbO]]|
+|12/28|[[MonD計画小文字n編！構成員を捨て駒にした大作戦で完成を試みる不動産！【ももみ/小花衣ももみ/パンチャン】>>https://youtu.be/46Z-kUxfSY4?si=nox4Z7qwEquESVRx]]|
+|12/29|[[半グレやギャング経験のある天草に優しいアドバイスを貰うパンチャン【天草蒼/かなででで/パンチャン】>>https://youtu.be/uPy7ARwUxAA?si=f8gV3rburBew3hEs]]|
+|12/30|[[公務員になれなかった者の街での過ごし方をアドバイスするパンチャン【久川たんぽぽ/めぐちゃんねる/パンチャン】>>https://youtu.be/3sK897sXvvU?si=dqi0v3YbcKvwG9Jl]]|
+|12/31|[[変わっていく9055で退職者が二人出た事を先輩に伝えるパンチャン【猫ノ宮ひな/猫宮ひなた/パンチャン】>>https://youtu.be/YBd8f2otM0Q?si=O2Uh_j5FP0_PTqBR]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=313}
+#endregion(12月)
+#endregion(2024に対応)
+//
+#region(2025)2025
+#region(1月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|01/01|[[お歳暮ガチャを回すと実際にグッズが届くのかなぁ～？【平井のおっちゃん/アメザリひらい/羽山ペティ/栗山やんみ/パンチャン】>>https://youtu.be/xDh5aYZT0Qw?si=X0k98ZXQSQOhmg38]]|
+|01/02|[[物件購入だけでも何かしら起こしてくれそうな堕夜キミトスｗｗｗ【堕夜だよ/だよだよ/三階堂キミトス/キミトス/パンチャン】>>https://youtu.be/jGyno2-b5EA?si=hiT_prs8WoSQgbGe]]|
+|01/03|[[MonD計画大文字D編！見た事のない扉をパンチャンも欲しくなり却下されてしまうｗｗｗ【ももみ/小花衣ももみ/パンチャン】>>https://youtu.be/yW1OvSJVq1E?si=zlwe5oJOdjo6vSWn]]|
+|01/04|[[ロスサントスでイベントを開くことの難しさに直面する！【月乃えるな/しえる/パンチャン】>>https://youtu.be/qOqhZFJHU3g?si=5nzXMFq4rZLAxMca]]|
+|01/05|[[救急隊の合否について考えるが事件に巻き込まれてどうでもよくなってしまうパンチャン【雷堂ましろ/空衣御侍/ブラックジャックス/あんない/パンチャン】>>https://youtu.be/G9lPhZhHHWs?si=7SyQLOPQNJPH89hi]]|
+|01/06|[[新聞に載っていた新しい半グレの情報を集めるパンチャン【星ノみこ/みーこ/畳かえる/noon/パンチャン】>>https://youtu.be/tsxKAcGnF1M?si=ERqAs6h66n22-U0V]]|
+|01/07|[[MonD計画販売方法を考えるももみ先生とパンチャン【ももみ/小花衣ももみ/パンチャン】>>https://youtu.be/HAA-3tm2a0k?si=XxZ-0chgbE9otvPj]]|
+|01/08|[[紫水さんから瞑想30分前に呼び出されて過去の悪行全てを暴露されるパンチャン【紫水コウ/ふらんしすこ/芹沢すず/Suzullan/パンチャン】>>https://youtu.be/lyowdtwujSE?si=rPO-ihU0b8zA1KOg]]|
+|01/09|[[MonD計画に終止符！？遂に合計金額が決まりました！！！【ももみ/小花衣ももみ/パンチャン】>>https://youtu.be/dKNqUH0v8hQ?si=vILqWdnNVzb3d82A]]|
+|01/10|[[夢が叶う街ロスサントスで病んでしまった住民の悩みを聞く【雷堂ましろ/空衣御侍/待雄/あしさんり/ツクヨミレオ/月夜見レオ/葛城司/Shiron/パンチャン】>>https://youtu.be/Me8lqlcL70s?si=VJjIQX57rh0oIWI9]]|
+|01/11|[[警察体験に向けて実体験を元にアドバイスをするパンチャン【星ノみこ/みーこ/パンチャン】>>https://youtu.be/uGId7oUqWbo?si=rK-26a2ohJxO1FM-]]|
+|01/12|[[高速道路で警察官を跳ね飛ばし発砲されるパンチャン大混乱事件ｗｗｗ【鳥野ぎん/こるぺん/ヤミーエンデバー/やみえん/パンチャン】>>https://youtu.be/s6AU8zvdCwc?si=rwDmtG8GVZgz-bXH]]|
+|01/13|[[えんるうカップル数か月ぶりのPYC同時出勤に意気揚々と働く社員を追い払うパンチャン【土場リグゼ/リグゼ/茶担えり/エリーサタン/パンチャン】>>https://youtu.be/nMBwdOyC41E?si=Y4eKVhSafpA-2cF7]]|
+|01/14|[[不動産で呼ばれたのに何故か別人に問題を出されるパンチャン【プリンセスいくら/茶々陽ちゃる/パンチャン】>>https://youtu.be/AB4s3oKsorc?si=IDjtLKTJLtqJnpdN]]|
+|01/15|[[実際に着用できるライブTシャツをイベントで販売したい！【だん市長補佐/八王子めぐ/夜巡ハナ/パンチャン】>>https://youtu.be/kDQDB6K_Gh4?si=uEheliYoeYIbf85H]]|
+|01/16|[[レースに力を入れ過ぎて最強になってしまったので9055を退職する黒桜ローレン【黒桜ローレン/海沼流星/上田さん/しんのすけ/パンチャン】>>https://youtu.be/j6J7wTH7snU?si=bO_kdaYApgl3xG9Y]]|
+|01/17|[[メカニック社長それぞれの悩みをPYCで打ち明ける！【上田さん/しんのすけ/ルウギャラクティカ/玖兎音るう/三島改/あげいん/パンチャン】>>https://youtu.be/fIR11riWauU?si=U7zQCsN2_BSjeGci]]|
+|01/18|[[クソコラシルエットクイズの2日間の売り上げに驚愕するパンチャン【プリンセスいくら/茶々陽ちゃる/パンチャン】>>https://youtu.be/L_2c8D9Cx98?si=8RH11ZUBqy-Ul6uY]]|
+|01/19|[[MonD計画のためALLINアジトに入り70億円の物件を販売する不動産！【MonD/Mondo/ももみ/小花衣ももみ/ALLIN/パンチャン】>>https://youtu.be/EILhpBrgmuE?si=-RAjGQjvdNY8T6qy]]|
+|01/20|[[何も知らないことで大金を手にしたロイをぬか喜びさせるｗｗｗ【ロイマーチングナンバー/ニケ/パンチャン】>>https://youtu.be/IPVVO4AMi8M?si=UHDuraAKIicbgYq-]]|
+|01/21|[[新しい警察の合格者が出勤して今までの慰めの言葉が偽りに変わってしまったパンチャン【ロイマーチングナンバー/ニケ/八王子めぐ/夜巡ハナ/パンチャン】>>https://youtu.be/yTdioydhG34?si=sOob_gwNZs70QdcT]]|
+|01/22|[[白市民の切なさを痛感するロックに黒市民を勧める警察志望チャン【犬億ロック/ろっくちゃん/パンチャン】>>https://youtu.be/ROqsEUia4Qw?si=cxIOTz-zyxfFwiMZ]]|
+|01/23|[[新しく追加されたヘリガレージを紹介し物件購入へ促すパンチャン【文殊セイジ/弥勒/ダミアン/しゅりぺ/パンチャン】>>https://youtu.be/TqcgKksc6Wo?si=Cz-RlOrSaMpQvZtw]]|
+|01/24|[[いつもより危ない橋を渡るパンチャンに救急隊も苦笑いｗｗｗ【元難波登/ペレ夫/雷堂ましろ/空衣御侍/牧田ここな/たここ/パンチャン】>>https://youtu.be/cNT4qdikpq0?si=q-2dpm0Y21r7fx-o]]|
+|01/25|[[白市民の闇落ち問題をももみさんと話す！【ももみ/小花衣ももみ/福田明宏/ファロ/タラちゃん/ふぁんきぃ/パンチャン】>>https://youtu.be/xQfvtFiIsLo?si=LeJccsjauNbbInO5]]|
+|01/26|[[ノーリミアジトにギャング関係者以外が住んでいる問題を爆速で解決する不動産ｗｗｗ【街雄/あしさんり/ミカピトフーイ/みかちー/ももみ/小花衣ももみ/パンチャン】>>https://youtu.be/uJV0r2irL3g?si=vyuI5yPOSKarEK1v]]|
+|01/27|[[長期間半グレとして生きる光乃あびすと話し合うパンチャン【光乃あびす/闇乃あびす/パンチャン】>>https://youtu.be/AEESFRoj_VU?si=8-q8yQsjVcyrY1TV]]|
+|01/28|[[見た目とは裏腹に慎重すぎる性格のバナーナと話すパンチャン【モラード・バ・ナーナ/Banana/パンチャン】>>https://youtu.be/WiW1Ru0ozNE?si=AUe6SrRFPl-llt3L]]|
+|01/29|[[メカニックの修理費値上げと板金問題をにしのん社長に相談するパンチャン【にしのん/にしのん/命田守/夢咲刻夜/パンチャン】>>https://youtu.be/7L6joGt9z3c?si=xL3z2Rg8QQal--GW]]|
+|01/30|[[救急隊はダウン者が分かるシステムがあると疑問を抱くパンチャン【命田守/夢咲刻夜/ブラックジャックス/あんない/パンチャン】>>https://youtu.be/3LCPIw1ezVU?si=jaHUPfppvrmSR3-I]]|
+|01/31|[[2度目の警察体験についてバーバリアン田中に聞かれるパンチャン【バーバリアン田中/たけぉ/赤城煉/レントンゲームズ/パンチャン】>>https://youtu.be/Ml3HvvpxlS0?si=M8qt-2sjrn88vwQa]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=344}
+#endregion(1月)
+#region(2月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|02/01|[[ぷぅちゃんと警察体験の話をするパンチャン【ぷぅちゃん/鬼ヶ島ぴぃち/パンチャン】>>https://youtu.be/4DrJDnotHqw?si=--MoZzhQxCfcxt4k]]|
+|02/02|[[9055で働くことについて考える猫ノ宮さんから報告を受ける社員【猫ノ宮ひな/猫宮ひなた/上田さん/しんのすけ/パンチャン】>>https://youtu.be/BW0KCTl3UuI?si=t9vfGlCqSA-6fBNE]]|
+|02/03|[[複数のライブハウスを作る計画を市長に相談するパンチャン【市長/しょぼすけ/パンチャン】>>https://youtu.be/F6JKzx02SI0?si=10BrPN-yeDgu9T2x]]|
+|02/04|[[不動産としてマザーキティさんの教会立ち上げを全面サポートするパンチャン【マザーキティ/天使代行ラングドシャ/山下ひろし/しょぼすけ/パンチャン】>>https://youtu.be/n5bC_ru5OOU?si=hJNeum6QQNbx8A3x]]|
+|02/05|[[ゆるぎゃんアジトのハウジングを見せてもらうパンチャン【豆乳ちゃんもも/猫街もも/パンチャン】>>https://youtu.be/tMYgJnf_S2E?si=_C7gAYVPO5kAb80Y]]|
+|02/06|[[ばばあから警察としての市民交流や小型犯罪について体験前にアドバイスを受けるパンチャン【バーバリアン田中/たけぉ/パンチャン】>>https://youtu.be/0mCO24b7Oiw?si=Y-9gEMgElO9UV3MV]]|
+|02/07|[[上田さんの近況を鯵屋さんに探られるパンチャン【鯵屋/aja/パンチャン】>>https://youtu.be/p-n-DssbG94?si=FMD_UKjJBSV0Eu9E]]|
+|02/08|[[餡ブレラの大型服姿の上田さんの写真が公開され驚愕する9055社員...【月乃えるな/しえる/9055/パンチャン】>>https://youtu.be/ebuqz5z17wk?si=L8875Sn44ize2RAG]]|
+|02/09|[[上田さんの闇落ちに対して想う事を話すパンチャン/街における黒落ちのハードル【モラードバナーナ/banana/パンチャン】>>https://youtu.be/4BG8C8FifVA?si=N3w5U9BYQ039rZ5b]]|
+|02/10|[[月ノ屋の裏口で餡ブレラと問題を起こした上田さんの話を聞く9055社員【上田さん/しんのすけ/月乃えるな/しえる/緋赤まい/まいたけ/9055/白井満太/しろまんた/パンチャン】>>https://youtu.be/MLxE7i6EdIk?si=0zQ9kqjG82GV2Af-]]|
+|02/11|[[元社長が9055に下した決断とは...【上田さん/しんのすけ/月乃えるな/しえる/緋赤まい/まいたけ/9055/ロイマーチングナンバー/ニケ/モラードバナーナ/banana/パンチャン】>>https://youtu.be/zNrWUlqbYIg?si=tiKcY2Fl69pU9kn7]]|
+|02/12|[[今後の9055について初期メンバーを呼び大会議をする【9055/パンチャン】>>https://youtu.be/slbEEGfx8SU?si=Ic-zwtyMyJ-3pMA_]]|
+|02/13|[[猫ノ宮ひなさんの悩みや今後を聞くパンチャン【猫ノ宮ひな/猫宮ひなた/パンチャン】>>https://youtu.be/lUYy-CdVhKk?si=KEebxb7jwqSJYBN0]]|
+|02/14|[[警察体験に行くことが決まったPYCの二人にアドバイスをするパンチャン！【胡將/Pepper/真島ルイ/魔光リサ/パンチャン】>>https://youtu.be/LwoLEIE-WbE?si=n5WEtYhIj-PMY9kG]]|
+|02/15|[[八王子めぐの闇落ちを新聞で見つけて門出を祝うパンチャン【ジャン＝ジャックヴァラン/霧島ジャック/八王子めぐ/夜巡ハナ/パンチャン】>>https://youtu.be/AjFt_aCC07c?si=NGD2ojWsvojnTr7n]]|
+|02/16|[[メカニックからの闇落ちの改善案を真剣に考える茶担えりに感動するパンチャン【茶担えり/エリーサタン/土場リグゼ/リグゼ/パンチャン】>>https://youtu.be/nblKRtADcBk?si=pc8scpiOmTbMUlQC]]|
+|02/17|[[サンサンクレープを退職し犯罪者になった元従業員について悩むえるな【月乃えるな/しえる/パンチャン】>>https://youtu.be/VUCUULgscqc?si=PqwM3UDCkgbYCkjo]]|
+|02/18|[[あびすさんに過眠症になるんじゃないかと疑われるパンチャン【光乃あびす/闇乃あびす/パンチャン】>>https://youtu.be/S75gFWjqJSU?si=DA6gZYJPqIbg3UWX]]|
+|02/19|[[星ノみこから黒落ちを考えていることを伝えられるパンチャン【星ノみこ/みーこ/パンチャン】>>https://youtu.be/zRcd1YJYMDs?si=w-ZudWX8yS431SAG]]|
+|02/20|[[餡ブレラの禊中の上田さんに現状を聞くパンチャン【上田さん/しんのすけ/パンチャン】>>https://youtu.be/7_8ZrLb32o4?si=eZQ1kDI8zGefjGYg]]|
+|02/21|[[何かあったら大体ばばあに相談をするパンチャン【バーバリアン田中/たけぉ/赤ちゃんキャップ/ましゃかり/パンチャン】>>https://youtu.be/WS-bJk6tpss?si=6yqCqksvZKhEZ63_]]|
+|02/22|[[板金の値段変化の真実を暴くパンチャンとスパイえるな【月乃えるな/しえる/パンチャン】>>https://youtu.be/RzxuHg5UKkI?si=UjQTJp92ka2BgX_2]]|
+|02/23|[[黒市民と白市民の板金に対する想いを話すパンチャン【街雄/あしさんり/パンチャン】>>https://youtu.be/UvkJScv8wmo?si=VjcRkXxYHB-vee2R]]|
+|02/24|[[白市民が街の改善に動きやすい理由が判明するｗｗｗ【パキち/ベルモナ/牧田ここな/たここ/パンチャン】>>https://youtu.be/oxrtbxPKBmI?si=Emu8JH33Ul4F5ic3]]|
+|02/25|[[選挙に立候補するひろしに犯罪に対する意見をする白市民！【焼野原ひろし/kame/牧田ここな/たここ/パキち/ベルモナ/カムカマダ/御先蔵馬】>>https://youtu.be/k7Et0ku2EAI?si=qTYjwtAbTITtpdI7]]|
+|02/26|[[市長選挙に向けてましろ先生と話すパンチャン【雷堂ましろ/空衣御侍/ブラックジャックス/あんない/パンチャン】>>https://youtu.be/-yVRnJuQZsI?si=cndAZl7i6sTrWive]]|
+|02/27|[[救急隊の守秘義務と禁断の恋を目撃するパンチャン【雷堂ましろ/空衣御侍/ブラックジャックス/あんない/ゆたんぽ/未空あいす/パンチャン】【ぱんくん】>>https://youtu.be/Da35rnhb0rg]]|
+|02/28|[[キャップの制作を暴露するバーバリアン田中と6分の会話に謝罪をされるパンチャン【バーバリアン田中/たけぉ/赤ちゃんキャップ/ましゃかり/パンチャン】【ぱんくん】>>https://youtu.be/Wj0GVgMKU_s]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=375}
+#endregion(2月)
+#region(3月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|03/01|[[市民と公務員で闇落ちに対して認識のズレがあることをましろ先生と話し合う【雷堂ましろ/空衣御侍/鬼桃ぷぅ/鬼ヶ島ぴぃち/ウィルナイアー/コンタミ/パンチャン】【ぱんくん】>>https://youtu.be/e2vPL4RXcRE]]|
+|03/02|[[公約は素晴らしいがギャングボスに公務員が投票をするのか問う【雷堂ましろ/空衣御侍/パンチャン】【ぱんくん】>>https://youtu.be/FZ_14zYBZDI]]|
+|03/03|[[候補者の言いたいことを代弁するパンチャンと街における大型犯罪のイメージを語る！【街雄/あしさんり/エスターク/ゼルク/パンチャン】【ぱんくん】>>https://youtu.be/ltW75Lf36D8]]|
+|03/04|[[市長選についてここなと話し合うパンチャン【牧田ここな/たここ/パンチャン】【ぱんくん】>>https://youtu.be/z82LZqkZAi4]]|
+|03/05|[[ライブハウス設営に向けて大川さんに相談をするパンチャン【大川/bact/パンチャン】【ぱんくん】>>https://youtu.be/fxhIrke15ro]]|
+|03/06|[[飲食体験を終えたキメ太郎にやりたいことを尋ねたら恐ろしいほど黒かった件についてｗｗｗ【御薬キメ太郎/Nanao/パンチャン】【ぱんくん】>>https://youtu.be/0GtxnbX93LE]]|
+|03/07|[[D事件から1か月！上田さんから近況報告を受けるパンチャン【上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/2rMuh5GDyhw]]|
+|03/08|[[ばばあと黒市民になった上田さんの禊について話す動画を撮るために話すパンチャン【バーバリアン田中/たけぉ/パンチャン】【ぱんくん】>>https://youtu.be/M8W2DdQVH98]]|
+|03/09|[[新規住民にクラフトとリサセンの話をしてこの街の経済を教えるパンチャン【悠えん/yue/北村ばなな/ばなな/パンチャン】【ぱんくん】>>https://youtu.be/Y24do-_O0hU]]|
+|03/10|[[2年越しに明かされる新事実に驚くぱんくんｗｗｗ【キーモットホームズ/きもともと/パンチャン】【ぱんくん】>>https://youtu.be/AF5NSGzeFBw]]|
+|03/11|[[今の警察と昔の警察の違いを聞き考えを改めるパンチャン【キーモットホームズ/きもともと/パンチャン】【ぱんくん】>>https://youtu.be/09ErSnh1m1g]]|
+|03/12|[[飯田けんつに白市民の楽しみを聞かれて正解を出すパンチャン【飯田けんつ/けんつめし/キャプテンわきを/わきを/パンチャン】【ぱんくん】>>https://youtu.be/cjPpnLIh2UI]]|
+|03/13|[[周りから聞いた上田さんの現状で悩むえるなの話を聞くパンチャン【月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/py38hd3h1vU]]|
+|03/14|[[新市長がギャンボスになった事にについてカフェで話す【よすみのかど/かど/帝レン/紅月サクヤ/日々/rin/パンチャン】【ぱんくん】>>https://youtu.be/QB1OACBXwCM]]|
+|03/15|[[ギャングボスの市長就任に伴い白市民の組織を作ろうと考える淀川てるみ【淀川てるみ/輝海まりな/ヤマンバ花子/楠木さらら/パンチャン】【ぱんくん】>>https://youtu.be/YD18GTZSFRQ]]|
+|03/16|[[レーサー女子を増やすために9055に勧誘を始める！【阿蘇野ひなす/HiNas3/パンチャン】【ぱんくん】>>https://youtu.be/FqF6IPIt0rw]]|
+|03/17|[[新市長になったウェスカーさんに牧場の改善案を提示するもむきになってしまうパンチャンｗｗｗ【アルフォートウェスカー/ごっちゃん@マイキー/パンチャン】【ぱんくん】>>https://youtu.be/aE3DlCdj3FM]]|
+|03/18|[[ノーリミのルナフリックス無断使用現場を目撃しえるなに相談するパンチャン【月乃えるな/しえる/パンチャン】【ぱんくん】>>URL]]|
+|03/19|[[偶然リサセンで出会ったオザワさんと警察志望の理由を話すパンチャン【オザワハヤマサ/小澤直将/パンチャン】【ぱんくん】>>https://youtu.be/7L28_QEQBq8]]|
+|03/20|[[禊で餡ブレラの構成員として生きている上田さんの話をオザワさんから聞くパンチャン【オザワハヤマサ/小澤直将/パンチャン】【ぱんくん】>>https://youtu.be/oMBYK5XAk9U]]|
+|03/21|[[眠っていたカフェ事業に招待するも欲が出すぎて勧誘に失敗するパンチャン【ジャンジャックヴァラン/霧島ジャック/光乃あびす/闇乃あびす/パンチャン】【ぱんくん】>>https://youtu.be/GqycV-hp4u8]]|
+|03/22|[[宗介から黒市民に堕ちた報告を受けておめでとうを伝えるパンチャン【ライジングサン宗介/理事さん/神田じぇいのすけ/神辰Ｊ威弦/パンチャン】【ぱんくん】>>https://youtu.be/N9phkSceubw]]|
+|03/23|[[久しぶりに病院に行き救急隊の闇を知ってしまうパンチャン【雷堂ましろ/空衣御侍/命田守/夢咲刻夜/パンチャン】【ぱんくん】>>https://youtu.be/k0YyVRe6EOo]]|
+|03/24|[[868への想いを数か月ぶりに伝えるパンチャン【紫水コウ/ふらんしすこ/868/パンチャン】【ぱんくん】>>https://youtu.be/75wDyqM8c8c]]|
+|03/25|[[久しぶりにレギオンで大暴れをして街を楽しむパンチャン【くまぽこ/レイちゃん。/ジャンジャックヴァラン/霧島ジャック/パンチャン】【ぱんくん】>>https://youtu.be/j0qy8MY4tE4]]|
+|03/26|[[BMCと9055で女性レーサー対決企画を考えるパンチャン【万十忍/饅頭忍者/星乃すみ/夜乃すみ/揚物ころも/甘乃あもこ/パンチャン】【ぱんくん】>>https://youtu.be/RhoYDKUWwrs]]|
+|03/27|[[何故かえるなに闇堕ちを疑われるパンチャン【月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/rrc-SuOuGM8]]|
+|03/28|[[ALLIN解散後エスタークから着信を受け取るパンチャン【エスターク・Z・ダークネス/ゼルク/パンチャン】【ぱんくん】>>https://youtu.be/XqZuD8Ac-Qk]]|
+|03/29|[[PYC閉店後の進路を聞くパンチャン【茶担えり/エリーサタン/パンチャン】【ぱんくん】>>https://youtu.be/FH9DZfP5qF4]]|
+|03/30|[[白市民が剥奪されそうな君島こはるから牧場破棄の依頼を受けるパンチャン【君島こはる/KOHAL/パンチャン】【ぱんくん】>>https://youtu.be/H1WTWFT-sPI]]|
+|03/31|[[MOZUの構成員と恋愛になりそうな9055従業員にかける言葉で悩む月乃えるな【月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/owBQioUAHxw]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=403}
+#endregion(3月)
+#region(4月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|04/01|[[9055の正社員の基準について話し合うパンチャン【須藤冬馬/トーマスP/月乃えるな/しえる/丸井まる/むさしまる/パンチャン】【ぱんくん】>>https://youtu.be/QT1sDVjXHcA]]|
+|04/02|[[常駐を頑張るばななに今後欲しい従業員を聞いてみた！【北村ばなな/ばなな/パンチャン】【ぱんくん】>>https://youtu.be/f85Vm3W3MmQ]]|
+|04/03|[[白の会社とギャングの採用基準の違いについて相談するパンチャン【ぎちょう・じょばぁーな/Aボタン/パンチャン】【ぱんくん】>>https://youtu.be/kmN0vg7IaJA]]|
+|04/04|[[9055ヘイストが実装される前日にとんでもない事件を起こしていた件について【銅鑼イオリ/ヤマトイオリ/アルフォートウェスカー/ごっちゃん＠マイキー/9055/パンチャン】【ぱんくん】>>https://youtu.be/-vcT75ypVHg]]|
+|04/05|[[9055従業員から救急隊と警察官を募り革命を起こす計画を発表するパンチャン【月乃えるな/しえる/北村ばなな/ばなな/丸井まる/むさしまる/悠えん/yue/パンチャン】【ぱんくん】>>https://youtu.be/FJebEAJ6QqM]]|
+|04/06|[[9055ヘイストが起きたので警察官を呼び出し圧をかけるパンチャン【よすみのかど/かど/羽山ペティ/栗山やんみ/パンチャン】【ぱんくん】>>https://youtu.be/kRU6gpoEBvY]]|
+|04/07|[[新しい店舗強盗を通して警察との交流が増えるパンチャン【二部らるたる/にぶぶ/牧田ここな/たここ/ミンドリー/Middleee/9055/パンチャン】【ぱんくん】>>https://youtu.be/Wrzh96Wfbd0]]|
+|04/08|[[メカニックと新規住民の繋がりに感じていた違和感を爆発させるパンチャン【こさ猫弐郎/こっさり/月乃えるな/しえる/9055/パンチャン】【ぱんくん】>>https://youtu.be/j3RFX00qa88]]|
+|04/09|[[北村ばなな失踪事件を追って町中を駆け回るパンチャン【緋赤まい/まいたけ/丸井まる.むさしまる/月乃えるな/しえる/9055/パンチャン】【ぱんくん】>>https://youtu.be/8cB1uNmuKjU]]|
+|04/10|[[今後の9055を考えてPYCの元社員”茶担えり”を勧誘するパンチャン【茶担えり/エリーサタン/9055/パンチャン】【ぱんくん】>>https://youtu.be/G0s8SEAenMA]]|
+|04/11|[[禊で餡ブレラの犬として加入していた上田さんが突然解雇されていた！【上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/SHHLYLsvmZI]]|
+|04/12|[[上田さんの現状についてここなと話す！【牧田ここな/たここ/パンチャン】【ぱんくん】>>https://youtu.be/4vXMcUbTy3A]]|
+|04/13|[[9055のクリニックや従業員増員について北村ばななと本音で話すパンチャン【北村ばなな/ばなな/パンチャン】【ぱんくん】>>https://youtu.be/tdJxCYRDNMU]]|
+|04/14|[[葛城さん再就職について社長と話すパンチャン【須藤冬馬/トーマスP/月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/YgtnZCkjrhI]]|
+|04/15|[[9055でザリ蛸を販売しながらメカニックをする形でじぇいのすけを勧誘するパンチャン【神田じぇいのすけ/神辰Ｊ威弦/パンチャン】【ぱんくん】>>https://youtu.be/XoSt0l8C_so]]|
+|04/16|[[サウナ出禁になった銅鑼イオリの事情を聞いたら恐ろしすぎたｗｗｗ【銅鑼イオリ/ヤマトイオリ/月乃えるな/しえる/帝レン/紅月サクヤ/パンチャン】【ぱんくん】>>https://youtu.be/sBswrFV0sYI]]|
+|04/17|[[1年間動きがなかった素材周りが遂に動き出し歓喜する素材屋と大きな問題点！【月ノ島ごう/月島ごう/カムカマダ/御先蔵馬/パンチャン】【ぱんくん】>>https://youtu.be/HO2AQIf1NOA]]|
+|04/18|[[餡ブレラをクビになった上田さんが遂に社員の前に現れて謝罪をしに来た！【上田さん/しんのすけ/飯田けんつ/けんつめし/9055/パンチャン】【ぱんくん】>>https://youtu.be/hpR9khj5ic8]]|
+|04/19|[[禊が始まったイオリから9055に対する気持ちを聞かされるパンチャン【銅鑼イオリ/ヤマトイオリ/パンチャン】【ぱんくん】>>https://youtu.be/yNsbbb4AuBw]]|
+|04/20|[[レースの人気に伴いアーマーの合法化を相談したら酷すぎる回答が返ってくるｗｗｗ【バーバリアン田中/たけぉ/パンチャン】【ぱんくん】>>https://youtu.be/Eox88FAmTcY]]|
+|04/21|[[BJローンからお金を借りて保証人を餡ブレラにしたとんでもない上田さんの禊期間の全貌を知るパンチャン【上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/HPX56qllwzk]]|
+|04/22|[[多額の借金から解放された上田さんは陰謀論者になってしまったｗｗｗ【上田さん/しんのすけ/緋赤まい/まいたけ/9055/パンチャン】【ぱんくん】>>https://youtu.be/gFhIDmHBeJg]]|
+|04/23|[[ライブハウスを作成依頼するためにアナログな企画書を提出するパンチャン【天近くるみ/ぜったい天使くるみ/パンチャン】【ぱんくん】>>https://youtu.be/48Dk62_B9Dw]]|
+|04/24|[[速度違反と重窃盗とあげあし警官ボイラテンガリン【ボイラテンガリン/BOIRA/ゆたんぽ/未空あいす/パンチャン】【ぱんくん】>>https://youtu.be/dZtq2iW2l2c]]|
+|04/25|[[上田が作っていたレースイベントを思い返して優しい言葉を呟くなんばてって...【なんばてって/みなみてって/ガヴァイアッカンマン/せかめん/パンチャン】【ぱんくん】>>https://youtu.be/zxIbOwfTvlM]]|
+|04/26|[[けんつさんの新しいレース企画を聞くパンチャン【飯田けんつ/けんつめし/月乃えるな/しえる/牧田ここな/たここ/パンチャン】【ぱんくん】>>https://youtu.be/znrtf5tgkZY]]|
+|04/27|[[限界すぎる上田さんのために全力を尽くして良い人になりたいパンチャン【上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/WEhgah-ebWc]]|
+|04/28|[[BMCを退職するふでこさんの話を聞くパンチャン【くまのふでこ/ぺんこちゃんねる/パンチャン】【ぱんくん】>>https://youtu.be/9KDRI8IIUFI]]|
+|04/29|[[9055退職の匂わせが一斉に押し寄せてきて頭を抱える社員【月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/1YRh3Db4uOU]]|
+|04/30|[[黒市民としての覚悟ついて悩む丸井まると話すパンチャン【丸井まる/むさしまる/パンチャン】【ぱんくん】>>https://youtu.be/H8Fuce4RVB4]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=434}
+#endregion(4月)
+#region(5月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|05/01|[[9055の従業員を想い涙ぐむ月乃えるなとパンチャン【月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/qgTabyEoDIk]]|
+|05/02|[[白パスまで残り僅かな上田さんからふざけた電話と真面目な電話が来る！【上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/j_xSdW1MW6M]]|
+|05/03|[[北村ばななが闇落ちを考えている話を直接聞くパンチャンとえるな【北村ばなな/ばなな/月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/FTQgcBOtiUg]]|
+|05/04|[[緋赤まいと話し合いをする前に何故か暴走してしまうパンチャン【緋赤まい/まいたけ/北村ばなな/ばなな/ミカピトフーイ/みかちー/パンチャン】【ぱんくん】>>https://youtu.be/zCmcyFIOUU8]]|
+|05/06|[[闇落ちを匂わせる緋赤まいの覚悟を聞かせてもらうパンチャン！【緋赤まい/まいたけ/北村ばなな/ばなな/パンチャン】【ぱんくん】>>https://youtu.be/_lyf4ulZLx0]]|
+|05/06|[[ギャング勧誘される職業の違いを離職率が少ない救急隊からアドバイスを貰うパンチャン【ももみ/小花衣ももみ/橘かげまる/影。/かげまる/パンチャン】【ぱんくん】>>https://youtu.be/OBdQkmswK3w]]|
+|05/07|[[黒の道に悩む丸井まるにとある誰かを思い浮かべアドバイスをするパンチャン【丸井まる/むさしまる/パンチャン】【ぱんくん】>>https://youtu.be/cP_UdZ8ix60]]|
+|05/08|[[9055と他のメカニックについてましろ先生から助言を頂く！【雷堂ましろ/空衣御侍/パンチャン】【ぱんくん】>>https://youtu.be/XGkEKnH5Unc]]|
+|05/09|[[個人医志望の二人を葛城さんを理由に9055に勧誘するパンチャン【よりどりみどり/猫瀬乃しん/ダミチェル/紫翠みちる/パンチャン】【ぱんくん】>>https://youtu.be/e7333-GNRcw]]|
+|05/10|[[うさぎさんに依頼していたライブハウス”オーシャン”が遂に完成した！【うさぎさん/バル子/パンチャン】【ぱんくん】>>https://youtu.be/h2K1fhWchis]]|
+|05/11|[[丸井まるの一言で大号泣してしまうえるなと帰ってきた上田さん！【月乃えるな/しえる/パンチャン/9055】【ぱんくん】>>https://youtu.be/U7BVtMd8YfQ]]|
+|05/12|[[上田さんが3か月ぶりに9055に帰ってきた日【上田さん/しんのすけ/パンチャン/9055/】【ぱんくん】>>https://youtu.be/_RDeYHug-MA]]|
+|05/13|[[合法のアーマーを付与する施設を考えるも浮かび上がる問題点を小峯さんに相談する！【小峯玲/FOXRABBIT/パンチャン】【ぱんくん】>>https://youtu.be/RFnRMgPMzpw]]|
+|05/14|[[上田さんがいなかった3か月の9055の全てを公開します！【上田さん/しんのすけ/月乃えるな/しえる/パンチャン/9055】【ぱんくん】>>https://youtu.be/WVFbzL45rdg]]|
+|05/15|[[これから半グレになる丸井まるにアドバイスをする犬億ロックとタクシー運転手のお話し【丸井まる/むさしまる/犬億ロック/ろっくちゃん/パンチャン/9055】【ぱんくん】>>https://youtu.be/bpqD-oXlyxQ]]|
+|05/16|[[ジャジャヴァと煽り合いのレースをするパンチャン【ジャンジャックヴァラン/霧島ジャック/パンチャン】【ぱんくん】>>https://youtu.be/YKyDMzYdsbQ]]|
+|05/17|[[丸井まると9055に残された僅かな時間を嚙みしめるパンチャン【丸井まる/むさしまる/パンチャン/9055】【ぱんくん】>>https://youtu.be/LwMJmUeGyRI]]|
+|05/18|[[9055を退職する丸井まるから素敵なお手紙とプレゼントを頂くパンチャン【丸井まる/むさしまる/パンチャン/9055】【ぱんくん】>>https://youtu.be/GYGaJD3PeRk]]|
+|05/19|[[半グレの相談をするも心構えが違いすぎる星ノみこｗｗｗ【星ノみこ/みーこ/パンチャン】【ぱんくん】>>https://youtu.be/96bT3xm8LaI]]|
+|05/20|[[車のアーマーを大量に作っていることが発覚し警察沙汰になてしまう9055【花沢まるん/marunnn/月乃えるな/しえる/丸井まる/むさしまる/パンチャン/9055】【ぱんくん】>>https://youtu.be/17a0hakk79g]]|
+|05/21|[[再び半グレになってしまったちのまるこに情報商材ビジネスを勧めるパンチャン【ちのまるこ/にごんご/パンチャン】【ぱんくん】>>https://youtu.be/VYs2zScBFNc]]|
+|05/22|[[アーマー大量作成事件について本気でえるなに怒られるパンチャン【月乃えるな/しえる/パンチャン/9055】【ぱんくん】>>https://youtu.be/RHOVs_E7gxc]]|
+|05/23|[[不信任投票の意思が固い救急隊の”何もなかった話”が面白すぎるｗｗｗ【雷堂ましろ/空衣御侍/小花衣ももみ/ももみ/命田守/夢咲刻夜/パンチャン】【ぱんくん】>>https://youtu.be/5ouG-as0dAs]]|
+|05/24|[[久しぶりにさとうと会ったらBJローンからお金を借りている債務者になっていた！【さとう/SUGAROCK/パンチャン】【ぱんくん】>>https://youtu.be/N6NgRXAV9wQ]]|
+|05/25|[[警察と闇落ちを8か月悩み続けるパンチャンの話をピンクフロガーの前で相談に乗る意地悪ばばあ【バーバリアン田中/たけぉ/パンチャン】【ぱんくん】>>https://youtu.be/cQ7yl8_dXvk]]|
+|05/26|[[BJローンからお金を借りたここなの連帯保証人になるパンチャン【牧田ここな/たここ/大川さん/bact/千代田ヨウ/ラムチョ/パンチャン】【ぱんくん】>>https://youtu.be/e7QKVYSqwO0]]|
+|05/27|[[丸井まるの身辺調査に来る三島みつーと過去の問題を暴露するパンチャン【三島みつー/みつき/パンチャン】【ぱんくん】>>https://youtu.be/E6B6rZyBPro]]|
+|05/28|[[半グレを調査するギャングの考えをまると一緒に考えるパンチャン【丸井まる/むさしまる/パンチャン】【ぱんくん】>>https://youtu.be/uv2AjAgJ1lI]]|
+|05/29|[[上田さんの借金を全額返済する取引を提案するも一瞬で崩れる信頼ｗｗｗ【上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/pz5XeksGBjU]]|
+|05/30|[[警察を目指している複数の理由を答えるパンチャン【月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/0osVy5yKahk]]|
+|05/31|[[ボイメキ問題を引き起こし大激怒された上田さんに一通の奇跡のメッセージが届くｗｗｗ【上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/6n6mAqrV-m0]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=464}
+#endregion(5月)
+#region(6月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|06/01|[[くまぽこに警察体験の相談して黒の勧誘をはねのける実績を作るパンチャン【くまぽこ/レイちゃん。/パンチャン】【ぱんくん】>>https://youtu.be/43mCgzIbbZA]]|
+|06/02|[[9055に個人医のクリニックを建て更なる発展を目指す！【久川たんぽぽ/めぐ/葛城司/Shiron/パンチャン】【ぱんくん】>>https://youtu.be/yA1pSe4VgWA]]|
+|06/03|[[ボイメキ破局を偶然知ってしまうパンチャンと誕生日にボイメキカーを用意する上田さん【キラメキーラ/煌イヴ/上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/YwfHDPXdHLU]]|
+|06/04|[[警察に書類が届いていない可能性が発覚してしまうパンチャン【悠えん/yue/緋赤まい/まいたけ/ボイラテンガリン/BOIRA/月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/lIuPTdWx-ig]]|
+|06/05|[[警察休暇中の犬上リオくんが9055に体験に来てくれたぞ～！【犬上リオ/Rio/9055/パンチャン】【ぱんくん】>>https://youtu.be/Qq23NEScvFk]]|
+|06/06|[[ストグラで警察を諦めないと本当に浪人生になってしまうことが確定するパンチャンｗｗｗ【月乃えるな/しえる/ロイマーチングナンバー/ニケ/パンチャン/9055】【ぱんくん】>>https://youtu.be/UT8jY003Eig]]|
+|06/07|[[白市民ジョブの考え方について荒みすぎてる件について【雷堂ましろ/空衣御侍/元難波芽久未/松村芽久未/朱雀愛未/朱雀ナナミ/ストグラ救急隊/パンチャン】【ぱんくん】>>https://youtu.be/nqEKuMH5tZI]]|
+|06/08|[[四五六確さんから不動産の就職方法を聞かれるパンチャン【三否定四五六確/梟雄しろや/ももみマルフォイ/小花衣ももみ/パンチャン】【ぱんくん】>>https://youtu.be/CM1XBazqpsU]]|
+|06/09|[[黒市民ではなく警察になったら出来る事を9055で話すパンチャン【悠えん/yue/北村ばなな/ばなな/久川たんぽぽ/めぐ/パンチャン】【ぱんくん】>>https://youtu.be/xHTIISdcTYo]]|
+|06/10|[[ジャックスがもしギャングをやるなら絶対に欲しいと話して口角が上がり続けるパンチャン【ブラックジャックス/あんない/バチ公/パーフェクト・ボンバー/猫又ぴぴ/ねおんぴ/パンチャン】>>https://youtu.be/a_SiOykNH38]]|
+|06/11|[[クラフト場大高騰で嘆く犯罪者に話を聞くパンチャンついでに大事件に巻き込まれるｗｗｗ【ジョーカー/せるふぃ/シュガーピーチ/桃雛なの/チンピラ/ぴらにあ/パンチャン】【ぱんくん】>>https://youtu.be/YJWCIUHBBik]]|
+|06/12|[[警察に合格する方法を救急隊に聞いたら”レアキャラ大作戦”というぶっ飛んだ方法を提案されるパンチャン【雷堂ましろ/空衣御侍/パンチャン】【ぱんくん】>>https://youtu.be/s729bSaHQi0]]|
+|06/13|[[3時瞑想後に警察官に緊急招集され餡ブレラ”ウェスカーさん”の街に来た目的を伝えられる住民たち【山田ジェイミー/山田ジェームス武/パンチャン】【ぱんくん】>>https://youtu.be/25imghr7PzA]]|
+|06/14|[[3ジョブ目を就職することを恐れている破滅さんにアドバイスをするパンチャン【奈落破滅/窓付き＠/パンチャン/9055】【ぱんくん】>>https://youtu.be/HtNs4s3iXN0]]|
+|06/15|[[街に居るホンモノを探す人体実験である事を伝えるパンチャン【月乃えるな/しえる/丸井まる/むさしまる/北村ばなな/ばなな/ルウギャラクティカ/玖兎音るう/パンチャン/9055】【ぱんくん】>>https://youtu.be/MJy1dvm0Bys]]|
+|06/16|[[ギャングと警察の違いについて餡ブレラ滅亡計画を通して学びを得るパンチャン【日之ぱちお/ぱちしゅう/冷泉ナデシコ/017/パンチャン】【ぱんくん】>>https://youtu.be/BKkVBU34sMA]]|
+|06/17|[[警察官と仲良くなるために新しい施策を考えるパンチャン【月乃えるな/しえる/パンチャン/9055】【ぱんくん】>>https://youtu.be/cJt6wtiiBaA]]|
+|06/18|[[二人の子供として生まれ変わり警察を目指す話をしたら優しい言葉で目頭を熱くさせるパンチャン【ブラックジャックス/あんない/丸井まる/むさしまる/パンチャン】【ぱんくん】>>https://youtu.be/9SLDcts9TiQ]]|
+|06/19|[[空高く飛べる薬をイベントで使うために合法化を目指す！【ジョーカー/せるふぃ/パンチャン】【ぱんくん】>>https://youtu.be/kSYipdo22Y8]]|
+|06/20|[[パンケーキ屋を開業したい上田さんの話がしつこすぎて爆笑するパンチャン【上田さん/しんのすけ/月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/N_GtuexxjsE]]|
+|06/21|[[色んな想いから取り引きしていなかった素材に再び手をかけるパンチャン【丸井まる/むさしまる/パンチャン】【ぱんくん】>>https://youtu.be/3uhotwIR3ms]]|
+|06/22|[[ギャングのアジトで構成員を轢き殺し問題を起こすパンチャン【ジャンジャックヴァラン/霧島ジャック/くまぽこ/レイちゃん。/パンチャン】【ぱんくん】>>https://youtu.be/0dlUz0chqHc]]|
+|06/23|[[ジャジャヴァ轢き殺し問題を即座に電話し謝罪するも全く解決の兆しが見えないパンチャン【ジャンジャックヴァラン/霧島ジャック/パンチャン】【ぱんくん】>>https://youtu.be/6MIc_lyXo7A]]|
+|06/24|[[白パス剝奪されジョブを2つにしないといけない上田さんの迫真の演技をみるｗｗｗ【上田さん/しんのすけ/味野環九郎/アジ吉/パンチャン】【ぱんくん】>>https://youtu.be/u2yVclW8Q-Q]]|
+|06/25|[[新規住民として街に来た”穴井げん”さん〇〇ないまとめ/9055椅子取りゲーム【穴井げん/あんない/月乃えるな/しえる/上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/MtSH4dFGbbQ]]|
+|06/26|[[最近の9055は街で評判が良いとましろ先生に聞かされる！【雷堂ましろ/空衣御侍/パンチャン】【ぱんくん】>>https://youtu.be/NDR6_mhpFnM]]|
+|06/27|[[警察への不満を引き出させるために無理やり警察不合格の話題を振ってくるばばあ【バーバリアン田中/たけぉ/味野環九郎/アジ吉/Bボタン/Aボタン/パンチャン】【ぱんくん】>>https://youtu.be/XYD9ZinM020]]|
+|06/28|[[新しいガチャ”ことばあそび”の試作品をももみ先生とさぶ郎に試してもらう！【ももみ/小花衣ももみ/安保さぶ郎/さぶ郎。/月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/7bz9lQOvmvU]]|
+|06/29|[[上田さんが原因でサウ汰がビルから飛び降りた話を聞かされる【上田さん/しんのすけ/月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/Wi2T9G3Z5sk]]|
+|06/30|[[上田さんとの関係をサウ汰に直接聞いたら優しすぎる返答に無線で怒りを露にしてしまうパンチャン【星唄サウ汰/天唄サウ/こさ猫二郎/こっさり/上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/_u38iZoPPDo]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=495}
+#endregion(6月)
+#region(7月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|07/01|[[ひらがなガチャが大流行で大型の応援に行かない警察官までいたらしいｗｗｗ【安保さぶ郎/さぶ郎。/犬上リオ/Rio/真島ルイ/魔光リサ/パンチャン】>>https://youtu.be/q3OUbLrn0RU]]|
+|07/02|[[交流の鍵を星ノみこから聞き犯罪者になる計画を9055で話すパンチャン【星ノみこ/みーこ/丸井まる/むさしまる/月乃えるな/しえる/こっさり/こさ猫二郎/パンチャン】>>https://youtu.be/wX-F1Sfvz7A]]|
+|07/03|[[実際に黒市民はどんな生活なのか上田さんに聞く【丸井まる/むさしまる/上田さん/しんのすけ/パンチャン】>>https://www.youtube.com/watch?v=RiD-xIm2rng]]|
+|07/04|[[黒市民になる理由に矛盾がありすぎて頭がおかしいと言われるパンチャン【光乃あびす/闇乃あびす/くまぽこ/レイちゃん。/パンチャン】【ぱんくん】>>https://youtu.be/e3qWWwjY3hQ]]|
+|07/05|[[砂漠署VSまだら組の抗争をvip席で見る9055社員/人違いで気まずい空気が流れる【月乃えるな/しえる/パンチャン/9055/】>>https://youtu.be/PcO40HwYobE]]|
+|07/06|[[白市民が犯罪者になることの重さと戻ることの難しさを聞くパンチャン【星ノみこ/みーこ/パンチャン】>>https://www.youtube.com/watch?v=Lyn5F5UyOks]]|
+|07/07|[[ここなの熱い言葉に気持ちが爆発してしまうパンチャンｗｗｗ【牧田ここな/たここ/パンチャン】【ぱんくん】>>https://youtu.be/OgGXCdFgKfA]]|
+|07/08|[[不動産の物件内に隠された”とある物”を巡って事件に巻き込まれるパンチャン【ゆたんぽ/未空あいす/田中はじめ/ラムチョ/ロボジャックス/あんない/パンチャン】【ぱんくん】>>https://youtu.be/m7-qVq7CqqA]]|
+|07/09|[[不動産を巡りロボジャックスに誘拐されるパンチャン【ロボジャックス/あんない/ゆたんぽ/未空あいす/パンチャン】【ぱんくん】>>https://youtu.be/t0JJUOn_Oq4]]|
+|07/10|[[街での生き方に悩む住民の話を聞くパンチャン【バチ公/パーフェクト・ボンバー/パンチャン】【ぱんくん】>>https://youtu.be/y2zX0QZsj_Y]]|
+|07/11|[[解き放たれた上田さんから犯罪者として生きる日々のアドバイスを再び貰うパンチャン【上田さん/しんのすけ/パンチャン】>>https://youtu.be/j2U9IZoDL8M]]|
+|07/12|[[9055を退職を考えていることをえるなに報告するパンチャン【月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/BbbBNKJGz_M]]|
+|07/13|[[9055の現状を猫ノ宮ひなさんと話すパンチャン【猫ノ宮ひな/猫宮ひなた/パンチャン】【ぱんくん】>>https://youtu.be/8VjNRyzKdTI]]|
+|07/14|[[同僚二人の闇落ちを経て9055の向かう先を定める社員/一筋の光が差す【月乃えるな/しえる/上田さん/しんのすけ/奈落破滅/...>>https://youtu.be/2T6rT3t-JG0]]|
+|07/17|[[ギャングに対して八方美人になっているまるの相談に乗るパンチャン【丸井まる/むさしまる/パンチャン】【ぱんくん】>>https://youtu.be/M8W44cv2-wA]]|
+|07/18|[[悩み続けるパンチャンに再び今の気持ちを聞くも何故か意味不明な話し合いになってしまうｗｗｗ【月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/5u2yXpzddrM]]|
+|07/19|[[半グレ生活を考えていた事を救急隊に打ち明けるパンチャン【雷堂ましろ/空衣御侍/ももみ/小花衣ももみ/パンチャン】【ぱんくん】>>https://youtu.be/FJ4tFNLhFUc]]|
+|07/20|[[新しいメカニックを建てる穴井ゲンのお話しとチルじゃない理想の街とは...【穴井ゲン/あんない/パンチャン】【ぱんくん】>>https://youtu.be/p2VWSa9IF6s]]|
+|07/21|[[ギャンボスに詰められていたギャルの話を聞きとある人を思い出すパンチャン【ひのちゃむ/夏河ひのり/パンチャン】【ぱんくん】>>https://youtu.be/CpGfgGa0JkQ]]|
+|07/22|[[ましろ先生からサプレッサーをクラフトして欲しいとお願いをされるパンチャン【雷堂ましろ/空衣御侍/ロボジャックス/あんない/パンチャン】>>https://youtu.be/aOWIDfLs8XE]]|
+|07/23|[[個人医に就職したみこさんから報告を受けるパンチャン【星ノみこ/みーこ/パンチャン】【ぱんくん】>>https://youtu.be/uc66AAUlT8k]]|
+|07/24|[[警察志望の新規住民が9055で体験していたので話を聞くパンチャン【羽津ピオコ/羽流ぴょこ/黒桜ローレン/海沼流星/パンチャン】【ぱんくん】>>https://youtu.be/YFNIxc8qSdM]]|
+|07/25|[[9055に過剰請求を行う従業員が働いてる事で苦情が来る！【ライジングサン宗介/理事さん/くまぽこ/レイちゃん。/穴井ゲン/あんない/パンチャン】>>https://youtu.be/fi_bOF5MkFs?si=2MYUxLnUGvUYsWfb]]|
+|07/26|[[ジャックスが人間に戻っていて驚きを隠せないパンチャン【豆やん/豆腐ちゃん/ブラックジャックス/あんない/パンチャン】【ぱんくん】>>https://youtu.be/IeDhRcZJB3o?si=_Hn_Gf3H5Qx_KqCB]]|
+|07/27|[[9055の闇落ち問題を調査する警察官に警察にならないかと聞かれおかしくなるパンチャン【奈落破滅/窓付き。/竹井勝痔/しょうじ/ボイラテンガリン>>https://youtu.be/v6P-O6ZDJu4?si=T1Xn7BmVElvYbHzm]]|
+|07/28|[[奈落の闇落ちについて極端な回答を出すパンチャン【月乃えるな/しえる/こさ猫二郎/こっさり/パンチャン】【ぱんくん】>>https://youtu.be/8PwLkD4BtAQ?si=r1GZ6stHMEHfT_2i]]|
+|07/29|[[犯罪に興味を持ち始めた奈落に直接今の気持ちを聞く9055社員【奈落破滅/窓付き/月乃えるな/しえる/こさ猫二郎/こっさり/パンチャン】【ぱんくん】>>https://youtu.be/J4RtwwJjI78?si=0BVW50Dfu7lQTHh3]]|
+|07/30|[[遂に9055の社長と従業員が免許停止になりました！【月乃えるな/しえる/上田さん/しんのすけ/竹井勝痔/しょうじ/パンチャン】【ぱんくん】>>https://youtu.be/86ynCefDVS4?si=qqfGNjuFdQKbcEol]]|
+|07/31|[[同僚の猫に飛行機に乗ろうとしていることを通報されるパンチャン【こさ猫二郎/こっさり/シオコリコ/しおこうじ/9055/パンチャン】【ぱんくん】>>https://youtu.be/ok3Rb0GN02Q?si=vsg-be_sZ8PTLM5B]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=525}
+#endregion(7月)
+#region(8月)
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|08/01|[[違反者講習の先生が罪を逃れたえるな社長で不愉快すぎるｗｗｗ【月乃えるな/しえる/上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/9-aqaQ9IhJI?si=dUAzAydcpDRhADEO]]|
+|08/02|[[猫ノ宮ひなを9055に再び勧誘するパンチャンと別れの挨拶が定まらない二人【猫ノ宮ひな/猫宮ひなた/9055 /パンチャン】【ぱんくん】>>https://youtu.be/nijH09FE3MQ?si=640yxcNjd31vk-l5]]|
+|08/03|[[破滅が黒の繋がりに関して何故焦っているように見えるのかを考える社員【奈落破滅/窓付き@/月乃えるな/しえる/久川たんぽぽ/めぐ/9055/パンチャン】>>https://youtu.be/lV4GVDLUUOE?si=eZgfdTDecmkkmzoE]]|
+|08/04|[[こみ蔵さんから9055に入社するか悩んでいる人が居るという話を聞くパンチャン【岐阜野こみ蔵/岐阜のこみちん/9055/パンチャン】【ぱんくん】>>https://youtu.be/FiDkXgo-GHw?si=MDG7n5SMo_0t78Nk]]|
+|08/05|[[街ですれ違うたびに誘っていたたいたいがようやく社員になりました！【捌木たいたい/たいたい/月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/JXbzcGpisoU?si=ZZoHbsOKhdx8ynnA]]|
+|08/06|[[犯罪で扱うギミックを導入したアトラクション施設を運営したいパンチャン【猪狩翔太/きんち/パンチャン】【ぱんくん】>>https://youtu.be/YRx1_7jqvDA?si=xoOKVlZ5H-RyNlHJ]]|
+|08/07|[[波乱万丈な生活を送る上田さんの爆発と負債まとめ【上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/k-LrORbE8jw?si=HSsEQr631fuVoI8x]]|
+|08/08|[[個人医を目指すダミチェルの悩みを聞くパンチャン【ダミチェル/紫翠みちる/9055/パンチャン】【ぱんくん】>>https://youtu.be/XgHpyDyqOKM?si=Vn0CqRdQ9rwFI9Ka]]|
+|08/09|[[久しぶりに起きてきた羽山ペティを宣伝大使だと決めつけるパンチャン【羽山ペティ/栗山やんみ/パンチャン】【ぱんくん】>>https://youtu.be/iogbU5Dv8t4?si=cp6OvsFXZ_tz9CCA]]|
+|08/10|[[知らない間に上田さんが作るギャングの構成員になっていた住民たち【上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/_VEthhyfNLo?si=8pmQx2eb-oz6mefb]]|
+|08/11|[[ここなから遠回しに上田さんの組織に誘われるパンチャン【牧田ここな/たここ/パンチャン】【ぱんくん】>>https://youtu.be/Y48DLpAJ_yQ?si=1dXK3kqLr2j3Tgc_]]|
+|08/12|[[上田ギャングに本気で勧誘してくる上田さんに警察に対する想いをぶちまけるパンチャン【上田さん/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/6M_2rnZlF88?si=GDX4YTYnjKT88SGD]]|
+|08/13|[[出張修理中にちょきが薬を飲まされてしまった件について話すパンチャン【月乃えるな/しえる/わおんちょき/遠吠きゃんゆちゃめろでぃ/ゆちゃむ/>>https://youtu.be/8XiMVwDtOh4?si=b5AdZDLiU33On0xf]]|
+|08/14|[[ちゅにさんをカマにかけて新しいメカニックに引き抜かれていたことを知るパンチャン【三ッ星ちゅに/永レ星みーしゅ/パンチャン】【ぱんくん】>>https://youtu.be/cx9Cst9LpTQ?si=vnxJrf4dZ48pQCdQ]]|
+|08/15|[[近藤さん退職！三ッ星ちゅにを勧誘していた件について詰めるパンチャン【近藤武蔵/水無月ひいろ/月乃えるな/しえる/ロイマーチングナンバー/>>https://youtu.be/BzlT87aPFmQ?si=eDf9PVFcr-OFFu3i]]|
+|08/16|[[犯罪者になる決心がついた破滅と話すパンチャン【奈落破滅/窓付き/9055/パンチャン】【ぱんくん】>>https://youtu.be/E6Xs_DE3S7I?si=98zXpMpo9NqwgqIw]]|
+|08/17|[[再び謁見の間で上田ギャングに勧誘され警察の人事には問題があると伝えられるパンチャン【上田さん/しんのすけ/穴井ゲン/あんない/キャプテンわきを>>https://youtu.be/CC8t6WPQUrw?si=IJCIAFP_LNe9PYey]]|
+|08/18|[[最速の借金返済と名前が変わってしまった上田さん【クルード/しんのすけ/パンチャン】【ぱんくん】>>https://youtu.be/MdjiLQg0Abs?si=h1Qd9PQMCkOxieCD]]|
+|08/19|[[まいくんと9055の現状について話をするパンチャン【緋赤まい/まいたけ/9055/パンチャン】【ぱんくん】>>https://youtu.be/TkafmFNblOU?si=kVJOTOSL2_G9zs70]]|
+|08/20|[[FOGで働くことを決めたちゅにに近藤さんに伝えたことがバレるパンチャン【三ッ星ちゅに/永レ星みーしゅ/パンチャン】【ぱんくん】>>https://youtu.be/tRwtUIOnawQ?si=jUa_wR1NiWcsp-tv]]|
+|08/21|[[9055からFOGの従業員が大量に出ていることを心配する救急隊【雷堂ましろ/空衣御侍/命田守/夢咲刻夜/パンチャン】【ぱんくん】>>https://youtu.be/-sszjxH2tpw?si=LEVtt4e3-y0VIGKP]]|
+|08/22|[[FOGの一件で9055強火の丸井まると話すパンチャン【丸井まる/むさしまる/パンチャン】【ぱんくん】>>https://youtu.be/3Wc7Aq2GxQM?si=zLybDsJa26HeTkNG]]|
+|08/23|[[上田ギャングに誘われたことについて問い詰められるパンチャン【ロイマーチングナンバー/ニケ/月乃えるな/しえる/パンチャン】【ぱんくん】>>https://youtu.be/gBkxkb80f3E?si=VSx9r69L1VrywvD2]]|
+|08/24|[[街で広まるFOGの引き抜きの噂について真剣にここなと話すパンチャン【牧田ここな/たここ/パンチャン】【ぱんくん】>>https://youtu.be/ZD-qYuSmZOo?si=-J5xM9-bLu8scYb8]]|
+|08/25|[[上田さんの暴走についてあびすさんと話すパンチャン【光乃あびす/闇乃あびす/パンチャン】【ぱんくん】>>https://youtu.be/g1ethYL0yeU?si=5UncXFtHo57lPIdv]]|
+|08/27|[[元PYC従業員にFOGに対する想いを聞いてみるパンチャン【もなぴ/あずもな/ももみ/小花衣ももみ/切間てつお/切嘛/パンチャン】【ぱんくん】>>https://youtu.be/KFk1w92C5LM?si=gMvkYk00qFF77wuB]]|
+|08/28|[[9055の現状を心配するばなな/社宅の鍵を剥奪され不安になるまいくん【北村ばなな/ばなな/緋赤まい/まいたけ/パンチャン】【ぱんくん】>>https://youtu.be/fOBRUXjPpyQ?si=eJmr25kr25mcfbfR]]|
+|08/29|[[穴井さんとバチバチ会議をした後のえるなから共有を受ける9055社員【月乃えるな/しえる/9055/パンチャン】【ぱんくん】>>https://youtu.be/hxJy0oAzpw4?si=X7vKjMgdrNfiVWhu]]|
+|08/30|[[FOGを営業停止に追い込む大作戦を警察に共有したらドン引きされてしまうパンチャン【味野環九郎/アジ吉/こさ猫二郎/こっさり/9055/パンチャン】>>https://youtu.be/srXlFrBM6VM?si=W0mZzonuNVBZSO-6]]|
+|08/31|[[上田ギャングをぼろくそに言うももみが面白すぎるｗｗｗ【ももみ/小花衣ももみ/パンチャン】【ぱんくん】>>https://youtu.be/ctbW7E1aTG0?si=xAlQTS2h2OZfQURy]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=554}
+#endregion(8月)
+#region(9月)9月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|09/01|[[3か月ぶりに起きたパキッちンとFOGについて話す！【パキち/ベルモナ/パンチャン】【ぱんくん】>>https://youtu.be/erxuQJi0nao?si=I0ycoo7JkkKRY2oA]]|
+|09/02|[[FOGを知らない従業員に話を共有中に穴井に言われた名言に爆笑するわおんちょき【わおんちょき/遠吠きゃん/月乃えるな/しえる/こさ猫二郎/こっさり>>https://youtu.be/CgzZuww_8W0?si=dPqP6QfH5C7WQF59]]|
+|09/03|[[とある容疑をかけられて謁見の間に呼び出されるパンチャン【キャプテンわきを/わきを/上田さん/しんのすけ/ライジングサン宗介/理事さん/穴井ゲン>>https://youtu.be/apQUaFechFI?si=aYuYTjMqIE19xUyL]]|
+|09/04|[[IDカードでカードゲームを考案していたら大問題になってた件について【ボイラテンガリン/BOIRA/味野環九郎/アジ吉/丸井まる/むさしまる/9055/>>https://youtu.be/OJdjHL4-Z68?si=v8aztvCfwC28CIYe]]|
+|~|[[私文書偽造罪に問われるのかを裁判官を交えて警察署で話すパンチャン【味野環九郎/アジ吉/葛城司/Shiron/ボイラテンガリン/BOIRA/9055/パンチャン>>https://youtu.be/Y0eDvfzh_0Y?si=fNB6swiF9FiPfSzs]]|
+|~|[[警察と葛城さんで審議中終始舐めた態度を取るパンチャン【月乃えるな/しえる/味野環九郎/アジ吉/ボイラテンガリン/BOIRA/9055/パンチャン】>>https://youtu.be/5fTRm-IsUtE?si=8asPNmzy0-DOHW1Y]]|
+|09/05|[[逆転の発想で警察になれる可能性が高くなったと興奮するパンチャン【月乃えるな/しえる/丸井まる/わおんちょき/遠吠きゃん/9055/パンチャン】>>https://youtu.be/bueP853MtKM?si=rLRQO2CldJwdSyRa]]|
+|09/06|[[お尻に付けられたC4爆弾を解除するためにメリケンサックを探すパンチャン【丘猫まる/宙星ぱる/聖母れりあ/聖女れりあ/パンチャン】>>https://youtu.be/JkJhdqj5Z_Y?si=dngcw9LY_iGCpJ8b]]|
+|09/07|[[玉座の王様に例のブツを届けるパンチャン【上田さん/しんのすけ/穴井ゲン/あんない/ライジングサン宗介/理事さん/キャプテンわきを/わきを/風見セオ>>https://youtu.be/a4rq10OklkE?si=sHYzxeijqsqoGxow]]|
+|09/08|[[9055から再び退職者が！？二人の覚悟を聞く社員！【奈落破滅/窓付き@/茶担えり/エリーサタン/9055/パンチャン】>>https://youtu.be/kyNQLkK3Kos?si=kDeWRusHn0xkKItH]]|
+|09/09|[[9055の退職者多い事について悩む社員の話を聞くパンチャン【わおんちょき/遠吠きゃん/9055/パンチャン】>>https://youtu.be/Qb-_OcADIFI?si=6aJhT8IzruzsFDJe]]|
+|09/10|[[上田ギャングと抗争をする日程を決めるだけでも何かが起きる街【上田さん/しんのすけ/9055/パンチャン】>>https://youtu.be/UpW6V7zZMaw?si=qqMtzULsDJnw0u_k]]|
+|09/11|[[抗争を仕掛ける側がメカニック会議とブッキングする大事件発生で混乱する9055【上田さん/しんのすけ/月乃えるな/しえる/9055/パンチャン】>>https://youtu.be/Z6WX2tXW8C4?si=PxY7XvsW7OyeFJdw]]|
+|09/12|[[破壊神になったここなから9055に報告があるらしい！【牧田ここな/たここ/9055/パンチャン】>>https://youtu.be/8LsWgJaH3UQ?si=wst58xYdxrkHfnfV]]|
+|09/13|[[闇落ちしてから姿を現さなくなったばななに話を聞いてみよう！【北村ばなな/ばなな/丸井まる/むさしまる/こさ猫二郎/こっさり/9055/パンチャン】>>https://youtu.be/G7dzdUQm5a8?si=EBP8dFT6ukuwVvMn]]|
+|09/14|[[ギャングボスとしての在り方を改心する上田さんの話を聞くパンチャン【上田さん/しんのすけ/パンチャン】>>https://youtu.be/aQQKWH4oPFc?si=HpPKkCocjlKs5Lxh]]|
+|09/15|[[同期になるはずだったアジカンと自分を比べておかしくなるパンチャン【捌木たいたい/たいたい/こさ猫二郎/こっさり/ロイマーチングナンバー/ニケ/葛城司/Shiron/9055】>>https://youtu.be/YorACddFmvw?si=ZS6NkmNDKJUYdlEi]]|
+|09/16|[[他メカニックの体験を引き抜こうとして頭が真っ白になるパンチャン【月乃えるな/しえる/こさ猫二郎/こっさり/レイジールードマン/遠田翔平/9055/パンチャン】>>https://youtu.be/kyqSRtnvgpI?si=y0d2q3k3Az5I84Kk]]|
+|09/17|[[罪を被り白パス剥奪を逃れようとする作戦を考える丸井まる【丸井まる/むさしまる/月乃えるな/しえる/9055/パンチャン】>>https://youtu.be/cwzMI2sUcaE?si=1BRZOQGDuPGvDXZ5]]|
+|09/18|[[マクドナルドが実況するボートレースのヘリ操縦士を任されるパンチャン【マクドナルド/ライト/パンチャン】>>https://youtu.be/xJEb_IxEmC8?si=hRicafV9kDoAY6cN]]|
+|09/19|[[上田ギャングと9055で抗争をして真の目的を聞く社員【上田さん/しんのすけ/穴井ゲン/あんない/月乃えるな/しえる/9055/パンチャン】>>https://youtu.be/35RlXG6xtPw?si=82Ve7IQVShObE59r]]|
+|09/20|[[私文書偽装に関する裁判で恥ずかしいIDカードが大量に読み上げられる【味野環九朗/アジ吉/ボイラテンガリン/BOIRA/月乃えるな/しえる/葛城司/Shiron/パンチャン】>>https://youtu.be/x8BGkIsRiXs?si=b_g3kNphQuzBliIC]]|
+|09/21|[[裁判の判決が言い渡されるパンチャン【ボイラテンガリン/BOIRA/味野環九朗/アジ吉/月乃えるな/しえる/葛城司/Shiron/パンチャン】>>https://youtu.be/Nrxyx0EaySU?si=EbyKhH8zU0o8t5Dm]]|
+|09/22|[[混沌とした街で蘇生キットを大量に使い活躍するパンチャン【ももみ/小花衣ももみ/月乃えるな/しえる/パンチャン】>>https://youtu.be/9tqma7Imx5Y?si=IwP87SndkGvu0DYB]]|
+|09/23|[[かどくんに9055が体験ジョブである理由を伝えるパンチャン【よすみのかど/かど/猫ノ宮ひな/猫宮ひなた/パンチャン】>>https://youtu.be/ge91cOYi-cc?si=VKjDro2apMsUGgX_]]|
+|09/24|[[SKEで裁判の出来事を伝えるパンチャン【羽山ペティ/栗山やんみ/パンチャン】>>https://youtu.be/SovxcfZSbas?si=rPyLiJxNWBaubGwD]]|
+|09/25|[[E5の行列を見て飲食店の在り方を考えるパンチャンとハゲバーガー勝手に作ってみた！【ボイラテンガリン/BOIRA/猫ノ宮ひな/猫宮ひなた/パンチャン】>>https://youtu.be/oEM-DM7Q5J4?si=SFECPPjJw92iY-E0]]|
+|09/26|[[今だから話せるFOGの話を聞いてきたもなぴとルウさんについて話す！【小豆最中/あずもな/パンチャン】>>https://youtu.be/2fY5_iVSpho?si=z9_zii66JQS_w7KB]]|
+|09/27|[[破滅の覚悟を聞くも絶妙に空気が読めていないアドバイスを続けるパンチャン【奈落破滅/窓付き/パンチャン】>>https://youtu.be/Ohsmoxqz1gk?si=0FImLdjBLoX1mtsN]]|
+|09/28|[[来世は恐れずにRPしたい気持ちを滅亡前夜の自販機中に話すパンチャン【月乃えるな/しえる/こさ猫二郎/こっさり/パンチャン】>>https://youtu.be/E4nzaXogXVw?si=8DC0Q89NI4GU_a1Y]]|
+|09/29|[[ダークかなに自販機の運転をさせぶっ飛びカードに大興奮な9055社員【ダークかな/？？？/月乃えるな/しえる/こさ猫二郎/こっさり/パンチャン】>>https://youtu.be/w6Ajj1oZEeQ?si=04EVI3jv_9pIYPH-]]|
+|09/30|[[みんなで学ぶロスサントス刑法！【葛城司/Shiron/パンチャン】>>https://youtu.be/w5XAoJj5YC4?si=q_USk8Cj6Cjrnk48]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=584}
+#endregion(9月)
+#region(10月)10月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|10/01|[[ピエロでおかしくなった住民を想うましろ先生と話す【雷堂ましろ/空衣御侍/パンチャン】>>https://youtu.be/PFEPe3deY7I?si=VbkOmZuwHy3cmBfF]]|
+|10/02|[[裁判の前に不動産を自主退職するパンチャン【ももみ/小花衣ももみ/パンチャン】>>https://youtu.be/e-a7z5J3L9g?si=oAmNhyIoI7z2Hiyc]]|
+|10/03|[[転送前最後に思い出の車でレースをするレーサー達！【飯田けんつ/けんつめし/パンチャン】【ぱんくん】>>https://youtu.be/s1Db3cvW57k?si=CE3FSrOD6ogBZ4QH]]|
+|10/04|[[転送先で不動産を続けるのかを問われるパンチャン【ももみ/小花衣ももみ/パンチャン】>>https://youtu.be/HfRHYrJe4l8?si=oxRspdXoWevh5hmZ]]|
+|10/05|[[転送前夜に訪問客がいるらしい！【トラ雄/あしさんり/パンチャン】>>https://youtu.be/FfEo5Ts5iXw?si=uWPVxSu5vKNNw9Ld]]|
+|10/06|[[シーズン1最終日にピエロの襲撃と共に強烈な睡魔に襲われて寝落ちするパンチャン【奈落破滅/窓付き/パンチャン】>>https://youtu.be/JmGKZDVryMs?si=lB8yPRfhyAk3Pcb8]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=616}
+#endregion(10月)
+#endregion(2025)
+
+//---------------------------------------------------------------------------------------
+#div(width=330px,bgcolor=#FFFF5E){&font(16px,b,#cccccc){&space()Season2}}
+#region(2025)2025
+#region(12月)12月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|12/20|[[変わりすぎてる新エリアと何も変わってない9055>>https://youtu.be/wqJVvzAxjeE?si=-gLdKqGXaoEVGa52]]|
+|12/22|[[転送早々レギオンで大暴れをするダークパンチャンｗｗｗ>>https://youtu.be/OwwIYTx_D64?si=B1GiyZUSM3zVYRIx]]|
+|12/26|[[シーズン2でも〇〇に再就職！ももみ先生から電話が来たよ！>>https://youtu.be/wSKudDEg6mA?si=Y-Gb5Y8a1lxh1oxX]]|
+|12/27|[[メカニックがJTSのみアイコンが存在して頭を悩ませる9055>>https://youtu.be/VRQAVb7vAfA?si=HOmF-_9QzI7aEplR]]|
+|12/28|[[9055再建に向けて場所や時期を市長に直談判しに行く社長たち！>>https://youtu.be/1MJS1AUdu6Q?si=8VDQMq1lDoZVS6KD]]|
+|12/29|[[うさぎさんとシーズン2の物件やハウジングの話で大盛り上がり！>>https://youtu.be/qVWRmJCi7Kw?si=JDCZ-G9ux4CNVWM0]]|
+|12/30|[[引っ越し手続きをして2分で再度引っ越しをするよすみのかど>>https://youtu.be/1Qlbdd-Aw4Y?si=z3Db7Lqu_GcmBRty]]|
+|12/31|[[街が始まって2日でレギオンで大爆発を起こしてユニオンと勘違いさせるパンチャン>>https://youtu.be/BxQ66LtPH5w?si=5XkXMvoK5C5qjsCC]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=1}
+#endregion(12月)
+#endregion(2025)
+//
+#region(2026,open)2026
+#region(1月)1月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|01/01|[[メカニックのカスタム価格会議に参加するパンチャン>>https://youtu.be/4zkuPv1yTco?si=NCprfi2eZlMVA1Yb]]|
+|01/02|[[集めた素材の管理に困るシーズン1で素材屋をしていた人たち>>https://youtu.be/_z-_tvHEul8?si=o1HeUdXYnRrw1mLE]]|
+|01/03|[[ロスランド再建に向けてキッチンを借りる相談をするパンチャン>>https://youtu.be/3ovcC5kdUBo?si=ijfwXXw3UOGPXXjK]]|
+|01/04|[[パンチャンの人生が終わる瞬間！>>https://youtu.be/dcndH2G46K8?si=ianc4vcRSJZ-0jJb]]|
+|01/05|[[労働力に囚われた住民！>>https://youtu.be/u8SMC9xTZdE?si=kAdtTVVICrV-RpIG]]|
+|01/06|[[ネジは誰が求めるのか！？新しい素材に手をかけ最先端を目指そう！>>https://youtu.be/tU6xLFjuCgA?si=dEe01ib5dRJ-ci76]]|
+|01/07|[[転送後も変わらず白市民と黒市民で生きる悩みを聞く>>https://youtu.be/asq1td_U84c?si=ubyPAF-fVhLdkpj8]]|
+|01/09|[[転送されても借金をすぐに作ってしまう上田さんと話す>>https://youtu.be/McY8vtJPDLw?si=QDiRoDvS_dflY8oS]]|
+|01/10|[[メカニック候補地に悩む社員！>>https://youtu.be/qg1fFDVvbog?si=5HCv8NKKwOTttixd]]|
+|01/11|[[不動産から新ジョブ〇〇が追加される話をももみ先生から伝えられわくわくが止まらない！>>https://youtu.be/u7GiBRzd5zc?si=vMMtJQy6hEX8e6uV]]|
+|01/12|[[メカニック新情報!?好立地ほど条件が厳しくなる！9055レギオン大会議だ！>>https://youtu.be/v_QhfFlK2kA?si=EcRdDOYy16eYeQaD]]|
+|01/13|[[コンビニ強盗で立場が逆転するパンチャン>>https://youtu.be/6Ah12ek5khg?si=AKHATMmrHWDq5W_q]]|
+|01/14|[[メカニック会議にはほんの少しだけ続きがあった！#番外編>>https://youtu.be/ic1skuyb0cE?si=t30SXXZrLO_THLgE]]|
+|01/15|[[ジャジャヴァを煽って送ってもらう動画です！>>https://www.youtube.com/watch?v=AoZagmHxeWI]]|
+|01/16|[[銀行強盗中のトラブルをばーばに相談したらとんでもない回答が帰ってきたｗｗｗ>>https://www.youtube.com/watch?v=HHTeJ9WFas8]]|
+|01/17|[[紙袋を30万円で販売するけんつさんの押し負けるパンチャン>>https://www.youtube.com/watch?v=sN09UDC1VdA]]|
+|01/18|[[車を破壊する化け物になってしまい陰陽師すら見放す事態に!？>>https://www.youtube.com/watch?v=gwSrr5eNjyE]]|
+|01/19|[[新しいメカニックを建てるため候補地を決め市長と話す元9055社員！>>https://www.youtube.com/watch?v=f01dA3_GiU4]]|
+|01/20|[[タラちゃんからの解放条件を飲めないアジカンに爆笑する犯罪者ｗｗｗ>>https://www.youtube.com/watch?v=2GNcqKxGfZo]]|
+|01/21|[[現状のストグラ警察が辛すぎる現実を目の当たりにするパンチャンｗｗｗ>>https://www.youtube.com/watch?v=40gRYWn--wQ]]|
+|01/22|[[新しいメカニックの候補地が最高過ぎる！>>https://www.youtube.com/watch?v=3CvulkCxodQ]]|
+|01/23|[[メカニック設立前最後の市長面談に行く！>>https://www.youtube.com/watch?v=b7rkzeB5DZo]]|
+|01/24|[[早くも闇落ちか!?9055転送後初の退職者が出てしまう...⁉>>https://www.youtube.com/watch?v=D9LkEvFtStg]]|
+|01/25|[[怪しい薬の売人と新クラフトに繋がる情報を教えてもらう！>>https://www.youtube.com/watch?v=qSILDnfAy48]]|
+|01/26|[[砂漠の奥底にある怪しいクラフト場に辿り着くパンチャン>>https://www.youtube.com/watch?v=DBHS9lWa-Ak]]|
+|01/27|[[道路交通法だけで大量の警察官に囲まれるパンチャン>>https://www.youtube.com/watch?v=sk1PLi8-2fY]]|
+|01/28|[[絶妙な距離感でリサセントークをする3人！>>https://www.youtube.com/watch?v=3Xj9E2qpBBg]]|
+|01/29|[[市長面談前日に緊急会議を行う元9055社員！>>https://www.youtube.com/watch?v=MWaafNDq9Bc]]|
+|01/30|[[警察から4500万の仕事が舞い込んでくるパンチャンと奇跡の伏線回収！>>https://www.youtube.com/watch?v=Ur0py28rEH4]]|
+|01/31|[[初めましての相手にSNSで交流した人になりすまして話を進めるパンチャン>>https://www.youtube.com/watch?v=OrMVdcIRQkY]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=9}
+#endregion(1月)
+//
+#region(2月)2月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|02/01|[[わんもーcafeの実態を調査するパンチャン>>https://www.youtube.com/watch?v=aHTsVUZSUs4]]|
+|02/02|[[警察体験で使用する動画クリエイターコンペに参加するパンチャン！>>https://www.youtube.com/watch?v=e_A-RD51MGM]]|
+|02/03|[[上田さんの会見中にひたすらふざけるパンチャンとダジャレを言い続ける9055社員>>https://www.youtube.com/watch?v=t9VbNy-RUi8]]|
+|02/04|[[砂漠のクラフト場を見張る警察官の存在と素材を揺るがす警察官のお話し>>https://www.youtube.com/watch?v=vowJhZ0e5x0]]|
+|02/05|[[メカニックがなかなか建てられず悶々として暴走する9055社員ｗｗｗ>>https://www.youtube.com/watch?v=VPdvPKhenI4]]|
+|02/06|[[上田さんの1600万を巡って起きる街の物語！>>https://www.youtube.com/watch?v=E-7A-ATQxes]]|
+|02/07|[[クラフト場張り込み事件の対策として犯罪用〇〇を大量生産することで捜査を錯乱させる考えを共有するパンチャン>>https://www.youtube.com/watch?v=PnQGzop-eYI]]|
+|02/08|[[警察体験動画についてばばあと相談するパンチャン>>https://www.youtube.com/watch?v=v6VCQh1RAUw]]|
+|02/09|[[新規住民を勧誘するも少し乗り気で逆に困るパンチャン>>https://www.youtube.com/watch?v=lhaN9XCfA24]]|
+|02/10|[[救急隊を目指しているくしゅりさんに警察を応援されるパンチャンｗｗｗ>>https://www.youtube.com/watch?v=n0Ak0NgFw-E]]|
+|02/11|[[ハンバーガー屋の現状を調査したら口コミ担当に任命されたｗｗｗ>>https://www.youtube.com/watch?v=-3Scmi07DYw]]|
+|02/12|[[警察体験動画のロケ地をバーバリアン田中と探すパンチャン！>>https://www.youtube.com/watch?v=fkBoSJnn1LQ]]|
+|02/13|[[不動産の販売開始！？社名が決まって遂に本格的に指導する！>>https://www.youtube.com/watch?v=9oeQMlZUiMs]]|
+|02/14|[[遂にメカニックの設立許可が下りる9055社員！>>https://www.youtube.com/watch?v=qgYCw8pzJ5s]]|
+|02/15|[[ローンや土地代！不動産販売開始30分前に会議をする！>>https://www.youtube.com/watch?v=5PFJnzsm2Zg]]|
+|02/16|[[仮想通貨”LvCOIN”が大暴落!?いち早く不動産営業を始めるパンチャン>>https://www.youtube.com/watch?v=nNmQgOXP7A8]]|
+|02/17|[[公務員と白市民の収入の違いについてここなと話す！>>https://www.youtube.com/watch?v=tFLvLnZFkgU]]|
+|02/18|[[トレンディの敷居が爆上がりしたハンバーグ屋の革命児と話す！>>https://www.youtube.com/watch?v=WU6jy52168I]]|
+|02/19|[[警察をクビになったボイラさんが仕事に対する想いを熱く語る>>https://www.youtube.com/watch?v=Nnqd95wse50]]|
+|02/20|[[救急隊に新入隊員か!?season2初の公務員合格発表が行われる！（盗み聞き）>>https://www.youtube.com/watch?v=LeA52GJFTjs]]|
+|02/21|[[公務員を全住民が目指すべき理由と犯罪推進派になった経緯！>>https://www.youtube.com/watch?v=Twlag7fIkTs]]|
+|02/22|[[救急隊の合格発表動画を誰よりも早く投稿してることがバレるパンチャン>>https://www.youtube.com/watch?v=5L-AxXBtHms]]|
+|02/23|[[警察に3回落ちた僕が公務員を目指す新規住民に出来るアドバイスとは...>>https://www.youtube.com/watch?v=ugMIxw9gpMo]]|
+|02/24|[[デマを拡散した容疑でわくわくハーデス隊に詰められるパンチャン>>https://www.youtube.com/watch?v=MDHvXLsoQZo]]|
+|02/25|[[レース協会の対応に納得がいってないここな店長と話す！>>https://www.youtube.com/watch?v=Lexd9hIqj5c]]|
+|02/26|[[新しく救急隊に入った社員の様子をももみ先生に聞いてみる！>>https://www.youtube.com/watch?v=mdDIkiBJJa4]]|
+|02/27|[[珍しいメンバーで街に出来た新しいアルバイトに挑戦するパンチャン>>https://www.youtube.com/watch?v=ywQ8ZjOMm74]]|
+|02/28|[[餅巾着よりちくわぶが好きなカテジ>>https://www.youtube.com/watch?v=UBUq34S5s9o]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=39}
+#endregion(2月)
+//
+#region(3月)3月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|03/01|[[不動産視点で見るMOZUアジトを巡るわくわくハーデス隊物件爆速売却物語！？>>https://www.youtube.com/watch?v=qG63LseQ8Ms]]|
+|03/02|[[新ジョブ！建築士のテスターとして魔女の酒場に依頼をする不動産！>>https://www.youtube.com/watch?v=3QcSzvdU1HM]]|
+|03/03|[[1日で完成させた魔女の酒場の新内装が凄すぎる！！！>>https://www.youtube.com/watch?v=mzwn84k3TCM]]|
+|03/04|[[とある理由で救急隊を目指したい気持ちが湧いてくるパンチャン>>https://www.youtube.com/watch?v=KeneCSPcsrc]]|
+|03/05|[[空き物件を使いたいバーバリアン田中に不動産の相談をされるパンチャン>>https://www.youtube.com/watch?v=UeWcC54FXIU]]|
+|03/06|[[街に来たここなの幼馴染とここなよりも先に連絡先を交換してしまうトラブル大発生！>>https://www.youtube.com/watch?v=26GSTVm2nak]]|
+|03/07|[[新入社員を歓迎するもタラちゃんに激怒され理解が出来ないルナガレ社員>>https://www.youtube.com/watch?v=zJfC8p-Mp5Q]]|
+|03/08|[[新しいメカニックの立ち上げのために素材屋連盟と連携を取るルナガレージ！>>https://www.youtube.com/watch?v=OmcisxC0DzQ]]|
+|03/09|[[あまりにも元気がなさ過ぎるアヌギフ白川>>https://www.youtube.com/watch?v=BCNVCq3LYY8]]|
+|03/10|[[探偵組が無断使用している件について市長にイイ感じに相談するパンチャンｗｗｗ>>https://www.youtube.com/watch?v=9dE6E24jQBI]]|
+|03/11|[[賃上げを狙う探偵襲来！？不動産の収入を聞かれて他より圧倒的に多く気まずいパンチャン>>https://www.youtube.com/watch?v=9Rmw9ez_Ppc]]|
+|03/12|[[アヌギフさんを慰めるためにこの街の根底にあるものを話すパンチャン>>https://www.youtube.com/watch?v=cIB67-2WEvw]]|
+|03/13|[[1時間越えの不動産大会議!?新ジョブ”建築士”で飲食店をサポートする店舗を決める！>>https://www.youtube.com/watch?v=p1Z9zKddRI0]]|
+|03/14|[[建築士と警察の兼業と不動産稼ぎすぎ問題の会議をする！>>https://www.youtube.com/watch?v=1u47YsgLDPE]]|
+|03/15|[[新メカニック正式始動！JTS感謝を伝えて退職するルナガレ社員！>>https://www.youtube.com/watch?v=bbiPgrQ58bs]]|
+|03/16|[[不動産会議に向けて各飲食店の平均営業時間の情報を集めるパンチャン>>https://www.youtube.com/watch?v=GO17vD5yBaM]]|
+|03/17|[[やりがい搾取な救急隊の安月給問題を話すパンチャン>>https://www.youtube.com/watch?v=umABz8iBPpw]]|
+|03/18|[[転送後の公務員採用に関して違和感を覚えるパンチャンの話に付き合わされるここな>>https://www.youtube.com/watch?v=oCitOUx9Zcw]]|
+|03/19|[[飲食店の”賞味期限”を導入することに賛成か反対かを議論するパンチャンと牧田ここな>>https://www.youtube.com/watch?v=Wb0JMaLldbs]]|
+|03/20|[[警察体験が新しい街になっても出来なかった件について話すパンチャン>>https://www.youtube.com/watch?v=pR6w8MXY_Sw]]|
+|03/21|[[キミトスギャングのアジトを販売するパンチャン>>https://www.youtube.com/watch?v=ipU8o-SQszo]]|
+|03/22|[[新ジョブ”建築士”の給料割合や特殊物件の価格の選定に悩む不動産！>>https://www.youtube.com/watch?v=kPCSFUzAmQw]]|
+|03/23|[[建築士が作った物件がやばすぎる！ライブハウスにステージにアスレチック!?>>https://www.youtube.com/watch?v=Y9OJhb9TklQ]]|
+|03/24|[[新規住民に街の情勢と黒市民が増えるスパイラルを伝えて心配されるパンチャンｗｗｗ>>https://www.youtube.com/watch?v=tK9Qzr2J-pM]]|
+|03/25|[[市長に公務員の給料や公式レース！これからの街の流れを聞くパンチャン>>https://www.youtube.com/watch?v=6492QBX8dGM]]|
+|03/26|[[公務員のお金を稼ぐモチベーションについてももみ先生と話し合うパンチャン！>>https://www.youtube.com/watch?v=2KItcu2TQmk]]|
+|03/27|[[1000万の借金を抱えたアヌギフから返済日まで街に起きない話を聞かされるパンチャン>>https://www.youtube.com/watch?v=jlGOtj32s1I]]|
+|03/28|[[飯田書店を巡る不動産トラブルの解決策を考えるパンチャン>>https://www.youtube.com/watch?v=10juHMadjvQ]]|
+|03/29|[[飯田書店の建設費用が倍額になる問題を交渉しに行くパンチャン>>https://www.youtube.com/watch?v=9h5sESSWicI]]|
+|03/30|[[熱い思いで帰国することをやめたアヌギフに帰国を促すパンチャン>>https://www.youtube.com/watch?v=nmRsiUDV8K0]]|
+|03/31|[[ノーリミ厄介客に悩まされ四五六確に助けを求めるパンチャン>>https://www.youtube.com/watch?v=qvA3wfYaTOI]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=67}
+#endregion(3月)
+#region(4月)4月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|04/01|[[メカニック体験の給料を勝手に歩合制にして会議が開かれる>>https://www.youtube.com/watch?v=hH_1T-plBpU]]|
+|04/02|[[警察車両の修理形態が大幅変更されメカニックで稼げない問題が発生してしまう>>https://www.youtube.com/watch?v=K5_4_PTE2gQ]]|
+|04/03|[[旧餡ブレラアジトを巡る不動産営業で街を駆け回るパンチャン！>>https://www.youtube.com/watch?v=-u_ovqYPKLA]]|
+|04/04|[[昨今の不動産トラブルや導入物件の選定の難しさを相談するパンチャン>>https://www.youtube.com/watch?v=uWB2sdJ-CSo]]|
+|04/05|[[餡ブレラが元免許センターの巨大物件を新アジトとして審査依頼を受けるパンチャン>>https://www.youtube.com/watch?v=lRC7jeRPOqo]]|
+|04/06|[[市長に直談判をしてNGが出された物件の販売許可を手に入れてきたNLの二人に謝罪をするパンチャン>>https://www.youtube.com/watch?v=k3kYH1pcSGs]]|
+|04/07|[[ルナガレ採用権限で揉めて退職するパンチャン>>https://www.youtube.com/watch?v=mx1SDe1iX2o]]|
+|04/08|[[ルナガレを退職した件について電話で無限に問いただしてくる狂犬”わおんちょき”>>https://youtu.be/kG7Mh0WuY20]]|
+|04/09|[[ルナガレ退職事件から2日で狂人と狂犬によって再就職ルートを用意されてしまうパンチャンとイかれた謝罪>>https://youtu.be/zNMnBT54z9M]]|
+|04/10|[[市長を覆したNLアジト何故NGだったのか!?市長を交えた審査と二人の厄介客の卑劣な行動を激写！>>https://www.youtube.com/watch?v=pJWDE5X2-BI]]|
+|04/11|[[ルナガレ再就職後ずっと味方をしてくれたこさ猫に見限れる化け物パンチャン>>https://www.youtube.com/watch?v=pvV4ZpfFhRE]]|
+|04/12|[[9055とルナガレの方針の違いについてたいたいに本音を話すパンチャン>>https://youtu.be/EM-wq7ccIRU]]|
+|04/13|[[警察官の盛大なフリに応えるも絶妙な空気を作り出してしまうパンチャン>>https://www.youtube.com/watch?v=GwgNW9cCuno]]|
+|04/14|[[街の新事業”DASU”を活用して廃車買取サービスの内容を決めるパンチャン！>>https://www.youtube.com/watch?v=KE9toEnYx7s]]|
+|04/15|[[ももみ先生にわくハーに入団許可を勝ってに取られて不動産存続のピンチにされるパンチャン>>https://www.youtube.com/watch?v=VUjCrNWMX1w]]|
+|04/16|[[遂に飯田書店販売！づらい質問をしてくる飯田けんつに意味が分からない回答をするパンチャン>>https://www.youtube.com/watch?v=jujj7b3vcXY]]|
+|04/17|[[ルナガレにだけ店舗ガレージが存在しない問題について話し合うパンチャン>>https://www.youtube.com/watch?v=0LxJfys83-w]]|
+|04/18|[[ノーリミ物件販売NGに向けて暗躍するパンチャンといつも通りだるすぎるNLの奴ら。>>https://www.youtube.com/watch?v=LtBM6l9zDxM]]|
+|04/19|[[もしも街が17時5時だったら〇んでたんじゃないか説/チンピラの大金を稼ぐ秘策を聞く！>>https://www.youtube.com/watch?v=l8PJvJG-Yfk]]|
+|04/20|[[修理費と車両値段の歪な関係性を紐解くメカニック会議が行われたらしいので対策を考えるパンチャン>>https://www.youtube.com/watch?v=fICOErV5PRw]]|
+|04/21|[[唐突に個人医を目指し始めるパンチャン>>https://www.youtube.com/watch?v=__FxiQBzEP4]]|
+|04/22|[[NL物件最終判断に向けてももみ先生と最後の作戦会議を始めるパンチャン>>https://www.youtube.com/watch?v=XM7gZfcHRSs]]|
+|04/23|[[ここなに個人医を目指すことや街で出来る最大限の遊びを考える！>>https://www.youtube.com/watch?v=bncpxEVWoO0]]|
+|04/24|[[1時間半のノーリミ物件会議の後にももみ先生に最終チェックをしてもらうパンチャン>>https://www.youtube.com/watch?v=SeSi6RgB_9w]]|
+|04/26|[[1時間越えのノーリミ物件審査の全容と転送前の物件購入時に起きたトラブルについて話すパンチャン>>https://www.youtube.com/watch?v=epAi-9degUI]]|
+|04/27|[[ノヴァを辞めたアルタからとんでもない言葉を貰うパンチャン>>https://www.youtube.com/watch?v=YtF0wVqR3UE]]|
+|04/28|[[不動産業務のしんどさをここな店長にさらけ出すパンチャン/終わってる国外追放の話>>https://www.youtube.com/watch?v=WwmVshQF-XQ]]|
+|04/29|[[更生のためにルナガレの就職を考えるアルタと話すパンチャン>>https://www.youtube.com/watch?v=JJCq70D29EY]]|
+|04/30|[[新しい金融会社”OMNローン”を始めてBJローンに挨拶をするも１日で廃業するパンチャン>>https://www.youtube.com/watch?v=hQsMKYB3K_E]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=98}
+#endregion(4月)
+//
+#region(5月)5月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|05/01|[[病院のとある場所に行くと”同接”が上がる都市伝説をアヌギフに共有した結果ｗｗｗ>>https://www.youtube.com/watch?v=5qTVQyzI0qE]]|
+|05/02|[[ノーリミが解散したことを赤色にごうに聞かされるパンチャン>>https://www.youtube.com/watch?v=UzbKoccBPNs]]|
+|05/03|[[街の情勢が変わり駐車場に止めている車両も自動でインパウンドがされる仕様変更に物申すパンチャン>>https://www.youtube.com/watch?v=5bwUEc2yaQc]]|
+|05/04|[[NL物件審査後にももみ先生と市長介入審査や今回の問題点について話すパンチャン>>https://www.youtube.com/watch?v=Zuks-5gvgxs]]|
+|05/05|[[要件が分からず話し合いに参加してジョアンナさんと怒らせるパンチャン>>https://www.youtube.com/watch?v=ZI7-tHNUsn0]]|
+|05/06|[[ももみ先生が敵になる!?餡ブレラアジトの金額が決定するも嵌められるパンチャン>>https://www.youtube.com/watch?v=WdGqvbjLuQk]]|
+|05/07|[[NL物件には続きがあった!?最終審査前に電話でも詰められるパンチャン>>https://www.youtube.com/watch?v=iEBCMp2cUdo]]|
+|05/08|[[”ノヴァファミリア”アジトに解体バイトが追加された件について考える不動産一同！>>https://www.youtube.com/watch?v=wDy_IyRbmUw]]|
+|05/09|[[今のストグラ事情を考慮してスピード感を重視し市長が動いた結果ｗｗｗ>>https://www.youtube.com/watch?v=qRw8IKedPX8]]|
+|05/10|[[裁判終わりにだん市長補佐の熱い思いや脇逢魔が段々〇〇観測者に見えてきた件について話すｗｗｗ>>https://www.youtube.com/watch?v=ha3HFU1GVgU]]|
+|05/11|[[連絡をせずに駐車場から車を消した警察官の傲慢さに憤りを感じるパンチャン>>https://www.youtube.com/watch?v=HQz4RmAzdi4]]|
+|05/12|[[SWATの人数が意図的に変更されている可能性が浮上したため調査を開始するパンチャン>>https://youtu.be/j8k3uayKL8c]]|
+|05/13|[[犯罪が起きない今の街の警察採用基準に違和感を感じるパンチャン>>https://youtu.be/AGs9K3rIjoY]]|
+|05/14|[[ジョアンナさんを怒らせた件についてえるな社長に呼び出され謝罪をするパンチャンとこさ猫>>https://www.youtube.com/watch?v=eAhkxs729Ao]]|
+|05/15|[[NL物件最終決戦があまりにも暖かいメンバーで過去一穏便に話し合いが終わり戸惑うパンチャン>>https://www.youtube.com/watch?v=nXDn-YiBMcs]]|
+|05/16|[[ジョアンナさんに本当の謝罪とメカニックの社員勧誘について相談する>>https://www.youtube.com/watch?v=8gZ7XV1Qln4]]|
+|05/17|[[だんさんの熱い想いとパンチャンが激詰めされている土地の権利裁判！>>https://www.youtube.com/watch?v=Gw8YEEf-T0k]]|
+|05/18|[[あげころ上田裁判で何故か判例としてパンチャンを匂わせる事件の話があったらしい！？>>https://www.youtube.com/watch?v=PCmx8tJu1N4]]|
+|05/19|[[救急隊の採用基準やS2になってから街の動きに疑問を抱き”第二病棟”を考え命田守隊長に相談するパンチャン>>https://www.youtube.com/watch?v=5zmmWdTJsRc]]|
+|05/20|[[たいたいの警察合否の結果にブチ切れて暴れだすパンチャン>>https://www.youtube.com/watch?v=Gx5WLg3rmwE]]|
+|05/21|[[救急隊の隊長に話に行く前に内容をアルタに相談するパンチャン>>https://www.youtube.com/watch?v=X2W0BwrVhJY]]|
+|05/22|[[茶番から始まったカイリキバーガーの最悪すぎる結末を聞くパンチャン>>https://www.youtube.com/watch?v=CX68Z0LQ8GE]]|
+|05/23|[[問題を起こしたあげころをルナガレで働かせたいえるな社長の話を聞くパンチャン>>https://www.youtube.com/watch?v=KyvTYPH5ul4]]|
+|05/24|[[UGMにあげころを雇うことを断られた件/白市民のやらかしの街での処罰が重すぎる！>>https://www.youtube.com/watch?v=Jfl0bqirLnw]]|
+|05/25|[[あげころを全メカ対抗レースに起用を考えたルナガレが怒られるｗｗｗ>>https://www.youtube.com/watch?v=KncmTdniVSI]]|
+|05/26|[[公平性を加味して街で生きるRPの難しさを話すパンチャン>>https://www.youtube.com/watch?v=m2lhUxgrNOU]]|
+|05/24|[[UGMにあげころを雇うことを断られた件/白市民のやらかしの街での処罰が重すぎる！>>https://www.youtube.com/watch?v=Jfl0bqirLnw]]|
+|05/25|[[あげころを全メカ対抗レースに起用を考えたルナガレが怒られるｗｗｗ>>https://www.youtube.com/watch?v=KncmTdniVSI]]|
+|05/26|[[公平性を加味して街で生きるRPの難しさを話すパンチャン>>https://www.youtube.com/watch?v=m2lhUxgrNOU]]|
+|05/27|[[まるVSセイジの喧嘩を勃発させるためにテレビ電話をかけるパンチャン>>https://www.youtube.com/watch?v=u5_nM38x1C8]]|
+|05/28|[[チョケとシリアスに関して深すぎる話をするアルタとパンチャン>>https://www.youtube.com/watch?v=NPJmds7AIAg]]|
+|05/29|[[不動産の給料が確定!?街のバランスを考慮したその金額に驚くパンチャン>>https://www.youtube.com/watch?v=swPpwA4XhPY]]|
+|05/30|[[警察のお金事情を知って不純すぎる動機で警察になりたい欲が爆増するパンチャン>>https://www.youtube.com/watch?v=jxIDiR4h-LU]]|
+|05/31|[[犯罪禁止中の上田さんにとある交渉をするパンチャンと焚きつけるあげころ>>https://www.youtube.com/watch?v=3VH_FtS4fF4]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=127}
+#endregion(5月)
+//
+#region(6月)6月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|06/01|[[ウェスカーに詰められももみ先生に見捨てられ餡ブレラに取り囲まれるパンチャン>>https://www.youtube.com/watch?v=jksDAoJgak8]]|
+|06/02|[[ブロッコリー斎藤から警察１年半街のパンチャンに署名依頼が届く！>>https://www.youtube.com/watch?v=0gjfvhlaBUw]]|
+|06/03|[[1時間越え不動産会議で数々の失態を暴かれるパンチャン>>https://www.youtube.com/watch?v=CnPeGa4QYaw]]|
+|06/04|[[公務員が新犯罪”ブースティング”をやる!?匿名Sの通報によりタブレット所持がバレ問題になるパンチャン>>https://www.youtube.com/watch?v=aVGBVswMBBs]]|
+|06/05|[[えるな社長にブースティング疑惑で取り調べを受けたことを伝えるパンチャン>>https://www.youtube.com/watch?v=DCTZKD7hkIs]]|
+|06/06|[[警察の起床率問題を現役警察官に質問して微妙な空気を作るパンチャンと反省>>https://www.youtube.com/watch?v=kEm-bt66Nkc]]|
+|06/07|[[街の住民のことを対戦相手だと思ってRPしている件について話すパンチャン>>https://www.youtube.com/watch?v=usTPgbppTQQ]]|
+|06/08|[[ブースティングタブレット押収後にエモートでタブレットを出して持ち物検査されるのかチャレンジをする舐めすぎたパンチャン>>https://www.youtube.com/watch?v=BfHPrt-zfXs]]|
+|06/09|[[建築士を交えた不動産会議で今後の方針を決める！>>https://www.youtube.com/watch?v=p5xqsDr-mNg]]|
+|06/10|[[新規警察官の起床率が低い理由は〇〇に問題があるかもしれない仮説を立てるパンチャン>>https://www.youtube.com/watch?v=lg0zC5Aj2AU]]|
+|06/11|[[素材屋連盟からメカニックに向けて工場が出来るお話を受ける！>>https://www.youtube.com/watch?v=uYyfkpMdPZY]]|
+|06/12|[[ルナガレ営業停止!?バレたら完全終了の大問題を起こしていたことを告白するパンチャン>>https://www.youtube.com/watch?v=B1kGhakz5L0]]|
+|06/13|[[警察修理を不法に行っていた件について話し合うパンチャン>>https://www.youtube.com/watch?v=kh-vVqoz5LM]]|
+|06/14|[[JTSのプリクラの大盛況具合に悔しがるルナガレ社員！>>https://www.youtube.com/watch?v=nERrXbxRWPQ]]|
+|06/15|[[遂に市を巻き込む大やらかしをしてももみ先生に怒られるパンチャン>>https://www.youtube.com/watch?v=A_K8g9cPSxc]]|
+|06/16|[[2度目の警察体験の結果報告が来ず悩めるたいたい>>https://www.youtube.com/watch?v=sE4tHp0jRDE]]|
+|06/17|[[公務員の収入が低い問題を白市民基準に考える必要はないと話すパンチャン>>https://www.youtube.com/watch?v=CCZEO-6GhHQ]]|
+|06/18|[[街の物価に合わせた修理費に変更を検討するルナガレ会議！>>https://www.youtube.com/watch?v=A2EuWZqnSCI]]|
+|06/19|[[黒市民になったあげころから感謝と謝罪を受け取り何故か称賛するパンチャン>>https://www.youtube.com/watch?v=cp0Z_dJ3gVE]]|
+|06/20|[[ルナガレ崩壊の危機!?連絡不足が招いた社員逃亡事件を話す！>>https://www.youtube.com/watch?v=vlKyck8JW2M]]|
+|06/21|[[完成間近!?星空輝くルナガレ社宅が良すぎる！>>https://www.youtube.com/watch?v=Z6zvAPLtcLs]]|
+|06/22|[[社員逃亡事件の今の気持ちを共有してもらい号泣するえるな>>https://www.youtube.com/watch?v=v_BnfxlI4dU]]|
+|06/23|[[1日で3回業務妨害を行い黒市民になる可能性が浮上し窮地に立たされるパンチャン>>https://youtu.be/t_eETRRX-Qk]]|
+|06/24|[[ルナガレで発生した問題に真剣に向き合う社員！>>https://youtu.be/lFtA4Rn09Vw]]|
+|06/25|[[家出をした社員にルナガレを厳格化したい理由を聞いてみるパンチャン>>https://www.youtube.com/watch?v=_SLgP-2Auyo]]|
+|06/26|[[ルナガレに不満があった社員の帰還と再び社長と言い争いになるパンチャン>>https://www.youtube.com/watch?v=b3gYj1a6WNU]]|
+|06/27|[[UforUの再建費用が予算より〇〇円超過してしまい焦るパンチャン>>https://www.youtube.com/watch?v=YTZTCZF7Q-s]]|
+|06/28|[[ルナガレ社員逃亡事件や社長の本音を聞き出す大会議が行われる！>>https://www.youtube.com/watch?v=r8T3DR_hVyE]]|
+|06/29|[[遂にルナガレから降格処分を言い渡されるパンチャン>>https://www.youtube.com/watch?v=Alfb3AI_66U]]|
+|06/30|[[BJローン初利用！購入した車を巡って警察とトラブル大発生！>>https://www.youtube.com/watch?v=lLdn6FudKdg]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=161}
+#endregion(6月)
+//
+#region(7月)7月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|07/01|[[不動産イベント当日に問題を起こしまくってももみ先生を怒らせるパンチャン>>https://www.youtube.com/watch?v=kcX-3MN35qo]]|
+|07/02|[[復職してからのボイラに物申すパンチャンと熱い話をする！>>https://www.youtube.com/watch?v=D_xDJpya3oE]]|
+|07/03|[[6月の不動産建築士合同会議に参加して企画が被りミュートで吠えるパンチャン！>>https://www.youtube.com/watch?v=QzooBCE1vPY]]|
+|07/04|[[危篤状態のたいたいの面会に行くパンチャンと命田隊長の行動に驚く！>>https://www.youtube.com/watch?v=tqYbxsP2Jwg]]|
+|07/05|[[たいたいとの面会を拒絶されるルナガレ社員>>https://youtu.be/EcEKvXijlpE]]|
+|07/06|[[たいたい事件を通して街全体の問題であることが判明する！>>https://www.youtube.com/watch?v=37czie89bDA]]|
+|07/07|[[記憶障害を患い戻ってきたたいたいの事を詮索するなと警察官に言われモヤモヤが止まらないパンチャン>>https://www.youtube.com/watch?v=KuoqzFNzevA]]|
+|07/08|[[公務員が隠していた真実をえるな社長から共有を受けるルナガレ社員！>>https://www.youtube.com/watch?v=3ffghnzO1Io]]|
+|07/09|[[アルタの情報漏洩によりルナガレが黒市民にくぎを刺される事態に発展してしまう！>>https://www.youtube.com/watch?v=DW6Zga2wmxw]]|
+|07/10|[[ルナガレ内部の情報が漏洩したことで改めて社員と話し合い涙を流すえるな>>https://www.youtube.com/watch?v=2jcJtogGnUI]]|
+|07/11|[[公務員が隠蔽した誘拐事件の話を友人としてましろ先生から聞くパンチャン>>https://www.youtube.com/watch?v=NIHpTYTiDis]]|
+|07/12|[[新聞を巡り1億円の借金を抱えたアルタ!?ノヴァファミリアに呼び出されたえるな社長と話すパンチャン>>https://www.youtube.com/watch?v=EqNlLLxSZt4]]|
+|07/13|[[餡ブレラにルナガレ全員が沈められる大事件発生!?緊急会議が行われる！>>https://www.youtube.com/watch?v=Cv0rugJx0Wc]]|
+|07/14|[[無馬かなルナガレ体験希望!?たいたい事件後に緊急会議が行われるルナガレージ>>https://www.youtube.com/watch?v=dPfBiv4F_0E]]|
+|07/15|[[コンビニ強盗でルナガレ社員のホシバミオが撃たれた!?再びルナガレ緊急会議が行われる！>>https://www.youtube.com/watch?v=VpP7BjCwSRo]]|
+|07/16|[[バミオ誘拐事件に進展があり社長から話を聞くも街としての正しさを問う難しい話に発展！？>>https://www.youtube.com/watch?v=A-HxSrHho34]]|
+|07/17|[[餡ブレラ事件のアルタの禊について話し合うルナガレ/たいたい誘拐事件の謝罪を救急隊から受ける！　>>https://www.youtube.com/watch?v=1OyCMgEvELg]]|
+|07/18|[[禊を開始したアルタと今後の動きや原因となった新聞について話すパンチャン>>https://www.youtube.com/watch?v=vEbp6xLsRi0]]|
+|07/19|[[ガソスタ経営権を巡ってとんでもないことが起きているリーク情報を手に入れるパンチャン！>>https://www.youtube.com/watch?v=8t2e6iS7MHM]]|
+|07/20|[[問題が起きすぎたルナガレが遂に採用フローの見直しを行う事態に！？>>https://www.youtube.com/watch?v=DnMcWSsW8VI]]|
+|07/21|[[犯罪者から白市民を守る唯一の方法が編み出されるも現役警察官からとんでもない言葉が出てしまうｗｗｗ>>https://www.youtube.com/watch?v=f9N4DywXDfQ]]|
+|07/22|[[問題が起きないルナガレに物足りなくなりドパガキパンチャン暴れてしまうｗｗｗ>>https://www.youtube.com/watch?v=mwR3_1UwikI]]|
+|07/23|[[社内会議と違う金額でガソスタを競り落としシリアス化するルナガレージ！>>https://www.youtube.com/watch?v=ckFQ5NCNgGg]]|
+|07/24|[[新規住民を加護貫通でダウンさせて救急隊に本気で怒られるパンチャン>>https://www.youtube.com/watch?v=C63DBV2jPYw]]|
+|07/25|[[新人ボスナ編！社長に許可を取らずに社員の個人面談を始めるパンチャン！>>https://www.youtube.com/watch?v=TCSn2mwR5vc]]|
+|07/26|[[こみ蔵行方不明事件を通して最近の警察官の杜撰な捜査環境に憤りを感じるパンチャン>>https://www.youtube.com/watch?v=QuvruZTE1EQ]]|
+|07/27|[[不動産会議のたびにやらかしが見つかり怒られるパンチャン>>https://www.youtube.com/watch?v=HRf1fdHMkA0]]|
+|07/29|[[昨今の即シリアス問題と個人面談を勝手に始めていたことがバレるパンチャン>>https://www.youtube.com/watch?v=HuKCeaZr3rA]]|
+|07/30|[[今後のルナガレージに対してこさ猫個人面談を通して真剣に話し合うパンチャン>>https://www.youtube.com/watch?v=b0F6KUyBSNw]]|
+|07/31|[[街の仕組みが初心者に優しくなさすぎるので市役所職員を目指し始めるパンチャン>>https://www.youtube.com/watch?v=prW2RUnUjHw]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=191}
+#endregion(7月)
+//
+#region(8月)8月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|08/01|[[闇不動産の浮上!?ステイトに補佐とは違う謎の人物が現れて独自調査開始を匂わせるパンチャン>>https://www.youtube.com/watch?v=EW7KeANvuVs]]|
+|08/02|[[起床率の高い警察官に救急隊を応募させて連携力を高める提案をするパンチャン>>https://www.youtube.com/watch?v=MWeaqtIZ3ic]]|
+|08/03|[[こみ蔵帰国問題が終わりに近づいてるのに再び問題を起こすパンチャン>>https://www.youtube.com/watch?v=to4VrcHGmCI]]|
+|08/04|[[こみ蔵事件の黒幕を押し付けられるパンチャンと街の変化を祈るルナガレ！>>https://www.youtube.com/watch?v=6D_g2esjkwc]]|
+|08/05|[[度重なるルナガレ問題を起こした禊として1日5つの善行を行う事になったパンチャンまとめ！>>https://www.youtube.com/watch?v=K0TJtce5zRU]]|
+|08/06|[[警察から許可を得てチェイス練習をしたボスナがギャングを轢いてしまったらしいｗｗｗ>>https://www.youtube.com/watch?v=2_-33VN2Bzo]]|
+|08/07|[[ルナガレ初の退職者!?会社と仲間を守るために黒の道に進むと伝えられ頭がおかしくなるパンチャン>>https://www.youtube.com/watch?v=tX44zP6HXlQ]]|
+|08/08|[[犯罪者に詰められた時に被害を最小限にする方法が余りにも舐めすぎているパンチャン>>https://www.youtube.com/watch?v=PJ7gXf0iKD4]]|
+|08/09|[[赤城煉さんの処遇に納得が行かず多重人格になる確変状態のパンチャン>>https://www.youtube.com/watch?v=v6i6Pg15h2I]]|
+|08/10|[[社員への不満が爆発するたいたいの個人面談が面白すぎた！>>https://www.youtube.com/watch?v=xOO1IuKRNOg]]|
+|08/11|[[警察体験を受けるために予定より早めに初心者マークを外して覚悟を見せるボスナ！>>https://www.youtube.com/watch?v=5QfeUY1WkIA]]|
+|08/12|[[ルナガレ社員に闇バイトの斡旋をしていた過去を暴かれるパンチャン >>https://www.youtube.com/watch?v=OnundGK5NaE]]|
+|08/13|[[たけしが普通に闇落ちしました！おめでとうございます。 >>https://www.youtube.com/watch?v=PXET-wzYMSQ]]|
+|08/14|[[イベント開催時の修理費をどこが担当するのかを話し合う >>https://www.youtube.com/watch?v=ggdpVh2s7vo]]|
+|08/15|[[ルナガレ2人の闇落ちを受けてメカニックとギャングが隣接している場合の問題点や良さをIRISに居たジョーカーに聞く！ >>https://www.youtube.com/watch?v=7xrUT3XWkOI]]|
+|08/16|[[犯罪者を通報して生まれる報復行為の罪状を本気で考えるルナガレ社員！ >>https://www.youtube.com/watch?v=y_0j7KU5wr0]]|
+|08/17|[[チンピラから旧市役所跡地の購入依頼/救急隊とTwix上でトラブルが発生するｗｗｗ>>https://www.youtube.com/watch?v=v61HX1hqoqA]]|
+|08/18|[[犯罪者の頃の行動原理が抜けてないアルタ/闇落ちした社員を陰で煽る陰湿メカニックｗｗｗ >>https://www.youtube.com/watch?v=sZah0LwL8LA]]|
+|08/19|[[汚名返上に繋がる働きをしていたバミオに更にかまされるルナガレ社員ｗｗｗ >>https://www.youtube.com/watch?v=VAKoHIY2KVE]]|
+|08/20|[[街に雨が降る状況で不動産問題が起きてしまい電話するか葛藤するパンチャン >>https://www.youtube.com/watch?v=w_vBZI3Lv3U]]|
+|08/21|[[上田さんを轢き〇しノヴァファミリアに頭を打たれゴーカートからシリアス化させるルナガレｗｗｗ >>https://www.youtube.com/watch?v=GOzMjks3obw]]|
+|08/22|[[コンビニ強盗で発生する車チェイスがしたい気持ちが昂り細胞分裂を考えるパンチャン >>https://www.youtube.com/watch?v=2PFYrGFU_MQ]]|
+|08/23|[[4か月の白市民期間を経てアルタが遂にアレを獲得する！！！ >>https://www.youtube.com/watch?v=sdJ3FHCx4YQ]]|
+|08/24|[[上田さんから呼び出され激詰めされるルナガレ社員と謝罪に来るノヴァファミリア!?>>https://www.youtube.com/watch?v=JdSaiPdXMcA]]|
+|08/25|[[初心者マーク期間で現れる犯罪者になる前兆のお話を新規住民にするパンチャン>>https://www.youtube.com/watch?v=-i3chFYSmhk]]|
+|08/26|[[上田事件やノヴァの一軒を経て情報管理についてアルタと話すパンチャン>>https://www.youtube.com/watch?v=ZJBQPKhAO9o]]|
+|08/27|[[S2になって急増したAIを使った商品やポスターの話題について喋るぱんくん>>https://www.youtube.com/watch?v=-3ET1LYRsUc]]|
+|08/28|[[ストグラ公式流行語大賞に納得が行かず急遽ルナガレで祭典が開かれる！>>https://www.youtube.com/watch?v=-xCJfNOOH10]]|
+|08/29|[[上田事件を巡ってSHIRAHAに詰められるパンチャン>>https://www.youtube.com/watch?v=K3Cqc5rl8RU]]|
+|08/30|[[無馬かながルナガレ仮採用!?不穏な空気が漂う面接に一同驚愕！>>https://www.youtube.com/watch?v=fJEP4_KXllU]]|
+|08/31|[[オリジナル内装値下げ交渉に入社希望者が現れる!?8月の不動産会議の様子！>>https://www.youtube.com/watch?v=dfjMfE18fds]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=221}
+#endregion(8月)
+//
+#areaedit()
+//↑部分編集を次の月に移動させる
+#region(9月,open)9月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+|09/01|[[たいたい暴走中!?起きて30分でギャングや白市民と3連続で交通事故を起こすｗｗｗ>>https://www.youtube.com/watch?v=4Uxk5SvFwL0]]|
+|09/02|[[細胞分裂することをえるな社長に伝えるも都合よすぎて怒られるｗｗｗ>>https://www.youtube.com/watch?v=1ul9A_hPIH0]]|
+|09/04|[[お騒がせメカニックによる真面目な企画会議の様子！>>https://www.youtube.com/watch?v=SDt8tGt196E]]|
+|09/05|[[噂の種を巡る記者会見と”グレア”という怪しい売人の取り引きについて探る！>>https://www.youtube.com/watch?v=ioFNiUQrul8]]|
+|09/06|[[一流のイベンテーター兼債務者の上田さんに主催の極意を聞くパンチャン>>https://www.youtube.com/watch?v=SIWcLpMfpmU]]|
+|09/07|[[社長に許可を取らずに協賛企業を増やしまくるパンチャンに激怒するルナガレ社員ｗｗｗ>>https://www.youtube.com/watch?v=c1ooEdafGmQ]]|
+|09/08|[[街で噂の種や花に近づくために”違法物”を摘んでしまうパンチャン>>https://www.youtube.com/watch?v=c4M1ScRTr6A]]|
+|09/09|[[街を爆速で走るドパガキくん”バーガー屋集団”を捕まえて激安商品を手に入れろ！>>https://www.youtube.com/watch?v=7dRSvDcyHhU]]|
+|09/10|[[事件性のある悲鳴と共に通話が途絶えた高橋滅論を街から消すパンチャン>>https://www.youtube.com/watch?v=c1GuHIJ1i-E]]|
+|09/11|[[ストグラが100年続く設計をしていることに驚愕するパンチャン>>https://www.youtube.com/watch?v=26IKS596RfM]]|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=252}
+#endregion(月)
+#endregion(2026)#areaedit(end)
+//
+#CO{テンプレ
+#areaedit()
+//↑部分編集を次の月に移動させる
+#region(月,open)月
+#table_style(head=center:#e6e6fa){投稿日=right}
+|投稿日|動画タイトル|h
+
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#, start=ここに話数}
+#endregion(月)
+}
+*ストグラ外コラボ
+**ストグラジオ
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~共演者|~アフタートーク|~備考|h
+|25/09/14|[[第122回ストグラジオ>>https://www.twitch.tv/videos/2566147196]]|しょぼすけ（[[山下ひろし>>山下　ひろし]]）、しえる（[[月乃えるな>月乃　えるな]]）|[[Pixiv fanbox>>https://sutogura.fanbox.cc/posts/10574946]]|関係性：[[9055]]メカニック|
+#endregion

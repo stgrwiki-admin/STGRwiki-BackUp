@@ -1,0 +1,1277 @@
+&font(b,#F54738){Confidential Documents}
+[[ストグラ警察>ロスサントス警察]]が機密にすべき情報が含まれております。
+他人へ話す際、情報漏洩（ネタバレや鳩コメント）にならぬようご注意ください。
+#size(30%){　}
+&font(11,#999){当ページは、様々なキャラクターページの基本情報欄に「警察視点でしか把握できない情報」である「市民（血液）ID」が追記されている件へのネタバレ防止処置のため制作へと至りました。追記頻度については観測し次第という方針にて運用中。なお、各ページへの情報記載については、各ページにて相談の元ご判断ください。当一覧にはアンカーを入れておりますので、リンク表記などでご活用ください。}
+//市民IDの把握は警察だけの特権ではありません。犯罪者はBoostingのタブレットから自身のIDの確認が可能で、市民IDでBoostingの依頼の授受、市長補佐を介したコインの授受をしています。
+----
+#co(){
+//---<ダッシュボード >-------------------------------------------------
+*ダッシュボード情報 &font(#4169E1){Dashboard}
+}
+//---<プロファイル>-------------------------------------------------
+*プロファイル情報 &font(#4169E1){Profiles}
+***&font(19,u){&color(#4169E1){|}&space()概要&space()}
+市民情報管理データベース。
+全住人の基本情報が閲覧できる。また、調査した指紋やDNA情報などの追記、その他ライセンス情報などの紐付けが可能な他、市民ID、氏名、指紋IDに対して検索を行える。
+//
+&anchor(プロファイル一覧){}
+***&font(19,u){&color(#4169E1){|}&space()一覧&space()}
+#pulldown_jump([[あ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%82]],[[い　>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%84]],[[う>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%86]],[[え>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%88]],[[お>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%8A]],[[か>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%8B]],[[き>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%8D]],[[く>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%8F]],[[け>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%91]],[[こ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%93]],[[さ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%95]],[[し>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%97]],[[す>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%99]],[[せ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%9B]],[[そ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%9D]],[[た>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%9F]],[[ち>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%A1]],[[つ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%A4]],[[て>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%A6]],[[と>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%A8]],[[な>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%AA]],[[に>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%AB]],[[ぬ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%AC]],[[ね>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%AD]],[[の>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%AE]],[[は>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%AF]],[[ひ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%B2]],[[ふ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%B5]],[[へ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%B8]],[[ほ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%BB]],[[ま>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%BE]],[[み>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%81%BF]],[[む>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%80]],[[め>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%81]],[[も>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%82]],[[や>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%84]],[[ゆ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%86]],[[よ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%88]],[[ら>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%89]],[[り>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%8A]],[[る>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%8B]],[[れ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%8C]],[[ろ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%8D]],[[わ>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%8F]],)
+//[[を>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%92]],[[ん>https://w.atwiki.jp/streamergta5/pages/1815.html#%E3%82%93]]
+//
+#co(){^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+wiki内、各キャラプロフィール情報の市民IDのみ一旦移設中。
+それ以外は観測し次第随時
+
+メンテ大変そうで抜いてるもの：|~プロフィール画像|~ライセンス|~車両|　
+情報価値として微妙そう？：|~アパート|~プロパティ|~ギャラリー|~前科の有無|
+情報として扱えなさそう？：|~職業|~生年月日|
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+//
+#size(50%){　}
+#region(あ行)&small(){閉じる}
+//----------------
+#region(あ)&anchor(あ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(アーモンド　サラザール)[[アーモンド　サラザール]]&br()&small(){(別名：ハンク)}|FYL46715|wG965r62keU7128|553643215||
+|&anchor(R　B)[[R　B]]|GFM77656||||
+|&anchor(アイアンメイデン　三郎太)[[アイアンメイデン　三郎太]]|HBA32378||||
+|&anchor(アイドゥラー　ヨシャパテ)[[アイドゥラー　ヨシャパテ]]&br()&small(){(別名：ラブストレート 小里馬ァ)}|IPN89775||||
+|&anchor(あいまいみー)[[あいまいみー]]|MHE26554|QL257J18Ted9974|3579837215||
+|&anchor(青井　らだお)[[青井　らだお]]|QXG78634|Xq847V69ysh2681|4495969309||
+|&anchor(赤色　にごう)[[赤色　にごう]]&br()&small(){(別名：ちのまるこ)}|AUE79851|gu568u99RhH1436|4362489975||
+|&anchor(赤兎　がみとも)[[赤兎　がみとも]]|HHN10327||||
+|&anchor(赤城　煉)[[赤城　煉]]|COB96950||1075481993||
+|&anchor(アキヲ・煉獄・ペスカトーレ)[[アキヲ・煉獄・ペスカトーレ]]&br()&small(){(別名：パンプキング)}|XGR28429||||
+|&anchor(アクネム市長補佐)[[アクネム市長補佐]]|AIJ84770||||
+|&anchor(揚物　ころも)[[揚物　ころも]]|ZJY50777||8314166488||
+|&anchor(朝羽　龍之介)[[朝羽　龍之介]]|TWQ42541||2441972419||
+|&anchor(麻林　ラル)[[麻林　ラル]]|CBU31082|cA652R78rzi2402|7499143033||
+|&anchor(足軽　せ五十郎)[[足軽　せ五十郎]]|XOG47877||||
+|&anchor(味野　環九郎)[[味野　環九郎]]|ZAF80326||&co(){プロファイル}2111336400&co(){(警察)State記載4809147020}||
+|&anchor(魚参　屋)[[魚参　屋]]|EGE83496|ni138p75Rsg5831|2681857613||
+|&anchor(アドミゲス・ハン)[[アドミゲス・ハン]]|EUC93013|sE448t92WYs7777|9399961368||
+|&anchor(アヌギフ　白川)[[アヌギフ　白川]]|EDH00272|px264x69zQH7140|3449235895||
+|&anchor(安倍　霊明)[[安倍　霊明]]|CVE27339|eM209O10lrd0645|5392449244||
+|&anchor(安保　さぶ郎)[[安保　さぶ郎]]|STB93339|GJ144o39FtB6888|6958785965||
+|&anchor(甘井　きをく)[[甘井　きをく]]|MMS23914|Rs316F06HAx2564|9077643424||
+|&anchor(甘井　めろん)[[甘井　めろん]]|UBB02213|QO402v57WSa9673|&co(){プロファイル}9348443239&co(){実際：9076034426}||
+|&anchor(甘井　りりす)[[甘井　りりす]]|AHR64342|Yz866j62pbu3363|||
+|&anchor(天草　蒼)[[天草　蒼]]&co(){&br()&small(){(別名：笹熊　アレオ)}}|TPD60499|tX367c93oyf3907|6699607054||
+|&anchor(天羽　さつき)[[天羽　さつき]]|EZL96140||||
+|&anchor(天羽　よつは)[[天羽　よつは]]|IUG12518|qJ720v13qUo7570|4382756515||
+|&anchor(綾瀬　ひな)[[綾瀬　ひな]]|TGS85751||||
+|&anchor(あやな　みれい)[[あやな　みれい]]|YRW49572||||
+|&anchor(有坂　誉)[[有坂　誉]]|OFB58410|Lm236J65fyR0700|7009731203||
+|&anchor(ありもと　けんいち)[[ありもと　けんいち]]|WVN50717||||
+|&anchor(Albert　Pondering)[[Albert　Pondering]]&co(){&br()&small(){(別名：オフィサー　ジェフリー)}}|OKO42189||||
+|&anchor(アルフォート　ウェスカー)[[アルフォート　ウェスカー]]|OYA14883|nH933U69PmC0163|4809309705||
+|&anchor(Arupi　Aru)[[Arupi　Aru]]|OYZ57382||||
+|&anchor(安城　成)[[安城　成]]|YQF84065||||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(あ)
+#size(50%){　}
+//----------------
+#region(い)&anchor(い){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(飯田　けんつ)[[飯田　けんつ]]|SQL05862|YJ324y03wVF0153|&co(){プロファイル}7527009280&co(){本来は2057712209}||
+|&anchor(家好　にーと)[[家好　にーと]]|PQU13190||||
+|&anchor(五十嵐　えいむ)[[五十嵐　えいむ]]&co(){&br()&small(){(旧姓：青猫えいむ)}}|BSS89353||||
+|&anchor(五十嵐　ボブ)[[五十嵐　ボブ]]|HXU10969|PH416W34Hlj3416|9070146431||
+|&anchor(池島　裕貴)[[池島　裕貴]]|SMI27794||||
+|&anchor(伊坂　直樹)[[伊坂　直樹]]|LCT87015||||
+|&anchor(伊豆院　登)[[伊豆院　登]]|IRQ86207||4808550979||
+|&anchor(伊勢　えびす)[[伊勢　えびす]]|XMK29585||1583377978||
+|&anchor(伊田場　零雨)[[伊田場　零雨]]|PZN93213|oZ278r02bak2207|8962938137||
+|&anchor(イチカ　ウィルキンズ)[[イチカ　ウィルキンズ>碇　イチカ]]&co(){&br()&small(){(旧姓：碇イチカ/別名：ほわいとたいが)}}|DCW66456||||
+|&anchor(伊藤　カテジ)[[伊藤　カテジ]]|XBB38931||6432819324||
+|&anchor(伊藤　ぺいん)[[伊藤　ぺいん]]|ETE76869|Ju126i91zAh5446|8392417823||
+|&anchor(イナ　イロハ)[[イナ　イロハ]]|WMO50791|TP281t61xEf1006|&co(){プロファイル}1446565669&co(){(救急)State記載5200536679}||
+|&anchor(稲葉　ゴン)[[稲葉　ゴン]]|UNU91815|NG658K87zXy7229|4402883261||
+|&anchor(犬上　リオ)[[犬上　リオ]]|MBQ69690||6022506037||
+|&anchor(いぬね　こう)[[いぬね　こう]]|KNL35894||||
+|&anchor(犬　ルリ)[[犬　ルリ]]|HNL47923|jv832g79vmJ9996|4448868362||
+|&anchor(イネヌコ)[[イネヌコ]]|PFK38742|DP677r53rIU5334|7144498152||
+|&anchor(命田　守)[[命田　守]]|DYN71306|Gf593H45Ylu0294|9539576961||
+|&anchor(いわさき　そす)[[いわさき　そす]]|VRT47823|tV069s18aiB0450|7464520471||
+|&anchor(イヴ　トワイライト)[[イヴ　トワイライト]]|NRS65852|Zz715B48SHe1603|4575221902||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(い)
+#size(50%){　}
+//----------------
+#region(う)&anchor(う){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ウィリアムズ　田中)[[ウィリアムズ　田中]]|MOQ22136||6139647532||
+|&anchor(ウィル　ナイアー)[[ウィル　ナイアー]]|MLV19325||||
+|&anchor(上田　さん)[[上田　さん]]|XII73087|pr697U22LNS1982|9845097372||
+|&anchor(Ueno　Kamiya)[[Ueno　Kamiya]]&co(){&br()&small(){(別表記：上野かみや)}}|MRK43546||||
+|&anchor(牛桃　ももこ)[[牛桃　ももこ]]|KME36135||||
+|&anchor(Ura Ipura)[[Ura Ipura]]|QTI62067|Yp801x66apn9642|4474222222||
+|&anchor(ヴァン　ダーマー)[[ヴァン　ダーマー]]|WIC76010|wi614z72nYV0875|8014051300||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(う)
+#size(50%){　}
+//----------------
+#region(え)&anchor(え){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(えぐち　きの子)[[えぐち　きの子]]&br()&small(){(別名：ねずみさん)}|ACE88445||3021152618||
+|&anchor(エスターク・Z・ダークネス)[[エスターク・Z・ダークネス]]|FCO86903|iV661y33SUM8903|1278865290||
+|&anchor(エダ　ゴブレット)[[エダ　ゴブレット]]|VDP42805|iy743E34rvA4196|9616156735||
+|&anchor(MC　Sunrise)[[MC　Sunrise]]|NIN83143||||
+|&anchor(遠隔寺　電波)[[遠隔寺　電波]]|CDO74467||5478765562||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(え)
+#size(50%){　}
+//----------------
+#region(お)&anchor(お){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(青梅　つばめ)[[青梅　つばめ]]|RBT74574|pG859y78aIW3363|4103393592||
+|&anchor(小此木　ナカバ)[[小此木　ナカバ]]|JET96197||||
+|&anchor(大　川)[[大　川]]|CPQ35312|IV587f83zft3522|6513640772|&openclose2(show=開く){&br()ウェポンライセンス自己申告により&br()2024/7/9日失効-ライセンス回収済武器未回収&br()&br()怖い&br()&br()ウェポンライセンス7/29更新&br()【全て未回収】&br()PISTOL　LZ82CR800N　40kCX6zc508YVjy&nbsp(br,15)09ixz3qw825smpp&nbsp(br,15)21NC93kQ2130Klz&br()カービンMK2　58PGU7IN287LZUT&br()HEAVY PISTOL 39jBj9wi443pxWP&br()HEAVY PISTOL 567745RLV710696&br()&br()&br()【Aランク】Weeny Issi Sport - PZAO6535&br()【Aランク】Enus Paragon - APZG3110}|
+|&anchor(大喜久　なる男)[[大喜久　なる男]]|JTX46475||||
+|&anchor(丘猫　まる)[[丘猫　まる]]|NVR99129||||
+|&anchor(オザワ　ハヤマサ)[[オザワ　ハヤマサ]]|XCC80118|RF777g42zHk7697|5989953184||
+|&anchor(小路陽　サマー)[[小路陽　サマー]]|QKJ51436||||
+|&anchor(音鳴　ミックス)[[音鳴　ミックス]]|FCE08729|Ex297x02Pdc5030|3849069353||
+|&anchor(鬼瓦　るる)[[鬼瓦　るる]]|KOO13212||||
+|&anchor(鬼野　ねね)[[鬼野　ねね]]|RAU08554||||
+|&anchor(御庭野　えんちょう)[[御庭野　えんちょう]]|TGX19513||3392072606||
+|&anchor(オルカ　トヴォロ)[[オルカ　トヴォロ]]|OLS15940|dt032c35nxk7231|3741431171|| 
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(お)
+#endregion(あ行)
+#size(50%){　}
+//----------------
+#region(か行)&small(){閉じる}
+#region(か)&anchor(か){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(カイン　ユリウス)[[カイン　ユリウス]]||xC979Y73Hyy7810|||
+|&anchor(ガヴァイ　アッカンマン)[[ガヴァイ　アッカンマン]]|EDD99989||2054977238||
+|&anchor(風見　セオ)[[風見　セオ]]|ZSI35115||5361320942||
+|&anchor(加藤　圧)[[加藤　圧]]|RRS64156|So977T36QGe9546|6769456382||
+|&anchor(Kana　Assistant Mayor's)[[Kana　Assistant Mayor's]]|EGP97286||5856786980||
+|&anchor(花野　ほのか)[[花野　ほのか]]|FDP90397||||
+|&anchor(カルウィン・轟輪)[[カルウィン・轟輪]]|ZWA10416||5508829236||
+|&anchor(神崎　治)[[神崎　治]]|GPL24673|JC591p36qFm3650|2725293787||
+|&anchor(神田　じぇいのすけ)[[神田　じぇいのすけ]]|CIH11168|Qj930B22Lwm4424|8894281590||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(か)
+#size(50%){　}
+//----------------
+#region(き)&anchor(き){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(キーモット　ホームズ)[[キーモット　ホームズ]]|FDF99972|Wt141T51lwK0633wk|2644127896||
+|&anchor(紀伊路　つみき)[[紀伊路　つみき]]|ZEN27665||6024728338||
+|&anchor(ぎこ　猫一郎)[[ぎこ　猫一郎]]|FAZ71193||||
+|&anchor(如月　キャシー)[[如月　キャシー]]|NFU56035||6939462552||
+|&anchor(如月　ミチコ)[[如月　ミチコ]]|KMU10082|yQ380H47sPR2878|8078698120||
+|&anchor(北九　茶々丸)[[北九　茶々丸]]|DHF78716||2805590214||
+|&anchor(北村　ばなな)[[北村　ばなな]]|FOS32938|AK716m38KNt7447|2429293704||
+|&anchor(鬼桃　ぷぅ)[[鬼桃　ぷぅ]]|NQY18590||&co(){プロファイル}9687524223&co(){救急STATE：9078152938}||
+|&anchor(ぎちょう・じょばぁーな)[[ぎちょう・じょばぁーな]]|OID02769|NM965p86YEy3512|6937899347||
+|&anchor(君野　久夢)[[君野　久夢]]|NFV15171||2147086866||
+|&anchor(きらりんぶい☆　なずぴ(10)[[きらりんぶい☆　なずぴ(10)]]|ETT14530||3258907407||
+|&anchor(キャプテン　わきを)[[キャプテン　わきを]]&co(){&br()&small(){(別名：わきおまさし)}}|EDD28848|Dl762h28uFr5871|8039765936||
+|&anchor(キラ・メキーラ)[[キラ・メキーラ]]&co(){&br()&small(){(別名：うしくん)}}|VWJ47904||4029880517||
+|&anchor(切間　てつお)[[切間　てつお]]|INH50202|Zl077p93nFO4322|2946903758||
+|&anchor(菌　ニック)[[菌　ニック]]|AGL47775||||
+|&anchor(銀河一　アニキ)[[銀河一　アニキ]]|LTD82951||4449349792||
+|&anchor(キングスターダイヤモンド　ズズ)[[キングスターダイヤモンド　ズズ]]|LIQ40736|Kc437J62slu8828|6806422247||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(き)
+#size(50%){　}
+//----------------
+#region(く)&anchor(く){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(九頭峰　誠士郎)[[九頭峰　誠士郎]]|ARD39711|MK468l03XGV2767|3756095862||
+|&anchor(クマ　ゴリラ)[[クマ　ゴリラ]]|QYX19317||||
+|&anchor(空舞月　るる)[[空舞月　るる]]|WOT67311|oQ507s67FnE6183|3941072394||
+|&anchor(くまの　ふでこ)[[くまの　ふでこ]]|SWB11397||||
+|&anchor(くま　ぽこ)[[くま　ぽこ]]|ZUK41152|ne545j43oEQ3754|&co(){プロファイル}7009635609&co(){本来は9075584645}||
+|&anchor(クルトン　山田)[[クルトン　山田]]|FTB47441||||
+|&anchor(grow)[[grow]]|SED35183||7837556192||
+|&anchor(黒桜　ローレン)[[黒桜　ローレン]]|DLW42007||4803366848||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(く)
+#size(50%){　}
+//----------------
+#region(け)&anchor(け){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ケイティ　ブロッサム)[[ケイティ　ブロッサム]]||EL483H82XOQ4173|||
+|&anchor(ケイン／オー)[[ケイン／オー]]|LHH91763|AC525z16CGD9219|3563353079||
+|&anchor(KESO　MI)[[KESO　MI]]&co(){&br()&small(){(別表記：けそ美)}}|SGB96230||||
+|&anchor(けっつん　太郎)[[けっつん　太郎]]|CAT21292||||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(け)
+#size(50%){　}
+//----------------
+#region(こ)&anchor(こ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(攻噛　拓哉)[[攻噛　拓哉]]|SOF71327||5206639243||
+|&anchor(こさ　猫弐郎)[[こさ　猫弐郎]]|HDG06464||9076542751||
+|&anchor(後藤　れむ)[[後藤　れむ]]|WNH88181||6456860473||
+|&anchor(小峯　玲)[[小峯　玲]]&br()&small(){(別名：ハイライト)}|EPQ45777|cw45915guQ0170|6343769451||
+|&anchor(五味袋　比良)[[五味袋　比良]]|ZVW55011|gL007k23egH779|8025733919||
+|&anchor(小者　デヤンス)[[小者　デヤンス]]&br()&small(){(通称：デヤンス)}|DIG62498|AM520r30AhB4036|4302182034||
+|&anchor(近藤　武蔵)[[近藤　武蔵]]|SDI61672|aa748n26hRf4472|||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(こ)
+#endregion(か行)
+#size(50%){　}
+//----------------
+#region(さ行)&small(){閉じる}
+#region(さ)&anchor(さ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(細嶋　光希)[[細嶋　光希]]|OXF62704|iX215T22dRv1103|||
+|&anchor(西蓮寺　華月)[[西蓮寺　華月]]|YQV50671|pi036E66jTr4246|7361666506||
+|&anchor(三枝　奏汰)[[三枝　奏汰]]|QHT11612||||
+|&anchor(坂柳　陣平)[[坂柳　陣平]]|ZZZ25810|WL264z44ZaJ6176|||
+|&anchor(酒槻　すん)[[酒槻　すん]]|LNK25587|Eb012Z81hjg6308|5445271041||
+|&anchor(佐々木)[[佐々木]]|RHE03579||&co(){(警察)State記載}6021773604||
+|&anchor(サタン　竹山)[[サタン　竹山]]|AWO48452||||
+|&anchor(漸知　きん)[[漸知　きん]]&co(){&br()&small(){(別名：仕入れおじさん)}}|PZQ02993||||
+|&anchor(さとう)[[さとう]]|WRL78170||4809592951||
+|&anchor(サミュエル　佐藤)[[サミュエル　佐藤]]|FHE43395||||
+|&anchor(鮫島　フラム)[[鮫島　フラム]]|BUT32521||||
+|&anchor(猿山　ボロサリーノ)[[猿山　ボロサリーノ]]|ACW93260||||
+|&anchor(サンクチュアリ　たえこ)[[サンクチュアリ　たえこ]]|XHO80717|サンクチュアリ たえこ&co(){※誤植ではありません}|2654708945||
+|&anchor(三否亭　四五六確)[[三否亭　四五六確]]|WYQ97505||||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(さ)
+#size(50%){　}
+//----------------
+#region(し)&anchor(し){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(椎花　まほ)[[椎花　まほ]]|ZTW27594|sy92lL23vvM3938|||
+|&anchor(J　D)[[J　D]]|HIA34101|kL366F53TeJ7407|4265388168||
+|&anchor(ジェフリー　ヒッチコック)[[ジェフリー　ヒッチコック]]|VEM24262|bl458D55kqU0180|3143381296||
+|&anchor(シオコ　リコ)[[シオコ　リコ]]|HEV34204||4289897762||
+|&anchor(四皇　シャンクズ)[[四皇　シャンクズ]]|AWN58139||5265182066||
+|&anchor(紫水　コウ)[[紫水　コウ]]|BFI53076|NI292x53fyT5130|7464440294||
+|&anchor(科場　諸朋)[[科場　諸朋]]|ZLE94675|ph085X89aOg0450|4254291418||
+|&anchor(篠崎　ケイ)[[篠崎　ケイ]]|JFR94949|UJ265E06sRR4744|9245783039||
+|&anchor(石楠花　いのり)[[石楠花　いのり]]|GHH98992|rd188i16Gau3564|1921530960|'24/9/29 22:28死亡|
+|&anchor(ジャック　馬ウアー)[[ジャック　馬ウアー]]|SAK95702|aa819r11aXR8995|9177432296||
+|&anchor(ジャック　馬ウメー)[[ジャック　馬ウメー>>松竹　ウメ]]&co(){&br()&small(){(旧姓：松竹　ウメ)}}|UMC97513||||
+|&anchor(ジャムリーヌ　バルサミコス)[[ジャムリーヌ　バルサミコス]]|SNH90452||6446389762||
+|&anchor(ジャン＝ジャック・ヴァラン)[[ジャン＝ジャック・ヴァラン]]|MXN37080|TR761E54Vos7008|5631528984||
+|&anchor(シュガー　ピーチ)[[シュガー　ピーチ]]|NUR60271|gz432c14qwi8900|9607572016||
+|&anchor(菖蒲　光樹)[[菖蒲　光樹]]|HPU94603|HJ187O37NPM0455|9792819715||
+|&anchor(職無　ニトロ)[[職無　ニトロ]]|HML76928||7706826795||
+|&anchor(ジョシュア・マーキル)[[ジョシュア・マーキル]]|BLY52704|ow223U73zKA2178|6635551950||
+|&anchor(ジョン　ドゥ)[[ジョン　ドゥ>https://w.atwiki.jp/streamergta5/pages/1339.html]]&br()&small(){(別名：ぬくお)}|MTR70672|RP543L42EGv5509|8192348125||
+|&anchor(ジョン　ドングリ)[[ジョン　ドングリ]]|WGT58223||7857359670||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(し)
+#size(50%){　}
+//----------------
+#region(す)&anchor(す){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(栖家幡　華憐)[[栖家幡　華憐]]|AEC70591|Sv342M93LwN9642|9749665221||
+|&anchor(スコティッシュ・ホールド)[[スコティッシュ・ホールド]]|LVK26527|Gx733W74gnN5599|&co(){プロファイル}6982145869&co(){実際：5206804971}||
+|&anchor(朱雀　愛未)[[朱雀　愛未]]|KYI67132|cV405b50NSM7371|8681921293||
+|&anchor(須藤　冬馬)[[須藤　冬馬]]|XMZ47251||9641183003||
+|&anchor(スプリング　ピース)[[スプリング　ピース]]|MSG44595||||
+|&anchor(清澄　ラウル)[[清澄　ラウル]]|INV46744||4328417734||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(す)
+#size(50%){　}
+//----------------
+#region(せ)&anchor(せ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(聖母　れりあ)[[聖母　れりあ]]|ZZT57005|eV748Z15Vzd9797|8892370622||
+|&anchor(銭形　やいち郎)[[銭形　やいち郎]]|JLW92247|lw777K88CdG5504|2083576037||
+|&anchor(ゼラチン　おでん)[[ゼラチン　おでん]]|QBI90222|F1666H24PDy7245|4105454070||
+|&anchor(セリーヌ　ゴデス)[[セリーヌ　ゴデス]]|LCD94531||8695072376||
+|&anchor(芹　沢)[[芹　沢]]|KXU28722|fN575w09LEi5671|5424495977||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(せ)
+#size(50%){　}
+//----------------
+#region(そ)&anchor(そ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(豆乳　ちゃんもも)[[豆乳　ちゃんもも]]|RPH64635|Rb441r06VCl2570|6908038166||
+|&anchor(空架　ぐち逸)[[空架　ぐち逸]]|THO34537||9478024116||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(そ)
+#endregion(さ行)
+#size(50%){　}
+//----------------
+#region(た行)&small(){閉じる}
+#region(た)&anchor(た){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(高橋　滅論)[[高橋　滅論]]|DIR21039||4541527169||
+|&anchor(高橋　雄三)[[高橋　雄三]]|QXE16385||||
+|&anchor(鷹　シエール)[[鷹　シエール]]|XEE82990|ES727s72nQk8303|4703112455||
+|&anchor(鷹山　トシアキ)[[鷹山　トシアキ]]|FLZ93001||||
+|&anchor(竹井　勝痔)[[竹井　勝痔]]|HOD22851|EK838C56CCb5979|2842674052||
+|&anchor(タコマツ)[[タコマツ]]|DCA77023|XQ735m60jSn0087|||
+|&anchor(タシロ　カワセ)[[タシロ　カワセ]]|GAK81277|Dn478V33ekh4672|4373431197||
+|&anchor(畳　かえる)[[畳　かえる]]|IDI05502||||
+|&anchor(橘　かげまる)[[橘　かげまる]]|HZE40127|Im676h25lQL3828|6953808239||
+|&anchor(立花　乱歩)[[立花　乱歩]]|FUQ09008||7657615057||
+|&anchor(伊達咲　政宗)[[伊達咲　政宗]]|TXP66351|OD548H10CDM9738|9184299226||
+|&anchor(田中・H・レイチェル)[[田中・H・レイチェル]]|BJG15347||||
+|&anchor(TANAKA　MASAMITU)[[TANAKA　MASAMITU]]|QXJ18471|vV346e19FFb0001|||
+|&anchor(堕夜　だよ)[[堕夜　だよ]]|KTJ49311|hP095T42dmU0051|4705277564||
+|&anchor(タマーチ　ニキタ)[[タマーチ　ニキタ]]|MRC18048|Aw097g68nrg4762|&co(){プロファイル}3715221267&co(){実際：2057072404}||
+|&anchor(タラ　ちゃん)[[タラ　ちゃん]]|SBU08600|Aa107g03Gts4150|3442791702||
+|&anchor(多良里　ずぅ)[[多良里　ずぅ]]|FMI85597||1777798364||
+|&anchor(TANKTOP　竹森)[[TANKTOP　竹森]]|JSB70496|Aw488D62Pxs0168|5353532214||
+|&anchor(Dan　Assistant Mayor)[[Dan　Assistant Mayor]]|AJY95122||8682528528||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(た)
+#size(50%){　}
+//----------------
+#region(ち)&anchor(ち){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(チェン　マヨ)[[チェン　マヨ]]|IFP37297||8186894866||
+|&anchor(チャルロス　SAY!)[[チャルロス　SAY!]]|YYV99645||||
+|&anchor(超越ヶ谷　にかり)[[超越ヶ谷　にかり]]|ACX61219|gB356p15ett6890|6434850881||
+|&anchor(千代田　ヨウ)[[千代田　ヨウ]]|HLD50461|sn547n57CdN6526|||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(ち)
+#size(50%){　}
+//----------------
+#region(つ)&anchor(つ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ツクヨミ　レオ)[[ツクヨミ　レオ]]|PJR75380|IN184R15sYd6349|2065692895||
+|&anchor(月ノ島　ごう)[[月ノ島　ごう]]|JAG23985||4046521554||
+|&anchor(土田　ぷちお)[[土田　ぷちお]]|WRC37217||&co(){(警察)State記載}6021072904||
+|&anchor(壺浦　勲)[[壺浦　勲]]|SEQ28741||||
+|&anchor(つぼ浦　匠)[[つぼ浦　匠]]|BBN32922||8452777723||
+|&anchor(つよがり　とうか)[[つよがり　とうか]]|UPU30848|lv820A68rll8802|9072703602||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(つ)
+#size(50%){　}
+//----------------
+#region(て)&anchor(て){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ティキーチック　のすけ)[[ティキーチック　のすけ]]|KCR67074|Sw307T49saq9231|9072233427||
+|&anchor(デカ井　うるか)[[デカ井　うるか]]|DSK51963||2848112957||
+|&anchor(テキーラ　ジンバック)[[テキーラ　ジンバック]]|LVX11549|UL461u51OPr9297|9836805881||
+|&anchor(転移　逆転移)[[転移　逆転移]]|DJL78143||||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(て)
+#size(50%){　}
+//----------------
+#region(と)&anchor(と){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(トウ　ユン)[[トウ　ユン]]|ZLF44275|YT385A67YtQ5761|9619768387||
+|&anchor(桃園寺　紀土)[[桃園寺　紀土]]|RNK67621|ma299h05kaN4145|7709739311||
+|&anchor(常世田　シエロ)[[常世田　シエロ]]|OIN57944|Bx515h71PZg0673|3351961089||
+|&anchor(鳥野　ぎん)[[鳥野　ぎん]]|QLD09973|y0420B49Vkn4223|5497878536||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(と)
+#endregion(た行)
+#size(50%){　}
+//----------------
+#region(な行)&small(){閉じる}
+#region(な)&anchor(な){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(中川　蔵人)[[中川　蔵人]]&br()&small(){(別名：市尾玖久礼)}|IXJ42702|YP051A15tRQ3822|3112638058&br()2047834383||
+|&anchor(無馬　かな)[[無馬　かな]]|GIE80990|Ea116y04FUM5649|2715640035|&openclose2(show=開く){&br()ガンライセンス　6KYZ9UL602IWHB　はく奪&br()&br()本名　無馬かな&br()ALLINはぬけた - 3/19&br()あるかな（何の組織かは不明）&br()&br()4/23 白市民パス発行&br()7/29武器ライセンス更新&br()9/5 白市民パス返納&br() →そのまま佐々木・乱歩を射殺 指名手配&br()免許・ライセンスはく奪&br()アサルトSMG　674938ARN928190&br()アドバンスドライフル　880862BHS109849&br()ナイフ　56ZSw2Jx693MBMJ&br()ショットガン49EPD3sl399mzGa&br()&br()ヘビーピストル 04keo1Nf824aMal&br()660CS6VS85zbo8&br()ロケットランチャー 60LpN0pY634qmSX&br()担当: ヤミー・エンデバー&br()&br()個人医　元ドクターBONGORE&br()※(承認保護プログラムのため変装していた。)&br()上記の件について知りたい方はミンドリーまで!&br()&br()変装　ゆきだるま (カナ エルサ)&nbsp(br,10)トナカイ トカナイ&nbsp(br,10)だれよりもはやくなりたいy&nbsp(br,10)かな倉 小十郎&nbsp(br,10)カナ ソック&nbsp(br,10)覚悟 バーガー&nbsp(br,10)ドクター K&nbsp(br,10)どんべえ　だべええ&nbsp(br,10)ブルーブラック&nbsp(br,10)じゃんじゃが じゃん&nbsp(br,10)こころなしま&nbsp(br,10)ナシジマ　カオル}|
+|&anchor(那須　裕貴)[[那須　裕貴]]|VAA59377|qA121g22psT9596|2078977834||
+|&anchor(ナタル　イルコフ)[[ナタル　イルコフ]]|MNY78202|qX050K84fgO6856|5552444682||
+|&anchor(七瀬　ぜろ)[[七瀬　ぜろ]]|WKT52738|LK832r49gwX1827|1371141141||
+|&anchor(なのの　なの)[[なのの　なの]]|FFC39846||||
+|&anchor(生雲丹　よづな)[[生雲丹　よづな]]|WIX84145|My819j09Zdq0743|1978914878||
+|&anchor(成瀬　夕コ)[[成瀬　夕コ]]|CRI4589||||
+|&anchor(成瀬　力二)[[成瀬　力二]]|SLC21166|fe961g39VBX6603|5514307167||
+|&anchor(なんば　てって)[[なんば　てって]]|HSC46686|Gc520d40iTB9402|||
+|&anchor(難波　ハル)[[難波　ハル]]|SBI28553||2449458559||
+|&anchor(No.　13)[[No.　13]]&co(){&br()&small(){(別名：サティ)}}|LBK80261||6313971883||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(な)
+#size(50%){　}
+//----------------
+#region(に)&anchor(に){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(にし　のん)[[にし　のん]]|PXD29559|HD397d98vrx3282|2652173610||
+|&anchor(ニックス　リア)[[ニックス　リア]]&co(){&br()&small(){(別名：皇帝)}}|ASL33010|tB010e56fcU0769|4671790039||
+|&anchor(二部　らるたる)[[二部　らるたる]]|DHK51403||9075895437||
+|&anchor(ニャンコ・スキー)[[ニャンコ・スキー]]|XTW49169|PZ605R50yTu1540|9776330197||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(に)
+#size(50%){　}
+//----------------
+#region(ぬ)&anchor(ぬ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+||||||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(ぬ)
+#size(50%){　}
+//----------------
+#region(ね)&anchor(ね){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ネオ・レオンハート)[[ネオ・レオンハート]]|APH81736|sG284V49adm2764|4806761404||
+|&anchor(ねが田　さぶ郎)[[ねが田　さぶ郎]]|JZN75550||8564400564||
+|&anchor(ネケ　ニマス)[[ネケ　ニマス]]|NVN13454|BS916A06PTK3697|2724820499||
+|&anchor(猫又　ぴぴ)[[猫又　ぴぴ]]|TID69000|fL783j74ITZ7854|1741597320||
+|&anchor(猫　マンゴー)[[猫　マンゴー]]|NYG57465||6412026261||
+|&anchor(ネズ)[[ネズ]]&co(){&br()&small(){(別名：プスカ大佐/りゅーぷ)}}|BOC96679||8675954098||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(ね)
+#size(50%){　}
+//----------------
+#region(の)&anchor(の){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ノア　チェンバー)[[ノア　チェンバー]]|JNV17724||9633531666||
+|&anchor(ノビー　ラング)[[ノビー　ラング]]|OXR81589|DV841c64PFB0110|7519663370||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(の)
+#endregion(な行)
+#size(50%){　}
+//----------------
+#region(は行)&small(){閉じる}
+#region(は)&anchor(は){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(バーバリアン　田中)[[バーバリアン　田中]]|SVO41936||2763218419||
+|&anchor(HAIGURE　TAMAO)[[HAIGURE　TAMAO]]|AIJ60393||||
+|&anchor(葉風邪　ナイ)[[葉風邪　ナイ]]|FGT86696||2036952239||
+|&anchor(芳賀　ノエル)[[芳賀　ノエル]]|BRE56645|Jf271V00Bsq0705|7101464780||
+|&anchor(パキ　ち)[[パキ　ち]]|UWV91991||2485417573||
+|&anchor(刃牙　りえる)[[刃牙　りえる]]|ZTP27023||||
+|&anchor(ハク　ナツメ)[[ハク　ナツメ]]|WVS52401|VB341f51YJP9358|2532599857||
+|&anchor(葉具木　グラ)[[葉具木　グラ]]|LAU31451||||
+|&anchor(白狼　フリル)[[白狼　フリル]]|UXP31632||7068121558||
+|&anchor(化ケ　きつね)[[化ケ　きつね]]|AHP39698||||
+|&anchor(羽芝　ユン)[[羽芝　ユン]]|NSN79989||||
+|&anchor(葉時山　バジル)[[葉時山　バジル]]|ADG90003||||
+|&anchor(蓮　シオン)[[蓮　シオン]]|MER80931||8863137067||
+|&anchor(パス　ヒソカ)[[パス　ヒソカ]]&br()&small(){ようちえんじ}|GVF25455||||
+|&anchor(二十日　ネル)[[二十日　ネル]]|RLI97137|eg662129waO1064|5834881459||
+|&anchor(Back　Alley)[[Back　Alley]]|IOX26395||6279484786||
+|&anchor(花沢　まるん)[[花沢　まるん]]|WZL34527|on268B38cPz7285|6127420632||
+|&anchor(花山　令)[[花山　令]]|ZWL42046||1872123564||
+|&anchor(刃弐　ランド)[[刃弐　ランド]]|FJS05259|QS367p82zez3722|1313196792||
+|&anchor(羽山　パティ)[[羽山　パティ]]|EYO35548|bR181m96bfb9606|1532395143||
+|&anchor(羽山　ペティ)[[羽山　ペティ]]|AFC14825||4543853057||
+|&anchor(半沢　直ふぃ)[[半沢　直ふぃ]]&br()&small(){(別名：ジョーカー)}|AFD56616|aA672R21DEa2391|5928190405||
+|&anchor(番田　長助)[[番田　長助]]|NQO23097||6098709134||
+|&anchor(ハン　バーガー)[[ハン　バーガー]]|GEN71523||3263315293||
+|&anchor(パン　チャン)[[パン　チャン]]|TQU68352|iS270B82eNb3317|1625592412||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(は)
+#size(50%){　}
+//----------------
+#region(ひ)&anchor(ひ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(光乃　あびす)[[光乃　あびす]]|PHU58025|aD954W91jJL6132|1023383530||
+|&anchor(髭野　たけーら)[[髭野　たけーら]]|AVJ85565|NJ366s72NfP5400|||
+|&anchor(久川　たんぽぽ)[[久川　たんぽぽ]]|NGK05384||&co(){プロファイル}1618864671&co(){(警察体験時)State記載6026627887}||
+|&anchor(BIG　SUZUKI)[[BIG　SUZUKI]]|EAD96945||&co(){(BIG)State記載}2046316818||
+|&anchor(日之　ぱちお)[[日之　ぱちお]]|JWX22708||3375765070||
+|&anchor(ひの　らん)[[ひの　らん]]|CWI13798|xl176d25FUe8054|6774526637||
+|&anchor(姫一　夕)[[姫一　夕]]|LVB45401|Kx428T35TiB7184|9993691224||
+|&anchor(平方　根)[[平方　根]]||OG034t02bHZ7323|||
+|&anchor(ヒロ　ヤマモト)[[ヒロ　ヤマモト]]|AMZ48408||2474084160||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(ひ)
+#size(50%){　}
+//----------------
+#region(ふ)&anchor(ふ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(Famos　Gray)[[Famos　Gray]]|HPD99009||||
+|&anchor(フェアリー　トピオ)[[フェアリー　トピオ]]|YOS04872|JU439W92gqM9336|9335476065||
+|&anchor(深沢　えぼし)[[深沢　えぼし]]|BXQ58197|vt882l87Ozl15140|6678934705||
+|&anchor(不二子　キャスパー)[[不二子　キャスパー]]|BEW27438|eg387b43YSO2756|1744464710||
+|&anchor(文月　夏苗)[[文月　夏苗]]|DMM63446||||
+|&anchor(文月　なえ)[[文月　なえ]]|FOX57904||9325216597||
+|&anchor(冬那　フナ)[[冬那　フナ]]|JSA86975||2974319897||
+|&anchor(フランシスコ　マグナム)[[フランシスコ　マグナム]]|VHK28813|cj282T24JOw2574|6042010492||
+|&anchor(ブラック　ジャックス)[[ブラック　ジャックス]]|XQW35754||6020153097||
+|&anchor(ブロッコリー　斎藤)[[ブロッコリー　斎藤]]|KAH87131||1588919126||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(ふ)
+#size(50%){　}
+//----------------
+#region(へ)&anchor(へ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ぺお　シルヴァ)[[ぺお　シルヴァ]]|FLU96576|&co(){プロファイル}RG965K55NJC6820&co(){？：Wt141T51lwK0633}|1798748144|&co(){指紋情報'24/10/22バーバリアン田中視点、どちらかが誤植の可能性あり}|
+|&anchor(ヘスティア　ゴデス)[[ヘスティア　ゴデス]]|DER33937||5915888889||
+|&anchor(ペトロ　アルドベッグ)[[ペトロ　アルドベッグ]]|HFM23245||||
+|&anchor(ヘラシギ)[[ヘラシギ]]&br()&small(){(別名：涼眩此方)}|&co(){'22/9/4タブレット報告}TAJ40993&br()&co(){'24/9/25いのり事件時}AWY08386|WX807d40aGF5189|3324575233|'24/09/30 02:46死亡|
+|&anchor(ヘルアン)[[ヘルアン]]|EOK55093||9498734588||
+|&anchor(ベルモナ)[[ベルモナ]]|POO96819|FJ708C22NfV5581|||
+|&anchor(ぺん　ゆきや)[[ぺん　ゆきや]]|FDO32924||&co(){(警察)State記載}9078908075||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(へ)
+#size(50%){　}
+//----------------
+#region(ほ)&anchor(ほ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ボア　セニャコック)[[ボア　セニャコック]]|ULG19693||||
+|&anchor(ボイラ　テンガリン)[[ボイラ　テンガリン]]|HYD72697|ue922l85aCH7375|8322272029||
+|&anchor(星野　サラ)[[星野　サラ]]|XYA33435||&co(){プロファイル}9666640661&co(){本来は5202294728}|| 
+|&anchor(星ノ　みこ)[[星ノ　みこ]]|YWX63441||||
+|&anchor(星野　ももあ)[[星野　ももあ]]|DCS18941||&co(){プロファイル}4874829112&co(){(救急)State記載2059624236}||
+|&anchor(ボケモン　マスター)[[ボケモン　マスター]]|SYZ92710||||
+|&anchor(仄々山　すごす)[[仄々山　すごす]]|KMW07713||||
+|&anchor(焔　零児)[[焔　零児]]|DFO91084||5207204611||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(ほ)
+#endregion(は行)
+#size(50%){　}
+//----------------
+#region(ま行)&small(){閉じる}
+#region(ま)&anchor(ま){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(マイケル　モイヤーズ)[[マイケル　モイヤーズ]]|OKM36453||4392117548||
+|&anchor(マイゴ・ニ＝ナリエル)[[マイゴ・ニ＝ナリエル]]|HVW87930|Hw297e52sXE3925|4276999353||
+|&anchor(まい　にい)[[まい　にい]]|ZGB33133|pf296h94BDz4616|9078560037||
+|&anchor(マカイーノ　アッコパス)[[マカイーノ　アッコパス]]|UZF38259||||
+|&anchor(真新　サトシ)[[真新　サトシ]]|KXO68524||||
+|&anchor(街雄　サンリ)[[街雄　サンリ]]&co(){&br()&small(){(別名：トラ雄)}}|LYP69782|BB496h53Nxo9141|||
+|&anchor(町田　ジョアンナ)[[町田　ジョアンナ]]|XYZ52566||3347234109||
+|&anchor(ましゃかり　トラボルタ)[[ましゃかり　トラボルタ]]&br()&small(){(別名：赤ちゃんキャップ&co(){/キャプ久保博之})}|ITO10609||5775718307||
+|&anchor(豆　やん)[[豆　やん]]|EVV08557||8171986586||
+|&anchor(マンジョリーナ　ジェリー)[[マンジョリーナ　ジェリー]]|HKU81100|ET056M72LQJ5522|5526199674||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(ま)
+#size(50%){　}
+//----------------
+#region(み)&anchor(み){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(三階堂　キミトス)[[三階堂　キミトス]]|RUL08807|BA117g76GOT6300|||
+|&anchor(ミカ・ピトフーイ)[[ミカ・ピトフーイ]]|WZL04495||||
+|&anchor(神子田　頼)[[みこだ　よう>神子田　頼]]&br()&small(){(旧表記：神子田頼)}|DUS36933||7327920680||
+|&anchor(三島　改)[[三島　改]]|DDI63572|Oq052v86Kgt9769|&co(){プロファイル}1569351796&co(){(PYC)State記載4800766595}||
+|&anchor(三島　みつー)[[三島　みつー]]|MJG11439|su504b82jSl9661|2465152946||
+|&anchor(水嶋　じぇい)[[水嶋　じぇい]]|JBJ04178|Ey923X60EHx4776|5971007594||
+|&anchor(水野　マーキュリー)[[水野　マーキュリー]]|ESC05349||||
+|&anchor(海鈴　りおん)[[海鈴　りおん]]|MRE68066|Wx566l36gwj5880|||
+|&anchor(水無月　縁)[[水無月　縁]]|LQJ57559||||
+|&anchor(ミナミ　とと)[[ミナミ　とと]]|FBT69736||||
+|&anchor(宮脇　悠吾)[[宮脇　悠吾]]|ZOC70034|yO360T39lnK2839|8758404924||
+|&anchor(ミリア・戯・サクラ)[[ミリア・戯・サクラ]]|AMK51009||||
+|&anchor(ミン　ドリー)[[ミン　ドリー]]|ESY15356||7347182479||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(み)
+#size(50%){　}
+//----------------
+#region(む)&anchor(む){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(無月　レオ)[[無月　レオ]]|WZX70134||8969448380||
+|&anchor(宗像　宗三郎)[[宗像　宗三郎]]&br()&small(){(別名：関春春)}|GZW10551|bU884d34PRx5421|8606621476||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(む)
+#size(50%){　}
+//----------------
+#region(め)&anchor(め){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(明路　笑生)[[明路　笑生]]|UKN75451||&co(){プロファイル}6927460313&co(){実際：2059742650}||
+|&anchor(冥鳴　キマリ)[[冥鳴　キマリ]]|JGG40406|QA276d07ZSt8427|4948737381||
+|&anchor(女鹿守　たべ男)[[女鹿守　たべ男]]|SGP30141||||
+|&anchor(メチャ南　よる)[[メチャ南　よる]]|BVS20578||5208089124||
+|&anchor(メリー　クロース)[[メリー　クロース]]&br()&small(){(別名：くまちゃん)}|RAD82877|lp242M83UKp3784|9806807138||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(め)
+#size(50%){　}
+//----------------
+#region(も)&anchor(も){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(モーガン・フリーザン)[[モーガン・フリーザン]]|MZN13784|fw966b56wdb6150|||
+|&anchor(元難波　芽久未)[[元難波　芽久未]]|DXT18991||&co(){プロファイル}8325315764&co(){(救急)State記載5201614958}||
+|&anchor(物忘　レイナ)[[物忘　レイナ]]|NOK24662||553849759||
+|&anchor(桃兎　すずめ)[[桃兎　すずめ]]|MPU39144||||
+|&anchor(ももみ　マルフォイ)[[ももみ　マルフォイ]]|NPD62544|ve442b39HLM6155|8983112619||
+|&anchor(もり　るんるん)[[もり　るんるん]]|JHI33013||&co(){プロファイル}9717405494&co(){(警察)State記載4808078129}||
+|&anchor(Mon　D)[[Mon　D]]|QBB99546||3487393844||
+|&anchor(文殊　セイジ)[[文殊　セイジ]]|XJK34105||2113625697||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(も)
+#endregion(ま行)
+#size(50%){　}
+//----------------
+#region(や行)&small(){閉じる}
+#region(や)&anchor(や){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(やうじ　岡野)[[やうじ　岡野]]|PCK21511||3088686646||
+|&anchor(焼野原　ひろし)[[焼野原　ひろし]]&br()&small(){(本名：亀山ヒロ)}|YAP24332||||
+|&anchor(ヤシャ　ロア)[[ヤシャ　ロア]]|XVJ78012|hr433p37ruQ5485|7193738012||
+|&anchor(宿無　おきる)[[宿無　おきる]]|ERD33884||4077121613||
+|&anchor(柳田　ライアン)[[柳田　ライアン]]|HNX71355|gy196b60DCm7460|||
+|&anchor(柳瀬　つん)[[柳瀬　つん]]|YLP41528|ew540l92qlt4003|4811178973||
+|&anchor(ヤブ下　安理)[[ヤブ下　安理]]|FTX70550||9807042157||
+|&anchor(山下　正太郎)[[山下　正太郎]]|UBL90885||||
+|&anchor(山下　ひろし)[[山下　ひろし]]|RVZ55516||1539211378||
+|&anchor(Hiroshi Yamashita)[[Hiroshi　Yamashita]]|XHU96225||5482790797||
+|&anchor(山田　カイキ)[[山田　カイキ]]|LXW67803||8423350988||
+|&anchor(山田　ジェイミー)[[山田　ジェイミー]]|JBD91396||||
+|&anchor(山田　たかし)[[山田　たかし]]|AMA76347||||
+|&anchor(山田　花子)[[山田　花子]]|IVA42250||||
+|&anchor(山田　パルコ)[[山田　パルコ]]&br()&small(){(別名：うさぎさん)}|MSK16650|QB885J22zKI7816|2049362589&br()553263263&co(){実際：5726130873}||
+|&anchor(山本　龍也)[[山本　龍也]]|ZTX64598|aZ005D71zQK9617|2367148111||
+|&anchor(ヤマンバ　花子)[[ヤマンバ　花子]]||Cr303G46WvC8341|||
+|&anchor(ヤミー　エンデバー)[[ヤミー　エンデバー]]|NYA20105||||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(や)
+#size(50%){　}
+//----------------
+#region(ゆ)&anchor(ゆ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ゆた　んぽ)[[ゆた　んぽ]]|TZT32099||&co(){プロファイル}2681340211&co(){実際：9076363024}||
+|&anchor(ゆちゃ　めろでぃ)[[ゆちゃ　めろでぃ]]|ENI73020|Kg049y97PDE8063|1019868440||
+|&anchor(ユン　ユンミ)[[ユン　ユンミ]]|KCK79426||1167722537|&co(){AJC71362はテスト用？}|
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(ゆ)
+#size(50%){　}
+//----------------
+#region(よ)&anchor(よ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(夜桜　怜)[[夜桜　怜]]|DUP03294|Qm719V13zhg5097|8388608413||
+|&anchor(よすみの　かど)[[よすみの　かど]]|VPU59514|J098P77eVC8212|1547320349||
+|&anchor(夜若木　颯)[[夜若木　颯]]|EGC60330||||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(よ)
+#endregion(や行)
+#size(50%){　}
+//----------------
+#region(ら行)&small(){閉じる}
+#region(ら)&anchor(ら){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ライジングサン　宗介)[[ライジングサン　宗介]]|OQX00485|KR488N65ayj0935|7328330648||
+|&anchor(ライトスターボーイ)[[ライトスターボーイ]]&br()&small(){(別名：マクドナルド)}|LVR90700|xT789H97QVv4517|2256302100||
+|&anchor(雷堂　ましろ)[[雷堂　ましろ]]|BCH77725|Xq917i52umn9686|3273721990||
+|&anchor(ラグランジュ　光芝)[[ラグランジュ　光芝]]|HLQ45362||4896430389||
+|&anchor(ラピス　りお)[[ラピス　りお]]|GIZ24885||||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(ら)
+#size(50%){　}
+//----------------
+#region(り)&anchor(り){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(龍造寺　ケンシロウ)[[龍造寺　ケンシロウ]]|RJA94176||4745549829||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(り)
+#size(50%){　}
+//----------------
+#region(る)&anchor(る){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ルーク　秋山)[[ルーク　秋山]]|XXV90668||||
+|&anchor(ルーナ　ブラック)[[ルーナ　ブラック]]|JHU17635|Uu887R83TqB4519|4576752433||
+|&anchor(ルーファス　ウィルキンズ)[[ルーファス　ウィルキンズ]]|LYI58040|gU605M97MDe7056|1877713947||
+|&anchor(ルール　ちゃん)[[ルール　ちゃん]]|GBX93187||6021295544||
+|&anchor(月渚　雪人)[[月渚　雪人]]&br()&small(){(別名：ルナホークアイ)}|GSO28404|qe331i25EmD0197|3462172453||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(る)
+#size(50%){　}
+//----------------
+#region(れ)&anchor(れ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(冷泉　ナデシコ)[[冷泉　ナデシコ]]|DWT28931||&co(){(警察)State記載}2053904443||
+|&anchor(レイナ・レアレッタ＝レインハート)[[レイナ・レアレッタ＝レインハート]]|DND92028||6788340822||
+|&anchor(レイラ　キャンベル)[[レイラ　キャンベル]]|YFH71066|LZ398e10EnZ1268|5583964125||
+|&anchor(レキ　ウィステリア)[[レキ　ウィステリア]]|ZOK35488||8203275251||
+|&anchor(レダー　ヨージロー)[[レダー　ヨージロー]]|HVG24729|bo119U76EXo3471|8841914253||
+|&anchor(レッサン　パンナ)[[レッサン　パンナ]]|HEB37818||2058079566||
+|&anchor(れぷタイルルス　セルヴァル)[[れぷタイルルス　セルヴァル]]&br()&small(){(別名：しろくま)}|RZP07457|gk300O41tbt4720|1555323698||
+|&anchor(れぷ山　ちん助)[[れぷ山　ちん助]]|MOM40756||||
+|&anchor(Lv〇　チンピラ)[[Lv〇　チンピラ]]|JHE61888|gk565I69BfV1723|9125390955||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(れ)
+#size(50%){　}
+//----------------
+#region(ろ)&anchor(ろ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(ロイ　マーチングナンバー)[[ロイ　マーチングナンバー]]|NKN22283||9073184996||
+|&anchor(狼恋　エギ)[[狼恋　エギ]]|WUU35184||6928926234||
+|&anchor(牢王　蓮)[[牢王　蓮]]|NTQ21216|Nv749G71fPl1907|6812019380||
+|&anchor(ろぜ柳　ぴん子)[[ろぜ柳　ぴん子]]|DMH33233||6155421267||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(ろ)
+#endregion(ら行)
+#size(50%){　}
+//----------------
+#region(わ行)&small(){閉じる}
+#region(わ)&anchor(わ){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(犬億　ロック)[[犬億　ロック]]|KFO37884||4416892486||
+|&anchor(渡戸　リー)[[渡戸　リー]]|EWB70249||4794443497||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(わ)
+#size(50%){　}
+//----------------
+
+
+#co(){^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#region(を)&anchor(を){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=hide,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor()[[]]|||||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(を)
+#size(50%){　}
+//----------------
+#region(ん)&anchor(ん){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=hide,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor()[[]]|||||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+//|&anchor(){~名前~}[[~名前~]]|~市民ID(血液)~|~指紋~|~電話番号~|&openclose2(show=開く){&br()~~備考：真ん中下の自由記入欄~~}|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(ん)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+#endregion(わ行)
+#size(50%){　}
+//----------------
+#region(市長補佐)&small(){閉じる}
+#region(市長補佐)&anchor(市長補佐){}
+#areaedit()
+#table_style(head=90%:#1b1844:#ffffff:cente){名前=90%,市民ID=90%,指紋=90%,電話番号=90%,備考=90%,}
+#table_filter(){市民ID=show,指紋=hide,電話番号=show,備考=hide}
+|~名前|~市民ID|~指紋|~電話番号|~備考|h
+|&anchor(kitune市長補佐)[[kitune市長補佐]]|CJF75996||||
+|&anchor(アクネム市長補佐)[[アクネム市長補佐]]|AIJ84770||||
+|&anchor(芦辺寿市長補佐)[[芦辺寿市長補佐]]|GOA72851||||
+|&anchor(あのやま市長補佐)[[あのやま市長補佐]]|BXU42927&br()HWE35574||||
+|&anchor(アンバー市長補佐)[[アンバー市長補佐]]|OUF44068||||
+|&anchor(かーな市長補佐)[[かーな市長補佐]]|EUR48236||||
+|&anchor(かつお市長補佐)[[かつお市長補佐]]|DAG63713||||
+|&anchor(かな市長補佐)[[かな市長補佐]]|GAK37686||||
+|&anchor(きつね市長補佐)[[きつね市長補佐]]|EBV78365||||
+|&anchor(だん市長補佐)[[だん市長補佐]]|LZS51821||6026710421||
+|&anchor(鏡華市長補佐)[[鏡華市長補佐]]|IPX61632||||
+|&anchor(市長補佐Kitsune)[[市長補佐Kitsune]]|GQD70568||||
+|&anchor(市民課ぽい)[[市民課ぽい]]|GZQ81498||||
+|&anchor(市民課スカラ)[[市民課スカラ]]|HDL41014||||
+|&anchor(市長補佐MM)[[市長補佐MM]]|HUP72965||||
+|&anchor(スミース市長補佐)[[スミース市長補佐]]|FCD53313||||
+|&anchor(奈津市長補佐)[[奈津市長補佐]]|KFN85687||||
+|&anchor(マリー市長補佐)[[マリー市長補佐]]|GFD90847||||
+|&anchor(マスコットA市長補佐)[[マスコットA市長補佐]]|YKQ96319||||
+//|&anchor()[[]]|||||
+//|&anchor()[[]]|||&co(){プロファイル}&co(){実際：}||
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#right(){[[🔝一覧TOPへ>警察データベース#プロファイル一覧]]}
+#areaedit(end)
+#endregion(市長補佐)
+#endregion(市長補佐)
+//#size(50%){　}
+#right(){&link_up(🔝ページTOP)}
+//---<事件 >-------------------------------------------------
+*事件情報 &font(#4169E1){Incidents}
+***&font(19,u){&color(#4169E1){|}&space()概要&space()}
+事件情報管理データベース。
+***&font(19,u){&color(#4169E1){|}&space()一覧&space()}
+#region(開く)閉じる &small(){-情報募集中-}
+#co(){^^^^^^^テンプレ^^^^^^^
+
+#region(^^)&b(){&icon_fa(fa fa-tag)&space()^^}
+>
+ID：
+#right(){^^^ - nn.August 2024.at 24:00}
+#endregion(^^^)
+
+^^^^^^^^^^^^^^^^^^^^^^^^^}
+#region(【新連載】高橋滅論観察日記)&b(){&icon_fa(fa fa-tag)&space()【新連載】高橋滅論観察日記}
+>高橋滅論観察日記&br()
+>皆さんは高橋滅論をご存知だろうか？&br()
+>彼は17:00～5:00まで街に出没し、Twixでサルファー、アシッド、水、クリスタルを買い取りして薬を練ったり、時にはコンビニ強盗して生活している。&br()
+>今回はこの高橋滅論の生態を調査してみた。&br()
+>[[続きはアーカイブへ>>https://youtu.be/CCToI0JMTtw?t=1020]]
+ID：408
+#right(){バーバリアン 田中 - 30.June 2024.at 23:31}
+#endregion(^^^)
+
+
+#endregion(一覧)
+//---<報告>-------------------------------------------------
+*報告 &font(#4169E1){Reports}
+***&font(19,u){&color(#4169E1){|}&space()概要&space()}
+報告情報管理データベース。
+***&font(19,u){&color(#4169E1){|}&space()一覧&space()}
+#region(開く)閉じる &small(){-情報募集中-}
+#co(){^^^^^^^テンプレ^^^^^^^
+
+#region(^^)&b(){&icon_fa(fa fa-tag)&space()^^}
+>
+ID：
+#right(){^^^ - nn.August 2024.at 24:00}
+#endregion(^^^)
+
+^^^^^^^^^^^^^^^^^^^^^^^^^}
+
+#region(特殊刑事課5つの誓い)&b(){&icon_fa(fa fa-tag)&space()特殊刑事課5つの誓い}
+>①free(自由) ②相手も自分も楽しくさせる ③腹ペコのまま仕事をするな ④好きなときに働け ⑤愛と正義を貫くこと
+ID：4030
+#right(){特殊刑事課 キャップ - 22.August 2023.at 23:36}
+#endregion(特殊5誓)
+
+#co(){^^タイトルだけ置き場^^^^^^^^^^^^^^^^^
+#region(カジノヘイスト時の対応)&b(){&icon_fa(fa fa-tag)&space()カジノヘイスト時の対応}
+>
+ID：6842
+#right(){Dogs みこだよう - 24.January at 23:42}
+#endregion(カジノ)
+
+#region(各ギャングの大型の特徴)&b(){&icon_fa(fa fa-tag)&space()各ギャングの大型の特徴}
+>
+ID：6688
+#right(){Dogs みこだよう - 30.December 2023.at 21:30}
+#endregion(大型特徴)
+
+#region(プロファイルが開けなかった市民の登録…)&b(){&icon_fa(fa fa-tag)&space()プロファイルが開けなかった市民の登録…}
+>
+ID：6569
+#right(){深沢 えぼし - 9.December 2023.at 19:30}
+#endregion(市民の登録)
+
+#region(プロファイルが開けない犯罪者DNA情報)&b(){&icon_fa(fa fa-tag)&space()プロファイルが開けない犯罪者DNA情報}
+>
+ID：6493
+#right(){ニックス 皇帝 - 30.November 2023.at 0:25}
+#endregion(犯罪者DNA情報)
+
+#region(プロファイルが開けない人へのライセン…)&b(){&icon_fa(fa fa-tag)&space()プロファイルが開けない人へのライセン…}
+>
+ID：6223
+#right(){ニックス 皇帝 - 9.November 2023.at 18:00}
+#endregion(プロファイルが開けない)
+
+#region(業務メモ（ミンドリー用）)&b(){&icon_fa(fa fa-tag)&space()業務メモ（ミンドリー用）}
+>
+ID：4484
+#right(){ミン ドリー - 2.September 2023.at 4:53}
+#endregion(^^^)
+
+#region(裁判官の葛城さんについて)&b(){&icon_fa(fa fa-tag)&space()裁判官の葛城さんについて}
+>
+ID：4407
+#right(){赤城 煉 - 1.September 2023.at 1:06}
+#endregion(裁判官)
+
+#region(特殊刑事課とは)&b(){&icon_fa(fa fa-tag)&space()特殊刑事課とは}
+>
+ID：4029
+#right(){特殊刑事課 キャップ - 22.August 2023.at 23:35}
+#endregion(特殊とは)
+
+#region(ガンライセンス　レース　メモ（7/2更新…）)&b(){&icon_fa(fa fa-tag)&space()ガンライセンス　レース　メモ(7/2更新…)}
+>
+ID：2398
+#right(){田中 まさみつ - 24.Aprill 2023.at 23:00}
+#endregion(ガンライセンス)
+
+#region(警察体験希望者が居た場合の対応方法)&b(){&icon_fa(fa fa-tag)&space()警察体験希望者が居た場合の対応方法}
+>
+ID：2339
+#right(){如月 キャシー - 20.Aprill 2023.at 1:34}
+#endregion(ガンライセンス)
+
+#region(道路交通法違反リスト)&b(){&icon_fa(fa fa-tag)&space()道路交通法違反リスト}
+>
+ID：
+#right(){^^^ - nn.August 2023.at 24:00}
+#endregion(道路交通違反)
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+#endregion(一覧)
+//---<BOLOs>-------------------------------------------------
+*捜索指令情報 &font(#4169E1){BOLOs}
+***&font(19,u){&color(#4169E1){|}&space()概要&space()}
+捜索指令情報管理データベース。Be On the LookOutの略。
+//---<車両>-------------------------------------------------
+*車両情報 &font(#4169E1){DMV}
+***&font(19,u){&color(#4169E1){|}&space()概要&space()}
+車両情報管理データベース。Department of Motor Vehiclesの略
+正規に登録された全車両の基本的な情報が閲覧可能なほか、写真の添付、現在のステータス管理が可能。
+車種、ナンバープレートに対して検索が可能。
+//---<カメラ>-------------------------------------------------
+*カメラ &font(#4169E1){Cameras}
+***&font(19,u){&color(#4169E1){|}&space()概要&space()}
+街中に設置された監視カメラ映像の確認表示
+#region(確認できるカメラリスト)閉じる
+#size(85%){
+|5016 ガソスタ CAM|3051 コンビニ CAM|3008 コンビニ CAM|1000 コンビニ CAM|7193 フリーカ CAM|
+|8170 フリーカ CAM|7185 フリーカ CAM|7175 フリーカ CAM|5070 フリーカ CAM|7251 宝石店 CAM#1|
+|7251 宝石店 CAM#2|5047 コンビニ CAM|5037 コンビニ CAM|4019 コンビニ CAM|1012 コンビニ CAM|
+|2006 コンビニ CAM|7355 コンビニ CAM|7090 パシフィック銀行 CAM#1|7090 パシフィック銀行 CAM#2|7090 パシフィック銀行 CAM#3|
+|1055 パレト銀行 CAM#1|1055 パレト銀行 CAM#2|8047 本署 CAM|8040 病院 CAM#1|8040 病院 CAM#2|
+|8040 病院 CAM#3|||||
+}
+#endregion(確認できるカメラリスト)
+//---<スタッフログ>-------------------------------------------------
+*スタッフログ情報 &font(#4169E1){Staff Logs}
+***&font(19,u){&color(#4169E1){|}&space()概要&space()}
+MDTの情報に関する操作履歴
+
+//
+#co(){
+//---<地図>-------------------------------------------------
+*地図 &font(#4169E1){&icon_fa(fa-solid fa-circle-info)}
+***&font(19,u){&color(#4169E1){|}&space()概要&space()}
+//---<ロースター>-------------------------------------------------
+*ロースター &font(#4169E1){Roster}
+***&font(19,u){&color(#4169E1){|}&space()概要&space()}
+シフト表（未対応、利用されていない）
+//---<武器>-------------------------------------------------
+*武器 &font(#4169E1){&icon_fa(fa-solid fa-circle-info)}
+***&font(19,u){&color(#4169E1){|}&space()概要&space()}
+}

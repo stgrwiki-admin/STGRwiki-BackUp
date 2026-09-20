@@ -1,0 +1,125 @@
+&font(16px,b,u,black){Season1}
+#region(開く)閉じる
+//画像は1:2でトリミングしてアップロードしています。
+※衣類髪型アプデにより崩壊中 &color(#F54738){✖}
+***&font(25px,#999){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+#table_style(head=center:#eee:#666666)
+|~&blankimg(hazime-01.png,x=120,y=240)|~&blankimg(obachan.png,x=120,y=240)|~&blankimg(ued-01.png,x=120,y=240)|~&blankimg(H-02.png,x=120,y=240)|
+|~hazime|~obachan &color(#F54738){✖}|~ued &color(#F54738){✖}|~H|
+|CENTER:&font(12px){お気に入りの私服&br()手袋を外したい}|CENTER:&font(12px){おばちゃん&br()寝間着(ジェラピケ)&br()ぎゃう}|CENTER:&font(12px){上田さんｺｰﾃﾞｨﾈｰﾄ&br()犯罪３に上書きされ&br()さらに崩壊}|CENTER:&font(12px){音鳴、ジョシュアと&br()お揃いの寝間着}|
+#endregion()
+//
+***&font(25px,#f9f){&icon_fa(fa fa-user-secret)} ギャング服
+#region(開く)閉じる
+グレーヘアのギャング服削除
+#table_style(head=center:#FFDAFF:#666666)
+|~&blankimg(大型 秋-02.png,x=120,y=240)|~&blankimg(大型 冬-02.png,x=120,y=240)|~&blankimg(運動会.png,x=120,y=240)|~&blankimg(スーツ_02.png,x=120,y=240)|~&blankimg(大型 夏.png,x=120,y=240)|~&blankimg(大型 春.png,x=120,y=240)|
+|~大型 秋&color(#F54738){✖}|~大型 冬|~運動会２&color(#F54738){✖}|~スーツ２|~大型 夏|~大型 春|
+|CENTER:大型秋服&br()&font(12px){傭兵時からお面変更&br()&うさぎ不足}|CENTER:大型冬服|CENTER:シマトリ服&br()&font(12px){抗争に使用した}&br()髪色ピンクに変更|CENTER:|CENTER:大型夏服|CENTER:大型春服|
+#endregion()
+//
+***&font(25px,#000000){&icon_fa(fa-solid fa-ghost)} 変装
+#region(開く)閉じる
+#table_style(head=center:#eee:#666666)
+|~&blankimg(ouzoku.png,x=120,y=240)|~&blankimg(犯罪-02.png,x=120,y=240)|~&blankimg(ao-02.png,x=120,y=240)|~&blankimg(こころ泣き.png,x=120,y=240)|~&blankimg(さかな～.png,x=120,y=240)|~&blankimg(犯罪３.png,x=120,y=240)|
+|~ouzoku &color(#F54738){✖}|~犯罪|~ao &color(#F54738){✖}|~こころ泣き|~さかな～ &color(#F54738){✖}|~犯罪３→ued|
+|CENTER:&font(10px){コンサルやってる嫌なやつ}|CENTER:&font(12px){もはや普段着}|CENTER:&font(10px){ドレえもんの&br()ﾍﾙﾒｯﾄから変更}|CENTER:心なき|CENTER:魚卵主|CENTER:&font(12px){上田さんｺｰﾃﾞｨﾈｰﾄ&br()ガンギマリ鹿&br()ミスで名前変更}|
+//
+#table_style(head=center:#eee:#666666)
+|~&blankimg(doresu-02.png,x=120,y=240)→&blankimg(doresu_崩壊.png,x=120,y=240)|~&blankimg(d-03.png,x=120,y=240)|
+|~doresu &color(#F54738){✖}|~d|
+|CENTER:ｳｪﾃﾞｨﾝｸﾞドレス|CENTER:&ruby(おばなしゅうかく){御花修郭}&br()&font(10px){花摘み用だったが普段着に}|
+//
+&font(25px,#f9f){&icon_fa(fa-solid fa-people-group)} &font(12pt,b,#404040){協会・グループ活動服}
+#table_style(head=center:#eee:#666666)
+|~&blankimg(3 3.png,x=120,y=240)|~&blankimg(軍G.png,x=120,y=240)|~&blankimg(高級車窃盗.png,x=120,y=240)|~&blankimg(泥棒.png,x=120,y=240)|~&blankimg(ハンティング.png,x=120,y=240)|~&blankimg(soccer.png,x=120,y=240)|
+|~3 3|~軍G|~高級車窃盗 &color(#F54738){✖}|~白屋 魚民(泥棒) &color(#F54738){✖}|~ハンティング|~soccer|
+|CENTER:&font(12px){3on3で使用&br()八百屋さんチーム}|CENTER:軍事物資強奪用|CENTER:LCTA|CENTER:&font(12px){空き巣協会&br()（&ruby(しろや　ぎょたみ){白屋 魚民}）}|CENTER:&font(12px){違法ハンティング協会}|CENTER:&font(12px){バスケ部に見えるが&br()サッカーの&br()ユニフォーム}|
+#endregion(変装)
+//
+***&font(25px,#ff9900){&icon_fa(fa-solid fa-screwdriver-wrench)} 職業体験 &  &font(25px,#ffa500){&icon_fa(fa fa-hotdog)} ホットドッグ屋
+#region(開く)閉じる
+#table_style(head=center:#eee:#666666)
+|~&blankimg(9055.png,x=120,y=240)|~&blankimg(世紀末.png,x=120,y=240)|~&blankimg(JTS.png,x=120,y=240)|~&blankimg(nekocafe.png,x=120,y=240)|~&blankimg(ホットドック.png,x=120,y=240)|
+|~9055 &color(#F54738){✖}|~世紀末|~JTS &color(#F54738){✖}|~nekocafe|~ホットドック|
+|CENTER:9055の制服|CENTER:&font(12px){9055が他社へ&br()カチコミに&br()行くときに使用する&br()天竜びーと}|CENTER:JTSの制服|CENTER:猫カフェの制服|CENTER:ホットドッグ屋制服&br()&font(12px){ケインより継承}|
+#endregion()
+//
+***&font(25px,#99cc00){&icon_fa(fa-solid fa-person-circle-question)} その他
+#region(開く)閉じる
+#table_style(head=center:#eee:#666666)
+|~&blankimg(ahiru.png,x=120,y=240)|~&blankimg(housen.png,x=120,y=240)|~&blankimg(ギミック・スパイス師.png,x=120,y=240)|
+|~ahiru|~housen &color(#F54738){✖}|~&font(12px){ギミック・スパイス師}|
+|CENTER:アヒルカー用&br()&font(12px){ぱいなっぴーA}|CENTER:&font(12px){ク〇ーズ鳳仙学園制服}|CENTER:&font(12px){ギミック・スパイス師&br()PETER}|
+#endregion()
+//
+***&font(25px,#CC3030){&icon_fa(fa fa-trash-can)} 削除済の服
+#region(開く)閉じる
+#table_style(head=center:#eee:#666666)
+|~&blankimg(baretenai.png,x=120,y=240)|~&blankimg(ao.png,x=120,y=240)|~&space(2)&blankimg(marry-01.png,x=160,y=240)&space(2)&blankimg(marry-03.png,x=160,y=240)&space(2)&blankimg(marry-04.png,x=160,y=240)&space(2)|
+|~baretenai|~ao|~marry (保存失敗)|
+|CENTER:&font(10px){初めて作った変装}|CENTER:ドレえもん|CENTER:ウェディングドレス|
+//
+#table_style(head=center:#eee:#666666)
+|~&blankimg(ｄ.png,x=120,y=240)|&blankimg(pink.png,x=120,y=240)|~&blankimg(aa.png,x=120,y=240)|~&blankimg(pink冬-02.png,x=120,y=240)|~&blankimg(pink2.png,x=120,y=240)|~&blankimg(スーツ.png,x=120,y=240)|
+|~d|~pink|~犯罪2|~pink冬|~pink2|~スーツ|
+|CENTER:&font(10px){ドーナツ(上書き消失)}|CENTER:&font(10px){ピンクのチーム友達&br()の傭兵用}|CENTER:|CENTER:髪色変更削除|CENTER:髪色変更削除|CENTER:髪色変更削除|
+#endregion()
+#endregion(S1)
+
+//===================================
+//
+&font(16px,b,u,black){Season2}
+***&font(25px,#999){&icon_fa(fa fa-shirt)} 日常服
+#region(開く)閉じる
+#table_style(head=center:#eee:#666666)
+|~&blankimg(S2_デフォルトコーデ.png,x=120,y=240)|
+|~デフォルトコーデ|
+|CENTER:初期服(Day1)|
+#endregion(S2日常)
+//
+//
+***&font(25px,#000000){&icon_fa(fa-solid fa-ghost)} 変装
+#region(開く)閉じる
+#table_style(head=center:#eee:#666666)
+|~&blankimg(S2_d_音鳴色違いマスク.png,x=120,y=240)|~&blankimg(S2_d_桜髪.png,x=120,y=240)|~&blankimg(S2_即席パジャマ.png,x=120,y=240)|~&blankimg(S2_aaa.png,x=120,y=240)|~&blankimg(S2_pin_01.png,x=120,y=240)|~&blankimg(S2_ailen.png,x=120,y=240)|
+|~d|~d|~即席パジャマ|~aaa|~&font(10px){ﾙｰｼﾞｭ・ﾐｼﾏ・ｺﾝﾌﾟﾗｲｱﾝｽ}|~ailen|
+|CENTER:&font(10px){音鳴色違いマスク}|CENTER:&ruby(おばなしゅうかく){御花修郭}&br()&font(10px){もはや普段着}|||||
+//
+#table_style(head=center:#eee:#666666)
+|~&blankimg(S2_亜痔祭.png,x=120,y=240)|
+|~亜痔祭|
+|CENTER:置き配窃盗用|
+#endregion(S2変装)
+//--------------------------------------------------------------------------
+***&font(25px,#0066DC){&icon_fa(fa-brands fa-black-tie)} 制服
+#region(開く)閉じる
+#table_style(head=center:#eee:#666666)
+|~&blankimg(S2_ロスベガス 男性制服.png,x=120,y=240)|~&blankimg(S2_ロスベガス 男性制服_02.png,x=120,y=240)|~&blankimg(S2_もー.png,x=120,y=240)|
+|>|~&font(13px){ロスベガス 男性制服}|~もー|
+|>|CENTER:&font(12px){ｺﾞｰｼﾞｬｽ・ﾏﾈｰ・ﾀﾞｼﾝ}|CENTER:わんも～Cafe制服|
+#endregion(S2制服)
+***&font(25px,#CC3030){&icon_fa(fa fa-trash-can)} 削除済の服
+#region(開く)閉じる
+#table_style(head=center:#eee:#666666)
+|~&blankimg(S2_初日.png,x=120,y=240)|
+|~未保存|
+|CENTER:&font(10px){初日の服(Day1)&br()未保存で消失(Day2)}|
+#endregion(S2削除)
+//
+//
+***&font(25px,#000000){&icon_fa(fa-solid fa-person)} Tattoo
+#region(開く)閉じる
+#table_style(head=center:#eee:#666666)
+|~&blankimg(ストップ.png,x=120,y=120)|~&blankimg(Tattoo-02.png,x=120,y=120)|
+|~左手: ストップ|~背中: カープ（つぶし）|
+|CENTER:&font(12px){多動を止めるために入れた}|CENTER:鯉の滝登り|
+#endregion()
+//
+#Co(){
+#table_style(head=center:#eee:#666666)
+|~&blankimg(S2_.png,x=120,y=240)|
+|~|
+|CENTER:|
+}

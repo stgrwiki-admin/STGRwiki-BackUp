@@ -1,0 +1,939 @@
+&bold(){観測前に&font(12pt,u,#1F79E0){[[観測者の心得]]}をご確認ください。}
+*&font(25px){&font(35px,#EB7474){プ}ロフィール &icon_fa(fa fa-user-circle)}
+#slide_img(auto=5,width=300,height=400){240325 音鳴ミックス.png,250514 音鳴ミックス.png,音鳴ミックス_night.png,POGO-01.png}
+&font(b,24px){｢空き巣は笑顔になる！｣}
+
+//ここからプロフィール
+//視認性やスマホからの見やすさ、Season2の転入日（起床日でしかない）の違和感を鑑みて、[[S2ページ編集案]]の編集例②を採用。
+#table_color(head=#EB7474:#FFF){名前=center:b:#EBDA74}
+|~名前|~&icon_fa(fa fa-user)|&ruby(おとなり){音鳴}　ミックス|
+|~出身地|~&icon_fa(fa fa-map-marker)|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|？/08/01(年齢不詳)|
+|~転入日|~&icon_fa(fa fa-plane)|2024年01月19日 (&countup(2024/01/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa fa-user-secret)&bold(){ギャング 【[[868]]】} BOSS &small(){2024/03/26~}&br()&icon_fa(fa fa-user-slash)&small(){&openclose2(show=Season1 過去の職業){&nbsp(br,7)&icon_fa(fa fa-truck-front)トラック運転手}}|
+|~所属|~&icon_fa(fa-solid fa-user-tag)|&icon_fa(fa fa-face-surprise)【空き巣協会】会長&br()&icon_fa(fa fa-person-rifle)【マトリ撲滅協会】会員|
+|~Twix|~&icon_fa(fa fa-crow)|@aio&small(){（Season1）}&br()@otonaei&small(){（Season2）}|
+|~ペット|~&icon_fa(fa-solid fa-dog)|チャウチャウ：モフ子&small(){（Season1）}&br()ダルメシアン：midori&small(){（Season1）}|
+|プレイヤー|BGCOLOR(#EBDA74):CENTER:&icon_fa(fa fa-address-card-o)|ととみっくす(Crazy Raccoon)|
+|告知等|BGCOLOR(#EBDA74):CENTER:&icon_fa(fa fa-bullhorn)|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/mix_totot]]|
+|配信場所|BGCOLOR(#EBDA74):CENTER:&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/tototmix]]|
+|MIDDLE:動画投稿|MIDDLE:BGCOLOR(#EBDA74):CENTER:&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@tototmix]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube 公認切り抜きch}>>https://www.youtube.com/@totoclip]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){許諾済み切り抜きch}>>https://www.youtube.com/@kirinuki_tototmix]]|
+|別キャラ|BGCOLOR(#EBDA74):CENTER:&icon_fa(fa fa-user-plus)|&openclose2(show=クリックで表示){：[[ミナミ　とと]]}|
+//
+//260318 黄色基調のページを赤に変更しました。音鳴のイメージカラーは赤。黄色は差し色。
+//
+//|~住所|~&icon_fa(fa fa-home)|4006番地(タコとのシェアハウス)&br()2015番地|
+//
+
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(25px){&font(35px,#EB7474){基}本情報 &icon_fa(fa fa-id-card-o)}
+#div(width=330px,bgcolor=#EBDA74){&font(16px,b){&space()&icon_fa(fa fa-file-text-o)&space()基本情報}}
+&font(20px,#EB7474){●&space()}隣街のロスヨントスからやって来た元警察官。
+&font(20px,#EB7474){●&space()}上官の[[成瀬夕コ>>成瀬　夕コ]]が汚職をきっかけに逃亡したため、彼女の後を追いかけ仲間の[[レダー ヨージロー>レダー　ヨージロー]]、[[芹沢ヤニ>芹　沢]]、[[牢王蓮>牢王　蓮]]、[[刃弐ランド>刃弐　ランド]]と共に海を泳いで不法入国した。
+&font(20px,#EB7474){●&space()}&bold(){ギャング【[[868]]】}を設立し、ボスの1人となった。
+&font(20px,#EB7474){●&space()}不憫属性がとてつもなく強い。
+&font(20px,#EB7474){●&space()}遊びの天才。キャバクラやカジノや麻雀、マイナー犯罪を好む。
+&space(5)&font(15px,#EB7474){●&space()}小型犯罪は滅多にやらない為、金欠などでたまに向かうと一大イベントかのように仲間達が野次馬してくる。
+&font(20px,#EB7474){●&space()}&bold(){空き巣協会会長}を務めているため、仲間からは敬意をこめて『&bold(){会長}』と呼ばれる。
+
+#div(width=330px,bgcolor=#EBDA74){&font(16px,b){&space()&icon_fa(fa-solid fa-user-check)&space()外見}}
+&font(20px,#EB7474){●&space()}オムライスと呼ばれる赤と黄色のツートンカラーの髪色に染めている。（地毛は黒）
+&space(5)&font(15px,#EB7474){●&space()}仕事中は黄色がピンクに変わる。
+&font(20px,#EB7474){●&space()}かなり特徴的なマスクと眼鏡を常に装着しており、滅多に素顔は見せない。
+&font(20px,#EB7474){●&space()}仲間内で服大臣と呼ばれるほど服のセンスがよいが、いつも着ている服が特徴的すぎて普通の服を着ると色々な人から怪しまれる。
+&font(20px,#EB7474){●&space()}変装にはコンセプトがあり、それに伴い様々な偽名が存在する。
+&space(5)&font(15px,#EB7474){●&space()}&small(){サバンナ かいと、白井 太郎、コンドル 山崎、太斗氏（ふとし）、ジョッキー 武田、安藤 茂、脳 みそ男、ホット婆。}
+&font(20px,#EB7474){●&space()}背中と右腕にタトゥーを入れている。
+//
+#region(素顔について)閉じる
+&font(20px,#EB7474){●&space()}25/05/06イースターイベントで配布されたウサギに変身できるアイテムの使用後、歪みで長時間ウサギから戻れず、お着換えバッグを使用して人間に戻った際に顔が整形されていた。[[&icon_fa(fa-solid fa-paperclip)>>https://www.twitch.tv/tototmix/clip/InexpensiveRichTofuOSsloth-x-_GPNZuKmzmOurd]]
+|CENTER:BGCOLOR(#EB7474):~&blankimg(音鳴素顔.png,x=100,y=100)|CENTER:BGCOLOR(#EB7474):~&font(20px){&icon_fa(fa-solid fa-arrow-right)}|CENTER:BGCOLOR(#EB7474):~&blankimg(音鳴ウサギ.png,x=100,y=100)|CENTER:BGCOLOR(#EB7474):~&font(20px){&icon_fa(fa-solid fa-arrow-right)}|CENTER:BGCOLOR(#EB7474):~&blankimg(音鳴ウサギ後素顔.png,x=100,y=100)|
+&font(20px,#EB7474){●&space()}γ世界線への転移の影響で更に整形された。ブラウンの瞳がブルーに変化した。
+|CENTER:BGCOLOR(#EB7474):~&blankimg(S2_音鳴素顔.png,x=100,y=100)|
+#endregion()
+
+#div(width=330px,bgcolor=#EBDA74){&font(16px,b){&space()&icon_fa(fa fa-heart-o)&space()人物}}
+&font(20px,#EB7474){●&space()}かなり自由奔放な性格。楽しむことが一番大事。
+&font(20px,#EB7474){●&space()}868の挨拶担当であるが、結構な人見知りである。
+&font(20px,#EB7474){●&space()}身内以外に興味がない。
+&font(20px,#EB7474){●&space()}本人曰く友達がいない。上辺だけで話している気がするため仲良くなれない。（868メンバーは友達ではなく仲間、ファミリー）
+&font(20px,#EB7474){●&space()}街の住人には偽名で挨拶をすることが多いため、本名があまり広まっておらず、868のメンバーを挙げられる際にはなかなか起床しない者を差し置いて必ずと言っていいほどロストされる。
+&font(20px,#EB7474){●&space()}仲間に対して面倒見の良さややる気を見せることもあればドライな一面を見せることもある。
+&font(20px,#EB7474){●&space()}構成員は絶対に助ける頼れるボスの姿を見せることもある。
+&font(20px,#EB7474){●&space()}&openclose2(show=とある一件){（ケイン改造を警察から責め立てられた）}から極度のシリアスアレルギーになり、シリアスの香りがすると避けるようになったが、いざという時にはしっかり発言したり行動するタイプである。
+&space(5)&font(15px,#EB7474){●&space()}レダーが街を去ってからはより顕著。同じくシリアスが苦手なケインと&s(){足を引っ張り合っている} 一蓮托生。
+&font(20px,#EB7474){●&space()}仲間からよく写真を撮られ、豪邸のTVに勝手に映し出されている。
+&font(20px,#EB7474){●&space()}ファーム嫌いを公言しているが急に1人で花摘みに向かうこともある。
+&font(20px,#EB7474){●&space()}違法薬物の素材を持ってしまった白市民からさりげなく回収したり、金庫強盗に心有り人質を使うことに眉を顰めたり、意図せずレギオンで銃撃戦になり案の定白市民を巻き込んでしまった際には安否を気にし続ける等、元警官らしく白市民が犯罪に巻き込まれることをよく思っていない。&br()&space(5)&bold(){「市民を守るのは我々の役目ではあった」}
+
+//
+#div(width=330px,bgcolor=#EBDA74){&font(16px,b){&space()&icon_fa(fa-solid fa-chart-simple)&space()技能}}
+&font(20px,#EB7474){●&space()}銃の撃ち合いや車の運転が上手く、逃走タイミングの嗅覚が鋭い。自他ともになぜ逃げられたのか分からないミラクルを度々起こしている。
+&font(20px,#EB7474){●&space()}アーティファクト強盗の引きが強く、『アーティの神』と仲間から崇められている。
+&font(20px,#EB7474){●&space()}ヘリの操縦が不得意で１日１回ヘリ爆破を起こすことからデイリー音鳴とよばれている。が、本人曰く苦手ではないとのこと。自信に満ち溢れている為、筋肉を変える気は毛頭ない。
+
+#div(width=330px,bgcolor=#EBDA74){&font(16px,b){&space()&icon_fa(fa fa-thumbs-o-up)&space()嗜好}}
+&font(20px,#EB7474){●&space()}クレープとオムライス（ケチャップ）が大好物。
+&font(20px,#EB7474){●&space()}みんなが持っている性能重視の物には惹かれない逆張りタイプ。誰も乗っていない個性的な車両を好む。
+&font(20px,#EB7474){●&space()}2匹の飼い犬を非常にかわいがっている。(Season1)
+
+//
+//基本情報を整理しました（25/12/21 nktr）
+//==========以下CO=======
+//
+//&font(20px,#EBDA74){●&space()}隣町や100年前などではチェイスが上手いと言われていた。何故か分からないが[[川　中]]とチェイスになるとお互い喜び闘争心が剥き出しになる。
+//独特な高い声と全身白一色が特徴。正装へのこだわりが強く服装や髪型の乱れに対して厳しい。
+//飼っているペットはチャウチャウのモフ子とダルメシアンのmidori。
+//&space(5)&font(15px,#EBDA74){●&space()}助手席に乗せてドライブしたり、仲間達の前で餌をあげたり芸を見せたりしてよく可愛がっている。
+*&font(25px){&font(35px,#EB7474){人}間関係 &icon_fa(fa fa-users)}
+//
+***&font(25px,#f9f){&icon_fa(fa-solid fa-people-group)} 仲間
+#region(開く)行動メンバー
+#table_style(head=:center:#EB7474:#fff){キャラクター名=center}
+|~キャラクター名|~詳細|h
+|[[成瀬　夕コ]]|隣街からの友人。前の街での警察官である彼女の汚職がきっかけで、彼女を慕う仲間達はロスサントスに不法入国した。&br()現ロスサントス警察官兼カニメイトのオーナーである[[成瀬 力二>成瀬　力二]]の姉。口調は荒めだが仲間思い。無自覚のブラコン。&br()空き巣協会や違法ダイビング協会などの立ち上げに協力している。&br()868モチーフのサイリウムを力二に作らせ、カニメイト前を通り掛かった際に力二から大量のサイリウムを受け取り仲間に配った。|
+|[[レダー　ヨージロー]]|隣街からの友人であり、一緒に夕コを追いかけてきた仲間の一人。落ち着いたトーンで話す組織のまとめ役。&br()人付き合いの駆け引きが上手く、ホットドッグ販売の傍らこの街の情報収集を行っている。ホットドッグ協会会長。&br()街随一のヘリ乗りで、その腕前には信頼をおく。空き巣協会のファン。&br()レダーが街を去ると言った際は「お前の足切ろうかな」と強火の一面を見せた。|
+|[[芹　沢]]|同じく隣街からの友人であり、一緒に夕コの後を追いかけてきた仲間の一人。&br()前の街では撃ち合いの強さに定評があった。優しい声で&s(){たまに}よく毒を吐く。銃のトリガーは軽め。|
+|[[牢王　蓮]]|同じく隣街からの友人であり、一緒に夕コを追いかけてきた仲間の一人。&br()口が上手く、お調子者のムードメーカー。非常にノリが良い。&br()空き巣、バンド、オタクなど突発ながら音鳴と阿吽の呼吸でコントを繰り広げている。自称サイコパス。|
+|[[刃弐　ランド]]|同じく隣街からの友人であり、一緒に夕コを追いかけてきた仲間の一人。闇メカニック。&br()仲間内では一番の新人のようだが、なんでも卒なくこなす上に穏やかで優しい性格をしている。&br()実は仲間内で一番乗りに犯罪に手を染めた豪胆さも持つ。お互いに強く言える存在。|
+|[[空架　ぐち逸]]|街に来てから出会った謎の記憶喪失の男。&br()どうやら医師をやっていたらしく、薬物精製所で倒れていたとのこと。夕コの提案で行動を共にすることとなった。&br()「ぐっさん」と呼んでいる。|
+|[[ケイン／オー]]|元警官ロボット、現犯罪マシーン。音鳴の奇行の突っ込み役兼世話係。&br()好物のレモネードを餌におびき寄せられ、ハッキングでホットドッグマシーン「ドッグ／オー」へと改造された。&br()当初は8時間ホットドッグを焼き、4時間リサイクルセンターにこもるホットドッグロボットだった。&br()ホットドッグの職に就くために警察を辞職した。ファームが本業と明言しており、溜め込んでいる素材量は驚異的。&br()中古車ディーラーをするためにホットドッグ屋を辞めたいとレダーに告げ、&br()自我が芽生えたことに周囲が驚く中レダーによってホットドッグチップを抜かれた。&br()最近はよくファンが高速回転している。改造後一発目の犯罪に空き巣協会を視聴したためか、「会長」と呼ばれ慕われている。|
+|[[フェアリー　トピオ]]|ギャング868設立後はじめての構成員。ホットドッグ協会員。&br()まだ犯罪に慣れておらず初々しい点も多くあるが向上心が高く、組織に貢献したいという熱い想いには目を見張るものがある。&br()その努力が芽を出し、単身警察を殲滅したりヘリIGLをこなす場面が多くなってきた。&br()ミックスが「俺より天然」と言わしめるほどの天然。ジョシュアと2人揃うと手に負えないクソガキと化す。|
+|[[紫水　コウ]]|ギャング868の構成員。メカニックで働いていたのは知っていたものの、いつの間にか犯罪に手を染めており、&br()いつの間にか868メンバーになっていた。&s(){「シスコウ」と呼んでいる。}&br()空き巣に対する順応性と手際の良さには目を見張るものがあり、空き協会の後継者になるかもしれないと期待を寄せている。|
+|[[ジョシュア・マーキル]]|ギャング868の構成員。紫水との繋がりから傭兵として活躍し加入した。組織内で二人目の闇メカニックでもある。&br()情報管理の意識が高く、車の運転を得意とする。「ジョア」と呼んでいる。&br()一見物静かでクールな雰囲気だが、それに反してノリが良く、子供っぽい一面もある。トピオに対してはそれが特に顕著。|
+|[[J　D]]|ギャング868の構成員。紫水との繋がりから傭兵として活躍し、音鳴以外のボスメンバーがいない中、&br()4人でアーティファクト強盗を成功させ、そこでのJDの活躍を見たミックス自らボスとして868に加入させた。&br()無線での情報伝達、撃ち合い、ヘリや車の運転も上手い文句の付けようがない人物。意外とチョケる。ボスの座を狙われている?|
+|[[轟　ばーど]]|ギャング868の構成員。ホットドッグ屋の傍ら、軽犯罪を行っていた元半グレ。&br()レギオン公園で屋台を出していたところを声をかけ、傭兵を経て加入。&br()年齢を訊かれた際には詳細を伏せたがそこそこ年嵩であるらしく、落ち着きのある人物だが、ボディランゲージが豊かでよく羽ばたいている。&br()大型犯罪には不慣れであると述べているものの、味方からの情報をもとに他のメンバーと比べても遜色のない対応をして見せる。|
+|[[鯵屋>魚参　屋]]|ギャング868の構成員。伝説の魚を求めていることを聞き、声をかけると、犯罪情報を訊くべくその場で初心者マークを外した。&br()言動に勢いがあり破天荒なキャラだが、ギャング加入前は868ギャングは外交が少ないため他との交流をしてはダメなのでは&br()という不安を話していた。音鳴は加入を断られたら手錠をかけて連れて行こうと思っていた。&br()会話も振る舞いも軽快で、撃ち合いも強い。音鳴の言いたいことが分かるらしく自称「音鳴マスター」らしい。&br()音鳴宝石貯金として金欠の音鳴に約1.2億分の宝石をくれたが、さすがに使えなかった。|
+|[[ルナ ホークアイ>月渚　雪人]]|ギャング868の構成員。元個人医でケインがスカウトして加入した。&br()個人医時代に治療費の請求忘れから逃げヘリブレードされたことがある。ビッグマウスでよく口が回るうるさい『焼き鳥』。&br()常に罰金の請求書を溜め込んでいるため国外追放されないように、金の遣り繰りが大変。|
+#table_zebra(#ffffe0, #fff, #EB7474)
+#endregion()
+//
+***&font(25px,#007BBB){&icon_fa(fa fa-shield-halved)} ロスサントス警察
+#region(開く)閉じる
+#table_style(head=:center:#EB7474:#fff){キャラクター名=center}
+|~キャラクター名|~詳細|h
+|[[小此木　ナカバ]]|初日にレギオン近くでナカバのパトカーに轢かれる。治療費とは別に食べ物、飲み物代として100万もらった。&br()後日ミックスがブースティング活動中、いかにも心なきが乗っていそうなトラックで道路に急に飛び出してきたナカバを轢いた。|
+|[[ひの　らん]]|上記のナカバの乗るパトカーに同乗していた。&br()後日警察に捕まり保釈後、警察署からレギオンに送ってもらった際、車がないと話すと使っていないからと車をもらう。|
+|[[ミン　ドリー]]|初日に車をねだり、すぐに運転免許を取ること（免許をすぐ取らなければ詐欺罪1000万）を条件にバギーをもらった。&br()なぜか、音無とよく間違えて呼ばれる。「アスパラ」と呼んでいる。|
+|[[オルカ　トヴォロ]]|レダーがホットドッグ屋として働いている最中にホットドッグを買いに来た時に初めて会う。&br()食べ物飲み物がない、と話すとホットドッグとレモネードをご馳走になる。&br()ケインが初逮捕された時に自分が無理矢理改造して犯罪者にしたと告げて激しく詰められた為、シリアスがトラウマになってしまう。|
+|[[きらりんぶい☆　なずぴ(10)]]|ガソリンスタンドで出会う。ミックスが給油している車が盗難車であることがばれ逮捕される。（※初犯）|
+|[[赤城　煉]]|1/27のイベントの際、イベントテロ罪がいつまで適用か確認するため電話をかける。&br()知り合いではないため、名前を言わずに切る予定だったが堂々と音鳴ミックスと名乗ってしまった。|
+|[[猫　マンゴー]]|牢王、刃弐と航空機墜落の犯罪後、それぞれの車に乗って逃げた際、盗難車ではないかと疑われ声をかけられる。&br()何とか逃げたが、代わりに牢王が声をかけられた。|
+|[[花沢　まるん]]|空き巣協会の活動中に捕まり、詐欺罪込みの1090万罰金を切られる。キノコ。ボートレースではまるんに賭けずに無事当たった。|
+|[[安保　さぶ郎]]|コレグラを教えてくれた。コレグラ仲間。ミックスはさぶ郎とぺいんの購入した牧場で手伝いもした。|
+|[[皇帝>ニックス　リア]]|マトリの天敵。1日に4回マトリに来て4回撃退したことがある。&br()品ぞろえが悪い☆1コンビニの店主。|
+#table_zebra(#ffffe0, #fff, #EB7474)
+#endregion()
+//
+***&font(25px){&icon_fa(fa fa-user-secret)} 犯罪者（ギャング）
+#region(開く)閉じる
+#table_style(head=:center:#EB7474:#fff){キャラクター名=center}
+|~キャラクター名|~詳細|h
+|[[三階堂　キミトス]]|[[MOZU]]所属のギャング。一度交通事故を起こしてしまい詰められたが、心なきにひかれた不遇さでケジメは免れた。|
+|[[ヴァン　ダーマー]]|[[MOZU]]のBOSS。夕コ、レダー周辺を探っているらしい。|
+|[[天草　蒼]]|元[[ALLIN]]所属のギャング、空き巣協会所属。唯一の友人。&br()刑務所内で会う。半グレ期間が長かったとのことで色々教えると話してくれた。|
+|[[CPU]]|元[[ALLIN]]所属のギャング。[[PYC]]のオープン時に出会う。道端で出会った際ギャングに興味はないかと聞かれた。|
+|[[有坂　誉]]|[[anbrella(餡ブレラ)]]所属のギャング。パレト銀行強盗をレクチャーしてくれた。ブースティングの大先輩。|
+|[[聖母　れりあ]]|[[anbrella(餡ブレラ)]]所属のギャング。傭兵時面倒を見てくれ、ミックスの車がパンクした際、れりあのタイラントを運転させてくれた。姐さん。|
+|[[Mon D]]| [[ALLIN]]のBOSS。1度カジノからの帰宅途中に交通事故を起こした事で詰められそうになったが、&br() その時の変装が魚魚魚(半裸に魚の被り物)とトリッキーだった為関わってはいけないと思われその場を離れられた。|
+|[[みこだ　よう>神子田　頼]]|元[[ALLIN]]所属のギャング。警察時代、「クロワッサン田中（山田？）」という適当な偽名をつけられた。コンビニ強盗で捕まった際、東署内に入れてくれた。|
+|[[飯田　けんつ]]|元[[TOPGEAR]]のBOSS。空き巣途中の音鳴(白井 太郎)が9055に立ち寄った際、当時白市民だった飯田が「何をしてたか言えますか？」と詰めてきたことがある。&br()TOPGEAR結成後に868と挨拶をした際、白井太郎が音鳴だったと発覚。当日中に飯田から謝罪と謝礼金1億円が送られる。&br()尚、この事実が発覚したときその場にいた全員が笑いを堪えるのに必死であった。|
+#table_zebra(#ffffe0, #fff, #EB7474)
+#endregion()
+//
+***&font(25px,#3EB370){&icon_fa(fa fa-child)} 市民
+#region(開く)閉じる
+#table_style(head=:center:#EB7474:#fff){キャラクター名=center}
+|~キャラクター名|~詳細|h
+|[[川　上]]|初日に刃弐と二人でアパート前でふらふらしていたところを見られ、初日だと話すと&br()自身の経営する[[川上たばこ店]]でたばこと、カレー屋でカレーををご馳走になる。|
+|[[駆音　エル]]|２日目、トラック運転手の仕事場で出会う。初めて出会った仕事仲間。|
+|[[上田　さん]]|よくお世話になる[[9055]]のメカニック。レースでもお世話になる。&br()9055の裏に空き巣の盗品を売る場所があるため、9055の従業員には全身真っ白の正装姿も度々見られている。|
+|[[パキ　ち]]|よくお世話になる[[PYC]]のメカニック。街であまり見かけない車やその外装を見せたり、教えたりしてくれる。&br()キャンプ用品も教えてもらった。|
+|[[町田　ジョアンナ]]|よくお世話になる[[JTS>ジョアンナテクノサービス]]のメカニック。社長。初めて会ったのが社長がホストに行く前で&br()ホスト練習に付き合ったため、その名残で「みっくん」と呼ばれている。会うたびに歯が抜けてる。&br()[[「&bold(){&color(#EB7474){社長！}}」「&bold(){&color(#f4a460){みっく～ん&color(#FF3399){♡♡}}}」>>https://youtu.be/xS1hnzpaJbI?feature=shared]]|
+|[[ねずみ さん>えぐち　きの子]]|よくお世話になる[[JTS>ジョアンナテクノサービス]]のメカニック。社長と同様「みっくん」と呼ばれている。チュー🐭|
+|[[ノア　チェンバー]]| 元[[IRiS]]専属の闇医者。デイリーミックスさんと呼ばれるほどよくお世話になっている中立個人医。&br() 勝手に&bold(){主治医}と呼んでいたら868全体に広がった。&br() 何度も事故の時にガレージに送ってもらったり、ヘリのことを聞いたり、布を売ってもらったりと治療以外でもお世話になっている。|
+#table_zebra(#ffffe0, #fff, #EB7474)
+#endregion()
+// 2024/11/16 町田　ジョアンナの欄にて二人間での呼び名を追加。そこからリンク設定しました。リンク先はととクリップ様です。
+
+&anchor(空き巣協会){}
+*&font(25px){&font(35px){空}き巣協会 &icon_fa(fa-regular fa-face-surprise)}&aname(空き巣協会)
+&font(23px,b){＃空き巣界隈を盛り上げたい}
+***&font(25px,#999){&icon_fa(fa fa-file-text-o)} 基本情報
+&font(12px){〇}&font(20px){&space()}2024/1/29に夕コと「＃空き巣界隈を盛り上げたい」という思いから設立
+&font(12px){〇}&font(20px){&space()}目出し帽を被り、全身白の格好で空き巣を行う。壁に擬態できるという利便性のため、白色の服を着ている。
+&font(12px){〇}&font(20px){&space()}家に侵入したら靴を脱がなければならない。
+&font(12px){〇}&font(20px){&space()}空き巣に銃器は禁止。鈍器系は可能
+&font(12px){〇}&font(20px){&space()}正体を隠すため服装に加え、声と名前を変えなければならない。声は独特な高い声、名前は白っぽい名前が好ましい。
+&font(12px){〇}&font(20px){&space()}空き巣は大人数でやるものではない。多くて3人まで。
+&font(12px){〇}&font(20px){&space()}868新メンバーの試練となっている。
+***&font(20px,#999){&icon_fa(fa fa-users)} 会員名簿
+#region(空き巣協会会員名簿)空き巣協会会員名簿
+#table_style(head=center:#999:#FFF)
+|~#|~役職|~名前|~読み方|~備考|h
+|1|会長|[[白井　太郎>音鳴　ミックス]]|しらい　たろう||
+|2|会員|[[白　白白>成瀬　夕コ]]|はく　ぱいぱい||
+|3|会員|[[白杉　太郎>牢王　蓮]]|しろすぎ　だろう|第2回ウォチパのコラボ相手|
+|4|会員|[[ケイン　シロスギ>ケイン／オー]]||第3回ウォチパのコラボ相手|
+|5|会員|[[白草　四郎>天草　蒼]]|しろくさ　しろう|第4回ウォチパのコラボ相手|
+|6|会員|[[アンド　ミカエル>無馬　かな]]|||
+|7|会員|[[白井　次郎>フェアリー　トピオ]]|しらい　じろう|第5回ウォチパのコラボ相手|
+|8|会員|[[白い　タコ>芹　沢]]|しろい　たこ|第6回ウォチパのコラボ相手|
+|9|会員|[[白杉　小太郎>紫水　コウ]]|しろすぎ　こたろう|第7回ウォチパのコラボ相手|
+|10|会員|[[乳酸　菌太>ジョシュア・マーキル]]|にゅうさん　きんた|第8回ウォチパのコラボ相手|
+|11|会員|[[白鷺　信夫>J　D]]|しらさぎ　のぶお|第8回ウォチパのコラボ相手|
+|12|会員|[[白屋　魚民>魚参　屋]]|しろや　ぎょたみ|第9回ウォチパのコラボ相手|
+
+#table_sorter{even=#F2F2F2,odd=fff}
+#endregion
+//
+***&font(20px,#999){&icon_fa(fa-solid fa-clipboard)} 活動履歴
+#region(開く)閉じる
+#table_style(head=center:#999:#FFF)
+|~日付|~出来事|~エピソード|h
+|24/1/29|夕コと初空き巣|空き巣のPOGOを車に積むところで警察が来て逃走|
+||正装作成|空き巣協会会長に就任|
+||ソロ空き巣|金庫を開けている最中に後藤れむに捕まる。|
+|24/1/31|逮捕|ブラウン管テレビを持ち家を出たところでミンドリーまるん竹井に捕まる。&br()ミンドリーとの免許取得の約束を守っておらず、詐欺罪が適用され1090万の請求|
+|24/2/2|アラートハックの歪み|歪みについてミンドリーに電話して相談する。市長案件であるとの回答。&br()強制瞑想によりPOGOが道路の中央に落ち呪いの人形になった|
+|24/2/6|第1回 ウォッチパーティー開催|レダー刃弐が視聴する中、大型テレビを持って家を出たところ&br()なずぴが待ち構えており逮捕|
+|24/2/17|天草正装を作成|デパートで正装の服を教える。予定があったためにコラボは後日に持ち越された。|
+|24/2/20|完全犯罪|警察来ず逃走。100万円の報酬|
+|24/2/21|第2回ウォチパ&br()白杉太郎コラボ|刃弐、レダー、夕コ、ぐち逸、ケインが視聴。犯罪道具の準備不足や仲間割れ、&br()歪みで車に乗れないなどあったが犯罪は成功。200万円の報酬を得た。&br()爆笑シーンが続きケインのファンが異常をきたした。|
+|24/3/1|ケイン刃弐正装作成　||
+||第3回ウォチパ&br()ケインシロスギとコラボ|夕コ、刃弐が視聴。ケインを助けるために持っていたハンマーでみこだを殴り殺した。&br()ケインが黒堕ちをしたことを初めて知った警察官が対応することになり、重々しい雰囲気のシリアス展開に発展。&br()結果として、会長はシリアスアレルギーとなってしまうが、&br()不朽の名言が誕生する等、一得一失なコラボとなった。&bold(){&color(#EB7474){「空き巣は笑顔になる！！」}}|
+|24/3/2|夕コ正装作成|夕コの正装を作りに行ったが、女性服に白の長袖がなかったため、全身赤で作成した。|
+|24/3/5|第4回ウォチパ&br()白草コラボ|天草は警察署襲撃の指名手配中だったため、空き巣協会最大3700万の罰金が課せられた。|
+|24/3/10|レダー正装作成|レダーが夕コに騙され空き巣協会の正装を作成|
+|24/3/30|白草四郎&br()ソロ空き巣|白草が単独で空き巣を敢行。&br()ドア前で鉢合わせた警官の[[日之　ぱちお]]をハンマーで撲殺し逃走に成功。|
+|24/4/9|無馬かな協会加入|カジノで偶然出会ったなしまかなを協会に勧誘、そして加入させることに成功。&br()ついでに正装も作成。|
+|24/4/13|第5回ウォチパ&br()白井次郎コラボ|レダー、夕コ、刃弐、ケインが視聴。空き巣中、逮捕後も様々な歪みが発生した。|
+|24/5/2|芹沢正装作成||
+||第6回ウォチパ&br()白いタココラボ|レダー、ケインが視聴。警察が来ず全回収、換金成功。&br()報酬100万に怒った白いタコが会長をハンマーで殴り出血ダウンさせ、置き去りにして逃走。&br()その場にいた9055のメカニック [[飯田　けんつ]]、[[上田　さん]]、[[月乃　えるな]]に詰められ、&br()警察へ通報されそうになるが、救急隊に搬送され助かった。上田にTwiXに写真を投稿された。|
+|24/5/17|紫水コウ正装作成||
+||第7回ウォチパ&br()白杉小太郎コラボ|レダー、刃弐、ケイン、芹沢、トピオが視聴。&br()空き巣車両がレッカーされた為スケボーで9055に向かうが、&br()その最中[[🎬不運にも警察と遭遇してしまい>>https://www.twitch.tv/guilty1223/clip/ResilientHotPieKappaClaus-tyGOzRDUNufn1GHZ?filter=clips&range=7d&sort=time]]、反抗空しく白井太郎逮捕。&br()一方で小太郎は無事逃走しアジトに帰還。白井太郎が逮捕される姿をウォチパで見届けた。&br()&bold(){&color(#D2A3CB){「会長はいいやつだった！！」}}|
+|24/6/08|ジョシュア・マーキル正装作成||
+|24/6/26|JD正装作成||
+||第8回ウォチパ&br()乳酸菌太&白鷺信夫コラボ|レダー、ケイン、トピオが視聴。初めてとなる3人組での挑戦となった。&br()信夫が犯罪中に飲酒するアクシデントに会長が戸惑う中、警報装置が作動し警察が到着。&br()事情を聞きに入ってきた警官の[[セリーヌ　ゴデス]]に清掃業者だと言い張り、なんとか家の外へ追い出す。&br()乳酸の活躍もあって暴れる依頼主(住人)を殺したのち、会長が外で待つ警官の[[亀有　大吉]]を殴り殺し逃亡。&br()応援に来た警察とチェイスするも、奮闘虚しくお縄となった。|
+|25/3/07|第9回ウォチパ&br()白屋魚民コラボ|ケイン、ジョシュア、JDが視聴。&br()家宅に侵入後すぐに会長がアラームに引っかかり警察の[[ババア>バーバリアン　田中]]が駆けつける。&br()魚民が空き瓶でババアを撲殺する過程で会長にも空き瓶が当たってしまい双方ダウンする。&br()その後、ダウン中に会長が金庫に触れてしまった為空き巣至上一番の歪みが発生し会長は瞑想。&br()魚民は1人で空き巣を続行。&br()会長がレギオンにて目覚める中空き巣を終えた魚民は徒歩で逃走。&br()レギオンへと逃走した魚民は奇跡的に会長と再会し空き巣は一応成功となる。|
+
+#table_sorter{even=#F2F2F2,odd=fff}
+#endregion
+//
+***&font(20px,#999){&icon_fa(fa-solid fa-clipboard)} その他エピソード
+#region(開く)閉じる
+&font(12px){〇}&font(20px){&space()}会長音鳴ミックスと天草はカーレースに空き巣協会の正装で参加した。（2024/02/23）
+&font(12px){〇}&font(20px){&space()}半グレ時代に交流のあった[[月ノ島　ごう]]に空き巣協会の正装を着せた。（2024/03/10）
+&font(12px){〇}&font(20px){&space()}ゲーセンアジトに空き巣協会のステッカーが貼ってある事に気が付いた[[無馬>無馬　かな]]がtwixで空き巣協会をレギオンに呼び出す。会長が不在日だったためケインが会いに行ったが、話の内容は空き巣ではなく新薬と868についてだった。（2024/04/05）
+&font(12px){〇}&font(20px){&space()}ゲーセンアジト前で集まっていたところ[[ラスカル荒井>R　B]]が現れ、空き巣協会のステッカーに気が付いた。お互いの空き巣時の変装を見せ合あうなどした。去り際にケインが空き巣協会に勧誘するも、車に乗り去って行ってしまった。（2024/04/07）
+&font(12px){〇}&font(20px){&space()}レダーとケインが、「無馬が空き巣協会に入りたいらしい」という嘘を会長に教える。
+&font(12px){〇}&font(20px){&space()}カジノで遊んでいたところ、無馬と出会い空き巣協会の会長であることを伝える。無馬は空き巣に興味がなさそうだったが、会長の熱意に押され正装を作る。今度一緒に空き巣をする約束を取り付けた。（2024/04/10）
+&font(12px){〇}&font(20px){&space()}受注場所で会長と天草が出会い近況を話し合う。天草の罰金額が5000万になったら再び空き巣をする約束をした。（2024/04/12）
+&font(12px){〇}&font(20px){&space()}街の外にて、山下市長のPLから空き巣のアプデについて相談を受ける。（2024/05/07）
+&font(12px){〇}&font(20px){&space()}新興ギャング[[TOPGEAR]]のアジトに868で挨拶に行った際に、相手ボスの飯田けんつに868のボスの音鳴ミックスが白井太郎であることをカミングアウトする。白市民時代に会長を詰めた謝罪金1億が飯田けんつから送金された。以降会長に対して頭が上がらない様子。（2024/08/03）
+&font(12px){〇}&font(20px){&space()}「空き巣のゴール知ってる方いませんか？？？」という[[ちゃんもも>豆乳　ちゃんもも]]のツイートに「9055がゴールです」とリプライを送り、協会長自ら教示した。（2024/08/22）
+&font(12px){〇}&font(20px){&space()}空き巣にアップデートが入り、報酬額が上がり、換金場所が変更になった。（2024/12/03）
+&font(12px){〇}&font(20px){&space()}市長不信任決議により退任が決定した[[山下　ひろし]]から空き巣の難しさを教えてくれと申し出がある。現在空き巣業界が混みあっていると会員のケイン、JD、ジョシュアが一旦持ち帰る。（2025/02/15）
+#endregion
+***&font(20px,#999){&icon_fa(fa fa-youtube-play)} まとめ動画
+#region(開く)閉じる
+#table_style(head=center:#999:#fff){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|2024/06/18|1|[[笑いしかない！空き巣協会発足から初コラボまでまとめてみた！>>https://youtu.be/6zCZvYgD1m0?si=pPecfDIOUtpfOxDM]]||
+|2024/06/25|2|[[笑いしかない！気付いたら沢山加入してる空き巣協会が面白過ぎたｗ>>https://youtu.be/Gh3NLw1PHOw?si=PnmbaRmM7w34K2lL]]||
+|2024/08/24|3|[[空き巣は笑顔になる！音鳴シリアス集>>https://youtu.be/ETMZefPVsrg?si=7ZukGILez47ZUMBg]]||
+#table_sorter{even=#F7F7F7,odd=FFF}
+#endregion(まとめ動画)
+//
+//空き巣協会は白基調が望ましいため、カラーリングをモノトーンに変更しました。
+//
+//-----------------------------------------------------------------------------------------
+*&font(25px){&font(35px,#EB7474){サ}ブスク &icon_fa(fa-solid fa-money-bill-transfer)}
+#div(width=330px,bgcolor=#EB7474){&font(16px,b,#fff){&space()&size(16){&icon_fa(fa fa-car-side)&space()&bold(){ギャンボスぶらり旅～ぶら☆たび～}}}}
+
+&image(ギャンボスぶらり旅～ぶら☆たび～.png,y=150)
+&font(20px,#EB7474){●&space()}登録日：25/03/19
+&font(20px,#EB7474){●&space()}ID：80
+&font(20px,#EB7474){●&space()}料金：20,000,000円/1週間
+&font(20px,#EB7474){●&space()}説明文：提供は不定期でっす☆
+#region(実際の提供内容)実際の提供内容
+|25/03/19&br()サブスク加入者&openclose2(show=1名){（[[不二子　キャスパー]]）}と限定車のE-Truckで5分間砂漠を10～20km/hでゆっくりドライブ（with [[牢王　蓮]]）|
+|25/05/06&br()サブスク加入者&openclose2(show=1名){（[[不二子　キャスパー]]）}にサブスク特典で[[A2 cafe]]のショートケーキとドリンクを進呈|
+#endregion
+*&font(25px){&font(35px,#EB7474){所}有車両 &icon_fa(fa fa-car)}
+&font(16px,b,u,black){Season1}
+#region(開く)
+***&font(25px,#EB7474){&icon_fa(fa fa-car-side)} 所有車両
+#region(開く)閉じる
+#table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=show,備考=show}
+#table_style(head=center:#EB7474:#fff){名前=left,#=center,取得日=right}
+|~車両ID|~車両名|~会社名|~タイプ|~取得日|~備考|h
+|DQOV2296|Blazer Sport|Annis|Off-Road|1日目(24/01/19)|[[ミン　ドリー]]から200万円貰い、購入|
+|FYKM3890|Futo|Karin|Sports|2日目(24/01/24)|[[ひの　らん]]から譲渡。（空き巣専用ボコボコ車両）|
+|LTKP7852|Contender|Vapid|SUV|7日目(24/02/02)||
+|SXNK0193|Blazer Lifeguard|Nagasaki|Off-Road|9日目(24/02/07)|[[9055]]グランドオープンレースに出場|
+|PZQL7056|Champion|Dewbauchee|Super|12日目(24/02/14)|[[上田　さん]]から購入|
+|ADKF4945|Youga Classic 4×4|Bravado|Vans|18日目(24/02/24)||
+|SEOC1776|Sunrise R|Maibatsu|Sports|29日目(24/03/24)||
+|JDBC7082|Ignus|Pegassi|Super|32日目(24/04/03)|[[ミン　ドリー]]から購入|
+|IHTJ4091|Speedo Custom|Vapid|Vans|46日目(24/05/18)||
+|WBNF8758|Chino Luxe|Vapid|Muscle|52日目(24/05/31)|犬のためオープンカー購入|
+|PQTD6018|Comet S2 Cabrio|Pfister|Sports|54日目(24/06/06)||
+|BGIQ1672|ZR350 Drift|Annis|Sports|64日目(24/06/29)|[[ねずみさん>>えぐち　きの子]]から購入|
+|GKEU2169|Futo GTX Drift|Karin|Sports|64日目(24/06/29)|[[ねずみさん>>えぐち　きの子]]から購入|
+|KLIO8643|Zombie Chopper|Western|Motorcycles|72日目(24/07/31)|[[868]]メンバーからの誕生日プレゼント。[[ジョア>ジョシュア・マーキル]]から譲渡。|
+|OIIZ5483|Hakuchou Drag（お誕生日おめでとう）|Shitzu|Motorcycles|72日目(24/07/31)|[[ノア　チェンバー]]からの誕生日プレゼント|
+|DNLG8139|Frakas（【会長】MIX Frakas）|Dinka|Motorcycles|73日目(24/08/03)|[[JD>J　D]]からの誕生日プレゼント|
+|MRFL4873|Torero XO|Pegassi|Super|73日目(24/08/03)||
+|ZUSH6950|Speedo Express|Vapid|Vans|85日目(24/11/10)|[[868]]から支給|
+|HWNF0531|Bosozoku|Shitzu|Motorcycles|89日目(25/01/19)||
+|BWYR9305|Jester RR （GRスープラ）|Dinka|Sports|89日目(25/01/19)|[[hantasma]]の[[アドミゲス・ハン]]から[[868]]へのお詫びの品|
+|EGG25082|Egg Car|Arcida|Sports|100日目(25/05/06)|[[Magic! Easter Event>イースターイベント]]で獲得|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion
+***&font(25px,#EB7474){&icon_fa(fa-solid fa-helicopter)} 所有航空機
+#region(開く)
+#table_filter(){車両ID=hide,航空機名=show,会社名=hide,取得日=show, 備考=show}
+#table_style(head=center:#EB7474:#fff){名前=left,#=center,取得日=right}
+|~車両ID|~航空機名|~会社名|~取得日|~備考|h
+|OODL5577|Sparrow||35.5日(24/04/11)|[[豆　やん]]から購入|
+|QVPY7746|Ultralight|Nagasaki|35.5日(24/04/11)|[[豆　やん]]から購入|
+|QEDU0865|Havok（音鳴へ）|Nagasaki|77.5日目(24/09/10)|[[レダー>レダー　ヨージロー]]から譲渡|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion
+***&font(25px,#EB7474){&icon_fa(fa-solid fa-ship)} 所有船舶
+#region(開く)
+#table_filter(){車両ID=hide,航空機名=show,会社名=hide,取得日=show, 備考=show}
+#table_style(head=center:#EB7474:#fff){名前=left,#=center,取得日=right}
+|~車両ID|~船舶名|~会社名|~取得日|~備考|h
+|WFGW5990|Longfin|Shitzu|36日目(24/04/12)||
+|CJLK0856|Seashark Yacht|Speedophile|36日目(24/04/12)||
+|FEST8368|Marquis|Dinka|74日目(24/08/24)|『ブラックパール号』|
+|VHYN4939|Tug|Buckingham|79日目(24/09/25)|[[レダー>レダー　ヨージロー]]から貰った現金で購入|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion
+***&font(25px,#EB7474){&icon_fa(fa-solid fa-gift)} 贈与車両等
+#region(開く)
+#table_filter(){贈与相手=show,車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=hide,贈与日=show,備考=show}
+#table_style(head=center:#EB7474:#fff){名前=left,#=center,取得日=right,贈与日=right}
+|~贈与相手|~車両ID|~車両名|~会社名|~タイプ|~取得日|~贈与日|~備考|h
+|[[牢王　蓮]]|HZGN2211|Volatus（ボスへ）|Buckingham|Helicopters|77.5日目(24/09/10)|88日目(25/01/07)|[[レダー>レダー　ヨージロー]]から他のボスに渡してくれと預かっていた。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(贈与車両等)
+#endregion(S1)
+
+//===================================
+//
+&font(16px,b,u,black){Season2}
+***&font(25px,#EB7474){&icon_fa(fa fa-car-side)} 所有車両
+#region(開く)閉じる
+#table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=show,備考=show}
+#table_style(head=center:#EB7474:#fff){名前=left,#=center,取得日=right}
+|~車両ID|~車両名|~会社名|~タイプ|~取得日|~備考|h
+|OTO 1000|Faggio Sport|Pegassi|Motorcycles|2日目(25/12/24)||
+|CXWI6T52|Cody|Dinka|Off-road|4日目(26/01/09)|軽トラ|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+//
+//***&color(#E1D16F){過去に所有していた車両}
+//#region(開く)閉じる
+//#table_filter(){名前=show,種類=hide,購入日=show,備考=show}
+//|~名前|~種類|~購入日|~備考|h
+//#table_zebra(#ffe6ea, #fff, #EB7474)
+//#endregion
+
+*&font(25px){&font(35px,#EB7474){服}装一覧 &icon_fa(fa fa-shopping-bag)}
+&size(12){[[編集ページ>>音鳴　ミックス/服装一覧]]}
+#include(音鳴　ミックス/服装一覧)
+//
+//
+*&font(25px){&font(35px,#EB7474){不}動産関連 &icon_fa(fa fa-house)}
+&font(16px,b,u,black){Season1}
+#region(開く)
+***&font(25px,#32cd32){&icon_fa(fa fa-house)} 個人用物件
+#region(開く,close)閉じる
+#table_filter(){購入日=show,番地=show,用途=show,備考=show}
+#table_style(head=center:#EB7474:#fff){名前=left,#=center,購入日=right}
+|~購入日|~番地|~用途|~備考|h
+|38日目(24/04/25)|2015|自宅兼薬物用素材倉庫||
+|38日目(24/04/25)|2015|倉庫|ガレージ。鯵屋に使っていいと共有。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+//
+***&font(25px,#FFBFCB){&icon_fa(fa fa-house)} 共有物件
+#region(開く)
+#table_filter(){共有日=show,番地=show,通称=show,管理=hide,備考=show}
+#table_style(head=center:#EB7474:#fff){名前=left,#=center,購入日=right}
+|~共有日|~番地|~通称|~管理|備考|h
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+#endregion()
+//不動産の項目がなかったため追加しました。Season1の分は後で記入します。
+
+//-------------------------------------------------------------------
+&font(16px,b,u,black){Season2}
+***&font(25px,#32cd32){&icon_fa(fa fa-house)} 所有物件
+#region(開く,close)閉じる
+#table_filter(){購入日=show,番地=show,用途=show,備考=show}
+#table_style(head=center:#EB7474:#fff){名前=left,#=center,購入日=right}
+|~購入日|~番地|~用途|~備考|h
+||8039|初期アパート|初期アパートの322号室。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+//
+***&font(25px,#FFBFCB){&icon_fa(fa fa-house)} 共有物件
+#region(開く)
+#table_filter(){共有日=show,番地=show,通称=show,管理=hide,備考=show}
+#table_style(head=center:#EB7474:#fff){共有日=right}
+|~共有日|~番地|~通称|~管理|備考|h
+|7日目(26/01/28)|8039|JDの部屋|JD|初期アパートの180号室。|
+|12日目(26/04/02)|7027|拠点|ケイン|&bold(){γ世界線最初の868拠点。}|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+
+*&font(25px){&font(35px,#EB7474){エ}ピソード &icon_fa(fa fa-calendar-o)}
+#div(width=330px,bgcolor=#EB7474){&font(16px,b,#fff){&space()Season1}}
+#include(音鳴　ミックス/エピソード1)
+#include(音鳴　ミックス/エピソード2)
+
+#div(width=330px,bgcolor=#EB7474){&font(16px,b,#fff){&space()Season2}}
+#include(音鳴　ミックス/エピソード3)
+
+&color(#F54738){&bold(){※エピソード募集中。本人視点以外の情報は載せないようにしてください。}}
+----
+&size(12){エピソードページリンク｜&br()S1：2024年[[EP1>>音鳴　ミックス/エピソード1]] 2025年[[EP2>>音鳴　ミックス/エピソード2]]、 S2：[[EP3>>音鳴　ミックス/エピソード3]] }
+//エピソードのサイトを分けたため、編集する際はエピソードページリンクから飛んでください。
+*&font(25px){&font(35px,#EB7474){ア}－カイブ  &icon_fa(fa fa-twitch)・&font(35px,#EB7474){動}画 &icon_fa(fa fa-youtube)}
+&bold(){※twitchアーカイブは60日後に視聴できなくなります。&br()※[[鳩・指示コメント>観測者の心得]]が原因でサブスクライブ限定公開となりました。&br()公認切り抜きチャンネル[[再生リスト>>https://youtube.com/playlist?list=PLe6SkfWL_jwwN264mVo5VP6yuCYrUYKKk&]]の53から音鳴。}
+#div(width=330px,bgcolor=#EB7474){&font(16px,b,#fff){&space()Season1}}
+***&u(){2024年}
+#region(開く)&b(){閉じる}
+#region(1～2月)
+#areaedit()#div(width=330px,bgcolor=#EBDA74){&font(b){&space()&icon_fa(fa fa-file-text-o)&space()1～2月}}
+&br()
+#table_style(head=center:#EB7474:#fff){配信日=right,#=center}
+|~配信日|~#|~アーカイブ|~動画 &icon_fa(fa-solid fa-video)/&icon_fa(fa-solid fa-scissors)|~備考|h
+|24/01/19|1|[[ストグラ1日~逃亡してきた>>https://www.twitch.tv/videos/2037103598]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/-Zd-hx3Z6V0?si=0-qT2QrGGz2Z0zdX]][[②>>https://youtu.be/JvdxEejviAk?si=JcnTDvfsj7jUHNyJ]]|ボランティア集団|
+|24/01/24|2|[[ストグラ2日目～おはよう>>https://www.twitch.tv/videos/2042124299]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/HBIpg10Tyxc?si=N-CT27ImQ6SnyC6x]][[②>>https://youtu.be/PB602dwjhHA?si=i838SBC7D4ZdUcQm]]|初犯、初逮捕|
+|24/01/25|3|[[パル→ストグラ3日目~犯罪者>>https://www.twitch.tv/videos/2043015714]]|||
+|24/01/27|4|[[ストグラ4日目～おはようやで～>>https://www.twitch.tv/videos/2045040166]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/mkOrq78QxSg?si=OOrcDbgDxKM7If1d]][[②>>https://youtu.be/fXYF_MTdp0U?si=zEv2juFpwggh7cMX]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/ojVuLp4mjqc]]||
+|24/01/29|5|[[ストグラ5日目~今日は何をしようか>>https://www.twitch.tv/videos/2047046524]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=-XldPlSzQCw]]/[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/Z1ldqMCVs3Q?si=8ULukuiQ4jN-85kP]][[②>>https://youtu.be/vXXWFIRdo9U?si=k1R7aYS9-2zlQSUb]]|初空き巣、空き巣協会会長就任、ｻﾊﾞﾝﾅかいと街怖い|
+|24/01/31|6|[[ストグラ6日目~空き巣協会会長>>https://www.twitch.tv/videos/2048900047]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=yeHOvDGCeU8]]/[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/NFizaS5dn4Y?si=0bb0y4G907B-MQzx]][[②>>https://youtu.be/U2vsHQRaXnE?si=9-zn76zpiSagbQ3g]]|空き巣で無免詐欺罪、空き巣初成功|
+|>|>|>|>||
+|24/02/02|7|[[ストグラ7日目~一億円た、たまる？？？>>https://www.twitch.tv/videos/2050802589]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/s3V55-lVWB8?si=HDEeHGO2BMT1jB6e]][[②>>https://youtu.be/IUn2o5uMTi8?si=mRKjX0f38xtRLkbn]]|空き巣|
+|24/02/06|8|[[ストグラ8日目~車に乗りたい気分でさぁ>>https://www.twitch.tv/videos/2054815962]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=0SrtaGvEEE8]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/nc_IeED_oXw?si=_QIa6LYZUTrneybJ]][[②>>https://youtu.be/Q0BxSXrcPRA?si=mUyLRfxo0MgOsuUJ]][[③>>https://youtu.be/4n6v-xCf3os?si=fp9IeJG5EfAZ5_AW]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/3MsouErFqfk]]|空き巣ｳｫﾁﾊﾟされる、ﾌﾞｰｽﾃｨﾝｸﾞ協会設立、9055ﾚｰｽ、ﾚﾀﾞｰ初逮捕|
+|24/02/07|9|[[ストグラ9日目~車カスタムするゾ>>https://www.twitch.tv/videos/2055765022]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=mv6yeW4kPd4]][[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/dP_a67vJ3VE?si=9o81gcnBOV3lFCmx]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/EXzUMeTTyy8]]|空き巣|
+|24/02/08|10|[[ストグラ10日目~今日も働きますか>>https://www.twitch.tv/videos/2056715591]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/wiAMZcvyUJM?si=EAjUW5tETzMu5ZaC]][[②>>https://youtu.be/ClB_dKKaDsA?si=2udtf8sWuJsGhsIJ]]|パレト銀行強盗、ﾚﾀﾞｰ薬物生成所爆発|
+|24/02/12|11|[[ストグラ11日目~おはｙo>>https://www.twitch.tv/videos/2060564543]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/B0SAewKJC40?si=uhsASRQAHmx6r5sf]][[②>>https://youtu.be/xhux8Pq9nMc?si=F-fMm65yrt7BLdHO]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/3OvsV1ET3GY]]|店舗強盗をｳｫﾁﾊﾟされる、パレト、ｷｬﾊﾞｸﾗ|
+|24/02/14|12|[[ストグラ12日目~早起き>>https://www.twitch.tv/videos/2062419050]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=C6S4N8RuBDc&t=24s]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/EN9y23KG3Vs?si=LiNOS1j7xgbxxSw8]][[②>>https://youtu.be/92vKxsnkTac?si=n_WJ-GVfP7FjT2Gl]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/yEeb4RlbFsA]]|Champion購入|
+|24/02/17|13|[[ノマやるって>>https://www.twitch.tv/videos/2065189647]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=ESuEFrCcYsM]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/7CHX7B0Ros0?si=Bf6Mu3n_rtwOZoXx]][[②>>https://youtu.be/tQLJiPOZp3g?si=INg63dwA_1fxy4TF]]|lol終了後、起床。天草空き巣協会入会、ｶﾆﾒｲﾄ謎解き、角刈りを捕まえろ|
+|24/02/20|14|[[ストグラ14日目~うぃっす～>>https://www.twitch.tv/videos/2068300561]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=p10T7UmNQls]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/oPzflXyxcoc?si=WToUbUXmlGAesiUJ]][[②>>https://youtu.be/zvo3my8KXW0?si=YRM6MzpCyTIMSiC-]]|空き巣、ペトロ占い、ソロパレト|
+|24/02/21|15|[[ストグラ15日目~音鳴ミックス犯罪者>>https://www.twitch.tv/videos/2069263020]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=ZWxfErFWcU8&t=863s]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/bRSOyDoHDVE?si=ocnpf5dcuQRishTh]][[②>>https://youtu.be/O7d8RdCJbqc?si=6bpSMrBwPWeReZKR]]|IRiSの初傭兵、ケインオー改造、牢王と空き巣コラボ|
+|24/02/22|16|[[ストグラ16日目~レース練習>>https://www.twitch.tv/videos/2070220045]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=19WL19ZnIkg&t=463s]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/O9V1ZVLBUH0?si=RwqFz7u_SinsXgn5]][[②>>https://youtu.be/r6mTs7vvONs?si=JBXXUBhYSftLXH5Y]]||
+|24/02/23|17|[[ストグラ17日目~レースやるzo~>>https://www.twitch.tv/videos/2071236884]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/hEwY1wH6B1I?si=BK8TRvPwcm4BYo38]][[②>>https://youtu.be/nX-RZPZ-4zM?si=7eG-OHHgEsO7GxAa]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/IhS7JuoHfJw]]|MOZUに詰められた話、溶鉱炉、レース、868ﾌﾟﾘｽﾞﾝ|
+|24/02/24|18|[[ストグラ18日目~違法ダイビング>>https://www.twitch.tv/videos/2072232138]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/Vr_pcXl8ZWU?si=JndVjjORM3J4ELFH]][[②>>https://youtu.be/vQzQ6EDZ3iI?si=z5mPfPo7Z1Vug1Oi]]|ホット婆誕生、違法ﾀﾞｲﾋﾞﾝｸﾞ協会、LOVE FIST|
+|24/02/28|19|[[ストグラ19日目~おじゃ～>>https://www.twitch.tv/videos/2076017754]]|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()#areaedit(end)
+
+#region(3～4月)
+#areaedit()#div(width=330px,bgcolor=#EBDA74){&font(b){&space()&icon_fa(fa fa-file-text-o)&space()3～4月}}
+&br()
+#table_style(head=center:#EB7474:#fff){配信日=right,#=center}
+|~配信日|~#|~アーカイブ|~動画 &icon_fa(fa-solid fa-video)/&icon_fa(fa-solid fa-scissors)|~備考|h
+|24/03/01|20|[[ストグラ20日目~いつも真面目に働いてる>>https://www.twitch.tv/videos/2077872966]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=QsPnJCMYv3Y]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/Fbb31KCdvSg?si=LDbOZ0cfn4UanhCW]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/JFO9G6kn7oo]]|刃弐空き巣服、ケインと空き巣コラボ|
+|24/03/02|21|[[ストグラ21日目~勝ち取る>>https://www.twitch.tv/videos/2078910023]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/0GqpxMkcrYU?si=_9SLsAX8ES_Gkm21]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/RbKxftq7uDc]]|夕コとﾃﾞｰﾄ、白 白白誕生|
+|24/03/03|21.5|[[ストグラ~犯人逮捕>>https://www.twitch.tv/videos/2079955396]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=zxnJWResdBs]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/WRyjM0axnAQ?si=CtP2qtb5uZzUXSh3&t=510]]|前半別キャラ、ペトロ占い愚者|
+|24/03/05|22|[[ストグラ22日目~むっちゃ早起きですやん>>https://www.twitch.tv/videos/2081780340]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=Fd_S66Xluwk]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/x7gq1TZLGAU?si=-yg9D4fNf0C6prBT]][[②>>https://youtu.be/fSwvEHcxPBs?si=4iL97yoIDC0cbXSg]]|刃弐のパレトをｳｫﾁﾊﾟ、天草と空き巣コラボ|
+|24/03/07|23|[[ストグラ23日目~ちる>>https://www.twitch.tv/videos/2083741252]]|||
+|24/03/10|24|[[ストグラ24日目~おもろいことやろや>>https://www.twitch.tv/videos/2086648934]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=mNeAveTXmrM]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/w3A9450c7mA?si=eJgJy-jZrkaAhvag]][[②>>https://youtu.be/FaoiSpGWi6c?si=WdLxC2D80jiNrEhp]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/BlJcOSEBRGE]]|餡ブレラ傭兵、ｷﾞｬﾝｸﾞｽｰﾂﾌｧｯｼｮﾝｼｮｰ、ﾚﾀﾞｰ空き巣服|
+|24/03/13|25|[[ストグラ25日目~起床>>https://www.twitch.tv/videos/2089472123]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=ksMpIHM0lKE]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/dW8TlKMr75E?si=uJOgZfZmKD9jrCC_]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/RLkk3uNj3MM]]|ケインから花を貰う、神社参り、安藤茂&ハラバアキ誕生|
+|24/03/14|26|[[ストグラ26日目~うぃ～す>>https://www.twitch.tv/videos/2090385578]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/jiGwxRBGvdM?si=Kcn3uZ07G77GV9iG]][[②>>https://youtu.be/hBr-5LWNwfg?si=6Z-3IOtQK6CZBX3r]]|闇メカ訪問、くるみ占い|
+|24/03/22|27|[[ストグラ27日目~久々>>https://www.twitch.tv/videos/2097939739]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=b1bKQ6FGkCE]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/GhVjtz-NIM8?si=FSStBVffd-Fpghj1]][[②>>https://youtu.be/oanQ1b-5az4?si=K4Nl9N69QEdhbdSI]]|脱衣ビリヤード、コレグラを知る、警察の牧場見学。|
+|24/03/24|28|[[ストグラ28日目~変えてみた>>https://www.twitch.tv/videos/2099958929]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=e_wM1epStig]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/sOsWEJ-quC0?si=RK_9quz_BK5NcD5U]][[②>>https://youtu.be/9qbZ2xJZWmM?si=9jO6ago2cjkdb65_]]|コレグラ、[[トピオ>フェアリー　トピオ]]と会う|
+|24/03/26|29|[[ストグラ29日目~まったり>>https://www.twitch.tv/videos/2101897164]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/zbtMWuZNiYI?si=NgjiIoDBY-osWtjL]][[②>>https://youtu.be/MI8VBLcD0lI?si=DTrBh_C5WnSe3im7]][[③>>https://youtu.be/WKBM_sX39Zk?si=-6NAAnpxxYrlk1pa]]|&bold(){ギャング【[[868]]】設立}、初大型ﾎﾞﾌﾞｷｬｳｫﾁﾊﾟ、初リグ、客船受注先ﾀｸｼｰ作戦|
+|24/03/29|30|[[ストグラ30日目~おはざす>>https://www.twitch.tv/videos/2104728839]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=Eh8rl0peqZU&t=197s]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/uVMATQ4vM9Y?si=J7upTm2yDxrt_LBq]][[②>>https://youtu.be/yfpfThHeXcY?si=R-yFA4E5d11TkrRT]][[③>>https://youtu.be/0nu_N0bl4NM?si=Xyecrzg9fPd7d8OZ]]|半グレトピオを様子見、激熱リグ、新薬|
+|24/03/31|31|[[ストグラ31日目~車かいますか>>https://www.twitch.tv/videos/2106713473]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=swU5sQ329fQ]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/VIzEUD06lig?si=V-7lAoV82ZvMK-B_]][[②>>https://youtu.be/WOa8bJtl654?si=XtbDALW9M32OK8SE]]|トピオに服を見繕う、ケインと遊園地デート|
+|>|>|>|>||
+|24/04/03|32|ストグラ32日目~車車車|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/kGjGukHRLOY?si=2K1frozxROf6b8SA]][[②>>https://youtu.be/OdPJdwTvjrk?si=chn3M39s7pS8PNu9]]|餡ブレラに横取りされる。Ignus購入|
+|24/04/04|33|[[ストグラ33日目~今日は~何する>>https://www.twitch.tv/videos/2110446342]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=QmJbCPoqJAc]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/vm85wlCiNfo?si=N5n1r_58GbE-IeqD]]|マトリ戦争|
+|24/04/06|34|[[ストグラ34日目~うい>>https://www.twitch.tv/videos/2112291871]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=Dj6joPiqxzQ]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/OFuPsQMJ4l8?si=gM4snwe8abj44y-0]][[②>>https://youtu.be/vZDLUhWfR8o?si=bfLj7ygZPUv1qdgC]]|ケインと限界ﾃﾞｭｵﾘｸﾞ、限界ﾄﾘｵ飛行場、限界ﾄﾘｵﾘｸﾞ|
+|24/04/09|35|[[ストグラ35日目~起床>>https://www.twitch.tv/videos/2115050334]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=E1Zgedjkutk]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/fqutq3XO2TU?si=TNEAY-OMtfnw_pSP]][[②>>https://youtu.be/_8BP3zqN25I?si=lfzNs9fHAItbNziB]]|ﾊﾟﾗｼｭｰﾄ、トピオ加入、山野山男誕生、[[無馬>無馬　かな]]空き巣協会加入|
+|24/04/11|35.5|[[違和感しかない>>https://www.twitch.tv/videos/2116789597]]||8番出口終了後、起床。スパロー、紙飛行機購入|
+|24/04/12|36|[[ストグラ36日目~珍しく二日連続>>https://www.twitch.tv/videos/2117644285]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=lMxOfct126Q&t=329s]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/UFMmMq1SBHw?si=QQ1wlM8Xr7VkgAmS]][[②>>https://youtu.be/VHIcZd8otqs?si=TPFzc9xft736R-Jf]][[③>>https://youtu.be/f_o5wn8EXrI?si=SmKmMVc5j1vym2XR]]|北署スプレー、グレンジャー帰宅、トピオの空き巣試験|
+|24/04/24|37|[[ストグラ37日目~うおー久しぶり>>https://www.twitch.tv/videos/2128204493]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=-_rFzzBORQM]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/hfRoLAU-cHE?si=5OSJkG7DnJkiq9p3]][[②>>https://youtu.be/hgzIkUURFpo?si=cXwKxpzVxPPYv0oi]]|川下り、激熱4人リグ、運動会見学、マトリ撲滅協会服提供、電車、横取りｳｫﾁﾊﾟ|
+|24/04/25|38|[[ストグラ38日目~おは>>https://www.twitch.tv/videos/2129154575]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/JNHLUMLN8wA?si=eQ7fPw7371ifUGMc]][[②>>https://youtu.be/I_cEUUrTicw?si=xhmZhZN23xeh5gyt]]|ジェットスキー逃走客船、リグ仲間救出警察煽り|
+|24/04/26|39|[[ストグラ39日目~ハウジング>>https://www.twitch.tv/videos/2129934789]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=oNKqMlozSew]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/wlrz7EALMKU?si=lThK5FrrL4c4CTSj]][[②>>https://youtu.be/aVTnmbFeVB8?si=LK2ZMwttSNnRP3_D]]|芹沢起床、みっくん誕生、ホット婆ホスト3億円事件|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()#areaedit(end)
+
+#region(5～6月)
+#areaedit()#div(width=330px,bgcolor=#EBDA74){&font(b){&space()&icon_fa(fa fa-file-text-o)&space()5～6月}}
+&br()
+#table_style(head=center:#EB7474:#fff){配信日=right,#=center}
+|~配信日|~#|~アーカイブ|~動画 &icon_fa(fa-solid fa-video)/&icon_fa(fa-solid fa-scissors)|~備考|h
+|24/05/01|40|[[ストグラ40日目~ハウジング2>>https://www.twitch.tv/videos/2134386782]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=h0KGv-FZD4Q]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/407MidcnyVE?si=SsRki1NlcdrJuXA4]][[②>>https://youtu.be/TfE5yRaoiCs?si=TonB9COpIDuogRTI]]|ペトロ占い、違法ﾀﾞｲﾋﾞﾝｸﾞ協会、868情報漏洩事件|
+|24/05/02|41|[[ストグラ41日目~お金カセギ>>https://www.twitch.tv/videos/2135257673]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=Xo8fAfVQghw]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/tPCG7rPghbI?si=0c2yURV3FhMszWzz]][[②>>https://youtu.be/fvAVoU0vH6c?si=iz3pvLmq93fMSuaj]][[③>>https://youtu.be/FQVuBFUJohk?si=DxzCYvHNMK-MKStm]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/Oa4fYV2ktXw]]|芹沢空き巣コラボ、868情報漏洩事件、ケインの部屋をﾊｳｼﾞﾝｸﾞ|
+|24/05/04|42|[[ストグラ42日目~なにしよーーーーー>>https://www.twitch.tv/videos/2136995341]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/5srwYCFC79g?si=efNSgwrf9oJpv8UO&t=610]]|前半別キャラ。安藤茂|
+|24/05/07|42.5|[[感謝の雑談>>https://www.twitch.tv/videos/2139531922]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=PfGruaUaDFo]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/FQVuBFUJohk?si=A1cDc_o6Fd42nbeq]][[②>>https://youtu.be/SjeeREmj6H8]][[③>>https://youtu.be/4cGQligo7Ew]]|雑談後起床。マトリﾊﾟﾄｶｰﾄﾞｯｷﾘ、寿司打、ﾎｴｰﾙｳｫｯﾁﾝｸﾞ、ﾄﾋﾟｵﾊﾟﾚﾄ受験|
+|24/05/11|43|[[バッチできた雑談>>https://www.twitch.tv/videos/2142911567]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=90bgxJaFL4I&t=226s]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/_I-fVuQ1Bmg?si=YphT958qD-UVheEo]][[②>>https://youtu.be/Jgxj_7GYmUQ?si=yFp41go0MHDsDmBn]][[③>>https://youtu.be/PTAssfqrj2s?si=FnPoeQUpYY7Hb9oh]]|雑談後起床。ホスト代1億返済、シマ取りの話、868ｻﾊﾞｹﾞｰ、ﾄﾋﾟｵと飛行機墜落|
+|24/05/14|44|[[スタンプできた雑談>>https://www.twitch.tv/videos/2145412431]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=3qjj55voXdg]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/dJloMYdYWA4?si=OR6Wbcqu92uCQ8bf]][[②>>https://youtu.be/M7e5O9FGu5k?si=DnirHhf9vyOgCvkC]]|雑談後起床。シマ取り服作成、シマ取り|
+|24/05/17|45|[[ストグラ45日目~おはっ>>https://www.twitch.tv/videos/214791622]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=7j5gRaPCYvg]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/VeIOFx7g8Hs?si=L0x6VLrJpzlNkEEe]][[②>>https://youtu.be/-ijfMIXzz84?si=8pN85YOrhN0EbP-k]][[③>>https://youtu.be/xpaXNBGoHuU?si=H95uI2DAVS788IvS]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/NRM0JGX2l3A]]|[[紫水>紫水　コウ]]加入挨拶、シマ取り、紫水空き巣試験|
+|24/05/18|46|[[ストグラ46日目~なんか買うか>>https://www.twitch.tv/videos/2148794362]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=JlObnMF0jsA]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/gbEfUVGwleA?si=ZJtNXSkUhbzpHqNw]][[②>>https://youtu.be/U9weVMm9OuA?si=glqxqUBz48fsVpuP]][[③>>https://youtu.be/lG3M_cKnx1c?si=ahazn2DKFEljiiYc]]|牢王起床、ボス客船、ゴルフ、ﾀﾞﾌﾞﾙｶｯﾃｨﾎﾞﾌﾞｷｬ、警察署襲撃|
+|24/05/21|46.5|[[雑に談>>https://www.twitch.tv/videos/2151313224]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/u59XFD5Myp0?si=UnylDviKswoOQEE9]]|雑談後起床。豪邸アジト購入|
+|24/05/22|47|[[47日目~早起き>>https://www.twitch.tv/videos/2152149593]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=Lt3jllX0R1s]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/_aa1xGqygG4?si=O8gb3vg4-CDhyv1W]][[②>>https://youtu.be/UehI8lb_04E?si=jMSNR-lOl8mHKqhw]][[③>>https://youtu.be/K5l2quzvAL4?si=hrzlzJIubKlLMPP1]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/Smu-p9A5Lq0]]|ﾎﾞﾌﾞｷｬ後車奪還作戦、摩天牢王蓮、音鳴作戦軍事物資強奪、麻陀羅組と同盟、シマ取り|
+|24/05/24|48|[[ストグラ48日目~夏の先取り>>https://www.twitch.tv/videos/2153918654]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=LyxxVwCsirM]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/e1JTnzbHFBY?si=g2h3zmkH9f8TcOLO]][[②>>https://youtu.be/0lFeuS8_1Xo?si=X_qu883btVTt9Pwa]][[③>>https://youtu.be/oMBwXmE8enw?si=cst-Ntv1IGyBybSb]]|バカンス、シマ取り、プール会議|
+|24/05/25|49|[[豪気瞬獄殺だしたい>>https://www.twitch.tv/videos/2154744817]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=BNXrKycaTwQ]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/r-Wl1ft_dek?si=vWKdUL3aThTqLGQu]][[②>>https://youtu.be/XaiFOfiOgzU?si=TETKN3JlBJj_2mFr]][[③>>https://youtu.be/Tes0lmN-U2A?si=qzm9BX-Jt6MuB8am]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/DiJp-5Dgv0Q]]|スト6終了後起床、初ユニオン、呪いのヘルメット|
+|24/05/28|50|[[ストグラ50日目~早寝早起き>>https://www.twitch.tv/videos/2157334001]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=VVQ3NzE1zoU]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/LMXDbOkPemc?si=_LDFEKVc6aB4JOHk]][[②>>https://youtu.be/CVMUsdikeyE?si=i2-CgcGQt12Zk2Yf]]|地殻変動、ｷﾞｬﾝｸﾞｽｰﾂ作成、無馬に謝罪、ｸﾘｽﾀﾙ、ﾒﾒﾝﾄﾓﾘ|
+|24/05/29|51|[[ストグラ51日目~島>>https://www.twitch.tv/videos/2158250017]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=iSX3hXvcuh4]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/cixVGXO6VKM?si=7W7h1pRyo3lYzaEQ]]|シマ取り、安藤茂&ハバラアキ魔女カフェ|
+|24/05/31|52|[[ストグラ51日目~薬爆売れチャンネル>>https://www.twitch.tv/videos/2159884121]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=lCC3BSoU_dg]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/ZkwOIBEGMio?si=oaBt-OrQcWOmyve_]][[②>>https://youtu.be/voFyjcYKv4c?si=P6KGYgultkCiA2vI]]|シマ取り、[[ジョシュア・マーキル]]と話|
+|>|>|>|>||
+|24/06/05|53|[[ストグラ53日目~目が覚めた>>https://www.twitch.tv/videos/2164168864]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=ggUdr7EoLD4]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/VfY21FPM66A?si=824L7qxEUmaIR31u]][[②>>https://youtu.be/54AADzrDhCc?si=_UcWA81LIq5-tviI]]|シマ取り、ﾆﾄﾛﾁｬﾚﾝｼﾞ、ｼﾞｬｰﾆｰ飛行場、ジョシュア勧誘|
+|24/06/06|54|[[ストグラ54日目~お金貯めるか~>>https://www.twitch.tv/videos/2164967533]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=WwjANi6G2cs]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/9NFKuSAW5ng?si=n__S7cpjMQhlL35D]][[②>>https://youtu.be/d3wIybq8ATA?si=k8EFYiOPeBIEsVM-]]|傭兵[[JD>J　D]]と初対面、初上位ブースティング|
+|24/06/08|55|[[ストグラ55日目~練ネリ>>https://www.twitch.tv/videos/2166781487]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=K8SmoO03XqU]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/OuBK29m6GSg?si=lNuveBx0K7jgHxzv]][[②>>https://youtu.be/sbbBHzuw4M8?si=odlvC0jXeAfD727R]]|ｼﾞｮｼｭｱ空き巣準備、大トロ飛行場|
+|24/06/12|56|[[ストグラ56日目~島取参戦>>https://www.twitch.tv/videos/2170074965]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=TDDI6RwfeK8]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/VTocM9g9d8A?si=iIz-uacP3zTNVxKd]][[②>>https://youtu.be/qW7_oWjuUes?si=hXI_UiRo83ce1a_-]]|牛の免許取得、APﾋﾟｽﾄﾙシマ取り、ﾆﾄﾛﾁｬﾚﾝｼﾞ|
+|24/06/14|57|[[lolソロランクだ>>https://www.twitch.tv/videos/2171677305]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=0-1rEV9OFmY&t=1s]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/xT3rQrSpP3E?si=ht34vraNdznFKapA]][[②>>https://youtu.be/VMlka4_AZak?si=8M-aO_o836lABU-_]][[③>>https://youtu.be/XrCxpWj53eI?si=SmuG2TLLWkCeBeKC]]|lol終了後起床、大型夏服、5人ﾕﾆｵﾝｸﾗｯﾁ、ジョアﾊﾟﾚﾄ受験|
+|24/06/16|58|[[ストグラ58日目~早起き？>>https://www.twitch.tv/videos/2173451299]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=KSLtjj82u2c]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/NQt__7iGrk0?si=BPwyaLbnneuPOAGy]][[②>>https://youtu.be/kDW7_dDwfWM?si=gGmVfO-d8yB_rpK-]]|サバゲー、天才ﾊｯｶｰ太斗氏&しゃくれﾊﾟｲﾅｯﾌﾟﾙﾌﾞｰｽﾃｨﾝｸﾞ|
+|24/06/18|59|[[ストグラ59日目~新しくした>>https://www.twitch.tv/videos/2175073927]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=-qhrImneywc]]|レーシック導入、ATM|
+|24/06/19|60|[[ストグラ60日目>>https://www.twitch.tv/videos/2175966602]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=sUeo2Etkw6Y]][[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/7lPyesaMT1I?si=QqQTTSf6e_vIjA2H]]|シマ取り|
+|24/06/22|61|[[ストグラ61日目~おはｙ>>https://www.twitch.tv/videos/2178553935]]|[[&icon_fa(fa-solid fa-video)>https://www.youtube.com/watch?v=uhLgPFXiZdE]][[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/X-O0UeBXoaI?si=WZWD-qDYJanrJO4t]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/V184APfX3hI]]|ATM強盗で爆殺、劇場版客船|
+|24/06/25|62|[[ストグラ62日目~こんばんは>>https://www.twitch.tv/videos/2181314502]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=1qEq-LROhR8]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/plLUBlziVuk?si=AVlKNMLO9oLwF60o]][[②>>https://youtu.be/GajKu2zi4s8?si=pAZNXglPlJBMObzp]]|山野山男、4人アーティ、JDを加入させる|
+|24/06/26|63|[[ストグラ63日目~うぃ>>https://www.twitch.tv/videos/2182136997]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=hyFTljqmKHk]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/CBfoUpXMR2M?si=nLkePMOlbuhLHVBH]][[②>>https://youtu.be/QsZeu9FJHyY?si=BSr2PmOsvoBzGQoL]]|シマ取り直前起床、868ボス会議、ジョア& JD空き巣試験|
+|24/06/29|64|[[ストグラ64日目~雑談のち>>https://www.twitch.tv/videos/2184665487]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=XVdBjyqee6c]][[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/sGf0lpM3AIo?si=9OQWHnkevnZsFqHJ]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/gaVe3cF6AeE]]|パトカードッキリ、アーティ|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()#areaedit(end)
+
+#region(7～11月)
+#areaedit()#div(width=330px,bgcolor=#EBDA74){&font(b){&space()&icon_fa(fa fa-file-text-o)&space()7～11月}}
+&br()
+#table_style(head=center:#EB7474:#fff){配信日=right,#=center}
+|~配信日|~#|~アーカイブ|~動画 &icon_fa(fa-solid fa-video)/&icon_fa(fa-solid fa-scissors)|~備考|h
+|24/07/02|65|[[雑談チル>>https://www.twitch.tv/videos/2187200514]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/RbMDefMfTwc?si=wSDRvio4vlatFY4D]][[②>>https://youtu.be/mzdXnAkBMdY?si=w4N6_3-Ya2A7wfto]][[③>>https://youtu.be/n_AcEt3yJ8w?si=fpG_aY60Zc6WjVai]]|雑談後起床、ﾌﾟﾘｽﾞﾝでﾀﾞﾝｽ、ｹｲﾝからﾚﾀﾞｰに誕プレ、プール会議|
+|24/07/04|66|[[ストグラ66日目~あまりにも早すぎる男>>https://www.twitch.tv/videos/2188866336]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=rOnEI_eCJak]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/--a3I1peT08?si=nPuoUrbb8fAU0YON]]|魂からの不憫Day、衛星外JDにダル絡み、Gへイスト|
+|24/07/07|67|[[ストグラ67日目~短時間デー>>https://www.twitch.tv/videos/2191396432]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=LLsd0_rHClM]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/rrSp1eGbmhU?si=QUwav2URYMz0Noo_]][[②>>https://youtu.be/TYr0FcIjypg?si=kBANgCmmw8M4CD7v]]|個人医とヘリ練習、タピオカ、省かれる紫水、ヘリ練習レース|
+|24/07/09|68|[[ストグラ68日目~犯罪でぃー>>https://www.twitch.tv/videos/2193106037]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=uUNamWhZbFQ]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/FtMqomCLCSg?si=2laBJHi1GIYVJ250]][[②>>https://youtu.be/ptu9zhcFT1s?si=s23q-5vPUWndjk30]][[③>>https://youtu.be/Svrq7g1jX94?si=hP532462bY_Mt0T-]]|しゃくれﾌﾞｰｽﾃｨﾝｸﾞ、NLｱｰﾃｨ横取り、ﾄﾋﾟｵ寝落ち|
+|24/07/13|69|[[ストグラ69日目~目覚め>>https://www.twitch.tv/videos/2196529806]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=exKyK0_ySwE]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/4RUjSM5Cfjs?si=NTifpZmqJnXMD320]][[②>>https://youtu.be/rM8bbzaJF88?si=QNYONAx8UmSgl0Zg]]|限界アーティ、餡アーティ横取り|
+|24/07/17|69.5|[[ストグラ69日目~島編>>https://www.twitch.tv/videos/2199926166]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=D8Fl6n2n78Y]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/jTgYj2GqlMc?si=JQKiQFM5JThroQ_z]][[②>>https://youtu.be/Z_udoYrPl2U?si=wGenwuHQ0hGpiXJB]][[③>>https://youtu.be/JmENJhTy_lU?si=SU0GjIRK-TqsbFUN]][[④>>https://youtu.be/mPHdx5ZWWj0?si=yDOjFOtDDMqayktS]]|餡横取りトラブル、メメモリ変更、シマ取り、軍人パレト|
+|24/07/23|70|[[ストグラ70日目~うい~su>>https://www.twitch.tv/videos/2205129186]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=5EgrcW6RmCI]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/HZKzgwqCXI8?si=LnQcjbte_yP5xyfX]][[②>>https://youtu.be/ZBPvIqcWxio?si=NBaM66AnFvm32dd0]][[③>>https://youtu.be/fOPNGN6HdMA?si=YPk5aWu5bS5fDRyE]]|アーティ、西ゴリラ東誕生、プール、バナナボート、北ゴリラ南と邂逅|
+|24/07/24|71|[[ストグラ71日目~島防衛線>>https://www.twitch.tv/videos/2206019627]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=bJLryZ8engg]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/BWF2o1vGjlM?si=GpZi1TluYYNQ4bnF]][[②>>https://youtu.be/63KlLtmBcbs?si=r4o45vLQOVqh_XCW]]|シマ取り、カジノ|
+|24/07/27|71.5|[[雑談ちる>>https://www.twitch.tv/videos/2208696395]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=GMAJpaCjyYw]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/QKLlpn0UV24?si=2cRwMnGfHzaayYpr]][[②>>https://youtu.be/_KLCeCn_QBM?si=FVk2rKB7SszmIcs9]]|雑談後起床、メメモリがバレた話、社長のスナック|
+|24/07/31|72|[[ストグラ72日目~音鳴起床>>https://www.twitch.tv/videos/2212001775]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=0qBF9qAdywk]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/MKDddJ9OJiM?si=yGtfRtGum9l4oPVG]][[②>>https://youtu.be/wHyse5fZfJ8?si=ypuXFJK9CvUNP7kR]]|誕生日プレ、ツーリング、シマ取り、ｷﾞｬﾝﾎﾞｽ会議中|
+|>|>|>|>||
+|24/08/03|73|[[ストグラ73日目~今日はなにがあるのか>>https://www.twitch.tv/videos/2214644319]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=IvWsMo0xVM8]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/j1iFNFhEio0?si=Ogy7wX7C-VHQ1a_H]][[②>>https://youtu.be/_gNU9pF97bI?si=N0iUL9inv09jbD03]]|成瀬夕コ&力二からﾌﾟﾚｾﾞﾝﾄ、JDから誕プレ、ﾚﾀﾞｰとﾍﾘﾊﾞﾄﾙ、[[TOPGEAR]]のｱｼﾞﾄに挨拶|
+|24/08/22|74|[[ストグラ74日目~海が呼んでる>>https://www.twitch.tv/videos/2230949664]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=U-_20BM8fPs]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/dId-uk3U_M8?si=R8A7O7gB5UTZVgp7]]|ケイン中古車D開業、釣り|
+|24/08/29|75|[[ストグラ75日目~起床wkwk>>https://www.twitch.tv/videos/2236949892]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=eP4SRT80fT4]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/WVj8ZUaNhEw?si=qM0eOa18cE4bvf18]][[②>>https://youtu.be/OXD2mgpiD7k?si=9N_6xj9iUAq41CGc]][[③>>https://youtu.be/HaloIo6Cu7c?si=iJysO9uaOnFweKKx]]|空き巣車出品未遂、レダー帰国話、レダーと最後の大型、868釣り|
+|24/08/30|76|[[ストグラ76日目~連日でい>>https://www.twitch.tv/videos/2237825141]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/aKHXW12lGiw?si=ZQfTB6ksEuiy5F5L]][[②>>https://youtu.be/kKNNwezODi0?si=msvwQ_g-KIffRcke]]|市長ヘイスト、トラック運転手、レダーの痕跡、デヤンス占い|
+|>|>|>|>||
+|24/09/03|77|[[ストグラ77日目~いろいろ見に来た>>https://www.twitch.tv/videos/2241464784]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=mo6944WvfWI]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/Rz55Y5JP8jo?si=OyxNzvKr7e9NdoFm]][[②>>https://youtu.be/cWhnICK8VWA?si=qyKfPJk4wHduNfuZ]]|新アジト、車両仕様変更、デヤンス占い|
+|24/09/10|77.5|[[ストグラ77日目~おつかれさん>>https://www.twitch.tv/videos/2247544659]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=L7za7RgW70c&t=13s]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/lJrSZgmRLvA?si=Gl_0n2l6yvCmW3we]][[②>>https://youtu.be/xb688pJKRks?si=OoxWkFm_wAuMCX7h]]|レダー帰国、868レース|
+|24/09/13|78|[[ストグラ78日目~10億何使うか>>https://www.twitch.tv/videos/2249914657]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/SAHRhDQ-6-c?si=lIkBokETNGx8kt8Z]][[②>>https://youtu.be/aKpOsDeT_Ws?si=TVE4e_9vBi8ytOsX]]|ギャンブル、てへ|
+|24/09/25|79|[[ストグラ79日目~お金の使い道パート2>>https://www.twitch.tv/videos/2259939930]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=iFmDcfL6giw]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/S7Z4I4znej0?si=e9HFIUap5-NB_8u2]][[②>>https://youtu.be/uVHrWODN0bs?si=PXUZiv_m0PBEz8X_]]|初金庫強盗、漁船購入、釣り、868麻雀|
+|>|>|>|>||
+|24/10/03|80|[[ストグラ80日目~またり～>>https://www.twitch.tv/videos/2266479957]]|[[&icon_fa(fa-solid fa-video)①>>https://www.youtube.com/watch?v=3HelhZMtlK4]][[②>>https://www.youtube.com/watch?v=O6uUY6mKwhM]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/rhAXIwkjMS4?si=6RxyDEG79Jogtxdt]]|鯵屋と轟ばーどに挨拶、大型秋服|
+|24/10/09|81|[[ストグラ81日目~うぃ>>https://www.twitch.tv/videos/2271495026]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=oEIu63J6qB0]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/y7mcJ-LIrOQ?si=NPWQG05x5RMD7WSG]][[②>>https://youtu.be/KrmTCKxKipU?si=afcPwgGx-LfT0izj]][[③>>https://youtu.be/4NSTtStNllU?si=fo_gA6-fLG8pfgex]]|ﾃﾞｭｵﾘｸﾞﾘｽﾀｰﾄ、二部賭博罪ﾌﾟﾘｽﾞﾝ、JTS改装、ばーど傭兵金庫|
+|24/10/22|82|[[まずは雑談>>https://www.twitch.tv/tototmix/video/2282324198]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=EqolzsynyXI]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/7LaqHUTGnys?si=d66IjYDCY0bA2twm]][[②>>https://youtu.be/XIPRR2FmR7s?si=qEJMR7QMPyouUt-6]][[③>>https://youtu.be/yErhg8NIcxw?si=KD-Bwo-nsk7izIZi]]|雑談後起床。鯵屋アヒル金庫、868ボス人事会議、サバゲー|
+|>|>|>|>||
+|24/11/02|83|[[ストグラ83日目~やほ>>https://www.twitch.tv/videos/2291733273]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=8Pfy321_4nM]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/P9roN3fWG8o?si=eVYghh7i3XcxvSIf]][[②>>https://youtu.be/l5USrdwDQFk?si=MJbliT6tAV6DzH2w]]|ばーど加入後初挨拶、ばーどパレト受験、鯵屋加入|
+|24/11/06|84|[[ストグラ84日目~多分少し>>https://www.twitch.tv/videos/2295045416]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=vUEN_Jnprm8]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/5WKqWZ7ZX00?si=SKu32pGWMpnHnPkD]][[②>>https://youtu.be/fnlJJT_rcKs?si=JfS3zL7NYw48Caaf]]|かくれんぼ、おじいちゃん飛行場、ﾊﾎﾞｯｸユニオン|
+|24/11/10|85|[[ヨリックちゃんwithきなこ>>https://www.twitch.tv/videos/2298253857]]|[[&icon_fa(fa-solid fa-video)>>https://www.youtube.com/watch?v=xA5GIlS0cq0]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/kgG_gtqu--o?si=CKOHWgN5-Gy1SuGT]][[②>>https://youtu.be/6R3Ujj9tLbY?si=IH_wqrtxRirRODTm]]|lol後起床。漁船客船、リグ横取り、マトリ撲滅協会|
+|24/11/17|86|[[ストグラ86日目~起床>>https://www.twitch.tv/videos/2304318449]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/GFrIJ0TpWqA?si=HQNC_in25lfOQC2U]][[②>>https://youtu.be/9u07jNRBukI?si=JQVIxU5ahcHaR6vg]][[③>>https://youtu.be/ev2fMbC-0dE?si=y-8Z9QC6ng7o-Ksp]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/iZhPyAVmiGI]]|ﾀﾞｲｼﾞｪｽﾄ、治療費爆増、ケイン無双リグ、漁船客船|
+|24/11/30|87|[[ストグラ87日目~おひさ>>https://www.twitch.tv/videos/2314646649]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/yDsW5aCIT-A?si=Ikz9TvWQw25BZ-eu]][[②>>https://youtu.be/o776JlkoNCY?si=XgLKk5fgrKYUJWzq]]|鯵屋のｼﾘｱｽ、鯵屋パレト受験、激熱リグ|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion()#areaedit(end)
+#endregion(2024年)
+//
+***&u(){2025年}
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#fff){配信日=right,#=center}
+|~配信日|~#|~アーカイブ|~動画|~備考|h
+|01/07|88|[[88日目~ことよろちょりーす>>https://www.twitch.tv/videos/2346723029]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/yz0isv-_S-Y?si=Jfn9SY18SUkmSUmM]][[②>>https://youtu.be/du-WQNVWqxo?si=Sk9qyIwrOe5nfR5h]][[③>>https://youtu.be/MzAqwmLKvf4?si=go97L1N4vaU4klvl]]|牢王蓮起床|
+|01/19|89|[[ストグラ89日目~一年たったみたいですな>>https://www.twitch.tv/videos/2357565257]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/LLIomwsnGn8?si=OYbqh5P68lwd6Kix]][[②>>https://youtu.be/SYk_vnipIzk?si=OQTkGntpNE2gxc01]][[③>>https://youtu.be/0L3FI0EbCcw?si=BqLlxW6BBD1Z0VAN]]|つばめ占い|
+|01/23|90|[[ストグラ90日目~おはーす>>https://www.twitch.tv/videos/2361275851]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/vJqB6mtLocY?si=hyjW4d2tttf9pu5G]][[②>>https://youtu.be/sQ389f9JnsY?si=f677k_GiupBY29Z6]][[③>>https://youtu.be/lfOEas81LqM?si=8yrTnYsuendBxwK7]]|麻陀羅組と抗争|
+|01/28|91|[[ストグラ91日目~ちゃす>>https://www.twitch.tv/videos/2365889626]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/kixBaWmgwbg?si=WZqZnMEtyRcZb8ga]][[②>>https://youtu.be/1NTxhNQUZsA?si=fODeypJSUImzo0O9]][[③>>https://youtu.be/j-xp5JxRaJw?si=3h84nujNzqEey02U]]|麻陀羅組とパレトコント|
+|>|>|>|>||
+|02/05|92|[[生活リズムが終わりを告げてる>>https://www.twitch.tv/videos/2373041272]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/fpGPsTqqSSg?si=mBnEmGuwvrPBA08r]][[②>>https://youtu.be/sXxeZTkzuN8?si=qOj6nzJydF6xJwb1]][[③>>https://youtu.be/yVAfARusVg4?si=U54AdMAuLIVnBMvI]][[④>>https://youtu.be/5Pa9ZyZVEOY?si=9vvD3EVsAWw_wYVw]]|雑談後、起床|
+|02/08|93|[[ストグラ93日目~おは~>>https://www.twitch.tv/videos/2375620934]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/lw9HV2TNEeg?si=HvKlOQ9_RkV45EEf]][[②>>https://youtu.be/DqL7ON-RJz8?si=cvwfVOR0AtFxB7S1]][[③>>https://youtu.be/DqL7ON-RJz8?si=2I98iyddPhemRoVB]][[④>>https://youtu.be/tYYSEbRwF3E?si=D6eNsQAGUqi-Iu8J]]|ユニオンハボック逃げ成功|
+|02/23|94|[[ストグラ94日目~ちーーーーーーっす>>https://www.twitch.tv/videos/2389002053]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/-TNXv_f_zgs?si=r1BaaWDpM1CH-gI5]][[②>>https://youtu.be/dRoLdKTejwI?si=ZiI-4nnpB4AeZ3SL]]|豪邸かくれんぼ|
+|02/25|95|[[ストグラ95日目~金ないのうける>>https://www.twitch.tv/videos/2390701919]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/Tc-Sjx-pLpQ?si=cmyzUYN9S2QXlbJx]][[②>>https://youtu.be/7aK4ZjEkpKc?si=ZtymQsgml08BDidp]][[③>>https://youtu.be/7aK4ZjEkpKc?si=DLNTOM1Cd8JprPWq]]|鯵屋パレト受験、マトリ撲滅協会|
+|>|>|>|>||
+|03/07|96|[[ストグラ96日目~早起き>>https://www.twitch.tv/videos/2399330637]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/7nGjQA9qT1Y?si=lpOhg-HYPXNmdkwM]][[②>>https://youtu.be/x0jcffyID_M?si=o3C2TmHe9IuU_rTN]][[③>>https://youtu.be/TXGAZfTTEzE?si=pkWCgxzuUo2n_xx0]]|空き巣協会|
+|03/19|97|[[ストグラ97日目~寝起き>>https://www.twitch.tv/videos/2409709315]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/H-FlUV3HzdI?si=YW_S15iCshzJIo5n]][[②>>https://youtu.be/hQwcsh71fxk?si=uhCZDzS8na_ohTXq]][[③>>https://youtu.be/zIAfW1-GxCw?si=635YHruUYg2lKXEM]]|サブスク、ｷﾞｬﾝｸﾞ会議|
+|>|>|>|>||
+|04/02|98|[[ストグラ98日目~おは part1>>https://www.twitch.tv/videos/2421912016]] , [[part2>>https://www.twitch.tv/videos/2421985084]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/3oXljrlILCw?si=S9vOEjMaqN4sDXqD]][[②>>https://youtu.be/wOu22rI11ZM?si=9mGx6d8fwXFD3Ao0]]|つばめ占い|
+|04/16|99|[[ストグラ９９日目～起きれるか>>https://www.twitch.tv/videos/2434345238]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/r8hvwCGuqXY?si=ldN0gU6HnE7bdeVC]][[②>>https://youtu.be/G2DhdKDsf8A?si=qNoP5ran_20C8IIh]][[③>>https://youtu.be/coNS7c-n7oY?si=ZeX-WOQrtrGfFZvy]][[④>>https://youtu.be/bm9cW2Lgx34?si=BGygE0rPYB111wcs]]|傭兵[[ルナ>月渚　雪人]]とﾘﾆｭｰｱﾙ後初ｱｰﾃｨ、サウナ|
+|>|>|>|>||
+|05/06|100|[[ストグラ100日目 あ>>https://www.twitch.tv/videos/2451696723]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/sIF6viMzZpU?si=twRCqTRZ4Zyg1o08]][[②>>https://youtu.be/Qbl3IygeAYQ?si=T4PzcYI3_-M39fWP]][[③>>https://youtu.be/mKIqH4VqysQ?si=4Blf9ot2veaiClk3]][[④>>https://youtu.be/K4OEoKrLusE?si=QYDw_f-N0U_SARUn]]|[[ルナ>月渚　雪人]]加入後初対面、ウサギになる、大型春服作成、868Boosting|
+|05/14|101|[[ストグラ101匹目~おは>>https://www.twitch.tv/videos/2458434503]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/JSkBVZ0cC2E?si=KBf4ROk0tspRksaL]][[②>>https://youtu.be/qTG4V3FtKnw?si=IAValiI15B5PQi4T]][[③>>https://youtu.be/SZIFljToKdY?si=EX30qqjLv4rutJtP]]|ﾘｸﾞ、略奪、ｽｰﾊﾟｰｼｬｳﾄｱｰﾃｨ、868ｻﾊﾞｹﾞｰ|
+|05/20|102|[[ストグラ102日目~筋肉>>https://www.twitch.tv/videos/2463649799]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/FdLhixisU7w?si=bSR4hnijdMNzztNW]][[②>>https://youtu.be/m4Ruajqs9Ns?si=m0ek1lpDYPAIzSIe]]|ソロ起床、ソロ略奪|
+|>|>|>|>||
+|09/19|103|[[ストグラ 起きた>>https://www.twitch.tv/videos/2570213505]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/sfD_pfYHQTg]][[②>>https://youtu.be/KM9mnky5-60]]|6人起床、街の危機を知る、オーパーツ探し、ダークシリーズ強襲、バンカー挑戦|
+|09/21|104|[[ストグラ 旅立ち>>https://www.twitch.tv/videos/2571965204]]|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/ZoIkaQEk8GY]]|逃亡準備、868本アジトで市長の護衛、全人類転送完了 【&bold(){ストグラSeason1終了}】|
+#table_sorter{even=#F7F7F7,odd=FFF}
+#endregion(S1 2025年)
+
+#div(width=330px,bgcolor=#EB7474){&font(16px,b,#fff){&space()Season2}}
+***&u(){2025年}
+#region(12月,open)
+#div(width=330px,bgcolor=#EBDA74){&font(b){&space()&icon_fa(fa fa-file-text-o)&space()12月}}
+&br()
+#table_style(head=center:#EB7474:#fff){配信日=right,#=center}
+|~配信日|~#|~アーカイブ|~動画|~備考|h
+|12/19|1|[[day1 寝すぎた>>https://www.twitch.tv/videos/2647750503]]|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/jb4GH-VkvQs]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/BFk5Klk0qtc]]|【Season2開始】転送完了|
+|12/24|2|[[Day2 ~お金どうしたら増えます？>>https://www.twitch.tv/videos/2651869891]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/EXDyyP98kmw]][[②>>https://youtu.be/mm6owcZHUX8]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/Qm-6blTLLTw]]|砂金、鉱山、ばーどと合流|
+|12/27|3|[[Day3 出会った>>https://www.twitch.tv/videos/2654113680]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/5Y8Y7_uqhEQ]][[②>>https://youtu.be/eT-GY9UTWR4?si=wSkeUyLm1vygGUwz]][[&icon_fa(fa-solid fa-film)>>https://youtu.be/xqxu-U0u6pw]]|バイト、ジョシュアケイン鯵屋と合流、S2初犯罪|
+#table_sorter{even=#F7F7F7,odd=FFF}
+#endregion(12月)
+***&u(){2026年}
+#region(1月～,open)
+#div(width=330px,bgcolor=#EBDA74){&font(b){&space()&icon_fa(fa fa-file-text-o)&space()1月～}}
+&br()
+#table_style(head=center:#EB7474:#fff){配信日=right,#=center}
+|~配信日|~#|~アーカイブ|~動画|~備考|h
+|01/09|4|[[day4 はたらく>>https://www.twitch.tv/videos/2665206159]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/G2jgm8bL3mU]][[②>>https://youtu.be/vlqAaQbgJOw?si=LIK58VlIgr5U2vwB]]|JDと合流、ダウンDay、ケインジョアJDとコンビニ強盗検証、軽トラ購入|
+|01/11|5|[[day5 あ>>https://www.twitch.tv/videos/2667125411]]|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/6LYK9JGBdGM]]|鯵と鉱山、ジョアばーどコンビニ強盗見守り|
+|01/25|6|[[Day6 やるでぃ>>https://www.twitch.tv/videos/2679689713]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/v-5ej0a_Y78]][[②>>https://youtu.be/1zHwvQ5TJUQ]]|スロット、リサセン、ゴミ箱ファーム、クラフト|
+|01/28|7|[[Day7 作りまくるぞ>>https://www.twitch.tv/videos/2682511749]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/pUjs78EttZU]][[②>>https://youtu.be/o0dy9x5x3VE]]|ルナ再会、クラフト、リサセン、情報共有、スロット|
+|01/29|8|[[Day8 今日も素材集め>>https://www.twitch.tv/videos/2683382384]]|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/UnG79sdvz7g]]|リサセン、銀行強盗、コンビニ強盗|
+|>|>|>|>||
+|02/01|9|[[Day9 この時間に起きるとは>>https://www.twitch.tv/videos/2686080308]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/GIUuCxo0Tyo]][[②>>https://youtu.be/suWbqVxPJ98]]|ケインと早番、ゴミ箱漁り(鍵取得)、銀行強盗|
+|>|>|>|>||
+|03/20|10|[[Day10 おはよう>>https://www.twitch.tv/videos/2727084714]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/VTflvj2YB_w]][[②>>https://youtu.be/OSXMYuem-6o]]|銀行強盗、不動産内見、初犯、重窃盗初プリズン|
+|03/26|11|[[Day11休みじゃないですよね>>https://www.twitch.tv/videos/2732144973]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/ZjYSgvwTQLk]][[②>>https://youtu.be/gjv0inCUVWI]]|6人起床、違法ハッキング、868アーティ、868会議、くじ引き|
+|>|>|>|>||
+|04/02|12|[[12日目~はいこんばんは>>https://www.twitch.tv/videos/2737972039]]|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/BO8A-krVUYI]]|アーティ、拠点購入|
+|04/08|13|[[13日目~家あるのでっか>>https://www.twitch.tv/videos/2742903900]]|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/vNooMnbS_lg]]|ハウジング、カジノ|
+|04/12|14|[[14日目~今日はどんな日>>https://www.twitch.tv/videos/2746245547]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/LrWy23oPkig]][[②>>https://youtu.be/3FFA9Y9Ehkw]]|1v1ﾄｰﾅﾒﾝﾄ、闇医者と金銭ﾄﾗﾌﾞﾙ|
+|04/16|15|[[15日目~少し>>https://www.twitch.tv/videos/2749409454]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/g1D3CB7v43Y]][[②>>https://youtu.be/fJnuWpV6Rho]]|情報共有、金策、ルナの請求書完済、闇医者へ一部支払い|
+|04/24|16|[[16日目~今日はコンビニ空いてる？>>https://www.twitch.tv/videos/2755788305]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/nST-XROUDcw]][[②>>https://youtu.be/9gwfJmbksuE]]|情報共有、カジノ、畳雑談|
+|>|>|>|>||
+|05/15|17|[[17日目~まじひさしぶっり>>https://www.twitch.tv/videos/2772491613]]|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/pvF_mRJpQds]]|ソロ起床、OverEats、スロット|
+|>|>|>|>||
+|06/11|18|[[18日目~今日はいい日になるに決まっている>>https://www.twitch.tv/videos/2793988118]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/OkvGvRe6ztY]][[②>>https://youtu.be/PnrgHUxk4Q4]]|ソロ起床、釣りミックス、ブースティング|
+|06/13|19|[[19日目~ちょいおもろいやん>>https://www.twitch.tv/videos/2795593128]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/wffNb450dkk]][[②>>https://youtu.be/kFr-1S7aN8k]][[③>>https://youtu.be/IqC1bEUk6RI]]|JD・鯵屋情報共有、無線購入、小型が大型化、置き配窃盗|
+|06/17|20|[[20日目~今日もお金増やしますか>>https://www.twitch.tv/videos/2798750829]]|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/9IZWDM-TT_8]]|服作り（白井、短歩歩）、ルナの救出、4人で置き配窃盗|
+|06/18|21|[[21日目~連日>>https://www.twitch.tv/videos/2799533006]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/QtxaT_P-BgU]][[②>>https://youtu.be/Se_rvNYy9yw]][[③>>https://youtu.be/Ap976UB1jY0]]|お花の置き配窃盗団、ルドー、置き配が大型化、ホットドッグ屋開業会議|
+|>|>|>|>||
+|07/03|22|[[22日目~うぃ~>>https://www.twitch.tv/videos/2811148835]],[[Part.2>>https://www.twitch.tv/videos/2811163316]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/ANdf4M1kotM]][[②>>https://youtu.be/6jzHuZUtnfI]]|置き配、ブースティング、請求書完済|
+|07/08|23|[[23日目~OKIRU>>https://www.twitch.tv/videos/2814986373]]|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/DK9SLOFpJdE]][[②>>https://youtu.be/cgv1E81dhf0]]|置き配、カジノ、コンビニ強盗、ブースティング|
+#table_sorter{even=#F7F7F7,odd=FFF}
+#endregion(1月~)
+//
+//公式TouTube：[[&icon_fa(fa-solid fa-video)>>
+//公認YouTube：[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/DK9SLOFpJdE
+//許諾済YouTube：[[&icon_fa(fa-solid fa-film)>>
+//
+//切り抜きチャンネルのリンクをつけるために、幅を取っている公式チャンネルの動画タイトルをアイコンに変更しました。
+//
+***&font(20px,#EB7474){&icon_fa(fa fa-youtube-play)} まとめ動画〇〇集
+#region(開く)閉じる
+#table_style(head=center:#EB7474:#fff){配信日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|24/03/27|1|[[868組ギャング構想から設立までの軌跡>>https://youtu.be/zbtMWuZNiYI]]||
+|24/06/18|2|[[笑いしかない！空き巣協会発足から初コラボまでまとめてみた！>>https://youtu.be/6zCZvYgD1m0]]||
+|24/06/25|3|[[笑いしかない！気付いたら沢山加入してる空き巣協会が面白過ぎたｗ>>https://youtu.be/Gh3NLw1PHOw]]||
+|24/08/18|4|[[コントしたり巻き込まれたりするサバンナかいとが面白過ぎたｗ>>https://youtu.be/udHsoTegVGM]]||
+|24/08/19|5|[[ジョアとの相性◎！天才ハッカー黒井太集>>https://youtu.be/Nn_scF3tw2Q]]||
+|24/08/24|6|[[空き巣は笑顔になる！音鳴シリアス集>>https://youtu.be/ETMZefPVsrg]]||
+|24/09/08|7|[[起床する度に事故るデイリーミックス集>>https://youtu.be/AGH-RgfVngU]]||
+|24/11/12|8|[[出会ったら即みっくん！音鳴×社長まとめ集>>https://youtu.be/xS1hnzpaJbI]]||
+|25/01/14|9|[[【切り抜き】2024年クリップ集 GTAベスト20>>https://youtu.be/rPIucQtKcwk]]|別キャラ、VCRも含む|
+|25/10/02|10|[[【総集編①】「868がロスサントスに降り立った日」>>https://youtu.be/ttOrcq7GetQ]]||
+|25/10/14|11|[[【総集編②】「空き巣コラボが誕生した日」>>https://youtu.be/fdBDB1iNbmE]]||
+|25/10/22|12|[[【総集編③】レダーとの思い出>>https://youtu.be/rhcvX2gjrYQ]]||
+#table_sorter{even=#F7F7F7,odd=FFF}
+#endregion(まとめ動画)
+//
+//
+//
+***&font(20px,#EB7474){&icon_fa(fa fa-youtube-play)} Short動画
+&font(16px,b,u,black){Season1}
+#region(2024年)
+#size(85%){#table_style(head=center:#EB7474:#fff){投稿日=right}
+|投稿日|タイトル|h
+|03/30|[[【脱衣コレグラ】ギャングから驚くべき方法で客船の受注先を聞き出す868組が面白過ぎたｗ>>https://www.youtube.com/watch?v=EfyApsA_tiY]]|
+|03/31|[[【面白まとめ】警察ヘリに追われてるらっだぁを絶対に見捨てない868組が熱すぎた>>https://www.youtube.com/watch?v=mIV40KQOTqY]]|
+|04/01|[[【面白まとめ】爆笑！突然始まったケインオーとの遊園地デートが面白過ぎたｗ>>https://www.youtube.com/watch?v=UsbRJF9vcrk]]|
+|04/02|[[【面白まとめ】あまりにも私服のセンスがないとっぴーに爆笑するととみっくすｗ>>https://www.youtube.com/watch?v=8xaOXXs_tKQ]]|
+|12/15|[[ログインしたら即シリアス>>https://www.youtube.com/watch?v=SyKLj1Y7Mqs]]|
+|12/27|[[ロスサントス上陸1>>https://www.youtube.com/watch?v=tb9L9GMh0YA]]|
+|12/27|[[ロスサントス上陸2>>https://www.youtube.com/watch?v=xw75mdzFoYU]]|
+|12/27|[[夕コ再会>>https://www.youtube.com/watch?v=TWo5oYqLpCg]]|
+|12/29|[[見捨てられる音鳴>>https://www.youtube.com/watch?v=p2-CwhCc2tk]]|
+|12/29|[[わらしべ対決その1>>https://www.youtube.com/watch?v=Wf9wecTgF9U]]|
+|12/29|[[わらしべ対決その2>>https://www.youtube.com/watch?v=rVJhkaToT5E]]|
+|12/29|[[わらしべ対決その3>>https://www.youtube.com/watch?v=_JMm1FU-IPQ]]|
+#table_sorter{even=#F7F7F7,odd=FFF}
+#table_autoincrement(){label=#, start=1}}
+#endregion(2024)
+#region(2025年1月～2月)
+#size(85%){#table_style(head=center:#EB7474:#fff){投稿日=right}
+|投稿日|タイトル|h
+|01/06|[[アジトに謎の女性>>https://www.youtube.com/watch?v=G9pLgb16qcA]]|
+|01/06|[[初犯●●万の音鳴>>https://www.youtube.com/watch?v=pg7Ee2iUvM8]]|
+|01/06|[[初犯●●万の音鳴2>>https://www.youtube.com/watch?v=XkYiIX83aho]]|
+|01/07|[[サバンナかいと爆誕>>https://www.youtube.com/watch?v=lRqiLt9T9Os]]|
+|01/07|[[クリスマスの過ごし方>>https://www.youtube.com/watch?v=VG8i7krmBvM]]|
+|01/07|[[キャベツの千切りを練習してる理由>>https://www.youtube.com/watch?v=Vhj0-JDzdSw]]|
+|01/08|[[絶対バレないサバンナかいと>>https://www.youtube.com/watch?v=D_WsYjgm6f8]]|
+|01/08|[[ワカメご飯が好き過ぎる牢王蓮>>https://www.youtube.com/watch?v=OA6dnE8pnjo]]|
+|01/09|[[初空き巣>>https://www.youtube.com/watch?v=oM2zfuzPDEI]]|
+|01/09|[[初空き巣2>>https://www.youtube.com/watch?v=BXUdjGdYa0s]]|
+|01/17|[[夕コに綺麗に轢かれる音鳴>>https://www.youtube.com/watch?v=bxBVh9BPdPM]]|
+|01/17|[[MOZUとの邂逅>>https://www.youtube.com/watch?v=a1s4b25y2PM]]|
+|01/17|[[MOZUとの邂逅2>>https://www.youtube.com/watch?v=qAvcUSInc3Q]]|
+|01/18|[[不慮の事故>>https://www.youtube.com/watch?v=6Xxbzu1uNh8]]|
+|01/18|[[変な服装で無言で近付いて来る●●>>https://www.youtube.com/watch?v=9pa64YDoXTc]]|
+|01/22|[[薬練りで頭が可笑しくなる成瀬夕コ>>https://www.youtube.com/watch?v=COvcZ4nLmho]]|
+|01/22|[[市長案件になる空き巣>>https://www.youtube.com/watch?v=1LugeRLSgXk]]|
+|01/23|[[市長案件になる空き巣2>>https://www.youtube.com/watch?v=5WousG2mGDw]]|
+|01/23|[[市長案件になる空き巣3>>https://www.youtube.com/watch?v=XXaM38xuu7A]]|
+|01/24|[[空き巣の報酬に驚く音鳴>>https://www.youtube.com/watch?v=LGjeXJSTsIw]]|
+|01/24|[[穀潰し扱いされる音鳴ｗ>>https://www.youtube.com/watch?v=RUqlCAXSVkg]]|
+|01/27|[[空き巣ウォッチパ1>>https://www.youtube.com/watch?v=J8i-3_psKKA]]|
+|01/27|[[空き巣ウォッチパ2>>https://www.youtube.com/watch?v=3wQtWRhzO5Y]]|
+|01/27|[[空き巣ウォッチパ3>>https://www.youtube.com/watch?v=gqZoVB1UzEo]]|
+|01/28|[[鮭とシャケに厳しい牢王蓮ｗ>>https://www.youtube.com/watch?v=iQgb8HLMNxA]]|
+|01/28|[[あまりにも車がダサい牢王蓮ｗ>>https://www.youtube.com/watch?v=K_yZGy3hAs0]]|
+|01/29|[[ボケを潰される音鳴ｗ>>https://www.youtube.com/watch?v=yQG72Gunmf4]]|
+|01/29|[[薬の調合をミスるレダーｗ>>https://www.youtube.com/watch?v=Pab5-AMV-WU]]|
+|02/01|[[感情が出てしまうケインオーｗ>>https://www.youtube.com/watch?v=BBi2jBaL520]]|
+|02/01|[[アンドミカエル再会と再会する音鳴ｗ>>https://www.youtube.com/watch?v=01vc1-Jx95g]]|
+|02/01|[[みっちゃん呼びに照れる音鳴ｗ>>https://www.youtube.com/watch?v=vp8vOCR-NSE]]|
+|02/03|[[酔っ払い疑惑の音鳴ｗ>>https://www.youtube.com/watch?v=KKjMzzg4xNk]]|
+|02/03|[[ラジコンで遊ぶ音鳴ｗ>>https://www.youtube.com/watch?v=lRbE0JwdS7k]]|
+|02/03|[[別世界に飛ばされる音鳴ｗ>>https://www.youtube.com/watch?v=aQIf8jiXEgM]]|
+|02/04|[[ゲロを出す音鳴ｗ>>https://www.youtube.com/watch?v=Rt-gD-HVYWM]]|
+|02/04|[[無線バレしてしまった868ｗ>>https://www.youtube.com/watch?v=Gz5LI7vQOWg]]|
+|02/08|[[ツッコミテストをする音鳴ｗ>>https://www.youtube.com/watch?v=ggzF7NYOezg]]|
+|02/08|[[酔ってると思われる音鳴ｗ>>https://www.youtube.com/watch?v=sIJtgC1ODQQ]]|
+|02/09|[[ロケランチキンレースｗ>>https://www.youtube.com/watch?v=0u8XpjCdDw0]]|
+|02/09|[[愛を知るケインオーｗ>>https://www.youtube.com/watch?v=dvaoHi_Bb_0]]|
+|02/10|[[ボスになる魚参屋ｗ>>https://www.youtube.com/watch?v=oCfrQKsJfcM]]|
+|02/10|[[調子に乗ってヘリを爆破させる音鳴ｗ>>https://www.youtube.com/watch?v=adDioeVAXE8]]|
+|02/10|[[突如現れるミンドリ子ｗ>>https://www.youtube.com/watch?v=ZhEYWbgmz3Q]]|
+|02/13|[[夢の世界で○○に会ったケインオー>>https://www.youtube.com/watch?v=hcQEvrgrxy0]]|
+|02/13|[[寝起きでふにゃふにゃ過ぎるケインオー>>https://www.youtube.com/watch?v=_2-1TRTucWs]]|
+|02/13|[[会話が男の子過ぎる868ｗ>>https://www.youtube.com/watch?v=wWRLMEMS2XQ]]|
+|02/14|[[魚参屋にドッキリを仕掛ける音鳴ｗ>>https://www.youtube.com/watch?v=jyvqL_k9Fdw]]|
+|02/14|[[音鳴マスターの魚参屋ｗ>>https://www.youtube.com/watch?v=QyKyrCH89ps]]|
+|02/14|[[大人にミックス>>https://www.youtube.com/watch?v=5KieGPOU2uw]]|
+|02/15|[[868の思い出を残したい魚参屋>>https://www.youtube.com/watch?v=GiGOKBTEi8s]]|
+|02/16|[[パラシュートを切られる音鳴ｗ>>https://www.youtube.com/watch?v=albDWm4P41c]]|
+|02/16|[[口が回る魚参屋ｗ>>https://www.youtube.com/watch?v=riJbJOETfDE]]|
+|02/17|[[因果応報過ぎる音鳴>>https://www.youtube.com/watch?v=bkzBIyQWFQw]]|
+|02/18|[[三角関係に巻き込まれる音鳴w>>https://www.youtube.com/watch?v=Sb6D7qe87Mw]]|
+|02/18|[[第1回長い物言えた人が勝ち選手権(植物限定)>>https://www.youtube.com/watch?v=rnm-fopAeTI]]|
+|02/18|[[老化が進んでる音鳴ｗ>>https://www.youtube.com/watch?v=ePYZ9OFiZ9I]]|
+|02/19|[[レダーを超えた音鳴ｗ>>https://www.youtube.com/watch?v=_IoaB6sCamM]]|
+|02/19|[[自業自得過ぎるモンDｗ>>https://www.youtube.com/watch?v=6ZVCDyap53c]]|
+|02/28|[[魂貫通させるジョシュアｗ>>https://www.youtube.com/watch?v=F4DOEOM8_Tc]]|
+|02/28|[[空き巣に興味を持つ市長ｗ>>https://www.youtube.com/watch?v=wB9jsM6YPQg]]|
+#table_sorter{even=#F7F7F7,odd=FFF}
+#table_autoincrement(){label=#, start=13}}
+#endregion(202501-02)
+#region(2025年3月～6月)
+#size(85%){#table_style(head=center:#EB7474:#fff){投稿日=right}
+|投稿日|タイトル|h
+|03/01|[[暴走族過ぎる音鳴ｗ>>https://www.youtube.com/watch?v=dVn3O4qyhU4]]|
+|03/01|[[868を辞めようとする魚参屋ｗ>>https://www.youtube.com/watch?v=ZGDvZfvY2kA]]|
+|03/01|[[音鳴マスター過ぎる魚参屋ｗ屋>>https://www.youtube.com/watch?v=TpS0rF2_Wn0]]|
+|03/02|[[ハレンチな音鳴ｗ>>https://www.youtube.com/watch?v=CFM4UC_JTVo]]|
+|03/02|[[21.4億の気球を爆破させる音鳴ｗ>>https://www.youtube.com/watch?v=JpIGQ8zS4ZQ]]|
+|03/02|[[出すなって言ったのに出しちゃう音鳴ｗ>>https://www.youtube.com/watch?v=IFvoX7TweII]]|
+|03/12|[[究極の二択を迫る音鳴ｗ>>https://www.youtube.com/watch?v=7cZfHGPwW4U]]|
+|03/12|[[赤スパをもらう音鳴ｗ>>https://www.youtube.com/watch?v=e3R0eqm2Hu4]]|
+|03/13|[[空き巣の正装を披露する音鳴ｗ>>https://www.youtube.com/watch?v=lBMk88AP_MI]]|
+|03/13|[[魚参屋にあの声を出させる音鳴ｗ>>https://www.youtube.com/watch?v=IbwW-pEeOm4]]|
+|03/14|[[協会員集合ｗ>>https://www.youtube.com/watch?v=KCogovMqO-Y]]|
+|03/14|[[会長が会長たる由縁を知る魚参屋>>https://www.youtube.com/watch?v=lb4w3c2YI14]]|
+|03/15|[[ケインに怒られる音鳴と魚参屋ｗ>>https://www.youtube.com/watch?v=wA4ZqxkkfQY]]|
+|03/15|[[モグモグを流しに来る魚参屋ｗ>>https://www.youtube.com/watch?v=tRcvs5Z9xKo]]|
+|03/26|[[起きたら髪型が変わってる音鳴ｗ>>https://www.youtube.com/watch?v=j04_gzbkJoE]]|
+|03/26|[[おはようがシスコの牢王蓮ｗｗ>>https://www.youtube.com/watch?v=1-YVmI0rgEw]]|
+|03/27|[[交通ルールは守るギャンボス達ｗ>>https://www.youtube.com/watch?v=8fAJcQxJVkE]]|
+|03/27|[[サブスクで稼ごうとする868ｗ>>https://www.youtube.com/watch?v=BM2xzmhMQmI]]|
+|03/28|[[大至急向かって爆死するJDｗ>>https://www.youtube.com/watch?v=VUSWDYYRy-Y]]|
+|03/28|[[会議を押し付け合う868ボス達ｗ>>https://www.youtube.com/watch?v=fHFLTK8Lg24]]|
+|03/29|[[会議中にコソコソ話す音鳴達>>https://www.youtube.com/watch?v=tCC0uHD_TnA]]|
+|03/29|[[存在感がない牢王蓮ｗ>>https://www.youtube.com/watch?v=XD4uoolp-Lk]]|
+|03/30|[[空き巣免許更新を勧めるJDｗ>>https://www.youtube.com/watch?v=rnGadoojaxw]]|
+|03/30|[[席移動が出来なかった音鳴達ｗ>>https://www.youtube.com/watch?v=hC3WTdhn434]]|
+|03/31|[[音鳴の髪色にテンション上がるももみ先生ｗ>>https://www.youtube.com/watch?v=O1jebq8q7vA]]|
+|04/09|[[紫水にダル絡みする音鳴ｗ>>https://www.youtube.com/watch?v=WT4dL3yNfxs]]|
+|04/09|[[警察署襲撃しに行こうとする音鳴ｗ>>https://www.youtube.com/watch?v=E_a8Sx46_jY]]|
+|04/11|[[ALLIN解散を知る音鳴ｗ>>https://www.youtube.com/watch?v=2Xg3bI2_iLE]]|
+|04/11|[[ボスを細客扱いする紫水ｗ>>https://www.youtube.com/watch?v=ZYAHHQ30LD4]]|
+|04/13|[[会話が嚙み合わない音鳴とトピオｗ>>https://www.youtube.com/watch?v=jAq7C6GMVF8]]|
+|04/13|[[トピオから隠れる音鳴ｗ>>https://www.youtube.com/watch?v=abnH-J6pRl0]]|
+|05/06|[[挨拶に厳しい音鳴ｗ>>https://www.youtube.com/watch?v=ekfUsRxmOPQ]]|
+|05/06|[[たまたま服装が一緒の2人ｗ>>https://www.youtube.com/watch?v=N0bkGF98wZI]]|
+|05/07|[[JDが好きな質問ｗ>>https://www.youtube.com/watch?v=p2xqAuII5uU]]|
+|05/07|[[死ぬことを予感した音鳴とトピオｗ>>https://www.youtube.com/watch?v=bwWe2ngmRRg]]|
+|05/08|[[声がガスガス過ぎるトピオｗ>>https://www.youtube.com/watch?v=Yr8xNXHZeUI]]|
+|05/08|[[貧富の差が激しい868ｗ>>https://www.youtube.com/watch?v=ipapgoLxPFw]]|
+|05/09|[[ネタバレしようとする音鳴ｗ>>https://www.youtube.com/watch?v=R-WUM79mG1c]]|
+|05/09|[[ジョアに吹っ飛ばされる音鳴ｗ>>https://www.youtube.com/watch?v=Lh0N7ksKSpQ]]|
+|05/10|[[魂にチクチクしてくる魚参屋ｗｗ>>https://www.youtube.com/watch?v=-9kBzl0nLbI]]|
+|05/10|[[何故か生きてる音鳴ｗ>>https://www.youtube.com/watch?v=EiMA4wn1b9s]]|
+|05/11|[[何故か当てられる魚参屋ｗ>>https://www.youtube.com/watch?v=z1vHIRiiFZ4]]|
+|05/20|[[音鳴が言ってる事を当てるJDｗ>>https://www.youtube.com/watch?v=k-K5Z0FJ-5A]]|
+|05/20|[[寝てる間着信が無い音鳴ｗ>>https://www.youtube.com/watch?v=JjTO5Y-vQiI]]|
+|05/21|[[ルナホークアイの加入を知る音鳴ｗ>>https://www.youtube.com/watch?v=wlEfanBZn2w]]|
+|05/21|[[DMでお祝いが無かった音鳴ｗ>>https://www.youtube.com/watch?v=MP6PdkOu7cQ]]|
+|05/22|[[物騒過ぎる街ｗ>>https://www.youtube.com/watch?v=DcwwqmA94yI]]|
+|05/22|[[多分この後事故る音鳴ｗ>>https://www.youtube.com/watch?v=Rtn9aO1FR9w]]|
+|05/23|[[うさぎになる音鳴ｗ>>https://www.youtube.com/watch?v=b-LxxfzF_RE]]|
+|05/23|[[ハゲに転生する音鳴ｗ>>https://www.youtube.com/watch?v=PkcDwxVdLNQ]]|
+|05/24|[[空き巣ハラスメントされる音鳴ｗ>>https://www.youtube.com/watch?v=sPkvioaDZ74]]|
+|05/24|[[うさぎになった代償ｗ>>https://www.youtube.com/watch?v=xkbuO8NQx6M]]|
+|05/25|[[ばーどに服を笑われる音鳴ｗ>>https://www.youtube.com/watch?v=h3RxpZelEzY]]|
+|05/25|[[ボスの座を狙われてる音鳴ｗ>>https://www.youtube.com/watch?v=bQf1dMrpNlg]]|
+|05/26|[[何故かいつも伊達咲とぶつかる音鳴ｗ>>https://www.youtube.com/watch?v=pU5bDZ3YxaE]]|
+|05/26|[[JDにドッキリを仕掛ける音鳴ｗ>>https://www.youtube.com/watch?v=psbW01NUTho]]|
+|05/27|[[なんかダサい大型服(仮)>>https://www.youtube.com/watch?v=S_U7dOhQgpM]]|
+|05/27|[[スルメ服ｗ>>https://www.youtube.com/watch?v=kufKQ4a6UCw]]|
+|05/28|[[際際を狙う音鳴ｗ>>https://www.youtube.com/watch?v=orzTgVPkAEI]]|
+|05/28|[[会長絶対放さないでくださいね？byジョア>>https://www.youtube.com/watch?v=rbtQnLtQYrY]]|
+|05/29|[[ウォッチパ指名される音鳴ｗ>>https://www.youtube.com/watch?v=q0wsouTe_Ls]]|
+|06/06|[[デイリーじゃないかと思ったらデイリーｗ>>https://www.youtube.com/watch?v=T4vgbQKZAPg]]|
+|06/06|[[868サイリウムに気付く音鳴>>https://www.youtube.com/watch?v=XA5JC6A-M4c]]|
+|06/07|[[バイクが苦手な音鳴ｗ>>https://www.youtube.com/watch?v=lNw7rL89_60]]|
+#table_sorter{even=#F7F7F7,odd=FFF}
+#table_autoincrement(){label=#, start=73}}
+#endregion(2025年3月～6月)
+***&font(16px,b,u,black){Season2}
+#region(2026年)
+#size(85%){#table_style(head=center:#EB7474:#fff){投稿日=right}
+|投稿日|タイトル|h
+|01/13|[[みっくんは社長のホストｗ>>https://www.youtube.com/watch?v=kzpVasuYJ3A]]|
+|01/13|[[母親に衛星を見られて一言>>https://www.youtube.com/watch?v=0C9xBx10h3s]]|
+|01/14|[[二歳児対応される音鳴ｗ>>https://www.youtube.com/watch?v=mivuH3PqhwI]]|
+|01/14|[[JDに●されかける音鳴ｗ>>https://www.youtube.com/watch?v=351Gtm93gJo]]|
+|01/16|[[警察から慰謝料を奪う音鳴ｗ>>https://www.youtube.com/watch?v=g7awQrYVwME]]|
+|01/16|[[ジョシュアを道連れにする音鳴ｗ>>https://www.youtube.com/watch?v=IikaWI8aS5I]]|
+|01/17|[[ボスの座を狙うJDｗ>>https://www.youtube.com/watch?v=A-Lxfv9aE8o]]|
+|02/03|[[スロットしながら○ぬ音鳴ｗ>>https://www.youtube.com/watch?v=N9CQOhNb5dc]]|
+|02/04|[[音を無くす音鳴ミックスｗ>>https://www.youtube.com/watch?v=CvnVHy6B_aw]]|
+|02/05|[[お互いバレてるのに続ける音鳴ｗ>>https://www.youtube.com/watch?v=n7ViOpD3weA]]|
+|02/06|[[○○と勘違いする音鳴ｗ>>https://www.youtube.com/watch?v=68RBVgk8vkI]]|
+|02/06|[[心無き2人に同時に絡まれる音鳴ｗ>>https://www.youtube.com/watch?v=MM5YFekvqKM]]|
+|02/07|[[棒1本に破壊される音鳴の軽トラｗ>>https://www.youtube.com/watch?v=J094TT9ZAUw]]|
+|02/07|[[どうでも良い雑学に盛り上がる音鳴たちｗ>>https://www.youtube.com/watch?v=w7QraSTuN7g]]|
+|02/08|[[街ブラしてたら精製場を見つける音鳴>>https://www.youtube.com/watch?v=7iBOIEGlyvI]]|
+|02/09|[[ギリギリな生活過ぎる音鳴ｗ>>https://www.youtube.com/watch?v=iGTrmqQfhlA]]|
+|02/16|[[大噓雑学にダウトされる音鳴ｗ>>https://www.youtube.com/watch?v=h2OsD0Ap8P8]]|
+#table_sorter{even=#F7F7F7,odd=FFF}
+#table_autoincrement(){label=#, start=1}}
+#endregion(S2-2026)
+//
+//
+*&font(25px,#FFF){&font(30px,#EB7474){ス}トグラ外コラボ等 &icon_fa(fa fa-twitch)}
+****&size(110%){&bgcolor(#EB7474){&nbsp()&font(#ffffff,90%){　&icon_fa(fas fa-comments)&space()トーク、実写系コラボ}&nbsp(7)}}
+#region(開く,open)
+#size(90%){#table_style(head=center:#EB7474:#fff){投稿日=right,#=center}
+|~配信日|~配信タイトル|~共演者|~備考|h
+|2025/04/25|ふらんしすこ枠→[[久しぶりに顔出し雑談>>https://www.twitch.tv/videos/2442140544]]|ふらんしすこ|実写|
+|MIDDLE:2025/08/22|しょぼすけ枠&br()[[#ストグラCLL #ストグラフェス & #FiveM開発者向け新発表>>https://www.twitch.tv/videos/2546677581]]|&font(8pt){しょぼすけ、ギルくん、Middleee、aja、ゼルク、&br()わきを、二十日ネル、ごっちゃん@マイキー}||
+|2026/02/20|[[【初回配信🎉 / 冒頭無料】ればぶる！#1 スロットに挑戦‼️>>https://www.openrec.tv/live/o7z4y4e2pzl]]|ギルくん、Middleee|ゲスト出演（実写）|
+|2026/03/16|[[ればぶる！【最推しプラン限定】アフタートーク　#1>>https://www.openrec.tv/movie/e5rk93kw4zv]]|ギルくん、Middleee|ゲスト出演（実写）|
+|2026/06/05|[[ればぶる！～番外編～ 競輪バトル🚲🔥>>https://www.openrec.tv/live/kdr7n901wzj]]|ギルくん、Middleee、ゲスト：ありけん|ゲスト出演（実写）、全編無料|
+|2026/06/23|[[ふぁんきぃクッキング #12 番組1周年記念でちょっと早い夏休み！？🍉 >>https://www.openrec.tv/live/e5rk9qkv9zv]]&br()〜極上のBBQを目指して高級食材争奪バトル🔥〜[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}前半>>https://www.youtube.com/live/uCG1pdqM_tQ]]|ふぁんきぃ、FOX RABBIT、&s(){ほろん}、Middleee、とっぴー|ゲスト出演（実写）|
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion()
+****&size(110%){&bgcolor(#EB7474){&nbsp()&font(#ffffff,90%){　&icon_fa(fa-solid fa-gamepad)&space()ゲーム系コラボ}&nbsp(7)}}
+&size(20){&color(#EB7474){●}} &font(15px){&bold(){2024年}}
+#region(開く)
+#table_style(head=center:#EB7474:#fff){投稿日=right,#=center}
+|~配信日|~配信タイトル|~コラボ相手|~ゲームタイトル|~動画|~備考|h
+|03/26|valo古パ|らっだぁ/ごっちゃんマイキー/ぐちつぼ/しょぼすけ|VALORANT|||
+|04/27|ストグラ39日目~ハウジング|ありけん/こうまい/ごっちゃんマイキー/ギルくん&br()/ニョス/らっだぁ/るなりあ/D.ManueL/marunnn|VALORANT|||
+|05/07|感謝の雑談|らっだぁ/しょぼすけ/marunnn/叶|VALORANT|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/4cGQligo7Ew]]||
+|06/22|Content Warnning|nqrse/らっだぁ/ふらんしすこ|Content Warning|||
+|07/15|青春のゲームに誘われたwithたくさん|総勢32名|Team Fortress 2|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/Y3ELyMSaa14]]|途中参加&退出有|
+|07/29|お誘いされた|いっぱい|BattleBit Remastered||途中参加&退出有|
+|09/02|【EFT】今日は人とやる|Middleee/切嘛|Escape from Tarkov|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/sed54qWp-Iw]][[②>>https://youtu.be/LaB3obhmyEg]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+&size(20){&color(#EB7474){●}} &font(15px){&bold(){2025年}}
+#region(開く)
+#table_style(head=center:#EB7474:#fff){投稿日=right,#=center,動画=center}
+|~配信日|~配信タイトル|~コラボ相手|~ゲームタイトル|~動画|~備考|h
+|07/17|[[金策はいつでもSOT/withみどりーーーー>>https://www.twitch.tv/videos/2514888725]]|Middleee|Escape from Tarkov|[[&icon_fa(fa-solid fa-scissors) ①>>https://youtu.be/Rlw5XazxsZg]] [[②>>https://youtu.be/joDuwVZI-lY]]||
+|08/14|[[遊ぶ時がきた/withとっぴー/きるま/あじゃ>>https://www.twitch.tv/videos/2539680228]]|とっぴー/切嘛/aja|Battlefield 6|[[&icon_fa(fa-solid fa-video)>>https://youtu.be/IQJ0IWPyKEc]][[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/AFCIzQyy100]]||
+|09/01|[[この鎖を外してほしい/withとっぴー/きるまくん/しすこ>>https://www.twitch.tv/videos/2555326909]]|とっぴー/切嘛/ふらんしすこ|Chained in the Backrooms→BAPBAP|[[&icon_fa(fa-solid fa-video)①>>https://youtu.be/r7QV248QGjw]][[②>>https://youtu.be/jJQuHPxrlHk]][[&icon_fa(fa-solid fa-scissors) ①>>https://youtu.be/ZbS7dqnIcd8]][[②>>https://youtu.be/34zuvj1FQj4]]||
+|11/12|[[少し恐竜で遊ぶ>>https://www.twitch.tv/videos/2616376115]]|Middleee 他多数|ARK: Survival Ascended|[[&icon_fa(fa-solid fa-video)>>https://youtu.be/gK0wivxoDFE]][[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/uIG8bjhzx7M]]|Middle Island &font(8pt){(会った方がストグラ関係者ではない場合、誰にも会わない場合もある)}|
+|11/13|[[この拠点に誰かが来るようです20時からシャドバ猛練習>>https://www.twitch.tv/videos/2617193450]]|Middleee、切嘛 他多数|ARK: Survival Ascended|[[&icon_fa(fa-solid fa-video)>>https://youtu.be/1P_CePCzsAM]][[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/upsuz05A3hI]]|Middle Island &font(8pt){(会った方がストグラ関係者ではない場合、誰にも会わない場合もある)}|
+|11/14|[[癒される>>https://www.twitch.tv/videos/2618165322]]|Middleee、切嘛 他多数|ARK: Survival Ascended|[[&icon_fa(fa-solid fa-video)>>https://youtu.be/yrnxZdIDdRM]][[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/0IaAvjuLFxc]]|Middle Island &font(8pt){(会った方がストグラ関係者ではない場合、誰にも会わない場合もある)}|
+|11/28|[[ちょいお休みしてました→ARKどうなったんや>>https://www.twitch.tv/videos/2630798690?t=01h01m30s]]|Middleee、切嘛 他多数|ARK: Survival Ascended|[[&icon_fa(fa-solid fa-video)>>https://youtu.be/xu0xF_e4Szs]][[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/x23azZGguNE]]|Middle Island &font(8pt){(会った方がストグラ関係者ではない場合、誰にも会わない場合もある)}|
+|12/12|[[あれから同居人と会ったことない>>https://www.twitch.tv/videos/2641850932]]|Middleee、切嘛 他多数|ARK: Survival Ascended|[[&icon_fa(fa-solid fa-video)>>https://youtu.be/yY7dtERM9oc]][[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/_TZrSwZvmSE]]|Middle Island &font(8pt){(会った方がストグラ関係者ではない場合、誰にも会わない場合もある)}|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***&size(20){&color(#EB7474){●}} &font(15px){&bold(){2026年}}
+#region(開く,open)
+#table_style(head=center:#EB7474:#fff){配信日=right,#=center,動画=center}
+|~配信日|~配信タイトル|~コラボ相手|~ゲームタイトル|~動画|~備考|h
+|01/07|[[絶対に叫ぶな/withあじゃ/きるま/しすこ>>https://www.twitch.tv/videos/2663463454]]|aja/切嘛/ふらんしすこ|DON'T SCREAM TOGETHER|[[&icon_fa(fa-solid fa-video)①>>https://youtu.be/33OcLAyVP-Y]][[②>>https://youtu.be/XIKx82s6-P8]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/6GOihx7LhBc]][[②>>https://youtu.be/bRP28UzAlo4]]||
+|01/24|[[負けられないマリオパーティー/withあじゃ/きるま/しすこ>>https://www.twitch.tv/videos/2678703337]]|aja/切嘛/ふらんしすこ|Super Mario Party Jamboree|[[&icon_fa(fa-solid fa-video)>>https://youtu.be/YmW2rhkvins]][[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/pBdP4FvpCu4]][[②>>https://youtu.be/zDmaJol_tGs]]||
+|03/06|[[走るぞwith/セリー/あじゃ>>https://www.twitch.tv/videos/2715195979]]|aja/Selly|Marathon|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/FWFAYmdXZK0]]||
+|03/22|[[Apexまじか/with/きるま/あじゃ>>https://www.twitch.tv/videos/2728871930]]|aja/切嘛|Apex Legends|[[&icon_fa(fa-solid fa-scissors)①>>https://youtu.be/bEf_hkZsI78]][[②>>https://youtu.be/EfsrXy21aqs]]||
+|03/24|[[lolゴールドの森覗くwith/ぎるくん Part1>>https://www.twitch.tv/videos/2730572906]],[[Part2>>https://www.twitch.tv/videos/2730603230]]|ギルくん|League of Legends|||
+|04/08|[[13日目~家あるのでっか>>https://www.twitch.tv/videos/2742903900]]|切嘛|STREET FIGHTER 6||ストグラ後|
+|04/09|[[Valheim：初めてのゲームwith/あじゃ/きるま/しすこ>>https://www.twitch.tv/videos/2743663081]]|aja/切嘛/ふらんしすこ|Valheim|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/lo-NRZMVqTQ]]||
+|04/11|[[お昼ふるぺっくす/with/き/a>>https://www.twitch.tv/videos/2745235450]]|aja/切嘛|Apex Legends|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/PH8Ri8AXASc]]||
+|04/13|[[Valheim＃2 文明発展の音がする>>https://www.twitch.tv/videos/2746999141]]|aja/切嘛/ふらんしすこ|Valheim|||
+|04/24|[[フルパvalo>>https://www.twitch.tv/videos/2755923460]]|ギルくん/aja/切嘛/るなりあ|VALORANT|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/9gwfJmbksuE]]||
+|05/13|[[lolやるwith/あじゃ>>https://www.twitch.tv/videos/2770859644]]|aja|League of Legends→Apex Legends|||
+|05/25|[[ゆるーく対戦会>>https://www.twitch.tv/videos/2780473582]]|切嘛/Middleee/とっぴー|STREET FIGHTER 6|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/IgQdHTXHcYY]]||
+|07/17|[[いつかのヴァルヘイム>>https://www.twitch.tv/videos/2822124532]]|aja/切嘛/ふらんしすこ|Valheim|[[&icon_fa(fa-solid fa-scissors)①>>https://www.youtube.com/watch?v=JDH2OASyYv4]][[②>>https://www.youtube.com/watch?v=weThpI72r-g]]||
+|08/10|[[#PR『MARVEL Tōkon: Fighting Souls』しっさんと遊ぶ>>https://www.twitch.tv/videos/2842263880]]|ふらんしすこ|MARVEL Tōkon: Fighting Souls|||
+|08/10|[[Lv19しっさんとタルコフ>>https://www.twitch.tv/videos/2842321024]]|ふらんしすこ/aja/(ありさか)|Escape from Tarkov|[[&icon_fa(fa-solid fa-scissors)①>>https://www.youtube.com/watch?v=zYJ15PHWqyE]][[②>>https://www.youtube.com/watch?v=oZvX-XdXGk4]]||
+|08/19|[[今日はなずぴとあじゃで街にいく>>https://www.twitch.tv/videos/2850445415]]|aja/花芽なずな|Escape from Tarkov|[[&icon_fa(fa-solid fa-scissors)①>>https://www.youtube.com/watch?v=hWH0fheP2-w]][[②>>https://www.youtube.com/watch?v=y4qy7h-CbyY]]||
+|08/30|[[おはようvalo/with/ありさか/べにさん/しのみや/ばにら>>https://www.twitch.tv/videos/2860593261]]|aja|VALORANT||コーチング[[ｺﾒﾝﾄ>>https://www.twitch.tv/videos/2860593261?t=04h37m43s]]/[[kinasai>>https://www.twitch.tv/videos/2860593261?t=04h57m12s]]|
+|09/01|[[タルやるっしょ>>https://www.twitch.tv/videos/2862340696]]|aja|Escape from Tarkov|||
+|09/12|[[今日はとっぴーとタル>>https://www.twitch.tv/videos/2872110279]]|とっぴー|Escape from Tarkov|||
+|09/16|[[俺たちのValheimはまだまだ終わらない>>https://www.twitch.tv/videos/2875604924]]|aja/切嘛/ふらんしすこ|Valheim|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//警察only、あり鯖、いつメン、ストグラとの関連が薄い方とのコラボは載せません。
+//公式TouTube[[&icon_fa(fa-solid fa-video)>>
+//公認YouTube[[&icon_fa(fa-solid fa-scissors)>>
+//許諾済YouTube[[&icon_fa(fa-solid fa-film)>>
+****&size(110%){&bgcolor(#EB7474){&nbsp()&font(#ffffff,90%){　&icon_fa(fas fa-icons)&space()イベント・グッズ}&nbsp(4)}}
+&size(20){&color(#EB7474){●}} &font(15px){&bold(){ストグラフェス}}
+#region(開く)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #EB7474;){
+#size(14px){2025/08/30～2025/08/31：[[ストグラフェス]] &small(){（会場：幕張メッセ）[[公式ウェブサイト>>https://stgrfestival.com/]]&br()&small()&space()&space()&space()出演：08/30 12:00～13:00 STGラジオ公開収録、音鳴ミックス散歩&br()&small()&space()&space()&space()急遽：ギャングブースアトラクション(パレト銀行、ケイン枠)、ギャングブースアトラクション(客船強盗ミッション受注場所、JD枠)、フリーミート＆グリート(JD枠)&br()&small()&space()&space()&space()[[終了後PLのポスト&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}>>https://x.com/mix_totot/status/1961722393409524019]]}
+|後日談|09/03配信|[[いろいろな振り返り雑談>>https://www.twitch.tv/videos/2557057417]](後半別ゲーム)|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/AursZ3fgkKI]]|
+}}}}
+#endregion
+&size(20){&color(#EB7474){●}} &font(15px){&bold(){Street Park Live 2}}
+#region(開く)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #EB7474;){
+#size(14px){2026/02/11　Street Park Live 2 &small(){（会場：横浜BUNTAI）[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/2525Funky_P/status/2001595254659780907?s=20]]}&br()2026/01/08 18:00〜01/12 23:59：[[事前オンライングッズ販売>>https://openrec.store/collections/street-park-live2]]&space()&small(){&space()[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/streetparklive/status/2008826042967028207?s=20]]}&br()&space(3)&small(){Tシャツ、タオル、アクリルパネル、うちわ}
+2026/02/11 22:00～03/08 23:59： [[事後オンライングッズ販売>>https://openrec.store/collections/street-park-live2]]
+2026/03/02～03/22 23:59：[[PPV配信 (OPENREC)>>https://www.openrec.tv/ppv/street_park_live_2]]
+|後日談|03/01|[[ざつだ、>>https://www.twitch.tv/videos/2710864501]]|[[&icon_fa(fa-solid fa-scissors)>>https://youtu.be/lV1wwK4K5kM]]|
+}}}}
+#endregion
+&size(20){&color(#EB7474){●}} &font(15px){&bold(){2026 OTONARI MIX special goods}}
+#region(開く,open)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #EB7474;){
+#size(14px){【[[CR ONLINE STORE>>https://crazyraccoon-store.com/collections/all-items]]】[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/mix_totot/status/2037827875014115713?s=20]]&br()&small(){受注受付期間：2026/03/28 20:00～2026/04/03 23:59&br()スウェット、マグカップ、アクリルスタンド、ステッカーセット、ラバーキーチェーン(2種)、クッション}
+}}}}
+#endregion
+#areaedit(end)
+#right(){&link_up(🔝ページTOPへ)}
+//

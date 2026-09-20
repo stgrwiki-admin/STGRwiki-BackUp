@@ -1,0 +1,181 @@
+&image(ぽっぷぽっぷもんすたー.png,y=450)
+#slide_img(auto=2,position=left,height=450,width=450){ぽっぷぽっぷもんすたーの2人.png,ぽぷもん.png}
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#ffb8d4){}
+#table_filter(){SEASON1=hide,SEASON2=show}
+|~世界線|~&space()&icon_fa(fa fa-arrow-right-to-city)&space()|~SEASON1|~SEASON2|h
+|~店名|~&icon_fa(fa fa-tag)|>|&b(){ぽっぷぽっぷもんすたー}|
+|~業種|~&icon_fa(fa fa-heart fa-flip)|>|コンセプトカフェ|
+|~所属|~&icon_fa(fa fa-icons)|>|&b(){[[モンスターハウスプロダクション]]}|
+|~開業日|~&icon_fa(fa fa-flag)|2025年05月25日（延期）&br()&small(){（&countup(2025/05/25,yd)経過）}&br()2025年07月24日(オープン予定延期)|-|
+|~所在地|~&icon_fa(fa fa-map-marker)|7031番地|8078番地|
+|~店長|~&icon_fa(fa-solid fa-user-tie)|>|&bold(){[[猫ノ宮 ひな>>猫ノ宮　ひな]]・[[ぞん 美子>>ぞん　美子]]}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・[[麻陀羅組]]のフロント事業の一環として立ち上げた企業の飲食店。
+・ポップなモンスターをコンセプトにしたカフェで、店員もモンスター(アイドル)が接客をすると言うこだわり。
+・猫ノ宮ひなが『ぷっちんぷるるんスウィートコースター』、ぞん美子が『激辛ラーメン油ニンニクマシマシスパイシーホット』という名前のモンスターになりきって、アイドル『ぽっぷぽっぷもんすたー』として活動していく予定。名前が長く個性的なため、タラちゃんからは名前を変えた方が良いのでは？と言われている。[[🎬ぽぷもんの名前をお披露目>>https://www.twitch.tv/zonbko/clip/BlitheJollyCrocodileCopyThis-0YRDCLo06sZxSUL5]]
+・メニューは全て猫ノ宮ひなとぞん美子が考案し調理したものである(イラストを自作している)。
+***Season1
+#region(開く)
+・店内には、観測者から募ったモンスターたちがいたるところにスプレーされている。（＃ストグラモンカフェにてXで募集）
+・開店イベントとして演劇を行う予定だが、演者の体調不良により開店日は未定になっている。現在は、開店の目度が付くまで一時活動停止し、[[モンスターハウスプロダクション]]の別の事業に力を入れている。
+#endregion
+***Season2
+#region(開く,open)
+・転送前の世界線で開店出来ず転送された為、γ世界線にて開店出来るように動いている。
+・現在開店準備をしつつ、従業員の勧誘もしている。
+//
+//とりあえずで作ったので、誤った情報などあるかもしれません
+//追記・編集お願いいたします
+#endregion
+
+#center(){&color(#ff70a9){&b(){追記・編集などよろしくお願いします！}}}
+
+**経緯
+#region(開く)
+・[[ひな>>猫ノ宮　ひな]]の起床率が低く街を去るか悩んでいた事を知った[[タラちゃん>>タラ　ちゃん]]が本人から話を聞き、その理由が黒にはならないが白でやる事がないと言う理由だった。
+・・[[ひな>>猫ノ宮　ひな]]のやり残したことは自分のお店を持つ事だが現実的ではないと思っていた。[[タラちゃん>>タラ　ちゃん]]は音楽等をやりたいのと組織としてフロント企業を作ろうとしていた。
+・・[[タラちゃん>>タラ　ちゃん]]がプロデュースするアイドルとして[[ひな>>猫ノ宮　ひな]]にアイドルデビューしないか打診。そのアイドルがお店に立っているカフェを作ればみんなのやりたい事が叶うと話し合った。
+・・[[ひな>>猫ノ宮　ひな]]が一人では不安というので[[ぞん子>>ぞん　美子]]にも話を打診したところ、アイドルもやるしお店も持ってみたかったから一緒にやろうと意見が揃い動き出した。
+・[[ひな>>猫ノ宮　ひな]]は今までとは一転し、アイドルになるためお店を出すため専念したいとそれまで働いていた飲食店を辞め起きる頻度も増えた。
+・お店用の物件を手に入れてからはハウジングや開店の為の申請や準備など、自ら率先して[[麻陀羅組]]メンバーと一緒に頑張った。
+・・こうして[[麻陀羅組]]のフロント事業の第一号店企業として設立に至った。
+#endregion
+
+**従業員情報
+***従業員
+#region(開く,open)
+#table_style(head=center:#ffe7b8)
+|~役職|~名前|~就職日|~備考|h
+|店長|[[猫ノ宮　ひな]]|yyyy/mm/dd|ぽっぷぽっぷもんすたー共同店長|
+|店長|[[ぞん　美子]]|yyyy/mm/dd|ぽっぷぽっぷもんすたー共同店長|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#fff6de,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//従業員の追加・変更があれば「参加者一覧」への反映もお願いします。
+//
+#co{
+|店員|[[バンザイ　スギル]]|yyyy/mm/dd|備考|
+|店員|[[アイーダ　大賀美]]|yyyy/mm/dd|備考|
+|店員|[[ミルキー・ピンク]]|yyyy/mm/dd|[[ぞん　美子]]より勧誘され、オープンしたら働く約束をしている|
+|店員|[[ダ　ミチェル]]|yyyy/mm/dd|[[タラ　ちゃん]]より勧誘されOKを貰っている|
+|店員|[[イナ　イロハ]]|yyyy/mm/dd|[[タラ　ちゃん]]と[[ぞん　美子]]より勧誘され条件付きのOKを貰っている|
+|店員|[[紫音　ウィスタリア]]|yyyy/mm/dd|[[ミルキー・ピンク]]達と店を開業したかったが三人で一緒に立てるならとOKを貰った|
+|店員|[[キーピー・ダイヤ]]|yyyy/mm/dd|[[紫音　ウィスタリア]]と同様三人で一緒に立てるならとOKを貰った|
+|店員|[[フグ田　ナチ]]|yyyy/mm/dd|モンプロメンバーとして飲食もやってみないかと誘いOKを貰った|
+}
+//
+#endregion
+#co{
+//***協力者(非ジョブ)
+#region(開く,open)
+#table_style(head=center:#ffb8d4)
+|~名前|~備考|h
+|[[Dr．ギガ]]|[[ぽぷもん>>ぽっぷぽっぷもんすたー]]のモンスター(キャスト)を生み出したマッドサイエンティスト役として協力してくれている。|
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#ffedf4,odd=#FFFFFF}
+#endregion
+}
+#co{
+//***職業体験者
+//
+//ページのスクロールが長くなるためcloseのままでお願いいたします。
+#region(開く,close)
+#table_style(head=center:#ffb8d4)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#ffedf4,odd=#FFFFFF}
+#endregion
+}
+#co{
+//***退職者
+//
+//ページのスクロールが長くなるためcloseのままでお願いいたします。
+#region(開く,close)
+#table_style(head=center#ffb8d4)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#ffedf4,odd=#FFFFFF}
+#endregion
+}
+**商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***レギュラー商品
+#region(開く,open)
+#table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#e7ffb0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|Food|商品名|価格|yyyy/mm/dd|説明|
+|Drink|商品名|価格|yyyy/mm/dd|説明|
+|Joint|商品名|価格|yyyy/mm/dd|説明|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
+#table_sorter{even=#f7ffe3,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***イベント・期間限定商品
+#region(開く)
+#table_filter(){種類=show,商品名=show,価格=show,販売期間=hide,商品説明=show}
+#table_style(head=center:#b8fff3){No.=center,価格=right}
+|~種類|~商品名|~価格|~販売期間|~商品説明|h
+|Food|商品名|価格|yyyy/mm/dd|説明|
+|Drink|商品名|価格|yyyy/mm/dd|説明|
+|Joint|商品名|価格|yyyy/mm/dd|説明|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
+#table_sorter{even=#dbfff9,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//種類＝food,drink,relax,others など
+#endregion
+
+***メニュー画像
+#region(開く,open)
+&image(ぽぷもんメニュー.png,y=300)
+#endregion
+
+**沿革
+#region(Season1)&font(b,#444){Season1}
+***2025年
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#dac7ff)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|05/25|開店イベント延期|関係者|開店イベントの予定になっていたが、[[ぞん美子>>ぞん　美子]]の体調不良により延期に|
+|07/24|開店イベント予定|関係者|延期になっていたオープニングイベントだったがスタッフの体調不良により再延期|
+#table_sorter{even=#f4f0ff,odd=#FFFFFF}
+#endregion
+#size(50%){　}
+#region(Season2,open)&font(b,#444){Season2}
+***2026年
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=center:#dac7ff)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|03/06|再始動|関係者|[[猫ノ宮ひな>>猫ノ宮　ひな]]が転送されて来た為、再度開店準備を始める|
+|03/08|店舗申請|関係者|不動産(建築士)によるハウジングが抽選の為、8078番地で申請をした。&br()抽選に通った際に、資金が足りない為モンプロスタッフへ協力を依頼|
+|07/10|店舗申請|関係者|不動産に8078番地の物件が購入可能か確認。&br()店舗購入には審査があることを聞き、申請をした|
+|08/06|店舗申請|関係者|不動産より8078番地の物件の審査が通った連絡を受ける|
+|09/02|店舗購入準備|関係者|8078番地の物件の前で不動産屋と建築士と打ち合わせをし本格的に開業に向けて始動した|
+
+#table_sorter{even=#f4f0ff,odd=#FFFFFF}
+#co{▼コピー用
+
+|mm/dd|出来事|関係者|エピソード・備考|
+
+}
+#endregion
+
+#center(){&color(#ff70a9){&b(){追記・編集などよろしくお願いします！}}}
+
+#right(){&link_up(🔝ページTOPへ)}

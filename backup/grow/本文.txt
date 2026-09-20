@@ -1,0 +1,553 @@
+*&color(#fff){&font(#A0B6FF){&icon_fa(fa fa-user)} プロフィール}
+#table_color(head=#A0B6FF)
+|&image(grow【初期01】.png,y=240)|&image(grow【初期02】.png,y=240)|h
+
+//ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
+#table_color(head=#A0B6FF:#666) 
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|&ruby(ぐろう){grow}|&ruby(ぐろう){Grow}|
+|~出身地|~&icon_fa(fa fa-map-marker)|>|日本 (高知県)|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|2000年06月23日 (&countup(2000/06/23,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年05月18日 (&countup(2024/05/18,yd)経過)| 2026年01月14日 (&countup(2026/01/14,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)| &icon_fa(fa fa-bread-slice fa-fw)パン屋【[[ベーカリー早苗]]】&br()店員 &size(12){(2024/09/05～)}&br()&small(){&openclose2(show=▼職業体験){&br()&icon_fa(fa fa-hand-sparkles)&space()コスメ&ネイルショップ【[[Merry&Belle]]】&br()&size(10){(2024/07/09〜)}&br()&icon_fa(fa-solid fa-hat-wizard)&space()魔法少女カフェ【[[RitUal:]]】&br()&size(10){(2024/07/14〜)}&br()&icon_fa(fa fa-anchor)&space()海上レストラン【[[Urashima]]】&br()&size(10){(2024/09/10〜)}&br()&icon_fa(fa-solid fa-wrench)&space()メカニック【[[Bear Moon Custom]]】&br()&size(10){(2024/09/11〜)}}}| &icon_fa(fa fa-anchor)&space()海上レストラン【[[Urashima]]】&br()店員 &size(12){(2026/03/05〜)}&br()&icon_fa(fa fa-bread-slice fa-fw)パン屋【[[ベーカリー早苗]]】&br()店員 &size(12){(2026/06/17～)}&br()&icon_fa(fa fa-gas-pump)&space()ガソリンスタンド【7001番地】&br()従業員 &size(12){(2026/07/30～)}&br()&small(){&openclose2(show=▼職業体験){&br()&icon_fa(fa fa-pizza-slice)&space()イタリアンレストラン【[[acqua ovest]]】&br()&size(10){(2026/02/01〜)}&br()&icon_fa(fa fa-anchor)&space()海上レストラン【[[Urashima]]】&br()&size(10){(2026/02/26〜)}}}|
+|~所属|~&icon_fa(fa fa-users)|平井コスプレ集団【[[ひらいけ]]】&br()&size(12){(2024/07/20～)}||
+|~TwiX|~&icon_fa(fa fa-crow)|>|@grow|
+|BGCOLOR(#666):~&color(#A0B6FF){プレイヤー}|BGCOLOR(#666):~&color(#A0B6FF){&icon_fa(fa fa-address-card-o fa-fw)}|>|明坂聡美|
+|BGCOLOR(#666):~&color(#A0B6FF){告知等}|BGCOLOR(#666):~&color(#A0B6FF){&icon_fa(fa fa-bullhorn)}|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)}[[&font(#000){X (旧&font(#1DA1F2)Twitter)}>>https://x.com/akekodao]]|
+|BGCOLOR(#666):~&color(#A0B6FF){配信場所}|BGCOLOR(#666):~&color(#A0B6FF){&icon_fa(fa fa-gamepad)}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@akekodao]]|
+|BGCOLOR(#666):~&color(#A0B6FF){アーカイブ}|BGCOLOR(#666):~&color(#A0B6FF){&icon_fa(fa fa-video)}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){ストグラ再生リスト}>>https://m.youtube.com/playlist?list=PLBAxXE9JuyrHoMJDoWUCqs7QbPc6Dad2-]]|
+
+#region(目次を開く,open)&aname(目次,option=nolink){目次}
+#size(90%){{{#contents(fromhere=true,level=1)}}}
+#endregion(目次)
+
+*&color(#fff){&font(#A0B6FF){&icon_fa(fa fa-id-card-o)} 基本情報}
+>高知の片田舎で穏やかに過ごしていたが、10歳の時に両親を亡くす。
+>唯一の肉親である叔父に引き取られるが、相続した遺産をギャンブルや酒に使い込まれるばかり。叔父から逃げるため、14歳の時にネットで出会った友達のつてで、東京に家出。
+>その友達とは、なんと70歳は過ぎているであろうお爺さんだった。
+>「八兵衛」というハンドルネームの老人は、growを住み込みで雇い、勉強まで教えてくれた。
+>しかし去年、八兵衛が死去。遺品整理で日記を見つけたgrowは、八兵衛が書いていた「最後に行ってみたい場所」であるロスサントスへと旅立つ。
+>#right(){&color(#aaa)&br()&font(11px,b,#b3b3b3){（#1 配信概要欄より）}}
+#size(20%){　}
+-一人称は「あたい」
+-14歳から22歳までの8年間を八兵衛と共に過ごす。八兵衛の見た目や喋り方は「◯沢永吉」に似てるらしい
+//➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+*&color(#fff){&font(#A0B6FF){&icon_fa(fa fa-book)} エピソード}
+#div(width=150px,bgcolor=#A0B6FF){&font(b,#666,120%){　Season 1}}
+#region(開く,close)閉じる
+***&size(16){&color(#A0B6FF){●} &bold()&color(#666){2024年}&space(2)}
+#region(開く)閉じる
+&underdot(#A0B6FF,2px){&font(b,14){05/18【スペシャル企画？？？】&br()どこかの世界へお引越ししたようです。&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://www.youtube.com/watch?v=VSYS8wzr66E]]}}
+#region(詳細,close)閉じる
+-第一村人の[[亀有　大吉]]に出会うも、初期住人あるあるの声が聞こえない歪み（設定？）に見舞われる
+--[[奇肉屋]]の奇肉をサービスでもらったが、「私の世界には無かった」と言って困惑。返却した
+--Twixやダークチャットなど基本的なアプリを教えてもらう
+--[[さとう]]のイベントに興味を持って、ライブビューイングをやっている店がないか、レギオンで会った[[KT>>フランク・ジェスター]]に相談。しかし既にイベントが終わってしまっていた
+-[[亀有　大吉]]に街案内してもらう
+--[[Violet Fizz]]で[[ヤミー　エンデバー]]、[[龍造寺　ケンシロウ]]、[[レキ　ウィステリア]]らと連絡先を交換した。
+--[[龍造寺　ケンシロウ]]から初心者への施しとして500万円をいただく
+--[[Violet Fizz]]の代理店長、警察、バス運転手と沢山の仕事をやっている[[ヤミー　エンデバー]]を「スパダリ」と表現
+--デパートで一通りの店を案内してもらう。[[物忘　レイナ]]と挨拶
+--銀行で、銀行口座のIBANを「BGROW」に、PINを誕生日の「0623」に変更した
+-レギオンで[[奇肉屋]]の店長[[マカイーノ　アッコパス]]に遭遇。
+--名前を「グロ？」と聞き間違えられる。
+--[[亀有　大吉]]と同様にサービスで奇肉をもらったが、まだ忌避感を感じているため[[亀有　大吉]]へ渡した
+-カジノへホイールを回しに行く。一人に融合した[[碇　イチカ]]、[[ぎちょう・じょばぁーな]]に遭遇した
+-リサセンを教えてもらい、今回はとりあえずメタルスクラップを中心に集めてみた。
+--ジョイントとして「KUSA」をもらう。合法なものか気にしつつ吸った
+--[[文殊　セイジ]]と遭遇。スーパーシャウトなのを忘れて「チンピラさんじゃなかった…」というのを聞かれてしまった
+--八兵衛おじいちゃんの話をしたら、知っているかもしれない住人として&openclose2(show=かつらぎ){（[[葛城　司]]）}さん、[[渡戸　リー]]さんという人を教えてもらった
+--衛星外の[[鮫島　フラム]]と遭遇。名前を変えるとわかりやすいという事を教えてもらって「grow 初日」に名前を変えてみた
+--[[文殊　セイジ]]から、他に昔の街に知っていそうな人物として[[マクドナルド>>ライトスターボーイ]]という人物を教えてもらったり、「独裁キノコ」と言われているらしい[[花沢　まるん]]という警察に注意した方がいい事を教えてもらった。
+--[[亀有　大吉]]のツテで[[パン　チャン]]へメタルスクラップを売却し、644万円程得た
+-[[亀有　大吉]]に繋げてもらい、[[パキ　ち]]のもとで免許講習
+--三日前に来たばかりだという[[プリンセス　いくら]]と挨拶。理性はあるかと思ったがそうでもなかった
+--無事普通自動車免許を取得。そのまま車両を購入へ。[[亀有　大吉]]も乗っていたプレーリーをとりあえずオススメされたのでそちらを購入した。
+--レギオンで車をしまって、そこで会った[[ジョーカー>>半沢　直ふぃ]]、[[ナタル　イルコフ]]、[[碇　イチカ]]に八兵衛おじいちゃんについてお話しした。[[二十日　ネル]]という人が街で長いことを教えてもらった。
+-[[パン　チャン]]にアパートまで送ってもらって就寝した。
+#endregion(05/18)
+
+&underdot(#A0B6FF,2px){&font(b,14){07/09｜growのロスサントス２日目&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://www.youtube.com/watch?v=AzIfdvxb6Tc]]}}
+#region(詳細,close)閉じる
+-街に起きるのが約二か月ぶりとなってしまったので、色々と思い出しながらアパートから出る。お金稼ぎとして何か働けないか探した
+--[[亀有　大吉]]に貰ったスケボーの乗り方も分からなくなっていた
+-お金を増やそうとカジノへ。間違って競馬場に行ってしまった。デイリーのホイールやビジターボーナスでスロット、BJを少し遊んでカジノを後にした
+-仕事ができないか、イエローページにあった魔法少女カフェの電話番号にかけてみるも繋がらず。
+-同じくイエローページで初心者案内をやってくれるという[[ヘルアン]]に連絡ができ、レギオンで待ち合わせることに。
+--待っている間に[[ノア　チェンバー]]からりんご飴を貰い、[[柳瀬　つん]]とも挨拶をした。待っている間に[[ヘルなんとかさん>>ヘルアン]]が怪しい人じゃないか聞いた。優しい人らしい。
+--[[ストリップバー>>Happy Nutty Bunny]]、[[PYC]]、[[麻シックレコード>>麻SICK RECORDS]]、[[猫カフェ>>猫カフェ武蔵]]、[[明味房>>ミンミンボウ]]、[[koko七番屋]]、[[ペールノエル>>Père Noël]]など一通り案内してもらった。
+--[[アイアンバーガー]]が開いていたので来店。体験中だという[[ラブストレート 小里馬ァ>>アイドゥラー　ヨシャパテ]]の癖の強い接客に圧倒された。
+---あごバナナスムージーを流れで注文してみたら、その独特な作り方に衝撃を覚え、この店でのバイトも考えていたがやめることにした。
+---前回挨拶した[[物忘　レイナ]]と再会。体験できるところを探していると話したら、この後[[コスメショップ>>Merry&Belle]]で体験させてもらえることになった。
+--その後[[Violet Fizz]]、[[BLUE MOON]]、[[焦村家]]の場所を回り、[[BMC>>BMカスタム]]で[[御花　はな]]とお話しした。
+--[[ペールノエル>>Père Noël]]で体験を募集してないかを聞いてくれたり、[[TOY]]が救急隊がやってることを教えてもらった。
+--[[お花屋さん>>ColorFlora]]で先ほどの[[御花　はな]]に接客してもらった。
+#endregion(07/09)
+
+&underdot(#A0B6FF,2px){&font(b,14){07/14｜growのロスサントス３日目&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://www.youtube.com/live/CsuSLI6KzCU]]}}
+#region(詳細,close)閉じる
+-前回の体験バイトで初期の服セットが消えてしまったため、服屋へ服を買いに行った。そこで学生服を見繕う集団と出くわす
+-[[菖光亭]]を開けたというツイートを発見し、遊園地を大体楽しんでから向かった。
+--[[月乃　えるな]]からお金をもらってしまう
+--先ほどの学生の集団に再会。パパ活をしているようだった
+-[[奇肉屋]]の別館へ赴いた。
+-[[奇肉屋]]の前で[[葉風邪　ナイ]]、[[焼野原　ひろし]]の二人に遭遇。[[魔法少女カフェ>>RitUal:]]で働いてみたい旨を話すと、そこの店長と知り合いということで連絡を取ってもらえることになった。店長の[[ノビー　ラング]]に働きたいことを伝え、[[魔法少女カフェ>>RitUal:]]で働けることに。
+--連絡してくれた[[葉風邪　ナイ]]に教えてもらいながら衣装を作成。そして一緒に[[魔法少女カフェ>>RitUal:]]でバイトもしてくれることになった。
+--屋上で[[サンクチュアリ　たえこ]]のモーニングルーティンという動画が見れることを教えてもらう。お客さんが来たため先に一階に戻った[[香月　ろぎあ]]呼ばれてgrowも向かうと、先ほど見たばかりの[[サンクチュアリ　たえこ]]本人が来店しており、奇跡的な出会いに感動した。
+--[[まちょ>>街雄　サンリ]]が占いができるということで、仕事について占ってもらった。
+--この町の皇帝だという、[[皇帝>>ニックス　リア]]も来店。血液型B型は高貴な血筋らしい。growが[[皇帝>>ニックス　リア]]のことを&b(){「バイク王」}と命名してあげ、みんなから「買取してよ」とイジられていた
+#endregion(07/14)
+
+&underdot(#A0B6FF,2px){&font(b,14){08/13｜growのロスサントス４日目&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://m.youtube.com/watch?v=RllN5Y5d3I0]]}}
+#region(詳細,close)閉じる
+-エピソード募集中！
+#endregion(08/13)
+
+&underdot(#A0B6FF,2px){&font(b,14){08/27｜２周年のお祝いを見るぞ放送&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://m.youtube.com/watch?v=8GnbYHo4hoA]]}}
+#region(詳細,close)閉じる
+・パレードがあるということで警察署へ行くが、ここからスタートはするけど他の方がいいかもということで、[[魔法少女カフェ>>RitUal:]]へ向かった。
+・[[魔法少女カフェ>>RitUal:]]へ行き、[[えびな　ヨネ]]、[[香月　ろぎあ]]などと挨拶。
+・・テレビの操作方法を教わりながら、パブリックビューイングした。
+・・一瞬外の現地に見に行ってみたが、歪みそうということですぐに[[魔法少女カフェ>>RitUal:]]へ戻った。
+・・あのやま市長補佐にロケットランチャー花火を貰ったが何故か撃つことができず。[[えびな　ヨネ]]に教わりながら一発撃つことができた。
+・・筒のみで弾を貰ってないことが分かり、市役所にいた[[ユアナ]]に弾を貰い、無事花火を上げることができた。
+・・[[魔法少女カフェ>>RitUal:]]前で、[[ボタリン　モンロー]]に挨拶。[[奇肉屋]]の工場見学に今度行こうと誘われる。
+・[[平井のおっちゃん>>平井　善之]]と[[太田　民子]]挨拶。一緒に[[BMC>>BMカスタム]]へ行ったが、みんな海にいるということで海に向かった。
+・・[[青梅　つばめ]]に9月頃になったら[[BMC>>BMカスタム]]で体験を改めて聞きに行くと話した。
+・・[[焦村家]]で[[焦月　ツルギ]]、[[聖母 れりあ>>聖母　れりあ]]に挨拶。[[餡ブレラ>>anbrella(餡ブレラ)]]は球団の名前らしい。[[わきを>>キャプテン　わきを]]という緑の人は唯一のベンチで本人に会えたら「ベンチなんですか？」「焦月ツルギさんに教えてもらいました」と言えばいいことを教えてもらった。
+・・[[9055]]で[[須藤　冬馬]]と挨拶
+・カジノでホイールを回してから、[[E5's　BULGUR]]へ一緒に向かった。
+・・そこに現れた[[平井のじょばっちゃん>>ぎちょう・じょばぁーな]]が何故か[[平井のおっちゃん>>平井　善之]]と同じ格好をしており、驚く。
+・・[[太田　民子]]も同様の格好があるとロッカーで披露してくれてさらに驚いた。この街には複数[[平井のおっちゃん>>平井　善之]]の格好ができる人がいるらしい。
+・・四角の世界に行きたいのとは別に、普通に平井家になりたいということでコーデ一式を教えてもらい、4人で記念撮影した。
+・・[[平井のおっちゃん>>平井　善之]]は「じゅっくじゅく」が良いらしい。
+・アパートに帰って就寝した。
+#endregion(08/27)
+
+&underdot(#A0B6FF,2px){&font(b,14){09/05｜growのロスサントス６日目&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://m.youtube.com/watch?v=fzGDVeWOY_c]]}}
+#region(詳細,close)閉じる
+・ひらいけ衣装で起床。歪みで家から出られず。
+・[[亀有　大吉]]チャレンジをしようとして、[[マカイーノ　アッコパス]]に遭遇。[[奇肉屋]]に就職したという[[榛衣　まる]]にも挨拶。
+・[[奇肉屋]]の奇肉を誰かに渡そうとして、今までずっと避けていたのみ間違えて食べてしまった。
+・前回教えてもらった、緑髪の[[わきを>>キャプテン　わきを]]さんを見かけ、「ベンチの人」とテンションが上がる
+・[[ラグランジュ　光芝]]さんに[[ベーカリー早苗]]に連れて行ってもらい、体験させてもらえることになった。
+・・衣装を作成し、写真を撮ってもらった。
+・・無人販売の買い方、有人の際の売り方を教えてもらった。
+・・[[谷藤　ろみみ]]、[[メイ・カイ]]、[[月乃　えるな]]らが買いに来てくれた。
+・・[[平井のおっちゃん>>平井　善之]]が来店。まさかの[[ラグランジュ　光芝]]さんもひらいけだったらしく、赤い衣装に着替えてきた
+・・ひらいけでお家を買ったということでお家を見せてもらうことになった。「ベンチ」の[[わきを>>キャプテン　わきを]]さんを紹介してくれるということで[[奇肉屋]]へ寄ったがあえなかった。代わりに[[黒岩　るい子]]、[[鳥羽　咲夜]]らと挨拶。
+・・[[奇肉屋]]でひらいけ衣装を披露。[[マカイーノ　アッコパス]]もひらいけということで衣装を見せてもらった。
+・・一等地の家に驚く。[[マカイーノ　アッコパス]]、[[ラグランジュ　光芝]]が順々に風呂に入ってるのを見てしまった。
+・・家の鍵を貰った。
+・・[[JTS>>ジョアンナテクノサービス]]近くの[[平井のおっちゃん>>平井　善之]]の家を見せてもらい、[[平井のおっちゃん>>平井　善之]]、[[マカイーノ　アッコパス]]と別れた。
+・・[[ベーカリー早苗]]の社宅を見学させてもらった。[[小花衣　早苗]]さんの寝室の火が危なそうで気になった。いないように見えてマットレスの間に挟まって寝てるらしい。
+・・その後ハイパー早苗荘も見せてもらった。[[ラグランジュ　光芝]]のことを「竹芝さん」と言ってしまった。
+・社宅の福利厚生や、メニューの値段の分かりやすさなどから[[ベーカリー早苗]]に就職を希望。是非とのことで&b(){[[ベーカリー早苗]]に就職した。}
+・・社宅の鍵を貰い、スタッシュなどの説明を受けた。
+・・店のスタッシュや、詳しい作業について教えてもらった。
+・・[[寝手持　ねむい]]に接客。古のモノだというカニを貰った
+・・初めて3時近くまで起きており、3時瞑想というものがあることを知る。
+・・退勤してハイパーへ社宅へ帰る。携帯を見て[[メイ・カイ]]にお金を貰っていたことに気づいた。
+・ご飯を食べて就寝した。
+#endregion(09/05)
+
+&underdot(#A0B6FF,2px){&font(b,14){09/10｜growのロスサントス７日目&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://m.youtube.com/watch?v=nLVauzBTv4I]]}}
+#region(詳細,close)閉じる
+-エピソード募集中！
+#endregion(09/10)
+
+&underdot(#A0B6FF,2px){&font(b,14){09/11｜growのロスサントス８日目&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://m.youtube.com/watch?v=XdtZ_fF68Nk]]}}
+#region(詳細,close)閉じる
+・警察署で白市民パスを発行してもらった。[[ひの　らん]]に写真を撮ってもらったが、歪みなのか反映させることができず。後日反映できるようになったら連絡等するということで[[ミン　ドリー]]と連絡先を交換した。とりあえずの手続きだけやってもらい、市役所へ発行しに行った。
+・服屋でパジャマを購入
+・[[青梅　つばめ]]から連絡を貰い、他の体験の人と同じように[[BMC>>BMカスタム]]で体験できないか聞く。できるということなので着替えて[[BMC>>BMカスタム]]へ向かった。
+・・[[ガンダムハラスメントおじさん>>ジェフリー　ヒッチコック]]と遭遇。
+・・社長（後で知った）の[[にし　のん]]、同じく体験の[[ロイ　マーチングナンバー]]とも挨拶。
+・・[[BMC>>BMカスタム]]の服装を作成。
+・・[[揚物　ころも]]、[[星唄　さう汰]]と挨拶。[[奇肉屋]]の店長[[マカイーノ　アッコパス]]も[[BMC>>BMカスタム]]で働いてることを聞いた。
+・・[[焦月　ツルギ]]から「ベンチ」と聞いていた[[わきを>>キャプテン　わきを]]とようやく挨拶することができた。「アイツ５６す」と言っていた。
+・・現在は採用はしていないそうだが、また体験したいとか就職したい気持ちがあればまた連絡してと[[にし　のん]]と連絡先を交換した。
+・[[BMC>>BMカスタム]]から退勤時に初心者マークを外して、みんなに祝福してもらった。
+・・[[青梅　つばめ]]的には[[にし　のん]]の方から就職を考える的な話をしてくれるのは珍しいとのこと。grow的にも[[BMC>>BMカスタム]]は良いなと感じていた。
+・パン屋の駐車場に停めようと思ったが、停めることができず苦戦（ジョブの切り替えが上手くできていなかった）。
+・[[奇肉屋]]へ訪れ、[[ヒロ　ヤマモト]]、[[揚物　ころも]]らと挨拶。
+・・来てみたはいいものの頼めるものがないと困っていたが、[[マカイーノ　アッコパス]]に「ゲロリンエナジー」をオススメされ、半分嫌々しながら飲んだ。
+・・帰り際に奇肉を渡してきたので、返して退店。
+・店先にいた[[バーバリアン　田中]]に白市民パス用の写真を撮ってもらった。
+・ハウジングに苦戦しながら、パン屋の社宅にスタッシュを設置した。
+・パジャマに着換えて就寝した。
+#endregion(09/11)
+
+&underdot(#A0B6FF,2px){&font(b,14){09/12｜growのロスサントス９日目&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://m.youtube.com/watch?v=C-1JMQ3L3Sc&t=1s&pp=2AEBkAIB]]}}
+#region(詳細,close)閉じる
+-エピソード募集中！
+#endregion(09/12)
+
+&underdot(#A0B6FF,2px){&font(b,14){09/14｜growのロスサントス 10日目&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://m.youtube.com/watch?v=afad5_qbO98&t=1s&pp=2AEBkAIB]]}}
+#region(詳細,close)閉じる
+-エピソード募集中！
+#endregion(09/14)
+#endregion
+***&size(16){&color(#A0B6FF){●} &bold()&color(#666){2025年}&space(2)}
+#region(開く)閉じる
+&underdot(#A0B6FF,2px){&font(b,14){01/12｜growのロスサントス 20日目&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://m.youtube.com/watch?v=eSkb5iWbHQI]]}}
+#region(詳細,close)閉じる
+-エピソード募集中！
+#endregion(01/12)
+#endregion
+#endregion
+
+#div(width=150px,bgcolor=#A0B6FF){&font(b,#666,120%){　Season 2}}
+#region(開く,close)閉じる
+***&size(16){&color(#A0B6FF){●} &bold()&color(#666){2026年}&space(2)}
+#region(開く)閉じる
+&underdot(#A0B6FF,2px){&font(b,14){01/14｜growのロスサントス 27日目&br()&font(#DA1725,18px){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725,12px,b){Archive}>>https://m.youtube.com/watch?v=01KQp6koQLw]]}}
+#region(詳細,close)閉じる
+-エピソード募集中！
+#endregion(01/14)
+#endregion
+#endregion
+//
+
+
+#center(){&b(){&color(#8096DF){どなたでもOK！エピソード募集中！}}}
+
+#right(){&link_anchor(目次){△目次へ}}
+#co(){↓コピー用
+
+#region(9/5[[>>]],open)9/5
+#endregion(9/5)
+}
+
+//➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+*&color(#A0B6FF){&icon_fa(fa fa-car)} 所有車両
+#div(width=150px,bgcolor=#A0B6FF){&font(b,#666,120%){　Season 1}}
+#region(開く,open)閉じる
+#table_style(head=90%:center:#A0B6FF:#666,hover=:bold){No.=center:90%,入手日=center:90%,車種=center:90%,価格=center:90%,備考=90%}
+#table_filter(){No.=show,入手日=show,車種=show,車両名=show,価格=show,備考=show}
+|~No.|~入手日|~車種|~車両名|~価格|~備考|h
+|1|2024/05/18|&icon_fa(fa-solid fa-car-side)|Prairie|¥1,500,00|&font(12px){[[パキ　ち]] から購入した 初めての車｡}&br()Color￤&font(#800080,100%){■}|
+|2|2024/09/24|&icon_fa(fa fa-van-shuttle)|Surfer Custom|-|&font(12px){[[ラグランジュ　光芝]] よりプレゼントされた パン屋カー｡}&br()Color￤&font(#ffdc00,100%){■} × &font(#f1f1f1,100%){■}|
+|3|2025/01/22|&icon_fa(fa-solid fa-car-side)|Mochi|-|&font(12px){[[ラグランジュ　光芝]] よりプレゼントされた お正月限定車｡}&br()Color￤&font(#a688bd,100%){■}|
+|4|2025/01/22|&icon_fa(fa fa-bicycle)|Scorcher|¥280,000|&font(12px){[[ラグランジュ　光芝]] とヒルクライムする為に購入した自転車｡}&br()Color￤&font(#eb97a8,100%){■}|
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(Season1)
+
+#div(width=150px,bgcolor=#A0B6FF){&font(b,#666,120%){　Season 2}}
+#region(開く,open)閉じる
+#table_style(head=90%:center:#A0B6FF:#666,hover=:bold){No.=center:90%,入手日=center:90%,車種=center:90%,価格=center:90%,備考=90%}
+#table_filter(){No.=show,入手日=show,車種=show,車両名=show,価格=show,備考=show}
+|~No.|~入手日|~車種|~車両名|~価格|~備考|h
+|1|2026/01/14|&icon_fa(fa fa-motorcycle)|Pegassi Faggio|¥280,000|&font(12px){[[無人車両販売所]] で購入→2026/07/27に売却｡}&br()Color￤&font(#366dae,100%){■} × &font(#2e87a1,100%){■}|
+|2|2026/01/29|&icon_fa(fa-solid fa-car-side)|Blista Compact|¥1,200,00|&font(12px){[[無人車両販売所]] で購入｡}&br()Color￤&font(#6F51A1,100%){■} × &font(#A8A9AD,100%){■}|
+|3|2026/03/18|&icon_fa(fa-solid fa-truck-pickup)|Dinka Cody (AT)|¥870,000|&font(12px){[[無人車両販売所]] で購入｡}&br()Color￤&font(#d3ad7e,100%){■}|
+|4|2026/05/28|&icon_fa(fa fa-motorcycle)|Dinka Thrust AT|¥2,500,000|&font(12px){[[無人車両販売所]] で購入｡}&br()Color￤&font(#7ac5f5,100%){■}|
+|5|2026/07/27|&icon_fa(fa-solid fa-car-side)|BF Weevil|¥2,600,000|&font(12px){[[ラグランジュ　光芝]] よりプレゼントされた車｡}&br()Color￤&font(#f1f1f1,100%){■} × &font(#7ac5f5,100%){■}|
+//-----
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(Season2)
+//➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+*&color(#fff){&font(#A0B6FF){&icon_fa(fa fa-video)} アーカイブ}
+&underdot(#A0B6FF,2px){【お知らせ】&br()STGRシーズン１は来場者限定(メンバー限定)の視聴に変わりました｡&br()シーズン２はどなたでもご視聴いただけます｡}
+
+#div(width=150px,bgcolor=#A0B6FF){&font(b,#666,120%){　Season 1}}
+#region(開く,close)閉じる
+***&size(16){&color(#A0B6FF){●} &bold()&color(#666){2024年}&space(2)}
+#region(開く)
+#region(open,5月)''5月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/18|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【スペシャル企画？？？】どこかの世界へお引越ししたようです。>>https://www.youtube.com/watch?v=VSYS8wzr66E]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(5月)
+//-----
+#region(open,6月)''6月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/09|-|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】１日目切り抜き　grow視点>>https://m.youtube.com/watch?v=zNgf-LPjEus&t=13s]]|切り抜き|
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(6月)
+//-----
+#region(open,7月)''7月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/09|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス２日目>>https://www.youtube.com/watch?v=AzIfdvxb6Tc]]||
+|07/14|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス３日目>>https://www.youtube.com/watch?v=CsuSLI6KzCU]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(7月)
+//-----
+#region(open,8月)''8月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/13|4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス４日目>>https://m.youtube.com/watch?v=RllN5Y5d3I0]]||
+|08/27|5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】２周年のお祝いを見るぞ放送>>https://m.youtube.com/watch?v=8GnbYHo4hoA]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(8月)
+//-----
+#region(open,9月)''9月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/05|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス６日目>>https://m.youtube.com/watch?v=fzGDVeWOY_c]]||
+|09/10|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス７日目>>https://m.youtube.com/watch?v=nLVauzBTv4I]]||
+|09/11|8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス８日目>>https://m.youtube.com/watch?v=XdtZ_fF68Nk]]||
+|09/12|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス９日目>>https://m.youtube.com/watch?v=C-1JMQ3L3Sc&t=1s]]||
+|09/14|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス10日目>>https://m.youtube.com/watch?v=afad5_qbO98&t=1s]]||
+|09/17|11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス11日目>>https://m.youtube.com/watch?v=pldGthsmwqA]]||
+|09/20|12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス12日目>>https://m.youtube.com/watch?v=cnySH298IAs]]||
+|09/24|13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス13日目>>https://m.youtube.com/watch?v=A_vz3xhBUIw]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(9月)
+//-----
+#region(open,10月)''10月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/09|14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス14日目>>https://m.youtube.com/watch?v=IZxibWFiCgE]]||
+|10/15|15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス15日目>>https://m.youtube.com/watch?v=wHfTBel0uhE]]||
+|10/20|16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス16日目>>https://m.youtube.com/watch?v=btcjukp002M]]||
+|10/31|17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス17日目>>https://m.youtube.com/watch?v=V70rh80T2v0]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(10月)
+//-----
+#region(open,11月)''11月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|11/21|18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス18日目>>https://m.youtube.com/watch?v=IEhSvJonJgk]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(11月)
+//-----
+#region(open,12月)''12月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/09|19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス19日目>>https://m.youtube.com/watch?v=Bk2IQKIMJeU]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(12月)
+//-----
+#endregion(2024年)
+//-----
+***&size(16){&color(#A0B6FF){●} &bold()&color(#666){2025年}&space(2)}
+#region(開く)
+#region(open,1月)''1月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/12|20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス20日目>>https://m.youtube.com/watch?v=eSkb5iWbHQI]]||
+|01/22|21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス21日目>>https://m.youtube.com/watch?v=H5ZzOmJha4E&list=PLBAxXE9JuyrHoMJDoWUCqs7QbPc6Dad2-&index=3&pp=iAQB]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(1月)
+//-----
+#region(open,4月)''4月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/04|22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス22日目>https://m.youtube.com/watch?v=Vf-9omeukC4&list=PLBAxXE9JuyrHoMJDoWUCqs7QbPc6Dad2-&index=2&pp=iAQB0gcJCTgDd0p55Nqk]]||
+|04/05|23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス23日目>>https://m.youtube.com/watch?v=TeYyknnBsNY&list=PLBAxXE9JuyrHoMJDoWUCqs7QbPc6Dad2-&index=2&t=1s&pp=2AEBkAIBiAQB]]||
+|04/14|24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス24日目>>https://m.youtube.com/watch?v=hT3JNTWkPBU&pp=0gcJCdgAo7VqN5tD]]||
+|04/17|25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス25日目>>https://m.youtube.com/watch?v=eCctz625v_4]]||
+|04/20|26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス26日目>>https://m.youtube.com/watch?v=HWOCI-PD1Kk&pp=0gcJCdgAo7VqN5tD]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(4月)
+//-----
+#endregion(2025年)
+//-----
+#endregion(Season1)
+//-----
+
+#div(width=150px,bgcolor=#A0B6FF){&font(b,#666,120%){　Season 2}}
+#region(開く,close)閉じる
+***&size(16){&color(#A0B6FF){●} &bold()&color(#666){2026年}&space(2)}
+#region(開く)
+#region(open,1月)''1月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/14|27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス27日目>>https://m.youtube.com/watch?v=01KQp6koQLw]]||
+|01/17|28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス28日目>>https://m.youtube.com/watch?v=-h9vWsCVihc]]||
+|01/25|29| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス29日目>>https://m.youtube.com/watch?v=t99rTvDThnA]]||
+|01/29|30| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス30日目>>https://m.youtube.com/watch?v=IpYZa0miMD8]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(1月)
+//-----
+#region(open,2月)''2月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/01|31| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス31日目>>https://m.youtube.com/watch?v=aj3OEm9Bf1g]]||
+|02/06|32| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス32日目>>https://m.youtube.com/watch?v=BAvY7uL-GhM&pp=uAQw]]||
+|02/08|33| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス33日目>>https://m.youtube.com/watch?v=rXu8h7PpTDU]]||
+|02/11|34| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス34日目>>https://m.youtube.com/watch?v=byOFucnkJbM&pp=0gcJCYcKAYcqIYzv]]||
+|02/21|35| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス35日目>>https://m.youtube.com/watch?v=ZEfzKdJf-Cg&t=428s]]||
+|02/26|36| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス36日目>>https://m.youtube.com/watch?v=Rt0feFF9w4k]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(2月)
+//-----
+#region(open,3月)''3月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/01|37| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス37日目>>https://m.youtube.com/watch?v=2j6VQtaYnMQ&t=6268s]]||
+|03/05|38| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス38日目>>https://m.youtube.com/watch?v=WXSGdpUwFI0&t=1s&pp=2AEBkAIB]]||
+|03/08|39| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス39日目>>https://m.youtube.com/watch?v=H5Pzd6Xjd4g&t=14368s]]||
+|03/12|40| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス40日目>>https://m.youtube.com/watch?v=QzTyWhrNFcs&t=12906s]]||
+|03/15|41| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス41日目>>https://m.youtube.com/watch?v=kyZ9TG9iD6k&t=8783s&pp=2AHPRJACAdIHCQnFCgGHKiGM7w%3D%3D]]||
+|03/18|42| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス42日目>>https://m.youtube.com/watch?v=L8V3H38J-Lk]]||
+|03/21|43| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス43日目>>https://m.youtube.com/watch?v=ls9DZj9LVs0]]||
+|03/22|44| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス44日目>>https://m.youtube.com/watch?v=OWHmInOVXqA&t=14390s]]||
+|03/27|45| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス46日目>>https://m.youtube.com/watch?v=KeyT6OObl1g&t=1638s&pp=2AHmDJACAQ%3D%3D]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(3月)
+//-----
+#region(open,4月)''4月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/02|46| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス47日目>>https://m.youtube.com/watch?v=lcU4rEgYffs&ra=m]]||
+|04/03|47| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス48日目>>https://m.youtube.com/watch?v=VKcFjsiapCw&ra=m]]||
+|04/19|48| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス49日目>>https://m.youtube.com/watch?v=5_HFtrfEgh4]]||
+|04/26|49| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス50日目>>https://m.youtube.com/watch?v=_DTfosWJsCA&t=798s&pp=2AGeBpACAQ%3D%3D]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(4月)
+//-----
+#region(open,5月)''5月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/03|50| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス51日目>>https://m.youtube.com/watch?v=U_u1bSGTgDU&t=5460s]]||
+|05/08|51| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス52日目>>https://m.youtube.com/watch?v=U72rSbciy9M&t=7s&pp=2AEHkAIB]]||
+|05/09|52| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス53日目>>https://m.youtube.com/watch?v=vNjvN2dbE8I&pp=0gcJCU8Co7VqN5tD]]||
+|05/24|53| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス54日目>>https://m.youtube.com/watch?v=SSmCWTh2BLI&ra=m]]||
+|05/25|54| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス55日目>>https://m.youtube.com/watch?v=ZGKhkW4FDdk&t=10s&pp=2AEKkAIB&ra=m]]||
+|05/28|55| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス56日目>>https://m.youtube.com/watch?v=h9udcipj3xQ&ra=m]]||
+|05/31|56| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス57日目>>https://m.youtube.com/watch?v=9FihxMbZ7ok&ra=m]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(5月)
+//-----
+#region(open,6月)''6月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/04|57| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス58日目>>https://m.youtube.com/watch?v=77H6U-hKF64&ra=m]]||
+|06/05|58| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス59日目>>https://m.youtube.com/watch?v=AV7W2yoH3Dc]]||
+|06/07|59| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス60日目>>https://m.youtube.com/watch?v=xr2JoePcQVg]]||
+|06/12|60| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス61日目>>https://m.youtube.com/watch?v=GVBWlbaadO8&ra=m]]||
+|06/14|61| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス62日目>>https://m.youtube.com/watch?v=8-94TShXj8g&t=2695s]]||
+|06/17|62| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス63日目>>https://m.youtube.com/watch?v=6Vbwhb-Do1A]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(6月)
+//-----
+#region(open,7月)''7月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/01|63| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス64日目>>https://m.youtube.com/watch?v=CRD_MUsRpcA&ra=m]]||
+|07/03|64| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス65日目>>https://m.youtube.com/watch?v=k2MCa5x0VmA&t=16s]]||
+|07/04|65| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス66日目>>https://m.youtube.com/watch?v=gZUYMzX6NTE&t=9s]]||
+|07/05|66| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス67日目>>https://m.youtube.com/watch?v=stMOMbl4Pj4&ra=m]]||
+|07/11|67| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス68日目>>https://m.youtube.com/watch?v=srjgTekL3nU&ra=m]]||
+|07/17|68| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス69日目>>https://m.youtube.com/watch?v=6VztANOTSRc]]||
+|07/24|69| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス70日目>>https://m.youtube.com/watch?v=jOmVfuVn7xw&ra=m]]||
+|07/27|70| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス71日目>>https://m.youtube.com/watch?v=KG2xs07B72o]]||
+|07/30|71| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス72日目>>https://m.youtube.com/watch?v=szr07DhJZSg&ra=m]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(7月)
+//-----
+#region(open,8月)''8月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/01|72| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス73日目>>https://m.youtube.com/watch?v=iJicsZH6028&ra=m]]||
+|08/02|73| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス74日目>>https://m.youtube.com/watch?v=csKUxOtjPd0]]||
+|08/06|74| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス75日目>>https://m.youtube.com/watch?v=2vOg_-Sf3YQ&ra=m]]||
+|08/06|75| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス76日目>>https://m.youtube.com/watch?v=TPJSGCaAbgQ]]||
+|08/08|76| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス77日目>>https://m.youtube.com/watch?v=BJzMk9P79qo]]||
+|08/09|77| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス78日目>>https://m.youtube.com/watch?v=vddj4fGel5U&ra=m]]||
+|08/19|78| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス79日目>>https://m.youtube.com/watch?v=vg3rWvQR0x0]]||
+|08/29|79| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス80日目>>https://m.youtube.com/watch?v=HtGi2N55ctM&ra=m]]||
+|08/29|80| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス81日目>>https://m.youtube.com/watch?v=3hn6pWcW1uc&ra=m]]||
+|08/31|81| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス82日目>>https://m.youtube.com/watch?v=gZvbihGGV0k&ra=m]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(8月)
+//-----
+#region(open,9月)''9月''
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/04|82| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス83日目>>https://m.youtube.com/watch?v=_MlubkWA2Tk]]||
+|09/09|83| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス84日目>>https://m.youtube.com/watch?v=VZLPQSjzuOk&ra=m]]||
+|09/13|84| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス85日目>>https://m.youtube.com/watch?v=QGd3tIHak84]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(9月)
+//-----
+#endregion(2026年)
+//-----
+#endregion(Season2)
+//-----
+//
+//アーカイブ編集用
+#co(){
+|mm/dd|n|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[配信タイトル>>配信URL]]||
+}
+//-----
+*&color(#fff){&font(#A0B6FF){&icon_fa(fa-solid fa-person-walking-dashed-line-arrow-right)} ストグラ外コラボ}
+#div(width=157px,bgcolor=#A0B6FF){&font(b,#666,85%){ &space()&space()Windrose / ウィンドローズ}}
+#region(詳細)閉じる
+>なんと！明坂代表がストグラメンバーにゲームをお誘いいただき、日月が遊ぶことになりました！！！&br()
+>WINDROSEの合同海賊団！&br()
+>【JTS】
+>エンタメならお任せ海賊！&br()
+>【club Passiona】
+>メロついちゃう音楽海賊！&br()
+>【海上レストラン Urashima】
+>海のことならおまかせ海賊！&br()
+>サーバーは1ヶ月間！ということでさっそく入ってみます！&br()
+>#right(){&color(#aaa)&br()&font(11px,b,#b3b3b3){（ウィンドローズ 配信概要欄より）}}
+#size(20%){　}
+#endregion(閉じる)
+//-----
+#region(アーカイブ)閉じる
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/21|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[日月むつみ【ウィンドローズ】>>https://m.youtube.com/watch?v=ETqL_bFqDd4&t=100s]]||
+|04/28|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[日月むつみ【ウィンドローズ】02>>https://m.youtube.com/watch?v=t8QflsbtlQg&t=50s]]||
+|05/10|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[日月むつみ【ウィンドローズ】03>>https://m.youtube.com/watch?v=EESpYdyfvW8]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(閉じる)
+
+//-----
+#div(width=157px,bgcolor=#A0B6FF){&font(b,#666,85%){ &space()&space()社員試飲会＆ゲームコラボ}}
+#region(詳細)閉じる
+>代表が遊んでいる第二の人生【ストリーマーGTA】通称ストグラ。
+>&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#000000){･ストグラ}>>https://m.youtube.com/playlist?list=PLBAxXE9JuyrHoMJDoWUCqs7QbPc6Dad2-]] &br()
+>このお店で登場したお酒が、実際に販売されることになりました！
+>https://kurand.jp/products/stgr-urashima &br()
+>という訳でそれを記念して、海上レストランUrashimaに勤める従業員が試飲会をします！&br()
+>そのあとはゲーム…って、飲酒して動けますか…？&br()
+>#right(){&color(#aaa)&br()&font(11px,b,#b3b3b3){（社員試食会＆ゲームコラボ配信 概要欄より）}}
+#size(20%){　}
+#endregion(閉じる)
+//-----
+#region(アーカイブ)閉じる
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/28|01| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【STGR】海上レストランUrashima 社員試飲会＆ゲームコラボ配信>>https://m.youtube.com/watch?v=41IDm4oIbEo&ra=m]]||
+
+#table_sorter{even=#f4f9ff,odd=#fff}
+#endregion(閉じる)
+//-----
+#region(ストグラ×クランド 第５弾コラボ酒)閉じる
+#size(0%){#div(){#openclose(show=,block,margin:none;,padding:10px;,border:1px solid #cccccc;){
+#size(14px){[[BlueLagoon（ブルーラグーン）>>https://kurand.jp/products/stgr-urashima]]&space()&small(){&space()[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} 告知>>https://x.com/STGR_RolePlay/status/2081662044101923126]]}&br()&small(){購入特典：「Urashima」のロゴ入り特製マドラー、特製化粧箱}&br()&small(){販売期間：26/07/27～26/08/23 23:59まで}
+}}}}
+#endregion(閉じる)
+//-----
+
+#right(){&link_up(🔝ページTOPへ)}

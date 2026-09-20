@@ -1,0 +1,173 @@
+#center{
+&image(AILES_ロゴ.png,y=300)
+}
+*AILES ENTERTAINMENT
+絶賛、編集募集中。情報求。
+//どなたでも編集のご協力をお願いします（smith,2026/6/13）
+//とりあえず社名決定日を設立日としました
+//ありがとうございます。皆さんの編集がすごくうれしいです（smith,2026/7/9）
+
+#table_style(head=#ABE1FA){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(エール){AILES} &ruby(エンターテイメント){ENTERTAINMENT}|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年06月12日&small(){（&countup(2026/06/11,yd)経過）}&br()&small(){※社名決定日を設立日としています}&co(){※countupは設立日の1日前に設定}|
+|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|7099番地|
+|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|音楽スタジオ|
+|~社長|~&space()&icon_fa(fa fa-user-secret)&space()|[[銭形　やいち郎]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**基本情報
+-新しい街でも音楽がもっと広まってほしいという思いから[[銭形>>銭形　やいち郎]]が立ち上げた音楽会社。
+-社名のAILES（エール）とはフランス語で「翼」を意味する言葉。設立メンバーでアイデアを出し合い決めた。
+
+**事業内容
+-街で聞いても問題ないオリジナルソングを再生したりリリース情報などのトピックを伝えるサイトの運営。
+-街の中でのイベントの開催。&br()これは音楽ライブに限らず様々な形式で行う。
+
+***協力関係
+-[[星詠　あう]]・[[ペトロ　アルドベッグ]]&br()専用サイトの制作・運用
+
+**従業員
+#table_style(head=#0072BC:#F9FCFF)
+#table_filter(){加入日=hide,役職=show,備考=show}
+|~名前|~加入日|~役職|~備考|h
+|[[銭形　やいち郎]]|2026/06/12|社長||
+|[[音姫　みつお]]|2026/06/12|副社長|音楽プロデューサー|
+|[[丘猫　まる]]|2026/06/12|社員|イベンター|
+|[[文殊　セイジ]]|2026/06/12|社員|イベンター|
+
+//|[[名前]]|2026/mm/dd|役職|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+#co{
+//***過去メンバー
+#region(開く)
+#table_style(head=#696969:#F9FCFF)
+|~名前|~加入日|~脱退日|~備考|h
+|名前|加入日|yyyy/mm/dd|備考|
+|名前|加入日|yyyy/mm/dd|備考|
+//|名前|加入日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+}
+
+**商品・サービス
+***音楽配信サイト「エルレコ」
+#region(詳細,open)閉じる
+・ロスサントス内の住民たちが歌う曲を再生することができる。
+・音楽イベントや新曲のリリース情報などのニュースも扱う。
+・リピート再生やランダム再生の機能も搭載。
+・2026/08/01より正式サービス開始。
+・『COMPUSS』([[星詠　あう]]・[[ペトロ　アルドベッグ]])がサイトを制作・運用協力。
+・市がスマホに音楽再生アプリを導入できた際には役目を終え音楽再生機能の提供は終了する予定。
+
+|&blankimg(エルレコ_告知.jpg,x=160,y=240)|&blankimg(エルレコ_画面.png,x=160,y=240)|
+
+#endregion
+
+***[[音姫　みつお]] サービス一覧
+#region(詳細,open)閉じる
+#table_style(head=#0072BC:#F9FCFF)
+#table_filter(){開始日=hide,内容=show,価格=show,備考=show}
+|~商品名|~開始日|~内容|~価格|~備考|h
+|ボーカルトレーニング|2026/06/27|レッスン（ボイストレーニング）|100万/15分，200万/30分||
+|音姫 MUSIC LAB（OML）|2026/08/21|「歌う・作る・録る」トータルサポート|　||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+|&blankimg(ボーカルトレーニング.jpg,x=160,y=240)|MIDDLE:CENTER:&blankimg(OML.jpeg,x=240,y=160)|
+
+#region(▽ボーカルトレーニング レッスン受講)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){受講日=hide,内容=show,動画=hide,備考=hide}
+|~名前|~受講日|~内容|~動画|~備考|h
+|[[閃光寺　亜夢]]|2026/7/9|初心者ボイトレ|[[【超有料級】30分でミックスボイスが出せる！音姫みつおによるボイトレが神すぎた！【 閃光寺亜夢 / 音姫みつお 】 >>https://youtu.be/NhbVlNJyKxg]]||
+|[[町田　ジョアンナ]]|2026/7/17|音域，ピッチ感etc|[[【#ストグラ切り抜き】魂に響く、最高にためになるボイトレをする音姫【ジョアンナ町田/音姫みつお】>>https://youtu.be/eYuivSDr9xo]]||
+|[[レイジー　ルードマン]]|2026/7/23|発声から見直したい|[[【#ストグラ】今後の活動のためにボイトレを受けに行く 【レイジールードマン／音姫みつお／ #ストグラSeason2 】>>https://youtu.be/6pabY--gB7g]]||
+//|[[名前]]|2026/mm/dd|内容|動画|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+&font(#7d7d7d){※募集}
+#endregion(レッスン受講)
+
+#region(▽OML 利用者)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){受講日=hide,内容=show,動画=hide,備考=hide}
+|~名前|~受講日|~内容|~動画|~備考|h
+
+//|[[名前]]|2026/mm/dd|内容|動画|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(OML)
+
+#endregion
+
+#co{
+//****
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){加入日=hide,役職=show,備考=show}
+|~名前|~加入日|~内容|~価格|~備考|h
+|[[名前]]|2026/mm/dd|役職|価格|備考|
+|[[名前]]|2026/mm/dd|役職|価格|備考|
+//|[[名前]]|2026/mm/dd|役職|価格|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+**イベント
+***2026年
+#region(開く,open)
+#table_style(head=#0072BC:#F9FCFF)
+#table_filter(){出来事=show,内容=show,備考=show}
+|~日付|~出来事|~内容|~備考|h
+|6/24|&aname(オーシャンLIVE,option=nolink)&small(){ライブ}&br()&bold(){「オーシャンLIVE fishing & singing」}&br()&blankimg(オーシャンLIVE.jpg,x=170,y=240)|釣りブームを受けてボートの上で楽しむ海上ライブを開催&br()&br()&openclose2(show=▼詳細){&br()日時：6月24日(水)23時～&br()場所：2059番地 南のBayエリア 海上}&br()&openclose2(show=▼出演者・セットリスト){&br()1.二人の距離 / [[ラブストレート小里馬ァ>>アイドゥラー　ヨシャパテ]]&[[ボクジュール　すずり]]&br()2.黄昏ソーダ / ボクジュールすずり&br()3.アイスクリーム / [[帆立　ほたる]]&br()4.銭形漢道～あらよっと～ / [[銭形　やいち郎]]&br()5.落陽 / [[ツクヨミ　レオ]]&br()6.月と記録 / [[山田　パルコ]]&br()7.心臓 / 山田　パルコ&br()&br()MC：[[文殊　セイジ]]}|&font(#ff0000){&icon_fa(fa fa-youtube-play)}[[二人の距離>>https://youtu.be/L5_R2wxObkY?si=Xm8BDQwvy5DSKDie]]&br()[[歌詞カード 直筆：ボクジュールすずり>>https://x.com/Dark_yosip/status/2069812236114338191]]&br()&font(#ff0000){&icon_fa(fa fa-youtube-play)}[[黄昏ソーダ>>https://youtu.be/6WUlUav5oXw?si=lK-qFuIgdTSWniw2]]&br()&font(#ff0000){&icon_fa(fa fa-youtube-play)}[[銭形漢道～あらよっと～>>https://youtu.be/dcMyK7rFYfM?si=v3XoZSyBLZhYqnZu]]&br()&font(#ff0000){&icon_fa(fa fa-youtube-play)}[[落陽>>https://youtu.be/pXgQJ4zPl5k?si=7rsCB7hmVsu0LAkc]]&br()&font(#ff0000){&icon_fa(fa fa-youtube-play)}[[月と記録>>https://youtu.be/EktICDlLSvU?si=sRImgWDLINCzTBK1]]&br()&font(#ff0000){&icon_fa(fa fa-youtube-play)}[[心臓>>https://youtu.be/gS6batSwLM8?si=EQO9n_AQoGEQslRP]]|
+|7/4|&aname(障害物レース,option=nolink)&small(){障害物レースイベント}&br()&bold(){「Jump＆Punk」}&br()&blankimg(Jump＆Punk.jpg,x=170,y=240)|文殊セイジと丘猫まるが以前より企画していた住民参加型のおもしろレースイベント。&br()北のサーキットにてモトコンポ・軽トラを使い普通とは一風変わった障害物レースを行う。&br()カジノ[[LosVegas]]と協力しての賭けや観客によるフォトコンテストも実施。&br()[[罰　下リ]]作曲、[[山田　パル子]]歌唱による本イベントのために作られた楽曲も披露された。&br()&br()&openclose2(show=▼詳細){&br()日程▶7/4(土）23:00(開場22:30)&br()会場▶1003番地 北のサーキット場&br()&br()Composition：[[罰　下リ]]&br()Singer：[[山田　パル子]]&br()MC：[[銭形　やいち郎]]&br()実況：[[福田　明宏]]&br()Sponsor：[[LosVegas]]・[[公認勝手にレース協会]]&br()ピット作業協力：各メカニック会社&br()飲食販売：[[サニーケバブ]]・[[ゴーリキバーガー>>カイリキバーガー]]&br()レース制作協力：[[万十　忍]]&br()ポスター制作協力：[[猫又　ぴぴ]]}&br()&openclose2(show=▼プログラム){&br()開会式&br()モトコンポペアレース&br()ハーフタイムショー：[[JTS]]&br()軽トラレース&br()閉会式}&br()&openclose2(show=▼レース出場者){&br()【バイクレース】&br()No.1：[[チェン　マヨ]]&[[レッサン　パンナ]]&br()No.2：[[安保　さぶ郎]]&[[圧子]]&br()No.3：[[イナ　イロハ]]&[[星野　ももあ]]&br()No.4：[[カミジョウ　レン]]&[[斎藤　まさのり]]&br()No.6：[[三否亭　四五六確]]&[[安城　成]]&br()No.7：[[Dr．ギガ]]&[[渡戸　リー]]&br()No.8：[[アルタ・スカイブルー]]&[[惑朽　ルーシー]]&br()No.9：[[シャマ・アルカディア]]&[[くま　ぽこ]]&br()No.10：[[ジョーカー]]&[[帆立　ほたる]]&br()&br()【軽トラレース】&br()No.1：[[パン　チャン]]&br()No.2：[[葛城　司]]&br()No.3：[[浦戸　ゼン]]&br()No.4：[[捌木　たいたい]]&br()No.5：[[千咲　にと]]&br()No.6：[[須藤　冬馬]]&br()No.7：[[ペトロ　アルドベッグ]]&br()No.8：[[マッハボクシング　ドク]]&br()No.9：[[飯田　けんつ]]&br()No.10：[[山野　民生>>渡戸　リー]]}&br()&openclose2(show=▼結果){&br()バイクレース優勝：チェンマヨ&レッサンパンナ&br()軽トラレース優勝：葛城司&br()ベストショット賞：剛力たけし・ザウルス&br()ベストメカニック賞：もりるんるん&br()ベストパフォーマンス賞：さぶ郎&圧子チーム}&br()&openclose2(show=▼ベストショット){&br()剛力たけし：&br()&blankimg(Jamp&Punk_剛力たけし.jpg,x=240,y=135)&br()ザウルス：&br()&blankimg(Jamp&Punk_ザウルス.jpg,x=240,y=135)}|会場MAP画像&br()&blankimg(Jamp&Punk_MAP.jpg,x=240,y=135)|
+
+//|mm/dd|&aname(アンカー指定用名称,option=nolink)&small(){イベント形式名}&br()&bold(){「イベント名称」}&br()&image(ポスター画像,y=240)|詳細&br()&openclose2(show=▼詳細){&br()出演者なやセトリなどを記載}|備考|
+//画像拡大の場合、xyの指定が必要なので縦横比を計算→ &blankimg(ポスター画像,x=170,y=240)
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(2026年)
+
+**ギャラリー
+***2026年
+#region(開く)
+//記念写真やらをスライドショーなどで残せたら良いなと思います。画像サイズや表示形式は後々雰囲気で整えていく方向で。
+//#slide_img(auto=4,width=512,height=288,position=center){AILES記念写真_オーシャンLIVE.jpg,}
+|&blankimg(AILES記念写真_オーシャンLIVE.jpg,x=512,y=288)|
+|~&bold(){2026/06/24 オーシャンLIVE}|
+|&blankimg(Jump&Punk_ハーフタイム.jpg,x=512,y=288)|
+|~&bold(){2026/07/05 Jump&Punk}|
+|&blankimg(エルレコ説明会&音姫初心者卒業.jpg,x=512,y=288)|
+|~&bold(){2026/08/01 「エルレコ」説明会&音姫みつお初心者卒業ライブ}|
+#endregion
+
+**沿革・歴史
+***2026年
+#region(開く,open)
+#table_style(head=#0072BC:#F9FCFF)
+#table_filter(){出来事=show,詳細=show,備考=show}
+|~日付|~出来事|~詳細|~備考|h
+|06/12|音楽サイトについて会議|サイトについて[[星詠　あう]]・[[ペトロ　アルドベッグ]]へイメージを共有する||
+|~|会社名の決定|初期案のCrows(カラス)から案を膨らませ翼を意味するAILESを正式な社名とした||
+|06/13|会社ロゴ会議|複数のサンプルを検討し方向性を決めた||
+|06/18|オーシャンLIVE チケット販売|場所：レギオン公園 時刻：23時～||
+|06/24|「オーシャンLIVE」開催|開始時間が遅れるトラブルがあったもののLIVE自体は成功を収めた||
+|07/04|「Jump&Punk」開催|バイク&軽トラ障害物レースを開催||
+|07/07|AILESの音楽サイトが暫定的に完成|[[星詠　あう]]から説明を聞く||
+|07/19|今後の方針について4人での会議|迷走していた銭形に対して音姫が活を入れる形で前向きにまとまった||
+|08/01|音楽サイト「エルレコ」サービス開始|レギオン公園にて説明会を開催|初日の利用量が1ヶ月で想定していた量の300%を超える大盛況となった。[[ポストリンク>>https://x.com/HoshikageLapis/status/2083797875629416693]]|
+|08/23|会議|エルレコ利益還元として中規模ライブイベントを10月頭に予定||
+|09/04|会議|10月1日(仮)のライブについて打ち合わせ&br()音姫がレーベル立ち上げを計画、子会社化について検討||
+
+//|mm/dd|出来事|詳細|備考|
+//#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(2026)
+
+#right(){&link_up(🔝ページTOPへ)}

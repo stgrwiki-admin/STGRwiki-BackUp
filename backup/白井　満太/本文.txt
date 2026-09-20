@@ -1,0 +1,1199 @@
+//<参考ページ> https://w.atwiki.jp/guide/pages/3062.html
+*新たな街に転送完了！白井満太の旅路は続く。
+
+#slide_img(auto=4,position=left,width=290,height=540){白い犬S2-1.png,白い犬S2-2.png}
+
+&image(白い犬S2-TAXI.png)&small(){船着き(8242)前にてTAXIとともに[2026/07/17]}
+
+
+#region([Season2:2025/12/29]開く,close)&bold(){[Season2:2025/12/29]閉じる}
+#slide_img(auto=4,position=left,width=700,height=450){白い犬S2-6.png,白い犬S2-4.png,白い犬S2-5.png}
+#endregion(Season1の画像)
+
+//新たな画像を加えたい時は、上部コマンドの「画像」→「画像をアップロードして挿入」もしくは「アップロード済みの画像を挿入」が必要です。下記URLをご参照ください🙇🏻💦
+//<参考ページ> https://w.atwiki.jp/guide/pages/1742.html
+//
+#table_filter(){Season1=hide,Season2=show}
+#table_color(head=#e6e7e8:#666)
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(しらい){白井}　&ruby(まんた){満太}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|不明|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|10月20日|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年07月31日 (&countup(2023/07/31,yd))|2025年12月25日 (&countup(2025/12/25,yd))|
+|~職業|~&icon_fa(fas fa-landmark)|&small(){&nbsp(3)&icon_fa(fa fa-palette)&s()画家}&small(){&nbsp(br,3)&icon_fa(fa fa-plane)航空機ディーラー【[[豆おじさんのエアークラフト]]】}&small(){&nbsp(br,3)&icon_fa(fa fa-pizza-slice)ピザ屋【[[Soffietto]]】}&br()&small(){&openclose2(show=▼過去の職業){&br()&icon_fa(fa fa-industry)&nbsp(3)ゴミ収集員&nbsp(br,3)&icon_fa(fa fa-truck)トラック会社経営&br()&icon_fa(fa fa-gun)ギャング【[[ALLIN]]】&nbsp(br,3)&nbsp(3)(相談役。諸事情によりUnderboss権限も付与)&nbsp(br,3)&icon_fa(fa fa-wrench)メカニック【[[PY>Project Y]]】&nbsp(br,3)&icon_fa(fa fa-wrench)メカニック【[[GG>Glare Gem]]】&nbsp(br,3)&icon_fa(fa fa-toolbox)メカニック【[[FOG]]】}}|&icon_fa(fas fa-taxi)[[タクシー会社HQ(仮)>https://w.atwiki.jp/streamergta5/pages/3420.html]]&small(){（2025/12/26～）}|
+|~所属|~&icon_fa(fa fa-users)|&nbsp(3)&s(){ギャング【[[ALLIN]]】}&br()&nbsp(3)&s()DH同盟【[[アンナルイン>安城　成/アンナルイン]]】 |&nbsp(3)&s()DH同盟【[[アンナルイン>安城　成/アンナルイン]]】 |
+|~所有物件|~&icon_fa(fa fa-house)|&s(){ガソスタ（9139番地）オーナー}&br()&s(){コンビニ（3026番地）オーナー}&br()ともに[[ノエル>芳賀　ノエル]]に経営権を譲渡||
+|~TwiX|~&icon_fa(fa fa-crow)|@wmdosm||
+|~チャンク|~&icon_fa(fa fa-triangle-exclamation)|[[okame tnk (2023年10月30日) >https://www.twitch.tv/shiro_manta/clip/ColdbloodedHungrySamosaTBTacoRight-P0RrGBQAC4IDSwor]]||
+|~着信音|~&icon_fa(fa fa-music fa-beat)|『[[On cloud nine>>https://www.youtube.com/watch?v=DPeQw2AdydI]]』||
+|BGCOLOR(#919497):COLOR(#fff):~プレイヤー|BGCOLOR(#919497):COLOR(#fff):~&icon_fa(fa fa-heart)|>|しろまんた|
+|BGCOLOR(#919497):COLOR(#fff):~告知等|BGCOLOR(#919497):COLOR(#fff):~&icon_fa(fa fa-bullhorn)|>|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>>https://x.com/shiromanta_rec]]|
+|BGCOLOR(#919497):COLOR(#fff):~配信場所|BGCOLOR(#919497):COLOR(#fff):~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/shiro_manta]]|
+|BGCOLOR(#919497):COLOR(#fff):アーカイブ|BGCOLOR(#919497):COLOR(#fff):~&icon_fa(fas fa-film)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@shiromanta2]] |
+|~別キャラ|~&icon_fa(fa-solid fa-user-plus)|&ruby(ささき){[[佐々木]]}&br()&ruby(にのまえ　はじめ){[[一　一]]}|&small(){&openclose2(show=※ネタバレ注意){：[[田中　としかず]]}}|
+//
+//|~誕生日|yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)|
+
+* &font(#56ebf0){&icon_fa(fa-solid fa fa-address-book fa-beat-fade)} 基本情報
+-100年前の記憶を持つ民の一人。
+--記憶では緑色のギャングに所属していた。
+--自称「百年の懲役を終えて街に戻ってきた」男。
+・よく締め切りに追われる夢を見る。
+・側頭から真っ直ぐに銃弾が貫通した跡があり、脳の一部が損傷している。
+・・そのため、感情が不安定になったり、倫理観が一部他の人と異なることがあるという。
+・・&bold(){その銃弾跡と素顔は}&infobox(title=こちら🔍,trigger=click,gravity=west,size=small,url=https://img.atwiki.jp/streamergta5/attach/508/2507/%E7%8A%AC1.png)
+//・『白井 満太』という名前のほかに、3つの顔を使い分けている。
+//・・&bold(){白井”MECA DOG”満太}：「Project Y」に就職。車のカラーリング得意とし、日々奮闘中。
+//・・&bold(){クロスケ}：ギャングの下っ端ではあるが、皆から慕われる用務員のおじいさん的存在。&br()&bold()//『百年の眠りから覚めたケルベロス』の異名を持つが浸透しているのかは不明。
+//・・&bold(){Wankcy Mankcy}：このロスサントスで一番有名な画家。その絵は見たものに最高の幸せや喜び、感動を与えている。
+//名前に関しては、本人が「白井満太」での指名手配を希望したりと、使い分けしているわけではなくなっているため、いったん様子見で非表示とします。
+
+*** ALLINについて
+・[[ALLIN]]創設メンバーであり、初期の活動において車やヘリ、仮拠点の提供、チームの名付け親でロゴの制作の発注など貢献をしているが、アンダーボスでもなければボスから白市民呼ばわりされてしまう。
+・ヌケたところがあり、頭目の[[Mon　D]]やアンダーボスの[[yaku　beni]]としばしばコントのようなやり取りを繰り広げる。[[無馬　かな]]に甘い。
+・財政を支え、拠点購入やヘリ購入等で組織の基盤を強力に支える。戦闘はポンコツだが革命的な発想でファームの効率化に成功したり、時折その才能を見せる。
+・[[ALLIN]]構成員[[冬野　雪]]は加入前からの親友であるが、白井の手引きではなく一切面識がなかった[[安城　成]]による素行調査によりスカウトされ同僚となる。その後安城と冬野の恋模様を密かに手助けし、成就するのを見届けた。諸事情により冬野が日本へ無期限帰国することを知らされ16億5000万の航空機を自腹購入、最後は白井の操縦で無事に日本へ送り届けた。
+・最近ではみんなの相談役「コンシリエーレ」(形式上はアンダーボス)として、[[ALLIN]]に無くてはならない存在となっている。
+・2025年3月23日、ロスサントス史上最強の[[ギャング]]としてこの街の歴史にその名を刻み、解散。
+
+*** 旧アトリエ&small(){(警察本署地下の牢屋)}について
+・魂がこのロスサントスの街で&s(){遊びまわって}暴れてしまうため、警察本署地下の牢屋の一室に自主的に缶詰にされに来ていたことがある。
+・数日連続で缶詰になり来ているため、警察からも「またワンクシーさんが缶詰になりに来ましたー」という軽い調子で無線で共有されていた。
+・缶詰になっている際は、警察の方々から差し入れをもらったり、雑談をしてもらったりしながら魂の仕事を進めていた。
+
+***現アトリエ&small(){(9043番地の高架下)}について
+・画家"&ruby(ワンクシーマンクシー){Wanksy Manksy}"としてイラスト展覧会などの活動をするため、9043番地の高架下に物件を購入した。
+・[[ALLIN]]1周年の2024年8月15日にはこのアトリエで[[ALLIN]]全員が集合するイラストを描いており、話を聞きつけた[[安城>安城　成]]・[[チヨ>千代田　ヨウ]]・[[みこだ>神子田　頼]]・[[天使>マイゴ・ニ＝ナリエル]]と一緒にお絵描きをして楽しんだ。
+&space(5)&openclose2(show=1周年イラスト){&image(ALLIN1周年by白井.png)}
+
+
+***性格＆特徴
+・あおうと連絡先を交換。
+//
+
+
+//
+***画家"&ruby(ワンクシーマンクシー){Wanksy Manksy}"としての活動
+#region(ネタバレ注意)閉じる
+・きっかけは[[まりー　あんとあー]]との[[会話中>>https://clips.twitch.tv/CrypticIcyClintHotPokket-JfGmX73DkiXNOJvs]]から、この後市長に相談し活動を始めた。
+・持ち前の画力を活かして画家を営みはじめた。(市長許可済み)
+・・画号は&ruby(ワンクシーマンクシー){Wanksy Manksy}。
+
+#table_color(#e6e7e8)
+|~顧客リスト|
+#table_color(#e6e7e8)
+|~作品|~顧客名|~日付|~報酬|~備考|
+|&image(犬11.png,x=200,y=200)|[[ヴァン　ダーマー]]|2023/08/07|現金＋Nissan Titan Warrior 2017|[[クリップ>>https://www.twitch.tv/shiro_manta/clip/RepleteQuaintMetalRitzMitz-VTk8iF-jutqSU7fs]]|
+|&image(犬2.png,x=200,y=200)|[[まりー　あんとあー]]&br()(左奥：[[町田　ジョアンナ]]、&br()左前[[千代田　ヨウ]]、&br()右奥：[[切間　てつお]]、&br()右前：まりー　あんとあー)|2023/08/08|現金＋Havok＋カスタム2台分|[[クリップ>>https://www.twitch.tv/shiro_manta/clip/BombasticGiantDiamondGivePLZ-zLb9AiH0pfkFGb4h]]|
+|&image(犬12.png,x=200)|[[鳥野　ぎん]]|2023/08/13|現金+スーパーヴォリト・カーボン(SuperVolito)|[[クリップ>>https://www.twitch.tv/shiro_manta/clip/ObservantDeadSrirachaBleedPurple-or4fLk--JB7Pg9mt]]|
+|&image(犬13.png,x=200)|[[命田　守]]&br()(左：命田　守、&br()右：[[サンフォレスト　あんず]])|2023/08/20|現金＋マルキー(Marquis)|[[守さん受け渡し>>https://clips.twitch.tv/WildBlueKiwiDxCat-czAZ8lAlNRglgFD7]]&br()[[あんずさんへ>>https://www.youtube.com/live/IfkwRQg93HY?si=06dOq8BgAhsS3EJ7&t=20427]]|
+|&image(犬26.png,x=200)|[[堕夜　だよ]]&br()(イラスト：[[ヴァン　ダーマ―]])|2023/09/03|1億＋お気持ち|[[だよさん受け渡し>>https://www.twitch.tv/shiro_manta/clip/ResilientAnimatedLionUWot-wUhgtd7vGX2UnR4f]]&br()[[ヴァンさんへ>>https://clips.twitch.tv/ConfidentTsundereVelociraptorFreakinStinkin-hxvlqcQbWnHAYExz]]|
+|&image(犬27.png,x=200)|[[深沢　えぼし]]&br()(左奥から：深沢　えぼし、&br()[[キーモット　ホームズ]]、&br()[[二十日　ネル]]、[[如月　キャシー]]、&br()左前：[[ジャック　馬ウアー]])|2023/09/17|5億＋DRAUGUR|[[えぼしさん受け渡し>>https://clips.twitch.tv/WanderingClumsySproutPunchTrees-M0PdIjyrOlFaI84f]]&br()[[馬ウアー・キーモットへ>>https://www.twitch.tv/videos/1932142805?t=00h14m40s]]&br()[[馬ウアー反応>>https://www.twitch.tv/videos/1946108345?t=03h26m17s]]&br()[[キャシーさんへ>>https://www.twitch.tv/videos/1932143108?t=00h13m20s]]&br()[[えぼしさんから感想>>https://www.twitch.tv/shiro_manta/clip/AbrasiveEnergeticLlamaBuddhaBar-LWuq75BnlDHUw9xz]]&br()[[ネルさんへ>>https://www.twitch.tv/videos/1976262723?t=03h01m50s]]|
+|&image(犬28.png,x=200)|[[雷堂　ましろ]]|2023/09/18|現金|[[クリップ>>https://www.twitch.tv/shiro_manta/clip/PolishedCrispyEndiveOSkomodo-__K4FRRR2gUqTQ4k]]|
+|&image(犬29.png,x=200)|[[成瀬　力二]]|2023/09/21|成瀬が自作した着信メロディー&br() (本人たち曰く、才能の交換)|[[クリップ>>https://clips.twitch.tv/ExpensiveSolidChickenAllenHuhu-EhBsP4maOLIHGaSv]]|
+|&image(犬21.jpeg,x=200)&small(){メガネver / 何かを企んでいるver}&br()&ref(https://img.atwiki.jp/streamergta5/attach/508/3418/%E7%8A%AC19.jpeg,x=100)&ref(https://img.atwiki.jp/streamergta5/attach/508/3419/%E7%8A%AC20.jpeg,x=100)&br()&small(){+ステッカー}|[[猫　マンゴー]]|2023/10/06|1億3000万|[[クリップ>>https://www.twitch.tv/shiro_manta/clip/TawdryWildClipsmomMVGame-Z20IlBRgaxSSaiH3]]|
+|&image(犬30.png,x=200,y=200)|[[クマ　ゴリラ]]、[[ニャンコ・スキー]]&br()[[四皇　シャンクズ]]、[[聖母　れりあ]]&br()(イラスト：[[アルフォート　ウェスカー]])|2023/10/15|2億|[[クマゴリラさん受け渡し>>https://clips.twitch.tv/UnusualGoldenHorseradishPoooound-HaJ_B87oIZZMe9wW]]&br()[[ウェスカーさんへ>>https://www.youtube.com/live/bDU2hYnSEKE?si=IpEjyPXrIInYIKPp&t=914]]|
+|&image(犬35.jpeg,x=200)|[[ヴァン　ダーマー]],[[アルフォート　ウェスカー]]|2023/10/18|-|[[リンク切れ>>https://www.twitch.tv/videos/1953993338?t=07h19m20s]]|
+|&image(犬41.jpeg,x=200)|[[ニックス　リア]]|2023/10/23|3億|[[クリップ>>https://clips.twitch.tv/PerfectHonorableRamenFrankerZ-JNuxKlQ83Yl5VQ46]]|
+|&image(犬49.png,x=200)|[[青井　らだお]]|2023/11/03|4億|[[依頼>>https://www.twitch.tv/shiro_manta/clip/TacitReliableMonitorPeanutButterJellyTime-ZxgiohAJ-T5Wz9CL]]&br()[[受け渡し>>https://www.twitch.tv/shiro_manta/clip/PeacefulWimpyKoalaPupper-pMymVzuDpQX9EksR]]|
+|&image(犬50.png,x=200)|[[ゆちゃ　めろでぃ]]&br()(イラスト：[[青井　らだお]])|2023/11/11|4億1000万|[[ゆちゃさん受け渡し>>https://youtu.be/8CobzsjGVIo?si=ayoWcJQRLqBJm8q1&t=7850]]&br()[[らだおへ>>https://clips.twitch.tv/SmilingDignifiedLemurDancingBanana-vW5D6jogHoTecUc4]]|
+|&image(犬52.png,x=200)|[[神子田　頼]]|2024/02/02|4億2000万|[[クリップ>>https://clips.twitch.tv/TameBumblingVampireSoonerLater-2aXyyVpy4TprkuOo]]|
+|&image(犬51.png,x=200)|[[伊達咲　政宗]]|2024/02/03|2億5000万|[[クリップ>>https://clips.twitch.tv/ProudTolerantKeyboardPipeHype-nhnghFjOSPPwrn5e]]|
+|&image(犬59.png,x=200)|[[きらりんぶい☆　なずぴ(10)]]|2024/04/01|5億|[[クリップ>>https://clips.twitch.tv/OriginalSplendidSoybeanSaltBae-RVgKuiXPTi6xozPL]]|
+|&image(犬60.png,x=200)|[[香月　ろぎあ]]&br()(左：香月　ろぎあ、右：[[ヘルアン]])|2024/04/24|5億|[[依頼>>https://www.twitch.tv/videos/2040031432?t=05h57m33s]]&br()[[ろぎあさん受け渡し>>https://clips.twitch.tv/AlivePricklyPandaOSkomodo-X7jSYtT5zDI3bTp-]]&br()[[ヘルアンへ>>https://clips.twitch.tv/OptimisticSavageChinchillaFreakinStinkin-Jzo1Fm2glMnDkooA]]&br()[[感想>>https://clips.twitch.tv/RacyTsundereChowderPeteZarollTie-RA4HhM9rnEOq7p_U]]|
+|&image(240519_Birthdaygift.png,x=200)|[[ヴァン　ダーマー]]&br()(左：ヴァン　ダーマー、右：[[堕夜　だよ]])|2024/05/19|6億|[[ヴァンさん受け渡し>>https://clips.twitch.tv/AbnegateAffluentCormorantNerfBlueBlaster-dqAL_TwTrCj0KpG3]]&br()[[だよさんへ>>https://www.twitch.tv/dayodayo_dayo/clip/InspiringBrainyCroquetteTooSpicy-ykblyK2q2Nurl5j5]]|
+
+・他にも営業済みで依頼料ができたら受注したいという顧客も何人か存在する
+#endregion
+
+//画家の活動とは異なりますが、イラストがあることからこちらの項目に追加しました。必要あれば移動お願いいたします。
+#region(依頼品以外の制作物)閉じる
+#table_color(#e6e7e8)
+|~作品|~渡した人|~日付|~エピソード|~備考|
+|&image(犬61.png,x=200)|[[冬野　雪]]、[[安城　成]]|2024/01/30|雪の結晶が埋め込まれたペンダント&br()また逢う日まで&br()あの日の雪はきっと忘れない。&nbsp(br,30)❄&br()身につけていると勇気が湧いてくる。&br()&br()3人のペンダントは全て同じデザインに見えるが、それぞれ異なる言葉が込められている。&br()中には白井が撮った&infobox(title=DH3人の写真🔍,gravity=west,url=https://img.atwiki.jp/streamergta5/attach/508/10160/t/%E7%8A%AC62.png)が収められている。|[[アーカイブ>>https://www.twitch.tv/videos/2048708939?t=06h04m29s]]|
+|&image(犬63.png,x=200)|[[千代田　ヨウ]]|2024/05/05|プリズンで大事なものを無くしてしまい、落ち込んでいた千代田に贈ったイラスト。&br()(左：千代田　ヨウ、右：[[Sell　u]])|[[クリップ>>https://clips.twitch.tv/ObliqueTsundereTaroTakeNRG-tncoGQZl3dPRd3A2]]|
+|&image(犬70.png,x=200)|[[Mon　D]]|2024/07/21|誕生日プレゼントとしてMonDに贈ったイラスト。&br()日本の漫画家で知人でもある しろまんた先生との合作とのこと。&br()&small(){&color(#d3d3d3){何を言っているのか分からないが、あちらの界隈ではしろまんた先生が神なのでいろいろと問題はないそう。}}&br()(左：五十嵐　双葉、右：[[Mon　D]]、&nbsp(br,1)背景左：しろまんた、背景右：[[白井　満太]])|[[クリップ>>https://www.twitch.tv/shiro_manta/clip/TastyTrappedInternRaccAttack-2cb1jEmjJOhhG4Hj]]|
+#endregion
+//
+//
+//***ギャングとしての活動
+//#region(ネタバレ注意)閉じる
+////・エピソード募集(今のところ真っ白な犬９の内容をまとめたい)
+//-8/13のギャングに関しての進捗は[[こちら>>https://www.twitch.tv/videos/1897524236?t=11h40m00s]]
+--募集
+//#endregion
+//
+//
+//
+***衣装一覧
+#region(開く)閉じる
+
+#table_color(#e6e7e8)|~&image(犬22.jpeg,x=140,y=280)|~&image(犬37.jpeg,x=140,y=280)|~&image(犬44.jpeg,x=158)|~&image(犬23.jpeg,x=140,y=280)|~&image(犬45.jpeg,x=158)|~&image(犬48.png.png,x=140,y=280)|
+|BGCOLOR(#919497):~&color(#ffffff){スーツ&size(10){赤シャツver}}|BGCOLOR(#919497):~&color(#ffffff){-}|BGCOLOR(#919497):~&color(#ffffff){冬服}|BGCOLOR(#919497):~&color(#ffffff){KURO INU}|BGCOLOR(#919497):~&color(#ffffff){メカニック用}|BGCOLOR(#919497):~&color(#ffffff){初詣の和服}|
+#endregion
+//
+
+//
+***変装一覧
+#region(ネタバレ注意)閉じる
+
+#table_color(#e6e7e8)
+|~&image(犬15.png,x=150,y=250)|~&image(犬18.png,x=150,y=250)|~&image(犬17.png,x=150,y=250)|&image(犬38.jpeg,x=150,y=250)|&image(犬39.jpeg,x=150,y=250)|
+|BGCOLOR(#919497):~&color(#ffffff){不明}|BGCOLOR(#919497):~&color(#ffffff){はく　あき&br()ジュラッキー}|BGCOLOR(#919497):~&color(#ffffff){メッキー}|BGCOLOR(#919497):~&color(#ffffff){-}|BGCOLOR(#919497):~&color(#ffffff){-}|
+
+#endregion
+//
+//
+***所有車両
+#region(開く)閉じる
+※画像について、本人様のアバターが映り込んでしまい、うまく撮影できていないものがあります。
+
+#table_color(#e6e7e8)
+|~IMAGE|~車種|~入手日|~車両名|~備考|
+|&image(スクリーンショット 2023-09-01 142250.png,x=200)|🚙|08/|エナス ウィンザードロップ&br()（Enus Windsor Drop）|画家の報酬として納品|
+|&image(犬6.png,x=200)|🚙|08/|ランポ・カスタム&br()（Rumpo Custom）|色を&color(#00ece1,white){●}にカラーリング(10/05)&br()&infobox(title=画像🔍,trigger=click,gravity=west,size=small,url=https://img.atwiki.jp/streamergta5/attach/508/3466/%E7%8A%AC24%20_2.jpeg)|
+|&image(犬7.png,x=200)|🚲|08/|Tri Cycles Race Bike||
+|&image(犬8.png,x=200)|🏍|08/|バティー801&br()（Bati 801）||
+|&image(犬3.png,x=200)|🚙|08/|デザートレイド&br()(Desert Raid)　|[[BIG　SUZUKI]]　カラーリング|
+|&image(犬5.png,x=200)|🚙|08/|サンドキングSWB&br()（Sandking SWB）|[[BIG　SUZUKI]]　カラーリング|
+|&image(犬4.png,x=200)|🏍|08/|Shitzu Hakuchou Drag||
+|&image(犬9.png,x=200)|🚙|08/|Hijak Ruston||
+|&image(犬25.jpeg,x=200)|🚙|08/|Pegassi Reaper&br()|10/11 カラーリング|
+|&image(犬36.jpeg,x=200)|🚙|10/20|キャンピングカー&br()(Vapid Guardian)|誕生日プレゼントで&br()ALLINメンバーにもらった|
+|&image(スクリーンショット 2023-10-23 4.52.36.jpeg,x=200)|🚙|10/23|Jester RR|外装がかっこいい|
+|-|🚁|08/|ハボック&br()（Havok）|画家の報酬として納品|
+|-|🚁|08/|スーパーヴォリト・カーボン&br()（SuperVolito）|画家の報酬として納品&br()→主に[[R　B]]　が使用中|
+|-|🚁|-|スパロウ&br()（sparrow）||
+|&image(犬40.jpeg,x=200)|🚁|-|シースパロウ&br()（sea sparrow）||
+|-|🚁|10/18|スーパーヴォリト&br()（SuperVolito）|ミッション用に[[千代田　ヨウ]]と&br()お金を出し合った|
+|&image(犬42.jpeg,x=200)|🛩|10/21|Western Besra||
+|-|🛥|08/|ロングフィン・パワーボート&br()（Longfin）|画家の報酬として納品|
+|&image(Shirai_vehicle_101trero.jpg,x=200)|🚙|-/|[[Torero XO>>https://w.atwiki.jp/gtav/pages/2821.html]]|[[ダークヒーロー>>安城　成/アンナルイン]]カラーに塗装|
+|&image(Shirai_vehicle_102Jet.jpg,x=200)|🛬|01/|[[Nimbus>>https://w.atwiki.jp/gtav/pages/1632.html]]|[[冬野　雪]]を日本に送るために購入|
+||🚙|04/27|タクシー&br()（taxi）|ブースティングで取得。|
+|&image(Shirai_vehicle_103volatus.png,x=200)|🚁|05/|[[ヴォラタス （Volatus）>>https://w.atwiki.jp/gtav/pages/1633.html#id_607ed66c]]|３機のヴォラタス。ZE_TA,C.R,[[ダークヒーロー>>安城　成/アンナルイン]]カラーにそれぞれ塗装。|
+||🚙|06/25|ライデンGRB&br()（Raiden GRB）|[[月ノ島　ごう]]から譲渡されたゴミ箱カー。|
+||🏍|09/26|サイドカー(SideCar)|[[月ノ島　ごう]]からのプレゼント。|
+
+#region(売却済み)閉じる
+#table_color(#e6e7e8)
+|~IMAGE|~車種|~入手日|~車両名|~備考|
+|&image(犬10.png,x=200)|🚙|08/|Nissan Titan Warrior 2017|画家の報酬として納品&br()実車のため売却|
+|-|🛥|08/20|マルキー&br()（Marquis）|画家の報酬として納品&br()実車のため売却|
+|-|🏎|08/|AUDI 2020  AUDI RS7 SPORTBACK|実車のため売却|
+
+#endregion
+#endregion
+//
+//
+//
+* &font(#56ebf0){&icon_fa(fa-solid fa fa-book fa-flip)} エピソード
+//***2023年
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+・社交性が高く、一般市民・[[ギャング]]問わず様々な住民と交流を広げている。
+・猫カフェで現在２度のスペシャルオブスペシャルを注文した
+・・一度目は[[マクドナルド]]　二度目は[[エスターク・Z・ダークネス>>https://clips.twitch.tv/RoundFaithfulWheelLitFam-LuucYiVJ1LiqU_0W]]
+・最近、街に「ジャック　ザ　立派」という通り魔が出現。無類の強さを誇る。特に白井が狙われる模様。
+・2代目の&infobox(title=ジャック・ザ・立派🔍,trigger=click,gravity=west,size=small,url=https://img.atwiki.jp/streamergta5/attach/508/3789/%E7%8A%AC43.jpeg)を襲名。主に拳で無差別に殴り掛かる。千代田ヨウを標的とする。
+
+・最近、白井さんの視界が雪景色になっている理由が判明❄️&br()&bold(){「魂で話すと、白井がまだ雪...冬から抜け出せてない、冬の楽しかった記憶から抜け出せてなくて、&br()ずっと雪の幻覚を薬で見てるっていうのなんだけど....」}
+・白井さんの雪景色が、ダークヒーローズの仲間であるキックアス（安城成）たちの優しさで雪解けされ、&br()元の景色に戻る。いつか帰ってくるであろう大切な人を一緒に待つために。（2024/08/28）
+・闇メカニック&link(「Glare Gem」){https://w.atwiki.jp/streamergta5/pages/1174.html}に復職（2024/11/08）
+・豆やんを幸せにするためにもということで、航空機ディーラー&link(「豆おじさんのエアークラフト」){https://w.atwiki.jp/streamergta5/pages/1322.html}に就職。（2025/03/28）
+・ここなちゃんからのお誘いにより、メカニック復職！（2025/08/12）
+
+***年表 / 主なエピソード
+****2023年
+#region(開く)閉じる
+#table_style(head=center)
+#table_color(#6c6c6c)
+|~&color(#fff){日付}|~&color(#fff){出来事}|h
+|10/20|・白井の誕生日&br()・新たな格闘流派[[『白千流』を開眼。>>https://clips.twitch.tv/GlamorousGrotesqueShrimpOSsloth-xeI_p4B5Qisv3PzM]]&br()・自身の誕生日プレゼントとして、10億円の戦闘機を購入。&br()その時の名前は神出鬼没のダークヒーロートップワンこと「マンタ・“マンベリック”・シライ海軍大佐」。&br()妻を手羽先にされた恨みがあり、警察を憎んでいる。&br()・ニワトリとシベリアンハスキーをペットとして家族に迎える。ニワトリの名前は「手羽先」、シベリアンハスキーの名前は「ワンマン」。&br()・新人組（2期生）全員から担当日プレゼントとして、キャンピングカー[[「Vapid Guardian,Industrial」>>https://clips.twitch.tv/DifferentClumsyCoyoteAllenHuhu-e_hJ3kU_5bbC3zpX]]を貰う。|
+|10/24|日本からやってきた新たな住民、[[冬野　雪]]ちゃんよりペット（下僕）に任命される|
+|?|なしまさんより、所有のスパローを「変態マッサージ師」と命名される。|
+|10/29|[[チャンク（okame tnk）イン>>https://clips.twitch.tv/SuccessfulHandsomeHyenaPupper-kTmFdbczuj7Nl6cE]]発生|
+|11/04|上田さんから、セダンカー[[「Enus Stafford」>>https://www.twitch.tv/videos/1968572583?t=02h18m21s]]をプレゼントとして貰う。|
+|11/08|[[冬野　雪]]ちゃんより「悪い事をするときはBOSSなのだ」と任命される。|
+|11/18|ダークヒーロー同盟「[[ANNNARUIN（アンナルイン）>>安城　成/あんなるいん]]」に加入。&br()名前は「エグメチーズバーガー」師匠。仲間に「キックアス」と「ヒットガール」がいる。|
+|11/23|ALLIN全員で新たな戦闘服を作成。&br()某ジ〇ン公国製チャイナ服。左肩のマスコットの名前は「白子」。|
+|11/23|12時間ハウジングを乗り越えた末に、「白井流白斗神拳奥義「白閃」」&br()(通称・釘パンチ)を開眼！[[クリップ🎬>>https://www.twitch.tv/shiro_manta/clip/BlushingOddLettuceNerfRedBlaster-H3msDguigsXwmQdg]]|
+|11/25|ProjectYの社長交代による方針変更に伴い、メカニックの卒業を言い渡される。|
+|11/26|・[[IRis]]との抗争(殴り合い)に副将として参加&br()ゴルカとミンゴリー&size(9){(どちらも[[稲葉　ゴン]]のコスプレ)}に勝ったものの、[[なしまさん>>無馬　かな]]によるパンチでやられる。|
+|12/9|日本へ帰国する為、しばしの冬眠。次はサンタが来る時期に戻る予定・・・。|
+|12/12|冬眠期間中ではあるが、久々の帰国（衛星外）。|
+|12/23|100年後から無事帰国。&br()向こうにいる間ににRBより新たなヘリの操縦法を伝授される。&br()名付けて『エアロダンシング』。&br()そして、メカニックに復職したとの事。|
+#table_sorter{even=#e8e8e8,odd=#fff}
+#endregion
+****2024年
+#region(開く)閉じる
+#table_style(head=center)
+#table_color(#6c6c6c)
+|~&color(#fff){日付}|~&color(#fff){出来事}|h
+|1/23|雪　ちゃんが日本に帰国の際送っていく為、[[16億5千万の航空機ニンバス>>https://www.twitch.tv/videos/2041133795?t=08h57m17s]]を購入。|
+|1/26|1/25回で森に行く前に[[ボスにスライディング>>https://www.twitch.tv/videos/2043040030?t=01h20m34s ]]をかました結果、見事クビに。その後、1/26回にて[[6期生として再加入する>>https://www.twitch.tv/videos/2044039679?t=04h31m59s]]。|
+|1/30|ゆきんこ帰国の日。DH同盟3人の絆のペンダンドをそれぞれ持ち、いつかまた出会える日を信じて。白井さんは無事にゆきんこを日本に送り届ける為、雪が舞う空へ羽ばたく・・・。|
+|2/7|念願のメカニックに復職。店名は&bold(){「Glare Gem（グレアジェム）」}。今後の闇メカニックとしての活躍に期待。|
+|4/25|6089番地にて、久々に物件購入。プールとガレージ付きのマイホーム。|
+|4/28|ごうさんの協力もあり、ブースティングにて[[念願のタクシー>>https ://www.twitch.tv/videos/2131187607?t=00h31m41s]]を手に入れる！| 
+|5/5|新たなペットとして、チャウチャウを迎える。名前は「ちゃうわちゃうわ」。|
+|5/8|新たなヘリとして2機目のヴォラタスを購入。ボディのカラーをC・R、ゼッタ・デベジョン色にする。|
+|5/9|新たなヘリとして3機目のヴォラタスを購入。ボディのカラーをダークヒーロー色（ぶいすぽ色、もしくは碧依さくらちゃん色）にする。|
+|5/26|大型などの戦闘服　として、夏使用を新調。その際両腕にタトゥーを入れるが、右腕を入れている途中でタトゥー職人が止めた為、中途半端な四角になってしまう。|
+|5/30|形式上ではあるが、相談役(アンダーボス)に昇格！|
+|5/30|白井・ネマのカップルラブホコントにより、黒亜ネマがALLIN合格！|
+|6/1|今までワンクシーマンクシーとして画家の活動を行ってきたが、今後のシマ取りや白市民との交流を考え、闇メカニックを卒業し新たな職業として『画家』となる事を決断。アトリエも購入。今後もこのロスサントスで長く生きていく為に、白井満太として新たな一歩を踏み出す。|
+#table_sorter{even=#e8e8e8,odd=#fff}
+#endregion
+****2025年
+
+
+//見にくい　と感じたので上記のように表記を変更いたしました。←超感謝！
+
+&bold(){&size(20){エピソード追加大歓迎 }}
+***2023年
+#region(開く)閉じる
+***8月 &size(13){※エピソード募集中}
+#region(開く)
+#region(2023/08/02 衛星外)2023/08/02
+・メカニックの[[まりー　あんとあー]]に電話し、[[JTS>>ジョアンナテクノサービス]]で　車を修理してもらう（[[まりー視点>>https://youtu.be/yYnw0lgkT24?t=319]]）。
+#endregion
+
+#region(2023/08/10[[【ストグラ】真っ白な犬７ ２０時すぎまで>>https://www.twitch .tv/videos/1894945761]])2023/08/10
+・JTSにて[[池島　裕貴]]より割の良い仕事の情報を聞き、 [[猪狩 翔太]]より必要な免許講習を受ける。
+・[[Kohana　Lami]]　[[牧田　ここな]]らと[[テニス>>https://www.twitch.tv/videos/1894945761?t=06h52m50s ]]で交友を交わした
+・[[ウィル　ナイアー]]へ画家の営業をして　いたところ[[ももみ　マルフォイ]]に[[嫉妬>>https://www.twitch.tv/videos/1895103827?t=01h52m14s]]される
+#endregion
+
+#region(2023/08/11[[【ストグラ】真っ白な犬８ ２０時すぎまで>>https:/ /www.twitch.tv/videos/1895798865 ]])2023/08/11
+・[[ポタリン　モンロー]]より建築仕事の良し悪しの情報を得て、その後金策に勤しむ。
+・・現場仕事中　[[ミン　ドリー]]　[[アドミゲス・ハン]]　と交友する
+・・[[海鈴　ナギ]]が既婚と聞き呪いを振りまく
+・ガソリンスタンドを購入[9139　　ガソリン満太ん]　従業員に[[牧田　ここな]]を誘うかと思案する
+・・不労所得を夢見て更なる店舗の購入を考える→目当ての空き店舗がなく一旦見合わせ
+#endregion
+
+#region(2023/08/12[[【ストグラ】真っ白な犬９>>https:// www.twitch.tv/videos/1896789151]])2023/08/12
+・エピソード募集中
+#endregion
+
+#region(2023/08/13[[【ストグラ】真っ白な犬１０ まずは依頼を描く>>https://www.twitch.tv/videos /1897524236]])2023/08/13
+-職業をゴミ収集陰からバス運転手へ変更
+・[[有坂　誉]]より不労所得を得るために[[トラック経営情報>>https://www.twitch.tv/videos/1897524236?t=2h31m00s]](10117)を得る
+・とあるメカニックに会いに行くと百年前の街の住人[[青井　らだお>>https://www.twitch.tv/videos/1897524236?t=4h37m55s ]]と出会う。
+--無職であるが警察に入る予定とのことで話に花を咲かせる。
+-レギオンにて[[海老　男>>https://www.twitch.tv/videos/1897524236?t=10h05m00s]]と出会う。今後　の活動で協力しあう場面もあるのだろうか。
+-3025　トレーラーハウス購入　ハウジングに難航する。
+-[[呪いに　かかるも奇跡的に生還する>>https://www.twitch.tv/videos/1897524236?t=11h22m58s]]
+-久々に眠りから覚めた[[yaku　beni]]と合流[[衣装合わせをする>>https://www.twitch.tv/videos/1897524236?t=08h39m50s]]
+--🌷を摘んでいた[[yaku　beni]]が逮捕される→[[アーカイブ>>https://www.twitch.tv/videos /1897625400?t=06h01m20s]]
+-[[牧田　ここな]]よりガソリンの無料使用の代わりに搬入と割の良い仕事の話を教える約束をする。
+-釣りをする　ために割り勘で買った[[帆船>>https://www.twitch.tv/videos/1897524236?t=03h46m30s]]だったが、一匹も釣れなかったという記憶がある。
+#endregion
+
+//
+#region(2023/08/14　[[衛星外　主にBIG SUZUKI視点>>]])2023/08/14
+-[[本日の衛星外の理由>>https://www.twitch.tv/videos/1898447339?t=02h48m20s]]
+-[[コンビニのオナニーになっ　たらしい（前日の衛星内にて購入）>>https://www.twitch.tv/videos/1898447339?t=02h21m15s]] 
+-[[ダイナーで買ったドクターペッパーについて>>https://www.twitch.tv/videos/1898447339?t=05h49m20s]]
+-[[ガソリン最安値のライバルに出会って>>https://www.twitch.tv/videos/1898447339?t=06h21m20s]]
+#endregion
+
+#region(2023/08/15　[[衛星外　主に牧田ここな　髭野たけーら視点>>]])2023/08/15
+-[[記事金成　熱造]]に[[取材される>>https://www.twitch.tv/videos/1899169785?t=08h06m50s]]
+-途中から衛星配信開始
+#endregion
+
+#region(2023/08/16[[【ストグラ】真っ白な犬１３ >>https://www.twitch.tv/videos/1900193590]])2023/08/16
+・当日の強盗に関しては[[こちらの>>https://w.atwiki.jp/streamergta5/pages/522.html]]エピソード　08/17　#8より。
+#endregion
+
+#region(2023/08/31　衛生外)2023/08/31
+・Mon Dを迎えにプリズンへ行く。その際、Mon Dと共にプリズンに送られて来た千代田 ヨウ(定義の難しい先打ちの責任を取る為の禊プリズン)を熱烈にALLINへ勧誘する。
+・・二人の刑期終了後、警察署まで送った際に“念の為”連絡先を交換し、ゼロ距離で即勧誘の電話をかけた。
+#endregion
+#endregion(mm月)
+***9月 &size(13){※エピソード募集中}
+#region(開く)
+&bold(){※エピソード募集中}
+#endregion
+***10月 &size(13){※エピソード募集中}
+#region (開く)
+&color(red){※エピソード追加大歓迎}　&small(){(タイトル同一だが別日)}
+#region(10/05 [[【ストグラ】真っ白な犬　３６>>https://www.twitch.tv/shiro_manta]])
+・[[月見　結]]、[[千代田　ヨウ]]、[[エスターク>>エスターク・Z・ダークネス]]、[[ヘルアン]]で飛行機ミッション
+・・仲間はほとんど警察にやられてしまい、一旦退避(ここでヘリの練習の成果を見せる)
+・スプレーを消された通知がきたため、仲間と探し、報復しに行くことに。
+・・猫マンコーがスプレーを消しているのを発見し、報告しつつ追跡
+・・仲間が、[[Project Y]]近くにあった[[カニ>>成瀬　カニ]]のパトカーにC4をつけ、近くにパトカーで来ていた[[猫マンゴー>猫　マンゴー]]もろとも爆発させた。(上空からヘリで確認[[🎬>>https://www.twitch.tv/shiro_manta/clip/BlindingSeductiveSheepOSsloth-RI6BZPzdm7YKQlkp]])
+・・警察ヘリを操縦する[[らだお>>青井　らだお]]とヘリ勝負をし、結果、倒すことに成功。
+・・スプレー消しを斡旋[[皇帝>>ニックス　リア]]やることはできなかったが、一時終戦
+・[[月見　結]]、[[千代田　ヨウ]]、[[エスターク>>エスターク・Z・ダークネス]]とオイルリグ襲撃
+・・警察が来ることなく、スムーズに回収し逃げることに成功した。
+・自家用車のチンポ・カスタムの色を&color(#00ece1,white){●}に変えた。
+・客船ミッション
+・・客船にヘリで着地する際、運転していた[[ヨウ>千代田　ヨウ]]がエンジンを切らずに降りてしまい、他３人は制御不能のヘリに乗ったたまま爆発
+・・回収班を無事換金させるため客船でベイトするが、最後に[[猫マンゴー>猫　マンゴー]]にやられる。
+・・[[千代田　ヨウ]]により、換金はできた。
+・スプレー消しで起こった[[Project Y]]付近でのC4爆発について、PYに迷惑をかけてしまったことなどをメンバーで会議
+・・今後、市民に迷惑のかかる場での爆発はできるだけやめること、今回はC4ではなく銃でよかったということなどを話し合った。
+・・その後、皆で[[Project Y]]の社長の[[ジャーク　武士]]に謝罪に行った。
+・皆で試乗会に行った。
+・アジト(新アジト)に帰り、観測者とスマホで撮った写真を見ながら過去を懐かしんだ。
+・本署に行き、[[猫マンゴー>猫　マンゴー]]に描いた絵をあげた。
+・[[エスターク>>エスターク・Z・ダークネス]]が[[無馬　かな]]のためにあげる車のカラーリングの手伝いをした。
+・仲間が客船ミッションで捕まったため、プリズンまで迎えに行った
+・・帰りに[[ヘルアン]]がヘリから落ち、ダウンしたため、病院へ
+・アジトで客船ミッションについて反省会
+・3時以降[[千代田　ヨウ]]と一緒にサイクリングを楽しんだ
+・[[エスターク>>エスターク・Z・ダークネス]]は、無事[[無馬　かな]]にサプライズで車をあげることができたらしく、他メンバーでカジノの駐車場で写真撮影会。
+・・カラーリングを手伝ったため、[[無馬　かな]]に感謝された。
+・・その後、カジノ内でメンバーとゆっくりしていたところ、[[無馬　かな]]に話があると言われ、ついていった。
+・・[[無馬 かな]]は白井をお姫様抱っこし、カジノの屋上のふちに立ったが、なぜか[[無馬　かな]]だけ吹っ飛ばされ、転落。しかし、自分も足が滑って転落してしまった。
+・[[いわさき　そす]]と他メンバーでカジノでギャンブルをし、1000万負けた。
+・[[千代田　ヨウ]]と一緒に薬作り
+・・この世界が終わろうとしている時に、[[千代田　ヨウ]]にユニコーンのバッドでやられ、そのまま就寝した。
+#endregion
+
+#region(10/06[[【ストグラ】真っ白な犬　３６>>https://www.twitch.tv/shiro_manta]])
+・
+・[[チョコラータ　メアリー]]を人質に銀行強盗をする
+・・[[神子田　頼]]とチェイスし、逃げ切った。
+・[[月見　結]]と薬作り
+・客船ミッションの取り合いで、[[MOZU]]、[[anbrella(餡ブレラ)]]、[[LWGP]]とチンチロで勝負
+・・ALLINを代表してチンチロをし、５のゾロ目をだすという、運の良さを発揮した。
+・・そして客船ミッションを受注することができた。&br()&small(){(ここで、変装用の偽名の恐竜のレベルが「ギガノトLv146」から「イビルジョーLv60000」になったが、その後[[千代田　ヨウ]]にチンチロで負け、Lv50000となった)}
+・客船ミッション
+・・飛行機操縦を担当し、みんなを乗せて撤収することができた。
+#endregion
+
+#region(10/09 [[【ストグラ】真っ白な犬　３６>>https://www.twitch.tv/shiro_manta]])
+・車のカラーリングをする。([[エスターク>>エスターク・Z・ダークネス]]の誕生日プレゼント)
+・アジトでメンバーと会議
+・・昨日の[[エスターク>>エスターク・Z・ダークネス]]と[[オルカ・トヴォロ]]のデート？の話などなど、いろんな話をした。
+・リムジンでメンバーと大型ミッション(オイルリグ)の受注に行く。
+・・[[無馬　かな]]が殴り合いで勝ち、無事受注権を獲得。
+・・エスタークのスペシャル[[🎬>>https://clips.twitch.tv/LightWiseFerretDendiFace-fx6JZ4LgIvjtpxz4]]をみんなで見た
+・恐竜に会いに行く[[無馬　かな]]の目を覚まそうと先に手を出したら、返り討ちにされた。
+・病院で治療された後、ピルボックスランドのアトラクションに乗ったが、無傷だった。
+・ヘリを盗みに空港へ行ったが非番の[[青井　らだお]]に会い、「盗むわけがない」と言いながら逃げた。
+・
+・
+・サバゲ―をしに行く
+・カジノで[[BIG　SUZUKI]]や[[クマ　ゴリラ]]とブラックジャック
+#endregion
+
+#region(10/10[[【ストグラ】真っ白な犬 ３８？えすおめでと>>https://www.twitch.tv/shiro_manta]])
+・[[エスターク>>エスターク・Z・ダークネス]]の誕生日プレゼント用の車のカスタムを[[無馬　かな]]と[[JTS>>ジョアンナテクノサービス]]で行う。
+・[[エスターク>>エスターク・Z・ダークネス]]の誕生日を[[ヘルアン]]と[[無馬　かな]]と祝う
+・・誕生日プレゼントに、描いた絵を[[エスターク>>エスターク・Z・ダークネス]]にあげた。
+・・[[無馬　かな]]と[[エスターク>>エスターク・Z・ダークネス]]はプレゼント(偽)として、お揃いの服を作るために服屋に行った。(白井と[[ヘルアン]]もついて行く)
+・・おそろコーデの２人の写真を、プレゼントする車の前で撮る。
+・・カジノの駐車場に行き、本命の車をプレゼントする。涙を流す[[エスターク>>エスターク・Z・ダークネス]]。
+・・ここでまた写真撮影が始まる。
+・アジトでハッピーバースデーマン(？)が大量発生した上、お互いを殴り合い、ダウンした。
+・ALLINのグループチャットをつくった。
+・[[無馬　かな]]にヘッショされ、ダウン。
+・[[Project Y]]に行く。
+・・[[ヘルアン]]が[[エスターク>>エスターク・Z・ダークネス]]にあげた車を見る。確かにこの車はデート用だ。
+・・間違ってメカニックの[[不二子　キャスパー]]を殴ってしまい、病院へ連れて行く。
+・・[[碇　イチカ]]に餌付けされる。(お肉をもらった)
+・・[[不二子　キャスパー]]の犬枠の彼氏になる(？)
+・・[[碇　イチカ]]に絵の金額を聞かれる。いつか依頼されるかも…？
+・・[[ネケ　ニマス]]に銃を打つコツは何かと聞かれる。コンビニ強盗をした時に店員に打ち負けて警察に捕まったらしい。
+・・自車のカラーリング&カスタムをする。
+・・帰り際に[[青井　らだお]]がニトロ補充をしに来たため、らだおのパトカーにALLINのステッカーを貼った。
+・
+・
+・
+#endregion
+
+#region(10/11[[【ストグラ】真っ白な犬 ３９ すこし！進路相談（落ちるかも）>>https://www.twitch.tv/shiro_manta]])
+・市役所へ行き、[[市長>>山下　ひろし]]にメカニックになりたいと相談＆お願いする。
+・・メカニックになっても良いという許可が出た。(犯罪に加担するのは禁止)
+・・アジトに帰る際、嬉しすぎて少々運転が荒くなってしまった。
+・
+・
+・
+#endregion
+
+#region(10/12[[【ストグラ】真っ白な犬 ４０生活リズムが整ってしまった>>https://www.twitch.tv/shiro_manta]])
+・オイルリグ襲撃
+・・起きて早々、パイロットとしてかりだされた。
+・・すべて回収でき、誰もやられることなく撤収＆換金した。
+・[[ボス>>Mon D]]が警察の銃をメンバーに配ったため、[[エスターク>>エスターク・Z・ダークネス]]と「何かおかしい。本物のボスか？」と小声で話す。
+・・[[エスターク>>エスターク・Z・ダークネス]]が[[ボス>>Mon D]]に「ボス、本物ですか？」と聞いたところ、ショットガンで打たれ、やられる。
+・[[トラ美>>なんば　てって]]と頼んでいた花の話をしていたら、[[ボス>>Mon D]]から「([[トラ雄>>街雄　サンリ]]から)奪うの好き？」と言われたが、否定した。
+・・ボスに「奪ってもおもろいと思うよ」と言われた。
+・[[ボス>>Mon D]]にメカニックになれたことを話すと、「じゃあもうメカニックに行くんだぁ」といわれ、すぐさま否定した。最近よくボスにからかわれる。
+・バーガー屋でバーガーと花を買い、絵をもらう。
+・集めておいた花を違う場所に移した。
+・試乗会に行く。
+・ユニオンミッションに4人で挑む。
+・
+・
+・
+#endregion
+
+#region(10/13[[【ストグラ】真っ白な犬 ４１>>https://www.twitch.tv/videos/1950666001]])
+・客船ミッションに行く(白井&[[千代田　ヨウ]])
+・・仲間が使うためのシースパロウをしまおうとしたらプロペラキルにより、ダウン。みんなが同じようにプロペラキルされないように、注意喚起をしたかっただけなんだ。
+・・ヘリが煙をふいてしまったため、[[Prooject Y]]に行き、修理する。
+・・金品を回収後、警察ヘリとチェイスになる。(運転)
+・・長いチェイスののち、バイクで逃走する。(乗り換える際、[[千代田　ヨウ]]はやられてしまった。)
+・・最後はパトカーにアタックされ、飛ばされ、ダウン。&br()山の神々が自分達を守ってくれると信じて山に逃げたが、結局裏切られてしまった；；。
+・ 偽名「MEKA DOG」でメカニックの[[Project Y]]体験入店
+・・副業の画家の仕事をしながらお客さんの対応に追われる。
+・・チンチロをし、[[Project Y]]で働く[[上田　さん]]と[[ネケ　ニマス]]から計600万勝つ
+・・救急隊のイベントを見ながら仕事をする。
+・
+・
+・
+
+#endregion
+
+#region(10/16[[【ストグラ】真っ白な犬 ４１>>https://www.twitch.tv/shiro_manta]])
+・[[ALLIN]]と[[MOZU]]と合同でパシフィック銀行襲撃
+・・使うためのヘリを修理しようと、[[PY>>Project Y]]に行くが、着地に失敗しプロペラキルされダウン。
+・
+・
+#endregion
+
+#region(10/18[[【ストグラ】真っ白な犬 ４３大事な日>>https://www.twitch.tv/shiro_manta]])
+・２手に分かれて飛行機ミッションとオイルリグ襲撃
+・・飛行機の中に行き、物品を回収しようとしたら、飛行機が爆発しダウン。歪みで中止となった。
+・[[無馬　かな]]から、[[月見　結]]と[[千代田　ヨウ]]がアンダーボスとなること、これから組織を大きくしていこうと思っていることを打ち明けられた(５人くらい新人を入れるらしい(*1))。&br()白井は本人の意向と市民との交流が深いことなどから、&u(){あえて、}アンダーボスにせず、相談役的な立ち位置となることになった。&br()&openclose2(show=*1){&small(){　[[安城　成]]、[[坂柳　陣平]]、[[鬼野　ねね]]、[[天草　蒼]]、[[椎花　まほ]]、[[ネケ　ニマス]]　などの名前があがったが、未定。}}
+・航空機ディーラーの[[青井　らだお]]と[[成瀬　力二]]からヘリを購入しようと話をしにいく。
+・・買う予定のスーパーヴォリトより4000万高いからなのか、スーパーヴォリト・カーボンを勧められたが、もうすでに持っていたため、断った。[[成瀬　力二]]はなぜか悔しそうだった。
+・・帰り際に、夢の世界のお金の話になったが、「いくら持っているのか」と聞かれ「黙れ！」と言い話は終わった。やはりお金の話には敏感らしい。
+・・結果、ミッション用に4人乗りのスーパーヴォリトを[[千代田　ヨウ]]とお金を出し合って購入した。
+・ヘリをみんなにに見せると[[ボス>>Mon　D]]は嬉しそうにヘリを操縦していたが、白井、[[月見　結]]、[[ヘルアン]]がプロペラキルされ、ダウン。
+・[[PY>>Project Y]]で、買ったヘリのカラーリングをする。
+・[[ハク　ナツメ]]から依頼がきたため、出張で飛行場へ、ヘリの修理をしにいく。
+・・今度ヘリ勝負をする話になった。
+・薬作りをALLINと[[ヴァンさん>>ヴァン　ダーマー]]でしていたところ、警察が見回りに来て、銃撃戦となる。
+・・みんな検挙された。
+・・何も持っていなかったが共犯となったため、怒る。
+・ユニオンヘイストを行い、成功した。
+・[[餡ブレラ>>anbrella(餡ブレラ)]]がパシフィック銀行強盗をすると聞き、さっきの腹いせに銀行周りの警察をやることにした。後から起きてきたボスもウキウキだった。
+・・[[らだお]]のヘリとチェイス＆アタック
+・・タイミングが合わなかったのか、警察があまりいなかった。
+・3時の瞑想後[[無馬　かな]]になぐられダウン。
+・[[ウェスカーさん>>アルフォート　ウェスカー]]と[[ヴァンさん>>ヴァン　ダーマー]]に最初に出会ったレギオンの駐車場の奥で、前差し上げた絵を対にしたものをあげた。
+・・見返りにお金が欲しかったが、ボスたちはどうやらお金がないらしく、逃げられてしまった。まぁギャングのボスだし仕方ないか…[[🎬>>https://www.twitch.tv/videos/1953993338?t=07h19m20s]]
+#endregion
+
+#region(10/20[[【ストグラ】真っ白な犬 ４４いちおう誕生日>>https://www.twitch.tv/shiro_manta]])
+・[[エスターク>>エスターク・Z・ダークネス]]とアジト屋上でふざけていたら、落ちてダウン
+・みんなと殴り合いの練習
+・バスケをした
+・ペットを飼った&br()鶏「手羽先」&infobox(title=🔍,trigger=click,gravity=west,size=small,url=https://img.atwiki.jp/streamergta5/attach/508/3727/%E7%8A%AC32.jpeg)、ゴールデンレトリバー「ワンマン」&infobox(title=🔍,trigger=click,gravity=west,size=small,url=https://img.atwiki.jp/streamergta5/attach/508/3726/%E7%8A%AC33.jpeg)&br()&size(10){→本当はお着替えできるペットが欲しかったため、ヘリのトランクに収納}&br()シベリアンハスキー「ワンマン(お着替えできる犬)」&infobox(title=🔍,trigger=click,gravity=west,size=small,url=https://img.atwiki.jp/streamergta5/attach/508/3723/%E7%8A%AC%EF%BC%93%EF%BC%91.jpeg)
+・急に仲間に「海に沈める」と言われ、連行される
+・・[[ヘルアン]]から[[うさぎさん>>山田　パルコ]]の歌のサプライズ。すごく心に沁みた。
+・真黒閃と同様の領域に到達したかも(白千流 白井＆[[千代田>>千代田　ヨウ]])
+・[[IRiS]]と合同で飛行機ミッション
+・・逃走の際、[[成瀬　力二]]とヘリチェイス後、銃撃戦で相打ちに。
+・・[[ミン　ドリー]]に逮捕された。🌝
+・アジトで殴り合い練習
+・・白千流で[[無馬　かな]]に数回勝つことができた
+・アジトで誘拐された(本日２回目)
+・・と思ったら[[千代田 ヨウ]]だった。連れ去られた先に[[月見　結]]、[[マイゴ・ニ＝ナリエル]]がいた。🌝
+・・サプライズでALLINの新人の子たちからキャンピングカーをもらった。🌝
+・オイルリグ襲撃→成功🌝
+・[[鬼野　ねね]]にシャンパン、「好きな時に好きな色の花一台分無料でやりますチケット」、1000万をもらった。
+[[PY>>Project Y]]に行く。🌝
+・奇肉屋の出張販売でガチャをした(サイコロを振った)。🌝
+・・123がでたため、特別な肉をもらった。🌝
+・[[ルウ　ギャラクティカ]]からプレゼント&size(10){(食べ物)}と1111111円をもらった🌝
+・[[オルカ　トヴォロ]]から花束をもらった。🌝
+・[[銭形>>銭形　やいち郎]]からプレゼント&size(10){(magical lovely STICK)}をもらった。🌝
+・
+・
+・
+#endregion
+
+#region(10/21[[【ストグラ】真っ白な犬 ４５🌝>>https://www.twitch.tv/shiro_manta]])🌝
+・客船ミッション([[IRiS]]と)　ヘリで参戦(我ながらヘリ操縦は上手くなったと思う)🌝
+・戦闘機を試乗する。
+・・調子に乗っていたら、墜落し、怪我した。
+・・航空機ディーラーの[[鳥野　ぎん]]に電話して相談する🌝
+・[[堕夜　だよ]]に誕生日プレゼントとして970万もらった。
+・生徒会会長になった
+・絵を描きながら文化祭を楽しんだ。
+・10億の戦闘機を自分の誕生日用に買った🌝
+・・他ギャングのミッション中に警察ヘリにちょっかいをかけた
+・
+#endregion
+
+#region(10/22[[【ストグラ】真っ白な犬 ４６>>https://www.twitch.tv/shiro_manta]])🌝
+・戦闘機を乗り回す。戦闘機楽しい☆　別名「&u(){マン}ベリック(&u(){マン}ヴェリック)」
+・・2度墜落([[２回目🎬>>https://clips.twitch.tv/SincereCuriousFungusChocolateRain-scFr0PH--ln5wZkU?tt_content=chat_card&tt_medium=twitch_chat]])
+・他ギャングのミッション中に警察ヘリにちょっかいをかけた②
+・市長主催のハロウィンイベント(謎解き)に参加🌝
+・・祭壇を見つけ、[[エスターク>>エスターク・Z・ダークネス]]が生贄になったが、無駄足になったようだ。
+・・その場にいた[[ウェスカーさん>>アルフォート　ウェスカー]]のシースパロウの浮きの部分に乗っていたら飛ばされてダウンした。[[🎬>>https://clips.twitch.tv/AffluentImpossibleClipzCharlieBitMe-h7SF8sC1UIrZRFBz]]
+・・儀式に参加すると、1人にされた。
+・・ゾンビが襲ってきたが、黒閃で応戦。しかし、ゾンビは強く、やられてしまった。
+・・すると、元の世界に戻り、手持ちにスニッカーズと金のインゴットが入っていた。不思議な体験だった。
+・[[ALLIN]]、[[anbrella(餡ブレラ)]]、[[IRiS]]の３ギャング合同でユニオンヘイスト
+・・警察とヘリチェイスした後、ダウン
+・・助けてもらおうとめちゃくちゃ叫び、運良く[[エド・エトワール]]に起こしてもらった
+・[[PY>>project Y]]に行き、メカニックの仕事をする。
+・カジノで遊ぶ。
+・オイルリグ襲撃
+・皇帝に絵をあげた。
+・薬を作る。
+・レギオン駐車場でキャンピングカーに乗ろうとしたら、&br()近くにいた人が下敷きになってしまった。→「キャンピングスタンプ」
+・客船ミッションに戦闘機で参加🌝
+・・警察ヘリにアタックし、どちらも爆発した。任務完了。[[🎬>>https://clips.twitch.tv/SecretiveFineRedpandaDBstyle-se59cc19St2SkjMT]]
+・新しい車を買い、カスタムもした。
+#endregion
+
+#region(10/23[[【ストグラ】真っ白な犬 ４７特攻隊長>>https://www.twitch.tv/shiro_manta]])
+○今日は新たな花の採取場所が追加された。
+・客船ミッションに戦闘機で参加。🌝
+・[[エス>>エスターク・Z・ダークネス]]が花の場所を見つけたらしい。
+・オイルリグ襲撃🌝
+・・白井が受注し戦闘機で向かうが、霧が濃すぎたため、視界にいきなり海が出てきてそのまま水没。その後、溺死した。申し訳ないとは思っていr…[[🎬>>https://clips.twitch.tv/SassyGoodCobblerRalpherZ-eFVk3u1RLAzgROaP]]
+・・[[天使(マイゴ・ニ＝ナリエル)>>マイゴ・ニ＝ナリエル]]に助けられた。
+・・2度目の挑戦。物品を回収し、やられた仲間を抱えて無事に逃げ切ることができた。🌝
+・・別の場所で[[ナリエル>>マイゴ・ニ＝ナリエル]]に[[ヨウ>>千代田　ヨウ]]を起こしてもらった後、ヘリに乗ろうとしたら、後ろのプロペラがなくなっていた。
+・・離陸の際にヘリの機体がめちゃくちゃ傾いたが、うまく立て直した。&br()「俺の上手さがでたな」
+・・換金所で久しぶりに[[アボ>>神保　アボ]]に会った
+・今日見つけた場所でお花摘みする。
+・薬を作る。🌝
+・新メンバー候補と面接など。🌝
+・・面接の帰りにヘリに乗ったら、急にネズミ筋が反応しなくなり、そのままプロペラキルされる。
+・[[安城　成]]のALLIN加入について、「よろしくお願いします」という返事をもらった。うれしかった。
+・服屋で冬服をつくったあと、[[安城　成]]をプロペラキルをしてしまった。
+・[[安城>>安城　成]]と一緒にオイルリグ襲撃
+・・霧はあまり濃くなく、高度を見ながら飛べたので、今回は水没はしなかった。そして無事帰還。
+・
+・
+・
+#endregion
+
+#region(10/24[[【ストグラ】真っ白な犬 ４８>>https://www.twitch.tv/shiro_manta]])
+・レギオンの駐車場で新たな住民[[冬野　雪]]に会う。街を案内することになった。
+・・ピルボックス病院に行く。
+・・[[ストリップバー>>Happy Nutty Bunny]]に行く。
+・・遊園地の方に行こうとしたら、乗っているキャンピングカーで人をひいてしまった。
+・・[[レストラン>>Urashima]]に行ったが、注文する前に[[冬野　雪]]が餓死してしまった。🌝
+・・
+・
+・
+・
+・
+#endregion
+
+#region(10/25[[【ストグラ】真っ白な犬 ４９🌝>>https://www.twitch.tv/shiro_manta]])
+・
+・
+・飛行機ミッション　歪みで中止
+・ミッション受注しようとしたが、離陸の際にヘリ爆発。[[🎬>>https://clips.twitch.tv/TangibleFamousSardineSuperVinlin-SyTVECM_lLkrYEsj]]
+・ユニオンへストに４人で挑む　失敗に終わった
+・[[千代田>>千代田ヨウ]]と[[椎花まほ]]とキャンピングカーに乗って面談している時に盗撮をした。[[🎬>>https://clips.twitch.tv/WonderfulPeacefulShingleDxAbomb-0T_ckWvNEBuxG1Df]]
+・・その後、[[ALLIN]]メンバーで[[椎花まほ]]の銃の腕と無線の報告の聞くため、サバゲーに行く。
+・・次にカジノに行く。キャンピングカーで移動中、バイクの真新サトシをはねる。カジノでは間違えて一億円賭けてしまい、負けた。合計2億円負。
+・・しかし、ボスが勝ってくれたおかげで前貸していた二億円が返ってきたため、±０となった。うれしい。
+・・最終的に[[椎花まほ]]は[[ALLIN]]に入った🌸が、それと同時に[[ボス>>Mon　D]]によってダウンし、お金も奪われた
+・ミッション　白井だけ逮捕されず
+・アジトで[[千代田ヨウ]]にキスしようとしたら[[椎花まほ]]にしてしまった。
+・３ギャング合同([[ボス>>Mon　D]]、[[ヘルアン]]、[[ヴァンさん>>ヴァン　ダーマー]]、[[ウェスカーさん>>アルフォート　ウェスカー]])で行われた客船ミッションに戦闘機で対警察ヘリとして参加
+・・減速しすぎてエンジンが停止してしまい、浜辺に墜落。[[🎬>>https://clips.twitch.tv/SmallCleanGerbilPanicVis-X9UzAsWFPhkgty4F]]
+・・しかし、[[ボス>>Mon　D]]の活躍により警察全滅で勝利。
+・・「戦闘機は誰が乗っていたのか」という質問に対し、「わからない」と答えた。「マンタ・“マンベリック”」の正体は隠したままにしたい。
+・
+・
+・
+#endregion
+
+#region(10/26[[【ストグラ】真っ白な犬 ４９>>https://www.twitch.tv/shiro_manta]])
+・[[PY>>Project Y]]に正式採用された🌸
+・
+・
+#endregion
+
+#region(10/27[[【ストグラ】真っ白な犬 ４９>>https://www.twitch.tv/shiro_manta]])
+・[[ALLIN]]、[[anbrella>>anbrella(餡ブレラ)]]、[[MOZU]]、[[IRiS]]で同時に大型ミッション
+・・白井はユニオンにヘリで参加
+・
+#endregion
+
+#region(10/28[[【ストグラ】真っ白な犬 ５０>>https://www.twitch.tv/shiro_manta]])
+・[[ALLIN]]、[[anbrella>>anbrella(餡ブレラ)]]、[[MOZU]]、[[IRiS]]同時にユニオンヘイスト＆パシフィック銀行襲撃
+・・パシフィックにヘリ偵察
+・アジトでコント[[見事なコント集団ALLIN🎬>>https://clips.twitch.tv/ApatheticSpineyChinchillaRalpherZ-w2rmnD1fkNvwJoQS]][[ブレードキル祭り🎬>>https://clips.twitch.tv/ConsiderateAmusedRabbitNinjaGrumpy-VhME1L9rBhJgBWks]]
+・メンバーでバスケをした。
+・5時の強制瞑想前に、ボスに歪みで余分に取れてしまったお金を渡していなかったことがなぜかバレ、話し合いをしている最中に世界が終わってしまった。&size(12){(他ギャングが、六法で報告していなかったため、とりあえず保管しておこうということだったが、伝達ミスや思い違いにより、メンバー同士で誤解が生まれてしまったらしい)}
+#endregion
+
+#region(10/29[[【ストグラ】真っ白な犬 ５１>>https://www.twitch.tv/shiro_manta]])
+・
+・
+・オイルリグ襲撃
+・・帰り際に、ヘリに乗ると警察ヘリがアタックしてきたが、持ち前の運転技術で逃げ切ることに成功
+・[[PY>>Project　Y]]にいたところ、市長から警告文が来た[[詳しくはこちら🎬>>https://clips.twitch.tv/SullenFamousAnteaterAMPTropPunch-43cdgi_z47s215Qr]]&br()そして、「おかめち○こ」と囁かれた。&size(10){[[市長視点🎬>>https://www.twitch.tv/shobosuke/clip/ClumsyBetterSnakeChocolateRain-T6VkbwIybZ8Rkl5T}]]}
+・
+・
+#endregion
+#endregion
+***11月 &size(13){※エピソード募集中}
+#region(開く)🌝
+&bold(){※エピソード募集中}
+#region(11/03[[【ストグラ】真っ白な犬 ５２>>https://www.twitch.tv/shiro_manta]])
+・
+#endregion🌝
+
+#region(11/04[[【ストグラ】真っ白な犬 ５３>>https://www.twitch.tv/videos/1968572583]])
+・ハウジングをする。
+#endregion🌝
+
+#region(11/06[[【ストグラ】真っ白な犬５４>>https://www.twitch.tv/videos/1970133613]])
+・
+#endregion
+
+#region(11/11[[【ストグラ】真っ白な犬５５ゆるさん>>https://www.twitch.tv/videos/1973548150]])
+・
+#endregion🌝
+
+#region(11/12[[【ストグラ】真っ白な犬５６>>https://www.twitch.tv/videos/1975458731]])
+・
+#endregion
+🌝
+#region(11/17[[【ストグラ】真っ白な犬５７>>https://www.twitch.tv/videos/1979707074]])
+#endregion
+#endregion
+
+#endregion
+//
+//
+//#endregion(2023年)
+//
+//🌝
+//↓コピー用素材さ
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+* &font(#56ebf0){&icon_fa(fa-solid fa fa-fighter-jet fa-spin)} アーカイブ
+現在、ストグラでの配信アーカイブは一部を除いて非公開にされている。
+※★マークはアーカイブ視聴可能なダイジェスト化リンク追加済み
+
+☆ストグラSeason1☆
+***2023年
+#region(開く)
+***8月
+#region(開く,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2023/08/03|[[【ストグラ】真っ白な犬>>https://www.twitch.tv/videos/1889013639]]||初配信|
+|2023/08/04|[[【ストグラ】真っ白な犬2>>https://www.twitch.tv/videos/1889843125]]|||
+|2023/08/05|[[【ストグラ】真っ白な犬3>>https://www.twitch.tv/videos/1890805963]]||新たな資金調達を発見|
+|2023/08/06|[[【ストグラ】真っ白な犬4>>https://www.twitch.tv/videos/1942889039]]★|||
+|2023/08/07|[[【ストグラ】真っ白な犬5>>https://www.twitch.tv/videos/1892378768]]|||
+|2023/08/08|[[【ストグラ】真っ白な犬6 依頼されたイラストをかく>>https://www.twitch.tv/videos/1893193219]]|||
+|2023/08/10|[[【ストグラ】真っ白な犬７ ２０時すぎまで>>https://www.twitch.tv/videos/1894945761]]|||
+|2023/08/11|[[【ストグラ】真っ白な犬８ ２０時すぎまで>>https://www.twitch.tv/videos/1895798865]]|||
+|2023/08/12|[[【ストグラ】真っ白な犬９>>https://www.twitch.tv/videos/1896789151]]||とある構想への分岐点|
+|2023/08/13|[[【ストグラ】真っ白な犬１０ まずは依頼を描く>>https://www.twitch.tv/videos/1897524236]]|||
+|2023/08/15|[[【ストグラ】真っ白な犬１１ きょうもいきる>>https://www.twitch.tv/videos/1899404573]]|||
+|2023/08/16|[[【ストグラ】真っ白な犬１３ >>https://www.twitch.tv/videos/1900193590]]|||
+|2023/08/17|[[【ストグラ】真っ白な犬１４ >>https://www.twitch.tv/videos/1902056792]]|||
+|2023/08/18|[[【ストグラ】真っ白な犬１５ >>https://www.twitch.tv/videos/1902803639]]|||
+|2023/08/20|[[【ストグラ】真っ白な犬１６ 絵を描く　>>https://www.twitch.tv/videos/1903653076]]|||
+|2023/08/22|[[【ストグラ】チームロゴお披露目　>>https://www.twitch.tv/videos/1904867263]]|||
+|2023/08/24|[[【ストグラ】真っ白な犬、はんざいしたいね　>>https://www.twitch.tv/videos/1907294506]]|||
+|2023/08/26|[[【ストグラ】真っ白な犬、はんざいしたいね>>https://www.twitch.tv/videos/1908265644]]||タイトル同一だが別日|
+|2023/08/26|[[【ストグラ】真っ白な犬18　>>https://www.twitch.tv/videos/1908935429]]|||
+|2023/08/27|[[【まんた３D】ちょっとみてくださいこれ　>>https://www.twitch.tv/videos/1909767158?t=01h45m01s]]|||
+|2023/08/28|[[【ストグラ】真っ白な犬２０合コンだけ >>https://www.twitch.tv/videos/1910770613]]|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+***9月
+#region(開く,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2023/09/01|[[【ストグラ】真っ白な犬２１ただいま>>https://www.twitch.tv/videos/1914157815]]|||
+|2023/09/04|[[【ストグラ】真っ白な ２２？>>https://www.twitch.tv/videos/1916813548]]|||
+|2023/09/05|[[【ストグラ】真っ白な犬 ２３>>https://www.twitch.tv/videos/1917651920]]|||
+|2023/09/06|[[【ストグラ】真っ白な犬 ２４>>https://www.twitch.tv/videos/1918475584]]|||
+|2023/09/09|[[【ストグラ】真っ白な犬 ２５ 祭りの後は強盗4>>https://www.twitch.tv/videos/1920295058]]|||
+|2023/09/18|[[【ストグラ】真っ白な犬 ２６ おひさしぶり>>https://www.twitch.tv/videos/1927752704]]|||
+|2023/09/19|[[【ストグラ】真っ白な犬 ２７もうちょい>>https://www.twitch.tv/videos/1928939654]]|||
+|2023/09/19|[[【ストグラ】真っ白な犬 ２８>>https://www.twitch.tv/videos/1929510664]]|||
+|2023/09/21|[[【ストグラ】真っ白な犬 ２９9>>https://www.twitch.tv/videos/1930328343]]|||
+|2023/09/22|[[【ストグラ】真っ白な犬 ３０>>https://www.twitch.tv/videos/1931368343]]|||
+|2023/09/22|[[【ストグラ】真っ白な犬 ３１>>https://www.twitch.tv/videos/1932131405]]|||
+|2023/09/23|[[【ストグラ】真っ白な犬 ３２>>https://www.twitch.tv/videos/1932976607]]|||
+|2023/09/24|[[【ストグラ】真っ白な犬 ３３>>https://www.twitch.tv/videos/1934005422]]|||
+|2023/09/27|[[【ストグラ】真っ白な犬 ３４生きてるといろんなことがある>>https://www.twitch.tv/videos/1936451993]]|||
+|2023/09/30|[[【ストグラ】真っ白な犬 ３５>>https://www.twitch.tv/videos/1938931531]]|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+***10月
+#region(開く,close)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2023/10/01|[[【ストグラ】真っ白な犬 抗争だ！>>https://www.twitch.tv/videos/1939895375]]||餡ブレラとの抗争|
+|2023/10/05|[[【ストグラ】真っ白な犬 ３６>>https://www.twitch.tv/videos/1943123803]]|||
+|2023/10/06|[[【ストグラ】真っ白な犬 ３６>>https://www.twitch.tv/videos/1943963385]]||&small(){(タイトル同一だが別日)}|
+|2023/10/09|[[【ストグラ】真っ白な犬 ３６>>https://www.twitch.tv/shiro_manta]]||&small(){(タイトル同一だが別日)}|
+|2023/10/10|[[【ストグラ】真っ白な犬 ３８？えすおめでと>>https://www.twitch.tv/shiro_manta]]|||
+|2023/10/11|[[【ストグラ】真っ白な犬 ３９ すこし！進路相談（落ちるかも）>>https://www.twitch.tv/shiro_manta]]|||
+|2023/10/12|[[【ストグラ】真っ白な犬 ４０生活リズムが整ってしまった>>https://www.twitch.tv/shiro_manta]]|||
+|2023/10/13|[[【ストグラ】真っ白な犬 ４１>>https://www.twitch.tv/videos/1950666001]]|||
+|2023/10/16|[[【ストグラ】真っ白な犬 ４１>>https://www.twitch.tv/shiro_manta]]||&small(){(タイトル同一だが別日)}|
+|2023/10/18|[[【ストグラ】真っ白な犬 ４３大事な日>>https://www.twitch.tv/shiro_manta]]|||
+|2023/10/20|[[【ストグラ】真っ白な犬 ４４いちおう誕生日>>https://www.twitch.tv/shiro_manta]]|||
+|2023/10/21|[[【ストグラ】真っ白な犬 ４５>>https://www.twitch.tv/shiro_manta]]|||
+|2023/10/22|[[【ストグラ】真っ白な犬 ４６>>https://www.twitch.tv/shiro_manta]]|||
+|2023/10/23|[[【ストグラ】真っ白な犬 ４７特攻隊長>>https://www.twitch.tv/shiro_manta]]|||
+|2023/10/24|[[【ストグラ】真っ白な犬 ４８>>https://www.twitch.tv/videos/2002363622]]★|||
+|2023/10/25|[[【ストグラ】真っ白な犬 ４９>>https://www.twitch.tv/shiro_manta]]|||
+|2023/10/26|[[【ストグラ】真っ白な犬 ４９>>https://www.twitch.tv/shiro_manta]]||&small(){(タイトル同一だが別日)}|
+|2023/10/27|[[【ストグラ】真っ白な犬 ４９>>https://www.twitch.tv/shiro_manta]]||&small(){(タイトル同一だが別日)}|
+|2023/10/28|[[【ストグラ】真っ白な犬 ５０>>https://www.twitch.tv/shiro_manta]]|||
+|2023/10/29|[[【ストグラ】真っ白な犬 ５１>>https://www.twitch.tv/shiro_manta]]|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***11月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2023/11/03|[[【ストグラ】真っ白な犬 ５２>>https://www.twitch.tv/videos/1967376033]]|||
+|2023/11/04|[[【ストグラ】真っ白な犬 ５３>>https://www.twitch.tv/videos/1968572583]]|||
+|2023/11/06|[[【ストグラ】真っ白な犬５４>>https://www.twitch.tv/videos/1970133613]]|||
+|2023/11/10|[[【ストグラ】真っ白な犬５５ゆるさん>>https://www.twitch.tv/videos/1973548150]]|||
+|2023/11/12|[[【ストグラ】真っ白な犬５６>>https://www.twitch.tv/videos/1975458731]]|||
+|2023/11/17|[[【ストグラ】真っ白な犬５７>>https://www.twitch.tv/videos/2002507216]]★|||
+|2023/11/18|[[【ストグラ】真っ白な犬５８ >>https://www.twitch.tv/videos/1980660759]]|||
+|2023/11/19|[[【ストグラ】真っ白な犬５９>>|https://www.twitch.tv/videos/1981535640]]|||
+|2023/11/22|[[【ストグラ】真っ白な犬６０>>https://www.twitch.tv/videos/1984276281]]|||
+|2023/11/23|[[【ストグラ】真っ白な犬６１ >>https://www.twitch.tv/videos/2002508847]]★|||
+|2023/11/24|[[【ストグラ】真っ白な犬６２>>https://www.twitch.tv/videos/1985862357]]|||
+|2023/11/25|[[【ストグラ】真っ白な犬６３>>https://www.twitch.tv/videos/1986738078]]|||
+|2023/11/26|[[【ストグラ】真っ白な犬６４>>https://www.twitch.tv/videos/1987653285]]|||
+|2023/11/30|[[【ストグラ】真っ白な犬６５ぱしだけ>>https://www.twitch.tv/videos/1991139323]]|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***12月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2023/12/1|[[【ストグラ】真っ白な犬６６>>https://www.twitch.tv/videos/2003329837]]★|||
+|2023/12/2|[[【ストグラ】真っ白な犬６７>>https://www.twitch.tv/videos/1992933182]]|||
+|2023/12/3|[[【ストグラ】真っ白な犬６８>>https://www.twitch.tv/videos/1994010462]]|||
+|2023/12/4|[[【ストグラ】真っ白な犬６９>>https://www.twitch.tv/videos/2002655860]]★|||
+|2023/12/5|[[【ストグラ】真っ白な犬７０>>https://www.twitch.tv/videos/1995820157?t=0h0m1s]]|||
+|2023/12/7|[[【ストグラ】真っ白な犬７１>>https://www.twitch.tv/videos/1997500323]]|||
+|2023/12/9|[[【ストグラ】真っ白な犬７２>>https://www.twitch.tv/videos/1999344731]]|||
+|2023/12/22|[[【ストグラ】ひさしぶりの犬>>https://www.twitch.tv/videos/2011110144]]|||
+|2023/12/23|[[【ストグラ】真っ白な犬７４>>https://www.twitch.tv/videos/2011759097]]|||
+|2023/12/24|[[【ストグラ】チキン冷めた>>https://www.twitch.tv/videos/2012591522]]||その１|
+|2023/12/25|[[【ストグラ】チキン冷めた>>https://www.twitch.tv/videos/2012783675]]||その２|
+|2023/12/28|[[【ストグラ】真っ白な犬、大型だけ>>https://www.twitch.tv/videos/2015923208]]||その１|
+|2023/12/28|[[【ストグラ】真っ白な犬、大型だけ>>https://www.twitch.tv/videos/2016011185]]||その２|
+|2023/12/30|[[【ストグラ】真っ白な犬、空を飛ぶ>>https://www.twitch.tv/videos/2017862117]]|||
+|2023/12/31|[[【ストグラ】今年最後の犯罪>>https://www.twitch.tv/videos/2018868816]]|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion(2023)
+
+***2024年
+#region(開く)
+***１月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/1/3|[[【ストグラ】あけましておめでとうございます>>https://www.twitch.tv/videos/2021428988]]|||
+|2024/1/4|[[【ストグラ】白い犬>>https://www.twitch.tv/videos/2022417650]]|||
+|2024/1/5|[[【ROBOQUEST】アマルとロボクエスト>>https://www.twitch.tv/videos/2023302347?t=01h33m58s]]|||
+|2024/1/6|[[【ストグラ】布でも集めるか>>https://www.twitch.tv/videos/2024403061]]|||
+|2024/1/10|[[【ストグラ】空に行きたい>>https://www.twitch.tv/videos/2030062028]]★|||
+|2024/1/12|[[【ストグラ】空になりたい>>https://www.twitch.tv/videos/2040031432]]★|||
+|2024/1/14|[[【ストグラ】一瞬だけまた起きる>>https://www.twitch.tv/videos/2032208000]]||その１|
+|2024/1/14|[[【ストグラ】また起きた>>https://www.twitch.tv/videos/2040032108]]★||その２|
+|2024/1/15|[[【ストグラ】進める>>https://www.twitch.tv/videos/2033279242]]|||
+|2024/1/16|[[【ストグラ】大型だけやる>>https://www.twitch.tv/videos/2034178872]]||その１|
+|2024/1/16|[[【ストグラ】大型だけやる>>https://www.twitch.tv/videos/2034239488]]||その２|
+|2024/1/16|[[【ストグラ】話をする>>https://www.twitch.tv/videos/2034308199]]||その３|
+|2024/1/17|[[【ストグラ】うたたね>>https://www.twitch.tv/videos/2040032619]]★|||
+|2024/1/18|[[【ストグラ】ねたりおきたり>>https://www.twitch.tv/videos/2036114564]]||その１|
+|2024/1/18|[[【ストグラ】ねたりおきたり>>https://www.twitch.tv/videos/2036166973]]||その２|
+|2024/1/20|[[【ストグラ】空がすき>>https://www.twitch.tv/videos/2037068688]]||その１|
+|2024/1/20|[[【ストグラ】空がすき>>https://www.twitch.tv/videos/2037089491]]||その２|
+|2024/1/21|[[【ストグラ】空がすき>>https://www.twitch.tv/videos/2038161776]]|||
+|2024/1/21|[[【ストグラ】すごくねむい>>https://www.twitch.tv/videos/2039173949]]||その１|
+|2024/1/21|[[【ストグラ】すごくねむい>>https://www.twitch.tv/videos/2039386062]]||その２|
+|2024/1/23|[[【ストグラ】やらなければいけないことがある>>https://www.twitch.tv/videos/2048708235]]★||その１|
+|2024/1/24|[[【ストグラ】いややっぱ気になるわ>>https://www.twitch.tv/videos/2048711193]]★||その２|
+|2024/1/24|[[【ストグラ】9時に森にいく→お絵描きコラボ→森>>https://www.twitch.tv/videos/2042093358]]|||
+|2024/1/25|[[【ストグラ】後で森に行く>>https://www.twitch.tv/videos/2043040030]]|||
+|2024/1/26|[[【LOL】絆パワー本番【The k4sen】>>https://www.twitch.tv/videos/2044039679?t=03h45m41s]]|||
+|2024/1/29|[[【ストグラ】帰還、すこししたら一旦>>https://www.twitch.tv/videos/2047020917]]|||
+|2024/1/30|[[【ストグラ】また逢う日まで>>https://www.twitch.tv/videos/2048708939]]★|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***２月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/2/1|[[【ストグラ】帰国>>https://www.twitch.tv/videos/2049889937]]|||
+|2024/2/2|[[【ストグラ】犬>>https://www.twitch.tv/videos/2050799820]]|||
+|2024/2/3|[[【ストグラ】犬2>>https://www.twitch.tv/videos/2051990859]]|||
+|2024/2/4|[[【ストグラ】犬３>>https://www.twitch.tv/videos/2052907081]]|||
+|2024/2/6|[[【ストグラ】犬４>>https://www.twitch.tv/videos/2054782178]]|||
+|2024/2/7|[[【ストグラ】犬５>>https://www.twitch.tv/videos/2055729840]]|||
+|2024/2/8|[[【ストグラ】犬６>>https://www.twitch.tv/videos/2056725562]]|||
+|2024/2/9|[[【ストグラ】犬７>>https://www.twitch.tv/videos/2057646797]]|||
+|2024/2/10|[[【ストグラ】犬８>>https://www.twitch.tv/videos/2058624568]]|||
+|2024/2/11|[[【ストグラ】犬９>>https://www.twitch.tv/videos/2059671334]]|||
+|2024/2/12|[[【ストグラ】犬１０大型だけ>>https://www.twitch.tv/videos/2060570012]]|||
+|2024/2/12|[[【ストグラ】犬１０大型だけ>>https://www.twitch.tv/videos/2060788035]]|||
+|2024/2/13|[[【ストグラ】一瞬助っ人>>https://www.twitch.tv/videos/2061508200]]||その１|
+|2024/2/13|[[【ストグラ】一瞬助っ人>>https://www.twitch.tv/videos/2061556610]]||その２|
+|2024/2/13|[[【ストグラ】一瞬助っ人>>https://www.twitch.tv/videos/2061586207]]||その３|
+|2024/2/15|[[【ストグラ】一瞬助っ人>>https://www.twitch.tv/videos/2063303411]]|||
+|2024/2/16|[[【ストグラ】犬１２>>https://www.twitch.tv/videos/2064436432]]|||
+|2024/2/17|[[【ストグラ】犬１３>>https://www.twitch.tv/videos/2065294244]]|||
+|2024/2/18|[[【ストグラ】犬１４>>https://www.twitch.tv/videos/2066346995]]|||
+|2024/2/20|[[【ストグラ】犬１４>>https://www.twitch.tv/videos/2068283807?t=03h25m04s]]|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***３月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/3/3|[[【ストグラ】犬１５>>https://www.twitch.tv/videos/2078881880]]|||
+|2024/3/4|[[【ストグラ】犬１６>>https://www.twitch.tv/videos/2080001880]]|||
+|2024/3/5|[[【ストグラ】犬１７>>https://www.twitch.tv/videos/2081829639]]|||
+|2024/3/8|[[【ストグラ】犬１８すこし>>https://www.twitch.tv/videos/2084668007]]||その１|
+|2024/3/8|[[【ストグラ】犬１８すこし>>https://www.twitch.tv/videos/2084731686]]||その２|
+|2024/3/9|[[【ストグラ】犬１９すこし>>https://www.twitch.tv/videos/2085701179]]|||
+|2024/3/15|[[【ストグラ】犬２０>>https://www.twitch.tv/videos/2091355839]]|||
+|2024/3/17|[[【ストグラ】佐々木 一日目>>https://www.twitch.tv/videos/2093325714?t=08h07m22s]]||※途中から白井さん登場です|
+|2024/3/19|[[【ストグラ】犬２１>>https://www.twitch.tv/videos/2095157942]]||その１|
+|2024/3/20|[[【ストグラ】犬２１>>https://www.twitch.tv/videos/2095473882]]||その２|
+|2024/3/21|[[【ストグラ】佐々木 ２日目>>https://www.twitch.tv/videos/2096160104?t=06h01m54s]]||※途中から白井さん登場です|
+|2024/3/21|[[【ストグラ】佐々木 ３日目>>https://www.twitch.tv/videos/2097080393?t=06h01m10s]]||※途中から白井さん登場です|
+|2024/3/22|[[【ストグラ】犬 ２２>>https://www.twitch.tv/videos/2098048599]]|||
+|2024/3/24|[[白井２３>>https://www.twitch.tv/videos/2100097373]]|||
+|2024/3/31|[[【ストグラ】犬２４>>https://www.twitch.tv/videos/2106864400]]||その１|
+|2024/4/1|[[【ストグラ】犬２４>>https://www.twitch.tv/videos/2107160721]]||その２|
+|2024/4/1|[[【ストグラ】犬２４>>https://www.twitch.tv/videos/2107481611]]||その３|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***４月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/4/17|[[犬２５ すこしかも>>https://www.twitch.tv/videos/2123925393]]|||
+|2024/4/23|[[犬２６>>https://www.twitch.tv/videos/2127489854]]|||
+|2024/4/24|[[犬２７>>https://www.twitch.tv/videos/2128216581]]|||
+|2024/4/25|[[犬２８>>https://www.twitch.tv/videos/2129199083]]|||
+|2024/4/27|[[犬２９>>https://www.twitch.tv/videos/2130092582]]|||
+|2024/4/28|[[犬３０ タクシー！？>>https://www.twitch.tv/videos/2131187607]]|||
+|2024/4/29|[[犬３１>>https://www.twitch.tv/videos/2131955747]]|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***5月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/5/3|[[犬３２>>https://www.twitch.tv/videos/2136083859]]|||
+|2024/5/4|[[犬３３>>https://www.twitch.tv/videos/2137005286]]|||
+|2024/5/5|[[ちょっと話そう>>https://www.twitch.tv/videos/2137663888?t=05h20m52s]]||途中から白井さん起床ぉ！|
+|2024/5/8|[[犬３４>>https://www.twitch.tv/videos/2140488892]]|||
+|2024/5/9|[[犬３５>>https://www.twitch.tv/videos/2141193971]]|１||
+|2024/5/11|[[犬３６ RTX4090の犬>>https://www.twitch.tv/videos/2142234977]]|１||
+|2024/5/11|[[犬３７>>https://www.twitch.tv/videos/2142891577]]|||
+|2024/5/13|[[犬３８>>https://www.twitch.tv/videos/2144092185]]|||
+|2024/5/14|[[犬３９>>https://www.twitch.tv/videos/2145476713]]|||
+|2024/5/15|[[犬４０ちょっとだけ>>https://www.twitch.tv/videos/2146289227]]|||
+|2024/5/17|[[犬４１>>https://www.twitch.tv/videos/2147935644]]|||
+|2024/5/18|[[犬４２>>https://www.twitch.tv/videos/2148889558]]|||
+|2024/5/19|[[犬４３>>https://www.twitch.tv/videos/2149701757]]|||
+|2024/5/21|[[犬４５ 最近chromeよりexplorerのほうが軽いことに気づいた>>https://www.twitch.tv/videos/2151300637]]||その１|
+|2024/5/22|[[犬４５ 少しだらだら>>https://www.twitch.tv/videos/2151624885]]||その２|
+|2024/5/22|[[犬４６>>https://www.twitch.tv/videos/2152201696]]|||
+|2024/5/24|[[犬４７>>https://www.twitch.tv/videos/2153932969]]|||
+|2024/5/26|[[犬４８>>https://www.twitch.tv/videos/2155710988]]|||
+|2024/5/29|[[犬４９ハウジング>>https://www.twitch.tv/videos/2157644185]]||その１|
+|2024/5/29|[[犬５０>>https://www.twitch.tv/videos/2158258146]]||その２|
+|2024/5/30|[[犬５１ねみ～>>https://www.twitch.tv/videos/2159143586]]|||
+|2024/5/31|[[犬５２寝坊>>https://www.twitch.tv/videos/2159965459]]|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***６月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/6/1|[[犬５３>>https://www.twitch.tv/videos/2160781099]]|2||
+|2024/6/2|[[犬５４>>https://www.twitch.tv/videos/2161684776]]|0||
+|2024/6/3|[[犬？【FV】>>https://www.twitch.tv/videos/2162450489]]|1|| 
+|2024/6/4|[[犬５５眠すぎる>>https://www.twitch.tv/videos/2163367723]]|0||
+|2024/6/5|[[犬５６>>https://www.twitch.tv/videos/2164150841]]|1||
+|2024/6/9|[[犬５７ちょっと>>https://www.twitch.tv/videos/2167680594]]|0||
+|2024/6/12|[[犬５８>>https://www.twitch.tv/videos/2170108519]]|0||
+|2024/6/19|[[犬５９ １時間だけ>>https://www.twitch.tv/videos/2176011191]]|0||
+|2024/6/23|[[犬６０>>https://www.twitch.tv/videos/2178647746]]|2||
+|2024/6/23|[[犬６１>>https://www.twitch.tv/videos/2179553986]]|0||
+|2024/6/26|[[犬６２霧が消えた>>https://www.twitch.tv/videos/2181298563]]|3||
+|2024/6/26|[[犬６３>>https://www.twitch.tv/videos/2182127043]]|1||
+|2024/6/28|[[犬６４>>https://www.twitch.tv/videos/2183835564]]|3||
+|2024/6/29|[[犬６５ちるしたい>>https://www.twitch.tv/videos/2184660261]]|0|その１|
+|2024/6/29|[[犬６５ちるしたい>>https://www.twitch.tv/videos/2184817852]]|0|その２|
+|2024/6/30|[[犬６６作業するかも>>https://www.twitch.tv/videos/2185556515]]|0||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***７月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/7/10|[[犬６７しまとり>>https://www.twitch.tv/videos/2194010597]]|1||
+|2024/7/13|[[犬６８>>https://www.twitch.tv/videos/2195709493]]|0||
+|2024/7/17|[[犬６９>>https://www.twitch.tv/videos/2199960810]]|0||
+|2024/7/20|[[犬７０世界の見え方が変わった>>https://www.twitch.tv/videos/2202586845]]|0||
+|2024/7/22|[[犬７１幻覚の世界>>https://www.twitch.tv/videos/2203528894]]|1||
+|2024/7/24|[[犬７２冬の幻覚>>https://www.twitch.tv/videos/2206027945]]|0||
+|2024/7/26|[[犬７３ 7年間ありがとうございました。>>https://www.twitch.tv/videos/2207803388]]|0|魂の方の連載が感動の最終話を迎え、7年間の連載を終える。|
+|2024/7/28|[[犬７４ヘリの新技を練習したい>>https://www.twitch.tv/videos/2209587304]]|0||
+|2024/7/31|[[犬７５>>https://www.twitch.tv/videos/2211345253]]|0|ロスサントスに降り立って1周年を迎える👏|
+|2024/7/31|[[犬７６ 島取りがんばるぞ～～（）>>https://www.twitch.tv/videos/2212145210]]|0||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***８月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/8/1|[[犬７７>>https://www.twitch.tv/videos/2212980985]]|0||
+|2024/8/3|[[犬７8>>https://www.twitch.tv/videos/2213924851]]|0||
+|2024/8/4|[[犬７9>>https://www.twitch.tv/videos/2215618703]]|0||
+|2024/8/8|[[佐々木>>https://www.twitch.tv/videos/2219043063?t=02h32m50s]]|0|後半でちょっとだけ白井さん登場|
+|2024/8/9|[[犬８０>>https://www.twitch.tv/videos/2219860580]]|0||
+|2024/8/10|[[白井８１>>https://www.twitch.tv/videos/2220660437]]|0||
+|2024/8/14|[[白井８２>>https://www.twitch.tv/videos/2223206195]]|0||
+|2024/8/15|[[佐々木>>https://www.twitch.tv/videos/2224063598?t=01h43m03s]]|0|途中から白井さん起床。ALLIN1周年🎆|
+|2024/8/16|[[ALLINをらくがきしてみよう>>https://www.twitch.tv/videos/2224669849]]|0|（5:30:00）から白井さん起床です。|
+|2024/8/18|[[白井 ８３>>https://www.twitch.tv/videos/2226619079]]|0||
+|2024/8/19|[[白井 84 ただのチル>>https://www.twitch.tv/videos/2227658794]]|0||
+|2024/8/20|[[白井 85>>https://www.twitch.tv/videos/2226619079]]|0|スタートから(01:56:40)まで、そして(08:08:40)から再び白井さん起床|
+|2024/8/24|[[白井86>>https://www.twitch.tv/videos/2231873598]]|0||
+|2024/8/25|[[白井87>>https://www.twitch.tv/videos/2233553421]]|0||
+|2024/8/27|[[白井STGR二周年らしい>>https://www.twitch.tv/videos/2235279567]]|0|その1。祝！ストグラ2周年！|
+|2024/8/28|[[白井STGR二周年らしい>>https://www.twitch.tv/videos/2235388627]]|0|その2。祝！ストグラ2周年突入！|
+|2024/8/28|[[白井89 雪溶け>>https://www.twitch.tv/videos/2236090564]]|0||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***９月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/9/03|[[白井90 描き終わった>>https://www.twitch.tv/videos/2241688890]]|0||
+|2024/9/06|[[佐々木 この時期を乗り越えよう>>https://www.twitch.tv/videos/2243219469?t=03h04m24s]]|0|(03:04:24)辺りから、白井さん起床🐶|
+|2024/9/09|[[sirai>>https://www.twitch.tv/videos/2245866951]]|0|久々になしまさんと大型！|
+|2024/9/11|[[白井 チル、寝不足はよくない>>https://www.twitch.tv/videos/2247564456]]|0||
+|2024/9/11|[[白井93 エラーは治るのか>>https://www.twitch.tv/videos/2248271694]]|0||
+|2024/9/12|[[白井94>>https://www.twitch.tv/videos/2249075489]]|2||
+|2024/9/13|[[白井95 ダイエット前の量のラーメン食べたら本格的に胃もたれした>>https://www.twitch.tv/videos/2250004093]]|0||
+|2024/9/14|[[白井96 ホストの日>>https://www.twitch.tv/videos/2250809890]]|0||
+|2024/9/15|[[ありがとうCPU>>https://www.twitch.tv/videos/2251675895?t=01h04m40s]]|0|4番隊隊長・CPUがしばしの眠りにつく日。（01:04:40）から白井さん起床です🐶|
+|2024/9/26|[[白井98 ひさびさ>>https://www.twitch.tv/videos/2260778345]]|1||
+|2024/9/30|[[白井99 曲めっちゃよかったチル>>https://www.twitch.tv/videos/2263605473]]|0|3日酔いから(01:12:43)の落下まで白井さん起床🐶。そこから『&blanklink(All Or Nothing){https://youtu.be/C3Syut7A9p0?si=MFBpwXecfGXkO84u}』視聴など。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***１０月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/10/05|[[白井 100>>https://www.twitch.tv/videos/2267429462]]|0|記念すべき100回目👏|
+|2024/10/05|[[白井 101>>https://www.twitch.tv/videos/2268187201]]|1|(03:42:48)まで白井さん起床🐶|
+|2024/10/11|[[白井 抗争>>https://www.twitch.tv/videos/2273177181]]|2|餡ブレラさんとの2回目の抗争！|
+|2024/10/13|[[白井 抗争おつかれ>>https://www.twitch.tv/videos/2274937036]]|2||
+|2024/10/15|[[白井>>https://www.twitch.tv/videos/2276562037]]|0|(04:50:28)まで白井さん起床🐶|
+|2024/10/16|[[白井>>https://www.twitch.tv/videos/2277459786]]|0||
+|2024/10/18|[[白井 街ブラ>>https://www.twitch.tv/videos/2278397190]]|0||
+|2024/10/18|[[白井>>https://www.twitch.tv/videos/2279093671]]|1||
+|2024/10/19|[[白井 一人でケーキたべて気持ち悪い>>https://www.twitch.tv/videos/2279923578]]|1(実質2)|しろまんた先生のお誕生日(10/20)🎂✨|
+|2024/10/20|[[白井 誕プレにマックおごってもらったら両多すぎてしんだ>>https://www.twitch.tv/shiro_manta/video/2280790913]]|0||
+|2024/10/25|[[白井>>https://www.twitch.tv/videos/2284178459]]|0||
+|2024/10/30|[[白井 サイボーグ📷>>https://www.twitch.tv/videos/2289172031]]|0|世界統合の日・・・何が起きる!?|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***１１月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/11/01|[[佐々木>>https://www.twitch.tv/videos/2290785974]]|2|題名は佐々木ですが、白井さんです🐶|
+|2024/11/05|[[白井 覚醒>>https://www.twitch.tv/videos/2294230857]]|2||
+|2024/11/07|[[白井 覚醒>>https://www.twitch.tv/videos/2295837605]]|2||
+|2024/11/08|[[白井 原稿裏進故静>>https://www.twitch.tv/videos/2296600088]]|0||
+|2024/11/09|[[白井 原稿裏進故静2>>https://www.twitch.tv/videos/2297455409]]|0||
+|2024/11/10|[[佐々木 原稿裏進故静3>>https://www.twitch.tv/videos/2298397719?t=03h28m57s]]|0|(03:28:57)より白井さん起床🐶|
+|2024/11/13|[[白井 なにが>>https://www.twitch.tv/videos/2300779222]]|0||
+|2024/11/14|[[白井 なにが>>https://www.twitch.tv/videos/2300977191]]|0||
+|2024/11/15|[[白井 okita>>https://www.twitch.tv/videos/2301633283]]|0||
+|2024/11/17|[[白井 原稿進めながら雑務>>https://www.twitch.tv/videos/2303390642]]|0||
+|2024/11/19|[[白井 原稿進めながら雑務>>https://www.twitch.tv/videos/2305683992]]|0||
+|2024/11/29|[[白井 戦場から抜け出してきた。原稿しながら>>https://www.twitch.tv/videos/2313836364]]|1||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***１２月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2024/12/16|[[白井 すこし>>https://www.twitch.tv/videos/2327465074]]|1||
+|2024/12/28|[[白井 すこし>>https://www.twitch.tv/videos/2337240291]]|2||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion(2024)
+
+***2025年
+#region(開く)
+***１月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2025/01/04|[[白井 抗争らしい しんどくなったら衛星きる>>https://www.twitch.tv/videos/2343207650]]|1|新年一発目、久々の衛星は抗争からスタート🐶|
+|2025/01/07|[[白井 ちょいっと>>https://www.twitch.tv/videos/2346701653]]|0||
+|2025/01/14|[[白井 bakuage>>https://www.twitch.tv/videos/2353034421]]|2||
+|2025/01/15|[[佐々木 乗ってみますか>>https://www.twitch.tv/videos/2353913372?t=02h54m00s]]|1||
+|2025/01/16|[[白井 最後かもしれないだろ>>https://www.twitch.tv/videos/2354782344]]|0||
+|2025/01/17|[[白井 青緑波紋疾走>>https://www.twitch.tv/videos/2355783983]]|0||
+|2025/01/18|[[白井 バンジーガム>>https://www.twitch.tv/videos/2356626041]]|0|トッポギとの17～5時バチバチ！のはずが急展開・・・！|
+|2025/01/19|[[白井 自閉円頓裹>>https://www.twitch.tv/videos/2357668247]]|0|この日が2024～25シーズン最後の雪の日でした|
+|2025/01/21|[[白井 かめはめ波>>https://www.twitch.tv/videos/2359463199]]|1||
+|2025/01/22|[[白井 ギャリック砲>>https://www.twitch.tv/videos/2360428620]]|1||
+|2025/01/23|[[白井 鬼斬り>>https://www.twitch.tv/videos/2361261639]]|0|いよいよMOZUとの抗争！果たして、結果や如何に!?|
+|2025/01/23|[[白井 鬼斬り2 ひつまぶし>>https://www.twitch.tv/videos/2361502976]]|0||
+|2025/01/24|[[白井 三千世界>>https://www.twitch.tv/videos/2362193515]]|0||
+|2025/01/25|[[白井 三千世２>>https://www.twitch.tv/videos/2362398910]]|2||
+|2025/01/25|[[白井 エターナルブリザード>>https://www.twitch.tv/videos/2363173342]]|0||
+|2025/01/26|[[白井 ザケル>>https://www.twitch.tv/videos/2364126638]]|0||
+|2025/01/28|[[白井 ブルロック>>https://www.twitch.tv/videos/2365852880]]|0||
+|2025/01/29|[[白井 ブルロック2>>https://www.twitch.tv/videos/2366152150]]|0||
+|2025/01/29|[[白井 山吹色の波紋疾走>>https://www.twitch.tv/videos/2366785992]]|3||
+|2025/01/30|[[白井 山吹色の波紋疾走２>>https://www.twitch.tv/videos/2367047521]]|0||
+|2025/01/30|[[白井 ザ・サン>>https://www.twitch.tv/videos/2367646120]]|0||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***２月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2025/02/02|[[白井 パパウパウパウ>>https://www.twitch.tv/videos/2370484400]]|0||
+|2025/02/04|[[白井 昇竜拳>>https://www.twitch.tv/videos/2372153950]]|1||
+|2025/02/05|[[白井 寝起きバズーカ>>https://www.twitch.tv/videos/2373048812]]|1|ロケ麻を見届ける🐶|
+|2025/02/07|[[白井 どこでもドア>>https://www.twitch.tv/videos/2374037508]]|0||
+|2025/02/08|[[白井 ヒプノック>>https://www.twitch.tv/videos/2374950018]]|0||
+|2025/02/08|[[白井 レ・ダウ>>https://www.twitch.tv/videos/2375710065]]|0||
+|2025/02/13|[[白井 ゴッドハンド>>https://www.twitch.tv/videos/2379337941]]|0||
+|2025/02/13|[[白井 抗争 マジンザハンド>>https://www.twitch.tv/videos/2380011582]]|0|餡ブレラとの抗争！その１🐶|
+|2025/02/13|[[白井 抗争 マジンザハンド>>https://www.twitch.tv/videos/2380030934]]|0|餡ブレラとの抗争！その２🐶|
+|2025/02/19|[[白井 片手剣>>https://www.twitch.tv/videos/2384557841]]|0||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***３月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2025/03/23|[[白井>>https://www.twitch.tv/videos/2413272552]]|0|ALLIN、最後の日。最強ギャングの空の王として、ラストフライトが始まる。|
+|2025/03/26|[[元ALLIN 白井満太>>https://www.twitch.tv/videos/2415765783]]|0||
+|2025/03/28|[[白井満太>>https://www.twitch.tv/videos/2417518357]]|0|白市民への道が始まる。まずは免許を再取得して…え、闇メカ閉業!?🐶|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***４月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2025/04/01|[[うたたね白井>>https://www.twitch.tv/videos/2420356788]]|0|毎年恒例の4月1日、今年はSPDとしていつもと違う白井さんが見れそう？その１🐶|
+|2025/04/01|[[うたたね白井>>https://www.twitch.tv/videos/2420536092]]|0|SPDその２🐶|
+|2025/04/04|[[白井>>https://www.twitch.tv/videos/2423003720]]|0||
+|2025/04/25|[[久しぶりの下山>>https://www.twitch.tv/videos/2442164013]]|0|山から下山をした白井さん。いよいよ白市民パスを取得できる時が来たと、警察に向かう。さぁ、正真正銘の白い犬になれるのか🐶|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***５月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2025/05/30|[[白井 ちょっと下山>>https://www.twitch.tv/videos/2472304541]]|0|久々の下山。家族との再会が楽しみ🐶|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***６月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2025/06/07|[[ヘリ乗りを救いたい MADTOWN６日目>>https://www.twitch.tv/videos/2479545865?t=04h10m16s]]|0|別の街から、こちらの街へ下山した白い犬🐶（4:10:16から開始です）|
+|2025/06/13|[[白井>>https://www.twitch.tv/videos/2484856025?filter=archives&sort=time]]|0||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***８月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2025/08/04|[[白井 やりのこし>>https://www.twitch.tv/videos/2529958075]]|0|久しぶりに下山した白井さん。何やら、やり残しがあったようで・・・🐶|
+|2025/08/07|[[白井>>https://www.twitch.tv/videos/2533567165]]|0||
+|2025/08/12|[[白井>>https://www.twitch.tv/videos/2537994535]]|0|ここなちゃんからのお誘いにより、メカニック復職！🐶|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***９月
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2025/09/20|[[白井>>https://www.twitch.tv/videos/2569616282]]|0|久々に下山してきた白い犬。何やら久々に銃を握ることに・・・🐶|
+|2025/09/21|[[白井 最後かもしれないだろ>>https://www.twitch.tv/videos/2572000762]]|2|突然、街の命運をかける日が訪れる。白井満太はどうなる!?・・・🐶|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion(2025)
+
+★ストグラSeason2★
+***2025年
+#region(開く,open)
+***１２月
+#region(開く)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2025/12/25|[[白井 1日目>>https://www.twitch.tv/videos/2652598436]]|0||
+|2025/12/25|[[白井 1日目-test>>https://www.twitch.tv/videos/2652700646]]|0||
+|2025/12/26|[[白井 2日目 足が欲しい>>https://www.twitch.tv/videos/2653342622]]|0||
+|2025/12/27|[[利用規約に同意する>>https://www.twitch.tv/videos/2654104336?t=02h41m20s]]|0|途中から街にINです🐶|
+|2025/12/28|[[白井4日目>>https://www.twitch.tv/videos/2654947869]]|0|あれ？どっかで会ったような・・・❄|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion(2025)
+
+***2026年
+#region(開く,open)
+***１月
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2026/01/03|[[白井 5日目>>https://www.twitch.tv/videos/2659230317]]|0|2026年1発目🎍|
+|2026/01/04|[[白井6日目>>https://www.twitch.tv/videos/2660905190]]|0||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+***7月
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~撃墜数|~備考|h
+|2026/07/16|白井 メールが来た|0||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion(2026)
+
+◆本日の日付：&today(j)
+
+#right(){&link_up(🔝ページTOPへ)}
+
+//&font(red,yellow,40px){🎆&bold(){ストグラ𝟙𝓽𝓱𝓐𝓷𝓷𝓲𝓿𝓮𝓻𝓼𝓪𝓻𝔂！}🎆}

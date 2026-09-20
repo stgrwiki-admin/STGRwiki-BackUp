@@ -1,0 +1,947 @@
+&font(#c2a581,17px){&icon_fa(fa fa-square)} &bold(){観測者各位へ}
+&openclose2(show=「伝書鳩」){(「○○さんは△△だったよ」などの&u(){自分及び相手視点では得られない情報を伝える行為})}や、本人の頼んでいないことへの&openclose2(show=「提案または指示行為」){(「○○しないの？」などの&u(){配信者に対して動きを促す行為})}は&color(#F54738){&bold(){どんなに善意であっても絶対にやめましょう}}。&br()また、それらの行為をする人に対して指摘する行為も指示と同じなので控えましょう。
+
+&font(#c2a581,17px){&icon_fa(fa fa-square)} より気持ち良く観測を続けるために、&b(){[[ストグラ運営からのお願い>>https://x.com/STGR_RolePlay/status/1612965702935384065?s=20]]}・&b(){[[観測者の心得]]}について一読をお願い致します。
+----------
+*&font(25,#ffff){&font(32,#deb887){プ}ロフィール &icon_fa(fa fa-user-circle)}
+&image(山田 ジェイミー.JPG,x=290,y=300)
+
+#table_style(head=#dcbe99:#666666){名前=#eee:b:center}
+|~名前|~&icon_fa(fa fa-user)|&ruby(やまだ){山田}　ジェイミー|
+|~出身地|~&icon_fa(fa fa-map-marker)|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|1996年05月07日 (&countup(1996/05/07,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年08月29日 (&countup(2024/08/29,yd)経過)&br()&b(){キャラクターエンディング済}　&small(){～2025年8月29日}|
+|~職業|~&icon_fa(fa fa-book-open-reader)|【劇団夢歩き】劇団長|
+|~|~&icon_fa(fa fa-gun)|&nbsp(3)&s(){ギャング【[[餡ブレラ>anbrella(餡ブレラ)]]】}&small(){2025/05/07～2025/06/12}|
+|~|~&icon_fa(fa fa-wrench fa-fw)|&nbsp(3)&s(){メカニック【[[9055]]】社員}|
+|~|~&icon_fa(fa fa-shield-halved)|&nbsp(3)&s(){【[[ロスサントス警察]]】}&small(){2025/01/14~2025/05/05}&br()&small(){・Grade:3 / Lieutenant (警部補)&br()・特殊部隊SWAT / Grade:3} &small(){&openclose2(show=※){&br()・公安潜入捜査官([[餡ブレラ]])}}&co(){ワンクッション置く形での記載に変更させて頂きました。}|
+|~家族|~&icon_fa(fas fa-users)|お父さん [[竹井　勝痔>>竹井　勝痔]]&size(10){（&openclose2(show=※){血縁関係上の父親ではない}）}&small()|
+|~TwiX|~&icon_fa(fa fa-dove)||
+|プレイヤー|BGCOLOR(#eee):~&color(#666666){&icon_fa(fa fa-address-card)}|山田ジェームス武|
+|告知等|BGCOLOR(#eee):~&color(#666666){&icon_fa(fa fa-bullhorn)}|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://twitter.com/takezo0507]]|
+|配信場所|BGCOLOR(#eee):~&color(#666666){&icon_fa(fa fa-gamepad)}|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/james_yjt]] |
+|動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video fa-fw)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@JAMES-YJT]]|
+|別キャラ|BGCOLOR(#eee):~&color(#666666){&icon_fa(fa fa-user)}|[[シンバ　ロイ]]|
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&font(25,#0000){&font(32,#dcbe99){キ}ャラクター帰国 &icon_fa(fa fa-plane)}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ストグラに参加して今日で1年。<br>演劇を届けたくて街にやってくるところから始まり、警察の一員にもさせていただき、ギャングも経験する事になり、餡ブレラと出会い、街の沢山の人と関われて、沢山の衛星の民に知っていただけて…。<br>こんなに楽しく、貴重な時間を過ごせるとは思ってなかった…。… <a href="https://t.co/rB7R2BRTs0">pic.twitter.com/rB7R2BRTs0</a></p>&mdash; 山田ジェームス武 (@takezo0507) <a href="https://twitter.com/takezo0507/status/1961428738517971407?ref_src=twsrc%5Etfw">August 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+
+*&font(25,#0000){&font(32,#dcbe99){基}本情報 &icon_fa(fa fa-pen-to-square)}
+・この街に演劇の楽しさを広めにやってきた
+・2.25次元の舞台をやりたいらしい
+・最近居酒屋を作りたいと考えている
+・人見知り？な一面がある。
+・8078に劇場を設立
+・52日目 [[ロスサントス警察]]に正式就任となる
+・日本とスペインのハーフ
+・最近[[ギャング]]におもちゃにされている事が悩み
+・潜入捜査官としてギャング[[anbrella]]加入
+
+***season2
+&b(){2026年3月}
+-転送前、脱退したはずの餡ブレラだったがメンバーの一員として再入国
+-どうやらウェスカーの手によって記憶操作され、自分が餡ブレラだという記憶と街の住民の名前と人相のみを覚えている状態にされたようだった。街の住民との関係性があやふやなまま、また犯罪に手を染めていくジェイミー。新しいロスサントスにやってきた彼は一体どうなっているのか。そしてどうなっていくのか。
+
+
+
+***&underdot(#efdecb,3px){&font(#c2a581,17px){&icon_fa(fa fa-square)}&font(16,#666){&space()外見&space()}}
+-金髪色黒
+-体のあちこちにタトゥーを入れている
+
+***&underdot(#efdecb,3px){&font(#c2a581,17px){&icon_fa(fa fa-square)}&font(16,#666){&space()性格&space()}}
+-基本的に人を信じる性格。そのため騙されやすくもある
+
+***&underdot(#efdecb,3px){&font(#c2a581,17px){&icon_fa(fa fa-square)}&font(16,#666){&space()警察として&space()}}
+-警察の同期は[[味野　環九郎]]、[[ぺん　ゆきや]]、[[ミカド　ルアシェイア]]、[[メチャ南　よる]]、[[紀伊路　つみき]]、&s(){[[ガヴァイ　アッカンマン]]}(退職)、[[いぬね　こう]]、[[土田　ぷちお]]、[[焔　零児]]。詳細は【[[襲撃の世代>ロスサントス警察#襲撃の世代]]】
+-よくレースの練習をしている。2025/2/20　ついに[[安部　霊明]]先輩の記録を超えた。
+-ヘリレースも練習中。はじめは、最初の橋で爆散していたが、コナダで完走、4分を切るタイムを記録。
+-2025/03/15に警察とSWAT両方ランク2に昇格した。
+-2025/04/03に警察・SWAT両方ランク3に昇格
+-2025/05/04に市民殺人未遂罪にてプリズンへ。白市民パス、各ライセンス全剥奪、警察官を退職する。
+
+***&underdot(#eeeeee,3px){&font(#eeeeee,17px){&icon_fa(fa fa-square)}&font(16,#eeeeee){&space()潜入捜査官&space()}}
+#size(80%){#openclose(show=※ネタバレ注意){
+//・日付 ウェスカーへの相談（ギャングを潰したい話）・餡ブレラの内部情報と加入しろという脅しの詳細
+//
+・2025年5月3日&br()&font(b,u){警察官を退職したい旨}を上官である[[ミンドリー>>ミン　ドリー]]に話す。警察を続けるにあたって白市民が黒に流れないよう、また黒市民が白に戻れる環境を作りたいと思っていたが、同期だった[[ガヴァイ アッカンマン>>ガヴァイ　アッカンマン]]の闇落ちや[[飯田 けんつ>>飯田　けんつ]]が再び犯罪者に戻ってしまった事で心が折れてしまう。ギャングを潰す為にギャングになろうとしている事を伝えると、ミンドリーから&b(){『&u(){ギャングへの潜入捜査}』}というこれまでに前例の無い新たな道を提示される。
+//
+#right(){&size(10px){'''―情報募集中'''&space(3)}}
+//
+//・日付 闇落ち（さぶ郎を撃つ）
+//・日付 餡ブレラ入り 捜査開始 武器商人
+//・日付 ミンドリーへの情報共有
+//
+#co{▼▼▼▼▼
+本人視点の情報を募集しております
+どなたでも構いませんので追記・編集お願い致します！
+　　▲▲▲▲▲}
+}}
+
+**&font(25px,#dcbe99){交}友関係 &icon_fa(fa fa-users)
+&small(){山田ジェイミーの視点から得られた情報を元にしているため、事実と異なる場合があります。}
+***&font(#e4bf91){&icon_fa(fa fa-book-open-reader)} 劇団夢歩き
+#region(創設メンバー)&b(){創設メンバー}
+****[[寝言　怠惰]]（副団長）
+****[[蓮　シオン]]
+****[[久川　たんぽぽ]]
+****[[天近　くるみ]]
+#endregion(創設メンバー)
+
+***&font(#4169E1){&icon_fa(fa-solid fa-shield-halved)} ロスサントス警察
+#region(警察の同期)&b(){警察の同期}
+****[[味野　環九郎]]（アジカン）
+-よく出勤し、よく17時〜5時している。あまりに出勤時間が長いので「こいつやべーよ」と評価したことがある。
+
+****[[ぺん　ゆきや]]（ぺんぺん・ペンちゃん）
+-警察の同期。良い奴
+
+****[[ミカド　ルアシェイア]]
+-警察の同期。勇者。
+
+****[[メチャ南　よる]]
+-警察の同期。
+
+****[[紀伊路　つみき]]）
+-警察の同期。
+
+****[[いぬね　こう]]
+-警察の同期。
+
+****[[土田　ぷちお]]（ぷちお）
+-警察の同期。
+-深夜3時以降に起きてくる事が多い。12時とかに起きていると　ちょっと解釈違い。
+****[[焔　零児]]（零児くん）
+-警察の同期。
+#endregion(警察の同期)
+//
+#region(警察の先輩)&b(){警察の先輩}
+//追加しやすくするため採用日順に並べ替えました
+****[[後藤　れむ]]（れむ先輩）
+-警察の先輩。客船でダウン中、いっしょに歌い、かわいいかわいいと大絶賛。
+
+****[[赤ちゃんキャップ>ましゃかり　トラボルタ]]（キャップ）
+-警察の先輩。
+
+****[[ニックス　リア]]（皇帝）
+-警察の上官。SWAT副隊長
+
+****[[ミン　ドリー]]（ミンドリー先輩） 
+-警察の上官。SWAT隊長。治験の日に、署長だと思っていたことが発覚。
+
+****[[青井　らだお]]
+-警察の先輩。気球に乗せてもらった。
+
+****[[きらりんぶい☆　なずぴ(10)]]（なずせん）
+-警察の先輩。霊明先輩らと北署について話しているとヘリで追いかけまわされた。
+-そのヘリ技術に感銘を受け、ヘリの指導をお願いする。ヘリレースを教えてもらうも、最初の橋で爆散した。
+-4分を切ったと報告に行くと、成長が早い、エースパイロットになれるよと褒めてくれた。
+
+****[[シオコ　リコ]]
+-警察の先輩。
+
+****[[もり　るんるん]]（るんるん先輩）
+-警察の先輩。白市民の現状などについての考え方に共感できることが多い。
+
+****[[レッサン　パンナ]]（レッさん）
+-警察の先輩。
+
+****[[バーバリアン　田中]]（ばぁば）
+-警察の先輩。早番でお世話になってる。[[丸井　まる]]さん誤射疑惑事件の調査で、ボディカメラをチェックした時、「なんだいこのイケメンは？」「盛れてる角度から撮るんじゃないよ」と鋭い突っ込みをくれた。
+
+****[[安倍　霊明]]（霊明先輩）
+-警察の上官。陰陽師。副業でコスメ店勤務
+-レース練習を頑張っていると伝えると、運転を見せてくれたり、同乗したりして、チェイスのコツを教えてくれた。
+2025/2/19記録を抜いた。
+
+****[[夜若木　颯]]（よわき先輩・つよき先輩）
+-警察の先輩。カーチェイスの師匠。
+
+****[[立花　乱歩]]（乱歩先輩）
+-バイク乗りの先輩。
+-同期が闇堕ちした際や初逮捕後、話や愚痴を聞いてくれた。
+
+****[[ブロッコリー　斎藤]]（ブロ先輩）
+-警察の先輩。飛行場の修理台上へ最短で到達する方法を教えてもらい、実行。
+予定より飛ばなかったものの結果オーライで屋上を取れた。
+
+****[[ゴリ田　ゴリ男]]
+-演劇に誘ったことがあり、公演を見に来てくれた。
+
+****[[犬上　リオ]]（リオ先輩）
+-警察の先輩。地上戦の腕を尊敬している。
+
+****[[竹井　勝痔]]（親父）
+-ロスサントス初日に親父になる。警察体験で再会したときはなぜか同じく体験になっていた。
+-その後復職したが、2025/2/19再度免職。3日間の出国を命じられた。
+-警察の先輩としては尊敬している。
+#endregion(警察の先輩)
+//
+#region(警察の後輩)&b(){警察の後輩}
+****[[胡　將]]（胡將）
+-警察に入って初めての後輩。とはいえ、就任時期は一ヶ月も変わらないため、一緒に勉強しようとユニオンを案内したりしていた。
+****[[真島　ルイ]]（ルイちゃん）
+#endregion(警察の後輩)
+
+***&font(#ff0000){&icon_fa(fa fa-heartbeat)} ロスサントス救急救命隊
+#region(開く)&bold(){閉じる}
+****[[雷堂　ましろ]]（ましろ先生）
+-救命隊所属。
+-この街の芸能事務所について忠告をしてくれた。
+
+****[[鬼桃　ぷぅ]]（ぷぅちゃん）
+-救命隊所属。
+
+****[[ゆた　んぽ]]
+-街の同期。
+#endregion(ロスサントス救急救命隊)
+
+***&font(#99000D){&icon_fa(fa fa-flask)} 餡ブレラ
+#region(開く)&b(){閉じる}
+****[[アルフォート　ウェスカー]]
+-餡ブレラのギャングボス
+-マックさんと同日にJTSで出会い、私が父になろうと申し出られて、三人目の父？に。
+-なぜだか分からないが気に入られたようで、その後ことあるごとに勧誘して遊ばれている。
+-最近ついに餡ブレラ全体がのってくるようになって困惑中。
+
+****[[キャプテン　わきを]]（わきをさん）
+
+#endregion(餡ブレラ)
+
+***&font(#4f455c){&icon_fa(fa fa-user-secret)} 黒市民
+#region(MOZU)&bold(){MOZU}
+#endregion(MOZU)
+//
+#region(GBC)&bold(){GBC}
+****[[マクドナルド>ライトスターボーイ]]（マックさん）
+-GBCのギャングボス。
+-竹井勝痔が国外追放になった時にパパになろうと申し出る。
+
+****[[トウ　ユン]]（トウユンさん）
+警察になる前、よく相談に乗ってもらう。
+黒市民であることを知り、衝撃を受けた。
+今では犯罪現場で出会っても楽しく話せる仲になったと思う。
+
+****[[鳳華　マア]]
+-街の同期
+#endregion(GBC)
+#region(NO LIMIT)&bold(){NO LIMIT}
+****[[ハク　ナツメ]]
+-元警察。ガヴァイ闇落ち後、相談に乗ってもらう。
+#endregion(NO LIMIT)
+//
+#region(868)&bold(){868}
+クッキー戦隊は天敵。
+-どうやらグリーンも居るらしい
+
+#endregion(868)
+//
+#region(Trickster)&bold(){Trickster}
+****[[ガヴァイ　アッカンマン]]（ガヴァちゃん）
+-警察の元同期。愛した女性を守るため闇落ちした。
+直前まで、白市民を黒にさせないためにはどうしたらいいか相談しあっていたこともあり、大変ショックをうけた。まだきまずい。
+#endregion(Trickster)
+//
+#region(hantasma)&bold(){hantasma}
+****[[ユン　ユンミ]]
+-街の同期。
+
+//****[[ジャン＝ジャック・ヴァラン]]
+//****[[くま　ぽこ]]
+#endregion(hantasma)
+//
+#region(第4宇宙速度)&bold(){第4宇宙速度}
+半グレ時代に「ゆるギャン」として活動していたギャング
+//
+//****[[豆乳　ちゃんもも]]（ちゃんももさん）
+//****[[高橋　滅論]]
+****[[サミュエル　佐藤]]
+-なんとか更生させたいと熱心に声をかけていたが、困ったサミュエルに襲撃された。
+その後も犯罪を続けるサミュエルに失望し、冷淡な態度を取る。
+#endregion(第4宇宙速度)
+//
+#region(他組織・半グレ)&bold(){他組織・半グレ}
+//****[[小峯　玲]]
+#endregion(他組織・半グレ)
+
+**&font(25px,#dcbe99){免}許・資格／車両関連情報 &icon_fa(fa fa-id-card)
+***&underdot(#efdecb,3px){&font(#c2a581,17px){&icon_fa(fa fa-square)}&font(16,#666){&space()免許・資格&space()}}
+#region(開く)&small(){全て失効済}
+#size(90%){{{#table_filter(){取得日=hide,失効日=show,免許・資格=show,担当官=show,備考=hide}
+#table_style(head=center:#dcbe99){取得日=right:,失効日=center:,免許・資格=center:bold,担当官=left:,備考=left:}
+|~取得日|~失効日|~免許・資格|~担当官|~備考|
+|-|2025/5/4|普通自動車第一種運転免許|教習所教官||
+|-|2025/5/4|普通自動二輪運転免許|教習所教官||
+|-|2025/5/4|レーサーライセンス|教習所教官 [[パキ　ち]]||
+|-|2025/5/4|ヘリコプター操縦免許|教習所教官||
+|2024/10/20|2025/5/4|大型自動車運転免許|教習所教官 [[パキ　ち]]||
+|-|2025/5/4|白市民ライセンス|-||
+//|-|-|初心者マーク卒業|CENTER:-||
+//|-|-|白市民ライセンス|担当官||
+//|-|-|船舶操縦免許|教習所教官||
+//|-|-|航空機免許|教習所教官||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}}}
+#endregion
+//
+//
+***&underdot(#efdecb,3px){&font(#c2a581,17px){&icon_fa(fa fa-square)}&font(16,#666){&space()所有車両一覧&space()}}
+#region(開く)
+#size(90%){{{#table_filter(){車種=show,名前=show,入手日=show,備考=show}
+#table_style(head=center:#dcbe99){車種=center:bold,名前=center:,入手日=center:,備考=left:}
+|~車種|~名前|~入手日|~備考|h
+|&ruby(トラクス){Thrax}|-|-|-|
+|&ruby(リボルター){Revolter}|-|-|-|
+|&ruby(パラゴン){Paragon}|-|-|-|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}}}
+#endregion
+
+**&font(25px,#dcbe99){ク}ローゼット &icon_fa(fa fa-user-tie)
+#region(開く)
+#region(私服)&bold(){私服}
+|CENTER:BGCOLOR(#c2a581):&size(48){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|
+|CENTER:BGCOLOR(#dcbe99):COLOR(#FFF):~私服|
+#co{
+|CENTER:BGCOLOR(#ef73a8):&image(画像,x=130,y=260)|
+|CENTER:BGCOLOR(#f591b9):COLOR(#FFF):~タイトル|
+|&font(12px){概要}|
+}
+
+#endregion
+#region(餡ブレラ)&bold(){餡ブレラ}
+|CENTER:BGCOLOR(#c2a581):&size(48){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|
+|CENTER:BGCOLOR(#dcbe99):COLOR(#FFF):~餡ブレラ|
+#co{
+|CENTER:BGCOLOR(#ef73a8):&image(画像,x=130,y=260)|
+|CENTER:BGCOLOR(#f591b9):COLOR(#FFF):~タイトル|
+|&font(12px){概要}|
+}
+
+#endregion
+#region(警察時代)&bold(){警察時代}
+|CENTER:BGCOLOR(#c2a581):&size(48){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|
+|CENTER:BGCOLOR(#dcbe99):COLOR(#FFF):~SWAT|
+#co{
+|CENTER:BGCOLOR(#ef73a8):&image(画像,x=130,y=260)|
+|CENTER:BGCOLOR(#f591b9):COLOR(#FFF):~タイトル|
+|&font(12px){概要}|
+}
+#endregion
+#endregion(クローゼット)
+
+**&font(25px,#dcbe99){主}催イベント &icon_fa(fa fa-list)
+//イベント名「夢への一歩」と書かれていたところを「夢へ一歩」に修正させていただきました
+//リンク先のストグラ運営Xでは「夢への一歩」と書かれてますが、フライヤー画像と山田ジェイミーさんTwiXにて「夢へ一歩」と書かれているためです
+#region(一覧)
+#size(90%){{{#table_style(head=center:#dcbe99){#=center}
+|~#|~開催日|~イベント|~出演者|~内容|
+|1|2024/9/24&br()(火) &br()23:00～|[[「夢へ一歩」>>https://x.com/STGR_RolePlay/status/1838533908155240657]]|山田ジェイミー/[[寝言　怠惰]]&br()[[蓮　シオン]]/[[久川　たんぽぽ]]&br()[[天近　くるみ]]|1部：【ハピフル】初ライブ。&br()2部：ジェイミー、怠惰、天近、シオンによる&br()サスペンス朗読劇&br()〖脚本〗「GCP」/ススキドミノ様作|
+|2|2024/10/29&br()(火)&br()マチネ19:00|[[「夢へ一歩」#2>>https://x.com/STGR_RolePlay/status/1851204954800996607]]|オープニングアクト：[[太田　民子]]&br()出演者：山田ジェイミー&br()[[寝言　怠惰]]/[[天近　くるみ]]&br()[[牧田　ここな]]/[[久川　たんぽぽ]]|「彼に似合う職業」&br()「伝説はここから」&br()約15分芝居2本立。|
+|~|2024/10/29&br()(火)&br()ソワレ23:00|~|オープニングアクト：[[芹沢　すず]]&br()出演：山田ジェイミー/[[久川　たんぽぽ]]&br()[[蓮　シオン]]/[[キャプテン　わきを]]|~|
+//|n|yyyy/mm/dd&br()(曜日) &br()hh:mm～|[[イベント名>>ここにイベント告知URLを入力]]|山田ジェイミー/[[出演者の名前]]&br()[[出演者の名前]]/[[出演者の名前]]|イベント内容|
+//
+}}}
+#endregion
+
+*&font(25,#0000){&font(32,#dcbe99){S}EASON1 エピソード &icon_fa(fa fa-scroll)}
+&font(#ff00,b){※エピソード募集中}
+**年表
+***&underdot(#efdecb,3px){&font(#c2a581,17px){&icon_fa(fa fa-square)}&font(16,#666){&space()2025年&space()}}
+#region(開く)
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=center,days=center}
+|~日付|~出来事|~詳細|h
+|03/04|ガヴァイの退職|同期である[[ガヴァイ>ガヴァイ　アッカンマン]]の退職を知り話をした|
+|05/01|けんつの闇落ち|[[飯田けんつ>飯田　けんつ]]が再び黒市民に|
+|05/05|黒の道へ|[[さぶ郎>安保　さぶ郎]]に向けて発砲した事をきっかけに全てのライセンスを剥奪&br()プリズンへ送られ黒市民として生きて行くことに|
+
+//人生を動かすきっかけになったエピソード等
+}}}
+#endregion(年表／2025年)
+
+**日別エピソード
+#region(2024年,close)&bold(){2024年}
+***&font(16,#dcbe99){08月}
+#region(開く,close)閉じる
+****08/29 [[#ストグラ 1日目 山田ジェイミー上ロス！>>https://www.twitch.tv/videos/2236953868]]
+#region(開く,open)閉じる
+-本署前で同日引っ越してきた🔰[[ユン　ユンミ]]や[[牧田ここな]] 、 [[竹井　勝痔]]と出会う。
+-[[パキ　ち]]の教習の下自動車免許取得。
+-教習内で車の修理方法を学ぶため、JTSへ立ち寄り社長の[[町田　ジョアンナ]]や[[ねずみ　さん>えぐち　きの子]]などJTSの社員たちと出会う。
+-中古車ディーラー店へ10円にて売られている車を買いに向かうも、売り切れのため購入できず。店員の[[ケイン／オー]]に出会う。
+-[[猫カフェ>猫カフェ武蔵]]にて職場体験をする。
+#endregion
+//
+****08/31[[#ストグラ 上ロス2日目!>>https://www.twitch.tv/videos/2237954528]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+#endregion(8月)
+//
+***&font(16,#dcbe99){9月}
+#region(開く,close)閉じる
+****09/01 [[#ストグラ 3日目!>>https://www.twitch.tv/videos/2238839492]]
+#region(開く,open)閉じる
+-Violet Fizzで職業体験をする。
+-[[トウ　ユン]]がボイストレーニングのサブスクを始めると聞き、いい出会いをしたと喜んだ。
+#endregion
+//
+****09/04 [[#ストグラ 4日目 >>https://www.twitch.tv/videos/2242303254]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/05 [[#ストグラ 5日目 >>https://www.twitch.tv/videos/2243098140]]/[[#ストグラ 5日目その２ >>https://www.twitch.tv/videos/2243231038]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/07 [[#ストグラ 6日目>>https://www.twitch.tv/videos/2244802604]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/08 [[#ストグラ 7日目>>https://www.twitch.tv/videos/2245868181]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/10 [[#ストグラ 8日目>>https://www.twitch.tv/videos/2247410704]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/11 [[飯雑談→ #ストグラ 9日目>>https://www.twitch.tv/videos/2248234240]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/12 [[雑談→ #ストグラ 10日目>>https://www.twitch.tv/videos/2249100822]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/13 [[雑談→ #ストグラ 11日目>>https://www.twitch.tv/videos/2249874858]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/14 [[雑談→ #ストグラ 12日目>>https://www.twitch.tv/videos/2250751790]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/15 [[雑談→ #ストグラ 13日目>>https://www.twitch.tv/videos/2251632503]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/16 [[#ストグラ 14日目>>https://www.twitch.tv/videos/2253278844]]/[[#ストグラ 14日目>>https://www.twitch.tv/videos/2253291679]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/18 [[#ストグラ 15日目>>https://www.twitch.tv/videos/2254137521]]
+#region(開く,close)
+-Violet Fizzで体験中・
+-[[寝言　怠惰]]、[[蓮　シオン]]、[[山田　民子]]とカラオケの約束をする。
+-[[寝言　怠惰]]、[[蓮　シオン]]と9月24日の公演について相談する。
+#endregion
+//
+****09/19 [[#ストグラ 16日目>>https://www.twitch.tv/videos/2255006450]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/22 [[#ストグラ 17日目>>https://www.twitch.tv/videos/2256829540]]
+#region(開く,close)
+-[[ボタリン　モンロー]]、[[寝言　怠惰]]、[[蓮　シオン]]、[[久川　たんぽぽ]]と劇場について相談する。
+-[[ボタリン　モンロー]]が劇場購入資金をを3億も出資してくれる。
+-カジノで資金を倍にしてこようとしたため、全力で止められる。
+-[[ネケ　ニマス]]さんから電話があるも、後ほどかけなおすことに。
+-レギオンで、アイドル[[すごい　マダム]]さんと出会い、ストレッチしながら、イベントの宣伝をする。
+-[[すごい　マダム]]さんが馬に乗って？去って行く。
+-[[蓮　シオン]]に[[ネケ　ニマス]]さんの忠告について、確認をする。
+-どうやら、[[エド　エトワール]]という方がGBCと気まずい感じらしいと忠告をされたらしい。
+-演劇の活動は、メンバーを決めず活動制限もせず、サークルみたいにゆるい感じでやっていこうとなる。
+-劇場の物件が6億円で購入できることが分かり、[[ボタリン　モンロー]]さんが追加で3億出資してくれることに！
+-[[寝言　怠惰]]、[[蓮　シオン]]、[[久川　たんぽぽ]]と出資金は地道に返済していこうと話し、初回の投げ銭はお礼として[[ボタリン　モンロー]]さんに支払うことにする。
+#endregion
+//
+****09/22 [[#ストグラ 18日目>>https://www.twitch.tv/videos/2257582990]]
+#region(開く,close)
+-[[天近　くるみ]]が劇場にステージを作成していた。
+-劇場の内装について、[[寝言　怠惰]]と相談する。
+#endregion
+//
+****09/24 [[#ストグラ 19日目 夢の初舞台>>https://www.twitch.tv/videos/2259102426]]
+#region(開く,close)
+-23時から初公演開始。今回は、チケットなしの先着順。
+-1部は[[蓮　シオン]]、[[久川　たんぽぽ]]のアイドルユニット【ハピフル】による初ライブ。
+-2部は、山田　ジェイミー、[[寝言　怠惰]]、[[天近　くるみ]]、[[蓮　シオン]]によるサスペンス朗読劇「GCP」/ススキドミノ様。
+-イベントは満員御礼で、大盛況に終わる。
+-みんなで写真撮影をする。
+#endregion
+//
+****09/25 [[#ストグラ 20日目 雑談しながら1時間だけ倉庫>>https://www.twitch.tv/videos/2259997300]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/26 [[#ストグラ 21日目>>https://www.twitch.tv/videos/2260740201]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/27 [[#ストグラ 22日目>>https://www.twitch.tv/videos/2261585631]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****09/28 [[#ストグラ 23日目>>https://www.twitch.tv/videos/2262427464]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+#endregion(9月)
+//
+***&font(16,#dcbe99){10月}
+#region(開く,close)閉じる
+****10/01 [[#ストグラ 24日目>>https://www.twitch.tv/videos/2264879971]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****10/02 [[#ストグラ 25日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2265723550]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****10/05 [[#ストグラ 26日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2268178553]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+//
+****10/06 [[#ストグラ 27日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2269058791]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+//
+****10/08 [[#ストグラ 28日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2270640073]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+//
+****10/09 [[#ストグラ 29日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2271582245]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+//
+****10/11 [[#ストグラ 30日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2273188928]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+//
+****10/15 [[#ストグラ 31日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2276518403]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+//
+****10/17 [[#ストグラ 32日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2278174790]]
+#region(開く,close)
+-22時から北で収穫祭があるので、[[怠惰>>寝言　怠惰]]ちゃんと遊びに行く。
+-[[マクドナルド>>ライトスターボーイ]]さんをを見かけて「マックさんの歌聴きたかったっすわー」と軽口をたたく。
+「そうか、殴り込みに行くか」と返答され、危うく飛び入りステージになりそうだった。
+[[マクドナルド>>ライトスターボーイ]]さんは「君は演劇でこの街で過ごしたいんだろう？それなら大きなイベントで顔を売りなさい」と忠告してくれたので、きっと善意。
+-その後、レギオンで[[マクドナルド>>ライトスターボーイ]]さんと再会。北で逃れたつもりだったラップバトルからは逃げられなかった。
+カジノに行くと、[[トウ　ユン]]さん、[[帝　レン]]さんがいらっしゃり、一緒に遊ぶ。
+途中[[焼野原　ひろし]]さんが合流され、その後、奇跡の全員BJが発生した。
+-本日のオールイン:Win +110,000,000
+#endregion
+//
+****10/18 [[#ストグラ 33日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2279017830]]
+#region(開く,close)
+-22日が蓮ちゃんたちのライブなので、そこまでハウジングができないから、やれることが少ない。
+-くるみさんと蓮ちゃんと、劇場で今後の劇団についての話し合いをする。
+団長ジェイミー、副団長寝言　怠惰て合意する。怠惰ちゃんは無理しそうなので、みんなで支えようと決意を新たにする。
+また劇場として使わない時は居酒屋を開店することで合意。
+劇団の名前や劇場の名前、居酒屋の名前やメニューを考えることに。
+電話で怠惰に、他のメンバーと話し合いできたことを伝える。今度5人揃った時にまた話すことにする。
+車がないので、街を走り回るジェイミー。
+びっくりするくらい遅い車を乗り捨てるつもりでリサセンに行く。
+今日は街がチル。
+ユンミちゃんと電話。
+上田さん8181オフロードに車を仕入れてもう。
+リサセンで乗り捨てる車から必要なものを移動させる。
+セイジさんと出会う。
+次回公演のフライヤーイメージを伝える。
+昨日のラップバトルを振り返る。マックさんのおもちゃになってない？疑惑。
+ラップバトルはカロリー高かったけど、楽しかった。新しい扉開きそうだった。
+セイジさんから話しかけられて、夢を語る。
+この街に2.25次元演劇を広めたい。
+いつかこの街の出来事を日本で2.75次元で公演したい。
+本日のオールイン:Lose -40,000,000
+#endregion
+//
+****10/19 [[#ストグラ 34日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2279879323]]
+#region(開く,close)
+-[[牧田　ここな]]さんに電話をして劇場で待つと伝えるも、伝わらず。
+-待っている間に劇場前でエモ筋のトレーニングをしてると、車で[[花沢 まるん]]さんが通りかかる。
+-奇行中のジェイミーを見て、轢いたかと心配して車から降りてきて、気をつけるよう忠告される。
+-やることがないので早めの就寝。
+本日のオールイン:Lose -15,000,000
+#endregion
+//
+****10/20 [[#ストグラ 35日目【山田ジェイミー物語】>>https://www.twitch.tv/videos/2280708552]]
+#region(開く,close)
+-リサセンで独白。
+-[[9055]]に出勤。事故で[[上田　さん]]がお亡くなりになり、社長に就任しますと言って見送る。
+[[蓮　シオン]]が車の修理に来る。誰とペアで演劇をしたいか確認すると、[[キャプテン　わきを]]さんを希望する。見返してやりたいとのこと。
+[[上田　さん]]が無事帰還。若干残念そうなジェイミー。
+-[[上田　さん]]からレースカーを借りて[[はまべ]]さん作レースをテストプレイ。
+-10月コースを練習中車が謎のパイプにはまり、インパウンドを依頼。警察署長の[[赤城　煉]]さんが救助に来たが、まさかの警察車両もすっぽりはまるという事態に。
+仕方ないので[[ヒロ　ヤマモト]]さんに連絡し、ヘリで救援に来てくれた。
+-レース再挑戦。なんとか9分台で完走。
+-再々チャレンジで[[ヴァン　ダーマー]]さんの車にぶつける。10億円の車だったそうで、修理代を払うと申し出るが、快く許してくれる。ついでに腹出しはもう寒いよと心配してくれた。優しい。
+レースを続けると今度は、止まっていたヘリに車をぶつける。慌ててこっそり修理する。またしても[[ヴァン　ダーマー]]さんのヘリだった。許してくれたが、さすがに3度目はヤバイので今日のレースは終了。
+-[[9055]]に帰って[[天使　はの]]さんと会話。馬免許の情報を得る。
+-ネイルをしに自転車じぇすたぁで向かうが、やってなかった。代わりに、偶然[[牧田　ここな]]さんと会ったので、後から読み合わせ練習をする約束を取り付ける。
+ヘリ事故現場に遭遇したり、車が降ってきたりするが、無事[[9055]]帰宅。
+-[[上田　さん]]が【ハピフル】のカメラマンをすることになったと教えられる。【ハピフル】の名前がうろ覚えな代表とカメラマン。
+-オフロードバイクが欲しい話をすると、たまたま売れ残りがあったらしく、タダでいただく。上司太っ腹。
+-[[9055]]を退勤し、劇場で[[牧田　ここな]]さんと読み合わせ開始。
+本番公演日の予定を確認すると、[[牧田　ここな]]さんは23時開始の回が都合いいらしい。
+練習用台本で読み合わせをする。ジェイミーによる演劇講座が始まる。音や句読点に気をつけるといいらしい。当日の相方は、ジェイミーをご希望。
+-タバコ屋で偶然[[ガヴァイ　アッカンマン]]さんと会う。演劇に誘うが、忙しいかもしれないから一旦保留。せめて観劇にと誘うと、19時からの回は行けそうだということ。[[ガヴァイ　アッカンマン]]さんは29日から警察体験なので、やや遅れて31日開始予定のジェイミーと一緒にやれるかもしれない。
+-[[パキ　ち]]さんに連絡したら教習できそうだったので、大型免許を取得。
+-ゆたんぽさんのベレー帽を見て、サスペンダーに着替える。
+ゆたんぽさんと話していて、収穫祭の時、人違いで[[不二子　キャスパー]]さんに失礼なことを言ってし待ったと判明。今度会ったら謝る。
+本日のオールイン:Lose -10,000,000
+#endregion
+//
+****10/22 [[#ストグラ 36日目【山田ジェイミー物語】>>URL]]
+#region(開く,close)
+-短い起床。
+-ハピフルの単独ライブを見に行く。
+チケットを買っていなかったが、顔パスで入れてもらえる。
+お気持ち5,000,000振り込んで、今日はチェキ会不参加。
+-魔女の酒場で食べ物を買う。
+カム　カマダさんの飲食開店の話を聞く。
+-帰り道、劇場居酒屋のメニューどうしようか考えながら帰宅。寝る。
+-本日のオールイン:Win ＋10,000,000
+#endregion
+//
+****10/23 [[#ストグラ 37日目【山田ジェイミー物語】>>https://www.twitch.tv/videos/2283208711]]
+#region(開く,close)
+-劇場で起床
+この前焼野原ひろしさんが公演日程がかぶっていると連絡されたのを思い出す。
+車がなかったので牧田ここなタクシーに送ってもらう。本日3人目のお客様らしい。
+日課のクラフトする。
+上田さんから電話。カスタム用の車ができたらしい。
+プリンセスいくらさんと会うが、ジェイミーが透明人間になっているらしい。いくらさんが消えたので、居眠り運転ということでクラフトへ行く。
+怠惰ちゃんから電話。GBCのカフェイベントに行ってたらしい。はやくボタリンさんへのプレゼントの連絡をギガさんにしてねと釘刺される。怠惰ちゃん有能。
+29日の朗読劇の相談をしたい。救急隊イベントのチケット販売が23時からなので、それ以降なら空いているらしい。無線で他メンバーに伝える。ぽぽちゃんは寝たらしい。
+太田民子さんに歌ってもらおうかと画策している。カバー曲がメインになるけど、参加してくれるらしい。民子さんは19時でも23時でも大丈夫。すずさん次第でOK。
+魔女の酒場で劇団についての話し合い。
+今月の公演の出演者が確定。後は、キャプテン　わきをさんの時間を確認すれば、チケット完成。
+怠惰ちゃんから、もっときちんと時間を取って準備したいという意見が出る。
+来月は、台本が確定して、準備期間を設定した上で公演日を決めることで合意。
+途中、焼野原ひろしさんから電話があり、イベント日時の件で了承を取る。
+
+劇場で読み合わせをすることになり、劇場へ。
+へそくりのメタスク貯金を怠惰ちゃんにバラす。へそくりとは？
+ハウジング予定を説明し、スプレーの仕様等を確認。
+追加で、すでにくるみさん、蓮ちゃんには伝えていた劇団名について、怠惰ちゃんに確認する。
+【劇団夢歩き】(暫定)に決定。ぽぽちゃんの確認が取れたら確定。
+#endregion
+//
+****10/24 [[#ストグラ 38日目【山田ジェイミー物語】>>https://www.twitch.tv/videos/2283981329]]
+#region(開く,close)
+初心者の自粛ジグ、真面メルト、真島ルイの道案内をする。JTSでダンスや菖光亭体験を紹介。
+#endregion
+//
+****10/25 [[#ストグラ 39日目 台本が来た！！！【山田ジェイミー物語】>>https://www.twitch.tv/videos/2284823839]]
+#region(開く,close)
+10/25
+牧田ここな先輩と本番台本で練習、お金取れる演技指導。
+#endregion
+//
+****10/26 [[#ストグラ 40日目【山田ジェイミー物語】>>https://www.twitch.tv/videos/2285704938]]
+#region(開く,close)
+フライヤー完成＆twitxと街で宣伝。
+ハウジング計画。21時からチケット販売。
+マチネ6枚、ソワレ20枚、通しチケット21枚を売り上げる。総売上18,300万円
+劇場で怠惰ちゃん、くるみさんと稽古。
+ぽぽちゃんの確認が取れたので、【劇団夢歩き】決定。
+3時以降はペールノエルに訪れる。就寝後も夢で稽古を続けた。
+#endregion
+#endregion(10月)
+
+#endregion(2024月)
+//
+#region(2025年)&bold(){2025年}
+***&font(16,#dcbe99){1月}
+#region(開く,close)閉じる
+****01/14 [[警察正式就職！！！☻ #ストグラ 52日目☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2353050867]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(1月)
+//
+***&font(16,#dcbe99){2月}
+#region(開く,close)閉じる
+****02/01 [[警察14日目。#ストグラ 65日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2369366955]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(2月)
+//
+***&font(16,#dcbe99){3月}
+#region(開く,close)閉じる
+・&b(){情報募集中}
+#endregion(3月)
+//
+***&font(16,#dcbe99){4月}
+#region(開く,close)閉じる
+・&b(){情報募集中}
+#endregion(4月)
+//
+***&font(16,#dcbe99){5月}
+#region(開く,close)閉じる
+・&b(){情報募集中}
+#endregion(5月)
+//
+#endregion(2025年)
+//
+#co{
+↓コピー用素材
+//***&font(16,#dcbe99){yyyy年mm月}
+#region(開く,open)閉じる
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(yyyy年mm月)
+}
+
+*&font(25,#0000){&font(32,#dcbe99){S}EASON2 エピソード &icon_fa(fa fa-scroll)}
+**帰ってきた餡ブレラ
+2026年3月20日「記憶改ざんされてるらしい...？」
+#region(開く)
+-はじめまして、餡ブレラのジェイミーです！！
+-久しぶりに起きてきたら、みんなでバイトしてるらしい。そんな金なしギャングだったっけ？
+-餡ブレラのメンバーはみんな覚えているんだけど、他が曖昧
+--顔と名前は覚えてるんだけど、関係性がわからない
+-NOVAFAMILIAとギャングカラーの赤色を賭けての抗争
+--なぜかマックさんも自陣に参戦、そして強い
+--敗北
+
+2026年4月1日「エイプリルフールらしいね！復活？？？」
+-空港にて餡ブレラ勢ぞろいで再入国（白あん）
+#endregion
+
+*&font(25,#0000){&font(32,#dcbe99){ア}ーカイブ &icon_fa(fa fa-video)}
+&bold(){※こちらのアーカイブはサブスクライバー限定配信です。}
+***&underdot(#efdecb,3px){&font(#c2a581,17px){&icon_fa(fa fa-square)}&font(16,#666){&space()2024年&space()}}
+#region(開く)&b(){閉じる}
+****&font(16,#dcbe99){8～9月}
+#region(開く)閉じる
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=center,days=center}
+|~配信日|~days|~アーカイブ|~備考|h
+|08/29|1|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ1日目 山田ジェイミー上ロス！>>https://www.twitch.tv/videos/2236953868]]||
+|08/31|2|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 上ロス2日目 ジェイミー視点>>https://www.twitch.tv/videos/2237954528]]|| 
+|09/01|3|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 3日目!>>https://www.twitch.tv/videos/2238839492]]||
+|09/04|4|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 4日目 >>https://www.twitch.tv/videos/2242303254]]||
+|09/05|5|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 5日目 >>https://www.twitch.tv/videos/2243098140]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 5日目その２ >>https://www.twitch.tv/videos/2243231038]]||
+|09/07|6|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 6日目>>https://www.twitch.tv/videos/2244802604]]||
+|09/08|7|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 7日目>>https://www.twitch.tv/videos/2245868181]]||
+|09/10|8|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 8日目>>https://www.twitch.tv/videos/2247410704]]||
+|09/11|9|&font(#6441A4){&icon_fa(fa fa-twitch)} [[飯雑談→ #ストグラ 9日目>>https://www.twitch.tv/videos/2248234240]]||
+|09/12|10|&font(#6441A4){&icon_fa(fa fa-twitch)} [[雑談→ #ストグラ 10日目>>https://www.twitch.tv/videos/2249100822]]||
+|09/13|11|&font(#6441A4){&icon_fa(fa fa-twitch)} [[雑談→ #ストグラ 11日目>>https://www.twitch.tv/videos/2249874858]]||
+|09/14|12|&font(#6441A4){&icon_fa(fa fa-twitch)} [[雑談→ #ストグラ 12日目>>https://www.twitch.tv/videos/2250751790]]||
+|09/15|13|&font(#6441A4){&icon_fa(fa fa-twitch)} [[雑談→ #ストグラ 13日目>>https://www.twitch.tv/videos/2251632503]]||
+|09/17|14|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 14日目>>https://www.twitch.tv/videos/2253278844]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}  [[#ストグラ 14日目>>https://www.twitch.tv/videos/2253291679]]||
+|09/18|15|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 15日目>>https://www.twitch.tv/videos/2254137521]]||
+|09/19|16|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 16日目>>https://www.twitch.tv/videos/2255006450]]||
+|09/22|17|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 17日目>>https://www.twitch.tv/videos/2256829540]]||
+|09/22|18|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 18日目>>https://www.twitch.tv/videos/2257582990]]||
+|09/24|19|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 19日目 夢の初舞台>>https://www.twitch.tv/videos/2259102426]]||
+|09/25|20|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 20日目 雑談しながら1時間だけ倉庫>>https://www.twitch.tv/videos/2259997300]]||
+|09/26|21|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 21日目>>https://www.twitch.tv/videos/2260740201]]||
+|09/27|22|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 22日目>>https://www.twitch.tv/videos/2261585631]]||
+|09/28|23|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 23日目>>https://www.twitch.tv/videos/2262427464]]||
+#table_sorter{even=#f4f4f4,odd=#fff}}}}
+#endregion(8～9月)
+//
+****&font(16,#dcbe99){10月}
+#region(開く)閉じる
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=center,days=center}
+|~配信日|~days|~アーカイブ|~備考|h
+|10/01|24|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 24日目>>https://www.twitch.tv/videos/2264879971]]||
+|10/02|25|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 25日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2265723550]]||
+|10/05|26|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 26日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2268178553]]||
+|10/06|27|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 27日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2269058791]]||
+|10/08|28|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 28日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2270640073]]||
+|10/09|29|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 29日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2271582245]]||
+|10/11|30|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 30日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2273188928]]||
+|10/15|31|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 31日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2276518403]]||
+|10/17|32|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 32日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2278174790]]||
+|10/18|33|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 33日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2279017830]]||
+|10/19|34|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 34日目【山田ジェイミー物語一章】>>https://www.twitch.tv/videos/2279879323]]||
+|10/20|35|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 35日目【山田ジェイミー物語】>>https://www.twitch.tv/videos/2280708552]]||
+|10/22|36|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 36日目 ハピフル見る【山田ジェイミー物語】>>https://www.twitch.tv/videos/2282424736]]||
+|10/23|37|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 37日目【山田ジェイミー物語】>>https://www.twitch.tv/videos/2283208711]]||
+|10/24|38|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 38日目【山田ジェイミー物語】>>https://www.twitch.tv/videos/2283981329]]||
+|10/25|39|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 39日目 台本が来た！！！【山田ジェイミー物語】>>https://www.twitch.tv/videos/2284823839]]||
+|10/26|40|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 40日目【山田ジェイミー物語】>>https://www.twitch.tv/videos/2285704938]]||
+|10/27|41|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 41日目 舞台に向けて 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2286579112]]||
+|10/29|42|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 42日目 舞台本番当日！！！！【山田ジェイミー物語】>>https://www.twitch.tv/videos/2288250564]]||
+|10/30|43|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 43日目 世界統合？！！ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2289192674]]||
+|10/31|44|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 44日目 警察体験初日☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2289955675]]||
+#table_sorter{even=#f4f4f4,odd=#fff}}}}
+#endregion(10月)
+****&font(16,#dcbe99){11月}
+#region(開く,open)閉じる
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=center,days=center}
+|~配信日|~days|~アーカイブ|~備考|h
+|11/01|45|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 45日目 警察体験2日目☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2290762208]]||
+|11/02|46|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 46日目 警察体験最終日☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2291659607]]||
+|11/??|47|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 47日目 演劇反省会☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2292697005]]||
+|11/??|48|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 48日目 すこーしだけ☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2294243996]]||
+|11/??|49|&font(#6441A4){&icon_fa(fa fa-twitch)} [[ちょいと顔出し雑談してストグラ49日目☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2297456972]]||
+|11/??|50|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 50日目☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2298390029]]||
+|11/20|51|&font(#6441A4){&icon_fa(fa fa-twitch)} [[お久しぶりです。 #ストグラ 51日目☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2306550805]]||
+#table_sorter{even=#f4f4f4,odd=#fff}}}}
+#endregion(11月)
+#endregion(2024年)
+//
+***&underdot(#efdecb,3px){&font(#c2a581,17px){&icon_fa(fa fa-square)}&font(16,#666){&space()2025年&space()}}
+#region(開く)&b(){閉じる}
+****&font(16,#dcbe99){1月}
+#region(開く)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=center,days=center}
+|~配信日|~days|~アーカイブ|~ダイジェスト|~備考|h
+|01/14|52|&font(#6441A4){&icon_fa(fa fa-twitch)} [[約2か月ぶり！街どうなってんだろう…☻ #ストグラ 52日目☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2353050867]]|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ダイジェスト>>https://www.twitch.tv/videos/2405295187]]|警察正式就職|
+|01/16|53|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察2日目 #ストグラ 53日目☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2354836954]]|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ダイジェスト>>https://www.twitch.tv/videos/2407980185]]||
+|01/17|54|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察3日目 #ストグラ 54日目☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2355675099]]|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ダイジェスト>>https://www.twitch.tv/videos/2407980327]]||
+|01/18|55|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察は野蛮4日目 #ストグラ 55日目☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2356533568]]|||
+|01/19|55|&font(#6441A4){&icon_fa(fa fa-twitch)} [[飲みからの期間。警察は野蛮4日目 #ストグラ 55日目☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2356739059]]|||
+|01/19|56|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察5日目 #ストグラ 56日目☻ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2357497946]]|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ダイジェスト>>https://www.twitch.tv/videos/2411177994]]||
+|01/21|57|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察6日目。57日目 #ストグラ 【山田ジェイミー物語】>>https://www.twitch.tv/videos/2359375079]]|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ダイジェスト>>https://www.twitch.tv/videos/2411178478]]||
+|01/22|58|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察7日目。#ストグラ 58日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2360278902]]|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ダイジェスト>>https://www.twitch.tv/videos/2411178811]]||
+|01/23|59|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察8日目。#ストグラ 59日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2361176106]]|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ダイジェスト>>https://www.twitch.tv/videos/2411179104]]||
+|01/24|60|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察9日目。#ストグラ 60日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2362146108]]|||
+|01/28|61|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察10日目。#ストグラ 61日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2365785564]]|||
+|01/29|62|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察11日目。#ストグラ 62日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2366682545]]|||
+|01/30|63|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察12日目。#ストグラ 63日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2367560753]]|||
+|01/31|64|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察13日目。#ストグラ 64日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2368552066]]|||
+#table_sorter{even=#f4f4f4,odd=#fff}}}}
+#endregion(1月)
+//
+****&font(16,#dcbe99){2月}
+#region(開く)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=center,days=center}
+|~配信日|~days|~アーカイブ|~備考|h
+|02/01|65|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察14日目。#ストグラ 65日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2369366955]]||
+|02/02|66|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察15日目。#ストグラ 66日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2370325278]]||
+|02/04|67|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察16日目 #ストグラ 67日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2372088431]]||
+|02/05|68|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察17日目 #ストグラ 68日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2372963600]]||
+|02/06|69|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察18日目 #ストグラ 69日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2373826084]]||
+|02/07|70|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察19日目 #ストグラ 70日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2374694998]]||
+|02/08|71|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察20日目 #ストグラ 71日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2375568264]]||
+|02/09|72|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察21日目 #ストグラ 72日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2376501021]]|1枠目|
+|02/09|72|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察21日目 #ストグラ 72日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2376515852]]|2枠目|
+|02/11|73|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察22日目 #ストグラ 73日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2378205672]]||
+|02/13|74|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察23日目 #ストグラ 74日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2379286885]]||
+|02/13|75|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察24日目 #ストグラ 75日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2380077103]]||
+|02/14|76|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察25日目 #ストグラ 76日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2380790020]]||
+|02/15|77|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察26日目 #ストグラ 77日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2381656437]]||
+|02/16|78|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察27日目 #ストグラ 78日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2382610963]]||
+|02/18|79|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察28日目 #ストグラ 79日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2384420635]]||
+|02/19|80|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察29日目 #ストグラ 80日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2385300805]]||
+|02/20|81|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察30日目 #ストグラ 81日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2386179529]]||
+|02/21|82|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察31日目 #ストグラ 82日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2387043588]]||
+|02/22|83|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察32日目 #ストグラ 83日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2387978977]]||
+|02/23|84|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察33日目 #ストグラ 84日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2388923750]]||
+|02/25|85|&font(#6441A4){&icon_fa(fa fa-twitch)} [[FFVII→ストグラ 警察早蛮>>https://www.twitch.tv/videos/2390628350]]||
+|02/26|86|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察35日目 #ストグラ 86日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2391485952]]||
+|02/27|87|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察36日目 #ストグラ 87日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2392326539]]||
+|02/28|88|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察37日目 #ストグラ 88日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2393193706]]||
+#table_sorter{even=#f4f4f4,odd=#fff}}}}
+#endregion(2月)
+//
+****&font(16,#dcbe99){3月}
+#region(開く)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=center,days=center}
+|~配信日|~days|~アーカイブ|~備考|h
+|03/04|89|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察38日目 #ストグラ 89日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2396764415]]|ガヴァイ退職を知る|
+|03/05|90|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察39日目 #ストグラ 90日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2397611032]]||
+|03/06|91|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察40日目 #ストグラ 91日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2398456525]]||
+|03/07|92|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察41日目 #ストグラ 92日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2399302456]]||
+|03/08|93|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察42日目 #ストグラ 93日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2400199630]]||
+|03/09|94|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察43日目 #ストグラ 94日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2401116309]]||
+|03/11|95|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察44日目 #ストグラ 95日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2402806908]]||
+|03/12|96|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察45日目 #ストグラ 96日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2403682855]]||
+|03/13|97|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察46日目 #ストグラ 97日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2404466339]]||
+|03/14|98|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察47日目 #ストグラ 98日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2405300268]]||
+|03/15|99|&font(#6441A4){&icon_fa(fa fa-twitch)} [[警察48日目 #ストグラ 99日【山田ジェイミー物語】>>https://www.twitch.tv/videos/2406188348]]||
+|03/16|100|&font(#6441A4){&icon_fa(fa fa-twitch)} [[街に来て100日目だぁぁぁあああ！！！ #ストグラ【山田ジェイミー物語】>>https://www.twitch.tv/videos/2407104339]]||
+|03/18|101|&font(#6441A4){&icon_fa(fa fa-twitch)} [[101日目 #ストグラ【山田ジェイミー物語】>>https://www.twitch.tv/videos/2408809845]]||
+|03/19|102|&font(#6441A4){&icon_fa(fa fa-twitch)} [[102日目 #ストグラ【山田ジェイミー物語】>>https://www.twitch.tv/videos/2409674389]]||
+|03/20|103|&font(#6441A4){&icon_fa(fa fa-twitch)} [[103日目 #ストグラ【山田ジェイミー物語】>>https://www.twitch.tv/videos/2410553251]]||
+|03/21|104|&font(#6441A4){&icon_fa(fa fa-twitch)} [[104日目 #ストグラ【山田ジェイミー物語】>>https://www.twitch.tv/videos/2411401891]]||
+//|03/dd|n|&font(#6441A4){&icon_fa(fa fa-twitch)}[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f4f4f4,odd=#fff}}}}
+#endregion(3月)
+//
+****&font(16,#dcbe99){4月}
+#region(開く,open)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=center,days=center}
+|~配信日|~days|~アーカイブ|~備考|h
+
+#table_sorter{even=#f4f4f4,odd=#fff}}}}
+#endregion(4月)
+//
+****&font(16,#dcbe99){5月}
+#region(開く,open)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=center,days=center}
+|~配信日|~days|~アーカイブ|~備考|h
+
+#table_sorter{even=#f4f4f4,odd=#fff}}}}
+#endregion(5月)
+//
+#endregion(2025年)
+#co{
+//****&font(16,#dcbe99){mm月}
+#region(開く,open)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=center,days=center}
+|~配信日|~days|~アーカイブ|~備考|h
+|mm/dd|n|&font(#6441A4){&icon_fa(fa fa-twitch)} [[配信タイトル>>ここに配信URLを入力]]||
+//|mm/dd|n|&font(#6441A4){&icon_fa(fa fa-twitch)} [[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f4f4f4,odd=#fff}}}}
+#endregion(mm月)
+}
+
+**&font(25px,#dcbe99){コ}ラボ &icon_fa(fa fa-gamepad)
+***&font(#c2a581,17px){&icon_fa(fa fa-square)}&space()&font(16,#dcbe99){2025年}
+#region(開く)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=right}
+|~配信日|~配信タイトル|~参加者※順不同|~備考|h
+|02/03|&font(#6441A4){&icon_fa(fa fa-twitch)}[[警察【襲撃の世代】コラボ！！>>https://www.twitch.tv/videos/2371311863]]|RintoXD、アジ吉、白帝りいた、せかめん、ぜろなな|コードネーム、ito、PUBG|
+#table_sorter{even=#f4f4f4,odd=#fff}
+#table_autoincrement(){label=#,start=1}}}}
+#endregion(2025年)
+//
+//
+***&font(#c2a581,17px){&icon_fa(fa fa-square)}&space()&font(16,#dcbe99){TRPG・マーダーミステリー}
+#region(開く)&b(){閉じる}
+#size(90%){{{#table_style(head=center:#dcbe99:#FFF){配信日=right}
+|~配信日|~ゲーム|~配信タイトル|~参加者一覧|~備考|h
+|2025/10/24|クトゥルフ神話TRPG|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[【クトゥルフ神話TRPG/6版】ループ橋で何かが自分を待っているんです。【#ジェームス橋】>>https://www.youtube.com/live/dPmCwbEYjng?si=QQLTdfyBAD-B5nas]]|KP：スクラップ／PL：山田ジェームス武||
+#table_sorter{even=#f4f4f4,odd=#fff}
+#table_autoincrement(){label=#,start=1}}}}
+#endregion(2025年)
+
+#right(){&link_up(🔝ページTOPへ)}

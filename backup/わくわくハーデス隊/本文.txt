@@ -1,0 +1,138 @@
+#center(){&image(新.jpg,Y=300)}
+#table_style(head=#C0C0C0)
+
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&bold(){わくわくハーデス隊}|
+|~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|HADES（予定）|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年02月05日&br()（累計80日）|
+|~解散日|~&space()&icon_fa(fa-solid fa-users-slash)&space()|2026年04月25日|
+|~復活日|~&space()&icon_fa(fa fa-flag)&space()|2026年09月02日 (&countup(2026/9/1,yd)経過)|
+|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|8020番地|
+|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[アヌギフ　白川]]|
+|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&font(b,#000000){未定}|
+|~モチーフ|~&space()&icon_fa(fa-solid fa-dove)&space()|アナザーゴッドハーデス- 奪われたZEUS Ver.|
+|~団体ハッシュタグ|~&space()&icon_fa(fa-solid fa-hashtag)&space()|#わくハー|
+
+#region(目次を開く,open)
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(#C0C0C0){&icon_fa(fa-brands fa-sistrix fa-xl)}&aname(B,option=nolink){基本情報}
+- アヌギフ白川を市長にするために作られたギャング。&br()市長になる夢を叶えることができたら隊員の夢もすべて叶う。
+・市長選での票集めがメイン目的のため、白でも黒でも兼業でも可。
+・・そのため、他ギャングからはギャングと見なされないこともしばしば。
+・市長室で会議をしていたが、次回使ったらBANすると言っていたことを人伝に聞く。BANの意味を探偵等に調査した結果、この街から吹き飛ばされるのかもしれないとの見解に。&br()7326番地(旧A2)に移動するが、構成員が増えてからは7299番地(旧SKE)や7153番地(教会)で会議をしている。
+・街での生活において何らかの修羅場を経験したメンバーが非常に多く、意外にも話し合いは真面目だったりする。曰く「人生の補填部屋」。
+
+・兼業OKなギャングとして活動を続けていたが街に戻ってきた[[餡ブレラ]]との&s(){抗争}喧嘩を経て現在のあり方に限界を感じ、ギャングとしての組織を解散することを決めた。&br()今後は白い組織としてギルドのような形態をめざす。組織名は[[わくわくハピネス隊]]とした。
+//
+
+*&font(#C0C0C0){&icon_fa(fa fa-users fa-xl)}&aname(B,option=nolink){メンバー}
+#size(90%){{{#table_style(head=#C0C0C0:#F9FCFF:center:b){名前=bold}
+#table_filter(){名前=show,役職=show,加入日=hide,～期生=hide,紹介=show,兼業=show,配信=show,動画=hide}
+|~名前|~役職|~加入日|~～期生|~紹介|~兼業|~配信|~動画|h
+|&bold(){[[アヌギフ　白川]]}|ボス|2026/02/05|初期組 |元[[MOZU]]構成員。[[ユニベロス]]所属。||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kakigame116]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@kakistgrch]]|
+|&bold(){[[高橋　滅論]]}|アンダーボス兼マネージャー|2026/02/05|初期組|元[[第4宇宙速度]]構成員。麻陀羅組と掛け持ち。|[[麻陀羅組]] / [[渡戸林業]]|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/holonsc2]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@holon1503]]|
+|&bold(){[[飯田　けんつ]]}|&s(){借金アンダーボス} 交渉アンダーボス|2026/03/26|2期生|元[[NO LIMIT]]構成員。交渉が上手い。|[[渡戸林業]] / [[飯田書店]]|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kentsumeshi_heyoo]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCBm-vsGV7nQv6hKS6Wj9x-A?si=3Qck9vysGyj0HJEb]]|
+|&bold(){[[チンピラ >>Lv〇　チンピラ]]}|成金アンダーボス|2026/03/26|2期生|元[[NO LIMIT]]構成員|【&ruby(レベルくじ){[[Lv.94]]}】オーナー|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/pira_real]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/@pirania_kawaii?si=qUPazZCMdzA1YLra]]|
+|&bold(){[[丘猫　まる]]}|キッズアンダーボス|2026/03/26|2期生|元[[NO LIMIT]]構成員||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/soraposhich]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/@SoraphoshiCH]]|
+|&bold(){[[亀山　Hero >>焼野原　ひろし]]}|パパ活アンダーボス|2026/04/04|3期生|元[[GoodbyeCircus>#]]構成員。麻陀羅組と掛け持ち。|[[麻陀羅組]] |&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kamehirosi]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@kame_hiroshi/videos]]|
+|&bold(){[[銭形　やいち郎]]}|カラスアンダーボス|2026/04/04|3期生|元[[MOZU]]構成員。秘匿メンバー。|[[acqua ovest]] / [[Los Vegas]]|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/yaicin_heros]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@yaicinsan]]|
+|[[ジョーカー]]|初狩りアンダーボス|2026/04/08|3期生|勧誘を断っていたが加入することになった&br()元[[NO LIMIT]]構成員。ギャングボス経験あり|　|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/selphyyyyy]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/@selphy0716?si=qWiF68Be2H8DxLe-]]|
+|[[モーガン・フリーザン]]|ターキー(ロビンソン)アンダーボス|2026/04/10|3期生|[[極楽鳥花]]ボスの[[天草 >>天草　蒼]]に黙って兼務加入したため秘匿メンバー。|[[極楽鳥花]]|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/tossin1]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@tossinch/videos]]|
+
+
+//↓NOVAテロ事件により以下3名脱退。コメント化
+//|&bold(){[[上田　さん]]}|キングアンダーボス|2026/02/13|初期組|元[[9055]]社長。S2では度々騒動を起こしている。脱退後も会議に参加。|[[NOVA FAMILIA]]|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/shinnosuke_th]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/@sekai_saikyo]]|
+//|&bold(){[[アルタ・スカイブルー]]}|&s(){ギャラクシーアンダーボス} OBアンダーボス|2026/03/18|1期生|変な人。脱退後も会議に参加。|[[NOVA FAMILIA]]|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/atra_san]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/@dragon1246]]|
+//|&bold(){[[テクス・ギルベルト]]}|ラブラブアンダーボス|2026/04/05|3期生|上田とアルタが楽しそうにしているのを見て興味を持ち加入。&br()[[NOVA FAMILIA]]と掛け持ち。秘匿メンバー。|[[NOVA FAMILIA]]|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/gilltex]]|&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://m.youtube.com/@gilltex_eft]]|
+
+
+//|名前|役職|加入日|◯期生|紹介|兼業|配信|動画|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
+//構成員の変更があれば「参加者一覧」への反映もお願いします
+//----
+***過去メンバー
+#region(開く)
+#size(90%){#table_style(head=center:#808080:#FFFFFF){組織内役割=11px}
+#table_filter(){No.=hide,コードネーム=show,加入日=hide,組織内役割=hide,備考=show}
+|~名前|~コードネーム|~加入日|~脱退日|~&small(){組織内役割}|~備考|h
+|[[佐糖　あま]]|アンダーボス|2026/02/05|2026/02/??||勝手に加入させられ、ボスが知らないうちに脱退。|
+|[[エマ・アッシュ]]|アンダーアンダーボス|2026/02/05|2026/02/??||わくわくハーデス隊の名付け親。勝手に加入させられ、ボスが知らないうちに脱退。|
+|[[アラモくん]]|アラモアンダーボス|2026/02/13|2026/03/02||高橋滅論が連れて来た謎の魚。情報漏洩の濡れ衣を着せられ、なんだかんだあって脱退。|
+|[[上田　さん]]|キングアンダーボス|2026/02/13|2026/04/11| |[[NOVA FAMILIA]]のテロ事件により脱退|
+|[[アルタ・スカイブルー]]|OBアンダーボス|2026/03/18|2026/04/11| |[[NOVA FAMILIA]]のテロ事件により脱退|
+|[[テクス・ギルベルト]]|ラブラブアンダーボス|2026/04/05|2026/04/11| |[[NOVA FAMILIA]]のテロ事件により脱退。&br()脱退を通告する際に[[脇　逢魔]]に加入していたことを話してしまったアヌギフに恨みを持っている。|
+
+
+//|名前|コードネーム|加入日|脱退日|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#fff}
+}
+#endregion
+
+***勧誘中
+※コードネーム(◯◯アンダーボス)を付けた住人を主に記載
+#region(開く)
+#size(90%){#table_style(head=center:#808080:#FFFFFF){組織内役割=11px}
+|~名前|~勧誘日|~コードネーム|~備考|h
+|[[牧田　ここな]]|2026/02/28|議事録アンダーボス||
+|[[ボイラ　テンガリン]]|2026/02/28|海坊主アンダーボス||
+|[[トーマス]]|2026/03/26||会議にて勧誘するも勝負を挑まれ[[トーマス]]の圧勝、全滅させられる|
+|[[ヘルアン]]|2026/04/01|外部リモートアンダーボス|まるから電気工事が得意という話を聞き勧誘する。ツッコミ役としても優秀なため、まずは電話で会議のリモート参加を勧める|
+|[[五十嵐　えいむ]]|2026/04/04|傭兵アンダーボス|けんつの交渉術で傭兵に来てくれることになる。|
+|[[堕夜　だよ]]|2026/04/04||抗争前に戦力としても欲しく勧誘。けんつによる２度目の交渉の結果も断られる。いつでも待っていることを伝えた。|
+
+//|[[名前]]|勧誘日|コードネーム||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#fff}
+}
+#endregion
+
+
+*&font(#C0C0C0){&icon_fa(fa fa-newspaper fa-xl)}&aname(D,option=nolink){ 歴史}
+#region(,open)
+#table_filter(){関係者=hide,エピソード=show}
+#table_style(head=#C0C0C0:#faf7f7)
+|~日付|~出来事|~関係者|~エピソード|~関連動画|h
+|02/05|わくわくハーデス隊設立|[[アヌギフ　白川]]、[[佐糖　あま]]、[[エマ・アッシュ]]|||
+|02/14|元MOZUアジト購入の予約|アヌギフ、橘かげまる|||
+|02/28|元MOZUアジト購入|アヌギフ、高橋滅論、パンチャン|||
+|02/28|元MOZUアジト売却|アヌギフ、高橋滅論、パンチャン、銭形やいち郎、堕夜だよ、タラちゃん|||
+|02/28|有料公開会議開催|わんもーカフェの皆様|||
+|03/04|ハクナツメと火種|アヌギフ、ハクナツメ、高橋滅論|公開会議での滅論の発言によりハクナツメに1ヶ月以内に2000万円を支払う禊を課せられる||
+|03/06|聖ヤマシタ教会からの襲撃|アヌギフ、聖ヤマシタ教会者|山奥に呼び出され、市長にあだなすものだと銃で撃たれる。探偵に調査を依頼。||
+|03/07|聖ヤマシタ教会対策会議|アヌギフ、高橋滅論、上田、アルタ|対抗策として邪ワタリド教会の設立||
+|03/18|人事異動|アヌギフ、高橋滅論|好き勝手やる滅論に自分で責任を取らせるため滅論をボス、アヌギフは隊長に||
+|03/18|アルタの正式加入|アヌギフ、高橋滅論、上田、アルタ|武器屋の情報漏洩をした(と思われる)アルタに溶鉱炉か加入の択を選ばせ、正式加入となった。||
+|03/22|[[NOVA FAMILIA]]との抗争|アヌギフ、高橋滅論、上田、アルタ|アルタの加入とカラー(紫)を賭けた2vs2の抗争&br()結果は敗北、アルタは脱退するもOBアンダーボスとなる。||
+|03/29|ボス交代|アヌギフ、高橋滅論、アルタ、上田、けんつ、チンピラ|帰国予定だったアヌギフを構成員達が説得し、アヌギフがボスに返り咲く||
+|04/05|[[探偵>>H&B探偵事務所]]とダーティーレース抗争||チンピラとブロッコリー斎藤の交通事故による諍いが切っ掛けで[[探偵>>H&B探偵事務所]]との抗争に発展。&br()接触ありのレースでお互い妨害しあいリーダーが先にゴールしたチームの勝ちとなる。&br()見事勝利を収め慰謝料12万円を得た。||
+|04/10|[[NOVA FAMILIA]]が起こした事件と&br()メンバーの対応についての会議|アヌギフ、高橋滅論、飯田けんつ、チンピラ、&br()丘猫まる、亀山Hero、銭形やいち郎|大事件を起こした[[NOVA FAMILIA]]兼業メンバーについて一旦除名とすることを決めた。&br()その責任を果たし町の住民からの一定の信頼を回復した上で再度加入を希望をする場合は戻ってもらいたい旨も伝える予定。||
+|04/11|[[NOVA FAMILIA]]兼務メンバーの脱退通告|脇　逢魔、ギルベルト、アルタ、滅論、アヌギフ、けんつ|兼務メンバーのアルタ、上田、ギルベルトの脱退を伝える。このとき秘匿のギルベルトの兼業をアヌギフが話してしまい、個人的に恨みを持たれる。||
+|04/11|アヌギフと滅論の記憶喪失|わくハー、NOVA FAMILIA、他|アヌギフと滅論は気がつくとレギオンで倒れており、手持ちのアイテムも所持金もなくなっていた。&br()手持ち1000万が無くなり市長をころして1000万奪わずにいられなくなったアヌギフが市長室で暗殺計画の公開会議を開く。&br()けんつとチンピラの説得により一旦落ち着く。&br()NOVAとの話し合いの末、アヌギフ対ギルベルトの撃ち合い勝負に。アヌギフが勝ち、1000万返してもらう。||
+|04/15|餡ブレラとの&s(){抗争}喧嘩|わくハー、餡ブレラ|なんやかんやでわくハーはアヌギフ、滅論、亀山の3人しか参加できず、抗争を安くしたくないウェスカーにより喧嘩に変更。&br()数分でわくハーは全滅、滅論はさらに500万支払った。||
+|04/25|組織の今後の形態について会議||ギャングと名乗ることへの限界を感じ、白組織ではあるが黒にも理解がある組織としての道を模索する。&br()ハローワークのような人を組織へ紹介できるような仕事を目指す。イメージとしてはギルド。&br()また白組織としての団体として『銃を抜く』ことは重要なラインとして考えている。&br()組織名：[[わくわくハピネス隊]]、人材紹介事業：わくワーク を予定。||
+|04/25|わくわくハーデス隊解散||ギャングとしてのわくハーの解散を決定。twixにも告知を出した。||
+|08/29|わくわくハーデス隊復活|アヌギフ、高橋滅論、チンピラ、亀山Hero、ドク、|ひりつきを求めて数名のメンバーで集まり復活&br()[[マッハボクシング　ドク]]加入||
+|09/02|Cheapとして謎の種を売る|アヌギフ、高橋滅論、チンピラ、亀山Hero、ドク、上田、山田カイキ|植木鉢の噂に便乗して自分たちで作った種を売りさばく||
+//|mm/dd|出来事|関係者|エピソード・備考||
+//コピペ用メンバー→ アヌギフ、高橋滅論、上田、アルタ、飯田けんつ、チンピラ、丘猫まる、亀山Hero、銭形やいち郎、ギルベルト、ジョーカー、モーガン
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+
+*&font(#C0C0C0){&icon_fa(fa fa-calendar-o fa-xl)}&aname(D,option=nolink){ ストグラ外コラボ}
+#region(,open)
+#table_style(head=#C0C0C0:#faf7f7)
+|日付|タイトル|参加者|備考|h
+|04/13|&s()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ストグラ楽屋裏ラジオ >>https://youtu.be/EGz9LqqpNLI?si=qr59InnZEzzChYQe]]|高橋滅論(Holon)、アヌギフ白川(kaki)|わくハー設立、アヌギフ帰国の裏話等|
+|06/01|&s()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ストグラ楽屋裏ラジオ2回目 >>https://www.youtube.com/live/X941_QPRmsA?si=kgWEN6EqsZvQs98Q]]|高橋滅論(Holon)、上田(しんのすけ)、アルタ・スカイブルー(アトラ)|わくハー裏話等|
+
+
+//|日付|[[タイトル >>URL]]|参加者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

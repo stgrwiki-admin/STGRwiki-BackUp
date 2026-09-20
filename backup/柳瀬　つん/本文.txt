@@ -1,0 +1,652 @@
+#co{Season2では武器商人の組織名が変わると話されていたので、職業欄を一旦　武器商人　のみの表記に変更しています。この考えに至った経緯は編集相談所で確認できます。12/27(xmaro)}
+//
+//
+*&font(25px,#ee7800){プ}ロフィール &icon_fa(fa fa-user-circle)
+|&image(恐竜.png,y=400)||&image(ALCANA.png,y=400)|
+#region(ザウルスの素顔)ザウルスの素顔
+|&blankimg(柳瀬つん_1.png,y=200)|
+#endregion
+//
+
+
+//ここからプロフィール
+#table_filter(){Season１=hide,Season２=show}
+#table_style(head=#ffa500:#FFFFFF:)|~世界線|~&icon_fa(fa fa-earth-asia)|~Season１|~Season２|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(やなせ){柳瀬} つん|
+|~出身地|~&icon_fa(fa-solid fa-location-dot)|>|日本|
+|~身長|~&icon_fa(fa-solid fa-person-arrow-up-from-line)|>|ザウルス:2m～ / 人型:170cmくらい|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|2002年1月19日 (&countup(2002/01/19,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年9月19日(&countup(2023/9/19,yd)経過)|2025年12月24日(&countup(2025/12/24,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|武器商【[[FEMME FATALE]]】&space(1)&small(){'24/06/12〜}&br()[[はままるうどん]]&space(1)&small(){'25/09/09〜}&br()&small(){&openclose2(show=過去の職業){&nbsp(br,3)ギャング【[[IRiS]]】 &small(){'23/11/02～'24/06/12}&nbsp(br,3)メカニック【[[菖光エンジニア]]】 &small(){'23/09/21〜'24/06/09}&nbsp(br,3)飲食店【[[菖光亭]]】 &small(){'24/06/12〜'24/07/06}&nbsp(br,3)【[[個人医]]】 &small(){'24/07/06〜'25/02/12}&nbsp(br,3)メカニック【[[菖光エンジニア(2度目)]]】 &small(){'25/04/04〜'25/08/10}}}|&icon_fa(fa fa-gun)[[武器商人>FEMME FATALE]]&space(1)&small(){job'25/12/24〜}&br()&icon_fa(fa fa-rocket)[[after U]]&space(1)&small(){job'26/07/30〜}&br()&icon_fa(fa fa-coins)[[カジノマスコット>JURASSIC JACKPOT]]&space(1)&small(){'26/02/05〜}|
+|~所属|~&icon_fa(fa fa-users)|【[[ARCANA]]】&space(1)&small(){'24/07/04～} ||
+|~TwiX|~&icon_fa(fa-solid fa-dove)|@tsun_tsun|@zautsun|
+|~電話番号|~&space()&icon_fa(fas fa-phone)&space()|-|520-349-2166|
+|~住所|~&icon_fa(fa-solid fa-house-circle-check)|【8194番地】||
+|~レーサー名|~&icon_fa(fa-solid fa-motorcycle)|ざうるす||
+|BGCOLOR(#eee):~&color(#666){プレイヤー}|BGCOLOR(#eee):~&color(#666){&icon_fa(fa fa-address-card)}|>|やなつん@父ノ背中|
+|BGCOLOR(#eee):~&color(#666){告知等}|BGCOLOR(#eee):~&color(#666){&icon_fa(fa fa-bullhorn)}|>|&font(b,#404040,#000000,85%){&color(#000000){[}&color(#FFFFFF){𝕏}&color(#000000){[}}[[ X(Twitter)>>https://twitter.com/yntn_FN]]|
+|BGCOLOR(#eee):~&color(#666){配信場所}|BGCOLOR(#eee):~&color(#666){&icon_fa(fa fa-gamepad)}|>|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://twitch.tv/yntnfn]]|
+|BGCOLOR(#eee):~&color(#666){アーカイブ}|BGCOLOR(#eee):~&color(#666){&icon_fa(fa fa-youtube-play)}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@yanatsun]]&small(){アーカイブ,動画,ショート動画}|
+
+
+
+#region(目次を開く,open)&bold(){🦖目次}
+#contents(fromhere=true,level=2)
+#endregion
+*&font(25px,#ee7800){基}本情報 &icon_fa(fa fa-id-card-o)
+
+&size(12){&color(#ffa500){✿&space()}}恐竜と人の姿を持つ特異体質。
+&size(12){&color(#ffa500){✿&space()}}レギオンの守護&ruby(ザウルス){恐竜。}
+&size(12){&color(#ffa500){✿&space()}}元IRiS所属のギャングで銃の腕前は一級品。&br()火力が高く、仲間の窮地を助けることも多々あった。[[①🎬️>>https://www.twitch.tv/yntnfn/clip/BreakableSpoopyCaribouOSkomodo-9c2mWR46NBClPHFS]] / [[②🎬️>>https://www.twitch.tv/yntnfn/clip/ObliqueVictoriousPicklesStinkyCheese-BKyzczmO1wit4LRb]] / [[③🎬️>>https://www.twitch.tv/yntnfn/clip/ManlyAbstemiousCodSMOrc-mnsw6SadlyFNmnin]]
+&size(12){&color(#ffa500){✿&space()}}オレンジ色の恐竜では絶対に犯罪をしないという信念を持っている。
+//
+
+#div(width=330px,bgcolor=#ee7800){&font(b,white,130%){　ザウルスの姿 &icon_fa(fa fa-search)}}
+
+&size(12 ){&color(#ffa500){✿&space()}}&bold(){ロスサントス唯一無二の恐竜。}&br()&bold(){つんザウルス以外の恐竜は存在しない。稀に色違いのザウルスが居ることもあるが、それはすべて紛い物である。}
+&size(12){&color(#ffa500){✿&space()}}恐竜の姿では“ザウルス”の愛称で呼ばれる。
+&size(12){&color(#ffa500){✿&space()}}「○○ザウルス～」「あザウルス(ありがとう+ザウルス)」などのザウルス節が口癖。
+&size(12){&color(#ffa500){✿&space()}}職業は？と訊かれることが多々あり、その都度ザウルスが職業だと返答している。
+&size(12){&color(#ffa500){✿&space()}}背中に生えている尻尾は引っ張った人が死ぬ仕様になっている。
+&size(12){&color(#ffa500){✿&space()}}[[アドミゲス・ハン]]の車両プロファイルに『TUNザウルス』と記載されており、ハンさん専用の車として登録済み。他の誰かが乗ると車両窃盗扱いになるらしい。&br()&bold(){🦖TUNザウルス＝&ruby(ティーレックス アンリアル ネオテリック ザウルス){T-rex Unreal Neoteric Saurus。}}
+&size(12){&color(#ffa500){✿&space()}}&bold(){約6600万年前の白亜紀後期生まれ/身長2m30cm〜/体重300kg/視野角280°※Season2情報による}
+//
+
+#div(width=190px,bgcolor=#ee7800){&font(b,white,110%){　ザウルスの秘密 &icon_fa(fa fa-lock)}}
+
+#region(🔒️秘匿事項)
+
+&color(#d2691e){&bold(){実はザウルスは呪いをかけられて生まれた姿。}}&br()いつどこで呪われたのかは定かではない。&br()※Season1情報による
+#endregion
+//
+
+
+#div(width=330px,bgcolor=#ee7800){&font(b,white,130%){　人間の姿 &icon_fa(fa fa-search)}}
+
+&size(12){&color(#ffa500){✿&space()}}オレンジ色の髪が特徴的。&br()素顔を知っている住民は元レギ横界隈か元IRiSメンバーの上官～同期の[[羽山パティ>羽山　パティ]]などの限られた者しかいない。&br()&size(10){だだし、傭兵などで逮捕された場合に素顔が見れることがある。}
+&size(12){&color(#ffa500){✿&space()}}現在、人型にフォルムチェンジをする時は変装用の茶髪センターわけの爽やかな好青年の姿になる。
+&size(12){&color(#ffa500){✿&space()}}ザウルスの姿＝柳瀬つんということが成り立っており、人型で名前を名乗ると「そんな顔してたんだ」などと驚かれることがある。&size(10){(ただし本来の姿ではなく変装である)}
+&size(12){&color(#ffa500){✿&space()}}[[だん市長補佐]]と[[まいにい>まい　にい]]に高確率で間違われる。&br()特にまいにいとは兄弟説がMonDをはじめALLIN内で噂をされているくらい瓜二つである。
+//
+
+
+#div(width=230px,bgcolor=#000000){&font(b,#FFFFFF,120%){　Season2の職業一覧}}
+
+#div(width=330px,bgcolor=#ee7800)
+{&font(b,white,130%){　武器商人 &icon_fa(fa-solid fa-gun)}}
+
+&size(12){&color(#ffa500){✿&space()}}初日からティエリ、だよと共に武器商人を始める。&size(12)&br(){&color(#ffa500){✿&space()}}&s(){サーチしにくいということから}FEMME FATALEという武器商人の活動名が変わるかもしれない。&br()26/08/01時点で現メンバーは4人。&size(12){[[武器商人の詳細はこちら>FEMME FATALE]]}
+
+#div(width=330px,bgcolor=#ee7800) {&font(b,white,130%){　カジノWAND BOX &icon_fa(fa fa-coins)}}
+
+&size(12){&color(#ffa500){✿&space()}}[[麻林ラル>麻林　ラル]]本人から従業員 兼 マスコットキャラクターとして勧誘される。&br()&size(12){&color(#ffa500){✿&space()}}外観に恐竜の骨格標本があることから、ザウルス自身はその骨格標本を「ご先祖さま」と呼んでいる。&br()&size(12){&color(#ffa500){✿&space()}}ジョブには就いていない。&size(12){[[カジノの詳細はこちら>JURASSIC JACKPOT]]}
+
+#div(width=330px,bgcolor=#ee7800) {&font(b,white,130%){　after U &icon_fa(fa fa-rocket)}}
+
+&size(12){&color(#ffa500){✿&space()}}店長[[猫又ぴぴ>猫又　ぴぴ]]から従業員として勧誘される。&br()前の街で[[ユニべロス]]主催で経営していた[[U FOR U]]の後継店であり、店員には[[ユニべロス]]メンバーと関わりの深いメンバーが集められそのうちの1名として勧誘された。&br()&size(12){&color(#ffa500){✿&space()}}制服は着ず、ザウルス姿のままカウンターに立つ。&size(12){[[after Uの詳細はこちら>after U]]}
+
+
+
+
+#div(width=230px,bgcolor=#ee7800){&font(b,#FFFFFF,120%){　Season1}}
+#region(Season1の職業一覧)閉じる
+
+#div(width=330px,bgcolor=#ee7800){&font(b,white,130%){　武器商FEMME FATALE &icon_fa(fa-solid fa-gun)}}
+
+&size(130%){&color(#17184b){&bold(){「鍵閉めよし！！！」}}}
+&size(12){&color(#ffa500){✿&space()}}[[FEMME FATALE]]のTOP2。&br()元々は分解担当だったがステップアップをして製造を任せられるようになった。&br()&size(12){&color(#ffa500){✿&space()}}現在は代表の[[ティエリ>ヤブ下　安理]]と同等に全種類の武器製造が可能。&size(12){(従業員区分はChief。詳細は[[FEMME FATALE]]ページにて。)}&br()&size(12){&color(#ffa500){✿&space()}}代表のティエリが不在な時は判断を委ねられることが多々ある。&br()&size(12){&color(#ffa500){✿&space()}}ザウルスの姿ではなく人型の変装をして仕事をするので、取引相手のギャングにも名前を名乗らないとわかってもらえないことが多々発生する。&br()&size(12){&color(#ffa500){✿&space()}}ギャング時代の周囲を警戒する能力と真面目な性格が相まって、日毎に仕事場への往復路を徹底して変えている。&br()&size(12){&color(#ffa500){✿&space()}}&s(){小型犯罪が嫌いなので}面倒事に巻き込まれないように小型犯罪等を行わない、鍵の開閉確認を怠らないなどリスクヘッジを徹底している。
+//
+
+#div(width=330px,bgcolor=#ee7800){&font(b,white,130%){　はままるうどん &icon_fa(fa-solid fa-utensils)}}
+
+&size(12){&color(#ffa500){✿&space()}}以前から親しくしており、時にはコントもする仲の[[街雄サンリ>街雄　サンリ]]に誘われて一緒にうどんを捏ねることを決意。
+&size(12){&color(#ffa500){✿&space()}}'25.09.19にリニューアルオープン。[[街雄サンリ>街雄　サンリ]]と[[ぬくお>ジョン　ドゥ]]と共に店頭に立った。
+//
+
+#div(width=330px,bgcolor=#ee7800) {&font(b,white,130%){　ARCANA}} 
+
+&size(12){&color(#ffa500){✿&space()}}ARCANAの正式メンバーのひとり。&br()&size(12){&color(#ffa500){✿&space()}}「どれくらい従えるか」と無馬かなに問われた際に「現在上に立っているのは無馬さんだからやれと言われれば」と返答。そして加入が決定した。&br()[[🎬️無馬への忠誠度>>https://www.twitch.tv/yntnfn/clip/ResilientEntertainingChickpeaGOWSkull-ZgBZFJsmQ2NQA68F]]&br()&size(12){&color(#ffa500){✿&space()}}'24.9.5に無馬かなと小峯れいと共にTOPGEARの傭兵で客船ミッションに参加をしたことで傭兵業を解禁した。
+//
+
+#div(width=330px,bgcolor=#696969){&font(b,white,130%){　菖光エンジニア(SKE) &icon_fa(fa-solid fa-wrench)}}
+
+&bold(){'23.9.21〜'24.6.9(1度目)　'25.4.4〜'25.8.10(復職)}
+&size(12){&color(#ffa500){✿&space()}}1度目の雇用は街に来た直後だったため、何も知らないまま正社員になる。&br()&size(12){&color(#ffa500){✿&space()}}レギオンに貼り出されていた選挙ポスターで、SKE社長の[[菖蒲　光樹]]がギャングボスだと書いてあることを発見して全てを知ってしまった。&br()&size(12){&color(#ffa500){✿&space()}}2度目の雇用はオーナーの[[菖蒲>菖蒲　光樹]]によって流れと勢いで雇用される。&br()&size(12){&color(#ffa500){✿&space()}}IRiSが解散してから[[武器屋>FEMME FATALE]]の職に就いていたので悩んでいたが、何とかなる精神でとりあえず社員 兼 マスコットとして約1年ぶりに復職を果たす。&br()&size(12){&color(#ffa500){✿&space()}}勤務最終日に社長である[[猪狩翔太>猪狩　翔太]]によって退職手続きがされた。
+//
+
+#div(width=330px,bgcolor=#696969){&font(b,white,130%){　個人医 &icon_fa(fa fa-stethoscope)}}
+
+&bold(){'24.7.6〜'25.2.12}
+&size(12){&color(#ffa500){✿&space()}}[[ゆちゃめろでぃ>ゆちゃ めろでぃ]]の薦めにより個人医を志望し黒個人医の道を歩む。&br()&size(12){&color(#ffa500){✿&space()}}同期は[[羽山　パティ]]&br()&size(12){&color(#ffa500){✿&space()}}ジョブに就いているときは白色の恐竜 “ キュアザウルス ” になる。かなり目立つ。&br()&size(12){&color(#ffa500){✿&space()}}元ギャングのため大型犯罪ミッションの名称や地形を把握できており、逃走者の動きを先読みするなどの知識と経験をフル稼働させている。&br()&size(12){&color(#ffa500){✿&space()}}初めての救助者は[[月ノ島ごう>月ノ島 ごう]]。&br()&size(12){&color(#ffa500){✿&space()}}初めての現場介入は[[餡ブレラ]]のサーマルミッションで、その際の初めての救助者は[[七瀬ぜろ>七瀬 ぜろ]]。&br()&size(12){&color(#ffa500){✿&space()}}かな市長補佐から直々に貸し出されているタイヤ車両になることもある。&br()&size(12){&color(#ffa500){✿&space()}}[[市長>山下　ひろし]]から個人医の現場介入禁止の通達を受けて退職。
+//
+
+#div(width=330px,bgcolor=#696969){&font(b,white,130%){　IRiS &icon_fa(fa fa-user-secret)}}
+
+&bold(){'23.11.2～'24.6.12}
+&size(16){&color(#9400d3){✿&space()}}人型にフォルムチェンジをして闘っていたメイン火力のひとり。&br()&size(16){&color(#9400d3){✿&space()}}&bold(){オレンジ色のザウルスの姿では犯罪を絶対にしないという信念を抱いている。オレンジ色以外なら犯罪OK。}
+&size(16){&color(#9400d3){✿&space()}}[[SKE>菖光エンジニア]]のメカニックだが、&s(){黒市民は就けない職業になったため一時的に休職をしていた状態。}stateに載る危険性を鑑みて6/9に解雇。
+&size(16){&color(#9400d3){✿&space()}}[[IRiS]]所属前に[[ジョーカー>半沢　直ふぃ]]とサバゲーで何度か遊んだときに「何故ギャングでないのか不思議」と言われるくらい持ち前の銃の腕の良さがある。
+&size(16){&color(#9400d3){✿&space()}}同期は[[羽山　パティ]]
+&size(16){&color(#9400d3){✿&space()}}[[IRiS]]所属以降は最前線で大活躍。[[小峯さん>小峯　玲]]や[[ハンさん>アドミゲス・ハン]]をはじめメンバーからは「つんがいれば問題ない」と度々言われるくらい信頼されている。
+&size(16){&color(#9400d3){✿&space()}}銃撃戦を得意とするが、ヘリ・船・車の運転をそつなくこなし、配置決めやIGLもできるオールラウンダー。
+&size(16){&color(#9400d3){✿&space()}}銃を握るとトリガーハッピーに変貌する。テンションがあがると激喋りになり毒もよく吐く。
+#endregion
+
+
+
+*&font(25px,#ee7800){衣}装倉庫 &icon_fa(fa-solid fa-shirt)
+&size(12){(※画像をクリックすると別タブで表示されます。)}
+//アスペクト比率：縦軸Y数値を230、横幅X軸を90-115適宜編集推奨
+
+#region(season1,close)season1
+#region(ざうるす,close)ざうるす
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5408/%E6%81%90%E7%AB%9C.png,y=230,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5403/%E7%8A%AF%E7%BD%AA%E6%81%90%E7%AB%9C.png,y=230,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/21295/%E3%82%B6%E3%82%A6%E3%83%AB%E3%82%B9verG.png,y=230,x=110)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/8256/%E7%84%A6%E8%99%AB%E3%83%9A%E3%83%80%E3%83%AB.png,y=230,x=125)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5660/IRiS%E3%83%BB%E8%AD%A6%E5%AF%9F%E3%82%B6%E3%82%A6%E3%83%AB%E3%82%B9.png,y=230,x=120)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/15690/IRiS%E3%82%B6%E3%82%A6%E3%83%AB%E3%82%B9.png,y=230,x=120)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6654/%E5%80%8B%E4%BA%BA%E5%8C%BB%E3%82%B6%E3%82%A6%E3%83%AB%E3%82%B9.png,y=230,x=125)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/13740/%E8%B5%A4%E3%82%B6%E3%82%A6.png,y=230,x=125)|
+|BGCOLOR(#EAEFF2):~ 恐竜&br()&size(10){普段着ざうるす&br()(オレンジ)}|BGCOLOR(#EAEFF2):~犯罪恐竜&br()&size(10){犯罪用ざうるす(灰)}|BGCOLOR(#EAEFF2):~ザウルスverG&br()&size(10){御存知の恐竜グレイ(灰)&br()ヘリバトル大会用}|BGCOLOR(#EAEFF2):~ 焦虫ペダル&br()&size(10){ユニフォームざうるす(黄)}|BGCOLOR(#EAEFF2):~警察ざうるす&br()&size(10){ザウルスヘイスト用(青)}|BGCOLOR(#EAEFF2):~IRiSざうるす&br()&size(10){ザウルスヘイスト用(紫)}|BGCOLOR(#EAEFF2):~個人医ざうるす&br()&size(10){キュアザウルス(白)&br()個人医を辞職後は「白ザウ」}|BGCOLOR(#EAEFF2):~赤ザウ&br()&size(10){ドッキリ(未遂)用(赤)}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5762/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-01-22%20141059.png,y=230,x=180)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/11423/%E6%81%90%E7%AB%9C%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9ver.png,y=230,x=110)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/11424/%E6%81%90%E7%AB%9C%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%95ver.png,y=230,x=110)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/12298/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E5%B0%BB%E5%B0%BE.png,y=230,x=125)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/12773/%E5%80%8B%E4%BA%BA%E5%8C%BB%E3%82%B6%E3%82%A6%E3%83%AB%E3%82%B9%28%E5%90%8D%E6%9C%AD%E3%81%82%E3%82%8A%29.png,y=230,x=125)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/21866/puropera.png,y=230,x=150)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/22969/%E3%81%AF%E3%81%A3%E3%81%B4%E3%83%BC%E3%81%96%E3%81%86%E3%82%8B%E3%81%99.png,y=230,x=130)|
+|BGCOLOR(#EAEFF2):~ ヘルメット恐竜&br()&size(10){恐竜＋ヘルメット}|BGCOLOR(#EAEFF2):~ 恐竜ネックレスver&br()&size(10){恐竜＋ネックレス}|BGCOLOR(#EAEFF2):~ 恐竜スカーフver&br()&size(10){恐竜＋スカーフ}|BGCOLOR(#EAEFF2):~個人医ざうるす&br()&size(10){元のカラーのなごり}|BGCOLOR(#EAEFF2):~個人医ざうるす&br()(名札あり)&br()&size(10){ざうるす流おめかし}|BGCOLOR(#EAEFF2):~puropera&br()&size(10){ペティパティ誕生日パーティ用}|BGCOLOR(#EAEFF2):~はっぴーざうるす&br()&size(10){はままるうどん制服}|
+
+
+
+#endregion
+
+#region(私服・変装,close)私服・変装
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5390/%E6%99%AE%E6%AE%B5%E7%9D%80.png,y=230,x=125)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5391/suit.png,y=230,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5393/usi.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5392/%E3%83%A1%E3%82%A4%E3%83%89.png,y=230,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5412/%E5%B0%8F%E5%B7%9D.png,y=230,x=100)|
+|BGCOLOR(#EAEFF2):~ 普段着&br()&size(10){初期服}|BGCOLOR(#EAEFF2):~suit&br()&size(10){Violet Fizz来店用}|BGCOLOR(#EAEFF2):~ usi&br()&size(10){}|BGCOLOR(#EAEFF2):~メイド&br()&size(10){趣味で作ったもの}|BGCOLOR(#EAEFF2):~ ちいかわ(小川)&br()&size(10){コスプレ}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5400/%E3%83%98%E3%82%A4%E3%83%9B%E3%83%BC.png,y=230,x=125)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5410/%E4%BD%9C%E6%A5%AD%E7%9D%80.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5413/%E5%88%B6%E6%9C%8D.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5407/%E5%AE%87%E5%AE%99%E4%BA%BA.png,y=230,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5406/%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC.png,y=230,x=140)|
+|BGCOLOR(#EAEFF2):~ ヘイホー&br()&size(10){未開催レース用}|BGCOLOR(#EAEFF2):~作業服&br()&size(10){メカニック用衣装}|BGCOLOR(#EAEFF2):~ 制服&br()&size(10){文化祭用}|BGCOLOR(#EAEFF2):~宇宙人&br()&size(10){ﾊﾟﾙﾊﾟﾙ}|BGCOLOR(#EAEFF2):~ライダー&br()&size(10){バイクレース用}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5396/%E3%81%8C%E3%82%89%E3%82%8F%E3%82%8B.png,y=230,x=105)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5404/%E5%A4%89%E8%A3%85%E9%BB%92%E7%89%9B.png,y=230,x=105)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5405/%E5%92%8C%E8%A3%85%E5%A4%89%E8%A3%85.png,y=230,x=110)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5416/%E4%B8%AD%E8%8F%AF%E6%96%99%E7%90%86%E5%A4%89%E8%A3%85.png,y=230,x=90)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/14952/%E5%86%AC%E6%9C%8D%E6%A1%88.png,y=230,x=110)|
+|BGCOLOR(#EAEFF2):~ がらわる&br()&size(10){元々は柄悪いday来店用}|BGCOLOR(#EAEFF2):~変装黒牛&br()&size(10){うっしー}|BGCOLOR(#EAEFF2):~ 和装変装&br()&size(10){ほぼ未使用}|BGCOLOR(#EAEFF2):~中華料理変装&br()&size(10){ホイコロー}|BGCOLOR(#EAEFF2):~冬服案&br()&size(10){IRiS冬服案(大型用)&br()コンテストで着用していたもの&br()制作・披露ともに衛星外}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5409/%E7%B5%90%E5%A9%9A%E5%BC%8F%E7%94%A8.png,y=230,x=105)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5395/%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%B2%E3%83%89%E3%83%B3.png,y=230,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5401/%E3%83%9C%E3%82%A4%E3%83%A9%E3%83%98%E3%82%A4%E3%82%B9%E3%83%88.png,y=230,x=105)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5411/%E7%B4%99%E8%A2%8B.png,y=230,x=115)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5398/%E3%83%9E%E3%83%8C.png,y=230,x=130)|
+|BGCOLOR(#EAEFF2):~ 結婚式用&br()&size(10){}|BGCOLOR(#EAEFF2):~アルマゲドン&br()&size(10){ゴン、ジョーカーと&br()お揃い}|BGCOLOR(#EAEFF2):~ ボイラヘイスト&br()&size(10){尾行用}|BGCOLOR(#EAEFF2):~ 紙袋&br()&size(10){犯罪用変装}|BGCOLOR(#EAEFF2):~ツンザレスマヌ太郎&br()&size(10){コスプレ}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5394/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8C.png,y=230,x=130)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5402/%E5%86%AC%E6%9C%8D.png,y=230,x=90)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5414/%E6%B8%85%E6%A5%9A.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5399/%E3%83%90%E3%83%BC%E3%83%86%E3%83%B3%E3%83%80%E3%83%BC.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5415/%E6%B8%85%E6%A5%9A2.png,y=230,x=95)|
+|BGCOLOR(#EAEFF2):~ アモングマヌ&br()&size(10){こち犯で使用}|BGCOLOR(#EAEFF2):~ 冬服&br()&size(10){イエティは光る}|BGCOLOR(#EAEFF2):~ 清楚&br()&size(10){長靴パンツマン}|BGCOLOR(#EAEFF2):~ バーテンダー&br()&size(10){こち犯用}|BGCOLOR(#EAEFF2):~ 清楚2&br()&size(10){大学生風}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5928/%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6012/%E5%BF%83%E7%84%A1%E3%81%8D.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6207/%E8%BF%B7%E5%BD%A9.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6445/%E7%A7%81%E6%9C%8D.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6656/IBM.png,y=230,x=95)|
+|BGCOLOR(#EAEFF2):~ ハンター&br()&size(10){ハンターT}|BGCOLOR(#EAEFF2):~ 心無き&br()&size(10){心無き市民風変装}|BGCOLOR(#EAEFF2):~ 迷彩&br()&size(10){ゴンとお揃い&br()パンツと靴を替えた&br()迷彩2も存在}|BGCOLOR(#EAEFF2):~ 私服&br()&size(10){}|BGCOLOR(#EAEFF2):~ IBM&br()&size(10){コスプレ}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6653/%E9%9B%B7%E9%96%80%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC.png,y=230,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6652/%E9%9B%B7%E9%96%80%E6%9F%93%E5%B2%A1.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6657/%E9%9C%B2%E2%97%8F%E7%8B%82.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6649/%E5%BD%BC%E3%82%B7%E3%83%A3%E3%83%84.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6655/%E5%BD%BC%E3%82%B7%E3%83%A3%E3%83%842.png,y=230,x=100)|
+|BGCOLOR(#EAEFF2):~ 雷門テンプレ&br()&size(10){コスプレ}|BGCOLOR(#EAEFF2):~ 雷門染岡&br()&size(10){コスプレ}|BGCOLOR(#EAEFF2):~ 露●狂&br()&size(10){}|BGCOLOR(#EAEFF2):~ 彼シャツ&br()&size(10){}|BGCOLOR(#EAEFF2):~ 彼シャツ2&br()&size(10){}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6650/%E7%A0%82%E6%BC%A0%E8%BF%B7%E5%BD%A9.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/7006/%E6%BC%86%E9%BB%92%E3%81%AE%E9%A8%8E%E5%A3%AB%E5%9B%A3.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/7174/%E3%81%B7%E3%82%8A%E3%82%8D%E3%81%BC.png,y=230,x=90)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/8255/GOPT.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/8856/GOPT2.png,y=230,x=95)|
+|BGCOLOR(#EAEFF2):~ 砂漠迷彩&br()&size(10){迷彩2の色違い}|BGCOLOR(#EAEFF2):~ 漆黒の騎士団&br()&size(10){ちくわぶ}|BGCOLOR(#EAEFF2):~プリロボ&br()&size(10){}|BGCOLOR(#EAEFF2):~ GOPT&br()&size(10){ゴンオザパティつん&br()お揃い}|BGCOLOR(#EAEFF2):~ GOPT&br()&size(10){※魔改造版}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/9570/%E3%83%97%E3%83%AA%E3%82%BA%E3%83%B3%E6%9C%8D.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/8257/%E7%B7%91%E3%81%AE%E3%81%9F%E3%81%AC%E3%81%8D.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/8861/%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%83%80%E3%83%BC.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/9571/%E6%9F%B3%E3%82%BB.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/11390/%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB.png,y=230,x=95)|
+|BGCOLOR(#EAEFF2):~ プリズン服&br()&size(10){イベント用}|BGCOLOR(#EAEFF2):~ 緑のたぬき&br()&size(10){}|BGCOLOR(#EAEFF2):~ サスペンダー&br()&size(10){肩の妖精は「なすび」}|BGCOLOR(#EAEFF2):~ 柳セ&br()&size(10){松ダ(ゆちゃさん)と&br()お揃い}|BGCOLOR(#EAEFF2):~ ソーラーパネル&br()&size(10){姫一夕から&br()譲り受けたコスプレ}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/11612/FF.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/12449/FF2-2.png,y=230,x=105)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/11611/FF2.png,y=230,x=80)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/12297/%E5%80%8B%E4%BA%BA%E5%8C%BB%E4%BA%BA.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/13357/%E5%80%8B%E4%BA%BA%E5%8C%BB%E5%A4%A7%E5%9E%8B.png,y=230,x=95)|
+|BGCOLOR(#EAEFF2):~ FF&br()&size(10){FEMME FATALE&br()夏制服案}|BGCOLOR(#EAEFF2):~ FF2&br()&size(10){FEMME FATALE制服案}|BGCOLOR(#EAEFF2):~ FF2(髪通常)&br()&size(10){制服案2の通常髪型}|BGCOLOR(#EAEFF2):~ 個人医人&br()&size(10){彼シャツ系個人医}|BGCOLOR(#EAEFF2):~ 個人医大型&br()&size(10){個人医思い出作り用}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/20718/a.png,y=230,x=80)|
+|BGCOLOR(#EAEFF2):~ a&br()&size(10){噂のベルトお試し}|
+
+#endregion
+
+#region(ARCANA / FEMME FATALE,close)ARCANA(傭兵業含む)/FEMME FATALE
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/12314/ALCANA.png,y=230,x=105)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/13682/%E3%83%88%E3%83%83%E3%83%9D%E3%82%AE%E6%88%A6%E9%97%98%E6%9C%8D.png,y=230,x=90)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/14759/MOZU.png,y=230,x=130)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/14758/MOZU%E5%A4%A7%E5%9E%8B.png,y=230,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/14920/GBC%E6%88%A6%E9%97%98%E6%9C%8D.png,y=230,x=85)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/17605/hanhan.png,y=230,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/17756/D4.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/22011/%E3%81%A7%E3%81%83%E3%82%8C%E3%81%84.png,y=230,x=90)|
+|BGCOLOR(#EAEFF2):~ ARCANA&br()&size(10){秘匿組織用&br()刺青場所は未定}|BGCOLOR(#EAEFF2):~ トッポギ戦闘服&br()&size(10){傭兵：TOPGEAR}|BGCOLOR(#EAEFF2):~ MOZU&br()&size(10){MOZUっぽいスーツ}|BGCOLOR(#EAEFF2):~ MOZU大型&br()&size(10){傭兵：MOZU}|BGCOLOR(#EAEFF2):~ GBC戦闘服&br()&size(10){傭兵：GBC}|BGCOLOR(#EAEFF2):~ hanhan&br()&size(10){傭兵：HANTASMA}|BGCOLOR(#EAEFF2):~ D4&br()&size(10){傭兵：第4宇宙速度}|BGCOLOR(#EAEFF2):~ でぃれい&br()&size(10){傭兵：DERAY}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/12495/FF3%28%E9%AB%AA%E9%80%9A%E5%B8%B8%29.png,y=230,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/12546/FF3%28%E9%AB%AA%E9%80%9A%E5%B8%B8%E9%A1%94%E3%81%8B%E3%81%8F%E3%81%97%29.png,y=230,x=135)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/19340/FF3%28%E9%AB%AA%E9%80%9A%E5%B8%B8%E9%A1%94%E3%81%8B%E3%81%8F%E3%81%97%293.png,y=230,x=110)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/19324/FF3%28%E9%AB%AA%E9%80%9A%E5%B8%B8%E9%A1%94%E3%81%8B%E3%81%8F%E3%81%97%292.png,y=135,x=135)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/12496/HappyFF3%28%E9%AB%AA%E9%80%9A%E5%B8%B8%29.png,y=230,x=110)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/12497/HappyFF3%28%E3%83%9E%E3%82%B9%E3%82%AF%E3%82%AA%E3%83%95%29.png,y=230,x=135)|
+|BGCOLOR(#EAEFF2):~ FF3(髪通常)&br()&size(10){暫定版&br()シマシマネクタイ}|BGCOLOR(#EAEFF2):~ FF3(髪通常顔かくし)&br()&size(10){バンダナマスク版&br()アプデにより消失}|BGCOLOR(#EAEFF2):~ FF3(髪通常顔かくし)&br()&size(10){2025/04/25～&br()}|BGCOLOR(#EAEFF2):~ &br()&size(10){&br()}|BGCOLOR(#EAEFF2):~ HappyFF3(髪通常)&br()&size(10){頭部アクセサリ＋バッグ}|BGCOLOR(#EAEFF2):~ HappyFF3&br()&size(10){マスクオフ}|
+
+#endregion
+
+//説明文収納のため縦軸250にしています
+#region(IRiS,close)IRiS
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5417/IRiS%E5%88%B6%E6%9C%8D1.png,y=250,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5418/IRiS%E5%88%B6%E6%9C%8D2.png,y=250,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/11048/IRiS%E5%88%B6%E6%9C%8D4.png,y=250,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5588/IRiS%E5%88%B6%E6%9C%8D3.png,y=250,x=115)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5419/IRiS%E5%A4%A7%E5%9E%8B1.png,y=250,x=95)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5420/IRiS%E5%A4%A7%E5%9E%8B2.png,y=250,x=105)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5421/IRiS%E5%A4%A7%E5%9E%8B3.png,y=250,x=105)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/6651/IRiS%E5%A4%A7%E5%9E%8B4.png,y=250,x=105)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/8862/IRiS%E5%A4%A7%E5%9E%8B5.png,y=250,x=110)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5422/IRiS%E5%A4%A7%E5%9E%8B%E5%86%AC.png,y=250,x=110)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/5660/IRiS%E3%83%BB%E8%AD%A6%E5%AF%9F%E3%82%B6%E3%82%A6%E3%83%AB%E3%82%B9.png,y=250,x=120)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/15690/IRiS%E3%82%B6%E3%82%A6%E3%83%AB%E3%82%B9.png,y=250,x=135)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/10346/%E5%B3%B6%E5%8F%96%E3%82%8A.png,y=250,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/10434/%E5%B3%B6%E5%8F%96%E3%82%8A2.png,y=250,x=110)|
+|BGCOLOR(#EAEFF2):~ IRiS制服&br()&size(10){加入直後のみ使用}|BGCOLOR(#EAEFF2):~IRiS制服&br()&size(10){}|BGCOLOR(#EAEFF2):~IRiS制服&br()&size(10){5/31(181日目)～}|BGCOLOR(#EAEFF2):~IRiS制服2&br()&size(10){冬服}|BGCOLOR(#EAEFF2):~ IRiS大型&br()&size(10){～11/23(39日目)まで}|BGCOLOR(#EAEFF2):~IRiS大型(兎面)&br()&size(10){髪色が目立ちすぎるため&br()染めた}|BGCOLOR(#EAEFF2):~IRiS大型(紙袋)&br()&size(10){}|BGCOLOR(#EAEFF2):~IRiS大型2&br()(クッキーマン)&br()&size(10){}|BGCOLOR(#EAEFF2):~IRiS大型&br()&size(10){オザゴンと&br()お揃いのパーカー}|BGCOLOR(#EAEFF2):~IRiS大型(冬服)&br()&size(10){アクセサリーは無し}|BGCOLOR(#EAEFF2):~警察ざうるす&br()&size(10){ザウルスヘイスト用(青)}|BGCOLOR(#EAEFF2):~IRiSざうるす&br()&size(10){ザウルスヘイスト用(紫)}|BGCOLOR(#EAEFF2):~島取り&br()&size(10){初回衣装}|BGCOLOR(#EAEFF2):~島取り2&br()&size(10){シマ取り2回目～}|
+
+#endregion
+
+#region(KFC,close)KFC
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/15292/KFC.png,y=230,x=90)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/15394/KFCver.2.png,y=230,x=85)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/15393/KFCver.2-2.png,y=230,x=110)|
+|BGCOLOR(#EAEFF2):~ KFC&br()&size(10){運営衣装&br()初回使用}|BGCOLOR(#EAEFF2):~ KFCver.2&br()&size(10){チーム戦用&br()第2回～(白)}|BGCOLOR(#EAEFF2):~ KFCver.2-2&br()&size(10){チーム戦用&br()第2回～(緑)}|
+
+
+#endregion
+
+#region(SPD,close)SPD
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/8859/%E8%AD%A6%E5%AF%9F.png,y=250,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/8860/%E6%81%90%E7%AB%9C%E8%AD%A6%E5%AF%9F.png,y=250,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/8858/IF_%E7%B4%AB%E3%81%AE%E8%A8%98%E6%86%B6.png,y=250,x=85)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/8857/IF_%E7%B4%AB%E3%81%AE%E8%A8%98%E6%86%B62.png,y=250,x=100)|
+|BGCOLOR(#EAEFF2):~ 警察&br()&size(10){SPD：SWAT衣装}|BGCOLOR(#EAEFF2):~恐竜警察&br()&size(10){SPD：警察衣装}|BGCOLOR(#EAEFF2):~紫の記憶&br()&size(10){SPD：IRiS潜入衣装}|BGCOLOR(#EAEFF2):~紫の記憶2&br()&size(10){SPD：IRiS抗争衣装}|
+#endregion
+
+#endregion
+
+#region(season2,close)season2
+#region(ざうるす,close)ざうるす
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/24974/season2-%E3%81%96%E3%81%86%E3%82%8B%E3%81%99.png,y=230,x=110)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/24990/season2-%E3%82%B6%E3%82%A6%E3%83%AB%E3%82%B9.png,y=230,x=315)|
+|BGCOLOR(#EAEFF2):~ ザウルス&br()&size(10){普段着ざうるす(オレンジ)}|BGCOLOR(#EAEFF2):~ 背面/ケツフリ&br()&size(10){&br()}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/29537/season2-DragonRex.jpg,y=230,x=135)|
+|BGCOLOR(#EAEFF2):~ DragonRex&br()&size(10){エプロンざうるす}|
+
+#endregion
+
+#region(ヒト型,close)通称は「内臓」等
+#region(髪型,close)髪型
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/24993/%E3%81%AF%E3%81%92.png,y=100,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/24991/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8.png,y=100,x=200)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/24988/%E8%8C%B6%E9%AB%AA.png,y=100,x=200)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/28556/%E6%A8%AA%E5%88%86%E3%81%91.jpg,y=100,x=100)|
+|BGCOLOR(#EAEFF2):~ はげ&br()&size(10){}|BGCOLOR(#EAEFF2):~ オレンジ髪&br()&size(10){}|BGCOLOR(#EAEFF2):~ 茶髪(中分け)&br()&size(10){}|BGCOLOR(#EAEFF2):~ 茶髪(横分け)&br()&size(10){}|
+#endregion
+
+#region(マスク,close)マスク
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/26773/%E6%81%90%E7%AB%9C%E5%A4%89%E8%A3%85.jpg,y=100,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/26774/%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3.jpg,y=100,x=100)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/28557/%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB.jpg,y=100,x=100)|
+|BGCOLOR(#EAEFF2):~ 恐竜変装&br()&size(10){}|BGCOLOR(#EAEFF2):~ ユニコーン&br()&size(10){}|BGCOLOR(#EAEFF2):~ ゴーグル&br()&size(10){}|
+#endregion
+
+#region(コーデ,close)コーデ
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/24995/season2-%E5%88%9D%E6%9C%9F%E3%81%A4%E3%82%93.jpg,y=230,x=380)|
+|BGCOLOR(#EAEFF2):~ 初期つん&br()&size(10){}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/24994/season2-%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%83%80%E3%83%BC.jpg,y=230,x=380)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/24987/season2-%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%83%80%E3%83%BC-%E5%B8%BD%E5%AD%90%E4%BB%98%E3%81%8D.png,y=230,x=380)|
+|BGCOLOR(#EAEFF2):~ サスペンダー&br()&size(10){}|BGCOLOR(#EAEFF2):~ 帽子つき&br()&size(10){}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/24989/season2-%E5%A4%89%E8%A3%85.png,y=230,x=135)|
+|BGCOLOR(#EAEFF2):~ 変装&br()&size(10){}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/25805/season2-buki.jpg,y=230,x=380)|
+|BGCOLOR(#EAEFF2):~ buki&br()&size(10){}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/26652/season2-IRiS.jpg,y=230,x=380)|
+|BGCOLOR(#EAEFF2):~ IRiS&br()&size(10){}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/28501/season2-%E6%AD%A6%E5%99%A8%E5%B1%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%BE-%E5%85%A8%E8%BA%AB.jpg,y=230,x=135)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/28500/season2-%E6%AD%A6%E5%99%A8%E5%B1%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%BE.jpg,y=230,x=380)|
+|BGCOLOR(#EAEFF2):~ 武器屋しましま&br()&size(10){}|BGCOLOR(#EAEFF2):~ &br()&size(10){}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/28555/season2-%E5%A4%89%E8%A3%8502.jpg,y=230,x=380)|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/28558/%E3%83%88%E3%82%B2%E3%83%88%E3%82%B2.jpg,y=230,x=135)|
+|BGCOLOR(#EAEFF2):~ 変装&br()&size(10){}|BGCOLOR(#EAEFF2):~ トゲトゲ&br()&size(10){}|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/793/28744/season2-%E8%BB%A2%E9%80%81%E9%80%94%E4%B8%AD.jpg,y=230,x=380)|
+|BGCOLOR(#EAEFF2):~ 転送途中&br()&size(10){}|
+#endregion
+#endregion
+
+
+#endregion
+
+*&font(25px,#ee7800){エ}ピソード &icon_fa(fa fa-calendar-o)
+//
+**年表
+//柳瀬つんが直接関わっていることのみ。
+//衛星外の出来事は載せていないです。
+//敬称略です🦖
+
+#div(width=330px,bgcolor=#ee7800){&font(b,#FFFFFF,120%){　Season１}}
+
+#region(2023年,close) #table_style(head=center:#ffa500:#FFF)
+{日付=center}
+#table_filter(){出来事=show,備考=hide}
+|~日付|~主要事項&infobox(title=※注,trigger=hover){アーカイブの日付やナンバリングが本配信と異なる場合があります}|~備考|h
+|09/19|ロスサントスに転入。|#1| 
+|09/21|SKEに就業。|#2|
+|09/27|レギ横キッズ開始&初ダウン。|#6|
+|10/10|ザウルス誕生。|#15|
+|10/15|ザウルスとして生きる決意。|#19|
+|11/02|IRiSに加入。|#33|
+#endregion(2023年)
+//
+#region(2024年,close) #table_style(head=center:#ffa500:#FFF) {日付=center}
+#table_filter(){出来事=show,備考=hide}
+|~日付|~主要事項&infobox(title=※注,trigger=hover){アーカイブの日付やナンバリングが本配信と異なる場合があります}|~備考|h
+|01/12|BMCガチャの沼へ。|#76|
+|02/20|BMCガチャをcomplete。|#109|
+|04/03|羽山パティ記憶喪失事件。|#144|
+|04/10|羽山パティの記憶が戻る。|#149|
+|04/21|稲葉ゴンがIRiSを脱退。|#157| 
+|04/23|スドーバックスの「ざうるすどぉなつガチャ」を215連でcomplete。|#158|
+|04/26|餡ブレラに勧誘される。|#160|
+|04/28|IRiSに残留を決意。|#161|
+|05/10|SKEの闇メカニックが進展。猪狩から社長を打診される。|#168|
+|05/14|シマトリ初日。IRiS単独2度目のカジノヘイスト成功。|#170|
+|05/18|小峯れいと2人で限界アーティファクトミッション。全回収で成功する。|#173|
+|05/21|菖光亭で『ざうるすのふわとろオムライス』販売開始。|#175|
+|06/12|IRiS解散。/ 無馬から武器商人FEMME FATALEの勧誘をされて就業する。|#186|
+|06/13|元レギ横キッズ集合。/ 個人医に応募をする。|#187|
+|06/14|武器商人としての初仕事をする。|#188|
+|06/26|無馬から提案された傭兵業を承諾する。|#193|
+|07/04|ARCANA加入。/ 武器商人の階級があがる。|#198|
+|07/06|市長と面接。晴れて個人医に就業する。|#199|
+|07/07|個人医として初の犯罪者ピックに成功。|#200|
+|07/09|FEMME FATALEの全メンバーと顔合わせ&武器受注の現場に赴く。&br()ARCANAアジトで会議&顔合わせをする。|#201|
+|07/10|シマトリ治療班として初めて参加をする。|#202|
+|07/12|個人医に就業後、初めて指名手配になる。|#203|
+|07/14|個人医に就業後、初めての逮捕&プリズン。&br()ジョーカーのギャングに勧誘される。|#204|
+|07/16|武器受注書の作成を初めて行う。&br()小峯れいのARCANA加入を知る。&br()菖光亭の新メニュー『ザウカレー(ZAUCURRY』販売開始&infobox(title=※注,trigger=hover){ゆちゃから知らされたのが07/16なだけで販売開始は少し前からの可能性有り}|#205|
+|07/21|ゆちゃめろでぃとシュガーピーチから"ザウルスパロー"をプレゼントされる。|#208|
+|07/23|FEMME FATALEの定例会に参加。|#209|
+|07/28|ARCANAメンバーで会議。&br()白市民パス保有者以外のARCANAメンバーで麻薬カルテルDEPの家宅捜査の護衛をする。|#212|
+|07/31|羽山パティから8/3のLIVEに招待される。|#214|
+|08/03|招待された『Live In Los Santos』に行く。|#217|
+|08/06|個人医になって1ヶ月経過|#お休み|
+|08/16|9055主催【空港貸し切りトラックレース 】の前半を走り優勝する。|#222|
+|08/29|いわさきそすの個人医卒業祝いとして軍事物資ミッションを個人医で行う。|#228|
+|09/05|無馬と小峯と一緒にTOPGEARの傭兵をする。|#231|
+|09/07|花火大会に参加。&br()いわさきそすからロングフィン譲り受ける。&br()いわさきそすの個人医卒業記念撮影と送別会を行う。|#232|
+|09/19|ロスサントスに転入して1年経過。|#237|
+|09/22|個人医とMOZUの合同会議。|#238|
+|09/24|FEMME FATALEで昇格。武器の組み立てができるようになる。|#239|
+|10/10|&infobox(title=いわさきそす1億円チャレンジに成功。※,trigger=hover){いわさきそすが個人医を卒業する際の約束で、弟子の中でいちばん最初にピックした者が1億円とメディカルバッグを受け継げるチャレンジ。}&br()中古車ディーラーの抽選会で当選してMil-spec Patriot Militaryを購入する。|#245|
+|10/22|傭兵で参加したオイルリグの延長戦で警察署襲撃がつく。&br()※延長戦を砂漠で行った際、砂漠の警察署が導入されたことを知らなかったので意図せず警察署襲撃がつく。|#250|
+|11/07|特殊車両のタイヤで初めて逮捕されたタイヤ記念日。|#255|
+|11/12|市長から直々に個人医の医療費改定資料を貰う。|#257|
+|11/24|FEMME FATALEのクラフトがカンストする。&br()大川がA2を辞めた歴史的瞬間に立ち会う。|#262|
+|11/28|無月レオのライブに現地参加をする。|#263|
+|11/29|MOZUの傭兵に参加。&br()ナタルに顔面と銃の腕を褒められ、欲しがられる。|#264|
+|12/03|パティと実行している『IRiSスタンプラリー』が1つ埋まる。&br()&size(10){1つ目は[[アドミゲス・ハン]]}&br()救急隊ガチャに4000万注ぎ込む。|#265|
+|12/05|救急隊ガチャに8000万注ぎ込む。|#266|
+|12/06|焦月ツルギの誕生日プレゼント用の代金1億5千万を主催の上田に送金する。&br()イナイロハからエモートを伝授される。&br()パティのコンビニ強盗の恐竜質になる。|#267|
+|12/08|無馬にザウルス×ノアチェンバーを揶揄われる。&br()ハンバーガー教に入信する。|#268|
+|12/10|寝る直前にパティとゆちゃめろでぃに自宅に押し掛けられる。|#269|
+|12/13|時空警察と出会う。&br()ジョーカーからギャング設立の申請が通ったと教えられる。&br()魔女の酒場で店番をする。|#270|
+|12/14|サンクチュアリたえこのヨガ教室に参加。|#271|
+|12/15|スマホの壁紙を雪だるまザウルスに変更する。&br()ひのらんが警察を辞めて半グレになったと知る。|#272|
+|12/17|パティをひみつの音楽会に誘う。|#273|
+|12/18|小峯れいと稲葉ゴンと高級車窃盗をする。&br()ひみつの音楽会に行き、プレゼント交換会と共に楽しむ。&br()牛の免許取得に向けてトレーニングを開始。|#274|
+#endregion(2024年)
+//
+#region(2025年,close) #table_style(head=center:#ffa500:#FFF) {日付=center}
+#table_filter(){出来事=show,備考=hide}
+|~日付|~主要事項&infobox(title=※注,trigger=hover){アーカイブの日付やナンバリングが本配信と異なる場合があります}|~備考|h
+|01/03|牛の免許を取得。相棒を " ぎゃう " と命名。|#277|
+|01/05|FEMME FATALEの武器レシピ全種類を習得。&br()柳田ライアンとノアチェンバーの一時帰国。|#278|
+|01/07|街の理で収集品が消失。約15億注ぎ込んでコンプリートしたBMCガチャの品もなくなった。|#279|
+|01/11|FEMME FATALEの業務として各ギャングに武器パーツについて通達開始。|#281|
+|01/14|小峯れいのペットとしてライジングサン宗介を紹介される。&br()品格チェックの誘いを受ける。|#283|
+|01/17|ママみ同好会の2nd写真集を購入する。&br()ヤブ下安理が半グレになったことを知る。|#284|
+|01/18|ロスサントス品格チェックに小峯れいと羽山パティと出場する。|#285|
+|01/19|誕生日ザウルス。&br()TOPGEARの解散を知る。&br()ARCANAcity構想の話を知る。|#286|
+|01/24|怪文書(ざうるす信号)爆誕。|#287|
+|01/26|個人クリニックを購入する。|#288|
+|02/01|個人クリニックが開業。&br()ゴミ箱カーを購入する。&br()ゆちゃめろでぃから誕生日プレゼントとして " ざうケーキ "を貰う。|#290|
+|02/04|パシフィック宗介の準備ミッションをモニタリングする。&br()ヴァンダーマーと連絡先を交換する。&br()第4宇宙速度のアジトに招待される。|#291|
+|02/09|hantasmaの傭兵に参加する。&br()FEMME FATALEで新武器の開発に成功する。|#293|
+|02/11|黒個人医の現場介入ができなくなったため、個人医を退職。|#294|
+|02/18|ライジングサン宗介とヤシャロアのデートプラン&br()" パシフィック宗介 "を実行する。|#296|
+|02/23|無馬かなと羽山ペティの100円ステーキ事件が発生。|#297|
+|02/25|無馬かなと羽山ペティの100円ステーキ事件の顛末を知る。&br()無馬かなから街を去ると直接告げられる。|#298|
+|03/18|小峯れいのギャングに加入することを見送る。|#301|
+|03/28|シルビアがFEMME FATALEを退職。&br()芳賀ノエルのFEMME FATALE体験開始。&br()菖蒲光樹と武器屋について話をする。|#307|
+|04/01|SPD2025でIRiSの夢を見る。|#???|
+|04/04|白市民パスを取得。&br()SKEに復職する。|#308|
+|04/25|SKEのランクが見習いからManager(ランク4)に昇格する。|#313|
+|04/29|羽山パティの餡ブレラ加入を告げられる。|#314|
+|04/30|ゆちゃめろでぃから個人医を辞めることを告げられる。|#315|
+|05/08|イースターイベントのたまごカーをGET。&br()鬼野ねねからざうぬいを貰ったのでSKEのざうぬいを渡す。|#317|
+|05/13|柳田ライアンとノアチェンバーがロスサントスに帰って来た日。&br()ノアチェンバーから預かっていたバティ(バイク)を返却する。&br()雷堂ましろに「いつか救急隊に体験に来い」と強めに言われる。|#319|
+|05/27|約1年ぶりに起床をした汚骨憂太から帰国することを告げられる。&br()無馬かなが街を去ったと大川から教えられる。無馬邸は加藤圧が、ARCANAの物資は小峯れいが引き継いだ。&br()無馬かなから預かっているというスナイパーライフル＆コンパクトライフルを小峯から受け取り、ティエリに渡す。|#324|
+|06/10|既存の武器性能が大幅に変化。それに伴い武器受注の曜日と時間も変更になる。|#328|
+|06/13|武器性能の調整にSTOPがかかったので返金対応に追われる。&br()餡ブレラの街襲撃事件と解散。&br()オザワハヤマサの帰国。|#329|
+|06/18|葛城司、うさぎさん、街雄サンリと遊びでUFOを呼ぶ儀式をした。|#330|
+|06/22|オザワからの贈り物 『白フロガー(白)』|#332|
+|06/28|7/15のヘリバトルに白市民枠としてゆちゃめろでぃに誘われる。|#333|
+|07/03|うさぎさんのペールノエル1日店長イベントでチェキを撮る。|#334|
+|07/08|千葉大地＝稲葉ゴンが変装した姿だと知る。&br()SPAだははで行われたペティ＆パティのライブを観る。|#333|
+|07/12|ヘリバトルの予行練習をする。|#334|
+|07/15|チームYTPでヘリバトル本番に挑む。&br()FEMME FATALEで新武器 HEAVY RIFLE が追加される。|#335|
+|07/18|砂漠アジトの上空で警察のヘリを目視して警戒する。|#336|
+|07/30|HEAVY RIFLEの販売開始。&br()FEMME FATALEのティエリ逮捕事件が発生。|#337|
+|08/01|UFORUでペティ＆パティの誕生日会を開く。メンバー：ゴン オザワ パティ 科場 猪狩　小峯 ゆちゃ。&br()ペティは体調不良により欠席|#339|
+|08/05|パラゴンSを購入。|#340|
+|08/07|ボートレースで万十忍と1位タイで優勝する。&br()稲葉ゴンの帰国。愛車のトラクスを譲り受ける。|#341|
+|08/08|うさぎさん＝山田パル子だと知り衝撃を受ける。|#342|
+|8/10|SKE退職。|#343|
+|8/14|半グレ編スタート。&br()イグナスを購入。&br()赤コンテナの存在を知る。|#344|
+|08/19|E5's BURGERミッションを初めて受注した日。|#346|
+|08/22|サバゲー大会に出場。&br()FEMME FATALEのエルメス逮捕事件が発生。それに伴い紙媒体での受注が廃止となる。|#347|
+|09/04|MOZUの解散を知る。|#349|
+|09/07|ごみ収集バイトをする。メンバー：ミンドリー、はがかける、とろろろろ。&br()Back Alleyに「これから忙しくなる」と意味深なことを言われる。&br()天草蒼のギャングに勧誘される。|#350|
+|09/09|飼い主の無馬からメッセージの返事が来て無馬と再会を果たす。&br()はままるうどんに就業する。&br()スナイパーライフルをティエリから貰う。|#351|
+|09/12|FEMME FATALEにだよが本採用されてシルビアが復職する。&br()Revolver MK2をティエリから貰う。|#352|
+|09/14|E5's BURGERのLv2ミッションに初めて挑む。&br()ダークかな市長補佐とスライディング対決をする。|#353|
+|09/16|ダーク対抗武器の鍵となるオーパーツ捜索開始。|#354|
+|09/19|FEMME FATALEの区分がティエリと同じBOSSクラスとなる。&br()はままるうどん新装開店。街雄サンリ、ぬくおと店番をする。&br()FEMME FATALE従業員でE5's BURGERのLv2ミッションを行う。メンバー：ティエリ、つん、だよ、シルビア。&br()羽山パティの帰国。|#355|
+|09/20|E5's BURGERのLv3ミッションに同行。&br()各ギャングにスナイパーライフルを販売開始。&br()ヘリがピエロに奪われた瞬間を目撃する。|#356|
+|09/21|対ダーク戦で南のIRiSアジトの防衛に徹する。&br()Season1完結。|#357|
+#endregion(2025年)
+//
+
+#div(width=330px,bgcolor=#ee7800){&font(b,#FFFFFF,120%){　Season2}}
+
+#region(2025年/Season2,close) #table_style(head=center:#ffa500:#FFF){日付=center}
+#table_filter(){出来事=show,備考=hide}
+|~日付|~主要事項&infobox(title=※注,trigger=hover){アーカイブの日付やナンバリングが本配信と異なる場合があります}|~備考|h
+|12/24|γ世界線のロスサントスに転送完了。|#1|
+|12/25|γ世界線で初めてのコンビニ強盗に成功する。&br()盗難車で警察車両をぶっちぎりで捲った噂が黒側で広まる。|#2|
+|12/27|12/26に無馬かなと小峯れいが銀行強盗を成功させたことを知る。&br()武器の販売を開始。&br()警察ヘリが導入されていないなか、盗難ヘリを使用したコンビニ強盗事件が発生。|#3|
+|12/28|武器の販売を本格的に開始する。|#4|
+|12/31|デスマウンテンで年越しをする。|#5|
+#endregion(2025年/Season2)
+//
+#region(2026年/Season2,close) #table_style(head=center:#ffa500:#FFF){日付=center}
+#table_filter(){出来事=show,備考=hide}
+|~日付|~主要事項&infobox(title=※注,trigger=hover){アーカイブの日付やナンバリングが本配信と異なる場合があります}|~備考|h
+|01/02|チンピラが白市民に武器屋の情報漏洩をした問題が発生。&br()闇医者が始動することを犬好マイキーとゆちゃめろでぃから直接伝えられる。&br()2053番地の武器クラフト台が警察に張られており、軽いチェイスになりかけた。|#6|
+|01/03|チンピラが陽影空に武器屋の情報漏洩をした件で、銃を販売する条件として陽影空の手でチンピラをダウンさせる試練を下す。&br()武器屋(ティエリ、柳瀬つん)と闇医者(犬好マイキー、ゆちゃめろでぃ)が結託。|#7|
+|01/09|ザウルス専用着信音のお披露目。製作者：罰下り。&br()カジノでご先祖様(骨格標本)を発見する。|#8|
+|01/16|初めて砂金を採る。&br()小峯れいから薬の素材であるアシッドを渡される。&br()文月夏苗とチンチロ勝負をして123を出し、借金を背負う。(賭け300万、倍付けあり)|#11|
+|01/22|武器屋拠点(9000番台)の使用開始|#13|
+|01/23|9163番地で薬の売人を発見する。|#14|
+|01/28|8209番地で薬の売人を発見する。&br()種類が増えたパンツの収集を開始。|#15|
+|01/30|弾の製造5倍キャンペーンが終了。&br()武器屋の共通チャットが運用開始。|#16|
+|02/05|麻林ラルから[[カジノ>JURASSIC JACKPOT]]のマスコットキャラクターに任命される。|#18|
+|02/12|服屋の姫一夕の手により、『引っ張ったら引っ張った人がシぬ背中のヒモ』が復活する。|#21|
+|02/18|加藤圧から新薬グレアを渡されて試飲する。|#23|
+|02/20|広場うた子が銃を所持していることを知り、それに関連して武器屋も絡んだ探偵事務所が動いていることを知る。&br()麻林ラルのカジノに武器屋が出資をしていることを知る。|#24|
+|02/28|だよが黒市民のエスタークを警察に通報した件を、エスターク本人から直接聞かされる。|#27|
+|03/01|だよが武器屋をクビになる。|#28|
+|03/04|武器強奪ミッションの開始。新武器セラミックピストルとコンバットピストルが導入される。&br()闇医者の名簿と治療を受ける際のバッヂを入手。|#29|
+|03/05|新武器WM29ピストルが導入される。|#30|
+|03/06|文月夏苗に借金600万を完済。&br()アドミゲス・ハンに武器強奪ミッションの存在がバレる。|#31|
+|03/12|月の島ごう、五十嵐えいむ、三島みつー、天草蒼に武器強奪ミッションの存在がバレる。&br()麻薬強奪ミッションに初参加。&br()わんも〜cafe裏手の8173番地を第2の武器屋拠点として購入する。&br()無馬かなの依頼で不二子キャスパーと共に7138番地の建物が欲しいと市長に直談判をする。|#32|
+|03/18|Ventoso AT(バイク)を購入する。&br()格闘技イベント用の煽りV撮影を本署で行う。|#36|
+|03/20|中型ミッション飛行場に初参加し、世界線が変わってから初めてのプリズンを経験する。&br()餡ブレラメンバーが旅行に来ていたので稲葉ゴンと再会する。|#38|
+|03/22|DInkA Thrust AT(バイク)を購入。&br()麻薬強奪ミッション前にトナカイ本人からDEPに加入したことを教えられる。|#39|
+|03/25|中型犯罪アーティファクトに初参加。|#40|
+|03/26|麻林ラルのカジノWAND BOXのイベントでコーラボーイと闘って勝利する。|#41|
+#endregion(2026年/Season2)
+
+**日別エピソード
+#co{文字数が増えたため子ページ作成済み。子ページで直接部分編集いただくと、こちらの親ページに自動で反映する仕組みになっています🙏子ページ検索タグ：［柳瀬 つん］過去エピソードは随時加筆、編集中です。}
+//
+#div(width=330px,bgcolor=#ee7800){&font(b,#FFFFFF,120%){　Season１ 2023.9.19 〜 2025.9.21}}
+
+#region(2023年)
+#include(柳瀬　つん/2023年9月～12月)
+#endregion(2023年に対応)
+#region(2024年)
+#include(柳瀬　つん/2024年1月～3月)
+#include(柳瀬　つん/2024年4月～6月)
+#include(柳瀬　つん/2024年7月～8月)
+#include(柳瀬　つん/2024年9月～10月)
+#include(柳瀬　つん/2024年11月～12月)
+#endregion(2024年に対応)
+#region(2025年)
+#include(柳瀬　つん/2025年1月～2月)
+#include(柳瀬　つん/2025年3月～4月)
+#include(柳瀬　つん/2025年5月～7月)
+#include(柳瀬　つん/2025年8月〜9月)
+#endregion(2025年に対応)
+----
+&size(12){エピソード編集はこちら🦖&br()｜[[EP1>柳瀬　つん/2023年9月～12月]]｜[[EP2>柳瀬　つん/2024年1月～3月]]｜[[EP3>柳瀬　つん/2024年4月～6月]]｜[[EP4>柳瀬　つん/2024年7月～8月]]｜[[EP5>柳瀬　つん/2024年月9月～10]]│[[EP6>柳瀬　つん/2024年11月～12月]]│[[EP7>柳瀬　つん/2025年1月～2月]]│[[EP8>柳瀬　つん/2025年3月～4月]]│[[EP9>柳瀬　つん/2025年5月～7月]]｜[[EP10>柳瀬　つん/2025年8月〜9月]]}
+
+
+#div(width=330px,bgcolor=#ee7800){&font(b,#FFFFFF,120%){　Season2　2025.12.24〜}}
+
+#region(2025年〜2026年/Season2)
+#include(柳瀬　つん/2025年12月)
+#include(柳瀬　つん/2026年1月〜3月)
+#include(柳瀬　つん/2026年4月〜6月)
+#include(柳瀬　つん/2026年7月〜8月)
+#endregion
+----
+&size(12){エピソード編集はこちら🦖&br()｜[[EP11>柳瀬　つん/2025年12月]]│[[EP12>柳瀬　つん/2026年1月〜3月]]│[[EP13>柳瀬　つん/2026年4月〜6月]]│[[EP14>柳瀬　つん/2026年7月〜8月]]}
+//EP13の子ページリンク先がついていなかったのでつけてみました。つけておられなかった意図あれば消して戻していただいて構いません🦖26/05/09keik
+//↑つけていた気でいました、ありがとうございます！5/11 xmaro
+
+//▼▼▼▼▼▼Template▼▼▼▼▼▼▼▼
+//#region(8月のエピソード,open)8月のエピソード
+//****8/X #XX [[ 配信タイトル>>twitch配信URL]]　
+//#region(開く,open)
+//・
+//（・エピソード募集中ザウルス〜）
+//#endregion
+//#endregion(8月のエピソードに対応)
+//▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+*&font(25px,#ee7800){ア}ーカイブ&icon_fa(fa fa-twitch)
+#co{文字数が増えたため子ページ作成済み。子ページで直接部分編集していただくと、こちらの親ページに自動で反映する仕組みです。ダイジェストは追加され次第ハイパーリンクに変更しています。振り返り用の主要エピソードやタイトル重複などあれば、備考欄もご自由にご活用ください🦖子ページ検索タグ：［柳瀬　つん］}
+//
+
+#div(width=330px,bgcolor=#ee7800){&font(b,#FFFFFF,120%){　Season１ 2023.9.19 〜 2025.9.21}}
+
+#include(柳瀬　つん/アーカイブ)
+
+#div(width=330px,bgcolor=#ee7800){&font(b,#FFFFFF,120%){　Season2　2025.12.24〜}}
+
+#include(柳瀬　つん/アーカイブS2)
+
+&size(12){アーカイブ編集｜[[Season1>柳瀬　つん/アーカイブ]]│[[Season2>柳瀬　つん/アーカイブS2]]}
+*&font(25px,#d2691e){ 動}画 &icon_fa(fa fa-youtube-play)
+#co{文字数が増えたため子ページ作成済み。子ページで直接部分編集いただくと、こちらの親ページに自動で反映する仕組みになっています🦖子ページ検索タグ：［柳瀬 つん/動画一覧］ /xmaro}
+//
+#include(柳瀬　つん/動画一覧)
+
+
+*&font(25px,#ee7800){ス}トグラ外コラボ
+#co{ストグラ外コラボのリンクを作成しました。
+※配信外は載せていません。}
+//
+****&underdot(#ffa500,4px){ ストグラジオ}
+#region(開く,open)
+#table_style(head=center:#ffa500:#FFF)
+{日付=center}
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー=hide}
+|~配信日|~ゲーム名|~配信タイトル|~メンバー|h
+|24/12/17|ストグラ/第89回ストグラジオ|[[&icon_fa(fa fa-twitch)ストグラジオ ゲスト：天羽よつは、柳瀬つん>>https://www.twitch.tv/videos/2328943781]]|やなつん、天羽よつは、しょぼすけ|
+#endregion
+
+****&underdot(#ffa500,4px){ STGRivals}
+#region(開く,close)
+#table_style(head=center:#ffa500:#FFF)
+{日付=center}
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー=hide}
+|~配信日|~ゲーム名|~配信タイトル|~メンバー|h
+|25/10/17|PUBG|[[&icon_fa(fa fa-twitch)STGRivalsカスタム>>https://www.twitch.tv/videos/2594046047]]|しょぼすけ(主催)、チーム：レイちゃん。、尖苅せにゃ、N41Ru、やなつん|
+|25/10/19|PUBG|[[&icon_fa(fa fa-twitch)STGRivals本番>>https://www.twitch.tv/videos/2595825507]]|しょぼすけ(主催)、チーム：レイちゃん。、尖苅せにゃ、N41Ru、やなつん|
+#endregion
+
+****&underdot(#ffa500,4px){ ミドルアイランド}
+#region(開く,close) #table_style(head=center:#ffa500:#FFF)
+{日付=center}
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー=hide}
+|~配信日|~ゲーム名|~配信タイトル|~メンバー|h
+|25/11/05|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#1恐竜が恐竜を捕まえる>>https://www.twitch.tv/videos/2610239595]]|Middleee(主催)、やなつん、他多数|
+|25/11/05|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#2恐竜が恐竜を捕まえるday1 part2>>https://www.twitch.tv/videos/2610319037]]|Middleee(主催)、やなつん、他多数|
+|25/11/06|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#3恐竜が恐竜を捕まえるday2>>https://www.twitch.tv/videos/2611057533]]|Middleee(主催)、やなつん、他多数|
+|25/11/07|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#4恐竜が恐竜を捕まえるday3>>https://www.twitch.tv/videos/2611893537]]|Middleee(主催)、やなつん、他多数|
+|25/11/08|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#5恐竜が恐竜を捕まえるday4>>https://www.twitch.tv/videos/2612786144]]|Middleee(主催)、やなつん、他多数|
+|25/11/13|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#6恐竜が恐竜を捕まえるday5>>https://www.twitch.tv/videos/2617167543]]|Middleee(主催)、やなつん、他多数|
+|25/11/14|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#7恐竜が恐竜を捕まえるday6>>https://www.twitch.tv/videos/2618011850]]|Middleee(主催)、やなつん、他多数|
+|25/11/16|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#8恐竜ですday7>>https://www.twitch.tv/videos/2619856209]]|Middleee(主催)、やなつん、他多数|
+|25/11/18|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#9恐竜ですか？恐竜ですよday8>>https://www.twitch.tv/videos/2621533901]]|Middleee(主催)、やなつん、他多数|
+|25/11/19|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#10俺の体にボブが入ったday9>>https://www.twitch.tv/videos/2622378482]]|Middleee(主催)、やなつん、他多数|
+|25/11/21|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#11最強のマナガルムを作るday10>>https://www.twitch.tv/videos/2624065163]]|Middleee(主催)、やなつん、他多数|
+|25/11/22|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#12ブリーディングを完全に理解した(してない)day11>>https://www.twitch.tv/videos/2624932683]]|Middleee(主催)、やなつん、他多数|
+|25/11/23|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#13恐竜の朝は早い day12>>https://www.twitch.tv/videos/2625583243]]|Middleee(主催)、やなつん、他多数|　
+|25/11/25|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#14ボス専用の恐竜を集めたい day13>>https://www.twitch.tv/videos/2627500656]]|Middleee(主催)、やなつん、他多数|
+|25/11/26|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#15ワニさんかもんぬ！！！ day14>>https://www.twitch.tv/videos/2628339276]]|Middleee(主催)、やなつん、他多数|
+|25/11/28|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#16イケメンワニさんください day15>>https://www.twitch.tv/videos/2629908103]]|Middleee(主催)、やなつん、他多数|
+|25/11/29|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#17ワニに会えないんだ day15-2>>https://www.twitch.tv/videos/2630129475]]|Middleee(主催)、やなつん、他多数|
+|25/11/29|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#18最強のワニを作りたい day16>>https://www.twitch.tv/videos/2630736251]]➜[[&icon_fa(fa fa-twitch)最強のワニを作りたい day16-2>>https://www.twitch.tv/videos/2630743002]]|Middleee(主催)、やなつん、他多数|
+|25/11/29|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#19かくつきを直した day16>>https://www.twitch.tv/videos/2630793674]]|Middleee(主催)、やなつん、他多数|
+|25/12/01|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#20ブリーディングは沼 day17>>https://www.twitch.tv/videos/2632517502]]|Middleee(主催)、やなつん、他多数|
+|25/12/03|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#21俺はワニさん間に合うのか？ day18>>https://www.twitch.tv/videos/2634158974]]|Middleee(主催)、やなつん、他多数|
+|25/12/05|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#22ワニさんを増やそうの会 day19>>https://www.twitch.tv/videos/2635890387]]|Middleee(主催)、やなつん、他多数|
+|25/12/07|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#23もうボス行けそうじゃね？ day20>>https://www.twitch.tv/videos/2637583925]]|Middleee(主催)、やなつん、他多数|
+|25/12/08|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#24おそよう day21>>https://www.twitch.tv/videos/2638555919]]|Middleee(主催)、やなつん、他多数|
+|25/12/11|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#25俺は今日ボスを狩る day22>>https://www.twitch.tv/videos/2640954003]]|Middleee(主催)、やなつん、他多数|
+|25/12/13|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#26もう終わりが近づいている day23>>https://www.twitch.tv/videos/2642333669]]|Middleee(主催)、やなつん、他多数|
+|25/12/15|ARK: Survival Ascended|[[&icon_fa(fa fa-twitch)#27今日がラスト day24>>https://www.twitch.tv/videos/2644385272]]|Middleee(主催)、やなつん、他多数|
+#endregion
+
+****&underdot(#ffa500,4px){ ゲーム/ストグラコラボ}
+#region(2024年,close)
+#table_style(head=center:#ffa500:#FFF)
+{日付=center}
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー=hide}
+|~配信日|~ゲーム名|~配信タイトル|~メンバー|h
+|24/03/31|Lethal Company|[[&icon_fa(fa fa-twitch)GOPTでリーサルカンパニー！！！>>https://www.twitch.tv/videos/2141132220]]|イナゴン、小澤直将、天羽よつは、やなつん|
+|24/08/24|Chained Together|[[&icon_fa(fa fa-twitch)【ストグラGOPTコラボ】4人の絆は鎖より固いはず、知らんけど>>https://www.twitch.tv/videos/2267978120]]|イナゴン、小澤直将、天羽よつは、やなつん|
+|24/09/05|Deadlock|[[&icon_fa(fa fa-twitch)Deadlock ※ストグラ後の3時から開始。枠とタイトルそのまま。>>https://www.twitch.tv/videos/2270613800?t=7h29m22s]]|叶、FOXRABBIT、Bact/Okawa、ごっちゃん@マイキー、しろまんた、やなつん|
+|24/09/13|Deadlock|[[&icon_fa(fa fa-twitch)Deadlock ※ストグラ後の3時から開始。枠とタイトルそのまま。>>https://www.twitch.tv/videos/2270613927?t=6h8m39s]]|叶、Bact/Okawa、ごっちゃん@マイキー、しょぼすけ、わきを、やなつん|
+|24/10/07|VALORANT|[[&icon_fa(fa fa-twitch)フルパ w/おざ、ごん、ぺお、ほろん3>>https://www.twitch.tv/videos/2269851351]]|小澤直将、イナゴン、ぺおるシバ、ほろん＾ｗ＾、やなつん|
+|24/10/08|VALORANT|[[&icon_fa(fa fa-twitch)フルパ w/ごん、こうまい3、ありけん3、てって3>>https://www.twitch.tv/videos/2270660351]]|イナゴン、こうまい、ありけん、みなみ てって、やなつん|
+|24/10/25|VALORANT|[[&icon_fa(fa fa-twitch)ふるぱ w/ゴン、ぎるくん、てって3、よっちゃん>>https://www.twitch.tv/videos/2284136922]]|イナゴン、ギルくん、みなみ てって、天羽よつは、やなつん|
+|24/11/11|VALORANT|[[&icon_fa(fa fa-twitch)ストグラフルパ w/ゴン、たまっち3、タコマン3、ゆうく3>>https://www.twitch.tv/videos/2299114412]]|イナゴン、tamatthi、タコマン、鴉紋ゆうく、やなつん|
+#endregion
+//
+#region(2025年,close) #table_style(head=center:#ffa500:#FFF)
+{日付=center}
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー=hide}
+|~配信日|~ゲーム名|~配信タイトル|~メンバー|h
+|25/01/13|VALORANT|[[&icon_fa(fa fa-twitch)ヴァロコンペ w/イナゴン、たまっち3、ゆふな3、まいたけ3>>https://www.twitch.tv/videos/2351582723]]|イナゴン、tamatthi、ゆふな、まいたけ、やなつん|
+|25/01/18|VALORANT|[[&icon_fa(fa fa-twitch)デュオコンペ w/イナゴン>>https://www.twitch.tv/videos/2356523214]]|イナゴン、やなつん|
+|25/01/22|VALORANT|[[&icon_fa(fa fa-twitch)マウスパッド変えた w/ゴン、たまちゃん、ないる3、よっちゃん>>https://www.twitch.tv/videos/2360355060]]|イナゴン、tamatthi、N41Ru、天羽よつは、やなつん|
+|25/04/16|R.E.P.O|[[&icon_fa(fa fa-twitch)G.O.P.T>>https://www.twitch.tv/videos/2434327041]]|イナゴン、小澤直将、天羽よつは、やなつん|
+|25/06/04|VARORANT|[[&icon_fa(fa fa-twitch)すとぐらふるぱ w/ゴン、こうまい3、鹿乃3、みこ3>>https://www.twitch.tv/videos/2476045810]]|イナゴン、こうまい、鹿乃、みこだよ、やなつん|
+|25/06/08|VARORANT|[[&icon_fa(fa fa-twitch)すとぐらふるぱ w/ゴン、みこ3、パカエル3、鹿乃3>>https://www.twitch.tv/videos/2479573812]]|イナゴン、みこだよ、パカエル、鹿乃、やなつん|
+|25/06/26|VARORANT|[[&icon_fa(fa fa-twitch)新Actストグラフルパ w/みこ3、鹿乃3、ゼルク3、ラムチョ3>>https://www.twitch.tv/videos/2496166912]]|みこだよ、鹿乃、ゼルク、ラムチョ、やなつん|
+|25/07/05|VARORANT|[[&icon_fa(fa fa-twitch)ストグラフルパ w/ゴン、オザ、よっちゃん、ギル3>>https://www.twitch.tv/videos/2504108560]]|イナゴン、小澤直将、天羽よつは、ギルくん、やなつん|
+|25/07/019|VARORANT|[[&icon_fa(fa fa-twitch)ストグラフルパ w/ゴン、こうまい3、ネル3、とうか3>>https://www.twitch.tv/videos/2516567177]]|イナゴン、こうまい、二十日ネル、よわむしとうか、やなつん|
+|25/07/31|VARORANT|[[&icon_fa(fa fa-twitch)ストグラフルパ w/イナゴン、こうまい3、KOHAL3、二コラ3>>https://www.twitch.tv/videos/2527272134]]|イナゴン、こうまい、KOHAL、ニコラ・クラエス、やなつん|
+|25/08/06|VARORANT|[[&icon_fa(fa fa-twitch)フルパッパ w/ゴン、ありけん3、こはる3、ネル3>>https://www.twitch.tv/videos/2532547390]]|イナゴン、ありけん、KOHAL、二十日ネル、やなつん|
+|25/08/08|VARORANT|[[&icon_fa(fa fa-twitch)タイトルなし(正確にはストグラ配信からタイトル変更忘れ)>>https://www.twitch.tv/videos/2534468361]]|イナゴン、小澤直将、KOHAL、二十日ネル、やなつん|
+|25/09/03|VARORANT|[[&icon_fa(fa fa-twitch)ストグラフルパ w/にごんご3、Rio3、鹿乃3、ゼルク3>>https://www.twitch.tv/videos/2556886031]]|にごんご、Rio、鹿乃、ゼルク、やなつん|
+|25/10/08|R.E.P.O|[[&icon_fa(fa fa-twitch)武器屋さんでR.E.P.O. w/HENRY3、だよ3、むち3>>https://www.twitch.tv/videos/2556886031]]|HENRY-8492、だよだよ、むちちゃん。、やなつん|
+|25/10/16|Unraild!→Golf It!|[[&icon_fa(fa fa-twitch)武器屋やめてレール敷きます>>https://www.twitch.tv/videos/2592384106]]|HENRY-8492、だよだよ、むちちゃん。、やなつん|
+|25/10/24|BATTLEFIELD6|[[&icon_fa(fa fa-twitch)BF6 w/ヤブ下さん>>https://www.twitch.tv/videos/2600004447]]|HENRY-8492、やなつん|
+|25/10/31|PEAK→Golf It!|[[&icon_fa(fa fa-twitch)武器屋山登り部>>https://www.twitch.tv/videos/2605979305]]|HENRY-8492、だよだよ、むちちゃん。、やなつん|
+|25/11/07|Phasmophobia|[[&icon_fa(fa fa-twitch)ファムファタール幽霊調査隊>>https://www.twitch.tv/videos/2605979305]]|HENRY-8492、むちちゃん。、やなつん|
+|25/11/11|Phasmophobia→Golf It!|[[&icon_fa(fa fa-twitch)ファムファタールでなんかやる会>>https://www.twitch.tv/videos/2618091981]]|HENRY-8492、むちちゃん。、やなつん|
+|25/11/18|Overcooked 2|[[&icon_fa(fa fa-twitch)ファムファタールお料理教室>>https://www.twitch.tv/videos/2621612682]]|HENRY-8492、むちちゃん。、やなつん|
+|25/11/28|MIMESIS|[[&icon_fa(fa fa-twitch)俺はAIなんかに負けない>>https://www.twitch.tv/videos/2629980951]]|HENRY-8492、むちちゃん。、やなつん|
+|25/12/04|DON’T SCREAM TOGETHER&br()→Keep Digging|[[&icon_fa(fa fa-twitch)叫ぶなよ！！！！！！！！！！>>https://www.twitch.tv/videos/2635066279]]|HENRY-8492、だよだよ、むちちゃん。、やなつん|
+|25/12/09|Left 4 Dead 2→Keep Digging|[[&icon_fa(fa fa-twitch)銃を担ぎます>>https://www.twitch.tv/videos/2639367989]]|HENRY-8492、だよだよ、むちちゃん。、やなつん|
+#endregion
+//
+#region(2026年,close) #table_style(head=center:#ffa500:#FFF)
+{日付=center}
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー=hide}
+|~配信日|~ゲーム名|~配信タイトル|~メンバー|h
+|26/02/09|雀魂|[[&icon_fa(fa fa-twitch)武器屋さんで麻雀 ※まじ初心者です>>https://www.twitch.tv/videos/2693171324]]|HENRY-8492、だよだよ、むちちゃん。、やなつん|
+|26/02/17|LOST EGG 2: Be together→雀魂|[[&icon_fa(fa fa-twitch)卵Lサイズ特売198円>>https://www.twitch.tv/videos/2700192765]]|HENRY-8492、だよだよ、むちちゃん。、やなつん|
+|26/02/24|雀魂|[[&icon_fa(fa fa-twitch)武器屋麻雀部>>https://www.twitch.tv/videos/2706391115]]|HENRY-8492、むちちゃん。、やなつん|
+|26/04/25|Overwatch|[[&icon_fa(fa fa-twitch)OWランク>>https://www.twitch.tv/videos/2756388111]]|HENRY-8492、やなつん|
+|26/05/11|Apex Legends|[[&icon_fa(fa fa-twitch)1年ぶりくらいのAPEX w/やいちんさん、陽向コウ>>https://www.twitch.tv/videos/2769387376]]|やいちんさん、陽向コウ、やなつん|
+|26/05/25|Apex Legends|[[&icon_fa(fa fa-twitch)エペランク w/やいちんさん>>https://www.twitch.tv/videos/2780450921]]|やいちんさん、だよだよ(途中参加)、やなつん|
+|26/06/02|Apex Legends|[[&icon_fa(fa fa-twitch)フルパランク行くぞ！ w/やいちんさん、海沼流星さん>>https://www.twitch.tv/videos/2786741162]]|やいちんさん、海沼流星、やなつん|
+|26/07/07|ジオゲッサー→雀魂|[[&icon_fa(fa fa-twitch)武器屋でジオゲ→雀魂>>https://www.twitch.tv/videos/2814195895]]|HENRY-8492、むちちゃん。、やなつん|
+|26/07/14|めっちゃカメレオン|[[&icon_fa(fa fa-twitch)ストグラコラボ>>https://www.twitch.tv/videos/2819754119]]|あんない、かなででで、キミトス、しろまんた、紫闇ヘル、include、Rio、Middleee、やなつん|
+|26/07/23|どろぼうノーム|[[&icon_fa(fa fa-twitch)どろぼうノーム w/かどさん、やんみさん、ねおんぴさん>>https://www.twitch.tv/videos/2826966130]]|かど、栗山やんみ、ねおんぴ、やなつん|
+|26/08/03|R.E.P.O|[[&icon_fa(fa fa-twitch)武器屋と薬屋でREPO>>https://www.twitch.tv/videos/2836092665]]|Katoo、のあち、聖女れりあ、弥勒セイジ、HENRY-8492、むちちゃん。、やなつん|
+|26/08/07|めっちゃカメレオン|[[&icon_fa(fa fa-twitch)SKEメンバーでカメレオン>>https://www.twitch.tv/videos/2839618523]]|017、中川、栗山やんみ、かど、姫ータ、やなつん|
+
+
+#endregion
+
+****&underdot(#ffa500,4px){ TRPG/マーダーミステリー}
+#region(開く,close)
+#table_style(head=center:#ffa500:#FFF)
+{日付=center}
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー=hide}
+|~配信日|~ゲーム名|~配信タイトル|~メンバー|h
+|24/09/09|エモクロアTRPG|[[&icon_fa(fa fa-youtube-play)TRPG│『大怪獣サメラ 』イナゴン/やなつん/小澤直将【エモクロアTRPG】#大怪獣ゴツオ>>https://www.youtube.com/watch?v=GLj_gi2SLLc]]|DL：栗山やんみ　PL：イナゴン、やなつん、小澤直将　ゲスト：天羽よつは|
+#endregion
+
+
+
+
+#right(){&link_up(🔝ページTOPへ)}

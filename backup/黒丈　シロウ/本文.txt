@@ -1,0 +1,349 @@
+*&font(25,#ece4f3){&font(35,#a59aca){プ}ロフィール &icon_fa(fa fa-user)}
+&image(黒丈シロウ_初期服.jpeg,y=400)
+
+//ここからプロフィール
+#table_style(head=#a59aca:#ffffff){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(こくじょう){黒丈} シロウ|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本(北海道)|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){2005年mm月dd日 (&countup(2005/mm/dd,y)歳}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年12月25日 (&countup(2025/12/25,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|&small(){&openclose2(show=▼過去の職業){&br()&icon_fa(fa-solid fa-cutlery)&nbsp(2)ケバブ屋【[[サニーケバブ]]】&small(){'26/01/04~'26/03/08}}}|
+|~所属|~&icon_fa(fa fa-users)|&icon_fa(fa fa-user-secret)&space()マフィア【[[玖雲]]】&small(){構成員 '26/03/08~}&br()&icon_fa(fa-solid fa-compact-disc)音楽レーベル【[[ラニマ]]】&small(){アーティスト '26/03/08~}&br()&small(){&openclose2(show=▼過去の所属先){&br()&icon_fa(fa fa-icons)&space()総合総社【[[モンスターハウスプロダクション]]】&small(){お手伝い '26/01/31~'26/03/08}}}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@kokujyoushirou|
+|~レーサー名|~&icon_fa(fa fa-user-tag)|KOKUJO SHIROU|
+|BGCOLOR(#777):COLOR(#d5cafa):~プレイヤー|BGCOLOR(#777):COLOR(#d5cafa):~&icon_fa(fa fa-address-card-o fa-fw)|柘榴シロ|
+|BGCOLOR(#777):COLOR(#d5cafa):~告知等|BGCOLOR(#777):COLOR(#d5cafa):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/zakuro_shiro?s=21&t=b89A-5gzkZraBLjrHHv6CQ]]|
+|BGCOLOR(#777):COLOR(#d5cafa):~配信場所|BGCOLOR(#777):COLOR(#d5cafa):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@shiro_zakuro?si=SQbYap55IhGmPQHX]]|
+|BGCOLOR(#777):COLOR(#d5cafa):~アーカイブ|BGCOLOR(#777):COLOR(#d5cafa):~&icon_fa(fa fa-archive)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){ストグラ再生リスト}>>https://youtube.com/playlist?list=PLU2hXaK1LjsxA0jtsy5tqcODLzDCbzh02]]|
+|BGCOLOR(#777):COLOR(#d5cafa):~ガイドライン|BGCOLOR(#777):COLOR(#d5cafa):~&icon_fa(fa fa-circle-info)|[[切り抜き動画に関するガイドライン>>https://x.com/zakuro_shiro/status/1951239363842707575?s=61]]|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,close)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&font(25,#ece4f3){&font(35,#a59aca){基}本情報 &icon_fa(fa fa-list)}
+-新しい自分を見つけたくて、ロスサントスにやってきた。
+-日本生まれの現代人。
+-一人称は「&ruby(わがはい){吾輩}」
+-古風な口調が特徴的。　「うむ！」「黒丈シロウと申す」「よろしく頼むのだ！」
+--マンガやアニメの真似をするうちに染み付いたものらしい。
+-ポケットの中に猫を飼っている。
+
+*&font(25,#ece4f3){&font(35,#a59aca){交}友関係 &icon_fa(fa fa-users)}
+&font(b,15px,#888888){※本人視点で知り得た情報のみ記載をお願い致します。}
+****&size(130%){&bgcolor(#af9fc9){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)玖雲 / ラニマ}}&nbsp(56)}}
+#region(開く)
+#table_style(head=center:#af9fc9:#fff)
+|~キャラクター名|~詳細|
+|&bold(){&b(){&font(15,#666){[[トウ　ユン]]}&space(2)}}|&bold(){&b(){ギャング[[玖雲]]}のボス兼&b(){レーベル会社[[ラニマ]]}の代表。}|
+|&bold(){&b(){&font(15,#666){[[カカッテコ＝イナフ]]}&space(2)}}|&bold(){&b(){レーベル会社[[ラニマ]]}所属で&b(){ギャング[[玖雲]]}の構成員。&br()シロウに犯罪のイロハを教えている。}|
+|&bold(){&b(){&font(15,#666){[[日々]]}&space(2)}}|&bold(){&b(){レーベル会社[[ラニマ]]}所属で&b(){ギャング[[玖雲]]}構成員。&br()普段は素材屋として活動しており、犯罪行為はしていない。}|
+#endregion
+//
+****&size(130%){&bgcolor(#af9fc9){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)サニーケバブの店員}}&nbsp(46)}}
+#region(開く)
+#table_style(head=center:#af9fc9:#fff)
+|~キャラクター名|~詳細|
+|&bold(){&b(){&font(15,#666){[[柚乃　いずみ]]}&space(2)}}|&bold(){同時期に街に来た住民。&b(){[[サニーケバブ]]}の店長をしている。}|
+|&bold(){&b(){&font(15,#666){[[揚物　ころも]]}&space(2)}}|&bold(){別の世界線から転送されてきた住民。&b(){[[サニーケバブ]]}の副店長をしている。}|
+|&bold(){&b(){&font(15,#666){[[惑朽　ルーシー]]}&space(2)}}|&bold(){同時期に街に来た住民。&b(){[[サニーケバブ]]}で働いている。}|
+|&bold(){&b(){&font(15,#666){[[陽影　空]]}&space(2)}}|&bold(){&b(){シロウ}より少し前に来た住民。&b(){[[サニーケバブ]]}で働いていて、密かに犯罪もしている。}|
+|&bold(){&b(){&font(15,#666){[[茜根　晴]]}&space(2)}}|&bold(){&b(){シロウ}、&b(){[[カカッテコ＝イナフ]]}と共に初心者マークを外した。エアホッケーは弱い。}|
+#endregion
+//
+****&size(130%){&bgcolor(#af9fc9){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)市民}}&nbsp(70)}}
+#region(開く)
+#table_style(head=center:#af9fc9:#fff)
+|~キャラクター名|~詳細|
+|&bold(){&b(){&font(15,#666){[[アイドゥラー　ヨシャパテ]]}&space(2)}}|&bold(){街に来て最初に出会った住民。自己紹介が特徴的ですごい人。}|
+|&bold(){&b(){&font(15,#666){[[平井　善之]]}&space(2)}}|&bold(){街に来た初日に出会った、服だけで無く髪や顔まで真っ赤なおっちゃん。&br()一緒にバイトをして以降、善之殿と呼んでおり、執事モードのおっちゃんを見て違和感を覚えるほどの仲となる。}|
+#endregion
+//
+****&size(130%){&bgcolor(#af9fc9){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)黒市民}}&nbsp(66)}}
+#region(開く)
+#table_style(head=center:#af9fc9:#fff)
+|~キャラクター名|~詳細|
+|&bold(){&b(){&font(15,#666){[[タラ　ちゃん]]}&space(2)}}|&bold(){街で出会った&b(){[[サニーケバブ]]}の元同僚。セクハラをしてくるセクハラ大魔神であるが、実はギャングのボスだと教わる。&br()&b(){[[モンスターハウスプロダクション]]}という会社で街を盛り上げようとしており、&b(){シロウ}を&b(){モンプロ}へ勧誘した。&br()普段はふざけた言動をしているが、何かあると話を聞いてくれるシロウのパパ？的存在になっている。}|
+|&bold(){&b(){&font(15,#666){[[アイーダ　大賀美]]}&space(2)}}|&bold(){街で出会った住民で&b(){[[タラ　ちゃん]]}の仲間。服装がパリピみたいな女の子。&b(){[[モンスターハウスプロダクション]]}に所属している。}|
+|&bold(){&b(){&font(15,#666){[[ぞん　美子]]}&space(2)}}|&bold(){街で出会った住民で&b(){[[タラ　ちゃん]]}の仲間。博多弁を話す女の子。&b(){[[モンスターハウスプロダクション]]}に所属している。}|
+|&bold(){&b(){&font(15,#666){[[三条　ねぎ]]}&space(2)}}|&bold(){初日に出会ったギャンブル好きの黒市民。&b(){[[hantasma]]}というギャングのメンバー。&br()&b(){[[ケバブ屋>サニーケバブ]]}の仲間が犯罪の人質にされた話を聞いてもらい、黒としての意見を聞かせてもらった。&br()事件の件もあり&b(){[[hantasma]]}メンバーと距離を置こうと思ってたが、&b(){ねぎ}や&b(){[[姉上>くま　ぽこ]]}とは変わらず仲良くしたいと伝えている。}|
+|&bold(){&b(){&font(15,#666){[[くま　ぽこ]]}&space(2)}}|&bold(){鉱山で出会った黒市民。&b(){[[hantasma]]}というギャングのメンバー。&br()話をしていると仲良くなれそうと言われた事で仲良くなる。姉上、妹子と呼び合う仲。}|
+#endregion
+//
+****&size(130%){&bgcolor(#af9fc9){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)公務員}}&nbsp(66)}}
+#region(開く)
+#table_style(head=center:#af9fc9:#fff)
+|~キャラクター名|~詳細|
+|&bold(){&b(){&font(15,#666){[[文月　夏苗]]}&space(2)}}|&bold(){街に来た初日に出会った[[警察>ロスサントス警察]]の人。}|
+|&bold(){&b(){&font(15,#666){[[安倍　霊明]]}&space(2)}}|&bold(){街に来た初日に出会った[[警察>ロスサントス警察]]の人。親切丁寧に街のことを教えてくれて仲良くなった。&br()何かと困ってる時に助けてくれる。日出という国からやってきた陰陽師らしい。「あなや」が口癖。}|
+#endregion
+
+*&font(25,#ece4f3){&font(35,#a59aca){エ}ピソード &icon_fa(fa fa-book-open-reader)}
+**2025年
+#region(12月,close)&bold(){12月}
+***12/25 DAY1.はじめまして、黒丈シロウだ！[[前半>>https://www.youtube.com/live/wod0vhtAMt0]]/[[後半>>https://www.youtube.com/live/7rT_6CBGvyU]]
+#region(開く,close)
+-アパートの自室で起床。
+-[[アイドゥラー ヨシャパテ>アイドゥラー　ヨシャパテ]]と出会う。
+--シロウの声が寝起きで小さかったが、大きくする方法を教えてもらい、連絡先を交換する。
+-通りすがった警察官[[文月 夏苗>文月　夏苗]]とも連絡先を交換する。
+-日出出身の陰陽師 兼 警察官の[[安倍 霊明>安倍　霊明]]と出会う。
+--連絡先を交換し、炊き出しやバイトなどについて親切に教えてもらう。「あなや、あなや」
+--[[安倍 霊明>安倍　霊明]]に案内され行ったレギオンにて[[平井 善之>平井　善之]]、[[日々]]、[[帝 レン>帝　レン]]、[[シュガー ピーチ>シュガー　ピーチ]]、[[バーバリアン 田中>バーバリアン　田中]]と連絡先を交換する。
+--バイク購入を提案され付き添ってもらい購入。ガソリンの入れ方や購入方法も実践で教えてもらう。
+--マップの見方（操作）に苦戦したが、根気強く教えてもらい習得。[[安倍 霊明>安倍　霊明]]の優しさに感謝する。
+-買い物しようと立ち寄ったコンビニで「レジの金を盗む」「盗むなよ」「一回ちょっとやっていい？」という不穏な会話をしている一団を目撃。
+--何も見なかったことにし、バイクで走り去る。
+-お金がないためバイトをしようと思い立つ。
+--窓拭きバイトの受注場所で[[にこ ぴーす>にこ　ぴーす]]と出会い、一緒に窓拭きをすることに。
+---ふわふわしており可愛らしく見える彼女はその運転、話し方、見た目とは裏腹に どうやら荒々しいように見えた &color(#aaa){が、それは気のせいらしい}
+--談笑しながら窓拭きを完了。連絡先を交換し、今度カフェに行こうと約束を交わす。&color(#aaa){まだこの街にカフェはないけれど}
+-お金を稼ぐためまた窓拭きバイトをすることに。
+--バイト場では[[ガヴァイ アッカンマン>ガヴァイ　アッカンマン]]、[[胡 將>胡　將]]と出会う。
+--バイト終わりに[[ガヴァイ アッカンマン>ガヴァイ　アッカンマン]]と仮面を買いに行き、取り外し方も教えてもらう。
+-仮面を買ったなら服も買おう と服屋へ入り、[[三条 ねぎ>三条　ねぎ]]と出会う。
+--一緒に服を選ぶ。
+---服選び中に動けなくなり、深い瞑想に入る。　
+&sizex(+1){&b(){後半部}}
+-瞑想が明け、待っていた[[三条 ねぎ>三条　ねぎ]]とタトゥーショップに行く。
+-服屋の前で[[三条 ねぎ>三条　ねぎ]]の仲間の[[とろろ ろろ>とろろ　ろろ]]と会う。
+--鉱山に採掘をしにいき、そこで合流した[[くま ぽこ>くま　ぽこ]]と四人で掘る。
+---ダイヤは出なかったものの、石が七つ採れた。
+-酒屋で就寝。
+
+//柘榴シロさんのあらすじ雑まとめを抜粋したものです
+//詳細部分のエピソードは随時募集中です
+#endregion
+----
+****12/26 [[DAY2.この街を、もっと知るのだ！>>https://www.youtube.com/live/5hQz7bszI38]]
+#region(開く,close)
+-酒屋で起床。
+-失くしてしまったバイクは諦めて、新車に買い替えるための&ruby(バイト){お金稼ぎ}をしに向かう。
+-窓拭きバイトを[[平井 善之>平井　善之]]とこなす。
+--待ち時間中に所有車の位置をスマホから調べられることを教えてもらう。
+---車両が見つからないと表示されてしまったが、インパウンド場に回収されている可能性があることを知る。
+-窓拭きの待ち時間が長いため、[[平井 善之>平井　善之]]、[[チェン マヨ>チェン　マヨ]]と建築作業のバイトをすることに。
+-建築バイトの帰りにインパウンド場まで三人なかよく徒歩で向かう。
+--無事バイクを見つけられたが、無保険だったため出庫に10,000円を徴収されてしまう。
+---早速、車両保険に加入する。 &color(#aaa){保険料を支払うときに所持金の貯まり具合を確認し、ほくほく気分に。}
+
+-買ったばかりのズボンをめっちゃダサいと言われ、[[銭形 やいち郎>銭形　やいち郎]]を殴り倒す。&nbsp(br,2)&color(#aaa){「英語書いてたらかっこいってママ上も言ってたのだ。。。」}
+--近くにいた無実の[[もり るんるん>もり　るんるん]]も傷つけてしまう。
+
+-自宅アパートのベッドで就寝。
+-エピソード募集中
+#endregion
+----
+****12/27 [[DAY3.新たな一歩を踏み出す日にしたいのだ！>>https://www.youtube.com/live/3-OMsTIyUws]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****12/28 [[DAY4.目指せ無職脱却！>>https://www.youtube.com/live/C4i2XNsSetE]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+#endregion(12月)
+
+**2026年
+#region(1月)&bold(){1月}
+****01/01 [[DAY5.新年あけましておめでとうなのだ！>>https://www.youtube.com/live/mHVf68s_WI4]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****01/02 [[DAY6.スローライフもよいものだ！>>https://www.youtube.com/live/zvsjWvASc2c]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****01/03 [[DAY7.平和な日々なのだ>>https://www.youtube.com/live/VzVF5qpq0ZY]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****01/04 [[DAY8.黒丈シロウは働きたい>>https://www.youtube.com/live/-QQrSpQLazs]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****01/09 [[DAY9.黒丈シロウは平和に暮らしている…？>>https://www.youtube.com/live/PQ6clxhSlr4]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****01/10 [[DAY10.ゆっくり考えていこう。>>https://www.youtube.com/live/R4MkKYCFtYw]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****01/11 [[DAY11.成長していきたいのだ。>>https://www.youtube.com/live/3kQaDDveUQ8]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****01/14 [[DAY12.車の運転上手になりたいのだ！>>https://www.youtube.com/live/vP6naTWP8gc]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****01/15 [[DAY13.整理して切り替えていくのだ>>https://www.youtube.com/live/Y-qUVNfNuDs]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****01/16 [[DAY14.楽しいこと探しなのだ>>https://www.youtube.com/live/VRFG_bmvFl8]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****01/17 [[DAY15.街を探検しながら交流をしていくのだ>>https://www.youtube.com/live/TM2eaj_JlyQ]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(1月)
+----
+#region(2月,close)&bold(){2月}
+
+****02/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+#endregion(2月)
+----
+#region(3月,close)&bold(){3月}
+
+****03/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+****03/08 [[DAY３６.黒丈シロウ決断の日>>https://www.youtube.com/live/zbyHmGgegOA]]
+#region(開く,close)
+//簡単に要点だけ
+-[[トウ　ユン]]についていきたい旨を伝え、[[玖雲]]へ加入。
+-[[もり　るんるん]]に[[森のぶんぶんメカニック]]の内定を辞退することを電話で伝える。
+-[[タラ　ちゃん]]が[[麻陀羅組]]に入るんだろうと勘違いをされた。
+-玖雲を通じて[[モンスターハウスプロダクジョン]]の仕事を引き受けることができるかをタラちゃんに確認。
+--今している仕事も含めて「なし」にしてリセットすることになった。
+-トウユンとタラちゃんとの話について伝える。
+-ドライブ中にモンプロの会話が聞こえてきたので立ち聞き。
+--所属をはっきりさせること、レーベルをつぶすというワードが聞こえたことからトウユンに報告。
+-[[罰　下リ]]から電話。4月の対バンで使用する楽曲について打ち合わせ。
+
+#endregion
+----
+#endregion(3月)
+----
+//
+//
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,close)
+-エピソード募集中
+#endregion
+----
+#endregion(mm月)
+}
+
+*&font(25,#ece4f3){&font(35,#a59aca){ア}ーカイブ &icon_fa(fa fa-video)}
+//配信日は街の開いた日基準で表記しています
+**2025年
+#region(開く,close)
+#table_style(head=center:#a59aca:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/25|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY1.はじめまして、黒丈シロウだ！>>https://www.youtube.com/live/wod0vhtAMt0]]|前半|
+|~|~|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY1.はじめまして、黒丈シロウだ！>>https://www.youtube.com/live/7rT_6CBGvyU]]|後半|
+|12/26|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY2.この街を、もっと知るのだ！>>https://www.youtube.com/live/5hQz7bszI38]]||
+|12/27|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY3.新たな一歩を踏み出す日にしたいのだ！>>https://www.youtube.com/live/3-OMsTIyUws]]||
+|12/28|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY4.目指せ無職脱却！>>https://www.youtube.com/live/C4i2XNsSetE]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+//
+**2026年
+***1月
+#region(開く)
+#table_style(head=center:#a59aca:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/01|5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY5.新年あけましておめでとうなのだ！>>https://www.youtube.com/live/mHVf68s_WI4]]||
+|01/02|6|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY6.スローライフもよいものだ！>>https://www.youtube.com/live/zvsjWvASc2c]]||
+|01/03|7|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY7.平和な日々なのだ>>https://www.youtube.com/live/VzVF5qpq0ZY]]||
+|01/04|8|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY8.黒丈シロウは働きたい>>https://www.youtube.com/live/-QQrSpQLazs]]||
+|01/09|9|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY9.黒丈シロウは平和に暮らしている…？>>https://www.youtube.com/live/PQ6clxhSlr4]]||
+|01/10|10|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY10.ゆっくり考えていこう。>>https://www.youtube.com/live/R4MkKYCFtYw]]||
+|01/11|11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY11.成長していきたいのだ。>>https://www.youtube.com/live/3kQaDDveUQ8]]||
+|01/14|12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY12.車の運転上手になりたいのだ！>>https://www.youtube.com/live/vP6naTWP8gc]]||
+|01/15|13|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY13.整理して切り替えていくのだ>>https://www.youtube.com/live/Y-qUVNfNuDs]]||
+|01/16|14|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY14.楽しいこと探しなのだ>>https://www.youtube.com/live/VRFG_bmvFl8]]||
+|01/17|15|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY15.街を探検しながら交流をしていくのだ>>https://www.youtube.com/live/TM2eaj_JlyQ]]||
+|01/18|16|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY16.今日も街を探検だ！>>https://www.youtube.com/live/DCpkrY2DW0w?si=C1bVwayiSr5CF7fO]]||
+|01/21|17|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY17.焦らずゆっくり前へ>>https://www.youtube.com/live/tX3pfbA9teo?si=1OhmomP66tOGi_Jz]]||
+|01/22|18|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY18.お金を貯めないとなのだ>>https://www.youtube.com/live/FVKs1gBfKfo?si=C1C2nnA-i5PNq-Fn]]||
+|01/23|19|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY19.お金、綺麗な家、平和。すべてを手に入れるのだ！>>https://www.youtube.com/live/zphwjzKcMPo?si=OWpQKp8Egaj-12-n]]||
+|01/24|20|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY20.お金ないなったのだ！>>https://www.youtube.com/live/jeXj6c5pR7U?si=dPGSN1ayOzAZL-4I]]||
+|01/25|21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY21.今日はお手伝いなのだ！>>https://www.youtube.com/live/2NpIHDT-jfI?si=WaiyGtIPJ9JP4mMh]]||
+|01/28|22|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY22.今日も街を歩いていく>>https://www.youtube.com/live/Dvo5VKpYToI?si=MFSjv0kXtnhhIVAe]]||
+|01/29|23|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY23.今日も街で遊ぶ>>https://www.youtube.com/live/GbFyGLJ0j-A?si=whN7jVnuToHqDUiN]]||
+|01/30|24|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY24.今日も街はパンツまみれ！？>>https://www.youtube.com/live/ViJtKrQnv_I?si=JNLyWbK_lnqH5aTE]]||
+|01/31|25|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY25.自分にできることをコツコツと>>https://www.youtube.com/live/01KfjKdc8GM?si=rfeUttkU8_mr48-g]]||
+
+
+//|mm/dd|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+//
+***2月
+#region(開く)
+#table_style(head=center:#a59aca:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/01|26|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY26.この街には誘惑がいっぱいだ！>>https://www.youtube.com/live/nz5CwH3-zS8?si=d7SIgj1ZlhGSWAWk]]||
+|02/04|27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY27.黒丈シロウ、今日も参る！>>https://www.youtube.com/live/cy-1HOB1KQ0?si=8wh-WSc9Modk31sy]]||
+|02/05|28|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY28.黒丈シロウ、今日も参る...？>>https://www.youtube.com/live/F3vLrtZG9JE?si=KQa_vASzw6Iba4Fn]]||
+|02/08|29|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY29.黒丈シロウ、今日は何しようか>>https://www.youtube.com/live/tw7zn2rV9ts?si=yNvpTR3rCBJF7kKk]]||
+|02/12|30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY30.黒丈シロウ、今日は何が起こる？>>https://www.youtube.com/live/iqUkqsYkE-Q?si=vDng17KCQj3yywhh]]||
+|02/14|31|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY31.黒丈シロウは一か月を迎えた>>https://www.youtube.com/live/7xcI96RXFr4?si=6gxtT5QuKpH3n9OT]]||
+|02/19|32|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY32.黒丈シロウは快楽主義！？>>https://www.youtube.com/live/yFQSNy-wgq8?si=i131AAMfcyNFra0S]]||
+|02/25|33|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY33.初のイベントに出演なのだ…！？>>https://www.youtube.com/live/NG6ZVl411cM?si=ivtYEvR_rytKDZ8I]]||
+
+//|mm/dd|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+//
+***3月
+#region(開く)
+#table_style(head=center:#a59aca:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/04|34|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY34.黒丈シロウ、今日も参る！>>https://www.youtube.com/live/Es0t3K34x84?si=Lwe7TwVs87jN8EhE]]||
+|03/07|35|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY35.黒丈シロウ、迷い悩む>>https://www.youtube.com/live/I0fWCr8DPqE?si=IZ3DvWVe1Gf4kbBT]]||
+|03/08|36|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY36.黒丈シロウ決断の日>>https://www.youtube.com/live/zbyHmGgegOA?si=n4N5YG4CvK-oiLBc]]||
+|03/11|37|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY37.黒丈シロウの新生活>>https://www.youtube.com/live/U1NUn0aIpfA?si=nRWQB9GjphrPQIyY]]||
+|03/12|38|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY38.黒丈シロウはのどが痛い！>>https://www.youtube.com/live/JvkAWF7aa3s?si=Lp3-gsRwfcPqmq2D]]||
+|03/29|39|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY39.久しぶりの起床だ！>>https://www.youtube.com/live/uvDluqOIma0?si=p6gGsKCOliS77vwD]]||
+
+//|mm/dd|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//
+//
+***4月
+#region(開く)
+#table_style(head=center:#a59aca:#fff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/11|40|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY40.久しぶりの起床2だ！>>https://www.youtube.com/live/YHflAZttym0?si=o1DunE5033azOKsd]]||
+|04/11|41|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY41.感情が渦巻く日常の中で>>https://www.youtube.com/live/dE3pMNfJAHI?si=Gu3-6KB9BlBCgFfQ]]||
+|04/12|42|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[DAY42.今日は面白そうなイベントが…！>>https://www.youtube.com/live/Kq0e7FSTOyo?si=P9vV2lxjP8gf0LMw]]||
+
+//|mm/dd|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+#right(){&link_up(🔝ページTOPへ)}

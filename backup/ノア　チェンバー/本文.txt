@@ -1,0 +1,280 @@
+//Ｓ２開始に伴い管理人からのお知らせに準じて暫定的にレイアウト少し調整していますが、色サイズ含め適宜ご自由に変更ください
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&font(23px){&font(28px,#FFD4FF){プ}ロフィール &icon_fa(fa-brands fa-heart-deploy)}
+
+//3:4画像
+#slide_img(auto=5,position=center,width=390,height=520){ノアS2-01.jpeg,ノア_ネイル.webp}
+
+
+//——————————————————-
+#region(season 1 プロフィール写真) season 1 プロフィール写真
+
+#slide_img(auto=2,position=center,width=290,height=400){https://img.atwiki.jp/streamergta5/attach/354/7044/DsxZgu5pjoKg.jpg?=598&height=579,https://img.atwiki.jp/streamergta5/attach/354/7043/DsoiaW1j0jJd.jpg?width=598&height=579,https://img.atwiki.jp/streamergta5/attach/354/10576/%E3%83%8E%E3%82%A2%E3%83%81%E3%82%A7%E3%83%B3%E3%83%90%E3%83%BC3%28%E9%80%8F%E9%81%8E%29.png?width=345&height=579,https://img.atwiki.jp/streamergta5/attach/354/7045/file.jpg,https://img.atwiki.jp/streamergta5/attach/354/7047/Screenshot_2024-03-01_18-46-43.jpg}
+//20240522 3番目の画像がリンク切れとなったため、discordから抽出して置き換えました。ただアス比の修正がうまく出来ていないため、対応可能な方は修正願います。
+//アス比がちょっと気になりましたので、「トップ画像+格納」の形式に仮置きしてみました。
+//↑のスライド方式の方がいい！って場合のため、プラグインは残しておきます。ご意見願います。John Heartless
+
+#endregion
+
+//——————————————————-
+#table_color(#FFD4FF)
+|~名前|&bold(){ノア　チェンバー}|
+|~出身地|-|
+|~誕生日|2000年11月3日（&countup(2000/11/3,y)歳）|
+|~転入日|2023年3月28日 (&countup(2023/03/27,yd))|
+|~職業|Season1&br()&small(){&openclose2(show=過去の職業履歴){&nbsp(br,3) [[猫カフェ>猫カフェ武蔵]]店員 &small(){2023/4/10～10/1}&nbsp(br,3) [[IRiS]]専属個人医【闇医者】 &small(){2024/05/24～}&nbsp(br,3) 素材屋「[[月ノ屋]]」店員  &small(){23/10/06～24/04/23} &nbsp(br,3) 中立[[個人医]]&font(#9a9a9a,80%){(24/5/17～)} &nbsp(br,3) 麻薬カルテル【[[DEP]]】&font(#9a9a9a,80%){(24/06/11~)}}}&br()Season2&br()・[[闇医者]] &small(){2026/01/22〜} &br()・[[カルテル>DEP]] &small(){2026/01/31〜} |
+|~レーサー名|ノア|
+|~恋人|[[柳田　ライアン]]|
+|~TwiX|@ノアチェンバー|
+|~プレイヤー|のあち|
+|~告知等|&font(#000){&icon_fa(fa-brands fa-square-x-twitter)}[[&font(#000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/VT_Noachi]]|
+|~配信場所|&font(#BA87F1){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/vtuber_noachi]]|
+|~アーカイブ動画|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Noachi]]|
+|~ハッシュタグ| 🎨ファンアート: [[#のあちあーと>>https://twitter.com/search?q=%23のあちあーと&src=typeahead_click&f=media]]|
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&font(23px){&font(28px,#FFD4FF){基}本情報 &icon_fa(fa fa-id-card-o)}
+&size(20){&b(){&underdot(#FFD4FF,4px){&color(#E1AFBE){&icon_fa(fa-solid fa-earth-asia)}&space()Season 1 }}}
+・10年ほど前、命を救ってくれたモヒカンの軍人を探してこの町に来た。その人から貰った星のペンダントを持っている。
+・車の運転が得意ではなく、[[斎藤　まさのり]]から歴代２位のレッテルを張られてしまう。本人は、いつかはレースに出たいと本気で思っているらしい。
+・10年前に両親を戦争で亡くし孤児院で10年間過ごした。そこでイジメに遭い、孤独だったため、人の顔色を伺いながら話している。
+・[[柳田　ライアン]]が命の恩人だとわかってから恩返しをしたいと心に決める。
+・猫カフェでは早番担当。早い時間帯では店番をしつつ、急患の対応を行なっている。&br()→23/10/1に猫カフェを退職。10/6に素材屋「[[月ノ屋]]」に就職した。&br()→24/4/23に素材屋「月ノ屋」を退職。
+・2023年06月〜　同期の[[いわさき そす>いわさき　そす]]とともに[[個人医]]として活動を開始
+・・闇医者としてギャング[[IRiS]]のお抱え個人医を務めたり、ギャング[[868]]メンバーからは「主治医」と呼ばれるなどして精力的に活動。
+・・目まぐるしく変わるロスサントス市の情勢にあわせて、闇医者から中立個人医に転属したりすることはあったが、「大切な人を護りたい」という自身の信念を曲げることなく長らく医師として活動し続けている。街にいる現役個人医の中では最古参である。
+・2025年1月上旬、恋人である[[柳田　ライアン]]が自身の治療の為に街を出ていく事を告げられそれに同行する事を決断、[[ノア　チェンバー]]自身も共に街を出た。
+・・いつになるかは不明だが、いつか再び街に戻る事を住民に説明。戻った際には[[柳田　ライアン]]と結婚式を挙げる予定である。(一時的な&color(#3B4EF0){キャラクターエンド})
+
+#div(width=180px,bgcolor=#FFD4FF){&font(b,15px,#D5848C){&space(3)&icon_fa(fa-solid fa-plane)&space()ロスサントスへ帰還}}
+・2025年5月13日、ライアンと共に街に戻る。
+・・2025年5月14日、白市民パス取得。
+・以前と同じく、[[個人医]]として街で過ごしており、その傍ら、[[DEP]]での勤務にも復帰。
+
+&size(20){&b(){&underdot(#FFD4FF,4px){&color(#E1AFBE){&icon_fa(fa-solid fa-earth-asia)}&space()Season 2 }}}
+・2025年12月19日 元いたロスサントスから転送を経て新しい世界線に到着。
+#region(γ世界線のロスサントスに到着してから…)&bold(){γ世界線のロスサントスに到着してから…}
+・&bold(){[[ライアン>柳田　ライアン]]}：転送当日に連絡がつかなくなっていた&ruby(フィアンセ){婚約者}[[ライアン>柳田　ライアン]]の安否を確認するため、彼のボスにあたる[[小峯 れい>>小峯　玲]]に連絡をとる。しばらくしてから、ライアンもこちらの世界に転送されていることが判明し一安心した。しかし、こちらの世界に到着したライアンは “ノアチェンバーに関することだけ” 記憶喪失になっていることが判明。&br()転送後のライアンの様相については他にも気になることが多々…。ノアのことについて記憶がない柳田だが、DERAYのみんなにサポートしてもらいつつ状況を模索していくことになる。現在記憶のまだ戻らない柳田と改めて過ごす中で、少しづつわかってきたことが増えている。
+・&bold(){[[個人医]]}：転送後、街の住民たちは少しづつもとの生活を始めるため動き出したものの、個人医については、行政では今後雇用復帰の見通しはないことが知らされる。転送前の街で個人医に就いていた皆が一斉に職を失ってしまった。&br()とはいえ、元個人医周辺にはなにやら気になる動きがある様子。&br()&openclose2(show=※ネタバレ注意※){&br()[[▶組織化した新しいカタチの闇医者？？？>闇医者]]}
+・&bold(){[[カルテル>DEP]]}：転送後数日してから[[カルテル>DEP]]の[[加藤　圧]]に無事再会。クスリ関係の仕事は勿論この街でも精力的に携わっていくつもりでいる。加藤と協力して、ゼロから組織再建を目指すことに。街中の探索から活動開始し、現在は４人体制で再始動を始めたところだが、まだ販売流通を行えるほどではない。精製スキルを上げつつ、組織資本を確保するため目下活動中。
+
+#endregion()
+・現在設定中の着信音♫[[Clip>>https://www.twitch.tv/vtuber_noachi/clip/TalentedRoughMonkeyTakeNRG-V3CMnlC8zRI_wEYu]]♫ （制作：[[罰 下り>>罰　下リ]]）
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&font(23px){&font(28px,#FFD4FF){ク}ローゼット &icon_fa(fa-solid fa-suitcase)}
+
+#div(width=100px,bgcolor=#E1AFBE){&font(b,white,110%){　Season 1}}
+
+#region(衣装アルバム👚)&bold(){衣装アルバム👚}
+&sizex(5){&bold(){初期服}}
+&image(https://img.atwiki.jp/streamergta5/attach/354/1304/%E3%83%8E%E3%82%A2%E3%83%81%E3%82%A7%E3%83%B3%E3%83%90%E3%83%BC.jpg)
+&sizex(5){&bold(){個人医１}}
+&image(https://img.atwiki.jp/streamergta5/attach/354/7048/Screenshot_2024-03-01_18-49-05.jpg,,width=340,height=500)
+&sizex(5){&bold(){個人医2}}
+&image(https://img.atwiki.jp/streamergta5/attach/354/7046/Screenshot_2024-03-01_18-40-44.jpg,,width=340,height=470)
+&sizex(5){&bold(){個人医3}}
+&image(キャプチャ.PNG)
+
+#endregion(衣装アルバム)
+
+#div(width=100px,bgcolor=#E1AFBE){&font(b,white,110%){　Season 2}}
+
+〜画像準備中〜
+&small(){正面からの全身スクショ大募集！}
+
+****&font(25px,#F9C1CF){&icon_fa(fa-solid fa-heart)} 普段着
+//
+#region(開く)閉じる
+#table_style(head=center:#F9C1CF:#FFF)
+|~&blankimg(S2_普段着01.jpeg,x=135,y=240)|~&size(36){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|
+|~転送後の服|~私服|
+#endregion(普段着ここまで)
+
+****&font(25px,#F9C1CF){&icon_fa(fa-solid fa-heart-pulse)} 犯罪用
+#region(開く)閉じる
+#table_style(head=center:#F9C1CF:#FFF)
+|~&blankimg(S2_DEP01.jpeg,x=135,y=240)|~&size(36){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&size(36){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&blankimg(S2_犯罪01.jpeg,x=135,y=240)|~&blankimg(S2_犯罪02.jpeg,x=135,y=240) |
+|~カルテル正装|~カルテルｼﾞｬｰｼﾞ|~カルテル戦闘服|~鹿マスク|~ガスマスク|
+#endregion(犯罪用ここまで)
+
+****&font(25px,#F9C1CF){&icon_fa(fa-regular fa-heart)} 闇医者変装用
+#region(開く)閉じる
+#table_style(head=center:#F9C1CF:#FFF)
+|~&blankimg(IMG_9516.jpeg,x=135,y=240) |~&blankimg(S2_Doctor01.jpeg,x=135,y=240)|~&blankimg(S2_Doctor02.jpeg,x=135,y=240)|~&size(36){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|
+|~heartless(hair 01)|~heartless(hair 02) |~heartless|~heartless|
+#endregion(？？？ここまで)
+
+#co{❤テンプレ❤
+
+****&font(25px,#F9C1CF){&icon_fa(fa-regular fa-heart)} カテゴリ
+#region(開く)閉じる
+#table_style(head=center:#F9C1CF:#FFF)
+|~&size(36){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|
+|~（服装登録名）|
+#endregion(カテゴリここまで)
+
+❤もしよければご利用ください❤}
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&font(23px){&font(28px,#FFD4FF){乗}り物 &icon_fa(fa fa-car)}
+
+#div(width=100px,bgcolor=#E1AFBE){&font(b,white,110%){　Season 1}}
+
+#region(所有一覧,close)閉じる
+#table_filter(){入手日=show,種類=show,車両名=show,愛称=show,ナンバー=hide,備考=show}
+#table_style(head=center:#FFD4FF)
+|~入手日|~種類|~車両名|~愛称|~ナンバー|~備考|h
+|2023/05/29|🚗|エグゼンプラー(Exemplar)||GCHB3273|[[深沢モータース]]の[[須藤　冬馬]]から購入。初めて買ったレース用車。|
+|2023/07/08|🚙|ランポ・カスタム&br()(Rumpo Custom)|ランポ|YLLW1370|猫カフェでの仕入れの為に[[深沢モータース]]の[[須藤　冬馬]]から購入。|
+|2023/10/03|🚗|ゼントーノ(Zentorno)||JXIQ6722|猫カフェの退職金として[[近藤　武蔵]]から貰う。|
+|2023/10/19|🚁|シースパロー(Sea Sparrow)||RWYI5044|[[鳥野エアー]]の[[成瀬　力二]]から購入。初めて買ったヘリコプター。|
+|2023/11/08|🚁|シースパロー(Sea Sparrow)||MZPE3239|[[鳥野エアー]]の[[成瀬　力二]]から購入した2台目のシースパロー。|
+|2023/11/18|🏍|バティー901(Bati 901)||DAVY3327|[[月ノ屋]]の1週間分の給料として貰う。|
+|2023/11/18|🚙|ドラウグル(Draugur)||JYPU9416|4人乗りの車が欲しくて[[深沢モータース]]の[[ルウ　ギャラクティカ]]から購入。|
+|2023/12/08|🏍|ヴィンディケーター&br()(Vindicator)|ヴィンディゲーターバイク|ZUBJ3677|[[月ノ島　ごう]]からのプレゼント。|
+|2024/02/22|🚗|サンライズR(SunriseR)||COCM3121|[[大川自動車販売(有)]]の[[BIG　SUZUKI]]より購入。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#div(width=100px,bgcolor=#E1AFBE){&font(b,white,110%){　Season 2}}
+
+#region(所有一覧,open)閉じる
+#table_filter(){入手日=show,種類=show,車両名=show,愛称=show,ナンバー=hide,備考=show}
+#table_style(head=center:#FFD4FF)
+|~入手日|~種類|~車両名|~愛称|~ナンバー|~備考|h
+|2025/12/27|🛵|Faggio|バイク|　|当面の移動用|
+|2026/01/10|🚗|Canny||　|素材採取に動くためのオフロード、イエローカラーのジープ車|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&font(23px){&font(28px,#FFD4FF){エ}ピソード &icon_fa(fa fa-calendar-o)}
+
+#div(width=100px,bgcolor=#E1AFBE){&font(b,white,110%){　Season 1}}
+#include(ノア　チェンバー/エピソード①)
+#include(ノア　チェンバー/エピソード②)
+#include(ノア　チェンバー/エピソード③)
+//
+
+|&ref(https://img.atwiki.jp/streamergta5/attach/354/7049/81pYOGCOrqce.jpg,,height=230)|&ref(https://img.atwiki.jp/streamergta5/attach/354/4964/twitter_86dd88adffc65b4c05d1fdd2ded2ec73.jpeg,,height=230,width=210)|
+
+#include(ノア　チェンバー/エピソード④)
+
+&font(b,#de5285){〜エピソード大募集中！〜}
+&font(b,#f17dae,10px){アーカイブはご本人様が YouTube にもあげてくださっているので、&br()過去エピソード追記も是非おねがいします！&br()主要エピソードがわかる日、一行だけの記載からでも助かります！&br()編集・追記どなたでもお気軽にどうぞ！！}
+
+&size(11){《編集用リンク》&br()[[2023年EP>>https://w.atwiki.jp/streamergta5/pages/1090.html]]/[[2024年EP>>https://w.atwiki.jp/streamergta5/pages/2365.html]]/[[2025年EP>>https://w.atwiki.jp/streamergta5/pages/3035.html]]/[[Season2〜>>https://w.atwiki.jp/streamergta5/pages/3377.html]]}
+//
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&font(23px){&font(28px,#FFD4FF){ア}－カイブ &icon_fa(fa fa-youtube)}
+〜順次更新中〜
+#co{文字数が増えたのでアーカイブ一覧を子ページに移動しました。子ページで直接編集すると、こちらの親ページに自動で取り込み反映する仕組みです🙏子ページ検索タグ：［ノアチェンバー］}
+//
+#include(ノア　チェンバー/アーカイブ一覧)
+
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&font(23px){&font(28px,#FFD4FF){投}稿動画 &icon_fa(fa fa-youtube)}
+&bold(){&font(#F69C9F){&icon_fa(fa fa-youtube-play)} プレイリスト「[[ストグラ切り抜き>>https://youtube.com/playlist?list=PL1UuYgs5TsG0oZPb5e9JZvaNONyGHkumU&si=byXfdvFhT0oI1Bqs]]」}
+
+***&underdot(#E1AFBE,3px){&size(18){&color(#E1AFBE){■} &bold(){切り抜き動画✂️}&space(2)}}
+#region(開く)閉じる
+
+#div(width=100px,bgcolor=#E1AFBE){&font(b,white,110%){　Season 1}}
+#table_style(head=center:#FFD4FF){配信日=right}
+|投稿日|切り抜き動画タイトル|h
+|2023/5/16|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[猫カフェの接客の仕方とは？>>https://youtu.be/M2KNdmblZGk?si=dUWt4L-ubYLPCHaq]]|
+|2023/8/29|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[迷子のこころなきを二十日ネルが店外へご案内！>>https://youtu.be/Bhm_CIDoWgk?si=a-QF2ie9urMJ35vg]]|
+|2023/8/29|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[シャンクズ（ファン太）さんにスペシャルオブスペシャルをする>>https://youtu.be/ocWdoeI9rwk?si=gc0hS5yobVSTQ7Dm]]|
+|2023/9/05|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[ツンデレな渡戸リーさんが見れる硫黄収集>>https://youtu.be/xMPaOQUsVOM?si=cWLtGngU2Rsw9_bV]]|
+|2023/9/07|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[ギャル美(先端恐怖症)による痔の治療が面白すぎた！>>https://youtu.be/pyZqBUfv7F0?si=5gkwdhQXucrxt2Nt]]|
+|2023/12/02|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[ALLINを助けた日。千代田さんのチェイスが凄かった！>>https://youtu.be/b32-BeZzhkg?si=wiKQqonbncCCD0jm]]|
+|2023/12/10|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[エスちゃんを無限蘇生！モンDさんとエスちゃんの日課？>>https://youtu.be/4RgDszSzTbc?si=XZAaK6fAYveT7TZh]]|
+|2024/02/15|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[ここはホストクラブ?>>https://youtu.be/aztM7P5lnLw?si=xQwRFL3VeDPJmKR7]]|
+|2024/10/01|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[868さんの初アーティファクト成功！ノアチェンバー個人医傭兵に参加！>>https://youtu.be/G9Ykb--wfUs?si=KR8xbPE2pzYK7PZm]]|
+|2024/10/03|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[音鳴氏の船をぼろっちいと失言してしまうノアチェンバー>>https://youtu.be/itBA8CLGyYc?si=FP06gYDkXK_0Gnqh]]|
+
+#div(width=100px,bgcolor=#E1AFBE){&font(b,white,110%){　Season 2}}
+#table_style(head=center:#FFD4FF){配信日=right}
+|投稿日|切り抜き動画タイトル|h
+//|2025/MM/DD|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]|
+#endregion
+
+***&underdot(#E1AFBE,3px){&size(18){&color(#E1AFBE){■} &bold(){Short 動画✂️}&space(2)}}
+#region(Season 1)
+#div(width=100px,bgcolor=#E1AFBE){&font(b,white,110%){　Season 1}}
+#table_style(head=center:#FFD4FF){配信日=right}
+|No.|Shortタイトル|h
+|01|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[敬礼の腕がなんか私だけおかしい？>>https://youtube.com/shorts/W2JwNMcG7OI?si=fQQIZcXcLNCnufj-]]|
+|02|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[猫カフェ名物猫吸い>>https://youtube.com/shorts/6VG8H7VefnY?si=XabowlylEtzL2snV]]|
+|03|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[ズズさんの一発ギャグ！>>https://youtube.com/shorts/GHydWNctlUk?si=YHIfQMjqljGlvfi7]]|
+|04|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[おにぎりの具はチュールです！>>https://youtube.com/shorts/-gBQHeOjYm8?si=UIyW4dTwsn9iEOdy]]|
+|05|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[オレンジジュースを地面で作る警官>>https://youtube.com/shorts/NGkj5rtsEZI?si=XVoUgUEYsFsgZZ8z]]|
+|06|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[腕枕について>>https://youtube.com/shorts/1vL_Ld6Yu0w?si=2OKa-e2pM2iu8HLC]]|
+|07|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[シュガピに一人で泳いでたの？と言われるノアチェン>>https://youtube.com/shorts/jG0cx1tO55I?si=Fvqx4ob_gKfROLsy]]|
+|08|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[助けに行こうとしたら失敗して大惨事>>https://youtube.com/shorts/8rJmV3lem7I?si=haGNH8EMPM3uf9Vx]]|
+|09|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[隠居を陰キャと間違えるノアチェン>>https://youtube.com/shorts/ZTRXwc8N9MY?si=88ikzGQWCe_1-VyA]]|
+|10|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[しゅじい特集>>https://youtube.com/shorts/ndhatZRIpQw?si=6_QyrCk9gZKhPSed]]|
+|11|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[○ーパン個人医？>>https://youtube.com/shorts/KxvkRDVgOZY?si=iEBvLBWHMV4ymkbs]]|
+#endregion
+
+#region(Season 2,open)
+#div(width=100px,bgcolor=#E1AFBE){&font(b,white,110%){　Season 2}}
+#table_style(head=center:#FFD4FF){配信日=right}
+|No.|Shortタイトル|h
+|11|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[出口マークになるアドミゲスハン>https://youtube.com/shorts/EXS9Jc7nFgI?si=3WYxLt3YkZ7pPPKS]]|
+//|No|&font(#E1AFBE){&icon_fa(fa-solid fa-mobile-screen)}[[タイトル>URL]]|
+
+#endregion
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*&font(23px){&font(28px,#FFD4FF){関}連動画 &icon_fa(fa fa-film)}
+
+****2023年
+&small(){w/すず音（[[桃兎　すずめ]]）/真澄せんの（[[青梅　つばめ]]）/きなこもちY（[[プリチィ　きな子]]）}
+&bold(){【歌ってみた】スイートマジック covered by のあ＊すず＊せん＊もち}
+&youtube(https://youtu.be/N4JWivMzmN4?si=Z3QvwiA_iZzLdifz,width=400,height=225)
+
+&small(){w/ライアン（[[柳田　ライアン]]）}
+&bold(){【歌ってみた】点描の唄- Mrs. GREEN APPLE (feat.井上苑子) / covered by のあち×ライアン}
+&youtube(https://youtu.be/iLsCqIjJ1zA?si=vj_nYvED7YqHxBc3,width=400,height=225)
+
+****2025年
+&small(){w/ライアン（[[柳田　ライアン]]）}
+[[【歌ってみた】Ever / covered by のあち×ライアン>>https://youtu.be/oImQCOJXWpM?si=WLCJ0J7lxm-bAjAR]]
+
+#co{👇️こちらの動画はサムネイル表示ができなかったため、あえてリンク表記にしています。
+
+&bold(){【歌ってみた】Ever / covered by のあち×ライアン}
+&youtube(https://youtu.be/oImQCOJXWpM?si=C6DHrzdXZel0ty0P,width=400,height=225)
+
+埋め込み表示ができる場合は揃えてもらえますと助かります🙏}
+
+*&font(23px){&font(28px,#FFD4FF){ポ}ップアップストア &icon_fa(fa-solid fa-store)}
+#table_style(head=center:#FFD4FF){開催期間=right,WEBサイト=center}
+#table_filter(){開催期間=show,タイトル=show,WEBサイト=show,告知=show,関連団体名=show,会場=show,備考=show}
+|~開催期間|~タイトル|~WEBサイト|~告知|~関連団体名|~会場|~備考|h
+|2026/07/10〜07/20|『ストグラカップルズPUS』|-|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}&space()[[JOL Collab Store>>https://x.com/jolcollabstore/status/2072606206036672626?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]&br()&co(){&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[名前>>URL]]}|ストグラカップル|MAGNET by SHIBUYA109・5F JOL Collab Store|　|
+#table_sorter{even=#f5f5f5,odd=#fff}
+
+***&color(#FFD4FF){&icon_fa(fa fa-check-square)} ランダムブロマイド
+#areaedit()
+#table_style(head=center:#FFD4FF){開催日=right,WEBサイト=center}
+#table_filter(){開催日=show,タイトル=show,告知=show,メンバー=show,備考=show}
+|~開催日|~タイトル|~告知|~メンバー|~備考|h
+|2026/07/10〜08/23|ストグラカップルズ&br()ランダムブロマイド|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[幼少ギミック>https://x.com/niconamagimix/status/2070794270630371696?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]|&small(){[[ナタル　イルコフ]]／[[イチカ　ウィルキンズ]]／[[ヘルアン]]／[[香月　ろぎあ]]／[[花沢　まるん]]／[[チェン　マヨ]]／[[小此木　ナカバ]]／[[超越ヶ谷　にかり]]&br()[[帝　レン]]／[[スコティッシュ・ホールド]]／[[柳田　ライアン]]／[[ノア　チェンバー]]／[[御薬　キメ太郎]]／[[広場　うた子]]}|　|
+
+
+
+#right(){&link_up(⇧ページTOPへ)}

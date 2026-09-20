@@ -1,0 +1,250 @@
+#center{&image(Ailemu_ロゴ.png,x=370,y=220)}
+//❗️不要な行は削除して使用してください
+#table_style(head=#57BCD4:#FFFFFF){}
+|~店名|~&icon_fa(fa fa-store)|&bold(){&ruby(エリュム){Ailemu}}|
+|~job名|~&icon_fa(fa fa-user-tag)|Ailemu-エリュム-|
+|~業種|~&icon_fa(fa fa-hand-sparkles)|ネイル・コスメショップ|
+|~開業日|~&icon_fa(fa fa-flag)|2026年7月11日&space()&small(){（&countup(2026/7/11,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-location-dot)|7245番地|
+|~マップアイコン|~&icon_fa(fa fa-map-pin)|💙|
+|~TwiX|~&icon_fa(fa fa-mobile)|@ailemu|
+|~店長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[チェン　マヨ]]}|
+//|~副社長(副店長)|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[名　前]]}|
+//|~オーナー|~&icon_fa(fa fa-user-secret)|&bold(){[[名　前]]}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**&font(35,#00b7ce){&icon_fa(fa fa-solid fa-feather)} &font(25,#81CFDE){基本情報}
+-店員からネイルアート施術を受けることができるショップ。
+--ネイルのサイズ・カラー・柄・装飾品などを選択しオシャレを楽しめる。
+--完成した後に写真撮影のサービスも行っている。
+-リラックス効果のあるコスメ類の販売も行う。
+--依頼に応じてカスタムコスメも作成する。
+-飲食店と提携しデザートやドリンクなどの軽食も扱う。
+
+**&font(35,#00b7ce){&icon_fa(fa fa-solid fa-id-card-clip)} &font(25,#81CFDE){従業員情報}
+***従業員
+#region(開く,open)
+#table_filter(){就職日=show,他職業=hide}
+#table_style(head=#57BCD4:#FFFFFF){名前=bold}
+|~役職|~名前|~就職日|~他職業|~備考|h
+|店長|[[チェン　マヨ]]|2026/07/11|[[ジョアンナテクノサービス]]&br()[[Fashion MiMi]]|以前の街でもネイルショップで働いていた。&br()現在はアパレル業[[Fashion MiMi]]でコーディネーターをしている。|
+|店員|[[丘猫　まる]]|2026/07/11|[[AILES ENTERTAINMENT>>AILES]]|　|
+|店員|[[圧子]]|2026/07/11|[[ジョアンナテクノサービス]]|　|
+|店員|[[えびな　ヨネ]]|2026/07/11|[[Club Passiona]]||
+//|役職|[[名　前]]|yyyy/mm/dd|[[他職業]]|備考|
+#table_sorter{even=#f5feff,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+#endregion
+
+#co{
+//***職業体験者
+#region(開く)
+#table_style(head=#57BCD4:#FFFFFF){}
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#f5feff,odd=#FFFFFF}
+#endregion
+}
+#co{
+//***退職者
+#region(開く)
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+}
+**&font(35,#00b7ce){&icon_fa(fa fa-solid fa-spray-can-sparkles)} &font(25,#81CFDE){商品情報}
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***ネイルサービス一覧
+#region(開く,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#57BCD4:#FFFFFF){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|初回料金|ワンカラーネイル| ¥1,000,000|2026/07/11|　|
+|初回料金|ワンパターンデザインカラー|¥1,200,000|2026/07/11|　|
+|初回料金|フルデザインカラー|¥1,500,000|2026/07/15|　|
+|リピート割|ワンカラーネイル|¥600,000|2026/07/11|　|
+|リピート割|ワンパターンデザインカラー|¥900,000|2026/07/11|　|
+|リピート割|フルデザインカラー|¥1,200,000|2026/07/15|　|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#f5feff,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***コスメ商品一覧
+#region(開く,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#57BCD4:#FFFFFF){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|Rip Stick|Dream Pink|¥5,000|2026/07/11|　|
+|Rip Stick|Angel Blue|¥5,000|2026/07/11|　|
+|Eye Shadow|Dream Pink|¥5,000|2026/07/11|　|
+|Eye Shadow|Angel Blue|¥5,000|2026/07/11|　|
+|Custom|Custom Cosmetics|¥3,000,000|2026/07/11|　|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#f5feff,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***飲食商品一覧
+#region(開く,open)&font(b,11px){種類＝Food,Drink,Joint,Relax,Others など}
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#57BCD4:#FFFFFF){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|Food|フルーツたっぷりミルフィーユ|¥3,000|2026/07/11|　|
+|Food|ラベンダーブルームマカロン|¥3,000|2026/07/11|　|
+|Drink|あまあまいちごミルク|¥3,000|2026/07/11|　|
+|Drink|アイスアメリカーノ|¥3,000|2026/07/11|　|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
+#table_sorter{even=#f5feff,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+//
+#co(){
+***限定商品
+#region(開く)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#57BCD4:#FFFFFF){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|Food|商品名|価格|yyyy/mm/dd|説明|
+|Drink|商品名|価格|yyyy/mm/dd|説明|
+|Joint|商品名|価格|yyyy/mm/dd|説明|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
+#table_sorter{even=#f5feff,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//種類＝food,drink,relax,others など
+#endregion
+}
+//
+#co(){
+***オーダーメイド商品
+#region(開く)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#57BCD4:#FFFFFF){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|Food|商品名|価格|yyyy/mm/dd|説明|
+|Drink|商品名|価格|yyyy/mm/dd|説明|
+|Joint|商品名|価格|yyyy/mm/dd|説明|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
+#table_sorter{even=#f5feff,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+#hr(height=3,color=#57BCD4)
+***メニュー画像
+#region(2026/07/11 メニュー)
+#table_style(head=#e7f4f8)
+|MIDDLE:CENTER:~2026/07/11 メニュー|
+|&blankimg(エリュム_メニュー.jpg,x=330,y=190)|
+#endregion(メニュー画像)
+#size(50%){　}
+#region(2026/07/15 メニュー,open)
+#table_style(head=#e7f4f8)
+|MIDDLE:CENTER:~2026/07/15 メニュー|
+|&blankimg(エリュム_メニュー260715.jpeg,x=330,y=190)|
+#endregion(メニュー)
+#size(50%){　}
+#region(2026/08/05 カスタムコスメ,open)
+#table_style(head=#e7f4f8)
+|MIDDLE:CENTER:~2026/08/05 カスタムコスメ|
+|&blankimg(Ailemu_カスタムコスメ購入の流れ.jpeg,x=330,y=190)|
+#endregion(カスタムコスメ)
+//
+#co{▼コピー用
+#region(yyyy/mm/dd タイトル,open)&b(){yyyy/mm/dd タイトル}
+//&image(ここに画像のURLを入力,y=360)
+#endregion
+#size(50%){　}
+}
+#co{
+//***商品画像
+#region(開く,open)
+
+#endregion(商品画像)
+}
+//
+//
+#co{▼コピー用
+#region(yyyy/mm/dd タイトル,open)&b(){yyyy/mm/dd タイトル}
+//&image(ここに画像のURLを入力,y=360)
+#endregion
+#size(50%){　}
+}
+
+**&font(35,#00b7ce){&icon_fa(fa-solid fa-hands)} &font(25,#81CFDE){モデル・記念写真}
+#region(開く,open)全て閉じる
+***従業員
+#region(店員研修)&b(){店員研修}
+#table_style(head=#e7f4f8)
+|MIDDLE:CENTER:~&b(){[[チェン　マヨ]]}|MIDDLE:CENTER:~&b(){[[丘猫　まる]]}|MIDDLE:CENTER:~&b(){[[圧子]]}|
+|&blankimg(エリュム_チェンマヨ.jpg,x=200,y=267)|&blankimg(エリュム_丘猫まる.jpg,x=200,y=113)|&blankimg(エリュム_圧子.jpg,x=200,y=267)|
+#endregion
+#hr(height=3,color=#e6f4f8)
+***モデル
+#region(2026/06/26 香月ろぎあ)
+#table_style(head=#e7f4f8)
+|MIDDLE:CENTER:~&b(){2026/06/26 [[香月ろぎあ>>香月　ろぎあ]]}|
+|&blankimg(Model_香月ろぎあ.webp,x=200,y=267)|
+#endregion
+#hr(height=3,color=#e6f4f8)
+***TwiX投稿
+#region(2026/07/11 グランドオープン当日)&b(){2026/07/11 グランドオープン当日}
+#table_style(head=#e7f4f8)
+|MIDDLE:CENTER:~&b(){[[ボクジュール　すずり]]}|MIDDLE:CENTER:~&b(){[[ノア　チェンバー]]}|MIDDLE:CENTER:~&b(){[[柚麦　とと]]}|
+|&blankimg(ボクジュールすずり_ネイル.jpg,x=200,y=267)|&blankimg(ノアチェンバー_ネイル.jpg,x=200,y=267)|&blankimg(柚麦とと_ネイル.jpeg,x=200,y=267)|
+|MIDDLE:CENTER:~&b(){[[王城　リレイ]]}|MIDDLE:CENTER:~&b(){[[ジョアンナ町田>>町田　ジョアンナ]]}|MIDDLE:CENTER:~&b(){[[犇　飼子]]}|
+|&blankimg(王城リレイ_ネイル.jpg,x=200,y=267)|&blankimg(ジョアンナ町田_ネイル.jpg,x=200,y=267)|&blankimg(犇飼子_ネイル.jpg,x=200,y=267)|
+|MIDDLE:CENTER:~&b(){[[ももみ]]}|MIDDLE:CENTER:~&b(){[[星乃　すみ]]}|MIDDLE:CENTER:~&b(){[[星野　ももあ]]}|
+|&blankimg(ももみ_ネイル.jpg,x=200,y=267)|&blankimg(星乃すみ_ネイル.jpg,x=200,y=267)|&blankimg(星野ももあ_ネイル.jpeg,x=200,y=267)|
+|MIDDLE:CENTER:~&b(){[[柚乃　いずみ]]}|MIDDLE:CENTER:~&b(){[[灰部理　秀人]]}|MIDDLE:CENTER:~&b(){[[田中　花江]]}|
+|&blankimg(柚乃いずみ_ネイル.jpg,x=200,y=267)|&blankimg(灰部理秀人_ネイル.jpg,x=200,y=113)|&blankimg(田中花江_ネイル.jpeg,x=200,y=267)|
+|MIDDLE:CENTER:~&b(){[[星ノ　みこ]]}|MIDDLE:CENTER:~&b(){[[grow]]}|MIDDLE:CENTER:~&b(){[[帆立　ほたる]]}|
+|&blankimg(星ノみこ_ネイル.jpg,x=200,y=267)|&blankimg(grow_ネイル.jpg,x=200,y=267)|&blankimg(帆立ほたる_ネイル.jpg,x=200,y=267)|
+|MIDDLE:CENTER:~&b(){[[亀山　Hero]]}|MIDDLE:CENTER:~&b(){[[レイジー　ルードマン]]}|MIDDLE:CENTER:~&b(){[[ねずみさん]]}|
+|&blankimg(亀山ヒロ_ネイル.jpg,x=200,y=267)|&blankimg(レイジールードマン_ネイル.jpg,x=200,y=267)|&blankimg(ねずみさん_ネイル.jpg,x=200,y=267)|
+#endregion
+#size(50%){　}
+#hr(height=3,color=#e6f4f8)
+//
+#co{Twixの縦長画像3：4→x=200,y=267
+
+#region(yyyy/mm/dd 名前)
+#table_style(head=#e7f4f8)
+|MIDDLE:CENTER:~&b(){yyyy/mm/dd [[名前]]}|
+|&blankimg(画像,x=200,y=267)|
+#endregion
+
+}
+#endregion
+
+**&font(35,#00b7ce){&icon_fa(fa fa-solid fa-pen-clip)} &font(25,#81CFDE){沿革}
+***2026年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#57BCD4:#FFFFFF){}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|06/26|オープン告知|　|TwiXにてショップのオープン告知を行う|
+|07/11|グランドオープン|[[チェン　マヨ]]、[[丘猫　まる]]、[[圧子]]、[[えびな　ヨネ]]|閉店まで客足の途切れることのない大盛況を収めた|
+//|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#f5feff,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,124 @@
+ページ名の名前の性と名の間のスペースは「全角」にしてください。
+名前の区切りに中点（・）を使用している場合は、スペース(全角)ではなく中点（・）で記載してください。
+"スペース"か"中点"か"区切りのない単一の名前"かの判断し辛い場合は、配信中の名乗りのニュアンスや配信タイトルや配信概要欄なども参考に判断するとよいでしょう。
+
+記事作成した場合[[参加者一覧]]と[[メニュー]]のデータベースに50音順で記載をお願いします。
+&font(b){また、同一人物が演じるキャラクターが新たに作成された場合は、キャラ作成順に活動者の名前でタグ付けをお願いします。}
+
+詳しくは[[ページ作成と編集ガイドライン]]をご確認ください。
+
+Season1から存在するキャラでSeason2でも継続する場合は[[S2ページ編集案]]と下記をご参考ください。
+//
+//■■■■■■■■■■■■■■■■■■■■■■
+//
+・編集例1：表を横に広げてSeason1の情報とSeason2の情報を区別して記述する
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#E6E6FA:#666666){}
+|~シーズン|~&icon_fa(fa fa-calendar)|Season1|Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(な){名}　&ruby(まえ){前}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|ここに出身地を入力|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|>|yyyy年mm月dd日 (&countup(yyyy/mm/dd,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|ここにseason1の職業を入力&br()&icon_fa(fa fa-user-slash)&small(){&openclose2(show=過去の職業){前職1（yyyy/mm/dd～yyyy/mm/dd）}}|ここにseason2の職業を入力&br()&icon_fa(fa fa-user-slash)&small(){&openclose2(show=過去の職業){前職1（yyyy/mm/dd～yyyy/mm/dd）}}|
+|~TwiX|~&icon_fa(fa fa-crow)|Twixアカウント1|Twixアカウント2|
+|~レーサー名|~&icon_fa(fa fa-car)|レーサー名1|レーサー名2|
+|~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999|(999)999-9999|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o)|>|プレイヤー名|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1da1f2){Twitter})}>>ＵＲＬ]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>ＵＲＬ]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>ＵＲＬ]]|
+|BGCOLOR(#eee):~動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video-camera fa-fw)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>ＵＲＬ]]|
+
+・編集例2：opencloseでSeason1の職業等の情報を格納してSeason2での情報を新しく記述する
+#table_style(head=#E6E6FA:#666666){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(な){名}　&ruby(まえ){前}|
+|~出身地|~&icon_fa(fa fa-location-dot)|ここに出身地を入力|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|yyyy年mm月dd日 (&countup(yyyy/mm/dd,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa fa-user-slash)&small(){&openclose2(show=過去の職業（Season1）){前職1（yyyy/mm/dd～yyyy/mm/dd）}}&icon_fa(fa fa-user-slash)&br()&small(){&openclose2(show=過去の職業（Season2）){前職1（yyyy/mm/dd～yyyy/mm/dd）}}&br()ここにseason2の職業を入力（yyyy/mm/dd～yyyy/mm/dd）|
+|~TwiX|~&icon_fa(fa fa-crow)|&small(){&openclose2(show=過去のTwiXID（Season1）){Twixアカウント1}}&br()Twixアカウント2|
+|~レーサー名|~&icon_fa(fa fa-car)|&small(){&openclose2(show=過去のレーサー名（Season1）){レーサー名1}}&br()レーサー名2|
+|~電話番号|~&icon_fa(fa fa-phone)|&small(){&openclose2(show=過去の電話番号（Season1）){(999)999-9999}}&br()(999)999-9999|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o)|プレイヤー名|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1da1f2){Twitter})}>>ＵＲＬ]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>ＵＲＬ]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>ＵＲＬ]]|
+|BGCOLOR(#eee):~動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video-camera fa-fw)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>ＵＲＬ]]|
+//
+#co(){
+YouTubeチャンネルの書き方
+※YouTubeチャンネルはアドレスバーのURLをそのまま貼り付けるとチャンネル名が変わった際にリンク切れになるので
+①該当チャンネルページの「さらに表示」
+②ポップアップの一番下の「➦チャンネルを共有」→「チャンネルIDをコピー」で固有IDを取得
+③取得した固有IDを「https://youtube.com/channel/」の末尾に貼り付けたリンクがおすすめです。
+}
+//■■■■■■■■■■■■■■■■■■■■■■
+//
+※新規キャラ作成時にはこの行を含むここからの上の文を削除してください。
+*プロフィール
+//&image(ここに画像のURLを入力,y=400)
+
+//ここからプロフィール
+#table_style(head=#E6E6FA:#666666){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(な){名}　&ruby(まえ){前}|
+|~出身地|~&icon_fa(fa fa-location-dot)|ここに出身地を入力|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|yyyy年mm月dd日 (&countup(yyyy/mm/dd,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|ここに職業を入力|
+|~所属|~&icon_fa(fa fa-users)|ここに所属を入力|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|ここに@Usernameを入力|
+|~レーサー名|~&icon_fa(fa fa-car)|レーサー名|
+|~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|ここにプレイヤー名を入力|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>ＵＲＬ]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>ＵＲＬ]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>ＵＲＬ]]|
+|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
+//
+#co{コピー用🔽以下必要な場合にご利用下さい
+
+【Instagram】&font(#CF2E92){&icon_fa(fa-brands fa-instagram)} [[&font(#DC2E74){Instagram}>>ＵＲＬ]]
+【ツイキャス】[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting(チャンネル名)}>>ＵＲＬ]]
+【TikTok】&font(#000){&icon_fa(fa-brands fa-tiktok)}[[&font(#000){TikTok(チャンネル名)}>>ＵＲＬ]]
+【キック】&font(#05CE78){&icon_fa(fa-brands fa-kickstarter)} [[&font(#05CE78){kick(チャンネル名)}>>ＵＲＬ]]
+
+}
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-情報を記述
+
+*エピソード
+**2026年
+#region(mm月,open)&bold(){mm月}
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(dd日)
+#endregion(mm月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(dd日)
+
+#endregion(mm月)
+
+}
+
+*アーカイブ
+**2026年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|mm/dd|1|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,240 @@
+#center(){
+#slide_img(auto=5,position=center,width=352,height=198){SHIRAHA_MEMBER.png,SHIRAHA_LOGO.jpg}
+}
+//&image(https://img.atwiki.jp/streamergta5/attach/3633/28850/SHIRAHA_LOGO.jpg,y=300)
+
+#table_style(head=#C0C0C0){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&font(16px){&u()&bold(){&ruby(しらは){SHIRAHA}}}|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年7月11日&br()&small(){（&countup(2026/07/11,yd)経過）}|
+|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|7171番地|
+|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[三階堂　キミトス]]|
+|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&font(b,#000000){黒}|
+
+//|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()||
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**基本情報
+・前の街（＝α世界線）で黒の[[ギャング]]組織だった【[[MOZU>>MOZU]]】はボス【[[ヴァン＝ダーマー>>ヴァン　ダーマー]]】の失踪により解散。元MOZUメンバーそれぞれが新しい道を模索し違う道へ進む者も出る中、実質的にMOZUのアンダーボスだった【[[三階堂キミトス>>三階堂　キミトス]]】のもとに集まったメンバーで新たなギャングへの道を歩み始めた。
+・立ち上げを決心してから名称を公開するまでの間、キミトスギャングを略して『キミギャン』と仮称されていた。
+・MOZUの色であった黒をギャングカラーとして引き継ぐ意志がある。(※黒のカラーを巡って新興ギャング[[NOVA FAMILIA>>NOVA FAMILIA]]と抗争し勝利)
+
+***&font(20px){&color(#d3381c) &underdot(#000000,2px){由来}}
+SHIRAHA(白羽)&br()・白羽の矢のモチーフ&br()・キミトスがMOZU時代に付与されていた鳥の名、鶴の白羽根より&br()・メンバーみんなの色を混ぜ、段々と白を染め黒のギャングとなっていく
+
+***&font(20px){&color(#d3381c) &underdot(#000000,2px){ロゴ}}
+&image(SHIRAHA_LOGO.jpg,x=300,y=200)
+
+**メンバー
+#table_style(head=#000000:#F9FCFF)
+#table_filter(){加入日=hide,役職=show,備考=show,配信=show}
+|~名前|~加入日|~役職|~備考|~配信|h
+|[[三階堂　キミトス]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2025/09/03}|BOSS|元[[MOZU]]構成員(元No.2)。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/e36_kimitosu]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://youtube.com/channel/UCS7SU__0_Aruq8U3AiVl93Q]]|
+|[[三島　改]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2025/09/03}||元[[MOZU]]構成員。&br()&bold(){右腕}|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/1code_a]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://youtube.com/channel/UCYkmxyJoAD4FLcFVV7xjIMg]]|
+|[[上野　かみや>Ueno　Kamiya]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2025/09/03}||元[[IRiS]],[[MOZU]]構成員。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/kamiyaueno]]|
+|[[ナタル　イルコフ]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2025/09/04}||元[[MOZU]]構成員。&br()&bold(){右やんや}|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/n41ru]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://youtube.com/channel/UCjkaeShkONbIIdB0q8187qw]]|
+|[[ボア　セニャコック]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2025/09/04}||元[[MOZU]]構成員。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/nyattimen]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://youtube.com/channel/UCms0qoAHVyqne4h94AMfcDQ]]|
+|[[ミカ・ピトフーイ]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2025/09/07}||元[[MOZU]]構成員。&br()&bold(){最強の矛}|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/3katiii]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://youtube.com/channel/UCRLoW4FZWEvmeXfa2Ys7r0Q]]|
+|[[れぷタイルルス　セルヴァル]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2025/09/11}||元[[MOZU]]構成員。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/repuchin]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://youtube.com/channel/UCY5M1FeR1BQNsnumsJA1epA]]|
+|[[レイラ　キャンベル]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2025/09/19}||元[[MOZU]]構成員。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/nekozukimio]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://www.youtube.com/channel/UCxc8EqhUyYaRywhQKpu-2sg]]|
+|[[イチカ　ウィルキンズ]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2025/09/21}||元[[MOZU]]構成員。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/tubakusama]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://www.youtube.com/channel/UCJY3eQn3Mj81E4OpzZAwyyg]]|
+|[[ルーファス　ウィルキンズ]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2026/06/10}||元[[MOZU]]顧問。&br()α世界線でギャングカラー黒の所有権を持っている。共に黒を背負い羽ばたかないかという提案をキミトスから受ける。&br()当初は断っていたが、イチカや改からキミトスの話を聞くうちに迷い始め、やがて黒い狐の面が顔に現れた。&br()その後キミトスの覚悟を見届け、共に歩むと決めたとき、狐の面が外れる。条件&openclose2(show=*){1.淹れる紅茶にケチをつけないこと。 2.呼び捨てにすること(タイミングは問わない)。裏切った際、頭を撃ち抜くこと。 3.先にいなくならないこと。}を提示したうえで加入を決めた。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/majinbonjin]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://www.youtube.com/@bonjin2090]]|
+|[[天草　蒼]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2026/07/02}||元[[ALLIN]],[[MOZU]]構成員。元[[極楽鳥花]]BOSS。&br()&bold(){左やんや}(組織を続けるためにならないと感じた際はやんや言う。)&br()ギャングBOSSを経験したからこそ、ギャングを続けることの難しさを共感できる存在としてキミトスを支えたい。&br()MOZUより長く組織を続けたいというキミトスの夢に、叶えられなかった極楽鳥花を続けたいという天草の夢を託している。&br()ゴムパッチンはミカ。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/r_k7den]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://youtube.com/@k7dedede]]|
+|[[シャマ・アルカディア]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2026/07/03}||キミトスを、かすかに記憶に残る博士だと思っていた。&openclose2(show=*){天草が海辺でトドのようにぶち上げられていたシャマを拾い博士の話を聞く。&br()その後acqua ovestに行った際、たまたま居合わせたキミトスが、博士の特徴に似ていたため、キミトスを博士と思っていた。}&br()これからもずっとキミトスと居たいという思いがある。&br()黒になり組織に入る覚悟を問われ、タラちゃん&openclose2(show=*){キミトスの情報を流してしまった相手/天草の変装(タラ草)}を撃った。&br()ゴムパッチンはナタル、教育係は改。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/shamakoooooo_]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://youtube.com/@shamako_]]|
+|[[平井　善之]]|2026/07/11&br()&font(10px){※決意した日}&br()&small(){→2026/07/08}||夢を叶える手伝いをしたいという思いがある。キミトスの夢を一緒に追いかけるため加入を決めた。&br()教育係かみや(英語で)|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/amezari_hirai]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://www.youtube.com/@virtual2975]]|
+|[[銭形　やいち郎]]|2026/09/02||元[[MOZU]]構成員。&br()ゴムパッチンは平井。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4)Twitch>>https://www.twitch.tv/yaicin_heros]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://www.youtube.com/@yaicinsan]]|
+//|[[名前]]|2026/mm/dd|役職|備考|配信|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//組員の変更があれば「参加者一覧」への反映もお願いします
+//No.2-9決意した順に入れ替えました。元の順番が重要でしたら戻してください。（レイラ→イチカ→ナタル→ボア→かみや→ルルス→改→ミカ　の順でした。）8/19
+
+//***協力関係
+//
+#co{
+//***過去メンバー
+#table_style(head=#000000:#F9FCFF)
+|~名前|~加入日|~脱退日|~備考|h
+|名前|加入日|yyyy/mm/dd|備考|
+|名前|加入日|yyyy/mm/dd|備考|
+//|名前|加入日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+**拠点
+#table_style(head=#000000:#F9FCFF)
+#table_filter(){番地=show,場所=hide,通称=show,管理者=hide,備考=show}
+|~番地|~場所|~通称|~管理者|~備考|h
+|7171|市街 北西部 ベイシティアベニュー|アジト|[[三階堂　キミトス]]|ロムバンクビルの地下駐車場エレベーター物件|
+
+//|番地|場所|通称|管理者|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+**歴史
+***2025年
+#region(,close)閉じる
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+|12/19|γ世界線&br()転送初日||以前の街と似てはいるがどこか違った新しい街のあちこちでメンバーそれぞれが目覚める。&br()街でさまよいながらだんだんと合流していきヴァン・ダーマーの自宅だった5024で&br()ほとんどのメンバーと落ち合うことができた。&br()しかしなぜか黒い狐のお面が顔に貼り付いて外れない。&br()どうやらキミギャンメンバー全員に共通して起っている現象だが理由は不明なままだ。|
+
+#endregion(2025年)
+***2026年
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show,動画=show}
+|~日付|~出来事|~関係者|~備考|~動画|h
+|03/08|アジト初購入||アジト購入に向けてメンバー全員で稼いだ1億1千万で念願のアジトを購入。&br()スタッシュの問題が解決しメンバーが楽に集まれる環境が整った。&br()S1では不動産のパンチャンに購入相談だけお世話になって実際には買ってあげられておらず、&br()S2でようやく報いてあげることができた。||
+|03/19|NOVAとの抗争||始まりはNOVAとキミギャンのメンバー同士の交通事故。&br()NOVA FAMILIAからフッかけられるような形でカラー【黒】を賭けたギャングカラー抗争に発展。&br()コンテナエリアでの撃ち合い抗争でキミギャンが勝利。||
+|07/11|組織名称正式発表||SHIRAHA(白羽)。白羽の矢のモチーフと、キミトスがMOZU時代に付与されていた鳥の名、鶴の白羽根より||
+|07/11|市役所襲撃||市及び市民に組織を周知させることを目的として行われた。&br()市長補佐が"組織への罰金"とし、三階堂キミトスに請求したことで、&br()実質的に三階堂キミトスをボスとしたギャングとして認められる。||
+|07/25~26|[[こみ蔵>>岐阜野　こみ蔵]]誘拐拉致監禁事件||BJローンから逃げる[[上田>>上田　さん]]に協力していたと目されるこみ蔵をダウンさせ拉致監禁した事件。&br()SHIRAHA側は[[メカニック>>森のぶんぶんメカニック]]でこみ蔵が乗ったと思わしき車を囲んだ際に強引に車を出されひき逃げされたと思っている。&br()こみ蔵は口を割らず、最終的に監禁している物件前で警察との撃ち合いに発展し殲滅され逮捕される事となった。&br()その後こみ蔵から真相を聞いた[[アドミゲス・ハン]]が彼をSHIRAHAの前へ連れてきた事で事情を聞いた。||
+|07/24~08/26|NOVAとの対立||[7/24]上記の轢き逃げ時に、同じく上田さんに協力していたNOVAの[[空>>陽影　空]]と[[ギル>>テクス・ギルベルト]]をダウンさせる。&openclose2(show=*){ダウンさせることは上田さんの同意の上。}&br()2人の身柄を解放する代わりに、BJローンへ上田さんを引き渡すことを交渉するが決裂。&br()スマホ、無線、武器を奪った上で監禁することに。&openclose2(show=*){2人を拘束し続けていて良いと上田さんの発言有。}&br()[7/25]解放。(監禁終了。)&br()[7/26]餡ブレラが上田さんを捕まえた際に轢き逃げについて再度問うが認めず。&br()上田さんはその際、NOVAが命を狙われることに承諾。見つけ次第ダウンさせる街パチに発展。&br()[8/7]街パチは終戦させ、プライドを賭けた抗争で決着をつけることに。&openclose2(show=*){どっちが悪かったか白黒つける。&br()SHIRAHA負けの場合、奪ったものを返す。天草キミトス改ミカがF3ルーレット。NOVA負けの場合、上田さんが謝罪。上田さんとBOSS3人がF3ルーレット。}&br()[8/23]上田さんがNOVAをクビになったと、天草と本人との電話で発覚。&br()[8/26]事の発端で一番の当事者である上田さんが欠けたことにより、抗争は取り止めになり終結。|【メインストーリー】&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){7/24キミトス視点}>>https://youtu.be/GpboyE6G6fM?si=WtM61wPkcAutFrlp]]&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){7/24ナタル視点}>>https://youtu.be/K9jbHjkmfUA?si=z7PyL2XBi9yvKqTr]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){7/24-29天草視点}>>https://youtu.be/yfCs7Tp2qjY?si=qYWbcoe_fpPk-ENj]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){8/7キミトス視点}>>https://youtu.be/r4vy73FdICY?si=TvkWMdaG2IxRgMWd]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){8/23天草視点}>>https://youtu.be/d2FFtZ4cPNM?si=lgO4YHZ97Sidqwzn]]&br()【街パチ・話し合い等】&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){7/29ナタル視点}>>https://youtu.be/xt0tkUdWBIg?si=60Isc-YMeRQA9nYu]]&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){8/7ナタル視点}>>https://youtu.be/2lwKOZS8woM?si=dVMrnvqnBl522b-L]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){7/31キミトス視点}>>https://youtu.be/wc7RMxQp2oo?si=10BwjXpPXeP_kW0D]]&br()&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){8/3ミカ視点}>>https://youtu.be/ACZ_NW1QyDY?si=-fUibHgJajzOOySf]]&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}[[&font(#DA1725){8/6ミカ視点}>>https://youtu.be/AyKXdbaaj9o?si=GiJdtAHbqxJ-Ul6f]]|
+
+
+
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+**アルバム
+#region(2026,close)2026
+|CENTER:BGCOLOR(#FFFFFF):&blankimg(20260308_First-Time_PurchaseOfBase.jpeg,x=200,y=169)|
+|CENTER:BGCOLOR(#FFFFFF):&bold(){2026/03/08 [[パン　チャン]]からアジトを初購入}|
+|CENTER:BGCOLOR(#FFFFFF):&blankimg(20260319_KimiGang_Nova_BeforeFeud.jpeg,x=160,y=90)|CENTER:BGCOLOR(#FFFFFF):&blankimg(20260319_KimiGang_Nova_Win.jpeg,x=160,y=90)|
+|CENTER:BGCOLOR(#FFFFFF):&bold(){2026/03/19 NOVAとの抗争}|CENTER:BGCOLOR(#FFFFFF):&bold(){2026/03/19 NOVAとの抗争に勝利}|
+|CENTER:BGCOLOR(#FFFFFF):&blankimg(20260711_Storm_Cityhall_By_Kimitosu.png,x=160,y=90)|CENTER:BGCOLOR(#FFFFFF):&blankimg(SHIRAHA_MEMBER.png,x=160,y=90)|
+|CENTER:BGCOLOR(#FFFFFF):&bold(){2026/07/11 市役所襲撃}|CENTER:BGCOLOR(#FFFFFF):&bold(){2026/07/12 設立メンバー&infobox(title=💬){左からミカ、改、シャマ、レイラ、平井、天草、キミトス、かみや、ボア、れぷタイルルス、イチカ、ナタル、ルーファス} Photo By [[大　川]]}|
+
+#co{
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/3633/28905/20260308_First-Time_PurchaseOfBase.jpeg,width=200,height=169)|
+|CENTER:2026/03/08 [[パン　チャン]]からアジトを初購入|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/3633/28906/20260319_KimiGang_Nova_BeforeFeud.jpeg,width=300,height=169)|
+|CENTER:2026/03/19 NOVAとの抗争寸前|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/3633/28901/20260319_KimiGang_Nova_Win.jpeg,width=300,height=169)|
+|CENTER:2026/03/19 NOVAとの抗争に勝利|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/3633/28854/20260711_Storm_Cityhall_By_Kimitosu.png,width=300,height=169)|
+|CENTER:2026/07/11 市役所襲撃(TwiXより)|
+
+|&blankimg(https://img.atwiki.jp/streamergta5/attach/3633/28855/SHIRAHA_MEMBER.png,width=300,height=169)|
+|CENTER:2026/07/12 設立メンバー&infobox(title=💬){左からミカ、改、シャマ、レイラ、平井、天草、キミトス、かみや、ボア、れぷタイルルス、イチカ、ナタル、ルーファス} Photo By [[大　川]]|
+//||
+}
+#co{
+|CENTER:BGCOLOR(#FFFFFF):&blankimg(,x=160,y=90)|CENTER:BGCOLOR(#FFFFFF):&blankimg(,x=160,y=90)|
+|CENTER:BGCOLOR(#FFFFFF):&bold(){}|CENTER:BGCOLOR(#FFFFFF):&bold(){}|
+}
+#endregion(2026)
+//⇑以降はアルバム用ページを作成するとこのページを圧迫しないので参考までに
+
+**ストグラ外コラボ
+#region(開く,close)閉じる
+#table_style(head=center:#696969:#fff)
+#table_filter(){配信年=show,配信日=show,内容=show,コラボメンバー(PL)=hide,備考=show,リンク=hide}
+|~配信年|~配信日|~内容|~コラボメンバー(PL)|~備考|リンク|h
+|2025|10/13|Project Winter|あげいん/kamiya/キミトス/尖苅せにゃ/N41Ru/猫月みお/幼少ギミック/れぷちん|||
+|~|10/21|cuff bust|キミトス/猫月みお/みかちー/れぷちん|||
+|~|10/28|MARIO PARTY|あげいん/猫月みお/れぷちん|||
+|~|10/29|Keep Digging|あげいん/キミトス/尖苅せにゃ/N41Ru/猫月みお/幼少ギミック/れぷちん|||
+|~|10/30|PEAK|あげいん/キミトス/N41Ru/幼少ギミック/れぷちん|||
+|~|11/13|PUMMEL PARTY|あげいん/キミトス/N41Ru/猫月みお/みかちー/幼少ギミック|||
+|2026|01/08|MARIO PARTY|キミトス/猫月みお/みかちー/幼少ギミック|||
+|~|02/02|MARIO PARTY|キミトス/猫月みお/みかちー/幼少ギミック|||
+|~|02/16|ARC Raiders→APEX|あげいん/キミトス/猫月みお|||
+|~|03/17|Chained Together|あげいん/キミトス/尖苅せにゃ/N41Ru/猫月みお/みかちー/幼少ギミック/れぷちん|チーム対抗戦||
+|~|04/14|APEX|キミトス/N41Ru/れぷちん|||
+|~|05/04|桃太郎電鉄2|キミトス/猫月みお/みかちー/れぷちん|||
+|~|07/07|Pokémon Champions|かなででで/キミトス/尖苅せにゃ/猫月みお/梵人/みかちー|ポケモン講座||
+|~|07/13|Pokémon Champions|かなででで/キミトス/尖苅せにゃ/猫月みお/梵人/みかちー/れぷちん|最強決定戦||
+|~|07/20|めっちゃカメレオン|kamiya/キミトス/N41Ru/梵人/みかちー/幼少ギミック/れぷちん|||
+|~|08/04|MOON CRASHERS|かなででで/キミトス/猫月みお/みかちー|||
+|~|08/24|APEX|かなででで/キミトス/N41Ru|||
+|~|~|Pizza House Simulator|かなででで/キミトス/N41Ru/猫月みお/みかちー/幼少ギミック|||
+|~|08/30|APEX|かなででで/キミトス/N41Ru|ストグラ後||
+|~|09/01|APEX|かなででで/キミトス/みかちー|||
+|~|~|How to Fish|かなででで/キミトス/猫月みお/みかちー|||
+※名前敬称略,五十音順
+//|~|/|||||
+#endregion
+
+**組織内用語辞典
+&aname(索引)
+|BGCOLOR(#606060):COLOR(#FFFFFF):索引 ▶︎|&space(1)[[あ>#あ]]&space(1)|BGCOLOR(#F7F7F7):&space(1)[[か>#か]]&space(1)|&space(1)[[さ>#さ]]&space(1)|BGCOLOR(#F7F7F7):&space(1)[[た>#た]]&space(1)|&space(1)[[な>#な]]&space(1)|BGCOLOR(#F7F7F7):&space(1)[[は>#は]]&space(1)|&space(1)[[ま>#ま]]&space(1)|BGCOLOR(#F7F7F7):&space(1)[[や>#や]]&space(1)|&space(1)[[ら>#ら]]&space(1)|BGCOLOR(#F7F7F7):&space(1)[[わ>#わ]]&space(1)|
+
+#region(一覧,close)閉じる
+//◆あ行---------------------------------------------------------
+&aname(あ)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)あ行}&space(30)}
+
+&aname(アジト)
+***アジト
+7171番地の拠点。
+***おひたし
+報連相ができてないこと。(由来:報連相しなきゃいけないことをおひたしにして食べて出来なかった）
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆か行---------------------------------------------------------
+&aname(か)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)か行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆さ行---------------------------------------------------------
+&aname(さ)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)さ行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆た行---------------------------------------------------------
+&aname(た)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)た行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆な行---------------------------------------------------------
+&aname(な)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)な行}&space(30)}
+
+***流しそうめんよりも傍
+何をするかより誰とするかを大切に。&br()(目の前の流しそうめんをただ楽しむのではなく、誰(傍にいる人)とするかを大切に。)
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆は行---------------------------------------------------------
+&aname(は)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)は行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆ま行---------------------------------------------------------
+&aname(ま)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)ま行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆や行---------------------------------------------------------
+&aname(や)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)や行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆ら行---------------------------------------------------------
+&aname(ら)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)ら行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+//◆わ行---------------------------------------------------------
+&aname(わ)
+***&underdot(#B22222,3px){&font(20px){&icon_fa(fa-solid fa-comment)&space(1)わ行}&space(30)}
+
+#right(){&link_anchor(索引){↑索引へ}}
+
+#endregion
+
+//-----------------------------------------------------------
+#right(){&link_up(🔝ページTOPへ)}

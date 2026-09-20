@@ -1,0 +1,975 @@
+*プロフィール
+#table_style(head=#56754B:){}
+#slide_img(auto=5,width=300,height=450){midori_first_re.png,midori_basket_re.png
+,midori_mountain1.png,midori_dance1.png,midori_boss1.png}
+//ここからプロフィール
+#table_filter(){season1=hide,season2=show}
+#table_style(head=#56754B:#FFF){世界線=#670731:#FFF:b:center}
+|~世界線|~&icon_fa(fa fa-calendar)|~season1|~season2|
+|~名前|~&icon_fa(fa fa-user)|>|よりどり　みどり|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|東京|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|1998年05月04日 (&countup(1998/05/04,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年03月28日 (&countup(2025/03/28,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa fa-wrench)&space()&b(){メカニック【[[JTS>>ジョアンナテクノサービス]]】&small(){社員 (2025 05.13-)}}&br()&icon_fa(fa fa-wine-glass)&space()&b(){BAR【[[ShanaoR]]】&small(){店員 (2025 06.26-)}}&br()&icon_fa(fa fa-martini-glass-citrus)&space()&b(){スナック【[[隣のまちこ]]】&small(){新人(2025 08.28-)}}&br()&font(90%){【前職】&br()&icon_fa(fa-solid fa-hot-tub-person)&space()サウナ【[[SPA だはは]]】&small(){店員 (2025.05.13-06.26)}}|&icon_fa(fa fa-wrench)&space()&b(){メカニック【[[JTS>>ジョアンナテクノサービス]]】&small(){マネージャー (2026 02.01-)}}&nbsp(br,36)&small(){社員(2025 12.25-)}&br()&icon_fa(fa fa-dice)&space()&b(){カジノ【[[LosVegas]]】&small(){ディーラー (2026 04.01-)}}|
+|~所属|~&icon_fa(fa-sharp fa fa-people-group)||サービス業【[[ジョアンナタレントスクール]]】&small(){講師(2026.09.03-)}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@みどり|@yoridorimidori|
+|~レーサー名|~&icon_fa(fa-solid fa-car-burst)|yoridori midori|Yoridori Midori|
+|~電話番号|~&icon_fa(fa fa-phone)|(907)563-8280|(602)167-4290|
+|~着信音|~&icon_fa(fa fa-bell)||リドミ・ドリヨリ・ミリドリ・ミドリ&openclose2(show=*){(作詞・作曲：[[Dr.ギガ>>Dr．ギガ]])}&br()[[&i(){Is Midori Sexy}>>https://youtu.be/ScZLcmt9V4M]]&openclose2(show=*){(作曲：[[罰　下リ]])}|
+|プレイヤー|BGCOLOR(#670731):~&icon_fa(fa fa-address-card-o fa-fw)|>|猫瀬乃しん|
+|告知等|BGCOLOR(#670731):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){猫瀬乃しん🐈🎩}>>https://x.com/nekozenoshin]]|
+|配信場所|BGCOLOR(#670731):~&icon_fa(fa fa-gamepad)|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){猫瀬乃しんNekozeno Shin}>>https://www.youtube.com/@nekozenoshinn]]｜&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){猫瀬乃しん}>>https://www.twitch.tv/nekozenoshin]]|
+|ガイドライン|BGCOLOR(#670731):~&icon_fa(fa fa-circle-info)|>|[[二次創作ガイドライン（Roselta）>>https://roselta.jp/guideline]]|
+//|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):&icon_fa(fa fa-user-plus)|&small(){&openclose2(show=※ネタバレ注意){&br()[[🍂マークの場合ここに別キャラ名を入力]]}}|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+//
+//【2025/03/28記載】『誕生日について』年齢表記のためコマンド部分を転入日で仮設定してあります。今後設定開示とともに変更する予定です。ご協力お願いします。　JohnHeartless
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+&underdot(#56754B,4px){&font(b,15){&icon_fa(fa fa-route)&space()街に来た経緯・目標}}
+- 100万ドルの夜景を求めてやってきた。いつか見せてくれる人を探している。
+--世界一の大富豪になるという大志を抱いている。
+&underdot(#56754B,4px){&font(b,15){&icon_fa(fa fa-circle-user)&space()出身・家族}}
+- 元・銀座のホステス。実家は団子屋だった。
+-- 家業のことは「芋っぽい」と感じており、それがホステスになったきっかけの一つとなっている。
+-姉がいるが、まだロスサントスには来ていない。
+&underdot(#56754B,4px){&font(b,15){&icon_fa(fa fa-user)&space()性格・人柄}}
+-基本的に真面目であり、職場の業務は淡々とこなす。
+-常日頃から脊髄トークを展開しているため、何を話してもツッコまれる。
+- 英語の発音がネイティブ並みだ！とよく驚かれるが、英語は苦手。
+***&underdot(2px,#56754B){&i(){season1}}
+- ユーモアに富んでおり、会う人からは【[[JTS>>ジョアンナテクノサービス]]】か【[[GBC>>GoodbyeCircus]]】が合っていると言われる。
+-- 実際に両組織から注目されており、みどりが体験をすると双方の社員が会いに来る。
+***&underdot(2px,#670731){&i(){season2}}
+-面白可笑しいことで笑いが止まらなくなると、笑い声を"発射"するようになった。
+--こうなると、&underdot(2px,#D4CDC5){"よりどりみどり"としての人格を保てなくなる}&infobox(title=*){魂が出てくる}ことが多い。
+&underdot(#56754B,4px){&font(b,15){&icon_fa(fa fa-icons)&space()趣味・嗜好}}
+- 食べるのが大好きで趣味はカフェ巡り。
+- 好物は胡麻団子、ビリヤニ。
+- お化けが苦手で、作り物とわかっていても背筋が凍る。
+-低くて渋い声が好み。出会う度に脳を焼かれている。
+-好きな色は&color(#ED1A3D){赤}、特に&color(#8D3043){ワインレッド}がお気に入り。名前は&color(#008000){みどり}だけど。
+-名探偵コ〇ンのものまねが得意で、[[オスカー・ローラン>オスカー・ローラン]]の降霊魔術の一つである某警部としばしば掛け合いをする。
+-[[KoKo七番屋]]で店員として働いている[[文殊　セイジ]]が考案、販売している&b(){"スパイすビリヤニ"}が大好物。
+//----
+*交友関係
+**職場
+***&underdot(2px,#56754B){&i(){season1}}
+&icon_fa(fa fa-wrench)&space()&font(b,15){JTS(ジョアンナテクノサービス)}
+#openclose(show=入社経緯){
+JTS体験開始
+}
+#region(関係者)&b(){関係者}
+#table_style(head=90%:#ED7E15:#FFF){名前=90%,愛称=90%,個別エピソード=90%}
+|~名前|~愛称|~個別エピソード|h
+|[[町田　ジョアンナ]]|アンナ|初めて出会った時点で会話やノリの相性が非常に良く、&br()&b(){「JTSに欲しい！」}と熱望された。|
+|[[ねずみさん>>えぐち　きの子]]|ねずみちゃん|キュートなメスのねずみで、自称：ジョアンナさんの右腕。&br()最初の高級車は彼女から購入した。|
+|[[豆　やん]]|パピー|名前の語感からか、『選びたい放題』さんと呼ばれている。|
+|[[毒多　博士]]|ドクちゃん、博士|出会った日にまさかの&ruby(みそぎ){禊}ライブ。&br()あまりの印象の悪さに&b(){"嘘つき借金老いぼれジジイ"}と命名した。&br()後日ラボに招待され、そこで見た研究成果に感銘を受けた。|
+|[[岐阜野　こみ蔵]]|こみちゃん||
+|[[多良里　ずぅ]]|ずぅちゃん|JTS北支店の店長。喋るだけでよく笑ってくれる。ゲラ。|
+|[[美々梨田　ちょりぴ]]|ちょりぴちゃん|みどりが入社してから初めてできた後輩。|
+|[[天王寺　京司郎]]|京ちゃん|副社長。|
+|[[ジャック馬　ウメー>>松竹　ウメ]]|ウメちゃん||
+|[[鮫島　フラム]]|||
+|[[赤城　煉]]|あかぎれ||
+|[[レイジー　ルードマン]]|レイジー||
+|[[隣　紀子]]|紀子さん|ジョアンナが言うには、&b(){『陰の紀子、陽のみどり』}という位置付けらしい。&br()容姿、雰囲気が似ているらしい。&br()みどりが起きた日に紀子が寝ており、また紀子が起きた日にみどりが寝ていたりと、&br()常に活動のすれ違いが起きていた。&br()あまりにも偶然な出来事に、社員からは&b(){同一人物説}が浮上していた。&br()転送時まで、出会うことは無かった。|
+|[[ラグランジュ　光芝]]|みっちゃん|出勤率が高く、働き者であるJTSの先輩。&br()心無きに轢かれる、というおっちょこちょいな一面もある。|
+#endregion
+//
+&underdot(#DA4545,3px){&font(b,15){ShanaoR(シャノール)}}
+#region(入社経緯)&b(){入社経緯}
+#endregion
+#region(関係者)&b(){関係者}
+#table_style(head=90%:#DA4545:#FFF){名前=90%,愛称=90%,個別エピソード=90%}
+|~名前|~愛称|~個別エピソード|h
+|[[ヴァン　ダーマー]]|ダーマーさん、ヴァンさん&br()【2人きりの呼び方】ダーマーぴょん・ダーマーぴゃん|オーナー。|
+|[[銭形　やいち郎]]|ゼニー|チーフマネージャー。&br()JTSの常連客として、よく修理に来てくれる。|
+|[[ルーファス　ウィルキンズ]]|ルーファスさん、おいたん|支配人。|
+|[[ジェフリー　ヒッチコック]]|||
+|[[上野　かみや>Ueno　Kamiya]]|||
+|[[ティキーチック　のすけ]]|のんちゃん||
+#endregion
+//
+&underdot(#3AD63A,3px){&font(b,15){SPA だはは}}
+#region(入社経緯)&b(){入社経緯}
+#endregion
+#region(関係者)&b(){関係者}
+#table_style(head=90%:#3AD63A:#FFF){名前=90%,愛称=90%,個別エピソード=90%}
+|~名前|~愛称|~個別エピソード|h
+|[[キャプテン　わきを]]|わきくん|サウナ[[SPA　だはは]]の社長。&br()みどりが考案したセクシー熱波を気に入ってもらえているようだ。&br()メッセージにて、退職の旨を伝える文を残した。|
+|[[銅鑼　イオリ]]|イオリちゃん|チエリの双子の妹であり、豆やん＆ダミアン夫婦の娘。自由で明るい女の子。&br()何かをやらかしたらしく、サウナで&ruby(みそぎ){禊}アルバイトをしている時に出会う。|
+|[[上田　さん]]|||
+#endregion
+//
+***&underdot(2px,#670731){&i(){season2}}
+&font(b,15){JTS(ジョアンナテクノサービス)}
+|・転送後に再雇用される前から、TwiXのプロフィール欄に&b(){『みどり、JTSで働いているの。』}と書き込むほどにJTS愛で溢れている。&br()・2026/02/01付でJTSのマネージャーに昇進し、それに伴い賃金が125円から150円に上がった。|
+#region(関係者)&b(){関係者}
+#table_style(head=90%:#ED7E15:#FFF){名前=90%,愛称=90%,個別エピソード=90%}
+|~名前|~愛称|~個別エピソード|h
+|[[町田　ジョアンナ]]|アンナ|社長。的確なツッコミを入れてくれる|
+|[[ねずみさん>>えぐち　きの子]]|ねずみちゃん|先輩マネージャー。みどりがマネージャーに昇進した際、&br()&b(){「ドンと構えましょう」「時には厳しく」}という心得を授けてくれた。|
+|[[豆　やん]]|パピー|先輩マネージャー。|
+|[[レイジー　ルードマン]]|レイジー|街でも希少なみどりのツッコミ担当。&br()ツッコミのキレが日に日に増している。|
+#endregion
+//
+&underdot(#C3A236,3px){&font(b,15){LosVegas(ロスベガス)}}
+#openclose(show=入社経緯){}
+#region(関係者)&b(){関係者}
+#table_style(head=90%:#C3A236:#FFF){名前=90%,愛称=90%,個別エピソード=90%}
+|~名前|~愛称|~個別エピソード|h
+|[[岐阜野　こみ蔵]]|こみちゃん||
+|[[銭形　やいち郎]]|ゼニー||
+|[[ボクジュール　すずり]]|すずりちゃん|歌イベで推しになった&br()食べちゃいたいくらい好き|
+#endregion
+**街の住民
+***&underdot(2px,#56754B){&i(){season1}}
+//
+&underdot(#4169E1,3px){&font(b,15){SGPD(警察)}}
+#region(関係者)&b(){関係者}
+#table_style(head=90%:#4169E1:#FFF){名前=90%,愛称=90%,個別エピソード=90%}
+|~名前|~愛称|~個別エピソード|h
+|[[亀有　大吉]]|大ちゃん|奇肉屋と木こり、警察官として働いている正義感あふれる青年。&br()みどりにメロメロで、感情が行動に表れることもしばしば。|
+|[[ばい　ゆんいん>>白　雲隠]]|ばいくん|初日にレギオンで出会った。&br()チエリちゃんは警戒しているようだったが、会話を通じて仲良くなった。&br()久しぶりに会うと警察官になっていた。|
+|[[ボイラ　テンガリン]]|テンちゃん||
+|[[山本　寅子]]|||
+|[[悠　えん]]|悠くん|【[[FOWK]]】で出会った入国同期。メカニック【[[9055]]】で働いている。|
+|[[レッサン　パンナ]]|レッサン||
+#endregion
+//
+&underdot(#DC143C,3px){&font(b,15){救急隊}}
+#region(関係者)&b(){関係者}
+#table_style(head=90%:#DC143C:#FFF){名前=90%,愛称=90%,個別エピソード=90%}
+|~名前|~愛称|~個別エピソード|h
+|[[ノビー　ラング]]|ノビちゃん|病院で会う度、前屈みになってもぞもぞしている。&br()みどりに即興で歌ってくれた。内容は[[だよだよ>>堕夜　だよ]]&ruby(いわ){曰}くR15とのこと。&openclose(show=【即興曲の歌詞】){"みどりへの即興曲"&br()作詞・作曲：ノビーラング&br()みどり　みどり　みどり&br()君はいつもセクシー&br()心はいつも晴れやか&br()オールグリーンだよ&br()君の声は　僕の身体を&br()通り抜けて　熱くなるよ&br()oh　みどり&br()僕の股が熱くなる&br()oh　みどり&br()ホット　アンドスティック&br()ホットスティック}|
+|[[元難波　登]]||みどりの悲鳴を聞くため、やたらとスリリングな道程で送ってくれようとする。|
+#endregion
+//
+&underdot(#00BFFF,3px){&font(b,15){住民}}
+#region(関係者)&b(){関係者}
+#table_style(head=90%:#56754B:#FFF){名前=90%,愛称=90%,個別エピソード=90%}
+|~名前|~愛称|~個別エピソード|h
+|[[銅鑼　チエリ]]|チエリちゃん|ロスサントスの第一住人で、空港で出会った。&br()そのままの流れで街を案内してくれた。|
+|[[広場　うた子]]|うた子さん|初日にレギオンで出会った。&br()出会って早々エモートで抱きつくという&ruby(あらわざ){荒業}をやってのけた。|
+|[[天草　蒼]]|蒼ちゃん|喫茶店【[[Yadorigi]]】の店長兼ハウジング担当。&br()店内はリスが棲む森がコンセプトで、人間のみどりを温かく迎え入れてくれた。|
+|[[亀山　HERO>焼野原　ひろし]]|ひろピ|芸能事務所【[[GoodBye Company>GoodbyeCircus]]】のマネージャー兼[[海上レストラン>Urashima]]の店長。&br()初日に海上レストランで職場体験してから気にかけてくれている。|
+|[[ダミ　アン]]|マミー||
+|[[オザワ　ハヤマサ]]|ザワちん|電話越しでもテンションが高くなるくらい、みどりのお気に入り。|
+|[[ペトロ　アルドベッグ]]|ペトロさん|よく当たると評判の占い師。最近開店したばかりのパブ【[[FOWK]]】の店長。&br()店員の勧誘に頭を悩ませている。|
+|[[須藤　冬馬]]|筋肉|【[[9055]]】のメカニック兼普通車ディーラー。&br()最初に購入する車の相談に乗ってもらった。|
+|[[キングスターダイヤモンド　ズズ]]||ひろしの知り合いの芸人さん。&br()常に動き回っているので会うのはなかなか珍しいらしい。|
+|[[スコティッシュ・ホールド]]|スコちゃん|ズズさんと即興でコントができる女の子。&br()恋人がいるらしく、恋バナで盛り上がった。|
+|[[寝千代　りお]]|ねっちょり|どこかノリが似ている男。名前の通り喋り方が"ねっちょり"している。|
+|[[トウ　ユン]]|ユンユン|音楽喫茶【[[GroobyBabyCafe]]】の店長。&br()サウナでイオリの禊に付き合いアルバイトをしていた。&br()服選びデートに誘い、展望台や遊園地、サバゲーなどへ連れて行ってもらった。|
+|[[文殊　セイジ]]|もんちゃん|・修理のために【[[JTS>>ジョアンナテクノサービス]]】に通ってくれるお兄さん&br()・"みどり先生"と呼ばれている&br()・ヘリコプターの操縦スキルを磨くため、夜遅くに鬼の特訓を教授してくれている|
+|[[タラ　ちゃん]]||レギオンを『レジオン』、バイクを『ｳﾞｧｲｷｯ』と呼ぶように促された。|
+|[[オスカー・ローラン]]|オスカーさん||
+|[[つよがり　とうか]]|肉まんちゃん|ニックネームである『肉まんちゃん』の由来は、頭の髪飾りが肉まんに見えることから。|
+|[[柳田　ライアン]]|ライアン|よくJTSを利用してくれる。&br()みどりを人質に強盗をした結果、修羅場になったことがトラウマになっている。|
+|[[三島　みつー]]||初めて所有することになったヘリを売ってくれ、練習にも付き合ってくれた。|
+|[[Super　Subaru]]|Subaru|この街に来て初めて街案内をした子。『グリングリン』と呼ばれている。|
+|[[ヨシャ　パテ>>アイドゥラー　ヨシャパテ]]|パティ||
+|[[奈落　破滅]]|はめとぅん|・共に[[JTS>>ジョアンナテクノサービス]]でメカニック体験をした|
+|[[栖家幡　華憐]]|華憐さん||
+|[[聖母　れりあ]]|れり姉||
+|[[渡戸　リー]]|リーさん||
+|[[日々]]|日々ちゃん||
+|[[フグ田　ナチ]]|ナチちゃん|同期で恋バナが好きな女の子。|
+|[[神田　じぇいのすけ]]|じょいちゃん|挨拶代わりに「じょいちゃん！」「じ"ぇ"いちゃんね？」と会話を交わすのがお決まり。|
+#endregion(市民)
+//
+***&underdot(2px,#670731){&i(){season2}}
+//
+&underdot(#4169E1,3px){&font(b,15){SGPD(警察)}}
+#region(関係者)&b(){関係者}
+#table_style(head=90%:#4169E1:#FFF){名前=90%,ニックネーム=90%,どんな人？=90%}
+|~名前|~ニックネーム|~どんな人？|h
+|[[伊勢　えびす]]|えびちゃん||
+|[[土根　ジョー]]||口説き文句を交えた"土根ジョーク"を飛ばしている|
+|[[メチャ南　よる]]|みなみん||
+#endregion
+//
+&underdot(#670731,3px){&font(b,15){住民}}
+#region(関係者)&b(){関係者}
+#table_style(head=90%:#670731:#FFF){名前=90%,愛称=90%,個別エピソード=90%}
+|~名前|~愛称|~個別エピソード|h
+|[[黒丈　シロウ]]|シロウちゃん||
+|[[天草　蒼]]|あまちゃん|・暇電から始まったミステリアスな関係&br()・付けられた愛称は"&b(){りどりー}"(メト〇イドのキャラとは無関係)&br()・ゴミ箱から出てきたカギの使い道を真摯に話してくれた|
+|[[つよがり　とうか]]|肉まんちゃん|・みどりが着信を知らせてくれる"着信ボイス"を提供した|
+|[[寝千代　りお]]|りお様|・みどりが狂信的に推している&br()・キャラが被り散らかしていると言われたが、みどりにはその自覚がない|
+|[[小此木　かりん]]||・言葉にトゲがある[[acqua ovest]]の店員&br()・クソババアと呼んでくる|
+|[[聖母　れりあ]]|れり姉|・セクシーさに磨きがかかっている|
+|[[ボクジュール　すずり]]||推し|
+|[[ほわいと　たいが>>イチカ　ウィルキンズ]]|たいがちゃん|・冬眠から起きてきた&br()・[[acqua ovest]]のキッチンを借りて自ら作った飲食物を提供している|
+#endregion
+//
+//#div(width=58px,bgcolor=#FF878D){&font(b,#FFF){&space()&icon_fa(fa fa-signature)&space()愛称}}
+//#div(width=94px,bgcolor=#FF878D){&font(b,#FFF){&space()&icon_fa(fa fa-comment-dots)&space()エピソード}}
+//
+**恋愛観
+恋バナが大好き
+*クローゼット
+***&underdot(2px,#56754B){&i(){season1}}
+//
+#table_style(head=#56754B:#FFF:85%:center){}
+|>|~みどりの服|>|~海上レストラン制服|>|~9055|>|~猫カフェ|>|~コナン|>|~ラフな格好|>|~JTSつなぎ|>|~セクシー衣装|>|~ヘリバトル発法被|h
+|&image(midori_clothes.png,x=150)|・街での普段着&br()・ダメージジーンズのように見えるが、&br()実際は猫に引っ掻かれたキズ|&image(midori_restaurant1.png,x=150)|海上レストラン【[[Urashima]]】で&br()職業体験の際に着ていた制服|&image(midori_9055_1.png,x=150)|メカニック【[[9055]]】で職業体験の&br()際に着ていた作業着|&image(midori_catcafe1.png,x=150)|[[猫カフェ武蔵]]で職業体験の&br()際に着ていた制服|&image(midori_arere1.png,x=150)||&image(midori_casual1.png,x=150)||&image(midori_jts2.png,x=150)||&image(midori_sexy1.png,x=150)|・イベント【SEXY FIGHT CLUB】&br()の宣伝をするために着ていた&br()チャイナドレス&br()・清水あいる&infobox(title=*){ジョアンナ}とのペアルック|&image(midori_happi1.png,x=150)||
+//----
+***&underdot(2px,#670731){&i(){season2}}
+#table_style(head=85%:center:#670731:#FFF){}
+|>|~普段着|>|~オービスコーデ|>|~鬼ごっこコーデ|>|~ボンバー|>|~【MiMi】こみ蔵様カジノ女性制服|>|~パジャマ改|>|~【MiMi】ファッションショー みどり様コーデ|>|~デート|
+|&image(midori_hudangi1.png,x=150)|転送後に来ていた服|&image(midori_green1.png,x=150)|イベント『Not Lost Time』出演時みどりグリーン|&image(midori_onigokko1.png,x=150)|イベント『Not Lost Time』|&image(midori_bomber1.png,x=150)|オレンジボンバー|&image(midori_losvegas2.png,x=150)|カジノ【[[LosVegas]]】の制服|&image(midori_pajamas1.png,x=150)|・寝るときに着る個性的なパジャマ|&image(midori_fashion1.png,x=150)|ファッションショー|&image(midori_date1.png,x=150)||
+&br()
+#region(アルバム)&b(){アルバム}
+#table_style(head=80%:center:#670731:#FFF){}
+|&image(midori_fashion2.png,x=150)|h
+#endregion
+//----
+*乗り物
+***&underdot(2px,#56754B){&i(){season1}}
+//
+#region(自動車)&b(){&icon_fa(fa fa-car)&space()自動車}
+#table_style(head=80%:center:#56754B:#FFF){Rapid GT Convertible=80%:b:center,Lampadati Tigon=80%:b:center,Egg Car Arcida=80%:b:center,Remus=80%:b:center,Vivante LE=80%:b:center,Sentinel Classic=80%:b:center,Imorgon=80%:b:center,Karin Turtle=80%:b:center,Issi Jolly=80%:b:center,Speedo Custom=80%:b:center}
+|Rapid GT Convertible|Lampadati Tigon|Egg Car Arcida|Remus|Vivante LE|Sentinel Classic|Imorgon|Karin Turtle|Issi Jolly|Speedo Custom|h
+|&image(midori_rapid_gt_convertible1.png,x=200)|&image(midori_lampadati_tigon1.png,x=200)|&image(midori_eggcar1.png,x=200)|&image(midori_remus1.png,x=200)|&image(midori_vivante_le1.png,x=200)|&image(midori_sentinel_classic1.png,x=200)|&image(midori_imorgon2.png,x=200)|&image(midori_karinturtle1.png,x=200)|&image(midori_issijolly1.png,x=200)|&image(midori_speedocustom1.png,x=200)|
+|~ニックネーム|~ニックネーム|~ニックネーム|~ニックネーム|~ニックネーム|~ニックネーム|~ニックネーム|~ニックネーム|~ニックネーム|~ニックネーム|
+|みどりのあかの車|【販売-ヘルアン-1億5千万】Tigon|Arcida Egg Car|カスタム練習カー|ファミリーカー白|天王寺car|A帯　Imorgon|Karin Turtle|Weeny Issi Jolly|積載800くん|
+|~納車日|~納車日|~納車日|~納車日|~納車日|~納車日|~納車日|~納車日|~納車日|~納車日|
+|2025.04.03|2025.04.21|2025.05.03|2025.05.13|2025.05.16|2025.05.16|2025.05.21|2025.06.19|2025.07.25|2025.08.17|
+|~エピソード|~エピソード|~エピソード|~エピソード|~エピソード|~エピソード|~エピソード|~エピソード|~エピソード|~エピソード|
+|[[須藤　冬馬]]に相談したところ、格安で&br()格好良い車ならばとオススメされた。|中古車ディーラー【[[ReBoot]]】の展示場&br()にて、初めてのS帯フルカスタム車に&br()一目惚れ。[[豆　やん]]におねだりして&br()買ってもらった。前の持ち主は&br()ニックネームにもある通り[[ヘルアン]]。|ID1番で起床し徳を積んだおかげか、&br()イースターエッグから低確率で出る&br()エッグカー引換券を見事に引き当てた。|入社祝いとしてJTSからプレゼント。&br()カスタムが豊富で、自分好みの&br()見た目に変えることができる。|一目見た瞬間欲望が抑えきれなく&br()なり、[[豆　やん]]におねだりして&br()買ってもらった。|入社祝いとして[[天王寺　京司郎]]から&br()プレゼント。REMUS同様カスタムが&br()豊富で、幅広くカスタマイズできる。|[[ねずみさん>えぐち　きの子]]から貸してもらった際、&br()加速、ハンドリングに感動。&br()[[大川自動車販売(有)]]にて&br()[[ねずみさん>えぐち　きの子]]から購入した。|街に限られた数しかない限定車両。&br()何台か持っている内の1台を&br()[[豆　やん]]が譲ってくれた。|抽選会にて初めて当選した。&br()レトロポップなデザインが特徴。||
+#endregion(自動車)
+//
+#region(バイク)&b(){&icon_fa(fa fa-motorcycle)&space()バイク}
+#size(80%){#table_style(head=center:#56754B:#FFF){NIGHTBLADE=b:center,SHINOBI=b:center,POWERSURGE=b:center}
+|NIGHTBLADE&image(midori_nightblade2.png,x=200)|SHINOBI&image(midori_shinobi2.png,x=200)|POWERSURGE&image(midori_powersurge1.png,x=200)|h
+|~ニックネーム|~ニックネーム|~ニックネーム|
+|パピーのバイク|誕生日！みどりの日おめでとう！|Western Powersurge|
+|~納車日|~納車日|~納車日|
+|2025.04.20|2025.05.03|2025.05.28|
+|~エピソード|~エピソード|~エピソード|
+|バイクが欲しくて起きたところ、&br()[[豆　やん]]が譲ってくれた。|誕生日のお祝いとしてJTS社員&br()一同からプレゼントされた。|深夜テンションの勢いで&br()[[悠　えん]]からプレゼントされた。|}
+//
+#endregion(バイク)
+//
+#region(ヘリコプター)&b(){&icon_fa(fa fa-helicopter)&space()ヘリコプター}
+#table_style(head=center:80%:#56754B:#FFF){Volatus=80%:b:center,Frogger Custom=80%:b:center}
+|Volatus|Frogger Custom|h
+|&image(midori_volatus1.png,x=200)|&image(midori_froggercustom1.png,x=200)|
+|~ニックネーム|~ニックネーム|
+|戦闘用みどタス　ボラタス|みどりのフロガー|
+|~納入日|~納入日|
+|2025.06.06|2025.07.12|
+|~エピソード|~エピソード|
+|乗り心地を味わうために[[三島　みつー]]&br()から借りていたが、気に入ったため&br()定価のほぼ半値で買い取った。||
+#endregion(ヘリコプター)
+//
+#region(自転車)&b(){&icon_fa(fa fa-bicycle)&space()自転車}
+#table_style(head=80%:center:#56754B:#FFF){Scorcher=80%:b:center}
+|Scorcher|h
+|&image(midori_scorcher_1.png,x=200)|
+|~ニックネーム|
+|みどりの自転車|
+|~納車日|
+|2025.03.29|
+|~エピソード|
+|スケートボードよりも速いと、&br()[[銅鑼　チエリ]]と[[亀山 HERO>焼野原　ひろし]]に&br()オススメされて購入した。|
+//
+#endregion(自転車)
+//
+***&underdot(2px,#670731){&i(){season2}}
+//
+&b(){&icon_fa(fa fa-car)&space()自動車}
+#table_style(head=80%:center:#670731:#FFF){Dinka Blista Compact=80%:b:center,Dinka Cody Mechanic Truck=80%:b:center,Karin Dilettante DX=80%:b:center,Ūbermacht Rebla GTS=80%:b:center}
+|Dinka Blista Compact|Dinka Cody Mechanic Truck|Karin Dilettante DX|Ūbermacht Rebla GTS|h
+|&image(midori_dinka1.png,x=200)|~準備中|&image(midori_dilettante1.png,x=200)|~準備中|
+|~納車日|~納車日|~納車日|~納車日|
+|2026.01.04|2026.01.09|2026.03.06|2026.07.24|
+|~エピソード|~エピソード|~エピソード|~エピソード|
+|||4人乗りの車がほしいという願望から&br()購入した。[[罰くん>>罰　下リ]]の思うがままに&br()カスタムしてもらった。||
+//
+&b(){&icon_fa(fa fa-motorcycle)&space()バイク}
+#table_style(head=80%:center:#670731:#FFF){Pegassi Faggio Sport=80%:b:center,Dinka Thrust AT=80%:b:center}
+|Pegassi Faggio Sport|Dinka Thrust AT|h
+|&image(midori_faggio1.png,x=200)|&image(midori_thrust1.png,x=200)|
+|~ニックネーム|~ニックネーム|
+|||
+|~納車日|~納車日|
+|2026.01.02|2026.03.18|
+|~エピソード|~エピソード|
+|||
+&br()
+#region(アルバム)&b(){アルバム}
+#table_style(head=80%:center:#670731:#FFF){}
+|&image(midori_turust2.png,x=200)|&image(midori_turust3.png,x=200)|h
+#endregion
+//
+*エピソード
+**ピックアップエピソード
+※"&font(#DA1725){&icon_fa(fa-brands fa-youtube)}"マークからリンク先に進んでいただけると、出来事の始まりから見ることができます。
+//　
+トウユン
+#table_style(head=#B22:#FFF){リンク=center}
+|日付|出来事|リンク|h
+|2025/04/25|服選びデート|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/C9JA0LYauYI?t=6134]]|
+ヴァンダーマー
+#table_style(head=#404040:#FFF){リンク=center}
+|日付|出来事|リンク|h
+|2025/05/15|出会い|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://youtu.be/v9Yh7CX_csQ?t=1323]]|
+|2025/06/26|&ruby(シャノール){ShanaoR}入社|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/1tCs-Xew1D0?t=14553s]]|
+//----
+**イベント
+***&underdot(2px,#56754B){&i(){season1}}
+#table_style(head=90%:center:#56754B:#FFF){開催日=center:95%,イベントタイトル=95%,出演・参加=95%}
+|~開催日|~イベントタイトル|~出演・参加|
+|2025/07/12|可愛いだけじゃだめですカーレース|・コンテスト出展|
+|2025/07/15|3on3ヘリバトルSecond|・賭けチケット販売員&br()・ヘリ修理担当|
+|2025/08/09|ロスリンピック|・トライアスロン スタッフ|
+|2025/08/16|SUMMER FESTIVAL 2025|・JTS 『合いの手を言わせたい歌』ダンサー&br()・ラブストレート小里馬ァ『オレンジボンバー』バックダンサー　|
+|2025/08/22|SURVIVAL GAME TOURNAMENT|・チームA|
+|2025/08/26|第1回SGPD祭|・『客船5対5テーザー戦』チームC|
+***&underdot(2px,#670731){&i(){season2}}
+#table_style(head=90%:center:#670731:#FFF){開催日=center:95%,イベントタイトル=95%,出演・参加=95%}
+|~開催日|~イベントタイトル|~出演・参加|
+|2026/02/25|Not Lost Time|・メカニック戦隊ナオスンジャー&space()みどりグリーン役&br()・ラブストレート小里馬ァ『オレンジボンバー』バックダンサー|
+|2026/03/29|Hotel Vertexグランドオープン記念イベント|・Fashion Mimiコラボ ファッションショー モデル|
+|2026/04/11|&ruby(てんかいち){天下一}ンチロ武道会|・司会&br()・賭けチケット販売員|
+|2026/05/30|M-1GP(メカワングランプリ)|・ピットクルー|
+|2026/06/27|レンタルライブハウス　公開記念ライブ||
+|2026/08/21|よりどりみどり　お見合いイベント||
+#co{
+|yyyy/mm/dd|イベント名|出演・参加|
+}
+**日別エピソード
+※アーカイブのコメント欄に詳細なタイムスタンプがあるので、詳しくはそちらをご覧ください。
+※エピソードの記載がある日には✅が付いています。
+#include(よりどり　みどり/season1日別エピソード1)
+***&underdot(2px,#D3DCE9){&i(){season2}}
+//
+#region(close,2025年)&b(){2025年}
+#region(close,12月)12月
+//
+#region(close,remember,12/19 #1✅)12/19 &b(){[[Season２に突入！よりどりみどりのロスサントスでの生活１日目>>https://www.youtube.com/live/TBSm16YRCDQ]]}
+・JTSの駐車場で目が覚める。
+・・第一住民はゆたんぽちゃんだった。豆やんパピーと再会。赤城さんが駐車場で寝ていた。JTSの内装はそのままだった。スマホの連絡先が全て無くなっていたため、パピーと連絡先を交換した。
+・・JTS前で誰かが寝ているのを発見。ろっぷさん、こみ蔵さん、ぷら子さんと挨拶。
+・・ジョアンナと再会し喜ぶ。ダミアンマミーも合流し連絡先を交換した。
+・みんなで街の様子を見にレギオンを目指す。街はクリスマスの装飾がついていた。
+・・天草さん[[奇夢　ヤミ]]さんとダウンしているばななさんと出会う。足が壊死し始めているらしいばななさんを病院に連れて行くことに。
+・・えいむさんと出会うが記憶を失くしてしまったようだった。
+・病院に着くと内装が変わっていた。葉風邪さん、ももあさん、がみともさん、ノビーさん、メキーラさん、すずめさん、イズミさん、命田隊長、登くんたちと挨拶。人が集まってきて賑やかだった。
+・・救急隊はまだ機能していないらしく、治療が出来ないとのことで、ばななさんは心なき医者に治してもらった。
+・レギオンへ向かうことに。ヤミさんと改めて初めましての挨拶。
+・・道中で、日々ちゃん、レンさんと挨拶。ねずみちゃんとの再会を喜ぶ。
+・・山下市長が連絡先を配っていたので受け取る。うた子さんと挨拶。身ぐるみを剥がされたような格好だった。
+・レギオン付近で大川さん、ヨネさん、ペトロさん、沼さん、ろぎあさん、猫弐郎さん、ひろピ、たいたいちゃん、葛城さん、銭形さん、ケインさんと挨拶。
+・・赤城さんが起きてきて連絡先交換をした。[[後藤　れむ]]さんと初めましての挨拶。昨日で9歳のエリート警察だそう。
+・・トウユンさん、カイキさん、平井さんと挨拶。
+・レギオンに集まった人達で横の広場へ向かい、市長の演説を聞く。転送前から3ヶ月が経っていること、不便が続くが街の発展のためにつくして欲しいことなどを話していた。
+・・[[Lyle Black]]さんと初めましての挨拶。アンナのいつもの挨拶をするが、3ヶ月ぶりでも息ぴったりなJTS社員だった。葉風邪さんもさり気なく参加してくれていた。Lyleさんは今日ドイツから来たそうで、とてもゲラだった。
+・・若返った気がする上田さんと挨拶。
+・トウユンさんにご飯が買える場所や一番安い車のことなど情報を貰う。助けを呼ぶ声がして向かうと、何故か裸の状態なキメ太郎さんが動けなくなっていた。
+・豆やんパピーが眠ってしまったねずみちゃんを抱えていたが、もう一人本物のねずみちゃんが現れた。突然のホラー展開に驚く。トウユンさんからTwixをするとこの街でもひろピが速攻でフォローしてくる話を聞いて笑う。
+・タラちゃんと挨拶。歪んで声が聞こえない人がいるらしく、グッとくる言葉を言ってくれたら聞こえるかもしれないと言われて、ご要望にお答えする。「タラちゃん……ちゅき」
+・・みどりさんに続きアンナ、ねずみちゃん、トウユンさんが愛を囁くが、トウユンさんの言葉だけ本当に聞こえなかったらしく4段オチに笑う。
+・ねずみちゃんのドッペルゲンガーが急に走り出したので追いかけると、だよくんに殴りかかって驚く。
+・・シュガピちゃんと挨拶。
+・走ってJTSへ向かい社長室で就寝。
+#endregion(#1)
+//
+#region(close,remember,12/25 #2)12/25 &b(){[[クリスマスですって♪ロスサントスでの生活２日目>>https://www.youtube.com/live/n5CKlEKYObk]]}
+-エピソード募集中
+#endregion(#2)
+//
+#region(close,remember,12/26 #3)12/26 &b(){[[炭鉱妻になろうかしら。ロスサントスでの生活３日目>>https://www.youtube.com/live/eg4fR3kbj0U]]}
+-エピソード募集中
+#endregion(#3)
+//
+#endregion(12月)
+#endregion(2025)
+#region(open,2026年)&b(){2026年}
+//
+#region(close,1月)1月
+//
+#region(close,remember,01/02 #4)01/02 &b(){[[そろそろメカニックで働けるかしら？ロスサントスでの生活４日目>>https://www.youtube.com/live/AEQ9dI9IXIc]]}
+-エピソード募集中
+#endregion(#4)
+//
+#region(close,remember,01/04 #5)01/04 &b(){[[ロスサントスでの生活5日目>>https://www.youtube.com/live/BPTiCTScodY]]}
+-エピソード募集中
+#endregion(#5)
+//
+#region(close,remember,01/09 #6)01/09 &b(){[[メカニックで働くロスサントスでの生活6日目>>https://www.youtube.com/live/BHn4QmTy2t8]]}
+-エピソード募集中
+#endregion(#6)
+//
+#region(close,remember,01/11 #7✅)01/11 &b(){[[320万円貯めたいロスサントスでの生活7日目>>https://www.youtube.com/live/o__4ApMtTCQ?si=oOvUWTpeR9EVawLB]]}
+・アパートで起床。JTSへ向かう。駐車場にこみ蔵さん、上田さん、サウ汰ちゃんがいた。[[罰　下リ]]さんと初めましての挨拶。たくみさん、たいたいさん達も来た。作曲が得意な罰さんが、サウ汰ちゃんやたくみくんたちに作った着信音を聞き、みどりさんもジャズな曲調で作成依頼をする。
+・罰さんがメカニックの体験をするため、アンナから罰さんの教育係を任される。みどりさんの癖強な教え方に罰さんも乗ってくれた。来店した丘猫まるちゃんと前の街ではあまりお話出来ていなかったので仲良くなろうと話す。
+・罰さんへの新人研修終了後に大川さんと忍さん、パルコちゃんと挨拶。車と着信音のためにお金を貯めるためようとマヨマヨと窓拭きバイトへ向かう。まるちゃんとマヨマヨは同期で仲良しらしい。バイトを終えるとまるちゃんが居て、瞑想に行ったトウユンさんを待っていた。次はまるちゃんとトウユンさんと髪色が信号機な3人で窓拭きバイトへ行こうとしたが、操作を誤ったりタイミングが悪かったりで一緒に行けなかった。
+・ぴぴちゃんと挨拶。ヨシャパテさんとヨネばあと一緒に窓拭きへ行く。ヨネばあは人が見てない所では走ってるファッション歩行器らしい。
+・Twixでみんながリーさんに謝っていたから、便乗して謝っておいた。毒多博士と久しぶりに会う。博士は依頼が多くててんてこ舞いのため落ち着いてからJTSへ来るらしい。
+・トウユンさんとまるちゃんと再びお話する。ヨシャパテさんが2月25日にイベントをするらしく、トウユンさんも歌うそう。JTSもダンスで参加するのでみどりさんも出て欲しいと言われる。
+・帰ろうとすると車がレッカーされていた。サウ汰ちゃんにインパウンド場に送ってもらう。
+・ガソスタでシュガピちゃんとユンミちゃんと会う。
+・JTSへもどる。豆やんパピーとねずみちゃんに車と着信音のため、お金を貯めたいことを話す。
+・体験の[[トミー　ブラウン]]さんと挨拶。前の街からの転送のことを聞かれる。タクシー生活のトミーさんの車を買いに行くことに。車屋にくしゅりさんがいて、アンジャッシュなすれ違いを起こす。
+・JTSに戻ると くしゅりさんが可愛くカスタムしたいと依頼してくれた。ギャンブルで勝ったお金で車を買ったらしい。
+・ボイラさんが来店。前の街の活躍で英雄と呼ばれているらしい。最近は初日の出とも呼ばれているそう。
+・ねずみちゃんとパピーとトミーさんと今日から始まったカジノへ向かう。まるぴゃんと久しぶりに会えて喜ぶ。スロットをしてみるが負ける。
+・まるちゃんとタクシーを呼んで帰ることに。ゆちゃさんタクシーを待っていると三島さん、ボアさん、たくみくんが居た。
+・ゆちゃさんは砂漠にいるため、白井さんが代わりにタクシーで送迎してくれた。前の街でヘリアタックされた気がした話をした。
+・JTS近くのアパートに戻り就寝。
+#endregion(#7)
+//
+#region(close,remember,01/16 #8✅)01/16 &b(){[[ロスサントスでの生活8日目>>https://www.youtube.com/live/Aiim_VabrN4]]}
+・アパートで起床。こみ蔵さんから不在着信があったため折り返し連絡する。JTSにひとりで居るそうで向かうとこみ蔵さんからカジノスタッフに誘われ承諾する。まだカジノオーナーに立候補している段階だそう。
+・罰さんからも不在着信があったが今は起きていなかった。
+・アジカンさんが来店。こみ蔵さんと須藤さんから警察の修理は都度請求する方式では無くなったことを聞く。また、レースをするためのツールを買わないとレースに参加出来ないことを教えてもらい買いに行く。
+・JTSに戻ると清十郎さんがカスタムをいじっていて須藤さんがアドバイスをしていた。
+・たいたいちゃんから交流会が開催されていると聞き、イタリアンのお店アクアオベストへ。ダミアンマミーに促されるまま屋上へ向かうと沢山の人が居た。豆やん達から説明を聞き、来賓が延々と長話をしているため、こんなつまらないパーティー抜け出さない？がコンセプトの合コンのようなものらしい。アンナやねずみちゃんルーシーさん、トウユンさん達も居た。ルーシーがアンナが男性とお話するようにアシストをしてあげていた。
+・みどりさんと同じく趣旨を理解しないままやって来たらしいトウユンさんを誘って抜け出す。下の階に行っても屋上の馬ウアーさんの声が聞こえたため、外に出てお話することに。トウユンさんを乗せてドライブへ。一緒に前の街でデートへ行き夜景を見た展望台へ向かう。前の街より目がよくなったのか、夜景がより綺麗に見えた。
+・・街でお互いを見かけることはあったが中々話す機会が無かったため久しぶりにお互いの近況などを話す。一緒に踏み出せる黒の仲間を探しているというトウユンさんに、JTSやアンナがいるから一緒には行けないけれど、一人の人間として手助けすることはあるかもと話す。トウユンさんを病院近くのアパートまで送る。
+・ナチちゃんと再会。バイクを買うらしいナチちゃんを車屋さんに連れていく。
+・トウユンさんから電話があり、出張修理依頼を受ける。小峯さんとトウユンさんが車屋さんにやって来て修理をする。
+・車屋さんでたいたいちゃんとこみ蔵さんと会う。ナチちゃんが同期の記憶だけ無くなってる話を聞く。同期だけ忘れているから、同期の中で三角関係とか無かったかを聞くと、前の街の最後にナチちゃんがたいたいちゃんに告白をしたが断ったらしく、そのショックかもと名探偵みどりは推理をする。
+・・ナチちゃんへは、思い出さなきゃというプレッシャーをかけないように関わった方がいいと話し合う。
+・政宗さんも車屋へやって来てこみ蔵さんから車のことを一緒に聞く。スポーツカーを見に来ていた。
+・ナチちゃんがバイクを購入し、一緒にわんも〜カフェへ。
+・わんも〜カフェに行くと肉まんちゃん（とうかちゃん）、千代田さん、マイキーさん、るいさんたちが店員さんをしていた。肉まんちゃんはみどりさんの声にゾクゾクしていた。
+・チンチロ大会があると聞き向かう。たけしさんが居て買った車を見せてくれた。前回のチンチロ大会で優勝したらしい。ナチちゃんとチンチロ大会を観戦する。
+・大盛り上がりで、ゾロ目を出した　とろろろろちゃんが優勝する。
+・ナチちゃんを乗せてカジノへ向かう。スロットやルーレットをする。その後、一緒に窓拭きバイトへ向かう。窓拭きをしながら忘れてしまった同期のことを聞く。バチ公ちゃんと付き合ってたらしいとたいたいちゃんとこみ蔵さんに言われたらしい。ゆっくり思い出したら良いと話す。
+・豆やんパピーから電話があり、給料を渡したいから時間が出来たら来てと言われる。
+・海上レストランのあったあたりがかなり変わったことを聞く。ナチちゃんたちは海上レストランを再び開こうとしているらしい。
+・ナチちゃんを送り届けてからJTSへ戻る。豆やんパピーから警察の車を修理した分の給料を受け取る。罰さんに作って貰った着信音の設定方法を教えてもらう。みどりさんらしいと好評だった。
+・たいたいちゃんへナチちゃんと話したことを報告。バチ公ちゃんとナチちゃんが付き合っていたのかと聞くと、こみ蔵さんのチョケ発言で本当は付き合っていないらしい。
+・レイジーくんが正式にJTSの社員になるそう。ねずみちゃんからJTSダンスを見せてもらい踊り方を教わる。
+・サッカー帰りのたけしさんが来店。みどりさんがおまかせカスタムを依頼される。熱中しすぎて餓死してしまうがダウンしても何故か仕事は出来た。ももみ先生が搬送してくれて福田さんが治療してくれた。
+・JTSに戻りカスタムを完成させる。
+・ 瞑想時間直前に、JTS前で忍さんがパルコちゃんに「俺が幸せにする」と言ったらしいと聞く。たいたいちゃんとゆちゃさんも良い感じだそう。
+・忍さんとパルコちゃんのところへ行くと、“御神体”や“壺”などと話していて内容がよく分からなかった。忍さんは会社を一緒に頑張ろうねという話をしていたという。パルコちゃんが告白なのか聞くと「さあ？」と言われて否定はしなかったため、周りの野次馬たちで盛り上がる。
+・3時瞑想前なので、みどりさんとパルコちゃんは同じアパートのため一緒に話しながら帰る。パルコちゃんが忍さんの言葉に対し「私何も心が動いてないです」と言い残し部屋に帰ったため、みどりさんは大混乱しながら就寝。
+#endregion(#8)
+//
+#region(close,remember,01/18 #9)01/18 &b(){[[ロスサントスでの生活９日目>>https://www.youtube.com/live/ajUZIxFfYGk]]}
+-エピソード募集中
+#endregion(#9)
+//
+#region(close,remember,01/23 #10)01/23 &b(){[[ロスサントスでの生活１０日目>>https://www.youtube.com/live/DPW_5vZE5Fk]]}
+-エピソード募集中
+#endregion(#10)
+//
+#region(close,remember,01/25 #11)01/25 &b(){[[ロスサントスでの生活１１日目>>https://www.youtube.com/live/OFel4hwZsSI]]}
+-エピソード募集中
+#endregion(#11)
+//
+#endregion(2026/01)
+//
+#region(close,2月)2月
+//
+#region(close,remember,02/01 #12)02/01 &b(){[[ロスサントスでの生活１２日目>>https://www.youtube.com/live/CpyN6fSsnBw]]}
+-エピソード募集中
+#endregion(#12)
+//
+#region(close,remember,02/08 #13)02/08 &b(){[[ロスサントスでの生活１３日目>>https://www.youtube.com/live/FC9aSP3tcEE]]}
+-エピソード募集中
+#endregion(#13)
+//
+#region(close,remember,02/13 #14)02/13 &b(){[[ロスサントスでの生活14日目>>https://www.youtube.com/live/ziBN9ho2D-Q]]}
+-エピソード募集中
+#endregion(#14)
+//
+#region(close,remember,02/18 #15)02/18 &b(){[[ロスサントスでの生活15日目>>https://www.youtube.com/live/2UIAhiR2rn4]]}
+-エピソード募集中
+#endregion(#15)
+//
+#region(close,remember,02/19 #16)02/19 &b(){[[ロスサントスでの生活16日目>>https://www.youtube.com/live/PnQOJtFTjDc]]}
+-エピソード募集中
+#endregion(#16)
+//
+#region(close,remember,02/22 #17)02/22 &b(){[[ロスサントスでの生活17日目>>https://www.youtube.com/live/QK3G34ze8gA]]}
+-エピソード募集中
+#endregion(#17)
+//
+#region(close,remember,02/25 #18)02/25 &b(){[[ロスサントスでの生活18日目>>https://www.youtube.com/live/RLk0ubsIhCs]]}
+-エピソード募集中
+#endregion(#18)
+//
+#endregion(2026/02)
+//
+#region(close,remember,3月)3月
+//
+#region(close,remember,03/01 #19)03/01 &b(){[[ロスサントスでの生活19日目>>https://www.youtube.com/live/Y8GHEmZHHUY]]}
+-エピソード募集中
+#endregion(#19)
+//
+#region(close,remember,03/04 #20)03/04 &b(){[[ロスサントスでの生活20日目>>https://www.youtube.com/live/aM9NXrqYOdM]]}
+-エピソード募集中
+#endregion(#20)
+//
+#region(close,remember,03/06 #21)03/06 &b(){[[ロスサントスでの生活21日目>>https://www.youtube.com/live/Ayjpmvh5Zuw]]}
+-エピソード募集中
+#endregion(#21)
+//
+#region(close,remember,03/12 #22)03/12 &b(){[[ロスサントスでの生活22日目>>https://www.youtube.com/live/aWwVfIbHa9s]]}
+-エピソード募集中
+#endregion(#22)
+//
+#region(close,remember,03/13 #23)03/13 &b(){[[病院から目覚めるロスサントスでの生活23日目>>https://www.youtube.com/live/GgNllB-pUB4]]}
+-エピソード募集中
+#endregion(#23)
+//
+#region(close,remember,03/15 #24)03/15 &b(){[[目覚めるロスサントスでの生活24日目>>https://youtu.be/BgopmpEm8aM]]}
+-エピソード募集中
+#endregion(#24)
+//
+#region(close,remember,03/18 #25)03/18 &b(){[[ロスサントスでの生活25日目>>https://www.youtube.com/live/4pYRMQf6lXk]]}
+-エピソード募集中
+#endregion(#25)
+//
+#region(close,03/19 #26)03/19 &b(){[[ついに引っ越す。ロスサントスでの生活26日目>>https://www.youtube.com/live/VTd3KiCJzuk]]}
+-エピソード募集中
+#endregion(#26)
+//
+#region(close,03/26 #27)03/26 &b(){[[ロスサントスでの生活27日目>>https://www.youtube.com/live/aCFGsHM7gNk]]}
+-エピソード募集中
+#endregion(#27)
+//
+#region(close,remember,03/29 #28)03/29 &b(){[[ファッションショーに出るロスサントスでの生活28日目>>https://www.youtube.com/live/6j_Hr3pGRzc]]}
+-エピソード募集中
+#endregion(#28)
+//
+#endregion(3月)
+//
+#region(close,remember,4月)4月
+//
+#region(open,remember,04/01 #29)04/01 &b(){[[ロスサントスでの生活29日目>>https://www.youtube.com/live/pkUE4rFwtx]]}
+-エピソード募集中
+#endregion(#29)
+//
+#region(open,remember,04/03 #30)04/03 &b(){[[ロスサントスでの生活30日目>>https://www.youtube.com/live/wi9AM_CbIRY]]}
+-エピソード募集中
+#endregion(#30)
+//
+#region(open,remember,04/09 #31)04/09 &b(){[[ロスサントスでの生活31日目>>https://www.youtube.com/live/kb7wGMmQ2U0]]}
+-エピソード募集中
+#endregion(#31)
+//
+#region(open,remember,04/11 #32)04/11 &b(){[[カジノイベントで盛り上がるロスサントスでの生活32日目>>https://www.youtube.com/live/Dx1aMycDUsM]]}
+-エピソード募集中
+#endregion(#32)
+//
+#region(open,remember,04/15 #33)04/15 &b(){[[ロスサントスでの生活33日目>>https://www.youtube.com/live/t-yGHj-yK4w]]}
+-エピソード募集中
+#endregion(#33)
+//
+#region(open,remember,04/16 #34)04/16 &b(){[[ロスサントスでの生活34日目>>https://www.youtube.com/live/DxjToiY0NU8]]}
+-エピソード募集中
+#endregion(#34)
+//
+#region(open,remember,04/22 #35)04/22 &b(){[[ロスサントスでの生活35日目>>https://www.youtube.com/live/jjwbf5S9bTA]]}
+-エピソード募集中
+#endregion(#35)
+//
+#region(open,remember,04/24 #36)04/24 &b(){[[ロスサントスでの生活36日目>>https://www.youtube.com/live/OOnWCzc1QBA]]}
+-エピソード募集中
+#endregion(#36)
+//
+#region(open,remember,04/29 #37)04/29 &b(){[[ロスサントスでの生活37日目>>https://www.youtube.com/live/r28NVMRvYrc]]}
+-エピソード募集中
+#endregion(#37)
+//
+#endregion(4月)
+//
+#region(open,remember,5月)5月
+//
+#region(open,remember,05/01 #38)05/01 &b(){[[ロスサントスでの生活38日目>>https://www.youtube.com/live/wPiii3kljSc]]}
+-エピソード募集中
+#endregion(#38)
+//
+#region(open,remember,05/07 #39)05/07 &b(){[[ロスサントスでの生活39日目>>https://www.youtube.com/live/TtFLuulP6ew]]}
+-エピソード募集中
+#endregion(#39)
+//
+#region(open,remember,05/29 #40)05/29 &b(){[[ロスサントスでの生活40日目>>https://www.youtube.com/live/alEOlO1CemM]]}
+-エピソード募集中
+#endregion(#40)
+//
+#region(open,remember,05/30 #41)05/30 &b(){[[ロスサントスでの生活41日目>>https://www.youtube.com/live/GVyQa11dDB0]]}
+-エピソード募集中
+#endregion(#41)
+//
+#endregion(5月)
+//
+#region(open,remember,6月)6月
+//
+#region(open,remember,06/03 #42)06/03 &b(){[[ロスサントスでの生活42日目>>https://www.youtube.com/live/mJi-ffASp4U]]}
+-エピソード募集中
+#endregion(#42)
+//
+#region(open,remember,06/05 #43)06/05 &b(){[[ロスサントスでの生活43日目>>https://www.youtube.com/live/ShL5YHpkauQ]]}
+-エピソード募集中
+#endregion(#43)
+//
+#endregion(6月)
+//
+#endregion(2026)
+//
+//rememberプラグインの導入を抑える為、一部エピソードを他ページに移しました。タグから編集用ページに移動願います。
+#co{
+↓コピー用素材
+
+#region(open,remember,mm月)mm月
+
+#region(open,remember,mm/dd #nn)mm/dd &b(){[[配信タイトル>>ここに配信URLを入力]]}
+-エピソード募集中
+#endregion(#nn)
+
+#endregion(mm月)
+
+}
+// 25.06/11
+// デザイン一新してみました。もし不評であれば早急に戻しますので、フィードバック頂けると幸甚です。_Michael1002
+//デザインを提案していただき、ありがとうございます。
+//----
+**語録
+脊髄トークから繰り出された、印象的な言葉を抜粋しました
+※"&font(#DA1725){&icon_fa(fa-brands fa-youtube)}"マークから該当シーンに移動します
+//
+#region(あ行)&b(){あ行}
+|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/kcLae8ZZ69g?t=26077s]]|&i(){everybody say}|・同調を求めるときによく言うが、大抵誰もついてこない(ついてこれない)|
+|①[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/_q-rQ6IJJR8?t=427s]]&br()②[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/PnQOJtFTjDc?t=10057s]]|お邪魔しマンボ|・訪問するときに言う&br()・車やバイクに同乗させてもらうときに言う|
+#endregion
+//
+#region(か行)&b(){か行}
+|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/Gw8sL-C7I8o?t=6380s]]|小指で鼻フックしてやるわよ|・救いの手を差し伸べたいときに言う|
+|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/eD3mJ8DqM8U?t=14483s]]|ごめんな&i(){sorry}|・申し訳ないときに言う|
+#endregion
+//
+#region(さ行)&b(){さ行}
+|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/eD3mJ8DqM8U?t=4387]]|スカポンタン|・自他問わず、やらかしたときに言う|
+||すれちがい通信|・すれちがった人にさりげなく言う&br()・軽い挨拶のようなもの&br()・情報のやり取りをするわけではない|
+#endregion
+//
+#region(た行)&b(){た行}
+|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/5BLrOTpfaVg?t=21119s]]|タイヤをコネコネ|・スペアタイヤをクラフトするときに口ずさむ|
+|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/sQ_B0jI2vqs?t=15527s]]|照れ舵いっぱい|・海上レストラン【[[Urashima]]】で使われている挨拶『面舵いっぱい、お腹もいっぱい』の派生語&br()・[[亀山　hero]]に「面白いしイイ女」と褒められ(口説かれ)、つい口にした|
+|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/izhWppZ4D3I?t=15494]]|どっこいどっこいよ、すっとこどっこい|・[[ジョアンナ>>町田　ジョアンナ]]に「キャラが濃い」と言われ、思わず言い放った&br()・流行語大賞の予感|
+#endregion
+//
+#region(な行)&b(){な行}
+||～&ruby(のすけ){之助}|・人名っぽくなる&br()使用例&br()・了解之助|
+#endregion
+//
+#region(は行)&b(){は行}
+|①[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/sQ_B0jI2vqs?t=10591s]]&br()②[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/5BLrOTpfaVg?t=14771]]|左からみどり&br()右からみどり&br()後ろからみどり&br()前からみどり|・初対面の住民と打ち解けたいときにする&br()・ASMRを聴いているような感覚になるという|
+|①[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/RLk0ubsIhCs?t=15354s]]&br()②[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/RLk0ubsIhCs?t=15459s]]|美女がビジョビジョ|・セクシーダジャレ|
+|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/CpyN6fSsnBw?t=3091s]]|ピィ！？|・あまりにも驚いた時に出る(その１)|
+|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/YnMaWSposeo?t=9588s]]|噴火しそう|・[[緋赤　まい]]の態度に怒り心頭、思わず言い放った|
+|①[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/4P3D65ctu0o?t=5407s]]&br()②[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/lp49-oxZNyw?t=8308]]|へそ毛がボーボー|・ダンスに合わせて口ずさむ|
+|①[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/BMHxUcJfbBI?t=671s]]&br()②[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/wi9AM_CbIRY?t=13613s]]&br()③[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/E4XA9ZNradg?t=4186s]]|ボコボコのボコ|・車両が大破してるときに言う|
+#endregion
+//
+#region(ま行)&b(){ま行}
+||～マンモス|使用例&br()・いってきマンモス&br()・了解しマンモス|
+#endregion
+//
+#region(わ行)&b(){わ行}
+|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/live/CpyN6fSsnBw?t=3120s]]|WOW！|・あまりにも驚いた時に出る(その２)|
+||んちゅ♡|・電話を切る間際に言う&br()・投げキッス|
+#endregion
+//
+#co{
+[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>時間指定付URL]]
+}
+//----
+*アーカイブ
+&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}のアーカイブは&font(#DA1725){&icon_fa(fa-brands fa-youtube)YouTube}の再生リストに移行しているので、[[こちら>>https://www.youtube.com/@nekozenoshinn/playlists]]よりご確認ください。
+***&underdot(2px,#56754B){&i(){season1}}
+#region(close,2025年)&b(){2025年}
+//
+#region(close,remember,3月)3月
+#table_style(head=90%:center:#56754b:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/28|1|[[初めてのロスサントスへ。１日目>>https://www.youtube.com/live/sQ_B0jI2vqs]]||
+#endregion(3月)
+//
+#region(close,remember,4月)4月
+#table_style(head=center:#56754b:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/02|2|[[いろんな職業体験がしたいわ♪２日目>>https://www.youtube.com/live/kzpUhF4P9zg]]||
+|04/06|3|[[ロスサントスでの生活３日目>>https://www.youtube.com/live/izhWppZ4D3I]]|9055でレース体験|
+|04/11|4|[[ロスサントスでの生活４日目>>https://www.youtube.com/live/aS2lRzzr2kg]]||
+|04/12|4.5|[[ロスサントスでの生活4.5日目>>https://www.youtube.com/live/0KPtwfRGn08]]||
+|04/13|5|[[ロスサントスでの生活５日目>>https://www.youtube.com/live/cPPnz_Ujds8]]||
+|04/16|5.5|[[ロスサントスでの生活5.5日目>>https://www.youtube.com/live/nQZbWN8A6oI]]||
+|04/16|6|[[JTS体験日！ロスサントスでの生活6日目>>https://www.youtube.com/live/4P3D65ctu0o]]||
+|04/20|7|[[バイクが欲しいロスサントスでの生活７日目>>https://www.youtube.com/live/JhTVaZNRWk8]]||
+|04/24|8|[[今日はデートできるかしら？ロスサントスでの生活８日目>>https://www.youtube.com/live/C9JA0LYauYI]]||
+|04/27|9|[[バイト体験三昧✨ロスサントスでの生活９日目>>https://www.youtube.com/live/NaIXWxOf0UE]]||
+|04/28|9.5|[[ロスサントスでの生活9.5日目>>https://www.youtube.com/live/yhRr0O1vWWQ]]||
+|04/29|10|[[イースターイベント！？ロスサントスでの生活10日目>>https://www.youtube.com/live/eD3mJ8DqM8U]]||
+|04/29|10.5|[[良い目覚めね。ロスサントスでの生活10.5日目>>https://www.youtube.com/live/bAgLZ3tX_G8]]|#10 続き|
+#table_zebra(#F7F7F7,#FFF,#56754B)
+&br()
+#endregion(4月)
+//
+#region(close,remember,5月)5月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/03|11|[[良い目覚めね。ロスサントスでの生活11日目>>https://www.youtube.com/live/_q-rQ6IJJR8]]||
+|05/13|12|[[悪夢から目覚めたわ。ロスサントスでの生活12日目>>https://www.youtube.com/live/Dmw5KlgRXcM]]|JTS就職|
+|05/15|12.5|[[ロスサントスでの生活12.5日目>>https://www.youtube.com/live/v9Yh7CX_csQ]]||
+|05/18|13|[[初心者マークが取れそうなロスサントスでの生活13日目>>https://www.youtube.com/live/5BLrOTpfaVg]]||
+|05/20|14|[[シャノールで初心者マークを取るロスサントスでの生活14日目>>https://www.youtube.com/live/9-UOXxmUOec]]|初心者卒業|
+|05/23|14.5|みどりさんがやり残したことがあるそうです|Twitchゲリラ配信&br()アーカイブなし|
+|05/23|15|[[ヘリの免許を取りたいロスサントスでの生活15日目>>https://www.youtube.com/live/YnPPEcq48YE]]||
+|05/25|16|[[大型特殊免許を取りたいロスサントスでの生活16日目>>https://www.youtube.com/live/b9VyI_yDnxk]]||
+|05/27|17|[[みどりさんのゲリラロスサントス17日目>>https://www.youtube.com/live/V6Olv1I54TA&playsinline=1]]|Twitchゲリラ配信|
+|05/29|18|[[リンリンで働くロスサントスでの生活18日目>>https://www.youtube.com/live/9mfgvgbRwtA&playsinline=1]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+&br()
+#endregion(5月)
+//
+#region(close,remember,6月)6月
+#table_style(head=90%:center:#56754b:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/01|19|[[JTSで働くロスサントスでの生活19日目>>https://www.youtube.com/live/n-JoYznd0j4&playsinline=1]]||
+|06/04|20|[[21時からだははで会議。ロスサントスでの生活20日目>>https://www.youtube.com/live/r0eSwUvl5X8]]||
+|06/05|21|[[ゲリラロスサントスでの生活21日目>>https://www.youtube.com/live/dm-7hm0IVdI]]||
+|06/06|22|[[新しい風が吹きそうな予感。ロスサントスでの生活22日目>>https://www.youtube.com/live/JNVUK_rfkic]]||
+|06/08|23|[[ヘリの練習をしたいロスサントスでの生活23日目>>https://www.youtube.com/live/BMHxUcJfbBI]]||
+|06/15|24|[[ゲリラで目覚めるロスサントスでの生活24日目>>https://www.youtube.com/live/E4XA9ZNradg]]||
+|06/19|25|[[ゲリラで目覚めるロスサントスでの生活25日目>>https://www.youtube.com/live/1mlzhSQ-FqA]]||
+|06/25|26|[[セクシーおもしろお姉さんのロスサントスでの生活26日目>>https://www.youtube.com/live/1tCs-Xew1D0]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+&br()
+#endregion(6月)
+//
+#region(close,remember,7月)7月
+#table_style(head=90%:center:#56754b:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/02|27|[[1週間ぶりのロスサントスでの生活27日目>>https://www.youtube.com/live/EoDIOhNCj18]]||
+|07/12|28|[[レースや収録で充実するロスサントスでの生活28日目>>https://www.youtube.com/live/lp49-oxZNyw]]||
+|07/15|29|[[ヘリ直しまくるお姉さまのロスサントスでの生活29日目>>https://www.youtube.com/live/JWomDn0vQ-Q]]||
+|07/24|30|[[よりどりみどりのロスサントスでの生活30日目>>https://www.youtube.com/live/YnMaWSposeo]]||
+|07/30|31|[[セクシーお姉さんがJTSにいるロスサントスでの生活31日目>>https://www.youtube.com/live/zm9wI5cspaQ]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+&br()
+#endregion(7月)
+//
+#region(close,8月)8月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/01|32|[[セクシーお姉さんがシャノールにいるロスサントスでの生活32日目>>https://www.youtube.com/live/fSjUE184GPA]]||
+|08/07|33|[[JTSで働きまくるみどりのロスサントスでの生活33日目>>https://www.youtube.com/live/QObHQvPPGPU]]||
+|08/09|34|[[ロスリンピックだ！ロスサントスでの生活34日目>>https://www.youtube.com/live/VK66guUYR-U]]||
+|08/10|35|[[よりどりみどりのロスサントスでの生活35日目>>https://www.youtube.com/live/aJcOg55nyXc]]||
+|08/12|??|[[よりどりみどりさんにやり残したことがあるそうです>>https://www.twitch.tv/videos/2537979455]]|Twitchゲリラ配信|
+|08/15|??|[[よりどりみどりさんにやり残したことがあるそうです>>https://www.twitch.tv/videos/2540617816]]|Twitchゲリラ配信|
+|08/16|36|[[夏フェスですって！ロスサントスでの生活３６日目>>https://www.youtube.com/live/Gw8sL-C7I8o]]||
+|08/17|37|[[JTS大忙し！ロスサントスでの生活３７日目>>https://www.youtube.com/live/bJFQ20RyTbo]]||
+|08/22|38|[[サバゲー大会にみどりが参戦！ロスサントスでの生活３８日目>>https://www.youtube.com/live/tLsLalI8zWw]]||
+|08/24|39|[[ごきげんなみどりのロスサントスでの生活３９日目>>https://www.youtube.com/live/_O425N-cUPc]]||
+|08/26|40|[[今夜はあなたを痺れさせるロスサントスでの生活４０日目>>https://www.youtube.com/live/kcLae8ZZ69g]]||
+|08/27|41|[[悲しみを乗り越えるみどりのロスサントスでの生活４1日目>>https://www.youtube.com/live/ZqM_7cotAQg]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+&br()
+#endregion(8月)
+//
+#region(close,9月)9月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/02|??|[[TwitchとYoutubeの同時配信のテストに付き合って>>https://www.youtube.com/live/BZAkmKEx3GA]]|負荷テスト|
+|09/04|42|[[新居を構えたいロスサントスでの生活４2日目>>https://www.youtube.com/live/nUdj1NZGyhQ]]||
+|09/07|43|[[笑いの絶えないロスサントスでの生活４3日目>>https://www.youtube.com/live/I4s0xx19Giw]]||
+|09/14|44|[[よりどりみどりのロスサントスでの生活４４日目>>https://www.youtube.com/live/Y-4M_uzv-gg]]||
+|09/16|45|[[どうやら戦わなければならないロスサントスでの生活４５日目>>https://www.youtube.com/live/5ryLBA9RPvQ]]||
+|09/21|46|[[私はこの世界をどう生きるか。ロスサントスでの生活４６日目>>https://www.youtube.com/live/TXC3qBcLpSA]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+#endregion(9月)
+//
+#endregion(2025s1)
+//
+***&underdot(2px,#D3DCE9){&i(){season2}}
+#region(close,2025年)&b(){2025年}
+#region(close,remember,12月)12月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/19|1|[[Season２に突入！よりどりみどりのロスサントスでの生活１日目>>https://www.youtube.com/live/TBSm16YRCDQ]]||
+|12/25|2|[[クリスマスですって♪ロスサントスでの生活２日目>>https://www.youtube.com/live/n5CKlEKYObk]]||
+|12/26|3|[[炭鉱妻になろうかしら。ロスサントスでの生活３日目>>https://www.youtube.com/live/eg4fR3kbj0U]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+//
+#endregion(12月)
+//
+#endregion(2025s2)
+//
+#region(open,2026年)&b(){2026年}
+#region(1月)1月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/02|4|[[そろそろメカニックで働けるかしら？ロスサントスでの生活４日目>>https://www.youtube.com/live/AEQ9dI9IXIc]]||
+|01/04|5|[[ロスサントスでの生活5日目>>https://www.youtube.com/live/BPTiCTScodY]]||
+|01/09|6|[[メカニックで働くロスサントスでの生活6日目>>https://www.youtube.com/live/BHn4QmTy2t8]]||
+|01/11|7|[[320万円貯めたいロスサントスでの生活7日目>>https://www.youtube.com/live/o__4ApMtTCQ]]||
+|01/16|8|[[ロスサントスでの生活8日目>>https://www.youtube.com/live/Aiim_VabrN4]]||
+|01/18|9|[[ロスサントスでの生活９日目>>https://www.youtube.com/live/ajUZIxFfYGk]]||
+|01/23|10|[[ロスサントスでの生活１０日目>>https://www.youtube.com/live/DPW_5vZE5Fk]]||
+|01/25|11|[[ロスサントスでの生活１１日目>>https://www.youtube.com/live/OFel4hwZsSI]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+#endregion(2026/01)
+//
+#region(2月)2月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/01|12|[[ロスサントスでの生活１２日目>>https://www.youtube.com/live/CpyN6fSsnBw]]||
+|02/08|13|[[ロスサントスでの生活１３日目>>https://www.youtube.com/live/FC9aSP3tcEE]]||
+|02/13|14|[[ロスサントスでの生活14日目>>https://www.youtube.com/live/ziBN9ho2D-Q]]||
+|02/18|15|[[ロスサントスでの生活15日目>>https://www.youtube.com/live/2UIAhiR2rn4]]||
+|02/19|16|[[ロスサントスでの生活16日目>>https://www.youtube.com/live/PnQOJtFTjDc]]||
+|02/22|17|[[ロスサントスでの生活17日目>>https://www.youtube.com/live/QK3G34ze8gA]]||
+|02/25|18|[[ロスサントスでの生活18日目>>https://www.youtube.com/live/RLk0ubsIhCs]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+#endregion(2026/02)
+//
+#region(3月)3月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/01|19|[[ロスサントスでの生活19日目>>https://www.youtube.com/live/Y8GHEmZHHUY]]||
+|03/04|20|[[ロスサントスでの生活20日目>>https://www.youtube.com/live/aM9NXrqYOdM]]||
+|03/06|21|[[ロスサントスでの生活21日目>>https://www.youtube.com/live/Ayjpmvh5Zuw]]||
+|03/12|22|[[ロスサントスでの生活22日目>>https://www.youtube.com/live/aWwVfIbHa9s]]||
+|03/13|23|[[病院から目覚めるロスサントスでの生活23日目>>https://www.youtube.com/live/GgNllB-pUB4]]||
+|03/15|24|[[目覚めるロスサントスでの生活24日目>>https://youtu.be/BgopmpEm8aM]]|限定公開|
+|03/18|25|[[ロスサントスでの生活25日目>>https://www.youtube.com/live/4pYRMQf6lXk]]||
+|03/19|26|[[ついに引っ越す。ロスサントスでの生活26日目>>https://www.youtube.com/live/VTd3KiCJzuk]]||
+|03/26|27|[[ロスサントスでの生活27日目>>https://www.youtube.com/live/aCFGsHM7gNk]]||
+|03/29|28|[[ファッションショーに出るロスサントスでの生活28日目>>https://www.youtube.com/live/6j_Hr3pGRzc]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+#endregion(3月)
+//
+#region(4月)4月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/01|29|[[ロスサントスでの生活29日目>>https://www.youtube.com/live/pkUE4rFwtx0]]||
+|04/03|30|[[ロスサントスでの生活30日目>>https://www.youtube.com/live/wi9AM_CbIRY]]||
+|04/09|31|[[ロスサントスでの生活31日目>>https://www.youtube.com/live/kb7wGMmQ2U0]]||
+|04/11|32|[[カジノイベントで盛り上がるロスサントスでの生活32日目>>https://www.youtube.com/live/Dx1aMycDUsM]]||
+|04/15|33|[[ロスサントスでの生活33日目>>https://www.youtube.com/live/t-yGHj-yK4w]]||
+|04/16|34|[[ロスサントスでの生活34日目>>https://www.youtube.com/live/DxjToiY0NU8]]||
+|04/22|35|[[ロスサントスでの生活35日目>>https://www.youtube.com/live/jjwbf5S9bTA]]||
+|04/24|36|[[ロスサントスでの生活36日目>>https://www.youtube.com/live/OOnWCzc1QBA]]||
+|04/29|37|[[ロスサントスでの生活37日目>>https://www.youtube.com/live/r28NVMRvYrc]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+#endregion(4月)
+//
+#region(5月)5月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/01|38|[[ロスサントスでの生活38日目>>https://www.youtube.com/live/wPiii3kljSc]]||
+|05/07|39|[[ロスサントスでの生活39日目>>https://www.youtube.com/live/TtFLuulP6ew]]||
+|05/29|40|[[ロスサントスでの生活40日目>>https://www.youtube.com/live/alEOlO1CemM]]||
+|05/30|41|[[ロスサントスでの生活41日目>>https://www.youtube.com/live/GVyQa11dDB0]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+#endregion(5月)
+//
+#region(6月)6月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/03|42|[[ロスサントスでの生活42日目>>https://www.youtube.com/live/mJi-ffASp4U]]||
+|06/05|43|[[ロスサントスでの生活43日目>>https://www.youtube.com/live/ShL5YHpkauQ]]||
+|06/18|44|[[ロスサントスでの生活44日目>>https://www.youtube.com/live/nfWdwyfcwIg]]||
+|06/24|45|[[ロスサントスでの生活45日目>>https://www.youtube.com/live/xb6n0hUkjfk]]||
+|06/27|46|[[ロスサントスでの生活46日目>>https://www.youtube.com/live/bkIqaZQBou8]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+#endregion(6月)
+//
+#region(7月)7月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/01|47|[[ロスサントスでの生活47日目>>https://www.youtube.com/live/bFLYoRTgEx0]]||
+|07/04|48|[[ロスサントスでの生活48日目>>https://www.youtube.com/live/882w1dho2vU]]||
+|07/08|49|[[ロスサントスでの生活49日目>>https://www.youtube.com/live/4mzdltOrfKU]]||
+|07/22|50|[[ロスサントスでの生活50日目>>https://www.youtube.com/live/H6ZmYwXVSN0]]||
+|07/24|51|[[ロスサントスでの生活51日目>>https://www.youtube.com/live/qZWGlrWZ0Xc]]||
+|07/29|52|[[ロスサントスでの生活52日目>>https://www.youtube.com/live/1Dzy_rRIH8g]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+#endregion(7月)
+//
+#region(8月)8月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/06|53|[[ロスサントスでの生活53日目>>https://www.youtube.com/live/qyzEDY_FrVE]]||
+|08/09|54|[[今日は夏フェスの日。54日目>>https://www.youtube.com/live/JPwWCZLCuYM]]||
+|08/13|55|[[ロスサントスでの生活55日目>>https://www.youtube.com/live/5PMEupwT6ao]]||
+|08/15|56|[[ロスサントスでの生活56日目>>https://www.youtube.com/live/748DDGCS4og]]||
+|08/21|57|[[よりどりみどりお見合いサバイバル>>https://www.youtube.com/live/Nn2-AdxD-GI]]||
+|08/26|58|[[ロスサントスでの生活58日目>>https://www.youtube.com/live/P-Nvho7MprM]]||
+|08/28|59|[[ロスサントスでの生活59日目>>https://www.youtube.com/live/XlZ7YhEtZJY]]||
+|08/29|60|[[ドキドキの夏祭り開催。ロスサントスでの生活60日目>>https://www.youtube.com/live/LWCkcwpMbIM]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+#endregion(8月)
+//
+#region(open,9月)9月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/02|61|[[ロスサントスでの生活61日目>>https://www.youtube.com/live/G1n5YHEqTKs]]||
+|09/05|62|[[人生初のホストクラブへ。ロスサントスでの生活62日目>>https://www.youtube.com/live/qqhuaTRU5GU]]||
+|09/09|63|[[ロスサントスでの生活63日目>>https://www.youtube.com/live/eTab0HFFFP8]]||
+|09/11|64|[[ロスサントスでの生活64日目>>https://www.youtube.com/live/jhlA7LgfmMk]]||
+|09/16|65|[[ロスサントスでの生活65日目>>https://www.youtube.com/live/rm1iulY2LCI]]||
+|09/18|66|[[ロスサントスでの生活66日目>>https://www.youtube.com/live/ayM0l6zRuOk]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+#endregion(x月)
+//
+#endregion(2026)
+#co{
+|mm/dd|n|[[配信タイトル>>配信URL]]||
+}
+//----
+**ストグラコラボ
+//
+#table_filter(){配信日=show,配信タイトル=show,参加者=hide}
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,配信タイトル=90%,参加者=90%}
+|~配信日|~配信タイトル|~参加者|h
+|2025/10/23|[[JTSメンバーで価値観共有ゲーム！>>https://www.youtube.com/live/li05eDeUUs8]](羽ヶ町つまみch)|羽ヶ町つまみ、豆腐ちゃん&br()シェロリ、ちょりぴちゃんӦ|
+|2026/02/23|[[JTSデトバコラボで恐怖の大逃走劇>>https://www.youtube.com/live/fbnKrArRGcc]]|フルコン、羽ヶ町つまみ、乙奈りの&br()シェロリ、リズゥ、おこさまランチ大佐‪|
+|2026/03/11|[[ガンダムイベント開催！フルパで挑みます>>https://www.youtube.com/live/YYWfC76aErY]]|シェロリ、レントン|
+|2026/04/12|急遽JTSエペコラボ|シェロリ、遠田翔平|
+|2026/04/20|海賊として航海にでます(Windrose内で開かれる1ヶ月間のスト鯖企画)|JTS、Club Passiona、Urashima|
+|2026/07/13|[[結構ガチ勢!?ストグラ仲間と大絶叫！>>https://www.youtube.com/live/a5ZDXFbylhc]]|豆腐ちゃん、しゅりぺ、羽ヶ町つまみ|
+|2026/08/03|[[レベル１３～ストグラ仲間でＲＥＰＯ！>>https://www.youtube.com/live/j3mRqlLACcI]]|豆腐ちゃん、しゅりぺ、羽ヶ町つまみ|
+#table_zebra(#F7F7F7,#FFF,#56754B)
+//----
+**ストグラRPコラボ
+&b(){"よりどりみどり"と"町田ジョアンナ"が街の外でわちゃわちゃしている配信です}
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,配信タイトル=90%}
+|~配信日|~配信タイトル|h
+|2025/10/06|[[みどりとアンナ町田のはちゃめちゃメカニック>>https://www.youtube.com/live/MqMUicVjRss]]|
+|2025/11/18|[[爆笑とセクシーの遊園地！スーパーバニーマン>>https://www.youtube.com/live/daVWl5MlpYU]]|
+|2026/06/23|[[みどり＆ジョアンナが爆笑で爆走！鎖でつながった車でゴールを目指す！>>https://www.youtube.com/live/XXD97aUtyu4]](羽ヶ町つまみch)|
+|2026/07/27|[[#ジョアみどの爆笑ドライブ>>https://www.youtube.com/live/cpYEl9Nt1YM]]|
+#table_zebra(#F7F7F7,#FFF,#56754B)
+//
+#co{
+//以下、テンプレート
+#region(open,remember,x月)x月
+#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|mm/dd|n|[[配信タイトル>>配信URL]]||
+#table_zebra(#F7F7F7,#FFF,#56754B)
+#endregion(x月)
+}
+//【備忘録】'region'プラグインの'remember'パラメータは、1ページ当たり100個までしか指定できないので注意。_Michael1002
+
+//
+#right(){&link_up(🔝ページTOPへ)}

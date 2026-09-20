@@ -1,0 +1,141 @@
+*&font(25,#0095e6){プ}ロフィール
+
+&image(初期.jpg,y=400)
+//もっと良い画像があったら差し替えてください
+
+&sizex(6){『(徹底自粛)』}
+ 
+//ここからプロフィール
+#table_style(head=#0095e6:#FFF:center)
+|~名前|~&icon_fa(fa fa-user)|&ruby(じしゅく){自粛}ジグ|
+|~愛称|~&icon_fa(fa fa-comment)|ジグ|
+|~出身地|~&icon_fa(fa fa-map-marker)|岩手(宮古)|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|12月5日|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年9月28日(&countup(2024/09/28,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|無職|
+|~プレイヤー|~&icon_fa(fa fa-address-card)|Maya Melpharia|
+|~告知等|~&icon_fa(fa fa-bullhorn)|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[X(旧Twitter)>>https://x.com/MayaMelpharia]]|
+|~配信場所|~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[YouTube>>https://www.youtube.com/@MayaMelpharia]]&small(){(アーカイブはメンバー限定)}|
+|~各種リンク|~&icon_fa(fa fa-gamepad)|[[共有リンク>>https://lit.link/mayamelpharia]]|
+|~ガイドライン|~&icon_fa(fa fa-circle-info)|[[Maya Melpharia ガイドライン>>https://docs.google.com/document/d/1cVbxRPyuaC9JLmqT8gtqy4dmH5i_hFdE4KBW2XU7CUc/edit?usp=sharing]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(25,#0095e6){基}本情報 &icon_fa(fa fa-calendar-o)
+- 本名：自粛 ジグ（愛称：ジグ）
+- 性格：基本的に真面目系だが、どこか人を小馬鹿にしたような皮肉っぽさが漂う。
+- 口癖：「自粛すれば、全て奪われ失う。」—まるで決め台詞のごとく放つ。
+- 自粛したいが、自粛すれば全て失ってしまうので、その葛藤を胸に抱えて日々生きている。
+- 何も言わずに誰かの近くで立っていることが多い。
+
+#region(自粛ジグの由来)
+自粛ジグ(JJ)とは、Maya氏の視聴者兼釣り仲間である米水エイチ氏(H氏)が冬の釣りができない期間(自粛期間中)に自作し、Maya氏が命名した釣り道具であるジグの愛称のことである。手製にも関わらず、魚を騙すことができる高品質であることから、他の釣り仲間に販売し、日々の食費の足しにしている。
+#endregion
+
+#co{
+//*&font(25,#0095e6){人}間関係 &icon_fa(fa fa-person)
+#region(仲のいい住民)&font(#3eb370){&icon_fa(fa fa-person)} 仲のいい住民
+#table_style(head=#0095e6:#FFF:center)
+|~キャラクター名|~詳細|
+#endregion()
+
+#region(ギャング)&font(#4f455c){&icon_fa(fa fa-user-secret)} ギャング
+#table_style(head=#0095e6:#FFF:center)
+|~キャラクター名|~詳細|
+|[[名前]]|※詳細記入|
+#endregion(ギャング)
+}
+#co{
+//*&font(25,#0095e6){所}持車両 &icon_fa(fa fa-car)
+#region(所有車両,open)閉じる
+#table_style(head=#0095e6:#FFF:center)
+|~車両名|~エピソード|
+#endregion(所有車両)
+}
+#co{
+//*&font(25,#0095e6){エ}ピソード &icon_fa(fa fa-calendar-o)
+#region(エピソードを開く,open)
+#table_style(head=#0095e6:#FFF:center){日付=right}
+|~日付|~時刻|~DAYS|~出来事|~エピソード・備考|
+
+※エピソード募集中
+#endregion()
+}
+
+*&font(25,#0095e6){エ}ピソード &icon_fa(fa fa-calendar-o)
+
+#div(width=250px,color=#ffffff,bgcolor=#0095e6){&nbsp;&nbsp;&font(b,18px){　　　　　Season2}}
+**2025年
+***12月
+#table_style(head=center:#0095e6:#FFF){配信日=right,#=center}
+#region(開く,open)
+&bold(){12/24} 
+・
+&bold(){12/25} 市長面接
+・窓拭きバイトの募集が無かったため、鉱石採掘を行ってみるが、全く稼げず懲り。ちょうど市長が飲食店の面接を行っていたため、自身がカエルを飼育している事をアピールした。
+&bold(){12/27} 警察署ハメられ事件/炊き出し乞食事件
+・無料の炊き出しが今日で終わることを知り、警察署へ行ったが誰もおらず、鍵のかかっていない署内を散策するも、バグで閉じ込められる。
+・会った警察官から炊き出しを貰えるだけ貰おうとしたが、[[文月　夏苗]]にバレて注意される。その後、[[味野　環九郎]]からも乞食することに成功する。
+&bold(){12/28} タクシー初乗り/EMS就寝
+・鉱山に止めていた原付がバグで消滅。初めてタクシーを利用するも、その日稼いだお金が全て失われた。
+・アパートで就寝しようとするも利用できず、近くにあるEMSの手術室ベッドが快適だったことを思い出し、そこで就寝した。もちろん無断である。
+
+#endregion()
+
+*&font(25,#0095e6){仲}の良い住民 
+
+*&font(25,#0095e6){ア}ーカイブ &font(25,red){&icon_fa(fa fa-youtube-play)}
+#div(width=250px,color=#ffffff,bgcolor=#0095e6){&nbsp;&nbsp;&font(b,18px){　　　　　Season1}}
+***2024年
+#table_style(head=center:#0095e6:#FFF){配信日=right,#=center}
+#region(開く)
+|~配信日|~#|~配信タイトル（リンク）|~備考|h
+|09/28|1|[[車載ゲーミングPCから「自粛ジグ」誕生>>https://www.youtube.com/watch?v=OlrYCDLiiJA]]||
+|10/02|2|[[無職・釣り人、自粛 ジグ>>https://www.youtube.com/watch?v=GmD5t65YFJA]]||
+|10/09|3|[[釣りを極める>>https://www.youtube.com/watch?v=aWVK5OXHQnk]]||
+|10/16|4|[[4日目 自粛ジグ>>https://www.youtube.com/watch?v=oIped9V_weA]]||
+|10/19|5|[[5日目 自粛ジグ 北海道撤退>>https://www.youtube.com/watch?v=n6YBszkHvZU]]||
+|10/23|6|[[メカニック→飲食店>>https://www.youtube.com/watch?v=teotC1CUoD0]]||
+|10/25|7|[[メカニック・PYC就職か>>https://www.youtube.com/watch?v=qjSj40KsNdM]]||
+|10/26|8|[[物語を進めてくれる出会いを探す>>https://www.youtube.com/watch?v=IzfDlEbhSVk]]||
+|10/30|9|[[さて…>>https://www.youtube.com/watch?v=Mx-qc--LxA4]]||
+|11/02|10|[[自粛ジグ>>https://www.youtube.com/watch?v=joCQ_NmSWlE]]||
+|11/03|11|[[自粛ジグ>>https://www.youtube.com/watch?v=nLS4oeALWAg]]||
+|11/06|12|[[自粛 ジグ>>https://www.youtube.com/watch?v=MlgySXHNYmk]]||
+|11/07|13|[[自粛ジ グ>>https://www.youtube.com/watch?v=N44wN5fABgs]]||
+|11/28|14|[[互いを尊重して「キレ」なくやろうや>>https://www.youtube.com/watch?v=Tr2dJ6ORhE8]]||
+|12/31|15|[[2024年に感謝>>https://www.youtube.com/watch?v=1Osc58eDTd4]]||
+#endregion(2024)
+***2025年
+#table_style(head=center:#0095e6:#FFF){配信日=right,#=center}
+#region(開く)
+|~配信日|~#|~配信タイトル（リンク）|~備考|h
+|01/02|16|[[謹賀新年>>https://www.youtube.com/watch?v=XnyZ0tVgBo0]]||
+#endregion(2025)
+
+#div(width=250px,color=#ffffff,bgcolor=#0095e6){&nbsp;&nbsp;&font(b,18px){　　　　　Season2}}
+***2025年
+#table_style(head=center:#0095e6:#FFF){配信日=right,#=center}
+#region(開く)
+|~配信日|~#|~配信タイトル（リンク）|~備考|h
+|12/24|1|[[【ストグラ2】自粛ジグ: 1日目【高知 12/24】>>https://www.youtube.com/watch?v=eb3zqSAVd74]]||
+|12/25|2|[[【ストグラ2】自粛ジグ: 2日目【高知 12/25】>>https://www.youtube.com/watch?v=Idhfx4vTMXA]]||
+|12/27|3|[[【ストグラ2】炊き出し事件 自粛ジグ: 3日目【高知 12/27】>>https://www.youtube.com/watch?v=nXB0g3GQg4U]]||
+|12/28|4|[[【ストグラ2】自粛ジグ: 4日目【高知 12/28】>>https://www.youtube.com/watch?v=hCbq_HQ_sh4]]||
+#endregion(2025Season2)
+***2026年
+#table_style(head=center:#0095e6:#FFF){配信日=right,#=center}
+#region(開く,open)
+|~配信日|~#|~配信タイトル（リンク）|~備考|h
+|01/10|5|[[【ストグラ2】自粛ジグ: 5日目【大分 01/10】>>https://www.youtube.com/watch?v=MjqHtKRyqfk]]||
+//|mm/dd|n|[[配信タイトル>>配信URLを入力]]||
+#endregion(2025Season2)
+*&font(25,#0095e6){動}画 &font(25,red){&icon_fa(fa fa-youtube-play)}
+#region(開く,open)
+#table_style(head=center:#0095e6:#FFF){投稿日=right}
+|~投稿日|~動画タイトル（リンク）|~備考|h
+|10/04|[[世界を自粛させる男新生 ” 自粛ジグ ” 自粛の王 爆誕>>https://www.youtube.com/watch?v=m_PGb3yqOig]]||
+#endregion(動画)
+※切り抜き募集中

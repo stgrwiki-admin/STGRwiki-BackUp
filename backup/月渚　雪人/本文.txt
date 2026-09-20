@@ -1,0 +1,613 @@
+&bold(){観測前に&font(12pt,u,#1F79E0){[[観測者の心得]]}をご確認ください。}
+*&font(25px,#FFF){&font(30px,#DA4650){プ}ロフィール &icon_fa(fa fa-crow)}
+#slide_img(auto=4,position=left,width=450,height=300)
+{S2_ルナホークアイ_02.png,S2_ルナホークアイ_01.png,月渚雪人変装.png,ルナ ホークアイ_白衣.png,ルナ ホークアイ_rig.png,ルナ ホークアイ_Trash.png,月渚雪人基本.png,}
+&font(24px,b){「宇宙最速の男」}
+
+#table_filter(){Season1=hide,Season2=show}
+#table_color(#DA4650)
+|~&color(#f9f1f2){世界線}|~&color(#f9f1f2){&icon_fa(fa fa-earth-asia)}|~&color(#f9f1f2){Season1}|~&color(#f9f1f2){Season2}|
+|~&color(#f9f1f2){名前}|~&color(#f9f1f2){&icon_fa(fa fa-user)}|>|&ruby(るな){月渚}　&ruby(ゆきと){雪人}|
+|~&color(#f9f1f2){出身地}|~&color(#f9f1f2){&icon_fa(fa fa-map-marker)}|>|日本・大阪|
+|~&color(#f9f1f2){誕生日}|~&color(#f9f1f2){&icon_fa(fa fa-birthday-cake)}|>|1999年02月16日 (&countup(1999/02/16,y)歳)|
+|~&color(#f9f1f2){転入日}|~&color(#f9f1f2){&icon_fa(fa fa-plane)}|>|2023年10月06日 (&countup(2023/10/06,yd)経過)|
+|~&color(#f9f1f2){職業}|~&color(#f9f1f2){&icon_fa(fa fa-university)}|>|&icon_fa(fa fa-gun)&bold(){ギャング}【[[868]]】構成員 &small(){2025/04/18~}|
+|~|~|&icon_fa(fa fa-user-slash)&small(){&openclose2(show=過去の職業){&nbsp(br,7)&icon_fa(fa fa-hotdog)ホットドッグ屋 &small(){2023/10/07~ジョブのみ}&nbsp(br,7)&icon_fa(fa fa-wrench)メカニック[[9055]] &small(){2024/09/13, 18}（体験）&nbsp(br,7)&icon_fa(fa-solid fa-briefcase-medical)[[個人医]] &small(){2024/01/21～2025/04/22}}}||
+|~&color(#f9f1f2){TwiX}|~&color(#f9f1f2){&icon_fa(fa fa-crow)}|るな@doctor|ルナホークアイ@luna|
+|~&color(#f9f1f2){レーサー名}|~&color(#f9f1f2){&icon_fa(fa fa-flag-checkered)}|ルナ|宇宙最速|
+|~&color(#f9f1f2){ペット}|~&color(#f9f1f2){&icon_fa(fa-solid fa-dog)}|ドーベルマン：じょーくん(♀)||
+|BGCOLOR(#F8FCFF):COLOR(#DA4650):~プレイヤー|BGCOLOR(#F8FCFF):COLOR(#DA4650):&icon_fa(fa fa-address-card-o)|>|るなりあ|
+|BGCOLOR(#F8FCFF):COLOR(#DA4650):~告知等|MIDDLE:BGCOLOR(#F8FCFF):COLOR(#DA4650):&icon_fa(fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://x.com/lunaria_ch39]]|
+|BGCOLOR(#F8FCFF):COLOR(#DA4650):~配信場所|MIDDLE:BGCOLOR(#F8FCFF):COLOR(#DA4650):&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (lunaria39)}>>https://www.twitch.tv/lunaria39]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube (@Lunaria39)}>>https://youtube.com/@Lunaria39]]|
+|BGCOLOR(#F8FCFF):COLOR(#DA4650):~ガイドライン|MIDDLE:BGCOLOR(#F8FCFF):COLOR(#DA4650):&icon_fa(fa fa-circle-info)|>|[[2025/5/4のXポスト>>https://x.com/Lunaria_39/status/1918959060336169298]]&br()&font(u,b,red){一律切り抜き禁止}&br()&small(){※Xにクリップなどの投稿は可}|
+|BGCOLOR(#F8FCFF):COLOR(#DA4650):~別キャラ|BGCOLOR(#F8FCFF):COLOR(#DA4650):&icon_fa(fa fa-user)|>|&openclose2(show=クリックで表示){：[[月渚　雪男]]、[[ニックス　リア]]}|
+//
+//Season2移行に伴いテキトーだった部分を変更とのこと。Season1までの誕生日（1999年06月30日）
+//Season2の項目が増えてきたため、編集例①に移行。転入日はSeason1の転入日。Season2最初の起床日は転入日にあらず。
+//ご本人が紫のイメージはないと発言していたため、紫背景を鷹頭の白カラーにしました。ルナのイメージカラーは赤。
+//&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/Lunaria_39]]乗っ取られ中
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&font(25px,#FFF){&font(30px,#DA4650){基}本情報 &icon_fa(fa fa-id-card-o)}
+&font(20px,#DA4650){●&space()}匿名掲示板&bold(){『俺たちで犯罪都市で犯罪起こそうぜ』}にて知り合った&openclose2(show=3人){（[[三枝　奏汰]]、[[椿　散人]]、[[城　白代]]）}と共にロスサントスに訪れた。
+　　&font(15px,#DA4650){●&space()}ハンドルネームは&bold(){『ルナ ホークアイ』}。
+　　&font(15px,#DA4650){●&space()}2022年にロスサントスで[[カジノ]]オーナーになった後消息を絶った弟の[[月渚　雪男]]を探すが断念した。
+&font(20px,#DA4650){●&space()}半グレ、個人医を経て、現在は[[ギャング]]【[[868]]】の構成員をしている。
+
+//=============================================================
+#div(width=330px,bgcolor=#DA4650){&font(16px,b,#FFF){&space()&icon_fa(fa-solid fa-dove)&space()ルナ ホークアイとして}}
+&font(20px,#DA4650){●&space()}街に来た当初は素顔に花粉症対策のガスマスクを付けた人間の姿と本名で生活していた。
+&font(20px,#DA4650){●&space()}個人医になり、犯罪時に使用していた鷹のマスクと偽名の『ルナ ホークアイ』で常に生活するようになり、素顔と本名を知る者が少なくなった。
+　　&font(15px,#DA4650){●&space()}街に来た当初に本名で連絡先を交換した人にルナホークアイとして電話をかけて露見することもある。
+&font(20px,#DA4650){●&space()}他人に素顔を見せるつもりもなく、自身を鷹と称し、鳥として生きている（ことにしている）。
+&font(20px,#DA4650){●&space()}γ世界線への転移の際に鷹頭に&openclose2(show=ヘルメット){（防弾性能なし）}がすっぽりはまってしまった（ことにしている）。（Season2）
+
+#region(素顔について)閉じる
+&font(20px,#DA4650){●&space()}鷹頭を外している時はロングのドレッドヘアだったが、衣類髪型アプデで元に戻せなくなってしまい、センター分けの短髪を受け入れた。
+&font(20px,#DA4650){●&space()}素顔は868メンバー以外に見せるつもりはない。
+　　&font(15px,#DA4650){●&space()}アレルギーがひどく目の周りが荒れているが、実はきれいな顔をしている。
+|CENTER:BGCOLOR(#DA4650):&blankimg(月渚雪人_face.png,x=150,y=150)|CENTER:BGCOLOR(#DA4650):&blankimg(S2_月渚雪人_face_調整後.png,x=150,y=150)|
+|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~Season1|CENTER:BGCOLOR(#ff7f7f):COLOR(#FFF):~Season2|
+#endregion
+
+//=============================================================
+#div(width=330px,bgcolor=#DA4650){&font(16px,b,#FFF){&space()&icon_fa(fa fa-gun)&space()半グレ時代（2023年10月～）}}
+&font(20px,#DA4650){●&space()}街に来た当初は掲示板友達の4人で軽犯罪を行っていたが早々に1人になってしまった。
+&font(20px,#DA4650){●&space()}ギャングに詰められようと半グレで薬物やソロ大型犯罪に手を染めていた。
+&font(20px,#DA4650){●&space()}牢屋で警察にガソリンをかけられ燃やされたことがあり、警察に対してヘイトが高く、警察殲滅を目的として犯罪を行うことも少なくなかった。
+　　&font(15px,#DA4650){●&space()}同時に警察からのヘイトも高く、執拗な職質を受けたり、本名をいじって「ゆきんちゅ」や「顔面終わってるやつ」などと呼ばれていた。
+
+//=============================================================
+#div(width=330px,bgcolor=#DA4650){&font(16px,b,#FFF){&space()&icon_fa(fa-solid fa-briefcase-medical)&space()宇宙最速の個人医時代（2024年1月～）}}
+&font(20px,#DA4650){●&space()}在職期間：2024/01/21～2025/04/22
+&font(20px,#DA4650){●&space()}高圧的な[[ギャング]]のことも嫌っており、彼らから高額な治療費をぶんどりたいという理由で[[個人医]]になった。
+　　&font(15px,#DA4650){●&space()}さらに警察と共に救急隊員にも「顔が終わっている奴は病院に来るな」と言われたことがあり、救急隊に対しても不信感を持ち個人医になった。
+&font(20px,#DA4650){●&space()}二つ名は「&bold(){宇宙最速の個人医}」
+&font(20px,#DA4650){●&space()}抗争時にお抱え個人医がいるという理由で治療を拒否してきた[[MOZU]]には100万円多く請求していた。
+&font(20px,#DA4650){●&space()}クリニックを持たず、確定で高額な現場治療となるため、犯罪者から「ハズレ個人医」と呼ばれ命を狙われそうになった。
+
+//=============================================================
+#div(width=330px,bgcolor=#DA4650){&font(16px,b,#FFF){&space()&icon_fa(fa fa-gun)&space()ギャング時代（2025年4月～）}}
+&font(20px,#DA4650){●&space()}個人医の現場介入が禁止となり、個人医としてのやりがいを見失っていた時に、以前からお世話になっていた2組織に同日に勧誘された。3週間以上の熟考の末、占いに背中を押されギャング【[[868]]】に加入した。
+&font(20px,#DA4650){●&space()}一匹狼、孤高の鷹生活を続けていたが、初めて仲間、家族と呼べる場所ができた。
+&font(20px,#DA4650){●&space()}街が長いため868構成員には珍しくボス全員に会ったことがある。
+&font(20px,#DA4650){●&space()}868メンバー各々から様々な呼称を付けられている。
+&font(20px,#DA4650){●&space()}口が良く回り他者にマウントを取りがちだったが、さらに口が回る868の先輩からの叱責には勝てず、素直に応じている。
+&font(20px,#DA4650){●&space()}868加入後、運悪く仲間との起床のタイミングが合わずソロ活動をしていることが多いため、いまいち868の事、ギャングの事を分かっていない。
+　　&font(15px,#DA4650){●&space()}そのため、叱ってくれる人が側におらず、元々の傍若無人な性格も相まって、ギャングであることを笠に着て白市民を含む各方面に迷惑をかけるようになった。
+　　&font(15px,#DA4650){●&space()}868を相当気に入っているため、うちは常に私服だとボスに言われたにもかかわらず常に大型服を着用している。
+　　&font(15px,#DA4650){●&space()}たまに起床が被ると、嬉しくてみんなに楽しんでもらおうと1人で犯罪準備に飛び回り、結局交流できていない日々を送る。
+&font(20px,#DA4650){●&space()}仲間に遠慮して自らソロ活動をしていることを鯵屋に指摘され、考えを改めた。
+&font(20px,#DA4650){●&space()}加入1年でようやく、素行の悪さが仲間に露呈し、教育を受けている。
+　　&font(15px,#DA4650){●&space()}報告癖をつけるために『れんらくちょう』制度を設けられた。
+//
+***&font(u,b,#DA4650){Personality}
+&font(20px,#DA4650){●&space()}宇宙最速＝せっかち
+&font(20px,#DA4650){●&space()}大阪人なため、ボケとツッコミとその場のノリは止められない。
+&font(20px,#DA4650){●&space()}本人は真面目に話しているつもりでも、軽薄に聞こえるデバフを抱えている。
+&font(20px,#DA4650){●&space()}こう言ったらどうなるんだろうと相手に対して試し行動をしてしまうため、自ら信用を落としている。
+&font(20px,#DA4650){●&space()}プライドが高く、小心者。大量の言い訳で自己正当化しようとするがうまくいっているかは怪しい。
+&font(20px,#DA4650){●&space()}黒市民に顔が広く、868には珍しく他組織の犯罪者と交流が多い。
+&font(20px,#DA4650){●&space()}おしゃべり好きなことも相まって無意識に情報を他組織に漏らしていることもあったが、先輩構成員に躾けられ、もう二度としないと誓った。
+
+//=============================================================
+//↑改善後は書き換えOK。
+//基本情報を整理、追記しました。下記はCO（250917 nktr）
+//・4人の中では冷静な判断ができる方であり、ロスサントスについてもよく知っている。
+//・日本で犯罪をしたことがあり、犯罪についてよく知っている。
+//=============================================================
+*&font(25px,#FFF){&font(30px,#DA4650){交}友関係 &icon_fa(fa fa-handshake-simple)}
+***&font(25px,#f9f){&icon_fa(fa fa-users)} &font(#000000,18){8&color(#FF6EC7){6}8}
+#region(開く)
+#table_style(head=:center){キャラクター名=center}
+|~キャラクター名|~詳細|
+|[[ケイン／オー]]&br()（ケインさん）&br()&icon_fa(fa-regular fa-comment-dots)&space()ゆきんちゅさん|ボス。闇バイトで花を大量に買ってくれるお得意様だった。&br()個人医の現場介入が禁止され、自身の進退に悩んでいたタイミングで『あなたが欲しいです』と月渚を868に勧誘してくれた。&br()寝ている間に借金を肩代わりしてもらっていて流石に焦った。怒られなかったことから見捨てられたと思い、怖かった。&br()γ世界線でも請求書を溜めまくって、とうとう叱られた。&br()&bold(){「借金は身内のみ」「請求書を0にしてから寝る」これは絶対だと厳命された。}|
+|[[音鳴　ミックス]]&br()（会長）&br()&icon_fa(fa-regular fa-comment-dots)&space()焼き鳥・ルナ|ボス。治療費を払わなかったためブレードキルをした。&br()その後の再会が傭兵だったため少し気まずい。焼き鳥呼ばわりされている。868の中で会長はこの人らしく従う。&br()みんなで貯めた闇医者に払うための金を月渚の罰金の支払いに充ててくれ、国外追放にはさせないと守ってくれた。|
+|[[レダー　ヨージロー]]&br()（レダーさん）&br()&icon_fa(fa-regular fa-comment-dots)&space()ゆきんちゅ|ボス。868加入後対面なし。&br()個人医時代に月渚を初めて傭兵として呼んでくれた。&br()ルナ呼びを主張したが、『じゃあ、ゆきんちゅで！』と警察やろっぷに呼ばれていたあだ名で確定された。&br()貧困だった個人医を闇バイトに雇ってくれ、花や素材の買取で治療費が安かった時代の個人医を助けてくれた。|
+|[[刃弐　ランド]]&br()（刃弐さん）&br()&icon_fa(fa-regular fa-comment-dots)&space()ルナホークアイさん|ボス。868加入後対面なし。&br()個人医時代にやたら速い中古のシースパを1.85億で買った。&br()2025/4の時点でまだ2回しか使っていない。|
+|[[牢王　蓮]]|ボス。868加入後対面なし。&br()シマトリで治療した。|
+|[[芹　沢]]&br()&icon_fa(fa-regular fa-comment-dots)&space()ゆきんちゅ|ボス。868加入後対面なし。&br()個人医として無線に入りアーティファクト強盗に参加した際、ダウンした彼女を即ピックしたら賞賛された。&br()シマトリ時にMOZUにだけ多く請求していると伝えると大喜びしていた。|
+|[[成瀬　夕コ]]|ボス。868加入後対面なし。&br()会ったことはあるが、豪邸の肖像画と違うような気がしている。|
+|[[フェアリー　トピオ]]&br()（トピさん）&br()&icon_fa(fa-regular fa-comment-dots)&space()ゆきんちゅ|先輩構成員。飛行機墜落協会の会長。&br()初めて行った飛行機墜落は失敗してしまったので、リベンジを約束した。&br()月渚の大量の未払い罰金に「悪いことをしてできたならいい、国外追放には絶対させない」と金策を手伝ってくれた。&br()白市民を詰めたことに対して「そんなことすな！」と叱られた。謝罪の極意を学ぶ。|
+|[[紫水　コウ]]&br()（コウ）&br()&icon_fa(fa-regular fa-comment-dots)&space()ルナ|先輩構成員。海上レストラン[[Urashima]]店員。&br()かつて花を売ったことを忘れるほどに白市民にしか見えない行動をしている。&br()デベステを購入する際に大川さんを紹介してくれ、安くしてもらった恩がある。ギャングと判明して驚いた。|
+|[[ジョシュア・マーキル]]&br()（ジョーくん）&br()&icon_fa(fa-regular fa-comment-dots)&space()アイくん・ユッケ|先輩構成員。カッコイイ。月渚のビッグマウスに的確なツッコミを入れてくる。&br()月渚はジョーくんが一番仲がいいと思っている。&br()警察に犯罪情報を売ったところ、喋り過ぎと叱責された。先輩の圧を感じつつある。|
+|[[JD>J　D]]&br()（JDさん）&br()&icon_fa(fa-regular fa-comment-dots)&space()ルナ|先輩構成員。元[[ARCANA]]&br()仲間の証である肩のうさぎを意気揚々と見せつけたら「子供っぽいんだねぇ」と微笑まれた。&br()月渚が868メンバーと行動を共にしないことについて、他の人の方がいいのかと誤解されていた。&br()金にだらしないところを何度も指摘され、厳しく指導された。|
+|[[轟　ばーど]]&br()（ばーどさん）&br()&icon_fa(fa-regular fa-comment-dots)&space()ユッケ|先輩構成員。鳥の先輩。&br()初対面で「めちゃめちゃおじさんですね」と伝えて凄まれた。鯵屋と同タイプと評された。&br()他者へ対する月渚の不遜な言動にビシバシ指導をしてくれる。|
+|[[鯵屋>魚参　屋]]&br()（あじさん）&br()&icon_fa(fa-regular fa-comment-dots)&space()ゆき|先輩構成員。花粉症仲間。ペトロさんの占いに行った方が良いと勧めてくれた人。&br()共にビッグマウスで煽り合う仲。他の仲間から度々「うるさい」といわれる。&br()月渚の相手へのリスペクトを欠いた尊大な態度と言動にビシバシ指導をしてくれる。&br()868加入後タイミングが悪くずっと1人だった月渚を心配してくれる。868メンバーに遠慮していたことを見抜かれた。&br()白市民と揉めた際も、ルナの行動を肯定しつつ868と自身の考え方を教えてくれた良き先輩。&br()度重なるやらかしで、「論外」と厳しく叱責されたが、見捨てず月渚の軌道修正に尽力してくれている。|
+
+#table_zebra(#fff0f5, #fff, #ffc0cb)
+#endregion(仲間)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+//868の項目なので、「868のボス」等の重複部分を削りました。
+//呼び名は変わる可能性大なので随時変更してください
+***&font(25px,#ff0000){&icon_fa(fa-solid fa-briefcase-medical)} 個人医（Season1）
+#region(開く)
+#table_style(head=:center){キャラクター名=center}
+|~キャラクター名|~詳細|
+|[[空架　ぐち逸]] |警察もギャングも両方助ける個人医。&br()ギャングのシマ取り中に患者を横取りされた。会うたびに喧嘩になる。|
+|[[ゆちゃ　めろでぃ]]|[[タクシー運転手>https://w.atwiki.jp/streamergta5/pages/3420.html]]、&s(){[[DERAY]]の構成員}。&br()個人医の先輩&868の闇バイトグループ仲間。[[そす>いわさき　そす]]勇退後の個人医をまとめてくれていた人。&br()小峯さんと共に小型犯罪や傭兵で一緒に遊んだ仲。個人医に戻ったらしい。&br()街に来た当初の月渚を覚えているため、別人だと誤魔化すようにしている。&br()S2：[[闇医者]]BBの正体。小峯がポロったため知ってしまった。闇医者露見の引責で街から消されたらしい。|
+|[[ノア　チェンバー]]|個人医の先輩&868の闇バイトグループ仲間。主治医。S2：[[闇医者]]heartlessの正体。|
+|[[なのの　なの]]|個人医の先輩。長老|
+|[[ペトロ　アルドベッグ]]|個人医仲間というより占いの先生。|
+#table_zebra(#f5f5f5, #fff, #dcdcdc)
+#endregion(個人医)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+***&font(black,25px){&icon_fa(fa fa-user-secret)} 黒市民
+#region(開く)
+#table_style(head=:center){キャラクター名=center}
+|~キャラクター名|~詳細|
+|[[小峯　玲]]|[[DERAY]]のボス。元ギャング[[IRiS]]の構成員。[[魔女の酒場]]の店員。&br()顔の広さから様々な組織の傭兵に連れて行ってくれ、お世話になった。&br()他人の恋愛をプランニングしたり遠隔サポートをして楽しんでいるらしい。&br()小峯が設立するギャングに『ルナは欲しい』と勧誘してくれたが、3週間以上の熟考の末、&br()組織が立っていない事を理由に占いに背中を押されお断りした。&br()にも関わらず、868のメンバーが起きていないときに頼りにしている。「パパ」「おじさん」|
+|[[堕夜　だよ]]|元武器屋。元ギャング[[MOZU]]の構成員。&br()MOZUにだけ治療費を高く請求している月渚をなぜか庇った。バカだけどいいやつ。&br()胡散臭い話し方をするため、適当に会話している。|
+|[[霜月　ろっぷ]]|元[[RqteL]]のメンバー。元ヒモ兼居候&868の闇バイトグループ仲間。&br()同時期に個人医になり共に救助に飛び回り、共に闇バイトで花を摘んだ仲。&br()868に入る際に男子中学生(868)と野球観戦(小峯ギャング)のどちらが良いか相談したところ、&br()ゆきんちゅが素で関われる男子中学生ならあげてもいいと背中を押された。&br()ヒモ卒業を言い渡し、家を追い出した。|
+|[[くま　ぽこ]]|[[hantasma]]の構成員。一緒に遊ぼうと雑な勧誘を受けた。&br()反応がいいためからかっている。お金をせびったりソロ活動中に一緒に遊ぶ仲。|
+|[[ユン　ユンミ]]|[[hantasma]]の構成員。ブースティングの女王。&br()くまぽこ同様、お金をせびったりソロ活動中に一緒に遊ぶ仲。彼女の優しさにつけ込んでいる。|
+|[[トウ　ユン]]|γ世界線で小峯と共によく犯罪をする仲になった。|
+|[[ぎちょう・じょばぁーな]]|元[[MOZU]]構成員、元[[極楽鳥花]]構成員。半グレ時代からの友人。&br()白市民を脅した共犯だったが、裏切られた。じょばが悪い。|
+
+#table_zebra(#f5f5f5, #fff, #dcdcdc)
+#endregion(黒市民)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+***&font(#007BBB,25px){&icon_fa(fa fa-building-shield)} 公務員
+#region(開く)
+#table_style(head=:center){キャラクター名=center}
+|~キャラクター名|~詳細|
+|[[ミン　ドリー]]|初めて逮捕してきた警察官。|
+|[[二十日　ネル]]|初めて逮捕してきた警察官。|
+|[[成瀬　力二]]|牢屋にガソリンをまき、グレネードで火をつけて焼いてきたクソ警官。|
+|[[猫　マンゴー]]|顔面終わっている奴と幾度となく貶してきた警察官。|
+|[[神崎　治]]|顔面終わっている奴は病院に来るなと貶してきた救急隊員。|
+#table_zebra(#f5f5f5, #fff, #dcdcdc)
+#endregion(公務員)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+***&font(#3EB370,25px){&icon_fa(fa fa-user)} 市民
+#region(開く)
+#table_style(head=:center){キャラクター名=center}
+|~キャラクター名|~詳細|
+|[[青梅　つばめ]]|元[[BMC>Bear Moon Custom]]メカニック、[[猫の隠れ家]]店主。ギャング加入を迷っていた時に占いでお世話になり、以来先生と慕っている。|
+|[[牧田　ここな]]|[[わんも～Cafe]]店長、元[[KoKo七番屋]]店長。一時期彼女の記憶が曖昧になっていたのに乗じて金銭を略取した。|
+|[[佐糖　あま]]|事故で金銭（20万）を略取し、追加請求20万を拒否してきたため、脅迫して街パチで護衛の小峯と共に撃ち殺した白市民。&br()黒同士のルールに則って決着をつけたはずだったが、警察に泣きついた。|
+#table_zebra(#f5f5f5, #fff, #dcdcdc)
+#endregion(市民)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+
+*&font(25px,#FFF){&font(30px,#DA4650){服}装一覧 &icon_fa(fa fa-shirt)}
+#include(月渚　雪人/服装一覧)
+
+&size(12){[[詳細ページ>>月渚　雪人/服装一覧]]}
+*&font(25px,#FFF){&font(30px,#DA4650){所}有車両等 &icon_fa(fa fa-car)}
+&font(16px,b,u,black){Season1}
+#region(開く)
+***&font(25px){&icon_fa(fa fa-car-side)} 所有車両
+#region(開く)
+#table_filter(){車両名=show,会社名=hide,タイプ=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=車両名,#=center}
+|~車両名|~会社名|~タイプ|~備考|
+|&icon_fa(fa-solid fa-motorcycle)&space()Shinobi（忍）|Nagasaki|Motorcycles|[[芳賀　ノエル]]より購入。|
+|&icon_fa(fa-solid fa-car-side)&space()Emperor|Albany|Sedans|最初の4人でお金を出し合い購入した最初の車。|
+|&icon_fa(fa-solid fa-truck-field)&space()Rumpo Custom（花摘み雪人）|Bravado|Vans|花摘みなどに使用。|
+|&icon_fa(fa-solid fa-truck-field)&space()Rumpo Custom（花摘み）|Bravado|Vans|花摘みなどに使用。1年ろっぷに借りパクされていた。|
+|&icon_fa(fa-solid fa-truck-field)&space()Journey（倉庫）|Zirconium|Vans|物資を収納する倉庫代わりの車。|
+|&icon_fa(fa-solid fa-car-side)&space()Draugur（ドラウグル）|Declasse|Off-Road|[[パキち>>パキ　ち]]より購入。|
+|&icon_fa(fa-solid fa-car-side)&space()Zentorno（ぜんとーの）|Pegassi|Super|2台のみの仕入れだったため、[[天王寺　京司郎]]から予約購入。|
+|&icon_fa(fa-solid fa-car-side)&space()Issi Sport（イッシ―）|Weeny|Sports||
+|&icon_fa(fa-solid fa-car-side)&space()Deveste（デベステ）|Principe|Super|[[大　川]]より購入。|
+|&icon_fa(fa-solid fa-dumpster)&space()Raiden GRB（ゴミ箱）|Coil|Sports||
+|&icon_fa(fa-solid fa-motorcycle)&space()Bati 801|Pegassi|Motorcycles||
+|&icon_fa(fa-solid fa-car-side)&space()Thrax（トラクス）|Truffade|Super||
+|&icon_fa(fa-solid fa-car-side)&space()Tropos Rallye|Lampadati|Sports|B帯レース出場のため購入。|
+|&icon_fa(fa-solid fa-car-side)&space()FLASH GT|Vapid|Sports|A帯レース出場のため購入。|
+|&icon_fa(fa-solid fa-truck-field)&space()Speedo Express（speedEX）|Vapid|Vans|[[868]]から支給。|
+|&icon_fa(fa-solid fa-egg)&space()Egg Car（たまご🥚）|Arcida|Sports|Magic! Easter Eventで獲得した。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(所有車両)
+***&font(25px){&icon_fa(fa-solid fa-helicopter)} 所有航空機
+#region(開く)
+#table_style(head=center)#table_style(head=#f5f5f5)
+#table_filter(){航空機名=show,会社名=hide,備考=show}
+#table_style(head=center:#dcdcdc){航空機名=left,#=center}
+|~航空機名|~会社名|~備考|h
+|Sparrow（スパロー）|||
+|Frogger（フロガー）|Maibatsu||
+|Sea Sparrow（シースパロー）||24/06/07 [[刃弐　ランド]]より1億8500万円で購入。脱法カスタムは抜いた|
+|Sparrow（スパ郎）|||
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(所有航空機)
+***&font(25px){&icon_fa(fa-solid fa-ship)} 所有船舶
+#region(開く)
+#table_style(head=center)#table_style(head=#f5f5f5)
+#table_filter(){船舶名=show,会社名=hide,備考=show}
+#table_style(head=center:#dcdcdc){航空機名=left,#=center}
+|~船舶名|~会社名|~備考|
+|Seashark|Speedophile|海上救助用に購入。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(所有船舶)
+#endregion(S1)
+
+//===================================
+//
+&font(16px,b,u,black){Season2}
+***&font(25px){&icon_fa(fa fa-car-side)} 所有車両
+#region(開く)
+#table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,取得日=right}
+|~車両ID|~車両名|~会社名|~タイプ|~取得日|~備考|h
+|MLUD0330|Faggio|Pegassi|Motorcycles|1日目(25/12/24)|車体カラー：赤&font(10px){（ガレージの表記がFaggio Sportになっているが間違い）}|
+|S816L53L|Cody|Dinka|Off-road|10日目(26/02/06)|87万円で購入。|
+|1163ROX7|Blista|Dinka|Compact car|22日目(26/04/04)|120万円で購入。|
+|XRE7R6G8|Faggio|Pegassi|Motorcycles|43日目(26/06/20)|&font(10px){（ガレージの表記がFaggio Sportになっているが間違い）}|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion
+***&font(25px){&icon_fa(fa-solid fa-truck-arrow-right)} 手放した車両等
+#region(開く)
+#table_filter(){譲渡相手=show,車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=hide,売却日=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,取得日=right,譲渡日=right}
+|~譲渡相手|~車両ID|~車両名|~会社名|~タイプ|~取得日|~譲渡日|~備考|h
+|[[小峯　玲]]|CCQR2353|Blista|Dinka|Compact car|3日目(25/12/28)|8日目(26/02/04)|120万円で購入。罰金の支払いのために100万円で売却。|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion
+
+*&font(25px,#FFF){&font(30px,#DA4650){不}動産関連 &icon_fa(fa fa-house)}
+&font(16px,b,u,black){Season1}
+#region(開く)
+***&font(25px,#32cd32){&icon_fa(fa fa-house)} 所有物件
+#region(開く)
+#table_filter(){購入日=show,番地=show,用途=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,購入日=right}
+|~購入日|~番地|~用途|~備考|h
+|6日目(23/10/23)|1006|素材用|コンテナハウス。23/11/07 復元建築|
+|衛星外(23/11/17)|2052|薬素材用|木造の建物。駐車場有|
+|14日目(24/02/10)|3007|薬素材用|駐車場有|
+|14日目(24/02/10)|7031|個人医用|ジョブ切り替え用の自宅。|
+|衛星外(24/03/13)|8142||猫カフェ近く|
+|23日目(24/05/10)|9222|自宅|個人医時代にメインで使用していた家。|
+|23日目(24/05/10)|9126||メガモール近く|
+|25日目(24/05/17)|5025|逃走用|STGR山頂の家。|
+|28日目(24/06/04)|9287南||ボブキャの南の工場ハシゴ上。ろっぷの家の向かいの扉|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+//アーカイブが残っていないため、クリップのマップ情報、wikiのエピソード、不動産屋多良里ずぅのwikiエピソード、霜月ろっぷのwikiエピソードより情報をサルベージ。（25/07/26）
+//24/02/10 ずぅさん：砂漠エリアで家が欲しいと連絡があり現地で合流、内装を作って販売した。猫カフェ付近で職業切り替えのための家が欲しいと言われて近くの家を見て回り、物件を販売した。
+//24/03/13:ずぅさん：昨日探してメッセージを送っておいた物件を購入したいと連絡があり現地に向かった。
+//24/05/10：ずぅさんのwikiより：目ぼしい物件がほぼ買われてしまっていて少し離れた物件を２件
+//
+//
+***&font(25px,#FFBFCB){&icon_fa(fa fa-house)} 共有物件（868）
+#region(開く)
+#table_filter(){共有日=show,番地=show,通称=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,共有日right}
+|~共有日|~番地|~通称|~備考|h
+|55日目(25/04/18)|10091|水族館本アジト|アジト敷地内の物件。駐車場有|
+|55日目(25/04/18)|7038|豪邸|&bold(){868のおうち。}学校横ヘリガレージ隣の高級住宅街の家。駐車場有|
+|55日目(25/04/18)|7038|武器倉庫|豪邸の武器倉庫。駐車場有|
+|55日目(25/04/18)|7038|素材倉庫|豪邸の素材倉庫。駐車場有|
+|55日目(25/04/18)|9093|ゲーセンアジト|868のゲーセンアジト。駐車場有 &openclose2(show=※){逃げ先登録}|
+|55日目(25/04/18)|4025|コの字|砂漠の逃走用拠点。駐車場有 &openclose2(show=※){逃げ先登録}|
+|55日目(25/04/18)|3053近く|サルファ拠点|サルファ兼利確物件。駐車場有 &openclose2(show=※){逃げ先登録}|
+|55日目(25/04/18)|1046|北|逃走用拠点。パレト銀行近く、屋根有シャッターの拠点。駐車場有 &openclose2(show=※){逃げ先登録}|
+|55日目(25/04/18)|1105近く|軍事拠点|軍事近くの物件。NO LIMITが隣に住んでいる。駐車場有 &openclose2(show=※){逃げ先登録}|
+|55日目(25/04/18)|5038|西海岸拠点|西海岸の浜辺近くの拠点。客船泳ぎ＆船逃走用拠点。 &openclose2(show=※){逃げ先登録}|
+|55日目(25/04/18)|9285|ボブキャ|逃走用拠点。駐車場有 &openclose2(show=※){逃げ先登録}|
+|55日目(25/04/18)|7185|JTSフリーカ上|逃走用拠点。駐車場有 &openclose2(show=※){逃げ先登録}|
+|55日目(25/04/18)|9285|ボブキャ|逃走用拠点。駐車場有 &openclose2(show=※){逃げ先登録}|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+***&font(25px,#F4E0C4){&icon_fa(fa fa-house)} 共有物件
+#region(開く)
+#table_filter(){共有日=show,番地=show,通称=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,共有日=right}
+|~共有日|~番地|~通称|~備考|h
+|52日目(25/04/11)|7027|滅論の家|[[高橋　滅論]]の話を聞きに行った際にガレージ用に鍵を貰った|
+|76日目(25/09/07)|6032|[[Yadorigi]]|リスカフェ[[Yadorigi]]のスタッシュでカードゲームをするため店主の[[天草>天草　蒼]]から鍵を貰った|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+※個人医時代に共有された物件もある
+#endregion()
+&font(70%){※誤りがあったら修正してください。}
+#endregion(S1)
+
+//===================================
+//
+&font(16px,b,u,black){Season2}
+***&font(25px,#85DC86){&icon_fa(fa fa-house)} 所有物件
+#region(開く)
+#table_filter(){購入日=show,番地=show,用途=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,購入日=right}
+|~購入日|~番地|~用途|~備考|h
+|25/12/24|8039|初期アパート||
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+
+#endregion(所有物件)
+***&font(25px,#FFBFCB){&icon_fa(fa fa-house)} 共有物件（868）
+#region(開く)
+#table_filter(){共有日=show,番地=show,通称=show,備考=show}
+#table_style(head=center:#dcdcdc){名前=left,#=center,共有日right}
+|~共有日|~番地|~通称|~備考|h
+|3日目(25/12/28)|8039|ケインの部屋|初期アパートの16号室[[ケイン／オー]]の部屋|
+|22日目(26/04/04)|7027|拠点|&bold(){γ世界線最初の868拠点。}|
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion()
+
+*&font(25px,#FFF){&font(30px,#DA4650){エ}ピソード &icon_fa(fa fa-calendar-o)}
+#div(width=330px,bgcolor=#DA4650){&font(16px,b,#fff){&space()Season1}}
+#include(月渚　雪人/エピソード1)
+#include(月渚　雪人/エピソード2)
+
+#div(width=330px,bgcolor=#DA4650){&font(16px,b,#fff){&space()Season2}}
+#include(月渚　雪人/エピソード3)
+#include(月渚　雪人/エピソード4)
+
+※1行からでもOKです。エピソードの編集や追記をお願いいたします。
+//
+エピソードページリンク｜[[EP1>>月渚　雪人/エピソード1]],[[EP2>>月渚　雪人/エピソード2]],[[EP3>>月渚　雪人/エピソード3]],[[EP4>>月渚　雪人/エピソード4]]
+//エピソードのサイトを分けたため、編集する際はエピソードページリンクから飛んでください。
+//S1：2023~2024年→EP1、2025年→EP2、S2：2025年12月～2026年6月 →EP3、2026年7月～→EP4
+//
+//
+*&font(25px,#FFF){&font(30px,#DA4650){ア}－カイブ &icon_fa(fa fa-youtube)}
+※YouTubeとTwitchにて同時配信を行っています。
+2024/7/13以降はYouTubeのアーカイブをメインに掲載しています。（2026/08/12以降メンバー限定公開）
+//
+//上のような記述は、この記述をした際にyoutubeのアーカイブのみ掲載されていたため、twitchの該当アーカイブを知りたい方用に追加しました。独断になりますので状況に応じて変更してくださると幸いです。
+#div(width=330px,bgcolor=#DA4650){&font(16px,b,#fff){&space()Season1}}
+***2023年
+#region(開く)閉じる
+#size(90%){#table_style(head=center:#DA4650:#f9f1f2){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/10/06|1|[[Day.1 俺たちで犯罪都市で犯罪起こそうぜ！>>https://www.twitch.tv/videos/1943975508]]|ネット友達3人と入国、弟雪男について聞き込み、初犯罪|
+|23/10/07|2|[[Day.2 犯罪には金と時間がかかる>>https://www.twitch.tv/videos/1944767696]]|ルナ ホークアイと名乗る|
+|23/10/08|3|[[Day.3 ばれてないからまだ白市民>>https://www.twitch.tv/videos/1945676476]]|花摘みで初逮捕|
+|23/10/09|4|[[Day.4 今日はバチバチにやろうと思う>>https://www.twitch.tv/videos/1946542091]]||
+|23/10/16|5|[[Day.5 銃も作れるようになったしそろそろ暴れようか>>https://www.twitch.tv/videos/1952374726]]|薬のレシピ発見、餡、MOZUに半グレの立場を分からされる|
+|23/10/23|6|[[Day.6 花摘み場所探していっぱい摘もうか>>https://www.twitch.tv/videos/1958231599]]|新花摘み場発見、物件購入|
+|23/10/26|7|[[Day.7 いろんな犯罪やってみよう>>https://www.twitch.tv/videos/1960643095]]|初軍事、ソロボブキャ|
+|23/10/28|8|[[Day.8 どうやら指名手配がついたみたいだ>>https://www.twitch.tv/videos/1962318437]]|成瀬力二に牢屋で焼かれる|
+|>|>|>||
+|23/11/08|9|[[Day.9 久しぶり。犯罪でもして稼ごうか>>https://www.twitch.tv/videos/1971933733]]|霜月ろっぷと出会う|
+|23/11/14|10|[[Day.10 パレトがやりたい>>https://www.twitch.tv/videos/1977136229]]|天草ら半グレ集団で犯罪|
+|>|>|>||
+|23/12/04|11|[[Day.11 世界がめちゃくちゃ変わったが気にせず暴れよう>>https://www.twitch.tv/videos/1977136229]]|ソロオイルリグ|
+#table_sorter{even=#f7f7f7,odd=fff}}
+
+#endregion
+***2024年
+#region(開く)閉じる
+#size(90%){#table_style(head=center:#DA4650:#f9f1f2){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|24/01/21|12|[[Day.12 久しぶりの起きたが面接がどうやらあるらしい>>https://www.twitch.tv/videos/2038384031]]|個人医就職|
+|>|>|>||
+|24/02/09|13|[[Day.13 人の命を救いたい(笑)>>https://www.twitch.tv/videos/2057748931]]|闇医者として現場介入|
+|24/02/10|14|[[Day.14 今日もいっぱい助けるぞ(笑)>>https://www.twitch.tv/videos/2058627859]]||
+|24/02/12|15|[[Day.15 嫌いな奴の命を握ってる瞬間が一番楽しい>>https://www.twitch.tv/videos/2060643616]]||
+|>|>|>||
+|24/03/02|16|[[Day.16 だれであっても命を救うが命の値段は人それぞれ>>https://www.twitch.tv/videos/2079008192]]||
+|24/03/10|17|[[Day.17 ヘリをかいたい>>https://www.twitch.tv/videos/2086665423]]/[[Part2>>https://www.twitch.tv/videos/2086712824]]|成瀬夕コ、レダーと出会う|
+|24/03/14|18|[[Day.18 早番>>https://www.twitch.tv/videos/2090371880]]|配信後半別キャラ|
+|24/03/15|19|[[Day.19 頼まれたから仕事する>>https://www.twitch.tv/videos/2091305152]]|ALLINの客船にろっぷと協力|
+|24/03/17|20|[[今日も今日とて人を救う>>https://www.twitch.tv/videos/2093340683]]||
+|24/03/20|21|[[命は大事に(笑)>>https://www.twitch.tv/videos/2096158232]]|餡プレラとMOZUの抗争|
+|>|>|>||
+|24/05/09|22|[[ルナホークアイ 22日目>>https://www.twitch.tv/videos/2141242414?t=01h56m10s]]|専属個人医廃止、868の闇バイト。配信前半別キャラ|
+|24/05/10|23|[[白市民を守り通せ！ ルナホークアイ23日目>>https://www.twitch.tv/videos/2142214160]]|868のﾎﾞﾌﾞｷｬ傭兵|
+|24/05/14|24|忙しくなりそう ルナホークアイ24日目|シマトリ（ぐち逸に患者を奪われる）|
+|24/05/17|25|答え ルナホークアイ25日|シマトリ、868のｱｰﾃｨに協力|
+|24/05/24|26|[[島とりがあるらしい ルナホークアイ/ゆきんちゅ 26日目]]|シマトリ、初ソロパレト|
+|24/05/29||[[皇帝→ルナ→皇帝]]|シマトリのみ起床|
+|24/05/30|27|[[デベステ買うぞ！ ルナホークアイ/ゆきんちゅ 27日目]]|デベステ購入|
+|>|>|>||
+|24/06/04|28|[[28日目 ルナホークアイ/ゆきんちゅ]]||
+|24/06/05|29|[[29日目 ルナホークアイ/ゆきんちゅ]]|シマトリ|
+|24/06/07||皇帝→ルナホークアイ/ゆきんちゅ 29日目|シースパ購入|
+|>|>|>||
+|24/09/12|30|[[Day.30 ルナ>>https://www.youtube.com/watch?v=9Qyx1J7JvL8]]|餡ブレラ・MOZU・GBCの三つ巴抗争、白市民パス取得。配信前半別キャラ|
+|24/09/13|31|[[Day 31 ルナホークアイ>>https://www.youtube.com/watch?v=iGxK3N9wUMM]]|自動車免許再取得、9055体験。配信前半別キャラ|
+|24/09/18|32|[[Day.32 ルナ>>https://www.youtube.com/watch?v=4Xp1auC9okI]]|9055体験。配信前半別キャラ|
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion
+***2025年
+#region(開く)
+#size(90%){#table_style(head=center:#DA4650:#f9f1f2){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|25/01/26|33|[[個人医？>>https://www.youtube.com/watch?v=2JM6TofCyVU]]|配信前半別キャラ|
+|25/01/30|34|[[ルナ34日目>>https://www.youtube.com/watch?v=HaqEo9qS4TY]]|配信前半別キャラ|
+|25/01/31|35|[[ルナホークアイ35日目>>https://www.youtube.com/watch?v=8lxTO-a05Ls]]|配信前半別キャラ|
+|>|>|>||
+|25/02/01|36|[[ルナホークアイ36日目>>https://www.youtube.com/watch?v=MtteyWJ2th8]]|ゴミ箱カーで遊ぶ。配信前半別キャラ|
+|25/02/15|37|[[ルナ37日目>>https://www.youtube.com/watch?v=1O5QEn6EyLI]]|個人医の現場介入禁止、小峯から勧誘。配信前半別キャラ|
+|25/02/16|38|[[ルナ38日目>>https://www.youtube.com/watch?v=3yaE6POOiM4]]|小峯とMOZU傭兵。配信前半別キャラ|
+|25/02/19|39|[[ルナ39日目>>https://www.youtube.com/watch?v=nD6TTif4UNE]]|配信前半別キャラ|
+|>|>|>||
+|25/03/11|40|[[ルナ40日目>>https://www.youtube.com/watch?v=yKqYhU5OmKU]]|配信前半別キャラ|
+|25/03/12|41|[[ルナ41日目>>https://www.youtube.com/watch?v=QZt1jrh247c]]|868傭兵、お抱え個人医の話。配信前半別キャラ|
+|25/03/16|42|[[就職活動するか否か>>https://www.youtube.com/watch?v=bYcueW627Pw]]|白市民パス発行。配信後半別キャラ|
+|25/03/21|43|[[ルナ43日目>>https://www.youtube.com/watch?v=5FaEIN_XAQQ]]|小峯とGBC傭兵&Trickster傭兵。配信前半別キャラ|
+|25/03/26|44|[[ルナ44日目>>https://www.youtube.com/watch?v=yWZzowgv7bs]]|小峯とTrickster傭兵、小峯・868から勧誘、868傭兵。配信前半別キャラ|
+|25/03/28|45|[[どうするべきか>>https://www.youtube.com/watch?v=guGpO9v4HgQ]]|小峯とTrickster傭兵|
+|25/03/30|46|[[相談>>https://www.youtube.com/watch?v=mzis1f5eWOQ]]|868傭兵|
+|25/03/31|47|[[ルナ47日目>>https://www.youtube.com/watch?v=JyJzwfwOCcg]]|配信後半別キャラ|
+|>|>|>||
+|25/04/06|48|[[組織>>https://www.youtube.com/watch?v=y4m38WrZxJY]]|ペトロ占い、868と飛行機墜落、つばめ占い|
+|25/04/08|49|[[天はすべて見ている>>https://www.youtube.com/watch?v=PM6eV4ou0wk]]|デヤンス占い、ろっぷに相談、ペトロ占い、868傭兵|
+|25/04/09|50|[[新風>>https://www.youtube.com/watch?v=pDP1SN1ci9E]]|小峯とTrickster傭兵&飛行機墜落、D4から勧誘|
+|25/04/10|51|[[天秤>>https://www.youtube.com/watch?v=mwYXlC4ZJ2M]][[途中からtwitchのみ>>https://www.twitch.tv/videos/2429101144]]|Trickster傭兵|
+|25/04/11|52|[[信仰>>https://www.youtube.com/watch?v=M-2VOqBO8X4]]|つばめ占い、D4の勧誘を断る、ケインと高級車窃盗|
+|25/04/12|53|[[チル>>https://www.youtube.com/watch?v=aWzoAKhOKPo]]||
+|25/04/16|54|[[ただいま>>https://www.youtube.com/watch?v=4w3xqj4c26s]]|868傭兵、小峯とTrickster傭兵|
+|25/04/18|55|[[決断>>https://www.youtube.com/watch?v=z4AjqKxvirI]]|小峯と話、ギャング[[868]]加入、加入後初対面のトピオに挨拶、くじ屋大負け|
+|25/04/20|56|[[868って書いて"やろや"って読むギャング>>https://www.youtube.com/watch?v=K5X7hmYZyUsI]]|加入後初対面の紫水に挨拶、リンリン利用|
+|25/04/22|57|[[ギャング生活2日目>>https://www.youtube.com/watch?v=Utij_wyains]]|加入後初対面のジョシュア、JDに挨拶、なのに報告、個人医正式辞職|
+|25/04/23|58|早番[[前半>>https://www.youtube.com/watch?v=i1_TRUX-zIM]][[後半>>https://www.youtube.com/watch?v=OvYTQ_RNX9A]]|ソロ起床、素材武器引っ越し、ろっぷに報告|
+|25/04/23|58-2|[[ご飯食べてお腹いっぱい>>https://www.youtube.com/watch?v=uisv21vYm7I]]||
+|25/04/24|59|[[明日からしばらくお休み>>https://www.youtube.com/live/vghRev6e_4I]]|加入後初対面のばーど・鯵屋に挨拶、取り立て|
+|>|>|>||
+|25/05/03|60|[[かえってきた男>>https://www.youtube.com/watch?v=mf1wzD5cvW8]]|ソロ起床、借金立て替え発覚、ソロ軍事、ソロボブキャ|
+|25/05/04|61|[[卵カー欲しい>>https://www.youtube.com/watch?v=vLU1LLZKVn8]]|ケインと話（借金返済）|
+|25/05/06|62|[[ブースティングA行きたい>>https://www.youtube.com/watch?v=Toig2HXxVps]]|音鳴に挨拶、ろっぷから相談、エッグカー獲得、初略奪|
+|25/05/08|63|[[たまご>>https://www.youtube.com/watch?v=R74mWw7iIco]]|初S帯ブースティング|
+|25/05/09|64|[[みんなでぶースティング回せるように>>https://www.youtube.com/watch?v=BB4COin-Y3c]]|ソロ起床、つばめ占い|
+|25/05/10|65|[[今日も頑張ろう>>https://www.youtube.com/watch?v=eyhIwsr2cfE]]|ブースティング、3構成員ボブキャ、略奪|
+|25/05/15|66|[[低気圧やばめ>>https://www.youtube.com/watch?v=XnJuDvNkOhI]]|ノアチェンバー・ライアンと挨拶|
+|25/05/16|67|[[今日で伝説のAになる>>https://www.youtube.com/watch?v=azOXcx-rwAg]]|ソロ起床、ブースティングA帯到達|
+|25/05/18|68|[[これは俺がS帯に行くまでのものがたり>>https://www.youtube.com/watch?v=6m1ZecIqhhk]]|盗難車レース￤後半別キャラ|
+|>|>|>||
+|25/06/01|69|[[宇宙最速の起床>>https://www.youtube.com/watch?v=J6yqgyHQChc]]|ソロ起床￤後半別キャラ|
+|25/06/25|70|[[久々起床868って結局何するところ編>>https://www.youtube.com/live/tciEYlj8EEk]]|ソロ起床|
+|25/06/29|71|[[薬、それは人生を変える魔法>>https://www.youtube.com/live/6Ivu6Pwvbr4]]|ソロ起床|
+|>|>|>||
+|25/07/04|72|[[一人でもできるもん>>https://www.youtube.com/live/9At_BIzsDHM]]|ソロ起床、ソロボブキャ|
+|25/07/27|73|[[宇宙最速の大悪党>>https://www.youtube.com/live/pACC0Bkyb5Y]]|ソロ起床、コンテナ探し、略奪・赤ｺﾝﾃﾅに救急信号|
+|>|>|>||
+|25/08/01|74|[[今日はコンテナ完全攻略最前線>>https://www.youtube.com/live/vkvSzFx1OWw]]|FGﾐｯｼｮﾝ初成功、ケインとﾃﾞｭｵﾘｸﾞ、868の各拠点に「DOPE」の落書きを発見|
+|25/08/09|75|[[868が狙われている！？宇宙最速の力で守って見せる>>https://www.youtube.com/live/52qI3r1LCa8]]|ロスリンピック出場|
+|>|>|>||
+|25/09/07|76|&font(6px){[[狙われた868。壁に描かれた謎のスプレー、そして一ヶ月の眠りから覚めた宇宙最速の男は何を思う。次回 第七五話『男の戦い』>>https://www.youtube.com/live/Lrj99qtngxM]]}|ソロ起床、ここなに詐欺￤後半別キャラ|
+|25/09/11|77|[[宇宙最速で駆け抜ける>>https://www.youtube.com/live/J3GmwjYuZX4]]|E5ミッション、白市民ﾊﾟｽﾁｬﾚﾝｼﾞ、鯵屋起床、スワンボートレース|
+|25/09/14|78|[[今日でコイン集め最終日らしいから全力でやる>>https://www.youtube.com/live/hoB7hS5Qh8g]]|&font(10px){FGﾐｯｼｮﾝ(他責ﾊﾟｰﾃｨ、ﾚｯｻﾝ、ｹｲﾝと初Lv2)、ホテル、白市民ﾊﾟｽﾁｬﾚﾝｼﾞ、ここなに詐欺、天王寺との賭け、略奪、ｺｲﾝ集め延長を知る}|
+|25/09/16|79|[[世界はヒーロー（俺）を待っている>>https://www.youtube.com/live/eKCWf7y4ebg]]|ソロ起床、ユンミ&ぽことLv2 FGミッション、オーパーツ探索、新武器|
+|25/09/18|80|[[闇が呼ぶ声がする>>https://www.youtube.com/live/W1w-qXMW9kI]]|ソロ起床、FGﾐｯｼｮﾝ（Lv2:ユンミ&MOZU、Lv3:女性4人)￤後半別キャラ|
+|25/09/19|81|[[世界はもう終わりなのかもしれない>>https://www.youtube.com/live/6umTzWX7CzY]]|6人起床、謎解き、犬購入、ﾀﾞｰｸｼﾘｰｽﾞ強襲、868でバンカー挑戦|
+|25/09/20|82|[[世界寿命と最後の一日>>https://www.youtube.com/live/O-qkfEIKg-c]]|白市民ﾊﾟｽﾁｬﾚﾝｼﾞ、つばめ占い、しばらく寝る宣言￤後半別キャラ|
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion(2025年)
+
+#div(width=330px,bgcolor=#DA4650){&font(16px,b,#fff){&space()Season2}}
+***&u(){2025年}
+#region(開く)
+#size(90%){#table_style(head=center:#DA4650:#f9f1f2){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|25/12/24|1|[[皇帝の逆位置 ルナホークアイ1日目>>https://www.youtube.com/live/ptcyfGnZc7o]]|【Season2開始】転送完了、ケインばーど鯵屋と合流、バイト|
+|25/12/26|2|[[探検 ルナホークアイ2日目>>https://www.youtube.com/live/PDebk3ZZCqw]]|バイト、街探索、ATM&コンビニ強盗未遂|
+|25/12/28|3|[[豪邸を買うために ルナホークアイ3日目>>https://www.youtube.com/live/octMaiTzyV8]]|初コンビニ強盗、初銀行強盗、初逮捕、ベッド購入|
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion(2025年)
+&font(16px,b,u,black){2026年}
+***1月～4月
+#region(開く)閉じる
+#size(90%){#table_style(head=center:#DA4650:#f9f1f2){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/01|4|[[あけましておめでとう ルナホークアイ4日目>>https://www.youtube.com/live/ke5uVjDMtk8]]|ソロ起床、バイト、街探索|
+|01/14|5|[[そういえば衛生兵はどこへ？ ルナホークアイ5日目>>https://www.youtube.com/live/HoFDhKvRfn8]]|ソロ起床、バイト、銀行強盗、初プリズン、車両間違い示談|
+|01/15|6|&font(12px){[[借金250万から豪邸住まいへの第一歩 ルナホークアイ6日目 Part1>>https://www.youtube.com/live/Z_9QN5DElps]], [[Part2>>https://www.youtube.com/live/VKUCJDSPNy0]]}|病院出禁、銀行強盗、トピオと再会、捨山から逃走|
+|01/28|7|&font(7px){[[またスロット行って今月の生活費はどうするの！？ うるせぇ！！！勝てばいいんだろ！！！ ルナホークアイ7日目>>https://www.youtube.com/live/PiKkVUoBglQ]]}|罰金滞納、ランドリーの鍵、JD&音鳴と再会、レインボー督促状|
+|>|>|>||
+|02/04|8|[[朝から晩までバイトバイトバイト ルナホークアイ8日目>>https://www.youtube.com/live/fN8H3-lixcw]]|ソロ起床、車両売却、罰金完済、銀行強盗￤後半別キャラ|
+|02/05|9|[[クラフトLv上げ ルナホークアイ9日目>>https://www.youtube.com/live/kvSf02ViSCc]]|ソロ起床、スロット、小峯の人質|
+|02/06|10|[[キャンディバナンザを信じよう ルナホークアイ10日目>>https://www.youtube.com/live/99eiyN62zjY]]|ソロ起床、軽トラ購入、花摘み、人狼ゲーム|
+|02/18|11|[[お金稼ぐ俺らはスター ルナホークアイ11日目>>https://www.youtube.com/live/p66YG1kii44]]|ソロ起床、宝探し、物件の見積もり|
+|>|>|>||
+|03/05|12|[[目標金額、お家買うための4000万 ルナホークアイ12日目>>https://www.youtube.com/watch?v=HQwuzxHfBjw]]|ソロ起床、レース|
+|03/07|13|[[一日一善 しっかりお金稼ぐ ルナホークアイ13日目>>https://www.youtube.com/live/9HfvuPmR0WQ]]|ソロ起床、トウユン・小峯と犯罪（現金輸送車強盗未遂）|
+|03/11|14|[[僕は犯罪者なのか？ ルナホークアイ14日目>>https://www.youtube.com/live/EkuKgf93esc]]|ソロ起床、小峯・ライアンとドライブ、冤罪逮捕|
+|03/19|15|[[罰金から逃げろ！！ ルナホークアイ15日目>>https://www.youtube.com/live/tUqCOmUbtpo]]|ソロ起床、小峯・ライアンと小型犯罪、闇医者と接触|
+|03/20|16|&font(12px){[[中型小型すべてをてにいれる ルナホークアイ16日目 Part1>>https://www.youtube.com/live/R-m282F1elw]],[[Part2>>https://www.youtube.com/live/mPZegElLttg]]}|小峯と銀行強盗、初中型犯罪(飛行場)、音鳴&JD起床、違法ﾊｯｷﾝｸﾞ、物件見積、ｺﾝﾋﾞﾆ強盗|
+|03/21|17|[[みんなの家まであと3500万 ルナホークアイ17日目>>https://www.youtube.com/live/HCDtR3ZcsRc]]|ソロ起床、犯罪ぶん回し|
+|03/22|18|[[みんなの家まであと2500万 ルナホークアイ18日目>>https://www.youtube.com/live/vYISSVEqWwY]]|ソロ起床、アーティ2回|
+|03/26|19|[[868って書いてやろや ルナホークアイ19日目>>https://www.youtube.com/live/iCSAGbZir8k]]|6人起床、情報漏洩、現金輸送車、恐竜仕事、違法ﾊｯｸ救出、868アーティ|
+|03/27|20|[[請求書1500万を気合で稼ぐ ルナホークアイ20日目>>https://www.youtube.com/live/6pNrd3AugKo]]|2か月振りにｹｲﾝの声を聞く、小峯と遊ぶ、46の鍵獲得、檸檬占い、飛行場|
+|>|>|>||
+|04/02|21|[[アジトのためのお金もう少し ルナホークアイ21日目>>https://www.youtube.com/live/X1OosJtxJFg]]|2か月ぶりにｹｲﾝと邂逅、1v1KFC参加|
+|04/04|22|[[明日から1週間くらいお休みする ルナホークアイ22日目>>https://www.youtube.com/live/Y4RV79J9coM]]|家の鍵を貰う、レース、ケインと飛行場|
+|04/11|23|&font(10px){[[旅行から帰ってきたら借金で国外追放されそうな件について ルナホークアイ23日目>>https://www.youtube.com/live/gepLcPS7uGE]]}|ソロ起床、恐竜仕事|
+|04/12|24|[[借金1700万果たして返せるのか ルナホークアイ24日目>>https://www.youtube.com/live/c7O2UID3kN0]]|サッカー、1v1ﾄｰﾅﾒﾝﾄ、闇医者と金銭ﾄﾗﾌﾞﾙ|
+|04/15|25|[[868借金返済生活1日目 ルナホークアイ25日目>>https://www.youtube.com/live/ea0xG5I_tSg]]|868会議、金策、闇医者と話し合い。|
+|04/16|26|[[868借金返済生活2日目 ルナホークアイ26日目>>https://www.youtube.com/live/pwCWsoiwwWs]]|金策、請求書ほぼ完済（ひとりぼっち代）|
+|04/17|27|[[みんなの分のBMをあつめるぞ！ ルナホークアイ27日目>>https://www.youtube.com/live/5cP6ltSgU1Y]]|金策、鯵屋・JDと話、闇医者への借金完済|
+|04/18|28|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2750990617]]￤[[もっとみんなを知ろう！ ルナホークアイ28日目>>https://www.youtube.com/live/qaDjduhGflk]]|&bold(){868加入1周年}、ジョシュアと話￤後半別キャラ|
+|04/22|29|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2754237428]]￤[[お金絶対に稼ぐ ルナホークアイ29日目>>https://www.youtube.com/live/A-nRuHkunp8]]|鯵屋と遊ぶ、アーティ、868工業|
+|04/24|30|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2755783561]]￤[[1000万円稼ぐ。やればできる ルナホークアイ30日目>>https://www.youtube.com/live/au510b_NC_k]]|金銭トラブル報告、バイト、カジノ、コンビニ強盗、雑談|
+|04/25|31|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2756623337]]￤&font(13px){[[お金ちょっと稼ぐその後皇帝 ルナホークアイ31日目→皇帝19日目>>https://www.youtube.com/live/QRVjB51rfrA]]}|バイト、恐竜仕事￤後半別キャラ|
+|04/30|32|[[&font(#6441A4){&icon_fa(fa fa-twitch)}①>>https://www.twitch.tv/videos/2760640224]][[②>>https://www.twitch.tv/videos/2760715871]]￤[[犯罪者らしく犯罪やっちゃう？ ルナホークアイ32日目>>https://www.youtube.com/live/00kClYT4pH8]]|ソロ起床、小峯と遊ぶ|
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion(1月～4月)
+***5月～
+#region(開く,open)
+#size(90%){#table_style(head=center:#DA4650:#f9f1f2){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/09|33|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2767776778]]￤[[GWでちゃんと風邪ひきました ルナホークアイ33日目>>https://www.youtube.com/live/yZZDnVhNtQE]]|ソロ起床|
+|05/10|34|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2768595795]]￤[[さすがに借金返済する ルナホークアイ34日目>>https://www.youtube.com/live/xXKYMBWiS6U]]|ソロ起床、小峯と遊ぶ、くるーど狩り、ALLINメンツと飛行場、脱獄|
+|05/29|35|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2783576712]]￤&font(9pt){[[ゆきんちゅ、釣りんちゅになって豪邸を買う ルナホークアイ35日目>>https://www.youtube.com/live/hvnZDaYvv6E]]}|ソロ起床、釣りんちゅ、パチパチコンビニ|
+|05/30|36|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2784394598]]￤&font(10pt){[[ハイランカーになって豪邸買うぞ pat2 ルナホークアイ36日目>>https://www.youtube.com/live/BbO7BSC_5ic]]}|ソロ起床、釣りんちゅ、佐糖あまを詰める、警察署に出頭口プ|
+|05/31|37|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2785208652]]￤[[美容室3時間巻いたから配信する ルナホークアイ37日目>>https://www.youtube.com/live/DGpCeQduOIg]]|ソロ起床、釣りんちゅ|
+|>|>|>||
+|06/06|38|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2789994222]]￤&font(8pt){[[20時からオフイベントのチケット発売します。買ってね ルナホークアイ38日目>>https://www.youtube.com/live/IF4BB7V9YT8]]}|鯵屋に報告、闇医者トラブルPart2（2500万円）|
+|06/10|39|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2793187575]]￤[[バッジ代のBMを稼ぐぞ ルナホークアイ39日目>>https://www.youtube.com/live/BbolWv_G0Ig]]|ソロ起床、小峯と小型犯罪金策、未払い請求に追われる|
+|06/12|40|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2794815524]]￤[[あと少しでバッジ代稼げる ルナホークアイ40日目>>https://www.youtube.com/live/j3jyEfzSsRs]]|ソロ起床、闇医者バッジ発見、ヘルメットを脱ぐ、釣りんちゅ|
+|06/17|41|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2798717028]]￤[[コソ泥金稼ぎと海釣り ルナホークアイ41日目>>https://www.youtube.com/live/csWh0jEZn_8]]|ｼﾞｮｼｭｱとボドゲ、小型が大型化、4人で置き配窃盗|
+|06/18|42|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2799584176]]￤[[今起き配強盗が熱い ルナホークアイ42日目>>https://www.youtube.com/live/EuL897DokcI]]|6人起床、置き配窃盗、ルドー|
+|06/20|43|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2801196864]]￤[[低気圧にあらがえ ルナホークアイ43日目>>https://www.youtube.com/live/s1wMh_92PSY]]|置き配窃盗、警察に情報を売る、ジョシュアに叱られる|
+|06/21|44|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2801912071]]￤[[置き配最高 ルナホークアイ44日目>>https://www.youtube.com/live/KZaiwGEXw48]]|置き配窃盗、JDに滞納を叱られる、ｹﾞｰｾﾝｱｼﾞﾄ購入会議、ブースティング|
+|06/25|45|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2804933776]]￤[[釣りで借金返済 ルナホークアイ45日目>>https://www.youtube.com/live/WvU4dsm4oxg]]|釣りんちゅ、ケインに土下座報告、鯵ﾄﾋﾟに教育される|
+|>|>|>||
+|07/03|46|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2811185041]]￤[[借金借金借金 ルナホークアイ46日目>>https://www.youtube.com/watch?v=J0igEbhIyZY]]|置き配、ブースティング、れんらくちょう開始|
+|07/04|47|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2811907130]]￤&font(8pt){[[明日オフイベ、まだ予約できるからいっぱい来て ルナホークアイ47日目>>https://www.youtube.com/live/1V0LIzA-JWA]]}|ソロ起床&openclose2(show=*){（無線に入らなかったため会えなかった）}、ブースティング￤後半別キャラ|
+|07/12|48|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2818197759]]￤[[食中毒より生還した男、久々配信 ルナホークアイ48日目>>https://www.youtube.com/watch?v=x9juJcFWlwI]]|ソロ起床、小峯から情報共有|
+|07/17|49|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2822093667]]￤[[お金ホントにあと少し ルナホークアイ49日目→皇帝34日>>https://www.youtube.com/watch?v=zHkNvNGFfIE]]|ブースティング、ケインに叱られる、ケインに借金、請求書4か月滞納3000万完済￤後半別キャラ|
+|07/26|50|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2829515192]]￤[[借金はもうしない、いやマジで ルナホークアイ50日目>>https://www.youtube.com/watch?v=gf8DBQ1oh6Q]]|ソロ起床、レース、銀行、サッカー|
+|07/30|51|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2832687940]]￤[[人生楽して生きる為の資金稼ぎ ルナホークアイ51日目>>https://www.youtube.com/watch?v=HM-NHWpcx0s]]|ソロ起床、小型犯罪、夏の収穫祭|
+|>|>|>||
+|08/05|52|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2837820259]]￤[[そろそろ衣替え ルナホークアイ52日目→皇帝39日目>>https://www.youtube.com/watch?v=1jG7iywd5Pw]]|ソロ起床、衣替え、宣材写真撮影￤後半別キャラ|
+|08/06|53|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2838674752]]￤[[夏が来た ルナホークアイ53日目>>https://www.youtube.com/watch?v=XZs3qeGIAdw]]|ほぼソロ起床、置き配、ブースティング|
+|08/09|54|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2841451527]]￤[[夏フェス泥酔レースで勝つ！ ルナホークアイ54日目>>https://www.youtube.com/watch?v=Vyu-5KMAbSM]]|ソロ起床、夏フェス泥酔レース出場|
+
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion(5月～)
+//
+#co{
+#size(90%){#table_style(head=center:#DA4650:#f9f1f2){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|||[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>]]￤[[>>]]||
+#table_sorter{even=#f7f7f7,odd=fff}}
+}
+*&font(25px,#FFF){&font(30px,#DA4650){動}画 &icon_fa(fa fa-youtube)}
+#div(width=330px,bgcolor=#DA4650){&font(16px,b,#fff){&space()Season2}}
+***1～20
+#region(開く,open)閉じる
+#size(90%){#table_style(head=center:#DA4650:#f9f1f2){投稿日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|26/07/20|1|[[868らしからぬ行動、金欲しさに白市民を詰めた結果>>https://www.youtube.com/watch?v=kstYAqYceVc]]|26/05/30配信(36日目)|
+|26/07/21|2|[[ケインオーに借金の件で正論を浴びせられる>>https://www.youtube.com/watch?v=gZ5FaUGyUbM]]|26/07/17配信(49日目)|
+|26/08/17|3|[[デートのお誘い！？これって脈ありですか>>https://www.youtube.com/watch?v=l-2DetKjlTU]]|26/07/30配信(51日目)|
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion(1~20)
+***Short
+#region(開く,open)閉じる
+#size(90%){#table_style(head=center:#DA4650:#f9f1f2){投稿日=right,#=center}
+|~投稿日|~#|~動画タイトル|~備考|h
+|26/07/23|1|[[それよりどうした声>>https://www.youtube.com/shorts/iedEGY54m6I]]|26/07/17配信(49日目)|
+|26/08/18|2|[[ちいかわの布崩壊さん>>https://www.youtube.com/watch?v=jtU6jN8r4ww]]|26/07/30配信(51日目)|
+|26/09/15|3|[[上位存在るんるんさん>>https://www.youtube.com/watch?v=-GT53H8T-sc]]|26/07/30配信(51日目)|
+
+#table_sorter{even=#f7f7f7,odd=fff}}
+#endregion()
+//---------------------------------------------------------------------------------
+*&font(25px,#FFF){&font(30px,#DA4650){ス}トグラ外コラボ等 &icon_fa(fa-solid fa-gamepad)}
+****&size(110%){&bgcolor(#DA4650){&nbsp()&font(#ffffff,90%){　&icon_fa(fa-solid fa-gamepad)&space()ゲーム系コラボ}&nbsp(7)}}
+&size(20){&color(#EB7474){●}} &font(15px){&bold(){2026年}}
+#region(開く,open)
+#table_style(head=center:#DA4650:#fff){配信日=right,#=center}
+|~配信日|~配信タイトル|~コラボ相手|~ゲームタイトル|~備考|h
+|04/24|[[1000万円稼ぐ。やればできる ルナホークアイ30日目→VALO>>https://www.youtube.com/live/au510b_NC_k&t=15755]]|ととみっくす/ギルくん/aja/切嘛|VALORANT||
+|07/14|[[【Apex】久々にやる w/ きるまくん,ajaさん>>https://www.twitch.tv/videos/2819728321]]|aja/切嘛|Apex Legends||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2026年)
+
+//
+***&size(110%){&bgcolor(#DA4650){&nbsp()&font(#ffffff,90%){　&icon_fa(fas fa-icons)&space()イベント・グッズ}&nbsp(4)}}
+****&size(20){&color(#EB7474){●}} &font(15px){&bold(){STGR MYSTERY SHOW 2026}}
+#region(開く,open)
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #EB7474;){
+#size(14px){2026/11/15 STGR MYSTERY SHOW 2026&space()&small(){&space()&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[告知1>>https://x.com/STGR_RolePlay/status/2093287722861682849]][[告知2>>https://x.com/mystery_show__/status/2093285179184046529]][[告知3>>https://x.com/STGR_RolePlay/status/2098728333500699092]][[告知4>>https://x.com/mystery_show__/status/2101267514332446831]]}&br()13:00~ 第一部&small(){（会場：有楽町よみうりホール）}&br()&small()
+}}}}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

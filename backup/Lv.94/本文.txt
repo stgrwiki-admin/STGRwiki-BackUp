@@ -1,0 +1,155 @@
+#slide_img(auto=4,width=512,height=288,position=center)
+{
+Lv94店舗1.jpg,
+Lv94店舗2.jpg
+}
+
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#E0E0E0){シーズン=#ffc0cb:b:center}
+|~シーズン|~&icon_fa(fa fa-calendar)|~Season1|~Season2|
+|~店名|~&icon_fa(fa fa-tag)|>|&ruby(レベル){Lv.}&ruby(くじ){94}／レベルくじ|
+|~業種|~&icon_fa(fa fa-coins)|>|宝くじ販売|
+|~開業日|~&icon_fa(fa fa-flag)|2025年4月18日&small(){（&countup(2025/4/18,yd)経過）}|2026年4月15日 &small(){グランドオープン（&countup(2026/4/15,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|7190番地|8000番地&Space()&small(){[[Urashima]]入口}&br()7190番地&space()&small(){店舗}|
+|~オーナー|~&icon_fa(fa fa-user-secret)|>|&bold(){[[Lv〇　チンピラ]]}|
+#co{
+|~社長(店長)|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[名　前]]}|
+|~副社長(副店長)|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[名　前]]}|
+}
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報 &font(#ffc800){&icon_fa(fa fa-arrow-up-9-1)}
+-[[Lv〇　チンピラ]]が以前より構想していた宝くじ屋がついにオープン
+-他の飲食店とは違いクジという特殊な業態のため開店に向けて仕様や利益率など市側と綿密に調整した
+-初心者でも挑戦しやすいものから高額なものまで複数の価格帯を取り揃えている
+-「換金?ちょっと良くわからないですが皆さん店舗出て右の方へ行かれますね。」たまたま近くで営業している質屋の心なきおばさんが佇んでいる。
+-店が開いた折には店舗前の駐車場にギャンブラー達が集結し阿鼻叫喚の盛り上がりを見せる(通称カスのレギ横)
+
+**従業員情報 &font(#ffc800){&icon_fa(fa fa-circle-dollar-to-slot)}
+***従業員
+#table_style(head=center:#E0E0E0)
+|~役職|~名前|~就職日|~備考|h
+|オーナー|[[Lv〇　チンピラ]]|-||
+|店員|[[バーバリアン　田中]]|2026/03/29|オーナーからのスカウトを受け就職。&br()ギャンブル中毒者が沼に沈んでいく様子を見るのを楽しみにしている。|
+|店員|[[不働　めい]]|2026/04/02|ギャンブルで増えていく借金に見兼ねたオーナーからのスカウト受け就職。|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+//|店長|[[星ノ　みこ]]|2025/04/18|個人医となるためジョブ数の問題により退職(7/20)したが白市民パスを取得し復職(8/5～)。&br()S2でもジョブ数問題により職を離れる事となった(2026/4/10)|
+//|店員|[[アルタ・スカイブルー]]|2026/04/23||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+***退職者
+#table_style(head=center:#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[星ノ　みこ]]|2025/04/18|2025/mm/dd|個人医となるためジョブ数の問題により退職(7/20)したが白市民パスを取得し復職(8/5～)。&br()S2でもジョブ数問題により職を離れる事となった(2026/4/10)|
+|[[アルタ・スカイブルー]]|2026/04/23|2026/mm/dd|テロリストイメージ払拭の手助けにとオーナーが声をかけ就職。&br()数ヶ月白市民として過ごしケバブ屋復職の目途が立ったことから8/12に退職した。|
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+***職業体験者
+#table_style(head=center:#E0E0E0)
+|~名前|~体験開始日|~備考|h
+|[[四皇　シャンクズ]]|2026/04/15|混雑するグランドオープン日にバイトリーダーとしての仕事をこなした|
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+
+**商品情報 &font(#ffc800){&icon_fa(fa fa-money-check-dollar)}
+&font(b,u,15px,#ffc800){&icon_fa(fa fa-pen-nib)&space()詳細情報募集中}
+***商品一覧
+#region(開く,open)
+#table_filter(){価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~商品名|~価格|~提供開始日|~商品説明|h
+|チャンスくじ|10,000|2026/03/01|　|
+|スクラッチ|10,000|2026/03/22|　|
+|週末キャリーオーバー宝くじ|　|2026/04/15|　|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#endregion
+#co{
+【***】
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+【***】
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=center:#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+***チラシ画像
+#region(25/4/18 グランドオープン)&b(){25/4/18 グランドオープン}
+|&image(https://stgr-r2.libhalt.net/images/26a0582e-b47f-4544-8e3c-146886999d73.png,x=240,y=340)|&image(https://stgr-r2.libhalt.net/images/707d5138-17bf-441d-8f19-3edc31c31694.png,x=240,y=340)|
+#endregion
+
+#region(Season2版チラシ,open)&b(){Season2版チラシ}
+|&image(Lv94_チャンスクジ.jpg,y=340)|&image(Lv94_レベルスクラッチ.jpg,y=340)|
+#endregion
+#region(週末キャリーオーバー宝くじ,open)&b(){週末キャリーオーバー宝くじ}
+|&image(Lv94_宝くじ.jpg,y=340)|
+#endregion
+
+**沿革 &font(#ffc800){&icon_fa(fa fa-comments-dollar)}
+***2025年
+#region(開く)
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~エピソード・備考|h
+|2025/4/18|営業開始|グランドオープン TwiXで告知後行列ができるほどの大盛況となった|
+|2025/4/23|2度目の営業|「2度目なので行列ができるほど混まない」と予想したが、結果的に大盛況。店舗側が借金をする事態となった|
+|2025/9/17|店長交代|チンピラが起きてこなくなるためみこを店長に任命。チンピラはオーナーとなった。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//
+***2026年
+#region(開く,open)
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~エピソード・備考|h
+|03/01|くじ販売|海上レストラン[[Urashima]]を間借りしチャンスくじの不定期販売を開始|
+|03/21|新商品発売|レベルスクラッチの販売を開始|
+|04/12|job付与|[[市長>>山下　ひろし]]との面談を行いjobを付与される|
+|04/15|グランドオープン|7190番地にてグランドオープン|
+//|mm/dd|出来事|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+**ピックアップ &font(#ffc800){&icon_fa(fas fa-video)}
+#region(開く)
+|&youtube(https://youtu.be/LfP9BVAdIOU?si=s9j3Qxu-pB0Sku-u,width=400,height=225)|
+|~グランドオープン当日の様子|
+|&youtube(https://youtu.be/7TimeqgwSIA?si=LBuJwhPrLBkXsJZF,width=400,height=225)|
+|~街が終わると言われる日に開店(2025/06/13)|
+
+|&youtube(https://youtu.be/DgeAFNi1WOM?si=zB7jVb_QfX-_3SQm,width=400,height=225)|
+|~Season2グランドオープンリアクションまとめ(2026/04/16)|
+#endregion
+
+----
+&font(b,u,15px,#ffc800){&icon_fa(fa fa-pen-nib)&space()編集・追記募集中}
+#right(){&link_up(🔝ページTOPへ)}

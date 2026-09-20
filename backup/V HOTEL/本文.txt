@@ -1,0 +1,585 @@
+----
+&font(#bbb,12px){◆ 編集者様へ：『 [[&font(b,u,#aaa){Vertex}>>Vertex]] 』でリダイレクト設定済です}
+----
+&blankimg(HotelVertexLogo.png,x=267,y=300)
+
+#table_style(head=#A194A6:#fff){}
+|~カジノ店名|~&icon_fa(fa fa-hand-holding-dollar)|&ruby(ヴァーテックス){Vertex}|
+|~施設名|~&icon_fa(fa-solid fa-hotel)|&ruby(ブイ){V} &ruby(ホテル){HOTEL}|
+|~業種|~&icon_fa(fa fa-gem)|ホテル／カジノ&space(2)&small(){複合施設 [[&color(#bbb){*}>>https://youtu.be/sYq2zY0g6DQ?si=-fo9NYB0ILdxgaLw]]}|
+|~営業開始日|~&icon_fa(fa fa-flag)|&co(){2026年●月●日&space()&small(){（&countup(yyyy/mm/dd,yd)経過}}|
+|~所在地|~&icon_fa(fa fa-map-marker)|8102番地|
+|~TwiX|~&icon_fa(fa fa-mobile)|@vertex|
+|~支配人|~&icon_fa(fa fa-user-secret)|&bold(){[[帝　レン]]}|
+|~オーナー|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[鳥羽　咲夜]]}|
+//
+//|~副社長(副店長)|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[名　前]]}|
+//|~job名|~&icon_fa(fa fa-user-tag)|ボスメニューのジョブネーム&co(){※わからない場合は、行ごと削除}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+#slide_img(auto=4,width=370,height=210,position=center)
+{
+HotelVertex.webp,HotelVertex_外観2.webp,HotelVertex_TwiX告知.jpeg
+}
+-3つ存在するカジノのうち1つがこのホテル内にある。
+--帝レンが[[DIAMONDCASINO>カジノ]]の再建を目指していた鳥羽咲夜、香月ろぎあに共同経営を提案を行った。帝が経営していたキャバクラ[[GoodNight]]と一緒に何かやりたかったという思いと、[[GoodbyeCompany>GoodbyeCircus]]とイベントを行った実績もあり鳥羽は共同経営の提案を受け入れた。
+--ギャンブルができるカジノ施設のほか、飲食施設としてカクテルバーやクラブ（キャバクラ）の運営を予定している。
+-複数の部屋があるため、ホテル施設の一部貸し出しやイベント開催なども企画されている。
+-カジノ従業員は白市民のみ雇い、黒市民、黒市民候補の従業員はホテル従業員として雇う方針。
+
+*従業員情報
+***&icon_fa(fa fa-person-circle-plus)&space()従業員
+#region(開く,open)
+#table_style(head=#A194A6:#fff)
+|~役職|~名前|~就職日|~備考|h
+|支配人|[[帝　レン]]|2026/01/25|ホテル・クラブ運営|
+|オーナー|[[鳥羽　咲夜]]|2026/01/25|カジノ・バー運営|
+|副支配人|[[香月　ろぎあ]]|2026/01/25|カジノ・バー運営補佐|
+||[[斎藤　まさのり]]|2026/03/12|マスコット|
+||[[カカッテコ＝イナフ]]|2026/03/12|飲食店員|
+||[[トーマス]]|2026/03/12|飲食店員|
+||[[スコティッシュ・ホールド]]|2026/03/12|飲食店員|
+||[[タイフーン　捨山]]|2026/03/14|飲食店員|
+||[[ダ　ミチェル]]|2026/03/29|カジノ店員|
+||[[狐野　承志]]|2026/03/12|カジノ店員、ロスバト担当|
+||[[ころっけ]]|2026/03/12|マスコット|
+||[[カミジョウ　レン]]|2026/03/14|飲食店員|
+||[[ライジングサン　宗介]]|2026/03/19|飲食店員|
+||[[糸解　匠馬]]|2026/04/23|　|
+||[[閃光寺　亜夢]]|2026/08/08|　|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//上から内定順となっています
+#endregion
+
+
+***&icon_fa(fa fa-person-circle-check)&space()協力関係
+#region(開く,open)
+#table_style(head=#A194A6:#fff)
+|~名前|~備考|h
+|[[Fashion MiMi]]|[[スコティッシュ・ホールド]]が代表を務めるロスサントスの新たな街に誕生したアパレル会社&br()カジノ・ホテル従業員の制服を考案。オープンを記念してファッションショーを開催した。|
+|[[葛城　司]]|オリジナルカジノゲームの確率計算の依頼を受け外部協力をしている。|
+|[[スタジオカテジ>>カテジ]]|ロスバトのカードで使用する写真の撮影を依頼|
+|[[モンスターハウスプロダクション]]|[[タラ　ちゃん]]がCEO、[[猫ノ宮　ひな]]が社長を勤めているイベント会社。&br()[[ダ　ミチェル]]、[[帝　レン]]、[[スコティッシュ・ホールド]]が所属しており、Vertexの危機に協力をしてくれている。|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+***&icon_fa(fa fa-person)&space()職業体験者
+#region(開く)
+#table_style(head=#A194A6:#fff)
+|~名前|~体験開始日|~備考|h
+|[[糸解　匠馬]]|2026/04/01|04/23 採用|
+|[[ルーファス　ウィルキンズ]]|2026/04/03||
+|[[ジェフリー　ヒッチコック]]|2026/04/03||
+|[[フグ田　ナチ]]|2026/04/15||
+|[[春原　新]]|2026/04/26||
+|[[シャマ・アルカディア]]|2026/05/02|同日採用|
+|[[さわくら　たむ]]|2026/05/28||
+|[[神楽坂　レイナ]]|2026/06/06||
+|[[東雲　カイ]]|2026/06/06||
+|[[こさ　猫弐郎]]|2026/06/14|マスコット|
+|[[ヤミー　エンデバー？>>ヤミー　エンデバー]]|2026/07/10||
+|[[鴨葱　吸葉>https://w.atwiki.jp/streamergta5/pages/3655.html]]|2026/07/29||
+|[[閃光寺　亜夢]]|2026/08/02|08/08 採用|
+|[[琵琶山　法師]]|2026/08/02||
+|[[萌愛　くしゅり]]|2026/08/12||
+|[[鈴那　衣遠]]|2026/08/12||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+#endregion
+
+***&icon_fa(fa fa-person-circle-minus)&space()退職者
+#region(開く)
+#table_style(head=#E0E0E0)
+|~名前|~退職日|~最終出勤日|~備考|h
+|[[不働　めい]]|2026/04/02|2026/04/01|借金による店への迷惑を考えたことと、2ジョブ両方とも飲食のため他の事をやってみたい気持ちが芽生え退職|
+|[[シャマ・アルカディア>https://w.atwiki.jp/streamergta5/pages/3616.html]]|2026/07/04|2026//|自分のやりたいことを見つけたため、自身のケジメとして退職|
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+
+*施設情報
+**カジノゲーム
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　カジノ情報
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+***&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-robot)&space(2)スロットマシン&space(2)}}
+一般的な[[カジノ]]スロット。図柄の組み合わせで配当が決まる。
+
+***&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-robot)&space(2)スロットRISING!&space(2)}}
+//台の種類が増えたら見出しなど記載の仕方を変更してください。
+//例：見出しをVertexオリジナルスロットとし、小見出しや内容説明文で台の名前や特徴や画像などを紹介する等。
+Vertexオリジナルのスロットマシーン。
+スランプグラフの表示や各種設定など夢の世界のスロットによく似ているらしく常連客の間で専門用語が飛び交うことも。
+
+#region(画像,open)
+|&image(スランプグラフ全体.png,x=330)|
+|&image(スランプグラフ.png,x=330)|
+|&image(スロットRISING!.png,x=330)|
+|&image(スロット遊び方.png,x=330)|
+#endregion
+
+***&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-address-card)&space(2)Dカード&space(2)}}
+|&blankimg(Dカード.png,y=230,x=170)|
+
+***&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-dice)&space(2)ダイスポーカー&space(2)}}
+以前の街から存在しているゲーム。
+
+***&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-dice)&space(2)ダイスルーレット&space(2)}}
+ダイス3つの出目の和を予想するゲーム。ゾロ目はトリプル(35倍)、4~10はスモール(2倍)、11~17はビッグ(2倍)。
+10連続など連続でダイスを振る方法も受け付けている。（例：100万円支払い、10万円の掛け金で10回サイコロを振る）
+&blankimg(ダイスルーレット.jpeg,x=256,y=144)
+
+***&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-dice)&space(2)ダイスジャック&space(2)}}
+ダイス版ブラックジャック。11を目指す。
+|&blankimg(ダイスジャック1.jpeg,x=256,y=144)&space()&blankimg(ダイスジャック2.png,x=256,y=144)|
+
+***&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa fa-address-card)&space(2)カードゲーム『ロスバト』&space(2)}}
+[[狐野　承志]]考案のカードゲーム。正式名称は『ロスサントスカードバトル』。
+
+#region(公式大会一覧,close)公式大会一覧閉じる
+#table_style(head=center:#e0e0e0)
+|~大会名|~開催日|~優勝者|~その他結果|
+|第一回|'26/4/1|[[不働めい>>不働　めい]]|第二位[[須藤冬馬>>須藤　冬馬]]、第三位[[雷堂ましろ>>雷堂　ましろ]]、第四位[[妻垣さすらい>>妻垣　さすらい]]|
+|第二回|'26/4/2|[[須藤冬馬>>須藤　冬馬]]|第二位[[飯田けんつ>>飯田　けんつ]]、第三位[[ジェフリーヒッチコック>>ジェフリー　ヒッチコック]]|
+#endregion
+
+#region(リーダーカード※シークレットを含みます,close)リーダーカード閉じる
+#table_filter(){カード名=show,最大コスト=show,HP=show,すばやさ=show,リーダースキル=show,備考=hide}
+#table_style(head=center:#e0e0e0)
+|~カード名|~最大コスト|~HP|~すばやさ|~リーダースキル|~備考|h
+|斎藤まさのり|95|22|4||第一弾スターターデッキ|
+|牧田ここな|100|20|5||第一弾スターターデッキ|
+|須藤冬馬|110|18|6||第一弾スターターデッキ|
+|市長山下ひろし|200|20|10|毎ターン「俺が一番偉い」と発言しないと負ける|シークレット、使用禁止|
+|くま|100|20|5||[[ダミアン>>ダミ　アン]]のテストプレイ協力へのお礼|
+|山田カイキ|95|20|6||第二弾スターターデッキ|
+|ミンドリー|90|18|5|一度:相手の出目を1つ使えなくできる|第一弾パック|
+|ももみ|90|13|4|一度:HPを7回復|第一弾パック|
+|雷堂ましろ|100|19|5|一度:次ターン被ダメージ3以上のとき攻撃+2|第一弾パック|
+|Dr.ギガ|100|19|4|一度:このターン自分の出目+1、次ターン相手の出目+2|第一弾パック|
+|命田守|100|22|3||第一弾パック|
+|JackBauer|100|19|4|一度:サイコロ+1|第一弾パック|
+|アドミゲスハン|100|18|7|常時:HP11以上のときサイコロ+1、10以下のとき-1|第一弾パック|
+|アルフォートウェスカー|135|16|4||第一弾パック|
+#table_sorter()
+#endregion
+
+#region(サポートカード,close)サポートカード閉じる
+#table_filter(){カード名=show,種類=show,コスト=show,パワー=show,出目の個数=show,パック=show,能力=show,備考=hide}
+#table_style(head=center:#e0e0e0)
+|~カード名|~種類|~コスト|~パワー|~出目の個数|~パック|~能力|~備考|h
+|まさのり(偽)|攻撃|15|3|1|デッキA、第一弾|||
+|まさのり(光)|攻撃|30|2|3|デッキA、第一弾|||
+|まさのり(闇)|攻撃|5|1|1|デッキA、第一弾|||
+|オーナー鳥羽|攻撃|20|2|2|デッキA、第一弾|||
+|大川|攻撃|45|5|1|デッキA、第一弾|||
+|須藤十馬|攻撃|30|3|2|デッキA、第一弾|||
+|こわいよー|防御|20|2|特殊|デッキA、第一弾|||
+|マッハボクシングドク|攻撃|20|1|6|デッキB、第一弾|||
+|ザ！！！コーラボーイ！！！|攻撃|55|4|2|デッキB、第一弾|||
+|瀬戸ろろ|攻撃|10|2|1|デッキB、第一弾|||
+|不働めい|攻撃|10|2|1|デッキB、第一弾|||
+|帝レン|攻撃|25|3|1|大会用、第一弾|自HPが偶数のとき攻撃+1||
+|香月ろぎあ|攻撃|10|2|1|大会用、第一弾|自HPが偶数のとき攻撃+1||
+|葛城司|回復|10|1|3|大会用、第一弾|||
+|堕夜だよ|攻撃|30|4|1|第一弾|||
+|鳥野ぎん|攻撃|40|3|3|第一弾|||
+|町田ジョアンナ|攻撃|25|2|2|第一弾|前ターン「みどり」を含むカードを使用時攻撃+1||
+|よりどりみどり|攻撃|35|1|4|第一弾|前ターン「町田」を含むカードを使用時攻撃+1||
+|須藤冬馬|攻撃|20|1|2|第一弾|場に「須藤十馬」があるとき攻撃+1してもよい||
+|MacDonald|攻撃|35|6|1(特殊)|第一弾|前ターンの出目が6のとき使用できる||
+|万十忍|攻撃|15|1|2|第一弾|自リーダーのすばやさが相手より低いとき攻撃+1してもよい||
+|レッサンパンナ|攻撃|15|1|2|第一弾|自HPが偶数のとき攻撃+1||
+|飯田けんつ|攻撃|50|2|2|第一弾|自HPが偶数のとき攻撃+2||
+|キラメキーラ|回復|15|2|1|第一弾|||
+|元難波登|回復|25|1|4|第一弾|||
+|ノビーラング|攻撃|50|2|3|第一弾|前ターン回復時攻撃+2||
+|山田カイキ|攻撃|20|2|1|招待|自リーダーが「山田カイキ」のとき相手のサイコロを1個にする||
+|まさのり3|攻撃|30|1〜5(特殊)|1|招待|デッキ内の「まさのり」と付くカードの枚数攻撃力増加||
+|月乃えるな|攻撃|25|2|2|招待|デッキに「須藤」または「上田」があるとき次ターン相手の攻撃-1||
+|牧田ここな|攻撃|30|2|2|招待|自リーダーが「牧田ここな」かつ前ターンに「こわいよー」を使用していないとき、「こわいよー」を同時に使用する||
+|妻垣さすらい|攻撃|50|2|2|第一弾|自HPが奇数のとき攻撃+2||
+|橘かげまる|攻撃|35|1|1|第一弾|自HPが奇数のとき攻撃+4||
+|花沢まるん|特殊|20|0|2|第一弾|選択:1ダメージor次ターン攻撃+2||
+|沖原たくみ|特殊|30|0|3|第一弾|次ターン攻撃+2||
+|千咲にと|攻撃|25|2|2|第一弾|次ターン攻撃+1||
+#table_sorter()
+#endregion
+
+&blankimg(ロスバト.jpg,x=256,y=144)
+&image(ロスバト_パック.png,y=250)
+
+#co{編集✏️のズレ防止のため【】を挟んでおります、表示の際に削除をお願い致します。
+【***】&size(18){&underdot(#eee,4px){&space(2)&icon_fa(fa-solid fa-coins)&space(2)バカラ&space(2)}}
+
+【***】&size(18){&underdot(#eee,4px){&space(2)&font(120%){♠}&space(2)ポーカー&space(2)}}
+}
+
+#co{編集✏️のズレ防止のため【】を挟んでおります、表示の際に削除をお願い致します。
+&aname(カクテルバーの名前)
+//
+//▲[[カクテルバーの名前>>#カクテルバーの名前]]でリンクからこのページのカクテルバー項目に飛びます
+//
+*カクテルバーの名前
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　鳥羽咲夜 カクテルバー情報
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+-[[鳥羽 咲夜>>鳥羽　咲夜]]がマスターとしてカクテルを販売する。
+
+【***】商品一覧
+#region(開く,open)
+&icon_fa(fa-solid fa-utensils)&space()= food / &icon_fa(fa-solid fa-martini-glass)&space()= drink / &icon_fa(fa-solid fa-smoking)&space()= relax&co(){ / &icon_fa()&space()= otners}
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#CCCCFE:#666){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+#co{
+【***】限定商品
+#region(開く,open)
+&icon_fa(fa-solid fa-utensils)&space()= food / &icon_fa(fa-solid fa-martini-glass)&space()= drink / &icon_fa(fa-solid fa-smoking)&space()= relax&co(){ / &icon_fa()&space()= otners}
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#CCCCFE:#666){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+【***】メニュー画像
+#region(yyyy/mm/dd タイトル,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}
+}
+#co{編集✏️のズレ防止のため【】を挟んでおります、表示の際に削除をお願い致します。
+&aname(クラブorキャバクラの名前)
+//
+//▲[[クラブ>>#クラブorキャバクラの名前]]でリンクからこのページのクラブ項目に飛びます
+//
+*クラブorキャバクラ名
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　帝レン クラブ情報
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+-[[帝 レン>>帝　レン]]がオーナーとして経営するクラブ。
+//飲食店として新規ページを作成して頂いても問題ありません。
+
+【***】キャスト情報
+#region(一覧,open)
+#table_style(head=#8B0600:#fff)
+|~役職|~名前|~就職日|~備考|h
+|支配人|[[帝　レン]]|yyyy/mm/dd|備考|
+|役職|[[名　前]]|yyyy/mm/dd|備考|
+|役職|[[名　前]]|yyyy/mm/dd|備考|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#endregion
+
+【***】商品一覧
+#region(開く,open)
+&icon_fa(fa-solid fa-utensils)&space()= food / &icon_fa(fa-solid fa-wine-glass)&space()= drink / &icon_fa(fa fa-joint)&space()= relax / &icon_fa(fa fa-gift)&space()= Random&co(){ / &icon_fa()&space()= otners}
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#8B0600:#fff){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+&icon_fa(fa-solid fa-utensils)=food、&icon_fa(fa-solid fa-droplet)=drink、&icon_fa(fa fa-smoking)=relax&co(){、&icon_fa()=otners}
+#endregion
+}
+#co{
+【***】限定商品
+#region(開く,open)
+&icon_fa(fa-solid fa-utensils)&space()= food / &icon_fa(fa-solid fa-wine-glass)&space()= drink / &icon_fa(fa fa-joint)&space()= relax / &icon_fa(fa fa-gift)&space()= Random&co(){ / &icon_fa()&space()= otners}
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#8B0600:#fff){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+【***】メニュー画像
+#region(yyyy/mm/dd タイトル,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}
+}
+*飲食販売
+**商品一覧
+#region(開く,open)
+&icon_fa(fa-solid fa-utensils)&space()= food / &icon_fa(fa-solid fa-glass-water)&space()= drink / &icon_fa(fa-solid fa-spray-can-sparkles)&space()= relax / &icon_fa(fa-solid fa-ribbon)&space()= otners / &icon_fa(fa-solid fa-award)&space()= Special / &icon_fa(fa-solid fa-gift)&space()= Random
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#CCCCFE:#666){No.=center,価格=right,種類=center}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|&icon_fa(fa-solid fa-utensils)|&ruby(Premium Mixed Nuts){高級ミックスナッツ}|3,000|yyyy/mm/dd|　|
+|&icon_fa(fa-solid fa-utensils)|オレンジピールチョコ|5,000|yyyy/mm/dd|　|
+|&icon_fa(fa-solid fa-utensils)|Vertex特製フルーツ盛り合わせ|5,000|yyyy/mm/dd|　|
+|&icon_fa(fa-solid fa-utensils)|&ruby(World's Three Delicacies Special Pintxos){世界三代珍味特製ピンチョス}|10,000|yyyy/mm/dd|　|
+|&icon_fa(fa-solid fa-glass-water)|&ruby(Mineral Water){ミネラルウォーター}|3,000|yyyy/mm/dd|　|
+|&icon_fa(fa-solid fa-glass-water)|プレミアムVビール|3,000|yyyy/mm/dd|　|
+|&icon_fa(fa-solid fa-glass-water)|ノンアルコールカクテル|&small(){各種} 4,000|yyyy/mm/dd|　|
+|&icon_fa(fa-solid fa-glass-water)|&ruby(Vertex Special Red Wine){Vertex特製赤ワイン}|5,000|yyyy/mm/dd|　|
+|&icon_fa(fa-solid fa-glass-water)|&ruby(Champagne Gold V){シャンパンゴールドV}|100,000|yyyy/mm/dd|　|
+|&icon_fa(fa-solid fa-spray-can-sparkles)|お口の恋人（&ruby(Lime Mint Gum){ライムミント味ガム}）|3,000|yyyy/mm/dd|　|
+|&icon_fa(fa-solid fa-spray-can-sparkles)|&ruby(Petit Muguet Perfume){プティミュゲ}（すずらんの香水）|5,000|yyyy/mm/dd|　|
+|&icon_fa(fa-solid fa-spray-can-sparkles)|&ruby(Vertex Rouge Lipstick){Vertexルージュ}（リップ）|5,000|yyyy/mm/dd|　|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+#co{
+【***】限定商品
+#region(開く,open)
+&icon_fa(fa-solid fa-utensils)&space()= food / &icon_fa(fa-solid fa-glass-water)&space()= drink / &icon_fa(fa-solid fa-smoking)&space()= relax&co(){ / &icon_fa()&space()= otners}
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#CCCCFE:#666){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+}
+***メニュー画像
+#region(GRANDE CARTE DES MENUS)&b(){GRANDE CARTE DES MENUS}
+&blankimg(HotelVertex_MENU1.jpeg,x=390,y=210)
+#endregion
+#size(50%){　}
+#region(カジノ3社 GrandOpen記念ケーキ)&b(){カジノ3社 Grand Open記念ケーキ}
+&blankimg(カジノ3社グランドオープン記念.png,x=140,y=210)
+#endregion
+#size(50%){　}
+#region(MENU,open)&b(){MENU}
+&blankimg(HotelVertex_MENU2.jpeg,x=390,y=210)
+#endregion
+#size(50%){　}
+#region(メロンアフタヌーンティー,open)&b(){メロンアフタヌーンティー}
+&blankimg(アフタヌーンティー_メロン.jpeg,x=160,y=210)
+#endregion
+#size(50%){　}
+#region(梅雨フェス商品,open)&b(){梅雨フェス商品}
+&blankimg(イベント商品_梅雨フェス26.jpeg,x=390,y=210)
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}
+
+//編集✏️のズレ防止のため【】を挟んでおります、表示の際に削除をお願い致します。
+//
+//▼[[カクテルバーの名前>>#カクテルバーの名前]]でリンクからこのページのカクテルバー項目に飛びます
+//&aname(カクテルバーの名前)
+//
+**カクテル販売
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　鳥羽咲夜 カクテル情報
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+//-[[鳥羽 咲夜>>鳥羽　咲夜]]がマスターとしてカクテルを販売する。
+***商品一覧
+#region(開く,open)
+&icon_fa(fa-solid fa-utensils)&space()= food / &icon_fa(fa-solid fa-martini-glass)&space()= drink / &icon_fa(fa-solid fa-smoking)&space()= relax&co(){ / &icon_fa()&space()= otners}
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#CCCCFE:#666){種類=center,価格=right}
+|~種類|~画像|~商品名|~価格|~提供開始日|~商品説明|h
+|MIDDLE:&icon_fa(fa-solid fa-martini-glass)|&blankimg(cocktail_260408.png,x=56,y=56)|商品名|価格|提供開始日|説明|
+|MIDDLE:&icon_fa(fa-solid fa-martini-glass)|&blankimg(cocktail_260603.png,x=56,y=56)|商品名|価格|提供開始日|説明|
+|MIDDLE:&icon_fa(fa-solid fa-martini-glass)|&blankimg(cocktail_260626.png,x=56,y=56)|商品名|価格|提供開始日|説明|
+//|MIDDLE:&icon_fa(fa-solid fa-martini-glass)|&blankimg(画像,x=56,y=56)|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+#co{
+【***】限定商品
+#region(開く,open)
+&icon_fa(fa-solid fa-utensils)&space()= food / &icon_fa(fa-solid fa-martini-glass)&space()= drink / &icon_fa(fa-solid fa-smoking)&space()= relax&co(){ / &icon_fa()&space()= otners}
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#CCCCFE:#666){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+【***】メニュー画像
+#region(yyyy/mm/dd タイトル,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion
+}
+#right(){&link_up(🔝ページTOPへ)}
+
+#co{編集✏️のズレ防止のため【】を挟んでおります、表示の際に削除をお願い致します。
+&aname(クラブorキャバクラの名前)
+//
+//▲[[クラブ>>#クラブorキャバクラの名前]]でリンクからこのページのクラブ項目に飛びます
+//
+**クラブorキャバクラ名
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//
+//　　　　　帝レン クラブ情報
+//
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+-[[帝 レン>>帝　レン]]がオーナーとして経営するクラブ。
+//飲食店として新規ページを作成して頂いても問題ありません。
+
+【***】キャスト情報
+#region(一覧,open)
+#table_style(head=#8B0600:#fff)
+|~役職|~名前|~就職日|~備考|h
+|支配人|[[帝　レン]]|yyyy/mm/dd|備考|
+|役職|[[名　前]]|yyyy/mm/dd|備考|
+|役職|[[名　前]]|yyyy/mm/dd|備考|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#endregion
+
+【***】商品一覧
+#region(開く,open)
+&icon_fa(fa-solid fa-utensils)&space()= food / &icon_fa(fa-solid fa-wine-glass)&space()= drink / &icon_fa(fa fa-joint)&space()= relax / &icon_fa(fa fa-gift)&space()= Random&co(){ / &icon_fa()&space()= otners}
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#8B0600:#fff){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+&icon_fa(fa-solid fa-utensils)=food、&icon_fa(fa-solid fa-droplet)=drink、&icon_fa(fa fa-smoking)=relax&co(){、&icon_fa()=otners}
+#endregion
+}
+#co{
+【***】限定商品
+#region(開く,open)
+&icon_fa(fa-solid fa-utensils)&space()= food / &icon_fa(fa-solid fa-wine-glass)&space()= drink / &icon_fa(fa fa-joint)&space()= relax / &icon_fa(fa fa-gift)&space()= Random&co(){ / &icon_fa()&space()= otners}
+#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#8B0600:#fff){No.=center,価格=right}
+|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+【***】メニュー画像
+#region(yyyy/mm/dd タイトル,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}
+}
+*イベント情報
+***GRAND OPENING EVENT
+#region(開く)
+&blankimg(Event_グランドオープン.jpeg,x=250,y=350)
+#endregion
+***キャバクラ スキャンダル
+#region(開く)
+&blankimg(スキャンダル.jpeg,x=250,y=430)
+//キャバクラが今後常設される場合は別途新項目に移動する予定です。
+#endregion
+***夏祭り
+#region(開く,open)
+&blankimg(イベント_260829夏祭り.jpeg,x=250,y=380)
+#endregion
+
+*沿革
+***2026年
+#region(開く,open)
+#table_filter(){エピソード・備考=show}
+#table_style(head=#A194A6:#fff)
+|~日付|~出来事|~エピソード・備考|h
+|01/25|営業許可|[[帝　レン]]らが市長と面談を行い正式にオーナーに任命され、ホテル・カジノの営業権を得る|
+|01/31|カジノ3社会議|今後開催されるイベントや経営に関する擦り合わせを行う。&br()・各カジノが考えたオリジナルゲームは同様のルールで行わない。&br()・カジノ施設の希少性の担保のためカジノ施設以外でギャンブルをする際はイベント告知をしなければいけない。|
+|02/20|テストプレイ|ダイスルーレット・ダイスジャックのテストプレイを開始する。|
+|02/20|運転資金融資|市長よりカジノ用に3000万の融資を受ける。|
+|03/08|飲食店会議|飲食店店長・オーナーが集まる会議に[[帝レン>>帝　レン]]が代表で参加|
+|03/12|ジョブ付与|市長よりカジノ、ホテルのオーナージョブが付与される。|
+|03/12|運転試験融資|市長よりホテル用に2000万の融資を受ける。|
+|03/15|ロスバト販売開始|カードゲーム『ロスバト』の販売を開始する。|
+|03/18|市長面談|カジノ3社の代表者と市長を交えて面談を行った|
+|03/29|オープニングイベント|グランドオープンを記念したイベントを開催|
+|04/01|ロスバト トーナメント戦|優勝賞金100万円 ロスサントスカードバトルのトーナメント開催。参加者限定特典のプロモカードを配布した|
+|04/03|飲食店会議|ホテルの一室を貸し出し、宝探しコラボ・特殊効果・時給等の話し合いを行った|
+|04/11|ロスバトパック販売開始|ロスバトの第一弾パックの販売を開始した|
+|05/01|第一回大人じゃんけん開催|以降不定期でイベントを開催する|
+|05/07|イベント協力|[[Lanima>>ラニマ]]主催 音楽イベント「LANIMA Showcase Vol.1」イベント協力&space(2)パブリックビューイングの会場貸出を行った|
+|05/13|一日限定キャバクラ|キャバクラ「スキャンダル」一日限定開店|
+|06/17|イベント出店|[[acqua ovest]]主催「梅雨フェス」にて飲食出店|
+|07/29|スロットRISING! 導入|[[ライジングサン宗介>ライジングサン　宗介]]と[[LosVegas]]の[[星詠あう>星詠　あう]]の共同開発のスロットRISING!を導入|
+|08/29|主催イベント開催|主催イベント「夏祭り」にて飲食出店|
+
+//|mm/dd|出来事|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

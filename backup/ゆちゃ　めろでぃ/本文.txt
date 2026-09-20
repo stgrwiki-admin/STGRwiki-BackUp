@@ -1,0 +1,981 @@
+&bold(){観測前に&font(16pt,u,#1F79E0){[[観測者の心得]]}をご確認ください。}
+*プロフィール
+#slide_img(auto=4,width=300,height=400){S2_ゆちゃ_01.png,ゆちゃ_01.jpeg,IMG_5969.jpeg,ゆちゃめろ　服装2.png}
+//アス比3:4の画像でしたら差し替え追加調整なしで出来ます
+#table_filter(){Season1=hide,Season2=show}
+#table_color(head=#8d1a4a:#fff)
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|
+|~名前|~&icon_fa(fa fa-user)|>|&bold(){ゆちゃ　めろでぃ}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|7月24日&co(){(&countup(yyyy/mm/dd,y)歳)}|
+|~身長|~&icon_fa(fa fa-male)|>|166cm |
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年7月8日 (&countup(2023/07/08,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)&br()（キャラクターエンディング &small(){2026年7月8日}）|
+|~職業|~&icon_fa(fa fa-university)&br()|[[菖光亭]] 店長 &small(){2023/08/01〜}&br()[[個人医]] &small(){※復職(早番か緊急時) 2025/09/10〜}&br()[[モンプロ>>モンスターハウスプロダクション]]&br()&small(){&openclose2(show=※過去の職業){&nbsp(br,3)[[菖光會]]タクシー運転手 &small(){2023/07/09～2023/08 某日}&nbsp(br,3)[[IRiS]]専属[[個人医]] &small(){2023/08/22～2024/03/19}&nbsp(br,3)[[個人医]]（闇医者）&small(){2023/08/12〜2025/4/30} &nbsp(br,3)ギャング【[[DERAY]]】構成員 &small(){2025/04/30～2025/08/11}&br()}}|&openclose2(show=？？？){：[[闇医者]] Boss}&br()カジノ[[LosVegas>https://w.atwiki.jp/streamergta5/pages/3460.html]]&br()飲食店 [[Mellow Berry]] 店長&openclose2(show=*){&small(){闇医者と複合ジョブ}}&br()&small(){&openclose2(show=※過去の職業){&nbsp(br,3)[[タクシー>https://w.atwiki.jp/streamergta5/pages/3420.html]]運転手 &small(){2025/12/19～2026/06/17}&openclose2(show=*){&small(){闇医者と複合ジョブ}}}}|
+|~レーサー名|~&icon_fa(fa fa-user-tag)|ゆちゃめろ|　|
+|~TwiX|~&icon_fa(fa fa-crow)|@yuchamero|@yuchamero|
+|BGCOLOR(#FAC7C1):COLOR(#666):~プレイヤー|BGCOLOR(#FAC7C1):COLOR(#666):~&icon_fa(fa fa-address-card-o)|>|ゆちゃむ|
+|BGCOLOR(#FAC7C1):COLOR(#666):~告知等|BGCOLOR(#FAC7C1):COLOR(#666):~&icon_fa(fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/yuchamchan0928]]|
+|BGCOLOR(#FAC7C1):COLOR(#666):~配信場所|BGCOLOR(#FAC7C1):COLOR(#666):~&icon_fa(fa fa-video-camera)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yucham_yuchamero]] / &font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UCNiU-U3uRSBLuWDEL2hnOnA]]※&small(){2025/06/18〜同時配信} |
+|BGCOLOR(#FAC7C1):COLOR(#666):~アーカイブ|BGCOLOR(#FAC7C1):COLOR(#666):~&icon_fa(fa fa-film)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yucham_yuchamero]] / &font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UCNiU-U3uRSBLuWDEL2hnOnA]]|
+|BGCOLOR(#FAC7C1):COLOR(#666):~&small(){別キャラクター}|BGCOLOR(#FAC7C1):COLOR(#666):~&icon_fa(fa fa-user-plus)|>|&small(){&openclose2(show=※ネタバレ注意){：[[神楽　結菜]]／[[暦　ゆうみ]]／[[音凪　紬]]}}|
+
+#region(開く,open)閉じる
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://x.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9%E3%82%AB%E3%83%83%E3%83%97%E3%83%AB%E3%82%BA?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラカップルズ</a> <br>アニメイトフェア＆Gratte コラボ♬<br>全国１２店舗のアニメイトにて開催決定✨<a href="https://x.com/hashtag/%E3%82%B0%E3%83%A9%E3%83%83%E3%83%86?src=hash&amp;ref_src=twsrc%5Etfw">#グラッテ</a> <a href="https://t.co/F115f2yArX">https://t.co/F115f2yArX</a><br>アニメイト <a href="https://t.co/kcqsoQboNz">https://t.co/kcqsoQboNz</a> <br><br>▼開催期間 9/5~9/27まで… <a href="https://t.co/hVm3VNpjjz">pic.twitter.com/hVm3VNpjjz</a></p>&mdash; ゆちゃむ🍓🩺 (@yuchamchan0928) <a href="https://x.com/yuchamchan0928/status/2089686661957632360?ref_src=twsrc%5Etfw">August 18, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>}
+#endregion
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**&size(20){&color(#8d1a4a){&size(25){&color(#691C2A){キ}}ャラクターエンディング &icon_fa(fa fa-helicopter)}}
+・自身の交友関係が原因で闇医者組織、顧客を巻き込んだトラブルを起こした責任を取るため、自分一人の命でけじめをつけられないかと雇用主に沙汰を委ねた。自身が闇医者を守るために他者に施してきた記憶の消去処理を、その身に受けるためにヘリで街の外に出された。記憶の抹消後、責任を果たすこととなる。
+・&bold(){最後の願いは部下の命と彼らの闇医者の職を守る事だった。}　
+・・後日発見されたABへの手紙(AB視点より)：&blankimg(ABへの手紙_AB視点.jpg,x=20,y=20)
+
+#region(プレイヤーのポスト)閉じる
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">最後レイド先ゆちゃめろの見たかった世界でよかった☺️<br><br>ロスサントスに来てちょうど今日で3年。<br>とっても楽しかったです。ありがとうございました！<a href="https://x.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a></p>&mdash; ゆちゃむ🍓🩺 (@yuchamchan0928) <a href="https://x.com/yuchamchan0928/status/2074886118089396432?ref_src=twsrc%5Etfw">July 8, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>}
+&openclose2(show=レイド先){：[[捌木　たいたい]]}
+#endregion()
+//エンドはエンドとして記載してください。もし戻ってきたらその旨を記載すればよい
+//プレイヤーさんがエンドとは言ってないよ。と発言しておりました。
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+**&size(20){&color(#8d1a4a){&size(25){&color(#691C2A){基}}本情報 &icon_fa(fa fa-solid fa-book-bookmark)}}
+・日本で看護師をやっていたが、&openclose2(show=とある事情){（弟が亡くなった真相を知る闇医者探し）}で医師を志す。医師免許が日本に比べて取り易いという噂を聞きつけ、ロスサントスへ降り立った。
+・・両親、弟は自分のせいで亡くなったと思っている深い傷を抱えている。
+・ノリと勢いで生きているが仕事中は真面目
+・・事務作業が得意、スタッシュ整理も得意
+・[[マクドナルド]]曰くネジが50本外れた化け物。
+・[[クマ　ゴリラ]]と[[ボイラ　テンガリン]]の高校時代の同級生（ちなみに、ゆちゃめろでぃ自身この街での年齢は非公開であるが、同級生のボイラは1992年生まれである）
+・長く個人医として白黒問わず、人の命を守る仕事に従事していた。
+・優しすぎる性格から、黒に向いていない。[[組織>DERAY]]に仇なした[[友人>上田　さん]]が[[ボス>小峯　玲]]に沈められたことが受け入れられず、ギャングを辞めた過去がある。
+・γ世界線に転送直後からタクシー運転手、本職、カジノ店員、飲食店経営など忙しい毎日を送っている。
+・・ゲラなのにシリアスな組織のボスになってしまった。
+//
+***&color(#8d1a4a){&underdot(#691C2A,2px){Season 1}}
+#region(詳細)閉じる
+・[[菖光會]]ギャルズメンバー
+・[[菖光亭]]店長。
+・・後に開業した、菖光亭2号店 「[[スナックめろでぃ>https://w.atwiki.jp/streamergta5/pages/515.html#id_194673a2]]」も切り盛りする。
+・元々の警察署内で推しは[[ハク　ナツメ]]。餡ブレラに堕ちてしまったため、今の警察の推しは[[青井　らだお]]。
+・・貢ぎ癖があるのか、推しには率先して切符を切ってもらうことで推しへの収入源となっている
+・・上記以外の推しへのアタック方法を考えた結果、物理的なヘリアタックという方法に考え付いてヘリの練習中。
+・[[よすみの　かど]]曰く、クレーマーの真似が上手いらしい
+
+***&color(#8d1a4a){&icon_fa(fa-solid fa-stethoscope fa-xl)} &underdot(#691C2A,2px){Season 1 個人医活動}
+#region(詳細)閉じる
+
+&bold(){【まとめ動画】}&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ゆちゃめろでぃ個人医採用から事件介入禁止まで>>https://youtu.be/nHXCgebxBEo?si=QUY4UQQQMpORnaiB]]
+・1 年 9 ヶ月間 [[個人医]]として活動していた。現役時代は、ヘリでの移動やサポート、情報収集を得意とする立ち回りで長らく街での個人医界隈を支えてきたひとりでもある。
+・・街に来た当初から、闇医者として、師匠[[いわさき　そす]]に従事していた。
+・お抱え制度が発足した後、長らく[[ギャング]] [[IRiS]] の専属個人医として活動していたが、24年3月19日の法改正を機にお抱え個人医としての働き方を見直すことにした。
+・・大型犯罪介入時の接近規定が厳格化したことを受け、より救助中心の活動が出来る様に、組織から離脱して一人で活動することを決める。IRiSボス[[菖蒲　光樹]]を始め幹部組に伝えたところ、快諾、激励の上、送り出してもらい、当時同じくIRiSお抱えで活動していた[[ノア　チェンバー]]とはそれぞれ別の活動方法を歩み始めることとなった。
+・・専用無線番号を立ち上げて、闇医者・白個人医問わず、タスク効率を上げられるように活動方法を模索し始める。当時は大型犯罪のリキャストタイムに合わせて各所電話連絡などをし合って行動していた。また、同時期に各ギャングの横取り介入が始まったことから、各所のお抱え個人医が救助優先度等に苦戦していた中、臨機応変に動きながら救助活動に勤しんだ。
+・24年5月17日お抱え個人医の廃止が決定。
+・・市政からの通達にて各組織を離脱し中立個人医となった面々を無線（119）に招待。餡ブレラお抱えから中立個人医に戻ってきた師いわさきやかつての同期とともに個人医達を牽引し、自身の医療業務ならびに他個人医達の活躍の場を拡げることを目指し本格的な活動を開始。個人医は組織化はしていないものの、救助率の向上・効率化のため、無線での連携を行い、ビジネスアプリでのDC組合への連絡ができるよう手配した。
+・・9月、[[いわさき　そす]]が、完全に個人医を退き、餡ブレラ構成員になる。現行規定の中でのいわさきが尽力してきた活動方法が確立されていたため、それらを後進個人医達で受け継ぐ形でいわさきを送り出すこととなった。
+・25年2月某日、連日勤務する個人医同士において、各自の個人医としての在り方や救助スタンスの違いから話し合いが行われた。しかし各々の持つ方針の擦り合せや一律化は難しいと感じたため、以降は自身が立ち上げた無線を解散、DC組合を撤廃することを市に依頼。
+・・この時期は、各個人と特定組織間による治療拒否に端を発した問題、抗争や物資略奪に伴う人材リソースの不足と通知の往復、意図せずとも行われてしまった個人医による警察への攻撃行為、救助活動に不適切な車両での現場介入etc 個人医周辺では様々な問題が重なった。それにより、対策や責任の所在を明確にすることの難しさに関係者で苦悩することとなる。
+・25年2月11日　市長直属雇用の個人医による、大型犯罪現場への介入全面禁止が通達。
+・・幾名かの闇医者が辞職を決める中、ゆちゃめろでぃ自身は、現時点では、犯罪現場介入を一切しない中立個人医を継続することにした。
+・25年3月7日　個人医が大型犯罪の関連現場で犯人を搬送しようとし、警察の停止命令を拒否する事案が発生。
+・・個人医の中でも当日街に起きていた闇医者出身者が本署に呼び出される。警察側からは今回のことは、（最終的には犯人の逃走幇助まで至らず引き渡しに応じたものの）明確に現場への介入意思があっての行動だと判断されて然るべきと言及される。そのため、個人医側はどのような認識で現場で行動していたのか事実確認をされることとなる。これを受けて、今後、意図せず介入し就業権利を剥奪される偶発的な事故を防ぐためにも、介入に抵触するかどうかのお互いの判断基準を改めて話し合った。
+・・すり合わせが出来た内容と、今後のいくつかの対策案を、個人医達へ共有。また、各ギャング側にも協力依頼として、犯罪真っ最中での救助要請の通知を出来る限り控えてほしいと連絡した。
+・・翌3月8日、[[なのの　なの]]に事態を共有。&br()なのと話す中で、今回現場介入をしてしまった当該個人医に関しては、警察に問題視された回以外に、別の大型現場にも赴いている可能性が浮上。現場介入に重きを置く“逃がし屋”と、医療従事者としての現職“個人医”の違いについて意見を交わした。&br()ゆちゃ自身は、まもなく個人医の職を離れるつもりであるため、残りの期間に個人医として出来ることや各自の要望を叶えるためにどうするべきか思い悩んでいることを打ち明ける。対してなのは、責任の所在や、割り切るべき部分にはキッパリとした意見を持っていた。また、なのからは、現場介入をした当人が多方面への説明責任を果たさず、ゆちゃが代わりに全部やってあげて回ったのは良くなかったと指摘される。&br()なのと色々話す中で、なの自身個人医としての今後の活動方針が明確だったため、それを聞いて安心し少し気持ちが軽くなり話し合いは一旦終えた。
+・3月12日　新市長[[アルフォート　ウェスカー]]により検討されている衛生兵施策&small(){(※便宜上仮名称)} の詳細を知る。
+・・深夜、[[なのの　なの]]からの電話で、何やらお抱え個人医復活関連の政策があるらしいと連絡をもらう。[[ルナ ホークアイ>月渚　雪人]]と３人で、詳細を市役所に確認しに行った。そこで、この度新たに検討されている大型現場への介入ができる専属スキルの詳細説明を受けた。現時点ではまだ始動が確定していないが、その施策を受けて自身が今後どう行動したいか・どのような立ち回りが可能かを今一度考えることとなる。
+・・翌3月13日　衛生兵政策の話を聞いたゆちゃめろでぃは、「衛生兵政策に携わりたい」そして、衛生兵という制度を実用出来る形で残し、「小峯ギャングで衛生兵をやりたい」という意向を持つが、政策開始前に小峯のギャング設立が間に合わない場合、それまでどこかの別のギャングに所属させてもらい、衛生兵を先行してやりたいと意見したことによって、小峯と宗介と改めて話し合いを持つことになる。同期の[[なのの　なの]]に相談した際には、自分の都合でギャングを気軽に行き来するつもりであることを強く言及されてしまう。それをふまえて、いくつかの方針と意向を擦り合わせたものの、市からは、政策始動自体が3月中は開始出来ず、4月または事情によって5月開始になると追加連絡があった。
+・・小峯ギャングへの加入準備をしつつ衛生兵へ携わる方法を模索はしていたものの、設立自体が危うくなってしまう。元々、ギャング設立を促したのがゆちゃめろでぃ自身であったこともあり、責任を感じて衛生兵になることはこだわらないと小峯に伝える。個人医を辞めてギャング加入のため、犯罪をするなどして日々奮闘中。
+・4月30日　小峯をボスとするギャング[[DERAY]]が無事設立。
+・・個人医の職を退き、構成員として組織へ加入する。関係各所へ退職挨拶へ向かい、スナックめろでぃに隣接する自宅クリニックを閉鎖した。（市長ウェスカーにも退職の旨挨拶へむかったが、今日まで衛生兵の施行はされておらず、市政から追加の進捗報告はないままだったので、結論的には衛生兵法案は頓挫してしまったようだ。）
+・[[全人類転送ミッション]]を計画する街の情勢を鑑みて個人医の復職を申し出る。
+・・DERAY脱退後、依願退職だったため個人医には戻らないと決めていたゆちゃめろでぃだったが、襲撃が起こる街の様子をみて、市長に復職を申し出ることにした。とはいうものの、この時期の個人医現行メンバー達からは、不足しているとすれば早い時間帯のみで、それ以外のピーク時は人手は足りているため人員補給は不要と話があった。市長からその旨共有されるが、現職個人医達の営業を妨害しないので、と伝え、検討された結果、9月10日 人手が足りない時にだけ勤務、現個人医達の勤務優先の条件付きで臨時採用が叶う。その後転送当日まで個人医として勤務にあたった。
+
+#endregion(個人医活動)
+***&color(#8d1a4a){&icon_fa(fa-solid fa-user-plus fa-xl)} &underdot(#691C2A,2px){変装}
+#region(詳細)閉じる
+***&font(#8d1a4a){●}‎ &ruby(マツ){松}ダ
+ゆちゃめろでぃが風邪を引き、喉が潰れたときに登場するオカメ面の姿。&br()奇抜な格好をして異様に高い声で話す。
+
+&image(松ダ.png,x=200)
+
+***&font(#8d1a4a){●}‎ &ruby(ホソキ){細木} ゆりえ
+恋愛占いが得意と自称するセクシー系エセ占い師。[[DERAY]]メンバーとつるんで、詐欺占いでボッタクリ行為をしたりする。
+
+&image(細木ゆりえ.png,x=200)
+
+#endregion(変装)
+#endregion
+
+***&color(#8d1a4a){&icon_fa(fa-solid fa-stethoscope fa-xl)} &underdot(#691C2A,2px){Season 2 &openclose2(show=？？？){：[[闇医者]] }}
+#region(詳細)閉じる
+・&bold(){非認可医療組織【[[闇医者]]】のボスBloodBerry (BB)としての裏の顔を持っている。}
+・・市に認可された職業ではないため、闇医者であると露見した場合、最悪街から追放されるかもしれない危険性がある中、裏社会に生きる者の命、部下の命を守るために尽力している。
+//
+#region(日別エピソード)
+-2025/12/19 転送後、市長から個人医全員クビを切られる
+-2025/12/28 かなかな（無馬）から闇医者のボスに任命される
+-2025/12/31 闇医者に新メンバー（マイキ―くん、清十郎）加入を聞く
+-闇医者の説明時、闇医者という存在自体がバレたら国外追放になるということで、自分たちを守る為マイキーくんと銃を手に入れるため各所に探りを入れる。
+-2026/01/01 元個人医メンバーに今後の思いを聞く
+-高橋滅論からの情報提供で武器屋の情報を聞き、つんつんに接触。上司のティエリさんに繋げてもらう
+-2026/01/15 闇医者アジト(と知らず)に張り込んでいたキモセンに、アジトから出るところを発見されてしまい、マイキーくんに助けを求める。マイキーくんが変装し、キモセンを射殺。そのままアジトへ連れて行きキモセンの記憶を消す。そしてキモセンを救急隊裏口に放置し逃走。
+-2026/01/22 アレイさんから連絡があり、アジトに集合。心なき医師団の協力によりアジトで医療道具の購入(BM)が可能となる。メンバーバッジについての説明を受け、配布に関しても注意が必要とのこと。その後、元個人医のメンバーを一人ずつ招集・説明し、闇医者として雇用。
+-2026/02/06 ラルさんへ情報開示
+-徐々に信用できる人に闇医者の存在を明かしている最中、アレイさんより(中型の導入のため)普及についてを急かされる。
+-2026/03/16 滅論から闇医者の拠点を張り込むとの情報を聞き、急遽黒市民たちに手伝ってもらい拠点内の物資を移動させる(ハンタスマ拠点へ)
+-2026/03/17 本アジトとは別の蘇生拠点にスタッシュが追加されていた
+-2026/03/18 海からの救難信号で初の水難救助(キミトス)
+-2026/03/19 滅論、空と闇医者拠点張り込みについて話し、結局張り込みは無しの方向に
+-2026/03/28 久しぶりの起床により、危うく購入した倉庫がBJローンから差し押さえになりそうに。大川さんに現状の相談
+-2026/04/05 かなかなと闇医者の問題点について話す
+-2026/04/08 担ぐことができるのが、JOB依存なのか検証。タクシーJOBなら担いで車に入れることも可能
+#endregion(日別エピソード)
+#endregion(闇医者)
+
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+**&size(20){&color(#8d1a4a){&size(25){&color(#691C2A){関}}わりの深い人物 &icon_fa(fa fa-users)}}
+&small(){※ゆちゃめろでぃ視点のみの情報となっています。　人物・エピソードの追記募集中！}
+//🎵少しづつ埋めていますが、書ききれない部分が多いので、良ければ追記修正、関連CLIPなどもあれば是非記載いただけると嬉しいです！
+//
+***&font(#8d1a4a){●}‎ 個人医関係者
+#region(開く)
+
+**** &underdot(#691C2A,2px){[[闇医者]]}‎
+・&font(b,15px){[[無馬　かな]]}：元[[ALLIN]]お抱え。お抱え個人医制度がまだ確立していない時代から一緒に働いた後輩。後に退職し、ギャングALLINにてアンダーボスとして活動していた。恋バナ大好きお兄さん。2025/05/25に、秘書のねねを連れて街を去った。&br()転送した世界で再会した際には、記憶がなくなっているふりをしていた。事情はよくわからないが、闇医者雇用権限を持っている。雇い主。
+・&font(b,15px){[[Back　Alley]]}：通称アレイさん。謎の人物[[Ｆ>Famos　Gray]]から派遣されたという個人医。普段はあまり街で見ないが、個人医の仕事の際に時々現れる。無馬かなとともに、何やら街の外での黒仕事に深く関わっているようだが、詳細がわからない人物。
+・&font(b,15px){[[犬好　マイキー]]}：体質的に身体が弱い。体を強くする薬や方法を求めて医者になった人物。闇医者組織のダブルボス。
+・&font(b,15px){[[我孫子　清十郎]]}：体質的に身体が弱い。巻き込まれた形で闇医者になった[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]の社長。
+・&font(b,15px){[[ノア　チェンバー]]}：街に来た当初から[[IRiS]]お抱え個人医として働いていた闇医者仲間。師匠いわさきの同期にあたり、現役個人医の中では最古参。カルテル勤務もしており薬関係も携わっている。
+・&font(b,15px){[[マイゴ・ニ＝ナリエル]]}：闇医者出身で元[[ALLIN]]お抱え。法改正の際に個人医を離職し、ギャング構成員と活動していたが、所属ギャングALLINの解散に伴い、医者へ復職した。
+・&font(b,15px){[[加藤　圧]]}：カルテル[[DEP]]のオーナー。元副業個人医。個人医時代は、加藤のカルテルで、クスリ精製アルバイトとして働かせてもらったこともある。現在加藤は、個人医を退職、引き続き黒市民のためのインフラ業に勤しんでいるとか。闇医者として復職。ブラックビジネスの先輩。
+・&font(b,15px){[[ティキーチック　のすけ]]}：元MOZUの構成員。ゆちゃが闇医者にスカウトした。右腕のような存在になっている。
+・・ゆちゃがたいたいを溶鉱炉に沈めた後、彼に自身の処理を頼んだが、罪を抱えて生きるように引き留められた。身辺整理で車両のほどんどを彼に託した。手紙を残した数少ない人物。
+
+**** &underdot(#691C2A,2px){[[元個人医同僚>個人医]]}‎
+・&font(b,15px){[[トナカイ>タシロ　カワセ]]}：元救急隊出身であり、闇医者として元ALLINお抱え個人医を経て構成員経験ありという異色の経歴をもつ。現在はカルテル従業員。
+・&font(b,15px){[[葛城　司]]}：街で過ごす中で、闇医者ではなく中立の個人医を貫いて勤務を続ける白市民。裁判官であるが故に法の穴を利用して、黒界隈の情報を警察に売る事はあるが、自身は犯罪行為を行わない。転送後の街では[[ロスサントス救急救命隊]]の隊員。
+・&font(b,15px){[[はが　かける]]}：白市民の個人医。[[RitUal:]](魔法少女カフェ)にて勤務していたりレースをしたりするため、葛城の後輩にあたる。転送後の街では[[ロスサントス救急救命隊]]の隊員。
+・&font(b,15px){[[猫又　ぴぴ]]}：旧U FOR Uの店員、転送前の街にて個人医に就職した際には、医療業務や勤務方法について何かと教えていた。ペティパティが街からいなくなった際に、自分はいなくならないと約束した。
+・&font(b,15px){[[猪狩　翔太]]}：ギャング[[IRiS]]の元秘匿構成員。[[SKE>菖光エンジニア]]社長でメカニックと個人医を兼任していた。
+・&font(b,15px){[[なのの　なの]]}：闇医者同期。元[[MOZU]]お抱え。よく似た立場と経歴だったため、いわさき一派の弟子として苦楽を共に過ごして来た間柄。個人医の仕事を大切にしたいと言い、出来る限り現役で勤めたいと言っている。
+・&font(b,15px){[[春春>宗像　宗三郎]]}：元ギャング構成員、偽名で活動している闇医者。春春の救助スキルや医療従事者としての想いは認めつつも、個人医としての考えや言動方針は相容れず、距離を置いた相手。※春春は[[MOZU]]と確執があるため、原則MOZU関係者への治療は関与しない。
+・&font(b,15px){[[スコティッシュ・ホールド]]}：元猫、現在人間の女の子に進化した元気で明るい後輩。元個人医。衛生兵政策に向けてGBCへ加入し、構成員として活動していた。
+・&font(b,15px){[[星ノ　みこ]]}：半グレ出身の個人医。[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]の従業員かつ、海上レストランの店員。闇医者から卒業した。
+#endregion(個人医)
+//
+***&font(#8d1a4a){●}‎ 黒市民
+#region(開く)
+
+・&font(b,15px){[[いわさき　そす]]}：元闇医者で、元[[餡ブレラ]]構成員。ゆちゃめろでぃにとってお世話になった師匠であり頼れる先輩。現行の個人医制度の基盤を作り、長きに渡り個人医達を牽引してきた存在。現役を退いた今もなお、後進の個人医達のことを心配し、気にかけてくれる。面倒見が良く、男気あふれる人物。
+・&font(b,15px){[[オザワ　ハヤマサ]]}：[[餡ブレラ]]構成員。IRiS在籍当時から一緒に切磋琢磨し合ったヘリ乗り。2025/06/13 所属する餡ブレラのBossウェスカーとともに街を離れたがγ世界線で戻って来た。
+・&font(b,15px){[[稲葉　ゴン]]}：[[餡ブレラ]]構成員。2025/06/13 所属する餡ブレラのBossウェスカーとともに街を離れたがγ世界線で戻って来た。
+・&font(b,15px){[[クマ　ゴリラ]]}：[[餡ブレラ]]構成員で、高校時代の同級生。2025/06/13 所属する餡ブレラのBossウェスカーとともに街を離れたがγ世界線で戻って来た。
+・&font(b,15px){[[小峯　玲]]}：DERAYのボス。街の転入同期で元IRiS構成員。街に来たときに、小峯の計らいで個人医として活動を始めた経緯がある。
+・・腐れ縁の友人小峯にギャングを立てさせ、構成員になったが、痴話げんかのような口論が増え、最終的に友人を沈めたことが受け入れられず脱退した。それ以降も頼りにしているが、意見の食い違いをすり合わせようとするともっとこじれ、互いに諦めてしまう事が多々ある。とにかく相性が悪く、互いに思っていることが伝わらない。
+・&font(b,15px){[[アドミゲス・ハン]]}：元IRiS構成員、[[hantasma]]のボス。ハンハン。
+・・最終日、警察から逃がすために誘拐してくれた。最後に話した友人。「大丈夫だよ、ありがとね」
+・&font(b,15px){[[シュガー　ピーチ]]}：[[hantasma]]構成員。菖光亭でダブル店長として一緒に働いていた。
+・&font(b,15px){[[柳瀬　つん]]}：通称ザウルス。元IRiS構成員、かつ元個人医。街では常に恐竜の姿で過ごし、何でもそつなくこなす有能な後輩。この世の「カワイイ」と「カッコイイ」の言葉が全部自分に向けられていると思っているくらい自己肯定感爆高恐竜。
+・&font(b,15px){[[柳田　ライアン]]}：DERAYの構成員。MOZU出身の元個人医。全身タトゥーで厳つい風貌ではあるが、その人柄は最年長にも関わらずお茶目で時々ポンコツ、親しみやすいゲラ気質。個人医経験者。
+・&font(b,15px){[[霜月　ろっぷ]]}：市長から預けられたため何故かひょんなことからアドミゲスの娘となった女の子。個人医に就業した際に、医療業務や勤務方法を教えたためその後ゆちゃの娘となった。
+・&font(b,15px){[[科場　諸朋]]}：ペティパティのお兄ちゃん
+・&font(b,15px){[[マクドナルド>ライトスターボーイ]]}：GBCのボスであり元配偶者
+・&font(b,15px){[[ヴァン　ダーマー]]}：元MOZUのボス
+・&font(b,15px){[[タラ　ちゃん]]}：麻陀羅組の組長。気の置けない友人。互いに言いたい放題である。
+・&font(b,15px){[[ケイン／オー]]}：868のロボット。小型犯罪の先生。868の限界大型にも連れて行ってくれた（個人医のみらしい）。
+・&font(b,15px){[[ライジングサン　宗介]]}：DERAY設立メンバーのひとり。ポジティブで明るいムードメーカー。個人ではテレクラ事業を展開しているほど多彩。現在は上田達と同行しているようだ。
+・&font(b,15px){[[ルナホークアイ]]}：[[868]]構成員。元個人医仲間で868の闇バイト仲間でもあった。DERAY結成前にも小峯繋がりで一緒に犯罪をしていた。鷹と称しているがもっと昔は人間だったような…。世界線の移動後、闇医者バッジを紛失した上に闇医者に対して舐めた態度をとってきた。
+
+#endregion(黒市民)
+//
+***&font(#8d1a4a){● [[元IRiS>IRiS]]}‎
+#region(開く)
+
+・&font(b,15px){[[菖蒲　光樹]]}：菖光亭を含む菖光グループのオーナーであり、街に来た当初からお世話になった人物。元BOSS。
+
+#endregion(IRiS)
+//
+***&font(#8d1a4a){●} [[菖光亭]]
+#region(開く)
+
+・&font(b,15px){[[小豆　最中]]}：平成ギャルもなぴ
+
+#endregion(菖光亭)
+//
+***&font(#8d1a4a){●} 推し
+#region(開く)
+
+・&font(b,15px){[[青井　らだお]]}：ヘリの操縦に長けているロスサントスの警察官。青井に逮捕されたら推し活になる。
+
+#endregion(推し)
+//
+//
+***&font(#8d1a4a){●}‎ 公務員
+#region(開く)
+・&font(b,15px){[[よすみの　かど]]}：日本からの友達。副業警察官。
+・&font(b,15px){[[ボイラ　テンガリン]]}：高校時代の同級生。警察官。
+・&font(b,15px){[[ブラック　ジャックス]]}：婚約者（？）連帯保証人になってあげている。救急隊。
+・&font(b,15px){[[ブロッコリー　斎藤]]}：婚約者（？）連帯保証人になってあげている。警察官。
+
+#endregion(白市民)
+//
+***&font(#8d1a4a){●}‎ 白市民
+#region(開く)
+-&font(b,15px){[[捌木たいたい>捌木　たいたい]]}：捌木の初日、リサセンに居たのを不憫に思い街案内に連れ出した事をきっかけに、度々街での事や進路相談をされていた。狼合コン企画にて(友人という名目で)カップル成立。その後仲を深めており周囲からは常に一緒にいると思われている。本人たちは仲のいい友達。バ友（バイト友達）と言っている。警察志望の白市民。&br()闇医者である事がバレてしまった為自らの手で溶鉱炉に沈め、記憶の改ざん手術を行った。
+#region(エピソード)閉じる
+- 捌木の初日にリサセンで出会うS1:430
+-なぜか捌木には自分が黒市民であることを隠したいと思っていた。しかし捌木が救急隊体験中に牢屋で鉢合わせし、黒市民であることがバレてしまう。S1:464
+-狼合コン企画で、友人という名目ながらカップル成立。S1:499
+- れりあから「ゆちゃたいはありますか？」と聞かれ、「あるかもね。」と答えていたことを知る。S1:501 
+-鉄骨渡りではお姫様抱っこをして渡ってくれた。S1:514
+-「私は誰かの一番にはなれない」と話した際「ゆちゃさんは一位。一位たいです。」と告げられる。
+- ピエロ襲来、最後の決戦の日。すべてを投げ出して会いに向かったが、会えないまま転送されてしまった。S1:516
+-デスマウンテンで一緒に年越し。S2:4
+- 毎日のように一緒にバイトをし、会わない日はなかった。
+-捌木といる時だけは手袋を外していた。
+-窓拭きバイトでは、必ず助手席に乗りたいと思っているが、たまに取られてしまうこともある。
+-度重なるノンデリ発言や推し活をする姿を見て、もやもやしたり怒ったりすることもあった。しかし、その後は必ず連絡が来るため、結局許してしまう。
+- 同じマンションに引っ越す。S2:17
+-自分で集めた素材を満杯にした軽トラを誤って売ってしまった際、「あなたが悪い」と言われる。しかし、その後、素材をいっぱいに積んだ軽トラをプレゼントしてくれた。
+- 二人の行きつけは「わんも〜cafe」。いつものメニューはコーヒーフロートと犬プリン（いちご味）。
+-度々「悪いことはしないでくださいね。」と言われ、その言葉に心が痛み距離を経とうとするものの、必ず向こうから連絡が来る。
+-闇医者の仕事が忙しかったり、何かトラブルがあった後に会うと、「元気ないね？疲れてる？」と気づいてくれる。「ゆちゃさん最近元気なかったから、僕がアツい男になるぜ！太陽になりましょう！」と言ってくれた。S2:58ほか
+- 電気工事の移動中突然「月が綺麗ですね。」「満月より三日月が好きだな。」と言われ戸惑い、こみ蔵やれりあに相談する。しかし、その後の捌木との会話から、「やっぱりただ月が好きな人なのかもしれない」と思うことにした。S2:95〜96
+-「たいたいに彼女ができたらどうするの？」と聞かれた際、「彼が幸せならそれでいい。ただ、一緒に遊べなくなるのは寂しい。」と答えている。S2:80
+-Mellow Berryのメニューの一つ♥陽月ソーダは捌木をイメージしたドリンク。※夜生を照らす英並の月明かりを表現したドリンク。優しい甘さと明るい色合いが、心をほっと温めてくれます。明かりのように優しく輝く甘談っぱい
+-捌木とのデート服は2着。服に無頓着な捌木だが、遊園地でのダブルデートの際の黄色のブーツは「黄色いんですね。」と褒めてくれた。S2:44日
+-「仲良くしなきゃいいと思っていたけど、どうしても離れられなかった。これは恋なの？」とえるなに相談すると、「恋だよ。初恋だね。」と言われ、「そうなんだ。」と初めて自分の気持ちが恋だと自覚した。S2:113
+- 歪みで消せなかった指名手配を見られ、身辺を調査される。（後日こみ蔵から聞かされた。S2:117）
+-BBとして活動中に尾行されていることに気付き、逆に捕まえた。正体を明かして、ゆちゃとしてすべてを話し、「命を懸けて守る、この世で一番大切」と告白されるが、黒社会から足を洗うよう更生を促してきた。警察よりも闇医者の情報を握られており、黒側に取り込むこともできず、通報しようとしたため、自らの手で溶鉱炉に沈めた。S2:116
+-捌木の携帯を押収する際捌木のポケットにゆちゃめろの誕生石ルビーの指輪が入っていた事に気づく。捌木が指輪を誰かに買っている事は以前こみ蔵から聞かされていた。S2:8、S2116
+-「ごめんね。今更一番とか言うんだよ…」
+-岐阜野こみ蔵の導きで、病院に入院している事を確認。雇用主との話合いの末に、病院から本拠点へ連れ去る。黒市民の精鋭部隊の協力の元、北拠点へ移送、隔離した。翌日、目覚めた彼の記憶を確認。闇医者についての記憶はなかったが、ゆちゃの記憶が残っていたため、記憶をなくす処置を行い解放した。「きれいさっぱり忘れてください。今までたくさんありがと」S2:118
+-こみ蔵と話際「そんなあいつが好きだったんでしょ？」と問われ「うん。」と答えるS2:117
+-れりあと話した際「命をかけてくれた。」「離れる選択げ取れなかったのは好きだったからじゃないかな。」と話す。S2:118
+-ゆちゃ自身も彼の事は忘れていることにした。2度目の初めましての際、仲良くしなくていいというつもりで、「今日で街を去る」と話した。S2:120
+
+━プレゼントした物━
+-🛵Shinobi（小峯スポンサー）S1:434
+-誕生日イラスト（アプリコット作）S1:503
+-ゆちゃめろお守り S1:516
+-45万（クリスマス）
+-着メロ（罰下り作）
+-ZR350（須藤カスタム）
+-タイガのマフィン（バレンタイン）
+-Sultan（捌木1周年:須藤カスタム1）
+━プレゼントされた物━
+-？？？？（転送前最後の日何か渡すつもりだったが電気パルスの影響で消し飛んだと言われた。）
+-ピンクのBlista歪みで使えず
+-Y.Melodyナンバーのバイク歪みでもらえず
+-ピンクのKarin Dilettante DX（合同出資）
+-ピンクの軽トラ（メタスク1355・カッパー160・アイアン719・ラバー420・プラ803・鍵・パンツ7種）
+-涙を拭いてくださいと渡された豹柄パンツ
+-花束、acqua ovestのマカロン（ホワイトデー）
+
+#endregion(エピソード)
+//
+//事実ベースで記載すること。他の部分と形式を合わせて冗長にならないように記入してください。
+-&font(b,15px){[[岐阜野　こみ蔵]]}：[[LosVegas]]のオーナー。捌木の親友。恋バナ友達。顔採用でLosVegasに採用してくれた。
+--捌木と何かあった事を知っていたがこみ蔵は漏らさないと信用している。
+--街を去る直前に[[Mellow Berry]]と捌木との思い出や、その他自身の荷物、こみ蔵宛、ももみ宛、捌木宛の手紙を詰めたピンクの軽トラを託した。
+#endregion(白市民)
+//
+***&font(#8d1a4a){●}‎ 街を去った市民
+#region(開く)
+・&font(b,15px){[[鬼野　ねね]]}：元[[菖光亭]]スタッフ。[[無馬　かな]]に忠義を尽くして仕事をする良き友人のひとり。無馬と鬼野の個人医就職にも協力した。身元を隠していた二人をサポートしながら、一時期は Dr.BONGORE（無馬）/ Dr.BIANCO（鬼野）/ Dr.PASTA（ゆちゃ）の３人組で活動していたことがある。2025/05/25、無馬に連れ立って一緒に街を去った
+・&font(b,15px){[[羽山　ペティ]]}：[[SKE>菖光エンジニア]]メカニックの看板娘で、白個人医のため、犯罪現場など危険な場所には介入しない。当初はパティの姉として知り合ったが、今では娘のようでありつつ、関係良好な友人でもある。
+・&font(b,15px){[[羽山　パティ]]}：元IRiS構成員、かつ元個人医で現在は[[餡ブレラ]]の構成員。何事にも物怖じせず、自分の意見をストレートに言い、常に“楽しいこと”を大切にしている元気で明るい女の子。
+#endregion
+//
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+**&size(20){&color(#8d1a4a){&size(25){&color(#691C2A){衣}}装倉庫 &icon_fa(fa fa-shopping-bag)}}
+&small(){※正面からの全身画像を大募集しています！クローゼット名編集、追加・差し替え大歓迎です！}
+//9:16のアスペクト比率の画像で一旦テンプレート作成中ですが、ご用意いただいた画像に合わせて横幅は適宜調整ください。
+//
+***&font(23px,#D5848C){&icon_fa(fa-solid fa-person-dress)}&space()普段着
+#region(開く,close)閉じる
+#center(){
+|&blankimg(服01.jpeg,x=135,y=240)|&blankimg(編み掛けニット.png,x=135,y=240)|&blankimg(黒トップス.png,x=135,y=240)|
+|個人医|白ニット|黒トップス|
+}
+#endregion
+//
+***&font(23px,#D5848C){&icon_fa(fa-solid fa-people-arrows)}&space()変装
+#region(開く,close)閉じる
+#center(){
+|&blankimg(細木ゆりえ全身.jpeg,x=135,y=240)|
+|細木ゆりえ|
+}
+#endregion
+//
+#co{テンプレ
+//***&font(23px,#D5848C){&icon_fa(fa-solid fa-person-dress)}&space()●●用
+#region(開く,open)閉じる
+//#center(){
+//|&blankimg(画像.jpeg,x=135,y=240)|&blankimg(画像.jpeg,x=135,y=240)|
+//|服名|服名|
+//}
+#endregion(●●用ここまで)
+}
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+**&size(20){&color(#8d1a4a){&size(25){&color(#691C2A){エ}}ピソード &icon_fa(fa fa-calendar)}}
+//
+&include(ゆちゃ　めろでぃ/S1エピソード)
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+//
+***&font(#8d1a4a){&icon_fa(fa fa-calendar)&nbsp()Season2}
+***2025年
+//
+#region(12月,close)&bold(){12月}
+****12/19 [[#ストグラSeason2 開始！...繋がらなかった電話 ゆちゃめろでぃ1日目>>https://www.youtube.com/live/8Yg84g0v5ls?si=ccpInEpyFOYtwaRG]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****12/24 [[クリスマスイブ ゆちゃめろでぃ2日目>>https://www.youtube.com/live/NFTMm_oaDR0?si=_XRXXFcOb64W-c7G]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****12/28 [[この街でしたいこと ゆちゃめろでぃ3日目>>https://www.youtube.com/live/GAwXKfdlrSk?si=T5cJhDJ-pz4B3VMm]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****12/31 [[闇医者始動?! ゆちゃめろでぃ4日目>>https://www.youtube.com/live/N1DXkwhDaZY?si=G95ZFDqSvG0oU65K]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+#co(){
+//****mm/dd [[タイトル>>URL]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+}
+//
+#endregion(12月)
+//
+***2026年
+//
+#region(1月,close)&bold(){1月}
+//
+****01/01 [[信用できる人 ゆちゃめろでぃ5日目>>https://www.youtube.com/live/u5CBeOuNpgQ?si=u04fcGaOhi0XZuFi]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/02 [[連絡 ゆちゃめろでぃ6日目>>https://www.youtube.com/live/6SULaeUgKbY?si=JnJo3YAWBuq7VjH9]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/03 [[情報収集ゆちゃめろでぃ7日目>>https://www.youtube.com/live/OqUUeGP-eto?si=SY_1ds7d0orIYyC4]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/04 [[新情報 ゆちゃめろでぃ8日目>>https://www.youtube.com/live/b6nes1pOesE?si=uUd4fCu8rUGv0v7g]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/09 [[おねむ ゆちゃめろでぃ9日目>>https://www.youtube.com/live/qfNgkHDcTZY?si=fZGiSCi2e_e32eG-]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/10 &icon_fa(fa fa-bell-slash) 衛星外
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+****01/11 [[昨日は衛星外 ゆちゃめろでぃ10日目>>https://www.youtube.com/live/lfw7HB3ohIs?si=Q6oWbp294Ff70Cjh]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/14 [[あまりに寒いね ゆちゃめろでぃ11日目>>https://www.youtube.com/live/2CMU6srXZIk?si=Ip6EhJwG3AYJDH3c]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/15 [[覚悟 ゆちゃめろでぃ12日目>>https://www.youtube.com/live/L7Z5cmwWlXM?si=v18KGsbvdaSPeEyy]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/16 [[罪悪感 ゆちゃめろでぃ13日目>>https://www.youtube.com/live/Ig0Nz2G1tvE?si=WaFPoBuBn1HaHef8]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/17 [[この気持ち ゆちゃめろでぃ14日目>>https://www.youtube.com/live/9_ve7N5ooPA?si=zBKQMWtJSJeQvi0s]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/18 [[気付いた人がいる！ゆちゃめろでぃ15日目>>https://www.youtube.com/live/J_nP4FsWyHE?si=bRI5D6YRWwiTcZ1w]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/21 [[世間は狭い ゆちゃめろでぃ16日目>>https://www.youtube.com/live/zPbyXVTfLWU?si=FWHxhOb6BMXzWUqh]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/22 [[考えること覚えること ゆちゃめろでぃ17日目>>https://www.youtube.com/live/j7yHTak_0l0?si=FFserrayRJkUO55m]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/23 [[増えたね ゆちゃめろでぃ18日目>>https://www.youtube.com/live/vw9MHqrQCEE?si=Iz0AkAFRNpMwfgp-]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/24 [[鍵欲しいなぁ ゆちゃめろでぃ19日目>>https://www.youtube.com/live/tARmU6t8eR8?si=aDdSD_IdmGyCXjoa]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/25 [[今日こそ鍵！ ゆちゃめろでぃ20日目>>https://www.youtube.com/live/us2N6KK2eMA?si=L7XKXa8RCUzYO1aU]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+****01/28 [[リアル風邪 ゆちゃめろでぃ21日目>>https://www.youtube.com/live/YwqSW7TsSoU?si=vSwsa6E8QNVT0C9B]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+
+#endregion(1月)
+//
+#region(2月,open)&bold(){2月}
+//
+****02/06 [[声直ってないけど！ ゆちゃめろでぃ22日目>>https://www.youtube.com/live/EfuBFyFJ8oY?si=5FrRYWCI109NcEBe]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+#endregion(2月)
+//
+#co(){
+
+#region(3月,close)&bold(){3月}
+//
+//****mm/dd [[タイトル>>URL]]
+#region(開く,close)閉じる
+-エピソードを記述
+#endregion
+//
+#endregion(3月)
+}
+
+**&size(20){&color(#8d1a4a){&size(25){&color(#691C2A){ア}}ーカイブ &icon_fa(fa fa-film)}}
+&font(#6441A4){&icon_fa(fa fa-twitch)} 配信アーカイブは twitch でご覧いただけます。
+&font(#c53d43){&icon_fa(fa fa-youtube-play)} 過去のアーカイブは [[YouTube 再生リスト>>https://youtube.com/playlist?list=PLfKYLDDknv06d-R-iAjU5Bhu8tbQGsBoP&si=WVCfUGcEnr6nbUu5]]にて順次公開されています。▷[[Season1の再生リスト>>https://youtube.com/playlist?list=PLfKYLDDknv07R3u2PpJh7VKWROeIPHV-0&si=W97i7ScscweujCaH]]
+//
+&include(ゆちゃ　めろでぃ/S1アーカイブ)
+//
+***&font(#8d1a4a){&icon_fa(fa fa-film)&nbsp()Season2}
+***2025年
+#region(12月,close)&b(){12月}
+#areaedit
+#table_style(head=center:#8d1a4a:#fff){配信日=center,#=center}
+|~配信日|~#|~アーカイブタイトル|~備考|h
+|12/19|1|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[#ストグラSeason2 開始！...繋がらなかった電話 ゆちゃめろでぃ1日目>>https://www.youtube.com/live/8Yg84g0v5ls?si=tfzydiJkGh3dlPx5]]||
+|12/24|2|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[クリスマスイブ ゆちゃめろでぃ2日目>>https://www.youtube.com/live/NFTMm_oaDR0?si=GZCdWh64KGNsXUOG]]||
+|12/28|3|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[この街でしたいこと ゆちゃめろでぃ3日目>>https://www.youtube.com/live/GAwXKfdlrSk?si=T5cJhDJ-pz4B3VMm]]||
+|12/31|4|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[闇医者始動?! ゆちゃめろでぃ4日目>>https://www.youtube.com/live/N1DXkwhDaZY?si=R4-Dzc5Ogyld0RNp]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+#endregion(12月)
+//
+***2026年
+#region(1月,close)&b(){1月}
+#areaedit
+#table_style(head=center:#8d1a4a:#fff){配信日=center,#=center}
+|~配信日|~#|~アーカイブタイトル|~備考|h
+|01/01|5|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[信用できる人 ゆちゃめろでぃ5日目>>https://www.youtube.com/live/u5CBeOuNpgQ?si=E2WIJFqMe-EqSd58]]||
+|01/02|6|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[連絡 ゆちゃめろでぃ6日目>>https://www.youtube.com/live/6SULaeUgKbY?si=JnJo3YAWBuq7VjH9]]||
+|01/03|7|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[情報収集ゆちゃめろでぃ7日目>>https://www.youtube.com/live/OqUUeGP-eto?si=SY_1ds7d0orIYyC4]]||
+|01/04|8|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[新情報 ゆちゃめろでぃ8日目>>https://www.youtube.com/live/b6nes1pOesE?si=uUd4fCu8rUGv0v7g]]||
+|01/09|9|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[おねむ ゆちゃめろでぃ9日目>>https://www.youtube.com/live/qfNgkHDcTZY?si=fZGiSCi2e_e32eG-]]||
+|01/11|10|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[昨日は衛星外 ゆちゃめろでぃ10日目>>https://www.youtube.com/live/lfw7HB3ohIs?si=YsiYR6GLvUF-uU4-]]||
+|01/14|11|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[あまりに寒いね ゆちゃめろでぃ11日目>>https://www.youtube.com/live/2CMU6srXZIk?si=Ip6EhJwG3AYJDH3c]]||
+|01/15|12|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[覚悟 ゆちゃめろでぃ12日目>>https://www.youtube.com/live/L7Z5cmwWlXM?si=v18KGsbvdaSPeEyy]]||
+|01/16|13|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[罪悪感 ゆちゃめろでぃ13日目>>https://www.youtube.com/live/Ig0Nz2G1tvE?si=WaFPoBuBn1HaHef8]]||
+|01/17|14|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[この気持ち ゆちゃめろでぃ14日目>>https://www.youtube.com/live/9_ve7N5ooPA?si=zBKQMWtJSJeQvi0s]]||
+|01/18|15|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[気付いた人がいる！ゆちゃめろでぃ15日目>>https://www.youtube.com/live/J_nP4FsWyHE?si=vieKaIrL9mfaLJtX]]||
+|01/21|16|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[世間は狭い ゆちゃめろでぃ16日目>>https://www.youtube.com/live/zPbyXVTfLWU?si=Sxy-i7CB4ZESmr9X]]||
+|01/22|17|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[考えること覚えること ゆちゃめろでぃ17日目>>https://www.youtube.com/live/j7yHTak_0l0?si=rsWXTJ4yTd9H_8_Z]]||
+|01/23|18|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[増えたね ゆちゃめろでぃ18日目>>https://www.youtube.com/live/vw9MHqrQCEE?si=hZnZH9M6swEY2qMc]]||
+|01/24|19|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[鍵欲しいなぁ ゆちゃめろでぃ19日目>>https://www.youtube.com/live/tARmU6t8eR8?si=JWGti0bu9ac0VXqP]]||
+|01/25|20|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[今日こそ鍵！ ゆちゃめろでぃ20日目>>https://www.youtube.com/live/us2N6KK2eMA?si=hU6-uZEfIiA7hfdY]]||
+|01/28|21|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[リアル風邪 ゆちゃめろでぃ21日目>>https://www.youtube.com/live/YwqSW7TsSoU?si=Q9ljOiey_5RZW5OM]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+
+#endregion(1月)
+//
+#region(2月)&b(){2月}
+#areaedit
+#table_style(head=center:#8d1a4a:#fff){配信日=center,#=center}
+|~配信日|~#|~アーカイブタイトル|~備考|h
+|02/06|22|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[声直ってないけど！ ゆちゃめろでぃ22日目>>https://www.youtube.com/live/EfuBFyFJ8oY?si=v1NmUwioxeyYqJ-l]]||
+|02/12|23|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[気持ち切り替え！！ゆちゃめろでぃ23日目>>https://www.youtube.com/live/HgAtPytadYg?si=TvzVdluvwUl3pdOI]]||
+|02/13|24|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[不動産みたい！ゆちゃめろでぃ24日目>>https://www.youtube.com/live/DvZIGmHH_ZY?si=e_8sOSiaB2Mp_I9q]]||
+|02/14|25|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ハッピーバレンタイン ゆちゃめろでぃ25日目>>https://www.youtube.com/live/AmlBkvZ5rh8?si=783A6U5YQ99BQwAt]]||
+|02/15|26|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[Wデートを企画しよう ゆちゃめろでぃ26日目>>https://www.youtube.com/live/gFnFtCjPYbA?si=ygIkV4hKAMoCX6ce]]||
+|02/18|27|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[お寝坊さん ゆちゃめろでぃ27日目>>https://www.youtube.com/live/e4kKnhvoQQM?si=N9pMSbHknJRjXYgg]]||
+|02/19|28|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[お話できるかな ゆちゃめろでぃ28日目>>https://www.youtube.com/live/8CNaU5Nw7GY?si=loQErzkqoWEyffpX]]||
+|02/20|29|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[気合だ ゆちゃめろでぃ29日目>>https://www.youtube.com/live/g7mGWRCy8KY?si=sz_rZK_1jJ20ziXe]]||
+|02/21|30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[やれるかなぁ ゆちゃめろでぃ30日目>>https://www.youtube.com/watch?v=7tDMU24aEGY]],[[Part2>>https://www.youtube.com/watch?v=O2tNReQDqv0]]| |
+|02/22|31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[楽しかったね　ゆちゃめろでぃ31日目>>https://www.youtube.com/watch?v=k-Ny-2ocNSo]]| |
+|02/25|32|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[エアコンのリモコンないなった　ゆちゃめろでぃ32日目>>https://www.youtube.com/watch?v=g0fuCFQW29U]]| |
+|02/26|33|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[暦ゆうみ1日目  ここはどこ？→ ゆちゃめろでぃ33日目ほんまに感謝、、>>https://www.youtube.com/watch?v=qKhBoxjocsM]]| |
+|02/27|34|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ゆちゃめろでぃ34日目下準備！>>https://www.youtube.com/watch?v=nOqjRpTWQlE]]| |
+|02/28|35|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ゆちゃめろでぃ35日目 昨日できなかった準備！>>https://www.youtube.com/watch?v=2goMrLv9sCQ]]| |
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+
+#endregion(2月)
+//
+#region(3月)&b(){3月}
+#areaedit
+#table_style(head=center:#8d1a4a:#fff){配信日=center,#=center}
+|~配信日|~#|~アーカイブタイトル|~備考|h
+|03/01|36|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ゆちゃめろでぃ36日目 モンプロ会議と練習と>>https://www.youtube.com/watch?v=hbrHBi0d47k]]| |
+|03/04|37|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ゆちゃめろでぃ37日目寝てました>>https://www.youtube.com/watch?v=Y8l-Cw8vGi4]]| |
+|03/05|38|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ゆちゃめろでぃ38日目なやまぁ>>https://www.youtube.com/watch?v=hmY7PIDwQno]]| |
+|03/06|39|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ゆちゃめろでぃ39日目　いつのまにか寝てた>>https://www.youtube.com/live/F5DmuPeuZLM]]||
+|03/07|40|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ゆちゃめろでぃ40日目 最近いそがしいねぇ>>https://www.youtube.com/watch?v=zZBoo2SWljg]]| |
+|03/08|41|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ハニトラ実施だぁ！ゆちゃめろでぃ41日目>>https://www.youtube.com/watch?v=Eu7Jf52IK54]]| |
+|03/11|42|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[約束ゆちゃめろでぃ42日目>>https://www.youtube.com/watch?v=XmJnjKz3z_U]]| |
+|03/12|43|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[がんばれ ゆちゃめろでぃ43日目>>https://www.youtube.com/watch?v=WLdXolR-HmI]]| |
+|03/13|44|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Wデートと仕事 ゆちゃめろでぃ44日目>>https://www.youtube.com/watch?v=9VGwNmCeMDE]]| |
+|03/14|45|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[忙しくなってきたよ新たな犯罪？闇医者 ゆちゃめろでぃ45日目>>https://www.youtube.com/watch?v=kxFV6_F-A8k]]| |
+|03/15|46|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[風邪ひいたかな闇医者 ゆちゃめろでぃ46日目>>https://www.youtube.com/watch?v=6KCptp6hQMo]]| |
+|03/18|47|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日も闇医者 ゆちゃめろでぃ47日目>>https://www.youtube.com/watch?v=l-cSnfksuYg]]| |
+|03/19|48|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ 】#ストグラSeason2どうなっていくんだろね闇医者 ゆちゃめろでぃ48日目>>https://www.youtube.com/watch?v=psaPXlh5XF8]]| |
+|03/20|49|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[開始！ 闇医者 ゆちゃめろでぃ49日目>>https://www.youtube.com/watch?v=JawQc7s3oHE]]| |
+|03/21|50|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[借金生活だ！闇医者 ゆちゃめろでぃ50日目>>https://www.youtube.com/watch?v=2WhTK2HyXYA]]| |
+|03/22|51|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ねてた！闇医者 ゆちゃめろでぃ51日目>>https://www.youtube.com/watch?v=OmbqPh4zskk]]| |
+|03/28|52|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日から変わったよ 闇医者 ゆちゃめろでぃ52日目>>https://www.youtube.com/watch?v=cdtcFJCKeek]]| |
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+
+#endregion(3月)
+//
+#region(4月)&b(){4月}
+#areaedit
+#table_style(head=center:#8d1a4a:#fff){配信日=center,#=center}
+|~配信日|~#|~アーカイブタイトル|~備考|h
+|04/01|53|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[エイプリルフール 闇医者 ゆちゃめろでぃ53日目>>https://www.youtube.com/watch?v=eCtNIvICDaw]]| |
+|04/02|54|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[いきたいの 闇医者 ゆちゃめろでぃ54日目>>https://www.youtube.com/watch?v=dgbNZYg8YH4]]| |
+|04/03|55|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[止まれ出血 闇医者 ゆちゃめろでぃ55日目>>https://www.youtube.com/watch?v=RPAEc801lzI]]| |
+|04/04|56|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[遅番！ ゆちゃめろでぃ56日目>>https://www.youtube.com/watch?v=S-ByWyY2nXA]]| |
+|04/05|57|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[何かが動く？闇医者 ゆちゃめろでぃ57日目>>https://www.youtube.com/watch?v=Ezr5gEjkv8s]]| |
+|04/08|58|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[これでがんばれる！闇医者 ゆちゃめろでぃ58日目>>https://www.youtube.com/watch?v=97LdVT0zwhk]]| |
+|04/09|59|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[情報収集の巻き 闇医者 ゆちゃめろでぃ59日目>>https://www.youtube.com/watch?v=LdfGkgdEmYU]]| |
+|04/10|60|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[負けるな 闇医者 ゆちゃめろでぃ60日目>>https://www.youtube.com/watch?v=iSmUn_VYbbg]]| |
+|04/11|61|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[カジノも顔出したいけどな 闇医者 ゆちゃめろでぃ61日目>>https://www.youtube.com/watch?v=Imet_yX0Pqw]]| |
+|04/12|62|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日は？ 闇医者 ゆちゃめろでぃ62日目>>https://www.youtube.com/watch?v=PHiHgH18Z78]]| |
+|04/15|63|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[考えて考えて 闇医者 ゆちゃめろでぃ63日目>>https://www.youtube.com/watch?v=JE3XNnjWELs]]| |
+|04/16|64|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[起きれなかった 闇医者 ゆちゃめろでぃ64日目>>https://www.youtube.com/watch?v=umbxWXoi7bc]]| |
+|04/17|65|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[頑張る頑張る闇医者 ゆちゃめろでぃ65日目>>https://www.youtube.com/watch?v=TVVo6veZi84]]| |
+|04/18|66|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[一緒に　闇医者 ゆちゃめろでぃ66日目>>https://www.youtube.com/watch?v=9rAbCF_cN_w]]| |
+|04/19|67|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[おねむです　闇医者 ゆちゃめろでぃ67日目>>https://www.youtube.com/watch?v=ELsNfnk8-rg]]| |
+|04/22|68|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日こそっ！！　闇医者 ゆちゃめろでぃ68日目>>https://www.youtube.com/watch?v=OqFuKjAeOMg]]| |
+|04/23|69|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[わくわく　闇医者 ゆちゃめろでぃ69日目>>https://www.youtube.com/watch?v=BYf5viHvs3A]]| |
+|04/24|70|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[1番大切なこと 闇医者 ゆちゃめろでぃ70日目>>https://www.youtube.com/watch?v=SnEKFECOFnI]]| |
+|04/25|71|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[世界は何色ですか 闇医者 ゆちゃめろでぃ71日目>>https://www.youtube.com/watch?v=E5ZjlhbNQ4Q]]| |
+|04/26|72|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[私のやるべきこと 闇医者 ゆちゃめろでぃ72日目>>https://www.youtube.com/watch?v=_yL3vI1XqMI]]| |
+|04/29|73|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ごめんね 闇医者 ゆちゃめろでぃ73日目>>https://www.youtube.com/watch?v=fEKyfjLPXHk]]| |
+|04/30|74|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[一歩ずつ  闇医者 ゆちゃめろでぃ74日目>>https://www.youtube.com/watch?v=7a0xq0-NEH0]]| |
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+
+#endregion(4月)
+//
+#region(5月)&b(){5月}
+#areaedit
+#table_style(head=center:#8d1a4a:#fff){配信日=center,#=center}
+|~配信日|~#|~アーカイブタイトル|~備考|h
+|05/01|75|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[どうしようかな 闇医者 ゆちゃめろでぃ75日目>>https://www.youtube.com/watch?v=AQI2PpRak88]]| |
+|05/02|76|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[便利な世の中 闇医者 ゆちゃめろでぃ76日目>>https://www.youtube.com/watch?v=JwhvHcbVu3c]]| |
+|05/06|77|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[お疲れ様 闇医者 ゆちゃめろでぃ77日目>>https://www.youtube.com/watch?v=WWryOUkEvN4]]| |
+|05/07|78|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[約束は覚えていますか 闇医者 ゆちゃめろでぃ78日目>>https://www.youtube.com/watch?v=sFniXmGuijM]]| |
+|05/08|79|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[嬉しいね 闇医者 ゆちゃめろでぃ79日目>>https://www.youtube.com/watch?v=kLPv6062eQM]],[[Part2>>https://www.youtube.com/watch?v=mudwNmI91bs]]| |
+|05/09|80|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ありがとう 闇医者 ゆちゃめろでぃ80日目>>https://www.youtube.com/watch?v=q6vCJqGP7Ps]]| |
+|05/10|81|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日から 闇医者 ゆちゃめろでぃ81日目>>https://www.youtube.com/watch?v=I3dpUcXAOuA]]| |
+|05/13|82|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[いくよ 闇医者 ゆちゃめろでぃ82日目>>https://www.youtube.com/watch?v=M2qvaJgZYfs]]| |
+|05/14|83|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ここから 闇医者 ゆちゃめろでぃ83日目>>https://www.youtube.com/watch?v=FVIWuTEd5Jo]]| |
+|05/15|84|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[変わりゆく 闇医者 ゆちゃめろでぃ84日目>>https://www.youtube.com/watch?v=NTj26GdfJ4U]]| |
+|05/16|85|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[そろそろ 闇医者 ゆちゃめろでぃ85日目>>https://www.youtube.com/watch?v=I5lYx00iKUA]]| |
+|05/17|86|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[早寝するかも 闇医者 ゆちゃめろでぃ86日目>>https://www.youtube.com/watch?v=Yk6Ye5ydOwI]]| |
+|05/20|87|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新たな世界 闇医者 ゆちゃめろでぃ87日目>>https://www.youtube.com/watch?v=LazJAjhvXWE]]| |
+|05/21|88|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者 お泊り ゆちゃめろでぃ88日目>>https://www.youtube.com/watch?v=NA7ylwFqY8Y]]| |
+|05/22|89|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者 みつかるといいいね ゆちゃめろでぃ89日目>>https://www.youtube.com/watch?v=u_che2RRT4Q]]| |
+|05/27|90|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ただいま 闇医者  ゆちゃめろでぃ90日目>>https://www.youtube.com/watch?v=2aCH98gr4-Y]]| |
+|05/28|91|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[準備  闇医者 ゆちゃめろでぃ91日目>>https://www.youtube.com/watch?v=c3C424qw52c]]| |
+|05/29|92|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[抗争  闇医者 ゆちゃめろでぃ92日目>>https://www.youtube.com/watch?v=vSqNJ1RbAjA]]| |
+|05/30|93|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日は？  闇医者 ゆちゃめろでぃ93日目>>https://www.youtube.com/watch?v=4Cv_MDvl-OM]]| |
+|05/31|94|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[少しずつ  闇医者 ゆちゃめろでぃ94日目>>https://www.youtube.com/watch?v=gjvNI43_EHA]]| |
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+#endregion(5月)
+//
+#region(6月)&b(){6月}
+#areaedit
+#table_style(head=center:#8d1a4a:#fff){配信日=center,#=center}
+|~配信日|~#|~アーカイブタイトル|~備考|h
+|06/03|95|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[そろそろ  闇医者 ゆちゃめろでぃ95日目>>https://www.youtube.com/watch?v=_1D8nkLQFkk]]| |
+|06/04|96|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[なんだったんだろう  闇医者 ゆちゃめろでぃ96日目>>https://www.youtube.com/watch?v=tLmf8lMotA0]]| |
+|06/05|97|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[変化  闇医者 ゆちゃめろでぃ97日目>>https://www.youtube.com/watch?v=QwnskaQ_R1Y]]| |
+|06/06|98|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[向き合え  闇医者 ゆちゃめろでぃ98日目>>https://www.youtube.com/watch?v=fwUlA7Rrp7U]]| |
+|06/07|99|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ まけんな 闇医者 ゆちゃめろでぃ99日目>>https://www.youtube.com/watch?v=i6bFSu7HlVU]]| |
+|06/10|100|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[もう 闇医者 ゆちゃめろでぃ100日目>>https://www.youtube.com/watch?v=JdlMNDwaQJ8]]| |
+|06/11|101|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[考え 闇医者 ゆちゃめろでぃ101日目>>https://www.youtube.com/watch?v=Z37NUsly6Pg]]| |
+|06/12|102|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[商品開発部 闇医者 ゆちゃめろでぃ102日目>>https://www.youtube.com/watch?v=Q_WMOGScswc]]| |
+|06/13|103|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ありがとう 闇医者 ゆちゃめろでぃ103日目>>https://www.youtube.com/watch?v=wpjh5-BfomY]]| |
+|06/14|104|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[存在 闇医者 ゆちゃめろでぃ104日目>>https://www.youtube.com/watch?v=an-AetJJhGE]]| |
+|06/17|105|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[聞きたいこと 闇医者 ゆちゃめろでぃ105日目>>https://www.youtube.com/watch?v=lc28qJof148]]| |
+|06/18|106|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[逮捕された 闇医者 ゆちゃめろでぃ106日目>>https://www.youtube.com/watch?v=y9wBOX1npdA]]| |
+|06/19|107|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[改定 闇医者 ゆちゃめろでぃ107日目>>https://www.youtube.com/watch?v=mn__N9qhJ24]]| |
+|06/20|108|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[考え事 闇医者 ゆちゃめろでぃ108日目>>https://www.youtube.com/watch?v=6qiGnGPFbMs]]| |
+|06/21|109|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[それでも 闇医者 ゆちゃめろでぃ109日目>>https://www.youtube.com/watch?v=uMGvuzL2cF8]]| |
+|06/24|110|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ごめんね 闇医者 ゆちゃめろでぃ110日目>>https://www.youtube.com/watch?v=E12RR9E0qNU]]| |
+|06/25|111|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[1% 闇医者 ゆちゃめろでぃ111日目>>https://www.youtube.com/watch?v=LhVnG_sg7pw]]| |
+|06/26|112|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[譲れないもの 闇医者 ゆちゃめろでぃ112日目>>https://www.youtube.com/watch?v=9Fn1U7__VfI]]| |
+|06/27|113|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[この気持ちって 闇医者 ゆちゃめろでぃ113日目>>https://www.youtube.com/watch?v=V0iJXKFcWfk]]| |
+|06/28|114|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[裏切り 闇医者 ゆちゃめろでぃ114日目>>https://www.youtube.com/watch?v=FSTSsHnmL1Y]]| |
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+#endregion(6月)
+#region(7月,open)&b(){7月～}
+#areaedit
+#table_style(head=center:#8d1a4a:#fff){配信日=center,#=center}
+|~配信日|~#|~アーカイブタイトル|~備考|h
+|07/01|115|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[不信感 闇医者 ゆちゃめろでぃ115日目>>https://www.youtube.com/watch?v=bBWUiJzkU7U]]|Mellow Berryオープン|
+|07/02|116|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[選択 闇医者 ゆちゃめろでぃ116日目>>https://www.youtube.com/watch?v=bjSYPXyoCyE]]|捌木処理|
+|07/03|117|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[業 闇医者 ゆちゃめろでぃ117日目>>https://www.youtube.com/watch?v=ywxbSWDs46A]]|捌木誘拐|
+|07/04|118|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[第三の選択の結果 闇医者 ゆちゃめろでぃ118日目>>https://www.youtube.com/live/cD4gzXn_3nE]]|捌木再処理|
+|07/05|119|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[消えた記憶 闇医者 ゆちゃめろでぃ118日目>>https://www.youtube.com/live/1EITugJgWNc]]||
+|07/08|120|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[今日は何の日？ 闇医者 ゆちゃめろでぃ120日目>>https://www.youtube.com/watch?v=F48E26J6JjA]]|身辺整理、出国|
+|>|>|>||
+|07/14|-|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ゆちゃめろでぃ 振り返りwith ねおんぴ>>https://www.youtube.com/watch?v=ooy4gMSUojw]]||
+|08/04|-|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} たいゆちゃでクリップ鑑賞会>>https://www.youtube.com/watch?v=2f1RY2aocCY]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+#endregion(7月)
+#co{テンプレート
+
+#region(●月)●月
+//#areaedit
+#table_style(head=center:#8d1a4a:#fff){配信日=right,#=center}
+|~配信日|~アーカイブタイトル|~備考|h
+|●/00|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]||
+//#areaedit(end)
+#endregion(●月)
+
+#region(●月)&b(){●月}
+//#areaedit
+#table_style(head=center:#8d1a4a:#fff){配信日=center,#=center}
+|~配信日|~#|~アーカイブタイトル|~備考|h
+|07/00|n|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]||
+//#areaedit(end)
+#endregion(●月)
+
+}
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+
+**&size(20){&color(#8d1a4a){&size(25){&color(#8d1a4a){投}}稿動画 &icon_fa(fa fa-youtube-play)}}
+***&font(#8d1a4a){&icon_fa(fa fa-film)&nbsp()Season1}
+#region(開く,close)
+#region(2025年2月〜3月,close)&bold(){2025年2月〜3月}
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|投稿日|動画タイトル|備考|h
+|2025/02/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){個人医トラブル勃発？}>>https://youtu.be/h9Wpeq80frg?si=aHsb6Hig3QxmGFv_]]|なののなの/関春春・宗像宗三郎/鬼野ねね|
+|2025/02/14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){個人医内で大喧嘩?!}>>https://youtu.be/AFpcjwaGIFE?si=bFp2GAYHLJypIcp8]]|なののなの/関春春・宗像宗三郎/鬼野ねね|
+|2025/02/15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){春春の言動にキレるゆちゃ}>>https://youtu.be/k--ExEabi3k?si=w18DsABpO3Xe-9zZ]]|なののなの/関春春・宗像宗三郎|
+|2025/02/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){闇医者無線脱退⁈}>>https://youtu.be/iBsrFVdoQKY?si=-TMmMSHzewV7_fM0]]|関春春・宗像宗三郎|
+|2025/02/17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){ゆちゃ無線脱退報告}>>https://youtu.be/oE9sbvxojlw?si=Jei3PxcsIuFtWNVf]]|なののなの/スコティッシュフォールド/羽山パティ|
+|2025/02/18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){根本的解決は医師免許剥奪？！}>>https://youtu.be/_OA0nKX31Mk?si=LqpAqpnBtDhmg248]]|加藤圧|
+|2025/02/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){個人医トラブル長時間の話し合いで心無い言葉をぶつけ始める}>>https://youtu.be/THiKskyZZBc?si=ZnPvC3AXLMPjpGG6]]|加藤圧/関春春・宗像宗三郎|
+|2025/02/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){個人医トラブル発生?!}>>https://youtu.be/q4h7w618jGI?si=zKZM-B8bZ_ESNV7H]]|羽山ペティ/羽山パティ/鬼野ねね/なののなの/いわさきそす/ヴァンダーマー|
+|2025/02/21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){現場介入でブレキル発生！警察署へ謝罪、個人医の今後について}>>https://youtu.be/DbABIYd-1g8?si=w0iWjz2VqSVECWAD]]|なののなの/羽山パティ/スコティッシュ・ホールド/関春春‣宗像宗三郎/一一/加藤圧/ヴァンダーマー|
+|2025/02/22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){個人医解雇の危機?!個人医無線解散} >>https://youtu.be/18Vlf13WlXo?si=Nq6dXqWBketSYgUl]]|なののなの/スコティッシュホールド/羽山パティ |
+|2025/02/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){ごみ箱カーでガチピック？！}>>https://youtu.be/aHsjw7l_FsQ?si=soUCSQOlk2-7Wtfd]]|なののなの/柳瀬つん/加藤圧/鬼野ねね|
+|2025/02/24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){個人医全員解雇?!}>>https://youtu.be/FKH6chrEOUo?si=mrFzrXf4vxWiKfXs]]|なののなの|
+|2025/02/25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){個人医事件介入禁止後のメンケアが手厚すぎる件・激熱推しのアクキー復活} >>https://youtu.be/SCU7FQ-ii98?si=kNFr4hUX1exk7z4d]]| なののなの/鬼野ねね/スコティッシュホールド/柳瀬つん/羽山パティ/羽山ペティ/いわさきそす |
+|2025/02/26|&small(){まとめ動画}&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){ゆちゃめろでぃ個人医採用から事件介入禁止まで}>>https://youtu.be/nHXCgebxBEo?si=-rbk5FaTEt4V4yWc]]|ゆちゃめろでぃがいわさきそすに弟子入りをしてから事件介入禁止になるまで|
+|2025/03/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){専属個人医復活？新市長ウェスカーの考える新たな個人医の在り方}>>https://youtu.be/o8Ovh7Y9AMo?si=0qH1jyAQJdiPFUpy]]|ルナホークアイ/なののなの/ウェスカー|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+#region(2025年4月〜5月,close)2025年4月〜5月
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|投稿日|動画タイトル|備考|h
+|2025/04/09|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){神回SPD個人医ホワイトエンジェル３人組}>>https://youtu.be/4LcU8QYa2Y8?si=ur3CA2WjA-Q6vk9Z]]|（[[ストグラシャッフルパージデー × 〇〇してはいけない]]）タラちゃん/千代田ヨウ|
+|2025/04/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){パティが他ギャングに入る?!}>>https://youtu.be/UI8fHuL5y2k?si=n8JNBRDNRF-sbVxJ]]|羽山パティ|
+|2025/04/22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){パティの他ギャング加入意思を聞いた現メンバーの考え}>>https://youtu.be/-7nAlovSIVI?si=mjDWP9Ylktuvm6_W]]|ライジングサン宗介 |
+|2025/04/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){パティの他ギャング加入を聞いた小峯とお話}>>https://youtu.be/7RoU4SWLQLk?si=zWifWE2xQwJf2ybW]]|小峯れい/羽山パティ|
+|2025/04/24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){救急隊ごっこからはじまった、彼女を当てろ}>>https://youtu.be/SQVDgLZAiAk?si=kq1DqwtcrqxtZYHv]]|葛城司/猫又ピピ/天羽よつは/神崎治/ラグランジュ光芝|
+|2025/04/24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){小峯ギャングと菖蒲光亭の今後を語る}>>https://youtu.be/xaCxPTcvjlQ?si=cn47L48Nc69R0DQM]]|菖蒲光樹/猪狩翔太|
+|2025/04/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){パティ餡ブレラ加入後ウェスカーに心配される}>>https://youtu.be/aEi7W0C9q3o?si=qZbEABT8-OWqqksS]]|アルフォートウェスカー|
+|2025/04/30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){ギャング設立に疑問視?!}>>https://youtu.be/3qGzgwpXNSA?si=PQWwFtAGO-z1RCna]]|小峯れい/ライジングサン宗介|
+|2025/05/01|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){小峯ギャングの今後について語る}>>https://youtu.be/rmg3wXeo29o?si=C9EV0PdpFr_RiLqr]]|ライジングサン宗介|
+|2025/05/01|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){ギャング設立を疑問視された小峯の本音を聞く}>>https://youtu.be/0eaqXRpGVQA?si=KLxmF-nmwqQ0f6sC]]|小峯れい|
+|2025/05/02|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){小峯ギャング設立}>>https://youtu.be/GulAQdV7dZk?si=YxiglX5Ef-TrfGj1]]|小峯れい/ライジングサン宗介|
+|2025/05/05|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){個人医最後の日、小峯ギャング加入日}>>https://youtu.be/bUeBDglG5AU?si=b84Y7F941ebpNchV]]|いわさきそす/なののなの/ヴァンダーマー/ケインオー|
+|2025/05/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){#DERAY に新メンバー柳田ライアン加入！ゆちゃめろがボスドッキリ}>>https://youtu.be/Rt_4qYj6-VI?si=AJXcgPolSCjEKEJW]]|柳田ライアン/小峯れい/ライジングサン宗介 |
+|2025/05/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){エセ占い師ごっこで大爆笑}>>https://youtu.be/Y42_Wia9gMU?si=pa4h4w_B_KzwuN1C]]|ボイラテンガリン/柳田ライアン/ライジングサン宗介/小峯れい/猫又ぴぴ |
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+#region(2025年6月〜,open)2025年6月〜
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|投稿日|動画タイトル|備考|h
+|2025/06/10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){小峯に不満を持って1週間家出した結末}>>https://youtu.be/K2SxP8UFSek?si=afSRWQMwYwaO3jLX]]|小峯れい/ライジングサン宗介|
+|2025/06/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){餡ブレラ加入時にしていたオザワとの約束?!}>>https://youtu.be/5CB7NT32O0c?si=VQXuZ9YvEEi-9Okl]]|オザワハヤマサ|
+|2025/06/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){婚約者ジャックスの結婚式にうしべとゆちゃで乱入}>>https://youtu.be/VU4M1UMip18?si=ihowJFKcZrlYGF52]]|ブラックジャックス/うしべ/牧田ここな|
+|2025/06/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){"５又"疑惑のジャックスが語る本当の気持ち？}>>https://www.youtube.com/watch?v=g2eZFnyfCX8]]|ブラックジャックス/ゆたんぽ/うしべ/くまぽこ|
+|2025/06/24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){モテ期到来?!ギャグ時空過ぎる3人に告白された結果}>>https://www.youtube.com/watch?v=VLc9H6b7dlE]]|ブロッコリー斎藤/ブラックジャックス/モーガン・フリーザン/BJローン|
+|2025/06/25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){ジャックスを取り合い、うしべとキャットファイトの末警察沙汰に}>>https://www.youtube.com/watch?v=U17UnTuKxb0]]|うしべ/ブラックジャックス/ストグラ救急隊/BJローン|
+|2025/06/26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){借金返済後に交際?!多額の賞金を手に入れ2人の賞金の行方がおもしろすぎたww}>>https://www.youtube.com/watch?v=caCODMo7ZEw]]|ブロッコリー斎藤/ブラックジャックス|
+|2025/08/10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){宗介が上田ギャングからの引き抜き?!ゆちゃめろが感じたギャングとは}>>https://www.youtube.com/watch?v=JpKbqnTrDa0]]|ライジングサン宗介/小峯れい/ガヴァイ・アッカンマン/柳田ライアン/上田/あない|
+|2025/08/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){新たな気付きゆちゃめろでぃはDERAYに向いていない?!}>>https://www.youtube.com/watch?v=I1haEotGgFI]]|タラちゃん/ライジングサン宗介|
+|2025/08/12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){ギャング脱退を申し出るゆちゃめろでぃ}>>https://www.youtube.com/watch?v=pSAxc1dcKgA]]|小峯れい/ライジングサン宗介/DERAY|
+|2025/08/12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){ゆちゃめろでぃDERAY脱退}>>https://www.youtube.com/watch?v=SdS6HLHj7EY]]|小峯れい/ガヴァイ・アッカンマン/ライジングサン宗介|
+|2025/08/22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){おバカ過ぎる変装でFOG営業停止へ}>>https://www.youtube.com/watch?v=n6iOcmRFJAE]]|ゆちゃめろでぃ(空野葵)/穴井げん/マッハボクシングドク/風見セオ（青空リク）|
+|2025/09/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&bold(){爆笑無限ループE5ミッション}>>https://www.youtube.com/watch?v=3dbm9POEwXo]]|ゆちゃめろでぃ/四皇シャンクズ|
+
+//|2025/MM/DD|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){タイトル}>>URL]]||
+//|2025/MM/DD|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){タイトル}>>URL]]||
+//|2025/MM/DD|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){タイトル}>>URL]]||
+//|2025/MM/DD|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){タイトル}>>URL]]||
+//|2025/MM/DD|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&b(){タイトル}>>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion
+
+***&font(#8d1a4a){&icon_fa(fa fa-film)&nbsp()Season2}
+****2025年
+#region(12月,close)&b(){12月}
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|投稿日|動画タイトル|備考|h
+|25/12/30|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){闇医者復活！？意外過ぎる人から闇医者に任命されるゆちゃめろでぃ}>>https://youtu.be/ew3ZW_Z1OnI?si=vidPQYVYdSXBV79I]]|無馬かな / ノアチェンバー / 星ノみこ / 葛城司 / 捌木たいたい|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(12月)
+//
+****2026年
+#region(1月,close)&b(){1月}
+#areaedit
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|投稿日|動画タイトル|備考|h
+|26/01/01|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){闇医者はバレたら国外追放?!～年越しデスマウンテン～}>>https://youtu.be/UpLnhI7Y9eE?si=zqMohElKgO-84xSY]]|ゆちゃめろでぃ / 犬好マイキー / 柳瀬つん / 捌木たいたい|
+|26/01/01|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){探索中闇医者アジトがバレかける?!}>>https://youtu.be/eSBeashi4LM?si=tQGIIkX-B2jbXvWG]]|ゆちゃめろでぃ / 高橋滅論 / ジョーカー / 五十嵐えいむ|
+|26/01/02|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){元個人医の医師に対する思い}>>https://youtu.be/d6V5TeLBIow?si=AyyU0t934T7LNTbn]]|ゆちゃめろでぃ / 猪狩翔太 / マイゴニナリエル / はがかける / 星ノみこ|
+|26/01/03|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){ザウルスと運命共同体?!武器屋と闇医者提携へ}>>https://youtu.be/kymsS7VaziI?si=-eH7CdxCUopJMw17]]|ゆちゃめろでぃ / 犬好マイキー / 柳瀬つん / 伊勢えびす|
+|26/01/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){闇医者に武器が手に入る?!}>>https://youtu.be/XMHV064N8us?si=wek8I9izPa4_x2i1]]|ゆちゃめろでぃ / ティエリブッシュ / 柳瀬つん / 堕夜だよ / 犬好マイキー / 小峯れい|
+|26/01/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){自ら横流しした銃で始末される?!高橋滅論}>>https://youtu.be/d6V5TeLBIow?si=AyyU0t934T7LNTbn]]|ゆちゃめろでぃ / 高橋滅論|
+|26/01/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){闇医者を探ったキモセンの末路}>>https://youtu.be/BdiuLbiW3Hk?si=Y3lMtYP5WXNAnYkg]]|ゆちゃめろでぃ / キーモットホームズ / 犬好マイキー|
+|26/01/21|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){元個人医はがかけるの進路への悩み}>>https://youtu.be/u4Cy06EieIg?si=BWPyANX-3WwHyps4]]|ゆちゃめろでぃ / はがかける|
+|26/01/22|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){ついに動き出した闇医者?!}>>https://youtu.be/qsXju7P_SNI?si=yyaehLSnYMUWFB45]]|ゆちゃめろでぃ / 犬好マイキ / BackAlley|
+|26/01/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){闇医者新メンバー加入！}>>https://youtu.be/prkO1rB8wfc?si=SUvKxvF643jyc0z2]]|ゆちゃめろでぃ / 犬好マイキー / 我孫子清十郎 / ノアチェンバー / 星ノみこ / マイゴニナリエル|
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+
+#endregion(1月)
+//
+#region(2月)&b(){2月}
+#areaedit
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|投稿日|動画タイトル|備考|h
+|26/02/09|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){闇医者新拠点追加!!驚愕ラルさんの正体}>>https://youtu.be/wEY9X3L5rm0?si=LGQ_mk6otOm_xqAx]]|ゆちゃめろでぃ / BackAlley / 麻林ラル|
+|26/02/10|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&b(){麻林ラルに闇医者の真実を明かす}>>https://youtu.be/s7E3OGxtXoA?si=4zKlQeLFLZpLSLWE]]|ゆちゃめろでぃ / 星ノみこ / マイゴニナリエル|
+|26/02/15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[小峯れいと加藤圧に闇医者の存在をはなすゆちゃめろでぃ>>https://www.youtube.com/watch?v=LShpUxuam-Q]]|小峯れい/加藤圧/星ノみこ|
+|26/02/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[主治医としての今後の報告！闇医者組織の結成を告げるゆちゃめろでぃ>>https://www.youtube.com/watch?v=LANwlum9clk]]|三階堂キミトス/はがかける|
+|26/02/22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[名探偵上田+助手斎藤!!謎を解くまで出られない世界で秘書役をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=QrDTdedvOLU]]|千代田ヨウ/牧田ここな/ブラックジャックス/Bルモッチェ/ボイラ|
+|26/02/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ノアチェンバーに闇医者の情報共有と相談をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=jsXSyCXJw5c]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+
+#endregion(2月)
+//
+#region(3月)&b(){3月}
+#areaedit
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|投稿日|動画タイトル|備考|h
+|26/03/01|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者初めての治療に苦戦するゆちゃめろでぃ>>https://www.youtube.com/watch?v=yvmmAwxFkOE]]|加藤圧/小峯れい/星ノみこ|
+|26/03/06|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者ボス会議～新たな顧客選定をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=KL8NQcsVRL8]]|犬好マイキー/小峯れい/ティエリブッシュ/トウユン/ガヴァイアッカンマン|
+|26/03/07|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者の存在をアドミゲスハンに話すゆちゃめろでぃ>>https://www.youtube.com/watch?v=oGc8XiWIFik]]|ノアチェンバー|
+|26/03/08|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者メンバーへ情報共有をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=oKEl_WLzZ0I]]|星ノみこ/マイゴニ・ナリエル|
+|26/03/09|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[天草へ闇医者を打ち明けるゆちゃめろでぃ>>https://www.youtube.com/watch?v=JvH1tKRGEjw]]|天草蒼|
+|26/03/09|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ブラックジャックスにサンクチュアリたえことハニトラをしかけるゆちゃめろでぃ>>https://www.youtube.com/watch?v=-Tl12UqRqj0]]|ジョアンナ町田/ねずみさん/捌木たいたい|
+|26/03/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[白市民から闇医者が調べられている報告をうけるゆちゃめろでぃ>>https://www.youtube.com/watch?v=ImcdPM4C4Yo]]|ノアチェンバー/小峯れい|
+|26/03/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タマーチに闇医者の存在を話すゆちゃめろでぃ>>https://www.youtube.com/watch?v=1Wl9RqbCvrk]]|天草蒼/麻林ラル|
+|26/03/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[キミトスギャングアジトへ招待されるゆちゃめろでぃ>>https://www.youtube.com/watch?v=ewbk53S2Z6Y]]||
+|26/03/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇カジの参加者の件を小峯れいと話すゆちゃめろでぃ>>https://www.youtube.com/watch?v=Nv9-s-cT71w]]|三階堂キミトス|
+|26/03/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新犯罪開始？に向けてバッジ所有者を増やすゆちゃめろでぃ>>https://www.youtube.com/watch?v=qEMUXcWayeI]]|五十嵐えいむ/三島みつー/天草蒼|
+|26/03/15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者の方向性を聞くゆちゃめろでぃ>>https://www.youtube.com/watch?v=AXShWAY0jeg]]|犬好マイキー/我孫子清十郎/星ノみこ/ノアチェンバー|
+|26/03/15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[雇用主無馬かなから闇医者の今後を聞くゆちゃめろでぃ>>https://www.youtube.com/watch?v=DlS-hTyOcYA]]|我孫子清十郎|
+|26/03/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ノヴァファミリアを探るゆちゃめろでぃ>>https://www.youtube.com/watch?v=e9oORes3A5o]]|ノアチェンバー/星ノみこ|
+|26/03/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新規顧客登録をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=6rGb5EnD4C0]]|月ノ島ごう/霜月ろっぷ/つよがりとうか|
+|26/03/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者の取り扱い間違いでエスタークをつめるゆちゃめろでぃ>>https://www.youtube.com/watch?v=emT3bRAn6qA]]||
+|26/03/18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者治療道具回収へ情報共有のできないハードコア社長に涙するゆちゃめろでぃ>>https://www.youtube.com/watch?v=diLV6cjLHJc]]|我孫子清十郎/星ノみこ|
+|26/03/18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[上司へ不信感をいだきながら圧迫面接をする闇医者>>https://www.youtube.com/watch?v=2DDYe1asAYA]]|犬好マイキー/エスタークＺダークネス|
+|26/03/18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新たな闇医者利用者に説明するゆちゃめろでぃ>>https://www.youtube.com/watch?v=TijOf1I-GUI]]|犬好マイキー/ヘルアン/畳かえる|
+|26/03/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[張り込みに備えて闇医者本アジトの引っ越しをするゆちゃめろでぃ>>https://www.youtube.com/watch?v=tLmQm5N_-Uk]]|高橋ほろん/ノアチェンバー|
+|26/03/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[事件でダウン？初めての水難救助をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=TCJJ2QsvgkU]]|三階堂キミトス/北村ばなな/ジョーカー|
+|26/03/21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者を調べているわくわく会議に参加するゆちゃめろでぃ>>https://www.youtube.com/watch?v=lGdlTuRUPbQ]]|高橋ほろん/陽影空|
+|26/03/21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[868最初のバッジ所有者ルナホークアイへ説明するゆちゃめろでぃ>>https://www.youtube.com/watch?v=dFR8AKXetZg]]|柳田ライアン/小峯れい|
+|26/03/21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[エスタークの紹介でウェスカーに闇医者の話をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=Lgx1O5Z2o6E]]||
+|26/03/29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者女子会議をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=6rRIxyobeHQ]]|星ノみこ/マイゴニ・ナリエル/ノア・チェンバー|
+|26/03/29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[BJローンへの借金返済が遅れ住宅差し押さえになりかけるゆちゃめろでぃ>>https://www.youtube.com/watch?v=-1Y33mTwLV4]]||
+|26/03/31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[大川さんと闇医者の現状、闇メカの展望を話すゆちゃめろでぃ>>https://www.youtube.com/watch?v=1XG9g5VICPk]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+
+#endregion(3月)
+//
+#region(4月)&b(){4月}
+#areaedit
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|投稿日|動画タイトル|備考|h
+|26/04/06|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者上司無馬かなと直接対談をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=BD_7OBtOO_w]]|大川|
+|26/04/06|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者の給料支給のため資金洗浄をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=cZ6ZVAltynU]]|星ノみこ/マイゴニナリエル/ノアチェンバー|
+|26/04/08|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[MonDへ闇医者バッジを授受するゆちゃめろでぃ>>https://www.youtube.com/watch?v=gRLrg4necoM]]|MonD|
+|26/04/09|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者以外にダウン者を運べる職業発見するゆちゃめろでぃ>>https://www.youtube.com/watch?v=pIeuQgnj9nY]]|三島みつー/月ノ島ゴウ/ゼフアトーマス/アウトくるーど|
+|26/04/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ついにわくわくハーデス隊ボス高橋滅論へ闇医者の存在を話すゆちゃめろでぃ>>https://www.youtube.com/watch?v=m6Qo08Vln0Q]]|捌木たいたい|
+|26/04/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[868バッジ代金未払い対応を考えるゆちゃめろでぃ>>https://www.youtube.com/watch?v=BPMwo2FwdDc]]|音鳴ミックス/ルナホークアイ|
+|26/04/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[868バッジ代金対応を決定するゆちゃめろでぃ>>https://www.youtube.com/watch?v=JTGEqQqSdXU]]|ノアチェンバー|
+|26/04/17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[868ツケの進展を確認するゆちゃめろでぃ>>https://www.youtube.com/watch?v=kRhjS3r9e2Q]]|ノアチェンバー/岐阜野こみ蔵/捌木たいたい|
+|26/04/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[採用や金額の闇医者会議をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=cnXczyP3_uA]]|マイゴニナリエル/星ノみこ|
+|26/04/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[危険視していた高橋滅論へバッジを渡すゆちゃめろでぃ>>https://www.youtube.com/watch?v=l7JHpnFv3Zg]]|マイゴニナリエル|
+|26/04/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[個人医復活活動に誘われるゆちゃめろでぃ>>https://www.youtube.com/watch?v=DhkNxFZFmAI]]|ブロッコリー斎藤/パンちゃん|
+|26/04/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者メンバーの情報漏洩を聞くゆちゃめろでぃ>>https://www.youtube.com/watch?v=D8Yy8gadspQ]]|堕夜だよ/天草蒼|
+|26/04/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[師匠と運び屋の話をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=76q6TKsJ5Y8]]|いわさきそす/捌木たいたい|
+|26/04/24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[後遺症の唯一の治療方法を知るゆちゃめろでぃ>>https://www.youtube.com/watch?v=9D---gjxWMk]]|マイゴニナリエル/ノアチェンバー|
+|26/04/24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[警察と闇医者の関りについて聞かれるゆちゃめろでぃ>>https://www.youtube.com/watch?v=6JCkQLHshjY]]|マイゴニナリエル/捌木たいたい|
+|26/04/25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[初めての闇医者バッジ回収をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=CmEQKs9zIm0]]|脇逢魔|
+|26/04/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者を採用するゆちゃめろでぃ>>https://www.youtube.com/watch?v=Q2DLwXAKEU4]]|五十嵐えいむ|
+|26/04/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[逃走補助をしているのがバレるゆちゃめろでぃ>>https://www.youtube.com/watch?v=_gr0olJxvZc]]|ガヴァイアッカーマン|
+|26/04/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者の現在を話し加藤圧を雇用するゆちゃめろでぃ>>https://www.youtube.com/watch?v=ON_Kbnrm0CM]]||
+|26/04/30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者治療費が決定/ゆちゃめろでぃ>>https://www.youtube.com/watch?v=uQYVZV5FmLA]]|五十嵐えいむ/ノアチェンバー/星ノみこ|
+|26/04/30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者専用ｽﾄﾚｯﾁｬｰ導入を確認するゆちゃめろでぃ>>https://www.youtube.com/watch?v=qr2x6R_AVO4]]|五十嵐えいむ/三島みつー/小峯れい/加藤圧|
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+
+#endregion(4月)
+//
+#region(5月)&b(){5月}
+#areaedit
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|投稿日|動画タイトル|備考|h
+|26/05/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[中型現場でなり続ける通知対応をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=as9chj9yFPo]]|五十嵐えいむ/エスターク・Z・ダークネス/星ノみこ/いわさきそす|
+|26/05/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[犯罪関連の通知対応禁止令を出すゆちゃめろでぃ>>https://www.youtube.com/watch?v=AviWRXcM1lw]]|加藤圧/ハクナツメ/五十嵐えいむ|
+|26/05/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者定例会を行うゆちゃめろでぃ>>https://www.youtube.com/watch?v=UJSt5p8KJbo]]|星ノみこ/マイゴニ・ナリエル/捌木たいたい|
+|26/05/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[国外追放を覚悟する闇医者>>https://www.youtube.com/watch?v=NxkkVx1G_tE]]|犬好マイキー/星ノみこ/マイゴニナリエル|
+|26/05/14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者の現場介入が決定する>>https://www.youtube.com/watch?v=-3JJGSOPexY]]|加藤圧/ノアチェンバー/マイゴニナリエル|
+|26/05/16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者現場介入方法変更>>https://www.youtube.com/watch?v=Mi9RhFZE0h4]]|五十嵐えいむ/星ノみこ/犬好マイキー|
+|26/05/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者事件介入開始後初の逮捕者>>https://www.youtube.com/watch?v=xrSfCm60tDU]]|マイゴニナリエル/ノアチェンバー|
+|26/05/30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者会員外の上田の対応をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=27utzxbk-yY]]|五十嵐えいむ/脇逢魔|
+|26/05/31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[新たな闇医者を雇用するゆちゃめろでぃ>>https://www.youtube.com/watch?v=FCgYieaAklI]]|のすけ/みつー|
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+#endregion(5月)
+//
+#region(6月)&b(){6月}
+#areaedit
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|投稿日|動画タイトル|備考|h
+|26/06/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[治療代と報酬について闇医者会議>>https://www.youtube.com/watch?v=uYtSa-qe9S4]]|加藤圧/五十嵐えいむ/三島みつー/のすけ/マイゴニナリエル/ノアチェンバー|
+|26/06/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者の給料待機料金にこだわる理由を話すゆちゃめろでぃ>>https://www.youtube.com/watch?v=a1IuiysUrBk]]|のすけ/マイゴニナリエル|
+|26/06/05|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[犯罪者家族と公務員について話すゆちゃめろでぃ>>https://www.youtube.com/watch?v=1qbNtzxhMOM]]|猫又ぴぴ|
+|26/06/06|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[広域無線導入による闇医者の無線取り扱い>>https://www.youtube.com/watch?v=o08saaykHUA]]|のすけ/五十嵐えいむ/三島みつー/大川|
+|26/06/07|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ルナホークアイの闇医者バッジ紛失報告を聞くゆちゃめろでぃ>>https://www.youtube.com/watch?v=NFqUakwuZn0]]|魚参屋/五十嵐えいむ/三島みつー/のすけ|
+|26/06/07|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ルナホークアイバッジ紛失の対応を告げるゆちゃめろでぃ>>https://www.youtube.com/watch?v=qm4KmeMxQds]]|魚参屋/加藤圧/犬好マイキー|
+|26/06/07|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[医療品を病院から盗む計画を準備する闇医者>>https://www.youtube.com/watch?v=YVa-FZQc_GM]]|加藤圧|
+|26/06/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者メンバーの働き方に疑問を感じるゆちゃめろでぃ>>https://www.youtube.com/watch?v=XAsQpVj9K90]]|マイゴニナリエル/のすけ|
+|26/06/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[星ノみこへ闇医者としてどう働きたいか確認するゆちゃめろでぃ>>https://www.youtube.com/watch?v=TsJfVRambaU]]|加藤圧|
+|26/06/11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[高橋滅論に正体がばれたゆちゃめろでぃ>>https://www.youtube.com/watch?v=TQssdQNUOw0]]|タラちゃん|
+|26/06/12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[正体を知った高橋滅論を呼び出すゆちゃめろでぃ>>https://www.youtube.com/watch?v=AbC7sQy_wZQ]]|高橋滅論|
+|26/06/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ルナホークアイのバッジ紛失に進展>>https://www.youtube.com/watch?v=ceypt_YiXhM]]|五十嵐えいむ/三島みつー/のすけ/マイゴニナリエル/星ノみこ|
+|26/06/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Flare闇医者退職>>https://www.youtube.com/watch?v=DVZBdh5IX2g]]|星ノみこ/のすけ/マイゴニナリエル|
+|26/06/17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ABの語る鬼野ねねの現状を聞き、無馬かなとの過去の会話を振り返るゆちゃめろでぃ>>https://www.youtube.com/watch?v=nLGc_xG-_To]]|のすけ|
+|26/06/18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者事件介入で初の逮捕者になるゆちゃめろでぃ>>https://www.youtube.com/watch?v=VInaQp8Axis]]|五十嵐えいむ|
+|26/06/18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者師匠の教えを再確認するゆちゃめろでぃ>>https://www.youtube.com/watch?v=JDzCoX20g9A]]|いわさきそす|
+|26/06/19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者をごまかすためティエリさんとウェスカーさんに協力を依頼するゆちゃめろでぃ>>https://www.youtube.com/watch?v=nLpLrnhLxcQ]]||
+|26/06/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者値上げ会議をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=QJQUyUKBEgo]]|マイゴニナリエル/ノアチェンバー|
+|26/06/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[犯罪者とかかわりのある市民の公務員採用について聞き自分の思いを話すゆちゃめろでぃ>>https://www.youtube.com/watch?v=Bx2Ii2af_GY]]|猫又ぴぴ|
+|26/06/20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[MIAの中型加入から学びを得て現場介入するゆちゃめろでぃ>>https://www.youtube.com/watch?v=Aiv2tK10h8o]]|マイゴニナリエル/五十嵐えいむ|
+|26/06/21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ウェスカーさんのケガを悪化させるゆちゃめろでぃ>>https://www.youtube.com/watch?v=vG2vzMJksjU]]|マイゴニナリエル/三島みつー|
+|26/06/25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[上司無馬かなの発言に怯えるゆちゃめろでぃ>>https://www.youtube.com/watch?v=UQF0qBKhjxI]]|三島みつー|
+|26/06/26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[指名手配後からあまりに元気のない捌木たいたいに困るゆちゃめろでぃ>>https://www.youtube.com/watch?v=wpWkLK3TTm0]]| |
+|26/06/26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[警察の張り込みに警戒する闇医者/ゆちゃめろでぃ>>https://www.youtube.com/watch?v=uD_UgID2k7g]]|のすけ/三島みつー/捌木たいたい|
+|26/06/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[岐阜野こみ蔵の帰国を止めるゆちゃめろでぃと捌木たいたい>>https://www.youtube.com/watch?v=AbGiF1bGrYU]]| |
+|26/06/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[友人関係に思い悩む間もなく闇医者アジトの警察張り込みが始まるゆちゃめろでぃ>>https://www.youtube.com/watch?v=9H5esPhMzag]]|捌木たいたい/猫又ぴぴ|
+|26/06/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[捌木たいたいの思いを聞き思い悩むゆちゃめろでぃに気持ちの整理を促す月乃えるな>>https://www.youtube.com/watch?v=zv_QuKa_Rf8]]| |
+|26/06/28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[不審な車に気が付くゆちゃめろでぃ>>https://www.youtube.com/watch?v=gjFAyG3Rgzk]]|のすけ/捌木たいたい|
+|26/06/29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[公務員志望の娘を持つガヴァイと黒市民と公務員の関わりについて話すゆちゃめろでぃ>>https://www.youtube.com/watch?v=QYx52nGaJkc]]| |
+|26/06/29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[度重なる張り込みの形跡の報告を受けるゆちゃめろでぃ>>https://www.youtube.com/watch?v=ICyvtdF2A2M]]|のすけ/捌木たいたい|
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+#endregion(6月)
+//
+#region(7月,open)&b(){7月}
+#areaedit
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|投稿日|動画タイトル|備考|h
+|26/07/02|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[医療品強奪を開始した闇医者>>https://www.youtube.com/watch?v=Jkvt05Ix4j8]]|加藤圧/のすけ/五十嵐えいむ/三島みつー|
+|26/07/03|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者を探っていた人物の正体知ったゆちゃめろでぃ>>https://www.youtube.com/watch?v=GGcwyR19-Vg]]|捌木たいたい/のすけ/五十嵐えいむ/三島みつー|
+|26/07/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[捌木たいたいから託された思いを岐阜野こみ蔵から聞くゆうちゃめろでぃ>>https://www.youtube.com/watch?v=y0EdukBX5sA]]||
+|26/07/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[闇医者アジト警察張り込みに黒市民の協力を得るゆちゃめろでぃ>>https://www.youtube.com/watch?v=x7eZrXXIUEc]]|五十嵐えいむ/三島みつー/捌木たいたい|
+|26/07/04|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[無馬かなの問いに危篤状態の捌木たいたいの誘拐を決意し決行するゆちゃめろでぃ>>https://www.youtube.com/watch?v=XL1ReEuYFnA]]||
+|26/07/05|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[捌木たいたいの記憶とゆちゃめろでぃの決意>>https://www.youtube.com/watch?v=g5y8aK5BUnI]]| |
+|26/07/05|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[アジト全面戦争について小峯へ説明をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=fVtP9_dJrPM]]| |
+|26/07/05|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[アジト全面戦争について黒市民全員へ謝罪をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=iGfHYHBmeGU]]| |
+|26/07/05|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[雇い主無馬かなに報告と処遇の確認をするゆちゃめろでぃ>>https://www.youtube.com/watch?v=vUaaAEuEcwg]]| |
+|26/07/06|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タラちゃんとお互いの情報を出し合い鬼野ねねの現在を考察するゆちゃめろでぃ>>https://www.youtube.com/watch?v=iQmtPsfVRm0]]||
+|26/07/09|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[責任の取り方に覚悟を決め身辺整理をはじめるゆちゃめろでぃ>>https://www.youtube.com/watch?v=FymGmqC4peo]]|岐阜野こみ蔵/いわさきそす|
+|26/07/09|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[無馬かなに責任の取り方を伝えるゆちゃめろでぃ>>https://www.youtube.com/watch?v=D-QHF5gZZRs]]|五十嵐えいむ/捌木たいたい/アドミゲスハン|
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+#endregion(7月)
+//
+//◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+
+**&size(20){&color(#8d1a4a){&size(25){&color(#8d1a4a){コ}}ラボアーカイブ &icon_fa(fa fa-gamepad)}}
+&font(#c53d43){&icon_fa(fa fa-youtube-play)} 過去のコラボアーカイブは [[YouTube 再生リスト【ストグラコラボ】>>https://youtube.com/playlist?list=PLfKYLDDknv07uS6WHE8lStkLBmJKP8Z3G&si=xYIJVCXlXimboSXr]]にて一部公開されています。
+
+#table_style(head=center:#FAC7C1){配信日=right,#=center}
+|配信日|配信タイトル|コラボ内容|h
+|23/10/20|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【ストグラメンバーでエペカスタム】>>https://youtu.be/hOY9xJxymfk?si=CLcLJDr2g4ZnDNy_]]|ゆちゃ、シュガピ、ねねでエペカスタム|
+|24/01/22|[[APEX猫マンゴーCUP(team12:パカエルさん、えびちゃん)>>https://youtu.be/J29fkfQg43U?si=ofy0vD71TXmGYJDv]]|[[芳賀　ノエル]]、[[えびな　ヨネ]]役のお二人と参加|
+#table_sorter{even=#f7f7f7,odd=fff}
+//
+**&size(20){&color(#8d1a4a){&size(25){&color(#8d1a4a){グ}}ッズ・イベント}}
+#region(コラボ)&bold(){コラボ}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://x.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9ULL?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラULL</a> アップデート情報公開 ✧₊<br><br>⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰<br>　菖光亭 × YURINAN<br>　　 コラボ決定<br>⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰ ⋱⋰<a href="https://x.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a> 初の実店舗コラボが決定！<br>リアル(夢)の世界で菖光亭のどら焼きを食べれます✨<br><br>詳細 ▷ <a href="https://t.co/StJYfH18mc">https://t.co/StJYfH18mc</a><br><br>配信場所：<a href="https://t.co/TsDyLltl3n">https://t.co/TsDyLltl3n</a> <a href="https://t.co/ewKZRtlLGp">pic.twitter.com/ewKZRtlLGp</a></p>&mdash; ストグラ運営 (@STGR_RolePlay) <a href="https://x.com/STGR_RolePlay/status/1801593941646606619?ref_src=twsrc%5Etfw">June 14, 2024</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>}
+#endregion()
+
+#region(ゆちゃグッズ)&bold(){ゆちゃグッズ}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ゆちゃめろでぃ初の個人グッズ販売です♪<br>個人医卒業記念やっと販売できました。<br>あのストグラ内で個人医仲間に渡したメディカルバッグのアクキーも販売です！！<a href="https://t.co/MMNdr2YOVN">https://t.co/MMNdr2YOVN</a> <a href="https://x.com/hashtag/booth_pm?src=hash&amp;ref_src=twsrc%5Etfw">#booth_pm</a><a href="https://x.com/hashtag/%E3%82%86%E3%81%A1%E3%82%83%E3%82%81%E3%82%8D%E3%81%A7%E3%81%83?src=hash&amp;ref_src=twsrc%5Etfw">#ゆちゃめろでぃ</a> <a href="https://x.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a> <a href="https://x.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9%E5%80%8B%E4%BA%BA%E5%8C%BB?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ個人医</a></p>&mdash; ゆちゃむ🍓🩺 (@yuchamchan0928) <a href="https://x.com/yuchamchan0928/status/1942127799478923438?ref_src=twsrc%5Etfw">July 7, 2025</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>}
+#endregion()
+
+#region(オフイベ)&bold(){オフイベ}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">🎂ねおんぴ（<a href="https://x.com/hashtag/neon_niconico?src=hash&amp;ref_src=twsrc%5Etfw">#neon_niconico</a>）とW誕生祭オフイベ開催です！！<br>【日程】<br>7/19(日) <br>1部18:00-20:00 <br>2部20:30-22:30 <br>【場所】<br>エンタメイベントBAR COSMOさん（<a href="https://x.com/hashtag/cosmo_eventbar?src=hash&amp;ref_src=twsrc%5Etfw">#cosmo_eventbar</a>）<br>事前予約のほうが入場料お安くなります。<br>予約はこちらから⬇️<a href="https://t.co/LaUoOEOiLw">https://t.co/LaUoOEOiLw</a>… <a href="https://t.co/8AgH3kzNx4">pic.twitter.com/8AgH3kzNx4</a></p>&mdash; ゆちゃむ🍓🩺 (@yuchamchan0928) <a href="https://x.com/yuchamchan0928/status/2068651413874565458?ref_src=twsrc%5Etfw">June 21, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>}
+#endregion()
+
+#region(たいゆちゃこみユングッズ)&bold(){たいゆちゃこみユングッズ}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://x.com/hashtag/%E3%81%9F%E3%81%84%E3%82%86%E3%81%A1%E3%82%83%E3%81%93%E3%81%BF%E3%83%A6%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#たいゆちゃこみユン</a> グッズ販売中です！<br>7/30 21:00～ 8/13 23:59 受注販売です♪<br>購入はこちらから👇<a href="https://t.co/JSraIkdkhz">https://t.co/JSraIkdkhz</a> <a href="https://t.co/yDQErdA5Aq">pic.twitter.com/yDQErdA5Aq</a></p>&mdash; ゆちゃむ🍓🩺 (@yuchamchan0928) <a href="https://x.com/yuchamchan0928/status/2082800671372480881?ref_src=twsrc%5Etfw">July 30, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>}
+#endregion
+
+#region(ストグラカップルズアニメイトフェア開催記念Gratte,open)&bold(){ストグラカップルズアニメイトフェア開催記念Gratte}
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://x.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9%E3%82%AB%E3%83%83%E3%83%97%E3%83%AB%E3%82%BA?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラカップルズ</a> <br>アニメイトフェア＆Gratte コラボ♬<br>全国１２店舗のアニメイトにて開催決定✨<a href="https://x.com/hashtag/%E3%82%B0%E3%83%A9%E3%83%83%E3%83%86?src=hash&amp;ref_src=twsrc%5Etfw">#グラッテ</a> <a href="https://t.co/F115f2yArX">https://t.co/F115f2yArX</a><br>アニメイト <a href="https://t.co/kcqsoQboNz">https://t.co/kcqsoQboNz</a> <br><br>▼開催期間 9/5~9/27まで… <a href="https://t.co/hVm3VNpjjz">pic.twitter.com/hVm3VNpjjz</a></p>&mdash; ゆちゃむ🍓🩺 (@yuchamchan0928) <a href="https://x.com/yuchamchan0928/status/2089686661957632360?ref_src=twsrc%5Etfw">August 18, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

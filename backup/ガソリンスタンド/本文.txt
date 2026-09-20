@@ -1,0 +1,1867 @@
+----
+&font(16px,b,#bbb){このページではSeason2以降のガソリンスタンド情報をまとめています。}
+----
+//&image(ここに画像のURLを入力,y=300)
+&font(b,#969696){編集募集中。情報求。}
+編集者各位：本ページには拠点数が多く、同時編集の恐れもあると考えております。同時編集で片方が消えるなどの悲しいことを防ぐために、#includeでの編集の検討も視野に入れて編集のご協力をお願いします。
+また書式（枠組み）は作りましたが、住民と経営の特色溢れる世界を反映するような記載大歓迎です。編集ありがとうございます。
+プラグインの設定や不安を感じる方はコメントアウト（//）等でご相談ください。
+*****編集者相談用コメントアウト
+//〓〓〓〓〓
+#co{
+このガソリンスタンドのページはSeason2の情報だけ記載ですか？
+↑質問ありがとうございます。私がseason1のガソリンスタンド情報を追えていないため、season2からの情報にしようと考えております。もしくは記載のご協力可能でしたらseason1を記載して問題ないとも考えています。smith（8/15_16:30）
+↑ありがとうございます！S1の最低限の情報はS1施設情報にまとまっているので、このページはS2の詳細情報のみでも全然問題ないと個人的には思います。
+↑ではS2の情報でまとめていきたいと思います。仕組み的に、経営権は移りやすいかと思われるため、歴史が紡がれるよう皆様よろしくお願いいたします。smith（8/16_8:20）
+
+この時間の編集は重複分の削除をしただけです(8/16 14:33)
+↑ありがとうございます。（8/17_1:35）
+
+アットウィキの仕様で「#co{}」の中に「***」があると、通常表示されている「***」がズレてしまうため、「//」を追記しました。
+
+}
+//〓〓〓〓〓
+*基本情報
+//❗️不要な行は削除して使用してください
+#table_style(head=#C0C0C0){}
+|~職業名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(){ガソリンスタンド}|
+|~民営開始日|~&space()&icon_fa(fa fa-flag)&space()|2026年7月22日&br()&small(){（&countup(2026/7/21,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~業種|~&icon_fa(fas fa-gas-pump)|販売業|
+|~所在地|~&space()&icon_fa(fa fa-map-marker)&space()|ロスサントス各地|
+//|~公式 TwiX|~&icon_fa(fa fa-bullhorn)|@××××|
+//|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|施設名|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion(目次)
+----
+***&font(18px){販売内容}
+車両やヘリに給油する。完全にガス欠になる前に補充しよう。
+また、ジェリ缶(ガソリン携行缶)を販売しており、空のジェリ缶に給油することもできる。
+スタンドは完全セルフ方式のため、自分でノズルを持ち、給油する。
+一応出荷もできる。
+
+***&font(18px){経営}
+オーナーのいない既存店舗を購入することで、経営ができる。
+販売はセルフ式なので、接客の必要はない。
+#region(注意事項,close)注意事項
+購入後オーナー権限の譲渡は出来ない。雇える従業員は8名まで。
+オーナー、従業員は白市民（白市民パス不要）のみ。もし道路交通法違反以外の犯罪をした場合オーナーはオーナー権限没収、従業員は即解雇となる。
+ガソリン在庫が10％未満の状態で2週間経過するとオーナー権が失効となる。
+その他市の判断によりオーナー権限を剥奪する場合がある。
+ガソリンスタンド同士のトラブルに市は介入しない。
+#endregion(注意事項)
+
+***&font(18px){市営から民営へ}
+2026年7月22日 住民アンケートにて投票数が多かった上位 10カ所 のガソリンスタンドはオークション形式でオーナーを決定。
+2026年7月29日 17カ所 のガソリンスタンドは抽選販売でオーナーを決定。
+購入条件は転送後から道路交通法違反以外の犯罪歴がない人のみ。
+特例により4010番地のみ犯罪歴がある人も購入できる。
+ガソリンスタンドは、コンビニの横に併設されている場合が多い。
+
+***&font(18px){オークション結果}
+#region(開く)
+#table_style(head=center:#E6E6FA:100%){番地=center}
+#table_filter(){金額=hide,購入者=show,備考=hide}
+|~番地|~金額|~購入者|~備考|h
+|9033|1億5千万|[[パン　チャン]]|[[LUNA Garage]]内で予算オーバーで競り落とし|
+|4010|9千万|[[加藤　圧]]||
+|8254|7千万|[[岐阜野　こみ蔵]]|[[LUNA Garage]]の代理購入で[[星詠　あう]]がオーナーになる|
+|8194|5千5百万|[[山田　パルコ]]|[[Usa Gimmick Motors]]|
+|1012|2千1百万|[[渡戸　リー]]||
+|8140|1億6千万|[[命田　守]]||
+|7166|8千万|[[謎の男性　しごきち>>三否亭　四五六確]]|[[金融会社>>BJローン]]の顔があるため変装して参加|
+|7101|2億|[[ねずみさん]]||
+|9139|7千万|[[叢雲　るい]]|[[牧田　ここな]]の代理購入|
+|9051|5億|[[謎の男性のわがまま娘（レイカ）>>わおん　ちょき]]|金融会社の顔があるため変装して参加|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=10}
+
+オークション参加者視点動画
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|2026/07/23|[[ジョアンナ町田>>町田　ジョアンナ]]|[[【#ストグラ切り抜き】ガソスタオークション最高額がまさかの○億円？！荒れた舞台の裏で大活躍のよつはちゃんに感謝【ジョアンナ町田/天羽よつは/帝レン/パンちゃん/ももみ】>>https://youtu.be/XSS2dAEhklI]]||
+|2026/07/23|[[謎の男性のペット>>トナ　カイ]]|[[【#ストグラ切り抜き】色物集団でいざ出陣！ガソスタオークション思わぬ壁が！？/トナカイ/千代田ヨウ/三否亭四五六確/わおんちょき/BJローン>>https://youtu.be/cmwFYgiyuq8]]||
+|2026/07/23|[[謎の男性の従者>>千代田　ヨウ]]|[[【ストグラ】ガソスタオークションに大富豪の変装で参加し、信託銀行事業後初の大出費をしてしまうBJローン【千代田ヨウ/ラムチョ/BJローン/切り抜き】>>https://youtu.be/cgC5zwOCwxM]]||
+|2026/07/23|[[岐阜野　こみ蔵]]|[[【#ストグラ】オークションで購入したガソスタのオーナー権を星詠あうに譲るこみ蔵【岐阜野こみ蔵/星詠あう/ユンユンミ】>>https://youtu.be/ToUz72jvWVk]]||
+|2026/07/23|[[レイジー　ルードマン]]|[[【#ストグラ】JTSガソスタ経営の夢を全力で叶えに行ったらすべてがドラマチック過ぎた 【レイジールードマン／ジョアンナ町田／ねずみさん／豆やん／よりどりみどり／ #ストグラSeason2 】>>https://youtu.be/gr7L349hqc4]]||
+|2026/07/23|[[高橋　滅論]]|[[【#ストグラ】一番高い場所は5億越え！？ガソリンスタンドオークション開催！【マダライフ/高橋滅論/タラちゃん/加藤圧/大川/ももみ/四五六確/ちょき/渡戸リー/千代田/叢雲るい/パンちゃん/こみ蔵】>>https://youtu.be/nBAatMRaA9c]]||
+|2026/07/24|[[大　川]]|[[【ストグラ】最高落札額は〇億!? ガソスタオークションに参加して富豪たちの心を抓む闘いに爆笑する大川【切り抜き/けんつめし/小花衣ももみ/遠吠きゃん/梟雄しろや/SUGAROCK】>>https://youtu.be/Y3FIaee9pPA]]||
+|2026/08/05|[[ももみ>>ももみ　マルフォイ]]|[[【 #ストグラSeason2 】ガソスタオークションでBJローンVS不動産！全力で楽しむももみ【 #小花衣ももみ / 切り抜き 】>>https://youtu.be/sRgHhcohsDQ]]||
+|2026/08/13|[[山田　パルコ]]|[[UGM新事業は投資回収に〇年！？最安のガソスタを経営する【 #ストグラSeason2 #切り抜き/#うさぎさん/#山田パルコ/ #UGM /#ストグラ 】>>https://youtu.be/_53AqoURl2Y]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+オークション前日談
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=show}
+|~投稿日付|~視点|~タイトル|~備考|h
+|2026/07/19|[[パン　チャン]]|[[【ストグラ2】ガソスタ経営権を巡ってとんでもないことが起きているリーク情報を手に入れるパンチャン！【パンチャン】【ぱんくん】>>https://youtu.be/8t2e6iS7MHM]]||
+|2026/07/21|[[トナ　カイ]]|[[【#ストグラ切り抜き】新たな投資先として議論することに！ガソスタオークションについて相談が入る！/トナカイ/千代田ヨウ/柚乃いずみ/BJローン>>https://youtu.be/wFDVlQ2VhS4]]|前日談|
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#endregion(オークション結果)
+
+***&font(18px){抽選会結果}
+#region(開く)
+#table_style(head=center:#E6E6FA:100%){番地=center}
+#table_filter(){投稿日付=hide,金額=hide,購入者=show,備考=hide}
+|~投稿日付|~番地|~金額|~購入者|~タイトル|~備考|h
+|2026/07/31|3008||[[大　川]]|[[【ストグラ】ガソスタ経営権抽選会で獲得したオーナー権譲渡の現場でやらかして爆笑する大川／魔女の酒場に集結するおじたち【切り抜き/天羽よつは/羽ヶ町つまみ/FOXRABBIT/BOIRA】>>https://youtu.be/q38XIG7lkMw]]||
+|2026/07/30|||[[トナ　カイ]]|[[【#ストグラ切り抜き】謎の多額投資に納得！？ガソスタの錬金術を発見するトナカイ！？/トナカイ/パキち/BJローン>>https://youtu.be/Ax5osQVXbFw?t=612]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#endregion(抽選会結果)
+
+**沿革
+***2026年
+#region(,open)
+#table_filter(){日付=show,出来事=show,関係者=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~備考|h
+|7/22|第1回販売　オークション|　|10か所&font(80%){&openclose2(show=※注釈クリック){： 7101、8140、9015、7166、8254、8194、9033、1012、4010、9139 }}|
+|7/29|第2回販売　抽選|　|17か所&font(80%){&openclose2(show=※注釈クリック){： 1000、1054、2006、3008、3037、3051、3056、4011、4023、4025、5011、5016、7001、7302、7355、9094、9330（内3037、7001、7302は新規住民のみ対象）}}|
+//|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+**グループ経営店
+複数人で経営している。経営状況もさまざまである。
+***渡戸石油グループ
+北にある計5拠点のガソリンスタンドを経営
+
+***BJローン
+計4拠点のガソリンスタンドを経営
+
+***LUNA Garage
+計2拠点のガソリンスタンドを経営
+
+***JTS
+7101番地のガソリンスタンドを経営（通称：JGS/ジョアンナガスステーション）。
+
+***UGM
+8194番地のガソリンスタンドを経営
+
+***わんも〜Cafe
+9139番地のガソリンスタンドを経営（通称：[[わんも〜GAS STATION>>わんも〜Cafe/わんも〜GAS STATION]]）。
+
+***救急救命隊
+9094番地のガソリンスタンドを経営
+
+**ガソリンスタンド一覧
+#region(一覧,open)
+※番地からページ内の拠点詳細にリンクで飛べるよう調整済み
+#table_filter(){経営権購入日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~経営権購入日|~備考|h
+|&link_anchor(1000){1000}|北のサーキット場|[[レッサン　パンナ]]|[[渡戸林業]]（渡戸石油グループ）|2026/07/29|　|
+|&link_anchor(1012){1012}|リサイクルセンター|[[渡戸　リー]]|[[渡戸林業]]（渡戸石油グループ）|2026/07/22|通称：渡戸石油本店|
+|&link_anchor(1054){1054}|北病院|[[日々]]|[[渡戸林業]]（渡戸石油グループ）|2026/07/29|　|
+|&link_anchor(2006){2006}|　|[[--]]|　|2026/mm/dd|　|
+|&link_anchor(3008){3008}|砂漠警察署|[[大　川]]|[[渡戸林業]]（渡戸石油グループ）|2026/07/29|　|
+|&link_anchor(3037){3037}|砂漠の飛行場|[[柚乃　いずみ]]|　|2026/07/29|新規住民のみ購入可能&br()通称：サニーOIL|
+|&link_anchor(3051){3051}|鉱山・プリズン|[[音姫　みつお]]|[[渡戸林業]]（渡戸石油グループ）|2026/07/29|通称：音姫石油|
+|&link_anchor(3056){3056}|鉱山|[[イチカ　ウィルキンズ]]|[[渡戸林業]]（渡戸石油グループ）|2026/08/13|音姫石油提携スタンド|
+|&link_anchor(4010){4010}|中央サーキット場|[[加藤　圧]]|　|2026/07/22|特例により犯罪歴がある人も購入可能|
+|&link_anchor(4025){4025}|中央サーキット場・プリズン|[[なのの　なの]]|[[BJローン]]|2026/07/29|　|
+|&link_anchor(5011){5011}|軍事基地|[[パキ　ち]]|[[BJローン]]？|2026/07/29|　|
+|&link_anchor(5016){5016}|　|[[葛城　司]]|　|2026/07/29|　|
+|&link_anchor(7001){7001}|[[タクシー会社>タクシー会社HQ（仮）]]|[[帆立　ほたる]]|[[Urashima]]|2026/07/29|新規住民のみ購入可能|
+|&link_anchor(7101){7101}|[[JTS]]|[[ジョアンナ　町田>町田　ジョアンナ]]|[[JTS]]|2026/07/22|　|
+|&link_anchor(7166){7166}|[[BJローン]]・墓場|[[わおん　ちょき]]|[[BJローン]]|2026/07/22|　|
+|&link_anchor(7302){7302}|　|[[ボクジュール　すずり]]||2026/07/29|新規住民のみ購入可能|
+|&link_anchor(7355){7355}|　|[[--]]|　|2026/mm/dd|　|
+|&link_anchor(8140){8140}|東警察署|[[命田　守]]|　|MIDDLE:2026/07/22|[[葛城　司]]（経理担当）|
+|&link_anchor(8194){8194}|[[UGM]]|[[山田　パルコ]]|[[UGM]]|2026/07/22|　|
+|&link_anchor(8189){8189}|　|[[--]]||2026/mm/dd|　|
+|&link_anchor(8254){8254}|船着き場|[[星詠　あう]]||2026/07/22|　|
+|&link_anchor(8264){8264}|　|[[--]]||2026/mm/dd|　|
+|&link_anchor(9033){9033}|[[LUNA Garage]]|[[月乃　えるな]]|[[LUNA Garage]]|2026/07/22|　|
+|&link_anchor(9051){9051}|　|[[三否亭　四五六確]]|[[BJローン]]|2026/07/22|　|
+|&link_anchor(9094){9094}|　|[[橘　かげまる]]|[[救急救命隊>ロスサントス救急救命隊]]|2026/07/29|　|
+|&link_anchor(9139){9139}|旧南署インパウンド場|[[牧田　ここな]]|[[わんも〜Cafe]]|2026/07/22|通称：[[わんも〜GAS STATION>>わんも〜Cafe/わんも〜GAS STATION]]|
+|&link_anchor(9330){9330}|　|[[レイジー　ルードマン]]||2026/08/23|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff}
+#co{
+  #table_sorter(){head=#e6e6fa,even=white,repeathead=15}
+  一覧の間にタイトルを差し込む「repeathead=15」について、誤作動をしているのか、
+　表示される幅が崩れてしまいます。
+　確認の妨げになる為、一旦削除しています。(8/18 15:11)
+}
+#endregion
+
+
+**ガソリンスタンド拠点詳細
+//------------------------------------------------------------------------------------------
+***&aname(1000,option=nolink){1000}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|1000|北のサーキット場|[[レッサン　パンナ]]|[[渡戸林業]]（渡戸石油グループ）|抽選|2026/07/29|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[渡戸　リー]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[日々]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(1000)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(1012,option=nolink){1012}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|1012|リサイクルセンター|[[渡戸　リー]]|[[渡戸林業]]（渡戸石油グループ）|オークション|2026/07/22|yyyy/mm/dd|通称：渡戸石油本店|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[日々]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[レッサン　パンナ]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[音姫　みつお]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[佐藤　アキラカ]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(1012)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(1054,option=nolink){1054}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|1054|北病院|[[日々]]|[[渡戸林業]]（渡戸石油グループ）|抽選|2026/07/29|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[渡戸　リー]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[音姫　みつお]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[小者　デヤンス]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(1054)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(2006,option=nolink){2006}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|2006|　|[[--]]|　||2026/mm/dd|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(2006)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(3008,option=nolink){3008}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|3008|砂漠警察署|[[大　川]]|--　|抽選|2026/07/29|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|2026/07/31|[[大　川]]|[[【ストグラ】ガソスタ経営権抽選会で獲得したオーナー権譲渡の現場でやらかして爆笑する大川／魔女の酒場に集結するおじたち【切り抜き/天羽よつは/羽ヶ町つまみ/FOXRABBIT/BOIRA】>>https://youtu.be/q38XIG7lkMw]]||
+|2026/08/02|[[大　川]]|[[【ストグラ】ボイラといつものチョケチェイスのはずがガソスタオーナー剝奪の危機に!? 市職員ジョアンナに経緯説明しつつ一旦ごねる大川【切り抜き/BOIRA/羽ヶ町つまみ/けんつめし】>>https://youtu.be/rz59naQNLd8]]||
+|2026/08/02|[[ボイラ　テンガリン]]|[[【#ストグラ】道交法でチェイスに発展！ガソスタオーナー剥奪にまで大川を追い詰めたボイラ【ボイラ/ストグラ切り抜き】>>https://youtu.be/ou5Gm3TBrjQ]]||
+|2026/08/03|[[ジョアンナ町田>>町田　ジョアンナ]]|[[【ストグラ切り抜き】大川さんが公務執行妨害！どうなるガソスタオーナー！！【ジョアンナ町田/大川/ボイラテンガリン】>>https://youtu.be/tiNrU49MV1Y]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(3008)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(3037,option=nolink){3037}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|3037|砂漠の飛行場|[[柚乃　いずみ]]|--　|抽選|2026/07/29|yyyy/mm/dd|新規住民のみ購入可能&br()通称：サニーOIL|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[音姫　みつお]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[王城　リレイ]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(3037)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(3051,option=nolink){3051}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|3051|鉱山・プリズン|[[音姫　みつお]]|[[渡戸林業]]（渡戸石油グループ）|抽選|2026/07/29|yyyy/mm/dd|通称：音姫石油|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[渡戸　リー]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[レッサン　パンナ]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[イチカ　ウィルキンズ]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[寝言　怠惰]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(3051)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(3056,option=nolink){3056}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|3056|鉱山|[[イチカ　ウィルキンズ]]|[[渡戸林業]]（渡戸石油グループ）||2026/08/13|yyyy/mm/dd|音姫石油提携スタンド|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[音姫　みつお]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[佐藤　アキラカ]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(3056)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(4010,option=nolink){4010}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|4010|中央サーキット場|[[加藤　圧]]|オークション（9千万）||2026/07/22|yyyy/mm/dd|特例により犯罪歴がある人も購入可能|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[聖母　れりあ]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[ノア　チェンバー]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(4010)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(4025,option=nolink){4025}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|4025|中央サーキット場・プリズン|[[なのの　なの]]|　|抽選|2026/07/29|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[三否亭　四五六確]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[わおん　ちょき]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[トナ　カイ]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[パキ　ち]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(4025)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(5011,option=nolink){5011}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|5011|軍事基地|[[パキ　ち]]|　||2026/07/29|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[三否亭　四五六確]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[千代田　ヨウ]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[わおん　ちょき]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[なのの　なの]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(5011)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(5016,option=nolink){5016}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|5016|　|[[葛城　司]]|　||2026/07/29|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(5016)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(7001,option=nolink){7001}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|7001|[[タクシー会社>タクシー会社HQ（仮）]]|[[帆立　ほたる]]|[[Urashima]]|抽選|2026/07/29|&co(yyyy/mm/dd)|新規住民のみ購入可能|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[星ノ　みこ]]|2026/07/30|yyyy/mm/dd||
+|[[grow]]|2026/07/30|yyyy/mm/dd||
+|[[時不知　鮭雄]]|2026/07/30|yyyy/mm/dd|アルバイト|
+|[[小此木　ナカバ]]|2026/08/19|yyyy/mm/dd||
+|[[呂色　いろ]]|2026/08/19|yyyy/mm/dd|アルバイト|
+|[[毒多　博士]]|2026/09/06|yyyy/mm/dd||
+|[[さとう]]|2026/09/12|yyyy/mm/dd|アルバイト|
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(7001)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(7101,option=nolink){7101}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|7101|[[JTS]]|[[ジョアンナ　町田>町田　ジョアンナ]]|[[JTS]]|オークション（）|2026/07/22|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[豆　やん]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[ねずみさん]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[よりどり　みどり]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[レイジー　ルードマン]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[圧子]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[罰　下リ]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[アイドゥラー　ヨシャパテ]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(7101)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(7166,option=nolink){7166}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|7166|[[BJローン]]・墓場|[[わおん　ちょき]]|[[BJローン]]|オークション（）|2026/07/22|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[三否亭　四五六確]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[千代田　ヨウ]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[トナ　カイ]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[なのの　なの]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[ヤシャ　ロア]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(7166)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(7302,option=nolink){7302}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|7302|　|[[ボクジュール　すずり]]|||2026/07/29|yyyy/mm/dd|新規住民のみ購入可能|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(7302)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(7355,option=nolink){7355}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|7355|　|[[--]]|　||2026/mm/dd|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(7355)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(8140,option=nolink){8140}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|8140|東警察署|[[命田　守]]|　|オークション（）|2026/07/22|yyyy/mm/dd|[[葛城　司]]（経理担当）|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[葛城　司]]|2026/07/22|yyyy/mm/dd|経理担当|
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(8140)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(8194,option=nolink){8194}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|8194|[[UGM]]|[[山田　パルコ]]|[[UGM]]|オークション（5千5百万）|2026/07/22|yyyy/mm/dd|ロスサントス最安値|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[万十忍>万十　忍]]|2026/07/22|yyyy/mm/dd||
+|[[ゆたんぽ>ゆた　んぽ]]|2026/07/23|yyyy/mm/dd||
+|[[星唄サウ汰>星唄　サウ汰]]|2026/07/29|yyyy/mm/dd||
+|[[星乃すみ>星乃　すみ]]|2026/08/06|yyyy/mm/dd||
+|[[浦戸ゼン>浦戸　ゼン]]|2026/08/07|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#co{
+
+|[[さとう]]|2026/08/14|2026/08/14||
+|[[大坂ボスナ>大阪　ボスナ]]|2026/08/14|2026/08/14||
+|[[王城リレイ>王城　リレイ]]|2026/08/14|2026/08/14||
+|[[鈴那衣遠>鈴那　衣遠]]|2026/08/14|2026/08/14||
+
+「協力者」はバイトも記載した方がいいのでしょうか？
+↑気が付くのが遅くなり申し訳ありません。記載有無どちらでも問題ありません！書式（枠組み）は作りましたが、自由に記載して大丈夫です。住民と経営の特色溢れる世界を反映していいと考えています。編集ありがとうございます。smith（8/17_11:40）
+}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|2026/08/13|[[山田　パルコ]]|[[UGM新事業は投資回収に〇年！？最安のガソスタを経営する【 #ストグラSeason2 #切り抜き/#うさぎさん/#山田パルコ/ #UGM /#ストグラ 】>>https://youtu.be/_53AqoURl2Y]]||
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(8194)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(8189,option=nolink){8189}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|8189|　|[[--]]|||2026/mm/dd|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(8189)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(8254,option=nolink){8254}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|8254|船着き場|[[星詠　あう]]|　|オークション（7千万）|2026/07/22|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(8254)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(8264,option=nolink){8264}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|8264|　|[[--]]|||2026/mm/dd|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(8264)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(9033,option=nolink){9033}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|9033|[[LUNA Garage]]|[[月乃　えるな]]|[[LUNA Garage]]|オークション（1億5千万）|2026/07/22|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[葛城　司]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[捌木　たいたい]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[こさ　猫弐郎]]|yyyy/mm/dd|yyyy/mm/dd||
+|[[パン　チャン]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(9033)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(9051,option=nolink){9051}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|9051|　|[[三否亭　四五六確]]|[[BJローン]]|オークション（）|2026/07/22|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[千代田　ヨウ]]|2026/07/22|yyyy/mm/dd||
+|[[トナ　カイ]]|2026/07/22|yyyy/mm/dd||
+|[[わおん　ちょき]]|2026/07/22|yyyy/mm/dd||
+|[[なのの　なの]]|2026/08/21|yyyy/mm/dd||
+|[[安城　成]]|2026/08/21|yyyy/mm/dd||
+|[[ヤシャ　ロア]]|2026/08/22|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(9051)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(9094,option=nolink){9094}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|9094|　|[[橘　かげまる]]|[[救急救命隊>ロスサントス救急救命隊]]|抽選|2026/07/29|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[葛城　司]]|2026/08/01|yyyy/mm/dd||
+|[[ノビー　ラング]]|2026/08/05|yyyy/mm/dd||
+|[[雷堂　ましろ]]|2026/08/06|yyyy/mm/dd||
+|[[執事　K]]|2026/08/06|yyyy/mm/dd||
+|[[鳥野　ぎん]]|2026/08/06|yyyy/mm/dd||
+|[[ももみ]]|2026/08/09|yyyy/mm/dd||
+|[[ブラック　ジャックス]]|2026/08/09|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(9094)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(9139,option=nolink){9139}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|9139|旧南署インパウンド場|[[牧田　ここな]]|[[わんも〜Cafe]]|オークション（）|2026/07/22|yyyy/mm/dd|通称：[[わんも〜GAS STATION>>わんも〜Cafe/わんも〜GAS STATION]]|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(9139)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+***&aname(9330,option=nolink){9330}
+#region(詳細,open)
+#table_filter(){オーナー=show,グループ経営=show,購入方法=hide,経営権購入日=hide,経営権失効日=hide,備考=hide}
+#table_style(#E6E6FA){}
+|~番地|~最寄り|~オーナー|~グループ経営|~購入方法|~経営権購入日|~経営権失効日|~備考|h
+|9330|　|[[レイジー　ルードマン]]||一般販売|2026/08/23|yyyy/mm/dd|　|
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=20}
+***従業員情報
+****従業員
+#table_filter(){就職日=hide,最終出勤日=hide,備考=show}
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[レイジー　ルードマン]]|2026/08/23|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+***その他（協力者）
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#region(関連動画,close)
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=hide,視点=show,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|mm/dd|視点|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//***退職者
+#co{
+//***商品情報
+//****商品一覧
+#region(,open)
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+//
+//***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion(メニュー画像)
+}
+#endregion(9330)
+#right(){&link_up(🔝ページTOPへ)}
+----
+//------------------------------------------------------------------------------------------
+
+　

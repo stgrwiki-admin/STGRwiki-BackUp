@@ -1,0 +1,568 @@
+*プロフィール
+&image(閃光寺亜夢.jpg,y=400)
+
+//ここからプロフィール
+#table_style(head=#E6E6FA:#666666){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(せんこうじ){閃光寺}　&ruby(あむ){亜夢}|
+|~出身地|~&icon_fa(fa fa-location-dot)||
+|~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|【[[Wizardry Works]]】建築士 &small(){(2026/03/11～)}&br()【[[Vertex]]】カジノディーラー &small(){(2026/08/08～)}|
+|~所属|~&icon_fa(fa fa-users)||
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@senkoujiamu|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|うめJam|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://twitter.com/umejam0]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/c/anaumeCH]]|
+|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):&icon_fa(fa fa-user-plus)|&small(){&openclose2(show=※ネタバレ注意){&br()[[ジャムリーヌ　バルサミコス]] / [[ムージャ　ヘクマティアル]]}}|
+//
+#co{コピー用🔽以下必要な場合にご利用下さい
+
+【Instagram】&font(#CF2E92){&icon_fa(fa-brands fa-instagram)} [[&font(#DC2E74){Instagram}>>ここにアカウントのURLを入力]]
+
+ 【ツイキャス】[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting(チャンネル名)}>>ここにチャンネルのURLを入力]]
+【TikTok】&font(#000){&icon_fa(fa-brands fa-tiktok)}[[&font(#000){TikTok(チャンネル名)}>>ここにチャンネルのURLを入力]]
+【キック】[[&font(#008000){&icon_fa(fa fa-external-link)Kick(チャンネル名)}>>ここにチャンネルのURLを入力]]
+
+}
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-24歳
+-公務員学校（警察）に通っている
+-現場研修がロスサントスだったため、ロスサントスに来た
+--学校側の不備のため研修が遅れることになったと連絡があり、研修開始までは観光をする
+-基本的に敬語だが、まだ若いためだいぶ崩れた敬語で話す
+-ロスサントスに来る前、アルバイトで自動販売機補充用トラックにドリンクを補充するバイトをしたことがある
+-2026/03/11 [[Wizardry Works]]の建築士に就職。天職としてどハマリ。
+--建物の間取り制作のほかハウジングでの装飾依頼も受け付けている。
+***建築・内装依頼一覧
+#region(開く)
+#table_filter(){番地=show,備考=show,施工料金=hide}
+#table_style(head=#EDD5BE){建築士=b:center,ハウジング=b:center,進捗状況=center,番地=center,依頼者/所有者=b,完成画像=center}
+|~依頼者/所有者|~建築士|~ハウジング|~進捗状況|~番地|~建物種別|~備考|~施工料金|CENTER:~完成画像|MIDDLE:CENTER:~&font(#DA1725){&icon_fa(fa-brands fa-youtube)}|
+|[[Wizardry Works]]|〇|-|施工済|-|住居|ワンルームハウス テスト物件|-||[[&font(#DA1725){YouTube}>>https://youtu.be/4iG_wgaPcWQ]]|
+|~|〇|〇|施工済|-|EX-LiveHouse|レンタル物件(予定)|-||[[&font(#DA1725){YouTube}>>https://youtu.be/uocoyiSSwIk]]|
+|~|〇|-|施工済|-|ミニライブハウス|使用予定がなくなったライブハウスをモデルルーム用に変更|-||[[&font(#DA1725){YouTube}>>https://youtu.be/TrHdw94wtUU]]|
+|~|〇|-|施工済|-|住居|中庭付き2LDK|-||[[&font(#DA1725){YouTube}>>https://youtu.be/gx0kER4IImI]]|
+|~|〇|-|施工済|-|店舗/カフェ||-||[[&font(#DA1725){YouTube}>>https://youtu.be/qIITPNOK7Lk]]|
+|[[飯田　けんつ]]|〇|〇|施工済|-|店舗/書店|[[飯田書店]]|-|&blankimg(Housing_飯田書店.jpeg,x=140,y=80)|[[&font(#DA1725){YouTube}>>https://youtu.be/yIBuCFW4TOQ]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/vZzJdnt_mhU]] |
+|[[ロスサントス救急救命隊]]|〇|△|施工済|8040|病院/宿直室|救急隊のプライベートスペース|-|&blankimg(Housing_救急隊宿直室.jpeg,x=140,y=80)|[[&font(#DA1725){YouTube}>>https://youtu.be/HzoZzTNFHyw]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/bUE_rZ0f9Ig]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/bUE_rZ0f9Ig]]|
+|[[ザ！！！コーラボーイ！！！]]|〇|〇|施工済|-|店舗|キャバクラ風の内装|-|||
+|[[NOVA FAMILIA]]|〇|〇|施工中|-|ギャングアジト|　|-||[[&font(#DA1725){YouTube}>>https://youtu.be/9Of46lpoVlk]]|
+|[[さとう]]|〇|〇|施工済|-|店舗/ライブハウス|イベント系飲食店|-|||
+|[[NO LIMIT]]|〇|-|施工済|-|拠点||-||[[&font(#DA1725){YouTube}>>https://youtu.be/a2hhfuSfvOk]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/WMUVtfddd-E]]|
+|[[トウ　ユン]]|〇|-|施工済|-|ギャングアジト||-||[[&font(#DA1725){YouTube}>>https://youtu.be/mViGRaqZwNE]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/zTYyHDqF_kI]]|
+|[[銭形　やいち郎]]|〇|-|施工済|-|音楽スタジオ||-||[[&font(#DA1725){YouTube}>>https://youtu.be/y4mtqE8U_tI]]|
+|[[まるマヨ]]|〇|-|施工済|-|住居||-||[[&font(#DA1725){YouTube}>> https://youtu.be/f8ZQm1PCUTU]]|
+|[[アルタ・スカイブルー]]&br()[[高橋　滅論]]|〇|-|施工済|-|店舗/ボドゲバー||-||[[&font(#DA1725){YouTube}>>https://youtu.be/hUUrytZtPgY]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/zTYyHDqF_kI]]|
+|[[ブラック　ジャックス]]&br()[[猫又　ぴぴ]]|〇|-|施工済|-|店舗/飲食店|飲食店『after U』|-||[[&font(#DA1725){YouTube}>>https://youtu.be/O78RPzKjHIc]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/iaHko5aGrZE]]|
+|[[ゆちゃ　めろでぃ]]|〇|-|施工済|-|店舗/飲食店||-||[[&font(#DA1725){YouTube}>>https://youtu.be/1HrF4lXoMgg]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/7r0jq1Foavk]]|
+|[[ももみ]]&br()[[ノビー　ラング]]&br()[[葛城　司]]|〇|-|施工済|-|店舗/飲食店|[[魔法学校カフェ>>https://w.atwiki.jp/streamergta5/pages/3708.html]]|-||[[&font(#DA1725){YouTube}>>https://youtu.be/QEu4DZBTvlA]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/8nu_hAgbN6g]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/mtlu9V9OioM]]|
+|[[LUNA Garage]]|〇|-|施工済|-|社宅||-|&blankimg(Housing_LUNAGarage.webp,x=140,y=80)|[[&font(#DA1725){YouTube}>>https://youtu.be/yobr1-vpT9E]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/1syXWFTYir4]]|
+|[[星ノ　みこ]]|〇|-|施工済|-|住居||-||[[&font(#DA1725){YouTube}>>https://youtu.be/e6Vo85rscV4]]|
+
+#table_autoincrement(){label=No,start=1}
+
+//
+#co{
+|[[名前or組織代表者]]|　|-|施工中|-|種別|備考|-|||
+
+|[[名前]]|〇|-|施工済|-|種別|備考|-||[[&font(#DA1725){YouTube}>>リンク]]|
+
+[[&font(#DA1725){YouTube}>>URL]]
+
+完成画像 ▶︎ &image(画像名,x=200)
+}
+#endregion
+#size(50%){　}
+#region(建築物件画像)建築物件画像
+|&image(https://img.atwiki.jp/streamergta5/attach/3486/26363/%E9%96%83%E5%85%89%E5%AF%BA_%E3%83%86%E3%83%A9%E3%82%B9%E4%BB%98%E3%81%8D%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0.jpg,x=300)|&image(https://img.atwiki.jp/streamergta5/attach/3486/26364/%E9%96%83%E5%85%89%E5%AF%BA_%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8F%E3%82%A6%E3%82%B9.jpg,x=300)|
+|テラス付きワンルーム|ライブハウス|
+|&image(https://img.atwiki.jp/streamergta5/attach/3486/26365/%E9%96%83%E5%85%89%E5%AF%BA_%E3%82%AB%E3%83%95%E3%82%A7.jpg,x=300)|&image(https://img.atwiki.jp/streamergta5/attach/3486/26366/%E9%96%83%E5%85%89%E5%AF%BA_2LDK.jpg,x=300)|
+|カフェ|中庭付き2LDK|
+|&image(https://img.atwiki.jp/streamergta5/attach/2900/27170/%E9%A3%AF%E7%94%B0%E6%9B%B8%E5%BA%97_%E5%86%85%E8%A3%851.jpg,x=300)|&image(https://img.atwiki.jp/streamergta5/attach/2900/27171/%E9%A3%AF%E7%94%B0%E6%9B%B8%E5%BA%97_%E5%86%85%E8%A3%852.jpg,x=300)|
+|>|飯田書店(ハウジング込み)|
+#endregion(建築物件)
+
+*エピソード
+**簡易エピソード
+***&font(18px){2026年}
+#region(開く,open)閉じる
+-&bold(){2026/3/5} 海上レストラン[[Urashima]]オープン記念イベントで行われたこの街初の公認レース大会で1位を獲得。
+-[[飯田書店]]で販売する「ナゾ解き本」を執筆。[[飯田けんつ]]のセールス力もあり好調な売れ行き。3/4発売開始。
+-&bold(){2026/3/11} 建築士に就職。翌日からワンルームとライブハウスの2件の内装を手掛け、天職として楽しく建築士として様々な物件を手掛ける。
+-依頼された飯田書店の建築物件に対して、不動産・建築士の双方で認識違いがあり初期予算額(5000万)を大幅にオーバーした内装が完成してしまった(不動産の査定では内装だけで1.5億相当)。飯田書店側と協議し価格は初期予算の倍の1億とし住宅ローンでの支払いを可能とすることで合意を得た。フロアを減らし価格を抑える案もあったがけんつからはせっかく亜夢が全力で要望に応えて作ってくれたものだからそのまま使いたかったという嬉しい言葉を貰った。
+-まさかの建築縛りプレイであることが発覚。何かの歪みで最初から亜夢だけ大理石シリーズが表示されないという縛りだった。
+--&bold(){2026/3/29} 救急隊の宿直室＆会議室作成中に改善。大理石シリーズも表示された。
+--&bold(){2026/4/1}　また表示されないので、デバック処理。表示させる方法がわかった(設定で解像度をいじると表示される)。
+#region(とある1日のなにかの琴線に触れる出来事)
+とある日、アクアオヴェストにてご飯を買いに行くと店員が銭形のみ、
+来店客がキミトス一行という空間だった。なぜだかとても気まずい雰囲気を感じる中、その中にいたレイラという子から名前をJAM？と間違えられる
+亜夢と返すと耳が悪いのか何回かジャムと言われる
+
+なんでだろう
+#endregion()
+#endregion(2026年)
+
+**日別エピソード
+&color(#F54738){※一行から編集歓迎}
+&font(b,16px,#444){2025年}
+***12月
+#region(開く)&bold(){閉じる}
+****12/19 [[シーズン2初日から参加します>>https://m.youtube.com/watch?v=Qp7_IlFQj5c]]
+#region(開く,open)
+-空港に降り立つ
+--たまたま同じ便できた[[脇　逢魔]]、[[もね]]、[[柚乃　いずみ]]、[[陽影　空]]と会う（新規住民）
+-自転車を借りる
+-イロハがジャックスに殴りかかっているところと出会う
+-レギオン公園に行く
+-ツイックスアカウントを作成
+-いずみの自転車を返す手伝いをする
+-病院横アパートで泊まる場所を確認
+-いずみちゃんお酒大好き
+-リキュールショップという名のコンビニ？
+-いずみと賭けゴルフ
+-銀行にお金が入っていることを確認
+-飛行機の同じ便で来た仲間たちと再会
+-空くんのアパート
+--逢魔に上田から電話
+--上田からピンポン
+→おやすみなさい
+----
+#endregion
+****12/24 [[#ストグラ 閃光寺亜夢 2日目>>https://www.youtube.com/live/Wj_CVpxWr_w?si=qCOgZXtSvjjmDOW9]]
+#region(開く,open)
+-歪みのせいでトンネルで起床
+-ゆちゃさんと話す
+-徒歩でレギオンへ
+-寝ている女性につんつん
+-街の探索
+-天草くんの原付後ろに乗せてもらい8000番へ探索
+-フリーカ銀行、奥も入れる
+-モーガンの魂貫
+-ここなさんタクシー
+-窓ふきバイト
+----
+#endregion
+****12/31 [[#ストグラ インフルエンザ治ってきたぞ！ 閃光寺亜夢 3日目>>https://www.youtube.com/live/RNvv-wDV5E0?si=463_f0Cx0prxcCgp]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(12月)
+
+&font(b,16px,#444){2026年}
+***1月
+#region(開く)&bold(){閉じる}
+****1/1 [[#ストグラ あけましておめでとう！ 閃光寺亜夢 4日目>>https://www.youtube.com/live/ag8iRMOnTS0?si=1LVIBl_Bz_-PFeZ3]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****1/4 [[#ストグラ 正月休みも今日で終わりなんだって......閃光寺亜夢 5日目>>https://www.youtube.com/live/JCehlGO2-TM?si=YeFOyidktUHforTe]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****1/10 [[#ストグラ 酒飲みながら街に起きてみよう 閃光寺亜夢 6日目>>https://www.youtube.com/live/P_I1cBA81TY?si=8oI7sdpgLmRjgkBk]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****1/15 [[#ストグラ 交友関係を増やしたい 閃光寺亜夢 7日目>>https://www.youtube.com/live/A8EiqsG0qmA?si=UgiCfQn81xCyw8a]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****1/16 [[#ストグラ だべるべ 閃光寺亜夢 8日目>>https://www.youtube.com/live/pIsqO4sN9zk?si=Y668TjvVAqrFB07N]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****1/17 [[#ストグラ ハウジング用資金集め 閃光寺亜夢 8日目>>https://www.youtube.com/live/nQOQgdht6yY?si=99xz59OkyH5kCg1T]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****1/21 [[#ストグラ 上田を探せ❤ 閃光寺亜夢 9日目>>https://www.youtube.com/live/tcbN4T8zvnM?si=k7Y8K3HuTV_nIZd2]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****1/22 [[#ストグラ 胸筋の成長が止まらない 閃光寺亜夢 10日目>>https://www.youtube.com/live/vyeuEetIo3g?si=Y81ivNv9YJAgVKFc]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****1/29 [[#ストグラ 法律が増えたらしい 閃光寺亜夢 11日目>>https://www.youtube.com/live/FD0zHE9y8vs?si=vUxQuCZFGSB4qsXJ]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****1/30 [[#ストグラ カッパ漬けがうますぎて毎日キュウリ生活が苦じゃない 閃光寺亜夢 12日目>>https://www.youtube.com/live/UgNHgMqvSFI?si=dtMEQtxYppjMBFJS]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(1月)
+***2月
+#region(開く)&bold(){閉じる}
+****2/1 [[#ストグラ 最近毎日眠すぎて10時間以上寝てる 閃光寺亜夢 13日目>>https://www.youtube.com/live/Ttvn-qR8ezI?si=bAA7_9biFUhVA6Mf]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****2/5 [[#ストグラ 今月の目標はベンチ100kgです 閃光寺亜夢 14日目>>https://www.youtube.com/live/1XnMMCFpgIs?si=cJaWzY7ZLWPlzplw]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****2/6 [[#ストグラ 酒気帯び人狼ゲーム 閃光寺亜夢 15日目>>https://www.youtube.com/live/7O5CXn8Bxq0?si=Wexrm6qN4L1xeZun]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****2/12 [[#ストグラ 口笛を吹くにはゴリラの顔真似がいいと学んだ 閃光寺亜夢 16日目>>https://www.youtube.com/live/3zD0fQEJC4o?si=AQvqubT-GxG5rSHN]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****2/14 [[#ストグラ ヴァレンタインあらよっとライブ 閃光寺亜夢 17日目>>https://www.youtube.com/live/oE28iLZBpJ0?si=CiZegzHBwBi8fmnx]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****2/18 [[#ストグラ 宝探しが公式実装 閃光寺亜夢 18日目>>https://www.youtube.com/live/413L1ndN-VA?si=-XeUZsdASKxYYbrv]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****2/19 [[#ストグラ 今日こそカウボーイを全て集めたい宝探し 閃光寺亜夢 19日目>>https://www.youtube.com/live/jZ32fE2PkJU?si=vTD29s2W3tq2IFMA]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****2/21 [[#ストグラ 宝探し以外のことをしたいが… 閃光寺亜夢 20日目>>https://www.youtube.com/live/_6S06_Yjllw?si=gEzfclYkOQWr38Fb]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****2/25 [[#ストグラ 増やし鬼とライブを見に行く！ 閃光寺亜夢 21日目>>https://www.youtube.com/live/skOzcNR0gNc?si=MNVQ3uoMCCBXFOph]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****2/26 [[#ストグラ 大歪みの高圧洗浄バイトwww 閃光寺亜夢 22日目>>https://www.youtube.com/live/atsjsHc7gi0?si=JnQYQ5uJGi3D26_2]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(2月)
+***3月
+#region(開く)&bold(){閉じる}
+****3/4 [[#ストグラ 本屋に出品する本ができた！ 閃光寺亜夢 23日目>>https://www.youtube.com/live/v0v0KtUhHBE?si=D7-MCO0prOAkd7uA]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/5 [[#ストグラ 海上レストランOPENイベントレースで1位とった 閃光寺亜夢 24日目>>https://www.youtube.com/live/bLS5mZjniUM?si=fjyReY0gleUdphuR]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/6 [[#ストグラ バーガー屋の面白そうな企画を聞く 閃光寺亜夢 25日目>>https://www.youtube.com/live/ZmKM35z1Ics?si=grtJvhSmjDZXHJwq]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/8 [[#ストグラ 平穏な1日の終わり 閃光寺亜夢 26日目>>https://www.youtube.com/live/Kp_zTGCW3c0?si=ntiRX4ttV0A2dWX9]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/11 [[#ストグラ 建築士始まる！？ 閃光寺亜夢 27日目>>https://www.youtube.com/live/CBzcaJtb6jo?si=5BNSFc1I4YwTenDd]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/13 [[#ストグラ ワンルームとライブハウス作った 閃光寺亜夢 28日目>>https://www.youtube.com/live/6f3WN_J6G8o?si=7WPGPR0m7NeaVGnx]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/14 [[#ストグラ 次のお題は2LDK 閃光寺亜夢 29日目>>https://www.youtube.com/live/kfZsidwhnFc?si=374sm5FFyHWwn221]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/15 [[#ストグラ 「カフェ」つくって建築士のお題が終わった 閃光寺亜夢 30日目>>https://www.youtube.com/live/UoMInZwAecM?si=0DuaNWoZNQip8aVi]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/18 [[#ストグラ 問題発生！+仕事依頼が2件 閃光寺亜夢 31日目>>https://www.youtube.com/live/GWyyW_nAgF8?si=LLau7uRUU6M25kLE]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/19 [[#ストグラ 工場できちゃった 閃光寺亜夢 32日目>>https://www.youtube.com/live/7H7ySWPxKQI?si=PNL8L6N0JZxZYMWj]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/20 [[#ストグラ 建築士でボドゲ再現できそうだ！！ 閃光寺亜夢 33日目>>https://www.youtube.com/live/Wc5MP_A_jt8?si=u7coE-noFfiMpfHk]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/21 [[#ストグラ 来週に向けての営業準備 閃光寺亜夢 34日目>>https://www.youtube.com/live/ggyrbZ67dx0?si=msJkYxAJKSzlyvhs]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/25 [[#ストグラ 遂に街に俺の建築物が入るぞ！！ 閃光寺亜夢 36日目>>https://www.youtube.com/live/jM7Fhxelt4g?si=SjiU-L1GoCyzs1kY]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/26 [[#ストグラ 飯田書店完成させるぞ～！ 閃光寺亜夢 37日目>>https://www.youtube.com/live/8FDNMDCEs2k?si=9QwhNfIlH96u-y_l]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/27 [[#ストグラ 手が完全に開いてしまった建築士 閃光寺亜夢 38日目>>https://www.youtube.com/live/xyHnJDrnUUs?si=F5_6aFSzn6pAEKhM]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/28 [[#ストグラ 俺だけ縛り建築をしていた件 閃光寺亜夢 39日目>>https://www.youtube.com/live/xG_Bkowgv6Y?si=Gmd2hjw_XyOFmINS]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****3/29 [[#ストグラ 暇すぎるから迷路つくるか 閃光寺亜夢 40日目>>https://www.youtube.com/live/pBLIk_g1kno?si=WJe3II_ipc5S-fkP]]
+#region(開く)
+-窓ふきバイト
+-迷路作成
+-餓死目前で開いている飲食店0の為、ツイックスで呼びかけ
+-海上レストランを開けてもらい餓死回避
+-ももみ先生から救急隊依頼の話し合いの為、救急隊の元に向かうが、バイク事故で負傷
+--図らずも救急隊の所に
+-神崎さんとももみ先生と救急隊の談話室兼会議室兼宿直室の建築打合せ
+-早速軽く製作に取り掛かるとカスタムシリーズ表示されない縛りが無くなっていた
+#endregion
+----
+#endregion(3月)
+***4月
+#region(開く,open)&bold(){閉じる}
+****4/1 [[#ストグラ 今週は建築大忙し💦 閃光寺亜夢 41日目>>https://www.youtube.com/live/2si1WkqeIAU?si=f0xlxX7qp55fBk3n]]
+#region(開く)
+-カスタムシリーズ表示されないバグのデバック処理
+--バグ解明
+#endregion
+----
+****4/2 [[#ストグラ お披露目できるかな 閃光寺亜夢 42日目>>https://www.youtube.com/live/GbdYSM8Xmc8?si=Wy2pZDfmhqm90Qzq]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/3 [[#ストグラ またもや暇を持て余した建築士 閃光寺亜夢 43日目>>https://www.youtube.com/live/C2U7L6tWdtc?si=O4p9sHB_aoXCdM0L]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/5 [[#ストグラ ノヴァファミリアとコーラボーイから相談 閃光寺亜夢 44日目>>https://www.youtube.com/live/ddjbmU89-v0?si=dpcvvqafNNN7yLuC]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/8 [[＃ストグラ 建築よりも先にエロ謎解きが完成した 閃光寺亜夢 45日目>>https://www.youtube.com/live/JsyJDwRYh3k?si=Q4ukLfkpuBAavtaQ]]
+#region(開く)
+-建築バイト
+-イースターイベント
+--イースター限定ガン入手
+-謎解き印刷
+-けんつ達にエロ謎解きお披露目
+--修正点確認
+#endregion
+----
+****4/9 [[＃ストグラ 予算無限verを作る 閃光寺亜夢 46日目>>https://www.youtube.com/live/bw9rvg_Vta8?si=7hFQzanm1l1kFS9-]]
+#region(開く)
+-建築バイト
+--ニャンコスキーに建築紹介
+-ツイックスで市長の動画を見る
+--ノヴァファミリアの建築このままだと審査通らないや
+-キャバクラの建築
+--自分の作りたいキャバクラ製作
+--またカスタムシリーズ表示されない
+--レッサンから電話（シャウトになってたｗ）
+-ももみさんと、コーラボーイにキャバクラ披露
+--2つ目のキャバクラは次の目標に
+-イースター集め
+#endregion
+----
+****4/12 [[#ストグラ さとうちゃんのライブハウス作りがムズイ 閃光寺亜夢 47日目>>https://www.youtube.com/live/UCRVZLdKbXM?si=Q1NverdX2xUitTvF]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/15 [[#ストグラ ハウジング編始まる！？ 閃光寺亜夢 48日目>>https://www.youtube.com/live/xtDy0fSZ9rE?si=LXkNFKGuZhSKwSgu]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/16 [[#ストグラ ハウジングで大忙しな建築士 閃光寺亜夢 49日目>>https://www.youtube.com/live/iIxwj59aHpU?si=nccNkvCGdBwf4T7m]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+----
+****4/17 [[#ストグラ 飯田書店ハウジング 閃光寺亜夢 50日目>>https://www.youtube.com/live/t_p-5AcodTc?si=Ms_Km-qToXL6dqVb]]
+#region(開く)
+-エピソード募集中
+#endregion
+----
+****4/18 [[#ストグラ ノーリミ拠点づくり 閃光寺亜夢 51日目>>https://www.youtube.com/live/2oFBXnmkWGM?si=eDmdWsaZP-FLHE_X]]
+#region(開く)
+-エピソード募集中
+#endregion
+----
+****4/19 [[#ストグラ 本本本本本本本本本本本本 閃光寺亜夢 52日目>>https://www.youtube.com/live/vKUJIzrNmHM?si=YcJktNhfB_Cj2dHY]]
+#region(開く)
+-エピソード募集中
+#endregion
+----
+
+
+#endregion(4月)
+
+
+#co{↓コピー用素材
+
+***mm月
+#region(開く,open)&bold(){閉じる}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く)
+-エピソード募集中
+#endregion
+----
+
+#endregion(mm月)
+}
+*2026年作業内容
+建築士依頼及びハウジング依頼
+＠2026年5月29日の配信で、[[ゆちゃ　めろでぃ]]が前町で、小公邸第二弾店としてスナック菓子を開店。そのような店を作るために作ったらハウジングがわけわからなくなり、亜夢にSOSをだし、作ってもらうことになった。
+＠2026年5月30日の配信で、[[ゆちゃ　めろでぃ]]のハウジングをし始め一日で完成させた。
+＠2026年5月31日の配信で、再度ノバファミリアのアジトを作った。もともとのアジト予定地に4月頭不動産会議で市長から許可を得て建設許可が下りたが残り、導入のところで市長が新しいバイトをノバファミリアの予定地にバイトを追加そのため、ノバファミリア[[脇　逢魔]]などが、起訴し裁判に発展。（詳細：ロスサントス裁判のなかに記載されています。簡単に説明しましたが、詳しく知りたい方は、そちらに！）
+玖雲（ナインクラウド）のアジトを建設後、町に導入されたら、ハウジングをしてくださいと依頼が入る。
+
+
+*アーカイブ
+**2025年
+#region(12月,close)12月
+#table_style(head=center:#E6E6FA){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/19|1|[[シーズン2初日から参加します>>https://m.youtube.com/watch?v=Qp7_IlFQj5c]]||
+|12/24|2|[[#ストグラ 閃光寺亜夢 2日目>>https://www.youtube.com/live/Wj_CVpxWr_w?si=qCOgZXtSvjjmDOW9]]||
+|12/31|3|[[#ストグラ インフルエンザ治ってきたぞ！ 閃光寺亜夢 3日目>>https://www.youtube.com/live/RNvv-wDV5E0?si=463_f0Cx0prxcCgp]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+**2026年
+#region(上半期,open)上半期
+#table_style(head=center:#E6E6FA){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/01|4|[[#ストグラ あけましておめでとう！ 閃光寺亜夢 4日目>>https://www.youtube.com/live/ag8iRMOnTS0?si=1LVIBl_Bz_-PFeZ3]]||
+|01/04|5|[[#ストグラ 正月休みも今日で終わりなんだって......閃光寺亜夢 5日目>>https://www.youtube.com/live/JCehlGO2-TM?si=YeFOyidktUHforTe]]||
+|01/10|6|[[#ストグラ 酒飲みながら街に起きてみよう 閃光寺亜夢 6日目>>https://www.youtube.com/live/P_I1cBA81TY?si=8oI7sdpgLmRjgkBk]]||
+|01/15|7|[[#ストグラ 交友関係を増やしたい 閃光寺亜夢 7日目>>https://www.youtube.com/live/A8EiqsG0qmA?si=UgiCfQn81xCyw8a]]||
+|01/16|8|[[#ストグラ だべるべ 閃光寺亜夢 8日目>>https://www.youtube.com/live/pIsqO4sN9zk?si=Y668TjvVAqrFB07N]]||
+|01/17|9|[[#ストグラ ハウジング用資金集め 閃光寺亜夢 8日目>>https://www.youtube.com/live/nQOQgdht6yY?si=99xz59OkyH5kCg1T]]||
+|01/21|10|[[#ストグラ 上田を探せ❤ 閃光寺亜夢 9日目>>https://www.youtube.com/live/tcbN4T8zvnM?si=k7Y8K3HuTV_nIZd2]]||
+|01/22|11|[[#ストグラ 胸筋の成長が止まらない 閃光寺亜夢 10日目>>https://www.youtube.com/live/vyeuEetIo3g?si=Y81ivNv9YJAgVKFc]]||
+|01/29|12|[[#ストグラ 法律が増えたらしい 閃光寺亜夢 11日目>>https://www.youtube.com/live/FD0zHE9y8vs?si=vUxQuCZFGSB4qsXJ]]||
+|01/30|13|[[#ストグラ カッパ漬けがうますぎて毎日キュウリ生活が苦じゃない 閃光寺亜夢 12日目>>https://www.youtube.com/live/UgNHgMqvSFI?si=dtMEQtxYppjMBFJS]]||
+|02/01|14|[[#ストグラ 最近毎日眠すぎて10時間以上寝てる 閃光寺亜夢 13日目>>https://www.youtube.com/live/Ttvn-qR8ezI?si=bAA7_9biFUhVA6Mf]]||
+|02/05|15|[[#ストグラ 今月の目標はベンチ100kgです 閃光寺亜夢 14日目>>https://www.youtube.com/live/1XnMMCFpgIs?si=cJaWzY7ZLWPlzplw]]||
+|02/06|16|[[#ストグラ 酒気帯び人狼ゲーム 閃光寺亜夢 15日目>>https://www.youtube.com/live/7O5CXn8Bxq0?si=Wexrm6qN4L1xeZun]]||
+|02/12|17|[[#ストグラ 口笛を吹くにはゴリラの顔真似がいいと学んだ 閃光寺亜夢 16日目>>https://www.youtube.com/live/3zD0fQEJC4o?si=AQvqubT-GxG5rSHN]]||
+|02/14|18|[[#ストグラ ヴァレンタインあらよっとライブ 閃光寺亜夢 17日目>>https://www.youtube.com/live/oE28iLZBpJ0?si=CiZegzHBwBi8fmnx]]||
+|02/18|19|[[#ストグラ 宝探しが公式実装 閃光寺亜夢 18日目>>https://www.youtube.com/live/413L1ndN-VA?si=-XeUZsdASKxYYbrv]]||
+|02/19|20|[[#ストグラ 今日こそカウボーイを全て集めたい宝探し 閃光寺亜夢 19日目>>https://www.youtube.com/live/jZ32fE2PkJU?si=vTD29s2W3tq2IFMA]]||
+|02/21|21|[[#ストグラ 宝探し以外のことをしたいが… 閃光寺亜夢 20日目>>https://www.youtube.com/live/_6S06_Yjllw?si=gEzfclYkOQWr38Fb]]||
+|02/25|22|[[#ストグラ 増やし鬼とライブを見に行く！ 閃光寺亜夢 21日目>>https://www.youtube.com/live/skOzcNR0gNc?si=MNVQ3uoMCCBXFOph]]||
+|02/26|23|[[#ストグラ 大歪みの高圧洗浄バイトwww 閃光寺亜夢 22日目>>https://www.youtube.com/live/atsjsHc7gi0?si=JnQYQ5uJGi3D26_2]]||
+|03/04|24|[[#ストグラ 本屋に出品する本ができた！ 閃光寺亜夢 23日目>>https://www.youtube.com/live/v0v0KtUhHBE?si=D7-MCO0prOAkd7uA]]||
+|03/05|25|[[#ストグラ 海上レストランOPENイベントレースで1位とった 閃光寺亜夢 24日目>>https://www.youtube.com/live/bLS5mZjniUM?si=fjyReY0gleUdphuR]]||
+|03/06|26|[[#ストグラ バーガー屋の面白そうな企画を聞く 閃光寺亜夢 25日目>>https://www.youtube.com/live/ZmKM35z1Ics?si=grtJvhSmjDZXHJwq]]||
+|03/08|27|[[#ストグラ 平穏な1日の終わり 閃光寺亜夢 26日目>>https://www.youtube.com/live/Kp_zTGCW3c0?si=ntiRX4ttV0A2dWX9]]||
+|03/11|28|[[#ストグラ 建築士始まる！？ 閃光寺亜夢 27日目>>https://www.youtube.com/live/CBzcaJtb6jo?si=5BNSFc1I4YwTenDd]]||
+|03/13|29|[[#ストグラ ワンルームとライブハウス作った 閃光寺亜夢 28日目>>https://www.youtube.com/live/6f3WN_J6G8o?si=7WPGPR0m7NeaVGnx]]||
+|03/14|30|[[#ストグラ 次のお題は2LDK 閃光寺亜夢 29日目>>https://www.youtube.com/live/kfZsidwhnFc?si=374sm5FFyHWwn221]]||
+|03/15|31|[[#ストグラ 「カフェ」つくって建築士のお題が終わった 閃光寺亜夢 30日目>>https://www.youtube.com/live/UoMInZwAecM?si=0DuaNWoZNQip8aVi]]||
+|03/18|32|[[#ストグラ 問題発生！+仕事依頼が2件 閃光寺亜夢 31日目>>https://www.youtube.com/live/GWyyW_nAgF8?si=LLau7uRUU6M25kLE]]||
+|03/19|33|[[#ストグラ 工場できちゃった 閃光寺亜夢 32日目>>https://www.youtube.com/live/7H7ySWPxKQI?si=PNL8L6N0JZxZYMWj]]||
+|03/20|34|[[#ストグラ 建築士でボドゲ再現できそうだ！！ 閃光寺亜夢 33日目>>https://www.youtube.com/live/Wc5MP_A_jt8?si=u7coE-noFfiMpfHk]]||
+|03/21|35|[[#ストグラ 来週に向けての営業準備 閃光寺亜夢 34日目>>https://www.youtube.com/live/ggyrbZ67dx0?si=msJkYxAJKSzlyvhs]]||
+|03/25|36|[[#ストグラ 遂に街に俺の建築物が入るぞ！！ 閃光寺亜夢 36日目>>https://www.youtube.com/live/jM7Fhxelt4g?si=SjiU-L1GoCyzs1kY]]||
+|03/26|37|[[#ストグラ 飯田書店完成させるぞ～！ 閃光寺亜夢 37日目>>https://www.youtube.com/live/8FDNMDCEs2k?si=9QwhNfIlH96u-y_l]]||
+|03/27|38|[[#ストグラ 手が完全に開いてしまった建築士 閃光寺亜夢 38日目>>https://www.youtube.com/live/xyHnJDrnUUs?si=F5_6aFSzn6pAEKhM]]||
+|03/28|39|[[#ストグラ 俺だけ縛り建築をしていた件 閃光寺亜夢 39日目>>https://www.youtube.com/live/xG_Bkowgv6Y?si=Gmd2hjw_XyOFmINS]]||
+|03/29|40|[[#ストグラ 暇すぎるから迷路つくるか 閃光寺亜夢 40日目>>https://www.youtube.com/live/pBLIk_g1kno?si=WJe3II_ipc5S-fkP]]||
+|04/01|41|[[#ストグラ 今週は建築大忙し💦 閃光寺亜夢 41日目>>https://www.youtube.com/live/2si1WkqeIAU?si=f0xlxX7qp55fBk3n]]||
+|04/02|42|[[#ストグラ お披露目できるかな 閃光寺亜夢 42日目>>https://www.youtube.com/live/GbdYSM8Xmc8?si=Wy2pZDfmhqm90Qzq]]||
+|04/03|43|[[#ストグラ またもや暇を持て余した建築士 閃光寺亜夢 43日目>>https://www.youtube.com/live/C2U7L6tWdtc?si=O4p9sHB_aoXCdM0L]]||
+|04/05|44|[[#ストグラ ノヴァファミリアとコーラボーイから相談 閃光寺亜夢 44日目>>https://www.youtube.com/live/ddjbmU89-v0?si=dpcvvqafNNN7yLuC]]||
+|04/08|45|[[＃ストグラ 建築よりも先にエロ謎解きが完成した 閃光寺亜夢 45日目>>https://www.youtube.com/live/JsyJDwRYh3k?si=Q4ukLfkpuBAavtaQ]]||
+|04/09|46|[[＃ストグラ 予算無限verを作る 閃光寺亜夢 46日目>>https://www.youtube.com/live/bw9rvg_Vta8?si=7hFQzanm1l1kFS9-]]||
+|04/12|47|[[#ストグラ さとうちゃんのライブハウス作りがムズイ 閃光寺亜夢 47日目>>https://www.youtube.com/live/UCRVZLdKbXM?si=Q1NverdX2xUitTvF]]||
+|04/15|48|[[#ストグラ ハウジング編始まる！？ 閃光寺亜夢 48日目>>https://www.youtube.com/live/xtDy0fSZ9rE?si=LXkNFKGuZhSKwSgu]]||
+|04/16|49|[[#ストグラ ハウジングで大忙しな建築士 閃光寺亜夢 49日目>>https://www.youtube.com/live/iIxwj59aHpU?si=nccNkvCGdBwf4T7m]]||
+|04/17|50|[[#ストグラ 飯田書店ハウジング 閃光寺亜夢 50日目>>https://www.youtube.com/live/t_p-5AcodTc?si=Ms_Km-qToXL6dqVb]]||
+|04/18|51|[[#ストグラ ノーリミ拠点づくり 閃光寺亜夢 51日目>>https://www.youtube.com/live/2oFBXnmkWGM?si=eDmdWsaZP-FLHE_X]]||
+|04/19|52|[[#ストグラ 本本本本本本本本本本本本 閃光寺亜夢 52日目>>https://www.youtube.com/live/vKUJIzrNmHM?si=YcJktNhfB_Cj2dHY]]||
+
+
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+*公式切り抜き動画
+***&underdot(#919497,3px){&font(17,#666){&space()2026年&nbsp()}}
+#region(2025年12月〜,open)&b(){2025年12月～}
+#table_style(head=center:#3cb371:#FFF){日付=right,#=center}
+|~日付|~#|~動画タイトル|~備考|h
+|12/22|1|[[【#ストグラ】シーズン2新キャラで初日から超ホラー展開に巻き込まれる閃光寺亜夢>>https://youtu.be/wsr3t9zU22Y?si=S26xp15e5xnlDp8v]]||
+|01/02|2|[[【#ストグラ切り抜き】警察しか触れないトレーラーの中身とはProjectY復活⁉>>https://youtu.be/SxgfQMnfCjY?si=o37DktgU0KK-cP2a]]||
+|01/18|3|[[【#ストグラ切り抜き】ゆるすぎて可愛い強盗犯に人質にされた結果、豹変する閃光寺亜夢>>https://youtu.be/5D5ErdeKxC4?si=apcDR3l2_F1EAIx_]]||
+|02/02|4|[[【#ストグラ切り抜き】カジノイベントで大敗してFワードを飛ばすさとう>>https://youtu.be/fDIuluAU_L8?si=doM4MCIM8683iRaw]]||
+|03/09|5|[[【#ストグラ切り抜き】○○人参加の大混戦レース！まさかの優勝>>https://youtu.be/NUzj2tHblSI?si=sZiTnuMNTXnuS5yR]]||
+|03/12|6|[[【#ストグラ切り抜き】シーズン2新ジョブ『建築士』始動>>https://youtu.be/6ZiVAZ9huew?si=X5cR_6bD8hHRchTK]]||
+|03/14|7|[[【#ストグラ切り抜き】裏技発見！デバッグ多数！建築士プラグインで超綺麗な1ルームを作成>>https://youtu.be/4iG_wgaPcWQ?si=twN8FVsHX7zOB6YH]]||
+|03/15|8|[[【#ストグラ切り抜き】建築士の可能性無限！市長、不動産絶賛の激アツライブハウスを作成>>https://youtu.be/uocoyiSSwIk?si=3QEDe7chX2YrpMuw]]||
+|03/16|9|[[【#ストグラ切り抜き】これで3～4000万の最安級！？中庭付きの物件を建築！>>https://youtu.be/gx0kER4IImI?si=5SVzXMVGYT8G6zDO]]||
+|03/17|10|[[【#ストグラ切り抜き】建築士練習お題終了！1日でカフェを建築してみた>>https://youtu.be/qIITPNOK7Lk?si=uXTNo0eyMoFA7DWO]]||
+|03/19|11|[[【#ストグラ切り抜き】激務確定！？建築士の依頼が早速〇件！空中ステージ作成！？>>https://youtu.be/1-ykTv8Z1Pc?si=0pXkkdsX_BP8IfIQ]]||
+|03/20|12|[[【#ストグラ切り抜き】1日でノヴァファミリアのアジトとさとうのライブハウスを建てる閃光寺亜夢>>https://youtu.be/Izo71hERTSI?si=dgwHrsL4ELZwJyWt]]||
+|03/21|13|[[【#ストグラ切り抜き】ボドゲや霧の再現まで始める建築士>>https://youtu.be/x1aAyrIlroA?si=sl2BGV-23pX2GA5g]]||
+|03/23|14|[[【#ストグラ切り抜き】『飯田書店』受注！1時間でプロトタイプを作る建築士>>https://youtu.be/ph36OtnWpZw?si=6TW4212szMACHc3D]]||
+|03/26|15|[[【#ストグラ切り抜き】『飯田書店』着工！オシャレ本屋の中に隠しエ〇部屋が！！>>https://youtu.be/yIBuCFW4TOQ?si=c8WlhlDPOm-HgZvh]]||
+|03/27|16|[[【#ストグラ切り抜き】『飯田書店』完成！！>>https://youtu.be/vZzJdnt_mhU?si=mpDgZYsH_cOwSZR6]]||
+|03/29|17|[[【#ストグラ切り抜き】大歪み！建築士の中で1人だけ縛りプレイをしていた件ｗｗｗ>>https://youtu.be/FfbxzddyS1o?si=zOEcEpB0lC-1Jyp9]]||
+|03/30|18|[[【#ストグラ切り抜き】発狂必死！？新ゲーム「指示厨迷路」を作る閃光寺亜夢>>https://youtu.be/YxWJ2iEwJNA?si=E_cgA8USMsnJgEmN]]||
+|03/31|19|[[【#ストグラ切り抜き】無理難題な要望まみれの救急隊宿直室>>https://youtu.be/HzoZzTNFHyw?si=PtZtgvTfgIDwa_e0]]||
+|04/02|20|[[【#ストグラ切り抜き】救急隊宿直室が完成！そして市からまさかの通達が！？>>https://youtu.be/bUE_rZ0f9Ig?si=N1_r91obuCbXMA1W]]||
+|04/03|21|[[【#ストグラ切り抜き】救急隊に宿直室をお披露目！ほろんさんからも建築の相談！？>>https://youtu.be/coChjCahj9E?si=LvFfIhMfV2DPZ0x-]]||
+|04/05|22|[[【#ストグラ切り抜き】とんでもライブハウスにハウジングして完璧にする>>https://youtu.be/TrHdw94wtUU?si=_Rg3dlI2n0ASQJGP]]||
+|04/06|23|[[【#ストグラ切り抜き】遂にこの時が！ノヴァファミリアに廃工場をお披露目>>https://youtu.be/9Of46lpoVlk?si=FcrSiPeIGKAacoNF]]||
+|04/07|24|[[【#ストグラ切り抜き】キャバクラの建築相談！神内装案に頭を抱えるコーラボーイ！>>https://youtu.be/qGIu1hBDsIg?si=9FAGUsO_GP5omBq_]]||
+|04/08|25|[[【#ストグラ切り抜き】キャバクラを爆速建築！下からスポットライトを照らす方法も発見>>https://youtu.be/eO0kl8WmEOo?si=OyL53nuyYh8PB6H_]]||
+|04/10|26|[[【#ストグラ切り抜き】エロい人ほどエロく見える！？エロ謎解きテストプレイ>>https://youtu.be/VqkC6Lzci-M?si=jhxRO3cPAZgGddeN]]||
+|04/11|27|[[【#ストグラ切り抜き】コーラボーイにキャバクラとサプライズでスケスケ床のガールズバーも見せる>>https://youtu.be/1gd_NcCBUeE?si=8v6ZCspLl7szqqXh]]||
+|04/14|28|[[【#ストグラ切り抜き】救急隊宿直室越え！過去イチ難しい要望が詰まったさとうのライブハウス>>https://youtu.be/ZzXhlTPaByg?si=A6HLWM3MNR7rI9wm]]||
+|04/16|29|[[【#ストグラ切り抜き】飯田書店が遂に導入！書店からの景色が綺麗すぎた！！>>https://youtu.be/JPn3jbp8ZWE?si=ashVSdErQTqJoSKt]]||
+|04/17|30|[[【#ストグラ切り抜き】救急隊宿直室ハウジング！和室に大広間そして手すりもあるよ>>https://youtu.be/r-ueUs9i1MQ?si=bL7cKdUezXndcN62]]||
+|04/18|31|[[【#ストグラ切り抜き】救急隊宿直室ハウジング完了！○○を駆使して街に存在しない家具を作る建築士>>https://youtu.be/5DqcggYCmd8?si=zeI-qDuTwYHRBPom]]||
+|04/19|32|[[【#ストグラ切り抜き】本棚1個作るのに〇時間かかる！？飯田書店ハウジング＆ノーリミ拠点の相談>>https://youtu.be/RIEdFG-zbOM?si=5tmlL2fk-QlCpzNU]]||
+|04/20|33|[[【#ストグラ切り抜き】建築相談が止まらない！ノーリミット拠点を作る！>>https://youtu.be/a2hhfuSfvOk?si=89pkm2VUKpSi_bwZ]]||
+|04/21|34|[[【#ストグラ切り抜き】絶望のバグ！1000個置いた家具が表示されない！？>>https://youtu.be/fkoYyIXL1Pk?si=yPRe92D2hqMn2VOY]]||
+|04/22|35|[[【#ストグラ切り抜き】ノーリミットに拠点お披露目！予算変動でトラブルに！？>>https://youtu.be/WMUVtfddd-E?si=NqMDEfAjrzkZNwQP]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(12月～)
+//|mm/dd|n|[[【#ストグラ切り抜き】>>ＵＲＬ]]||
+
+
+#right(){&link_up(🔝ページTOPへ)}

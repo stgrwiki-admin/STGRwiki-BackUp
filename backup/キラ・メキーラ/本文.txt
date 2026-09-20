@@ -1,0 +1,709 @@
+*&size(25){🌟 &size(35){&color(#29C546){プ}}ロフィール 💚}
+#hr(height=3,color=#29C546)
+//
+//メキーライメージカラー(#29C546)
+//煌イヴイメージカラー(#CDEDE1)
+//
+#slide_img(auto=4,position=left,width=300,height=400){キラメキーラ_20250501トップ画像.png,キラメキーラ_20240803青服半袖自撮り.jpg,キラメキーラ_20240713トップ画像.png,キラメキーラ_20240504救急隊自撮り.jpg,キラメキーラ_20240419救急隊自撮り.jpg,キラメキーラ_20240405救急隊自撮り.jpg}
+#region(救急隊の思い出)
+|&blankimg(救急隊　【20250317ドリームバルーンフェスティバル】.png,page=ロスサントス救急救命隊,x=240,y=135)|&blankimg(救急隊　【20241027ピルボックス学園祭】.jpg,page=ロスサントス救急救命隊,x=240,y=135)|&blankimg(救急隊　【20240408警察救急隊合同お花見会】.png,page=ロスサントス救急救命隊,x=240,y=135)|&blankimg(キラメキーラ_20240317救急隊新人歓迎会.jpg,x=240,y=135)|&blankimg(キラメキーラ_20240224救急隊誕生日プレゼント.jpg,x=240,y=135)|&blankimg(キラメキーラ_231126.jpg,x=240,y=135)|&blankimg(キラメキーラ_20231102犬とツーショット.jpg,x=240,y=135)|&blankimg(キラメキーラ_20230927早番救急隊.jpg,x=240,y=135)|&blankimg(キラメキーラ_20230908救急隊初期.jpg,x=240,y=135)|&blankimg(キラメキーラ_20230828ヘリ購入.jpg,x=240,y=135)|&blankimg(キラメキーラ_20230828救急隊新人組.jpg,x=240,y=135)|
+#endregion
+#region(木こりの思い出)
+|&blankimg(キラメキーラ_20240118木こり会議.jpg,x=240,y=135)|&blankimg(キラメキーラ_20230728木こり協会.jpg,x=240,y=135)|&blankimg(キラメキーラ_20230724牧場.jpg,x=240,y=135)|&blankimg(キラメキーラ_20230709自転車サイクリング.jpg,x=240,y=135)|&blankimg(キラメキーラ_20230601木こり.jpg,x=240,y=135)|&blankimg(キラメキーラ_20230525木こり初期.jpg,x=240,y=135)|
+#endregion
+#region(縦長)
+|&blankimg(キラメキーラ_20240817青服会集合写真.jpg,x=135,y=180)|&blankimg(キラメキーラ_20240406ましももとチェキ.jpg,x=135,y=180)|&blankimg(キラメキーラ_20240119ぎゃるメキヘスティ.jpg,x=135,y=180)|&blankimg(キラメキーラ_20240118ぎゃるメキ白衣.jpg,x=135,y=180)|
+#endregion
+#region(その他)
+|&blankimg(シャンプロ集合写真_れお1stソロライブ.jpg,page=シャンクズプロモーション,x=240,y=135)|&blankimg(シャンプロ集合写真_さとう1stソロライブ.jpg,page=シャンクズプロモーション,x=240,y=135)|&blankimg(シャンプロ集合写真_葵井優1stソロライブ.jpg,page=シャンクズプロモーション,x=240,y=135)|&blankimg(キラメキーラ_20240302キャバクラ.jpg,x=240,y=135)|&blankimg(シャンプロ集合写真_うさぎさん1stソロライブ.jpg,page=シャンクズプロモーション,x=240,y=135)|&blankimg(キラメキーラ_20231110家でチル.jpg,x=240,y=135)|&blankimg(キラメキーラ_20230926上田さんカスタム.jpg,x=240,y=135)|
+#endregion
+#div(height=10px){}
+//--------------------<プロフィール>--------------------
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#29C546:#fff)
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa-solid fa-user)|>|&ruby(KIRA){キラ}・&ruby(MEQUILA){メキーラ}|
+|~出身地|~&icon_fa(fa-solid fa-location-dot)|>|メキシコ|
+|~身長|~&icon_fa(fa-solid fa-arrows-up-down)|>|162cm|
+|~誕生日|~&icon_fa(fa-solid fa-cake-candles)|>|1999年2月14日（&countup(1999/2/14,y)歳）|
+|~転入日|~&icon_fa(fa-solid fa-plane-arrival)|>|2023年5月22日（&countup(2023/05/22,yd)経過）|
+|~住所|~&icon_fa(fa-solid fa-house)|5031番地（自宅）&br()8156番地（通称：ボイメキハウス）||
+|~職業|~&icon_fa(fa fa-briefcase)|[[救急救命士>ロスサントス救急救命隊]]&br()┗&small(){　階級：外科医/Captain(5)}&br()[[シャンクズプロモーション]] &br()┣　[[For Emperors]] &small(){従業員}&br()┗&small(){　階級：副社長/Chief(4)}&br()木こり（[[渡戸林業]] 専務）&br()牧場共同運営&br()ガソリンスタンド店員&br()花火師&br()&s(){[[ダイナー>今井のダイナー]]夏祭り限定店員}&br()&s(){[[鳥野エアー]]アルバイト}|[[救急救命士>ロスサントス救急救命隊]] &small(){2023/8/13~（&countup(2023/8/13,yd)経過）}&br()┣&small(){　経理部 （ゆる経理部）}&br()┗&small(){　階級：Captain(5)}&br()&small(){&openclose2(show=▼過去の職業){&br()[[シャンクズプロモーション]] &small(){2023/11/4~2026/5/2（910日）}&br()┗&small(){　階級：副社長/Chief(4)}}}|
+|~ペット|~&icon_fa(fa fa-dog)|空（犬種：ロットワイラー）&br()海（犬種：ダルメシアン）&br()陸（猫種：Brown American）|月（猫種：Black Turkish）|
+|~恋人|~&icon_fa(fa-solid fa-heart)|&s(){[[ボイラ　テンガリン]]} &small(){2024/1/14〜2025/6/1}||
+|~TwiX|~&icon_fa(fa-solid fa-crow)|@キラ・メキーラ&br()@meki&br()@usikun|@meki|
+|~レーサー名|~&icon_fa(fa-solid fa-user-tag)|メキ||
+|~変装|~&icon_fa(fa-solid fa-user-secret)|>|&infobox(title=？？？,trigger=click){うしくん}|
+|BGCOLOR(#CDEDE1):~&font(#666){プレイヤー}|BGCOLOR(#CDEDE1):~&font(#666){&icon_fa(fa-regular fa-address-card)}|>|煌イヴ(SCARZ)|
+|BGCOLOR(#CDEDE1):~&font(#666){告知等}|BGCOLOR(#CDEDE1):~&font(#666){&icon_fa(fa-solid fa-bullhorn)}|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter)}[[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://twitter.com/evekiramekiii]]|
+|BGCOLOR(#CDEDE1):~&font(#666){配信場所}|BGCOLOR(#CDEDE1):~&font(#666){&icon_fa(fa-solid fa-gamepad)}|>|&font(#725aa1){&icon_fa(fa-brands fa-twitch)}[[&font(#725aa1){Twitch}>>https://www.twitch.tv/kiramekieve]]|
+|BGCOLOR(#CDEDE1):~&font(#666){アーカイブ動画}|BGCOLOR(#CDEDE1):~&font(#666){&icon_fa(fa-solid fa-video)}|>|&font(#c9243a){&icon_fa(fa-brands fa-youtube)}[[&font(#c9243a){YouTube}>>https://www.youtube.com/@evekirameki]]&small(){(メイン)}&br()&font(#c9243a){&icon_fa(fa-brands fa-youtube)}[[&font(#c9243a){YouTube}>>https://www.youtube.com/@kiramekievesub]]&small(){(サブ)}|
+|BGCOLOR(#CDEDE1):~&font(#666){別キャラクター}|BGCOLOR(#CDEDE1):~&font(#666){&icon_fa(fa-solid fa-user-plus)}|>|[[東野　つかさ]]|
+&aname(目次1,option=nolink){}
+
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+//--------------------<基本情報>--------------------
+*&size(25){🌟 &size(35){&color(#29C546){基}}本情報 💚}
+#hr(height=3,color=#29C546)
+***🌟💚 プロフィール
+#region(人物設定情報)✖️閉じる
+&b(){設定情報（街に来る前の事前配信で公開された情報）}
+//
+#blockquote(){ロスサントスに引っ越してすぐに荷解き中頭を打って記憶喪失に。
+自分の持ち物や身分証明書以外の情報がわからない。
+謎の訛りがある。
+
+友達もいない仕事もないロスサントスで自分の居場所を見つけ、お金が貯まったら自分の家族を探しに帰郷するのを目標にしている。
+
+好きな食べ物はタコスとテキーラ。
+天真爛漫で飲んだくれ。
+絵を描くのが好き。}
+//
+#endregion(人物設定)
+-白市民パス、レース免許を取得している。
+-趣味・特技として、歌を歌ったり、ウクレレを弾いたり、イラストを描いたり、料理をすることができる。
+-たまに病院の端っこや浜辺などで歌っていることがある。
+-無自覚に下ネタ救急隊バレー部のスーパーリベロをしている。
+-警察官の[[ボイラテンガリン>>ボイラ　テンガリン]]とは元恋人だった。
+-[[ましろ>>雷堂　ましろ]]曰く、彼氏が出来てからなんかオシャレになった。
+-真っ当な白市民であり、積極的に通報したり、市民への呼びかけを行っている。
+-過去に3度の誘拐・殺人未遂事件を経験している。
+-衛星外で牧場のお世話をするとき、「アライグマ」や「衛星外牧場女」などに名前を変更し、変装をしていることがある。
+//
+***🌟💚 仕事面
+#region(開く)閉じる
+***🌟💚 渡戸林業
+-木こりの仕事をしていたが、救急隊に入ってからは木こりとしての仕事があまりできていない。
+-溶鉱炉と化学のクラフト台の習熟度を主に上げており、花火を作って販売していた。
+-木こりの長である[[リーさん>>渡戸　リー]]はお父さん的存在だと思っている。
+***🌟💚 ストグラ救急隊
+-早番担当。早番は義務感ではなく、楽しくてやっている。
+-事務仕事を率先して行い、先輩の負担を少しでも減らそうと心掛けている。
+-事件対応では冷静な判断で数々の困難な救助を乗り越えてきた。積極的に事件対応に向かっており、とても経験豊富である。
+-ヘリの運転が上手く、[[ウィル・ナイアー>>ウィル　ナイアー]]指導のもと救急隊訓練を行った際には、山の斜面に倒れている患者をヘリに搭乗したまま担架で拾う山岳救助法を難なくこなし、その後に発生した山岳救助も成功させている。
+-1台目の救急高速ヘリに「速すぎワロス号」と命名した張本人。それ以降、ヘリの命名を担当している。
+#endregion(仕事面)
+***🌟💚 &infobox(title=？？？,trigger=click){「うしくん」}
+&anchor(ushikun){}
+#region(🔒開く,close)🔓閉じる
+&font(b,black){もうひとつの姿「うしくん」について}
+-みんなを和ませるために「うしくん」の変装をしてミルクを配っていた。
+--&openclose2(show=誕生秘話){「[[RED RUM事件>ロスサントス警察#RED RUM事件]]」で傷心気味だった市民を癒すために生まれた。}
+-今では[[シャンクズプロモーション]]の仕事をする時用の変装として使っている。
+-いつも乗っている相棒の名前は「&bold(){うしさん}」。
+-[[うさぎさん>>山田　パルコ]]は、仲の良いトモダチであるとともに、うしくん(&bold(){うしP})が&bold(){ぷろぎゅ〜さー}を務める「&bold(){うしぷろモ〜しょん}」所属のアーティストである。スポンサーは[[伊達咲さん>>伊達咲　政宗]]。(&bold(){うしP}の名刺は[[コチラ>>https://www.twitch.tv/kiramekieve/clip/ConsiderateDullDiamondPicoMause-QJoJBDv66nLaSyHS]])
+
+-一部の住人には自分の正体を明かしている。
+--[[救急隊>ロスサントス救急救命隊]]隊員のほぼ全員
+--[[シャンクズプロモーション]]のメンバー全員
+--[[NO LIMIT]]のメンバーほぼ全員
+--信頼できる仲の良い&openclose2(show=住人){([[パルコさん>>山田　パルコ]]、[[リーさん>>渡戸　リー]]、[[ボイラさん>>ボイラ　テンガリン]]、[[しょうじさん>>竹井　勝痔]]、[[わきをさん>>キャプテン　わきを]])}
+--意図せず正体がバレてしまった&openclose2(show=住人){([[セオさん>>風見　セオ]]、[[ぴん子さん>>ろぜ柳　ぴん子]]、[[犬ルリさん>>犬　ルリ]])}
+
+&font(b,black){「うしくん」のエピソード}
+-うしPの奔走により、2023/9/2に[[Violet Fizz>>Violet Fizz]]にて[[うさぎさん>>山田　パルコ]]の初ライブが行われた。
+-2023/9/21にレギオンで出会った[[キミトス>>三階堂　キミトス]]との別れ際に「ねっちょりポン」と言ったことで正体がバレかける。
+-2023/11/4に[[うさぎさん>>山田　パルコ]]の専属マネジメント「うしくん」として[[シャンクズプロモーション]]に入社する。
+-2024/04/24に、[[社長>>四皇　シャンクズ]]から[[うさぎさん>>山田　パルコ]]のライブで、オープニングアクトとして歌うオファーを受けた。
+-グッズ登録の権限を得るため、衛星外で[[社長>>四皇　シャンクズ]]に階級を上げてもらった。(2024/5/17)
+-[[ALLIN]]との武器横流し疑惑により、[[社長>>四皇　シャンクズ]]と[[うさぎさん>>山田　パルコ]]が話し合う。色々理由はあったが、最終的に[[うさぎさん>>山田　パルコ]]は[[シャンクズプロモーション]]を辞めることになる。(2024/8/7)
+--自身は今後もライブの手伝いをしたいことを[[社長>>四皇　シャンクズ]]に伝え、[[シャンクズプロモーション]]に所属し続けることを選んだ。
+-新しい飲食店を開店するにあたり、社長にランクを上げてもらう。飲食の登録、会社の金庫を触ることができるようになった。(2025/8/13)
+-2025/8/14に新しい飲食店「Four Emperors」を開店する。オープン記念としてライブイベントを開催した。うしくんはこのお店の店長として取り仕切ることになる。
+-別の世界線に移動したが、再びシャンプロのみんなで集まり、イベント開催に向けて準備を始めた。しかし[[社長>>四皇　シャンクズ]]は世界線移動の影響で記憶喪失になっていた。実質的に権限を持っているのは副社長のうしくんということになる。(2025/12/28)
+-Twixにてうしくんがどのような見た目かわからないという指摘を受け、病院にてうしくんの服装を撮影、ポストするが、救急隊のみんなに撮影場所が病院だとバレてしまう。弁明をするため、救急隊の皆に自身がうしくんであることを明かした。(2026/4/15)
+-2026/5/1にて[[ヨシャパテさん>>アイドゥラー　ヨシャパテ]]、[[ヤバッキオさん>>蒲田　ヤバッキオ]]から[[社長>>四皇　シャンクズ]]が失踪し、NOLIMITが解散したという情報共有を受ける。その話を受け、シャンプロの皆とも会議を行った。話し合いの結果、シャンプロは廃業する運びとなった。
+#endregion(うしくん)
+***🌟💚 ストグラ印象表
+#region(開く)閉じる
+#table_color(#eee){▽印象=center:#E0F0D3}
+#table_filter(#){2023/05/29=hide,2023/06/01=hide,2023/06/02=hide,2023/06/08=show}
+|BGCOLOR(#FFF):~▽印象|~2023/05/29|~2023/06/01|~2023/06/02|~2023/06/08|
+|【好敵手】|伊達咲政宗|伊達咲政宗、キャプテンわきを|伊達咲政宗、キャプテンわきを|伊達咲政宗、キャプテンわきを|
+|【好印象】|パン屋さん達、きこりさん達|パン屋さん達、きこりさん達|パン屋さん達、きこりさん達|パン屋さん達、きこりさん達、斎藤まさのり|
+|【期待】|多良里ずぅ|多良里ずぅ|多良里ずぅ、セレナソング|多良里ずぅ、セレナソング|
+|【対立】|||||
+|【胸熱】|||||
+|【最推し】|ジャムリーヌバルサミコス、にしのん|ジャムリーヌバルサミコス、にしのん|ジャムリーヌバルサミコス(かっこいい)、&br()にしのん(かわいい)|ジャムリーヌバルサミコス(かっこいい)、&br()にしのん(かわいい)、&br()キングスターダイヤモンドズズ (おもしろい)|
+|【覚醒期待】|||七瀬ぜろ、夏江巡|七瀬ぜろ、夏江巡|
+|【苦手】|||||
+|【信頼】|||渡戸リー、ラグランジュ光芝|渡戸リー、ラグランジュ光芝|
+|【不安】|マイケル・モイヤーズ|マイケル・モイヤーズ|マイケル・モイヤーズ|マイケル・モイヤーズ |
+|【やさしい】||||桜星ヨウコウ|
+|【厄介】||||切間てつお|
+#endregion(ストグラ印象表)
+#right(){&link_anchor(目次1){🔝 目次へ}}
+*&size(25){🌟 &size(35){&color(#29C546){交}}友関係 💚}
+#hr(height=3,color=#29C546)
+**🌳渡戸林業
+#region(開く)✖️閉じる
+***[[渡戸　リー]]
+-木こりで働いていた時に色々お世話になった北の住人。
+-木こりのことならなんでも知っている。
+-家族であり、お父さん的存在だと思っている。
+-命を狙われた時にはリーさんのために様々な手助けをした。
+***[[空舞月　るる]]
+-木こり仲間の一人。
+-お互い[[リーさん>>渡戸　リー]]のことを大切に思っている。
+-るるさんは[[BMC>BMカスタム]]、自分は[[救急隊>ロスサントス救急救命隊]]と別々の道に進んだが、今でも木こり仲間として仲良くしている。
+***[[葛城　司]]
+-木こり仲間だった内の1人。
+-恋愛や仕事の相談相手によくなっている。
+-Season2では救急隊の後輩になった。
+#endregion(渡戸林業)
+
+**🚑ストグラ救急隊
+#region(開く)✖️閉じる
+***[[命田　守]]
+-救急隊のトップである隊長。
+-威厳を持っており、少し話すのが怖いと思っている。真剣な話をする時はいつも緊張する。
+-しかし、様々な相談を受け持ち、とても親身に話してくれている。
+***[[鳥野　ぎん]]
+-救急隊の頼れる先輩。
+-事件対応の対応方法はほぼ全て鳥野さんから学んだ。
+-定期的にイジられ、一緒に居るとよくダウンする。
+***[[雷堂　ましろ]]
+-早番にいつもいる救急隊の先輩。
+-最初はまともな人だと思っていたが、一緒に過ごしていく内にかなりイカれていることに気づく。
+-しかし、[[ぎゃるみ>>きゃばみざわ☆　ぎゃるみ↑]]が辞める時や、[[餡ブレラ>anbrella(餡ブレラ)]]に誘拐された時にメンタルケアをしてくれたことはとても感謝している。
+***[[天羽　よつは]]
+-救急隊の先輩であり、恋愛の先輩でもある。
+-恋愛相談するならよつは先生が真っ先に思い浮かぶ。
+-他人の恋愛話には目が無く、恋愛話をすると明らかに声のトーンが高くなる。
+***[[ノビー　ラング]]
+-早番でよく一緒になる救急隊の先輩。
+-よく下ネタを発しており、通報でプリズン送りにしてもらっている。
+-作詞・作曲ができ、うしくんの曲を作ってもらった。
+***[[ヘスティア　ゴデス]]
+-入隊日が最も近い同期の救急隊。青服会の内の1人。
+-愛称として「ヘスティ」と呼んでいる。
+***[[加賀　イズミ]]
+-元警察官の救急隊。青服会の内の1人。
+-同じ髪型であり、他の人からは声が似ていると言われている。
+-警察になる前から知り合いであり、パジャマパーティーをした仲である。
+***[[ジョン　ドングリ]]
+-救急隊の後輩だが、人生の先輩でもある。
+-「大丈夫だぞ」「いいぞ」「そうだぞ」などドングリさんの言葉にはいつも助けられている。
+***[[切間　てつお]]
+-救急隊の後輩だが、街のインフルエンサーでもある。
+-木こり時代の名残で、「角刈りさん」と呼ぶことがある。
+-街の遊び方をたくさん知っており、よく一緒に遊びに行く。
+***[[葉風邪　ナイ]]
+-救急隊の後輩でもあり、[[シャンクズプロモーション]]の同僚でもある。
+-[[シャンクズプロモーション]]では自分と同じイベント運営スタッフとして一緒に活動している。
+#endregion(救急隊)
+
+**🚓ストグラ警察
+#region(開く)✖️閉じる
+***[[キャップ>ましゃかり　トラボルタ]]
+-早番でよく救助している警察官。
+-暇なときは病院内でよく雑談をしている。
+-あの時助けたキャップのことは忘れない。
+-もう一つの顔としてシャンプロの俳優部門に所属している。
+***[[レッサン　パンナ]]
+-早番でよく一緒になる警察官。
+-定期的に病院へ見回りに来てくれる。
+-ママみ同好会からレッサンの写真集を購入させてもらった。
+***[[ボイラ　テンガリン]]
+-元恋人の警察官。
+-定期的にセクハラをしている。
+-付き合ってから何度もすれ違いがあり、最終的に別れる事となった。
+#endregion(警察)
+
+**🚶市民
+#region(開く)✖️閉じる
+***[[多良里　ずぅ]]
+-同じ時期に街に来た同期の一人。
+-同期の中でも黒じゃない者同士として仲良くしている。
+-お互い自分の悩みを打ち明け合う仲である。
+***[[きゃばみざわ☆　ぎゃるみ↑]]
+-救急隊を辞める前までは早番仲間として過ごしていた。
+-ギャングになっても、半グレになっても、友人としてぎゃるみを応援している。
+-この街を去ってしまったが、記憶の中にはずっとぎゃるみとの思い出が居続けている。
+***[[うさぎさん>山田　パルコ]]
+-歌い手としての才能を見出し、「うさぎさん」を世に出した。
+-[[シャンクズプロモーション]]に所属していた時は専属プロデューサーとしてうさぎさんの活動を手伝っていた。
+***[[四皇　シャンクズ]]
+-[[シャンクズプロモーション]]の創設者である社長。
+-ギャング[[NOLIMIT]]のボスでありながら[[シャンクズプロモーション]]の運営を行っており、それぞれの仕事は切り分けて行っている。
+***[[葵井　優]]
+-[[シャンクズプロモーション]]アーティストの内の1人。
+-自身が推薦し、[[シャンクズプロモーション]]に入社させた。
+#endregion(市民)
+
+#right(){&link_anchor(目次1){🔝 目次へ}}
+*&size(25){🌟 &size(35){&color(#29C546){所}}有車両 💚}
+#div(width=200px,bgcolor=#29C546){&font(#fff,20px,b){　Season 1}}
+
+#region(開く)✖️閉じる
+***🌟💚 所有している車両
+#table_filter(){車種=show,車両名=show,分類=hide,購入日=show,呼び名=show,備考=show}
+#table_style(head=center:#E0F0D3){車種=center}
+|車種|車両名|分類|購入日|呼び名|備考|h
+|🚑|Vapid EMSSQUAD|Emergency|2025/07/09|||
+|🚑|Declasse EMS Draugur|Emergency|2025/07/09|||
+|🚗|BF Surfer Custom|Vans|2023/06/27|むーちゃん||
+|🚗|Annis Blazer|Off-road|2023/08/15|||
+|🚗|Zirconium Journey Ⅱ|Vans|2023/11/03|クラフトさん||
+|🚗|Weeny Peanut（ピーナッツ）|Compacts|2023/11/16|||
+|🚗|Mammoth Patriot Stretch|SUVs|2023/11/28|クズプロリムジン||
+|🚗|Vapid Winky|Off-road|2023/12/22|||
+|🚗|Weeny Issi Sport|Compacts|2023/12/24|BOICAR|[[ボイちゃん>>ボイラ　テンガリン]]から譲受|
+|🚗|Übermacht Sentinel Classic|Coupes|2024/02/16|センチネルクラシック(ドリフト)||
+|🚗|Dinka Verus|Off-road|2024/08/05||[[ボイちゃん>>ボイラ　テンガリン]]から譲受|
+|🚗|Raiden GRB|Sports|2025/02/18|ゴミ箱カー　プレミアムver||
+|🚗|Nagasaki Blazer Hot Rod|Off-road|2025/02/19|煌めけキラキラいぶいぶ号|[[ジャックスさん>>ブラック　ジャックス]]からの誕生日プレゼント|
+|🚗|Arcida Egg Car|Sports|2025/05/06||メインカラーコード:&color(#3eb489){3EB489}|
+|🛻|Vapid Bobcat XI Open|Vans|2023/07/08|ぜんさん||
+|🛻|Declasse Drift Yosemite|Drift|2024/06/28|||
+|🛻|Vapid Guardian|Camping|2025/02/15|メキ誕生日おめでとう！|[[ボイちゃん>>ボイラ　テンガリン]]からの誕生日プレゼント|
+|🏎️|Hijak Ruston|Sports|2024/01/20|赤白プレゼント|[[煉さん>>赤城　煉]]と[[ましろさん>>雷堂　ましろ]]から譲受|
+|🏎️|Coquette Thunderstruck|Sports|2024/02/10|コケットちゃん||
+|🏎️|Pfister Comet Retro Custom|Sports|2025/02/15|昇格おめでとう！|[[ボイちゃん>>ボイラ　テンガリン]]からの昇格祝い|
+|🛵|Dinka Ventoso（ヴェントソ）|Motorcycles|2023/11/23|||
+|🛵|Dinka Frakas（フラッカス）|Motorcycles|2024/05/25|||
+|🏍️|Western Zombie Chopper|Motorcycles|2023/06/02|||
+|🏍️|Nagasaki BF400|Motorcycles|2023/06/11|||
+|🏍️|Maibatsu Manchez Scout C|Motorcycles|2023/09/22|||
+|🏍️|Nagasaki BF400|Motorcycles|2024/01/18|びふみ|[[ぎゃる>>きゃばみざわ☆　ぎゃるみ↑]]から譲受|
+|🏍️|Nagasaki Kusa（クサ）|Motorcycles|2024/03/01|大草原www|[[ましろさん>>雷堂　ましろ]]から譲受|
+|🏍️|VooDoo SideCar|Motorcycles|2024/10/01|||
+|🏍️|E-Bike|Motorcycles|2025/02/15|メキーラさんHBD|[[ノビーさん>>ノビー　ラング]]からの誕生日プレゼント|
+|🏍️|Maibatsu Manchez Scout C|Motorcycles|2025/06/01|メキーラさんおめでとう💚|[[ゆたんぽさん>>ゆた　んぽ]]から譲受|
+|🚲|Scorcher|Cycles|2023/07/09|||
+|🚲|Cruiser|Cycles|2023/08/02|||
+|🚲|Cycle City（ママチャリ）|Cycles|2024/01/28|自転車||
+|🚲|Whippet Race Bike|Cycles|2024/04/10|||
+|🚲|Unicycle（一輪車）|Cycles|2024/06/21|||
+|🛥️|Speedophile Seashark3|Boats|2023/12/13|||
+|⛵|Dinka Marquis|Boats|2024/02/24||[[ヘスティ>>ヘスティア　ゴデス]]から譲受|
+|🚁|Sea Sparrow|Helicopters|2023/08/28||メインカラーコード:&color(#ee7818){EE7818}|
+|🚁|Sparrow|Helicopters|2024/08/15||メインカラーコード:&color(#cce7d3){CCE7D3}|
+|🚁|Buckingham SuperVolito Carbon|Helicopters|2025/01/01|二年目もよろしくね🕶|プレゼント用|
+|✈️|Nagasaki Ultralight|Planes|2023/11/05|||
+|✈️|Velum 5-Seater|Planes|2025/02/15||救急隊みんなからの誕生日プレゼント|
+#table_sorter{even=#f7f7f7,odd=#fff}
+
+***🌟💚 過去に所有していた車両
+#table_filter(){車種=show,車両名=show,分類=hide,購入日=hide,譲渡日=show,呼び名=hide,譲渡先=show,備考=show}
+#table_style(head=center:#E0F0D3){車種=center}
+|車種|車両名|分類|購入日|譲渡日|呼び名|譲渡先|備考|h
+|🚗|Weeny Issi|Compacts|2023/05/22|2023/11/18||[[狐野　承志]]|売却|
+|🚗|Annis Remus|Sports|2024/02/17|2024/02/18||[[ボイラ　テンガリン]]|1ヶ月記念プレゼント|
+|🚗|Arcida Egg Car|Sports|2025/05/09|2025/05/17|ボイちゃんたま号|[[ボイラ　テンガリン]]|譲渡|
+|🛻|ラット トラック|Muscle|2023/05/31|2023/07/22|いーちゃん|[[山田　パルコ]]|譲渡|
+|🏎️|Emperor ETR1|Super|2024/05/29|2024/06/02||[[ボイラ　テンガリン]]|誕生日プレゼント|
+|🛵|ホンダ モトコンポ|Motorcycles|2023/07/18|2023/08/29||[[七瀬　ぜろ]]|売却|
+|🏍️|ホンダ モンキー|Motorcycles|2023/06/15|2023/07/15||[[山田　パルコ]]|譲渡|
+|🚲|Cycle City（ママチャリ）|Cycles|2024/03/14|2024/04/14|〈ボイちゃん用〉ママチャリ|[[ボイラ　テンガリン]]|譲渡|
+|🛥️|Speedophile Seashark3|Boats|2023/12/24|2023/12/24||[[ボイラ　テンガリン]]|クリスマスプレゼント|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(season1)
+
+#div(width=200px,bgcolor=#29C546){&font(#fff,20px,b){　Season 2}}
+
+#region(開く,open)✖️閉じる
+***🌟💚 所有している車両
+#table_filter(){車種=show,車両名=show,購入日=show,車両番号=hide,呼び名=show,備考=show}
+#table_style(head=center:#E0F0D3){車種=center}
+|車種|車両名|購入日|車両番号|呼び名|備考|h
+|🚑|Ambulance|2025/12/24|EMS00010|||
+|🚗|Dinka Cody（AT）|2026/06/17|VDD059FB|||
+|🚁|Police Maverick|2025/12/26|EMS00032|||
+|🛵|Faggio Sport|2025/12/25|MKL00214|||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(season2)
+
+#right(){&link_anchor(目次1){🔝 目次へ}}
+*&size(25){🌟 &size(35){&color(#29C546){服}}装一覧 💚}
+#include(キラ・メキーラ/服装一覧)
+
+&size(12){服装一覧ページリンク}
+&small(){[[服装一覧>キラ・メキーラ/服装一覧]]}
+#right(){&link_anchor(目次1){🔝 目次へ}}
+//--------------------<エピソード>--------------------
+*&size(25){🌟 &size(35){&color(#29C546){エ}}ピソード 💚}
+#hr(height=3,color=#29C546)
+**📖主な出来事
+#div(width=200px,bgcolor=#29C546){&font(#fff,20px,b){　Season 1}}
+
+#region(開く)✖️閉じる
+***&font(b,#88B17B,110%){🌟💚 渡戸林業}
+#region(開く)
+-2023/5/25に市役所にて木こりに就職。
+-2023/6/1に木こりの休憩所にて[[リーさん>>渡戸　リー]]に会いに行く。RED RUM事件で物騒なのもあり、[[リーさん>>渡戸　リー]]の無線に繋ぎ、休憩所の鍵を貰った。この日を境に[[リーさん>>渡戸　リー]]と共に行動することが増える。
+-[[リーさん>>渡戸　リー]]と[[るるさん>>空舞月　るる]]と自分の3人共同で渡戸牧場の経営を開始。開始祝いにメガ花火を打ち上げようと計画していたが、向かってる途中で雨が降り始め、雨天中止になる。(2023/7/13)
+-[[リーさん>>渡戸　リー]]と[[るるさん>>空舞月　るる]]と一緒にメガ花火を初めて打ち上げる。その後、木こり協会と記者を交え、花火の価格設定について話し合った。(2023/7/27)
+-2023/8/13に夏祭りが開催された。そこでは夏祭りのスタッフとして参加し、[[リーさん>>渡戸　リー]]と[[るるさん>>空舞月　るる]]と一緒にダイナーの代理販売と花火の販売、花火の打ち上げを担当した。
+-[[リーさん>>渡戸　リー]]がお花摘みを通報した疑惑でギャングから狙われている話を聞く。[[隊長>>命田　守]]、警察と交えて[[リーさん>>渡戸　リー]]と話し合い、お花摘みの場所には近づかないこと、変装して出歩くことを勧められた。[[リーさん>>渡戸　リー]]の身を隠すため、うしくんの正体をバラし、変装を作るのを手伝ったり、食料調達に同行したりなど[[リーさん>>渡戸　リー]]のために力を尽くした。(2023/10/2)
+#endregion(渡戸林業)
+
+***&font(b,#88B17B,110%){🌟💚 ストグラ救急隊}
+#region(開く)
+-救急隊の面接に合格し、晴れて入隊。(2023/8/13)
+-救急隊の先輩である[[鳥野ぎん>>鳥野　ぎん]]から２億の&infobox(title=ヘリ,trigger=click){Sea Sparrow}を購入している(支払いの半分はローン)。&br()しかし、2023/08/29にそのヘリをピルボックス病院内のビアガーデンに停めていたところ、救急隊打ち上げの際に[[鳥野ぎん>>鳥野　ぎん]]が出した削岩機によってヘリが爆発。11名の救急隊員(鳥野自身も含めて12名)がダウンする大事件となった。&br()([[実際の事故映像>>https://www.twitch.tv/kiramekieve/clip/SwissResoluteWebSmoocherZ-dhol-8ph9cxrAiM7]])。
+-2023/9/8に[[ぎゃるみ>>きゃばみざわ☆　ぎゃるみ↑]]、[[ヘスティア>>ヘスティア　ゴデス]]とともにParamedic(1)からDoctor(2)へと昇格した。しかし、[[命田隊長>>命田　守]]がシステム上で昇格させるのを忘れていたために、後日[[ノビー・ラング>>ノビー　ラング]]に昇格させてもらった。(ちなみに体験入隊から正式採用された際にも忘れられていた)
+-ユニオンの事件対応中、誤って犯人を轢いてしまう。犯人の仲間である餡ブレラに誘拐され、ケジメをつけろと言われる。穏便な解決のため1億円を支払うことになった。上官と話し合った結果、1億円は救急隊の金庫から補填してもらった。(2023/10/26)
+-2023/11/27にDoctor(2)からSurgeon(3)に昇格した。ひとつの目標だった白衣を着れるようになる。[[ヒーロー>>吉田　ユッカ]]と一緒に昇格する予定だったが、決して昇格させるのを忘れていたわけではない。
+-2024/1/19ランク試験昇格制度の明確化とともに、1度、Surgeon(3)からParamedic(1)に降格した。しかし、試験当日にSurgeon(3)にすぐに復活する。
+-ランク3以上の人に個人用ライデンが支給されるように改定され、ランク3である自分にも個人用ライデンが支給される。(2024/4/6)
+-2024/12/14にSurgeon(3)からSub-Captain(4)に昇格し、書き初めで掲げていた年内ランク4の目標を達成する。ランク4に上がったことで、体験の受け入れや資金管理ができるようになった。融通が利くようになる代わりに、責任が増えたとも言える。
+-救急隊のランクがひとつ増えたことにより、Sub-Captain(4)からCaptain(5)へランクが繰り上げとなった。(2025/4/6)
+#endregion(ストグラ救急隊)
+
+***&font(b,#88B17B,110%){🌟💚 恋愛}
+#region(開く)
+-[[ボイラさん>>ボイラ　テンガリン]]のことが気になり、お出掛け(デート)に誘ってみることに。全てはここから始まった。(2023/11/27)
+-お出掛け当日、[[ボイラさん>>ボイラ　テンガリン]]をテニスに誘い、本気で楽しむ。(2023/12/1)
+--その後、[[ボイラさん>>ボイラ　テンガリン]]が準備してくれた[[マクドナルドさん>>ライトスターボーイ]]のお出掛け(デート)プランに連れて行ってもらう。様々な出し物に充実した時間を過ごすことができた。
+-お互いの呼び方を決める話になり、[[ボイラさん>>ボイラ　テンガリン]]のことは「ボイちゃん」、自分のことは「メキ」と呼び合うことになる。(2023/12/12)
+-ランク昇格祝いに自作の「ボイラモナカジャンボ」を渡した。(2023/12/17)
+-2023/12/24クリスマスの日、お出掛け(デート)に誘われる。クリスマスプレゼントとして[[ボイちゃん>>ボイラ　テンガリン]]からはレース車を、自分からは水上バイクをお互いプレゼントしあった。
+-2024/1/14勇気を振り絞り、[[ボイちゃん>>ボイラ　テンガリン]]に告白する。同日、正式に付き合い始める。
+-GBC主催の豪華客船ディナーショーに[[ボイちゃん>>ボイラ　テンガリン]]と2人で招待される。[[マクドナルドさん>>ライトスターボーイ]]による豪華なデートプランを2人で楽しんだ。(2024/2/5)
+-2024/2/14の0時になった瞬間[[ボイちゃん>>ボイラ　テンガリン]]に捕まり、ボイラプリズン(遊園地)に連れていかれる。誕生日プレゼントとして自分専用のオーダーメイドコスメを貰った。
+-2024/2/14のバレンタインの日、[[ボイちゃん>>ボイラ　テンガリン]]にバレンタインチョコの盛り合わせと[[ボイちゃん>>ボイラ　テンガリン]]専用オリジナルたばこをプレゼントした。
+-2/14は警察体験でゆっくりする時間がなかったため、改めて別日にデートへ誘う。1ヶ月記念として、ドリフト車をプレゼントした。(2024/2/18)
+-お互い資金が溜まってきたので、2人の家を買うという話に。ヒーローに頼み、おさよつハウスの近くに家を購入した。家を購入した後は2人でハウジングを楽しんだ。(2024/4/7)
+-[[ボイちゃん>>ボイラ　テンガリン]]の誕生日である6/2にデートに連れて行く。誕生日プレゼントとしてオリジナル誕生日ケーキと欲しがっていたスーパーカーをプレゼントする。もう一つのプレゼントとして、[[ボイちゃん>>ボイラ　テンガリン]]に歌「fragile」を贈る。(2024/6/2)
+-[[ボイちゃん>>ボイラ　テンガリン]]からデートに誘われ、Violet Fizzにてコース料理を頂く。その後、[[ボイちゃん>>ボイラ　テンガリン]]から昇格祝いと誕生日祝いに車2台をプレゼントしてくれる。また、お付き合い1周年記念として[[ボイちゃん>>ボイラ　テンガリン]]からは指輪を、自分からはヘリをお互いプレゼントし合った。(2025/2/15)
+-[[社長>>四皇　シャンクズ]]から[[ボイラテンガリン>>ボイラ　テンガリン]]がボイスを買おうとしているという報告を受け、その様子を見るために会場内に潜入することになる。
+--実際に[[ボイちゃん>>ボイラ　テンガリン]]はボイスを購入し、思いっきり楽しんでいた。その後、追加オプションとしてメキーラの怒りボイスを流し、メキーラ本人が登場する。どういうことなのか説明を求めたが、コキ捨てたいだとかデジタルだとかよくわからない言葉を発していた。
+--今回の一件の中でも職権乱用してボイスを購入していることが許せず、これからはポイちゃんと呼んでポイ捨てする(別れる)ことにした。(2025/6/1)
+-別れてから今まで関係がフワフワしていたが、ボイラさんと話し合い、正式に別れることになる。(2025/9/3)
+#endregion(恋愛)
+#endregion(season1)
+
+#div(width=200px,bgcolor=#29C546){&font(#fff,20px,b){　Season 2}}
+
+#region(開く,open)✖️閉じる
+***&font(b,#88B17B,110%){🌟💚 ストグラ救急隊}
+#region(開く)
+-別の世界線に飛んだことによってジョブが外れていたが、再び救急隊に再就職した。(2025/12/19)
+#endregion(ストグラ救急隊)
+#endregion(season2)
+
+**📕日別エピソード
+#div(width=200px,bgcolor=#29C546){&font(#fff,20px,b){　Season 1}}
+
+#region(開く)✖️閉じる
+#region(2023年)2023年のエピソード
+#include(キラ・メキーラ/エピソード1)
+
+#endregion(2023年のエピソード)
+#region(2024年)2024年のエピソード
+#include(キラ・メキーラ/エピソード2)
+
+#include(キラ・メキーラ/エピソード3)
+
+#endregion(2024年のエピソード)
+#region(2025年)2025年のエピソード
+#include(キラ・メキーラ/エピソード4)
+
+#include(キラ・メキーラ/エピソード5)
+#endregion(2025年のエピソード)
+
+&size(12){エピソードページリンク}
+&small(){2023年5月~12月：[[EP1>キラ・メキーラ/エピソード1]]}
+&small(){2024年1月~6月：[[EP2>キラ・メキーラ/エピソード2]]}
+&small(){2024年7月~12月：[[EP3>キラ・メキーラ/エピソード3]]}
+&small(){2025年1月~6月：[[EP4>キラ・メキーラ/エピソード4]]}
+&small(){2025年7月~9月：[[EP5>キラ・メキーラ/エピソード5]]}
+#endregion(season1)
+
+#div(width=200px,bgcolor=#29C546){&font(#fff,20px,b){　Season 2}}
+
+#region(開く,open)✖️閉じる
+#region(2025年)2025年のエピソード
+***&font(b,#88B17B,110%){🌟💚 2025年12月(#1-6)}
+#region(開く)
+****12/19　#1　DAY1 帰国
+#region(開く)
+-世界に降り立つ。病院に向かうと[[隊長>>命田　守]]が2人居た。
+-レギオンにて[[市長>>山下　ひろし]]の演説を聞く。
+-救急隊のジョブが各位付与される。医療道具を購入するが、お金がないためほとんど購入することができなかった。
+-救急車が出せないため、徒歩で救助に向かう。病院まで患者を搬送するが、手術台がひとつしかないため、順番待ちが発生していた。
+-ヘラ泉Sayさんが来院し、倒れている人が居るとのことでその場所に向かう。そこに居たのは[[セイジさん>>文殊　セイジ]]だった。病院に搬送し身体を診てみるも、特に外傷は見つからなかったのでそのまま入院させることにした。
+-救急隊就職希望のBルモッチェさんが来院する。
+-入院させていた[[セイジさん>>文殊　セイジ]]を[[てってさん>>なんば　てって]]に引き取ってもらう。
+-手術室にて手術の仕方を教えてもらう。
+-倒れていた[[シャンクズさん>>四皇　シャンクズ]]を病院まで搬送する。なぜか[[シャンクズさん>>四皇　シャンクズ]]の話し方が丁寧になっていた。
+#endregion
+#endregion(2025年12月)
+
+#endregion(2025年のエピソード)
+#region(2026年,open)2026年のエピソード
+//***&font(b,#88B17B,110%){🌟💚 2026年1月(#7-20)}
+//#region(開く,open)
+//****1/d　#X　DAYX title
+//#region(開く)
+//#endregion
+//#endregion(2026年1月)
+#endregion(2026年のエピソード)
+
+//&size(12){エピソードページリンク}
+//&small(){2025年12月~：[[S2EP1>キラ・メキーラ/シーズン2エピソード1]]}
+#endregion(season2)
+
+//
+//↓エピソードテンプレ
+//****mm/dd　#nnn　タイトル
+//#region(開く)
+//-エピソード
+//#endregion
+//
+//↓エピソードテンプレ(大枠)
+//***&font(b,#88B17B,110%){🌟💚 yyyy年mm月(#nnn-nnn)}
+//#region(開く,open)
+//
+//#endregion(yyyy年mm月)
+//
+#right(){&link_anchor(目次1){🔝 目次へ}}
+//--------------------<アーカイブ>--------------------
+*&size(25){🌟 &size(35){&color(#29C546){ア}}ーカイブ 💚}
+#div(width=200px,bgcolor=#29C546){&font(#fff,20px,b){　Season 1}}
+
+#region(開く)✖️閉じる
+#region(2023年)2023年のアーカイブ
+#include(キラ・メキーラ/アーカイブ1)
+
+#endregion(2023年のアーカイブ)
+#region(2024年)2024年のアーカイブ
+#include(キラ・メキーラ/アーカイブ2)
+
+#endregion(2024年のアーカイブ)
+#region(2025年)2025年のアーカイブ
+#include(キラ・メキーラ/アーカイブ3)
+#endregion(2025年のアーカイブ)
+
+&size(12){アーカイブ内訳}
+&small(){#0-71：&font(#c9243a){&icon_fa(fa-brands fa-youtube)}[[&font(#c9243a){YouTube}>>https://www.youtube.com/@evekirameki]] (メイン)}
+&small(){#70-78：&font(#c9243a){&icon_fa(fa-brands fa-youtube)}[[&font(#c9243a){YouTube}>>https://www.youtube.com/@kiramekievesub]] (サブ)}
+&small(){#63-290：&font(#725aa1){&icon_fa(fa-brands fa-twitch)}[[&font(#725aa1){Twitch}>>https://www.twitch.tv/kiramekieve]] (ダイジェスト)}
+&small(){#231-383：&font(#c9243a){&icon_fa(fa-brands fa-youtube)}[[&font(#c9243a){YouTube}>>https://www.youtube.com/@evekirameki]] / &font(#725aa1){&icon_fa(fa-brands fa-twitch)}[[&font(#725aa1){Twitch}>>https://www.twitch.tv/kiramekieve]] (同時配信)}
+
+&size(12){アーカイブページリンク}
+&small(){2023年：[[AR1>キラ・メキーラ/アーカイブ1]]}
+&small(){2024年：[[AR2>キラ・メキーラ/アーカイブ2]]}
+&small(){2025年：[[AR3>キラ・メキーラ/アーカイブ3]]}
+#endregion(season1)
+
+#div(width=200px,bgcolor=#29C546){&font(#fff,20px,b){　Season 2}}
+
+#region(開く,open)✖️閉じる
+#region(2025年)2025年のアーカイブ
+***&font(b,#88B17B,110%){🌟💚 2025年12月(#1-6)}
+#region(開く)✖️閉じる
+#table_style(head=center:#E0F0D3){配信日=right,No=center,配信タイトル=left:#fff:#999}
+|配信日|No|配信タイトル|備考|h
+|2025/12/19|#1|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY1 帰国>>https://youtu.be/Szx9WVzufj8]]||
+|12/24|#2|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY2>>https://youtu.be/Szx9WVzufj8]]||
+|12/25|#3|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY3 メリークリスマス！>>https://youtu.be/tgVuSgdVrpY]]||
+|12/26|#4|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY4 お腹痛いのなおた>>https://youtu.be/5UVg8z5iKrw]]||
+|12/28|#5|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY5 検査結果>>https://youtu.be/PAHHib9jIpM]]||
+|12/31|#6|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY6 ありがとう2025>>https://youtu.be/STQjEv0tjJM]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2025年12月)
+
+#endregion(2025年のアーカイブ)
+#region(2026年,open)2026年のアーカイブ
+***&font(b,#88B17B,110%){🌟💚 2026年1月(#7-20)}
+#region(開く)✖️閉じる
+#table_style(head=center:#E0F0D3){配信日=right,No=center,配信タイトル=left:#fff:#999}
+|配信日|No|配信タイトル|備考|h
+|MIDDLE:2026/01/01|#7-1&br()#7-2|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY6 ありがとう2025>>https://youtu.be/STQjEv0tjJM]]&br()&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY7 元旦>>https://youtu.be/21eafpv391s]]|ストグラ開始 10:58:29~&br()2枠目|
+|01/09|#8|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY8 救急隊とシャンプロ>>https://youtu.be/8BW2wPjFRdEk]]||
+|01/15|#9|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY9 救急隊とシャンプロイベント周り!!!!!!>>https://www.twitch.tv/videos/2670545432]]||
+|01/16|#10|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY10 めでたい>>https://youtu.be/U6C40IfFIcM]]||
+|01/17|#11|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY11 早番するぞ>>https://youtu.be/QPmBw6PFYjE]]||
+|01/18|#12|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY12 レモンスカッシュ>>https://youtu.be/-n_VObpM7_I]]||
+|01/22|#13|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY13 風邪ぴき>>https://youtu.be/oHZYfJUrJGs]]||
+|01/23|#14|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY14 命の重み>>https://www.twitch.tv/videos/2677738958]]||
+|01/24|#15|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY15 後悔のないように ←ストグラついに動きます※お披露目>>https://www.twitch.tv/videos/2678662216]]||
+|01/25|#16|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY16 イベント準備！>>https://youtu.be/BTwPdQGxf64]]||
+|01/28|#17|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[DAY17 バナナスムージー飲みたい>>https://youtu.be/XADngzD2NVI]]||
+|01/29|#18|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY18 生クリームとホイップは別物>>https://www.twitch.tv/videos/2683309116]]||
+|01/30|#19|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY19 シャンプロ初イベ！>>https://www.twitch.tv/videos/2684200286]]||
+|01/31|#20|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY20 みじかめ！>>https://www.twitch.tv/videos/2685128439]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2026年1月)
+
+***&font(b,#88B17B,110%){🌟💚 2026年2月(#21-29)}
+#region(開く)✖️閉じる
+#table_style(head=center:#E0F0D3){配信日=right,No=center,配信タイトル=left:#fff:#999}
+|配信日|No|配信タイトル|備考|h
+|2026/02/04|#21|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY21 よる？>>https://www.twitch.tv/videos/2688922550]]||
+|02/11|#22|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY22 早番！！>>https://www.twitch.tv/videos/2694829717]]||
+|02/13|#23|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY23 今日はなにがあるかな？>>https://www.twitch.tv/videos/2696534224]]||
+|02/14|#24|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY24 豚汁こそ>>https://www.twitch.tv/videos/2697453018]]||
+|02/15|#25|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY25 ぽへみ>>https://www.twitch.tv/videos/2698342485]]||
+|02/20|#26|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY26 ウス>>https://www.twitch.tv/videos/2702775960]]||
+|02/22|#27|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY27 でこかまいたち>>https://www.twitch.tv/videos/2704588854]]||
+|02/25|#28|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY28 救急新人さん！＆シャンプロ会議&女子飲み会>>https://www.twitch.tv/videos/2707215862]]||
+|02/27|#29|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY29 救急DAY>>https://www.twitch.tv/videos/2709007327]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2026年2月)
+
+***&font(b,#88B17B,110%){🌟💚 2026年3月(#30-38)}
+#region(開く)✖️閉じる
+#table_style(head=center:#E0F0D3){配信日=right,No=center,配信タイトル=left:#fff:#999}
+|配信日|No|配信タイトル|備考|h
+|2026/03/04|#30|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY30 やりたいこと沢山>>https://www.twitch.tv/videos/2713462357]]||
+|03/05|#31|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY31 写真集が発売されるらしい>>https://www.twitch.tv/videos/2714310282]]||
+|03/06|#32|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY32 けせらせら>>https://www.twitch.tv/videos/2715175490]]||
+|03/07|#33|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY33 早番！>>https://www.twitch.tv/videos/2716076902]]||
+|03/11|#34|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY34 みじかめ>>https://www.twitch.tv/videos/2719469550]]||
+|03/18|#35|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY35 早番！>>https://www.twitch.tv/videos/2725389763]]||
+|03/22|#36|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY36 みそきん初体験>>https://www.twitch.tv/videos/2728814690]]||
+|03/28|#37|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY37 後半へ続く>>https://www.twitch.tv/videos/2733755220]]||
+|03/29|#38|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY37 まずは雑談から失礼します>>https://www.twitch.tv/videos/2734640851]]|ストグラ開始 0:51:36~|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2026年3月)
+
+***&font(b,#88B17B,110%){🌟💚 2026年4月(#39-47)}
+#region(開く)✖️閉じる
+#table_style(head=center:#E0F0D3){配信日=right,No=center,配信タイトル=left:#fff:#999}
+|配信日|No|配信タイトル|備考|h
+|2026/04/05|#39|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY38 網←#MEKIFES 後語り🌟>>https://www.twitch.tv/videos/2740460310]]|ストグラ開始 1:47:37~|
+|04/08|#40|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY39 先割れフォーク>>https://www.twitch.tv/videos/2742866658]]||
+|04/09|#41|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY40 こんにちわんつー>>https://www.twitch.tv/videos/2743665084]]||
+|04/11|#42|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY41 救急とシャンプロ作業？>>https://www.twitch.tv/videos/2745340460]]||
+|04/12|#43|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY42 桜フェスチケット販売！>>https://www.twitch.tv/videos/2746186005]]||
+|04/15|#44|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY44 桜フェスチケット販売！>>https://www.twitch.tv/videos/2748557781]]||
+|04/17|#45|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY45 桜フェス本番！🌸>>https://www.twitch.tv/videos/2750152096]]||
+|04/22|#46|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY46 お金稼ぐ私はメキ>>https://www.twitch.tv/videos/2754206606]]||
+|04/29|#47|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY47 変わりゆくもの>>https://www.twitch.tv/videos/2759802117]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2026年4月)
+
+***&font(b,#88B17B,110%){🌟💚 2026年5月(#48-55)}
+#region(開く)✖️閉じる
+#table_style(head=center:#E0F0D3){配信日=right,No=center,配信タイトル=left:#fff:#999}
+|配信日|No|配信タイトル|備考|h
+|2026/05/01|#48|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY48 変わらないはずのもの>>https://www.twitch.tv/videos/2761428709]]||
+|05/06|#49|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY49 帰宅>>https://www.twitch.tv/videos/2765421360]]||
+|05/08|#50|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY50 ご機嫌>>https://www.twitch.tv/videos/2766966068]]||
+|05/09|#51|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY51 チャラチャラのパーハン>>https://www.twitch.tv/videos/2767780281]]||
+|05/17|#52|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY51 どんなときも>>https://www.twitch.tv/videos/2774144134]]||
+|05/22|#53|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY52 寒暖差にご注意>>https://www.twitch.tv/videos/2778026568]]||
+|05/30|#54|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY53 夏じゃん？>>https://www.twitch.tv/videos/2784394163]]||
+|05/31|#55|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY54 お仕事！>>https://www.twitch.tv/videos/2785197562]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2026年5月)
+
+***&font(b,#88B17B,110%){🌟💚 2026年6月(#56-67)}
+#region(開く)✖️閉じる
+#table_style(head=center:#E0F0D3){配信日=right,No=center,配信タイトル=left:#fff:#999}
+|配信日|No|配信タイトル|備考|h
+|2026/06/03|#56|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY55 生活リズム💮>>https://www.twitch.tv/videos/2787551155]]||
+|06/04|#57|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY56 なにしようかな？>>https://www.twitch.tv/videos/2788322861]]||
+|06/05|#58|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY57 衛星外甲子園決勝負け>>https://www.twitch.tv/videos/2789117619]]||
+|06/06|#59|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY58 辛い物欲えぐい>>https://www.twitch.tv/videos/2790000213]]||
+|06/11|#60|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY59 芋>>https://www.twitch.tv/videos/2793983818]]||
+|06/12|#61|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY60 今日の雑学どうしよ>>https://www.twitch.tv/videos/2794761729]]||
+|06/14|#62|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY60 熱下がった>>https://www.twitch.tv/videos/2796443916]]||
+|06/17|#63|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY61 豚汁フィーバー>>https://www.twitch.tv/videos/2798722190]]||
+|06/18|#64|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY62 低気圧滅！>>https://www.twitch.tv/videos/2799504083]]||
+|06/20|#65|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY63 優しい世界>>https://www.twitch.tv/videos/2801178197]]||
+|06/25|#66|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY64 謎の疲労感>>https://www.twitch.tv/videos/2805024149]]||
+|06/27|#67|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY65 イベントだいせいこー！>>https://www.twitch.tv/videos/2806657066]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2026年6月)
+
+***&font(b,#88B17B,110%){🌟💚 2026年7月(#68-72)}
+#region(開く)✖️閉じる
+#table_style(head=center:#E0F0D3){配信日=right,No=center,配信タイトル=left:#fff:#999}
+|配信日|No|配信タイトル|備考|h
+|2026/07/05|#68|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY66 何日ぶりかもわからない>>https://www.twitch.tv/videos/2812662649]]||
+|07/08|#69|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY67 ●>>https://www.twitch.tv/videos/2814908152]]||
+|07/09|#70|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY68 粉ポカリ>>https://www.twitch.tv/videos/2815693926]]||
+|07/10|#71|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY69 調べもの>>https://www.twitch.tv/videos/2816514214]]||
+|07/12|#72|&font(#999){&icon_fa(fa-brands fa-twitch)} [[DAY70 頭の中でシンバルが>>https://www.twitch.tv/videos/2818156633]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2026年7月)
+
+***&font(b,#88B17B,110%){🌟💚 2026年8月(#73-78)}
+#region(開く)✖️閉じる
+#table_style(head=center:#E0F0D3){配信日=right,No=center,配信タイトル=left:#fff:#999}
+|配信日|No|配信タイトル|備考|h
+|2026/08/21|#73|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[71日目 田舎に出稼ぎしていたよ>>https://youtu.be/kZcSjC3K7ms]]||
+|08/22|#74|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[72日目 美味しい野菜がてんこ盛り>>https://youtu.be/NtO3jWX1FuU]]||
+|08/23|#75|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[73日目 昨日も今日もカレー🍅>>https://youtu.be/hmUJsZC1Etw]]||
+|08/26|#76|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[74日目 スイカ収穫🍉>>https://youtu.be/ZWi2NJp6x2]]||
+|08/28|#77|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[75日目 オーディション大募集>>https://youtu.be/YmqbKwt_KZI]]||
+|08/30|#78|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[ストグラ←【#救急ナイン2026】部署対抗戦👓２年目>>https://youtu.be/Nb_7vXvMN_U]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2026年8月)
+
+***&font(b,#88B17B,110%){🌟💚 2026年9月(#79-)}
+#region(開く,open)✖️閉じる
+#table_style(head=center:#E0F0D3){配信日=right,No=center,配信タイトル=left:#fff:#999}
+|配信日|No|配信タイトル|備考|h
+|2026/09/02|#79|&font(#999){&icon_fa(fa-brands fa-twitch)} [[77日目 事務所会議！>>https://www.twitch.tv/videos/2863177740]]||
+|MIDDLE:09/05|#80-1&br()#80-2|&font(#c9243a){&icon_fa(fa-brands fa-youtube)} [[78日目 LANケーブル変えたぞ>>https://youtu.be/SAtI6qqbvGc]]&br()&font(#999){&icon_fa(fa-brands fa-twitch)} [[78日目 LANケーブル変えたぞ>>https://www.twitch.tv/videos/2865855531]]||
+|09/09|#81|&font(#999){&icon_fa(fa-brands fa-twitch)} [[79日目 きゅうきゅうに>>https://www.twitch.tv/videos/2869414522]]||
+|09/10|#82|&font(#999){&icon_fa(fa-brands fa-twitch)} [[80日目←新しい待機画面のアニメーションをお披露目しちゃいます！>>https://www.twitch.tv/videos/2870258169]]||
+|09/12|#83|&font(#999){&icon_fa(fa-brands fa-twitch)} [[81日目 丼系食べきれないお年頃>>https://www.twitch.tv/videos/2872045262]]||
+|09/13|#84|&font(#999){&icon_fa(fa-brands fa-twitch)} [[82日目 エブリディ鮭>>https://www.twitch.tv/videos/2873023647]]||
+|09/17|#85|&font(#999){&icon_fa(fa-brands fa-twitch)} [[83日目 ポロイチは塩派>>https://www.twitch.tv/videos/2876431125]]||
+|09/18|#86|&font(#999){&icon_fa(fa-brands fa-twitch)} [[84日目 ココアはほっこり>>https://www.twitch.tv/videos/2877305162]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2026年8月)
+#endregion(2026年のアーカイブ)
+#endregion(season2)
+
+//&size(12){アーカイブページリンク}
+//&small(){2025年~：[[S2AR1>キラ・メキーラ/シーズン2アーカイブ1]]}
+#right(){&link_anchor(目次1){🔝 目次へ}}
+//--------------------<動画>--------------------
+*&size(25){🌟 &size(35){&color(#29C546){動}}画 💚}
+#hr(height=3,color=#29C546)
+**📎ストグラ関連配信・切り抜き
+#include(キラ・メキーラ/関連配信・切り抜き1)
+
+&size(12){関連配信・切り抜きページリンク}
+&small(){2023年~：[[CL1>キラ・メキーラ/関連配信・切り抜き1]]}
+//&small(){20xx年~：[[CL2>キラ・メキーラ/関連配信・切り抜き2]]}
+**🎮ストグラコラボアーカイブ
+#include(キラ・メキーラ/コラボアーカイブ1)
+
+&size(12){コラボアーカイブページリンク}
+&small(){2023年~：[[CA1>キラ・メキーラ/コラボアーカイブ1]]}
+//&small(){20xx年~：[[CA2>キラ・メキーラ/コラボアーカイブ2]]}
+**🎤その他イベント等
+***🌟💚ストグラジオ
+#region(開く,open)✖️閉じる
+#table_style(head=center:#E0F0D3){リンク=center}
+|配信日|タイトル|ゲスト|リンク|h
+|2024/02/15|第49回ストグラジオ|ボイラ(ボイラテンガリン)&煌イヴ(キラメキーラ)|[[&font(#725aa1){&icon_fa(fa-brands fa-twitch)}>>https://www.twitch.tv/videos/2063373909]]|
+|2024/04/23|第58回ストグラジオ|SUGAROCK(さとう)&バル子(山田パルコ)&煌イヴ(キラメキーラ)|[[&font(#725aa1){&icon_fa(fa-brands fa-twitch)}>>https://www.twitch.tv/videos/2127352841]]|
+|2025/08/13|#ストグラCLL ストグラフェス会場MAP公開とそして...!!|よしぴ,煌イヴ,梵人,ノビー,FOXRABBIT,けんつめし|[[&font(#725aa1){&icon_fa(fa-brands fa-twitch)}>>https://www.twitch.tv/videos/2538847434]]|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(ストグラジオ)
+
+***🌟💚リアルイベント
+#region(開く,open)✖️閉じる
+#table_style(head=center:#E0F0D3){}
+#table_filter(){開催日=show,タイトル=show,メンバー=hide,開催場所=show}
+|開催日|タイトル|メンバー|開催場所|h
+|2024/05/12|ROLEPLAY LIVE 2024|&openclose2(show=全て表示){ジャック馬ウアー/キラメキーラ/Dr.ギガ/アルフォートウェスカー/雷堂ましろ/キングスターダイヤモンドズズ/バーバリアン田中/二十日ネル/うさぎさん/ヴァンダーマー/赤ちゃんキャップ/花沢まるん/マクドナルド/カインユリウス/キャプテンわきを}|会場:東京国際フォーラム|
+|2024/08/31|激動 ~ HOT LIMIT ~|ノーリミから15名、シャンプロから5名、ゲスト枠から6名|会場:横浜パシフィコ|
+|2024/12/27~2025/01/13|街のお医者さんポップアップストア|2024/12/7までに入隊した救急隊24名&openclose2(show=全て表示){命田守/橘かげまる/神崎治/天羽よつは/伊藤カテジ/サンクチュアリたえこ/ももみ/ウィルナイアー/フランシスコマグナム/鳥野ぎん/雷堂ましろ/ノビーラング/世風天みにゃ/ナイチンガール/ヘスティアゴデス/キラメキーラ/赤兎がみとも/箱根しおん/ジョンドングリ/吉田ユッカ/加賀イズミ/葉風邪ナイ/切間てつお/星野ももあ}|店舗:MAGNET by SHIBUYA109 5F/JOL Collab Store|
+|2025/01/27|リアル上官会議|かげまる/かてぃ/空衣御侍/おらんじ～な/煌イヴ/夢咲刻夜/こるぺん/天羽よつは/小花衣ももみ/ヘスティアハピネス|会場:品川ステラボール|
+|2025/03/23,2025/04/04&br()2025/06/28,2025/06/29|『謎だらけのピラミッドからの脱出』&br()ストグラ救急隊特別イベント|かげまる/かてぃ/空衣御侍/&br()おらんじ～な/ノビー/煌イヴ/かてぃ|会場:東京/東京ミステリーサーカス&br()会場:大阪/リアル脱出ゲーム心斎橋店|
+|2025/04/12,2025/04/13|超激動 -SUPER GEKIDO-|ノーリミ、シャンプロ and  more...|会場:両国国技館|
+|2025/04/14|きゅきゅふぇす！～緊急救助発生中～|救急隊から33名|会場:立川ステージガーデン|
+|2025/08/22&br()2025/09/23|MIDDLE:きゅきゅらいぶ！ 夏の東西救助大作戦|影。/おらんじ～な/かてぃ/空衣御侍/&br()ノビー/煌イヴ/松村芽久未/のすけ/わきを|会場:大阪/GORILLA HALL OSAKA&br()会場:東京/GARDEN 新木場 FACTORY|
+|2025/08/30,2025/08/31|ストグラフェス|70名以上の住人|会場:幕張メッセ|
+|2025/09/15&br()2025/09/20&br()2025/09/28|MIDDLE:SPARK TO DO|シャンプロ+ゲスト|会場:名古屋/Lives NAGOYA&br()会場:福岡/DRUM LOGOS&br()会場:東京/LINE CUBE SHIBUYA|
+|2026/02/03~2025/03/01|きゅうきゅうガールズ from ストグラ救急隊|救急隊女子から10名&openclose2(show=全て表示){天羽よつは/ももみ/ヘスティアゴデス/キラメキーラ/加賀イズミ/葉風邪ナイ/星野ももあ/元難波芽久未/イナイロハ/ゆたんぽ}|店舗:スイーツパラダイス上野マルイ店・町田モディ店・広島パルコ店/CAFE STAND OSAKA|
+|2026/05/03|きゅきゅふぇす!MAX!!～変わらないもの、変わりゆくもの～|救急隊から18名&openclose2(show=全て表示){命田守/橘かげまる/神崎治/天羽よつは/カテジ/サンクチュアリたえこ/鳥野ぎん/雷堂ましろ/ノビーラング/キラメキーラ/箱根しおん/ジョンドングリ/加賀イズミ/星野ももあ/元難波芽久未/元難波登/天羽よつは/ももみ/ヘスティアゴデス}|会場:LINE CUBE SHIBUYA|
+|2026/04/29~2026/05/06&br()2026/05/23~2026/06/28|MIDDLE:ストグラ街歩きin大阪|MIDDLE:50名以上の住人|会場:新世界ZAZA HOUSE&br()会場:近鉄アート館|
+|2026/07/20|QQ×SGPD Special Live! -CALL SIGN-|救急隊、警察から9名&openclose2(show=全て表示){影。/おらんじ～な/空衣御侍/ノビー/煌イヴ/ちゃげぽよ。/アベレージ/あどみん/魔光リサ}|会場:品川インターシティホール|
+|2026/09/22|きゅきゅらいぶ︕ 〜Autumn Bountiful Carnival～|救急隊から10名&openclose2(show=全て表示){影。/おらんじ～な/かてぃ/のすけ/こるぺん/空衣御侍/ノビー/煌イヴ/憩居ももあ/松村芽久未}|会場:GARDEN 新木場 FACTORY|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(リアルイベント)
+
+#right(){&link_anchor(目次1){🔝 目次へ}}

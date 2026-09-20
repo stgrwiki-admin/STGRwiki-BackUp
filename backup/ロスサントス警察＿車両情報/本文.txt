@@ -1,0 +1,593 @@
+&font(11px,#bbb){編集ページ：&u(){[[&color(#bbb){車両情報}>>ロスサントス警察/車両情報]]}}
+//&bold(){&color(#F54738){※スピードエクスプレスが追加されたので、詳細わかる方更新をお願いします！※}}→24/10/15加筆しました
+***&font(19,u){&color(#4169E1){|}&space()Season1&space(4)}
+#region(開く)閉じる
+****&font(19,u){&color(#4169E1){|}&space()車種&space()}
+2025年5月13日から個人所有可能な警察車両を地下の専用ディーラーで購入できるようになった。&br()車両の入荷は[[山本　寅子]]が担当している。
+-----
+-&font(#444,b,16px){個人購入可能警察車両}
+#region(一覧)
+#areaedit()
+#size(90%){#table_style(head=#4169e1:#ffffff){名称=b,価格=right,座席数=center,発売日=right}
+#table_filter(){価格=show,座席数=hide,車種=hide,発売日=hide,備考=show}
+|~名称|~座席数|~車種|~価格|~発売日|~備考|h
+|Police Tempesta CTX|2|自動車|3,000,000,000|'25/05/13|専用リバリーあり|
+|Police Vigero ZX CTX|2|自動車|2,000,000,000|'25/05/13||
+|Police Stinger TT|2|自動車|150,000,000|'25/05/13||
+|Police Omnis E-GT|4|自動車|150,000,000|'25/05/13|電気自動車|
+|Police Coquette D10|2|自動車|150,000,000|'25/05/13||
+|Police Comet S2|2|自動車|135,000,000|'25/05/13|好きにカラーリングできる警察コメット|
+|Police 8F Drafter|2|自動車|120,000,000|'25/05/13||
+|Police Cypher||自動車|100,500,000|'25/05/13||
+|Police 10F|2|自動車|97,500,000|'25/05/13||
+|Police Jester RR||自動車|97,500,000|'25/05/13||
+|Police Elegy RH8|2|自動車|90,000,000|'25/05/13||
+|Police Schlagen GT|2|自動車|82,500,000|'25/05/13||
+|Police Kuruma|4|自動車|60,000,000|'25/05/13||
+|Police Grander 3600LX||自動車|55,000,000|'25/05/13||
+|Police Stanier|4|自動車|50,000,000|'25/05/13||
+|Police Training Cruiser||自動車|50,000,000|'25/05/13||
+|Police Tailgater S|4|自動車|50,000,000|'25/05/13||
+|Police Caracara|4|自動車|100,000,000|'25/05/13||
+|Police Rhinehart|4|自動車|50,000,000|'25/05/13||
+|Police Panto|2|自動車|50,000,000|'25/05/13|警察車両の中で一番コンパクトで可愛いパトカー|
+|Police Landstalker XL||自動車|50,000,000|'25/05/13||
+|Police Komoda||自動車|50,000,000|'25/05/13||
+|Police Fugitive||自動車|50,000,000|'25/05/13||
+|Police Everon||自動車|50,000,000|'25/05/13||
+|Police Dominator GTX|2|自動車|50,000,000|'25/05/13||
+|Police Bison|6|自動車|50,000,000|'25/05/13|個人購入可能車両内で一番搭乗人数が多い&br()完全な直線番長型で安易にハンドルを切るとすぐに横転する|
+|Police Bati|2|二輪車|127,500,000|'25/05/13|二人乗り可能な警察バイク|
+|Police Zentorno CTX|2|自動車|5,000,000,000|'25/05/13|専用リバリーあり、後方が防弾仕様になっている&br()爆発的な瞬間加速の代わりに最高速付近での伸びが少し弱い&br()個人警察車両実装時点で最高額|
+|Police Buffalo Hellfire CTX|4|自動車|2,000,000,000|'25/06/19||
+|Police Coquette D10 CTX|2|自動車|3,000,000,000|'25/06/19||
+|Police Dominator GT CTX|2|自動車|2,000,000,000|'25/06/19||
+|Police Dominator GT4 CTX|2|自動車|3,000,000,000|'25/06/19||
+|Police Omnis E-GT CTX|4|自動車|3,000,000,000|'25/06/19||
+|Police Buffalo EHF||自動車|2,000,000,000|'25/06/19||
+|Police Vectre CTX||自動車|1,650,000,000|'25/06/19||
+|Police 300R|2|自動車|75,000,000|'25/06/19||
+|Police Sentinel|2|自動車|50,000,000|'25/06/19||
+|Police Sugoi|4|自動車|50,000,000|'25/06/19||
+|Police Sultan||自動車|60,000,000|'25/06/19||
+|Police Vectre|2|自動車|135,000,000|'25/06/19||
+|Police Aleutian|4|自動車|150,000,000|'25/06/19||
+|Police Cavalcade XL|4|自動車|50,000,000|'25/06/19||
+|Police Dorado|4|自動車|50,000,000|'25/06/19||
+|Police Gresley|4|自動車|50,000,000|'25/06/19||
+|Police Hellfire|4|自動車|50,000,000|'25/06/19||
+|Police Novak|4|自動車|50,000,000|'25/06/19||
+|Police Schafter V12|4|自動車|75,000,000|'25/06/19||
+|Police Schwartzer|2|自動車|50,000,000|'25/06/19||
+|Police Sultan RS||自動車|60,000,000|'25/06/19||
+|Police Terminus||自動車|195,000,000|'25/06/19||
+|Police Greenwood|4|自動車|100,000,000|'25/06/19||
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+}
+//|Police ||自動車||'25/mm/dd||
+//|Police ||二輪車||'25/mm/dd||
+#areaedit(end)
+#endregion(個人購入可能警察車両一覧)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+-&font(#444,b,16px){パトカー}&br()元の車両より大きな改造が施されている。一覧上の４車種は市に申請をして支給可能。
+#region(一覧)
+#areaedit()
+-&ruby(ポリス){Police} &ruby(コメット){Comet} &ruby(S2){S2}&br()警察仕様の[[Comet S2>>https://w.atwiki.jp/gtav/pages/2698.html]]。★SWAT:10&small(){台}&br()最高速度と加速は町でトップレベルの性能だが、とても滑るため一部の署員のみ使っている。雪の日は地獄。&br()歪みだが、411 km/hを出したことがある。&br()2024年5月のアップデート時に鉛が詰め込まれて重量が重くなった分、滑りにくくなった。&br()2025年2月25日のアップデートで現在は最高速度が210 km/h、重量が434 kgしかない代わりに尋常ではないグリップ力を発揮するタイヤを装着しており、物理法則を無視するコーナリングを武器に犯人を追い詰める高機動パトカー。車の運転が苦手な署員でも操れるよう入門用として設計されている。
+-&ruby(ポリス){Police} &ruby(ジャギュラー){Jugular}&br()警察仕様の[[Jugular>>https://w.atwiki.jp/gtav/pages/2501.html]]。★SWAT:10&small(){台}&br()パトカーの中でもバランスが取れている性能を持つ。&br()SWATの創設前はカラーリングを自由に変えたり、自分用のステッカーを貼れるという外装カスタマイズの強さもあって人気が高い車両だった。&br()読み方はジャ&bold(){ギュ}ラーだが、ジャ&bold(){グ}ラーと間違えられることが多い。&br()現在では後継のパトカーに主力の座を譲ったものの、4台の中では唯一の4シーターであり、機動力と輸送能力を両立できる車両として運用されることもある古参パトカー。重量は約1,600 kg
+-&ruby(ポリス){Police} &ruby(ヴィゲーロ){Vigero} &ruby(ZX){ZX}&br()警察仕様の[[Vigero ZX>>https://w.atwiki.jp/gtav/pages/2839.html]]。★SWAT:5&small(){台}&br()上の二台に比べて長所が少ないため、使用している署員の数はごく少数だったが、2024年6月のアップデートにより速力・曲がり性能・ブレーキ力・グリップ力が向上し、高機動型に生まれ変わった。&br()2025年2月25日のアップデートで逆にグリップ力が落ちた代わりに、一瞬にして最高速度の270 km/hに到達する驚異的な加速力を有する高速追跡車両となった。重量が5,868 kgもあり、操れたらアタック最強車両でもある。運転の方法にコツがあり、運転できる署員は限られる。
+-&ruby(ポリス){Police} &ruby(パラゴン R){Paragon R}&br()警察仕様の[[Paragon R>>https://w.atwiki.jp/gtav/pages/2479.html]]。★SWAT:20&small(){台}&br()2024年5月のアップデート時にSWAT用として導入された最新鋭の警察車両。&br()他のSWAT車両が内部のみカスタマイズが許されるのに対し、こちらは2色までの外装塗装が可能の他、ステッカー貼りやリアウイングの取り付けができるので、自分用のパラゴンが作れるのが特徴である。&br()性能としては犯罪者の車両とも互角に渡り合えるフィジカルと装甲を備え、スピードもコメットに匹敵する速さを誇る。&br()加速が少し鈍いこと、車体が前後に少し長く階段等の段差に引っかかりやすいのが玉に瑕。&br()2024年9月の2周年アップデートにより市内の車の挙動が大きく変化した事もあって、車の操縦が上手い警官用の印象が強くなってしまった。重量は約2,400 kg。
+-&ruby(ポリス){Police} &ruby(ボーラー){Baller} &ruby(ST){ST}&br()警察仕様の[[Baller ST >>https://w.atwiki.jp/gtav/pages/2737.html]]。&br()
+-&ruby(ポリス){Police} &ruby(ゼントーノ){Zentorno}&br()警察仕様の[[Zentorno>>https://w.atwiki.jp/gtav/pages/1086.html]]。3台所属。&br()高性能な逃走車両に対抗するため開発されたハイパフォーマンスなパトカー。&br()ニトロを使って500 km/h以上を出したことがある。&br()装甲車試用期間に合わせて、大型犯罪対応専用として一時的に導入されたたものの一時的に使用不可になった事がある。最近は署員増加もあって1台だけが事件後処理のための移動用として動いているらしい。
+-&ruby(ポリス){Police} &ruby(バッファロー){Buffalo}&br()[[原作>>https://w.atwiki.jp/gtav/pages/330.html]]より存在する車両。&br()1台のみ所属しており、体験用車両として使用されている。
+-&ruby(ポリス){Police} &ruby(トランスポーター){Transporter}&br()[[原作>>https://w.atwiki.jp/gtav/pages/216.html]]より存在する車両。&br()1台のみ所属。&br()もともと武器庫として使用されていたが、ニトロが搭載できること、フロント部分に完全防弾の装甲が施されていることを活かすため、犯罪現場に斬り込む尖兵として生まれ変わる。
+-&ruby(ポリス){Police} &ruby(ピーナッツ){Peanut}&br()マメ課が所有しているパトロール専用の車両。4台所属。&br()性能は普段のものと変わらず、個人での所有となっている。&bold()
+-&ruby(ポリス){Police} &ruby(ドラド・クルーザー){Dorado Cruiser}&br()[[原作>>https://w.atwiki.jp/gtav/pages/3112.html]]より存在する車両。警察に1台所属。[[ボイラ>ボイラ　テンガリン]]の申請により導入されたSUVパトカー。ベースとなった車両がSUVのため、警察車両の中でもトップクラスのオフロード走破性能を誇る。&br()また見た目通りのフィジカルの強さと、見た目とは正反対の鋭い加速力を両立している。&bold()
+#areaedit(end)
+#endregion(パトカー一覧)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+-&font(#444,b,16px){バイク}&br()元の車両より大きな改造が施されている。Shinobiのみ市に申請をして支給可能
+#region(一覧)
+#areaedit()
+-&ruby(ポリス){Police} &ruby(シノビ){Shinobi}&br()警察仕様の[[Shinobi>>https://w.atwiki.jp/gtav/pages/2738.html]]。★SWAT:5&small(){台}&br()ハンドリングがよく、車にも追いつける性能。
+-&ruby(ポリス){Police} &ruby(ハクチョウ){Hakuchou}&br()警察仕様の[[Hakuchou>>https://w.atwiki.jp/gtav/pages/1274.html]]。1台所属。&br()Shinobiに比べハンドリングは劣るが、加速性能はパトカー並。
+-&ruby(ポリス){Police} &ruby(バイク){Bike}&br()[[原作>>https://w.atwiki.jp/gtav/pages/417.html]]より存在する車両。&br()性能は大して高くはない。
+-&ruby(ポリス){Police} &ruby(サイドカー){Sidecar}&br()警察仕様のサイドカー。2周年記念でも使用された車両。警察1台所属。
+#areaedit(end)
+#endregion(バイク一覧)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+-&font(#444,b,16px){自転車}
+#region(一覧)
+#areaedit()
+-&ruby(ポリス){Police} &ruby(サイクル){Cycle}&br()警察専用の自転車。★SWAT:2&small(){台}&br()本気を出せば普通の自転車より速い。&br()しかし歪みがひどいとのことで、チャリ課メンバーは自前のチャリを使用している。
+-&ruby(ナガサキ){NAGASAKI} &ruby(ユニサイクル){Unicycle}&br()警察専用の一輪車。★SWAT:2&small(){台}&br()ジャンプを駆使して80キロ以上のスピードを出すことが可能。&br()チャリ課メンバーが市長に直談判をし先行導入してもらった。
+#areaedit(end)
+#endregion(自転車)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+-&font(#444,b,16px){装甲車}&br()警察専用の対犯罪者用の車両。
+--&ruby(ポリス){Police} &ruby(ライオット){Riot}&br()[[原作>>https://w.atwiki.jp/gtav/pages/741.html]]より存在する車両。2台所属。　★SWAT:2&small(){台}&br()乗車定員は10人と多く装甲が厚いが、速さは遅い。手榴弾が弱点。&br()1台のみ特殊刑事課のラッピングが施されている。
+-&font(#444,b,16px){その他車両}&br()事件対応には使用されない車両。
+--&ruby(ヴァピッド){Vapid} &ruby(スピード){Speedo} &ruby(エクスプレス){Express}&br()警察の物品保管用車両、性能は市販のものと同じ。警察2台所属。&br()パトランプやサイレンは装備されていないため、医療品や各種素材を購入・運搬する際に使用されている。&br()[[バーバリアン　田中]]が[[普通車ディーラー>>パン　チャン]]から購入し、市長補佐が警察車両として2024年10月2日に登録した。&br()[[ジャック　馬ウアー]]からは事前に許可を取っていたが登録時に不在だったため、2024年10月10日に導入報告となった。&br()1番車は署員みんなでラッピングした特別仕様となっている。
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+-&font(#444,b,16px){ヘリコプター}&br()警察専用のヘリ。いずれも[[原作>>https://w.atwiki.jp/gtav/pages/304.html]]より存在する車両。
+#region(一覧)
+#areaedit()
+-&ruby(ポリス){Police} &ruby(マベリック){Maverick}&br()☆警察:6&small(){台}、練習用:2&small(){台}　★SWAT:8&small(){台}&br()通称「サーマル」。&br() 水平飛行最高速度は230km/h前後。&br()警察と救急隊限定の&openclose2(show=サーマル){(熱源感知)}が使えるバランスの取れたヘリ。&br()後述のBuckingham Conada V2導入により引退予定。
+-&ruby(SGPD){SGPD} &ruby(マベリック){Maverick}&br()☆警察:1&small(){台}　★SWAT:4&small(){台}&br()通称「速すぎワロタ号」。&br()ヘリで逃走する犯罪者に対策するために大人の力で開発されたヘリ。&br()この世界で1番の加速性能と280km/h前後の水平飛行速度を誇るが、装甲は薄い。サーマルは未装備。&br()後述のBuckingham Conada V2 WRT導入により引退予定。
+-&ruby(ポリス){Police} &ruby(スーパーヴォリト){SuperVolito}&br()☆警察:2&small(){台}　★SWAT:4&small(){台}&br()通称「ボリトー」。&br()犯罪者のSuperVolitoやVolatusが増え対応するために追加された。&br()最高速度は250km/h前後で、耐久力が高いアタック型のヘリ。サーマルは未装備。
+-&ruby(バッキンガム){Buckingham} (&ruby(ポリス){Police}/&ruby(スワット){SWAT}) &ruby(コナダ){Conada} V2&br()☆警察:8&small(){台}　★SWAT:8&small(){台}&br()通称「コナダ」。&br()警察ヘリでは初のダクテッド・ファンテールローターを装備した機体。&br()犯罪者のFrogger対策のために’24/11/22に導入された。&br()旋回・上昇性能と速度がPolice Maverickより向上しており、水平飛行最高速度は250km/h前後、スイング飛行では278km/h&small(){([[かな市長補佐]]談)}。&br()装甲はPolice Maverickと同等。&openclose2(show=サーマル){(熱源感知)}が装備されている。&br()Maverickと違い、ランディングスキッドが堅牢になっておりスタンプアタックの威力が上がっている。&br()ローターブレードがMaverickより小径になり5枚羽になったことで地上で転覆したとしてもすぐに復元できるほどに機体制御が優れており、ユニオンの大穴エントリーも容易になった。&br()'25/01/07より正式運用開始。Maverickシリーズは順次引退予定。&br()※テールシステムや機首アンテナの有無など機体形状が[[原作Conada>>https://w.atwiki.jp/gtav/pages/2832.html]]シリーズとは異なる[[カスタムモデル>>https://jakers.tebex.io/package/6285256]]である。&br()&openclose2(show=極秘情報){(Conadaは街で唯一カスタムパーツ使用が許可されたヘリでアップグレードが可能。&br()使用可能パーツ：Tier4 Engine、Tier3 Brakes、Supercharger Turbo&br()カスタムによってはSGPD Maverickを超える飛行速度(スイング300km/h前後)を出せる。改造は[[9055]]の[[上田　さん]]に一任していたが、彼が辞職して以来はメカニック全般に依頼していく方針。)}&br()&br()[[ギャング]]側からは音がしなさすぎてブレードキルに対応し切れない、速すぎて逃げ切れないなど強すぎると言われているが&br()警察側からはブレードが電柱に当たっただけで機体が一回転する。ブレードが小さいので犯人に当てにくく弱すぎると&br()全く正反対の評価となっている。&br()'25/02/04調整が入り、耐久力が大幅に下がった(ランディングスキッドからの衝撃が吸収できず着陸などでの爆発が多発していたが歪みであったことが発覚。2月中旬にサイレント修正が入り初期から少しだけナーフされた状態で落ち着いた)。&br()Conadaヘリのカスタムをギャングが知った際は「警察ヘリだけカスタム可なのは不公平だ」「カスタムを外せ」とクレームが大量に届いていたが、&br()Conadaはもともとフルカスタム前提のヘリであり、性能調整の簡易さからもカスタムは必須である。&br()※今後カスタムに関して文句を言われた際は「数値を見ろ」と突っぱねる予定。&br()&openclose2(show=ConadaV2の挙動について){：機体が軽すぎるため、ヘリアタックを受けても回転して衝撃を受け流してしまう。耐久値の細かい調整が効かず、ぶつけただけで爆発してしまうデフォルトの耐久値をアーマーで補完しているが、銃撃に対する耐久値も同時に上がっているため、従来のヘリよりも硬くなっている。}
+-&ruby(バッキンガム){Buckingham} (&ruby(ポリス){Police}/&ruby(スワット){SWAT}) &ruby(コナダ){Conada} V2 &ruby(ワロタ){WRT}&br()☆警察:2&small(){台}　★SWAT:2&small(){台}&br()Buckingham Conada V2をベースにした、SGPD Maverick(速すぎワロタ号)の後継機体。&br()Conada V2の飛行性能に加えてノンカスタム状態で300km/hを超える速度を誇る。&br()しかし装甲は[[犬　ルリ]]曰く「SGPD Maverickより脆い」とのこと。&br()ノンカスタム状態だと、回転中のブレードを頑丈な電柱に数秒こすり付けただけで耐久が1/4程減少する。サーマルは未装備。
+#areaedit(end)
+#endregion(ヘリコプター)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+-&font(#444,b,16px){船舶}&br()警察専用の船。
+--&ruby(ポリス){Police} &ruby(プレデター){Predator}&br()[[原作>>https://w.atwiki.jp/gtav/pages/677.html]]より存在する車両。
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+-----
+****&font(19,u){&color(#4169E1){|}&space()社用ガレージ&space()}
+警察とSWATで、ガレージに収容されている車両が分かれている。
+-&font(#444,b,16px){車両ガレージ（警察）}
+#region(開く)
+#areaedit()
+//ガレージ移動した車両をSWATの欄に移動したため、No.が多少ズレている可能性あり
+#table_style(head=#696969:#f9fcff:center){No.=right}
+#table_filter(){車両名称=show,車種=show,備考=show}
+|~No.|~車両名称|~車種|~備考|h
+|1|シルヴァーヴァレット号(チョクセンバンチョー)-C|Police Comet S2||
+|2|トラッカー車両-B|Police Buffalo|特殊車両だが現在使われていない|
+|4|コメット体験用-C|Police Comet S2||
+|6|コメットナカバ仕様-C|Police Comet S2|小此木ナカバ用|
+|7|キャップ最低バイク-bike|Police Bike|ましゃかりトラボルタ用&br()元は「キャップ最高バイク」という名前だったがバーバリアン田中によって改名|
+|8|殿のこめってお-C|Police Comet S2|文月なえ用|
+|10|キャシーコメット-C|Police Comet S2|如月キャシー用|
+|11|【殿堂入り】アンブレラ所属ハクナツメ新人いびり|Police Comet S2|元ハクナツメ用|
+|12|【殿堂入り】Allin所属ヨウチヨダ新人警官キラー|Police Comet S2|元千代田ヨウ用|
+|14|伊坂'sシノビ-shinobi|Police Shinobi|伊坂直樹用|
+|15|みちこバッファロー|Police Baller ST|※車両名はバッファローになっているが車種はBaller ST&br()如月ミチコ用|
+|16|花沢まるんのバイク-Shinobi|Police Shinobi|花沢まるん用|
+|18|&s(){キャップジャグラー-J}→ジェイグラー-J|Police Jugular|&s(){ましゃかりトラボルタ用}→山田ジェイミー用|
+|19|ホームズジャグラー-J|Police Jugular|キーモットホームズ用|
+|20|らだおシノビ-Shinobi|Police Shinobi|青井らだお用|
+|21|つぼ浦ザジャグラー-J|Police Jugular|つぼ浦匠用|
+|22|ライオット特殊刑事課仕様-Riot|Police Riot||
+|23|ライオット装甲車両-Riot|Police Riot||
+|25|Police police bike|Police Bike||
+|27|Police police bike|Police Bike||
+|28|PUI!PUI!オルカー-J|Police Jugular|オルカトヴォロ用|
+|30|リコメット-C|Police Comet S2|シオコリコ用|
+|32|エビ男ジャグラー-J|Police Jugular|えび男用|
+|33|mireimirei-J|Police Jugular|あやなみれい用|
+|35|ととじゃぐら-J|Police Jugular||
+|36|エギ君-C|Police Comet S2|狼恋エギ用|
+|37|きまりのくるま-J|Police Jugular|冥鳴キマリ用|
+|39|ぎゃるみちこめっと-C|Police Comet S2||
+|40|煉さんから貰ったかっこいいバイク|Police Shinobi||
+|41|水無月ゆかりじゃぐらぁ-J|Police Jugular|水無月縁用|
+|42|TAKA COMET-C|Police Comet S2|鷹山トシアキ用|
+|43|伊坂's Jugular-J|Police Jugular|伊坂直樹用|
+|44|らだおジャグラー-J|Police Jugular|青井らだお用|
+|45|ハクチョウ-H|Police Hakuchou||
+|46|体験用ビゲロ-V|Police Vigero ZX||
+|-|ヴィゲロ青|Police Vigero ZX||
+|51|無職パトカー-J|Police Jugular||
+|52|ゆかり　シノビ-Shinobi|Police Shinobi|水無月縁用|
+|53|なずぴ号-J|Police Jugular|きらりんぶい☆なずぴ(10)用|
+|54|オレオレオレオレオレオレオレのジャグラー-J|Police Jugular||
+|55|特殊刑事課仕様ハクチョウ|Police Hakuchou||
+|56|Police Cycle 警察用自転車【ハロウィンエディション】|Police Cycle||
+|57|Police Cycle 警察用自転車|Police Cycle||
+|58|Police Cycle 警察用自転車 故障中|Police Cycle|燃料不足の歪み|
+|60|難波ハルコメット-C|Police Comet S2|難波ハル用|
+|61|れむ専用ジャグラー-J|Police Jugular|後藤れむ用|
+|62|--------------赤城ジャグラー-------------- -J|Police Jugular|赤城煉用|
+|64|ネオグレートイダバー号『E-D8』-J|Police Jugular|伊田場零雨用|
+|65|Arupi comet-C|Police Comet S2|ArupiAru用|
+|66|アニキのコメット-C|Police Comet S2|銀河一アニキ用|
+|67|notcastm Comet S2-C|Police Comet S2||
+|68|みこだLOVER With ボケモン-C|Police Comet S2||
+|70|inu-C|Police Comet S2||
+|71|共有コメット-C|Police Comet S2||
+|73|寅子スペシャルジャグラー-J|Police Jugular|山本寅子用|
+|74|共有ジャグラー-J|Police Jugular||
+|75|TAKA SHINOBI-Shinobi|Police Shinobi|鷹山トシアキ用|
+|78|バーバリアン田中のジャグラー-J|Police Jugular|バーバリアン田中用|
+|79|PUI!PUI!オルバイク!-Shinobi|Police Shinobi||
+|80|一輪車|NAGASAKI Unicycle||
+|81|一輪車|NAGASAKI Unicycle||
+|82|一輪車|NAGASAKI Unicycle||
+|83|ラピジャグ-ラピスりお|Police Jugular|ラピスりお用|
+|84|大喜久なる男ジャグラー-J|Police Jugular|大喜久なる男用|
+|85|よわそうなこめっと…-C|Police Comet S2||
+|86|kawanaka comet-C|Police Comet S2|川中用|
+|87|Police Police Hakuchou|Police Hakuchou||
+|88|Police Police Hakuchou|Police Hakuchou||
+|89|ヤミーコメット-C|Police Comet S2|ヤミーエンデバー用|
+|90|Police Police Jugular-J|Police Jugular||
+|92|みやのめい-J|Police Jugular|みやのめい用|
+|-|Big Police Bobby Car|Police Peanut||
+|-|警察物品保管用車両No.2|Vapid Speedo Express||
+|-|警察物品保管用車両No.1|Vapid Speedo Express|署長達のステッカーが貼られている|
+|-|Police Sidecar|Police Sidecar||
+|-|Police Police Paragon|Police Paragon R||
+
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#areaedit(end)
+#endregion(車両ガレージ)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+-&font(#444,b,16px){車両ガレージ（SWAT）}
+#region(開く)
+#areaedit()
+#table_style(head=#696969:#f9fcff:center){No.=right}
+#table_filter(){車両名称=show,車種=show,備考=show}
+|~No.|~車両名称|~車種|~備考|h
+|1|れむ専用-C|Police Comet S2|警察ガレージからの移動&br()後藤れむ用|
+|2|ネルこめっと-C|Police Comet S2|警察ガレージからの移動&br()二十日ネル用|
+|3|水無月頑張る車|Police Comet S2|警察ガレージからの移動&br()水無月縁用|
+|4|=====警察用護送車=====|Police Transporter|警察ガレージからの移動|
+|5|セリーヌコメット-C|Police Comet S2|警察ガレージからの移動&br()セリーヌゴデス用|
+|6|neko mango-J|Police Jugular|警察ガレージからの移動&br()猫マンゴー用|
+|7|皇帝-J|Police Jugular|警察ガレージからの移動&br()ニックスリア用|
+|8|Arupi-J|Police Jugular|警察ガレージからの移動&br()ArupiAru用|
+|9|花沢まるんのジャグラー-J|Police Jugular|警察ガレージからの移動&br()花沢まるん用|
+|10|【殿堂入り】みこだ闇堕ちじゃぐら-J|Police Jugular|警察ガレージからの移動&br()元みこだよう用|
+|11|【文月】ロスサントス帝国軍遊撃部隊用自動二輪車|Police Shinobi|警察ガレージからの移動&br()ニックスリアから文月夏苗が受け継いだ|
+|12|ぱちおん-V|Police Vigero ZX|警察ガレージからの移動&br()日之ぱちお用|
+|13|【入賞】勝痔ャグラー|Police Jugular|警察ガレージからの移動&br()元竹井勝痔用|
+|14|黄金のつよめの風-J|Police Jugular|警察ガレージからの移動&br()伊藤ぺいん用|
+|15|もりるんるん-J|Police Jugular|警察ガレージからの移動&br()もりるんるん用|
+|16|【殿堂入り】ケインオーの抑制コメット|Police Comet S2|警察ガレージからの移動&br()元ケイン／オー用|
+|17|レッサンジャグラー|Police Jugular|警察ガレージからの移動&br()レッサンパンナ用|
+|19|【文月夏苗】コメット|Police Comet S2|文月夏苗用|
+|20|【共有】カスタム済コメット（エンジン0）|Police Comet S2||
+|21|【共有】カスタム済コメット（エンジン0）スペーサー仕様|Police Comet S2||
+|22|【共有】カスタム済コメット（サス2）|Police Comet S2||
+|23|【共有】カスタム済コメット（サス４）【青】|Police Comet S2||
+|24|【共有】カスタム済コメット【赤】|Police Comet S2||
+|25|【共有】カスタム済コメット【緑】|Police Comet S2||
+|26|【共有】カスタム済コメット（ハーネス）【黄色】|Police Comet S2||
+|27|【共有】NOCUSTM Comet(残す用)|Police Comet S2||
+|28|【共有】NOCUSTM Comet(残す用)|Police Comet S2||
+|29|ぺんゆきやの最強の車です|Police Jugular|ぺんゆきや用|
+|30|【共有】カスタム済ジャグラー|Police Jugular||
+|31|勇者の相棒【フェンリル】|Police Jugular|ミカドルアシェイア用|
+|32|【共有】カスタム済ジャグラー|Police Jugular||
+|33|【共有】カスタム済ジャグラー|Police Jugular||
+|34|【共有】カスタム済ジャグラー|Police Jugular||
+|35|【共有】カスタム済ジャグラー|Police Jugular||
+|36|【共有】カスタム済ジャグラー|Police Jugular||
+|37|カスタム済ジャグラー【さぶちゃんカラー】|Police Jugular||
+|38|【共有】カスタム済ジャグラー(サス４)|Police Jugular||
+|39|【共有】カスタム済シノビ【青】|Police Shinobi||
+|40|【共有】カスタム済シノビ【赤】|Police Shinobi||
+|41|【共有】カスタム済シノビ【緑】|Police Shinobi||
+|42|【共有】カスタム済シノビ【黒】|Police Shinobi||
+|43|【共有】カスタム済シノビ【白】|Police Shinobi||
+|44|【文月】カスタムヴィゲロ|Police Vigero ZX||
+|45|カスタムヴィゲロ【ぱちおカスタム】|Police Vigero ZX||
+|46|【共有】カスタム済みヴィゲロ【BOB】|Police Vigero ZX||
+|47|【共有】カスタム済みヴィゲロ|Police Vigero ZX||
+|49|【共有】RIOT|Police Riot||
+|50|【共有】RIOT|Police Riot||
+|51|【共有】POLICE自転車|NAGASAKI Unicycle||
+|52|【共有】POLICE自転車|NAGASAKI Unicycle||
+|53|【共有】POLICE自転車|(詳細求む)||
+|54|【共有】POLICE自転車|(詳細求む)||
+|55|Paragonカスタム済【黄金色伊藤】|Police Paragon R|伊藤ぺいん用|
+|56|ゴリパラゴン【🦍】|Police Paragon R||
+|57|Paragonカスタム済【さぶ郎】|Police Paragon R|安保さぶ郎用|
+|58|Paragonカスタム済【紀伊ゴン】|Police Paragon R|紀伊路つみき|
+|53|paragonカスタム済【なずぴ】|Police Paragon R|きらりんぶい☆なずぴ(10)用|
+|55|Paragonカスタム済【キモセン】|Police Paragon R|キーモットホームズ用|
+|56|Paragonカスタム済【猫マンゴー】|Police Paragon R|猫マンゴー用|
+|57|Paragonカスタム済【急急如律令号】|Police Paragon R|安倍霊明用|
+|58|Paragonカスタム【犬ルリ】|Police Paragon R|犬ルリ用|
+|59|Paragonカスタム【ミンドリー】|Police Paragon R|ミンドリー用|
+|91|ぺいんシノビ-Shinobi|Police Shinobi|警察ガレージからの移動&br()伊藤ぺいん用|
+|60|あほシノビ|Poloce Shinobi|安保さぶ郎用|
+|61|Paragonカスタム済み21【花沢まるん】|Police Paragon R|花沢まるん用|
+|62|Paragonカスタム済【PUI!】|Police Paragon R||
+|63|Paragonカスタム済み【arupi】|Police Paragon R|ArupiAru用|
+|64|Paragonカスタム済み【bボス狂い】|Police Paragon R||
+|66|Paragonカスタム済【帝国軍地上殲滅部隊第一師団特殊用車両】|Police Paragon R|ニックスリア用|
+|67|Paragonカスタム済【レッサン🦝】|Police Paragon R|レッサンパンナ用|
+|68|【共有】Paragonカスタム済【佐々木】|Police Paragon R||
+|69|【共有】Paragonカスタム済【派手ピンク】|Police Paragon R||
+|70|Paragon【よわき号】|Police Paragon R|夜若木颯用|
+|71|らるごん|Police Paragon R|二部らるたる用|
+|72|ユンユンユンParagon（ユン）|Police Paragon R|羽芝ユン用|
+|73|ブロッコリー号|Police Paragon R|ブロッコリー斎藤用|
+|74|立花パラゴン|Police Paragon R|立花乱歩用|
+|75|おにわのパラゴン|Police Paragon R|御庭野えんちょう用|
+|76|猪原ローズパラゴン【顔面凶器号】|Police Paragon R|猪原ローズ用|
+|77|Paragonカスタム済【生存重視の加護付き】ｲﾀﾞｳﾞｧｧｧｧｧｧｧｧ|Police Paragon R|伊田場零雨用|
+|78|🐰がみともパラゴン|Police Paragon R|赤兎がみとも用|
+|-|【殿堂入り】ひーのらんらーん号ぱらごおおおおおんぶるんぶrrrr【ひのらん】|Police Paragon R|元ひのらん用|
+|80|ZAKO PARAGON|Police Paragon R||
+|81|✿なでしこパラゴン|Police Paragon R|冷泉ナデシコ用|
+|82|【怪獣1号パラゴン】|Police Paragon R|鬼瓦るる用|
+|-|【殿堂入り】隠密シノビ隊【ひのらん】|Police Shinobi|元ひのらん用|
+|84|リオゴン|Police Paragon R|犬上リオ用|
+|85|よすみのパラゴン|Police Paragon R|よすみのかど用|
+|86|【ヒロヤマモト】パラゴン|Police Paragon R|ヒロヤマモト用|
+|87|Paragonカスタム済【ボブ】|Police Paragon R|五十嵐ボブ用|
+|88|るんるんのパラゴン|Police Paragon R|もりるんるん用|
+|89|ルールのパラゴン|Police Paragon R|ルールちゃん用|
+|49|ドリ----------------------------------C|Police Comet S2|ミンドリー用|
+|-|【パラゴン】ぷちおパラゴン|Police Paragon R|警察ガレージからの移動&br()土田ぷちお用|
+|90|いぬねこうパラゴン|Police Paragon R|いぬねこう用|
+|91|伊勢ぱら|Police Paragon R|伊勢えびす用|
+|92|【殿堂入り】鉄馬ガヴァゴン|Police Paragon R|元ガヴァイアッカンマン用|
+|93|ぷぅコメット|Police Comet S2|鬼桃ぷぅ用|
+|-|pepper共用|Police Paragon R||
+|95|れむ専用パラゴン|Police Paragon R|後藤れむ用|
+|96|燃えるぜ焔パラゴン|Police Paragon R|焔零児用|
+|97|レッサンシノビバイク|Police Shinobi|レッサンパンナ用|
+|87|Paragonカスタム済【マヌ太郎】|Police Paragon R|警察ガレージからの移動&br()ゴンザレスマヌ太郎用|
+|-|ぷちおコメット|Police Paragon R|土田ぷちお用|
+|-|メチャよるゴン|Police Paragon R|メチャ南よる用|
+|-|じぇみごん|Police Paragon R|山田ジェイミー用|
+|-|まじま||真島ルイ用|
+
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#areaedit(end)
+#endregion(車両ガレージSWAT)
+
+-&font(#444,b,16px){ヘリガレージ（警察）}
+#region(開く)
+#areaedit()
+#table_style(head=#696969:#f9fcff:center){No.=right}
+#table_filter(){車両名称=show,車種=show,備考=show}
+|~No.|~車両名称|~車種|~備考|h
+|1|Police police maverick【オワコン】|Police Maverick||
+|2|Police police maverick【オワコン】|Police Maverick||
+|3|Police police maverick【オワコン】|Police Maverick||
+|4|Police police maverick【オワコン】|Police Maverick||
+|5|Police police maverick【オワコン】|Police Maverick||
+|6|Police police maverick【オワコン】|Police Maverick||
+|7|仮練習用2|Police Maverick|※現場出動禁止|
+|8|仮練習用3|Police Maverick|※現場出動禁止|
+|9|速すぎワロタ号【オワコン】|SGPD Mavarick||
+|10|Police SuperVolito|Police SuperVolito||
+|11|Police SuperVolito|Police SuperVolito||
+|-|Buckingham Police Conada V2 ガレージにしまってないのおかしいな|Buckingham Police Conada V2|&openclose2(show=※){カスタム済なので盗難防止対策で路駐厳禁}|
+|-|Buckingham Police Conada V2 ガレージにしまってないのおかしいな|Buckingham Police Conada V2|&openclose2(show=※){カスタム済なので盗難防止対策で路駐厳禁}|
+|-|Buckingham Police Conada V2|Buckingham Police Conada V2||
+|-|Buckingham Police Conada V2|Buckingham Police Conada V2||
+|-|Buckingham Police Conada V2|Buckingham Police Conada V2||
+|-|Buckingham Police Conada V2|Buckingham Police Conada V2||
+|-|Buckingham Police Conada V2|Buckingham Police Conada V2||
+|-|Buckingham Police Conada V2|Buckingham Police Conada V2||
+|-|Buckingham Police Conada V2 WRT|Buckingham Police Conada V2 WRT||
+|-|Buckingham Police Conada V2 WRT|Buckingham Police Conada V2 WRT||
+
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#areaedit(end)
+#endregion(ヘリガレージ)
+//〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+-&font(#444,b,16px){ヘリガレージ（SWAT）}
+#region(開く)
+#areaedit()
+#table_style(head=#696969:#f9fcff:center){No.=right}
+#table_filter(){車両名称=show,車種=show,備考=show}
+|~No.|~車両名称|~車種|~備考|h
+|-|おしまい【police maverick】キャップ特級呪物化中|Police Maverick|&openclose2(show=旧名:){【police maverick】大事に使わなかったときわかるよな？&br()車両寿命が導入されたときに連続する事件対応で酷使した結果、&br()市の想定を大幅に上回るスピードで飛行不可になるレベルまで&br()耐久値が下がったため使用しないようにと[[キャップ>ましゃかり　トラボルタ]]が改名した。&br()現在は警察車両は寿命が減らなくなったため、使用に問題ない。}|
+|-|おしまい【police maverick】らだおくん号|Police Maverick||
+|-|おしまい【police maverick】さぶろう号|Police Maverick||
+|-|おしまいpolice maverick　力二号|Police Maverick||
+|-|おしまいpolice maverick　成瀬号|Police Maverick||
+|-|おしまいSWAT速すぎワロタ1号|SGPD Mavarick||
+|-|おしまいSWAT速すぎワロタ2号|SGPD Mavarick||
+|-|おしまいSWAT速すぎワロタ3号|SGPD Mavarick||
+|-|SWATぼりぼりくん|Police SuperVolito||
+|-|ボリヌンティウス|Police SuperVolito||
+|-|おしまい【ワロタ】ロスサントス帝国軍 空挺部隊 第弐師団 軍用機(W.T号)|SGPD Mavarick||
+|-|おしまいpolice maverickえ？匂わないか？磯の香を|Police Maverick||
+|-|おしまいpolice maverick　猫マン号|Police Maverick||
+|-|おしまいPolice maverickネルはいつでも皆のアイドル号|Police Maverick||
+|-|ぼりとー|Police SuperVolito||
+|-|ヴォリゴレ|Police SuperVolito||
+|-|Conadaヘリ は勝手には修理されません|Buckingham SWAT Conada V2|&openclose2(show=※){フルカスタム済なので盗難防止対策で路駐厳禁}|
+|-|Conada いつも誰かが直してくれるだろう・・・。|Buckingham SWAT Conada V2|&openclose2(show=※){フルカスタム済なので盗難防止対策で路駐厳禁}|
+|-|Conada きっと誰かが直してくれるだろう・・・。|Buckingham SWAT Conada V2|&openclose2(show=※){フルカスタム済なので盗難防止対策で路駐厳禁}|
+|-|Conada そんなことを考えているからいつもヘリがボロボロなのです|Buckingham SWAT Conada V2|&openclose2(show=※){フルカスタム済なので盗難防止対策で路駐厳禁}|
+|-|Conada ちゃんと使ったヘリは自分で直すようにしましょう|Buckingham SWAT Conada V2|&openclose2(show=※){フルカスタム済なので盗難防止対策で路駐厳禁}|
+|-|Conada一人一人の意識を変えることが大事です|Buckingham SWAT Conada V2|&openclose2(show=※){フルカスタム済なので盗難防止対策で路駐厳禁}|
+|-|Conada 乗ったら直して大事にヘリを扱いましょう|Buckingham SWAT Conada V2|&openclose2(show=※){フルカスタム済なので盗難防止対策で路駐厳禁}|
+|-|Conadaあとインパウンドもちゃんと気づいた人が取りにいくようにね|Buckingham SWAT Conada V2|&openclose2(show=※){フルカスタム済なので盗難防止対策で路駐厳禁}|
+|-|ConadaV2WRT by胡將|Buckingham SWAT Conada V2 WRT||
+|-|ConadaV2WRT byキモセン|Buckingham SWAT Conada V2 WRT||
+
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#areaedit(end)
+#endregion(ヘリガレージSWAT)
+
+-&font(#444,b,16px){船ガレージ（警察、SWAT）}
+#region(開く)
+#areaedit()
+#table_style(head=#696969:#f9fcff:center){No.=right}
+#table_filter(){車両名称=show,車種=show,備考=show}
+|~No.|~車両名称|~車種|~備考|h
+|1|Police police Predator|Police Predator|※台数無限|
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#areaedit(end)
+#endregion(船ガレージ)
+#endregion(Season1)
+
+***&font(19,u){&color(#4169E1){|}&space()Season2&space(4)}
+#region(開く,open)閉じる
+****&font(19,u){&color(#4169E1){|}&space()車種&space()}
+#co{
+ここに概要の記述
+----
+}
+車両は全て個人所有扱いとなっている。
+-&font(#444,b,16px){パトカー}&br()&co(){&br()の後ろから概要を記載}
+#region(一覧)
+#areaedit()
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//　　　　　パトカー（警察車両）
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛ 
+#size(90%){{{#table_style(head=#4169e1:#ffffff){名称=b,車種=right,価格=right,特徴=left,#=center}
+#table_filter(){名称=show,車種=hide,実装日=show,価格=show,特徴=show,備考=hide}
+|~名称|~車種|~実装日|~価格|~特徴|~備考|h
+|Police Cruiser|自動車||2,000,000|Stanierモデル||
+|Police Cruiser|自動車||2,000,000|Interceptorモデル||
+|Police Cruiser|自動車||2,000,000|Buffaloモデル||
+|Police Komoda|自動車|2026/07/01|2,000,000|||
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#,start=1}}}}
+#areaedit(end)
+//|名称|車種|yyyy/mm/dd|価格|特徴||
+//パトカーが個人所有になり、1人1台の扱いのため、警察・SWATの導入台数は不要かと思います
+//01/10時点はPolice Cruiser１～３の中から、（2026/01/11 akina3)
+----
+#endregion(パトカー)
+//
+-&font(#444,b,16px){バイク} &co(){&br()ここに概要を記述}
+#region(一覧)
+#areaedit()
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//　　　　　バイク
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛ 
+#size(90%){{{#table_style(head=#4169e1:#ffffff){名称=b,車種=right,特徴=right,#=center}
+#table_filter(){名称=show,車種=hide,実装日=show,価格=show,特徴=show,備考=hide}
+|~名称|~車種|~実装日|~価格|~特徴|~備考|h
+|Police Bike|バイク|2026/06/17|2,000,000円|||
+//|名称|車種|yyyy/mm/dd|価格|特徴||
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#,start=1}}}}
+//
+//警察台数=center,SWAT台数=center,
+//警察=show,SWAT=show,
+//~警察|~SWAT|
+#areaedit(end)
+----
+#endregion(バイク一覧)
+//
+#co{
+-&font(#444,b,16px){自転車}
+#region(一覧)
+//#areaedit()
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//　　　　　自転車
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+-&ruby(ナマエ){name} &ruby(ナマエ){name}&br()ここに情報を記述
+//#areaedit(end)
+#endregion(自転車)
+}
+//
+#co{
+-&font(#444,b,16px){装甲車}&br()ここに概要を記述
+#region(一覧)
+//#areaedit()
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//　　　　　装甲車
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+-&ruby(ナマエ){name} &ruby(ナマエ){name}&br()ここに情報を記述
+//#areaedit(end)
+#endregion(装甲車)
+}
+//
+#co{
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//　　　　　その他車両
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+-&font(#444,b,16px){その他車両}&br()事件対応には使用されない車両。
+-&ruby(ナマエ){name} &ruby(ナマエ){name}&br()ここに情報を記述
+}
+//
+-&font(#444,b,16px){ヘリコプター}&br()&co(){←&br()の後ろから概要を記述}
+#region(一覧)
+#areaedit()
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//　　　　　ヘリコプター
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛ 
+#size(90%){{{#table_style(head=#4169e1:#ffffff){名称=b,車種=right,特徴=right,#=center}
+#table_filter(){名称=show,車種=hide,実装日=show,価格=show,特徴=show,備考=hide}
+|~名称|~車種|~実装日|~価格|~特徴|~備考|h
+
+//|名称|車種|yyyy/mm/dd|価格|特徴||
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#,start=1}}}}
+#areaedit(end)
+----
+#endregion(ヘリコプター)
+//
+-&font(#444,b,16px){船舶}
+#region(一覧)
+#areaedit()
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//　　　　　船舶
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#size(90%){{{#table_style(head=#4169e1:#ffffff){名称=b,車種=right,警察台数=center,SWAT台数=center,特徴=right,#=center}
+#table_filter(){名称=show,車種=hide,実装日=show,価格=show,特徴=show,備考=hide}
+|~名称|~車種|~実装日|~価格|~特徴|~備考|h
+|Police Predator 2|ボート|2026/05/27|2,000,000円|||
+//|名称|車種|yyyy/mm/dd|価格|特徴||
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#,start=1}}}}
+#areaedit(end)
+#endregion(船舶)
+//
+#co{
+-&font(#444,b,16px){個人購入可能警察車両}
+#region(一覧)
+//#areaedit()
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//　　　　　個人購入可能警察車両
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#size(90%){{{#table_style(head=#4169e1:#ffffff){名称=b,価格=right,座席数=center,発売日=right,#=center}
+#table_filter(){価格=show,座席数=hide,車種=hide,発売日=hide,備考=show}
+|~名称|~座席数|~車種|~価格|~発売日|~備考|h
+
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#,start=1}}}}
+//|Police ||自動車||'25/mm/dd||
+//|Police ||二輪車||'25/mm/dd||
+//備考には専用リバリー・カスタム・特徴等の情報を記載
+//#areaedit(end)
+#endregion(個人購入可能警察車両一覧)
+}
+#co{▼▼▼ ここから非表示 ▼▼▼
+----
+//****&font(19,u){&color(#4169E1){|}&space()社用ガレージ&space()}
+-&font(#444,b,16px){車両ガレージ（警察）}
+#region(開く)
+//#areaedit()
+#size(90%){{{#table_style(head=#4169e1:#FFFFFF:center){#=center}
+#table_filter(){車両名称=show,車種=show,備考=show}
+|~車両名称|~車種|~備考|h
+
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#,start=1}}}}
+//#areaedit(end)
+#endregion(車両ガレージ)
+//
+-&font(#444,b,16px){ヘリガレージ（警察）}
+#region(開く)
+//#areaedit()
+#size(90%){{{#table_style(head=#4169e1:#FFFFFF:center){#=center}
+#table_filter(){車両名称=show,車種=show,備考=show}
+|~車両名称|~車種|~備考|h
+
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#,start=1}}}}
+//#areaedit(end)
+#endregion(ヘリガレージ)
+//
+#co{
+-&font(#444,b,16px){船ガレージ}
+#region(開く)
+//#areaedit()
+#size(90%){{{#table_style(head=#4169e1:#FFFFFF:center){#=center}
+#table_filter(){車両名称=show,車種=show,備考=show}
+|~車両名称|~車種|~備考|h
+
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#,start=1}}}}
+//#areaedit(end)
+#endregion(船ガレージ)
+}
+▲▲▲ ここまで非表示 ▲▲▲}
+#endregion(Season2)
+
+//---< 歴史 >-------------------------------------------------

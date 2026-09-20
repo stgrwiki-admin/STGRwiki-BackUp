@@ -1,0 +1,87 @@
+//&image(ここに画像のURLを入力,y=300)
+
+絶賛、編集募集中。情報求。
+//編集のご協力をなにとぞお願いします（smith,2026/7/9）
+***&aname(OVER JOKE)OVER JOKE
+#table_style(head=#C0C0C0){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(おーばー){OVER} &ruby(じょーく){JOKE}|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年mm月dd日&br()&small(){（&countup(2026/mm/dd,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|7099番地|
+|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|音楽スタジオ|
+|~公式 TwiX|~&icon_fa(fa fa-bullhorn)|@××××|
+//|~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|union表示名&co(){※unionが存在しない組織の場合、この行ごと削除}|
+//|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[名前]]|
+//|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&font(b,#xxxxxx){色}|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**基本情報
+-&bold(){「ガチの生バンドを作りたい」}
+--バンド活動したいと7099番地を練習場に活動を開始した。
+
+
+**活動方針
+
+
+**メンバー
+#table_style(head=#0072BC:#F9FCFF)
+#table_filter(){加入日=hide,役職=show,備考=show}
+|~名前|~加入日|~役職|~備考|h
+|[[銭形　やいち郎]]|2026/5/7|Vo.）ボーカル||
+|[[タラ　ちゃん]]|2026/5/7|Ba.）ベースギター||
+|[[鮫島　フラム]]|2026/mm/dd|Dr.）ドラム||
+|[[Dr．ギガ]]|2026/mm/dd|Key）キーボード||
+|[[野間]]|2026/mm/dd|Lead Gt.）リードギター||
+|[[音姫　みつお]]|2026/5/27|音楽プロデューサー||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+***&aname(OVER JOKE)OVER JOKE 退職者
+#table_style(head=#0072BC:#F9FCFF)
+#table_filter(){脱退日=hide,役職=show,備考=show}
+|~名前|~脱退日|~役職|~備考|h
+|[[ノビー　ラング]]|2026/07/02|Gt.）ギター|[[救急隊>>ロスサントス救急救命隊]]や[[魔法学校カフェ（仮）]](予定)の忙しさで練習などが出来ないため&br()一度脱退し応援側に回りいずれ戻りたいと告げた。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+
+
+
+
+**沿革・歴史
+***2026年
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+|mm/dd|出来事|関係者|備考|
+|mm/dd|出来事|関係者|備考|
+|mm/dd|出来事|関係者|備考|
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+**活動実績
+***イベント
+
+***ギャラリー
+
+
+**関連動画
+***2026年
+#table_style(head=#0072BC:#F9FCFF)
+#table_filter(){視点=show,投稿日=hide,動画タイトル=show,備考=show}
+|~視点|~投稿日|~動画タイトル|~備考|h
+|銭形やいち郎|2026/05/13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラSeason2】伝説の幕開け!?なぁこの街でバンドやろうぜ!!>>https://youtu.be/tRa0iF0_3tA]]||
+|銭形やいち郎|2026/05/18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラSeason2】バンドやろうぜ!! OJP(仮)にノビー加入!!>>https://youtu.be/Ip2Mt4f8qhc]]||
+|タラちゃん|2026/05/22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[おじさん達に第2の青春！ストグラ新バンドメンバーになったタラちゃん【ふぁんきぃ・銭形・鮫島フラム・ノビー・ヒロヤマモト】>>https://youtu.be/xB3CGMtDcG4]]||
+|銭形やいち郎|2026/06/06|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラSeason2】OVERJOKE 本格始動>>https://youtu.be/KBkQ95r_ooE]]||
+|銭形やいち郎|2026/06/10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラSeason2】まさかのリードギター野間OVERJOKEに新メンバー！？>>https://youtu.be/O9ZHEh0guyM]]||
+|銭形やいち郎|2026/06/14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラSeason2】OVERJOKE新曲の方向性>>https://youtu.be/C2BQj19k4GQ]]||
+|視点|yyyy/mm/dd|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル]]|備考|
+//|視点|yyyy/mm/dd|タイトル|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+
+#right(){&link_up(🔝ページTOPへ)}

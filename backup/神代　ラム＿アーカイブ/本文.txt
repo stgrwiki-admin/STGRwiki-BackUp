@@ -1,0 +1,49 @@
+&underdot(#ff9933,2px){ストグラのYouTubeアーカイブの視聴はメンバー限定となっています。}
+//&font(#ff9933,12){&bold(){！}2025年2月20日以降のアーカイブはYouTubeに格納。それ以前は、Twichで視聴できるモノもあります。}
+&underdot(#ff9933,2px){Twitchアーカイブの視聴はサブスクライブ会員限定となっています。}
+&font(#ff9933,12){&bold(){！}Twitchアーカイブは一定期間を過ぎると視聴できなくなります。}
+//&font(#f8b500,12){&bold(){！}ダイジェスト化されている（★が付いている）アーカイブは視聴できますが、ストレージ容量の関係で視聴できないモノもあります。}
+
+#div(width=330px,bgcolor=#f8b500){&size(16){&color(#fff){&space()&space()&icon_fa(fa fa-folder-open)&space()&space()&bold(){2026年}}}}
+***&color(#f8b500){&bold(){&size(20){●} 2月のアーカイブ}}
+#region(▶開く,close)▼閉じる
+#table_style(,head=#f8b500:#fff:center){配信日=center,＃=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/05|01|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ Season2】新キャラ 神代ラム Day.1 → 千代田ヨウ Day.24>>https://www.twitch.tv/videos/2689593522]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２新キャラ 神代ラム視点 Day.1>>https://www.youtube.com/watch?v=XUU4hTA-SsY]]||
+|02/06|02|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ Season2】神代ラム Day.2 → 千代田ヨウ Day.25>>https://www.twitch.tv/videos/2690454992]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.2>>https://www.youtube.com/watch?v=DyUh74blbU8]]||
+|02/12|03|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ Season2】神代ラム Day.3 →千代田ヨウ Day.29>>https://www.twitch.tv/videos/2695746837?filter=archives&sort=time]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代視点 Day.3>>https://www.youtube.com/watch?v=k6CCqmSy6Sc]]||
+
+#table_zebra(#fdfaf2, #fff, #f8b500)
+#endregion(2月〆)
+//
+***&color(#f8b500){&bold(){&size(20){●} 9月のアーカイブ}}
+#region(▶開く,open)▼閉じる
+#table_style(,head=#f8b500:#fff:center){配信日=center,＃=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/05|04|[[&font(#6441A4){&icon_fa(fa fa-twitch)}【#ストグラ Season2】神代ラム Day.4 超久々起床ですべて忘れた>>https://www.twitch.tv/videos/2865884922]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+|mm/dd|05|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+|mm/dd|06|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+//|mm/dd|00|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+//|mm/dd|00|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+//|mm/dd|00|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+//|mm/dd|00|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+
+#table_zebra(#fdfaf2, #fff, #f8b500)
+#endregion(9月〆)
+//
+#co(){▼▼▼　非表示中　▼▼▼
+***&color(#f8b500){&bold(){&size(20){●} ？月のアーカイブ}}
+#region(▶開く,open)▼閉じる
+#table_style(,head=#f8b500:#fff:center){配信日=center,＃=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|mm/dd|00|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+|mm/dd|00|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+|mm/dd|00|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+//|mm/dd|00|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+//|mm/dd|00|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+//|mm/dd|00|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+//|mm/dd|00|[[&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル>>ＵＲＬ]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【メンバー限定】ストグラ２ 神代ラム視点 Day.？>>ＵＲＬ]]||
+
+#table_zebra(#fdfaf2, #fff, #f8b500)
+#endregion(？月〆)
+▲▲▲　ここまで　▲▲▲}

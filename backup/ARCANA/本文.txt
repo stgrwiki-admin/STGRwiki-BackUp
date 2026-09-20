@@ -1,0 +1,1351 @@
+#co(){^^^^^^^^^^^^^^^^
+【運用方針メモ】
+・botリンク回避したいもの → 言い回し変更 or インライン化（＆font(){}で統一）処置。
+・読み込み処理について →　内容が多くなってるので、文章より後に表示されても良さそうな画像は子ページへ移行し引用。
+
+
+【報告案件メモ】
+報告済(対応待ち中)
+
+未報告(誤編集の可能性にて静観中)
+・2025/03/15 (土) 09:44:37(プラグインコード内に関係のない文章を追加)
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+//---<header>------------------------------------------------------------------//
+&font(b,#3D3DFF){>>>> Attention >>>>}
+&font(b,11px){当ページはRPにて&font(#F54738){秘匿されている情報}が含まれています。&br()話題に出す際は&font(#F54738){情報漏洩（ネタバレや鳩コメント）}にならぬようご配慮ください。}
+#size(50%){　}
+&image(Meeting_6.png)
+#size(50%){　}
+#table_style(head=#003:#EAF4FC)
+|~組織名|~&icon_fa(fa fa-tag)&co(){アイコンは一旦wiki全体と同じ形態にしています。}|&ruby(アルカナ){ARCANA}|
+|~設立日|~&icon_fa(fa fa-flag)|2023年11月01日&br()&small(){（&countup(2023/11/01,yd)経過）}|
+|~本拠地|~&icon_fa(fa fa-map-marker)|6069番地&co(){union管理場所を本拠地としています。}|
+|~本拠地種別|~&icon_fa(fa-solid fa-house)|超高級住宅|
+|~ボス|~&font(#3D3DFF){&icon_fa(fa fa-user-secret)}|[[無馬 かな>無馬　かな]]|
+|~モチーフ|~&nbsp()&icon_fa(fas fa-crown)&nbsp()|タロットカード|
+#size(50%){　}
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+//---<基本情報>----------------------------------------------------------------//
+*&font(#E0E0E0){基本情報}
+&font(17px,b,#808080){}
+***&underdot(#3300CC,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)概要　}
+トップである[[無馬 かな>無馬　かな]]に忠誠を誓うメンバーのみで構成された秘匿組織。
+-[[ALLIN]]構成員であった無馬が、自身を支援する名もない集団として個人的に雇い始めたのが始まり。
+-その後、[[ALLINボス>Mon　D]]からの&openclose2(show=提案){（所属ギャングと方向性を違えてしまっていた無馬が、ストレスなく在籍し続けるための「環境整備目的」として組織化すること）}により、認可を受け正式な傘下組織として樹立。
+-無馬のギャング離脱に伴い独立。「[[ARCANA計画>ARCANA#ARCANA計画]]」を始動。
+--計画で産まれた多様な裏ビジネスを街に根付かせ、組織化。
+--全ての裏事業サービスを傘下へ納め、「[[ARCANA CITY>ARCANA#ARCANA CITY]]」を構想。
+--暫くして[[計画>ARCANA#ARCANA計画]]の目標達成。ARCANAでの事業を終え後片付けへ。
+-無馬が街を去ることが決まったため組織活動を終了。以前の様な各個支援のみ継続。
+-2025/05/25、無馬が街を去ったことによりARCANAは実質解体。
+--メンバー希望により組織名(union)は残存。
+--&ruby(Season2){街転送後}もメンバー間での親交は続き、未だ暗躍しているのか疑念を持たれがち。
+//
+***&underdot(#3300CC,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)由来　}
+&font(b,u){タロットの「アルカナ」より} &font(11px,u){[[🎬clip>>https://clips.twitch.tv/CautiousFaithfulClipsmomTriHard-n5DIuHz6XA-R1bSg]]}
+#size(30%){　}
+#openclose(show=＞アルカナの語源){
+&image(listmarker.png,inline)ラテン語で「引き出しの奥に隠されたもの」を指し、転じて「秘密」や「神秘」を意味。
+&image(listmarker.png,inline)また、一般に隠されている知識や情報が"特定の限られた人々にのみ開示されている状況"を表す言葉として利用されることが多く、文字通り秘密組織に相応しい単語である。
+}
+#openclose(show=＞小ネタ){&image(listmarker.png,inline)無(⇔有アル)馬 かな(カナ)にもかかっている。
+}
+//
+***&underdot(#3300CC,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)服装　}
+ARCANAでの活動時のみ黒の革ジャン&small(){&openclose2(show=番号){&nbsp(br,2)男：トップス381&nbsp(br,2)女：トップス399&br()}}を着用。
+無馬からの指示もしくは任意で体の見えにくい箇所にタトゥーを施術。
+#size(40%){　}
+&font(b,u){タトゥーについて}
+&image(listmarker.png,inline)長い時間を経てデザインされた専用タトゥー。
+&image(listmarker.png,inline)鍵穴が描かれたカードに蛇が巻き付いている意匠。
+&openclose2(show=＞デザイン画){&br()&blankimg(Arcana_spray.png,x=170,y=170)&nbsp(2)&blankimg(Arcana_tattoo.png,x=170,y=170)}
+//
+#right(){&link_up(🔝ページTOPへ)}
+//--------------------------------
+*&font(#E0E0E0){活動情報}
+***&underdot(#3300CC,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)基本方針　}
+TOPである無馬をサポートする活動
+&image(listmarker.png,inline)内容は、各時代ごとに変化し多岐にわたる。
+&image(listmarker.png,inline)組織形態を解体した現在も、全貌を知る者は無馬以外居ない。
+//--------------------------------
+----
+***&underdot(#3300CC,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)組織活動終了後について　}
+無馬が街を去るまでは、ARCANA計画開始前の&font(b,u){無馬をサポートする活動}へ帰着。
+意思を継ぎ街に残る者、最後まで共にする者、各々が各々の務めを果たした。
+//--------------------------------
+
+***&underdot(#3300CC,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)ARCANA計画発令時代}
+メンバー全員がWin-Winとなる活動をポリシーに、
+トップである無馬に小さな幸せを少しずつ集約していく仕組み作りを目指していた。
+#size(40%){　}
+&font(b,u){無馬の"やりたいこと"を叶えるための活動}
+&image(listmarker.png,inline)活動内容は、白市民にしか出来ない仕事から大型犯罪まで多岐。
+&image(listmarker.png,inline)幹部へは将来の展望共有が行われるが、全貌を知る者は無馬以外居ない。
+#size(40%){　}
+&font(b,u){組織についての情報は不用意に明かさない}
+&image(listmarker.png,inline)リスク回避のため、幹部を除くメンバー間での情報共有は必要最低限に。
+&image(listmarker.png,inline)裏ビジネスを展開する今、組織名は明かされつつあった。
+#openclose(show=＞連絡役としての鬼野){
+[[鬼野>鬼野　ねね]]に限り、秘書であることを周知。
+&image(listmarker.png,inline)無馬不在時の窓口でもあり、
+&image(listmarker.png,inline)注目させることで、隠したいメンバーを隠す役割でもある。
+#size(30%){　}
+&font(b,u){仕事内容}
+&image(listmarker.png,inline)ARCANAの管理及び連絡を行う総合秘書。
+&image(listmarker.png,inline)メンバーは鬼野からの指示を受けるまでは自由。
+#openclose(show=＞役割と主な仕事){
+&image(listmarker.png,inline)物資調達
+&image(listmarker.png,inline)無馬不在時の窓口
+&image(listmarker.png,inline)メンバーの管理及び連絡
+&image(listmarker.png,inline)金庫・倉庫・帳簿の管理
+&image(listmarker.png,inline)&s(){資金源としてのクスリ精製}
+&image(listmarker.png,inline)コンビニ商品の仕入れ手伝い
+&image(listmarker.png,inline)ガソリンスタンドの仕入れ
+&image(listmarker.png,inline)その他雑務全般
+}}
+#size(50%){　}
+//---ARCANA計画--------------
+&anchor(ARCANA計画,option=nolink){}
+>&font(b,u){&icon_fa(fa fa-brands fa-python)&nbsp(2)ARCANA計画とは}
+>街への還元を含む&b(){黒情勢の活性化}を行い、適者生存の黒情勢を作り出す計画。
+#size(50%){　}
+#region(ARCANA計画詳細)&font(gray,10px){ARCANA計画詳細}
+#size(30%){　}
+&font(17px,I,b,#808080){「親愛なるギャングの皆様へ。嬉しいビジネスのお話をお届けいたします。」}
+***&underdot(#3300CC,3px){&icon_fa(fa fa-brands fa-python)&nbsp(2)概要　}
+&font(b,u){計画の目的}
+&image(listmarker.png,inline)自組織が黒組織として街に存在し続けるための計画。
+#openclose(show=＞動機){&nbsp(2)ALLINの後ろ盾を失った後、ギャングNo.2であった無馬の権威が通用しなくなるのは時間の問題であると認識。虚勢がはったりとして効力を持つうちに、自らの立場を確立・主張できる情勢作りを行う必要があった。}
+#size(30%){　}
+&font(b,u){実行手段}
+&image(listmarker.png,inline)様々な裏ビジネスを設立・統括することで黒向けインフラの拡充を行い、黒情勢をコントロール。
+&image(listmarker.png,inline)各事業が最終的に独立・成長することで継続的な相乗効果が生まれ、結果、&u(){黒市場活性}という目的が達成される考え。
+#openclose(show=＞ARCANAで裏事業を行うメリット){
+&image(listmarker.png,inline)ARCANA庇護下にて運用することで、他では得られない恩恵を得られる仕組み。
+&image(listmarker.png,inline)特に、発案～起業・立ち上げ初期など、&u(){信用や安定を得るのが難しい時期}に多大な効果を発揮する。
+&image(listmarker.png,inline)また、ARCANA組織に所属する無馬が選び抜いた各分野のスペシャリストは、無馬を慕い協力するという同じ動機で動いているため、連携や協力が得られやすい。
+#size(50%){　}
+&font(b,u){恩恵とは}
+&nbsp(3)元ギャングNo.2兼カジノオーナーである「無馬かな」が培ってきた信用を「ARCANA」という組織自体の信用へ変換。ある程度の信頼を得られた状態かつ、無馬が責任を受け持つことが可能であるという恩恵。
+}
+#size(50%){　}
+&font(b,u){計画のスタンス}
+&image(listmarker.png,inline)最終的には、裏ビジネスの全てが警察に把握され違法化している必要があると考えている。
+#openclose(show=＞理由){
+&image(listmarker.png,inline)他組織が簡単に手を出せないようにする狙いと、希少価値を高める狙い。
+&image(listmarker.png,inline)ギャングと警察のパワーバランスを同じにするため。
+&nbsp()→ 均衡が保たれていて初めてビジネスが成り立つと考えている。
+&nbsp()→「ギャングが警察を脅威に思わなければ盗難車は使わないし麻薬を裏でこそこそ取引したりしない。逆に警察が強すぎても同じことが言える。」
+}
+#size(50%){　}
+&font(b,u){計画実現に向けて}
+&image(listmarker.png,inline)警察サイドには白市民の立場からの対話を。
+&image(listmarker.png,inline)ギャングサイドには、その性質&openclose2(show=※){（立場が弱ければ話を聞き入れなくても問題ない）}を踏まえた友好姿勢を取ることで実現を目指す。
+#openclose(show=＞対ギャングポリシー){
+&image(listmarker.png,inline)武力解決に至らないよう最大限の敬意を払う。
+&image(listmarker.png,inline)全ギャングに対し、贔屓をせず平等に。
+&image(listmarker.png,inline)邪魔はしないが、不義理には相応の対応を。
+&image(listmarker.png,inline)ギャング側の不足により生じる不平等性&openclose2(show=※){（市民交流を怠ったり、お知らせを受け取らないことで生じる情報の偏りなど）}については担保しない。
+}
+#size(30%){　}
+//
+***&underdot(#3300CC,3px){&icon_fa(fa fa-brands fa-python)&nbsp(2)展望　}
+&font(b,u){メインストリームの掌握}
+&image(listmarker.png,inline)主導権を得ることでARCANA活動のギャング依存性を無くし、たとえ全ギャングから相手にされずとも問題ない立場の確立。
+&image(listmarker.png,inline)また、関係を持とうとしないギャングの自然淘汰。
+#size(40%){　}
+&font(b,u){黒情勢の活性化}
+&image(listmarker.png,inline)より強者が強く弱者が弱くなる情勢の確立。
+&image(listmarker.png,inline)争いを継続化して長く利潤を得る目的ではない。
+&image(listmarker.png,inline)あくまで黒市民が街を楽しめるような情勢作り。
+&image(listmarker.png,inline)最後の一つになるまで継続。「生き残るギャングがどこか知りたい」
+//
+#endregion(詳細)
+#size(30%){　}
+'24/10/18
+発足理由でもあった「無馬の街で生きる目的」が達成され計画は終息。
+無馬によって後片付けが行われた。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)計画で産み出されたものは、引き渡しもしくは引き継ぎ。
+&image(listmarker.png,inline)引継ぎ先が無い場合は、自動化なども視野に入れつつ回収＆解体。
+&image(listmarker.png,inline)予定していたが実行されなかった計画は凍結へ。
+&image(listmarker.png,inline)協力メンバーの進路相談。など
+}
+#size(50%){　}
+//---ARCANA CITY--------------
+&anchor(ARCANA CITY,option=nolink){}
+>&font(b,u){&icon_fa(fa fa-brands fa-python)&nbsp(2)ARCANA CITYとは}
+>ARCANA計画が根付いた後の世界で展開される予定だった幻の施設。
+#openclose(show=＞ARCANA CITY概要){
+街の裏ビジネスを集約し、サービスを一括で受けられる統合型施設。
+&image(listmarker.png,inline)各サービスを集約させることによって、黒市民が気軽に足を運べる&font(u,b){集会場所}として機能させる狙い。
+&image(listmarker.png,inline)ARCANAアジトに仮置きしていた設備や、その他拠点に併設していた設備などを順次移設予定。
+#size(50%){　}
+&font(15px,b){'25/01/26、街の情勢に伴い計画は凍結。}
+&image(listmarker.png,inline)小規模な形で実行できないか再考案中だったが、無馬が街を出ることが確定したため計画は断念。
+}
+//
+#openclose(show=＞予定していた施設情報){
+#region(本拠地)
+#size(90%){{{#table_style(head=#003:#EAF4FC){}
+#table_filter(){場所=show,種別=show,備考=show}
+|~場所|~種別|~備考|h
+|9289&br()付近|大型&br()ガレージ倉庫|オシャレなBARから鍵完備の牢屋まで何でも揃っている広めの拠点。&br()元[[IRiS]]新アジト予定地であったため、存在について既に知れ渡っている。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}}}
+#size(30%){　}
+&image(listmarker.png,inline)計画凍結後は、[[小峯>小峯　玲]]へ褒賞として譲渡。
+#endregion
+#size(50%){　}
+//
+#region(サービス一覧)&b(){サービス一覧}
+#size(90%){{{#table_style(head=#003:#EAF4FC){}
+#table_filter(){名称=show,業種=show,備考=show}
+|~名称|~業種|~備考|h
+|[[ARCANA]]||融資や人材斡旋(傭兵)、裏ビジネスへのサポートを受けられる。|
+|[[FEMME FATALE]]|武器販売|違法武器の制作・調整・販売など|
+|[[Glare Gem]]|車両整備|闇メカニック。施設内にある車両整備場を利用|
+||飲食販売|[[魔女の酒場]]のような黒市民が集まれる飲食店|
+||興行|小峯が作っている遊び場や、麻林が受け持っている闇イベント事業など|
+||||
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}}}
+#endregion
+}
+//--------------------------------
+
+***&underdot(#3300CC,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)ALLIN傘下時代　}
+#openclose(show=＞詳細){
+&font(b,u){活動方針}
+&image(listmarker.png,inline)無馬のギャング活動のサポート及び、無馬が志しているギャング像の実現ための協力。
+&image(listmarker.png,inline)ARCANAメンバーはALLINへ忠誠心は不要だが、無馬の為になるよう動くため間接的にALLINの利益となる。
+&image(listmarker.png,inline)組織の存在およびメンバーについて完全秘匿を遵守。
+#size(40%){　}
+&font(b,u){棲み分け条項}
+&image(listmarker.png,inline)完全私兵部隊であるため、基本的にALLINとは関係性を持たない。
+&image(listmarker.png,inline)不要な接触は行わず、ALLINに関する情報(アジトの鍵や無線等)も必要以上に共有しない。
+&image(listmarker.png,inline)ALLINメンバーに鬼野以外のARCANAメンバーを公表しない。
+&image(listmarker.png,inline)鬼野については、役割&openclose2(show=※){（無馬不在時の連絡係兼、クスリ練り役）}上、ALLINの後ろ盾を付与。ALLIN未加入としたまま、ALLINの一員として対外的に振る舞う。
+&image(listmarker.png,inline)後ろ盾を得る代わりに、人数不足時の大型犯罪協力や、物資関連の協力を無馬の管理下の元行う。
+}
+//
+//---<活動情報>----------------------------------------------------------------//
+**終了済内容一覧
+&anchor(薬BM買取)
+#region(薬及びBMの買取　'24/05/26 終了)&b(){薬及びBMの買取　'24/05/26 終了}
+#openclose(show=＞薬買取 詳細){
+ギャングが精製している麻薬の買取。
+&image(listmarker.png,inline)1ランポ単位と端数で価格が変動。(1ランポ内訳は種類を問わない)
+&image(listmarker.png,inline)現在の価格単価は、青:18万円、赤:19万円、黄：20万円。端数単位はそれぞれ-1万円。
+&image(listmarker.png,inline)BM買取のブラフビジネスであったが、様々な用途があるため収集を続けていた。
+&nbsp(4)&image(listmarker.png,inline)間接的にMOZUへ貸しを作り、今後の展開に有利な手札を入手するなどの成果を上げた。
+&image(listmarker.png,inline)買い取った薬とBMは、国外の武器商である[[Famos Gray>Famos　Gray]]との取引で利用。
+}
+#openclose(show=＞BM買取 詳細){
+大型犯罪で入手できるブラックマネーの等価買取。
+&nowiki(){・}直接的な用途は未開示であったが、[[Famos Gray>Famos　Gray]]との取引で使用。
+&nowiki(){・}今回の取引額に応じ、割合で今後の取引に恩恵を上乗せする指標として活用。
+}
+&anchor(薬BM取引実績表)
+#openclose(show=＞取引実績表){
+#table_style(head=center:#000033:#EAF4FC){組織名=b,取引額=right:b,BM取引額=right:#f9f9f9,BM取引歴=11px:#eee,薬取引額=right:#f9f9f9,薬取引歴=11px:#eee,備考=11px}
+#table_filter(){組織名=show,取引額=show,BM取引額=show,BM取引歴=hide,薬取引額=show,薬取引歴=hide,備考=show}
+|~組織名|~取引額|~BM取引額|~BM取引歴|~薬取引額|~薬取引歴|~備考|h
+|[[MOZU]]|約69.4億|¥714,750,000|&font(12,gray){5/10_}[[ヴァンさん>ヴァン　ダーマー]]：200,000,000円(ねね)&br()&font(12,gray){5/12_}[[銭形>銭形　やいち郎]]：100,000,000円&br()&font(12,gray){5/12_}[[堕夜>堕夜　だよ]]：100,000,000円&br()&font(12,gray){5/17_}[[イチカ>碇　イチカ]]：214,750,000円(ねね)&br()&font(12,gray){5/28_}[[カイキ>山田　カイキ]]：100,000,000円&br()(未計上？：&font(12,gray){5/29_}[[陣平>坂柳　陣平]]：100,000,000円)|¥6,215,400,000|&font(12,gray){4/23_}[[ナタル>ナタル　イルコフ]]：赤2000&br()&font(12,gray){4/28_}[[陣平>坂柳　陣平]]：青3200&br()&font(12,gray){5/5_}[[ナタル>ナタル　イルコフ]]：青1600(ねね)&br()&font(12,gray){5/7_}[[銭形>銭形　やいち郎]]：赤1600(ねね)&br()&font(12,gray){5/11_}[[じょばぁーな>ぎちょう・じょばぁーな]]：青1600(ねね)&br()&font(12,gray){5/12_}[[銭形>銭形　やいち郎]]：青1600 赤3200&br()&font(12,gray){5/14_}[[陣平>坂柳　陣平]]：青1600(ねね)&br()&font(12,gray){5/17_}[[陣平>坂柳　陣平]]：青1600(ねね)&br()&font(12,gray){5/28_}[[カイキ>山田　カイキ]]：青1600赤4800&br()&font(12,gray){5/29_}[[ナタル>ナタル　イルコフ]]：青1600(ねね)&br()&font(12,gray){5/29_}[[堕夜>堕夜　だよ]]：青1600(ねね)&br()&font(12,gray){5/29_}[[陣平>坂柳　陣平]]：青4800(ねね)&br()&font(12,gray){5/30_}[[じょば>ぎちょう・じょばぁーな]]：青1300赤280|優先情報開示前より取引有|
+|[[868]]|約40.6億|¥2,523,374,514|&font(12,gray){5/7_}[[レダー>レダー　ヨージロー]]：213,225,068円&br()&font(12,gray){5/8_}[[レダー>レダー　ヨージロー]]：87,633,213円&br()&font(12,gray){5/9_}[[レダー>レダー　ヨージロー]]：140,432,541円&br()&font(12,gray){5/9_}[[レダー>レダー　ヨージロー]]：33,487,013円&br()&font(12,gray){5/11_}[[レダー>レダー　ヨージロー]]：242,469,623円(ねね)&br()&font(12,gray){5/16_}[[レダー>レダー　ヨージロー]]：570,294,037円(ねね)&br()&font(12,gray){5/21_}[[ケイン>ケイン／オー]]：206,012,613円(ねね)&br()&font(12,gray){5/21_}[[レダー>レダー　ヨージロー]]：137,725,137円(ねね)&br()&font(12,gray){5/22_}[[刃弐>刃弐　ランド]]：93,416,317円(ねね)&br()&font(12,gray){5/23_}[[刃弐>刃弐　ランド]]：118,078,120円(ねね)&br()&font(12,gray){5/24_}[[刃弐>刃弐　ランド]]：129,609,298円(ねね)&br()&font(12,gray){5/24_}[[レダー>レダー　ヨージロー]]：124,622,087円(ねね)&br()&font(12,gray){5/25_}[[レダー>レダー　ヨージロー]]：276,342,089円(ねね)&br()&font(12,gray){5/26_}[[ケイン>ケイン／オー]]：150,027,358円|¥1,533,000,000|&font(12,gray){5/24_}[[刃弐>刃弐　ランド]]：青1858 赤273(ねね)&br()&font(12,gray){5/24_}[[レダー>レダー　ヨージロー]]：青1600(ねね)&br()&font(12,gray){5/24_}[[牢王蓮>牢王　蓮]]：青1600&br()&font(12,gray){5/25_}[[ケイン>ケイン／オー]]：青1600(ねね)&br()&font(12,gray){5/28_}[[芹沢>芹　沢]]：青1600(ねね)|優先情報開示前より取引有|
+|[[IRiS]]|約30.1億|¥1,884,494,387|&font(12,gray){5/3_}[[小峯>小峯　玲]]：732,203,840円(ねね)&br()&font(12,gray){5/8_}[[小峯>小峯　玲]]：150,000,000円&br()&font(12,gray){5/12_}[[小峯>小峯　玲]]：269,301,473円&br()&font(12,gray){5/15_}[[小峯>小峯　玲]]：432,989,074円&br()&font(12,gray){5/24_}[[小峯>小峯　玲]]：300,000,000円|¥1,122,680,000|&font(12,gray){4/23_}[[シュガピ>シュガー　ピーチ]]：青541&br()&font(12,gray){4/24_}[[オザワ>オザワ　ハヤマサ]]：青863(ねね)&br()&font(12,gray){5/7_}[[オザワ>オザワ　ハヤマサ]]：青1600(ねね)&br()&font(12,gray){5/7_}[[ジョーカー>半沢　直ふぃ]]：青2200黄1000(ねね)|優先情報開示前より取引有|
+|[[麻陀羅組]]|約28.8億|¥0|-|¥2,880,000,000|&font(12,gray){5/17_}[[タラちゃん>タラ　ちゃん]]：青8000(ねね)&br()&font(12,gray){5/29_}[[スギル>バンザイ　スギル]]([[タラ>タラ　ちゃん]])：青6400(ねね)&br()&font(12,gray){5/29_}[[スギル>バンザイ　スギル]]([[タラ>タラ　ちゃん]])：青1600(予定)|&s(){傀儡のため}薬は全てArcanaへ|
+|[[ALLIN]]|約24.5億|¥1,583,000,000|&font(12,gray){5/2_}[[四五六確>三否亭　四五六確]]：100,000,000円&br()&font(12,gray){5/8_}[[四五六確>三否亭　四五六確]]：200,000,000円&br()&font(12,gray){5/9_}[[千代田>千代田　ヨウ]]：330,000,000&br()&font(12,gray){5/9_}[[エス>エスターク・Z・ダークネス]]：183,000,000円&br()&font(12,gray){5/9_}[[白井>白井　満太]]：700,000,000円&br()&font(12,gray){5/14_}[[四五六確>三否亭　四五六確]]：70,000,000円|¥864,000,000|&font(12,gray){5/3_}[[トナカイ>タシロ　カワセ]]：青4800(ねね)|優先情報開示前より取引多|
+|[[GBC>GoodbyeCircus]]|約4.0億|¥111,740,059|&font(12,gray){5/10_}[[ネケ>ネケ　ニマス]]：15,000,000円&br()&font(12,gray){5/10_}[[こはる>君島　こはる]]：40,000,000円&br()&font(12,gray){5/22_}[[サトシ>真新　サトシ]]：56,740,059円|¥288,000,000|&font(12,gray){5/22_}[[ネケ>ネケ　ニマス]]：青1600(ねね)||
+|[[concellge>concellge(コンセルジュ)]]|約3.7億|¥364,268,466|&font(12,gray){5/12_}[[ネマ>黒亜　ネマ]]：38,680,000円&br()&font(12,gray){5/22_}[[ハクナツメ>ハク　ナツメ]]：234,599,244円&br()&font(12,gray){5/23_}[[まいにい>まい　にい]]：81,989,222円&br()&font(12,gray){5/24_}[[メアリー>チョコラータ　メアリー]]：9,000,000円|-|-||
+|[[NO LIMIT]]|約2.6億|¥253,998,067|&font(12,gray){5/21_}[[セイジ>文殊　セイジ]]：120,000,000円(ねね)&br()&font(12,gray){5/25_}[[チンピラ>Lv〇　チンピラ]]：133,998,067円|-|-||
+|[[餡ブレラ>anbrella(餡ブレラ)]]|約0.3億|¥0|-|¥21,600,000|&font(12,gray){4/25_}[[ニャンコ>ニャンコ・スキー]]：赤120|優先情報開示前に個人取引有|
+#table_sorter{}
+&font(11,gray){取引額：7桁にて切り上げ&br()正規価格(1ランポ以下端数は単価-1万円)にて集計。色付け費は除外&br()5/30不在着信対応分反映済}
+}
+#endregion(薬BM)
+#size(50%){　}
+//---------------------------
+&anchor(クラフト制作品下取り)
+#region(クラフト制作品下取り　'24/06/02 終了)&b(){クラフト制作品下取り　'24/06/02 終了}
+半グレ等から熟練度上げで制作されたクラフト品の買取。
+#size(30%){　}
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)使用用途がないものであっても買い取っている。
+&image(listmarker.png,inline)「（使い道が）なければ作ればいい」
+}
+#size(30%){　}
+既存武器買取事業の方へ併合。
+#endregion(タイトル)
+#size(50%){　}
+//---------------------------
+&anchor(シマ情勢の情報買取契約)
+#region(シマ情勢の情報収集契約　'24/10/18 終了)&b(){シマ情勢の情報収集契約　'24/10/18 終了}
+&font(){ギャング}のシマ状況を継続的に共有してもらう契約。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)ARCANA計画を展開する上での市場調査が目的。
+&image(listmarker.png,inline)[[麻陀羅組]]、[[MOZU]]と提携していた。
+}
+#size(30%){　}
+'24/10/18、ARCANA計画の目標が達成されたため自然消滅。
+#endregion(シマ)
+#size(50%){　}
+//---------------------------
+&anchor(国外からの物資輸入)
+#region(国外からの物資輸入　'25/01/26 終了)&b(){国外からの物資輸入　'25/01/26 終了}
+国外の違法品ブローカーである&ruby(クソ野郎){[[Famos Gray>Famos　Gray]]}との取引。
+#size(30%){　}
+#openclose(show=＞取引履歴){
+#size(90%){#table_style(head=center:#000033:#EAF4FC){}
+#table_filter(){#=show,取引日=hide,品目=show,対価=show,備考=show}
+|~#|~取引日|~品目|~対価|~備考|h
+|第&br()一&br()回|'24/05/28|&image(listmarker.png,inline)NAVY REVOLVER&br()&image(listmarker.png,inline)REVOLVER&br()&image(listmarker.png,inline)SWITCHBLADE&br()&image(listmarker.png,inline)【レシピ】ネイビーリボルバー&br()&image(listmarker.png,inline)【レシピ】ヘビーリボルバー&br()&image(listmarker.png,inline)輸入武器の制作所情報&br()&image(listmarker.png,inline)エースハイ レシピ&font(10,#aaa){　追加注文}&br()&image(listmarker.png,inline)バタフライ レシピ&font(10,#aaa){　追加注文}&br()&image(listmarker.png,inline)カラミティ レシピ&font(10,#aaa){　追加注文}|-麻薬&font(10,#aaa){(青)}10t&br()」&br()」&br()」&br()」&br()-BM50億&br()-麻薬&font(10,#aaa){(青)}1t&br()」&br()」|&b(){ARCANA初回の取引}。&br()[[無馬>無馬　かな]]と[[鬼野>鬼野　ねね]]が取引現場へ。&br()&br()対価の薬物10tを受け渡す際、&br()1t積載トラックしか用意されな&br()かったため、10往復する羽目に。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}}
+#size(30%){　}
+ARCANA計画終息のため直接的な取引は終了。
+傘下組織からの要望は各組織ごとに解消できるよう、ブローカーとのパイプを整備。
+#endregion(国外からの物資輸入)
+#size(50%){　}
+//---------------------------
+&anchor(既存武器買取)
+#region(既存武器買取　'25/01/28 終了)&b(){存武器買取　'25/01/28 終了}
+[[ARCANA計画>ARCANA#ARCANA計画]]で発足された事業で利用する、既存武器を収集するための買取事業。
+#size(30%){　}
+#openclose(show=＞利用目的詳細){
+&nbsp(2)&image(listmarker.png,inline)[[ACADEMY]]へ支給。
+&nbsp(2)&image(listmarker.png,inline)[[FEMME FATALE]]での素材製造流用。
+&nbsp(2)&image(listmarker.png,inline)ブラックマーケット販売用。
+}
+#openclose(show=＞買取価格){
+&nbsp(2)素材の時価を基に制定。変動あり
+#size(50%){　}
+#region(価格表画像,open)&b(){価格表画像}
+&blankimg(page=ARCANA/経理用,GUN_PriceList_2.png,x=320,Y=180)
+#size(50%){　}
+#openclose(show=＞過去の価格表画像){
+#table_style(head=#F0F0F0:85%:center){}
+|~'24/06/07~'24/07/03|~'24/06/02~'24/06/07|
+|&blankimg(page=ARCANA/経理用,GUN_PriceList_1.png,x=160,Y=90)|&blankimg(page=ARCANA/経理用,GUN_PriceList.png,x=160,Y=90)|
+#table_zebra(#F0F0F0,#F0F0F0)
+}
+#endregion(価格表)
+#size(50%){　}
+#region(武器価格一覧)&b(){武器価格一覧}
+#size(90%){#table_style(head=center:#000033:#EAF4FC){値段=right}
+#table_filter(){名称=show,種別=show,値段=show}
+|~名称|~種別|~値段|h
+|Adovanced Rifle|ASSAULT|¥600,000|
+|Assault Rifle|ASSAULT|¥200,000|
+|Assault Rifle MK2|ASSAULT|¥200,000|
+|Bullpup Rifle MK2|ASSAULT|¥400,000|
+|Carbine Rifle|ASSAULT|¥400,000|
+|Carbine Rifle MK2|ASSAULT|¥400,000|
+|Assault SMG|SMG|¥435,000|
+|SMG|SMG|¥290,000|
+|SMG MK2|SMG|¥290,000|
+|Mini SMG|SMG|¥290,000|
+|Micro SMG|SMG|¥290,000|
+|Sawn off Shotgun|SHOTGUN|¥190,000|
+|Pump Shotgun|SHOTGUN|¥190,000|
+|Pump Shotgun MK2|SHOTGUN|¥190,000|
+|Pistol|PISTOL|¥160,000|
+|Pistol MK2|PISTOL|¥160,000|
+|Heavy Pistol|PISTOL|¥240,000|
+|AP Pistol|PISTOL|¥400,000|
+|Navy Revolver|PISTOL|¥560,000|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion(武器)
+#size(50%){　}
+#region(アタッチメント価格一覧)&b(){アタッチメント価格一覧}
+#size(90%){#table_style(head=center:#000033:#EAF4FC){値段=right}
+#table_filter(){名称=show,種別=show,値段=show}
+|~名称|~種別|~値段|h
+|Grip|GRIP|¥250,000|
+|Heavy Barrel|BARREL|¥100,000|
+|Compensator|MUZZLE|¥50,000|
+|Macro Scope|SCOPE|¥100,000|
+|Small Scope|SCOPE|¥100,000|
+|Medium Scope|SCOPE|¥250,000|
+|Extendsd Pistol Clip|CLIP|¥50,000|
+|Extendsd Rifle Clip|CLIP|¥50,000|
+|Extendsd Shotgun Clip|CLIP|¥50,000|
+|Extendsd SMG Clip|CLIP|¥50,000|
+|Suppressor|SUPPRESSOR|¥450,000|
+|Tactical Suppressor|SUPPRESSOR|¥650,000|
+|Tactical Flashlight|LIGHT|¥100,000|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion(アタッチメント)
+}
+#size(30%){　}
+ARCANA計画の終息につき終了。
+'25/01/28 、[[FEMME FATALE]]事業の引継ぎが完了し利用先が無くなったことを受け完全終了へ。
+#endregion(既存武器)
+#size(50%){　}
+//---------------------------
+&anchor(警察武器買取)
+#region(警察武器買取　'25/01/28 終了)&b(){警察新武器買取　'25/01/28 終了}
+警察に導入された新武器の買取事業。
+#size(30%){　}
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)ギャング対象で、先着1名に1億円。
+&image(listmarker.png,inline)[[FEMME FATALE]]事業での開発研究のためのサンプルとして利用。
+}
+#size(30%){　}
+ARCANA計画の終息につき終了。
+'25/01/28 、[[FEMME FATALE]]事業の引継ぎが完了し利用先が無くなったことを受け完全終了へ。
+#endregion(警察武器)
+//---------------------------
+#size(50%){　}
+&anchor(素材買取)
+#region(素材買取　'25/01/28 終了)&b(){素材買取　'25/01/28 終了}
+リサセン等で取れる素材の買取事業。
+#size(30%){　}
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)[[ACADEMY]]、[[FEMME FATALE]]など、ARCANA事業で利用する物資製造へ利用。
+&image(listmarker.png,inline)ARCANAにて調査した時価表を基に価格を制定。
+}
+#size(30%){　}
+ARCANA計画の終息につき終了。
+'25/01/28 、[[FEMME FATALE]]事業の引継ぎが完了し利用先が無くなったことを受け完全終了へ。
+#endregion(素材買取)
+#size(50%){　}
+//---------------------------
+&anchor(傭兵業)
+#region(傭兵業　'25/03/07 終了)&b(){傭兵業　'25/03/07 終了}
+[[無馬>無馬　かな]]の取引現場護衛及び、[[FEMME FATALE]]製武器の性能テストのための傭兵事業。
+#size(30%){　}
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)[[ACADEMY]]が担っていた役割を人材と共に巻き取り、少数精鋭化。
+&image(listmarker.png,inline)協力ギャングの大型枠を譲り受ける or 個人的な傭兵依頼があった際に参加予定。
+&image(listmarker.png,inline)[[小峯>小峯　玲]]が窓口を担当。
+&image(listmarker.png,inline)ARCANAへ加入した旧ACADEMY教師陣が主戦力として参加。
+&image(listmarker.png,inline)目的の一つである武器性能テストを行えるよう、新武器を持ち出せる[[武器商>FEMME FATALE]]の人間を迎え入れている。
+#size(30%){　}
+#openclose(show=＞傭兵参加可一覧){
+#size(90%){#table_style(head=center:#000033:#EAF4FC){値段=right}
+#table_filter(){名前=show,役割=hide,紹介=show}
+|~名前|~役割|~紹介|h
+|[[無馬 かな>無馬　かな]]|ロケラン|新武器開発のため、自ら大型に参加し試せる環境へ。&br()個人医のため参加は日に一回。&br()ボスからの要請のみに参加。ロケラン標準装備|
+|[[鬼野 ねね>鬼野　ねね]]||個人医のため参加は日に一回。&br()参加要請があったときのみ参加予定。|
+|[[小峯 玲>小峯　玲]]|窓口|ARCANA所属デメリットである"暇"をものともしない代表。&br()ギャングは嫌だが大型には興味が有るため、winwinな関係性。|
+|[[柳瀬 つん>柳瀬　つん]]||無馬が飼っている恐竜。個人医のため参加は日に一回。&br()ギャングと関わりが薄い傭兵であればと快諾。|
+|[[生雲丹 よづな>生雲丹　よづな]]|ヘリ|無馬が雑使いするペット。&br()ヘリ要員が居ないのであればと恐る恐る協力。|
+|[[ぬくお>>https://w.atwiki.jp/streamergta5/pages/1339.html]]||ギミック処理など頭を使うことが得意。&br()|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}}}
+#size(30%){　}
+無馬が街を去ることが決定し、組織としての傭兵業は終了。個々人の事業へと還付。
+&co(){&icon_fa(fa-solid fa-person-rifle)}
+#endregion(傭兵業)
+#size(50%){　}
+//---------------------------
+&anchor(武器事業)
+#region(武器事業　'25/03/07 終了)&b(){武器事業　'25/03/07 終了}
+既存武器および新武器の製造・販売事業。
+#size(30%){　}
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)ARCANA出身会社である武器屋「[[FEMME FATALE]]」が製造と流通を受け持つ。
+&image(listmarker.png,inline)新武器開発は、国外から輸入した武器の解析を行った無馬によって行われている。
+#size(30%){　}
+#openclose(show=＞目的){
+&image(listmarker.png,inline)ギャング販売用の武器およびアタッチメント製造。
+&image(listmarker.png,inline)傭兵業にて使用する武器およびアタッチメント製造。
+&image(listmarker.png,inline)ブラックマーケット販売用の既存武器の製造。
+#size(30%){　}
+#openclose(show=＞ロケラン製造について){
+ロケットランチャーおよび弾の製造。
+&image(listmarker.png,inline)制作費減少を見込んだクラフトレベル上げ目的と、急な需要&openclose2(show=※){(報復や抗争などの急を要する際)}に素早く対応するため、可能な限り毎日行っている。
+&image(listmarker.png,inline)現在は、ロケラン排除計画のための供給にも対応中。
+}
+}}
+#size(30%){　}
+ARCANA計画の終息につき終了。
+&image(listmarker.png,inline)'25/01/28、[[FEMME FATALE]]へ事業を引き継ぎ。
+&image(listmarker.png,inline)引継後、協力及び後ろ盾としての事業として活動していたが、'25/03/07に無馬が街を去ることが決定し、活動を終える。
+#endregion(武器事業)
+&co(){&icon_fa(fa-solid fa-gun)}
+#size(50%){　}
+//---------------------------
+&anchor(麻薬事業)
+#region(麻薬事業　'25/03/07 終了)&b(){麻薬事業　'25/03/07 終了}
+麻薬・新薬の精製及び流通販売事業。
+#size(30%){　}
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)金策および、ARCANA事業で利用する薬の確保が目的。
+&image(listmarker.png,inline)麻薬カルテル「[[DEP]]」の傘下加入後はDEPが事業を受け持つ。
+#size(30%){　}
+#openclose(show=＞カルテル協力傘下化経緯){
+&nbsp(3)[[ヴァン ダーマー>ヴァン　ダーマー]]から話を持ち掛けられたことが発端。
+紹介された[[加藤 圧>加藤　圧]]から出資依頼と共に構想を聞き、無馬自身も大量の薬物を保有し事業計画を立てていたため、協力する流れへ。
+#openclose(show=＞協力内容){
+&image(listmarker.png,inline)薬物の転売人への売りさばくバイトの斡旋（主に半グレを対象）
+&image(listmarker.png,inline)麻薬カルテルのギャング側へ宣伝
+&image(listmarker.png,inline)警察対策に傭兵の協力
+&image(listmarker.png,inline)薬関係の情報を流せる
+}
+#openclose(show=＞出資見返り){
+&image(listmarker.png,inline)利益が十分出てから出資金である5億に色を付けて返却
+&image(listmarker.png,inline)無馬からの薬は無制限で優先して買い取る
+&image(listmarker.png,inline)どのギャングがどれだけ売却したかや売り上げ状況等の帳簿の開示
+}
+#size(30%){　}
+&nbsp(3)新薬を巡る警察との情報戦へ協力。情報をコントロールするために[[加藤>加藤　圧]]さんと連携。また、カモフラージュ目的の偽装薬拡散へも協力。実行犯として麻陀羅組構成員に下請けを依頼。
+#size(30%){　}
+&nbsp(3)ARCANA独立につき、同勢力である[[麻薬カルテル>DEP]]へARCANA庇護下にて運営しないか勧誘。当時の関係値からデメリットはないが、メリットにもならないと断られるも、友好関係は継続。
+#size(30%){　}
+&nbsp(3)組しないままカルテルが消滅した際、ARCANAにて新薬事業を新設できるよう[[別ルート>Famos　Gray]]からレシピを入手するなどの根回しを行う。
+#size(30%){　}
+&nbsp(3)厳しくなった麻取によってカルテルの運営が立ち行かなくなる危機が発生。カルテルより施設増設資金の50億の融資相談や、薬精製中の護衛依頼を受ける。
+#size(30%){　}
+&nbsp(3)捜査令状によってDEPメンバーの身柄が押さえられる。[[ARCANA]]にて所持していたレシピを明け渡す代わりに身柄をARCANAへ引き渡すよう司法取引を持ち掛け、成立。
+#size(30%){　}
+&nbsp(3)今までより積極的な協力（手始めに50億の融資）をする代わりに、加藤さんの[[ARCANA]]加入と、来るブラックマーケットビジネスの為のカルテル傘下化を条件とし、目的に賛同した加藤さんにより正式な協力関係へ。
+}
+#openclose(show=＞過去経緯){
+&image(listmarker.png,inline)ARCANAの主な活動資金を得るための事業として確立。
+&image(listmarker.png,inline)[[鬼野>鬼野　ねね]]がメインとなり精製売買を行っていた。
+&image(listmarker.png,inline)独立後、他ギャングの目がある精製は控え、以下の協力組織と提携を行うことで事業を継続。
+
+&font(b,u){1. 麻薬カルテル}
+出資をした「[[麻薬カルテル>DEP#麻薬カルテル]]」へ麻薬の卸しを行う。
+また、各ギャングへの宣伝やバイトの斡旋等の繋げる役目も担う。
+
+&font(b,u){2. 麻薬ギャング}
+[[タラちゃん>タラ　ちゃん]]率いる「[[麻陀羅組]]」との精製売買連携。
+最終的に、麻陀羅組を通して麻薬市場を開拓、流通に組織の手を入れることで利益を得ることも狙った連携。
+&image(listmarker.png,inline)「ギャングしか薬を精製出来ない」という問題に対する後ろ盾となっている。
+&image(listmarker.png,inline)当初は薬のレシピを知らない麻陀羅のために薬を卸していたが、現在は優先買取先として動く。
+}}
+#size(30%){　}
+ARCANA計画の終息につき終了。
+&image(listmarker.png,inline)'25/03/07、無馬が街を去ることが決定し全ての活動を終了。
+#endregion(麻薬事業)
+&co(){&icon_fa(fa fa-flask)}
+#size(50%){　}
+//---------------------------
+&anchor(就労斡旋業)
+#region(就労斡旋業　'25/03/07 終了)&b(){就労斡旋業　'25/03/07 終了}
+半グレや黒市民へ仕事を紹介する事業。
+#size(30%){　}
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)窓口である[[無馬>無馬　かな]]によって、就労希望ヒアリングが行われた後希望に合うものを斡旋。
+#size(30%){　}
+&font(b,u){斡旋していた職}
+&image(listmarker.png,inline)傭兵：[[ACADEMY]]へバイト登録or入校。
+&image(listmarker.png,inline)武器：[[FEMME FATALE]]製武器のクラフト素材制作。
+&image(listmarker.png,inline)車両：[[Glare Gem]]への就業斡旋。条件は車に興味があり、罰金1億の覚悟がある者。
+&image(listmarker.png,inline)薬物：[[DEP]]への人材斡旋。
+}
+#size(30%){　}
+ARCANA計画の終息につき終了。
+&image(listmarker.png,inline)'25/03/07、無馬が街を去ることが決定し全ての活動を終了。
+#endregion(就労斡旋業)
+&co(){&icon_fa(fa-solid fa-play)}
+#size(50%){　}
+//---------------------------
+&anchor(盗難車売買)
+#region(盗難車売買　'25/03/07 終了)&b(){盗難車売買　'25/03/07 終了}
+入手困難な高級盗難車・限定盗難車の売買事業。
+#size(30%){　}
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)主にゼントーノメインで収集。ブースティング限定車のゴミ箱カーやタクシー車両なども対象。
+&image(listmarker.png,inline)下部組織である自動車問屋「[[Le NiL(仮)>ARCANA#Le NiL]]」が事業を受け持つ予定であったが、車両周りの街改革などと被り事業計画の見通しが出来ない状態が続いていた。
+}
+#size(30%){　}
+ARCANA計画の終息につき終了。
+&image(listmarker.png,inline)'25/03/07、無馬が街を去ることが決定し全ての活動を終了。
+#endregion(盗難車売買)
+#size(50%){　}
+//---------------------------
+&anchor(違法商品売買)
+#region(違法商品売買　'25/03/07 終了)&b(){違法商品売買　'25/03/07 終了}
+武器を含む、違法商品の販売。
+#size(30%){　}
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)エナドリなど、傘下会社の取り扱い商品以外の販売。
+&image(listmarker.png,inline)将来的に、下部組織にて専門販売会社「[[ブラックマーケット(仮)>ARCANA#ブラックマーケット]]」を設立し事業を一任する予定があった。
+}
+#size(30%){　}
+ARCANA計画の終息につき終了。
+&image(listmarker.png,inline)'25/03/07、無馬が街を去ることが決定し全ての活動を終了。
+#endregion(違法商品売買)
+#size(50%){　}
+//---------------------------
+&anchor(諜報活動)
+#region(諜報活動　'25/03/07 終了)&b(){諜報活動　'25/03/07 終了}
+[[無馬>無馬　かな]]が必要とする情報の提供する。
+立場上よく情報が落ちる者をメンバーとしているため、自ら動いて情報収集を行う必要はない。
+//&icon_fa(fa-solid fa-user-secret)
+#size(30%){　}
+#openclose(show=＞収集していたもの){
+&image(listmarker.png,inline)盗難車販売事業に必要なハイドアウトガレージ情報
+&image(listmarker.png,inline)生雲丹提案の盗難車販売事業に必要なハイドアウトに入庫出来る車の車種
+&image(listmarker.png,inline)各事業へ斡旋する人材としての半グレ情報
+&image(listmarker.png,inline)マーケティングに必要なシマ取りなどの黒情勢情報
+}
+#openclose(show=＞収集が済んでいたもの){
+#openclose(show=全クラフトマスターデータ){
+&image(listmarker.png,inline)記載情報：製造原価、熟練度、労働力、作用費、素材原価、使用素材とその個数　など
+&image(listmarker.png,inline)スプレッドシートにて管理、原価が変わったらすぐ反映されるなど、市が欲しがるレベルのデータ。
+}}
+#size(30%){　}
+ARCANA計画の終息につき終了。
+&image(listmarker.png,inline)'25/03/07、無馬が街を去ることが決定、収集の必要が無くなり終了。
+#endregion(諜報活動)
+#size(50%){　}
+//---------------------------
+&anchor(エナジードリンク専売契約)
+#region(エナジードリンク専売契約　'25/03/08 終了)&b(){エナジードリンク専売契約　'25/03/08 終了}
+[[ALLIN]]のみが製造できる、島取り限定「&ruby(エナジードリンク){労働力回復アイテム}」を独占・継続的に購入する契約。
+#size(30%){　}
+#openclose(show=＞使用用途){
+&image(listmarker.png,inline)自組織にて消費。
+&image(listmarker.png,inline)[[FEMME FATALE]]の特急サービスへ利用。
+&image(listmarker.png,inline)ブラックマーケット(仮)にて抱き合わせ販売。
+}
+//
+#openclose(show=＞契約書){&font(11,gray){※当人間で交わされた契約書とは異なります。}
+#region(1条（目的）,open)&b(){1条（目的）}
+本契約は[[ALLIN]]が製造する&ruby(エナジードリンク){労働力回復アイテム}（以下、「エナドリ」とする）の販売について、卸先を[[ARCANA]]に限定することに関して定める。
+#endregion()
+
+#region(2条（条件）,open)&b(){2条（条件）}
+1）[[ALLIN]]は[[ARCANA]]にのみエナドリを提供する。
+2）[[ARCANA]]は専売対価の契約金として即金50億円を[[ALLIN]]に支払う。
+3）[[ARCANA]]は50億円分(500本)のエナドリ購入を確約。
+4）確約額以上の買取については[[ARCANA]]側の決定に従う。
+5）提供後のエナドリ流通販路を[[ARCANA]]に一任。
+#endregion()
+
+#region(3条（義務）,open)&b(){3条（義務）}
+[[ARCANA]]は次にあげるものを義務とする。
+1）製造元情報の秘密保持。
+
+[[ALLIN]]は次にあげるものを義務とする。
+1）エナドリの情報及び契約内容の秘密保持。
+2）確約した50億円分に関して、最低1日10個の提供を保証する。
+3）製造の独占及び、提供努力の維持。
+※ただし、以下の場合のみ例外とする。
+1）街の方針変更による供給停止時のみ、[[ALLIN]]に非が無いとし市へ損害賠償を行うこととする。
+2）精製所が別で出来た場合、独占努力を行った上であれば話し合いに余地を持たせる。
+#endregion()
+
+#region(4条（違約）,open)&b(){4条（違約）}
+[[ARCANA]]側の違約条件と対応
+1）過失で情報漏洩が発覚した場合、専売契約を保持したまま違約条件の破棄。
+
+[[ALLIN]]側の違約条件と対応
+1）提供不可能であることが発覚した場合、契約違反とみなし契約金と同じ50億円の違約金を[[ARCANA]]へ支払う。
+2）提供努力を怠ったことが発覚した場合、100億円の追加違約金の支払いを[[ALLIN]]へ要求。反故にする場合は裁判を行う。
+#endregion()
+
+#region(5条（価格）,open)&b(){5条（価格）}
+単価1000万円での買取
+#endregion()
+
+#region(6条（期間）,open)&b(){6条（期間）}
+専売契約については期間を設けない。
+違約金の発生期間のみ、　
+&nbsp(2)&b(){'24/06/01～'25/05/31}
+と定める。
+#endregion()
+}
+#size(30%){　}
+無馬が街を去るため一年契約の更新を破棄。
+&image(listmarker.png,inline)'25/03/07、ヘルアンへ契約更新しないことを伝え、翌8日[[ALLIN]]内で破棄されたと伝わる。 
+#endregion(エナドリ)
+#size(50%){　}
+//---------------------------
+&anchor(素材無償提供契約)
+#region(素材無償提供契約　'25/03/08 終了)&b(){素材無償提供契約　'25/03/08 終了}
+[[月ノ屋]]からクラフト素材の無償提供を受ける契約。
+#size(30%){　}
+#openclose(show=＞契約内容){
+&image(listmarker.png,inline)期間：[[ALLIN]]とのエナドリ契約が締結してから終了するまで。
+&image(listmarker.png,inline)[[ALLIN]]でもある[[月ノ島>月ノ島　ごう]]の厚意&openclose2(show=※){&nbsp(br,2)（工場にて素材の入手がある程度容易としているため負担は少ない。）&br()}によるものである。
+}
+#size(30%){　}
+[[ALLIN]]とのエナドリ契約が終了したたため、終了。
+#endregion(素材無償提供)
+#size(50%){　}
+//---------------------------
+&anchor(物資調達)
+#region(物資調達　'25/05/25 終了)&b(){物資調達　'25/05/25 終了}
+無馬が必要としたものの調達。
+//&icon_fa(fa-solid fa-toolbox)
+#openclose(show=＞過去経緯){
+&image(listmarker.png,inline)ARCANA設立初期は、[[無馬>無馬　かな]]が大型で使用する武器装備の制作がメインであった。
+&image(listmarker.png,inline)裏ビジネスが始まる傘下時代後期では、現存のブラックマーケットを上回る流通を確立し&b(){市場を独占すること}を最終目的に設定、下準備段階として継続。
+&image(listmarker.png,inline)ARCANA計画発動後は、ARCANA事業全般で必要となる物資を用意。
+&image(listmarker.png,inline)協力者のクラフトチームが主に製造を担当していたが、リスクが高い時期は露見しても良い黒人員が担っていた。
+&image(listmarker.png,inline)設立を予定していた専門販売会社である[[ブラックマーケット>ARCANA#ブラックマーケット]]にも品物を卸す予定があった。
+}
+#size(30%){　}
+&font(u,b){1. 武器・装備調達}
+#openclose(show=＞主な調達品){
+&image(listmarker.png,inline)クラフトによるアーマー製造。
+&image(listmarker.png,inline)[[DEP]]から薬の買付。
+&image(listmarker.png,inline)[[FEMME FATALE]]での各銃火器の製造。
+}
+#size(30%){　}
+&font(u,b){2. その他物資・備品調達}
+#openclose(show=＞主な調達品){
+&image(listmarker.png,inline)銃弾やグレネードなど。街の武器屋での買付。
+&image(listmarker.png,inline)手錠など。街のブラックマーケットでの買付。
+&image(listmarker.png,inline)各種素材。ファームor[[月ノ屋]]協力or買付。
+&image(listmarker.png,inline)ボンベやIFAKS等のコンビニ備品の買付。
+&image(listmarker.png,inline)食料品等の買付。
+}
+#size(50%){　}
+無馬が街を出たことにより終了。
+#endregion(物資調達)
+#size(50%){　}
+//
+#co(){~~~~~~~~~~~~~
+
+&anchor(タイトル)
+#region(タイトル　'25/05/25 終了)&b(){タイトル　'25/05/25 終了}
+#size(30%){　}
+#openclose(show=＞詳細){}
+#size(30%){　}
+
+#endregion(タイトル)
+#size(50%){　}
+//---------------------------
+
+~~~~~~~~~~~~~~~~~~~~}
+#right(){&link_up(🔝ページTOPへ)}
+//---<関係者情報>----------------------------------------------------------------//
+*&font(#E0E0E0){関係者情報}
+#co(){
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ARCANAの組織活動が完了したため、メンテナンスが大変だった構成員という区分を排除しました。
+
+
+＾＾＾＾＾＾＾
+意思決定機関である無馬さん特有の、
+①選択幅を持たせる行動原理からくる対外的な言い方によって、見てる視点で解釈ラインが違うことが多々あること　②考察観測者向けの思考開示をしない衛星方針　につき、以下の対応を行っています。
+
+・Major／Minorの階層分け
+メンバー区分について上記理由にてはっきりしていない場合があるため、活動内容によって表記区分けを実施、階層として表記しています。
+
+・正式メンバー、幹部について
+実際その役割を担っていたとしても、正式な場での内々の会議にて"名指し"で明言されない限り、曖昧さ回避のため表記を行わないようにしています。
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
+***&underdot(#3300CC,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)構成員について　}
+構成員は、能力値で活動内容、忠誠度で活動への加担度合が変えられており、
+その内容と加担度で、&b(){正式メンバー}と&b(){協力メンバー}の二種類に分けられていた。
+なお、アジトの鍵関係で「ARCANA」というUnionが存在するがギャングとしての機能は無い。
+#size(30%){　}
+&image(listmarker.png,inline)'25/03/07、ARCANAの組織活動が完了したため構成員という役割は終了。
+&font(12px,#FF6699){　※当Wiki内では上記の活動終了日（'25/03/07）までの所属メンバーを正式メンバーとして記載。}
+
+#size(30%){　}
+#openclose(show=＞過去の小ネタ情報){
+&image(listmarker.png,inline)完全秘匿時代に、露見を防ぐためコードネームで呼び合う予定が存在した。
+&image(listmarker.png,inline)現在の利用は無いに等しいが「&openclose2(show=ビジネス){&small(){参加者：無馬、鬼野、麻林、大川、月ノ島}}」と「&openclose2(show=クラフト){&small(){参加者：無馬、鬼野、鳥羽、上田、香月}}」のグループチャットが存在。
+&image(listmarker.png,inline)連絡はほぼ六法にて行われているが、メンバーが増えた際にチャットの整備などが考えられた。
+}
+//----------------
+#openclose(show=＞過去にWiki内で設定されていた階層分け){
+&image(listmarker.png,inline)情報が煩雑化するため、表記都合にて&u(){wiki内でのみ} Major／Minorにて更なる階層分けを設定していた。
+&image(listmarker.png,inline)組織活動終了に伴い、各人員の最終的な立ち位置が明確化したため廃止。
+
+#openclose(show= ＞正式メンバー){
+&font(b,u){概要}
+本業をARCANAと出来、必要とあらば黒になれる者。
+&image(listmarker.png,inline)グループチャット「ARCANA」が存在。招集連絡や簡単な情報共有に利用されている。
+&image(listmarker.png,inline)招集時は共有無線&openclose2(show=※){（132=ひみつ）}に集まる形をとる。&small(){&openclose2(show=以前の番号){&nbsp(br,4)アルカナに関連した数字（22.56：大アルカナ枚数.小アルカナ枚数）に設定されていたがポロリにより変更。}}
+
+&font(b,u){Major（幹部）}
+無馬へ忠誠を誓い、ARCANA事業の運営に従事する者。
+&image(listmarker.png,inline)組織の展望と計画の共有。
+&image(listmarker.png,inline)タトゥー施術。彫る部位は無馬指定。
+&image(listmarker.png,inline)顧客へのARCANA公表可。(ビジネスの都合で必要となった場合のみ)
+
+&font(b,u){Minor}
+核心には加担していないが、協力を惜しまず忠誠心が高い者。
+&image(listmarker.png,inline)相互利益を持つビジネスライクな人員。
+&image(listmarker.png,inline)所属が露見しても問題ない労働力要員。
+&image(listmarker.png,inline)事業の樹立を待ってる状態の人員。
+}
+//----------------
+#openclose(show=＞協力メンバー){
+&font(b,u){概要}
+ARCANA所属を公表しない人員。協力者と呼称。
+&image(listmarker.png,inline)騒動に巻き込みたくない白市民は、白を守るための関係値切りも考慮されている。
+
+&font(b,u){Major}
+関係値が深く、協力を惜しまない者。
+&image(listmarker.png,inline)利益相反防止が必要なギャング所属組。
+&image(listmarker.png,inline)労働力の提供をするクラフター人員。
+&image(listmarker.png,inline)自身の活動で得た情報を落とす諜報人員。
+
+&font(b,u){Minor}
+役割解体後、今後の関係性が未定状態の人員。
+}
+}
+----
+#include(ARCANA/関係者)
+//関係者の運用については子ページ内に記載
+
+#right(){&link_up(🔝ページTOPへ)}
+//---<組織関連>----------------------------------------------------------------//
+*&font(#E0E0E0){組織関係情報}
+'25/03/07、組織としての活動が終了。それに伴い関連組織との関係は実質解消。
+
+#region(関連組織一覧,remember)&b(){関連組織一覧}
+***&underdot(#3300CC,3px){♠&nbsp(2)&font(#B22222){武}闘派ギャング「ALLIN」}
+無馬が所属していた元親組織。ALLIN別動隊として活動。
+#size(110%){[[ ＞Information>ALLIN]]}
+//
+***&underdot(#3300CC,3px){&icon_fa(fa-solid fa-person-rifle)&nbsp()&font(#eaa946){民}間軍事会社&anchor(Academy,option=nolink){「ACADEMY」}}
+信用のある傭兵人材を派遣していた元子会社。
+#size(110%){[[ ＞Information>ACADEMY]]}
+//
+****&font(17){&underdot(#3300CC,3px){&icon_fa(fa-solid fa-gear)&nbsp()&font(#89c3eb){新}興ギャング「TOPGEAR」}}
+&font(){ACADEMY}発のギャング組織。
+#size(110%){#openclose(show= ＞Information){#size(90%){[[ACADEMY]]に所属していた[[飯田>飯田　けんつ]]がボスを務める。
+　→組織概要は、[[TOPGEAR]]頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)ARCANAの下部組織であった[[ACADEMY]]から独立し組織化した協力組織。
+&image(listmarker.png,inline)ギャング設立に当たり、ACADEMYの利用とARCANAからの支援を受ける代わりに協力を約束。
+&image(listmarker.png,inline)ACADEMY教師陣が行っている傭兵事業へ協力させることで、ギャング設立後も間接的に情報支援ができるよう手を回している。
+}}}
+***&font(17){&underdot(#3300CC,3px){&icon_fa(fa-solid fa-gun)&nbsp()&font(#E0697B){武}器商人&anchor(FEMME FATALE,option=nolink){「FEMME FATALE」}}}
+他では入手出来ない武器の製造・販売を行う組織。
+#size(110%){#openclose(show= ＞Information){#size(90%){ARCANAトップの無馬が代表を務める。
+　→会社概要は、[[FEMME FATALE]]頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)目的達成のため、ARCANAによって設立された子会社。
+&image(listmarker.png,inline)現在は独立のため従業員のヤブ下へ経営権限を譲渡。代表移行中。
+}}}
+//
+***&font(17){&underdot(#3300CC,3px){&icon_fa(fa-solid fa-crown)&nbsp()&font(#3BB240){闇}興行会社&anchor(WAND VOX,option=nolink){「WAND VOX」}}}
+黒興行の主催及び協力を事業とする組織。
+#size(110%){#openclose(show= ＞Information){#size(90%){ARCANA幹部の麻林が代表を務める。
+　→会社概要は、[[WAND VOX]]頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)目的達成のため、ARCANAによって設立された子会社。
+}}}
+//
+&anchor(T.O.W.A)
+***&font(17){&underdot(#3300CC,3px){&icon_fa(fa-solid fa-car)&nbsp()&font(#A15DF4){裏}自動車問屋&anchor(Le NiL,option=nolink){「Le NiL」(仮)}}}
+黒市民向け自動車事業を行う組織。
+#size(110%){#openclose(show= ＞Information){#size(90%){ARCANA幹部の大川が代表を務める。
+　→会社概要は後述。
+#size(50%){　}
+&image(listmarker.png,inline)目的達成のため、ARCANAによって設立された子会社。
+&image(listmarker.png,inline)現在、市と調整中。
+
+***&size(120%){&bgcolor(#555){&font(#fff,90%){&nbsp(4)&font(#A15DF4){基}本情報}&nbsp(40)}}
+****&underdot(#A15DF4,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)概要　}
+ARCANA幹部の[[大川>大　川]]が代表。
+-[[ARCANA]]にて行ってきた、盗難車の買取及び販売を引き継ぎ、事業化。
+-偽造ナンバー、所有者偽装、廃車届け対応などの黒に利益のある自動車事業を検討中。
+-現在市と行っている調整が終わり次第、正式に運営を開始。
+-不二子が正式に協力関係へ。表と裏のメカニックを押さえることにより、円滑な事業展開を目指す。
+****&underdot(#A15DF4,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)仮名由来　}
+タロットカードの起源に深く関わるエジプト文明のナイル川が由来。
+-[[FEMME FATALE]]がフランス語のため、フランス語表記。
+-世界一大きな川であることから大川との繋がりも。
+***&size(120%){&bgcolor(#555){&font(#fff,90%){&nbsp(4)&font(#A15DF4){活}動情報}&nbsp(40)}}
+****&underdot(#A15DF4,3px){1. 盗難車買取}
+-大型犯罪(飛行場、カジノヘイスト)でのみ入手できるゼントーノや、ブースティング犯罪で手に入る限定車が主。
+-ブースティング限定車両に関しては、現在[[そす>いわさき　そす]]さんを窓口とした[[闇車両協会]]から仕入れている。
+****&underdot(#A15DF4,3px){2. 盗難車販売}
+-盗難車はエンジン入れ替え込のフルカスタムとカスタム無しを取り揃える。
+--カスタムは[[不二子さん>不二子　キャスパー]]率いる、闇メカニック[[Glare Gem]]が担当。
+-現在の販売窓口は無馬が行っている。
+-車両の販売・買取価格は、大川が調整役を担う。
+****&underdot(#A15DF4,3px){3. 盗難車調整}
+-ブースティング車両の調整や、盗難車全般のカスタム等もおこなっている
+***&size(120%){&bgcolor(#555){&font(#fff,90%){&nbsp(4)&font(#A15DF4){雇}用情報}&nbsp(40)}}
+****&underdot(#A15DF4,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)従業員一覧　}
+#region(一覧,open)
+#size(90%){#table_style(head=center:#000033:#A15DF4){}
+#table_filter(){加盟日=hide,名前=show,区分=show,概要=show,備考=show}
+|~加盟日|~名前|~区分|~概要|~備考|h
+|'24/05/23|[[大川>大　川]]|代表|車両協会の解体を機に車両部門を立ち上げる。&br()ゆくゆくは闇メカニックにしか出来ない事業を確立すべく行動中。|[[ARCANA]]幹部&br()[[A2 Lab]]オーナー|
+||||||
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion(従業員)
+****&underdot(#A15DF4,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)協力者一覧　}
+#region(一覧,open)
+#size(90%){#table_style(head=center:#000033:#A15DF4){}
+#table_filter(){加盟日=hide,名前=show,区分=show,概要=show,備考=show}
+|~加盟日|~名前|~区分|~概要|~備考|h
+|'24/05/14|[[闇車両協会]]|違法車両卸|ブースティング限定車両の仕入れを担う。現在の窓口は、[[そす>いわさき　そす]]さん。|-|
+|'24/06/25|[[不二子 キャスパー>不二子　キャスパー]]|闇メカニック|黒インフラを担う同志として勧誘。MOZU了承済にて正式に協力関係へ。&br()また、[[ARCANA]]より引き継いだ販売盗難車両のカスタムも担当。&br()受け渡しはハイドアウトガレージを利用。|[[Glare Gem]]社長|
+||||||
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion(従業員)
+//
+***&size(120%){&bgcolor(#555){&font(#fff,90%){&nbsp(4)&font(#A15DF4){歴}史}&nbsp(40)}}
+****&underdot(#A15DF4,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)年表　}
+#region(開く,open)
+#size(90%){#table_style(head=center:#000033:#A15DF4){}
+#table_filter(){日付=show,出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'24/05/14|車両関連事業の始動|[[大川>大　川]]|[[大川>大　川]]の[[ARCANA]]加入により、構想段階であった車両関連事業が始動。|
+|'24/05/14|[[闇車両協会]]協力関係へ|[[闇車両協会]]|[[大川>大　川]]さん加入に伴い提携を開始。|
+|'24/05/14|盗難車売買事業の受取|[[無馬>無馬　かな]]、[[大川>大　川]]|ARCANAにて行っていた、盗難車売買の事業を引き受ける。|
+|'24/05/28|社名考案依頼||ARCANA定例会にて、[[麻林>麻林　ラル]]に社名の考案を依頼。|
+|'24/05/29|社名提案①|[[無馬>無馬　かな]]、[[大川>大　川]]、[[麻林>麻林　ラル]]|ARCANA幹部会にて、社名として「T.O.W.A」が提案される。&br()より良いものにすべく別案を依頼。|
+|'24/06/13|社名提案②|[[大川>大　川]]、[[麻林>麻林　ラル]]|[[麻林>麻林　ラル]]との会議にて、社名「Le NiL」の提案を受け、仮決定。|
+|'24/06/25|[[GG>Glare Gem]]が協力関係へ|[[無馬>無馬　かな]]、[[不二子>不二子　キャスパー]]|社長の[[不二子>不二子　キャスパー]]が[[ARCANA]]の協力関係者となったことを機に&br()外部依頼だった形から業務提携を行う協力関係へ。|
+|||||
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion(年表)
+}}}
+//
+***&font(17){&underdot(#3300CC,3px){&icon_fa(fa-solid fa-shop)&nbsp()&anchor(ブラックマーケット,option=nolink){&font(#8BA6DB){ブ}ラックマーケット}「ARCANA」(仮)}}
+違法商品を販売する組織。
+#size(110%){#openclose(show= ＞Information){#size(90%){ARCANA幹部が代表を務める予定。
+　→会社概要は後述。
+#size(50%){　}
+&image(listmarker.png,inline)目的達成のため、ARCANAによって設立された子会社。
+&image(listmarker.png,inline)現在、準備計画段階
+
+***&size(120%){&bgcolor(#555){&font(#fff,90%){&nbsp(4)&font(#8BA6DB){基}本情報}&nbsp(40)}}
+****&underdot(#6699CC,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)概要　}
+-[[無馬>無馬　かな]]が事業を起こし、[[鬼野>鬼野　ねね]]が取り纏め、[[柳瀬>柳瀬　つん]]、[[生雲丹>生雲丹　よづな]]が従業員として働く予定。
+-既存のブラックマーケットを撤廃し新しい形で作り変える予定。
+--現在ブラックマーケットを営んでいる心無きの排除については既に市長へ宣言済。
+--利用通貨をブラックマネーに限定する等、白市民では利用できないシステムを考えている。
+--[[月ノ屋]]のような無人販売形式での経営を目指している。
+-違法素材等を制作する闇工場(構想段階)を構え連携が取れないか思案中。
+****&underdot(#6699CC,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)店舗について　}
+-北の砂漠地帯に購入していた店舗型の建物を候補地としていたが、ハウジング型店舗と無人販売形式との兼ね合いで一旦保留へ。
+-東の郊外(9386-9384の間辺り)へ新しく専用の物件を用意。
+-店舗や機能などは現在調整中。
+****&underdot(#6699CC,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)商品について　}
+-取扱予定商品は白市民が使わないような違法商品。
+--武器屋「[[FEMME FATALE]]」の商品は、取り扱わない予定。
+--ロケットランチャー、アタッチメントを含む銃火器類、ヘビーアーマーやスーパースター、その他手錠、犯罪道具など。
+--他黒ビジネスのサービスや情報などをチケット化して販売する案や、単体では売れにくい高単価の違法商品を抱き合わせで販売する案も。
+--[[麻薬カルテル>DEP]]の違法薬も直接卸してもらい店へ並べる予定。(商品は既存の新薬が難しい場合、その下位互換の薬を想定中。)
+}}}
+//
+****&font(17){&underdot(#3300CC,3px){&icon_fa(fa fa-flask)&nbsp()&font(#FCF815,#709B85){麻}薬カルテル「DEP」}}
+違法な薬の開発及び販売を行う麻薬組織。
+#size(110%){#openclose(show= ＞Information){#size(90%){ARCANA所属の加藤が代表を務める。
+　→組織概要は、[[DEP]]頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)無馬が出資や情報提供を行い協力関係だったグループが正式に組織化。
+&image(listmarker.png,inline)ARCANAへの加入は一度断ったが、加藤のARCANA加盟により経営権はそのまま傘下化。
+&image(listmarker.png,inline)傘下化までの経緯は麻薬事業のカルテル協力傘下化経緯にて
+}}}
+//
+****&font(17){&underdot(#3300CC,3px){&icon_fa(fa-solid fa-cannabis)&nbsp()&font(#48A06A){麻}薬ギャング「麻陀羅組」}}
+麻薬の精製や流通に特化した&font(){ギャング}組織。
+#size(110%){#openclose(show= ＞Information){#size(90%){ARCANA所属の[[タラちゃん>タラ　ちゃん]]が組長を務める。
+　→組織概要は、[[麻陀羅組]]頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)麻薬王になるためARCANAへ加盟したタラちゃんが、正式に麻薬精製を行えるよう設立した組織。
+&image(listmarker.png,inline)ARCANAからの要望には全面的に協力態勢を取っているため実質的な傘下組織。
+&image(listmarker.png,inline)ただし、運営や方針についてはタラちゃんの管理下で自由に行えるような配慮をとっている。
+&image(listmarker.png,inline)主に、麻薬やギャング関連で協力を得ている。
+}}}
+//
+****&font(17){&underdot(#3300CC,3px){&icon_fa(fa fa-wrench)&nbsp()&font(#6B75DB){闇}メカニック「Glare Gem」}}
+黒市民が働ける唯一の闇メカニック組織。
+#size(110%){#openclose(show= ＞Information){#size(90%){ARCANA外部協力者の不二子が代表を務める。
+　→組織概要は、[[Glare Gem]]頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)同じ黒向けインフラを担う同志として関係を結ぶ協力組織。
+&image(listmarker.png,inline)今後、[[Le NiL>ARCANA#Le NiL]]と共に車事業を担う予定。
+}}}
+//
+***&font(17){&underdot(#3300CC,3px){&icon_fa(fa fa-car-side)&nbsp()&font(#36D8B9){闇}車両協会}}
+ブースティング犯罪で盗難車を扱う組織。
+#size(110%){#openclose(show= ＞Information){#size(90%){ARCANAとの窓口は[[いわさき>いわさき　そす]]が務める。
+　→組織概要は、[[闇車両協会]]頁を参照。
+#size(50%){　}
+&image(listmarker.png,inline)[[Le NiL>ARCANA#Le NiL]]へ違法車両の卸しを行う提携を組む協力組織。
+}}}
+
+#endregion
+//
+#right(){&link_up(🔝ページTOPへ)}
+//---<不動産関連>----------------------------------------------------------------//
+*&font(#E0E0E0){不動産情報}
+#region(拠点)&b(){拠点}
+#size(90%){{{#table_style(head=#003:#EAF4FC){}
+#table_filter(){番地=show,場所=show,通称=show,管理=hide,備考=show}
+|~番地|~場所|~通称|~管理|~備考|h
+|9096|PYC近くの一軒家|元アジト|[[無馬>無馬　かな]]|旧アジトからの移転先。再現補填にて確保。ガレージ付き。&br()移転予定の9093に事情&openclose2(show=※){&br()（前所有者が起きてこず所有権放棄がなされないまま、補填期間が終了したこと）&br()}があったため一時的な拠点として利用。&br()アジト引っ越しに伴い、現在は[[鬼野>鬼野　ねね]]の常用拠点となっている。|
+|10002|飛行場近く|薬拠点|[[無馬>無馬　かな]]|旧薬用倉庫。市が通達なく別の建物へ建て替えた結果、現在空間分裂中。|
+|9096|アジト横の家裏|倉庫|[[鬼野>鬼野　ねね]]|クラフト素材倉庫。白メンバーがよりバレにくくするために運用。|
+|8216|KoKo七番屋2F|セーフハウス|[[麻林]]|[[麻林>麻林　ラル]]から提供されたセーフハウス。|
+|10108|コンテナ埠頭海側|葉っぱハウス|[[無馬>無馬　かな]]|薬素材倉庫。麻栽培場のような内装と薬練り場の近所という&br()[[秘書>鬼野　ねね]]が夢見た最高の薬拠点。ランポ直付け可能なガレージも。|
+|10102|コンテナ埠頭入口|粉の家|[[無馬>無馬　かな]]|薬格納用に購入。薬精製所のような内装で雰囲気◎。共有ガレージ付き。|
+|10102|コンテナ埠頭入口||[[無馬>無馬　かな]]|薬格納用拠点に隣接する居住スペース。粉の家と向かい合わせ。|
+|6069|高級住宅地|無馬邸|[[無馬>無馬　かな]]&br()(ARCANA Union)|海外産の特別な豪邸。[[(MLO)>>https://youtu.be/UnUyrgnQdP0?si=6p5wvwhzVzf9E-lO]]&br()ちょっとした話し合いをする際に集まる場所。ガレージ付き。|
+|6069|無馬邸地下|アジト|[[無馬>無馬　かな]]&br()(ARCANA Union)|秘密基地風の雰囲気のある地下アジト。幹部会に利用。ガレージ付き。&br()無馬邸の隠し扉か、無馬邸の土台側面崖にある鍵付きシャッターが入口。&br()武器や装備関連のクラフト台完備。|
+|9386|東郊外|倉庫|[[無馬>無馬　かな]]|セーフハウス。倉庫用|
+|9384|東郊外|うさちゃんハウス|[[無馬>無馬　かな]]|セーフハウス兼、[[無馬>無馬　かな]]の狩猟用拠点。|
+
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}}}
+#endregion
+#size(50%){　}
+//
+#region(店舗等)&b(){店舗等}
+#size(90%){{{#table_color(head=#003:#EAF4FC){}
+#table_filter(){番地=show,場所=show,通称=show,管理=hide,備考=show}
+|~番地|~場所|~通称|~管理|~備考|h
+|9094|PYC近く|コンビニ|[[鳥羽>鳥羽　咲夜]]|[[前々オーナー>叫　シリリ]]から経営権譲受。&br()ザウルスの恰好をした従業員がよく出入りしているという噂が。&br()傘下時代の関係値にて、[[ALLIN]]構成員による利用を許可。&br()現在、多忙な[[鬼野>鬼野　ねね]]に代わり、[[ナリエル>マイゴ・ニ＝ナリエル]]が商品補充を請け負っている。|
+|9094|PYC近く|ガソスタ|[[鳥羽>鳥羽　咲夜]]|[[前々オーナー>ボタリン　モンロー]]から経営権譲受。&br()傘下時代の関係値にて、[[ALLIN]]構成員による利用を許可。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}}}
+#endregion(所有)
+#size(50%){　}
+//
+#region(ガレージ等)&b(){ガレージ等}
+#size(90%){{{#table_color(head=#003:#EAF4FC){}
+#table_filter(){番地=show,場所=show,通称=show,管理=hide,備考=show}
+|~番地|~場所|~通称|~管理|~備考|h
+|9128|消防署裏|ハイドアウト|[[無馬>無馬　かな]]|1台入ハイドアウトガレージ。|
+|9092|PYC入口|ガレージ|[[無馬>無馬　かな]]|旧アジトの共有ガレージ。|
+|8187|[[GG>Glare Gem]]近く|ハイドアウト|[[不二子>不二子　キャスパー]]|盗難車カスタムの受け渡し用ガレージ。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}}}
+#endregion
+----
+#region(過去一覧)&b(){過去一覧}
+#size(90%){{{#table_color(head=#003:#EAF4FC){}
+#table_filter(){番地=show,場所=show,通称=show,管理=hide,備考=show}
+|~番地|~場所|~通称|~管理|~備考|h
+|9128|消防署裏|旧アジト|[[無馬>無馬　かな]]|倉庫。敷地内にハイドアウトガレージがあり購入したものの、&br()すぐに犯罪での自家用車使用が解禁されたため9092に移転。&br()撤去不可障害物があるなどの使い勝手の悪さから'23/12/05[[売却>>https://www.twitch.tv/videos/1995019861?t=01h15m00s]]。|
+|9092||アジト|[[無馬>無馬　かな]]|倉庫。月ノ島所有のコンビニ・ガソスタ、共用ガレージが近い。&br()[[ルウ ギャラクティカ>ルウ　ギャラクティカ]]から[[新設する整備工場>PYC]]の用地として&br()売却をお願いされ、3.5億で応じた。|
+|4018|ペットショップ&br()近く一軒家|薬拠点|[[無馬>無馬　かな]]|北の薬用倉庫。&br()'24/06/26→タラちゃんへ売却。譲渡時に効率厨な内装が露見。|
+|9289&br()付近|東郊外|新アジト|[[無馬>無馬　かな]]&br()(ARCANA Union)|ARCANA CITY用の拠点。大型倉庫型の外見をした元[[IRiS]]新アジト。(MLO)&br()IRiS解散により使われず売却予定だったものを、選定人であった[[小峯>小峯　玲]]から&br()の提案で[[菖蒲>菖蒲　光樹]]さんから100億で購入。&br()'25/03/07[[小峯>小峯　玲]]への褒賞として譲渡。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}}}
+#endregion(過去)
+//
+//---<ギャラリー>----------------------------------------------------------------//
+*&font(#E0E0E0){ギャラリー}
+&blankimg(ArcanaBBQ.png,x=400,y=200)
+&font(11,gray){△最後のBBQ}
+#size(50%){　}
+#region(定例会)&b(){定例会}
+#table_style(head=#F0F0F0:85%:center){}
+|~&blankimg(Meeting_3.png,x=400,y=200)|~&blankimg(Meeting_1.png,x=400,y=200)|
+|CENTER:&font(10){'24/07/09 第二回 定例}|CENTER:&font(10){'24/05/28 第一回 定例}|
+#table_zebra(#F0F0F0,#F0F0F0)
+#endregion(定例会)
+#size(50%){　}
+#region(会議)&b(){会議}
+#table_style(head=#F0F0F0:85%:center){}
+||~&blankimg(Meeting_5.png,x=150,y=100)|~&blankimg(Meeting_4.png,x=150,y=100)|~&blankimg(Meeting_2.png,x=150,y=100)|
+|CENTER:&font(10){'24/11/30 会議}|CENTER:&font(10){'24/07/26 報告会}|CENTER:&font(10){'24/07/10 会議}|CENTER:&font(10){'24/05/30 会議}|
+#table_zebra(#F0F0F0,#F0F0F0)
+#endregion(会議)
+#size(50%){　}
+#region(ロゴ)&b(){ロゴ}
+#table_style(head=#F0F0F0:85%:center){}
+|~&blankimg(Arcana_logo.png,x=200,y=200)|
+#table_zebra(#F0F0F0,#F0F0F0)
+#endregion(ロゴ)
+//
+//---<歴史>----------------------------------------------------------------//
+*&font(#E0E0E0){歴史}
+**ダークチャット「#Arcana」
+ARCANAからのお知らせを発信するダークチャット。
+&image(listmarker.png,inline)[[ARCANA計画>ARCANA#ARCANA計画]]時には"黒市民向けWin-Winビジネス"の情報発信を行っていた。
+#size(30%){　}
+#region(JOIN一覧)&b(){JOIN一覧}
+#size(90%){#table_style(head=center:#000033:#EAF4FC){}
+|~組織|~参加者|h
+|[[Arcana]]|[[無馬 かな>無馬　かな]]、[[鬼野 ねね>鬼野　ねね]]、[[麻林 ラル>麻林　ラル]]、[[大川>大　川]]、[[ハイライト>小峯　玲]]、[[柳瀬 つん>柳瀬　つん]]、[[生雲丹 よづな>生雲丹　よづな]]|
+|[[MOZU]]|[[ヴァン ダーマー>ヴァン　ダーマー]]、[[三階堂 キミトス>三階堂　キミトス]]、[[堕夜 だよ>堕夜　だよ]]、[[ナタル イルコフ>ナタル　イルコフ]]、[[銭形 やいち郎>銭形　やいち郎]]&br()[[ぎちょう・じょばぁーな]]、[[TANKTOP竹森>TANKTOP　竹森]]、[[科場 諸朋>科場　諸朋]]|
+|[[GBC>GoodbyeCircus]]|[[マクドナルド]]、[[ろぜ柳 ぴん子>ろぜ柳　ぴん子]]、[[こはな らみ>Kohana　Lami]]、[[キングスターダイヤモンド ズズ>キングスターダイヤモンド　ズズ]]|
+|[[餡ブレラ>anbrella(餡ブレラ)]]|[[アルフォート ウェスカー>アルフォート　ウェスカー]]、[[栖家幡 華憐>栖家幡　華憐]]、[[オザワ ハヤマサ>オザワ　ハヤマサ]]|
+|[[ALLIN]]|[[白井 満太>白井　満太]]、[[千代田 ヨウ>千代田　ヨウ]]、[[ヘルアン]]、[[CPU]]、[[黒亜 ネマ>黒亜　ネマ]]、[[月ノ島 ごう>月ノ島　ごう]]|
+|[[NO LIMIT]]|[[四皇 シャンクズ>四皇　シャンクズ]]、[[けっつん 太郎>けっつん　太郎]]|
+|[[麻陀羅組]]|[[タラちゃん>タラ　ちゃん]]|
+|[[868]]|[[レダー ヨージロー>レダー　ヨージロー]]、[[刃弐 ランド>刃弐　ランド]]、[[ケイン／オー]]、[[J D>J　D]]|
+|[[TOPGEAR]]|[[飯田 けんつ>飯田　けんつ]]、[[シュガー ピーチ>シュガー　ピーチ]]、[[山田 カイキ>山田　カイキ]]|
+|[[Trickster]]|[[ジョーカー>半沢　直ふぃ]]|
+|元ギャング|[[レイナ・レアレッタ＝レインハート]]、[[イヴ トワイライト>イヴ　トワイライト]]、[[坂柳 陣平>坂柳　陣平]]&br()[[アイドゥラー ヨシャパテ>アイドゥラー　ヨシャパテ]]|
+#table_sorter{even=#f7f7f7,odd=#f7f7f7}
+}
+#endregion(join)
+&font(10,gray){※情報求む}
+#region(チャット履歴)&b(){チャット履歴}
+#size(90%){#size(50%){　}
+#region('24/04/28)
+|&font(9,#aaa){Nashima}&br()なしま&br()&font(9,#aaa){'24/04/28 3:52 AM}|
+#size(50%){　}
+|&font(9,#aaa){鬼の子}&br()nene&br()&font(9,#aaa){'24/04/28 3:52 AM}|
+#endregion('24/04/29)
+#size(50%){　}
+#region('24/05/02)
+|&font(9,#aaa){Nashima}&br()Arcana関係者以外はここ&br()で発言しないようにお願&br()いします。&br()&font(9,#aaa){'24/05/02 11:48 PM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()御用の際は個人に連絡い&br()ただけますと幸いです&br()&font(9,#aaa){'24/05/02 11:48 AM}|
+#size(50%){　}
+|&font(9,#aaa){natal}&br()ナタルJOIN&br()&font(9,#aaa){'24/05/02 12:00 AM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()----------------&br()&font(9,#aaa){'24/05/02 12:05 AM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()Arcana関係者以外は発言&br()をしないようにお願いし&br()ます。&br()&font(9,#aaa){'24/05/02 12:05 AM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()御用の際は無馬か鬼野に&br()ご連絡ください&br()&font(9,#aaa){'24/05/02 12:05 AM}|
+#endregion('24/05/02)
+#size(50%){　}
+#region('24/05/09)
+|&font(9,#aaa){Nashima}&br()ーギャングの皆様へー&br()&font(9,#aaa){'24/05/09 12:36 AM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()ご存じの方もいらっしゃ&br()ると思いますが、現在&br()Arcanaでは薬とブラック&br()マネーの等価買取を行っ&br()ております。ご利用の際&br()はねしまかねねにご連絡&br()ください。&br()&font(9,#aaa){'24/05/09 12:37 AM}|
+//誤字、そのままにしています
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()また、続いてのビジネス&br()も進行させていただいて&br()おります。モノによって&br()は同時にご用意するのが&br()難しい場合がございま&br()す。その際は薬とBMの&br()取引をたくさん行ってく&br()ださってる組織から優先&br()的にお話をさせていただ&br()く場合がございます。ご&br()了承ください。&br()&font(9,#aaa){'24/05/09 12:40 AM}|
+#endregion('24/05/09)
+#size(50%){　}
+#region('24/05/26)
+|&font(9,#aaa){Nashima}&br()ーーーーーーーーーーー&br()ーーー&br()&font(9,#aaa){'24/05/26 4:31 AM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()本日5/27を持ちまして、&br()薬及びBMの買取を一時終&br()了とさせていただきま&br()す。たくさんのご利用あ&br()りがとうございました。&br()ただ、5/27にまでに不在&br()着信等の連絡をくださっ&br()てる方には週明け別途対&br()応させて頂けたらと思い&br()ます。&br()&font(9,#aaa){'24/05/26 4:31 AM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()週明けには新たなサービ&br()スを二つほどご紹介させ&br()ていただけたらと思いま&br()す。&br()&font(9,#aaa){'24/05/26 4:32 AM}|
+#endregion(5/26)
+#size(50%){　}
+#region('24/06/06)
+|&font(9,#aaa){Nashima}&br()ーーーーーーーーーーー&br()ー&br()&font(9,#aaa){'24/06/06 3:57 AM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()ギャングの皆様へお知ら&br()せです。&br()&font(9,#aaa){'24/06/06 3:57 AM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()来週の火曜日から新たに&br()販売する武器が決まりま&br()したので、6/7の24時にと&br()ある場所にてお披露目し&br()ます。興味のある方は是&br()非ご覧になってくださ&br()い。試し撃ちくらいなら&br()できると思います。番地&br()はまた明日お伝えしま&br()す。&br()&font(9,#aaa){'24/06/06 3:58 AM}|
+#endregion(6/6)
+#size(50%){　}
+#region('24/06/07)
+|&font(9,#aaa){Nashima}&br()試乗会の所で0時にお待&br()ちしております。警察連&br()れてこないでください&br()ね。&br()&font(9,#aaa){'24/06/07 11:29 PM}|
+#size(50%){　}
+#endregion(6/7)
+#size(50%){　}
+#region('24/06/11)
+|&font(9,#aaa){Nashima}&br()メニュー8209の階段を上&br()がって右手に。2130まで&br()注文を受け付けています。&br()&font(9,#aaa){'24/06/11 7:16 PM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()▲新武器の話になりま&br()す。&br()&font(9,#aaa){'24/06/11 7:17 PM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()たまに歪んで見えない人&br()がいるそうなのでその際&br()はご連絡ください&br()&font(9,#aaa){'24/06/11 7:58 PM}|
+#size(50%){　}
+|&font(9,#aaa){シャンクズ}&br()一機マース&br()&font(9,#aaa){'24/06/11 9:03 PM}|
+#size(50%){　}
+|&font(9,#aaa){シャンクズ}&br()今回の件に関しまして&br()私、シャンクズは&br()「Arcanaのチャットでは&br()発言してはいけない。」&br()という説明を受けておき&br()ながら「一機マース」と&br()発言してしまいました。&br()関係者各位の皆様方にご&br()迷惑とご心配をおかけし&br()てしまった事を深くお詫&br()び申し上げます。深く反&br()省し今後再発防止に努め&br()て一機マース。&br()&font(9,#aaa){'24/06/11 9:08 PM}|
+#endregion(6/11)
+#size(50%){　}
+#region('24/06/25)
+|&font(9,#aaa){Nashima}&br()ギャングの皆様へお知ら&br()せです。&br()&font(9,#aaa){'24/06/25 8:32 PM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()武器の受注のタイミング&br()が決まりましたのでお伝&br()えします&br()&font(9,#aaa){'24/06/25 8:33 PM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()毎週火曜日 24:00~24:30&br()受付場所　3029&br()&font(9,#aaa){'24/06/25 8:33 PM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()時間を過ぎてしまうと次&br()週まで注文が難しくなる&br()のでお気を付けくださ&br()い。&br()&font(9,#aaa){'24/06/25 8:33 PM}|
+#size(50%){　}
+#endregion(6/25)
+#size(50%){　}
+#region('24/07/06)
+|&font(9,#aaa){Nashima}&br()--------------&br()&font(9,#aaa){'24/07/06 8:51 PM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()ギャングの皆様へお知ら&br()せです。&br()&font(9,#aaa){'24/07/06 8:52 PM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()火曜日の受注のタイミン&br()グで新しい武器の注文受&br()付を開始します。今回は&br()２種類ご用意する予定で&br()す。&br()&font(9,#aaa){'24/06/25 8:53 PM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()そのうちの一つはこの街&br()に存在していない種類の&br()武器になると思われます&br()ので、是非一度ご覧にな&br()ってみてください。火曜&br()日の0時にお待ちしてお&br()ります&br()&font(9,#aaa){'24/07/06 8:53 PM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()火曜日の24時&br()&font(9,#aaa){'24/07/06 8:53 PM}|
+#size(50%){　}
+#endregion(7/6)
+#size(50%){　}
+#region('24/07/12)
+|&font(9,#aaa){Nashima}&br()新武器のご注文ありがと&br()うございました。&br()&font(9,#aaa){'24/07/12 12:44 AM}|
+#size(50%){　}
+|&font(9,#aaa){Nashima}&br()今後は新武器が出た際に&br()こちらのチャットで告知&br()することはありません。&br()ご注文のタイミングでお&br()伝えはさせていただこう&br()と思っていますので、火&br()曜日にお店で会えるのを&br()楽しみにしています。&br()&font(9,#aaa){'24/07/12 12:44 AM}|
+#size(50%){　}
+#endregion(7/12)
+#size(50%){　}
+#region('24/07/24)
+|&font(9,#aaa){Nashima}&br()警察の新武器　先着１名&br()にはなりますが１つ1億&br()で買い取ります。&br()&font(9,#aaa){'24/07/24 1:51 AM}|
+#size(50%){　}
+#endregion(7/24)
+//
+#co(){~~~~~~~~~
+#size(50%){　}
+#region('24//)
+|&font(9,#aaa){Nashima}&br()~~~~~~~&br()&font(9,#aaa){'24// : AM}|
+#size(50%){　}
+#endregion(/)
+~~~~~~~~~~~~~~}
+//
+}
+#endregion(履歴)
+**年表
+#div(width=320px,bgcolor=#cccccc){&font(b,#666,120%){　 序章　傘下}}
+#region(開く)
+#size(90%){#table_style(head=center:#ccc:#666){}
+#table_filter(){出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'23/10/18|前身概念の発足|[[無馬>無馬　かな]]・[[鬼野>鬼野　ねね]]|[[鬼野>鬼野　ねね]]が無馬の個人秘書へ。組織概念の誕生。|
+|&b(){'23/11/01}|&b(){正式設立}|[[無馬>無馬　かな]]・[[ALLIN]]|[[ALLINボス>Mon　D]]話し合いのもと、[[無馬>無馬　かな]]をトップとする[[ALLIN]]別動隊として樹立。|
+|'23/11/05|部隊名決定|[[ARCANA]]|部隊の名称が『[[ARCANA]]』となる。|
+|'23/11/30|麻薬カルテル出資|[[無馬>無馬　かな]]|[[E5's BURGER]]幹部が行う麻薬カルテルへ出資。&br()優先買取権と売買リストなどの情報開示を条件とした。|
+|'23/12/19|薬物の街売り開始|[[無馬>無馬　かな]]・[[鬼野>鬼野　ねね]]|ロケランを自費で制作するための経済システムを確立。|
+|'23/12/20|アジト移転|[[ARCANA]]|PYCの開店に伴いアジトを移転。|
+|'24/02/11|[[麻陀羅組]]協力関係へ|[[タラちゃん>タラ　ちゃん]]|[[タラちゃん>タラ　ちゃん]]をボスとする、薬特化型ギャング[[麻陀羅組]]設立。協力関係へ|
+|'24/03/05|[[闇メカニック>Glare Gem]]と提携関係に|[[無馬>無馬　かな]]・[[不二子>不二子　キャスパー]]|[[不二子>不二子　キャスパー]]と商談。盗難車販売事業の外部依頼を受ける提携関係を取り付ける。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+
+#endregion
+#div(width=320px,bgcolor=#000033){&font(b,#EAF4FC,120%){　 第一章　離別}}
+#region(開く)
+#size(90%){#table_style(head=center:#000033:#EAF4FC){}
+#table_filter(){出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|&b(){'24/03/19}|&b(){[[無馬>無馬　かな]] [[ALLIN]]離脱&br()[[ARCANA]] [[ALLIN]]から独立}|[[ALLIN]]・[[無馬>無馬　かな]]|[[無馬>無馬　かな]]が[[ALLIN]]を離脱。(詳細は[[無馬>無馬　かな]]頁にて)&br()それに伴い、[[ALLIN]]下部組織から独立。|
+|'24/03/19|[[無馬>無馬　かな]]、[[鬼野>鬼野　ねね]] 個人医就職|[[無馬>無馬　かな]]・[[鬼野>鬼野　ねね]]|個人医として黒と交流を持ちつつ、活動の下地作りを始める。|
+|'24/03/19|ブラックマーケット運営許可|[[ARCANA]]・[[市長>山下　ひろし]]|現在運営している心無きを街から排除する許可を[[市長>山下　ひろし]]から得る。|
+|'24/03/27|新薬の偽装協力|[[DEP]]・[[麻陀羅組]]|協力関係である[[カルテル>DEP]]から、新薬関連の偽装協力を受ける。&br()実行犯として[[麻陀羅組]]構成員に下請けを依頼。|
+|'24/04/03|[[ALLIN]]への最終支援|[[ALLIN]]&br()[[無馬>無馬　かな]]・[[鬼野>鬼野　ねね]]|独立前に約束していた素材&openclose2(show=※){（今回は布とメタルスクラップ）}提供の最終支援が[[鬼野>鬼野　ねね]]を通じて行われる。|
+|'24/04/23|[[無馬>無馬　かな]] 白市民へ|[[無馬>無馬　かな]]|ボス無馬の白市民パス取得に伴い、ARCANA活動に転換期が訪れる。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+
+#endregion
+#div(width=320px,bgcolor=#000033){&font(b,#EAF4FC,120%){　 第二章　暗躍}}
+#region(開く)
+#size(90%){#table_style(head=center:#000033:#EAF4FC){}
+#table_filter(){出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'24/04/23|薬買取を開始|[[ARCANA]]|全ギャングに対し、高額で薬物の買取を始める。|
+|'24/04/25|メイン薬拠点の移転|[[無馬>無馬　かな]]・[[鬼野>鬼野　ねね]]|南のコンテナ埠頭辺りに移転。利便性がアップデートされる。|
+|'24/04/28|ブラックマネー買取開始|[[ARCANA]]|全ギャングに対し、ブラックマネーの等価買取を始める。|
+|'24/04/28|ダークチャット開設|[[無馬>無馬　かな]]・[[鬼野>鬼野　ねね]]|ギャングへの情報共有のため、ダークチャット「#Arcana」開設。|
+|'24/04/30|タトゥー完成|[[ARCANA]]|待望のARCANAタトゥーがついに完成。|
+|'24/05/12|[[MOZU]]薬転売疑惑事件|[[無馬>無馬　かな]]&br()[[タラちゃん>タラ　ちゃん]]・[[月ノ島>月ノ島　ごう]]|薬買取ビジネスにて転売と思わしき行動をした[[銭形>銭形　やいち郎]]を詰める。&br()護衛としてメンバー&openclose2(show=※){（[[辰野 あきら>月ノ島　ごう]]、[[ハイパー ひとり君>タラ　ちゃん]]）}を緊急招集。|
+|'24/05/14|車両関連事業の始動|[[大川>大　川]]|[[大川>大　川]]さんの加入を機に、構想段階であった車両関連事業を始動。&br()[[闇車両協会]]と連携。ブースティング車の購入を開始。|
+|'24/05/20|制服の導入|[[ARCANA]]|衛星外にて数人で服選び。&br()大川セレクションの黒革ジャンを基調とする制服を導入。|
+|'24/05/23|民間軍事事業の発足|[[ARCANA]]|[[ハン>アドミゲス・ハン]]との協力関係構築に伴い傭兵稼業を会社事業へ移行。|
+|'24/05/23|黒興行事業の発足|[[ARCANA]]・[[麻林>麻林　ラル]]|[[麻林>麻林　ラル]]によるイベント企画考案に伴い、企業形態へ移行。|
+|'24/05/25|民間軍事会社設立|[[ARCANA]]・[[ACADEMY]]|傭兵事業を行う機関の名称が「[[ACADEMY]]」に決定。&br()加盟者によって顔合わせが行われる|
+|'24/05/26|薬、BMの買取終了|[[ARCANA]]|ダークチャットにて買取終了のお知らせと新サービスの開始を告知。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+
+#endregion
+#div(width=320px,bgcolor=#000033){&font(b,#EAF4FC,120%){　 第三章　始動}}
+#region(開く)
+#size(90%){#table_style(head=center:#000033:#EAF4FC){}
+#table_filter(){出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'24/05/28|&b(){ARCANA本格始動}|[[ARCANA]]|準備期間を終え本格始動。（UNIONが追加される）|
+|'24/05/28|武器屋事業の発足|[[FEMME FATALE]]|海外の武器商と取引が成功。新武器のサンプルとレシピを入手。&br()サービス開始時期と取引について各ギャングへお知らせに回る。|
+|'24/05/28|[[ACADEMY]]始動|[[ACADEMY]]|ARCANA(無馬)によって各ギャングへ紹介。営業を開始する。|
+|'24/05/28|[[868]]と会議|[[無馬>無馬　かな]]・[[868]]|ギャング限定サービスを利用しようとした[[半グレ>>みこだ　よう]]から[[漏洩者>>芹　沢]]を確認。&br()未遂だったこと、素直に非を認めたことで不問に。貸しを作る。|
+|'24/05/28|拠点移行|[[ARCANA]]|仮住まいだった一軒家から、秘密基地風のアジトへ移行。|
+|'24/05/28|&b(){第一回定例会}|[[ARCANA]]|幹部招集をかけお披露目と定例会を開催。|
+|'24/05/29|[[ハク ナツメ>ハク　ナツメ]]と会議|[[無馬>無馬　かな]]|CC解散による一部団員の受け入れ約束を貸し1にて。|
+|'24/05/31|[[ALLIN]]と契約締結|[[無馬>無馬　かな]]・[[ALLIN]]|島取り限定品である&ruby(エナジードリンク){労働力回復アイテム}の[[専売契約>ARCANA#エナジードリンク専売契約]]を結ぶ。|
+|'24/05/31|[[月ノ屋]]と提供契約|[[月ノ島>月ノ島　ごう]]・[[ARCANA]]|[[月ノ屋]]と[[素材無償提供契約>ARCANA#素材無償提供契約]]を結ぶ。|
+|'24/06/02|武器買取価格制定|[[ARCANA]]|武器買取の価格を制定。価格表を配り始める。|
+|'24/06/11|[[FEMME FATALE]]始動|[[FEMME FATALE]]|輸入武器の受注を開始。正式な武器商職へ。|
+|'24/06/25|[[ACADEMY]]独立|[[ACADEMY]]・[[飯田>飯田 けんつ]]|[[ACADEMY]]解体に即し、所属傭兵の[[飯田>飯田　けんつ]]に水面下にて譲渡。&br()彼のギャング設立を援助する代わりに、設立後は協力関係へ。|
+|'24/07/03|武器買取価格改定|[[ARCANA]]|[[ARCANA]]汎用武器の必要数が足りたため大幅値下げ。&br()各組織へ改訂版価格表の配布開始。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+
+#endregion
+#div(width=320px,bgcolor=#000033){&font(b,#EAF4FC,120%){　 第四章　躍動}}
+#region(開く)
+#size(90%){#table_style(head=center:#000033:#EAF4FC){}
+#table_filter(){出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'24/07/09|&b(){第二回定例会}|[[ARCANA]]|[[柳瀬>柳瀬　つん]]、[[生雲丹>生雲丹　よづな]]の顔見せを兼ねた突発定例会が行われる。|
+|'24/07/09|共有無線の導入|[[ARCANA]]|定例会にて決定。他無線に入っていない場合は繋げる旨を共有。|
+|'24/07/28|&b(){カルテル大規模作戦}|[[無馬>無馬　かな]]、[[鬼野>鬼野　ねね]]、[[小峯>小峯　玲]]、[[ハン>アドミゲス・ハン]]、&br()[[大川>大　川]]、[[柳瀬>柳瀬　つん]]、[[生雲丹>生雲丹　よづな]]、[[柳田>柳田　ライアン]]&br()[[DEP]]|[[カルテル>DEP]]からの護衛依頼にてARCANA総動員の作戦を実施。&br()&openclose2(show= ＞概要){&nbsp(br,2)MOZUを後ろ盾とし、ARCANAへの加盟を断ったカルテルの依頼に対して&nbsp(br,2)精製中の護衛はせず、一度警察へ捕縛させたのちに救助を行う作戦。&nbsp(br,2)ARCANA入りを拒めない形にすることで、カルテルごと飲み込むことが目的。&br()}　&openclose2(show=＞作戦詳細){&nbsp(br,2)DEPが旧MOZUアジトで薬を練っている間、周辺などで待機し、&nbsp(br,2)依頼内容である護衛ポーズをとりつつ秘密裏&openclose2(show=※){&nbsp(br,2)（警察に職質されたら一週間名前が赤ちゃんにする罰ゲームあり）}に動向を監視。&nbsp(br,2)カルテルの後ろ盾であるMOZUの力が及ばず、DEP人員が捕縛&nbsp(br,2)された場合のみ行動を開始。&nbsp(br,2)DEPトップである加藤圧の護送状況を、黒人員&openclose2(show=※){&nbsp(br,2)（鬼野、小峯、ハン、柳瀬、生雲丹、柳田）}にて目視確認。&nbsp(br,2)罪状を切られるまでの時間をARCANA側で把握することによって、&nbsp(br,2)カルテルと警察に対し一番効力のあるタイミングで切り札である&nbsp(br,2)警察への司法取引を持ち掛け救助する作戦。&nbsp(br,2)&openclose2(show=＞司法取引の内容){&nbsp(br,2)：薬精製に使用される中間素材等を違法化したい警察へ、&nbsp(br,6)ARCANAにて所持していた薬精製レシピを渡す見返りに、&nbsp(br,6)加藤圧含むDEPの身柄をARCANAにて引き取る取引。}&br()}|
+|'24/07/28|[[カルテル>DEP]]協力傘下へ|[[DEP]]|ARCANAに身柄を移された[[加藤>加藤　圧]]との取引&openclose2(show=※){&nbsp(br,2)カルテルへの積極的な援助(手始めに施設増設資金50億の即金融資)の代わりに、&nbsp(br,2)加藤のARCANA加入と、それに伴うカルテル事業を協力傘下とする取引。&nbsp(br,2)傘下とする目的であるブラックマーケット構想に加藤が賛同。&br()}が成立。協力関係へ。|
+|'24/07/30&nbsp(br,3)～08/03|[[高橋滅論>高橋　滅論]]騒動発生|[[無馬>無馬　かな]]、[[鬼野>鬼野　ねね]]、[[小峯>小峯　玲]]&br()[[DEP]]|[[DEP]]メンバーである[[高橋>高橋　滅論]]によって、警察の捜査対象となる事案が発生。&br()&openclose2(show= ＞詳細経緯){&nbsp(br,2)先日の事件にて[[無馬>無馬　かな]]が司法取引を行った旨を、高橋が外部に話している事案を&nbsp(br,2)当事者である[[月ノ島>月ノ島　ごう]]が[[鬼野>鬼野　ねね]]へ報告。相談を受けた[[小峯>小峯　玲]]や[[大川>大　川]]が釘指しをした所&nbsp(br,2)高橋の予想外の行動が発動し、[[警察>ロスサントス警察]]が無馬とその周辺を捜査する大事へ発展。&nbsp(br,2)高橋により仕事仲間だとリークされた鬼野も警察の尾行捜査対象となったため、&nbsp(br,2)ロケランの製造中止やアジトへの出入りを控える等、活動に支障が発生。&nbsp(br,2)元々、警察に怪しまれることは想定内としていた無馬であったが、高橋の行動&nbsp(br,2)と被害状況を聞き、[[加藤>加藤　圧]]側DEPへ処遇を要求。現在は、無馬による高橋本人へ&nbsp(br,2)の圧かけが行われた上で、DEPでの処理や今後の動向を見守っている。&br()8/3→ 無馬による、ばれても良いスタンスの共有が行われたこと、高橋本人への&nbsp(br,2)現状聞き取り、尾行を慎重にさせる対警察アクションにて一旦収束。　&br()8/6→ [[加藤>加藤　圧]]より一ヶ月[[E5>E5's BURGER]]で10億稼ぐなどの禊&openclose2(show=※){&nbsp(br,2)・家の鍵、薬材料なども含む全財産の没収&nbsp(br,2)・一ヶ月[[E5>E5's BURGER]]のみで10億稼ぐ&nbsp(br,2)・アルケミーリキッド3万個、クリスタル1万個を加藤さんへ納品&nbsp(br,2)・無馬ノート含むSIMの取り上げ&nbsp(br,2)・禊終了まで坊主＆警察との世間話✕&br()}が言い渡された。}|
+|'24/08/01|[[ACADEMY]]解体|[[ACADEMY]]|譲渡先であった[[飯田>飯田　けんつ]]がギャング設立にて[[ACADEMY]]事業は終了。|
+|'24/08/03|少数精鋭傭兵業 開始|[[小峯>小峯　玲]]、[[ハン>アドミゲス・ハン]]|傭兵事業を担っていた[[ACADEMY]]解体に伴い、&br()[[小峯>小峯　玲]]、[[ハン>アドミゲス・ハン]]を窓口とした少数精鋭の傭兵事業を開始。|
+|'24/08/16|ブラックマーケット準備|[[ARCANA]]、[[ブラックマーケット>ARCANA#ブラックマーケット]]|[[ブラックマーケット>ARCANA#ブラックマーケット]]の店舗予定地となる建物が完成。|
+|'24/08/30|[[武器屋>FEMME FATALE]] 独立試用期間へ|[[無馬>無馬　かな]]、[[FEMME FATALE]]|従業員の[[ティエリ>ヤブ下　安理]]へ経営権を譲渡。&br()責任と新武器開発は[[無馬>無馬　かな]]が請け負ったまま独立に向けた試用期間へ。|
+|'24/09/04|&b(){[[無馬>無馬　かな]]の黒市民復帰}|[[無馬>無馬　かな]]|少数精鋭傭兵業の窓口へ[[無馬>無馬　かな]]も参加。各組織ボスへ営業が行われる。|
+|'24/09/04|ロケラン排除計画 始動||ロケランを排除するためロケランを多用する計画を開始。&br()手始めにメンバーによる20～30個のロケラン筒生産から着手。|
+|'24/09/07&nbsp(br,3)～09/08|[[新犯罪>ロスサントスの犯罪について#金庫強盗]]の検証|[[加藤>加藤　圧]]、[[小峯>小峯　玲]]&br()[[ハン>アドミゲス・ハン]]、[[柳瀬>柳瀬　つん]]、[[無馬>無馬　かな]]|偶然発見した[[加藤>加藤　圧]]からの報告にて、ARCANAで挑戦する流れへ。&br()&openclose2(show= ＞詳細経緯){&nbsp(br,2)[[加藤>加藤　圧]]が偶然受注心無きを発見。[[小峯>小峯　玲]]へ共有と相談が行われ、&nbsp(br,2)その時起きていた黒人員&openclose2(show=※){[[小峯>小峯　玲]]、[[ハン>アドミゲス・ハン]]、[[柳瀬>柳瀬　つん]]}で挑戦するものの、歪みで後日へ持ち越し。&nbsp(br,2)翌日、報告を受けた[[無馬>無馬　かな]]が選定した人員&openclose2(show=※){[[無馬>無馬　かな]]、[[加藤>加藤　圧]]、[[小峯>小峯　玲]]}にて再挑戦。数回の後無事成功。&nbsp(br,2)初見犯罪にて緩い対応をしてくれた警察をその場に置いたまま&nbsp(br,2)様子見に来た[[ウェスカー>アルフォート・ウェスカー]]の装甲車で共に退却。お礼に情報を提供した。}|
+
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion
+#div(width=320px,bgcolor=#000033){&font(b,#EAF4FC,120%){　 第五章　終幕 }}
+#region(開く,open)
+#size(90%){#table_style(head=center:#000033:#EAF4FC){}
+#table_filter(){出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'24/10/18|[[ARCANA計画>ARCANA#ARCANA計画]]の終息||計画を発足させる理由であった、無馬の街で生きる目的が達成。&br()計画は終息させ、事業の引き渡しなど後片づけへ。|
+|'24/11/30|&b(){第三回定例会}|[[ARCANA]]|[[ARCANA計画>ARCANA#ARCANA計画]]の終息を踏まえ、今後の組織活動について会議。&br()ついでに新アジトのお披露目。|
+|'24/11/30|[[ARCANA CITY>ARCANA#ARCANA CITY]]構想||裏事業サービスを一括で受けられる統合型施設の構想を練り始める。|
+|'25/01/26|[[ARCANA CITY>ARCANA#ARCANA CITY]]構想断念|[[小峯>小峯　玲]]、[[大川>大　川]]&br()[[鬼野>鬼野　ねね]]、[[無馬>無馬　かな]]|規模が大きすぎるとのことで統合型施設の構想を断念。&br()可能な限り規模を小さくする方向で再考察。|
+|'25/01/26|組織の解体を検討|[[無馬>無馬　かな]]、|検討したものの、メンバーの希望により残存することに。|
+|'25/01/28|[[武器屋>FEMME FATALE]]の完全譲渡|[[無馬>無馬　かな]]、|[[ティエリ>ヤブ下　安理]]の独立試用期間を終え、経営権を譲渡。|
+|'25/03/07|組織としての活動を終了|[[小峯>小峯　玲]]、[[大川>大　川]]、[[ぬくお>ジョン　ドゥ]]&br()[[鬼野>鬼野　ねね]]、[[無馬>無馬　かな]]|[[無馬>無馬　かな]]が街を去ることが決まり、ARCANA組織として最後の挨拶。&br()「これからも頑張るように、この街で」「精一杯生きなさい」と言葉を残す。|
+|'25/05/25|ARCANA BBQ|[[無馬>無馬　かな]]、[[鬼野>鬼野　ねね]]&br()[[小峯>小峯　玲]]、[[大川>大　川]]|無馬が街を去る日の最後に、起きていたメンバーでBBQ。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion
+
+//
+#right(){&link_up(🔝ページTOPへ)}
+//
+----
+**関連
+***&underdot(#3300CC,3px){&icon_fa(fa fa-brands fa-python)&nbsp(2)街外の出来事　}
+#region(開く)
+#size(90%){#table_style(head=center:#000033:#EAF4FC){日付=right,}
+#table_filter(){出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'25/08/30&br()～08/31|[[ストグラフェス>>https://x.com/STGR_Festival]]|[[無馬>無馬　かな]]、[[鬼野>鬼野　ねね]]&br()[[小峯>小峯　玲]]、[[大川>大　川]]&br()[[麻林>麻林　ラル]]、[[加藤>加藤　圧]]|[[謎解きイベント>>https://x.com/STGR_Festival/status/1962505621032612247]]へひと噛み。&br()資格のある観光客をアジトへ招待。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+
+#endregion(外イベント)
+//
+***&underdot(#3300CC,3px){&icon_fa(fa fa-brands fa-python)&nbsp(2)街外コラボ　}
+#region(開く)
+&font(10px){随時追記中}
+#size(90%){#table_style(head=center:#000033:#EAF4FC){日付=right,}
+#table_filter(){内容=show,関係者=show,エピソード・備考=show}
+|~日付|~内容|~関係者|~エピソード・備考|h
+|'25/02/03|ASKA|叶[[(無馬 かな)>無馬　かな]]、FOXRABBIT[[(小峯 玲)>小峯　玲]]、Bact[[(大川)>大　川]]、寧々丸[[(鬼野 ねね)>鬼野　ねね]]|Arcanaで街作り|
+|'25/02/07|Fast Food Simulator|叶[[(無馬 かな)>無馬　かな]]、FOXRABBIT[[(小峯 玲)>小峯　玲]]、Bact[[(大川)>大　川]]、寧々丸[[(鬼野 ねね)>鬼野　ねね]]|Arcanaでバーガー屋|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+
+#endregion(外コラボ)
+//
+#right(){&link_up(🔝ページTOPへ)}
+//-----<リスナー交流>----------------------------------------------------------------//
+*&font(#E0E0E0){情報提供＆編集相談所}
+情報提供、修正・削除についてはこちら
+【[[コメント履歴>>ARCANA/コメント欄]]】
+#size(50%){　}
+交流は[[公式Discrod>https://w.atwiki.jp/streamergta5/pages/143.html]]の個別チャット「[[アルカナ>>https://discord.gg/6zbbNVwbMe]]」へ
+
+#pcomment(title_name=,1,ARCANA/コメント欄,reply,enableurl,new)
+&aname(commentbtm)
+
+#right(){&link_up(🔝ページTOPへ)}

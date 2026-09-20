@@ -1,0 +1,509 @@
+#slide_img(auto=3,width=300,height=400){しゃっちょ2025.jpg,SKEつなぎ.jpeg,菖蒲 光樹.png}
+
+//ここからプロフィール
+#table_filter(){SEASON1=hide,SEASON2=show}
+#table_color(head=#C77EB5:#FFFFFF)
+|~世界線|~&space()&icon_fa(fa fa-arrow-right-to-city)&space()|~SEASON1|~SEASON2|h
+|~名前|~&icon_fa(fa fa-user fa-fw)|>|&bold(){&ruby(しょうぶ){菖蒲}　&ruby(てるき){光樹}}|
+|~出身地|~&icon_fa(fa fa-earth-asia)|>|日本（北海道）|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>| 6月27日|
+|~転入日|~&icon_fa(fa fa-plane)| 2023年06月24日 (&countup(2023/06/23,d)日経過)|2026年01月10日 (&countup(2026/01/09,d)日経過)|
+|~オーナー|~&icon_fa(fa fa-user-tie)|&openclose2(show=▼一覧){&br()&icon_fa(fa-solid fa-taxi)&space()タクシー会社【[[菖光會]]】&br()&icon_fa(fa-solid fa-bowl-food)&space()会員制高級和食店【[[菖光亭]]】&br()&icon_fa(fa-solid fa-motorcycle)&space()バイクディーラー【[[菖光モータース]]】&br()&icon_fa(fa-solid fa-toolbox)&space()メカニック【[[菖光エンジニア]]】&br()&icon_fa(fa-solid fa-toolbox)&space() &openclose2(show=？？？){闇メカニック}【&openclose2(show=※名称未定){[[（旧GG）>Glare Gem]]}】}|　|
+|~職業|~&icon_fa(fa fa-university fa-fw)|タクシー会社【[[菖光會]]】&br()会員制高級和食店【[[菖光亭]]】&br()バイクディーラー【[[菖光モータース]]】&small(){社長}&br()メカニック【[[菖光エンジニア]]】&br()&size(10){上記会社のオーナーのため、4ジョブ（[[市長>山下　ひろし]]許可済）}&br()&s(){ギャング【[[IRiS]]】ボス}&br()&openclose2(show=？？？){[[FEMME FATALE]]}|&openclose2(show=？？？){[[武器屋（2026/01/11〜）>FEMME FATALE]]}|
+|~所属|~&icon_fa(fa fa-users)|【[[公認勝手にレース協会]]】|　|
+|~Twix|~&icon_fa(fa-solid fa-mobile)|@菖蒲光樹&br()@kame|@teru9232|
+|BGCOLOR(#F9C1CF):COLOR(#666):~プレイヤー|BGCOLOR(#F9C1CF):COLOR(#666):~&icon_fa(fa fa-headphones)|>|てるしゃん@父ノ背中|
+|BGCOLOR(#F9C1CF):COLOR(#666):~告知等|BGCOLOR(#F9C1CF):COLOR(#666):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://twitter.com/teru9232]]|
+|BGCOLOR(#F9C1CF):COLOR(#666):~配信場所|BGCOLOR(#F9C1CF):COLOR(#666):~&icon_fa(fa-solid fa-tower-broadcast)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/teru9232]]&small(){2024/09/13～} |
+|BGCOLOR(#F9C1CF):COLOR(#666):~アーカイブ|BGCOLOR(#F9C1CF):COLOR(#666):~&icon_fa(fa fa-film)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@teru_shan]]&small(){※メンバーシップ限定}&br() &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/teru9232]]&small(){※サブスク限定} |
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+#contents(fromhere=true,level=2)
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*基本情報
+***&underdot(#D2A3CB,3px){&size(17){&color(#C77EB5){&icon_fa(fa-solid fa-plane-arrival)} &bold(){ 街に来た経緯}&space(2)}}
+・2023年の初夏、友人である[[岡崎 馬人>岡崎　馬人]]を頼ってロスサントスへと降り立った。
+・・[[中川 蔵人>中川　蔵人]]と[[猪狩 翔太>猪狩　翔太]]は、岡崎を頼って同時にやってきた仲。
+・市長の後押しもあり、長く社長が不在だったタクシー会社「[[荒川>荒川　拓也]]交通」を2000万円で譲り受け、「運び屋『[[菖光會]]』」として再編した。
+・・「[[菖光會]]」の名前の由来は、自身の名前&bold(){「&color(#F54738){菖}蒲&color(#F54738){光}樹」}に由来する。
+・・ただ、&bold(){再編に際し&color(#F54738){借金が3億ある}ことが判明し、腰が抜けた}。&br()→長きに渡り会社の営業利益から少しづつ借金の返済をしていたが、最終的にタクシー会社社長 [[稲葉 ゴン>稲葉　ゴン]]がロスサントスを旅立つ際に、借金の残高をすべて払い終えていった。
+・・転送後の街での[[タクシー会社HQ（仮）>https://w.atwiki.jp/streamergta5/pages/3420.html]]は[[菖光會]]とは関係のない別の会社である。
+・元ヤクザ、親背組(しんせいぐみ)組長
+・・一緒に街へ来た[[中川 蔵人>中川　蔵人]]や[[猪狩 翔太>猪狩　翔太]]を含め、その後も多数の元・組員が菖蒲の招集を受けてロスサントスを訪れており、人望の厚さが伺える。
+
+***&underdot(#D2A3CB,3px){&size(17){&color(#C77EB5){&icon_fa(fa-solid fa-user-secret)} &bold(){ ギャング IRiS}&space(2)}}
+#region(詳細,close)閉じる
+・運び屋『[[菖光會]]』を設立したのち、裏稼業で稼ぐため設立した[[ギャング]]組織[[IRiS]]のボスであった。
+・・後に菖光グループとして[[菖光亭]]、[[菖光モータース]]、[[菖光エンジニア]]とフロント事業の拡大を実施した経営者でもある。
+・なかなか起きてこないと勘違いされているが実は3日以上、街を空けたことはなく衛星外で花摘みをしたり、クラフトをしたりと会社の為に仕事はしている。
+・2023/11/22に衛星外で行われたIRiSアンダーボスとの話し合い以降は時間を作り、&bold(){できるだけ毎日IRiSメンバーの様子を見に起きてきている。}
+・常にタスク過多で多忙である。ギャンボス業務、フロント企業のオーナー業務、車両協会の他に、本来IRiSの中間管理職がやるべき内容（外交、経費管理、メンバー内メンケア、人材確保、育成フィードバックの指南担当、定例会の取りまとめ、大型の不足ポジ補完、車両や船やヘリ出しetc）までこなす&bold(){超人現場系ボス}。
+・・必要とあらば受注場所へ並び、[[菖光亭]]の在庫作り、バイク新規販売時のガレージ出し、更に空いている時間を作り街中の飲食店へ足を運び、花摘みクラフトまで行っている。
+・・[[菖光亭]]で自動販売機用の“ブリの照焼”の在庫を用意することを、“刑務作業”と呼んでいる。みかねた[[オザワ　ハヤマサ]]が転職して[[菖光亭]]従業員になった。
+・&bold(){隠居ハウス}：2023年師走、インテリアデザイナーにフルオーダーで依頼し、お気に入りの内装（&s(){MLO}）をいれた自宅を、タクシー会社の敷地裏に構えた。市長に一億支払い＆夢マネーの投入をし、しばらく消えなかった周辺の音歪みの工事含む各種調整が完了。しかしながら、隠居が実現出来る日はまだまだ遠そうである。
+・&bold(){IRiS新アジト＆SKE新店舗}：2024年3月下旬、待望の新アジトと、[[SKE>菖光エンジニア]]の２店舗目が同時に竣工し、関係者で内見に向かった。しかし、SKE新店舗については市内周辺の歪みが発生したため、&s(){MLOを丸ごと消されてしまい}再工事になってしまう。現在は市の調整待ちである。それに伴いメカニック関連の事業拡大も現在ストップしている状態である。&small(){&br()※新店舗や事業展開の詳細は[[SKE>菖光エンジニア]]ページへ。}
+・2024年春以降、日本での仕事が再度繁忙期に突入し、現在ロスサントス市への渡航は１週間に１回の頻度である。（衛星外で街にいることも多く、度々タクシー会社付近で地域住民に目撃されている。）
+・&bold(){[[IRiS]]解散}：6月12日。組織運営が困難になったため、カラーギャングIRiSを解散することにした。今後は、オーナーをしている菖光グループフロント事業を展開しつつ過ごす予定。現在は白市民パスの申請中→11月６日白市民パス獲得
+・基本的に素顔を出すことはなく、フルフェイスのヘルメットやマスクなどを使用している。
+・IRiS時代から、元[[MOZU]] のボス[[ヴァン　ダーマー]]とは親交が深く、街で過ごす際に彼と一緒に何かするなら面白そうだと考えている。
+#endregion(IRiSここまで)
+
+***&underdot(#D2A3CB,3px){&size(17){&color(#C77EB5){&icon_fa(fa-solid fa-person-circle-question)} &bold(){ 人物詳細}&space(2)}}
+・仕事も話も早い敏腕経営者。企画やアイディア出しが得意、物事の最適解を叩き出すのが得意なAI気質の仕事ぶり。
+・普段から誰に対しても親しみやすくノリが軽くとにかく優しい。怒ることは滅多にない。
+・・正当性がないことをされた場合のみ激怒することがある（破茶滅茶に怖い。）
+・・効率が悪いことに遭遇するとイライラしてしまうので、時に自制している。
+・バイクや車が大好き。とりわけバイクは街にある全種類をフルカスタム済みで所有している。
+・・[[公認勝手にレース協会]]に参加し、主にバイクレースの企画と運用を行っている。
+・面白いことが大好きで、お茶目で大変いたずら好き。グループ関係者や元[[IRiS]]構成員に無茶苦茶なことをふっかけてよく遊んでいる。
+#region(イタズラエピソード,close)閉じる
+・菖光亭の店頭に立つときは、『&ruby(かめあたま){亀頭}　&ruby(　　　たろう){カメ太郎}』として変装している。菖蒲のペット等適当な設定で客をもてなす。うっかりおすすめ商品を頼むと500万円の高額商品 “菖蒲酒” を売られることがあるので、注意が必要。
+・SKEが多忙な時は稀にメカニックの修理仕事を請け負うこともある。しかし、菖蒲に修理を頼むとオーナー価格の高額請求になり、最大10倍の請求額（全修理で1,400万）になることがあるため、注意が必要。
+・元IRiSの子たちのコンビニ強盗に付いていきコンビニに閉じ込めたり人質を勝手に殺したり、新車にガソリンを撒いて爆発させて遊んだりする。暇すぎるから大型犯罪の現場に連れてってと言ったり、遊びたいからカルテルのクスリを頂戴など言い出す。
+・[[菖光亭]]の商品では、生き物を食べることに罪悪感を抱かせる“食育シリーズ”と銘打った商品パッケージを作成。皆の反応を楽しんでいる。
+#endregion
+
+***&underdot(#D2A3CB,3px){&size(17){&color(#C77EB5){&icon_fa(fa-solid fa-address-card)} &bold(){ 白市民“しゃっちょ”}&space(2)}}
+・IRiS 解散後、相変わらず日本で多忙な日々だが、ロスサントスでは白市民として生活している。現在は主にSKE新店舗を活動拠点としながら、元構成員達やグループ従業員の様子を気にしつつ気ままに過ごす。
+・2025年の年明けからまた街に起きてくることが増えた。街のインフラや市場競争に関していくつか考えていることがあり、諸々やりたいことを始動中である。
+・・主に、白市民と黒市民の存在を明確に分けたうえで、事業の活性化や分業、あるいは街の経済インフラの再構築を検討している。現在構想中の内容一部。&openclose2(show=※ネタバレ注意){&bold(){ &color(#B22D35){闇メカニック事業 / 武器事業 / 街経済に正しく還元する納税システムの導入 / 経営多様化とそれに伴う金融展開 / 新規犯罪の企画と導入 / バイク利用の活性化 etc}} （詳細や関係者との各進捗はアーカイブにて）}
+
+***&underdot(#D2A3CB,3px){&size(17){&color(#C77EB5){&icon_fa(fa-solid fa-comment)} &bold(){ 呼称}&space(2)}}
+・街で過ごすときの表示名は「しゃっちょ」にしていることが多い。
+・「社長」「菖蒲さん」と言われることが多いが、付き合いの長い住民からは様々なあだ名で呼ばれている。
+#region(開く,close)閉じる
+#table_style(head=center:#716791:#fff){配信日=right,#=center}
+|BGCOLOR(#BAA4C4):~&color(#FFFFFF){&icon_fa(fa-solid fa-comment)&space(2)呼び方}|BGCOLOR(#BAA4C4):~&color(#FFFFFF){&icon_fa(fa-solid fa-people-group)&space(2)呼んでいる人}|h
+|BGCOLOR(#443653):~&color(#FFFFFF){社長}|菖光グループ従業員たち、[[小峯　玲]]、[[中川　蔵人]]、[[アドミゲス・ハン]]、[[ゆちゃ　めろでぃ]]|
+|BGCOLOR(#443653):~&color(#FFFFFF){しゃっちょ}|[[レイナ・レアレッタ＝レインハート]]、[[オルカ　トヴォロ]]|
+|BGCOLOR(#443653):~&color(#FFFFFF){菖蒲さん}| [[ヴァン　ダーマ―]]、[[アルフォート　ウェスカー]]|
+|~てるさん|[[猪狩　翔太]]、[[アルフォート　ウェスカー]](初期)、　[[はづき　みゆ]]|
+|~てるちゃん|[[天王寺　京司郎]]|
+|~光樹(てるき)ちゃん|[[アイアンメイデン　三郎太]]|
+|~てるてる|[[家好　にーと]]、[[にし　のん]]、[[なのの　なの]]、[[淀川　てるみ]]、[[ルウ　ギャラクティカ]]、 [[葉具木　グラ]]|
+|~てるんちゅ|[[不二子　キャスパー]]|
+|~社長様|[[イヴ　トワイライト]]|
+|~パパ|[[シュガー　ピーチ]]、[[小豆　最中]]、[[シオコ　リコ]]、[[姫一　夕]]|
+|~てるパパ|[[レイナ・レアレッタ＝レインハート]]&small(){(菖蒲の名前を読めなかったヘラシギにてるパパでいいよと言った。)}、[[ヘラ　シギ]]|
+|~おじき|[[五里坂　阿美羅]]|
+|~るき、るきくん|[[ヘラシギ]]|
+|~バトルてるてる坊主|[[ヘスティア　ゴデス]]|
+|~しゃちょしゃちょ|[[羽山　パティ]]|
+|~しゃちょさん|[[羽山　ペティ]]|
+#endregion
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+#include(菖蒲　光樹/菖光グループ)
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*所有車両一覧
+#div(width=200px,bgcolor=#C77EB5){&size(17){&font(b,#FFFFFF){　SEASON 1}}}
+#co{
+◆アイコン検索用＞https://fontawesome.com/icons
+◆参考サイト＞https://w.atwiki.jp/gtav/pages/26.html
+◆車両関係に詳しくないため、間違っていた際には正しい情報に編集して頂けると助かります🙏🏻
+}
+
+#region(開く,close)閉じる
+&bold(){【自動車 or バイク}】
+24年1月の時点でガレージアプリでは70台以上の所有がある。
+バイクは[[菖光モータース]]で販売出来るこの街の全種類を購入しており、フルカスタム済みで所有している。
+&small(){※追記編集、ぜひお願いします！}
+
+#areaedit
+#table_style(head=#674196:#FFF,center)
+|~購入日|&icon_fa(fa fa-motorcycle) or &icon_fa(fa fa-car)|~車両名|~備考|h
+|23/06/26|&icon_fa(fa fa-motorcycle)|WMC Nightblade|新車購入|
+|(23/06/26)&br()23/09/13|&icon_fa(fa fa-car)|Vapid Minivan Custom|6/26購入ではなく[[山本　龍也]]からレンタル&br()9/13山本が[[IRiS]]を抜ける時が近づいてきたことで返却について確認したところ、&br()山本は菖蒲に譲渡すると言った。|　　　
+|23/07/13|&icon_fa(fa fa-car)|Bravado Rumpo Custom|新車購入|
+|23/07/24|&icon_fa(fa fa-car)|Bravado Youga Classic|boostingのコインで取得、07/26[[ゆちゃ　めろでぃ]]に貸与|
+|23/08/02|&icon_fa(fa fa-motorcycle)|LCC Sanctus|新車購入|
+|23/08/04|&icon_fa(fa fa-car)|Bravado Youga Classic|boostingのコインで取得、08/07[[半沢　直ふぃ]]に貸与|
+|23/08/05|&icon_fa(fa fa-car)|Declasse Draugur|新車購入|
+|23/08/19|&icon_fa(fa fa-motorcycle)|Shitzu Hakuchou Drag|新車購入|
+|23/08/20|&icon_fa(fa fa-car)|Obey 10F Widebody|新車購入|
+|(23/08/21)|&icon_fa(fa fa-car)|Bravado Rumpo Custom|[[半沢　直ふぃ]]からレンタル|
+|23/08/26|&icon_fa(fa fa-motorcycle)|Nagasaki Shinobi|新車購入|
+|23/08/26|&icon_fa(fa fa-motorcycle)|Pegassi Bati 801|新車購入|
+|23/09/09|&icon_fa(fa fa-motorcycle)|Bike Cruiser|特に何も情報がなく、知らない間に誰かが移送してきた。|
+|23/09/09|&icon_fa(fa fa-car)|Karin Sultan Classic Custom|[[須藤　冬馬]]から中古車を購入。|
+|23/09/10|&icon_fa(fa fa-motorcycle)|Dinka Thrust|新車購入|
+|23/09/12|&icon_fa(fa fa-motorcycle)|Nagasaki Chimera|新車購入|
+|23/09/12|&icon_fa(fa fa-car)|Zirconium Journey|新車購入|
+|23/09/13|&icon_fa(fa fa-car)|Pfister Neon|新車購入|
+|23/09/16|&icon_fa(fa fa-car)|Toros|新車購入|
+|23/09/16|&icon_fa(fa fa-motorcycle)|Esskey|新車購入|
+|23/09/16|&icon_fa(fa fa-motorcycle)|Diablous Custom|新車購入|
+|23/09/16|&icon_fa(fa fa-motorcycle)|Diablous|新車購入|
+|23/09/16|&icon_fa(fa fa-car)|Zirconium Journey|新車購入|
+|23/09/18|&icon_fa(fa fa-car)|Bravado Rumpo Custom|新車購入|
+|23/09/18|&icon_fa(fa fa-car)|Zirconium Journey|新車購入|
+|23/09/18|&icon_fa(fa fa-car)|Speed Custom|新車購入|
+|25/02/07|&icon_fa(fa fa-motorcycle)|Bosozoku|新車購入|
+|25/02/07|&icon_fa(fa fa-car)|Remus Ⅱ |新車購入。猪狩と中川におすすめされたドリ車。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+#table_autoincrement(){label=No.}
+//
+****【船舶】
+#table_style(head=#674196:#FFF,center)
+|~購入日| &icon_fa(fa fa-ship)|~車両名|~備考|h
+|23/09/03|&icon_fa(fa fa-ship)|Longfin|新造船購入|
+|23/09/03|&icon_fa(fa fa-ship)|Squalo|新造船購入|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+#table_autoincrement(){label=No.}
+//
+****【ヘリコプター or 航空機】
+#table_style(head=#674196:#FFF,center)
+|~購入日|&icon_fa(fa-solid fa-helicopter) or &icon_fa(fa fa fa-plane)|~車両名|~備考|h
+|23/09/08|&icon_fa(fa-solid fa-helicopter)|Frogger|新機体購入|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+#table_autoincrement(){label=No.}
+
+****【過去保有車両一覧】
+#table_style(head=#cab8d9:#674196,center)
+|~売却or譲渡日|&icon_fa(fa fa-motorcycle)or&icon_fa(fa fa-car)|~車両名|~備考|h
+|23/07/10|&icon_fa(fa fa-car)|2017 Nissan Titan Warrior|23/06/30新車購入。[[ヴァン　ダーマー]]に売却|
+|23/08/19|&icon_fa(fa fa-motorcycle)|ホンダ　モンキー|23/06/24新車購入。街の法律改定に伴い売却|
+|23/08/19|&icon_fa(fa fa-car)|2013 Lamborghini Aventador LP700-4 Roadster|23/07/16新車をローンを組んで購入。街の法律改定に伴い売却|
+|23/08/19|&icon_fa(fa fa-motorcycle)|GSX R1000R|23/07/21新車購入。街の法律改定に伴い売却|
+|23/09/01|&icon_fa(fa fa-car)|Nissan Silvia S15 Spec-R|23/06/29[[山本　龍也]]から中古購入。07/12~07/14まで[[アドミゲス・ハン]]に貸与。&br()街の法律改定に伴う売却期限を過ぎたため、強制押収された。| 　
+|23/09/01|&icon_fa(fa fa-motorcycle)|ホンダ　モトコンポ|23/07/15新車購入。街の法律改定に伴う売却期限を過ぎたため、強制押収された。|
+|23/09/09|&icon_fa(fa fa-car)|Pegassi Zentorno|2023/09/04[[街雄　サンリ]]がゲロったことで、[[菖光會]]=[[IRiS]]と警察に認識されてしまい、&br()誠意を見せるために2億円を納めさせることにしたが、手持ちがないため所有車両を担保とした。&br()9/9[[街雄　サンリ]]が菖蒲に2億円を納めたので返却した。|
+|23/09/09|&icon_fa(fa fa-motorcycle)|Shitzu Hakuchou Drag|2023/09/04[[街雄　サンリ]]がゲロったことで、[[菖光會]]=[[IRiS]]と警察に認識されてしまい、&br()誠意を見せるために2億円を納めさせることにしたが、手持ちがないため所有車両を担保とした。&br()9/9[[街雄　サンリ]]が菖蒲に2億円を納めたので返却した。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+#table_autoincrement(){label=No.}
+#areaedit(end)
+#endregion
+
+#div(width=200px,bgcolor=#C77EB5){&size(17){&font(b,#FFFFFF){　SEASON 2}}}
+
+#region(開く,close)閉じる
+****【車両】
+#table_style(head=#674196:#FFF,center)
+|~購入日|&icon_fa(fa fa-motorcycle) or &icon_fa(fa fa-car)|~車両名|~備考|h
+|26/mm/dd|&icon_fa(fa fa-car)|名前|新車購入|
+//|26/mm/dd|&icon_fa(fa fa-motorcycle)|名前|新車購入|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+#table_autoincrement(){label=No.}
+#endregion
+
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+*エピソード
+&small(){※一行からでも助かります！追記・編集どなたでも大歓迎、ご協力お願いします！&br()Season １ の過去エピソード追加編集は、[[こちら>菖蒲　光樹/S1EP]]からお願いします。}
+//※アーカイブがメンバー限定コンテンツのため、可能な限りその日に起きた出来事を細かく記載しております。
+
+#include(菖蒲　光樹/S1EP)
+
+#div(width=200px,bgcolor=#C77EB5){&size(17){&font(b,#FFFFFF){　SEASON 2}}}
+
+//◆◆◆◆◆◆◆◆◆◆
+***2026年
+#region(開く,open)閉じる
+//
+#region(1月,open)1月
+****01/10　[[ストグラS2 1日目>>https://www.twitch.tv/videos/2666312181]]
+#region(開く)閉じる
+・転送された街で初めて起床。twixアカウントを作成し、ポスト。
+|&font(11,#aaa){@teru9232}&br()知り合い連絡欲しい&br()2058464909|
+・小峯さんから着信。何もわからないので大川さんに色々聞いたらよいと連絡をつけてもらう。
+・大川さんと合流。街の現状をざっくり説明してもらう。
+#endregion(1/10)
+//
+****01/11　[[ストグラS2  2日目 武器屋に接触したい>>https://www.twitch.tv/teru9232/v/2667289566]]
+#region(開く,open)閉じる
+・エピソード募集
+#endregion
+//
+****01/15　[[ストグラS2  3日目 シンプルにお金欲しい>>https://www.twitch.tv/teru9232/v/2670661729]]
+#region(開く,open)閉じる
+・エピソード募集
+#endregion
+
+//****01/DD　[[ストグラS2 X日目>>URL]]
+//#region(開く)閉じる
+//・エピソード募集
+//#endregion
+
+#endregion(1月)
+
+#endregion(2026年に対応)
+//
+//■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+*アーカイブ
+&small(){&font(#c53d43,){&icon_fa(fa fa-youtube-play)}　旧YouTube のアーカイブはメンバー限定コンテンツです&br()&font(#6441A4){&icon_fa(fa fa-twitch)}　2024年9月以降はTwitchでの配信です。配信アーカイブはサブスクメンバー加入でご覧いただけます。}
+
+#div(width=200px,bgcolor=#C77EB5){&size(17){&font(b,#FFFFFF){　SEASON 1}}}
+&font(12px,#C77EB5){●&space()}&bold(){2023年}
+#region(開く)閉じる
+#region(6月,close)6月
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/06/24|1|[[この街に引っ越してきました。>>https://www.youtube.com/watch?v=OTmTII32UU0]]||
+|06/25|2|[[この街に引っ越してきて2日目>>https://www.youtube.com/watch?v=LhLrnlc3Psg]]||
+|06/26|3|[[ひとまずタクシー運転手になった>>https://www.youtube.com/watch?v=vzdb7mir_SU]]||
+|06/27|4|[[4日目　新しい住人が来るらしい。>>https://www.youtube.com/watch?v=imADYBXEsms]]||
+|06/27|4.5|[[4.5日目　新しい住人が来るらしい。>>https://www.youtube.com/watch?v=NBdYimA07T8]]||
+|06/28|5|[[起業資金を貯める？>>https://www.youtube.com/watch?v=FW-zxPYUUw8]]||
+|06/29|6|[[市長の勧誘でタクシー会社起業したのに借金三億円とか聞いてないんですけど！？！？>>https://www.youtube.com/watch?v=6h_RZStBPTU]]||
+|06/30|7|[[借金三億円あるので本格的に金策考える…>>https://www.youtube.com/watch?v=nsfg52eUnZA]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+#region(7月,close)7月
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/07/01|8|[[借金三億円のタクシー会社社長>>https://www.youtube.com/watch?v=KHTi3kamRO4]]||
+|07/03|9|[[借金三億円のタクシー会社社長>>https://www.youtube.com/watch?v=26j9OlG1Dkg]]||
+|07/04|10|[[会社の借金三億円の件について市長に聞きに行く。>>https://www.youtube.com/watch?v=C6efgkGUwS8]]||
+|07/05|11|[[借金三億でタクシー10台貰った。>>https://www.youtube.com/watch?v=buweWO_8YbQ]]||
+|07/06|12|[[借金三億　運び屋 菖光會>>https://www.youtube.com/watch?v=RDIOhVMIodc]]||
+|07/07|13|[[ランボルギーニ欲しいー　借金三億 運び屋 菖光會>>https://www.youtube.com/watch?v=eVBHXEuhSJ8]]||
+|07/08|14|[[日本から元構成員呼んだから迎えに行く>>https://www.youtube.com/watch?v=QxEcOOZtbcY&t=11s]]||
+|07/09|15|[[この街最大勢力に>>https://www.youtube.com/watch?v=HI5aeH1xX0E]]||
+|07/10|16|[[ギャングやるかあ？>>https://www.youtube.com/watch?v=pFHZWQOwET4]]||
+|07/11|17|[[連日人が増えるタクシー会社>>https://www.youtube.com/watch?v=NNmjqPCxeQc]]||
+|07/12|18|[[馬の免許ほしい>>https://www.youtube.com/watch?v=Niq3U06zgn4]]||
+|07/13|19|[[タクシー積載量1200から150に………>>https://www.youtube.com/watch?v=bz7ALlWPOkU]]||
+|07/14|20|[[不動産と市長を探しながらお仕事>>https://www.youtube.com/watch?v=KAOlSHEFtUQ&t=5s]]||
+|07/14|20.5|[[不動産と市長を探しながらお仕事>>https://www.youtube.com/watch?v=pYiaBrDiWwE]]||
+|07/15|21|[[ゆっくりと暗躍>>https://www.youtube.com/watch?v=4pvcqCa5BrA]]||
+|07/16|22|[[ランボローン契約と諸々準備>>https://www.youtube.com/watch?v=_dt7OUpJ9wI]]||
+|07/17|23|[[市長がいればギャン進める>>https://www.youtube.com/watch?v=fb6Ih8_65lA]]||
+|07/18|24|[[のんびりお金稼ぎ>>https://www.youtube.com/watch?v=HP8CvLgqI1E]]||
+|07/19|25|[[借金返済のためにお金稼ぎ>>https://www.youtube.com/watch?v=uaThfv1T_2s]]||
+|07/20|26|[[借金エグいからお金稼ぎ！市長いればギャン進める！>>https://www.youtube.com/watch?v=a8kyulCIC24]]||
+|07/21|27|[[借金エグいからお金稼ぎ！市長いればギャン進める！>>https://www.youtube.com/watch?v=gyIvhRl8rRI]]||
+|07/22|28|[[ブースティングランク上げ→裏レース>>https://www.youtube.com/watch?v=zWSK-A9f1OY]]||
+|07/23|29|[[のんびりルーティン>>https://www.youtube.com/watch?v=v85bieMMAAg]]||
+|07/24|30|[[街に来て1ヶ月。借金は4億。>>https://www.youtube.com/watch?v=k6r5_ijJLt0&t=865s]]||
+|07/25|31|[[街に来て1ヶ月。借金は4億。>>https://www.youtube.com/watch?v=gJ6zM8pTP5I]]||
+|07/26|32|[[そろそろランボルギーニの借金返したい所存>>https://www.youtube.com/watch?v=n-ru-sXh6XA]]||
+|07/27|33|[[毎日職質&免停食らった。>>https://www.youtube.com/watch?v=bhP1HmRttQw&t=22084s]]||
+|07/28|34|[[免停3日目。>>https://www.youtube.com/watch?v=6QkFhyL1snM&t=17614s]]||
+|07/29|35|[[ランボルギーニのローン返済>>https://www.youtube.com/watch?v=Dv_z7_dpeek]]||
+|07/30|36|[[24時市長に会う。>>https://www.youtube.com/watch?v=0cRzMSUle_0]]||
+|07/31|37|[[ギャン始動。高級飲食、バイクディーラー、バイクメカニックの準備>>https://www.youtube.com/watch?v=DmZo0CD8I_I]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+#region(8月,close)8月
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/01|38|[[色々忙しくなってきた。>>https://www.youtube.com/watch?v=hONsyNJ77r8]]||
+|08/02|39|[[ギャンと飲食準備完了。>>https://www.youtube.com/watch?v=huxrNQHz5No&t=225s]]||
+|08/03|40|[[資金集め>>https://www.youtube.com/watch?v=3eSOW3mypZQ]]||
+|08/04|41|[[アレのレシピ試す。>>https://www.youtube.com/watch?v=NcGmb00zA6M&t=19231s]]||
+|08/05|42|[[準備>>https://www.youtube.com/watch?v=p0_p8-fanTo]]||
+|08/06|43|[[色々作業>>https://www.youtube.com/watch?v=uNY4Qgiv7TM]]||
+|08/07|44|[[タクシー会社が……>>https://www.youtube.com/watch?v=2TcvSYgLhEE]]||
+|08/08|45|[[明日から少し日本に帰ります>>https://www.youtube.com/watch?v=kK_msfD-UXk]]||
+|08/11|48|[[日本からロスサントスに帰ってきた（眠い）>>https://www.youtube.com/watch?v=qpLnqGDqUzA]]|※#46,#47の2日間は日本に帰国したのでスキップしている。|
+|08/19|49|[[やること多すぎなのでちょっとだけ>>https://www.youtube.com/watch?v=cJjVDFVMIAc]]||
+|08/20|50|[[街雄の件＆峠を見に行く>>https://www.youtube.com/watch?v=pZC1gIEO6LE]]||
+|08/21|51|[[Iris会議>>https://www.youtube.com/watch?v=T6fL44iNCnE]]||
+|08/22|52|[[日本から元構成員呼んだ>>https://www.youtube.com/watch?v=uHLxoNFXFZc]]||
+|08/23|53|[[そろそろ大型ミッションやりたみ>>https://www.youtube.com/watch?v=TSE4Cfp1niE]]||
+|08/24|54|[[今日はお花摘めるかな？>>https://www.youtube.com/watch?v=ZN5ntOZACyo]]||
+|08/25|55|[[IRiS集金日>>https://www.youtube.com/watch?v=mgNcNcKEoyM]]||
+|08/26|56|[[抗争準備>>https://www.youtube.com/watch?v=7sb-6mt3Jcs]]||
+|08/27|57|[[一周年パレード！！>>https://www.youtube.com/watch?v=9OlPWMGZxMM]]||
+|08/28|57|[[IgnusかReaper買うために4億円貯める>>https://www.youtube.com/watch?v=fE3XF1TUME0]]|配信#57が重複しているので以降の＃は＋1日が正しい。|
+|08/29|58|[[ミッション行く・IgnusかReaper買うために4億円貯める>>https://www.youtube.com/watch?v=TZLNQaG0w2c]]||
+|08/31|59|[[やったことないミッションするIgnusかReaper買うために4億円貯める>>https://www.youtube.com/watch?v=xzrnpHuqCyE]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+#region(9月,close)9月
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/01|60|[[初めての指名手配なう>>https://www.youtube.com/watch?v=axe8o7h4qIE]]||
+|09/02|61|[[まだやってないことやる>>https://w.atwiki.jp/streamergta5/pedit/465/0-5-10]]||
+|09/03|62|[[今日はのんびりしたいなあ>>https://www.youtube.com/watch?v=2aA0wIx1U4g]]||
+|09/04|63|[[昨日できなかったことやる>>https://www.youtube.com/watch?v=A8CkWCH6FNM&t=5885s]]||
+|09/05|64|[[バイク屋立ち上げ進めたい>>https://www.youtube.com/watch?v=pJGh4kBdRVE]]||
+|09/06|65|[[ついにこちらから抗争を仕掛けることになりました>>https://www.youtube.com/watch?v=C6u_eVac7xo]]||
+|09/07|66|[[MOZUとの抗争準備>>https://www.youtube.com/watch?v=zgNO3r-H444]]||
+|09/08|67|[[今日もなにか起こるかも>>https://www.youtube.com/watch?v=Yr6g5in1I2E]]||
+|09/09|68|[[抗争MTG>>https://www.youtube.com/watch?v=Ziy-IT-aSTM]]||
+|09/10|69|[[抗争前夜>>https://www.youtube.com/watch?v=YCKDsmDrQgM]]||
+|09/10|69.5|[[抗争前夜（やり残したこと片付けるだけ）>>https://www.youtube.com/watch?v=caM-xWF6gtE]]||
+|09/11|70|[[IRiS vs MOZU 抗争>>https://www.youtube.com/watch?v=jkrJG4Kr0N4]]||
+|09/12|71|[[抗争から一夜明けて>>https://www.youtube.com/watch?v=GuEeXU_4Q7Y]]||
+|09/13|72|[[エリア塗り替え>>https://www.youtube.com/watch?v=pgsOs08F0gs]]||
+|09/15|73|[[雑務だけ>>https://www.youtube.com/watch?v=F47PzdianZo]]||
+|09/16|74|[[バイク屋準備したり色々>>https://www.youtube.com/watch?v=IFXLwoeJj9w&t=28291s]]||
+|09/18|75|[[一日いなかった街どうなった？>>https://www.youtube.com/watch?v=Mya2G9f6ew0]]||
+|09/19|76|[[明日バイク屋＆バイクメカニックがオープン>>https://www.youtube.com/watch?v=9FoLkvgejts]]||
+|09/20|77|[[バイク屋＆メカニックがオープン>>https://www.youtube.com/watch?v=CBLp_K_xjsk]]||
+|09/21|78|[[バイク屋オープン２日目>>https://www.youtube.com/watch?v=F9hCKRD8N-8]]||
+|09/25|79|[[３日留守にした街どうなった？>>https://www.youtube.com/watch?v=AAgwouR9g9w]]||
+|09/26|80|[[遅起き>>https://www.youtube.com/watch?v=3-PN5Z8Q3Nw]]||
+|09/27|81|[[今日は何をしようか>>https://www.youtube.com/watch?v=OxBrBhm5x2A]]||
+|09/28|82|[[IRIS三人増えて合計16名になりました>>https://www.youtube.com/watch?v=4qHNmSS7aWw]]||
+|09/29|83|[[明日北海道で仕事なので早寝します。>>https://www.youtube.com/watch?v=VWO52Vb3_Ks]]||
+|09/30|84|[[花摘現場を通報した奴がいるらしい>>https://www.youtube.com/watch?v=8NQrKlGV3f0]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+#region(10月,close)10月
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/1|85|[[花摘現場を通報ニキ探し>>https://www.youtube.com/live/DTxhhPCnIM0?feature=shared]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion(2023ここまで)
+//---------------------------------------------
+
+&font(12px,#C77EB5){●&space()}&bold(){2024年}
+#region(開く,close)閉じる
+#region(9月,close)閉じる
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/13|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[10年ぶりくらいに配信するかも【テスト配信】>>https://www.twitch.tv/videos/2250165403]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(9月ここまで)
+//
+#region(11月,close)閉じる
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|11/06|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラ白市民1日目>>https://www.twitch.tv/videos/2294993309]]||
+|11/07|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラ白市民になって2日目>> https://www.twitch.tv/teru9232/v/2295850178]]||
+|11/08|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラ白市民になって3日目 バイクの調整>>https://www.twitch.tv/teru9232/v/2296722569]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(11月ここまで)
+//
+#region(12月,close)閉じる
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/10|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】ギャングボスから白市民になって4日目 雪道>>https://www.twitch.tv/teru9232/v/2323157364?sr=a]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(12月ここまで)
+#endregion(2024ここまで)
+//---------------------------------------------
+
+&font(12px,#C77EB5){●&space()}&bold(){2025年}
+#region(開く)閉じる
+#region(1月〜3月,close)1月〜3月
+#areaedit
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|01/08|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって5日目【新店舗】>>https://www.twitch.tv/videos/2347562427]]||
+|02/06|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって6日目【ちょっとだけ】>>https://www.twitch.tv/videos/2373988682]]||
+|02/17|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって7日目【車いじりたい】>>https://www.twitch.tv/videos/2382716533]]||
+|02/21|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって8日目>>https://www.twitch.tv/videos/2387155594]]||
+|02/22|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって9日目>>https://www.twitch.tv/videos/2388101541]]||
+|02/23|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって10日目【早起き早寝予定】>>https://www.twitch.tv/videos/2388944447]]||
+|02/25|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって11日目【車いじるかレースか】>>https://www.twitch.tv/videos/2390738972]]||
+|02/26|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって12日目>>https://www.twitch.tv/teru9232/v/2391532849]]||
+|02/27|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって13日目>>https://www.twitch.tv/teru9232/v/2392394945]]||
+|03/05|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって14日目【PC変えた、レーシック変えた、選挙行く】>>https://www.twitch.tv/teru9232/v/2397693885]]||
+|03/07|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって15日目【新車試す】>>https://www.twitch.tv/teru9232/v/2399403727]]||
+|03/08|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって16日目>>https://www.twitch.tv/teru9232/v/2400315460]]||
+|03/09|#|&font(#6441A4){&icon_fa(fa fa-twitch)}①[[ギャングボスから白市民になって17日目【早起早寝】>>https://www.twitch.tv/teru9232/v/2401118297?sr=a]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}②[[ギャングボスから白市民になって17日目【早起早寝】>>https://www.twitch.tv/teru9232/v/2401120402]]||
+|03/11|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって18日目>>https://www.twitch.tv/videos/2402851699]]||
+|03/12|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって19日目【バイク関係の作業回】>>https://www.twitch.tv/videos/2403707731]]||
+|03/13|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって20日目【車両展示会】>>https://www.twitch.tv/videos/2404526349]]||
+|03/14|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって21日目>>https://www.twitch.tv/videos/2405423410]]||
+|03/15|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって22日目>>https://www.twitch.tv/videos/2406251434]]||
+|03/16|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって23日目【新商品開発】>>https://www.twitch.tv/videos/2407268349]]||
+|03/18|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって24日目【メカ、飲食、バイクD、タクシー】>>https://www.twitch.tv/videos/2408854059]]||
+|03/19|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって25日目【闇メカ動かしたい】>>https://www.twitch.tv/videos/2409703697]]||
+|03/20|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって26日目【猪狩】>>https://www.twitch.tv/videos/2410626810]]||
+|03/21|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって27日目>>https://www.twitch.tv/teru9232/v/2411418378]]||
+|03/22|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって28日目>>https://www.twitch.tv/teru9232/v/2412333907]]||
+|03/23|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって29日目>>https://www.twitch.tv/teru9232/v/2413296244]]||
+|03/25|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって30日目>>https://www.twitch.tv/teru9232/v/2414918899]]||
+|03/26|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって31日目【暗躍】>>https://www.twitch.tv/teru9232/v/2415804388]]||
+|03/27|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって32日目【武器屋の構想】>>https://www.twitch.tv/teru9232/v/2416650085]]||
+|03/28|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって33日目【勧誘】>>https://www.twitch.tv/teru9232/v/2417491656]]||
+|03/29|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって34日目【だいぶグレー市民になってきた】>>https://www.twitch.tv/teru9232/v/2418400366]]||
+|03/30|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャングボスから白市民になって35日目【ちょろっと】>>https://www.twitch.tv/videos/2419400834]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+#endregion(1-3月ここまで)
+//
+#region(4月〜6月,close)4月〜6月
+#areaedit
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,#=center}
+|~配信日|~配信タイトル|~アーカイブ|~備考|h
+|04/01|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】？？？日目【ぱられ・ル… …!?】>>https://www.twitch.tv/videos/2420359467]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[？？？日目【ぱられ・ル… …!?】 >>https://youtu.be/M9SgKd5-HE0?si=4C8gU8G8jMqp3H9J]]| [[ストグラシャッフルパージデー × 〇〇してはいけない]] |
+|~|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ】？？？？日目【覇王IRiS】>>https://www.twitch.tv/videos/2421044456 L]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[？？？？日目【覇王IRiS】 >>https://youtu.be/GvCIYV0wdsw?si=buyuzNAapUsQ-Cb5]]|~|
+|04/03|&font(#6441A4){&icon_fa(fa fa-twitch)}[[36日目【酔】>>https://www.twitch.tv/videos/2422769410]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[36日目【ペティ】 >>https://youtu.be/SPr4jQgN0OM?si=WtJtobFZI0fIuBS5]]| |
+|04/04|&font(#6441A4){&icon_fa(fa fa-twitch)}[[37日目【SKEの新社長とか諸々進めたい】>>https://www.twitch.tv/videos/2423623480]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[37日目【SKEの新社長とか諸々進めたい】 >>https://youtu.be/_-2qJmBaoPY?si=wrKMp_Z7Amg6smOm]]| |
+|04/05|&font(#6441A4){&icon_fa(fa fa-twitch)}[[38日目【SKE公式レースとか】>>https://www.twitch.tv/videos/2424589983]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[38日目【SKE公式レースとか】 >>https://youtu.be/HLQ-FvfPmeI?si=bjUU9kHBR-D0yZFu]]| |
+|04/06|&font(#6441A4){&icon_fa(fa fa-twitch)}[[39日目【レース協会とか色々】>>https://www.twitch.tv/videos/2425536694]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[39日目【レース協会とか色々】4月6日>>https://youtu.be/_DgM2nDthnA?si=v9koIEqyUOORsIKk]]|20:15〜|
+|~|&font(#6441A4){&icon_fa(fa fa-twitch)}[[39日目【レース協会とか色々】>>https://www.twitch.tv/videos/2425619620]]|~|22:40〜 |
+|~|&font(#6441A4){&icon_fa(fa fa-twitch)}[[39日目【レース協会とか色々】>>https://www.twitch.tv/videos/2425711270]]|~| |
+|04/08|&font(#6441A4){&icon_fa(fa fa-twitch)}[[40日目【バイクレースのコースとか】>>https://www.twitch.tv/videos/2427249132]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[40日目【バイクレースのコースとか】 >>https://youtu.be/j5xJlRUDWYo?si=w3zmusPhXlyihDqx]]| |
+|04/09|&font(#6441A4){&icon_fa(fa fa-twitch)}[[41日目【今日こそコースつくる】>>https://www.twitch.tv/videos/2428103777]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[41日目【今日こそコースつくる】 >>https://youtu.be/RRFIf4FjKU0?si=YugTCIcqJmbC0OAj]]| |
+|04/10|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民42日目【車両展示会とその他雑務】>>https://www.twitch.tv/videos/2428969272]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ギャンボス→白市民42日目【車両展示会とその他雑務】 >>https://youtu.be/PLOmAR6jCLY?si=MKW_zgeHPGHGTgWp]]| |
+|04/11|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民43日目【遅番】>>https://www.twitch.tv/videos/2430058471]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ギャンボス→白市民43日目【遅番】 >>https://youtu.be/0ExTzdQxhRs?si=bhRbCnFT_661Oarn]]| |
+|04/12|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民44日目【SKE周辺】>>https://www.twitch.tv/videos/2430780202]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ギャンボス→白市民44日目【SKE周辺】 >>https://youtu.be/h7FRy3HtG7o?si=RaYf5bdxFOdT4YW3]]| |
+|04/13|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民45日目>>https://www.twitch.tv/videos/2431648900]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[ギャンボス→白市民45日目 >>https://youtu.be/iCS3RAy7J20?si=Gemzkb-95Aoxhbxe]] | |
+|04/15|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民46日目【サウナに商品卸したり】>>https://www.twitch.tv/videos/2433434135]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ギャンボス→白市民46日目【サウナに商品卸したり】 >>https://youtu.be/KH4Tikui5eM?si=5_H2wg63ua8Srbhf]]| |
+|04/16|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民47日目【ブースティングの鬼とSKE周辺】>>https://www.twitch.tv/videos/2434281758]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ギャンボス→白市民47日目【ブースティングの鬼とSKE周辺】 >>https://youtu.be/9u2Ue-eZmWs?si=i5H6OWtUHb-_R_Sg]]| |
+|04/17|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民48日目【車両展示会の日バイク性能更新】>>https://www.twitch.tv/videos/2435142414]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[ギャンボス→白市民48日目【車両展示会の日バイク性能更新�� >>https://youtu.be/Zwp-LpTefNg?si=fi1fs7abbyntoK5x]]| |
+|04/18|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民49日>>https://www.twitch.tv/videos/2436032897]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|04/19|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民50日目>>https://www.twitch.tv/videos/2436977569]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|04/20|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民51日目>>https://www.twitch.tv/videos/2437904005]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|04/22|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民52日目 【きのこ】>>https://www.twitch.tv/videos/2439557308]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|04/23|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民53日目 >>https://www.twitch.tv/videos/2440391319]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|04/24|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民54日目 【車両展示会→抽選会→オークション】>>https://www.twitch.tv/videos/2441244452]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|04/25|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民55日目 【Sまであと160台】>>https://www.twitch.tv/videos/2442175293]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|04/26|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民56日目 【武器商人修行スタート】>>https://www.twitch.tv/videos/2442997586]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|04/27|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民57日目 >>https://www.twitch.tv/videos/2443941524]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|04/29|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民58日目 【車両調査と修理費値段調整、武器取引、ブースティング】>>https://www.twitch.tv/videos/2445630543]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|04/30|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民59日目 【後少しでSランク】>>https://www.twitch.tv/videos/2446460326]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|05/01|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民60日目【車両関係の日】>>https://www.twitch.tv/teru9232/v/2447392204]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|05/11|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民68日目【レース協会】>>https://www.twitch.tv/teru9232/v/2456030187]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|05/13|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民69日目【SKE1日でいくら稼げる？】>>https://www.twitch.tv/teru9232/v/2457602646]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|05/14|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民70日目【SKE常駐の日】>>https://www.twitch.tv/teru9232/v/2458472671]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|05/15|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民71日目【車両関係の日】>>https://www.twitch.tv/teru9232/v/2459327477]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|05/17|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民72日目【遅番】>>https://www.twitch.tv/teru9232/v/2461097529]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|05/18|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民73日目【遅遅番】>>https://www.twitch.tv/teru9232/v/2462101116]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|05/20|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民74日目【ちょとだけ】>>https://www.twitch.tv/teru9232/v/2463743922]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|05/22 |&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民75日目【車両】>>https://www.twitch.tv/teru9232/v/2465381466]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>https://www.twitch.tv/videos/2465381466]]| |
+|06/01|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民76日目>> https://www.twitch.tv/videos/2474244129]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+|06/19|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギャンボス→白市民77日目>>https://www.twitch.tv/teru9232/v/2490233375]]|&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]| |
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+#endregion(4〜6月)
+//
+#endregion(2025ここまで)
+
+#div(width=200px,bgcolor=#C77EB5){&size(17){&font(b,#FFFFFF){　SEASON 2}}}
+&font(12px,#C77EB5){●&space()}&bold(){2026年}
+#region(開く,open)閉じる
+#region(1月〜,open)1月〜
+#areaedit
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,備考=12px}
+|~配信日|~配信タイトル|~備考|h
+|01/10|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラS2 1日目>>https://www.twitch.tv/videos/2666312181]]||
+|01/11|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラS2  2日目 武器屋に接触したい>>https://www.twitch.tv/teru9232/v/2667289566]]||
+|01/15|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラS2  3日目 シンプルにお金欲しい>>https://www.twitch.tv/teru9232/v/2670661729]]||
+|04/30|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ストグラS2  ちょとだけ>>https://www.twitch.tv/videos/2760794969]]||
+//|MM/DD|&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+#endregion(1月)
+
+#endregion(2026ここまで)
+
+#co{テンプレート
+
+#region(●月〜,open)●月
+#areaedit
+#table_style(head=center:#C77EB5:#FFFFFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+//|mm/DD|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]||
+//|mm/DD|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]||
+//|mm/DD|#|&font(#6441A4){&icon_fa(fa fa-twitch)}[[タイトル>>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#areaedit(end)
+#endregion(●月)
+
+}
+
+#right(){&link_up(🔝ページTOPへ)}

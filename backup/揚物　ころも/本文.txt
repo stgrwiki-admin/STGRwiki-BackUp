@@ -1,0 +1,1079 @@
+*&font(#FA8072){&icon_fa(fa-regular fa-address-card)} プロフィール
+#slide_img(auto=3,width=304,height=540){agekoro_marenikuya.png,agekoro_overall.png,agekoro_china02.png,agekoro_VDWD.png,揚物　ころも02.png} 
+//&big(){&bold(){「奇肉屋の下っ端、揚物ころも！パス！」}}
+
+//ここからプロフィール
+
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#FFDE69){名前=center:b:#FA8072:#FFF}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(あげもの){揚物}　ころも|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|6月24日 (&countup(2001/6/24,y)歳) |
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年10月18日 (1年338日)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-wrench fa-fw)&br()&icon_fa(fa fa-cutlery)|メカニック「&bold(){[[BMC>Bear Moon Custom]]}」&small(){2023/11/11～2025/09/21}&br()&space(2)・階級Grade3 (Advanced)&br()免許センター「&bold(){[[斎藤Driving School]]}」教員 &small(){2024/02/10～2025/09/21}&br()&space(2)・階級Grade2 (Experienced)&small(){※サブジョブ扱い}}}&br()&small(){&openclose2(show=▼Season1の過去の職業){&br()飲食店/精肉店「[[奇肉屋]]」副店長 2023/10/21～2025/08/24}}|飲食店【&bold(){[[after U]]}】&small(){（2026/07/16～）}&br()&small(){&openclose2(show=▼Season2の過去の職業){&br()メカニック【&bold(){[[JTS>ジョアンナテクノサービス]]}】&small(){（2025/12/25～2026/03/26）}&br()飲食店【&bold(){[[サニーケバブ]]}】&small(){（2025/12/27～2026/05/08）}&br()メカニック【&bold(){[[Usa Gimmick Motors]]}】&small(){（2026/03/20～05/13）}}}|
+|~所属|~&icon_fa(fas fa-building)|【PNG】&small(){(レーシングチーム)}&br()【焦虫ペダル】&br()【[[飲食盛り上げようオブザイヤー同好会>>飲食協会]]】&small(){本部メンバー (書記)}&br()&openclose2(show=💎){&icon_fa(fa-solid fa-person-rays)アイドルグループ【[[べりはぴ]]】}＊ネタバレ注意|&openclose2(show=💎){&icon_fa(fa-solid fa-person-rays)アイドルグループ【[[べりはぴ]]】}＊ネタバレ注意&br()&openclose2(show=👿){&icon_fa(fa-solid fa-person-rays)アイドルグループ【[[わざとじゃないもん！]]】}＊ネタバレ注意&br()&small(){&openclose2(show=▼Season2の過去の所属){&br()【&bold(){[[モンスターハウスプロダクション]]}】&small(){なんでも代行サービス (社員)} 2026/01/31〜2026/06/04}}|
+|~ライセンス|~&icon_fa(fa fa-id-card-o fa-fw)|普通車/自動二輪/ヘリ/航空機/船舶/大型/&br()バス/レーサー/ウマ/ウェポン/白市民パス|-|
+|~ペット|~&icon_fa(fa-solid fa-paw)|🐕ぽんちゃん（pontyan）犬種：ロットワイラー&br()🐕&ruby(はすたろう){蓮太郎}　犬種：ハスキー&br()🐕&ruby(はすたろう){蓮太郎}　犬種：ハスキー|-|
+|~拠点|~&icon_fa(fa fa-home)|8049番地|8039番地(初期アパート)|
+|~TwiX|~&icon_fa(fa fa-crow)|&s(){@agemono_koromo}&br()@agekoro|@agekoro|
+|~レーサー名|~&icon_fa(fa fa-user-tag)|【PNG】agekoro|-|
+|BGCOLOR(#FA8072):COLOR(#fff):~プレイヤー|BGCOLOR(#FA8072):COLOR(#fff):~&icon_fa(fa fa-address-card-o)|>|甘乃あもこ|
+|BGCOLOR(#FA8072):COLOR(#fff):~告知等|BGCOLOR(#FA8072):COLOR(#fff):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000)X (旧&font(#1DA1F2){Twitter})(@amoko_official)>>https://twitter.com/amoko_official]]|
+|BGCOLOR(#FA8072):COLOR(#fff):~配信場所|BGCOLOR(#FA8072):COLOR(#fff):~&icon_fa(fa fa-gamepad)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube(@Amoko)}>>https://youtube.com/@Amoko]]/ &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch(amokoamano)}>>https://www.twitch.tv/amokoamano]]|
+|BGCOLOR(#FA8072):COLOR(#fff):~アーカイブ/切り抜き|BGCOLOR(#FA8072):COLOR(#fff):&icon_fa(fa fa-video-camera)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube(@Amoko)}>>https://youtube.com/@Amoko]]|
+|BGCOLOR(#FA8072):COLOR(#fff):~別キャラ|BGCOLOR(#FA8072):COLOR(#fff):&icon_fa(fa fa-user-plus)|>|&small(){&openclose2(show=※ネタバレ注意){：[[暦　にこ]]}}|
+//(22歳→23歳)
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&font(#FA8072){&icon_fa(fa-regular fa-address-card)} 基本情報
+#div(width=330px,bgcolor=#FFDE69){&font(b,18px){&space()&icon_fa(fa fa-sun-o)&space()基本情報}}
+&font(12px,#FA8072){●&space()}生まれた時からのジャンクフード好きが高じて、ロスサントスでドカ食い気絶をするために日本からやってきた。
+&font(12px,#FA8072){●&space()}その底抜けな天真爛漫さで、同僚も顧客も白市民も黒市民も分け隔てなく、自身の周囲にいる人々を笑顔にさせる天性のムードメーカー。
+&font(12px,#FA8072){●&space()}某ファーストフード店仕込みの接客力&openclose2(show=*){（夢の世界では、東京都の某エリアで&tooltip(接客コンテスト第3位){勤務当初は厨房を担当していたが品物を何度も床に落としてしまったらレジだけしかやらせてもらえなくなり、接客力が開花する。}に選ばれるほど）}を[[店長>マカイーノ　アッコパス]]に見込まれ、街に来てわずか2日目で「[[奇肉屋]]」に雇用されることとなる。
+&font(12px,#FA8072){●&space()}入社後も類稀な営業センスと人懐っこく物怖じしない性格が評価され、勤務3日目にして[[奇肉屋]]の2号店（移動販売車。通称：あげころ号）を任された。
+&font(12px,#FA8072){●&space()}街のひとたちからは"あげころ"の愛称で親しまれている。
+&font(12px,#FA8072){●&space()}サイコロをふる奇肉ガチャにちなんで左腕に“ダイスの女神(幸運を掴め)”のタトゥーをいれた。
+
+#div(width=330px,bgcolor=#FFDE69){&font(b,18px){&space()&icon_fa(fa fa-automobile)&space()運転について}}
+&font(12px,#ed7683){●&space()}かつては交通ルールの理解や運転が苦手だったが、その克服のために[[ハン>アドミゲス・ハン]]に師事し、努力の甲斐もあって相応の運転技術を身につけた。
+&font(12px,#ed7683){●&space()}バイクの運転も[[店長>マカイーノ　アッコパス]]から釘を刺されるレベルだったが、プレゼントしてもらったバイクで練習をし現在は難なく乗りこなしている。（バイクは[[ハン>アドミゲス・ハン]]からのプレゼントだったことが後に明かされた）
+&font(12px,#ed7683){●&space()}自動車の運転についてもレーサー免許の試験を一発で合格したり、難度の高いレース『KAKUGAREAPER（カクガリーパー）』を自力でクリアできたりする程までに上達した。
+&font(12px,#ed7683){●&space()}上達した運転技術が活かすことができ、BMCのメリットにも繋がれることを主な理由として、24/02/10に[[免許センター>斎藤Driving School]]の教員となった。
+&font(12px,#ed7683){●&space()}24/01/13にヘリ免許を取得。[[ハン>アドミゲス・ハン]]の部下である[[オザワ　ハヤマサ]]に教えてもらい黒市民顔負けの操縦技術を身につけた。
+&font(12px,#ed7683){●&space()}あげころ自身が目標としている走りのレベルには到達したと考えた[[ハン>アドミゲス・ハン]]から、卒業試験の課題を与えられた。
+&font(12px,#ed7683){●&space()}時間の経過ととも環境が変わっていく中で、試験の課題が変更となった。
+&font(12px,#ed7683){●&space()}建築工事バイトの際に大型特殊の運転・教習は不可と判明
+
+#div(width=330px,bgcolor=#FFDE69){&font(b,18px){&space()&icon_fa(fa fa-user)&space()人物}}
+&font(12px,#ed7683){●&space()}メカニックの仕事に興味を持っていたことから、[[JTS>ジョアンナテクノサービス]]、[[BMC>Bear Moon Custom]]、[[PY>Project Y]]での職業体験を経て、23/11/11に[[BMC>BMカスタム]]へ入社した。
+&font(12px,#ed7683){●&space()}適材適所で仕事をした方が良いと語り、接客に重きをおいている。
+&font(12px,#ed7683){●&space()}無線では会話の前後が途切れることもしばしば。BMCの同僚である[[キャップ>ましゃかり　トラボルタ]]から「ころもパイセン無線下手ですね」と苦笑されることも。
+&font(12px,#ed7683){●&space()}意図せず声が大きい時があり、BMC入社時の挨拶を無線でおこなった際、プスカ大佐からは「鼓膜が破れました」とつっこまれた。
+&font(12px,#ed7683){●&space()}時と場合を問わずとにかく良く喋り、声が大きく広い。それは裁判員を請け負った裁判員席でも変わらずだった。
+//↑「鼓膜が破れました」という時はシリアスな言い方をしていましたので（笑）を外しました。
+//↑発言時のシチュエーションを追記しました。(24/02/10)
+//↑悪意がない言い回しのため、誤解のない表現に調整しました。
+&font(12px,#ed7683){●&space()}2024年の年始の挨拶では大切な人たちにボイスメッセージを送った。
+&font(12px,#ed7683){●&space()}ひょんなことから[[焦月　ツルギ]]に誘われてレーシングチーム【PNG】や【焦虫ペダル】のメンバーになった。
+&font(12px,#ed7683){●&space()}街で初めて行われた自転車レースでは2位を獲得した。
+&font(12px,#ed7683){●&space()}白市民でもっとも[[ハン>アドミゲス・ハン]]をダウンさせた人物と言われている。【最速の男を最もコロした白市民】の称号を授けられる。
+&font(12px,#ed7683){●&space()}もとはギャングは怖い存在と感じていたが、様々な出会いの中で黒市民への理解が深まり現在は少し印象が変わった。
+&font(12px,#ed7683){●&space()}街の住民からは、話すと元気をもらえる太陽のような子と親しまれている。
+&font(12px,#ed7683){●&space()}奇肉屋2号店（通称：あげころ号）がお話できるようになるために、[[Dr．ギガ]]に手術をしてもらい脳にICチップを埋めこんだ。
+&font(12px,#ed7683){●&space()}PNGでの活動以降、[[切間　てつお]]や[[赤ちゃん　キャップ>>ましゃかり　トラボルタ]]からは“トキシック”と言われるようになった。
+&font(12px,#ed7683){●&space()}ホワイトデーの日、男性のみが利用できる物産展でお買い物をするため、急遽日本から双子の弟である“揚物ころ男”を呼び出した。
+
+#region(詳細プロフィール（本人概要欄説明）,open)詳細プロフィール（本人概要欄説明）
+#blockquote(){名前：揚物ころも（AgeMOno KOromo）
+身長：160cm
+性格：スマイル0円、落ち着きがない
+趣味：食べること、よく眠ること、よく働くこと
+
+📝近況📝
+「BMC」にも就職！
+
+🍟ロスサントスに来た目的🍔
+ジャンクフードが大好き！
+ドカ食い気絶をするためにロスサントスにやってきた！
+いろんな食べ物を食べるため、早く車を手に入れていろんな飲食店にいきたい！
+}
+#endregion
+
+*&font(#FA8072){&icon_fa(fa fa-group fa-address-card)} 交友関係
+#co{文字数が増えたため子ページ作成済みです。子ページを直接部分編集いただくと、こちらの親ページに自動で反映されます。子ページ検索タグ：［揚物　ころも］随時加筆、編集中}
+***2024/11/30更新
+#region(開く)
+#include(揚物　ころも/交友関係)
+#endregion
+//
+//
+//
+//
+//
+//
+*&font(#FA8072){&icon_fa(fa-solid fa-car)} 所有車両
+***2024/11/09更新
+#region(所有車両)
+#table_style(head=center:#FFDE69){購入日=center,車両=center,呼び名=center,詳細=center}
+|~購入日|~車両|~呼び名|~カスタム担当|~詳細|h
+|MIDDLE:2023/10/20|MIDDLE:&bold(){[[Panto>>https://w.atwiki.jp/gtav/pages/1205.html]]}|||[[大川>大　川]]のもとで購入&br()ロスサントスに来て初めて買ったコンパクトカー|
+|MIDDLE:2023/10/27|MIDDLE:&bold(){[[Cruiser>>https://w.atwiki.jp/gtav/pages/607.html]]}|||チャリ仲間を増やしたいと言う&br()[[どらごんすくりゅう>オザワ　ハヤマサ]]に買ってもらった自転車|
+|MIDDLE:2023/10/27|MIDDLE:&bold(){[[Journey>>https://w.atwiki.jp/gtav/pages/527.html]]}|あげころ号&br()奇肉屋2号店||[[プスカ大佐>ネズ]]のもとで購入&br()[[奇肉屋]]の2号車として使用しているバン|
+|MIDDLE:2023/10/29|MIDDLE:&bold(){[[Remus>>https://w.atwiki.jp/gtav/pages/2696.html]]}|MIDDLE:キラキラあげころ号|揚物　ころも|[[にしのん>にし　のん]]のもとで購入&br()運転技術向上のため、[[店長>マカイーノ　アッコパス]]より勧められたスポーツカー|
+|MIDDLE:2023/11/11|MIDDLE:&bold(){[[Esskey>>https://w.atwiki.jp/gtav/pages/1684.html]]}|||バイク運転の練習用にと[[店長>マカイーノ　アッコパス]]から譲り受けたオートバイ&br()実は[[アドミゲス・ハン]]がプレゼントしてくれたものだったということを後日知った|
+|MIDDLE:2023/11/17|MIDDLE:&bold(){[[Remus>>https://w.atwiki.jp/gtav/pages/2696.html]]}|||[[魔法少女カフェ>RitUal:]]の謎解きイベントで仲良くなった&br()[[ボンジジイ>ネケ　ニマス]]にもらったスポーツカー|
+|MIDDLE:2023/11/18|MIDDLE:&bold(){[[Draugur>>https://w.atwiki.jp/gtav/pages/2843.html]]}|MIDDLE:フライドフィンガー号||[[プスカ大佐>ネズ]]のもとで購入&br()1億円を稼いだ記念に買ったオフロードカー|
+|MIDDLE:2023/11/27|MIDDLE:&bold(){[[Bati 901>>https://www.gta5-mods.com/vehicles/pegassi-bati-901-add-on-tuning-sounds-lods]]}|||[[星唄サウ汰>星唄　サウ汰]]のもとで購入&br()バイクレース用に買った2人乗りのオートバイ|
+|MIDDLE:2023/12/1|MIDDLE:&bold(){[[Ruiner ZZ-8>>https://w.atwiki.jp/gtav/pages/2835.html]]}|MIDDLE:師匠より受け継いだ車（B帯）||B帯レース用に使ってほしいと&br()[[アドミゲス・ハン]]にもらったマッスルカー|
+|MIDDLE:2023/12/11|MIDDLE:&bold(){[[Dubsta 6x6>>https://w.atwiki.jp/gtav/pages/1202.html]]}|||[[プスカ大佐>ネズ]]のもとで購入&br()[[B.A.D>BIG Automotive Design]]に就職した[[店長>マカイーノ　アッコパス]]にカスタム依頼するために買ったオフロードカー|
+|MIDDLE:2023/12/11|MIDDLE:&bold(){[[Faction Custom Donk>>https://w.atwiki.jp/gtav/pages/1610.html]]}|||[[プスカ大佐>ネズ]]のもとで購入&br()カスタムの練習用に買ったマッスルカー&br()（[[もりるんるん>もり　るんるん]]がBMC体験中にカスタム練習用として提供した）|
+|MIDDLE:2023/12/22|MIDDLE:&bold(){[[Issi Sport>>https://w.atwiki.jp/gtav/pages/2478.html]]}|MIDDLE:あげころ号3rd|[[？？？>アドミゲス・ハン]]|[[サンタさん>アドミゲス・ハン]]からクリスマスプレゼントとして贈られた&br()一番の愛車として日々のレースに用いているスポーツカー|
+|MIDDLE:2023/12/26|MIDDLE:&bold(){[[Freecrawler>>https://w.atwiki.jp/gtav/pages/2337.html]]}|MIDDLE:あげくるーらー||[[プスカ大佐>ネズ]]のもとで購入&br()普段使いしているオフロードカー|
+|MIDDLE:2024/01/21|MIDDLE:&bold(){[[Karin Sultan Classic Custom>>https://w.atwiki.jp/gtav/pages/2537.html]]}|MIDDLE:LOVEころ号||[[オザワハヤマサ>オザワ　ハヤマサ]]のもとで購入&br()車両ナンバーが偶然にも「LOVE9003」になる|
+|MIDDLE:2024/02/06|MIDDLE:&bold(){[[Jester Classic>>https://w.atwiki.jp/gtav/pages/2209.html]]}|MIDDLE:80スープラ||お題に出されたコースを目標の3分以内でゴールできたご褒美に&br()[[アドミゲス・ハン]]からもらったB帯の車&br()実はアドミゲス・ハンが初めて自分でエンジンを載せ替えた特別な車|
+|MIDDLE:2024/02/20|MIDDLE:&bold(){[[Annis Elegy Retro Custom>>https://w.atwiki.jp/gtav/pages/1695.html]]}|MIDDLE:ギャルころ号||[[にしのん>にし　のん]]のもとで購入&br()A帯レースまっさつ用として購入|
+|MIDDLE:2024/04/06|MIDDLE:&bold(){[[Specter Custom>>https://w.atwiki.jp/gtav/pages/1722.html]]}|||にしきん開店のお祝いに[[にしのん>にし　のん]]から購入した&br()[[店長>マカイーノ　アッコパス]]とおそろいの高級車|
+|MIDDLE:2024/04/07|MIDDLE:&bold(){[[Maxwell Vagrant>>https://w.atwiki.jp/gtav/pages/2546.html]]}|||奇肉屋体験バイトのお礼として[[プスカ大佐>ネズ]]が店長に車を買ってくれた時に&br()一緒に購入させてもらったバギー|
+|MIDDLE:2024/04/26|MIDDLE:&bold(){[[Blavado Lurcher>>https://gta.fandom.com/wiki/Lurcher]]}|MIDDLE:ゾンビ号～天草さんを添えて～||奇肉っぽいリバリーの車があると聞いて見せてもらう&br()そのまま[[天草蒼>天草　蒼]]から譲渡される|
+|MIDDLE:2024/05/21|MIDDLE:&bold(){[[Surfer Custom>>https://w.atwiki.jp/gtav/pages/2947.html]]}|||[[店長>マカイーノ　アッコパス]]があげころイメージでカスタムをしてプレゼントしてくれた&br()奇肉屋用の車。通称「あげころカスタムミニ」|
+|MIDDLE:2024/05/23|MIDDLE:&bold(){[[Ocelot Locust>>https://w.atwiki.jp/gtav/pages/2498.html]]}|||にしきんに就職した[[皇帝>ニックス　リア]]が誤って12台仕入れてしまったと聞き&br()困ったときはお互い様！と購入した[[ひなすちゃん>阿蘇野　ひなす]]とお揃いの高級なスポーツカー|
+|MIDDLE:2024/06/24|MIDDLE:&bold(){[[Shitzu Castella>>https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds]]}|ぱちてら|[[日之　ぱちお]]|誕生日プレゼントとしてぱちおくんからもらったコンパクトカー|
+|MIDDLE:2024/06/24|MIDDLE:&bold(){[[ZR350>>https://w.atwiki.jp/gtav/pages/2693.html]]}|わんころ号|[[犬億　ロック]]|誕生日プレゼントとして[[犬億　ロック]]からもらったスポーツカー|
+|MIDDLE:2024/06/30|MIDDLE:&bold(){[[Paragon R>>https://w.atwiki.jp/gtav/pages/2479.html]]}|MIDDLE:ツルンゴ号|揚物　ころも|[[焦月　ツルギ]]へのお礼も兼ねて購入した高級なスポーツカー&br()師匠である[[アドミゲス・ハン]]のお気に入りの車種|
+|MIDDLE:2024/07/20|MIDDLE:&bold(){[[Weeny Dynasty>>https://w.atwiki.jp/gtav/pages/2513.html]]}||揚物　ころも|[[空舞月　りり]]から購入した初めてのクラシックスポーツカー&br()4人乗りでおでかけにピッタリ|
+|MIDDLE:2024/08/09|MIDDLE:&bold(){[[Blazer>>https://w.atwiki.jp/gtav/pages/475.html]]}||揚物　ころも|[[上田　さん]]から購入したバギー。日常使い用で便利|
+|MIDDLE:2024/09/26|MIDDLE:VooDoo SideCar||揚物　ころも||
+|MIDDLE:2024/10/01|MIDDLE:&bold(){[[Faggio Sport>>https://w.atwiki.jp/gtav/pages/1657.html]]}||揚物　ころも|原動機付自転車|
+|MIDDLE:2024/10/09|MIDDLE:&bold(){[[Canis Bodhi>>https://w.atwiki.jp/gtav/pages/290.html]]}||揚物　ころも|中古車ディーラー[[ReBoot]]で購入|
+|MIDDLE:2024/11/09|MIDDLE:&bold(){[[Winky>>https://w.atwiki.jp/gtav/pages/2648.html]]}||[[上田　さん]]&br()(フルカス以外)|特殊部隊【SWAG】の社用車として支給された&br()フルカス以外のカスタムがされている|
+#endregion
+*&font(#FA8072){&icon_fa(fa fa-heart)} クローゼット
+#co{文字数が増えたため子ページ作成済みです。子ページを直接部分編集いただくと、こちらの親ページに自動で反映されます。子ページ検索タグ：［揚物　ころも］随時加筆、編集中}
+***2024/10/11更新
+#region(開く)
+#include(揚物　ころも/クローゼット)
+#endregion
+//
+//
+//
+*&font(#FA8072){&icon_fa(fa fa-mobile-phone)} 着信音
+&youtube(https://youtu.be/EPOhibjKuSA){350,233}
+&bold(){アゲアゲ・エコーロケーション}&br()[[Dr.ギガ>Dr．ギガ]]に依頼して制作してもらった着信音。&br()タイトルは[[アドミゲス・ハン]]の考案であり、ほぼ実質的な歌詞でもある。
+//
+//
+*&font(#FA8072){&icon_fa(fa-brands fa-youtube)} 歌
+#left()
+&youtube(https://youtu.be/RyBSfqtRNTY?si=dSN8TkyHGHgnmHEH){350,233}&bold(){ハオ💛cover甘乃あもこfeat.あげころ}
+*&font(#FA8072){&icon_fa(fa fa-book)} あげころ語録
+#region(開く)閉じる
+#table_style(head=#FFDE69)
+|~言葉|~解説|
+|ダイスの女神|左腕に入れているタトゥーのこと。正式名称は“幸運を掴め”なのだがなぜか“ダイスの女神”と覚えられている。|
+|イルカいる|笑い声がイルカに似ているため、あげころが笑うとよく周囲の人に「イルカいる？」と反応される。|
+|あげころプリズン|もとは[[ハンさん>アドミゲス・ハン]]の衛星の民が発した言葉。当初は[[内向的な人>アドミゲス・ハン]]が[[ギャル>揚物　ころも]]に翻弄される時間の例えだったが、&br()とある出来事がきっかけで、あげころプリズン100年以上の刑期がハンさんに課せらることとなった。|
+|ノンノンノンだよ|あげころの弟(?)揚物ころ男の口癖。優しく注意するときなどに使う言葉。|
+|オオノリティ|少数派を意味する“マイノリティ”の対義語として(正：マジョリティ)あげころが発した言葉。&br()[[ハンさん>アドミゲス・ハン]]からは、二度と言わないほうがいいと釘を差された。|
+|奇肉コロコロ|奇肉屋でガチャをしてもらうときにお客さんにかける掛け声|
+|惜しい！|奇肉ガチャでハズレ目のときにかける言葉。[[店長>マカイーノ　アッコパス]]からハズレとは言わないようにと教えられている。|
+|贄|ツルギさんが市長から飲食店協会の会長になるように話をされたときに出た言葉。|
+|すみっこおじさん|ライアーステージに出演していたときの[[ヴァンさん>ヴァン　ダーマー]]を見て、あげころがつけた呼び名。本人を前にしてもほぼ言っている。|
+|オーイェス|お店に現れる“奇肉になりたい心なき”が発する言葉。奇肉になりたいか質問をしたときにこう答える。|
+|チャカリティ|物事を茶化すこと。茶化す＝チャカってるからの発展型。|
+|食べる側/食べられる側|奇肉を食べたいか、奇肉になりたいかの表現|
+#endregion
+//
+//
+*&font(#FA8072){&icon_fa(fa fa-picture-o)} 思い出のアルバム
+#co{文字数が増えたため子ページ作成済みです。子ページを直接部分編集いただくと、こちらの親ページに自動で反映されます。子ページ検索タグ：［揚物　ころも］随時加筆、編集中}
+***2024/11/28更新
+#region(開く)
+#include(揚物　ころも/思い出のアルバム)
+#endregion
+//
+*&font(#FA8072){&icon_fa(fa fa-pencil)} 手書きのメッセージ集
+#region(開く)閉じる
+#table_style(head=#FFDE69)
+|~日付|~送った相手|~種類|~備考|
+|24/02/01|[[アドミゲス・ハン]]|[[表彰状>>https://youtu.be/ZaeDN6qK-IU?si=eTy9_eBZKmkrssWU&t=2781]]|2シーズン目のレーサーランキングでも1位になった[[ハン>アドミゲス・ハン]]へのお祝いに用意したお手製の表彰状。&br()優秀な成績を“納”めた師匠への「ロスサントス1速くてカッコいい師匠で賞」&br()街の表彰式を前に2人で大学の講堂で表彰式を行った。|
+|24/02/15|[[アドミゲス・ハン]]&br()|[[バレンタインの本命カード>>https://youtu.be/B7z7FX2cMb4?si=3yVsG46jKl4DmTs5&t=8629]]|占いで本命のチョコをもらえないと言われた[[ハン>アドミゲス・ハン]]への「本命」のバレンタインカード。&br()大事な人にしか送ってない(合計17名)が、義理と本命の違いがわかっているかと質問された。&br()あげころプリズンの刑期中のハンにはあと107回バレンタインが…|
+|24/02/20|[[柳瀬　つん]]&br()|[[お守り>>https://youtu.be/HOGuyUvBV7I?si=MjjZIFEAQpev_2Ji&t=15669]]|カニメイトガチャのあげころSRを出すために10億円以上かけて頑張っていた[[つん>柳瀬　つん]]にお守りとして渡したカード。&br()その日は引くことはできなかったが、後日、執念でついにあげころSRを引き当て見事コンプリートした。|
+|24/04/06|[[プスカ大佐>ネズ]]|[[お手紙>>https://youtu.be/WBwVM3dkNYs?si=KrPfxQLdgz2BcYm3&t=15046]]|大佐がBMCを休職した日に渡したお手紙。涙をこらえつつ「後で見てください」と言って渡したが&br()その数十分後、まさかの嬉しい再会を果たし感情がジェットコースターになった。|
+|24/05/23|[[アドミゲス・ハン]]|[[お誕生日カード>>https://youtu.be/sWSyLv1UvUI?si=2OfbcS7Ta4d0ypF4&t=3512]]|イマジナリーKPが描いてくれたかわいいイラスト付きでお手紙もぎっしり書かれている。ピンゾロ“折”願。&br()誕生日当日に手渡すことができなかったのでメッセージで送っていたが壊れて見られなかった様子。|
+|24/06/01|[[赤ちゃん　キャップ>>ましゃかり　トラボルタ]]|[[お誕生日カード>>https://www.youtube.com/live/ngXR06BxUKA?si=C4nrfa0xnPK5FHjJ&t=5071]]|BMCで働いてるときの[[キャップ>>ましゃかり　トラボルタ]]のイラストを描いたもの。いつものポーズをしている。&br()今年一番最初の誕生日プレゼントとして渡せたカード。|
+
+
+#endregion
+//
+//
+//
+*&font(#FA8072){&icon_fa(fa fa-calendar-o)} あげころヒストリー
+#co{文字数が増えたため子ページ作成済みです。子ページを直接部分編集いただくと、こちらの親ページに自動で反映されます。子ページ検索タグ：［揚物　ころも］随時加筆、編集中}
+#region(開く)
+#include(揚物　ころも/ヒストリー)
+#endregion
+//
+//
+//
+*&font(#FA8072){&icon_fa(fa-solid fa-book)} エピソード
+#co{文字数が増えたため子ページ作成済みです。子ページを直接部分編集いただくと、こちらの親ページに自動で反映されます。子ページ検索タグ：［揚物　ころも］過去エピソードは随時加筆、編集中}
+***SEASON1
+#region(開く)
+#region(2023年)
+#include(揚物　ころも/エピソード1)
+#endregion(2023年10月～12月に対応)
+
+#region(2024年)
+#include(揚物　ころも/エピソード2)
+#include(揚物　ころも/エピソード3)
+#endregion(2024年に対応)
+
+#region(2025年)
+#include(揚物　ころも/エピソード4)
+#endregion(2025年に対応)
+#endregion
+
+***SEASON2
+
+&font(b,#F55){どなたでもOK！エピソード募集中！追記お願いします}
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)閉じる
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)閉じる
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+*&font(#FA8072){&icon_fa(fa-brands fa-youtube)} アーカイブ(メンバー限定)
+&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[再生リスト>>https://www.youtube.com/playlist?list=PLuRiGAYaV4VRpja24-A3Fl1YTb4oqMoOX]]
+***SEASON1
+#region(開く)
+**2023年
+#region(開く)
+***2023年(#01~#48)
+#region(開く,open)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/10/18|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day1「初めまして！揚物ころも！」>>https://www.youtube.com/watch?v=09wnOex6NJk]]|初衛星|
+|23/10/20|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day2「車買いました！奇肉屋に就職決定！」>>https://www.youtube.com/watch?v=r8vEpU2f6bw]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/10/22|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day3「奇肉屋、初出勤！」>>https://www.youtube.com/watch?v=IGaHytod9lM]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/10/26|4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day4「奇肉屋、新商品でたらしい！」>>https://www.youtube.com/watch?v=QkZxWkUpp74]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/10/27|5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day5「奇肉屋２号店購入！」>>https://www.youtube.com/watch?v=PHPnGRnNjTk]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/10/28|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day6 サーカス行ってBMC職業体験！>>https://www.youtube.com/watch?v=e3Qg-sZA9h8]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/10/29|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day7 「初めての誘拐、初めての違反切符！BMC体験2日目！」>>https://www.youtube.com/watch?v=-6Ue8QQIjy0]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/10/30|8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day8「BMC体験最終日！BMC+奇肉屋でハロウィンイベントへGO！」>>https://www.youtube.com/watch?v=nVn4HCNnrFM]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/10/31|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day9「初めてのレースで車崩壊！」>>https://www.youtube.com/watch?v=uMSmiQ1xSgA]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/02|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day１０「奇肉屋の看板娘になる！」>>https://www.youtube.com/watch?v=GyxZdcX7ljQ]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/06|11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day１１「3日ぶりのロスサントス！店長とペティちゃんと熊肉と」>>https://www.youtube.com/watch?v=1UmBAeerP2A]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/08|12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day１２「お出かけ！激闘デスドライブ！」>>https://www.youtube.com/watch?v=AulUe1_xMpI]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/10|13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day１３「泣いちゃった日！最後は笑顔！」>>https://www.youtube.com/watch?v=gx2WcSJpOVY]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/11|14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day１4「BMCに入社いたしました！」>>https://www.youtube.com/watch?v=pKWo15VrisQ]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/13|15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day１５「奇肉屋とBMCで頑張る！」>>https://www.youtube.com/watch?v=dJOS95FIt7c]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/14||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[番外編「店番するだけ」>>https://www.youtube.com/watch?v=5v_81eA5tSs]]||
+|23/11/15||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[番外編「今日も店番するだけ」>>https://www.youtube.com/watch?v=cGsC8GdFcyA]]||
+|23/11/16||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[番外編「番外編最終日！」>>https://www.youtube.com/watch?v=ttP3I2ToQ8I]]||
+|23/11/17|16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day１6「BMCワンオペ！＆じいちゃんと魔法少女カフェの謎解き（終わらない）した日」>>https://www.youtube.com/watch?v=MGrs0msv78Y]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/18|17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day１７「レース免許一発合格！ドラウグル購入！その名もフライドフィンガー号！！！！」>>https://www.youtube.com/watch?v=Cy5ofyRx6_Y]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/19|18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day１８「つばめちゃんありがとう！いってらっしゃい！」>>https://www.youtube.com/watch?v=UW1izoWuFik]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/20|19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day１９「恋占いとカジノでエンストｗｗｗｗｗｗｗｗｗ」>>https://www.youtube.com/watch?v=jYGxc7GVtaI]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/21|20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day20「奇肉屋２号店の恋」>>https://www.youtube.com/watch?v=0jCA_Ewo_74]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/23|21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day2１「BMC店番と初めてのレース参戦！」>>https://www.youtube.com/watch?v=x7jJavgz0UU]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/26|22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day2２「奇肉屋＆BMC！1日に３回水没して落ち込む日」 >>https://www.youtube.com/watch?v=zPXe7liIKGM]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|MIDDLE:23/11/27|MIDDLE:23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day２３前編「奇肉屋＆BMC！伝説のワンオペ回！」>>https://www.youtube.com/watch?v=WDFnUKvVQLA]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day２３後半「奇肉屋＆BMC！伝説のワンオペ回！」>>https://www.youtube.com/watch?v=ekhwL9uF6-c]]|MIDDLE:生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/28|24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day24「ボンじいちゃんと謎解きの続き」>>https://www.youtube.com/watch?v=UcmLIY040QQ]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/11/30|25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day25「奇肉屋＆BMC！新商品BMC(ビターメルティチョコレート)！」>>https://www.youtube.com/watch?v=1P2D8fBk8hs]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/01|26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day26「奇肉屋&BMC！Rフォートウィスキー発売！」>>https://www.youtube.com/watch?v=pN7WzqTWJms]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/03|27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day27「奇肉屋＆BMC！サウちゃんと2人で早番！」>>https://www.youtube.com/watch?v=Qmy3spfUWFM]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/04|28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day28「奇肉屋＆BMC！店長と久々ドライブした日」>>https://www.youtube.com/watch?v=sU0DUJHK8mw]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/06|29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day29「奇肉屋＆BMC！手術の日程が決まったよ！」>>https://www.youtube.com/watch?v=uAegm8m_KI8]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/07|30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day30「奇肉屋＆BMC！雪道レースで遭難！ふでこちゃん体験１日目！」>>https://www.youtube.com/watch?v=XeiqUlAijvQ]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/09|31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day31「奇肉屋＆BMC！はじめてのおつかい観測！」>>https://www.youtube.com/watch?v=SIm4FoMR8cI]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/10|32|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day32「奇肉屋＆BMC！救急隊直伝、二人羽織ゲームおもろすぎ」>>https://www.youtube.com/watch?v=Pp7AcY7cCJY]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/11|33|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day33「奇肉屋＆BMC！臨時で魔法少女カフェ体験入店！」>>https://www.youtube.com/watch?v=DKs-RwefvMA]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/12|34|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day34「奇肉屋＆BMC！店長からカスタムしてもらった車を納車！」>>https://www.youtube.com/watch?v=1jG8TpGb41I]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/13|35|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day35「奇肉屋＆BMC！ついに脳の手術の日！」>>https://www.youtube.com/watch?v=41zlvzpQqmg]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/16|36|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day36「奇肉屋＆BMC！奇肉屋２号店あげころ号！ついに喋る！」>>https://www.youtube.com/watch?v=pzpNOc2F-Os]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/16|37|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day37「奇肉屋＆BMC！寝起きダウン！」>>https://www.youtube.com/watch?v=m2TmIn9VRUU]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/18|38|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day38「奇肉屋＆BMC！KAKUGAREAPER初挑戦！」>>https://www.youtube.com/watch?v=xY5LYV8OtWI]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/19|39|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day39「奇肉屋＆BMC！今日は撮影会！」>>https://www.youtube.com/watch?v=P-Z-4rqov6o]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/20|40|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day40「奇肉屋＆BMC！世界一かっこいい師匠！」>>http://www.youtube.com/watch?v=VvClVn7eH3M]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/21|41|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day41「奇肉屋＆BMC！弟子の心得！」>>https://www.youtube.com/watch?v=dDtbGM8S4OA]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/22|42|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day42「奇肉屋＆BMC！謎解きサンタさん・・・！？」>>https://www.youtube.com/watch?v=Yd1MMK7aS-I]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/23|43|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day43「奇肉屋＆BMC！今度はうちがサンタさん！」>>https://www.youtube.com/watch?v=ObL_O0_iAHs]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/26|44|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day44「奇肉屋＆BMC！早番ワンオペ・師匠とレースの日」>>https://www.youtube.com/watch?v=lT6QswLTZ-8]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/27|45|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day45「奇肉屋＆BMC！新しい夢ができた日！」>>https://www.youtube.com/watch?v=dYuFe29VLUA]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/28|46|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day46「奇肉屋＆BMC！奇肉GALS！」>>https://www.youtube.com/watch?v=P1xfR_oDb28]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/29|47|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day47「奇肉屋＆BMC！キャップくん体験！名探偵あげみじ！」>>https://www.youtube.com/watch?v=qssKPQY9Rv4]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|23/12/30|48|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day48「奇肉屋＆BMC！寂しくない早番！私服ゲット！」>>https://www.youtube.com/watch?v=8FgyJFdU9uI]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+#endregion(2023年)
+//
+**2024年
+#region(開く)
+***2024年01月(#49~#65)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|24/01/01|49|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day49「奇肉屋＆BMC！サッカーとメッセージ フォーお世話になった皆様へ！」>>https://www.youtube.com/watch?v=tN3iaidIrKk]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/02|50|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day50「奇肉屋＆BMC！キャップくんおめでとう！」>>https://www.youtube.com/watch?v=IIVZFng0IuA]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/03|51|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day51「奇肉屋＆BMC！爆走デスサウンテン！師匠看病！」>>https://www.youtube.com/watch?v=FAMI47qo96I]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/05|52|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day52「奇肉屋＆BMC！オール明けの空気はエモい！」>>https://www.youtube.com/watch?v=uugZFpw1Ofg]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/09|53|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day53「奇肉屋＆BMC！マリンブルーの奇跡！」>>https://www.youtube.com/watch?v=V-LqgYiYoQ8]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/13|54|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day54「奇肉屋＆BMC！ヘリ免許取得！」>>https://www.youtube.com/watch?v=IA-pyCn5Qbk]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/14|55|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day55「奇肉屋＆BMC！BMC謎解き！」>>https://www.youtube.com/watch?v=HYXryX5Ma5o]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/16|56|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day56「奇肉屋＆BMC！えびすさんと軽井沢テニス部発足！」>>https://www.youtube.com/watch?v=lEApPbaaMAk]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/18|57|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day57「奇肉屋＆BMC！雪の日、何度ダウンしてもくじけないヘリコプター練習！」>https://youtu.be/-OGaIB1fpN0?si=1eoV2wmXAQDKmYUT]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/19|58|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day58「奇肉屋＆BMC！わらしべ長者であげころ号大活躍＆キャップくんと怪しい占い！？」　>>https://www.youtube.com/watch?v=Z-G2dQizKh0]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/20|59|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day59「奇肉屋＆BMC！BMC…LOVEの波動と奇跡のらぶころ号入手！」　>>https://www.youtube.com/watch?v=mIUi3UITUqA]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/21|60|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day60「奇肉屋＆BMC！初めての人狼とイージーズダンスゲーム」　>>https://www.youtube.com/watch?v=Pz1YhzDcqgw]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/23|61|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day61「奇肉屋＆BMC！激闘売り上げバトル！牢王蓮VS焦月ツルギ！そして奇肉屋は麻林ラルさんと怪しい業務提携！？BMC恋占い…！？」　>>https://www.youtube.com/watch?v=zYOUi-9XKbo]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/24|62|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day62「奇肉屋＆BMC！BMC早番と新たな師匠からの課題！」>>https://www.youtube.com/watch?v=z112JT-ql4M]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/26|63|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day63 「奇肉屋＆BMC！てつおさん体験初日！キャップくんてつおさんと人狼へ…」>>https://www.youtube.com/watch?v=ZCX_WTP5ldk]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/28|64|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day64「奇肉屋＆BMC！キミトスさんにヘリ披露！爆笑！ストメンタルの日！」>>https://www.youtube.com/watch?v=-F9IWctMMOo]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+|24/01/31|65|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day65「シーズン最終日、師匠とレース」奇肉屋＆BMC>>https://youtu.be/IUKfoCVWRX8?si=GwvUSynOdGLzP8nd]]|生衛星は [[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/amokoamano]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+***2024年02月(#66~81)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|24/02/01|66|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day66「師匠の表彰式」奇肉屋＆BMC>>https://www.youtube.com/watch?v=ZaeDN6qK-IU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day65「奇肉屋＆BMC！準備してきた！」}>>https://www.twitch.tv/videos/2049866480]]|
+|24/02/03|67|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day67「初めてのデート」奇肉屋＆BMC>>https://www.youtube.com/watch?v=Ui9-YZ5G1BE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day66「奇肉屋＆BMC！全部したい日！」}>>https://www.twitch.tv/videos/2051787838]]|
+|24/02/04|68|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day68「アゲアゲ・エコーロケーション発表会」奇肉屋＆BMC>>https://www.youtube.com/watch?v=N865C9AswB4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day67「奇肉屋＆BMC！早番！」}>>https://www.twitch.tv/videos/2052837987]]|
+|24/02/06|69|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day69「師匠から大切な車を引き継ぐ、キャップくんとラーメン屋」奇肉屋＆BMC}>>https://www.youtube.com/watch?v=gBdqE3QTxcM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day68「奇肉屋＆BMC！早番！」}>>https://www.twitch.tv/videos/2054792364]]|
+|24/02/09|70|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day70「客船デート、バレンタインデート服を作る」奇肉屋＆BMC>>https://www.youtube.com/watch?v=w8AbSx8bnkM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day69「奇肉屋＆BMC！おはよう！」}>>https://www.twitch.tv/videos/2057622932]]|
+|24/02/10||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[番外編「免許センター面接！」>>https://www.youtube.com/live/oQyWHiK9isk]]||
+|24/02/11|71|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day72「BMC会議！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=FZdE6WBeqlg]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day「奇肉屋＆BMC！免許センターの先生！」}>>https://www.twitch.tv/videos/2059637041]]|
+|24/02/12|72|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day71「悔し涙」奇肉屋＆BMC>>https://www.youtube.com/watch?v=a3sulNr2JEI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day70「奇肉屋＆BMC！明日はストグラジオ！」}>>https://www.twitch.tv/videos/2060579043]]|
+|24/02/13|73|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day73「奇肉屋店舗オープン！師匠との関係を占う」奇肉屋＆BMC>>https://www.youtube.com/watch?v=RZenrutZNxY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day71「奇肉屋＆BMC！ストグラジオ楽しかった！」}>>https://www.twitch.tv/videos/2061536309]]|
+|24/02/14|74|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day74「ハッピーバレンタイン！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=B7z7FX2cMb4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day72「奇肉屋＆BMC！色々準備してきたバレンタイン！みんな起きるかなー！？」}>>https://www.twitch.tv/videos/2062530721]]|
+|24/02/16|75|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day75「弟子ができた日！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=qVKAPzY6k2I]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day73「奇肉屋＆BMC！おはようございます！」}>>https://www.twitch.tv/videos/2064296108]]|
+|24/02/20|76|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day76「プロレーシングチームPNG発足！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=HOGuyUvBV7I]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day74「奇肉屋＆BMC！おはようございます！」}>>https://www.twitch.tv/videos/2068317529]]|
+|24/02/22|77|&font(#DA1725){&icon_fa(fa fa-youtube-play)}未アーカイブ|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day75「奇肉屋＆BMC！残業回避そして仕事もレースも頑張る！」}>>https://www.twitch.tv/videos/2070219980]]|
+|24/02/23|78|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day77「BMC＆９０５５レースイベント大成功！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=jClH8HNpKu4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day75「奇肉屋＆BMC！BMC＆９０５５レースイベントの日！」}>>https://www.twitch.tv/videos/2071147946]]|
+|24/02/25|79|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day78「ワンオペ、那須さんとぼっち同盟テニス！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=5TFmm0q-IZA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day76「奇肉屋＆BMC！BMC＆９０５５レースイベントの日！」}>>https://www.twitch.tv/videos/2073182797]]|
+|24/02/27|80|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day79「赤ん坊さんと早番＆PNGにぴん子さんが加入！？」奇肉屋＆BMC>>https://www.youtube.com/watch?v=1ISA0ha15-4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day77「奇肉屋＆BMC！早番！」}>>https://www.twitch.tv/videos/2075103338]]|
+|24/02/29|81|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day80「PNG顧問からの課題クリア！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=mG6mRs32idA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day78「奇肉屋＆BMC！宿題クリアしたい！」}>>https://www.twitch.tv/videos/2076953939]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+***2024年03月(#82~#96)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|24/03/01|82|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day81「PNGロゴ完成！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=sBNq_HQBEuw]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day7 「奇肉屋＆BMC！金曜なので色々したい！」}>>https://www.twitch.tv/videos/2077896622]]|
+|24/03/07|83|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day82「早番三銃士占いをする＆焦虫ペダル加入！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=Nw9oUU5r2PM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day78「奇肉屋＆BMC！５日ぶりの起床！」}>>https://www.twitch.tv/videos/2083643860]]|
+|24/03/08|84|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Dya83「おめかしコーデを作ってシャドールへ！ハンさんとぱちおくんへ気持ちを伝えた日！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=LhX526nQJec]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day79「奇肉屋＆BMC！仕事休んで元気もりもり！」}>>https://www.twitch.tv/videos/2084589151]]|
+|24/03/09|85|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day84「キャップくんと早番＆焦虫ペダルデスマウンテン＆恋占い」奇肉屋＆BMC>>https://www.youtube.com/watch?v=OC8RmTVfYuc]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)マック食べる雑談 ➡ #ストグラ DAY８０ 奇肉屋＆BMC 焦虫ペダル}>>https://www.twitch.tv/videos/2085589722]]|
+|24/03/10|86|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day85「9055ロードバイクレースで川上さんに続いて2位！焦虫のエースに！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=Yag2aedJ6co]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day80 奇肉屋＆BMC まさかの遅番！}>>https://www.twitch.tv/videos/2086775078]]|
+|24/03/14|87|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day86「ホワイトデー！日本から弟がやってきた！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=nNQYtv-6p_I]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY81 揚物ころも 奇肉屋＆BMC ホワイトデー！}>>https://www.twitch.tv/videos/2090405676]]|
+|24/03/15|88|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day87「BMC大集合！てつおさんとレース練習！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=__lNA1q3bxs]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day82 揚物ころも 奇肉屋＆BMC なにしよう！}>>https://www.twitch.tv/videos/2091324837]]|
+|24/03/16|89|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day88「レース卒業試験1回目！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=hMUfEActIms]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day83 揚物ころも 奇肉屋＆BMC 21時まで早番！}>>https://www.twitch.tv/videos/2092277393]]|
+|MIDDLE:24/03/17|MIDDLE:90|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day89「卒業試初勝利！免許センターのお仕事！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=MLDuGkqCdF8]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day90「警察に轢かれた日！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=8jYdIFxopYw]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day84 揚物ころも 奇肉屋＆BMC おかえりあげころ号！}>>https://www.twitch.tv/videos/2093283065]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)Day84 揚物ころも 奇肉屋＆BMC おかえりあげころ号！}>>https://www.twitch.tv/videos/2093334397]](2枠目)|
+|24/03/19|91|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day91「BMCデビル一家！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=DnpuyE_KvTM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day85 揚物ころも 奇肉屋＆BMC 卒業シーズン！}>>https://www.twitch.tv/videos/2095186058]]|
+|24/03/23|92|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day92「怒んナッツ！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=koB1jfqWwgQ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day86 揚物ころも 奇肉屋＆BMC 3日ぶり！}>>https://www.twitch.tv/videos/2098919884]]|
+|24/03/24|93|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day93「らびすぴプリズンブレイク！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=EX9N4tutQVQ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day87 揚物ころも 奇肉屋＆BMC 0時からイベント行く日！}>>https://www.twitch.tv/videos/2099992497]]|
+|24/03/27|94|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day94「ロスサントスお料理教室開催！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=bnyGCTXCR2s]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day88 揚物ころも 奇肉屋＆BMC ハッピーナッツ！}>>https://www.twitch.tv/videos/2102812858]]|
+|24/03/29|95|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day95「店番とかみやくんとレース！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=Qe0RrMAW9KU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day88 揚物ころも 奇肉屋＆BMC ハッピーナッツ！}>>https://www.twitch.tv/videos/2104721114]]|
+|24/03/30|96|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day96「カラオケとドッキリ、喜怒哀楽な一日」奇肉屋＆BMC>>https://www.youtube.com/watch?v=smpVINNadrI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day89 揚物ころも 奇肉屋＆BMC 思い出！}>>https://www.twitch.tv/videos/2105758439]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+***2024年04月(#97~110)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|24/04/03|97|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day97 「BMC会議&お別れ」奇肉屋＆BMC>>https://www.youtube.com/watch?v=B6jO67J1jds]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day96 「BMC会議！なにもしらないあげころとすべてを知ってるあげころ号」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2109458366]]|
+|24/04/06|98|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day98 「いってらっしゃい！とおかえり！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=WBwVM3dkNYs]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day97 「手紙」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2112304272]]|
+|24/04/07|99|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day99 「粉を街にばらまく」奇肉屋＆BMC>>https://www.youtube.com/watch?v=GwnBwjF6vcY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day99 「粉を街にばらまく」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2113289778]]|
+|24/04/09|100|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day100 「KONA」奇肉屋＆BMC>>https://www.youtube.com/watch?v=u21dSSZdYRY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day100「KONA」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2115072087]]|
+|24/04/10|101|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day101 「奇肉屋接客レクチャーと店長とおでかけ」奇肉屋＆BMC>>https://www.youtube.com/watch?v=34AS_KBtiY4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day101「チャリ、KONA、車」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2115931216]]|
+|24/04/12|102|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day102 「セクシーDAY」奇肉屋＆BMC>>https://www.youtube.com/watch?v=I9mxRflEQcg]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day102「楽しい日々」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2117664860]]|
+|24/04/14|103|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day103 「BMCまったり店番」奇肉屋＆BMC>>https://www.youtube.com/watch?v=_dgYg9YZNzo]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day103「21時45分くらいまで」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2119483741]]|
+|24/04/16|104|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day104 「色んなお客さんがくる奇肉屋店番とトウユンさんライブ！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=rr7BochIKCo]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day104「なんか楽しくなったらしい！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2121245982]]|
+|24/04/17|105|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day105 「師匠と仙人とレース、BMC店番！」奇肉屋＆BMC>>https://www.youtube.com/watch?v=Kbo4Eu0_IGU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day105「好きなことしたい日！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2122078466]]|
+|24/04/18|106|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day106 「名前を呼んではいけない食べ物、奇肉屋新人アルバイト確保！」奇肉屋＆BMC>>https://youtu.be/eqG4WMVPFi0?si=aTZMxbi9UmLXD4al]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day106「予定変更」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2122953431]]|
+|24/04/19|107|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day107 「てつおさんと遅番」奇肉屋＆BMC>>https://youtu.be/OD4X44PIUM0?si=6JfTbyrSR8CUkL2c]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day107「めずらしい遅番」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2123962602]]|
+|24/04/20|108|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day108 「ボクシングとみんなの笑い声考察！」奇肉屋＆BMC>>https://youtu.be/S8JLKjy4PTI?si=MB2kNmzdq967t8D7]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day108「レース練習と早番」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2124699044]]|
+|24/04/23|109|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day109 「店長の誕生日！」奇肉屋＆BMC>>https://youtu.be/KLdLMFveIVY?si=yBPqHg3VjUMbDOb8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day109「店長の誕生日！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2127363600]]|
+|24/04/26|110|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day110 「ホスト！PNG喧嘩やめてね👍」奇肉屋＆BMC>>https://youtu.be/NoZaAaY1tsE?si=9PUwFHKpamhTWzvy]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day110「KONAKONAKONA」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2129925516]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+***2024年05月(#111~#117)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|24/05/04|111|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day111「飲食改革とインターネットリテラシー」奇肉屋＆BMC>>https://youtu.be/dkXnbeBiMu4?si=UO4i0YRT18ZIB0MW]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day111 「久しぶりの起床！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2137013200]]|
+|24/05/05|112|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day112「白市民でいる理由とゴリラ」奇肉屋＆BMC>>https://youtu.be/3DGWTCq_pgo?si=YNdrInLW71EneYbe]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day112 「今日も元気！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2137897841]]|
+|24/05/21|113|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day113「めちゃめちゃ久しぶり！」奇肉屋＆BMC>>https://youtu.be/pRqzGizzbIA?si=C16aolgUxSHY_M3T]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day113 「めちゃめちゃ久しぶり！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2151324590]]|
+|24/05/23|114|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day114 「HBD&ライアーステージ」奇肉屋＆BMC>>https://youtu.be/sWSyLv1UvUI?si=m0PU1ORIw08tfsfn]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day114 「あげころダイエットする！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2153023519]]|
+|24/05/24|115|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day115 「奇肉屋の仕込みを見せちゃうよ！」奇肉屋＆BMC>>https://youtu.be/ft-RpsiC7KY?si=s7ncPByxsNwcS3dT]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day115 「飲食店盛り上げ隊」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2153891442]]|
+|24/05/29|116|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day116 「あげころに婚約の危機！？IMOD始動！おめでとうといってらっしゃい！」奇肉屋＆BMC >>https://youtu.be/tyo05RBXqLM?si=kLXPPdDIvZBj2kjr]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day116 「おめでとうもいってらっしゃいも！」奇肉屋＆BMC>>https://www.twitch.tv/videos/2158200506]]|
+|24/05/31|117|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day117 「あげころ逮捕の危機！」奇肉屋＆BMC >>https://youtu.be/iVRD0Le_VXw?si=vW5eAeW6bX_yiFT4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day117 「今日は奇肉いるかな！」奇肉屋＆BMC>>https://www.twitch.tv/videos/2159912498]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+//
+***2024年06月(#118~#131)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|24/06/01||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【番外編】～激動のあげころ～ IMOD始動、奇肉殺害罪事件、交友関係増えた！>>https://www.youtube.com/live/ngXR06BxUKA?si=MJxuKk4rwmZ688-r]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)番外編「19時45分まで起きる！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2160714282]]|
+|24/06/04|118|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY118「友達？奇肉？美味しそう」奇肉屋＆BMC>>https://youtu.be/mEmfmlNTZsk?si=K8Gh6JHLG8t51g_Y]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY118「謝罪・・・？奇肉？修理？」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2163297383]]|
+|24/06/06|119|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY119「セクハラ対応のすヽめ」奇肉屋＆BMC>>https://youtu.be/mtt45b-fr4c?si=OuRRiZYYVzuNKNu4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY119「衝動！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2164967813]]|
+|24/06/07|120|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY120「もう揉み合いはゴリゴリだ！」奇肉屋＆BMC>>https://youtu.be/w8kPdVXTsVA?si=Od3jtfJ5hXPS39BI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY120「仕込み！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2165801665]]|
+|24/06/12|121|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY121「うちの熱いアイドル活動始まります！」奇肉屋＆BMC>>https://youtu.be/ByJH8G28cGg?si=yaLxiubyUGtKNM0W]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY121「うちこの前どこで寝たっけ？」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2170101240]]|
+|24/06/15|122|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY122「あげころ、家を買う。第二回オブザイヤー会議！」奇肉屋＆BMC>>https://youtu.be/WgjCWj6Mndo?si=UKScW_hRlkLE6cn8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY122「夢じゃないよね？」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2172659468]]|
+|24/06/16|123|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY123「奇肉屋会議！」奇肉屋＆BMC >>https://youtu.be/IlS_YumHue0?si=dEnt0x4pp5uV5_en]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY122「奇肉屋会議！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2173531711]]|
+|24/06/18|124|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY124「餡ブレラ Vermilionキャバ嬢！」奇肉屋＆BMC>>https://youtu.be/7jlaC8XGBNs?si=v02_FyyAQ--ydp5J]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY123「Vermilionキャバ嬢！アイドル顔合わせ！？」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2175121652]]|
+|24/06/20|125|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY125「9055&BMCレースイベントとアイドル顔合わせ！」奇肉屋＆BMC>>https://youtu.be/blRUSe4m4Jg?si=c94kxihRBsjYhLXg]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY124「Pからの大事な話？レースイベント！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2176800675]]|
+|24/06/21|126|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY126「アイドル達のお忍び物件探し！と警察調査協力！」奇肉屋＆BMC>>https://youtu.be/Eqo_maPBDO8?si=Yym8zi_EGhEl7Xws]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY125「アイドルは見た目から！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2177678959]]|
+|24/06/23|127|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY127「アイドル活動について話しながら自宅のハウジング」奇肉屋＆BMC>>https://youtu.be/zNcsoCJy3oo?si=NfZiEYK0i353dIan]] |[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY126「コソコソ」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2179455176]]|
+|24/06/25|128|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY128「ハッピーバースデーあげころ！」奇肉屋＆BMC>>https://youtu.be/ub2anKcbsWY?si=JjqMrX6L5Uj9F82G]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY127「ドキドキ」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2181215096]]|
+|24/06/26|129|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY129「BMC店番と師匠への気持ち」奇肉屋＆BMC>>https://youtu.be/BbTytvInaAw?si=WpV7IEu5usj3-OKT]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY129「意を決する！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2182068344]]|
+|24/06/28|130|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY130「ハンさんなんてだいきらい！」奇肉屋＆BMC>>https://youtu.be/zmO7gtVAu7Y?si=Iebk2WI_r_OQglhL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY129「意を決する！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2183796235]]|
+|24/06/29|131|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY131「BMCBBQとツルギさんと一緒」https://youtu.be/dGCeTsVg0wY?si=G5TxjtnSvzpb0A3F]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY131「おはよう！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2184635085]]|
+#endregion
+//
+***2024年07月(#132~#140)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|24/07/02|132|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY132「奇肉屋もBMCも店番」>>https://youtu.be/LzbRK2pVbe8?si=GzHy3M7onM_1IEnE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY132「レースどうなった！？」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2187204015]]|
+|24/07/03|133|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY133「師匠からの挑戦状」>>https://youtu.be/IEnlicMgnRo?si=zmwPebo43XpqnJJl]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY133「明日、肉フェス！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2188095860]]|
+|24/07/04|134|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY134「肉フェススタッフ！」>>https://youtu.be/ObpuzVHFTeI?si=DwubQiZ3ZM00AsnG]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY134「肉フェス！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2188957175]]|
+|24/07/12|135|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY135「さよならあげころ！謎の施設に閉じ込められる」>>https://youtu.be/0pHn9OC_rB4?si=CqZaqCRyVpMxFsIb]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY135「奇肉屋新店舗オープン！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2195679697]]|
+|24/07/13|136|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY136「謎の施設の真相を知る！」>>https://youtu.be/Rs1ELwn3wlQ?si=AOIwKxSpfWB9gcAP]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY136「飲食イベントできることすすめてみたり、プレゼント用意したり、まったり」奇肉屋＆BMC }>>https://www.twitch.tv/videos/2196518757]]|
+|24/07/19|137|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY137「うさぎさんの偽物と大喧嘩！」>>https://youtu.be/CMdiEsVvIro?si=y9uoouNCoJZ6hNlh]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY137「夏！海！BBQ]！」奇肉屋＆BMC }>>https://www.twitch.tv/videos/2201658754]]|
+|24/07/23|138|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY138「海で遊び尽くす！」>>https://youtu.be/bsRhnydEIq0?si=_-5CX3wLVn6hbXDL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY138「おひさしぶり！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2205092577]]|
+|24/07/26|139|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY139「BMC店番と恋話」>>https://youtu.be/4O1kGgalVUM?si=CSGU404LShmDkuN2]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY139「夏！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2207853356]]|
+|24/07/27|140|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY140「小里馬ァさんとデートの約束とツルギさんと結婚！？」>>https://youtu.be/GCvAaysIHVI?si=GMw7T_fWJ0YWlPHF]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY139「めっちゃ遅番！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2208626175]]|
+#endregion
+//
+***2024年08月(#141~#152)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|24/08/01|141|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY140「奇肉屋会議！」>>https://youtu.be/4RXITYoctd4?si=3PtzU5PTrB9IvX-p]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY140「奇肉屋会議！」奇肉屋＆BMC}>>https://www.twitch.tv/videos/2212991800]]|
+|24/08/02|142|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY142「 デート オア ライブ！～本編～」>>https://youtu.be/3C1hmOINuMg?si=dLiDP-rVcqe7C9_8]]（ストグラ～07:27:00）|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY141「デート オア ライブ！べりはぴ定例！」}>>https://www.twitch.tv/videos/2213765465]]（ストグラ～07:27:00）|
+|24/08/06|143|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY143「プロデューサーもべりはぴも大集合！」>>https://youtu.be/_mxQQprZ-Yo?si=HFs3kxCQRH25Okd2]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY142「べりはぴ集合！動き始めるあ秘密のアイドル編」}>>https://www.twitch.tv/videos/2217194239]]|
+|24/08/09|144|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day144「まきぴちゃんとマンジちゃんの奇肉屋体験」>>https://youtu.be/L45ZYEqUflw?si=J7cw1M8TMJ1gWgC_]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY143「奇肉屋に体験2人もくるぞ！あとレース！」}>>https://www.twitch.tv/videos/2219737119]]（ストグラ～06:00:00）|
+|24/08/11|145|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day145「JTSレースと奇肉屋工場見学」>>https://youtu.be/LPewIIBsN1o?si=oGg_LNPhqIVVYH1W]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY144「レースイベント！！！できたら占い！！！」}>>https://www.twitch.tv/videos/2221494075]]|
+|24/08/13|146|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day146「JTSダンスバトル＆PNG会議(リーダー不在)」>>https://youtu.be/bAt3NxYZELI?si=VAR15wMz5e1IARk5]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY144「第二次デートに備えて船の免許取りたい！」}>>https://www.twitch.tv/videos/2223149781]]|
+|MIDDLE:24/08/14|MIDDLE:147|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day147-1「卒業試験と大学入学」>>https://youtu.be/wCmi4_9AfsI?si=LrzdgwAgybyTukTk]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day147-2「夏の大三角」>>https://youtu.be/dVPkjAQOlFY?si=TcZCS-X0p2eHOH0u]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day147-3「アフターダーク」>>https://youtu.be/JXkJLreL9Sg?si=u3oejjdcvpcFFJyF]]|MIDDLE:[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY145「大学生あげころ～お酒は絶対に飲みません～」}>>https://www.twitch.tv/videos/2224037170]]|
+|24/08/15|148|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day148「日常」>>https://youtu.be/uoPtmz3T24M?si=udr1gJFTns8amgor]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY146「日常」}>>https://www.twitch.tv/videos/2224772586]]|
+|24/08/16|149|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day149「想い〜めぐころ、らみころ〜」>>https://youtu.be/QE0xuO7Gr-c?si=-1zYxY9zlSKz0eae]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY147「日常」}>>https://www.twitch.tv/videos/2225725021]]（ストグラ～05:32:00）|
+|24/08/21|150|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY150「逆だったかもしれねェ」>>https://youtu.be/cyOr8cpHif4?si=v98LW9OnhBDfoZu8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY150「BMC１周年！」}>>https://www.twitch.tv/videos/2229992062]]|
+|24/08/23|151|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY151「奇肉屋海回！」>>https://youtu.be/2C5rMbPz15A?si=DqrLw4vRrtXqPhnP]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY151「奇肉屋体験がくる日！」}>>https://www.twitch.tv/videos/2231719875]]|
+|24/08/24|152|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day152「リーダーボード1位になった日」>>https://youtu.be/qu3w04tZmK8?si=aTm4m7Ve9lMyYdun]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY152「修行編」}>>https://www.twitch.tv/videos/2232566588]]|
+#endregion
+//
+***2024年09月(#153~#164)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|24/09/07|153|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY153「トライアングルデート決定」>>https://youtu.be/4Sfgfws9BaQ?si=49kvrLP8zcMIelu9]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY153「ただいま！」}>>https://www.twitch.tv/videos/2244835845]]|
+|24/09/08|154|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY154「味環さんの案内！」>>https://youtu.be/QMYxnACF7ss?si=g2qRqO_3TR3P9bFj]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY154「早寝！」}>>https://www.twitch.tv/videos/2245762431]]|
+|24/09/10|155|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY155「師匠に公式レース1位を報告」>>https://youtu.be/e4kSfoUEK7k?si=fI0Dl33VO7XvEjDZ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY155「ちょっとだけ！」}>>https://www.twitch.tv/videos/2247415281]]|
+|24/09/11|156|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY156「奇肉日和」>>https://youtu.be/NeA0WJYlMDU?si=rLki88V7RLL_HqrA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY156「にかのり準備もしたい！」}>>https://www.twitch.tv/videos/2248261757]]|
+|24/09/12|157|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY157「PNGWIN！ツルギさんも起きた！」>>https://youtu.be/0TdOi6ZLiZI?si=7YVhm3tFjPAnpGha]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY157「PNGWIN！」}>>https://www.twitch.tv/videos/2249095464]]|
+|MIDDLE:24/09/13|MIDDLE:158|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY158-1「にかのり準備！」>>https://youtu.be/SV6iMLTSmqQ?si=5fojDnbPaNSWWE4K]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY158-2「にかのり！」>>https://youtu.be/j93lLYVpBhM?si=CFt7I0Q1n-G-QTXb]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY158-1「にかのり！」}>>https://www.twitch.tv/videos/2249876331]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY158-2「にかのり！」}>>https://www.twitch.tv/videos/2249905518]]|
+|24/09/14|159|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY159「ヤバいメンバーと変装ホスト！」>>https://youtu.be/KXDgNvx3iuU?si=BVprgobhrgTf_1if]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY159「ホスト行く日！」}>>https://www.twitch.tv/videos/2250769409]]|
+|24/09/18|160|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY160「パンちゃんのレース免許とBMC店番」>>https://youtu.be/LCHLIjftZCc?si=N_oytxeBAY0INJ17]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY160「早起きはとっても得」}>>https://www.twitch.tv/videos/2254089005]]|
+|MIDDLE:24/09/20|MIDDLE:161|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY161「おネエへ恋愛相談、あげころ免許はく奪の危機！？」>>https://youtu.be/B6RUZMarQCA?si=F1ZZ5TMOTNheeJ8d]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY161「日常」}>>https://www.twitch.tv/videos/2255712436]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY161「最前列で社長の講義を聴く！」}>>https://www.twitch.tv/videos/2255858222]]（PCトラブルにより配信終了）|
+|24/09/24|162|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY162「小里馬ァさんと海で叫べ！！！」>>https://youtu.be/bP_nQHdJDCg?si=8SvnuW-RrTMJZqhA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY162「おはよう！」}>>https://www.twitch.tv/videos/2259094735]]|
+|24/09/26|163|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY163「BMC店番＆初めてのアルバイト」>>https://youtu.be/HOtzRM-eCyk?si=gAH6GxPwBGhe8DsG]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY163「人生」}>>https://www.twitch.tv/videos/2260728073]]|
+|24/09/27|164|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY164「揚物かなさんと出会う、パラシュート大会参加！」>>https://youtu.be/yGTIyVJQFA8?si=Y8f93zno2qsHqQZ4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY164「遅番 / BMC秋コスチューム案考えたい！」}>>https://www.twitch.tv/videos/2261694449]]|
+#endregion
+//
+***2024年10月(#165~#175)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|24/10/01|165|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY165「PNG原付部」>>https://youtu.be/nUIk0jSW1sY?si=63sT8o0NUVbr3h4z]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY165「早起き」}>>https://www.twitch.tv/videos/2264853031]]（ストグラ～2:43:00まで）|
+|24/10/03|166|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY166「べりはぴ集合、そして改名」>>https://youtu.be/D4SMEtbfgCI?si=mtECuI_Zt5WGDC58]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY166「明日からちょっとお休み」}>>https://www.twitch.tv/videos/2266502176]]|
+|24/10/06|167|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY167「ぴん子さんのライブとアイドル練習！」>>https://youtu.be/qgZSHbGmuR0?si=lAHuvzVoGEfIF_sS]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY167「ただいま！お仕事もアイドルもできることを進める！」}>>https://www.twitch.tv/videos/2269075767]]|
+|24/10/08|168|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY167「隠密アジトハウジング」>>https://youtu.be/gYpIa0NfR5k?si=6ItN9vkizFlOHGn0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY168「秘密」}>>https://www.twitch.tv/videos/2270653332]]|
+|24/10/09|169|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY168「BMCに体験が2人来た！」>>https://youtu.be/_yy40D004ds?si=lVm41K4ugtQ3Q2v2]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY169「こっそり」}>>https://www.twitch.tv/videos/2271472970]]|
+|24/10/10|170|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY169「ツルギさんとこそつきハウジング」>>https://youtu.be/FrRsyhWlk3Q?si=4VcY2UNeaU7hORiP]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY170「こそ練習」}>>https://www.twitch.tv/videos/2272335157]]|
+|24/10/11|171|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY170「PNGVS忍さん」>>https://youtu.be/FBUUcuAmz7I?si=KZtHWHl0ADzM5HdN]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY170「こそ練習」}>>https://www.twitch.tv/videos/2273133083]]|
+|24/10/12|172|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY171「警察にガチで怒られるあげころとおっちゃん」>>https://youtu.be/ISqMl10UY9c?si=mu0zOkAJWPZE7rSx]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY171「まさかのおはよう」}>>https://www.twitch.tv/videos/2274172740]]|
+|24/10/13|173|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY172「さぶ郎さんと恋話からの盛蔵と木比呂で衣装作り！」>>https://youtu.be/lTqy27PJ9FU?si=5hytGbi1CUyuKfdA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY172「早番」}>>https://www.twitch.tv/videos/2274870538]]|
+|MIDDLE:24/10/17|MIDDLE:174|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY173「小里馬ァさんと初めてのケンカ！仲直りはパンケーキの味」>>https://youtu.be/sMPwYAb5_94?si=NsPr7XUiI_xXHFI6]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY173「ビラ配り」}>>https://www.twitch.tv/videos/2278183028]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY173「間に合う！？」}>>https://www.twitch.tv/videos/2278322308]]|
+|24/10/25|175|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY174「世界統合の兆し」>>https://youtu.be/bO6TregC-Qo?si=mj5oR24Gcg18cHtu]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY174「1週間ぶりの起床」}>>https://www.twitch.tv/videos/2284807480]]|
+#endregion
+//
+***2024年11月(#176~#186)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|24/11/02|176|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY175「小里馬ァさんとメイドカフェ！」>>https://youtu.be/PCr1vBqEs7Y?si=IVpq0mSwUjudXCiL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY175「メイドカフェいきたい！」}>>https://www.twitch.tv/videos/2291681920]]|
+|24/11/06|177|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY176「葛城魔改造」>>https://youtu.be/kFIEsZYDpUk?si=g9n1iH8Yrroz_UV6]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY176「葛城さんが暴走してるらしい」}>>https://www.twitch.tv/videos/2295006353]]|
+|24/11/08|178|&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY177「葛城体験」}>>https://www.twitch.tv/videos/2296651675]]|
+|24/11/09|179|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY177「SWAGと大川さんとの免許講習」>>https://youtu.be/I-0eiASGo4I?si=RJRuMD6HpuZEAOyh]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY178「BMC店番から始まる日」}>>https://www.twitch.tv/videos/2297402002]]|
+|24/11/10|180|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY178「BMC総出の葛城体験」>>https://youtu.be/9S6swS3qxV0?si=qwXOwCJnllb75xWV]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY179「葛城体験とできたらギガさんに航空機講習」}>>https://www.twitch.tv/videos/2298403216]]|
+|24/11/12|181|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY179「Dr.ギガの航空機教習！」>>https://youtu.be/JFJ_zJNmdIw?si=5gqW99sbLGsAV5MD]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY180「Dr.ギガのヘリ教習！」}>>https://www.twitch.tv/videos/2299958251]]|
+|24/11/14|182|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY180「アンナさんの案内とアイドル！」>>https://youtu.be/OPrQY9s6FZc?si=AlZkiyKTqJY7g5Hp]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY181「太陽のエネルギー！」}>>https://www.twitch.tv/videos/2301551683]]|
+|24/11/15|183|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY181「新商品お気持ち！」>>https://youtu.be/02eQNzUxT8c?si=mYcyYLyxCXRXENor]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY182「奇肉屋＆BMC！店長にガチャシステム改良について話す！」}>>https://www.twitch.tv/videos/2302331983]]|
+|24/11/19|184|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY182「シャンプロ紅白練習」>>https://youtu.be/gZQ8mLf7IEs?si=b7d0eorSDDGnD5Rc]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY183「べりーはっぴー！」}>>https://www.twitch.tv/videos/2305658359]]|
+|24/11/20|185|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY183「冬の三角形とクイズ番組出演」>>https://youtu.be/a7WOSBTjecY?si=OWfAGDsve6bnqPw8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY184「冬の空！」}>>https://www.twitch.tv/videos/2306480384]]|
+|24/11/28|186|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY184「レオさんのライブ！！！」>>https://youtu.be/1CeFsKGOjHk?si=g4jZAyweh8VRo94F]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY184「PNGWIN！！！！！！」}>>https://www.twitch.tv/videos/2313066090]]|
+#endregion
+//
+***2024年12月(#187~#201)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|24/12/03|187|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY185「万博と木比呂の冒険」>>https://youtu.be/w29zfPAsk60?si=SscPlEcDRb9GgqEL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY184「本日快晴です！」}>>https://www.twitch.tv/videos/2317175487]]|
+|24/12/04|188|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY186「るるぱいと忍さんとおでかけ！」>>https://youtu.be/fMvUrRYpRCg?si=IOaYvxb6eLGQkhma]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY185「奇肉屋＆BMC！早番！」}>>https://www.twitch.tv/videos/2317960482]]|
+|24/12/05|189|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY187「レースで大惨事」>>https://youtu.be/xxV9K_51Gwk?si=8gVPX6mAHxpBPhrq]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY186「レースする日！！！！！」}>>https://www.twitch.tv/videos/2318768445]]|
+|24/12/10|190|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY188「夏の終わりと冬の始まり」>>https://youtu.be/yUX19uJZ1nE?si=zrN-7rHBWoW58mud]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)レースしたいなあ}>>https://www.twitch.tv/videos/2323093271]]|
+|24/12/11|191|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY189「つばめちゃんHBD」>>https://youtu.be/Xgj8ACmdoXs?si=93-kpeglj1yqZlh0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY188「いつもどおり」}>>https://www.twitch.tv/videos/2323944049]]|
+|24/12/12|192|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY189「また雪」>>https://youtu.be/GHCaO8J1PlY?si=QBmtWSaWeT4qLgEW]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY189「今日も雪・・・？」}>>https://www.twitch.tv/videos/2324757513]]|
+|24/12/13|193|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY190「めぐみさんの恋の行方」>>https://youtu.be/4OwQGamELaw?si=3foAUW7PUevuLUAI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY190「車を返却！ちょっとだけ！」}>>https://www.twitch.tv/videos/2325565552]]|
+|24/12/17|194|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY191「大川さんと馬とポスターの謎」>>https://youtu.be/SC524zElv1U?si=8W3lQK1VCZ9fFoNh]]||
+|24/12/19|195|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY192「忍あげころコンビでマチダカート」>>https://youtu.be/sG6-PA6VOPw?si=ARGzihhX7p6VGh89]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY192「マチダカートとべりはぴっ！」}>>https://www.twitch.tv/videos/2330620786]]|
+|24/12/20|196|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY193「ゆびきりげんまん」>>https://youtu.be/LMzNwK1dUeo?si=19aWTD4D3Qo88gV1]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY193「明日はいよいよ・・・」}>>https://www.twitch.tv/videos/2331467793]]|
+|24/12/21|197|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY194「シャンプロ紅白DAY1キラついてこう！」>>https://youtu.be/IB0RVWU_sNk?si=AoqZqPBnpbi9n-25]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY194「紅白べりはぴデビュー日！キラついてこう！」}>>https://www.twitch.tv/videos/2332335527]]|
+|24/12/24|198|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY195「うさぎさんクリスマスライブ！」>>https://youtu.be/K_CdDS0KaII?si=WBt2_FwxLvcqu5o-]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY195「輝きは消えない！」}>>https://www.twitch.tv/videos/2334848987]]|
+|24/12/26|199|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY196「なぜかハンバーガー教の信者服を見繕うあげころ、BMC忘年会！」>>https://youtu.be/KpMtHliPLx0?si=7VDaY-UvtgUScnIw]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY196「BMC忘年会（立って参加）」}>>https://www.twitch.tv/videos/2336269201]]|
+|24/12/27|200|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY197「色々あった日、学力テストが決まった日」>>https://youtu.be/NfN6xDkYLsM?si=ZvDZqa2aI-j8xHzA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY197「風呂場脱却」}>>https://www.twitch.tv/videos/2337104323]]|
+|24/12/28|201|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[DAY198「やっぱり惜しい久々コロコロ」>>https://youtu.be/rfgFm3vzqOs?si=zhHlvzObrOH-0HKD]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY198「なんでもない日だっていい！」}>>https://www.twitch.tv/videos/2337939658]]|
+#endregion
+#endregion(2024年)
+//
+**2025年
+#region(,開く)
+***2025年01月(#202~#208)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|25/01/01|202|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[199「忍さんリグゼさんと初詣！あけまして、おめでとうございます！」>>https://youtu.be/i1ptILmIl9M?si=okk265iGESRRbRMO]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY199「あけまして、おめでとうございます！」}>>https://www.twitch.tv/videos/2341314901]]|
+|25/01/02|203|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[200「うさぎさんとつばめちゃんから夜の忍について聞く」>>https://youtu.be/DgdlHWF0KGI?si=fBimr3eqlaYFTPeN]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY200「まだまだ、お正月」}>>https://www.twitch.tv/videos/2342193802]]|
+|25/01/15|204|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[201「オタクになる」>>https://youtu.be/85vVrERhsK4?si=0VGND6TY4BJCCw3F]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY201「何日ぶり・・・？」}>>https://www.twitch.tv/videos/2353880466]]|
+|25/01/17|205|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[202「オタクに紛れてべりはぴラジオを聞く！>>https://youtu.be/qeDN-Nozby4?si=RT5NWeI7mfDTsN8C]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY202「べりはぴラジオ楽しみ！」}>>https://www.twitch.tv/videos/2355719501]]|
+|25/01/19|206|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[203「忍さんから大事な話がある日」>>https://youtu.be/fXiqgU9q-sM?si=R51bg7C-9ngg8m57]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY203「忍さんからの話とは・・・！」}>>https://www.twitch.tv/videos/2357550765]]|
+|25/01/29|207|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[204「奇肉屋店番デー！町田さんの恋話」>>https://youtu.be/7vbpznz5OIs?si=Q3J0MB94bT5KSNE-]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY204「めっちゃ久しぶり！」}>>https://www.twitch.tv/videos/2366686930]]|
+|25/01/31|208|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[205「なにこれ…？」>>https://youtu.be/xCMPD_BHods?si=rKEtCggmhts6h-IB]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY205「BMC店番から始める日」}>>https://www.twitch.tv/videos/2368503413]]|
+#endregion
+//
+***2025年02月(#209~#213)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|25/02/02|209|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[206「恵方巻食べにBMCへ！」※手元カメラ有>>https://youtu.be/ROLDoG3gC8s?si=YEAACNv1RYvd46eC]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY206「風邪気味、恵方巻食べにBMCへ！」※手元カメラ有}>>https://www.twitch.tv/videos/2370458166]]|
+|25/02/06|210|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[207「忍さんの浄化」>>https://youtu.be/n2sER5WJ6Xs?si=5ptSMKeCMdmiqeRs]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY207「今日はなにしよー！」}>>https://www.twitch.tv/videos/2373874037]]|
+|25/02/14|211|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[208「バレンタインとべりはぴラジオ>>https://youtu.be/PUCsHNvyRD0?si=4LjSt-kEAqNhd13j]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY208「ばれんたいん・かーど」}>>https://www.twitch.tv/videos/2380949053]]|
+|25/02/18|212|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[209「BMCワンオペデー！」>>https://youtu.be/sSG_o3MP6Wk?si=6WQFSxuxyeU6zkcr]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY209「おはよう！」}>>https://www.twitch.tv/videos/2384474411]]|
+|25/02/25|213|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[210「BMC＆9055学力テスト答え合わせ」>>https://youtu.be/zWN6OoS23gM?si=ZUPgpNKj6FWxTgEG]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)DAY210「学力テスト答え合わせ」}>>https://www.twitch.tv/videos/2390741196]]|
+#endregion
+//
+***2025年03月(#214~222)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|25/03/01|214|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[211「BMCワンオペデー！唐揚げの夢」>>https://youtu.be/5hVjKW2YKX0?si=f-5WeCoViP3HcZN3]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)211「べりはぴにお仕事！連絡したい！」}>>https://www.twitch.tv/videos/2394176490]]|
+|25/03/04|215|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[212「明日からカラメカPUS！」>>https://youtu.be/kHyF0ghJDgA?si=wkJySkwYhr00e7UZ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)211「明日からカラメカPUS！」}>>https://www.twitch.tv/videos/2396843206]]|
+|25/03/11|216|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[213「PNGの想い出」>>https://youtu.be/TBYNmj0wbmY?si=yOG36RDangIhF5JX]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)212「早番、店番」}>>https://www.twitch.tv/videos/2402811396]]|
+|25/03/12|217|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[214「BMCタロットカード」>>https://youtu.be/6TXdGcvbh48?si=5MbBAZ7JiiPSCCKG]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)213「遅番」}>>https://www.twitch.tv/videos/2403819377]]|
+|25/03/14|218|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[215「べりはぴラジオ1回目！>>https://youtu.be/TyrpHG_rPag?si=wtvR5hczV9ONjB48]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)213「べりはぴ！」}>>https://www.twitch.tv/videos/2405498320]]|
+|25/03/18|219|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[216「もうすぐアイドルライブ！」>>https://youtu.be/WlLfIGng1Aw?si=1Opj3d2vOQmSAfiE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)214「木曜日はアイドルライブ！」}>>https://www.twitch.tv/videos/2408821577]]|
+|25/03/20|220|&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[&font(#6441A4){&icon_fa(fa fa-twitch)215「べりはぴ！アイドルライブの当日！」}>>https://www.twitch.tv/videos/2410524429]]|
+|25/03/25|221|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[218「忍さんとのお話」>>https://youtu.be/oOBUIt-PwSM?si=nao8YBgojbl519xN]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)216「平和とレース」}>>https://www.twitch.tv/videos/2414841990]]|
+|25/03/31|222|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[219「月曜なのに街があいてる！！！！」>>https://youtu.be/6UkjfbDkOwc?si=DpA4Ow2ZQDRiw90H]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)217「街があいてる！！！！」}>>https://www.twitch.tv/videos/2420174734]]|
+#endregion
+//
+***2025年04月(#223~230)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|25/04/01|223|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[???「焦村家 店長！」>>https://youtu.be/i1Zrfl859Kk?si=mdZ9H9HfUyqVGzae]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)???「焦村家 店長！」}>>https://www.twitch.tv/videos/2420971182]]|
+|25/04/02|224|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ネタバラシ】SPDお疲れさまでした！>>https://youtu.be/E1ia11e9838?si=kyNXImQBQ6i2bkh5]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)【ネタバラシ】SPDお疲れさまでした！}>>https://www.twitch.tv/videos/2421816561]]|
+|25/04/03|225|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[220「夢から覚めて」>>https://youtu.be/OVOpjKWNTDk?si=z-PuErmurRTZs4fX]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)219「GOGOGO」}>>https://www.twitch.tv/videos/2422695108]]|
+|25/04/04|226|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[221「レース！」>>https://youtu.be/RFdFh5BBfcA?si=bv6qmy5N1DBmnUbg]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)220「タイム縮めたい！」}>>https://www.twitch.tv/videos/2423638003]]|
+|25/04/08|227|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[222「BMCワンオペ！」>>https://youtu.be/0GDA6dyMRg4?si=0zursu_cZCIDhGaU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)221「おはよー！」}>>https://www.twitch.tv/videos/2427216620]]|
+|25/04/09|XXX|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[224「超激動、きゅきゅふぇす」>>https://youtu.be/PntU7QkHDfw?si=3L0XZQ24xbU67CRe]]||
+|25/04/10|228|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[223「カブトムシ」>>https://youtu.be/uiXuWsXtQg8?si=hqPJ_30mApA-3OH9]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)222「早番」}>>https://www.twitch.tv/videos/2428935388]]|
+|25/04/17|229|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[224「今日はうさぎさんライブ！特別仕様！」>>https://youtu.be/gCqjKPlPbEI?si=8LNCvoC-SA_rQN0R]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)「今日はうさぎさんライブ！特別仕様！」}>>https://www.twitch.tv/videos/2435194972]]|
+|25/04/20|230|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[225「座薬のはじまり！」>>https://youtu.be/4XM5HvmGGog?si=9jaC5ps16M2xmv7N]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)224「早番！」}>>https://www.twitch.tv/videos/2437851329]]|
+#endregion
+//
+***2025年05月(#231~240)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|25/05/02|231|&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[&font(#6441A4){&icon_fa(fa fa-twitch)225「今日からまた起きます！」}>>https://www.twitch.tv/videos/2448166145]]|
+|25/05/03|232|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[226「るるぱいと空の旅、金玉がかりあげころ」>>https://youtu.be/VhmHZd3dG1Y?si=9r_vtgSlnVgsEjLv]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)226「ログイン戦争敗北者」}>>https://www.twitch.tv/videos/2449082527]]|
+|25/05/04|233|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[227「初めてのプリズンとライアーステージ！」>>https://youtu.be/ddh6EsyD34c?si=JFqS6TH_SzFv7Iii]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)227「ライアーステージ」}>>https://www.twitch.tv/videos/2449966252]]|
+|25/05/16|234|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[228「泣くなあげころ！」>>https://youtu.be/bIUFv-EVy-8?si=61qjW43Yo1kWlHZV]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)228「お久しぶり！」}>>https://www.twitch.tv/videos/2460093864]]|
+|25/05/17|235|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[229「まったりBMC店番！りりぱいとケツの攻防」>>https://youtu.be/9J7KoHhKed0?si=IFJwVbNo9KHNDMam]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)229「連続起床」}>>https://www.twitch.tv/videos/2461049925]]|
+|25/05/18|236|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[230「ウェスカーさん大激怒！半グレのヨシャパテさん！」>>https://youtu.be/oWByb0wpf8w?si=80nnOvptULfwhbtV]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)230「まったり！」}>>https://www.twitch.tv/videos/2461875153]]|
+|25/05/20|237|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[231「べりはぴ！1周年に向けて作戦会議！」>>https://youtu.be/wiS4nLOFRSc?si=6xkczrUPJiuJIZNi]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)231「今日もおきます！」}>>https://www.twitch.tv/videos/2463636162]]|
+|25/05/21|238|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[232「初めての肉体労働！ブラックジャックスさんの手術」>>https://youtu.be/JkGLzrR_Wrg?si=H6Lyt2pY_Axs-MAZ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)232「いつもの日々」}>>https://www.twitch.tv/videos/2464457674]]|
+|25/05/28|239|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[233「BMCワンオペあげころ！警察に公務執行妨害を仕向ける」>>https://youtu.be/jGhrGljfZKw?si=sWj5ojb3GqhAysTa]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)233「おはようございます！！！」}>>https://www.twitch.tv/videos/2470485739]]|
+|25/05/29|240|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[234「あげころ、整形する」>>https://youtu.be/PicIRr0SpBk?si=YTnfSmZVhLqpvA3w]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)234「今日も元気に！！！！！」}>>https://www.twitch.tv/videos/2471374996]]|
+#endregion
+//
+***2025年06月(#241~248)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|25/06/03|241|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[235「久々の初心者教習！マクソン最大さん！」>>https://youtu.be/zAyXZRBAqMU?si=q7UeQs-AlsC6FcIX]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)235「おはよ～ございます！」}>>https://www.twitch.tv/videos/2475949687]]|
+|25/06/04|242|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[236「向かうなら北がいい。怒りのリーさん！？」>>https://youtu.be/ZsgZdtcLg48?si=_X7uHRsJ1pIEP-2K]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)236「店番とアルバイト」}>>https://www.twitch.tv/videos/2476777914]]|
+|25/06/10|243|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[237「レオさんと主に鳩を助けた日！」>>https://youtu.be/qCGwkfqwt8Y?si=dMba_pWSYLUvEBOv]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)237「店番の日」}>>https://www.twitch.tv/videos/2482131008]]|
+|25/06/12|244|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[238「奇肉屋イベント！肝試し！？」>>https://youtu.be/DJbfjb0wY5c?si=yh9hVEFkv_MP3EOW]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)238「早番出勤！奇肉屋イベントのことも進むかも・・・？」}>>https://www.twitch.tv/videos/2483871430]]|
+|25/06/13|245|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[239「ウェスカーさんを撃て」>>https://youtu.be/Ej0CXywYBgo?si=j-_mWpz-Q_OI4Vts]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)239「あげころ出勤！」}>>https://www.twitch.tv/videos/2484745984]]|
+|MIDDLE:25/06/20|MIDDLE:246|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[240「べりはぴ近況報告と恋愛トーク」>>https://youtu.be/BS3flkAfyC8?si=ok_pGkAxomkg2Rjv]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)240「べりはぴ1周年」}>>https://www.twitch.tv/videos/2491031439]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)240「べりはぴ1周年」}>>https://www.twitch.tv/videos/2491070334]]|
+|25/06/22|247|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[241「火曜サスペンス劇場」>>https://youtu.be/WIFCjm7YmDM?si=u4NBWVRmaawdMWXP]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)241「記憶」}>>https://www.twitch.tv/videos/2492768872]]|
+|25/06/29|248|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[242「なんかきまづい！」>>https://youtu.be/7EtewIRQQ3A?si=L_dr3yL8wHTYZNkd]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)242「夏がくるぞ！」}>>https://www.twitch.tv/videos/2498966610]]|
+#endregion
+***2025年07月(#249~258)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|25/07/01|249|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[243「BMC早番！」>>https://youtu.be/FxJgXQ4n3j4?si=EgPWIohVKheMWN5j]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)243「早番！」}>>https://www.twitch.tv/videos/2500714562]]|
+|25/07/10|250|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[244「ルーク秋山を勝手にBMC体験させて大問題に！」>>https://youtu.be/DPTjtCFDfnw?si=sz-NBUvSD2tPntuG]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)244「BMCオリジナルソングと表彰状！」}>>https://www.twitch.tv/videos/2508562952]]|
+|25/07/15|251|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[245「忍さん企画レース第一走者！」>>https://youtu.be/CCRpW61UYrI?si=YpnZY2EZYfRkSRRQ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)245「社会貢献早番」}>>https://www.twitch.tv/videos/2512981167]]|
+|25/07/16|252|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[246「エスタークさんを更生させたい！」>>https://youtu.be/WWRHcFyI1ps?si=RA_DP8Bs7wSm3op4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)246「バレなきゃなにしてもいい早番」}>>https://www.twitch.tv/videos/2513895100]]|
+|25/07/18|253|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[247「ペールノエル一日店長！」>>https://youtu.be/xHyl1epQ3Ao?si=4ikT27AlfRD3dRAN]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)247「ペールノエル一日店長」}>>https://www.twitch.tv/videos/2515716842]]|
+|25/07/19|254|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[248「べりはぴダンス練習！」>>https://youtu.be/kKI8wroUxog?si=jrvmW8vbjCR84duB]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)248「久しぶりの遅番BMC出勤→べりはぴ準備」}>>https://www.twitch.tv/videos/2516692620]]|
+|25/07/23|255|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[249「ポロロン」>>https://youtu.be/QKnOZjCeYPY?si=xtNGq0cBexwQZMK1]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)250「早番ばんばーん！」}>>https://www.twitch.tv/videos/2520112330]]|
+|25/07/25|256|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[250「べりはぴ街めぐり、うさぎさんと忍さんと深夜店番」>>https://youtu.be/lQljpb5jlAI?si=BmkILHHJ1TZK8b71]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)251「おっはよ～！」}>>https://www.twitch.tv/videos/2521907815]]|
+|25/07/29|257|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[251「べりはぴ１周年ライブ準備！」>>https://youtu.be/it_5XLi-XC8?si=FgjHAMpFFkxBfqqT]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)252「べりはぴ１周年ライブ準備！」}>>https://www.twitch.tv/videos/2525530717]]|
+|25/07/31|258|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[252「べりはぴライブ本番！」>>https://youtu.be/kqWaUE_Nmb8?si=bLRdi_tulL9uBVX_]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)253「べりはぴライブ本番！」}>>https://www.twitch.tv/videos/2527193618]]|
+#endregion
+***2025年08月(#259~263)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|25/08/16|259|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[253「店長の罪と夏フェスソロ出店」>>https://youtu.be/l2B_5vNvYqg?si=iTzgU2-kuWas51DI]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)254「夏フェス出店」}>>https://www.twitch.tv/videos/2541489186]]|
+|25/08/19|260|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[254「店長」>>https://youtu.be/a5xwUFv8TKQ?si=m7LFt3J7UH02inxb]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)255「店長」}>>https://www.twitch.tv/videos/2544075969]]|
+|25/08/21|261|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[255「奇肉屋イベント開催！」>>https://youtu.be/pdI2WQtrg6g?si=OaKcmr7QZcjbHLZv]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)256「奇肉屋」}>>https://www.twitch.tv/videos/2545796119]]|
+|25/08/23|262|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[256「K」>>https://youtu.be/hxE3LIpsd3U?si=fpTF2MoVgFIY5_J2]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)257「奇肉屋イベント折り返し！」}>>https://www.twitch.tv/videos/2547534583]]|
+|MIDDLE:25/08/24|MIDDLE:263|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[257「いってらっしゃい店長」>>https://youtu.be/gzv-8thsUKI?si=BynPYcsQiVE-NuPa]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)258「K」}>>https://www.twitch.tv/videos/2548412439]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)258「K」}>>https://www.twitch.tv/videos/2548536754]](配信不具合により２枠目)&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)258「K」}>>https://www.twitch.tv/videos/2548564356]](配信不具合により３枠目)|
+#endregion
+***2025年09月(#264~270)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|25/09/04|264|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[258「早番」>>https://youtu.be/JC6AmpSBGsg?si=0CUuZbqfyQWsCDEh]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)259「ストグラフェスに行けなかったあげころ」}>>https://www.twitch.tv/videos/2557792513]]|
+|25/09/05|265|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[259「人間を拾ったあげころ」>>https://youtu.be/8DKCeyqWWkI?si=mb5Q2ah4AgI8PqVn]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)260「絶対にピエロに襲われないあげころ」}>>https://www.twitch.tv/videos/2558626345]]|
+|25/09/06|266|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[260「るっくん涙の強制帰国」>>https://youtu.be/Ce-6B0K8nyc?si=bsfbU2VXkg8OdK-i]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)261「るっくんBMC体験と炭鉱！」}>>https://www.twitch.tv/videos/2560392228]]|
+|25/09/07|267|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[261「カジノイベントで地下労働」>>https://youtu.be/YOdjUXzrN44?si=ZHa6s03cNeP6r3Lu]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)262「るっくん保証人になるあげころ」}>>https://www.twitch.tv/videos/2559484029]]|
+|25/09/09|268|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[262「市長会見、街の危機」>>https://youtu.be/OZWDWdZ28IE?si=GuzgKJ3XOcFoPM4h]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)263「ハンバーガー号のお礼！」}>>https://www.twitch.tv/videos/2562017926]]|
+|25/09/10|269|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[263「あげころ裁判員になる」>>https://youtu.be/6x2FRUx4KFc?si=vjwT9QNANqY_vAc6]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)264「本当に街、やばいの？」}>>https://www.twitch.tv/videos/2562823838]]|
+|25/09/11|270|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[264「初めてのミッションはヨシャパテさんと」>>https://youtu.be/mSmrho0mm1o?si=mAk6hKffxc-aeZVv]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)265「ピエロを知らないあげころ」}>>https://www.twitch.tv/videos/2563632169]]|
+|25/09/12|271|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[265「レオさんと大爆笑ミッション！」>>https://youtu.be/ANQCKqIMhAY?si=HdR4CGk0Wle5aqtN]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)266「店番の日！」}>>https://www.twitch.tv/videos/2564426646]]|
+|25/09/14|272|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[266「BMC主催レベル2ミッションとべりはぴミッション！」>>https://youtu.be/qiC2-VgWGY8?si=GcBx2LFwdJpBtFUE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)267「正義執行！！！！！」}>>https://www.twitch.tv/videos/2566135632]]|
+|25/09/17|273|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[267「るっくんと最強の武器を探す旅～あげころママ～」>>https://youtu.be/2H9STQBf2UU?si=8ePUDkl9811Dv_Qh]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)268「できることを探そう」}>>https://www.twitch.tv/videos/2568543554]]|
+|25/09/19|274|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[268「ほぼ子守り」>>https://youtu.be/8vQZ3zpN7nA?si=E_yHlXaRZ6MX8Neh]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)269「日常」}>>https://www.twitch.tv/videos/2570190893]]|
+|25/09/20|275|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[269「しゅうまつのすごしかた」>>https://youtu.be/-iTgh1cVQdw?si=TGMauPm5-_EOrugz]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)269「今日も元気に！」}>>https://www.twitch.tv/videos/2571053799]]|
+|25/09/21|276|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[270「しゅうまつ」>>https://youtu.be/hY7WlJvnZxU?si=UpVuNqPGRff0Dx8O]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)270「今日、何食べたい？」}>>https://www.twitch.tv/videos/2571929915]]|
+#endregion
+#endregion(2025年)
+#endregion(SEASON1)
+//
+***SEASON2
+#region(開く,open)
+//
+**2025年
+#region(開く)
+***2025年12月(#1~3)
+#region(開く,open)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|MIDDLE:25/12/19|MIDDLE:1|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[揚物ころも あげころ Day1>>https://youtu.be/hY7WlJvnZxU?si=UpVuNqPGRff0Dx8O]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)揚物ころも あげころ Day1}>>https://www.twitch.tv/videos/2647684770]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)揚物ころも あげころ Day1}>>https://www.twitch.tv/videos/2647732713]]|
+|MIDDLE:25/12/25|MIDDLE:2|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[揚物ころも あげころ Day2>>https://www.youtube.com/live/jAUBVgOPRXw?si=pnHM7-j6pBQ17seB]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)揚物ころも あげころ Day2}>>https://www.twitch.tv/videos/2652616254]]|
+|MIDDLE:25/12/28|MIDDLE:3|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[「メカニックとケバブ屋さんと」揚物ころも あげころ Day3>>https://www.youtube.com/live/c3X1JaBsLlE?si=ufNApXdsSOk0s02M]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)「メカニックとケバブ屋さんと」揚物ころも あげころ Day3}>>https://www.twitch.tv/videos/2654947938]]|
+#endregion
+#endregion(2025年)
+**2026年
+#region(開く,open)
+***2026年01月(#4~14)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|MIDDLE:26/01/02|MIDDLE:4|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day4 揚物ころも あげころ>>https://www.youtube.com/live/c3X1JaBsLlE?si=ufNApXdsSOk0s02M]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day4 揚物ころも あげころ}>>https://www.twitch.tv/videos/2659059327]]|
+|MIDDLE:26/01/03|MIDDLE:5|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day5「お金が必要！」揚物ころも あげころ>>https://www.youtube.com/live/sKq1nv0fUhY?si=OIy4ZGzbonMPuskB]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day5「お金を貯めよう！」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2659949272]]|
+|MIDDLE:26/01/04|MIDDLE:6|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day6「1000万円貯めたい！」揚物ころも あげころ>>https://www.youtube.com/live/GJQU0Ib9PF4?si=DR_prWkkVLvAEqvJ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day6「1000万円貯めたい！」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2660884436]]|
+|MIDDLE:26/01/11|MIDDLE:7|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day7「1000万円貯めたい！」揚物ころも あげころ>>https://www.youtube.com/live/2h-3QJtEKRE?si=LR4X5WUo5j2ZZ9PR]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day7「1000万円貯めたい！」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2667139129]]|
+|MIDDLE:26/01/23|MIDDLE:8|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day8「とても久しぶり！」揚物ころも あげころ>>https://www.youtube.com/live/RGDESqH97wc?si=I55tXvyjmbt_2u3q]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day8「とても久しぶり！」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2677714314]]|
+|MIDDLE:26/01/24|MIDDLE:9|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day9「メカニック面接」揚物ころも あげころ>>https://www.youtube.com/live/lLC-2Kgw4sY?si=_GG8QV89HNBLNsHl]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day9「メカニック面接」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2678669459]]|
+|MIDDLE:26/01/25|MIDDLE:10|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day10「アイドルライブ出店！」揚物ころも あげころ>>https://www.youtube.com/live/im4qJ-3BKzM?si=DTaRdLpHUDdI4_s8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day10「アイドルライブ出店！」揚物ころも あげころ}>>https://www.twitch.tv/videos/2679670318]]|
+|MIDDLE:26/01/28|MIDDLE:11|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day11「UGMの場所！」揚物ころも あげころ>>https://www.youtube.com/live/DjQYAKLh4Dg?si=j6t4vjgvU0ScZWy8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day11「UGMの場所！」揚物ころも あげころ}>>https://www.twitch.tv/videos/2682477727]]|
+|MIDDLE:26/01/29|MIDDLE:12|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day12「市長面談の仕込み」揚物ころも あげころ>>https://www.youtube.com/live/v0F5tG8fDY4?si=mYv5QbGUzHxTxdy-]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day12「市長面談の仕込み」揚物ころも あげころ}>>https://www.twitch.tv/videos/2683307288]]|
+|MIDDLE:26/01/30|MIDDLE:13|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day13「シャンプロライブ！」 揚物ころも あげころ>>https://www.youtube.com/live/AIO-GUVlsvc]](1/31現在非公開)|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day13「シャンプロライブ！」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2684185131]]|
+|MIDDLE:26/01/31|MIDDLE:14|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day14「謝罪代行サービス面接」 揚物ころも あげころ>>https://www.youtube.com/live/1_LLThsUyR4?si=VtPE-84JfGz3F3dz]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day14「謝罪代行サービス面接」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2685099062]]|
+#endregion
+***2026年02月(#15~23)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|MIDDLE:26/02/01|MIDDLE:15|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day14「今日も謝罪？」 揚物ころも あげころ>>https://www.youtube.com/live/E5M-wwdjjmE?si=pZI9vbNguF1s1PpW]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day14「今日も謝罪？」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2686094648]]|
+|MIDDLE:26/02/04|MIDDLE:16|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day15「平和に過ごしたい！」 揚物ころも あげころ>>https://www.youtube.com/live/x_fFQcAbKTI?si=vIbMko9QnS4HpaMT]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day15「平和に過ごしたい！」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2688699111]]|
+|MIDDLE:26/02/07|MIDDLE:17|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day16「お腹いっぱーい！」 揚物ころも あげころ>>https://www.youtube.com/live/INEgLqTzlkE?si=hmUHzZ43Dx2Us0Ej]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day16「お腹いっぱーい！」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2691348038]]|
+|MIDDLE:26/02/08|MIDDLE:18|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day17「代行ライブ！」 揚物ころも あげころ>>https://www.youtube.com/live/nmYuTz-1ji8?si=gflNVa00mdEbcP-V]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day17「代行ライブ！」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2692355190]]|
+|MIDDLE:26/02/15|MIDDLE:19|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day18「1週間以上ぶり！」 揚物ころも あげころ>>https://www.youtube.com/live/QUHF-7ZDGE8?si=wJtRe1a7PA6VKFHr]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day18「1週間以上ぶり！」 揚物ころも あげころ}>>https://www.twitch.tv/videos/2698344298]]|
+|MIDDLE:26/02/19|MIDDLE:20|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day19「動物代行ってなに！？」 揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.youtube.com/live/wEFafg_xOMo?si=eK0QOF05aisq5dDe]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day19「動物代行ってなに！？」 揚物ころも / あげころ / サニーケバブ / モンプロ}>>https://www.twitch.tv/videos/2701000169]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)Day19「動物代行ってなに！？」 揚物ころも / あげころ / サニーケバブ / モンプロ}>>https://www.twitch.tv/videos/2701010669]]|
+|MIDDLE:26/02/20|MIDDLE:21|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day20「土日はおやすみ」 揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.youtube.com/live/gySa1PN6T8I?si=NKC4TVZa3TPTU-QU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day20「土日はおやすみ」揚物ころも / あげころ / サニーケバブ / モンプロ}>>https://www.twitch.tv/videos/2702732327]]|
+|MIDDLE:26/02/27|MIDDLE:22|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day21「またしても1週間ぶり、代行サービスがやばいらしい」 揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.youtube.com/watch?v=foU7oBXy6gE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day21「またしても1週間ぶり、代行サービスがやばいらしい」揚物ころも / あげころ / サニーケバブ / モンプロ}>>https://www.twitch.tv/videos/2708959361]]|
+|MIDDLE:26/02/28|MIDDLE:23|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[&font(#6441A4){&icon_fa(fa fa-twitch)Day22「裁判？」揚物ころも / あげころ / サニーケバブ / モンプロ}>>https://www.twitch.tv/videos/2709915847]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)Day22「裁判？」揚物ころも / あげころ / サニーケバブ / モンプロ}>>https://www.twitch.tv/videos/2710091276]]|
+#endregion
+//
+***2026年03月(#24~29)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|MIDDLE:26/03/01|MIDDLE:23|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day23「まーち」 揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.youtube.com/watch?v=zfMhfxxj9KA]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day23「まーち」揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.twitch.tv/videos/2710881561]]|
+|MIDDLE:26/03/04|MIDDLE:24|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day24「日常」揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.twitch.tv/videos/2713468713]]|
+|MIDDLE:26/03/05|MIDDLE:25|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day25「上司のデート」 揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.youtube.com/watch?v=YMp7q9Zya8Y]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day25「上司のデート」揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.twitch.tv/videos/2714301093]]|
+|MIDDLE:26/03/11|MIDDLE:26|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day26「ひさしぶり！」 揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.youtube.com/watch?v=ZuOZRCyJ7fs]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day26「ひさしぶり！」揚物ころも / あげころ / >>https://www.twitch.tv/videos/2719472185]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day26「ひさしぶり！」揚物ころも / あげころ / >>https://www.twitch.tv/videos/2719491109]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day26「ひさしぶり！」揚物ころも / あげころ / >>https://www.twitch.tv/videos/2719536926]]|
+|MIDDLE:26/03/12|MIDDLE:27|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day27「UGMの話を聞く！」 揚物ころも / あげころ / サニーケバブ / モンプロ >>https://www.youtube.com/watch?v=gg2BoTcFoF0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day27「UGMの話を聞く！」揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.twitch.tv/videos/2720305796]]|
+|MIDDLE:26/03/13|MIDDLE:28|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day28「遊園地代行サービス（謎）」 揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.youtube.com/watch?v=hUuqBlH21-M]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day28「遊園地代行サービス（謎）」揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.twitch.tv/videos/2721177013]]|
+|MIDDLE:26/03/20|MIDDLE:29|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day29「お金返す」揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.twitch.tv/videos/2727124030]]|
+#endregion
+***2026年04月(#30~32)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|MIDDLE:26/04/03|MIDDLE:30|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day30「UGM初出勤！！！！！！！」揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.youtube.com/live/rX35sk8D5yI?si=-VmuA0hfP09FcaT6]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day30「UGM初出勤！！！！！！！」揚物ころも / あげころ / サニーケバブ / モンプロ>>https://www.twitch.tv/videos/2738751155]]|
+|MIDDLE:26/04/11|MIDDLE:31|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day31「UGMにてチンチロ大会出場！」揚物ころも / あげころ / サニーケバブ / UGM>>https://www.youtube.com/live/Om9EEuOy_4M?si=HnCeDdGq80jtErXR]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day31「UGMにてチンチロ大会出場！」揚物ころも / あげころ / サニーケバブ / UGM>>https://www.twitch.tv/videos/2745387225]](トラブルにより01:15:00にて終了)|
+|MIDDLE:26/04/24|MIDDLE:32|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day32「サニーケバブ、大阪出店！？」 揚物ころも / あげころ / サニーケバブ / UGＭ>>https://www.youtube.com/live/Cua5n-0d0vs?si=2PJcIHmtQ8kS2C6u]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day32「サニーケバブ、大阪出店！？」 揚物ころも / あげころ / サニーケバブ / UGＭ>>https://www.twitch.tv/videos/2755793125]]|
+#endregion
+***2026年05月(#33~39)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|MIDDLE:26/05/08|MIDDLE:33|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day33「かませ！！！！！！！」 揚物ころも / あげころ / サニーケバブ / UGＭ>>https://www.youtube.com/live/7tqYRqCpEoE?si=ABdSE-6eGMGPV5yt]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day33「かませ！！！！！！！」 揚物ころも / あげころ / サニーケバブ / UGＭ>>https://www.twitch.tv/videos/2766980251]]|
+|MIDDLE:26/05/09|MIDDLE:34|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day34「カマしすぎて、クビ」 揚物ころも / あげころ / UGＭ>>https://www.youtube.com/live/tJyYKw3M4_4?si=mo-RfjWBxPw0dQd_]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day34「カマしすぎて、クビ」 揚物ころも / あげころ / UGＭ>>https://www.twitch.tv/videos/2767779746]]|
+|MIDDLE:26/05/13|MIDDLE:35|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day35「おそらく裁判」 揚物ころも / あげころ / UGＭ>>https://www.youtube.com/live/5U_hNGheA70?si=uw1Hibg7E-NS8VsG]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day35「おそらく裁判」 揚物ころも / あげころ / UGＭ>>https://www.twitch.tv/videos/2770868310]]|
+|MIDDLE:26/05/14|MIDDLE:36|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day36「運命共同体」 揚物ころも / あげころ / UGＭ>>https://www.youtube.com/live/mvqm2SyJHWQ?si=7mh3LD0rOjTQd2tK]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day36「運命共同体」 揚物ころも / あげころ / UGＭ>>https://www.twitch.tv/videos/2771645928]]|
+|MIDDLE:26/05/15|MIDDLE:37|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day37「運命共同体～1人編～」 揚物ころも / あげころ / >>https://www.youtube.com/live/HYw7m_U6qos?si=i6zICmKGMqV5AxuB]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day37「運命共同体～1人編～」 揚物ころも / あげころ / UGＭ>>https://www.twitch.tv/videos/2772477316]]|
+|MIDDLE:26/05/28|MIDDLE:38|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day38「上田さんとは絶対に結婚しません！」 揚物ころも / あげころ / >>https://www.youtube.com/live/Jhz0uq2CbYM?si=gqSQHZbfoAoFQ6G5]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day38「上田さんとは絶対に結婚しません！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2782802815]]|
+|MIDDLE:26/05/30|MIDDLE:39|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day38「うちはまだ白でいれますか？」 揚物ころも / あげころ / >>https://www.youtube.com/live/Q8ZZx1AJoBc?si=PTgIIMdp3zESW1h3]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day38「うちはまだ白でいれますか？」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2784393353]]|
+|MIDDLE:26/05/31|MIDDLE:40|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day39「お給仕の日！」 揚物ころも / あげころ / >>https://www.youtube.com/live/l9ukuWZlNn4?si=sSqPVK3W7MHkSeju]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day39「お給仕の日！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2785213986]]|
+#endregion
+***2026年06月(#40~49)
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|MIDDLE:26/06/03|MIDDLE:41|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day40「賠償金完全返済！執行猶予は続く・・・」 揚物ころも / あげころ / >>https://www.youtube.com/live/JLkxY3DDVlc?si=kKS9TcUruotKVrl4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day40「賠償金完全返済！執行猶予は続く・・・」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2787596135]]|
+|MIDDLE:26/06/10|MIDDLE:42|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day41「あと4日！平和に過ごしたい」 揚物ころも / あげころ / >>https://www.youtube.com/live/evG_ceiF2hM?si=XnVkaSyLlW4V3cEp]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day41「あと4日！平和に過ごしたい」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2793215529]]|
+|MIDDLE:26/06/12|MIDDLE:43|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day42「あと3日！平和がいちばん！」 揚物ころも / あげころ / >>https://www.youtube.com/live/al8qYpe2oRk?si=RsB_00lTxIPYpXdZ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day42「あと3日！平和がいちばん！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2794765312]]|
+|MIDDLE:26/06/13|MIDDLE:44|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day42「あと２日！今日はべりはぴとロスラジ！」 揚物ころも / あげころ / >>https://www.youtube.com/live/o3AONAxchpE?si=H_j0aCJXypGuB2eO]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day42「あと２日！今日はべりはぴとロスラジ！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2795636340]]|
+|MIDDLE:26/06/14|MIDDLE:45|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day43「ハッピーエンド！！！！」 揚物ころも / あげころ / >>https://www.youtube.com/live/NVinZGdyliI?si=7s33Fq3ZI3GAjtEV]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day43「かませない最終日！！！！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2796399587]]|
+|MIDDLE:26/06/18|MIDDLE:46|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day44「あげころシーズン２」 揚物ころも / あげころ / >>https://www.youtube.com/live/mq1Zp7xKHp0?si=UWYV9ZRRoPmfAskG]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day44「あげころシーズン２」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2799629885]]|
+|MIDDLE:26/06/19|MIDDLE:47|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day45「黒市民あげころ 2日目 なぜかお見合い」 揚物ころも / あげころ / >>https://www.youtube.com/live/ygdFWXnZsxM?si=9tfDK2O19WDynbWa]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day45「黒市民あげころ 2日目 なぜかお見合い」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2800331282]]|
+|MIDDLE:26/06/20|MIDDLE:48|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day46「黒市民あげころ 3日目 💎宝物💎」 揚物ころも / あげころ / >>https://www.youtube.com/live/x3yCyhwVa1I?si=wdIq7KW5ogOmo0MK]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day46「黒市民あげころ 3日目 💎宝物💎」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2801089839]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day46「黒市民あげころ 3日目 💎宝物💎」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2801104082]]|
+|MIDDLE:26/06/25|MIDDLE:49|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day47「黒市民あげころ ４日目 どうなるあげころ！」 揚物ころも / あげころ / >>https://www.youtube.com/live/D0Am06g1820?si=2YZP35F259YwXmFy]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day47「黒市民あげころ ４日目 どうなるあげころ！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2804959463]]|
+#endregion
+***2026年07月(#50~53)
+#region(開く,open)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|MIDDLE:26/07/01|MIDDLE:XX|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ストグラにログインできませんでした😭敗北配信😭>>https://www.youtube.com/live/RPPi5ajICmY?si=93LGgOao1JPBHUUY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day48「黒市民あげころ 5日目 ギャングボスに突撃ラジオ！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2809638010]]|
+|MIDDLE:26/07/12|MIDDLE:50|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day48「黒市民あげころ 5日目 ギャングに突撃インタビュー！」>>https://www.youtube.com/live/syl0rBg8Jmo?si=GQKMs5mvDi6VxR9Q]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day48「黒市民あげころ 5日目 ギャングに突撃インタビュー！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2818209922]]|
+|MIDDLE:26/07/15|MIDDLE:51|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day49「黒市民あげころ 今日もなにかある予感！」 >>https://www.youtube.com/live/is5eBW39ze4?si=Kywp6hBfNaPWGE_Q]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day49「黒市民あげころ 今日もなにかある予感！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2820528561]]|
+|MIDDLE:26/07/30|MIDDLE:52|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day50「初めてのAfter Uでのお仕事！収穫祭！」 >>https://www.youtube.com/live/x72RXWoVA1Y?si=vSLgbYjSAKTVEyij]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day50「初めてのAfter Uでのお仕事！収穫祭！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2832659739]]|
+|MIDDLE:26/07/31|MIDDLE:53|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day51「本日突撃インタビュー！」 >>https://www.youtube.com/live/U_Ft3e0OvCg?si=C9juu_LpgntkT3DN]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day51「本日突撃インタビュー！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2833491204]]|
+#endregion
+***2026年08月(#54~59)
+#region(開く,open)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|MIDDLE:26/08/01|MIDDLE:54|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day52「afterU 開店日！＆いいこと思いついた！」 >>https://www.youtube.com/live/RDilKRpvHbw?si=mHOcirlI5GkfmGWp]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day52「afterU 開店日！＆いいこと思いついた！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2834346233]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day52「afterU 開店日！＆いいこと思いついた！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2834436525]]|
+|MIDDLE:26/08/06|MIDDLE:55|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day53「今週初めてのおはようございます！」 >>https://www.youtube.com/live/KLkat2ZtZg0?si=9w8Ilmxpd0xGLvPo]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day53「今週初めてのおはようございます！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2838685991]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day53「今週初めてのおはようございます！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2838721483]]|
+|MIDDLE:26/08/09|MIDDLE:56|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day54「P、やりますよ！！！！！！」 >>https://www.youtube.com/live/4yVJ8RckksI?si=SdTXtAIKNi-0UC64]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day54「P、やりますよ！！！！！！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2841409433]]|
+|MIDDLE:26/08/19|MIDDLE:57|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day55「ほんじつは突撃インタビューです！」 >>https://www.youtube.com/live/Uvm7M77ANuk?si=FxOIohR3RAYmi9zG]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day55「ほんじつは突撃インタビューです！」 揚物ころも / あげころ / >>https://www.twitch.tv/videos/2850464038]]|
+|MIDDLE:26/08/28|MIDDLE:58|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day56「ストグラCLLに流行語に盛りだくさんのあげころ」 >>https://www.youtube.com/live/wLyQ_vxOlsA?si=ilwg_XZgWLYhACm1]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}ストグラCLLに流行語に盛りだくさんのあげころ >>https://www.twitch.tv/videos/2858670232]]|
+|MIDDLE:26/08/30|MIDDLE:59|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Day57「Lステ初回放送！！！！！！」 >>https://www.youtube.com/live/4jHvgtsE3wQ?si=vJdlygrerO1pbfPi]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}Day57「Lステ初回放送！！！！！！」 >>https://www.twitch.tv/videos/2860587388]]|
+#endregion
+***2026年09月(#60~)
+#region(開く,open)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|YouTubeアーカイブ|~Twich配信タイトル|h
+|MIDDLE:26/09/09|MIDDLE:60|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[&font(#6441A4){&icon_fa(fa fa-twitch)}ストグラ２ あげころ」 >>https://www.twitch.tv/videos/2869441825]]|
+|MIDDLE:26/09/10|MIDDLE:61|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}|[[&font(#6441A4){&icon_fa(fa fa-twitch)}ストグラ２ あげころ べりはぴでラジオのお仕事！？！？！？>>https://www.twitch.tv/videos/2870307043]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}ストグラ２ あげころ べりはぴでラジオのお仕事！？！？！？>>https://www.twitch.tv/videos/2870324390]]|
+#endregion
+#endregion(2026年)
+#endregion(SEASON2)
+//
+//タイトルNo等は配信時そのまま掲載。更新され次第都度修正します。
+//|24/04/dd|＃|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTubeタイトル>>YouTubeリンク]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitchタイトル}>>Twitchリンク]]|
+
+*&font(#FA8072){&icon_fa(fa-solid fa-scissors)} ストグラ切り抜き
+***Season1
+#region(開く)
+#region(No1~20)
+#areaedit
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|配信タイトル|切り抜き元|h
+|24/07/10|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】にしのん社長のお誕生日BMC大集結！あげころ結婚！？【BMC/奇肉屋】>>https://youtu.be/0sPnQCGSvr4?si=ge25I7g_3vqxTR5l]]|#116|
+|24/07/12|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】あげころ誕生日にホームパーティ開催！あげころ邸は臭い！？【BMC/奇肉屋】>>https://youtu.be/RdveoPoMiQc?si=HDZgnqfVhmYBMfQj]]|#128|
+|24/07/16|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】あげころエンディング！？市長から忠告！？【BMC/奇肉屋】>>https://youtu.be/EM4IdJ-6N_A?si=wquVn1AipBa_C3xL]]|#135|
+|24/07/18|4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】あげころ、エイリアンと邂逅！巨大施設の真相に迫る！【BMC/奇肉屋】>>https://youtu.be/e6I_mYFvFN4?si=tNCwxFP_85QUqcce]]|#136|
+|24/07/21|5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】BMCで働くあげころ！にかのり出場！？免許没収！？にしのん社長と筋トレ！？【BMC】>>https://youtu.be/sp8H9wz3X38?si=xpuxhCYTzB1ffzpH]]|#136|
+|24/07/25|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】〜海前編〜新技「指で追う」を披露するあげころ！海前編！【BMC/奇肉屋】>>https://youtu.be/oP9cvgYKsKE?si=qzn1KaViYc46P2eI]]|#138|
+|24/07/31|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】〜海後編〜あげころ、海で大ピンチ！【BMC/奇肉屋】>>https://youtu.be/6gYrzKnNdFU?si=evVXyrPCSDrV9sKs]]|#138|
+|24/08/14|8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】総勢10人の住民を奇肉屋工場に連れ込むあげころ・・・！【BMC/奇肉屋】 >>https://youtu.be/6Pk4FFX1j6k?si=MOhLhleODELeOf1X ]] |#145|
+|24/09/18|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】ミリしらの弟に切り抜きを作らせてみた「救急隊と奇肉屋店長を驚愕させる初心者あげころ」【救急隊/雷堂ましろ/天羽よつは/サンクチュアリたえこ/ぎゃるみ/奇肉屋/マカイーノアッコパス/大川】>>https://youtu.be/6Pk4FFX1j6k?si=MOhLhleODELeOf1X ]] |#2|
+|24/09/19|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】「にかのり前日に小里馬ァさんを探してJTSに突撃するツルギさんとあげころ！」【焦付ツルギ/ジョアンナ町田/さとう/豆やん/堕夜だよ/揚物ころも】>>https://youtu.be/KOJ5HuelGG4?si=VDHRAqsA5X9a6jpD]] |#157|
+|24/09/20|11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】第２話「あげころ奇肉屋面接！結果はまさかの不合格！？」【救急隊/奇肉屋/マカイーノアッコパス/揚物ころも】>>https://youtu.be/1Y-UvMkDDkU?si=UQapDguqh6ZuqAlO]] |#2|
+|24/09/23|12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】ストグラミリしらの弟にあげころ切り抜きを作らせてみた第３話【マクドナルド/ルゥギャラクティカ/にーと/なしまかな/奇肉屋/マカイーノアッコパス/揚物ころも】>>https://youtu.be/9QqmO3_jPwE?si=1lQv8bc7SpyE510s]] |#2|
+|24/10/08|13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】街のタブーに触れるあげころ【めぐみちゃんだよ!/番田長助/叶/揚物ころも】>>https://youtu.be/pVWCnzZMOU8?si=pQT3dPDvhJoqf1mq]] |#165|
+|24/10/09|14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】ストグラミリしらの弟にあげころ切り抜きを作らせてみた第４話【奇肉屋/BMC】>>https://youtu.be/IGvJflM4-tg?si=o-bAdsHDzgdQ0hnm]] |#165|
+|24/10/10|15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】変装アイドル、大ピンチ！アイドルの練習風景に密着！【ゴリ田ゴリ男/堕夜だよ/パンちゃん/元難波めぐみ/丘猫まる/揚物ころも】>>https://youtu.be/yYblHlGLMRM?si=ZuTVbv0zU8hYCHas]] |#167|
+|24/11/25|16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】街中に『お気持ち』を配るあげころ！【奇肉屋/BMC/博士/マンジョリーナ/まいにい/白井満太/大川/ヨシャパテ/小里馬ァ/アッコパス/まきぴ/くまのふでこ/万十忍/揚物ころも】>>https://youtu.be/hAYc1qGdk80?si=wmggNBJ6pA-XesfL]] |#182|
+|24/11/26|17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】BMCの日常！あげころのショタボイスにメロメロなサウちゃん【奇肉屋/BMC/星唄サウ汰/うさぎさん/青海つばめ/ジェフリー/聖母れりあ/葛城司/くまのふでこ/揚物ころも】>>https://youtu.be/jGejY4SVrik?si=MRkPLRM0IOyoUuv8]] |#177|
+|24/11/27|18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】アイドルべりえく（仮）デビュー日決定！！シャンプロ紅白出演！？【奇肉屋/BMC/元難波芽久美/丘猫まる/葉風邪ナイ/さぶ郎/揚物ころも/あげころ】>>https://youtu.be/en_Wg1fq-JQ?si=3ty-u2izF_1Zossp]] |#183|
+|24/11/28|19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】あげころの一日！シャンクズさんの偽物来店！BMC新サービス！大川さんと航空機教習！【奇肉屋/BMC/なずぴ/ハクナツメ/大川/こはならみ/Dr.ギガ/ニャンコスキー/揚物ころも】>>https://youtu.be/YdI3Y5h7qjc?si=Q3qzh8Ujd_1wRepX]] |#183|
+|24/11/29|20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】小里馬ァさんとヨシャくんが分裂！？関係を疑うまきぴちゃん・・・！【奇肉屋/BMC/ヨシャパテ/まきぴ/万十忍/揚物ころも/あげころ】>>https://youtu.be/1ReQg89ZgCY?si=F01OxzT6THOLdm43]] |#183|
+#areaedit(end)
+#endregion
+#region(No21~40)
+#areaedit
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|配信タイトル|切り抜き元|h
+|24/12/01|21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】レオさんにシャンプロ主催れおさんライブ招待してもらうあげころ！大号泣でPNGとの思い出振り返り【PNG/無月レオ/はがかける/ろぜ柳ぴん子/焦月ツルギ/揚物ころも】>>https://youtu.be/PI6DNXglKPc?si=g0UUICpvnjsaVCwL]] |#184|
+|24/12/03|22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】BMCの日常！Dr.ギガさんの航空機教習！BMC大炎上でにしのん社長が出動！【BMC/Dr.ギガ/平井のおっちゃん/にしのん/うさぎさん/万十忍./ゆたんぽ/揚物ころも】>>https://youtu.be/nous_g2AjVk?si=NyJjGqBJ1dqXkIYk]] |#180|
+|24/12/05|23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】BMCで恋愛トーク！忍さんの告白にあげころタジタジ【BMC/空舞月るる/万十忍/ゆたんぽ/小峯玲/ヘルアン/揚物ころも】>>https://youtu.be/u6n2FWsLCnI?si=xTT58KJO457pBz_C]] |#185|
+|24/12/06|24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】警察総動員！？レースしてただけなのに・・・BMCに西からの刺客【BMC/空舞月るる/万十忍/アッコパス/アドミゲスハン/みこだよう/安倍霊明/伊豆院登/烏丸どすえ/あげころ】>>https://youtu.be/1RjLIHzE2DE?si=0xzjo00-EosofelY]] |#186|
+|24/12/08|25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】●●しちゃった！？謎解き中に奇行に走るあげころ！【BMC/アドミゲスハン/ジャムリーヌ/あげころ】>>https://youtu.be/lQDKmJFu2os?si=6M3vl5gDju-8Wi5p]] |#47|
+|24/12/10|26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】ツルギさんを奇肉にしちゃったあげころ・・・【奇肉屋/BMC/焦月ツルギ/鳥野ぎん/星野ももあ/あげころ】>>https://youtu.be/SYJxtaELffE?si=TzSqIRY3ghO5SpZD]] |#118|
+|24/12/12|27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】唐突に終わりを告げるあげころの恋【ラブストレート小理馬ァ/ヨシャパテ/あげころ】>>https://youtu.be/xzI-XE6pWRE?si=C2z9gw6v8VuA7GDz]] |#187|
+|24/12/14|28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】上田さんのアイドル考察が鋭すぎて大ピンチ！シャンプロとの繋がりがバレる…！？プロデューサーはまさかの…【BMC/小里馬ァ/ヨシャパテ/アッコパス/ゆたんぽ大川/揚物ころも】>>https://youtu.be/0Rw5Lu_KEi4?si=eomDP5hJBJh85_ba]] |#189|
+|24/12/16|29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】市長からALLINと書かれた謎のコインをもらうあげころとアイドル姿で市長に会いに行く万博と木比呂【BMC/奇肉屋/元難波芽久未/山下市長/揚物ころも】>>https://youtu.be/chnu6eAqEjg?si=L2asKT6DguC1Pf9X]] |#190|
+|24/12/20|30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】メンバーにリークされていくあげころのやらかし　船舶場になぜかあげころのポスターが・・・【BMC/奇肉屋/べりはぴ/大川/さぶ郎/葉風邪ナイ/アッコパス/ALLIN/揚物ころも】>>https://youtu.be/7H5aWgX5VIw?si=7yg8sTEuR0Q4wpRE]] |#191|
+|24/12/22|31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】ツルギPに歌とダンスをお披露目！【BMC/奇肉屋/べりはぴ/丘猫まる/元難波芽久実/さぶ郎/葉風邪ナイ/焦月ツルギ/あげころ/揚物ころも】>>https://youtu.be/fGfeM49MQ6U?si=xjd47MQpWb3nLWJd]] |#192|
+|24/12/22|32|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】シャンプロ紅白ライブ💎「ドキッ！こういうのが恋なの？」べりはぴ❤️あんばー🧡すぴねる🩷あぱ💙ひすい💚しとりん💛【宙星ぱる/元難波芽久実/葉風邪ナイ/さぶ郎/あげころ】>>https://youtu.be/6PLmvuDiAuA?si=hZIQemAVgslrg0cQ]] |#194|
+|24/12/24|33|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】シャンプロ紅白当日！べりはぴデビュー怒涛の一日に密着！【BMC/奇肉屋/べりはぴ/丘猫まる/元難波芽久実/さぶ郎/葉風邪ナイ/赤ちゃんキャップ/上田さん/あげころ/揚物ころも】>>https://youtu.be/QCD-Fyq939k?si=77vuIp6wYsbX0uNT]] |#194|
+|24/12/25|34|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】シャンプロ紅白DAY１！小里馬ァさんの歌を初めて聴いて控室でひっそり泣くあげころ【べりはぴ/ヨシャパテ/小里馬ァ/丘猫まる/葉風邪ナイ/アッコパス/あげころ】>>https://youtu.be/FioGNPIT31I?si=PYQM4iTdAr0H7LuL]] |#194|
+|24/12/26|35|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】ツルギさんに報連相するあげころと完全犯罪でカバーするべりはぴ【BMC/奇肉屋/べりはぴ/丘猫まる/元難波芽久実/さぶ郎/葉風邪ナイ/焦月ツルギ/上田さん/あげころ/揚物ころも】>>https://youtu.be/__MVZPm2_R0?si=X1f-7FFZ15iejgBJ]] |#192|
+|24/12/28|36|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】紅白で初お披露目のべりはぴについて街の反応を聞くあげころ【BMC/奇肉屋/べりはぴ/元難波芽久実/上田さん/万十忍/揚物ころも】>>https://youtu.be/oTF1pagP9M8?si=rRNn50KJavhDKHBw]] |#195|
+|24/12/28|37|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】🍂新規住民と友達を見間違えるあげころ【BMC/奇肉屋/ツクヨミレオ/文殊セイジ/上田さん/揚物ころも】>>https://youtu.be/1US25_GAJLQ?si=6Qz9i0A0T8sCl_BB]] |#195|
+|25/01/04|38|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】無月レオのキャラエンドを知るあげころ【BMC/奇肉屋/ツクヨミレオ/無月レオ/上田さん/揚物ころも】>>https://youtu.be/UdG8CrgwsXU?si=kdoxEx2l5awZyABN]] |#195|
+|25/01/15|39|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】心療内科受診を勧められ救急隊の特別護送を体験するあげころ【救急隊/ブラックジャックス/雷堂ましろ/命田守/ぷぅちゃん/メキーラ/鳥野ぎん/リグゼ/万十忍/アドミゲスハン】>>https://youtu.be/tZN1sFf0Plg?si=jL6cK95sxKzmf4jg]] |#199|
+|25/01/17|40|&font(#DA1725){&icon_fa(fa fa-youtube-play)[[【ストグラ切り抜き】前代未聞の航空機講習を体験し、救急隊の大変さを実感するあげころ【ルウギャラクティカ/ストグラ救急隊/ブラックジャックス/雷堂ましろ/切間てつお/橘かげまる/揚物ころも】>>https://youtu.be/pKQ2IhnqtFg?si=1qjmmdgtTQeTdcmp]] |#197|
+#areaedit(end)
+#endregion
+#region(No41~50)
+#areaedit
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|配信タイトル|切り抜き元|h
+|25/01/20|41|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】オタクに紛れてべりはぴラジオを聞くアイドル達！【BMC/べりはぴ/丘猫まる/元難波芽久実/さぶ郎/葉風邪ナイ/上田さん/星唄サウ汰/あげころ】>>https://youtu.be/HnNnVtJCpC8?si=1dkLDlBjgdy2jhaP]] |#202|
+|25/01/25|42|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】らみちゃんと久しぶりの再開、BMC大爆発！【BMC/こはならむ/山野民生/サトシ/ハンバーガー/うさぎさん/青梅つばめ/星唄サウ汰/まきぴ/ゆたんぽ/万十忍/ジェフリー/あげころ】>>https://youtu.be/eWQls2tmIZI?si=P1vP_gXqb2zCojXt]] |#202|
+|25/01/30|43|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】衛星外のキャップくんとてつおさんにいじられるあげころ【BMC/ブラックジャックス/赤ちゃんキャップ/てつお/丘猫まる/さぶ郎/ヒロヤマモト】>>https://youtu.be/anx4ffEHYgw?si=yK9imik0GZa2TMh0]] |#202|
+|25/02/03|44|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】饅頭もぐもぐ？うさぎさんに飼われる忍さん・・・？【BMC/うさぎさん/青梅つばめ/万十忍/揚物ころも/あげころ】>>https://youtu.be/c8thddysfsY?si=BLaVYvv-4BGpXbEE]] |#203|
+|25/02/09|45|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】狂人あげころのデスゲームがやばすぎた【BMC/ジェフリー/こさ 猫弐郎/揚物ころも/あげころ】>>https://youtu.be/Xe0FxT-5IZ0?si=KAqa6eE1hB1XScv_]] |#197|
+|25/02/13|46|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】市長、交代！？市長不信任決議選挙実施！？あげころの公約・・・！【BMC/GBC/マクドナルド/ヘルアン/亀山HERO/銭形やいち/大川/小峯玲/山下ひろし/揚物ころも】>>https://youtu.be/GgA9RrlRXb4?si=DBQv_cSnCkxKobsd]] |#207|
+|25/02/24|47|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】べりはぴ、STGラジオで愛の告白！？【BMC/BMC/べりはぴ/丘猫まる/元難波芽久実/さぶ郎/葉風邪ナイ/にしのん/万十忍/あげころ】>>https://youtu.be/c2pJ9_lVqvw?si=4izg-3SUvIXVwf9T]] |#208|
+|25/02/27|48|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】BMC VS 9055の学力テストがやばすぎた！【にしのん/御花はな/サウ汰/まきぴ/青梅つばめ/うさぎさん/アッコパス/万十忍/上田さん/えるな/えぼし/葛城司/あげころ】>>https://youtu.be/rW8Un7kWb3c?si=81BM0gg-8zfqy3TC]] |#212|
+|25/04/07|48|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】1日限りの焦村家開店！本気でラーメン屋店長になるあげころ【ストグラSPD/シャッフルパージデー】>>https://youtu.be/aErksHy41UE?si=h8QJ5zDuU2uLD_G-]] |#217([[SPD>>ストグラシャッフルパージデー × 〇〇してはいけない]])|
+|25/04/12|49|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】大繁盛の焦村屋！ギャングと言い合い！？彼氏の素行に悩む店長あげころ…【ストグラSPD/シャッフルパージデー】>>https://youtu.be/3pMOrHO7zFQ?si=sXwpwz5bEfK_O3Hp]] |#???([[SPD>>ストグラシャッフルパージデー × 〇〇してはいけない]])|
+|25/04/17|50|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】フナさんからのプロポーズに乙女になってしまうラーメン屋店長あげころ【ストグラSPD/ストグラシャッフルパージデー/焦村家/NOLIMIT】>>https://youtu.be/GttL6_2CIfU?si=umG2gZ2pYCc9c5Lp]] |#???([[SPD>>ストグラシャッフルパージデー × 〇〇してはいけない]])|
+#areaedit(end)
+#endregion
+#endregion
+//
+***Season2
+#region(開く,open)
+#region(No1~,open)
+#areaedit
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|配信タイトル|切り抜き元|h
+|25/12/21|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[シーズン２初日！医療崩壊が起こる街で頼もしい救急隊！>>https://youtu.be/txV28Tjhq0Y?si=FXM2o1F2MZDMh5Hhl]]|#1|
+|25/12/27|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[シーズン２初日！市長からの特別ミッション！>>https://youtu.be/F-i-oiopTb0?si=21krZ9iR5KWXK-Sj]]|#1|
+|25/12/31|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[クリスマス！JTS入社に大川さんとデートにプレゼント交換でハチャメチャ！>>https://youtu.be/fS02c9WQas8?si=ng7MJAX4QxmLDa2K]]|#2|
+|26/01/07|4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[サニーケバブ始動！ロスサントス最初の飲食店の副店長に！？>>https://youtu.be/BKcJZgPWsmo?si=PzhPwuuIo_Tds7Wr]]|#2|
+|26/05/18|5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【GTA ストグラ切り抜き】　転売編　零　「これが、はじまり。」　【上田あげころ事件・サニーケバブ転売事件】>>https://youtu.be/Z7JqTFx5uNI?si=9s7fe9X1C_I81h9_]]|#33|
+|26/06/16|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ切り抜き】あげころ結婚or黒落ち　上田あげころ転売事件、執行猶予最終日に究極の選択>>https://youtu.be/Ly-i3p2fHVU?si=GH65e3LUp5oHG01a]]|#43|
+#endregion
+#endregion
+//
+#left(){
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~&color(#fff){&font(d4392d,25pt){最新切り抜き}}|h
+|&youtube(https://youtu.be/Ly-i3p2fHVU?si=GH65e3LUp5oHG01a){350,233}|}
+#areaedit(end)
+#right(){&link_up(🔝ページTOPへ)}
+
+*&font(#FA8072){&icon_fa(fa-solid fa-scissors)} ストグラ切り抜き（YouTubeショート）
+***#1~#20
+#region(開く)
+#areaedit
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|配信タイトル|h
+|24/05/22|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[でっかいポメラニアン！>>https://youtube.com/shorts/kUBmWklXN_c?si=9bJGW2QOd0hmTKwg]]|
+|24/05/23|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[プスカ大佐に会いたい！>>https://youtube.com/shorts/kbCcF_8SrOo?si=gzF3cklifqhs20fo]]|
+|24/05/23|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[涙のお別れ〜ころもSIDE〜>>https://youtube.com/shorts/aVAfAEKw4yc?si=xQNltZl82wZWZnl5]]|
+|24/05/26|4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[本命とはいったい…？>>https://youtube.com/shorts/AV0kln-Y2FE?si=FOw6GtltPfoyRLr9]]|
+|24/06/22|5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【前編】この2人絶対に隠密に向いてないｗｗｗｗｗｗ>>https://youtube.com/shorts/eP03pEQZtCM?si=cjq773FZN5qDfj8Z]]|
+|24/06/23|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【中編】命懸けメカニック>>https://youtube.com/shorts/ggLHIQpm5mU?si=dPkmQdKA3TMqD-M4]]|
+|24/06/23|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【後編】ギャングと激突！絶体絶命のピンチ！？>>https://youtube.com/shorts/8_PaVur1cSI?si=WvczHy8GRzuhtLZX]]|
+|24/06/23|8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ラスト】奇跡を起こした2人>>https://youtube.com/shorts/qcmlOVCP3XA?si=9wCEjho-ehYIGJNo]]|
+|24/07/10|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[あげころ焦月ツルギさんと婚約！？>>https://youtube.com/shorts/Ud9wUwCWsI8?si=-uXnRfh5peO8_R8C]]|
+|24/07/12|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[左手ステッカーにプスカ大佐が隠したメッセージ>>https://youtube.com/shorts/WckYB5WeakU?si=4dwyjNPNZImJnCB6]]|
+|24/07/25|11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[花火のように散っていくハンさん>>https://youtube.com/shorts/aUr2oyLUKNs?si=5DzM8sqhoPMm17aH]]|
+|24/07/26|12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ストグラから学ぶ常識〜海水浴編〜>>https://youtube.com/shorts/eFDkOGdv17I?si=Eamcur4Q5ENzTaHN]]|
+|24/07/29|13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ストグラあるある「おんぶ事故」>>https://youtube.com/shorts/TdV0HIj_pSw?si=duL3kyTlHcFxeV96]]|
+|24/08/02|14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[あげころデートする！？>>https://youtube.com/shorts/m6MahNneWRY?si=JmNZVdpq5pNHUuDS]]|
+|24/09/18|15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[初めて聞くマクドナルドさんの曲にダンスが止まらなくなる🔰あげころ>>https://youtube.com/shorts/HvKzlvi9dXQ?si=KM93k4plZRQ9pUcs]]|
+|24/09/19|16|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ツルギさん、ださっ！>>https://youtube.com/shorts/h-hRTL58gLc?si=EcUFftdhCMHG4XZV]]|
+|24/09/20|17|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[弟にストグラ切り抜き作らせたらとんでもないことになった>>https://youtube.com/shorts/M4QQeHuvsGw?si=YrZaar2DpblC53dl]]|
+|24/09/23|18|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[まだ聞き取れた頃のマクドナルドさん>>https://youtube.com/shorts/Jqg6ps-rvyA?si=bvvtV9Z1ZRYBIwnU]]|
+|24/09/24|19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ウェスカーさんに宣材写真を撮ってもらうあげころ>>https://youtube.com/shorts/cYVh_j3SBSo?si=EwPc0iatNGiEfNdR]]|
+|24/09/25|20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[アドミゲスハン「あげころ、この車降りろ！！！！！！」>>https://youtube.com/shorts/4zNvsJ4126A?si=dQUbFf6LujdAqFD3]]|
+#areaedit(end)
+#endregion
+***#21~
+#region(開く,open)
+#areaedit
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|配信タイトル|h
+|24/09/26|21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ツルギさんとかけるちゃんに褒められるあげころ>>https://youtube.com/shorts/kMVpMEflk2U?si=Cc1CentresWZhzOl]]|
+|24/09/28|22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[白々しいてつおさん😏>>https://youtube.com/shorts/zF_d9sVyZ4g?si=hFbgyTaBmaw_bFiS]]|
+|24/09/30|23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ツルギさんの笑い声ツボｗｗｗｗｗｗｗｗｗ　>>https://youtube.com/shorts/2p1a68k8UY0?si=my3vp3pZbVNjZJ3j]]|
+|24/10/01|24|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[無馬さんにBMCの店番してもらいました！　>>https://youtube.com/shorts/phU47MK7PxA?si=uJZ21GpGNpiqSI1p]]|
+|24/12/03|25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[あげころのボイスを欲しがるツルギさん　>>https://youtube.com/shorts/gPc_1wBDxE8?si=mA-WgxuZoyf9TSwQ]]|
+|24/12/04|26|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[プスカ大佐にハグを断られて拗ねるあげころ>>https://youtube.com/shorts/p_9MMFpVzQI?si=86pshWD-NNy3NSu9]]|
+|24/12/05|27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[伏線回収が完璧なズズさんとあげころ>>https://youtube.com/shorts/uhP-S80ZCc4?si=enaTdeUSVHCVisvD]]|
+|24/12/06|28|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[影が薄くて見えなくなるアドミゲスハンさん>>https://youtube.com/shorts/Q782biJS3Rw?si=AUwQAul-KKaRwkTm]]|
+|24/12/07|29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[飛び出すあげころ>>https://youtube.com/shorts/lheYBygNbKM?si=ppx9914uT7zMEdJi]]|
+|24/12/10|30|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[奇肉になりたいんですか？>>https://youtube.com/shorts/fAFsC7gBO-s?si=9Sh0AbxFi--PaLlJ]]|
+|24/12/12|31|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[雪と共に忘れる恋心>>https://youtube.com/shorts/PLBppnHSUP4?si=hmHlxChw6RlXBqE_]]|
+|24/12/25|32|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[めぐみさんとさぶ郎ちゃんに沈められるキャップくん>>https://youtube.com/shorts/vJNHppdZjSk?si=YwNU4bZ8-bc011Ub]]|
+#areaedit(end)
+#endregion
+#right(){&link_up(🔝ページTOPへ)}
+
+*&font(#FA8072){&icon_fa(fa-solid fa-scissors)} クリップ観賞
+#region(開く)
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|配信タイトル|h
+|24/10/21|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラ雑談】あげころ1周年！クリップ鑑賞会！>>https://www.twitch.tv/videos/2281545131]]|
+#endregion
+
+*&font(#FA8072){&icon_fa(fa-brands fa-youtube)} ストグラコラボ
+***#1~#25
+#region(開く)
+#areaedit
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|配信タイトル|参加者|h
+|24/01/17|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【生き残れ！】7 Days to Die【#ストグラ コラボ】【#ストグラ #bmc コラボ】>>https://www.youtube.com/live/pDPuWVHwf-Q?si=XBRQYSUsMhkVwIrp]]|[[KYS>>Dr．ギガ]]/[[しとまき>>神道　まきぴ]]/[[島ゴリ>>ジェフリー　ヒッチコック]]|
+|24/02/07|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【生き残れ！】7 Days to Die 2回目！【#ストグラ コラボ】>>https://www.youtube.com/live/8WNzTvSTX_M?si=wMNhdm14YXxOS2Bt]]|[[KYS>>Dr．ギガ]]/[[しとまき>>神道　まきぴ]]/[[島ゴリ>>ジェフリー　ヒッチコック]]|
+|24/02/21|3|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【もぐもぐコラボ】『漢気牛タンコロッケ』をあもこちゃんと一緒にいただきます！>>https://www.youtube.com/live/3iYFlWkCp9E?si=GVy8fUMgdz8sFnUz]]|[[御先蔵馬>>カム　カマダ]]|
+|24/03/13|4|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【生き残れ！】7 Days to Die ３回目！【#ストグラ コラボ】>>https://www.youtube.com/live/ff5K-scfPZ0?si=6J4SExtHTzKr6bvU]]|[[KYS>>Dr．ギガ]]/[[しとまき>>神道　まきぴ]]/[[島ゴリ>>ジェフリー　ヒッチコック]]|
+|24/03/18|5|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【コラボ】ローソン１０００円で晩御飯デッキくむ【#くらもこもぐもぐ】>>https://www.youtube.com/live/27pRf6Kmbo4?si=QkQ6h2tP-JECA84o]]|[[御先蔵馬>>カム　カマダ]]|
+|MIDDLE:24/03/25|MIDDLE:6|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【絵】ガーティックフォン【#ストグラ #bmc コラボ】>>https://www.youtube.com/watch?v=h6HI1-DmNYI]]|[[さくまりる>>空舞月　りり]]/[[にしのん>>にし　のん]]/[[るなぼう>>空舞月　るる]]/[[花束ゆいは>>御花　はな]]/[[天唄サウ>>星唄　サウ汰]]/[[しとまき>>神道　まきぴ]]&br()[[バル子>>山田　パルコ]]/[[島ゴリ>>ジェフリー　ヒッチコック]]/[[さんしあ>>天成　する蔵]]/[[切嘛>>切間　てつお]]/[[てんぷら>>天ノ　ぷら子]]/[[ぺんこ>>くまの　ふでこ]]|
+|24/04/04|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【クトゥルフ神話TRPG】蛾と踊る【前半】>>https://www.youtube.com/live/vNhqX_AWp7k?si=AvZudsS1j-eyHNdYU]]|[[KYS>>Dr．ギガ]]/[[あどみん>>アドミゲス・ハン]]|
+|24/04/05|8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【クトゥルフ神話TRPG】蛾と踊る【後半】>>https://www.youtube.com/live/zHyhrzc5FDs?si=DG3HsqdKfk6SqLfB]]|[[KYS>Dr．ギガ]]/[[あどみん>アドミゲス・ハン]]|
+|24/04/19|9|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ BMCコラボ】Content Warning「バズれ！！！！！！」>>https://www.twitch.tv/videos/2123812348]] ※サブスク限定|[[るなぼう>空舞月　るる]]/[[てんぷら>天ノ　ぷら子]]/[[ぺんこ>くまの　ふでこ]]|
+|24/04/22|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【晩御飯雑談】ミニストップ１０００円デッキ！【#ストグラ コラボ】#くらもこもぐもぐ>>https://www.youtube.com/live/6M2QOnHQc5U?si=Lnzx6t5aTYtiqWTK]]|[[御先蔵馬>カム　カマダ]]|
+|24/04/24|11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【Contents Warning】バズれ！！！！！！！！【#ストグラ コラボ】>>https://www.youtube.com/live/bCZgyeAIULs?si=vhFS_kOluMiU00Rf]]|[[ろぜっくぴん>ろぜ柳　ぴん子]]/[[切嘛>切間　てつお]]/[[ましゃかりさん>ましゃかり　トラボルタ]]|
+|24/05/20|12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【晩御飯雑談】ファミマ１０００円デッキ！【#ストグラ コラボ】#くらもこもぐもぐ>>https://www.youtube.com/live/xrIndX5zK_s?si=uINkxUTZbncbUfDx]]|[[御先蔵馬>カム　カマダ]]|
+|24/06/17|13|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【 マダミス #ストグラ コラボ】ゲーム実況者と終わらないモラトリアム【 HOキット視点 】>>https://www.youtube.com/live/XCzEKlxh-34?si=2uM1bzhyFqUXAQHX]]|[[乙奈りの>>隣　紀子]]/[[ましゃかりさん>ましゃかり　トラボルタ]]/[[ろぜっくぴん>>ろぜ柳　ぴん子]]/[[切嘛>切間　てつお]]|
+|24/07/08|14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【生き残れ！】正式版 7 Days to Die ４回目！【#ストグラ コラボ】>>https://www.youtube.com/live/xHZFIMcqCFc?si=JBcTr_Xl6Dj7bxta]]|[[KYS>>Dr．ギガ]]/[[しとまき>>神道　まきぴ]]/[[島ゴリ>>ジェフリー　ヒッチコック]]/[[あっくん大魔王>>マカイーノ　アッコパス]]|
+|24/08/11|15|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【Chained Together】鎖一緒に！！！！！>>https://www.twitch.tv/videos/2220470360]] ※サブスク限定|[[よしぴ>>アイドゥラー　ヨシャパテ]]/[[あっくん大魔王>>マカイーノ　アッコパス]]/[[ろっくちゃん>>犬億　ロック]]|
+|24/08/11|16|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【7dtd】ゾンビ倒す w/KYSさん>>https://www.twitch.tv/videos/2220751703]] ※サブスク限定|[[KYS>>Dr．ギガ]]|
+|24/08/15|17|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】夏の大三角でたこパする【パテらみころ】>>https://www.twitch.tv/videos/2224846208]] ※サブスク限定|[[よしぴ>>アイドゥラー　ヨシャパテ]]/[[こはならむ>>Kohana　Lami]]|
+|MIDDLE:24/09/16|MIDDLE:18|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【minecraft】ひらいけマイクラ！>>https://www.twitch.tv/videos/2252563692]]※サブスク限定 |[[アメザリひらい>>平井　善之]]/[[真澄せんの>>青梅　つばめ]]/[[花束ゆいは>>御花　はな]]/[[あっくん大魔王>>マカイーノ　アッコパス]]/[[天唄サウ>>星唄　サウ汰]] &br()[[猫街もも>>あやな　みれい]]/[[しんのすけ>>上田　さん]]/[[ヲタみん>>太田　民子]]/[[しえるんち。>>月乃　えるな]]/[[HiNas3>>阿蘇野　ひなす]]|
+|24/09/19|19|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【🎲CoC】呪われた物語を演じる「ACTOR：０」【KP neon PL KYS/栗山やんみ/ちゃげぽよ。/甘乃あもこ】>>https://www.youtube.com/live/xHZFIMcqCFc?si=JBcTr_Xl6Dj7bxta]]|[[KYS>>Dr．ギガ]]/[[栗山やんみ>>羽山　ペティ]]/[[ちゃげぽよ。>>ヒロ　ヤマモト]]|
+|24/09/21|20|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[前編【🎲CoC】推理謎解き「U、或いは」【KP・シナリオ 宴規 PL KYS/あどみん/あもこ】>>https://www.youtube.com/live/e7_jD1j9BZU?si=dw-9uTzMHljOnBRq]]|[[KYS>>Dr．ギガ]]/[[あどみん>>アドミゲス・ハン]]|
+|24/09/22|21|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[後編【🎲CoC】推理謎解き「U、或いは」【KP・シナリオ 宴規 PL KYS/あどみん/あもこ】>>https://www.youtube.com/live/F-x2oUxDbhw?si=pcFSRy-pd6bPcsz5]]|[[KYS>>Dr．ギガ]]/[[あどみん>>アドミゲス・ハン]]|
+|24/09/30|22|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】マリオパーティづす！！/南登かなる、ろぜっくぴん、月夜見レオ>>https://youtu.be/x4UeWI6g3lY?si=O-PY9X0yfkptUtyI]]|[[南登かなる>>はが　かける]]/[[ろぜっくぴん>>ろぜ柳　ぴん子]]/[[月夜見レオ>>無月　レオ]]|
+|24/10/14|23|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【モンハンワールド】るなぱいとひと狩りいくぞ！！！！！！！【ストグラ コラボ】>>https://www.youtube.com/live/8zCPlPQpcK8?si=2hl2F7D8jeK2MGyk]]  |[[るなぼう>>空舞月　るる]]|
+|24/10/23|24|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】PNGWIN桃鉄！！！！！！！>>https://www.twitch.tv/videos/2283147604]]※サブスク限定(YouTubeにてアーカイブ化予定) |[[南登かなる>>はが　かける]]/[[ろぜっくぴん>>ろぜ柳　ぴん子]]/[[月夜見レオ>>無月　レオ]]|
+|24/10/27|25|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】元サントスで大暴れ！？ｗＫＹＳさん>>https://www.twitch.tv/videos/2286506763]] ※サブスク限定|[[KYS>>Dr．ギガ]]|
+#areaedit(end)
+#endregion
+***#26~#50
+#region(開く)
+#areaedit
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|配信タイトル|参加者|h
+|MIDDLE:24/10/28|MIDDLE:26|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】あもんぐあす！絶対生き残りたい！やる気はあります！ｗ/ストグラの人たくさん>>https://www.twitch.tv/videos/2287503002]]※サブスク限定|[[MinyaSeptember>>世風天　みにゃ]]/[[あどみん>>アドミゲス・ハン]]/[[蝦名彩香@えびちゃん>>えびな　ヨネ]]/[[かなででで>>天草　蒼]]/[[ぱちしゅう>>日之　ぱちお]]&br()[[よしぴ>>アイドゥラー　ヨシャパテ]]/[[アベレージ>>安倍　霊明]]/[[尖苅せにゃ>>ボア　セニャコック]]/[[島ゴリ>>ジェフリー　ヒッチコック]]/[[森野めるん>>もり　るんるん]]/[[真澄せんの>>青梅　つばめ]]/[[紫闇ヘル>>ヘルアン]]/[[玖兎音るう>>ルウ　ギャラクティカ]]|
+|24/11/02|27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【🔰モンハンワイルズ】るなぱいとオープンベータテスト【#ストグラ コラボ】>>https://www.youtube.com/live/CSe6TaMMhyA?si=Gd7qbenSyWp6PRM_]]  |[[るなぼう>>空舞月　るる]]|
+|24/11/04|28|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】ファストフード店経営します！【fast food simulator】w/よしぴさん、くらまくん、カイキングさん]]※サブスク限定|[[よしぴ>>アイドゥラー　ヨシャパテ]]/[[御先蔵馬>>カム　カマダ]]/[[カイキング>>山田　カイキ]]|
+|MIDDLE:24/11/11|MIDDLE:29|&font(#6441A4){&icon_fa(fa fa-twitch)}【ストグラコラボ】リーサルカンパニー【あげころ/揚物ころも】&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】PNGでsun haven という神ゲーする【w/月夜見レオ/南登かなる/ろぜっくぴん】>>https://www.twitch.tv/videos/2299229553]]※サブスク限定 |MIDDLE:[[南登かなる>>はが　かける]]/[[ろぜっくぴん>>ろぜ柳　ぴん子]]/[[月夜見レオ>>無月　レオ]]|
+|24/11/18|30|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】第2回おぱんちゅばーがー開店！【ｗ/よしぴ、くらま、カイキング】>>https://www.twitch.tv/videos/2304888290?t=00h02m15s]]※サブスク限定|[[よしぴ>>アイドゥラー　ヨシャパテ]]/[[御先蔵馬>>カム　カマダ]]/[[カイキング>>山田　カイキ]]|
+|24/12/09|31|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【マリオパーティー】ジャンボリー！！！【ｗ/南登かなるちゃん、月夜見レオさん】>>https://www.twitch.tv/videos/2322298396]]※サブスク限定|[[南登かなる>>はが　かける]]/[[月夜見レオ>>無月　レオ]]|
+|MIDDLE:24/12/16|MIDDLE:32|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラアモアス】もう一回呼んでもらえた！！！！！！【AmongUS】>>https://www.twitch.tv/videos/2328184806]]※サブスク限定|[[よしぴ>>アイドゥラー　ヨシャパテ]]/[[ぱちしゅう>>日之　ぱちお]]/[[島ゴリ>>ジェフリー　ヒッチコック]]/[[かなででで>>天草　蒼]]/[[紫闇ヘル>>ヘルアン]]/[[アベレージ>>安倍　霊明]]/[[月夜見レオ>>無月　レオ]]/[[蝦名彩香@えびちゃん>>えびな　ヨネ]]&br()[[森野めるん>>もり　るんるん]]/[[玖兎音るう>>ルウ　ギャラクティカ]]/[[MinyaSeptember>>世風天　みにゃ]]/[[乙奈りの>>隣　紀子]]/[[夜巡ハナ>>八王子　めぐ]]/[[SUGAROCK>>さとう]]|
+|MIDDLE:24/12/23|MIDDLE:33|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】赤髪のともさん主催 #採掘駅伝 BMCチーム wにしのん社長・サウちゃん【あげころ/揚物ころも】>>https://www.twitch.tv/videos/2334036359]]※サブスク限定|[[赤髪のとも>>赤兎　がみとも]]/[[ノビー>>ノビー　ラング]]/[[MinyaSeptember>>世風天　みにゃ]]/[[空衣御侍>>雷堂　ましろ]]/[[kaka>>加賀　イズミ]]/[[へくしょん>>箱根　しおん]]/[[しおこうじ>>シオコ　リコ]]/[[てんぷら>>オルカ　トヴォロ]]&br()[[ゆきや>>ぺん　ゆきや]]/[[ごっちゃん@マイキー>>アルフォート　ウェスカー]]/[[すず音>>栖家幡　華憐]]/[[D.ManueL>>ニャンコ・スキー]]/[[番田長助>>ヴァン　ダーマー]]/[[うめJam>>ジャムリーヌ　バルサミコス]]/[[Aボタン>>ぎちょう・じょばぁーな]]/[[ライト>>ライトスターボーイ]]/[[しゅりぺ>>ダミ　アン]]&br()[[ろぜっくぴん>>ろぜ柳　ぴん子]]/[[玖兎音るう>>ルウ　ギャラクティカ]]/[[エリー・サタン>>茶担　えり]]/[[みかちー>>ミカ・ピトフーイ]]/[[にしのん>>にし　のん]]/[[天唄サウ>>星唄　サウ汰]]/[[羽ヶ町つまみ>>町田　ジョアンナ]]&br()[[豆腐ちゃん>>豆　やん]]/[[りズゥ>>多良里　ずぅ]]/[[たここ>>牧田　ここな]]/[[ズズ>>キングスターダイヤモンド　ズズ]]/[[ゼルク>>エスターク・Z・ダークネス]]|
+|MIDDLE:24/12/29|MIDDLE:34|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラべりはぴコラボ】みんなで回答を一致させよう！！！！！【あげころ/揚物ころも】>>https://www.twitch.tv/videos/2338903853]]※サブスク限定&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】べりはぴメンバーで一致するまで終われまてん！【珍回答続出】>>https://youtu.be/FTJBCEa2eMY?si=gzwbClgpLmpLK277]]※YouTubeアーカイブ|MIDDLE:[[天城てん>>葉風邪　ナイ]]/[[さぶ郎。>>安保　さぶ郎]]/[[宙星ぱる>>丘猫　まる]]/[[松村芽久未>>元難波　芽久未]]|
+|MIDDLE:25/01/03|MIDDLE:35|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【イニシャルD 同時視聴】ストグラBMCメンバーと一緒に【 Act.1~26】>>https://www.twitch.tv/videos/2342746811]]※サブスク限定&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【イニシャルD 同時視聴】ストグラBMCメンバーと一緒に【 Act.1~26】>>https://www.youtube.com/live/dim1pqu6FKY?si=LiJg4CjXVZD05DXL]]|MIDDLE:[[あっくん大魔王>>マカイーノ　アッコパス]]/[[花束ゆいは>>御花　はな]]/[[饅頭忍者>>万十　忍]]/[[しとまき>>神道　まきぴ]]/[[真澄せんの>>青梅　つばめ]]/[[	バル子>>山田　パルコ]]/[[にしのん>>にし　のん]]|
+|MIDDLE:25/01/16|MIDDLE:35|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【Fast food simulator】レベル悪魔のおぱんちゅばーがー！新人が来る！？ >>https://www.twitch.tv/videos/2354612732]]※サブスク限定|MIDDLE:[[よしぴ>>アイドゥラー　ヨシャパテ]]/[[御先蔵馬>>カム　カマダ]]/[[カイキング>>山田　カイキ]]/[[尖苅せにゃ>>ボア　セニャコック]]|
+|MIDDLE:25/01/18|MIDDLE:36|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ コラボ】PNGでヴァンサバ！>>https://www.twitch.tv/videos/2356630741]]※サブスク限定|MIDDLE:[[南登かなる>>はが　かける]]/[[ろぜっくぴん>>ろぜ柳　ぴん子]]/[[月夜見レオ>>無月　レオ]]|
+|MIDDLE:25/01/27|MIDDLE:37|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラアモアス】３回目の参戦！今日も頑張ります！>>https://www.twitch.tv/videos/2364996702]]※サブスク限定|[[玖兎音るう>>ルウ　ギャラクティカ]]/[[かなででで>>天草　蒼]]/[[森野めるん>>もり　るんるん]]/[[瀬戸あさひ>>MC　Sunrise]]/[[蝦名彩香@えびちゃん>>えびな　ヨネ]]/[[紫闇ヘル>>ヘルアン]]/[[島ゴリ>>ジェフリー　ヒッチコック]]&br()[[MinyaSeptember>>世風天　みにゃ]]/[[天城てん>>葉風邪　ナイ]]/[[アベレージ>>安倍　霊明]]/[[SUGAROCK>>さとう]]/[[御先蔵馬>>カム　カマダ]]/[[＿＿（アンダーバー）>>ハン　バーガー]]|
+|MIDDLE:25/01/29|MIDDLE:38|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】おぱんちゅばーがー！店長出勤します！ｗ/よしぴさん・カイキさん・くらまくん・ぺんこちゃん・バル子ちゃん >>https://www.twitch.tv/videos/2366607399]]※サブスク限定|MIDDLE:[[よしぴ>>アイドゥラー　ヨシャパテ]]/[[御先蔵馬>>カム　カマダ]]/[[カイキング>>山田　カイキ]]/[[バル子>>山田　パルコ]]/[[ぺんこちゃんねる>>くまの　ふでこ]]|
+|MIDDLE:25/01/30|MIDDLE:39|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】BMCメンバーとアルバイトする！【Fast Food Simulator】#バル子 #真澄せんの #饅頭忍者 #甘乃あもこ>>https://www.youtube.com/live/Nn69l_tY6HQ?si=_QRJzfJkMMHNLiqW]]|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]|
+|MIDDLE:25/02/01|MIDDLE:40|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【マダミス】「 ホストクラブ殺人事件 」 #BMCホスクラ【セイヤ視点 】#乙奈りの #にしのん #しとまきぴ #バル子 #真澄せんの #甘乃あもこ>>https://www.youtube.com/live/nmhkQnCrXZo?si=gqiC8NgTSYYw3Djt]]|MIDDLE:[[バル子>>山田　パルコ]]/[[しとまき>>神道　まきぴ]]/[[にしのん>>にし　のん]]/[[真澄せんの>>青梅　つばめ]]/[[乙奈りの>>隣　紀子]]|
+|MIDDLE:25/02/03|MIDDLE:41|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【騙し合い】LIAR'S BAR【ストグラコラボ】ｗ・バル子ちゃん/ヘル先輩/しろやんさん>>https://www.twitch.tv/videos/2371249061]]※サブスク限定&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【騙し合い】LIAR'S BAR【ストグラコラボ】#バル子 #紫闇ヘル ＃梟雄しろや #甘乃あもこ>>https://youtu.be/uQ2oCeR5N7Q?si=oRsMSKT8a9LHzQjC]]|MIDDLE:[[バル子>>山田　パルコ]]/[[紫闇ヘル>>ヘルアン]]/[[梟雄しろや>>三否亭　四五六確]]|
+|MIDDLE:25/02/16|MIDDLE:42|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【🔰モンハンワイルズ】るなぱいとオープンベータテスト【 MHWs】#甘乃あもこ #るなぼう>>https://www.youtube.com/live/zrDxqhss56U?si=GWJ5ICckuySGy8Iz]]|MIDDLE:[[るなぼう>>空舞月　るる]]/[[しとまき>>神道　まきぴ]]/[[饅頭忍者>>万十　忍]]|
+|MIDDLE:25/02/17|MIDDLE:43|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】戦うぞ！！！！！！！！【ｗ・饅頭忍者、バル子、真澄せんの】>>https://www.twitch.tv/videos/2383622767]]|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]|
+|MIDDLE:25/03/14|MIDDLE:44|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【モンハン】早朝モンハン【ｗ・忍さん、しろまんた先生、バル子ちゃん、あっくん大魔王】>>https://www.twitch.tv/videos/2405681546]]|MIDDLE:[[饅頭忍者>>万十　忍]]/[[しろまんた>>白井　満太]]/[[バル子>>山田　パルコ]]/[[しんのすけ>>上田　さん]]/[[あっくん大魔王>>マカイーノ　アッコパス]]|
+|MIDDLE:25/03/17|MIDDLE:43|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【モンハンワイルズ】うさつばあげまんじゅう w・バル子ちゃん、せんのちゃん、饅頭忍者くん【MHWs】>>https://www.youtube.com/live/9v9yuUyE2vU?si=v3FBvHzjoKSUIS2R]]|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]|
+|MIDDLE:25/04/07|MIDDLE:44|&font(#6441A4){&icon_fa(fa fa-twitch)}[[　#うさつばあげまんじゅう ホラゲやる！！！！！！！こわい！！！！！！ｗ・バル子ちゃん、せんのちゃん、饅頭忍者さん>>https://www.twitch.tv/videos/2426454852]]|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]|
+|25/04/19|45|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラキッチン界隈】NOLIMIT＆BMCからゲスト審査員！？第1回 たぬキッチンVSあもこずきっちん>>https://youtu.be/Lmq8kkptGF8?si=Fi7NOmEKI3gpir7l]]|[[月夜見レオ>>ツクヨミ　レオ]]/[[あしさんり>>街雄　サンリ]]/[[けっつん>>けっつん　太郎]]/[[真澄せんの>>青梅　つばめ]]|
+|MIDDLE:25/04/20|MIDDLE:46|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【剣と魔法の世界】「ドラゴン倒すぞー！」ｗ・よしぴさん / ゆふなさん / まきぴちゃん>>https://www.twitch.tv/videos/2437972533]]|MIDDLE:[[よしぴ>>アイドゥラー　ヨシャパテ]]/[[ゆふな>>冬那　フナ]]/[[しとまき>>神道　まきぴ]]|
+|MIDDLE:25/04/23|MIDDLE:47|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【爆弾解除】うちらならできる！ｗ・サウちゃん>>https://www.twitch.tv/videos/2440450632]]|MIDDLE:[[天唄サウ>>星唄　サウ汰]]|
+|MIDDLE:25/04/28|MIDDLE:48|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラアモアス】謎のシルエットだれ・・・？>>https://www.twitch.tv/videos/2444870135]]|MIDDLE:|
+|MIDDLE:25/05/01|MIDDLE:49|&font(#6441A4){&icon_fa(fa fa-twitch)}[[べりはぴで無人島生活！ #ストグラコラボ>>https://www.twitch.tv/videos/2444870135]]|MIDDLE:[[天城てん>>葉風邪　ナイ]]/[[さぶ郎。>>安保　さぶ郎]]/[[宙星ぱる>>丘猫　まる]]/[[松村芽久未>>元難波　芽久未]]|
+|MIDDLE:25/05/02|MIDDLE:50|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ホラゲ（？）やるぞ！！！！！！！【ｗ・かなるちゃん、レオさん】>>https://www.twitch.tv/videos/2448256898]]|MIDDLE:[[南登かなる>>はが　かける]]/[[月夜見レオ>>ツクヨミ　レオ]]|
+#areaedit(end)
+#endregion
+***#51~75
+#region(開く)
+#areaedit
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|配信タイトル|参加者|h
+|MIDDLE:25/05/06|MIDDLE:51|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【Dinkum】べりはぴ島！【あげころ/揚物ころも】>>https://www.twitch.tv/videos/2451584540]]|MIDDLE:[[天城てん>>葉風邪　ナイ]]/[[さぶ郎。>>安保　さぶ郎]]/[[宙星ぱる>>丘猫　まる]]/[[松村芽久未>>元難波　芽久未]]|
+|MIDDLE:25/05/12|MIDDLE:52|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【料理界隈】BMCメンバーにお料理振る舞う！【#あもこずきっちん】>>https://www.twitch.tv/videos/2456731992]](＊実写)|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[天唄サウ>>星唄　サウ汰]]|
+|MIDDLE:25/05/17|MIDDLE:53|&font(#6441A4){&icon_fa(fa fa-twitch)}[[べりはぴ島でスローライフ！>>https://www.twitch.tv/videos/2460866785]]|MIDDLE:[[天城てん>>葉風邪　ナイ]]/[[さぶ郎。>>安保　さぶ郎]]/[[宙星ぱる>>丘猫　まる]]/[[松村芽久未>>元難波　芽久未]]|
+|MIDDLE:25/05/26|MIDDLE:54|&font(#6441A4){&icon_fa(fa fa-twitch)}[[うさつばあげまじゅう！！！！！！>>https://www.twitch.tv/videos/2468832580]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】オーバークック２！【 #ばるせんあもまんじゅう 】 >>https://youtu.be/qPXMlzWBN8M?si=sWPyx9ccc9NuTTg3]]|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]|
+|MIDDLE:25/06/16|MIDDLE:55|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラアモアス】騙しまくるぞ！！！！！！！！！！！！！！！！！！！>>https://www.twitch.tv/videos/2487493724]]|[[玖兎音るう>>ルウ　ギャラクティカ]]/[[森野めるん>>もり　るんるん]]/[[紫闇ヘル>>ヘルアン]]/[[島ゴリ>>ジェフリー　ヒッチコック]]/[[せかめん>>ガヴァイ　アッカンマン]]/[[天城てん>>葉風邪　ナイ]]/&br()[[MinyaSeptember>>世風天　みにゃ]]/[[天城てん>>葉風邪　ナイ]]/[[御先蔵馬>>カム　カマダ]]/[[レントンゲームズ>>ジェイク　レディントン]]/[[歌広場 淳>>広場　うた子]]/[[あしさんり>>街雄　ゴリ]]|
+|MIDDLE:25/06/17|MIDDLE:56|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】マリパする！！！！！！w・レオさん、さぶちゃん、上田さん>>https://www.twitch.tv/videos/2488354962]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】異色メンバーでマリパを楽しむ！！！！！【マリオパーティージャンボリー】 >>https://www.youtube.com/live/aZxs4ig7npY?si=QatbgS6FETNWB4t_]]|MIDDLE:[[さぶ郎。>>安保　さぶ郎]]/[[月夜見レオ>>ツクヨミ　レオ]]/[[しんのすけ>>上田　さん]]|
+|MIDDLE:25/06/23|MIDDLE:57|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[ばるせんあもまんじゅう！もうこのゲーム怖くないからみんなを勝ちに導くわ>>https://www.twitch.tv/videos/2493719205]]|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]|
+|MIDDLE:25/07/07|MIDDLE:58|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[バイト会コラボ！！！！！！！！！>>https://www.twitch.tv/videos/2505969103]]|MIDDLE:[[たここ>>牧田　ここな]]/[[ぱちしゅう>>日之　ぱちお]]/[[たいたい>>捌木　たいたい]]|
+|MIDDLE:25/07/24|MIDDLE:59|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【マダミス】GMガッちゃん様「人類最後のみなさまへ / 終末の眠り姫」 #奇肉屋の人類終末【PCグレイシア/パーフェクトレディ視点】>>https://www.youtube.com/live/yfcoEQ3kjco?si=Nlxwol63-h6_5YFn]]|MIDDLE:[[あっくん大魔王>>マカイーノ　アッコパス]]/[[Runpa>>亀有　大吉]]/[[ちゃげぽよ>>ヒロ　ヤマモト]]/[[ヤマトイオリ>>銅鑼　イオリ]]/ガッちゃん|
+|MIDDLE:25/07/27|MIDDLE:60|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】マリパする！！！！！！！！【ｗ・レオさん、さぶちゃん、上田】>>https://www.twitch.tv/videos/2523745713]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】マリパする！！！！！！！！【ｗ・レオさん、さぶちゃん、上田】>>https://www.twitch.tv/videos/2523751854]]|MIDDLE:[[さぶ郎。>>安保　さぶ郎]]/[[月夜見レオ>>ツクヨミ　レオ]]/[[しんのすけ>>上田　さん]]|
+|MIDDLE:25/07/28|MIDDLE:60|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】山のぼるぞ！！！！！！！！ #ばるせんあもまんじゅう>>https://www.twitch.tv/videos/2524624444]]|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]|
+|MIDDLE:25/08/13|MIDDLE:61|&font(#6441A4){&icon_fa(fa fa-twitch)}[[BMCメンバーと頭文字D同時視聴会！！！ 解説：にんにん先生>>https://www.twitch.tv/videos/2538640373]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【イニシャルD 同時視聴】ストグラBMCメンバーと一緒に【2nd,3rd】>>https://www.youtube.com/live/C-P-HuwKD6M?si=rchUqAZ59rLfcWij]]|MIDDLE:[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]|
+|MIDDLE:25/08/15|MIDDLE:62|&font(#6441A4){&icon_fa(fa fa-twitch)}[[AIインポスター #ストグラベリハピ>>https://www.twitch.tv/videos/2540652753]]|MIDDLE:[[天城てん>>葉風邪　ナイ]]/[[さぶ郎。>>安保　さぶ郎]]/[[宙星ぱる>>丘猫　まる]]/[[松村芽久未>>元難波　芽久未]]|
+|MIDDLE:25/08/25|MIDDLE:63|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[#ストグラアモアス 今日も呼んでもらえてよかった！！！！！>>https://www.twitch.tv/videos/2549331044]]|[[MinyaSeptember>世風天　みにゃ]]/[[SUGAROCK>さとう]]/[[バル子>>山田　パルコ]]&br()[[あない>ブラック　ジャックス]]/[[たここ>>牧田　ここな]]/[[とっしん>モーガン・フリーザン]]/[[マクドナルド>ライトスターボーイ]]/[[島ゴリ>ジェフリー　ヒッチコック]]&br()[[森野めるん>もり　るんるん]]/[[紫闇ヘル>ヘルアン]]/[[玖兎音るう>ルウ　ギャラクティカ]]|
+|MIDDLE:25/09/06|MIDDLE:64|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【#ストグラ】街おパーティー！>>https://www.twitch.tv/videos/2559566364]]|MIDDLE:[[KYS>Dr．ギガ]]/[[さぶ郎。>>安保　さぶ郎]]/[[たけぉ>バーバリアン　田中]]|
+|MIDDLE:25/09/12|MIDDLE:65|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[マリオパーティ！！！！ｗ・レオさん、さぶちゃん、上田さん、あもこ>>https://www.twitch.tv/videos/2564495173]]|MIDDLE:[[さぶ郎。>>安保　さぶ郎]]/[[月夜見レオ>>ツクヨミ　レオ]]/[[しんのすけ>>上田　さん]]|
+|MIDDLE:25/09/21|MIDDLE:66|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[にゃかみちゃんがゲームを作ってきた！ #べとべとみかん>>https://www.twitch.tv/videos/2571813010]]|MIDDLE:[[南登かなる>>はが　かける]]/[[にゃかみ>>超越ヶ谷　にかり]]|
+|MIDDLE:25/10/01|MIDDLE:67|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[ゼルクさんと犬になる！！！！！！！！！！！>>https://www.twitch.tv/videos/2571813010]]|MIDDLE:[[ゼルク>>卯月　るくあ]]|
+|MIDDLE:25/10/02|MIDDLE:68|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ストグラコラボ】BMCレポ！！！！！！！ｗにしのん3、バル子3、島ゴリ3、饅頭忍者3、夜乃すみ3>>https://www.twitch.tv/videos/2581229011]]|MIDDLE:[[バル子>山田　パルコ]]/[[にしのん>にし　のん]]/[[島ゴリ>ジェフリー　ヒッチコック]]/[[饅頭忍者>万十　忍]]/[[夜乃すみ>星乃　すみ]]|
+|MIDDLE:25/10/08|MIDDLE:70|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[KYSさんとスパイ大作戦！！！！！>>https://www.twitch.tv/videos/2586314385]]|MIDDLE:[[KYS>Dr．ギガ]]|
+|MIDDLE:25/10/09|MIDDLE:71|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[よしぴさんと車爆発させる！！！！！！！！>>https://www.twitch.tv/videos/2587070620]]|MIDDLE:[[よしぴ>アイドゥラー　ヨシャパテ]]|
+|MIDDLE:25/10/12|MIDDLE:72|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[べりはぴゲスト！あもこずきっちん！>>https://www.twitch.tv/videos/2587070620]]|MIDDLE:[[宙星ぱる>丘猫　まる]]/[[松村芽久未>元難波　芽久未]]|
+|MIDDLE:25/10/13|MIDDLE:73|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[さぶちゃんとホラゲー！こわい！>>https://www.twitch.tv/videos/2590663178]]|MIDDLE:[[さぶ郎。>安保　さぶ郎]]|
+|MIDDLE:25/10/15|MIDDLE:74|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[ジェネレーションギャップ犬・w・ゼルクさん>>https://www.twitch.tv/videos/2592341008]]|MIDDLE:[[ゼルク>卯月　るくあ]]|
+|MIDDLE:25/10/16|MIDDLE:75|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[べりはぴ山登り！>>https://www.twitch.tv/videos/2593154037]]|MIDDLE:[[天城てん>葉風邪　ナイ]]/[[さぶ郎。>安保　さぶ郎]]/[[松村芽久未>元難波　芽久未]]|
+#areaedit(end)
+#endregion
+***#76~#100
+#region(開く,open)
+#areaedit
+#table_style(head=center:#FFDE69){配信日=right,#=center}
+|~配信日|~#|配信タイトル|参加者|h
+|MIDDLE:25/10/17|MIDDLE:76|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[山登り！！！！！ｗ・さぶちゃん・ＫＹＳさん・たけぉさん>>https://www.twitch.tv/videos/2559566364]]|MIDDLE:[[KYS>Dr．ギガ]]/[[さぶ郎。>安保　さぶ郎]]/[[たけぉ>バーバリアン　田中]]|
+|MIDDLE:25/10/20|MIDDLE:77|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【エモクロアTRPG】「マジックブルーの境界線」【PL：天唄サウ・梟雄しろや DLあもこ】>>https://www.twitch.tv/videos/2596661698]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【エモクロアTRPG】「マジックブルーの境界線」【PL：天唄サウ・梟雄しろや】>>https://youtu.be/uRlqiHats7E?si=POhsOIh2ttWDGLsB]]|MIDDLE:[[天唄サウ>>星唄　サウ汰]]/[[梟雄しろや>>三否亭　四五六確]]|
+|MIDDLE:25/10/28|MIDDLE:78|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【べりはぴ】ロスプリと戦う！！！！！！！>>https://www.twitch.tv/videos/2603418863]]|MIDDLE:[[天城てん>葉風邪　ナイ]]/[[さぶ郎。>安保　さぶ郎]]/[[松村芽久未>元難波　芽久未]]/[[宙星ぱる>丘猫　まる]]&br()[[ぱちしゅう>日之　ぱちお]]/[[	アベレージ>安倍　霊明]]/[[ライト>天羽　りひと]]/[[ノビー>ノビー　ラング]]/[[とうかいねこ>ペトロ　アルドベッグ]]|
+|MIDDLE:25/10/29|MIDDLE:79|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[愛想笑いコラボｗ・ヘル先輩、バル子ちゃん、ゼルクくん>>https://www.twitch.tv/videos/2604280332]]|MIDDLE:[[バル子>山田　パルコ]]/[[紫闇ヘル>ヘルアン]]/[[ゼルク>卯月　るくあ]]|
+|MIDDLE:25/11/05|MIDDLE:80|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[エモクロアTRPG「マジックブルーの境界線」PL：バル子、真澄せんの、饅頭忍者 #ばるせんまんじゅう境界線>>https://www.twitch.tv/videos/2610291735]]|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]|
+|MIDDLE:25/11/09|MIDDLE:81|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[いつメン山登り！久しぶり！ｗ・レオさん、さぶちゃん、上田さん>>https://www.twitch.tv/videos/2613847607]]|MIDDLE:[[さぶ郎。>>安保　さぶ郎]]/[[月夜見レオ>>ツクヨミ　レオ]]/[[しんのすけ>>上田　さん]]|
+|MIDDLE:25/11/11|MIDDLE:82|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[ひらいさんマックスむらいさんと手を取りあう！！！！！>>https://www.twitch.tv/videos/2615503738]]|MIDDLE:[[アメザリひらい>>平井　善之]]/[[マックスむらい>>マクソン　最大]]|
+|MIDDLE:25/11/23|MIDDLE:83|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[ごちそうふるまう！ゲストばるせんあもまんじゅう>>https://www.twitch.tv/videos/2625857457]],[[2>>https://www.twitch.tv/videos/2625858229]],[[3>>https://www.twitch.tv/videos/2625874628]],[[4>>https://www.twitch.tv/videos/2625891689]]（＊実写）|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]|
+|MIDDLE:25/12/07|MIDDLE:84|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[スパイ大作戦！！！ｗ・ＫＹＳさん>>https://www.twitch.tv/videos/2637709554]]|MIDDLE:[[KYS>Dr．ギガ]]|
+|MIDDLE:25/12/12|MIDDLE:85|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[ミメシスｗ・さぶちゃんレオさん上田さん>>https://www.twitch.tv/videos/2641884670]]|MIDDLE:[[さぶ郎。>>安保　さぶ郎]]/[[月夜見レオ>>ツクヨミ　レオ]]/[[しんのすけ>>上田　さん]]|
+|MIDDLE:25/12/20|MIDDLE:86|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【ハードコア】れぽ w・めぐみ、さぶ郎>>https://www.twitch.tv/videos/2648609123]]|MIDDLE:[[さぶ郎。>安保　さぶ郎]]/[[松村芽久未>元難波　芽久未]]|
+|MIDDLE:25/12/20|MIDDLE:87|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[蔑まない仲良しれぽ w・めぐみ、さぶ郎>>https://www.twitch.tv/videos/2648640433]]|MIDDLE:[[さぶ郎。>安保　さぶ郎]]/[[松村芽久未>元難波　芽久未]]|
+|MIDDLE:25/12/22|MIDDLE:88|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ＡＩに騙されるな！】ストグラコラボ！ミメシス！【ｗ・バル子、真澄せんの、饅頭忍者】>>https://www.youtube.com/live/xFiL7O3ZRt0?si=WIdaI0F5cKSskadf]]|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]|
+|MIDDLE:25/12/23|MIDDLE:89|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ホラー特訓】ふたりれぽ【ｗ・さぶ郎】>>https://www.youtube.com/live/SmkJsLmQMgo?si=6-vb61eDXBxZ2LBO]]|MIDDLE:[[さぶ郎。>>安保　さぶ郎]]|
+|MIDDLE:25/12/29|MIDDLE:90|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】サニーケバブれぽ【ｗ・いづみん店長、ゼルクくん、おんじさん】>>https://www.youtube.com/live/CgHQ1dXzsAw?si=xHUw2-y6bpHHqYO8]]|MIDDLE:[[ゼルク>卯月　るくあ]]/[[柚原いづみ>柚乃　いずみ]]/[[あんない>ブラック　ジャックス]]|
+|MIDDLE:26/01/05|MIDDLE:91|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】本当はマリパやりたかったのに・・・サニーケバブれぽ【ｗ・いづみん店長、おんじさん、わきをさん、ふぁんきぃさん、まどれちゃん】>>https://www.youtube.com/live/xN_Hfo_pGMk?si=4qxQ0zGynO8ttQ_T]]|MIDDLE:[[柚原いづみ>柚乃　いずみ]]/[[空衣御侍>陽影　空]]/[[わきお>脇　逢魔]]/[[ふぁんきぃ>タラ　ちゃん]]/[[まどれ>惑朽　ルーシー]]|
+|MIDDLE:26/01/07|MIDDLE:92|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】ホラゲーやります‼【見守り：さぶちゃん】>>https://www.youtube.com/live/fdu-GJroUkU?si=Ruee9kq_iZ-kV9mF]]|MIDDLE:[[さぶ郎。>>安保　さぶ郎]]|
+|MIDDLE:26/01/27|MIDDLE:93|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【dbd】ぜったいに一緒に帰ろうね！ｗ・ゼルクくん>>https://www.twitch.tv/videos/2682288917]]|MIDDLE:[[ゼルク>卯月　るくあ]]|
+|MIDDLE:26/02/03|MIDDLE:94|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】ミメシス【ｗ・柚原いづみ、空衣御侍、柘榴シロ】>>https://www.youtube.com/live/VVKSDljzuTk?si=fqq8-cUv6hlIE5zi]]|MIDDLE:[[柚原いづみ>柚乃　いずみ]]/[[空衣御侍>陽影　空]]/[[柘榴シロ>黒丈　シロウ]]|
+|MIDDLE:26/02/17|MIDDLE:95|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】DBD 2VS8する！【ｗ・フルコン、kame、ふぁんきぃ、ぺこP、ひらがななちこ、ダイアウルフ、みーこ💫】>>https://www.youtube.com/live/q-KpVlpxR44?si=0ZWHMFRJGYJRGRX4]]|MIDDLE:[[フルコン>鮫島　フラム]]/[[kame>焼野原　ひろし]]/[[ふぁんきぃ>タラ　ちゃん]]/[[ぺこP>渡戸　リー]]/[[ひらがななちこ>フグ田　ナチ]]/[[ダイアウルフ>アイーダ　大賀美]]/[[みーこ>星ノ　みこ]]|
+|MIDDLE:26/02/24|MIDDLE:96|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[あもこずきっちんVSだよきっちん MCまちょさん、審査員 大川さん、PIRAさん>>https://www.twitch.tv/videos/2706253672]]|[[だよ>堕夜　だよ]]/[[あしさんり>街雄　サンリ]]/[[Bact>大　川]]/[[PIRA>Lv〇　チンピラ]]|
+|MIDDLE:26/03/02|MIDDLE:97|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ホラゲー】REANIMAL【ｗ・さぶちゃん】>>https://www.youtube.com/live/7_8VOA9-fyA?si=IaJKx82O89IiCjp3]]|MIDDLE:[[さぶ郎。>>安保　さぶ郎]]|
+|MIDDLE:26/03/03|MIDDLE:98|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】デッドバイデイライト【ｗ・ゼルク、バル子、真澄せんの、饅頭忍者】>>https://www.youtube.com/live/2K_cd0837OA?si=1tvHi6Y8Rr1Nzwc7]]|MIDDLE:[[バル子>>山田　パルコ]]/[[真澄せんの>>青梅　つばめ]]/[[饅頭忍者>>万十　忍]]/[[ゼルク>卯月　るくあ]]|
+|MIDDLE:26/03/09|MIDDLE:99|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラコラボ】サニーケバブでPICOPARK2！【ｗ・柚原いづみ、まどれ、ギルテックス、はるてぃー、アトラ、あもこ】>>https://www.youtube.com/live/xgJOsTmTpHM?si=LSRSjfONk_pOlOCw]]|MIDDLE:[[柚原いづみ>柚乃　いずみ]]/[[まどれ>惑朽　ルーシー]]/[[ギルテックス>テクス・ギルベルト]]/[[はるてぃー>茜根　晴]]/[[アトラ>アルタ・スカイブルー]]|
+|MIDDLE:26/03/10|MIDDLE:100|MIDDLE:&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【みつめ】見えてる世界が違う？2人で協力して異変を探せ！【ホラゲー】>>https://www.youtube.com/live/4rn5sdhkEe4?si=ZO2CrNaEtqq240Ls]]|MIDDLE:[[ゼルク>卯月　るくあ]]|
+#areaedit(end)
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,103 @@
+&image(シール.png,y=300)
+
+#table_style(head=#C0C0C0){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(たからさが){宝探}し&ruby(じっこういいんかい){実行委員会}|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年mm月dd日&br()&small(){（&countup(2026/mm/dd,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|施設名|
+|~委員長|~&space()&icon_fa(fa fa-user-secret)&space()|[[名前]]|
+//|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|××××番地|
+//|~公式 TwiX|~&icon_fa(fa fa-bullhorn)|@××××|
+//|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&font(b,#xxxxxx){色}|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**基本情報
+-ロスサントスに散らばっている宝（ステッカー/シール）を集める。
+-心の目で取得したステッカーはシール帳にコレクションすることが出来る。また、各プレイヤーの入手数のランキングを確認できる。
+-シール帳には該当ステッカーの場所のヒントが記載されているがあくまでヒントどまりでありその内容を読み解くのが難しいものも多数ある。
+
+**活動方針
+-市と連携し歪みの確認や賞品について相談する。
+
+**メンバー
+#table_style(head=#696969:#F9FCFF){名前=bold}
+#table_filter(){加入日=hide,役職=show,備考=show}
+|~名前|~加入日|~役職|~備考|h
+|[[ダミ　アン]]|2026/mm/dd|委員長||
+|[[町田　ジョアンナ]]|2026/mm/dd|委員長||
+|[[葛城　司]]|2026/mm/dd|役職||
+|[[天羽　よつは]]|2026/mm/dd|経理担当||
+|[[星ノ　みこ]]|2026/mm/dd|||
+|[[鳥野　ぎん]]|2026/mm/dd|||
+|[[音姫　みつお]]|2026/7/1|||
+//|[[名前]]|2026/mm/dd|役職|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//***協力関係
+//
+#co{
+//***過去メンバー
+#table_style(head=#696969:#F9FCFF)
+|~名前|~加入日|~脱退日|~備考|h
+|名前|加入日|yyyy/mm/dd|備考|
+|名前|加入日|yyyy/mm/dd|備考|
+//|名前|加入日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+**沿革・歴史
+***2026年
+#table_style(head=#696969:#F9FCFF){日付=center}
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+|03/28|第1回会議|||
+|07/01|会議|||
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#co{
+//**イベント
+//***2026年
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){日付=show,出来事=show,内容=show,備考=hide}
+|~日付|~出来事|~内容|~備考|h
+|mm/dd|出来事|内容|備考|
+//|mm/dd|出来事|内容|備考|
+//|mm/dd|出来事|内容|備考|
+//|mm/dd|場所|内容||備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+**関連動画
+#region(開く)&font(80%){}&color(#A1A3A6){※宝探し関連で面白い切り抜き動画がありましたら追加編集をお待ちしています。}
+***2026年
+****委員会関連
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=show,視点=hide,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|7/2|[[町田　ジョアンナ]]|&font(80%){[[【#ストグラ切り抜き】宝探し委員会が音姫みつおにガチドッキリ！ビビリ散らかす音姫に大爆笑【ジョアンナ町田/音姫みつお/ダミアン/葛城司/天羽よつは/星ノみこ/鳥野ぎん】>>https://youtu.be/Q3E-qMS7y8o]]}|7/1の出来事|
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+****宝探し関連
+#table_style(head=#696969:#F9FCFF){投稿日付=center}
+#table_filter(){投稿日付=show,視点=hide,タイトル=show,備考=hide}
+|~投稿日付|~視点|~タイトル|~備考|h
+|06/13|[[音姫　みつお]]|[[※完全保存版※ シール帳事件と経緯について【新規住民の末路】>>https://youtu.be/VZ0t1RqdGMo?si=P28qb8O8i7EpfouB]]||
+|07/02|[[閃光寺　亜夢]]|[[街で俺しか遊んでないコンテンツが楽しすぎてドパガキになる閃光寺【 閃光寺亜夢 】>>https://youtu.be/d46isoGCAO8?si=rcfhLIAoFSGv4Rdn]]||
+|07/11|[[閃光寺　亜夢]]|[[熾烈なシールTOP争い！配置場所が〇〇すぎて共鳴する閃光寺とアドミゲス【 閃光寺亜夢 / アドミゲス ハン 】>>https://youtu.be/v25MxmV0F4o?si=ZuRMWqNNE2VcEvR4]]||
+|08/14|[[閃光寺　亜夢]]|[[シールを求めて遂に海へ！そしてずっと見つからなかった〇〇〇を遂に発見しドーパミン放出が止まらない！！！【 閃光寺亜夢 】>>https://youtu.be/Pf8B8tFRrdk?si=Xtu2vG5w4t7tqVVG]]||
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+//|mm/dd|視点|[[タイトル>>ＵＲＬ]]|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

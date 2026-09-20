@@ -1,0 +1,374 @@
+*&font(25,#FCF){&icon_fa(fa fa-user-circle)} &font(#F9C){プロフィール}
+#co{▼▼▼
+【編集者同士の連絡事項や相談、確認などはお気軽にこちらのco内でどうぞ】
+
+
+
+　　 ▲▲▲}
+#slide_img(width=350,height=465){萌愛くしゅり_初期.jpeg,萌愛くしゅり_メイド服.png,萌愛くしゅり_メイド服ver2.jpg,アイドル衣装1.png}
+
+
+//ここからプロフィール
+//PLの所属変更を反映 2/24
+#table_style(head=#F9C:#FFF){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(もあ){萌愛}　くしゅり|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本(東京)|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|　&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年12月26日 (&countup(2025/12/26,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|メイドカフェ【[[LastJump in ParadiseLost]]】&small(){(2026年01月04日~）}|
+|~所属|~&icon_fa(fa fa-users)|ギャンブル部 &small(){(2026年01月04日~）}&br()アイドル【[[めれにくす]]】 &small(){(2026年03月26日~）}&br()ギャング【[[NOVA FAMILIA]]】&small(){構成員}&small(){(2026/09/17 加入)}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@kushuri0518|
+|BGCOLOR(#eee):COLOR(#666):~プレイヤー|BGCOLOR(#eee):COLOR(#666):~&icon_fa(fa fa-address-card-o fa-fw)|鏡愛しゅくり(RIONECTION)|
+|BGCOLOR(#eee):COLOR(#666):~告知等|BGCOLOR(#eee):COLOR(#666):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/kagamiasannn?s=21&t=b89A-5gzkZraBLjrHHv6CQ]]|
+|BGCOLOR(#eee):COLOR(#666):~ストグラタグ|BGCOLOR(#eee):COLOR(#666):~&icon_fa(fa fa-hashtag)|[[&font(#000){&icon_fa(fa-brands fa-square-x-twitter)} #萌愛くしゅり>>https://x.com/hashtag/萌愛くしゅり?src=hashtag_click&f=live]]|
+|BGCOLOR(#eee):COLOR(#666):~配信場所|BGCOLOR(#eee):COLOR(#666):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@kagamiashukuri?si=UeIO0LaNOBxrVpha]]|
+//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ガイドライン>>ここにガイドラインのURLを入力]]|
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+//
+//-----------------------------------------------
+//
+//※人間関係やエピソード等の記載は、くしゅり視点で得られる情報のみでよろしくお願いします
+//
+//┌－－－－－－－－－－－－－－－－－－－－－－－－－－－－┐
+//｜　　　　　基　本　情　報　　　　　　　　　　　　　　　　｜
+//└－－－－－－－－－－－－－－－－－－－－－－－－－－－－┘
+//
+*&font(25,#FCF){&icon_fa(fa fa-paperclip)} &font(#F9C){基本情報}
+***&size(120%){&bgcolor(#ffc6ff){♡ 人物像　　　　　　　　}}
+-日本から引っ越してきた新規住民。ニートを脱却し、お友達をたくさん作るためにロスサントスにやってきた。
+--……のだが、友達の作り方や「どこからが『友達』と言っていいか」が分からず苦戦中である。
+#size(1){&br()}
+-コミュ障、陰キャを自称しており、様々な場面でその片鱗が発揮される。特に、人を何かに誘ったり頼ったりするのが苦手でよくバイト待ちの時に隅っこに独りでいたり、人から何かをされたり聞いたりしたら高額の報酬を渡したりする。
+#size(1){&br()}
+-好奇心や行動力は旺盛で、自分の興味あることややりたいこと、仲の良い人の誘いなどには積極的に動く。&br()ただしその代償として向こう見ずな行動をしがちで、よくダウンしては救急隊の方々から「また君か」「厄介患者」と言われている。
+#size(1){&br()}
+-長らくニートをしていたため何かと知識や学力、空気読みに疎い面があり、たびたび色んな人に心配されたりネタにされたりしている。
+#size(1){&br()}
+-基本的にはその見た目や雰囲気の通りほわほわとした可愛い系なのだが、たまにとんでもないギャップのある言動をすることも。その度に「意外」や「面白い」「やばい」等のニュアンスの反応をもらっている。
+--一例として、好きな食べ物がチャンジャであることを伝えるとだいたいの人にウケる。
+#size(1){&br()}
+-チンチロやカジノ等のギャンブルにのめり込んで高額のやり取りをしたり、悪事にも否定的じゃない(むしろ興味がある？)等、案外ダーティな素質も……？
+#size(1){&br()}
+-コミュニケーションの一環として、人に食べ物やお金を&s(){押し付ける}あげることがよくある。好意的な場面や何かのお礼でプレゼントとして渡されるだけに留まらず、いわゆる友達料や賄賂や貢ぎのように渡されることもあるため対応に困る人や「すぐ物を渡すな」と諭す人まで反応は様々である。&br()（なお本人は物をあげることに喜びを感じていたり、相手の反応を楽しんでいる節がある）
+#size(1){&br()}
+-備えがないと心配になるようで、食べ物やガソリンや医療道具などをとにかく大量に持ちたがる。常に重量の5、6割が埋まっており、その大半が何十個単位の食べ物。食べ物を「この重さで持てるだけ」のように購入していくので、飲食店の従業員から驚かれることも。
+
+***&size(120%){&bgcolor(#ffc6ff){♡ らすぱらのメイドとして　　　　　　　　}}
+-メイドカフェ「[[LastJump in ParadiseLost]]」(通称らすぱら)の従業員。その従事っぷりはなかなかで、ワンオペでも店を開けに来るぐらい店を愛している。
+#size(1){&br()}
+-店長の[[豆乳　ちゃんもも]]からは「天職」「うちのエース」と言われるほどの実力(?)の持ち主。
+#size(1){&br()}
+-特別なおまじない付きのスペシャルメニュー「萌え萌えおむらいちゅ」では、ご主人様の好みのタイプやシチュを聞いてそれに沿った女の子として時に可愛く、時に奇抜に萌え萌えきゅんしてくれる。&br()初見ご主人様の満足度も高く、リピーターもいるほど。
+#size(1){&br()}
+-多くの従業員がメイド服や執事服は出勤の時だけ着るというスタイルの中、日常生活でも基本的に常時メイド服で過ごしている歩く広告塔。&br()窓拭きや街中で会った人にも積極的にお店に来てくださいと宣伝しており、仕事熱心。
+#size(1){&br()}
+-ワンオペで店を開けた時にお客さんが来ないとチルタイムになってしまうので、もっと他従業員も来て欲しいとひっそり願っている……。
+#size(1){&br()}
+-チルタイムにはトレンディ動画やTwixで街のことを見たり、屋根の上で座って佇んだり店の横の湖で泳いだり、心なきに&s(){ダル絡み}お友達になろうと交流して過ごすことが多い。&color(#c0c0c0){なお、これのせいで心なきの反撃に遭いダウンまでさせられたことも……}
+
+***&size(120%){&bgcolor(#ffc6ff){♡ アイドルとして　　　　　　　　}}
+-「この街一番の可愛いアイドルユニットを作りたい」として行動を開始。&br()アイドルユニット「[[めれにくす]]」を結成。
+#size(1){&br()}
+-多くの人の協力を得て、メンバー集めから楽曲、振り付け、衣装依頼まで精力的に動いている。
+#size(1){&br()}
+-トレンディ動画撮影に苦戦したり活動資金に頭を悩ませながらも、たくさんの人に支えられながらキラキラのステージ目指して可愛く楽しく邁進中！
+
+***&size(120%){&bgcolor(#ffc6ff){♡ 黒落ちを決意　　　　　　　　}}
+-2026/02/05・6・12の3日間にわたって[[救急隊>ロスサントス救急救命隊]]の体験を行った。&br()理由としては「白市民として頑張りたい」がゆえでの救急隊志願だった。&br()しかし、体験に参加した4名のうち彼女だけが不採用の結果に陥った。
+#size(1){&br()}
+-3ヵ月後、2回目の救急隊体験を行いたいために書類を送ったのだが&br()市の方からは連絡が来なかった。
+#size(1){&br()}
+-数日後、[[山下　ひろし]]市長に呼び出されて「もう一度挑戦できますか？」と市長に質問したが&br()市長からは「1回体験までして落ちて受かった人はいない」と却下の言葉を受けた。
+#size(1){&br()}
+-その後、[[BJローン]]に騙されて約1千万の借金を抱えたり&br()らすぱら店長だった豆乳ちゃんももが日本の平和を守るため帰国し&br()彼女かららすぱら店長代理の座を託されたりと苦悩の日々が続いた。
+#size(1){&br()}
+-そうした中、2026/09/05に[[The Artemis]]のホストクラブがオープンし&br()ホストの一員である[[脇　逢魔]]からの電話を受けてArtemisに来店し、彼とひと時の夜を過ごしたが&br()そこで脇がギャングチームである[[NOVA FAMILIA]]のボスの1人である事を明かして&br()彼女をNOVAへの勧誘を行い、自らも市への不満晴らしとドキドキを求めてNOVAの体験を決意した。
+#size(1){&br()}
+-翌日、NOVA FAMILIAの体験を開始し、宝石強盗で黒市民デビューを果たすと&br()犯罪のノウハウ等を先輩から教わった。&br()09/17、抗争前に千咲にとと共にNOVAに正式加入となった。
+
+//
+//-----------------------------------------------
+//
+//┌－－－－－－－－－－－－－－－－－－－－－－－－－－－－┐
+//｜　　　　　交　友　関　係　　　　　　　　　　　　　　　　｜
+//└－－－－－－－－－－－－－－－－－－－－－－－－－－－－┘
+//
+*&font(25,#FCF){&icon_fa(fa fa-users)} &font(#F9C){交友関係}
+//くしゅりは黒関係の事情には疎いので、市民の白黒の区別や記述はよっぽど明確な人でも最低限レベルでお願いします。
+//
+//●列追加用　|[[名前]]|&size(90%){内容}|
+//
+***&size(120%){&bgcolor(#ffc6ff){♢ 市民　　　　　　　　}}
+#region(開く)
+#table_style(head=#ffc6ff:#555){名前=left}
+|~名前|~詳細|h
+|[[帝　レン]]|&size(90%){越してきた初日に、この街で初めて声をかけてくれた恩人。&br()右も左も分からないくしゅりに色んなことを教えてくれ、連れ回す形でこの街の雰囲気を教えてくれた。&br()チンチロを教え、ギャンブル部に誘い、くしゅりにギャンブルの悦びを教えてしまった張本人()でもある。&br()困った時に何かを教えてくれたり、街で会ったら気さくに声をかけてくれたりと、くしゅりにとってこの街ベテラン最上位の印象。}|
+|[[ザ！！！コーラボーイ！！！]]|&size(90%){何かと縁があるのか、会うたびに笑いを巻き起こすトナカイ。&br()陰キャなくしゅりが、なぜかコーラボーイにはガツガツ絡んでいける。くしゅりのとんでも言動にキレのあるツッコミを入れてくれる逸材。&br()コミュ力と歌唱力はすさまじいのでそこは素直に尊敬している。売ってるコーラはおしゃれ。}|
+|[[ジョーカー]]|&size(90%){ギャンブルがめちゃくちゃ強かったり、知識もツテも資金も豊富だったり、商才も豊かで、なんかもう色々凄くてとても頼れる存在。&br()アイドル計画のアドバイザーとしても力を貸してくれているありがたいお方。&br()&br()……と、普段はカリスマ性抜群なのだが、らすぱらに訪れた際には「ジョーくん」として何かを解放して欲望のままに振る舞うギャップも見せてくれる。}|
+|[[亀山　Hero]]|&size(90%){いつもらすぱらにたくさん来店してくれる、名誉ご主人様。&br()初対面の時に車両のトラブルで困っているくしゅりを助けてくれた上に修理費をおごってくれた。&br()その後も街で会うとなにかと良くしてくれたり気にかけてくれている優しい人。}|
+|[[高橋　滅論]]|&size(90%){怪しい商売？を持ち掛けて来たり、何かと気にかけてくれたり、不思議な人。&br()多分、メイドであるくしゅりのシチュボ能力を高く買ってくれている。&br()ちゃんもも店長となにやら相性が悪いらしく、高橋さんとつるむことでちゃんもも店長に迷惑をかけないか少し気にしている。}|
+|[[香月　ろぎあ]]|&size(90%){イタリアンレストランで優しく接客してくれたり、街で会った時も気さくに話しかけてくれるとても良い人。コミュ力が凄い。&br()らすぱらにも定期的に訪れてくしゅりのおまじないを堪能してくれる。街歴も長いのでいろんなことに詳しい。&br()めちゃくちゃ強いカジノディーラーらしく、ギャングボスからも巻き上げて泣かせていたとか……。}|
+|[[カミジョウ　レン]]|&size(90%){らすぱらのファンにしてちゃんもも店長推し。お店が開いてると積極的に来店してくれる。&br()ギャンブルに詳しく、くしゅりにはわからないことでよくテンションを上げている。チェリーは熱いらしい。}|
+|[[アルタ・スカイブルー]]|&size(90%){元らすぱらの執事。就職が近かったこともあり就業中もほぼ同僚のように良い関係を築けていた。&br()退職後も何かと気にかけてくれている。&br()金策に悩むくしゅりに[[わくワーク]]を紹介してくれたり釣りのノウハウを教えてくれたりと、やはり優しくて頼れる存在。}|
+
+#endregion
+***&size(120%){&bgcolor(#ffc6ff){♢ らすぱら　　　　　　　　}}
+#region(開く)
+#table_style(head=#ffc6ff:#555){名前=left}
+|~名前|~詳細|h
+|[[豆乳　ちゃんもも]]|&size(90%){らすぱらの店長にしてメイド長。&br()仕事のみならず街での活動においてもくしゅりのことを気にかけていつも優しくしてくれている。&br()この街で一番と言っていいほど懐いて信頼している相手。&br()ちゃんもももまたくしゅりのことを頼りにしてくれていて、よく仕事を任せてくれる。&br()体の動かし方や前の街でのこと、くしゅりの知らない他人の情報、黒の話も少し……等、いつもいろいろ教えてくれる}|
+|[[トウ　ユン]]|&size(90%){らすぱらの執事にして、街でくしゅりにらすぱら体験を勧めてくれた恩人。&br()くしゅりが客として初めてらすぱらを訪れた際に接客してくれた人でもある。優しくて良い人。&br()王道のイケメン執事から、謎の戦隊ヒーローオムレッドになったり、急にメロドラマが始まったり、お給仕のバリエーションが豊かで「たまに壊れる」&br()なので、トウユン先輩がいる時に新規のお客様が来たらトウユン先輩のおまじないが聴けるように誘導？することも。}|
+|[[寝千代　りお]]|&size(90%){らすぱらの執事。みんなに倣ってねちょりん先輩と呼んでいる。&br()その独特のクセの強さから不思議な魅力を感じる人。&br()ちゃんもも店長とはお店でもそれ以外でも長い付き合いみたい。}|
+|[[ライジングサン　宗介]]|&size(90%){らすぱらの執事。多才で物知り、センスもあって色んなことや変なとこで頼りになる存在。&br()男心を掴む商才に溢れ、キャバクライベントやめれにくすライブでもお世話になった。&br()イベント参加率も高く気さくでいつも良くしてくれている。}|
+
+#endregion
+//
+//-----------------------------------------------
+//
+//┌－－－－－－－－－－－－－－－－－－－－－－－－－－－－┐
+//｜　　　　　エ　ピ　ソ　ー　ド　　　　　　　　　　　　　　｜
+//└－－－－－－－－－－－－－－－－－－－－－－－－－－－－┘
+//
+*&font(25,#FCF){&icon_fa(fa fa-book-bookmark)} &font(#F9C){エピソード}
+***2025年
+#region(12月)&bold(){12月}
+****12/26 [[Day1：はじめまして。『萌愛くしゅり』です』！！！！>>https://www.youtube.com/watch?v=qam__iADSsI]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion
+
+****12/28 [[『#萌愛くしゅり』はバイトがしたい！！！！>>https://www.youtube.com/watch?v=6bgkm50tflw]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion
+
+****12/29 [[『#萌愛くしゅり』は友達が欲しい！！！！>>https://www.youtube.com/watch?v=VR_VQov8JEA]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion
+
+****12/31 [[『#萌愛くしゅり』はコミュ障を治したい！！！！>>https://www.youtube.com/watch?v=fa9uZX2dnVQ]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion
+#endregion(12月)
+
+***2026年
+#region(1月)&bold(){1月}
+****1/1 [[『#萌愛くしゅり』はお金を貯めたい！！！！>>https://www.youtube.com/watch?v=N2RtvGjlxC8]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion
+
+****1/2 [[『#萌愛くしゅり』は運転がしたい！！！！>>https://www.youtube.com/watch?v=00Afw_nz2DA]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion
+
+****1/3 [[『#萌愛くしゅり』コミュ障を辞めたい！！！！>>https://www.youtube.com/watch?v=awZSTvU6aqc]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion
+
+****1/4 [[『#萌愛くしゅり』は働きたい！！！！>>https://www.youtube.com/watch?v=tVP3ehL_y9E]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion
+#endregion(1月)
+//
+#co{↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)閉じる
+-エピソード募集中
+#endregion
+
+#endregion(mm月)
+}
+
+//
+//-----------------------------------------------
+//
+//┌－－－－－－－－－－－－－－－－－－－－－－－－－－－－┐
+//｜　　　　　ア　ー　カ　イ　ブ　　　　　　　　　　　　　　｜
+//└－－－－－－－－－－－－－－－－－－－－－－－－－－－－┘
+//
+*&font(25,#FCF){&icon_fa(fa fa-video)} &font(#F9C){アーカイブ}
+#co{{
+
+●月追加用
+#region(〇月,open)〇月
+#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+#endregion(〇月)
+#size(10){&br()}
+・月を追加する際は前月のregion記述内の「,open」を削除お願いします
+
+●列追加用
+|mm/dd|n|[[タイトル>>URL]]||
+
+}}
+***2025年
+#region(12月)12月
+#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|12/26|1|[[はじめまして。『萌愛くしゅり』です』！！！！>>https://www.youtube.com/watch?v=qam__iADSsI]]||
+|12/28|2|[[『#萌愛くしゅり』はバイトがしたい！！！！>>https://www.youtube.com/watch?v=6bgkm50tflw]]||
+|12/29|3|[[『#萌愛くしゅり』は友達が欲しい！！！！>>https://www.youtube.com/watch?v=VR_VQov8JEA]]||
+|12/31|4|[[『#萌愛くしゅり』はコミュ障を治したい！！！！>>https://www.youtube.com/watch?v=fa9uZX2dnVQ]]||
+#endregion(2025)
+
+***2026年（103日目以降のアーカイブはメンバー限定となっている）
+#region(1月)1月
+#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|1/1|5|[[『#萌愛くしゅり』はお金を貯めたい！！！！>>https://www.youtube.com/watch?v=N2RtvGjlxC8]]|&small(){タイトルに従い別日にしています}|
+|1/2|6|[[『#萌愛くしゅり』は運転がしたい！！！！>>https://www.youtube.com/watch?v=00Afw_nz2DA]]||
+|1/3|7|[[『#萌愛くしゅり』コミュ障を辞めたい！！！！>>https://www.youtube.com/watch?v=awZSTvU6aqc]]||
+|1/4|8|[[『#萌愛くしゅり』は働きたい！！！！>>https://www.youtube.com/watch?v=tVP3ehL_y9E]]||
+|1/9|9|[[『#萌愛くしゅり』新人メイド頑張ります♡>>https://www.youtube.com/watch?v=cWBmHfrkp9g]]||
+|1/10|10|[[『#萌愛くしゅり』車さん！！無事に動きますように🙏>>https://www.youtube.com/watch?v=1pwxszZN0YY]]||
+|1/11|11|[[『#萌愛くしゅり』もっと街に慣れていきたい！！！！>>https://www.youtube.com/watch?v=2BxWKTQSs_Q]]||
+|1/14|12|[[『#萌愛くしゅり』かわいい車で爆走する！！！！>>https://www.youtube.com/watch?v=I1t6_r0xGys]]||
+|1/16|13|[[『#萌愛くしゅり』🔰←神のご加護最終日！！！！！！>>https://www.youtube.com/watch?v=D8WsjHrpF5s]]||
+|1/17|14|[[『#萌愛くしゅり』見える世界は変わるのかな...？？？🔰←神のご加護とのお別れ>>https://www.youtube.com/watch?v=Q7sxiPrY9KQ]]||
+|1/18|15|[[『#萌愛くしゅり』ちょっと刺激を求めちゃうお年頃>>https://www.youtube.com/watch?v=LxKXmDQ3cks]]||
+|1/21|16|[[『#萌愛くしゅり』刺激が欲しい！！！！>>https://www.youtube.com/watch?v=VqxeTYyst4w]]||
+|1/22|17|[[『#萌愛くしゅり』仲良しさんを増やしたい！！！！>>https://www.youtube.com/watch?v=6xa1J8gk64s]]||
+|1/25|18|[[『#萌愛くしゅり』友達ってどこから...???>>https://www.youtube.com/watch?v=7LN5vkrTkfw]]||
+|1/30|19|[[『#萌愛くしゅり』真面目に働きたい！！！！>>https://www.youtube.com/watch?v=8_PhYYbVRNc]]||
+|1/30|20|[[『#萌愛くしゅり』コミュ障を脱却したい......！！！！>>https://www.youtube.com/watch?v=30V8bNQaTic]]||
+|1/31|21|[[『#萌愛くしゅり』お金1000万円を目指したい！！！！>>https://www.youtube.com/watch?v=7brAz6r9ZbA]]||
+#endregion(2026)
+#size(10){&br()}
+#region(2月)2月
+#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2/1|22|[[『#萌愛くしゅり』お友達を増やしたい！！！！>>https://www.youtube.com/watch?v=C4GAZPwIkko]]||
+|2/4|23|[[『#萌愛くしゅり』密かな野望があって.....>>https://www.youtube.com/watch?v=UWgZe6a8DGQ]]||
+|2/5|24|[[『#萌愛くしゅり』どきどき『救急隊』の体験に！！！！>>https://www.youtube.com/watch?v=W0BR0t7fqvU]]||
+|2/6|25|[[『#萌愛くしゅり』『🚑️救急隊』の体験2日目です！！！！！！>>https://www.youtube.com/watch?v=81MOUemPHCg]]||
+|2/8|26|[[『#萌愛くしゅり』お金貯めたい！！！>>https://www.youtube.com/watch?v=tdx1-wYXO3o]]||
+|2/11|27|[[『#萌愛くしゅり』アイドルグループ立ち上げ資金集め！！！>>https://www.youtube.com/watch?v=sD12T7_27Do]]||
+|2/12|28|[[『#萌愛くしゅり』🚑️救急隊体験：最終日！！！！>>https://www.youtube.com/watch?v=sKKEaXQp0J0]]||
+|2/15|29|[[『#萌愛くしゅり』いっぱい働きたい！！！！！>>https://www.youtube.com/watch?v=WW8pYdBFulk]]||
+|2/18|30|[[『#萌愛くしゅり』救急隊の合否っていつだろう...（どきどき💦）>>https://www.youtube.com/watch?v=ypJaiGbHnuA]]||
+|2/19|31|[[『#萌愛くしゅり』まったり働く！！！！！！>>https://www.youtube.com/watch?v=zm1U_5bGa0U]]||
+|2/22|32|[[『#萌愛くしゅり』お友達増やしたい！！！！>>https://www.youtube.com/watch?v=PJRQEZxJohk]]||
+|2/25|33|[[『#萌愛くしゅり』アイドル衣装ゲットしたい>>https://www.youtube.com/watch?v=9wFr3sjNgAQ]]||
+|2/27|34|[[『#萌愛くしゅり』アイドルグループ頑張るぞ！！！！！！>>https://www.youtube.com/watch?v=qP8EaVvSI_0]]||
+#endregion(2月)
+#size(10){&br()}
+#region(3月)3月
+#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|3/1|35|[[『#萌愛くしゅり』前向きに生きたい.....!!!!!>>https://www.youtube.com/watch?v=bPe1XOQ0N1U]]||
+|3/5|36|[[『#萌愛くしゅり』メイドとアイドル頑張る！！！！>>https://www.youtube.com/watch?v=mFyGKgP8XHI]]||
+|3/7|37|[[『#萌愛くしゅり』刺激が欲しいお年頃！！！！>>https://www.youtube.com/watch?v=yVHDnLhMt0E]]||
+|3/11|38|[[『#萌愛くしゅり』交友関係を増やしたい！！！>>https://www.youtube.com/watch?v=VBXdZIhMxm4]]||
+|3/15|39|[[『#萌愛くしゅり』お金を貯めないと！！！！！！！>>https://www.youtube.com/live/bmSlv20VjdA]]||
+|3/18|40|[[『#萌愛くしゅり』新しいこととかしてみたい！！！>>https://www.youtube.com/watch?v=mnT346Bt8LA]]||
+|3/20|41|[[『#萌愛くしゅり』居場所を増やしたい！！！>>https://www.youtube.com/watch?v=d-jQhLcL0HI&t=7842s]]||
+|3/25|42|[[『#萌愛くしゅり』アイドル活動頑張ります🎤💕>>https://www.youtube.com/watch?v=sKA-AeQ1rx0]]||
+|3/26|43|[[『#萌愛くしゅり』アイドルアカウント動かす🎤💕>>https://www.youtube.com/watch?v=-wTUcARBsRA]]||
+|3/28|44|[[『#萌愛くしゅり』お金を貯めたい！！！！！！>>https://www.youtube.com/watch?v=tBjSYkGEOFg]]||
+#endregion(3月)
+#size(10){&br()}
+#region(4月)4月
+#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|4/2|45|[[『#萌愛くしゅり』コミュ強になりたい！！！！！！>>https://www.youtube.com/watch?v=cyhmohzSH4I]]||
+|4/3|46|[[『#萌愛くしゅり』お金がない！！！！！！>>https://www.youtube.com/watch?v=kIrr-GcLF2Y]]||
+|4/5|47|[[『#萌愛くしゅり』ゆるーく！！！！！！>>https://www.youtube.com/watch?v=6kcDfFfa0SY]]||
+|4/8|48|[[『#萌愛くしゅり』お金稼ぐ！！！！！！>>https://www.youtube.com/watch?v=ZJSRiVBMK8A&t=84s]]||
+|4/10|49|[[『#萌愛くしゅり』新しいことしたいな！！！！！！>>https://www.youtube.com/watch?v=jCzMDTGiC_8&t=3s]]||
+|4/11|50|[[『#萌愛くしゅり』チンチロ大会に出ます！！！！！！>>https://www.youtube.com/watch?v=jCzMDTGiC_8]]|職場対抗チンチロ大会|
+|4/12|51|[[『#萌愛くしゅり』ドSイベント！！！※短時間起床です>>https://www.youtube.com/watch?v=qmbhR02W3WU]]|らすぱらドSメイドデー|
+|4/16|52|[[『#萌愛くしゅり』新しいことしたい！！！！！！>>https://www.youtube.com/watch?v=7Da5oUrAJDg]]||
+|4/18|53|[[『#萌愛くしゅり』新しいことしたい！！！！！！>>https://www.youtube.com/watch?v=g4lsl3vElo8]]||
+|4/25|54|[[『#萌愛くしゅり』は久々の起床です！！！！！！>>https://www.youtube.com/watch?v=eXVzsqQHfmk]]||
+|4/30|55|[[『#萌愛くしゅり』はアイドルを進めたい！！！！！！>>https://www.youtube.com/watch?v=-zxf2dKhEFc]]||
+#endregion(4月)
+#size(10){&br()}
+#region(5月)5月
+#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|5/6|56|[[『#萌愛くしゅり』は新しいことがしたい！！！！！>>https://www.youtube.com/watch?v=PZcDUUAr4lE]]||
+|5/7|57|[[『#萌愛くしゅり』は真面目に働きたい！！！！！>>https://www.youtube.com/watch?v=HJ31FJj7lg0]]||
+|5/10|58|[[『#萌愛くしゅり』は変装してます！！！！！>>https://www.youtube.com/watch?v=PPJX0JQ7Oxc]]|「みる」として5月13日のキャバクライベントの宣伝回|
+|5/13|59|[[『#萌愛くしゅり』～変装キャバクラ当日～>>https://www.youtube.com/watch?v=dYPjQAp1cKg&t=5709s]]|キャバクライベント当日|
+|5/15|60|[[『#萌愛くしゅり』短時間ゆるーく起床>>https://www.youtube.com/watch?v=sSBRsXHqAMg&t=10060s]]||
+|5/20|61|[[『#萌愛くしゅり』釣りがしたいです！！！！！！>>https://www.youtube.com/watch?v=_SVOzhSkn3s]]||
+|5/22|62|[[『#萌愛くしゅり』街を大冒険したい✨️>>https://www.youtube.com/watch?v=OQ0Dm9DZm5s]]||
+|5/24|63|[[『#萌愛くしゅり』お金の為なら何でもします💦>>https://www.youtube.com/watch?v=Dq8uP2HL6vM]]|コーラボーイのトレンディ講習回|
+|5/27|64|[[『#萌愛くしゅり』アイドル活動する日🎤💝>>https://www.youtube.com/watch?v=PAB6H9R7Et8]]|めれにくす振り入れ回|
+|5/30|65|[[『#萌愛くしゅり』お金稼ぎ&宣伝day>>https://www.youtube.com/watch?v=CSZLA4lbbIE]]||
+#endregion(5月)
+#size(10){&br()}
+#region(6月)6月
+#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|6/4|66|[[『#萌愛くしゅり』お金稼ぎ&宣伝day>>https://www.youtube.com/watch?v=DxNcRZ6KPdQ]]||
+|6/5|67|[[『#萌愛くしゅり』ライブに向けて、短時間起床>>https://www.youtube.com/watch?v=E4YpJiB0jXM]]||
+|6/7|68|[[『#萌愛くしゅり』ライブに向けて、短時間起床>>https://www.youtube.com/watch?v=SSAOEG5LfjI&t=4s]]||
+|6/10|69|[[『#萌愛くしゅり』遂にライブ当日です🎤✨️>>https://www.youtube.com/watch?v=tb41mbrrB2A&t=8720s]]|めれにくすライブ当日|
+|6/13|70|[[『#萌愛くしゅり』何しようかな？！>>https://www.youtube.com/watch?v=HZHSwei4zck]]|野間さん契約回|
+|6/14|71|[[『#萌愛くしゅり』借金返さないと....>>https://www.youtube.com/watch?v=hfACyiH3FUs]]||
+|6/17|72|[[『#萌愛くしゅり』お金の為なら....何でもします！！！>>https://www.youtube.com/watch?v=n7AZc2oZzIs&t=6s]]|レギオン公園梅雨フェス日|
+|6/19|73|[[『#萌愛くしゅり』お金の為なら....何でもします！！！>>https://www.youtube.com/watch?v=P5sVzp_R6YI]]||
+|6/20|74|[[『#萌愛くしゅり』お金の為なら....何でもします！！！>>https://www.youtube.com/watch?v=YOrcVvom-Uo]]||
+|6/24|75|[[『#萌愛くしゅり』お金の為なら....何でもします！！！>>https://www.youtube.com/watch?v=dx7QAUHjS3I]]||
+|6/27|76|[[『#萌愛くしゅり』お金の為なら....何でもします！！！>>https://www.youtube.com/watch?v=vw4K9Q7VC_Y]]||
+|6/28|77|[[『#萌愛くしゅり』お金の為なら....何でもします！！！>>https://www.youtube.com/watch?v=4ZryIoXWsXI]]||
+#endregion(6月)
+#size(10){&br()}
+#region(7月)7月
+#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|7/1|78|[[『#萌愛くしゅり』お金の為なら....何でもします！！！>>https://www.youtube.com/watch?v=PXb4GmhkDDo]]||
+|7/3|79|[[『#萌愛くしゅり』お金の為なら....何でもします！！！>>https://www.youtube.com/watch?v=M9swDkInnpw]]||
+|7/5|80|[[『#萌愛くしゅり』お金の為なら....何でもします！！！>>https://www.youtube.com/watch?v=lVf3T29-Ybc]]||
+|7/8|81|[[『#萌愛くしゅり』お金の為なら....何でもします！！！>>https://www.youtube.com/watch?v=ez3PfyAM5iU]]||
+|7/11|82|[[『#萌愛くしゅり』所持金300円です....>>https://www.youtube.com/watch?v=ez3PfyAM5iU]]||
+|7/15|83|[[『#萌愛くしゅり』お金の為なら....何でもします！！！>>https://www.youtube.com/watch?v=igZXwdtYUUw&t=222s]]||
+|7/19|84|[[『#萌愛くしゅり』ゆるっと短時間起床>>https://www.youtube.com/watch?v=aUPyspXWGPY&t=834s]]||
+|7/22|85|[[『#萌愛くしゅり』お金がない！！！！！>>https://www.youtube.com/watch?v=igZXwdtYUUw&t=222s]]||
+|7/24|86|[[『#萌愛くしゅり』『仮名：わぁ』リンリン始動です☎💕>>https://www.youtube.com/watch?v=7mic_3nWV60]]|リンリン挑戦回|
+|7/29|87|[[『#萌愛くしゅり』所持金二桁でも...この街って生きられますか？？？>>https://www.youtube.com/watch?v=LEYbXPNH-0o]]|メカニック体験回|
+#endregion(7月)
+#size(10){&br()}
+#region(8月)8月
+#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|8/1|88|[[『#萌愛くしゅり』所持金二桁でも...この街って生きられますか？？？>>https://www.youtube.com/watch?v=cVRD5cV0fyA]]||
+|8/6|89|[[『#萌愛くしゅり』所持金二桁でも...この街って生きられますか？？？>>https://www.youtube.com/watch?v=C3zA89_rqes]]||
+|8/8|90|[[『#萌愛くしゅり』職場体験がしたい！！！！！>>https://www.youtube.com/watch?v=P-gYo6O-EXY]]||
+|8/12|91|[[『#萌愛くしゅり』その日暮らし....>>https://www.youtube.com/watch?v=vrR09KikMoo]]||
+|8/21|92|[[『#萌愛くしゅり』1週間振りの起床！！>>https://www.youtube.com/watch?v=1ssXSLUJSKg]]||
+|8/26|93|[[『#萌愛くしゅり』〜1000万円の借金返済編〜>>https://www.youtube.com/watch?v=FyGMjUA1u1M]]||
+|8/30|94|[[ずっと一緒に居たかったな..... #萌愛くしゅり>>https://www.youtube.com/watch?v=tolNX8xFgWs]]|らすぱら代理店長就任回|
+#endregion(8月)
+#size(10){&br()}
+#region(9月,open)9月
+#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|9/2|95|[[忘れてたけど、今日返済日だ..... #萌愛くしゅり>>https://www.youtube.com/watch?v=mAVX3V6x7Go]]||
+|9/5|96|[[代理店長として、強くなりたい #萌愛くしゅり>>https://www.youtube.com/watch?v=Bs3GpaZbQpM&t=7164s]]|黒落ちを決意した回|
+|9/6|97|[[黒市民デビュー。ドキドキしたい！#萌愛くしゅり>>https://www.youtube.com/watch?v=LvSJSrcjxZA&t=5677s&pp=0gcJCf4LAYcqIYzv]]|NOVA FAMILIA体験開始回|
+|9/9|98|[[らすぱら代理店長＆ギャング体験編 #萌愛くしゅり>>https://www.youtube.com/watch?v=OaWV4VQeq4o]]||
+|9/11|99|[[らすぱら代理店長＆ギャング体験編 #萌愛くしゅり>>https://www.youtube.com/watch?v=X4eHKNhJqUw]]||
+|9/13|100|[[らすぱら代理店長＆ギャング体験編 #萌愛くしゅり>>https://www.youtube.com/watch?v=e0dDuJoAvm8&t=312s&pp=0gcJCf4LAYcqIYzv]]||
+|9/16|101|[[らすぱら代理店長＆ギャング体験編 #萌愛くしゅり>>https://www.youtube.com/watch?v=Y_ZoCeTei0A]]||
+|9/17|102|[[抗争ってなんですか....？？？ #萌愛くしゅり>>https://www.youtube.com/watch?v=YLU5PJlp0DM]]|NOVA FAMILIA正式加入&抗争参加回|
+|9/20|103|[[らすぱら代理店長＆ギャング体験編 #萌愛くしゅり>>https://www.youtube.com/watch?v=pMuMZnWylS8]]|アーカイブのメンバー限定移行回|
+#endregion(9月)
+#size(10){&br()}
+
+#right(){&link_up(🔝ページTOPへ)}

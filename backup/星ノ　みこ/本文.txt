@@ -1,0 +1,252 @@
+**プロフィール
+#slide_img(auto=3,width=290,height=400,position=center)
+{星ノみこ_ネイル.jpg,星ノみこ_シーズン2.jpg,星ノみこ_初期服.jpeg,}
+
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#ffadd6:#fff){シーズン=#b2b2ff:b:center}
+|~シーズン|~&icon_fa(fa fa-calendar)|~&bold(){Season1}|~&bold(){Season2}|
+|~名前|~&icon_fa(fa fa-star)|>|&ruby(ほしの){星ノ}　&ruby(みこ){みこ}|
+|~出身地|~&icon_fa(fa fa-map-marker)|>||
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|11月4日|
+|~転入日|~&icon_fa(fa fa-suitcase-rolling)|2024年10月18日 (&countup(2024/10/18,yd)経過) |2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~職業|~&icon_fa(fa fa-car)&br()&icon_fa(fa fa-anchor)&br()&icon_fa(fa fa-stethoscope)&br()&icon_fa(fas fa-glasses)&br()&icon_fa(fa fa-gas-pump)|&icon_fa(fa fa-anchor)&small(){海上レストラン}【[[Urashima]]】&small(){店員 (2024/10/22～)}&br()&icon_fa(fa fa-coins)&small(){くじ屋}【[[Lv.94]]】&small(){店員 (2025/4/18～7/20、8/5～)}&br()&icon_fa(fa fa-stethoscope)&small(){街医者}【[[個人医]]】&small(){(2025/7/20～)}&br()&icon_fa(fas fa-glasses)【Dr.INDUSTRY】社員(社員No.01) [[毒多　博士]]専属助手|[[タクシー運転手>>タクシー会社HQ（仮）]]&small(){(2025/12/19～)}&br()&small(){海上レストラン}【[[Urashima]]】&small(){&s(){店員}→店長 (2026/02/12～)兼 オーナー(2026/04/22～)}&br()&s(){【[[闇医者]]】}&small(){(2026/01/22～2026/06/12)}&br()【Dr.INDUSTRY】社員(社員No.01) [[毒多　博士]]専属助手&br()ガソリンスタンド【7001番地】従業員&small(){(2026/07/30～)}|
+|~所属|~&icon_fa(fa fa-users)|DR.INDUSTRY&br()[[モンスターハウスプロダクション]] (従業員)&br()[[ウクレレ部]] (部長)|DR.INDUSTRY&br()[[ウクレレ部]] (部長)|
+|~TwiX|~&icon_fa(fa fa-dove)|@hoshinomiko|@hoshinomiko|
+|~レーサー名|~&icon_fa(fas fa-car)|星ノみこ、きらり(リンリン)||
+|&font(#fff){プレイヤー}|BGCOLOR(#b2b2ff):COLOR(#fff):&icon_fa(fa fa-headphones)|>|みーこ|
+|&font(#fff){告知等}|BGCOLOR(#b2b2ff):COLOR(#fff):&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/miko35_star]]|
+|&font(#fff){配信場所}|BGCOLOR(#b2b2ff):COLOR(#fff):&icon_fa(fa fa-solid fa-satellite)|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@miko_official_]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/miko_official_]]|
+//
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+//
+// 基本情報、エピソード節が雑多になってきたため、関連人物節を作りまとめたいと思います
+// 現在作業中です2025/6/1
+//
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+//&bold(){ここに文字を入力}&bold(){ここに文字を入力}
+
+**基本情報
+-流れ星を追っていたらロスサントスに辿り着いた。
+-星ノみこはロスサントスに来る前の街でドジで失敗を繰り返してバカにされてきたので自分を変えたいと考えている。そのため組織に入ると迷惑かけるかもしれないという想いから慎重になったり人にダメなところを見せるのが怖いという性格なのでウクレレもレースもこっそり練習している
+-昔ミュージカルをやっていたらしいが今は見る専門らしい
+-ウクレレ練習中だが人前で披露するのは緊張するから苦手らしい
+
+&font(#ffadd6,#fff,140%){&space()&icon_fa(fa fa-history)&space()&bold(){職業関連}&space()}
+-副業にも興味はあるが、職についてイベントに参加できなくなるのは勿体ないと感じている。
+-[[海上レストラン>Urashima]]ではよくお店を開けて看板娘とも言われる
+-[[毒多博士>毒多　博士]]の助手としてさまざまなな依頼を受ける。[[ブラックジャックス>ブラック　ジャックス]]の肺手術や全身サイボーグ化、[[ムーチョ文岡>ムーチョ　文岡]]の骨手術など。話しやすい交流で仕事をたくさんもらってくる敏腕助手として毒多も評価している。
+-人を助けたいという思いから[[個人医]]を志望し就職。黒の世界を知っていきたい思いはまだあるらしいがジョブ問題で白に戻る選択肢も含めている。
+-8月5日、白市民パス再取得しクジ屋にも再就職した。
+#region(Season1→Season2 3/6時点)
+#co{
+#twitter_widget3(){
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">星ノみこシーズン1とシーズン2での違いを現時点でまとめました👇<br>街の人には伝えてないこともあるのでそれぞれどんなストーリーになるか楽しみ<a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9season2?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラseason2</a> <a href="https://twitter.com/hashtag/%E6%98%9F%E3%83%8E%E3%81%BF%E3%81%93?src=hash&amp;ref_src=twsrc%5Etfw">#星ノみこ</a> <a href="https://t.co/rJbSNlZ35k">pic.twitter.com/rJbSNlZ35k</a></p>&mdash; みーこ💫 (@miko35_star) <a href="https://twitter.com/miko35_star/status/2005511701765218488?ref_src=twsrc%5Etfw">December 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+}
+}
+#twitter_widget3(){
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【ネタバレ注意⚠️】<br>みこのプロフィール更新🆙<br>season1から色々増えましたがJOBとしては2枠なんですw<br>毎日3時まで時間が足りないくらいでやりたいことがいっぱいで楽しい✨<a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9season2?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラseason2</a> <a href="https://twitter.com/hashtag/%E6%98%9F%E3%83%8E%E3%81%BF%E3%81%93?src=hash&amp;ref_src=twsrc%5Etfw">#星ノみこ</a> <a href="https://t.co/JKU4Ef6anl">pic.twitter.com/JKU4Ef6anl</a></p>&mdash; みーこ💫 (@miko35_star) <a href="https://twitter.com/miko35_star/status/2029832171998069148?ref_src=twsrc%5Etfw">March 6, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+}
+#endregion
+
+&font(#ffadd6,#fff,140%){&space()&icon_fa(fa fa-user-secret)&space()&bold(){黒市民として}&space()}
+#region(開く)
+-[[警察>ロスサントス警察]]体験に応募するも書類選考で落ちたことにより、黒の道に行くことを決意する。犯罪の経験などをつんでから志望ギャングを見つけたいという意思から半グレとして頑張っている
+-ファームが得意で素材売買でギャングからの連絡をもらうこともある
+-銃を撃つのが好きで射撃場やサバゲーで練習している
+-小型犯罪の成功率は高くお金を稼ぐペースは早い
+-組織ギャングに入るのはゆっくり慎重になっているが、ギャングに入ったら客船で戦い利確するのが夢
+-大型犯罪にも興味があるが、まだ自分に出来ることが少ないとギャングに入りたいという火がつかないため、半グレを極めようとしている。
+-これまで[[トリックスター>Trickster]]、[[ラーテル>RqteL]]、[[ハッピーBBQ(仮)>極楽鳥花]]に勧誘され、[[MOZU]]、[[ハンタスマ>hantasma]]、[[D4>第4宇宙速度]]などは構成員から声をかけられている
+#endregion
+**主なエピソード
+#region(開く)
+-街に来て4日目で[[Lv〇　チンピラ]]からくじ屋に誘われて社員になることが決まっている。2人はよく連絡し合う仲で周囲からはいい感じであるといじられている。犯罪練習を一緒にするだけでなく、たびたび長電話をし互いの存在が大切であるとわかる。4月18日ついにクジ屋オープンを迎えた。初日は6時間接客を続けたが「半年かけた大事なお店だろうからチンピラのためにがんばりたい」と店に立ちつづけた。
+-リンリンをきっかけに[[キャプテン　わきを]]がみこを気に入り、たびたび電話がかかってきたりオープン前のサウナに一番はじめに誘われている。尚、みこ本人はわきをに一切気はない。わきをからサウナオープン日前に呼び出され歪み直しだという理由でセクハラ被害を受ける。
+-素性がバレなければ人前に立てるということで[[ヤシャ　ロア]]、[[くま　ぽこ]]と一緒にリンリン秘密アイドルBLACKMOONを結成した。
+-女子レースチームおぴんくもんすたぁに誘われ加入
+-尊敬する存在の[[飯田　けんつ]]が再び黒落ちをしたことを知り、初めて一緒に犯罪、宝石店強盗とコンビニ強盗を行い利確をした
+-一日限定で[[つよがり　とうか]]、[[霜月　ろっぷ]]と女性半グレチームやっちゃいなを結成しお揃いのチャイナ服衣装を作成。二人からはボス扱いされている
+-[[三否亭　四五六確]]からBJローンの秘書にならないかと勧誘されるが、愛人や彼女にもならなければいけないと言われた為断る
+#endregion
+
+**関連人物
+***海上レストラン
+#region(開く)
+-[[ひろさん>>焼野原　ひろし]] : 海上レストランの店長代理。初心者のころ海上レストランに誘われ、その後もレストラン店員として交流が続いている。みこを店長代理の代理としている。
+-[[さとう先輩>>さとう]] : さとう・ざ・ろっく名義で活動する歌手。推しとしてライブを欠かさず観に行き、推し活として何かを貢ごうとする
+-[[かえるん>>畳　かえる]] : 後輩、歌手。よく勤務中に歌の練習をしている
+-[[たいたい>>捌木　たいたい]] : 2025/5入国、初心者期間中に海上レストランの社員となり、初心者マークを外す会を会場レストランで行った後輩
+#endregion
+//
+***白市民
+#region(開く)
+みこが白市民と認識している人たち
+-[[リーさん>>渡戸　リー]] : 第一村人で町の案内をしてもらった。その後も交流は続いており、街探検をしたりしている
+-[[ドク>>毒多　博士]] : IQ7兆の天才科学者。みこは毒多の助手を務めている。2025/5 DR.INDUSTRYを設立しみこは社員になった（社員番号0001の社員証を受け取った。秘密組織のためジョブではない）
+-[[竹井　勝痔]] : 警察官。白市民時代は良好な関係だったが、半グレになった後はたびたび理不尽な扱いを受けている。あだ名はゴリラ
+-[[ボイラ　テンガリン]] : よく話をしてくれる警察官で仕事や組織に対する熱い想いを聞き尊敬している。黒の道に行く時も温かい言葉をかけられて涙を流した
+-[[広場　うた子]]:お花屋さん。溶鉱炉で語り合ったときに、考え方が同じで、意気投合した。黒にも興味があり、みこが黒の世界で知った情報を共用してほしいと頼まれている。
+-[[パン　チャン]]:リサセン仲間で白市民時代から気にかけてくれ素材を買い取ったりレースを教えてくれる。
+#endregion
+//
+***黒市民
+#region(開く)[[ギャング]]・半グレ
+-[[Lv〇　チンピラ]] : 入国4日目に、立ち上げを計画していたくじ屋の店員として勧誘された。その後もよく電話をする仲で、過去最高通話時間54分09秒という記録を打ち立てた。2人でチェイスや犯罪の練習をすることがありどのような関係になっていくのか周りも気になっている。2025/4/18 [[Lv.94]]を開店
+-[[飯田　けんつ]] : 初心者の頃から交流があり毎週木曜は試乗会に行く約束をする仲。TOP GEARボスの頃みこを勧誘したいと思ってアピールしていた。みこ自身も飯田を尊敬している
+-[[ジョーカー>>半沢　直ふぃ]] : みこが白市民時代に設立前のギャングに勧誘するが、警察体験を目指していたため断る。その後trickster設立時にも再勧誘されるが断り半グレからスタートさせることを伝える。その後も傭兵に呼んでくれる等の関係は続いている
+-[[くま　ぽこ]] : Hantasmaメンバー、白市民時代からの友達。暇電仲間の一人。リンリンを通じて[[ヤシャ　ロア]]と3人で秘密アイドルBlack Moonを結成
+-[[モーガン・フリーザン]] : みこを気に入っており、付き合ってほしいと告白されている。会うたびに「今何時？」「お前にマジ」の掛け合いがおこる
+-[[ゾン　B子]] : 電話をしたり遊びや犯罪に誘いあう仲良し。たまたまゾンビ子もウクレレをやってることを知り、ウクレレデュオ「みこびこ」を結成した
+-[[高橋　滅論]]:一緒に犯罪することがある。みこを初めて大型傭兵に誘ったのも彼である。白市民のころからD4に誘おうとしていた。
+#endregion
+
+**過去についてなど
+#region(※ネタバレ注意)※ネタバレ注意
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">観測ありがとうございました。<br>今日は星ノみこの過去や抱えるものがわかるような特殊なRPでした。<br><br>不安がある中で今の街にいるみこはどう動くのか。これからを見守ってください。<a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a>　<a href="https://twitter.com/hashtag/%E6%98%9F%E3%83%8E%E3%81%BF%E3%81%93?src=hash&amp;ref_src=twsrc%5Etfw">#星ノみこ</a> <a href="https://t.co/p9sAQhrK5Z">pic.twitter.com/p9sAQhrK5Z</a></p>&mdash; みーこ💫 (@miko35_star) <a href="https://twitter.com/miko35_star/status/1966221938587828663?ref_src=twsrc%5Etfw">September 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">過去のみこに関する記録<br>送り主は未来の毒多博士 <a href="https://t.co/SWTJkspIyY">pic.twitter.com/SWTJkspIyY</a></p>&mdash; みーこ💫 (@miko35_star) <a href="https://twitter.com/miko35_star/status/1969239836952281181?ref_src=twsrc%5Etfw">September 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+//#twitter_widget3(){twitterウィジェット表示用埋め込みコード}
+
+[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}切り抜き動画リンク>>https://youtu.be/_FC0qFGB2RM?si=voEKMjEuwujiDJju]]
+#endregion
+
+**ギャラリー
+・Season1スライドショー動画
+&youtube(https://youtu.be/wWulzVNceNo?si=iikWmu7n82oRldyA)
+
+**イベント出演
+***2026年
+#region(4月,open)4月
+//#table_style(head=#F7ADC3:#FFF){配信日=right,#=center}
+#table_style(head=#eee:#000){配信日=right,#=center}
+|~#|~イベント名|~出演日|~個人セットリスト|~備考|h
+|1|&bold(){「ウクレレ部発表会」}&image(ukuleleclub_1.jpg,y=180)|3/25|01. [[道>https://youtu.be/7pW3ZqTwl9E?si=ED4Bbz0jK5MadJ9Z&t=9m24s]] (オリジナル曲)&br()02.[[きみと>https://youtu.be/7pW3ZqTwl9E?si=ED4Bbz0jK5MadJ9Z&t=14m52s]] (オリジナル曲)||
+|2|&bold(){「海上レストラン Urashima 春ライブ」}&image(miko_event20260426.jpg,y=180)|4/26|01. 桜坂 (cover)&br()02. Happy Day (オリジナル曲)||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]|||
+#endregion(3月)
+
+
+**日別エピソード
+***2024年
+#region(10月,close)&bold(){10月}
+****10/18 [[#1回目 はじめましてロスサントス！>>https://www.youtube.com/live/3iFYTuTfxVg]]
+#region(開く,open)
+-家を出た直後に車付近に隠れていた[[渡戸　リー]]と出会った。
+-警察署に挨拶に行くと、[[ボイラ　テンガリン]]に匂いをかがれた。
+-[[パキ　ち]]から教習を受けて免許をもらい、[[ロイ　マーチングナンバー]]から車を購入した。
+#endregion
+****10/19 [[#2回目 街を周って職業を調べたい！>>https://www.youtube.com/live/VOUMSxIuG-s]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****10/20 [[#3回目 お金稼ぎと街探索>>https://www.youtube.com/live/LoWj3A3ACVE]]
+#region(開く,close)
+-海上レストランで職業体験
+-警察体験予定の[[ガヴァイ　アッカンマン]]と知り合う
+-エピソード募集中&u(){ここに文字を入力}
+#endregion
+****10/22 [[#4回目 夢探し？自分探し？>>https://www.youtube.com/live/rgkZbdbewvk]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****10/23 [[#5回目 メカニックを体験！成長したい >>https://www.youtube.com/live/oe1xoYv6rDg]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****10/24 [[#6回目 いつもと違う場所へ出かけたい🚙>>https://www.youtube.com/live/bjGDF4YSVaY?si]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****10/25 [[#7回目 楽しみなこと増えた♡>>https://www.youtube.com/live/nWAqt2BV8Xo]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****10/26 [[#8回目 海に遊びに行く🐋水着どうかなぁ？>>https://www.youtube.com/live/N8bRqQkB64M]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****10/26 [[#8.5回目 学園祭を楽しむ！！>>https://www.youtube.com/live/rbvbw98ngKY]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****10/27 [[#9回目 チルチルチル>>https://www.youtube.com/live/5ygTkUg70Ko]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****10/29 [[#10回目 パッションを感じたい>>https://www.youtube.com/live/YyP8jFkLB0c]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****10/30 [[#11回目 🔰物産展と世界統合・・・？>>https://www.youtube.com/live/L6qYgpDphfA]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+****10/31 [[#12回目 推しごと！初心者にさよなら>>https://www.youtube.com/live/pjvttaK7pi0]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+#endregion(10月)
+//
+#region(11月,close)&bold(){11月}
+****11/01 [[#13回目 お金を稼いで新車を買いたい>>https://www.youtube.com/live/03S8y0RmLs8]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(11月)
+//
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+-エピソード募集中
+#endregion
+
+#endregion(mm月)
+}
+
+**アーカイブ
+***2024年
+#region(開く,close)
+#table_style(head=center:#ffadd6){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/18|1|[[はじめましてロスサントス！>>https://www.youtube.com/live/3iFYTuTfxVg]]|メン限|
+|10/19|2|[[街を周って職業を調べたい！>>https://www.youtube.com/live/VOUMSxIuG-s]]|メン限|
+|10/20|3|[[お金稼ぎと街探索>>https://www.youtube.com/live/LoWj3A3ACVE]]||
+|10/22|4|[[夢探し？自分探し？>>https://www.youtube.com/live/rgkZbdbewvk]]|メン限|
+|10/23|5|[[メカニックを体験！成長したい>>https://www.youtube.com/live/oe1xoYv6rDg]]|メン限|
+|10/24|6|[[いつもと違う場所へ出かけたい🚙>>https://www.youtube.com/live/bjGDF4YSVaY?si]]|メン限|
+|10/26|7|[[楽しみなこと増えた♡>>https://www.youtube.com/live/nWAqt2BV8Xo]]|メン限|
+|~|8|[[海に遊びに行く🐋水着どうかなぁ？>>https://www.youtube.com/live/N8bRqQkB64M]]|メン限|
+|10/27|8.5|[[学園祭を楽しむ！！>>https://www.youtube.com/live/rbvbw98ngKY]]|メン限|
+|10/28|9|[[チルチルチル>>https://www.youtube.com/live/5ygTkUg70Ko]]|メン限|
+|10/29|10|[[パッションを感じたい>>https://www.youtube.com/live/YyP8jFkLB0c]]|メン限|
+|10/30|11|[[🔰物産展と世界統合・・・？>>https://www.youtube.com/live/L6qYgpDphfA]]|メン限|
+|10/31|12|[[推しごと！初心者にさよなら>>https://www.youtube.com/live/pjvttaK7pi0]]|メン限|
+|11/01|13|[[お金を稼いで新車を買いたい>>https://www.youtube.com/live/03S8y0RmLs8]]|メン限|
+|11/02|14|[[経験を増やす・克服！！>>https://youtu.be/0lzm_WQPBd4]]|メン限|
+|11/03|15|[[お誕生日>>https://youtu.be/3ZS27aR40PA]]|メン限|
+|11/05|16|[[免許とって自分にできること増やす！>>https://youtu.be/SwSRS8Oc76w]]|メン限|
+|11/06|17|[[ヘリバトル　イベント楽しむ>>https://youtu.be/liKECMvCq8Q]]|メン限|
+|11/07|18|[[道は自分で作るもの　>>https://youtu.be/IRYfvpPX8CY]]|メン限|
+|11/08|19|[[グレードアップせよ、みこ　>>https://youtu.be/meiA38y6ZzM]]|メン限|
+|11/09|20|[[初心を忘れない　フェアリーミーと渡戸探検隊　>>https://youtu.be/YeCvz-9yuk0]]|メン限|
+|11/12|22|[[お話とチル>>https://youtu.be/d1FgeCJyjS0]]|メン限|
+|11/13|23|[[謎の生物探し>>https://youtu.be/w5-DyPWzBqk]]|メン限|
+|11/14|24|[[動き出せ>>https://youtu.be/uzVZ3YEmmjI]]|メン限|
+|11/15|25|[[寝起き>>https://youtu.be/ErjIu4Bqx9M]]|メン限|
+|11/16|26|[[スーパーチルタイム　>>https://youtu.be/x8_hTDpjhYI]]|メン限|
+|11/17|27|[[ヘリ買いたい　>>https://youtu.be/4OvfzcyeEbk]]|メン限|
+||31|[[祝1か月🎊ライブのお手伝いin海上レストラン>>https://youtu.be/CdYLnOJE08Q]]|メン限|
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

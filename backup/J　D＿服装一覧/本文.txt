@@ -1,0 +1,149 @@
+&font(16px,b,u,black){Season1}
+#region(開く)
+//画像は1:2でトリミングしてアップロードしています。
+***&font(25px,#d17d7d){&icon_fa(fa fa-shirt)} 私服
+#region(開く)閉じる
+#center(){
+|&blankimg(【その他】ノーマスク私服2.png,x=130,y=260)|&blankimg(【その他】私服：冬服.png,x=130,y=260)|
+|&font(8pt){【その他】ノーマスク私服2}|【その他】私服：冬服|
+||&font(8pt){人と話すときは&br()ハンバーガーを外す}|
+}
+#endregion(私服)
+//----------------
+***&font(25px,#f9f){&icon_fa(fa fa-user-secret)} ギャング服
+#region(開く)閉じる
+※頻繁に仮面が変更される
+#center(){
+|&blankimg(【868】冬服_05_250416.png,x=130,y=260)|&blankimg(【868】夏服.png,x=130,y=260)|&blankimg(【868】島取り.png,x=130,y=260)|&blankimg(【868】スーツ.png,x=130,y=260)|&blankimg(【868】秋服_02_241025.png,x=130,y=260)|&blankimg(【868】春服.png,x=130,y=260)|
+|【868】冬服|【868】夏服|【868】島取り|【868】スーツ|【868】秋服|【868】春服|
+|&font(10pt){冬用大型服}|&font(10pt){夏用大型服}|&font(10pt){島取り服}|&font(10pt){ギャングスーツ}|&font(10pt){秋用大型服}|&font(10pt){春用大型服}|
+}
+#endregion(868)
+//----------------
+***&font(25px,#000000){&icon_fa(fa-solid fa-ghost)} 変装
+#region(開く)閉じる
+#center(){
+|&blankimg(【その他】Boosting.png,x=130,y=260)|&blankimg(【868】空き巣：白鷺信夫.png,x=130,y=260)|&blankimg(【その他】花関連.png,x=130,y=260)|&blankimg(【犯罪】犯罪用3_02.png,x=130,y=260)|&blankimg(【その他】クッキーグリーン_02.png,x=130,y=260)|&blankimg(地味大輔.png,x=130,y=260)|
+|&font(10pt){【その他】Boosting}|&font(8pt){【868】空き巣：白鷺信夫}|【その他】花関連|【犯罪】犯罪用3|&font(8pt){【その他】クッキーグリーン}|【その他】変装|
+|&font(8pt){Boosting協会制服}|&font(10pt){空き巣協会制服&br()白鷺信夫}|&font(10pt){花摘み用&薬練り用&br()山岳パトロール隊}||&font(10pt){[[クッキー戦隊>ジョシュア・マーキル/クッキー戦隊]]の&br()グリーン担当}|地味大輔|
+//
+|&blankimg(【その他】花関連②.png,x=130,y=260)|&blankimg(【軍事】軍服.png,x=130,y=260)|&blankimg(【犯罪】LCTA.png,x=130,y=260)|&blankimg(【その他】変装：兎.png,x=130,y=260)|
+|【その他】花関連②|【軍事】軍服|【犯罪】LCTA|【その他】変装：兎|
+|花摘み&薬練り用|&font(8pt){軍事物資強奪用}|&font(8pt){高級車窃盗協会(LCTA)制服}||
+}
+#endregion()
+//----------------
+***&font(25px,#99cc00){&icon_fa(fa-solid fa-person-circle-question)} その他
+#region(開く)閉じる
+#center(){
+|&blankimg(9055体験.png,x=130,y=260)|&blankimg(海上レストラン体験.png,x=130,y=260)|&blankimg(【その他】海水浴.png,x=130,y=260)|&blankimg(【その他】推し活用.png,x=130,y=260)|||
+|&font(8pt){【その他】9055体験}|&font(8pt){【その他】海上レストラン体験}|【その他】海水浴|【その他】推し活用|asobi|【その他】漁師|
+||||[[ペティ>羽山　ペティ]]担|||
+//
+|&blankimg(【その他】運動会.png,x=130,y=260)|&blankimg(【その他】人質.png,x=130,y=260)|&blankimg(【その他】だるまさんが転んだ.png,x=130,y=260)|
+|【その他】運動会|【その他】人質|&font(8pt){【その他】だるまさんが転んだ}|
+|&font(8pt){麻陀羅組との&s(){運動会}&br()抗争用衣装の没案}|&font(8pt){麻陀羅組との&br()パレトコントで使用した&br()人質銀行員A}|&font(8pt){イカゲームオマージュ}|
+}
+#endregion()
+//----------------
+***&font(25px,#000000){&icon_fa(fa-solid fa-person)} Tattoo
+#region(開く)閉じる
+#center(){
+|&blankimg(Tattoo_Face.png,x=130,y=130)|&blankimg(Tattoo_Front.png,x=130,y=130)|&blankimg(Tattoo_Back.png,x=130,y=130)|&blankimg(Tattoo_右腕.png,x=130,y=130)|
+|顔：♠（Spades）&br()首：蜘蛛（Toxic Spider）|左胸：パンプキン&br()（Carved Pumpkin）|背中：&br()（Hood Heart）|右腕&br()&font(8pt){（Grim Reaper Smoking Gun）}|
+|&blankimg(Tattoo_左腕.png,x=130,y=130)|&blankimg(Tattoo_左ふくらはぎ.png,x=130,y=130)|&blankimg(JD_Tattoo.png,x=130,y=130)|
+|左腕&br()（Skeleton Party）|左ふくらはぎ&br()（Grim Reaper）|正面 (頬♠なし)|
+}
+#endregion(Tattoo)
+//-------------------------削除------------------------
+***&font(25px,#CC3030){&icon_fa(fa fa-trash-can)} 削除済の服
+#region(開く)閉じる
+※アーカイブが残っていないため情報募集中
+***&font(25px,#999){&icon_fa(fa fa-shirt)} 私服
+#region(開く)閉じる
+#center(){
+|&blankimg(私服_初期服.png,x=130,y=260)|&blankimg(私服_240528.png,x=130,y=260)|&blankimg(正装.png,x=130,y=260)|
+|私服|私服|正装|
+|&font(8pt){街に来た時の服}|||
+}
+#endregion(削除私服)
+//----------------
+***&font(25px,#f9f){&icon_fa(fa fa-user-secret)} ギャング服
+#region(開く)閉じる
+※頻繁に仮面が変更される
+#center(){
+|&blankimg(【868】島取り_01.png,x=130,y=260)|&blankimg(【868】冬服_01_250128.png,x=130,y=260)&blankimg(【868】冬服_02_250215.png,x=130,y=260)&blankimg(【868】冬服_03_250314.png,x=130,y=260)&blankimg(【868】冬服_04_250320.png,x=130,y=260)|
+|【868】島取り|【868】冬服|
+|&font(10pt){島取り服}|&font(10pt){冬用大型服}|
+}
+#endregion(削除868)
+//----------------
+***&font(25px,#000000){&icon_fa(fa-solid fa-ghost)} 変装
+#region(開く)閉じる
+#center(){
+|&blankimg(犯罪用①.png,x=130,y=260)|&blankimg(牛.png,x=130,y=260)|&blankimg(【犯罪】犯罪用3_01.png,x=130,y=260)|&blankimg(【その他】メカニック風作業用変装.png,x=130,y=260)|&blankimg(犯罪用2_240524.png,x=130,y=260)|&blankimg(紫私服.png,x=130,y=260)|
+|犯罪用①|作業用変装|【犯罪】犯罪用3|&font(8pt){【その他】ﾒｶﾆｯｸ風作業用変装}|犯罪用2|?????????|
+|||||||
+}
+#endregion(変装)
+//----------------
+***&font(25px,#99cc00){&icon_fa(fa-solid fa-person-circle-question)} その他
+#region(開く)閉じる
+#center(){
+|&blankimg(傭兵_01.png,x=130,y=260)|&blankimg(まだら.png,x=130,y=260)|&blankimg(GBC.png,x=130,y=260)|&blankimg(ANB.png,x=130,y=260)|&blankimg(MOZU.png,x=130,y=260)|
+|傭兵|まだら|GBC|ANB|MOZU|
+|868の傭兵用|麻陀羅組の傭兵用|GBCの傭兵用|餡ブレラの傭兵用|MOZUの傭兵用|
+}
+#endregion(その他)
+#endregion(削除)
+#endregion(S1)
+//
+//=======Season2=======Season2=======Season2=======Season2=======Season2=======Season2=======Season2
+//=======Season2=======Season2=======Season2=======Season2=======Season2=======Season2=======Season2
+//=======Season2=======Season2=======Season2=======Season2=======Season2=======Season2=======Season2
+//
+&font(16px,b,u,black){Season2}
+***&font(25px,#d17d7d){&icon_fa(fa fa-shirt)} 私服
+#region(開く)閉じる
+#center(){
+|&blankimg(S2_JD_02.png,x=130,y=260)|&blankimg(S2_a.png,x=130,y=260)|
+|JD|a|
+|||
+}
+#endregion(私服)
+//
+***&font(25px,#000000){&icon_fa(fa-solid fa-ghost)} 変装
+#region(開く)閉じる
+#center(){
+|&blankimg(S2_クッキーグリーン.png,x=130,y=260)|&blankimg(S2_hensou2.png,x=130,y=260)|&blankimg(S2_接吻唇.png,x=130,y=260)|
+|クッキーグリーン|hensou2|接吻唇|
+}
+#endregion(変装)
+****&font(25px,#d17d7d){&icon_fa(fa-solid fa-person-circle-question)} その他
+#region(開く)閉じる
+#center(){|&blankimg(S2_s.png,x=130,y=260)|&blankimg(S2_消防士.png,x=130,y=260)|
+|s||
+|社会科見学用|消防士|}
+#endregion(S2その他)
+//
+//-------------------------削除-------------------------削除----------------------
+//
+***&font(25px,#CC3030){&icon_fa(fa fa-trash-can)} 削除済の服
+#region(開く)閉じる
+***&font(25px,#d17d7d){&icon_fa(fa fa-shirt)} 私服
+#region(開く)閉じる
+#center(){
+|&blankimg(S2_デフォルトコーデ.png,x=130,y=260)|
+|デフォルトコーデ|
+}
+#endregion(削除私服)
+//
+***&font(25px,#000000){&icon_fa(fa-solid fa-ghost)} 変装
+#region(開く)閉じる
+#center(){
+|&blankimg(S2_1_02.png,x=130,y=260)|&blankimg(S2_hanzai_02.png,x=130,y=260)|
+|1|hanzai|
+#endregion(削除変装)
+}
+#endregion(削除)
+//画像は1:2でトリミングしてアップロードしています。

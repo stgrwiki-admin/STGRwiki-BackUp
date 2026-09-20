@@ -1,0 +1,84 @@
+//綴りが違っていたり、組織名が変わることがあれば編集をお願いします。
+//
+//&image(ここに画像のURLを入力,y=300)
+
+#table_style(head=#C0C0C0){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&bold(){&ruby(ろーず){Rose}}|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年6月6日&br()&small(){（&countup(2026/6/5,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|-&co(){xxxx番地}|
+|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|-|
+|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|&bold(){[[野茨　ライカ>>野茨　来華]]}|
+//|~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|union表示名|
+//|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&font(b,#xxxxxx){色}|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**基本情報
+-[[野茨　ライカ>>野茨　来華]]を追って日本から来たメンバーで構成されたギャング
+-今いるメンバーが全員ではなく日本に後数名いるようだ
+
+#region(某作品との関係性)某作品との関係性
+-BOSSが[[アドミゲス・ハン]]から軍曹は来るのか聞かれ、「別に違うからね」と言っていることから似ているだけの集団である。(26/6/6 22:21頃参照)
+#endregion
+
+**メンバー
+#table_style(head=#696969:#F9FCFF){名前=bold}
+#table_filter(){加入日=hide,役職=show,備考=show,配信=show}
+|~名前|~加入日|~役職|~備考|~配信|h
+|[[野茨　ライカ>>野茨　来華]]|2026/6/6|BOSS|唯一の転送組。街へ来てから転送されるまでの記憶を失っている|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/zti_kurumi]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)アーカイブ}>>https://www.youtube.com/channel/UCVdt9lYJVyI2G-TnusGHM9g]]|
+|[[榊　小樽]]|2026/6/6||通称タル。入国前からハッキングや銃撃戦の経験あり|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/r_k7den]]|
+|[[立花　椿]]|2026/6/6||車好きで速そうな心無きの車を盗難し乗り回す|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/taakuu_okisaba]]|
+|[[菫]]|2026/6/6||[[BOSS>>野茨　来華]]の気配を感じ取ることができる|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)YouTube}>>https://youtube.com/@168suzuri]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/irohasuzuri]]|
+|[[KC]]|2026/6/6||初日にチェイスを見て車のジャンプに興味|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)YouTube}>>https://www.youtube.com/@HoshiyomiAu]]|
+|[[柊　千景]]|2026/6/6||元運び屋|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/MiNAMi_MAYO]]|
+|[[百合]]|2026/6/6||[[闇医者]]志望の元医者|(衛星外)|
+//|[[名前]]|2026/mm/dd|役職|備考|配信|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//構成員の変更があれば「参加者一覧」への反映もお願いします
+
+***協力関係
+#table_style(head=#696969:#F9FCFF){名前=bold}
+#table_filter(){時期=show,内容=show,備考=show}
+|~名前|~時期|~内容|~備考|h
+|[[hantasma]]|2026/1/11～|設立前に[[BOSS>>野茨　来華]]が度々遭遇し、関係を持った黒い組織。&br()武器屋に接近するまでは[[アドミゲス・ハン]]から銃を買うことができる。||
+|[[文殊　セイジ]]|2026/6/6～|設立時に居合わせ、小型犯罪をレクチャーしたり釣りに同行している。||
+//|[[名前]]|2026/mm/dd|内容|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//項目の用途が違うなどありましたら削除か非表示をお願いします。(bsdowner)
+
+//
+#co(非表示){
+//***過去メンバー
+#table_style(head=#696969:#F9FCFF)
+|~名前|~加入日|~脱退日|~備考|h
+|名前|加入日|yyyy/mm/dd|備考|
+|名前|加入日|yyyy/mm/dd|備考|
+//|名前|加入日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+#co(非表示){
+**拠点
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
+|~番地|~場所|~通称|~管理者|~備考|h
+|番地|場所|通称|管理者|備考|
+|番地|場所|通称|管理者|備考|
+|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+**歴史
+***2026年
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+|6/6|[[ギャング]]設立を宣言|[[野茨　ライカ>>野茨　来華]]||
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#right(){&link_up(🔝ページTOPへ)}

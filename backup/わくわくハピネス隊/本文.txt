@@ -1,0 +1,271 @@
+#co(){
+コピペ用【テーブル】
+|[[]]||||||
+|[[]]||||||
+|[[]]||||||
+}
+//&image(ここに画像のURLを入力,y=300)
+
+#table_style(head=#C0C0C0){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(わくわくはぴねすたい){わくわくハピネス隊}|
+|~略称|~&space()&icon_fa(fa fa-comment)&space()|わくハピ|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年4月25日&br()&small(){（&countup(2026/04/24,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[アヌギフ　白川]]|
+|~組織体系|~&space()　&space()|事業サポートギルド|
+//|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|××××番地|
+//|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|施設名|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**基本情報
+-[[わくわくハーデス隊]]で[[ギャング]]として活動することに限界を感じたメンバー達が改めて活動内容を見直し白の組織として再出発した団体。&br()あくまで組織としての活動についてでありメンバーが個人的に犯罪を行ったり黒組織に所属することを禁止してはいない。
+-それぞれの起床率や人脈を活用し人と人や組織を繋ぐギルドのような存在を目指している。
+-裏の目標として[[アヌギフ　白川]]を市長にすることは残っており、白の組織としての信頼を獲得し、もしも市長選があったのならわくハピのマスターがアヌギフであるということで票を集めようと画策している。
+
+***活動内容
+-メンバーで集まり最近の街の出来事や情勢、各々のやりたい事についてなどの会議(情報交換)を行う。
+-アイデアを膨らませ「わくワーク」などの事業に発展させる。&br()なおそれぞれの事業については全員が参加するというわけではなく数人の中心人物を決め他のメンバーは適度に協力する形となっている。
+
+**メンバー
+#region(開く,open)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){加入日=hide,呼び名=hide,役職=show,備考=show,配信=show}
+|~名前|~加入日|~呼び名|~役職|~備考|~配信|h
+|[[アヌギフ　白川]]|2026/4/25||ギルドマスター|担当部門：G.O.L.D&small(){（代表）}|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kakigame116]]|
+|[[高橋　滅論]]|2026/4/25||サブマスター|担当部門：ロスラジ・LosNews&small(){（代表）}|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/holonsc2]]|
+|[[飯田　けんつ]]|2026/4/25||ブックマスター|担当部門：わくワーク&small(){（代表）}|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kentsumeshi_heyoo]]|
+|[[亀山　hero]]|2026/4/25||レストランマスター||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kamehirosi]]|
+|[[丘猫　まる]]|2026/4/25||キッズマスター||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/soraposhich]]|
+|[[Lv〇　チンピラ]]|2026/4/25||マネーマスター||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/pira_real]]|
+|[[銭形　やいち郎]]|2026/4/25||ちょびヒゲマスター||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/yaicin_heros]]|
+|[[ジョーカー>半沢　直ふぃ]]|2026/4/25||アイドルマスター||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/selphyyyyy]]|
+|[[アルタ・スカイブルー]]|2026/4/25||スペースマスター|担当部門：LOSTIMES-ロスタイムズ-&small(){（代表）}|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/atra_san]]|
+|[[モーガン・フリーザン]]|2026/4/25||解散マスター||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/tossin1]]|
+|[[マッハボクシング　ドク]]|2026/5/10||トレンディマスター||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/desudoc]]|
+|[[ブロッコリー　斎藤]]|2026/5/10||ポリスマスター||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/nekemaru614]]|
+|[[剛力　たけし]]|2026/5/10||スポーツマスター||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/jajamaru_hnti]]|
+|[[ボイラ　テンガリン]]|2026/6/10||海坊主マスター||&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/boiraischerry]]|
+
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+//
+#co(){
+//***協力関係
+#region(開く,open)
+#table_style(head=#696969:#F9FCFF)
+|~名前|~関係性|~備考|
+||||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+//***過去メンバー
+#region(開く)
+#table_style(head=#696969:#F9FCFF)
+|~名前|~加入日|~脱退日|~備考|h
+|名前|加入日|yyyy/mm/dd|備考|
+|名前|加入日|yyyy/mm/dd|備考|
+//|名前|加入日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+}
+
+**プロジェクト一覧
+//#region(開く,open)閉じる
+***&anchor(わくワーク,option=nolink){}&font(18px){わくワーク}&aname(わくワーク)
+#region(開く,open)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){カテゴリー=show,関係者=show,事業内容=show,備考=show}
+|~カテゴリー|~事業内容|~関係者|~備考|h
+|人材紹介|ジョブマッチングサービス|代表：[[飯田　けんつ]]&br()総合窓口：[[惑朽　ルーシー]]&br()その他窓口：[[飯田　けんつ]]、[[高橋　滅論]]、[[アルタ・スカイブルー]]&br()WEBアプリ制作：[[星詠　あう]]|[[星詠　あう]]が加入|
+
+&image(わくワーク_WEBアプリトップページ.png,x=300,y=170)
+
+#slide_img(auto=2,width=300,height=189){わくワーク_けんつ名刺.jpg,わくワーク_名刺_ルーシー.jpg,わくワーク_名刺_亀山.jpg,わくワーク_名刺_丘猫まる.jpg,わくワーク_名刺_ジョーカー.jpeg,わくワーク_名刺_銭形.jpg,わくワーク_名刺_モーガン.jpg,わくワーク_名刺_アヌギフ白川.jpg}
+
+-ジョブマッチングサービス：わくワーク&br()仕事を探している住民と従業員を増やしたい店舗を繋ぐことを目的としている。
+-住民に各種データを登録してもらい、そのリストを店舗等の経営者に見てもらい条件に会う人材を探す。
+-利用金額は成約した場合企業に対して一人あたり10万円を払ってもらう予定。つまりほぼ慈善事業のつもりで運営している。
+-専用のWEBアプリを[[星詠　あう]]に依頼し制作してもらった。(その後わくワーク社員として加入。)
+#endregion
+
+***&anchor(わんぱくレースバトル,option=nolink){}&font(18px){わんぱくレースバトル}&aname(わんぱくレースバトル)
+#region(開く,open)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){カテゴリー=show,関係者=show,事業内容=show,備考=show}
+|~カテゴリー|~事業内容|~関係者|~備考|h
+|イベント|レース|代表：[[高橋　滅論]]&br()||
+-車同士の接触ありで積極的にぶつけ合うわんぱくなバトルレース。
+-複数チームに分かれそれぞれのリーダーを決めその人物が先にゴールしたチームの勝利となる。チームメンバーは車でアタックをし相手の妨害を狙う。
+-白の組織として法律面や危険性の懸念点について警察にも説明・相談を行っている。
+#endregion
+
+***&anchor(ロスラジ,option=nolink){}&font(18px){ロスラジ}&aname(ロスラジ)
+#region(開く,open)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){カテゴリー=show,関係者=show,事業内容=show,備考=show}
+|~カテゴリー|~事業内容|~関係者|~TwiX|~備考|h
+|メディア|ラジオ|代表：[[高橋　滅論]](仮)|@losradio|[[ボイラ　テンガリン]]が加入|
+
+&image(ロスラジ_ロゴ.jpg,x=300,y=170)
+
+-街の中で聞けるラジオ番組の放送を行う。
+-制作側の負担を減らすために基本的に生放送のトーク番組としている。
+-アプリPixelLinkを使っての放送→音が聞こえないなどの歪みが多かったため無線または六法での配信スタイルへ変更。
+#region(番組一覧)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){番組名=show,初回放送日=hide,パーソナリティー=hide,概要=show}
+|~番組名|~初回放送日|~パーソナリティー|概要|h
+|ロスナンデス|2026/5/27|回によって異なる|街の中で起こった出来事を紹介、&br()そのことについてのトークをする番組|
+|亀山Heroの喋っていいですとも！|2026/6/25|[[亀山　Hero]]|毎回ゲストを招き、最後にそのゲストが&br()次のゲストを紹介する数珠つなぎ形式のトーク番組|
+|運命診断士アヌギフ白川の&br()ディスティニーストーリーテラー|2026/7/05|メイン：[[アヌギフ　白川]]&br()秘書：[[高橋　滅論]]|（主に）新規住民を呼んで今後の進路を独断で決める番組|
+|揚物ころもの突撃インタビュー！|2026/7/12|[[揚物　ころも]]、&br()[[亀山　Hero]]|揚物ころもに普段聞けないような話を聞き出して貰おうという番組|
+|ロスサントスステーション|2026/8/30|[[揚物　ころも]]、&br()[[亀山　Hero]]|司会の揚物ころも＆亀山ヒロが&br()アーティストの方と音楽を聴きながらトークする音楽番組|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+&image(亀山Heroの喋っていいですとも!.png,y=170)
+&image(ロスサントスステーション_ロゴ.jpg,y=170)
+
+#endregion
+#endregion
+
+//ロスラジですが、今後番組が増えていきそうなので表にまとめました。修正点などがあれば自由に編集してくださって構いません。
+***&anchor(G.O.L.D【ガーディアンズオブロスサントスドリーム】,option=nolink){}&font(18px){G.O.L.D【ガーディアンズオブロスサントスドリーム】}&aname(G.O.L.D【ガーディアンズオブロスサントスドリーム】)
+#region(開く,open)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){カテゴリー=show,関係者=show,事業内容=show,備考=show}
+|~カテゴリー|~事業内容|~関係者|~TwiX|~備考|h
+|自警団|市民パトロール・治安維持活動|代表：[[アヌギフ　白川]]&br()|@gold|コンサル：[[ボイラ　テンガリン]]|
+
+&image(GOLD_ロゴ.png,x=280,y=280)
+&image(GOLD_集合写真.png,x=300)
+
+・市民なら誰でも入れる警察的な組織として立ち上げた。
+・パトロールなどを通じて市民の信頼を積み上げ、いずれ警察を超える組織になるのが目標。
+・警察の[[ジャック　馬ウアー]]、[[ましゃかり　トラボルタ]]に活動の許可を取りに行ったところ、好きにしたらいいと返事をもらっている。
+・制服はアーマーにヘルメットが基本装備。ちなみにアーマーは790円で購入できる。
+#region(メンバー)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){加入日=hide,備考=show}
+|~名前|~加入日|~備考|h
+|[[アヌギフ　白川]]|2026/6/10|発案者・ボス|
+|[[高橋　滅論]]|2026/6/10||
+|[[パン　チャン]]|2026/6/26|ルナガレージの禊として加入|
+|[[アルタ・スカイブルー]]|2026/6/26|パンチャンへの禊を提案した張本人として加入|
+|[[不働　めい]]|2026/6/26|最初は懐疑的だったが、アルタが入っているならと加入|
+|[[マッハボクシング　ドク]]|2026/6/26|G.O.L.DのTwix投稿を見て自覚が芽生え加入|
+|[[亀山　Hero]]|2026/6/27||
+|[[剛力　たけし]]|2026/6/27||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+#endregion
+
+***&anchor(LOSTIMES-ロスタイムズ-,option=nolink){}&font(18px){LOSTIMES-ロスタイムズ-}&aname(LOSTIMES-ロスタイムズ-)
+#region(開く,open)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){カテゴリー=show,関係者=show,事業内容=show,備考=show}
+|~カテゴリー|~事業内容|~関係者|~TwiX|~サブスク|~備考|h
+|メディア|新聞|代表：[[アルタ・スカイブルー]]&br()|@lostimes|ID:46||
+
+&image(ロスタイムズ_ロゴ.png,y=300)
+
+#region(発行された記事の一例)発行された記事の一例
+|&blankimg(ロスタイムズ_202606-1.jpg,x=225,y=300)|&blankimg(ロスタイムズ_202606-2.jpg,x=225,y=300)|&blankimg(ロスタイムズ_202606_-3.jpg,x=225,y=300)|
+|&blankimg(ロスタイムズ_202606-4.jpg,x=225,y=300)|&blankimg(ロスタイムズNo.5.jpg,x=225,y=300)|&blankimg(ロスタイムズNo.6.jpg,x=225,y=300)|
+|&blankimg(ロスタイムズNo.7.jpg,x=225,y=300)|&blankimg(ロスタイムズNo.8.jpg,x=225,y=300)|&blankimg(ロスタイムズNo.16.jpg,x=225,y=300)|
+
+#endregion
+・街の出来事を見出しだけで伝え、詳細は各自で調べてもらう方式の媒体。
+・文章よりビジュアル重視のサムネイル的な構成。
+・各店舗に配布し、欲しい人に手渡しする形式をとっている。
+・バックナンバーはサブスク特典として配布。
+・No.8の記事の内容についてとある[[ギャング>>餡ブレラ]]とトラブルとなり、最終的にアルタは記事を書くのを止めることになる。主に記者として協力していた滅論も引継ぎできない事情があり、休刊となった。
+・約1か月の休刊の後、黒ネタは扱わない・第三者の内容チェックを受けるという方針転換を行い、アルタひとりの事業として発行を再開。
+#endregion
+
+//職業・施設一覧（Season2）のメディア業欄にて２つの新聞について追記したいため、項目を分けてみました。記載内容等の追記・修正歓迎です。
+***&anchor(LosNews-ロスニュース-,option=nolink){}&font(18px){LosNews-ロスニュース-}&aname(LosNews-ロスニュース-)
+//ロゴは大文字ですが滅論さんのツイートなどは「LosNews」表記なのでこちらで統一
+#region(開く,open)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){カテゴリー=show,関係者=show,事業内容=show,備考=show}
+|~カテゴリー|~事業内容|~関係者|~TwiX|~サブスク|~備考|h
+|メディア|新聞|代表：[[高橋　滅論]]&br()|@losnews|||
+
+&image(LOSNEWS_ロゴ.png,y=200)
+
+#region(発行された記事の一例)発行された記事の一例
+|&blankimg(LosNews_No.1.jpg,x=225,y=300)|&blankimg(LosNews_No.2.jpg,x=225,y=300)|&blankimg(LosNews_No.3.jpg,x=225,y=300)|
+#endregion
+・LOSTIMESがトラブルにより休止した際、新聞文化を絶やさないために滅論が個人で始めた媒体。
+・見出しのみ・画像重視・無料配布という点はLOSTIMESを踏襲しているが、紙面構成の違いや黒市民イベントも取り扱う方針などで差別化されている。
+#endregion
+
+//
+//
+#co{
+
+//***&anchor(事業名,option=nolink){}事業名&aname(事業名)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){カテゴリー=show,関係者=show,事業内容=show,備考=show}
+|~カテゴリー|~事業内容|~関係者|~備考|h
+|カテゴリー|事業内容|代表：[[名前]]&br()||
+
+&image(画像,x=280,y=280)
+-情報を記述
+
+}
+//#endregion(プロジェクト一覧)
+
+//プロジェクト一覧の項で折りたたみ(region)の入れ子構造により全体での横スクロールが発生してしまい読みづらいと感じたため一旦全体の折りたたみは非表示にしてみたのですがどうでしょうか?
+//読みやすくなったのでいいと思います。ありがとうございます。
+**拠点
+・特定の拠点を持たず街の中でなんかいい感じの雰囲気の建物を勝手に使ったり飯田書店を借りたりしている。
+#co(){
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
+|~番地|~場所|~通称|~管理者|~備考|h
+|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+//|番地|場所|通称|管理者|備考|
+}
+**歴史
+***2026年
+#region(開く,open)
+#table_style(head=#696969:#F9FCFF)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+|04/25|わくハピ正式発足|[[滅論>>高橋　滅論]]、[[アヌギフ>>アヌギフ　白川]]、[[けんつ>>飯田　けんつ]]、[[亀山>>亀山　Hero]]、|ギャングではなく白い組織として再スタート|
+|05/02|わくワーク正式始動|[[飯田　けんつ]]|TwiXにてジョブマッチング「わくワーク」の始動告知を行った|
+|05/05|わくワーク運用開始||WEBアプリ運用開始、企業・住民への声掛けを始める|
+|05/27|ロスラジ初回放送|メインMC：[[飯田　けんつ]]/[[Lv〇　チンピラ]]&br()ゲスト：[[マッハボクシング　ドク]]/[[ブロッコリー　斎藤]]/[[ボイラ　テンガリン]]|アプリ「PixelLink」を使用しての生放送。&br()「ロスナンデス」カイリキバーガー閉店事件/警察復職署名について語る &font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/venMrHwHKog?si=eH9Gij3xoOdUWPRa]]|
+|06/10|G.O.L.D発足|[[アヌギフ　白川]]|アヌギフの発案により発足|
+|06/13|ロスラジ第2回放送|メインMC：[[ボイラ　テンガリン]]/[[ブロッコリー　斎藤]]&br()ゲスト：[[上田　さん]]/[[揚物　ころも]]|無線を使用しての生放送。無線番号70.3。&br()「ロスナンデス」上田あげころの転売事件以降の諸々について語る &font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/PD_08RiDmBk?si=IMOWrLhHYeSgkrIz]]|
+|06/17|ロスタイムズ第一号発行|[[アルタ・スカイブルー]]/[[高橋　滅論]]|各店舗や公務員へロスタイムズを配った|
+|06/25|ロスラジ第3回放送|司会：[[亀山　Hero]]&br()ゲスト：[[ジョアンナ　町田]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/KyCPyy9KNcY?si=EXgL4Jg-jyshYpxH]]|
+|07/03|ロスラジ第4回放送|司会：[[亀山　Hero]]&br()ゲスト：[[天羽　よつは]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/TebZqwp3Cls?si=TBYRr07KvhxWVYLL]]|
+|07/05|ロスラジ第5回放送|運命診断士：[[アヌギフ　白川]]&br()ゲスト：[[ゼペ・アルテミス]]|無線を使用しての生放送。無線番号70.3。&br()「運命診断士アヌギフ白川のディスティニーストーリーテラー」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/s0UeFRD07fw?si=UyLWMUKAO4SOPLfy]]|
+|07/09|ロスラジ第6回放送|司会：[[亀山　Hero]]&br()ゲスト：[[カテジ]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/wRj3UNV8tBI?si=g6VvBXLyEK4W5jHG]]|
+|07/12|ロスラジ第7回放送|インタビュワー：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[脇　逢魔]]|無線を使用しての生放送。無線番号70.3。&br()「揚物ころもの突撃インタビュー！！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/PeYBQNONDM8?si=RWcis1A8uCKATAPG]]|
+|07/17|ロスラジ第8回放送|司会：[[亀山　Hero]]&br()ゲスト：[[雷堂　ましろ]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/OWFDk1i7hmI?si=bazBLudCxXcASNlb]]|
+|07/22|ロスラジ第9回放送|司会：[[亀山　Hero]]&br()ゲスト：[[マッハボクシング　ドク]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/GRfYuBSwOtM?si=1rY3Qv22VGoDky_3]]|
+|07/23|LosNews第一号発行|[[高橋　滅論]]|新たな新聞として高橋滅論が作成|
+|07/29|ロスラジ第10回放送|司会：[[亀山　Hero]]&br()ゲスト：[[不働　めい]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/W9LvFkNSUWc?si=h1O1JoUSpZwnC1lP]]|
+|07/31|ロスラジ第11回放送|インタビュワー：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[山田　カイキ]]|六法を使用しての生放送。&br()「揚物ころもの突撃インタビュー！！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/Wsk7PokQylk?si=1aC1_cTylBqpvWA5]]|
+|08/07|ロスラジ第12回放送|司会：[[亀山　Hero]]&br()ゲスト：[[灰部理　秀人]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 特別回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/ogDt73x_g1M?si=fkOKOdF5H8_nfUEy]]|
+|08/19|ロスラジ第13回放送|インタビュワー：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[ジョーカー]]|六法を使用しての生放送。&br()「揚物ころもの突撃インタビュー！！ 第3回」|
+|08/20|ロスラジ第14回放送|司会：[[亀山　Hero]]&br()ゲスト：[[ザ！！！コーラボーイ！！！]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第7回」|
+|08/30|ロスラジ第15回放送|司会：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[ダミ　アン]]・[[浪速漢D]]|六法を使用しての生放送。&br()「ロスサントスステーション 第1回」|
+
+//|mm/dd|出来事|関係者|備考|
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

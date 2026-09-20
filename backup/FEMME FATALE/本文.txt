@@ -1,0 +1,934 @@
+#co{名称変更が正式に行われ次第、ページ名変更&リダイレクトの申請、裏組織メニュー欄の変更をお願いします。(もしくは新規ページ作成？）}
+//【botリンク回避したいもの】→言い回し変更 or インライン化（＆font(){対象の単語}で統一）処置。
+//---<header>------------------------------------------------------------------//
+#center(){&image(logo_FEMME_FATALE.png,x=200,y=200)}
+#center(){&image(syugou_S2_2026_02_05.jpg,x=600)}
+
+#table_filter(){Season１=hide,Season２=show}
+#table_style(head=#000033:#E0697B)|~世界線|~&icon_fa(fa fa-earth-asia)|~Season１|~Season２|h
+|~店名|~&icon_fa(fa fa-tag)|>|&ruby(ファム){FEMME} &ruby(ファタール){FATALE}|
+|~業種|~&icon_fa(fa-solid fa-gun)|武器製造・販売|武器製造・調達・販売|
+|~設立日|~&icon_fa(fa fa-flag)|2024年5月28日|2025年12月24日|
+|~拠点|~&icon_fa(fa fa-map-marker)|4022番地付近|9002番地付近|
+|~所属|~&icon_fa(fa fa-users)|[[ARCANA]]|-|
+|~代表|~&icon_fa(fa-solid fa-user-tie)|>|[[ティエリ・ブッシュ>ヤブ下　安理]]|
+&openclose2(show=＞Season2における店名について){&br()Season2から店名変更の話有。店名が決まっておらず、現状名前のない「武器屋」と呼ばれている。}
+//上記店名について26/09/03不二子視点での発言をもとにしています。不確定な要素が多いため、最新情報で削除や更新等していただいて大丈夫です。
+#size(50%){　}
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+//---<基本情報>----------------------------------------------------------------//
+*&icon_fa(fa fa-gun)&font(#E0697B){ 基}本情報
+&font(17px,b,#808080){定石化した戦略へ彩を。日々の戦闘に華やぎを。}
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)概要　}
+&font()[[ティエリ・ブッシュ>ヤブ下　安理]]が代表を務める武器屋。
+
+#region(シーズン１)&b(){シーズン１}
+-街に無い新武器の製造および販売を主な事業とする。
+--&openclose2(show=新武器導入についての注意){&br()運営との長期かつ継続的な調整を行った上での導入を原則としている。&br()ただし、運営負担軽減のため、案出し・性能バランス・経済状況など、導入に至るまでの概の作業は[[無馬>無馬　かな]]が、素材状況やファーム関連の情報提供、資料管理は[[鬼野>鬼野　ねね]]が主体となって事業が行われている。}
+--作戦や役割に幅が広がり、戦略に楽しさを見出せる道具としての武器を提供することが目的。
+--そのため、汎用的で強い武器ではなく、特定の状況下で能力を発揮するピーキーな武器を取り扱う。
+-ジョブがつく武器商職。初期は「闇武器屋」表記であったが、警察システムにより露見する旨が共有されて以降、店舗名である「FEMME FATALE」へ変更された。
+
+-設立当初は、ARCANAの代表 [[無馬　かな]] が責任を担っていたが、将来的には部下へ譲渡しギャング以外の黒市民が働ける限定職として自立化して欲しい狙いがあり運営していた。
+--'24/08/30→ 手始めに、店一番の制作実績を持つ[[ティエリ>ヤブ下　安理]]へ経営権を譲渡。&br()今後の経営方針はティエリに一任。それに伴い、新武器の調整と開発作業は無馬もとい[[ARCANA]]へ巻き取られる形へ。
+-アルバイトを雇いパーツ制作の仕事をジョブ無しで行えないか調整中。
+--'24/08/06→ 砂漠のクラフト所に武器ステーションが追加され、武器製造ツールさえあれば各種パーツの制作が可能に。
+-'25/01/28、FEMME FATALE事業から、[[無馬>無馬　かな]]が完全撤退。
+--無馬から、間も無く街を去る予定であることが[[ティエリ>ヤブ下　安理]]に開示され、今後の武器屋事業の一切を引き渡すとともに、無馬及びARCANAが武器屋事業から完全離脱することになった。
+#endregion
+//
+#region(シーズン２,open)&b(){シーズン２}
+-市認可外武器の製造、調達および販売を主な事業とする。
+--γ世界線での黒市民向け武器の流通を一手に担う。
+-ジョブがある武器商職。ジョブ名は「Civilian」。
+#endregion
+//
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)由来　}
+「ファム・ファタール」という単語が由来。
+&nbsp(4)フランス語で"破滅をもたらすほど魅力的で運命的な女性"という意味を持つ。
+&openclose2(show=＞ロゴ){&br()&blankimg(logo_FEMME_FATALE.png,x=170,y=170)&nbsp(2)&blankimg(logo_FAMME FATALE.png,x=170,y=170)&br()左：最終ロゴ　　右：色付きロゴ&small(){※スペル確定前のものにつき注意}}
+//
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)ポリシー　}
+&font(b,u){命を奪う武器を扱うことに責任を持つ。}
+&image(listmarker.png,inline)提供する物の影響力の大きさを考え、街の情勢にも気を配る。
+&image(listmarker.png,inline)顧客との関係性において、あくまでビジネス関係を貫く。
+#size(30%){　}
+&font(b,u){犯罪であることを自覚する。}
+&image(listmarker.png,inline)犯罪の根源である武器を扱っていることを自覚し、露見時の責任は自身で負う覚悟を持つ。
+//
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)違法性について　}
+&image(listmarker.png,inline)市の認知外にて仕入れられる違法武器のため新武器のライセンス登録は不可。(S1)
+&image(listmarker.png,inline)所持していた場合は確実に銃刀法違反が切られる形へ。
+&image(listmarker.png,inline)現行法では所持のみ有罪だが、製造・販売も取締対象となることを予見し動く。
+&image(listmarker.png,inline)違法になることで、白市民が罪の意識なく手出しする状況を無くしたい考え。
+----
+#region(小ネタ エピソード/シーズン1)&b(){小ネタ エピソード/シーズン1}
+-従業員の制服を考える際に生雲丹がボスリスペクトにて考案した「なしましましま」概念が存在。&br()お披露目時は不評であったが、気に入った従業員は服のワンポイントとして縞模様をあしらうように。
+-受け渡し店舗の目の前にある砂漠のクラフト場へ日課のクラフトをこなしに来る小峯さんが、様子を見に来てくれることがある。
+-砂漠のクラフト所に追加された武器パーツは導入初日はWeapom Craft Toolが不要であったため、その日に制作していた場合武器屋の存在を知らずとも制作が可能あった。なお、当案件は日課で発見していた小峯さんより鬼野へ共有済。
+-一度、店前に沢山ヘリが止まっていた事を不審がった警察に見つかりそうになったが、たまたま居合わせた日課小峯さんによって「小峯さんがいろんな人に共有している倉庫」というその場しのぎの理由が受け入れられ、事なきを得た。
+-もしばれた場合、会員制のエモート研究会ということで誤魔化す予定があり、実際エモート研究も行っている。
+-どうしても誤魔化しきれない際は戦闘も辞さない。そのため、店内のスタッシュにはティエリが持ち込んだ銃が置いてある。
+-医療用品クラフトを行っていた日課小峯さんは、警察捜査班によって武器クラフトをしていると怪しまれているが、それを面白がった当人によって用事が終わった現在も武器クラフト台に通っている。
+-違法化して欲しい狙いを持つ無馬によって警察へ一部情報の共有&openclose2(show=※){&nbsp(br,2)特定の時間に集まりがあることと、そのおおよその時間、小峯さんは関係ないこと、過去自分が関わっていたこと、など。&br()}が行われた。
+#endregion
+#region(小ネタ エピソード/シーズン2)&b(){小ネタ エピソード/シーズン2}
+-&s(){エゴサがしづらいため}組織名変更の可能性あり。
+-給料は基本週１程度の手渡しだが、ボーナス等も存在する。また、個人の車や共用の船の購入など福利厚生がある。つんの給料についてはティエリとのチンチロによって決まる。（つん勝利:×1.5、負け:×0.5）
+-チャーハン事件解決後、ティエリつん不二子の３人で各々の経歴について話した。加入した理由、紹介元や前世界線での関わりなどが共有された。
+-γ世界線でもエモート研究は継続。店舗での雑談時や資金洗浄時に研究されることが多い。SHIRAHAとの顔合わせ時は上からティエリ、つん、不二子の順に担がれた状態でお出迎えした。
+-強奪ミッションは退勤時でも受注可能。箱も受注後なら誰でも漁れる状態になる。受注後30分ほどでリセットされる。
+//&font(9,#bbb){(CTなし？)}
+#endregion
+//
+//---<活動情報>----------------------------------------------------------------//
+*&icon_fa(fa fa-users-rays)&font(#E0697B){ 活}動情報
+//---<武器製造>----------------------------------------------------------------//
+**&font(#000000){&icon_fa(fa-solid fa-gears)} 武器製造　
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season１}}
+
+#region(開く)
+[[ARCANA]]によって輸入・開発された新武器の製造。
+&image(listmarker.png,inline)製造ラインは、知識や技能によって段階的に分けられている。
+&image(listmarker.png,inline)新武器のレシピ受取頻度は月1を目安に調整。
+***&underdot(#E0697B,3px){1. 素材製造　}
+本品を作るためのパーツ製造。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)製造方法は、既存武器分解からの流用か、流通素材による製造。
+&image(listmarker.png,inline)専用設備のみで制作可能。
+&image(listmarker.png,inline)必要熟練度や費用はロケラン素材以外は0。素材のみ使用。
+}
+#size(40%){　}
+#region(専用クラフトテーブル)&b(){専用クラフトテーブル}　&small(){※労働力は初期値}
+#size(90%){#table_style(head=center:11px:#000033:#E0697B){名称=b:#F7F7F7,手法=b:center:#FFF4F6,材料=#FFF4F6,個数=#FFF4F6:center,労力=#FFF4F6:center,備考=11px}
+|~名称|~手法|~材料|~個数|~労力|~備考|h
+|MIDDLE:Attachament&br()Parts|MIDDLE:解体|Grip ×1|5|250|全ての武器アタッチメントへ&br()流用可能なパーツ|
+|~|~|Suppressor ×1|2|300|~|
+|~|~|Tactical Suppressor ×1|5|300|~|
+|~|~|Macro Scope ×1|2|100|~|
+|~|~|Small Scope ×1|2|100|~|
+|~|~|Medium Scope ×1|5|250|~|
+|~|~|Extendsd Pistol Clip ×1|1|50|~|
+|~|~|Extendsd Rifle Clip ×1|1|50|~|
+|~|~|Extendsd SMG Clip ×1|1|50|~|
+|~|~|Extendsd Shotgun Clip ×1|1|50|~|
+|~|~|Tactical Flashlight ×1|2|100|~|
+|~|~|Heavy Barrel ×1|2|100|~|
+|~|~|Compensator ×1|1|50|~|
+|~|BGCOLOR(#F4FFF4):MIDDLE:製造|BGCOLOR(#F4FFF4):Iron ×2&br()Metal Scrap ×2&br()Steel ×5|BGCOLOR(#F4FFF4):MIDDLE:1|BGCOLOR(#F4FFF4):MIDDLE:10|~|
+|MIDDLE:Handgun Parts|MIDDLE:解体|Heavy Pistol ×1|3|150|全てのピストル武器へ&br()流用可能なパーツ|
+|~|~|Pistol ×1|2|100|~|
+|~|~|Pistol MK2 ×1|2|100|~|
+|~|~|AP Pistol ×1|5|250|~|
+|~|~|Navy Revolver ×1|7|350|~|
+|~|BGCOLOR(#F4FFF4):MIDDLE:製造|BGCOLOR(#F4FFF4):Iron ×5&br()Metal Scrap ×5&br()Steel ×5|BGCOLOR(#F4FFF4):MIDDLE:1|BGCOLOR(#F4FFF4):MIDDLE:50|~|
+|MIDDLE:SG Parts|MIDDLE:解体|Sawn OFF Shotgun ×1|1|100|全てのショットガン武器へ&br()流用可能なパーツ|
+|~|~|Pump Shotgun ×1|2|100|~|
+|~|~|Pump Shotgun MK2 ×1|2|100|~|
+|~|BGCOLOR(#F4FFF4):MIDDLE:製造|BGCOLOR(#F4FFF4):Aluminum ×10&br()Iron ×10&br()Metal Scrap ×10|BGCOLOR(#F4FFF4):MIDDLE:1|BGCOLOR(#F4FFF4):MIDDLE:100|~|
+|MIDDLE:SMG Parts|MIDDLE:解体|SMG ×1|2|100|全てのサブマシンガン武器へ&br()流用可能なパーツ|
+|~|~|SMG MK2 ×1|2|100|~|
+|~|~|Mini SMG ×1|2|100|~|
+|~|~|Micro SMG ×1|2|100|~|
+|~|~|Assault SMG ×1|3|150|~|
+|~|BGCOLOR(#F4FFF4):MIDDLE:製造|BGCOLOR(#F4FFF4):Aluminum ×10&br()Iron ×5&br()Metal Scrap ×10|BGCOLOR(#F4FFF4):MIDDLE:1|BGCOLOR(#F4FFF4):MIDDLE:50|~|
+|MIDDLE:Rifle Parts|MIDDLE:解体|Assault Rifle ×1|1|100|全てのアサルトライフル武器へ&br()流用可能なパーツ|
+|~|~|Assault Rifle MK2 ×1|1|100|~|
+|~|~|Carbine Rifle ×1|2|200|~|
+|~|~|Carbine Rifle MK2 ×1|2|200|~|
+|~|~|Adovanced Rifle ×1|2|200|~|
+|~|~|Bullpup Rifle MK2 ×1|2|200|~|
+|~|BGCOLOR(#F4FFF4):MIDDLE:製造|BGCOLOR(#F4FFF4):Aluminum ×10&br()Iron ×10&br()Metal Scrap ×15|BGCOLOR(#F4FFF4):MIDDLE:1|BGCOLOR(#F4FFF4):MIDDLE:100|~|
+|MIDDLE:RL Parts|MIDDLE:解体|RPG ×1|3|450?|ロケットランチャーへ&br()流用可能なパーツ&br()&br()製造時に現金が必要&br()¥2,800,000?|
+|~|BGCOLOR(#F4FFF4):MIDDLE:製造|BGCOLOR(#F4FFF4):Aluminum ×50&br()Copper×50&br()Glass×50&br()Iron ×50&br()Merryweather parts ×1|BGCOLOR(#F4FFF4):MIDDLE:1|BGCOLOR(#F4FFF4):MIDDLE:150?|~|
+|MIDDLE:Weapom Craft Tool|BGCOLOR(#F4FFF4):MIDDLE:製造|BGCOLOR(#F4FFF4):Iron ×50&br()Plastic ×30&br()Steel ×20|BGCOLOR(#F4FFF4):MIDDLE:1|BGCOLOR(#F4FFF4):MIDDLE:100|輸入武器を制作する際に&br()必要なツール|
+}
+#endregion(クラフトテーブル)
+#size(30%){　}
+#region(一般クラフトテーブル（砂漠クラフト所）)&b(){一般クラフトテーブル（砂漠クラフト所）}　&small(){※労働力は初期値}
+#size(90%){#table_style(head=center:11px:#000033:#E0697B){名称=b:#F7F7F7,材料=#F4FFF4,労力=#F4FFF4:center,価格=#F4FFF4:right,備考=11px}
+|~名称|~材料|~労力|~価格|~備考|h
+|MIDDLE:Attachament&br()Parts|Iron ×2&br()Metal Scrap ×2&br()Steel ×5&br()Weapom Craft Tool ×1|MIDDLE:50|MIDDLE:¥0|全ての武器アタッチメントへ&br()流用可能なパーツ|
+|MIDDLE:Handgun Parts|Iron ×5&br()Metal Scrap ×5&br()Steel ×5&br()Weapom Craft Tool ×1|MIDDLE:150|MIDDLE:¥0|全てのピストル武器へ&br()流用可能なパーツ|
+|MIDDLE:Rifle Parts|Aluminum ×10&br()Iron ×10&br()Metal Scrap ×15|MIDDLE:100|MIDDLE:¥0|全てのアサルトライフル武器へ&br()流用可能なパーツ|
+|MIDDLE:RL Parts|Aluminum ×50&br()Copper×50&br()Glass×50&br()Iron ×50&br()Merryweather parts ×1&br()Weapom Craft Tool ×1|MIDDLE:100|MIDDLE:¥4,000,000|ロケットランチャーへ&br()流用可能なパーツ|
+|MIDDLE:SG Parts|Aluminum ×10&br()Iron ×10&br()Metal Scrap ×10|MIDDLE:100|MIDDLE:¥0|全てのショットガン武器へ&br()流用可能なパーツ|
+|MIDDLE:SMG Parts|Aluminum ×10&br()Iron ×5&br()Metal Scrap ×10|MIDDLE:50|MIDDLE:¥0|全てのサブマシンガン武器へ&br()流用可能なパーツ|
+}
+#endregion(クラフトテーブル)
+
+//
+***&underdot(#E0697B,3px){2. 組立製造　}
+パーツを用いた本品の組立製造。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)専用設備のみで制作可能。
+&image(listmarker.png,inline)レシピから得られる専門知識必須。
+}
+#size(40%){　}
+#region(専用クラフトテーブル)&b(){専用クラフトテーブル}　&small(){※労働力は初期値、～集計中～}
+#size(90%){#table_style(head=center:11px:#000033:#E0697B){名称=b:#F7F7F7,材料=#F4FFF4,労力=#F4FFF4:center,備考=11px}
+|~名称|~材料|~労力|~備考|h
+|Extendsd Shotgun Clip|Attachament Parts ×2|5||
+|Extendsd Rifle Clip|Attachament Parts ×1|5||
+|Extended MG Clip|Attachament Parts ×2|5||
+|Extended Shotgun Clip|Attachament Parts ×2|5||
+|Large Scope|Attachament Parts ×3|5||
+|||||
+|Micro SMG|SMG Parts ×4|5||
+|Sawn off Shotgun|SG Parts ×3|10||
+|RPG|RL Parts ×6|10||
+|MIDDLE:RPG弾頭|Aluminum ×300&br()Copper×300&br()Glass×300&br()Iron ×300&br()Merryweather parts ×1|MIDDLE:1500|製造に現金が必要&br()¥30,000,000|
+|||||
+|MIDDLE:AP Pistol|Handgun Parts ×10&br()Weapom Craft Tool ×1|MIDDLE:10|必須学習&br()「【レシピ】AP Pistol」|
+|MIDDLE:Navy Revolver|Handgun Parts ×15&br()Weapom Craft Tool ×1|MIDDLE:100|必須学習&br()「【レシピ】ネイビーリボルバー」|
+|MIDDLE:Revolver MK2|Handgun Parts ×5&br()Weapom Craft Tool ×1|MIDDLE:10|必須学習&br()「【レシピ】ヘビーリボルバー」|
+|MIDDLE:Machine Gun|SMG Parts ×12&br()Weapom Craft Tool ×1|MIDDLE:5|必須学習&br()「【レシピ】Machine Gun」|
+|MIDDLE:Special Carbine|Rifle Parts ×7&br()Weapom Craft Tool ×1|MIDDLE:10|必須学習&br()「【レシピ】Special Carbine」|
+|MIDDLE:Special Carbine MK2|Rifle Parts ×7&br()Weapom Craft Tool ×1|MIDDLE:10|必須学習&br()「【レシピ】Special Carbine」|
+|MIDDLE:Heavy Shotgun|SG Parts ×7&br()Weapom Craft Tool ×1|MIDDLE:10|必須学習&br()「【レシピ】ヘビーショットガン」|
+|MIDDLE:Sniper Rifle|Rifle Parts×5&br()Weapom Craft Tool ×1|MIDDLE:10|必須学習&br()「【レシピ】スナイパーライフル」|
+|||||
+|各種レシピ|紙 ×5|50|Boss権限者のみ|
+|武器受注書|紙 ×1|1|Boss権限者のみ|
+}
+#endregion(クラフトテーブル)
+#endregion
+
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season２}}
+主に&openclose2(show=？？？){[[無馬かな>>無馬　かな]]}から輸入・開発された武器の製造。
+&image(listmarker.png,inline)パーツを介すことなく、素材から製造ができる。
+//&image(listmarker.png,inline)新武器等は時期を見ながらレシピを伝達される。
+***&underdot(#E0697B,3px){  武器製造　}
+素材を用いた本品の製造。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)専用設備のみで制作可能。
+&image(listmarker.png,inline)従業員区分によりクラフト数量が異なる。&font(9,#bbb){※現在BOSS権限保持者のみが2052･アジトテーブルで5倍数量クラフト可。}
+}
+#size(40%){　}
+#region(専用クラフトテーブル（9023、2052、アジト）)&b(){専用クラフトテーブル（9023、2052、アジト）}
+#size(90%){#table_style(head=center:11px:#000033:#E0697B){名称=b:#F7F7F7,数量=#F4FFF4,材料=#F4FFF4,労力=#F4FFF4:center,備考=11px}
+|~名称|~数量|~材料|~労力|~備考|h
+|9mm弾|30&br()&font(9,#bbb){BOSS権限のみ}&font(9,#666666){150}|Copper×20&br()Iron×10|10||
+||||||
+|Pistol|1&br()&font(9,#bbb){BOSS権限のみ}&font(9,#666666){5}|Iron×30&br()Plastic×5&br()Rubber×5&br()ステンレス×30&br()ネジ×10&br()バネ×5|20||
+||||||
+}
+#endregion(クラフトテーブル)
+
+//---<武器強奪ミッション>----------------------------------------------------------------//
+**&font(#000000){&icon_fa(fa-solid fa-user-secret)} 武器強奪ミッション　
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season２}}
+独自に武器の取り扱いを行う別の武器商人組織のアジトを襲撃し、武器を強奪する。
+&openclose2(show=　▸ミッション計画の経緯){&br()2026/03/04 ：[[Back　Alley]]から[[ティエリ>ヤブ下　安理]]にメッセージで連絡が入った。}
+FEMME FATALEでクラフトできない武器を調達できる。
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)ミッション概要　}
+&image(listmarker.png,inline)武器屋アジト（9022拠点）のデスクの資料を読む（ギャング武器強奪計画を開始する）ことで受注可能。
+&image(listmarker.png,inline)Stab City（3034番地）にある箱を３箱開け、傭兵を倒し武器を強奪する。
+&image(listmarker.png,inline)３種類の武器を手に入れることができる。
+//※2026/03/13時点情報
+※ 相手は武装した傭兵を雇っている可能性が高いため3〜4名での行動推奨。
+※ 入手物は自由に利用してよい。
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)ミッション協力者　}
+&image(listmarker.png,inline)戦力や商品在庫状況により、&openclose2(show=外部者){&bold(){（闇医者バッジ所有者(公開名簿)から選定）}}にも傭兵協力依頼して行っている。
+&image(listmarker.png,inline)&u(){報酬・補填}：傭兵には1人当たりBM150万報酬支給(治療費込み)、弾50発補填。
+//～26/03/18報酬・補填：傭兵には1人当たり現金100万支給、弾(使用数)と医療費補填。
+//～26/08/02報酬・補填：傭兵には1人当たりBM100万報酬支給(治療費込み)、弾50発補填。
+//26/08/03～1週間前ほどからドロップ&心なき増加のため報酬アップ。店長の判断でダウンした協力者には別途治療費負担になることもある。
+&image(listmarker.png,inline)'26/03/13にダークチャット「恐竜仕事」を作成。傭兵募集用のチャットとして稼働。
+
+//---<武器販売>----------------------------------------------------------------//
+**&font(#000000){&icon_fa(fa-solid fa-sack-dollar)} 武器販売
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season１}}
+
+#region(開く)
+製造した武器の販売。
+&image(listmarker.png,inline)店舗はなく、販売員から直接購入し指定日にて受取る形をとる。
+&image(listmarker.png,inline)取引には記録が残らない方法を取っており、案内・受注・受取にはひと手間挟まれる。
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)購入条件　}
+&image(listmarker.png,inline)利用通貨はブラックマネー(BM)のみ。
+&image(listmarker.png,inline)一度の購入に上限有り。
+&image(listmarker.png,inline)現在は組織ごとの購入に限定しているが、個人利用も検討中。
+//
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)受注・受取日　}
+2025/08/22~　[[エルメス>>ヤブ下　安理]]の逮捕、受注書の流出により、受注受取方法を変更。
+&image(listmarker.png,inline)受注日
+【毎週火曜日 24:00~24:30】
+【受付場所　&s(){10112 店舗内} スマホ内メッセージにて受注】
+&image(listmarker.png,inline)受取日
+【特急：水曜日 20:00~20:30】
+【通常：金曜日 20:00~20:30】
+【受取場所　&s(){10112 店舗内} クライアント指定場所】
+　&s(){受注時に渡されるオーダーシートを割符とする。}
+　受け渡しに間に合わなかった際はキャンセルへ。
+//3029番地店舗も今後利用する可能性あり。
+//
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)メニュー　}
+#region(最新,open)&b(){最新}：
+#endregion(最新)
+//
+#size(50%){　}
+#region(過去)&b(){過去}
+&image(listmarker.png,inline)&openclose2(show='24/6/11～6/15){&br()8209の階段上って右の扉を入った部屋。&br()&blankimg(MENU_'24-6-11.png,x=277,y=150)}
+#endregion(過去MENU)
+//
+
+***&size(120%){&bgcolor(#000033){&font(#E0697B,90%){&nbsp(2)&icon_fa(fa-solid fa-play)&nbsp(2)オプションサービス}&nbsp(23)}}
+****&underdot(#E0697B,3px){1. 特急サービス　}
+追加料金を払い、指定日より早くお渡しできるサービス。
+【現在：500万円／1丁（上限有り）】
+&image(listmarker.png,inline)労働力回復費用が購入価格に上乗せされる仕組み。
+&image(listmarker.png,inline)注文した次の日にお渡しが可能に。
+&image(listmarker.png,inline)現在の固定額制から各武器価格の倍額制になる予定。
+//
+****&underdot(#E0697B,3px){2. カスタムサービス　}
+追加料金を払いフルカスタム状態でお渡しするサービス。
+【値段制定中】
+&image(listmarker.png,inline)内訳は労働力とアタッチメント費用になる予定。
+//
+****&underdot(#E0697B,3px){※ 梱包について　}
+&image(listmarker.png,inline)一括でお渡しできるオリジナル鞄を制作予定。市と調整中。
+&openclose2(show=＞現在の案){&nbsp(br,2)&image(listmarker.png,inline)武器ケースのような外見。&nbsp(br,2)&image(listmarker.png,inline)組織ごとに分けられるように複数種類用意。&nbsp(br,2)&image(listmarker.png,inline)内容枠は多めに。&nbsp(br,2)&image(listmarker.png,inline)耐久は最低値で取り出しのみ可&nbsp(br,2)&image(listmarker.png,inline)押収対象となることを容認。}
+
+//
+***&size(120%){&bgcolor(#000033){&font(#E0697B,90%){&nbsp(2)&icon_fa(fa-solid fa-play)&nbsp(2)商品一覧}&nbsp(40)}}
+#region(商品一覧,close)
+#size(90%){#table_style(head=center:#000033:#E0697B){商品画像=b:center,種別=11px,価格=right,一口上限=right,備考=11px}
+#table_filter(){発売日=hide,商品画像=show,種別=hide,商品説明=show,価格=show,一口上限=show,備考=show}
+|~発売日|~商品画像|~商品名|~種別|~商品説明|~価格|~&small(){一口上限}|~備考|h
+|'24/06/11|MIDDLE:&image(img_navy_revolver_2.png,y=55)|[[NAVY REVOLVER>>https://w.atwiki.jp/gtav/pages/2526.html]]&br()&font(9,gray){ネイビー リボルバー}|ハンドガン|血塗れた白い銃身がボスの格を示すリボルバー。&br()&small(){重量：4.0kg　　弾種：45 ACP　　装填数：6発&br()Att：-}|*BOSS ONLY&br()¥10,000,000|1丁|海外の違法ブローカーから手に入れた輸入武器。&br()ボス（申告者1名）のみが携帯を許されている。&br()&openclose2(show=-調整内容){&nbsp(br,2)ヘビーリボルバーに近い仕様。&nbsp(br,2)アーマーを着ていなければ胴一発で仕留められる。&nbsp(br,2)装填速度はかなり遅く、サプレッサーは付かない。}|
+|'24/06/11|MIDDLE:&image(img_ap_pistol_2.png,y=55)|[[AP PISTOL>>https://w.atwiki.jp/gtav/pages/140.html]]&br()&font(9,gray){エーピー ピストル}|ハンドガン|唯一のフルオートピストル。&br()&small(){重量：1.4kg　　弾種：9mm　　装填数：18→36発&br()Att：EX PistolClip／Suppressor}|¥5,000,000|5丁|自社開発品&openclose2(show=※){&nbsp(br,2)無馬開発。プレリリース：'24/6/6&nbsp(br,2)夜鍋で複製したサンプルがお披露目される。}&br()「AP」は「アーマーピアシング弾(徹甲弾)」の略。&br()&openclose2(show=-調整内容){&br()トリガーを押しっぱなしで連射可。&br()「みんなが思ってる半分くらいのダメージ」&nbsp(br,2)MicroSMGに勝る箇所は無い。}&br()-性能テスト感想&openclose2(show=①){&nbsp(br,2)【小峯】&nbsp(br,2)状況次第ではマイクロSMGより強いと思われる。&nbsp(br,2)近距離は有遮蔽でマイクロSMGと同等。&nbsp(br,2)近～中距離はレートと精度都合でAPピストル有利。&nbsp(br,2)移動中の運転手を抜きやすい。}&openclose2(show=②){&nbsp(br,2)【JD】&nbsp(br,2)第三者目線、SMGと同じ感じに使える印象。}&openclose2(show=③){&nbsp(br,2)【イネヌコ】&nbsp(br,2)ハンドガンの中では強い。&nbsp(br,2)SMGほど射程距離は伸びない。&nbsp(br,2)シマ取りでは有用だが、大型では無用。}|
+|'24/07/17|MIDDLE:&image(img_special_carbine_mk2_2.png,y=55)|[[SPECIAL CARBINE MK2>>https://w.atwiki.jp/gtav/pages/1898.html]]&br()&font(9,gray){スペシャル カービン マークツー}|アサルト&br()ライフル|[[SPECIAL CARBINE>FEMME FATALE#SPECIAL_CARBINE]]の調整上位モデル。&br()&small(){重量：3.0kg　　弾種：5.56mm　　装填数：30→60発&br()Att：EX RifleClip／Tec Suppressor／Grip／MediumScope／HeavyBarrel}|¥7,000,000|10丁|自社開発品&openclose2(show=※){&nbsp(br,2)無馬開発。ププレリリース：'24/07/14、&nbsp(br,2)顧客調査により、調整品として開発された。}&br()過去存在したものとは別で新しく調整した銃。&br()&openclose2(show=-調整内容){&nbsp(br,2)利点は消えるが、ヘビーバレルを付けることが可能。}|
+|'24/07/09|MIDDLE:&image(img_machine_gun_2.png,y=55)|[[MACHINE GUN>>https://w.atwiki.jp/gtav/pages/790.html]]&br()&font(9,gray){マシン ガン}|ライト&br()マシンガン|精度は低いが街一番の威力を誇るマシンガン。&br()&small(){重量：9.0kg　　弾種：5.56mm　　装填数：54→100発&br()Att：EX MG Clip}|¥6,000,000|5丁|自社開発品&openclose2(show=※){&nbsp(br,2)無馬開発。プレリリース：'24/07/09}&br()対物性能に優れる銃。&br()&openclose2(show=-調整内容){&nbsp(br,2)HS倍率はなく精度はゴミ。&nbsp(br,2)サプレッサーは付かない。&nbsp(br,2)'24/10/15：威力を上方調整(約1.25倍)。}|
+|'24/08/06|MIDDLE:&image(img_ex_mg_clip.png,y=55)|Extended MG Clip&br()&font(9,gray){エクステンドマシンガンクリップ}|アタッチメント|MACHINE GUNの専用拡張マガジン。|¥1,000,000|所持&br()MG数|自社開発品&openclose2(show=※){&nbsp(br,2)無馬開発。プレリリース：'24/07/30}&br()|
+|'24/08/06|MIDDLE:&image(img_heavy_shotgun_2.png,y=55)|[[HEAVY SHOTGUN>>https://w.atwiki.jp/gtav/pages/1275.html]]&br()&font(9,gray){ヘビー ショットガン}|ショットガン|スラグ弾を利用したセミオートショットガン。&br()&small(){重量：3.6kg　　弾種：12 GAUGE　　装填数：6→12発&br()Att：EX ShotgunClip／Tec Suppressor／Grip}|¥7,000,000|3丁|自社開発品&openclose2(show=※){&nbsp(br,2)無馬開発。プレリリース：'24/08/06}&br()今後威力調整が入る可能性有。&br()見た目から&ruby(サイガ){Saiga}と呼ぶ者も。&br()&openclose2(show=-調整内容){&nbsp(br,2)従来の散弾ではなく単発のスラグ弾を利用。&nbsp(br,2)3発で確定する高い威力を持つ代わり、精度は悪い。&nbsp(br,2)マガジン給弾式のため連射が可能。&nbsp(br,2)'24/10/15：威力を上方調整(約1.6倍)。3確から2確へ。}|
+||MIDDLE:&image(img_heavy_rifle.png,y=55)|[[HEAVY RIFLE>>https://w.atwiki.jp/gtav/pages/2735.html]]&br()&font(9,gray){ヘビー ライフル}||。&br()&small(){重量：kg　　弾種：　　装填数：発&br()Att：／／}|¥5,000,000|丁|自社開発品&openclose2(show=※)&nbsp(br,2)|
+|||||||||
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion(商品)
+
+#region(カタログ画像,close)
+
+&image(MENU_'25-7-30.jpeg,y=400)
+
+#endregion(カタログ)
+
+//
+
+#region(商品一覧,close)
+略奪物資限定商品
+#size(90%){#table_style(head=center:#000033:#E0697B){商品画像=b:center,種別=11px,価格=right,一口上限=right,備考=11px}
+#table_filter(){発売日=hide,商品画像=show,種別=hide,商品説明=show,価格=show,一口上限=show,備考=show}
+|~発売日|~商品画像|~商品名|~種別|~商品説明|~価格|~&small(){一口上限}|~備考|h
+|'25/02/11|MIDDLE:&image(img_special_carbine_mk2_type_f.png,y=55)|[[Special Carbine MK2 TypeF>>https://w.atwiki.jp/gtav/pages/1898.html]]&br()&font(9,gray){スペシャル カービン マークツー タイプF}|アサルト&br()ライフル|[[Special Carbine MK2>FEMME FATALE#SPECIAL_CARBINE]]の上位調整モデル。&br()&small(){重量：3.0kg　　弾種：5.56mm　　装填数：60発&br()Att：EX RifleClip／Tec Suppressor／Grip／MediumScope／HeavyBarrel}|&small(){&openclose2(show=必要素材){&br()粗悪な改造パーツ(ライフル)x50&br()or&br()一般的な改造パーツ(ライフル)x10&br()+&br()アタッチメント(ブラック)x50}}|1丁|自社開発品&openclose2(show=※){&nbsp(br,2)ティエリカスタム。&nbsp(br,2)略奪物資を使った研究により、さらに改良された。}&br()&openclose2(show=-調整内容){&nbsp(br,2)集弾性能↑、リロード速度↑&nbsp(br,2)なお、一人称では連射出来ない模様。}|
+|'25/02/11|MIDDLE:&image(img_machine_gun_type_f.png,y=55)|[[Machine Gun TypeF>>https://w.atwiki.jp/gtav/pages/790.html]]&br()&font(9,gray){マシン ガン タイプF}|ライト&br()マシンガン|[[MACHINE GUN>FEMME FATALE#MACHINE_GUN]]の上位調整モデル。&br()&small(){重量：9.0kg　　弾種：5.56mm　　装填数：100発&br()Att：EX MG Clip／Small Scope}|&small(){&openclose2(show=必要素材){&br()粗悪な改造パーツ(重火器)x50&br()or&br()一般的な改造パーツ(重火器)x10&br()+&br()アタッチメント(カモ)x50}}|1丁|自社開発品&openclose2(show=※){&nbsp(br,2)ティエリカスタム。&nbsp(br,2)略奪物資を使った研究により、さらに改良された。}&br()&openclose2(show=-調整内容){&nbsp(br,2)射程↑、威力↑、精度↓}|
+|'25/02/11|MIDDLE:&image(img_heavy_shotgun_type_f.png,y=55)|[[Heavy Shotgun TypeF>>https://w.atwiki.jp/gtav/pages/1275.html]]&br()&font(9,gray){ヘビー ショットガン タイプF}|ショットガン|[[HEAVY SHOTGUN>FEMME FATALE#HEAVY_SHOTGUN]]の上位調整モデル。&br()&small(){重量：3.6kg　　弾種：12 GAUGE　　装填数：12発&br()Att：EX ShotgunClip／Tec Suppressor／Grip}|&small(){&openclose2(show=必要素材){&br()粗悪な改造パーツ(ショットガン)x50&br()or&br()一般的な改造パーツ(ショットガン)x10&br()+&br()アタッチメント(ゴールド)x50}}|1丁|自社開発品&openclose2(show=※){&nbsp(br,2)ティエリカスタム。&nbsp(br,2)略奪物資を使った研究により、さらに改良された。}&br()&openclose2(show=-調整内容){&nbsp(br,2)射程↑、距離減衰↓、ステルス弾道}|
+|||||||||
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion(商品)
+//
+
+***&underdot(#E0697B,3px){終了サービス　}
+#region(1. 優先サービス '24/07/09終了)&b(){1. 還元サービス '24/07/09終了}
+#openclose(show=＞詳細){従業員の確保や受注制度の調整が必要だった立ち上げ直後は、各組織の受注に優先順位が存在。
+&image(listmarker.png,inline)1回の注文毎に適用。
+&image(listmarker.png,inline)[[ARCANA]]の[[薬BM買取>ARCANA#薬BM買取]] + [[FEMME FATALE]]利用額にて算出。
+}
+#openclose(show=＞廃止までの優先度){１位：[[MOZU]]　約71.00億&br()２位：[[868]]　約41.10億&br()３位：[[IRiS]]　約30.10億&br()４位：[[麻陀羅組]]　約28.80億&br()５位：[[ALLIN]]　約26.20億&br()６位：[[GBC>GoodbyeCircus]]　約4.50億&br()７位：[[NO LIMIT]]　約3.60億&br()８位：[[餡ブレラ>anbrella(餡ブレラ)]]　約1.50億}
+#endregion
+#size(50%){　}
+#region(2. 還元サービス '24/08/06終了)&b(){2. 還元サービス '24/08/06終了}
+#openclose(show=＞詳細){[[ARCANA]]取引での実績を基にしたキャッシュバックサービス。
+&image(listmarker.png,inline)対象取引は[[BM買取>ARCANA#薬BM買取]]。
+&image(listmarker.png,inline)実績の25％をデポジットとし、購入商品の割引及び無償提供。
+}
+&anchor(デポジット表)
+#openclose(show=＞デポジット表){
+#table_style(head=center:#000033:#EAF4FC){組織名=b,優先度=10px,BM取引額=11px:right:#f9f9f9,25％デポ=b:right:#E8ECF2,残額=11px:right:#E8ECF2}
+#table_filter(){BM取引額=show,25％デポ=show,残額=show}
+|~組織名|~BM取引額|>|~25％デポ|~残額|h
+|[[MOZU]]|¥714,750,000|約1.79億|¥178,687,500|0円|
+|[[GBC>GoodbyeCircus]]|¥111,740,059|約0.28億|¥27,935,015|0円|
+|[[餡ブレラ>anbrella(餡ブレラ)]]|¥0|0円|¥0|-|
+|[[ALLIN]]|¥1,583,000,000|約3.96億|¥395,750,000|0円|
+|[[NO LIMIT]]|¥253,998,067|約0.64億|¥63,499,517|0円|
+|[[麻陀羅組]]|¥0|0円|¥0|-|
+|[[868]]|¥2,523,374,514|約6.31億|¥630,843,629|&b(){破棄}|
+#table_sorter{}
+&font(11,gray){デポ額：6桁切り上げ（デポ：デポジットの略。）}
+}
+#endregion(商品)
+//
+***&underdot(#E0697B,3px){終了商品　}
+#region(一覧)
+#size(90%){#table_style(head=center:#000033:#E0697B){商品画像=b:center,種別=11px,価格=right,一口上限=right,備考=11px}
+#table_filter(){発売日=hide,商品画像=show,種別=hide,商品説明=show,価格=show,一口上限=show,備考=show}
+|~発売日|~商品画像|~商品名|~種別|~商品説明|~価格|~&small(){一口上限}|~備考|h
+||MIDDLE:&blankimg(REVOLVER.png,x=60,y=60)|[[REVOLVER>>https://w.atwiki.jp/gtav/pages/1592.html]]&br()&font(9,gray){リボルバー}|ハンドガン|6発装填のリボルバー。&br()&small(){重量：2.35kg　　弾種：45 ACP　　装填数：6発&br()Att：-}|-|-|海外の違法ブローカーから手に入れた輸入武器。&br()通常購入できるリボルバー。&br()強すぎる点の調整が難しかったため白紙へ。|
+|&anchor(SPECIAL_CARBINE)'24/07/09&br()&small(){～'24/07/17}|MIDDLE:&image(img_special_carbine.png,y=55)|[[SPECIAL CARBINE>>https://w.atwiki.jp/gtav/pages/980.html]]&br()&font(9,gray){スペシャル カービン}|アサルト&br()ライフル|既存武器よりも優れるアサルトライフル。&br()&small(){重量：3.0kg　　弾種：5.56mm　　装填数：30→60発&br()Att：EX RifleClip／Tec Suppressor／Grip／MediumScope}|¥7,000,000|10丁|自社開発品&openclose2(show=※){&nbsp(br,2)無馬開発。プレリリース：'24/07/09&br()}調整モデル品発売にて廃盤へ&br()過去存在したものとは別で新しく調整した銃。&br()見た目から&ruby(ゴミムシ){G36C}と呼ぶ者も。&br()&openclose2(show=-調整内容){&nbsp(br,2)既存アサルトライフルの完全上位互換。&nbsp(br,2)サバゲーのAssault Rifle Mk2と似た性能。}|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion(終了商品)
+//
+***&underdot(#E0697B,3px){現在の利用額　}
+#region(参照用,close)
+#size(90%){#include(ARCANA/経理用)}
+#endregion(取引実績)
+#endregion
+
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season２}}
+製造・入手した武器の販売。
+&image(listmarker.png,inline)販売員からの直接購入もしくは卸売のみで購入できる。
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)購入条件　}
+&image(listmarker.png,inline)利用通貨は現金かブラックマネー(BM)対応。
+//今後ブラックマネー(BM)に移行。　←26/09この話が最近されなくなったため一旦消してます
+//BMの場合、26/03/14から上乗せ手数料10％→7％　➡　26/03/18から手数料なしで対応開始
+&image(listmarker.png,inline)前世界線で関わりのあった黒側の人間のみ購入可能。(一部例外有)
+&image(listmarker.png,inline)一度の購入の上限数は、販売員が在庫数を見て調整。
+//
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)注文方法　}
+販売員に直接連絡し、現金またはブラックマネー(BM)と現品を手渡しで交換。
+武器屋と直接やり取りのできない人間は、仲介人からの卸売による購入も可能。
+//
+
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)商品一覧　}
+#region(商品一覧,open)
+#size(90%){#table_style(head=center:#000033:#E0697B){種別=11px,価格=right,一口上限=right,備考=11px}
+#table_filter(){発売日=hide,商品画像=show,種別=hide,入手方法=hide,商品説明=show,価格=show,一口上限=hide,備考=show}
+|~発売日|~商品画像|~商品名|~種別|~入手方法|~商品説明|~価格|~&small(){一口上限}|~備考|h
+|'25/12/27|MIDDLE:&blankimg(img_pistol.png,x=70,y=70)|PISTOL&br()&font(9,gray){ピストル}|ハンドガン|クラフト|-&br()&small(){重量：1.13kg　　弾種：9mm　　装填数：12発&br()Att：-}|¥900,000|-|γ世界線初の犯罪用武器。|
+|'25/12/27|MIDDLE:&blankimg(img_9mm.png,x=70,y=70)|9MM|弾丸|クラフト|9mm|¥3,000/発|-|&openclose2(show=-価格について){&nbsp(br,2)在庫や素材費により価格変更有。&br()¥10,000→¥5,000→¥3,000}|
+|'26/03/06|MIDDLE:&blankimg(img_ceramic_pistol.png,x=70,y=70)|CERAMIC PISTOL&br()&font(9,gray){セラミック ピストル}|ハンドガン|強奪|-&br()&small(){重量：0.8kg　　弾種：9mm　　装填数：12発&br()Att：-}|¥700,000|-|武器強奪にて入手。&br()近距離特化型ピストル。&br()&openclose2(show=-検証結果){&nbsp(br,2)Pistolと比較し耐久↓、精度↓、威力↑&br()コンビニのレジ破壊可。}|
+|'26/03/06&br()&font(9,#bbb){26/05/14~&br()05/28販売中止}|MIDDLE:&blankimg(img_combat_pistol.png,x=70,y=70)|COMBAT PISTOL&br()&font(9,gray){コンバット ピストル}|ハンドガン|強奪|-&br()&small(){重量：0.785kg　　弾種：9mm　　装填数：12発&br()Att：-}&br()&font(12,red)|¥900,000|-|武器強奪にて入手。&br()&del(){Pistolの上位互換}。&br()&openclose2(show=-検証結果){&nbsp(br,2)Pistolと比較し耐久↓、精度、威力は大きくは変わらない。&br()コンビニのレジ破壊は&s(){不可}→可(26/07/15~)。}&br()&openclose2(show=-販売中止、性能について){&nbsp(br,2)05/14の検証(不二子&つん)にて、距離減衰&遠距離でのダメージが&br()Pistolと変わらないこと、（長押し時の）集弾率↓(少し)を確認。&br()05/17の検証(ティエリ&つん)にて、HS距離がPistolと変わらないことを確認。&br()改造の必要があるとして、一時的に販売を停止していたが、&br()その後の在庫状況を鑑みて性能は据え置き、￥1,000,000→￥900,000で販売再開。}|
+|'26/03/06|MIDDLE:&blankimg(img_wm_29_pisitol.png,x=70,y=70)|WM 29 PISTOL&br()&font(9,gray){ダブリューエム　&br()トゥエンティナイン　ピストル}|ハンドガン|強奪|-&br()&small(){重量：0.969kg　　弾種：9mm　　装填数：12発&br()Att：-}|¥1,200,000|-|武器強奪にて入手。&br()Pistolの上位互換。&br()&openclose2(show=-検証結果){&nbsp(br,2)Pistolと比較し耐久↓、精度は大きく変わらないが、威力がかなり↑&br()コンビニのレジ破壊は&s(){不可}→可(26/07/18~)。}|
+//||||||||
+//26/03/26「セラミックはコンビニレジ破壊可、コンバット・WMは破壊不可」とティエリさんつんさんの会話で明言されていましたので情報更新いたしました。
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion(商品)
+//
+#region(【ネタバレ注意】武器検証結果,close)&Bold(){【ネタバレ注意】武器検証結果}
+-26/03/04~06 [[ティエリ>>ヤブ下　安理]]、[[つん>>柳瀬　つん]]が、強奪ミッションにより入手したCeramic Pistol、Combat Pistol、WM 29 Pistolについて検証。
+#region(検証結果)&Bold(){検証結果}
+#size(90%){#table_style(head=center:#E0E0E0:#696969){}
+|~商品名|~距離|~腹部|~備考|h
+|PISTOL|-|25||
+|CENRAMIC PISTOL|近め|31|レート微↑、精度↓|
+|~|-|26|~|
+|COMBAT PISTOL|近め|26|精度同等~微↑|
+|~|-|26|~|
+|WM 29 PISTOL|近め|34|精度↑|
+|~|遠距離|31|~|
+}
+#endregion(検証結果)
+-26/04/15 [[五十嵐えいむ>>五十嵐　えいむ]]から[[つん>>柳瀬　つん]]へ、Ceramic Pistolの集弾率についての相談。&br()[[つん>>柳瀬　つん]]、[[不二子>>不二子　キャスパー]]で検証したところ、特に変化はないという結論に。
+-26/05/14 [[五十嵐えいむ>>五十嵐　えいむ]]、[[三島みつー>>三島　みつー]]が飛行場にて検証。
+#region(五十嵐えいむ視点検証結果)&Bold(){五十嵐えいむ視点検証結果}
+#size(90%){#table_style(head=center:#E0E0E0:#696969){}
+#table_filter(){レジ破壊可否=hide,腕・足=hide}
+|~商品名|~レジ破壊可否|~距離(目測)|~腹部・胸部|~腕・足|h
+|PISTOL|〇|0|25|20|
+|~|~|100|&Bold(){14}|-|
+|CERAMIC PISTOL|〇|0|31|25|
+|~|~|50|26|20|
+|~|~|100|16|-|
+|COMBAT PISTOL|×|0|26|21|
+|~|~|100|&Bold(){14}|-|
+|WM 29 PISTOL|×|0|34|27|
+|~|~|100|19|-|
+}
+#endregion(五十嵐えいむ視点検証結果)
+-26/05/14 上記の報告を受けた[[つん>>柳瀬　つん]]、[[不二子>>不二子　キャスパー]]で検証。
+#region(検証結果)&Bold(){検証結果}
+#size(90%){#table_style(head=center:#E0E0E0:#696969){}
+#table_filter(){レジ破壊可否=hide}
+|~商品名|~レジ破壊可否|~距離番号|~腹部|h
+|PISTOL|〇|7|25|
+|~|~|9|25|
+|~|~|10|24|
+|~|~|15|&Bold(){20}|
+|CERAMIC PISTOL|〇|15|23|
+|COMBAT PISTOL|×|9|26|
+|~|~|10|25|
+|~|~|15|&Bold(){20}|
+&small(){※距離番号…検証場所の駐車場の通し番号で距離を測量、数字が大きいほど遠距離}
+}
+
+↓集弾率比較（左:Pistol、右:Combat Pistol）
+&image(kenshou_260514.png,x=300)
+#endregion(検証結果)
+-26/05/17 Combat Pistolについて[[ティエリ>>ヤブ下　安理]]、[[つん>>柳瀬　つん]]で検証。
+#region(検証結果)&Bold(){検証結果}
+#size(90%){#table_style(head=center:#E0E0E0:#696969){}
+#table_filter(){レジ破壊可否=hide}
+|~商品名|~レジ破壊可否|~距離番号|~頭部|h
+|PISTOL|〇|9|&Bold(){50↑}|
+|~|~|10|34|
+|~|~|11|24|
+|~|~|13.5|22|
+|~|~|15|20|
+|CERAMIC PISTOL|〇|15|23|
+|COMBAT PISTOL|×|9.5|&Bold(){45?}|
+|~|~|10|35|
+|~|~|11|25|
+|~|~|13.5|22|
+}
+#endregion(検証結果)
+-26/07/10 [[五十嵐えいむ>>五十嵐　えいむ]]、[[三島みつー>>三島　みつー]]から[[つん>>柳瀬　つん]]にCombat Pistolの集弾率について共有。&br()Pistolより集弾率が良いこと、街のズレ等はほとんどないことを伝えられる。&br()26/07/12 [[つん>>柳瀬　つん]]から[[ティエリ>>ヤブ下　安理]]に報告。&br()↓検証結果画像（左上:Ceramic Pistol、左下:Pistol、右上:WM 29 Pistol、右下:Combat Pistol）&br()&image(kenshou_260710.png,x=400)
+-26/07/15･18 Combat PistolとWM 29 Pistolでコンビニレジ破壊可能な旨、[[つん>>柳瀬　つん]]に情報が入る。&br()（※情報源…Combat Pistol:07/15[[小峯れい>>小峯　玲]]、WM 29 Pistol:07/18[[五十嵐えいむ>>五十嵐　えいむ]]）
+-26/08/08 [[ティエリ>>ヤブ下　安理]]、[[つん>>柳瀬　つん]]、[[聖母れりあ>>聖母　れりあ]]の3人で銃声の聞こえる範囲を検証。&br()約420m&s(){(描画距離)}が境界であることが判明。
+#endregion(武器検証結果)
+//
+#right(){&link_up(🔝ページTOPへ)}
+
+//---<雇用情報>----------------------------------------------------------------//
+*&icon_fa(fa fa-people-roof)&font(#E0697B){ 雇}用情報
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season１}}
+#region(開く,close)
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)概要　}
+&image(listmarker.png,inline)分解員、製造員、組立員、販売員に分かれる。
+&image(listmarker.png,inline)白市民などの理由で実名がバレたくない場合、偽名での就業を許可。
+//
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)雇用条件　}
+&image(listmarker.png,inline)隠れて悪事を行っている白市民を含む、黒市民。
+&image(listmarker.png,inline)口が堅く、指示に従える人間。
+&image(listmarker.png,inline)ギャング構成員は不可。所属する際は解雇。
+&image(listmarker.png,inline)解雇後も得た情報の口外禁止。
+//
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)給与形態　}
+&image(listmarker.png,inline)消費労働力へ対価を支払う歩合制。【現在：40万/労働力100】
+&image(listmarker.png,inline)週一でまとめて支払われる。
+//
+#endregion(S1)
+
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season２}}
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)概要　}
+&image(listmarker.png,inline)前世界線からの続投雇用。
+//※26/02時点
+&image(listmarker.png,inline)白市民などの理由で実名がバレたくない場合、偽名での就業可能。
+//
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)雇用条件　}
+&image(listmarker.png,inline)隠れて悪事を行っている白市民を含む、黒市民。
+&image(listmarker.png,inline)口が堅く、指示に従える人間。
+&image(listmarker.png,inline)ギャング構成員は不可。所属する際は解雇。
+&image(listmarker.png,inline)解雇後も得た情報の口外禁止。
+//
+***&underdot(#E0697B,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)給与形態　}
+&image(listmarker.png,inline)素材集め、売上などの活動による歩合制。
+&image(listmarker.png,inline)[[代表>>ヤブ下　安理]]から週１～２程度、手渡しで支払われる。
+//
+**&font(#000000){&icon_fa(fa fa-suitcase)} 仕事概要
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season１}}
+#region(開く,close)
+&image(listmarker.png,inline)販売員以外は、砂漠ガンハウス内の専用設備で作業。
+&image(listmarker.png,inline)技能レベルが上がれば制作効率が上がる。
+***&underdot(#E0697B,3px){1. 分解員　}
+新入社員は、分解員から始め武器の知識を得る。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)既存武器を分解し流用パーツを抽出。
+&image(listmarker.png,inline)武器は[[ARCANA]]から卸される or 各人員による持ち込み。
+&image(listmarker.png,inline)従業員区分は「Recruit」
+&image(listmarker.png,inline)熟練度としての大まかな目安は0～1万
+//#openclose(show=▪ 分解手順){}
+}
+***&underdot(#E0697B,3px){2. 製造員　}
+武器知識を得たら武器パーツを製造し構造を理解する。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)街に流通している素材を使ったパーツ制作。
+&image(listmarker.png,inline)素材は[[ARCANA]]により支給。
+&image(listmarker.png,inline)従業員区分は「Employee」
+&image(listmarker.png,inline)熟練度としての大まかな目安は1～3万
+}
+***&underdot(#E0697B,3px){3. 専門製造員　}
+構造理解が進んだら、部品を製造し技術を身に付ける。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)街に流通している素材を使ったアタッチメント制作。
+&image(listmarker.png,inline)従業員区分は「Experienced」
+&image(listmarker.png,inline)熟練度としての大まかな目安は3～5万
+//#openclose(show=▪ 製造可能品一覧){}
+}
+***&underdot(#E0697B,3px){4. 組立員　}
+技術が身についたら専門知識を取得、本体の組立員へ。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)各パーツの組立製造による輸入武器の制作。
+&image(listmarker.png,inline)輸入武器は、各種レシピを使用し覚えた上で制作。
+&image(listmarker.png,inline)従業員区分は「Chief」
+}
+#openclose(show=＞レシピについて){
+&image(listmarker.png,inline)無馬により書き起こされる。
+&image(listmarker.png,inline)複製はBoss権限を与えられたもののみ。
+&image(listmarker.png,inline)レシピを覚えられる熟練度目安は5万と7万で段階的に存在。
+//#openclose(show=▪ レシピ一覧){}
+}
+***&underdot(#E0697B,3px){5. 販売員　}
+信頼を得られたら店を背負う販売員へ。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)各ギャングと渡り合える信頼のある人間のみ。
+&image(listmarker.png,inline)従業員が増え次第、各ギャングごとに担当分けをする予定。
+}
+#size(20%){　}
+#openclose(show=＞受注手順){
+①取り扱い商品の紹介。(メニュー掲示or口頭)
+&s(){②#Arcanaダークチャットへ案内告知。}(終了)
+③受注日に注文を受け「武器受注書」を作成しお渡し。
+④受取日で武器受注書を受け取り照会。BMと交換で納品。
+⑤受注書は帳簿記載確認後ごみ箱へ破棄。
+}
+#size(20%){　}
+#openclose(show=＞オーダーシートについて){
+&image(listmarker.png,inline)注文時に制作する武器商専用の受注書。
+&image(listmarker.png,inline)現在見易くなるように業者へ修正依頼中。
+#size(50%){　}
+&font(b,u){記載内容}
+①組織名　対応者
+②受注日
+③商品名*個数
+④支払い方法&nbsp(br,4)BM：ブラックマネー&nbsp(br,4)DP：デポジット
+⑤サービスオプション&nbsp(br,4)fast：特急券使用
+}
+#endregion(S1)
+
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season２}}
+***&underdot(#E0697B,3px){1. 素材入手　}
+&image(listmarker.png,inline)主に鉱山・溶鉱炉でファームを行う。
+&image(listmarker.png,inline)素材屋、個人素材販売者、[[素材仲介人>小峯　玲]]と連絡をとり、取引を行う。
+***&underdot(#E0697B,3px){2. 製造（クラフト）　}
+&image(listmarker.png,inline)専用クラフトテーブルでクラフト作業を行う。
+&image(listmarker.png,inline)就業ランクが上がれば製作可能武器が増え、製作効率も上がる。
+***&underdot(#E0697B,3px){3. 武器強奪入手　}
+&image(listmarker.png,inline)武器強奪ミッションを受注し、別の武器商人組織のアジトを襲撃して武器を強奪入手する。
+***&underdot(#E0697B,3px){4. 販売　}
+&image(listmarker.png,inline)前世界線から取引のあるギャング関係者への販売。&openclose2(show=※例外あり){→[[ARCANA]]メンバー、新規住民であっても武器屋が取引先に値するとみなした人物}
+&image(listmarker.png,inline)各々が武器商人だと明かしている黒市民から逐一連絡や接触を受けて、手渡し販売を行う。
+#co{
+//↓↓S2でパーツや組み立てなどの過程が必要になった際、役割明確になった際に必要かと思い念のため非表示で置いております↓↓
+***&underdot(#E0697B,3px){1. 分解員　}
+新入社員は、分解員から始め武器の知識を得る。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)既存武器を分解し流用パーツを抽出。
+&image(listmarker.png,inline)武器は[[ARCANA]]から卸さる or 各人員による持ち込み。
+&image(listmarker.png,inline)従業員区分は「Recruit&image(listmarker.png,inline)熟練度としての大まかな目安は0～1万
+//#openclose(show=▪ 分解手順){}
+}
+***&underdot(#E0697B,3px){2. 製造員　}
+武器知識を得たら武器パーツを製造し構造を理解する。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)街に流通している素材を使ったパーツ制作。
+&image(listmarker.png,inline)素材は[[ARCANA]]により支給。
+&image(listmarker.png,inline)従業員区分は「Employee」
+&image(listmarker.png,inline)熟練度としての大まかな目安は1～3万
+}
+***&underdot(#E0697B,3px){3. 専門製造員　}
+構造理解が進んだら、部品を製造し技術を身に付ける。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)街に流通している素材を使ったアタッチメント制作。
+&image(listmarker.png,inline)従業員区分は「Experienced」
+&image(listmarker.png,inline)熟練度としての大まかな目安は3～5万
+//#openclose(show=▪ 製造可能品一覧){}
+}
+***&underdot(#E0697B,3px){4. 組立員　}
+技術が身についたら専門知識を取得、本体の組立員へ。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)各パーツの組立製造による輸入武器の制作。
+&image(listmarker.png,inline)輸入武器は、各種レシピを使用し覚えた上で制作。
+&image(listmarker.png,inline)従業員区分は「Chief」
+}
+#openclose(show=＞レシピについて){
+&image(listmarker.png,inline)無馬により書き起こされる。
+&image(listmarker.png,inline)複製はBoss権限を与えられたもののみ。
+&image(listmarker.png,inline)レシピを覚えられる熟練度目安は5万と7万で段階的に存在。
+//#openclose(show=▪ レシピ一覧){}
+}
+***&underdot(#E0697B,3px){5. 販売員　}
+信頼を得られたら店を背負う販売員へ。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)各ギャングと渡り合える信頼のある人間のみ。
+&image(listmarker.png,inline)従業員が増え次第、各ギャングごとに担当分けをする予定。
+}
+#size(20%){　}
+#openclose(show=＞受注手順){
+①取り扱い商品の紹介。(メニュー掲示or口頭)
+&s(){②#Arcanaダークチャットへ案内告知。}(終了)
+③受注日に注文を受け「武器受注書」を作成しお渡し。
+④受取日で武器受注書を受け取り照会。BMと交換で納品。
+⑤受注書は帳簿記載確認後ごみ箱へ破棄。
+}
+#size(20%){　}
+#openclose(show=＞オーダーシートについて){
+&image(listmarker.png,inline)注文時に制作する武器商専用の受注書。
+&image(listmarker.png,inline)現在見易くなるように業者へ修正依頼中。
+#size(50%){　}
+&font(b,u){記載内容}
+①組織名　対応者
+②受注日
+③商品名*個数
+④支払い方法&nbsp(br,4)BM：ブラックマネー&nbsp(br,4)DP：デポジット
+⑤サービスオプション&nbsp(br,4)fast：特急券使用
+}
+}
+//---<従業員一覧>----------------------------------------------------------------//
+**&font(#000000){&icon_fa(fa fa-people-group)} 従業員一覧
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season１}}
+
+#region(一覧,close)
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+#table_filter(){加入日=hide,区分=hide,役職=show,取得レシピ=hide,概要=show,備考=show}
+|~加入日|~名前|~区分|~役職|~&small(){取得レシピ}|~概要|~備考|h
+|'24/06/12|[[生雲丹 よづな>生雲丹　よづな]]|Experienced|従業員||雑使い労働力として無馬に拾われた無馬ペット1号。&br()無自覚ながらも、店名に相応しい魔性を振りまく女性。&br()皆から可愛がられるちょけ担当。なしましましま。&br()&image(listmarker.png,inline)'24/07/04：進路相談にて継続意思を確認。製造員へ。|元[[IRiS]]&br()[[A2 Cafe]]従業員&br()[[ARCANA]]構成員|
+|'24/06/12|[[柳瀬 つん>柳瀬　つん]]|Chief|従業員|SpecialCarbine&br()MachineGun&br()スナイパーライフル|武器に興味が有る者としてテイムされた無馬ペット2号。&br()白市民に頼めないBMや武器の運搬を自ら買って出たり、&br()製作所の鍵閉め確認を毎回行うなど、真面目な一面も。&br()&image(listmarker.png,inline)'24/07/04：進路相談にて継続意思を確認。製造員へ。|元[[IRiS]]&br()[[飲食店>>はままるうどん]]従業員&br()[[ARCANA]]構成員|
+|'24/06/14|[[ティエリ・ブッシュ>ヤブ下　安理]] 🎖️&br()&font(9,#bbb){偽名:エル メス、クリス・リエン}|Chief|代表&br()|AP Pistol&br()MachineGun&br()HeavyShotgun&br()ネイビーリボルバー&br()SpecialCarbine|無馬の武器商に興味を示し同業者の[[麻林>麻林　ラル]]の仲介で接触。&br()求めていた武器に造詣の深い人間であったため即雇用。&br()業務時短のためのシステム構築など、事務作業も担う。&br()&image(listmarker.png,inline)'24/07/09：圧倒的な仕事量が認められ組立員へ。&br()&image(listmarker.png,inline)'24/08/30：無馬より直々に経営を任せられる。|[[飲食店>>Forest]]店長&br()武器代理購入業者|
+|'25/04/08|[[芳賀　ノエル]]&br()&font(9,#bbb){偽名：ナターレ ケルスト}|Chief|従業員|APピストル|[[ALLIN]]解散により体験を希望し無事正社員として雇用。&br()ALLIN限定のエナドリブーストで熟練度を一気に上げたことで&br()新人でありながらChiefランクまで上り詰めている。&br()何やら思惑があるようで・・・？&br()ギャング以外初顧客である[[BJローン]]との武器取引責任者。|[[クリスマス急便]]店長|
+|'25/04/25|[[菖蒲　光樹]]&br()&font(9,#bbb){偽名：生倉 賢}|Employee|従業員||オーナーの無馬に武器屋を作りたいと話しティエリと対談。&br()独立するまでのノウハウを得るため入社した。|菖光グループオーナー|
+|'25/09/11|[[堕夜 だよ>堕夜　だよ]]|Chief|従業員|SpecialCarbine|[[MOZU]]解散後、[[ヴァンダーマー>>ヴァン　ダーマー]]の情報を持っている&br()可能性があるFに近づくため、就職を希望。|元[[MOZU]]&br()ホットドッグ屋|
+|'24/06/25&br()~'25/03/28&br()'25/09/12|[[不二子 キャスパー>不二子　キャスパー]] &br()&font(9,#bbb){偽名：シル ビア} |Chief|従業員|SpecialCarbine&br()HeavyShotgun|黒インフラを支える同志として[[ARCANA]]へ勧誘していた&br()ところ武器商の方へ就業を希望したため雇用。&br()&image(listmarker.png,inline)'24/07/09：解体の働きが認められて製造員へ昇格。&br()&image(listmarker.png,inline)'25/03/28：[[ギャング>MOZU]]になるために退職 &br()&image(listmarker.png,inline)'25/09/12：Fと関わるために復職 |[[飲食店>>eight]]店長&br()[[ARCANA]]関係者| 
+//|??/??|[[日野市長補佐>日野市長補佐]]|Boss|調整||施設の調整や歪み対応など|[[市長補佐]]|
+
+//|加入日|区分|役職|取得レシピ|概要|備考|
+//区分：Recruit、Employee、Experienced、Chief、Boss
+}
+#endregion(従業員)
+//
+#size(50%){　}
+#region(勧誘中・候補)閉じる
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+|~名前|~区分|~概要|~備考|h
+//|[[霜月 ろっぷ>霜月　ろっぷ]]|勧誘済|浮いている個人医の中で、兼業をしていない人材として勧誘。&br()勧誘時に内容を聞くことなく了承したので、ほぼ正式雇用&br()連絡が取れないまま時間が経っているため現在の関係性は不明。|[[個人医]]|
+//|[[焦月ツルギ>焦月　ツルギ]]|候補|興味があるならと声掛け中。&br()連絡が取れないまま時間が経っているため現在の関係性は不明。|[[飲食協会]]会長|
+//|||||
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+//霜月 ろっぷ、焦月ツルギの2名に関して、ヤブ下さん主体の現行事業では勧誘の話は無いのでCOにします
+#endregion(勧誘中)
+//
+#size(50%){　}
+#region(過去の従業員)閉じる
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+|~入社日|~退職日|~名前|~ランク|~区分|~過去に取得したレシピ|~概要|~備考|~退職理由|h
+|'24/05/28|'25/01/28 &br()&font(9,#bbb){事業譲渡日} |[[無馬 かな>無馬　かな]]|Boss|オーナー|全て|ギャングと対面する重要な場面を預かる責任者。&br()全ての商品は無馬が開発・管理を担っている。|[[ARCANA]]トップ&br()[[個人医]]| 街を去る予定のため経営撤退|
+|'24/05/28| |[[鬼野 ねね>鬼野　ねね]]|Boss|従業員|ネイビーリボルバー&br()SpecialCarbine|[[無馬>無馬　かな]]専属秘書。無馬不在時の代理であり連絡係。&br()給料振込などの会計作業や物資補充などの雑務も担う。&br()&image(listmarker.png,inline)'24/08/30：無馬不在ピンチにより覚醒&openclose2(show=※){&nbsp(br,2)無馬制作分の武器が不足していたため制作出来ないか&nbsp(br,2)試したところ、レシピ制作に成功。自身で補うことに。&nbsp(br,2)本人曰く"無馬さんの作業を隣で見てたから出来た"&br()}組立員へ。|[[ARCANA]]幹部|無馬が街を去るのに合わせて就業離脱|
+}
+#endregion(過去の従業員)
+
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season２}}
+//
+#region(一覧,open)
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+#table_filter(){加入日=hide,区分=hide,役職=show,取得レシピ=hide,概要=show,備考=show}
+|~加入日|~名前|~区分|~役職|~&small(){取得レシピ}|~概要|~備考|h
+|'25/12/24|[[ティエリ・ブッシュ>ヤブ下　安理]] 🎖️&br()&font(9,#bbb){偽名：クリス・リエン、寿 司}|Boss|代表&br()||前世界線で[[無馬　かな]]から経営を引き継いだ武器屋代表。&br()転送後もビジネスパートナーである[[Back　Alley]]から依頼を受け、引き続き&br()武器屋を営む。主に、経営方針決め、従業員への業務指示、資金管理、武器&br()製造･販売を行う。自らファームや店舗物件ハウジング等も行う裏方気質。&br()他の闇組織関係各所とも資金提供や情報共有、素材取引等で連携。||
+|'25/12/24|[[柳瀬 つん>柳瀬　つん]]|Boss|従業員||代表から信頼を置かれるNo.2従業員。鉱山ファーム、強奪ミッションの&br()実行から武器販売まで担当する業務は多岐に渡る。武器屋の火力担当。&br()γ世界線も拠点の鍵閉め確認はお手の物。前世界線から継続雇用。|元[[IRiS]]|
+|'26/01/11|[[菖蒲　光樹]]&br()&font(9,#bbb){偽名：生倉 賢}|Experienced|従業員||前オーナーの無馬に武器屋を作りたいと話しティエリと対談。&br()独立するまでのノウハウを得るため入社した。&br()転送後も雇用続投希望を確認の上就職。|元[[IRiS]] BOSS|
+|'26/01/14 &font(9,#bbb){01/09内定}|[[不二子 キャスパー>不二子　キャスパー]] &br()&font(9,#bbb){偽名：シル ビア} |Boss|従業員| |紅一点の古参従業員。ファーム、素材の仕入れ管理や強奪ミッションの実行、&br()商品の販売を担当。持ち前の長時間ファームでスタッシュを満杯にすることも&br()しばしば。前世界線から継続雇用。|元[[MOZU]]| 
+//
+//|加入日|区分|役職|取得レシピ|概要|備考|
+//区分：Recruit、Employee、Experienced、Chief、Boss
+}
+#size(50%){　}
+#region(調整役)&b(){調整役}
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+#table_filter(){加入日=hide,区分=hide,役職=show,取得レシピ=hide,概要=show,備考=show}
+|~加入日|~名前|~区分|~役職|~&small(){取得レシピ}|~概要|~備考|h
+|'26/01/09|[[Back　Alley]]|Boss|||||
+|'26/02/07|[[無馬　かな]]|Boss|||||
+//|'26/01/23|[[日野市長補佐]]|Boss|||||
+}
+//調整役加入日ですが、ヤブ下さん視点(以下の日時)でジョブメニューを開いた時に名前確認できた情報で追記させていただきました。間違い等あれば修正ください。
+//Back Alley　26/01/09 20:54
+//日野市長補佐(武器担当とのこと)　26/01/23 21:29　⇒追記：ジョブメニューに名前なし26/03/01 20:52観測
+#endregion(調整役)
+//
+#endregion(一覧)
+//
+#size(50%){　}
+#region(過去の従業員)閉じる
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+#table_filter(){ランク=hide,区分=hide,過去に取得したレシピ=hide,備考=show}
+|~入社日|~退職日|~名前|~ランク|~区分|~過去に取得したレシピ|~概要|~備考|~退職理由|h
+|'25/12/24|'26/03/01|[[堕夜 だよ>堕夜　だよ]]|Experienced|従業員||[[MOZU]]解散後、[[ヴァンダーマー>>ヴァン　ダーマー]]の情報を持っている&br()可能性があるFに近づくため、就職を希望。&br()転送後は元ギャングの情報網を使った営業販売や、&br()長時間起床によるファーム、素材屋からの仕入れを担当。|元[[MOZU]]|変装して逃走していた[[武器屋のお客様>>エスターク・Z・ダークネス]]を警察に通報。&br()犯罪者向けビジネスに向かない考え方を持つ人間は&br()組織に置いておけないと判断し解雇。|
+}
+#endregion(過去の従業員)
+
+#right(){&link_up(🔝ページTOPへ)}
+//---<業務委託>----------------------------------------------------------------//
+*&icon_fa(fa fa-handshake-o)&font(#E0697B){ 業}務委託
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season２}}
+***&underdot(#E0697B,3px){プリズンタクシーでの販売　}
+[[タクシー運転手>いわさき　そす]]がプリズンから乗る犯罪者にのみ武器を販売する。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)[[いわさき そす>いわさき　そす]]からの提案。武器屋からそすへ掛け売りしている。
+&image(listmarker.png,inline)目的はプリズンから出てすぐに武器が欲しい犯罪者に向けて、またタクシー利用者を増加させるため。武器屋としては販路の拡大を見込めるため。
+&image(listmarker.png,inline)購入資格の確認が必要ない、プリズンから運ぶ客のみに販売する。
+&image(listmarker.png,inline)販売商品はCeramic Pistol、9mm弾のみ。現金での販売。
+//商談衛星26/05/22 00:50頃～　ティエリ、不二子視点
+}
+***&underdot(#E0697B,3px){BJローンへ資金洗浄委託　}
+[[BJローン]]にブラックマネー(BM)の資金洗浄を委託。
+#openclose(show=＞詳細){
+&image(listmarker.png,inline)ティエリからBJローンへの提案。BJローンとしても初めての試みとなるため、武器屋側と相談を重ねたうえでの委託となる。
+&image(listmarker.png,inline)委託手数料25%。BMと現金をその場で交換。
+&image(listmarker.png,inline)まとめて委託はするが、従業員で洗浄を行うこともある。
+//BJとの相談ティエリ視点：26/06/17,26/06/24,26/07/01
+//商談衛星(委託開始)26/07/09 00:21頃～　ティエリ、つん、不二子視点
+}
+
+
+//---<不動産情報>----------------------------------------------------------------//
+*&icon_fa(fa fa-map-location-dot)&font(#E0697B){ 不}動産情報
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season１}}
+
+#region(拠点)&b(){拠点}
+#size(90%){{{#table_style(head=center:#000033:#E0697B){}
+#table_filter(){番地=show,場所=show,通称=show,管理=hide,備考=show}
+|~番地|~場所|~通称|~管理|~備考|h
+|4022|砂漠中|ガンハウス|[[無馬>無馬　かな]]|ロックのかかった隠し扉から入れる武器製造拠点。&br()専用の共有個人ガレージ付き。|
+|3029|中央湖とクラフト場&br()の間|北店舗|[[無馬>無馬　かな]]|受け渡し用店舗として利用。ガレージ付き。|
+|10112|ターミナル&br()出口ゲート近くの倉庫|南店舗|[[ティエリ>ヤブ下　安理]]|11/22より店舗の移転先として運用。&br()倉庫物件、ガレージ付き。|
+//||||||
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}}}
+#endregion
+
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season２}}
+
+#region(拠点)&b(){拠点}
+#size(90%){{{#table_style(head=center:#000033:#E0697B){}
+#table_filter(){番地=show,場所=show,通称=show,管理=hide,備考=show}
+|~番地|~場所|~通称|~管理|~備考|h
+|9022|街中9022番地&br()付近の工場内|仮アジト|[[ティエリ>ヤブ下　安理]]|[[ティエリ>ヤブ下　安理]]から[[バックアレイ>Back　Alley]]に整備依頼した。&br()鍵付き扉内の武器製造拠点。|
+|8172|街中&br()[[わんも～Cafe]]裏|店舗|[[つん>柳瀬　つん]]|受け渡し用店舗 兼 倉庫として利用。&br()街中かつ目の前に公共ガレージがある利便性&openclose2(show=等){&br()（わんも～Cafeの[[牧田　ここな]]店長が直近の裁判で前世界線で武器商人をしていたと明るみになっており、ベイトに使えるのではないかという点）&br()}から[[ティエリ>ヤブ下　安理]]、[[つん>柳瀬　つん]]、[[不二子>不二子　キャスパー]]の3名で場所を選定。|
+|9078|街中9078番地&br()シャッター|臨時店舗|[[ティエリ>ヤブ下　安理]]|[[ティエリ>ヤブ下　安理]]が当初素材屋構想の倉庫として申請していた。&br()26/06/14に脇と揉め取引停止した後、わんも～裏店舗襲撃等懸念し臨時受け渡し用店舗 兼 倉庫として使用。|
+//||||||
+//アジト通称「仮アジト」は、他の呼称が出たら変えます
+//「臨時店舗」は、他の呼称が出たら変えます
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}}}
+#endregion
+#right(){&link_up(🔝ページTOPへ)}
+//---<歴史>----------------------------------------------------------------//
+*&icon_fa(fa fa-map)&font(#E0697B){ 歴}史
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season１}}
+***&underdot(#E0697B,3px){◆&nbsp(2)2024年　}
+#region(一覧,close)
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+#table_filter(){日付=show,出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'24/05/28|事業の発足|[[ARCANA]]、[[無馬>無馬　かな]]|海外の武器商と取引が成功。&br()「NAVY REVOLVER」と「REVOLVER」のサンプルとレシピを入手。|
+|'24/05/28|社名とロゴの公表|[[無馬>無馬　かな]]|社名が「FEMME FATALE」であることが公表される。|
+|'24/06/06|商品開発に成功|[[無馬>無馬　かな]]|「AP PISTOL」の開発に成功。これ以降自社で製品開発を行うように。|
+|'24/06/07|試射会の実施|[[無馬>無馬　かな]]|全ギャング自由参加の試射会を実施。武器要望についてヒアリング。|
+|'24/06/11|新武器受注始動|[[無馬>無馬　かな]]、[[ARCANA]]|「AP PISTOL」の受注開始、ボス専用「NAVY REVOLVER」の配布。|
+|'24/06/11|ジョブ概念の確立||「FEMME FATALE」のジョブが付与される。|
+|'24/06/11|受注書制作が可能に||受注人、日付、備考を書き込める「武器受注書」システムが完成。|
+|'24/06/12|制作所の整備||砂漠のガンハウスが制作所整備され、翌日完成。&openclose2(show=整備内容){&nbsp(br,2)ボスメニュー、スタッシュ、ごみ箱の追加、武器ステーションの完備。}|
+|'24/06/25|注文受注日の決定|[[無馬>無馬　かな]]、[[ARCANA]]|受注の詳細を決定。[[ARCANA]]にて全ギャングへ曜日と時間を告知。|
+|'24/07/02|新武器の自社制作&br()本格始動||「Weapom Craft Tool」が消える歪みが解消し、&br()本格的に、武器ステーションでの武器の制作が開始される。|
+|'24/07/09|優先受注制度の廃止||従業員と受注周りの整備完了に伴い廃止へ。|
+|'24/07/09|受注の新体制|全従業員|従業員による初の受注立ち合い。お客様対応と新武器の説明が行われる。|
+|'24/07/12|事前告知の終了||取引パイプ確立に伴い、[[ARCANA]]による告知サービスを終了。|
+|'24/07/23|定例会を実施||フルカスオプション実装、割符導入、特急値段改定検討、近況共有|
+|'24/08/06|還元サービス終了||全組織のデポジットが消費され、サービス終了へ。|
+|'24/08/06|一般製作所へ&br()パーツ製作所が追加||砂漠のクラフト場へ非従業員でもパーツ制作が可能な、&br()武器ステーションが追加される。|
+|'24/08/16|警察へ露見危機||受け渡しで集まっていた場を怪しんだ警察が店舗周りの様子を見に来る。&br()以降、武器商人について警察の捜査が始まる。|
+|'24/08/30|代表者の交代|[[無馬>無馬　かな]]、[[ティエリ>ヤブ下 安理]]|独立に向けて無馬からティエリへ経営権が移行。&br()無馬の看板が必要だというティエリの要望にて、責任は無馬が受け負う形へ。|
+|'24/10/30|警察の張り込み確認||受注時間帯に[[竹井勝痔>竹井　勝痔]]、[[ボイラ・テンガリン>ボイラ　テンガリン]]が3029番地の店舗を堂々と監視していたのを発見。&br()新店舗への移転を急ぐことに。|
+|'24/11/22|新店舗へ移転||警察への店舗物件露呈が確定したため、砂漠の3029番地店舗からターミナルの10112番地へ移転、運用開始。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion()
+***&underdot(#E0697B,3px){◆&nbsp(2)2025年　}
+#region(一覧,close)
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+#table_filter(){日付=show,出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'25/01/28|代表者の完全交代|[[無馬>無馬　かな]]、[[ティエリ>ヤブ下 安理]]|FEMME FATALE事業から、無馬が完全撤退。無馬からティエリへBOSSランクが付与され、店の全権利の譲渡が完了する。|
+|'25/02/11|新カスタム武器販売||略奪物資をもとにSpecial Carbine MK2、Machine Gun、Heavy ShotgunのTypeFモデル取扱開始|
+|'25/08/21|武器受注書が押収される|[[ティエリ>ヤブ下　安理]]、[[小峯>>小峯　玲]]、&br()[[かえる>>畳　かえる]]、[[ろっぷ>>霜月　ろっぷ]]|[[エルメス>>ヤブ下　安理]]が道交法で逮捕。所持していた[[DERAY]]、[[hantasma]]、[[RqteL]]の受注書が警察に流出し、&br()各ギャングが指名手配、違法物取引法違反(罰金100万円)となる。|
+|'25/09/14|[[FadeGate]]から謎の武器の量産依頼|[[ティエリ>ヤブ下　安理]]、[[加藤圧>>加藤　圧]]|[[加藤圧>>加藤　圧]]からUnholy Hellbringer、Windowmaker、Laser Chargeを受け取る。[[ティエリ>>ヤブ下　安理]]が分析し、&br()「弾を打ち出す機構がない」ということを確認。|
+|'25/09/16|謎の武器を量産可能に|[[ティエリ>>ヤブ下　安理]]|[[ティエリ>ヤブ下　安理]]がライトシーカー、ドーンブリンガーを量産し、3057、9384に人を手配。&br()3057でドーンブリンガー、9384でライトシーカー、両方でレーザー弾が交換できるように。|
+|'25/09/16|個人医への武器の貸与|[[ティエリ>ヤブ下　安理]]、[[猪狩>>猪狩　翔太]]、[[トナカイ>>タシロ　カワセ]]|救助活動に使用するため個人医より相談があり、Heavy RifleとSniper Rifleを貸与。&br()威力の関係からバランスブレイカーになるため慎重な取り扱いとなっていた&br()FEMME FATALE製造のSniper Rifleが心有り市民に撃たない前提の下、&br()組織外の人間の手に初めて渡った。|
+|'25/09/19|ギャングへSniper Rifleを配布|[[ティエリ>ヤブ下　安理]]、[[みこだ>>みこだ　よう]]|ダーク市長補佐やピエロに使用するよう各ギャングへSniper Rifleを1丁配布を決定。&br()かねてより強く要望していた[[RqteL>>RqteL]]の[[みこだ>>みこだ　よう]]に最初に渡すこととなった。&br()翌20日に取引のある他のギャングへ渡した。|
+
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion()
+
+#div(width=330px,bgcolor=#000033){&font(b,#E0697B,120%){　Season２}}
+***&underdot(#E0697B,3px){◆&nbsp(2)2025年　}
+#region(一覧,close)
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+#table_filter(){日付=show,出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'25/12/24|武器のクラフト台、レシピを伝達|[[ティエリ>ヤブ下　安理]]、[[バックアレイ>Back　Alley]]|[[バックアレイ>Back　Alley]]から[[ティエリ>ヤブ下　安理]]に9023と2052のクラフト台が共有される。&br()ジョブがある人間のみPistolと9mm弾の制作が可能に。|
+|'25/12/27|武器販売開始||Pistolと9mm弾の販売を開始。|
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion()
+***&underdot(#E0697B,3px){◆&nbsp(2)2026年　}
+#region(一覧,open)
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+#table_filter(){日付=show,出来事=show,関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|'26/01/21|仮アジト新設|[[ティエリ>ヤブ下　安理]]、[[バックアレイ>Back　Alley]]| [[ティエリ>ヤブ下　安理]]が[[バックアレイ>Back　Alley]]に依頼していたアジト整備完了の連絡を受け、拠点を移動。&br()依頼費用¥5000万支払い。&openclose2(show=▶︎設備内容◀︎){&nbsp(br,2)鍵付き扉、スタッシュ、専用クラフトテーブル、クローゼット、勤怠打刻PCが完備。} |
+|'26/02/05|現従業員全員集合|全従業員| [[ティエリ>ヤブ下　安理]]、[[柳瀬つん>柳瀬　つん]]、[[不二子キャスパー>不二子　キャスパー]]、[[堕夜だよ>堕夜　だよ]]、[[菖蒲光樹>菖蒲　光樹]]&font(7,#bbb){ γ世界線での偽名不明}の&br()現アクティブ従業員計５名が拠点に集合し会議&s(){と撮影}を行う。 |
+|'26/03/04～06|武器強奪ミッション開始&br()・新武器販売開始|[[ティエリ>ヤブ下　安理]]、[[つん>柳瀬　つん]]、[[バックアレイ>Back　Alley]]|9022拠点にて「ギャング武器強奪計画」が受注可能に。&br()Ceramic Pistol、Combat Pistol、WM 29 Pistolを入手し、武器検証&価格設定協議ののち販売開始する。|
+|'26/03/12|武器屋共用ハウジング物件購入|[[ティエリ>ヤブ下　安理]]、[[つん>柳瀬　つん]]、[[不二子>不二子　キャスパー]]|8172番地に武器屋共用ハウジング物件を購入。物件所有者：[[柳瀬つん>柳瀬　つん]]、費用：￥1億1300万(内装代＋土地代)|
+|'26/06/13|資金洗浄場でFF資金の盗難事件発生|[[ティエリ>ヤブ下　安理]]|資金洗浄場でFF資金BM1000万分を[[ティエリ>ヤブ下　安理]]が15%資金洗浄。洗浄中現地から離れており洗浄終了時刻から遅れて&br()到着後、洗濯機内を確認すると洗いあがりの現金がなく、盗難されたことが判明。&openclose2(show=※通称チャーハン事件){&nbsp(br,2)通称チャーハン事件…洗浄終了時刻に魂がチャーハンを作っており、洗浄終了後10分以上放置していた間にFF資金を盗まれた。}|
+|'26/06/14|資金洗浄盗難犯[[脇　逢魔]]との取引停止|[[ティエリ>ヤブ下　安理]]|前日の資金洗浄盗難の件について、その後状況精査やタレコミ情報から[[脇　逢魔]]が犯人であると判明。&br()武器屋としてのメンツを保つことを目的に、[[餡ブレラ]]の助力で脇を詰める。脇との取引停止。&br()各所犯罪者へその旨通達対応と、脇からの襲撃等を懸念し一時店舗移動を決める。|
+|'26/06/14|武器屋共用ハウジング物件購入|[[ティエリ>ヤブ下　安理]]|9078番地に臨時店舗 兼 倉庫新設の為、購入保留にしていた物件を購入。申請当初は素材屋構想用に見繕っていた物件。|
+|'26/06/18|[[脇 逢魔>>脇　逢魔]]との示談成立、取引停止解除|[[ティエリ>ヤブ下　安理]]|[[餡ブレラ]]立ち会いのもと、抗争に負けた[[NOVA FAMILIA]]からの話し合いに応じる。&br()[[脇 逢魔>>脇　逢魔]]からの謝罪を受け入れ、賠償金BM1億5000万での示談が成立。取引停止も解除。&openclose2(show=<賠償金内訳>){&nbsp(br,2)※内訳 →強奪ミッション6回分:6000万、臨時店舗購入費:5000万、従業員3名への迷惑料:3000万、盗まれたBM:1000万}|
+#co{|'26/07/08|[[BJローン]]へBM資金洗浄委託開始|[[ティエリ>ヤブ下　安理]]、[[つん>柳瀬　つん]]、[[不二子>不二子　キャスパー]]||}
+//|||||
+
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion()
+#right(){&link_up(🔝ページTOPへ)}
+//---<関連>----------------------------------------------------------------//
+*&icon_fa(fa fa-gamepad)&font(#E0697B){ 関}連
+***&underdot(#E0697B,3px){&nbsp(2)街外コラボ　}
+//
+//【アーカイブ欄について】twitchアーカイブではなくダイジェストなど、半永久的に残るもののみ記載しています。
+#region(2025年,close)
+&openclose(show=※概要){&font(11){&icon_fa(fa fa-gamepad)S1-S2間に始まった街外での集会。街での受注・受渡しの曜日と同じ、火曜日・金曜日の20時頃に開催されることが多い。}}
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+|~日付|~ゲーム名|~メンバー|~切り抜き|~アーカイブ|~備考|h
+|'25/10/08|R.E.P.O.|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(シルビア)>>不二子　キャスパー]]、だよだよ[[(堕夜だよ)>>堕夜　だよ]]|[[&icon_fa(fa fa-brands fa-youtube-play)やなつんPart1>>https://youtu.be/FuZ_KgT7KZY]]&br()[[&icon_fa(fa fa-brands fa-youtube-play)やなつんPart2>>https://youtu.be/GpyrGGH0DGQ]]|[[&icon_fa(fa fa-twitch)やなつん>>https://www.twitch.tv/videos/2602197834]]||
+|'25/10/15|Unrailed!&br()→Golf It!|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(シルビア)>>不二子　キャスパー]]、だよだよ[[(堕夜だよ)>>堕夜　だよ]]||[[&icon_fa(fa fa-twitch)やなつん>>https://www.twitch.tv/videos/2638963637]]||
+|'25/10/31|PEAK&br()→Golf It!|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(シルビア)>>不二子　キャスパー]]、だよだよ[[(堕夜だよ)>>堕夜　だよ]]|[[&icon_fa(fa fa-brands fa-youtube-play)むちちゃん。>>https://youtu.be/6EoyhGjfVBs]]||ハロウィン山登り部|
+|'25/11/07|Phasmophobia|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(シルビア)>>不二子　キャスパー]]||[[&icon_fa(fa fa-twitch)やなつん>>https://www.twitch.tv/videos/2661559852]]|幽霊調査隊|
+|'25/11/14|Phasmophobia&br()→Golf It!|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(シルビア)>>不二子　キャスパー]]||||
+|'25/11/18|Overcooked! 2|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(シルビア)>>不二子　キャスパー]]|||お料理教室|
+|'25/11/28|MIMESIS&br()→Golf It!|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(シルビア)>>不二子　キャスパー]]|[[&icon_fa(fa fa-brands fa-youtube-play)むちちゃん。>>https://youtu.be/nbdid4ANR38]]|||
+|'25/12/04|DON’T SCREAM TOGETHER&br()→Keep Digging|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(シルビア)>>不二子　キャスパー]]、だよだよ[[(堕夜だよ)>>堕夜　だよ]]|[[&icon_fa(fa fa-brands fa-youtube-play)むちちゃん。>>https://youtu.be/1fkGsnMC02k]]|||
+|'25/12/09|Left 4 Dead 2&br()→Keep Digging|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(シルビア)>>不二子　キャスパー]]、だよだよ[[(堕夜だよ)>>堕夜　だよ]]||||
+//
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion
+//
+#region(2026年,close)
+&openclose(show=※概要){&font(11){&icon_fa(fa fa-gamepad)前年に始まった集会がS2開始後も続いていた。街が休みの月曜・火曜の20時頃に開催されることが多い。（配信外は記載なし）}}
+#size(90%){#table_style(head=center:#000033:#E0697B){}
+|~日付|~ゲーム名|~メンバー|~切り抜き|~アーカイブ|~備考|h
+|'26/02/09|雀魂|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(不二子キャスパー)>>不二子　キャスパー]]、だよだよ[[(堕夜だよ)>>堕夜　だよ]]|||武器屋さんで麻雀|
+|'26/02/17|LOST EGG 2: Be together&br()→雀魂|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(不二子キャスパー)>>不二子　キャスパー]]、だよだよ[[(堕夜だよ)>>堕夜　だよ]]||||
+|'26/02/24|雀魂|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(不二子キャスパー)>>不二子　キャスパー]]||||
+|'26/07/07|ジオゲッサー→雀魂|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(不二子キャスパー)>>不二子　キャスパー]]||||
+|'26/08/03|R.E.P.O.|HENRY-8492[[(ティエリ)>>ヤブ下　安理]]、やなつん[[(柳瀬つん)>>柳瀬　つん]]、むちちゃん。[[(不二子キャスパー)>>不二子　キャスパー]]、&br()katoo[[(加藤圧)>>加藤　圧]]、のあち[[(ノアチェンバー)>>ノア　チェンバー]]、聖女れりあ[[(聖母れりあ)>>聖母　れりあ]]、弥勒セイジ[[(文殊セイジ)>>文殊　セイジ]]|[[&icon_fa(fa fa-brands fa-youtube-play)むちちゃん。>>https://youtu.be/t4sU8ZC4W4o]]||武器屋×DEPでのコラボ第一回|
+//
+#table_sorter{even=#F7F7F7,odd=#FFF}
+}
+#endregion
+//
+//---<情報提供>----------------------------------------------------------------//
+*&font(#E0E0E0){情報提供場}
+情報提供、修正・削除内容があればこちらにコメントをお願いします。
+【コメントの履歴は[[こちら>>FEMME FATALE/コメント欄]]】
+
+#pcomment(title_name=,3,FEMME FATALE/コメント欄,reply,enableurl,new)
+&aname(commentbtm)
+
+#right(){&link_up(🔝ページTOPへ)}

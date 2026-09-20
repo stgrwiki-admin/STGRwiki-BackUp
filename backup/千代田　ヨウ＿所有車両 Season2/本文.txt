@@ -1,0 +1,143 @@
+//――――――画像の貼り付けについて―――――――――
+//★オリジナルの画像サイズは640ｘ400で統一しています
+//★車両一覧に表示するときは300ｘ188サイズにして、画像をクリックすると新しいタブにオリジナルの画像が表示されます
+//★画像を貼り付けるときは、下記のコードをコピペしてください
+//★画像貼り付けのコード
+//&blankimg(画像ファイル名,x=300,y=188)
+//　↑　　　　　　　　　　　　↑
+//　｜　　　　　　　　　　300ｘ188のサイズでこのページに表示する
+//新しいタブを開き、そこにオリジナルサイズの画像を表示する
+//
+//●画像は追加していく予定です。
+//
+//■■■■■■■■　自動車　■■■■■■■■
+&aname(自動車,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&font(16,#ffffef){&space()&space()&icon_fa(fa fa-car-side)&space()&space()&bold(){自動車}}}
+
+#region(開く)閉じる
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ディレタンテ（セキュリティー）){&font(18,b){Dilettante(Security)}}}&color(#ffffff,red){&space()&icon_fa(fa fa-close)&space()&bold(){売却&space()}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Compact Car|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){KARIN Dilettante(Security)}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(カリン){KARIN}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):MRCR1225|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/12/25|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●電気自動車&br()●8167番地の自動車ディーラーで購入&br()●'26/02/18 自動車ディーラーに売却&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(ディレタンテ ディーエックス){&font(18,b){Dilettante DX}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Compact Car|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){KARIN Dilettante DX}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(カリン){KARIN}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Dilettante DX.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):4H3KOHP9|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/02/18|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●8167番地の自動車ディーラーで購入&br()&br()&br()|
+||||
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(サルタン){&font(18,b){Sultan}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Sports Car|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){KARIN Sultan}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(カリン){KARIN}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):4人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):7M9NT3G0|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/05/14|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●8167番地の自動車ディーラーで購入&br()&br()&br()|
+|||RIGHT:&link_anchor(自動車){自動車TOP} &icon_fa(fa fa-circle-up)|
+//
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion(〆Others)
+
+//■■■■■■■■　二輪車　■■■■■■■■
+&aname(二輪車,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&font(16,#ffffef){&space()&space()&icon_fa(fa fa-motorcycle)&space()&space()&bold(){二輪車}}}
+
+#region(開く)閉じる
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(スラスト AT){&font(18,b){Thrust AT}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){Dinka Thrust AT}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(ディンカ){Dinka}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):&blankimg(Thrust AT_b.png,x=300,y=188)|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):2人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):SRE728FA|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/06/05|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):●8167番地の自動車ディーラーで購入&br()&br()&br()|
+|||RIGHT:&link_anchor(二輪車){二輪車TOP} &icon_fa(fa fa-circle-up)|
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion
+
+//■■■■■■■■　航空機　■■■■■■■■
+&aname(航空機,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&font(16,#ffffef){&space()&space()&icon_fa(fa fa-helicopter)&space()&space()&bold(){航空機}}}
+
+#region(開く)閉じる
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-helicopter)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Helicopter|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+|||RIGHT:&link_anchor(航空機){航空機TOP} &icon_fa(fa fa-circle-up)|
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion
+
+//■■■■■■■■　船舶　■■■■■■■■
+&aname(船舶,option=nolink){}
+#div(width=330px,bgcolor=#ff9933){&font(16,#ffffef){&space()&space()&icon_fa(fa fa-ship)&space()&space()&bold(){船舶}}}
+
+#region(開く)閉じる
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-ship)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Boat|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+|||RIGHT:&link_anchor(船舶){船舶TOP} &icon_fa(fa fa-circle-up)|
+#right(){&link_up(TOPへ)&icon_fa(fa fa-circle-up) }
+#endregion
+//
+#co(){――――――所有車両についてのコメント―――――――――
+★自動車のテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-car-side)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):---|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+★バイクのテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-motorcycle)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Motorcycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+★自転車のテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-bicycle)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Bicycle|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+★ヘリコプターのテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-helicopter)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Helicopter|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+★飛行機のテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-plane)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):AirPlane|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+★船舶のテンプレートです。コピーして使ってください。
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-ship)&space()&ruby(---){&font(18,b){---}}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){Type}|BGCOLOR(#f5f5f5):Boat|
+|CENTER:BGCOLOR(#f9b233):&color(#ffffff){&icon_fa(fa fa-pencil)&space()&bold(){---}}|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){メーカー}|BGCOLOR(#f5f5f5):&ruby(---){---}|
+|CENTER:MIDDLE:BGCOLOR(#f4f4f4):No Image|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){乗車定員}|BGCOLOR(#f5f5f5):-人|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){ナンバー}|BGCOLOR(#f5f5f5):--------|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){購入日}|BGCOLOR(#f5f5f5):2026/??/??|
+|~|CENTER:BGCOLOR(#f9b233):~&color(#ffffff){MEMO}|BGCOLOR(#f5f5f5):&br()&br()&br()|
+||||
+
+コメント最終行。この中括弧は消さないでください。➡}

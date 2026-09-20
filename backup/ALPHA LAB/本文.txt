@@ -1,0 +1,80 @@
+&image(TwiX_20260802.png,x=320)
+
+//❗️不要な行は削除して使用してください
+#table_color(head=#006699:#FFF){}
+|~会社名|~&icon_fa(fa-solid fa-palette)|&ruby(アルファ ラボ){ALPHA LAB}|
+|~業種|~&icon_fa(fa-solid fa-brush)|デザイン制作事務所|
+|~開業日|~&icon_fa(fa fa-flag)|2026/07/29|
+|~所在地|~&icon_fa(fa fa-map-marker)||
+|~Twix|~&icon_fa(fa-solid fa-dove)|@arta|
+|~創業者|~&icon_fa(fa-solid fa-user-tie)|[[アルタ・スカイブルー]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+#div(width=200px,bgcolor=#006699){&size(17){&font(b,#FFF){　概要}}}
+・[[アルタ・スカイブルー]]が始めたデザイン制作事務所。
+
+#div(width=200px,bgcolor=#006699){&size(17){&font(b,#FFF){　業務内容}}}
+・商品、ロゴ、名刺、ポスター等の制作。
+
+#div(width=200px,bgcolor=#006699){&size(17){&font(b,#FFF){　実績}}}
+#region(開業前・所属団体用)&b(){開業前・所属団体用}
+#areaedit
+#table_style(head=center:#006699:#FFF){店舗名=bold}
+|~企業・団体|~依頼内容|~備考|h
+|[[サニーケバブ]]|新メニューの開発||
+|[[NOVA FAMILIA]]|ロゴマーク、カラー抗争用バッジ||
+|[[わくわくハピネス隊]]|ロゴマーク、わくワーク・ロスラジなど各事業の名刺や事業ロゴの制作、ロスタイムズ編集||
+|[[LUNA Garage]]|LIVEDRIVEイベントポスター・チケット||
+|[[Lv.94]]|おまけ商品開発||
+//|[[依頼者]]依頼内容|備考|
+//情報がすべて揃っていなくても良いので更新してもらえるとありがたいです。
+#table_autoincrement(){label=No.,start=1}
+#endregion
+
+#region(依頼一覧)&b(){依頼一覧}
+#areaedit
+#table_style(head=center:#006699:#FFF){店舗名=bold}
+|~依頼者|~納品日|~依頼内容|~備考|h
+|[[サニーケバブ]]|2026/6/17|メニュー開発|サニーかき氷|
+|[[ロスラジ]]|出来上がり次第随時|複数番組のロゴマーク制作|2026/8/1:笑っていいですともロゴ納品&br()2026/8/26:ロスステロゴ納品|
+|[[森のぶんぶんメカニック]]|2026/7/30|テレビ画面用ポスター制作||
+|[[サニーオイル]]||ロゴマーク制作||
+|[[ロスベガス]]|2026/8/15|タバコ屋レース賭けチケットデザイン||
+//|[[依頼者]]|納品日|依頼内容|備考|
+//情報がすべて揃っていなくても良いので更新してもらえるとありがたいです。
+#table_autoincrement(){label=No.,start=1}
+#areaedit(end)
+#endregion
+
+#div(width=200px,bgcolor=#006699){&size(17){&font(b,#FFF){　料金表}}}
+#table_style(head=#006699:#FFF){}
+|~制作物|~金額|~補足|
+|商品/ロゴ/名刺等|100万～300万円|頑張り具合によって前後|
+|ポスター等|50万円～|頑張り具合によって前後|
+
+//**従業員情報
+//***&underdot(#f7e6e7,3px){&space()従業員&space()}
+//#table_style(head=#006699:#FFF){名前=bold}
+//|~名前|~就職日|~備考|h
+//|[[名　前]]|yyyy/mm/dd|備考|
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//
+**沿革
+***&underdot(#f7e6e7,3px){&space()2026年&space()}
+#region(,open)
+#table_filter(){エピソード・備考=show}
+#table_style(head=#006699:#FFF)
+|~日付|~出来事|~エピソード・備考|h
+|07/29|事業開始|TwiXにて告知を行う|
+//|mm/dd|出来事|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//雇用情報は基本的に従業員情報へ
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

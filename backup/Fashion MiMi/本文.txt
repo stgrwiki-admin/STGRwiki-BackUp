@@ -1,0 +1,165 @@
+#center{
+&image(Fashion_MiMi.jpeg,x=400,y=250)
+}
+#right(){&size(11px){&color(#aaa){ロゴ：}[[&font(#aaa,u){ぜったい天使くるみ様}>>https://x.com/zti_krm/status/2019110741908074527?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]}}
+
+//❗️不要な行は削除して使用してください
+#table_style(head=#cbcbfd:#fff){}
+|~店名|~&icon_fa(fa fa-store)|&b(){&ruby(ファッション){Fashion} &ruby(ミミ){MiMi}}|
+|~業種|~&icon_fa(fa fa-shirt)|アパレル事業|
+|~job名|~&icon_fa(fa fa-user-tag)|市役所職員|
+|~TwiX|~&icon_fa(fa fa-mobile)|@fashionmimi|
+|~開業日|~&icon_fa(fa fa-flag)|2026年01月21日&space()&small(){（&countup(2026/1/21,yd)経過）}&br()&small(){※市から雇用された日を基準とする}|
+|~&space(4)正式始動&space(4)|~&space(2)&icon_fa(fa fa-address-card)&space(2)|2026年02月04日&space()&small(){（&countup(2026/2/4,yd)経過）}|
+|~社長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[スコティッシュ・ホールド]]}|
+//|~所在地|~&icon_fa(fa fa-map-marker)|××××番地|
+//|~オーナー|~&icon_fa(fa fa-user-secret)|&bold(){[[名　前]]}|
+//|~社長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[名　前]]}|
+//|~副社長|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[名　前]]}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+#div(width=200px,bgcolor=#cbcbfd){&size(17){&font(b,#FFFFFF){　概要}}}
+・MiMiとはフランス語で“かわいくてたまらない” “猫・にゃんこ”という意味をもつ。
+
+#div(width=200px,bgcolor=#cbcbfd){&size(17){&font(b,#FFFFFF){　主な業務内容}}}
+・店舗で販売する衣服の分類、在庫・価格管理&br()&font(11px,#ccc){（どの店舗でどの服を販売するか管理を行うことが可能）}
+・救急隊・警察などのジョブクローゼット整備
+
+#div(width=200px,bgcolor=#cbcbfd){&size(17){&font(b,#FFFFFF){　業務実績}}}
+・顧客へのコーディネート提案
+・コーディネートのマネキン販売
+・飲食店やカジノの制服・イベント衣装を考案
+#region(コーディネートを手がけた店舗・団体・イベント一覧)&b(){コーディネートを手がけた店舗・団体・イベント一覧}
+#areaedit
+#table_style(head=#cbcbfd:#fff){店舗名=bold}
+|~店舗名|~業種・種別|~備考|
+|[[V HOTEL]]|カジノ||
+|[[LosVegas]]|カジノ||
+|[[WAND BOX>>https://w.atwiki.jp/streamergta5/pages/3450.html]]|カジノ||
+|[[サニーケバブ]]|飲食店||
+|&link_anchor(主催イベント,page=アイドゥラー　ヨシャパテ){-Not Lost Time-}|イベント|2026/02/24 [[アイドゥラー・ヨシャパテ>>アイドゥラー　ヨシャパテ]]主催のイベント出演者向けに衣装を考案|
+|[[UGM]]|メカニック|様々なコーディネートを考案し仕事着として着用してもらう|
+|市役所職員|市役所職員|市長から直接依頼が入る&small(){（2026/03/25）}|
+#table_sorter{even=#FFF,odd=#F8F8FF}
+#table_autoincrement(){label=No.,start=1}
+#areaedit(end)
+#endregion
+・カタログの制作・SNSでの情報発信
+・ファッション誌の販売
+・ファッションショーの開催
+
+#div(width=200px,bgcolor=#cbcbfd){&size(17){&font(b,#FFFFFF){　今後の構想}}}
+・オリジナルデザインの洋服制作&br()2026/08/13 MiMiロゴTシャツが入荷した。
+
+#div(width=200px,bgcolor=#cbcbfd){&size(17){&font(b,#FFFFFF){　料金表}}}
+
+#region(料金表,open)料金表
+&blankimg(Fashion MiMi_料金表.jpg,x=330,y=440)
+#endregion
+
+**従業員情報
+***&underdot(#f3bbfc,3px){&space()従業員&space()}
+#table_filter(){就職日=show,他職業=hide,配信=hide}
+#table_style(head=#cbcbfd:#fff){名前=bold}
+|~役職|~名前|~就職日|~備考|~他職業|~配信|h
+|社長|[[スコティッシュ・ホールド]]|2026/01/22|Fashion MiMiを立ち上げた人物。可愛いお洋服のコーディネートを得意としている。&br()26/02/07 異性のコーデ依頼に対応できるよう男性の体を手に入れた。&font(11px,#ddd){水を被ると女に戻るらしい}|[[Vertex]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[YouTube>>https://www.youtube.com/@SukoyaKana]]|
+|スタッフ|[[チェン　マヨ]]|2026/01/22|お洋服屋さんの広報担当。カジュアル系のコーディネートを得意としている。|[[JTS]]&br()[[Ailemu]]|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/minami_mayo]]|
+|スタッフ|[[姫一　夕]]|2026/01/22|男性用の衣服の全てを知り尽くすエリート新人。&br()街随一のコスプレイヤーとして、累計300着のコーディネート制作実績を持つ。&br()普段着カジュアルからフォーマル、各種変装まで幅広いジャンルに対応可能。|[[Vertex]]|&color(#6441a4){&icon_fa(fa fa-twitch)}[[&color(#6641a4){Twitch}>>https://www.twitch.tv/hime_ta]]|
+|スタッフ|[[天近　くるみ]]|　|コーディネートはもちろんデザイナーとしても活躍。&br()店舗のロゴや料金表は彼女が手がけたものを使用している。&br()パンク・ロック系統のカッコイイコーディネートを担当。&br()過去にデパートで行われたファッションショーに出演した経験がある。&br()スコティッシュ・ホールドと同様に男性の体で業務を行えるようになった。|[[Wizardry Works]]&br()[[魔女の酒場]]&br()[[DASU]]|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/zti_kurumi]]/ &color(#DA1725){&font(#DA1725)&icon_fa(fa fa-youtube-play)}[[YouTube>>https://www.youtube.com/@zti_kurumi104]]|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//
+#co{編集✏️ズレ防止のため“ ** ”を書き換えております。表示する際に変更をお願いいたします。
+//
+//
+【***】&underdot(#f3bbfc,3px){&space()業務提携・協力関係&space()}
+#table_style(head=#cbcbfd:#fff)
+|~名前|~提携開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+//
+//
+【***】&underdot(#f3bbfc,3px){&space()職業体験者&space()}
+#table_style(head=#cbcbfd:#fff)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}
+//
+//
+【***】&underdot(#f3bbfc,3px){&space()退職者&space()}
+#table_style(head=#cbcbfd:#fff)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+}
+
+**取扱商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+***&underdot(#f3bbfc,3px){&space()カタログ・ファッション誌&space()}
+#region(2026/02/14 ファッション誌 TwiX告知／表紙,close)&b(){2026/02/14 ファッション誌 TwiX告知／表紙}
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #e8e7ff;){
+|&image(ファッション誌_260214.jpeg,x=200,y=300)|&image(ファッション誌_260214_2.jpeg,x=200,y=300)|
+&font(b,#aaa,12px){制作：ぜったい天使くるみ[[&font(u,#aaa){詳細&space()&icon_fa(fa fa-book-reader)}>>https://x.com/zti_krm/status/2022900119511929119?s=20]]}
+}}}
+#endregion
+
+#co{
+#region(yyyy/mm/dd 画像タイトル,close)&b(){yyyy/mm/dd 画像タイトル}
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #e8e7ff;){
+|&image(画像,x=200,y=300)|
+}}}
+#endregion
+}
+***&underdot(#f3bbfc,3px){&space()プロデュースしたコーディネート&space()}
+#include(Fashion MiMi/画像一覧)
+#co{
+【***】&underdot(#f3bbfc,3px){&space()その他画像&space()}
+//
+【***】&underdot(#f3bbfc,3px){&space()オリジナルデザイン&space()}
+#region(,open)
+#table_filter(){No.=show,種類=hide,画像=show,価格=hide,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+#table_style(head=#cbcbfd:#fff){No.=center,価格=right}
+|~種類|~商品名|~画像|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+|種類|商品名|画像|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|画像|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+}
+
+**沿革
+***&underdot(#f3bbfc,3px){&space()2026年&space()}
+#region(,open)
+#table_filter(){エピソード・備考=show}
+#table_style(head=#cbcbfd:#fff)
+|~日付|~出来事|~エピソード・備考|h
+|01/11|市長面談|[[スコティッシュ・ホールド]]が[[山下　ひろし]]と面談を行い、市から営業許可が下りる。|
+|01/21|jobの付与|市長からjobを与えられ本格的にアパレル事業を開始する。|
+|02/04|社名決定&br()正式始動|『Fashion MiMi』が本格的に始動&br()jobクローゼットの整備・SNSでの広報活動・コーディネートのマネキン販売がスタート|
+|02/14|雑誌始動&br()vol.1発売|ファッション雑誌vol.1が出版。&br()VT特集としてレギオンで販売された。出演協力：[[うさぎさん]]・[[万十忍>万十　忍]]・[[帝レン>帝　レン]]|
+|03/14|初心者応援キャンペーン|街に来て間もない初心者マークを付けた住人を対象に&br()「おまかせプラン」50万→20万円で受け付けを開始する(1回限り)|
+|03/25|市長面談|[[天近くるみ>>天近　くるみ]]がMiMiの作業場・店舗関連について市長と話をした|
+|03/29|ファッションショー|ホテルカジノ[[Vertex>>V HOTEL]]のオープニングイベントでファッションショーを開催|
+|06/04|新アイテム入荷|7245番地の服屋に着ぐるみを入荷した|
+|07/26|新アイテム入荷|7245番地の服屋に浴衣・下駄・お面を入荷した|
+|08/20|新アイテム入荷|TwiXにて新アイテムの告知を行う|
+//|mm/dd|出来事|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//雇用情報は基本的に従業員情報へ
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

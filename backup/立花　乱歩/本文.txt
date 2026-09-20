@@ -1,0 +1,660 @@
+////
+*&size(25){&size(35){&color(#d9a62d){プ}}ロフィール &icon_fa(fa fa-user-circle)}
+#region(Season1,open)
+|&image(立花乱歩警察.png,x=200)|&image(立花乱歩SWAT.png,x=200)|&image(立花　乱歩　【初期】.png,x=200)|&image(立花　乱歩　【制服】.png,x=190)|
+|CENTER:&bold(){警察}|CENTER:&bold(){SWAT}|CENTER:&bold(){初期}|CENTER:&bold(){制服}|
+#endregion
+
+&bold(){「立花、出勤します」}&br()&bold(){「白市民は味方だと思うな」}
+
+#table_style(head=#8d6449:#FFFFFF:)
+#table_filter(){Season1=hide,Season2=show}
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|
+|~名前|~&icon_fa(fa fa-user fa-fw)|>|&ruby(たちばな){&bold(){立花}} &ruby(らんぽ){&bold(){乱歩}} |
+|~出身地|~&icon_fa(fa fa-map-marker fa-fw)|>|日本|
+|~転入日|~&icon_fa(fa fa-plane fa-fw)|2022年10月10日(&countup(2022/10/10,yd)経過)|2026年1月14日(&countup(2026/1/14,yd)経過)|
+|~誕生日|~&icon_fa(fa fa-birthday-cake fa-fw)|>|2003年7月23日(&countup(2003/7/23,y)歳)|
+|~身長 / 体重|~&icon_fa(fa fa-arrows-v)|>|175cm / 62kg|
+|~血液型|~&icon_fa(fa fa-heartbeat)|>|B型|
+|~瞳の色|~&icon_fa(fa fa-eye)|>|水色|
+|~自宅|~&icon_fa(fa fa-home fa-fw) | 8115番地（2024/09/19~） |　|
+|~職業|~&icon_fa(fa fa-building-columns)|&icon_fa(fa fa-shield-halved)&space()&b(){[[警察官>ロスサントス警察]]}：&small(){2022/10/10~2023/04/12 人員整理}&br()&small(){&space(5)・2024/04/04~}&br()&small(){&space(5)・(4)Police_Inspector / 警部 2025/07/08〜}&br()&icon_fa(fa fa-handcuffs)&space()&b(){[[SWAT>ロスサントス警察#SWAT]]}：&small(){2024/04/04~}&br()&small(){&space(5)・Rank4 2025/07/08〜} |&icon_fa(fa fa-shield-halved)&space()&b(){[[警察官>ロスサントス警察]]}：&small(){2026/01/14~}&br()&small(){&space(5)・(3)Lieutenant / 警部補 2026/01/14~}&br()&icon_fa(fa fa-handcuffs)&space()&b(){[[SWAT>ロスサントス警察#SWAT]]}：&small(){2026/03/25~}&br()&small(){&space(5)・Rank4 2026/03/25〜} |
+|~TwiX|~&icon_fa(fa fa-dove)|@tachibana|@　|
+|~愛車|~&icon_fa(fa fa-car)|&icon_fa(fa fa-motorcycle)&space()Daemon&br()&icon_fa(fa fa-car-side)&space()Thrax|　|
+|~レーサー名|~&icon_fa(fa fa-flag-checkered)|FLOWER RANPO|　|
+|BGCOLOR(#d9a62d):~プレイヤー|BGCOLOR(#d9a62d):~&icon_fa(fa fa-address-card-o fa-fw)|>|&bold(){&color(#ffa500){おらんじ〜な}}|
+|BGCOLOR(#d9a62d):~告知等|BGCOLOR(#d9a62d):~&icon_fa(fa fa-bullhorn)|>|[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} メイン>>https://twitter.com/0RaNge117]] / [[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} サブ>>https://twitter.com/senpanorange]]|
+|BGCOLOR(#d9a62d):~配信場所|BGCOLOR(#d9a62d):~&icon_fa(fa fa-video)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@0RaNge117]] &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/0range117]] (同時配信)|
+|BGCOLOR(#d9a62d):~動画投稿|BGCOLOR(#d9a62d):~&icon_fa(fa fa-cut)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725)おらんじ〜な>>https://www.youtube.com/@0RaNge117]]|
+|BGCOLOR(#d9a62d):~ｱｰｶｲﾌﾞ投稿|BGCOLOR(#d9a62d):~&icon_fa(fa fa-film)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725)じなちゃのさぶちゃんねる>>https://youtube.com/@0range117_sub?si=KP3Afdze74UzdSLT]]/ &font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Season2 立花乱歩再生リスト>>https://youtube.com/playlist?list=PL9QrhFeMNI3GRmVK09Q8mUeTTVSNP2wZP&si=CH50hgnAdex-Sxtr]]|
+|BGCOLOR(#a99e93):~別キャラ|BGCOLOR(#a99e93):~&icon_fa(fa fa-user fa-fw)|>|[[神崎治>神崎　治]] / [[甘音ぽよ>甘音　ぽよ]] / [[椿散人>椿　散人]] |
+|BGCOLOR(#8d6449):~ガイドライン|BGCOLOR(#8d6449):~&icon_fa(fa fa-exclamation-triangle)|>|[[ツイフィール>>https://t.co/g0lKB5mh2P]]&br()&color(#e8c59c){⚫︎}二次創作について&br()&color(#e8c59c){⚫︎}イラストについて&br()&color(#e8c59c){⚫︎}切り抜きについて|
+
+//&br()&s(){(2023年4月12日 人員整理により解雇)}
+
+&font(b,white,#8d6449,130%){&color(#8d6449){［［}&icon_fa(fa fa-tag)目次 &color(#8d6449){］］}}
+#region(開く,close)閉じる
+#contents(level=2)
+#endregion
+
+*&size(25){&size(35){&color(#d9a62d){基}}本情報 &icon_fa(fa fa-address-card-o)}
+#region(当キャラクターについて)
+当キャラクターはプレイヤーであるおらんじ〜なが以下のTRPGセッション内で使用した探索者を一部改変したものです。
+[[【クトゥルフ神話TRPG】彼方からの君に捧ぐ 前編【#かなきみ_食堂卓】>>https://youtu.be/ctIHsd3Joas]]
+※継続探索者として他にも通過シナリオ有り。
+
+中でも以下のセッションは当キャラクター【立花　乱歩】へリンクする描写があります。
+[[【クトゥルフ神話TRPG】ハンドカフト！【#みかん箱カフト】>>https://youtu.be/9nanhz62SAA]]
+&image(ハンドカフト！サムネ.jpg,x=600)
+#endregion
+
+#div(width=330px,bgcolor=#f9d62e){&size(18){&icon_fa(fa fa-search)&space()&bold(){警官として}}}
+#region (開く)
+#region(動機)&b(){動機}
+&color(#e8c59c){●} 父親が警察官。自分も警察になるためにロスサントスにやってきた。
+&color(#e8c59c){●} 高校の時に「興味無いか｣と聞かれ勉強を始めて警察になったらしい。&small(){（詳しくは[[Day7>>https://www.youtube.com/live/PdC20BAKOPU?si=vSTREyCUUMN3tFEy]]3:44〜）}
+&color(#e8c59c){●} 1度人員整理で除名されたが、約1年半の月日を経てまた警察として頑張っている。
+//2024/08/28 “マヌ太郎”の後の句読点の間違いを修正しました。「、」→「。」
+#endregion(動機)
+#region(同期)&b(){同期}
+&color(#e8c59c){●} 初期の同期組は、[[霧切　トワ]]、[[ゴンザレス　マヌ太郎]]。[[キーモット　ホームズ]]によると警察戦隊（ロスサントス）ポリレンジャー世代。
+&color(#e8c59c){●} 復職後の同期組は[[夜若木　颯]]、[[川　中]]、[[佐々木]]、[[ヤミー　エンデバー]]で、中でもよく[[夜若木　颯]]（よわき・つよき）と共にバディ行動している姿が見られる。当人達曰く、枯葉世代らしい。※ただし、[[川　中]]には同期ではなく後輩だと思われている。(採用日が川中の方が２週間ほど早いため)[[&font(#DA1725)▶️>>https://www.youtube.com/live/7DWaxIX39vQ?t=1020s]]
+#endregion(同期)
+#region(事件対応)&b(){事件対応}
+&color(#e8c59c){●} 主にヘリを好み、空の出動時は「ボリトー」を扱う頻度が多い。復職当時は苦手意識を抱えていたものの、一度だけ[[青井　らだお]]の指導で受けた『理想のヘリアタック』を意識し始めて以来、練習を重ねて実践にて成果を発揮している。1on1で[[ハク　ナツメ]]と対峙した際には、技量を褒められ名を聞かれる等、現在では即戦力として活躍している。
+&color(#e8c59c){●} 「サーマル」は忌避しがち。事件時に突発的なIGLを行う際、無線報告が秒単位で多く定評があるものの、後輩に得意な者が増えた事もあり人員が少ない時にしか乗らない。特に「コナダ」が導入されてからは繊細な機体の特性を見抜き、より抵抗感がある。よくパラシュートを活用しているが、成功率はまちまち。
+&color(#e8c59c){●} 度々署員からサーマルヘリを薦められるが、やりたくない理由の一つに｢皆が倒れて行くのを見てる事しか出来ないから｣と&openclose2(show=言っている。){ただし誰かにそれを明かした事はない。 (24/12/12)}
+&color(#e8c59c){●} 現場へ向かう際、地上ではバイクに乗る機会が増えており、特に警察署襲撃を想定した際の本署へのエントリー方法など日々研究を重ねている。
+&color(#e8c59c){●} 一見軽薄そうな印象だが、空き時間に率先して備品を補充または修理していたり、自主性が高く&bold(){「会議よりもヘリ練」}等と言ってのける位にはストイックに努力を続ける大器晩成型。
+#endregion(事件対応)
+#region(その他)&b(){その他}
+&color(#e8c59c){●}「詐欺師」「画伯」とプロファイルに書かれている。
+&color(#e8c59c){●} 時間を持て余した際、先輩の中では[[伊勢　えびす]]、後輩の中では[[二部　らるたる]]、[[犬上　リオ]]と訓練している場面が多い。新ヘリが導入されて以降、何かと理由を付けてバイクに&s(){逃げて}乗っている。尚、会う度にヘリ練を[[伊藤　ぺいん]]に振られ続けており、まるで彼女のようなメンヘラ態度を取るのが恒例。
+&color(#e8c59c){●} 本人は否定しているが後輩への面倒見が良く、事件後のフィードバックやヘリ操作のコツを実演して見せたりしている。
+&color(#e8c59c){●} 復職前を踏まえると初期からの古参に含まれるため、上官に対して遠慮無く物申せる特殊な立場でもある。[[後藤　れむ]]と[[anbrella(餡ブレラ)]]が揉めた際はさりげなく仲介に入り後始末を行ったり、同僚がギャング組織とトラブルを起こした際のフォローが確りしている。
+&color(#e8c59c){●} 救急隊無線に[[ノビー　ラング]]がいると、連絡をした際なぜか爆笑される。また｢Si｣と言うと続けて歌を歌ってくれる。
+&color(#e8c59c){●} [[ロスサントス救急救命隊]]の一部からは、復帰したての新人当時に「爆散コース」をクリアした事で警察の次期幹部候補だと言われたり、何故か[[天羽　よつは]]に手を出したと事実無根の噂が広まっており、当たりが強い。
+#endregion(その他)
+#endregion(警官として)
+
+#div(width=330px,bgcolor=#f9d62e){&size(18){&icon_fa(fa fa-search)&space()&bold(){性格 特徴}}}
+#region(開く)閉じる
+&color(#e8c59c){●} パーソナルカラーは&openclose2(show=ブルベ冬){ ➡︎ 配信後の魂トーク(24/12/12)}
+&color(#e8c59c){●} 気さくで自然体。遊び心やユーモアのセンスがあるため、場にいると和む。素直で裏表がない人柄。
+&color(#e8c59c){●} 年齢や性別は関係なく交流するため、上官達とも直ぐに打ち解けてしまうなど、優れた社交性の持ち主。
+&color(#e8c59c){●} 何かあれば物怖じせず、率先して手を挙げて前へ出て行く。
+&color(#e8c59c){●} 新しい事も失敗を恐れず積極的に取り組み、[[青井　らだお]]から直々に指導を受けた際は苦手としていた「サーマル」ヘリに挑戦するなど、向上心が高い。
+&color(#e8c59c){●} 心身ともにタフで、逆境に強い。失敗しても「次に活かす！」と前向きで、良い方向に物事を進めるポジティブ思考。
+&color(#e8c59c){●} 探究心が強く、自由奔放。退屈な時間が続くと、変化を求めて上官に悪戯して波紋を生じさせるような事をしがち。
+&color(#e8c59c){●} 職業柄か、&bold(){黒市民に対しては些か対応が機械的、または感情移入しないよう明確に一線を引いている節がある。}街の秩序を脅かす犯罪者の思考を「理解しがたい」と一貫しているが、彼らと相容れないが故に客観視出来てしまうため、寧ろより犯罪者の特性について理解しているという矛盾。
+&color(#e8c59c){●} 物事の本質を見抜く力があり、適切な判断と対処に優れている。[[868]]情報漏洩事件では[[安保　さぶ郎]]、[[伊勢　えびす]]が誘拐された際、相手の要求を呑まずに一人現場に潜み、高所から銃を構えるといった機転を利かせたり、凄まじくブレない決断力がある。
+&color(#e8c59c){●} 正義感が強く、救急隊も公務員の仲間として気にかけており、病院からの通報があればすぐに駆けつけたり、無線で様子を見に行くよう指示を出す場面が多く見られる。
+&color(#e8c59c){●}唯一の趣味が[[&font(#DA1725)映画鑑賞>>https://www.youtube.com/live/7DWaxIX39vQ?t=13480s]](2025/4/11)
+#endregion
+
+#div(width=330px,bgcolor=#f9d62e){&size(18){&icon_fa(fa fa-search)&space()&bold(){技能}}}
+#region(開く)閉じる
+
+&color(#e8c59c){●} 地上と空、攻守を兼ね備えたオールラウンダー。自ずと前線で先陣を切るため、かなり好戦的なタイプ。またヘリ操縦に長けており、その技術はベテラン勢にも劣らない。
+&color(#e8c59c){●} 敵味方が入り乱れる混戦した現場でも細かなIGLの報告を都度記憶しており、迅速な状況判断を下す。大型犯罪対応では必要に応じて戦略を纏め上げ、指示または提案する場面も多い。
+&color(#e8c59c){●} 大型犯罪対応時は「ヘリアタック」の役割を担う事があるが、[[青井　らだお]]に使用禁止令が出されてからは、先ずは「サーマル」の苦手意識を克服すべく試行錯誤していた。現在は余程の事が無い限り、バイクまたはボリトーでの出動が多め。
+&color(#e8c59c){●} 簡潔な無線報告に加えて声に存在感があるため、黄金世代[[青井　らだお]]、[[伊藤　ぺいん]]、[[ニックス　リア]]から「IGLの素質がある」と期待されている節がある。が、実践となると地上へ行きがちで中々率先して挙手しようとはしない。
+&color(#e8c59c){●} 車の運転は遊び心と荒さがやや目立ち、同乗した警官だけでなく護送中の犯人からも「声はクールなのに運転がやんちゃすぎる」「乱歩に殺される」等と野次を飛ばされる事がある。同期の[[夜若木　颯]]（よわき＆つよき）が警察で一番車の運転が上手いため、彼等がいる時は積極的に助手席へ乗り、お互い阿吽の呼吸で生存率を高めている。
+&color(#e8c59c){●} 感覚派に見えて、全体俯瞰して思考する能力が高い。敗北した際は瞬時に状況を振り返り分析する傾向があり、実践と改善を繰り返すため、成長速度が早い。
+&color(#e8c59c){●} 少々戦闘パフォーマンスに波がある。絶好調の時は目覚ましい活躍を見せるが、不調な日はとことん上手くいかない。
+&color(#e8c59c){●} 小回りが利くバイクに可能性を感じ、様々なエントリー方法を研究している。それに感化され、直近では[[紀伊路　つみき]]等は自称弟子としてバイクを乗り始めたり、他の警察職員へ影響を与えている。
+&color(#e8c59c){●} 基本的に一人でバイク訓練をしているため、いつも一人な事を救急隊や同僚にからかわれる事がある。
+#endregion
+
+#div(width=330px,bgcolor=#f9d62e){&size(18){&icon_fa(fa fa-search)&space()&bold(){立花乱歩について}}}
+#region(開く)&space()&font(i){過去を示唆する発言等}
+
+//ロスサントスに来る前・過去にまつわるエピソード
+・&font(15px){&u(){父親に関する情報}}
+#region(詳細)
+・&font(15px){&b(){[[2025/3/5>>https://www.youtube.com/live/RZXy4P16fzY?si=xAdJVsh0Q7Yy8IVy]]}&space(2)&u(){[[山田 ジェイミー>>山田　ジェイミー]]との対話}}
+&color(#e8c59c){●}警察を続けている理由や信念を聞かれた時に、自身の父親が日本の警察官であることを話す。&font(i,#666,#fcf5ee){「そいつを超えようと思ってやってる」}
+&color(#e8c59c){●}父親を目指しているのではなく&font(i,#666,#fcf5ee){「そいつみたいにはなりたくない」}と語っている。ただし最初はそうだったし今も変わったという訳ではない。
+#endregion
+
+・&font(15px,b,u){[[科場 諸朋>>科場　諸朋]]による殺人未遂事件について}
+#region(詳細)
+&font(15px,b){[[2025/3/28>>https://www.youtube.com/live/cmHLNbDv7FU?si=34dN8r4WhErk5QJe]]}
+&color(#e8c59c){●}現場に駆けつけた際に[[羽山 ペティ>>羽山　ペティ]]から預かったメモとサインの写真を確認してすぐに状況を理解する。[[ヒロ ヤマモト>>ヒロ　ヤマモト]]から何か知っているのかと聞かれた時に&font(i,#666,#fcf5ee){「この儀式は知らない」}と話している。
+&color(#e8c59c){●}&font(i,#666,#fcf5ee){「こっちに来てまでこんなのに巻き込まれるとは……」}という発言から、過去に似たような事象を目にしている可能性がある。
+&color(#e8c59c){●}事情聴取の際に出てきた『アーカム』『ミスカトニック大学』というワードに思い当たる節がある。
+&color(#e8c59c){●}所々で頭痛に苦しむ様子があった。この事件との関連性は不明。
+&color(#e8c59c){●}科場 諸朋の発言に対して周囲に居る人達に度々耳を傾けないよう呼びかけていた。
+&color(#e8c59c){●}[[日之 ぱちお>>日之　ぱちお]]と[[安保 さぶ郎>>安保　さぶ郎]]を交えた情報共有の際、この街に来る前の話として&font(i,#666,#fcf5ee){「実はこういう話、昔少し聞いた事があるような気がするんですよ」}と発言しており、深くは思い出したくない記憶であると言っている。
+&color(#e8c59c){●}また[[石楠花 いのり>>石楠花　いのり]]と[[ヘラシギ]]の事件における『呪い』という事象や今回の『儀式』について、&font(i,#666,#fcf5ee){「そういう可笑しな事ってあるんですよね、一定数」}&space() &font(i,#666,#fcf5ee){「俺は信じますよ。信じたくないですが、そういったものがあるというのは俺も知ってはいるんで」}と語っている。
+&color(#e8c59c){●}関わらなくて済むなら関わりたくない。
+&color(#e8c59c){●}科場 諸朋が街中に描いたスプレーの落書きを印やマークと呼ぶ人がいる中で、ただ一人『サイン』と発言している。&openclose2(show=※){『エルダーサイン』であるということ・その意味を理解している可能性がある}
+#endregion(2025/3/28)
+
+・&font(15px){&u(){その他 立花乱歩に関する情報}}
+#region(詳細)
+&color(#e8c59c){●}誕生日を祝う文化がないことについて[[羽山 ペティ>>羽山　ペティ]]との会話の後、自身もないということを[[ヒロ ヤマモト>>ヒロ　ヤマモト]]に話している。&small(){&font(i){（[[2025/3/28>>https://www.youtube.com/live/cmHLNbDv7FU?t=14676s]]）}}
+
+#endregion(立花乱歩に関する情報)
+
+#endregion(立花乱歩について)
+
+#div(width=330px,bgcolor=#f9d62e){&size(18){&icon_fa(fa fa-search)&space()&bold(){備考}}}
+***&underdot(#a7cc99,2px){ 2022年 }
+#region(開く)閉じる
+・ロスサントスで4日ほど警察官として働いたのち、しばらく日本に帰っていた。&br()&small(){→その間、2023年4月12日に人員整理により解雇される。}
+
+#endregion
+***&underdot(#a7cc99,2px){ 2024年 }
+#region(開く)閉じる
+#size(90%){{{#table_style(head=center:#8d6449:#fff)
+|~配信日|~内容|&font(#DA1725){&icon_fa(fa fa-youtube-play)}|~備考|h
+|03/21| 17ヶ月ぶりにロスサントスに戻り警察体験を開始|||
+|04/04|再雇用|||
+|05/01|ランク２への昇格試験内容が課される|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}21:41>>https://www.youtube.com/live/g1e3BR-EpHQ?si=r_EVoNGpa-_pKIgh&t=1516]]|試験内容は救急隊の[[天羽 よつは>>天羽　よつは]]の指導の元、｢救急隊ヘリ訓練用 上級｣と｢救急隊ヘリ訓練用 爆散｣をクリアすること|
+|05/01|｢救急隊ヘリ訓練用 上級｣をクリア|||
+|05/05|｢救急隊ヘリ訓練用 爆散｣をクリア|||
+|05/05|ランク２へ昇格|||
+|05/14|ランク３への昇格試験内容が課される|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}01:57>>https://www.youtube.com/live/zhJCyFaXdnw?si=bpjrepUD-BXxGx7C&t=20800]]|試験内容は救急隊の[[天羽 よつは>>天羽　よつは]]、もしくは[[神崎 治>>神崎　治]]を指導し、｢救急隊ヘリ訓練用 爆散｣をクリアさせること|
+|10/15|ランク３へ昇格|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}01:07>>https://www.youtube.com/live/L-SJE0WtVXI?si=qpwlEq1KpRzKLKQ5&t=11263]]|上記の試験は実施されず、上司たちの評価を得て[[ジャック　馬ウアー]]により、ランク3へ昇格|
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+#endregion(2024年)
+//
+***&underdot(#a7cc99,2px){ 2025年 }
+#region(開く)閉じる
+#size(90%){{{#table_style(head=center:#8d6449:#fff)
+|~配信日|~内容|&font(#DA1725){&icon_fa(fa fa-youtube-play)}|~備考|h
+|01/10|バイクの免許取得||バイクの免許が別で必要なことを知らず、今まで免許を取得してなかった&br()[[猪狩>>猪狩　翔太]]さんに講習してもらい取得|
+|01/14|アップデート||🪂 パラシュートの問題を解決 🪂 / 📱 警察用タブレットをアップデート🚓 / 🪛警察用車両用ロックピックが実装🚓 |
+|01/29|フロガー購入🚁||鳥野さんより練習用のフロガーを購入 |
+|03/28|殺人未遂事件|MIDDLE:CENTER:[[&font(#DA1725)🎥No.9>>https://youtu.be/rL28ZzYvo_w?si=iCoGTUeBEydXEn89]]|[[科場 諸朋>>科場　諸朋]]による殺人未遂事件が発生&space(2)[[ヒロ ヤマモト>>ヒロ　ヤマモト]]と共に謎の儀式を止めるべく奔走した|
+|07/08|ランク4へ昇格||[[皇帝>>ニックス　リア]]により警察・SWATともにRANK４に昇格した|
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+#endregion(2025年)
+***&underdot(#a7cc99,2px){ 2026年 }
+#region(開く,open)
+#size(90%){{{#table_style(head=center:#8d6449:#fff)
+|~配信日|~内容|&font(#DA1725){&icon_fa(fa fa-youtube-play)}|~備考|h
+|01/14|警察に再就職|MIDDLE:CENTER:[[🎥No.1>>https://youtu.be/voWzxqUjQ2A]]|起床時に一時的な記憶喪失の症状があったもののその日のうちに回復&br()再び警察官として街で活動することに|
+|06/26|ポリスバイクを購入|　|　|
+//[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>URL]]
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+#endregion(2026年)
+
+#div(width=330px,bgcolor=#f9d62e){&size(18){&icon_fa(fa fa-search)&space()&bold(){車両関係}}}
+#region(詳細,close)閉じる
+***&color(#e8c59c){●}所有車両
+#size(90%){{{#table_style(head=center:#8d6449:#fff)
+|~車種|~写真|~名前|~入手日|~備考|h
+|MIDDLE:CENTER:🏍️|MIDDLE:CENTER:&image(WMC Daemon.png,y=80)|&ruby(WMCDaemon){バイク恵比寿バイク}|2024/4/5|警察合格祝いに[[えびせん>>伊勢　えびす]]からもらったバイク|
+|MIDDLE:CENTER:🚗|MIDDLE:CENTER:&image(Truffade Thrax.jpg,y=80)|Truffade Thrax|2024/12/14|[[上田さん>>上田　さん]]から購入|
+|MIDDLE:CENTER:🚁|MIDDLE:CENTER:&image(フロガーカスタム.png,y=80)| Frogger Custom|2025/1/29|ヘリ練の際に先輩に借りなくても練習ができるように買ったフロガー&br()[[鳥野さん>>鳥野　ぎん]]から購入|
+|MIDDLE:CENTER:🏍️|MIDDLE:CENTER:|&ruby(Chimera){Nagasaki Chimera}|2025/4/10|[[えびせん>>伊勢　えびす]]からもらったバイク|
+}}}
+//***&color(#e8c59c){●}警察車両
+//#table_style(head=center:#8d6449:#fff)
+//|~車種|~写真|~名前|~入手日|~備考|h
+#endregion
+
+*&size(25){&size(35){&color(#d9a62d){交}}友関係 &icon_fa(fa fa-users)}
+***&font(17px,#007BBB){&icon_fa(fa fa-shield-halved)}&font(17px){ ロスサントス警察}
+//>>ご指摘ありがとうございます。修正しました。
+//お手数をお掛けしました、ありがとうございます！
+#region(開く)閉じる
+#table_style(head=center:#8d6449:#fff)
+|~　キャラクター名　|~詳細|h
+|[[ジャック　馬ウアー]]|[[ロスサントス警察]] 本署署長　2022年時からの先輩|
+|[[キーモット　ホームズ]]|北署署長　2022年時からの先輩　マトリで犯人を確保する瞬間をライブ配信していた&br()ポリレンジャー（ピンク）|
+|[[如月　キャシー]]|2022年時からの先輩　伊坂直樹の恋人 &br()偶然自宅前で新居探しに居合わせたことからご近所さんになった|
+|[[後藤　れむ]]|2022年時では後輩 しっかり者のベテラン警官とはいえまだまだ幼い部分がある|
+|[[二十日　ネル]]|2022年時からの先輩　特殊部隊Dogsの一人 からかって追いかけ回されることもしばしば|
+|[[伊坂　直樹]]|如月キャシーの恋人　2022年の試験(車)担当者&br()初めての事件対応(現金輸送車)にも連れて行ってもらい、初期の仕事の説明も受けた&br()ポリレンジャー（青）|
+|[[ゴンザレス　マヌ太郎]]|2022年に初めて街に来た時の第一村人　2022年時の同期&br()ポリレンジャー（赤）|
+|[[ミン　ドリー]]|SWAT隊長 頼りになる上官 部下をよく見ている|
+|[[ニックス　リア]]|SWAT副隊長&br()新しく署を作りたいらしく、帝国署に勧誘され引き受けた|
+|[[きらりんぶい☆　なずぴ(10)]]|北署 副所長&br()上官として署員を守るという意識の強い人　JTSへ謝罪に行った際について来てくれた|
+|[[ましゃかり　トラボルタ]]|2022年からの先輩　「トラボルタさん」と呼ぶ事が多いが、今そう呼ぶのは乱歩を含め２人ほどしか居ないらしい|
+|[[ボイラ　テンガリン]]|砂漠署の先輩　見かけるとよくからかって追いかけ回される|
+|[[成瀬　力二]]|屋上の人 鼻につく話し方と言われる 一緒に事件対応を行った|
+|[[青井　らだお]]|ヘリの指導をしてくれた先輩 アタックのやり方を隣に乗って見せてもらった|
+|[[伊藤　ぺいん]]|ヘリ練に付き合ってくれる先輩 起きてきた時は練習してくれるまで追いかける&br()乱歩が一番尊敬している先輩&br()手紙とぬいぐるみを専用パトカーから見つけ、持ち歩いている&small(){（2025/02/15〜）}|
+|[[安保　さぶ郎]]|気にかけてくれる先輩&br()時々子供のような扱いをされるのが気に入らなくて反抗的な態度をとってしまうことも|
+|[[もり　るんるん]]|明るい先輩 突飛な言動が偶にツボにハマり面白がっている|
+|[[伊勢　えびす]]|かなり信頼している先輩　ヘリやテーザーでちょっかいをかけ合う事が多く、自主練によく付き合ってくれる&br()ゴシップ関連の問題の時に悩みを聞いた際、乱歩が遊んでくれないと言われたため今度友達として遊びに行こうと伝えた&br()自分の誕生日を教えた数少ない署員の内の一人|
+|[[赤城　煉]]|元南警察署長&br()皇帝と揉めていた時に危うく一緒に連れて行かれそうになったことがある|
+|[[花沢　まるん]]|南署署長 よくちょっかいをかけて怒られる|
+|[[日之　ぱちお]]|南署副署長　救急隊との情報共有について相談した際には積極的に動いてくれた&br()|
+|[[オルカ　トヴォロ]]|南署所属の先輩　よくいじったりモノマネをして怒られる|
+|[[ヤミー　エンデバー]]|同期の一人　軽い口調でフランクに話す人物&br()最近はメールをメモ帳代わりにしているが、起きてきた時に指摘された|
+|[[文月　夏苗]]|案外お茶目でイタズラ好きな一面がある警官&br()バイクに乗っているところをよく見かける|
+|[[夜若木　颯]]&br()[[つよき　そう>>夜若木　颯/つよき　そう]]|同期の中では一番長い時間を一緒に過ごしている　退勤してほしくなくてよくゴネている&br()よわきとつよきをそれぞれ一人として見ている為よわきが引き篭ってしまった時は特に気にかけていた&br()口喧嘩をすることもあるが二人に対する信頼は揺るがぬものになりつつあると同時に、感情の重さも日毎に増している&br()お互い出勤していることに気づくと無線で名指しで挨拶をする　最近はよわきからも呼び捨てで呼ばれている&br()乱歩自身に誕生日を祝う習慣はないが、よわきの誕生日祝いにケーキを贈った|
+|[[川　中]]|川中本人には同期と認知されていないが一応同期|
+|[[佐々木]]|同期の一人 夕飯トークをする仲|
+|[[御庭野　えんちょう]]|[[川上たばこ店]]に訪れた際に間違えられたことから、たばこ店では『えんちょう』と名乗りながら入店する|
+|[[ヒロ　ヤマモト]]|南署所属の後輩&space(2)科場諸朋が起こした事件について通報を受け彼とバディで対応を行った|
+|[[二部　らるたる]]|ヘリ練仲間　最近はバイクも一緒に練習している&br()ヘリのIGLのみならず地上でも戦力として活躍しており非常に優秀だが、ギャンブル好きが玉に瑕|
+|[[犬上　リオ]]|ヘリ練仲間　よくギャングに絡まれがちで若干心配 &br()不利な状況でも打ち勝てる化け物じみた銃の腕前に絶大な信頼を置いている&br()自分の誕生日を教えた数少ない署員の内の一人&br()チョケで戯れ合いや煽り合いになることも多く、実はリオの方が年上のためガキと言われている|
+|[[紀伊路　つみき]]|バイク練習仲間　バイクにおいては師匠と呼ばれる事もある|
+|[[冷泉ナデシコ]]|ヘリを頑張っている後輩　ヘリアタックを教える事が多い|
+|[[味野　環九郎]]|ダウナーな後輩 ほぼ毎日17時〜5時で起きている|
+|[[胡　將]]|後輩の1人 牢屋対応を教えた　アッシーとして呼び出す|
+|[[真島　ルイ]]|東署の後輩&br()ユニオン対応中に暇電したことがある|
+|[[こはる　はる]]|ピンク髪で仮面をつけた後輩 中性的な声音の人物&br()「こはるくん」と呼んでいるが女性である|
+#table_sorter{even=#fff,odd=#FFF7EB}
+#endregion
+//
+***&font(17px,#FF0000){&icon_fa(fa fa-heartbeat)}&font(17px){ ロスサントス救急隊}
+#region(開く)閉じる
+#table_style(head=center:#8d6449:#fff)
+|~　キャラクター名　|~詳細|h
+|[[命田　守]]|救急隊の隊長 いまだに名前を覚えてくれない|
+|[[橘　かげまる]]|医局長　2022年からの知り合い　&br()[[パティ>>羽山　パティ]]によると２人で『たちたち達』|
+|[[伊藤　カテジ]]|伊藤カテジ救出の際に同行した|
+|[[ももみ>>ももみ　マルフォイ]]|しっかり者の隊員 ダウンの回数が多いと怒られる|
+|[[神崎 ︎︎治]]|何かと名前を出される ︎︎本人は嫌われていると思っているがLOLはする不思議な関係 ︎︎電話越しだが1度だけ声を聞いたことがある|
+|[[ノビー　ラング]]|無線を入れるとなぜか爆笑してくる　乱歩の顔を彫刻と言ってくる|
+|[[雷堂　ましろ]]|よく分からない扱いをされる事が多い　乱歩の顔を芸術品と言ってくる|
+|[[サンクチュアリ　たえこ]]|癖の強い救急隊員　救助に彼女が来るとよくチェンジを求めている|
+|[[ゆた　んぽ]]|「んぽ」仲間　度々救急隊合格を祝っている|
+#table_sorter{even=#fff,odd=#FFF7EB}
+#endregion
+//
+***&font(17px,black){&icon_fa(fa fa-user-secret)}&font(17px){ 黒市民}
+#region(開く)
+#table_style(head=center:#8d6449:#fff)
+#table_filter(){キャラクター名=show,所属=hide,備考=show}
+|~　キャラクター名　|~所属|~詳細|h
+|[[みこだ　よう]]|&s(){&font(b,#c0c0c0){ALLIN}}&br() |頼れる先輩だった人 闇落ちの瞬間に立ち会った&br()警察時代 自分が誘拐された時に助けに来てくれた|
+|[[ヴァン　ダーマー]]|&font(b,black){MOZU}|[[MOZU]]ボス 868事件の際に誘拐された&br()道で倒れているヴァンダーマーを発見した時の一連の流れから、「ヴァンダーマーキャンセル（ヴァンキャン）」という単語を流行らせようとしている|
+|[[堕夜　だよ]]|&font(b,black){MOZU}|868事件の際には[[安保　さぶ郎]][[伊勢　えびす]]と三人で現場に居合わせた|
+|[[いわさき　そす]]|&font(b,#99000D){&s(){餡ブレラ}}|元[[個人医]]  ｢乱歩｣と呼んで絡んでくる&br()不本意ではあるが海中でダウンしてると海面まで運んでくれる|
+|[[聖母　れりあ]]|&font(b,#99000D){&s(){餡ブレラ}}|軍服を着てとせがまれ渋々着替えたことがある その後似顔絵を描いてくれた|
+|[[山田　ジェイミー]]|&font(b,#99000D){&s(){餡ブレラ}}||
+|[[無月　レオ]]|&font(b,#FA4500){NO LIMIT}|容姿が似ていると言われる 時空警察から身を隠す手助けをした|
+|[[ハク　ナツメ]]|&font(b,#FA4500){NO LIMIT}|コンビニ対応の際、2023年次に乱歩を正式に警察から除名した一人が彼であった事が判明した|
+|[[レダー　ヨージロー]]|&font(b,#FFBFCB){868}|乱歩のヘリの扱いに強い影響を与えた人物|
+|[[ジョシュア・マーキル]]|&font(b,#FFBFCB){868}||
+|[[アドミゲス・ハン]]|&font(b,#006400){hantasma}|元[[IRiS]]構成員 主催しているこちハンに参加したことがある&br()仕事中の乱歩の車両に乗り込んで着いてきたり、たまにちょっかいをかけ合う事がある|
+|[[ガヴァイ　アッカンマン]]|&font(b,#6944a8){Trickster}|以前にらだお先輩に教えてもらったヘリアタックを実演して見せたことがある&br()動き方やヘリについて積極的に聞いてくれる真面目な後輩だった 声が似ているとよく言われる|
+|[[小峯　玲]]|-|元[[IRiS]]構成員 現在は様々なギャングの傭兵も行っている [[魔女の酒場]]の店員&br()よく一人で軍事物資を行っている 顔を合わせる度にチクチク小言を言ってくる人物|
+|[[羽山　パティ]]|-|元[[IRiS]]構成員 / 元[[個人医]] / [[U FOR U]]の店員&br()17ヶ月ぶりにロスサントスに戻った日 牢屋に治療に来たかげまる医局長と三人でややこしい雰囲気になっていた&br()言い合いになる場面が多い反面、U FOR Uにて仕事への向き合い方や犯罪への考え方などを深く話したこともある|
+|[[高橋　滅論]]|&font(b,#ffd700){第4宇宙速度}|時々絡んでくる人物 その度にあしらっている|
+|[[鷹　シエール]]|-|珍しく市民交流をした際に[[はが　かける]]と三人できのこ狩りをした事がある|
+|[[光乃　あびす]]|&font(b,#006400){hantasma}|初対面の際に警察である事を隠した所、「怪しい」「悪人面」などと言われ犯罪者だと思われた&br()宝石店やコンビニで度々再会している。|
+|[[畳　かえる]]|&font(b,#006400){hantasma}|HANTASMA構成員　指名手配で逮捕する際少しトラブルになった事がある&br()推しパフェを買う約束をした 2025/06/15無事推しパフェ購入|
+#table_sorter{even=#fff,odd=#FFF7EB}
+#endregion
+#co{
+&font(b,#c0c0c0){ALLIN}|
+&font(b,#99000D){餡ブレラ}|
+&font(b,black){MOZU}|
+&font(b,#EAF4FC){GBC}|
+&font(b,#FA4500){NO LIMIT}|
+&font(b,#FFBFCB){868}|
+&font(b,#48A06A){麻陀羅組}|
+&font(b,#006400){hantasma}|
+&font(b,#6944a8){Trickster}|
+&font(b,#ffd700){第4宇宙速度}|
+&font(b,#003F8E){DERAY}|
+&font(b,#C0C0C0){RqteL}|
+&font(b,#696969){半グレ}|
+&font(b,#d3d3d3){個人医}|
+}
+***&font(17px,#3eb370){&icon_fa(fa fa-user)}&font(17px){ 市民}
+#region(開く)閉じる
+#table_style(head=center:#8d6449:#fff)
+|~　キャラクター名　|~詳細|h
+|[[山下　ひろし]]|[[伊藤　カテジ]]の救出に同行した際[[トロッポ]]、[[スティーブ　ロドリゲス]]と共に襲われ、指名手配をかけた事がある　&br()この件以来あまり信用していない&br()施設の扉が最近再び開いたと聞き、襲ってきた市長がダーク市長だったのかもしれないと考えている|
+|[[ムーチョ　文岡]]|虚空新聞の記者&br()事件に巻き込まれ記憶をなくした際に対応した|
+|[[はが　かける]]|珍しく市民交流をした際、[[無月　レオ]]、[[鷹　シエール]]らと共に誘われきのこ狩りや心理テストをした|
+|[[白井　満太]]|元ALLIN構成員&br()ヘリで対面すると、毎回「今日は何を食べたかor何を食べる予定か」を話す流れになっている|
+#table_sorter{even=#fff,odd=#FFF7EB}
+#endregion
+
+*&size(25){&size(35){&color(#d9a62d){ク}}ローゼット &icon_fa(fa fa-black-tie)}
+***&underdot(#a7cc99,2px){ 仕事着 }
+#region(開く)
+#div(width=330px,bgcolor=#f9d62e){&size(18){&space()&bold(){season1}}}
+#table_style(head=center:#8d6449:#fff)
+|&blankimg(IMG_8589.jpeg,y=215,x=100)|&blankimg(IMG_8613.jpeg,y=215,x=100)|&blankimg(IMG_8574.jpeg,y=215,x=100)|
+|~&size(11){長袖}|~&size(11){クールビズ}|~&size(11){冬服('24)}|
+#table_style(head=center:#8d6449:#fff)
+|&blankimg(IMG_8585.jpeg,y=215,x=100)|&blankimg(帝国署制服.jpeg,y=215,x=100)|
+|~&size(11){警察正装}|~&size(11){帝国署}|
+
+#div(width=330px,bgcolor=#f9d62e){&size(18){&space()&bold(){season2}}}
+
+#endregion(仕事着)
+//
+***&underdot(#a7cc99,2px){ 普段着 }
+#region(開く)
+#div(width=330px,bgcolor=#f9d62e){&size(18){&space()&bold(){season1}}}
+#table_style(head=center:#8d6449:#fff)
+|&blankimg(IMG_8603.jpeg,y=215,x=100)|&blankimg(IMG_8597.jpeg,y=215,x=100)|&blankimg(IMG_8562.jpeg,y=215,x=100)|
+|~&size(11){コート}|~&size(11){ブルゾン}|~&size(11){革ジャケット}|
+#table_style(head=center:#8d6449:#fff)
+|&blankimg(IMG_8490.jpeg,y=215,x=100)|&blankimg(IMG_8494.jpeg,y=215,x=100)|&blankimg(IMG_8616.jpeg,y=215,x=100)|
+|~&size(11){黒シャツ}|~&size(11){黒タートル}|~&size(11){サスペンダー}|
+
+#div(width=330px,bgcolor=#f9d62e){&size(18){&space()&bold(){season2}}}
+
+#endregion(普段着)
+//
+***&underdot(#a7cc99,2px){ その他 }
+#region(開く)
+#div(width=330px,bgcolor=#f9d62e){&size(18){&space()&bold(){season1}}}
+#table_style(head=center:#8d6449:#fff)
+|&blankimg(IMG_8595.jpeg,y=215,x=100)|&blankimg(IMG_8604.jpeg,y=215,x=100)|
+|~&size(11){メイド服}|~&size(11){軍服}|
+
+#div(width=330px,bgcolor=#f9d62e){&size(18){&space()&bold(){season2}}}
+
+#endregion(その他)
+
+*&size(25){&size(35){&color(#d9a62d){ス}}}トーリー &icon_fa(fa fa-&font(#f39800)&icon_fa(fa fa-pencil)
+&b(){Season1 完}  &small(){2025/09/18}
+
+#region(Season１終了後のポスト)
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ストグラSeason1ありがとう‼️<br>短い様で長い3年間だったな<br><br>きっとまたすぐ会えますよ🚑🚓<a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a></p>&mdash; おらんじ～な (@senpanorange) <a href="https://twitter.com/senpanorange/status/1969785991809712295?ref_src=twsrc%5Etfw">September 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}
+#endregion
+
+*&size(25){&size(35){&color(#d9a62d){エ}}ピソード &icon_fa(fa fa-calendar-o)}
+#include(立花　乱歩/S1エピソード)
+
+#div(width=330px,bgcolor=#f9d62e){&size(18){&space()&bold(){season2}}}
+**&color(#8d6449){&icon_fa(fa fa-circle)} 2026年(Day1〜)
+***&color(#8d6449){●}1月(Day1〜2)
+#region(開く)閉じる
+****Day1　01/14　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「寝すぎたようだなSWATﾒｰﾝ」>>https://www.youtube.com/live/yZbmBNSflG0?si=KGxPV7ap7SzeVKzi]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+****Day2　01/24　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「出勤しますかSWATﾒｰﾝ」>>https://m.youtube.com/watch?v=vEHNm-trgX8]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+#endregion(1月)
+***&color(#8d6449){●}3月(Day3〜7)
+#region(開く)閉じる
+****Day3　03/06　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「寝すぎたようだなSWATﾒｰﾝ」>>https://www.youtube.com/live/bkxjAKY25jA?si=QWGhYSY1UQdqmAPa]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+****Day4　03/11　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「突然起きて突然寝るSWATﾒｰﾝ」>>https://www.youtube.com/live/BsoBtPESrNA?si=KRtkAPIIZP6EkXpc]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+****Day5　03/19　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「バイクをくださいSWATﾒｰﾝ」>>https://www.youtube.com/live/nVSCrFQ_njg?si=B2iV2JYhN5WWhqtY]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+****Day6　03/25　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「SWAT始めましたSWATﾒｰﾝ」>>https://www.youtube.com/live/lqY6o1x8OgA?si=mMsuERswc_L9YtI5]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+****Day7　03/28　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「全部ぶっ飛ばすSWATﾒｰﾝ」>>https://www.youtube.com/live/GMUus87k860]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+#endregion(3月)
+***&color(#8d6449){●}4月(Day8〜10)
+#region(開く)閉じる
+****Day8　04/08　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「ミッドナイト起床SWATﾒｰﾝ」>>https://www.youtube.com/live/uz19BwaZ7pc]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+****Day9　04/12　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「街のお巡りSWATﾒｰﾝ」>>https://www.youtube.com/live/jB2kBKLEVyc]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+****Day10　04/18　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「検挙を頑張るSWATﾒｰﾝ」>>https://www.youtube.com/live/DKO0RvmPK4Q]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+#endregion(4月)
+***&color(#8d6449){●}5月〜7月(Day11〜)
+#region(開く,open)閉じる
+****Day11　05/24　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「Long Time No See SWATﾒｰﾝ」>>https://www.youtube.com/live/hIqKQc3vuoY]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+****Day12　06/26　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「ばばばバイクが登場！？SWATﾒｰﾝ」>>https://www.youtube.com/live/kV58ec-bruA]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+****Day13　07/08　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「またしても何も知らないSWATﾒｰﾝ」>>https://www.youtube.com/live/0d3Pj5Qgozc]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+****Day14　07/22　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「また歳を取るらしいSWATﾒｰﾝ」>>https://www.youtube.com/live/atxhoTYHdUE]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+
+#endregion(5月〜7月)
+#co{
+****Day　mm/dd　&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}「タイトルSWATﾒｰﾝ」>>リンク]]
+#region(開く)
+&font(20px,#e8c59c){⚫︎}
+#endregion
+----
+}
+
+*&size(25){&size(35){&color(#d9a62d){ア}}ーカイブ &icon_fa(fa fa-twitch)}
+#include(立花　乱歩/アーカイブ)
+
+
+*&size(25){&size(35){&color(#d9a62d){関}}連グッズ／イベント &icon_fa(fa fa-gift)}
+**&color(#8d6449){&icon_fa(fa fa-square)} 好評開催中
+
+**&color(#8d6449){&icon_fa(fa fa-square)} 終了
+#region(開く)
+
+***&color(#e8c59c){■} 2025年🍔立花乱歩 お誕生日グッズ🍔
+&bold(){&u(){📅 受付終了&br()2025/07/23(水)〜2025/08/13(水)}}
+詳細ポスト：&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}&space()[[おらんじ〜な>https://x.com/senpanorange/status/1948002314247373301]]
+販 売 場 所：[[booth>>https://0range117.booth.pm/items/7217573]]
+
+&image(https://pbs.twimg.com/media/Gwixx3basAATzyE?format=jpg&name=medium,x=190)
+----
+***&color(#e8c59c){■} 🚓 Buddy's Mission PUS
+&bold(){&u(){📅 開催日時：2025/12/04(木)〜2025/12/09(火)}}
+詳細ポスト：&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}&space()[[おらんじ〜な>>https://x.com/senpanorange/status/1984967035223151096?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]
+告 知 配 信：[[🚨#ストグラ警察 (数名) からのお知らせ🚓>>https://www.youtube.com/live/cJUfCBZp0d0?si=U9Ea6xg3XysMdE7F]]
+web整理券：&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}&space()[[YeY POPUP STORE>>https://x.com/yey_popup/status/1991800845630136425?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]
+　　　　　　&font(b,u){2025/11/26(水)18:00〜配布開始}
+販 売 場 所：ラフォーレ原宿５F
+お話会詳細：&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}&space()[[おらんじ〜な>>https://x.com/senpanorange/status/1984967043368804602?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]
+　　　　　　&font(b,u){2026/01/31(土)15:00〜&space()追加開催決定}
+　　　　　　&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}&space()[[おらんじ〜な>>https://x.com/0range117/status/2003400318160371877?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]
+事 後 通 販：[[Buddys Mission PUS>>https://buddyssgpd.official.ec/]]
+
+&blankimg(Buddy'sMission.jpeg,x=260,y=180)
+----
+***&color(#e8c59c){■} 📷 Buddy's Mission ファミプリ
+&bold(){&u(){📅 開催日時：2025/12/08(月)〜2026/01/25(日)}}
+詳 細 ポ ス ト：&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}&space()[[おらんじ〜な>>https://x.com/senpanorange/status/1997833510787105121?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]
+ハッシュタグ ：[[#ストグラ警察バディファミプリ>>https://x.com/hashtag/ストグラ警察バディファミプリ?src=hashtag_click&f=live]]
+
+&blankimg(Buddy'sMissionファミプリ.jpeg,x=260,y=140)
+----
+***&color(#e8c59c){■} 🎵 SGPD Music Live! Gift.
+&bold(){&u(){📅日程：2026/3/14(土)}}
+　&space(2)一部：OPEN 13:15 START 14:00
+　&space(2)二部：OPEN 17:45 START 18:30
+&b(){📍会場：神田明神ホール}
+詳細ポスト：&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}&space()[[ちゃげぽよ。✿>>https://x.com/chagenabe/status/2010661151630344319?s=46&t=b89A-5gzkZraBLjrHHv6CQ]]
+告 知 配 信：[[【告知】警察数名からのお知らせがあるらしい🚓>>https://www.youtube.com/live/IHK74VXP7H0?si=UflznGNOg3Uzl7Zp]]
+
+&blankimg(SGPD_MusicLive_Gift_2.jpeg,x=140,y=200)&space()&blankimg(SGPD_MusicLive_Gift.jpeg,x=140,y=200)
+----
+#endregion(関連グッズ／イベント-終了)
+
+*&size(25){&size(35){&color(#d9a62d){関}}連動画 &icon_fa(fa fa-youtube-play)}
+#div(width=330px,bgcolor=#f9d62e){&size(18){&space()&bold(){season1}}}
+***&color(#8d6449){●}2024年🎥
+#region(remember,No.1 ~ 7)
+#size(90%){{{#table_style(head=center:#8d6449:#fff)
+|~投稿日|~No.|~タイトル|📹|~備考|h
+|MIDDLE:CENTER:03/31|MIDDLE:CENTER:1|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}17ヶ月ぶりに帰って来た元警察官！？カオスな魂貫通牢屋で大爆笑！！>>https://youtu.be/uyWVCcje-ZI?si=ay_7y0U4zxI9tiAp]]&br()【ストグラ警察 / [[青井　らだお]] / [[羽山　パティ]] / [[橘　かげまる]] / 立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹03/21>>https://www.youtube.com/watch?v=jKgXKlG7S6U]]||
+|MIDDLE:CENTER:04/29|MIDDLE:CENTER:2|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}新人警察官立花乱歩！ブレードキルにヘリアタックで大活躍！？>>https://youtu.be/yPJVWQz3NoY?si=pmv0EnOMJyS-QhfY]]&br()【ストグラ警察 / [[皇帝>ニックス　リア]] / [[ジョン　ドングリ]] / 立花乱歩】|CENTER:[[&font(#DA1725)📹04/16>>https://www.youtube.com/live/z6USYE5VniM?si=XWH4sZPAc5qLqMx-]]&br()[[&font(#DA1725)📹04/11>>https://www.twitch.tv/videos/2121339517]]&br()[[&font(#DA1725)📹04/13>>https://www.youtube.com/live/xovKJaWe-Dw?si=347mZYkqHydO1Y3h]]||
+|MIDDLE:CENTER:06/03|MIDDLE:CENTER:3|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}868って書いて"やろや"って読むんだよォ？868事件総集編！！ >>https://youtu.be/b-_2cGCNsTI?si=s5kfN6MnrO1_IUVQ]]&br()【ストグラ警察 / [[堕夜　だよ]] / [[ヴァン　ダーマー]] / [[レダー　ヨージロー]] / [[ケイン／オー]] / 立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹05/01>>https://www.youtube.com/live/g1e3BR-EpHQ?si=dpXB8vi_81SICUxD]]&br()[[&font(#DA1725)📹05/04>>https://www.youtube.com/live/SqctXIv-oAM?si=jl0YYBUnozwb9uJi]]&br()[[&font(#DA1725)📹05/07>>https://www.youtube.com/live/mvQlho97a1M?si=emu5xSE5fqKPeJRR]]||
+|MIDDLE:CENTER:06/16|MIDDLE:CENTER:4|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}新人警察 立花乱歩が迎えたまさかの結末に全米が涙ッ!?!?>>https://youtu.be/mo8iJOWTI9o?si=baAbsGOKdET1VDCX]]&br()【ストグラ警察 / [[川　中]] / [[佐々木]] / [[空架　ぐち逸]] / [[みこだ　よう>神子田　頼]] / 立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹04/04>>https://www.youtube.com/live/HCos4zIOfC0?si=ldJOAWYLfLnqqa5T]]&br()[[&font(#DA1725)📹04/09>>https://www.youtube.com/live/ZmKoFLO_k6E?si=2h_9ePNKN0BPxHE3]]||
+|MIDDLE:CENTER:07/08|MIDDLE:CENTER:5|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}パシフィック＆アーティファクト破壊チャンネル！個人医を世界から全滅させる立花乱歩！？>>https://youtu.be/MX6STtJyFA8?si=2JuRQOB7ncAZdufd]]&br()【ストグラ警察 / [[青井　らだお]] / [[花沢　まるん]] / [[伊藤　ぺいん]] /[[レダー　ヨージロー]] /  立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹05/30>>https://www.youtube.com/live/SKfDKT_AWT0?si=k5PnG3yQWx4-wqqe]]&br()[[&font(#DA1725)📹06/07>>https://www.youtube.com/live/ZmKoFLO_k6E?si=2h_9ePNKN0BPxHE3]]||
+|MIDDLE:CENTER:07/22|MIDDLE:CENTER:6|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}劇場版空架ぐち逸の大逃走劇！私怨により逃走補助をする立花乱歩！？>>https://youtu.be/2ACGt-wPFTs?si=0PMG0CTO8b-0wcDf]]&br()【ストグラ警察 / [[空架　ぐち逸]] / [[ボイラ　テンガリン]] / [[伊藤　ぺいん]] / [[レダー　ヨージロー]] /  立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹06/15>>https://www.youtube.com/live/OQk4zp69Zh0?si=Mk9LYC6PcLbdxWRm]]&br()[[&font(#DA1725)📹06/16>>https://www.youtube.com/live/CfBrUVeVbxk?si=9Q_zkU98xpKPAlK5]]||
+|MIDDLE:CENTER:08/05|MIDDLE:CENTER:7|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ALLINと虚空新聞を巡る事件！？刑事ドラマの如く推理で事件を進める立花乱歩！！>>https://youtu.be/Al0q3WYE7-w?si=hRGMDPobFWyl52OO]]&br()【ストグラ警察 / [[ムーチョ　文岡]] / [[ボイラ　テンガリン]] / [[ジャック　馬ウアー]] /  立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹07/07>>https://www.youtube.com/live/F9jASxW_9wc?si=gwdnpswytCDEKshC]]||
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+//
+#endregion(2024年)
+***&color(#8d6449){●}2025年🎥
+#region(remember,No.8 ~ 12)
+#size(90%){{{#table_style(head=center:#8d6449:#fff)
+|~投稿日|~No.|~タイトル|📹|~備考|h
+|MIDDLE:CENTER:02/04|MIDDLE:CENTER:8|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[よわつよ同期バフが掛かる立花乱歩！？最強のバディによる連携プレイ！！>>https://youtu.be/y8qByjyHByI?si=OAooBwufQnK5VxwS]]&br()【[[ストグラ警察>>ロスサントス警察]] / [[よわつよ>>夜若木　颯]] / 立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹01/22>>https://www.youtube.com/live/603DlkwG8R0?si=yUg_ZvlC33-gMiaJ]]||
+|MIDDLE:CENTER:04/10|MIDDLE:CENTER:9|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[狂気的な儀式の現場へ突入する警察官！科場諸朋に立ち向かう！？>>https://youtu.be/rL28ZzYvo_w?si=A4bW7bkQrC3gCecy]]&br()【[[ストグラ警察>>ロスサントス警察]]  / 立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹03/28>>https://www.youtube.com/live/cmHLNbDv7FU?si=p2TE12rL80m_y3Gj]]||
+|MIDDLE:CENTER:05/02|MIDDLE:CENTER:10|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[街のメカニックから苦情が届いて謝罪しに行く立花乱歩！？>>https://youtu.be/NND_MXop5jI?si=9emaYNTOmB5JVpiT]]&br()【[[ストグラ警察>>ロスサントス警察]]  / 立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹02/16>>https://www.youtube.com/live/fzevjNJpSlE?si=bsXXlf9u46xhqNlj]]&br() [[&font(#DA1725)📹02/18>>https://www.youtube.com/live/QRVVCdk3aVk?si=xabJgJQOM0S4C4KL]] ||
+|MIDDLE:CENTER:05/21|MIDDLE:CENTER:11|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[足がないだけなのに後輩を深刻な感じで呼び出してみる立花乱歩>>https://youtu.be/9BQZuZTYDf8?si=5tknFBARX9FAoc6s]]&br()【[[ストグラ警察>>ロスサントス警察]]  / 立花乱歩】|[[&font(#DA1725)📹12/06>>https://www.youtube.com/live/Udkg16saAZQ?si=J5_yAtUMJfnmfz2i]]&br()[[&font(#DA1725)📹01/02>>https://www.youtube.com/live/RrVHZRurWtE?si=wobntEG7fGuQH9Rn]]&br()[[&font(#DA1725)📹11/27>>https://www.youtube.com/live/p41iQvBHSG4?si=LZB7IAuruaHBbEmj]]||
+|MIDDLE:CENTER:07/30|MIDDLE:CENTER:12|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[同期の誕生日を自分なりにお祝いする立花乱歩🚓🚨>>https://youtu.be/HlF6mUeWIAQ?si=_1ZKgvB2QU-mOxZ4]]&br()【[[ストグラ警察>>ロスサントス警察]]  / 立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹05/06>>https://www.youtube.com/live/uWkgvyjGTl4?si=nd-AIyAUpKmaTcbA]]||
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+//
+#endregion(2025年)
+
+#div(width=330px,bgcolor=#f9d62e){&size(18){&space()&bold(){season2}}}
+***&color(#8d6449){●}2026年🎥
+#region(No.1 ~ ,open)
+#size(90%){{{#table_style(head=center:#8d6449:#fff){投稿日=center,No.=center,📹=center}
+|~投稿日|~No.|~タイトル|📹|~備考|h
+|MIDDLE:CENTER:01/28|MIDDLE:CENTER:1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[転送の影響で記憶が吹き飛んだ乱歩！？おぼろげに覚えている"大切な約束"とは...！！>>https://m.youtube.com/watch?v=voWzxqUjQ2A]]&br()【[[ストグラ警察>>ロスサントス警察]] / 立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹01/14>>https://www.youtube.com/live/yZbmBNSflG0]]||
+|MIDDLE:CENTER:04/07|MIDDLE:CENTER:2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[どんなに車がボロボロでも、何故か頑なにメカニックに行きたがらない立花乱歩！？>>https://youtu.be/EMp1MR4kWQo]]&br()【[[ストグラ警察>>ロスサントス警察]] / 立花乱歩】|MIDDLE:CENTER:[[&font(#DA1725)📹01/24>>https://www.youtube.com/live/vEHNm-trgX8]]||
+|MIDDLE:05/11|MIDDLE:3|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[俺の名前は立花乱歩！イタリアンレストランで買い物をしようと向かっていると銃声が鳴り響きそこへ向かうとそこには倒れている被害者と車で走り去る怪しげな男が...>>https://youtu.be/fDywnic2b7w]]&br()【[[ストグラ警察>>ロスサントス警察]] / 立花乱歩】|MIDDLE:[[📹04/18>>https://www.youtube.com/live/DKO0RvmPK4Q]]||
+|MIDDLE:07/09|MIDDLE:4|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[大爆発するヘリから緊急脱出！？SWATで鍛えられた脅威の生存本能を見せつける立花乱歩！！>>https://youtu.be/yWoJ-whJjMI]]&br()【[[ストグラ警察>>ロスサントス警察]] / 立花乱歩】|MIDDLE:[[📹06/26>>https://www.youtube.com/live/kV58ec-bruA]]||
+//間違いがありましたら修正お願いします！
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+#endregion(2026年)
+//
+//
+#co{
+
+|MIDDLE:CENTER:✍️月/日|MIDDLE:CENTER:✍️No.|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}✍️タイトル>>✍️URL]]&br()✍️【関連人物】|||
+
+MIDDLE:CENTER:[[&font(#DA1725)✍️📹月/日>>✍️URL]]
+
+|MIDDLE:mm/dd|MIDDLE:ナンバー|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]&br()【[[ストグラ警察>>ロスサントス警察]] / 立花乱歩】|MIDDLE:[[📹mm/dd>>URL]]||
+
+}
+
+*&size(25){&size(35){&color(#d9a62d){ス}}トグラコラボ &icon_fa(fa fa-video)}
+**&color(#f39800){&icon_fa(fa fa-gamepad fa-bounce)  }   ゲーム系コラボ
+&font(#e8c59c,16px){※}&space()&small(){一部｢[[神崎 治>>神崎　治]]｣と重複あり}
+***&color(#8d6449){●}2024年
+#region(開く,close)
+#size(90%){{{#table_style(head=center:#82ae46:#fff)
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー (敬称略)=hide}
+|~配信日|~ゲームタイトル|~配信タイトル|メンバー (敬称略)|h
+|4/27|VALORANT|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}📹 「両方やるぜ！」➤警察バロカス>>https://www.youtube.com/live/Ctcd0VF0upA?si=yapktVMNuHkRyKt-&t=17129]]|えびす / 花芽なずな / きもともと / しょうじ / 弐十 / みこだよ / Middleee / らっだぁ / るなりあ|
+|5/20|Tom Clancy's Rainbow Six® Siege|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}暗黒シージコラボ w/鈴木ノリアキ,花芽なずな,馬人,イナゴン>>https://youtu.be/ksHUaspX0C8?si=pJFhHmNTsV0q9JK9]]|鈴木ノリアキ / 花芽なずな / 馬人 / イナゴン |
+|7/22| Gartic Phone|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}お絵描き伝言➤じなよちゅVALO➤じなよちゅバニーマン #ストグラ警察>>https://youtu.be/LEeJQb9khgg?si=CkQm7P9nzIAEDZKn]]|Middleee / ニコラ・クラエス / 二十日ネル / ぱちしゅう / りもこん &br()/ 赤髪のとも / レウクラウド / 寧々丸 / にぶぶ / えびす / Selly / 日ノ隈らん|
+|8/19|VALORANT|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}警察VALORANTカスタム>>https://youtu.be/JUpcJGDH6kY?si=H0gjY6N5VL81TpL0]]|えびす / 花芽なずな / 017 / Rio / かど / さぶ郎。 / にぶぶ &br()ルルベル / 森野めるん / 碧輝りお / るなりあ |
+|8/26|VALORANT|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}公務員VALORANT w/よつは,るなりあ,なずぴ,みどり>>https://youtu.be/1emoPZRZMvE?si=eyE6HC1-B05R5xy5]]|天羽よつは / るなりあ / 花芽なずな / Middleee|
+|9/30|Lethal Company|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}「ほぼ警察リサカン」#ストグラ警察>>https://www.youtube.com/live/lP0pJUQvxt4?si=oUX9o9wQZjLQSrG5]]|  BOIRA / あどみん / さぶ郎。 / てんぷら / ねけまる / ゆちゃむ |
+|10/3|Deadlock|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}「夏休み終わるよSWATﾒｰﾝ」➤Deadlock>>https://www.youtube.com/live/2-Hj1YaAO5A?si=uDCZmOjpaowOX691]]|FOXRABBIT / Bact Okawa / アベレージ / イナゴン / ニコラ・クラエス&br()ごっちゃん＠マイキー / しょぼすけ / ゼルク / ニョス / るなりあ れぷちん|
+|10/14|Deadlock|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}警察組でDeadlockをしばく>>https://youtu.be/FS3SPADIJ4A?si=6BUIxpb2nBJZR0fT]]| / marunnn / Rio / アベレージ / るなりあ / あどみん|
+|11/11|PUBG ➤ Lethal Company|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}「公務員PUBGカスタム➤公務員リサカン」 #ストグラ救急隊 #ストグラ警察>>https://www.youtube.com/watch?v=_NzaFDjSyZk]]||
+|12/6|VALORANT|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}「後輩増えたなSWATﾒｰﾝ」➤VALO>>https://www.youtube.com/live/Udkg16saAZQ?si=OfvWq5PNVZhMsNJx]]|天羽よつは / イナゴン / やなつん / 鴉紋ゆうく|
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+#endregion
+***&color(#8d6449){●}2025年
+#region(開く)
+#size(90%){{{#table_style(head=center:#82ae46:#fff)
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー (敬称略)=hide,備考=hide}
+|~配信日|~ゲームタイトル|~配信タイトル|メンバー (敬称略)|備考|h
+|01/20|PUBG: BATTLEGROUNDS|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【#ストグラ公務員PUBG】2キャラ持ちなので有利なはず>>https://www.youtube.com/live/8dxocuOGL1A?si=vjIhtXM7I5vnlDcz]]|&infobox(title=警察,trigger=hover){アベレージ / えびす / 017@父ノ背中 / TUTTI / てんぷら / 森野めるん / あどみん / きもともと / しょうじ / ごっちゃん＠マイキー / 鈴木ノリアキ / Runpa / ちゃげぽよ。 / ぱちしゅう / れいか / 冥鳴ひまり / るなりあ / Rio / かど / 花芽なずな / RintoXD / せかめん / みつき / レントンゲームズ / D.ManueL / Middleee / レウクラウド / さぶ郎。 / ねけまる / 白帝りいた / marunnn / えんちょう。 / たけぉ / にぶぶ / ゆきや / アジ吉 / 寧々丸 / 烏星} • &infobox(title=救急隊,trigger=hover){おらんじ〜な / 天羽よつは / ヘスティアハピネス / わきを / へくしょん / こるぺん / すず音 / 鬼ヶ島ぴぃち / ファロ / 切嘛 / 空衣御侍 / ノビー / のすけ / かてぃ / ペレ夫 / まぐなむ / あんない / kaka / 稲荷いろは / 憩居ももあ / 夢咲刻夜}コラボ||
+|01/29|VALORANT|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}「1月終わるぞSWATﾒｰﾝ」➤ 公務員VALO>>https://www.youtube.com/live/PWjle6h0ob0?t=15900s]]|天羽よつは / 憩居ももあ / るなりあ / にぶぶ|ストグラ後|
+|02/24|VALORANT|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【VALORANT】救急隊vs警察！？公務員カスタムバトル！>>https://www.youtube.com/live/-XUKowy3L3k?si=FUm_OEAf-x0oorXR]]|天羽よつは / 憩居ももあ / こるぺん / 稲荷いろは&br()にぶぶ / るなりあ / Middleee / BOIRA / えびす||
+|02/24|League of Legends|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【LOL】ストグラ勢カスタムへようこそ！>>https://www.youtube.com/live/79TAv9DaREg?si=9W66cCl4E567tRGO]]|天羽よつは / 天城てん / Rio / にぶぶ / Middleee&br()FOXRABBIT / 叶 / 寧々丸 / るなりあ / 灯油||
+|05/06|R.E.P.O.|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 「そういえばそうかSWATﾒｰﾝ」➤ 公務員R.E.P.O.>>https://www.youtube.com/live/uWkgvyjGTl4?si=r8SertamXvOmtinP]]|天羽よつは / 空衣御侍 / Rio / あどみん / さぶ郎。||
+|05/12|Neighbors: Suburban Warfare|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 「ネイバーズ布教チャンネル！」>>https://www.youtube.com/live/Xx8fNChPB8g?si=yRyS_MFOhGFkHzxa]]|かど / 寧々丸→Middleee / BOIRA /  魔光リサ / ManueL / marunnn / Rio||
+|09/03|VALORANT|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【VALORANT】ぐちさんおめでとう➤救急×警察 超久しぶりにバロするぜ！>>https://www.youtube.com/live/R6YVktdME4A?si=yG1wppFCt3SDG3v8]]|るなりあ / Rio / 天羽よつは / 憩居ももあ||
+|10/07|MAGE ARENA|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【MAGE ARENA】「爆音詠唱で全てを破壊する #ストグラSGPD 」>>https://www.youtube.com/live/uqJz66B_mrA?si=515YzuEbk7BFss8h]]|魔光リサ / Rio / さぶ郎 / ねけまる / るなりあ / にぶぶ||
+|10/10|League of Legends|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【LoL】「ロ～ルロルロルロル！フルパだぜ！ w/Rio,にぶぶ,るなりあ,魔光リサ」>>https://www.youtube.com/live/NDN0SIB_nyg?si=ztg3282HNdehHRew]]|Rio / にぶぶ / るなりあ / 魔光リサ||
+|11/19|ARC Raiders|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【ARC Raiders】「プロレイダーズにキャリーして貰うぞ！ w/Rio,にぶぶ>>https://www.youtube.com/live/nt_7DdpTj1E?si=ynblRqvyz59IpGdh]]|にぶぶ / Rio||
+|11/30|PEAK|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【PEAK】「俺らの"連携力"見せつけちゃうか(^_-)-☆」>>https://www.youtube.com/live/B_HR3VlMwIk?si=unjPYOnrDaKFjjsv]]|あどみん / にぶぶ / Rio / えびす / さぶ郎||
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+#endregion(2025年)
+***&color(#8d6449){●}2026年
+#region(開く,open)
+#size(90%){{{#table_style(head=center:#82ae46:#fff)
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー (敬称略)=hide,備考=hide}
+|~配信日|~ゲームタイトル|~配信タイトル|メンバー (敬称略)|備考|h
+|03/02|ラウンジ|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【告知もあり〼】ライブメンバーでラウンジやるよ！>>https://www.youtube.com/live/aoLRPJqD0PE]]|ちゃげぽよ / あどみん / 二十日ネル / 馬人 / ましゃかり / BOIRA ||
+|03/24|Rust|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【#ストグラ公務員 BW】「スーパーハチャメチャベッドウォーズ」>>https://www.youtube.com/live/7lU3FH3OuFU]]|アベレージ / 馬人 / るなりあ / 森野めるん / さぶ郎。 / ごっちゃんマイキー / たけぉ / Rio&br()天羽よつは / かげまる / 空衣御侍 / 憩居ももあ / ノビー / 小花衣ももみ / こるぺん||
+|04/17|Overwatch|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【OverWatch】「仲良ﾋﾟＯＷ部」>>https://www.youtube.com/live/IWLmxf2ZtH4]]|栗山やんみ / neon / 霧島ジャック / かど||
+|05/13|APEX|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}【Apex Legends】「帝国署顔合わせ行くぞ！ #帝国署WIN」>>https://www.youtube.com/live/Blc0xlmiyxU]]|るなりあ / 魔光リサ||
+|07/14|めっちゃカメレオン|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【#公務員ライブcallsign / #めっちゃカメレオン】「明日からリハだ！レッツゴー！！>>https://www.youtube.com/live/I1MOlhHAI1k]]|ちゃげぽよ。 / かげまる / あどみん / アベレージ / ノビー / 空衣御侍 /魔光リサ||
+
+#co{
+|日付|ゲーム|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} タイトル>>リンク]]|メンバー||
+}
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+#endregion(2026年)
+
+***&color(#8d6449){●}ストグラFV
+#region(2024年,close)2024年
+#size(90%){{{#table_style(head=center:#82ae46:#fff)
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー (敬称略)=hide}
+|~配信日|~ゲームタイトル|~配信タイトル|メンバー (敬称略)|h
+|12/23|ストグラFV|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}「FV来たぜGANGﾒｰﾝ」>>https://www.youtube.com/live/z5GJ_goVum0?si=RRJTLVymVVc-nJxz]]|五十音順：[[味野　環九郎]] / [[安倍　霊明]] / [[安保　さぶ郎]] / [[伊勢　えびす]] / [[犬上　リオ]] / [[キーモット　ホームズ]]&br()[[きらりんぶい☆　なずぴ(10)]] / [[立花　乱歩]] / [[ニックス　リア]] / [[二部　らるたる]] / [[バーバリアン　田中]]&br()[[花沢　まるん]] / [[日之　ぱちお]] / [[ボイラ　テンガリン]] / [[ミン　ドリー]] / [[もり　るんるん]] / [[レッサン　パンナ]]|
+
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+#endregion(2024年)
+#region(2025年)2025年
+#size(90%){{{#table_style(head=center:#82ae46:#fff)
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー (敬称略)=hide,備考=hide}
+|~配信日|~ゲームタイトル|~配信タイトル|メンバー (敬称略)|備考|h
+|02/10|ストグラFV|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}「FV個人医＆GANGﾒｰﾝ」>>https://www.youtube.com/live/wSbGNU36hg8?si=pQVMszYClIEgXjsz]]|||
+|04/21|ストグラFV|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}「とってもこわいGANGﾒｰﾝ」>>https://www.youtube.com/live/HoYMq2gBSuQ?si=1wnQkU0w79-G6Mjp]]|||
+
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+#endregion(2025年)
+//
+#co{コピー用↓
+|日付|🎮ゲーム|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 配信タイトル>>URL]]|メンバー|備考|
+
+【ストグラFVメンバー】五十音順：[[味野　環九郎]] / [[安倍　霊明]] / [[安保　さぶ郎]] / [[伊勢　えびす]] / [[犬上　リオ]] / [[キーモット　ホームズ]]&br()[[きらりんぶい☆　なずぴ(10)]] / [[立花　乱歩]] / [[ニックス　リア]] / [[二部　らるたる]] / [[バーバリアン　田中]]&br()[[花沢　まるん]] / [[日之　ぱちお]] / [[ボイラ　テンガリン]] / [[ミン　ドリー]] / [[もり　るんるん]] / [[レッサン　パンナ]]||
+}
+**&color(#f39800){&icon_fa(fa fa-comments fa-beat)  }  トーク系コラボ
+#region(開く)
+#size(90%){{{#table_style(head=center:#82ae46:#fff)
+#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー=hide,備考=show}
+|~配信日|~ゲームタイトル|~配信タイトル|メンバー|備考|h
+|2024/9/9|格付け|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}#格付けしあうストグラ警察たち　男の子編part２>>https://www.youtube.com/live/a5ZtJJ17GEk?si=sF4JXL0Y4ZVzvLeE]]&br()【日ノ隈らん /ななしいんく】【格付け】| 日ノ隈らん / 弐十/ にぶぶ / ぱちしゅう &br() おらんじ～な / えびす / アベレージ / ねけまる |自視点なし|
+
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+#endregion
+**&color(#f39800){&icon_fa(fa fa-icons)  }  その他コラボ
+#region(開く)
+#size(90%){{{#table_style(head=center:#82ae46:#fff)
+|~投稿日|~タイトル|備考|h
+|2025/09/22|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}【歌ってみた】僕らまた/SG【安保さぶ郎＋29人合唱】>>https://youtu.be/tvPnOZ4mHJ4?si=BBwqEe-DJg7UkSht]]|[[さぶ郎。>>https://youtube.com/@sabu_iko?si=Jgi_R6u8h2BCjEWE]]|
+|2026/03/08|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【MV】ナインスコード>>https://youtu.be/uVuQ2lz-avY?si=DtoylpyCK5j7E9Dn]]||
+|2026/07/14|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} 【歌ってみた】パーペキヒーロー>>https://youtu.be/qKdIBfnfgBk]]|　|
+
+//|yyyy/mm/dd|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)} タイトル>>リンク]]|備考|
+#table_sorter{even=#fff,odd=#FFF7EB}}}}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,180 @@
+&image(たいがのごはん_ロゴ.png,x=350)
+#size(50%){　}
+#table_filter(){Season1=hide,Season2=show}
+#table_style(head=#444444:#FFFFFF:center){}
+|~世界線|~Season1|~Season2|
+|~店名|>|COLOR(black):&bold(){たいがのごはん}|
+|~業種|>|COLOR(black):飲食店|
+|~開業日|COLOR(black):2024年10月17日|COLOR(black):店舗オープン日|
+|~所在地|COLOR(black):無し(移動販売形式)|COLOR(black): |
+|~店長|>|[[ほわいとたいが>イチカ　ウィルキンズ]]|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・ロスサントスの北の大地で暮らす[[ほわいとたいが>イチカ　ウィルキンズ]]が、『[[ShanaoR]]』のキッチンを借りる形で営業を開始。
+・イベントなどでの出店を除き、基本的には移動販売のみ。
+・Season2からは『[[acqua ovest]]』のキッチンを借りて商品販売を行っていた。
+
+　&font(i,b,u){情報募集中}
+
+**従業員情報
+***&underdot(#aaaaaa,3px){&space()&font(b,#444,16px){Season1&space()}}
+#region(開く)
+#table_style(head=#444444:#FFFFFF:center)
+|~役職|~名前|~就職日|~備考|h
+|店長|[[ほわいとたいが>イチカ　ウィルキンズ]]|2024/10/17||
+|店員|[[にゃん太>ナタル　イルコフ]]|2024/11/22||
+|店員|[[いぇろおたいが>三階堂　キミトス]]|2025/01/08||
+|バイト&sup(){&footnote(ジョブには入っておらず、販売時に接客等の手伝いをする役割)}|[[からめるたいが>三島　改]]|2025/02/14|「プリンになるのが夢なんだ」|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+#endregion
+//
+//
+//***退職者
+//#table_style(head=#444444:#FFFFFF:center)
+//|~名前|~就職日|~最終出勤日|~備考|h
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//***職業体験者
+//#table_style(head=#444444:#FFFFFF:center)
+//|~名前|~体験開始日|~備考|h
+//|[[名　前]]|yyyy/mm/dd||
+//#table_autoincrement(){label=No.}
+//#table_sorter{even=#FF7F7,odd=#FFFFFF}
+//
+
+**商品情報
+//テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
+&underdot(#aaaaaa,3px){&space()&font(b,#444,16px){Season1&space()}}
+
+#region(開く)閉じる
+***レギュラー商品
+#region(開く)
+#table_filter(){種類=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#444444:#FFFFFF:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~備考|h
+|MIDDLE:Drink|MIDDLE:たいがの梨ジュース|MIDDLE:100,000|MIDDLE:2024/10/17|MIDDLE:もぎたて しぼりたて&br()あまーい梨ジュース|
+|MIDDLE:Drink|MIDDLE:たいが みるく|MIDDLE:100,000|MIDDLE:2024/10/24|MIDDLE:たいがが飼ってる牛の&br()美味しいしぼりたての牛乳|
+|MIDDLE:Drink|MIDDLE:たいが イチゴみるく|MIDDLE:100,000|MIDDLE:2024/10/24|MIDDLE:たいがが飼ってる牛の&br()美味しいしぼりたての牛乳(いちご味)|
+|MIDDLE:Drink|MIDDLE:たいが コーヒーみるく|MIDDLE:100,000|MIDDLE:2024/10/24|MIDDLE:たいがが飼ってる牛の&br()美味しいしぼりたての牛乳(コーヒー味)|
+|MIDDLE:Drink|MIDDLE:たいが ほっとみるく|MIDDLE:100,000|MIDDLE:2024/11/22|MIDDLE:心もカラダもあったまる&br()やさしいほっとミルク|
+|MIDDLE:Drink|MIDDLE:にゃん太 ほっとコーヒー|MIDDLE:100,000|MIDDLE:2024/11/22|MIDDLE:心もカラダもあったまる&br()やさしいほっとコーヒー|
+|MIDDLE:Drink|MIDDLE:いぇろおたいがのココア|MIDDLE:100,000|MIDDLE:|MIDDLE:心もカラダも&tooltip(ホッと){原文：ホッっと}あったまる&br()やさしいほっとココア|
+|MIDDLE:Drink|MIDDLE:いぇろおたいがのココア|MIDDLE:100,000|MIDDLE:|MIDDLE:可愛さいっぱいレモンティー&br()甘酸っぱさに気持ちもほっこり|
+|MIDDLE:Drink|MIDDLE:レギュラーガソリン|MIDDLE:100,000|MIDDLE:2024/11/22|MIDDLE:ロスサントス北のスタンド産&br()たいが印のレギュラーガソリン|
+|MIDDLE:Food|MIDDLE:たいがちゃんアイス|MIDDLE:100,000|MIDDLE:2024/10/24|MIDDLE:たいがが飼ってる牛の&br()美味しいしぼりたて牛乳で作ったアイス(ミルク×チョコ)|
+|MIDDLE:Food|MIDDLE:にゃん太くんアイス|MIDDLE:100,000|MIDDLE:2024/10/24|MIDDLE:たいがが飼ってる牛の&br()美味しいしぼりたて牛乳で作ったアイス(チョコ×チョコ)|
+|MIDDLE:Food|MIDDLE:たいがちゃんちーず|MIDDLE:100,000|MIDDLE:2024/10/24|MIDDLE:たいがが飼ってる牛さんの&br()美味しいしぼりたて牛乳で作った6Pチーズ|
+|MIDDLE:Food|MIDDLE:たいがドーナツ|MIDDLE:100,000|MIDDLE:2024/10/24|MIDDLE:ふわふわ優しいミルク味&br()美味しいたいがの手作りドーナツ|
+|MIDDLE:Food|MIDDLE:鮎の塩焼き|MIDDLE:100,000|MIDDLE:2024/10/24|MIDDLE:たいがが北の川で釣ってきた&br()とれたて新鮮！アユの塩焼き|
+|MIDDLE:Food|MIDDLE:たいがのあんまん|MIDDLE:100,000|MIDDLE:2024/11/22|MIDDLE:ふっくらホカホカ&br()やさしい甘さのあんまん|
+|MIDDLE:Food|MIDDLE:にゃん太のブタまん|MIDDLE:100,000|MIDDLE:2024/11/22|MIDDLE:ふっくらホカホカ&br()おいしい黒ブタまん|
+|MIDDLE:Food|MIDDLE:きみとらいす|MIDDLE:100,000|MIDDLE:2025/01/08|MIDDLE:キミと食べたいステキなオムライス&br()ふあふあ卵を召し上がれ|
+|MIDDLE:Food|MIDDLE:ほわいとたいがのマフィン|MIDDLE:100,000|MIDDLE:2025/02/22|MIDDLE:ホワイトチョコをかけた美味しいマフィン&br()中身はらずべりーソース入り|
+|MIDDLE:Food|MIDDLE:にゃん太のマフィン|MIDDLE:100,000|MIDDLE:2025/02/22|MIDDLE:バナナチョコをかけた美味しいマフィン&br()中身はバナナソース入り|
+|MIDDLE:Food|MIDDLE:いぇろおたいがのマフィン|MIDDLE:100,000|MIDDLE:2025/02/22|MIDDLE:ブルーベリーチョコをかけた美味しいマフィン&br()中身はチョコソース入り|
+|MIDDLE:Food|MIDDLE:たいがマフィンせっと|MIDDLE:150,000|MIDDLE:2025/02/22|MIDDLE:ほわいとたいがマフィンいぇろおたいがマフィン&br()にゃん太マフィンのフルセット！幸せいっぱいお腹もいっぱい！|
+|MIDDLE:Food|MIDDLE:たいがの焼きいも|MIDDLE:100,000|MIDDLE:2024/10/17|MIDDLE:ほりたて 美味しい&br()ホクホクのあまーい焼き芋|
+|MIDDLE:Food|MIDDLE:たいがのみかん|MIDDLE:100,000|MIDDLE:2024/11/22|MIDDLE:あまくておいしいもぎたてみかん&br()ついつい食べちゃうジューシーなネット入りミカン|
+|MIDDLE:Joint|MIDDLE:ほわいとたいがすぺしゃるキャンディ|MIDDLE:100,000|MIDDLE:2024/10/17|MIDDLE:&tooltip(あなた){原文：あたなた}の好きな味に変化する！&br()願えば叶う不思議なキャンディー 爽やかな○○味|
+|MIDDLE:Bag|MIDDLE:たいがのごはん トラ袋|MIDDLE:|MIDDLE:2024/10/29|MIDDLE:かってくれてありがとう！おなかいっぱいたべて！&br()(Food、Drink、Jointが3つずつ入る袋、トラのイラスト付き)|
+|MIDDLE:Bag|MIDDLE:たいがのごはん ネコ袋|MIDDLE:|MIDDLE:2024/10/29|MIDDLE:かってくれてありがとう！おなかいっぱいたべて！&br()(Food、Drink、Jointが3つずつ入る袋、ネコのイラスト付き)|
+#table_zebra(#F7F7F7,#FFFFFF,#444444)
+//#table_autoincrement(){label=No.}
+//|種類|商品名|価格|提供開始日|説明|
+//レギュラー商品＝店舗に始めから用意されていた商品
+//種類＝food,drink,relax,others など
+#endregion
+
+//***オリジナル商品
+//#region(,open)
+//#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
+//#table_style(head=center:#E0E0E0){No.=center,価格=right}
+//|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//#table_autoincrement(){label=No.}
+//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+//オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+//#endregion
+//
+//***メニュー画像
+//#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+//#endregion
+//
+***イベント関連
+#region(2024/10/17【秋の収穫祭〜北の食材を食べつくそう〜】)&b(){2024/10/17【秋の収穫祭〜北の食材を食べつくそう〜】}
+|&image(https://pbs.twimg.com/media/GaFwuTyb0AAg6c2?format=jpg&name=large,x=240,y=320)|&image(https://pbs.twimg.com/media/GaFwuTqawAAG9VK?format=jpg&name=large,x=240,y=320)|
+#endregion
+#size(50%){　}
+#region(2025/01/16【たいがの収穫祭 みにまむ!!】)&b(){2025/01/16【たいがの収穫祭 みにまむ!!】}
+|&image(https://pbs.twimg.com/media/GhZynKXaEAEeKHa?format=jpg&name=medium,x=240,y=320)|
+#endregion
+#size(50%){　}
+#region(2025/03/27【春の収穫祭〜春のぽかぽかお花見会〜】)&b(){2025/03/27【春の収穫祭〜春のぽかぽかお花見会〜】}
+|&image(https://pbs.twimg.com/media/GnCEIjdaIAAwixF?format=jpg&name=medium,x=240,y=320)|&image(https://pbs.twimg.com/media/GnCEIjgaMAAw9mO?format=jpg&name=medium,x=240,y=320)|
+#endregion
+#size(50%){　}
+#region(2025/08/21【たいがの夏の収穫祭】)&b(){2025/08/21【たいがの夏の収穫祭】}
+|&image(https://stgr-r2.libhalt.net/images/1e31c2f2-1757-409b-aae0-f5f46923cd3e.jpeg,x=240,y=320)|&image(https://stgr-r2.libhalt.net/images/720fe70b-e140-498d-a386-e84068895acc.png,x=240,y=320)|
+#endregion
+#endregion(Season1)
+
+//
+//
+&underdot(#aaaaaa,3px){&space()&font(b,#444,16px){Season2&space()}}
+***メニュー画像
+#region(2026/02/04,open)
+&image(復刻コラボ商品.jpeg,x=390,y=270)
+#endregion
+
+****イベント関連
+#region(2026/04/23【たいがの収穫祭〜みにまむ・春〜】)&b(){2026/04/23【たいがの収穫祭〜みにまむ・春〜】}
+|&blankimg(収穫祭_26春.jpeg,x=240,y=320)|
+#endregion
+#size(50%){　}
+#region(2026/07/30【夏の収穫祭】,open)&b(){2026/07/30【夏の収穫祭】}
+|&blankimg(収穫祭_26夏.jpeg,x=240,y=320)|&blankimg(収穫祭_26夏2.jpeg,x=240,y=320)|
+#endregion
+
+**沿革
+***&underdot(#aaaaaa,3px){&space()&font(b,#444,16px){Season1&space()}}
+#region(開く)
+//#table_filter(){出来事=show}
+#table_style(head=center:#444444:#FFFFFF)
+|~日付|~出来事|~エピソード|h
+|2024/10/17|営業開始&br()イベント出店|イベント開催と共に営業を開始。&br()主催イベント「秋の収穫祭〜北の食材を食べつくそう〜」にて飲食販売&br()協賛：JTS／Reboot／渡戸林業|
+|2024/10/29|オリジナル袋完成|[[月ノ鞄]]に依頼したオリジナルの袋2種類が完成。|
+|2025/01/16|イベント出店|主催イベント「たいがの収穫祭 みにまむ!!」にて飲食販売&br()協賛：たいがのごはん／eight／UFORU／E5バーガー|
+|2025/03/27|イベント出店|主催イベント「春の収穫祭〜春のぽかぽかお花見会〜」にて飲食販売&br()協賛：JTS／Reboot／渡戸林業|
+|2025/07/10|出張販売|[[ビュッフェ・アミティーステラ]]店内にて7月10日から不定期で出張販売を開始|
+|2025/08/21|イベント出店|主催イベント「たいがの夏の収穫祭」にて飲食販売&br()協賛：JTS／Reboot／渡戸林業／FOWK|
+#table_zebra(#F7F7F7,#FFFFFF,#444444)
+//|mm/dd|出来事|関係者|エピソード・備考|
+#endregion
+
+***&underdot(#aaaaaa,3px){&space()&font(b,#444,16px){Season2&space()}}
+#table_style(head=center:#444444:#FFFFFF)
+|~日付|~出来事|~エピソード|h
+|2026/02/04|復刻コラボ|[[acqua ovest]]にて復刻コラボ商品を販売|
+|2026/04/23|イベント開催|主催イベント「たいがの収穫祭〜みにまむ・春〜」にて飲食販売&br()協賛：[[acqua ovest]]|
+|2026/07/30|イベント開催|主催イベント「夏の収穫祭」にて飲食販売&br()協賛：[[acqua ovest]]・[[LosVegas]]・[[JTS]]・[[公認勝手にレース協会]]|
+|2026/08/29|イベント出店|[[VERTEX]]主催「夏祭り」にて飲食販売|
+
+#table_zebra(#F7F7F7,#FFFFFF,#444444)
+//|mm/dd|出来事|関係者|エピソード・備考|
+
+　&font(i,b,u){情報募集中}
+
+#right(){&link_up(🔝ページTOPへ)}

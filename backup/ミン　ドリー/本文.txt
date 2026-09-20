@@ -1,0 +1,793 @@
+*&font(#a5ba63){&icon_fa(fa fa-user)} プロフィール
+
+#slide_img(auto=4,position=left,width=290,height=597,position=center)
+{
+ミンドリー_シーズン２_警察01.png,
+ミンドリー_シーズン2_私服1.png,
+ミンドリー_シーズン2_スーツ.png,
+}
+
+//ここからプロフィール
+#table_filter(){Season１=hide,Season２=show}
+|BGCOLOR(#69821b):|BGCOLOR(#69821b):~&color(#e0ebaf)|BGCOLOR(#69821b):~&color(#e0ebaf){Season１}|BGCOLOR(#69821b):~&color(#e0ebaf){Season２}|h
+|BGCOLOR(#69821b):~&color(#e0ebaf){名前}|BGCOLOR(#69821b):~&color(#e0ebaf){&icon_fa(fa fa-user)}|>|ミン　ドリー（&ruby(みん){明}　&ruby(どぅんりー){徳緑}）|
+|BGCOLOR(#69821b):~&color(#e0ebaf){出身地}|BGCOLOR(#69821b):~&color(#e0ebaf){&icon_fa(fa fa-map-marker)}|>|中国|
+|BGCOLOR(#69821b):~&color(#e0ebaf){身長}|BGCOLOR(#69821b):~&color(#e0ebaf){&icon_fa(fa fa-male)}|>|180cm|
+|BGCOLOR(#69821b):~&color(#e0ebaf){誕生日}|BGCOLOR(#69821b):~&color(#e0ebaf){&icon_fa(fa fa-birthday-cake)}|>|1992年11月18日 (&countup(1992/11/18,y)歳)|
+|BGCOLOR(#69821b):~&color(#e0ebaf){転入日}|BGCOLOR(#69821b):~&color(#e0ebaf){&icon_fa(fa fa-plane)}|2023年07月30日 (&countup(2023/07/30,yd)経過)|2025年12月19日(&countup(2025/12/19,yd)経過)|
+|BGCOLOR(#69821b):~&color(#e0ebaf){職業}|BGCOLOR(#69821b):~&color(#e0ebaf){&icon_fa(fa fa-shield-halved)}|[[ロスサントス警察>>ロスサントス警察]] &small(){2023/08/13～2025/03/22,2025/04/04～}&br()&small(){・所属：本署 口プ課 課長}&br()&small(){・Grade：6 Chief（警視正）}&br()&small(){・特殊部隊SWAT：隊長}|[[ロスサントス警察>>ロスサントス警察]] &small(){2025/12/19～}&br()[[ロスサントス救急救命隊]] &small(){仮採用 2026/07/15~ }|
+|~|BGCOLOR(#69821b):~&color(#e0ebaf){&icon_fa(fas fa-car)}|高級車ディーラー【[[EDEN]]】&small(){2023/10/16～}&br()&small(){・副社長}||
+|~|BGCOLOR(#69821b):~&color(#e0ebaf){&icon_fa(fa-solid fa-staff-snake)}|中華料理屋 【[[明味房>ミンミンボウ]]】&small(){2024/03/04～}&br()&small(){・店長}||
+|BGCOLOR(#69821b):~&color(#e0ebaf){所属}|BGCOLOR(#69821b):~&color(#e0ebaf){&icon_fa(fa-solid fa-people-roof)}|[[公認勝手にレース協会]]||
+|BGCOLOR(#69821b):~&color(#e0ebaf){電話番号}|BGCOLOR(#69821b):~&color(#e0ebaf){&icon_fa(fa-solid fa-phone)}||(602)483-8731|
+|BGCOLOR(#69821b):~&color(#e0ebaf){TwiX}|BGCOLOR(#69821b):~&color(#e0ebaf){&icon_fa(fas fa-crow)}|&s(){@Mid Lee}&br()@mind|名前:MIND&br()ユーザー名:mind|
+|BGCOLOR(#aacf53):~&color(#316745){プレイヤー}|BGCOLOR(#aacf53):~&color(#316745){&icon_fa(fa fa-address-card-o)}|>|Middleee(ミドリ)|
+|BGCOLOR(#aacf53):~&color(#316745){レーサー名}|BGCOLOR(#aacf53):~&color(#316745){&icon_fa(fas fa-car)}|MIND / 追撃の鬼||
+|BGCOLOR(#aacf53):~&color(#316745){告知等}|BGCOLOR(#aacf53):~&color(#316745){&icon_fa(fa fa-bullhorn)}|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧 &font(#1da1f2){&icon_fa(fa fa-twitter) Twitter}) @MiddleeeTV}>>https://x.com/MiddleeeTV]] &small(){（メイン）}&br()&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧 &font(#1da1f2){&icon_fa(fa fa-twitter) Twitter}) @Middleeetv_real}>>https://twitter.com/Middleeetv_real]] &small(){（避難）}|
+|BGCOLOR(#aacf53):~&color(#316745){配信場所}|BGCOLOR(#aacf53):~&color(#316745){&icon_fa(fa fa-gamepad)}|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (middleeetv)}>>https://www.twitch.tv/middleeetv]]|
+|BGCOLOR(#aacf53):~&color(#316745){動画投稿}|BGCOLOR(#aacf53):~&color(#316745){&icon_fa(fa fa-video-camera)}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@Middleeetv)}>>https://www.youtube.com/@Middleeetv]] &small(){（切り抜き動画）}&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@Middleeetv_2nd)}>>https://www.youtube.com/@Middleeetv_2nd]]|
+|BGCOLOR(#928c36):~&color(#f8f4e6){別キャラ}|BGCOLOR(#928c36):~&color(#f8f4e6){&icon_fa(fa fa-user-plus)}|>|&openclose2(show=クリックで表示){&br()[[J　D]]&br()[[Los Santos Live Camera]]}|
+//(2025/02/19)プレイヤーより各種アカウントが乗っ取られていることが報告され、Xのアカウントが一時アカウントに変更されています。
+//参考URL:https://www.youtube.com/watch?v=ufVvj7XbrS4
+//(2025/03/20)Xのメインアカウントが復活しました
+
+#region(衣装倉庫)&b(){衣装倉庫}
+
+#region(シーズン１,close)閉じる
+
+#table_style(head=##69821b:#e0ebaf:center)
+|初期服|SWAT冬|SWAT夏|SWAT|事務作業|h
+|&image(ミンドリー初期服.jpg,x=150)|&image(ミンドリー_警察01.png,x=150)|&image(ミンドリー_警察03.png,x=150)|&image(ミンドリー_警察02.png,x=150)|&image(ミンドリー_警察04.png,x=150)|
+
+#table_style(head=##69821b:#e0ebaf:center)
+|私服-明味房|私服-ディーラー|パジャマ|h
+|&image(ミンドリー_私服01.png,x=150)|&image(ミンドリー_高級車D01.png,x=150)|&image(ミンドリーパジャマ.png,x=150)|
+
+#endregion(服シーズン1)
+
+#region(シーズン２,close)閉じる
+SGPD
+#table_style(head=##69821b:#e0ebaf:center)
+|SWAT|警察スタイル|昔①|昔②|h
+|&image(ミンドリー_シーズン２_警察01.png,x=150)|&image(警察スタイル.png,x=150)|&image(昔①.png,x=150)|&image(昔②.png,x=150)|
+
+私服
+#table_style(head=##69821b:#e0ebaf:center)
+|私服|私服|私服||h
+|&image(ミンドリー_シーズン2_私服1.png,x=150)|&image(ミンドリー_シーズン2_スーツ.png,x=150)|&image(私服OFF.png,x=200)||
+
+その他
+#table_style(head=##69821b:#e0ebaf:center)
+|院内用|院外用|||h
+|&image(院内用.png,x=150)|&image(院外用.png,x=150)|||
+#endregion(服シーズン2)
+
+#endregion
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+
+&aname(目次1,option=nolink){}
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+*&font(#a5ba63){&icon_fa(fa fa-address-card-o)} 基本情報
+#include(ミン　ドリー/基本情報)
+----
+&size(10){詳細ページ：[[基本情報>>ミン　ドリー/基本情報]]}
+#right(){&link_anchor(目次1){△目次へ}}
+
+*&font(#a5ba63){&icon_fa(fa fa-calendar-o)} エピソード
+**&size(20){Season１}
+#region(開く,close)閉じる
+&size(20){2023年}
+#include(ミン　ドリー/EP2023-P1)
+&size(20){2024年}
+#region(開く,close)閉じる
+#include(ミン　ドリー/EP2024-P1)
+#include(ミン　ドリー/EP2024-P2)
+#include(ミン　ドリー/EP2024-P3)
+#include(ミン　ドリー/EP2024-P4)
+#include(ミン　ドリー/EP2024-P5)
+#endregion(2024年)
+&size(20){2025年}
+#region(開く,close)閉じる
+#include(ミン　ドリー/EP2025-P1)
+#include(ミン　ドリー/EP2025-P2)
+#include(ミン　ドリー/EP2025-P3)
+#include(ミン　ドリー/EP2025-P4)
+#endregion(2025年)
+#endregion
+**&size(20){Season２}
+#region(開く,close)閉じる
+&size(20){2025年}
+#include(ミン　ドリー/2EP2025)
+&size(20){2026年}
+#include(ミン　ドリー/2EP2026-1)
+#include(ミン　ドリー/2EP2026-2)
+#endregion
+***&color(#a5ba63){2026年09月のエピソード}
+#region(開く,open)閉じる
+#region(09/02【ストグラ2】変化 ミンドリー #70,close)09/02【ストグラ2】変化 ミンドリー #70
+-本署にて起床
+　[[安倍君>>安倍　霊明]]がホストをまたイベントでやるため服を選ぶと退勤した
+　[[キーモットさん>>キーモット　ホームズ]]の復職の話を[[署長>>ジャック　馬ウアー]]と話す
+　twixにて種を売るというツイートを見る
+-[[アジカン>>味野　環九郎]]のアパートにて定例会議
+　[[サニーケバブ]]の[[柚乃　いずみ]]店長が[[Back　Alley]]について警察に聞きに来た件
+　病院の医療道具窃盗の件
+　キーモットホームズの件
+　種捜査の件
+　twixに「種売ります]とあった件
+　先日[[きの市長補佐]]と話した件を伝える
+-街をパトロールする
+　偽札の作業台がどんなものかブロに電話にて確認する
+　作業台を確認しようと砂漠の飛行場倉庫へ行くが、ラックにお金があり拾う
+　その件をブロにl共有する
+-ブレイン銀行強盗対応
+　人質がおらず、簡易的に人質になる
+　撃ち合いになりダウン
+-救助に来てくれた[[ゆた　んぽ]]さんが西病院を通り過ぎたので海に沈められるのかと思った
+-西病院にて治療
+　[[ノビーさん>>ノビー　ラング]]から病院に[[無馬さん>>無馬　かな]]が来て愚痴っていると聞く
+-事件対応合流
+-[[わんも〜Cafe]]にて買い物
+　雑談をする
+-本署
+　[[脇　逢魔]]が来署しており雑談をする
+-ブースティング対応
+-病院にて治療
+-サニーケバブにて買い物
+　入店して待ってみるが来店に気づかれず目の前で新人研修を見せられる
+-本署
+　[[無馬　かな]]が来署、ナイフ、アタッシュケース、棒を順番に手に出し「わかるかな？」と言って去って行った
+#endregion
+#region(09/03【ストグラ2】不安 ミンドリー #71,close)09/03【ストグラ2】不安 ミンドリー #71
+-本署
+　朝の共有会議
+　　新聞に花のレシピが載っていた
+　　アーマーが欲しいと話す
+-フリーサ銀行強盗対応
+　朝の会議中だと思い人質もなく１人で強盗　
+　追うのが出遅れロスト
+-ブレイン銀行強盗対応
+　ロングチェイスの確保
+　[[豆やんさん>>豆　やん]]出血ダウン
+-置き配強盗対応
+　手荷物検査を拒否の為、チェイス
+-フリーサ銀行強盗対応
+　[[安城　成]]から電話にてグリーンバックが警察署にあるかという問いだった
+-本署
+　牢屋対応
+　牢屋対応時に[[畳　かえる]]が謎の種なるものを持っていたのを共有する
+　種を販売している「Cheap」という組織について
+-[[JTS>>ジョアンナテクノサービス]]にて修理
+　豆やんさんがチェイスがうまいと[[ジョアンナさん>>町田　ジョアンナ]]、[[ダミアンさん>>ダミ　アン]]と話す
+-本署
+　[[るんるん>>もり　るんるん]]が[[キャップ>>ましゃかり　トラボルタ]]に種関連の考察を話しているのを聞いていた
+-ニケツしてる[[くま　ぽこ]]と[[シャーク　ニサワール]]と話す
+-アパートにて仮眠
+
+#endregion
+#region(09/03【ストグラ2】不安 ミンドリー #71続,close)09/03【ストグラ2】不安 ミンドリー #71続
+-アパートで起きて、本署へ向かう
+-本署
+　久々に[[仄々山　すごす]]さんが出勤しており話す
+　初心者の[[浅森　水瞳]]さんが来署し話をする。法律などの職に興味があるようだ
+　えびす君とブースティングの内包や罪状について話す
+　[[小峯さん>>小峯　玲]]が来署しており、るんるん、すごすさん、ゆきやと話す
+　[[えるな>>月乃　えるな]]が来署し、お兄ちゃんとケンカをしたのか？言っており１日早く退職した事を伝える
+　いつの間にか署員がいなくなっており困惑する
+　新規住民の[[君乃　アイボ]]さんの運転が怪しく話す
+　種の話が新聞に記事になった事で、種を探していると記者会見を行ったと聞き、[[署長>>ジャック　馬ウアー]]と話をする
+-貨物飛行機強盗対応
+-病院にて治療
+　手術室に搬送されると、[[イズミさん>>加賀　イズミ]]と[[ヘスティア>>ヘスティア　ゴデス]]が無言で出ていき嫌われているのかと思う
+　待合室に雑談
+-アーティファクトヘイスト合流
+-味野寮で警察会議
+　種についての記者会見の件
+-本署　
+　救急隊の日の宣伝に、イロハさんとノビーさんが来署、救急隊なのに知らないと言うと出勤していないからだと言われる
+　　時期を見て起きると伝える
+　SWAT部屋にて就寝
+　　
+#endregion
+#region(09/05【ストグラ2】二度寝 ミンドリー #72,close)09/05【ストグラ2】二度寝 ミンドリー #72
+-本署
+　日付変わってから起床
+　花の検査結果、記者会見についてレポートを読み、[[署長>>ジャック　馬ウアー]]と[[キャップ>>ましゃかり　トラボルタ]]と話す
+-[[トナカイ>>タシロ　カワセ]]に電話にて明味房の物件の相談をする
+-車両保険に入るために、西海岸の保険へ向かう
+　黒いバンが停車しており邪魔だとぼやく
+　850Yから始まるナンバーだった
+　心ありの車が止まっており、目の前が建物がお店かと思ったが違った
+　　車両ナンバーを検索紅すると[[ボクジュール　すずり]]さんの所有車両だった　
+　無線にて車があった事をキャップに報告すると現場に向かってくれるようだ
+-BJローン
+　明味房の件で相談
+-本署
+　[[ヒロ君>>ヒロ　ヤマモト]]と[[ぴぴさん>>猫又　ぴぴ]]が話しており、ニュースアプリの記者の仕事を頑張っていると話していた
+　　情報差が圧倒的にあり苦労していると話す
+　ヒロ君に明味房の話をする
+　すずりさんの車両の件から花の話をヒロ君と[[えびす君>>伊勢　えびす]]と話す
+　署長の考察を聞き、チョケ考察となる
+　記者会見室で就寝
+#endregion
+#endregion
+//
+----
+&size(12){詳細ページ}
+&size(12){2023年：[[7月～12月>>ミン　ドリー/EP2023-P1]]}
+&size(12){2024年：[[1月・2月>>ミン　ドリー/EP2024-P1]]，[[3月・4月>>ミン　ドリー/EP2024-P2]]，[[5月・6月>>ミン　ドリー/EP2024-P3]]，[[7月～9月>>ミン　ドリー/EP2024-P4]]，[[10月～12月>>ミン　ドリー/EP2024-P5]]}
+&size(12){2025年：[[1月・2月>>ミン　ドリー/EP2025-P1]]，[[3月・4月>>ミン　ドリー/EP2025-P2]]，[[5月・6月・7月・8月>>ミン　ドリー/EP2025-P3]]，[[9月>>ミン　ドリー/EP2025-P4]]，[[12月>>ミン　ドリー/2EP2025]]}
+&size(12){2026年：[[1月・3月・4月・5月>>ミン　ドリー/2EP2026-1]]・[[6月・7月・8月>>ミン　ドリー/2EP2026-2]]}
+#right(){&link_anchor(目次1){△目次へ}}
+
+*&font(#977cca){&icon_fa(fa fa-twitch)} アーカイブ
+Twitch、Youtube共に最新アーカイブはサブスク、メンバーシップ限定です。
+Twitchアーカイブは2ヶ月で視聴できなくなります。
+**&size(20){Season１}
+#region(開く,close)閉じる
+#include(ミン　ドリー/アーカイブ01)
+#include(ミン　ドリー/アーカイブ25)
+#endregion
+
+**&size(20){Season２}
+#region(開く,open)閉じる
+#include(ミン　ドリー/2アーカイブ01)
+#endregion
+**&size(20){コラボ}
+#region(開く)閉じる
+#table_style(head=center:#c3d298){配信日=right}
+#table_filter(){配信タイトル=show,ダイジェスト=show,参加者=hide,備考=show}
+|~配信日|~配信タイトル|~ダイジェスト|~参加者|~備考|h
+|2025/02/24|[[【VALORANT】ストグラ公務員コラボ !member>>https://www.twitch.tv/videos/2389903430]]||||
+|2025/03/24|[[【PUBG】ストグラ公務員PUBG #3>>https://www.twitch.tv/videos/2414071044]]||||
+//|2025/mm/dd|[[配信タイトル>>個々に配信URLを入力]]||||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(コラボ)
+----
+&size(12){詳細ページ：[[2023年・2024年>>ミン　ドリー/アーカイブ01]]，[[2025年>>ミン　ドリー/アーカイブ25]]}
+&size(12){※　Twitchアーカイブは2ヶ月で視聴できなくなります}
+&size(12){※　Twitchダイジェストは25年5月より合計100時間となったため大部分が視聴不可となりました}
+
+#right(){&link_anchor(目次1){△目次へ}}
+*&font(#DA1725){&icon_fa(fa fa-youtube-play)} 動画
+**公式切り抜き
+***2024年
+#region(開く)&bold(){閉じる}
+****4月・5月
+#region(開く)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|04/15|[[空き巣対応に行ったら終始爆笑の展開になってしまうｗｗｗ>>https://www.youtube.com/watch?v=CfWQcqCkYdk]]||
+|04/23|[[軍事物資の犯人と銃撃戦になりとんでもない方法で撃ち合いをする【ミンドリー】>>https://www.youtube.com/watch?v=md0irQlRDRw]]||
+|04/26|[[2代目マック誕生？！なしまかなのマック芸で大爆笑するwww【ミンドリー】>>https://www.youtube.com/watch?v=s-cFzTP-Axs]]||
+|04/28|[[空き巣対応で暴行を加えられバチバチになりかけ実銃が必要と悟る...【みこだよ/ミンドリー】>>https://www.youtube.com/watch?v=0_W1phBZz2M]]||
+|04/29|[[終始お笑い (?)してる奇妙な宝石店強盗犯たちwwww【とっぴー/ととみっくす/ミンドリー】>>https://www.youtube.com/watch?v=DLzyB-bi2-8]]||
+|04/30|[[犯人を処理した後にミンドリーの汚職が発生する！？【しょうじ/ミンドリー】>>https://www.youtube.com/watch?v=BBat_ECFn6w]]||
+|05/02|[[パシフィック銀行強盗にダイナミックエントリーをかますミンドリーwww【ミンドリー】>>https://www.youtube.com/watch?v=HdRjY84wpds]]||
+|05/03|[[急に始まった花沢まるん検定でとんでもない方法で試す警察官たち【らっだぁ/しょうじ/ぺいんと/marunnn/ミンドリー】>>https://www.youtube.com/watch?v=00_6xr5esLE]]||
+|05/05|[[客船の護送でカオスな状況になり868の事が表に出かける【ぺいんと/さぶ郎。/ミンドリー】>>https://www.youtube.com/watch?v=DC14C-Or1cY]]||
+|05/06|[[ロスサントスの太陽 (皇帝) ALLINを潰す宣言をする!?【るなりあ/弐十/ミンドリー】>>https://www.youtube.com/watch?v=lDhbYmQbA3Q]]||
+|05/07|[[瞑想寸前にタラちゃんに射殺される展開になり爆笑するミンドリー【ふぁんきぃ/ミンドリー】>>https://www.youtube.com/watch?v=Xh5hn70Ym08]]||
+|05/09|[[白熱した客船で突如現れた決闘者に爆笑するミンドリーｗｗｗ【ミンドリー】>>https://www.youtube.com/watch?v=Bf_thY4CoYY]]||
+|05/10|[[伊藤ぺいんの浮気発覚？禊で誠心誠意の服装にしてくるｗｗｗ【さぶ郎。/ぺいんと/ミンドリー】>>https://www.youtube.com/watch?v=n7y-UwdPlys]]||
+|05/11|[[新人体験の銀行強盗で混ぜるな危険が発生し爆笑の展開になるwwww【ありけん/聖母れりあ/ミンドリー】>>https://www.youtube.com/watch?v=cjQQNh6NO2U]]||
+|05/12|[[リサセンにて喉を閉めてるはずが何故か会話が噛み合う奇跡の展開【ミンドリー】>>https://www.youtube.com/watch?v=KuA0tUfKnaw]]||
+|05/13|[[「お前ら本格的に取り締まれ」と言われ話題の新薬を本格的に取り締まる【ミンドリー】>>https://www.youtube.com/watch?v=pW3GNKwA17Q]]||
+|05/14|[[飛行場に１台４人乗りのパトカーで乗り込んでみたｗｗｗ【花芽なずな/ととみっくす/marunnn/ミンドリー】>>https://www.youtube.com/watch?v=Ew00xEo8awA]]||
+|05/15|[[事件現場を一望できるチートみたいな場所が見つかってしまう...【ミンドリー】>>https://www.youtube.com/watch?v=P2WIB5bjE70]]||
+|05/16|[[大事な警察会議中にとある発言で署長からツッコミされるドリwww【ミンドリー】>>https://www.youtube.com/watch?v=Vl0G2O60yh4]]||
+|05/18|[[とある星人が警察署に迷い込んで来てお母さんに電話するミンドリー【ミンドリー】>>https://www.youtube.com/watch?v=WEI3UHtxf10]]||
+|05/18|[[罪状の罰金額がヤバすぎて「半分出して...」とお金をせびられるwww【ミンドリー】>>https://www.youtube.com/watch?v=-uqTifaq5Q0]]||
+|05/19|[[当たり屋をしようとしたら本当に轢かれてしまうミンドリーｗｗｗｗ【ミンドリー】>>https://www.youtube.com/watch?v=WcmJIbnnOJk]]||
+|05/20|[[まさかの神子田頼警察を辞める！？ドリが導きだした答えとは...【みこだよ/ミンドリー】>>https://www.youtube.com/watch?v=us-ZL6l_6JA]]||
+|05/25|[[色々と面白くてポンコツな銀行強盗犯に出会うミンドリーwww【ミンドリー】>>https://www.youtube.com/watch?v=liO0FuE6p4w]]||
+|05/26|[[バチバチに銃撃戦してる中唐突に刃弐ランドがダイブしてきて困惑する【Vanilla/ミンドリー】>>https://www.youtube.com/watch?v=7WCA7jyXdjk]]||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(4月・5月)
+****6月～9月
+#region(開く)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|06/03|[[めちゃくちゃ可愛いイラストが完成した話やさぶ郎の可愛い所を眺めるドリ【さぶ郎。/Middleeetv】>>https://www.youtube.com/watch?v=EGrLevYYvuQ]]||
+|06/04|[[9055を巡って市と裁判をする？とんでもない展開になるか！？>>https://www.youtube.com/watch?v=YN6uMHcv41c]]||
+|06/14|[[iRISの解散を知らされ唖然とするミンドリー>>https://www.youtube.com/watch?v=xZaAx0CA56I]]||
+|06/19|[[上手すぎる刃弐ランドのチェイスに皇帝が挑み見守るミンドリー【Vanilla/るなりあ/Middleeetv】>>https://www.youtube.com/watch?v=YgYVxrlH3ts]]||
+|06/20|[[カジノにて餡ブレラの命運をかけたチンチロをするウェスカー【ごっちゃんマイキー/Middleeetv】>>https://www.youtube.com/watch?v=8GO6LnzgT7M]]||
+|06/21|[[懐かしのメンツと大型新人が署に集まりわいわいする【叶/らっだぁ/Mondo/まるーん/Middleeetv】>>https://www.youtube.com/watch?v=LS3RUY9T5So]]||
+|06/27|[[金持ち探しでウェスカーに詰めていくミンドリーとズカズカ行くなずぴwww【ごっちゃんマイキー/花芽なずな/Middleeetv】>>https://www.youtube.com/watch?v=TR5BfCu79_k]]||
+|06/28|[[終始爆笑展開のネル人狼は始まるｗｗｗｗ【二十日ネル/Middleeetv】>>https://www.youtube.com/watch?v=-I-gg60P85o]]||
+|07/06|[[さぶ郎に大事な面接をしながら格言を残すミンドリー【さぶ郎。/Middleeetv】>>https://www.youtube.com/watch?v=z0vPwcARe0c]]||
+|09/11|[[市長に呼び出しをされとある一件でキレられるまるんとミンドリー【しょぼすけ/まるーん/Middleeetv】>>https://www.youtube.com/watch?v=AApl6vPxXe0]]||
+|09/16|[[ALLINホストで初対面でお姫様抱っこするミンドリー>>https://www.youtube.com/watch?v=qBXrHgdz4Qk]]||
+|09/18|[[ホストミンドリーに密着する１日大忙しのまとめ>>https://www.youtube.com/watch?v=YJRI0FEnrK4]]||
+|09/26|[[ミンミンボウ新メンバー？面接に来た高橋さん！>>https://www.youtube.com/watch?v=RNTMvfGwxGc]]||
+|09/26|[[マックさんも参戦！？ネルさん初の金庫強盗！>>https://www.youtube.com/watch?v=8kl5sDGi3lI]]||
+|09/28|[[チルタイム中に様子がおかしいネルとなずぴ>>https://www.youtube.com/watch?v=9-V-EmvRjyk]]||
+|09/29|[[クビになった後に一同からボロクソに言われる竹井とそれを爆笑するミンドリー>>https://www.youtube.com/watch?v=u0JNP6gquuc]]||
+#table_autoincrement(){label=#, start=26}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(6月～9月)
+****10月
+#region(開く)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|10/01|[[プロファイル対応しつつ漢にしか分からない話をするミンドリー>>https://www.youtube.com/watch?v=2z6qAeLqnrY]]||
+|10/02|[[連続で逮捕される不憫すぎて落ち込むじょばｗｗｗ>>https://www.youtube.com/watch?v=yeUdY5lZSGA]]||
+|10/02|[[救急隊のみんなと雑談してたらジェネギャを感じてしまう...>>https://www.youtube.com/watch?v=ODmSnsLTRjo]]||
+|10/03|[[「私は止まることは出来ない」と謎の言葉を発する犯人に遭遇するｗｗ>>https://www.youtube.com/watch?v=WT_0Zn5DBHE]]||
+|10/04|[[色々ありすぎるてつおさん調査ｗｗ>>https://www.youtube.com/watch?v=E7rKS07gVxw]]||
+|10/05|[[金庫ごと吹っ飛ぶ！？やらかしの金庫強盗ｗｗ>>https://www.youtube.com/watch?v=WYu0m-ToIMo]]||
+|10/06|[[解放条件全員撃ち合い宣言！？とんでもない数と撃ち合いになる宝石強盗犯>>https://www.youtube.com/watch?v=ELDxMkYYHqo]]||
+|10/07|[[オイルリグ対応でルンルンのナイフキルに爆笑するミンドリーwww>>https://www.youtube.com/watch?v=MjhspCb5Ugg]]||
+|10/08|[[連携がナイスすぎるユニオン対応>>https://www.youtube.com/watch?v=cYR3qsoBTy4]]||
+|10/10|[[ホラー要素多めなチルタイム迷路探索www>>https://www.youtube.com/watch?v=U6H9PgH9AN4]]||
+|10/11|[[スケボーVSネロカス！？はちゃめちゃな高級車窃盗の対応をするミンドリー>>https://www.youtube.com/watch?v=EUn1LbBmGtU]]||
+|10/12|[[道交法違反を取り締まってたらまさかの人物に遇うミンドリー>>https://www.youtube.com/watch?v=gsT8SvX52Rs]]||
+|10/13|[[とんでもない濃い人物が警察体験に来た...>>https://www.youtube.com/watch?v=DJGAbAMf77s]]||
+|10/15|[[お悩み相談を聞いてくれる天使のよつは先生>>https://www.youtube.com/watch?v=tU1nuBjkZrY]]||
+|10/16|[[すずめさんに「変な言葉を言わせた」容疑でわきをを詰めるミンドリー>>https://www.youtube.com/watch?v=fSxhy9kbZXQ]]||
+|10/17|[[オルカが降格宣言される!?署長と情報漏洩について話すミンドリー>>https://www.youtube.com/watch?v=s5z7UhRnemg]]||
+|10/18|[[市長が訪問してきて「大型でのロケラン禁止令」を発案しようとしてミンドリーの考えを明かす>>https://www.youtube.com/watch?v=ijK4b_ZjFZc]]||
+|10/19|[[警察に勇者誕生！？ミカド君警察に合格！>>https://www.youtube.com/watch?v=7dari0ap1LM]]||
+|10/20|[[シャンクズの発言で謎の存在だった白い悪魔が明らかになる！？>>https://www.youtube.com/watch?v=5rD_7dLpYr4]]||
+|10/20|[[アイス食べてただけなのに、シリアスは突然...>>https://www.youtube.com/watch?v=SnfFt6MQpYo]]||
+|10/22|[[免罪？入院？色々ありすぎる滅論君の簡易裁判をする！>>https://www.youtube.com/watch?v=m5ROH4a6MLw]]||
+|10/25|[[リグ対応にて不憫すぎるマヌっちに爆笑するミンドリー>>https://www.youtube.com/watch?v=aWxZGmq_Osc]]||
+|10/26|[[久しぶりのパシフィックで魅せるミンドリー、常に最前線で戦う>>https://www.youtube.com/watch?v=napL6E_U_CI]]||
+|10/27|[[いろんな人のランク昇格する、反応集！>>https://www.youtube.com/watch?v=8OTsEncZ3XU]]||
+#table_autoincrement(){label=#, start=42}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(10月)
+****11月・12月
+#region(開く)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|11/05|[[はちゃめちゃすぎる世界統合が来た...>>https://www.youtube.com/watch?v=pzrmiLrxOac]]||
+|11/07|[[何回も事故る？多難すぎる飛行機練習>>https://www.youtube.com/watch?v=RbB2qdX-65g]]||
+|11/09|[[餡ブレラがガチの警察署襲撃！？警察代表として餡と話すミンドリー>>https://www.youtube.com/watch?v=X4poUhzPrns]]||
+|11/10|[[さぶちゃんとコンビニ対応に来たつもりが詰められるJD>>https://www.youtube.com/watch?v=3whvWFzIAC4]]||
+|11/11|[[さぶちゃんに飛行機をプレゼントしたが操作がままならないｗｗｗ>>https://www.youtube.com/watch?v=IgGPD8OVWrc]]||
+|11/12|[[１日限定イベントで指名手配犯のシャンクズに遭遇する>>https://www.youtube.com/watch?v=EUqkRaXa9jA]]||
+|11/13|[[チルドライブしてたらパトカーが落ちてたので盗んでみた>>https://www.youtube.com/watch?v=9E-qrqiJoLk]]||
+|11/14|[[さぶ郎とメイドカフェに行って満喫するミンドリー>>https://www.youtube.com/watch?v=iZar4I2uNVw]]||
+|11/15|[[未だにDEPとの関係が？？滅論君の件を共有するミンドリー>>https://www.youtube.com/watch?v=kzaP4bbCxaw]]||
+|11/15|[[2000万円分のギャグで「竹井の記憶が消えた」件について>>https://www.youtube.com/watch?v=JU5CtNgyZ2A]]||
+|11/16|[[先日起きた警察本署の襲撃について市長から共有があり請求額がとんでもないことに...>>https://www.youtube.com/watch?v=mFACW8oMHqw]]||
+|11/16|[[ミンミンボウに呼び出しや、れりあと襲撃の件について話し合う>>https://www.youtube.com/watch?v=_6P4P31Rq8I]]||
+|11/16|[[ひのらんが警察を辞める？不穏な空気の中相談される>>https://www.youtube.com/watch?v=bAFGEvYuwT0]]||
+|11/17|[[ひのらんが警察退職する件を署員たちに共有したらショックと悲しみの雰囲気に包まれる>>https://www.youtube.com/watch?v=sMwQ1_tJ3tY]]||
+|11/18|[[ALLINも警察署襲撃の可能性！？護送の件やMonDと通話して話す>>https://www.youtube.com/watch?v=XLwAs8Wm3Ds]]||
+|11/18|[[救急隊が発砲を受けた！？高橋関連事件の詳細を聞くミンドリー>>https://www.youtube.com/watch?v=_OnXvL3bUa4]]||
+|11/19|[[MOZUの関与の可能性が高い？DEP取引についてみんなで報告書を読む>>https://www.youtube.com/watch?v=oI7ofeJiUwc]]||
+|11/20|[[ウェスカーも共有受けてない？武器スキンの販売の話で呼び出されるミンドリー>>https://www.youtube.com/watch?v=j7IJ7hQ55pY]]||
+|11/21|[[ユニオンで一般人通過！？大忙しすぎてテンパるミンドリー>>https://www.youtube.com/watch?v=eYiDtZKtxyE]]||
+|11/22|[[牢屋内での蘇生拒否や銃のスキンなど色んな共有会議>>https://www.youtube.com/watch?v=qCHW8MDkHtY]]||
+|11/30|[[警察署屋上で立て籠もりやウェスカーが餡を辞める共有を受けるミンドリー>>https://www.youtube.com/watch?v=A58eY_XfVQk]]||
+|11/30|[[いろんな方から誕生日を祝ってもらうミンドリー>>https://www.youtube.com/watch?v=n_LR14jAdCc]]||
+|12/20|[[シャンクズの慈善事業内容を聞きに行くミンドリー>>https://www.youtube.com/watch?v=SCjdorOTK9w]]||
+|12/22|[[ひのらんはもう敵？久々に対面したのに容赦ないミンドリー>>https://www.youtube.com/watch?v=M3W2ZB4PEkQ]]||
+|12/28|[[ヤバッキオからシャンクズのボイス事業の件の詳細を聞くミンドリー>>https://www.youtube.com/watch?v=7RRSr130U4E]]||
+#table_autoincrement(){label=#, start=66}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(11月・12月)
+#endregion(2024年)
+//
+***2025年
+#region(開く)&bold(){閉じる}
+****1月～3月
+#region(開く)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|01/02|[[シャンプロの件を署長と話し、警察か個人かの問題に発展する...>>https://www.youtube.com/watch?v=DOAPm8DHeaU]]||
+|01/08|[[ばぁばと警察の経費について相談されるミンドリー>>https://www.youtube.com/watch?v=1uShvaFVBF0]]||
+|01/28|[[署長と一緒に警察内の例の件について市長と相談しに行く>>https://www.youtube.com/watch?v=nfM-jrmDzPA]]||
+|02/26|[[警察上官にワイプが来た！？署長入りの不信任案が出てくるｗｗｗ>>https://www.youtube.com/watch?v=ggC65Mr9ce4]]||
+|03/06|[[MonDに謝罪してしまったブロッコリーの共有で「さぶ郎に5億借金」してることが判明する>>https://www.youtube.com/watch?v=aREzx7xcSXA]]||
+|03/09|[[青井らだおの久々の起床で色々共有したら面白い反応が見れたｗｗｗ>>https://www.youtube.com/watch?v=1oigyfxusGo]]||
+|03/10|[[選挙結果で不満を抱いた人物が警察官を殺害事件発生？それについてミンドリーの考え>>https://www.youtube.com/watch?v=-Ivx_BmKnbU]]||
+|03/14|[[市長のウェスカーさんと警察や大型犯罪などの今後について話し合う>>https://www.youtube.com/watch?v=0sdmIAqd3dE]]||
+|03/14|[[非通知電話の市民対応から始まった展開がヤバすぎる...>>https://www.youtube.com/watch?v=AvZgV4dRows]]||
+|03/14|[[現場から血痕が出た？マックさんと警察総出で口論に発展する>>https://www.youtube.com/watch?v=I24UPUdqUCU]]||
+|03/15|[[新武器スナイパーの案で警察代表で意見してみるミンドリー>>https://www.youtube.com/watch?v=D1jx07-qklg]]||
+|03/16|[[あまりにも早い退勤この間わずか３秒...ミンドリーでなきゃ見逃しちゃうね。>>https://www.youtube.com/watch?v=dkMcCbh8w7Y]]||
+|03/17|[[３人にランク昇格する為には？と聞かれ条件を言い渡すミンドリー>>https://www.youtube.com/watch?v=-dHG7PAYOn8]]||
+|03/18|[[マックさんが本書にきてSWATや警察のあり方について議論する>>https://www.youtube.com/watch?v=Rf8WTp_BSss]]||
+|03/23|[[ミンドリーがプッツンと来て勢いで警察ジョブを削除？警察を辞めた理由は語る>>https://www.youtube.com/watch?v=wUXZL4CUSWo]]||
+|03/24|[[ウェスカー市長に警察辞めたことを伝えてみたら・・・>>https://www.youtube.com/watch?v=daku0xlCm2c]]||
+|03/24|[[なずぴと皇帝に警察退職の件を共有し今後の話し合いをする>>https://www.youtube.com/watch?v=MBcZ_a3-5mY]]||
+|03/26|[[警察を辞めて改めて思う事や観測者へのお願いを語る>>https://www.youtube.com/watch?v=ud65TiI4n7E]]||
+|03/30|[[ネルさんと警察を退職した事と弟のJDの本名について明かすミンドリー>>https://www.youtube.com/watch?v=iHoQV2kzKDc]]||
+#table_autoincrement(){label=#, start=91}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(1月～3月)
+****4月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|04/04|[[警察を退職したミンドリーに対して署長から直々の罰則を言い渡される>>https://www.youtube.com/watch?v=ltxWOPI6Tlg]]||
+|04/08|[[ミンドリーが警察復帰、皇帝から近況を聞く！>>https://youtu.be/4NIWaFNHVlY?si=qV3c5LmXxNCErT87]]||
+|04/10|[[ひろしくんと銀行強盗の対応に行ったが、犯人に対して容赦が無さすぎるｗｗｗ>>https://youtu.be/3s-D7OxGdJs?si=2KYXZeAZFIcLnMSn]]||
+|04/10|[[なずぴから話があると電話を受け警察組織の在り方について話し合う>>https://youtu.be/cuwvX18_7Bg?si=jTjh3fwXdWrC3k5c]]||
+|04/11|[[夏苗くんから相談があり、話を聞いたら深刻な内容だった...>>https://youtu.be/QiChqxR40Bs?si=cmDxYHOcvD7oIhtH]]||
+|04/18|[[ミンドリーの受け攻め発言で困惑するさぶ郎>>https://youtu.be/PI6VV-czDWs?si=1LeZf7E19Ewyyx8B]]||
+|04/21|[[ボイラ先輩の取り調べウォチパをみんなで見てたら本当に終わってた件>>https://youtu.be/fogIZy7VsR0?si=KbcN3agkap26UV-l]]||
+|04/22|[[パトカー重窃盗が発生し、警察総出で犯人を追うがまさかお人物が犯人だった>>https://youtu.be/gspgFqXVASw?si=f-dl4n-0j4FG0k3-]]||
+//|04/dd|[[動画タイトル>>ここに動画URLを入力]]||
+#table_autoincrement(){label=#, start=110}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(4月)
+****5月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|05/01|[[笑いありの警察隊VS868の大型犯罪（ボブキャット＆飛行場）>>https://youtu.be/0J7x6gQ9IUU?si=W9pVpCSv9s6q_Wbo]]||
+|05/05|[[ジェイミーが警察を辞めたいと相談を受ける、きっかけとは？>>https://youtu.be/kY2AXnlABqM?si=PjSfd_3vLZDAEyfX]]||
+|05/05|[[ジェイミー君の相談を終え、自身の考えやこの街の汚職について話す>>https://youtu.be/X06NgwTJllc?si=2PRPhg5wP8MwfQZv]]||
+|05/05|[[ジェイミーの件を共有、警察官３人の反応とは>>https://youtu.be/82ChabERQCE?si=_CbREw0WUuGb2wc2]]||
+|05/08|[[ジェイミーの情報などを知ったうえで聞く警察のジェイミー事情聴取、ミンドリー視点>>https://youtu.be/OkkXF5cIz30?si=hqxmnhEcQ35ykecl]]||
+|05/08|[[事情聴取後にプリズンへ送られ涙したジェイミーが出した今後答えを聞きに行く>>https://youtu.be/L5V0j2PcdDM?si=Ll2yNsm-rKkgDqNa]]||
+|05/14|[[辞めてしまったジェイミーくんの心境をさぶ郎と考察するミンドリー>>https://youtu.be/nO0rHxupJzw?si=pdvH2cB6KbldHZHE]]||
+|05/14|[[警察上層部でも知らないジェイミーの件の極秘情報を署長に共有する>>https://youtu.be/tNS5dR2ZOOA?si=h22S1ZvxK3KpkndF]]||
+|05/15|[[ばぁばに餡に関する極秘情報を共有後、今後の動きについて話し合う>>https://youtu.be/rfNv9RSkaro?si=W4c8yFJSYKOy2d4S]]||
+|05/16|[[ウェスカー市長が警察署襲撃！？その後警察を壊す発言をし一同困惑する>>https://youtu.be/rCydPXzdJqs?si=aaU6OfBMPBhCvNtU]]||
+|05/16|[[突撃側が絶対に負ける完全に1Wayの防壁にやられていく警察たちｗｗｗｗ>>https://youtu.be/CTT77BYXjME?si=F2O7eoOkBuJ1r6cF]]||
+|05/18|[[犬ルリが150億負けて、警察組織が潰れる展開になる！？果たして取り戻せるのか...>>https://youtu.be/fHV1CidT5Go?si=-OJIDTLI83o2NdMB]]||
+|05/20|[[犬ルリの最終手段！？ウェスカー市長から電話が来て現場行った結果ｗｗ>>https://youtu.be/-fhp4VCu6Qk?si=CJfsR_FwbBtwCwWn]]||
+|05/21|[[警察金庫からBM（ブラックマネー）が横領される事案が発生し犯人を探る共有を受ける>>https://youtu.be/Q228cvOYLTM?si=b_h-4ctyWJQFXjA5]]||
+|05/21|[[カジノの提携先ローンに黒の人物がいる疑惑、それについて夏苗くんの秘密調査の共有>>https://youtu.be/FNIXmqU75V0?si=9m3W3lCvNQs6c79m]]||
+|05/22|[[久々に起きた伊藤ぺいんに色々と聞かれ答えていくミンドリー、殿もいます。>>https://youtu.be/76N9kFfEQxI?si=mm_PP4NQDWivIy2V]]||
+|05/26|[[たまたま通りかかった建物の中で爆発音がヤバくていってみた結果。。。>>https://youtu.be/TMiXWUTHDOs?si=6nvlnhYQhfC7_V6j]]||
+|05/26|[[抗争の火種になる？パシフィックの歪みでヤバいことに発展しかける>>https://youtu.be/mElmZQ5Hl9k?si=6JCYwOjlKwggIU1L]]||
+|05/29|[[ウェスカーの極秘情報の共有で新事実発覚！？近日投入予定とのこと>>https://youtu.be/Yi276xfyAGE?si=r-ijZZyZcClo5C6i]]||
+#table_autoincrement(){label=#, start=118}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(5月)
+****6月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|06/01|[[ホテルアモーレの件でブロとウェスカーがバチバチに口論になりひやひやするミンドリー>>https://youtu.be/YFxz4s2soi0?si=PQ9A9g-il_FbM5RL]]||
+|06/02|[[虚空新聞の件で警察ジョブ消し！？内部告発した警察5人に処罰が課せられる>>https://youtu.be/sQt9wCPIS4c?si=F2woHUu_A75E1PRV]]||
+|06/03|[[今回の件でえびす君に忖度なしで今の心境を聞き出すミンドリー>>https://youtu.be/WX9nQJs3DHI?si=mo7VYl42525CY5MC]]||
+|06/04|[[夏苗くんのチクあり、個別で今回の件を面談していくミンドリー>>https://youtu.be/-YFKKgD8GXg?si=6qYIvAS5f_BEcZam]]||
+|06/07|[[署長となずぴにこの件を共有すると爆笑され、そして今回の件の真犯人が発覚する・・・>>https://youtu.be/3U5ZHfjIqzw?si=bdJzh5xLgc7B9um7]]||
+|06/13|[[ウェスカーのゾンビ化計画の話や餡の話を遂に市民や警察に共有し抵抗の意思を問う>>https://youtu.be/b5v-VrevN0M?si=vS9tysHcJeD14ulI]]||
+|06/14|[[遂にウェスカーの実験が開始される、最後まで抵抗し続ける警察の結末は・・・>>https://youtu.be/78W3z8MwtMc?si=8L-tLc4-lEA2XxCe]]|餡ブレラ街襲撃|
+|06/14|[[ジェイミーの潜入調査を警察に告白し、既存の警察から疑問や意見にこたえる>>https://youtu.be/BIcnF60S8YY?si=0G9ec8v23lQG1zHd]]||
+#table_autoincrement(){label=#, start=137}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(6月)
+****7月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|07/09|[[部下５人から突如呼び出され重要な相談を受けるミンドリー>>https://youtu.be/ybc9BJLNRd0?si=wqYUIIiWd9ERjxNV]]||
+|07/10|[[例の５人に東署を間借りさせる代わりに、ある条件を課すキャップ>>https://youtu.be/bNeNqxppjNk?si=fYiJjZP2g1848Bct]]||
+|07/17|[[犬ルリが黒と武器交換した件で市長と議論になり熱くなる上官３人組>>https://youtu.be/1ZCVRI7dTZw?si=7TVwXl6t85hwuyqi]]||
+|07/18|[[犬ルリがクビになった件についてみんなやミンドリーが思ってること>>https://youtu.be/xZGI4MImoFU?si=h-Rq9DyZ2IEgnhhJ]]||
+|07/22|[[警察に戻るかどうか、相談しに来たジェイミーに対して上官ちからの助言>>https://youtu.be/pYLA7F9X4_k?si=pg6GDHZO4NTt3Wey]]||
+|07/23|[[れりあが記憶喪失し、5年間の記憶がなく呼び覚ますために処方を受ける>>https://youtu.be/UmKNpd9_Ks4?si=Brcf9rANOOwaOKhN]]||
+|07/30|[[客船で共犯疑惑をかけられる上田、下された判決はいかに・・・>>https://youtu.be/7JMiX1eOwyk?si=A5__4q8Uxto4rzNX]]||
+#table_autoincrement(){label=#, start=145}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(7月)
+****8月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|08/04|[[もう一人のミンドリーが帰国するようで、話を聞いてみる>>https://youtu.be/xHHlDrVV-WY?si=qqPx_wZ-Cbujl1ZF]]||
+|08/14|[[久しぶりの起床の成瀬カニに新しい薬を共有しようとしたら・・・>>https://youtu.be/ECnIdub9Hmc?si=6SnqicKEA702nozL]]||
+|08/18|[[上田の件で警察に訪問しに来た月ノ島ごうさん>>https://www.youtube.com/watch?v=bRxruBQyYTc]]|[[#2　掴まり乗りする危ない車>>https://youtu.be/bRxruBQyYTc?si=s5sf-IOysMD-EdTz&t=419]]&br()[[#3　ヘルアンを捕まえろ>>https://youtu.be/bRxruBQyYTc?si=ZaV4dJgdHvYneYS1&t=552]]|
+|08/18|[[砂漠からの出会い・・・わきをに王の器認定された上田の王の器集>>https://www.youtube.com/watch?v=uRDpnIEVGgI]]|[[#2　謁見の間前でわきをと会う>>https://youtu.be/uRDpnIEVGgI?si=2IiY_siZeJkK428X&t=466]]&br()[[#3　赤コンテナ付近でわきをと会う>>https://youtu.be/uRDpnIEVGgI?si=iFOdFGkyqdw2N3_3&t=679]]&br()[[#4　謁見の間訪問>>https://youtu.be/uRDpnIEVGgI?si=eZn_g7PUqy26zJnW&t=900]]|
+|08/21|[[とある元黒ボスが白市民パスを欲しがってる件について会議をする>>https://www.youtube.com/watch?v=aZbEKwlPKUY]]|[[#1　ラペルリングをしてダウンする皇帝>>https://www.youtube.com/watch?v=aZbEKwlPKUY]]&br()[[#2　とある元黒ボスが白市民パスを欲しがってる件について会議をする>>https://youtu.be/aZbEKwlPKUY?si=lXxE1rR5RVQRlucb&t=44]]&br()[[#3　免許も白パスも持っていない市長>>https://youtu.be/aZbEKwlPKUY?si=WBql1bwWr8xuHKQ5&t=337]]&br()[[#4　ハンバーガー車のニトロで遊ぶ>>https://youtu.be/aZbEKwlPKUY?si=PPtS8wmI5z9T4a5E&t=419]]|
+|08/22|[[大量の共有を受ける中例の大量殺傷事件について言及する>>https://www.youtube.com/watch?v=eMKwTybrlmU]]|[[#1　れりあからの電話>>https://youtu.be/eMKwTybrlmU?si=zO-jjW3VUShdB3El&t=1]]&br()[[#2　大量の共有を受ける中例の大量殺傷事件について言及する>>https://youtu.be/eMKwTybrlmU?si=MQ9CeXDfPowqgjXP&t=148]]|
+|08/24|[[BJローンの通報があり詐欺罪で逮捕した犬好マイキーの店長の件について議論する>>https://www.youtube.com/watch?v=oVzPu8mRO0s]]||
+|08/26|[[ここな逮捕を機に事業を廃業＆帰国を決断するルゥに相談されるミンドリー>>https://www.youtube.com/watch?v=MWVBuBY5854]]||
+|08/27|[[エスタークから唐突に帰国を告げられて困惑するミンドリー>>https://www.youtube.com/watch?v=OOaLZd9vmlY]]|[[#1　軍事物資対応　ぱちお君のバットは……>>https://youtu.be/OOaLZd9vmlY?si=OpyIQiS0kgf6gpkT&t=1]]&br()[[#2　エスタークから唐突に帰国を告げられて困惑するミンドリー>>https://youtu.be/OOaLZd9vmlY?si=bpCllczWkqQbcLGq&t=226]]|
+
+#table_autoincrement(){label=#, start=145}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(8月)
+****9月
+#region(開く)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|09/04|[[突如警察署にある人物の捜索願が来たが秘密裏にお願いされた件についてい>>https://youtu.be/TIAAOo9shGk?si=pl0FsJADQsk-W1g-]]||
+|09/06|[[犬ルリの件で少し共有を受けるミンドリー>>https://www.youtube.com/watch?v=crHkNrTHVcs]]|[[#2　どうしても言わせたい部下たち>>https://youtu.be/crHkNrTHVcs?si=kRzLyl9SAN4mNIpE&t=213]]&br()[[#3　くまのふでこさん来署。女性をドキドキさせる方法は？>>https://youtu.be/crHkNrTHVcs?si=REItkWL-_Ru8UEr7&t=282]]&br()[[#4　ライジングサン宗介ルーレット>>https://youtu.be/crHkNrTHVcs?si=D3PIAYhtyfOy8RWb&t=428]]&br()[[#5　ふでこさんの質問を安倍霊明、ブロッコリー斎藤に振る>>https://youtu.be/crHkNrTHVcs?si=jAeMaRKnxq-Ssnub&t=595]]|
+|09/06|[[何やら怪しい会話をしてるボイラさんを盗聴＆録音したらとんでも展開になったｗｗ>>https://www.youtube.com/watch?v=K9zbtGzLJZo]]||
+|09/08|[[前回依頼があった人探しの件、おかしい箇所が多く怪しさが増していく>>https://www.youtube.com/watch?v=zdrxyezMAlU]]|[[#1　赤城さんと銭形やいち郎の件を共有>>https://youtu.be/zdrxyezMAlU?si=zuQX-jid5kS8c3oZ&t=1]]&br()[[#2　署長室にボイラさん>>https://youtu.be/zdrxyezMAlU?si=VDCfdCxR-90W9zT8&t=795]]&br()[[#3　よる君も加わり銭形やいち郎の話を共有>>https://youtu.be/zdrxyezMAlU?si=8gTuhwVnNJohf-zC&t=875]]　|
+|09/09|[[市長会議中になしまかなに遭遇して声が出ないミンドリー>>https://www.youtube.com/watch?v=aZo3KwvLoJY&t=1s]]|[[#1　市長会議中になしまかなに遭遇して声が出ないミンドリー>>https://youtu.be/aZo3KwvLoJY?si=-JlsRHdvkpfhpPFn&t=0]]&br()[[#2　別世界の者への対応を市長から街の住人へ　>>https://youtu.be/aZo3KwvLoJY?si=XDHqg_Nuox94ROPj&t=232]]|
+|09/11|[[犬ルリクビにした件の再来か？押収品を使用している共有を受けるミンドリー>>https://www.youtube.com/watch?v=qS6-dTk1ue4JY&t=1s]]|[[#1　ボイラから相談を受ける>>https://youtu.be/qS6-dTk1ue4?si=6mU__YemAcgyPOQm&t=0]]&br()[[#2　本人に話を聞く>>https://youtu.be/qS6-dTk1ue4?si=FSlGun0kHAgiVcKL&t=884]]|
+|09/12|[[高難易度のE5sの6000番のミッションに挑戦するミンドリー部隊>>https://www.youtube.com/watch?v=1n84jcLHvSs]]|[[#1　E5sでミッション受注>>https://youtu.be/1n84jcLHvSs?si=jzs30VsER_4biBU2&t=1]]&br()[[#2　ミッション開始>>https://www.youtube.com/watch?v=1n84jcLHvSs&t=475s]]|
+|09/12|[[市民には秘密の新薬完成し、貰うときの隠語を試すドリー>>https://www.youtube.com/watch?v=5QvhYVf1CSM]]||
+|09/13|[[上田を盾に上手く立ち回っていくミンドリー>>https://www.youtube.com/watch?v=ZgaA9kq6MOo]]||
+|09/16|[[ルナが白市民パスが欲しいと言い、保護者を呼び連れて帰させることに>>https://www.youtube.com/watch?v=J3kRp7aSPdM]]|[[#1　ルナホークアイ白市民パス>>https://youtu.be/J3kRp7aSPdM?si=c6jHrkVpTzAkCNQ5&t=1]]&br()[[#2　キャンディケーンでチョケるin救急>>https://youtu.be/J3kRp7aSPdM?si=trRAHBxTZZuVJQ-4&t=681]]|
+|09/17|[[コインが５０枚盗まれた件でミンドリーが考えたリスクの>>https://www.youtube.com/watch?v=Oxz3gDIgnsw]]|[[#1　コインのリスク分散>>https://youtu.be/Oxz3gDIgnsw?si=QlU_CwG2ajoDSWOv&t=1]]&br()[[#2　ダークかな>>https://youtu.be/Oxz3gDIgnsw?si=HSF3O0ixEsMqAQXT&t=293]]|
+|09/17|[[胡將の件も含め犬ルリのクビに納得がいかない後藤れむ>>https://www.youtube.com/watch?v=RR8cbKi06rI]]|[[#1　ボイラと話>>https://youtu.be/RR8cbKi06rI?si=8H9NWkgzGPlYmlbo&t=1]]&br()[[#2　犬ルリのクビに納得いかない>>https://youtu.be/RR8cbKi06rI?si=HQy2zqJWJrh4HDL5&t=558]]|
+|09/18|[[らだおくんのパトカーが重窃盗で盗まれ、さすがに許せないミンドリー>>https://www.youtube.com/watch?v=qlcdn3hEERQ]]|[[#1　無人乗車の車>>https://youtu.be/qlcdn3hEERQ?si=zKi7Xo5M2nacjN4s&t=1]]&br()[[#2　らだおのパトカー重窃盗 >>https://youtu.be/qlcdn3hEERQ?si=2u_46qpPkOF4PLPc&t=341]]|
+|09/18|[[とある物を三つ手に入れた瞬間、目の前にダークかなが現れ命を徹底的に狙われる>>https://www.youtube.com/watch?v=9dNR8K6MLfA]]|[[#1　FIBソロ攻略後...>>https://youtu.be/9dNR8K6MLfA?si=HoxwdTHjVCNu4LGq&t=1]]&br()[[#2　警察署襲撃 >>https://youtu.be/9dNR8K6MLfA?si=93QzwhbiAu1qKwIL&t=1038]]|
+|09/18|[[今までの赤コンテナからコイン集めしていた真実が共有される>>https://www.youtube.com/watch?v=k6EW6WosJys]]|[[#1　F胡將からの共有事項>>https://youtu.be/k6EW6WosJys?si=hCZE632trRF_42Sc&t=1]]&br()[[#2　加藤さんからの情報共有 >>https://youtu.be/k6EW6WosJys?si=Fh-NOnih3t5gi8Yj&t=161]]&br()[[#3　みんなに共有>>https://youtu.be/k6EW6WosJys?si=iuEMvFt8rzIyUa9Y&t=632]]|
+|09/18|[[ウェスカー帰国の本当の理由が明かされる、ダークシリーズの真相がヤバい>>https://www.youtube.com/watch?v=i633U2bYjxo]]|[[#1　ダークシリーズとピエロの驚愕の真実>>https://youtu.be/i633U2bYjxo?si=LAfRgrvWIuHXDJOm&t=1]]|
+|09/18|[[聞き覚えのある笑い声と共に降臨するダークウェスカーにガチ焦りする>>https://www.youtube.com/watch?v=fLBR_HLx7zQ]]|[[#1　ダークウェスカー襲来>>https://youtu.be/fLBR_HLx7zQ?si=yxxGT6uPvjH2THHq&t=1]]&br()[[#2　追尾弾>>https://youtu.be/fLBR_HLx7zQ?si=LoykflQzqbz184Y1&t=468]]&br()[[#3　襲撃>>https://youtu.be/fLBR_HLx7zQ?si=ZIfzcAGz_0owobVS&t=568]]|
+|09/19|[[長時間に及ぶ上官会議にてさまざまな口論から暴論まで飛び交う>>https://www.youtube.com/watch?v=eOdX1PmMBeQ&t=15s]]||
+|09/20|[[遂に市民全員新世界へ移行！？詳細などが市長から明かされる>>https://www.youtube.com/watch?v=7OIokC9FQhA&t=2616s]]||
+|09/20|[[一旦ドリのみに共有された街１番重要レベルの共有を受けて答えを出す>>https://www.youtube.com/watch?v=zqnNRuEVlwc]]|[[#1　ましろ先生からのお話>>https://youtu.be/zqnNRuEVlwc?si=BLeGAjTiwhawACxq&t=1]]&br()[[#2　JTSにて重要な話>>https://youtu.be/zqnNRuEVlwc?si=D8PbCpLcOko3Lpi7&t=251]]&br()[[#3　署長に共有する>>https://youtu.be/zqnNRuEVlwc?si=Jfg4l8hpGVgOEiFk&t=1120]]|
+|09/20|[[市民を転送するとされている装置の中入って偵察してみた>>https://www.youtube.com/watch?v=PxpYZNyxRvw]]|[[#1　JTSの件で話し合い>>https://youtu.be/PxpYZNyxRvw?si=0vDV1SkJ0pV4X-B3&t=1]]&br()[[#2　施設へ行く>>https://youtu.be/PxpYZNyxRvw?si=caV0hdEZ8sq56gYm&t=401]]|
+|09/21|[[押収物の違法薬の使用を許可するドリとそれが許せないなずぴとの口論が激化する>>https://www.youtube.com/watch?v=lfKP5MPPg6g]]|[[#1　ポン>>https://youtu.be/lfKP5MPPg6g?si=640fEimbxhrayPZr&t=1]]&br()[[#2　空から戦闘機>>https://youtu.be/lfKP5MPPg6g?si=FxktHYMkJ5DUS9yJ&t=34]]&br()[[#3　意見のぶつかり合い>>https://youtu.be/lfKP5MPPg6g?si=dXjqPo9ae93G6kN6&t=142]]|
+|09/21|[[今の状況だからこそ語るミンドリーとしてのRPやRP自体について>>https://www.youtube.com/watch?v=uxWRMz_fe4o]]|[[#1　署長とお話>>https://youtu.be/uxWRMz_fe4o?si=fNhQtKiL1_GpiRHh&t=1]]&br()[[#2　RPについて>>https://youtu.be/uxWRMz_fe4o?si=lEazg5vYqQOKPI2z&t=1115]]|
+|09/21|[[全国放送される市長記者会見で轟くような発言をする署長に衝撃が走る現場>>https://www.youtube.com/watch?v=LATSPYQhDDI]]|[[#1　市長の記者会見>>https://youtu.be/LATSPYQhDDI?si=wyuL7XVXB4QEDbCo&t=1]]&br()[[#2　警察で共有>>https://youtu.be/LATSPYQhDDI?si=UPXdZnBUbAWKlOXd&t=1130]]]|
+|09/21|[[そこで拾った犬と行くザンクードとの空中激熱戦闘>>https://www.youtube.com/watch?v=tZd-I_ofUCM]]|[[#1　次元への介入を確認>>https://youtu.be/tZd-I_ofUCM?si=3veC-uqGF2wzQY2W&t=1]]&br()[[#2　ザンクードとの空中バトル>>https://youtu.be/tZd-I_ofUCM?si=JjFZM_F3Pd0IiOCc&t=695]]|
+|09/21|[[終末の際に起きた黄金の風伊藤ぺいん、家族の家のぺいん部屋を見せてみた結果ｗｗ>>https://www.youtube.com/watch?v=oPBhitT7IV8]]|[[#1　黄金の風が吹いた>>https://youtu.be/oPBhitT7IV8?si=liCsqTLriN7Vo1s1&t=1]]&br()[[#2　家族で家見に行く>>https://youtu.be/oPBhitT7IV8?si=mjcLv3dT3r1O1qg9&t=515]]&br()[[#3　さぶ郎を下さい>>https://youtu.be/oPBhitT7IV8?si=mJbal2ZFb26u3RrS&t=1153]]|
+|09/22|[[久しぶりにつぼ浦匠と再会を果たしたかと思いきや、彼は何も変わってなかったです>>https://www.youtube.com/watch?v=nZ9klz4pdIk]]||
+|09/22|[[街の最後の日に奇跡的に起きたらだおと遠隔寺、最後に言い残した言葉とは・・・>>https://www.youtube.com/watch?v=zGOeSZnj2UQ]]|[[#1　黄金の世代>>https://youtu.be/zGOeSZnj2UQ?si=6o9ophW1LLGv8R2I&t=1]]&br()[[#2　ぺいん、初赤こんにゃくの注文>>https://youtu.be/zGOeSZnj2UQ?si=b2z1Y5hgLGAGX_Sa&t=554]]|
+|09/22|[[逆にちょけしかない、868のメンバーとのアジト防衛戦ｗｗｗ>>https://www.youtube.com/watch?v=FvNGDuNxgKU]]|[[#1　ちょけ多め>>https://youtu.be/FvNGDuNxgKU?si=Ad7BXndMLjfXdyBf&t=1]]&br()[[#2　防衛線が本格的に開始>>https://youtu.be/FvNGDuNxgKU?si=I-Ogb-pnanMVtv8X&t=317]]&br()[[#3　ボイラの拷問>>https://youtu.be/FvNGDuNxgKU?si=FcxYmhxuFuiM_5Y_&t=475]]&br()[[#4　再開>>https://youtu.be/FvNGDuNxgKU?si=Bd3ILDHOkoPQZN2e&t=527]]|
+|09/22|[[約２年間共に歩んだミンドリーの最期の瞬間>>https://www.youtube.com/watch?v=ROdab3in0rg]]|[[#1　市長を連れて研究所へ>>https://youtu.be/ROdab3in0rg?si=xVDvtrKmhQqyTIpH&t=1]]&br()[[#2　サガルート王国のお土産を集める>>https://youtu.be/ROdab3in0rg?si=gQsw3gi1JWWhOuk4&t=404]]&br()[[#3　そしてENDへ>>https://youtu.be/ROdab3in0rg?si=CRv7eyVEPvYozTfS&t=1381]]&br()[[#4　全人類を転送します>>https://youtu.be/ROdab3in0rg?si=Ww9lEM58fwi9dmKL&t=1691]]&br()[[#5　最後に六法にて>>https://youtu.be/ROdab3in0rg?si=XVxH68jJBOPsUVcd&t=1971]]|
+#table_autoincrement(){label=#, start=145}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(9月)
+****12月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|12/21|[[シーズン２遂に開幕、ミンドリーが起床して自宅を見たらなかった件について>>https://www.youtube.com/watch?v=4VdGzr7_an0]]|[[#1　ストグラシーズン２開幕>>https://youtu.be/4VdGzr7_an0?si=W8p17unstCBOkt7Q&t=17]]&br()[[#2　次次へと集まる警察たち>>https://youtu.be/4VdGzr7_an0?si=mnZNvyBNc2-rfm3n&t=227]]&br()[[#3　自撮りのドリ>>https://youtu.be/4VdGzr7_an0?si=NedJp8uEn28YWrV7&t=465]]&br()[[#4　これからどうするか>>https://youtu.be/4VdGzr7_an0?si=URtavvIupx3fQKse&t=473]]|
+|12/21|[[シーズン２から始まった新システムについてみんな反応や今後の警察方針を決める>>https://www.youtube.com/watch?v=dN-Bb3RgEzc]]|[[#1　お金がない＝手を染める>>https://youtu.be/dN-Bb3RgEzc?si=AUeikfO4b_kpn4wq&t=19]]&br()[[#2　警察会議>>https://youtu.be/dN-Bb3RgEzc?si=fGNgDvIXPWeQ7GeJ&t=102]]&br()[[#3　軽くパトロール>>https://youtu.be/dN-Bb3RgEzc?si=twBDjW--K1DcJfos&t=465]]|
+|12/21|[[開始１日目にしてまさかのジョシュアにチンチロをしかけられた結果ｗｗｗ>>https://www.youtube.com/watch?v=-UCMpCB6bX8]]|[[#1　バイク乗りながら銃撃てる!?>>https://youtu.be/-UCMpCB6bX8?si=xgyMo_DpBqG97iUn&t=27]]&br()[[#2　 謎の島発見>>https://youtu.be/-UCMpCB6bX8?si=cA5TVa1g8rhelUx5&t=93]]&br()[[#3　あ>>https://youtu.be/-UCMpCB6bX8?si=1_BBE4VU56lPHUJi&t=251]]&br()[[#4　 １日目にしてジョシュアと対決>>https://youtu.be/-UCMpCB6bX8?si=ma3t-GZpK4uohCJl&t=329]]|
+|12/24|[[いろんな所散策し変わった個所などを調べるミンドリー>>https://www.youtube.com/watch?v=HVPz3b3aR9Q]]|[[#1　怪しい場所を散策>>https://youtu.be/HVPz3b3aR9Q?si=mEq730oXx5i2SH9b&t=11]]&br()[[#2パシフィック銀行の様子が…>>https://youtu.be/HVPz3b3aR9Q?si=RlRkMUxz3QyOOONQ&t=516]]|
+|12/26|[[病院で今回の新システム各部位の耐久値や０になったらダメな部位を聞くミンドリー>>https://www.youtube.com/watch?v=zy04R_USXe0]]|[[#1　病院で初診>>https://youtu.be/zy04R_USXe0?si=BLgz_9eUPmDMu5OT&t=26]]&br()[[#2情報共有>>https://youtu.be/zy04R_USXe0?si=6nrVkay5trTDnYU2&t=940]]|
+|12/26|[[存在しない記憶を頼りに警察にきたシャンクズ、彼の発言に驚くミンドリー>>https://www.youtube.com/watch?v=91lnGTUQ8Ps]]|[[#1　因果応報>>https://youtu.be/91lnGTUQ8Ps?si=YpF7j4XkDqtwE3Zn&t=36]]&br()[[#2警察志願者>>https://youtu.be/91lnGTUQ8Ps?si=v30urGOjXHuWXgXK&t=111]]|
+|12/27|[[怪しすぎる非認可のタクシー会社を捜査した結果・・・>>https://www.youtube.com/watch?v=4QGQSBk-nGM]]|[[#1　タクシー違法営業対策本部>>https://youtu.be/4QGQSBk-nGM?si=uVArttYNntjWDe6E&t=38]]&br()[[#2カメラを仕掛ける>>https://youtu.be/4QGQSBk-nGM?si=K7wZM6vL8_gn2KGx&t=801]]&br()[[#3キモセン報告>>https://youtu.be/4QGQSBk-nGM?si=qQZmBdXLA_GmGIsh&t=1554]]&br()[[#4だん市長補佐に報告>>https://youtu.be/4QGQSBk-nGM?si=gyjm2cTNoyjmWrpH&t=2128]]|
+|12/27|[[いつもの散策中に見つけてしまったミンドリーｗｗｗ>>https://www.youtube.com/watch?v=ExzwuThYX4Y]]|[[#1見つけてしまった>>https://youtu.be/ExzwuThYX4Y?si=C4A-19f2uYpbIcxg&t=1]]&br()[[#2パトロール中に>>https://youtu.be/ExzwuThYX4Y?si=TenmxmIOgt3hk-xd&t=66]]&br()[[#3跡地>>https://youtu.be/ExzwuThYX4Y?si=Fwx34FVgpCoy9gsv&t=734]]|
+|12/27|[[黒市民がもう動いている？市長と警察で法律について会議する>>https://www.youtube.com/watch?v=P6weq1U8iAg]]||
+|12/28|[[小峯さんに黒の道を勧誘されるがある理由で断るミンドリー>>https://www.youtube.com/watch?v=5LN36R8V0PM]]|[[#1小峯さんに犯罪から足を洗えると話す>>https://youtu.be/5LN36R8V0PM?si=gTpiROqmIlmLVotF&t=12]]&br()[[#2事故>>https://youtu.be/5LN36R8V0PM?si=mkZAsprOFWqm5Hdv&t=145]]&br()[[#3我孫子くんに現状報告>>https://youtu.be/5LN36R8V0PM?si=A7L_Vx-rq9yeQO_P&t=318]]&br()[[#4血痕が欲しかっただけなのに>>https://youtu.be/5LN36R8V0PM?si=yA-COBxMXdfQHha3&t=992]]|
+#table_autoincrement(){label=#, start=175}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(12月)
+#endregion(2025年)
+***2026年
+#region(開く,open)&bold(){閉じる}
+****1月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|01/12|[[コンビニ強盗から始まった罪の押し付け事件、明らかになる新事実>>https://www.youtube.com/watch?v=-oxjDhC8zuc]]|[[#1ポンコツコンビニ強盗>>https://youtu.be/-oxjDhC8zuc?si=MAKqtRZ7wtXpsQtJ&t=43]]&br()[[#2事情聴取をする>>https://youtu.be/-oxjDhC8zuc?si=_1BjD9OwStykboZm&t=336]]&br()[[#3本人登場>>https://youtu.be/-oxjDhC8zuc?si=Up5Sto-gg4GuhYyB&t=751]]&br()[[#4痕跡探し>>https://youtu.be/-oxjDhC8zuc?si=OZ4pORZsw9sTuvtJ&t=1378]]&br()[[#5真犯人>>https://youtu.be/-oxjDhC8zuc?si=9yGD_o-l9gAHP3g4&t=1499]]|
+|01/13|[[隣がうるさすぎる人質を抱えながら約40分にも及ぶMondとガチチェイスするミンドリー>>https://www.youtube.com/watch?v=e0lOALk0n1Q]]|[[#1コンビニ強盗チェイス>>https://youtu.be/e0lOALk0n1Q?si=p6qQ6npF8UTOuyUM&t=50]]&br()[[#2ロスト後、再び>>https://youtu.be/e0lOALk0n1Q?si=XwDPQSjJ5sXKa8oe&t=831]]|
+|01/18|[[記憶を失ったキモ先、まさかの退職！？>>https://www.youtube.com/watch?v=z55e_f4wsUM]]|[[#1記憶をなくしたキモ先>>https://youtu.be/z55e_f4wsUM?si=Nz4xOHFqRM5ZD79K&t=12]]&br()[[#2キモ先のことを救急隊へ共有>>https://youtu.be/z55e_f4wsUM?si=NBp9BQNfiWx0svSR&t=587]]&br()[[#3ポイント稼ぎ>>https://youtu.be/z55e_f4wsUM?si=aQctub9eXekP1mNV&t=730]]&br()[[#4キモ先復職、北に住居を用意される>>https://youtu.be/z55e_f4wsUM?si=5t0Hcb7UTvSQo50F&t=781]]&br()[[#5市民に税金の使い道を問われるミンドリー>>https://youtu.be/z55e_f4wsUM?si=thB70fKDL7srbQ5q&t=1045]]&br()[[#6市長誘拐コンビニ事件>>https://youtu.be/z55e_f4wsUM?si=oxifaFDtAgJK2Q-m&t=1278]]|
+|01/19|[[突如目の前で心無きを殴った？？？を事情聴取したら意外な正体に驚愕するミンドリー>>https://www.youtube.com/watch?v=j8HKhrqyup4]]|[[#1泥沼チェイス>>https://youtu.be/j8HKhrqyup4?si=qv0KiD99re1OidBi&t=41]]&br()[[#2別の犯罪対応で炎上>>https://youtu.be/j8HKhrqyup4?si=ETbIEyQe59rmCQQz&t=204]]&br()[[#3パトカー前に不審者>>https://youtu.be/j8HKhrqyup4?si=WtMIiKxh0xHoQZdq&t=255]]&br()[[#4彼の正体>>https://youtu.be/j8HKhrqyup4?si=eaUL2BOcM3wJr6fh&t=913]]|
+|01/19|[[てつおに誘われて治先生の誕生日会で裏のミンドリーを発動させるｗｗｗ>>https://www.youtube.com/watch?v=wsQOnLXZbxE]]|[[#1治先生誕生日リハーサル入り>>https://youtu.be/wsQOnLXZbxE?si=QD8F6qFLz4qsbI22&t=1]]&br()[[#2本番>>https://youtu.be/wsQOnLXZbxE?si=gzOfIRsLVO9S_0VE&t=621]]|
+|01/21|[[キーモットからある犯罪者を更生させたいと相談を受け、ミンドリーとして培ってきた経験を語る>>https://www.youtube.com/watch?v=v6B_1xnEwcg]]|[[#1キーモットの目指すところ>>https://youtu.be/v6B_1xnEwcg?si=uMFDdKyiubSNX4Uo&t=31]]&br()[[#2大怪獣バトル>>https://youtu.be/v6B_1xnEwcg?si=Wr9MFcOgGiUvMtl5&t=709]]|
+|01/19|[[てつおに誘われて治先生の誕生日会で裏のミンドリーを発動させるｗｗｗ>>https://www.youtube.com/watch?v=wsQOnLXZbxE]]|[[#1治先生誕生日リハーサル入り>>https://youtu.be/wsQOnLXZbxE?si=QD8F6qFLz4qsbI22&t=1]]&br()[[#2本番>>https://youtu.be/wsQOnLXZbxE?si=gzOfIRsLVO9S_0VE&t=621]]|
+|01/23|[[若干ちょけ交じりの警察VS犯罪者の裁判の行く末とは・・・>>https://www.youtube.com/watch?v=C14FS_8eKV0]]|[[#1相手側弁護士からの証言要請>>https://youtu.be/C14FS_8eKV0?si=5VzoWDbDk_BwAkyF&t=31]]&br()[[#2警察VS強盗犯の裁判>>https://youtu.be/C14FS_8eKV0?si=Kt_7Mf3otUgs64I-&t=163]]&br()[[#3判決>>https://youtu.be/C14FS_8eKV0?si=1XBku5OHSQ4VCdif&t=2865]]|
+|01/26|[[ゴミ箱から下着が出てきて悪いことを思い浮かぶミンドリーｗｗｗ>>https://www.youtube.com/watch?v=0S_nngnJVoo]]|[[#1ゴミ箱から●●がｗ>>https://youtu.be/0S_nngnJVoo?si=KM-Y_PR0DrZxtW47&t=1]]&br()[[#2悪いミンドリー#1>>https://youtu.be/0S_nngnJVoo?si=qjD1EDWfsRaJ1Qap&t=348]]&br()[[#2悪いミンドリー#2>>https://youtu.be/0S_nngnJVoo?si=QR75xY4ljB1Cz40Q&t=1167]]|
+
+#table_autoincrement(){label=#, start=185}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(1月)
+****3月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|03/17|[[久々の起床！休みの間に色々なことが起きており頭がパンクするミンドリー>>https://www.youtube.com/watch?v=Z8o7sei4R0w&t=816s]]|[[#1 帰ってきたミンドリー>>https://youtu.be/Z8o7sei4R0w?si=ZYnhjAU_WkM0yrvw&t=48]]&br()[[#2　最近のニュース>>https://youtu.be/Z8o7sei4R0w?si=fR94vUtW8HaGu1zr&t=242]]&br()[[#3　極悪犯罪>>https://youtu.be/Z8o7sei4R0w?si=2sk74sisJIpuG1c9&t=537]]&br()[[#4　アーマー問題>>https://youtu.be/Z8o7sei4R0w?si=RqB1xivbXjmZVY7B&t=708]]&br()[[#5　警察会議>>https://youtu.be/Z8o7sei4R0w?si=-zWi6CZ0TZ9_XkWb&t=808]]|
+|03/21|[[散歩の途中に出会ったおばさんに相談をするミンドリー>>https://www.youtube.com/watch?v=QMJj8cyRFuA]]|[[#1 気分上々なミンドリー>>https://youtu.be/QMJj8cyRFuA?si=FX2g11qZtxAT-kKR&t=55]]&br()[[#2　なに食べる？>>https://youtu.be/QMJj8cyRFuA?si=hbstXCfrF7aaO4Zn&t=257]]&br()[[#3　三角関係>>https://youtu.be/QMJj8cyRFuA?si=YSfGhIK9xvaThMHn&t=462]]|
+#table_autoincrement(){label=#, start=194}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(3月)
+****4月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|04/06|[[犯罪者が自分で血痕を消せるという情報を入手し、方法を探るミンドリー>>https://www.youtube.com/watch?v=6R7dFdzi7X8]]|[[#1 アーティファクト>>https://youtu.be/6R7dFdzi7X8?si=lR7EXlcpN8N5go2a&t=1]]&br()[[#2　司令塔ミンドリー>>https://youtu.be/6R7dFdzi7X8?si=t3kx35znxyQ_Wyeh&t=203]]&br()[[#3　新情報>>https://youtu.be/6R7dFdzi7X8?si=F0AEQJAtb7qZsbEp&t=292]]&br()[[#4　新人イジメ>>https://youtu.be/6R7dFdzi7X8?si=_cr2lBr4jvG5bimV&t=533]]|
+|04/07|[[ぽんこつな容疑者を逮捕するため、警察署で誕生日会を行い騙すミンドリー>>https://www.youtube.com/watch?v=p47iNxSPIAg]]|[[#1 ぽんこつ容疑者>>https://youtu.be/p47iNxSPIAg?si=PvEv69N-lUunj7qK&t=35]]&br()[[#2　真島とピオコさん>>https://youtu.be/p47iNxSPIAg?si=Ap5IMpU5pbCa1YQQ&t=445]]&br()[[#3　カードゲームの顔になる>>https://youtu.be/p47iNxSPIAg?si=VHgu9Hl_jhBjaDxi&t=495]]|
+|04/10|[[警察の「黄金世代」に幻の6人目!? あの頃を懐かしむミンドリー>>https://www.youtube.com/watch?v=y4w1Ub7WHUo]]|[[#1 怖い先輩>>https://youtu.be/y4w1Ub7WHUo?si=rKE89AFpNrslh6cK&t=34]]&br()[[#2　気付ける男、ミンドリー>>https://youtu.be/y4w1Ub7WHUo?si=FGgkylmdLKDXeV2g&t=152]]&br()[[#3　１日署長体験>>https://youtu.be/y4w1Ub7WHUo?si=_FIavzckWO8VzRd_&t=326]]&br()[[#4　黄金世代、幻の６人目>>https://youtu.be/y4w1Ub7WHUo?si=XnWJJ0UWEiRLeyR0&t=498]]|
+|04/12|[[警察側の事件対応が早すぎて衝撃を受ける小峯、新たな試みに成功するミンドリーたち>>https://youtu.be/PPJ5IG_SGEo?si=o6EEdPGLs0RF01h_]]|[[#1 Day20>>https://youtu.be/PPJ5IG_SGEo?si=ElKN4TfajHTkPnyR&t=29]]&br()[[#2　今年の花粉症>>https://youtu.be/PPJ5IG_SGEo?si=TmjIN2LGCQKZUgdJ&t=115]]&br()[[#3　アーティ対応>>https://youtu.be/PPJ5IG_SGEo?si=_YH3uCuBpAGXd-J6&t=166]]&br()[[#4　花粉症だと認めない>>https://youtu.be/PPJ5IG_SGEo?si=HBRu9r-U_hccQ8l2&t=337]]&br()[[#5　飛行場襲撃に応援に行く>>https://youtu.be/PPJ5IG_SGEo?si=8puwasz4CACD6_Un&t=468]]|
+|04/13|[[出勤したら“もう一人の自分”が無線にいたミンドリー>>https://www.youtube.com/watch?v=yEMxbsLP0fA]]|[[#1 day21>>https://youtu.be/yEMxbsLP0fA?si=H2cspvTKiQP-J3fA&t=30]]&br()[[#2　駄々をこねる犯人を説得する>>https://youtu.be/yEMxbsLP0fA?si=A9Z9k6MeDeR8wpFn&t=228]]&br()[[#3　指紋は万能じゃない>>https://youtu.be/yEMxbsLP0fA?si=53tMvoJNL26Oum9h&t=398]]|
+|04/17|[[白市民パスを貰うため警察署にやってきたマクドナルドに腹を立てる署長を手助けするミンドリー>>https://www.youtube.com/watch?v=e4EcX2ZpTVA]]|[[#1 day22>>https://youtu.be/e4EcX2ZpTVA?si=IXaQ8KqSY6zmGW7O&t=30]]&br()[[#2　リーダーカードなミンドリー>>https://youtu.be/e4EcX2ZpTVA?si=qE4FSnzcFwwQynvz&t=323]]&br()[[#3　スピンTVミンドリー>>https://youtu.be/e4EcX2ZpTVA?si=-mdEHcA5qhU5mJ8W&t=473]]&br()[[#4国外追放の上田>>https://youtu.be/e4EcX2ZpTVA?si=p9UsxjU-P-kujLQU&t=625]]&br()[[#5　白市民パスが欲しい>>https://youtu.be/e4EcX2ZpTVA?si=1zJmwu9RO6VC6lvn&t=779]]|
+|04/18|[[噂になった救急隊のお局を探すため、病院へ行ったら言い合いに巻き込まれたミンドリー>>https://www.youtube.com/watch?v=ujpikIdQzJQ]]|[[#1 警察と探偵>>https://youtu.be/ujpikIdQzJQ?si=Czma86lVPmMlbrc1&t=51]]&br()[[#2　病院のお局>>https://youtu.be/ujpikIdQzJQ?si=BstMFONYsVTcOLd9&t=279]]|
+|04/19|[[ なんでもありなMonDに振り回され、魂が透けるミンドリーたち >>https://www.youtube.com/watch?v=1vz1rQl0a74]]|[[#1 謎の声>>https://youtu.be/1vz1rQl0a74?si=QYMYvlhnUTVxPJtZ&t=26]]&br()[[#2　ちゃっかりミンドリー>>https://youtu.be/1vz1rQl0a74?si=ScDZvAiLaPNf4ncG&t=103]]&br()[[#3　上田の裁判>>https://youtu.be/1vz1rQl0a74?si=LTVz-xtvPqWOUxAZ&t=230]]&br()[[#4　なんでもありなMonD>>https://youtu.be/1vz1rQl0a74?si=PwC-wC-cgF8SIS-f&t=436]]&br()[[#5　過失致●>>https://youtu.be/1vz1rQl0a74?si=AT62O6zaDQhXIYt5&t=581]]|
+|04/24|[[ アドミゲス・ハンの持ち物検査をしようとしたら大勢の人に襲われ何もできなくなるミンドリー>>https://www.youtube.com/watch?v=mx0voijuFcE]]&br()（2026年4月19日【ストグラ2】治安 ミンドリー #24）|[[#1治安 ミンドリー #24>>https://youtu.be/mx0voijuFcE?si=My9aSSus3nEVbLyg&t=36]]&br()[[#2やんちゃなミンドリー>>https://youtu.be/mx0voijuFcE?si=nV-pTlz4LI8CovOD&t=382]]&br()[[#3クソガキミンドリー>>https://youtu.be/mx0voijuFcE?si=edVDoxHsLvif8Sqx&t=501]]&br()[[#4多勢に無勢>>https://youtu.be/mx0voijuFcE?si=CgVelykqgDAUVcMR&t=864]]|
+|04/25|[[ パトロール中に見えない穴にハマり込んでしまい、永遠に落下し続け叫び声が絶えないミンドリー>>https://www.youtube.com/watch?v=ghjBWsPsR4c]]&br()（2026年4月19日【ストグラ2】治安 ミンドリー #24）|[[#1最強のトラップ>>https://youtu.be/ghjBWsPsR4c?si=fd7KY73sUJs271ZZ&t=20]]&br()[[#2牧師のミンドリー>>https://youtu.be/ghjBWsPsR4c?si=7mhBCKwf1rM5NRB-&t=340]]&br()[[#3ループする落下>>https://youtu.be/ghjBWsPsR4c?si=TKHDgImRWegdtSBh&t=941]]|
+|04/26|[[ 見回りパトロールで新しい犯罪を発見した警察官たちの話を聞くミンドリー>>https://www.youtube.com/watch?v=sks1yadJvC0]]&br()（2026年4月22日【ストグラ2】何かが変わった ミンドリー #25）|[[#1何かが変わった ミンドリー #25>>https://youtu.be/sks1yadJvC0?si=ukWBA59JoA5ueAS2&t=36]]&br()[[#2デートをかけたチェイス>>https://youtu.be/sks1yadJvC0?si=4D9CzkdKHr7d1pNa&t=295]]&br()[[#3当たり屋？ 斉藤>>https://youtu.be/sks1yadJvC0?si=Z_qrtctPJkOnP7eH&t=1013]]&br()[[#4この街の優しい人ランキング>>https://youtu.be/sks1yadJvC0?si=28puhG8f3K2m3pgY&t=1297]]&br()[[#5新たな犯罪の発見>>https://youtu.be/sks1yadJvC0?si=uNoYS7S2eQWvYG64&t=1649]]&br()[[#6スクラッチの当て方>>https://youtu.be/sks1yadJvC0?si=ZM1Lqtpy1bdJEjZm&t=1864]]&br()[[#7封じられたトラップ>>https://youtu.be/sks1yadJvC0?si=xCQCyfo57fBtp80D&t=2408]]|
+|04/28|[[手荷物検査を求めたら逃走劇が始まったミンドリー>>https://www.youtube.com/watch?v=RsaydwOA27Q]]&br()（2026年4月23日【ストグラ2】イベントあるらしい ミンドリー #26）|[[#1　Day26>>https://youtu.be/RsaydwOA27Q?si=5h-uZ-Dm36MMaJpN&t=23]]&br()[[#2発音問題>>https://youtu.be/RsaydwOA27Q?si=pWARoQaCrhqudAoS&t=191]]&br()[[#3嘘つきアライグマ>>https://youtu.be/RsaydwOA27Q?si=EHqPKWKxAfg9sZEF&t=312]]&br()[[#4好きなチェーン店>>https://youtu.be/RsaydwOA27Q?si=0U0D-ai9atIxDhaA&t=932]]|
+|04/30|[[病院内での誘拐を怖がるよつは先生にパトロールを申し出るミンドリー(警察)とウェスカー(犯罪者)>>https://www.youtube.com/watch?v=947O7X00j9A]]&br()（2026年4月24日【ストグラ2】宿直室どうしよっか ミンドリー #27）||
+
+
+#table_autoincrement(){label=#, start=196}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(4月)
+****5月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|05/01|[[新しく発見されたブツなどの情報や、相談事を市長に報告するミンドリーたち>>https://www.youtube.com/watch?v=O3OpGQHe7SA]]&br()（2026年4月24日【ストグラ2】宿直室どうしよっか ミンドリー #27）||
+|05/02|[[新しい街で飲食店ミンミンボウを開店するために、情報を集めるミンドリー>>https://www.youtube.com/watch?v=tk0DXzHwobk]]&br()（2026年4月29日【ストグラ2】店舗経営調査 ミンドリー #28）||
+|05/03|[[戦場カメラマンたえこが登場し、大爆笑に包まれる治療室>>https://www.youtube.com/watch?v=UVWytYF7smc&t]]&br()（2026年4月29日【ストグラ2】店舗経営調査 ミンドリー #28）||
+|05/08|[[NOLIMIT解散の理由を聞いたミンドリー>>https://youtu.be/7SdYZ5JrLVI?si=9JcKQZqFMSErwGTR]]&br()（2026年5月2日【ストグラ2】帰国、聞き込み ミンドリー #29）||
+|05/09|[[さぶ郎とイロハを見張るため、救急隊に応募するミンドリー>>https://www.youtube.com/watch?v=yIRHTire6Q8]]&br()（2026年5月3日【ストグラ2】資金調達 ミンドリー #30）||
+|05/10|[[イロハが誘拐され急いで現場に向かおうとした結果、落下●してさぶ郎の心配を増やすミンドリー>>https://youtu.be/7YwVu_NgiLw?si=ssjFlg20FJVdsfIp]]&br()（2026年5月3日【ストグラ2】資金調達 ミンドリー #30）||
+|05/11|[[街に新しいバイトが増えたと聞き、ミンミンボウ開店のためにお金稼ぎをするミンドリー>>https://youtu.be/gHG5TKQosfo?si=cceHJgupW7WrxIzZ]]&br()（2026年5月6日【ストグラ2】何か変わったかな ミンドリー #31）||
+|05/12|[[ジャックスが詐欺をはたらく現場に遭遇！？ももみ先生を呼ぶミンドリー>>https://youtu.be/cmjM2nhDnfY?si=0hA9mhmXVC9Ywf0L]]&br()（2026年5月6日【ストグラ2】何か変わったかな ミンドリー #31）||
+|05/13|[[キャップに「はじめてのおつかい」を行かせようと計画するミンドリーパパ>>https://youtu.be/tih8EVUfdVc?si=RXG3oKUhh0DM1GU-]]&br()（2026年5月9日【ストグラ2】警察とは ミンドリー #32）||
+|05/14|[[最近の出来事を市長へ報告する警察官たち>>https://youtu.be/JDr3ciqLTAE?si=Svk8FfRH0OBARQW1]]&br()（2026年5月9日【ストグラ2】警察とは ミンドリー #32）||
+|05/15|[[ルナホークアイに誘拐されるミンドリー>>https://youtu.be/yYO6HjsZ1_A?si=ixIc0PQ7OjC2WpCm]]&br()（2026年5月10日【ストグラ2】遅番出勤 ミンドリー #33）||
+|05/18|[[ルナホークアイに捜査を邪魔され、突如始まる逃走劇>>https://youtu.be/y2JHGVK7joE?si=XWICoOxbbIjtjcjj]]&br()（2026年5月10日【ストグラ2】遅番出勤 ミンドリー #33）||
+|05/21|[[救急隊体験初日、取り合いになるミンドリー>>https://youtu.be/ixLsdc9eSHA?si=blsjMdPWJEbQRs9B]]&br()（2026年5月14日【ストグラ2】Trainee ミンドリー #34）||
+|05/22|[[救急隊体験初日#2／泥酔ジャックス先輩>>https://youtu.be/8FnkQonDDUw?si=j9keW6nN36IH9XMp]]&br()（2026年5月14日【ストグラ2】Trainee ミンドリー #34）||
+|05/23|[[救急隊体験２日目／救急隊からの圧を感じる日>>https://youtu.be/gh5RpDHiIaA?si=aYilz4dL2x1a2i14]]&br()（2026年5月15日【ストグラ2】Trainee 2日目 ミンドリー #35）||
+|05/24|[[救急隊体験２日目#2／想い人を語るミンドリー>>https://youtu.be/WorPIry_xoM?si=3Ua-pLiD0BViPQMt]]&br()（2026年5月15日【ストグラ2】Trainee 2日目 ミンドリー #35）||
+|05/25|[[警察へ戻ったミンドリーを取り返しに来る救急隊>>https://youtu.be/rCt-xResGvc?si=y6mUf9DNj_jEfHdo]]&br()（2026年5月16日【ストグラ2】警察どうですか ミンドリー #36）||
+|05/27|[[観戦する小峰と、悪戯する脇逢魔のカオスな事件>>https://youtu.be/bzwemQhAFU8?si=nWtr22sLmG6fc7tM]]&br()（2026年5月16日【ストグラ2】警察どうですか ミンドリー #36）||
+|05/28|[[さぶ郎と救急隊の話で盛り上がるミンドリー>>https://youtu.be/NFJ13dcRnh0?si=BbNPUH3iyFdqckzs]]&br()（2026年5月17日【ストグラ2】車慣れる ミンドリー #37）||
+|05/29|[[色々な事故や事件に巻き込まれるミンドリー>>https://youtu.be/xHdGQS141e8?si=o_8L1DjcIYLfr6Ky]]&br()（2026年5月17日【ストグラ2】車慣れる ミンドリー #37）||
+|05/30|[[救急隊たえこと警察皇帝の譲らない争い>>https://youtu.be/DsK3IkvASrE?si=AZoFeBO-zkA-WL-T]]&br()（2026年5月21日【ストグラ2】変わった世界 ミンドリー #38）||
+|05/31|[[救急隊で始まる簡易裁判>>https://youtu.be/m9sp_KbvtLU?si=4Dyq2_zXQ-lTa-Sv]]&br()（2026年5月22日【ストグラ2】釣り警察 ミンドリー #39）||
+#table_autoincrement(){label=#, start=209}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(5月)
+****6月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|06/01|[[まさかの人物が参戦するhantasmaの事情聴取>>https://youtu.be/qz5orBb4RPM?si=xwRT1pPwUO-nk7dT]]&br()（2026年5月22日【ストグラ2】釣り警察 ミンドリー #39）||
+|06/02|[[つい本音が出てしまう夏苗>>https://youtu.be/SEuTnZaQp5U?si=FrIV5JMilNS3Zwr4]]&br()（2026年5月22日【ストグラ2】釣り警察 ミンドリー #39）||
+|06/03|[[魂貫が止まらない警察官>>https://youtu.be/2ZJr7pWMwzo?si=n1YDzIrCF1mXfiYd]]&br()（2026年5月23日【ストグラ2】情報整理 ミンドリー #40）||
+|06/04|[[警察のあり方について熱く語る署長>>https://youtu.be/SgM9-JPs3eA?si=o70hHdboKPFi6pvw]]&br()（2026年5月23日【ストグラ2】情報整理 ミンドリー #40）||
+|06/05|[[救急隊体験、最終日＃１／お局に怒られるミンドリー>>https://youtu.be/JMqHAxIOaLE?si=3tUL4fQFHSDfV6VW]]&br()（2026年5月27日【ストグラ2】Final 体験 ミンドリー #41）||
+|06/06|[[救急隊体験、最終日＃２／救急隊に受かったら…の話>>https://youtu.be/jyzksisrTec?si=QJmlZ2IFS1CuUkll]]&br()（2026年5月27日【ストグラ2】Final 体験 ミンドリー #41）||
+|06/08|[[さぶ郎にイタズラされるミンドリー>>https://youtu.be/HRjaWBrhLL8?si=h8p3LZChBgbudv0k]]&br()（2026年5月28日【ストグラ2】帰る ミンドリー #42）||
+|06/09|[[イロハとさぶ郎からのサプライズ>>https://youtu.be/RyOi81fcN9w?si=Wp1vzqHQm00tldrw]]&br()（2026年5月28日【ストグラ2】帰る ミンドリー #42）||
+|06/11|[[帰ってきたブロッコリー斎藤>>https://youtu.be/ESSS7bIuw2Y?si=c9VqMOx4Tyk54dct]]&br()（2026年6月7日【ストグラ2】そんなに起きてなかったのか ミンドリー #43）&br()（2026年6月7日【ストグラ2】早番しよっか ミンドリー #44）||
+|06/12|[[証拠隠滅が早いミンドリー>>https://youtu.be/k9tqDdug-q8?si=unnJFFRsh8EGBhus]]&br()（2026年6月7日【ストグラ2】早番しよっか ミンドリー #44）||
+|06/13|[[まさかの３人での大型対応>>https://youtu.be/d6_IDDUcoFc?si=jr3F6hiiVp9HHPeu]]&br()（2026年6月10日【ストグラ2】アプデ多そう ミンドリー #45）||
+|06/14|[[警察も泣きつく迷医>>https://youtu.be/GQNlCjkK3so?si=4sQK5hAZ4JB3sHwc]]&br()（2026年6月10日【ストグラ2】アプデ多そう ミンドリー #45）||
+|06/15|[[救急隊からまさかの情報を聞き、絶句するミンドリー>>https://youtu.be/XE6-P2N3iaI?si=LSGt94oqGIBkd7Q-]]&br()（2026年6月11日【ストグラ2】できるかた遅番 ミンドリー #46）||
+|06/16|[[自由な教育方針の結果>>https://youtu.be/Yo5EKWDGeZ0?si=LmpWBpuznYgB4Itw]]&br()（2026年6月11日【ストグラ2】できるかた遅番 ミンドリー #46）&br()（2026年6月12日【ストグラ2】practice ミンドリー #47）||
+|06/17|[[ウキウキで駆け出すジャックス>>https://youtu.be/KC1zfKif8GM?si=CaRIhqMVaNMgre33]]&br()（2026年6月12日【ストグラ2】practice ミンドリー #47）||
+|06/18|[[救急隊の通報から始まる勝痔劇場>>https://youtu.be/GMZhcBKuYtk?si=wrHYLeycWbPNCkND]]&br()（2026年6月12日【ストグラ2】practice ミンドリー #47）||
+|06/20|[[上田に失望するミンドリー>>https://youtu.be/pcgUOUjrkV4?si=L0ugtDHgNHJutwTl]]&br()（2026年6月14日【ストグラ2】新犯罪いろいろ触りたい JD #15 ← スト6）||
+|06/22|[[音が鳴る身体に夢中になるミンドリー>>https://youtu.be/icuFWSyRglE?si=eRjbAz4kpVeRv6mh]]&br()（2026年6月14日【ストグラ2】新犯罪いろいろ触りたい JD #15 ← スト6）||
+|06/29|[[どこに行ってもJDの話題を聞くミンドリー>>https://youtu.be/AqsKdjaY1Os?si=BLtQGTV9bFv-SQL_]]&br()（2026年6月14日【ストグラ2】新犯罪いろいろ触りたい JD #15 ← スト6）&br()（2026年6月27日【ストグラ2】変わった ミンドリー #48）||
+|06/30|[[滞納者を洗い出し、催促する警察>>https://youtu.be/bz9HEftspJQ?si=5pD6g9qlJONn3hpI]]&br()（2026年6月27日【ストグラ2】変わった ミンドリー #48）&br()（2026年6月27日【ストグラ2】釣り ミンドリー #50）||
+#table_autoincrement(){label=#, start=231}
+#table_sorter{even=#F7F7F7,odd=fff}
+
+#endregion(6月)
+****7月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|07/02|[[２人のボイラが出現、本物を探るミンドリー>>https://youtu.be/WxOcMPSKNhA?si=1muTMgp7_VdSut1h]]&br()（2026年7月1日【ストグラ2】資金集め ミンドリー #51）||
+|07/03|[[犯罪者と地元話で盛り上がるミンドリー>>https://youtu.be/vSuubiJoOM0?si=hoNYSUmTble2iNcG]]&br()（2026年7月1日【ストグラ2】資金集め ミンドリー #51）&br()（2026年7月2日【ストグラ2】調査 ミンドリー #52）||
+|07/04|[[突如現れる偽警察たち>>https://youtu.be/FHlxtdsR2nM?si=ZlSFZtEFJ5MHsLaG]]&br()（2026年7月2日【ストグラ2】調査 ミンドリー #52）&br()（2026年7月3日【ストグラ2】本日も朝晩 ミンドリー #53）||
+|07/06|[[懺悔するミンドリー>>https://youtu.be/e4ZTIUN2WRM?si=QxIvIXLTneahoTFh]]&br()（2026年7月3日【ストグラ2】本日も朝晩 ミンドリー #53）||
+|07/07|[[捌木たいたい誘拐事件#2／ゆちゃを怪しむミンドリー>>https://youtu.be/UoaDurwT3tE?si=Bd6WVSDQExoiw04J]]&br()（2026年7月4日【ストグラ2】捜索 ミンドリー #54）||
+|07/08|[[捌木たいたい誘拐事件#3／月乃えるなを泣かせたすべての責任をジャックスに擦り付けるミンドリー>>https://youtu.be/ZujwXDY67I8?si=s568yDqOFp916zhJ]]&br()（2026年7月4日【ストグラ2】捜索 ミンドリー #54）||
+|07/09|[[闇医者や誘拐事件の真相に動き出すミンドリー>>https://youtu.be/nOJ93-JmZqM?si=2oVjDRYvwTW-Fixf]]&br()（2026年7月4日【ストグラ2】捜索 ミンドリー #54）||
+|07/10|[[警察を全員引き連れ、闇医者アジトへ突入するミンドリー>>https://youtu.be/xcN_6Ij-Sck?si=iaukbeBYXsGHrCOg]]&br()（2026年7月8日One More Door ミンドリー #55）||
+|07/11|[[ついに救急隊合格⁉ミンドリー>>https://youtu.be/66FEKzj4xWg?si=jIZmFKcybUs6s7nE]]&br()（2026年7月8日One More Door ミンドリー #55）||
+|07/13|[[オオカミちゃんには騙されない／人狼合コンで翻弄されるミンドリー>>https://youtu.be/KmoTtQeLNF8?si=-q-qQlDpVVEdTrJ5]]&br()（2026年7月10日【ストグラ2】パートナー９周年らしい ミンドリー #57）||
+|07/14|[[新ギャングによる市役所襲撃で魅せるミンドリー>>https://youtu.be/2T4KowxEFrc?si=Y13_sCtz5Dz5dhzG]]&br()（2026年7月11日【ストグラ2】Emerge ミンドリー #58）||
+|07/16|[[恋愛話を聞き出す安城成と心情を話すミンドリー>>https://youtu.be/6op1t6MN3Bw?si=scCCVeZlKs_coYdJ]]&br()（2026年7月12日【ストグラ2】やれること ミンドリー #59）||
+|07/17|[[急隊員初日／恒例になったミンドリーの取り合い>>https://youtu.be/1jL16bwxrto?si=VfS-8U2yc_PmhmWh]]&br()（2026年7月15日【ストグラ2】初出勤なるか ミンドリー #60）||
+|07/19|[[救急隊員２日目／上下関係を目の当たりにするミンドリー>>https://youtu.be/6dgU-uLCuUw?si=0Z8m6C-qZs6OCax_]]&br()（2026年7月16日【ストグラ2】仕事覚えたい ミンドリー #61）||
+|07/22|[[声が枯れて白鷺信夫が顔を出すミンドリー>>https://youtu.be/nKq6-KbYemQ?si=p9_Aqk37Dhbuz7NS]]&br()（2026年7月17日【ストグラ2】今日はP ミンドリー #62）||
+#table_autoincrement(){label=#, start=251}
+#table_sorter{even=#F7F7F7,odd=fff}
+
+#endregion(7月)
+****8月
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|08/08|[[久しぶりの起床でも下ネタが止まらないお局に吹き出してしまうミンドリー>>https://youtu.be/JwadlmqQpAk?si=x9LizuCrtmVop3hx]]&br()（2026年8月6日【ストグラ2】ひさびさ ミンドリー #63 ← スト6少し）||
+|08/11|[[警察署内で乱闘騒ぎ？ギャングの言い争いに巻き込まれるミンドリー>>https://youtu.be/64FTy9rl_zQ?si=U-GdtCALTVOLcvQm]]&br()（2026年8月8日【ストグラ2】店準備やら警察 ミンドリー #64）||
+|08/20|[[警察＋救急隊10名超がダウンする大犯罪相手に公務員両立して対応するミンドリー>>https://youtu.be/FosYoMxgjTY?si=uPUSTql2OFGaxbED]]&br()（2026年8月8日【ストグラ2】店準備やら警察 ミンドリー #64）||
+|08/21|[[真剣な共有中、途中で出てきた「あるワード」が気になりすぎるミンドリー>>https://youtu.be/u7CgkTaFb-g?si=-MWQGCkEvi0TdSFj]]&br()（2026年8月19日【ストグラ2】何が変わったか ミンドリー #65）||
+|08/22|[[う●ちだらけの警察署にツッコミが止まらないミンドリー>>https://youtu.be/awwfRu2s-Fg?si=uKAQGn_7bQH5A8yk]]&br()（2026/08/20【ストグラ2】平和 ミンドリー #66）||
+|08/29|[[久々の起床で情報共有を受けるも、納得できないことが多く暴れだすミンドリー>>https://youtu.be/4lburyGUMJE?si=Oy0ZjxjC35CVZKLR]]&br()（2026/08/28【ストグラ2】情報整理 ミンドリー #67）||
+|08/30|[[種無馬事件後のぱちおと対談、踏み込むミンドリー>>https://youtu.be/C7AiJX90Ug8?si=lWv9yLqT2X7uTM5H]]&br()（2026/08/28【ストグラ2】情報整理 ミンドリー #67）||
+|08/31|[[大きな事件が起きる中、色々な想いで副署長を辞めるミンドリー>>https://youtu.be/0gQ8ozyUk5k?si=TY3iBz1Q16fxkjVb]]&br()（2026/08/28【ストグラ2】情報整理 ミンドリー #67）||
+#table_autoincrement(){label=#, start=266}
+#table_sorter{even=#F7F7F7,odd=fff}
+
+#endregion(8月)
+****9月
+#region(開く,open)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|09/01|[[今回の事件や、ぱちおに対する想いを語り合うさぶ郎とミンドリー>>https://youtu.be/ZnLxti8Z1UI?si=nsVSFjmAbcXvaHwe]]&br()（2026年8月29日【ストグラ2】選択肢 ミンドリー #68）||
+|09/03|[[警察総動員“血眼”になってhantasmaを探す中、ボスとツーリングするミンドリー>>https://youtu.be/10_8p8oqAJE?si=SEzISz2A5JEnL1b8]]&br()（2026年8月30日【ストグラ2】修羅 ミンドリー #69）||
+|09/04|[[突如戻ってきたキーモットホームズの対応に悩み、葛藤するミンドリー>>https://youtu.be/p1zyr97n7_g?si=KDkFkXGkRvendJnJ]]&br()（2026年9月2日【ストグラ2】変化 ミンドリー #70）||
+
+#table_autoincrement(){label=#, start=274}
+#table_sorter{even=#F7F7F7,odd=fff}
+
+#endregion(9月)
+#endregion(2026年)
+#co{
+//****n月
+#region(開く,open)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|mm/dd|[[動画タイトル>>ここに動画URLを入力]]||
+//|mm/dd|[[動画タイトル>>ここに動画URLを入力]]||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(n月)
+}
+**ショート動画
+#region(開く)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|2024/04/12|[[2名同時ブレードキル>>https://www.youtube.com/shorts/GY78CAuZDzU]]||
+|2024/04/30|[[黄金世代の抱き枕ガチャが出る話>>https://www.youtube.com/shorts/49fXRi-YOjw]]||
+|2024/05/07|[[「流石に無線8.68じゃないよねw」>>https://www.youtube.com/shorts/H-AZMkEa3m8]]||
+|2024/05/07|[[音速で持っていかれるミンドリー>>https://www.youtube.com/shorts/hxJ7KZ2n350]]||
+|2024/05/10|[[犯人がミンドリーを嫌がるシーン>>https://www.youtube.com/shorts/JZJnLgqALfY]]||
+|2024/05/16|[[刃弐ランドに戸惑うドリー>>https://www.youtube.com/shorts/E9dtp1022cc]]||
+|2024/06/13|[[かなえさん？>>https://www.youtube.com/shorts/ijFWmGtyi68]]||
+|2024/10/24|[[空挺部隊のアクロバットな着地w>>https://www.youtube.com/shorts/9r0Imi16Nig]]||
+|2024/10/24|[[レダーからのヘリを譲渡>>https://www.youtube.com/shorts/nM-3DuOSGRE]]||
+|2024/10/27|[[いい加減ボイラに怒リー>>https://www.youtube.com/shorts/pGzPHdym6Sk]]||
+|2025/02/26|[[黄金の風>>https://www.youtube.com/shorts/Uvw7AEVtc4M]]||
+|2025/03/23|[[ミンドリー、ガチでキレて警察ジョブ削除>>https://www.youtube.com/shorts/YPuNZaLcYLA]]||
+|2025/03/25|[[ウェスカー市長に警察辞めたことを伝えてみたら>>https://www.youtube.com/shorts/1IgswlJByEk]]||
+|2025/03/27|[[警察の改善点>>https://www.youtube.com/shorts/MRisJdA8ypc]]||
+|2025/04/02|[[ミンドリーが明かす弟の本名>>https://www.youtube.com/shorts/PrdsExx2D2g]]||
+|2025/04/04|[[署長から罰を言い渡される>>https://www.youtube.com/shorts/74MfYt6csAw]]||
+|2025/04/08|[[警察復帰後の最初の無線>>https://youtube.com/shorts/QdEPLvr6IpA?si=e0bE8OuovZs1zpkJ]]||
+|2025/04/08|[[夏苗くんとあいさつ>>https://youtube.com/shorts/muIyQxqvAfk?si=ukKbwiY9KxfEAdGf]]||
+|2025/04/10|[[なずぴの誕生日に赤スパ投げるミンドリー>>https://youtube.com/shorts/nNA1pNrGSl8?si=Ldv83pYekIcaxPtV]]||
+|2025/04/11|[[ひろしの猛攻に言葉が出ないドリー>>https://youtube.com/shorts/yR9pHq-IhUw?si=-UbpV5OlqYIIGE8D]]||
+|2025/04/11|[[夏苗が嫌気がさして退勤した訳とは>>https://youtube.com/shorts/3VcQvbnupUg?si=emOKePakBLLc8SA9]]||
+|2025/04/18|[[困惑するさぶ郎>>https://youtube.com/shorts/HZ-NUHgq19I?si=nmkSWILsIY7OweLF]]||
+|2025/04/21|[[女性陣の艶がよすぎる>>https://youtube.com/shorts/qIiiYf7choE?si=mEZmG6HDuyuLiRXF]]||
+|2025/04/22|[[鼻毛がとんでもない夏苗>>https://youtube.com/shorts/fz8XhhFO2eE?si=9gweu1UR6ECvLnF7]]||
+|2025/04/24|[[絶対ベンチを勧めたいドリ>>https://youtube.com/shorts/VbtXNhIxHQ4?si=B3R-bvI5cAIagaKZ]]||
+|2025/05/05|[[ジェイミーの相談。>>https://youtube.com/shorts/JXM-7P5nwa8?si=3mZUtZRNYX_RCCyh]]||
+|2025/05/05|[[相談後、汚職の可能性は。>>https://youtube.com/shorts/rPPEybsUUEU?si=L7SiTZcUaTgNiStv]]||
+|2025/05/08|[[ジェイミーの事情聴取>>https://youtube.com/shorts/BQHiMR7BaRM?si=fACsLGdtKHg9UfJk]]||
+|2025/05/08|[[涙した後に出した答え>>https://youtube.com/shorts/DqMVtjhZYew?si=phV0IkwOlkDGUuT1]]||
+|2025/05/14|[[極秘情報の共有>>https://youtube.com/shorts/BMtivY1qAeo?si=Qm2DKUvEt4rXksw9]]||
+|2025/05/17|[[市長の権限>>https://youtube.com/shorts/l4TGbGpZL38?si=lFyFon1H8es6h9xx]]||
+|2025/05/18|[[完全体の防壁に敗北するｗｗ>>https://youtube.com/shorts/4u5mYudnBXA?si=U700CdLX1a2X6qfP]]||
+|2025/05/20|[[宣戦布告を受けるミンドリー>>https://youtube.com/shorts/Gp0Pq_ngFGQ?si=k5ZrqYN9mu5eFMTq]]||
+|2025/05/22|[[ダブチでキャラエンド？>>https://youtube.com/shorts/VjqX_fW7Ypw?si=PrRDfGyeXMrsZHTB]]||
+|2025/05/26|[[BMが無くなってた件>>https://youtube.com/shorts/VFqNywGESyw?si=M54A2QN_ZBRtNczf]]||
+|2025/05/29|[[抵抗されるミンドリー>>https://youtube.com/shorts/0VTubVxZakE?si=jXY2mpUAVjhspqWB]]||
+|2025/05/30|[[犬ルリの恰好ｗｗｗ>>https://youtube.com/shorts/zwGr2b8bSO8?si=g7bIma2NEXjHg7M5]]||
+|2025/05/31|[[まさかの場所で爆笑>>https://youtube.com/shorts/zxd_FuAlfyM?si=vItN2Y8ebCw_eEZi]]||
+|2025/06/01|[[記者は童〇と断言する>>https://youtube.com/shorts/uzU4IMlvDxM?si=UGMclaWA5U3ujIXZ]]||
+|2025/06/03|[[警察がホテルで黒と密会？>>https://youtube.com/shorts/-_nGMGr-fbw?si=YZQ67okfjTHLklnh]]||
+|2025/06/03|[[正直に聞いた結果>>https://youtube.com/shorts/fyKwQTjTnQU?si=asDJAXZN6adA8W38]]||
+|2025/06/04|[[チクの夏苗>>https://youtube.com/shorts/JW51Soszx4M?si=exvyk49WE5Zb5JLr]]||
+|2025/06/05|[[ジェイミーの進捗>>https://youtube.com/shorts/KdWJKpa4soA?si=VnIWZm3Mdfyg22gH]]||
+|2025/08/21|[[怪しい車を発見して声かけたら・・・>>https://youtube.com/shorts/qqVfTS5p6j0?si=BnY6LwuDBzPNs1dQ]]||
+|2025/08/21|[[月ノ島ごうが許せない事・・・？>>https://youtube.com/shorts/EjqJSkB2N6Y?si=akbX6xzj-oVwtGxo]]||
+|2025/08/24|[[BJローンの件でまさかの結果になる>>https://youtube.com/shorts/GJGQe_-fIKw?si=MDAIuCYagbdm0uWq]]||
+|2025/09/06|[[どうしても言わせたい部下たち>>https://youtube.com/shorts/k8neh1nYoBU?si=v86h_CTW2FYXC1Dm]]||
+|2025/09/06|[[盗聴＆録音するミンドリー>>https://youtube.com/shorts/aTLcuM1a3t0?si=nCnPABZnWUzzp6Ir]]||
+|2025/09/11|[[任せてください>>https://youtube.com/shorts/2HtKh98PPhQ?si=f2dELfiMXR8FiXYr]]||
+
+
+
+//|2025/mm/dd|[[動画タイトル>>ここに動画URLを入力]]||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(ショート動画)
+//
+**その他
+#region(開く,close)&bold(){閉じる}
+#table_style(head=center:#c3d298){投稿日=right}
+|~投稿日|~動画タイトル|~備考|h
+|2024/12/04|[[会長爆破でニコニコミドリ>>https://www.youtube.com/shorts/niC5P-XQzLI]]|ショート動画|
+|2024/12/21|[[Middleeetvと見る爆笑ストグラクリップ鑑賞会>>https://www.youtube.com/watch?v=TWgcLqeHljU]]|クリップ鑑賞会|
+|2025/01/02|[[ミンドリーの真似をする牢王蓮のクリップを見るドリさん>>https://www.youtube.com/shorts/YQJ8rcLmTfk]]|ショート動画|
+//|yyyy/mm/dd|[[動画タイトル>>ここに動画URLを入力]]||
+#table_autoincrement(){label=#, start=1}
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(その他)
+#right(){&link_up(🔝ページTOPへ)}

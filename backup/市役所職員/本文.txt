@@ -1,0 +1,110 @@
+//&image(ここに画像のURLを入力,y=300)
+
+#table_style(head=#C0C0C0){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(しやくしょしょくいん){市役所職員}|
+|~始動日|~&space()&icon_fa(fa fa-flag)&space()|2026年3月18日&br()&small(){（&countup(2026/03/17,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~&space()STATE&space()|~&space()&icon_fa(fa fa-city)&space()|市役所|
+|~TwiX|~&icon_fa(fa fa-mobile)|@shiyakusyo|
+|~勤務地|~&space()&icon_fa(fa fa-map-marker)&space()|8020番地 市役所|
+//
+//|~State表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|State表示名&co(){※Stateが存在しない組織の場合、この行ごと削除}|
+//始動日は市長がTwiXで募集を開始した日を初日として登録。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*&font(#FFFFFF){&icon_fa(fa fa-university fa-fw) 基本情報}
+&font(b,11px,#bbb){このページでは主にSeason2以降に募集が行われた『市役所職員』についての情報を記載しております。}
+-市役所の事務職で、主に住民の本名の変更や製作物依頼の受付・製作、各種書類受付の業務を行う。&br()市民への無線機販売や活動費受け渡し(許可済みのもの)、店舗のオーナー受け渡し等の業務も請け負っている。
+-Stateから市役所職員へ連絡することができる。
+
+#region(画像,open)
+#areaedit()
+|MIDDLE:CENTER:&bold(){2026/07/30版}|
+|&blankimg(市役所販売.jpg,x=330,y=460)|
+#areaedit(end)
+#endregion
+
+*&font(#FFFFFF){&icon_fa(fa fa-id-card-clip)}  &color(#FFFFFF){職員一覧}
+&font(12px,b,#ccc){※jobが付与された日を基準とする}
+#table_style(head=#C0C0C0){名前=bold}
+#table_filter(){就職日=show,備考=show,配信=show}
+|~名前|~就職日|~備考|~配信|h
+|[[町田　ジョアンナ]]|2026/03/26|メカニック[[JTS]] 社長|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[YouTube>>https://www.youtube.com/@joannamachida]]|
+|[[青梅　つばめ]]|2026/04/05|メカニック[[UGM]] マネージャー|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/gucha_maru]]|
+|[[天羽　よつは]]|2026/06/05|[[ロスサントス救急救命隊]] 副医局長|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@YotsuhaAmahane]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yochuco]]|
+//|[[ほのぼの山　すごす>>仄々山　すごす]]|2026/mm/dd||　|
+//|[[名前]]|2026/mm/dd|備考|配信|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//
+#co{
+//***過去の職員
+#table_style(head=#C0C0C0)
+|~名前|~就職日|~退職日|~備考|h
+|[[名前]]|就職日|yyyy/mm/dd|備考|
+|[[名前]]|就職日|yyyy/mm/dd|備考|
+//|[[名前]]|就職日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+*&font(#FFFFFF){&icon_fa(fa fa-clipboard-list)}  &color(#FFFFFF){市民向け販売品}
+#table_style(head=#C0C0C0){値段=right}
+#table_filter(){備考=show}
+|~商品名|~提供開始日|~値段|~備考|h
+|無線機|2026/06/05|750,000&br()1,300,000&br()1,500,000|白市民パス有&br()白市民パス無&br()心なきラジオ販売員|
+|オリジナルダイス|2026/07/dd|100,000|オリジナルデザインの依頼が可能|
+|大型バスレンタル|2026/07/30|300,000|事前申請をすれば1台30万/日で誰でもレンタルができる|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+*&font(#FFFFFF){&icon_fa(fa fa-users)}  &color(#FFFFFF){その他 関連ジョブ}
+//他に良い表示方法がありましたら変更していただいて問題ありません。
+**市役所職員ジョブが付与されるもの
+・一般的な飲食やメカニックなどと違い直接的な物品の売買が無い形態の職業のうち市長が認可するものも市役所職員のジョブが付与される。&br()市からの時給(分給)が多めに設定されており場合によっては特別報酬が支給される。
+//
+//
+#table_style(head=#C0C0C0){名称=bold}
+#table_filter(){職種=show,拠点=show,備考=show}
+|~名称|~職種|~拠点|~備考|h
+|[[Fashion MiMi]]|アパレル企業|　|洋服屋各店舗の在庫管理やjobクローゼットの整備を行う。|
+|裁判所職員|裁判官|　|裁判の執行の他、日常的に法律に関する相談を受ける。　|
+//|名称|職種|番地|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+**その他 公務員
+#table_style(head=#C0C0C0){名称=bold}
+#table_filter(){職種=show,拠点=show,備考=show}
+|~名称|~職種|~拠点|~備考|h
+|[[Wizardry Works]]|不動産・建築士|6189番地|市から街の不動産関連の仕事を任されている。|
+//|名称|職種|番地|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+
+*&font(#FFFFFF){&icon_fa(fa fa-pen-nib)}  &color(#FFFFFF){歴史}
+***2026年
+#table_style(head=#C0C0C0)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+|03/18|職員募集|[[山下　ひろし]]|[[市長>>山下　ひろし]]がTwiXで市役所職員募集の告知を行う|
+|06/05|無線機の販売を開始||無線機の一般販売を開始する|
+|06/17|Stateから連絡が可能になる||市役所職員がStateに載るようになった|
+|07/11|無線機販売方法の追加&br()無線機のデザイン変更&space(2)&openclose2(show=告知画像){&br()&blankimg(告知_ラジオ販売.jpeg,x=180,y=230)}||心なき職員から無線機を購入できるようになった&br()白市民パス所有者は無線機のデザインが変更される|
+|07/22|ガソリンスタンドオーナー権&br()オークション開催&space(2)&openclose2(show=告知画像){&br()&blankimg(告知_ガソリンスタンドオーナー募集.jpeg,x=180,y=230)}|[[町田　ジョアンナ]]、[[天羽　よつは]]、[[帝　レン]]|8042番地のキオル座にてオークション形式でオーナーを決める|
+|07/22|オリジナルダイス制作受付開始||希望の画像素材と発注書を市役所職員に提出することで&br()製造業者へオリジナルダイスの制作を依頼できるようになった|
+|07/23|ガソリンスタンドオーナー権&br()抽選販売の募集開始&space(2)&openclose2(show=告知画像){&br()&blankimg(告知_ガソリンスタンドオーナー募集2.jpeg,x=180,y=230)}|　|TwiXにて告知を行う|
+|07/29|ガソリンスタンドオーナー抽選会|[[町田　ジョアンナ]]、[[天羽　よつは]]|レギオン公園にてガソリンスタンドオーナーの抽選会を実施|
+|07/29|レンタル用バスの受け取り|[[山崎市長補佐]]、[[町田　ジョアンナ]]、[[天羽　よつは]]|市民への貸し出し用バスを受け取る|
+|07/30|大型バスレンタル開始&space(2)&openclose2(show=告知画像){&br()&blankimg(告知_大型バス貸出.jpeg,x=180,y=230)}|　|1台30万/日でレンタル可能|
+|09/09|市民へ協力要請||市役所職員のアカウントから市民へ探し物の協力要請ツイートが投稿される&br()&openclose2(show=▼TwiX全文){&br()【市民の方へご協力のお願い】&br()この度、市が発注した部品を乗せた航空機が荷物をばらまいてしまいました✋😣&br()市役所ロビーの左にいる新しい心なき職員に話しかけると[上空写真]を貰えます。&br()そちらを頼りに探していただけないでしょうか🙇‍♀️💦お礼も考えております。&br()何卒お力をかしていただければと思います🥹🙌}|
+
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+#right(){&link_up(🔝ページTOPへ)}
