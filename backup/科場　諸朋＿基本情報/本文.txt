@@ -380,16 +380,10 @@
 |~種類|~愛称|~名前/由来|~飼育開始日|~備考|h
 |🐶|シンファ|SHINHWA/新規ファイル/神話|2023/09/20|旧システムペット、ウェスティ|
 |🐶|ムダイ|MUDAI/無題|2024/04/16|新システムペット、チャウチャウ|
+#endregion
 #co{※車両関係に詳しくないため、もし間違っていた際には正しい情報に編集して頂けると助かります🙏🏻
 参考サイト https://w.atwiki.jp/gtav/pages/26.html
 |🚗🛵🚲🚁🛫🚢🚤|登録名|車種名|譲渡元|カスタム|備考|
-#region(車両・物件・ペット（Season2）,close)閉じる
-&size(15){&color(#486086){●} &b(){所有車両}}
-・私用車両
-#table_style(head=#486086:#fff:center){車種=center,備考=12px}
-|~車種|~登録名|~車種名|~譲渡元|~カスタム|~備考|h
-||||||
-#table_autoincrement(){label=#})
 ----
 &size(15){&color(#486086){●} &b(){購入物件}}
 #table_style(head=#486086:#fff:center){備考=12px}
@@ -400,6 +394,13 @@
 #table_style(head=#486086:#fff:center){種類=center}
 |~種類|~愛称|~名前/由来|~飼育開始日|~備考|h
 ||||||
-#endregion
 }
+#size(8){&br()}
+#region(車両・物件・ペット（Season2）,close)閉じる
+&size(15){&color(#486086){●} &b(){所有車両}}
+・私用車両
+#table_style(head=#486086:#fff:center){車種=center,ナンバー=center,備考=12px}
+|~車種|~車種名|~ナンバー|~車両保険|~備考|h
+|🚗|Blista|CCQR2353|2026/09/19加入|小峯玲から譲り受けた|
+#table_autoincrement(){label=#}
 #endregion
