@@ -1,0 +1,56 @@
+//&image(ここに画像のURLを入力,y=300)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|&ruby(まちお　ごり){街雄　ゴリ}|
+|~出身地|日本|
+|~誕生日|1995年03月03日 (&countup(1995/03/03,y)歳)|
+|~転入日|2023年08月30日 (&countup(2023/08/30,yd)経過)|
+|~職業|無職|
+|~プレイヤー|あしさんり|
+|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>https://twitter.com/ashi3re]]|
+|~配信場所|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@ashi3re]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/ashi3re]]|
+　
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・弟の[[街雄サンリ>街雄　サンリ]]を探しにこの街にやってきた
+・情報を募集中
+**エピソード
+****2023年
+#region(開く,open)
+//
+***8/30　#1　[[1日目 街雄の兄 ゴリ大地に立つ>https://www.twitch.tv/videos/1912436809]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+//
+//
+//
+//
+//↓コピー用素材
+//
+//****mm/dd　#n　[[配信タイトル>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+#endregion(2023年)
+
+**アーカイブ
+***2023年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/30|1|[[1日目 街雄の兄 ゴリ大地に立つ>https://www.twitch.tv/videos/1912436809]]||
+
+
+//↓コピー用素材
+//|~配信日|~#|~配信タイトル|~備考|h
+//|mm/dd|1|[[配信タイトル>ここに配信URLを入力]]||
+
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

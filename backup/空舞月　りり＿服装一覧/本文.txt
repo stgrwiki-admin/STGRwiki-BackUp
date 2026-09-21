@@ -1,0 +1,73 @@
+//#div(width=330px,bgcolor=#f8dee8){&size(16){&space()&color(#f2afbb){&icon_fa(fa-solid fa-shirt)&space()&bold(){服装一覧}}}}
+//
+//***&font(22px,#f8dee8){&icon_fa(fa fa-shirt)} 私服
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-shirt)&space()&bold(){私服}}}}
+#region(開く,close)✖️閉じる
+#table_style(head=center)
+|BGCOLOR(#f2afbb):~&blankimg(ririfashion08.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion15.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion19.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion18.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion17.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion20_2.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion21.png,y=220,x=100)|
+|BGCOLOR(#f8dee8):~&color(#ffffff)パジャマ|BGCOLOR(#f8dee8):~&color(#ffffff)私服4|BGCOLOR(#f8dee8):~&color(#ffffff)&small(){私服(ミニベルトトップス)}|BGCOLOR(#f8dee8):~&color(#ffffff)&small(){私服(タンクトップ)}|BGCOLOR(#f8dee8):~&color(#ffffff)&small(){私服(ハイネックノースリーブ)}|BGCOLOR(#f8dee8):~&color(#ffffff)私服1|BGCOLOR(#f8dee8):~&color(#ffffff)私服2|
+//
+#endregion(私服)
+//
+
+//***&font(22px,#f8dee8){&icon_fa(fa-solid fa-user-tie)} 仕事着
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-user-tie)&space()&bold(){仕事着}}}}
+#region(開く,close)✖️閉じる
+#table_style(head=center)
+|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_cs01.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc02.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc07.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc08.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc06.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc12.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc05.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc14.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc_tunagi.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc_tunagi_natsu_2.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc22.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc25.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc20.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc09.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc26.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc27.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc16_2.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc28.png,y=220,x=100)|
+|BGCOLOR(#f8dee8):~&color(#ffffff)&small(){クラシックスポーツカー}|BGCOLOR(#f8dee8):~&color(#ffffff)&small(){ギンガムワンピース}|BGCOLOR(#f8dee8):~&color(#ffffff)制服1|BGCOLOR(#f8dee8):~&color(#ffffff)制服2|BGCOLOR(#f8dee8):~&color(#ffffff)チャイナ|BGCOLOR(#f8dee8):~&color(#ffffff)チャイナ2|BGCOLOR(#f8dee8):~&color(#ffffff)彼シャツ|BGCOLOR(#f8dee8):~&color(#ffffff)水着1|BGCOLOR(#f8dee8):~&color(#ffffff)BMCつなぎ|BGCOLOR(#f8dee8):~&color(#ffffff)BMCつなぎ夏|BGCOLOR(#f8dee8):~&color(#ffffff)バニーガーデン|BGCOLOR(#f8dee8):~&color(#ffffff)新作ワンピ|BGCOLOR(#f8dee8):~&color(#ffffff)メイド|BGCOLOR(#f8dee8):~&color(#ffffff)メイド2|BGCOLOR(#f8dee8):~&color(#ffffff)女医さん|BGCOLOR(#f8dee8):~&color(#ffffff)BMCRC|BGCOLOR(#f8dee8):~&color(#ffffff)警察|BGCOLOR(#f8dee8):~&color(#ffffff)&small(){ジューンブライドワンピ}|
+//
+#endregion(仕事着)
+//
+
+//***&font(22px,#f8dee8){&icon_fa(fa fa-user-plus)} その他
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-user-plus)&space()&bold(){その他}}}}
+#region(開く,close)✖️閉じる
+#table_style(head=center)
+|BGCOLOR(#f2afbb):~&blankimg(riri_kumaudia.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_hiraike.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_tankentai.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sauna.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sauna_2.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_SFC.png,y=220,x=100)&space()&blankimg(riri_SFC_2.png,y=220,x=100)|
+|BGCOLOR(#f8dee8):~&color(#ffffff)クマウディア|BGCOLOR(#f8dee8):~&color(#ffffff)平井さん|BGCOLOR(#f8dee8):~&color(#ffffff)探検隊員|BGCOLOR(#f8dee8):~&color(#ffffff)サウナ|BGCOLOR(#f8dee8):~&color(#ffffff)サウナ2|BGCOLOR(#f8dee8):~&color(#ffffff)SFC|
+//
+#endregion(その他)
+//
+
+//
+#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-user-xmark)&space()&bold(){削除済み}}}}
+//#region(開く,close)&bold(){2025/05/03時点}
+//
+//#div(width=305px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-shirt)&space()&bold(){私服}}}}
+#region(私服,close)✖️閉じる
+#table_style(head=center)
+|BGCOLOR(#f2afbb):~&blankimg(ririfashion00.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion01.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion02.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion03.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion04.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion05.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion06.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion07.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion09.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion10.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion11.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion12.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion13.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion14.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(ririfashion16.png,y=220,x=100)|
+|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)ジャークさん|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|BGCOLOR(#f8dee8):~&color(#ffffff)私服|
+#endregion(過去/私服)
+//
+
+//
+//#div(width=305px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-user-tie)&space()&bold(){仕事着}}}}
+#region(仕事着,close)✖️閉じる
+#table_style(head=center)
+|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc01.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc03.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc04.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc13.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc17.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc15.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc11.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc16.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc18.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc19.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc21.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc23_2.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_sigoto_bmc24_2.png,y=220,x=100)|
+|BGCOLOR(#f8dee8):~&color(#ffffff)悪魔コス|BGCOLOR(#f8dee8):~&color(#ffffff)ガスマスク🦊|BGCOLOR(#f8dee8):~&color(#ffffff)GS美神|BGCOLOR(#f8dee8):~&color(#ffffff)サキュバス|BGCOLOR(#f8dee8):~&color(#ffffff)学生風|BGCOLOR(#f8dee8):~&color(#ffffff)メイド服|BGCOLOR(#f8dee8):~&color(#ffffff)たぬき|BGCOLOR(#f8dee8):~&color(#ffffff)婦警さん|BGCOLOR(#f8dee8):~&color(#ffffff)海だぁぁぁ|BGCOLOR(#f8dee8):~&color(#ffffff)浴衣|BGCOLOR(#f8dee8):~&color(#ffffff)チア|BGCOLOR(#f8dee8):~&color(#ffffff)ハロウィン|BGCOLOR(#f8dee8):~&color(#ffffff)ベレー帽|
+#endregion(過去/仕事着)
+//
+
+//
+//#div(width=305px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-user-plus)&space()&bold(){その他}}}}
+#region(その他,close)✖️閉じる
+#table_style(head=center)
+|BGCOLOR(#f2afbb):~&blankimg(riri_cosplay01_2.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_momokuro.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_mukemuke.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_iromono_01.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_gorilla.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_vermilion00_.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_vermillion02.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_vermillion03.png,y=220,x=100)|BGCOLOR(#f2afbb):~&blankimg(riri_himitu.png,y=220,x=100)|
+|BGCOLOR(#f8dee8):~&color(#ffffff)ティファ|BGCOLOR(#f8dee8):~&color(#ffffff)momokuro|BGCOLOR(#f8dee8):~&color(#ffffff)MMガールズ|BGCOLOR(#f8dee8):~&color(#ffffff)つるつる|BGCOLOR(#f8dee8):~&color(#ffffff)ゴリラ|BGCOLOR(#f8dee8):~&color(#ffffff)vermillion1|BGCOLOR(#f8dee8):~&color(#ffffff)vermillion2|BGCOLOR(#f8dee8):~&color(#ffffff)vermillion3|BGCOLOR(#f8dee8):~&color(#ffffff)秘密|
+#endregion(過去/その他)
+//
+//#endregion(過去)
+//
+////
+//
+//#div(width=330px,bgcolor=#f988ae){&size(16){&space()&color(#faf7f4){&icon_fa(fa-solid fa-shirt)&space()&bold(){ジャンル名}}}}
+//#region(開く,close)✖️閉じる
+//#table_style(head=center)
+//|BGCOLOR(#f2afbb):~&blankimg(ファイル名,y=220,x=100)|
+//|BGCOLOR(#f8dee8):~&color(#ffffff)衣装名|
+//#endregion
+//
+////

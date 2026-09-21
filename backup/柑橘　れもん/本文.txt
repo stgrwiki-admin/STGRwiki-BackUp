@@ -1,0 +1,1036 @@
+//画像を増やしたい場合、画像をアップロードし、画像名を下の並括弧内にコンマ区切りで記載してください
+#slide_img(auto=5,width=390,height=200.5,position=left){初期衣装.png,麻レコ制服.png,耳としっぽ.png}
+//---------------------------------------------------------------------//
+#table_style(head=#F9F8CB:#13C9CD)
+|~名前|~&icon_fa(fa fa-user)|&ruby(かんきつ){柑橘}　れもん|
+|~出身地|~&icon_fa(fa fa-map-marker)|不明|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|&openclose2(show=不明){※08/19(&countup(2000/08/19,y))}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年02月17日 (&countup(2024/02/17,yd)経過)|
+|~職業|~&icon_fa(fa fa-cannabis)&br()&icon_fa(fas fa-tools)&br()|『[[麻SICK RECORDS]]』店員 &small(){2024/02/23〜}&br()『[[PYC]]』サブマネージャー &small(){2024/04/10〜}|
+|~レーサー名|~&icon_fa(fa fa-id-card-o fa-fw)|Driver 9450|
+|~TwiX|~&icon_fa(fa fa-tag)|@柑橘れもん|
+|BGCOLOR(#13C9CD):COLOR(#FFF):~プレイヤー|BGCOLOR(#13C9CD):COLOR(#FFF):&icon_fa(fa fa-heart)|リモーネ先生|
+|BGCOLOR(#13C9CD):COLOR(#FFF):~告知等|BGCOLOR(#13C9CD):COLOR(#FFF):&icon_fa(fa fa-bullhorn)|&font(#13C9CD){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#13C9CD){X (旧Twitter)}>>https://x.com/limodom]]|
+|BGCOLOR(#13C9CD):COLOR(#FFF):~配信場所|MIDDLE:BGCOLOR(#13C9CD):COLOR(#FFF):&icon_fa(fa fa-gamepad)|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[&font(#13C9CD){YouTube}>>https://youtube.com/@limone_teacher]] &small(){〜2024/03/05}&br()&font(#13C9CD){&icon_fa(fa fa-twitch)} [[&font(#13C9CD){Twitch}>>https://www.twitch.tv/limone_teacher]]&small(){2024/03/06〜}|
+
+//職業を追加・更新した場合、「 https://w.atwiki.jp/streamergta5/pages/20.html#id_ab0a5ace 」（職業一覧->就業者一覧）等への追加・更新のご協力をお願いいたします。
+//---------------------------------------------------------------------//
+#region(目次,close)目次
+#contents(fromhere=true,level=2)
+#endregion
+//---------------------------------------------------------------------//
+**&color(#E3E3AE){&size(25){基}}&font(20px,#99cccc){本情報}
+&font(20px,#13C9CD){●} 朧気だが100年後の記憶あり&openclose2(show=※){&br()￤ 黒色のギャングに所属、戦闘員として活動をしていた}
+&font(20px,#13C9CD){●} 記憶を失っていて、ロスサントスへ来た理由等は不明
+&font(20px,#13C9CD){●} 自分を知っている人がいないか探している&br()￤ 手がかりとなる髪色とメガネは着いた時から変えていない
+//&font(20px,#13C9CD){●} &openclose2(show=初日の件){[[#01>https://www.youtube.com/live/WdOpYV5JlQc?t=18356s]]}により、苦手な警察官がいる
+//&font(20px,#13C9CD){●} ヘリが欲しいので現在奮闘中。できれば年末までに欲しい
+&font(20px,#13C9CD){●} スト6の達人として名が通り始めている
+
+&font(16px,#99cccc){&icon_fa(fas fa-user)&space()&bold(){外見}}　&font(#DEDFA1){───────────────────────}
+&font(20px,#13C9CD){●} 水色の髪と黄色メガネが特徴的。メガネは暗くなると光る
+&font(20px,#13C9CD){●} 喉仏あたりにバットウィングのタトゥーを入れている
+&font(20px,#13C9CD){●} 麻レコの制服⇢迷彩柄のコートで肩にうさぎを乗せている
+&font(20px,#13C9CD){●} PYCの制服⇢黒色のオーバーオールにうさぎのリュック‪‪🐇
+&font(#13C9CD,20px){●} 鬼 太郎のコスプレをしていることもある (猫 娘:[[もなぴ>>小豆　最中]])
+&font(#13C9CD,20px){●} 我 ILLのコスプレをしていることもある
+
+&font(16px,#99cccc){&icon_fa(fas fa-heart)&space()&bold(){性格}}　&font(#DEDFA1){───────────────────────}
+&font(20px,#13C9CD){●} 基本的に｢～っす｣口調で話す。声が大きく、ツッコミポジ
+&font(20px,#13C9CD){●} 毒のある喋り方をするが、根は優しいので好かれるタイプ
+&font(20px,#13C9CD){●} 好奇心旺盛で、多少ビビりで恥ずかしがり屋な一面もある
+&font(20px,#13C9CD){●} 好きなもの⇢水色&openclose2(show=※){魂の色}･HIPHOP･ホラー
+&font(20px,#13C9CD)
+
+&font(16px,#99cccc){&icon_fa(fas fa-file-alt)&space()&bold(){その他}}　&font(#DEDFA1){───────────────────────}
+&font(20px,#13C9CD){●} 同期として認識しているのは[[メグミ・コシヤマ]]のみである
+&font(20px,#13C9CD){●} ヘラシギが街に帰ってきた際に、歌を届けるという約束をしていたが、魂が体調不良中に帰ってこられた上、他に約束していた方々も歌う機会は無かった
+&font(20px,#13C9CD){●} 黄色のドラウグルでお出かけをすると高頻度で強制瞑想をくらう
+//下2つのその他について、交友関係欄で事足りることだと思いますのでテンプレートが出来次第、移動させていただきます。
+//【注意】他の方が追記されたものを了承無く丸々削除することは【荒らし】と見なしますのでご注意ください。下記にあります｢//｣を使用し、不必要だと思った理由を記載してください。続くようであれば編集相談所へ相談させてただきます。
+#co(){
+情報追加用コピペ
+&font(20px,#13C9CD){●} 本文
+情報について
+本人視点では知り得ないネタバレ等を記すのは控え、必要の際は伏せ表示を使う。憶測(~らしい等)は、第三者から聞いたものや本人が発言したものなら構わない。感想はNG。要点を掻い摘んで出来るだけまとめて記述をお願い致します。相応しくないものが書かれていてもすぐに消さず、先頭に｢//｣を付けて非表示にして下さい。
+}
+**&color(#DEDFA1){&size(25){メ}}&font(20px,#99cccc){モリー}
+#region(職歴)
+#size(90%){#table_filter(){職種=show,役職=show,階級=hide,期間=show,備考=show}
+#table_style(head=center:#A5D2D2:#fff)
+|~：|~職種|~役職|~階級|~期間|~備考|
+||ホットドッグ屋|就職|Grade (Sales)|2024年02月17日〜2024年03月08日|※一度も働くことなく退職|
+|&font(#13C9CD){★}|[[麻SICK RECORDS]]|就職||2024年02月23日〜|&font(#13C9CD){★} 就業中|
+||[[KoKo 七番屋>KoKo七番屋]]|体験||2024年03月08日～2024年04月09日|※ジョブ枠の関係で退職|
+||[[PYC]]|体験|Grade0 (Recruit)|2024年03月09日～2024年03月22日|※ 体験終了|
+||[[ロスサントス警察]]|体験|Grade0 (Recruit)|2024年03月27日～2024年04月04日|※ 体験終了(結果は不採用)|
+|&font(#13C9CD){★}|[[PYC]]|就職||2024年04月10日～|&font(#13C9CD){★} 就業中|
+//|就業中のみ★マーク|職種「[[社名]]」|役職|階級|yyyy年mm月dd日|備考|
+#table_sorter{even=#FCFCE5,odd=#fff}
+}
+#endregion(職歴)
+
+//--------------------------------------------------------------------//
+#region(免許・資格)
+#size(90%){#table_filter(){取得日=show,失効日=hide,免許・資格=show,担当=show,備考=show}
+#table_style(head=center:#A5D2D2:#fff)
+|~取得日|~失効日|~免許・資格|~担当|~備考|
+|2024/02/17|CENTER:-|普通自動車免許|[[隣　紀子]]|市役所や溶鉱炉を巡り、街案内も兼ねた教習|
+|2024/02/28|CENTER:-|自動二輪免許|[[隣　紀子]]|レギオン周辺を約3分半走って難なく取得✨|
+|2024/02/28|CENTER:-|レースライセンス|[[隣　紀子]]|2周2分25秒で合格 (合格ラインは2分40秒)|
+|2024/02/28|CENTER:-|ヘリ免許|[[隣　紀子]]|JTS⇢1番高い建物の上に着陸⇢JTSのコース|
+|2024/03/16|CENTER:-|白市民パス|[[伊藤ぺいん>>伊藤　ぺいん]]・[[安保さぶ郎>>安保　さぶ郎]]|発行した気になっていただけだったので発行|
+#table_sorter{even=#FCFCE5,odd=#fff}
+}
+#endregion(免許・資格) 
+
+#region(タトゥー・ネイル)
+&font(10px,#99cccc){※画像をクリックすると別タブで表示されます。}
+#table_style(head=center)
+|BGCOLOR(#FCFCE8):~&blankimg(3/9ネイル.png,y=150,x=150)|BGCOLOR(#FCFCE5):~&blankimg(3/8タトゥー.png,y=150,x=150)|
+|BGCOLOR(#B3D9D9):~&color(#fff){&size(10){2024/03/09～}&br()&size(10){対応：天近くるみ}}|BGCOLOR(#B3D9D9):~&color(#fff){&size(10){2024/03/08～}&br()&size(10){タトゥー：バットウィング}}|
+#endregion(タトゥー・ネイル)
+#co{余裕が出来たら追加したいタイトル
+**&color(#DEDFA1){&size(25){衣}}&font(20px,#99cccc){装倉庫}
+#region(使用中)
+#endregion
+
+#region(削除済)
+#endregion
+**&color(#DEDFA1){&size(25){車}}&font(20px,#99cccc){両倉庫}
+#region(一覧)
+#endregion
+
+#region(画像)
+#endregion
+}
+**&color(#DEDFA1){&size(25){交}}&font(20px,#99cccc){友関係}
+***&size(20){&underdot(#E3E3AE,3px){&font(16px,#13C9CD){&icon_fa(fa fa-cannabis)&space()&color(#51CACD){麻&color(#69CACD){SI}&color(#8ACACC){CK RE}&color(#93CBCC){COR}&color(#99cccc){DS}}}}}
+#region(開く)
+&color(#13C9CD){&bold(){&color(#13C9CD){麻}&color(#5ECACD){林}&color(#93CBCC){ラ}&color(#99cccc){ル}}}　 &font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[ラル>>麻林　ラル]]さん
+▪️麻レコのオーナー 兼 [[KoKo七番屋]]の代理店長
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){ボ}&color(#5ECACD){タ}&color(#5ECACD){リ}&color(#93CBCC){ン}&color(#93CBCC){モ}&color(#99cccc){ン}&color(#99cccc){ロ}&color(#99cccc){ー}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[モンロー>>ボタリン　モンロー]]さん
+▪️初心者の頃に街案内をしてくれた優しいお姉さん
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){MC S}&color(#5ECACD){un}&color(#93CBCC){ri}&color(#99cccc){se}}}　 &font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[サンライズ>>MC　Sunrise]]さん
+▪️同じ｢～っす｣口調で話す人。見た目もシナジーがある
+▪️我 ILLコスの時に乗るバイクを譲ってくれた
+// 
+
+&color(#13C9CD){&bold(){&color(#13C9CD){豆}&color(#5ECACD){乳}&color(#5ECACD){ち}&color(#93CBCC){ゃ}&color(#93CBCC){ん}&color(#99cccc){も}&color(#99cccc){も}}}　 &font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[ちゃんもも>>豆乳　ちゃんもも]]さん
+▪️麻レコの料理長
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){淀}&color(#5ECACD){川}&color(#93CBCC){て}&color(#93CBCC){る}&color(#99cccc){み}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[てるみ>>淀川　てるみ]] 
+//さん
+▪️初日の角刈りイベントで車を貸してくれた優しい人
+▪️てるみの「摩周湖の霧」の話がお気に入り
+#endregion
+//
+***&size(20){&underdot(#E3E3AE,3px){&font(16px,#13C9CD){&icon_fa(fas fa-tools)&space()&color(#51CACD){P&color(#8ACACC){Y}&color(#93CBCC){C}}}}}
+#region(開く)
+
+&color(#13C9CD){&bold(){&color(#13C9CD){ルウ}&color(#5ECACD){ギャラ}&color(#93CBCC){クテ}&color(#99cccc){ィカ}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[ルウ>>ルウ　ギャラクティカ]]さん
+▪️PYC就職を決心しかねていたれもんをPYCに引っ張ってくれた社長
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){パ}&color(#5ECACD){キ}&color(#93CBCC){ち}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[パキち>>パキ　ち]]
+▪️PYCの守護神
+▪️パキちの仕事ぶり(クラフト)を見習っている
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){小}&color(#5ECACD){豆}&color(#93CBCC){最}&color(#99cccc){中}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[もなぴ>>小豆　最中]]
+▪️ギャル仲間のマブ
+▪️リンクコーデをしてくれたり仲良くしてくれる
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){お}&color(#5ECACD){にわの}&color(#93CBCC){えん}&color(#99cccc){ちょ}&color(#99cccc){う}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[えんちょう>>おにわの　えんちょう]]さん
+▪️れもんの上司で警察と兼業している
+
+&color(#13C9CD){&bold(){&color(#13C9CD){み}&color(#5ECACD){ら}&color(#93CBCC){ら}&color(#99cccc){ん}&color(#99cccc){ど}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[みららんど>>みら　らんど]]さん
+▪️れもんモチーフの車・通称"れもんカスタム"をくれた
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){茶}&color(#5ECACD){担}&color(#93CBCC){え}&color(#99cccc){り}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[えり>>茶担　えり]]ちゃん
+▪️カニメイトでも働くえりが、カニメイトに来たれもんにPYCを誘った
+
+&color(#13C9CD){&bold(){&color(#13C9CD){土}&color(#5ECACD){場}&color(#93CBCC){リ}&color(#99cccc){グゼ}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[リグゼ>>土場　リグゼ]]
+▪️体験の時かられもんがPYCに入ってくれたらいいのに、とずっと言ってくれていた
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){日}&color(#5ECACD){之}&color(#93CBCC){ぱち}&color(#99cccc){お}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[ぱちお>>日之　ぱちお]]さん
+▪️私服がほぼ色違いのブラザー
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){ド}&color(#5ECACD){ンタカーキ}&color(#93CBCC){ナツシロ}&color(#99cccc){ンゴ}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[ンゴ>>ドンタカーキ　ナツシロンゴ]]
+▪️れもんの後輩でもなぴと3人でやんちゃ三人組
+
+#endregion
+//
+***&size(20){&underdot(#E3E3AE,3px){&font(16px,#13C9CD){&icon_fa(far fa-smile)&space()&color(#51CACD){白&color(#8ACACC){市}&color(#93CBCC){民}}}}}
+#region(開く)
+
+&color(#13C9CD){&bold(){&color(#13C9CD){隣}&color(#5ECACD){紀}&color(#93CBCC){子}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢  [[紀子さん>隣　紀子]]
+▪️街到着後に出会った第一街人
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){大}&color(#5ECACD){川}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢  [[大川さん>大　川]]
+▪️街到着後、一台目の車となるカラハリを100万円で売ってくれた
+▪️大成したら返します、と約束
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){上}&color(#5ECACD){田}&color(#93CBCC){さ}&color(#99cccc){ん}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[上田さん>>上田　さん]]
+▪️街到着初日に案内をしてくれた
+▪️路上ファイト&openclose2(show=※){(スト6)}仲間
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){焦}&color(#5ECACD){月}&color(#93CBCC){ツ}&color(#99cccc){ルギ}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[ツルギ>>焦月　ツルギ]]
+▪️初対面の時からノリが合う
+▪️よく知らないが過去焦げ付いたらしい
+//
+
+#endregion
+//
+***&size(20){&underdot(#E3E3AE,3px){&font(16px,#13C9CD){&icon_fa(fas fa-smile)&space()&color(#51CACD){黒}&color(#8ACACC){市}&color(#93CBCC){民}}}}
+#region(開く)
+
+&color(#13C9CD){&bold(){&color(#13C9CD){堕}&color(#5ECACD){夜}&color(#93CBCC){だ}&color(#99cccc){よ}}}　 &font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[だよ>>堕夜　だよ]]さん
+▪️犯人と人質という関係。たまに野球拳で勝負している
+
+&color(#13C9CD){&bold(){&color(#13C9CD){丘}&color(#5ECACD){猫}&color(#93CBCC){ま}&color(#99cccc){る}}}　 &font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[まる>>丘猫　まる]]
+▪️会うとチョケが始まる
+
+&color(#13C9CD){&bold(){&color(#13C9CD){キ}&color(#5ECACD){ングスター}&color(#93CBCC){ダイヤモンド}&color(#99cccc){ズズ}}}　 &font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[ズズ>>キングスターダイヤモンド　ズズ]]さん
+▪️れもん警察体験中にひき逃げをしてしまったことからより仲良くなる
+
+#region(野球拳の戦績)
+#size(90%){#table_filter(){日付=show,#=show,結果=show,詳細=show,備考=show,観戦=hide}
+#table_style(head=center:#A5D2D2:#fff)
+|~日付|~#|~結果|~詳細|~備考|~観戦|
+|MIDDLE:02/28|MIDDLE:03|MIDDLE:勝利|︎︎&openclose2(show=全12回){&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#13C9CD){メガネを外す}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#13C9CD){ヘッドホンを外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#13C9CD){靴を脱ぐ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#88C917){手袋を脱ぐ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#13C9CD){ネックレスを外す}‪‪‪‪‪&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#13C9CD){上の服を脱ぐ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#13C9CD){ブレスレットを外す}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#88C917){ネクタイを外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#88C917){ズボンを脱ぐ}}‪‪‪‪&br()脱いだ回数・&font(#13C9CD){&icon_fa(fas fa-user)} 6回・&font(#88C917){&icon_fa(fas fa-user)} 3回|MIDDLE:堕夜だよさんと初対面。負けすぎていたため&br()急遽最後の１回で勝敗が決まるルールに変更|MIDDLE:[[くまのふでこ>>くまの　ふでこ]]・[[マカーイノアッコパス>>マカーイノ　アッコパス]]&br()[[ジャック馬ウメー>>松竹　ウメ]]・[[帝レン>>帝　レン]]|
+|MIDDLE:03/02|MIDDLE:05|MIDDLE:勝利|︎︎&openclose2(show=全16回){&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#88C917){メガネを外す}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#88C917){仮面を外す(?)}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#88C917){手袋を脱ぐ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#13C9CD){暴行ペナでメガネを外す}‪‪‪‪‪‪&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#13C9CD){ヘッドホンを外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#88C917){ネクタイを外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#88C917){靴を脱ぐ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#88C917){時計を外す}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#13C9CD){ネックレスを外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#13C9CD){ブレスレットを外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#88C917){ジャケットを脱ぐ}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#88C917){上の服を脱ぐ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#88C917){ズボンを脱ぐ}}‪‪‪‪&br()脱いだ回数・&font(#13C9CD){&icon_fa(fas fa-user)} 4回・&font(#88C917){&icon_fa(fas fa-user)} 9回‪‪‪‪‪‪‪‪‪‪|MIDDLE:らびすぴ前で1000万を賭けた野球拳|MIDDLE:[[雪菱メラ>>雪菱　メラ]]・[[葵井優>>葵井　優]]・[[碇イチカ>>碇　イチカ]]|
+|MIDDLE:03/12|MIDDLE:11|MIDDLE:中断|︎&openclose2(show=全10回){&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#88C917){帽子を外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#13C9CD){ヘッドホンを外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#88C917){バッグを下ろす}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#13C9CD){メガネを外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#5C5C5C){あいこ‪‪‪‪‪‪‪‪‪‪‪}}&br()脱いだ回数・&font(#13C9CD){&icon_fa(fas fa-user)} 2回・&font(#88C917){&icon_fa(fas fa-user)} 2回|MIDDLE:銀行強盗の人質になりつつ片手間で野球拳&br()チェイスの末、ダウンからの逮捕で強制終了|MIDDLE:[[ミナミとと>>ミナミ‪　とと]]・[[ゴンザレスマヌ太郎>>ゴンザレス　マヌ太郎]]|
+|MIDDLE:03/14|MIDDLE:13|MIDDLE:敗北|︎&openclose2(show=全️19回){&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#13C9CD){ヘッドホンを外す}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#88C917){バッグを下ろす}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#88C917){ブレスレットを外す}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#13C9CD){メガネを外す}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#88C917){ピアス？を外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#5C5C5C){あいこ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#88C917){帽子を外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#13C9CD){ホースバットを落とす}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#13C9CD){ブレスレットを外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#13C9CD){ネックレスを外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#13C9CD){靴を脱ぐ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-hand-paper)}⇢&font(#88C917){仮面を外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#13C9CD){上の服を脱ぐ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#88C917){手袋を脱ぐ}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#88C917){ベストを脱ぐ}&br()&font(#13C9CD){&icon_fa(fas fa-thumbs-up)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#88C917){時計を外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-paper)}×&font(#88C917){&icon_fa(fas fa-hand-peace)}⇢&font(#13C9CD){イヤリングを外す}&br()&font(#13C9CD){&icon_fa(fas fa-hand-peace)}×&font(#88C917){&icon_fa(fas fa-thumbs-up)}⇢&font(#13C9CD){ズボンを脱ぐ}}‪‪‪‪‪‪‪‪‪&br()脱いだ回数・&font(#13C9CD){&icon_fa(fas fa-user)} ️9回・&font(#88C917){&icon_fa(fas fa-user)} ️8回|MIDDLE:PYCで1000万を賭けた野球拳※堕夜フル装備|MIDDLE:[[パキち>>パキ　ち]]|
+#table_sorter{even=#FCFCE5,odd=#fff}
+}
+#endregion
+
+&color(#13C9CD){&bold(){&color(#13C9CD){イ}&color(#5ECACD){ネ}&color(#93CBCC){ヌ}&color(#99cccc){コ}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[ヌコ>>イネヌコ]]さん
+▪️プロレスが多く、そもそも名前を呼ばないこともある
+▪️よく[[PYC]]に来てくれるお客さんであり[[PYC]]の元従業員
+▪️出会ってから度々[[ギャング]]の勧誘をしてきていたので、[[PYC]]に正式に就職した事を残念がっていた
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){コ}&color(#5ECACD){ヨ}&color(#93CBCC){ー}&color(#99cccc){テ}}}　&font(#DEDFA1){─────────────────────}
+▪️呼び方⇢[[コヨーテ>>ムージャ　ヘクマティアル]]さん
+▪️犯人と人質という関係。初めて人質にされた時の犯人
+//
+
+&color(#13C9CD){&bold(){&color(#13C9CD){文}&color(#5ECACD){殊}&color(#93CBCC){セ}&color(#99cccc){イジ}}}　&font(#DEDFA1){────────────────────}
+▪️呼び方⇢[[セイジ>>文殊　セイジ]]さん
+▪️セイジさんがカニ漁船から帰ってきた時に遭遇
+▪️一緒に[[カニメイト]]のなぞ解きをした
+▪️セイジさんの友達の[[イチボ>>文殊　セイジ]]さんにさらわれとんでもない目に合う
+//
+
+#endregion
+//--------------------------------------------------------------------//
+**&color(#DEDFA1){&size(25){エ}}&font(19px,#99cccc){ピソード}
+//***&font(14px,#13C9CD){2024年}
+#region(2月（#01~03）,close)2月（#01~03）
+
+#region(2月第3~5週（2/17~28）,close)2月第3~5週（2/17~28）
+----
+***02/17【#01】[[&font(#13C9CD){&icon_fa(fa fa-youtube-play)} 初ストグラ参加　1日目>>https://www.youtube.com/live/WdOpYV5JlQc]]
+▪️街に到着。第一街人の[[隣　紀子]]さんと出会う
+▪️普通自動車免許を取得！勧められた車を購入
+▪️街案内を受ける(紀子さん⇢[[上田さん>>上田　さん]]に交代)
+▪️会場周辺の[[お店>>麻SICK RECORDS]]で[[タトゥーの男>>TANKTOP　竹森]]に詰められた
+▪️ロケランを背負っている[[警官>>ニックス　リア]]と出会い、一悶着
+▪️紀子さんとイベント｢角刈りを捕まえろ｣に参加
+----
+***02/23【#02】[[&font(#13C9CD){&icon_fa(fa fa-youtube-play)} ストグラ参加　2日目>>https://www.youtube.com/live/tUWHOF8rW1Y]]
+▪️[[カジノ]]で同期の[[メグミ・コシヤマ]]さんと出会う
+▪️[[モンロー>>ボタリン　モンロー]]さんに教わり初めてのバイト体験✨
+▪️レース[[9055]]⇄[[BMC>>BMカスタム]]に参加。40人中､ 両方26位
+▪️[[ラル>>麻林　ラル]]さんと運命の出会いを果たし[[麻レコ>>麻SICK RECORDS]]に就職
+▪️移動販売の後、[[魔女の酒場]]で占いをしてもらう
+
+#region(占い結果)
+占い内容｢麻レコとの相性｣  担当：[[天近くるみ>>天近　くるみ]]
+
+&color(#99cccc){&bold(){結論}}｢就いて良かったと思うのはちょっと先｣
+￤
+&color(#99cccc){&bold(){詳細}}
+自分の興味あることと通じそうな感じがした&br()から、｢アリかも｣って入ったんだと思うけど&br()最初に思ってたことと麻レコが合致するまで&br()に時間がかかる。それは麻レコが最近できた&br()ばかりで店の方向性だったりも全てラルさん&br()の頭の中にあるから。
+￤
+&color(#99cccc){&bold(){この先}}
+やること自体は楽しいし面子も楽しいと思っ&br()てるから、ラルさんから明確なやりたいこと&br()が出た時に理解して沿っていくことが必要。&br()意見は言える人だろうから、あとはもう方向&br()性の寄せ。麻レコに求めてるかは別としても&br()そんなすぐにお金が稼げるという訳では無い&br()ので最初は気にしないでやってみてもいい。
+￤
+&color(#99cccc){&bold(){性格}}
+抱え込みやすくノリと勢いで大体イエスマン&br()な所がある。悪くは無いが、スケジュールと&br()相談してやっていくと良い。
+#endregion(占い結果)
+----
+***02/28【#03】[[&font(#13C9CD){&icon_fa(fa fa-youtube-play)} ストグラ参加　3日目>>https://www.youtube.com/live/F1WBr26Ae10]]
+▪️麻レコ出勤に伴い、名前を｢&ruby(おおあさ){大麻}れもん｣に変更
+▪️ラルさんから[[ギャング]]の情報を一通り聞く
+▪️[[Père Noël]]で占いをしてもらう(Simpleコース)
+▪️[[堕夜>>堕夜　だよ]]さんとドライブのはずが野球拳に｡ 勝利✨
+▪️レース・自動二輪・ヘリの免許を一気に取得！
+
+#region(ギャングの情報・占い結果)
+&color(#99cccc){&bold(){ギャングの情報}}
+▪️この街のギャングは｢ちゃんとやってる｣
+
+▪️極論、リスキルの無限ループが存在する&br()￤ 本当に極論だが、やりかねない人がいる
+
+▪️｢角刈りを捕まえろ｣のニセ角刈りは殆ど&br()￤  ギャングのボス。[[ピエロ>>ライトスターボーイ]]ももちろんボス&br()￤  表向きは慈善団体の代表と名乗っていて&br()￤  麻レコ周辺はピエロのシマで関係がある
+
+▪️全部でギャングは７つ。うち２つは新興&br()￤  新興の片方は&ruby(ヤク){薬}しかやらない[[まだらぐみ>>麻陀羅組]]
+
+▪️[[のーりみっと>>NO LIMIT]]・[[おーるいん>>ALLIN]]・[[あんぶれら>>anbrella(餡ブレラ)]]&br()￤  の３組織は武闘派で、すぐいっちゃう系&br()￤  特におーるいんは｢話通じねぇ｣って感じ
+
+▪️[[もず>>MOZU]]は結構話が分かる大人な感じのボス&br()￤   筋が通っていれば絶対に大丈夫
+
+▪️[[ぐっばいさーかす>>GoodbyeCircus#GoodbyeCompany]]がピエロの人の組織。&br()￤  イベントをやりながら、基本人を傷つけ&br()￤  たくはないというスタンスでやっている
+
+▪️この間の[[ズズ>>キンズスターダイヤモンド　ズズ]]さんもギャング
+
+▪️バレると就ける職業が限られてくるので&br()￤  ちゃんと隠してる人が多い。
+
+&color(#99cccc){&bold(){その後の雑談}}
+▪️[[ギャンボス>>四皇　シャンクズ]]と少し話したことを伝えたら&br()￤  会っても探るのは辞めた方がいいと忠告
+
+▪️[[ツルギ>>焦月　ツルギ]]に｢焦げ付きそう｣と言われたこと&br()￤  を引き摺っていたが最初のうちは相当な&br()￤  事しなければ大丈夫らしい。
+----
+&color(#99cccc){&bold(){占い結果}}
+｢仕事・人間関係・恋愛・総合｣  担当：[[ペトロ>>ペトロ　アルドベッグ]]
+
+&color(#99cccc){&bold(){仕事}}
+🃏戦車：目的を明確にした方が良いでしょう
+￤
+&color(#99cccc){&bold(){人間関係}}
+🃏吊られた男：何が自分の行動を制限するか&br()一度見直すべきだ。
+￤
+&color(#99cccc){&bold(){恋愛}}
+🃏皇帝：持ってる力とその使い方を考える時
+￤
+&color(#99cccc){&bold(){総合}}
+🃏審判：これまで辛かったことや､ 今までの&br()何かご自身に起こっていた事は１回終わって&br()いるから、まずここからどうするか。改めて&br()一から始めるならどうするかを考えましょう
+#endregion(ギャングの情報・占い結果)
+----
+#endregion
+#endregion(2月)
+//---------------------------------------------------------------------//
+
+#region(3月（#04~21）,close)3月（#04~21）
+
+#region(3月第1週目（3/01~02）,close)3月第1週目（3/01~02）
+----
+***03/01【#04】[[&font(#13C9CD){&icon_fa(fa fa-youtube-play)}　柑橘れもん 4日目>>https://www.youtube.com/live/Pq6Q3_jbz10]]
+▪️[[麻レコ>>麻SICK RECORDS]]出勤。&ruby(おおあさ){大麻}はギリと言われ｢&ruby(こあさ){小麻}｣に改名
+▪️霧の摩周湖の話を聞き空気を売ろうと思いつく
+▪️[[かける>>はが　かける]]さんと共に[[ユズリハ>>ユズリハ　シャーロット]]さんにドッキリ👓*
+▪️漂着した[[文殊セイジ>>文殊　セイジ]]さんと[[カニメイト]]の謎解き
+▪️[[歓迎指名手配>>https://twitter.com/STGR_RolePlay/status/1763816132878926155?t=crmu2BCEVvUi82qXjNd91g&s=19]]を見守った後レギオンで雑談🗞
+▪️この日､ メガネ仲間&infobox(title=３人,size=small,animation=fadein){はがかける・日之ぱちお・ぎちょうじょばーな}に会うことが出来た✨
+----
+***03/02【#05】[[&font(#13C9CD){&icon_fa(fa fa-youtube-play)}　柑橘れもん 5日目>>https://www.youtube.com/live/NEaEr4vhP8U]]
+▪️[[カジノ]]でほぼ同期の[[雪菱メラ>>雪菱　メラ]]さんと出会う
+▪️[[猫カフェ>>猫カフェ武蔵]]で[[松岡>>ハッピー　松岡]]さんから詐欺？と暴行を受ける
+▪️メラさんと一緒に､ [[ぴん子>>ろぜ柳　ぴん子]]さんの占いへ行く🔮
+▪️[[堕夜>>堕夜　だよ]]さんと1000万賭けた野球拳！ 無事勝利✨
+▪️話を聞いてメカニック業とバイクに興味を持つ
+
+#region(占い結果)
+占い内容 ｢商売で稼ぐにはどうしたらいいか｣
+
+&color(#99cccc){&bold(){結論}}｢ラルさんの真似をしてみてください｣
+￤
+&color(#99cccc){&bold(){詳細}}
+ラルさん喋り方と声を真似して披露した結果
+｢あとは見た目だけ｣と一言
+｢リスペクトがあるなら徐々に寄せていこう｣
+￤
+&color(#99cccc){&bold(){どんな事業か}}
+アパレル系・オシャレ✨お堅いものではない
+#endregion
+----
+#endregion(3月1週)
+//---------------------------------------------------------------------//
+
+#region(3月第2週目（3/05~10）,close)3月第2週目（3/05~10）
+----
+***03/05【#06】[[&font(#13C9CD){&icon_fa(fa fa-youtube-play)}　柑橘れもん 6日目>>https://www.youtube.com/live/fo3_O3nIsbQ]]
+▪️[[麻レコ>>麻SICK RECORDS]]出勤。[[菖蒲>>菖蒲　光樹]]さん来店⇢流れでバイク購入
+▪️[[川上たばこ店]]が怖い話を募集していたので提供
+▪️[[モンロー>>ボタリン　モンロー]]さんと[[ToY]]の漢字テストに挑戦 ! ✎💯
+▪️再び麻レコ出勤。デスマウンテンの空気と魔剣
+￤  キーホルダーガチャを売りたいという話をする
+▪️[[セイジ>>文殊　セイジ]]さん・[[イネヌコ]]さんとバットで殴り合う
+----
+***03/06【#07】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　柑橘れもん7日目>>https://www.twitch.tv/limone_teacher/v/2082785029]]
+▪️リサセン後､車を紛失してしまい&infobox(title=2人,size=small,animation=fadein){豆やん・多良里ずぅ}に拾われる
+▪️[[スタックしてた人>>刃牙　りえる]]を助けようとして仲良く落下
+￤ 無事お互い何とかなって解散。車も返ってきた
+▪️麻レコ出勤｡ ｢🔰マークを外す会｣で色々と貰う
+▪️外して早々人質になるが[[警察>ロスサントス警察]]が来ず哀れまれる
+▪️詰められた盗品売却。[[紀子>>隣　紀子]]さんのドレスを選ぶ
+----
+***03/08【#08】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　柑橘れもん8日目>>https://www.twitch.tv/limone_teacher/v/2084604577]]
+▪️[[ラル>>麻林　ラル]]さんが[[カレー屋>>KoKo七番屋]]を一人で回してたので就職
+▪️[[明味房>>ミンミンボウ]]の人と[[シャノール>>ShanaoR]]の開店イベントに参加
+▪️喉元にタトゥーを入れた後、連れ去られ人質に
+￤ 犯人は[[イカサンマ>>ネケ　二マス]]さん。またしても警察は来ず
+▪️[[ウメ>>松竹　ウメ]]さんに借りた車でB帯レース ! 60万獲得✨
+▪️[[ぞん美子>>ぞん　美子]]さんの付き添い⇢一緒にカレー屋体験
+----
+***03/09【#09】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　柑橘れもん9日目>>https://www.twitch.tv/limone_teacher/v/2085717855]]
+▪️[[鳥羽>>鳥羽　咲夜]]さんに誘われて[[カジノ]]イベントに参加する
+￤ 最後に&infobox(title=卓全員,size=small,animation=fadein){自分・はがかける・ぞん美子}でオールイン！全員勝利で２位に
+▪️カレー屋出勤。騒がしいレギオンで移動販売！
+▪️[[くるみ>>天近　くるみ]]さんにネイルをしてもらう(水色・黄色)
+▪️[[PYC]]の体験面接⇢早速、体験１日目を開始✨
+▪️&infobox(title=6人,size=small,animation=fadein){自分・ルウギャラクティカ・御庭野えんちょう・みららんど・パキち・イネヌコ}でエモート指スマ👍1位になり1000万GET
+----
+***03/10【#10】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　柑橘れもん10日目>>https://www.twitch.tv/limone_teacher/v/2086711571]]
+▪️PYC出勤。自転車レースに出る為、自転車購入
+▪️自転車レースに初参加 ! 1.2レース共にダウン..
+▪️再びPYC⇢紀子さんの車を代行カスタム✨
+▪️ラルさんの車修理｡DJブースに乗らせてもらう
+￤ &bold(){&color(#99cccc){これが俺のやりたい事かもしんねぇ}}と記念撮影
+▪️&infobox(title=4人,size=small,animation=fadein){自分・みららんど・パキち・小豆最中}を乗せた車がガソスタに突っ込んで爆発💥
+----
+#endregion(3月2週)
+//---------------------------------------------------------------------//
+
+#region(3月第3週目（3/12~16）,close)3月第3週目（3/12~16）
+----
+***03/12【#11】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　柑橘れもん11日目>>https://www.twitch.tv/limone_teacher/v/2088641947]]
+▪️[[PYC]]出勤｡[[ラル>>麻林　ラル]]さんの新曲がPYC専属BGMに✨
+▪️[[堕夜>>堕夜　だよ]]さんの人質になりつつ、片手間で野球拳！
+▪️体験３日目(最終日) なので[[ルウ>>ルウ　ギャラクティカ]]さんと少し面談
+▪️白で生きるか・黒で生きるか、悩んで走り回る
+▪️ルウさんのご好意で１週間体験延長することに
+
+#region(白で生きるか・黒で生きるか)
+&color(#99cccc){&bold(){白で生きるか・黒で生きるか}}
+
+&openclose(show=面談内容){&small(){ルウ：一点だけ確認したいのが&br()&space(3)今後黒市民になる予定があるかないか&br()柑橘：あーそれがマジで分かんないんすよね&br()&space(3)その懸念も正直あるっすね&br()ルウ：興味はあるってことね&br()柑橘：そうですね。それこそ｢いつ｣とかどうなるか&br()&space(3)分かんないんすよね俺も&br()ルウ：公務員の体験をしたいってよりも黒側に行く&br()&space(3)可能性の方が高いっていう？&br()柑橘：警察よりは高いかもしれないっす&br()ルウ：過去に退職者が出たことがあるんだけど先に&br()&space(3)辞めるっていう旨を伝えて退職を伝えてから&br()&space(3)そういうことをして頂く。&br()柑橘：それは勿論。こっそりとか絶対やらないっす&br()ルウ：万が一、れもんくんが免許証不所持で働いて&br()&space(3)いた場合、1週間の営業停止と1億円の罰金を&br()&space(3)支払わないといけないのね。その間に、また&br()&space(3)メカニックをやっている所を見つかると廃業&br()&space(3)になってしまう。&br()柑橘：そりゃそうっすよね。&br()ルウ：それを踏まえた上でうちで働きたいかどうか&br()&space(3)決めていただきたい。&br()柑橘：白いうちにみんなと一緒にメカニックしたい&br()&space(3)かもしんないっす&br()ルウ：本当に？&br()柑橘：はい。俺でよければ&br()ルウ：本当に大丈夫？&br()柑橘：ちょっとまって何回？笑そんなに聞くかな？&br()ルウ：可能性があるっていう中で、どうしても働き&br()&space(3)たいっていうのであればうちは歓迎なんだけ&br()&space(3)ど、ただルウとお約束して欲しいのが…}}
+----
+&color(#99cccc){&bold(){ルウさんとの約束}}
+万が一、黒の道に進みたいと思った時はすぐ&br()ルウさんに報告して｢退職したい｣という旨を&br()伝えること。
+
+&color(#99cccc){&bold(){それは絶対に約束できるっす}}と言い切ったが
+｢風に当たって来る｣と外へ飛び出す
+----
+&color(#99cccc){&bold(){10分程独り言}}
+▪️絶対迷惑をかけないようにするのは当たり&br()￤ 前なんだけど気持ちがやっぱり…
+
+▪️ルウさんに｢ギャングに入る｣と報告するの&br()￤ を想像して泣きそうになったと零す
+----
+&color(#99cccc){&bold(){PYCに戻る}}
+▪️｢やりたいっす…やっぱ、PYC｣
+
+▪️｢体験を延長して再度本採用を希望する｣か&br()￤ ｢体験を終了する｣か、の二択をルウさんに&br()￤ 与えられ、１週間体験を延長にすることに
+
+▪️改めて１週間後にお話をすることとなった
+#endregion
+----
+***03/13【#12】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　柑橘れもん12日目>>https://www.twitch.tv/limone_teacher/v/2089584831]]
+▪️[[PYC]]出勤。[[ホワイトデーの物産展>>物産展協会]]でお買い物
+▪️&infobox(title=PYCメンバー,size=small,animation=fadein){土場リグゼ・小豆最中・みららんど・パキち}と一緒に､ 初めての[[キャバクラ>>GoodNight]]✨
+▪️[[警察>>ロスサントス警察]]体験の書類審査が受かったことを報告する
+▪️物産展で買ったプレゼントを&infobox(title=PYCメンバー,size=small,animation=fadein){ルウギャラクティカ・小豆最中・みららんど・御庭野えんちょう}に！
+▪️昨日できたツーリングチーム(仮) に興味を持つ
+▪️[[ラピスりお>>ラピス　りお]]さんのパトカーフルカスを担当する
+----
+***03/14【#13】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　柑橘れもん13日目>>https://www.twitch.tv/limone_teacher/v/2090425436]]
+▪️[[葵井>>葵井　優]]くんのライブに参加。その後、初試乗会へ
+▪️[[PYC]]出勤。出張修理からのダウン⇢爆発の連鎖
+▪️[[みららんど>>みら　らんど]]さんからレモンカスタムの車を貰う 
+▪️堕夜さんと1000万賭けた野球拳！初の敗北 🙇
+▪️[[麻レコ>>麻SICK RECORDS]]出勤。[[てるみ>>淀川　てるみ]]さんと自販機巡りつつ雑談
+
+#region(てるみさんを後押し)
+&color(#99cccc){&bold(){てるみさんを後押し}}
+
+&color(#99cccc){&bold(){警察体験への後押し}}
+▪️話の流れで警察体験する旨を伝える&br()￤ ｢れもんさんが警察体験かぁ…｣
+
+▪️話を聞いていくと、てるみさんは警察体験&br()￤ の応募すらしたことが無く､ 🔰６日目から&br()￤ ギャングだったことを話してくれた。
+
+▪️今は完全に白市民なので警察体験は出来る&br()￤ らしいが、飲食店で働いている以上、自分&br()￤ が警察になることで黒市民が寄り付かなく&br()￤ なってしまう状況にはしたくないので悩ん&br()￤ でいるらしい。「上手くやる術はあっても&br()￤ ツッコまれる箇所ではある」と言う。
+
+▪️警察体験するように後押ししてみるが&br()￤ ｢ギャングの理不尽さを私は知ってるんで｣&br()￤ と言われて一旦ストップ。
+
+▪️過去に、[[友達>ひの　らん]]を助ける為に[[人>いわさき　そす]]を一発殴った&br()￤ 事に関して[[ギャング>anbrella(餡ブレラ)]]に詰められたらしい。
+
+▪️てるみさんが｢書類だけ送ってみる｣と言っ&br()￤ てくれたので警察体験の時期を被らせよう&br()￤ という提案をして、この話は一旦終了。
+----
+&color(#99cccc){&bold(){ギャングへの後押し}}
+▪️数分後、サイレン音を聞いたてるみさんが&br()￤ ｢久々にパトカーに追いかけ回されたい｣と&br()￤ 言い出し｢追いかける側になろうよ｣と一言
+
+▪️警察は忙しそう＆好きな時にチルれない。&br()￤ その点、犯罪者は好きな時にチルれるから&br()￤ てるみさんはギャングをしたかったらしい
+
+▪️それを聞いて｢まだやれんじゃない？｣&br()￤ ｢(ギャング) やりてぇんじゃねぇのかよ｣と&br()￤ 檄を飛ばし、焦げ付いた過去から厳しいと&br()￤ 塞ぎ込んでいる、てるみさんの背中を押す
+
+▪️しかし、入りたいギャングに必ずしも入れ&br()￤ る訳じゃない事・断られて次に行こうとし&br()￤ たら八方美人のように見えてしまう事を気&br()￤ にかけていた。
+
+▪️以前[[とあるギャング>IRiS]]に誘われたが、こちら&br()￤ の条件を提示した後に断られた経験があり&br()￤ その後、[[元ボス>山本　龍也]]の言伝を知って、その通り&br()￤ [[他>MOZU]]へ行ったら｢いい顔してんじゃねぇよ｣と&br()￤ 八方美人のように言われてしまったらしい
+
+▪️てるみさん曰く道理がどうであれギャング&br()￤ の言うことは正しい。この街の辛いとこ。
+
+▪️｢なら作るしかなくね？｣と、てるみさんに&br()￤ 言ったが｢出る杭は打たれるんです｣と即答&br()￤ 既に行動をした後だったようで、ある程度&br()￤ は色んな力がないと作るのは難しいという&br()￤ 結論に至ったようだ。
+
+▪️３時瞑想で就寝、この話は終わりとなった
+
+#endregion(てるみさんを後押し)
+----
+***03/16【#14】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　柑橘れもん14日目>>https://www.twitch.tv/limone_teacher/v/2092392782]]
+▪️[[パキち>>パキ　ち]]さんからランポ購入⇢カスタム完了✨
+▪️&infobox(title=PYCメンバー,size=small,animation=fadein){ルウギャラクティカ・御庭野えんちょう・パキち・小豆最中}と共に大喜利大会を観に行く
+▪️苦手な[[皇帝>>ニックス　リア]]さんと再会。警察体験する旨を報告
+▪️社用ヘリを購入してくれたので運転を楽しむ
+▪️白市民パスを発行⇢連れ去られて犬死コースへ
+▪️海に墜落してワタワタした後、サバゲー初参加
+----
+#endregion(3月3週)
+//---------------------------------------------------------------------//
+
+#region(3月第4週目（3/18~22）,close)3月第4週目（3/18~22）
+----
+***03/18【#15】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　柑橘れもん15日目>>https://www.twitch.tv/limone_teacher/v/2093572736]]
+▪️リサセンで[[鮫島フラム>>鮫島　フラム]]さんと出会う
+￤ 身体から出るリズム(ドラム) を聞かせてもらう 
+▪️リサセン⇢クラフト作業でほぼファームの日に
+▪️[[パキち>>パキ　ち]]さんの遅いチャリや新車を見て少しお話
+----
+***03/21【#16】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　柑橘れもん16日目>>https://www.twitch.tv/limone_teacher/v/2097153680]]
+▪️[[PYC]]出勤⇢[[警察>>ロスサントス警察]]体験が延期になったことを報告
+▪️試乗会で週２起床の[[葉時山バジル>>葉時山　バジル]]さんと出会う
+▪️お金をもらって新作のイエローパーカーを購入
+▪️[[もなぴ>>小豆　最中]]の｢族車バイクオークション｣に付き添う
+▪️募集を見つけ、[[ユズリハ>>ユズリハ　シャーロット]]さんの撮影に協力する
+▪️[[ToY]]で本人からしか買えないチョコを購入🍫
+----
+***03/22【#17】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　柑橘れもん17日目>>https://www.twitch.tv/limone_teacher/v/2097932137]]
+▪️PYC出勤⇢[[稲葉ゴン>>稲葉　ゴン]]さんの為に[[麻レコ>>麻SICK RECORDS]]を開ける
+▪️PYCに戻り、夢でスト６やりながら待機＆勧誘
+▪️[[ちの>>赤色　にごう]]さんが麻レコ退職。上に伝えてと頼まれる
+▪️値上がりを危惧してドラウグルを購入✨
+▪️もなぴに悪い人になって欲しくないと言われる
+
+#region(もなぴとの話)
+&color(#99cccc){&bold(){もなぴとの話}}
+#endregion(もなぴとのお話)
+----
+#endregion(3月4週)
+//---------------------------------------------------------------------//
+
+#region(3月第5週目（3/26~30）,close)3月第5週目（3/26~30）
+----
+***03/26【#18】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　浅スト6部>>https://www.twitch.tv/limone_teacher/v/2101897465]]
+▪️[[PYC]]出勤。ドラウグル＆ランポのカスタム完了
+▪️[[カレー屋>>KoKo七番屋]]さんの自販機巡り⇢[[A2]]で車修理
+▪️同意無く[[ドクターBONGORE>>無馬　かな]]さんに治療される
+￤ 金額はダイスの出目だと言われ、わちゃわちゃ
+▪️[[麻レコ>>麻SICK RECORDS]]・PYCに顔を出した後、&infobox(title=5人,size=small,animation=fadein){自分・御庭野えんちょう・イネヌコ・パキち・茶担えり}で牧場作業
+▪️PYCへ戻り、３時の世界瞑想まで楽しく過ごす
+----
+***03/27【#19】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　今日から警察体験！>>https://www.twitch.tv/limone_teacher/v/2102844997]]
+▪️PYC出勤⇢[[警察>ロスサントス警察]]体験へ行く為、一旦さようなら
+▪️体験2日目の同期[[アーサーケイジ>アーサー　ケイジ]]さんと出会う
+▪️体験1日目開始✨担当引き継がれつつ事件対応
+￤ 初検挙のお相手は[[イネヌコ]]さんだった⇢退勤
+▪️PYCで雑談。[[謎の薬>加藤　圧]]は公務員が回収すると聞く
+
+#region(事件対応の詳細)
+&color(#99cccc){&bold(){事件対応の詳細}}
+#endregion(事件対応の詳細)
+----
+***03/28【#20】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　警察体験2日目！>>https://www.twitch.tv/limone_teacher/v/2103801292]]
+▪️起きて早々ダウン⇢[[堕夜>堕夜　だよ]]さんの人質になる
+▪️体験2日目開始✨担当引き継がれつつ事件対応
+￤ 今回はSWAT体験の為、大型対応もすることに
+▪️初の大型で[[知り合いらしき人>丘猫　まる]]をダウンさせ満足
+▪️ギリギリまで大型対応した後、[[PYC]]に顔を出す
+
+#region(事件対応の詳細)
+&color(#99cccc){&bold(){事件対応の詳細}}
+#endregion(事件対応の詳細)
+----
+***03/30【#21】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　警察体験3日目！>>https://www.twitch.tv/limone_teacher/v/2105776867]]
+▪️体験3日目開始✨担当引き継がれつつ事件対応
+￤ 3日目なので小型犯罪は1人で行って良いらしい
+▪️オイルリグの対応中、[[面白犯罪>anbrella(餡ブレラ)]]に邂逅する[[🎬>https://clips.twitch.tv/GrotesqueConcernedTrollTBTacoLeft-noahFwXO_oMARCJ9]]
+▪️初日に放置が多かったことから体験延長が決定
+▪️退勤⇢[[PYC]]メンバーと５時の世界瞑想までチル
+
+#region(事件対応の詳細)
+&color(#99cccc){&bold(){事件対応の詳細}}
+#endregion(事件対応の詳細)
+----
+#endregion(3月)
+#endregion(3月5週)
+//---------------------------------------------------------------------//
+
+#region(4月（#22~29）,close)4月（#22~29）
+
+#region(夢を見た ⋯（4/01~02）,close)夢を見た ⋯（4/01~02） 
+----
+&color(#F54738){※※一日限りのエイプリルフールイベント※※&br()詳細はこちら⇢}[[ストグラシャッフルパージデー]]
+&small(){&color(#F54738){期間は4/1 0時～翌1時。2時以降の本島へは引き継がれません}}
+----
+***04/01【#??】[[&font(#13C9CD){&icon_fa(fa fa-youtube-play)}　ギャングNOLIMIT>>https://www.twitch.tv/limone_teacher/v/2106867226]]
+▪️起床。無線に入り、落ち合って自己紹介🏴‍☠️
+▪️初手ユニオンで警察も大暴れ⇢しっかり反省会
+▪️ライブしたい旨を[[ボス>キングスターダイヤモンド　ズズ]]からされ、指名を受ける
+▪️20億稼ぐのを目標としつつ､大型犯罪を行う🔫
+▪️完成した曲を聴いてライブの構成について話す
+
+#region(参加した大型犯罪・ライブの話)
+&color(#99cccc){&bold(){大型犯罪}}
+#endregion(参加した大型犯罪・ライブの話)
+----
+***04/01【#??】[[&font(#13C9CD){&icon_fa(fa fa-youtube-play)}　ギャングNOLIMIT>>https://www.twitch.tv/limone_teacher/v/2107643740]]
+▪️抗争があるらしく、ライブ開催が危うい状態に
+▪️強制瞑想の待機時間で｢シャンズズライブ｣開催
+▪️No.1ボス決定戦をテレビで観戦⇢惜しくも2位
+▪️みんなで集まり｢NOLIMIT解散式｣を執り行う
+▪️最後に記念ユニオン… 燃えるボスを眺めて眠る
+
+#region(シャンズズライブ・眠る前に⋯)
+&color(#99cccc){&bold(){シャンズズライブ}}
+#endregion(シャンズズライブ・眠る前に⋯)
+----
+&color(#F54738){※ここから先は本島で起きた出来事になります※}
+----
+▪️夢から目覚め､ [[PYC]]メンバーと夢の話をする💭
+▪️夢で[[ルウ>ルウ　ギャラクティカ]]さんと[[えんちょう>御庭野　えんちょう]]さんが付き合ってた
+￤ ようで､ [[もなぴ>小豆　最中]]と自分にも飛び火して一悶着‪💥
+￤ 夢の影響なのか、時たま口が悪くなってしまう
+▪️もなぴに急かされてデパートで耳と尻尾を購入
+▪️&infobox(title=女性陣,size=small,animation=fadein){ルウギャラクティカ・小豆最中}を巡った&infobox(title=２人,size=small,animation=fadein){イネヌコ・御庭野えんちょう}の殴り合いを見守り、就寝
+----
+&image(4/1イベント画像.jpg,x=298,y=170)
+----
+#endregion(4/1)
+//---------------------------------------------------------------------//
+
+#region(4月第1週目（4/03~04）,close)4月第1週目（4/03~04）
+----
+***04/03【#22】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　警察体験4日目！>>https://www.twitch.tv/limone_teacher/v/2109507767]]
+▪️体験4日目開始✨担当引き継がれつつ事件対応
+▪️同期の[[メグミ>メグミ・コシヤマ]]さんが[[警察>ロスサントス警察]]体験にやってきた🔫
+▪️面白銀行強盗[[こちハン>https://youtu.be/9tGlcfRXt4Y?si=SdEftN7VfT6-M944]]に参加した後､ 退勤
+▪️[[PYC]]に寄り、人助けしたり勧誘されつつチル！
+▪️[[もなぴ>小豆　最中]]の｢話したい事｣は後日聞くことになった
+
+#region(事件対応の詳細・勧誘)
+&color(#99cccc){&bold(){事件対応の詳細}}
+#endregion(事件対応の詳細・勧誘)
+----
+***04/04【#22.5】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　ほんとちょっとだけ>>https://www.twitch.tv/limone_teacher/v/2110464213]]
+▪️[[焦村家]]にゲーセンがあることを知る
+▪️[[ぴん子>ろぜ柳　ぴん子]]の助けを借りてスト6ができるように
+▪️那須さんをプレイしながらコーチング
+▪️那須さんのボス・[[アルバイト　ウェスカー>アルフォート　ウェスカー]]の仕事ぶりを見守る
+▪️[[PYC]]で[[ドンタカーキ>ドンタカーキ　ナツシロンゴ]]と遭遇
+//追記ありがとうございます！記載されていないところから順次追記して行きますので、記載された内容を体裁を整えたりする可能性があります。ご理解いただけると幸いです。(🍎)
+//マネジメントしていただきありがとうございます！あんまり勝手に追加していかない方がよさそうですかね💦自分の編集部分はいくらでもいじっていただいて大丈夫ですので、何か不都合をおかけしていることがあれば遠慮なくお伝えください！(TJ)
+----
+#endregion(4月1週)
+//---------------------------------------------------------------------//
+
+#region(4月第2週目（4/08~11）,close)4月第2週目（4/08~11）
+----
+***04/08【#22.5】[[&font(#13C9CD){&icon_fa(fa fa-youtube-play)}　衛星外チル日>>https://youtu.be/E45HgrdzuEM?si=WztckXvQ5xLo0ARJ]]
+▪️
+▪️
+▪️
+▪️
+▪️
+▪️
+----
+***04/09【#23】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　救急隊体験したい男>>https://www.twitch.tv/limone_teacher/v/2115138280]]
+▪️悲しみの警察不合格報告
+▪️魂「なんかわかるような気もするなあ笑」
+▪️[[てるみ>淀川　てるみ]]にここなカレーのジョブを外す連絡
+￤ [[ラル>麻林　ラル]]さん不在のため
+▪️麻シックでチル！
+▪️[[もなぴ>小豆　最中]]、[[リグゼ>土場　リグゼ]]、[[ズズ>キングスターダイヤモンド　ズズ]]さん、[[こはる>君島　こはる]]さん来店
+
+----
+***04/10【#24】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　心霊スポット行きたい>>https://www.twitch.tv/limone_teacher/v/2116030618]]
+▪️[[ルウ>ルウ　ギャラクティカ]]さんと話し、PYCに正式入社決定！
+￤ れもんくんは悩むタイプだから私が引っ張る！との言葉
+▪️PYCにて記念写真撮影📸
+▪️ラッキーホイールにて[[豆やん>豆　やん]]さんと再会
+▪️３時から麻シックにてチル
+▪️[[えだまめもん>えだまめもん]]、[[ズズ>キングスターダイヤモンド　ズズ]]さんご来店
+
+---- 
+***04/11【#25】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　初PYC会議>>https://www.twitch.tv/limone_teacher/v/2116838777]]
+▪️PYC会議に出席
+▪️社宅が人数に耐え切れずレギオンに集合したPYC社員に偶然囲まれる[[まるん>花沢　まるん]]さん
+▪️[[ルウ>ルウ　ギャラクティカ]]さんより麻シックの飲み物発注
+▪️[[オルカ>オルカ　トヴォロ]]さんより警察出張修理依頼！
+▪️麻シックにてチル🍃
+▪️[[ヘラシギ>ヘラ　シギ]]さんホスト対応に惨敗
+----
+#endregion(4月2週)
+//---------------------------------------------------------------------//
+
+#region(4月第3週目（4/16~21）,close)4月第3週目（4/16~21）
+----
+***04/16【#25.5】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　ストグラ25.5日目>>https://www.twitch.tv/videos/2121096160]]
+▪️無人島から一時帰還
+▪️PYCにて[[エスターク>エスターク・Z・ダークネス]]と恋愛雑談
+￤[[シュガピ>シュガー　ピーチ]]さんを狙って大変なことに！？
+▪️暇なので[[お花屋さん>ColorFlora]]へ🌸
+▪️店員のふりをして[[御花はな>御花　はな]]さんを驚かす
+▪️[[伊達咲>伊達咲　政宗]]さん、[[元難波>元難波　芽久未]]さん、[[ヤミー>ヤミー　エンデバー]]さんご来店
+▪️[[パキち>パキ　ち]]とだべって就寝！
+----
+***04/21【#26】[[&font(#13C9CD){&icon_fa(fa fa-twitch)} ︎ストグラ26日目>https://www.twitch.tv/videos/2125602340]]
+▪️無人島から帰還！[[もなぴ>小豆　最中]]がコメントをくれる
+▪️久々PYC🔧[[パンチャン>パン　チャン]]が体験中！？
+▪️[[ンゴ>ドンタカーキ　ナツシロンゴ]]が正社員になったと聞く
+▪️PYCチル、[[パキち>パキ　ち]]とグラモン雑談
+▪️[[偽物のPYC社員>れぷタイルルス　セルヴァル]]、[[ンゴ>ドンタカーキ　ナツシロンゴ]]の登場
+▪️雑談して就寝🌙
+----
+#endregion(4月3週)
+//---------------------------------------------------------------------//
+
+#region(4月第4~5週（4/24~30）,close)4月第4~5週（4/24~30）
+----
+***04/24【#27】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　チル>https://www.twitch.tv/limone_teacher/v/2128329677]]
+▪️お久しぶりの[[芝>芝　栄作]]さん、[[もなぴ>小豆　最中]]！！
+▪️[[らびすぴ]]運動会を逃したことを知る😢
+▪️[[ライアン>柳田　ライアン]]さん、[[銭形>銭形　やいち郎]]さんとスト6談義！
+▪️[[ヴァン>ヴァン　ダーマー]]さんと[[ルウ>ルウ　ギャラクティカ]]さんが同時に風邪を…？
+▪️警察出張修理🔧
+▪️&infobox(title=みんな,size=small,animation=fadein){柳田ライアン・銭形やいち郎・芝栄作・小豆最中}とライアンさん宅でスト6👊
+----
+***04/25【#28】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　歌のイベント間に合えば>https://www.twitch.tv/limone_teacher/v/2129127109]]
+▪️音楽会のチケットを[[まる>丘猫　まる]]からゲット！
+▪️[[元難波>元難波　芽久未]]さんをメカニックミスで殴り示談💰
+▪️[[ひろし>焼野原　ひろし]]さんから怪談イベントの話を聞く
+▪️「秘密の音楽会」で感動👏
+▪️[[イチボ>文殊　セイジ]]さんに脅されコンビニ強盗に…
+▪️[[ヘラシギ>ヘラ　シギ]]さん一時帰国を知る😢
+----
+***04/30【#29】[[&font(#13C9CD){&icon_fa(fa fa-twitch)} ︎ちょいチル>https://www.twitch.tv/limone_teacher/v/2133609764]]
+▪️[[えんちょう>御庭野　えんちょう]]さんから警察合格の報告！
+▪️[[ルウ>ルウ　ギャラクティカ]]さんから勤務について軽くお説教!?
+▪️[[ンゴ>ドンタカーキ　ナツシロンゴ]]、[[もなぴ>小豆　最中]]と川下り🦆
+▪️初対面の[[ニトぴ>職無　ニトロ]]さんのお誕生日祝い電話
+▪️[[ツムギ>黒髭　ツムギ]]ちゃんの🔰外し＆PYC入社祝い👏
+▪️PYCたまり場のお披露目会！
+----
+#endregion(4月4~5週)
+//---------------------------------------------------------------------//
+#endregion(4月)
+
+#region(5月（#30~39）,close)5月（#30~39）
+
+#region(5月第1週（5/1~5）,close)5月第1週（5/1~5）
+----
+***05/01【#30】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　ちょチ>https://www.twitch.tv/limone_teacher/v/2134453561]]
+▪️
+▪️
+▪️
+▪️
+▪️
+▪️
+----
+***05/02【#31】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　PYC & 麻シック>https://www.twitch.tv/limone_teacher/v/2135286558]]
+▪️
+▪️
+▪️
+▪️
+▪️
+▪️
+----
+#endregion(5月第1週)
+
+#region(5月第2週（5/6~12）,close)5月第2週（5/6~12）
+----
+***05/07【#32】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　PYC & 麻シック>https://www.twitch.tv/limone_teacher/v/2139559120]]
+▪️
+▪️
+▪️
+▪️
+▪️
+▪️
+----
+***05/08【#33】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　怖い話を聴きに行く>https://www.twitch.tv/limone_teacher/v/2140540160]]
+▪️
+▪️
+▪️
+▪️
+▪️
+▪️
+----
+***05/09【#34】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　PYC会議>https://www.twitch.tv/limone_teacher/v/2141261647]]
+▪️
+▪️
+▪️
+▪️
+▪️
+▪️
+----
+***05/11【#35】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　車のカスタムとステッカー確認！>https://www.twitch.tv/videos/2143066732]]
+▪️
+▪️
+▪️
+▪️
+▪️
+▪️
+----
+#endregion(5月第2週)
+
+#region(5月第3週（5/13~19）,close)5月第3週（5/13~19）
+----
+***05/15【#36】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　ステッカー貼れるぞ！>https://www.twitch.tv/videos/2143066732]]
+▪️一反木綿carに一反木綿ステッカーを貼る🚗
+▪️PYC体験の🔰[[アニメハ　イヨナ]], 🔰[[ぺん　ゆきや]]と出会う 
+▪️PYC→麻シックへ
+▪️[[タコマツ]]さん,[[もなぴ>>小豆　最中]], [[ヤミー>>ヤミー　エンデバー]]さんと話す🗣️
+▪️[[もなぴ>>小豆　最中]]と最近の悩みをお互い打ち明けた後、卓球へ🏓 2勝1敗で勝利
+▪️一反木綿carが強制瞑想により暴走(電線に絡まる) アワレ ちゃん([[丘猫　まる]])と遭遇
+----
+***05/19【#37】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　らびすぴのイベントに参加する>https://www.twitch.tv/videos/2149725142]]
+▪️🔰「[[狐火　こはく]]」さん「花山　令」さんと出会う 連絡先を交換
+▪️らびすぴ逃走中2に参加
+▪️草むらにずっとハイド エリア縮小もあるが草むらを転々と過ごす
+▪️ラジレコをともにしていたメンバーにらびすぴ逃走中の[[裏切者>>ヴァン　ダーマー]]がいると気づく
+▪️「[[安倍　霊明]]」さんにより確保 最後4人まで残留
+▪️流れでスト6する
+----
+#endregion(5月第3週)
+
+#region(5月第4週（5/20~26）,close)5月第4週（5/20~26）
+----
+***05/24【#38】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　久々に起床>https://www.twitch.tv/videos/2154003368]]
+▪️デイリー[[ヌコ>>イネ　ヌコ]]さんと会い、修理🐶🍋
+▪️ガソリンを入れるためガソスタへ行くも爆散
+▪️爆散治療のため病院へ行くと[[治>>神崎　治]]と会い、治の付けるヘルメットを話題にすると呪いを受けるのヘルメットだったため装着することに&openclose2(show=※){&br()￤ 治同様話題にしてもらわないと脱ぐことはできない}
+▪️[[猫魚あかり]]さん、[[兎依とい]]さんと連絡先を交換 といさんが話題にしてしまい、ヘルメットを譲渡
+▪️[[もなぴ>>小豆　最中]]と店番をしながらスト6の話で盛り上がる 途中から[[無馬　かな]]も参加
+▪️我 ILL服を制作
+----
+#endregion(5月第4週)
+
+#region(5月第5週（5/27~31）,close)5月第5週（5/27~31）
+----
+***05/29【#39】[[&font(#13C9CD){&icon_fa(fa fa-twitch)}　22時ぐらいまでの短め起床>https://www.twitch.tv/videos/2158215544]]
+▪️去勢後のメスタークと出会う
+▪️ニャンコ　スキーのお菓子をいただく
+▪️久しぶりに焦村屋へ行くも閉店していた
+▪️魔法少女カフェに久しぶりに来店
+▪️メイ・カイさんに[[てるみ>>淀川　てるみ]]に貰ったジャーニーをプレゼント
+▪️我 ILLのバイクを購入しようとするが後日に
+----
+#endregion(5月第5週)
+
+#endregion(5月)
+
+#region(6月（#40~47）,close)6月（#40~47）
+
+#region(6月第1週（6/1~7）,close)6月第1週（6/1~7）
+----
+***6/1【#40】[[&font(#13C9CD){&icon_fa(fa fa-youtube-play)}  chill day >>https://www.twitch.tv/videos/2160858315]]
+▪️起きてすぐ裁判があると知り市役所へ [[紫水>>紫水　コウ]], [[れぷタイルルス>>れぷタイルルス　セルバル]]と裁判を観戦
+▪️[[上田　さん]]が原告
+▪️久しぶりに[[だよ>>堕夜　だよ]]さんとの野球拳で負ける
+▪️[[もなぴ>>小豆　最中]]とシルバーインゴットを溶かす
+▪️ワンピースコスプレ集団と遭遇
+▪️我 ILLバイクを[[sunrise>>MC　sunrise]]さんからいただく
+----
+
+#endregion(6月第1週)
+
+#endregion(6月)
+
+#co(){
+エピソード用コピペ
+----(仕切り線)
+***mm/dd【#00】[[&font(#13C9CD){&icon_fa(fa fa-youtube-play)} 配信タイトル>>うらる]]
+▪️
+▪️
+▪️
+▪️
+▪️
+----(仕切り線)
+▪️の項目は基本6。5でも良いが、その場合#regionで詳細を書く場合のみ。見た目の幅に差がつきにくいようにして頂けると助かります。【流れの工程が多い▶▪️6つ】【日別・週別にも全て書ききれないのでを詳細で書きたい▶▪️5つと詳細Box】
+[▪️]以降の文字数は最大21文字。一度リンクを付けた名前などは以降リンクなしで大丈夫です。読みやすいように、お名前は[[>]]を付けて空白が出来ないようにお願いします。
+}
+//---------------------------------------------------------------------//
+**&color(#DEDFA1){&size(25){ア}}&font(19px,#99cccc){ーカイブ}
+#region(2月（#01~03）,close)2月（#01~03）
+&font(10px,#99cccc){※Twitchのアーカイブは60日経過すると視聴できなくなります。}
+#table_style(head=center:#A5D2D2:#fff){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|02/17|01|&font(#13C9CD){&icon_fa(fa fa-youtube-play)}[[初ストグラ参加　1日目>>https://www.youtube.com/live/WdOpYV5JlQc]]|普通自動車免許取得([[担当>隣　紀子]])･ホットドッグ屋就職･イベント『角刈りを捕まえろ』参加 w/[[隣紀子>隣　紀子]]|
+|02/23|02|&font(#13C9CD){&icon_fa(fa fa-youtube-play)}[[ストグラ参加　2日目>>https://www.youtube.com/live/tUWHOF8rW1Y]]|[[麻SICK RECORDS]]就職|
+|02/28|03|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ参加　3日目>>https://www.youtube.com/live/F1WBr26Ae10]]|レースライセンス･自動二輪免許･ヘリ免許取得([[担当>隣　紀子]])|
+#table_sorter{even=#FCFCE5,odd=fff}
+#endregion(2月)
+
+#region(3月（#04~21）,close)3月（#04~21）
+&font(10px,#99cccc){※Twitchのアーカイブは60日経過すると視聴できなくなります。}
+#table_style(head=center:#A5D2D2:#fff){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/01|04|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ参加　柑橘れもん 4日目>>https://www.youtube.com/live/Pq6Q3_jbz10]]|謎解き『店員Ｋの手紙』挑戦 w/[[文殊セイジ>文殊　セイジ]]|
+|03/02|05|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ参加　柑橘れもん 5日目>>https://www.youtube.com/live/NEaEr4vhP8U]]||
+|03/05|06|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ参加　柑橘れもん 6日目>>https://www.youtube.com/live/fo3_O3nIsbQ]]||
+|03/06|07|&font(#13C9CD){&icon_fa(fa fa-twitch)} [[ストグラ - 柑橘れもん7日目>>https://www.twitch.tv/limone_teacher/v/2082785029]]|脱初心者マーク|
+|03/08|08|&font(#13C9CD){&icon_fa(fa fa-twitch)} [[ストグラ - 柑橘れもん8日目>>https://www.twitch.tv/limone_teacher/v/2084604577]]|[[KoKo七番屋]]体験開始|
+|03/09|09|&font(#13C9CD){&icon_fa(fa fa-twitch)} [[ストグラ - 柑橘れもん9日目>>https://www.twitch.tv/limone_teacher/v/2085717855]]|[[PYC]]体験開始|
+|03/10|10|&font(#13C9CD){&icon_fa(fa fa-twitch)} [[ストグラ - 柑橘れもん10日目>>https://www.twitch.tv/limone_teacher/v/2086711571]]||
+|03/12|11|&font(#13C9CD){&icon_fa(fa fa-twitch)} [[ストグラ - 柑橘れもん11日目>>https://www.twitch.tv/limone_teacher/v/2088641947]]||
+|03/13|12|&font(#13C9CD){&icon_fa(fa fa-twitch)} [[ストグラ - 柑橘れもん12日目>>https://www.twitch.tv/limone_teacher/v/2089584831]]||
+|03/14|13|&font(#13C9CD){&icon_fa(fa fa-twitch)} [[ストグラ - 柑橘れもん13日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2090425436]]||  
+|03/16|14|&font(#13C9CD){&icon_fa(fa fa-twitch)} [[ストグラ - 柑橘れもん14日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2092392782]]|白市民パス発行| 
+|03/18|15|&font(#13C9CD){&icon_fa(fa fa-twitch)} [[少しだけストグラ - 柑橘れもん15日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2093572736]]||
+|03/21|16|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[少しだけストグラ - 柑橘れもん16日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2097153680]]||
+|03/22|17|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[少しだけストグラ - 柑橘れもん17日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2097932137]]||
+|03/26|18|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[浅すぎたストリートファイター6部 with みんとす、ぼんじゅうる、a1857、ネコおじ>>https://www.twitch.tv/limone_teacher/v/2101897465]]|[[3:28:03>>https://www.twitch.tv/limone_teacher/v/2101897465?sr=a&t=12483s]]ストグラ開始|
+|03/27|19|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[今日から警察体験！ - 柑橘れもん19日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2102844997]]|[[警察>ロスサントス警察]]体験開始|
+|03/28|20|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[警察体験2日目！ - 柑橘れもん20日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2103801292]]|| 
+|03/30|21|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[警察体験3日目！ - 柑橘れもん21日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2105776867]]||
+#table_sorter{even=#FCFCE5,odd=fff}
+#endregion(3月)
+//}
+
+#region(4月（#22~29）,close)4月（#22~29）
+&font(10px,#99cccc){※Twitchのアーカイブは60日経過すると視聴できなくなります。}
+#table_style(head=center:#A5D2D2:#fff){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|04/01|??|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[柑橘れもん ギャングNOLIMIT ã?“ã?®ãƒ¡ã日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2106867226]]|一日限りの『[[ストグラシャッフルパージデー]]』|
+|04/01|??|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[柑橘れもん ギャングNOLIMIT ã?“ã?®ãƒ¡ã日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2107643740]]|夢時間2時以降は本島|
+|04/03|22|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[警察体験4日目！ - 柑橘れもん22日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2109507767]]|警察体験延長の4日目･[[こちハン出演動画>>https://youtu.be/9tGlcfRXt4Y?si=d3xM7BM7Cp8_m7dt]]|
+|04/04|22.5|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[ほんとちょっとだけ - 柑橘れもん22.5日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2110464213]]||
+|04/08|22.5|&font(#13C9CD){&icon_fa(fa fa-youtube-play)}[[ストグラ　柑橘れもん22.5日目 - 衛星外チル日>>https://youtu.be/E45HgrdzuEM?si=WztckXvQ5xLo0ARJ]]|衛星外録画※メンバー限定公開|
+|04/09|23|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[救急隊体験したい男 - 柑橘れもん23日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2115138280]]||
+|04/10|24|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[心霊スポット行きたい - 柑橘れもん24日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2116030618]]|[[PYC]]正式就職|
+|04/11|25|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[初PYC会議 - 柑橘れもん25日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2116838777]]||
+|04/16|25.5|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[VCR RUST 4日目→ストグラ25.5日目 - 指示、ネタバレ、鳩禁止>https://www.twitch.tv/limone_teacher/v/2121096160]]|[[7:16:33>>https://www.twitch.tv/videos/2121096160?t=7h16m33s]]ストグラ開始|
+|04/21|26|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[VCR RUST 最終日 - 指示、ネタバレ、鳩禁止→ストグラ26日目>https://www.twitch.tv/videos/2125602340]]|[[9:20:56>>https://www.twitch.tv/videos/2125602340?t=9h20m56s]]ストグラ開始|
+|04/24|27|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[チル - 柑橘れもん27日目 - 鳩、指示禁>https://www.twitch.tv/limone_teacher/v/2128329677]]||
+|04/25|28|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[歌のイベント間に合えば - 柑橘れもん28日目 - 鳩、指示禁>https://www.twitch.tv/limone_teacher/v/2129127109]]||
+|04/30|29|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[ちょいチル - 柑橘れもん29日目 - 鳩、指示禁>https://www.twitch.tv/limone_teacher/v/2133609764]]||
+#table_sorter{even=#FCFCE5,odd=fff}
+#endregion(4月)
+
+#region(5月（#30~39）,close)5月（#30~39）
+&font(10px,#99cccc){※Twitchのアーカイブは60日経過すると視聴できなくなります。}
+#table_style(head=center:#A5D2D2:#fff){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|05/01|30|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[ちょチ - 柑橘れもん30日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2134453561]]||
+|05/02|31|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[PYC & 麻シック - 柑橘れもん31日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2135286558]]||
+|05/07|32|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[PYC & 麻シック - 柑橘れもん32日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2139559120]]||
+|05/09|33|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[怖い話を聴きに行く - 柑橘れもん33日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2140540160]]||
+|05/09|34|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[PYC会議 - 柑橘れもん34日目 - 鳩、指示禁>>https://www.twitch.tv/limone_teacher/v/2141261647]]||
+|05/11|35|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[車のカスタムとステッカー確認！ - 柑橘れもん34日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2143066732]]||
+|05/15|36|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[ステッカー貼れるぞ！ - 柑橘れもん35日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2146316243]]|PYC→麻シック|
+|05/19|37|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[らびすぴのイベントに参加する - 柑橘れもん36日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2149725142]]|らびすぴ逃走中2に参加|
+|05/24|38|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[久々に起床 - 柑橘れもん36日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2154003368]]|PYC|
+|05/29|39|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[22時ぐらいまでの短め起床 - 柑橘れもん37日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2158215544]]|PYC|
+#table_sorter{even=#FCFCE5,odd=fff}
+#endregion(5月)
+
+#region(6月（#40~47）,close)6月（#40~47）
+&font(10px,#99cccc){※Twitchのアーカイブは60日経過すると視聴できなくなります。}
+#table_style(head=center:#A5D2D2:#fff){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/01|40|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[chill day - 柑橘れもん38日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2160858315]]|PYC|
+|06/02|41|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[chill day - 柑橘れもん39日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2161676356]]|PYC|
+|06/04|42|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[早め起床 - 柑橘れもん39日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2163256153]]||
+|06/09|43|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[海上レストランの謎解きしたい - 柑橘れもん41日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2166915474]]||
+|06/18|44|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[久々鬼早番 - 柑橘れもん42日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2175055318]]||
+|06/21|45|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[鬼早番 - 柑橘れもん43日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2177641252]]||
+|06/22|46|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[鬼早番ショート - 柑橘れもん44日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2178551507]]||
+|06/23|47|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[合コン行くべ - 柑橘れもん45日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2179556506]]||
+#table_sorter{even=#FCFCE5,odd=fff}
+#endregion(6月)
+
+#region(7月（#48~）,close)7月（#48~）
+&font(10px,#99cccc){※Twitchのアーカイブは60日経過すると視聴できなくなります。}
+#table_style(head=center:#A5D2D2:#fff){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/08|48|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[マジ少し起床 - 柑橘れもん46日目 - 鳩、指示禁>>https://www.twitch.tv/videos/2190671899]]||
+#endregion(7月)
+
+
+#co(){アーカイブ用コピペ
+Twitch▶|月/日|番号|&font(#13C9CD){&icon_fa(fa fa-twitch)}[[配信タイトル>>配信URL]]|備考|
+YouTube▶|月/日|番号|&font(#13C9CD){&icon_fa(fa fa-youtube-play)}[[配信タイトル>>配信URL]]|備考|
+備考は[白]免許の正式名称、就職＆離職情報、イベント事など。
+[黒]初逮捕、剥奪日、加入日、トラブルなど。
+同じ動画の中で別のゲームを行った際は(1:55:00~別ゲー)などの記載をお願いします。枠が分かれる場合は(1枠目)など。
+【報告】現在、本人の変更なのかは分かりませんが配信タイトルがツイートと乖離していたり、21日目が3つあったり色々とおかしいので配信タイトルについては基本的に配信開始ツイート・または配信時点のタイトルとさせて頂きます。
+}
+**&color(#DEDFA1){&size(25){&icon_fa(fa fa-twitch)}}&font(#99cccc){⇢ &icon_fa(fa fa-youtube-play)}
+#region(Twitchのアーカイブは順次Youtubeのメンバー限定にて公開,close)（#07~20）
+&font(10px,#99cccc){※#7より前はTwitch移行前の為、上記アーカイブ欄から視聴して下さい。}
+#table_style(head=center:#A5D2D2:#fff){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|03/06|07|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ - 柑橘れもん7日目>>https://youtu.be/wh7hMKl6iPM?si=u5WvgWSoboxZ5seL]]||
+|03/08|08|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ - 柑橘れもん8日目>>https://youtu.be/vY5C20n3vFE?si=FnlADTd2MGtBUgBu]]||
+|03/09|09|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ - 柑橘れもん9日目>>https://youtu.be/2kQaGeUjm0A?si=cygTOz5fDhtl5092]]||
+|03/10|10|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ - 柑橘れもん10日目>>https://youtu.be/Rp1BAY7VU2g?si=TWengeYogzslySE3]]||
+|03/12|11|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ - 柑橘れもん11日目>>https://youtu.be/fhQlAsPtRoE?si=pA31sIEIKvuGgVN0]]||
+|03/13|12|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ - 柑橘れもん12日目>>https://youtu.be/-gxw5WNo_VU?si=MrgL1zlDS0xwRaB_]]||
+|03/14|13|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ - 柑橘れもん13日目>>https://youtu.be/iDl0rYZaQLU?si=X7PvxT0EYFWez0NW]]||
+|03/16|14|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ - 柑橘れもん14日目>>https://youtu.be/sw1T6vgiI3U?si=ykfT8J4v7C4ZEa2z]]||
+|03/18|15|&font(#13C9CD){&icon_fa(fa fa-youtube-play)} [[ストグラ - 柑橘れもん15日目>>https://youtu.be/du7gIH26YPQ?si=ncADAEiEnBKXWHrL]]||
+|03/21|16|&font(#13C9CD){&icon_fa(fa fa-youtube-play)}[[ストグラ - 柑橘れもん16日目>>https://youtu.be/WLltdC8fMuM?si=_A5eEzUBvlzylOtZ]]||
+|03/22|17|&font(#13C9CD){&icon_fa(fa fa-youtube-play)}[[ストグラ - 柑橘れもん17日目>>https://youtu.be/R9Tsljo5LRk?si=lZOQ7q3LIpKKcczw]]||
+|03/27|18|&font(#13C9CD){&icon_fa(fa fa-youtube-play)}[[ストグラ - 警察体験！柑橘れもん18日目>>https://youtu.be/2ssbsvOrccg?si=Piv1ob-wQpTGRBrP]]|3/26が飛んでいて19日目が18日目になっています|
+|03/28|19|&font(#13C9CD){&icon_fa(fa fa-youtube-play)}[[ストグラ - 警察体験！柑橘れもん19日目>>https://youtu.be/aaDRdROGx1U?si=fuImLoruSeZ6oOP6]]|以降、元配信と1日ずつズレが発生| 
+|03/30|20|&font(#13C9CD){&icon_fa(fa fa-youtube-play)}[[ストグラ - 警察体験！柑橘れもん20日目>>https://youtu.be/5A6FiRHvFy8?si=5bSbfV4KomzkkXKy]]||
+#table_sorter{even=#FCFCE5,odd=fff}
+#endregion
+
+*&font(25){&font(35px,#DEDFA1){ア}－カイブ 2025 -}
+***2025年
+#region(開く,close)
+#table_style(head=center:#99cccc){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考ほか|h
+|3/|49|[[配信タイトル>>配信URL]]||
+//|m/d|-|[[配信タイトル>>配信URL]]||
+//|※4/19|-|&bold(){ Twitch側：以降より100時間の保存制限が掛かるようになる。}|&bold(){※ダイジェストとアップロード合計での適用}|
+//|m/d|話数|[[配信タイトル>>配信URL]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#right(){&link_up(🍋TOPへ*｡)}

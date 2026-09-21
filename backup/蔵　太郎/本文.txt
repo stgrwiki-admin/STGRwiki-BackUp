@@ -1,0 +1,39 @@
+//&image(ここに画像のURLを入力,y=400)
+
+#table_color(#e6e6fa)
+|~名前|&ruby(くら　たろう){蔵　太郎}|
+|~出身地||
+|~誕生日|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|2023年09月03日 (&countup(2023/09/03,yd)経過)|
+|~職業||
+|~プレイヤー|御先蔵馬|
+|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/kuramaosk]]|
+|~配信場所|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@kuramaosk]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・情報を記述
+
+**エピソード
+***2023年
+#region(開く,open)
+****09/03　#1　[[お友達に呼ばれてロスサントスへやってきました>>https://youtu.be/_kgjFIZIqJA]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+
+#endregion(2023年)
+
+**アーカイブ
+***2023年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/09/03|1|[[お友達に呼ばれてロスサントスへやってきました>>https://youtu.be/_kgjFIZIqJA]]||
+//|mm/dd|n|[[配信タイトル>>URL]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

@@ -1,0 +1,176 @@
+//【botリンク回避したいもの】→言い回し変更 or インライン化（＆font(){対象の単語}で統一）処置。
+//---<header>------------------------------------------------------------------//
+&image(logo_abelia.png,x=200,y=200)
+#table_style(head=#9966CC:#FFFFFF){店名=center:b:#E0CCFF:#666}
+|~店名|~&icon_fa(fa fa-tag)|&ruby(アベリア){Abelia}|
+|~業種|~&icon_fa(fa fa-tag)|飲食店(バー)|
+|~開業日|~&icon_fa(fa fa-flag)|2023年10月26日|
+|~所在地|~&icon_fa(fa fa-map-marker)|7292番地|
+|~所属|~&icon_fa(fa fa-users)|[[無馬グループ]]|
+|マスター|BGCOLOR(#E0CCFF):COLOR(#666):~&icon_fa(fa-solid fa-user-tie)|[[鳥羽　咲夜]]|
+|オーナー|BGCOLOR(#E0CCFF):COLOR(#666):~&icon_fa(fa fa-user-secret)|[[無馬　かな]]|
+#size(50%){　}
+#region(目次を開く)目次
+#contents(fromhere=true,level=2)
+#endregion
+//---<基本情報>-------------------------------------------------//
+*&font(23){基本情報 }
+***&underdot(#9966CC,3px){&icon_fa(fa-solid fa-circle-info)&space(2)概要　}
+[[カジノオーナー>無馬　かな]]にバーの全権を任された[[鳥羽 咲夜>鳥羽　咲夜]]がマスターを務めるバー。
+-[[カジノ]]が提供するサービスの1つとして、カジノの改装グランドオープンにて一階へ併設。
+-「白市民でも手が届いて楽しめる」をテーマとしたメニュー、サービスを展開中。
+//
+***&underdot(#9966CC,3px){&icon_fa(fa-solid fa-circle-info)&space(2)由来　}
+「謙虚」「謙譲」&bold(){「強運」}の花言葉がある「アベリア」から。[[&icon_fa(fa-brands fa-twitter)>https://twitter.com/sakuyatobari/status/1742008989926519033]]
+&openclose2(show=＞ロゴ){&br()&blankimg(https://pbs.twimg.com/media/GYetJrVaUAAnicv?format=jpg,x=240,y=180)&br()}
+//
+***&underdot(#9966CC,3px){&icon_fa(fa-solid fa-bell-concierge)&space(2)サービス　}
+-従業員をイメージしたカクテルをメインに販売。
+-[[鳥羽>鳥羽　咲夜]]によるオリジナルカクテルの開発、販売サービスが受けられる。
+-市内の各飲食店と提携し、倍額で仕入れたフード商品をカクテル購入者に無償で提供。新商品等の宣伝も担っている。
+-ラッキーホイールのドリンク当たりで入手できる、カジノバーガー、カジノコーラは「カクテル交換権」として使える。
+//-オリジナルカクテルの宣伝をイベント会社「[[GoodbyeCompany>GoodbyeCircus]]（グッバイカンパニー）」に依頼予定。
+
+#right(){&link_up(🔝ページTOPへ)}
+//---<従業員情報>-------------------------------------------------//
+*&font(23){従業員情報}
+***&underdot(#9966CC,3px){&icon_fa(fa-solid fa-info-circle)&space(2)業務内容　}
+-[[カジノ]]内店舗の為、飲食の販売だけでなくカジノの業務内容にも従う。
+--バー業務だけでなく、カジノルールも答えられるようにする必要がある。
+//
+***&underdot(#9966CC,3px){&icon_fa(fa-solid fa-info-circle)&space(2)雇用情報　}
+-基本的に[[カジノ]]業務の延長である為、カジノの雇用規定に従う。
+-カジノ従業員内に BAR業務を専門で行う「BARスタッフ」という枠組みがあったが、現在は廃止、統合された。
+--これに伴い、BARスタッフ関係なくカジノ従業員全員が BAR業務を担当する。
+-&openclose2(show=当時のBARスタッフ){&nbsp(br,2)[[鳥羽　咲夜]]、[[イナ　イロハ]]、[[龍造寺　ケンシロウ]]}
+//専門スタッフ廃止に伴い、職業体験・退職者リスト、カジノページと重複する内容を削除しました。
+//
+***&underdot(#9966CC,3px){&icon_fa(fa-solid fa-sack-dollar)&space(2)給与形態　}
+-[[カジノ]]内店舗の為、基本的な給料制度はカジノに準ずるが、BAR独自の給与制度を取っている。
+-給与は、飲食の売上から支払われる。
+--内訳は、オリジナルカクテルは売った人に全額、従業員カクテルは売った人とモチーフとなった従業員へ半額ずつ。
+
+#right(){&link_up(🔝ページTOPへ)}
+//---<商品情報>-------------------------------------------------//
+*&font(23){商品情報}&icon_fa(fa fa-cocktail)
+#include(Abelia/販売中)
+
+**&icon_fa(fa-solid fa-martini-glass)&space(2)従業員カクテル
+鳥羽考案の[[カジノ]]従業員をイメージしたオリジナルカクテル。
+-販売数に応じてランクが変動し、販売価格や従業員へのバックが変動する。現在のランク上昇目安は100杯ごと。
+-販売開始価格は一律10万円。例外として無馬は500万スタート、鳥羽は100万スタート。
+//
+***&size(120%){&bgcolor(#9966CC){&nbsp()&font(#fff,90%){▷ 従業員カクテル一覧}&nbsp(5)}}
+#region(開く)閉じる
+#table_filter(){画像=show,提供日=hide,価格=show,紹介文=show,備考=show}
+#table_style(head=center:#96C:#FFFFFF){提供日=90%,価格=right:90%,依頼人=90%,紹介文=85%,備考=85%}
+|~画像|~商品名|~提供日|~価格|~紹介文|~備考|h
+|&blankimg(https://pbs.twimg.com/media/F9ZJvM_akAAblX_?format=jpg,x=40,y=67)|[[NASHIMA COCKTAIL>>https://twitter.com/sakuyatobari/status/1721012503038312684]]&br()&small(){&color(#AAAAAA){モチーフ>[[無馬 かな>無馬　かな]]}}|'23/11/04|500万円|カジノオーナーをイメージしたカクテル。&br()甘く爽やかでスパイシーな香り。&br()度数が高く美味しい危険な一杯。|実際に作成すると度数が40度になる危険な一杯。&br()なのに飲みやすく、夢の中で試飲した鳥羽は潰れ&br()た。&br()一時期、特定の&openclose2(show=ギャング){(餡ブレラ)}から人気を博していた。|
+|&blankimg(https://pbs.twimg.com/media/F9ZJxOfbAAAO6Ur?format=jpg,x=40,y=61)|[[TOBA COCKTAIL>>https://twitter.com/sakuyatobari/status/1721012503038312684]]&br()&small(){&color(#AAAAAA){モチーフ>[[鳥羽 咲夜>鳥羽　咲夜]]}}|'23/11/04|100万円|鳥羽咲夜をイメージしたカクテル。&br()花と桃の香りを感じる&br()女性にオススメの一杯です。|バイオレットと桃のリキュール、レモンジュース&br()を主に構成されている。飲みやすいがジンを使用&br()しているため意外と度数は高め。|
+|&blankimg(https://pbs.twimg.com/media/F9ZJzILaAAAEkQl?format=jpg,x=40,y=53)|[[UEDA COCKTAIL>>https://twitter.com/sakuyatobari/status/1721012503038312684]]&br()&small(){&color(#AAAAAA){モチーフ>[[上田 さん>上田　さん]]}}|'23/11/04|10万円|上田さんをイメージしたカクテル。&br()スパイシーでにぎやかで楽しい。&br()コーラベースの飲みやすい一杯です。|ゴールドテキーラとハニージンジャーをコーラで&br()割ったもの。レモン、パイン、チェリーを入れて&br()楽しさを演出。|
+//||YUZURIHA COCKTAIL&br()&small(){&color(#AAAAAA){モチーフ>[[ユズリハ シャーロット>ユズリハ　シャーロット]]}}||10万円|ユズリハをイメージしたカクテル。|現在作成中|
+#table_sorter{even=#FAF6FF,odd=#FFFFFF}
+#endregion
+//PLの朔夜さんがtwitterに上げている画像ですが、本人のスタンスから作品とみてとれるので、転載になる元データそのままアップロードではなく、ゲーム画面スクショ(切り抜きの許容範囲)に差し替えるorリンク表示に戻したいと考えてます。リンク切れが起こった場合の対象法として、①ゲーム内スクショに差し替え。②ご本人許可を得た上でのtwitterの高解像画像アップロード。で対応予定。
+**&icon_fa(fa-solid fa-champagne-glasses)&space(2)オリジナルカクテル
+鳥羽によるオリジナルカクテルの開発と制作、バーで1ヶ月販売される権利を購入できるサービス。
+-実際に夢の世界でも制作できるレシピが公表される。
+***&underdot(#9966CC,3px){◆&space(1)受注数　}
+-月5枠まで。（鳥羽のスケジュール次第）
+-特別な物は割増料金で枠外の追加対応を行っていたが、2024年からは枠内のみとなっている。
+***&underdot(#9966CC,3px){◆&space(1)価格　}
+-基本5000万円。
+-「白市民パス」利用者は半額サービス有。団体宛のものは白黒関係なく5000万で依頼できる。
+-繁忙期シーズンの受注は場合により値上がる可能性がある（最大2倍）[[価格詳細&icon_fa(fa-brands fa-twitter)>>https://twitter.com/sakuyatobari/status/1736459810802119023]]
+-5000万円はカクテルレシピの制作料であり、個々のカクテル代は都度料金となっている。
+***&underdot(#9966CC,3px){◆&space(1)取り扱い　}
+-基本的な販売期間は提供から１ヶ月間。
+-期間中は店頭に並ぶため誰でも購入することができる。
+-１ヶ月経過後は、関連者のみ「いつもの」と注文することで購入が可能。
+-その他、依頼者の意向やその時々のストーリーを重視した対応を取っている。
+//
+***&size(120%){&bgcolor(#9966CC){&nbsp()&font(#fff,90%){▷ オリジナルカクテル一覧}&nbsp(5)}}
+#region(開く)閉じる
+#table_style(head=center:#9966CC:#FFFFFF){依頼人=85%,契約日=85%,提供日=85%,契約金=right:90%,価格=right:90%,依頼人=90%,紹介文=85%,備考=85%}
+#table_filter(){画像=show,依頼人=show,契約日=hide,提供日=hide,契約金=hide,価格=hide,紹介文=show,備考=show}
+|~画像|~商品名|~依頼人|~契約日|~提供日|~契約金|~価格|~紹介文|~備考|h
+|&blankimg(https://pbs.twimg.com/media/F-I3dPsbUAAZOgc?format=jpg,x=40,y=63)|[[TORAMITORAO COCKTAIL>>https://x.com/sakuyatobari/status/1721000160925507758]]&br()&small(){&color(#AAAAAA){モチーフ>[[トラ美>なんば　てって]],[[トラ雄>街雄　サンリ]]}}|[[トラ雄>街雄　サンリ]]|'23/10/31|'23/11/04|1000万|10万円|トラ美さんとトラ雄さんの&br()二ヵ月記念モクテル。&br()あまずっぱくはじける炭酸が&br()印象的な一杯です。|好物であるシャインマスカットを添えた一杯。&br()お花は生花。|
+|&blankimg(https://pbs.twimg.com/media/F_XnAUTa4AARsC2?format=jpg,x=40,y=53)|[[MONROE COCKTAIL>>https://x.com/sakuyatobari/status/1726541212440825869]]&br()&small(){&color(#AAAAAA){モチーフ>[[ボタリン モンロー>ボタリン　モンロー]]}}|[[ボタリン モンロー>ボタリン　モンロー]]|'23/11/01|'23/11/19|1000万|10万円|ボタリンさんイメージのカクテル。&br()華やかながら飲みやすい一杯。|サングリア×ココナッツ風味。&br()ボタリンさんの好きなものを詰め込んだ一杯。|
+|&blankimg(Cocktail_Joker.png,x=40,y=55)|JOKER COCKTAIL&br()&small(){&color(#AAAAAA){モチーフ>[[ジョーカー>半沢　直ふぃ]]}}|[[ジョーカー>半沢　直ふぃ]]|'23/11/01|'23/11/19|1000万|10万円|ジョーカーさんをイメージしたカクテル。&br()ミントジンの涼やかな口当たりで&br()深みとキレのある一杯。|紫の服をイメージしたヴァイオレットリキュールをベースに、&br()緑の髪色をイメージしたミントチェリーを加えた一杯。|
+|&blankimg(https://pbs.twimg.com/media/GAQSvnJawAAAd_x?format=jpg,x=40,y=53)|[[KUZUSHIRO COCKTAIL>>https://x.com/sakuyatobari/status/1730529733295919359]]&br()&small(){&color(#AAAAAA){モチーフ>[[葛城 司>葛城　司]]}}|[[葛城 司>葛城　司]]|'23/11/02|'23/11/29|1000万|10万円|葛城さんをイメージしたカクテル。&br()焼酎とレモンを使った&br()ロスサントスの朝焼けのような一杯。|葛城さんが好きな焼酎をベースに&br()テキーラサンライズの手法にてグラデーションを表現。&br()綺麗な景色へと連れ出してくれた思い出を詰め込んだ一杯。|
+|&blankimg(https://pbs.twimg.com/media/GBYWOeEakAAiKTN?format=jpg,x=40,y=53)|[[RUU COCKTAIL>>https://x.com/sakuyatobari/status/1735600685646008816]]&br()&small(){&color(#AAAAAA){モチーフ>[[ルウ ギャラクティカ>ルウ　ギャラクティカ]]}}|[[ルウ ギャラクティカ>ルウ　ギャラクティカ]]|'23/11/05|'23/12/07|1000万|10万円|ルウさんをイメージしたカクテル。&br()星や月がめいっぱい入った&br()ギャラクシーな一杯。|レモンを加えることで青から紫へと変化するバタフライピーティー&br()を使用。月や星の飾りが沢山詰まった甘く飲みやすく爽やかな一杯。|
+|&blankimg(https://pbs.twimg.com/media/F_sPFOzb0AAxVFL?format=jpg,x=40,y=53)|[[UMEDDING COCKTAIL>>https://x.com/sakuyatobari/status/1727992384028643339]]&br()&small(){&color(#AAAAAA){モチーフ>[[ウメ>松竹　ウメ]],[[馬ウアー>ジャック　馬ウアー]]}}|[[GBC>GoodbyeCircus]]([[日々]])|'23/11/20|'23/11/22|&infobox(title=1億,trigger=hover,gravity=north,size=small){納期間近の依頼のため割増料金}|10万円|松竹 ウメさんとジャック 馬ウアーさんの&br()結婚式記念カクテル。この酔いが&br()永久にさめませんように。|特別に取り寄せた百年梅酒を使った一杯。|
+|&blankimg(https://pbs.twimg.com/media/GAQWiSvawAAH94V?format=jpg,x=40,y=53)|[[RION TEA COCKTAIL>>https://x.com/sakuyatobari/status/1730534319113032145]]&br()&small(){&color(#AAAAAA){モチーフ>[[海鈴 りおん>海鈴　りおん]]}}|[[海鈴 ナギ>海鈴　ナギ]]|'23/11/20|'23/11/29|&infobox(title=5000万,trigger=hover,gravity=north,size=small){割増料金&白市民割引}|10万円|ナギさんからりおんさんへ。&br()紅茶を使用した[[ペールノエル>Père Noël]]の&br()商品にも合う一杯です。|結婚三周年のお祝い品。ペールノエルの商品である&br()アールグレイの紅茶とアーモンドミルクで作られた一杯。&br()りおんさんの好物である苺の飾りや苺ジャムが加えられている。|
+|&blankimg(https://pbs.twimg.com/media/GCMokFPagAEHDT2?format=jpg,x=40,y=53)|[[ROGIA COCKTAIL>>https://x.com/sakuyatobari/status/1739279387604959702]]&br()&small(){&color(#AAAAAA){モチーフ>[[香月 ろぎあ>香月　ろぎあ]]}}|[[ヘルアン]]|'23/11/20|'23/12/22|&infobox(title=7000万,trigger=hover,gravity=north,size=small){黒市民価格:5千万 + 守秘契約:1千万 + チップ:1千万}|10万円|ろぎあさんをイメージしたカクテル。&br()柔らかで深みのある抹茶ミルクに&br()桜の香りを加えた一杯です。|ヘルアンをイメージした紫色の花が添えられている。|
+|&blankimg(https://pbs.twimg.com/media/GBYmVDGa8AAszr9?format=jpg,x=40,y=53)|[[VAN DA MARTINI>>https://x.com/sakuyatobari/status/1735617897396047988]]&br()&small(){&color(#AAAAAA){モチーフ>[[ヴァン ダーマー>ヴァン　ダーマー]]}}|[[堕夜 だよ>堕夜　だよ]]|'23/11/20|'23/12/08|5000万|10万円|ヴァンさんをイメージしたカクテル。&br()ヴェスパーマティーニのような&br()キレのある特別な一杯。|某映画から誕生したボンドマティーニをもじった一杯。&br()MOZUの皆様にはその愛と忠誠心に震えるほどの人気を博す。|
+|&blankimg(https://pbs.twimg.com/media/GCMmGHhaMAE97St?format=jpg,x=40,y=53)|[[ADAMAS>>https://x.com/sakuyatobari/status/1739276202546983363]]&br()&small(){&color(#AAAAAA){モチーフ>[[ヘルアン]]}}|[[香月 ろぎあ>香月　ろぎあ]]|'23/11/22|'23/12/24|2500万|10万円|ヘルアンさんをイメージしたカクテル。&br()カクテル名は「不屈の精神」&br()4月の誕生石のダイヤモンドの語源|なるべくシンプルでかっこよくという要望に沿った一杯。&br()緑のミントシロップを使った場合混ぜるとグレーに変化する。|
+|&blankimg(https://pbs.twimg.com/media/GDtoFg8bYAA0Fsb?format=jpg,x=40,y=53)|[[YUKI COCKTAIL>>https://x.com/sakuyatobari/status/1746103728246333858]]&br()&small(){&color(#AAAAAA){モチーフ>[[冬野 雪>冬野　雪]]}}|[[上田 さん>上田　さん]]|'23/12/15|'24/01/07|2500万|10万円|冬野 雪さんをイメージしたモクテル。&br()リンゴを使った白雪姫をイメージした&br()柔らかく雪のような一杯です。|幼さの残る雪ちゃんに合わせノンアルにて提供する一杯。&br()混ぜることでもっと綺麗な水色へ。&br()&openclose2(show=購入可能者){：[[安城 成>安城　成]]、[[白井 満太>白井　満太]]、[[mon D>mon　D]]（[[モチーフ者>冬野　雪]]の意向にて）}|
+|&blankimg(https://pbs.twimg.com/media/GEmJ68laYAA2bEt?format=jpg,x=40,y=52)|[[MAHO COCKTAIL>>https://x.com/sakuyatobari/status/1750081579752546728]]&br()&small(){&color(#AAAAAA){モチーフ>[[椎花 まほ>椎花　まほ]]}}|[[天草 蒼>天草　蒼]]|'24/01/15|'24/01/19|5000万|10万円|椎花さんをイメージしたカクテル。&br()華やかで愛らしく&br()いちごとさくらの優しい味わいの一杯です。|鳥羽さんの愛が詰まった甘くておいしい一杯。|
+|&blankimg(https://pbs.twimg.com/media/GEmQeDAbkAAzxZO?format=jpg,x=40,y=51)|[[ANJO COCKTAIL>>https://x.com/sakuyatobari/status/1750088780160331941]]&br()&small(){&color(#AAAAAA){モチーフ>[[安城 成>安城　成]]}}|[[冬野 雪>冬野　雪]]|'24/01/15|'24/01/23|5000万|10万円|安城さんをイメージしたモクテル。&br()冬から春に移り代わる頃のような、&br()爽やかでエネルギー溢れる一杯です。|花束をイメージした思いにあふれた一杯。&br()勿忘草と桜の花言葉は「私を忘れないで」と「あなたを忘れない」&br()&openclose2(show=購入可能者){：[[安城 成>安城　成]]、[[白井 満太>白井　満太]]}|
+|&blankimg(https://pbs.twimg.com/media/GEmLzuyaUAAs2q-?format=jpg,x=40,y=50)|[[DARK HERO COCKTAIL>>https://x.com/sakuyatobari/status/1750083654683111709]]&br()&small(){&color(#AAAAAA){モチーフ>[[DARK HERO>安城　成/アンナルイン]]}}|[[冬野 雪>冬野　雪]]|'24/01/15|'24/01/23|5000万|10万円|DARK HEROをイメージしたカクテル。&br()星とフルーツがしゅわっと弾ける一杯。|ノンアルのパチパチした目に楽しい一杯。思いが詰まっている。&br()&openclose2(show=購入可能者){：[[白井 満太>白井　満太]]、[[安城 成>安城　成]]}|
+|&blankimg(https://pbs.twimg.com/media/GEmNU_BaYAA0U8m?format=jpg,x=40,y=50)|[[ALLIN COCKTAIL>>https://x.com/sakuyatobari/status/1750085325660311734]]&br()&small(){&color(#AAAAAA){モチーフ>[[ALLIN]]}}|[[冬野 雪>冬野　雪]]|'24/01/15|'24/01/23|5000万|10万円|ALLINをイメージしたカクテル。&br()賽は投げられた。&br()全てを賭した瞬間の一杯。|グレーを再現する難易度が高い一杯。&br()飾られたダイスはキャンディーを使用。&br()&openclose2(show=購入可能者){：[[ALLIN]]メンバーのみ購入可}|
+|&blankimg(https://pbs.twimg.com/media/GFAAbvnbcAAnYIA?format=jpg,x=40,y=50)|[[KINOKO COCKTAIL>>https://x.com/sakuyatobari/status/1751900735464427603]]&br()&small(){&color(#AAAAAA){モチーフ>[[えぐち きの子>えぐち　きの子]]}}|[[ラグランジュ 光芝>ラグランジュ　光芝]]|'24/01/15|'24/01/28|2500万|10万円|きの子さんをイメージしたビアカクテル。&br()優しい甘みで華やかな香りをまとう&br()魅惑の一杯です。|きの子さんが好きなビールをベースにしたビアカクテルで&br()きのこの形をしたグラスに注いだキュートな一杯。|
+|&blankimg(https://pbs.twimg.com/media/GHLhH7JaMAATyyC?format=jpg,x=40,y=52)|[[GBC COCKTAIL>>https://x.com/sakuyatobari/status/1761717934966333797]]&br()&small(){&color(#AAAAAA){モチーフ>[[GBC>GoodbyeCircus]]}}|[[焼野原 ひろし>焼野原　ひろし]]|'24/01/16|'24/02/12|5000万|10万円|GBCをイメージしたカクテル。&br()初めて会った人とでも&br()共に飲み笑いあえる一杯。|レインボーカクテルを元にしたプース・カフェスタイルの一杯。&br()ストローで層ごとに飲むことで初めておいしく頂ける。|
+|&blankimg(https://pbs.twimg.com/media/GHLe9L0a8AAO5IW?format=jpg,x=40,y=48)|[[MANUTAROU COCKTAIL>>https://x.com/sakuyatobari/status/1761715550810779971]]&br()&small(){&color(#AAAAAA){モチーフ>[[ゴンザレス マヌ太郎>ゴンザレス　マヌ太郎]]}}|[[シュガー ピーチ>シュガー　ピーチ]]|'24/01/16|'24/02/12|5000万|10万円|マヌ太郎さんをイメージしたカクテル。&br()ウィスキー×桃の甘く&br()飲みやすく楽しい一杯です。|飾りのフルーツはマヌ太郎さんの角をイメージ。|
+|&openclose2(show=???){&blankimg(https://pbs.twimg.com/media/GFKUJ_JaMAEYEst?format=jpg,x=40,y=49)}|&openclose2(show=???){[[PROMISE>>https://x.com/sakuyatobari/status/1752626107881517506]]&br()&small(){&color(#AAAAAA){モチーフ>[[冬野 雪>冬野　雪]]}}}|&openclose2(show=???){[[安城 成>安城　成]]}|不明|不明|不明|非売品|&openclose2(show=???){あなたを待ち続ける。}|その物語の登場人物のみぞ知る秘密のカクテル。&br()&openclose2(show=???){安城さんが日本に帰ってしまう想い人へ送った一杯。&br()ハートのシャンパングラスにも思いが詰まっている。}&br()&openclose2(show=購入可能者){：[[冬野 雪>冬野　雪]]、[[安城成>安城　成]]}|
+|&anchor(KUMA CHAN COCKTAIL)&blankimg(https://pbs.twimg.com/media/GLNmM0saYAEmjYH?format=jpg,x=40,y=40)|[[KUMA CHAN COCKTAIL>>https://x.com/sakuyatobari/status/1779878653079547985]]&br()&small(){&color(#AAAAAA){モチーフ>[[くまさん じゃないよ>メリー　クロース]]}}|[[無馬 かな>無馬　かな]]|'24/02/20|'24/03/13|-|非売品|ふわふわかわいいくまちゃんを&br()イメージしたカクテルです。&br()あたたかみのある&br()チルな様子をイメージした一杯。|[[くまちゃん>メリー　クロース]]にのみに渡されたホワイトデーのお返し。&br()もこもこふわふわの立体ラテアート。&br()偽装恋愛のお礼を込めて|
+|&anchor(WHITE NASHIMA DAY COCKTAIL)-|WHITE NASHIMA DAY COCKTAIL&br()&small(){&color(#AAAAAA){モチーフ>[[無馬 かな>無馬　かな]]}}|[[無馬 かな>無馬　かな]]|'24/02/20|'24/03/13|-|非売品|皆様へ親愛をこめて。|オーナーが用意させたホワイトデー返礼品。&br()青を基調とした飾らないデザインにオーナーもご満悦。&br()ブルーキュラソー、生クリーム、カカオリキュールにて制作。|
+|-|BEAR COCKTAIL RED&br()&small(){&color(#AAAAAA){モチーフ>ホワイトデー、クマ}}|[[物産展協会]]|'24/02/20|'24/03/12|-|10万円|くまのグラスのカクテル(赤)|シロップをソーダで割り、クラッシュアイスで仕上げた一杯。&br()クマのグラスに入ったシンプルなノンアルドリンク。|
+|-|BEAR COCKTAIL YELLOW&br()&small(){&color(#AAAAAA){モチーフ>ホワイトデー、クマ}}|[[物産展協会]]|'24/02/20|'24/03/12|-|10万円|くまのグラスのカクテル(黄)||
+|-|BEAR COCKTAIL PINK&br()&small(){&color(#AAAAAA){モチーフ>ホワイトデー、クマ}}|[[物産展協会]]|'24/02/20|'24/03/12|-|10万円|くまのグラスのカクテル(桃)||
+|-|BEAR COCKTAIL PURPLE&br()&small(){&color(#AAAAAA){モチーフ>ホワイトデー、クマ}}|[[物産展協会]]|'24/02/20|'24/03/12|-|10万円|くまのグラスのカクテル(紫)||
+|-|BEAR COCKTAIL BLUE&br()&small(){&color(#AAAAAA){モチーフ>ホワイトデー、クマ}}|[[物産展協会]]|'24/02/20|'24/03/12|-|10万円|くまのグラスのカクテル(青)||
+|&blankimg(https://pbs.twimg.com/media/GKF5lIFawAAn-lc?format=jpg,x=40,y=48)|[[SYAN DA MARTINI>>https://x.com/sakuyatobari/status/1774833411536097578]]&br()&small(){&color(#AAAAAA){モチーフ>[[シャン ダーマー>四皇　シャンクズ]]([[ストグラSPD>ストグラシャッフルパージデー]])}}|-|'24/-/-|'24/04/03|-|10万円||我らがボスと素敵な仲間へ|
+|&blankimg(https://pbs.twimg.com/media/GLNiMowboAAFqUk?format=jpg,x=40,y=43)|[[SUGAR PEACH COCKTAIL>>https://x.com/sakuyatobari/status/1779874305310089336]]&br()&small(){&color(#AAAAAA){モチーフ>[[シュガー ピーチ>シュガー　ピーチ]]}}|[[ゆちゃ めろでぃ>ゆちゃ　めろでぃ]]|'24/-/-|'24/-/-|-|10万円||桃×ローズをメインに使ったノンアルコールで美味しい一杯|
+|&blankimg(https://pbs.twimg.com/media/GLNjxOzaQAEQlHW?format=jpg,x=40,y=54)|[[MAMEYAN COCKTAIL>>https://x.com/sakuyatobari/status/1779875979089023256]]&br()&small(){&color(#AAAAAA){モチーフ>[[豆 やん>豆　やん]]}}|[[鳥羽 咲夜>鳥羽　咲夜]]|'24/-/-|'24/-/-|-|10万円|豆やんをイメージしたカクテル。&br()一口目はのど越しよく甘く飲みやすく&br()後味は辛い大人の一杯です。|従業員カクテル予定だったが退職となったので謝礼として制作&br()夢を叶えて邁進する彼を心から応援して|
+|&blankimg(https://pbs.twimg.com/media/GLNoUZga8AACYB8?format=jpg,x=40,y=53)|[[KAMIYA COCKTAIL>>https://x.com/sakuyatobari/status/1779880981559922824]]&br()&small(){&color(#AAAAAA){モチーフ>[[Ueno Kamiya>Ueno　Kamiya]]}}|[[Ueno Kamiya>Ueno　Kamiya]]|'24/-/-|'24/-/-|-|10万円||ワイン酵母を使用した日本酒『Abysse』を使用した沼るほど&br()飲みやすい一杯。|
+|-|AKAGI COCKTAIL&br()&small(){&color(#AAAAAA){モチーフ>[[赤城　煉]]}}|[[赤城　煉]]|'24/-/-|'24/05/03||10万円|赤城煉さんをイメージしたカクテル。&br()甘く爽やかで飲みやすく誰もが好きになる&br()一杯です。|クランベリージュースとコーラを使ったキレのいい真っ赤な一杯。|
+|&anchor(DIAMOND COCKTAIL)&blankimg(https://pbs.twimg.com/media/GS_Hx1caoAAnUtx?format=jpg,x=40,y=50)|[[DIAMOND COCKTAIL>>https://x.com/sakuyatobari/status/1814888838730555758]]&br()&small(){&color(#AAAAAA){モチーフ>[[カジノ]]}}|[[鳥羽 咲夜>鳥羽　咲夜]]|'24/-/-|'24/07/20|-|-|カジノをイメージしたカクテル。&br()時間経過とともに色が変わる美しく刺激的な一杯です。|無馬さんイメージのチョコと青色が、時間経過で溶け鳥羽の紫へ。&br()上田さんカクテルのハニージンジャーの味わいを添えた&br()『初期カジノ組』をイメージした一杯|
+#table_sorter{even=#FAF6FF,odd=#FFFFFF}
+#endregion
+//
+#co(){^^^^^^^^^^^^^^^^^^^^^^^^^^
+日付は17~5を1日とするストグラ基準
+SYAN DA MARTINI以降のカクテルの詳細な情報 求
+
+^^^^^^^^テンプレ^^^^^^^^^^
+|&blankimg(~~~url~~~,x=40,y=50)|[[~~~カクテル名~~~>>~~~twitterURL~~~]]&br()&small(){&color(#AAAAAA){モチーフ>[[~~~人物~~~]]}}|[[~~~依頼人~~~]]|'24/-/-|'24/-/-|~万|10万円|~~~紹介文~~~|~~~備考~~~|
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+PLの朔夜さんがtwitterに上げている画像ですが、本人のスタンスから作品とみてとれるので、転載になる元データそのままアップロードではなく、ゲーム画面スクショ(切り抜きの許容範囲)に差し替えるorリンク表示に戻したいと考えてます。リンク切れが起こった場合の対象法として、①ゲーム内スクショに差し替え。②ご本人許可を得た上でのtwitterの高解像画像アップロード。で対応予定。
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^}
+//
+**メニュー写真
+#region(従業員カクテル)&bold(){従業員カクテル}
+&blankimg(従業員カクテル.webp,x=400,y=225)
+#right{TwiX@2023/10/28}
+#endregion()
+
+#region(オリジナルカクテル)&bold(){オリジナルカクテル}
+&blankimg(オリジナルカクテル_23-11-20.webp,x=400,y=225)
+#right{TwiX@2023/11/20}
+
+&blankimg(オリジナルカクテル_23-11-22.webp,x=400,y=225)
+#right{TwiX@2023/11/22}
+
+&blankimg(オリジナルカクテル_23-12-01.webp,x=400,y=225)
+#right{TwiX@2023/12/01}
+
+&blankimg(オリジナルカクテル_24-01-26.webp,x=400,y=225)
+#right{TwiX@2024/01/26}
+#endregion()
+
+#right(){&link_up(🔝ページTOPへ)}
+//---<沿革>-------------------------------------------------//
+*沿革
+***&link_anchor(id_83183851,pageid=823){カジノ}へ
+
+//---<交流>-------------------------------------------------//
+*情報提供・編集相談
+追加してほしいエピソードや修正・削除してほしい内容があればこちらにコメントをお願いします。
+【コメントの履歴は[[こちら>>Abelia/コメント欄]]】
+
+#pcomment(title_name=,1,Abelia/コメント欄,reply,enableurl,new)
+&aname(commentbtm)
+
+#right(){&link_up(🔝ページTOPへ)}

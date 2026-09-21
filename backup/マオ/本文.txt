@@ -1,0 +1,55 @@
+//&image(ここに画像のURLを入力,y=300)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|&ruby(まお){マオ}|
+|~出身地||
+|~誕生日|不明&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|2023年09月06日 (&countup(2023/09/06,yd)経過)|
+|~職業||
+|~プレイヤー|kaka|
+|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/kaka_024]]|
+|~配信場所|&font(#DA1725){&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kaka_024]]}|
+|~別キャラクター|[[加賀　イズミ]]|
+　
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・弟分の[[のり　まき]]と日本からロスサントスに逃げてきた元殺し屋。
+・彼の事は「のり」と呼んでいる。
+
+**エピソード
+***2023年
+#region(開く,open)
+****9/6 [[1Day ポンコツ犯罪者「マオ」>>https://www.twitch.tv/videos/1918502317]]
+#region(募集中,open)
+・エピソード募集中
+#endregion
+
+#endregion(2023年)
+//
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+***2023年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/09/06|1|[[1Day ポンコツ犯罪者「マオ」>>https://www.twitch.tv/videos/1918502317]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

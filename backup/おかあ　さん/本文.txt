@@ -1,0 +1,96 @@
+&image(おかあさん01.png,y=300)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|&ruby(){おかあ　さん}　※１|
+|~出身地|ここに出身地を入力|
+|~誕生日|03月18日 |
+|~転入日|2023年08月15日 (&countup(2023/08/15,yd))|
+|~職業|バス運転手（仮）|
+|~プレイヤー|MARUTAKE(RIDDLE)|
+|~告知等|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>>https://twitter.com/A_Marutake]]|
+|~配信場所| &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/marutake_a]]|
+|~別人格|[[ボケモン　マスター]]|
+#region(変装・変名など　※１)
+金田　守
+大悪党　たけし
+天才若手シンガー　Aho
+ボー・ボー
+さかな　さん
+天才軍司　諸葛孔明
+天才軍師　諸葛孔明
+水戸　拷問
+ヤク　ミツユ
+かまど　すみたろう
+かまど　すみじろう
+私派　無罪
+私派　禿手内
+山岸　山岸
+お金配り　おばさん
+スーパーハイディング強盗　Aho
+前科　十犯
+前科　二十犯
+前科　百犯
+アイン・シュタイソ
+ャ・クザ
+決め　られない
+なゆ　なゆ
+レンタル彼氏の　レンタルたけし
+た　けし
+俺は　早いぞ
+山田　陽介
+坂下　忍
+投資信託　Aho
+情報　商
+イン・サイダー
+#endregion
+
+
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+**基本情報
+・情報を記述
+
+**エピソード
+//***2023年
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+・エピソード募集中
+//#endregion
+//
+//#endregion(2023年)
+//
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+***2023年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/08/15|1|[[雑談→ストグラに入ってみる>>https://www.twitch.tv/videos/1899334734]]&br()[[ストグラに入ってみる>>https://www.twitch.tv/videos/1899381126]]&br()[[ストグラに入ってみる（三枠目)>>https://www.twitch.tv/videos/1899411999]]|配信が途切れたため&br()三枠ある。|
+|2023/08/16|2|[[2日目 ストグラしてみる>>https://www.twitch.tv/videos/1900257554]]||
+|2023/08/19|3|[[ストグラ3日目>>https://www.twitch.tv/videos/1902853778]]||
+|2023/08/20|4|[[ストグラやります Aho>>https://www.twitch.tv/videos/1903777492]]&br()[[ストグラやります Aho(2枠目)>>https://www.twitch.tv/videos/1903907055]]|配信が途切れたため&br()2枠ある。|
+|2023/08/21|5|[[ストグラ5日目 犯罪をしたいです>>https://www.twitch.tv/videos/1904617967]]&br()[[ストグラ5日目 犯罪をしたいです(2枠目)>>https://www.twitch.tv/videos/1904762303]]|配信が途切れたため&br()2枠ある。|
+|2023/08/23|6|[[新エレアコ音設定→ストグラ>>https://www.twitch.tv/videos/1906322958]]&br()[[新エレアコギター音設定→ストグラ(2枠目)>>https://www.twitch.tv/videos/1906490345]]|配信が途切れたため&br() 2枠ある。|
+|2023/08/25|7|[[ストグラをしますよ>>https://www.twitch.tv/videos/1908045636]]&br()[[ストグラをしますよ(2枠目)>>https://www.twitch.tv/videos/1908045636]]|配信が途切れたため&br()2枠ある。|
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

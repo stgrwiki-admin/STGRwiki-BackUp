@@ -1,0 +1,52 @@
+//|&image(ここに画像のURLを入力,y=200)|
+
+#table_color(#e6e6fa)
+|~名前|&ruby(にごむら　ごんざぶろう){&this_page()}|
+|~出身地|-|
+|~誕生日|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|2023/08/01（&countup(2023/08/01,yd)経過）|
+|~職業|-|
+|~プレイヤー|にごんご|
+|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/nigongo25]]|
+|~配信場所|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/nigongo25/about]]& &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@HappyNigongo]]|
+|~別キャラ|[[赤色　にごう]]|
+//
+
+&aname(目次1,option=nolink){}
+#region(目次,open)
+目次
+#contents(level=2)//数字(1～5)は見出しの前の*の数をどこまで表示するか
+#endregion//目次
+//
+
+**基本情報
+・目が覚めたら少女の姿だった異世界転生おじさん。 見知らぬ土地ロスサントスで、人生エンジョイ始めます。
+//
+
+**エピソード
+***2023年
+****08/01 [[DAY1✌転生(元)おじ、人生エンジョイ始めます>>https://www.twitch.tv/videos/1887288746]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+
+#right(){&link_aname(目次1){△目次へ}}
+//
+
+**アーカイブ(Twitch)
+//期限切れ
+//#region(開く,close)
+//|~配信日|~日数|~配信タイトル|h
+//|2023/00/00|1日目|「[[タイトル>>URL]]」|
+//#endregion//期限切れ
+//
+アーカイブ※60日経過すると視聴できなくなります
+#region(開く,open)
+#table_color(#e6e6fa)
+|~配信日|~DAY|~配信タイトル|h
+|2023/08/01（&countup(2023/08/01,d)日経過）|1|[[DAY1✌転生(元)おじ、人生エンジョイ始めます>>https://www.twitch.tv/videos/1887288746]]|
+#endregion//アーカイブ
+//
+
+
+#right(){&link_aname(目次1){△目次へ}}

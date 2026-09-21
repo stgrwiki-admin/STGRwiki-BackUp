@@ -1,0 +1,69 @@
+&image(鳴海　優花2.png,y=500)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|&ruby(なるみ ゆうか){鳴海　優花}|
+|~出身地||
+|~誕生日|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|2023年08月28日 (&countup(2023/08/28,yd)経過)|
+|~職業|&s(){[[かしりん　ドッグカフェ>かしりん]]}|
+|BGCOLOR(#eebbcb):COLOR(#80c8ef):~プレイヤー|なるみゆう|
+|BGCOLOR(#eebbcb):COLOR(#80c8ef):~告知等|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/narumiyu]]|
+|BGCOLOR(#eebbcb):COLOR(#80c8ef):~配信場所|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@narumiyu]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/763ch]]|
+|BGCOLOR(#eebbcb):COLOR(#80c8ef):~別キャラ|[[大喜久　なる男]]&br()[[トントコ　トンコ]]|
+　
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・犬カフェで働く女性。まったりと市民と交流しスローライフを謳歌している。
+
+・[[犬カフェ>かしりん]]が閉店したことにより「犬が本当に好き」ということに気が付き、ほかの街で犬カフェをやるためにロスサントスを去った。
+
+
+**エピソード
+//***2023年
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+・エピソード募集中
+//#endregion
+//
+//#endregion(2023年)
+//
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+Twitchで配信後You Tubeに編集されたアーカイブをアップするスタイル
+その際にタイトル変更及びその日の思い出や感想が概要欄に記載される
+***2023年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~&font(#6441A4){&icon_fa(fa fa-twitch)}配信タイトル|&font(#DA1725){&icon_fa(fa fa-youtube-play)}アーカイブ|~備考|h
+|2023/08/28|1|[[新しいキャラでまったり街を楽しみます>>https://www.twitch.tv/videos/1910719920]]|[[楽しい事を探しに来た！>>https://youtu.be/xz6gfyWTUpQ?si=O0qTo4O-gZ9T6tGC]]||
+|09/07|2|[[新しいキャラでまったり街を楽しみます>>https://www.twitch.tv/videos/****]]|[[犬カフェとの出会い>>https://youtu.be/_JJUnow7AeM?si=-fAYh14BsIXkStWX]]||
+|09/11|3|[[新しいキャラでまったり街を楽しみます>>https://www.twitch.tv/videos/****]]|[[ひとりで営業できるもん>>https://youtu.be/bYZryslxi20?si=Cf8WZs9ATKqWLvxm]]||
+|09/13|4|[[新しいキャラでまったり街を楽しみます>>https://www.twitch.tv/videos/****]]|[[愉快な集団にてんてこ舞いな犬カフェ>>https://youtu.be/f6z27QXEdqU?si=Y5eI8BNXJh0nY8Ms]]||
+|09/15|5|[[新しいキャラでまったり街を楽しみます>>https://www.twitch.tv/videos/****]]|[[おともだちができました💖>>https://youtu.be/TUGMusjul4c?si=Dg-0yD6I8taSMBcS]]||
+|09/17|n|[[新しいキャラでまったり街を楽しみます>>https://www.twitch.tv/videos/1927085363]]|[[(タイトルを記載)>>URL]]||
+|09/18|n|[[新しいキャラでまったり街を楽しみます>>https://www.twitch.tv/videos/1928657052]]|[[(タイトルを記載)>>URL]]||
+|09/19|n|[[新しいキャラでまったり街を楽しみます>>https://www.twitch.tv/videos/1929487702]]|[[(タイトルを記載)>>URL]]||
+|09/21|n|[[新しいキャラでまったり街を楽しみます>>https://www.twitch.tv/videos/1931211940]]|[[(タイトルを記載)>>URL]]||
+|09/29|n|[[新しいキャラでまったり街を楽しみます>>https://www.twitch.tv/videos/1938054400]]|[[(タイトルを記載)>>URL]]||
+
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

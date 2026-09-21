@@ -1,0 +1,63 @@
+//&image(ここに画像のURLを入力,y=300)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|&ruby(にゅー　かまー){ニュー　カマー}|
+|~出身地|ロシア|
+|~誕生日|1970年01月08日 (&countup(1970/01/08,y)歳)|
+|~転入日|2023年08月11日 (&countup(2023/08/11,yd))?|
+|~職業|未定|
+|~プレイヤー|こるぺん|
+|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/kolupen?s=21&t=-8YIYpZ2PXN8UP4X9hk8Zw]]|
+|~配信場所(※)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kolu_pen]]|
+|~動画・アーカイブ(※)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/c/%E3%81%93%E3%82%8B%E3%81%BA%E3%82%93]]|
+|~別キャラ|[[鳥野　ぎん]]&br()[[さ　び]]&br()[[のり　まき]]&br()[[猿山　ジン]]|
+(※)現在配信外でのみ活動されているキャラクターのため、
+配信場所と動画・アーカイブのリンクは予定のものとなります。
+
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+**基本情報
+※キャラクター削除されている。
+
+・2023/08/11に警察体験をするために警察署に現れたキャラの濃いオカマ
+・IDカードとドライバーライセンスの氏名は「女　王」、出身地と誕生日もカードに記載されていた。
+・男性のことは「○○（名前）ボーイ」と呼ぶ。
+・情報募集中
+
+
+
+**エピソード
+***08/11　配信外　Day1？
+#region(開く,open)
+・警察体験のために警察署に現れる。[[赤城　煉]]、[[二十日　ネル]]、[[ハク　ナツメ]]らの視点を参照
+・エピソード募集中
+#endregion
+
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+
+**アーカイブ
+配信外の活動のため無し
+
+//***2023年
+//#region(開く,open)
+//#table_style(head=center:#e6e6fa){配信日=right,#=center}
+//|~配信日|~#|~配信タイトル|~備考|h
+//|2023/mm/dd|1|[[配信タイトル>>ここに配信URLを入力]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+//#table_sorter{even=#f7f7f7,odd=fff}
+//#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

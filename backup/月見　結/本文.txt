@@ -1,0 +1,325 @@
+#slide_img(auto=4,position=center,width=290,height=435){月見ゆい.png,正装.png}
+//slide_imgを使用する場合、同じ比率の画像を使用しないと歪むため、2:3で揃っている画像群に差し替えました。
+//
+#table_style(head=#e6e6fa:#666666)
+|~名前|~&icon_fa(fa fa-user)|&ruby(つきみ){月見}　&ruby(ゆい){結}|
+|~出身地|~&icon_fa(fa fa-map-marker)|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|2005年01月11日 (&countup(2005/01/11,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane)|2023年05月23日 (&countup(2023/05/23,yd)経過)|
+|~職業|~&br()&br()&icon_fa(fa fa-burger)|&nbsp(3)&s(){ギャング 【[[ALLIN]]】} &small(){2023/09/03〜2024/02/17} &nbsp(br,7)&small(){&s(){同　underboss} 2023/10/18～2024/01/07}&br()&bold(){ハンバーガー屋 【[[アイアンバーガー]]】 店員} &small(){2023/12/30〜}|
+|~所属|~&icon_fa(fa fa-users)|&s(){ギャング【[[ALLIN]]】}|
+|~TwiX|~&icon_fa(fa fa-tag)|@月見結|
+|BGCOLOR(#666666):~&color(#e6e6fa){プレイヤー}|BGCOLOR(#666666):~&color(#e6e6fa){&icon_fa(fa fa-heart)}|狗神ゆき|
+|BGCOLOR(#666666):~&color(#e6e6fa){告知等}|BGCOLOR(#666666):~&color(#e6e6fa){&icon_fa(fa fa-bullhorn)}|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X&space()(旧&font(#1da1f2){Twitter})}>>https://twitter.com/U0u0K]]|
+|BGCOLOR(#666666):~&color(#e6e6fa){配信場所}|BGCOLOR(#666666):~&color(#e6e6fa){&icon_fa(fa fa-gamepad)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@yukichannel0111]] / &font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/inugamiyuki]]|
+|~別キャラ|~&icon_fa(fa fa-user-plus)|[[まりー　あんとあー]] / [[ひとや　すみ]]|
+// 衛星外はノーカン（見つかっちゃった）とのことなので、転入日を5/22→5/23に修正しました
+
+&aname(目次)
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*&size(25){&color(#e6e6fa){基}}本情報 &size(25){&color(#ffff66){&icon_fa(fa fa-moon-o)}}
+#div(width=250px,bgcolor=#e6e6fa){&font(b,,130%){　基本情報}}//人柄、人間関係など
+//-よく笑う
+-車の知識が豊富。
+-日本でレーサーをしていた。
+-盗難した高級車をコレクションしたガレージを所持している。
+-[[伊達咲政宗>>伊達咲　政宗]]とは幼馴染の関係。
+
+#div(width=250px,bgcolor=#e6e6fa){&font(b,,130%){　能力}}
+-車の運転が得意。
+--ALLINの加入試験を担当した無馬からは、レーサーのような綺麗な運転だがチェイス向きの運転ではないと指摘されたため課題となった。
+
+#div(width=250px,bgcolor=#e6e6fa){&font(b,,130%){　嗜好}}
+-犯罪で稼いだお金は大好きな車のカスタムに使っている。
+-お気に入りポーズは体育座り（みんなのお顔が見えるから）とエッヘン（勝負に勝った時）
+-好きな大型ミッションはオイルリグ(自称:オイルリーガー)
+
+#div(width=250px,bgcolor=#e6e6fa){&font(b,,130%){　ALLIN}}//組織での役割、地位、目標など
+-9/3に[[ALLIN]]に加入した。
+--コードネームはSpade（スペード）。
+--「運転手」としての能力を買われてALLINへ。
+--大型ミッションでの主な役割はお金、アイテムの回収役。
+-平日は0時、休日前は3時までの活動。&openclose2(show=*){シンデレラギャング}
+--面接官のyaku beniには健康的だと褒められた。
+-[[yaku beni>yaku　beni]]を姐さんと気軽に呼べる日を夢見ているようだ。
+-2023/10/18付けで千代田と共にアンダーボスに任命された。
+--アンダーボスとしての目標は「みんなが好きな事を出来るように、支えられるアンダーボスになる」こと。
+-白市民に対してのギャング情報の取り扱いでの不手際により、2024/01/07付けでアンダーボス解任となった。
+//
+#co(){
+-銀行強盗を主にした個人犯罪者をやっており、[[南署署長>赤城　煉]]を撃ち殺したことが初めての殺し。
+--クラフトはグリップ担当。
+--加入時ヘリや船の練習をするように命じられる。
+---バイクでヘリチェイスを撒いてからバイクにも自信を持つようになった。
+-夢の世界でファンアートを書いてもらえることを喜んでおり、衛星の待機画面等に使用したり、ロスサントスでの[[携帯の待ち受け>>https://x.com/takainiku03/status/1709954387819585552]]にしていたりする。
+-2023/11/22 白井さんに借金してヘリを購入、本格的にヘリの練習を開始する決意をする。（尚、借金は即日返済）
+}
+#right{&link_anchor(目次){△目次へ}}
+//
+//待ち受けの件↑10/06のタイミングで携帯の待ち受けの作者様にはWikiからのリンク許可貰っていますので載せました、何か問題が発生したり、指摘等が来たら削除する予定です。
+//Twix画像については、作者様よりリンクNG頂いてますので、リンクしていません。
+//呼び名一覧を追加しても良いかなと思い始めましたがいかがでしょう。
+//「姐さん」呼びも何人かいたりするので、その辺載せると分かりやすかったり印象が伝わりやすかったりするかな...と思っています
+//空白が気になったので補足を一番下に移動させました。
+//
+//--警察の[[花沢　まるん]]を花ちゃんと呼んでおり、犯罪の前に電話で連絡し1vs1カーチェイスをよくしている。
+//上記は最近は行っていないため、一旦非表示としました。
+
+*&size(25){&color(#e6e6fa){所}}有車両 &size(25){&color(#ffff66){&icon_fa(fa fa-moon-o)}}
+//
+&font(b){・車両}🚗
+#region(開く)閉じる
+|Pegassi Torero XO|Karin Sultan Classic Custom|Declasse Draugur|h
+|&image(Torero.png,x=210,Y=140)|&image(Sultan.png,x=210,Y=140)|&image(Draugur.png,x=210,Y=140)|
+| | | |
+|Vappid speedo Custom|Bravado Rumpo Custom|Zirconium Journey|h
+|&image(Speedo.png,x=210,Y=140)|&image(Rumpo.png,x=210,Y=140)|&image(Journey.png,x=210,Y=140)|
+|クラフト素材(白)スピードカスタム|素材集め運搬らんぽ|素材黒 じゃーにー|
+|Obey Tailgater S| Übermacht Revolter|Dinka Akuma|h
+|&image(Tailgater.png,x=210,Y=140)|&image(Revolter.jpg,x=210,Y=140)|&image(Akuma.png,x=210,Y=140)|
+| | | |
+|Pegassi Bati 801| WMC Nightblad|Pegassi Bati 901|h
+|&image(Bati801-2.png,x=210,Y=140)|&image(Nightblad.png,x=210,Y=140)|&image(Bati 901.png,x=210,Y=140)|
+|はなちゃん801|ブラックマネー(ナイトブレード)| |
+#endregion
+
+&font(b){・船舶}🚤
+#region(開く)閉じる
+|Speedophile Seashark|h
+|&image(Seashark.png,x=210,Y=140)|
+||
+#endregion
+
+&font(b){・航空機}🚁
+#region(開く)閉じる
+|Sparrow|Nagasaki Havok|Frogger|h
+|&image(Sparrow.png,x=210,Y=140)|&image(Havok.png,x=210,Y=140)|&image(Frogger.png,x=210,Y=140)|
+|11/24に[[姐さん>>yaku　beni]]にプレゼント|11/15に[[メアリーさん>>チョコラータ　メアリー]]へ売却|　|
+#endregion
+#right{&link_anchor(目次){△目次へ}}
+//
+//Revolterの写真については狗神さん本人に確認済
+//
+*&size(25){&color(#e6e6fa){服}}装一覧 &size(25){&color(#ffff66){&icon_fa(fa fa-moon-o)}}
+&font(b){・犯罪用}
+#region(開く)
+|ALLIN普段着&br()&image(ALLIN普段.png,x=160,y=240)|ギャング正装&br()&image(正装.png,x=160,y=240)|山羊&br()&image(山羊銃.png,x=160,y=240)|
+#endregion
+
+&font(b){・カジュアル}
+#region(開く)閉じる
+|普段着&br()&image(月見ゆい.png,x=160,y=240)|双子コーデ&br()&image(双子コーデ.png,x=160,y=240)|ロング私服&br()&image(ツイン月見2.png,x=160,y=240)|暖かい&br()&image(暖かい海.png,x=160,y=240)|
+|黒暖かい&br()&image(暖かい黒.png,x=160,y=240)|秋服お姉さん&br()&image(秋服お姉さん.png,x=160,y=240)|狐スカート&br()&image(初期狐2.png,x=160,y=240)|
+#endregion
+
+&font(b){・コスチューム}
+#region(開く)閉じる
+|猫カフェ制服&br()&image(猫カフェ制服.png,x=160,y=240)|メイド&br()&image(メイド.png,x=160,y=240)|学生服&br()&image(学生服.png,x=160,y=240)|学祭服&br()&image(学祭服.png,x=160,y=240)|
+|アイドル&br()&image(アイドル.png,x=160,y=240)|ヤンデレギャル&br()&image(ヤンデレエッヘン.png,x=160,y=240)|月見バーガー君&br()&image(月見バーガー君2.png,x=160,y=240)|月田ここな&br()&image(月田ここな.png,x=160,y=240)|
+|初期チャイナ&br()&image(ALL初期2.png,x=160,y=240)|赤チャイナ&br()&image(赤チャイナ前.png,x=160,y=240)|黒チャイナ&br()&image(黒チャイナ.png,x=160,y=240)|熊野ベアー&br()&image(くまさん3.png,x=160,y=240)|
+|潜入（透明）&br()&image(潜入2.png,x=160,y=240)|
+#endregion
+-服装随時更新中（名前も随時募集）
+&font(b){・ペット}
+#region(開く)
+|大福|h
+|&image(大福.png,x=300,y=200)|
+#endregion
+#right{&link_anchor(目次){△目次へ}}
+//
+//追加して欲しい変装あればメモにお願いします
+//
+//追加予定（写真探し中）
+//|戦闘服|冬服|チャイナ戦闘服|サンタ|女子会|恐竜|h
+//|&image(,x=160,y=240)|&image(,x=160,y=240)|&image(,x=160,y=240)|&image(,x=160,y=240)|&image(,x=160,y=240)|&image(,x=160,y=240)|
+//|戦闘服|冬服|冬チャイナ|サンタ|女子会犯罪|恐竜|
+//
+//0、ALLIN、眼鏡、警察、私服、1、暖かい3、ALLIN2、ma-kun
+//
+*&size(25){&color(#e6e6fa){エ}}ピソード &size(25){&color(#ffff66){&icon_fa(fa fa-moon-o)}}
+**2023年
+#region(開く,open)閉じる
+#include(月見　結/エピソード1)
+#include(月見　結/エピソード2)
+#include(月見　結/エピソード3)
+// 別ページへ移設しました
+// https://w.atwiki.jp/streamergta5/pages/838.html エピソード1
+// https://w.atwiki.jp/streamergta5/pages/843.html エピソード2
+// https://w.atwiki.jp/streamergta5/pages/923.html エピソード3
+
+&big(){&bold(){※一行からでもOKエピソード募集中。追記お願いします。}}
+編集者向け：[[ep1>>https://w.atwiki.jp/streamergta5/pages/838.html]], [[ep2>>https://w.atwiki.jp/streamergta5/pages/843.html]], [[ep3>>https://w.atwiki.jp/streamergta5/pages/923.html]]
+#endregion(2023)
+#right{&link_anchor(目次){△目次へ}}
+//
+*&size(25){&color(#e6e6fa){ア}}ーカイブ &size(25){&color(#ffff66){&icon_fa(fa fa-moon-o)}}
+//Twitchのビデオのタイトルはその後の変更にかかわらず配信開始時点のものが残ります。配信開始後の日数の修正が確認できた場合、修正後のタイトルを記しています。
+**2023年
+#region(2023年5月・8月～9月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~備考|h
+|'23/05/23|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[グラセフ １日目【ロスサントスで長期旅行】 >>https://www.youtube.com/live/5Dxyg0NbNak]]||
+|'23/05/26|&font(#6441A4){&icon_fa(fa fa-twitch)} ストグラ 月見結||
+|'23/08/29|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【月見結】視点|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 　【お月見1日目】月見結視点アーカイブ>>https://www.youtube.com/watch?v=jtKyVRYeoOk]]|
+|'23/08/30|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【月見結】視点|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 【お月見２日目】月見結視点アーカイブ>>https://www.youtube.com/watch?v=PS-Z2iYY7QQ]]|
+|'23/08/31|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 151日目【スーパームーン】月見→まりー　#gta5 #gta #グラセフ　#初見さん大歓迎>>https://www.youtube.com/live/1MgjjoqmpaM]]||
+|'23/09/01|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【月見結】視点|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 【お月見３日目】月見結視点アーカイブ>>https://www.youtube.com/watch?v=iU9gjRfClQE]]|
+|'23/09/02|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【月見結】視点|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 【お月見４日目】月見結視点アーカイブ>>https://www.youtube.com/watch?v=0wAbzOf8Mzk]]|
+|'23/09/03|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【月見結】視点|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 【お月見５日目】月見結視点アーカイブ>>https://www.youtube.com/watch?v=6hBRETaTgK0]]|
+|'23/09/04|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【6日目 】月見ゆい視点|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 【6日目 】月見ゆい視点>>https://www.youtube.com/watch?v=cRLZ8oqhSFQ]]|
+|'23/09/05|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 152日目【月の満ち欠け】まりー→月見　#gta5 #gta #グラセフ　#初見さん大歓迎>>https://www.youtube.com/watch?v=lPcUTCKcUSo&t=11614]]||
+|'23/09/06|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[#ストグラ 153日目【車両協会会議】月見→まりー　#gta5 #gta #グラセフ　#初見さん大歓迎>>https://www.youtube.com/watch?v=cRLZ8oqhSFQ]]||
+|'23/09/07|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【お月見７日目 】月見ゆい視点||
+|'23/09/08|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【お月見8日目 】月見ゆい視点>>https://www.twitch.tv/videos/1920210166]]||
+|'23/09/09|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【お月見9日目 】月見ゆい視点||
+|'23/09/11|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【お月見10日目 】月見ゆい視点||
+|'23/09/12|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【お月見11日目 】月見ゆい視点||
+|'23/09/15|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【お月見12日目 】月見ゆい視点||
+|'23/09/16|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【お月見13日目 】月見ゆい視点>>https://www.twitch.tv/videos/1926933781]]||
+|'23/09/17|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【お月見14日目 】月見ゆい視点>>https://www.twitch.tv/videos/1927744800]]||
+|'23/09/19|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【お月見15日目 】月見ゆい視点>>https://www.twitch.tv/videos/1927744800]]||
+|'23/09/21|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【お月見16日目 】月見ゆい視点>>https://www.twitch.tv/videos/1931178876]]||
+|'23/09/22|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【お月見17日目 】月見ゆい視点>>https://www.twitch.tv/videos/1932033069]]||
+|'23/09/23|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【お月見18日目 】月見ゆい視点>>https://www.twitch.tv/videos/1932911064]]||
+|'23/09/24|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【お月見19日目 】月見ゆい視点>>https://www.twitch.tv/videos/1933834823]]||
+|'23/09/25|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【お月見20日目 】月見ゆい視点>>https://www.twitch.tv/videos/1934694795]]||
+|'23/09/26|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【お月見21日目 】月見ゆい視点>>https://www.twitch.tv/videos/1935516801]]||
+|'23/09/27|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見22日目】月見ゆい視点>>https://www.twitch.tv/videos/1936368410]]||
+|'23/09/28|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見23日目】月見ゆい視点>>https://www.twitch.tv/videos/1937187086]]||
+|'23/09/29|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見24日目】月見ゆい視点>>https://www.twitch.tv/videos/1938196756]]||
+|'23/09/30|&font(#6441A4){&icon_fa(fa fa-twitch)} [[今日も一日 #ストグラ 【 お月見25日目】月見ゆい視点>>https://www.twitch.tv/videos/1938883930]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(～2023年9月)
+
+#region(2023年10月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~備考|h
+|'23/10/01|&font(#6441A4){&icon_fa(fa fa-twitch)} [[ギャンブルの神に祝福を #ストグラ 【 お月見26日目】月見ゆい視点>>https://www.twitch.tv/videos/1939797634]]||
+|'23/10/02|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見27日目】月見ゆい視点>>https://www.twitch.tv/videos/1940656375]]||
+|'23/10/03|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見28日目】月見ゆい視点>>https://www.twitch.tv/videos/1941482424]]||
+|'23/10/04|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見29日目】月見ゆい視点>>https://www.twitch.tv/videos/1942307542]]||
+|'23/10/05|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見30日目】月見ゆい視点>>https://www.twitch.tv/videos/1943103449]]||
+|'23/10/06|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見31日目】月見ゆい視点>>https://www.twitch.tv/videos/1943924996]]||
+|'23/10/07|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見32日目】月見ゆい視点>>https://www.twitch.tv/videos/1944799372]]||
+|'23/10/08|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見33日目】月見ゆい視点>>https://www.twitch.tv/videos/1945661030]]||
+|'23/10/09|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見34日目】月見ゆい視点>>https://www.twitch.tv/videos/1946518895]]||
+|'23/10/10|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見35日目】月見ゆい視点>>https://www.twitch.tv/videos/1947342657]]||
+|'23/10/11|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見36日目】月見ゆい視点>>https://www.twitch.tv/videos/1948158502]]||
+|'23/10/12|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見36日目】月見ゆい視点>>https://www.twitch.tv/videos/1948950906]]||
+|'23/10/13|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見37日目】月見ゆい視点>>https://www.twitch.tv/videos/1949797838]]||
+|'23/10/14|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見38日目】月見ゆい視点>>https://www.twitch.tv/videos/1950652148]]||
+|'23/10/16|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見39日目】月見ゆい視点>>https://www.twitch.tv/videos/1952394304]]|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}}配信開始ポスト：[[#ストグラ 【 お月見39日目。みんなが居るここが好き】月見ゆい視点>>https://x.com/U0u0K/status/1713850908822642998]]|
+|'23/10/17|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見40日目】月見ゆい視点>>https://www.twitch.tv/videos/1953157266]]||
+|'23/10/18|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見41日目】月見ゆい視点>>https://www.twitch.tv/videos/1953965331]]||
+|'23/10/19|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見42日目】月見ゆい視点>>https://www.twitch.tv/videos/1954780428]]||
+|'23/10/20|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見43日目】月見ゆい視点>>https://www.twitch.tv/videos/1955562098]]||
+|'23/10/21|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見44日目】月見ゆい視点>>https://www.twitch.tv/videos/1956458285]]||
+|'23/10/22|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見45日目】月見ゆい視点>>https://www.twitch.tv/videos/1957369714]]||
+|'23/10/23|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見46日目】月見ゆい視点>>https://www.twitch.tv/videos/1958229004]]||
+|'23/10/24|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見47日目】月見ゆい視点>>https://www.twitch.tv/videos/1959031576]]||
+|'23/10/25|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見48日目】月見ゆい視点>>https://www.twitch.tv/videos/1959846835]]||
+|'23/10/26|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見49日目】月見ゆい視点>>https://www.twitch.tv/videos/1960653058]]|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}}配信開始ポスト：[[僕がめざすアンダーボスは「やりたいようにやれ」そう言い切れる人になりたい>>https://x.com/U0u0K/status/1717462764166504507]]|
+|'23/10/27|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見50日目】月見ゆい視点>>https://www.twitch.tv/videos/1961492642]]||
+|'23/10/28|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見50日目】月見ゆい視点>>https://www.twitch.tv/videos/1962329825]]|タイトルは原文ママ|
+|'23/10/29|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見51日目】月見ゆい視点>>https://www.twitch.tv/videos/1963195721]]||
+|'23/10/30|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見52日目】月見ゆい視点>>https://www.twitch.tv/videos/1964085005]]||
+|'23/10/31|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見53日目】月見ゆい視点>>https://www.twitch.tv/videos/1964834377]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(2023年10月)
+
+#region(2023年11月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~備考|h
+|'23/11/01|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見54日目】月見ゆい視点>>https://www.twitch.tv/videos/1965639523]]|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}}配信開始ポスト：[[守るための強さ。>>https://x.com/U0u0K/status/1719626224316948904]]|
+|'23/11/02|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見54日目】月見ゆい視点>>https://www.twitch.tv/videos/1966501726]]|タイトルは原文ママ|
+|'23/11/03|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見55日目】月見ゆい視点>>https://www.twitch.tv/videos/1967364328]]||
+|'23/11/04|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見55日目】月見ゆい視点>>https://www.twitch.tv/videos/1968320857]]&br()&font(75%){※配信開始ポストは56日目表記}|タイトルは原文ママ&br()&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}}配信開始ポスト：[[守るための強さ。>>https://x.com/U0u0K/status/1720722226507661468]]|
+|'23/11/05|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見56日目】月見ゆい視点>>https://www.twitch.tv/videos/1969257664]]||
+|'23/11/07|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見57日目】月見ゆい視点>>https://www.twitch.tv/videos/1970931483]]||
+|'23/11/08|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見58日目】月見ゆい視点>>https://www.twitch.tv/videos/1971780707]]|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}}配信開始ポスト：[[僕のやりたこと。。。  >>https://x.com/U0u0K/status/1722184578151162012]]|
+|'23/11/11|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見59日目】月見ゆい視点>>https://www.twitch.tv/videos/1974429862]]||
+|'23/11/12|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見60日目】月見ゆい視点>>https://www.twitch.tv/videos/1975406910]]||
+|'23/11/13|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見61日目】月見ゆい視点>>https://www.twitch.tv/videos/1976257982]]||
+|'23/11/14|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見62日目】月見ゆい視点>>https://www.twitch.tv/videos/1977089105]]|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}}配信開始ポスト：[[やりたいことをする。ついてこれる人だけついてきて  >>https://x.com/U0u0K/status/1724338692096221334]]|
+|'23/11/15|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見63日目】月見ゆい視点>>https://www.twitch.tv/videos/1977978555]]||
+|'23/11/17|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見64日目】月見ゆい視点>>https://www.twitch.tv/videos/1979685613]]||
+|'23/11/19|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見65日目】月見ゆい視点>>https://www.twitch.tv/videos/1981541134]]||
+|'23/11/20|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見66日目】月見ゆい視点>>https://www.twitch.tv/videos/1982443534]]||
+|'23/11/21|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見67日目】月見ゆい視点>>https://www.twitch.tv/videos/1983285615]]||
+|'23/11/22|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見68日目】月見ゆい視点>>https://www.twitch.tv/videos/1984213253]]|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}}配信開始ポスト：[[車間距離>>https://x.com/U0u0K/status/1727304176651337928]]|
+|'23/11/23|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見69日目】月見ゆい視点>>https://www.twitch.tv/videos/1985019536]]||
+|'23/11/24|&font(#6441A4){&icon_fa(fa fa-twitch)} [[【 お月見70日目】ストグラ【月見ゆい】>>https://www.twitch.tv/videos/1985828436]]||
+|'23/11/25|&font(#6441A4){&icon_fa(fa fa-twitch)} [[【 お月見71日目】ストグラ【月見ゆい】>>https://www.twitch.tv/videos/1986735727]]||
+|'23/11/28|&font(#6441A4){&icon_fa(fa fa-twitch)} [[【 お月見72日目】ストグラ【月見ゆい】>>https://www.twitch.tv/videos/1989384925]]||
+|'23/11/30|&font(#6441A4){&icon_fa(fa fa-twitch)} [[月見ゆい→ひとやすみ ストグラ>>https://www.twitch.tv/videos/1991100377]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#region(2023年12月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~備考|h
+|'23/12/01|&font(#6441A4){&icon_fa(fa fa-twitch)} [[月見ゆいの一日>>https://www.twitch.tv/videos/1992010596]]|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}}配信開始ポスト：[[#ストグラ【 お月見74日目】月見ゆい視点>>https://x.com/U0u0K/status/1730552246935634118]]|
+|'23/12/02|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見75日目】月見ゆい視点>>https://www.twitch.tv/videos/1992874624]]||
+|'23/12/03|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見76日目、夢のかなう街】月見ゆい視点>>https://www.twitch.tv/videos/1993948091]]||
+|'23/12/13|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見77日目、ただいま】月見ゆい視点>>https://www.twitch.tv/videos/2002909216]]||
+|'23/12/14|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見78日目】月見ゆい視点>>https://www.twitch.tv/videos/2003760176]]||
+|'23/12/15|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見79日目】月見ゆい視点>>https://www.twitch.tv/videos/2004626113]]||
+|'23/12/16|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見80 日目】月見ゆい視点>>https://www.twitch.tv/videos/2005612497]]||
+|'23/12/17|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ【 お月見81日目】月見ゆい視点>>https://www.twitch.tv/videos/2006436454]]||
+|'23/12/21|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 変化と向き合う勇気 【 お月見82日目】月見ゆい視点>>https://www.twitch.tv/videos/2009949410]]||
+|'23/12/22|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 声に出す勇気【 お月見83日目】月見ゆい視点>>https://www.twitch.tv/videos/2010817693]]||
+|'23/12/23|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 第２章 オールイン 【 お月見84日目】月見ゆい視点>>https://www.twitch.tv/videos/2011731306]]||
+|'23/12/24|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ クリスマス【 お月見85日目】月見ゆい視点>>https://www.twitch.tv/videos/2012673873]]||
+|'23/12/25|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 与えられた猶予【 お月見86日目】月見ゆい視点>>https://www.twitch.tv/videos/2013322927]]||
+|'23/12/26|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 臆病な勇気 【 お月見87日目】月見ゆい視点>>https://www.twitch.tv/videos/2014116097]]||
+|'23/12/28|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 十人十色【 お月見88日目】月見ゆい視点>>https://www.twitch.tv/videos/2015921728]]||
+|'23/12/29|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 十人十色【 お月見89日目】月見ゆい視点>>https://www.twitch.tv/videos/2016894035]]||
+|'23/12/30|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 十人十色【 お月見90日目】月見ゆい視点>>https://www.twitch.tv/videos/2017808999]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+**2024年
+#region(2024年1月)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~備考|h
+|'24/01/01|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ あけましておめでとう！【 お月見91日目】月見ゆい視点>>https://www.twitch.tv/videos/2018958230]]||
+|'24/01/02|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見92日目】月見ゆい視点>>https://www.twitch.tv/videos/2020448598]]||
+|'24/01/04|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見93日目】月見ゆい視点>>https://www.twitch.tv/videos/2022360241]]||
+|'24/01/05|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見94日目】月見ゆい視点>>https://www.twitch.tv/videos/2023326881]]||
+|'24/01/06|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 満月のように【 お月見95日目】月見ゆい視点 ＃AllIN>>https://www.twitch.tv/videos/2024333046]]||
+|'24/01/07|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 満月のように【 お月見96日目】月見ゆい視点 ＃AllIN>>https://www.twitch.tv/videos/2025385174]]||
+|'24/01/10|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 満月のように【 お月見96日目】月見ゆい視点 #ALLIN>>https://www.twitch.tv/videos/2028228239]]|タイトルは原文ママ|
+|'24/01/11|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 自分への誕生日プレゼント【 お月見97日目】月見ゆい視点 #ALLIN>>https://www.twitch.tv/videos/2029222190]]||
+|'24/01/12|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ  今宵の月【 98日目】月見ゆい視点 #ALLIN>>https://www.twitch.tv/videos/2030122838]]||
+|'24/01/13|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ  今宵の月【 99日目】月見ゆい視点 #ALLIN>>https://www.twitch.tv/videos/2031127873]]||
+|'24/01/14|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 今宵の月【 100日目】月見ゆい視点 #ALLIN>>https://www.twitch.tv/videos/2032164898]]||
+|'24/01/19|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 今宵の月【 101日目】月見ゆい視点 #ALLIN>>https://www.twitch.tv/videos/2037022728]]||
+|'24/01/21|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 今宵の月【 102日目】月見ゆい視点 #ALLIN>>https://www.twitch.tv/videos/2039152208]]||
+|'24/01/28|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 今宵の月【 103日目】月見ゆい視点 #ALLIN>>https://www.twitch.tv/videos/2046014775]]||
+|'24/01/29|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ お月見をしよう【 104日目】月見ゆい視点 #ALLIN>>https://www.twitch.tv/videos/2047024158]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#region(2024年2月,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~配信タイトル|~備考|h
+|'24/02/08|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ お月見をしよう【 105日目】月見ゆい視点 #ALLIN>>https://www.twitch.tv/videos/2056683507]]||
+|'24/02/09|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ お月見をしよう【 106日目】月見ゆい視点 #ALLIN>>https://www.twitch.tv/videos/2057659692]]||
+|'24/02/11|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ  お月見をしよう【 107日目】月見ゆい視点 #ALLIN >>https://www.twitch.tv/videos/2059645908]]||
+|'24/02/11|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ  お月見をしよう【 107日目】月見ゆい視点 #ALLIN >>https://www.twitch.tv/videos/2059666573]]||
+|'24/02/13|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ  お月見をしよう【 108日目】月見ゆい視点 #ALLIN >>https://www.twitch.tv/videos/2061479932]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+**関連配信
+#table_style(head=center:#e6e6fa){配信日=right}
+|~配信日|~内容|~配信タイトル|~他参加者|h
+|'23/09/27|Apex Legends|&font(#6441A4){&icon_fa(fa fa-twitch)} #ストグラ 【 いんぶれら？】APEXこらぼ|&openclose2(show=ほか2名){&br()DattE政宗（伊達咲政宗）&br()	ニョス（池島裕貴／那須裕貴）}|
+|'23/10/13|Apex Legends|&font(#6441A4){&icon_fa(fa fa-twitch)} [[#ストグラ 【 お月見37日目】月見ゆい視点>>https://www.twitch.tv/videos/1949797838]]|&openclose2(show=ほか5名){&br()しろまんた（白井満太）&br()ラムチョ（千代田ヨウ）&br()ゼルク（エスターク・Z・ダークネス）&br()Kento（ヘルアン）&br()迷子のしろねこ（マイゴ・ニ＝ナリエル）}|
+|'23/12/05|Goose Goose Duck|-|&openclose2(show=ほか11名){&br()Mondo（MonD）&br()しろまんた（白井満太）&br()エクス・アルビオ（神保アボ）&br()ラムチョ（千代田ヨウ）&br()ゼルク（エスターク・Z・ダークネス）&br()Kento（ヘルアン）&br()迷子のしろねこ（マイゴ・ニ＝ナリエル）&br()アマル（安城成）&br()鹿乃（椎花まほ）&br()かなででで（天草蒼）&br()BobsappAim（五十嵐えいむ）}|
+|'24/01/08|VALORANT|&font(#6441A4){&icon_fa(fa fa-twitch)} [[ストグラAllINメンバーでヴァロラント>>https://www.twitch.tv/videos/2026402672]]|&openclose2(show=ほか3名){&br()ラムチョ（千代田ヨウ）&br()BobsappAim（五十嵐えいむ）&br()Cpt（CPU）}|
+|'24/01/22|Palworld|&font(#6441A4){&icon_fa(fa fa-twitch)} [[ストグラ鯖→オールイン鯖>>https://www.twitch.tv/inugamiyuki/v/2040197819]]|&openclose2(show=ALLIN鯖){&br()かなででで（天草蒼）&br()ラムチョ（千代田ヨウ）&br()Mondo（MonD）&br()アマル（安城成）&br()鹿乃（椎花まほ）&br()迷子のしろねこ（マイゴ・ニ＝ナリエル）&br()Kento（ヘルアン）&br()ゼルク（エスターク・Z・ダークネス）}|
+#table_sorter{even=#f7f7f7,odd=fff}
+
+#right(){&link_up(🔝ページTOPへ)}

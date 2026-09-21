@@ -1,0 +1,55 @@
+//&image(ここに画像のURLを入力,y=300)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|&ruby(はるはる　こぞう){はるはる　小僧}|
+|~出身地||
+|~誕生日|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|2023年08月24日 (&countup(2023/08/24,yd)経過)|
+|~職業||
+|~プレイヤー|はうはる|
+|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/hauharu2828]]|
+|~配信場所|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UCKW5cdR5gsUPRkm_bXQUvCg]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/hauharu2828]]|
+
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+**基本情報
+・情報を記述
+
+**エピソード
+//***2023年
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+・エピソード募集中
+//#endregion
+//
+//#endregion(2023年)
+//
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+***2023年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/08/24|1|[[ストグラ初日※鳩禁止>>https://www.twitch.tv/videos/1907202673]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

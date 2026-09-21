@@ -1,0 +1,547 @@
+//↓コメントアウト
+//・昇順降順できるようにナンバリング【2022年】
+//・容量オーバーになる度にページ下部にある編集内容が削られるリスクを回避する為に、アーカイブも子ページ化させました。【2023/1/5】
+//・子ページ化させるためにページタイトルは/を使用しました【2023/1/5】
+//・現段階では親ページにこの子ページのリンクではなく、ページ自体を表示させるinclude方法をとっています。【2023/1/5】
+//・本ページは　https://w.atwiki.jp/streamergta5/pages/294.html
+//
+//
+//★配信後にTwitchリンクを設定していますが、ダイジェスト化されたものからURLを置き換えています。
+//★ダイジェスト化済みのリンクの先頭には「🎦」マークを追加しています。
+//★YouTubeに動画がアップされた場合は、表に動画欄を追加してYouTubeリンクを設定しています。
+//・2022/8･9月頃のTwitchとYouTubeのリンクの区別を日付の背景色で表現していましたが、マークに変更しました(以前自分が編集した部分を再編集しました)。もし問題があるようでしたら戻していただいても構いません。
+//
+//
+&bold(){ライブ配信は&icon_fa(fa fa-twitch)Twitchにて。(ダイジェスト化してないアーカイブは60日経過すると視聴不可)}
+&small(){※🎦はダイジェスト化済リンク。&nbsp(br)※YouTubeのテキストリンクはTwitchアーカイブの動画化済リンク。&nbsp(br)※Twitchアーカイブはサブスクライバー限定。}
+***&font(b,#555,#d0f2f2,105%){　2023年　}
+//
+//#region(　2023年 月 日～ 日（# ～）)
+//&bold(){▼2023年 月 日～ 日}（# ～）
+//|#14*|2023/1/dd|[[■>>]]|
+//#table_sorter{}
+//#endregion
+//
+****&font(#5a99a3){2023年10月}
+#region(　2023年10月1日～31日（#332〜）,open)
+&bold(){▼2023年10月1日～31日}（#332〜）
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#332|2023/10/1|🎦 [[餡ブレラ vs ALL-IN の隙間産業でミッションに行く【山本龍也】❶>>https://www.twitch.tv/videos/1967241163]]/[[❷>>https://www.twitch.tv/videos/1967302633]]|[[YouTube❶>>https://www.youtube.com/watch?v=82L_rBrNM28]]/[[❷>>https://www.youtube.com/watch?v=lHtCRcH4Lvs]]|
+|#333|2023/10/2|🎦 [[ギャングの存在意義【山本龍也】❶>>https://www.twitch.tv/videos/1967329163]]/[[❷>>https://www.twitch.tv/videos/1967340448]]|[[YouTube❶>>https://www.youtube.com/watch?v=DrQHX5rd8Iw]]/[[❷>>https://www.youtube.com/watch?v=oY6uI18iLLg]]|
+|#334|2023/10/3|🎦 [[今日はマジで何もしないので見なくて良い回【山本龍也】❶>>https://www.twitch.tv/videos/1968075870]]/[[❷>>https://www.twitch.tv/videos/1968198439]]|[[YouTube❶>>https://www.youtube.com/watch?v=6I5alq3In7c]]/[[❷>>https://www.youtube.com/watch?v=zkBHQa5WgtY]]|
+|#335|2023/10/4|🎦 [[そろそろ組織として犯罪を成功させたい【山本龍也】❶>>https://www.twitch.tv/videos/1968236958]]/[[❷>>https://www.twitch.tv/videos/1968274459]]|[[YouTube❶>>https://www.youtube.com/watch?v=0mCWHwXkvn0]]/[[❷>>https://www.youtube.com/watch?v=4kSNIE1VOJw]]|
+|#336|2023/10/5|🎦 [[MOZU vs IRIS くるー？【山本龍也】❶>>https://www.twitch.tv/videos/1970680379]]/[[❷>>https://www.twitch.tv/videos/1970819844]]|[[YouTube❶>>https://www.youtube.com/watch?v=MKRfpYluUaY]]/[[❷>>https://www.youtube.com/watch?v=uhDV27uXMvk]]|
+|#337|2023/10/6|🎦 [[LWGP本格始動【山本龍也】>>https://www.twitch.tv/videos/1970868716]]|[[YouTube>>https://www.youtube.com/watch?v=8rcsHvmoI74]]|
+|#338|2023/10/7|🎦 [[肉を食えば力がみなぎる【山本龍也】>>https://www.twitch.tv/videos/1970891779]]|[[YouTube>>https://www.youtube.com/watch?v=I604Jd_jTbM]]|
+|#339|2023/10/8|🎦 [[そう言えば借金２億5000万あったわ【山本龍也】>>https://www.twitch.tv/videos/1971311918]]|[[YouTube>>https://www.youtube.com/watch?v=Nt4D8Vhck7Y]]|
+|#340|2023/10/10|🎦 [[～行方～【山本龍也】>>https://www.twitch.tv/videos/1972129505]]|[[YouTube>>https://www.youtube.com/watch?v=c5Nf_yMx7AM]]|
+|#341|2023/10/11|🎦 [[抗争へのカウントダウン【山本龍也】>>https://www.twitch.tv/videos/1973113407]]|[[YouTube>>https://www.youtube.com/watch?v=qTU7hY_gHJ0]]|
+|#342|2023/10/13|🎦 [[なんか追加されたらしいけど【山本龍也】>>https://www.twitch.tv/videos/1973389127]]|[[YouTube>>https://www.youtube.com/watch?v=Eid_Obk3YBo]]|
+|#343|2023/10/14|🎦 [[MOZUとの話し合いを今日こそは【山本龍也】>>https://www.twitch.tv/videos/1973415822]]|[[YouTube>>https://www.youtube.com/watch?v=u8KHy2N4zrQ]]|
+|#344|2023/10/15|🎦 [[うい【山本龍也】>>https://www.twitch.tv/videos/1973437396]]|[[YouTube>>https://www.youtube.com/watch?v=4owuSO9zWRk]]|
+|#345|2023/10/16|🎦 [[資金洗浄おぢさん【山本龍也】>>https://www.twitch.tv/videos/1974051646]]|[[YouTube>>https://www.youtube.com/watch?v=fdcpDJcB-G8]]|
+|#346|2023/10/17|🎦 [[あとすこし【山本龍也】>>https://www.twitch.tv/videos/1974085516]]|[[YouTube>>https://www.youtube.com/watch?v=vb5qCDsSA8c]]|
+|#347|2023/10/19|🎦 [[久しぶりに計画的犯罪を見せてやるわ【山本龍也】>>https://www.twitch.tv/videos/1974264054]]|[[YouTube>>https://www.youtube.com/watch?v=3gqNC11Xvtc]]|
+|#348|2023/10/20|🎦 [[決断の日まで後３日【山本龍也】>>https://www.twitch.tv/videos/1974272344]]|[[YouTube>>https://www.youtube.com/watch?v=rn3X7zNBuOM]]|
+|#349|2023/10/21|🎦 [[vsMOZU 抗争前夜【山本龍也】>>https://www.twitch.tv/videos/1977881665]]|[[YouTube>>https://www.youtube.com/watch?v=5qkfOjgde3k]]|
+|#350|2023/10/21|🎦 [[vsMOZU 抗争前夜【山本龍也】>>https://www.twitch.tv/videos/1977989952]]|[[YouTube>>https://www.youtube.com/watch?v=nT-8pqM0DJ4]]|
+|#351|2023/10/22|🎦 [[最終決戦// MOZU vs LWGP【山本龍也】❶>>https://www.twitch.tv/videos/1978419653]]/[[❷>>https://www.twitch.tv/videos/1978652767]]|[[YouTube❶>>https://www.youtube.com/watch?v=IYcG1Om50FQ&t=16s]]/[[❷>>https://www.youtube.com/watch?v=yuMkL_tp_ks]]|
+|#352|2023/10/23|🎦 [[終活【山本龍也】>>https://www.twitch.tv/videos/1978678343]]|[[YouTube>>https://www.youtube.com/watch?v=UiV52W_GycY]]|
+|#353|2023/10/24|🎦 [[旅立ちの準備【山本龍也】>>https://www.twitch.tv/videos/1978723720]]|[[YouTube>>https://www.youtube.com/watch?v=YvCeRlA7W6M]]|
+//
+
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2023年10月)
+****&font(#5a99a3){2023年9月}
+#region(　2023年9月1日～30日（#299～331）)
+&bold(){▼2023年9月1日～30日}（#299～331）
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#299|2023/9/1|🎦[[犯罪復帰４日目でトータル収支マイナス4000万円君【山本龍也】❶>>https://www.twitch.tv/videos/1949242306]]/[[❷>>https://www.twitch.tv/videos/1949299006]]|[[YouTube❶>>https://www.youtube.com/watch?v=aHaY3K1CnuA]]/[[❷>>https://www.youtube.com/watch?v=r_uRkreFL2k]]|
+|#300|2023/9/2|🎦[[コンビニ強盗と銀行強盗俺もやるか～【山本龍也】❶>>https://www.twitch.tv/videos/1950465092]]/[[❷>>https://www.twitch.tv/videos/1950537937]]|[[YouTube❶>>https://www.youtube.com/watch?v=fyqOkxi29TA]]/[[❷>>https://www.youtube.com/watch?v=0Yh7fbYeD6M]]|
+|#301|2023/9/3|🎦[[チェイスがやりたいんじゃ【山本龍也】❶>>https://www.twitch.tv/videos/1950546676]]/[[❷>>https://www.twitch.tv/videos/1950602789]]|[[YouTube❶>>https://www.youtube.com/watch?v=l6eJiDYc3wo]]/[[❷>>https://www.youtube.com/watch?v=1DPADcOprA4]]|
+|#302|2023/9/4|🎦[[面白い犯罪方法を考えたい【山本龍也】❶>>https://www.twitch.tv/videos/1952941067]]/[[❷>>https://www.twitch.tv/videos/1953033299]]|[[YouTube❶>>https://www.youtube.com/watch?v=nfhn1wscHRc]]/[[❷>>https://www.youtube.com/watch?v=JIHIRFZjl_8]]|
+|#303|2023/9/5|🎦[[ギャンらしい事やりてぇな【山本龍也】>>https://www.twitch.tv/videos/1953093362]]|[[YouTube>>https://www.youtube.com/watch?v=NNeuHOjA7Qo]]|
+|#304|2023/9/6|🎦[[山本さん何時までアイリスにいるのか？【山本龍也】>>https://www.twitch.tv/videos/1953108632]]|[[YouTube>>https://www.youtube.com/watch?v=S1IWhYSmu9Q]]|
+|#305|2023/9/7|🎦[[こっそりと【山本龍也】>>https://www.twitch.tv/videos/1953110400]]|[[YouTube>>https://www.youtube.com/watch?v=4c3LzrVgXEU]]|
+|#306|2023/9/7|🎦[[近々アイリスを抜ける話を社長にする【山本龍也】>>https://www.twitch.tv/videos/1954674941]]|[[YouTube>>https://www.youtube.com/watch?v=rZu9EvyqsHY]]|
+|#307|2023/9/8|🎦[[借金8000万円。ストグラ界の粗品やんけ【山本龍也】❶>>https://www.twitch.tv/videos/1954680426]]/[[❷>>https://www.twitch.tv/videos/1954702748]]|[[YouTube❶>>https://www.youtube.com/watch?v=mn7lDIRL7oU]]/[[❷>>https://www.youtube.com/watch?v=or7wSHlt_GE&t=2s]]|
+|#308|2023/9/9|🎦[[よりロスサントスがリアルになった日【山本龍也】>>https://www.twitch.tv/videos/1954717312]]|[[YouTube>>https://www.youtube.com/watch?v=bLAnctLYkbE]]|
+|#309|2023/9/10|🎦[[今日こそソロパレット成功させたい【山本龍也】>>https://www.twitch.tv/videos/1954723088]]|[[YouTube>>https://www.youtube.com/watch?v=wHI4AO11TKo]]|
+|#310|2023/9/11|🎦[[MOZU vs IRiS【山本龍也】>>https://www.twitch.tv/videos/1955406119]]|[[YouTube❶>>https://www.youtube.com/watch?v=BZbRbUuODhY]]/[[❷>>https://www.youtube.com/watch?v=9khFj_psm64]]|
+|#311|2023/9/12|🎦[[LWGP再始動の軌跡【山本龍也】>>https://www.twitch.tv/videos/1955444138]]|[[YouTube>>https://www.youtube.com/watch?v=PoCFfjd0-Ms]]|
+|#312|2023/9/13|🎦[[LWGPが新装オープンしました【山本龍也】❶>>https://www.twitch.tv/videos/1956342578]]/[[❷>>https://www.twitch.tv/videos/1956356613]]|[[YouTube❶>>https://www.youtube.com/watch?v=ddExP-ZYHgU]]/[[❷>>https://www.youtube.com/watch?v=pkhASLyGjGY]]|
+|#313|2023/9/14|🎦[[メンバー候補探し【山本龍也】❶>>https://www.twitch.tv/videos/1958775144]]/[[❷>>https://www.twitch.tv/videos/1958815143]]|[[YouTube❶>>https://www.youtube.com/watch?v=VeDHEhTRalg]]/[[❷>>https://www.youtube.com/watch?v=ufml0CDTrPQ]]|
+|#314|2023/9/15|🎦[[ボスは借金の返済で多忙【山本龍也】❶>>https://www.twitch.tv/videos/1959513201]]/[[❷>>https://www.twitch.tv/videos/1959537370]]|[[YouTube❶>>https://www.youtube.com/watch?v=Sx2xhDwk7Gc]]/[[❷>>https://www.youtube.com/watch?v=J6o0C8pz5A0]]|
+|#315|2023/9/16|🎦[[ただ金返す毎日【山本龍也】❶>>https://www.twitch.tv/videos/1959724217]]/[[❷>>https://www.twitch.tv/videos/1959755872]]|[[YouTube❶>>https://www.youtube.com/watch?v=BLWJ3rdJVaA]]/[[❷>>https://www.youtube.com/watch?v=SUzr18PtdLc]]|
+|#316|2023/9/17|🎦[[きょうもげんきにぱれっと【山本龍也】❶>>https://www.twitch.tv/videos/1960379645]]/[[❷>>https://www.twitch.tv/videos/1960557996]]|[[YouTube❶>>https://www.youtube.com/watch?v=95n423pkgio]]/[[❷>>https://www.youtube.com/watch?v=LpIyHUFkqmo]]|
+|#317|2023/9/18|🎦[[割と今日もやる気【山本龍也】❶>>https://www.twitch.tv/videos/1960563783]].[[❷>>https://www.twitch.tv/videos/1960593092]]|[[YouTube❶>>https://www.youtube.com/watch?v=ViIr-XysTco]]/[[❷>>https://www.youtube.com/watch?v=h865vyiOK78]]|
+|#318|2023/9/19|🎦[[卑怯に立ち回りたい【山本龍也】>>https://www.twitch.tv/videos/1962763271]]|[[YouTube>>https://www.youtube.com/watch?v=_QGh7BlH4z4]]|
+|#319|2023/9/19|🎦[[GBCの島いったるかー【山本龍也】>>https://www.twitch.tv/videos/1962812460]]|[[YouTube>>https://www.youtube.com/watch?v=wuWQi-uzw-0]]|
+|#320|2023/9/20|🎦[[選択が難しい～日【山本龍也】❶>>https://www.twitch.tv/videos/1962823957]]/[[❷>>https://www.twitch.tv/videos/1962841792]]|[[YouTube❶>>https://www.youtube.com/watch?v=T-AniA05lOw]]/[[❷>>https://www.youtube.com/watch?v=xygA7FswETc]]|
+|#321|2023/9/21|🎦[[天使ちゃん【山本龍也】>>https://www.twitch.tv/videos/1963861366]]|[[YouTube>>https://www.youtube.com/watch?v=2RCFSdAobPA]]|
+|#322|2023/9/21|🎦[[おきた天使ちゃん【山本龍也】>>https://www.twitch.tv/videos/1963907733]]|[[YouTube>>https://www.youtube.com/watch?v=RoVXS_h2_aE]]|
+|#323|2023/9/22|🎦[[今日は早く寝ます【山本龍也】>>https://www.twitch.tv/videos/1963915956]]|[[YouTube>>https://www.youtube.com/watch?v=tOlDlqYbOuo]]|
+|#324|2023/9/23|🎦[[少しだけな【山本龍也】>>https://www.twitch.tv/videos/1963922471]]|[[YouTube>>https://www.youtube.com/watch?v=yTuXvqD6qTI]]|
+|#325|2023/9/24|🎦[[ういー【山本龍也】>>https://www.twitch.tv/videos/1963941413]]|[[YouTube>>https://www.youtube.com/watch?v=P755aTssSkY]]|
+|#326|2023/9/25|🎦[[機嫌の良さ62/100【山本龍也】❶>>https://www.twitch.tv/videos/1964712649e]]/[[❷>>https://www.twitch.tv/videos/1964757219]]|[[YouTube❶>>https://www.youtube.com/watch?v=mx9wsFpUVDI]]/[[❷>>https://www.youtube.com/watch?v=bLSqG8y6ryk]]|
+|#327|2023/9/26|🎦[[パチギャン【山本龍也】❶>>https://www.twitch.tv/videos/1964786797]]/[[❷>>https://www.twitch.tv/videos/1964815439]]|[[YouTube❶>>https://www.youtube.com/watch?v=M3v67DqAybs]]/[[❷>>https://www.youtube.com/watch?v=jzR1OP1nqlc]]|
+|#328|2023/9/27|🎦[[結局MOZU vs LWGPになるのか？【山本龍也】❶>>https://www.twitch.tv/videos/1964821468]]/[[❷>>https://www.twitch.tv/videos/1964830057]]|[[YouTube❶>>https://www.youtube.com/watch?v=KLTiGpSRres]]/[[❷>>https://www.youtube.com/watch?v=zL1J8wLNBwI]]|
+|#329|2023/9/28|🎦[[残り6の命【山本龍也】❶>>https://www.twitch.tv/videos/1965637883]]/[[❷>>https://www.twitch.tv/videos/1965644726]]|[[YouTube❶>>https://www.youtube.com/watch?v=Ri83CCnnj3s]]/[[❷>>https://www.youtube.com/watch?v=5t3VDa1Ifp4]]|
+|#330|2023/9/29|🎦[[そろそろ本格的に？【山本龍也】>>https://www.twitch.tv/videos/1965647798]]|[[YouTube>>https://www.youtube.com/watch?v=WX4G4ErOO8k]]|
+|#331|2023/9/30|🎦[[ミッションいきてぇなぁ？【山本龍也】❶>>https://www.twitch.tv/videos/1965656314]]/[[❷>>https://www.twitch.tv/videos/1965661506]]|[[YouTube❶>>https://www.youtube.com/watch?v=VhnLcSOaQ7I]]/[[❷>>https://www.youtube.com/watch?v=jC6UDnYvdK0]]|
+//
+
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2023年9月)
+****&font(#5a99a3){2023年8月}
+#region(　2023年8月1日～31日（#278～298）)
+&bold(){▼2023年8月1日～31日}（#278～298）
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#278|2023/8/7|🎦 [[１５年くらい時が進んでそう【山本龍也】>>https://www.twitch.tv/videos/1892419176]]|[[YouTube>>https://www.youtube.com/watch?v=Dm8MVFyL8A8]]|
+|#279|2023/8/8|🎦 [[こんにちわ、タクシーっす【山本龍也】>>https://www.twitch.tv/videos/1893333106]]|[[YouTube>>https://www.youtube.com/watch?v=kBeqEC0MUog]]|
+|#280|2023/8/9|🎦 [[金を稼ぐぞ【山本龍也】>>https://www.twitch.tv/videos/1894109498]]|[[YouTube>>https://www.youtube.com/watch?v=mMoIqOjTfGo]]|
+|#281|2023/8/10|🎦 [[銭がねぇい【山本龍也】>>https://www.twitch.tv/videos/1938838268]]|[[YouTube>>https://www.youtube.com/watch?v=vKw6aXXKSV4]]|
+|#282|2023/8/11|🎦 [[遅番【山本龍也】>>https://www.twitch.tv/videos/1938867042]]|[[YouTube>>https://www.youtube.com/watch?v=j10ZZuX7uzU]]|
+|#283|2023/8/13|🎦 [[祭りがあるらしい【ギャン山本】>>https://www.twitch.tv/videos/1941319311]]|[[YouTube>>https://www.youtube.com/watch?v=hsykvcmR1p8]]|
+|#284|2023/8/16|🎦 [[釣りを少し嗜みたい【山本龍也】>>https://www.twitch.tv/videos/1941364828]]|[[YouTube>>https://www.youtube.com/watch?v=QOrChUL2p38]]|
+|#285|2023/8/17|🎦 [[預貯金300万なのですが.....【山本龍也】❶>>https://www.twitch.tv/videos/1941370100]]/[[❷>>https://www.twitch.tv/videos/1941373079]]|[[YouTube❶>>https://www.youtube.com/watch?v=sF3v6Ms9kn4]]/[[❷>>https://www.youtube.com/watch?v=WMO7JlD5M-U]]|
+|#286|2023/8/18|🎦 [[ギリギリ誕生日ボーイなので金をこじる【山本龍也】>https://www.twitch.tv/videos/1941393993]]|[[YouTube>>https://www.youtube.com/watch?v=BZ30lroHiDE]]|
+|#287|2023/8/19|🎦 [[実車売ったら約５億になったので車を買いたい【山本龍也】❶>>https://www.twitch.tv/videos/1941894648]]/[[❷>>https://www.twitch.tv/videos/1941979825]]|[[YouTube❶>>https://www.youtube.com/watch?v=eV6pYFlIrRI]]/[[❷>>https://www.youtube.com/watch?v=j7VtyiqysKY]]|
+|#288|2023/8/20|🎦 [[今！！ドリフトが熱い！！！【山本龍也】>>https://www.twitch.tv/videos/1942125175]]|[[YouTube>>https://www.youtube.com/watch?v=0DuIZ6El85I]]|
+|#289|2023/8/21|🎦 [[ドリキン山本【山本龍也】❶>>https://www.twitch.tv/videos/1942142591]]/[[❷>>https://www.twitch.tv/videos/1942147280]]|[[YouTube❶>>https://www.youtube.com/watch?v=EuiHPOjVg0s]]/[[❷>>https://www.youtube.com/watch?v=nf-Ezc1uW4s]]|
+|#290|2023/8/22|🎦 [[今日は峠半分ギャング半分くらいで行きたい【山本龍也】❶>>https://www.twitch.tv/videos/1942153387]]/[[❷>>https://www.twitch.tv/videos/1942177125]]|[[YouTube❶>>https://www.youtube.com/watch?v=9pvwUQypCUI]]/[[❷>>https://www.youtube.com/watch?v=dceMI6AqoU0]]|
+|#291|2023/8/23|🎦 [[復活のギャン山本【山本龍也】>>https://www.twitch.tv/videos/1942194988]]|[[YouTube>>https://www.youtube.com/watch?v=NNN2fVtiZgk]]|
+|#292|2023/8/24|🎦 [[BreakingTown Vol.3にて初参加【山本龍也】❶>>https://www.twitch.tv/videos/1942200278]]/[[❷>>https://www.twitch.tv/videos/1942203376]]|[[YouTube❶>>https://www.youtube.com/watch?v=Y5bAVLo2gNw]]/[[❷>>https://www.youtube.com/watch?v=hbBJfbgdUbU]]|
+|#293|2023/8/25|🎦 [[11000まできっちり回せ【山本龍也】❶>>https://www.twitch.tv/videos/1942707656]]/[[❷>>https://www.twitch.tv/videos/1942917443]]|[[YouTube❶>>https://www.youtube.com/watch?v=b6df3vHyFgk]]/[[❷>>https://www.youtube.com/watch?v=T0IyDRMxUIQ]]|
+|#294|2023/8/26|🎦 [[指名手配切れる前に犯罪やりたい【山本龍也】>>https://www.twitch.tv/videos/1942957602]]|[[YouTube>>https://www.youtube.com/watch?v=dlA8-2-S2Lg]]|
+|#295|2023/8/27|🎦 [[いちしゅうねん【山本龍也】❶>>https://www.twitch.tv/videos/1942972731]]/[[❷>>https://www.twitch.tv/videos/1943026748]]|[[YouTube❶>>https://www.youtube.com/watch?v=Nqif1KC-_JQ]]/[[❷>>https://www.youtube.com/watch?v=J1PjKxVQn60]]|
+|#296|2023/8/28|🎦 [[今は欲しいものないけど10億ほど真面目に貯めるか～【山本龍也】❶>>https://www.twitch.tv/videos/1944544899]]/[[❷>>https://www.twitch.tv/videos/1944590589]]|[[YouTube❶>>https://www.youtube.com/watch?v=f5Lg58XBciI]]/[[❷>>https://www.youtube.com/watch?v=RWyUC9wWvhg]]|
+|#297|2023/8/29|🎦 [[ドリフトと犯罪【山本龍也】❶>>https://www.twitch.tv/videos/1944599194]]/[[❷>>https://www.twitch.tv/videos/1944635614]]|[[YouTube❶>>https://www.youtube.com/watch?v=8DGxz8C09Qo]]/[[❷>>https://www.youtube.com/watch?v=ca1pqD3UKqM]]|
+|#298|2023/8/31|🎦 [[８月が終わるらしい【山本龍也】>>https://www.twitch.tv/videos/1944655512]]|[[YouTube>>https://www.youtube.com/watch?v=fCs5elSLm44]]|
+//
+
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2023年8月)
+****&font(#5a99a3){2023年7月}
+#region(　2023年7月1日～31日（#273～277）)
+&bold(){▼2023年7月1日～31日}（#273～277）
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#273|2023/7/1|🎦[[犯罪組織を作る為に１億円を貯める【山本龍也】>>https://www.twitch.tv/videos/1884631509]]|[[YouTube>https://www.youtube.com/watch?v=I2M922xvbaM]]|
+|#274|2023/7/2|🎦[[新銀行強盗が来たぞ！！！！！！【山本龍也】>>https://www.twitch.tv/videos/1884660323]]|[[YouTube>https://www.youtube.com/watch?v=wVRD_0qEM3w]]|
+|#275|2023/7/3|🎦[[ギャング再結成？【山本龍也】❶>>https://www.twitch.tv/videos/1884685466]]/[[❷>https://www.twitch.tv/videos/1884694681]]|[[YouTube❶>https://www.youtube.com/watch?v=sozyArmgooA]]/[[❷>https://www.youtube.com/watch?v=xznoBzOF8xU]]|
+|#276|2023/7/4|🎦[[ギャンのメンツ集まるのか？【山本龍也】>>https://www.twitch.tv/videos/1885373351]]|[[YouTube>https://www.youtube.com/watch?v=pJSfu0kQW1U]]|
+|#277|2023/7/5|🎦[[動きにくいし昨日の件をネタに一度ウェスに話に行くか【山本龍也】>>https://www.twitch.tv/videos/1885420121]]|[[YouTube>https://www.youtube.com/watch?v=rEIXc7QAOA8]]|
+//
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2023年7月)
+****&font(#5a99a3){2023年6月}
+#region(　2023年6月1日～30日（#254～272）)
+&bold(){▼2023年6月1日～30日}（#254～272）
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#254|2023/6/1|🎦[[メカニックの従業員募集＠１～＠２【山本龍也】>>https://www.twitch.tv/videos/1875068288]]|[[YouTube>https://www.youtube.com/watch?v=DZuw1ph4RN8]]|
+|#255|2023/6/4|🎦[[ふつーに過ごしてふつーに見つけたら処す【山本龍也】>>https://www.twitch.tv/videos/1875719744]]|[[YouTube>https://www.youtube.com/watch?v=AKBOskVl1Z0]]|
+|#256|2023/6/6|🎦[[報復計画書【山本龍也】❶>>https://www.twitch.tv/videos/1875747047]]/[[❷>>https://www.twitch.tv/videos/1875761711]]|[[YouTube❶>https://www.youtube.com/watch?v=xd9BmdbrrXo]]/[[❷>https://www.youtube.com/watch?v=7OX9qbGKk6Q]]|
+|#257|2023/6/7|🎦[[報復実行日【山本龍也】>>https://www.twitch.tv/videos/1875818828]]|[[YouTube>https://www.youtube.com/watch?v=2jog0By4T2U]]|
+|#258|2023/6/9|🎦[[にしのん負け確裁判の弁護士です【山本龍也】>>https://www.twitch.tv/videos/1876813156]]|[[YouTube>https://www.youtube.com/watch?v=AR4qYInhS4Y]]|
+|#259|2023/6/10|🎦[[メカニックの仕事を少々【山本龍也】>>https://www.twitch.tv/videos/1878347692]]|[[YouTube>https://www.youtube.com/watch?v=DHw73rYrqPs]]|
+|#260|2023/6/12|🎦[[ギャンになるか否か【山本龍也】>>https://www.twitch.tv/videos/1878450668]] |[[YouTube>https://www.youtube.com/watch?v=qCCC2KpTz6A]]|
+|#261|2023/6/14|🎦[[本島も負けてられねぇよなぁ！【山本龍也】>>https://www.twitch.tv/videos/1881019130]]|[[YouTube>https://www.youtube.com/watch?v=CeIzNtToIW0]]|
+|#262|2023/6/16|🎦[[なんかレースがあーだこーだらしい【山本龍也】>>https://www.twitch.tv/videos/1881081575]]|[[YouTube>https://www.youtube.com/watch?v=LF2hevkmRXQ]]|
+|#263|2023/6/19|🎦[[メカニックやまさん【山本龍也】>>https://www.twitch.tv/videos/1881864980]]|[[YouTube>https://www.youtube.com/watch?v=DjyT8BWez5g]]|
+|#264|2023/6/21|🎦[[抗争どっちが勝つか賭けようぜ【山本龍也】>>https://www.twitch.tv/videos/1881999660]]|[[YouTube>https://www.youtube.com/watch?v=gZI3YmVZr4g]]|
+|#265|2023/6/22|🎦[[抗争賭博をやるぞ！！！！！【山本龍也】>>https://www.twitch.tv/videos/1882507154]]|[[YouTube>https://www.youtube.com/watch?v=FUo7w2GesgI]]|
+|#266|2023/6/23|🎦[[抗争最終日！現状餡ブレラ優勢か？【山本龍也】>>https://www.twitch.tv/videos/1882603394]]|[[YouTube>https://www.youtube.com/watch?v=V3blS7Cq2-g]]|
+|#267|2023/6/25|🎦[[やるます【山本龍也】>>https://www.twitch.tv/videos/1882854231]]|[[YouTube>https://www.youtube.com/watch?v=5b2JF-slZYM]]|
+|#268|2023/6/26|🎦[[パルクールとコレグラが今日導入されるかも！？！？！【山本龍也】❶>>https://www.twitch.tv/videos/1883717635]]/[[❷>https://www.twitch.tv/videos/1883731258]]|[[YouTube❶>https://www.youtube.com/watch?v=WCGP7z9D1-U]]/[[❷>https://www.youtube.com/watch?v=WCGP7z9D1-U]]|
+|#269|2023/6/27|🎦[[グラモンマスターになるお【山本龍也】>>https://www.twitch.tv/videos/1883765305]]|[[YouTube>https://www.youtube.com/watch?v=cGdrBHiKkaA]]|
+|#270|2023/6/28|🎦[[犯罪グループの外堀を考えながらグラモン【山本龍也】❶>>https://www.twitch.tv/videos/1883770318]]/[[❷>>https://www.twitch.tv/videos/1883793522]]|[[YouTube❶>https://www.youtube.com/watch?v=EPv94OGhWes]]/[[❷>https://www.youtube.com/watch?v=jLrhQiyUbT0]]|
+|#271|2023/6/29|🎦[[LWGP(ロスト・ワールド・ギガント・パワー)【山本龍也】❶>>https://www.twitch.tv/videos/1884552580]]/[[❷>https://www.twitch.tv/videos/1884576063]]|[[YouTube❶>https://www.youtube.com/watch?v=s-gVzcDOqeQ]]/[[❷>https://www.youtube.com/watch?v=IF3F__i4aPo]]|
+|#272|2023/6/30|🎦[[金を稼いで組織の準備を進めたい予定(予定)【山本龍也】>>https://www.twitch.tv/videos/1884608456]]|[[YouTube>https://www.youtube.com/watch?v=y7OcER_FjSM]]|
+//
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2023年6月)
+****&font(#5a99a3){2023年5月}
+#region(　2023年5月1日～31日（#232～253）)
+&bold(){▼2023年5月1日～31日}（#232～253）
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#232|2023/5/1|🎦[[帰国からの軽く屋上作りながら雑談【山本龍也】>>https://www.twitch.tv/videos/1833943861]]|[[YouTube>https://www.youtube.com/watch?v=F9z5fGfAqQw]]|
+|#233|2023/5/4|🎦[[なんだか久しぶりな気がする【山本龍也】>>https://www.twitch.tv/videos/1842049278]]|[[YouTube>https://www.youtube.com/watch?v=QC2ft_Nktu8]]|
+|#234|2023/5/5|🎦[[スーパーコーディネーターヤマモト【山本龍也】>>https://www.twitch.tv/videos/1851424839]]|[[YouTube>https://www.youtube.com/watch?v=W4PaXNnKO4o]]|
+|#235|2023/5/9|🎦[[こんな時間にお邪魔します【山本龍也】>>https://www.twitch.tv/videos/1851434040]]|[[YouTube>https://www.youtube.com/watch?v=WXz7rKCNrr8]]|
+|#236|2023/5/9|🎦[[レースじゃ！犯罪の予感【山本龍也】>>https://www.twitch.tv/videos/1857452449]]|[[YouTube>https://www.youtube.com/watch?v=xLz765M8s0I]]|
+|#237|2023/5/10|🎦[[どん底金無しレーサーヤマモト【山本龍也】>>https://www.twitch.tv/videos/1857489199]]|[[YouTube>https://www.youtube.com/watch?v=M2rZDp_fyZY]]|
+|#238|2023/5/14|🎦[[シャンプー泥棒ヤマモト【山本龍也】>>https://www.twitch.tv/videos/1857727677]]|[[YouTube>https://www.youtube.com/watch?v=o0M6AKZa4p4]]|
+|#239|2023/5/15|🎦[[サバゲーが出来るようになったらしいぞ！！！【山本龍也】>>https://www.twitch.tv/videos/1857735439]]|[[YouTube>https://www.youtube.com/watch?v=q9cki5GE7uA]]|
+|#240|2023/5/18|🎦[[少しだけ【山本龍也】>https://www.twitch.tv/videos/1860118527]]|[[YouTube>https://www.youtube.com/watch?v=0WdWZp6g8uM]]|
+|#241|2023/5/19|🎦[[バジルデート回らしい【山本龍也】>>https://www.twitch.tv/videos/1868806959]]|[[YouTube>https://www.youtube.com/watch?v=QOJ9zK6ZsT8]]|
+|#242|2023/5/20|🎦[[レーサーヤマモト編【山本龍也】>>https://www.twitch.tv/videos/1871311189]]|[[YouTube>https://www.youtube.com/watch?v=sOt0Cqe9NeE]]|
+|#243|2023/5/21|🎦[[ドミヌクでレースに勝つ【山本龍也】>>https://www.twitch.tv/videos/1871354921]]|[[YouTube>https://www.youtube.com/watch?v=C8t5pNbK61I]]|
+|#244|2023/5/22|🎦[[新しい服が追加されたらしいぞ！【山本龍也】>https://www.twitch.tv/videos/1871387457]]|[[YouTube>https://www.youtube.com/watch?v=fP_Ypka0JIQ]]|
+|#245|2023/5/23|🎦[[少しレースやって寝る【山本龍也】>https://www.twitch.tv/videos/1871461628]]|[[YouTube>https://www.youtube.com/watch?v=2q2N_YwiDLY]]|
+|#246|2023/5/24|🎦[[レースのレーティング1750を目指して【山本龍也】❶>>https://www.twitch.tv/videos/1871483093]]/[[❷>https://www.twitch.tv/videos/1871496445]]|[[YouTube❶>https://www.youtube.com/watch?v=29-oGjkLHus]]/[[❷>https://www.youtube.com/watch?v=l0t2jMgU_pw]]|
+|#247|2023/5/25|🎦[[山本レーシング発足？【山本龍也】❶>>https://www.twitch.tv/videos/1872202409]]/[[❷>https://www.twitch.tv/videos/1872261333]]|[[YouTube❶>https://www.youtube.com/watch?v=dbOjnRY_ZJo]]/[[❷>https://www.youtube.com/watch?v=-Ks15CYKziE]]|
+|#248|2023/5/26|🎦[[仕事とデートとレース【山本龍也】>>https://www.twitch.tv/videos/1872284140]]|[[YouTube>https://www.youtube.com/watch?v=U0klHqUbHzI]]|
+|#249|2023/5/27|🎦[[自分がレースに出ることが大事【山本龍也】>>https://www.twitch.tv/videos/1872310614]]|[[YouTube>https://www.youtube.com/watch?v=DO3j1VT1wx0]]|
+|#250|2023/5/28|🎦[[メカニック従業員探しの旅【山本龍也】>https://www.twitch.tv/videos/1872318422]]|[[YouTube>https://www.youtube.com/watch?v=oKm7WRlzIck]]|
+|#251|2023/5/29|🎦[[メカニック大幅アップデート！！【山本龍也】❶>>https://www.twitch.tv/videos/1875003373]]/[[❷>https://www.twitch.tv/videos/1875008499]]|[[YouTube❶>https://www.youtube.com/watch?v=jYW8zPfFYhY]]/[[❷>https://www.youtube.com/watch?v=Hl6Ic5AUSfc]]|
+|#252|2023/5/30|🎦[[メカニック人入れないとヤヴァイ【山本龍也】❶>>https://www.twitch.tv/videos/1875010878]]/[[❷>https://www.twitch.tv/videos/1875030196]]|[[YouTube❶>https://www.youtube.com/watch?v=_6aepsbEQHg]]/[[❷>https://www.youtube.com/watch?v=frsTHZJC-V4]]|
+|#253|2023/5/31|🎦[[遅めの社長出勤です【山本龍也】>>https://www.twitch.tv/videos/1875035697]]|[[YouTube>https://www.youtube.com/watch?v=koxwQedtVMg]]|
+//
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2023年5月)
+****&font(#5a99a3){2023年4月}
+#region(　2023年4月1日～30日（#215～231）)
+&bold(){▼2023年4月1日～30日}（#215～231）
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#215|2023/4/7|🎦[[エイジング手術成功？日本からの帰国！【山本龍也】>>https://www.twitch.tv/videos/1822652903]]|[[YouTube>https://www.youtube.com/watch?v=biapt0TX-sk]]|
+|#216|2023/4/8|🎦[[やっと俺レーサーになれるかもしれない【山本龍也】>>https://www.twitch.tv/videos/1822694819]]|[[YouTube>https://www.youtube.com/watch?v=ZV1tSp0Qzw8]]|
+|#217|2023/4/8|🎦[[やっと俺レーサーになれるかもしれない【山本龍也】>>https://www.twitch.tv/videos/1822706525]]|[[YouTube>https://www.youtube.com/watch?v=gKJncJ3W16Q]]|
+|#218|2023/4/9|🎦[[レース＆レース【山本龍也】>>https://www.twitch.tv/videos/1822821479]]|[[YouTube>https://www.youtube.com/watch?v=-L-sLp-IF4M]]|
+|#219|2023/4/10|🎦[[今日はかなりバジルデーになりそう【山本龍也】>>https://www.twitch.tv/videos/1822847884]]|[[YouTube>https://www.youtube.com/watch?v=IBPVXcwNDIY]]|
+|#220|2023/4/11|🎦[[平凡な山本？【山本龍也】>>https://www.twitch.tv/videos/1822887623]]|[[YouTube>https://www.youtube.com/watch?v=1k6xtuz6Sg4]]|
+|#221|2023/4/12|🎦[[金がねぇかもしれん！！やばいぞ！！【山本龍也】>>https://www.twitch.tv/videos/1824612580]]|[[YouTube>https://www.youtube.com/watch?v=TA4GvOVbF1Q]]|
+|#222|2023/4/13|🎦[[今日はバジルが記者会見をする日【山本龍也】>>https://www.twitch.tv/videos/1824623716]]|[[YouTube>https://www.youtube.com/watch?v=FAIn8dGrg_A]]|
+|#223|2023/4/14|🎦[[レース×犯罪＝プリズン【山本龍也】>>https://www.twitch.tv/videos/1824633940]]|[[YouTube>https://www.youtube.com/watch?v=OI8dy4Zqrhw]]|
+|#224|2023/4/17|🎦[[ドリ天やまちゃん【山本龍也】>>https://www.twitch.tv/videos/1827988892]]|[[YouTube>https://www.youtube.com/watch?v=gxIbqjQCNsA]]|
+|#225|2023/4/20|🎦[[家や車を売りたい男【山本龍也】>>https://www.twitch.tv/videos/1827993398]]|[[YouTube>https://www.youtube.com/watch?v=sZvkHmK3GS0]]|
+|#226|2023/4/21|🎦[[どうにか金を稼ぎたい男【山本龍也】>>https://www.twitch.tv/videos/1828014248]]|[[YouTube>https://www.youtube.com/watch?v=cBqMUY_Kv-0]]|
+|#227|2023/4/22|🎦[[引っ越し＆ハウジング＆空き巣【山本龍也】>>https://www.twitch.tv/videos/1829666631]]|[[YouTube>https://www.youtube.com/watch?v=bmJPCJVSbdA]]|
+|#228|2023/4/23|🎦[[家具を買う為に人の家から家具を盗む【山本龍也】>>https://www.twitch.tv/videos/1829671099]]|[[YouTube>https://www.youtube.com/watch?v=elCrW7B-iu0]]|
+|#229|2023/4/24|🎦[[こそ泥なんで3時間だけです【山本龍也】>>https://www.twitch.tv/videos/1830504427]]|[[YouTube>https://www.youtube.com/watch?v=z6xsjpsO8i8]]|
+|#230|2023/4/25|🎦[[過去と現在【山本龍也】>>https://www.twitch.tv/videos/1830513665]]|[[YouTube>https://www.youtube.com/watch?v=ZV--JvqIH6A]]|
+|#231|2023/4/27|🎦[[シャンプー泥棒やまちゃん【山本龍也】>>https://www.twitch.tv/videos/1830516949]]|[[YouTube>https://www.youtube.com/watch?v=ASkDfsASqM0]]|
+//
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2023年4月)
+****&font(#5a99a3){2023年3月}
+#region(　2023年3月1日～31日（#193～214）)
+&bold(){▼2023年3月1日～31日}（#193～214）
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#193|2023/3/1|🎦[[犯罪の兆し【山本龍也】>>https://www.twitch.tv/videos/1781637947]]|[[YouTube>>https://www.youtube.com/watch?v=r88qOXz3DPY]]|
+|#194|2023/3/2|🎦[[免許制度が導入されたらしい【山本龍也】>>https://www.twitch.tv/videos/1784510749]]|[[YouTube>>https://www.youtube.com/watch?v=W9dpId_11WY]]|
+|#195|2023/3/3|🎦[[メカニック生活【山本龍也】>>https://www.twitch.tv/videos/1784753483]]|[[YouTube>>https://www.youtube.com/watch?v=j4aePUT4ybc]]|
+|#196|2023/3/4|🎦[[第一回 ストグラ増やし鬼コラボ！【#ストグラ鬼ごっこ】>>https://www.twitch.tv/videos/1786160967]]|[[YouTube>>https://www.youtube.com/watch?v=aiKR2dTVegs]]|
+|#197|2023/3/4|🎦[[メカニックの仕事を考えよう【山本龍也】>>https://www.twitch.tv/videos/1788058302]]|[[YouTube>>https://www.youtube.com/watch?v=zlxBklAQ5Ng]]|
+|#198|2023/3/5|🎦[[メカニック生活【山本龍也】>>https://www.twitch.tv/videos/1788058302]]|[[YouTube>>https://www.youtube.com/watch?v=tsT5mDGEt-o]]|
+|#199|2023/3/6|🎦[[今日は素材を集めたりクラフトしたり>>https://www.twitch.tv/videos/1790679646]]&br()[[出来れば良いなと思っております【山本龍也】>>https://www.twitch.tv/videos/1790679646]]|[[YouTube>>https://www.youtube.com/watch?v=p9m2q506Yiw]]|
+|#200|2023/3/7|🎦[[メカニック生活【山本龍也】>>https://www.twitch.tv/videos/1794598237]]|[[YouTube>>https://www.youtube.com/watch?v=p9m2q506Yiw]]|
+|#201|2023/3/8|🎦[[レース関係をそろそろ【山本龍也】>>https://www.twitch.tv/videos/1796568900]]|[[YouTube>>https://www.youtube.com/watch?v=RbLsl276Irk]]|
+|#202|2023/3/9|🎦[[最近少し忙しいのかもしれない【山本龍也】>>https://www.twitch.tv/videos/1797314136]]|[[YouTube>>https://www.youtube.com/watch?v=Tiu_F8oqoWU]]|
+|#203|2023/3/10|🎦[[今日はレース出たいね～【山本龍也】>>https://www.twitch.tv/videos/1797349091]]|[[YouTube>>https://www.youtube.com/watch?v=Rn_UhKmcwkQ]]|
+|#204|2023/3/11|🎦[[職権乱用【山本龍也】>>https://www.twitch.tv/videos/1802644957]]|[[YouTube>>https://www.youtube.com/watch?v=D2uM0dLLXm4]]|
+|#205|2023/3/12|🎦[[犯罪デーになる予感【山本龍也】>>https://www.twitch.tv/videos/1802678747]]|[[YouTube>>https://www.youtube.com/watch?v=L_0NwyUmW2Y]]|
+|#206|2023/3/13|🎦[[車のタイヤが取れるようになった...；；【山本龍也】>>https://www.twitch.tv/videos/1802873413]]|[[YouTube>>https://www.youtube.com/watch?v=RgXB_h-d6h8]]|
+|#207|2023/3/14|🎦[[ホワイトデーだから街の女性に雑巾を配る【山本龍也】>>https://www.twitch.tv/videos/1806901959]]|[[YouTube>>https://www.youtube.com/watch?v=c9pGYmlFLy8]]|
+|#208|2023/3/15|🎦[[今日は単独犯罪者の予感【山本龍也】>>https://www.twitch.tv/videos/1806910295]]|[[YouTube>https://www.youtube.com/watch?v=yUyU4UTlFQg]]|
+|#209|2023/3/16|🎦[[リベンジマッチ？【山本龍也】>>https://www.twitch.tv/videos/1806930491]]|[[YouTube>https://www.youtube.com/watch?v=36efbi4ymEM]]|
+|#210|2023/3/17|🎦[[何が何でも高級車強盗をする男【山本龍也】>>https://www.twitch.tv/videos/1806943547]]|[[YouTube>https://www.youtube.com/watch?v=maMvYlfZMwY]]|
+|#211|2023/3/18|🎦[[今日は平凡に過ごします【山本龍也】>>https://www.twitch.tv/videos/1806955731]]|[[YouTube>https://www.youtube.com/watch?v=xLzMHJTSun4]]|
+|#212|2023/3/20|🎦[[家にそろそろ家具が欲しい【山本龍也】>>https://www.twitch.tv/videos/1806971789]]|[[YouTube>https://www.youtube.com/watch?v=XuGGCb1yZs8]]|
+|#213|2023/3/22|🎦[[寝坊した【山本龍也】>>https://www.twitch.tv/videos/1806996324]]|[[YouTube>https://www.youtube.com/watch?v=kMXp9ZQAwWY]]|
+|#214|2023/3/27|🎦[[もしかしたら暫くこの街にこれなくなるかもしれない【山本龍也】>>https://www.twitch.tv/videos/1807049440]]|[[YouTube>https://www.youtube.com/watch?v=utqT6L-3S4s]]|
+//
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2023年3月)
+****&font(#5a99a3){2023年2月}
+#region(　2023年2月1日～28日（#165～192）)
+&bold(){▼2023年2月1日～28日}（#165～192）
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#165|2023/2/2|🎦[[車関係の神アプデきちゃーーー！【山本龍也】>>https://www.twitch.tv/videos/1751251332?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=MCXkVeC1TvA]]|
+|#166|2023/2/3|🎦[[裁判だ！勝てればいいけど、負ければ......【山本龍也】>>https://www.twitch.tv/videos/1751314726?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=7rtqLtMZqqE]]|
+|#167|2023/2/4|🎦[[しがないタクシードライバーの1日【山本龍也】>>https://www.twitch.tv/videos/1751324407?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=AQAVbQHgnqQ]]|
+|#168|2023/2/5|🎦[[街中探索部隊行きます【山本龍也】>>https://www.twitch.tv/videos/1751333338?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=Ew4JHQpDZqU]]|
+|#169|2023/2/5|🎦[[今後のやる事を考えたりするか～【山本龍也】>>https://www.twitch.tv/videos/1751338937?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=dVbQMa6lDao]]|
+|#170|2023/2/6|🎦[[救急隊の格付け見たら今日は終わる予定(予定)【山本龍也】>>https://www.twitch.tv/videos/1751351380?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=3oAit9AFAKQ]]|
+|#171|2023/2/6|🎦[[救急隊の格付け見たら今日は終わる予定(予定)【山本龍也】>>https://www.twitch.tv/videos/1751360687?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=p-uQRzmagbo]]|
+|#172|2023/2/7|🎦[[俺はメカニックをやるんだ！【山本龍也】>>https://www.twitch.tv/videos/1754698572?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=7GITOse4lmI]]|
+|#173|2023/2/9|🎦[[第三章メカニック～起業編～【山本龍也】>>https://www.twitch.tv/videos/1755247847?filter=highlights&sort=time]]|[[YouTube①>>https://www.youtube.com/watch?v=37laR6M2IBc]]/[[②>>https://www.youtube.com/watch?v=EusHDenqyuY]]|
+|#174|2023/2/10|🎦[[今日は特にやる事が無いので犯罪を少々【山本龍也】>>https://www.twitch.tv/videos/1755250450?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=MjtJ0keeYyo]]|
+|#175|2023/2/11|🎦[[開業準備？【山本龍也】>>https://www.twitch.tv/videos/1755641686?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=0xur2JBO9Xw]]|
+|#176|2023/2/13|🎦[[気分転換に少し街ぶらします【山本龍也】>>https://www.twitch.tv/videos/1755660232?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=uU-oxnJKnBU]]|
+|#177|2023/2/13|🎦[[少しだけ【山本龍也】>>https://www.twitch.tv/videos/1759966795?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=LSFuASEEoFg]]|
+|#178|2023/2/14|🎦[[チョコを貰いに来ました【山本龍也】>>https://www.twitch.tv/videos/1759979862?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=-wK7cKD3Kb4]]|
+|#179|2023/2/16|🎦[[新メカニック会社【山本龍也】>>https://www.twitch.tv/videos/1760000463?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=B1NSr6IHo1Q]]|
+|#180|2023/2/17|🎦[[最近の近況を振り返る＆山本に文句や質問を受け付ける回【山本龍也】>>https://www.twitch.tv/videos/1760322690?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=pOMucaim39k]]|
+|#181|2023/2/18|🎦[[まもなく新メカニックの開業準備が終わる！【山本龍也】>>https://www.twitch.tv/videos/1760346053?filter=highlights&sort=time]]|[[YouTube①>>https://www.youtube.com/watch?v=RP0HQ8-pp9w]]/[[②>>https://www.youtube.com/watch?v=SyqG-PqcE90]]/[[③>>https://www.youtube.com/watch?v=O1RX4pmtQJ0]]|
+|#182|2023/2/18|🎦[[夜の部行きますよ～【山本龍也】>>https://www.twitch.tv/videos/1760858494?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=LDpA7U0ssO8]]|
+|#183|2023/2/19|🎦[[誤射をしてくる警官を許すな【山本龍也】>>https://www.twitch.tv/videos/1760866011?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=w-5vVSGN0HA]]|
+|#184|2023/2/20|🎦[[～第三章～メカニック起業編スタートだ！！！【山本龍也】>>https://www.twitch.tv/videos/1760871944?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=7fqx62-6iiw]]|
+|#185|2023/2/21|🎦[[エンジン交換ができるぞ～メカニック起業編～【山本龍也】>>https://www.twitch.tv/videos/1760875402?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=IYlzEAbyuq8]]|
+|#186|2023/2/22|🎦[[そうです、私が借金２億の社長です【山本龍也】>>https://www.twitch.tv/videos/1766638995?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=mtpXIRKJFBU]]|
+|#187|2023/2/23|🎦[[24時からはドラマの撮影があるらしい【山本龍也】>>https://www.twitch.tv/videos/1766645906?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=mErnv67qwGM]]|
+|#188|2023/2/24|🎦[[あら、この街も随分変わったわね【ベティワトソン】>>https://www.twitch.tv/videos/1747602374?filter=archives&sort=time?t=03h37m17s]]※3:37:05〜山本龍也|[[YouTube>>https://www.youtube.com/watch?v=OvSE8vlBLic]]|
+|#189|2023/2/25|🎦[[今日は車関係で大忙しです【山本龍也】>>https://www.twitch.tv/videos/1748629843?filter=archives&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=iDGIKompcww]]|
+|#190|2023/2/26|🎦[[どうも私が社長(残金2000万)です【山本龍也】>>https://www.twitch.tv/videos/1749776787?filter=archives&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=M7nhso7bXwE]]|
+|#191|2023/2/27|🎦[[今日も今日とて仕事をする【山本龍也】>>https://www.twitch.tv/videos/1750674571?filter=archives&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=JeuAXCMqeM0]]|
+|#192|2023/2/28|🎦[[メカニックの看板が！！！【山本龍也】>>https://www.twitch.tv/videos/1751586589?filter=archives&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=mCXvtKamGZU]]|
+//
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2023年2月)
+****&font(#5a99a3){2023年1月}
+#region(　2023年1月1日～31日（#136～164）)
+&bold(){▼2023年1月1日～31日}（#136～164）
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#136|2023/1/1|🎦[[初日の出を見ようぜ！！>>https://www.twitch.tv/videos/1748617888]]|[[YouTube>>https://www.youtube.com/watch?v=3UyTQKRZGZ0]]|
+|#137|2023/1/1|🎦[[新年早々ロスサントスギャング事情は大きく変わりそうです>>https://www.twitch.tv/videos/1748623363]]|[[YouTube>>https://www.youtube.com/watch?v=LjLAjZVKNnY]]|
+|#138|2023/1/2|🎦[[LWGPが解散するまで残り少し>>https://www.twitch.tv/videos/1748750750]]|[[YouTube>>https://www.youtube.com/watch?v=T6a2n8Xn23g]]|
+|#139|2023/1/3|🎦[[久しぶりに単独犯罪者>>https://www.twitch.tv/videos/1748764422]]|[[YouTube>>https://www.youtube.com/watch?v=aTyS-C1ZLhk]]|
+|#140|2023/1/5|🎦[[街から雪が消えた日>>https://www.twitch.tv/videos/1748785522]]|[[YouTube>>https://www.youtube.com/watch?v=8uMUzYcjb_s]]|
+|#141|2023/1/6|🎦[[少し色々設定とか服買ったりするだけ【中の人雑談多め】>>https://www.twitch.tv/videos/1748792683]]|[[YouTube>>https://www.youtube.com/watch?v=z-FW-mnW4SQ]]|
+|#142|2023/1/6|🎦[[お金のうまい使い方を考えてくれ>>https://www.twitch.tv/videos/1748800223]]|[[YouTube>>https://www.youtube.com/watch?v=HDy4FKajXiU]]|
+|#142|2023/1/7|🎦[[高級車強盗団(1人)【山本龍也】>>https://www.twitch.tv/videos/1748811622]]|[[YouTube>>https://www.youtube.com/watch?v=sjZyQUbaxuU]]|
+|#143|2023/1/8|🎦[[車が恋人です。【山本龍也】>>https://www.twitch.tv/videos/1748877769]]|[[YouTube>>https://www.youtube.com/watch?v=cSbVxLA54XM]]|
+|#144|2023/1/9|🎦[[レースがやりたいんじゃ！【山本龍也】>>https://www.twitch.tv/videos/1748919628]]|[[YouTube>>https://www.youtube.com/watch?v=La76w5tGhoU]]|
+|#145|2023/1/10|🎦[[レースがやりたいんじゃ！【山本龍也】>>https://www.twitch.tv/videos/1748927959]]|[[YouTube>>https://www.youtube.com/watch?v=7KZbeD1tXys&pp=ygUk44Os44O844K544GM44KE44KK44Gf44GE44KT44GY44KD77yB]]|
+|#146|2023/1/11|🎦[[出会いと別れ【山本龍也】>>https://www.twitch.tv/videos/1749629577]]|[[YouTube>>https://www.youtube.com/watch?v=g1CBSmZao5A]]|
+|#147|2023/1/12|🎦[[ノー犯罪デーなので今日はレーサー山本【山本龍也】>>https://www.twitch.tv/videos/1750021522]]|[[YouTube>>https://www.youtube.com/watch?v=uV7dn3opQeg]]|
+|#148|2023/1/13|🎦[[今あるレース全コースを走るだけ【山本龍也】>>https://www.twitch.tv/videos/1750031976]]|[[YouTube>>https://www.youtube.com/watch?v=uOt2sVUCjNU]]|
+|#149|2023/1/14|🎦[[11日後の未来を考える【山本龍也】>>https://www.twitch.tv/videos/1750050391]]|[[YouTube>>https://www.youtube.com/watch?v=77QW9_xz7p4]]|
+|#150|2023/1/15|🎦[[見つけたら処すだけ【山本龍也】>>https://www.twitch.tv/videos/1750072208]]|[[YouTube>>https://www.youtube.com/watch?v=HxI6of0JTLE]]|
+|#151|2023/1/16|🎦[[第三回なんでもOKの質問＆視聴者の思っている事を>>https://www.twitch.tv/videos/1750083889?t=03h27m20s]]&br()[[聞いて答える会～番外編～【山本龍也】>>https://www.twitch.tv/videos/1750083889?t=03h27m20s]]※3:27:20〜山本龍也|[[YouTube>>https://youtu.be/if5BjetSGjs?t=12443]]|
+|#152|2023/1/17|🎦[[うい【山本龍也】>>https://www.twitch.tv/videos/1750103819]]|[[YouTube>>https://www.youtube.com/watch?v=htLuoyzQ354]]|
+|#153|2023/1/19|🎦[[新衣装が追加されてるらしい！！！！【山本龍也】>>https://www.twitch.tv/videos/1750118317]]|[[YouTube>>https://www.youtube.com/watch?v=SET9El6FnnA]]|
+|#154|2023/1/20|🎦[[MOZU vs 山本龍也【最終決戦】>>https://www.twitch.tv/videos/1750134337]]|[[YouTube>>https://www.youtube.com/watch?v=CJdqGfXzzWY]]|
+|#155|2023/1/21|🎦[[まったりと車イジイジしたりレースしたり【山本龍也】>>https://www.twitch.tv/videos/1750643545]]|[[YouTube>>https://www.youtube.com/watch?v=uD3H49wE0zs]]|
+|#156|2023/1/22|🎦[[BランクとCランクで戦える車が欲しい【山本龍也】>>https://www.twitch.tv/videos/1751009161]]|[[YouTube>>https://www.youtube.com/watch?v=LIrBa-Wo1z0]]|
+|#157|2023/1/23|🎦[[ここだけの話、全レーサー66人中66位です【山本龍也】>>https://www.twitch.tv/videos/1751067131]]|[[YouTube>>https://www.youtube.com/watch?v=SC9wliauVyQ]]|
+|#158|2023/1/24|🎦[[遂にこの日が.....完全LWGP解散！！【山本龍也】>>https://www.twitch.tv/videos/1751081203]]|[[YouTube>>https://www.youtube.com/watch?v=2kafGhTMe3Q]]|
+|#159|2023/1/26|🎦[[LWGP解散～新ギャングTGS始動～【山本龍也】>>https://www.twitch.tv/videos/1751118614]]|[[YouTube>>https://www.youtube.com/watch?v=lJU3Z-ltTc4]]|
+|#160|2023/1/27|🎦[[新組織～TheScapeGoat～【山本龍也】>>https://www.twitch.tv/videos/1751128941]]|[[YouTube>>https://www.youtube.com/watch?v=9RVI5-4K2V4]]|
+|#161|2023/1/28|🎦[[今日はギャングのボスを集めて集会をやるか【山本龍也】>>https://www.twitch.tv/videos/1751149638]]|[[YouTube>>https://www.youtube.com/watch?v=_HmZq1oBmCs]]|
+|#162|2023/1/29|🎦[[今日はレース出たいねぇ【山本龍也】>>https://www.twitch.tv/videos/1751175979]]|[[YouTube>>https://www.youtube.com/watch?v=MrAfzpw2NvM]]|
+|#163|2023/1/30|🎦[[裁判終わるまでタクシードライバーでもやるわ【山本龍也】>>https://www.twitch.tv/videos/1751198337]]|[[YouTube>>https://www.youtube.com/watch?v=PmGudUYXAi4]]|
+|#164|2023/1/31|🎦[[タクシーでちょっと本気で稼ぐ【山本龍也】>>https://www.twitch.tv/videos/1751213942]]|[[YouTube>>https://www.youtube.com/watch?v=lI-_YB4jz_c]]|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2023年1月)
+
+***&font(b,#555,#e0d0f5,105%){　2022年　}
+****&font(#8768b0){2022年12月}
+#region(　2022年12月1日～31日（#112～135）)
+&bold(){▼2022年12月1日～31日}（#112～135）
+※アーカイブが残っていないため、Wikiのエピソードのリンクを設定しています
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center,Wiki=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show,Wiki=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|~Wiki|h
+|#112|2022/12/1|[[山本龍也らしく【GTARP】>>https://www.twitch.tv/videos/1667382684]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_47e19708]]|
+|#113|2022/12/2|[[山本龍也のwikiを見ながら出かけるまで少し振り返り雑談>>https://www.twitch.tv/videos/1668013190]]|||
+|#114|2022/12/2|[[山本としてもっと強く生きねばならない【GTARP】>>https://www.twitch.tv/videos/1668237425]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_d55e7449]]|
+|#115|2022/12/3|[[俺の周りにはいい男が多すぎる【GTARP】>>https://www.twitch.tv/videos/1669100013]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_ae932c5e]]|
+|#116|2022/12/4|[[俺の周りにはいい男が多すぎる～後編～【GTARP】>>https://www.twitch.tv/videos/1669258058]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_d0763e2a]]|
+|#117|2022/12/4|[[ギャングを続けるかそれとも違う道に進むのか【GTARP】>>https://www.twitch.tv/videos/1670042835]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_751deab6]]|
+|#118|2022/12/5|[[今日はマジで短めです【GTARP】>>https://www.twitch.tv/videos/1670994032]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_a79a4eab]]|
+|#119|2022/12/6|[[今日は良い子の時間に始めて良い子の時間に終わる【GTARP】>>https://www.twitch.tv/videos/1671657592]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_a4efcce1]]|
+|#120|2022/12/8|[[借金2億円の超絶美人警官志望>>https://www.twitch.tv/videos/1673552813]] ※山本龍也RP≫[[3:59:19～>>https://www.twitch.tv/videos/1673552813?t=03h59m19s]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_bda9a374]]|
+|#121|2022/12/10|[[シンデレラだから24時からの配信よ！>>https://www.twitch.tv/videos/1675373690]] ※山本龍也RP≫[[3:22:51～>>https://www.twitch.tv/videos/1675373690?t=3h22m51s]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_84940a6f]]|
+|#122|2022/12/12|[[もしかしたら眠いのかもしれないわ>>https://www.twitch.tv/videos/1677009801]] ※山本龍也RP≫[[1:02:12～>>https://www.twitch.tv/videos/1677009801?t=1h2m12s]]／[[6:20:43～>>https://www.twitch.tv/videos/1677009801?t=6h20m43s]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_76cf2b69]]|
+|#123|2022/12/13|[[ベティ/山本の休日だわ>>https://www.twitch.tv/videos/1677919472]] ※山本龍也RP≫[[1:27:41～>>https://www.twitch.tv/videos/1677919472?t=1h27m41s]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_ade6135d]]|
+|#124|2022/12/15|[[実車が入ったらしいな？？犯罪もやりたいな？>>https://www.twitch.tv/videos/1679595483]]|||
+|#125|2022/12/19|[[山本龍也という男の人生>>https://www.twitch.tv/videos/1683120641]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_b6ff8236]]|
+|#126|2022/12/20|[[20時～27時まで犯罪が無い日だけど色々と計画が進む日>>https://www.twitch.tv/videos/1683966004]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_bb6d3491]]|
+|#127|2022/12/22|[[こんばんは！最近闇の部分が徐々に出てきている山本です！>>https://www.twitch.tv/videos/1685913558]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_dd1e3f11]]|
+|#128|2022/12/23|[[ギャンギャンギャング>>https://www.twitch.tv/videos/1686699999]] ||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_091b1512]]|
+|#129|2022/12/24|[[血で染まるクリスマスパーティー？>>https://www.twitch.tv/videos/1687624734]]||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_d9596692]]|
+|#130|2022/12/25|[[今日こそ血のクリスマス？？>>https://www.twitch.tv/videos/1688348257]] |||
+|#131|2022/12/26|[[なんでもOKの質問＆視聴者の思っている事を聞きたいぞ！雑談～番外編～>>https://www.twitch.tv/videos/1689088915]] ||[[Wiki>>https://w.atwiki.jp/streamergta5/pages/383.html#id_5ec3a20b]]|
+|#132|2022/12/27|🎦[[今日はどうなる事やら....>>https://www.twitch.tv/videos/1748557552?filter=highlights&sort=time]] |[[YouTube>>https://www.youtube.com/watch?v=l2ZbgwrKjTU]]||
+|#133|2022/12/29|🎦[[LW＆TDの突発忘年会>>https://www.twitch.tv/videos/1748586521?filter=highlights&sort=time]] |[[YouTube>>https://www.youtube.com/watch?v=29UYvw-ybtM&t=41s]]||
+|#134|2022/12/30|🎦[[今年の汚れは今年のうちにキレイにする>>https://www.twitch.tv/videos/1748601506?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=easdBBe06l8]]||
+|#135|2022/12/31|🎦[[ロスサントスで年を越し初日の出を見る放送>>https://www.twitch.tv/videos/1748607971?filter=highlights&sort=time]]|[[YouTube>>https://www.youtube.com/watch?v=hf_xAmpblUQ]]||
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2022年12月)
+//
+****&font(#8768b0){2022年11月}
+#region(　2022年11月1日～30日（#78～111）)
+&bold(){▼2022年11月1日～30日}（#78～111）
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|h
+|#78|2022/11/1|[[後1人くらい主力メンバー欲しいな【LWGP】>>https://www.twitch.tv/videos/1640481391]]|
+|#79|2022/11/2|[[昨日ホストで金を使った市民に悪魔のささやき【LWGP】>>https://www.twitch.tv/videos/1641394902]]|
+|#80|2022/11/3|[[昨日ホストで金を使った市民に悪魔のささやき【LWGP】>>https://www.twitch.tv/videos/1641516266]](枠取り直し11/2の続き)|
+|#81|2022/11/3|[[ゆるギャン【LWGP】>>https://www.twitch.tv/videos/1642337988]]|
+|#82|2022/11/4|[[今日は本当に少しだけの予定です【LWGP】>>https://www.twitch.tv/videos/1643138821]]|
+|#83|2022/11/5|[[今日は本当に少しだけの予定です(嘘)【LWGP】>>https://www.twitch.tv/videos/1643369710]]|
+|#84|2022/11/5|[[なんだかんだチームドラゴンが最大戦力で草【LWGP】>>https://www.twitch.tv/videos/1644057442]]|
+|#85|2022/11/6|[[昼からやって途中で仮眠を挟む予定【LWGP】>>https://www.twitch.tv/videos/1644905495]]|
+|#86|2022/11/6|[[今日の作戦は中止っぽいかな？【LWGP】>>https://www.twitch.tv/videos/1645182639]]|
+|#87|2022/11/7|[[車を買おう【LWGP】>>https://www.twitch.tv/videos/1645974905]]|
+|#88|2022/11/8|[[車貧乏ギャングです....【LWGP】>>https://www.twitch.tv/videos/1646858484]]|
+|#89|2022/11/10|[[寝すぎた【LWGP】>>https://www.twitch.tv/videos/1648020831]]|
+|#90|2022/11/10|[[ギャング抗争は近いはず？【RP】>>https://www.twitch.tv/videos/1648717432]]|
+|#91|2022/11/11|[[計画的犯罪を【GTARP】>>https://www.twitch.tv/videos/1649579600]]|
+|#92|2022/11/12|[[ギャングのメンバーを集める日【GTARP】>>https://www.twitch.tv/videos/1650588376]]|
+|#93|2022/11/13|[[今日は現金輸送車を襲いたい【GTARP】>>https://www.twitch.tv/videos/1651528313]]|
+|#94|2022/11/14|[[今宵もまったりしたい気分ではある【GTARP】>>https://www.twitch.tv/videos/1652496133]]|
+|#95|2022/11/15|[[犯罪禁止デーなので今日は24時頃にはおわるぞ【GTARP】>>https://www.twitch.tv/videos/1653377604]]|
+|#96|2022/11/16|[[抗争開始の狼煙を上げたい【GTARP】>>https://www.twitch.tv/videos/1654226431]]|
+|#97|2022/11/17|[[街ブラしながら抗争の準備とかどうするかを考える【GTARP】>>https://www.twitch.tv/videos/1655022444]]|
+|#98|2022/11/17|[[新メンバー加入【GTARP】>>https://www.twitch.tv/videos/1655168516]]|
+|#99|2022/11/18|[[反省と成長【GTARP】>>https://www.twitch.tv/videos/1656134801]]|
+|#100|2022/11/19|[[ボロ小屋じゃなくいい家を買いたい【GTARP】>>https://www.twitch.tv/videos/1657029781]]|
+|#101|2022/11/20|[[MOZU探しと殺し【GTARP】>>https://www.twitch.tv/videos/1658106507]]|
+|#102|2022/11/21|[[警察に情報開示をして街から「少し」距離を置く日【GTARP】>>https://www.twitch.tv/videos/1658907782]]|
+|#103|2022/11/22|🎦[[誰かが1億円を手にする日【GTARP】>>https://www.twitch.tv/videos/1660516621]]|
+|#104|2022/11/23|[[抗争1日での損害が約2000万円以上でてる件について【GTARP】>>https://www.twitch.tv/videos/1660624474]]|
+|#105|2022/11/24|[[組織のお金を作らねばならない【GTARP】>>https://www.twitch.tv/videos/1661495139]]|
+|#106|2022/11/25|[[明日の抗争に備える【GTARP】>>https://www.twitch.tv/videos/1662298940]]|
+|#107|2022/11/26|[[『MOZU vs LWGP』山本龍也の人生最終日になるかもしれない【GTARP】>>https://www.twitch.tv/videos/1663119133]]|
+|#108|2022/11/27|[[俺はこの街で生きていく～プリズン編～【GTARP】>>https://www.twitch.tv/videos/1663991293]]|
+|#109|2022/11/28|[[雪の降る街に舞い戻る～プリズン出所編～【GTARP】>>https://www.twitch.tv/videos/1664903834]]|
+|#110|2022/11/29|[[犯罪禁止な平和な火曜日【GTARP】>>https://www.twitch.tv/videos/1665743130]]|
+|#111|2022/11/30|[[決意と決断【GTARP】>>https://www.twitch.tv/videos/1666500927]]|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2022年11月)
+//
+//
+****&font(#8768b0){2022年10月}
+#region(　2022年10月1日～31日（#43～77）)
+&bold(){▼2022年10月1日～31日}（#43～77）
+&font(90%,#999999){※動画欄リンクはTwitchで配信したアーカイブ動画をYouTubeにupしたもの。}
+#table_style(head=#ddd){日付=#fff,Twitchアーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){Twitchアーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#e6e6fa):~Twitchアーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#43|2022/10/1|🎦[[テロを行ってプリズンに行く日【LWGP】>>https://www.twitch.tv/videos/1666343257]]|[[YouTube>>https://youtu.be/84LpewXnt0k]]|
+|#44|2022/10/2|🎦[[【雑談？】ストグラに入れて貰う服や髪形を探すだけの放送>>https://www.twitch.tv/videos/1666343426]]|-|
+|#45|2022/10/2|🎦[[金を稼ぎ次なる犯罪に備えよ【LWGP】>>https://www.twitch.tv/videos/1666343563]]|[[YouTube>>https://youtu.be/M1bi2sq1L-w]]|
+|#46|2022/10/3|[[中途半端な奴を徹底的に潰す【LWGP】>>https://www.twitch.tv/videos/1608161884]]|[[YouTube>>https://youtu.be/wNkXSq3wVKY]]|
+|#47|2022/10/4|🎦[[俺は連合会に入ってる意味があるのかを考える【LWGP】>>https://www.twitch.tv/videos/1666343881]]※昼配信枠|[[YouTube>>https://youtu.be/XSP_EeZiFjw]]|
+|#48|2022/10/4|[[俺は連合会に入ってる意味があるのかを考える【LWGP】>>https://www.twitch.tv/videos/1608979829]]※夜配信枠|[[YouTube>>https://youtu.be/0NGuWfZOS5A]]|
+|#49|2022/10/5|[[市民の皆様には申し訳ないが【LWGP】>>https://www.twitch.tv/videos/1609867978]]|[[YouTube>>https://youtu.be/-uTZ0KpP4KM]]|
+|#50|2022/10/6|🎦[[気が付けば最大戦力になりそう【LWGP】>>https://www.twitch.tv/videos/1666345865]]|-|
+|#51|2022/10/8|[[日曜日まで潜伏期間【LWGP】>>https://www.twitch.tv/videos/1615868756]]|-|
+|#52|2022/10/8|[[真面目にパージをやるのではなく戦闘力を見定める【LWGP】>>https://www.twitch.tv/videos/1618509254]]|-|
+|#53|2022/10/9|[[経済リセットが入りましたので牛耳ります【LWGP】>>https://www.twitch.tv/videos/1619505893]]|-|
+|#54|2022/10/10|[[守る物がある人間は弱い【LWGP】>>https://www.twitch.tv/videos/1620290257]]|-|
+|#55|2022/10/11|[[決断の時【LWGP】>>https://www.twitch.tv/videos/1621215245]]|-|
+|#56|2022/10/12|[[ギャングも恋愛したい【LWGP】>>https://www.twitch.tv/videos/1622140384]]|-|
+|#57|2022/10/13|[[貧乏ギャングは卒業だ【LWGP】>>https://www.twitch.tv/videos/1622901163]]|-|
+|#58|2022/10/14|[[結局私には孤独が似合う【LWGP】>>https://www.twitch.tv/videos/1623921958]]|-|
+|#59|2022/10/15|[[この街を薬物で染めたい【LWGP】>>https://www.twitch.tv/videos/1624722563]]|-|
+|#60|2022/10/16|[[市民を殺すかもしれません【LWGP】>>https://www.twitch.tv/videos/1625872050]]|-|
+|#61|2022/10/17|[[逃走経路を考えたり仲間の事を考えたり薬を作ったり【LWGP】>>https://www.twitch.tv/videos/1626542652]]|-|
+|#62|2022/10/18|[[グレーな市民を育成しよう！【LWGP】>>https://www.twitch.tv/videos/1627472847]]|-|
+|#63|2022/10/19|[[所持金1000万以下の貧乏ギャング【LWGP】>>https://www.twitch.tv/videos/1628392327]]|-|
+|#64|2022/10/20|[[ホワイトなギャング【LWGP】>>https://www.twitch.tv/videos/1629269946]]|-|
+|#65|2022/10/21|[[市民に圧を与えます【LWGP】>>https://www.twitch.tv/videos/1630231195]]|-|
+|#66|2022/10/22|[[コンビニ経営権を一応買っときます？？【LWGP】>>https://www.twitch.tv/videos/1631190062]]|-|
+|#67|2022/10/23|🎦[[ギャングの島争いが始まったぞ【LWGP】>>https://www.twitch.tv/videos/1666345492]]|-|
+|#68|2022/10/24|[[金がねぇい【LWGP】>>https://www.twitch.tv/videos/1633125003]]|-|
+|#69|2022/10/25|[[金がねぇい【LWGP】>>https://www.twitch.tv/videos/1633171664]](枠取り直し10/24の続き)|-|
+|#70|2022/10/25|[[抗争の時は近い....？【LWGP】>>https://www.twitch.tv/videos/1633956691]]|-|
+|#71|2022/10/26|[[戻れちゃったので少しやっていい？【LWGP】>>https://www.twitch.tv/videos/1634396724]]|-|
+|#72|2022/10/26|[[チームドラゴンどこ？【LWGP】>>https://www.twitch.tv/videos/1634819922]]|-|
+|#73|2022/10/27|[[レジェンダリーカードの価値が数千万～数億するらしい【LWGP】>>https://www.twitch.tv/videos/1635759676]]|-|
+|#74|2022/10/28|[[貧乏ギャング卒業していいっすか？【LWGP】>>https://www.twitch.tv/videos/1636672442]]|-|
+|#75|2022/10/29|[[何だか今日はハロウィンパーティー的なものがあるらしい【LWGP】>>https://www.twitch.tv/videos/1637689823]]|-|
+|#76|2022/10/30|[[警官とギャングの関係をより悪くしたい【LWGP】>>https://www.twitch.tv/videos/1638649860]]|-|
+|#77|2022/10/31|[[今日は無駄遣いをせず金を稼ぐ【LWGP】>>https://www.twitch.tv/videos/1639596500]]|-|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2022年10月)
+//
+****&font(#8768b0){2022年9月}
+#region(　2022年9月1日～30日（#7～42）)
+&bold(){▼2022年9月1日～30日}（#7～42）
+&font(90%,#999999){※9/19以降ライブ配信はTwitch&icon_fa(fa fa-twitch)にて。&nbsp(br,4)動画欄リンクはTwitchで配信したアーカイブ動画をYouTubeにupしたもの。}
+#table_style(head=#ddd){日付=#fff,配信アーカイブ=#fff:#909090,動画=#fff:center:}
+#table_filter(){配信アーカイブ=show,動画=show}
+|~#|~日付|BGCOLOR(#fff5e3):~配信アーカイブ|BGCOLOR(#ffe4e1):~動画|h
+|#7|2022/9/1|&icon_fa(fa fa-youtube-play)[[オカネノタメダ．．．．【山本モータース】>>https://youtu.be/OutRLUocwds]]|-|
+|#8|2022/9/1|&icon_fa(fa fa-youtube-play)[[従業員も雇ったので車屋がんばるぞーーーー【山本モータース】>>https://youtu.be/OU_bPN0X_tg]]|-|
+|#9|2022/9/2|&icon_fa(fa fa-youtube-play)[[会社の資金でギャンブルをし従業員を路頭に迷わせた男【山本モータース】>>https://youtu.be/YDDuyjTGYq4]]|-|
+|#10|2022/9/4|&icon_fa(fa fa-youtube-play)[[社長少し体調不良のため短めの出勤【山本モータース】>>https://youtu.be/VKqYZYc0k4s]]|-|
+|#11|2022/9/4|&icon_fa(fa fa-youtube-play)[[念願の中古車販売ができるようになった！【山本モータース】>https://youtu.be/exv34pSGWic]]|-|
+|#12|2022/9/5|&icon_fa(fa fa-youtube-play)[[公務員達よ、うちを敵に回すと怖いぞ？【山本モータース】>>https://youtu.be/qoM3mdPXoW8]]※昼配信枠|-|
+|#13|2022/9/5|&icon_fa(fa fa-youtube-play)[[公務員達よ、うちを敵に回すと怖いぞ？【山本モータース】>>https://youtu.be/r9PSK6oYsOY]]※夜配信枠|-|
+|#14|2022/9/6|&icon_fa(fa fa-youtube-play)[[不動産で借金を抱えたので弁護士に相談したい【山本モータース】>>https://youtu.be/swEK9H_rM6I]]|-|
+|#15|2022/9/7|&icon_fa(fa fa-youtube-play)[[社長より早い車に乗ってる奴許せない！！【山本モータース】>>https://youtu.be/1kBPy0GwDiQ]]|-|
+|#16|2022/9/8|&icon_fa(fa fa-youtube-play)[[～社長の休日～まったりスローライフを送ります【山本モータース】>>https://youtu.be/A4CFEyFyKJE]]|-|
+|#17|2022/9/9|&icon_fa(fa fa-twitch)[[山本モータースでございます。>>https://www.twitch.tv/videos/1586133995]]|-|
+|#18|2022/9/10|&icon_fa(fa fa-twitch)[[山本モータースでございます。>>https://www.twitch.tv/videos/1586240083]](枠取り直し9/9の続き)|-|
+|#19|2022/9/10|&icon_fa(fa fa-youtube-play)[[スローライフが遅れない社長【山本モータース】>https://youtu.be/vSXTcVG_kdA]]|-|
+|#20|2022/9/11|&icon_fa(fa fa-youtube-play)[[なんだか穏やかじゃないかもねぇ..？【山本モータース】>>https://youtu.be/Ns-GaPWxPVU]]|-|
+|#21|2022/9/12|&icon_fa(fa fa-youtube-play)[[ある人物に捕らわれた山本社長【山本モータース】>>https://youtu.be/SxM-zy6E-wk]]|-|
+|#22|2022/9/13|&icon_fa(fa fa-youtube-play)[[今日こそまったり過ごすからな！！！！【山本モータース】>>https://youtu.be/U3GN5tWmZyM]]|-|
+|#23|2022/9/14|&icon_fa(fa fa-youtube-play)[[うい【山本モータース】>>https://youtu.be/i0CFf0l8Pp0]](枠取り直し9/13の続き)|-|
+|#24|2022/9/14|&icon_fa(fa fa-youtube-play)[[車のスピードリミッターが導入されたぞ！！【山本モータース】>>https://youtu.be/qxaTi_t3Zzk]]|-|
+|#25|2022/9/15|&icon_fa(fa fa-youtube-play)[[そろそろライバル店が出来るようです【山本モータース】>>https://youtu.be/sWIdJETpJf8]]|-|
+|#26|2022/9/17|&icon_fa(fa fa-youtube-play)[[こんばんわ【山本モータース】>>https://youtu.be/5Q5np4ujkrw]]|-|
+|#27|2022/9/17|&icon_fa(fa fa-youtube-play)[[そろそろ本格的に網を張るか【山本モータース】>>https://youtu.be/TLGBdCdOXTM]]|-|
+|#28|2022/9/18|&icon_fa(fa fa-youtube-play)[[恩を仇で返す奴は嫌いです【山本モータース】>>https://youtu.be/HpCNsz8w7LA]]|-|
+|BGCOLOR(#ddd):COLOR(#ddd):#29|BGCOLOR(#ddd):2022/9/19|BGCOLOR(#ddd):COLOR(#191970):&small(){以降ライブ配信はTwitchにて。(※&icon_fa(fa fa-twitch)省略)}|BGCOLOR(#ddd):-|
+|#29|2022/9/19|[[弁護士を通して示談して海女さんに俺はなる【山本モータース】>>https://www.twitch.tv/videos/1595384456]]|[[YouTube>>https://youtu.be/wdA_VtkIGVM]]|
+|#30|2022/9/20|[[弁護士が来たら示談を進める【山本モータース】>>https://www.twitch.tv/videos/1596140060]]|[[YouTube>>https://youtu.be/YsXRP2L0YLk]]|
+|#31|2022/9/21|[[今日は体のメンテナンスも込めて短めな気がします【山本モータース】>>https://www.twitch.tv/videos/1597063231]]|-|
+|#32|2022/9/22|[[一番の敵か？それはネット回線だ【山本モータース】>>https://www.twitch.tv/videos/1597968102]]|[[YouTube>>https://youtu.be/JPioRLX6OEs]]|
+|#33|2022/9/23|[[決断そして決別【山本モータース？】>>https://www.twitch.tv/videos/1598889636]]|[[YouTube>>https://youtu.be/jdNdgSsgf0I]]|
+|#34|2022/9/24|[[情報収集と関係性をはっきりさせる【山本モータース？】>>https://www.twitch.tv/videos/1599843051]]|[[YouTube>>https://youtu.be/1dQFE94icG4]]|
+|#35|2022/9/25|[[社長辞めます。【山本モータース？？？】>>https://www.twitch.tv/videos/1600886636]]|[[YouTube>>https://youtu.be/2n_LFOa3tEA]]|
+|#36|2022/9/26|[[車屋経営権をダニエルに譲りギャングへ....【LWGP】>>https://www.twitch.tv/videos/1601767885]]|[[YouTube>>https://youtu.be/T4Q-GtGVPvk]]|
+|#37|2022/9/27|[[ギャングが一時休戦協定が結ばれるかもしれない日【LWGP】>>https://www.twitch.tv/videos/1602649440]]|[[YouTube>>https://youtu.be/rPzFKsVuChA]]|
+|#38|2022/9/28|[[嘘の証言で逮捕は駄目だよってのを分からせる【LWGP】>>https://www.twitch.tv/videos/1603602786]]|[[YouTube>>https://youtu.be/EttDMUP7FQw]]|
+|#39|2022/9/29|[[仕入れとか整理をするだけじゃよ【LWGP】>>https://www.twitch.tv/videos/1604028730]]|-|
+|#40|2022/9/29|[[今日は逮捕されるかもしれません【LWGP】>>https://www.twitch.tv/videos/1604392651]]|[[YouTube>>https://youtu.be/vZ2fJ4CeAqo]]|
+|#41|2022/9/30|[[犯罪の計画書を作ろう【LWGP】>>https://www.twitch.tv/videos/1605226202]]|[[YouTube>>https://youtu.be/8wWJzXJfBQo]]|
+|#42|2022/9/30|🎦[[今日は金を稼ぐために犯罪をヤル【LWGP】>>https://www.twitch.tv/videos/1666342836]]|[[YouTube>>https://youtu.be/837-yjzYNuQ]]|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2022年9月)
+//
+//
+****&font(#8768b0){2022年8月}
+#region(　2022年8月（#1～6）)
+&bold(){▼2022年8月}（#1～6）
+#table_style(head=#ddd){日付=#fff,配信アーカイブ=#fff:#909090}
+|~#|~日付|BGCOLOR(#fff5e3):~配信アーカイブ|h
+|#1|2022/8/29|&icon_fa(fa fa-twitch)[[ゲームの世界では真面目に働きたい。>>https://www.twitch.tv/videos/1575129322]]|
+|#2|2022/8/29|&icon_fa(fa fa-twitch)[[ゲームの世界では善人で居たい～真面目に仕事編～>>https://www.twitch.tv/videos/1575828625]]|
+|#3|2022/8/30|&icon_fa(fa fa-twitch)[[ゲームの世界では善人で居たい～オレ、オカネカセグ編～>>https://www.twitch.tv/videos/1576116873]]|
+|#4|2022/8/30|&icon_fa(fa fa-youtube-play)[[これが俺の人生だ!!【山本龍也】>>https://youtu.be/0mIXePXDB_c]]|
+|#5|2022/8/31|&icon_fa(fa fa-youtube-play)[[くるま～車は要らんかねぇ～【山本モータース】>>https://youtu.be/0BJfl2XS9PU]]|
+|#6|2022/8/31|&icon_fa(fa fa-youtube-play)[[車屋軌道に乗せて従業員を雇いたい【山本モータース】>>https://youtu.be/7ZhLS5YS86I]]|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#endregion(2022年8月)
+
+#right(){&link_anchor(目次1){🔝 目次へ}}
+
+***&font(b,#FFF,#888,105%){　エピソード 0　}
+山本龍也の13年前のストーリーを「エピソード ゼロ」として配信開始
+#size(150%){{{&color(#F54738){⚠️注意！別RPでの配信です}}}}
+#region(　2023年2月28日〜（#0～）)✖️閉じる
+&bold(){▼2023年2月28日〜}（#0～）
+#table_style(head=#f0f0f0){日付=#fff,Twitchアーカイブ=#fff:#909090}
+|~#|BGCOLOR(#e6e6fa):~Twitchアーカイブ|h
+|#0|🎦[[【ALTF4】英語分からないけどノリと勢いで海外生活サバに潜り込む【GTARP】>>https://www.twitch.tv/videos/1772686388]]&br()&font(80%){※前日譚？「Tommy Vegas」としてプレイ}|
+|#1|🎦[[【ALTF4】#1 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1773982140]]&br()&font(80%){※キャラを作り直し、以降は「山本 龍也」としてプレイ}|
+|#2|🎦[[【ALTF4】#2 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1777479559]]|
+|#3|🎦[[【ALTF4】#3 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1777973920]]|
+|#3.5|🎦[[【ALTF4】#3.5 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1777984855]]|
+|#4|🎦[[【ALTF4】#4 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1781065420]]|
+|#4.5|🎦[[【ALTF4】#4.5 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1781104830]]|
+|#5|🎦[[【ALTF4】#5 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1784371144]]|
+|#6|🎦[[【ALTF4】#6 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1784784300]]|
+|#7|🎦[[【ALTF4】#7 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1785497459]]|
+|#8|🎦[[【ALTF4】#8 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1788043571]]|
+|#9|🎦[[【ALTF4】#9 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1790690597]]|
+|#10|🎦[[【ALTF4】#10 ロスサントスに居る山本龍也という男の過去【エピソード0】>>https://www.twitch.tv/videos/1796603666]]|
+#table_sorter{}
+#endregion(2023年4月)
+
+#right(){[[▲山本龍也ページTopへ>山本　龍也#ページ上部]]}

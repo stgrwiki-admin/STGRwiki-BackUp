@@ -1,0 +1,68 @@
+//&image(ここに画像のURLを入力,y=300)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|&ruby(すがわら　ゆうや){スガワラ　ユウヤ}|
+|~出身地|ここに出身地を入力|
+|~誕生日|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|2023年08月14日 (&countup(2023/08/14,yd))|
+|~職業|ホスト(体験中)|
+|~プレイヤー|スタンミ|
+|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>https://twitter.com/sutanmiJPN]]|
+|~配信場所|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/sutanmi]]|
+
+//目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「***」（*3つ）まで表示するように設定しています。
+#region(目次を開く)目次
+#contents(fromhere=true,level=3)
+#endregion
+
+**基本情報
+-100年前の記憶を持つ民の一人。
+--記憶では、&color(#FFC40C){黄色のギャング}に所属していた。
+//VCR GTAギャングカラー黄：RIDDLE 
+**エピソード
+//***2023年
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+08/14
+・[[七瀬　ぜろ]]より街案内を受ける
+--レギオンで[[そら　びびた]]　[[銭形　やいち郎]]らと🔰特有に殴りあいをする
+-途中前の街になかったストリップバーに興味がわき立ち寄る。不在だったが[[桜星　ヨウコウ]]より[[ジャム姉>>https://w.atwiki.jp/streamergta5/?cmd=word&word=%E3%82%B8%E3%83%A3%E3%83%A0%E5%A7%89&pageid=285]]の裏メニューの話を聞く(相場は１００万から)
+-STATEアプリから警察の[[キャップアメリカ>>https://w.atwiki.jp/streamergta5/?cmd=word&word=%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97&pageid=32]]という名前に惹かれ電話をかける。
+-[[猪狩　翔太]]から普通免許講習を受ける
+-[[アルフォート　ウェスカー]]より[[この街のギャング事情を聞く。>>https://www.twitch.tv/videos/1898427112?t=04h32m10s]]前の街で愛用していたアクマ （Akuma）を買う資金を貯めたい話をすると違法バイトをすれば一発で買えると聞く。
+-レギオンにて[[斉藤　まさのり]]　[[淀川　てるみ]]と出会い街案内してくれるとのことでこの街の職業案内を聞く。
+--ストリップバーに求職を考える[[淀川　てるみ]]が前日行った際に、既に在籍数が多数であり、就職には全力全霊の意欲がいるとのこと。またホストも在籍してるということで[[身支度を整えて乗り込むことにした。>>https://www.twitch.tv/videos/1898427112?t=04h51m30s]]
+-[[ストリップバーでの出来事はこちら>>https://www.twitch.tv/videos/1898427112?t=05h20m30s]]
+-[[ジャム姉>>https://w.atwiki.jp/streamergta5/?cmd=word&word=%E3%82%B8%E3%83%A3%E3%83%A0%E5%A7%89&pageid=285]]から[[お店のコンセプトに合わせた衣装を用意するよう改めて服を選ぶ。>>https://www.twitch.tv/videos/1898427112?t=05h48m20s>>]]
+
+//#endregion
+//
+//#endregion(2023年)
+//
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+***2023年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2023/08/14|1|[[雑談→ストグラ見に行こう>>https://www.twitch.tv/videos/1898427112]]||
+
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

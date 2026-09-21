@@ -1,0 +1,15 @@
+//カジノページにも入れ込みたいので、別ページ化しました。
+//
+***&big(){&underdot(#9966CC,3px){◆&space(2)販売中　}}
+#table_filter(){画像=show,依頼人=show,契約日=hide,提供日=hide,契約金=hide,価格=show,紹介文=show,備考=hide}
+#table_style(head=center:#9966CC:#FFFFFF){契約日=85%,提供日=85%,契約金=right:90%,価格=right:90%,,依頼人=90%,紹介文=85%,備考=85%}
+|~画像|~商品名|~依頼人|~契約日|~提供日|~契約金|~価格|~紹介文|~備考|h
+|&anchor(NASHIMA COCKTAIL)&blankimg(https://pbs.twimg.com/media/F9ZJvM_akAAblX_?format=jpg,x=40,y=67)|[[NASHIMA COCKTAIL>>https://twitter.com/sakuyatobari/status/1721012503038312684]]&br()&small(){&color(#AAAAAA){モチーフ>[[無馬 かな>無馬　かな]]}}|従業員&br()カクテル|-|'23/11/04|-|500万円|カジノオーナーをイメージしたカクテル。&br()甘く爽やかでスパイシーな香り。&br()度数が高く美味しい危険な一杯。|実際に作成すると度数が40度になる危険な一杯。&br()なのに飲みやすく、夢の中で試飲した鳥羽は潰れ&br()た。&br()一時期、特定の&openclose2(show=ギャング){(餡ブレラ)}から人気を博していた。|
+|&anchor(TOBA COCKTAIL)&blankimg(https://pbs.twimg.com/media/F9ZJxOfbAAAO6Ur?format=jpg,x=40,y=61)|[[TOBA COCKTAIL>>https://twitter.com/sakuyatobari/status/1721012503038312684]]&br()&small(){&color(#AAAAAA){モチーフ>[[鳥羽 咲夜>鳥羽　咲夜]]}}|従業員&br()カクテル|-|'23/11/04|-|100万円|鳥羽咲夜をイメージしたカクテル。&br()花と桃の香りを感じる&br()女性にオススメの一杯です。|バイオレットと桃のリキュール、レモンジュース&br()を主に構成されている。飲みやすいがジンを使用&br()しているため意外と度数は高め。|
+|&blankimg(https://pbs.twimg.com/media/F9ZJzILaAAAEkQl?format=jpg,x=40,y=53)|[[UEDA COCKTAIL>>https://twitter.com/sakuyatobari/status/1721012503038312684]]&br()&small(){&color(#AAAAAA){モチーフ>[[上田 さん>上田　さん]]}}|従業員&br()カクテル|-|'23/11/04|-|10万円|上田さんをイメージしたカクテル。&br()スパイシーでにぎやかで楽しい。&br()コーラベースの飲みやすい一杯です。|ゴールドテキーラとハニージンジャーをコーラで&br()割ったもの。レモン、パイン、チェリーを入れて&br()楽しさを演出。|
+||BEAR COCKTAIL RED&br()&small(){&color(#AAAAAA){モチーフ>ホワイトデー、クマ}}|[[物産展協会]]|'24/02/20|'24/03/12|-|10万円|くまのグラスのカクテル(赤)||
+||BEAR COCKTAIL YELLOW&br()&small(){&color(#AAAAAA){モチーフ>ホワイトデー、クマ}}|[[物産展協会]]|'24/02/20|'24/03/12|-|10万円|くまのグラスのカクテル(黄)||
+||BEAR COCKTAIL PINK&br()&small(){&color(#AAAAAA){モチーフ>ホワイトデー、クマ}}|[[物産展協会]]|'24/02/20|'24/03/12|-|10万円|くまのグラスのカクテル(桃)||
+||BEAR COCKTAIL PURPLE&br()&small(){&color(#AAAAAA){モチーフ>ホワイトデー、クマ}}|[[物産展協会]]|'24/02/20|'24/03/12|-|10万円|くまのグラスのカクテル(紫)||
+||BEAR COCKTAIL BLUE&br()&small(){&color(#AAAAAA){モチーフ>ホワイトデー、クマ}}|[[物産展協会]]|'24/02/20|'24/03/12|-|10万円|くまのグラスのカクテル(青)||
+#table_sorter{even=#FAF6FF,odd=#FFFFFF}

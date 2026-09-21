@@ -1,0 +1,49 @@
+**プロフィール
+//&image(ここに画像のURLを入力,y=400)
+
+#table_style(head=#e6e6fa:#666666){名前=#eee:b:center}
+|~名前|&ruby(いわ){岩}　&ruby(そうじ){総司}|
+|~転入日|2023年6月14日 (&countup(2023/6/14,yd)経過)|
+|~プレイヤー|so5u|
+|~告知等| &color(#FFFFFF,#000000){&space()𝕏&space()}[[&font(#000000){&space()X&space()(旧Twitter)}>>https://twitter.com/so5u_sosu]]|
+|~配信場所|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/so5u]]|
+|~別キャラ|[[いわさき　そす]]|
+
+#co{{
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**基本情報
+
+**エピソード
+***2023年
+
+#region(mm月,open)&bold(){mm月}
+****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+#endregion(mm月)
+
+#co{
+↓コピー用素材
+
+//****mm/dd [[配信タイトル>>ここに配信URLを入力]]
+#region(開く,open)
+・エピソード募集中
+#endregion
+
+}
+**アーカイブ
+***2024年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|mm/dd|1|[[配信タイトル>>ここに配信URLを入力]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+}}
+
+#right(){&link_up(🔝ページTOPへ)}

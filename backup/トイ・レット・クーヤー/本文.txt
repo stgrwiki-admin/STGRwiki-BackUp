@@ -1,0 +1,58 @@
+&image(トイ・レット_1.jpeg,x=270)
+
+//ここからプロフィール
+#table_color(#e6e6fa)
+|~名前|&ruby(){トイ・レット・クーヤー}|
+|~出身地|ここに出身地を入力|
+|~誕生日|2023年10月29日 (&countup(2023/10/29,y)歳)|
+|~転入日|yyyy年mm月dd日 (&countup(yyyy/mm/dd,yd)経過)|
+|~職業||
+|~TwiX|@トイ・レット・クーヤー|
+|BGCOLOR(#eee):~プレイヤー|くーや|
+|BGCOLOR(#eee):~告知等|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>>https://twitter.com/kuuuuya_box]]|
+|BGCOLOR(#eee):~配信場所|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@user-ms3if1uw5f]]|
+//&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>ここにチャンネルのURLを入力]]
+//|BGCOLOR(#eee):~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[&font(#1da1f2){Twitter}>>ここにチャンネルのURLを入力]]|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+・情報を記述
+
+**エピソード
+***2023年
+#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+#endregion(2023年)
+
+・エピソード募集中
+//
+//↓コピー用素材
+//
+//***yyyy年mm月
+//#region(開く,open)
+//****mm/dd　#n　[[配信タイトル>>ここに配信URLを入力]]
+//#region(開く,open)
+//・エピソード募集中
+//#endregion
+//
+//#endregion(mm月)
+//
+
+**アーカイブ
+***2023年
+#region(開く,open)
+#table_style(head=center:#e6e6fa){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|23/10/29|1|[[【#ストグラ】第一話・知らない街【GameWith所属】>>https://www.youtube.com/live/jvC_EzqwoUs?si=TemQ1Za0OQ75T39f]]||
+|23/10/30|2|[[【#ストグラ】第二話・トイレの皇子、就職体験するってよ【GameWith所属】>>https://www.youtube.com/watch?v=Z0ha98Edzaw]]||
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

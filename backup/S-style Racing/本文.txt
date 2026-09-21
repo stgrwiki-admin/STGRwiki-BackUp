@@ -1,0 +1,53 @@
+//&image(ここに画像のURLを入力,y=300)
+
+#table_color(#c0c0c0)
+|~組織名|&ruby(){S-style Racing}|
+|~設立日|2023年12月26日|
+|~本拠地|地下レース場、ドリフト島など|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**基本情報
+[[菖光エンジニア]]発のドリフトチーム。
+S-Style生みの親[[猪狩　翔太]]、[[中川　蔵人]]を主要メンバーとしてTwiXにて動画を投稿している。
+チーム名にもなっている、S-styleの”S”はSHOKO（菖光）の頭文字をとっている。
+
+**拠点
+#table_style(head=#808080:#f9fcff,center,b)
+#table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
+|番地|通称|管理者|備考|h
+||地下レース場|[[かな市長補佐]]|備考|
+|3063以東|ドリフト島||備考|
+
+#table_sorter{even=#f7f7f7,odd=#fff}
+
+**メンバー
+#table_style(head=#696969:#f9fcff,center,b)
+|名前|加入日|備考|h
+|[[猪狩　翔太]]||[[菖光エンジニア]]社長。ドリフトに起きている時間の9割を費やしたドリフトジャンキー|
+|[[中川　蔵人]]||[[菖光會]]社長。S-style RacingのTwiXアカウント運用をしている敏腕カメラマン。&br()ドリフトの腕もピカイチ|
+
+#table_sorter{even=#f7f7f7,odd=#fff}
+//***協力関係
+//
+//***過去メンバー
+//#table_style(head=#696969:#f9fcff,center,b)
+//|名前|加入日|脱退日|備考|h
+//|名前|加入日|脱退日|備考|
+//|2|名前|加入日|脱退日|備考|
+//|3|名前|加入日|脱退日|備考|
+//#table_sorter{even=#f7f7f7,odd=#fff}
+//
+
+**歴史
+#table_style(head=#696969:#f9fcff,center,b)
+#table_filter(){出来事=show,関係者=hide,備考=show}
+|日付|出来事|関係者|備考|h
+|12/26|初の動画投稿「[[これがドリフトだ>>https://clips.twitch.tv/CarelessCoweringPlumberTheTarFu-hW_FkEv6EcHnrWOf]]」|ドライバー：[[猪狩　翔太]]&br()カメラマン：[[中川　蔵人]]|地下レース場にて撮影。&br()カメラマンを轢く勢いでドリフトした。|
+|12/28|ドリフト島が出現&br()「[[先行：アドミゲスハン 後追：猪狩翔太 Ver.2>>https://clips.twitch.tv/AgileSlickPorpoiseYouDontSay-inCqd1ty2Dq_-oJL]]」|ドライバー：[[アドミゲス　ハン]]／[[猪狩　翔太]]&br()カメラマン：[[中川　翔太]]|突如出現したドリフト島で撮影。&br()TwiXにてドリフトを普及させた。|
+
+#table_sorter{even=#f7f7f7,odd=#fff}
+
+#right(){&link_up(🔝ページTOPへ)}
