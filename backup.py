@@ -8,6 +8,8 @@ import requests
 from pathlib import Path
 from nacl.public import PublicKey, SealedBox
 
+BACKUP_VERSION = "2.0-pageid-tracking"
+
 
 WIKI_ID = "streamergta5"
 API_BASE = f"https://w.atwiki.jp/_api/v1/wikis/{WIKI_ID}"
@@ -131,10 +133,33 @@ def load_state():
             )
         )
 
+        # 旧形式:
+        #   {"pageid": "updated_at"}
+        # を新形式へ移行する。
+        #
+        # 旧形式にはページ名が保存されていないため、
+        # 初回の新形式実行時には現在のページ名を後から補完する。
+        migrated = False
+
+        for page_id, value in list(state.items()):
+            if isinstance(value, str):
+                state[page_id] = {
+                    "updated_at": value,
+                    "pagename": None,
+                    "safe_name": None,
+                }
+                migrated = True
+
         print(
             f"Backup state loaded: "
             f"{len(state)} pages"
         )
+
+        if migrated:
+            print(
+                "Old backup state format detected. "
+                "It will be migrated during this run."
+            )
 
         return state
 
@@ -440,9 +465,7 @@ def safe_filename(name):
         name,
     )
 
-    name = name.strip().rstrip(
-        ". "
-    )
+    name = name.strip().rstrip(". ")
 
     reserved_names = {
         "CON",
@@ -475,27 +498,171 @@ def safe_filename(name):
     return name or "_"
 
 
+def backup_directory_for_name(page_name):
+    return BACKUP_ROOT / safe_filename(page_name)
+
+
+def find_existing_directory_for_page(page_id, page_name, state):
+    """
+    page_idに対応する既存バックアップフォルダを探す。
+
+    新形式stateにsafe_nameがあれば、それを最優先する。
+    初回移行時は現在のページ名のフォルダを使う。
+    """
+
+    page_id = str(page_id)
+    entry = state.get(page_id)
+
+    if isinstance(entry, dict):
+        safe_name = entry.get("safe_name")
+
+        if safe_name:
+            directory = BACKUP_ROOT / safe_name
+
+            if directory.exists():
+                return directory
+
+    current_directory = backup_directory_for_name(page_name)
+
+    if current_directory.exists():
+        return current_directory
+
+    return None
+
+
+def rename_backup_directory(old_directory, new_directory):
+    if old_directory == new_directory:
+        return new_directory
+
+    if not old_directory.exists():
+        return new_directory
+
+    new_directory.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    if new_directory.exists():
+        # 同名フォルダが既にある場合は上書きせず、
+        # 新しいフォルダ側をそのまま使用する。
+        print(
+            "   Warning: target backup directory already exists: "
+            f"{new_directory}"
+        )
+        return new_directory
+
+    print(
+        f"   Renaming backup directory:\n"
+        f"      {old_directory}\n"
+        f"      -> {new_directory}"
+    )
+
+    old_directory.rename(new_directory)
+
+    return new_directory
+
+
+def mark_deleted_page(page_id, state):
+    """
+    Wikiから消えたページを【削除済み】として保持する。
+    """
+
+    page_id = str(page_id)
+    entry = state.get(page_id)
+
+    if not isinstance(entry, dict):
+        return False
+
+    safe_name = entry.get("safe_name")
+    pagename = entry.get("pagename")
+
+    if not safe_name or not pagename:
+        return False
+
+    old_directory = BACKUP_ROOT / safe_name
+
+    if not old_directory.exists():
+        return False
+
+    deleted_safe_name = safe_filename(
+        f"【削除済み】{pagename}"
+    )
+
+    deleted_directory = (
+        BACKUP_ROOT / deleted_safe_name
+    )
+
+    if old_directory == deleted_directory:
+        return True
+
+    if deleted_directory.exists():
+        print(
+            "   Warning: deleted target already exists: "
+            f"{deleted_directory}"
+        )
+
+        # 既に【削除済み】フォルダが存在する場合は、
+        # stateだけ削除済み名へ更新する。
+        state[page_id]["safe_name"] = deleted_safe_name
+        state[page_id]["deleted"] = True
+
+        return True
+
+    print(
+        f"   Marking deleted page:\n"
+        f"      {old_directory}\n"
+        f"      -> {deleted_directory}"
+    )
+
+    old_directory.rename(deleted_directory)
+
+    state[page_id]["safe_name"] = deleted_safe_name
+    state[page_id]["deleted"] = True
+
+    return True
+
+
 def save_page(
     page,
-    source
+    source,
+    state,
 ):
+    page_id = str(page["pageid"])
     page_name = page["pagename"]
 
-    safe_name = safe_filename(
+    new_safe_name = safe_filename(
         page_name
     )
 
-    directory = (
-        BACKUP_ROOT / safe_name
+    new_directory = (
+        BACKUP_ROOT / new_safe_name
     )
 
-    directory.mkdir(
+    old_directory = (
+        find_existing_directory_for_page(
+            page_id,
+            page_name,
+            state,
+        )
+    )
+
+    # ページ名変更を検出した場合、旧フォルダを新名称へ変更。
+    if (
+        old_directory is not None
+        and old_directory != new_directory
+    ):
+        new_directory = rename_backup_directory(
+            old_directory,
+            new_directory,
+        )
+
+    new_directory.mkdir(
         parents=True,
         exist_ok=True,
     )
 
     file_path = (
-        directory / "本文.txt"
+        new_directory / "本文.txt"
     )
 
     file_path.write_text(
@@ -503,12 +670,20 @@ def save_page(
         encoding="utf-8",
     )
 
+    # ページ名・保存先をstateへ記録。
+    state[page_id] = {
+        "updated_at": page.get("updated_at"),
+        "pagename": page_name,
+        "safe_name": new_safe_name,
+        "deleted": False,
+    }
+
     return file_path
 
 
 def page_is_already_backed_up(
     state,
-    page
+    page,
 ):
     page_id = str(
         page["pageid"]
@@ -518,59 +693,141 @@ def page_is_already_backed_up(
         "updated_at"
     )
 
-    saved_updated_at = state.get(
-        page_id
-    )
+    entry = state.get(page_id)
 
+    if isinstance(entry, str):
+        saved_updated_at = entry
+        saved_pagename = None
+    elif isinstance(entry, dict):
+        saved_updated_at = entry.get(
+            "updated_at"
+        )
+        saved_pagename = entry.get(
+            "pagename"
+        )
+    else:
+        saved_updated_at = None
+        saved_pagename = None
+
+    # ページ名が変わっている場合は、
+    # updated_atが同じでも処理対象にする。
     if (
         saved_updated_at
         and current_updated_at
         and saved_updated_at
         == current_updated_at
+        and saved_pagename
+        and saved_pagename
+        == page["pagename"]
     ):
         return True
 
     return False
 
 
+def migrate_current_page_state(
+    state,
+    pages,
+):
+    """
+    旧stateから新stateへの初回移行。
+
+    旧stateにはページ名がないため、現在存在するページについて
+    現在のバックアップフォルダ名を記録する。
+
+    これにより、この変更を入れた後のページ名変更は
+    page_id単位で追跡できるようになる。
+    """
+
+    changed = False
+
+    for page in pages:
+        page_id = str(page["pageid"])
+        page_name = page["pagename"]
+
+        entry = state.get(page_id)
+
+        if not isinstance(entry, dict):
+            continue
+
+        if not entry.get("pagename"):
+            entry["pagename"] = page_name
+
+            current_directory = (
+                backup_directory_for_name(
+                    page_name
+                )
+            )
+
+            if current_directory.exists():
+                entry["safe_name"] = (
+                    safe_filename(page_name)
+                )
+
+            entry["deleted"] = False
+            changed = True
+
+    return changed
+
+
+def handle_deleted_pages(
+    state,
+    current_page_ids,
+):
+    """
+    完全なページ一覧取得が成功した場合のみ、
+    stateに存在して今回の一覧にないpage_idを
+    【削除済み】としてマークする。
+    """
+
+    current_page_ids = {
+        str(page_id)
+        for page_id in current_page_ids
+    }
+
+    deleted_count = 0
+
+    for page_id in list(state.keys()):
+        if str(page_id) in current_page_ids:
+            continue
+
+        entry = state.get(page_id)
+
+        if not isinstance(entry, dict):
+            continue
+
+        if entry.get("deleted"):
+            continue
+
+        if mark_deleted_page(
+            page_id,
+            state,
+        ):
+            deleted_count += 1
+
+    return deleted_count
+
+
 def main():
-
-    print(
-        "================================"
-    )
-
-    print(
-        "STGR Wiki Backup Start"
-    )
-
-    print(
-        "================================"
-    )
+    print("================================")
+    print("STGR Wiki Backup Start")
+    print("================================")
 
     # --------------------------------
     # OAuth
     # --------------------------------
 
-    token_data = (
-        refresh_access_token()
-    )
+    token_data = refresh_access_token()
 
-    access_token = (
-        token_data["access_token"]
-    )
+    access_token = token_data["access_token"]
 
     # Refresh Token Rotation
     new_refresh_token = (
-        token_data.get(
-            "refresh_token"
-        )
+        token_data.get("refresh_token")
     )
 
     if new_refresh_token:
-
-        print(
-            "New refresh token received."
-        )
+        print("New refresh token received.")
 
         update_github_secret(
             new_refresh_token
@@ -591,13 +848,17 @@ def main():
     )
 
     if pages is None:
-
         print(
             "================================"
         )
 
         print(
             "Page list retrieval paused."
+        )
+
+        print(
+            "No rename/delete detection will "
+            "be performed in this run."
         )
 
         print(
@@ -616,6 +877,20 @@ def main():
     )
 
     # --------------------------------
+    # 初回のstate移行
+    # --------------------------------
+
+    if migrate_current_page_state(
+        state,
+        pages,
+    ):
+        print(
+            "Backup state migration completed."
+        )
+
+        save_state(state)
+
+    # --------------------------------
     # 本文取得
     # --------------------------------
 
@@ -632,7 +907,6 @@ def main():
         pages,
         start=1,
     ):
-
         page_name = page[
             "pagename"
         ]
@@ -641,13 +915,12 @@ def main():
             "pageid"
         ]
 
-        # 既に同じ更新日時のページなら
-        # APIアクセスしない
+        # 既に同じ更新日時かつ同じページ名なら
+        # APIアクセスしない。
         if page_is_already_backed_up(
             state,
-            page
+            page,
         ):
-
             skipped_count += 1
 
             print(
@@ -672,7 +945,6 @@ def main():
 
         # 429等で今回は取得できなかった
         if source is None:
-
             print(
                 "================================"
             )
@@ -702,18 +974,11 @@ def main():
         file_path = save_page(
             page,
             source,
+            state,
         )
 
         # 成功したページを即座に記録
-        state[
-            str(page_id)
-        ] = page.get(
-            "updated_at"
-        )
-
-        save_state(
-            state
-        )
+        save_state(state)
 
         saved_count += 1
 
@@ -726,6 +991,37 @@ def main():
         )
 
     # --------------------------------
+    # 削除ページ判定
+    # --------------------------------
+    #
+    # ページ一覧を最後まで取得できた場合のみ実行。
+    # 途中で429停止した場合は絶対に削除扱いにしない。
+    #
+
+    deleted_count = 0
+
+    if not interrupted:
+        current_page_ids = {
+            str(page["pageid"])
+            for page in pages
+        }
+
+        deleted_count = (
+            handle_deleted_pages(
+                state,
+                current_page_ids,
+            )
+        )
+
+        if deleted_count:
+            save_state(state)
+
+            print(
+                f"Deleted pages marked: "
+                f"{deleted_count}"
+            )
+
+    # --------------------------------
     # 結果
     # --------------------------------
 
@@ -734,7 +1030,6 @@ def main():
     )
 
     if interrupted:
-
         print(
             "Backup paused"
         )
@@ -754,7 +1049,6 @@ def main():
         )
 
     else:
-
         print(
             "Backup complete"
         )
@@ -767,6 +1061,11 @@ def main():
         print(
             f"Pages skipped: "
             f"{skipped_count}"
+        )
+
+        print(
+            f"Deleted pages marked: "
+            f"{deleted_count}"
         )
 
     print(
