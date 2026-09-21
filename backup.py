@@ -230,8 +230,9 @@ def get_all_pages(access_token):
     print("3. Request page list")
 
     headers = {
-        "Authorization": f"Bearer {access_token}"
-    }
+    "Authorization": f"Bearer {access_token}",
+    "User-Agent": "STGR-Wiki-Backup/1.0"
+}
 
     pages = []
     cursor = None
@@ -365,8 +366,9 @@ def get_page_source(
     page_id
 ):
     headers = {
-        "Authorization": f"Bearer {access_token}"
-    }
+    "Authorization": f"Bearer {access_token}",
+    "User-Agent": "STGR-Wiki-Backup/1.0"
+}
 
     for attempt in range(
         SOURCE_MAX_RETRIES
