@@ -4,25 +4,26 @@
 ----
 
 **プロフィール
-#table_color()
-#slide_img(auto=4,position=left,width=300,height=400){
+
+
+
+
+#region(過去の服装[Season2],close)閉じる
+
+#slide_img(auto=4,position=left,width=290,height=350){
 上田さん_Season2[3].png,
 上田さん【ノヴァファミリア】(１期)設立当初.png,
 上田さん【ノヴァファミリア】(２期)アジト完成以降 .png,
-上田さん【囚人服】12時間独房拘留.png,
-上田さん【ザリ蛸】ザリ蛸制服.png,
 上田さん【真面目】転売事件裁判.png,
 【培養液】餡ブレラ抗争敗北条件png.png,BJ逃走中②.jpg,
-
+上田さん_Season2[2].png
 }
 
-#region(過去の服装[Season2],close)閉じる
-|&image(上田さん_WANTDE.png,x=200)|&image(上田さん_Season2[1].png,x=200)|&image(上田さん_Season2[2].png,x=200)|h
 #endregion
 
 
 #region(Season1の上田さん,close)
-|&image(上田さん.jpeg,x=150)|&image(上田さん_Season2[1].png,x=200)|&image(上田さん3.webp,x=200)|h
+|&image(上田さん.jpeg,x=150)|&image(上田さん3.webp,x=200)|h
 #endregion
 
 //ここからプロフィール
@@ -1753,4 +1754,4 @@ MOZUも訴える流れになったが、流石にそれはしなかった。
 ※募集中
 
 #areaedit(end)
-#right(){&link_up(🔝ページTOPへ)}
+#right(){&link_up(🔝ページTOPへ)}
