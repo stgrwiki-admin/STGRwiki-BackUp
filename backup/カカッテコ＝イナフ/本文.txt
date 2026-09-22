@@ -1,5 +1,7 @@
 *&font(25,#dda0dd){&font(30,#da70d6){プ}ロフィール &icon_fa(fa fa-user)}
-|&image(カカッテコ＝イナフ_初期.jpeg,y=400)|&image(漆黒の両翼.jpg,y=400,x=533)|
+#slide_img(auto=5,position=left,width=290,height=516)
+{カカッテコ＝イナフマスクなし.png,カカッテコ＝イナフマスクなし上半身.png,カカッテコ＝イナフ_初期.jpeg,}
+|&image(漆黒の両翼.jpg,y=400,x=533)|
 
 //ここからプロフィール
 #table_style(head=#da70d6:#fffafa){}
