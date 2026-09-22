@@ -1,0 +1,24 @@
+***9月23日（水）「」&co(){by }
+#region(開く,open)
+#size(80%){#table_style(head=#e6e6fa:center,hover=#ffffeb){}
+#table_filter(){時刻=show,関連=show,出来事=show,詳細=hide,備考=hide}
+//
+|~時刻|~関連|~出来事|~詳細|~備考|h
+
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion
+
+****&font(#DA1725){&icon_fa(fa fa-youtube-play)} 関連動画&配信アーカイブ
+#region(開く,open)
+#size(80%){#table_style(head=#2f4f4f:#F9FCFF:center){視点=right,投稿日=center}
+#table_filter(){投稿日=show,視点=show,動画タイトル=show,備考=hide}
+|~投稿日|~視点|~動画タイトル|~備考|h
+
+|~配信日|~視点|~配信タイトル|~備考|h
+
+//&font(70%){　視点}
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion(0923関連動画)
+
+[[SandBox/練習ページ2]]
