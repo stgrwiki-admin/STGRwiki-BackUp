@@ -7,20 +7,6 @@
 #areaedit()
 #div(width=280px,color=#FFFFFF,bgcolor=#991115){&font(i,b,16px){　Season1}}
 //Youtubeの再生リストにあわせて作成
-#region(第一部　加賀イズミ/警察編,open)
-//Season1 1日目～Season1 86日目
-&b(){第一部　加賀イズミ/警察編}
-#endregion(第一部　加賀イズミ/警察編)
-#region(第二部　加賀イズミ/救急隊編,open)
-//Season1 87日目～Season1 186日目
-&b(){第二部　加賀イズミ/救急隊編}
-#endregion(第二部　加賀イズミ/救急隊編)
-#region(第三部　加賀イズミ/犬カフェ再建編,open)
-//Season1 187日目～Season1 269日目
-&b(){第三部　加賀イズミ/犬カフェ再建編}
-#endregion(第三部　加賀イズミ/犬カフェ再建編)
-
-
 #region(2023年5月のアーカイブ/1～16日目)閉じる
 #table_style(head=center:#FEF4F4){配信日=right}
 #table_filter(){配信日=show,配信タイトル=show,主要エピソード=show,備考=hide}
@@ -321,9 +307,20 @@
 |8/18|&font(#6441A4){&icon_fa(fa fa-twitch)}[[179日目　救急隊・加賀イズミ「相棒に」>>https://www.twitch.tv/videos/2227923638]]|相棒の誕生日||
 #endregion
 //
+
+&bold(){第一部　加賀イズミ/警察編}
+//Season1 1日目～Season1 86日目
+※[[Youtubeの再生リストはこちら>>https://www.youtube.com/watch?v=5WM2972BLBw&list=PLrPhjzqoXKtYINeH378EkkHIZHFh8ZMJW]]
+&bold(){第二部　加賀イズミ/救急隊編}
+//Season1 87日目～Season1 186日目
+※[[Youtubeの再生リストはこちら>>https://www.youtube.com/watch?v=qfZKw4wdkoU&list=PLrPhjzqoXKtY5qo8C9vY7Q9lazow766pH]]
+&bold(){第三部　加賀イズミ/犬カフェ再建編}
+//Season1 187日目～Season1 269日目
+※[[Youtubeの再生リストはこちら>>https://www.youtube.com/watch?v=t6XF8zqwD3E&list=PLrPhjzqoXKtZ4gbtGmaTnYq7IDJwevCt8]]
 #areaedit(end)
 
 #div(width=280px,color=#FFFFFF,bgcolor=#991115){&font(i,b,16px){　Season2}}
+※[[Youtubeの再生リストはこちら>>https://www.youtube.com/watch?v=lZ9ySD1QfvU&list=PLrPhjzqoXKtaEt4DkjzkaaQULoUuepAkY]]
 #region(2025年)
 &b(){2025年}
 #region(1日目～4日目（12/19～12/31）,open)
