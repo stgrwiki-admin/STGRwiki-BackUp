@@ -1,3 +1,5 @@
+//変更点差分エラー内容→組織内ルールS2追加、外コラボ一件追加
+//
 #slide_img(auto=3,width=640,height=360,position=center){hantasma20250501.jpg,hantasma20260821.jpg,hantasma20241217.png,hantasma_logo2.jpg,hantasmaoogata2.png,hantasma20250125.png,
 hantasma2025126.png,hantasma20250228join3.png,hantasma_log4.JPG}
 
@@ -453,10 +455,10 @@ hantasma2025126.png,hantasma20250228join3.png,hantasma_log4.JPG}
 
 
 ***&color(#006400){&icon_fa(fa fa-check-square)} &underdot(#006400,2px){組織内ルール}
+#region(Season1)&b(){Season1}
 -新規加入者、体験への対応
 --１．ボスの負担軽減のため先輩構成員が分担して教育を行う。構成員の知識不足の点のみボスが対応。
 --２．既存構成員の負担軽減のため、新人に支給するのは制限される
-
 -組織内共有物資について
 --組織方針のため、クラフトやファームは強制されておらず、大型での武器やアーマーは各自で用意する決まり。
 --白市民協力者から買い取ったり、構成員の善意でアジト内スタッシュに納められた素材などは自由に使ってよい。
@@ -470,6 +472,30 @@ hantasma2025126.png,hantasma20250228join3.png,hantasma_log4.JPG}
 --構成員による勧誘は自由だが、行う場合は組織の総意ではなく、個人的に勧誘しているという補足や前置きを行う。
 --組織として勧誘する場合（体験に誘う場合）は、一期生（初期組含む）と二期生（+じぇいのすけ、ただしねぎを除く）から、それぞれから最低3人以上、計6人のメンバーの合意が必要。6人未満の場合、組織としての勧誘を禁ずる。
 --ただし、直接ボスが誘う場合のみ上記の条件は省略可。だったのが9/11に体験の勧誘の条件を俺一人では決められないと明言してしまったためこのルールはほぼないことになった。（おそらく、このルールをボスが忘れた為、自然消滅したと思われる。）
+#endregion(S1)
+
+#region(Season2,open)&b(){Season2}
+//S1の記載を基本形に。状況変化により書き換えてください
+-新規加入者、体験への対応
+--１．交流を兼ねて可能な限り一人以上構成員が同行する。誰と行動するかは体験・新人の判断や意思に任せ自由。
+--２．必要であると判断されれば体験のうちに武器屋や闇医者へ紹介することがある。
+-組織内共有物資について
+--現状組織へ影響していない為クラフトやファームはやってもやらなくてもいい、基本的に犯罪道具や武器は各自で用意する方針だが他構成員に分けてもらってもよい。
+--構成員の善意でアジト内スタッシュに集められた飲食物・犯罪道具・素材などは自由に使ってよい。
+--個人で集めた物資は、その個人の裁量で自由に扱ってよい。ただし武器屋からの注意として半グレへの武器販売は情報の取り扱いや横流ししないよう話す必要がある。
+-本アジト購入まで犯罪で稼いだダーティマネーの10％をプール金として仮アジト倉庫の金庫へ貯める。
+--プール金は厳密ではなく努力義務程度で、目下の目標として4億貯めるもの。
+#co(S1のまま){{{
+-プール金の使用方法と目的について。
+--１．薬や武器、組織として使う物件などの購入資金に使う。
+--２．組織に素材等を売りたい場合の対価。
+--３．誰かがやらかした時の謝罪金。
+}}}
+-組織勧誘のルール。
+--構成員による勧誘は自由だが、行う場合は組織の総意ではなく、個人的に勧誘しているという補足や前置きを行う。
+--組織として勧誘する場合（体験に誘う場合）は、誘いたい意思を共有した日の構成員全員の合意が必要。一人でも合意が得られない場合その時点での勧誘をしない。
+--以前は直接ボスが誘う場合のみ上記の条件は省略可だったが、他構成員と同等の条件となった。&openclose2(show=?){(正確な情報求)}
+#endregion(S2)
 
 ***&color(#006400){&icon_fa(fa fa-check-square)} &underdot(#006400,2px){新人教育係}
 -2025/2/28の2期生加入・[[三条　ねぎ]]体験開始より、[[ジャン＝ジャック・ヴァラン]]の提案にて、&br()ボスの負担分散を目的として初期メンバーで新人教育に関する役割分担が行われた。
@@ -1827,12 +1853,13 @@ E5's Burgerの従業員にも広まっていたが、8/30-8/31に多くの観光
 |~2/17|~Supermarket Together|あどみん/noon/闇乃あびす/紫闇ヘル|[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん>>https://www.twitch.tv/videos/2700161381]]|[[&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}あどみん>>https://www.youtube.com/watch?v=STjxgeGPhB0]]||
 |~5/3|~Apex Legends(街就寝後)|あどみん/ねが/鬼ヶ島ぴぃち|[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん>>https://www.twitch.tv/videos/2763095843?t=03h56m40s]]|||
 |~5/7|~Apex Legends&br()(街就寝後、E36チーム練習)|あどみん/ゆんみー/ねが|[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん>>https://www.twitch.tv/videos/2766195996?t=02h30m00s]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん2>>https://www.twitch.tv/videos/2766381805]]|||
-|~5/16|~VALORANT(街就寝後)|あどみん/noon/ねが/鬼ヶ島ぴぃち + include|[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん>>https://www.twitch.tv/videos/2773316155?t=03h32m50s]]|||
+|~5/16|~VALORANT(街就寝後)|あどみん/noon/ねが/鬼ヶ島ぴぃち 外部(include)|[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん>>https://www.twitch.tv/videos/2773316155?t=03h32m50s]]|||
 |~5/17|~Apex Legends&br()(E36チーム練習)|あどみん/ゆんみー/ねが|[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん>>https://www.twitch.tv/videos/2774173413]]|||
 |~5/18|~Apex Legends&br()(E36前日スクリム)|あどみん/ゆんみー/ねが|[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん>>https://www.twitch.tv/videos/2774940917]]|||
 |~5/19|~Apex Legends(E36当日)|あどみん/ゆんみー/ねが|[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん>>https://www.twitch.tv/videos/2775708007]]|||
 |~5/22|~Apex→VALO→Apex&br()(街就寝後)|あどみん/ねが/鬼ヶ島ぴぃち|[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん>>https://www.twitch.tv/videos/2778289059]]|||
 |~9/2|~おえ森→ハンタスマWitch it→ヴァロ&br()(街中＋就寝後)|あどみん/レイちゃん。/noon/神辰J威弦/鬼ヶ島ぴぃち/かすみ/Aボタン|[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん>>https://www.twitch.tv/videos/2863184679?t=06h29m30s]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん2>>https://www.twitch.tv/videos/2863472312]]|||
+|~9/24|~しらたま&br()SFL昼の部ウォチパ→めちゃカメ|あどみん/noon/闇乃あびす/神辰J威弦/陽向コウ&br()外部(キミトス/あげいん/みかちー/猫月みお/幼少ギミック)|[[&font(#6441A4){&icon_fa(fa fa-twitch)}あどみん>>https://www.twitch.tv/videos/2880924017]]|||
 //テンプレ//|~mm/dd|~内容やタイトル|参加者|[[&font(#6441A4){&icon_fa(fa fa-twitch)}名前>>ここにtwitchURLを入力]]|録画|動画|
 //Twitch///[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>ここにtwitchURLを入力]]
 //Youtube//[[&font(#FF0000){&icon_fa(fa fa-brands fa-youtube-play)}>>ここにyoutubeURLを入力]]
