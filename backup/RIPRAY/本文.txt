@@ -32,10 +32,10 @@
 *&font(#89B0D5){&icon_fa(fa fa-clipboard fa-xl)} &aname(A,option=nolink){基本情報}
 //■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 ***&color(#003F8E){&icon_fa(fa-solid fa-repeat)} &underdot(#003F8E,2px){概要}
--[[小峯 れい>>小峯　玲]]をボスとした組織
--Season1で小峯が設立したギャング [[DERAY]] の後継組織
---Season2で "DERAY" と名乗らない理由として、小峯は組織名を名乗る時に自身の名前 "れい（RAY）"が入っていると言いづらいことと、創設メンバーが既に在籍していないことを挙げている。
---
+-Season1で[[小峯 れい>>小峯　玲]]が設立した[[ギャング]]≪ [[DERAY]] ≫の後継組織で、略称は≪ &ruby(リップ){&b(){R I P}} ≫
+-小峯と彼と共に行動する仲間がSeason2でも[[ギャング>ギャング（Season2）]]として名乗りを挙げ、活動を再開することを機に、以下の理由もあり組織名を一新した。
+--Season2で "DERAY" と名乗らない理由として、小峯は組織名を自ら名乗る際に自身の名前 "れい（RAY）"が入っていると&s(){気恥ずかしい}言いづらいことと、&infobox(title=設立メンバー,trigger=hover,size=small){ゆちゃ めろでぃ、ライジングサン 宗介}が既に在籍していないことを挙げている。
+-
 
 #region(組織名由来詳細,close)&bold(){組織名由来詳細}
 -記載募集中
@@ -55,13 +55,13 @@
 -記載募集
 
 ***&color(#003F8E){&icon_fa(fa-solid fa-comment-dollar)} &underdot(#003F8E,2px){財務・物資}
--記載募集
-
-***&color(#003F8E){&icon_fa(fa-solid fa-pills)} &underdot(#003F8E,2px){薬の精製と売買}
--記載募集
+-プール金の徴収等は行っておらず、組織で必要な資金は基本的に小峯が賄っている
+-"お小遣い"と称して、小峯がメンバーに金銭や物資を与えることもよくある
+-
 
 ***&color(#003F8E){&icon_fa(fa-solid fa-crosshairs)} &underdot(#003F8E,2px){リクルート}
--基本的に Boss 小峯が一緒にいたい相手を誘っている
+-基本的にトップの小峯が一緒にいたい相手を誘っているが、在籍メンバーからの紹介も受け付ける
+-メンバー候補は、遊びや犯罪などに誘い、在籍メンバーとの相性を見たり、メンバーからの意見も参考にして、小峯が正式に勧誘する
 -他組織からの引き抜き勧誘は行わない
 
 ***&color(#003F8E){&icon_fa(fa-solid fa-walkie-talkie)} &underdot(#003F8E,2px){無線番号}
@@ -69,6 +69,12 @@
 #table_style(head=#006400:#F9FCFF:center:b)
 |&bold(){42.7}|2026/06/07〜|“死にな”。&br()&small(){（組織外の人にも何度か開示している。）}|
 #endregion
+
+#co{
+↓薬に関しては、現状ギャングが取扱えないのでcoにしました。
+***&color(#003F8E){&icon_fa(fa-solid fa-pills)} &underdot(#003F8E,2px){薬の精製と売買}
+-記載募集
+}
 
 //■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 *&font(#89B0D5){&icon_fa(fa fa-users fa-xl)}&aname(B,option=nolink){メンバー}
@@ -92,14 +98,15 @@
 #table_style(head=#003F8E:#FFF:center:b){詳細=12px}
 #table_filter(){名前=show,職業・所属=hide,詳細=show,配信=hide}
 |~名前|~職業・所属|~詳細|~配信|h
-|[[ノア　チェンバー]]|[[DEP]]/[[闇医者]]|ライアンの嫁。麻薬カルテル[[DEP]]のメンバー、かつ影ながら活動する[[闇医者]]。&br()裏の仕事に従事する傍ら、街で見聞きした情報を小峯に提供している。&br()以前は[[IRiS]]お抱えの[[個人医]]を務めており、公私ともに付き合いの長い協力者でもある。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/vtuber_noachi]]|
-|[[無馬　かな]]|ニート|[[ARCANA]]の代表、小峯とライアンの友人であり元上司。&br()前の世界線では一度街を離れたようだったが、今の街にも現れる。&br()小峯から街の情勢を聞きつつ、黒界隈に動きをもたらして去っていく。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kanae_2434]]|
-|[[加藤　圧]]|[[DEP]]/[[闇医者]]|麻薬カルテル[[DEP]]の元締め。小峯とライアンとは[[ARCANA]]の元同僚。&br()犯罪者達のために裏組織に尽力する人物。カルテル運営を主軸に活動するが、闇医者にも従事する。&br()諸般の都合で闇医者の組織事情等に直接関わりたくない小峯から、繋ぎを依頼されることがある。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/katooo]]|
+|[[ノア　チェンバー]]|[[DEP]]/[[闇医者]]|ライアンの嫁。麻薬カルテル[[DEP]]のメンバー、かつ影ながら活動する[[闇医者]]。&br()裏の仕事に従事する傍ら、街で見聞きした情報を小峯と共有している。&br()以前は[[IRiS]]お抱えの[[個人医]]を務めており、公私ともに付き合いの長い協力者でもある。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/vtuber_noachi]]|
+|[[猫又　ぴぴ]]|[[after U]] 店長&br()[[NEWSアプリ記者>記者]]&br()デザイン制作 [[DASU]]|ガヴァイの娘で、多芸多才な白市民。NEWSアプリの[[記者]]として、情報の取扱いで協力関係にある。&br()[[U for U]]の流れを組む[[after U]]をクラファンなどを通してオープンさせ店長に就任している。&br()私生活では、[[トナカイ>トナ　カイ]]との破局や、[[ゆちゃ>ゆちゃ　めろでぃ]]との急な別れもあり、何かと放っておけない存在である。|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/c/neonpi_chan]]|
+|[[無馬　かな]]|&s(){ニート}&br()[[LUNA Garage]]|[[ARCANA]]の代表、小峯とライアンの友人であり元上司。&br()前の世界線では一度街を離れたようだったが、今の街にも現れる。&br()小峯から街の情勢を聞きつつ、黒界隈に動きをもたらして去っていく。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kanae_2434]]|
+|[[加藤　圧]]|[[DEP]]/[[闇医者]]|麻薬カルテル[[DEP]]の元締め。小峯とライアンとは[[ARCANA]]の元同僚。&br()犯罪者達のために裏組織に尽力する人物。カルテル運営を主軸に活動するが、闇医者にも従事する。&br()闇医者のトップが現状不在のため、暫定的に取りまとめをしている。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/katooo]]|
 |[[ティエリ・ブッシュ>>ヤブ下　安理]]|[[FEMME FATALE]]| [[武器屋>FEMME FATALE]] の代表。街の住人には&b(){クリス・リエン}と名乗る場合もある。&br()KFC開催時にスポンサーとして出資してもらったり何かと世話になっている。&br() &openclose2(show=※ティエリの正体について){&br()&font(80%){小峯は、ティエリ・ブッシュの正体が[[ヤブ下 安理>>ヤブ下　安理]]という事実を知っている。&br()これは[[ARCANA]]在籍中、当時ARCANAメンバーでかつ武器屋を兼任していた[[生雲丹 よづな>>生雲丹　よづな]]が、&br()武器屋無線に“ヤブ下 安理”の名前があった際その事情が分からず慌てて小峯に連絡したことによって発覚した。&br()しかし、ティエリは武器屋関係者以外には身分を一切開示しない人物のため、小峯もいまだに知らないフリを続けている。}} |&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/henry_8492]]|
 |[[柳瀬　つん]]|[[FEMME FATALE]]|[[IRiS]]、[[ARCANA]]の元同僚で、現在は[[武器屋>FEMME FATALE]]に勤める。間が悪いことに定評がある。&br()小峯とは長い付き合いであり、犯罪周りの情報共有や[[上司>ヤブ下　安理]]への繋ぎもよく任されている。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/yntnfn]]|
 |[[姫一　夕]]|[[Fashion MiMi]]|RIPRAYの正装や戦闘服の製作を任せているファッションコーディネーター。白市民。&br()この街随一のコスプレイヤーでもあり、街にある洋服を知り尽くしている。|配信|
-|[[大　川]]|[[飯田書店]]/[[A2]]/[[WAND BOX]]|小峯とライアンとは[[ARCANA]]の元同僚の白市民。メカニックのため車両関係に詳しい。&br()[[麻林のカジノ>https://w.atwiki.jp/streamergta5/pages/3450.html]]にも勤めており、カジノが行う表裏の事業にも関わる。|&font(#9146FF){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/bacter1a_]]|
-|[[飯田　けんつ]]|[[飯田書店]]/[[渡戸林業]]|小峯が犯罪を教えていた後輩的元黒市民。&br()現在は街での様々な&infobox(title=事業,trigger=hover,size=small){書店、バーガー屋、木こり、職業あっせん等}、&infobox(title=イベント興行,trigger=hover,size=small){サッカー、レース、人狼等}に携っており、白市民の顔役の様な立場になっている。&br()小峯とはTOPGEAR時代に色々確執もあったが、今では気楽に情報交換をする関係性になっている。|&font(#9146FF){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kentsumeshi_heyoo]]&nbsp()/&nbsp()&font(#FF0000){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>https://youtube.com/channel/UCBm-vsGV7nQv6hKS6Wj9x-A?si=LxbDxD85zOm-bV2n]]|
+|[[大　川]]|[[A2]]/[[WAND BOX]]/[[渡戸林業]]&br()[[飯田書店]]&small(){（非ジョブ）}|小峯とライアンとは[[ARCANA]]の元同僚の白市民。メカニックのため車両関係に詳しい。&br()[[麻林のカジノ>https://w.atwiki.jp/streamergta5/pages/3450.html]]にも勤めており、カジノが行う表裏の事業にも関わる。|&font(#9146FF){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/bacter1a_]]|
+|[[飯田　けんつ]]|[[飯田書店]]/[[渡戸林業]]|小峯が犯罪を教えていた後輩的元黒市民。&br()現在は街での様々な&infobox(title=事業,trigger=hover,size=small){書店、木こり、職業あっせん等}、&infobox(title=イベント興行,trigger=hover,size=small){サッカー、レース、人狼等}に携っており、白市民の顔役の様な立場になっている。&br()小峯とはTOPGEAR時代に色々確執もあったが、今では気楽に情報交換をする関係性になっている。|&font(#9146FF){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kentsumeshi_heyoo]]&nbsp()/&nbsp()&font(#FF0000){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>https://youtube.com/channel/UCBm-vsGV7nQv6hKS6Wj9x-A?si=LxbDxD85zOm-bV2n]]|
 //|[[麻林　ラル]]|JOB|小峯とライアンとは[[ARCANA]]の元同僚。転送後しばらくは犯罪をしていたが、&br()今は足を洗って[[カジノ>https://w.atwiki.jp/streamergta5/pages/3450.html]]のオーナーへ転身。裏で犯罪者向けの闇興行を行おうと画策している。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/ralph_mp3]]|
 //|名前|職業・所属|詳細|配信|
 #table_autoincrement(){label=No.}
@@ -129,7 +136,7 @@
 ***&font(#003F8E){&icon_fa(fa fa-map-marker fa-xl)} &aname(D,option=nolink){主要拠点}
 #region(開く,open)
 #table_style(head=#003F8E:#FFF:center:b)
-#table_filter(){番地=show,場所=hide,通称=show,管理者=hide,備考=show}
+#table_filter(){No.=show,番地=show,場所=show,通称=show,管理者=hide,備考=show}
 |~番地|~場所|~通称|~管理者|~備考|h
 //|番地|場所|用途|[[小峯　玲]]|備考|
 //|番地|場所|用途|[[小峯　玲]]|備考|
@@ -140,8 +147,9 @@
 ***&font(#003F8E){&icon_fa(fa fa-map-marker fa-xl)} &aname(D,option=nolink){関連拠点}
 #region(開く,open)
 #table_style(head=#003F8E:#F9FCFF:center:b){備考=12px}
-#table_filter(){番地=show,場所=show,用途=show,管理者=hide,備考=show}
-|~番地|~場所|~用途|~管理者|~備考|h
+#table_filter(){No.=show,番地=show,場所=show,用途=hide,通称=show,管理者=hide,備考=show}
+|番地|場所|用途|通称|管理者|備考|h
+|7195|[[魔女の酒場]]|実質的な活動拠点|店、酒場| [[小峯　れい>小峯　玲]] |小峯が勤務する飲食店。一部のメンバーも店員として雇用されている。&br()物件は小峯が店主の[[天近 くるみ>天近　くるみ]]と費用を折半して購入。物件所有者（管理者）は小峯。&br()建物1階の奥には小峯のための隠れたバーカン部屋があり、密談や倉庫に使われている。&br()アジトが無い現状では、実質的な活動拠点。|
 //|番地|場所|用途|[[小峯　玲]]|備考|
 //|番地|場所|用途|[[小峯　玲]]|備考|
 #table_autoincrement(){label=No.}
