@@ -1,20 +1,20 @@
-*プロフィール
-//&image(ここに画像のURLを入力,y=400)
+*&size(25){&font(#ec6d74){&icon_fa(fa fa-address-card-o fa-fw)}}プロフィール
+&image(Profile.aibo.png,y=300)
+
 
 //ここからプロフィール
-#table_style(head=#E6E6FA:#666666){}
+#table_style(head=#d9333f:#FFF){}
 |~名前|~&icon_fa(fa fa-user)|&ruby(きみの){君乃}　アイボ|
-|~出身地|~&icon_fa(fa fa-location-dot)|　|
-|~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本|
+|~年齢|~&icon_fa(fa fa-cake-candles)|20代（たぶん20歳）|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年8月28日 (&countup(2026/8/28,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|　|
-|~所属|~&icon_fa(fa fa-users)|　|
-|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@kimino aibooo　|
-|~レーサー名|~&icon_fa(fa fa-car)|　|
-|~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999|
-|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|君の相棒ーイ|
-|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/your_the_aiboy]]|
-|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@your_the_aiboy]]|
+|~職業体験|~&icon_fa(fa fa-briefcase)|飲食店【[[わんも〜Cafe]]】&small(){(2026/8/28)}|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|君乃アイボ @kimino aibooo　|
+|~電話番号|~&icon_fa(fa fa-phone)|君乃の電話 (907)520-4019|
+|BGCOLOR(#767676):~プレイヤー|BGCOLOR(#767676):~&icon_fa(fa fa-address-card-o fa-fw)|君の相棒ーイ|
+|BGCOLOR(#767676):~告知等|BGCOLOR(#767676):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X(@Your_the_Aiboy)}>>https://x.com/your_the_aiboy]]|
+|BGCOLOR(#767676):~配信場所|BGCOLOR(#767676):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@your_the_aiboy]]|
 //|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
 //
 //&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>ＵＲＬ]]
@@ -30,40 +30,101 @@
 //各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
 //職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
 
-#region(目次を開く,open)目次
+#region(目次を開く,close)目次
 #contents(fromhere=true,level=2)
 #endregion
 *基本情報
--情報を記述
+#div(width=200px,bgcolor=#d9333f)
+{&font(b,#FFFFFF,120%){　なぜロスサントスへ？}}
+-日本にはたくさんの友達がおり、そのうちの一人に『相棒』と呼べる、人気者で憧れの存在がいた
+-しかし、なんやかんやあって相棒と離れ離れになり、何もかも捨ててロスサントスへ。新しい自分を探しに来た。
+-日本から飛行機で12時間かけてやってきた
+#div(width=200px,bgcolor=#d9333f)
+{&font(b,#FFFFFF,120%){　性格}}
+-一見すると軽くてキザで調子がいいが、仲間をかなり大切にする義理堅い性格
+-困っている人を見ると放って置けない
+-少し抜けているところがあり、トラブルに巻き込まれやすい...
+-一方で自分の弱さや過去についてはあまり人に見せたくない
+&small(){&bold(){&font(#6441A4)〜&font(#DA1725){&icon_fa(fa-brands fa-youtube)}Youtubeの配信画面から引用した文章が含まれています〜}}
+*所有車両
+#region(開く)&bold(){閉じる}
+#table_style(head=#d9333f, width=70:250:90:110:90:95:100:300)
 
+|CENTER:&color(#FFFFFF){車種}|CENTER:&color(#FFFFFF){ビジュアル}|CENTER:&color(#FFFFFF){メーカー}|CENTER:&color(#FFFFFF){車名}|CENTER:&color(#FFFFFF){ナンバー}|CENTER:&color(#FFFFFF){取得日}|CENTER:&color(#FFFFFF){金額}|CENTER:&color(#FFFFFF){詳細}|h
+|SIZE(11):バイク|&image(bike01.png,width=250)|SIZE(11):Pegassi|SIZE(11):Faggio Sport|SIZE(11):|SIZE(11):2026/8/28|SIZE(11):¥280,000|SIZE(11):・『オースティン』と名付けた&br()・初日に購入した初めてのスクーター|
+#endregion
 *エピソード
 **2026年
 ***8月
-#region(開く,open)&bold(){閉じる}
+#region(開く,close)&bold(){閉じる}
 ****8/28　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[ 1日目 俺はこの街で...輝くZE☆>>https://www.youtube.com/live/a31yAWtbDOs?si=qY0qAZYL0S1Oc_M6]]
 #region(開く,close)閉じる
--エピソード募集中
+-12時間のフライトを経て、ロスサントスへ到着
+-[[わんも〜Cafe]]で職業体験をする
+-スクーターを買う
+-[[カテジ]]に街案内してもらう
+--[[Ailemu]]でネイルしてもらう
+--[[Vertex]]でチンチロ
+-F3ルーレットを見る
+-[[銭形　やいち郎]]、[[黒澤　乃依]]、[[帆立　ほたる]]と建築バイト
 #endregion(28日)
 ----
 ****8/29　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[2日目 夢のマイカーを手に入れるため...働く>>https://www.youtube.com/live/ctRdUi37j9s?si=gMVPEiyiRlzU6QRP]]&space(2)&small(){}
 #region(開く,close)閉じる
--エピソード募集中
+-スクーターが押収されていたので警察にインバウンドしてもらう
+-車両保険に入る
+-銀行でお金を入金しに行く→怪しい集団に会う
+-ごみ収集バイトをする
+-スクーターのガソリンがなくなり、手で押して近くのガソリンスタンドへ
+-夏っぽい服を購入
+-釣り道具を購入し、[[える P くろー]]、[[呂色　いろ]]、[[黒澤　乃依]]と釣りをする
+-夏祭り用に浴衣を購入→４人で記念撮影
+&image(natumaturi.aibo.png,y=200)
+-夏祭りスタート
+--盆踊り、射的、ライブ
+-かくれんぼをする
+-ガソリンスタンドバイトをする
+-F3ルーレットを見る
+-f3ルーレット初挑戦
+-ガソスタバイトの社宅で乾杯
 #endregion(29日)
 ----
 ****8/30　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[3日目 とにかく働く>>https://www.youtube.com/live/H3lxF5WI9Jk?si=toROp8iPXdGoGGH9]]&space(2)&small(){}
 #region(開く,close)閉じる
--エピソード募集中
+-泥酔したまま起床
+-ガソスタバイトをする
+-サッカーする
 #endregion(30日)
 ----
-#endregion(8月)
-
+#endregion(mm月)
 ***9月
-#region(開く,open)&bold(){閉じる}
-****8/28　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[ 1日目 俺はこの街で...輝くZE☆>>https://www.youtube.com/live/a31yAWtbDOs?si=qY0qAZYL0S1Oc_M6]]
+#region(開く,close)&bold(){閉じる}
+****9/3　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[ 4日目 車を手に入れるときが来た！>>https://www.youtube.com/live/2mfviq_Hpd8?si=tOWWS7lJUBKGC7ip]]
 #region(開く,close)閉じる
 -エピソード募集中
-#endregion(28日)
+#endregion(3日)
 ----
+****9/9　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[ 5日目 やべぇ！早く１人前になろうぜ！>>https://www.youtube.com/live/iAGhpHJ9HK8?si=svM4C_D9uw7fjo6S]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(9日)
+----
+****9/13　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[ 6日目 君乃の名を広めてく>>https://www.youtube.com/live/bRHEY1RlOpU?si=_a0oi-oUR9pxXXcF]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(13日)
+----
+****9/18　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[ 7日目 そういえば俺どこで寝たっけ...>>https://www.youtube.com/live/gYqZnQWHDGQ?si=whB9p1_TYsU1awuD]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(18日)
+----
+****9/20　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[ 8日目 ここで働かせてくださーーーーーい>>https://www.youtube.com/live/qV1JB2ZZFTI?si=TMMsfUdRXojC8i5m]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(20日)
+----
+#endregion(mm月)
 #co{
 ↓コピー用素材
 
@@ -81,10 +142,26 @@
 
 *アーカイブ
 **2026年
+***8月
+#region(開く,close)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|26/8/28|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[1日目 俺はこの街で...輝くZE☆>>https://www.youtube.com/live/a31yAWtbDOs?si=qY0qAZYL0S1Oc_M6]]||
+|26/8/29|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[2日目 夢のマイカーを手に入れるため...働く>>https://www.youtube.com/live/ctRdUi37j9s?si=gMVPEiyiRlzU6QRP]]||
+|26/8/30|3|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[3日目 とにかく働く>>https://www.youtube.com/live/H3lxF5WI9Jk?si=toROp8iPXdGoGGH9]]||
+//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+***9月
 #region(開く,open)
 #table_style(head=center:#E6E6FA){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
-|mm/dd|1|[[タイトル>>ＵＲＬ]]||
+|26/9/3|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[4日目 車を手に入れるときが来た！>>https://www.youtube.com/live/2mfviq_Hpd8?si=tOWWS7lJUBKGC7ip]]||
+|26/9/9|5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[5日目 やべぇ！早く１人前になろうぜ！>>https://www.youtube.com/live/iAGhpHJ9HK8?si=svM4C_D9uw7fjo6S]]||
+|26/9/13|6|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[6日目 君乃の名を広めてく>>https://www.youtube.com/live/bRHEY1RlOpU?si=_a0oi-oUR9pxXXcF]]||
+|26/9/18|7|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[7日目 そういえば俺どこで寝たっけ...>>https://www.youtube.com/live/gYqZnQWHDGQ?si=whB9p1_TYsU1awuD]]||
+|26/9/20|8|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[8日目 ここで働かせてくださーーーーーい>>https://www.youtube.com/live/qV1JB2ZZFTI?si=TMMsfUdRXojC8i5m]]||
 //|mm/dd|n|[[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
