@@ -20,6 +20,18 @@
 
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}}
 #endregion(0916)
+***&font(#DA1725){&icon_fa(fa fa-youtube-play)} 関連動画&配信アーカイブ
+#region(開く,open)
+#size(80%){#table_style(head=#2f4f4f:#F9FCFF:center){視点=right,投稿日=center}
+#table_filter(){投稿日=show,視点=show,動画タイトル=show,備考=hide}
+|~投稿日|~視点|~動画タイトル|~備考|h
+
+|~配信日|~視点|~配信タイトル|~備考|h
+
+//&font(70%){　視点}
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion(関連動画)
 //
 ***9月17日（木）「あの軽トラが気になり過ぎる」&co(){by猪狩翔太}
 #region(開く,open)
@@ -46,6 +58,18 @@
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}}
 #endregion(0917)
 //横に伸びすぎないように適宜改行してください：&br()&space(3)
+***&font(#DA1725){&icon_fa(fa fa-youtube-play)} 関連動画&配信アーカイブ
+#region(開く,open)
+#size(80%){#table_style(head=#2f4f4f:#F9FCFF:center){視点=right,投稿日=center}
+#table_filter(){投稿日=show,視点=show,動画タイトル=show,備考=hide}
+|~投稿日|~視点|~動画タイトル|~備考|h
+
+|~配信日|~視点|~配信タイトル|~備考|h
+
+//&font(70%){　視点}
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion(関連動画)
 //
 ***9月18日（金）「本当はこれを、話ししたくて話ししたくて、仕方がなかったんですよ」&co(){by 滅論}
 #region(開く,open)
@@ -56,6 +80,18 @@
 |25:30|滅論|滅論が四五六確に「種と花」、「レシピ」の出所を売る|・秘密買取屋（[[四五六確>三否亭　四五六確]]）に種と花を配っている人物、&br()&space(3)新聞に載せた花のレシピの出所は無馬かなだという秘匿情報を5万円で売る&br()&br()（滅論「いや～誰かに話したかった、よかったよかった」）&br()（四五六「一旦スルーだな、滅論と沈むのは嫌だ」）|無馬はチャイナドレスが好みという情報は40万円で売れた||
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}}
 #endregion(0917)
+***&font(#DA1725){&icon_fa(fa fa-youtube-play)} 関連動画&配信アーカイブ
+#region(開く,open)
+#size(80%){#table_style(head=#2f4f4f:#F9FCFF:center){視点=right,投稿日=center}
+#table_filter(){投稿日=show,視点=show,動画タイトル=show,備考=hide}
+|~投稿日|~視点|~動画タイトル|~備考|h
+|2026/09/22|高橋滅論&font(70%){　視点}|[[秘密を買い取る専門店が出現！？無馬かなのネタバレを買わせる>>https://www.youtube.com/watch?v=VSjavib50vg]]||
+|~配信日|~視点|~配信タイトル|~備考|h
+|2026/09/18|高橋滅論&font(70%){　視点}|[[予定なんもない 高橋滅論 632日目(S2:191日目)>>https://www.youtube.com/watch?v=KKFskIIhgpE]]||
+//&font(70%){　視点}
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion(関連動画)
 //
 ***9月19日（土）&co(「」){by }
 //利確ぅ～(ぱちお)
@@ -70,7 +106,8 @@
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}}
 #endregion(0917)
 //横に伸びすぎないように適宜改行してください：&br()&space(3)
-//
+//何もなかった日は消してもいいかなと考え中
+
 ***9月20日（日）「当たり前だろ！花束なんだから！」&co(){by 橘かげまる}
 #region(開く,open)
 #size(80%){#table_style(head=#e6e6fa:center,hover=#ffffeb){}
@@ -91,9 +128,21 @@
 
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}}
 #region(「花束」の成分分析についての文書)「花束」の成分分析についての文書
-&image(「花束」成分検査についての文書.png)
+&blankimg(「花束」成分検査についての文書.png,width=600,height=800)
 #endregion(文書)
 
 #endregion(0917)
+***&font(#DA1725){&icon_fa(fa fa-youtube-play)} 関連動画&配信アーカイブ
+#region(開く,open)
+#size(80%){#table_style(head=#2f4f4f:#F9FCFF:center){視点=right,投稿日=center}
+#table_filter(){投稿日=show,視点=show,動画タイトル=show,備考=hide}
+|~投稿日|~視点|~動画タイトル|~備考|h
+
+|~配信日|~視点|~配信タイトル|~備考|h
+
+//&font(70%){　視点}
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+#endregion(関連動画)
 //横に伸びすぎないように適宜改行してください：&br()&space(3)
 [[SandBox/練習ページ2]]
