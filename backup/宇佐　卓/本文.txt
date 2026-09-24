@@ -1,6 +1,6 @@
 *&size(20){&color(#f0f8ff){&size(25){&color(#a596c7){プ}}ロフィール &aname(TOP,option=nolink){&icon_fa(fa fa-user-circle )}}}
 #table_color(#dd0000)
-#slide_img(auto=3,position=center,width=300,height=600){usataku_01_1.jpg,usataku_02_1.jpg,usataku_03_1.jpg,usataku_04_1.jpg,usataku_00_1.jpg}
+#slide_img(auto=3,position=center,width=320,height=465){usataku6.png,usataku4.png,usataku_00_1.jpg}
 
 //ここからプロフィール
 #table_style(head=#9b68a9:#FFF){}
@@ -53,7 +53,7 @@
 #div(width=250px,bgcolor=#9b68a9)
 {&font(b,#FFFFFF,120%){　&icon_fa(fa-solid fa-shirt)外見}}
 -髪の毛、眉毛、胸毛も&color(#9b68a9){紫色}
--胸毛はビキニ型で剃り揃えている（胸毛を見せることに抵抗はないが、自分から見せるのは恥ずかしい様子）
+-胸毛は友達に勧められてビキニ型で剃り揃えている（胸毛を見せることに抵抗はないが、自分から見せるのは恥ずかしい様子）
 -車に乗ると何故か髪が禿げてしまうことが悩み
 -自分の筋肉のことを『実用的な筋肉』と説明している
 -実はチークがハート型
@@ -64,7 +64,14 @@
 |バイク|&image(bike01_1.jpg,width=200)|Pegassi|Faggio Sport|2026/8/29|***|・[[音凪　紬]]からのプレゼント|
 |スポーツカー|&image(car01.jpg,width=200)|Karin|Sultan RS Classic|2026/9/5|650万|・初めて購入した車&br()・ルナガレでカスタム済(9/17)|
 #endregion
-
+*&size(20){&color(#eaf4fc){&size(25){&color(#a596c7){衣}}装倉庫 &icon_fa(fa-solid fa-shirt)}}
+#region(開く,close)閉じる
+#center(){
+#table_style(head=center:#9b68a9:#FFF)
+|~私服|~Confate 仕事着|~スーツ|~スポーツ着|h
+|MIDDLE:&image(usataku2.png,x=135,y=240)|MIDDLE:&image(usataku_02_1.jpg,x=135,y=240)|MIDDLE:&image(usataku1.png,x=135,y=240)|MIDDLE:&image(usataku3.png,x=135,y=240)|}
+#endregion
+//
 *&size(20){&color(#eaf4fc){&size(25){&color(#a596c7){エ}}ピソード &icon_fa(fa fa-calendar-o)}}
 &bold(){&font(#6441A4)細かなエピソードをまとめています。随時エピソード募集中です！ &icon_fa(fa-solid fa-arrow-turn-down)}
 **2026年
@@ -344,7 +351,7 @@
 |26/9/17(木)|12|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】おらに金をくれーーーー！！！！！！！！！！！！１２日目>>https://www.twitch.tv/videos/2876547058]]|きのこ、車カスタム|
 |26/9/18(金)|13|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】きのこ500個集めたい13日目>>https://www.twitch.tv/videos/2877336793]]|きのこマスター、相棒Confate体験、新聞取材|
 |26/9/19(土)|14|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】もう職業キノコハンターになる14日目>>https://www.twitch.tv/videos/2878258640]]|きのこ1000個、フォークライブ、サッカー大会、初心者マーク外しイベント構想|
-|26/9/23(水)|15|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】きのことお金とイベントと。15日目>>https://www.twitch.tv/videos/2881781669]]|きのこ2000個超、初レース参加、新衣装購入、BL新事業の話、初心者マーク外しイベント日時確定|
+|26/9/23(水)|15|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】きのことお金とイベントと。15日目>>https://www.twitch.tv/videos/2881781669]]|きのこ2000個超、LOS NEWS掲載、10/4初心者マーク外しイベ内容決め、初レース、新衣装購入、新事業お誘い|
 
 //|yy/mm/dd(aaa)|n|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
@@ -356,16 +363,16 @@
 #region(開く,open)
 #table_style(head=center:#9b68a9:#FFF){投稿日=right,#=center}
 |~投稿日|~&font(#FFF){&icon_fa(fa-brands fa-youtube)} 動画タイトル|~備考|h
-|8/30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】ふんだりけったりな１日目>>https://youtu.be/fDpb5OMFSYA?si=LdEBBPYTua_c7urc]]|#1-1️⃣|
-|8/31|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】バイト初日に暴れまくる新規住人🔰>>https://youtu.be/VgOl_s9ZpqU?si=lVFhG0Upjh_HknQa]]|#1-2️⃣|
-|9/1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】操作に慣れない新規住人がシュールすぎたｗｗｗ>>https://youtu.be/ztdGCLZvbjI?si=KnPddImpafleTDfz]]|#2-1️⃣|
-|9/2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】「また駅！？」ユニオンで起きた謎のループ現象>>https://youtu.be/Io7JEej2LmY?si=jbr2eSSJ3nb8SUTJ]]|#2-2️⃣|
-|9/2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】音楽を通して世界一平和なストーリーが動き出す？！>>https://youtu.be/rUrWP4q25Wo?si=_314K97yBToIzUap]]|#2-3️⃣|
-|9/5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】F3ルーレットをして地獄の空気に耐えられない新規住人ｗｗｗｗ>>https://youtu.be/ZgK6lIE3yBg?si=MEoq2jJE3T1jqER2]]|#3-1️⃣|
-|9/8|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】新規住人がF3ルーレットを特訓した結果WWWW>>https://youtu.be/Yhkd5huUrPM?si=Bpo3NUdCW3sEbr5h]]|#4-1️⃣|
-|9/11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】ペットに扮した新規住人達が大暴れｗｗｗｗｗ>>https://youtu.be/n0UajtzKZJg?si=hq-3QTSqcLIvw7R5]]|#7-1️⃣|
-|9/16|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】初めて作ったオリジナルメニュー、まさかの240個売れましたｗｗｗｗ>>https://youtu.be/rBKECNfj7ZM?si=1SBe3nFqG_Xn9PyZ]]|#7-2️⃣ #11-1️⃣|
-|9/21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】キノコを街に広めたら警察と黒市民と記者が動き出したｗｗｗｗ>>https://youtu.be/Inoku89aDxg?si=JGKNKHKUJraW_TCb]]|#12-1️⃣ #13-1️⃣ #14-1️⃣|
+|26/8/30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】ふんだりけったりな１日目>>https://youtu.be/fDpb5OMFSYA?si=LdEBBPYTua_c7urc]]|#1-1️⃣|
+|26/8/31|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】バイト初日に暴れまくる新規住人🔰>>https://youtu.be/VgOl_s9ZpqU?si=lVFhG0Upjh_HknQa]]|#1-2️⃣|
+|26/9/1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】操作に慣れない新規住人がシュールすぎたｗｗｗ>>https://youtu.be/ztdGCLZvbjI?si=KnPddImpafleTDfz]]|#2-1️⃣|
+|26/9/2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】「また駅！？」ユニオンで起きた謎のループ現象>>https://youtu.be/Io7JEej2LmY?si=jbr2eSSJ3nb8SUTJ]]|#2-2️⃣|
+|26/9/2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】音楽を通して世界一平和なストーリーが動き出す？！>>https://youtu.be/rUrWP4q25Wo?si=_314K97yBToIzUap]]|#2-3️⃣|
+|26/9/5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】F3ルーレットをして地獄の空気に耐えられない新規住人ｗｗｗｗ>>https://youtu.be/ZgK6lIE3yBg?si=MEoq2jJE3T1jqER2]]|#3-1️⃣|
+|26/9/8|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】新規住人がF3ルーレットを特訓した結果WWWW>>https://youtu.be/Yhkd5huUrPM?si=Bpo3NUdCW3sEbr5h]]|#4-1️⃣|
+|26/9/11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】ペットに扮した新規住人達が大暴れｗｗｗｗｗ>>https://youtu.be/n0UajtzKZJg?si=hq-3QTSqcLIvw7R5]]|#7-1️⃣|
+|26/9/16|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】初めて作ったオリジナルメニュー、まさかの240個売れましたｗｗｗｗ>>https://youtu.be/rBKECNfj7ZM?si=1SBe3nFqG_Xn9PyZ]]|#7-2️⃣ #11-1️⃣|
+|26/9/21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】キノコを街に広めたら警察と黒市民と記者が動き出したｗｗｗｗ>>https://youtu.be/Inoku89aDxg?si=JGKNKHKUJraW_TCb]]|#12-1️⃣ #13-1️⃣ #14-1️⃣|
 
 //|mm/dd(aaa)|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>ＵＲＬ]]|yyyy/mm/dd(aaa)||
 #table_sorter{even=#F7F7F7,odd=fff}

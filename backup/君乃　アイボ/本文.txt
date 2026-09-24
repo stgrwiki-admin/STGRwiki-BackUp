@@ -53,9 +53,19 @@
 |CENTER:&color(#FFFFFF){車種}|CENTER:&color(#FFFFFF){ビジュアル}|CENTER:&color(#FFFFFF){メーカー}|CENTER:&color(#FFFFFF){車名}|CENTER:&color(#FFFFFF){ナンバー}|CENTER:&color(#FFFFFF){取得日}|CENTER:&color(#FFFFFF){金額}|CENTER:&color(#FFFFFF){詳細}|h
 |SIZE(11):バイク|&image(bike01.png,width=250)|SIZE(11):Pegassi|SIZE(11):Faggio Sport|SIZE(11):|SIZE(11):2026/8/28|SIZE(11):¥280,000|SIZE(11):・『オースティン』と名付けた&br()・初日に購入した初めてのスクーター|
 #endregion
+*衣装倉庫
+#region(開く,close)閉じる
+#center(){
+#table_style(head=center:#d9333f:#FFF)
+|~私服（マスクあり）|~わんも〜Cafe 体験着|~夏服|~浴衣|h
+|MIDDLE:&image(aibo1.png,x=135,y=240)|MIDDLE:&image(aibo2.png,x=135,y=240)|MIDDLE:&image(aibo3.png,x=135,y=240)|MIDDLE:&image(aibo4.png,x=135,y=240)|}
+#endregion
+//
+
 *エピソード
 **2026年
-***8月
+#div(width=150px,bgcolor=#d9333f)
+{&font(b,#FFFFFF,120%){　8月}}
 #region(開く,close)&bold(){閉じる}
 ****8/28　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[ 1日目 俺はこの街で...輝くZE☆>>https://www.youtube.com/live/a31yAWtbDOs?si=qY0qAZYL0S1Oc_M6]]
 #region(開く,close)閉じる
@@ -97,7 +107,9 @@
 #endregion(30日)
 ----
 #endregion(mm月)
-***9月
+
+#div(width=150px,bgcolor=#d9333f)
+{&font(b,#FFFFFF,120%){　9月}}
 #region(開く,close)&bold(){閉じる}
 ****9/3　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[ 4日目 車を手に入れるときが来た！>>https://www.youtube.com/live/2mfviq_Hpd8?si=tOWWS7lJUBKGC7ip]]
 #region(開く,close)閉じる
@@ -142,9 +154,10 @@
 
 *アーカイブ
 **2026年
-***8月
+#div(width=150px,bgcolor=#d9333f)
+{&font(b,#FFFFFF,120%){　8月}}
 #region(開く,close)
-#table_style(head=center:#E6E6FA){配信日=right,#=center}
+#table_style(head=center:#d9333f:#FFF){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |26/8/28|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[1日目 俺はこの街で...輝くZE☆>>https://www.youtube.com/live/a31yAWtbDOs?si=qY0qAZYL0S1Oc_M6]]||
 |26/8/29|2|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[2日目 夢のマイカーを手に入れるため...働く>>https://www.youtube.com/live/ctRdUi37j9s?si=gMVPEiyiRlzU6QRP]]||
@@ -153,9 +166,10 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 
-***9月
+#div(width=150px,bgcolor=#d9333f)
+{&font(b,#FFFFFF,120%){　9月}}
 #region(開く,open)
-#table_style(head=center:#E6E6FA){配信日=right,#=center}
+#table_style(head=center:#d9333f:#FFF){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |26/9/3|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[4日目 車を手に入れるときが来た！>>https://www.youtube.com/live/2mfviq_Hpd8?si=tOWWS7lJUBKGC7ip]]||
 |26/9/9|5|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[5日目 やべぇ！早く１人前になろうぜ！>>https://www.youtube.com/live/iAGhpHJ9HK8?si=svM4C_D9uw7fjo6S]]||
