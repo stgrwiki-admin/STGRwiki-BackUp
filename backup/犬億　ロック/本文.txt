@@ -1,11 +1,18 @@
 *&font(20px){プロフィール &icon_fa(fa fa-address-book-o)}
 
+#table_color(head=#964368)
+|&image(犬億ロック_Season2.png,y=390)|h
+
+
+#region(Season1：開く,close)&bold(){Season1：閉じる}
 #slide_img(auto=3,width=300,height=400){犬億ロック_奇肉屋02.jpeg,犬億ロック_奇肉屋01.jpeg,240417 犬億ロック.png}
+#endregion(Season1の画像)
+
 //画像は必要に応じて削除・変更してください。
 //編集相談中内容のためCO|~&color(#FFFFFF){市民（血液）ID}|KFO37884|
 //ここからプロフィール
 #table_filter(){Season1=hide,Season2=show}
-#table_style(head=#DC143C:#FFFFFF)
+#table_style(head=#964368:#FFFFFF)
 |世界線|Season1|Season2|h
 |~名前|>|&ruby(わんおく){犬億}　&ruby(){ロック}|
 |~本名|>|マーク・ザッコォ♡ロック|　
