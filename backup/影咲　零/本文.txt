@@ -65,9 +65,19 @@
 #region(開く,open)
 #table_style(head=center:#E6E6FA){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
-|9/19|1|[[ EP.01 𝑿𝑿𝑿𝑿𝑿𝑿｜??????>>https://www.youtube.com/watch?v=EiwNpS3-JxM]]||
+|9/19|1|[[ EP.01 𝑿𝑿𝑿𝑿𝑿𝑿｜??????>>https://www.youtube.com/watch?v=EiwNpS3-JxM]]|&infobox(title=※,trigger=click,gravity=west){非公開}|
 //|mm/dd|n|[[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+*&color(#fef9fb){&font(30px,#ffc0cb){&icon_fa(fa-brands fa-youtube)}  動画}
+***&size(110%){&bgcolor(#e6a5f8){&nbsp()&font(#fefefe,90%){　 Season2}&nbsp(6)}}
+#region(開く)✖️閉じる
+#region(開く,open)
+#table_style(head=center:#d099fd:#fafafa){配信日=center,#=center,動画タイトル=left,備考=left}
+|~#|~投稿日|~動画タイトル|~備考|h
+|1|2026/09/25|[[初めての2キャラ目始動🍂壮大な背景を背負う女の物語【 影咲 零 / ストグラ 】>>https://www.youtube.com/watch?v=7KvAKX8oJ60]]||
+#endregion
 #endregion
 
 #right(){&link_up(🔝ページTOPへ)}
