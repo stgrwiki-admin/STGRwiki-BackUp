@@ -4,14 +4,14 @@
 #slide_img(auto=4,position=left,width=300,height=400,position=center){すごす_S2_警察服02.WEBP,すごす_S2_警察服01.WEBP,すごす_S1_スドバ01.jpg}
 &font(18px,b){ 「　ほのぼの山です〜〜！！　」}
 //管理人様の方法を参考にシーズンで分けてみましたが他の方法が良さそうであれば、編集お願いします。
-#table_filter(){Season１=show,Season２=show}
+#table_filter(){Season１=hide,Season２=show}
 #table_style(head=#65BBE9:#FFFFFF:)|~世界線|~&icon_fa(fa fa-earth-asia)|~Season１|~Season２|h
 |~&color(#FFFFFF){名前}|~&color(#FFFFFF){&icon_fa(fa fa-user)}|>|&ruby(ほのぼのやま){&bold(){仄々山}}　&bold(){すごす}|
 |~&color(#FFFFFF){出身地}|~&color(#FFFFFF){&icon_fa(fa fa-map-marker)}|>|日本／アメリカの田舎育ち|
 |~&color(#FFFFFF){誕生日}|~&color(#FFFFFF){&icon_fa(fa fa-birthday-cake)}|>|2000年10月01日(&countup(2000/10/01,y)歳)&br()|
 |~&color(#FFFFFF){転入日}|~&color(#FFFFFF){&icon_fa(fa fa-plane)}|2022年09月05日(&countup(2022/9/05,yd)経過)|2025年12月19日(&countup(2025/12/19,yd)経過) |
 |~&color(#FFFFFF){職業}|~&color(#FFFFFF){&icon_fa(fa fa-university)}|&icon_fa(fa fa-coffee)&space(2)[[須藤バックスコーヒー]]&space()&small(){2022/09/05〜}&br()&icon_fa(fa fa-shield-halved)&space(3)[[ロスサントス警察]]&space()&small(){ランク1 2025/05/30〜}|&icon_fa(fa fa-shield-halved)&space(3)[[ロスサントス警察]]&space()&small(){ランク2 2025/12/19〜}&br() &space(36)&small(){&bold(){市民課} 2026/09/04〜} |
-|~&color(#FFFFFF){TwiX}|~&color(#FFFFFF){&icon_fa(fa fa-twitter)}|@sugosu1001|@sugosu1001 |
+|~&color(#FFFFFF){TwiX}|~&color(#FFFFFF){&icon_fa(fa fa-twitter)}|@sugosu1001|@sugosu1001 , @nma |
 |BGCOLOR(#937B69):~&color(#FFFFFF){プレイヤー}|BGCOLOR(#937B69):&color(#FFFFFF){&icon_fa(fa fa-address-card-o)}|>|栗山やんみ|
 |BGCOLOR(#937B69):~&color(#FFFFFF){告知等}|BGCOLOR(#937B69):&color(#FFFFFF){&icon_fa(fa fa-bullhorn)}|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[X(Twitter)>>https://x.com/krym_vtuber]]|
 |BGCOLOR(#937B69):~&color(#FFFFFF){配信場所}|BGCOLOR(#937B69):&color(#FFFFFF){&icon_fa(fa fa-gamepad)}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube} >>https://youtube.com/@YanmiKuriyama]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yanmidayo]]&small(){(2025/01/19〜2025/06/17)}|
@@ -150,6 +150,12 @@
 #region(作成ポスター,open)
 |&blankimg(お悩み相談ポスター.PNG,y=150,x=150)|&blankimg(車両保険ポスター.PNG,y=150,x=150)|&blankimg(お悩み相談ポスター02.PNG,y=150,x=150)|&blankimg(仮白市民パスポスター.PNG,y=150,x=150)|
 |BGCOLOR(#EAEFF2):~お悩み相談ポスター&br()&size(10){初投稿：2026/01/17　Day.９}|BGCOLOR(#EAEFF2):~車両保険のお知らせ&br()&size(10){初投稿：2026/01/18　Day.10}|BGCOLOR(#EAEFF2):~お悩み相談ポスター２&br()&size(10){初投稿：2026/04/04　Day.22}|BGCOLOR(#EAEFF2):~仮白市民パスポスター&br()&size(10){初投稿：2026/04/11　Day.23}|
+#endregion
+//
+***&underdot(#a297b7,3px){&size(15){&color(#618BAD){■} &bold(){んま先生の作品}&space(2)}}
+#region(4コマ漫画,open)
+|&blankimg(んまんが01.JPEG,y=200,x=100)|
+|BGCOLOR(#EAEFF2):~夏季限定&br()&small(){2026/09/25}|
 #endregion
 //
 **所有車両一覧 &font(#67A7CC){&icon_fa(fa fa-car)}
