@@ -29,12 +29,12 @@
 *&font(#FFFFFF){&icon_fa(fa fa-id-card-clip)}  &color(#FFFFFF){職員一覧}
 &font(12px,b,#ccc){※jobが付与された日を基準とする}
 #table_style(head=#C0C0C0){名前=bold}
-#table_filter(){就職日=show,備考=show,配信=show}
-|~名前|~就職日|~備考|~配信|h
-|[[町田　ジョアンナ]]|2026/03/26|メカニック[[JTS]] 社長|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[YouTube>>https://www.youtube.com/@joannamachida]]|
-|[[青梅　つばめ]]|2026/04/05|メカニック[[UGM]] マネージャー|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/gucha_maru]]|
-|[[天羽　よつは]]|2026/06/05|[[ロスサントス救急救命隊]] 副医局長|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@YotsuhaAmahane]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yochuco]]|
-//|[[ほのぼの山　すごす>>仄々山　すごす]]|2026/mm/dd||　|
+#table_filter(){就職日=show,兼業=hide,備考=show,配信=show}
+|~名前|~就職日|~兼業|~備考|~配信|h
+|[[町田　ジョアンナ]]|2026/03/26|メカニック[[JTS]] 社長||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[YouTube>>https://www.youtube.com/@joannamachida]]|
+|[[青梅　つばめ]]|2026/04/05|メカニック[[UGM]] マネージャー||&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/gucha_maru]]|
+|[[天羽　よつは]]|2026/06/05|[[ロスサントス救急救命隊]] 副医局長||&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@YotsuhaAmahane]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yochuco]]|
+|[[ほのぼの山　すごす>>仄々山　すごす]]|2026/09/25|[[ロスサントス警察]] 市民課||&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/@yanmikuriyama]]|
 //|[[名前]]|2026/mm/dd|備考|配信|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
@@ -58,14 +58,15 @@
 |~商品名|~提供開始日|~値段|~備考|h
 |無線機|2026/06/05|750,000&br()1,300,000&br()1,500,000|白市民パス有&br()白市民パス無&br()心なきラジオ販売員|
 |オリジナルダイス|2026/07/dd|100,000|オリジナルデザインの依頼が可能|
-|開業届|2026/mm/dd|1,000||
 |大型バスレンタル|2026/07/30|300,000|事前申請をすれば1台30万/日で誰でもレンタルができる|
 |ビンゴ抽選機|2026/mm/dd|100,000|　|
-|ラッキーホイール|2026/mm/dd|100,000|　|
 |ビンゴモニター|2026/mm/dd|100,000|　|
+|ラッキーホイール|2026/mm/dd|100,000|　|
 |福引抽選機|2026/mm/dd|100,000|　|
+//|開業届|2026/mm/dd|1,000||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//レンタル料金が確定した場合は変更
 
 *&font(#FFFFFF){&icon_fa(fa fa-users)}  &color(#FFFFFF){その他 関連ジョブ}
 //他に良い表示方法がありましたら変更していただいて問題ありません。
