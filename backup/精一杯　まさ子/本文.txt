@@ -1,16 +1,15 @@
 *プロフィール
 //&image(ここに画像のURLを入力,y=400)
-
 //ここからプロフィール
 #table_style(head=#F0F3F7:#4B5295){}
 |~名前|~&icon_fa(fa fa-user)|&b(){&ruby(せいいっぱい){精一杯}　まさ&ruby(こ){子}}|
-|~出身地|~&icon_fa(fa fa-location-dot)|　|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年9月10日 (&countup(2026/9/10,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|　|
 |~職業体験|~&icon_fa(fa fa-cash-register)|&b(){メカニック"[[LUNA Garage]]"&small(){体験(2025/09/20〜)}}&br()&small(){&openclose2(show=▼過去に体験した職業){&br()&s(){LIVE&BAR"[[Confate]]"&small(){体験(2025/09/17)}}}}|
 |~所属|~&icon_fa(fa fa-users)|　|
-|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@　|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|&b(){@masako}|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
 |~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999|
 |BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|&ruby(みつき){御月}&ruby(いち){一}|
@@ -34,6 +33,8 @@
 #contents(fromhere=true,level=2)
 #endregion
 *基本情報
+-旅や冒険が好きな為、家を飛び出しロスサントスにやってきた。
+
 -情報を記述
 *関係人物
 ****&size(125%){&bgcolor(#4B5295){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)▷街の住民}}&nbsp(52)}}
