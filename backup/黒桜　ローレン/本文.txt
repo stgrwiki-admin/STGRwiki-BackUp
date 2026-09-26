@@ -2,7 +2,12 @@
 
 *&color(#0d0015){&color(#ffb7c5){プロフィール}}
 #center(){&strong()&font(30px,b,#0d0015){黒桜ローレン}}
-#slide_img(auto=2,position=center,width=320,height=430,position=center){https://gyazo.com/e2c253345149df8daefd2e933609c0fa.jpg,https://gyazo.com/86941cb2c2dd7c77e3dfe258ead560dc.Jpeg,https://gyazo.com/00af8c1fbb2d5863f1d56d5980879c38.jpeg,https://i.gyazo.com/13b474473d7567d1b03ad2a6939a931d.jpg,https://gyazo.com/ff2b319a048be73caf768ff0a31ed6a7.jpeg,https://i.gyazo.com/fd9002d6a41df439ebade899e92e465b.jpg,https://i.gyazo.com/4a03d2a0b281b48df3e69f8081e291e8.png,https://i.gyazo.com/3766917f1a98161119c1328a93aee47f.jpg,https://i.gyazo.com/9de913ed4971acb7e7bc46035550cefa.png,https://i.gyazo.com/084d3392946c936883455600a311b9c7.png}
+
+#slide_img(auto=2,position=center,width=430,height=430,position=center)
+{20260808_clothes1.jpeg,20260808_clothes2.jpeg}
+//** 以下のURLが無効になっていたためコメントアウト
+//{https://gyazo.com/e2c253345149df8daefd2e933609c0fa.jpg,https://gyazo.com/86941cb2c2dd7c77e3dfe258ead560dc.Jpeg,https://gyazo.com/00af8c1fbb2d5863f1d56d5980879c38.jpeg,https://i.gyazo.com/13b474473d7567d1b03ad2a6939a931d.jpg,https://gyazo.com/ff2b319a048be73caf768ff0a31ed6a7.jpeg,https://i.gyazo.com/fd9002d6a41df439ebade899e92e465b.jpg,https://i.gyazo.com/4a03d2a0b281b48df3e69f8081e291e8.png,https://i.gyazo.com/3766917f1a98161119c1328a93aee47f.jpg,https://i.gyazo.com/9de913ed4971acb7e7bc46035550cefa.png,https://i.gyazo.com/084d3392946c936883455600a311b9c7.png}
+
 #center(){&strong(){&font(35px,b,#F172A3){「おはローレン！」}}}
 #table_style(head=#0d0015:#ffb7c5){名前=#eee:b:center}
 #table_filter(){Season1=hide,Season2=show}
@@ -590,19 +595,29 @@
 #region(開く,open)閉じる
 -アパートで起床すると、すぐにコンビニ強盗を行い成功した。
 -コンビニ強盗の後、BMの洗浄を行った。後から、コインランドリーにやってきたじょばと会話をした。
--アパートに戻って、アパート前に立っているとけんつと会い、街で面白い仕事はないかを相談した。
--けんつと話していると、飯田書店に遊びに行かないかと言われたので書店を訪れてみた。
--書店でけんつ・安城成・ニックス リアと雑談をしていると、けんつから誘われて、飯田書店で働くことにした。
--飯田書店の服を作るため、服屋を訪れると店内で不二子さんとボアちゃんと会った。
+-アパートに戻って、アパート前に立っていると[[飯田　けんつ]]と会い、街で面白い仕事はないかを相談した。
+-けんつと話していると、[[飯田書店]]に遊びに行かないかと言われたので書店を訪れてみた。
+-書店でけんつ・[[安城　成]]・[[ニックス　リア]]と雑談をしていると、けんつから誘われて、飯田書店で働くことにした。
+-飯田書店の服を作るため、服屋を訪れると店内で[[不二子さん>>不二子　キャスパー]]と[[ボアちゃん>>ボア　セニャコック]]と会った。
 -飯田書店の服を作った後、飯田書店に戻って、店員として働いた。
 -hantasmaのメンバーと一緒にブースティングが行った。
--五味カスがモーザンを轢いた置き去りした後、セイジとモーザンが話をしていると今度は五味カスがセイジを轢いたため問題となり、hantasmaとモーザン・セイジらと話し合いになる。最終的にモーザンがF3ルーレットを行い、笑ったhantasmaメンバーがモーザンへお金を払う形で平和的に解決した。ローレンはモーザンのF3ルーレットに笑ったためモーザンに20万円を支払った。
--話し合った現場で再会したモーザンや、セイジ・あかいろにごうへ挨拶をした。
+-五味カスが警察とチェイス中に[[モーザン>>モーガン・フリーザン]]を轢いて置き去りした後、[[セイジ>>文殊　セイジ]]とモーザンが話をしているところに、今度は五味カスがセイジを轢いたため問題となり、hantasmaとモーザン・セイジらとの間で話し合いになる。最終的にモーザンがF3ルーレットを行い、笑ったhantasmaメンバーがモーザンへお金を払う形で平和的に解決した。ローレンはモーザンのF3ルーレットに笑ったためモーザンに20万円を支払った。
+-話し合った現場で再会したモーザンや、セイジ・[[あかいろにごう>>赤色　にごう]]へ挨拶をした。
 -ブースティング中に大量のパトカーに追われて、ローレンが乗っていた盗難車両が破損して止まってしまったため逮捕された。
 -プリズンの中で、同じく警察に逮捕された五味カスに対して、転送前の町の犯罪事情やローレンが黒落ちしてMOZUに加入した後にhantasmaへ加入するまでの経緯を話した。
 -プリズンから一度アパートへ戻った後に、五味カスと武器屋へ行き、銃を買った。
 -アパートへ戻り、就寝した。
 #endregion(9/3)
+
+****9/26[[ストグラseason2 - 黒桜ローレン #17 #ストグラ 書店、、、>>https://www.twitch.tv/videos/2884411287]]
+#region(開く,open)閉じる
+-アパートへ起床すると、すぐに[[飯田書店]]に向かい、書店で接客することにした。
+-飯田書店でお客さんを待っていると、[[もり　るんるん]]がお店にやってきた。ローレンが書店で接客するのが二日目で、るんるんがローレンを見るのが珍しいため、モーザンと間違われた。
+-るんるんから[[デヤンス>>小者　デヤンス]]の連絡先を持っているか聞かれたが、ローレンは連絡先を持っていなかった。
+-
+-
+#endregion(9/26)
+
 #endregion(エピソード2026/9)
 
 #right(){&link_up(🔝ページTOPへ)}
@@ -791,6 +806,7 @@
 #table_style(head=center:#0d0015:#ffb7c5){配信日=right,b=center} |~配信日|~#|~配信タイトル&font(#head=#0d0015:#ffb7c56441A4){&icon_fa(fa fa-twitch)}|備考|h
 |9/2|#15| [[ストグラseason2 - 黒桜ローレン #15 #ストグラ 仲間は一生もの>>https://www.twitch.tv/videos/2863181324]]||
 |9/3|#16| [[ストグラseason2 - 黒桜ローレン #16 #ストグラ 会うべき人>>https://www.twitch.tv/videos/2864042213]]||
+|9/26|#17| [[ストグラseason2 - 黒桜ローレン #17 #ストグラ 書店、、、>>https://www.twitch.tv/videos/2884411287]]||
 #endregion(9月)
 
 #endregion(アーカイブ2026年)
