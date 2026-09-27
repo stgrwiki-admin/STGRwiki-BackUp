@@ -307,7 +307,7 @@ QQ検定は筆記方式のテストで、定められた点数以上を取れば
 |[[不働　めい]]|2026/09/04|2026/09/05|2026/09/06|||
 |[[ホシ・バミオ]]|2026/09/11|2026/09/12|2026/09/16|||
 |[[アイン]]|2026/09/17|2026/09/18|2026/09/19|||
-|[[grow]]|2026/09/23|2026/09/24||||
+|[[grow]]|2026/09/23|2026/09/24|2026/09/27|||
 //|[[名　前]]|yyyy/mm/dd|||||
 //|[[名　前]]|yyyy/mm/dd|||||
 #table_sorter(){head=#eeeeee,even=white}
@@ -1654,8 +1654,13 @@ QQ検定は筆記方式のテストで、定められた点数以上を取れば
 |[[ブラック　ジャックス]]|[[はが　かける]]||
 #endregion
 //・&b(){各視点一覧}
-//&b(){【切り抜き動画】}
-//&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[キャラクター名視点>>動画リンク]] 
+
+&b(){切り抜き動画}
+#region(開く)
+|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[鳥野ぎん>>https://youtu.be/S0BMh0Vshu8]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[雷堂ましろ>>https://youtu.be/_zMHNiTL3ao]]|
+//
+//&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[キャラクター>>動画]]
+#endregion
 #areaedit(end)
 #endregion
 ----
@@ -1734,7 +1739,7 @@ QQ検定は筆記方式のテストで、定められた点数以上を取れば
 ・&bold(){9月9日『きゅうきゅうの日』イベント開催}
 #region(開く)
 #areaedit()
-9月9日は「きゅうきゅうの日」と銘打って西病院にてイベントを開催。謎解きは[[葛城　司]]が制作・近日オープン予定の[[魔法学校グリントアカデミー]]を含めた飲食店計8店舗が出店した。
+9月9日は「きゅうきゅうの日」と銘打って西病院にてイベントを開催。謎解きは[[葛城　司]]が制作・近日オープン予定の[[魔法学校グリントアカデミー]]を含む飲食店計8店舗が出店した。
 
 &openclose2(show=▼告知画像){&br()&blankimg(救急隊イベント_20260909きゅうきゅうの日.jpeg,x=330,y=450)}
 
@@ -1773,7 +1778,9 @@ QQ検定は筆記方式のテストで、定められた点数以上を取れば
 }}}
 
 &b(){【切り抜き動画】}
-&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[キャラクター>>動画]] 
+|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ももみ>>https://youtu.be/YVc_Wb44pTM]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[ジョン ドングリ>>https://youtu.be/_XlKf4ZVmck]]|
+//
+//&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[キャラクター>>動画]] 
 #areaedit(end)
 #endregion
 ----
