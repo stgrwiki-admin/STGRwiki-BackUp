@@ -6,17 +6,18 @@
 
 //ここからプロフィール
 #table_style(head=#E6E6FA:#666666){名前=#eee:b:center}
-#table_filter(){Season1=show,Season2=show}
+#table_filter(){Season1=hide,Season2=show}
 |~シーズン|~Season1|~Season2|h
 |~名前|>|&ruby(たたみ){畳}　かえる|
 |~出身地|>|戦車が町中を走り回る町|
-|~誕生日|>|1989年6月21日 (36歳)|
-|~転入日|2024年11月26日 (&countup(2024/11/26,yd)経過)||
+|~誕生日|>|1989年6月21日 (&countup(1989/6/21,y)歳)|
+|~転入日|>|2024年11月26日 (&countup(2024/11/26,yd)経過)|
 |~職業 |海上レストラン【[[Urashima]]】&br()&font(80%){・正社員(2024/12/12~)}|海上レストラン【[[Urashima]]】&br()&font(80%){・副店長(2026/2/13~)&openclose2(show=他役職){&br()・マネージャー&br()・経理&br()・人事管理}}&br()&font(80%){&openclose2(show=▼過去の職業){&br()イタリアンレストラン【[[aqua ovest]]】アルバイト(2026/1/2~)}}|
-|~ |素材屋（個人営業）|素材屋（個人営業）|
+|~ |>|素材屋（個人営業）|
 |~所属 |ギャング【[[hantasma]]】&font(80%){(2024/12/25~)}|ギャング【[[hantasma]]】&font(80%){(2026/01/11~)}|
 |~ ||[[素材屋連盟]]|
 |~TwiX|@畳かえる|畳かえる@tatami&br()&small(){&openclose2(show=▼覆面アカウント){&br()道具屋さん@dougu (S2初期)}}|
+|~ペット|-|&infobox(title=グレ){Husky Light Gray}&small(){(2026/08/28~)}|
 |BGCOLOR(#666):COLOR(#E6E6FA):~プレイヤー|>|noon(ぬーん)|
 |BGCOLOR(#666):COLOR(#E6E6FA):~告知等|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/noon16493695]]|
 |BGCOLOR(#666):COLOR(#E6E6FA):~配信場所|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E3%81%AC%E3%83%BC%E3%82%93-k8b]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/noon9848]]|
