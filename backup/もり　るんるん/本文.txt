@@ -3,9 +3,21 @@
 ----
 **&font(25px,#C3C){&font(35px,#006){&icon_fa(fa fa-address-card)} プロフィール }
 //写真は480x320でアップしました
-#slide_img(width=360,height=240,auto=0){もりるんるん_7.png,もりるんるん_4.png,もりるんるん_5.png,もりるんるん_6.png,もりるんるん_1.png,もりるんるん_2.png,もりるんるん_3.png}
-&font(b,#C71585,16px){「あなたもわたしも気分るんるん！森の中からこんにちは！もりるんるんです！」}
-&font(b,#C71585,16px){「るんるん、しゅっき～～ん！」}
+
+#slide_img(width=380,height=220,auto=0){
+もりるんるんSeason2_SGPD.webp,
+もりるんるんSeason2_もりぶん.webp,
+もりるんるんSeason2_BJローン.webp,
+もりるんるんSeason2_DOG.webp,
+}
+
+#region(Season1：開く,close)&bold(){Season1：閉じる}
+#slide_img(width=360,height=240,auto=0){もりるんるん_7.png,もりるんるん_4.png,もりるんるん_5.png,もりるんるん_6.png,もりるんるん_1.png,もりるんるん_2.png,もりるんるん_3.png
+}
+#endregion(Season1の画像)
+
+&font(b,#C71585,18px){「あなたもわたしも気分るんるん！森の中からこんにちは！もりるんるんです！」}
+&font(b,#C71585,18px){「るんるん、しゅっき～～ん！」}
 
 //ここからプロフィール
 #table_filter(){Season１=hide,Season２=show}
