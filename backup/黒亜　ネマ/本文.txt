@@ -1,44 +1,34 @@
-*&size(30){&icon_fa(fa-solid fa-star)&space()Season2}
 *&size(25){&icon_fa(fa fa-address-card-o)&space()プロフィール}
-
-#table_color(#696969)
-|~&color(white){名前}|&ruby(くろあ){黒亜}　ネマ|
-|~&color(white){プレイヤー}|あねま|
-|~&color(white){告知等}|&color(#FFFFFF,#000000){&space()𝕏&space()}[[&font(#000000){&space()X&space()(旧Twitter)}>>https://twitter.com/anema0120]]|
-|~&color(white){配信場所}|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/anema0120]]/ &font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube(アーカイブ)}>>https://www.youtube.com/@anema0120]]|
-|~&color(white){別キャラ}|&small(){&openclose2(show=※ネタバレ注意){：[[田中　としこ]]}}|
-
-*&size(30){&icon_fa(fa fa-archive)&space()Season1}
-#region(close)
-*&size(25){&icon_fa(fa fa-address-card-o)&space()プロフィール}
-
-|&image(黒亜ネマ（2025春服）.png,y=300)|
+#center(){|&image(黒亜ネマ（2025春服）.png,x=300,y=400)|}
 #region(PAST)
 |&image(黒亜ネマ（2024夏）.png,y=300)|&image(黒亜ネマ（2024夏素顔）.png,y=300)|&image(黒亜ネマ（春くま）.png,y=300)|&image(黒亜ネマ（ペールノエルくま）.png,y=300)|
 |&image(黒亜 ネマ（バストアップ）.png,y=300)|&image(黒亜 ネマ（全身）.png,y=300)|&image(黒亜ネマ（ふゆふくま）.png,y=300)|
 #endregion
-
 &sizex(6){&bold(){「ロスサントスへは釣りをしに来ました！」}}
+//ここからプロフィール
+#table_style(head=#696969:#fdfaf4){名前=#667:#eee:b:center}
+#table_filter(){SEASON1=hide,SEASON2=show}
+|~シーズン|~&space()&icon_fa(fa fa-arrow-right-to-city)&space()|~SEASON1|~SEASON2|h
+|~名前|~&icon_fa(fa fa-user)|>|&b(){&ruby(くろあ){黒亜}　ネマ}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|日本（西と東のハーフ）|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|1月20日 20歳|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年08月13日 &small(){(～2025/05/10)}&br()&b(){キャラクターエンディング済み}|2026年09月30日 (&countup(2026/09/30,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|🎣&bold(){釣り師（自称）}&br()☕&bold(){カフェ店員「[[Père Noël]]」}2023年8月17日&small(){(～2025/05/10)}&br()&icon_fa(fa fa-paint-brush)&bold(){DOT STICKER SHOP「[[ネマ屋>>https://w.atwiki.jp/streamergta5/pages/913.html]]」}2023年10月18日&small(){(～2025/05/10)}&br()&s(){🔫&bold()ギャング「[[ALLIN]]」2024年5月30日～2025月3月24日}&br()&openclose2(show=※PAST){&br()&s(){🔫&bold()ギャング「[[concellge>concellge(コンセルジュ)]]」2024年1月13日～2024年5月29日}&br()&s(){🔫半グレ集団「ギャング研究会」2023年12月7日～2024年1月12日}&br()&s(){🔫半グレ集団「[[ギャングシティ]]」2023年10月25日～2023年11月4日}&br()&s(){🔫ギャング「[[MOZU]]」2023年9月9日～2023年10月11日&br()※歪みの影響で正式な加入は9/16、各メンバーとの挨拶を考慮し正式な脱退は10/21。}}|🎣&bold(){釣り師（自称）}※&today(j)現在、職業としては存在しない|
+|~職業体験|~&icon_fa(fa fa-cash-register)|||
+|~所属|~&icon_fa(fa fa-users)|||
+|~恋人|~&icon_fa(fa-solid fa-heart)|>|[[髭野　たけーら]]|
+|~家族|~&icon_fa(fa fa-person)|>|義父(パパ) [[四皇　シャンクズ]]|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@黒亜ネマ|@nema|
+|BGCOLOR(#000000):~プレイヤー|BGCOLOR(#000000):~&icon_fa(fa fa-address-card-o fa-fw)|>|あねま|
+|BGCOLOR(#000000):~告知等|BGCOLOR(#000000):~&icon_fa(fa fa-bullhorn)|>|&color(#FFFFFF,#000000){&space()𝕏&space()}[[&font(#000000){&space()X&space()(旧Twitter)}>>https://twitter.com/anema0120]]|
+|BGCOLOR(#000000):~配信場所|BGCOLOR(#000000):~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/anema0120]]/ &font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube(アーカイブ)}>>https://www.youtube.com/playlist?list=PLUJN1kWTJawiLbqglwyWn0MBLJHUxJJLK]]|
+|BGCOLOR(#000000):~別キャラ|BGCOLOR(#000000):&icon_fa(fa fa-user-plus)|>|&small(){&openclose2(show=※ネタバレ注意){&br(){[[田中　としこ]]}}}|
 
-#table_color(#696969)
-|~&color(white){名前}|&ruby(くろあ){黒亜}　ネマ|
-|~&color(white){出身地}|日本（西と東のハーフ）|
-|~&color(white){誕生日}|1月20日|
-|~&color(white){年齢}|20歳|
-|~&color(white){血液型}|О型|
-|~&color(white){転入日}|2023年08月13日 &small(){(～2025/05/10)}|
-|~&color(white){職業}|&openclose2(show=▼キャラクターエンディング済み){&br()🎣&bold(){釣り師（自称）}※&today(j)現在、職業としては存在しない&br()☕&bold(){カフェ店員「[[Père Noël]]」}2023年8月17日～（&countup(2023/8/17,yd)経過）&br()&icon_fa(fa fa-paint-brush)&bold(){DOT STICKER SHOP「[[ネマ屋>>https://w.atwiki.jp/streamergta5/pages/913.html]]」}2023年10月18日～（&countup(2023/10/18,yd)経過）&br()&s(){🔫&bold()ギャング「[[ALLIN]]」2024年5月30日～2025月3月24日}&br()&openclose2(show=※PAST){&br()&s(){🔫&bold()ギャング「[[concellge>concellge(コンセルジュ)]]」2024年1月13日～2024年5月29日}&br()&s(){🔫半グレ集団「ギャング研究会」2023年12月7日～2024年1月12日}&br()&s(){🔫半グレ集団「[[ギャングシティ]]」2023年10月25日～2023年11月4日}&br()&s(){🔫ギャング「[[MOZU]]」2023年9月9日～2023年10月11日&br()※歪みの影響で正式な加入は9/16、各メンバーとの挨拶を考慮し正式な脱退は10/21。}}}　|
-|~&color(white){恋人}|[[髭野　たけーら]]|
-|~&color(white){義父（パパ）}|[[四皇　シャンクズ]]|
-|~&color(white){TwiX}|@黒亜ネマ|
-|~&color(white){プレイヤー}|あねま|
-|~&color(white){告知等}|&color(#FFFFFF,#000000){&space()𝕏&space()}[[&font(#000000){&space()X&space()(旧Twitter)}>>https://twitter.com/anema0120]]|
-|~&color(white){配信場所}|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/anema0120]]/ &font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube(アーカイブ)}>>https://www.youtube.com/playlist?list=PLUJN1kWTJawiLbqglwyWn0MBLJHUxJJLK]]|
-|~&color(white){別キャラ}|&small(){&openclose2(show=※ネタバレ注意){：[[田中　としこ]]}}|
-//#region(目次)
-//#contents(fromhere=true,level=2)
-//#endregion
-*&size(25)🚁&space()キャラクターエンディング
+#region(目次)
+#contents(fromhere=true,level=2)
+#endregion
+*&size(25)🚁キャラクターエンディング
+#region(開く)
 &b(){2025/05/10}
 実家から帰って来いと手紙が来ておりしばらく無視をしていたが、[[ALLIN]]解散により[[ギャング]]ではなくなったため実家に帰ることを決意。
 帰国日前日に思い出の地をまわりドットネマスプレーをして痕跡を残す。帰国日当日は[[Père Noël]]勤務をして多くの住民と交流しネマぬいを渡す。
@@ -46,9 +36,10 @@
 
 #twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">🐻謝辞🐻<br>最後のストグラ配信でした！<br>ご視聴ありがとうございました！<br>本当にたくさん悩み、たくさん楽しんだ街でした！！<br><br>最後の船着き場では多くの住民の方に見送っていただけて、黒亜ネマが生きてきた足跡を感じました、、<br>304日で黒亜ネマはエンドとなります<br>大変お世話になりました🧸！！… <a href="https://t.co/QnVpkkbi98">pic.twitter.com/QnVpkkbi98</a></p>&mdash; あねま◼️@5/12~活動休止 (@anema0120) <a href="https://twitter.com/anema0120/status/1921232881395134909?ref_src=twsrc%5Etfw">May 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 }
-
-
-*&size(25)&icon_fa(fa fa-info-circle)&space()基本情報
+#endregion
+*&size(25){&icon_fa(fa fa-info-circle)基本情報}
+**&size(30){&icon_fa(fa fa-archive)Season1}
+#region(開く)
 #blockquote(){{釣りをするためにロスサントスへ来た。
 自分の顔が嫌いで、それを隠すために被った紙袋＆クマの被り物が今ではトレードマークとなっている。
 弟に勧められ街に来たが弟とは会えていない。沈められたか、違う街に行ったのか。
@@ -63,8 +54,14 @@
 ・ネマが思う「最も力のあるギャング」でヘリ乗りとして成長したいと考え[[ALLIN]]を志望。試練を受け合格となり加入した。主にヘリ部隊として、組織のマスコット＆姉的立場として活躍し、2025年3月24日の解散まで所属した。
 ・[[ストグラ運営公式X>>https://x.com/STGR_RolePlay]]にて公開された16タイプ別#ストグラ性格診断によると[[主人公>>https://x.com/STGR_RolePlay/status/1812071000269562171]]。
 ・2025年5月10日 多くの住民に見送られ日本へ帰国した。
+#endregion
+**&size(30){&icon_fa(fa fa-archive)Season2}
+・記憶を一部失った状態でロスサントスに帰ってきた。
+・SEASON2での第一街人は[[トウユン>トウ　ユン]]、[[ぎちょう・じょばぁーな]]
 
-**&icon_fa(fa fa-car) &size(20){ 所有車両 }
+
+*&icon_fa(fa fa-car) &size(20){ 所有車両 }
+**&size(30){&icon_fa(fa fa-archive)Season1}
 #region(開く)
 #size(90%){{{
 #table_style(head=center:#696969){入手日=right,#=right,色=center}
@@ -99,8 +96,12 @@
 |&image(ネマステッカー.jpg,y=50,https://suzuri.jp/_ane_sab/14359832/sticker/m/white)|&image(ドットネマステッカー.png,y=50,https://suzuri.jp/_ane_sab/14359882/sticker/m/white)|&image(ネマベーコンエッグ.jpg,y=50,https://suzuri.jp/_ane_sab/14359910/sticker/m/white)|&blankimg(家鴨.png,y=50,x=50)|
 }}}
 #endregion
+**&size(30){&icon_fa(fa fa-archive)Season2}
 
-**🏠 &size(20){ 所有物件 }
+
+*🏠 &size(20){ 所有物件 }
+**&size(30){&icon_fa(fa fa-archive)Season1}
+
 #region(開く)
 #size(90%){{{
 #table_style(head=center:#696969){入手日=right,#=right,番地=right}
@@ -113,8 +114,11 @@
 #table_sorter{odd=#ffffff, even=#f0f0f0}
 }}}
 #endregion
+**&size(30){&icon_fa(fa fa-archive)Season2}
 
-**&icon_fa(fa fa-female) &size(20){ 変装一覧}
+
+*&icon_fa(fa fa-female) &size(20){ 変装一覧}
+**&size(30){&icon_fa(fa fa-archive)Season1}
 &color(#F54738){※ネタバレ注意}
 #region (開く)
 #table_style(head=center:#696969){入手日=right,#=right,番地=right}
@@ -137,16 +141,20 @@
 |ド ワーフ|&blankimg(ド ワーフ.png,width=50,height=50)|・白○姫の小人7人分ががっちゃんこしている。&br()・大妖精様の依頼で、ロスサントスに攻め込むかどうかを決めるため情勢をみにきた。&br()・ドワーフは長寿で200歳以降は数えていない。343歳かも。323歳かも。|
 #table_sorter{odd=#ffffff, even=#f0f0f0}
 #endregion
+**&size(30){&icon_fa(fa fa-archive)Season2}
+
 
 *&size(25){&color(#FFFFFF){&icon_fa(fa fa-heart)}} &size(25){&color(white){印象表}}
 ※2023.9.20[[あねまのポスト(X)>>https://x.com/anema0120/status/1704397480761475556?s=20]]より
 |&image(黒亜ネマ印象表20230920_1.jpg,y=300,https://img.atwiki.jp/streamergta5/attach/569/2997/%E9%BB%92%E4%BA%9C%E3%83%8D%E3%83%9E%E5%8D%B0%E8%B1%A1%E8%A1%A820230920_1.jpg)|&image(黒亜ネマ印象表20230920_2.png,y=300,https://img.atwiki.jp/streamergta5/attach/569/2998/%E9%BB%92%E4%BA%9C%E3%83%8D%E3%83%9E%E5%8D%B0%E8%B1%A1%E8%A1%A820230920_2.png)|
 
-*&size(25){&icon_fa(fa fa-paint-brush)&space()DOT STICKER SHOP 「ネマ屋」}
+*&size(25){&icon_fa(fa fa-paint-brush)DOT STICKER SHOP 「ネマ屋」}
 &small(){DOT STICKER SHOP「ネマ屋」の編集は[[こちら>黒亜　ネマ/ネマ屋]]から}
 #include(黒亜　ネマ/ネマ屋)
 
-*&size(25){&icon_fa(fa fa-calendar-o)&space()エピソード}
+*&size(25){&icon_fa(fa fa-calendar-o)エピソード}
+**&size(30){&icon_fa(fa fa-archive)Season1}
+#region(開く)
 【▢】&b(){#1}(2023/08/13)～&b(){#15}(2023/08/31)
 【&color(#BBBBBB){■}】&b(){#16}(2023/09/01)～&b(){#22}(2023/09/09)
 【&color(#111111){■◆}】&b(){#23}(2023/09/11)～&b(){#38}(2023/10/11)
@@ -536,6 +544,22 @@
 |2025/05/10|304|【#ストグラ】黒亜ネマ:304日目〆 さよーなら！|||
 #endregion(５月)
 #endregion(2025)
+#endregion
+**&size(30){&icon_fa(fa fa-archive)Season2}
+#region(2026年)2026年
+#include(黒亜　ネマ/S2_EP1)
+#endregion
+
+&size(12){エピソードページリンク｜[[S2EP1>黒亜　ネマ/S2_EP1]]｜}
+
+*&size(25){&color(#FFFFFF){&icon_fa(fa fa-twitch)}} &size(25){&color(white){アーカイブ}&color(#FFFFFF){&icon_fa(fa fa-youtube)}}
+#size(90%)
+※&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/anema0120]]のアーカイブ保存期間は60日です。期限を過ぎたものは&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/playlist?list=PLUJN1kWTJawiLbqglwyWn0MBLJHUxJJLK]]をご確認ください。
+※一部、サブスク限定、メンバー限定あります。
+**2026年
+#region()
+#include(黒亜　ネマ/S2_VOD1)
+#endregion
 
 **公認切り抜きチャンネル
 ***にーと@切り抜きチャンネル &font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@neet_0906]]
@@ -602,6 +626,6 @@
 #endregion
 
 }}}
-#endregion
+
 
 #right(){&link_up(🔝ページTOPへ)}

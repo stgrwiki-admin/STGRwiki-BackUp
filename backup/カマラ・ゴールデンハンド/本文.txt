@@ -1,5 +1,5 @@
 *プロフィール
-//&image(ここに画像のURLを入力,y=400)
+&image(カマラ・ゴールデンハンド_初期.webp,y=250)
 
 //ここからプロフィール
 #table_style(head=#E6E6FA:#666666){}
@@ -34,6 +34,30 @@
 *基本情報
 -情報を記述
 
+*関係人物
+**&font(#4169E1){&icon_fa(fa-solid fa-shield-halved)} [[ロスサントス警察]]
+#region(開く)閉じる
+***[[皇帝>>ニックス　リア]]
+最初に出会った住民。
+***[[たけい　しょうじ]]
+出会ってすぐ殴り合いに発展した人物。
+***[[名前]]
+エピソードを記載
+
+#endregion
+**&font(#ff0000){&icon_fa(fa fa-heartbeat)} [[ロスサントス救急救命隊]]
+#region(開く)閉じる
+***[[名前]]
+エピソードを記載
+
+#endregion
+**&font(#4f455c){&icon_fa(fa fa-user)} 市民
+#region(開く)閉じる
+***[[名前]]
+エピソードを記載
+
+#endregion
+
 *エピソード
 **2026年
 ***9月・10月
@@ -42,6 +66,7 @@
 #region(開く,close)閉じる
 -エピソード募集中
 #endregion(dd日)
+----
 #endregion(9月・10月)
 //
 //
@@ -55,6 +80,7 @@
 #region(開く,close)閉じる
 -エピソード募集中
 #endregion(dd日)
+----
 
 #endregion(mm月)
 
