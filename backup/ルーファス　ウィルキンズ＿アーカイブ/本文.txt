@@ -717,7 +717,7 @@
 #endregion(8月)
 
 &big(){&color(#8da0b6){【9月】}}
-#region(開く　038～,open)
+#region(開く　038～044,open)
 #areaedit()
 #table_style(head=#640125:#FFFFFF:center){配信日=right}
 #table_filter(){配信日=show,配信タイトル=show,主な出来事=hide,備考=show}
@@ -727,11 +727,22 @@
 |MIDDLE:2026/09/07|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/040 #ストグラ>>https://www.twitch.tv/videos/2866967093]]|MIDDLE:[[ミカ>>ミカ・ピトフーイ]]からの悩み相談|MIDDLE:|
 |MIDDLE:2026/09/11|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/041 #ストグラ>>https://www.twitch.tv/videos/2871188779]]|MIDDLE:マインスイーパーチャレンジ|MIDDLE:|
 |MIDDLE:2026/09/13|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/042 #ストグラ>>https://www.twitch.tv/videos/2873093677]]|MIDDLE:[[ましろ>>雷堂　ましろ]]からのメンケア|MIDDLE:|
-|MIDDLE:2026/09/19|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/043 #ストグラ>>https://www.twitch.tv/videos/2878342410]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/043 #ストグラ>>https://www.twitch.tv/videos/2878403474]]|MIDDLE:|MIDDLE:回線トラブルにより2枠に分割|
-|MIDDLE:2026/09/26|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/044 #ストグラ>>https://www.twitch.tv/videos/2884444042]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/044 #ストグラ>>https://www.twitch.tv/videos/2884459296]]|MIDDLE:|MIDDLE:回線トラブルにより2枠に分割|
+|MIDDLE:2026/09/19|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/043 #ストグラ>>https://www.twitch.tv/videos/2878342410]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/043 #ストグラ>>https://www.twitch.tv/videos/2878403474]]|MIDDLE:[[子>>レイラ　キャンベル]][[犬>>ミカ・ピトフーイ]]プロレス観戦|MIDDLE:回線トラブルにより2枠に分割|
+|MIDDLE:2026/09/26|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/044 #ストグラ>>https://www.twitch.tv/videos/2884444042]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/044 #ストグラ>>https://www.twitch.tv/videos/2884459296]]|MIDDLE:出立前の伝言|MIDDLE:回線トラブルにより2枠に分割|
 #table_zebra(#f0f0f0,#fff,#640125)
 #areaedit(end)
 #endregion(9月)
+#co(){
+&big(){&color(#8da0b6){【10月】}}
+#region(開く　045～,open)
+#areaedit()
+#table_style(head=#640125:#FFFFFF:center){配信日=right}
+#table_filter(){配信日=show,配信タイトル=show,主な出来事=hide,備考=show}
+|~配信日|~配信タイトル|~主な出来事|~備考|h
+|MIDDLE:2026/10/00|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Season2/045 #ストグラ>>リンク]]|MIDDLE:|MIDDLE:&space(20)|
+#table_zebra(#f0f0f0,#fff,#640125)
+#areaedit(end)
+#endregion(10月)}
 
 
 #co(){//-----------------------------------------------------------------------------------------
@@ -1046,6 +1057,7 @@
 |MIDDLE:2026/09/05|MIDDLE:Pogo With Friends|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【Pogo With Friends】メルティーノアと運命共同体 【梵人/メルティーノア】>>https://www.twitch.tv/videos/2865706403]]|SIZE(11):MIDDLE:|SIZE(11):MIDDLE:空衣御侍／おらんじ～な／キミトス|
 |MIDDLE:2026/09/08|MIDDLE:森林脱出：終電|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【SHIRAHAコラボ】森から脱出するだけ /梵人,猫月みお,しゃまこ 【梵人視点/メルティーノア】>>https://www.twitch.tv/videos/2868648575]]|SIZE(11):MIDDLE:|SIZE(11):MIDDLE:キミトス／猫月みお／しゃまこ|
 |MIDDLE:2026/09/14|MIDDLE:人生ゲーム|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【メルティーノア】人生ゲーム /空衣御侍,キミトス,梵人,おらんじ～な 【梵人視点】>>https://www.twitch.tv/videos/2873965170]]|SIZE(11):MIDDLE:|SIZE(11):MIDDLE:空衣御侍／おらんじ～な／キミトス|
+|MIDDLE:2026/09/30|MIDDLE:BOMBANANA!|MIDDLE:&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 BOMBANANA! 】見〇聞か〇言わ〇てきなゲームで遊ぶ とうかいねこ,島ゴリ 【梵人】>>https://www.twitch.tv/videos/2888022507]]|SIZE(11):MIDDLE:|SIZE(11):MIDDLE:とうかいねこ／島ゴリ|
 #table_zebra(#f0f0f0,#fff,#3A003A)
 #areaedit(end)
 #endregion(2026年 下半期)
