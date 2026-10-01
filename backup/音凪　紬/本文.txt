@@ -234,7 +234,6 @@
 #endregion(8月)
 //
 #region(9月,open)&bold(){9月}
-#areaedit
 ****09/03 [[やらねばまずい 16日目>>https://www.youtube.com/live/vfYK17toqVY]]
 #region(開く,close)閉じる
 -イベントのゴーカーリング準備をする
@@ -397,9 +396,21 @@
 #region(開く,close)閉じる
 -エピソード募集中
 #endregion
+//
+----
+****09/30 [[まずい借金、、、 35日目>>https://www.youtube.com/live/d6qU-Pm0ydM]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion
 
-#areaedit(end)
 #endregion(9月)
+//
+#co{
+#region(10月,open)&bold(){10月}
+
+#endregion(10月)
+
+}
 //
 #co{
 ↓コピー用素材
@@ -460,7 +471,6 @@
 #endregion(8月)
 //
 #region(9月,open)
-#areaedit
 #table_filter(){Twitch=hide}
 #table_style(head=center:#E6E6FA){配信日=right,#=center, Twitch=center}
 |~配信日|~#|~配信タイトル|~Twitch|~備考|h
@@ -483,21 +493,33 @@
 |26/09/25|32|[[お金をかせがないといけません>>https://www.youtube.com/live/ARKWiEoAQR4]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/yucham_yuchamero/videos]]||
 |26/09/26|33|[[探偵作戦開始！！>>https://www.youtube.com/live/NBEAWz7ByJM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2884409910]]||
 |26/09/27|34|[[わんちゃんはあるんだよね！！>>https://www.youtube.com/live/Gm9hpG-_VZQ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2885563201]]||
-//|26/09/dd|n|[[タイトル>>URL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]||
+|26/09/30|35|[[まずい借金、、、>>https://www.youtube.com/live/d6qU-Pm0ydM]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2888005578]]||
 #table_sorter{even=#F7F7F7,odd=fff}
-#areaedit(end)
 #endregion(9月)
 //
 #co{
 
-#region(9月,open)
+#region(10月,open)
 #table_filter(){Twitch=hide}
 #table_style(head=center:#E6E6FA){配信日=right,#=center, Twitch=center}
 |~配信日|~#|~配信タイトル|~Twitch|~備考|h
-|26/09/09|20|[[救急の日謎解きだ！>>https://www.youtube.com/live/OGPVv4uaxTQ]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2869453289]]||
-//|26/09/dd|n|[[タイトル>>URL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]||
+
+//|26/10/dd|n|[[タイトル>>URL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]||
 #table_sorter{even=#F7F7F7,odd=fff}
-#endregion(9月)
+#endregion(10月)
+
+}
+//
+#co{
+
+#region(11月,open)
+#table_filter(){Twitch=hide}
+#table_style(head=center:#E6E6FA){配信日=right,#=center, Twitch=center}
+|~配信日|~#|~配信タイトル|~Twitch|~備考|h
+
+//|26/11/dd|n|[[タイトル>>URL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(11月)
 
 }
 

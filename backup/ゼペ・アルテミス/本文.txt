@@ -1,4 +1,4 @@
-#center{&bold(){観測前に&font(15pt,u,#1F79E0){[[観測者の心得]]}をご確認ください。}}
+#center{>&color(#F54738){&bold(){観測前に}&color(#F54738){&color(#F54738){&bold(){&font(15pt,u,#1F79E0){[[観測者の心得]]}}}}&bold(){をご確認ください。}}}
 *プロフィール &color(#ffffff){&icon_fa(fa-solid fa-cat)}
 #slide_img(auto=3,position=center,width=300,height=400){zepe3.jpg,zepe1.jpg,zepe2.jpg,} 
 
@@ -15,7 +15,8 @@
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@arutemisu|
 |BGCOLOR(#16161a):~プレイヤー|BGCOLOR(#16161a):~&icon_fa(fa fa-address-card-o fa-fw)|ぜろろぺ|
 |BGCOLOR(#16161a):~告知等|BGCOLOR(#16161a):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/Blue_syse]]|
-|BGCOLOR(#16161a):~配信場所|BGCOLOR(#16161a):~&icon_fa(fa fa-gamepad)|&color(#F54738){&icon_fa(fa fa-youtube-play)　[[&color(#F54738){Youtube}>>https://www.youtube.com/@%E3%81%9C%E3%82%8D%E3%82%8D%E3%81%BA]]（ ※アーカイブは限定公開。再生リストからご覧ください。）&br()}&color(#6658A6){&icon_fa(fa-brands fa-twitch)} [[&color(#6658A6){Twitch}>>https://twitch.tv/zeropez]]　（2026/07/30～）(※アーカイブはTwichの仕様により2週間のみ。)（サブスクライバー限定）|
+|BGCOLOR(#16161a):~配信場所|BGCOLOR(#16161a):~&icon_fa(fa fa-gamepad)|&color(#6658A6){&icon_fa(fa-brands fa-twitch)} [[&color(#6658A6){Twitch}>>https://twitch.tv/zeropez]]　|
+|BGCOLOR(#16161a):~アーカイブ|BGCOLOR(#16161a):~&icon_fa(fa fa-gamepad)|&color(#F54738){&icon_fa(fa fa-youtube-play)　[[&color(#F54738){Youtube}>>https://www.youtube.com/playlist?list=PLnc16pByXlZGN-gU9e-nhZ1u7NRtNSBFR]]  ※Day28まで}&br()&color(#3B4EF0){&color(#3B4EF0){&color(#6658A6){ }}}&color(#6658A6){&icon_fa(fa-brands fa-twitch) &color(#6658A6)[[Twitch>>https://twitch.tv/zeropez]] (※サブスクライバー限定。アーカイブは仕様により2週間で消滅。）}|
 //
 #co{コピー用🔽以下必要な場合にご利用下さい
 
@@ -1226,4 +1227,4 @@
 }
 
 
-#right(){&link_up(🔝ページTOPへ)}
+#right(){&link_up(🔝ページTOPへ)}
