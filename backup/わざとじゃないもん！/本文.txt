@@ -18,8 +18,8 @@
 
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
-#endregion
 
+#endregion
 **&font(22px){&font(30px,#dcda7d){基}本情報 &icon_fa(fa fa-address-card-o)}
 -[[灰部理　秀人]]プロデュースの破天荒でクセのある女の子住民で結成されたロックアイドルグループ。『てんし』ちゃん、『あくま』ちゃん、『もんすたあ』ちゃんの三人組。
 -略称は「わざもん」
@@ -27,6 +27,7 @@
 （例：『やらかし系アイドル』『お騒がせ系アイドル』『アンチアイドル』etc.･･･）
 -メンバー全員本名とは別の活動名を使っている。しかし偽名を使っていてもなんとなく本人が透けているとかいないとか･･･？
 --活動名が正式決定する以前、一番最初に灰部理Pから提案されたアイドルネームはそれぞれ「元男・人質・迷惑」だった。
+-ステージ衣装は私服のセンスがいいあくまちゃんを中心にメンバー自身で決めている。
 -Pはわざもんを破天荒なアイドルにしたいのでライブで暴れたりイベント遅刻や早退もなんでもアリにしている。よくご飯を食べ忘れてダウンするもんすたあちゃんだが、『倒れるならライブでやれ』と言われている。そのうち何か破天荒な出来事がライブで見られるかもしれない。
 -当面の目標はワンマンライブ開催！（11月想定）それに向けて数曲出す予定ですでに未発表の4曲目まで完成している。
 -楽曲は歌詞にロスサントスでのリアルな体験やセリフを盛り込むことが多いので、プロデューサーにメンバーが自分の過去のエピソードを語ったり曲のアイディア出しから協力している。
@@ -64,11 +65,14 @@
 |[[町田　ジョアンナ]]|振付||
 |[[ダミアン]]|グッズ作成||
 |[[大川]]|アーティスト写真撮影||
+
 #table_sorter{head=#bbc8e6,even=#f7f7f7,odd=#fff}
 #table_autoincrement(){label=No.}
 #endregion
-
-***協力関係にある企業・組織
+//
+//
+#co{
+//***協力関係にある企業・組織
 #region(開く,close)
 #table_style(head=center:#696969:#F9FCFF)
 |~名前|~関係|~備考|h
@@ -76,20 +80,20 @@
 #table_sorter{head=#bbc8e6,even=#f7f7f7,odd=#fff}
 #table_autoincrement(){label=No.}
 #endregion
-
+}
 
 **&font(22px){&font(30px,#d39ed6){楽}曲 &icon_fa(fab fa-itunes-note)}
 #region(開く,open)
 #table_style(head=center:#696969:#F9FCFF)
 |~曲名|~リリース日|~楽曲リンク|~備考|h
 |わざとじゃないもん！|2026/08/09|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}わざとじゃないもん！Live music video>>https://www.youtube.com/watch?v=Eb-FiNl_u_Q]]|[[Club Passiona]]・[[JTS]]主催『夏フェス』にて初披露|
+
+//|タイトル|yyyy/mm/dd|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}タイトル>>リンク]]|備考|
 #table_sorter{head=#bbc8e6,even=#f7f7f7,odd=#fff}
 #table_autoincrement(){label=No.}
-
-
-
+//
+//
 #endregion
-
 
 **&font(22px){&font(30px,#dcda7d){イ}ベント &icon_fa(fa-solid fa-calendar-days)}
 ***2026年
@@ -104,9 +108,9 @@
 //|MIDDLE:mm/dd|MIDDLE:イベント名|出演者|エピソード・備考|
 #table_sorter{head=#bbc8e6,even=#f7f7f7,odd=#fff}
 #table_autoincrement(){label=No.}
+//
+//
 #endregion
-
-
 
 **&font(22px){&font(30px,#92cccf){グ}ッズ &icon_fa(fas fa-gifts)}
 ***商品情報
@@ -135,14 +139,14 @@
 &icon_fa(fa-solid fa-gift) = Random
 }
 
-&bold(){☆各グッズ画像☆}
+#region(☆各グッズ画像☆,open)&bold(){☆各グッズ画像☆}
 |&blankimg(わざもんアクキー1.png,y=150)|&blankimg(わざもんキメラぬい1.png,y=150)|&blankimg(わざもんペンラてんしvr1.png,y=150)|
 |わざもんアクキー|わざもんキメラぬい|わざもんペンライト|
-※クリックで拡大
 
+※クリックで拡大
+#endregion
 
 **&font(30px,#d39ed6){歴}&font(25px){史 &icon_fa(fa-solid fa-book-open)}
-
 ***2026年
 #region(開く,open)
 #table_style(head=center:#696969:#F9FCFF){}
@@ -160,11 +164,8 @@
 
 #table_sorter{head=#bbc8e6,even=#f7f7f7,odd=#fff}
 #endregion
-
-
-
-
+//
+//
 //間違っていたり、加筆が必要であればお願いいたします
-
 
 #right(){&link_up(🔝ページTOPへ)}

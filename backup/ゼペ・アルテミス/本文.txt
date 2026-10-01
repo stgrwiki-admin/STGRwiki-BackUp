@@ -3,23 +3,21 @@
 #slide_img(auto=3,position=center,width=300,height=400){zepe3.jpg,zepe1.jpg,zepe2.jpg,} 
 
 //ここからプロフィール
-
-
 #table_style(head=#424c9c:#FFF){}
 |~名前|~&icon_fa(fa fa-user)|&ruby(ぜぺ){ゼペ}・&ruby(あるてみす){アルテミス}|
 |~出身地|~&icon_fa(fa fa-location-dot)|不明|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|2026年5月30日 (&countup(2026/05/30,y)歳) &small(){外見は推定17歳}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年5月30日 (&countup(2026/05/30,yd)経過)|
-|~職業|~&icon_fa(fa-solid fa-building-columns)|[[川上たばこ店]]&br()&small(){&openclose2(show=▼過去の職業){&br()&s(){&bold(){&small(){飲食店}【&bold(){[[サニーケバブ]]}】}}}}|
-|~所属|~&icon_fa(fa fa-users)|半グレ集団【[[闇鍋インパクト>https://w.atwiki.jp/streamergta5/pages/3702.html]]】&br()&small(){&openclose2(show=▼過去の所属){&br()&s(){&bold(){ギャング【[[玖雲]]】（2026/07/04~09/03）}}}}|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|🚬[[川上たばこ店]]&br()&small(){&openclose2(show=▼過去の職業){&br()&s(){&bold(){&small(){飲食店}【&bold(){[[サニーケバブ]]}】}}}}|
+|~所属|~&icon_fa(fa fa-users)|🍲半グレ集団【[[闇鍋インパクト>https://w.atwiki.jp/streamergta5/pages/3702.html]]】&br()&small(){&openclose2(show=▼過去の所属){&br()&s(){&bold(){ギャング【[[玖雲]]】（2026/07/04~09/03）}}}}|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@arutemisu|
 |BGCOLOR(#16161a):~プレイヤー|BGCOLOR(#16161a):~&icon_fa(fa fa-address-card-o fa-fw)|ぜろろぺ|
 |BGCOLOR(#16161a):~告知等|BGCOLOR(#16161a):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/Blue_syse]]|
-|BGCOLOR(#16161a):~配信場所|BGCOLOR(#16161a):~&icon_fa(fa fa-gamepad)|&color(#6658A6){&icon_fa(fa-brands fa-twitch)} [[&color(#6658A6){Twitch}>>https://twitch.tv/zeropez]]　|
-|BGCOLOR(#16161a):~アーカイブ|BGCOLOR(#16161a):~&icon_fa(fa fa-camera)|&color(#60EE3C){&color(#6658A6){&icon_fa(fa-brands fa-twitch)  [[Twitch>>https://twitch.tv/zeropez]]　}}&color(#6658A6){(※サブスクライバー限定。アーカイブは仕様により2週間で消滅。） &br()}&color(#F54738){&icon_fa(fa fa-youtube-play)　[[&color(#F54738){Youtube}>>https://www.youtube.com/playlist?list=PLnc16pByXlZGN-gU9e-nhZ1u7NRtNSBFR]]  ※Day28まで }|
+|BGCOLOR(#16161a):~配信場所|BGCOLOR(#16161a):~&icon_fa(fa fa-gamepad)|&color(#3B4EF0){&color(#3B4EF0){&color(#3B4EF0){&icon_fa(fa-brands fa-twitch)} [[&color(#3B4EF0){Twitch}>>https://twitch.tv/zeropez]]　}}|
+|BGCOLOR(#16161a):~アーカイブ|BGCOLOR(#16161a):~&icon_fa(fa fa-camera)|&color(#3B4EF0){&icon_fa(fa-brands fa-twitch) [[Twitch>>https://twitch.tv/zeropez]]}　&color(#3B4EF0){(※サブスクライバー限定。アーカイブは仕様により2週間で消滅。） }&color(#6658A6){&br()}&color(#F54738){&icon_fa(fa fa-youtube-play)　[[&color(#F54738){Youtube}>>https://www.youtube.com/playlist?list=PLnc16pByXlZGN-gU9e-nhZ1u7NRtNSBFR]]  ※Day28まで }|
 //
 #co{コピー用🔽以下必要な場合にご利用下さい
-
+#6658A6
 |~レーサー名|~&icon_fa(fa fa-car)|レーサー名|
 |~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999|
 |BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
@@ -136,7 +134,7 @@
 #endregion
 
 *エピソード
-**これまでのあらすじ
+**これまでのあらすじ📖
 #region(詳細,close)
 -ゼペは第一住人のつよがりとうかから、赤髪の住人としてトウユンを紹介される。トウユンはゼペの記憶の「恩人」と限りなく一致していたが、トウユン自身は身に覚えがなさそうな様子だった。トウユンに言われて、他に「恩人」に該当する人物がいるかもしれないし、恩を返すにも返せない状況なので、とりあえずは街で社会勉強を積むことにした。
 -ゼペはサニーケバブにバイトとして雇ってもらった。日々「ハッピーサニー！」と接客し、従業員や客とたわいのやり取りをする、温かい日々を送る中で、居場所をくれたいずみ店長へ感謝の気持ちが生まれ、「帰る場所だ」という気持ちが募るようになる。

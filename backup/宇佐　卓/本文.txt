@@ -67,12 +67,16 @@
 #endregion
 *&size(20){&color(#eaf4fc){&size(25){&color(#a596c7){衣}}装倉庫 &icon_fa(fa-solid fa-shirt)}}
 #region(開く,close)閉じる
-#center(){
 #table_style(head=center:#9b68a9:#FFF)
 |~私服|~Confate 仕事着|~スーツ|~スポーツ着|~秋服|h
-|MIDDLE:&image(usataku2.png,x=120,y=281)|MIDDLE:&image(usataku_02_1.jpg,x=130,y=281)|MIDDLE:&image(usataku1.png,x=125,y=280)|MIDDLE:&image(usataku3.png,x=116,y=280)|MIDDLE:&image(usataku7.png,x=116,y=280)|}
+|MIDDLE:&image(usataku2.png,x=120,y=281)|MIDDLE:&image(usataku_02_1.jpg,x=130,y=281)|MIDDLE:&image(usataku1.png,x=125,y=280)|MIDDLE:&image(usataku3.png,x=116,y=280)|MIDDLE:&image(usataku7.png,x=116,y=280)|
+#table_style(head=center:#9b68a9:#FFF)
+|~きのこの妖精|h
+|MIDDLE:&image(usataku8.png,x=120,y=281)|
+|&openclose2(show=※衣装着用時の名前){&br()↪︎&u(){きのこ妖精}}|
 #endregion
 //
+
 *&size(20){&color(#eaf4fc){&size(25){&color(#a596c7){エ}}ピソード &icon_fa(fa fa-calendar-o)}}
 &bold(){&font(#6441A4)細かなエピソードをまとめています。随時エピソード募集中です！ &icon_fa(fa-solid fa-arrow-turn-down)}
 **2026年
@@ -199,6 +203,7 @@
 -『きゅうきゅうの日』イベントのライブに行く。
 -ライブのチケットを持っていない[[君乃　アイボ]]（相棒）が動物になりきり、宇佐 卓が飼い主になって、ペットならチケットなくても行けるのでは作戦を決行。
 -新しく作った自作の料理を[[Confate]]の皆んなに見せる→料理名『USトロフィー』に決定
+&image(ustorofi-.png,y=300)
 -[[さとう]]と電気工事バイトへ行く。
 -森のぶんぶんメカニックにてF3ルーレットを披露。
 -車を修理してもらう。
@@ -409,7 +414,7 @@
 --[[マイゴ・ニ＝ナリエル]]は消去法で&color(#9B59B6){【紫】}へ1票
 --[[ミカ・ピトフーイ]]は&color(#3498DB){【青】}へ1票
 --[[える P くろー]]は&color(#3498DB){【青】}へ1票
---準国宝は&color(#3498DB){【青】}へ1票
+--[[準国宝>沖原　たくみ]]は&color(#3498DB){【青】}へ1票
 -＠美容室
 --[[ジョーカー>半沢　直ふぃ]]は&color(#F1C40F){【黄】}へ1票、[[高橋　ハシゴ]]は&color(#9B59B6){【紫】}へ1票
 -＠ピルボックス病院
@@ -422,8 +427,17 @@
 --[[天草　蒼]]は&color(#3498DB){【青】}へ1票
 -最終結果は[[天田　さぽ]]が優勝し、100万を獲得
 -[[Confate]]にて[[さとう]]がイベント商品間違えて消したため[[亀山　ヒロ>焼野原　ひろし]]へ謝罪代行し、ともに[[ジョーカー>半沢　直ふぃ]]及び[[える P くろー]]へ謝罪
-
 #endregion(30日)
+----
+#endregion(mm月)
+
+#div(width=120px,bgcolor=#9b68a9)
+{&font(b,#FFFFFF,120%){　10月}}
+#region(開く)&bold(){閉じる}
+****10/01　&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】新規事業のBLボイス事業を進展させたい １９日目>>https://www.twitch.tv/videos/2888830896]]&space(2)&small(){}
+#region(開く,close)閉じる
+-
+#endregion(28日)
 ----
 #endregion
 *&size(20){&color(#eaf4fc){&size(25){&color(#a596c7){ア}}－カイブ &icon_fa(fa fa-twitch)}}
@@ -443,7 +457,7 @@
 
 #div(width=120px,bgcolor=#9b68a9)
 {&font(b,#FFFFFF,120%){　9月}}
-#region(開く,open)
+#region(開く,close)閉じる
 #table_style(head=center:#9b68a9:#FFF){配信日=right,#=center}
 |~配信日|~#|~&font(#FFF){&icon_fa(fa-brands fa-twitch)} 配信タイトル|~備考|h
 |26/9/02(水)|3|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】世界一平和なすsトーリーが動き出す？！ ＃3日目>>https://www.twitch.tv/videos/2863197060]]|Confate面接|
@@ -463,7 +477,16 @@
 |26/9/25(金)|16|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】新事業だったりキノコだったりイベントだったり 16日目>>https://www.twitch.tv/videos/2883548807]]|山の王の怖い話、三種の神器、10/4初心者マーク外しイベメンバー追加・タイトル決め|
 |26/9/27(日)|17|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】初めてMCという仕事を任されてみた 17日目>>https://www.twitch.tv/videos/2885351492]]|秋服購入、きのこの使い道探し、YØNA*1stライブMC、トナクシー、新事業打合せ|
 |26/9/30(水)|18|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】イベントのビラ配りしたい 18日目>>https://www.twitch.tv/videos/2887949722]]|きのこの妖精、10/4初心者マーク外しイべ準備(カバー曲決め、フライヤー勝負)|
+//|yy/mm/dd(aaa)|n|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
 
+#div(width=120px,bgcolor=#9b68a9)
+{&font(b,#FFFFFF,120%){　10月}}
+#region(開く,open)
+#table_style(head=center:#9b68a9:#FFF){配信日=right,#=center}
+|~配信日|~#|~&font(#FFF){&icon_fa(fa-brands fa-twitch)} 配信タイトル|~備考|h
+|26/10/01(木)|18|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】新規事業のBLボイス事業を進展させたい １９日目>>https://www.twitch.tv/videos/2888830896]]||
 
 //|yy/mm/dd(aaa)|n|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
@@ -485,6 +508,17 @@
 |26/9/11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】ペットに扮した新規住人達が大暴れｗｗｗｗｗ>>https://youtu.be/n0UajtzKZJg?si=hq-3QTSqcLIvw7R5]]|#7-1️⃣|
 |26/9/16|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】初めて作ったオリジナルメニュー、まさかの240個売れましたｗｗｗｗ>>https://youtu.be/rBKECNfj7ZM?si=1SBe3nFqG_Xn9PyZ]]|#7-2️⃣ #11-1️⃣|
 |26/9/21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】キノコを街に広めたら警察と黒市民と記者が動き出したｗｗｗｗ>>https://youtu.be/Inoku89aDxg?si=JGKNKHKUJraW_TCb]]|#12-1️⃣ #13-1️⃣ #14-1️⃣|
+
+//|mm/dd(aaa)|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>ＵＲＬ]]|yyyy/mm/dd(aaa)||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+----
+&bold(){&size(16){&font(#DA1725){&icon_fa(fa fa-youtube)}&space()ショート動画はこちら！⤵︎}}
+**2026年
+#region(開く,open)
+#table_style(head=center:#9b68a9:#FFF){投稿日=right,#=center}
+|~投稿日|~&font(#FFF){&icon_fa(fa-brands fa-youtube)} ショート動画タイトル|~備考|h
+|26/10/01|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】初日が開始数分で終わる新規住人>>https://youtu.be/fDpb5OMFSYA?si=LdEBBPYTua_c7urc]]|#1-1️⃣|
 
 //|mm/dd(aaa)|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>ＵＲＬ]]|yyyy/mm/dd(aaa)||
 #table_sorter{even=#F7F7F7,odd=fff}

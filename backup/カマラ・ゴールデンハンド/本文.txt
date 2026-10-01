@@ -53,8 +53,8 @@
 #endregion
 **&font(#4f455c){&icon_fa(fa fa-user)} 市民
 #region(開く)閉じる
-***[[名前]]
-エピソードを記載
+***[[圧子]]
+初日に親交を深めたマブダチ。
 
 #endregion
 
@@ -62,7 +62,7 @@
 **2026年
 ***9月・10月
 #region(開く,open)&bold(){閉じる}
-****09/30 [[タイトル>>ＵＲＬ]]
+****9/30 [[【#ストグラseason2 / 1日目】カマラ・ゴールデンハンドの冒険譚、開始！>>https://www.youtube.com/live/h1ILrB_KoWs]]
 #region(開く,close)閉じる
 -エピソード募集中
 #endregion(dd日)
@@ -73,10 +73,10 @@
 #co{
 ↓コピー用素材
 
-***mm月
+//***mm月
 #region(開く,open)&bold(){閉じる}
 
-****mm/dd [[タイトル>>ＵＲＬ]]
+//****mm/dd [[タイトル>>ＵＲＬ]]
 #region(開く,close)閉じる
 -エピソード募集中
 #endregion(dd日)
@@ -85,15 +85,61 @@
 #endregion(mm月)
 
 }
-
 *アーカイブ
 **2026年
+***9月・10月
 #region(開く,open)
-#table_style(head=center:#E6E6FA){配信日=right,#=center}
+#table_style(head=center:#E6E6FA:120%){配信日=center,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
-|09/30|1|[[タイトル>>ＵＲＬ]]||
+|9/30|1|[[【#ストグラseason2 / 1日目】カマラ・ゴールデンハンドの冒険譚、開始！【広島弁のオネエVTuber】>>https://www.youtube.com/live/h1ILrB_KoWs]]|🔰|
+|10/1|n|[[タイトル>>ＵＲＬ]]||
+|10/2|n|[[タイトル>>ＵＲＬ]]||
+|10/3|n|[[タイトル>>ＵＲＬ]]||
+|10/4|n|[[タイトル>>ＵＲＬ]]||
+|10/5|-|&font(80%){※サーバー定休日（月曜/火曜）}||
+|10/6|-|&font(80%){※サーバー定休日（月曜/火曜）}||
+//|10/7|n|[[タイトル>>ＵＲＬ]]||
+//|10/8|n|[[タイトル>>ＵＲＬ]]||
+//|10/9|n|[[タイトル>>ＵＲＬ]]||
+//|10/1|n|[[タイトル>>ＵＲＬ]]||
+//|10/1|n|[[タイトル>>ＵＲＬ]]||
+//|10/1|-|&font(80%){※サーバー定休日（月曜/火曜）}||
+//|10/2|n|[[タイトル>>ＵＲＬ]]||
+//|10/3|n|[[タイトル>>ＵＲＬ]]||
 //|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+//&font(80%){&openclose2(show=※別ゲーム配信あり ▽内容展開){[[>>]]}}&br()
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
+
+#co(){
+//****mm月
+#region(開く,open)
+#table_style(head=center:#E6E6FA:120%){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|/1|n|[[タイトル>>ＵＲＬ]]||
+|/2|n|[[タイトル>>ＵＲＬ]]||
+|/3|n|[[タイトル>>ＵＲＬ]]||
+//|/1|-|&font(80%){※サーバー定休日（月曜/火曜）}||
+//|/2|-|&font(80%){※サーバー定休日（月曜/火曜）}||
+//|/2|n|[[タイトル>>ＵＲＬ]]||
+//|/3|n|[[タイトル>>ＵＲＬ]]||
+//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+//&font(80%){&openclose2(show=※別ゲーム配信あり ▽内容展開){[[>>]]}}&br()
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+}
+
+*関連動画
+**切り抜き動画
+***2026年
+#table_style(head=center:#E6E6FA:120%){投稿日=center,タイトル=}
+|~投稿日|~タイトル|~備考|h
+|mm/dd|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]||
+//|mm/dd|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]||
+#table_autoincrement(label=No.)
+#table_sorter{even=#F7F7F7,odd=fff,repeathead=10}
+
+*ガイドライン
+
 
 #right(){&link_up(🔝ページTOPへ)}
