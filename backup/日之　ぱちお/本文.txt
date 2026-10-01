@@ -1,8 +1,8 @@
 #center{&bold(){観測前に&font(15pt,u,#1F79E0){[[観測者の心得]]}をご確認ください。}}
 ----
 *プロフィール
-#slide_img(auto=4,position=left,width=314,height=500){日之ぱちおS2_喫茶ひまわり3.png,日之ぱちおS2_私服2.png,日之ぱちおS2_私服1.png,日之ぱちお_SWAT2.png,日之ぱちおPolice2.png,日之ぱちお_春服.png}
-
+#slide_img(auto=4,position=left,width=300,height=450){日之ぱちおS2_私服3.png,日之ぱちおS2_喫茶ひまわり3.png,日之ぱちおS2_私服1.png,日之ぱちお_春服.png}
+//画像はアスペクト比2:3でトリミングしてください
 //ここからプロフィール
 #table_filter(){シーズン1=hide,シーズン2=show}
 #table_color(#B5CD43)
@@ -13,7 +13,7 @@
 |~身長|~&icon_fa(fa fa-male)|>|172～3cmくらい|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|>|2000年07月12日 (&countup(2000/07/12,y)歳)|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2023年10月12日 (&countup(2023/10/12,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
-|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa fa-shield-halved)&space(1)&small(){警察官}【&bold(){[[ロスサントス警察]]}】南署所属 副署長 &small(){2023/11/16～}&nbsp(br,7)(5) Superintendent / 警視&nbsp(br,7)[[特殊部隊SWAT>ロスサントス警察#SWAT]]：Rank4&br()&icon_fa(fa fa-utensils)&space(2)&small(){飲食店}【&bold(){[[サンサンクレープ]]}】&space()オーナー&space()&small(){2024/08/04～}&br()&icon_fa(fa fa-video)&space(1)&small(){番組制作会社}【&bold(){[[Lunaflix]]}】&space()&small(){経理・事務部門 2024/09/13～}|&icon_fa(fa fa-mug-hot)&space(2)&small(){飲食店}&bold(){【[[喫茶ひまわり]]】}店長&br()&icon_fa(fa fa-magnifying-glass)&space(2)探偵事務所&bold(){【[[エノテラ]]】}|
+|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa fa-shield-halved)&space(1)&small(){警察官}【&bold(){[[ロスサントス警察]]}】南署所属 副署長 &small(){2023/11/16～}&nbsp(br,7)(5) Superintendent / 警視&nbsp(br,7)[[特殊部隊SWAT>ロスサントス警察#SWAT]]：Rank4&br()&icon_fa(fa fa-utensils)&space(2)&small(){飲食店}【&bold(){[[サンサンクレープ]]}】&space()オーナー&space()&small(){2024/08/04～}&br()&icon_fa(fa fa-video)&space(1)&small(){番組制作会社}【&bold(){[[Lunaflix]]}】&space()&small(){経理・事務部門 2024/09/13～}|&icon_fa(fa fa-mug-hot)&space(2)&small(){飲食店}&bold(){【[[喫茶ひまわり]]】}店長&br()&icon_fa(fa fa-magnifying-glass)&space(2)探偵事務所&bold(){【[[エノテラ]]】}&br()&Co(){✿花屋&space()&small(){（2026/09/02~）}}|
 |~|~|&icon_fa(fa-solid fa-car)&space(1)&s(){【&bold(){[[プラネットモータース]]}】}&space()&small(){2024/3/14～2024/09/13}&br()&icon_fa(fa fa-wrench fa-fw)&space(1)&s(){【[[PYC]]】}&space()&small(){～2024/4/18}|&icon_fa(fa fa-shield-halved)&space(1)&s(){&small(){警察官}&bold(){[[ロスサントス警察]]}&space()市民課 副課長}&br()&space(30)&small(){2023/11/16～2026/08/29 (2年9ヶ月14日)}|
 |~TwiX|~&icon_fa(fa fa-crow)|>|@patio|
 |BGCOLOR(#ffee88):~プレイヤー|BGCOLOR(#ffee88):&icon_fa(fa fa-address-card-o)|>|ぱちしゅう|
@@ -45,6 +45,7 @@
 ・警察退職を機に髪を切り、私服はまるに選んでもらうことにしたため、おしゃれさんになった。
 ***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){&nbsp()&icon_fa(fa fa-shield-halved)&nbsp(2)警察として}&nbsp(51)}}
 #region(開く)
+|&image(日之ぱちお_SWAT2.png,y=200)|
 ・同時期メンバーは[[さぶ郎>安保　さぶ郎]]、[[ニトロ>職無　ニトロ]]、[[セリーヌ>セリーヌ　ゴデス]]、[[なずぴ>きらりんぶい☆　なずぴ(10)]]。
 ・警察体験の初日、[[先輩警官>>つぼ浦　匠]]からクイズと称して「&bold(){警察官の仕事とは何か}」という問いをされ、警察業務の理念を教わる。
 ・・ぱちおの回答「犯罪者を捕まえる」では不十分であり、「市民の安全のため」という目的が重要である、「手段と目的をはき違えるな」、頑張るようにと発破をかけられた。
@@ -924,7 +925,7 @@
 #endregion(8月)
 //
 ****9月
-#region(開く,open)閉じる
+#region(開く)閉じる
 #table_style(head=center:#88ccff){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~&font(#6441A4){&icon_fa(fa fa-twitch)}&nbsp()Twitch|~&font(#FF0000){&icon_fa(fa fa-youtube)}&nbsp()YouTube|~備考|h
 |09/02|85|日之ぱちお 85日目 喫茶ひまわりオープン 花が咲く|[[Twitch>>https://www.twitch.tv/videos/2863177879]]||運命共同体、新種|
@@ -945,8 +946,17 @@
 |09/24|100|日之ぱちお 100日目 メンバーが増えた花屋|[[Twitch>>https://www.twitch.tv/videos/2882634053]]|[[Youtube>>https://www.youtube.com/watch?v=LIOst5h1jaI]]||
 |09/25|101|日之ぱちお 101日目 目を付けられてる花屋|[[Twitch>>https://www.twitch.tv/videos/2883481579]]|[[Youtube>>https://www.youtube.com/watch?v=d0QWbSAOVUs]]||
 |09/26|102|ちょい雑談→日之ぱちお 102日目 動きがありそうな花屋|[[Twitch>>https://www.twitch.tv/videos/2884396664]]|[[Youtube>>https://www.youtube.com/watch?v=dbM3SlFjPSU]]||
+|09/27|103|日之ぱちお 103日目 ラストに近い花屋|[[Twitch>>https://www.twitch.tv/videos/2885353803]]|[[Youtube>>https://www.youtube.com/watch?v=aoPneH3Gb_I]]||
+|09/30|104|日之ぱちお 104日目 ここからがスタートの花屋|[[Twitch>>https://www.twitch.tv/videos/2887944188]]|[[Youtube>>https://www.youtube.com/watch?v=MsmeOlMGCHk]]|Youtube不調で途中まで|
 #table_sorter{even=#f7f7f7,odd=fff}
 #endregion(9月)
+//
+****10月
+#region(開く,open)閉じる
+#table_style(head=center:#88ccff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~&font(#6441A4){&icon_fa(fa fa-twitch)}&nbsp()Twitch|~&font(#FF0000){&icon_fa(fa fa-youtube)}&nbsp()YouTube|~備考|h
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(10月)
 #endregion(2026年)
 #endregion  
 
@@ -1527,6 +1537,9 @@
 |2026/09/15|[[『最高のバディ』俺のテーザーをお前にあずける！>>https://www.youtube.com/watch?v=R7o0-DckPbU]]|26/08/27|断罪後対話えびす、まる激怒|
 |2026/09/23|[[『ヤバすぎる！？』遂に花の栽培所がバレて海逃げするぱちお！>>https://www.youtube.com/watch?v=rUPIeb5vwbk]]|26/09/17||
 |2026/09/24|[[『超メンヘラ』女ばかりと連絡を取るぱちおにメンヘラが加速するまる！？>>https://www.youtube.com/watch?v=8yvjO2837Wg]]|26/09/20||
+|2026/09/25|[[『羽山パティ』双子が会えない理由！？パティの謎の依頼を受ける探偵！>>https://www.youtube.com/watch?v=Hhl5eUlTSeM]]|26/09/20||
+|2026/09/29|[[『花屋エンド』丘猫まるが最高のゲームを発案！本当の始まりはここからだ！>>https://www.youtube.com/watch?v=6sSSmUZXYeY]]|26/09/27||
+|2026/09/30|[[『種と花を渡す』ぱちまるが花をアジカンに渡す！毎日19時～3時お疲れ様！>>https://www.youtube.com/watch?v=AoLvwDvxpIg]]|26/09/27||
 #table_sorter{even=#F7F7F7,odd=fff}
 #table_autoincrement(){start=1,label=#}
 //

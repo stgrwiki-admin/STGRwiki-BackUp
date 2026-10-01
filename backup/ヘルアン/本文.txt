@@ -3,23 +3,24 @@
 |&image(スクリーンショット 2025-03-14 223807.png,y=350)|&image(ALLIN正装_白ネクタイ.png,y=350)|
 
 //ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
 #table_style(head=#ccc:#7d4aaf)
-|~名前|~&icon_fa(fa fa-user)|&ruby(へるあん){ヘルアン}|
-|~出身地|~&icon_fa(fa fa-map-marker)|大阪 / 日本|
-|~誕生日|~&icon_fa(fa fa-birthday-cake)|1995年4月25日 (&countup(1995/04/25,y)歳)|
-|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年8月13日 (&countup(2023/08/13,yd))|
-|~職業|~&icon_fa(fa fa-gun)&br()&icon_fa(fa fa-wrench)|&s(){メカニック 【[[Project Y]]】} &small(){2023年9月3日～2024年1月31日}&br()&s(){ギャング【[[ALLIN]]】構成員} &small(){2023年9月12日～2025年3月23日}&nbsp(br,25)&s(){Underboss} &small(){2024年3月5日～2025年3月23日}&br()&bold(){闇メカニック【[[Glare Gem]]】} &small(){2024年2月1日～}&br()&s(){ギャング【[[hantasma]]】}構成員 &small(){2025年6月11日～2026年3月25日}|
-|~所属|~&icon_fa(fa fa-users)|闇メカニック【Glare Gem】|
-|~Twix|~&icon_fa(fa fa-crow)|@----------|
-|~レーサー名|~&icon_fa(fa fa-user-tag)|ヘルアン|
-|~恋人|~&icon_fa(fa fa-heart)|[[香月　ろぎあ]]|
-|BGCOLOR(#7d4aaf):COLOR(#cccccc):~プレイヤー|BGCOLOR(#7d4aaf):COLOR(#cccccc):~&icon_fa(fa fa-heart)|紫闇ヘル(旧名:Kento)@父ノ背中|
-|BGCOLOR(#7d4aaf):COLOR(#cccccc):~告知等|BGCOLOR(#7d4aaf):COLOR(#cccccc):~&icon_fa(fa fa-bullhorn)|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X&space()(旧&font(#1da1f2){Twitter})}>>https://twitter.com/m2_kento]]|
-|BGCOLOR(#7d4aaf):COLOR(#cccccc):~配信場所|BGCOLOR(#7d4aaf):COLOR(#cccccc):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/m2_kento_heluan]]＆ &font(#DA1725){&icon_fa(fa fa-youtube)} [[&font(#DA1725){Youtube}>>https://www.youtube.com/@Shian_Helu]]&space(2)&small(){2024年9月3日～同時配信開始}|
-|BGCOLOR(#7d4aaf):COLOR(#cccccc):~動画投稿|BGCOLOR(#7d4aaf):COLOR(#cccccc):~&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube)} [[&font(#DA1725){Youtube}>>https://www.youtube.com/@Shian_Helu]]|
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(へるあん){ヘルアン}|
+|~出身地|~&icon_fa(fa fa-map-marker)|>|大阪 / 日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|1995年4月25日 (&countup(1995/04/25,y)歳)|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|>|2023年8月13日 (&countup(2023/08/13,yd))|
+|~職業|~&icon_fa(fa fa-university)|&s(){メカニック 【[[Project Y]]】} &small(){2023年9月3日～2024年1月31日}&br()&s(){ギャング【[[ALLIN]]】構成員} &small(){2023年9月12日～2025年3月23日}&nbsp(br,25)&s(){Underboss} &small(){2024年3月5日～2025年3月23日}&br()&bold(){闇メカニック【[[Glare Gem]]】} &small(){2024年2月1日～}&br()ギャング【[[hantasma]]】構成員 &small(){2025年6月11日～}|&s(){ギャング【[[hantasma]]】構成員} &small(){～2026年3月25日}&br()&Co(){花屋&space()&small(){（2026/09/23~）}}&br()和菓子喫茶【[[よすが]]】&space()&small(){(2026/09/30~)}|
+|~Twix|~&icon_fa(fa fa-crow)|@----------||
+|~レーサー名|~&icon_fa(fa fa-user-tag)|>|ヘルアン|
+|~恋人|~&icon_fa(fa fa-heart)|>|[[香月　ろぎあ]]|
+|BGCOLOR(#7d4aaf):COLOR(#cccccc):~プレイヤー|BGCOLOR(#7d4aaf):COLOR(#cccccc):~&icon_fa(fa fa-heart)|>|紫闇ヘル(旧名:Kento)@父ノ背中|
+|BGCOLOR(#7d4aaf):COLOR(#cccccc):~告知等|BGCOLOR(#7d4aaf):COLOR(#cccccc):~&icon_fa(fa fa-bullhorn)|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X&space()(旧&font(#1da1f2){Twitter})}>>https://twitter.com/m2_kento]]|
+|BGCOLOR(#7d4aaf):COLOR(#cccccc):~配信場所|>|BGCOLOR(#7d4aaf):COLOR(#cccccc):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/m2_kento_heluan]]＆ &font(#DA1725){&icon_fa(fa fa-youtube)} [[&font(#DA1725){Youtube}>>https://www.youtube.com/@Shian_Helu]]&space(2)&small(){2024年9月3日～同時配信開始}|
+|BGCOLOR(#7d4aaf):COLOR(#cccccc):~動画投稿|>|BGCOLOR(#7d4aaf):COLOR(#cccccc):~&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube)} [[&font(#DA1725){Youtube}>>https://www.youtube.com/@Shian_Helu]]|
 
 //GG加入に伴い隠しつつ追記してます。格好よく分かりやすい表記があれば変えてください。
-//
+//|~所属|~&icon_fa(fa fa-users)|||
 //目次にエピソードリンクを表示すると、そのうち長過ぎて目次の意味を為さなくなるため見出しレベル「**」（*3つ）まで表示するように設定しています。
 ***【目次】
 #contents(fromhere=true,level=2)
