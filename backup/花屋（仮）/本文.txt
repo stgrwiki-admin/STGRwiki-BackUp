@@ -1,0 +1,108 @@
+組織名未決定のためリンクはURLを使用してください
+ [[花屋>https://w.atwiki.jp/streamergta5/pages/3827.html]]
+----
+//&image(ここに画像のURLを入力,y=300)
+#slide_img(auto=3,width=480,height=270,position=center){花屋_01.jpg,花屋_02.jpg}
+
+#table_style(head=#ffffa3){}
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&Co(){&ruby(ヴァルキリー){&bold(){Valkyrie}}}|
+|~業種|~✿|花屋|
+|~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年10月01日&br()&small(){（&countup(2026/09/30,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~無線|~&icon_fa(fa-solid fa-walkie-talkie)|43.71 MHz|
+|~代表|~&space()&icon_fa(fa fa-user-secret)&space()|&bold(){[[日之　ぱちお]]}&br()&bold(){[[丘猫　まる]]}|
+//|~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|××××番地|
+//|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|施設名|
+//&icon_fa(fa-solid fa-seedling)
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+*基本情報
+-花の栽培および販売業
+-[[日之ぱちお>日之　ぱちお]]と[[丘猫まる>丘猫　まる]]のニコイチボス
+//-「Valkyrie」＝「戦乙女」、まるをイメージしてぱちおが考案
+-[[無馬かな>無馬　かな]]が島外から持ち込み、適性検査で選ばれたが、[[ARCANA]]とは別枠の独立した組織であり、無馬の部下でも、[[DEP]]の下請けでもない
+*業務内容
+
+
+
+
+*メンバー
+#table_style(head=#ffffa3:#969696)
+#table_filter(){加入日=hide,役職=show,兼業=hide,備考=show,配信=show}
+|~役職|~名前|~就職日|~兼業|~備考|~配信|h
+|代表|[[日之　ぱちお]]|2026/09/02|[[喫茶ひまわり]]店長&br()&small(){探偵事務所} [[エノテラ]]探偵|元[[警察官>ロスサントス警察]]&br()1人で大量の鉢植えを栽培|&font(#6441A4){&icon_fa(fa fa-twitch)} [[Twitch>>https://www.twitch.tv/patisyu]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://www.youtube.com/@%E3%81%B1%E3%81%A1%E3%81%88%E3%82%8B%E5%85%84%E5%A6%B9]]|
+|代表|[[丘猫　まる]]|2026/09/02|[[喫茶ひまわり]]副店長&br()&small(){探偵事務所} [[エノテラ]]助手&br()[[わくわくハピネス隊]]&br()&small(){コスメ＆ネイルサロン} [[Ailemu]]&br()&small(){ナイトクラブ} [[The Artemis]]&br()&small(){イベント会社} [[AILES]]|元ギャング（[[NO LIMIT]], &small(){[[わくわくハーデス隊]]}）&br()建前上の代表、1人で栽培はできない|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/soraposhich]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://www.youtube.com/@SoraphoshiCH]]|
+|従業員|[[文殊　セイジ]]|2026/09/06|&small(){半グレ集団} [[闇鍋インパクト]]&br()[[タクシー運転手>https://w.atwiki.jp/streamergta5/pages/3420.html]]&br()&small(){イベント会社} [[AILES]]|元ギャング（[[NO LIMIT]]）&br()トラブル時の用心棒兼任|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/mirokuseiji]]|
+|従業員|[[ヘルアン]]|2026/09/23||元ギャング（[[ALLIN]] UB,　[[hantasma]]）&br()トラブル時の用心棒兼任|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/m2_kento_heluan]]|
+//|[[名前]]|2026/mm/dd|役職|備考|配信|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+
+//***協力関係
+//
+#co{
+//***過去メンバー
+#table_style(head=#ffffa3:#969696)
+|~名前|~加入日|~脱退日|~備考|h
+|名前|加入日|yyyy/mm/dd|備考|
+|名前|加入日|yyyy/mm/dd|備考|
+//|名前|加入日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+*拠点
+#table_style(head=#ffffa3:#969696)
+#table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
+|~番地|~場所|~通称|~管理者|~備考|h
+
+//|番地|場所|通称|管理者|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+*商品情報
+#region(,open)
+#table_filter(){No.=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#ffffa3:#969696:center){No.=center,価格=right}
+|~商品名|~価格|~提供開始日|~商品説明|h
+
+//|商品名|価格|提供開始日|説明|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+
+#endregion
+
+*沿革・歴史
+***2026年
+#size(80%){#table_style(head=#ffffa3:#969696:center)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~詳細|h
+|08/22~|序章：適性検査|[[無馬　かな]]&br()[[日之　ぱちお]]&br()[[丘猫　まる]]|8/20から始まった[[無馬かな>無馬　かな]]の適性検査に巻き込まれた[[丘猫まる>丘猫　まる]]が警察官の[[日之ぱちお>日之　ぱちお]]を巻き込み、ぱちおも適性検査に組み込まれた&br()|
+|09/02|無馬に「SEED-00」を託される|[[無馬　かな]]&br()[[日之　ぱちお]]&br()[[丘猫　まる]]|先に適性検査に合格し、蛇に咬まれた ぱちお が まる を引きずり込み運命共同体となる。無馬に「SEED-00」を託された|
+|09/04|栽培開始|[[日之　ぱちお]]&br()[[丘猫　まる]]|「SEED-00」を栽培開始|
+|~|種に命名|[[日之　ぱちお]]&br()[[丘猫　まる]]|童話『3匹の子豚』より命名&br()藁「SEED-00＝パレア（palea）」、木「SEED-01＝アルボル（arbor）」、レンガ「SEED-02＝ラテル（later）」|
+|~|小峯がDEPとのパイプになる|[[日之　ぱちお]]&br()[[丘猫　まる]]|道具の持ち主からの接触待ちだったが、[[小峯　玲]]が麻薬カルテルに花を渡すと申し出てきた。&br()元警察官のぱちおに信用がないため、使えなければぱちおは処分すると脅され、警戒|
+|09/06|小峯を介してDEPに「無名の花」を納品|[[日之　ぱちお]]&br()[[丘猫　まる]]|正しい納品相手か不明なため、少量の新花「無名の花（パレア）」を無償で納める|
+|~|セイジ加入|[[文殊　セイジ]]|適性検査時のまるの協力者[[文殊　セイジ]]を勧誘し、仲間に迎え入れる|
+|09/12|初突然変異|[[日之　ぱちお]]&br()[[丘猫　まる]]|「SEED-00」（パレア）が「SEED-01」（アルボル）に変異した|
+|09/23|建前上まるが代表とする|[[丘猫　まる]]|ブラックビジネス側への信用のために元警察官のぱちおではなく元ギャングのまるが代表と小峯に伝える&br()DEPが無馬から道具を渡されていることが開示された|
+|~|[[ヘルアン]]加入|[[ヘルアン]]|[[ヘルアン]]を勧誘し、仲間に迎え入れる|
+|09/24|無馬に進捗報告&相談|[[無馬　かな]]&br()[[日之　ぱちお]]&br()[[丘猫　まる]]|種の変異バグの調査を依頼、小峯の仲介、種の名前を報告、花屋はARCANAとは別枠の別組織であると明言された|
+|09/25|まるが警察から聴取を受ける|[[丘猫　まる]]&br()[[ましゃかり　トラボルタ]]&br()[[真島　ルイ]]&br()[[もり　るんるん]]&br()[[ブロッコリー　斎藤]]|無馬と真島の種持ちを探すゲームで、種持ち疑惑をかけられているまるが警察宿舎で事情聴取を受ける&br()なぜまるだと確定してきているのか質問を返すが、明確な理由はなかったため、種持ちであることは明言せず、&br()まるの地雷を踏んだ警察を諭して、期限まで何でもしていい、期日にまた会いに来るように伝える|
+|09/26|変異に修正||「SEED-01」から正常に「SEED-01」が収穫できるように正常化した|
+|~|ぱちおが警察から聴取を受ける|[[日之　ぱちお]]&br()[[もり　るんるん]]|種持ちと繋げてくれと頼まれ、捜査のやり方のアドバイスや大量のヒントを与える|
+|09/27|まるが警察とゲーム|[[日之　ぱちお]]&br()[[丘猫　まる]]&br()[[文殊　セイジ]]&br()[[ヘルアン]]|表家業[[喫茶ひまわり]]のイベントのテストプレイと称し、白市民とジオゲッサーイベントを開催&br()その裏でまるが適性検査用の「種」を育て、警察が捜索するゲームを仕掛ける&br()警察が無事アナグラムを解き、まるの植木鉢を発見した|
+|09/30|無馬と警察の種ゲーム終了|[[無馬　かな]]&br()[[日之　ぱちお]]&br()[[丘猫　まる]]|警察への情報提供の交換条件で頼まれていた通り、SMGを携えて無馬を迎えに行く|
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}
+//[[日之　ぱちお]]&br()[[丘猫　まる]]&br()[[文殊　セイジ]]&br()[[ヘルアン]]
+
+*ストグラ外コラボ等
+&size(20){&color(#ffffa3){●}} &font(15px){&bold(){ストグラジオ}}
+#table_style(head=#ffffa3:#969696:center:b){投稿日=right,#=center,アフタートーク=center}
+|~配信日|~配信タイトル|~アフタートーク|~参加者|~備考|h
+|2026/09/16|[[第147回ストグラジオ>>https://www.youtube.com/watch?v=WvTRURUi3IE]]|[[FANBOX>>https://sutogura.fanbox.cc/posts/12678377]]|&font(9pt){[[山下ひろし>山下　ひろし]]役/しょぼすけ、[[日之ぱちお>日之　ぱちお]]役/ぱちしゅう、[[丘猫まる>丘猫　まる]]役/宙星ぱる}|[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知>>https://x.com/STGR_RolePlay/status/2100140131114229949]]|
+#table_sorter{even=#f7f7f7,odd=fff}
+
+#right(){&link_up(🔝ページTOPへ)}
