@@ -85,13 +85,16 @@
 **&font(22px){&font(30px,#d39ed6){楽}曲 &icon_fa(fab fa-itunes-note)}
 #region(開く,open)
 #table_style(head=center:#696969:#F9FCFF)
-|~曲名|~リリース日|~楽曲リンク|~備考|h
-|わざとじゃないもん！|2026/08/09|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}わざとじゃないもん！Live music video>>https://www.youtube.com/watch?v=Eb-FiNl_u_Q]]|[[Club Passiona]]・[[JTS]]主催『夏フェス』にて初披露|
-|結婚の賛否歌|2026/10/01||[[AIELE  Entertainment>>AILES]]主催『エルレコライブ』にて初披露|
+|~曲名|~リリース日|~備考|h
+|MIDDLE:CENTER:　　　　&b(){[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} わざとじゃないもん！>>https://youtu.be/Eb-FiNl_u_Q]]}　　　　&br()&youtube(https://youtu.be/Eb-FiNl_u_Q,width=300,height=155)|2026/08/09|[[Club Passiona]]・[[JTS]]主催『夏フェス』にて初披露|
+|MIDDLE:CENTER: &b(){[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 結婚の賛否歌>>https://youtu.be/M86apTk71F4]]}&br()&youtube(https://youtu.be/M86apTk71F4,width=300,height=155)|2026/10/01|[[AIELE  Entertainment>>AILES]]主催『エルレコライブ』にて初披露|
 
-//|タイトル|yyyy/mm/dd|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}タイトル>>リンク]]|備考|
+//|MIDDLE:CENTER:タイトル|yyyy/mm/dd|備考|
 #table_sorter{head=#bbc8e6,even=#f7f7f7,odd=#fff}
 #table_autoincrement(){label=No.}
+//
+//▼タイトル差し替え用
+//[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} タイトル>>リンク]]&br()&youtube(リンク,width=300,height=155)
 //
 //
 #endregion

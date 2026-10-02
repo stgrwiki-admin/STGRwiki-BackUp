@@ -1,4 +1,4 @@
-*&icon_fa(fa-solid fa-face-kiss-wink-heart)プロフィール
+*&color(#ff69b4){&icon_fa(fa-solid fa-face-kiss-wink-heart)} &color(#f8f8ff){プロフィール}
 &image(カマラ・ゴールデンハンド_初期.webp,y=250)
 
 //ここからプロフィール
@@ -8,7 +8,7 @@
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年9月30日 (&countup(2026/9/30,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|　|
-|~職場体験|~|&small(){&openclose2(show=▼過去に体験した職場){&br()&small(){メイドカフェ}&b(){"[[LastJump in ParadiseLost]]"}&small(){⚫︎メイド(2026/09/30～)}&br()&small(){飲食店}&b(){"[[サニーケバブ]]"}&small(){⚫︎体験(2026/10/01～)}}}|
+|~職場体験|~|&small(){&openclose2(show=▼過去に体験した職場){&br()&small(){メイドカフェ} &b(){"[[LastJump in ParadiseLost]]"} &small(){⚫︎メイド(2026/09/30～)}&br()&small(){飲食店} &b(){"[[サニーケバブ]]"} &small(){(2026/10/01～)&co(){すでに体験項目のため「体験」という文言は削除致しました。}}}}|
 |~所属|~&icon_fa(fa fa-users)|　|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@kamaragolden|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
@@ -16,7 +16,7 @@
 |BGCOLOR(#ee82ee):~プレイヤー|BGCOLOR(#ee82ee):~&icon_fa(fa fa-address-card-o fa-fw)|カマちゃん（カルプ・マーガレット）|
 |BGCOLOR(#ee82ee):~告知等|BGCOLOR(#ee82ee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/carpemargaret]]|
 |BGCOLOR(#ee82ee):~配信場所|BGCOLOR(#ee82ee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@carpemargaret]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/carpe_margaret]]|
-//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
+|BGCOLOR(#ee82ee):~ガイドライン|BGCOLOR(#ee82ee):~&icon_fa(fa fa-circle-info)|　|
 //
 #co{コピー用🔽以下必要な場合にご利用下さい
 
@@ -33,7 +33,8 @@
 #contents(fromhere=true,level=2)
 #endregion
 *基本情報
--他の街でバーを経営していた。元いた街で名も無き男に撃たれ、目を覚ますとロスサントスにいた。&br()現在は自分のお店を持つことを目標にしている。
+-他の街でバーを経営していた。元いた街で名も無き男に撃たれ、目を覚ますとロスサントスにいた。
+・現在は自分のお店を持つことを目標にしている。
 
 *関係人物
 **&font(#4169E1){&icon_fa(fa-solid fa-shield-halved)} [[ロスサントス警察]]
@@ -75,10 +76,8 @@
 #endregion(dd日)
 ----
 #endregion(9月・10月)
-//
-//
-#co{
-↓コピー用素材
+
+#co{↓コピー用素材
 
 //***mm月
 #region(開く,open)&bold(){閉じる}
@@ -96,7 +95,7 @@
 **2026年
 ***9月・10月
 #region(開く,open)
-#table_style(head=center:#E6E6FA:120%){配信日=center,#=center}
+#table_style(head=center:#ff69b4:#f8f8ff:120%){配信日=center,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |9/30|1|[[【#ストグラseason2 / 1日目】カマラ・ゴールデンハンドの冒険譚、開始！【広島弁のオネエVTuber】>>https://www.youtube.com/live/h1ILrB_KoWs]]|🔰|
 |10/1|2|[[【#ストグラseason2 / 2日目】今日は飲食店の体験やってみようかしら❤【広島弁のオネエVTuber】>>https://www.youtube.com/live/nJ1bzkbAEwM?si=okT7BPFVYXAz9Y6m]]|🔰|
@@ -117,11 +116,12 @@
 //&font(80%){&openclose2(show=※別ゲーム配信あり ▽内容展開){[[>>]]}}&br()
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
-
+//
+//
 #co(){
 //****mm月
 #region(開く,open)
-#table_style(head=center:#E6E6FA:120%){配信日=center,#=center}
+#table_style(head=center:#ff69b4:#f8f8ff:120%){配信日=center,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |/1|n|[[タイトル>>ＵＲＬ]]||
 |/2|n|[[タイトル>>ＵＲＬ]]||
@@ -139,14 +139,13 @@
 *関連動画
 **切り抜き動画
 ***2026年
-#table_style(head=center:#E6E6FA:120%){投稿日=center,タイトル=}
+#region(開く,open)
+#table_style(head=center:#ff69b4:#f8f8ff:120%){投稿日=center,タイトル=}
 |~投稿日|~タイトル|~備考|h
 |mm/dd|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]||
 //|mm/dd|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[タイトル>>URL]]||
-#table_autoincrement(label=No.)
+#table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=fff,repeathead=10}
-
-*ガイドライン
-
+#endregion
 
 #right(){&link_up(🔝ページTOPへ)}

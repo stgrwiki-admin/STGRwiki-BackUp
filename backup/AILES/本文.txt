@@ -12,7 +12,7 @@
 |~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年06月12日&small(){（&countup(2026/06/11,yd)経過）}&br()&small(){※社名決定日を設立日としています}&co(){※countupは設立日の1日前に設定}|
 |~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|7099番地|
 |~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|音楽スタジオ|
-|~社長|~&space()&icon_fa(fa fa-user-secret)&space()|[[銭形　やいち郎]]|
+|~社長|~&space()&icon_fa(fa fa-user-secret)&space()|&s(){[[銭形　やいち郎]]}→[[	音姫　みつお]]|
 
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
@@ -33,8 +33,8 @@
 #table_style(head=#0072BC:#F9FCFF)
 #table_filter(){加入日=hide,役職=show,備考=show}
 |~名前|~加入日|~役職|~備考|h
-|[[銭形　やいち郎]]|2026/06/12|社長||
-|[[音姫　みつお]]|2026/06/12|副社長|音楽プロデューサー|
+|[[銭形　やいち郎]]|2026/06/12|&s(){社長}||
+|[[音姫　みつお]]|2026/06/12|&s(){副社長}→社長|音楽プロデューサー|
 |[[丘猫　まる]]|2026/06/12|社員|イベンター|
 |[[文殊　セイジ]]|2026/06/12|社員|イベンター|
 
@@ -168,6 +168,8 @@
 |09/04|会議|10月1日(仮)のライブについて打ち合わせ&br()音姫がレーベル立ち上げを計画、子会社化について検討||
 |09/23|「エルレコLIVE」チケット販売|場所：レギオン公園 時刻：23時～||
 |10/01|「エルレコLIVE&br()～あなたの輝くその瞬間を～」開催|||
+|10/01|社長交代|銭形から音姫へ社長交代||
+
 //|mm/dd|出来事|詳細|備考|
 //#table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
