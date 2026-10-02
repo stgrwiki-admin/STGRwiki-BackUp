@@ -2,18 +2,20 @@
 &image(フランク・ジェスター.jpg,y=400)
 
 //ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
 #table_style(head=#E761A4:#FAFAFA){名前=#eee:b:center}
-|~名前|フランク・ジェスター|
-|~出身地|アメリカのスラム街|
-|~誕生日|11月21日|
-|~転入日|2024年05月07日 (&countup(2024/05/07,yd)経過)|
-|~職業|&s(){ホットドッグ屋}(2024/5/9~6/7)&br()きこり(2024/6/2~)&br() &s(){【[[TOPGEAR]]】アンダーボス (2024/8/1~2025/1/19)}|
-|~所属|&s(){民間軍事会社「[[ACADEMY]]」}(2024/6/9-2024/8/3)&br()&s(){ギャング【[[TOPGEAR]]】(2024/8/1~2025/1/19)}|
-|~TwiX|@kt9|
-|~プレイヤー|ファロ|
-|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)}[[&font(#1da1f2){Twitter}>>https://twitter.com/farotaro1]]|
-|~配信場所|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@faro_esports]]&[[Twitch>>https://www.twitch.tv/00faro00]]|
-|~別キャラ|[[福田　明宏]]|
+|~世界線|~Season1|~Season2|h
+|~名前|>|&bold(){フランク・ジェスター}|
+|~出身地|>|アメリカのスラム街|
+|~誕生日|>|11月21日|
+|~転入日|2024年05月07日 (&countup(2024/05/07,yd)経過)|2026年09月26日 (&countup(2026/09/26,yd)経過)|
+|~職業|&s(){ホットドッグ屋}(2024/5/9~6/7)&br()きこり(2024/6/2~)&br() &s(){【[[TOPGEAR]]】アンダーボス (2024/8/1~2025/1/19)}||
+|~所属|&s(){民間軍事会社「[[ACADEMY]]」}(2024/6/9-2024/8/3)&br()&s(){ギャング【[[TOPGEAR]]】(2024/8/1~2025/1/19)}||
+|~TwiX|@kt9||
+|~プレイヤー|>|ファロ|
+|~告知等|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[&font(#000000){X}>>https://twitter.com/farotaro1]]|
+|~配信場所|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/channel/UC4nSR6FopCnpXXXAchB7zRQ?si=9NoOFWLahzaNaspG]] / &font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/00faro00]]|
+|~別キャラ|>|&small(){&openclose2(show=※ネタバレ注意){&br() [[福田　明宏]]}}|
 
 //
 //各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
@@ -1825,6 +1827,8 @@
 -光乃あびすさんに車・ヘリを教える（けんつさん、みつーさん）
 #endregion
 #endregion(12月)
+//
+//
 ***2025年
 #region(1月)&bold(){1月}
 ***[[1/7 part.104 『仕事終わりの民』>>https://www.youtube.com/watch?v=pcB1dz_VxHU]]
@@ -1868,12 +1872,22 @@
 -
 #endregion
 #endregion(1月)
-#region(9月,open)&bold(){9月}
+#region(9月)&bold(){9月}
 ***[[9/12 part.109 第2章『ボスからの連絡』>>https://m.youtube.com/watch?v=tDOLLKLqxMc&pp=0gcJCckJAYcqIYzv]]
 #region(※エピソード募集中)閉じる
 -
 #endregion
 #endregion(9月)
+//
+//―――――――――――――――――――――――――――――――――――――
+***2026年
+#region(9月,open)&bold(){9月}
+***[[9/27 part.0 『???』>>https://www.youtube.com/live/bkBB46AK5sA?si=3eXawRzLiwgbve4Q]]
+#region(※エピソード募集中)閉じる
+-
+#endregion
+#endregion(9月)
+
 
 #co{
 氏名リンクが別タブ展開（[[表示名>>ページ名]]）になっていたため、店名と同じ同タブ遷移（[[表示名>ページ名]]）になるようリンク設定を変更しました。
@@ -2037,6 +2051,7 @@
 |12/13|102|[[『仕事終わりの民』>>https://www.youtube.com/watch?v=T076__4_6y0]]||
 |12/15|103|[[『仕事終わりの民』>>https://www.youtube.com/watch?v=WeVvQksfweg]]||
 #endregion(12月)
+//
 ***2025年
 #region(1月)&b(){1月}
 #table_style(head=center:#e7a6c7){配信日=right,part=center}
@@ -2047,11 +2062,20 @@
 |01/19|107|[[第2章『仕事終わりの民』>>https://www.youtube.com/watch?v=1Ug0duIj1AI]]||
 |01/22|108|[[第2章『仕事休みの民』>>https://www.youtube.com/watch?v=VDF5VjCoISU]]||
 #endregion(1月)
-#region(9月,open)&b(){9月}
+//
+#region(9月)&b(){9月}
 #table_style(head=center:#e7a6c7){配信日=right,part=center}
 |~配信日|~part|~配信タイトル|~備考|h
 |09/12|109|[[第2章 『ボスからの連絡』>>https://m.youtube.com/watch?v=tDOLLKLqxMc&pp=0gcJCckJAYcqIYzv]]||
 #endregion(9月)
+//
+***2026年
+#region(9月,open)&b(){9月}
+#table_style(head=center:#e7a6c7){配信日=right,part=center}
+|~配信日|~part|~配信タイトル|~備考|h
+|09/27|0|[[『???』>>https://www.youtube.com/live/bkBB46AK5sA?si=QOkps6fYLuHz7eD-]]||
+#endregion(2026年9月)
+
 
 //|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
 #table_sorter{even=#F7F7F7,odd=fff}
