@@ -4,11 +4,11 @@
 //ここからプロフィール
 #table_style(head=#E6E6FA:#666666){}
 |~名前|~&icon_fa(fa fa-user)|カマラ・ゴールデンハンド|
-|~出身地|~&icon_fa(fa fa-location-dot)|　|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本 広島|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年9月30日 (&countup(2026/9/30,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|　|
-|~職場体験|~|&bold(){メイドカフェ}&bold(){"[[LastJump in ParadiseLost]]"}&small(){●メイド（2026/09/30～）}&br()&bold(){ケバブ屋}&bold(){"[[サニーケバブ>>https://w.atwiki.jp/streamergta5/pages/3328.html]]"}&small(){●体験（2026/10/01～）}|
+|~職場体験|~|&openclose2(show=▼一覧){&br()&small(){メイドカフェ}&b(){【[[らすぱら]]】}&small(){メイド（2026/09/30～）}&br()&small(){飲食店}&b(){【[[サニーケバブ]]】}&small(){（2026/10/01～）}}|
 |~所属|~&icon_fa(fa fa-users)|　|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@　|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
@@ -33,7 +33,7 @@
 #contents(fromhere=true,level=2)
 #endregion
 *基本情報
--情報を記述
+-他の街でバーを経営していた。&br()現在は自分のお店を持つことを目標にしている。
 
 *関係人物
 **&font(#4169E1){&icon_fa(fa-solid fa-shield-halved)} [[ロスサントス警察]]
@@ -56,6 +56,12 @@
 #region(開く)閉じる
 ***[[圧子]]
 初日に親交を深めたマブダチ。
+
+#endregion
+**&font(#4f455c){&icon_fa(fa fa-user-secret)} 犯罪者
+#region(開く)閉じる
+***[[アルフォート　ウェスカー]]
+初日に出会った男性。
 
 #endregion
 

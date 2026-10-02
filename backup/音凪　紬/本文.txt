@@ -4,7 +4,7 @@
 
 
 //ここからプロフィール
-#table_style(head=#C8A2C8:#666666){}
+#table_style(head=#C8A2C8:#fff){}
 |~名前|~&icon_fa(fa fa-user)|&ruby(おとなぎ){音凪}　&ruby(つむぎ){紬}|
 |~出身地|~&icon_fa(fa fa-location-dot)|日本|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
@@ -233,7 +233,7 @@
 
 #endregion(8月)
 //
-#region(9月,open)&bold(){9月}
+#region(9月,close)&bold(){9月}
 ****09/03 [[やらねばまずい 16日目>>https://www.youtube.com/live/vfYK17toqVY]]
 #region(開く,close)閉じる
 -イベントのゴーカーリング準備をする
@@ -405,37 +405,20 @@
 
 #endregion(9月)
 //
-#co{
 #region(10月,open)&bold(){10月}
+#areaedit
+****10/01 [[結局仕事仕事仕事 36日目>>https://www.youtube.com/live/PQ9kwZkiAyU]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion
 
+#areaedit(end)
 #endregion(10月)
-
-}
 //
 #co{
 ↓コピー用素材
 
 #region(mm月,open)&bold(){mm月}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ***mm/dd [[タイトル>>URL]]
 #region(開く,close)閉じる
@@ -449,7 +432,7 @@
 **2026年
 #region(8月,close)
 #table_filter(){Twitch=hide}
-#table_style(head=center:#E6E6FA){配信日=right,#=center, Twitch=center}
+#table_style(head=center:#C8A2C8:#fff){配信日=right,#=center, Twitch=center}
 |~配信日|~#|~配信タイトル|~Twitch|~備考|h
 |26/08/05|1|[[????>>https://www.youtube.com/live/ri16oWvuMMg?si=jNdr3NcXkM8puHF3]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2837835013]]||
 |26/08/06|2|[[生きるためにはお金が必要です>>https://www.youtube.com/live/ueHNVkUQaA8?si=vb-GiM6gix9amhTn]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2838709353]]||
@@ -470,9 +453,9 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(8月)
 //
-#region(9月,open)
+#region(9月,close)
 #table_filter(){Twitch=hide}
-#table_style(head=center:#E6E6FA){配信日=right,#=center, Twitch=center}
+#table_style(head=center:#C8A2C8:#fff){配信日=right,#=center, Twitch=center}
 |~配信日|~#|~配信タイトル|~Twitch|~備考|h
 |26/09/03|16|[[やらねばまずい>>https://www.youtube.com/live/vfYK17toqVY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2864103148]]||
 |26/09/04|17|[[ラストスパート>>https://www.youtube.com/watch?v=65nuEXxXQDo]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2864957881]]||
@@ -497,24 +480,20 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(9月)
 //
-#co{
-
 #region(10月,open)
 #table_filter(){Twitch=hide}
-#table_style(head=center:#E6E6FA){配信日=right,#=center, Twitch=center}
+#table_style(head=center:#C8A2C8:#fff){配信日=right,#=center, Twitch=center}
 |~配信日|~#|~配信タイトル|~Twitch|~備考|h
-
+|26/10/01|36|[[結局仕事仕事仕事>>https://www.youtube.com/live/PQ9kwZkiAyU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2888835690]]||
 //|26/10/dd|n|[[タイトル>>URL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(10月)
-
-}
 //
 #co{
 
 #region(11月,open)
 #table_filter(){Twitch=hide}
-#table_style(head=center:#E6E6FA){配信日=right,#=center, Twitch=center}
+#table_style(head=center:#C8A2C8:#fff){配信日=right,#=center, Twitch=center}
 |~配信日|~#|~配信タイトル|~Twitch|~備考|h
 
 //|26/11/dd|n|[[タイトル>>URL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]||
