@@ -1,27 +1,21 @@
-&bold(){⚠️警告⚠️}
-こちらのページでは表記内容について編集合戦が行われていることが報告されています。
-三日以内に改善が見られない場合、該当ユーザーには相応の対応をいたします。
-
-2月26日　管理人代行
-//
 //[[餡ブレラ]]と入力すると本ページにリダイレクトされるので[[餡ブレラ>anbrella(餡ブレラ)]]と打つ必要はありません。
 
 &blankimg(anbrella2.JPG,x=1040,y=585)
 //#slide_img(auto=3,width=368,height=207){anbrella2.JPG,labo1018_byOkawa.JPG,zoo1018_byOkawa.JPG,zoo1018_byOkawa2.JPG}
 //ここからプロフィール
 
-#table_color(head=#FFF)
+#table_color(head=#99000D:#F5F5DC)
 #table_filter(){Season1=hide,Season2=show}
 |~世界線|~&icon_fa(fa-solid fa-capsules)|~Season1|~Season2|
 |~組織名|~&space()&icon_fa(fa fa-tag)&space()|>|&ruby(あんぶれら){anbrella}(餡ブレラ)|
 |~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|anbrella||
 |~設立日|~&space()&icon_fa(fa fa-flag)&space()|>|2023年06月13日&br()&small(){（&countup(2023/06/13,yd)経過）}|
-|~町を去った日|~&space()&icon_fa(fa fa-plane-departure)&space()|2025年06月13日 [[※>#餡解散]]||
+|~町を去った日|~&space()&icon_fa(fa fa-plane-departure)&space()|2025年06月13日 [[※>#餡解散]]|-|
 |~再来訪日|~&space()&icon_fa(fa fa-plane-arrival)&space()||2026年03月20日&br()&small(){（&countup(2026/03/20,yd)経過）}|
 |~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|2060番地|9071番地|
-|~本拠地種別|~&space()&icon_fa(fa fa-flask)&space()|研究所||
+|~本拠地種別|~&space()&icon_fa(fa fa-flask)&space()|>|研究所|
 |~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|>|[[アルフォート　ウェスカー]]|
-|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&font(b,#99000D){赤}|&font(b,#99000D){&s(){赤}}→白（白あん）|
+|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&font(b,#99000D){赤}|&font(b,#99000D){&s(){赤}}→&b(){白}|
 //元テーブルカラー#table_color(head=#99000D:#F5F5DC)
 
 #region(目次を開く,close)目次
@@ -31,7 +25,7 @@
 *&font(#FFFFFF){&icon_fa(fa fa-info-circle)} 基本情報
 ***🫘&underdot(#99000D,2px){anbrella(餡ブレラ)}
 -アメリカ、ラスクーンシティに本社を構える製薬企業。
--ロスサントス本拠点&br()→Humane Labs and Research(2060)
+-ロスサントス本拠点&br()→Humane Labs and Research(2060) ※&small(){SEASON1}
 --本拠点の場所は市民にも公開しており、誰でも自由に出入りできる。
 -ロスサントスにおける餡ブレラは、未知のウイルスを探求する研究者[[アルフォート・ウェスカー>アルフォート　ウェスカー]]によって設立された組織で、その資金調達のためにギャング活動を行っている。
 -"甘いもの(ウイルス)"で世界征服を企んでいる。
@@ -76,7 +70,7 @@
 --2025/05/18に[[ウェスカー>アルフォート　ウェスカー]]自らこの方針を撤回し、犯罪時以外は制限なく利用してよいものとした。
 //
 &aname(餡解散)
--2025/06/13、[[ウェスカー>アルフォート　ウェスカー]]が内外に「&b(){この街でやることがなくなった}」と宣言し、[[ウェスカー>アルフォート　ウェスカー]]と大半の構成員が共に街を去った。(解散とは口にしていない)
+-2025/06/13、[[ウェスカー>アルフォート　ウェスカー]]が内外に「&b(){この街でやることがなくなった}」と宣言し、[[ウェスカー>アルフォート　ウェスカー]]と大半の構成員が共に街を去った。
 #co{
 --その後も餡ブレラのユニオンは残っており、シマも[[ウェスカー>アルフォート ウェスカー]]が他ギャングに分配した場所以外はそのまま維持されている。
 --このことについて、街に残った構成員が[[だん市長代理>だん市長補佐]]に尋ねた際、「[[ウェスカー>アルフォート　ウェスカー]]から連絡が来ない限りは残す。ギャングとしてのカテゴリーからは外れたが、組織としてユニオンやカラーギャングは付けていて良い」との回答を得た。
@@ -86,9 +80,7 @@
 #endregion
 
 #div(bgcolor=#99000D){&font(16px,b,#FFFFEB){&space()SEASON2}}
-#region(開く,open)
--バイオテロが失敗し構成員とともにロスサントスを離れ新たな研究を進めていたが、研究に進捗がありこの街に来なければならない理由が出来たため構成員とともにロスサントスに舞い戻った。
-#endregion
+-ロスサントスを離れたあとも新たな研究を進めており、とある目的を果たすため構成員とともに街に舞い戻った。
 
 ***&icon_fa(fa fa-user-plus)&space()&underdot(#99000D,2px){加入方法}
 #size(90%){&b(){スカウト／メンバー推薦／加入志願／等}　&openclose2(show=*1){&br()・加入志願者は場合により&openclose2(show=実力審査){(クラフトスキル／知識レベル／模擬戦闘／殴り合い／変装技術／等)}あり。&br()選考には志願者の意志と、組織のメンバーや雰囲気に合うかどうか(特に"面白さ")が重視される。なお、ボスから直接のスカウトであれば強さに関わらず、ほぼ一発合格である。&br()・2023/9/14より、加入の判断はボスの一存で行う方針&openclose2(show=※){&br()&small(){(メンバーが増え、従来の「部下一人一人の意見を取り入れる」「メンバー全員を納得させる」ことが難しく、加入の判断が先送りになってしまうため)}}となった。&br()ボスの言うことは絶対。言うことを聞かない者、組織の雰囲気に合わない者はクビにする。&br()・2024/11/23より、加入志願者には1週間の体験加入期間を設けることとなった。ただし、メンバーの中に1人でも反対派がいた場合は即不採用となる。}&br()&b(){◎求める人材：⑴ 話が通じる ⑵ 自分で物事を考えられる ⑶ 面白い}}
@@ -98,7 +90,7 @@
 
 *&font(#FFFFFF){&icon_fa(fa fa-users)} メンバー
 #div(bgcolor=#99000D){&font(16px,b,#FFFFEB){&space()SEASON1}}
-[[SEASON1の餡ブレラメンバー>https://w.atwiki.jp/streamergta5/pages/3605.html]]こちら
+[[SEASON1の餡ブレラメンバー>https://w.atwiki.jp/streamergta5/pages/3605.html]]はこちら
 
 #div(bgcolor=#99000D){&font(16px,b,#FFFFEB){&space()SEASON2}}
 &blankimg(20260402_siroan.jpg,x=1040,y=585)
@@ -108,44 +100,38 @@
 #size(90%){#table_filter(){No.=show,名前=show,加入日=hide,階級・職業=hide,備考=show,配信=show}
 #table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){名前=bold}
 |~名前|~加入日|~階級・職業|~備考|~配信|h
-|&ruby(あるふぉーと　うぇすかー){&b(){[[アルフォート　ウェスカー]]}}&br()&image(width=70,height=70,wesker.png)|2023/06/13|Boss&br()&br()&small(){研究者&br()超能力者&br()トラック運転手&br()飲食店【[[Vermillion>https://w.atwiki.jp/streamergta5/pages/553.html#Vermillion]]】オーナー&br()ラーメン屋【[[焦村家]]】アルバイト&br()第二代ロスサントス[[市長]]&br()カーディーラー【[[ClassicSport J's]]】社員}|元 特殊部隊 Baby S.T.A.R.S.。総合的に優れた戦闘能力を持ち、彼1人で戦闘員10人分の戦力を持つともいわれる。&br()好戦的なメンバー達を従える&b(){組織の絶対的ボス}。普段は丁寧な口調で冷静に見えるが、実は感情で動くタイプである。&br()組織のため的確な指示を出してメンバーを導き、クラフトから物資管理に至るまで、組織の仕事をメンバーと共に行っている。&br()無類のギャンブル好きで、時には9時間以上カジノに入り浸ることも。勝ち金は組織の資金として蓄えられている。&br()組織設立前、[[ヴァンダーマー>ヴァン　ダーマー]]からの誘いでギャング「[[MOZU]]」に18日間所属し、組織運営を学んでいる。&br()'24/11/27、部下の軽率な考えに失望し、ボスの苦労を判らせるべく[[わきを>キャプテン　わきを]]へ半強制的にボス権限を委譲して脱退。&br()'24/12/29、新人[[とうか>つよがり　とうか]]の「[[わきを>キャプテン　わきを]]と話をしてほしい」との言葉から[[わきを>キャプテン　わきを]]を含めた構成員と話し合い、&br()「次、同じようなことがあったら解散する」という条件のもと、ボスとして組織に戻った。&br()おきる的呼び方｢&b(){パパ}｣|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/gocchanmikey]]&br()[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting}>>https://twitcasting.tv/_gocchan_/]]|
-|&ruby(すけばん　かれん){&b(){[[栖家幡　華憐]]}}&br()&image(width=70,height=70,karen.png)|2023/06/13&br()&font(10px){※6/9に勧誘}|UnderBoss&br()&br()&small(){中華料理店【[[明味房>ミンミンボウ]]】店員}|訛りのある話し方が特徴の女性。母親の入院費を稼ぐために街に訪れ、スカウトを受けて加入した。&br()餡ブレラの&b(){クラフト・物資管理担当}であり、メンバーを立ち入らせない武器倉庫の鍵を預かるなど、[[ボス>アルフォート　ウェスカー]]から絶大な信頼を受けている。&br()結成当初から組織を大きく支える"縁の下の力持ち"的存在で、18歳ながらメンバーからは「ママ」と呼ばれ慕われている。&br()ハウジングを嗜んでおり、双子の兄[[華月>西蓮寺　華月]]と共に各拠点の内装を手掛けている。&br() 珍しい盗難車が大好き。街中で発見した高所作業車やフォークリフトなどを乗り回したり、高級車窃盗の車をコレクションしている。&br()おきる的呼び方｢&b(){かれんおねえちゃん}｣｜&b()くまちゃん的呼び方｢&b(){かれっぴー}｣｜&b()パティ流あだ名「&b(){かれかれ}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/suzune_rabbit]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@suzune_rabbit]]|
-|&ruby(あーもんど　さらざーる){&b(){[[アーモンド　サラザール]]}}&br()&image(width=70,height=70,hunk.png)|2023/06/13&br()&font(10px){※6/10に勧誘}|UnderBoss&br()&br()&small(){研究者&br()タクシー会社【[[菖光會]]】社員}|通称「&b(){ハンク}」。S(シュガー)ウイルスによる世界征服を企て、[[博士>アレクサンダー　アイスボックス]]と共に街に来た研究員。&br()「甘いもので世界制服を」という[[ウェスカー>アルフォート　ウェスカー]]の野望に賛同して[[博士>アレクサンダー　アイスボックス]]と共に加入した。&br()メンバーの&b(){教育担当}。大型ミッションではIGL役として指揮を取り、戦闘の最前線で活躍する。&br()優しい性格だが腕は非常に立ち、「何でもできる天才」を自称する自信家。&br()ロスサントスの地理に明るく、高い運転技術を併せ持ち、カーチェイスにおいて彼の右に出るものは居ない。&br()パティ流あだ名「&b(){ンクンク}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/hiiro_vt]]|
-|&ruby(あれくさんだー　あいくぼっくす){&b(){[[アレクサンダー　アイスボックス]]}}&br()&image(width=70,height=70,hakase.png)|2023/06/13&br()&font(10px){※6/10に勧誘}|UnderBoss&br()&br()&small(){研究者}|通称「&b(){博士}」。研究員で[[ハンク>アーモンド　サラザール]]の部下。餡ブレラの&b(){製薬担当}。&br()自作の試薬で人体実験を行っており、時には自身の体をも実験台にする。研究のためなら苦労を厭わず、地道な素材集めも率先してこなす。&br()メンバーから年寄り扱いされることが多いが、非戦闘員と見せかけて、警察との銃撃戦にも活躍を見せる。&br()[[ボス>アルフォート　ウェスカー]]と姿を見間違われやすいため、区別のために普段は[[くまちゃん>メリー　クロース]]が選んだサンタ帽を被っている。&br()おきる的呼び方｢&b(){じいじ}｣｜くまちゃん的呼び方｢&b(){おじいちゃん}｣|[[&font(#C9243A){&icon_fa(fa fa-youtube-play)YouTube}>>https://www.youtube.com/@feco]]|
-|&ruby(ありさか　　ほまれ){&b(){[[有坂　誉]]}}&br()&image(width=70,height=70,arisaka1.png)|2023/06/14&br()&font(10px){※4/15・6/8に勧誘}|UnderBoss&br()&br()&small(){【[[闇車両協会]]】会長}|ギャング「[[LWGP]]」「[[GATO]]」の元構成員で、元闇医者。個人医[[そす>いわさき　そす]]の師匠にあたり、現在に至る個人医(闇医者)の祖でもある。&br()半グレ時代の[[ウェスカー>アルフォート　ウェスカー]]の犯罪仲間で、組織設立前から最初にスカウトされていた人物。&br()[[闇車両協会]]会長を務める街一番の車泥棒で、日課としているブースティングはSランク。&br()犯罪に精通しており、豊富な知識と経験で活動をアシストするチームの参謀的存在。&br()普段は非戦闘員を自称して白市民との交流も多い。&br()パティ流あだ名「&b(){ほまほま}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/nishina_gin]]|
-|&ruby(じぇいく　れでぃんとん){&b(){[[ジェイク　レディントン]]}}&br()&image(width=70,jake_s3.png)|2023/06/18|UnderBoss|元ギャングの男性。戦闘能力が高く、チェイスにも長けている。金を稼ぐため入れるギャングを探していたところ&br()[[ウェスカー>アルフォート　ウェスカー]]を紹介され、共に行った大型犯罪で警察に護送された仲間達を奪還した[[ウェスカー>アルフォート　ウェスカー]]の姿を見て加入を志願した。&br()餡ブレラの&b(){栗饅頭担当}。(栗饅頭：褐色の肌と特徴的な刈り上げヘアからついたあだ名)&br()活動時間に制限があるため「定時ギャング」を自称しており、姿を現さない間も「衛星外J」として人知れず活動を行っている。&br()ギャンブルに強く、度々カジノに行っては増やした金を[[ボス>アルフォート　ウェスカー]]に上納している。&br()パティ流あだ名「&b(){イクイク}」｜トーマス的呼び方｢&b(){イクセン}｣|[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@RENTONGAMES]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/rentongames]]|
-|&ruby(めりー　くろーす){&b(){[[メリー　クロース]]}}&br()&image(width=70,height=70,merry.png)|2023/06/18|UnderBoss&br()&br()&small(){コラボカフェ【[[カニメイト]]】店員}|通称「&b(){くまちゃん}」。メンバー皆に愛されている餡ブレラの癒し枠。&br()餡ブレラの&b(){くま担当}。クマの被り物とはみ出たお団子（通称第3の耳）がトレードマーク。&br()[[博士>アレクサンダー　アイスボックス]]の紹介で当初は素材集め＆クラフター要員として[[ボス>アルフォート　ウェスカー]]にスカウトされたが、実は銃撃戦もかなり強い。&br()最近は犯罪意欲があまりなく、みんなと遊べるならやるといったスタンス。お金も自分の為ではなく誰かの為に使うものとしている。&br()市民にギャングであることは隠しており、普段は「くまさんじゃないよ」という偽名で通している。&br()おきる的呼び方｢&b(){くまおねえちゃん}｣｜パティ流あだ名「&b(){くまくま}」|[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@NicolaClaes/live]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/nicola_claes]]|
-|&ruby(くずみね　せいしろう){&b(){[[九頭峰　誠士郎]]}}&br()&image(width=70,height=70,kuzumine.png)|2023/07/08|UnderBoss&br()&br()&small(){トラック運転手}|通称「&b(){グラマス}」。コレグラを極めており、グラマス(グラモンマスター)と呼ばれている。&br()偶然出会った餡ブレラメンバーと一緒にコレグラで遊んでいるうちに、[[ウェスカー>アルフォート　ウェスカー]]から繰り返しのスカウトを受けて加入。&br() (自称)餡ブレラの&b(){野良猫担当}。普段は[[ボス>アルフォート　ウェスカー]]の計らいで組織の枠に囚われず自由に活動しているが、&br()犯罪や戦闘をそつなくこなしてみせるなど、ポテンシャルを秘めている。&br()[[博士>アレクサンダー　アイスボックス]]の試薬が掛かったペンギンマスクを被ると、[[ある人物>篠崎　ケイ]]の魂が身体に憑依する。&br()くまちゃん的呼び方｢&b(){くずぴ}｣｜パティ流あだ名「&b(){みねみね}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/sino_1]]|
-|&ruby(くま　ごりら){&b(){[[クマ　ゴリラ]]}}&br()&image(width=70,height=70,kuma.png)|2023/07/15|Manager&br()&br()&small(){トラック運転手}|顔がクマで体がゴリラの男性。[[ウェスカー>アルフォート　ウェスカー]]からの熱烈なスカウトと、身体を治す薬の研究が決め手となり加入した。&br()[[博士>アレクサンダー　アイスボックス]]の開発した試薬を飲むと一時的に人間の姿に戻ることができる。&br()[[ボス>アルフォート　ウェスカー]]も認める組織一忠誠心の高い人物で、怒らせると一番怖い。その様子は『&b(){本職}』『その筋の人』と例えられるほど。&br()元タクシー運転手(運び屋「[[菖光會]]」)で、車両・ヘリ共に巧みな操縦技術を持つ。&br()おきる的呼び方｢&b(){ごりら}｣｜パティ流あだ名「&b(){ゴリゴリ}」|[[&font(#6441A4){&icon_fa(fa fa-twitch) Twitch}>>https://www.twitch.tv/holoyoisan_jp]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@HOLOYOISAN_JP]]|
-|&ruby(にゃんこ　すきー){&b(){[[ニャンコ・スキー]]}}&br()&image(width=70,height=70,nyanko.png)&image(width=70,height=70,nyanko2.png)|2023/08/10|Recruit&br()&br()&small(){犯罪系ストリーマー&br()メカニック【[[Glare Gem]]】従業員&br()ガソリンスタンド(7166番地)アルバイト&br()コンビニ(7093番地)オーナー&br()【[[ママみ同好会]]】情報部門担当&br()武器スキンショップ【[[Grand Chariot>https://w.atwiki.jp/streamergta5/pages/553.html#GrandChariot]]】オーナー&br()牧場(2021番地)アルバイト}|犯罪系ストリーマー。半グレ時代、犯罪に立て続けに失敗して借金を抱えていた。&br()&openclose2(show=ギャング){([[柳田ライアン>柳田　ライアン]])}に命を狙われており、さらには半グレ仲間にも裏切られる孤立無縁の状態で、1人は寂しいと加入を志願した。&br()ロシア出身(日本産まれ日本育ち)で、流暢なスペイン語を話す。起床時の挨拶は「[[ニャンコ・スキー]]、出社しました！」&br()餡ブレラの&b(){バーサーカー担当}。撃ち合いが大好き。特に対人戦を得意とし、さらには車両やヘリの操縦にも長ける。&br()持ち前の愛想のよさでギャングや白市民を問わず交友関係が広く、フロント企業「&link_anchor(Grand_Chariot){Grand Chariot}」の優秀な営業マンとしての顔も持つ。&br()市民交流の裏では街の情報を細やかに収集する諜報員として暗躍し、収集した情報は全て[[ボス>アルフォート　ウェスカー]]に報告している。&br()くまちゃん的呼び方｢&b(){にゃんたろう}｣｜パティ流あだ名「&b(){ニャンニャン}」｜トーマス的呼び方｢&b(){ニャンさん}｣|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/getmanuel]]&br()[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting}>>https://twitcasting.tv/get_shiba]]|
-|&ruby(ななせ　ぜろ){&b(){[[七瀬　ぜろ]]}}&br()&image(width=70,height=70,zero1.png)|2023/09/08|Recruit&br()&br()&small(){研究者&br()メカニック【[[Glare Gem]]】従業員}|マフィア「[[GoodbyeCircus]]」の元団員。闇メカニック「[[Glare Gem]]」で働いている。&br()元マフィアの経験を買われ、[[ウェスカー>アルフォート　ウェスカー]]からスカウトを受けた。&br()爆発、クスリ、この街のありとあらゆるものを研究している(自称)研究員で、餡ブレラで作っている薬にも興味津々である。&br()おきる的呼び方｢&b(){ぜろにい}｣｜パティ流あだ名「&b(){ぜろぜろ}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/zeronana07ch]]|
-|&ruby(さいれんじ　かげつ){&b(){[[西蓮寺　華月]]}}&br()&image(width=70,height=70,kagetsu.png)|2023/09/10|Recruit&br()&br()&small(){トラック運転手}|[[華憐>栖家幡　華憐]]の双子の兄。西蓮寺は父方、栖家幡は母方の苗字。メンバーからも親しみを込めて「お兄ちゃん」「にいに」と呼ばれている。&br()[[華憐>栖家幡　華憐]]が[[ボス>アルフォート　ウェスカー]]に打診して加入した。妹を守るため、そして失踪した父親の残した莫大な借金を返すために犯罪を行っている。&br()チェイスや格闘能力にはメンバーからの信頼も厚く、銃撃戦も得意。&br() 餡ブレラの&b(){ハウジング/お兄ちゃん担当}。自他共に認める重度のシスコン。&br()兄妹揃ってハウジングのセンスが抜群で、新拠点のハウジングを一手に担ったこともある。&br()クルード的呼び方「&b(){アジョシ}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/koumai_jp]]|
-|&ruby(あるべーる){&b(){[[アルベール]]}}&br()&image(width=70,height=70,albert.png)|2023/09/11|Recruit&br()&br()&small(){魔王}|別の世界から魔法で転移してきた&b(){魔王}。"より良い世界"を創るため、世界征服を企んでいる。&br()この世界には魔素がないため魔力が回復出来ず、魔法が使えなくなった。&br()組織の立ち上げを考えていたが、この世界の格上の悪として敬意を表し[[ボス>アルフォート　ウェスカー]](=大魔王)に忠誠を誓う。口調は変えられない。&br()街で活動するには魔力を蓄える必要があり、魔力の吸収できる何かを探している。&br()パティ流あだ名「&b(){ベルベル}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/solionzi]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@solionzi]]|
-|&ruby(さけずき　すん){&b(){[[酒槻　すん]]}}&br()&image(width=70,height=70,sun2.png)|2023/09/22|Recruit&br()&br()&small(){花屋【[[ColorFlora]]】店員}|組織の方針に惹かれて加入を志願した。提示された加入条件は殴り合いで[[ウェスカー>アルフォート　ウェスカー]]を倒すこと。&br()加入まで毎日続いた殴り合いは「デイリーすん」と呼ばれ、志願から加入までの日数は当時のメンバーで最長の19日に及ぶ。&br()花屋「[[ColorFlora]]」で働いている。餡ブレラの&b(){あざとい担当}で、メンバーから愛される後輩キャラ。&br()真面目で努力家。ボスへの忠誠心が高く、非常に義理堅い。普段身に付けている特徴的な単眼マスクは、本人曰く「これが素顔」。&br()パティ流あだ名「&b(){すんすん}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/tutti_fps]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@TUTTITV1]]|
-|&ruby(たかぎ　　しょうねんへい){&b(){[[高木　少年兵]]}}&br()&image(width=70,height=70,takagi.png)|2023/12/23&br()&font(10px){正式採用日&br()→2024/01/09}|Recruit|[[葉>葉　三千発]]の同期。半グレからギャングになりたいと加入を志願し、研修期間を経て正式加入。&br()チェイスの腕に自信有り。好きな食べ物はクレープ。&br()個性的な言動や立ち回りから、[[わきを>キャプテン　わきを]]Jr.と呼ばれることも。&br()[[葉>葉　三千発]]と一緒に度々問題ごとを持ち込むが、組織へ&s(){火種} 新しい風をもたらす存在として、[[ボス>アルフォート　ウェスカー]]の意向で"放し飼い"とされている。 |[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/takagitv]]|
-|&ruby(よう　　さんぜんぱつ){&b(){[[葉　三千発]]}}&br()&image(width=70,height=70,yo.png)|2023/12/23&br()&font(10px){正式採用日&br()→2024/01/09}|Recruit|[[高木>高木　少年兵]]の同期。組織で2人目の関西人。街に来た当初からギャングになることを決めており、組織にシナジーを感じて加入を志願。&br()研修期間を経て正式加入。[[高木>高木　少年兵]]と同様に"放し飼い"で、[[ボス>アルフォート　ウェスカー]]から直々に「ムカつく奴がいたら喧嘩を売ってもいい」と伝えられている。&br()餡ブレラの&b(){新人/自由担当}。[[葉>葉　三千発]]の感想だけは嘘をつかない。|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/yohdazo]]|
-|&ruby(ちゃるろす　せい){&b(){[[チャルロス　SAY!]]}}&br()&image(width=70,height=70,Charlos.png)|2024/01/09|Recruit&br()&br()&small(){ホットドッグ屋}|(元)天竜人。プリズンで知り合ったメンバーと意気投合し、ギャングになりたいと加入を志願。試用期間中の優秀な働きから正式加入。&br()マフラーが編める。大好きな食べ物はからあげ、好きな犬はトイプードル。&br()古風で上品な話し方とは裏腹に、「警察を全員殺したい」「全てを敵に回してもいい」など血の気の多さが垣間見える。&br()ヘリの操縦が得意。特徴をトレースした多彩な変装と声真似でエンタメ性の高い犯罪をする。&br()ほぼ同期の[[高木>高木　少年兵]]、[[葉>葉　三千発]]を弟のように可愛がっており、2人をフォローする場面の多いことから「高級お尻拭き」の称号を与えられている。&br()パティ流あだ名「&b(){チャルチャル}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/arikendebu]]|
-|&ruby(ばき　りえる){&b(){[[刃牙　りえる]]}}&br()&image(width=70,height=70,rieru.png)|2024/02/11&br()&font(10px){加入内定日&br()→2024/02/06}|Recruit&br()&br()&small(){【[[猫カフェ武蔵]]】店員}|[[すん>酒槻 すん]]の格闘技の弟子で、[[すん>酒槻　すん]]の役に立ちたいという思いから所属を志願。組織のため尽力してきた[[すん>酒槻　すん]]への信用から加入を許可される。&br()加入に至るまで犯罪歴が無いため荒事は勉強中。非常に努力家でわからないところは都度メンバーに聞き、自身の成長に繋げる。&br()衛星外リサセンが趣味で大量の物資を組織に納品しており、物資管理担当である[[華憐>栖家幡　華憐]]の助手的ポジションを期待されている。&br()声色を変えることを得意としており、変装次第ではメンバーですら誰かわからなくなるほどの別人になれる。&br()おきる的呼び方｢&b(){りえるおねえちゃん}｣｜パティ流あだ名「&b(){えるえる}」|[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@riel_momozono]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/riel_momozono]]|
-|&ruby(いなば　ごん){&b(){[[稲葉　ゴン]]}}&br()&image(width=70,height=70,gon.png)|2024/04/23|Recruit&br()&br()&small(){タクシー会社【[[菖光會]]】社長}&br()&small(){【[[after U]]】店員}|元ヤクザ(親背組)で、ギャング「[[IRiS]]」の元構成員。&br()餡ブレラからの熱烈なスカウトと、長く思い悩んでいた[[IRiS]]との方針の違いが決め手となり脱退を決意した。&br()コスプレや声真似に長ける。組織のムードメーカーで、周囲への気遣いを欠かさない優しい性格の持ち主。&br()[[IRiS]]時代から大型のIGLを任されるなど現場経験が豊富で、単独でもサポートにおいても一流の戦闘能力を持つ。&br()おきる的呼び方｢&b(){ごんちゃ}｣｜パティ流あだ名「&b(){ゴンゴン}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/d175]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@iNAGON175]]|
-|&b(){[[あいまいみー]]}&br()&image(width=70,height=70,maimi.png)|2024/05/18&br()&small(){専属個人医&br()→2023/09/08〜2024/05/17}|Recruit|元餡ブレラ専属個人医で、[[そす>いわさき　そす]]の一番弟子。[[ウェスカー>アルフォート　ウェスカー]]の勧めで個人医の職についた。&br()[[ウェスカー>アルフォート　ウェスカー]]からスカウトを受けていた[[ぜろ>七瀬　ぜろ]]と関係が深く、彼の所属する組織の専属個人医になりたいと志願して共に加入した。&br()お抱え個人医制度廃止後、構成員に転職した。&br()パティ流あだ名「&b(){まいまい}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/suzunemaimu]]|
-|&ruby(やどなし　おきる){&b(){[[宿無　おきる]]}}&br()&image(width=70,height=70,okiru.png)|2024/05/19|Recruit|父と旅行で街にやってきた15歳の少女。知人に会いに行ったきり戻ってこない父の行方を街で聞き込みしていた。&br()彼女に父の写真を見せられた[[ウェスカー>アルフォート　ウェスカー]]は、これを利用しようと企んで彼女をラボに連れ出す。&br()試薬を飲ませて意識朦朧とした状態の彼女から父の写真を取り上げ、「[[ウェスカー>アルフォート　ウェスカー]]は父、構成員は家族」と刷り込んで組織に加入させる。&br()'24/11/30、[[ウェスカー>アルフォート　ウェスカー]]から手渡された解毒薬を飲んで洗脳が解け、全ての記憶を取り戻す。&br()その後は組織を離れていたが、構成員一人一人と話し合い、自分の意思で組織に残る決断をして改めて組織に迎えられた。&br()パティ流あだ名「&b(){しおしお}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/hatsukaneru]]|
-|&ruby(おざわ　はやまさ){&b(){[[オザワ　ハヤマサ]]}}&br()&image(width=70,height=70,ozawa.png)|2024/06/13|Recruit&br()&br()&small(){【[[after U]]】店員}|ギャング「[[IRiS]]」の元構成員。&br()[[IRiS]]が解散したタイミングで[[ウェスカー>アルフォート　ウェスカー]]から勧誘を受け、個人医として生きるか悩んだ末に加入。&br()車、銃の扱いはやや自信なさげではあるが、ヘリの操縦はメンバーも認めるほどの実力を持つ。&br()加入は[[ゴン>稲葉　ゴン]]が同席し見届け、『また頑張ろう』と抱き合っていたとか…&br()おきる的呼び方｢&b(){おじさん}｣｜パティ流あだ名「&b(){オザオザ}」 |[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/zawakun47]]|
-|&ruby(あやせ　ひな){&b(){[[綾瀬　ひな]]}}&br()&image(width=70,height=70,hina.png) |2024/06/29|Recruit&br()&br()&small(){ホットドッグ屋}|3歳の女の子。[[ニャンコ>ニャンコ・スキー]]から犯罪の教え子として組織に紹介され、その腕前から加入が内定する。&br()乗り物全般の操縦や銃の扱いはハワイに住む父親仕込みでポテンシャルが高い。&br()持ち前の戦闘センスで、時には大型ミッションのIGL役もこなしてみせる。&br()3歳という幼さでは長く活動できないため、組織加入時に飲んだ餡ブレラ社製のクスリの効果によって&br()本人の意志で実年齢より大人になったり、3歳に戻ったりすることができる。&br()パティ流あだ名「&b(){ひなひな}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/nazunakaga]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@nazunakaga]]|
-|&ruby(まんじょりーな　じぇりー){&b(){[[マンジョリーナ　ジェリー]]}}&br()&image(width=70,height=70,mj.png)|2024/11/23|Recruit&br()&br()&small(){カレー屋【[[KoKo七番屋]]】店員&br()ダイニングカフェ【[[Yadorigi]]】店員}|通称「&bold(){MJ}」。半グレ集団時代の「[[Trickster]]」の元メンバー。 &br()[[ハンク>アーモンド　サラザール]]の推薦で戦闘力があると組織に紹介され、刺激を感じたい、尊敬するハンクと仕事がしたいと加入を志願。&br()約1週間の体験加入ののちに正式加入した。|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/manjichan999]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>https://www.youtube.com/@manjichan999]]|
-|&ruby(ねお　れおんはーと){&b(){[[ネオ・レオンハート]]}}&br()&image(width=70,height=70,leon.png)|2025/02/09|Recruit|囚人だらけの島から脱出してロスサントスへ漂流してきた重犯罪者。血の気が多い性格で、街に辿り着いた初日からウェスカーに喧嘩を売り、&br()その翌日再び喧嘩を売ったため速攻で海に沈められた。二週間後、初心者マークの加護を[[ウェスカー>アルフォート　ウェスカー]]の目の前で外して挑んだタイマンに敗れ、&br()その際に「[[ウェスカー>アルフォート　ウェスカー]]率いる餡ブレラと戦えるギャングを作りたい」「イロハを教えてもらいたいのは餡ブレラしかない」&br()という彼の熱意ある訴えで、加入を認められた。|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/leondaihyou]]|
-|&ruby(はやま　ぱてぃ){&b(){[[羽山　パティ]]}}&br()&image(width=70,height=70,patty.png)|2025/04/22|Recruit|ギャング「[[IRiS]]」の元構成員。[[IRiS]]解散後は個人医を経て半グレとして活動していたが、[[家族>ユニベロス]]を守るための後ろ盾として&br()ギャングの力を求め、自身も強くなりたいと加入を志願した。組織の力となる代わりに、研究中のウイルスが完成した後も&br()彼女の[[姉>羽山　ペティ]]だけは襲わないことを加入の条件とした。|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/@YotsuhaAmahane]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yochuco]]|
-|&ruby(やまだ　じぇいみー){&b(){[[山田　ジェイミー]]}}&br()&image(width=70,height=70,jamie.png)|2025/05/06&br()&br()&br()&br()&br()2025/06/12 脱退&br()&small(){※再加入日不明}|Recruit|元「[[SGPD>ロスサントス警察]]」で、退職時の階級はGrade3(警部補)。前々から[[ウェスカー>アルフォート　ウェスカー]]に勧誘を受けており、息子として可愛がられていた。&br()白市民を第一に考え真摯に業務に打ち込んできたが、[[友人>飯田　けんつ]]の黒堕ちを知り、警察としての熱意を持ち続けられなくなった。&br()自身が黒になる覚悟を見せるために上官を撃って退職したが、黒堕ちしても掲げる&infobox(title=理念,trigger=click,gravity=south,size=small,animation=fadein){白市民を黒堕ちさせないこと、黒市民が白市民に戻ってこられるような環境を作ること}は変わらず&br()白市民とギャングの繋がりを断つために、ギャングとして他ギャングを潰すことを目標にしている。&br()大のねずみ好きで、変装時はねずみの覆面を被っている。&br()ウイルス実験目前に潜入捜査を目的とした組織加入を告白し除名を受けたが、別の街での餡ブレラによる洗脳・記憶改竄により再加入した。&br()パティ流あだ名「&b(){イミイミ}」|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/james_yjt]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/@JAMES-YJT]]|
-|&ruby(えすたーく・ぜっと・だーくねす){&b(){[[エスターク・Z・ダークネス]]}}&br()&image(width=70,height=70,esu.png)|2025/05/16|Recruit&br()&br()&s(){&small(){カレー屋【[[KoKo七番屋]]】店員}}&br()&small(){【[[わんも〜Cafe]]】店員}|ギャング「[[ALLIN]]」の元構成員。通称「&bold(){エスちゃん}」。ALLIN解散後は半グレとして過ごしてきたが、&br()[[ウェスカー>アルフォート　ウェスカー]]から「暇ならウチ来るか？」と勧誘を受け、餡ブレラで「街の根柢をぶっ壊したい」と加入を決意した。&br()街に来て長い人物で元々は男性だったが、いろいろあって棒と玉を失い女性化してしまった。&br()元の姿に戻るために奮闘しているが、ウェスカーらからはそのままでいろと言われている。&br()ヘリの操縦や状況報告は餡ブレラの構成員も「めちゃくちゃいい」というほどの腕前の持ち主。&br()パティ流あだ名「&b(){クネクネ}」|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/darkzelk]]|
-|&ruby(ちはや　かい){&b(){[[千早　カイ]]}}&br()&image(width=70,height=70,kai.png)|2026/04/11|Recruit&br()&br()&small(){タクシー運転手}&br()&small(){【[[わんも〜Cafe]]】店員}|半グレで犯罪している時にウェスカーと出会い「チンピラ」と呼ばれ目をかけられていて勧誘される。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kohal_iv]]|
-|[[ゼフア トーマス>トーマス]]&br()&image(width=70,height=70,thomas.png)|2026/04/25|Recruit&br()|多くの組織から実力を高く評価され勧誘を受けていたが、決め手がないまま半グレとして活動していた。&br()将来的に自組織の設立を考え始めていたところ、『ボスとしての勉強としてでも構わない』という条件を提示され、所属を決める。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/zepher]]|
-|&b(){[[いわさき　そす]]}&br()&image(width=70,height=70,so5u.png)|2024/09/08&br()&small(){専属個人医&br()→2023/09/08〜2024/05/17}&br()&br()2025/06/13 離籍&br()2026/05/02 復帰|Recruit&br()&br()&small(){[[タクシー>https://w.atwiki.jp/streamergta5/pages/3420.html]]運転手}|元餡ブレラ専属個人医。闇医者時代の[[有坂>有坂　誉]]の弟子で、戦況を打開するこの街トップクラスの逃走補助と救助技術で"そす神"と呼ばれることも。&br()お抱え個人医制度廃止に伴い一度組織を離れたが、彼が育てた多くの弟子たちの成長を見届けたのちに、約束通り正式に構成員となった。&br()誰よりも思想がギャングな男性で、[[ボス>アルフォート　ウェスカー]]からギャングとしての&b(){教育係}に任命されるほど厚い信頼を置かれている。&br()餡ブレラの&b(){軍事力担当大臣}として、組織用RPGのクラフトを極めている。&br()25/06/13ボスとほとんどの構成員が街を去った後も街に残り、[[NO LIMIT]]に加入。γ世界線でNO LIMIT解散に伴い、復帰した。&br()パティ流あだ名「&b(){いわいわ}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/so5u]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@so5u962/]]|
-|[[ハク　ナツメ>ハク　ナツメ]]&br()&image(width=70,height=70,natsume2.png)|2023/09/18&br()&br()&br()2023/12/23 脱退&br()2026/05/07 復帰|Recruit&br()&br()&small(){【[[わんも〜Cafe]]】店員}|ウェスカーにノーリミットの解散報告をした際、以前餡ブレラを脱退した時と同じ「いつでも戻ってきていい」という言葉を再び受ける。&br()しばらく半グレとして進路を模索する時間をもらったが、組織のために尽くす生き方が自分に合っていると再確認し、約2年4か月ぶりに餡ブレラへ復帰した。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/natsume_sennsei]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@natsumesensei_VT/streams]]|
-|[[アウト　くるーど>アウト　くるーど]]&br()&image(width=70,height=70,clude.png)|2026/05/30|Recruit&br()&br()&small(){【[[くるくるバーガー>>カイリキバーガー]]】オーナー}|半グレ時代から、トーマスとは将来共に組織を立ち上げる夢を語り合っていた。&br()犯罪者としての技量だけでなく、ギャングとしての生き方を学ぶため、先に餡ブレラへ身を置いていたトーマスに続き、自身も遅れて加入した。|[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/c/TOPinclude]]|
+|&ruby(あるふぉーと　うぇすかー){&b(){[[アルフォート　ウェスカー]]}}&br()&image(width=70,height=70,wesker.png)|2023/06/13|Boss&br()&br()&small(){研究者&br()第二代ロスサントス[[市長]]}|元 特殊部隊 Baby S.T.A.R.S.。総合的に優れた戦闘能力を持ち、彼1人で戦闘員10人分の戦力を持つともいわれる。&br()好戦的なメンバー達を従える&b(){組織の絶対的ボス}。普段は丁寧な口調で冷静に見えるが、実は感情で動くタイプである。&br()無類のギャンブル好きで、α世界線では9時間以上カジノに入り浸ったことも。&br()おきる的呼び方｢&b(){パパ}｣|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/gocchanmikey]]&br()[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting}>>https://twitcasting.tv/_gocchan_/]]|
+|&ruby(すけばん　かれん){&b(){[[栖家幡　華憐]]}}&br()&image(width=70,height=70,karen.png)|2023/06/13|UnderBoss|訛りのある話し方が特徴の女性。&br()餡ブレラの&b(){クラフト・物資管理担当}で、内政面では[[ボス>アルフォート　ウェスカー]]から絶大な信頼を置かれている。&br()結成当初から組織を大きく支える"縁の下の力持ち"的存在で、18歳ながらメンバーからは「ママ」と呼ばれ慕われている。&br()ハウジングを嗜んでおり、双子の兄[[華月>西蓮寺　華月]]と共に各拠点の内装を手掛けている。珍しい盗難車が大好き。&br()おきる的呼び方｢&b(){かれんおねえちゃん}｣｜&b()くまちゃん的呼び方｢&b(){かれっぴー}｣|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/suzune_rabbit]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@suzune_rabbit]]|
+|&ruby(あーもんど　さらざーる){&b(){[[アーモンド　サラザール]]}}&br()&image(width=70,height=70,hunk.png)|2023/06/13|UnderBoss&br()&br()&small(){研究者}|通称「&b(){ハンク}」。S(シュガー)ウイルスによる世界征服を企て、[[博士>アレクサンダー　アイスボックス]]と共に街に来た研究員。&br()メンバーの&b(){教育担当}。大型ミッションではIGL役として指揮を取り、戦闘の最前線で活躍する。&br()優しい性格だが腕は非常に立ち、「何でもできる天才」を自称する自信家。&br()ロスサントスの地理に明るく、持ち前の高い運転技術でカーチェイスにおいて彼の右に出るものは居ない。|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/hiiro_vt]]|
+|&ruby(あれくさんだー　あいくぼっくす){&b(){[[アレクサンダー　アイスボックス]]}}&br()&image(width=70,height=70,hakase.png)|2023/06/13|UnderBoss&br()&br()&small(){研究者}|通称「&b(){博士}」。研究員で[[ハンク>アーモンド　サラザール]]の部下。餡ブレラの&b(){製薬担当}。&br()自作の試薬で人体実験を行っており、時には自身の体をも実験台にする。研究のためなら苦労を厭わず、地道な素材集めも率先してこなす。&br()メンバーからは「ジジイ」などと年寄り扱いされることも。&br()[[ボス>アルフォート　ウェスカー]]と姿を見間違われやすいため、区別のために普段は[[くまちゃん>メリー　クロース]]が選んだサンタ帽を被っている。&br()おきる的呼び方｢&b(){じいじ}｣｜くまちゃん的呼び方｢&b(){おじいちゃん}｣|[[&font(#C9243A){&icon_fa(fa fa-youtube-play)YouTube}>>https://www.youtube.com/@feco]]|
+|&ruby(ありさか　　ほまれ){&b(){[[有坂　誉]]}}&br()&image(width=70,height=70,arisaka1.png)|2023/06/14|UnderBoss|ギャング「[[LWGP]]」「[[GATO]]」の元構成員で、元闇医者。個人医[[そす>いわさき　そす]]の師匠にあたり、現在に至る個人医(闇医者)の祖でもある。&br()半グレ時代の[[ウェスカー>アルフォート　ウェスカー]]の犯罪仲間で、組織設立前から最初にスカウトされていた人物。&br()α世界線では[[闇車両協会]]会長を務める街一番の車泥棒で、日課としているブースティングはSランクだった。&br()犯罪に精通しており、豊富な知識と経験で活動をアシストするチームの参謀的存在。|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/nishina_gin]]|
+|&ruby(じぇいく　れでぃんとん){&b(){[[ジェイク　レディントン]]}}&br()&image(width=70,jake_s3.png)|2023/06/18|UnderBoss|元ギャングの男性。戦闘能力が高く、チェイスにも長けている。 &br()トーマス的呼び方｢&b(){イクセン}｣|[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@RENTONGAMES]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/rentongames]]|
+|&ruby(めりー　くろーす){&b(){[[メリー　クロース]]}}&br()&image(width=70,height=70,merry.png)|2023/06/18|UnderBoss|通称「&b(){くまちゃん}」。メンバー皆に愛されている餡ブレラの癒し枠。&br()餡ブレラの&b(){くま担当}。かわいらしい雰囲気ながら銃撃戦の腕はピカイチ。 &br()市民にギャングであることは隠しており、普段は「くまさんじゃないよ」という偽名で通している。&br()おきる的呼び方｢&b(){くまおねえちゃん}｣|[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@NicolaClaes/live]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/nicola_claes]]|
+|&ruby(くずみね　せいしろう){&b(){[[九頭峰　誠士郎]]}}&br()&image(width=70,height=70,kuzumine.png)|2023/07/08|UnderBoss|通称「&b(){グラマス}」。α世界線時代、モンスター収集ゲーム「コレグラ」を極めていたことからグラマス(グラモンマスター)と呼ばれている。&br() (自称)餡ブレラの&b(){野良猫担当}。普段は[[ボス>アルフォート　ウェスカー]]の計らいで組織の枠に囚われず自由に活動しているが、&br()犯罪や戦闘をそつなくこなしてみせるなど、ポテンシャルを秘めている。&br()[[博士>アレクサンダー　アイスボックス]]の試薬が掛かったペンギンマスクを被ると、[[ある人物>篠崎　ケイ]]の魂が身体に憑依する。&br()くまちゃん的呼び方｢&b(){くずぴ}｣|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/sino_1]]|
+|&ruby(くま　ごりら){&b(){[[クマ　ゴリラ]]}}&br()&image(width=70,height=70,kuma.png)|2023/07/15|Manager|顔がクマで体がゴリラの男性。&br()[[博士>アレクサンダー　アイスボックス]]の開発した試薬を飲むと一時的に人間の姿に戻ることができる。&br()[[ボス>アルフォート　ウェスカー]]も認める組織一忠誠心の高い人物で、怒らせると一番怖い。その様子は『&b(){本職}』『その筋の人』と例えられるほど。&br()元タクシー運転手(運び屋「[[菖光會]]」)で、車両・ヘリ共に巧みな操縦技術を持つ。&br()おきる的呼び方｢&b(){ごりら}｣|[[&font(#6441A4){&icon_fa(fa fa-twitch) Twitch}>>https://www.twitch.tv/holoyoisan_jp]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@HOLOYOISAN_JP]]|
+|&ruby(にゃんこ　すきー){&b(){[[ニャンコ・スキー]]}}&br()&image(width=70,height=70,nyanko2.png)|2023/08/10|Recruit&br()&br()&small(){[[タクシー>https://w.atwiki.jp/streamergta5/pages/3420.html]]運転手}|犯罪系ストリーマー。ロシア出身(日本産まれ日本育ち)で、流暢なスペイン語を話す。起床時の挨拶は「[[ニャンコ・スキー]]、出社しました！」&br()餡ブレラの&b(){バーサーカー担当}。撃ち合いが大好き。特に対人戦を得意とし、さらには車両やヘリの操縦にも長ける。&br()持ち前の愛想のよさでギャングや白市民を問わず交友関係が広く、市民交流の裏では街の情報を細やかに収集する諜報員として暗躍する。&br()くまちゃん的呼び方｢&b(){にゃんたろう}｣｜トーマス的呼び方｢&b(){ニャンさん}｣|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/getmanuel]]&br()[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting}>>https://twitcasting.tv/get_shiba]]|
+|&ruby(ななせ　ぜろ){&b(){[[七瀬　ぜろ]]}}&br()&image(width=70,height=70,zero1.png)|2023/09/08|Recruit&br()&br()&small(){研究者}|マフィア「[[GoodbyeCircus]]」の元団員。&br()爆発、クスリ、この街のありとあらゆるものを研究している(自称)研究員で、餡ブレラで作っている薬にも興味津々である。[[まいみー>あいまいみー]]の彼氏。&br()おきる的呼び方｢&b(){ぜろにい}｣|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/zeronana07ch]]|
+|&ruby(さいれんじ　かげつ){&b(){[[西蓮寺　華月]]}}&br()&image(width=70,height=70,kagetsu.png)|2023/09/10|Recruit|[[華憐>栖家幡　華憐]]の双子の兄。西蓮寺は父方、栖家幡は母方の苗字。メンバーからも親しみを込めて「お兄ちゃん」「にいに」と呼ばれている。&br()チェイスや戦闘能力にはメンバーからの信頼も厚く、銃撃戦も得意。ボスが留守の時期には「餡防衛にいに」として自主的に組織を守る活動をしている。&br()餡ブレラの&b(){ハウジング/お兄ちゃん担当}。自他共に認める重度のシスコン。&br()兄妹揃ってハウジングのセンスが抜群で、新拠点のハウジングを一手に担ったこともある。&br()クルード的呼び方「&b(){아저씨(アジョシ)}」|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/koumai_jp]]|
+|&ruby(さけずき　すん){&b(){[[酒槻　すん]]}}&br()&image(width=70,height=70,sun2.png)|2023/09/22|Recruit|餡ブレラの&b(){あざとい担当}で、メンバーから愛される後輩キャラ。&br()真面目で努力家。ボスへの忠誠心が高く、非常に義理堅い。普段身に付けている特徴的な単眼マスクは、本人曰く「これが素顔」。&br()[[りえる>刃牙　りえる]]の格闘の師匠で彼氏。|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/tutti_fps]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@TUTTITV1]]|
+|&ruby(ばき　りえる){&b(){[[刃牙　りえる]]}}&br()&image(width=70,height=70,rieru.png)|2024/02/11 |Recruit|[[すん>酒槻 すん]]の弟子で彼女。真面目で努力家。&br()声色を変えるのが得意で、変装次第ではメンバーですら誰かわからなくなるほどの別人になれる。&br()おきる的呼び方｢&b(){りえるおねえちゃん}｣|[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@riel_momozono]]&br()[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/riel_momozono]]|
+|&ruby(いなば　ごん){&b(){[[稲葉　ゴン]]}}&br()&image(width=70,height=70,gon.png)|2024/04/23|Recruit&br()&br()&small(){【[[after U]]】店員}|元ヤクザ(親背組)で、ギャング「[[IRiS]]」の元構成員。&br()コスプレや声真似に長ける。組織のムードメーカーで、周囲への気遣いを欠かさない優しい性格の持ち主。&br()[[IRiS]]時代から大型のIGLを任されるなど現場経験が豊富で、単独でもサポートにおいても一流の戦闘能力を持つ。&br()おきる的呼び方｢&b(){ごんちゃ}｣|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/d175]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@iNAGON175]]|
+|&b(){[[あいまいみー]]}&br()&image(width=70,height=70,maimi.png)|2024/05/18&br()&small(){専属個人医&br()→2023/09/08〜2024/05/17}|Recruit|元餡ブレラ専属個人医で、[[そす>いわさき　そす]]の一番弟子。[[ぜろ>七瀬　ぜろ]]の彼女。|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/suzunemaimu]]|
+|&ruby(やどなし　おきる){&b(){[[宿無　おきる]]}}&br()&image(width=70,height=70,okiru.png)|2024/05/19|Recruit|[[ウェスカー>アルフォート　ウェスカー]]の娘。血は繋がっていない。|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/hatsukaneru]]|
+|&ruby(おざわ　はやまさ){&b(){[[オザワ　ハヤマサ]]}}&br()&image(width=70,height=70,ozawa.png)|2024/06/13|Recruit&br()&br()&small(){【[[after U]]】店員}|ギャング「[[IRiS]]」の元構成員。ヘリの操縦は自他共に認めるほどの実力を持つ。&br()同じく元[[IRiS]]の[[ゴン>稲葉　ゴン]]と非常に親しく、この2人のペアはゴンオザと呼ばれている。&br()おきる的呼び方｢&b(){おじさん}｣ |[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://www.twitch.tv/zawakun47]]|
+|&ruby(やまだ　じぇいみー){&b(){[[山田　ジェイミー]]}}&br()&image(width=70,height=70,jamie.png)|2025/05/06&br()&br()&br()&br()&br()2025/06/12 脱退&br()&small(){※再加入日不明}|Recruit|元「[[SGPD>ロスサントス警察]]」。大のねずみ好きで、変装時はねずみの覆面を被っている。&br()ウイルス実験目前に潜入捜査を目的とした組織加入を告白し除名を受けたが、別の街での餡ブレラによる洗脳・記憶改竄により再加入した。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/james_yjt]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/@JAMES-YJT]]|
+|&ruby(えすたーく・ぜっと・だーくねす){&b(){[[エスターク・Z・ダークネス]]}}&br()&image(width=70,height=70,esu.png)|2025/05/16|Recruit&br()&br()&small(){【[[わんも〜Cafe]]】店員}|ギャング「[[ALLIN]]」の元構成員。通称「&bold(){エスちゃん}」。ALLIN解散後は半グレとして過ごしてきたが、&br()[[ウェスカー>アルフォート　ウェスカー]]から「暇ならウチ来るか？」と勧誘を受け、餡ブレラで「街の根柢をぶっ壊したい」と加入を決意した。&br()街に来て長い人物で元々は男性だったが、いろいろあって棒と玉を失い女性化してしまった。&br()元の姿に戻るために奮闘しているが、ウェスカーらからはそのままでいろと言われている。&br()ヘリの操縦や状況報告は餡ブレラの構成員も「めちゃくちゃいい」というほどの腕前の持ち主。立ち振る舞いがやんちゃな「クソガキーズ」の1人。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/darkzelk]]|
+|&ruby(ちはや　かい){&b(){[[千早　カイ]]}}&br()&image(width=70,height=70,kai.png)|2026/04/11|Recruit&br()&br()&small(){[[タクシー>https://w.atwiki.jp/streamergta5/pages/3420.html]]運転手}&br()&small(){【[[わんも〜Cafe]]】店員}|元半グレ。犯罪をしている時にウェスカーと出会い「チンピラ」と呼ばれ目をかけられていた。&br()ボス直々の勧誘で加入し、銃撃戦に長ける戦闘員として活躍している。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kohal_iv]]|
+|&ruby(ぜふあ　とーます){&b(){[[ゼフア　トーマス>トーマス]]}}&br()&image(width=70,height=70,thomas.png)|2026/04/25|Recruit&br()|元半グレ。多くの組織から戦闘能力を高く評価され勧誘を受けていたが、決め手がないまま半グレとして活動していた。&br()将来的に自組織の設立を考え始めていたところ、『ボスとしての勉強としてでも構わない』という条件を提示され、所属を決める。&br()立ち振る舞いがやんちゃな「クソガキーズ」の1人。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/zepher]]|
+|&b(){[[いわさき　そす]]}&br()&image(width=70,height=70,so5u.png)|2024/09/08&br()&small(){専属個人医&br()→2023/09/08〜2024/05/17}&br()&br()2025/06/13 離籍&br()2026/05/02 復帰|Recruit&br()&br()&small(){[[タクシー>https://w.atwiki.jp/streamergta5/pages/3420.html]]運転手}|元個人医。闇医者時代の[[有坂>有坂　誉]]の弟子で、戦況を打開するこの街トップクラスの逃走補助と救助技術で"そす神"と呼ばれていた。&br()誰よりも思想がギャングで、[[ボス>アルフォート　ウェスカー]]からギャングとしての&b(){教育係}に任命されるほど厚い信頼を置かれている。&br()25/06/13、ボスとほとんどの構成員が街を去った後も街に残り、[[NO LIMIT]]に加入。γ世界線でNO LIMIT解散に伴い、組織に復帰した。|[[&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}>>https://twitch.tv/so5u]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@so5u962/]]|
+|&ruby(はく　なつめ){&b(){[[ハク　ナツメ>ハク　ナツメ]]}}&br()&image(width=70,height=70,natsume2.png)|2023/09/18&br()&br()&br()2023/12/23 脱退&br()2026/05/07 復帰|Recruit&br()&br()&small(){【[[わんも〜Cafe]]】店員}|元「[[SGPD>ロスサントス警察]]」。ウェスカーからの勧誘を受けて組織で経験を積み、ギャング「[[concellge]]」を設立。自組織解散後はギャング「[[NO LIMIT]]」に所属していた。&br()ウェスカーに[[NO LIMIT]]の解散報告をした際、以前餡ブレラを脱退した時と同じ「いつでも戻ってきていい」という言葉を受ける。&br()しばらく半グレとして進路を模索する時間をもらったが、組織のために尽くす生き方が自分に合っていると再確認し、約2年4か月ぶりに餡ブレラへ復帰した。&br()状況判断能力に長けており、戦闘時には優秀なIGLとして活躍する。&br()クソガキーズのお兄さん的存在だが、彼もまたクソガキな一面を持つ。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/natsume_sennsei]]&br()[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/@natsumesensei_VT/streams]]|
+|&ruby(あうと　くるーど){&b(){[[アウト　くるーど>アウト　くるーど]]}}&br()&image(width=70,height=70,clude.png)|2026/05/30|Recruit&br()&br()&small(){【[[くるくるバーガー>>カイリキバーガー]]】オーナー}|元半グレ。半グレ時代から、トーマスとは将来共に組織を立ち上げる夢を語り合っていた。&br()犯罪者としての技量だけでなく、ギャングとしての生き方を学ぶため、先に餡ブレラへ身を置いていたトーマスに続いて自身も加入した。&br()他組織にも一目置かれるほどの高い戦闘能力を持つ。立ち振る舞いがやんちゃな「クソガキーズ」の1人。|[[&font(#C9243A){&icon_fa(fa fa-youtube-play) YouTube}>>https://www.youtube.com/c/TOPinclude]]|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFF}}
 &font(10px){ *1「No.」は加入日順です}
 &font(10px){ *2🎖️カラーギャング}
 //メンバーの変更があれば「参加者一覧」、「ギャング」等への反映もお願いします
+
+#co{
 //▼下書き--------------------------------------------
 
 ***&icon_fa(fa fa-handshake-o)&space()&underdot(#99000D,2px){協力関係}
@@ -173,10 +159,11 @@
 #table_sorter{even=#F7F7F7,odd=#FFF}}
 &font(10px){ *「No.」は脱退日順です}
 #endregion
+}
 
 *&font(#FFFFFF){&icon_fa(fa-solid fa-images)} ギャラリー
 //▼制服・衣装----------------------------------------
-***&icon_fa(fa fa-street-view)&space()&underdot(#99000d,2px){制服・衣装}
+***&icon_fa(fa fa-street-view)&space()&underdot(#99000d,2px){制服・衣装(SEASON1)}
 #table_color(head=#f5f5dc)
 |~&blankimg(whitecoat.jpeg,x=95,y=200)&br()&icon_fa(fa fa-female)&space()白衣|~&br()&br()&br()&br()募集中&br()&br()&br()&br()&br()&icon_fa(fa fa-female)&space()白衣|~&blankimg(red suit_wesker.JPG,x=95,y=200)&br()&icon_fa(fa fa-male)&space()赤スーツ|~&blankimg(red suit_karen.JPG,x=95,y=200)&br()&icon_fa(fa fa-female)&space()赤スーツ|
 |~&blankimg(craft_kumagori.JPG,x=95,y=200)&br()&icon_fa(fa fa-male)&space()クラフト|~&blankimg(blackbattleozawa.jpeg,x=95,y=200)&br()&icon_fa(fa fa-male)&space()戦闘服(黒)|~&blankimg(blackbattle_karen.jpeg,x=95,y=200)&br()&icon_fa(fa fa-female)&space()戦闘服(黒)|~&blankimg(area_wesker.jpeg,x=95,y=200)&br()&icon_fa(fa fa-male)&space()シマ取り服|
@@ -188,7 +175,7 @@
 
 *&font(#FFFFFF){&icon_fa(fa fa-map-marker)} 拠点
 #div(width=400px,bgcolor=#99000D){&font(16px,b,#FFFFEB){&space()SEASON1}}
-[[SEASON1の餡ブレラ拠点>https://w.atwiki.jp/streamergta5/pages/3651.html]]についてはこちら
+[[SEASON1の餡ブレラ拠点>https://w.atwiki.jp/streamergta5/pages/3651.html]]はこちら
 
 #div(width=400px,bgcolor=#99000D){&font(16px,b,#FFFFEB){&space()SEASON2}}
 #size(90%){#table_filter(){No.=show,番地=show,場所=hide,通称=show,管理=hide,備考=show}
@@ -334,6 +321,9 @@
 ***ぐぎぎ！
 悔しさを感じたときに[[華憐>栖家幡　華憐]]の口からもれる言葉。よく[[わきを>キャプテン　わきを]]にイジられている。
 関連語：ぐぎぎザウルス
+***クソガキーズ
+主に[[エスターク>エスターク・Z・ダークネス]]、[[トーマス]]、[[くるーど>アウト　クルード]]からなる3人の総称。悪ふざけが好きでノリが良く、子どものようにやんちゃな掛け合いをすることからこう呼ばれるようになった。次点で[[ナツメ>ハク　ナツメ]]、[[ジェイク>ジェイク　レディントン]]が加わることもある。
+クソガキ度･･･[[エス>エスターク・Z・ダークネス]] = [[トーマス]] > [[くるーど>アウト　くるーど]] >> [[ナツメ>ハク　ナツメ]] = [[ジェイク>ジェイク　レディントン]]
 ***クソ緑報告ノート
 [[おきる>宿無　おきる]]がスマホに書いているメモ。クソ緑([[わきを>キャプテン　わきを]])にされた嫌なことを細かにメモしては[[パパ>アルフォート　ウェスカー]]にチクっている。
 ***クリスマスメドレー
@@ -361,7 +351,7 @@
 ***13人ニキ
 [[稲葉ゴン>稲葉　ゴン]]のこと。対[[NO LIMIT]]抗争の最終決戦で、相手構成員を13人抜きして勝利に貢献した功績を讃えてこう呼ばれた。
 ***&ruby(ｽﾗｯｼｭ ｲｰ ｽﾍﾟｰｽ ﾀｲﾌﾟ){/e type}
-「今から麻雀やっちゃう？」と、こっそり誘う秘密の&infobox(title=エモート,trigger=click,gravity=north,size=small,animation=flipin,url=[[https://img.atwiki.jp/streamergta5/attach/553/3121/e%20type_mah-jongg.JPG>https://img.atwiki.jp/streamergta5/attach/553/3121/e%20type_mah-jongg.JPG]]。)
+「今から麻雀やっちゃう？」と、こっそり誘う秘密のエモート。
 ***せせり
 鳥の首周りの肉のこと。小肉とも呼ばれる。1羽からわずかしか取れない希少部位で、弾力のあるコリコリとした食感と脂の乗った濃厚な旨みが特徴。&br()この肉を馬鹿にした者は、[[ボス>アルフォート　ウェスカー]]から制裁を下される。時には抗争の火種となることも。
 ***ぜぃぜぃぜぃあーざーずあーざーずー
@@ -370,6 +360,8 @@
 //▼た行---------------------------------------------
 ***ダイスポーカー
 [[ハンク>アーモンド　サラザール]]が考案したチンチロに代わるダイスゲーム。1回にサイコロを5個振り、出た手役で勝敗を決める。手役の強さはポーカーのルールに準ずる。
+***ちっちゃい唐辛子
+「小さい唐辛子が辛い(작은 고추가 맵다)」という韓国のことわざから取った、[[オザワ>オザワ　ハヤマサ]]の呼び名の一つ。ぴりりと辛い、侮れない男。
 ***ちねる
 クスリを精製すること。
 関連語：ちねちね
@@ -673,25 +665,26 @@
 
 *&font(#FFFFFF){&icon_fa(fa fa-book)} 歴史
 &aname(餡抗争)
-***&icon_fa(fa-solid fa-gun)&space()&underdot(#99000D,2px){抗争戦績}&space(3)【15戦／9勝6敗】
-#size(90%){#table_filter(){日付=show,抗争相手=show,写真=hide,勝敗=show,抗争内容=show,落とし前=hide,詳細=show}
+***&icon_fa(fa-solid fa-gun)&space()&underdot(#99000D,2px){抗争戦績}&space(3)【16戦／10勝6敗】
+#size(90%){#table_filter(){日付=show,抗争相手=show,写真=hide,勝敗=show,抗争内容=show,落とし前=hide,詳細=show,きっかけ=hide}
 #table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){写真=center,勝敗=center:bold}
-|~日付|~抗争相手|~写真|~勝敗|~抗争内容|~落とし前|~詳細|h
-|2023/06/21〜23|[[MOZU]]|&blankimg(5013_byMerry.JPG,width=144,height=81)|&color(#F54738){勝利}|市街地銃撃戦|[[MOZU]]→シマ(Rockford Hills)|市街地でクスリ売買+相手ギャング制圧で、シマの忠誠心をより多く稼いだ組織の勝利。|
-|2023/08/25|[[MOZU]]||&color(#F54738){勝利}|ステゴロ|[[MOZU]]→シマ(Vespucci Canals)|勝ち抜き形式のステゴロ。|
-|2023/09/05|[[MOZU]]／[[GBC>GoodbyeCircus]]&br()[[IRiS]]／[[ALLIN]]||敗北|車両レース|各ギャング→5000万を[[MOZU]]へ&br()[[MOZU]]→シマ(Strawberry)|[[MOZU]]主催の違法レース。コースはRoad to Dragonを使用。&br()1位：[[ALLIN]]|
-|2023/10/01|[[ALLIN]]||&color(#F54738){勝利}|水上ボート銃撃戦|[[ALLIN]]→3億円|湖の船上でBO3（2本先取）。|
-|2023/11/28|[[MOZU]]||&color(#F54738){勝利}|車両レース／銃撃／ステゴロ|[[MOZU]]→メガロバニア1500個|2v2による3番勝負。|
-|2024/03/20|[[MOZU]]|&blankimg(240320_byOkawa2.JPG,width=144,height=81)|&color(#F54738){勝利}|市街地銃撃戦|[[MOZU]]→5億円|テディベア争奪戦。最後にテディベアを持っていた組織の勝利。|
-|2024/09/12|[[MOZU]]／[[GBC>GoodbyeCircus]]|&blankimg(240912.jpeg,width=144,height=81)|&color(#F54738){勝利}|市街地銃撃戦|[[MOZU]]→10億円+[[山田カイキ>山田　カイキ]]脱退&br()[[GBC>GoodbyeCircus]]→[[ウェスカー>アルフォート　ウェスカー]]オリジナル曲|ドッグタグ争奪戦。相手ギャングが持つドッグタグをより多く奪取した組織の勝利。&br()1位：餡ブレラ(45枚)／2位：[[MOZU]](27枚)／3位：[[GBC>GoodbyeCircus]](4枚)|
-|2024/10/11|[[ALLIN]]||敗北|市街地銃撃戦|[[ウェスカー>アルフォート　ウェスカー]]、[[わきを>キャプテン　わきを]]が1週間[[ALLIN]]に従事|コイン争奪戦。相手ギャングが持つコインをより多く奪取した組織の勝利。&br()[[ALLIN]]：70枚、餡ブレラ：15枚|
-|2025/01/03|[[ALLIN]]||敗北|市街地銃撃戦|1か月間の大型ミッション受注優先権+30億円|徒歩のみ一人称視点、北の街(1074〜1014)での殲滅戦。|
-|2025/02/13|[[ALLIN]]||敗北|市街地銃撃戦|2週間の大型ミッション受注優先権|殲滅戦。|
-|2025/05/09|[[MOZU]]|&blankimg(250509_byOkawa.jpeg,width=144,height=81)|敗北|銃撃戦|餡ブレラ製の試薬の被験体になる|1v1の勝ち抜き形式。開始の合図を聞いてからローリング&振り向きで始める。|
-|2025/05/17|[[NO LIMIT]]|&blankimg(https://img.atwiki.jp/streamergta5/attach/1726/20072/2505171.webp,width=144,height=81)|&color(#F54738){勝利}|市街地銃撃戦|1週間ギャング活動禁止(半グレになる)|テディベア争奪戦。最後にテディベアを持っていた組織の勝利。&br()前後半3時間の結果同点のため、1v1勝ち抜き形式の3戦目を実施。|
-|2026/03/20|[[NOVA FAMILIA]]||敗北|銃撃戦|餡ブレラのカラー譲渡＋バイオテロの詳細情報。|1v1の勝ち抜き形式。開始の合図を聞いてからローリング&振り向きで始める。|
-|2026/06/17&br()2026/06/18|[[NOVA FAMILIA]]||&color(#F54738){勝利}|市街地銃撃戦|奪った武器は終了後にNOVA FAMILIAに返却。実質NOVA FAMILIAからの落とし前は無く、武器屋に恩を売る形で終了。|ダウンさせ相手から銃を奪い合う。NOVA FAMILIA側の所持する武器がなくなった事で終了。|
-|2026/07/05|[[NOVA FAMILIA]]||&color(#F54738){勝利}|市街地銃撃戦|1億円＋上田の人体実験。|コンテナ群による殲滅戦。|
+|~日付|~抗争相手|~写真|~勝敗|~抗争内容|~落とし前|~詳細|~きっかけ|h
+|2023/06/21〜23|[[MOZU]]|&blankimg(5013_byMerry.JPG,width=144,height=81)|&color(#F54738){勝利}|市街地銃撃戦|[[MOZU]]→シマ(Rockford Hills)|市街地でクスリ売買+相手ギャング制圧で、シマの忠誠心をより多く稼いだ組織の勝利。||
+|2023/08/25|[[MOZU]]||&color(#F54738){勝利}|ステゴロ|[[MOZU]]→シマ(Vespucci Canals)|勝ち抜き形式のステゴロ。||
+|2023/09/05|[[MOZU]]／[[GBC>GoodbyeCircus]]&br()[[IRiS]]／[[ALLIN]]||敗北|車両レース|各ギャング→5000万を[[MOZU]]へ&br()[[MOZU]]→シマ(Strawberry)|[[MOZU]]主催の違法レース。コースはRoad to Dragonを使用。&br()1位：[[ALLIN]]||
+|2023/10/01|[[ALLIN]]||&color(#F54738){勝利}|水上ボート銃撃戦|[[ALLIN]]→3億円|湖の船上でBO3（2本先取）。||
+|2023/11/28|[[MOZU]]||&color(#F54738){勝利}|車両レース／銃撃／ステゴロ|[[MOZU]]→メガロバニア1500個|2v2による3番勝負。||
+|2024/03/20|[[MOZU]]|&blankimg(240320_byOkawa2.JPG,width=144,height=81)|&color(#F54738){勝利}|市街地銃撃戦|[[MOZU]]→5億円|テディベア争奪戦。最後にテディベアを持っていた組織の勝利。||
+|2024/09/12|[[MOZU]]／[[GBC>GoodbyeCircus]]|&blankimg(240912.jpeg,width=144,height=81)|&color(#F54738){勝利}|市街地銃撃戦|[[MOZU]]→10億円+[[山田カイキ>山田　カイキ]]脱退&br()[[GBC>GoodbyeCircus]]→[[ウェスカー>アルフォート　ウェスカー]]オリジナル曲|ドッグタグ争奪戦。相手ギャングが持つドッグタグをより多く奪取した組織の勝利。&br()1位：餡ブレラ(45枚)／2位：[[MOZU]](27枚)／3位：[[GBC>GoodbyeCircus]](4枚)||
+|2024/10/11|[[ALLIN]]||敗北|市街地銃撃戦|[[ウェスカー>アルフォート　ウェスカー]]、[[わきを>キャプテン　わきを]]が1週間[[ALLIN]]に従事|コイン争奪戦。相手ギャングが持つコインをより多く奪取した組織の勝利。&br()[[ALLIN]]：70枚、餡ブレラ：15枚||
+|2025/01/03|[[ALLIN]]||敗北|市街地銃撃戦|1か月間の大型ミッション受注優先権+30億円|徒歩のみ一人称視点、北の街(1074〜1014)での殲滅戦。||
+|2025/02/13|[[ALLIN]]||敗北|市街地銃撃戦|2週間の大型ミッション受注優先権|殲滅戦。||
+|2025/05/09|[[MOZU]]|&blankimg(250509_byOkawa.jpeg,width=144,height=81)|敗北|銃撃戦|餡ブレラ製の試薬の被験体になる|1v1の勝ち抜き形式。開始の合図を聞いてからローリング&振り向きで始める。||
+|2025/05/17|[[NO LIMIT]]|&blankimg(https://img.atwiki.jp/streamergta5/attach/1726/20072/2505171.webp,width=144,height=81)|&color(#F54738){勝利}|市街地銃撃戦|1週間ギャング活動禁止(半グレになる)|テディベア争奪戦。最後にテディベアを持っていた組織の勝利。&br()前後半3時間の結果同点のため、1v1勝ち抜き形式の3戦目を実施。||
+|2026/03/20|[[NOVA FAMILIA]]||敗北|銃撃戦|餡ブレラのカラー譲渡＋バイオテロの詳細情報。|1v1の勝ち抜き形式。開始の合図を聞いてからローリング&振り向きで始める。||
+|2026/06/17&br()2026/06/18|[[NOVA FAMILIA]]||&color(#F54738){勝利}|市街地銃撃戦|奪った武器は終了後にNOVA FAMILIAに返却。実質NOVA FAMILIAからの落とし前は無く、武器屋に恩を売る形で終了。|ダウンさせ相手から銃を奪い合う。NOVA FAMILIA側の所持する武器がなくなった事で終了。||
+|2026/07/05|[[NOVA FAMILIA]]||&color(#F54738){勝利}|市街地銃撃戦|1億円＋上田の人体実験。|コンテナ群による殲滅戦。||
+|2026/10/02|[[NOVA FAMILIA]]||&color(#F54738){勝利}|市街地銃撃戦|[[ゼペ・アルテミス]]の謝罪。|殲滅戦。|NOVAのギルと加入予定のゼペがハンクとトーマスと出会う。&br()餡ブレラ側が新人のゼペに挨拶代わりに殴っていいかとチョケて聞いたところギルがOKしたところ殴られたゼペがダウンしてしまう。&br()ゼペがギルと餡ブレラに対して怒りをぶつけていたところウェスカーが通りかかりウェスカーに対しても舐めた口をきいたことから抗争に発展。|
 #table_autoincrement(){label=#}
 #table_sorter(){head=#99000D,even=#FFF,repeathead=20}}
 
