@@ -170,7 +170,7 @@
 #table_sorter{even=#f7f7f7,odd=fff}
 #endregion(8月)
 //
-#region(9月,open)
+#region(9月)
 #table_style(head=center:#ffa500){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~アーカイブ|~備考|h
 |09/03|107|[[Season2 day107>>https://www.twitch.tv/videos/2864053704]]|&co(){[[&icon_fa(fa fa-youtube-play)アーカイブ>>https://youtu.be/KYwuUWTOeKw]]}||
@@ -186,8 +186,16 @@
 |09/20|116|[[Season2 day116>>https://www.twitch.tv/videos/2878260335]]|&co(){[[&icon_fa(fa fa-youtube-play)アーカイブ>>https://youtu.be/pQYtphbUd-s]]}||
 |09/24|117|[[Season2 day117>>https://www.twitch.tv/videos/2882670335]]|&co(){[[&icon_fa(fa fa-youtube-play)アーカイブ>>https://youtu.be/SF5kxb3OuVo]]}||
 |09/25|118|[[Season2 day118>>https://www.twitch.tv/videos/2883522100]]|&co(){[[&icon_fa(fa fa-youtube-play)アーカイブ>>https://youtu.be/vO8XdUmWYJc]]}||
+|09/28|119|[[Season2 day119>>https://www.twitch.tv/videos/2885400561]]|&co(){[[&icon_fa(fa fa-youtube-play)アーカイブ>>https://youtu.be/64Wo6WGAugQ]]}||
 #table_sorter{even=#f7f7f7,odd=fff}
 #endregion(9月)
+//
+#region(10月,open)
+#table_style(head=center:#ffa500){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~アーカイブ|~備考|h
+|10/01|120|[[Season2 day120>>https://www.twitch.tv/videos/2888828744]]|&co(){[[&icon_fa(fa fa-youtube-play)アーカイブ>>https://youtu.be/qDup_Flz7DU]]}||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(10月)
 //
 //twitchの動画が残っている期間はtwitchの方に誘導した方がよいのかなという意図で2か月以内のyoutubeアーカイブ非表示にしてみました。twitch動画が消えた段階(2か月経過)でお気づきの際に&co(){}の表記を消して(youtubeアーカイブ表示)くださいますと助かります。各URLは入力済みです。26/03/26keik
 #endregion(2026)
