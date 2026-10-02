@@ -7,36 +7,40 @@
 ***&size(120%){&bgcolor(#ABD3D8){&nbsp()&font(#666,90%){▷ Season2}&nbsp(48)}}
 #size(13){＜過去エピソード＞
 ◇2025年｜[[12月>文月　夏苗/S2E1#12月]]｜
-#co(){◇2026年}
+◇2026年｜[[&nbsp(2)1月>文月　夏苗/S2E1#1月]]｜[[&nbsp(2)3月>文月　夏苗/S2E1#3月]]｜[[&nbsp(2)4月>文月　夏苗/S2E1#4月]]｜[[&nbsp(2)5月>文月　夏苗/S2E1#5月]]｜
 }
-***&big(){&underdot(#99cccc,3px){&anchor(12月,option=nolink){2025年 12月}}}
+//---最新月-----------------------------
+***&big(){&underdot(#99cccc,3px){&anchor(10月,option=nolink){2026年 10月}}}
 #region(開く,open)
 
-#region(12/24　#1　[[🎬>>https://youtu.be/840E10s2I5E]])&b(){12/24　#1}　[[🎬>>https://youtu.be/840E10s2I5E]]
-#areaedit()
--エピソード募集
-#areaedit(end)
-#endregion
-
-#region(12/25　#2　[[🎬①>>https://youtu.be/RKGWTH43D6I&t=1020]]、[[🎬②>>https://youtu.be/mx9KAHCnflY]])&b(){12/25　#2}　[[🎬①>>https://youtu.be/RKGWTH43D6I&t=1020]]、[[🎬②>>https://youtu.be/mx9KAHCnflY]]
+#region(10/02　#22　[[🎬> ]],open)&b(){10/02　#22}　[[🎬> ]]
 #areaedit()
 -エピソード募集
 #areaedit(end)
 #endregion
 
 
+#endregion(最新)
+//
 #co(){^^^^^^^テンプレ^^^^^^^^^^^^
 
-#region(12/d　#　[衛星外含む]　[[🎬>>]])&b(){12/d　#}　[衛星外含む]　[[🎬>>]]
+▼region部分を触らず部分編集ができる編集ミス対策用テンプレ
+
+#region(y/d　#　[衛星外/衛星外含む]　[[🎬>]])&b(){y/d　#}　[衛星外/衛星外含む]　[[🎬>]]
 #areaedit()
 -エピソード募集
 #areaedit(end)
 #endregion
-//
-↑region部分を触らず部分編集ができる編集ミス対策用テンプレ。
 
-　[[🎬>>]]
-　&font(11px){🎬clip→[[>>]]}
+▼部分追加用
+[[🎬>]]
+&font(11px){🎬clip→[[>]]}
+
+
+^^^^^^運用^^^^^^^
+・最新日のエピソードregionのみopen
+・エピソードの存在する最新月のみ表示。
+・更新され次第、番号付きのエピソードページへリンクを記載し格納。
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^}
-#endregion()
+//
