@@ -6,6 +6,7 @@
 |~業種|~&icon_fa(fa fa-wine-bottle)|飲食店：Bar|
 |~開業日|~&icon_fa(fa fa-flag)|2026年mm月dd日&space()&small(){（&countup(2026/10/01,yd)経過）}|
 |~所在地|~&icon_fa(fa fa-map-marker)|7176番地|
+|~融資|~&icon_fa(fas fa-hand-holding-usd)|[[BJローン]]|
 |~店長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[野間]]}|
 //開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
 
@@ -57,10 +58,12 @@
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=show}
 #table_style(head=#E0E0E0){No.=center,価格=right}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|h
-|Food|銀シャリ|3000円|yyyy/mm/dd|説明|
-|Drink|牛乳|3000円|yyyy/mm/dd|説明|
-|Joint|白のハンドスピナー|3000円|yyyy/mm/dd|説明|
+|Food|銀シャリ|5000円|yyyy/mm/dd|説明|
+|Drink|牛乳|5000円|yyyy/mm/dd|説明|
+|Joint|白のハンドスピナー|5000円|yyyy/mm/dd|説明|
+|Joint|マッサージ用の棒（裏メニュー）|5000円|yyyy/mm/dd|説明|
 計算が面倒なため最低価格
+2026/10/03他店との足並みを揃えるため3000→5000円に値上げ
 //|種類|商品名|価格|yyyy/mm/dd|説明|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
@@ -92,6 +95,9 @@
 #table_filter(){関係者=hide,エピソード・備考=show}
 #table_style(head=#E0E0E0)
 |~日付|~出来事|~関係者|~エピソード・備考|h
+|06/24|BJローンから融資の話を聞く|[[野間]]、[[三否亭　四五六確]]||
+|07/17|店舗の場所が決定||BJローン融資のもと6000万で店舗地決定|
+|09/02|内装が完成||ハウジングは[[山田　パルコ]]が受け持った|
 |09/30|job付与|[[野間]]、[[天羽　よつは]]|　|
 |10/01|オープン||オープン告知をほぼせずにオープン最初の来客は30分後。&s(){偶然にも別の街の営業日と同日に営業開始した}|
 //|mm/dd|出来事|関係者|エピソード・備考|
