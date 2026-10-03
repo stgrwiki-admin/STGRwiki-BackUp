@@ -411,6 +411,12 @@
 #region(開く,close)閉じる
 -エピソード募集中
 #endregion
+//
+----
+****10/02 [[メッセージ 37日目>>https://www.youtube.com/live/6R1pttKYfC0]] &small(){[[Part2>>https://www.twitch.tv/videos/2889893572]]}
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion
 
 #areaedit(end)
 #endregion(10月)
@@ -481,12 +487,15 @@
 #endregion(9月)
 //
 #region(10月,open)
+#areaedit
 #table_filter(){Twitch=hide}
 #table_style(head=center:#C8A2C8:#fff){配信日=right,#=center, Twitch=center}
 |~配信日|~#|~配信タイトル|~Twitch|~備考|h
 |26/10/01|36|[[結局仕事仕事仕事>>https://www.youtube.com/live/PQ9kwZkiAyU]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2888835690]]||
+|26/10/02|37|[[メッセージ>>https://www.youtube.com/live/6R1pttKYfC0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2889764804]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2889893572]]|
 //|26/10/dd|n|[[タイトル>>URL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]||
 #table_sorter{even=#F7F7F7,odd=fff}
+#areaedit(end)
 #endregion(10月)
 //
 #co{
