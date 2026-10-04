@@ -1,6 +1,13 @@
 *&color(#FFFFFF){&font(#C6ABB8){&icon_fa(fa fa-user)} プロフィール}
 #slide_img(auto=3,width=290,height=490){テクス・ギルベルト_初期.jpg,テクス・ギルベルト_NOVA FAMILIA_赤.jpg}
 //&image(テクス・ギルベルト_初期.jpg,y=400)
+//
+#region(キャラクターイラスト)閉じる
+
+#slide_img(auto=3,width=400,height=225){テクス・ギルベルト_キャラクターイラスト.JPG,テクス・ギルベルト_キャラクターイラスト2.JPG}
+|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[ポスト1>>https://x.com/GillTeX_Twitch/status/2015786005702541780?s=46]]|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[ポスト2>>https://x.com/GillTeX_Twitch/status/2104481328280514970?s=46]]|
+
+#endregion
 
 //ここからプロフィール
 #table_style(head=#C6ABB8:#666666){}
@@ -304,7 +311,7 @@
 |08/30|145|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギルベルト day145 ドパガキor眠り>>https://m.twitch.tv/videos/2860545749]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(8月)
-#region(9月,open)&bold(){9月}
+#region(9月)&bold(){9月}
 #table_style(head=center:#C6ABB8){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~YouTube版|~備考|h
 |09/02|146|&font(#6441A4){&icon_fa(fa fa-twitch)}[[ギルベルト day146 ノヴァ集合？>>https://m.twitch.tv/videos/2863178757]]|||
@@ -318,14 +325,23 @@
 |09/17|154|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY155】ブドウ姫暴れます！抗争だ！>>https://m.twitch.tv/videos/2876446857]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=Mqu-dV7cWQk]]||
 |09/18|155|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY156】闘いを教えたい>>https://m.twitch.tv/videos/2877312220]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=EGc5tTtdcyY]]||
 |09/19|156|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY157】ちょっとお金やばいかも？>>https://m.twitch.tv/videos/2878244232]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=VhkLhFeeD6M]]||
-|09/20|157|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY158】鬼チェイスLvUP！>>https://m.twitch.tv/videos/2879189340]]|||
-|09/23|158|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY159】I.N.A.F.U>>https://m.twitch.tv/videos/2881782339]]|||
-|09/24|159|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY160】少ししたら寝る>>https://m.twitch.tv/videos/2882664784]]|||
-|09/25|160|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY161】俺は、俺を知らない>>https://m.twitch.tv/videos/2883485250]]|||
-|09/26|161|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY162】僕の言う事を聞いてね>>https://m.twitch.tv/videos/2884412729]]|||
-|09/27|162|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY163】支えるとは？>>https://m.twitch.tv/videos/2885363754]]|||
+|09/20|157|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY158】鬼チェイスLvUP！>>https://m.twitch.tv/videos/2879189340]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=n99oo1SqBtM]]||
+|09/23|158|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY159】I.N.A.F.U>>https://m.twitch.tv/videos/2881782339]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=7wvMmC2KjLQ]]||
+|09/24|159|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY160】少ししたら寝る>>https://m.twitch.tv/videos/2882664784]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=WaIlzVgR77c]]||
+|09/25|160|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY161】俺は、俺を知らない>>https://m.twitch.tv/videos/2883485250]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=JGkLEVHVmNM]]||
+|09/26|161|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY162】僕の言う事を聞いてね>>https://m.twitch.tv/videos/2884412729]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=5moTLQ3fi2U]]||
+|09/27|162|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY163】支えるとは？>>https://m.twitch.tv/videos/2885363754]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=dJXjMn8lLqg]]||
+|09/30|163|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY164】調達と研究>>https://m.twitch.tv/videos/2887965118]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=hgjphEPiaF0]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(9月)
+#region(10月,open)&bold(){10月}
+#table_style(head=center:#C6ABB8){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~YouTube版|~備考|h
+|10/01|164|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY165】上田どうなった？>>https://m.twitch.tv/videos/2888823065]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=FJ34Eq3R17I]]||
+|10/02|165|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY166】上田あばよ！>>https://m.twitch.tv/videos/2889672570]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=HxnRAzarWkU]]||
+|10/03|166|&font(#6441A4){&icon_fa(fa fa-twitch)}[[【 ストグラSeason2 /DAY167】早めに寝るよ！明日はお出かけ>>https://m.twitch.tv/videos/2890611792]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[YouTube版>>https://m.youtube.com/watch?v=mi7ULTe2A2s]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(10月)
 *&color(#FFFFFF){&font(#C6ABB8){&icon_fa(fa-brands fa-youtube)} 動画}
 ***&size(17){[[&font(#DA1725){&bold(){&icon_fa(fa fa-solid fa-youtube-play) YouTube動画再生リスト}}>>https://m.youtube.com/playlist?list=PLlNWvmBzHg7EWJbHPNkmlDiZJyEq_9NGY]]}
 ***&size(17){切り抜き動画}

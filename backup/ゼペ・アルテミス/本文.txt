@@ -784,13 +784,13 @@
 #endregion(30日)
 #endregion(8月)
 
-#region(9月,open)&bold(){9月}
+#region(9月,close)&bold(){9月}
 ***09/03 [[【ストグラ】ささくれ ゼペ 40日目>>https://www.twitch.tv/videos/2863237814]]
 #region(詳細,close)閉じる
-&color(#F54738){&bold(){非常に重要な日であるため、アーカイブの視聴を強く推奨します。}}
+&color(#F54738){&bold(){エピソードを簡略化していることを前提に閲覧してください。}}
 -ゼペは前の街のことを何も知らない。トウユンと日々が前の街で加入していたギャング（GBC）のことを知りたい。聞き込みをしたいと意気込んで起床。
 -アパート裏にイナフと沖原たくみを見つける。新たな変装で出てきたため、名を明かさないままだと人質にするところだったと冗談を言われた。今日は聞き込みに回り、ひと段落したら犯罪しようと伝えて別れる。
--トウユンが師匠と慕っていた狐面の人こと小峰玲を探す。たまたまアパートに来たため話を聞いてみることに。
+-トウユンが師匠と慕っていた狐面の人こと小峰れいを探す。たまたまアパートに来たため話を聞いてみることに。
 #region(詳細)
 -率直にトウユンのことを知りたいと聞くと、「自分の頭（トウユン）の人間のことを他の所の人間に聞くのは俺はあんまりだと思う」と言われる。
 -トウユンに犯罪を教えたのは小峰。一個人として友達だったが、トウユンが犯罪を始めるということで教えた。
@@ -959,9 +959,6 @@
 #region(詳細,close)閉じる
 -トウユンから着信履歴がある。かけるかどうかずっと悩んでいたら、ちょうどトウユンから電話がかかってきた。どうしても話したいことがあるらしい。
 -トウユンと話す。
-#region(エピソード募集中)
--（順次追加します。）
-#endregion
 -トウユンとの会話を経て1人で考え、しぼしぼになる。
 -acqua ovestで買い物をする。天田さぽが1人で働いていた。初心者マークがついているが、正社員らしい。連絡先を交換した。
 --ゼペの名前がアルテミスであるため、The Artemisと関係があるのか聞かれるが、全くないと返す。店の方はキャバクラらしい。
@@ -1103,11 +1100,22 @@
 -&color(#233B6C){&bold(){分かってくれた！分かってくれたんだ！！うれしい！うれしい！！うれしい！！！}}
 -&color(#233B6C){&bold(){今後どうやって動いていくか楽しみだなぁ！！！}}
 #endregion(30日)
-
-
-
-
 #endregion(9月)
+
+#region(10月,open)&bold(){10月}
+
+***10/02 [[【ストグラ】 悪・ギャンギング×キャット 死我無猫 DAY59>>https://www.twitch.tv/videos/2889754306]]
+#region(開く,close)閉じる
+-&bold(){しがない猫が起床。}
+#endregion(02日)
+***10/04 [[【ストグラ】 1時間だけ起きる猫 死我無猫 DAY51>>https://www.twitch.tv/videos/2890878002]]
+#region(開く,close)閉じる
+-&bold(){しがない猫が起床。}
+#endregion(dd日)
+
+
+#endregion(mm月)
+
 
 
 
@@ -1191,7 +1199,7 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(8月)
 
-#region(9月,open)&bold(){9月}
+#region(9月,close)&bold(){9月}
 #table_style(head=center:#E6E6FA){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |09/02|40|&font(#6441A4){&icon_fa(fa fa-twitch fa-fw)}[[【ストグラ】ささくれ ゼペ 40日目>>https://www.twitch.tv/videos/2863237814]]|&color(#a9a9a9){（アーカイブ保存期限により消失）}|
@@ -1207,12 +1215,18 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(9月)
 
+#region(10月,open)&bold(){10月}
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/02|50|&font(#6441A4){&icon_fa(fa fa-twitch fa-fw)}[[【ストグラ】 悪・ギャンギング×キャット 死我無猫 DAY59>>https://www.twitch.tv/videos/2889754306]]||
+|10/04|51|&font(#6441A4){&icon_fa(fa fa-twitch fa-fw)}[[【ストグラ】 1時間だけ起きる猫 死我無猫 DAY51>>https://www.twitch.tv/videos/2890878002]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(10月)
 
 #co{
 ↓コピー用
 
 #region(m月)&bold(){m月}
-
 #table_style(head=center:#E6E6FA){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 
@@ -1228,4 +1242,4 @@
 }
 
 
-#right(){&link_up(🔝ページTOPへ)}
+#right(){&link_up(🔝ページTOPへ)}
