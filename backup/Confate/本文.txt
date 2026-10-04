@@ -51,7 +51,7 @@
 
 ***職業体験者
 #region(開く)
-#table_style(head=#333:#ff1493){}
+#table_style(head=#333:#ff1493)
 |~名前|~体験開始日|~備考|h
 |[[N.A.W.A]]|2026/08/26||
 |[[宇佐　卓]]|2026/08/28|正規雇用済|
@@ -59,9 +59,10 @@
 |[[君乃　アイボ]]|2026/09/18||
 |[[高橋　ハシゴ]]|2026/09/24||
 |[[安城　成]]|2026/09/27||
+|[[黒澤　乃依]]|2026/10/03||
 //|[[名　前]]|yyyy/mm/dd||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
-#table_sorter{even=#FF7F7,odd=#FFFFFF}
 #endregion
 
 #co{
@@ -152,7 +153,7 @@
 #endregion
 }
 
-**イベント情報
+**店内開催イベント
 #region(開く,open)
 #table_filter(){開催場所=hide,出演者/関係者=hide,イベント内容=show,備考=hide,切り抜き動画=hide}
 #table_style(head=#333:#ff1493){イベント名/ポスター=bold}
