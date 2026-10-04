@@ -1,9 +1,9 @@
 #center{&image(音姫パーラー.jpeg,y=365,x=365)}
 
 //❗️不要な行は削除して使用してください
-#table_style(head=#E0E0E0){}
-|~店名|~&icon_fa(fa fa-martini-glass)|&ruby(おとひめ){音姫}パーラー|
-|~業種|~&icon_fa(fa fa-utensils)|飲食店|
+#table_style(head=#f6b483){}
+|~店名|~&icon_fa(fa fa-apple-whole)|&b(){&ruby(おとひめ){音姫}パーラー}|
+|~業種|~&icon_fa(fa fa-lemon)|飲食店|
 |~開業日|~&icon_fa(fa fa-flag)|2026年10月01日&space()&small(){（&countup(2026/10/01,yd)経過）}|
 |~所在地|~&icon_fa(fa fa-map-marker)|3051番地|
 |~店長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[音姫　みつお]]}|
@@ -17,7 +17,7 @@
 
 **従業員情報
 ***従業員
-#table_style(head=#E0E0E0)
+#table_style(head=#f6b483)
 |~役職|~名前|~就職日|~備考|h
 |役職|[[音姫　みつお]]|2026/mm/dd|　|
 //|役職|[[名　前]]|yyyy/mm/dd|備考|
@@ -25,11 +25,13 @@
 //|役職|[[名　前]]|yyyy/mm/dd|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
-//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします。
+//
 
 #co{
 //***職業体験者
-#table_style(head=#E0E0E0)
+#table_style(head=#f6b483)
 |~名前|~体験開始日|~備考|h
 |[[名　前]]|yyyy/mm/dd||
 //|[[名　前]]|yyyy/mm/dd||
@@ -50,32 +52,31 @@
 ***商品一覧
 #region(開く,open)
 #table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=show}
-#table_style(head=#E0E0E0){No.=center,価格=right}
+#table_style(head=#f6b483){No.=center,価格=right}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|h
-|Food|商品名|価格|提供開始日|説明|
-|Drink|商品名|価格|提供開始日|説明|
-|Joint|商品名|価格|提供開始日|説明|
-//|種類|商品名|価格|提供開始日|説明|
+|Food|大人のいちごパフェ|10,000|2026/10/01|　|
+|Food|厳選果実の極旨フルーツ大福|10,000|2026/10/01|　|
+|Drink|濃厚ミルキーバナナシェイク|10,000|2026/10/01|　|
+|Drink|押してみて？みつおの手絞リンゴジュース|10,000|2026/10/01|　|
+|Joint|商品名|価格|yyyy/mm/dd|説明|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
-//レギュラー商品＝店舗に始めから用意されていた商品
-//種類＝food,drink,relax,others など
 #endregion
 
 #co(){
 ***イベント・期間限定商品
 #region(開く,open)
-#table_filter(){No.=show,種類=show,価格=show,登録者=hide,登録日=hide,提供開始日=hide,商品説明=show}
-#table_style(head=#E0E0E0){No.=center,価格=right}
-|~種類|~商品名|~価格|~登録者|~登録日|~提供開始日|~商品説明|h
-|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
-|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
-|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
-//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
+#table_filter(){No.=show,種類=show,価格=show,販売期間=hide,商品説明=show}
+#table_style(head=#f6b483){No.=center,価格=right}
+|~種類|~商品名|~価格|~販売期間|~商品説明|h
+|Food|商品名|価格|yyyy/mm/dd|説明|
+|Food|商品名|価格|yyyy/mm/dd|説明|
+|Drink|商品名|価格|yyyy/mm/dd|説明|
+|Joint|商品名|価格|yyyy/mm/dd|説明|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
-//オリジナル商品＝ボスメニューから登録した商品
-//種類＝food,drink,relax,others など
 #endregion
 }
 //
@@ -88,7 +89,7 @@
 ***2026年
 #region(開く,open)
 #table_filter(){関係者=hide,エピソード・備考=show}
-#table_style(head=#E0E0E0)
+#table_style(head=#f6b483)
 |~日付|~出来事|~関係者|~エピソード・備考|h
 |MIDDLE:10/01|グランドオープン|[[音姫　みつお]]|　|
 |~|パブリックビューイング|[[音姫　みつお]]、[[AILES]]|店内にて[[AILES]]主催音楽イベントのパブリックビューイングを開催|
