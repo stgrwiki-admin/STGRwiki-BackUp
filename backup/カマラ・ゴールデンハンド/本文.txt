@@ -1,7 +1,7 @@
 *&color(#ff69b4){&icon_fa(fa-solid fa-face-kiss-wink-heart)} &color(#f8f8ff){プロフィール}
 &image(カマラ・ゴールデンハンド_初期.webp,y=250)
 
-&font(b,27px,#ff69b4){「カマちゃん」って呼んでね♡}
+&font(b,27px,#ff69b4){「カマちゃん」って呼んでね&color(red){&size(30px){♥}}}
 
 //ここからプロフィール
 #table_style(head=#ff69b4:#f8f8ff){}
@@ -11,7 +11,7 @@
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年9月30日 (&countup(2026/9/30,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|　|
-|~職場体験|~|&small(){&openclose2(show=▼過去に体験した職場){&br()&small(){メイドカフェ} &b(){"[[LastJump in ParadiseLost]]"} &small(){⚫︎メイド(2026/09/30～)}&br()&small(){飲食店} &b(){"[[サニーケバブ]]"} &small(){(2026/10/01～)&co(){すでに体験項目のため「体験」という文言は削除致しました。}}}}|
+|~職場体験|~|&small(){&openclose2(show=▼過去に体験した職場){&br()&small(){メイドカフェ} &b(){"[[LastJump in ParadiseLost]]"} &small(){⚫︎メイド(2026/09/30～)}&br()&small(){飲食店} &b(){"[[サニーケバブ]]"} &small(){(2026/10/01)}&br()&small(){飲食店} &b(){"[[FOWK]]"} &small(){(2026/10/04)&br()&co(){すでに体験項目のため「体験」という文言は削除致しました。}}}}|
 |~所属|~&icon_fa(fa fa-users)|　|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@kamaragolden|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
@@ -83,7 +83,17 @@
 ****9/30 [[【#ストグラseason2 / 1日目】カマラ・ゴールデンハンドの冒険譚、開始！>>https://www.youtube.com/live/h1ILrB_KoWs]]
 #region(開く,close)閉じる
 -エピソード募集中
-#endregion(dd日)
+#endregion(9/30)
+----
+****10/1 [[【#ストグラseason2 / 2日目】今日は飲食店の体験やってみようかしら❤>>https://www.youtube.com/live/nJ1bzkbAEwM]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(10/1)
+----
+****10/3 [[【#ストグラseason2 / 3日目】すでに街に噂が広まっているらしいが、今日も飲食体験❤>>https://www.youtube.com/live/BB4V2RLmOoo]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(10/3)
 ----
 #endregion(9月・10月)
 
@@ -95,7 +105,7 @@
 //****mm/dd [[タイトル>>ＵＲＬ]]
 #region(開く,close)閉じる
 -エピソード募集中
-#endregion(dd日)
+#endregion(mm/dd)
 ----
 
 #endregion(mm月)
@@ -108,10 +118,10 @@
 //大半のキャラクターページではサーバー定休日の記載がないことに加えて、ページの行数・文字数に上限があるため削除しております。
 #table_style(head=center:#ff69b4:#f8f8ff:120%){配信日=center,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
-|9/30|1|[[【#ストグラseason2 / 1日目】カマラ・ゴールデンハンドの冒険譚、開始！【広島弁のオネエVTuber】>>https://www.youtube.com/live/h1ILrB_KoWs]]|🔰|
-|10/1|2|[[【#ストグラseason2 / 2日目】今日は飲食店の体験やってみようかしら❤【広島弁のオネエVTuber】>>https://www.youtube.com/live/nJ1bzkbAEwM?si=okT7BPFVYXAz9Y6m]]|🔰|
-//|10/dd|n|[[タイトル>>ＵＲＬ]]||
-//|10/dd|n|[[タイトル>>ＵＲＬ]]||
+|9/30|1|[[【#ストグラseason2 / 1日目】カマラ・ゴールデンハンドの冒険譚、開始！>>https://www.youtube.com/live/h1ILrB_KoWs]]|🔰|
+|10/1|2|[[【#ストグラseason2 / 2日目】今日は飲食店の体験やってみようかしら❤>>https://www.youtube.com/live/nJ1bzkbAEwM]]|🔰|
+|10/3|3|[[【#ストグラseason2 / 3日目】すでに街に噂が広まっているらしいが、今日も飲食体験❤>>https://www.youtube.com/live/BB4V2RLmOoo]]|🔰|
+//|10/dd|4|[[タイトル>>ＵＲＬ]]||
 //|10/dd|n|[[タイトル>>ＵＲＬ]]||
 //|mm/dd|n|[[タイトル>>ＵＲＬ]]||
 //&font(80%){&openclose2(show=※別ゲーム配信あり ▽内容展開){[[>>]]}}&br()
@@ -139,7 +149,9 @@
 #region(開く,open)
 #table_style(head=center:#ff69b4:#f8f8ff:120%){投稿日=center,タイトル=}
 |~投稿日|~タイトル|~備考|h
-|10/03|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[初日からギャングボスを殴るなど、大暴れするオネエがやばすぎるwww>>https://youtu.be/-PMXk-Q7vWc]]||
+|10/3|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[初日からギャングボスを殴るなど、大暴れするオネエがやばすぎるwww>>https://youtu.be/-PMXk-Q7vWc]]||
+|10/4|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[初めての飲食体験！カマラ目的のお客様で大行列！？>>https://youtu.be/p9FmpQa9LDU]]||
+
 //|mm/dd|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=fff,repeathead=10}

@@ -4,12 +4,12 @@
 //ここからプロフィール
 #table_style(head=#E6E6FA:#666666){}
 |~名前|~&icon_fa(fa fa-user)|&b(){&ruby(きみお){君生}　あいす}|
-|~出身地|~&icon_fa(fa fa-location-dot)|　|
-|~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|年齢は18　&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年9月16日 (&countup(2026/9/16,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|　|
-|~職場体験|~|　|
-|~所属|~&icon_fa(fa fa-users)|　|
+|~職場体験|~|&bold(){飲食店&b(){"[[サニーケバブ]]"} &small(){(2026/9/20~)}}|
+|~所属|~&icon_fa(fa fa-users)|&bold(){&b(){[[モンスターハウスプロダクション]]} &small(){体験(2026/10/3~)}}|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@　|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
 |~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999|
@@ -47,22 +47,38 @@
 #endregion
 //
 //
--情報を記述
+-10年間病気の治療で入院した。国を転々とした関係で日本語以外中国語、英語もできる。病気が治り新生活を送るためにこの街に来た
+-長い病院生活で病院食以外の美味しいご飯が食べたく、ロスサントスのレストランをすべて食べるのが現在の目標
+-好きな食べ物はオムライス、フライドチキン（ジャンクフードが好き）
 
 *関係人物
-**市民
 #region(サニーケバブ,close)#div(bgcolor=#FCF16E){&font(b,14px,#666666){[[▫️>サニーケバブ]]サニーケバブ}}
 #div(bgcolor=#FFC0CB){&font(b,14px,#666666){[[▫️>柚乃　いずみ]]柚乃いずみ}}
-- レギオン横にある飲食店サニーケバブの店長。
+- レギオン横にある飲食店サニーケバブの店長でお母さん的存在。
+- モンスターハウスプロダクション所属のスタッフでもある。
 #div(bgcolor=#0F6E78){&font(b,14px,#FFFFFF){[[▫️>タラ　ちゃん]]タラちゃん}}
-- レギオン横にある飲食店サニーケバブの従業員。
-- ケバブ屋で体験として雇用し迎え入れてくれた。
-- 現時点で一番信用している住民。
+- レギオン横にある飲食店サニーケバブの従業員でお父さん的存在。ケバブ屋で体験として雇用し迎え入れてくれた。現時点で一番信用している住民。
+- モンスターハウスプロダクションのCEOでもある。
 #endregion(サニーケバブ)
 
-#region(開く,close)開く
-&font(b,14px,#666666){[[▫️>星詠　あう]]星詠あう}
+#region(モンスターハウスプロダクション,close)#div(bgcolor=#FCF16E){&font(b,14px,#666666){[[▫️>モンスターハウスプロダクション]]モンスターハウスプロダクション}}
+#div(bgcolor=#7cb0ff){&font(b,14px,#FFFFFF){[[▫️>精一杯　まさ子]]精一杯まさ子}}
+- ロスサントスで出会った同期住民。モンプロに体験として所属している。
+#div(bgcolor=#0F6E78){&font(b,14px,#FFFFFF){[[▫️>フグ田　ナチ]]フグ田ナチ}}
+- モンスターハウスプロダクション所属のスタッフ。
+
+#endregion(モンプロ)
+
+#region(市民,close)市民
+&font(b,14px,#666666){[[▫️>星詠　あう]]}[[星詠あう>https://w.atwiki.jp/streamergta5/pages/3474.html]]
 - 街で出会った第一街人。街案内をしてくれた。
+
+[[▫️>不働　めい]][[不働めい>https://w.atwiki.jp/streamergta5/pages/3423.html]]
+- 初日星詠あうに誘われ、一緒に車解体工事のバイトをした。あいすの自己紹介に対し、ありがとう、結婚しよとの反応。後日サニーケバブで勤務中のあいすに遭遇した際も飲食物を大量に購入したり、あいすに好感を持っている様子。[[琵琶山　法師>https://w.atwiki.jp/streamergta5/pages/3745.html]]の初心者マーク外すイベント時に、あいすに車を購入すると口約束をした。
+
+[[▫️>羽山　パティ]][[羽山パティ>https://w.atwiki.jp/streamergta5/pages/680.html]]
+- 2日目に偶々after Uの外で遭遇。足のないパティをマンションまで運び、その後一緒にスマホを買いに行った。2万円足りないパティにお金を貸すが4万円を返してくれと要求。パティ曰く「意外とがめつい」
+
 
 #endregion
 -情報を記述

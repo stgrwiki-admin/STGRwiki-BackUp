@@ -7,7 +7,7 @@
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年9月10日 (&countup(2026/9/10,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|　|
-|~職業体験|~&icon_fa(fa fa-cash-register)|&b(){メカニック"[[LUNA Garage]]"&small(){体験(2026/09/20〜)}}&br()&small(){&openclose2(show=▼過去に体験した職業){&br()&s(){&b(){LIVE&BAR"[[Confate]]"&small(){体験(2025/09/17)}}}&br()&s(){&b(){メイドカフェ"[[LastJump in ParadiseLost]]"&small(){メイド(2026/09/30)}}}&br()&s(){&b(){メカニック"[[JTS]]"&small(){体験(2026/09/27〜2026/10/02)}}}}}|
+|~職業体験|~&icon_fa(fa fa-cash-register)|&b(){メカニック "[[LUNA Garage]]"&small(2){体験(2026/09/20〜)}}&br()&small(){&openclose2(show=▼過去に体験した職業){&br()&s(){&b(){LIVE&BAR "[[Confate]]"&small(){体験(2025/09/17)}}}&br()&s(){&b(){メイドカフェ "[[LastJump in ParadiseLost]]"&small(){メイド(2026/09/30)}}}&br()&s(){&b(){メカニック"[[JTS]]"&small(){体験(2026/09/27〜2026/10/02)}}}}}|
 |~所属|~&icon_fa(fa fa-users)|　|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|&b(){@masako}|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
