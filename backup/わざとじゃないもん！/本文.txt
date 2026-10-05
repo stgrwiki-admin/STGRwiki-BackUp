@@ -4,7 +4,7 @@
 
 #table_style(head=#696969:#F9FCFF){}
 
-|~グループ名|~&space()&icon_fa(fa fa-music)&space()|&font(b,#000)&ruby(){わざとじゃないもん！}|
+|~グループ名|~&space()&icon_fa(fa fa-music)&space()|&font(b,#444){&ruby(){わざとじゃないもん！}}|
 |~業種|~&space()&icon_fa(fa fa-tag)&space()|アイドルグループ|
 |~デビュー日|~&space()&icon_fa(fa fa-flag)&space()|2026年08月09日&space()&small(){（&countup(2026/08/09,yd)経過）}&co(){※countupは設立日の1日前に設定}&br()夏フェス|
 |~メンバー|~&icon_fa(fa fa-solid fa-users)|3名|
@@ -37,7 +37,7 @@
 **&font(22px){&font(30px,#92cccf){関}係者・組織 &icon_fa(fa fa-users)}
 ***メンバー
 #region(開く,open)
-#table_style(head=center:#696969:#F9FCFF)
+#table_style(head=center:#696969:#F9FCFF){名前=bold}
 |~名前|~加入日|~担当カラー|~備考|h
 |[[もんすたあ>>揚物　ころも]]|2026/06/01|🩶限りなく黒に近いグレー|モンスター|
 |[[てんし>>牧田　ここな]]|2026/07/15|🤍真っ白な純白|かなり白にこだわりを持っている|
@@ -50,7 +50,7 @@
 
 ***スタッフ
 #region(開く,open)
-#table_style(head=center:#696969:#F9FCFF)
+#table_style(head=center:#696969:#F9FCFF){名前=bold}
 |~名前|~加入日|~役職・関係|~備考|h
 |[[灰部理　秀人]]|2026/06/01|プロデューサー・楽曲制作||
 #table_sorter{head=#bbc8e6,even=#f7f7f7,odd=#fff}

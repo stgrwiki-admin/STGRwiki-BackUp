@@ -29,7 +29,6 @@
 |[[岐阜野　こみ蔵]]|臨時オーナー&br()Manager|26/07/08|&font(8pt){店長にもしもの事があったらこの店を頼む、売り払っても構わないと託された。}|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/komichin0704]]|
 |[[月乃　えるな]]|仮店長&br()Manager|26/06/17|&font(8pt){臨時オーナーである岐阜野こみ蔵が一時帰国する為、仮店長ならばと店を引き受けた。}|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/cielxxx247]]|
 |[[こさ　猫弐郎]]|Recruit|26/06/18||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kottaso]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E3%81%93%E3%81%A3%E3%81%95%E3%82%8A%E3%82%B7%E3%83%A5%E3%83%B3%E3%82%BF%E3%82%BD]]|
-|[[マイゴ・ニ＝ナリエル]]|Recruit|26/06/20||&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCyzZB-zCayJsVLfRuVWa6aQ?si=SWgXv171w1a6f9Zs]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/stray_channel]]|
 |[[ぎちょう・じょばぁーな]]|Recruit|26/06/24||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/abotan0327]]|
 |[[堕夜　だよ]]|Recruit|26/06/24||&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/dayodayo_dayo]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/@DayoDayo_dayo]]|
 |[[パン　チャン]]|Recruit|26/06/25||&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@Silvershieldgangallll/featured]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCJQIKUi9ZoxTSbdKuGwMVbw]]|
@@ -40,24 +39,26 @@
 #table_autoincrement(){label=No.}
 //従業員の変更があれば「参加者一覧」への反映もお願いします
 
-#co{
-//***職業体験者
+***職業体験者
 #table_style(head=#c1e0ff)
 |~名前|~体験開始日|~備考|h
-|[[名　前]]|yyyy/mm/dd||
+|[[音凪　紬]]|2026/09/20|キーモットの助手|
+|[[天田　さぽ]]|2026/09/20|キーモットの助手|
+|[[鈴那　衣遠]]|2026/09/20|キーモットの助手|
+|[[シュガー　ピーチ]]|2026/09/20|キーモットの助手|
 //|[[名　前]]|yyyy/mm/dd||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#FF7F7,odd=#FFFFFF}
-}
-#co{
-//***退職者
+
+***退職者
 #table_style(head=#c1e0ff)
-|~名前|~就職日|~最終出勤日|~備考|h
-|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_filter(){役職=hide,就職日=hide,退職日=show,備考=show}
+|~名前|~役職|~就職日|~退職日|~備考|h
+|[[マイゴ・ニ＝ナリエル]]|Recruit|26/06/20|26/09/30|ゆちゃが失踪し、キーモットが好き放題しているため退職|
 //|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
-}
+
 **商品情報
 ***Food
 #region(,open)
@@ -167,6 +168,10 @@
 |07/08|店長失踪|[[ゆちゃ　めろでぃ]]&br()[[岐阜野　こみ蔵]]|[[ゆちゃ　めろでぃ]]が失踪。何かあったらと後を託されていた[[岐阜野　こみ蔵]]が責任者となった。|
 |07/17|不動産管理者移行|[[岐阜野　こみ蔵]]&br()[[ももみ]]|ゆちゃが残していた委任状により、不動産管理者がこみ蔵に移された。&small(){&openclose2(show=*){&br()裏の住宅は闇医者用だったが、こみ蔵が知らないため、店舗と一緒にこみ蔵に移された。}}|
 |08/01|こみ蔵一時帰国|[[岐阜野　こみ蔵]]|こみ蔵が一時帰国。留守中の管理は[[月乃　えるな]]に託された。従業員に店舗の鍵を渡せない。|
+|09/05|こみ蔵帰還|||
+|09/09|探偵が間借り||探偵事務所を探していたキーモットを雇い、間借りを許可する|
+|09/26|勝手に半額セール||キーモットとその助手[[音凪　紬]]らが好き勝手に商品を販売をする|
+|09/30|従業員会議||店に思い入れのないキーモット一派が勝手に半額セールをしていたことについて話し合い。&br()ゆちゃの失踪以降店に立っていなかった従業員全員、店に思い入れがないことを確認&br()キーモットに巻き込まれるのを忌避したナリエルが退職した|
 //|mm/dd|出来事|関係者|エピソード・備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
