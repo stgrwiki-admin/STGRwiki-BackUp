@@ -1290,7 +1290,7 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 ****3月
-#region(開く,open)
+#region(開く)
 #table_style(head=center:#E6E6FA){配信日=right}
 |~配信日|~配信タイトル|~備考|h
 |03/05|[[転送後の初レースでついに祈願の初完走を目指すマクソン最大 DAY10>>https://www.youtube.com/live/Hq8-ujHQCys?si=D7Y08bAZC2PiBdfp]]||
@@ -1302,14 +1302,15 @@
 //|日付|[[タイトル>>URL]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
-****4月
+#co{
+//****4月
 #region(開く,open)
 #table_style(head=center:#E6E6FA){配信日=right}
 |~配信日|~配信タイトル|~備考|h
 //|日付|[[タイトル>>URL]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
-
+}
 #co{
 ****●月
 #region(開く,open)
