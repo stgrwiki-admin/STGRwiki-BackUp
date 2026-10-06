@@ -3,12 +3,13 @@
 &image(えるPくろー.webp,x=380)
 
 //ここからプロフィール
+#co{ガソスタ加入日わかる方ジョブ欄に記入お願いしたいです →&br()&icon_fa(fa fa-truck)[[ガソリンスタンド]]&space(1)&small(){'26/日付〜}　}
 #table_style(head=#E6E6FA:#666666){}
 |~名前|~&icon_fa(fa fa-user)|える P くろー|
 |~出身地|~&icon_fa(fa fa-location-dot)|日本 奈良県|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年8月19日 (&countup(2026/08/19,yd)経過)|
-|~職業|~&icon_fa(fa-solid fa-building-columns)|[[木こり>>渡戸林業]]&space(1)&small(){'26/09/03〜}|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|&icon_fa(fa fa-tree)&space()木こり【[[渡戸林業]]】&space(1)&small(){job'26/09/03〜}|
 |~所属|~&icon_fa(fa fa-users)|　|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@lqi|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
@@ -62,27 +63,12 @@
 ----
 #endregion(8月)
 //
-//
-#co{
-↓コピー用素材
-
-***mm月
-#region(開く,open)&bold(){閉じる}
-
-****mm/dd　配信タイトル
-#region(開く,close)閉じる
--エピソード募集中
-#endregion(day　)
-----
-
-#endregion(mm月)
-
-}
+//テンプレート削除いたしました。#co内に#endregionが存在すると左右のメニューバーが消える不具合があるそうです。→編集相談所26/01/07
 
 //---------------------------アーカイブ---------------------------------------
 *アーカイブ
--twitchアーカイブは２か月経過で視聴不可。
--YouTubeアーカイブはメンバー限定で半永久に視聴可能。
+-Twitchアーカイブは２か月経過で視聴不可。
+-YouTubeアーカイブはメンバー限定で２か月後も視聴可能。
 **2026年
 #region(8月)
 #table_style(head=center: #00a48d:#fff){配信日=right,#=center}
@@ -180,10 +166,6 @@
 |09/27|21|24|[[【ストグラ】渡戸良品で初の接客をするえるPくろー【切り抜き/伊勢えびす/レッサン/レイジー/花沢まるん/渡戸リー/N.A.W.A/ヘルアン】>>https://youtu.be/R1ZdNy_OSc0]]||
 |09/28|22|25|[[【ストグラ】種と花に使う"あるもの"を作れるようになったえるPくろー【切り抜き/えるPくろー/まちお/のあちぇん/脇逢魔/山田カイキ/ジト村ミシロ】>>https://youtu.be/LJYLxg_LIfo]]||
 |09/29|23|25|[[【ストグラ】喫茶ひまわりの先行イベントでヘルアンと取引をするえるPくろー【切り抜き/えるPくろー/ヘルアン/ぱちお/まる/ジト村ミシロ】>>https://youtu.be/LXXoR0gYKxU]]||
-|10/01|24|26|[[【ストグラ】無馬かなに出会ったえるP、まさかのバイト先で...【切り抜き/えるPくろー/大川/無馬かな/N.A.W.A】>>https://youtu.be/YDtyge3Gdak]]||
-|10/02|25|26|[[【ストグラ】研究員Dr.ギガと歪み調査をするえるPくろー【切り抜き/ストグラ/えるPくろー/Dr.ギガ】>>https://youtu.be/QiKjwszhQ5g]]||
-|10/04|26|28|[[【ストグラ】悪友に巻き込まれると占いにでるえるPくろー【切り抜き/まちょ/脇逢魔】>>https://youtu.be/obRuCyfPbIU]]||
-|10/05|27|29|[[【ストグラ】狐面のヘルアンさんに頼まれ新規住民にバイト案内するえるP【切り抜き/えるPくろー/ヘルアン/二胡にこり】>>https://youtu.be/WPM0Km4SxY8]]||
 }
 #endregion(9月)
 //
@@ -197,34 +179,19 @@
 |10/05|27|29|[[【ストグラ】狐面のヘルアンさんに頼まれ新規住民にバイト案内するえるP【切り抜き/えるPくろー/ヘルアン/二胡にこり】>>https://youtu.be/WPM0Km4SxY8]]||
 }
 #endregion(10月)
-//
-#co{コピー用素材↓
 
-#region(8月,open)
-#size(90%){#table_filter(){投稿日=show,＃=show,day=show,動画タイトル=show}
-#table_style(head=center:#00a48d:#fff){投稿日=center,＃=center,day=center}
-|~投稿日|~＃|~day|~動画タイトル|~備考|h
-|mm/dd|day|[[タイトル>>ＵＲＬ]]||
-}
-#endregion(8月)
-
-}
-//
-#co{ 以下編集中の欄です。加筆していただけると助かります。
 //---------------------------ストグラ外コラボ---------------------------------------
 *ストグラ外コラボ
-****&size(110%){&bgcolor(#00a48d){&nbsp()&font(#ffffff,90%){　🎮ゲーム系コラボ}&nbsp(40)}}
-#region(8月,open)
+****&size(110%){&bgcolor(#00a48d){&nbsp()&font(#ffffff,90%){　🎮ゲーム系コラボ}&nbsp(20)}}
+#region(26年8月～,open)
 #size(90%){#table_filter(){配信日=show,ゲーム名=show,配信タイトル=show,メンバー=hide}
 #table_style(head=center:#00a48d:#FFF)
 |~配信日|~ゲーム名|~配信タイトル|~メンバー|h
-|26/09/07|PEAK|[[&icon_fa(fa fa-twitch)【PEAK】ストグラガソスタメンバーで登山🦊>>https://www.twitch.tv/videos/2867098015]]|＜メンバー未記入＞|
+|26/08/31|PEAK|[[&icon_fa(fa fa-twitch)【PEAK】ストグラガソスタメンバーで登山🦊>>https://www.twitch.tv/videos/2867098015]]|まどれ、怠惰、クラウン、幼少ギミック、ヒラ、羚王リレイア、&br()ちゃんみつ、NEUN、ぜろろぺ、えるくろ|
 |26/09/07|PEAK|[[&icon_fa(fa fa-twitch)山登りしますよ～>>https://www.twitch.tv/videos/2867098015]]|幼少ギミック、えるくろ|
 |26/09/29|７ Days to Die|[[&icon_fa(fa fa-twitch)【ストグラコラボ】店長とゾンビ狩りに行きます。 @tubakusama>>https://www.twitch.tv/videos/2328943781]]|幼少ギミック、えるくろ|
-#endregion(8月)
 }
-ーー以下コラボ欄に該当するか検討中のアーカイブですーー
-|26/09/15|Apex Legends|[[&icon_fa(fa fa-twitch)【APEX】ランク〜/二コラさん>>https://www.twitch.tv/videos/2874036510]]|二コラ・クラエス、えるくろ|
-}
-//coは↑のかっこまで
+#endregion()
+
+
 #right(){&link_up(🔝ページTOPへ)}
