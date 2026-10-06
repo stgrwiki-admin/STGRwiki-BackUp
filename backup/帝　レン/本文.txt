@@ -7,13 +7,13 @@
 #table_filter(){Season1=hide,Season2=show}
 #table_color(#FDE8D0)
 |~世界線|&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
-|~名前|~&icon_fa(fa fa-user fa-fw)|>|&ruby(みかど){帝} レン|
+|~名前|~&icon_fa(fa fa-user fa-fw)|>|&bold(){&ruby(みかど){帝} レン}|
 |~出身地|~&icon_fa(fa fa-location-dot fa-fw)|>|日本（新宿）|
 |~誕生日|CENTER:~&icon_fa(fa fa-birthday-cake)|>|1997年07月07日 (&countup(1997/7/7,y)歳)|
 |~転入日|CENTER:~&icon_fa(fa fa-plane-arrival)|2023年04月02日 (&countup(2023/4/2,yd)経過)|2025年12月19日 &small(){(&countup(2025/12/19,yd)経過)}|
-|~職業|MIDDLE:~&icon_fa(fa fa-university fa-fw)|マフィア【[[GoodbyeCircus]]】アンダーボス&br()クラブ【&ruby(グンナイ){[[GoodNight]]}】経営&br()音楽喫茶【[[GroobyBabyCafe]]】店員|ホテルカジノ【[[VERTEX>>V HOTEL]]】支配人|
-|~所属|MIDDLE:~&icon_fa(fa-solid fa-people-roof)|イベントサークル【[[エンペラーAge]]】設立者|ギャンブル部（部長）&br()[[モンスターハウスプロダクション]] スタッフ&size(11){(2026/05/11~)}　　|
-|~恋人|CENTER:~&icon_fa(fa fa-heart)|>|[[スコちゃん>>スコティッシュ・ホールド]] &size(11){2024/07/07~ (&countup(2024/07/07,yd))}|
+|~職業|MIDDLE:~&icon_fa(fa fa-university fa-fw)|&b(){マフィア【[[GoodbyeCircus]]】アンダーボス}&br()&b(){クラブ【&ruby(グンナイ){[[GoodNight]]}】経営}&br()&b(){音楽喫茶【[[GroobyBabyCafe]]】店員}|&b(){ホテルカジノ【[[VERTEX>>V HOTEL]]】支配人}&br()|
+|~所属|MIDDLE:~&icon_fa(fa-solid fa-people-roof)|&b(){イベントサークル【[[エンペラーAge]]】設立者}|ギャンブル部（部長）&br()&b(){【[[モンスターハウスプロダクション]]】スタッフ &small(){(2026/05/11~)}}&br()&openclose2(show=※秘匿情報){&br()&b(){ギャング【&ruby(まだらぐみ){[[麻陀羅組]]}】構成員 &small(){(2026/10/04〜)}}}　　&co(){S1と表記方法を統一しました。}|
+|~恋人|CENTER:~&icon_fa(fa fa-heart)|>|&bold(){[[スコちゃん>>スコティッシュ・ホールド]] &size(11){2024/07/07~ (&countup(2024/07/07,yd))}}|
 |~Twix|CENTER:~&icon_fa(fa fa-dove)|>|@|
 |BGCOLOR(#8B0600):COLOR(#ffffff):~&color(#ffffff){プレイヤー}|BGCOLOR(#8B0600):COLOR(#ffffff):~&icon_fa(fa fa-address-card)|>|紅月サクヤ |
 |BGCOLOR(#8B0600):COLOR(#ffffff):~&color(#ffffff){告知等}|BGCOLOR(#8B0600):~&color(#ffffff){&icon_fa(fa fa-bullhorn)}|>|&font(#1da1f2){&icon_fa(fa fa-twitter)} [[Twitter>>https://twitter.com/Akatsuki_0325]]|
