@@ -1,0 +1,98 @@
+//&image(ここに画像のURLを入力,y=300)
+
+//❗️不要な行は削除して使用してください
+//間違い等ありましたら、修正をお願いいたします
+#table_style(head=#FFF0F2:#FF91A1){}
+|~店名|~&icon_fa(fa fa-ghost)|&b(){&ruby(ファントーム){Fantôme} &ruby(シュクレ){Sucré}}|
+|~業種|~&icon_fa(fa fa-bowl-food)|飲食店|
+|~開業日|~&icon_fa(fa fa-flag)|2026年mm月dd日&space()&small(){（&countup(2026/mm/dd,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|××××番地|
+|~店長|~&space()&icon_fa(fa fa-user)&space()|&bold(){[[シュガー　ピーチ]]}|
+//開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+**基本情報
+-情報を記述
+
+**従業員情報
+***従業員
+#table_style(head=#FFF0F2:#FF91A1){名前=bold}
+|~役職|~名前|~就職日|~備考|h
+|役職|[[シュガー　ピーチ]]|yyyy/mm/dd|備考|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+//|役職|[[名　前]]|yyyy/mm/dd|備考|
+#table_sorter{even=#fffafb,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//
+#co{
+//***職業体験者
+#table_style(head=#FFF0F2:#FF91A1)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#fffafb,odd=#FFFFFF}
+}
+#co{
+//***退職者
+#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+**商品情報
+***商品一覧
+#region(開く,open)
+#table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#FFF0F2:#FF91A1){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|yyyy/mm/dd|説明|
+|種類|商品名|価格|yyyy/mm/dd|説明|
+|種類|商品名|価格|yyyy/mm/dd|説明|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
+#table_sorter{even=#fffafb,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+//
+#co(){
+//***限定・イベント販売商品
+#region(開く,open)
+#table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=show}
+#table_style(head=#FFF0F2:#FF91A1){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|h
+|種類|商品名|価格|yyyy/mm/dd|説明|
+|種類|商品名|価格|yyyy/mm/dd|説明|
+|種類|商品名|価格|yyyy/mm/dd|説明|
+//|種類|商品名|価格|yyyy/mm/dd|説明|
+#table_sorter{even=#fffafb,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+#endregion
+}
+//
+***メニュー画像
+#region(,open)
+//&image(ここに画像のURLを入力,y=400)
+#endregion
+
+**沿革
+***2026年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#FFF0F2:#FF91A1)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|mm/dd|出来事|関係者|エピソード・備考|
+|mm/dd|出来事|関係者|エピソード・備考|
+|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#fffafb,odd=#FFFFFF}
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}
