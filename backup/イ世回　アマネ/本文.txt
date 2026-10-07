@@ -4,7 +4,7 @@
 //ここからプロフィール
 #table_style(head=#E6E6FA:#666666){}
 |~名前|~&icon_fa(fa fa-user)|&ruby(いせかい){イ世回}　アマネ|
-|~出身地|~&icon_fa(fa fa-location-dot)|　|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年10月7日 (&countup(2026/10/7,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|　|
@@ -33,7 +33,15 @@
 &icon_fa(fa-solid fa-desktop)&space()&space()&bold(){切り抜きについてのルール}
 #region(開く)閉じる
 
-下記URLのガイドラインの内、
+***(ご本人の配信概要欄より参照)
+イ世回アマネの出演部分に関しては切り抜き大歓迎です！ 
+以下の点にご配慮いただけますと幸いです。 
+
+・切り抜きに出演されている方の規約を必ずご確認ください。
+・悪意のある切り抜きはおやめください。
+・投稿時はぜひ「#イ世回アマネ」「#ストグラ切り抜き」をつけて投稿して頂けると嬉しいです！
+
+また、下記URLのガイドラインの内、
 【VTuber事務所『からくり』 切り抜き動画投稿に関するガイドライン】
 の欄をご確認ください。
 
@@ -46,7 +54,9 @@ https://colorcreators.site/guidelines/
 #contents(fromhere=true,level=2)
 #endregion
 *基本情報
--情報を記述
+-自分の資産を形成する為、夢とチャンスを追い求めてこの街にきた。
+-人をまとめることが得意であり、特にイベント・プロデュース業に興味をもつ。
+-名前とは裏腹に”この世に転生”してはいない純粋な日本人。
 
 *エピソード
 **2026年
@@ -54,7 +64,9 @@ https://colorcreators.site/guidelines/
 #region(開く,open)&bold(){閉じる}
 ****10/07　&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【 #ストグラSeason2 】DAY1 初めまして、イ世回アマネと申します。【 #普世界 / #新人vtuber 】>>https://www.youtube.com/watch?v=rcOQ9ajCpic]]
 #region(開く,close)閉じる
--エピソード募集中
+-空港にて第一村人[[アーク　ダイマー>アーク　ダイマー]]さんと出会い、街の案内をしていただく。
+-初めてのアルバイトを経験。
+-バイクを購入。
 #endregion(1日)
 ----
 #endregion(10月)
