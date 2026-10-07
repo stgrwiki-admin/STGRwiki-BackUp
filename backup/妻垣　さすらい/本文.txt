@@ -136,6 +136,7 @@
 --そのため、ライブでカバー曲を披露する際もその年代の邦ロックからが多い。
 #clear
 **出演イベント
+#region(1月～9月)&bold(){1月～9月}
 #table_style(head=center:#8d2b24:#fff){日付=center,イベント名=center,開催地=left,歌った楽曲=left,アーカイブ=center}
 #table_filter(){日付=show,イベント名=show,開催地=hide,歌った楽曲=show,アーカイブ=show,備考=hide}
 |~日付|~イベント名|~開催地|~歌った楽曲|~アーカイブ|~備考|h
@@ -153,8 +154,31 @@
 #table_zebra(#f7f7f7, #fff, #8d2b24)
 
 #slide_img(auto=2,position=left,width=351,height=500){小さな水辺のコンサートフライヤー.png,FoF告知フライヤー.png,FoFフライヤー.png,FoF2フライヤー.png,FoF3フライヤー.png,FoF4フライヤー.png,ConfateOPイベントフライヤー.jpg,FoF6フライヤー.png}
+#endregion(1月～9月)
+#region(10月～,open)&bold(){10月～}
+#table_style(head=center:#8d2b24:#fff){日付=center,イベント名=center,開催地=left,歌った楽曲=left,アーカイブ=center}
+#table_filter(){日付=show,イベント名=show,開催地=hide,歌った楽曲=show,アーカイブ=show,備考=hide}
+|~日付|~イベント名|~開催地|~歌った楽曲|~アーカイブ|~備考|h
+|26/10/01|エルレコ LIVE 2026|【8073】バロミノ・アベニュー通り沿いライブハウス「Confate」|Favorites|&link2(🎬,https://www.youtube.com/live/d5zqkDyHu38?t=5125s,target=blank )|音楽サイト「[[エルレコ>>AILES]]」の感謝ライブ。&br()さすらいも楽曲を提供している縁で参加する。|
+#table_autoincrement(){start=11,label=#}
+#table_zebra(#f7f7f7, #fff, #8d2b24)
 
+#slide_img(auto=2,position=left,width=351,height=500){エルレコLIVE2026.png,エルレコLIVE2026.png}
+#endregion(10月～)
 *交友関係
+***【[[Confate]]】
+#region(開く)
+#table_style(head=center:#8d2b24:#fff){名前=center:,呼ばれ方=center:,呼び方=center,備考=left:}
+#table_filter(){名前=show,呼ばれ方=hide,呼び方=hide,備考=show}
+|~名前|~呼ばれ方|~呼び方|~備考|h
+|[[さとう]]|さすらいさん&br()さすらい氏|さとう|ロスサントスで出会った、ROCKSTARの女の子。&br()初対面は窓拭きのバイトで、その時は全身血塗れというROCKないでたちであった。&br()ロスサントスを音楽の絶えない街にしたいという野望から[[Confate]]を開業する。&br()さすらいの歌にROCKを感じスターティングメンバーとして熱いオファーをかけたのが縁で、&br()さすらいも同じ船に乗る仲間として働いている。|
+//|[[罰 下リ>>罰　下リ]]||||
+//|[[キーピー・ダイヤ]]||||
+//|[[紫音 ウィスタリア>>紫音　ウィスタリア]]||||
+//|[[宇佐 卓>>宇佐　卓]]||||
+#table_zebra(#f7f7f7, #fff, #8d2b24)
+#endregion
+
 ***【友人】
 #region(開く)
 #table_style(head=center:#8d2b24:#fff){名前=center:,呼ばれ方=center:,呼び方=center,備考=left:}
@@ -171,7 +195,6 @@
 #table_style(head=center:#8d2b24:#fff){名前=center:,呼ばれ方=center:,呼び方=center,備考=left:}
 #table_filter(){名前=show,呼ばれ方=hide,呼び方=hide,備考=show}
 |~名前|~呼ばれ方|~呼び方|~備考|h
-|[[さとう]]|さすらいさん&br()さすらい氏|さとう|ロスサントスで出会った、ROCKSTARの女の子。&br()初対面は窓拭きのバイトで、その時は全身血塗れというROCKないでたちであった。&br()ロスサントスを音楽の絶えない街にしたいという野望を持っており、その為に起業したいと思っている。&br()さすらいの歌にROCKを感じ、この圧倒的新事業のスターティングメンバーとして熱いオファーをかけ、&br()さすらいもこの船に乗る事を決意した。|
 |[[天近 くるみ>>天近　くるみ]]|つかさくん|くるみさん|ロスサントスで出会ったシンガー。気兼ねない性格で、すぐに馴染みの友達となった。&br()突発的なイベントを好む傾向があるのか、突発ライブを持ちかけたのも彼女である。&br()過去にライブハウス経営や占いもできたりと、音楽以外にもさまざまな才能を発揮しているようだ。|
 |[[タイフーン 捨山>>タイフーン　捨山]]|妻垣さん|捨山|ロスサントスで出会った、オコメ国から来たシンガー。自己紹介にはお決まりのフレーズがある。&br()語尾に「まい」を付けており、さすらいも彼女と会話する際はそれがうつる。&br()彼女の&bold(){出自}&footnote(音の家)にはさすらいもお世話になっている。&br()ふわふわした喋り口調だが、歌う時にはまるで別人かのように雰囲気が変わり、高い歌唱力を披露する。|
 |[[Super Subaru>>Super　Subaru]]|さむらい|すばる&br()Super|ロスサントスで出会ったシンガーの女の子。天真爛漫で無邪気な性格だが、色々と危なっかしい面がある。&br()さすらいも振り回されつつ、自然と保護者のように接している。&br()普段は5歳児のように目が離せないが、マイクの前に立つと別人になるシンガーの一人。|
@@ -519,7 +542,7 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 ***5月
-#region(開く,open)
+#region(開く)
 #table_style(head=90%:center:#8D2B24:#FFF){配信日=right:90%,#=center:90%,配信タイトル=90%,備考=90%}
 |~配信日|~#|~配信タイトル|~備考|h
 |05/07|22|[[窓を拭いて夢を見ている>>https://www.youtube.com/live/3Ezxnqvp-mw]]||
@@ -527,7 +550,54 @@
 |05/15|24|[[負けないでキミの心 窓拭いていて>>https://www.youtube.com/live/etiOCorDytA]]||
 |05/17|25|[[俺は どうする 窓を 拭こう>>https://www.youtube.com/live/6TeKzScB_6k]]||
 |05/22|26|[[その頃にはすぐに窓を拭きに行ける>>https://www.youtube.com/live/Tt-AU4pEgeY]]||
-
+|05/27|27|[[ドラクエ発表のあとやる>>https://www.youtube.com/live/SnAXEo9PYvU?si=9jvgQSKUsOoIAWYh]]||
+|05/29|28|[[洗いたての窓>>https://www.youtube.com/live/3MrgmAhDVwA?si=VXjPyxT1MmlbdJzy]]||
+|05/31|29|[[月面のプールで釣りをしてる>>https://www.youtube.com/live/p9fctEE3oUM?si=rYznQaW1iauJQUqp]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***6月
+#region(開く)
+#table_style(head=90%:center:#8D2B24:#FFF){配信日=right:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|06/03|30|[[真夏の夜空 ひとり釣りした>>https://www.youtube.com/live/nqMcQ-sMeUg?si=WJoRejMSqxhloe7U]]||
+|06/06|31|[[えさをつけて浮かべているよ>>https://www.youtube.com/live/mz3zZRUuMd0?si=aTBObsbM74eqypc5]]||
+|06/24|32|[[「今月で釣り辞めてほしいんですけど」OK 余裕>>https://www.youtube.com/live/WAjyvNouV1g?si=2Ac7wzkKbq-kALDb]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***7月
+#region(開く)
+#table_style(head=90%:center:#8D2B24:#FFF){配信日=right:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|07/02|33|[[何を釣ったっていいんだ要はこれから>>https://www.youtube.com/live/8auSya-rDHE?si=C4uCYmrATeYESrBd]]||
+|07/11|34|[[時折誰かが問う｢いつまでどこまで釣ってる気かと｣>>https://www.youtube.com/live/dJ36-Y4GhO8?si=KK22E6X4hweF8u9q]]||
+|07/22|35|[[君は 釣り猫娘だった>>https://www.youtube.com/live/XczZ9lIed0Y?si=l5ZJHEGXqiDUoMrH]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***8月
+#region(開く)
+#table_style(head=90%:center:#8D2B24:#FFF){配信日=right:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|08/01|36|[[釣り竿持つ誰かを待ちぼうけ>>https://www.youtube.com/live/-CpYVbLfx2o?si=rZJoVZAjIgjvFXYi]]||
+|08/23|37|[[ボロ船に夢描いた 穴だらけのマストを掲げ>>https://www.youtube.com/live/x3xX35zw45M?si=2f6zP90VkuVuL5tD]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***9月
+#region(開く)
+#table_style(head=90%:center:#8D2B24:#FFF){配信日=right:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|09/02|38|[[面接をするみたいですよ>>https://www.youtube.com/live/D5aDxWsQPYI?si=CCupqY6ncDtH4D7t]]||
+|09/05|39|[[今日も面接をするみたいですよ>>https://www.youtube.com/live/ktxlf1YnKNY?si=9y7krQgathqi9GQ6]]||
+|09/09|40|[[謎解きライブにてりてりソースの焼きそば>>https://www.youtube.com/live/M7oPZxRGcvY?si=6xKRwFwfdGriTTa9]]||
+|09/13|41|[[イベント出店ですよ>>https://www.youtube.com/live/bgm8QmUgNQ4?si=hMRrNvjZMPbMvEs-]]||
+|09/19|42|[[久々の弾き語りライブですよ>>https://www.youtube.com/live/Za93otnFAEo?si=9wB3g8bbvoheEiEB]]||
+|09/24|43|[[店番ですよ>>https://https://www.youtube.com/live/4C_P4GZ3JWU?si=0BXrRKRu2t6ZN_Qq]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***10月
+#region(開く,open)
+#table_style(head=90%:center:#8D2B24:#FFF){配信日=right:90%,#=center:90%,配信タイトル=90%,備考=90%}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/01|44|[[エルレコライブですよ>>https://www.youtube.com/live/d5zqkDyHu38?si=LaVsoHVxolJdaznt]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 //
@@ -550,6 +620,11 @@
 |02/21|[[救急車タイフーン爆発炎上事件を起こしてしまった妻垣さすらい達>>https://youtu.be/vLzup-qbVLo?si=qhTs6TvOrnowF5Th]]||
 |02/25|[[炎上系インフルエンサーが警官を土下座させている現場に遭遇してしまった妻垣さすらい>>https://youtu.be/pOhwLEq-XWo?si=VJtLu3Sf7SJf9HJr]]||
 |02/27|[[警察に追突するヤバい奴モーガン・フリーザンにツッコみ続ける妻垣さすらい>>https://youtu.be/ac9m1zxZLrU?si=b7aO3zVjLgHcl80l]]||
+|03/04|[[ライブハウスで「怪獣」「16」「エンジェルベイビー」を弾き語る妻垣さすらい>>https://youtu.be/LgYxg6BFup8?si=vEURBI9WK3Oe3Qdn]]||
+|03/08|[[背景でデバッグし続けるDr.ギガが気になって仕方ない妻垣さすらい>>https://youtu.be/LViYp71KXYg?si=ShxoN2v6yUa50Pqr]]||
+|05/13|[[激似声マネ軍団にテンションが爆上がりする妻垣さすらい>>https://youtu.be/RuKUVDEtP00?si=jgNzZtoG_NY7ijBM]]||
+|05/24|[[深刻すぎる捨山の遅刻理由にビビる妻垣さすらい>>https://youtu.be/I-MO9jfen8Q?si=m14pxiOy7x5FWDRI]]||
+|05/28|[[ゲリラライブで「日曜日よりの使者」「funny bunny」を弾き語る妻垣さすらい>>https://youtu.be/Ae_NwjXfsuc?si=s5rHzuo1LEOCLrSC]]||
 
 #table_sorter{even=#F7F7F7,odd=fff}
 #table_autoincrement(){label=#,start=1}
