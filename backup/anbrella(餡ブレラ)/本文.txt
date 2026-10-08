@@ -40,7 +40,7 @@
 -組織の中に階級による上下関係は無い。[[ボス>アルフォート　ウェスカー]]の言うことだけが絶対で、[[ボス>アルフォート　ウェスカー]]より下は全て同等である。
 //
 ***🫘&underdot(#99000D,2px){活動内容}
-#div(bgcolor=#99000D){&font(16px,b,#FFFFEB){&space()SEASON1}}
+&size(17){&underdot(#b22222,2px){&color(#99000D){▌&font(b){SEASON 1}&space()}}}
 #region(開く)
 //↓製薬会社
 -ロスサントス本拠点：Humane Labs and Research(2060)
@@ -79,7 +79,7 @@
 }
 #endregion
 
-#div(bgcolor=#99000D){&font(16px,b,#FFFFEB){&space()SEASON2}}
+&size(17){&underdot(#b22222,2px){&color(#99000D){▌&font(b){SEASON 2}&space()}}}
 -ロスサントス本拠点：Los Santos County Coroner Office(9071)
 -ロスサントスを離れたあとも新たな研究を進めており、とある目的を果たすため構成員とともに街に舞い戻った。
 
@@ -90,10 +90,10 @@
 #size(90%){&b(){ボス及びメンバーに脱退の意志を伝えること。}&openclose2(show=*2){&br()・無許可での脱退や裏切り、他ギャング移籍が発覚した場合、本人とその関係者を消す、もしくは金銭の上納を求められる。加入前には上記を忠告されるが、これまでに前例はない。&br()・組織立ち上げをあらかじめ明言している場合は、他ギャング移籍に該当しない。}}
 
 *&font(#FFFFFF){&icon_fa(fa fa-users)} メンバー
-#div(bgcolor=#99000D){&font(16px,b,#FFFFEB){&space()SEASON1}}
+&size(17){&underdot(#b22222,2px){&color(#99000D){▌&font(b){SEASON 1}&space()}}}
 [[SEASON1の餡ブレラメンバー>https://w.atwiki.jp/streamergta5/pages/3605.html]]はこちら
 
-#div(bgcolor=#99000D){&font(16px,b,#FFFFEB){&space()SEASON2}}
+#div(bgcolor=#99000D){&font(18px,b,#FFFFEB){&space()SEASON2}}
 &blankimg(20260402_siroan.jpg,x=1040,y=585)
 //&font(10px){▶︎後列左から [[いわさき そす>いわさき　そす]]、[[オザワ ハヤマサ>オザワ　ハヤマサ]]、[[稲葉 ゴン>稲葉　ゴン]]、[[チャルロス SAY!>チャルロス　SAY!]]、[[那須 裕貴>那須　裕貴]]、[[アルベール]]、[[酒槻 すん>酒槻　すん]]、[[刃牙 りえる>刃牙　りえる]]、[[宿無 おきる>宿無　おきる]]／[[ハク ナツメ>ハク　ナツメ]]、[[伊達咲 政宗>伊達咲　政宗]]、[[ニャンコ・スキー]]、[[四皇 シャンクズ>四皇　シャンクズ]]、[[キャプテン わきを>キャプテン　わきを]]、[[クマゴリラ>クマ　ゴリラ]]、[[聖母 れりあ>聖母　れりあ]]、[[西蓮寺 華月>西蓮寺　華月]]／[[メリー クロース>メリー　クロース]]、[[アレクサンダー アイスボックス>アレクサンダー　アイスボックス]]、[[栖家幡 華憐>栖家幡　華憐]]、[[アルフォート ウェスカー>アルフォート　ウェスカー]]、[[有坂 誉>有坂　誉]]、[[アーモンド サラザール>アーモンド　サラザール]]、[[ジェイク レディントン>ジェイク　レディントン]](2024/06/13▶︎餡ブレラ設立1周年記念写真)}
 
@@ -186,10 +186,10 @@
 #include(anbrella/ギャラリー)
 
 *&font(#FFFFFF){&icon_fa(fa fa-map-marker)} 拠点
-#div(width=400px,bgcolor=#99000D){&font(16px,b,#FFFFEB){&space()SEASON1}}
+&size(17){&underdot(#b22222,2px){&color(#99000D){▌&font(b){SEASON 1}&space()}}}
 [[SEASON1の餡ブレラ拠点>https://w.atwiki.jp/streamergta5/pages/3651.html]]はこちら
 
-#div(width=400px,bgcolor=#99000D){&font(16px,b,#FFFFEB){&space()SEASON2}}
+&size(17){&underdot(#b22222,2px){&color(#99000D){▌&font(b){SEASON 2}&space()}}}
 #size(90%){#table_filter(){No.=show,番地=show,場所=hide,通称=show,管理=hide,備考=show}
 #table_style(hover=#FFFFEB,head=#99000D:#FFFFEB:center){}
 |~番地|~場所|~通称|~管理|~備考|h
