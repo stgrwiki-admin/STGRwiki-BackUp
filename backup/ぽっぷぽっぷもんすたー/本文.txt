@@ -9,7 +9,7 @@
 |~店名|~&icon_fa(fa fa-tag)|>|&b(){ぽっぷぽっぷもんすたー}|
 |~業種|~&icon_fa(fa fa-heart fa-flip)|>|コンセプトカフェ|
 |~所属|~&icon_fa(fa fa-icons)|>|&b(){[[モンスターハウスプロダクション]]}|
-|~開業日|~&icon_fa(fa fa-flag)|2025年05月25日（延期）&br()2025年07月24日（再延期）|-|
+|~開業日|~&icon_fa(fa fa-flag)|2025年05月25日（延期）&br()2025年07月24日（再延期）|2026年10月30日（予定）|
 |~所在地|~&icon_fa(fa fa-map-marker)|7031番地|8078番地|
 |~店長|~&icon_fa(fa-solid fa-user-tie)|>|&bold(){[[猫ノ宮 ひな>>猫ノ宮　ひな]]・[[ぞん 美子>>ぞん　美子]]}|
 //開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
@@ -39,8 +39,6 @@
 //
 ・[[麻陀羅組]]のフロント事業の一環として立ち上げた企業の飲食店。
 ・ポップなモンスターをコンセプトにしたカフェで、店員もモンスター(アイドル)が接客をすると言うこだわり。
-・猫ノ宮ひなが『ぷっちんぷるるんスウィートコースター』、ぞん美子が『激辛ラーメン油ニンニクマシマシスパイシーホット』という名前のモンスターになりきって、アイドル『ぽっぷぽっぷもんすたー』として活動していく予定。名前が長く個性的なため、タラちゃんからは名前を変えた方が良いのでは？と言われている。[[🎬ぽぷもんの名前をお披露目>>https://www.twitch.tv/zonbko/clip/BlitheJollyCrocodileCopyThis-0YRDCLo06sZxSUL5]]
-・メニューは全て猫ノ宮ひなとぞん美子が考案し調理したものである(イラストを自作している)。
 #region(経緯)***経緯
 ・[[ひな>>猫ノ宮　ひな]]の起床率が低く街を去るか悩んでいた事を知った[[タラちゃん>>タラ　ちゃん]]が本人から話を聞き、その理由が黒にはならないが白でやる事がないと言う理由だった。
 ・・[[ひな>>猫ノ宮　ひな]]のやり残したことは自分のお店を持つ事だが現実的ではないと思っていた。[[タラちゃん>>タラ　ちゃん]]は音楽等をやりたいのと組織としてフロント企業を作ろうとしていた。
@@ -54,12 +52,14 @@
 #region(開く)
 ・店内には、観測者から募ったモンスターたちがいたるところにスプレーされている。（＃ストグラモンカフェにてXで募集）
 ・開店イベントとして演劇を行う予定だが、演者の体調不良により開店日は未定になっている。現在は、開店の目度が付くまで一時活動停止し、[[モンスターハウスプロダクション]]の別の事業に力を入れている。
+・猫ノ宮ひなが『ぷっちんぷるるんスウィートコースター』、ぞん美子が『激辛ラーメン油ニンニクマシマシスパイシーホット』という名前のモンスターになりきって、アイドル『ぽっぷぽっぷもんすたー』として活動していく予定。名前が長く個性的なため、タラちゃんからは名前を変えた方が良いのでは？と言われている。[[🎬ぽぷもんの名前をお披露目>>https://www.twitch.tv/zonbko/clip/BlitheJollyCrocodileCopyThis-0YRDCLo06sZxSUL5]]
+・メニューは全て猫ノ宮ひなとぞん美子が考案し調理したものである(イラストを自作している)。
 #endregion
 ***●Season2
 #region(開く,open)
 ・転送前の世界線で開店出来なかった[[モンスターハウスプロダクション]]の飲食事業。
 ・店内は、飲食スペース、イベントスペース、会議室、楽屋の4スペースに分かれている。
-・オープニングスタッフは[[モンスターハウスプロダクション]]所属スタッフ(体験含む)となっている。
+・オープニングスタッフは女性スタッフのみで構成されている。
 ・現在[[猫ノ宮ひな>>猫ノ宮　ひな]]が申請したショップアイコン、開業申請は承認されている為、店内のハウジング、ジョブ付与が終わり次第開業が出来る状態である。
 #endregion
 
@@ -109,7 +109,7 @@
 #co{
 #size(90%){{{#table_style(head=center:#ffb8d4)
 |~名前|~体験開始日|~備考|h
-|[[名　前]]|yyyy/mm/dd||
+|[[アビビービ・ビービ・コ]]|yyyy/mm/dd|飲食店で働いてみたい、と話をしていた為、体験として雇用された|
 //|[[名　前]]|yyyy/mm/dd||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#ffedf4,odd=#FFFFFF}}}}
@@ -131,7 +131,7 @@
 //テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
 ***レギュラー商品
 #region(開く,open)
-&icon_fa(fa-solid fa-burger)=food、&icon_fa(fa-solid fa-droplet)=drink、&icon_fa(fa-solid fa-brain)=Joint、&icon_fa(fa-solid fa-box-open)=ガチャ
+&icon_fa(fa-solid fa-burger)=food、&icon_fa(fa-solid fa-droplet)=drink、&icon_fa(fa-solid fa-brain)=Joint、&icon_fa(fa-solid fa-beer-mug-empty)=Alcohol、&icon_fa(fa-solid fa-box-open)=ガチャ
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=show}
 #table_style(head=center:#e7ffb0){No.=center,価格=right}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|h
@@ -146,7 +146,7 @@
 #endregion
 ***イベント・期間限定商品
 #region(開く)
-&icon_fa(fa-solid fa-burger)=food、&icon_fa(fa-solid fa-droplet)=drink、&icon_fa(fa-solid fa-brain)=Joint、&icon_fa(fa-solid fa-box-open)=ガチャ
+&icon_fa(fa-solid fa-burger)=food、&icon_fa(fa-solid fa-droplet)=drink、&icon_fa(fa-solid fa-brain)=Joint、&icon_fa(fa-solid fa-beer-mug-empty)=Alcohol、&icon_fa(fa-solid fa-box-open)=ガチャ
 #table_filter(){種類=show,商品名=show,価格=show,販売期間=hide,商品説明=show}
 #table_style(head=center:#b8fff3){No.=center,価格=right}
 |~種類|~商品名|~価格|~販売期間|~商品説明|h
@@ -194,6 +194,7 @@
 |09/02|店舗購入準備|8078番地の物件の前で不動産、建築士とミーティングを実施|
 |10/02|店舗購入|8078番地の物件を[[タラちゃん>>タラ　ちゃん]]が支払いをし購入した|
 |10/03|開店準備開始|店舗内で[[タラちゃん>>タラ　ちゃん]]より、起床していた[[モンプロ>>モンスターハウスプロダクション]]メンバーへ鍵の付与がされた&br()同時にメニューやオープニングイベントのミーティングを実施|
+|10/09|ミーティング|旧SKE(7299番地)にて開店日ならびにオープニングイベントの内容、&br()メニュー内容、単価に関してのミーティングを実施|
 #table_sorter{even=#f4f0ff,odd=#FFFFFF}
 #co{▼コピー用
 
