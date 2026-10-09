@@ -19,18 +19,19 @@
 &font(b,16px,#DDDDDD){&icon_fa(fa fa-pencil)&u(){&space()追記編集・情報募集中&space()}}
 
 **&font(30px,#d4392d){メ}&font(25px){ンバー構成 &icon_fa(fa fa-users)}
+//キャラエンドや帰国してもメンバー10人は固定で移動せずにお願いします。
 #region(開く,open)
 #table_filter(){名前=show,Season1職業=hide,Season2職業=show,備考=show}
 #table_style(head=#D4391D:#fff:center){名前=bold}
 |~名前|~Season1職業|~Season2職業|~備考|h
-|[[捌木　たいたい]]|&b(){海上レストラン[[Urashima]]}従業員&br()&b(){メカニック[[9055]]}従業員|&b(){メカニック[[Luna Garage>https://w.atwiki.jp/streamergta5/pages/3534.html]]}従業員&br()&b(){カジノ[[LosVegas>https://w.atwiki.jp/streamergta5/pages/3460.html]]}従業員||
+|[[捌木　たいたい]]|&b(){海上レストラン[[Urashima]]}従業員&br()&b(){メカニック[[9055]]}従業員|&b(){メカニック[[Luna Garage>https://w.atwiki.jp/streamergta5/pages/3534.html]]}従業員&br()&b(){カジノ[[LosVegas>https://w.atwiki.jp/streamergta5/pages/3460.html]]}従業員&br()&bold(){[[喫茶ひまわり]]}従業員||
 |[[岐阜野　こみ蔵]]|&b(){[[カジノ]]}従業員&br()&b(){[[豆おじさんのエアークラフト]]}従業員&br()&b(){メカニック[[JTS>ジョアンナテクノサービス]]}従業員|&b(){創作料理店 [[Mellow Berry]]} 臨時オーナー&br()&small(){&openclose2(show=過去の職業▼){&br()&b(){カジノ[[LosVegas>https://w.atwiki.jp/streamergta5/pages/3460.html]]オーナー} (2026/04/01〜2026/07/29)&br()&b(){メカニック[[森のぶんぶんメカニック>https://w.atwiki.jp/streamergta5/pages/3500.html]]従業員} (2026/04/04〜2026/07/29)}}||
 |[[マクソン　最大]]|&b(){カフェ[[Père Noël]]}従業員&br()&b(){[[カジノ]]}従業員&br()&b(){[[文秋館]]記者}Reporter|&b(){[[フリー記者>記者 ]]}|一時帰国（2026/7/18〜）|
 |[[フグ田　ナチ]]|&b(){総合総社[[モンスターハウスプロダクション]]所属&br()海上レストラン[[Urashima]]}従業員&br()&b(){ピザ屋[[Soffietto]]}従業員|&b(){総合総社[[モンスターハウスプロダクション]]所属&br()イタリアン[[acqua ovest]]従業員}&small(){(&b(){たこ焼き屋[[ザリ蛸]]}従業員)}||
 |[[沖原　たくみ]]|&b(){メカニック[[9055]]}従業員&br()&b(){[[大川自動車販売(有)]]}高級車D|&b(){音楽レーベル[[ラニマ>https://w.atwiki.jp/streamergta5/pages/3540.html]]}所属&br()&b(){マフィア[[玖雲]]}構成員&br()&small(){&openclose2(show=過去の職業▼){&br()&b(){メカニック[[Luna Garage>https://w.atwiki.jp/streamergta5/pages/3534.html]]}従業員（2026/8/5退職）}}||
 |[[Super　Subaru]]|&b(){アイリッシュPUB[[FOWK]]}従業員|||
 |[[アイーダ　大賀美]]|&b(){たこ焼き屋[[ザリ蛸]]}従業員&br()&b(){ギャング[[麻陀羅組]]}構成員|&b(){ギャング[[麻陀羅組]]}構成員&br()&b(){たばこ屋[[川上たばこ店]]}従業員&br()&small(){&openclose2(show=過去の職業▼){&br()&b(){バーガー屋[[カイリキバーガー]]}従業員}}||
-|[[バチ　公]]|&b(){半グレ}&br()&small(){&openclose2(show=過去の職業▼){&br()&b(){[[9055]]}(2025/09/09退職)}}||キャラクターエンド（2026/06/19）|
+|[[バチ　公]]|&b(){半グレ}&br()&small(){&openclose2(show=過去の職業▼){&br()&b(){[[9055]]}(2025/09/09退職)}}||キャラクターエンド（2026/06/19）&br()7033番地横の墓地にお墓がある|
 |[[猫耳　ぽこ太郎]]|&b(){木こり}||Season2未観測|
 |[[三ッ星　ちゅに]]|&b(){ピザ屋[[Soffietto]]}従業員||Season2未観測|
 #table_autoincrement(){label=#}
@@ -51,10 +52,10 @@
 #table_style(head=#D4391D:#fff:center){名前=bold}
 |~名前|~Season1職業|~Season2職業|~備考|h
 |[[とろろ　ろろ]]|&b(){ギャング[[hantasma]]}構成員||&b(){[[三ッ星　ちゅに]]}に誘われ&b(){同期会}へ加入。枯葉住民という事もあり、同期会としての交流会へは参加せずにいた。&br()枯葉マークの意味を知った&b(){[[捌木　たいたい]]}、&b(){[[岐阜野　こみ蔵]]}と話し合いをし、脱退をした。|
-|[[バチ　公]]|&bold(){[[9055>https://w.atwiki.jp/streamergta5/pages/1111.html]]}（2025/09/09退職）半グレ||キャラクターエンド（2026/06/19）|
 #table_autoincrement(){label=#}
 #table_sorter{even=#F7F7F7,odd=#FFF}
 #endregion
+
 **&font(30px,#d4392d){歴}&font(25px){史 &icon_fa(fa-solid fa-clipboard-list)}
 #region(開く,open)
 #table_style(head=#D4391D:#fff:center)
@@ -80,6 +81,8 @@
 |2026/07/19|マクソン最大が必ず戻ってくるとこみ蔵に言って一時帰国。|
 |2026/07/31|岐阜野こみ蔵がリフレッシュのため一時帰国。|
 |2026/08/29|VERTEX夏祭り。たいたい、たくみ、アイーダ、ナチ|
+|2026/09/09|こみ蔵か帰ってきた為近況報告会。こみ蔵、たいたい、たくみ、ナチ|
+|2026/10/07|近況報告会。こみ蔵、たいたい、たくみ、ナチ|
 
 #table_sorter{even=#F2EEED,odd=#FFFFFF}
 //#table_autoincrement(){label=#}
