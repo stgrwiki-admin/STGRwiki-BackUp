@@ -36,10 +36,10 @@
 #size(90%){#table_style(head=#ffffa3:#969696)
 #table_filter(){役職=show,就職日=show,兼業=hide,備考=show,配信=show}
 |~役職|~名前|~就職日|~兼業|~備考|~配信|h
-|代表|[[日之　ぱちお]]|2026/09/02|[[喫茶ひまわり]]店長&br()&small(){探偵事務所} [[エノテラ]]探偵|元[[警察官>ロスサントス警察]]&br()無馬に特別な種を託された。1人で大量の鉢植えを栽培する。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[Twitch>>https://www.twitch.tv/patisyu]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://www.youtube.com/@%E3%81%B1%E3%81%A1%E3%81%88%E3%82%8B%E5%85%84%E5%A6%B9]]|
+|代表|[[日之　ぱちお]]|2026/09/02|[[喫茶ひまわり]]店長&br()&small(){探偵事務所} [[エノテラ]]探偵|元[[警察官>ロスサントス警察]]&br()無馬に特別な種を託された。1人で大量の鉢植えを栽培するファーマー。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[Twitch>>https://www.twitch.tv/patisyu]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://www.youtube.com/@%E3%81%B1%E3%81%A1%E3%81%88%E3%82%8B%E5%85%84%E5%A6%B9]]|
 |代表|[[丘猫　まる]]|2026/09/02|[[喫茶ひまわり]]副店長&br()&small(){探偵事務所} [[エノテラ]]助手&br()[[わくわくハピネス隊]]&br()&small(){コスメ＆ネイルサロン} [[Ailemu]]&br()&small(){ナイトクラブ} [[The Artemis]]&br()&small(){イベント会社} [[AILES]]|元ギャング（[[NO LIMIT]], &small(){[[わくわくハーデス隊]]}）&br()自分がぱちおを巻き込んだつもりでいたら、ぱちおにもっと深いところに引きずり込まれた。&br()建前上の代表、情報戦に長けるが、1人で栽培はできない。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/soraposhich]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://www.youtube.com/@SoraphoshiCH]]|
 |従業員|[[文殊　セイジ]]|2026/09/06|&small(){半グレ集団} [[闇鍋インパクト]]&br()[[タクシー運転手>https://w.atwiki.jp/streamergta5/pages/3420.html]]&br()&small(){イベント会社} [[AILES]]|元ギャング（[[NO LIMIT]]）、元[[DEP]]&br()トラブル時の用心棒兼任|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/mirokuseiji]]|
-|従業員|[[ヘルアン]]|2026/09/23||元ギャング（[[ALLIN]] UB,　[[hantasma]]）&br()トラブル時の用心棒兼任|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/m2_kento_heluan]]|
+|従業員|[[ヘルアン]]|2026/09/23|&small(){和菓子喫茶}[[よすが]]|元ギャング（[[ALLIN]] UB,　[[hantasma]]）&br()トラブル時の用心棒兼任|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/m2_kento_heluan]]|
 //|[[名前]]|2026/mm/dd|役職|備考|配信|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}}
@@ -61,7 +61,7 @@
 #table_style(head=#ffffa3:#969696)
 #table_filter(){番地=show,場所=hide,通称=show,購入日=hide,管理者=hide,備考=show}
 |~番地|~場所|~通称|~購入日|~管理者|~備考|h
-|7343|ミラーパーク大通り||26/10/07|[[日之　ぱちお]]|&openclose2(show=*){表向きは[[探偵事務所>エノテラ]]}|
+|7343|ミラーパーク大通り|仮拠点|26/10/07|[[日之　ぱちお]]|取引用&openclose2(show=*){表向きは[[探偵事務所>エノテラ]]}|
 //|番地|場所|通称|管理者|備考|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
@@ -112,8 +112,10 @@
 |~|&bold(){ラテルの種初誕生}|[[日之　ぱちお]]&br()[[ヘルアン]]|「SEED-01」（アルボル）が「SEED-02」（ラテル）に変異した。|
 |~|DEPより花のエキスを渡される|[[丘猫　まる]]&br()[[小峯　玲]]&br()[[加藤　圧]]|DEPでできた花のエキスの使用用途が不明であるため、植物に使えないかと渡された。&br()ギャングへの挨拶回りで加藤に問い合わせが来ているが、どこに何を話したのかと確認される。&br()その際、小峯・加藤から親会社・子会社みたいな関係と誤解されていることが判明。&br()ブラックビジネスNGの組織があるため動くときは連絡をするようにと釘を刺さされ、受け入れる。|
 |10/02|ラテル初栽培|[[日之　ぱちお]]&br()[[ヘルアン]]|「SEED-02（ラテル）」から「花穂」「種さや」を収穫。「種さや」から「SEED-00（パレア）」を2個得られた。|
-|10/07|&bold(){正式に花に名が付与された}||アイテム名変更。「無名の花」➡「パレア」、「人知れず咲く花」➡「アルボル」、「花穂」➡「ラテル」|
+|10/07|&bold(){正式に花に名が付与された}||アイテム名変更。「無名の花」→「パレア」、「人知れず咲く花」→「アルボル」、「花穂」→「ラテル」|
 |~|拠点購入|[[日之　ぱちお]]|ヘルアンの出資で拠点を購入|
+|~|加藤と初直取引|[[丘猫　まる]]|仲介人を通さず、加藤とまるの2人で取引をすることに成功。これまで秘匿にしていた情報を開示する。&br()ぱちおを不審に思う加藤の私見を聴取する。|
+|10/10|DEPと正式にﾋﾞｼﾞﾈｽﾊﾟｰﾄﾅｰとなる|[[日之　ぱちお]]&br()[[丘猫　まる]]&br()[[加藤　圧]]&br()[[聖母　れりあ]]&br()[[ノア　チェンバー]]|ぱちおがDEPの加藤と面談。警察のスパイ疑惑を払拭。黒になる覚悟を問われ、クスリ屋のミッションを遂行し、無事に認められた。&br()加藤が輸入していた栽培用のコンテナを譲り受け、受け渡し用の共同拠点の資金提供も受けた。|
 //|mm/dd|出来事|関係者|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}}
 //[[日之　ぱちお]]&br()[[丘猫　まる]]&br()[[文殊　セイジ]]&br()[[ヘルアン]]
