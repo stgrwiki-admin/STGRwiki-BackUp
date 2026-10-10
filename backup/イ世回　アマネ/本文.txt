@@ -2,19 +2,19 @@
 //&image(ここに画像のURLを入力,y=400)
 
 //ここからプロフィール
-#table_style(head=#E6E6FA:#666666){}
+#table_style(head=#c53d43:#FFFFFF){}
 |~名前|~&icon_fa(fa fa-user)|&ruby(いせかい){イ世回}　アマネ|
 |~出身地|~&icon_fa(fa fa-location-dot)|日本|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年10月7日 (&countup(2026/10/7,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|　|
 |~所属|~&icon_fa(fa fa-users)|　|
-|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@　|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@isekaiamane|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
 |~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999|
-|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|&ruby(あまね){普}　&ruby(せかい){世界}|
-|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/sekaiA_karakuri]]|
-|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@AmaneSekai]]|
+|BGCOLOR(#999):~プレイヤー|BGCOLOR(#999):~&icon_fa(fa fa-address-card-o fa-fw)|&font(#000){&ruby(あまね){普}　&ruby(せかい){世界}}|
+|BGCOLOR(#999):~告知等|BGCOLOR(#999):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/sekaiA_karakuri]]|
+|BGCOLOR(#999):~配信場所|BGCOLOR(#999):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@AmaneSekai]]|
 //|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
 //
 #co{コピー用🔽以下必要な場合にご利用下さい
@@ -55,8 +55,15 @@ https://colorcreators.site/guidelines/
 #endregion
 *基本情報
 -自分の資産を形成する為、夢とチャンスを追い求めてこの街にきた。
+-少し変わった名字を持った新規住民。
+-日本から街に移住した目的は「自分だけの資産を作ること」。
 -人をまとめることが得意であり、特にイベント・プロデュース業に興味をもつ。
--名前とは裏腹に”この世に転生”してはいない純粋な日本人。
+-「アンティークリング」とパスポートだけを持って
+-金とチャンスを追い求めて来た。
+　　そ縺正昜ｽは?滂ｼ溷ｮｶ螳ｶ邉ｻ縺ｮ谺｡譛滂ｼ滂ｼ溘〒縺ゅ▲?溘′縲∫樟?滂ｼ溘→諢幢ｼ溘?蟄舌?
+
+　　《ERROR 403：Forbidden》
+
 
 *エピソード
 **2026年
@@ -67,7 +74,16 @@ https://colorcreators.site/guidelines/
 -空港にて第一村人[[アーク　ダイマー>アーク　ダイマー]]さんと出会い、街の案内をしていただく。
 -初めてのアルバイトを経験。
 -バイクを購入。
-#endregion(1日)
+-[[ジョーカー>半沢　直ふぃ]]さんや[[さとう>>さとう]]さんから”イベント業”について教わり、心が動く(裏方をやりたい)。
+#endregion(7日)
+
+****10/10　&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【 #ストグラSeason2 】DAY2 街を知り、自分を知る【 #イ世回アマネ / #普世界 】>>https://www.youtube.com/watch?v=qcf4swbZmTQ]]
+#region(開く,close)閉じる
+-バイクを失うも警察の[[シオコ　リコ>シオコ　リコ]]さんに出会い、ナンパする。
+-[[リコ>シオコ　リコ]]さんと一緒に街をデート。
+-喫茶よすがの[[香月　ろぎあ>>香月　ろぎあ]]さんに仕事運や人間関係について占ってもらう。
+
+#endregion(10日)
 ----
 #endregion(10月)
 //
@@ -78,7 +94,7 @@ https://colorcreators.site/guidelines/
 ***mm月
 #region(開く,open)&bold(){閉じる}
 
-****mm/dd　&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【 #ストグラSeason2 】DAY1 初めまして、イ世回アマネと申します。【 #普世界 / #新人vtuber 】>>https://www.youtube.com/watch?v=rcOQ9ajCpic]]
+****mm/dd　&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[　　]]
 #region(開く,close)閉じる
 -エピソード募集中
 #endregion(dd日)
@@ -93,8 +109,8 @@ https://colorcreators.site/guidelines/
 #region(開く,open)
 #table_style(head=center:#E6E6FA){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
-|10/07|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【 #ストグラSeason2 】DAY1 初めまして、イ世回アマネと申します。【 #普世界 / #新人vtuber 】>>https://www.youtube.com/watch?v=rcOQ9ajCpic]]||
-//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+|2026/10/07|01|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【 #ストグラSeason2 】DAY1 初めまして、イ世回アマネと申します。【 #普世界 / #新人vtuber 】>>https://www.youtube.com/watch?v=rcOQ9ajCpic]]||
+|2026/10/10|02|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【 #ストグラSeason2 】DAY2 街を知り、自分を知る【 #イ世回アマネ / #普世界 】>>https://www.youtube.com/watch?v=qcf4swbZmTQ]]||
 
 
 #table_sorter{even=#F7F7F7,odd=fff}

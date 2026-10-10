@@ -148,7 +148,7 @@
 |&icon_fa(fa-solid fa-burger)+&icon_fa(fa-solid fa-droplet)|ラッキーセット|5,000円|2026/01/21|カジノ|チンチロをしてディーラに勝ったら勝者のセット！これで強運バリバリ！|
 |&icon_fa(fa-solid fa-burger)+&icon_fa(fa-solid fa-droplet)|アンラッキーセット|5,000円|2026/01/21|カジノ|カジノのディーラーに負けたときに渡されるセット　もう今日は帰ろう|
 |&icon_fa(fa-solid fa-burger)+&icon_fa(fa-solid fa-droplet)|レインボームキムキセット|5,000円|2026/02/25|NLT|背景の虹は虹のレコードをイメージ！|
-//|種類|商品名|価格|提供開始日|説明|
+//|種類|商品名|価格|提供開始日|限定|説明|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
 //提供用途に分けてに開発されたレギュラーメニュー
@@ -199,6 +199,19 @@
 #table_autoincrement(){label=No.}
 //|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd|説明|
 //オリジナル商品＝ボスメニューから登録した商品
+//種類＝food,drink,relax,others など
+#endregion
+
+***未分類(情報募集中)
+#region(開く)その他団体とのコラボ商品。
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=show,商品説明=hide,備考=show}
+#table_style(head=#E0E0E0){No.=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
+|&icon_fa(fa-solid fa-burger)+&icon_fa(fa-solid fa-droplet)|おばけだぞおセット|5,000|2026/07/25以降不明|(無し)|オーナーくるーど担当hantasmaセット、専売不明&co(10/10ミシロ視点販売確認)|
+//|種類|商品名|価格|提供開始日|説明|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//販売開始から日数が経ち情報が少ないもの。
 //種類＝food,drink,relax,others など
 #endregion
 
