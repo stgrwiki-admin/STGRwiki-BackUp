@@ -10,7 +10,7 @@
 |~出身地|~&icon_fa(fa fa-location-dot)||
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年08月22日 (&countup(2026/08/22,yd)経過)|
-|~職業|~&icon_fa(fa-solid fa-building-columns)|本屋【&b(){[[飯田書店]]}】|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|本屋【&b(){[[飯田書店]]】}&br() メカニック【[[LUNA Garage]]】&small(){社員 (2026/10/10~)}|
 |~所属|~&icon_fa(fa fa-users)||
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@asamorisuito|
 |~レーサー名|~&icon_fa(fa fa-car)||
@@ -40,6 +40,8 @@
 -&b(){絵を描くことが得意}
 --漫画が描けるのもあって、その方面でお金稼ぎができれば良いと思い、[[飯田書店]]に就職。
 --[[音姫　みつお]]、[[野間]]らから飲食店用の商品画像作成の依頼を受ける。
+--自身が原告として関わった裁判の法廷画を自ら描き、それを報じた新聞「LOS TIMES 2026年9月第7号 No.21」に提供した。
+//ロスタイムズの画像および法廷画はストグラ内とはいえロスタイムズはサブスク要素なので掲示は一旦控えております。
 -&b(){法律に興味アリ}
 --ゆくゆくは裁判官になれたらとも考えている。[[葛城>>葛城　司]]さんにコンタクトをとり、この街と夢の法律両方について勉強中
 --ドMトナカイのボイスの件で好機と思い、裁判を起こそうと動いている　&font(70%){関連：[[わからせ裁判>>ロスサントス見聞録/わからせ裁判]]}
@@ -175,4 +177,4 @@
 #table_autoincrement(){label=#}
 #endregion
 
-#right(){&link_up(🔝ページTOPへ)}
+#right(){&link_up(🔝ページTOPへ)}

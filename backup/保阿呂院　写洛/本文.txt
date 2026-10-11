@@ -3,7 +3,7 @@
 #right{&font(i,11px,#666){TwiXより}}
 
 //ここからプロフィール
-#table_style(head=#E6E6FA:#666666){}
+#table_style(head=#BDC0C0:#555555){}
 |~名前|~&icon_fa(fa fa-user)|&b(){&ruby(ぽあろいん){保阿呂院}　&ruby(しゃらく){写洛}}|
 |~出身地|~&icon_fa(fa fa-location-dot)|京都|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
@@ -56,7 +56,7 @@
 #endregion(10日)
 ----
 
-#endregion(10月)
+#endregion(---------------2026年10月---------------)
 #co{
 ↓コピー用素材
 
@@ -76,13 +76,13 @@
 *アーカイブ
 **2026年
 #region(開く,open)
-#table_style(head=center:#E6E6FA){配信日=right,#=center}
+#table_style(head=#BDC0C0:#555555){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |10/09|1-1️⃣|[[【#ストグラ】DAY１【保阿呂院 写洛/ぽあろ】>>https://www.youtube.com/watch?v=U4pin7tAtDo]]||
 |10/09|1-2️⃣|[[【#ストグラ】DAY１【保阿呂院 写洛/ぽあろ】>>https://www.youtube.com/watch?v=uq_NFL1X8po]]||
 |10/10|2|[[【#ストグラ】DAY２【保阿呂院 写洛/ぽあろ】>>https://www.youtube.com/watch?v=5nTEIrOZyNY]]||
 //|mm/dd|n|[[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
-#endregion
+#endregion(-----------------2026年-----------------)
 
 #right(){&link_up(🔝ページTOPへ)}
