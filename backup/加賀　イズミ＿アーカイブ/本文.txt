@@ -1,7 +1,19 @@
 **&size(17px){ストグラ本編アーカイブ}
 #areaedit()
 #div(width=280px,color=#FFFFFF,bgcolor=#991115){&font(i,b,16px){　Season1}}
-//Youtubeの再生リストにあわせて作成
+
+&bold(){第一部　加賀イズミ/警察編(1日目～86日目)}
+//Season1 1日目～Season1 86日目
+※[[Youtubeの再生リストはこちら>>https://www.youtube.com/watch?v=5WM2972BLBw&list=PLrPhjzqoXKtYINeH378EkkHIZHFh8ZMJW]]
+&bold(){第二部　加賀イズミ/救急隊編(87日目～186日)}
+//Season1 87日目～Season1 186日目
+※[[Youtubeの再生リストはこちら>>https://www.youtube.com/watch?v=qfZKw4wdkoU&list=PLrPhjzqoXKtY5qo8C9vY7Q9lazow766pH]]
+&bold(){第三部　加賀イズミ/犬カフェ再建編(187日目～269日目)}
+//Season1 187日目～Season1 269日目
+※[[Youtubeの再生リストはこちら>>https://www.youtube.com/watch?v=t6XF8zqwD3E&list=PLrPhjzqoXKtZ4gbtGmaTnYq7IDJwevCt8]]
+
+#region(2023年)閉じる
+#areaedit(only=editable)
 #region(2023年5月のアーカイブ/1～16日目)閉じる
 #table_style(head=center:#FEF4F4){配信日=right}
 #table_filter(){配信日=show,配信タイトル=show,主要エピソード=show,備考=hide}
@@ -60,6 +72,7 @@
 |6/29|&font(#6441A4){&icon_fa(fa fa-twitch)}[[41日目「出勤！」>https://www.twitch.tv/videos/1859116526]]|||
 |6/30|&font(#6441A4){&icon_fa(fa fa-twitch)}[[42日目「ちょっとだけ出勤」>https://www.twitch.tv/videos/1860623783]]|Grade2に昇格||
 #endregion
+#areaedit(end)
 //
 #region(2023年7月のアーカイブ/43日目～53日目)閉じる
 ※🦊＝ダイジェスト版公開待ちの状態(公開されたらURL差し替えます。)
@@ -202,7 +215,9 @@
 |12/25|&font(#6441A4){&icon_fa(fa fa-twitch)}[[139日目 救急隊・加賀イズミ>>https://www.twitch.tv/videos/2013825482]]|||
 |12/31|&font(#6441A4){&icon_fa(fa fa-twitch)}[[140日目 救急隊・加賀イズミ「年越し」>>https://www.twitch.tv/videos/2019381818]]|||
 #endregion
+#endregion(2023年)
 //
+#region(2024年)閉じる
 #region(2024年1月のアーカイブ/141日目～144日目)閉じる
 ※🦊＝ダイジェスト版公開待ちの状態(公開されたらURL差し替えます。)
 #table_style(head=center:#FEF4F4){配信日=right}
@@ -301,17 +316,10 @@
 |8/16|&font(#6441A4){&icon_fa(fa fa-twitch)}[[178日目　救急隊・加賀イズミ「青服・夏」>>https://www.twitch.tv/videos/2227923308]]|青服会が揃った日||
 |8/18|&font(#6441A4){&icon_fa(fa fa-twitch)}[[179日目　救急隊・加賀イズミ「相棒に」>>https://www.twitch.tv/videos/2227923638]]|相棒の誕生日||
 #endregion
+#endregion(2024年)
 //
 
-&bold(){第一部　加賀イズミ/警察編}
-//Season1 1日目～Season1 86日目
-※[[Youtubeの再生リストはこちら>>https://www.youtube.com/watch?v=5WM2972BLBw&list=PLrPhjzqoXKtYINeH378EkkHIZHFh8ZMJW]]
-&bold(){第二部　加賀イズミ/救急隊編}
-//Season1 87日目～Season1 186日目
-※[[Youtubeの再生リストはこちら>>https://www.youtube.com/watch?v=qfZKw4wdkoU&list=PLrPhjzqoXKtY5qo8C9vY7Q9lazow766pH]]
-&bold(){第三部　加賀イズミ/犬カフェ再建編}
-//Season1 187日目～Season1 269日目
-※[[Youtubeの再生リストはこちら>>https://www.youtube.com/watch?v=t6XF8zqwD3E&list=PLrPhjzqoXKtZ4gbtGmaTnYq7IDJwevCt8]]
+
 #areaedit(end)
 
 #div(width=280px,color=#FFFFFF,bgcolor=#991115){&font(i,b,16px){　Season2}}
