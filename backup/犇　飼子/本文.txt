@@ -3,7 +3,7 @@
 
 //ここからプロフィール
 #table_style(head=#E6E6FA:#666666){}
-|~名前|~&icon_fa(fa fa-user)|&ruby(ひしめく){犇}　&ruby(かうこ){飼子}|
+|~名前|~&icon_fa(fa fa-user)|&b(){&ruby(ひしめく){犇}　&ruby(かうこ){飼子}}|
 |~出身地|~&icon_fa(fa fa-location-dot)|日本の山奥 北海道|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&s(){1999年09月22日(&countup(1999/09/22,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年6月14日 (&countup(2026/6/14,yd)経過)|
