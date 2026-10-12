@@ -27,6 +27,7 @@
 #co{▼▼▼編集相談欄▼▼▼
 誤字脱字、詳細、各項目加筆修正いただけますと幸いです！（9/20）
 組織名について、小峯さんより「"i"は小文字」(2026/9/27配信内)と言及がありましたので、諸々"I"を"i"に変更しました（9/28）
+メンバー欄のデヤンスさんの記載箇所、ネタバレ配慮するために一部変更（10/12）
 
 
 
@@ -47,7 +48,12 @@
 -
 
 #region(組織名由来詳細,close)&bold(){組織名由来詳細}
--記載募集
+-RiPRAY の元の語源は “Replay”
+--組織再始動に伴い、セカンドキャリアのメンバーが多いため、&bold(){“もう一回遊ぼうぜ”}という意味が込められている【[[&icon_fa(fa-solid fa-paperclip)>>https://www.twitch.tv/foxrabbit/clip/KindPopularEggplantSpicyBoy-vVnUdlmgMIOwPeyG]]】
+--略称 “RiP” は、追悼の意 "Rest in Peace"
+--“L” のスペルは、小峯のファーストネーム由来で “R” 表記としている
+--“Pray”（祈る）の意味も含まれている点は小峯のお気に入り
+//諸説ありましたら修整お願いします
 #endregion
 
 **活動について
@@ -94,7 +100,7 @@
 ***&color(#003F8E){&icon_fa(fa-solid fa-walkie-talkie)} &underdot(#003F8E,2px){無線番号}
 #region(詳細,close)閉じる
 #table_style(head=#006400:#F9FCFF:center:b)
-|&bold(){42.7}|2026/06/07〜|“死にな”。&br()&small(){（組織外の人にも何度か開示している。）}|
+|&bold(){42.7}|2026/06/07〜|通称“死にな”無線&br()&small(){（組織外の人にも何度か開示している）}|
 #endregion
 
 #co{
@@ -110,14 +116,15 @@
 #table_style(head=#003F8E:#FFFF:center:b)
 #table_filter(){名前=show,役職=show,加入日=hide,備考=show,配信=show}
 |~名前|~役職|~加入日|~備考|~配信|h
-|[[小峯　玲]]|Boss|2025/04/30|自身と構成員が遊べる場を設けたい意思から、旧DERAYの構成員と共にギャング活動を再始動&br()「一生殺し合いをしていたい」と言う程の銃撃好き、戦闘面では慎重派のサポート寄りオールラウンダー&br()転送された新たな街で、自身の好きなメンバーを集めただけの組織を構成している|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/foxrabbit]]|
+|[[小峯　れい>小峯　玲]]|Boss|2025/04/30|自身と構成員が遊べる場を設けたい意思から、旧DERAYの構成員と共にギャング活動を再始動&br()「一生殺し合いをしていたい」と言う程の銃撃好き、戦闘面では慎重派のサポート寄りオールラウンダー&br()転送された新たな街で、自身の好きなメンバーを集めただけの組織を構成している|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/foxrabbit]]|
 |[[柳田　ライアン]]||2025/05/23&br()&font(11px,#A9A9A9){2025/05/22 内定}|[[DERAY]]の元構成員。小峯とは[[ARCANA]]の元同僚。転送に伴い、&infobox(title=一部の記憶, size=small){恋人のノア チェンバーに関する記憶}が欠損していた時期があるが、現在は記憶が戻っている。&br()しかし嫁いわく、ライアンには解離性同一性障害があるとか･･･？メンバーは彼の記憶喪失や人格について詳しく知らない。&br()心配な部分はあるものの、変わらず関係者一同と街で過ごす。ハードボイルド担当だが、実はお茶目なオジサン。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/ryan3_ttv]]|
 |[[ガヴァイ　アッカンマン]]|　|2025/07/27&br()&font(11px,#A9A9A9){2025/07/24 同行開始}|[[DERAY]]の元構成員。小峯が信頼をおく部下のひとり。真面目で丁寧な立ち回りを得意とする。&br()小峯からは、現在進行しているほぼ全ての黒情報を共有されており、転送後の街でも共に活動中。&br()街中では住民達からお悩み相談電話を受けたり、新人犯罪者を指南するEFP企画を実施したりしている。|&font(#DA1725) &font(#9146FF){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/sekamenz]]|
-|[[天使　はの]]||2025/07/27&br()&font(11px,#A9A9A9){2025/07/24 同行開始}|ガヴァイのパートナー。マスコットキャラ的なメンバー。現在の街ではまだ転送されていない。　|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@amakawa_hano]] / &font(#9146FF){&icon_fa(fa fa-twitch)} [[&font(#9146FF){Twitch}>>https://www.twitch.tv/amakawahano]]|
+|[[天使　はの]]||2025/07/27&br()&font(11px,#A9A9A9){2025/07/24 同行開始}|[[DERAY]]の元構成員。ガヴァイのパートナー。マスコットキャラ的なメンバー。現在の街ではまだ転送されていない。　|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@amakawa_hano]] / &font(#9146FF){&icon_fa(fa fa-twitch)} [[&font(#9146FF){Twitch}>>https://www.twitch.tv/amakawahano]]|
 |[[メイ・カイ]]||2026/08/01&br()&font(11px,#A9A9A9){2025/12/19 同行開始}|黒市民で生粋のファーマー。転送後は小峯達と行動を共にし、自他共に部下と見なされている。&br()[[武器屋>FEMME FATALE]]向けの素材買付をしたり釣り師として勤しむ傍ら、少しずつ犯罪習得中。&br()街ではギャルの装いをしているが、中身は男性。ドパガキ系女装男子。ごく稀にすっぴんで街にいる事がある。 |&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@Meikai_Loveka]]/&font(#9146FF){&icon_fa(fa-brands fa-twitch)} [[&font(#9146FF){Twitch}>>https://www.twitch.tv/meikai_loveka]]|
-|[[デヤンス>小者　デヤンス]]|在籍秘匿|2026/09/10|風情抜群の白市民。前の街からの馴染みの住民。今は身内のひとり。ファミリー。&br()前の街で一時期消息不明になっていたが、しばらく[[ゾンビの世界>>https://w.atwiki.jp/shoboidrp/pages/13.html]]に迷い込んでいた後、転送を経て数カ月振りにこの街に戻ってきた。&br()荒事や戦闘に加担することはしないが何かと協力しあう間柄。現在は街でホットドッグ屋の再建を目指している。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/ms05tc]]|
+|&openclose2(show=？？？){[[ ▶デヤンス>小者　デヤンス]]}|在籍秘匿|2026/09/10|風情抜群の白市民。身内、ファミリーであるが、隠密構成員のため、RiPRAYに所属していることは原則組織外へ開示していない。&br()前の街で一時期消息不明になっていたが、しばらく[[ゾンビの世界>>https://w.atwiki.jp/shoboidrp/pages/13.html]]に迷い込んでいた後、転送を経て数カ月振りにこの街に戻ってきた。&br()荒事や戦闘現場に加担することはしないが何かと協力しあう間柄。現在は、転送前の街で営業していた&openclose2(show=飲食店){（ホットドッグ屋）}の再建を目指している。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/ms05tc]]|
 //|[[名前]]|2025/mm/dd|役職|備考|配信|
 #table_autoincrement(){label=No.}
+
 //人物備考欄の内容は、適宜、更新・編集をお願いします
 
 **&color(#003F8E){&icon_fa(fa fa-handshake-o)} 協力者・主要関係者
@@ -132,7 +139,7 @@
 |[[ティエリ・ブッシュ>>ヤブ下　安理]]|[[FEMME FATALE]]| [[武器屋>FEMME FATALE]] の代表。街の住人には&b(){クリス・リエン}と名乗る場合もある。&br()KFC開催時にスポンサーとして出資してもらったり何かと世話になっている。&br() &openclose2(show=※ティエリの正体について){&br()&font(80%){小峯は、ティエリ・ブッシュの正体が[[ヤブ下 安理>>ヤブ下　安理]]という事実を知っている。&br()これは[[ARCANA]]在籍中、当時ARCANAメンバーでかつ武器屋を兼任していた[[生雲丹 よづな>>生雲丹　よづな]]が、&br()武器屋無線に“ヤブ下 安理”の名前があった際その事情が分からず慌てて小峯に連絡したことによって発覚した。&br()しかし、ティエリは武器屋関係者以外には身分を一切開示しない人物のため、小峯もいまだに知らないフリを続けている。}} |&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/henry_8492]]|
 |[[柳瀬　つん]]|[[FEMME FATALE]]|[[IRiS]]、[[ARCANA]]の元同僚で、現在は[[武器屋>FEMME FATALE]]に勤める。間が悪いことに定評がある。&br()小峯とは長い付き合いであり、犯罪周りの情報共有や[[上司>ヤブ下　安理]]への繋ぎもよく任されている。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/yntnfn]]|
 |[[姫一　夕]]|[[Fashion MiMi]]|RiPRAYの正装や戦闘服の製作を任せているファッションコーディネーター。白市民。&br()この街随一のコスプレイヤーでもあり、街にある洋服を知り尽くしている。|配信|
-|[[大　川]]|[[A2]]/[[WAND BOX]]/[[渡戸林業]]&br()[[飯田書店]]&small(){（非ジョブ）}|小峯とライアンとは[[ARCANA]]の元同僚の白市民。メカニックのため車両関係に詳しい。&br()[[麻林のカジノ>https://w.atwiki.jp/streamergta5/pages/3450.html]]にも勤めており、カジノが行う表裏の事業にも関わる。|&font(#9146FF){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/bacter1a_]]|
+|[[大 川>大　川]]|[[A2]]/[[WAND BOX]]/[[渡戸林業]]&br()[[飯田書店]]&small(){（非ジョブ）}|小峯とライアンとは[[ARCANA]]の元同僚の白市民。メカニックのため車両関係に詳しい。&br()[[麻林のカジノ>https://w.atwiki.jp/streamergta5/pages/3450.html]]にも勤めており、カジノが行う表裏の事業にも関わる。|&font(#9146FF){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/bacter1a_]]|
 |[[飯田　けんつ]]|[[飯田書店]]/[[渡戸林業]]|小峯が犯罪を教えていた後輩的元黒市民。&br()現在は街での様々な&infobox(title=事業,trigger=hover,size=small){書店、木こり、職業あっせん等}、&infobox(title=イベント興行,trigger=hover,size=small){サッカー、レース、人狼等}に携っており、白市民の顔役の様な立場になっている。&br()小峯とはTOPGEAR時代に色々確執もあったが、今では気楽に情報交換をする関係性になっている。|&font(#9146FF){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kentsumeshi_heyoo]]&nbsp()/&nbsp()&font(#FF0000){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>https://youtube.com/channel/UCBm-vsGV7nQv6hKS6Wj9x-A?si=LxbDxD85zOm-bV2n]]|
 //|[[麻林　ラル]]|JOB|小峯とライアンとは[[ARCANA]]の元同僚。転送後しばらくは犯罪をしていたが、&br()今は足を洗って[[カジノ>https://w.atwiki.jp/streamergta5/pages/3450.html]]のオーナーへ転身。裏で犯罪者向けの闇興行を行おうと画策している。|&font(#9146FF){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/ralph_mp3]]|
 //|名前|職業・所属|詳細|配信|
@@ -358,7 +365,7 @@
 #areaedit(end)
 #endregion
 //
-#region(9月,open)&font(b,110%){9月}
+#region(9月)&font(b,110%){9月}
 #areaedit
 #table_style(head=#003F8E:#FFF:center:b){詳細=12px}
 #table_filter(){出来事=show,関係者=hide,詳細=show}
@@ -372,6 +379,14 @@
 |MIDDLE:09/24|MIDDLE:自組織改名している旨を対外組織関係者へ開示|MIDDLE: |NOVA FAMILIAの脇 逢魔、anbrellaのアルフォート ウェスカーと各々組織の在り方について話した際に、&br()現在小峯のギャングはDERAYから改名して活動をしていることをそれぞれとの対話内で伝えた。&br()なお、現時点でRiPRAYの組織名自体は伝えていない。|
 |MIDDLE:09/26|MIDDLE:メンバー用 グループチャット再作成|MIDDLE: |デヤンスが加入し、組織名も一新したため、連絡用に使うグループチャットを作成した。&br()なお、このチャット名を決める際に組織名を“RiPRAY”に変更し、ガヴァイと話したうえで正式に表記を確定することとした。【[[📎>>https://www.twitch.tv/foxrabbit/clip/AliveStupidShieldOpieOP-G222ld8Efs4aCWS5]]】|
 //|MIDDLE:mm/dd|MIDDLE:出来事|MIDDLE:関係者||
+#areaedit(end)
+#endregion
+//
+#region(10月,open)&font(b,110%){10月}
+#areaedit
+#table_style(head=#003F8E:#FFF:center:b){詳細=12px}
+#table_filter(){出来事=show,関係者=hide,詳細=show}
+|~日付|~出来事|~関係者|~詳細|h
 //|MIDDLE:mm/dd|MIDDLE:出来事|MIDDLE:関係者||
 //|MIDDLE:mm/dd|MIDDLE:出来事|MIDDLE:関係者||
 //|MIDDLE:mm/dd|MIDDLE:出来事|MIDDLE:関係者||
