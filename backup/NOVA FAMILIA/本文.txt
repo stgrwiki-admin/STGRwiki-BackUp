@@ -324,7 +324,7 @@
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 }}}
 #endregion(7月)
-#region(8月,open)&bold(){8月}
+#region(8月,close)&bold(){8月}
 #size(90%){{{#table_style(head=#696969:#F9FCFF)
 #table_filter(){関係者=hide,備考=show}
 |~日付|~出来事|~関係者|~備考|h
@@ -334,6 +334,23 @@
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 }}}
 #endregion(8月)
+#region(9月)&bold(){9月}
+#size(90%){{{#table_style(head=#696969:#F9FCFF)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
+#endregion(10月)
+#region(10月,open)&bold(){10月}
+#size(90%){{{#table_style(head=#696969:#F9FCFF)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+|10/10|[[DEP]]との対立|アジト前の道路で心なきを撃って銃の練習をしていた[[柚麦　とと]]と[[萌愛　くしゅり]]がたまたま通りかかった[[加藤　圧]]を撃ち殺しダウンさせた。&br()当人らは心ありを撃ったと気づいておらず事態を察して駆けつけたDEPの部下により撃たれダウンさせられた。&br()その後の会話で柚麦ととが強硬な態度を取り関係が悪化。||
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
+#endregion(10月)
+
 
 #endregion(2026年)
 //|mm/dd|出来事|関係者|備考|
