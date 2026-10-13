@@ -2086,14 +2086,17 @@
 #div(width=300px,bgcolor=#E761A4){&font(b,#FFFFFF,100%){　　Season 2}}
 //
 ***2026年
-#region(9月,open)&b(){9月}
+#region(開く,open)&b(){閉じる}
 #table_style(head=center:#e7a6c7){配信日=right,part=center}
 |~配信日|~part|~配信タイトル|~備考|h
 |09/27|0|[[『???』>>https://www.youtube.com/live/bkBB46AK5sA?si=QOkps6fYLuHz7eD-]]||
+|10/03|1|[[『新たな街を見る』>>https://www.youtube.com/live/DexFIA5KlZY?si=c0nFwxyiqZQRJaAj]]||
+|10/03|2|[[『市民交流と金稼ぎ』>>https://www.youtube.com/live/C0JmALYXDGQ?si=Waxa7lnNSGS0icdo]]||
+|10/04|3|[[『”アルバイト”をしてみましょうか』>>https://www.youtube.com/live/X_sbdny1HHw?si=DtsFLWE06xy9fgg8]]||
+|10/10|4|[[『人との出会いを求めて』>>https://www.youtube.com/live/esenndYRxps?si=BxOIv0Qr2rNPMDU1]]||
+|10/11|5|[[『お金稼ぎでもしようかな』>>https://www.youtube.com/live/bnKVLM9lfK0?si=-NGV6l7H_LdJahKj]]||
+//|10/dd|n|[[タイトル>>URL]]||
 #endregion(2026年9月)
-
-
-//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 
 *&color(#FFFFFF){&font(#E761A4){&icon_fa(fa fa-youtube-play)} その他アーカイブ}

@@ -1,7 +1,5 @@
-&font(#F07828,17px){&icon_fa(fa fa-square)} &font(b){観測者各位へ}
-&openclose2(show=「伝書鳩」){(「○○さんは△△だったよ」などの&u(){自分及び相手視点では得られない情報を伝える行為})}や、本人の頼んでいないことへの&openclose2(show=「提案または指示行為」){(「○○しないの？」などの&u(){配信者に対して動きを促す行為})}は&color(#F54738){&bold(){どんなに善意であっても絶対にやめましょう}}。&br()また、それらの行為をする人に対して指摘する行為も指示と同じなので控えましょう。
-
-&font(#F07828,17px){&icon_fa(fa fa-square)} より気持ち良く観測を続けるために、&b(){[[ストグラ運営からのお願い>>https://x.com/STGR_RolePlay/status/1612965702935384065?s=20]]}・&b(){[[観測者の心得]]}について一読をお願い致します。
+&font(#F07828,13px){&icon_fa(fa fa-square)} &font(b){観測者の皆様へ}
+&small(){&b(){[[ストグラ運営からのお願い>>https://x.com/STGR_RolePlay/status/1612965702935384065?s=20]]}・&b(){[[観測者の心得]]}について一読をお願い致します。}
 ----------
 *&size(25){&color(#EC935F){&size(35){&color(#F07828){プ}}ロフィール &icon_fa(fa fa-shield)}}
 //Season 2 プロフ画像大募集🙏
@@ -272,7 +270,7 @@
 |~犯罪|~変装(仮)|~姫一さんとっておき|~（服装登録名）|
 #endregion(変装ここまで)
 
-〜編集中〜
+&small(){〜編集大歓迎！〜}
 
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -2058,7 +2056,7 @@
 #areaedit(end)
 #endregion(4月〜6月)
 //
-#region(7月〜9月,open)&b(){7月〜9月}
+#region(7月〜9月)&b(){7月〜9月}
 #areaedit
 #size(90%){{{#table_style(head=center:#005731:#fff){日付=right,#=center}
 |~日付|~#|~動画タイトル|~備考|h
@@ -2088,6 +2086,16 @@
 #table_sorter{even=#f7f7f7,odd=fff}}}}
 #areaedit(end)
 #endregion(7月〜9月)
+//
+#region(10月〜12月,open)&b(){10月〜12月}
+#areaedit
+#size(90%){{{#table_style(head=center:#005731:#fff){日付=right,#=center}
+|~日付|~#|~動画タイトル|~備考|h
+|10/dd|x|[[title>>URL]]| |
+//|10/dd|x|[[title>>URL]]| |
+#table_sorter{even=#f7f7f7,odd=fff}}}}
+#areaedit(end)
+#endregion(10月〜12月)
 
 &font(b,#9D9087,10px){&font(#c53d43){&icon_fa(fa fa-youtube-play)} YouTube 再生リスト[[【ストグラ】>>https://youtube.com/playlist?list=PLuTFSEudeLhpWK-dHcUKKhcscKgkN3oAb&si=9VH778ooHZf2xh4d]]からもご確認ください。&br()また、投稿動画はストーリー的には順不同となっております。&br()そのため、もしストーリーを時系列順でご覧になりたい方は、&br()再生リスト[[【ストグラ：時系列順】>>https://youtube.com/playlist?list=PLuTFSEudeLhqvDzL-Nk-QUerTgBAzVKHd&si=jNYvhwBpHChKfq3i]]をご利用ください。}
 
