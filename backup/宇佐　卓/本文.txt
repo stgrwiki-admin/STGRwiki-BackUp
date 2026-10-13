@@ -738,6 +738,7 @@
 //|yy/mm/dd(aaa)|n|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
+
 *&size(20){&color(#eaf4fc){&size(25){&color(#a596c7){切}}り抜き動画 &icon_fa(fa fa-scissors)}}
 &bold(){&font(#DA1725){&icon_fa(fa fa-youtube)}&space()YouTube切り抜き動画はご本人が編集しています。}
 **2026年
@@ -777,4 +778,14 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 
+*&size(20){&color(#eaf4fc){&size(25){&color(#a596c7){ス}}トグラ外コラボ &icon_fa(fa fa-scissors)}}
+**2026年
+#region(開く,open)
+#table_style(head=center:#9b68a9:#FFF){配信日=right,#=center}
+|~配信日|~&font(#FFF){&icon_fa(fa-brands fa-twitch)} 配信タイトル|~参加メンバー|h
+|26/10/12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[ラーメン屋さんになるwith さぽてん、ゆちゃむ、アイオーン・ヴェルナ>>https://www.twitch.tv/videos/2898770611]]|さぽてん([[天田　さぽ]])、ゆちゃむ([[音凪　紬]])、アイオーン・ヴェルナ([[鈴那　衣遠]])|
+
+//|mm/dd(aaa)|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>ＵＲＬ]]|yyyy/mm/dd(aaa)||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
 #right(){&link_up(🔝ページTOPへ)}
