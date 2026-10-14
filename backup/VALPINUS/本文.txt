@@ -13,6 +13,8 @@
 //|~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|施設名|
 //&icon_fa(fa-solid fa-seedling)
 
+//ぬるっと「VALPINUS」のスペルを決めていたため、変更があったら修正してください。(10/14 nktr)
+
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
 #endregion
@@ -24,17 +26,14 @@
 -組織名は「&ruby(ヴァルキリー){Valkyrie}（戦乙女）」とオオカミのラテン語「&ruby(ルプス){lupus}」由来の花の名を持つ「&ruby(ルピナス){Lupinus}」を合わせた造語。
 -開かれた楽しい花屋を目指している。
 
-*業務内容
-
-
-
-
+//*業務内容
+//
 *メンバー
 #size(90%){#table_style(head=#DAB8EA:#fff)
 #table_filter(){役職=show,就職日=show,兼業=hide,備考=show,配信=show}
 |~役職|~名前|~就職日|~兼業|~備考|~配信|h
 |代表|[[日之　ぱちお]]|2026/09/02|[[喫茶ひまわり]]店長&br()&small(){探偵事務所} [[エノテラ]]探偵|元[[警察官>ロスサントス警察]]&br()無馬に特別な種を託された。1人で大量の鉢植えを栽培するファーマー。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[Twitch>>https://www.twitch.tv/patisyu]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://www.youtube.com/@%E3%81%B1%E3%81%A1%E3%81%88%E3%82%8B%E5%85%84%E5%A6%B9]]|
-|代表|[[丘猫　まる]]|2026/09/02|[[喫茶ひまわり]]副店長&br()&small(){探偵事務所} [[エノテラ]]助手&br()[[わくわくハピネス隊]]&br()&small(){コスメ＆ネイルサロン} [[Ailemu]]&br()&small(){ナイトクラブ} [[The Artemis]]&br()&small(){イベント会社} [[AILES]]|元ギャング（[[NO LIMIT]], &small(){[[わくわくハーデス隊]]}）&br()自分がぱちおを巻き込んだつもりでいたら、ぱちおにもっと深いところに引きずり込まれた。&br()建前上の代表、情報戦に長ける。1人で栽培できるもん。|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/soraposhich]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://www.youtube.com/@SoraphoshiCH]]|
+|代表|[[丘猫　まる]]|2026/09/02|[[喫茶ひまわり]]副店長&br()&small(){探偵事務所} [[エノテラ]]助手&br()[[わくわくハピネス隊]]&br()&small(){コスメ＆ネイルサロン} [[Ailemu]]&br()&small(){ナイトクラブ} [[The Artemis]]&br()&small(){イベント会社} [[AILES]]|元ギャング（[[NO LIMIT]], &small(){[[わくわくハーデス隊]]}）&br()自分がぱちおを巻き込んだつもりでいたら、ぱちおにもっと深いところに引きずり込まれた。&br()建前上の代表、情報戦に長ける。「1人で栽培できるもん！」[[&icon_fa(fa-regular fa-circle-play)>>https://www.twitch.tv/patisyu/clip/CoySplendidEelKevinTurtle-BPNMEnjyKsfdTSTA]]|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/soraposhich]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://www.youtube.com/@SoraphoshiCH]]|
 |従業員|[[文殊　セイジ]]|2026/09/06|&small(){半グレ集団} [[闇鍋インパクト]]&br()[[タクシー運転手>https://w.atwiki.jp/streamergta5/pages/3420.html]]&br()&small(){イベント会社} [[AILES]]|元ギャング（[[NO LIMIT]]）、元[[DEP]]&br()トラブル時の用心棒兼任|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/mirokuseiji]]|
 |従業員|[[ヘルアン]]|2026/09/23|&small(){和菓子喫茶}[[よすが]]|元ギャング（[[ALLIN]] UB,　[[hantasma]]）&br()トラブル時の用心棒兼任|&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/m2_kento_heluan]]|
 //|[[名前]]|2026/mm/dd|役職|備考|配信|
@@ -66,12 +65,14 @@
 #region(,open)
 #table_filter(){No.=show,価格=show,提供開始日=hide,商品説明=show}
 #table_style(head=#DAB8EA:#fff:center){No.=center,価格=right}
-|~商品名|~価格|~提供開始日|~商品説明|h
-
+|~画像|~商品名|~価格|~提供開始日|~商品説明|h
+|MIDDLE:BGCOLOR(#ffff84):&blankimg(花.png,x=70,y=70)|花|||「種」から生まれる花束用の黄色の花|
+|MIDDLE:BGCOLOR(#FFF):&blankimg(パレア.png,x=70,y=70)|パレア|||「SEED-00」から生まれる白の花穂&br()「SEED-01」に変異する。|
+|MIDDLE:BGCOLOR(#7fffff):&blankimg(アルボル.png,x=70,y=70)|アルボル|||「SEED-01」から生まれる青の花穂&br()「SEED-02」に変異する。|
+|MIDDLE:BGCOLOR(#DAB8EA):&blankimg(ラテル.png,x=70,y=70)|ラテル|||「SEED-02」から生まれる紫の花穂&br()「SEED-00」の「種さや」にループする。|
 //|商品名|価格|提供開始日|説明|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
-
 #endregion
 
 *沿革・歴史
