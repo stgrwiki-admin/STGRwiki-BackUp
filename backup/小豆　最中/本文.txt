@@ -1,23 +1,34 @@
 //暫定。にはなってます）5月内どこかで「宣材写真」のような、もなぴフォト転換の予定です、5月内衛星からピック？はしそうな予感がしますが現状維持とし一旦は職場目線からのロケーションetc、精査の時期となってます
 //＠wiki特性によるものです＝一番上にサイズ比大きいフォトを置く事でシェア時に綺麗に映る仕様。というのは探知できているのでそのプロセス踏みの為このフォト配置で組んでます
 *&font(25){&font(35px,#ff1493){プ}ロフィール &icon_fa(fa fa-user-circle)}
-&image(monapi-photo.png)
 
-|&image(初期服.jpg,y=300)|
+#table_color(head=#96C)
+|&image(小豆最中_Season2.jpg,y=400)|h
+
+
+#region(Season2：開く,close)&bold(){Season2：閉じる}
+|&image(小豆最中_Season2_2.webp,y=200)|&image(小豆最中_Season2_3.webp,y=200)|&image(小豆最中_Season2_4.webp,y=200)|&image(小豆最中_Season2_5.webp,y=200)|
+#endregion(Season2の画像)
+
+#region(Season1：開く,close)&bold(){Season1：閉じる}
+|&image(monapi-photo.png,y=300)|
+#endregion(Season1の画像)
 
 &bold(){「こまめさいちゅうと書いて小豆最中ですよろ～！！もなぴって呼んでね✌☆」}
 
+#table_filter(){Season1=hide,Season2=show}
 #table_style(head=#96C:#FFF)
-|~名前|&ruby(あずき){小豆}　&ruby(もなか){最中}|
-|~愛称|もなぴ|
-|~出身地|日本|
-|~誕生日|2月10日 (21歳)|
-|~職業|和食屋【[[菖光亭]]】&size(12){2024/2/22～}&br()【[[救急救命隊>>ロスサントス救急救命隊]]】&size(12){2025/5/15～ (&countup(2025/05/15,yd)経過)}&br()&small(){・Doctor(2)/医師}&br()&small(){&openclose2(show=▼過去の職業){&br()&s(){カーディーラー【[[深沢モータース]]】}&size(12){～2024/01/31}&br()カーディーラー【[[プラネットモータース]]】&size(12){ 2024/2/2～}&br()&s(){【[[菖光會]]】}&size(12){ ～2023/9/10} &br()&s(){メカニック【[[JTS>>ジョアンナテクノサービス]]】}&size(12){ ～2023/12/26}&br()→&s(){メカニック([[Project Y]])}&size(12){ ～2024/1/31}&br()→&s(){メカニック([[PYC]])}&size(12){ 2024/2/2～2025/3/31}&br()}}|
-|~所属|レディース暴走族「[[魔痔蚊流]]」ケツ持ち担当|
-|~TwiX|@小豆最中|
-|~プレイヤー|あずきもなか@父ノ背中|
-|~告知等|&font(#1da1f2){&icon_fa(fa fa-twitter)}[[&font(#1da1f2){Twitter}>>https://twitter.com/mo_na_ka1025]]|
-|~配信場所|&bold(){(配信)}&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/azumona]]/ (話数アーカイブ※一部)&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Youtube>>https://www.youtube.com/@%E3%81%82%E3%81%9A%E3%81%8D%E3%82%82%E3%81%AA%E3%81%8B-q6l/videos]]|
+|~世界線|~Season1|~Season2|h
+|~名前|>|&ruby(あずき){小豆}　&ruby(もなか){最中}|
+|~愛称|>|もなぴ|
+|~出身地|>|日本|
+|~誕生日|>|2月10日 (21歳)|
+|~職業|和食屋【[[菖光亭]]】&size(12){2024/2/22～}&br()【[[救急救命隊>>ロスサントス救急救命隊]]】&size(12){2025/5/15～ (&countup(2025/05/15,yd)経過)}&br()&small(){・Doctor(2)/医師}&br()&small(){&openclose2(show=▼過去の職業){&br()&s(){カーディーラー【[[深沢モータース]]】}&size(12){～2024/01/31}&br()カーディーラー【[[プラネットモータース]]】&size(12){ 2024/2/2～}&br()&s(){【[[菖光會]]】}&size(12){ ～2023/9/10} &br()&s(){メカニック【[[JTS>>ジョアンナテクノサービス]]】}&size(12){ ～2023/12/26}&br()→&s(){メカニック([[Project Y]])}&size(12){ ～2024/1/31}&br()→&s(){メカニック([[PYC]])}&size(12){ 2024/2/2～2025/3/31}&br()}}|【[[救急救命隊>>ロスサントス救急救命隊]]】&size(12){2025/5/15～ (&countup(2025/05/15,yd)経過)}&br()&small(){・Surgeon(3)/外科医}|
+|~所属|レディース暴走族「[[魔痔蚊流]]」ケツ持ち担当||
+|~TwiX|@小豆最中|@monapi|
+|~プレイヤー|>|あずきもなか@父ノ背中|
+|~告知等|>|&font(#1da1f2){&icon_fa(fa fa-twitter)}[[&font(#1da1f2){Twitter}>>https://twitter.com/mo_na_ka1025]]|
+|~配信場所|>|&bold(){(配信)}&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/azumona]]/ (話数アーカイブ※一部)&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[Youtube>>https://www.youtube.com/@%E3%81%82%E3%81%9A%E3%81%8D%E3%82%82%E3%81%AA%E3%81%8B-q6l/videos]]|
 //|~市民（血液）ID|&co(){CUG08193※編集相談所にて市民IDは警察データベース以外に記載しないようにとの暫定決議がありましたので、現在非表示にさせていただいております。}|
 //職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
 
