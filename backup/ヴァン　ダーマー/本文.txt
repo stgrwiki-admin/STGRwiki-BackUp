@@ -1,23 +1,34 @@
-#center(){
-*&size(45){&color(#FFFFFF){&icon_fa(fa fa-address-card-o)}} &size(35){&color(#DCDCDC){プ} &color(#BCBCBC){ロ} &color(#A5A5A5){フ} &color(#8F8F8F){ィ} &color(#848484){ー} &color(#787878){ル}}
-}
+#div(bgcolor=#101113,color=#F1ECEA){
+&br()
+#center(){&color(#A35A69){STGR RP / CONFIDENTIAL RECORD}}
+#center(){&color(#A35A69){━━━━━━━━━━━━━━━━━━━━━━━━━━}}
+&br()
+#center(){&size(28){&bold(){&color(#F1ECEA){&ruby(Van){ヴァン}　&ruby(Dahmer){ダーマー}}}}}
+#center(){&italic(){&color(#D3BFC3){「SHOWTIMEだ...！」}}}
+&br()
+#center(){&color(#A35A69){━━━━━━━━━━━━━━━━━━━━━━━━━━}}
+#center(){&color(#F1ECEA){FILE NO. XXX}　&color(#A35A69){/}　&color(#B87885){CLASSIFIED}}
+&br()
 //&aname(ページ上部,option=nolink){}
 #slide_img(auto=2,position=center,width=370,height=500){武装.png,ヴァン　ダーマ　【初期2】.png,Screenshot_20230320-043506.png,Krieger.png,前開き.png,白スーツ.png,短髪.png,Dahmer_240601.png 	}
-
-#table_color(head=#696969:#fff)
-|~名前|&ruby(Van){ヴァン}　&ruby(Dahmer){ダーマー}|
-|~出身地|アメリカ（ルイジアナ州ニューオリンズ）|
-|~誕生日|1982年5月22日 (&countup(1982/5/22,y)歳)|
-|~転入日|2022年10月15日 &small(){(～2025/08/21)}|
-|~役職|[[ギャング]] 【[[MOZU]]】ボス&br()(キャラクターエンディング済み)|
-|~レーサー名|Van Dahmer→VD&co(){（2024/3/9～）}|
-|~&color(white){プレイヤー名}|番長/番田長助 (DetonatioN FocusMe)&br()(活動休止中)|
-|~&color(white){告知等}|&font(#1da1f2){&icon_fa(fa fa-twitter)}[[&font(#1da1f2){Twitter}>>https://twitter.com/otokogi_bancho]]|
-|~&color(white){配信場所}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCAQQrchdEWZwc0UuLdXsQvA]] / &font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/banda_chosuke]]|
 
 #region(目次,close)目次
 #contents(fromhere=true,level=2)
 #endregion
+
+*&size(19){&bold(){&color(#A35A69){01 / プロフィール}}}
+&color(#B9A5AA){IDENTITY RECORD / CONFIDENTIAL}
+&br()
+#table_color(head=#696969:#fff)
+|MIDDLE:&image(Dahmer_240601.png,width=150,height=200)|~名前|&ruby(Van){ヴァン}　&ruby(Dahmer){ダーマー}|
+|~|~出身地|アメリカ（ルイジアナ州ニューオリンズ）|
+|~|~誕生日|1982年5月22日 (&countup(1982/5/22,y)歳)|
+|~|~転入日|2022年10月15日 &small(){(～2025/08/21)}|
+|~|~役職|[[ギャング]] 【[[MOZU]]】ボス&br()(キャラクターエンディング済み)|
+|~|~レーサー名|Van Dahmer→VD&co(){（2024/3/9～）}|
+|~|~&color(white){プレイヤー名}|番長/番田長助 (DetonatioN FocusMe)&br()(活動休止中)|
+|~|~&color(white){告知等}|&font(#1da1f2){&icon_fa(fa fa-twitter)}[[&font(#1da1f2){Twitter}>>https://twitter.com/otokogi_bancho]]|
+|~|~&color(white){配信場所}|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCAQQrchdEWZwc0UuLdXsQvA]] / &font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/banda_chosuke]]|
 
 殺人、強盗、麻薬、恐喝、etc…ありとあらゆる犯罪を犯し収監されていた元軍人。
 呼吸をするように罪を犯し、プリズンを自宅と呼び自由に出入りする。
@@ -33,8 +44,9 @@
 
 彼のしたい事が犯罪だった。ただそれだけ。それらは全て《衝動》である為、息をするのと同じぐらい罪の意識は無い。
 
-#center(){
-*&size(45){&color(#FFFFFF){&icon_fa(fa fa-spinner fa-pulse fa-fw)}} &size(35){&color(#DCDCDC){基} &color(#BCBCBC){本} &color(#A5A5A5){情} &color(#8F8F8F){報}}}
+*&size(19){&bold(){&color(#A35A69){02 / 基本情報}}}
+&color(#B9A5AA){PERSONAL HISTORY / BACKGROUND}
+&br()
 ・別の州の収容所よりロスサントス収容所(プリズン)へ2022年10月15日に移送される。禁錮30年以上の受刑中の脱獄犯のため&color(#F54738){&bold(){永久指名手配}}となっている
 ・刑期は13万時間を超えており、刑務所では22号房が自室
 ・殺した人数は１００から先は覚えていない
@@ -59,7 +71,6 @@
 ・サブスク表示名「百舌鳥」
 ・全世界での永久指名手配であり、ヨーロッパ圏では別の名前で追われていると思われる（2025/6/19に情報開示）
 //悪意のある表現や、誤解を招くような表現をする書き込み、編集はおやめください。
-
 ***【過去】
 #region(開く,close)閉じる
 ・元米国陸軍の軍人であった。最終階級は一等軍曹。戦争経験あり。陸軍が１番長い
@@ -84,7 +95,6 @@
 ・6年ぐらい前に仕事でヘマをし切羽詰まっていたところ、とあるホテルのオーナーに匿ってもらったことがあり今でも恩義を感じている
 ・そのホテルを襲ったと思われる組織の名前は『クラークファミリー』。当時とは名前が変わっている様だ。（2025/06/22に情報開示）
 #endregion
-
 ***【左手の手袋について】
 #region(開く,close)閉じる
 殺し屋の仕事をしている際、依頼が入り日本へ仕事へ向かう。仕事内容は、日本のヤクザを始末するというもの
@@ -94,7 +104,6 @@
 上記の理由により掌には指紋がなく、滑ってしまうため左手の手袋を欠かす事が出来なくなった
 （詳細については2025/01/25に情報開示）
 #endregion
-
 ***【気狂い軍曹の20人殺し事件】
 #region(開く,close)閉じる
 10年前にダーマーが起こした事件。死者だけで20人。重軽傷者を含めるともっといた。当時衛生兵だった[[柳田　ライアン]]が現場に駆け付けた時には血の惨劇の中でダーマーが笑っていたらしい。その光景は彼の心にトラウマとして焼き付いた。
@@ -103,7 +112,6 @@
 
 &s(){被害者の中には[[柳田　ライアン]]の兄、アルベルト・シモンズがいた。}実際にはいなかった模様。
 #endregion
-
 ***【感情の変化】
 #region(開く,close)閉じる
 ・愛情をかけられた事はなく、幼少期に両親の自死を目撃し殺し屋に拾われ育てられた事からヴァン自身も「愛」という感情は知らない
@@ -123,7 +131,7 @@
 --以前は個人行動の多かった構成員達と共に行動する事も多くなったり、穏やかな談笑を楽しむ事も多くなった
 #endregion
 
-*&font(#FFFFFF){&icon_fa(fa-solid fa-explosion)} &color(#f5f5dc){キャラクターエンディング}
+*&size(19){&bold(){&color(#A35A69){03 / キャラクターエンディング}}}
 ・エンディングの詳細→[[エピソードⅩ>https://w.atwiki.jp/streamergta5/pages/2852.html]]
 -2025/08/16、[[GBC>GoodbyeCircus]]ボス[[マクドナルド]]との一騎打ちにてマクドナルドの仕掛けたペテンに気づかず&br()まんまと引っかかり敗北したあと、怪しげな3人組がやってきて...&br()&youtube(https://youtu.be/WktXaiyEXTA)&br()&b(){&sizex(6){&space(10)「Show timeだ...！」}}
 #region(エンディング後のプレイヤーのポスト)&bold(){閉じる}
@@ -134,27 +142,22 @@
 &youtube(https://youtu.be/KuUnInSSZVA?si=CH-JX3FCqIsugFMX)&br()&sizex(6){「私はお前達皆を愛している。」}
 #endregion
 
-*&size(45){&color(#FFFFFF){&icon_fa(fa fa-car)}} &size(35){&color(#DCDCDC){保} &color(#BCBCBC){有} &color(#A5A5A5){車} &color(#8F8F8F){両}}
-
+*&size(19){&bold(){&color(#A35A69){04 / 保有車両}}}
 
 #region(開く)閉じる
 #include(ヴァン　ダーマー/保有車両)
 
 #endregion
 
-
-*&size(45){&color(#FFFFFF){&icon_fa(fa fa-user-secret)}} &size(35){&color(#DCDCDC){ク} &color(#BCBCBC){ロ} &color(#A5A5A5){ー} &color(#8F8F8F){ゼ} &color(#848484){ッ} &color(#787878){ト}}
-
+*&size(19){&bold(){&color(#A35A69){05 / クローゼット}}}
 #include(ヴァン　ダーマー/クローゼット)
 
-
-*&size(45){&color(#FFFFFF){&icon_fa(fa fa-pencil-square-o)}} &size(35){&color(#DCDCDC){印} &color(#BCBCBC){象} &color(#A5A5A5){表}}
-//
+*&size(19){&bold(){&color(#A35A69){06 / 印象表}}}
 //
 //【　配信者様ご本人から出されている印象表を基に作成しているので、勝手な加筆はなさらないようご配慮ください　】
 //
 //
-#table_color(#eee){▽印象=#e6e6fa:center}
+#table_color(#eee){▽印象=#696969:#fff:center}
 #table_style(head=center)
 #table_filter(){2023/06/03=show}
 |BGCOLOR(#FFF):~▽印象|~[[2023/06/03>>https://twitter.com/knsijin/status/1663826998115074055?s=61&t=MPg1TJumb7mX873tf3nrrA]]|h
@@ -169,12 +172,9 @@
 |【信頼】|？？？|
 |【不安】|[[MOZU]]|
 |【厄介】|[[にし　のん]]、[[超越ヶ谷　にかり]]、[[赤城　煉]]|
-
-
+*&size(19){&bold(){&color(#A35A69){07 / エピソード}}}
 #include(ヴァン　ダーマー/エピソード)
-#center(){
-*&size(45){&color(#FFFFFF){&icon_fa(fa fa-calendar-o)}} &size(35){&color(#DCDCDC){ア} &color(#BCBCBC){ー} &color(#A5A5A5){カ} &color(#8F8F8F){イ} &color(#848484){ブ}}
-}
+*&size(19){&bold(){&color(#A35A69){08 / アーカイブ}}}
 ※エラーで「〜を新規作成する」と表示された場合、〜のリンクをコピペして開き直すと見れる可能性があります。
 &size(85%)
 ***&big(){&color(#696969){1-100日目}}
@@ -855,25 +855,20 @@ Twitchでの配信は古いものから閲覧できなくなります。★＝�
 |||||
 |||||
 |||||
-
-#endregion
-
-
-
-
 #endregion
 #endregion
-
-
-
-#center(){
-*&size(45){&color(#FFFFFF){&icon_fa(fa fa-play-circle)}} &size(35){&color(#DCDCDC){ス} &color(#BCBCBC){ト} &color(#A5A5A5){グ} &color(#8F8F8F){ラ} &color(#848484){コ} &color(#787878){ラ} &color(#6b6b6b){ボ}}
-}
+#endregion
+*&size(19){&bold(){&color(#A35A69){09 / ストグラ外コラボ}}}
 #size(85%){#table_filter(){日付=show,タイトル=show,参加者=show}
 |BGCOLOR(#696969):~&color(#f9fcff){日付}|BGCOLOR(#696969):~&color(#f9fcff){タイトル}|BGCOLOR(#696969):~&color(#f9fcff){参加者}|h
 |2023/02/12|[[第22回ストグラジオ>>https://www.twitch.tv/videos/1735977540]]|[[スクラップ>ヘラシギ]]&br()[[ユッカ>カイン　ユリウス]]&br()[[ライアン>柳田　ライアン]]&br()[[細川大佐>細嶋　光希]]&br()[[猫月みお>レイラ　キャンベル]]|
 |2023/10/20|[[iPhoneからキャス配信中 -ぎゃんぎゃんぽりのカラオケ>>https://twitcasting.tv/otokogi_bancho]]|[[ましゃかり>ましゃかり　トラボルタ]]&br()[[わきを>キャプテン　わきを]]|
 |2023/11/29|[[【#E5なう！#ストグラ トーク!!】>>https://www.youtube.com/live/l7LUO09HF6k?si=JotcrAlY9kzt_rtX]]|[[E子ちゃん>圧村　飯子]]／[[いわさき>いわさき　そす]]／[[しょぼすけ>山下　ひろし]]／[[Middleee>ミン　ドリー]]|
 |2024/08/12|[[ヴァンダーマーと実写カードバトル‼【番田長助/マクドナルド/MOZU/ストグラGBC/GTA5/ギャングPUS】>>https://www.youtube.com/watch?v=U0AR172GhWA]]|[[ライト>ライトスターボーイ]]|
-|2024/08/13|[[番長とPUS視察に行ったついでにおねだりするライト【番田長助/ヴァンダーマー/マクドナルド/MOZU/ストグラGBC/GTA5/ギャングPUS】>>https://www.youtube.com/watch?v=pJf1DS4v-zc]]|[[ライト>ライトスターボーイ]]|
+|2024/08/13|[[番長とPUS視察に行ったついでにおねだりするライト【番田長助/ヴァンダーマー/マクドナルド/MOZU/ストグラGBC/GTA5/ギャングPUS】>>https://www.youtube.com/watch?v=pJf1DS4v-zc]]|[[ライト>ライトスターボーイ]]|}
+&br()
+#center(){&color(#A35A69){━━━━━━━━━━━━━━━━━━━━━━━━━━}}
+#center(){&color(#A35A69){— END OF CONFIDENTIAL FILE —}}
+#center(){&color(#777777){STGR RP / RESTRICTED DOCUMENT}}
+&br()
 }
