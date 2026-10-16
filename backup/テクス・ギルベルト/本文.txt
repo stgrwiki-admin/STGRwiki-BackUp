@@ -529,30 +529,37 @@
 #endregion
 
 #div(width=210px,bgcolor=#C6ABB8){&size(17){&font(b){　ストグラコラボ}}}
-#size(45%){　}
+***&underdot(#C6ABB8,3px){ ゲームコラボ}
 #region(2026年,open)&bold(){閉じる}
-#table_filter(){配信日=show,配信タイトル=show,メンバー=hide,備考=show}
+#table_filter(){配信日=show,ゲームタイトル=show,配信タイトル=show,メンバー=hide,備考=show}
 #table_style(head=center:#C6ABB8){配信日=right,#=center}
-|~配信日|~配信タイトル|~メンバー|~備考|h
-|2026/03/09|[[【PICO PARK2】サニーケバブコラボ！楽しみだ！>>https://m.twitch.tv/videos/2717881427]]|柚原いづみ / 甘乃あもこ / はるてぃー / まどれ / アトラ||
-|2026/04/13|[[【ノヴァコラボ】雑談メイン！ファズモフォビアやるぞ！>>https://m.twitch.tv/videos/2747015223]]|わきを / 空衣御侍 / アトラ||
-|2026/04/21|[[ケバブ屋メンバーでコラボ！Amoug Us 3D>>https://m.twitch.tv/videos/2753489406]]|柚原いづみ / 甘乃あもこ / ふぁんきぃ / まどれ / アトラ / 所場 / まちこりーた / 覇王別姫樹里||
-|2026/05/04|[[【APEX】ストグラメンバーで遊ぶ！>>https://m.twitch.tv/videos/2763939751]]|いなふだよ / しんのすけ||
-|2026/05/19|[[【#ギルド36】E36 STREAM GUILD CUP チーム【プレミアで来た。】w/いなふ、しんのすけ>>https://m.twitch.tv/videos/2775702375]]|いなふだよ / しんのすけ||
-|2026/05/19|[[【ストグラコラボ】ウィンドローズ w/かわせさん、しずりんさん、ととさん、ライトさん>>https://m.twitch.tv/videos/2775835029]]|かわせ / 静凛 / とと / ライト / たここ||
-|2026/06/22|[[【だよキッチン】悪役キッチン>>https://m.twitch.tv/videos/2802557480]]|だよだよ / Aボタン|配信場所: &font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){だよだよくん}>>https://www.twitch.tv/dayodayo_dayo]]|
-|2026/07/14|[[N41Ruくんとイベント攻略>>https://m.twitch.tv/videos/2819792009]]|N41Ru||
-|2026/07/27|[[E36 STREAM GUILD "Buddy" CUPスクリム w/ねが>>https://m.twitch.tv/videos/2830217112]]|ねが||
-|2026/07/28|[[E36 STREAM GUILD "Buddy" CUP本番！ w/ねが>>https://m.twitch.tv/videos/2831020298]]|ねが||
-|2026/08/05|[[【S1.16Lv-】レベル上げしますか！ w/みかちーー【デバフ10個のみ】>>https://m.twitch.tv/videos/2837070839]]| みかちー||
-|2026/09/29|[[【NOVAxSHIRAHAコラボ】WARDOGS w/空衣御侍,キミトス,みかちー>>https://m.twitch.tv/videos/2887081035]]|空衣御侍 / キミトス / みかちー||
-|2026/10/06|[[【7dtd】ゾンビまみれの世界をみんなで生き抜くぞ！【れかとと7dtd】＃day1>>https://m.twitch.tv/videos/2893359590]]|||
-|2026/10/07|[[【 ストグラSeason2 /DAY168】デイリー1000万>>https://m.twitch.tv/videos/2894171729]]||ストグラ配信後&br()7 Days to Die配信|
-|2026/10/08|[[【 ストグラSeason2 /DAY169】今日も稼いで少し街ブラしたい>>https://m.twitch.tv/videos/2895033253]]||ストグラ配信後&br()7 Days to Die配信|
-|2026/10/12|[[【 わちゃサバ】初体験！お金稼ぎは得意です！>>https://m.twitch.tv/videos/2898823013]]|||
-|2026/10/13|[[【 わちゃサバ】釣りコンプリートとかダンジョン行ってみたい!!>>https://m.twitch.tv/videos/2899561526]]|||
-|2026/10/14|[[【 わちゃサバ】今日はちょっと起きたら街へ>>https://m.twitch.tv/videos/2900411959]]|||
-|2026/10/15|[[【 ストグラSeason2 /DAY172】やばいくらい寝坊した>>https://m.twitch.tv/videos/2901420117]]||ストグラ配信後&br()Minecraft配信|
+|~配信日|~ゲームタイトル|~配信タイトル|~メンバー|~備考|h
+|2026/03/09|PICO PARK2|[[【PICO PARK2】サニーケバブコラボ！楽しみだ！>>https://m.twitch.tv/videos/2717881427]]|柚原いづみ / 甘乃あもこ / はるてぃー / まどれ / アトラ||
+|2026/04/13|Phasmophobia|[[【ノヴァコラボ】雑談メイン！ファズモフォビアやるぞ！>>https://m.twitch.tv/videos/2747015223]]|わきを / 空衣御侍 / アトラ||
+|2026/04/21|Amoug Us 3D|[[ケバブ屋メンバーでコラボ！Amoug Us 3D>>https://m.twitch.tv/videos/2753489406]]|柚原いづみ / 甘乃あもこ / ふぁんきぃ / まどれ / アトラ / 所場 / まちこりーた / 覇王別姫樹里||
+|2026/05/04|APEX|[[【APEX】ストグラメンバーで遊ぶ！>>https://m.twitch.tv/videos/2763939751]]|いなふだよ / しんのすけ||
+|2026/05/19|APEX|[[【#ギルド36】E36 STREAM GUILD CUP チーム【プレミアで来た。】w/いなふ、しんのすけ>>https://m.twitch.tv/videos/2775702375]]|いなふだよ / しんのすけ||
+|2026/05/19|Windrose|[[【ストグラコラボ】ウィンドローズ w/かわせさん、しずりんさん、ととさん、ライトさん>>https://m.twitch.tv/videos/2775835029]]|かわせ / 静凛 / とと / ライト / たここ||
+|2026/07/14|Escape from Tarkov|[[N41Ruくんとイベント攻略>>https://m.twitch.tv/videos/2819792009]]|N41Ru||
+|2026/07/27|APEX|[[E36 STREAM GUILD "Buddy" CUPスクリム w/ねが>>https://m.twitch.tv/videos/2830217112]]|ねが||
+|2026/07/28|APEX|[[E36 STREAM GUILD "Buddy" CUP本番！ w/ねが>>https://m.twitch.tv/videos/2831020298]]|ねが||
+|2026/08/05|Escape from Tarkov|[[【S1.16Lv-】レベル上げしますか！ w/みかちーー【デバフ10個のみ】>>https://m.twitch.tv/videos/2837070839]]| みかちー||
+|2026/09/29|WARDOGS|[[【NOVAxSHIRAHAコラボ】WARDOGS w/空衣御侍,キミトス,みかちー>>https://m.twitch.tv/videos/2887081035]]|空衣御侍 / キミトス / みかちー||
+|2026/10/06|7 Days to Die|[[【7dtd】ゾンビまみれの世界をみんなで生き抜くぞ！【れかとと7dtd】＃day1>>https://m.twitch.tv/videos/2893359590]]|||
+|2026/10/07|7 Days to Die|[[【 ストグラSeason2 /DAY168】デイリー1000万>>https://m.twitch.tv/videos/2894171729]]||ストグラ配信後|
+|2026/10/08|7 Days to Die|[[【 ストグラSeason2 /DAY169】今日も稼いで少し街ブラしたい>>https://m.twitch.tv/videos/2895033253]]||ストグラ配信後|
+|2026/10/12|Minecraft|[[【 わちゃサバ】初体験！お金稼ぎは得意です！>>https://m.twitch.tv/videos/2898823013]]|||
+|2026/10/13|Minecraft|[[【 わちゃサバ】釣りコンプリートとかダンジョン行ってみたい!!>>https://m.twitch.tv/videos/2899561526]]|||
+|2026/10/14|Minecraft|[[【 わちゃサバ】今日はちょっと起きたら街へ>>https://m.twitch.tv/videos/2900411959]]|||
+|2026/10/15|Minecraft|[[【 ストグラSeason2 /DAY172】やばいくらい寝坊した>>https://m.twitch.tv/videos/2901420117]]||ストグラ配信後|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***&underdot(#C6ABB8,3px){ その他コラボ}
+#region(2026年,open)&bold(){閉じる}
+#table_filter(){配信日=show,配信内容=show,配信タイトル=show,メンバー=hide,備考=show}
+#table_style(head=center:#C6ABB8){配信日=right,#=center}
+|~配信日|~配信内容|~配信タイトル|~メンバー|~備考|h
+|2026/06/22|料理|[[【だよキッチン】悪役キッチン>>https://m.twitch.tv/videos/2802557480]]|だよだよ / Aボタン / かなででで|配信場所: &font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){だよだよくん}>>https://www.twitch.tv/dayodayo_dayo]]|
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 
