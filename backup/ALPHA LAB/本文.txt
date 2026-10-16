@@ -34,15 +34,19 @@
 #table_autoincrement(){label=No.,start=1}
 #endregion
 
-#region(依頼一覧)&b(){依頼一覧}
+#region(依頼一覧,open)&b(){依頼一覧}
 #areaedit
 #table_style(head=center:#006699:#FFF){店舗名=bold}
-|~依頼者|~納品日|~依頼内容|~備考|h
-|[[サニーケバブ]]|2026/6/17|メニュー開発|サニーかき氷|
-|[[ロスラジ]]|出来上がり次第随時|複数番組のロゴマーク制作|2026/8/1:笑っていいですともロゴ納品&br()2026/8/26:ロスステロゴ納品|
-|[[森のぶんぶんメカニック]]|2026/7/30|テレビ画面用ポスター制作||
-|[[サニーオイル]]||ロゴマーク制作||
-|[[ロスベガス]]|2026/8/15|タバコ屋レース賭けチケットデザイン||
+|~依頼者|~納品日|~依頼内容|~備考・納品時タイムスタンプ|h
+|[[サニーケバブ]]|2026/6/17|メニュー開発|サニーかき氷[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://youtu.be/XgdedvjslMU?t=1596]]|
+|[[ロスラジ]]|出来上がり次第随時|複数番組のロゴマーク制作|2026/8/1:笑っていいですともロゴ納品[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://youtu.be/BETAEYcCkBg?t=8822]]&br()2026/8/26:ロスステロゴ納品[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://youtu.be/WBFc71k2RBY?t=13863]]|
+|[[森のぶんぶんメカニック]]|2026/7/30|テレビ画面用ポスター制作|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://youtu.be/d1LKqdGsYwY?t=23477]]|
+|[[サニーオイル]]|制作中|ロゴマーク制作||
+|[[ロスベガス]]|2026/8/15|タバコ屋レース賭けチケットデザイン|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://youtu.be/yvOKH_89xqM?t=19893]](初回納品）　[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://youtu.be/yvOKH_89xqM?t=20790]]（再納品）|
+|[[テクス・ギルベルト]]|制作中|NOVA FAMILIAのアジトに貼るロゴ||
+|[[ザ！！！コーラボーイ！！！]]|2026/9/4|[[The Artemis]]のホストクラブポスター|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://youtu.be/dE--5r6dbHY?t=9711]]|
+|[[寝言　怠惰]]|2026/10/14|音姫みつお起床100日記念ケーキ|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://youtu.be/tXTPJCHlMU0?t=8995]]|
+|[[星詠あう]]|仕様確認中|ガソリンスタンドバイト募集ポスター||
 //|[[依頼者]]|納品日|依頼内容|備考|
 //情報がすべて揃っていなくても良いので更新してもらえるとありがたいです。
 #table_autoincrement(){label=No.,start=1}
