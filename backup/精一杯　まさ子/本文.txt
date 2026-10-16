@@ -1,5 +1,6 @@
 *プロフィール
-//&image(ここに画像のURLを入力,y=400)
+#center{&image(IMG_5267.jpeg,y=400)}
+
 //ここからプロフィール
 #table_style(head=#F0F3F7:#4B5295){}
 |~名前|~&icon_fa(fa fa-user)|&b(){&ruby(せいいっぱい){精一杯}　まさ&ruby(こ){子}}|
