@@ -60,6 +60,7 @@
 |[[高橋　ハシゴ]]|2026/09/24||
 |[[安城　成]]|2026/09/27||
 |[[黒澤　乃依]]|2026/10/03||
+|[[世良島　三日太郎]]|2026/10/17||
 //|[[名　前]]|yyyy/mm/dd||
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
@@ -120,11 +121,12 @@
 #region(2026/08/23 メニュー,close)&b(){2026/08/23 メニュー}
 &blankimg(メニュー_260823.jpeg,x=350,y=200)
 #endregion
-#region(2026/09/19 メニュー,open)&b(){2026/09/19 メニュー}
+#region(2026/09/19 メニュー,close)&b(){2026/09/19 メニュー}
 &blankimg(メニュー_260919.png,x=350,y=200)
 #endregion
 #region(2026/09/23 メニュー,open)&b(){2026/09/23 メニュー}
-&blankimg(メニュー_260923_1.png,x=180,y=240)&blankimg(メニュー_260923_2.png,x=180,y=240)
+|>|CENTER:&blankimg(メニュー_260923.png,x=350,y=200)|
+|&blankimg(メニュー_260923_1.png,x=180,y=240)|&blankimg(メニュー_260923_2.png,x=180,y=240)|
 #endregion
 
 ***限定メニュー画像
@@ -138,10 +140,13 @@
 #endregion
 }
 
-***サービス関連チラシ
-#region(開く,open)
+***関連チラシ
+#region(開く,open)&bold(){閉じる}
 #region(2026/08/28 ライブハウスレンタル・貸切,open)&b(){2026/08/28ライブハウスレンタル・貸切}
 &blankimg(Confate_ライブハウス利用プラン.jpg,x=250,y=350)
+#endregion
+#region(2026/10/11 求人募集,open)&b(){2026/10/11求人募集}
+&blankimg(Confate_求人ポスター2.png,x=250,y=313)
 #endregion
 
 #endregion
