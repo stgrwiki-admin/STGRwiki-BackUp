@@ -1,8 +1,5 @@
 *&color(#60EE3C){プ}ロフィール🐡
-#table_style(head=#228B22:#FFF:center)
-|BGCOLOR(#02F53E):&image(fb6acd3a-c584-4495-bd3b-3f022389b4a6.webp,x=150,y=200)|BGCOLOR(#02F53E):&image(5d282189-088d-4d45-be28-9b6ad3d25606のコピー.jpg,x=200,y=200)|BGCOLOR(#02F53E):&image(98fd5034-033e-44d4-8bf0-7073871959bcのコピー.jpg,x=200,y=200)|
-|~初期アバター|~#ふぁ〜部の姿|~デートの姿|
-　
+#slide_img(auto=4,position=center,width=320,height=480){fb6acd3a-c584-4495-bd3b-3f022389b4a6.webp,5d282189-088d-4d45-be28-9b6ad3d25606のコピー.jpg,98fd5034-033e-44d4-8bf0-7073871959bcのコピー.jpg}
 //ここからプロフィール
 #table_style(head=#38a138:#fdfaf4){名前=#667:#eee:b:center}
 #table_filter(){SEASON1=hide,SEASON2=show}
