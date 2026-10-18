@@ -3,18 +3,20 @@
 |&image(leki_portrait_2024-02-26.png,y=300)|&image(leki_VF.png,y=300)|&image(leki_every.png,y=300)|h
 
 //ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
 #table_style(head=#8689C3:#FFF){名前=#273043:#FFF:b:center}
-|~名前|レキ　ウィステリア|
-|~出身地|フィンランド|
-|~誕生日|04月29日/23歳(自称)|
-|~転入日|2024年01月31日 (&countup(2024/01/31,yd)経過)|
-|~職業|【[[Violet Fizz]]】バーテンダー&small(){2024/3/21～}&br()&small(){&openclose2(show=過去の職業){&nbsp(br,3)【[[菖光亭]]】店員&small(){2024/2/24～2024/5/15} &nbsp(br,3)【[[DEP]]】アルバイト&small(){2024/5/18～2024/11/24}}}|
-|~TwiX|@leki|
-|プレイヤー|もこ田めめめ(.LIVE／アップランド)|
-|BGCOLOR(#f53085):告知等|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/mokomeme_ch]]|
-|配信場所|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@MememeMokota]] / &font(#6441A4){&icon_fa(fa fa-twitch fa-fw)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/mokota_mememe]]|
-|BGCOLOR(#4dd706):ガイドライン|[[アップランド二次創作ガイドライン>>https://appland.co.jp/guideline/]]|
-|別キャラ|&openclose2(show=※ネタバレ注意){&br()[[白　雲隠]]（ばい　ゆんいん）&br()[[シャーク　ニサワール]]&br()[[暦　しんあ]]}|
+|~世界線|~Season1|~Season2|
+|~名前|>|レキ　ウィステリア|
+|~出身地|>|フィンランド|
+|~誕生日|>|04月29日/23歳(自称)|
+|~転入日|2024年01月31日 (&countup(2024/01/31,yd)経過)|2026年10月18日 (&countup(2026/10/18,yd)経過)|
+|~職業|【[[Violet Fizz]]】バーテンダー&small(){2024/3/21～}&br()&small(){&openclose2(show=過去の職業){&nbsp(br,3)【[[菖光亭]]】店員&small(){2024/2/24～2024/5/15} &nbsp(br,3)【[[DEP]]】アルバイト&small(){2024/5/18～2024/11/24}}}|　|
+|~TwiX|@leki|@　|
+|BGCOLOR(#273043):~プレイヤー|>|もこ田めめめ(.LIVE／アップランド)|
+|BGCOLOR(#f53085):~告知等|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/mokomeme_ch]]|
+|BGCOLOR(#273043):~配信場所|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@MememeMokota]] / &font(#6441A4){&icon_fa(fa fa-twitch fa-fw)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/mokota_mememe]]|
+|BGCOLOR(#4dd706):~ガイドライン|>|[[アップランド二次創作ガイドライン>>https://appland.co.jp/guideline/]]|
+|BGCOLOR(#273043):~別キャラ|>|&openclose2(show=※ネタバレ注意){&br()[[白　雲隠]]（ばい　ゆんいん）&br()[[シャーク　ニサワール]]&br()[[暦　しんあ]]}|
 //
 //職業を追加・更新した場合、「参加者一覧」等への追加・更新のご協力をお願いいたします。
 #region(目次を開く,open)目次
