@@ -1,13 +1,15 @@
 &image(エノテラ.png,y=300)
 //#slide_img(auto=5,width=400,height=225,position=center){}
 
+&font(18pt,b){「太陽が枯れないうちに」}
+
 //❗️不要な行は削除して使用してください
 #table_style(head=#ffffe0){}
 |~店名|~&icon_fa(fa fa-store)|エノテラ|
 |~業種|~&icon_fa(fa fa-magnifying-glass)|探偵事務所|
 |~開業日|~&icon_fa(fa fa-flag)|2026年09月02日 &space()&small(){（&countup(2026/09/01,yd)経過）}|
 |~所在地|~&icon_fa(fa fa-map-marker)|7014番地|
-|~オーナー|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[日之　ぱちお]]}|
+|~所長|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[日之　ぱちお]]}|
 //開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
 
 #region(目次を開く,open)目次
@@ -16,15 +18,16 @@
 **基本情報
 -元警察官の[[日之ぱちお>日之　ぱちお]]と元ギャングの[[丘猫まる>丘猫　まる]]が開設した探偵事務所
 --『[[喫茶ひまわり]]』の2階に併設されている
--探偵と言っても事件などの調査をするというよりも市民のちょっとしたお悩みから警察に言いにくいトラブルなど困っている人が相談できる場所になりたいと考えている。
+-探偵と言っても事件などの調査をするというよりも、市民のちょっとしたお悩みから警察に言いにくいトラブルなど困っている人が相談できる場所になりたいと考えている。
 -エノテラとはラテン語で月見草を意味する。喫茶店がひまわりという昼のイメージが強い花の名前なのでその対になる夜のイメージの花の名前を選んだ。
 
 **従業員情報
 ***従業員
 #table_style(head=#ffffe0)
-|~役職|~名前|~就職日|~備考|h
-|探偵|[[日之　ぱちお]]|2026/09/02||
-|助手|[[丘猫　まる]]|2026/09/02||
+|~役職|~名前|~就職日|~備考|~配信|h
+|探偵|[[日之　ぱちお]]|2026/09/02||&font(#6441A4){&icon_fa(fa fa-twitch)} [[Twitch>>https://www.twitch.tv/patisyu]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://www.youtube.com/@%E3%81%B1%E3%81%A1%E3%81%88%E3%82%8B%E5%85%84%E5%A6%B9]]|
+|助手|[[丘猫　まる]]|2026/09/02||&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/soraposhich]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://www.youtube.com/@SoraphoshiCH]]|
+|助手|[[ジト村　ミシロ]]|2026/10/18||&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://youtube.com/@346kun]]|
 
 //|役職|[[名　前]]|yyyy/mm/dd|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
@@ -55,6 +58,7 @@
 #table_filter(){関係者=hide,エピソード・備考=show}
 #table_style(head=#ffffe0:center)
 |~日付|~出来事|~関係者|~エピソード・備考|h
+||開業準備|[[日之　ぱちお]]|ぱちおが警察退職の報告と共に、各ギャングボスへ探偵事業開業の挨拶|
 |09/02|開業|[[日之　ぱちお]]、[[丘猫　まる]]|[[喫茶ひまわり]]のオープンと共に開業|
 
 //|mm/dd|出来事|関係者|エピソード・備考|
