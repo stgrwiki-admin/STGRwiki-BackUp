@@ -2,7 +2,7 @@
 #table_style(head=#B22222){}
 &font(b,i,20px,#b22222){「スコちゃんにとっての運命の人は、絶対に俺だよ。」}
 &aname(top,option=nolink){}
-#slide_img(auto=3,position=left,width=300,height=425){自撮り1.png,カジノカー1.png,水着.png,250523.png,赤スーツ_Season2.png}
+#slide_img(auto=3,position=left,width=300,height=425){レンスコ結婚式2-1500x2125.jpg,自撮り1.png,カジノカー1.png,水着.png,250523.png,赤スーツ_Season2.png}
 
 #table_filter(){Season1=hide,Season2=show}
 #table_color(#FDE8D0)
@@ -10,7 +10,7 @@
 |~名前|~&icon_fa(fa fa-user fa-fw)|>|&bold(){&ruby(みかど){帝} レン}|
 |~出身地|~&icon_fa(fa fa-location-dot fa-fw)|>|日本（新宿）|
 |~誕生日|CENTER:~&icon_fa(fa fa-birthday-cake)|>|1997年07月07日 (&countup(1997/7/7,y)歳)|
-|~転入日|CENTER:~&icon_fa(fa fa-plane-arrival)|2023年04月02日 (&countup(2023/4/2,yd)経過)|2025年12月19日 &small(){(&countup(2025/12/19,yd)経過)}|
+|~転入日|CENTER:~&icon_fa(fa fa-plane-arrival)|2023年04月02日 (&countup(2023/4/2,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)&br()※キャラクターエンディング済|
 |~職業|MIDDLE:~&icon_fa(fa fa-university fa-fw)|&b(){マフィア【[[GoodbyeCircus]]】アンダーボス}&br()&b(){クラブ【&ruby(グンナイ){[[GoodNight]]}】経営}&br()&b(){音楽喫茶【[[GroobyBabyCafe]]】店員}|&b(){ホテルカジノ【[[VERTEX>>V HOTEL]]】支配人}&br()|
 |~所属|MIDDLE:~&icon_fa(fa-solid fa-people-roof)|&b(){イベントサークル【[[エンペラーAge]]】設立者}|ギャンブル部（部長）&br()&b(){【[[モンスターハウスプロダクション]]】スタッフ &small(){(2026/05/11~)}}&br()&openclose2(show=※秘匿情報){&br()&b(){ギャング【&ruby(まだらぐみ){[[麻陀羅組]]}】構成員 &small(){(2026/10/04〜)}}}　　&co(){S1と表記方法を統一しました。}|
 |~恋人|CENTER:~&icon_fa(fa fa-heart)|>|&bold(){[[スコちゃん>>スコティッシュ・ホールド]] &size(11){2024/07/07~ (&countup(2024/07/07,yd))}&br()&b(){┣} &small(){2026年10月16日 婚約}&br()&b(){┗} &small(){2026年10月18日 挙式}}|
@@ -34,6 +34,22 @@
 //
 //
 //
+//
+
+**&size(25){&color(#ff0000){&size(35){&color(#c0312c){キ}}ャラクターエンディング&icon_fa(fa fa-person-walking-luggage)}}
+・2026年10月18日の最終便で[[スコちゃん>>スコティッシュ・ホールド]]と共にイギリスへ旅立った。
+#twitter_widget3(){<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">レンスコ結婚式大成功！💍✨<br> ︎︎ <br>そして家族でイギリスに帰国までの物語を観測してくれてありがとう！！<br>正直魂としては泣くつもりなかったんだけど、感極まってしまった...；；<br> ︎︎ <br>最高のハッピーエンドでした！！🐱🍷<a href="https://x.com/hashtag/%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ストグラ</a>　<a href="https://x.com/hashtag/%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%B3?src=hash&amp;ref_src=twsrc%5Etfw">#レンスコ</a> <a href="https://t.co/nfxjNxWDtF">pic.twitter.com/nfxjNxWDtF</a></p>&mdash; 紅月サクヤ (@Akatsuki_0325) <a href="https://x.com/Akatsuki_0325/status/2111884132330696778?ref_src=twsrc%5Etfw">October 18, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>}
+
+&image(レンスコ結婚式.jpg,x=480)
+
+
+#co{
+//補足があればこちらへ
+#region(補足)補足を閉じる
+・情報を記述
+#endregion
+}
+
 **&size(25){&color(#ff0000){&size(35){&color(#c0312c){基}}本情報🍾}}
 &font(16px,b,white,#990000){&space(3)Season 1&space(3)}
 #region(開く,close)
@@ -108,6 +124,11 @@
 #endregion
 
 【追記・編集お願いします。】
+
+・次元転送の影響で一時的かつ限定的な記憶喪失に陥っていたが、現在は全て思い出している。
+
+**&size(25){&color(#ff0000){&size(35){&color(#c0312c){ギ}}ャラリー📷}}
+#slide_img(auto=3,position=left,width=480,height=270){集合写真(20261018).png,サッカー.png}
 
 //
 //
@@ -969,4 +990,4 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 
-#right(){&link_anchor(top){🔝 TOPへ}}
+#right(){&link_anchor(top){🔝 TOPへ}}

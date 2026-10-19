@@ -1,5 +1,5 @@
 #center{
-#slide_img(auto=3,width=370,height=215){MellowBerry_ロゴ.jpeg,MellowBerry_店内.webp,MellowBerry_店内2.webp}}
+#slide_img(auto=3,width=370,height=215){MellowBerry_ロゴ.jpeg,MellowBerry_店内.webp,MellowBerry_店内2.webp,260701 開業.jpg,260930 会議.jpg}}
 
 //❗️不要な行は削除して使用してください
 #table_style(head=#c1e0ff){}
@@ -18,7 +18,7 @@
 **基本情報
 ・店員が夢の世界で実際に作った『手作り料理』を提供する店。
 ・カジノ[[LosVegas]]とメカニック[[LUNA garage]]に資金提供を受けて開業。
-|&blankimg(Mellow Berry_Flier_01.jpg,X=210,y=310)|&blankimg(Mellow Berry Closed.jpg,X=210,y=310)|
+|&blankimg(Mellow Berry_Flier_01.jpg,X=210,y=294)|&blankimg(Mellow Berry Closed.jpg,X=210,y=294)|
 
 
 **従業員情報
@@ -46,6 +46,7 @@
 |[[天田　さぽ]]|2026/09/20|キーモットの助手|
 |[[鈴那　衣遠]]|2026/09/20|キーモットの助手|
 |[[シュガー　ピーチ]]|2026/09/20|キーモットの助手|
+|[[宇佐　卓]]|2026/10/09||
 //|[[名　前]]|yyyy/mm/dd||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#FF7F7,odd=#FFFFFF}
@@ -149,13 +150,12 @@
 #endregion
 //&blankimg(非売品_.png,y=40,x=50)
 //
+//画像はゆちゃ視点のスクショをメインに使用しています。ゆちゃのインベントリが銃や闇医者道具で物騒すぎるため背景を透過しています。きれいな画像の提供大歓迎。
 ***メニュー画像
 #region(開く,open)閉じる
-&blankimg(Mellow Berry Menu_01.jpg,X=210,y=310)&blankimg(Mellow Berry_卵焼きガチャFlier.jpg,X=210,y=310)
+&blankimg(Mellow Berry Menu_01.jpg,X=210,y=294)&blankimg(Mellow Berry_卵焼きガチャFlier.jpg,X=210,y=294)
 #endregion
-//
-//画像はゆちゃ視点のスクショをメインに使用しています。ゆちゃのインベントリが銃や闇医者道具で物騒すぎるため背景を透過しています。きれいな画像の提供大歓迎。
-
+//menu5:7
 **沿革
 ***2026年
 #region(,open)
@@ -171,7 +171,7 @@
 |09/05|こみ蔵帰還|||
 |09/09|探偵が間借り||探偵事務所を探していたキーモットを雇い、間借りを許可する|
 |09/26|勝手に半額セール||キーモットとその助手[[音凪　紬]]らが好き勝手に商品を販売をする|
-|09/30|従業員会議||店に思い入れのないキーモット一派が勝手に半額セールをしていたことについて話し合い。&br()ゆちゃの失踪以降店に立っていなかった従業員全員、店に思い入れがないことを確認&br()キーモットに巻き込まれるのを忌避したナリエルが退職した|
+|09/30|従業員会議||店に思い入れのないキーモット一派が勝手に半額セールをしていたことについて話し合い。&br()ゆちゃの失踪以降、店に立っていなかった従業員全員、店に思い入れがないことを確認&br()キーモットに巻き込まれるのを忌避したナリエルが退職した|
 //|mm/dd|出来事|関係者|エピソード・備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
