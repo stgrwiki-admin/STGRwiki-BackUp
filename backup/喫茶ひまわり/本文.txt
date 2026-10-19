@@ -26,12 +26,13 @@
 ※ 騒音おじさん[[ジョン ドングリ>ジョン　ドングリ]]とストーカー[[高橋滅論>高橋　滅論]]は出禁
 **従業員情報
 ***従業員
+#table_filter(){役職=show,就職日=show,備考=show,配信=show}
 #table_style(head=#F2B31C)
-|~役職|~名前|~就職日|~備考|h
-|店長|[[日之　ぱちお]]|2026/08/05||
-|副店長|[[丘猫　まる]]|2026/08/08||
-|従業員|[[捌木　たいたい]]|2026/09/02|以前より声をかけていた。オープン当日に面接し採用。|
-||[[ジト村　ミシロ]]|2026/10/18|[[エノテラ]]で雇ったことから、ついでにジョブを付与|
+|~役職|~名前|~就職日|~備考|~配信|h
+|店長|[[日之　ぱちお]]|2026/08/05||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/patisyu]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E3%81%B1%E3%81%A1%E3%81%88%E3%82%8B%E5%85%84%E5%A6%B9]]|
+|副店長|[[丘猫　まる]]|2026/08/08||&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/soraposhich]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@SoraphoshiCH]]|
+|従業員|[[捌木　たいたい]]|2026/09/02|以前より声をかけていた。オープン当日に面接し採用。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/taitai19970904]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@taitaiYOUTUBE]]|
+||[[ジト村　ミシロ]]|2026/10/18|[[エノテラ]]で雇ったことから、ついでにジョブを付与|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/@346kun]]|
 
 //|役職|[[名　前]]|yyyy/mm/dd|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
