@@ -100,22 +100,21 @@
 //種類＝Food,Drink,Joint,Others など
 #endregion
 
-#co(){
 ***限定商品
 #region(開く,open)
-#table_filter(){No.=show,種類=show,価格=show,登録者=hide,提供開始日=hide,商品説明=show,備考=show}
+#table_filter(){No.=show,種類=show,価格=show,提供開始日=hide,商品説明=hide,備考=show}
 #table_style(head=#333:#ff1493){No.=center,価格=right}
-|~種類|~商品名|~価格|~登録者|~提供開始日|~商品説明|~備考|h
-|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|説明|備考|
-|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|説明|備考|
-|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|説明|備考|
-//|種類|商品名|価格|[[名　前]]|yyyy/mm/dd|説明|備考|
+|~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
+|Food|spookyオムライス|10,000|2026/10/18|boo!boo!boo!|作成者：[[紫音　ウィスタリア]]&br()ハロウィン商品|
+|Food|しゅしゅシュークリーム ハロウィンver|10,000|2026/10/18||作成者：[[キーピー・ダイヤ]]&br()ハロウィン商品|
+|Joint|GHOST FATE GUM|10,000|2026/10/18|ハロウィンで新登場！かむとストレス解消！|作成者：[[亀山　Hero]]&br()ハロウィン商品|
+//|種類|商品名|価格|yyyy/mm/dd|説明|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
 //オリジナル商品＝ボスメニューから登録した商品
 //種類＝food,drink,relax,others など
 #endregion
-}
+
 //
 ***メニュー画像
 #region(2026/08/23 メニュー,close)&b(){2026/08/23 メニュー}
@@ -129,9 +128,13 @@
 |&blankimg(メニュー_260923_1.png,x=180,y=240)|&blankimg(メニュー_260923_2.png,x=180,y=240)|
 #endregion
 
+
 ***限定メニュー画像
-#region(2026/09/27 メニュー,open)&b(){𝐘Ø𝐍𝐀* 1st LIVE 革命 限定メニュー}
+#region(2026/09/27 𝐘Ø𝐍𝐀* 1st LIVE 革命 限定メニュー)&b(){2026/09/27 𝐘Ø𝐍𝐀* 1st LIVE 革命 限定メニュー}
 &blankimg(YONA_1stLIVE革命_メニュー.png,x=170,y=240)
+#endregion
+#region(2026/10/18 ハロウィンメニュー,open)&b(){2026/10/18 ハロウィンメニュー}
+&blankimg(20261018_ハロウィンメニュー.jpg,x=170,y=240)
 #endregion
 
 #co{
