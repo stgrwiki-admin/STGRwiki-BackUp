@@ -1,5 +1,5 @@
 *プロフィール
-//&image(ここに画像のURLを入力,y=400)
+#center{&image(IMG_5281.jpeg,y=400)}
 
 //ここからプロフィール
 #table_style(head=#E6E6FA:#666666){}
@@ -7,10 +7,10 @@
 |~出身地|~&icon_fa(fa fa-location-dot)|日本|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|年齢は18　&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年9月16日 (&countup(2026/9/16,yd)経過)|
-|~職業|~&icon_fa(fa-solid fa-building-columns)|　|
-|~職場体験|~|&bold(){飲食店&b(){"[[サニーケバブ]]"} &small(){(2026/9/20~)}}|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|&bold(){飲食店&b(){"[[サニーケバブ]]"} &small(){従業員(2026/9/20~)}}|
+|~職場体験|~|&small(){&openclose2(show=▼過去に体験した職業){&br()&s(){飲食店&b(){"[[サニーケバブ]]"} &small(){(2026/9/20~)}}}}|
 |~所属|~&icon_fa(fa fa-users)|&bold(){&b(){[[モンスターハウスプロダクション]]} &small(){体験(2026/10/3~)}}|
-|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@　|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@iceice|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
 |~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999|
 |BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|&ruby(ほうれいてんてん){鳳玲天々}|
@@ -84,7 +84,7 @@
 #div(bgcolor=#7cb0ff){&font(b,15px,#666666){▫️市民}}&br()
 #region(開く)
 &font(b,14px,#666666){[[▫️>星詠　あう]]}[[星詠あう>https://w.atwiki.jp/streamergta5/pages/3474.html]]
-- 街で出会った第一街人。街案内をしてくれた。
+- 街で出会った第一街人。街案内をしてくれ、共に車解体バイトを実施した。
 
 [[▫️>不働　めい]][[不働めい>https://w.atwiki.jp/streamergta5/pages/3423.html]]
 - 初日星詠あうに誘われ、一緒に車解体工事のバイトをした。あいすの自己紹介に対し、ありがとう、結婚しよとの反応。後日サニーケバブで勤務中のあいすに遭遇した際も飲食物を大量に購入したり、あいすに好感を持っている様子。[[琵琶山　法師>https://w.atwiki.jp/streamergta5/pages/3745.html]]の初心者マーク外すイベント時に、あいすに車を購入すると口約束をした。
