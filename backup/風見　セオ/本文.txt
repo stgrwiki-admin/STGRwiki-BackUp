@@ -4,18 +4,21 @@
 **プロフィール
 //ここからプロフィール
 #table_style(head=#F9F8CB:#fab80d)
-|~名前|~&icon_fa(fa fa-user)|&ruby(かざみ){風見}　セオ|
-|~出身地|~&icon_fa(fa fa-map-marker)|日本|
-|~誕生日|~&icon_fa(fa fa-birthday-cake)|11/30(&countup(1998/11/30,y))|
-|~身長|~&icon_fa(fa fa-hand-lizard-o)|183cm|
-|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年01月18日 (&countup(2024/01/18,yd)経過)|
-|~職業|~&icon_fa(fa fa-martini-glass)&br()&icon_fa(fa fa-utensils)&br()&space()|BAR 「[[Violet Fizz]]」店員(2024/02/18～)&br()和食店「[[菖光亭]]」従業員(2024/03/01～2025/08/12) &br()&openclose2(show=※){メカニック「[[FOG]]」従業員(2025/08/12～)}&br()半グレ(2024/02/08～)&br()ギャング「[[ALLIN]]」体験(1回目2024/03/05,2回目2025/01/25～2025/02/05)|
-|~TwiX|~&icon_fa(fa fa-crow)|@kazaceo|
-|BGCOLOR(#FFEC47):~&color(#fab80d){プレイヤー}|BGCOLOR(#FFEC47):~&color(#fab80d){&icon_fa(fa fa-heart)}|瀬尾カザリ（Neo-Porte）|
-|BGCOLOR(#FFEC47):~&color(#fab80d){告知等}|BGCOLOR(#FFEC47):~&color(#fab80d){&icon_fa(fa fa-bullhorn)}|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X (旧&font(#fab80d){Twitter})}>>https://twitter.com/CEOKazari]]|
-|BGCOLOR(#FFEC47):~&color(#fab80d){配信場所}|BGCOLOR(#FFEC47):~&color(#fab80d){&icon_fa(fa fa-gamepad)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#fab80d){YouTube}>>https://www.youtube.com/@Kazari_Ceo]](～2024/02/09｜2025/07/25〜) &br() &font(#3B4EF0){&icon_fa(fa fa-twitch)}[[&font(#fab80d){Twitch}>>https://www.twitch.tv/ceokazari]](2024/02/10～)|
-|BGCOLOR(#FFEC47):~&color(#fab80d){動画投稿}|BGCOLOR(#FFEC47):&color(#fab80d){&icon_fa(fa fa-video-camera)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@Kazari_Ceo)}>>https://www.youtube.com/@Kazari_Ceo]]|
-|BGCOLOR(#FFEC47):~&color(#fab80d){ガイドライン}|BGCOLOR(#FFEC47):~&color(#fab80d){&icon_fa(fa fa-info-circle)}|[[ネオポルテ切り抜きガイドライン>>https://onlinecreators.jp/rule_neoporte/]]|
+#table_filter(){SEASON1=hide,SEASON2=show}
+|~世界線|~&icon_fa(fa fa-arrow-right-to-city)|~SEASON1|~SEASON2|
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(かざみ){風見}　セオ|
+|~出身地|~&icon_fa(fa fa-map-marker)|>|日本|
+|~誕生日|~&icon_fa(fa fa-birthday-cake)|>|11/30(&countup(1998/11/30,y))|
+|~身長|~&icon_fa(fa fa-hand-lizard-o)|>|183cm|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2024年01月18日 (&countup(2024/01/18,yd)経過)|2026年10月21日 (&countup(2026/10/21,yd)経過)|
+|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa fa-martini-glass) &space()BAR 「[[Violet Fizz]]」店員(2024/02/18～)&br()&icon_fa(fa fa-utensils)&space()和食店「[[菖光亭]]」従業員(2024/03/01～2025/08/12) &br()&openclose2(show=※){メカニック「[[FOG]]」従業員(2025/08/12～)}&br()半グレ(2024/02/08～)&br()ギャング「[[ALLIN]]」体験(1回目2024/03/05,2回目2025/01/25～2025/02/05)|　|
+|~所属|~&icon_fa(fa fa-group)||　|
+|~TwiX|~&icon_fa(fa fa-crow)|@kazaceo|@　|
+|BGCOLOR(#FFEC47):~&color(#fab80d){プレイヤー}|BGCOLOR(#FFEC47):~&color(#fab80d){&icon_fa(fa fa-heart)}|>|瀬尾カザリ（Neo-Porte）|
+|BGCOLOR(#FFEC47):~&color(#fab80d){告知等}|BGCOLOR(#FFEC47):~&color(#fab80d){&icon_fa(fa fa-bullhorn)}|>|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#000000){X (旧&font(#fab80d){Twitter})}>>https://twitter.com/CEOKazari]]|
+|BGCOLOR(#FFEC47):~&color(#fab80d){配信場所}|BGCOLOR(#FFEC47):~&color(#fab80d){&icon_fa(fa fa-gamepad)}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#fab80d){YouTube}>>https://www.youtube.com/@Kazari_Ceo]](～2024/02/09｜2025/07/25〜) &br() &font(#3B4EF0){&icon_fa(fa fa-twitch)}[[&font(#fab80d){Twitch}>>https://www.twitch.tv/ceokazari]](2024/02/10～)|
+|BGCOLOR(#FFEC47):~&color(#fab80d){動画投稿}|BGCOLOR(#FFEC47):&color(#fab80d){&icon_fa(fa fa-video-camera)}|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@Kazari_Ceo)}>>https://www.youtube.com/@Kazari_Ceo]]|
+|BGCOLOR(#FFEC47):~&color(#fab80d){ガイドライン}|BGCOLOR(#FFEC47):~&color(#fab80d){&icon_fa(fa fa-info-circle)}|>|[[ネオポルテ切り抜きガイドライン>>https://onlinecreators.jp/rule_neoporte/]]|
 //
 //職業を追加・更新した場合、「 https://w.atwiki.jp/streamergta5/pages/20.html#id_ab0a5ace 」（職業一覧->就業者一覧）等への追加・更新のご協力をお願いいたします。
 
@@ -2194,7 +2197,9 @@ ATM引っこ抜き成功→まさかのレキさんATM拾い損ね&openclose2(sh
 |BGCOLOR(#FFEC47):~&color(#ffffff)Vapid Domimator GTX&br()&size(10){A帯}|BGCOLOR(#FFEC47):~&color(#ffffff)Speedophile Seashark&br()&size(10){ボート}|BGCOLOR(#FFEC47):~&color(#ffffff)Nagasaki Blazer Lifeguard&br()&size(10){C帯}|BGCOLOR(#FFEC47):~&color(#ffffff)Shitzu Hakuchou Drag&br()&size(10){S帯}|
 #endregion
 **&font(#FFEC47){&icon_fa(fas fa-folder)} アーカイブ
-***2024年01月
+***Season1
+#region(開く)閉じる
+****2024年01月
 #region(開く,close)
 #table_style(head=center:#FFEC47){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
@@ -2206,7 +2211,7 @@ ATM引っこ抜き成功→まさかのレキさんATM拾い損ね&openclose2(sh
 |01/28|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ DAY6】俺は風見セオ。そろそろ脱初心者の香りがする ※鳩禁止 【瀬尾カザリ / ネオポルテ】>>https://www.youtube.com/watch?v=4jygM9luEL8]]||
 |01/31|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ DAY7】俺は風見セオ。脱☆初心者！風見分岐√1 ※鳩禁止 【瀬尾カザリ / ネオポルテ】>>https://www.youtube.com/live/zQoBZttKio8?si=o3_O2j5jm3AkfuEJ]]||
 #endregion
-***2024年02月
+****2024年02月
 #region(開く,close)
 #table_style(head=center:#FFEC47){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
@@ -2234,7 +2239,7 @@ ATM引っこ抜き成功→まさかのレキさんATM拾い損ね&openclose2(sh
 |02/28|29|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[【#ストグラ 29日目】風見セオは花粉症です。 - 風見セオ視点 ※鳩ネタバレ禁止【ネオポルテ / 瀬尾カザリ】>>https://www.twitch.tv/videos/2076093284]]||
 |02/29|30|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[【#ストグラ 30日目】風見セオ、ロスサントス生活一ヵ月を突破したので記念にいつも通りやります。 - 風見セオ視点 ※鳩ネタバレ禁止【ネオポルテ / 瀬尾カザリ】>>https://www.twitch.tv/videos/2076997699]]||
 #endregion
-***2024年03月
+****2024年03月
 #region(開く,close)
 #table_style(head=center:#FFEC47){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
@@ -2245,20 +2250,20 @@ ATM引っこ抜き成功→まさかのレキさんATM拾い損ね&openclose2(sh
 |03/19|35|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[【#ストグラ 35日目】 ただいま。 - 風見セオ視点 ※鳩指示ネタバレ禁止【ネオポルテ / 瀬尾カザリ】>>https://www.twitch.tv/videos/2095205069]]||
 |03/22|36|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[【#ストグラ 36日目】 また～りスローライフを送りたい(つもり) - 風見セオ視点 ※鳩指示ネタバレ禁止【ネオポルテ / 瀬尾カザリ】>>https://www.twitch.tv/videos/2098049524]]||
 #endregion
-***2024年04月
+****2024年04月
 #region(開く,close)
 #table_style(head=center:#FFEC47){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |04/07|37|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[【ストグラ / 風見セオ】37日目 ちょっとだけ、ね【ネオポルテ / 瀬尾カザリ】>>https://www.twitch.tv/videos/2113462325]]||
 #endregion
-***2024年12月
+****2024年12月
 #region(開く,close)
 #table_style(head=center:#FFEC47){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |12/13|38|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[【#ストグラ 37日目】皆様お久しぶりです。8カ月ぶりの風見です。 - 風見セオ視点 ※鳩指示ネタバレ禁止【ネオポルテ / 瀬尾カザリ】>>https://www.twitch.tv/videos/2325562415]]||
 |12/24|39|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[【#ストグラ 38日目】メリクリ男、クリスマス配信に挑まんとす - 風見セオ視点 ※鳩指示ネタバレ禁止【ネオポルテ / 瀬尾カザリ】>>https://www.twitch.tv/videos/2334837949]]||
 #endregion
-***2025年01月
+****2025年01月
 #region(開く,close)
 #table_style(head=center:#FFEC47){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
@@ -2271,16 +2276,16 @@ ATM引っこ抜き成功→まさかのレキさんATM拾い損ね&openclose2(sh
 |01/17|45|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[【#ストグラ 45日目】PCこわれましたこれはぼく配信できますか - 風見セオ視点 ※鳩指示ネタバレ禁止【ネオポルテ / 瀬尾カザリ】>>https://www.twitch.tv/videos/2355689776]]||
 |01/21|46|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[【#ストグラ 46日目】あ、声がなんかいいかんじにがすがすです - 風見セオ視点 ※鳩指示ネタバレ禁止【ネオポルテ / 瀬尾カザリ】>>https://www.twitch.tv/videos/2359485409]]||
 #endregion
-***2025年07月
-#region(開く,open)
+****2025年07月
+#region(開く,close)
 #table_style(head=center:#FFEC47){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |07/25|60|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】こんばんわ 風見セオ DAY?? ※鳩禁止 【瀬尾カザリ / ネオポルテ】>>https://www.youtube.com/live/lHdQL-4I1vE?si=XP8NpyI9ezAOHan6]]||
 |07/26|61|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】何をしようか 風見セオ DAY61 ※鳩禁止 【瀬尾カザリ / ネオポルテ】>>https://www.youtube.com/live/Nd535o1nY2Q?si=AASyBCWoFH23J_QU]]||
 |07/29|62|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】まだ街を回る時期だろうが 風見セオ DAY62 ※鳩禁止 【瀬尾カザリ / ネオポルテ】>>https://www.youtube.com/live/HO62lXr_2Qc?si=5qUeVfX0Z6QF5dGA]]||
 #endregion
-***2025年08月
-#region(開く,open)
+****2025年08月
+#region(開く)
 #table_style(head=center:#FFEC47){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |08/01|63|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】今日はちょっとだけ、ネ 風見セオ DAY63 ※鳩禁止 【瀬尾カザリ / ネオポルテ】>>https://www.youtube.com/live/bUZQa61-188?si=0YLIbkR7QmSy8qqr]]||
@@ -2295,8 +2300,17 @@ ATM引っこ抜き成功→まさかのレキさんATM拾い損ね&openclose2(sh
 //|mm/dd|n|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[配信タイトル>>ここに配信URLを入力]]||
 //#table_sorter{even=#f7f7f7,odd=fff}
 //#endregion
+#endregion(Season1)
+***Season2
+****2026年
+#region(開く)
+#table_style(head=center:#FFEC47){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/21|1|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[配信タイトル>>ここに配信URLを入力]]||
 
-
+#table_sorter{even=#f7f7f7,odd=fff}
+//|mm/dd|n|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[配信タイトル>>ここに配信URLを入力]]||
+#endregion
 **&font(#FFEC47){&icon_fa(fa fa-video-camera)}動画
 ***2024年
 #region(開く,open)
