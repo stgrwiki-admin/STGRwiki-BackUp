@@ -21,7 +21,7 @@
 ***従業員
 #table_style(head=#FFF0F2:#FF91A1){名前=bold}
 |~役職|~名前|~就職日|~備考|h
-|役職|[[シュガー　ピーチ]]|yyyy/mm/dd|備考|
+|役職|[[シュガー　ピーチ]]|2026/10/22|&co(就職日は開業日で記載しました)|
 //|役職|[[名　前]]|yyyy/mm/dd|備考|
 //|役職|[[名　前]]|yyyy/mm/dd|備考|
 //|役職|[[名　前]]|yyyy/mm/dd|備考|
@@ -30,23 +30,27 @@
 //
 //従業員の変更があれば「参加者一覧」への反映もお願いします
 //
-#co{
-//***職業体験者
-#table_style(head=#FFF0F2:#FF91A1)
+***職業体験者
+#region(開く)
+#size(90%){{{#table_style(head=#FFF0F2:#FF91A1)
 |~名前|~体験開始日|~備考|h
-|[[名　前]]|yyyy/mm/dd||
+|[[光乃　あびす]]|2026/10/22|OPスタッフ|
+|[[呂色　いろ]]|2026/10/22|OPスタッフ|
+|[[夜仲　コウ]]|2026/10/22|OPスタッフ|
 //|[[名　前]]|yyyy/mm/dd||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#fffafb,odd=#FFFFFF}
-}
+}}}
+#endregion
 #co{
 //***退職者
-#table_style(head=#E0E0E0)
+#size(90%){{{#table_style(head=#E0E0E0)
 |~名前|~就職日|~最終出勤日|~備考|h
 |[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
 //|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}}}
 }
 
 **商品情報
@@ -80,8 +84,10 @@
 //
 ***メニュー画像
 #region(一覧,open)
-//&image(ここに画像のURLを入力,y=400)
-#endregion
+#region(オープン時 2026/10/22,open)オープン時 2026/10/22 (クリックで拡大)
+&blankimg(Fantome Sucre_メニュー1.jpg,x=300,y=168)
+#endregion(オープン時 2026/10/22)
+#endregion(メニュー画像)
 
 **沿革
 ***2026年
