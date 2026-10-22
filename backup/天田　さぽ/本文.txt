@@ -3,11 +3,12 @@
 
 //ここからプロフィール
 #table_style(head=#E6E6FA:#666666){}
+#table_color(#E0FFFF)
 |~名前|~&icon_fa(fa fa-user)|&ruby(あまだ){天田}　さぽ|
-|~出身地|~&icon_fa(fa fa-location-dot)|　|
+|~出身地|~&icon_fa(fa fa-location-dot)|茨城　|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年8月21日 (&countup(2026/8/21,yd)経過)|
-|~職業|~&icon_fa(fa-solid fa-building-columns)|イタリアンレストラン【[[acqua ovest]]】&small(){従業員('26/08/30~)}&br()　|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|イタリアンレストラン【[[acqua ovest]]】&small(){従業員('26/08/30~)}&br()　創作料理店【[[Mellow Berry>>Mellow Berry]]】|
 |~所属|~&icon_fa(fa fa-users)|　|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@amadasapo|
 |~レーサー名|~&icon_fa(fa fa-car)|天田 さぽ　|
@@ -15,6 +16,7 @@
 |BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|さぽてん|
 |BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/sapoten_apex]]|
 |BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/sapo_ten]]|
+|BGCOLOR(#eee):~動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725)Youtube>>https://youtube.com/@sapoten_n?si=atb1rL77CJKArvNl]]|
 //|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
 //
 //&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>ＵＲＬ]] 
@@ -33,7 +35,7 @@
 #contents(fromhere=true,level=2)
 #endregion
 *基本情報
--田舎から出稼ぎにやってきた。
+-田舎（茨城）から出稼ぎにやってきた。[[🎬>>https://www.twitch.tv/sapo_ten/clip/FamousComfortableDogeDeIlluminati-WLh_qXvlO4VKAZbH]]
 ・山生まれ山育ちで自然は好き[[🎬>>https://www.twitch.tv/sapo_ten/clip/GiantConfidentWoodcockAMPEnergyCherry-911oOTm0-ORzmVi1]]
 ・夢は海外で老後を過ごすこと（そのためにお金が必要）[[🎬>>https://www.twitch.tv/sapo_ten/clip/CooperativeAmazingLemurBibleThump-_uoXGb6IN1d4R_qU]]
 ・血液型はA型だが駐車が雑すぎてO型に近いA型だと言われる[[🎬>>https://www.twitch.tv/sapo_ten/clip/CallousMoldyPorpoiseThisIsSparta-WnGRTELZKJuktAqr]]
