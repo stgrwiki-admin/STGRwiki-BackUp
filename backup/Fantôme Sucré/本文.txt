@@ -2,11 +2,12 @@
 
 //❗️不要な行は削除して使用してください
 //間違い等ありましたら、修正をお願いいたします
+//
 #table_style(head=#FFF0F2:#FF91A1){}
 |~店名|~&icon_fa(fa fa-ghost)|&b(){&ruby(ファントーム){Fantôme} &ruby(シュクレ){Sucré}}|
 |~業種|~&icon_fa(fa fa-bowl-food)|飲食店|
-|~開業日|~&icon_fa(fa fa-flag)|2026年mm月dd日&space()&small(){（&countup(2026/mm/dd,yd)経過）}|
-|~所在地|~&icon_fa(fa fa-map-marker)|××××番地|
+|~開業日|~&icon_fa(fa fa-flag)|2026年10月22日&space()&small(){（&countup(2026/10/22,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|8109番地|
 |~店長|~&space()&icon_fa(fa fa-user)&space()|&bold(){[[シュガー　ピーチ]]}|
 //開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
 
@@ -54,9 +55,9 @@
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=show}
 #table_style(head=#FFF0F2:#FF91A1){No.=center,価格=right}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|h
-|種類|商品名|価格|yyyy/mm/dd|説明|
-|種類|商品名|価格|yyyy/mm/dd|説明|
-|種類|商品名|価格|yyyy/mm/dd|説明|
+|Food|商品名|価格|yyyy/mm/dd|説明|
+|Drink|商品名|価格|yyyy/mm/dd|説明|
+|Joint|商品名|価格|yyyy/mm/dd|説明|
 //|種類|商品名|価格|yyyy/mm/dd|説明|
 #table_sorter{even=#fffafb,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
@@ -68,9 +69,9 @@
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=show}
 #table_style(head=#FFF0F2:#FF91A1){No.=center,価格=right}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|h
-|種類|商品名|価格|yyyy/mm/dd|説明|
-|種類|商品名|価格|yyyy/mm/dd|説明|
-|種類|商品名|価格|yyyy/mm/dd|説明|
+|Food|商品名|価格|yyyy/mm/dd|説明|
+|Drink|商品名|価格|yyyy/mm/dd|説明|
+|Joint|商品名|価格|yyyy/mm/dd|説明|
 //|種類|商品名|価格|yyyy/mm/dd|説明|
 #table_sorter{even=#fffafb,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
@@ -78,19 +79,19 @@
 }
 //
 ***メニュー画像
-#region(,open)
+#region(一覧,open)
 //&image(ここに画像のURLを入力,y=400)
 #endregion
 
 **沿革
 ***2026年
 #region(開く,open)
-#table_filter(){関係者=hide,エピソード・備考=show}
+#table_filter(){関係者=hide,詳細エピソード・備考=show}
 #table_style(head=#FFF0F2:#FF91A1)
-|~日付|~出来事|~関係者|~エピソード・備考|h
+|~日付|~出来事|~関係者|~詳細エピソード・備考|h
 |mm/dd|出来事|関係者|エピソード・備考|
-|mm/dd|出来事|関係者|エピソード・備考|
-|mm/dd|出来事|関係者|エピソード・備考|
+|10/07|SNS告知|[[シュガー　ピーチ]]|TwiXにてオープンとスタッフ募集の告知を行う|
+|10/22|グランドオープン|[[シュガー　ピーチ]]、[[畳　かえる]]&br()[[帆立　ほたる]]、[[宇佐　卓]]|オープンを記念した歌イベントを開催|
 //|mm/dd|出来事|関係者|エピソード・備考|
 #table_sorter{even=#fffafb,odd=#FFFFFF}
 #endregion

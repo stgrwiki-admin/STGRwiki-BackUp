@@ -46,7 +46,7 @@
 #endregion()
 
 *人間関係
-****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)入国初期}}&nbsp(45)}}
+****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&icon_fa(fa fa-paper-plane)&space(2)入国初期}}&nbsp(45)}}
 #region(開く)
 &bold(){&b(){&font(15,#666){[[タラ　ちゃん]]}}}
 &bold(){街に来て知り合った住民。いつもふざけていて、色々と巻き込んでくる人。&b(){[[ミルキー・ピンク]]}に好かれており、度々&b(){ほたる}を盾にして逃走している。イベント会社のオーナーをしていて、なんでも代行サービスの元締めでもある。}
@@ -55,7 +55,7 @@
 &bold(){街に来て知り合った&b(){[[タラ　ちゃん]]}の事が大好きな住民。&b(){ピンク}が部屋に招いてくれ、&b(){タラちゃん}の話をした事で仲が良くなった。&b(){タラちゃん}が何かした際は、連絡を入れる約束をしている。}
 #endregion
 
-****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)海上レストランUrashima}}&nbsp(45)}}
+****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&icon_fa(fa fa-anchor)&space(2)海上レストランUrashima}}&nbsp(45)}}
 #region(開く)
 &bold(){&b(){&font(15,#666){[[星ノ　みこ]]}}}
 &bold(){海上レストランUrashimaオーナー兼店長。とても仲が良く積極的に街の出来事や恋バナの情報交換をしている。&br()自分の噂話に対して敏感で異性とセットにされることを可能な限り避けている。&openclose2(show=が…){ほたるはレイジーさんとの組み合わせを推している。}&br()ほた[[かめ>>亀山　Hero]]はオーナー権限でNG。}
@@ -76,7 +76,7 @@
 &bold(){転送組でS2からUrashima店員になったホットドッグ屋占い師。ノリがよく街の歴史を知る男性で小峯さんと仲が良い。}
 #endregion
 
-****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)Club Passiona}}&nbsp(45)}}
+****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&icon_fa(fa fa-champagne-glasses)&space(2)Club Passiona}}&nbsp(45)}}
 #region(開く)
 &bold(){&b(){&font(15,#666){[[アイドゥラー　ヨシャパテ]]}}}
 &bold(){Club Passionaオーナー。白市民。元々黒市民だった知識や繋がりを駆使して従業員を守る行動をとっている。&br()種の騒動では腹を割っても濁すほたるの巻き込まない意思を汲み取ってくれた。}
@@ -97,7 +97,7 @@
 &bold(){ヘスティの妹。交友関係を増やすためにPassionaで体験。Pプロにも興味。}
 #endregion
 
-****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)Pガールズ}}&nbsp(45)}}
+****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa fa-bullhorn)&font(i,b){&space(2)Pガールズ}}&nbsp(45)}}
 #region(開く)
 &bold(){&b(){&font(15,#666){[[星詠　あう]]}}}
 &bold(){副リーダー}
@@ -112,7 +112,7 @@
 &bold(){1期生メンバー}
 #endregion
 
-****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&space(2)街の住民}}&nbsp(45)}}
+****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa fa-people-robbery)&font(i,b){&space(2)街の住民}}&nbsp(45)}}
 #region(開く)
 &bold(){&b(){&font(15,#666){[[ヘスティア　ゴデス]]}}}
 &bold(){幼馴染。[[皇帝>>ニックス　リア]]と仲が良い。}
@@ -335,6 +335,7 @@
 |10/16|132|[[きょうこそ事情聴取⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2902189969]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=5m2_prl5wZ4]]||
 |10/17|133|[[いろんな準備！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2903162863]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=LHw-Sj0oMeE]]||
 |10/18|134|[[レンスコ結婚式！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2904064951]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=QAqxm-bOzZM]]||
+|10/21|135|[[ロス上等チケ発⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2906673342]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=wpXO1xfGObU]]||
 //|10/dd|n|[[帆立ほたるのばりばり掛け持ち社員生活>>ＵＲＬ]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(10月)
@@ -433,7 +434,7 @@
 |06/26|[[オブジェになるおちゃめな大川さん【大川/執事K/柚乃いずみ/帆立ほたる】>>https://www.youtube.com/shorts/QPP35fSOG70]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 }
-#endregion(ショート2026前半)
+#endregion(ショート26前半)
 #region(2026年7~12月)&b(){2026年7~12月}
 #size(90%){#table_style(head=center:#E6E6FA){投稿日=right}
 |~投稿日|~タイトル|~備考|h
@@ -460,20 +461,22 @@
 |10/15|[[ロス上等公開まであと6日【鴨葱吸葉】>>https://www.youtube.com/shorts/us6PAEVrdQo]]||
 |10/16|[[ロス上等公開まであと5日【王城リレイ】>>https://www.youtube.com/shorts/9WKbvAKFYTM]]||
 |10/18|[[ロス上等公開まであと4日【光乃あびす】>>https://www.youtube.com/shorts/SGm6Cy-q7KM]]||
+|10/19|[[ロス上等公開まであと3日【揚物ころも】>>https://www.youtube.com/shorts/aqNxMGpFyCE]]||
+|10/21|[[ロス上等公開まであと2日【柚麦とと】>>https://www.youtube.com/shorts/khQypbRknDs]]||
 //|mm/dd|[[ショートタイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 }
-#endregion(ショート2026後半)
+#endregion(ショート26後半)
 **歌
 #region([[エルレコ>>AILES]]登録曲)&b(){[[エルレコ>>AILES]]登録曲}
 #size(90%){#table_style(head=center:#E6E6FA){投稿日=right,ジャケット=center}
 |~投稿日|~タイトル|~ジャケット|~備考|h
-|--/--/--|アイ×スクリーム|&blankimg(SS_アイxスクリーム.jpg,width=70,height=70)&co(衛星スクリーンショット)|Cover|
-|26/08/09|[[LolliPopHolic>>https://www.youtube.com/watch?v=86qgJJyAJq4]]|&blankimg(Twix_LolliPopHolic_resize.jpg,width=70,height=70)|オリジナル|
+|--/--/--|アイ×スクリーム|&blankimg(SS_アイxスクリーム.jpg,width=70,height=70)&co(衛星スクショ)|Cover|
+|26/08/09|[[LolliPopHolic>>https://linkco.re/ysXBeFEU]]|&blankimg(Twix_LolliPopHolic_resize.jpg,width=70,height=70)|オリジナル&br()[[&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)}歌詞>>https://x.com/AkatsukiDHotaru/status/2087610490491208141]]|
 //|26/mm/dd|[[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 }
-#endregion()
+#endregion
 #region(歌コラボ)&b(){歌コラボ}
 #size(90%){#table_style(head=center:#E6E6FA){投稿日=right}
 |~投稿日|~タイトル|~備考|h
@@ -482,6 +485,6 @@
 //|26/mm/dd|[[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 }
-#endregion()
+#endregion
 
 #right(){&link_up(🔝ページTOPへ)}

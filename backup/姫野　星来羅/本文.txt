@@ -1,14 +1,83 @@
-**プロフィール
-#table_style(head=#E6E6FA:#666666){名前=#eee:b:center}
-|~名前|~&icon_fa(fa fa-user)|&ruby(ひめの){姫野} &ruby(てぃあら){星来羅}|
-|~転入日|~&icon_fa(fa fa-plane-arrival)|2023年09月28日 |
-|プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|紅花琥珀|
-|告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://twitter.com/kouka_kohaku]]|
-|配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>https://www.youtube.com/@kouka_kohaku]]|
+*プロフィール
+#table_style(head=#E6E6FA:#666666){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(ひめの){姫野}　&ruby(てぃあら){星来羅}|
+|~出身地|~&icon_fa(fa fa-location-dot)|-|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|- &co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2026年10月21日 (&countup(2026/10/21,yd)経過)&br()&small(){&openclose2(show=Season1▶){2023年09月28日  (&countup(2023/9/28,yd)経過)}}|
+|~職業|~&icon_fa(fa fa-university)|-|
+|~所属|~&icon_fa(fa fa-users)|-|
+|~TwiX|~&icon_fa(fa fa-crow)|@ &br()&small(){&openclose2(show=Season1▶){@teliara}}|
+|~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999&br()&small(){&openclose2(show=Season1▶不明){(xxx)xxx-xxxx}}|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|紅花琥珀|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://twitter.com/kouka_kohaku]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>https://www.youtube.com/@kouka_kohaku]]|
+//
+//|BGCOLOR(#eee):~動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video-camera fa-fw)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>ＵＲＬ]]|
+//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
+//|~レーサー名|~&icon_fa(fa fa-car)|-|
 
-**基本情報・エピソード
-・[[ヘラシギ]]に先生になってもらい免許を取得
-・街で買い物をし、住民とサバゲーで遊ぶ
-**アーカイブ
-[[うっす！引っ越しってめんどくさいよな>>https://www.youtube.com/watch?v=v24kamRmE1Q]]
+//各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
+//職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+//
+*基本情報
+-情報を記述
+
+*エピソード
+**Season1
+#region(2023年)&b(){2023年}
+***9/28 [[うっす！引っ越しってめんどくさいよな>>https://www.youtube.com/watch?v=v24kamRmE1Q]]
+#region(開く,open)閉じる
+-[[ヘラシギ]]から教習を受け免許を取得
+-[[ペトロ　アルドベッグ]]の案内で飲食店を回る
+-アシッド収集のバイトに行く
+-普通車ディーラー[[竹井　勝痔]]からパントを買う
+-住民とサバゲーで遊ぶ
+#endregion(28日)
+#endregion(2023)
+**Season2
+#region(2026年,open)&b(){2026年}
+#region(10月,open)&bold(){10月}
+***10/21 [[久々の町！寝起き過ぎて全部新しく見える>>https://www.youtube.com/watch?v=YQFZmVJq1yU]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(21日)
+
+#endregion(10月)
+#endregion(2026)
+
+#co{■■■↓コピー用■■■
+#region(mm月,open)&bold(){mm月}
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(dd日)
+#endregion(mm月)
+■■■↑コピー用■■■}
+
+*アーカイブ
+**Season1
+#region(2023年)&b(){2023年}
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|9/28|1|[[うっす！引っ越しってめんどくさいよな>>https://www.youtube.com/watch?v=v24kamRmE1Q]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+**Season2
+#region(2026年,open)&b(){2026年}
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/21|1|[[久々の町！寝起き過ぎて全部新しく見える>>https://www.youtube.com/watch?v=YQFZmVJq1yU]]||
+//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+*その他
+#region(別キャラクター)&b(){別キャラクターを閉じる}
+▶[[田中・H・レイチェル]]
+#endregion
+
 #right(){&link_up(🔝ページTOPへ)}
