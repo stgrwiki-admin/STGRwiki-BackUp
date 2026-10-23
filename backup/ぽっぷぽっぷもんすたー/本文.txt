@@ -162,7 +162,7 @@
 #region(開く,open)
 &icon_fa(fa-solid fa-burger)=food、&icon_fa(fa-solid fa-droplet)=drink、&icon_fa(fa-solid fa-brain)=Joint、&icon_fa(fa-solid fa-beer-mug-empty)=Alcohol、&icon_fa(fa-solid fa-box-open)=ガチャ
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=show}
-#table_style(head=center:#e7ffb0){No.=center,価格=right}
+#table_style(head=center:#e7ffb0){No.=center,種類=center,価格=right}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|h
 |&icon_fa(fa-solid fa-burger)|商品名|価格|yyyy/mm/dd|説明|
 |&icon_fa(fa-solid fa-droplet)|スペシャルドリンク【ぽっぷぽっぷ味】|価格|2026/10/22|ぽっぷぽっぷもんすたー特製スペシャルドリンク⭐︎&br()POPではじけるフレーバーを味わってね！|
@@ -177,7 +177,7 @@
 #region(開く)
 &icon_fa(fa-solid fa-burger)=food、&icon_fa(fa-solid fa-droplet)=drink、&icon_fa(fa-solid fa-brain)=Joint、&icon_fa(fa-solid fa-beer-mug-empty)=Alcohol、&icon_fa(fa-solid fa-box-open)=ガチャ
 #table_filter(){種類=show,商品名=show,価格=show,販売期間=hide,商品説明=show}
-#table_style(head=center:#b8fff3){No.=center,価格=right}
+#table_style(head=center:#b8fff3){No.=center,種類=center,価格=right}
 |~種類|~商品名|~価格|~販売期間|~商品説明|h
 |Food|商品名|価格|yyyy/mm/dd|説明|
 |Drink|商品名|価格|yyyy/mm/dd|説明|
@@ -193,17 +193,18 @@
 &image(ぽぷもんメニュー.png,y=300)
 #endregion
 ***●Season2
-#region(開く)
-#endregion
-
+#region(一覧,open)
 #region(クラウドファウンディング)
 #table_style(head=#228B22:#FFF:center)
 |BGCOLOR(#02F53E):&image(IMG_5265.jpeg,x=400,y=500)|
 #endregion
-
+#size(50%){　}
 #region(サブスク)
 
 #endregion
+#size(50%){　}
+
+#endregion(Season2)
 #co{
 **イベント
 //収穫祭(例)など、他組織が主催するイベントへの飲食出店は【沿革】へ記載
