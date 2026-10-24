@@ -1,10 +1,15 @@
-#table_style(head=center:#dc143c:#FFFFFF)
+#table_color(head=#dc143c)
+|&image(トナカイ_Season2.jpg,y=500)|h
+
+
+#region(Season1：開く,close)&bold(){Season1：閉じる}
 #slide_img(auto=4,position=left,width=300,height=450){
 BJ_トナカイ.png,
 BJ_トナカイ②.png,
 }
+#endregion(Season1の画像)
 
-#region(その他：開く,close)&bold(){その他：閉じる}
+#region(Season1（その他）：開く,close)&bold(){Season1（その他）：閉じる}
 #slide_img(auto=4,position=left,width=290,height=400){
 タシロ　カワセ.png,
 トナカイ_個人医服.png,
