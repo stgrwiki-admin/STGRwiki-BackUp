@@ -12,13 +12,13 @@
 }
 //
 #table_style(head=#e0daec,hover=#f7f5fa:bold){}
-|~店名|~&icon_fa(fa fa-fort-awesome)|&ruby(まほうがっこう){魔法学校}グリントアカデミー&co(){&ruby(てんめい){店名}}|
+|~店名|~&icon_fa(fa fa-fort-awesome)|&b(){&ruby(まほうがっこう){魔法学校} &ruby(Glimt Academy){グリントアカデミー}}|
 |~job名|~&icon_fa(fa fa-user-tag)|　|
 |~業種|~&icon_fa(fa fa-hat-wizard)|飲食店：コンセプトカフェ|
-|~開業日|~&icon_fa(fa fa-paw)|yyyy年mm月dd日&space()&small(){（&countup(yyyy/mm/dd,yd)経過）}|
+|~　開業日　|~&icon_fa(fa fa-paw)|yyyy年mm月dd日&space()&small(){（&countup(yyyy/mm/dd,yd)経過）}|
 |~所在地|~&icon_fa(fa fa-broom)|6027番地|
 |~TwiX|~&icon_fa(fa fa-feather)|@magicschool|
-|~オーナー|~&icon_fa(fa fa-black-tie)|&bold(){[[ノビー　ラング]]}|
+|~校長|~&icon_fa(fa fa-black-tie)|&bold(){[[ノビー　ラング]]}|
 //|~店長|~&icon_fa(fa-solid fa-user-tie)|&co(){&bold(){[[名前]]}}|
 //|~副店長|~&space()&icon_fa(fa-solid fa-user)&space()|&co(){&bold(){[[名前]]}}|
 //開業日は正式なものを、市長から店舗を購入した日は基本情報へお願いします
@@ -71,7 +71,7 @@
 #table_filter(){就職日=show,兼業=hide,備考=hide}
 #table_style(head=#e0daec){名前=bold}
 |~役職|~名前|~就職日|~兼業|~備考|h
-|オーナー／Manager(4)|[[ノビー　ラング]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|魔法少女カフェ[[RitUal:]]の元店長|
+|校長／Manager(4)|[[ノビー　ラング]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|魔法少女カフェ[[RitUal:]]の元店長|
 |従業員／Advanced(3)|[[葛城　司]]|2026/08/02|[[救急隊>>ロスサントス救急救命隊]]&br()裁判官|魔法少女カフェ[[RitUal:]]の元従業員（人事担当）|
 |従業員／Advanced(3)|[[はが　かける]]|2026/09/09|[[救急隊>>ロスサントス救急救命隊]]|魔法少女カフェ[[RitUal:]]の元従業員|
 |従業員／Advanced(3)|[[加賀　イズミ]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|犬カフェ[[かしりん]]、[[ToY]]の元従業員／[[Re:One's]]の元店長&br()ToY・犬カフェで商品制作を行っていた|
@@ -216,10 +216,10 @@
 //
 #endregion(商品画像)
 
-***限定商品画像
+***イベント・期間限定商品画像
 //┏━━━━━━━━━━━━━━━━━━━━━━━━┓
 //
-//　　　　　限定商品画像（季節・イベント）
+//　　　イベント・期間限定商品画像（季節・イベント）
 //
 //┗━━━━━━━━━━━━━━━━━━━━━━━━┛
 #region(開く,open)

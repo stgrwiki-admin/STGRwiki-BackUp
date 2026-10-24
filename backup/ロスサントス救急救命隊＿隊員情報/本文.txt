@@ -1,7 +1,7 @@
 &font(11px,#bbb){編集ページ：&u(){[[&color(#bbb){隊員情報}>>ロスサントス救急救命隊/隊員情報]]}}
 ***&font(19,u){&color(crimson){|}&space()概要&space(10)}
 -&b(){Season1}&br()隊員数：41人（男性：19人・女性：22人）
--&b(){Season2}&br()隊員数：34人&infobox(title=※,trigger=click,gravity=west){仮採用中の人数は本採用の時に増えます。}（男性：17人・女性：17人）
+-&b(){Season2}&br()隊員数：33人&infobox(title=※,trigger=click,gravity=west){仮採用中の人数は本採用の時に増えます。}（男性：16人・女性：17人）
 ***&font(19,u){&color(crimson){|}&space()就職過程&space(10)}
 ①書類審査（夢の世界からの申請）
 ②救急隊体験（Season1は2日間、Season2は3日間）
@@ -91,7 +91,6 @@
 #size(90%){{{#table_style(head=#dc143c:#fff:center){}
 #table_filter(){階級/所属=show,氏名=show,入隊日=show,生年月日=hide,備考=show}
 |階級/所属|氏名|入隊日|生年月日|備考|h
-|(0) Recruit&br()　|[[命田　守]]|2025/12/19|1990/07/05|2026/08/30 不祥事の禊として10日間の降格処分が決定、以降の処遇は市に委ねられる。|
 |(6) Hospital director&br()医局長&br()経理部 部長|[[橘　かげまる]]|2025/12/24|1999/02/05|経理部 部長&small(){(2026/06/05〜)}|
 |(6) Hospital director&br()隊長代理&br()営業部 部長|[[神崎　治]]|2025/12/19|1997/01/17|営業部 部長&small(){(2026/05/31〜)}&br()2026/08/30 命田守の降格により繰り上がりで隊長代理を務める。|
 |(6) Hospital director&br()副医局長&br()教育部 部長&br()心療内科|[[天羽　よつは]]|2025/12/19|1997/05/29|教育部 部長&small(){(2026/05/31〜)}|
@@ -149,6 +148,7 @@
 #size(90%){{{#table_style(head=#1b1844:#fff:center){}
 |~氏名|~最終階級/役職|~最終勤務日|~事由|~備考|h
 |[[鬼桃　ぷぅ]]|&infobox(title=※,trigger=click,gravity=west){Season2では、救急隊に所属はしておらず役職は無し。}|2026/3/11|警察と救急隊の両立の難しさを痛感し、命田守隊長との面談後自主退職|Season2は警察業務に専念|
+|[[命田　守]]|(0) Recruit &infobox(title=※,trigger=click,gravity=west){不祥事により隊長から降格。降格前の階級は(7) Hospital Doctor } |2026/10/23|不祥事のため市からの通達で解雇|本人が望むなら体験から再雇用可能|
 }}}
 #endregion
 
@@ -164,4 +164,4 @@
 //|~青服（半袖）|~青服(長袖)
 //|&blankimg(画像,y=250,x=115)|&blankimg(画像,y=250,x=115)|
 //事件対応服
-#endregion
+#endregion
