@@ -1,8 +1,8 @@
 *プロフィール
-&image(ジト村ミシロ.webp,y=370)
+#slide_img(auto=4,position=left,width=300,height=400){ジト村ミシロ.webp,ジト村ミシロ_02.png}
 
 //ここからプロフィール
-#table_style(head=#F4D33A:#666666){}
+#table_style(head=#F5BB00:#666666){}
 |~名前|~&icon_fa(fa fa-user)|ジト&ruby(むら){村}　ミシロ|
 |~出身地|~&icon_fa(fa fa-location-dot)|ジト&ruby(むら){村}|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
@@ -43,6 +43,8 @@
 >
 >その夢をかなえるため、ジト村ミシロは1人故郷を離れこのロスサントスにやってきた。
 >ジト村ミシロ、18の夏である。　－－－[[プロローグ>>https://www.youtube.com/live/xZU2QJW5tgM?si=Xm7xfsI70P3eSZPZ&t=140]]より
+
+&blankimg(クイズジト村ミシロ王.jpg,y=300,x=200)
 
 *エピソード
 **2026年
@@ -165,6 +167,10 @@
 |10/14|24|[[もう1人の探偵バイトを探し出す>>https://www.youtube.com/watch?v=CS_jMk6_C3I]]| |
 |10/15|25|[[探偵バイト完結編>>https://www.youtube.com/watch?v=vSCcxni7a3k]]| |
 |10/18|26|[[探偵バイト真相編>>https://www.youtube.com/watch?v=noc9z8ZaBgo]]| |
+|10/21|27|[[探偵と攻略本>>https://www.youtube.com/watch?v=-YXvfUW4EKU]]| |
+|10/23|28|[[ミニイベントを考えてきた男>>https://www.youtube.com/watch?v=6sDscwSC4ag]]| |
+
+
 //|mm/dd|n|[[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
@@ -198,6 +204,8 @@
 |10/12|20|[[【ストグラ】驚きの新事実が判明する探偵バイト【ジト村ミシロ/切り抜き】>>https://www.youtube.com/watch?v=qHpND5e37d0]]| |
 |10/15|21|[[【ストグラ】探偵ゲームの結末に爆笑する男【ジト村ミシロ/切り抜き】>>https://www.youtube.com/watch?v=UhshziYXwHs]]| |
 |10/16|22|[[【ストグラ】謎の男ぱちおに取引を仕掛ける【ジト村ミシロ/切り抜き】>>https://www.youtube.com/watch?v=3XzNyGqWOpo]]| |
+|10/19|23|[[【ストグラ】怪しすぎる仕事を誘われガチ悩みする男【ジト村ミシロ/切り抜き】>>https://www.youtube.com/watch?v=lfWutx52uN0]]| |
+
 
 //|mm/dd|n|[[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}

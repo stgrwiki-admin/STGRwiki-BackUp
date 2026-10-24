@@ -809,22 +809,34 @@
 #region(開く,open)閉じる
 ***所有車両（Season2）
 #region(開く,open)閉じる
-#table_filter(){車両名=show,取得日=show,色=hide,説明=hide}
+#table_filter(){ID=hide,呼び名=show,車両名=show,取得日=show,色=hide,説明=hide}
 #table_style(head=center:#ffcabe){Tier=center}
-|~車両名|~取得日|>|~色|~説明|
-|&icon_fa(fa fa-car)&space()ディンカ Cody (AT)、オフロード|9日目(2026/01/10)|>|#FFFCB2|[[わんも〜Cafe]]のオープンに伴い、タクシー業を休職するため、移動用に購入。|
-|&icon_fa(fa fa-car)&space()ディンカ Cody (ST)、オフロード|38日目(2026/03/05)|>|Salmon pink|1台目の軽トラが壊れかけていたのと、海上レストランの公式レースに参加するために購入。|
-|&icon_fa(fa fa-car)&space()カリン Dilettante (Security)、コンパクトカー|39日目(2026/03/06)|>|Worn Taxi Yellow|[[らみお姉ちゃん>Kohana　Lami]]と[[ルモッチェ>B　ルモッチェ]]の3人で高圧洗浄バイトに向かう際に、4人乗りの車が欲しくなって購入。|
-|&icon_fa(fa fa-car)&space()ディンカ Blista、コンパクトカー|47日目(2026/03/22)|Salmon pink|Metallic Silver|レースに参加するために、[[須藤冬馬>須藤　冬馬]]からオススメされた車種を購入。|
-|&icon_fa(fa fa-car)&space()ディンカ Cody (AT)、オフロード|53日目(2026/04/10)|>|Metallic Black Steal|インパウンド場に車を取りに行くより買う方が早かったので購入。|
-|&icon_fa(fa fa-car)&space()Egg Car、スポーツカー|57日目(2026/04/19)|Salmon pink|Metallic Diamond Blue|イースターイベントでトークンを10個集めてエッグカーと交換した。|
-|&icon_fa(fa fa-car)&space()BF Weevil、コンパクトカー|124日目(2026/09/04)|Maple Brown|Bleached Brown|[[らみお姉ちゃん>Kohana　Lami]]からの誕生日プレゼント。&br()Season1の街で、姉妹でお揃いで持っていた「ここなのデールカー」と同じ車。|
-|&icon_fa(fa fa-car)&space()グロッティ Brioso 300 Widebody、コンパクトカー|124日目(2026/09/04)|Yellow|Beechwood Brown|[[エスターク>エスターク・Z・ダークネス]]からの誕生日プレゼント。|
+|~ID|~呼び名|~車両名|~取得日|>|~色|~説明|
+|CRKM2B1C|黄色のトラック|&icon_fa(fa fa-car)&space()ディンカ Cody (AT)、オフロード|9日目(2026/01/10)|>|#FFFCB2|[[わんも〜Cafe]]のオープンに伴い、タクシー業を休職するため、移動用に購入。|
+|IWYBYK0E|ピンクのトラック|&icon_fa(fa fa-car)&space()ディンカ Cody (ST)、オフロード|38日目(2026/03/05)|>|Salmon pink|1台目の軽トラが壊れかけていたのと、海上レストランの公式レースに参加するために購入。|
+|Y043966A|黒のトラック|&icon_fa(fa fa-car)&space()ディンカ Cody (AT)、オフロード|53日目(2026/04/10)|>|Metallic Black Steal|インパウンド場に車を取りに行くより買う方が早かったので購入。|
+|N5V51H8U|エッグカー|&icon_fa(fa fa-car)&space()Egg Car、スポーツカー|57日目(2026/04/19)|Salmon pink|Metallic Diamond Blue|イースターイベントでトークンを10個集めてエッグカーと交換した。|
+|OVMRR8CM|リスのくるま|&icon_fa(fa fa-car)&space()BF Weevil、コンパクトカー|124日目(2026/09/04)|Maple Brown|Bleached Brown|[[らみお姉ちゃん>Kohana　Lami]]からの誕生日プレゼント。&br()Season1の街で、姉妹でお揃いで持っていた「ここなのデールカー」と同じ車。|
+|96416WM0|エスちゃんカー|&icon_fa(fa fa-car)&space()グロッティ Brioso 300 Widebody、コンパクトカー|124日目(2026/09/04)|Yellow|Beechwood Brown|[[エスターク>エスターク・Z・ダークネス]]からの誕生日プレゼント。|
+|3331VS5X|水色のトラック|&icon_fa(fa fa-car)&space()ディンカ Cody (AT)、オフロード|138日目(2026/10/24)|>|メタリックダイヤモンドブルー|釣り道具を入れる用途として購入。|
 #table_sorter{even=#f7f7f7,odd=#fff}
 #table_autoincrement(){}
 //車 &icon_fa(fa fa-car)
 //バイク &icon_fa(fa fa-motorcycle)
 //自転車 &icon_fa(fa fa-bicycle)
+
+#region(売却した車)売却した車
+#table_filter(){ID=hide,呼び名=show,車両名=show,取得日=hide,売却日=show,色=hide,説明=hide}
+#table_style(head=center:#ffcabe){Tier=center}
+|~ID|~呼び名|~車両名|~取得日|~売却日|>|~色|~説明|
+|GB52M212|ー|&icon_fa(fa fa-car)&space()カリン Dilettante (Security)、コンパクトカー|39日目(2026/03/06)|138日目(2026/10/24)|>|Worn Taxi Yellow|[[らみお姉ちゃん>Kohana　Lami]]と[[ルモッチェ>B　ルモッチェ]]の3人で高圧洗浄バイトに向かう際に、4人乗りの車が欲しくなって購入。|
+|HNQ4U354|ー|&icon_fa(fa fa-car)&space()ディンカ Blista、コンパクトカー|47日目(2026/03/22)|138日目(2026/10/24)|Salmon pink|Metallic Silver|レースに参加するために、[[須藤冬馬>須藤　冬馬]]からオススメされた車種を購入。|
+#table_sorter{even=#f7f7f7,odd=#fff}
+#table_autoincrement(){}
+//車 &icon_fa(fa fa-car)
+//バイク &icon_fa(fa fa-motorcycle)
+//自転車 &icon_fa(fa fa-bicycle)
+#endregion
 #endregion
 
 ***所有船（Season2）

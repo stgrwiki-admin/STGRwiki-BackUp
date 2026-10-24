@@ -2,23 +2,27 @@
 #table_style(head=#cf191f:){}
 |&image(maa_newbody.png,y=500)|h
 //ここからプロフィール
-#table_style(head=#cf191f:#FFF){名前=#f8abb4:#cf191f:b:center}
-|~名前|&ruby(ほうか){鳳華}　マア|
-|~出身地|日本|
-|~転入日|2024年09月11日 (&countup(2024/09/11,yd)経過)|
-|~誕生日|2000年11月22日 (&countup(2000/11/22,y)歳)|
-|~職業|&b(){雀荘【[[倍々荘]]】店員} &small(){(2024/10/03～)}|
-|~所属|マフィア【[[GoodbyeCircus]]】団員 &small(){(2024/09/28～)}&br()芸能事務所【&link_anchor(id_1d672329,pageid=558){GoodbyeCompany}】所属タレント &small(){(2024/09/28～)}|
-|~TwiX|@houkamaaa|
-|プレイヤー|倉夢ぴこ(Phase Connect)|
-|告知等|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#666){X &small(){(旧&font(#1da1f2){Twitter}) @grampico_}}>https://x.com/grampico_?t=kQb1lV0SH86VRbR-dVDpiA&s=09]]|
-|配信場所|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>http://www.youtube.com/@grampico]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/grampico]]|
+#table_style(head=#cf191f:#FFF){名前=center}
+#table_filter(){Season1=hide,Season2=show}
+#table_color(#cf191f:)
+|~世界線|BGCOLOR(#cf191f):COLOR(#FFF):~&bold(){Season1}|BGCOLOR(#cf191f):COLOR(#FFF):~&bold(){Season2}|
+|~名前|>|&ruby(ほうか){鳳華}　マア|
+|~出身地|>|日本|
+|~転入日|2024年09月11日 (&countup(2024/09/11,yd)経過)|2025年12月19日 (&countup(2025/12/19,yd)経過)|
+|~誕生日|>|2000年11月22日 (&countup(2000/11/22,y)歳)|
+|~職業|&b(){雀荘【[[倍々荘]]】店員} &small(){(2024/10/03～)}|複合施設【Vertex&bold(){】}&small(){飲食店員 '26/10/18~}|
+|~所属|マフィア【[[GoodbyeCircus]]】団員 &small(){(2024/09/28～)}&br()芸能事務所【&link_anchor(id_1d672329,pageid=558){GoodbyeCompany}】所属タレント &small(){(2024/09/28～)}|マフィア【[[玖雲]]】&small(){構成員 '26/10/11~}|
+|~TwiX|>|@houkamaaa|
+|BGCOLOR(#f8abb4):COLOR(#cf191f):~プレイヤー|>|倉夢ぴこ(Phase Connect)|
+|BGCOLOR(#f8abb4):COLOR(#cf191f):~告知等|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[&font(#666){X &small(){(旧&font(#1da1f2){Twitter}) @grampico_}}>https://x.com/grampico_?t=kQb1lV0SH86VRbR-dVDpiA&s=09]]|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[X&small(){(旧}&font(#1da1f2){Twitter}&small(){) @grampico_}>https://x.com/grampico_?t=kQb1lV0SH86VRbR-dVDpiA&s=09]]|
+|BGCOLOR(#f8abb4):COLOR(#cf191f):~配信場所|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[&font(#DA1725){YouTube}>>http://www.youtube.com/@grampico]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/grampico]]|
 
 //職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
 
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
 #endregion
+
 **基本情報
 ・キラキラ輝くものを手に入れるため、ロスサントスにやってきた。
 ・好奇心旺盛な性格。

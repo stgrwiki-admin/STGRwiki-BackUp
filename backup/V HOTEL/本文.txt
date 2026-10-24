@@ -10,7 +10,7 @@
 |~営業開始日|~&icon_fa(fa fa-flag)|&co(){2026年●月●日&space()&small(){（&countup(yyyy/mm/dd,yd)経過}}|
 |~所在地|~&icon_fa(fa fa-map-marker)|8102番地|
 |~TwiX|~&icon_fa(fa fa-mobile)|@vertex|
-|~支配人|~&icon_fa(fa fa-user-secret)|&bold(){[[帝　レン]]}|
+|~支配人|~&icon_fa(fa fa-user-secret)|&bold(){[[香月　ろぎあ]]&small(){(代理 2026/10/18～)}&br()[[帝　レン]]&small(){(2026/01/25~2026/10/18)}}|
 |~オーナー|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[鳥羽　咲夜]]}|
 //
 //|~副社長(副店長)|~&space()&icon_fa(fa-solid fa-user)&space()|&bold(){[[名　前]]}|
@@ -59,8 +59,6 @@ HotelVertex.webp,HotelVertex_外観2.webp,HotelVertex_TwiX告知.jpeg
 //上から内定順となっています
 #endregion
 
-
-
 ***&icon_fa(fa fa-person-circle-check)&space()協力関係
 #region(開く,open)
 #table_style(head=#A194A6:#fff)
@@ -108,7 +106,6 @@ HotelVertex.webp,HotelVertex_外観2.webp,HotelVertex_TwiX告知.jpeg
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
-
 
 *施設情報
 **カジノゲーム
@@ -550,7 +547,7 @@ Vertexオリジナルのスロットマシーン。
 //キャバクラが今後常設される場合は別途新項目に移動する予定です。
 #endregion
 ***夏祭り
-#region(開く,open)
+#region(開く)
 &blankimg(イベント_260829夏祭り.jpeg,x=250,y=380)
 #endregion
 

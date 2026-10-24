@@ -42,7 +42,7 @@
 --建物の間取り制作のほかハウジングでの装飾依頼も受け付けている。
 ***建築・内装依頼一覧
 #region(開く)
-#table_filter(){番地=show,備考=show,施工料金=hide}
+#size(90%){{{#table_filter(){番地=show,備考=show,施工料金=hide}
 #table_style(head=#EDD5BE){建築士=b:center,ハウジング=b:center,進捗状況=center,番地=center,依頼者/所有者=b,完成画像=center}
 |~依頼者/所有者|~建築士|~ハウジング|~進捗状況|~番地|~建物種別|~備考|~施工料金|CENTER:~完成画像|MIDDLE:CENTER:~&font(#DA1725){&icon_fa(fa-brands fa-youtube)}|
 |[[Wizardry Works]]|〇|-|施工済|-|住居|ワンルームハウス テスト物件|-||[[&font(#DA1725){YouTube}>>https://youtu.be/4iG_wgaPcWQ]]|
@@ -60,13 +60,26 @@
 |[[銭形　やいち郎]]|〇|-|施工済|-|音楽スタジオ||-||[[&font(#DA1725){YouTube}>>https://youtu.be/y4mtqE8U_tI]]|
 |[[まるマヨ]]|〇|-|施工済|-|住居||-||[[&font(#DA1725){YouTube}>> https://youtu.be/f8ZQm1PCUTU]]|
 |[[アルタ・スカイブルー]]&br()[[高橋　滅論]]|〇|-|施工済|-|店舗/ボドゲバー||-||[[&font(#DA1725){YouTube}>>https://youtu.be/hUUrytZtPgY]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/zTYyHDqF_kI]]|
-|[[ブラック　ジャックス]]&br()[[猫又　ぴぴ]]|〇|-|施工済|-|店舗/飲食店|飲食店『after U』|-||[[&font(#DA1725){YouTube}>>https://youtu.be/O78RPzKjHIc]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/iaHko5aGrZE]]|
-|[[ゆちゃ　めろでぃ]]|〇|-|施工済|-|店舗/飲食店||-||[[&font(#DA1725){YouTube}>>https://youtu.be/1HrF4lXoMgg]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/7r0jq1Foavk]]|
+|[[ブラック　ジャックス]]&br()[[猫又　ぴぴ]]|〇|〇|施工済|-|店舗/飲食店|飲食店『after U』|-||[[&font(#DA1725){YouTube}>>https://youtu.be/O78RPzKjHIc]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/iaHko5aGrZE]]|
+|[[ゆちゃ　めろでぃ]]|〇|〇|施工済|-|店舗/飲食店||-||[[&font(#DA1725){YouTube}>>https://youtu.be/1HrF4lXoMgg]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/7r0jq1Foavk]]|
 |[[ももみ]]&br()[[ノビー　ラング]]&br()[[葛城　司]]|〇|-|施工済|-|店舗/飲食店|[[魔法学校カフェ>>https://w.atwiki.jp/streamergta5/pages/3708.html]]|-||[[&font(#DA1725){YouTube}>>https://youtu.be/QEu4DZBTvlA]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/8nu_hAgbN6g]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/mtlu9V9OioM]]|
-|[[LUNA Garage]]|〇|-|施工済|-|社宅||-|&blankimg(Housing_LUNAGarage.webp,x=140,y=80)|[[&font(#DA1725){YouTube}>>https://youtu.be/yobr1-vpT9E]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/1syXWFTYir4]]|
+|[[LUNA Garage]]|〇|-|施工済|-|居住/社宅||-|&blankimg(Housing_LUNAGarage.webp,x=140,y=80)|[[&font(#DA1725){YouTube}>>https://youtu.be/yobr1-vpT9E]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/1syXWFTYir4]]|
 |[[星ノ　みこ]]|〇|-|施工済|-|住居||-||[[&font(#DA1725){YouTube}>>https://youtu.be/e6Vo85rscV4]]|
-
-#table_autoincrement(){label=No,start=1}
+|[[毒多　博士]]|〇|-|施工済|-|拠点/ラボ||-||[[&font(#DA1725){YouTube}>>https://youtu.be/2qeXQ3HKb7U]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/lv0eMXv55Bw]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/js-OugrhYAs]]|
+|[[Wizardry Works]]|〇|-|施工済|-|オリジナル汎用ハウス|販売用|-||[[&font(#DA1725){YouTube}>>https://youtu.be/4bV1rUfQhj4]]|
+|[[ロスサントス警察]]|〇|△|施工済|-|警察/宿直室|会議室兼プライベートスペース|-||[[&font(#DA1725){❶}>>https://youtu.be/LdPDlq1Nz9w]] / [[&font(#DA1725){❷}>>https://youtu.be/ngxVr_jvrnY]] / [[&font(#DA1725){❸}>>https://youtu.be/6pGi74yVCgU]] / [[&font(#DA1725){❹}>>https://youtu.be/8GlkAH5n6qM]]|
+|[[白井　満太]]|〇|-|施工済|-|拠点|船着場倉庫|-||[[&font(#DA1725){YouTube}>>https://youtu.be/R3FMfP69mnQ]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/-t4Tq1zQI3c]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/JRwaTn9IwpA]]|
+|[[Wizardry Works]]|〇|-|施工済|-|オリジナル汎用ハウス|Basement基準|-||[[&font(#DA1725){YouTube}>>https://youtu.be/ZqcpFHKGusc]]|
+|~|〇|-|施工済|-|アイドルステージ||-||[[&font(#DA1725){YouTube}>>https://youtu.be/KfwbnA4Tz8s]]|
+|[[たいがのごはん]]|〇|-|施工済|-|店舗/飲食店||-||[[&font(#DA1725){YouTube}>>https://youtu.be/d8Y3u6R37so]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/H-XL4PsVCRs]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/GyVsaBqOWA0]]|
+|[[寝言　怠惰]]|〇|〇|施工済|-|居住||-||[[&font(#DA1725){YouTube}>>https://youtu.be/jtNJU5a8-ec]]|
+|[[タラ　ちゃん]]|〇|〇|施工済|-|店舗/飲食店&br()ライブステージ 事務所|[[モンスターハウスプロダクション]]&br()[[ぽっぷぽっぷもんすたー]]|-||[[&font(#DA1725){❶}>>https://youtu.be/7TaYGcea8pg]] / [[&font(#DA1725){❷}>>https://youtu.be/eQ3vrd0gftE]] / [[&font(#DA1725){❸}>>https://youtu.be/Nf4QL8Y9IeQ]] / [[&font(#DA1725){❹}>>https://youtu.be/MhPt-OpLopI]]&br()[[&font(#DA1725){❺}>>https://youtu.be/Kzehfg8JWAE]] / [[&font(#DA1725){❻}>>https://youtu.be/05hWaLDRKLQ]] / [[&font(#DA1725){❼}>>https://youtu.be/r73CeCZH6ow]]|
+|[[NOVA FAMILIA]]|-|〇|施工済|-|拠点/バー||-||[[&font(#DA1725){YouTube}>>https://youtu.be/l6h5m93H560]]|
+|[[Wizardry Works]]|〇|-|施工済|-|建売用物件||-||[[&font(#DA1725){YouTube}>>https://youtu.be/8rebfVVgCaY]]|
+|[[BJローン]]|〇|-|施工済|-|拠点/オフィス||-||[[&font(#DA1725){YouTube}>>https://youtu.be/mCgfEngXcl0]]|
+|[[ボクジュール　すずり]]|〇|-|施工済|-|居住||-||[[&font(#DA1725){YouTube}>>https://youtu.be/u5N7bH4Jzb4]]|
+|[[hantasma]]|〇|-|施工済|-|ギャングアジト||-||[[&font(#DA1725){YouTube}>>https://youtu.be/NWqwClIQTB8]]&br()[[&font(#DA1725){YouTube}>>https://youtu.be/PfaQnJ9O_K4]]|
+#table_autoincrement(){label=No,start=1}}}}
 
 //
 #co{
