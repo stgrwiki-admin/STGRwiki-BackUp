@@ -1,0 +1,37 @@
+&font(b,#969696){編集はどなたでもお気軽にどうぞ！（1行から大歓迎）}
+&font(b,#969696){誤字修正やひとこと追記から、気軽に加わってもらえたら嬉しいです！}
+&font(b,#969696){※ページ立ち上げから2週間、編集が動かない場合にはページ削除します。}
+
+*ロス上等
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=3)
+#endregion(目次)
+
+**概要
+//#twitter_widget3(){ここにTwitter詰め込み用}
+
+
+
+**詳細
+//---------------------------------------------------
+//#twitter_widget3(){ここにTwitter詰め込み用}
+
+
+
+
+//**関連／波及
+//例）○○襲撃事件（2026年4月）
+
+**関連動画
+#region(開く,closed)
+#table_style(head=#2f4f4f:#F9FCFF){視点=right,投稿日=center}
+#table_filter(){投稿日=show,視点=show,動画=show,備考=hide}
+|~投稿日|~視点|~動画|~備考|h
+|mm/dd|&font(70%){　視点}|[[>>]]||
+|/|&font(70%){　視点}|[[>>]]||
+//|mm/dd|視点|動画|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(関連動画)
+
+//--------------------
