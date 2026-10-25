@@ -160,10 +160,11 @@
 #table_filter(){日付=show,イベント名=show,開催地=hide,歌った楽曲=show,アーカイブ=show,備考=hide}
 |~日付|~イベント名|~開催地|~歌った楽曲|~アーカイブ|~備考|h
 |26/10/01|エルレコ LIVE 2026|【8073】バロミノ・アベニュー通り沿いライブハウス「Confate」|Favorites|&link2(🎬,https://www.youtube.com/live/d5zqkDyHu38?t=5125s,target=blank )|音楽サイト「[[エルレコ>>AILES]]」の感謝ライブ。&br()さすらいも楽曲を提供している縁で参加する。|
+|26/10/25|ロスコレ|【8073】バロミノ・アベニュー通り沿いライブハウス「Confate」|備忘録|&link2(🎬,https://www.youtube.com/live/8nGpE5BIPEQ?si=CXe9JG5hVLyipQGk&t=9620)|[[Fashion MiMi]] × [[Ailemu]] × Confateの&br()音楽ファッションショー|
 #table_autoincrement(){start=11,label=#}
 #table_zebra(#f7f7f7, #fff, #8d2b24)
 
-#slide_img(auto=2,position=left,width=351,height=500){エルレコLIVE2026.png,エルレコLIVE2026.png}
+#slide_img(auto=2,position=left,width=351,height=500){エルレコLIVE2026.png,ロスコレ_フライヤー.png}
 #endregion(10月～)
 *交友関係
 ***【[[Confate]]】
@@ -597,7 +598,8 @@
 #region(開く,open)
 #table_style(head=90%:center:#8D2B24:#FFF){配信日=right:90%,#=center:90%,配信タイトル=90%,備考=90%}
 |~配信日|~#|~配信タイトル|~備考|h
-|10/01|44|[[エルレコライブですよ>>https://www.youtube.com/live/d5zqkDyHu38?si=LaVsoHVxolJdaznt]]||
+|10/01|44|[[エルレコライブですよ>>https://www.youtube.com/live/d5zqkDyHu38?si=LaVsoHVxolJdaznt]]|エルレコライブ出演|
+|10/25|45|[[ロスコレライブですよ>>https://www.youtube.com/live/8nGpE5BIPEQ?si=1fx8qzO0VPN8Fe6k]]|ロスコレライブ出演|
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 //

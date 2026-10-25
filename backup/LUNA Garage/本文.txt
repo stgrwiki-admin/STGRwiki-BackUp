@@ -8,7 +8,7 @@
 #table_style(head=center:#7E2320:#F8F8F8){名前=bold}
 |~店名|~&icon_fa(fa fa-tag)|&bold(){&ruby(ルナ){LUNA} &ruby(ガレージ){Garage}}|
 |~略称|~&icon_fa(fa fa-tag)|&bold(){ルナガレ}|
-|~STATE表示|~&icon_fa(fa fa-tag)|LUNA|
+|~STATE表示|~&icon_fa(fa fa-tag)|[LUNA]|
 |~業種|~&icon_fa(fa-solid fa-wrench)|整備工場|
 |~開業日|~&icon_fa(fa fa-flag)|2026年03月15日&space()&small(){（プレオープン）}&br()2026年03月18日&space()&small(){（グランドオープン）&br()（&countup(2026/03/15,yd)経過）}|
 |~所在地|~&icon_fa(fa fa-map-marker)|9035番地|
@@ -67,6 +67,36 @@
 #table_autoincrement(){label=No.}
 //従業員の変更があれば「参加者一覧」への反映もお願いします
 #endregion
+
+&bold(){従業員たちの禊}
+・[[パン　チャン]]
+#region(開く)
+#endregion
+
+・[[アルタ・スカイブルー]]
+#region(開く)
+餡に詰められた件について
+被害者となった社員（沈んだ社員）1人1個禊
+
+・[[須藤　冬馬]]
+　→禊中の[[パン　チャン]]と一緒にレースイベントを３つ主導する
+・[[沖原　たくみ]]
+　→アルタが知った黒の情報は全て、えるなが聞いた時以外言わない
+・[[パン　チャン]]
+　→リサセンカードキーを7枚（沈められた人数）集める。素材は会社に納品する。
+
+#endregion
+
+・[[大阪　ボスナ]]
+#region(開く)
+#endregion
+
+・[[ホシ・バミオ]]
+#region(開く)
+#endregion
+
+//#region(開く)
+//#endregion
 
 ***仮採用  &small(){※体験終了から本採用まで約2週間}
 #region(開く,open)
@@ -186,30 +216,46 @@
 #region(ポスター)
 |&image(LUNA_オープンレース.jpg,x=282,y=400)|
 #endregion
+
 #region(順位)
 1位[[葛城　司]]
 2位[[斎藤　まさのり]]
 3位[[大　川]]
 #endregion
-
 ****2026年7月26日 🎵LIVEDRIVE-ライブドライブ-🎵
 #region(ポスター)
 |&image(260726 LIVE DRIVE.jpg,x=282,y=400)|
+#endregion
 
+#region(順位)
+1位
+2位
+3位
 #endregion
 ****2026年9月5日 LUNA GARAGE CRASH RACE
 #region(ポスター)
 |&image(260905_ルナクラ.jpg,x=282,y=400)|
+#endregion
 
-
+#region(順位)
+1位
+2位
+3位
 #endregion
 ****2026年9月13日 ムーンカップ
 #region(ポスター)
 |&image(ムーンカップ.JPG,x=282,y=400)|
-
-
-
 #endregion
+
+#region(順位)
+1位
+2位
+3位
+#endregion
+
+
+
+
 **関連動画
 #table_style(head=center:#7E2320:#F8F8F8)
 |~投稿日|~動画タイトル|~備考|h
@@ -218,4 +264,4 @@
 
 //|日付|[[タイトル>>リンク]]|メンバー||
 
-#right(){&link_up(🔝ページTOPへ)}
+#right(){&link_up(🔝ページTOPへ)}
