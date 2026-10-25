@@ -2,6 +2,8 @@
 #slide_img(auto=2,position=left,width=372,height=244){BLUEMOON.png,宝石店新店舗.png,BLUE MOON開業写真.png,第1回物産展.png}
 
 #table_style(head=center:#5465AA:#FFFFFF)
+#table_filter(){Season１=show,Season２=hide}
+|~世界線|~&icon_fa(fa fa-moon)|~Season１|
 |~店名|~&icon_fa(fa fa-feather)|&bold(){&ruby(ブルー){BLUE} &ruby(ムーン){MOON}}|
 |~業種|~&icon_fa(fa fa-diamond)|宝石商|
 |~開業日|~&icon_fa(fa fa-shop)|2023年11月13日(累計384日)|
@@ -26,6 +28,8 @@
 ・店舗移転に伴い、新店舗では従来のアクセサリーだけでなく、&bold(){食べ物やジョイントを実装}。
 
 #div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&icon_fa(fa fa-envelope)&space()閉店のお知らせ}}
+#size(50%){　}
+#region(開く)
 #blockquote(){ストグラ内店舗✧宝石店𝐁𝐋𝐔𝐄𝐌𝐎𝐎𝐍、
 本日をもちまして閉店とさせていただきました💍
 
@@ -38,48 +42,68 @@
 ・・また、宝石店を開きたい・贈り物文化を広めたいという同じ意志を持った方が現れたら、戻って来るまで新店舗を任せる。
 ・・ロスサントスに戻ってきたら、&bold(){新装 宝石商【BLUE MOON】開店する}ことを従業員の[[ゴールデン　苺華]]と衛星観測者に約束する。
 ・・後々[[店長>ラピス　りお]]から、宝石店を引き継ぎたいという人物がおり、その人物と帰国日まで連絡が取れていないため、一度従業員の[[ゴールデン　苺華]]にオーナー権限を渡し、現れたら引き継ぎの手続きを行う。
+#endregion
 
 
 *&font(35px,#6495ed){従}&font(25px,#EAF4FC){業員情報} &font(25px,#74C0FC){&icon_fa(fa fa-user)}
+#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season１}}
 ***従業員
+#region(開く)
 #table_filter(){役職=show,名前=show,就職日=show,兼業=show,備考=show}
 #table_style(head=center:#5465AA:#FFFFFF){役職=center,名前=center}
 |~役職|~名前|~就職日|~兼業|~備考|h
 |店長/Chief|[[ラピス　りお]]|2023/11/13|[[ロスサントス警察]]|市民5日目という異例のスピードで開業した。&br()日本に帰国するため店を畳む。戻ったら宝石店を再開する予定。|
 |店長/Chief|[[ゴールデン　苺華]]|2023/12/01|メカニック【[[PYC]]】社員&br()普通車ディーラー【[[プラネットモータース]]】社員|[[店長>ラピス　りお]]と最後までお店を支えた。&br()2025年1月末まで一時的にオーナー権限を付与。|
 |店員/Employee|[[小此木　ナカバ]]|2023/12/01|[[ロスサントス警察]]南署副署長&br()魔法少女カフェ【[[Ritual:]]】使い魔(副店長)|元々『宝石商ナカバ』として活動し、勧誘した。&br()国際電話にて、お店を畳むことに了承した。|
+
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
-
+#endregion
+//
 ***職業体験者
+#region(開く)
 #table_filter(){名前=show,体験開始日=show,体験終了日=show,備考=show}
 #table_style(head=center:#5465AA:#FFFFFF){名前=center,体験開始日=center,体験終了日=center}
 |~名前|~体験開始日|体験終了日|~備考|h
 |[[みら　らんど]]|2023/12/01|2023/12/3|[[店長>ラピス　りお]]の誘いでオープニングスタッフとして働く。|
+
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
-
+#endregion
+//
 ***退職者
+#region(開く)
 #table_filter(){名前=show,就職日=show,退職日=show,備考=show}
 #table_style(head=center:#5465AA:#FFFFFF){名前=center,就職日=center,退職日=center}
 |~名前|~就職日|~退職日|~備考|h
 |[[月ノ島　ごう]]|2023/11/??|2024/??/??|臨時従業員で[[店長>ラピス　りお]]からジョブをもらう。|
 |[[えぐち　きの子]]|2023/12/01|2024/11/20|別の職業に就くため、自主退職。[[店長>ラピス　りお]]が起きられない時は店を開いていた。|
+
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 
 ※ただし、[[月ノ島　ごう]](白市民時代)は開業への出資とオーダーメイドの商談を手伝ったが、正規従業員・職業体験者ではない。
+#endregion
+//#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season２}}
 
 
 *&font(35px,#6495ed){メ}&font(25px,#EAF4FC){ニュー表} &font(25px,#74C0FC){&icon_fa(fa fa-book-open)}
+#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season１}}
+#size(50%){　}
+#region(開く)
 &bold(){デパートテナント店舗 グランドオープン}
 &image(宝石店旧メニュー.png,x=600)
 
 &bold(){新店舗 リニューアルオープン&閉店セール}
 #slide_img(auto=2,position=left,width=350,height=500){宝石店MENU.png,宝石店MENU2.png,宝石店MENU3.png,宝石店MENU4.png}
+#endregion
+//#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season２}}
 
 
 *&font(35px,#6495ed){商}&font(25px,#EAF4FC){品紹介} &font(25px,#74C0FC){&icon_fa(fa fa-shopping-bag)}
+#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season１}}
+#size(50%){　}
+#region(開く)閉じる
 ***誕生石シリーズ
 ・誕生石を象った指輪。2023年12月14日にデザインを一新。1個500万円で常設販売。※税込
 ・・誕生石には、それぞれの石言葉があるため、自分・相手の誕生日以外に日頃の感謝として渡すこともある。
@@ -116,7 +140,7 @@
 ***オーダーメイド
 ・世界に一つだけのオリジナルリング。お客様からヒアリングし、ご希望のデザインで制作。
 ・1個1億円で販売。お客様の状況に応じて要相談。※税込
-#region(オーダーメイド一覧,open)
+#region(オーダーメイド一覧,close)
 #table_filter(){画像=show,商品名=show,依頼者=show,紹介文=show,備考=show}
 #table_style(head=center:#5465AA:#FFFFFF:110%){No.=center,依頼者=center}
 |~画像|~商品名|~依頼者|~紹介文|~備考|h
@@ -142,7 +166,7 @@
 ***期間限定品
 ・季節限定やロスサントス物産展のようなイベント限定商品。再販は無し。
 ・価格は期間によって変更。セットで買う方が沢山いる。※税込
-#region(期間限定品一覧,open)
+#region(期間限定品一覧,close)
 #table_filter(){画像=show,開催時期=show,価格=show,紹介文=show,備考=show}
 #table_style(head=center:#5465AA:#FFFFFF:110%){No.=center,価格=right}
 |~画像|~開催時期|~価格|~紹介文|~備考|h
@@ -154,7 +178,7 @@
 
 ***考案商品
 ・宝石商【[[BLUE MOON]]】で常設商品にしようとしたが、商品化できなかったもの。
-#region(期間限定品一覧,open)
+#region(期間限定品一覧,close)
 #table_filter(){画像=show,開催時期=show,紹介文=show,備考=show}
 #table_style(head=center:#5465AA:#FFFFFF:110%){No.=center,価格=right}
 |~画像|~商品名|~紹介文|~備考|h
@@ -164,12 +188,17 @@
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
+#endregion(Season1)
+//#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season２}}
 
 
 *&font(35px,#6495ed){企}&font(25px,#EAF4FC){画} &font(25px,#74C0FC){&icon_fa(fa fa-newspaper)}
+#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season１}}
+#size(50%){　}
+#region(開く)閉じる
 ***ストグラ内イベント
 ・その他の店舗と考えた街を巻き込んだイベント企画。※イベントテロ罪が適用されるもの
-#region(企画一覧,open)
+#region(企画一覧,close)
 #table_filter(){画像=show,開催時期=show,紹介文=show,備考=show}
 #table_style(head=center:#5465AA:#FFFFFF:110%){No.=center,価格=right}
 |~画像|~開催時期|~紹介文|~備考|h
@@ -178,9 +207,12 @@
 |&image(https://pbs.twimg.com/media/GRVlktibEAADmh9?format=jpg&name=large,x=100)|[[第1回 Los Santos GP>>https://x.com/STGR_RolePlay/status/1803804524383216074]]&br()&small(){&color(#aaa)予選 ⇢ 2024/6/23 17:00 ～ 6/28 29:00&br()決勝 ⇢ 2024/6/30 23:00&br()協賛：[[BLUE MOON]]}|メカニック【[[9055]]】が主催する賞金総額8億円を賭けた前代未聞のレース大会&br()約1週間に渡って予選・本戦のレースを行い、優勝者を決める形式&br()※優勝者は[[死神ハンク>アーモンド　サラザール]]でトロフィーに名前と説明文が入る予定|レースの協賛金とメダル・トロフィー制作を請け負った。|
 |&image(https://pbs.twimg.com/media/GdyMIj2b0AAnsLz?format=jpg&name=large,x=100)|[[第2回 Los Santos GP>>https://x.com/STGR_RolePlay/status/1862798739481469360]]&br()&small(){&color(#aaa)予選 ⇢ 2024/11/22 17:00 ～ 11/29 29:00&br()決勝 ⇢ 2024/11/30 23:00&br()協賛：[[カジノ]]、[[BLUE MOON]]}|メカニック【[[9055]]】が主催する賞金総額10 億円を賭けた前代未聞のレース大会&br()約1週間に渡って予選・本戦のレースを行い、優勝者を決める形式&br()※優勝者は[[万十　忍]]でトロフィーに名前と説明文が入る予定|レースの協賛金とメダル・トロフィー制作を請け負った。|
 #endregion
+#endregion(Season1)
+//#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season２}}
 
 
 *&font(35px,#6495ed){新}&font(25px,#EAF4FC){聞記事} &font(25px,#74C0FC){&icon_fa(fa fa-newspaper)}
+#region(開く)
 #div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&icon_fa(fa fa-mobile-screen)&space()NEWSアプリ}}
 #blockquote(){タイトル:『ロスサントスの新たな宝石店であなただけの輝きを』
 投稿日:2024-01-15 01:17:22
@@ -215,9 +247,12 @@
 最高品質の宝石と上質な接客を兼ね備えた宝石店へ、ぜひ一度お越しください。
 贅沢な輝きが、特別な瞬間をより一層素晴らしいものに変えてくれることでしょう。
 #right(){【記事執筆：Lより引用】}}
+#endregion
 
 
 *&font(35px,#6495ed){沿}&font(25px,#EAF4FC){革} &font(25px,#74C0FC){&icon_fa(fa fa-list)}
+//
+#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season１}}
 ***2023年
 #region(開く)
 #table_filter(){日付=show,出来事=show,関係者=show,エピソード・備考=show}
@@ -242,7 +277,7 @@
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
-
+//
 ***2024年
 #region(開く)
 #table_filter(){日付=show,出来事=show,関係者=show,エピソード・備考=show}
@@ -292,9 +327,11 @@
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
+//#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season２}}
 
 
 *&font(35px,#6495ed){協}&font(25px,#EAF4FC){力クリエイター} &font(25px,#74C0FC){&icon_fa(fa fa-user-circle)}
+#region(一覧)閉じる
 ・蒼月イヴ【グラフィックデザイナー】：指輪デザイン、ロゴ、デザインカード、ポスター等
 |BGCOLOR(#EEEEEE):~情報|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>https://x.com/AozukiV_design]]|
 
@@ -306,6 +343,7 @@
 
 ・いと【イラストレーター】：宝石石鹸
 |BGCOLOR(#EEEEEE):~情報|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>>https://x.com/shirocouture]]|
+#endregion
 
 
 #right(){&link_up(🔝ページTOPへ)}
