@@ -23,6 +23,7 @@
 
 **従業員情報
 ***従業員
+#region(開く,open)
 #table_style(head=#c1e0ff)
 |~名前|~役職|~就職日|~備考|~配信|h
 |[[ゆちゃ　めろでぃ]]|オーナー(店長)&br()Manager|26/06/17|失踪（26/07/08）|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCNiU-U3uRSBLuWDEL2hnOnA]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yucham_yuchamero]]|
@@ -42,24 +43,29 @@
 #table_autoincrement(){label=No.}
 //従業員の変更があれば「参加者一覧」への反映もお願いします
 //キーモットの助手たちが商品登録していたため恐らくManagerになっている
-
+#endregion
 ***職業体験者
+#region(開く)
 #table_style(head=#c1e0ff)
 |~名前|~体験開始日|~備考|h
 |[[シュガー　ピーチ]]|2026/09/20|キーモットの助手|
 |[[宇佐　卓]]|2026/10/09||
+
 //|[[名　前]]|yyyy/mm/dd||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#FF7F7,odd=#FFFFFF}
-
+#endregion
 ***退職者
+#region(開く)
 #table_style(head=#c1e0ff)
 #table_filter(){役職=hide,就職日=hide,退職日=show,備考=show}
 |~名前|~役職|~就職日|~退職日|~備考|h
 |[[マイゴ・ニ＝ナリエル]]|Recruit|26/06/20|26/09/30|ゆちゃが失踪し、キーモットが好き放題しているため退職|
+
 //|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
 
 **商品情報
 ***Food

@@ -181,6 +181,36 @@
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 }}}
 
+*&font(#FFFFFF){&icon_fa(fa fa-coins)} 事業経営
+#div(width=210px,bgcolor=#C0C0C0){&size(17){&font(b){　裏カジノ}}}&aname(NOVA FAMILIA 裏カジノ)
+***&underdot(#C0C0C0,3px){ 闇スロット}
+-6182番地にてオープン。
+-カジノでスロット開発経験のある[[宗介>>ライジングサン　宗介]]主導で経営。NOVA仕様のAT機を作り招待制で客を取る。
+-1ポイント2000円（1回転6000円／5000枚負けたら-1000万）
+-BMでポイントを借りて遊び、景品と交換するとたまたま外にある飲食店が景品を買い取るという形式をとっている。
+****顧客名簿
+#region(一覧)ダークチャット『裏スロ顧客名簿』
+#size(90%){{{#table_style(head=#696969:#F9FCFF)
+#table_filter(){名前=show,組織名=show,備考=hide}
+|~名前|~組織名|~備考|h
+|[[トウ　ユン]]|||
+|[[畳　かえる]]|||
+|[[沖原　たくみ]]|||
+|[[アルフォート　ウェスカー]]|||
+|[[エスターク・Z・ダークネス]]|||
+|[[トーマス]]|||
+|[[五十嵐　えいむ]]|||
+|[[三島　みつー]]|||
+|[[みこだ　よう]]|||
+|[[小峯　玲]]|||
+|[[タラ　ちゃん]]|||
+|[[トナ　カイ]]|||
+|[[千代田　ヨウ]]|||
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}}}
+//過不足ありましたら追記・編集をお願いいたします
+#endregion
+
 *&font(#FFFFFF){&icon_fa(fa fa-book)} 歴史
 #div(width=210px,bgcolor=#C0C0C0){&size(17){&font(b){　設立前}}}
 ***2026年
