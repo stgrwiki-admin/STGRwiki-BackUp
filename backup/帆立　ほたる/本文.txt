@@ -32,10 +32,28 @@
 #contents(fromhere=true,level=2)
 #endregion
 *基本情報
+//鬼桃ぷぅ基本情報からdiv見出しを引用し追加
+#div(bgcolor=#fff,color=#d83473){&size(18){&space()&icon_fa(fa fa-user)&bold(){ 人物概要}}}
 -婚約破棄されて腹が立ち、遠いところに行ってやると日本を飛び出してきた。
 -テキサスに居た時の幼馴染、[[ヘスティア　ゴデス]]を頼ってロスサントスへ来た。
+#div(bgcolor=#fff,color=#d83473){&size(18){&space()&icon_fa(fa-solid fa-chalkboard-user)&bold(){ 性格・特徴}}}
+-明るい性格でギャル。"妙齢だけど自認ギャル"と自虐している。&co(検索によると妙齢は若く美しい年ごろの意味であり意図としては誤用らしい)
 -日本で身近にギャングのような悪いことをしている人がいた為、黒市民が周りに居ることに抵抗がない。&co(91日目すずり対話より)
 -黒いことに全く興味がなく深入りしないようにしていて、白市民である自分の行動で元黒や現ギャングの同僚に影響が出ないよう気をつけている。&co(91日目すずり対話、92~94日目種編より)
+-言動の白さ、意志の強さから警察を薦められることがあるが、知らない市民よりも黒市民もいる飲食同僚が第一優先であるところから自分にはできないと断っている。
+#div(bgcolor=#fff,color=#d83473){&size(18){&space()&icon_fa(fa-solid fa-briefcase)&bold(){ 仕事面}}}
+-[[海上レストラン>>Urashima]]と[[Club Passiona]]の飲食二店舗を兼業していてどちらかを開けるともう片方が疎かになるのが悩み。
+-[[Club Passiona]]のPプロで積極的に相談・協力し企画を回している。
+-[[ジョープロ>>ジョーカー]]二期生のRE:SONAシンガー。
+-7000番地[[ガソリンスタンド]]オーナーで、[[ジョーカー]]からアップグレード費を2000万借りている。
+#div(bgcolor=#fff,color=#d83473){&size(18){&space()&icon_fa(fa fa-thumbs-up)&bold(){ カプ厨}}}
+-光のカプ厨を自称し、街のカップル事情に常にアンテナを張らせている。
+-[[すず>>ボクジュール　すずり]][[んつ>>飯田　けんつ]]を最前線で応援していて、両者の相談役として仲を取り持っている。
+--名実ともに流行語大賞の「すずんつ(帆立ほたる)」になっている。
+-カップル未満の中では[[しの>>万十　忍]][[パル>>山田　パルコ]]に注目している。
+#div(bgcolor=#fff,color=#d83473){&size(18){&space()&icon_fa(fa-solid fa-shield-heart)&bold(){ 恋愛観}}}
+-カプ厨である反面、自身の恋愛事情を探られると弱く、動揺が隠せない。
+-なんでもない時のなんでもないやりとりにトキメク、何気ない日常のハッピーに栄養を貰っている。(Twixより)&co(@losradio 26/9/30第3回ロスステ)
 
 &b(){そのほか近況}
 #region(開く)
@@ -45,7 +63,9 @@
 #endregion()
 
 *人間関係
-****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&icon_fa(fa fa-paper-plane)&space(2)入国初期}}&nbsp(45)}}
+//****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&icon_fa(fa fa-paper-plane)&space(2)入国初期}}&nbsp(45)}}
+#div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa fa-paper-plane)&font(i,b,90%){&space(2)入国初期}}}
+#size(60%){　}
 #region(開く)
 &bold(){&b(){&font(15,#666){[[タラ　ちゃん]]}}}
 &bold(){街に来て知り合った住民。いつもふざけていて、色々と巻き込んでくる人。&b(){[[ミルキー・ピンク]]}に好かれており、度々&b(){ほたる}を盾にして逃走している。イベント会社のオーナーをしていて、なんでも代行サービスの元締めでもある。}
@@ -54,7 +74,9 @@
 &bold(){街に来て知り合った&b(){[[タラ　ちゃん]]}の事が大好きな住民。&b(){ピンク}が部屋に招いてくれ、&b(){タラちゃん}の話をした事で仲が良くなった。&b(){タラちゃん}が何かした際は、連絡を入れる約束をしている。}
 #endregion
 
-****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&icon_fa(fa fa-anchor)&space(2)海上レストランUrashima}}&nbsp(45)}}
+//****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&icon_fa(fa fa-anchor)&space(2)海上レストランUrashima}}&nbsp(45)}}
+#div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa fa-anchor)&font(i,b,90%){&space(2)海上レストランUrashima}}}
+#size(60%){　}
 #region(開く)
 &bold(){&b(){&font(15,#666){[[星ノ　みこ]]}}}
 &bold(){海上レストランUrashimaオーナー兼店長。とても仲が良く積極的に街の出来事や恋バナの情報交換をしている。&br()自分の噂話に対して敏感で異性とセットにされることを可能な限り避けている。&openclose2(show=が…){ほたるはレイジーさんとの組み合わせを推している。}&br()ほた[[かめ>>亀山　Hero]]はオーナー権限でNG。}
@@ -75,7 +97,9 @@
 &bold(){転送組でS2からUrashima店員になったホットドッグ屋占い師。ノリがよく街の歴史を知る男性で小峯さんと仲が良い。}
 #endregion
 
-****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&icon_fa(fa fa-champagne-glasses)&space(2)Club Passiona}}&nbsp(45)}}
+//****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&icon_fa(fa fa-champagne-glasses)&space(2)Club Passiona}}&nbsp(45)}}
+#div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa fa-champagne-glasses)&font(i,b,90%){&space(2)Club Passiona}}}
+#size(60%){　}
 #region(開く)
 &bold(){&b(){&font(15,#666){[[アイドゥラー　ヨシャパテ]]}}}
 &bold(){Club Passionaオーナー。白市民。元々黒市民だった知識や繋がりを駆使して従業員を守る行動をとっている。&br()種の騒動では腹を割っても濁すほたるの巻き込まない意思を汲み取ってくれた。}
@@ -96,7 +120,9 @@
 &bold(){ヘスティの妹。交友関係を増やすためにPassionaで体験。Pプロにも興味。}
 #endregion
 
-****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa fa-bullhorn)&font(i,b){&space(2)Pガールズ}}&nbsp(45)}}
+//****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa fa-bullhorn)&font(i,b){&space(2)Pガールズ}}&nbsp(45)}}
+#div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa fa-bullhorn)&font(i,b,90%){&space(3)Pガールズ}}}
+#size(60%){　}
 #region(開く)
 &bold(){&b(){&font(15,#666){[[星詠　あう]]}}}
 &bold(){副リーダー}
@@ -111,7 +137,9 @@
 &bold(){1期生メンバー}
 #endregion
 
-****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa fa-people-robbery)&font(i,b){&space(2)街の住民}}&nbsp(45)}}
+//****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa fa-people-robbery)&font(i,b){&space(2)街の住民}}&nbsp(45)}}
+#div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa fa-people-robbery)&font(i,b,90%){&space(2)街の住民}}}
+#size(60%){　}
 #region(開く)
 &bold(){&b(){&font(15,#666){[[ヘスティア　ゴデス]]}}}
 &bold(){幼馴染。[[皇帝>>ニックス　リア]]と仲が良い。}
@@ -337,6 +365,7 @@
 |10/21|135|[[ロス上等チケ発⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2906673342]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=wpXO1xfGObU]]||
 |10/22|136|[[オープンイベント！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2907536787]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=JGQ9vPqXe0Y]]||
 |10/23|137|[[上等上等ロス上等！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2908427953]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=z29JWUuaTGM]]||
+|10/24|138|[[DVD販売とハロウィン準備⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2909360071]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=y1Yqf5oHr2s]]||
 //|10/dd|n|[[帆立ほたるのばりばり掛け持ち社員生活>>ＵＲＬ]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(10月)
