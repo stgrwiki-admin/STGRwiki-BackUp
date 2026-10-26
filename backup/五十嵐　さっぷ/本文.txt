@@ -1,8 +1,9 @@
-*プロフィール
+*&color(#FAD5E6){&size(24){プ}}ロフィール
 //&image(ここに画像のURLを入力,y=400)
-
+&image(top.png,y=400)
 //ここからプロフィール
-#table_style(head=#E6E6FA:#666666){}
+
+#table_style(head=#FAD5E6:#d83473){}
 |~名前|~&icon_fa(fa fa-user)|&ruby(いがらし){五十嵐}　&ruby(){さっぷ}|
 |~出身地|~&icon_fa(fa fa-location-dot)|-|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|- &co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
@@ -10,12 +11,12 @@
 |~職業|~&icon_fa(fa-solid fa-building-columns)|-|
 |~所属|~&icon_fa(fa fa-users)|-|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|-|
-|~レーサー名|~&icon_fa(fa fa-car)|-|
-|~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999|
-|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|BobSappAim|
-|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>>https://twitter.com/BobSappAim0304]]|
-|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@bobsappaim0304]]&co(){/&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/bobsappaim0304]]}|
-|BGCOLOR(#eee):~観測者へのお願いなど|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[lit.link>>https://lit.link/bobsappaim]]|
+|BGCOLOR(#a4c1d7):~&color(#0075c2){プレイヤー}|BGCOLOR(#a4c1d7):~&color(#0075c2){&icon_fa(fa fa-heart)}|BobSappAim|
+|BGCOLOR(#a4c1d7):~&color(#0075c2){告知等}|BGCOLOR(#a4c1d7):~&color(#0075c2){&icon_fa(fa fa-bullhorn)}|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter)}>>https://twitter.com/BobSappAim0304]]|
+|BGCOLOR(#a4c1d7):~&color(#0075c2){配信場所}|BGCOLOR(#a4c1d7):~&color(#0075c2){&icon_fa(fa fa-gamepad)}|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@bobsappaim0304]]/&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/bobsappaim0304]]|
+|BGCOLOR(#a4c1d7):~&color(#0075c2){観測者へのお願いなど}|BGCOLOR(#a4c1d7):~&color(#0075c2){&icon_fa(fa fa-ban)}|[[lit.link>>https://lit.link/bobsappaim]]|
+|BGCOLOR(#a4c1d7):~&color(#0075c2){別キャラ}|BGCOLOR(#a4c1d7):~&color(#0075c2){&icon_fa(fa fa-user-plus)}|[[五十嵐　ボブ]]/[[五十嵐　えいむ]]|
+
 //
 //各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
 //職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
@@ -23,37 +24,53 @@
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
 #endregion
-*基本情報
--情報を記述
+*&color(#FAD5E6){&size(24){基}}本情報
+-五十嵐3兄弟の次男。兄に警察の[[五十嵐　ボブ]]、弟に犯罪者の[[五十嵐　えいむ]]がいる。
+-いたずら好きで、弟に憧れ小悪党になりたいと思っているが、大きな犯罪や撃ち合いは怖いらしい。
+*&color(#FAD5E6){&size(24){エ}}ピソード
+***2026年
+#region(開く,open)2026年閉じる
 
-*エピソード
-**2026年
-#region(mm月,open)&bold(){mm月}
-***mm/dd [[タイトル>>ＵＲＬ]]
-#region(開く,close)閉じる
--エピソード募集中
-#endregion(dd日)
-#endregion(mm月)
-#co{
-↓コピー用素材
+#region(10月,close)10月閉じる
+***10/25　小悪党になりたい次男のさっぷが街に来た
+#region([[【#ストグラ 】日曜日もおいで～【五十嵐えいむ】>>https://www.youtube.com/watch?v=c86PtxbCzn8]],close)[[【#ストグラ 】日曜日もおいで～【五十嵐えいむ】>>https://www.youtube.com/watch?v=c86PtxbCzn8]]
+※03:02:30頃～起床
+・えいむに憧れた小悪党。次男のさっぷが街に来た。
+所持金5万円。請求書などもガチ逃げしてみたい気持ち。
+・[[わんも〜Cafe]]で[[アルフォート　ウェスカー]]とそのギャングの構成員に遭遇。
+[[アルフォート　ウェスカー]]と連絡先を交換。飲食を奢ってもらう。
+・レギオンで[[柚乃　いずみ]]に遭遇し、雑談。
+本日、コスプレイベントがあると教えてもらう。
+[[サニーケバブ]]で働いていて、犯罪歴がなければ雇えるとのこと。
+ジョブは2つまでで、白市民パスが発行されると3つまで出来るらしい。
+・レギオンにいた[[タラ　ちゃん]]、[[鮫島　フラム]]と雑談。
+[[タラ　ちゃん]]により、[[サニーケバブ]]の体験雇用をしてもらえることに。
+・[[サニーケバブ]]にて、[[銭形　やいち郎]]と雑談。
+[[タラ　ちゃん]]たちの姿が見えなくなる歪み発生。体験になったが働かず逃走。
+・アパート前で[[牛辺　セウ]]、[[堕夜　だよ]]と雑談し、連絡先を交換。
+集まって来た[[三島　みつー]]や[[ガヴァイ　アッカンマン]]とも連絡先を交換。
+全員、弟の[[五十嵐　えいむ]]を知っており、フリーターと聞くも犯罪者の様子。
+・[[アルフォート　ウェスカー]]とアパート前で再会。
+悪いことをしたくなったら声をかけて良いとのこと。
+「頼りにします」と伝え、「任せろ」と言ってもらう。
+・レギオン付近で[[アイン]]と遭遇し、連絡先を交換。
+[[サニーケバブ]]で働いているとのこと。不思議な人だった。
+・コスプレイベントにチケット購入をせず無断侵入。
+[[柚乃　いずみ]]や先ほど会ったウェスカーのギャング構成員たちとイベントを楽しむ。
+・イベント建物前にあった自転車を盗んで帰宅。
+#endregion
 
-#region(mm月,open)&bold(){mm月}
+#endregion(10月)
 
-***mm/dd [[タイトル>>ＵＲＬ]]
-#region(開く,close)閉じる
--エピソード募集中
-#endregion(dd日)
+#endregion(2026年)
 
-#endregion(mm月)
 
-}
-
-*アーカイブ
+*&color(#FAD5E6){&size(24){ア}}ーカイブ
 **2026年
 #region(開く,open)
-#table_style(head=center:#E6E6FA){配信日=right,#=center}
+#table_style(head=center:#FAD5E6)
 |~配信日|~#|~配信タイトル|~備考|h
-|10/25|1|[[【#ストグラ 】日曜日もおいで～【五十嵐えいむ】>>https://www.youtube.com/watch?v=c86PtxbCzn8]]||
+|10/25|1|[[【#ストグラ 】日曜日もおいで～【五十嵐えいむ】>>https://www.youtube.com/watch?v=c86PtxbCzn8]]|※03:02:30頃～起床|
 //|mm/dd|n|[[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
