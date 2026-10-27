@@ -11,7 +11,7 @@
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年9月30日 (&countup(2026/9/30,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|　|
-|~職場体験|~|&small(){&openclose2(show=▼過去に体験した職場){&br()&small(){メイドカフェ} &b(){"[[LastJump in ParadiseLost]]"} &small(){⚫︎メイド(2026/09/30～)}&br()&small(){飲食店} &b(){"[[サニーケバブ]]"} &small(){(2026/10/01)}&br()&small(){飲食店} &b(){"[[FOWK]]"} &small(){(2026/10/04)&br()&co(){すでに体験項目のため「体験」という文言は削除致しました。}}}}|
+|~職場体験|~|&small(){&openclose2(show=▼過去に体験した職場){&br()&small(){メイドカフェ} &b(){【[[LastJump in ParadiseLost]]】} &small(){メイド(2026/09/30～)}&br()&small(){飲食店} &b(){【[[サニーケバブ]]】} &small(){(2026/10/01)}&br()&small(){飲食店} &b(){【[[FOWK]]】} &small(){(2026/10/04)&br()&co(){すでに体験項目のため「体験」という文言は削除致しました。}}}}|
 |~所属|~&icon_fa(fa fa-users)|　|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@kamaragolden|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
@@ -192,6 +192,9 @@
 |10/11|5|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[新規住民で人狼ゲームをするも大活躍するオネエwww>>https://youtu.be/pGfqBxNYOkA]]|Day5|
 |10/22|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[後輩警察官たちの前で、オネエに土下座するベテラン警察官>>https://youtu.be/8xJPdYjR1PE]]|Day6|
 |10/25|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[住民の占いを聞きながら邪魔をするオネエたちwww>>https://youtu.be/2_xqjoZ6It4]]|Day7|
+|10/26|8|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[警察官たちと街の存亡をかけた大事件を起こすカマラｗｗｗ>>https://youtu.be/yBhMZQ5iJu4]]|Day8|
+//|mm/dd|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]||
+//|mm/dd|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]||
 
 //|mm/dd|n|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]||
 #table_sorter{even=#F7F7F7,odd=fff,repeathead=10}
