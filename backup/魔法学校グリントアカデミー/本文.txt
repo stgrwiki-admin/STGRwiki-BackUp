@@ -15,9 +15,9 @@
 |~店名|~&icon_fa(fa fa-fort-awesome)|&b(){&ruby(まほうがっこう){魔法学校} &ruby(Glimt Academy){グリントアカデミー}}|
 |~job名|~&icon_fa(fa fa-user-tag)|　|
 |~業種|~&icon_fa(fa fa-hat-wizard)|飲食店：コンセプトカフェ|
-|~　開業日　|~&icon_fa(fa fa-paw)|yyyy年mm月dd日&space()&small(){（&countup(yyyy/mm/dd,yd)経過）}|
+|~　開業日　|~&icon_fa(fa fa-paw)|2026年10月31日&space()&small(){（&countup(2026/10/31,yd)経過）}|
 |~所在地|~&icon_fa(fa fa-broom)|6027番地|
-|~TwiX|~&icon_fa(fa fa-feather)|@magicschool|
+|~TwiX|~&icon_fa(fa fa-feather fa-flip)|@magicschool|
 |~校長|~&icon_fa(fa fa-black-tie)|&bold(){[[ノビー　ラング]]}|
 //|~店長|~&icon_fa(fa-solid fa-user-tie)|&co(){&bold(){[[名前]]}}|
 //|~副店長|~&space()&icon_fa(fa-solid fa-user)&space()|&co(){&bold(){[[名前]]}}|
@@ -26,11 +26,12 @@
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
 #endregion
-**&font(25,#927eba){&font(35,#5a4498){基}本情報 &icon_fa(fa fa-wand-sparkles)}
+**&font(25,#927eba){&font(35,#5a4498){基}本情報 &icon_fa(fa fa-wand-sparkles fa-beat)}
 -[[ToY]]・[[魔法少女カフェ>>RitUal:]]・[[犬カフェ>>Re:One's]]の元従業員が集まり、合同で経営（予定）する魔法学校をコンセプトにした飲食店。
 -店舗を立ち上げた7名は[[救急隊>>ロスサントス救急救命隊]]に所属している。
 -建築は建築士の[[閃光寺　亜夢]]が担当。&br()&font(11px,#bbb){関連動画：&font(10px){[[&color(#bbb){打ち合わせ}>>https://youtu.be/QEu4DZBTvlA]] / [[&color(#bbb){建築の様子①}>>https://youtu.be/8nu_hAgbN6g]] / [[&color(#bbb){②}>>https://youtu.be/mtlu9V9OioM]] / [[&color(#bbb){お披露目}>>https://youtu.be/H9Lv5EcmdE8]]}}
 -[[Dr．ギガ]]が店内BGMを制作。
+-[[Fashion MiMi]]に制服を服屋に置いてもらえるよう依頼。
 
 &font(b,16px,#927eba){&icon_fa(fa fa-envelope)}&space()&font(b,16px,#444){クラウドファンディング}
 -2026年6月18日 開店資金調達のためオープン魔法「クラウドファンディング」を詠唱。
@@ -57,15 +58,15 @@
 #endregion
 
 ***&color(#927eba){&icon_fa(fa fa-paw)} 寮の特徴と組み分け方式
-#table_style(head=#e0daec){名前=bold}
+#table_style(head=#e0daec){名前=bold,イメージカラー=center}
 |~名前|~イメージカラー|~使い魔|~詳細|h
-|MIDDLE:名前|　|　||
-|MIDDLE:名前|　|　||
-|MIDDLE:名前|　|　||
-|MIDDLE:名前|　|　||
+|MIDDLE:名前|&font(b,#E52E4A){Red}|　||
+|MIDDLE:名前|&font(b,#8BA453){Green}|　||
+|MIDDLE:名前|&font(b,#f4a4b8){Pink}|　||
+|MIDDLE:名前|&font(b,#F9B74B){Yellow}|　||
 #table_sorter{even=#fcfcfd,odd=#FFFFFF}
 
-**&font(25,#927eba){&font(35,#5a4498){従}業員情報 &icon_fa(fa fa-hat-wizard)}
+**&font(25,#927eba){&font(35,#5a4498){従}業員情報 &icon_fa(fa fa-hat-wizard fa-bounce)}
 ***従業員
 #region(開く,open)
 #table_filter(){就職日=show,兼業=hide,備考=hide}
@@ -253,7 +254,7 @@
 #right{&font(#927eba){&icon_fa(fa-solid fa-circle-up)&link_anchor(ページトップ){ページTOPへ}}}
 //
 //
-**&font(25,#927eba){&font(35,#5a4498){イ}ベント情報 &icon_fa(fa fa-broom-ball)}
+**&font(25,#927eba){&font(35,#5a4498){イ}ベント情報 &icon_fa(fa fa-broom-ball fa-beat)}
 ***一覧
 //主体で動いているイベント
 #region(開く,open)
@@ -304,6 +305,7 @@
 |07/26|開業申請書類の提出|[[葛城　司]]、[[天羽　よつは]]|市と市役所職員の天羽よつはに開業申請の書類を提出|
 |08/05|オーナー権限付与|[[ノビー　ラング]]、[[葛城　司]]、[[加賀　イズミ]]、[[ももみ]]、[[鳥野　ぎん]]、[[箱根　しおん]]|従業員へjobの付与を行った|
 |09/09|イベント出店||[[救急隊>>ロスサントス救急救命隊]]主催「きゅうきゅうの日」イベントにて飲食出店|
+|10/28|制服作成|[[ノビー　ラング]]、[[鳥野　ぎん]]、[[ももみ]]|[[Fashion MiMi]]に制服コーデを全ての服屋に置いてもらえるよう依頼|
 
 //|mm/dd|出来事|関係者|エピソード・備考|
 #table_sorter{even=#fcfcfd,odd=#FFFFFF}

@@ -16,7 +16,7 @@
 |~身長|~&icon_fa(fa-solid fa-person-arrow-up-from-line)|162cm|162cm|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2023年11月02日 &small(){(～2024/12/08 キャラクターエンド)}|2026年04月01日 (&countup(2026/4/1,yd)経過)|
 |~住所|~&icon_fa(fa fa-house)|&bold(){8039番地} &small(){2023/11/02～2024/04/14}&br()初期アパート &small(){(1LDK)}&br()&bold(){7156番地} &small(){2024/04/14～12/08}&br()教会近くの豪邸 &small(){(プール・ガレージ付き)}&br()⇨ [[ゴールデン　苺華]]と同棲 &small(){&icon_fa(fa-solid fa-key)}|&bold(){8039番地} &small(){2026/04/01～現在}&br()初期アパート &small(){(1LDK)}|
-|~職業|~&icon_fa(fa fa-suitcase)|&bold(){宝石商【[[BLUE MOON]]】店長}&br()&bold(){[[警察官>ロスサントス警察]]} &small(){(本署) 2024/03/09～04/06}&br()&small(){　　　　(&link_anchor(police_southernquarter,page=ロスサントス警察){南署}) 2024/04/07～12/08}&br()&small(){　　階級 警察はGrade:1のOfficer (巡査長)}&br()&small(){　　　　 SWATはGrade:1}&br()&small(){　　組織 マメ課(Police Peanut パトロール課)}&br()&small(){&openclose2(show=※過去のアルバイト){&nbsp(br,3)アシッド集めバイト 2023/11/03&nbsp(br,3)飲食店【[[猫カフェ武蔵]]】2023/11/03&nbsp(br,3)飲食店【[[魔法少女カフェ>RitUal:]]】2023/11/04&nbsp(br,3)高級和食店【[[菖光亭]]】2023/11/14}}|&bold(){宝石商}&br()&bold(){[[警察官>ロスサントス警察]]} &small(){(本署) 2026/04/01～04/15}&br()&small(){　　　　(東署) 2026/04/15～現在}&br()&small(){　　階級 警察はGrade:2のSergeant (巡査部長)}&br()&small(){　　　　 SWATはGrade:1}&br()&small(){　　組織 BB部隊(風呂キャン部隊)}&br()&small(){&openclose2(show=※過去のアルバイト){&nbsp(br,3)配達バイト【Over Eats】2026/05/06}}|
+|~職業|~&icon_fa(fa fa-suitcase)|&bold(){宝石商【[[BLUE MOON]]】店長}&br()&bold(){[[警察官>ロスサントス警察]]} &small(){(本署) 2024/03/09～04/06}&br()&small(){　　　　(&link_anchor(police_southernquarter,page=ロスサントス警察){南署}) 2024/04/07～12/08}&br()&small(){　　階級 警察はGrade:1のOfficer (巡査長)}&br()&small(){　　　　 SWATはGrade:1}&br()&small(){　　組織 マメ課(Police Peanut パトロール課)}&br()&small(){&openclose2(show=※過去のアルバイト){&nbsp(br,3)アシッド集めバイト 2023/11/03&nbsp(br,3)飲食店【[[猫カフェ武蔵]]】2023/11/03&nbsp(br,3)飲食店【[[魔法少女カフェ>RitUal:]]】2023/11/04&nbsp(br,3)高級和食店【[[菖光亭]]】2023/11/14}}|&bold(){宝石商}&br()&bold(){[[警察官>ロスサントス警察]]} &small(){(本署) 2026/04/01～04/15}&br()&small(){　　　　(東署) 2026/04/15～現在}&br()&small(){　　階級 警察はGrade:2のSergeant (巡査部長)}&br()&small(){　　　　 SWATはGrade:1}&br()&small(){　　組織 BB部隊(風呂キャン部隊)}&br()&small(){&openclose2(show=※過去のアルバイト){&nbsp(br,3)配達バイト【Over Eats】2026/05/06&nbsp(br,3)建設工事バイト 2026/10/28&nbsp(br,3)車両解体バイト 2026/10/28}}|
 |~所属|~&icon_fa(fa fa-users-rectangle)|&bold(){[[物産展協会]]}&br()交流団体【特殊部隊SWAG】隊員&br()宗教団体【ハンバーガー教】信者&br()ヲタ集団【&u(){♰平成ヲタク三銃士♰}】&tooltip(輪廻転生){リーンカーネーション}リオ||
 |~電話番号|~&icon_fa(fa fa-mobile)|(756)455-1879|(520)922-5532|
 |~TwiX|~&icon_fa(fa fa-crow)|@lapisrio1203|@lapisrio|
@@ -128,6 +128,12 @@
 &image(交友関係2.png,x=330)
 #endregion
 
+#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&icon_fa(fa fa-newspaper)&space()相関図}}
+
+#region(Season2 Day1-30)閉じる
+&image(相関図.png,x=700)
+#endregion
+
 #div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&icon_fa(fa fa-address-card)&space()名刺}}
 &bold(){宝石店名刺(初期)}
 &image(ラピスりお 名刺.png,x=330)
@@ -192,6 +198,15 @@
 
 #div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season２}}
 
+#region(所有車,close)閉じる
+#table_filter(){#=hide,車名=show,名前=show,購入日=show,備考=show}
+#table_style(head=center:#74C0FC:#f7f7f7:110%){|~#|~車名|~名前|~購入日|~預かり手|~備考|h}
+|~#|~車名|~名前|~購入日|~預かり手|~備考|h
+|1|Dinka Blista Compact|Dinka Blista Compact|2026/10/22|無し|初めてのマイカー|
+#table_zebra(#ffffff, #f5f5f5, #74C0FC)
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion
+
 #region(公用車,close)閉じる
 #table_filter(){#=hide,車名=show,名前=show,支給日=show,備考=show}
 #table_style(head=center:#74C0FC:#f7f7f7:110%){|~#|~車名|~名前|~支給日|~備考|h}
@@ -237,7 +252,7 @@
 #include(ラピス　りお/S2交友関係)
 #endregion
 
-&bold(){※出会った仲で特に接する時間が長い人物及び何かしらストーリーに大きく関わった人物をピックアップしております。更新有り。}
+&bold(){※出会った仲で特に接する時間が長い人物及び何かしらストーリーに関わった人物をピックアップしております。ただし、薄い関係性や事件関連は無し。}
 
 ***【編集はこちら】
 #pulldown_jump([[ラピスりお 交友関係S1>ラピス　りお/交友関係]],[[ラピスりお 交友関係S2>ラピス　りお/S2交友関係]])
@@ -367,8 +382,9 @@
 ***【編集はこちら】
 #pulldown_jump([[ラピスりお S1 AR1>ラピス　りお/アーカイブ1]],[[ラピスりお S2 AR1>ラピス　りお/S2アーカイブ1]])
 
-&bold(){※Twitchのアーカイブは、仕様により60日間しか反映されませんのでご注意ください}
-&bold(){※一部アーカイブには、ストグラ以外の配信(SURGE Cityなど)が混ざっているため、ラピスりおのRPが剥がれている場面があり、RP重視の観測者にとって好き嫌いがあると思うのでご注意ください}
+&bold(){※Twitchのアーカイブは、仕様により&u(){60日間しか反映されません}のでご注意ください}
+&bold(){※一部アーカイブは、ストグラ以外の配信(例：SURGE Cityなど)が混ざっているため、&u(){RPが剥がれている場面があり}、&u(){RP重視の観測者にとって好き嫌いがあると思うのでご注意ください}}
+&bold(){※所々&u(){題名が無いアーカイブ}があるので、無題のアーカイブがあった場合は個人で見合った題名を付けてください}
 
 *&size(25){&color(#eaf4fc){&size(35){&color(#6495ed){切}}り抜き動画 &font(25px,#74C0FC){&icon_fa(fa fa-scissors)}}}
 #div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season１}}
@@ -439,7 +455,6 @@
 |08/05|バラエティ企画|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【格付け】格付けしあうストグラ警察たち ～女の子編～>>https://www.youtube.com/watch?v=hUqLF8n5Onk&t=6345s]]|参加者：[[二十日 ネル>二十日　ネル]]、[[てんぷら>オルカ　トヴォロ]]、[[れいか>レッサン　パンナ]]、[[森野 めるん>もり　るんるん]]、[[寧々丸>鬼瓦　るる]]&br()司会：[[弐十>職無　ニトロ]]、ガヤ担当(配信枠)：[[日ノ隈 らん>ひの　らん]]、スペシャルゲスト：[[しょうじ>竹井　勝痔]]|
 |08/19|VALORANT|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【VALORANT/コラボ】ストグラ警察メンバーで初心者カスタム🔰 part①>>https://www.youtube.com/watch?v=V6vWMsxs3Hk]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【VALORANT/コラボ】ストグラ警察メンバーで初心者カスタム🔰 part②>>https://www.youtube.com/watch?v=fKJBoC9tc1E]]|経験者：[[るなりあ>ニックス　リア]]、[[えびす>伊勢　えびす]]、[[おらんじ～な>立花　乱歩]]、[[にぶぶ>二部　らるたる]]、[[かど>よすみの　かど]]&br()初心者：[[さぶ郎。>安保　さぶ郎]]、[[森野 めるん>もり　るんるん]]、[[017>冷泉　ナデシコ]]、[[ルルベル>ルール　ちゃん]]&br()コーチ：[[花芽 なずな>きらりんぶい☆　なずぴ(10)]]、[[Rio>犬上　リオ]]|
 |11/11|PUBG|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【コラボ┆PUBG】ストグラ公務員PUBGカスタム🐔伝説の黄色ジャージで挑む!!>>https://www.youtube.com/watch?v=OI4QLVSZMz0]]&br()※途中参加・抜けあり。不参加あり。|警察：[[アベレージ>安部　霊明]]、[[たけぉ>バーバリアン　田中]]、[[D.ManueL>ゴンザレス　マヌ太郎]]、[[Rio>犬上　リオ]]、[[ねけまる>ブロッコリー　斎藤]]、[[レントンゲームズ>赤城　煉]]&br()[[るなりあ>ニックス　リア]]、[[えびす>伊勢　えびす]]、[[ルルベル>ルール　ちゃん]]、[[さぶ郎。>安保　さぶ郎]]、[[あどみん>夜若木　颯]]、[[しょうじ>竹井　勝痔]]、[[にぶぶ>二部　らるたる]]&br()[[ぱちしゅう>日之　ぱちお]]、[[れいか>レッサン　パンナ]]、[[きもともと>キーモット　ホームズ]]、[[てんぷら>オルカ　トヴォロ]]、[[しおこうじ>シオコ　リコ]]、[[森野 めるん>もり　るんるん]]&br()[[かど>よすみの　かど]]、[[ホロ酔いさん。>猪原　ローズ]]、[[ハ ユン>羽芝　ユン]]、[[二十日 ネル>二十日　ネル]]、[[ごっちゃん@マイキー>後藤　れむ]]&br()[[Middleeetv>ミン　ドリー]]、[[アジ吉>味野　環九郎]]、[[寧々丸>鬼瓦　るる]]、[[花芽 なずな>きらりんぶい☆　なずぴ(10)]] ※諸事情で不参加：[[marunnn>花沢　まるん]]&br()救急隊：[[kaka>加賀　イズミ]]、[[ノビー>ノビー　ラング]]、[[天羽 よつは>天羽　よつは]]、[[おらんじ～な>神崎　治]]、[[憩居 ももあ>星野　ももあ>]]&br()[[鬼ヶ島 ぴぃち>鬼桃　ぷぅ]]、[[切嘛/Kiruma>切間　てつお]]、[[夢咲 刻夜>命田　守]]、[[こるぺん>鳥野　ぎん]]|
-
 &small(){※&bold(){【格付け】格付けしあうストグラ警察たち ～女の子編～は別枠。(枠：ひのらん)}&br()※見られなくなった場合、各コラボ相手の視点配信をご覧ください。}
 #endregion
 

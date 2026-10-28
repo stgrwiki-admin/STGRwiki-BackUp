@@ -1,4 +1,4 @@
-*プロフィール
+*&font(25,#FFFFFF){&font(35,#a5abda){プ}ロフィール &icon_fa(fa fa-user)}
 //twixより転用4:3
 &image(ホシバミオ_トップ画01.jpeg,y=400,center)
 
@@ -8,7 +8,7 @@
 |~出身地|~&icon_fa(fa fa-location-dot)|魔法界|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|????年11月8日 (18歳)|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年5月9日 (&countup(2026/5/9,yd)経過)|
-|~職業|~&icon_fa(fa-solid fa-building-columns)|&icon_fa(fa fa-wrench fa-fw)メカニック【[[LUNA Garage]]】&br()&icon_fa(fas fa-bread-slice)パン屋【[[ベーカリー早苗]]】|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|&icon_fa(fa fa-wrench fa-fw)メカニック【[[LUNA Garage]]】&br()&icon_fa(fas fa-bread-slice)パン屋【[[ベーカリー早苗]]】&br()&icon_fa(fa fa-briefcase-medical)【[[ロスサントス救急救命隊]]】|
 |~所属|~&icon_fa(fa fa-users)|ジョープロ3期生【&ruby(よなぼし){𝐘Ø𝐍𝐀*}】|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@hoshibamio|
 |~レーサー名|~&icon_fa(fa fa-car)|ホシバミオ|
@@ -32,7 +32,7 @@
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
 #endregion
-*基本情報
+*&font(25,#FFFFFF){&font(35,#a5abda){基}本情報 &icon_fa(fa fa-hat-wizard)}
 -第一街人は旧友の[[冥鳴　キマリ]]
 -自身は魔女であると公言している
 -魔法界のド田舎から都会に憧れてロスサントスへ引っ越してきた
@@ -42,9 +42,7 @@
 -魔法学校を中退している
 &small(){〜情報募集中〜}
 
-
-
-*エピソード
+*&font(25,#FFFFFF){&font(35,#a5abda){エ}ピソード &icon_fa(fa fa-book-tanakh)}
 **2026年
 #region(5月,open)&bold(){5月}
 //
@@ -84,7 +82,7 @@
 
 }
 
-*アーカイブ
+*&font(25,#FFFFFF){&font(35,#a5abda){ア}ーカイブ &icon_fa(fa fa-film)}
 **2026年
 #region(開く,open)
 #table_style(head=#3C5FB5:#FFF:center:b){配信日=right,#=center}
