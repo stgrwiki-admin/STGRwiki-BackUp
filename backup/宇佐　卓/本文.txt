@@ -61,8 +61,8 @@
 
 *&size(20){&color(#eaf4fc)&size(25){&color(#a596c7){交}}友関係 &icon_fa(fa fa-users)} 
 #region(開く)&bold(){閉じる}
-#div(width=120px,bgcolor=#9b68a9)
-{&font(b,#FFFFFF,120%){　トレハン部}}
+#div(width=200px,bgcolor=#9b68a9)
+{&font(b,#FFFFFF,120%){　トレハン部/いつメン}}
 #region(開く)&bold(){閉じる}
 &bold(){&icon_fa(fa-solid fa-circle-question)トレハン部経緯・由来→街で宝探し（トレジャーハント）が流行っていた時、このメンバーでよく探しに行っていたことから本人たちの中でこう呼ぶようになった}
 #table_style(head=center:#9b68a9:#FFF)
@@ -82,12 +82,27 @@
 |&font(b,120%){[[アビビービ・ビービ・コ]]}|&bold(){アビビ}|・ハイテンションなアビビと一緒によくはしゃいでいる&br()・一緒に🔰外しイベント【うさびーびさぽふぇすてぃばる】を開催&br()・「たくちゃん」と呼ばれている|
 #endregion
 
-#div(width=80px,bgcolor=#9b68a9)
+#div(width=100px,bgcolor=#9b68a9)
+{&font(b,#FFFFFF,120%){　職場関係}}
+#region(開く)&bold(){閉じる}
+&font(b,#FFFFFF,120%){&color(#9b68a9){&icon_fa(fa-solid fa-seedling)[[VALPINUS]]}}
+#table_style(head=center:#9b68a9:#FFF)
+|~キャラクター名|~呼び方|~備考|h
+|&font(b,120%){[[日之　ぱちお]]}|&bold(){ぱちおさん}|・二大ボスで&bold(){"この人についていきたい"}と思えたうちの1人&br()・ぱちおさんの過去の話を聞いた上で、&bold(){『[[丘猫　まる]]が助かることを1番に考えて行動する』}ことを約束した|
+|&font(b,120%){[[丘猫　まる]]}|&bold(){まるさん}|・二大ボスで&bold(){"この人についていきたい"}と思えたうちの1人&br()・VALPINUSに入る前から探偵バイトによく誘ってくれており、交流があった|
+|&font(b,120%){[[ヘルアン]]}|&bold(){ヘルアンさん}|・VALPINUSの先輩で、犯罪周りのことを教えてもらっている&br()・「宇佐卓が別の組織やギャングに入るまで俺がケツを持つ」と言ってくれている|
+
+&font(b,#FFFFFF,120%){&color(#9b68a9){&icon_fa(fa-solid fa-bolt)[[Confate]]}}
+#table_style(head=center:#9b68a9:#FFF)
+|~キャラクター名|~呼び方|~備考|h
+|&font(b,120%){[[さとう]]}|&bold(){さとうさん}|・Confateの店長&br()・2人で歌い合いっこしたことをきっかけに、宇佐卓はこの街で歌うことになった&br()・「運命を感じれる人って特別な人だよ」という言葉に心動かされ、就職を決意|
+#endregion
+
+#div(width=70px,bgcolor=#9b68a9)
 {&font(b,#FFFFFF,120%){　市民}}
 #region(開く)&bold(){閉じる}
 #table_style(head=center:#9b68a9:#FFF)
 |~キャラクター名|~呼び方|~備考|h
-|&font(b,120%){[[さとう]]}|&bold(){さとうさん}|・就職先[[Confate]]の店長&br()・宇佐卓がこの街で歌うことになったきっかけの人物&br()・2人で歌い合いっこし、「宇佐卓は歌う人だね!? 運命を感じれる人って特別な人だよ。」という言葉に心動かされ、就職を決意|
 |&font(b,120%){[[月乃　えるな]]}|&bold(){えっちゃん}|・初めて会った時から「えっちゃん」「たっくん」と呼び合う仲(彼氏も了承済)|
 |&font(b,120%){[[トウ　ユン]]}|&bold(){トウユンさん/国宝}|・🔰外しイベントでお世話になってからよく連絡を取るようになった&br()・将来について迷っているとき、親身になって話を聞いてくれた&br()・ギャング含め、黒市民や犯罪に関わることについて教えてもらっている|
 #endregion
@@ -868,6 +883,11 @@
 -まるさんと話し、「明日の犯罪が終わった後、[[聖母　れりあ]]に宇佐卓がVALPINUSにいるということを一緒に話に行こう」と言われる。
 -[[ヘルアン]]にチェイス練習の成果を見せる
 #endregion(28日)
+----
+****10/29　&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】 今日が僕のデビュー日です。絶対に。 3８日目>>https://www.twitch.tv/usa_takuma]]&space(2)&small(){}
+#region(開く,close)閉じる
+-
+#endregion(28日)
 #endregion
 
 *&size(20){&color(#eaf4fc){&size(25){&color(#a596c7){ア}}－カイブ &icon_fa(fa fa-twitch)}}
@@ -935,6 +955,7 @@
 |35|26/10/24(土)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】銃を持った子豚ちゃん 35日目>>https://www.twitch.tv/videos/2909410279]]|えるPと宅配バイト、会話攻略法、花屋実験、車強奪講座|
 |36|26/10/25(日)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】いつか狼になるために 36日目>>https://www.twitch.tv/videos/2910323353]]|ぱちおさんからの大事なお話、ロスコレ(ドリチケ係)、Confateメンバーへの進路報告、チェイス練習、初逮捕|
 |37|26/10/28(水)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[#ストグラ 警察が嫌いになりました 37日目>>https://www.twitch.tv/videos/2912947107]]|天草さんさぽとのお話、法律講座、チェイス自主練、きのこ続報、黒堕ち報告(みどりさん、N.A.W.Aさん)|
+|38|26/10/29(木)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】 今日が僕のデビュー日です。絶対に。 3８日目>>https://www.twitch.tv/usa_takuma]]|犯罪デビュー(コンビニ)、花屋パートナーにご挨拶、犯罪講座|
 
 //|yy/mm/dd(aaa)|n|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
@@ -972,6 +993,7 @@
 |23|26/10/27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】仲間に送り出された白市民、ついに初めての銃を手にする…【宇佐卓、天田さぽ、音凪紬、鈴那衣遠、聖母れりあ】>>https://youtu.be/3WMIaRMvSv0?si=Vx5mYnNaKkhnGvvl]]|#34-1️⃣|
 |24|26/10/27|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】ボスが突きつけた残酷な2択。銃口を向けられたウサタクの答えは…【宇佐卓、ヘルアン、あない、日之ぱちお】>>https://youtu.be/BUHTA_PQK6g?si=j-6J1O7FU4fhR8Yg]]|#35-1️⃣ #36-1️⃣|
 |25|26/10/28|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】華々しく犯罪デビューするはずが、練習中に逮捕され言い訳が止まらなくなる男ｗｗｗｗ【花沢まるん、たけいしょうじ、ボイラテンガリン、ヘルアン】>>https://youtu.be/fNa6gIysFBs?si=X1YpX4yReJCxwG9N]]|#36-2️⃣|
+|26|26/10/29|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】「敵になったら撃てる？」親友の葛藤から始まった豪華すぎる5者面談ｗｗｗ【宇佐卓、天草蒼、天田さぽ、丘猫まる、ヘルアン】>>https://youtu.be/h4w9m-S3G7k?si=CA411PSIn3D3bzRy]]|#37-1️⃣|
 
 //|mm/dd(aaa)|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>ＵＲＬ]]|yyyy/mm/dd(aaa)||
 #table_sorter{even=#F7F7F7,odd=fff}

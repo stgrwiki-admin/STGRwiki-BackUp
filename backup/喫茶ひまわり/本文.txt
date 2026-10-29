@@ -30,14 +30,15 @@
 #table_filter(){役職=show,就職日=show,備考=show,配信=show}
 #table_style(head=#F2B31C)
 |~役職|~名前|~就職日|~備考|~配信|h
-|店長|[[日之　ぱちお]]|2026/08/05||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/patisyu]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E3%81%B1%E3%81%A1%E3%81%88%E3%82%8B%E5%85%84%E5%A6%B9]]|
-|副店長|[[丘猫　まる]]|2026/08/08||&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/soraposhich]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@SoraphoshiCH]]|
-|従業員|[[捌木　たいたい]]|2026/09/02|以前より声をかけていた。オープン当日に面接し採用。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/taitai19970904]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@taitaiYOUTUBE]]|
-|従業員|[[ジト村　ミシロ]]|2026/10/18|[[エノテラ]]で雇ったことから、ついでにジョブを付与。|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/@346kun]]|
+|店長&br()(4)Manager|[[日之　ぱちお]]|2026/08/05||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/patisyu]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E3%81%B1%E3%81%A1%E3%81%88%E3%82%8B%E5%85%84%E5%A6%B9]]|
+|副店長&br()(4)Manager|[[丘猫　まる]]|2026/08/08||&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/soraposhich]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@SoraphoshiCH]]|
+|従業員&br()(0)Recruit|[[捌木　たいたい]]|2026/09/02|以前より声をかけていた。オープン当日に面接し採用。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/taitai19970904]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@taitaiYOUTUBE]]|
+|従業員&br()(3)Advanced|[[ジト村　ミシロ]]|2026/10/18|[[エノテラ]]で雇ったことから、ついでにジョブを付与。|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/@346kun]]|
 
 //|役職|[[名　前]]|yyyy/mm/dd|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
+//(4)Manager/(3)Advanced/(2)Experienced/(1)Novice/(0)Recruit
 //従業員の変更があれば「参加者一覧」への反映もお願いします
 
 #co{
@@ -110,12 +111,13 @@
 ***2026年
 #region(,open)
 #table_filter(){関係者=hide,エピソード・備考=show}
-#table_style(head=#F2B31C:center)
+#table_style(head=#F2B31C:center){出来事=bold}
 |~日付|~出来事|~関係者|~エピソード・備考|h
 |08/05|店舗登録完了||マップにアイコンが付いた|
 |08/15|プレオープン|[[日之　ぱちお]]||
 |09/02|グランドオープン|[[日之　ぱちお]]、[[丘猫　まる]]、[[捌木　たいたい]]|特別にモーニングプレートを終日販売|
 |09/27|イベントテストプレイ実施|GM：[[丘猫　まる]]、参加者：[[日之　ぱちお]]、[[捌木　たいたい]]、&br()[[文殊　セイジ]]、[[ヘルアン]]、[[ジト村　ミシロ]]、[[える P くろー]]|ジオゲッサー風のイベントのテストプレイとして新規と古参の住民数人に参加してもらう|
+//|09/30|シンバフェス開催||看板犬シンバの仮装で来店してくれたお客様に特別な商品をプレゼント|
 
 //|mm/dd|出来事|関係者|エピソード・備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
