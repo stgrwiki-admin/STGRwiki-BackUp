@@ -543,15 +543,27 @@
 #endregion
 //----------------------------------------------------------------------------------------------------
 ***&bold(){9月}
-#region(【23日目〜】,open)
+#region(【23〜25日目】,close)
 #table_style(head=center:#E0E0E0){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |2026/09/02|23|[[【23日目】一難去ってまた一難>>https://www.twitch.tv/videos/2863335130]]||
 |2026/09/13|24|[[【24日目】今日は遅すぎる番>>https://www.twitch.tv/videos/2873283483]]||
+|2026/09/20|25|[[【25日目】今日も遅すぎる番>>https://www.twitch.tv/videos/2879429679]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+//----------------------------------------------------------------------------------------------------
+***&bold(){10月}
+#region(【26日目〜】,open)
+#table_style(head=center:#E0E0E0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|2026/10/02|26|[[【26日目】今日も一日>>https://www.twitch.tv/videos/2889829677]]||
+|2026/10/04|27|[[【27日目】早く起きる>>https://www.twitch.tv/videos/2891720982]]||
+|2026/10/21|28|[[【28日目】今日は何があるかな>>https://www.twitch.tv/videos/2906823677]]||
+|2026/10/22|29|[[【29日目】今日は何があるかな>>https://www.twitch.tv/videos/2907675901]]||
+|2026/10/29|30|[[【30日目】なにかに参加するらしい？>>https://www.twitch.tv/videos/2913991773]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 #endregion
-
 
 *&color(#e0e0e0){&font(#dcd3b2){&icon_fa(fa fa-folder-open)} ストグラ外コラボ配信}
 #region(開く,open)

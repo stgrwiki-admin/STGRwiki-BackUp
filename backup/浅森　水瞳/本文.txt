@@ -171,7 +171,7 @@
 //
 *動画
 ***2026年
-#region(開く,open)
+#region(#1 ~ #20,close)
 #table_style(head=center:#5fb2e7:#fff){配信日=right}
 |~配信日|~配信タイトル|~備考|h
 |08/25|[[【浅森水瞳】２日目、様子のおかしい会話>>https://www.youtube.com/watch?v=8WTG0O69WsY]]||
@@ -194,6 +194,13 @@
 |09/15|[[司法試験の質問を経て新しい犯罪を思いつく浅森>>https://youtu.be/AUcVSMUX-rQ?si=enXTwZGqF4PUVL_e]]||
 |09/15|[[浅森水瞳が連載していた漫画タイトルのアキネーター>>https://youtu.be/CsVH3nkB7qU?si=STg4pDCuic0FAbjM]]||
 |09/17|[[初対面の聖母れりあを魅了しつつ翻弄される浅森水瞳>>https://youtu.be/t4kSuFiG1Jk?si=N4sZCUDh_gsay7H9]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#table_autoincrement(){label=#}
+#endregion
+//
+#region(#21 ~,open)
+#table_style(head=center:#5fb2e7:#fff){配信日=right}
+|~配信日|~配信タイトル|~備考|h
 |09/17|[[毒多博士に町の秘密を教えてもらう浅森水瞳>>https://youtu.be/AqRTprGUuQE?si=7hQXjWnEfTlOuVNC]]||
 |09/18|[[大川さんから買ったセフィロスを聞く浅森水瞳>>https://youtu.be/_nNYyRUzYjE?si=7k6Wd9A5GVCbdvF4]]||
 |09/18|[[野間と出会い、バーのメニューを描くことになる浅森水瞳>>https://youtu.be/XZ32ZXiKxH4?si=7Ju77vonTsv5xawx]]||
@@ -201,10 +208,20 @@
 |09/18|[[野間にメニューイラストを納品する浅森水瞳>>https://youtu.be/rUWwagJd94o?si=XPj6vlNz8b2Dx7p2]]||
 |10/14|[[ドパり手のドパリン星人に出会う浅森>>https://youtu.be/DGl8ln-0jW0?si=EhV2ohYmG3p6NyYT]]||
 |10/14|[[ドMトナカイ裁判へ向け、不働めいと会う浅森>>https://youtu.be/U-OmThP_TPw?si=Yoc1pOkTm9CO-x8t]]||
-
+|10/27|[[SNSで余計なリプを送り、小峯玲から謎に巻き込まれる浅森>>https://www.youtube.com/watch?v=sG1ji3C2glE]]||
+|10/28|[[ペティさんから謎の文章の翻訳を頼まれる浅森>>https://www.youtube.com/watch?v=HFjK44zZdpk]]||
+|10/28|[[羽山パティから怪しい電話を受ける浅森>>https://www.youtube.com/watch?v=JReQeszbJ_0]]||
 //|mm/dd|n|[[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
-#table_autoincrement(){label=#}
+#table_autoincrement(){start=21, label=#}
 #endregion
+
+
+*関連リンク
+**再生リスト
+[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} STGR Season2>>https://youtube.com/playlist?list=PLUxdIac7IDu8&si=8po1XcZltauk39ZY]]
+[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ストグラクリップ>>https://youtube.com/playlist?list=PLC2gy8D-UUPY&si=ZMd2gzpHkfLFtaPJ]]
+[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} クリップ>>https://youtube.com/playlist?list=PLBfMcq17VFfI&si=Ljqe7tsmOgvzjm20]]
+[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}【ストグラ】ドMトナカイ事件>>https://youtube.com/playlist?list=PLOQHfcONxKrA&si=M4VKnHSK_EYT16td]]
 
 #right(){&link_up(🔝ページTOPへ)}

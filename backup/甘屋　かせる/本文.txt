@@ -1,0 +1,69 @@
+*プロフィール
+//&image(ここに画像のURLを入力,y=400)
+
+//ここからプロフィール
+#table_style(head=#ffe6f7:#666666){}
+|~名前|~&icon_fa(fa fa-user)|&ruby(あまや){甘屋}　&ruby(){かせる}|
+|~出身地|~&icon_fa(fa fa-location-dot)|-|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|- &co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2026年10月28日 (&countup(2026/10/28,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|-|
+|~所属|~&icon_fa(fa fa-users)|-|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|ここに@Usernameを入力|
+|~レーサー名|~&icon_fa(fa fa-car)|-|
+|~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|ヨウコウ|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){メイン/配信告知}>>https://twitter.com/yowkow]]&br()&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){ストグラ関連}>>https://twitter.com/yowkowch]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yowkowch]]|
+//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
+//切り抜き　&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@yowkow]]
+//アーカイブ置き場　&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/@yowkow77]]
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-情報を記述
+
+*エピソード
+**2026年
+#region(mm月,open)&bold(){mm月}
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(dd日)
+#endregion(mm月)
+#co{
+↓コピー用素材
+
+#region(mm月,open)&bold(){mm月}
+
+***mm/dd [[タイトル>>ＵＲＬ]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(dd日)
+
+#endregion(mm月)
+
+}
+
+*アーカイブ
+**2026年
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|10/28|1|[[甘屋かせる #1 /10月28日>>https://www.twitch.tv/yowkowch/video/2913108177]]||
+|10/29|2|[[話したい！聞きたい！甘屋かせる #2 /10月29日>>https://www.twitch.tv/videos/2914022591]]||
+//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+*その他
+&font(b,red){※ネタバレ注意}
+#region(別キャラクター)&b(){別キャラクター}
+▶[[桜星　ヨウコウ]]
+▶[[紅葉　紅莉栖]]
+▶[[天春　ヨウ]]
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

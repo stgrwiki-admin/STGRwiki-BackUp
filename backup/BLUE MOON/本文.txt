@@ -27,7 +27,7 @@
 ・宝石店だけでなく、&bold(){ウェディングプランナーのような仕事と兼用して営業}することを目指している。
 ・店舗移転に伴い、新店舗では従来のアクセサリーだけでなく、&bold(){食べ物やジョイントを実装}。
 
-#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&icon_fa(fa fa-envelope)&space()閉店のお知らせ}}
+#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&icon_fa(fa fa-envelope)&space()閉店のお知らせ (Season1)}}
 #size(50%){　}
 #region(開く)
 #blockquote(){ストグラ内店舗✧宝石店𝐁𝐋𝐔𝐄𝐌𝐎𝐎𝐍、
@@ -43,6 +43,8 @@
 ・・ロスサントスに戻ってきたら、&bold(){新装 宝石商【BLUE MOON】開店する}ことを従業員の[[ゴールデン　苺華]]と衛星観測者に約束する。
 ・・後々[[店長>ラピス　りお]]から、宝石店を引き継ぎたいという人物がおり、その人物と帰国日まで連絡が取れていないため、一度従業員の[[ゴールデン　苺華]]にオーナー権限を渡し、現れたら引き継ぎの手続きを行う。
 #endregion
+#size(50%){　}
+//#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season２}}
 
 
 *&font(35px,#6495ed){従}&font(25px,#EAF4FC){業員情報} &font(25px,#74C0FC){&icon_fa(fa fa-user)}
@@ -55,7 +57,6 @@
 |店長/Chief|[[ラピス　りお]]|2023/11/13|[[ロスサントス警察]]|市民5日目という異例のスピードで開業した。&br()日本に帰国するため店を畳む。戻ったら宝石店を再開する予定。|
 |店長/Chief|[[ゴールデン　苺華]]|2023/12/01|メカニック【[[PYC]]】社員&br()普通車ディーラー【[[プラネットモータース]]】社員|[[店長>ラピス　りお]]と最後までお店を支えた。&br()2025年1月末まで一時的にオーナー権限を付与。|
 |店員/Employee|[[小此木　ナカバ]]|2023/12/01|[[ロスサントス警察]]南署副署長&br()魔法少女カフェ【[[Ritual:]]】使い魔(副店長)|元々『宝石商ナカバ』として活動し、勧誘した。&br()国際電話にて、お店を畳むことに了承した。|
-
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
@@ -66,7 +67,6 @@
 #table_style(head=center:#5465AA:#FFFFFF){名前=center,体験開始日=center,体験終了日=center}
 |~名前|~体験開始日|体験終了日|~備考|h
 |[[みら　らんど]]|2023/12/01|2023/12/3|[[店長>ラピス　りお]]の誘いでオープニングスタッフとして働く。|
-
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
@@ -78,12 +78,11 @@
 |~名前|~就職日|~退職日|~備考|h
 |[[月ノ島　ごう]]|2023/11/??|2024/??/??|臨時従業員で[[店長>ラピス　りお]]からジョブをもらう。|
 |[[えぐち　きの子]]|2023/12/01|2024/11/20|別の職業に就くため、自主退職。[[店長>ラピス　りお]]が起きられない時は店を開いていた。|
-
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
-
 ※ただし、[[月ノ島　ごう]](白市民時代)は開業への出資とオーダーメイドの商談を手伝ったが、正規従業員・職業体験者ではない。
 #endregion
+
 //#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season２}}
 
 
@@ -97,6 +96,7 @@
 &bold(){新店舗 リニューアルオープン&閉店セール}
 #slide_img(auto=2,position=left,width=350,height=500){宝石店MENU.png,宝石店MENU2.png,宝石店MENU3.png,宝石店MENU4.png}
 #endregion
+
 //#div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&space()Season２}}
 
 
@@ -107,7 +107,7 @@
 ***誕生石シリーズ
 ・誕生石を象った指輪。2023年12月14日にデザインを一新。1個500万円で常設販売。※税込
 ・・誕生石には、それぞれの石言葉があるため、自分・相手の誕生日以外に日頃の感謝として渡すこともある。
-&image(https://pbs.twimg.com/media/GFQaAgaaIAAnzMT?format=jpg&name=large,x=500)
+&image(誕生石リング.jpg,x=500)
 
 ***ペアリング
 ・宝石加工が無いシンプルな指輪。1個400万円で常設販売。※税込
@@ -129,13 +129,13 @@
 ・・魅惑のルビー：ラズベリー&ローズの香り。華やかさとミステリアスな魅力を兼ね揃えた宝石香水。
 ・・慈愛のサファイア：ホワイトムスク&シダーウッドの香り。男女兼用の宝石香水。
 ・・癒しのエメラルド：グリーンアップル&ベルガモットの香り。エメラルドの持つ自然との調和や癒しのエネルギーを表現した宝石香水。
-&image(https://pbs.twimg.com/media/Gdr8ZC_aYAABc86?format=jpg&name=large,x=500)
+&image(宝石香水.jpg,x=500)
 
 ***宝石石鹸(ジョイント)
 ・宝石の形をした石鹸。ローズクォーツ・アクアマリンの全2種。1個1万円で販売。※税込
 ・・アクアマリン：爽やかなエアリーシャンプーの香り
 ・・ローズクォーツ：ロマンティックなローズの香り
-&image(https://pbs.twimg.com/media/Gdonl-LWgAAhM5i?format=jpg&name=small,x=500)
+&image(宝石石鹸.jpg,x=500)
 
 ***オーダーメイド
 ・世界に一つだけのオリジナルリング。お客様からヒアリングし、ご希望のデザインで制作。
@@ -147,18 +147,18 @@
 |&image(命田夫妻結婚指輪.png,x=100)|[[永遠の誓いを＿>>https://twitter.com/aoki_rio1203/status/1725531382104141908]]&br()&small(){&color(#aaa)Wedding Ring}|[[命田夫>命田　守]][[妻>サンフォレスト　あんず]]|[[命田　守]]用：ルビー、シルバーリング、刻印「AtoM」&br()[[命田・S・あんず>サンフォレスト　あんず]]用：サファイア、ピンクゴールドリング、刻印「MtoA」|[[BLUE MOON]]初のオーダーメイド依頼|
 |&image(馬ウメ結婚指輪.png,x=100)|[[貴女をジャックするリング。>>https://twitter.com/aoki_rio1203/status/1727360953841529026]]&br()&small(){&color(#aaa)Wedding Ring}|[[マクドナルド]]|[[ジャック　馬ウアー]]用：サファイア、馬の蹄鉄をイメージ&br()[[ジャック・馬・ウメ>松竹　ウメ]]用：エメラルド、触手のような気持ち悪い物体をイメージ|[[マクドナルド]]らしい面白い注文内容で笑ったそう。|
 |&image(海鈴夫妻結婚指輪.png,x=100)|[[Wedding Anniversary>>https://twitter.com/aoki_rio1203/status/1730332301043847176]]&br()&small(){&color(#aaa)Wedding Ring}|[[海鈴　ナギ]]|[[海鈴　ナギ]]用：ブルートパーズ、船の錨をモチーフ&br()[[海鈴　りおん]]用：ブルートパーズ、天使の羽をモチーフ|結婚3周年記念品|
-|&image(https://pbs.twimg.com/media/GFFq3OwakAAkNiP?format=jpg&name=large,x=100)|[[Kinoko Eguchi>>https://x.com/AozukiV_design/status/1752301042103128376]]&br()&small(){&color(#aaa)Original Ring}|[[ラグランジュ　光芝]]|[[えぐち　きの子]]用：エメラルドと誕生石のガーネット、キノコをモチーフ|恋人への誕生日プレゼント。|
-|&image(https://pbs.twimg.com/media/GFFthE6bYAAJYT3?format=jpg&name=large,x=100)|[[冬野 雪>>https://x.com/aoki_rio1203/status/1752300973199126802]]&br()&small(){&color(#aaa)Original Ring}|[[ジャック・馬・ウメ>松竹　ウメ]]|[[冬野　雪]]用：大人可愛い水色、雪と雪の結晶をイメージ|帰国する友人へのプレゼント|
-|&image(https://pbs.twimg.com/media/GGxcMPSaQAAICnb?format=jpg&name=medium,x=100)|[[AMACHIKA KURUMI>>https://twitter.com/aoki_rio1203/status/1759882846578331998]]&br()&small(){&color(#aaa)Original Ring}|[[ハイライト>小峯　玲]]|[[天近　くるみ]]用：アメジスト、魔女らしさと魔法陣をイメージ|インフルにかかりながらも制作し、衛星外で納品。|
-|&image(https://pbs.twimg.com/media/GHaT715aEAEyCLL?format=jpg&name=large,x=100)|[[ふたりでひとつ いつもありがとう。>>https://x.com/3284_xx/status/1762759047479263425]]&br()&small(){&color(#aaa)Original Pair Ring}|[[ようち　えんじ>パス　ヒソカ]]|[[ようち　えんじ>パス　ヒソカ]]用：ダイヤモンド、ガーネット、帽子と天使の羽をモチーフ&br()[[しょうがく　SAY>パス　トバリ]]用：ダイヤモンド、ルビー、帽子と悪魔の羽をモチーフ|2つ合わせると無限大∞の形に|
-|&image(https://pbs.twimg.com/media/GJQ164-bgAAy4Pe?format=jpg&name=large,x=100)|[[MonD>>https://x.com/aoki_rio1203/status/1771099843827560562]]&br()&small(){&color(#aaa)Original Earring}|[[Mon　D]]|[[Mon　D]]用：ルビー、スペードのエース(ブラックジャック)をイメージ|初のイヤリング制作&br()トランプの中で最も強いマークを採用|
-|&image(https://pbs.twimg.com/media/GORssCzbgAElKIx?format=jpg&name=900x900,x=100)|[[ALLIN >>https://x.com/aoki_rio1203/status/1793678058672869576]]&br()&small(){&color(#aaa)Original Coin}|[[Mon　D]]|[[ALLIN]]メンバー用：カジノチップとトランプ柄、ダイヤモンド、ギャンブル要素をイメージ&br()※SERIOUS ABOUT EVERYTHING(全てに全力で挑む)とギャング創設日を明記|初の団体でのオーダーメイド依頼|
-|&image(https://pbs.twimg.com/media/GP9br-BbYAApRFA?format=jpg&name=large,x=100)|[[餡ブレラ >>https://x.com/AozukiV_design/status/1801259219452350729]]&br()&small(){&color(#aaa)Original Dogtag}|[[栖家幡　華憐]]|[[餡ブレラ]]メンバー用：ルビーとブラックダイヤモンド、ブラックチタンで組織の絆の硬さをイメージ&br()※If you get hit, you hit back.(やられたらやり返す)とギャング創設日を明記|餡ブレラ設立1周年記念品|
-|&image(https://pbs.twimg.com/media/GQhmp3Za8AAjoV0?format=jpg&name=large,x=100)|[[第1回 9055 GP 表彰メダル>>https://x.com/FuuuuunHjan/status/1807745979292213429]]&br()&small(){&color(#aaa)Original Medal}|[[上田　さん]]|表彰者用：9055のロゴと大会専用レース車であるジェスターレースカーをイメージ|第1回 9055 GP用の表彰メダル。社長の計らいでメダルを無償提供。|
+|&image(えぐちきの子指輪.jpg,x=100)|[[Kinoko Eguchi>>https://x.com/AozukiV_design/status/1752301042103128376]]&br()&small(){&color(#aaa)Original Ring}|[[ラグランジュ　光芝]]|[[えぐち　きの子]]用：エメラルドと誕生石のガーネット、キノコをモチーフ|恋人への誕生日プレゼント。|
+|&image(冬野雪指輪.jpg,x=100)|[[冬野 雪>>https://x.com/aoki_rio1203/status/1752300973199126802]]&br()&small(){&color(#aaa)Original Ring}|[[ジャック・馬・ウメ>松竹　ウメ]]|[[冬野　雪]]用：大人可愛い水色、雪と雪の結晶をイメージ|帰国する友人へのプレゼント|
+|&image(天近くるみ指輪.jpg,x=100)|[[AMACHIKA KURUMI>>https://twitter.com/aoki_rio1203/status/1759882846578331998]]&br()&small(){&color(#aaa)Original Ring}|[[ハイライト>小峯　玲]]|[[天近　くるみ]]用：アメジスト、魔女らしさと魔法陣をイメージ|インフルにかかりながらも制作し、衛星外で納品。|
+|&image(ようちえんじ指輪.jpg,x=100)|[[ふたりでひとつ いつもありがとう。>>https://x.com/3284_xx/status/1762759047479263425]]&br()&small(){&color(#aaa)Original Pair Ring}|[[ようち　えんじ>パス　ヒソカ]]|[[ようち　えんじ>パス　ヒソカ]]用：ダイヤモンド、ガーネット、帽子と天使の羽をモチーフ&br()[[しょうがく　SAY>パス　トバリ]]用：ダイヤモンド、ルビー、帽子と悪魔の羽をモチーフ|2つ合わせると無限大∞の形に|
+|&image(MonDイヤリング.jpg,x=100)|[[MonD>>https://x.com/aoki_rio1203/status/1771099843827560562]]&br()&small(){&color(#aaa)Original Earring}|[[Mon　D]]|[[Mon　D]]用：ルビー、スペードのエース(ブラックジャック)をイメージ|初のイヤリング制作&br()トランプの中で最も強いマークを採用|
+|&image(ALLINメダル.jpg,x=100)|[[ALLIN >>https://x.com/aoki_rio1203/status/1793678058672869576]]&br()&small(){&color(#aaa)Original Coin}|[[Mon　D]]|[[ALLIN]]メンバー用：カジノチップとトランプ柄、ダイヤモンド、ギャンブル要素をイメージ&br()※SERIOUS ABOUT EVERYTHING(全てに全力で挑む)とギャング創設日を明記|初の団体でのオーダーメイド依頼|
+|&image(餡ブレラドッグタグ.jpg,x=100)|[[餡ブレラ >>https://x.com/AozukiV_design/status/1801259219452350729]]&br()&small(){&color(#aaa)Original Dogtag}|[[栖家幡　華憐]]|[[餡ブレラ]]メンバー用：ルビーとブラックダイヤモンド、ブラックチタンで組織の絆の硬さをイメージ&br()※If you get hit, you hit back.(やられたらやり返す)とギャング創設日を明記|餡ブレラ設立1周年記念品|
+|&image(第1回メダル.jpg,x=100)|[[第1回 9055 GP 表彰メダル>>https://x.com/FuuuuunHjan/status/1807745979292213429]]&br()&small(){&color(#aaa)Original Medal}|[[上田　さん]]|表彰者用：9055のロゴと大会専用レース車であるジェスターレースカーをイメージ|第1回 9055 GP用の表彰メダル。社長の計らいでメダルを無償提供。|
 |&image(9055GPトロフィー.png,x=100)|[[第1回 9055 GP 優勝トロフィー>>https://x.com/FuuuuunHjan/status/1807745979292213429]]&br()&small(){&color(#aaa)Original Trophy}|[[上田　さん]]|GP優勝者用：9055のロゴと大会専用レース車であるジェスターレースカーをイメージ|第1回 9055 GP 1位である[[死神ハンク>アーモンド　サラザール]]の名前と説明文が入っている。|
-|&image(https://pbs.twimg.com/media/Gdr1uQGagAA1r8L?format=jpg&name=4096x4096,x=100)|[[第2回 9055 GP 表彰メダル>>https://x.com/FuuuuunHjan/status/1863075351355891995]]&br()&small(){&color(#aaa)Original Medal}|[[上田　さん]]|表彰者用：9055のロゴと大会専用レース車をイメージ|第2回 9055 GP用の表彰メダル。|
-|&image(https://pbs.twimg.com/media/Gdr1uQpXQAADqJw?format=jpg&name=4096x4096,x=100)|[[第2回 9055 GP 優勝トロフィー>>https://x.com/FuuuuunHjan/status/1863075351355891995]]&br()&small(){&color(#aaa)Original Trophy}|[[上田　さん]]|GP優勝者用：9055のロゴと大会専用レース車をイメージ|第2回 9055 GP 1位である[[万十　忍]]の名前と説明文が入っている。|
-|&image(https://pbs.twimg.com/media/Gdv5KllboAAYOuM?format=jpg&name=large,x=100)|[[TWILIGHT>>https://x.com/aoki_rio1203/status/1863356834939334740]]&br()&small(){&color(#aaa)Original Perfume}|[[ラピス　りお]]|[[月ノ島　ごう]]用：名前の由来は夕暮れ、カラーは表と裏の家業をイメージ&br()※チャームには、本人の転入日を記載し、イメージカラー『オレンジ』を採用|宝石店閉店セレモニーにて、出資者の[[ごうさん>月ノ島　ごう]]にサプライズでプレゼント。&br()最初で最後となる専用香水SERIESである。|
+|&image(第2回メダル.jpg,x=100)|[[第2回 9055 GP 表彰メダル>>https://x.com/FuuuuunHjan/status/1863075351355891995]]&br()&small(){&color(#aaa)Original Medal}|[[上田　さん]]|表彰者用：9055のロゴと大会専用レース車をイメージ|第2回 9055 GP用の表彰メダル。|
+|&image(Gdr1uQpXQAADqJw.jpg,x=100)|[[第2回 9055 GP 優勝トロフィー>>https://x.com/FuuuuunHjan/status/1863075351355891995]]&br()&small(){&color(#aaa)Original Trophy}|[[上田　さん]]|GP優勝者用：9055のロゴと大会専用レース車をイメージ|第2回 9055 GP 1位である[[万十　忍]]の名前と説明文が入っている。|
+|&image(月ノ島ごう香水.jpg,x=100)|[[TWILIGHT>>https://x.com/aoki_rio1203/status/1863356834939334740]]&br()&small(){&color(#aaa)Original Perfume}|[[ラピス　りお]]|[[月ノ島　ごう]]用：名前の由来は夕暮れ、カラーは表と裏の家業をイメージ&br()※チャームには、本人の転入日を記載し、イメージカラー『オレンジ』を採用|宝石店閉店セレモニーにて、出資者の[[ごうさん>月ノ島　ごう]]にサプライズでプレゼント。&br()最初で最後となる専用香水SERIESである。|
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
@@ -184,7 +184,7 @@
 |~画像|~商品名|~紹介文|~備考|h
 |&image(オリジナルネックレス.png,x=100)|誕生石ネックレス&br()&small(){&color(#aaa)Original Necklace}|誕生石を象ったネックレス&br()キャッチコピー：シンプルこそ、ベスト。|ロスサントス産ジュエリーでネックレスがあるように指輪以外のものを考案。|
 |&image(腕時計.png,x=100)|Los Santos Limited STGR01&br()&small(){&color(#aaa)Original Watch}|IP67防水&防塵を完備した腕時計&br()キャッチコピー：オシャレと共に「刻む物語」|街のスマートウォッチのデザインを変えるうえで考案。&br()文字盤の真ん中にダイヤモンドのイラストを入れている。|
-|&image(https://pbs.twimg.com/media/GeTGrVcaAAAaYRh?format=jpg&name=large,x=100)|[[BLUE MOON>>https://x.com/AozukiV_design/status/1865834902564041150]]&br()&small(){&color(#aaa)Original Ring}|店舗ロゴモチーフの指輪&br()|店舗モチーフまたは従業員モチーフの指輪を作るうえで考案。&br()リングには、それぞれのモチーフ宝石を入れる予定だった。|
+|&image(店舗ロゴモチーフ指輪.jpg,x=100)|[[BLUE MOON>>https://x.com/AozukiV_design/status/1865834902564041150]]&br()&small(){&color(#aaa)Original Ring}|店舗ロゴモチーフの指輪&br()|店舗モチーフまたは従業員モチーフの指輪を作るうえで考案。&br()リングには、それぞれのモチーフ宝石を入れる予定だった。|
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
@@ -212,8 +212,9 @@
 
 
 *&font(35px,#6495ed){新}&font(25px,#EAF4FC){聞記事} &font(25px,#74C0FC){&icon_fa(fa fa-newspaper)}
-#region(開く)
 #div(width=330px,bgcolor=#6495ed){&font(16px,b,#FFF){&space()&icon_fa(fa fa-mobile-screen)&space()NEWSアプリ}}
+#size(50%){　}
+#region(開く)
 #blockquote(){タイトル:『ロスサントスの新たな宝石店であなただけの輝きを』
 投稿日:2024-01-15 01:17:22
 
