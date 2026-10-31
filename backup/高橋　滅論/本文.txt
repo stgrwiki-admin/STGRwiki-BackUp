@@ -8,7 +8,7 @@
 |~&font(#fff){出身地}|~&font(#ffffff){&icon_fa(fa fa-location-dot) }|>|日本|
 |~&font(#fff){誕生日}|~&font(#ffffff){&icon_fa(fa fa-cake-candles)} |>|1987年07月13日(&countup(1987/7/13,y)歳)|
 |~&font(#fff){転入日}|~&font(#ffffff){&icon_fa(fa fa-plane-arrival)} |>|2023年10月06日 (&countup(2023/10/06,yd)経過)|
-|~&font(#fff){職業}|~&font(#ffffff){&icon_fa(fa fa-university)} |&icon_fa(fa-solid fa-rocket)&space()ギャング【[[第4宇宙速度]]】構成員(2025年02月04日～)&br()&icon_fa(fa-solid fa-key)【[[PARADISE LOST]]】執事(2025年03月18日～)&br()&openclose2(show=過去の職業▼){&size(90%){&br()&icon_fa(fa-solid fa-burger)&space()ハンバーガー屋【[[E5's BURGER]]】店員(2024年09月14日解雇処分)&br()&icon_fa(fa-solid fa-pills)&space()麻薬カルテル【[[DEP]]】(2024年09月14日除名処分)&br()&icon_fa(fa fa-tree)&space()木こり(2025年02月04日退職)&br()&icon_fa(fa-solid fa-bowl-food)&space()中華料理屋【[[明味房>ミンミンボウ]]】店員(2024年09月25日〜2025年03月18日)}}|ギャング【[[麻陀羅組]]】&small(){構成員(2026年01月25日～)}&br()|
+|~&font(#fff){職業}|~&font(#ffffff){&icon_fa(fa fa-university)} |&icon_fa(fa-solid fa-rocket)&space()ギャング【[[第4宇宙速度]]】構成員(2025年02月04日～)&br()&icon_fa(fa-solid fa-key)【[[PARADISE LOST]]】執事(2025年03月18日～)&br()&openclose2(show=過去の職業▼){&size(90%){&br()&icon_fa(fa-solid fa-burger)&space()ハンバーガー屋【[[E5's BURGER]]】店員(2024年09月14日解雇処分)&br()&icon_fa(fa-solid fa-pills)&space()麻薬カルテル【[[DEP]]】(2024年09月14日除名処分)&br()&icon_fa(fa fa-tree)&space()木こり(2025年02月04日退職)&br()&icon_fa(fa-solid fa-bowl-food)&space()中華料理屋【[[明味房>ミンミンボウ]]】店員(2024年09月25日〜2025年03月18日)}}|【[[LOSNEWS>わくわくハピネス隊#LosNews-ロスニュース-]]】&small(){新聞記者}&br()&openclose2(show=過去の職業▼){&size(90%){&br()ギャング【[[麻陀羅組]]】&small(){構成員(2026年01月25日～2026年10月30日)破門処分}}}|
 |~&font(#ffffff){所属}|~&font(#ffffff){&icon_fa(fa fa-users) }|&icon_fa(fa-solid fa-heart)【[[ママみ同好会]]】副会長(2024年09月04日～)&br()イベントサークル【[[エンペラーAge]]】(2025年06月26日〜)&br()&openclose2(show=過去の所属▼){&br()&size(90%){&icon_fa(fa-solid fa-fire)&space()半グレ集団【ゆるギャン】部員(2024年08月21日～ギャング設立に伴い改名)}}|ギルド【[[わくわくハピネス隊]]】&small(){サブマスター(2026年04月25日～)}&br()[[ウクレレ部]]&br()&openclose2(show=過去の所属▼){&size(90%)&br()ギャング【[[わくわくハーデス隊]]】&small(){アンダーボス兼マネージャー(2026年02月05日～04月25日)}}|
 |~&font(#ffffff){TwiX}|~&font(#ffffff){&icon_fa(fa fa-crow)} |高橋滅論(@holon6)&br()街のお花屋さん(@ohana)&br()&openclose2(show=ネタバレ▼){&br()自由犯罪党(@liberty_crime_p)}|高橋滅論(@Holon)|
 |~&font(#ffffff){変装名}|~&color(#ffffff){&icon_fa(fa fa-user-secret fa-fw)}|&openclose2(show=ネタバレ▼){&br()・鑓水大地&br()・ポケット　コジロン}||
@@ -222,19 +222,11 @@ A2の草むらで良く寝ているらしく、一緒に隣で寝る日もある
 
 //-------------------------------------------------------------------------------------------------------------
 #div(width=200px,bgcolor=#ecdff2){&space()&size(16)&icon_fa(fa-solid fa-people-group)&space()&bold(){現所属組織}}
-***&b(){&underdot(#a260bf,3px){&color(#a260bf){&icon_fa(fa-solid fa-rocket)&space()[[麻陀羅組]]}}}
-[[タラ　ちゃん]]が率いるギャング組織（正確にはヤクザ）
-アイドルデビューをする為に作った借金の返済の為身柄を確保されている。が、事実上は返済の必要はなく正式な構成員
-
-#region(メンバー)メンバー
-
-
-#endregion
 ***&b(){&underdot(#a260bf,5px){&color(#a260bf){&icon_fa(fa-solid fa-heart)&space()[[ママみ同好会]]}}}
 [[会長>山田　カイキ]]と共に立ち上げた『&bold(){この街をママみで溢れさせる}』ための同好会。
 滅論は副会長を務めており、会長から「同好会に欠かせない人物」として信頼されている。
 会員との会話後、去り際に「ママみに幸あれ」と言うのが慣例となっている。
-
+※Season2では実質活動休止している組織である。
 #region(メンバー)メンバー
 
 &underdot(#a260bf,3px){&b(){[[会長/カイキさん>>山田　カイキ]]}}
@@ -333,8 +325,15 @@ DEPの元後輩。所属時に無線で「なぁにやってんすかー」を�
 ・滅論に対する態度が目に余ると[[豆乳　ちゃんもも]]から体験を言い渡し、様子を見ることに(24/10/20～)
 ・豆乳　ちゃんももの意向により組織から解放することに(24/11/19)
 
-#endregion(第4宇宙速度)
+#endregion(元メンバー)
 
+***&b(){&underdot(#a260bf,3px){&color(#a260bf){&icon_fa(fa-solid fa-rocket)&space()[[麻陀羅組]]}}}
+[[タラ　ちゃん]]が率いるギャング組織（正確にはヤクザ）。
+アイドルデビューをする為に作った借金の返済の為身柄を確保されている。が、事実上は返済の必要はなく正式な構成員。
+2026年10月3日 記者として警察の汚職について調べている際にその事件関わっていた[[餡ブレラ]]の怒りを買いトラブルに発展、摩陀羅や関連店舗に被害が及ばないよう縁を切られ破門・絶縁となった。
+#region(メンバー)メンバー
+
+#endregion
 ----
 ***&underdot(#a260bf,3px){&color(#a260bf){&icon_fa(fa-solid fa-heart)&space()&bold(){色恋ネタ}}}
 &bold(){この街の女性の9割が好き}。おこちゃまや年上は好みではなく、&br()バーバリアン田中のことを『&bold(){この街で唯一嫌いな女}』だと話している。

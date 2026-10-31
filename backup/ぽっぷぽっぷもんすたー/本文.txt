@@ -1,6 +1,6 @@
-#slide_img(auto=2,position=left,height=190,width=370){ぽっぷぽっぷもんすたー.png,ぽぷもん_店内.webp,ぽぷもん_店内2.webp}
+#slide_img(auto=2,position=left,height=250,width=450){ぽっぷぽっぷもんすたー.png,ぽぷもん_店内.webp,ぽぷもん_店内2.webp}
 #region(Season1)Season1
-#slide_img(auto=2,position=left,height=450,width=450){ぽっぷぽっぷもんすたーの2人.png,ぽぷもん.png}
+#slide_img(auto=2,position=left,height=400,width=450){ぽっぷぽっぷもんすたーの2人.png,ぽぷもん.png}
 #endregion
 //❗️不要な行は削除して使用してください
 #table_style(head=#ffb8d4){}
@@ -130,7 +130,7 @@
 |~名前|~備考|h
 |[[Dr．ギガ]]|&b(){[[ぽぷもん>>ぽっぷぽっぷもんすたー]]}のモンスター(キャスト)を生み出したマッドサイエンティスト役として協力してくれている。|
 |[[柚乃　いずみ]]|ジョブ枠の都合上、就職が出来ない為イベント時のアルバイトスタッフとして協力している。&br()(市役所職員になれなかった場合、再度検討する予定。)|
-|[[王城　リレイ]]|&b(){[[モンプロ>>モンスターハウスプロダクション]]}のスタッフとして、イベント時のアルバイトスタッフとして協力している。&co(){&br()(ジョブに付いているかどうか未確認の為、一旦外部にしてます)}|
+|[[王城　リレイ]]|&b(){[[モンプロ>>モンスターハウスプロダクション]]}のスタッフとして、ジョブには付かずイベント時のアルバイトスタッフとして協力している。|
 //|[[名　前]]|yyyy/mm/dd||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#ffedf4,odd=#FFFFFF}
