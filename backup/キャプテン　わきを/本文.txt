@@ -1,24 +1,26 @@
 **プロフィール
 #slide_img(auto=4,position=left,width=800,height=450){キャプテンわきを_デフォ.png,キャプテンわきを_私服.jpg,キャプテンわきを_餡.jpg,キャプテンわきを_餡_車.jpg}
 
+#table_filter(){Season1=show,Season2=show}
 #table_style(head=#3AD63A:#FFF:center)
-|~名前|~&icon_fa(fa fa-user)|&ruby(きゃぷてん　わきを){キャプテン　わきを}|
-|~転入日|~&icon_fa(fa fa-suitcase-rolling)|2023/04/05&br()&b(){キャラクターエンディング済}　&small(){～2025年9月20日}|
-|~出身地|~&icon_fa(fa fa-location-dot)|カリブ|
-|~誕生日|~&icon_fa(fa fa-cake-candles)|????年6月12日(&countup(1996/6/12,y)歳)|
-|~血液型|~&icon_fa(fa-solid fa-droplet)|A型|
-|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa-solid fa-hot-tub-person)サウナ「[[SPA だはは]]」&br()&s(){ラーメン屋「[[焦村家]]」 &small(){2024/3/26～？}}|
-|~所属組織|~&icon_fa(fa fa-gun)|&small(){&openclose2(show=過去の所属){&nbsp(br,3)マフィア「[[GoodbyeCircus]]」underboss&nbsp(br,3)ギャング「[[餡ブレラ>anbrella(餡ブレラ)]]」&small(){2023/6/25～2025/6/13}&nbsp(br,3)ギャング「[[ALLIN]]」 &small(){2024/10/11～2024/10/19}}}|
-|~所属戦隊|~&icon_fa(fa fa-users)|[[レギオン戦隊ヤベンジャーズ]]「クリスマスウッドマン」|
-|~チャンク|~&icon_fa(fa fa-exclamation-triangle)|&bold(){[[ゴッドチャンク以上（6/6）>https://www.twitch.tv/wakiwaki612/clip/SparklyRacySnoodOpieOP-klTcV-Hh1Tm1qJDV]](2023年10月)}|
-|~恋人|~&icon_fa(fa fa-heart)|&s(){[[にし　のん]]}（2025/04/10迄）|
-|~TwiX|~&icon_fa(fa fa-crow)|@piratewakiwo|
-|~プレイヤー|~&icon_fa(fa fa-address-card-o)|わきを (Sponsored by GALLERIA)|
-|~告知等|~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://twitter.com/sg__soccer]]|
-|~配信場所|~&icon_fa(fa fa-gamepad)|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/wakiwaki612]]|
-|~動画|~&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/@wakiwo_]]|
-|~切り抜き&br()ガイドライン|~&icon_fa(fa fa-cut)|MIDDLE:&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[登録フォーム兼ガイドライン>>https://x.com/sg__soccer/status/1797948093935309058]]|
-|~別キャラ|~&icon_fa(fa fa-user-plus)|[[宮脇　悠吾]]|
+|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|h
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(きゃぷてん　わきを){キャプテン　わきを}|
+|~転入日|~&icon_fa(fa fa-suitcase-rolling)|2023/04/05&br()&b(){キャラクターエンディング済}　&small(){～2025年9月20日}|2026/10/31 &font(11px,#ccc){(ハロウィン限定？)}|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|カリブ|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|????年6月12日(&countup(1996/6/12,y)歳)|
+|~血液型|~&icon_fa(fa-solid fa-droplet)|>|A型|
+|~職業|~&icon_fa(fa fa-university)|&icon_fa(fa-solid fa-hot-tub-person)サウナ「[[SPA だはは]]」&br()&s(){ラーメン屋「[[焦村家]]」 &small(){2024/3/26～？}}|　|
+|~所属組織|~&icon_fa(fa fa-gun)|&small(){&openclose2(show=過去の所属){&nbsp(br,3)マフィア「[[GoodbyeCircus]]」underboss&nbsp(br,3)ギャング「[[餡ブレラ>anbrella(餡ブレラ)]]」&small(){2023/6/25～2025/6/13}&nbsp(br,3)ギャング「[[ALLIN]]」 &small(){2024/10/11～2024/10/19}}}|　|
+|~所属戦隊|~&icon_fa(fa fa-users)|[[レギオン戦隊ヤベンジャーズ]]「クリスマスウッドマン」|　|
+|~チャンク|~&icon_fa(fa fa-exclamation-triangle)|&bold(){[[ゴッドチャンク以上（6/6）>https://www.twitch.tv/wakiwaki612/clip/SparklyRacySnoodOpieOP-klTcV-Hh1Tm1qJDV]](2023年10月)}||
+|~恋人|~&icon_fa(fa fa-heart)|&s(){[[にし　のん]]}（2025/04/10迄）|　|
+|~TwiX|~&icon_fa(fa fa-crow)|@piratewakiwo||
+|~プレイヤー|~&icon_fa(fa fa-address-card-o)|>|わきを (Sponsored by GALLERIA)|
+|~告知等|~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://twitter.com/sg__soccer]]|
+|~配信場所|~&icon_fa(fa fa-gamepad)|>|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/wakiwaki612]]|
+|~動画|~&icon_fa(fa fa-video-camera)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://youtube.com/@wakiwo_]]|
+|~切り抜き&br()ガイドライン|~&icon_fa(fa fa-cut)|>|MIDDLE:&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[登録フォーム兼ガイドライン>>https://x.com/sg__soccer/status/1797948093935309058]]|
+|~別キャラ|~&icon_fa(fa fa-user-plus)|>|[[宮脇　悠吾]]|
 
 |&youtube(https://www.youtube.com/watch?v=uMabLSyFPBs){480,270}|
 |&youtube(https://www.youtube.com/watch?v=84vyBFFj_Ik){480,270}|
@@ -354,7 +356,7 @@
 #table_sorter{even=#edfcf2,odd=#fff}
 #endregion(2024)
 
-#region(2025年を開く,open)
+#region(2025年を開く,close)
 #table_style(head=#3AD63A:#FFF:center){投稿日=right,タイトル=left,備考=left}
 |~投稿日|~タイトル|h
 |2025/01/03|[[救急隊治療拒否問題と那須武器スキン報酬送金事件についてウェスカーと話すわきを>>https://youtu.be/Te_yM9bJKYY]]|
