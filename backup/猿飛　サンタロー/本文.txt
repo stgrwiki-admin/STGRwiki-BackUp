@@ -1,10 +1,10 @@
 #table_style(head=#E6E6FA:#666666){}
-*プロフィール
+*&font(35,#B6111B){&icon_fa(fa fa-user-ninja)} &font(25,#e89385){プロフィール}
 &image(猿飛サンタロー.jpg,y=350)
 
 //ここからプロフィール
 #table_style(head=#B6111B:#ffffff){}
-|~名前|~&icon_fa(fa fa-user)|&ruby(さるとび){猿飛} &ruby(さんたろう){三太郎}|
+|~名前|~&icon_fa(fa fa-user-ninja)|&ruby(さるとび){猿飛} &ruby(さんたろう){三太郎}|
 |~出身地|~&icon_fa(fa fa-location-dot)|日本(戦国時代)|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|-|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年5月1日 (&countup(2026/5/1,yd)経過)|
@@ -32,7 +32,7 @@
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
 #endregion
-*基本情報
+*&font(35,#B6111B){&icon_fa(fa fa-scroll)} &font(25,#e89385){基本情報}
 #div(width=320px,bgcolor=#DDDDDD){&space(2)&font(b,16px,#000){あらすじ}}
 >-幼い頃から山奥で修行を積み、気配を消す術を極めた忍者。「影無し」と呼ばれるほど存在を悟られず、諜報を得意とする。
 >-とある城の姫君に仕え、人を殺めず影として情報を集め、主を支えていた。
@@ -45,7 +45,48 @@
 -好物は、acqua ovestの「フレッシュオレンジジュース」と「とろーりチーズクワトロフォルマッジ」
 -起床16日目で起きたとある事件&small(){([[アーカイブ>>https://www.youtube.com/live/C92TXqs0q9k]])}で伝説となる。&br()これを機に攻防一体の忍者ポーズを会得した。
 
-**所有車両
+**&font(35,#B6111B){&icon_fa(fa fa-cash-register)} &font(25,#e89385){職業関連}
+***&underdot(#d2342e,3px){&space() [[川上たばこ店]]&space()}
+
+***&underdot(#d2342e,3px){&space()[[救急隊>>ロスサントス救急救命隊]]&space()}
+
+**&font(35,#B6111B){&icon_fa(fa fa-handshake)} &font(25,#e89385){交友関係}
+***&color(blue){&icon_fa(fa-solid fa-shield-halved)} [[ロスサントス警察]]
+#region(開く)閉じる
+****[[名前]]
+エピソードを記述
+
+#endregion(ロスサントス警察)
+***&color(red){&icon_fa(fa fa-heartbeat)} [[ロスサントス救急救命隊]]
+#region(開く)閉じる
+****[[ももみ]]
+
+****[[ノビー　ラング]]
+
+****[[ホシ・バミオ]]
+エピソードを記述
+****[[小茶林　はたぴ]]
+エピソードを記述
+****[[不働　めい]]
+エピソードを記述
+****[[grow]]
+エピソードを記述
+
+#endregion(救急隊)
+***&color(green){&icon_fa(fa fa-user)} 市民
+#region(開く)閉じる
+****[[浦戸　ゼン]]
+エピソードを記述
+
+#endregion(市民)
+***&color(black){&icon_fa(fa fa-user-secret)} 犯罪者
+#region(開く)閉じる
+****[[柚麦　とと]]
+エピソードを記述
+
+#endregion
+
+**&font(35,#B6111B){&icon_fa(fa fa-motorcycle)} &font(25,#e89385){所有車両}
 #region(バイク)
 //#table_style(head=center:#:#eaf4fc)
 |MIDDLE:車両|MIDDLE:車種|MIDDLE:ナンバー|MIDDLE:取得日|MIDDLE:画像|MIDDLE:エピソード|h
@@ -53,7 +94,7 @@
 |||||&image(猿飛号.jpg,x=200) ||
 #endregion()
 
-*エピソード
+*&font(35,#B6111B){&icon_fa(fa fa-pen-to-square)} &font(25,#e89385){エピソード}
 **2026年
 ***5月
 #region(開く,close)&bold(){閉じる}
@@ -493,8 +534,7 @@
 #endregion
 
 }
-
-*&font(#DA1725){&icon_fa(fa-brands fa-youtube)} アーカイブ
+*&font(35,#DA1725){&icon_fa(fa-brands fa-youtube)} &font(25,#e89385){アーカイブ}
 &font(b,16){[[&icon_fa(fa fa-external-link)&space()LIVE配信 再生リスト>>https://youtube.com/playlist?list=PLncGpAI9BFufYOZXKI4k6zhxiKjo3ouDW]]}
 **2026年
 #region(開く,open)
@@ -555,8 +595,7 @@
 |8/23|29|[[【#ストグラSeason2】猿飛サンタロー/潜入!!救急隊体験二日目!!29日目>>https://www.youtube.com/live/oXmye1fzwcs]]||
 |8/26|30|[[【#ストグラSeason2】猿飛サンタロー/潜入!!救急隊体験最終日!!30日目>>https://www.youtube.com/live/k1Ww1Ga2zjw]]||
 |8/28|31|[[【#ストグラSeason2】猿飛サンタロー/帰ってきた平穏な日常～31日目>https://www.youtube.com/live/mf3IdQhAAmg]]||
-
-//|mm/dd|n|[[タイトル>>リンク]]||
+|8/31|32|[[【#ストグラSeason2】猿飛サンタロー/トラック運ちゃんサンタローの巻～32日目>>https://www.youtube.com/live/TtC4ETfCRQM]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #areaedit(end)
 #endregion(8月)
@@ -564,7 +603,11 @@
 #areaedit()
 #table_style(head=center:#b6111b:#ffffff){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
-
+|9/2|33|[[【#ストグラSeason2】猿飛サンタロー/新しい風が吹く街を探検するノ巻～33日目>>https://www.youtube.com/live/xp0q-gUFeTk]]||
+|9/4|34|[[【#ストグラSeason2】猿飛サンタロー/借金生活からの解放の日!!の巻～34日目>>https://www.youtube.com/live/j0HBA_e-ZyI]]||
+|9/6|35|[[【#ストグラSeason2】猿飛サンタロー/秋の味覚、タバコを売りまくれ!!の巻～35日目>>https://www.youtube.com/live/XvoioTwPcXw]]||
+|9/9|36|[[【#ストグラSeason2】猿飛サンタロー/救急隊の祭りだわっしょい!!の巻～36日目>>https://www.youtube.com/live/F1HAfVMKV-8]]||
+|9/10|37|[[【#ストグラSeason2】猿飛サンタロー/祭りの跡は少し寂しい...の巻～37日目>>https://www.youtube.com/live/hfHgHZ5CWA8]]||
 //|mm/dd|n|[[タイトル>>リンク]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #areaedit(end)
@@ -573,7 +616,17 @@
 #areaedit()
 #table_style(head=center:#b6111b:#ffffff){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
-
+|10/3|38|[[【#ストグラSeason2】猿飛サンタロー/久々の街を満喫するシノビの巻～38日目>>https://www.youtube.com/live/yy9ViI_GEWI]]||
+|10/8|39|[[【#ストグラSeason2】猿飛サンタロー/救急隊合否にソワソワ...!?の巻～39日目>>https://www.youtube.com/live/YDjn2mZWv-M]]||
+|10/9|40|[[【#ストグラSeason2】猿飛サンタロー/チルい街を楽しむ忍...の巻～40日目>>https://www.youtube.com/live/bg4AN77PTpo]]||
+|10/10|41|[[【#ストグラSeason2】猿飛サンタロー/チルい街を楽しむ忍...の巻～41日目>>https://www.youtube.com/live/6oOD2x5fJMc]]||
+|10/16|42|[[【#ストグラSeason2】猿飛サンタロー/サンタローの生きる意味、忍の決意...の巻～42日目>>https://www.youtube.com/live/otPVcZ-kzfw]]||
+|10/18|43|[[【#ストグラSeason2】猿飛サンタロー/幸せな日!!の巻～43日目>>https://www.youtube.com/live/0SvUJF35fOA]]||
+|10/22|44|[[【#ストグラSeason2】猿飛サンタロー/幸せの形について考える忍者...!!の巻～44日目>>https://www.youtube.com/live/9Cm0oOsVx9s]]||
+|10/24|45|[[【#ストグラSeason2】猿飛サンタロー/このままじゃ10月が終わってしまう...!!!～45日目>>https://www.youtube.com/live/uxSjTwf0xx8]]||
+|10/25|46|[[【#ストグラSeason2】猿飛サンタロー/ハットトリック忍は私です～46日目>>https://www.youtube.com/live/yranaPbUSMk]]||
+|10/28|47|[[【#ストグラSeason2】猿飛サンタロー/どこか寂しくなる季節、の巻～47日目>>https://www.youtube.com/live/kS_Gi-rD6rw]]||
+|10/30|48|[[【#ストグラSeason2】猿飛サンタロー/ついに見つけた、己の忍道の巻～48日目>>https://www.youtube.com/live/UOtbiUBtois]]||
 //|mm/dd|n|[[タイトル>>リンク]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #areaedit(end)
@@ -582,6 +635,7 @@
 #areaedit()
 #table_style(head=center:#b6111b:#ffffff){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
+|11/1|49|[[【#ストグラSeason2】猿飛サンタロー/サンタロー救急忍道、初忍務!!49日目>>https://www.youtube.com/live/KS6lyDPIUNk]]||
 
 //|mm/dd|n|[[タイトル>>リンク]]||
 #table_sorter{even=#F7F7F7,odd=fff}
@@ -605,13 +659,24 @@
 
 #right(){&link_up(🔝ページTOPへ)}
 
-*切り抜き動画
+*&font(35,#B6111B){&icon_fa(fa fa-cut)} &font(25,#e89385){切り抜き動画}
 &font(b,16){[[&icon_fa(fa fa-external-link)&space()動画 再生リスト>>https://youtube.com/playlist?list=PLJNk_Y46fmBg&si=-ZehpWVkXyA1eNpj]]}
 **2026年
 #region(開く,open)
 #table_style(head=center:#b6111b:#ffffff){配信日=right,#=center}
 |~投稿日|~配信タイトル|~備考|h
 |08/28|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[ロスサントスの街に忍者参上!?猿飛サンタロー1日目>>https://youtu.be/SMF-PD2_iw8]]||
+
+//|mm/dd|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>URL]]||
+#endregion(2026)
+
+*&font(35,#B6111B){&icon_fa(fa fa-gamepad)} &font(25,#e89385){ストグラ外コラボ}
+**2026年
+#region(開く,open)
+#table_style(head=center:#b6111b:#ffffff){配信日=right,#=center}
+|~配信日|~配信タイトル|~備考|h
+|10/6|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【7dtd】🌞ゾンビだらけの世界でたくましく生きる社不達の戦いPart1🌞>>https://www.youtube.com/live/beakqZGdrE0]]||
+|10/12|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【7dtd】🌞ゾンビだらけの世界でたくましく生きる社不達の戦いPart2🌞>>https://www.youtube.com/live/o_mu3Y117B0]]||
 
 //|mm/dd|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>URL]]||
 #endregion(2026)
