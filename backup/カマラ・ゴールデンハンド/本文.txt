@@ -87,7 +87,7 @@
 *&color(#ff69b4){&icon_fa(fa fa-pencil)} &color(#f8f8ff){エピソード}
 **2026年
 ***9月・10月
-#region(開く,open)&bold(){閉じる}
+#region(開く,close)&bold(){閉じる}
 ****9/30 [[【#ストグラseason2 / 1日目】カマラ・ゴールデンハンドの冒険譚、開始！>>https://www.youtube.com/live/h1ILrB_KoWs]]
 #region(開く,close)閉じる
 -エピソード募集中
@@ -133,9 +133,11 @@
 -エピソード募集中
 #endregion(10/28)
 ----
-
 #endregion(9月・10月)
+***11月
+#region(開く,open)&bold(){閉じる}
 
+#endregion(11月)
 #co{↓コピー用素材
 
 //***mm月
@@ -154,7 +156,7 @@
 &font(b,12px){※アーカイブはメンバー限定}
 **2026年
 ***9月・10月
-#region(開く,open)
+#region(開く,close)
 //大半のキャラクターページではサーバー定休日の記載がないことに加えて、ページの行数・文字数に上限があるため削除しております。
 #table_style(head=center:#ff69b4:#f8f8ff:120%){配信日=center,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
@@ -167,12 +169,21 @@
 |10/23|7|[[【#ストグラseason2 / 7日目】この街にいる理由を探してみましょう。>>https://www.youtube.com/live/iE8yMMZStdI]]|🔰|
 |10/25|8|[[【#ストグラseason2 / 8日目】範馬の血を宿したオネエの物語よ❤>>https://www.youtube.com/live/7_oYc5GMyvw]]|🔰|
 |10/28|9|[[【#ストグラseason2 / 9日目】お店開店のためにめちゃめちゃお金貯めるわよ！>>https://www.youtube.com/live/tAgVa8qsQdQ]]|🔰|
-
 //|mm/dd|n|[[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 //
 //&font(80%){&openclose2(show=※別ゲーム配信あり ▽内容展開){[[>>]]}}&br()
 #endregion(-------------2026年 9月・10月-------------)
+***11月
+#region(開く,open)
+#table_style(head=center:#ff69b4:#f8f8ff:120%){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+
+//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+//
+//&font(80%){&openclose2(show=※別ゲーム配信あり ▽内容展開){[[>>]]}}&br()
+#endregion(-------------2026年 11月-------------)
 //
 //
 #co(){
@@ -203,8 +214,8 @@
 |10/22|6|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[後輩警察官たちの前で、オネエに土下座するベテラン警察官>>https://youtu.be/8xJPdYjR1PE]]|Day6|
 |10/25|7|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[住民の占いを聞きながら邪魔をするオネエたちwww>>https://youtu.be/2_xqjoZ6It4]]|Day7|
 |10/26|8|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[警察官たちと街の存亡をかけた大事件を起こすカマラｗｗｗ>>https://youtu.be/yBhMZQ5iJu4]]|Day8|
-//|mm/dd|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]||
-//|mm/dd|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]||
+|11/1|9|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[この街でやりたいことが曖昧になり、ジャックスへガチ相談をするカマラ...>>https://youtu.be/9HCtjwxJA7w]]|Day9|
+//|mm/dd|10|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]|Day●|
 
 //|mm/dd|n|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]||
 #table_sorter{even=#F7F7F7,odd=fff,repeathead=10}

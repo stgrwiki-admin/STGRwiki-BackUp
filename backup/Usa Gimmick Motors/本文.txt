@@ -57,14 +57,9 @@
 社長の考えとして雇用人数を増やすと現在勤務している社員の一人あたりの給料・収入が減るということについての懸念があり、少人数雇用の方針としている。
 
 
-
-
-
-
-
-
 *&font(30px){従}&font(25px){業員情報（2026/06/19現在） &icon_fa(fa fa-users)}
 ***従業員
+#region(開く,open)
 #table_filter(){グレード/役職=show,名前=show,誕生日(年齢)=hide,兼業=show,就職日=hide,備考=show}
 #table_style(head=#E0E0E0){名前=bold}
 |~グレード/役職|~名前|~誕生日(年齢)|~兼業|~就職日|~備考|h
@@ -82,6 +77,7 @@
 //||[[名　前]]|yyyy/mm/dd|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
+#endregion
 //従業員の変更があれば「参加者一覧」への反映もお願いします
 #co(){
 階級コピペ用
@@ -94,6 +90,7 @@
 
 
 ****職業体験者(正社員採用者除く)
+#region(開く,open)
 #table_filter(){名前=show,体験開始日=show,体験終了日=show,備考=hide}
 #table_style(head=#E0E0E0)
 |~名前|~体験開始日|~体験終了日|~備考|
@@ -111,6 +108,7 @@
 #table_autoincrement(){label=No.}
 #table_sorter{even=#FF7F7,odd=#FFFFFF}
 //|MIDDLE:[[]]|MIDDLE:|||
+#endregion
 
 
 ***職業体験予定者
@@ -135,9 +133,10 @@
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion(退職者)
+
+
 *&font(30px){衣}&font(25px){装 &icon_fa(fa fa-id-card-o)}
 #region(開く,open)閉じる
-
 ***更新日2025/06/09
 //判明次第、都度更新お願いします
 #table_style(head=center:#FEDCBD,center)
@@ -151,6 +150,7 @@
 |日|>|バニー||
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
+
 
 *&font(30px){価}&font(25px){格 &icon_fa(fa fa-credit-card)}
 #region(開く,open)閉じる
@@ -170,14 +170,17 @@
 //|||||
 //|||||
 //|商品|ダクトテープ|2,000|1個|
-
 #endregion
+
+
 *&font(30px){業}&font(25px){務提携 &icon_fa(fa fa-id-card-o)}
 #table_style(hover=#eaf4fc,head=#E0E0E0)
 #table_filter(){No.=show,企業名=show,提携日=hide,備考=show}
 |CENTER:~企業名|CENTER:~提携日|CENTER:~備考|h
 |[[Fashion MiMi]]|2026/03/26|店内にてCM放映中|
 |[[LosVegas]]|2026/03/26|店内にてCM放映中|
+
+
 *&font(30px){沿}&font(25px){革 &icon_fa(fa fa-id-card-o)}
 #region(開く,open)閉じる
 ***2026年1月～（設立準備期間）
@@ -265,7 +268,7 @@
 |MIDDLE:08/06|MIDDLE:第二回UGM株主総会　開催|MIDDLE:【従業員】&br()[[山田パルコ>山田　パルコ]]&br()[[星唄サウ汰>星唄　サウ汰]]&br()[[万十忍>万十　忍]]&br()[[星乃すみ>星乃　すみ]]&br()[[ゆたんぽ>ゆた　んぽ]](24時の部)&br()【20時の部】&br()[[ラグランジュ光芝>ラグランジュ　光芝]]&br()[[銭形やいち郎>銭形　やいち郎]]&br()[[バーバリアン田中>バーバリアン　田中]]&br()[[ブラックジャックス>ブラック　ジャックス]]&br()【24時の部】&br()[[ブラックジャックス>ブラック　ジャックス]]&br()[[ボイラ テンガリン>ボイラ　テンガリン]]&br()[[街雄サンリ>街雄　サンリ]]|【主な報告内容】&br()*サブスク内容の変更＆追加&br()*8194番地のGSの経営参画&br()*今後の事業計画の公開&BR()*経営状況の公開&br()*衣装への投票を株主六法での開始告知&br()*社宅の公開|
 |MIDDLE:08/13|MIDDLE:第3回UGM株主様感謝デー開催|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[星唄サウ汰>星唄　サウ汰]]&br()[[万十忍>万十　忍]]&br()[[天ノぷら子>天ノ　ぷら子]]&br()[[星乃すみ>星乃　すみ]]&br()[[ジェフリーヒッチコック>ジェフリー　ヒッチコック]]&br()[[浦戸ゼン>浦戸　ゼン]]&br()[[王城リレイ>王城　リレイ]]|MIDDLE:株主による投票で選択された衣装で従業員が~悪の戦闘員~として接客。&br()&blankimg(第3回UGM株主様感謝デー.jpg,width=179,height=107)|
 #endregion(8月)
-#region(9月,open)閉じる
+#region(9月)閉じる
 #table_filter(){関係者=hide,エピソード・備考=show}
 #table_style(head=#E0E0E0)
 |~日付|~出来事|~関係者|~エピソード・備考|h
@@ -273,13 +276,19 @@
 |MIDDLE:09/24|MIDDLE:カタログ販売＆カスタムサービス開始|MIDDLE:全社員|UGMカスタムカタログから注文するテンプレートカスタムサービスが開始。&br()「UGＭCustomCatalog.01」の店内閲覧開始。[[飯田書店]]にてカタログの販売開始&br()&blankimg(Custom_ad.webp,width=105,height=105)&blankimg(Custom_catalog_ad.webp,width=105,height=105)|
 |MIDDLE:09/26|MIDDLE:第4回UGM株主様感謝デー開催|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[万十忍>万十　忍]]&br()[[ゆたんぽ>ゆた　んぽ]]&br()[[星乃すみ>星乃　すみ]]&br()|MIDDLE:株主による投票で選択された衣装で従業員が~黒ギャル家庭教師~として接客。&br()&blankimg(第4回UGM株主様感謝デー_2.jpg,width=179,height=107)|
 #endregion(9月)
-#region(9月,open)閉じる
+#region(10月)閉じる
 #table_filter(){関係者=hide,エピソード・備考=show}
 #table_style(head=#E0E0E0)
 |~日付|~出来事|~関係者|~エピソード・備考|h
 |MIDDLE:10/07|MIDDLE:  🎤Los MC Battle⚡️Exhibition Match Vol.1  開催|[[N.A.W.A]]&br()[[MC Sunrise>MC　Sunrise]]&br()[[DJ💿NEZUMI📀>ねずみさん]]&br()[[文殊セイジ>文殊　セイジ]]&br()全社員|地下カスタムスペースにてライブ＆MCバトルイベント開催&br()UGMはイベント協賛として参加。&br()&blankimg(LMB_vol1.jpg,width=140,height=200)|
 |MIDDLE:10/22|MIDDLE:第5回UGM株主様感謝デー開催|MIDDLE:[[山田パルコ>山田　パルコ]]&br()[[万十忍>万十　忍]]&br()[[天ノぷら子>天ノ　ぷら子]]&br()[[ゆたんぽ>ゆた　んぽ]]&br()[[星乃すみ>星乃　すみ]]&br()[[浦戸ゼン>浦戸　ゼン]]&br()[[精一杯まさ子>精一杯　まさ子]](体験中)|MIDDLE:従業員が~ハロウィン~をモチーフにした制服で接客。&br()&blankimg(第5回UGM株主様感謝デー.jpg,width=179,height=107)|
 #endregion(10月)
+#region(11月,open)閉じる
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+
+#endregion(11月)
 #co{
 
 コピペ用
@@ -296,6 +305,7 @@
 [[浦戸ゼン>浦戸　ゼン]]
 
 }
+
 
 ***イベントポスター一覧
 #region(開く,close)閉じる
@@ -320,14 +330,16 @@
 #endregion
 #endregion(沿革)
 
+
 *&font(30px){店}&font(25px){内用BGM &icon_fa(fa fa-music)}
 
 &youtube(https://youtu.be/EL7fgHMgoqk?si=eeeU6jfcuEkbrCms){400,250}
 
-#right(){&link_up(🔝ページTOPへ)}
 
+#right(){&link_up(🔝ページTOPへ)}
 *&font(30px){U}&font(25px){GM CM &icon_fa(fa fa-youtube)}
 
 &youtube(https://youtu.be/e-15XfrLjZ0?si=IUdsWGtTg5Ok9Vh_){400,250}
+
 
 #right(){&link_up(🔝ページTOPへ)}

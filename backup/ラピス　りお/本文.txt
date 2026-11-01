@@ -201,9 +201,9 @@
 
 #region(所有車,close)閉じる
 #table_filter(){#=hide,車名=show,名前=show,購入日=show,備考=show}
-#table_style(head=center:#74C0FC:#f7f7f7:110%){|~#|~車名|~名前|~購入日|~預かり手|~備考|h}
+#table_style(head=center:#74C0FC:#f7f7f7:110%){|~#|~車名|~名前|~購入日|~備考|h}
 |~#|~車名|~名前|~購入日|~預かり手|~備考|h
-|1|Dinka Blista Compact|Dinka Blista Compact|2026/10/22|無し|初めてのマイカー|
+|1|Dinka Blista Compact|Dinka Blista Compact|2026/10/22|初めてのマイカー|
 #table_zebra(#ffffff, #f5f5f5, #74C0FC)
 #table_sorter{even=#f7f7f7,odd=fff}
 #endregion

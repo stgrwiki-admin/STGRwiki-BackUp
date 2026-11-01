@@ -57,11 +57,11 @@
 #endregion
 
 ***&color(#927eba){&icon_fa(fa fa-paw)} 寮の特徴と組み分け方式
-#table_style(head=#e0daec){名前=bold,イメージカラー=center}
+#table_style(head=#e0daec){名前=bold,イメージカラー=center,詳細=90%}
 |~名前|~イメージカラー|~使い魔|~詳細|h
 |MIDDLE:ジェイドラクーン寮|MIDDLE:&font(b,#8BA453){Green}|MIDDLE:たぬき|寮長：[[ノビー　ラング]]・[[葛城　司]]&br()知恵と柔軟性があり二面性を持つ|
 |MIDDLE:ユークリプス寮|MIDDLE:&font(b,#55A4CA){blue}|MIDDLE:いぬ|寮長：[[加賀　イズミ]]&br()誠実で忠誠心が高く潔癖|
-|MIDDLE:ラピネル寮|MIDDLE:&font(b,#f4a4b8){Pink}|MIDDLE:うさぎ|寮長：[[ももみ]]向上心・好奇心・大きな飛躍|
+|MIDDLE:ラピネル寮|MIDDLE:&font(b,#f4a4b8){Pink}|MIDDLE:うさぎ|寮長：[[ももみ]]&br()向上心・好奇心・大きな飛躍|
 |MIDDLE:イグマイト寮|MIDDLE:&font(b,#F9B74B){Yellow}|MIDDLE:わし|寮長：[[鳥野　ぎん]]&br()自由と力・芸術に富んでいる|
 #table_sorter{even=#fcfcfd,odd=#FFFFFF}
 
@@ -120,7 +120,7 @@
 #region(開く,open)
 &small(){&icon_fa(fa-solid fa-utensils)&space()= Food}
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=hide,備考=hide}
-#table_style(head=#e0daec){種類=center,価格=right}
+#table_style(head=#e0daec){種類=center,価格=right,商品説明=90%,備考=90%}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
 |MIDDLE:&icon_fa(fa-solid fa-utensils)|ヨチュピファイ|10,000|2026/09/09|山椒で痺れないようにね(^_-)-☆|きゅうきゅう（9月9日）の日 イベント時に販売|
 |MIDDLE:&icon_fa(fa-solid fa-utensils)|商品名|価格|yyyy/mm/dd|説明|備考|
@@ -146,7 +146,7 @@
 #region(開く,open)
 &small(){&icon_fa(fa-solid fa-coffee)&space()= Drink / &icon_fa(fa-solid fa-martini-glass)&space()= Alcohol}
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=hide,備考=hide}
-#table_style(head=#e0daec){種類=center,価格=right}
+#table_style(head=#e0daec){種類=center,価格=right,商品説明=90%,備考=90%}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
 |MIDDLE:&icon_fa(fa-solid fa-coffee)|ウィンガーディアムレヴァオサーム|10,000|2026/09/09|いい？「レヴァオサーム」よ。あなたのは「レヴァオサー」|きゅうきゅう（9月9日）の日 イベント時に販売|
 |MIDDLE:&icon_fa(fa-solid fa-coffee)|キャラメルマジアート|5,000|2026/10/31|いい魔法使いは場所を選ばないのよ||
@@ -173,7 +173,7 @@
 #region(開く,open)
 &small(){&icon_fa(fa-solid fa-wand-magic-sparkles)&space()=&space()Joint}
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=hide,備考=hide}
-#table_style(head=#e0daec){種類=center,価格=right}
+#table_style(head=#e0daec){種類=center,価格=right,商品説明=90%,備考=90%}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
 |MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|🦝使い魔ぬいぐるみ|10,000|2026/10/31|知恵と柔軟性、二面性のある魔法使いが多いジェイドラクーン寮の使い魔たぬき🦝&br()おしゃれなスカーフがトレードマーク！||
 |MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|🐺使い魔ぬいぐるみ|10,000|2026/10/31|誠実で忠誠心が高く、潔癖な魔法使いが多いユークリプス寮の使い魔わんちゃん🐺&br()でもどこか狼っぽいところも…？赤い首輪がとってもかっこいい！||
@@ -201,7 +201,7 @@
 #region(開く,open)
 &small(){&icon_fa(fa-solid fa-ribbon)&space()= Otners}
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=hide,備考=hide}
-#table_style(head=#e0daec){種類=center,価格=right}
+#table_style(head=#e0daec){種類=center,価格=right,商品説明=90%,備考=90%}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
 |MIDDLE:&icon_fa(fa-solid fa-ribbon)|商品名|価格|yyyy/mm/dd|説明|備考|
 |MIDDLE:&icon_fa(fa-solid fa-ribbon)|商品名|価格|yyyy/mm/dd|説明|備考|
@@ -230,7 +230,7 @@
 #region(開く,open)
 &small(){&icon_fa(fa-solid fa-award)&space()= Special}
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=hide,備考=hide}
-#table_style(head=#e0daec){種類=center,価格=right}
+#table_style(head=#e0daec){種類=center,価格=right,商品説明=90%,備考=90%}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
 |MIDDLE:&icon_fa(fa-solid fa-award)|商品名|価格|yyyy/mm/dd|説明|備考|
 |MIDDLE:&icon_fa(fa-solid fa-award)|商品名|価格|yyyy/mm/dd|説明|備考|
@@ -259,7 +259,7 @@
 #region(開く,open)
 &small(){&icon_fa(fa-solid fa-gift)&space()= Random}
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=hide,備考=hide}
-#table_style(head=#e0daec){種類=center,価格=right}
+#table_style(head=#e0daec){種類=center,価格=right,商品説明=90%,備考=90%}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
 |MIDDLE:&icon_fa(fa-solid fa-gift)|商品名|価格|yyyy/mm/dd|説明|備考|
 |MIDDLE:&icon_fa(fa-solid fa-gift)|商品名|価格|yyyy/mm/dd|説明|備考|
@@ -289,11 +289,11 @@
 #region(開く,close)
 &small(){&icon_fa(fa-solid fa-utensils)&space()= Food / &icon_fa(fa-solid fa-coffee)&space()= Drink / &icon_fa(fa-solid fa-martini-glass)&space()= Alcohol / &icon_fa(fa-solid fa-wand-magic-sparkles)&space()= Relax / &icon_fa(fa-solid fa-ribbon)&space()= Otners / &icon_fa(fa-solid fa-award)&space()= Special / &icon_fa(fa-solid fa-gift)&space()= Random}
 #table_filter(){種類=show,価格=show,販売期間=show,商品説明=hide,備考=hide}
-#table_style(head=#e0daec){種類=center,価格=right}
+#table_style(head=#e0daec){種類=center,価格=right,商品説明=90%,備考=90%}
 |~種類|~商品名|~価格|~販売期間|~商品説明|~備考|h
-|MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|トキメキバルーン【赤】|0|2026/09/09| |きゅうきゅう（9月9日）の日 イベント用|
-|MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|トキメキバルーン【青】|0|2026/09/09| |きゅうきゅう（9月9日）の日 イベント用|
-|MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|トキメキバルーン【黄】|0|2026/09/09| |きゅうきゅう（9月9日）の日 イベント用|
+|MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|トキメキバルーン【赤】|0|2026/09/09|解いて、聴いて、トキめいた！あなたにプレゼント|きゅうきゅう（9月9日）の日 イベント用|
+|MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|トキメキバルーン【青】|0|2026/09/09|解いて、聴いて、トキめいた！あなたにプレゼント|きゅうきゅう（9月9日）の日 イベント用|
+|MIDDLE:&icon_fa(fa-solid fa-wand-magic-sparkles)|トキメキバルーン【黄】|0|2026/09/09|解いて、聴いて、トキめいた！あなたにプレゼント|きゅうきゅう（9月9日）の日 イベント用|
 |&icon_fa(fa-solid fa-wand-magic-sparkles)|🦝使い魔ぬいぐるみ ハロウィン2026|10,000|2026/10/31|知恵と柔軟性、二面性のある魔法使いが多いジェイドラクーンの使い魔たぬき🦝&br()海賊の姿でのりこんできたぞ〜！「やろうども〜！かいそくのとうじょうだ〜！」||
 |&icon_fa(fa-solid fa-wand-magic-sparkles)|🐺使い魔ぬいぐるみ ハロウィン2026|10,000|2026/10/31|誠実で忠誠心が高く、潔癖な魔法使いが多いユークリプス寮の使いわんちゃん🐺&br()いつもかっこいいのに悪魔の姿で惑わせてくる？！「がお〜！こわいだろ〜？」||
 |&icon_fa(fa-solid fa-wand-magic-sparkles)|🐰使い魔ぬいぐるみ ハロウィン2026|10,000|2026/10/31|向上心と好奇心に溢れ、おおきく飛躍する可能性を秘めた魔法使いが多いラピネル寮の使い魔うさぎ🐰&br()あやしいリンゴをもった女王様姿に！「せかいでいちばん、すてきな女王さまはだ～れ？」||
@@ -329,8 +329,9 @@
 #region(開く,open)
 #co{
 #region(yyyy/mm/dd 画像名,open)&b(){yyyy/mm/dd 画像名}
-//&blankimg(ここに画像のURLを入力,y=400)
+&blankimg(ここに画像のURLを入力,y=400)
 #endregion
+#size(50%){　}
 }
 
 #endregion(メニュー表)
@@ -341,16 +342,13 @@
 //
 //┗━━━━━━━━━━━━━━━━━━━━━━━━┛
 #region(開く,open)
-#region(2026/10/31　使い魔ぬいぐるみ,open)&b(){2026/10/31　使い魔ぬいぐるみ}
-&blankimg(商品261031_使い魔ぬいぐるみ.jpeg,x=360,y=200)
-#endregion
 
 #co{
 #region(yyyy/mm/dd　画像名,open)&b(){yyyy/mm/dd　画像名}
 &blankimg(ここに画像のURLを入力,y=400)
 #endregion
+#size(50%){　}
 }
-
 #endregion(商品画像)
 ***イベント・期間限定商品画像
 //┏━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -359,10 +357,16 @@
 //
 //┗━━━━━━━━━━━━━━━━━━━━━━━━┛
 #region(開く,open)
+#region(2026/10/31　使い魔ぬいぐるみ ハロウィン2026,open)&b(){2026/10/31　使い魔ぬいぐるみ ハロウィン2026}
+&blankimg(商品261031_使い魔ぬいぐるみ.jpeg,x=360,y=200)
+#endregion
+#size(50%){　}
+
 #co{
 #region(yyyy/mm/dd 画像名,open)&b(){yyyy/mm/dd 画像名}
-//&blankimg(ここに画像のURLを入力,y=400)
+&blankimg(ここに画像のURLを入力,y=400)
 #endregion
+#size(50%){　}
 }
 
 #endregion(限定商品画像)
