@@ -2,7 +2,7 @@
 
 
 #table_style(head=#C0C0C0){}
-|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(ナイン クラウド){玖雲}|
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&bold(){&ruby(ナイン クラウド){玖雲}}|
 |~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|-&co(){※unionが存在しない組織の場合、この行ごと削除}|
 |~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年02月26日&br()&small(){（&countup(2026/02/26,yd)経過）}&co(){※countupは設立日の1日前に設定}|
 |~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|6173番地|
@@ -14,9 +14,6 @@
 #contents(fromhere=true,level=2)
 #endregion
 
-
-//16:9 
-#slide_img(auto=3,width=640,height=360,position=center){9c_20260731.jpg,玖雲20260419.jpeg,9c_20260808.jpg,9c_20260927.jpg,} 
 
 *&font(b,#9E76B4){&icon_fa(fa fa-cloud)} 基本情報
 
@@ -108,6 +105,10 @@
 }
 
 *&icon_fa(fa fa-map-marker) 拠点
+
+//16:9 
+#slide_img(auto=3,width=640,height=360,position=left){9c_hotel.jpg,9c_20261031.jpg,9c_20261031-2.jpg} 
+
 #table_style(head=#696969:#F9FCFF)
 #table_filter(){番地=show,用途=show,通称=show,管理者=hide,備考=show}
 |~番地|~用途|~通称|~管理者|~備考|h
@@ -120,6 +121,7 @@
 //|番地|用途|通称|管理者|備考|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
 
 *&icon_fa(fa fa-book) 歴史
 ***2026年
@@ -138,9 +140,15 @@
 |09/17|抗争|トウユン、イナフ、たくみ、ぬくお|NOVA FAMILIAとの抗争　4vs7開始で最終1vs2まで持ち込み敗退|
 |10/11|新メンバー加入|トウユン、マア、たくみ、日々|鳳華　マア加入|
 |10/29|新メンバー加入|トウユン、ユンユン、たくみ|ユン　ユン加入|
-|10/31|アジト購入|トウユン|高級住宅街のホテルに建築士物件を導入|
+|10/31|アジト購入|トウユン、たくみ、日々|高級住宅街のホテルに建築士物件を導入|
 //|mm/dd|出来事|関係者|備考|
 //|mm/dd|出来事|関係者|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
+
+*&icon_fa(fa fa-camera) 写真
+
+//16:9 
+#slide_img(auto=3,width=640,height=360,position=center){玖雲20260419.jpeg,9c_20260731.jpg,9c_20260808.jpg,9c_20260927.jpg,} 
 
 #right(){&link_up(🔝ページTOPへ)}

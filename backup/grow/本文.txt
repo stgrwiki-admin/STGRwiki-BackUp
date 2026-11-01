@@ -225,7 +225,6 @@
 #div(width=150px,bgcolor=#A0B6FF){&font(b,#666,120%){　Season 1}}
 #region(開く,open)閉じる
 #table_style(head=90%:center:#A0B6FF:#666,hover=:bold){No.=center:90%,入手日=center:90%,車種=center:90%,価格=center:90%,備考=90%}
-#table_filter(){No.=show,入手日=show,車種=show,車両名=show,価格=show,備考=show}
 |~No.|~入手日|~車種|~車両名|~価格|~備考|h
 |1|2024/05/18|&icon_fa(fa-solid fa-car-side)|Prairie|¥1,500,00|&font(12px){[[パキ　ち]] から購入した 初めての車｡}&br()Color￤&font(#800080,100%){■}|
 |2|2024/09/24|&icon_fa(fa fa-van-shuttle)|Surfer Custom|-|&font(12px){[[ラグランジュ　光芝]] よりプレゼントされた パン屋カー｡}&br()Color￤&font(#ffdc00,100%){■} × &font(#f1f1f1,100%){■}|
@@ -237,13 +236,13 @@
 #div(width=150px,bgcolor=#A0B6FF){&font(b,#666,120%){　Season 2}}
 #region(開く,open)閉じる
 #table_style(head=90%:center:#A0B6FF:#666,hover=:bold){No.=center:90%,入手日=center:90%,車種=center:90%,価格=center:90%,備考=90%}
-#table_filter(){No.=show,入手日=show,車種=show,車両名=show,価格=show,備考=show}
 |~No.|~入手日|~車種|~車両名|~価格|~備考|h
-|1|2026/01/14|&icon_fa(fa fa-motorcycle)|Pegassi Faggio|¥280,000|&font(12px){[[無人車両販売所]] で購入→2026/07/27に売却｡}&br()Color￤&font(#366dae,100%){■} × &font(#2e87a1,100%){■}|
-|2|2026/01/29|&icon_fa(fa-solid fa-car-side)|Blista Compact|¥1,200,00|&font(12px){[[無人車両販売所]] で購入｡}&br()Color￤&font(#6F51A1,100%){■} × &font(#A8A9AD,100%){■}|
+|1|2026/01/14|&icon_fa(fa fa-motorcycle)|Pegassi Faggio|¥280,000|&font(12px){[[無人車両販売所]] で購入｡&br()2026/07/27に売却｡}&br()Color￤&font(#366dae,100%){■} × &font(#2e87a1,100%){■}|
+|2|2026/01/29|&icon_fa(fa-solid fa-car-side)|Blista Compact|¥1,200,00|&font(12px){[[無人車両販売所]] で購入｡&br()2026/10/10 [[保阿呂院　写洛]] に譲渡｡}&br()Color￤&font(#6F51A1,100%){■} × &font(#A8A9AD,100%){■}|
 |3|2026/03/18|&icon_fa(fa-solid fa-truck-pickup)|Dinka Cody (AT)|¥870,000|&font(12px){[[無人車両販売所]] で購入｡}&br()Color￤&font(#d3ad7e,100%){■}|
 |4|2026/05/28|&icon_fa(fa fa-motorcycle)|Dinka Thrust AT|¥2,500,000|&font(12px){[[無人車両販売所]] で購入｡}&br()Color￤&font(#7ac5f5,100%){■}|
 |5|2026/07/27|&icon_fa(fa-solid fa-car-side)|BF Weevil|¥2,600,000|&font(12px){[[ラグランジュ　光芝]] よりプレゼントされた車｡}&br()Color￤&font(#f1f1f1,100%){■} × &font(#7ac5f5,100%){■}|
+|6|2026/10/10|&icon_fa(fa-solid fa-car-side)|Karin Dilettante DX|¥3,200,000|&font(12px){[[無人車両販売所]] で購入｡}&br()Color￤&font(#000000,100%){■} × &font(#e9dacb,100%){■}|
 //-----
 #table_sorter{even=#f4f9ff,odd=#fff}
 #endregion(Season2)
