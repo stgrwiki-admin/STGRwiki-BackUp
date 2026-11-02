@@ -10,18 +10,21 @@
 |~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|9245番地付近の高架下|
 |~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()||
 |~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[Lv〇　チンピラ]]|
-|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|ネイビー&openclose2(show=※){&nbsp(br,2)（[[RiPRAY]]と被っているが、当人たちはそれを知らない。）&br()}|
+|~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|ネイビー&openclose2(show=※){&nbsp(br,2)（[[他組織>RiPRAY]]と被っているが、双方共に知らない様子。）&br()}|
 //|~公式 TwiX|~&icon_fa(fa fa-bullhorn)|@××××|
 
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
 #endregion
 
-**基本情報
-・チンピラが家族と思える人を集め、楽しい事をする[[ギャング>ギャング（Season2）]]。
-・他組織に詰められても、シリアスを笑いに変え、最後までふざけたい。
+*&font(#FFFFFF){&icon_fa(fa fa-clipboard fa-xl)} 基本情報
+***&underdot(#01479D,3px){&icon_fa(fa-solid fa-circle-info)&nbsp(2)概要　}
+・[[Lv〇　チンピラ]]が率いる、&ruby()&bold(){「おもろいことしよや」}を突き詰めるために立ち上げた[[ギャング]]。
+・転送前の街で同名の半グレ組織を[[Lv〇　チンピラ]]が作っていたが、そちらとの繋がりは一切無い。
+・無線番号は44.8（しよや）を使用している。&openclose2(show=※){無線番号は秘匿というよりもそれなりにオープンで、組織外の人間（[[不働めい>不働　めい]]や[[上田>上田　さん]]）も知っている。}
+・他組織に詰められても、シリアスを笑いに変え、最後までふざけたい！をモットーとしている。
 
-**メンバー
+*&font(#FFFFFF){&icon_fa(fa fa-users fa-xl)} メンバー
 #table_style(head=#01479D:#F9FCFF)
 #table_filter(){加入日=hide,役職=show,備考=show,配信=show}
 |~名前|~加入日|~役職|~備考|~配信|h
@@ -29,6 +32,7 @@
 |[[マッハボクシング　ドク]]|2026/07/15|構成員||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/desudoc]]|
 |[[剛力　たけし]]|2026/07/17|構成員||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/jajamaru_hnti]]|
 |[[亀山　Hero]]|2026/07/29|構成員||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kamehirosi]]|
+|&openclose2(show=？？？){[[高橋　滅論]]}|2026/11/01|体験|裁判が終わるまでは在籍を公にしない方針。故に形式上は体験となっている。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/holonsc2]]|
 //|[[名前]]|2026/mm/dd|役職|備考|配信|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
@@ -38,7 +42,7 @@
 #table_style(head=#01479D:#F9FCFF)
 #table_filter(){加入日=hide,役職=show,備考=show,配信=show}
 |~名前|~加入日|~役職|~備考|~配信|h
-|[[不働　めい]]||[[救急隊]]|人気投票で一位になったため。白市民だがアジトの鍵を普通に持っている||
+|[[不働　めい]]||ボス？|人気投票で一位になったためボスに就任？アジトの鍵を持っていたり、無線番号も共有している。||
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 
@@ -69,23 +73,26 @@
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 }
-**拠点
+*&font(#FFFFFF){&icon_fa(fa fa-map-marker fa-xl)} 拠点
 #table_style(head=#01479D:#F9FCFF)
 #table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
 |~番地|~場所|~通称|~管理者|~備考|h
-|8170|[[飯田書店]]横|仮拠点|[[飯田　けんつ]]|書店の不動産を仮拠点にしている。|
-|9245|地下物件|アジト|||
+|&s(){8170}|&s(){[[飯田書店]]横}|&s(){仮拠点}|[[飯田　けんつ]]|&s(){書店の不動産を仮拠点にしている。}[[飯田　けんつ]]の脱退に伴い現在は使用していない。|
+|9245|地下物件|アジト||[[ボス>Lv〇　チンピラ]]が、[[ドク>マッハボクシング　ドク]]と[[たけし>剛力　たけし]]と共に拠点探しをしている際、第1候補であった旧市役所がNGだったため、第2候補のこちらに決まった。|
+|7027|一軒家|亀山拠点|[[亀山　Hero]]|[[亀山>亀山　Hero]]と[[新>春原　新]]の持ち家だが、メンバー&openclose2(show=※){＆[[不働　めい]]}に鍵を共有しており「亀山拠点集合」などと、実質サブ拠点として機能している。|
 //|番地|場所|通称|管理者|備考|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 
-**沿革・歴史
+*&font(#FFFFFF){&icon_fa(fa fa-book fa-xl)} 歴史
 ***2026年
 #table_style(head=#01479D:#F9FCFF)
 #table_filter(){関係者=hide,備考=show}
 ||~出来事|~関係者|~備考|h
 |07/11|ギャング設立|[[Lv〇　チンピラ]]&br()[[銭形　やいち郎]]|[[銭形>銭形　やいち郎]]に背中を押され、ギャングを自認|
 |08/08|ギャング名決定||正式なギャング名として「ギャングシティ」が付けられた|
+|09/30|ギャングシティ人気投票||一番票を集めた人がボスになり、最下位が脱退する、という人気投票をツイックスにて実施。&openclose2(show=詳細){&nbsp(br,2)&image(人気投票.png,y=300)&br()当初は在籍メンバーのみで投票が行われていたが、[[文殊　セイジ]]のイタズラによりメンバー外の[[不働　めい]]にも票が入る。&br()それを受けたボスが、既存メンバー4人と不働めい、そして成り行きで無線を共にしていた上田も含めた6名で投票を実施。&br()結果、不働めいが最も票を集め、傍から見たら不働めいがボスに就任することに。（因みに最下位は上田）&br()&br()その事実を有耶無耶にするため、メンバー全員で不働めいに扮し街を練り歩いていたところ、成り行きで[[ウェスカー>アルフォート　ウェスカー]]とチンチロ勝負に発展。&br()その結果、不働めい本人、そして不働めいの恰好をしたメンバー達は、ウェスカーに全敗を喫する。&br()敗北条件として3000万を支払うことになり、たまたま居合わせたBJローンに借金をすることになった。&br()その際に本物の不働めいは連帯保証人となっている。}|
+|10/17|BJローンのジャンプ期間を逃げ切る||この街で初となるジャンプ期間の逃走に成功。&openclose2(show=詳細){&nbsp(br,2)&image(WANTED.png,y=300)&br()人気投票の流れから、不動めい（[[Lv〇　チンピラ]]）に2000万の懸賞金がかけられ、3日間のジャンプ期間が開始。&br()&br()1日目は10人あまりの協力者を集め、全員に不働めいの格好をさせ、懸賞金目当ての人らを錯乱させることに成功。&br()2日目はライブ配信をして場所を知らせるなど工夫したものの、街に人が少なかったために視聴者が増えず、警察に突っかかるなどをして目立つ行動をしたが、こちらも逃げ切る。&br()3日目は逃げ回っていてもしょうがないと、BJローンにCカード（カ◯ジのEカードと全く同じ）で真っ向勝負を挑み、これに勝ち見逃してもらうことで逃走成功となる。&br()&small(){※一連の流れは組織ぐるみで行ったため、組織の歴史として記す。}}|
 
 //|mm/dd|出来事|関係者|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}

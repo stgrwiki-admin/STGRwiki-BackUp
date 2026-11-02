@@ -1,5 +1,9 @@
 *プロフィール
-&image(浦戸　ゼン_私服1.png,y=400)
+
+#slide_img(auto=4,position=left,width=290,height=450){
+浦戸　ゼン_私服1.png,
+浦戸　ゼン_パジャマ1.jpg
+}
 
 #table_style(head=#3C5FB5:#666666){}
 |~&font(#fff){名前}|~&font(#fff){&icon_fa(fa fa-user)}|&ruby(うらと){浦戸}　&ruby(ぜん){ゼン}|
@@ -7,7 +11,7 @@
 |~&font(#fff){誕生日}|~&font(#fff){&icon_fa(fa fa-cake-candles)}|12/15|
 |~&font(#fff){身長}|~&font(#fff){&icon_fa(fas fa-male)}|176cm|
 |~&font(#fff){転入日}|~&font(#fff){&icon_fa(fa fa-plane-arrival)}|2026年05月07日 (&countup(2026/05/07,yd)経過)|
-|~&font(#fff){職業}|~&font(#fff){&icon_fa(fa-solid fa-building-columns)}|&space()&icon_fa(fa fa-cutlery)&space()飲食店【[[サニーケバブ]]】店員 2026/06/17～ &br()&icon_fa(fa fa-wrench fa-fw)メカニック【[[Usa Gimmick Motors]]】社員 2026/06/19～ &br() &openclose2(show=▼体験){&br() &icon_fa(fa fa-shield-halved)[[ロスサントス警察]]】体験 &small(){(2026/10/30)}}|
+|~&font(#fff){職業}|~&font(#fff){&icon_fa(fa-solid fa-building-columns)}|&space()&icon_fa(fa fa-cutlery)&space()飲食店【[[サニーケバブ]]】店員  &small(){(2026/06/17～)} &br()&icon_fa(fa fa-wrench fa-fw)メカニック【[[Usa Gimmick Motors]]】社員  &small(){(2026/06/19～)} &br() &openclose2(show=▼体験){&br() &icon_fa(fa fa-shield-halved)[[ロスサントス警察]]】体験 &small(){(2026/10/30～)}}|
 |~&font(#fff){TwiX}|~&font(#fff){&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)}|@uratozen|
 |~&font(#fff){レーサー名}|~&font(#fff){&icon_fa(fa fa-car)}|浦戸ゼン|
 |~&font(#fff){電話番号}|~&font(#fff){&icon_fa(fa fa-phone)}|(602)112-5512|
@@ -37,21 +41,33 @@
 --両親が日本で車屋をやっているため、車が日常に溢れていた。
 -「BIGNESS」と書かれた青いマスクをつけていることが多い。落ち着く。
 -低い声、マスク、良くはない目つき、&s(){全身タトゥー}のせいで黒市民に見られがち。
---絶対に上記とは関係ないのだが、白市民パスが全然取れない。4回ほど再申請した。
+--絶対に上記とは関係ないのだが、白市民パスが全然取れない。4回ほど申請した。
+--あまりにも白市民パスが取れないので、「見た目のせいか？出来ることは全てやろう」とタトゥーを全削除した。取れたら一部復活予定。
 -19-21時に衛星外で釣りやガソスタバイトをすることが多い。目に見えて成果が分かる系のファームが好き。
 --深夜に衛星外で起きて賞金レース参加や金策をすることも多い。
+-UGM社宅にて就寝する際にはダサパジャマを着用している。
+--UGM社員からの感想は「ダッセェ～」or「可愛い～」と意見が二分している。
+--冬ver.のダサセーターも準備済。
 -エナドリをこよなく愛している。よく行くたばこ店では必ず買う。食べ物は和食と中華が好きだが専門店が無いため残念がっている。魂は食べられないものが多い。偏食家ではない(本人談)。
 -同期(特に仲の良い)三人組の名前は「&ruby(サンゼンボシ){三千星}」。命名は[[サンちゃん>猿飛　サンタロー]]。
 
 *&color(#e0e0e0){&font(#87ceeb){&icon_fa(fa fa-users)} 交友関係}
 基本的には下の名前+さんで呼び、敬語を使っている。
 #div(width=85px,bgcolor=#3C5FB5)
-{&font(b,#FFFFFF,120%){　白市民}}
+{&font(b,#FFFFFF,120%){　三千星}}忍者と魔女と一般人の仲良し街同期白市民トリオ。
+各々別のきっかけで公務員を目指し始めた。
 #region(開く)&bold(){閉じる}
 #table_style(head=center:#3C5FB5:#FFF)
 |~名前|~呼ばれ方|~備考|h
 |[[猿飛　サンタロー]]&br()(サンちゃん)|ゼン|初対面：初日(海上レストラン)&br()若葉卒業レース仲間の街同期。ゲラ、ギャンブル好き、ホラー嫌いなど共通点も多い忍者。&br()サッカーがきっかけで打ち解け、暇電やお出かけ、大事な相談事をする親友になった。|
 |[[ホシ・バミオ]]&br()(バミオさん、バミオ)|ゼンさん|初対面：4日目(aqua ovest)&br()若葉卒業レース仲間の街同期。元ケバブ屋仲間のサッカーギフテッド&s(){ボンバイエ}魔女。&br()レースイベントで賭けがある度に(お金と圧を)かけてくれる。|
+#endregion
+
+#div(width=85px,bgcolor=#3C5FB5)
+{&font(b,#FFFFFF,120%){　白市民}}
+#region(開く)&bold(){閉じる}
+#table_style(head=center:#3C5FB5:#FFF)
+|~名前|~呼ばれ方|~備考|h
 |[[惑朽　ルーシー]]&br()(ルーシーさん)|ゼンさん|初対面：初日(電話→解体バイト)&br()メカ対抗新規住民レースの相棒。レースの思い出として同じ色のサルタンを所持。&br()レースなら忍、カジノならこみ蔵など沢山の人と知り合うきっかけをくれた。|
 |[[蟹雑　炊]]&br()(炊さん)|ゼンくん|初対面：8日目(かくれんぼ)&br()若葉卒業レース主催。街同期ではないが一緒にマークを外した。&br()卒業レース以降暫く会ってないのでゼン視点ではその後が不明。|
 #endregion
@@ -449,8 +465,8 @@
 |🚙|Canny(AT)|2026/6/6|2,1000,000|衛星外で購入|
 |🚙|Deity|2026/07/01|28,000,000|BJローンから5000万を借りて購入|
 |🚢||2026/07/01|20,000,000|BJローンから5000万を借りて購入|
-|🚙|Cody Mechanic Truck(AT)|2026/7/3|1,450,000|軽トラレース練習用に購入|
-|🚙|Keitora|2026/10/28|1,250,000|乗りやすいため購入。カスタムが多い|
+|🚚|Cody Mechanic Truck(AT)|2026/7/3|1,450,000|軽トラレース練習用に購入|
+|🚚|Keitora|2026/10/28|1,250,000|乗りやすいため購入。カスタムが多い|
 |🚙|Rapid GT X|2026/10/28|27,000,000|BJローンから2000万を借りて購入|
 #table_autoincrement(head=#000080)
 
@@ -461,6 +477,7 @@
 |||||
 
 }
+
 
 
 
@@ -584,6 +601,29 @@
 |10/30|51|[[Day51｜お邪魔します警察体験初日、平和ボケ卒業。 >https://www.youtube.com/live/9oNyvQF5DXo?si=daZ97KfDlw0SkWIp]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}|
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(10月)
+
+***11月
+#region(開く,open)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|11/01|51.5|[[少しだけ番外編 PCの様子見＆行けなかったロス上等をDVDで見る>>https://www.twitch.tv/videos/2916702267]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)}|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(11月)
+//
+
+*&font(#00bfff){&icon_fa(fa fa-video)} ストグラコラボアーカイブ
+**2026年
+Twitchはアーカイブ保管していないため、切れたリンクは記載していません。
+#region(開く,close)
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~ゲーム名|~配信タイトル|~参加者(五十音順)|~備考|h
+|7/21|めっちゃカメレオン|UGMでめっちゃカメレオンやるぞ～～～～～～～～|島ゴリ/てんぷら/花束ゆいは/バル子&br()真澄せんの/饅頭忍者/未空あいす/夜乃すみ|&font(#6441A4){&icon_fa(fa-brands fa-twitch)}|
+|8/10|Goose Goose Duck|ストグラケバブ屋でアヒル人狼|アトラ/かにちゃん/ぜろろぺ/ちゃんみつ/ヒラ&br()Bosna/まどれ/柚原いづみ/るなぼう/羚王リレイア|&font(#6441A4){&icon_fa(fa-brands fa-twitch)}|
+|9/13|STREET FIGHTER 6|[[【#路地裏遊戯2】チームF(UGM)ふぁいてぃ～ん 大将になっちゃった男>>https://www.twitch.tv/videos/2864086171]]|島ゴリ/バル子/饅頭忍者/未空あいす|&font(#6441A4){&icon_fa(fa-brands fa-twitch)}|
+
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(5月)
+//
 //
 //|mm/dd|n|[[YouTubeタイトル>>ＵＲＬ]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}|
 //|mm/dd|n|[[Twitchタイトル>>ＵＲＬ]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)}|
