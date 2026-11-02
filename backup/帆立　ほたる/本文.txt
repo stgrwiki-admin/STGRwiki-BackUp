@@ -53,12 +53,15 @@
 #div(bgcolor=#fff,color=#d83473){&size(18){&space()&icon_fa(fa-solid fa-shield-heart)&bold(){ 恋愛観}}}
 -カプ厨である反面、自身の恋愛事情を探られると弱く、動揺が隠せない。
 -なんでもない時のなんでもないやりとりにトキメク、何気ない日常のハッピーに栄養を貰っている。(Twixより)&co(@losradio 26/9/30第3回ロスステ)
-//メモ すずり対話元婚約者(138日目24時)
+#region(元婚約者について ※ネタバレ注意)&b(){元婚約者について（すずりとの配送バイトより）}
+//138日目、細かいニュアンスが難しいので簡潔に記載
+婚約相手はこの街で言う黒市民だった。
+一人で決めたことに従うよう言う相手だった為に言い合いをしても溝が埋まらず別れることになった。
+#endregion
 
-&b(){そのほか近況}
+****そのほか近況
 #region(開く)
 -歌唱グループRE:SONA準備中
--秋の飲食店フェス(ハロウィン)共同計画中
 -飯田リゾートクリスマスペアプラン計画中
 #endregion()
 
@@ -84,11 +87,11 @@
 &bold(){&b(){&font(15,#666){[[畳　かえる]]}}}
 &bold(){海上レストランUrashima副店長。黒市民をカミングアウトした先輩店員。&br()異性としてからかっているうちに少しずつ気になる存在になり、逆に周りから関係をいじられるようになった。&br()種を渡された事件の詳細を話したことで危ない目にあったら先輩に個人的に頼る約束をしている。}
 
-&bold(){&b(){&font(15,#666){[[亀山　Hero]]（元店員）}}}
+&bold(){&b(){&font(15,#666){[[亀山　Hero]]}}}
 &bold(){海上レストランUrashima元店長。相談なく動くことが多く度々問題を起こし店長復帰が危ぶまれた。&br()[[キャサリン>>キャサリン・ウェーブライド]]がヒロちゃんから分裂した存在だと判明し、ほたるはどちらも消えてほしくないと思っている。&br()麻陀羅組への禊金絡みで多方面への不義理を働き辞めることになり、かえる先輩やGrowちゃんとの関係は冷え切っている。(通称：亀山事変)}
 
 &bold(){&b(){&font(15,#666){[[Grow]]}}}
-&bold(){転送組でS2からUrashima店員になったパン屋店員。海上レストランのことを大事に思っていて&br()亀山事変では誰よりも率先して怒りを露わにし、即メニュー動画の編集に取りかかった。}
+&bold(){転送組でS2からUrashima店員になったパン屋店員。救急体験をして晴れて入隊を果たした。&br()海上レストランのことを大事に思っていて、亀山事変では誰よりも率先して怒りを露わにし、即メニュー動画の編集に取りかかった。}
 
 &bold(){&b(){&font(15,#666){[[小此木　ナカバ]]}}}
 &bold(){警察兼業の店員。転送前の街ではアグレッシブな警察だったらしい。娘の[[小此木　かりん]]との年齢差が合わない謎がある。}
@@ -129,12 +132,30 @@
 
 &bold(){&b(){&font(15,#666){[[ボクジュール　すずり]]}}}
 &bold(){歌唱リーダー}
+&font(b,silver){Club Passiona参照}
 
 &bold(){&b(){&font(15,#666){[[寝言　怠惰]]}}}
 &bold(){1期生メンバー}
 
 &bold(){&b(){&font(15,#666){[[えびな　ヨネ]]}}}
 &bold(){1期生メンバー}
+#endregion
+
+//****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa fa-microphone)&font(i,b){&space(2)RE:SONA}}&nbsp(45)}}
+#div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa fa-microphone)&font(i,b,90%){&space(3)RE:SONA}}}
+#size(60%){　}
+#region(開く)
+&bold(){&b(){&font(15,#666){[[畳　かえる]]}}}
+&font(b,silver){海上レストランUrashima参照}
+
+&bold(){&b(){&font(15,#666){[[ボクジュール　すずり]]}}}
+&font(b,silver){Club Passiona参照}
+
+&bold(){&b(){&font(15,#666){[[神楽坂　レイナ]]}}}
+&bold(){黒市民を明かしている飯田書店店員。}
+
+&bold(){&b(){&font(15,#666){[[琵琶山　法師]]}}}
+&bold(){}
 #endregion
 
 //****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa fa-people-robbery)&font(i,b){&space(2)街の住民}}&nbsp(45)}}
@@ -159,7 +180,7 @@
 [[夜仲　コウ]] ジョープロ後輩𝐘Ø𝐍𝐀*のメンバー。初ライブでhantasmaの一団を指し授業参観みたいと言っていた為構成員と判明。
 #endregion
 
-#endregion
+#endregion(街の住民)
 
 *エピソード
 **2026年
@@ -346,7 +367,7 @@
 |09/30|121|[[きょうはロスステ！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2887954172]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=zxRxyxckVz0]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(9月)
-#region(10月,open)&b(){10月}
+#region(10月)&b(){10月}
 #table_style(head=center:#E6E6FA){配信日=right,#=center,YouTube=center}
 |~配信日|~#|~Twitchタイトル|~YouTube|~備考|h
 |10/01|122|[[エルレコライブ観る！⚓帆立ほたるのばりばり掛け持ち社員生活①>>https://www.twitch.tv/videos/2888824678]]/[[②>>https://www.twitch.tv/videos/2889043386]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=8i2PdCoz_mw]]||
@@ -368,18 +389,26 @@
 |10/24|138|[[DVD販売とハロウィン準備⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2909360071]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=y1Yqf5oHr2s]]||
 |10/28|139|[[ハロウィン楽曲制作⚓帆立ほたるのばりばり掛け持ち社員生活①>>https://www.twitch.tv/videos/2912959709]]/[[②>>https://www.twitch.tv/videos/2913196351]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=sM3RvLI6eRQ]]||
 |10/29|140|[[ハロウィン準備準備！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2913847697]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=A-RPQhBR0SQ]]||
-//|10/dd|n|[[帆立ほたるのばりばり掛け持ち社員生活>>ＵＲＬ]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>ＵＲＬ]]||
+|10/30|141|[[ハロウィンDJナイトパーティ！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2914748250]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=YhmR79LiP7w]]||
+|10/31|142|[[ハロウィン収穫祭！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2915654039]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=eiixOr--07U]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(10月)
-#endregion(7月~12月)
-#co{▼次の月コピー用▼
 #region(11月,open)&b(){11月}
 #table_style(head=center:#E6E6FA){配信日=right,#=center,YouTube=center}
 |~配信日|~#|~Twitchタイトル|~YouTube|~備考|h
-|11/dd|n|[[帆立ほたるのばりばり掛け持ち社員生活>>ＵＲＬ]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>ＵＲＬ]]||
+|11/01|143|[[チル？⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2916682840]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=yxWbGovDQpA]]||
 //|11/dd|n|[[帆立ほたるのばりばり掛け持ち社員生活>>ＵＲＬ]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(11月)
+#endregion(7月~12月)
+#co{▼次の月コピー用▼
+#region(12月,open)&b(){12月}
+#table_style(head=center:#E6E6FA){配信日=right,#=center,YouTube=center}
+|~配信日|~#|~Twitchタイトル|~YouTube|~備考|h
+|12/dd|n|[[帆立ほたるのばりばり掛け持ち社員生活>>ＵＲＬ]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>ＵＲＬ]]||
+//|12/dd|n|[[帆立ほたるのばりばり掛け持ち社員生活>>ＵＲＬ]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion(12月)
 }
 &co(▲ここまでco▲)
 **ストグラ外コラボ

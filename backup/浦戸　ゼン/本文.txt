@@ -7,7 +7,7 @@
 |~&font(#fff){誕生日}|~&font(#fff){&icon_fa(fa fa-cake-candles)}|12/15|
 |~&font(#fff){身長}|~&font(#fff){&icon_fa(fas fa-male)}|176cm|
 |~&font(#fff){転入日}|~&font(#fff){&icon_fa(fa fa-plane-arrival)}|2026年05月07日 (&countup(2026/05/07,yd)経過)|
-|~&font(#fff){職業}|~&font(#fff){&icon_fa(fa-solid fa-building-columns)}|&space()&icon_fa(fa fa-cutlery)&space()飲食店「[[サニーケバブ]]」&small(){2026/06/17～}&br()&icon_fa(fa fa-wrench fa-fw)メカニック「[[Usa Gimmick Motors]]」&small(){2026/06/19～}|
+|~&font(#fff){職業}|~&font(#fff){&icon_fa(fa-solid fa-building-columns)}|&space()&icon_fa(fa fa-cutlery)&space()飲食店【[[サニーケバブ]]】店員 2026/06/17～ &br()&icon_fa(fa fa-wrench fa-fw)メカニック【[[Usa Gimmick Motors]]】社員 2026/06/19～ &br() &openclose2(show=▼体験){&br() &icon_fa(fa fa-shield-halved)[[ロスサントス警察]]】体験 &small(){(2026/10/30)}}|
 |~&font(#fff){TwiX}|~&font(#fff){&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)}|@uratozen|
 |~&font(#fff){レーサー名}|~&font(#fff){&icon_fa(fa fa-car)}|浦戸ゼン|
 |~&font(#fff){電話番号}|~&font(#fff){&icon_fa(fa fa-phone)}|(602)112-5512|
@@ -41,7 +41,10 @@
 -19-21時に衛星外で釣りやガソスタバイトをすることが多い。目に見えて成果が分かる系のファームが好き。
 --深夜に衛星外で起きて賞金レース参加や金策をすることも多い。
 -エナドリをこよなく愛している。よく行くたばこ店では必ず買う。食べ物は和食と中華が好きだが専門店が無いため残念がっている。魂は食べられないものが多い。偏食家ではない(本人談)。
+-同期(特に仲の良い)三人組の名前は「&ruby(サンゼンボシ){三千星}」。命名は[[サンちゃん>猿飛　サンタロー]]。
+
 *&color(#e0e0e0){&font(#87ceeb){&icon_fa(fa fa-users)} 交友関係}
+基本的には下の名前+さんで呼び、敬語を使っている。
 #div(width=85px,bgcolor=#3C5FB5)
 {&font(b,#FFFFFF,120%){　白市民}}
 #region(開く)&bold(){閉じる}
@@ -70,8 +73,9 @@
 |~名前|~呼ばれ方|~備考|h
 |[[山田　パルコ]]&br()(パルコさん)|ゼンさん|Usa Gimmick Motors社長。優しくて面白い街の歌姫。&br()顎の座標がずれていて時々聞き取れない。&br()ゼンの魂の背後に見えるもの&font(#888888,80%){(事務所)}に怯え、下ネタは自制中。|
 |[[万十　忍]]&br()(忍さん)|ゼンさん|UGM社員。車の事で迷ったらまず相談する頼れる先輩。&br()車の好み、レースに対する熱意など似ているところが多いが&br()苦手な食べ物とBIGNESSについては全然分かり合えない。|
-|[[柚乃　いずみ]]&br()(いずみさん)|ゼンくん|サニーケバブ店長。色々乗り越えてきた強くて優しい人。&br()ゼンはほぼ出勤していないので、出張販売を手伝ったり&br()客として店に行き世間話や近況報告をしたりしている。|
+|[[柚乃　いずみ]]&br()(いずみさん)|ゼンくん&br()ウラート|サニーケバブ店長。色々乗り越えてきた強くて優しい人。&br()ゼンはほぼ出勤していないので、出張販売を手伝ったり&br()客として店に行き世間話や近況報告をしたりしている。|
 |[[ブロッコリー　斎藤]]&br()(ブロッコリーさん)|ゼンさん|警察官。UGM男性社員をどうにかして辞めさせたい株主。&br()声や喋り方が似ているらしい。無線を通すと特に分からないと度々言われる。|
+|[[花沢 まるん]]&br()(まるんさん)|浦戸さん|警察官。UGMに修理に来てくれて指名されることがある。&br()警察体験初日にバディになった。|
 |[[LUNA Garage]]|ゼン|レース特化メカニック。レーサーのゼンを猛勧誘していた。&br()UGM就職後も気にかけてくれている。|
 #endregion
 
