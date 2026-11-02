@@ -213,13 +213,12 @@
 
 #center(){&b(){&color(#8096DF){どなたでもOK！エピソード募集中！}}}
 
-#right(){&link_anchor(目次){△目次へ}}
 #co(){↓コピー用
 
 #region(9/5[[>>]],open)9/5
 #endregion(9/5)
 }
-
+#right(){&link_anchor(目次){△目次へ}}
 //➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 *&color(#A0B6FF){&icon_fa(fa fa-car)} 所有車両
 #div(width=150px,bgcolor=#A0B6FF){&font(b,#666,120%){　Season 1}}
@@ -246,6 +245,8 @@
 //-----
 #table_sorter{even=#f4f9ff,odd=#fff}
 #endregion(Season2)
+
+#right(){&link_anchor(目次){△目次へ}}
 //➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 *&color(#fff){&font(#A0B6FF){&icon_fa(fa fa-video)} アーカイブ}
 &underdot(#A0B6FF,2px){【お知らせ】&br()STGRシーズン１は来場者限定(メンバー限定)の視聴に変わりました｡&br()シーズン２はどなたでもご視聴いただけます｡}
@@ -304,7 +305,7 @@
 #endregion(9月)
 //-----
 #region(open,10月)''10月''
-#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=center:90%,}
 |~配信日|~#|~配信タイトル|~備考|h
 |10/09|14|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス14日目>>https://m.youtube.com/watch?v=IZxibWFiCgE]]||
 |10/15|15|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ】growのロスサントス15日目>>https://m.youtube.com/watch?v=wHfTBel0uhE]]||
@@ -492,11 +493,26 @@
 #endregion(9月)
 //-----
 #region(open,10月)''10月''
-#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
+#table_style(head=90%:center:#A0B6FF:#666){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=center:90%}
 |~配信日|~#|~配信タイトル|~備考|h
 |10/02|90| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス91日目>>https://m.youtube.com/watch?v=gSDX3hHFcdg]]||
 |10/04|91| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス92日目>>https://m.youtube.com/watch?v=EIXe-zxVoRY&ra=m]]||
 |10/04|92| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス93日目>>https://m.youtube.com/watch?v=T0uWmMdWL7c]]||
+|10/08|93| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス94日目>>https://m.youtube.com/watch?v=Z-ZsS3vLQ3k]]||
+|10/09|94| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス95日目>>https://m.youtube.com/watch?v=txSYlRP8nBk&ra=m]]||
+|10/10|95| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス96日目>>https://m.youtube.com/watch?v=bL9SonWCGmQ]]||
+|10/11|96| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス97日目>>https://m.youtube.com/watch?v=F4erQ_iqGs8&ra=m]]||
+|10/14|97| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス98日目>>https://m.youtube.com/watch?v=yEAy6skAhaA&ra=m]]||
+|10/15|98| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス99日目>>https://m.youtube.com/watch?v=NqHfvc2fjOg&ra=m]]||
+|10/16|99| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス100日目>>https://m.youtube.com/watch?v=kNGpLGQpVLI]]||
+|10/18|100| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス101日目>>https://m.youtube.com/watch?v=ap7QiK-kHJk&ra=m]]||
+|10/23|101| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス102日目>>https://m.youtube.com/watch?v=ulUwSr1LPoo]]||
+|10/24|102| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス103日目>>https://m.youtube.com/watch?v=5359Mlmz9oU&ra=m]]||
+|10/28|103| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス104日目>>https://m.youtube.com/watch?v=1a5B8oRs37c&ra=m]]||
+|10/29|-| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[実は衛星外で初体験していたゴーストハンター>>https://m.youtube.com/watch?v=P3UeZ6b1bGQ]]| 動画|
+|10/29|104| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス105日目>>https://m.youtube.com/watch?v=v0D2fET0gFk&ra=m]]||
+|10/30|105| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス106日目>>https://m.youtube.com/watch?v=iLjZ834t2o8&ra=m]]||
+|10/31|106| &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ2】growのロスサントス107日目>>https://m.youtube.com/watch?v=4uGSvKgngjs]]||
 
 #table_sorter{even=#f4f9ff,odd=#fff}
 #endregion(10月)
@@ -565,4 +581,4 @@
 #endregion(閉じる)
 //-----
 
-#right(){&link_up(🔝ページTOPへ)}
+#right(){&link_anchor(目次){△目次へ}}
