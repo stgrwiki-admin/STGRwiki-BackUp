@@ -180,7 +180,8 @@
 
 **切り抜き動画 再生リスト
 &font(b,16px,#444){再生リストは[[こちら>>https://youtube.com/playlist?list=PLT-4eo2PMdKWWYdfKjJlhM83iYHxGTJUx&si=G1YVDjmUv6cc9KnM]]}
-***切り抜き動画
+***ピックアップ
+#region(開く)
 #size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #FFA500;){
 &youtube(https://youtu.be/utVIVia_wLU?si=3uyaJb6ZHsuHJg2T){360,200}
 &youtube(https://youtu.be/ZkfpErCFnws?si=drpw_6coWcMpcW_W){360,200}
@@ -191,5 +192,6 @@
 &youtube(https://youtu.be/Fdb7lZjW-E4?si=JsvdiZEP0vIWmDTJ){360,200}
 }}}
 //最新の動画更新が追いついていなかったので幾つかピックアップして並べました
+#endregion
 
 #right(){&link_up(🔝ページTOPへ)}
