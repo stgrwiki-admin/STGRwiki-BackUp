@@ -1019,11 +1019,22 @@
 &size(20)&color(#9b68a9){●}&bold(){&font(#DA1725)&space()YouTube切り抜き動画はご本人が編集しています。}
 &size(20)&color(#9b68a9){●} &bold(){動画投稿チャンネル ▶︎} &font(#ff0000){&icon_fa(fa fa-youtube-play)}[[うさたくま(@usa_takuma)>>https://youtube.com/@usa_takuma?si=XfBvkMaNlm1n8hSU]]&br()&size(20)&color(#9b68a9){●} &bold(){切り抜き動画再生リスト ▶︎ }[[&font(#ff0000){&icon_fa(fa fa-youtube-play)}【ストグラ】ウサタクの成長日記>>https://youtube.com/playlist?list=PLdwCQkBe2JjU&si=bZHru8SGTQ5l0Rzu]]
 **2026年
-#region(開く,open)
-#table_style(head=center:#9b68a9:#FFF){投稿日=right,No.=center}
+#div(width=120px,bgcolor=#9b68a9)
+{&font(b,#FFFFFF,120%){　8月}}
+#region(開く,close)閉じる
+#table_style(head=center:#9b68a9:#FFF){配信日=right,#=center}
 |~No.|~投稿日|~&font(#FFF){&icon_fa(fa-brands fa-youtube)} 動画タイトル|~備考|h
 |1|26/8/30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】ふんだりけったりな１日目>>https://youtu.be/fDpb5OMFSYA?si=LdEBBPYTua_c7urc]]|#1-1️⃣|
 |2|26/8/31|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】バイト初日に暴れまくる新規住人🔰>>https://youtu.be/VgOl_s9ZpqU?si=lVFhG0Upjh_HknQa]]|#1-2️⃣|
+//|yy/mm/dd(aaa)|n|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#div(width=120px,bgcolor=#9b68a9)
+{&font(b,#FFFFFF,120%){　9月}}
+#region(開く,close)閉じる
+#table_style(head=center:#9b68a9:#FFF){配信日=right,#=center}
+|~No.|~投稿日|~&font(#FFF){&icon_fa(fa-brands fa-youtube)} 動画タイトル|~備考|h
 |3|26/9/01|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】操作に慣れない新規住人がシュールすぎたｗｗｗ>>https://youtu.be/ztdGCLZvbjI?si=KnPddImpafleTDfz]]|#2-1️⃣|
 |4|26/9/02|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】「また駅！？」ユニオンで起きた謎のループ現象>>https://youtu.be/Io7JEej2LmY?si=jbr2eSSJ3nb8SUTJ]]|#2-2️⃣|
 |5|26/9/02|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】音楽を通して世界一平和なストーリーが動き出す？！>>https://youtu.be/rUrWP4q25Wo?si=_314K97yBToIzUap]]|#2-3️⃣|
@@ -1032,6 +1043,15 @@
 |8|26/9/11|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】ペットに扮した新規住人達が大暴れｗｗｗｗｗ>>https://youtu.be/n0UajtzKZJg?si=hq-3QTSqcLIvw7R5]]|#7-1️⃣|
 |9|26/9/16|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】初めて作ったオリジナルメニュー、まさかの240個売れましたｗｗｗｗ>>https://youtu.be/rBKECNfj7ZM?si=1SBe3nFqG_Xn9PyZ]]|#7-2️⃣ #11-1️⃣|
 |10|26/9/21|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】キノコを街に広めたら警察と黒市民と記者が動き出したｗｗｗｗ>>https://youtu.be/Inoku89aDxg?si=JGKNKHKUJraW_TCb]]|#12-1️⃣ #13-1️⃣ #14-1️⃣|
+//|yy/mm/dd(aaa)|n|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#div(width=120px,bgcolor=#9b68a9)
+{&font(b,#FFFFFF,120%){　10月}}
+#region(開く,close)閉じる
+#table_style(head=center:#9b68a9:#FFF){配信日=right,#=center}
+|~No.|~投稿日|~&font(#FFF){&icon_fa(fa-brands fa-youtube)} 動画タイトル|~備考|h
 |11|26/10/06|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【#ストグラ】初心者卒業をかけたイベント、まさかの人物が協力してくれることに…>>https://youtu.be/lEsQh1lAZvU?si=al3tp-iF32-twQm6]]|#18-1️⃣ #20-1️⃣|
 |12|26/10/08|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】初心者卒業イベントの後、店長だけに歌を届けた結果…>>https://youtu.be/7bN70roLG1g?si=faq3neIYEl8Elcax]]|#22-1️⃣|
 |13|26/10/10|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】笑いが止まらない同期4人の謎解き！まさかの卒業祝いまで！？【宇佐卓、音凪紬、鈴那衣遠、天田さぽ】>>https://www.youtube.com/watch?v=rLpulStvVCo]]|#22-2️⃣|
@@ -1050,25 +1070,20 @@
 |26|26/10/29|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】「敵になったら撃てる？」親友の葛藤から始まった豪華すぎる5者面談ｗｗｗ【宇佐卓、天草蒼、天田さぽ、丘猫まる、ヘルアン】>>https://youtu.be/h4w9m-S3G7k?si=CA411PSIn3D3bzRy]]|#37-1️⃣|
 |27|26/10/30|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】先輩から貰った貴重な銃を失くした新人、謝罪するも大爆笑されるｗｗ【宇佐卓、聖母れりあ】>>https://www.youtube.com/watch?v=vKUQgnewvjI]]|#37-2️⃣|
 |28|26/10/31|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】自分で選んだ道なのに…友達の言葉で新たな葛藤を抱えるウサタク【宇佐卓、NAWA、丘猫まる】>>https://youtu.be/hCC_dgho1sk?si=m5_uUNj4eN1_fPC6]]|#37-3️⃣|
+//|yy/mm/dd(aaa)|n|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[タイトル>>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+#div(width=120px,bgcolor=#9b68a9)
+{&font(b,#FFFFFF,120%){　11月}}
+#region(開く,open)
+#table_style(head=center:#9b68a9:#FFF){配信日=right,#=center}
+|~No.|~投稿日|~&font(#FFF){&icon_fa(fa-brands fa-youtube)} 動画タイトル|~備考|h
 |29|26/11/02|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】初犯罪が下手すぎて警察にまで優しくされる新人犯罪者ｗｗｗ【宇佐卓、聖母れりあ、ヘルアン】>>https://youtu.be/5jolQmramfs?si=kGHlOqMjE8V8WNyu]]|#38-1️⃣|
 |30|26/11/02|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】見た目がふざけすぎてるのに威圧感がエグすぎる取引先のボスｗｗｗ【宇佐卓、丘猫まる、日之ぱちお、聖母れりあ、サ・ムゲタン】>>https://youtu.be/m-HW9VlWivQ?si=zLbmxUP9GFLLKBPc]]|#38-2️⃣|
 |31|26/11/03|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】街を去りそうなボスの家族を救うため、託された特別なお願い【宇佐卓、丘猫まる、山田カイキ】>>https://youtu.be/BbudADOTCE0?si=wufwuy1h6HojJYhe]]|#39-1️⃣|
 |32|26/11/04|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】ボスたちに褒められすぎて口角が上がりっぱなしのうさたくｗｗｗ【宇佐卓、丘猫まる、日之ぱちお】>>https://www.youtube.com/watch?v=_pr4u28t3gQ]]|#40-1️⃣|
-
-//|mm/dd(aaa)|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>ＵＲＬ]]|yyyy/mm/dd(aaa)||
-#table_sorter{even=#F7F7F7,odd=fff}
-#endregion
-----
-&bold(){&size(16){&font(#DA1725)&space()&size(20){&color(#9b68a9){●}} ショート動画はこちら！}}&size(20){&color(#9b68a9){●}}
-**2026年
-#region(開く,open)
-#table_style(head=center:#9b68a9:#FFF){投稿日=right,No.=center}
-|No.|~投稿日|~&font(#FFF){&icon_fa(fa-brands fa-youtube)} ショート動画タイトル|~備考|h
-|1|26/10/01|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[【ストグラ】初日が開始数分で終わる新規住人>>https://www.youtube.com/shorts/3wlxI5zpVeo]]|#1-1️⃣|
-|2|26/10/02|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[「人質」を知らないピュアすぎる新人、街の先輩たちを困らせるｗｗｗ【ストグラ】>>https://www.youtube.com/shorts/IUuTHoBQt-Y]]|#1-2️⃣|
-
-
-//|mm/dd(aaa)|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>ＵＲＬ]]|yyyy/mm/dd(aaa)||
+//|yy/mm/dd(aaa)|n|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 
