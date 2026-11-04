@@ -167,21 +167,23 @@ Bolingbroke Infirmary 4000番地(プリズン内) 8A-332
 |2|STRAGE|倉庫(STRAGE)||
 #endregion(ボリングブローク診療所)
 
-****&font(19,u){&color(crimson){|}&space()北病院（仮）&space()}
--現在準備中
+#co{
+//****&font(19,u){&color(crimson){|}&space()北病院&space()}
+-
 #region(詳細)
 #table_filter(){階数=show,病棟=show,部屋=show,説明=show}
 #table_style(head=#1b1844:#fff:center){階数=center,説明=12px}
 |~階数|~病棟|~部屋|~説明|h
 |||||
-#endregion(北病院（仮）)
-
-****&font(19,u){&color(crimson){|}&space()砂漠病院（仮）&space()}
+#endregion(北病院)
+}
+****&font(19,u){&color(crimson){|}&space()砂漠病院&space()}
+Clinic Center 3001番地
 -現在準備中
 #region(詳細)
 #table_filter(){階数=show,病棟=show,部屋=show,説明=show}
 #table_style(head=#1b1844:#fff:center){階数=center,説明=12px}
 |~階数|~病棟|~部屋|~説明|h
-|||||
+|1|RECEPTION|受付(RECEPTION)||
 #endregion(砂漠病院（仮）)
 #endregion(Season2)

@@ -125,7 +125,7 @@
 #areaedit(end)
 #endregion
 //
-#region(9月〜10月,open)9月〜10月
+#region(9月〜10月)9月〜10月
 #areaedit
 #table_style(head=center:#7BBFEA:#FFF){投稿日=right,備考=12px}
 |~投稿日|~動画タイトル|~備考|h
@@ -155,7 +155,7 @@
 //|10/DD|[[タイトル>>URL]]| |
 #areaedit(end)
 #endregion
-
+//
 #region(11月〜12月,open)11月〜12月
 #areaedit
 #table_style(head=center:#7BBFEA:#FFF){投稿日=right,備考=12px}

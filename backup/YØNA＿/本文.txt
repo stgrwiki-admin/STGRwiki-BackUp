@@ -1,0 +1,55 @@
+//&image(ここに画像のURLを入力,y=300)
+
+#table_style(head=#131862:#FFFFFF){}
+|~グループ名|~&space()&icon_fa(fa fa-asterisk fa-flip)&space()|&font(b,#000){&ruby(よなぼし){𝐘Ø𝐍𝐀*}}|
+|~業種|~&space()&icon_fa(fa fa-user-group)&space()|アイドル・アーティスト|
+|~結成日|~&space()&icon_fa(fa fa-flag)&space()|yyyy年mm月dd日&space()&small(){（&countup(yyyy/mm/dd,yd)経過）}&co(){※countupは設立日の1日前に設定}|
+|~拠点|~&icon_fa(fa fa-location-pin)|----番地|
+|~TwiX|~&icon_fa(fa fa-brands fa-twitter)|@　|
+//|~グループカラー|~&space()&icon_fa(fas fa-palette)&space()|&font(#カラーコード,b){カラー}|
+
+#region(目次を開く,close)目次
+#contents(fromhere=true,level=2)
+#endregion
+
+**基本情報
+-情報を記述
+
+**メンバー
+#table_style(head=#131862:#FFFFFF){名前=bold,}
+#table_filter(){名前=show,備考=show,配信=show}
+|~名前|~備考|~配信|h
+|[[夜仲　コウ]]|　|　|
+|[[ホシ・バミオ]]|　|　|
+
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//変更があれば「参加者一覧」への反映もお願いします
+//
+#co{
+//***過去メンバー
+#table_style(head=#131862:#FFFFFF){}
+|~名前|~加入日|~脱退日|~備考|h
+|名前|加入日|yyyy/mm/dd|備考|
+|名前|加入日|yyyy/mm/dd|備考|
+//|名前|加入日|yyyy/mm/dd|備考|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+}
+
+**来歴
+***2026年
+#region(開く,open)
+#table_style(head=#131862:#FFFFFF){}
+#table_filter(){備考=show}
+|~日付|~出来事|~備考|h
+|mm/dd|結成|　|
+|09/27|デビューライブ|　|
+|11/05|イベント出演|[[ほわいとたいが>>イチカ　ウィルキンズ]]主催「たいがの秋の収穫祭」にてイベント出演|
+
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//#table_sorter{even=#f0f0f0,odd=#dad8e3}
+#endregion(2026年)
+
+#right(){&link_up(🔝ページTOPへ)}

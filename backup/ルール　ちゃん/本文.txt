@@ -144,7 +144,7 @@
 #endregion(7/29)
 #endregion(7月)
 
-#region(8月,open)8月を閉じる
+#region(8月,close)8月を閉じる
 ****8/3 [[【#ストグラ】16日目✧︎新人警察ルールちゃんです【ルールちゃん視点】>>https://www.youtube.com/watch?v=QSFLdxOhEWA]]
 #region(開く,open)閉じる
 ・エピソード募集中
@@ -169,7 +169,7 @@
 //#endregion(mm/dd)
 //
 //#endregion(mm月)
-//
+
 &font(b,21px){エピソード募集中}
 
 *&font(25px,#92B4F0){ア}ーカイブ &font(25px,#92B4F0){&icon_fa(fa fa-youtube-play)}
@@ -240,7 +240,7 @@
 #endregion
 
 ***2025年
-#region(開く,open)
+#region(開く,close)
 #table_style(head=center:#85aaed){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |01/03|55|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[【#ストグラ / 警察 】55日目✧︎あけましておめでとう警察！【ルールちゃん/ルルベル】>>https://www.youtube.com/watch?v=9AZ3Yh5eE74]]||
@@ -312,10 +312,21 @@
 //|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
 #table_sorter{even=#f7f7f7,odd=fff}
 #endregion
+#co{
+//***yyyy年
+#region(開く,close)
+#table_style(head=center:#85aaed){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+
+//|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
+#table_sorter{even=#f7f7f7,odd=fff}
+#endregion(yyyy年)
+}
 
 *&font(25px,#92B4F0){切}り抜き動画 &font(25px,#92B4F0){&icon_fa(fa fa-film)}
 ***動画
-#region(開く,open)
+****2024年〜2025年
+#region(開く,close)
 #table_style(head=center:#85aaed)
 #table_filter(){公開日=show,配信タイトル=show,関連人物=hide}
 |~公開日|~配信タイトル|~関連人物|
@@ -372,8 +383,8 @@
 
 *&font(25px,#92B4F0){そ}の他関連情報 &font(25px,#92B4F0){&icon_fa(fa fa-pencil)}
 ***別キャラクター
-#region(ネタバレ注意)
-//・[[名前]]
+#region(※ネタバレ注意)※ネタバレ注意
+・[[勢理客　ルカ]]
 #endregion
 
 #right(){&link_up(🔝ページTOPへ)}

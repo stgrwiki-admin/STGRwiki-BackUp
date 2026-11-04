@@ -838,7 +838,7 @@
 #areaedit(end)
 #endregion
 
-#region(2026年10月,open)2026年10月
+#region(2026年10月)2026年10月
 #areaedit
 #table_style(head=center:#FFD4FF){配信日=right,アーカイブ=center}
 |~配信日|~&font(#BA87F1){&icon_fa(fa fa-twitch)} Twitch配信タイトル|~&font(#F69C9F){&icon_fa(fa fa-youtube-play)} アーカイブ|h
@@ -856,6 +856,17 @@
 //|10/DD|&font(#BA87F1){&icon_fa(fa fa-twitch)} [[Title>>URL]]|[[&font(#F69C9F){&icon_fa(fa fa-youtube-play)}>>URL]]|
 #areaedit(end)
 #endregion
+
+#region(2026年11月,open)2026年11月
+#areaedit
+#table_style(head=center:#FFD4FF){配信日=right,アーカイブ=center}
+|~配信日|~&font(#BA87F1){&icon_fa(fa fa-twitch)} Twitch配信タイトル|~&font(#F69C9F){&icon_fa(fa fa-youtube-play)} アーカイブ|h
+|11/04|&font(#BA87F1){&icon_fa(fa fa-twitch)} [[Title>>URL]]|[[&font(#F69C9F){&icon_fa(fa fa-youtube-play)}>>URL]]|
+//|M/DD|&font(#BA87F1){&icon_fa(fa fa-twitch)} [[Title>>URL]]|[[&font(#F69C9F){&icon_fa(fa fa-youtube-play)}>>URL]]|
+//|M/DD|&font(#BA87F1){&icon_fa(fa fa-twitch)} [[Title>>URL]]|[[&font(#F69C9F){&icon_fa(fa fa-youtube-play)}>>URL]]|
+#areaedit(end)
+#endregion
+
 #endregion(2026年)
 
 #co{テンプレ

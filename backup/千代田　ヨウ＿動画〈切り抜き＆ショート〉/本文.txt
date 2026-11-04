@@ -171,7 +171,7 @@
 #endregion
 //
 ***&font(#ff9933,b){&size(20){●} 8～10月の切り抜き動画}
-#region(▶開く,open)
+#region(▶開く,close)
 ▼閉じる
 #table_style(head=#F93:#FFF:center){投稿日=center,＃=center}
 |~投稿日|~配信タイトル|h
@@ -215,10 +215,20 @@
 |10/25|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&color(#ccad00){【ストグラ】久しぶりに起床したなのさんの字が汚すぎて驚愕するチヨw【千代田ヨウラムチョBJローン切り抜き】}>>https://t.co/6Rt3Ud0Mlv]]|
 |10/27|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&color(#ccad00){【ストグラ】起床早々安城からチョケの尻拭いを押し付けられるチヨ【千代田ヨウ/ラムチョ/BJローン/切り抜き】}>>https://t.co/s610Xm1l7Q]]|
 |10/29|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&color(#ccad00){【ストグラ】ナイトプールを開いて不働めいから借金回収するBJローン【千代田ヨウ/ラムチョ/BJローン/切り抜き】}>>https://t.co/sHspOybEVg]]|
+
+#table_zebra(#f4f3ef, #fff, #f9b233)
+#endregion
+//
+***&font(#ff9933,b){&size(20){●} 11月～の切り抜き動画}
+#region(▶開く,open)
+▼閉じる
+#table_style(head=#F93:#FFF:center){投稿日=center,＃=center}
+|~投稿日|~配信タイトル|h
+|11/02|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&color(#ccad00){【ストグラ】救急隊に落ちて失意のどん底にいる大川さんを優しくメンケアするチヨw【千代田ヨウ/ラムチョ/BJローン/切り抜き】}>>https://t.co/RAfMT7LY7u]]|
 //|00/00|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&color(#ccad00){動画タイトル}>>ＵＲＬ]]|
 //|00/00|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&color(#ccad00){動画タイトル}>>ＵＲＬ]]|
 //|00/00|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&color(#ccad00){動画タイトル}>>ＵＲＬ]]|
-//|00/00|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&color(#ccad00){動画タイトル}>>ＵＲＬ]]|
+
 #table_zebra(#f4f3ef, #fff, #f9b233)
 #endregion
 //
