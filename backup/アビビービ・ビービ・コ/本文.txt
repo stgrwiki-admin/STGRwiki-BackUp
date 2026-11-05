@@ -1,13 +1,14 @@
 *&color(#FEA2AF){&icon_fa(fa-brands fa-octopus-deploy)}&space()&size(25px){&color(#A2CAF2){プロフィール}}&space()&color(#FEA2AF){&icon_fa(fa-brands fa-octopus-deploy)}
 //&image(ここに画像のURLを入力,x=200)
 //ここからプロフィール
-&image(prof2.jpg,y=300)
+&image(	アビビービ・ビービ・コ.png,y=350)
+
 #table_style(head=#fceef3:#76B0E8){}
 |~名前|~&icon_fa(fa-brands fa-octopus-deploy)|アビビービ・ビービ・コ&br()&small(){&openclose2(show=6日目までの名前){アビビー・ビービ・コ}}|
 |~出身地|~&icon_fa(fa fa-location-dot)|深海|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年8月19日 (&countup(2026/8/19,yd)経過)|
-|~職業|~&icon_fa(fa-solid fa-building-columns)|飲食店【[[サニーケバブ]]】体験 &small(){2026/08/19～}|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|飲食店【[[サニーケバブ]]】&small(){体験→店員 2026/08/19～}&br()カジノ【[[Vertex>V HOTEL]]】&small(){体験}&br()ボイストレーニング講師|
 |~所属|~&icon_fa(fa fa-users)|　|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@abychan|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
