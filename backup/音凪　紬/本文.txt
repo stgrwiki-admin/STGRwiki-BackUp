@@ -409,8 +409,8 @@
 
 #endregion(9月)
 //
-#region(10月,open)&bold(){10月}
-#areaedit
+#region(10月,close)&bold(){10月}
+//
 ****10/01 [[結局仕事仕事仕事 36日目>>https://www.youtube.com/live/PQ9kwZkiAyU]]
 #region(開く,close)閉じる
 -エピソード募集中
@@ -535,9 +535,19 @@
 #region(開く,close)閉じる
 -エピソード募集中
 #endregion
+//
+#endregion(10月)
+//
+#region(11月,open)&bold(){11月}
+#areaedit
+//
+****11/04 [[ちょっとバイトだけ 57日目>>https://www.youtube.com/watch?v=yYREzUkMWfk]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion
 
 #areaedit(end)
-#endregion(10月)
+#endregion(11月)
 //
 #co{
 ↓コピー用素材
@@ -604,8 +614,7 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(9月)
 //
-#region(10月,open)
-#areaedit
+#region(10月,close)
 #table_filter(){Twitch=hide}
 #table_style(head=center:#C8A2C8:#fff){配信日=right,#=center, Twitch=center}
 |~配信日|~#|~配信タイトル|~Twitch|~備考|h
@@ -632,12 +641,24 @@
 |26/10/30|56|[[借金返済のために、、、>>https://www.youtube.com/watch?v=SFJBlnY-8GE]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2914918077]]||
 //|26/10/dd|n|[[タイトル>>URL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]||
 #table_sorter{even=#F7F7F7,odd=fff}
-#areaedit(end)
+
 #endregion(10月)
+//
+#region(11月,open)
+#table_filter(){Twitch=hide}
+#table_style(head=center:#C8A2C8:#fff){配信日=right,#=center, Twitch=center}
+|~配信日|~#|~配信タイトル|~Twitch|~備考|h
+|26/11/04|57|[[ちょっとバイトだけ>>https://www.youtube.com/watch?v=yYREzUkMWfk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2919235900]]||
+//|26/11/dd|n|[[タイトル>>URL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#areaedit(end)
+
+#endregion(11月)
 //
 #co{
 
 #region(11月,open)
+#areaedit
 #table_filter(){Twitch=hide}
 #table_style(head=center:#C8A2C8:#fff){配信日=right,#=center, Twitch=center}
 |~配信日|~#|~配信タイトル|~Twitch|~備考|h
