@@ -60,10 +60,10 @@
 ***&color(#927eba){&icon_fa(fa fa-paw)} 寮の特徴と組み分け方式
 #table_style(head=#e0daec){名前=bold,イメージカラー=center,詳細=90%}
 |~名前|~イメージカラー|~使い魔|~詳細|h
-|MIDDLE:ジェイドラクーン寮|MIDDLE:&font(b,#8BA453){Green}|MIDDLE:たぬき|寮長：[[ノビー　ラング]]・[[葛城　司]]&br()知恵と柔軟性があり二面性を持つ|
-|MIDDLE:ユークリプス寮|MIDDLE:&font(b,#55A4CA){blue}|MIDDLE:いぬ|寮長：[[加賀　イズミ]]&br()誠実で忠誠心が高く潔癖|
-|MIDDLE:ラピネル寮|MIDDLE:&font(b,#f4a4b8){Pink}|MIDDLE:うさぎ|寮長：[[ももみ]]&br()向上心・好奇心・大きな飛躍|
-|MIDDLE:イグマイト寮|MIDDLE:&font(b,#F9B74B){Yellow}|MIDDLE:わし|寮長：[[鳥野　ぎん]]&br()自由と力・芸術に富んでいる|
+|MIDDLE:CENTER:&space()&ruby(JADE RACCOON){ジェイドラクーン}&space()|MIDDLE:&font(b,#8BA453){Green}|MIDDLE:たぬき|寮長：[[ノビー　ラング]]・[[葛城　司]]&br()知恵と柔軟性があり二面性を持つ|
+|MIDDLE:CENTER:&ruby(EUCLIPSE){ユークリプス}|MIDDLE:&font(b,#55A4CA){blue}|MIDDLE:いぬ|寮長：[[加賀　イズミ]]&br()誠実で忠誠心が高く潔癖|
+|MIDDLE:CENTER:&ruby(LAPINELLE){ラピネル}|MIDDLE:&font(b,#f4a4b8){Pink}|MIDDLE:うさぎ|寮長：[[ももみ]]&br()向上心・好奇心・大きな飛躍|
+|MIDDLE:CENTER:&ruby(IGUMITE){イグマイト}|MIDDLE:&font(b,#F9B74B){Yellow}|MIDDLE:わし|寮長：[[鳥野　ぎん]]&br()自由と力・芸術に富んでいる|
 #table_sorter{even=#fcfcfd,odd=#FFFFFF}
 
 **&font(25,#927eba){&font(35,#5a4498){従}業員情報 &icon_fa(fa fa-hat-wizard fa-bounce)}
@@ -149,7 +149,7 @@
 #table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=hide,備考=hide}
 #table_style(head=#e0daec){種類=center,価格=right,商品説明=90%,備考=90%}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
-|MIDDLE:&icon_fa(fa-solid fa-coffee)|ウィンガーディアムレヴァオサーム|10,000|2026/09/09|いい？「レヴァオサーム」よ。あなたのは「レヴァオサー」|きゅうきゅう（9月9日）の日 イベント時に販売|
+|MIDDLE:&icon_fa(fa-solid fa-coffee)|ウィンガーディアムレヴィオサーム|10,000|2026/09/09|いい？「レヴィオサーム」よ。あなたのは「レヴィオサー」|きゅうきゅう（9月9日）の日 イベント時に販売|
 |MIDDLE:&icon_fa(fa-solid fa-coffee)|キャラメルマジアート|5,000|2026/10/31|いい魔法使いは場所を選ばないのよ||
 |MIDDLE:&icon_fa(fa-solid fa-coffee)|商品名|価格|yyyy/mm/dd|説明|備考|
 
