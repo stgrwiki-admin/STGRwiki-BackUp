@@ -545,6 +545,12 @@
 #region(開く,close)閉じる
 -エピソード募集中
 #endregion
+//
+----
+****11/05 [[借金返済 58日目>>https://www.youtube.com/watch?v=fJbzcEP04p0]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion
 
 #areaedit(end)
 #endregion(11月)
@@ -645,10 +651,13 @@
 #endregion(10月)
 //
 #region(11月,open)
+#areaedit
 #table_filter(){Twitch=hide}
 #table_style(head=center:#C8A2C8:#fff){配信日=right,#=center, Twitch=center}
 |~配信日|~#|~配信タイトル|~Twitch|~備考|h
 |26/11/04|57|[[ちょっとバイトだけ>>https://www.youtube.com/watch?v=yYREzUkMWfk]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2919235900]]||
+|26/11/05|58|[[借金返済>>https://www.youtube.com/watch?v=fJbzcEP04p0]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2920167258]]||
+
 //|26/11/dd|n|[[タイトル>>URL]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>URL]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #areaedit(end)
@@ -658,7 +667,6 @@
 #co{
 
 #region(11月,open)
-#areaedit
 #table_filter(){Twitch=hide}
 #table_style(head=center:#C8A2C8:#fff){配信日=right,#=center, Twitch=center}
 |~配信日|~#|~配信タイトル|~Twitch|~備考|h
