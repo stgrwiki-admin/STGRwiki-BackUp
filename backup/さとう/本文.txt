@@ -9,7 +9,7 @@
 |~&ruby(BIRTH DATE){誕生日}|~&icon_fa(fa fa-birthday-cake fa-fw)|06月09日&co(){yyyy年06月09日 (&countup(yyyy/mm/dd,y)歳)}|
 |~&ruby(MOVED-IN){転入日}|~&icon_fa(fa fa-plane fa-fw)|2023年11月17日 (&countup(2023/11/17,yd)経過)|
 |~&ruby(JOB){職業}|~&icon_fa(fa fa-suitcase fa-fw)|&small(){LIVE&BAR}&b(){【&ruby(コンフェイト){[[Confate]]}】}&small(){店長：2026/08/23 オープン}&br()|
-|~&ruby(ORGANIZATIONS){所属}|~&icon_fa(fa fa-sitemap fa-fw)|&small(){&openclose2(show=過去の所属▼){&br()&nobold(){芸能プロダクション「[[シャンクズプロモーション]]」}}}|
+|~&ruby(ORGANIZATIONS){所属}|~&icon_fa(fa fa-sitemap fa-fw)|&small(){ギャング}&b(){【[[餡ブレラ]]】}&small(){2026年11月6日 (&countup(2026/11/6,yd))}&br()&small(){&openclose2(show=過去の所属▼){&br()&nobold(){芸能プロダクション「[[シャンクズプロモーション]]」}}}|
 |~&ruby(STAGENAME){アーティスト活動名}|~&icon_fa(fa fa-user fa-fw)|さとう・ざ・ろっく　/　SATO THE &font(#ff1493){R}OCK!|
 |~TwiX|~&icon_fa(fa fa-twitter fa-fw)|@sato|
 |~&ruby(PLAYER){プレイヤー}|~&icon_fa(fa fa-address-card-o fa-fw)|SUGAROCK|
@@ -84,12 +84,13 @@
 #table_sorter{even=#FFFDF6,odd=#FFFFFF}
 
 *ギャラリー
+#region(開く)
 &youtube(https://youtu.be/g0RoVRpYZCU?si=cQfOAOFTxZ4xEyLJ,width=400,height=225)
 &youtube(https://youtu.be/D96YGTI1UOU?si=a2JfwgB6kalVb-8_,width=400,height=225)
 &youtube(https://youtu.be/nZLzxENW2KQ?si=cwHqoOub8MH5R3s_,width=400,height=225)
 &youtube(https://youtu.be/JgvNFmYiyHw?si=-VN0dxJIOwolDygI,width=400,height=225)
 &youtube(https://youtu.be/ZLV8X1uHh-0?si=zsXoEjqlA0R1UaD1,width=400,height=225)
-
+#endregion
 
 *エピソード
 ***2023年
@@ -147,7 +148,7 @@
 
 #endregion(11月)
 
-#region(12月,open)
+#region(12月)
 ***12月
 ****12/2 #3 [[SUGAROCK | #ストグラ 「さとう」DAY03「ツナサンドを頼む。耳は落としてくれ」 >>https://www.twitch.tv/videos/1995788099]]
 #region(開く)閉じる
@@ -347,7 +348,7 @@
 #table_sorter{even=#f7f7f7,odd=fff}
 #endregion
 ***2024年
-#region(1月,open)
+#region(1月)
 #table_style(head=center:#e6e6fa){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |1/3||[[SUGAROCK |ストグラ「さとう」第一章振り返り！！>>https://www.twitch.tv/videos/2034415207]]||
