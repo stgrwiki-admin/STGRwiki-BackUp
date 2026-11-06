@@ -15,7 +15,7 @@
 |~転入日|2023年2月23日（&countup(2023/02/23,yd)経過）|2025年12月19日（&countup(2025/12/19,yd)経過）|
 |~身長|>|168cm|
 |~体重|>|68kg|
-|~職業|[[個人医]]&br()[[魔法少女カフェ「RitUal:」>RitUal:]]人事担当&br()メカニック[[9055]]社員&size(11){※復職}&br()[[ストグラ大学]]副学長&size(11){※非ジョブ}|救急「[[ロスサントス救急救命隊]]」&br()&small(){・(5) Captain / 経理部 部長補佐}&br()メカニック「[[LUNA Garage]]」&br()飲食店「[[魔法学校グリントアカデミー]]」&small(){予定}&br()&small(){&openclose2(show=▼過去の職業){&br()&small(){メカニック「[[JTS>>ジョアンナテクノサービス]]」&br()}}}|
+|~職業|[[個人医]]&br()[[魔法少女カフェ「RitUal:」>RitUal:]]人事担当&br()メカニック[[9055]]社員&size(11){※復職}&br()[[ストグラ大学]]副学長&size(11){※非ジョブ}|救急「[[ロスサントス救急救命隊]]」&br()&small(){・(5) Captain / 経理部 部長補佐}&br()メカニック「[[LUNA Garage]]」&br()飲食店「[[魔法学校グリントアカデミー]]」&br()&small(){&openclose2(show=▼過去の職業){&br()&small(){メカニック「[[JTS>>ジョアンナテクノサービス]]」&br()}}}|
 |~副職|　|5016番地「ガソリンスタンド経営」&small(){2026/7/29 経営権獲得}|
 |~所属|臨時裁判官&br()レースチーム"Blaze to Rise"&br()[[ストグラ大学]]&br()魔法少女サークル(グリーン)&br()イベント実行委員会&br()[[公認勝手にレース協会]]&br()[[エンペラーAge]]|市役所職員「裁判官」&br()宝探し実行委員会|
 |~TwiX|&s(){@kuzushiro_low}&br()@kuzushiro_desu|@kuzushirodesu|
@@ -45,6 +45,8 @@
 ***&underdot(#60EE3C,4px){&font(16,#444){Season2}}
 #region(開く,open)閉じる
 ・裁判官
+・&s(){メカニック[[JTS]]}
+・メカニック[[LUNA Garage]]社員
 ・[[ロスサントス救急救命隊]]
 ・[[魔法学校グリントアカデミー]]
 #endregion
@@ -72,7 +74,8 @@
 #endregion
 ***&underdot(#60EE3C,4px){&font(16,#444){Season2}}
 #region(開く,open)閉じる
-
+・恋人ができないことを住民にイジられている。
+・[[魔法学校コンセプトカフェ>>魔法学校グリントアカデミー]]のハウジングを担当。某魔法学校映画の世界観を再現し絶賛されている。
 #endregion
 
 **裁判官として(臨時裁判官時代を含む)
@@ -760,5 +763,22 @@ Coming soon...
 #table_autoincrement(){label=#,start=1}
 #endregion(#1〜20)
 #endregion(切り抜き動画)
+
+#right(){&link_up(▲ページTOP)}
+*&size(160%){🎮} &color(#60EE3C){ストグラ外コラボ} &size(160%){🎮}
+#co{
+//***ゲーム
+#region(開く,open)
+#table_style(head=center:#66CC00,hover=#FFF:#444:bold){投稿日=right}
+|~投稿日|~タイトル|~備考|h
+
+//|yyyy/mm/dd|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[タイトル>>URL]]||
+#table_autoincrement(){label=#,start=1}
+#endregion(ゲーム)
+}
+***リアルイベント
+#region(一覧,open)
+
+#endregion(リアルイベント)
 
 #right(){&link_up(▲ページTOP)}

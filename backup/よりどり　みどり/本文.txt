@@ -62,9 +62,8 @@
 **職場
 ***&underdot(2px,#56754B){&i(){season1}}
 &icon_fa(fa fa-wrench)&space()&font(b,15){JTS(ジョアンナテクノサービス)}
-#openclose(show=入社経緯){
-JTS体験開始
-}
+#region(入社経緯)&b(){入社経緯}
+#endregion
 #region(関係者)&b(){関係者}
 #table_style(head=90%:#ED7E15:#FFF){名前=90%,愛称=90%,個別エピソード=90%}
 |~名前|~愛称|~個別エピソード|h
