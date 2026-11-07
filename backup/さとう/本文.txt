@@ -9,7 +9,7 @@
 |~&ruby(BIRTH DATE){誕生日}|~&icon_fa(fa fa-birthday-cake fa-fw)|06月09日&co(){yyyy年06月09日 (&countup(yyyy/mm/dd,y)歳)}|
 |~&ruby(MOVED-IN){転入日}|~&icon_fa(fa fa-plane fa-fw)|2023年11月17日 (&countup(2023/11/17,yd)経過)|
 |~&ruby(JOB){職業}|~&icon_fa(fa fa-suitcase fa-fw)|&small(){LIVE&BAR}&b(){【&ruby(コンフェイト){[[Confate]]}】}&small(){店長：2026/08/23 オープン}&br()|
-|~&ruby(ORGANIZATIONS){所属}|~&icon_fa(fa fa-sitemap fa-fw)|&small(){ギャング}&b(){【[[餡ブレラ]]】}&small(){2026年11月6日 (&countup(2026/11/6,yd))}&br()&small(){&openclose2(show=過去の所属▼){&br()&nobold(){芸能プロダクション「[[シャンクズプロモーション]]」}}}|
+|~&ruby(ORGANIZATIONS){所属}|~&icon_fa(fa fa-sitemap fa-fw)|&small(){ギャング}&b(){【&ruby(anbrella){[[餡ブレラ]]}】}&small(){2026年11月6日 (&countup(2026/11/6,yd))}&br()&small(){&openclose2(show=過去の所属▼){&br()&nobold(){芸能プロダクション&b(){【&ruby(SHANKZ PROMOTION){[[シャンクズプロモーション]]}】}}}}|
 |~&ruby(STAGENAME){アーティスト活動名}|~&icon_fa(fa fa-user fa-fw)|さとう・ざ・ろっく　/　SATO THE &font(#ff1493){R}OCK!|
 |~TwiX|~&icon_fa(fa fa-twitter fa-fw)|@sato|
 |~&ruby(PLAYER){プレイヤー}|~&icon_fa(fa fa-address-card-o fa-fw)|SUGAROCK|
