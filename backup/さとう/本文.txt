@@ -1,10 +1,10 @@
 *プロフィール
-|&image(さとう1.jpg,y=400)|&image(さとう_新春シャンプロショー.jpg,y=400)|
+|&image(sato2.jpeg,y=400)|&image(さとう_新春シャンプロショー.jpg,y=400)|
 
 //ここからプロフィール
-#table_style(head=#000000:#ff0000, hover=#000000:#EFEFEF:bold)
+#table_style(head=center:#ff1493:#FFFFFF, hover=#000000:#EFEFEF:bold)
 |>|>|~&ruby(ROCKSTAR){ロックスター}|h
-|~&ruby(NAME){名前}|~&icon_fa(fa fa-user fa-fw)|&ruby(){さとう}|
+|~&ruby(NAME){名前}|~&icon_fa(fa fa-user fa-fw)|&bold(){さとう}|
 |~&ruby(BIRTHPLACE){出身地}|~&icon_fa(fa fa-map-marker fa-fw)|惑星ロックスター|
 |~&ruby(BIRTH DATE){誕生日}|~&icon_fa(fa fa-birthday-cake fa-fw)|06月09日&co(){yyyy年06月09日 (&countup(yyyy/mm/dd,y)歳)}|
 |~&ruby(MOVED-IN){転入日}|~&icon_fa(fa fa-plane fa-fw)|2023年11月17日 (&countup(2023/11/17,yd)経過)|
@@ -43,28 +43,29 @@
 #contents(fromhere=true,level=2)
 #endregion
 *基本情報
+***&underdot(#ff1493,2px){&size(20){&icon_fa(fa fa-user-o)} プロフィール}
+・挨拶は「さとうが来た!」
+・日本語と英語を話す。
+・母語は日本語のはずだが、たまに日本語が分からなくなる時がある。
+
 ***&size(110%){&bgcolor(#ff1493){&nbsp()&font(#ffffff,90%){　Season1}&nbsp(5)}}
-・挨拶は「さとうが来た」
-・ロックスターになる為にロスサントスに来た
-・母語は日本語のはずだがたまに日本語がわからなくなる時がある
-・日本語と英語を話す
+#region(開く)
+・ロックスターになる為にロスサントスに来た。
 ・レギオンで野宿していたが、[[大川>>大　川]]にA2の社宅の鍵をもらい、A2が実家になった。
-
+#endregion
 ***&size(110%){&bgcolor(#ff1493){&nbsp()&font(#ffffff,90%){　Season2}&nbsp(5)}}
-・転送の影響により記憶を失っていたさとう。彼女のことを覚えている友人たちの手を借りつつ新たな街での生活を開始した。
-
-
-**ロックスター「さとう・ざ・ろっく」
+・転送の影響により記憶を失っていたさとう。&br()彼女のことを覚えている友人たちの手を借りつつ新たな街での生活を開始した。
+*活動内容
+***&underdot(#ff1493,2px){&size(20){&icon_fa(fa-solid fa-guitar)} 音楽活動}
+***&size(110%){&bgcolor(#ff1493){&nbsp()&font(#ffffff,90%){　Season1}&nbsp(5)}}
+#region(開く)&font(b,16px,#444){ロックスター「さとう・ざ・ろっく」}
 ・夢であるロックスターを目指し、ロスサントスで歌手活動をしている。
 ・[[シャンクズプロモーション]]に所属している。
 ・・すさまじい歌唱力で１発で[[シャンクズプロモーション]]に採用された。
 ・・契約の際にはシャンクズへ「打率は４割をキープします（?）」という誓いを立てた。
 ・初期は本名で活動していたが、自身の1stLIVEに合わせて、活動名を「さとう・ざ・ろっく」&small(){（英語表記：SATO THE &font(#ff1493){R}OCK!）}に変更している。
-
 ・24/05/18に1stライブ「SATO THE &font(#ff1493){R}OCK!」を開催。&br()チケットは50枚すべて完売し、グッズも4億以上売り上げる大盛況となった。
-
-
-***活動実績
+****活動実績
 &small(){※詳細は「[[シャンクズプロモーション]]」参照}
 #table_style(head=center:#ff1493:#FFFFFF)
 |~イベント名|~日付|~歌唱曲|~備考|
@@ -79,19 +80,44 @@
 |「新春シャンプロビンゴ大会」|2025/02/07|・Wherever You Are|[[ツクヨミ　レオ]]とのデュエット[[(&font(#DA1725){&icon_fa(fa fa-youtube-play)}動画)>>https://youtu.be/iYBcBJBko4Y?si=IRGLvdPjIemrdV9v&t=1093]]|
 |「超激動 -SUPER GEKIDO-」|2025/04/12_13|・The Hero (DAY1)&br()・Last Train Home (DAY2)|リアルイベント|
 |「[[SUMMER FESTIVAL 2025>シャンクズプロモーション/LIVE／EVENT#SUMMERFESTIVAL2025]]」|2025/08/16|・The Hero|夏フェスの大トリ|
-|「[[新春シャンプロショー>シャンクズプロモーション/LIVE／EVENT#新春シャンプロショー]]」|2026/01/30|・Last Train Home|[[(&font(#DA1725){&icon_fa(fa fa-youtube-play)}動画)>>https://youtu.be/Umj0dP5B4LE?si=10bgd_zJ7w1pD8kR]]|
 #table_autoincrement()
 #table_sorter{even=#FFFDF6,odd=#FFFFFF}
-
-*ギャラリー
-#region(開く)
-&youtube(https://youtu.be/g0RoVRpYZCU?si=cQfOAOFTxZ4xEyLJ,width=400,height=225)
-&youtube(https://youtu.be/D96YGTI1UOU?si=a2JfwgB6kalVb-8_,width=400,height=225)
-&youtube(https://youtu.be/nZLzxENW2KQ?si=cwHqoOub8MH5R3s_,width=400,height=225)
-&youtube(https://youtu.be/JgvNFmYiyHw?si=-VN0dxJIOwolDygI,width=400,height=225)
-&youtube(https://youtu.be/ZLV8X1uHh-0?si=zsXoEjqlA0R1UaD1,width=400,height=225)
+#endregion
+//
+//-------------------‐----------------------------------
+//
+***&size(110%){&bgcolor(#ff1493){&nbsp()&font(#ffffff,90%){　Season2}&nbsp(5)}}
+****&space(2)歌唱・イベント
+#region(2026年,open)#div(width=300px,bgcolor=#F5F5F5){&space()&font(16px,b){2026年}}
+#size(90%){#table_filter(){No.=show,日付=show,イベント名=show,歌唱曲=show,備考=hide}
+#table_style(hover=#FFFFEB,head=center:#ff1493:#FFFFFF){名前=bold}
+|~日付|~イベント名|~歌唱曲|~備考|h
+|01/30|[[新春シャンプロショー>シャンクズプロモーション/LIVE／EVENT#新春シャンプロショー]]|Last Train Home|[[(&font(#DA1725){&icon_fa(fa fa-youtube-play)}動画)>>https://youtu.be/Umj0dP5B4LE?si=10bgd_zJ7w1pD8kR]]|
+|06/27|レンタルライブハウス公開記念ライブ||[[Confate]]建築担当の[[閃光寺　亜夢]]が建築したレンタルライブハウスで歌った。|
+|08/23|LIVEHOUSE&BAR&br()OPENING EVENT|||
+|09/13|レース＆歌イベント&br()『ムーンカップ』||レース開始前に歌った。|
+|10/04|うさたく初心者卒業|グランドエスケープ (feat. 三浦透子) / RADWIMPS|うさたくの初心者マークが外れたことを祝い歌った。|
+|10/25|ロスコレ|||
+|11/01|[[ウェスカー>アルフォート　ウェスカー]]Birthday|Something Just Like This-The Chainsmokers & Coldplay|くるーどがオークションで購入していたさとうの歌唱券を使用して&br()サプライズでウェスカーの好きな曲を誕生日にプレゼントした。|
+|11/06|[[ゴン>稲葉　ゴン]]Birthday|Happy Birthday to You|餡ブレラがサプライズでゴンを祝うために依頼された。|
+#table_autoincrement(){label=No.}
+#table_sorter{even=#F7F7F7,odd=#FFF}}
 #endregion
 
+***&underdot(#ff1493,2px){&size(20){&icon_fa(fa-solid fa-martini-glass-citrus)} Confate}
+-
+***&underdot(#ff1493,2px){&size(20){&icon_fa(fa-solid fa-cubes-stacked)} 黒さとう}
+-餡ブレラ構成員。
+-
+*ギャラリー
+***&icon_fa(fa fa-youtube-play)&space()&underdot(#99000D,2px){音楽・動画}
+&small(){*画像をクリックで再生}
+#size(75%){#table_color(head=#ff1493)
+|&youtube(https://youtu.be/g0RoVRpYZCU?si=cQfOAOFTxZ4xEyLJ,width=400,height=225)|&youtube(https://youtu.be/D96YGTI1UOU?si=a2JfwgB6kalVb-8_,width=400,height=225)|&youtube(https://youtu.be/nZLzxENW2KQ?si=cwHqoOub8MH5R3s_,width=400,height=225)|h
+|&youtube(https://youtu.be/JgvNFmYiyHw?si=-VN0dxJIOwolDygI,width=400,height=225)|&youtube(https://youtu.be/ZLV8X1uHh-0?si=zsXoEjqlA0R1UaD1,width=400,height=225)|&youtube(https://www.youtube.com/watch?v=nClsEpmbwCQ,width=400,height=225)|h}
+***&icon_fa(fa-solid fa-shirt)&space()&underdot(#99000D,2px){服・衣装}
+#region(開く)
+#endregion
 *エピソード
 ***2023年
 #region(11月)
