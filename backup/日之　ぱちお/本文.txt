@@ -458,8 +458,8 @@
 |&blankimg(S2_護衛.png,y=200,x=100)|&blankimg(S2_変装_02.png,y=200,x=100)|&blankimg(S2_オオカミ1.png,y=200,x=100)|&blankimg(S2_オオカミ.png,y=200,x=100)|&blankimg(S2_オオカミ3.png,y=200,x=100)|
 //
 #table_style(head=center:#88ccff)
-|~シンバ|~オオカミ6|~オオカミ 忍者|h
-|&blankimg(S2_シンバ.png,y=200,x=100)|&blankimg(S2_オオカミ6.png,y=200,x=100)|&blankimg(S2_オオカミ 忍者.png,y=200,x=100)|
+|~シンバ|~オオカミ6|~オオカミ 忍者|~配達|h
+|&blankimg(S2_シンバ.png,y=200,x=100)|&blankimg(S2_オオカミ6.png,y=200,x=100)|&blankimg(S2_オオカミ 忍者.png,y=200,x=100)|&blankimg(S2_配達.png,y=200,x=100)|
 //&blankimg(S2_.png,y=200,x=100)|
 &small(){クリック・タップで拡大}
 #endregion
@@ -1201,13 +1201,12 @@
 #region(開く,open)閉じる
 #table_style(head=center:#88ccff){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~&font(#6441A4){&icon_fa(fa fa-twitch)}&nbsp()Twitch|~&font(#FF0000){&icon_fa(fa fa-youtube)}&nbsp()YouTube|~備考|h
-|11/01|128|日之ぱちお 128日目 花屋『ヴァルピナス』 24日目 家を買うんだ|[[Twitch>>https://www.twitch.tv/videos/2916553858]]|||
+|11/01|128|日之ぱちお 128日目 花屋『ヴァルピナス』 24日目 家を買うんだ|[[Twitch>>https://www.twitch.tv/videos/2916553858]]||ウィルトン家|
 |10/04|129|&font(8pt){日之ぱちお 129日目 花屋『ヴァルピナス』 25日目 誕生日をどのように祝うのか…}|[[Twitch>https://www.twitch.tv/videos/2919202603]],[[2>>https://www.twitch.tv/videos/2919210666]]|[[YouTube>>https://www.youtube.com/watch?v=i46MaxYjr1A]](数分)|まる誕生日|
-|11/05|130|&font(8pt){日之ぱちお 130日目 花屋『ヴァルピナス』 26日目 君たちはぱちおの何も分かっていない}|[[Twitch>>https://www.twitch.tv/videos/2920109592]]|||
-|11/06|131|日之ぱちお 131日目 花屋『ヴァルピナス』 27日目 お金稼ぎチャンネル|[[Twitch>>https://www.twitch.tv/videos/2921009104]]|[[YouTube>>https://www.youtube.com/watch?v=m2BmNEyP-NQ]]||
-|11/07|132|日之ぱちお 132日目 花屋『ヴァルピナス』 28日目 目標金額を表示します|[[Twitch>>https://www.twitch.tv/videos/2921981746]]|[[YouTube>>https://www.youtube.com/watch?v=j5D-4OsEC9U]]||
-|11/08|133|&font(8pt){日之ぱちお 133日目 花屋『ヴァルピナス』 29日目  金を稼ぐのがその人の為だと思ってる}|[[Twitch>>https://www.twitch.tv/videos/2922998130]]|[[YouTube>>https://www.youtube.com/watch?v=QhW6JH_kTbU]]| |
-
+|11/05|130|&font(8pt){日之ぱちお 130日目 花屋『ヴァルピナス』 26日目 君たちはぱちおの何も分かっていない}|[[Twitch>>https://www.twitch.tv/videos/2920109592]]||素材集め、収穫祭|
+|11/06|131|日之ぱちお 131日目 花屋『ヴァルピナス』 27日目 お金稼ぎチャンネル|[[Twitch>>https://www.twitch.tv/videos/2921009104]]|[[YouTube>>https://www.youtube.com/watch?v=m2BmNEyP-NQ]]|ルナガレに素材卸し|
+|11/07|132|日之ぱちお 132日目 花屋『ヴァルピナス』 28日目 目標金額を表示します|[[Twitch>>https://www.twitch.tv/videos/2921981746]]|[[YouTube>>https://www.youtube.com/watch?v=j5D-4OsEC9U]]|リサセン、裁判傍聴|
+|11/08|133|&font(8pt){日之ぱちお 133日目 花屋『ヴァルピナス』 29日目  金を稼ぐのがその人の為だと思ってる}|[[Twitch>>https://www.twitch.tv/videos/2922998130]]|[[YouTube>>https://www.youtube.com/watch?v=QhW6JH_kTbU]]|置き配、DEP初納金|
 
 #table_sorter{even=#f7f7f7,odd=fff}
 #endregion(11月)
