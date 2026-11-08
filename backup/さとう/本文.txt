@@ -1,42 +1,23 @@
 *プロフィール
 |&image(sato2.jpeg,y=400)|&image(さとう_新春シャンプロショー.jpg,y=400)|
-
 //ここからプロフィール
+#table_filter(){Season1=hide,Season2=show}
 #table_style(head=center:#ff1493:#FFFFFF, hover=#000000:#EFEFEF:bold)
-|>|>|~&ruby(ROCKSTAR){ロックスター}|h
-|~&ruby(NAME){名前}|~&icon_fa(fa fa-user fa-fw)|&bold(){さとう}|
-|~&ruby(BIRTHPLACE){出身地}|~&icon_fa(fa fa-map-marker fa-fw)|惑星ロックスター|
-|~&ruby(BIRTH DATE){誕生日}|~&icon_fa(fa fa-birthday-cake fa-fw)|06月09日&co(){yyyy年06月09日 (&countup(yyyy/mm/dd,y)歳)}|
-|~&ruby(MOVED-IN){転入日}|~&icon_fa(fa fa-plane fa-fw)|2023年11月17日 (&countup(2023/11/17,yd)経過)|
-|~&ruby(JOB){職業}|~&icon_fa(fa fa-suitcase fa-fw)|&small(){LIVE&BAR}&b(){【&ruby(コンフェイト){[[Confate]]}】}&small(){店長：2026/08/23 オープン}&br()|
-|~&ruby(ORGANIZATIONS){所属}|~&icon_fa(fa fa-sitemap fa-fw)|&small(){ギャング}&b(){【&ruby(anbrella){[[餡ブレラ]]}】}&small(){2026年11月6日 (&countup(2026/11/6,yd))}&br()&small(){&openclose2(show=過去の所属▼){&br()&nobold(){芸能プロダクション&b(){【&ruby(SHANKZ PROMOTION){[[シャンクズプロモーション]]}】}}}}|
-|~&ruby(STAGENAME){アーティスト活動名}|~&icon_fa(fa fa-user fa-fw)|さとう・ざ・ろっく　/　SATO THE &font(#ff1493){R}OCK!|
-|~TwiX|~&icon_fa(fa fa-twitter fa-fw)|@sato|
-|~&ruby(PLAYER){プレイヤー}|~&icon_fa(fa fa-address-card-o fa-fw)|SUGAROCK|
-|~&ruby(ANNOUNCEMENT){告知等}|~&icon_fa(fa fa-bullhorn fa-fw)|&tt(){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[X&space()(旧Twitter)>>https://twitter.com/SUGAROCK_jp]]|
-|~&ruby(CHANNEL){配信場所}|~&icon_fa(fa fa-video-camera fa-fw)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/c/SUGAROCK_Ch]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/sugarock_jp]]|
-|~&ruby(CHANNEL){切り抜き動画}|~&icon_fa(fa fa-video-camera fa-fw)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTubeサブch再生リスト}>>https://youtube.com/playlist?list=PLh_vAV2rAHbfhmJ9sPQYkZPrGLPLE9CVN&si=NEGq2Eo9vgYCQtMT]]|
-//|~格闘流派|~&icon_fa(fa fa-hand-back-fist)|四皇流|
-//
-
-#region(Season1情報)
-#table_style(head=#000000:#ff0000, hover=#000000:#EFEFEF:bold)
-|>|>|~&ruby(ROCKSTAR){ロックスター}|h
-|~&ruby(NAME){名前}|~&icon_fa(fa fa-user fa-fw)|&ruby(){さとう}|
-|~&ruby(BIRTHPLACE){出身地}|~&icon_fa(fa fa-map-marker fa-fw)|惑星ロックスター|
-|~&ruby(BIRTH DATE){誕生日}|~&icon_fa(fa fa-birthday-cake fa-fw)|06月09日&co(){yyyy年06月09日 (&countup(yyyy/mm/dd,y)歳)}|
-|~&ruby(MOVED-IN){転入日}|~&icon_fa(fa fa-plane fa-fw)|2023年11月17日 (&countup(2023/11/17,yd)経過)|
-|~&ruby(JOB){職業}|~&icon_fa(fa fa-suitcase fa-fw)|海上レストラン【[[Urashima]]】&br()[[シャンクズプロモーション]]所属タレント&br()|
-|~&ruby(ORGANIZATIONS){所属}|~&icon_fa(fa fa-sitemap fa-fw)|&nobold(){芸能プロダクション「[[シャンクズプロモーション]]」12/24~}|
-|~&ruby(STAGENAME){アーティスト活動名}|~&icon_fa(fa fa-user fa-fw)|さとう・ざ・ろっく　/　SATO THE &font(#ff1493){R}OCK!|
-|~格闘流派|~&icon_fa(fa fa-hand-back-fist)|四皇流|
-|~TwiX|~&icon_fa(fa fa-twitter fa-fw)|さとう @sato|
-|~&ruby(PLAYER){プレイヤー}|~&icon_fa(fa fa-address-card-o fa-fw)|SUGAROCK|
-|~&ruby(ANNOUNCEMENT){告知等}|~&icon_fa(fa fa-bullhorn fa-fw)|&tt(){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[X&space()(旧Twitter)>>https://twitter.com/SUGAROCK_jp]]|
-|~&ruby(CHANNEL){配信場所}|~&icon_fa(fa fa-video-camera fa-fw)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/c/SUGAROCK_Ch]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/sugarock_jp]]|
-|~&ruby(CHANNEL){切り抜き動画}|~&icon_fa(fa fa-video-camera fa-fw)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTubeサブch再生リスト}>>https://youtube.com/playlist?list=PLh_vAV2rAHbfhmJ9sPQYkZPrGLPLE9CVN&si=NEGq2Eo9vgYCQtMT]]|
-//&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>ここにチャンネルのURLを入力]]
-#endregion(Season1)
+|>|>|>|~&ruby(ROCKSTAR){ロックスター}|h
+|~シーズン|~&icon_fa(fa fa-calendar)|Season1|Season2|h
+|~&ruby(NAME){名前}|~&icon_fa(fa fa-user fa-fw)|>|&bold(){さとう}|
+|~&ruby(BIRTHPLACE){出身地}|~&icon_fa(fa fa-map-marker fa-fw)|>|惑星ロックスター|
+|~&ruby(BIRTH DATE){誕生日}|~&icon_fa(fa fa-birthday-cake fa-fw)|>|06月09日&co(){yyyy年06月09日 (&countup(yyyy/mm/dd,y)歳)}|
+|~&ruby(MOVED-IN){転入日}|~&icon_fa(fa fa-plane fa-fw)|>|2023年11月17日 (&countup(2023/11/17,yd)経過)|
+|~&ruby(JOB){職業}|~&icon_fa(fa fa-suitcase fa-fw)|海上レストラン【[[Urashima]]】&br()[[シャンクズプロモーション]]所属タレント&br()|&small(){LIVE&BAR}&b(){【&ruby(コンフェイト){[[Confate]]}】}&small(){店長：2026/08/23 オープン}&br()|
+|~&ruby(ORGANIZATIONS){所属}|~&icon_fa(fa fa-sitemap fa-fw)|&nobold(){芸能プロダクション「[[シャンクズプロモーション]]」12/24~}|&small(){ギャング}&b(){【&ruby(anbrella){[[餡ブレラ]]}】}&small(){2026年11月6日 (&countup(2026/11/6,yd))}&br()&small(){&openclose2(show=過去の所属▼){&br()&nobold(){芸能プロダクション&b(){【&ruby(SHANKZ PROMOTION){[[シャンクズプロモーション]]}】}}}}|
+|~&ruby(STAGENAME){アーティスト活動名}|~&icon_fa(fa fa-user fa-fw)|>|さとう・ざ・ろっく　/　SATO THE &font(#ff1493){R}OCK!|
+|~格闘流派|~&icon_fa(fa fa-hand-back-fist)|四皇流||
+|~TwiX|~&icon_fa(fa fa-twitter fa-fw)|>|@sato|
+|~&ruby(PLAYER){プレイヤー}|~&icon_fa(fa fa-address-card-o fa-fw)|>|SUGAROCK|
+|~&ruby(ANNOUNCEMENT){告知等}|~&icon_fa(fa fa-bullhorn fa-fw)|>|&tt(){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[X&space()(旧Twitter)>>https://twitter.com/SUGAROCK_jp]]|
+|~&ruby(CHANNEL){配信場所}|~&icon_fa(fa fa-video-camera fa-fw)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/c/SUGAROCK_Ch]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/sugarock_jp]]|
+|~&ruby(CHANNEL){切り抜き動画}|~&icon_fa(fa fa-video-camera fa-fw)|>|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTubeサブch再生リスト}>>https://youtube.com/playlist?list=PLh_vAV2rAHbfhmJ9sPQYkZPrGLPLE9CVN&si=NEGq2Eo9vgYCQtMT]]|
 //職業を追加・更新した場合、「 https://w.atwiki.jp/streamergta5/pages/20.html#id_ab0a5ace 」（職業一覧->就業者一覧）等への追加・更新のご協力をお願いいたします。
 
 #region(目次を開く,open)目次
