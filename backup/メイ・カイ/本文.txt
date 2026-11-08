@@ -134,23 +134,32 @@
 |~普段着|~うかれぽんち|~犯罪用|~犯罪用|
 #endregion(女装ここまで)
 
-****&font(25px,#F18795){&icon_fa(fa-regular fa-heart)} メイ・カイ
+****&font(25px,#F18795){&icon_fa(fa-regular fa-heart)} メイ・カイ（すっぴん）
 #region(開く)閉じる
 #table_style(head=center:#F18795:#FFF)
 
 |~&size(36){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|~&size(36){&br()&space(3)&color(white){&icon_fa(fa fa-person-circle-question)}&space(3)}|
-|~（服装登録名）|~（服装登録名）|
+|~メイカイ|~ハンザイ|
 #endregion(カテゴリここまで)
 
 //■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 *&font(#F18795){&icon_fa(fa-solid fa-users)} 人間関係 
 //
+***&size(25){&color(#4f455c){&icon_fa(fa-solid fa-repeat)}} RiPRAY
+#region(close,開く)閉じる
+|CENTER:BGCOLOR(#c0c0c0):&color(#666666){キャラクター名}|CENTER:BGCOLOR(#f5f5f5):&color(#666666){詳細}|
+|[[小峯　れい>小峯　玲]]|[[RiPRAY]]のボス。初心者の頃からよく遊びに行っていた[[魔女の酒場]]の店員さん。&br()出会った頃はギャングに所属していない黒市民だと言っていたが、&br()久し振りに会った際に自組織のギャングを立ち上げてボスになったと教えてくれた。&br()出会った頃から街での過ごし方や黒市民のことを色々教えてくれたり、撃ち合いの現場にも誘ってくれる。&br()様変わりしていた街の情勢も教えてもらいながら、長らくお世話になっている。|
+|[[ガヴァイ　アッカンマン]]|[[RiPRAY]]のメンバー。小峯さんを慕っている犯罪者で、元警察官の経歴を持つ。&br()小峯さんの組織旧DERAY時代に知り合って、一緒に活動しているお仲間。 &br()転送後の街でも引き続き一緒に活動している。 |
+|[[柳田　ライアン]]|[[RiPRAY]]のメンバー。元MOZU構成員で、ハードボイルドな見た目なものの、その実、お茶目な先輩。&br()転送された際に、お嫁さんである[[ノアチェン>ノア　チェンバー]]さんのことを忘れてしまっていると聞いていたが、&br()思い出して結婚式を挙げると聞いた。 |
+|[[デヤンス>小者　デヤンス]]|[[RiPRAY]]のメンバー。ホットドッグ屋さん。普段犯罪はしないから身内であることは、秘密。&br()久々に起きてみんなに合流したら、その間にお仲間になっていてびっくり。&br()街がピエロ騒動で戦っていた時、デヤンスさんは転送された別の街でバット勝手にゾンビと戦っていたらしい。|
+//|[[名前]]|詳細|
+//|[[名前]]|詳細|
+#endregion()
+
+//
 ***&size(25){&color(#4f455c){&icon_fa(fa-solid fa-user)}} 関わり深い人物
 #region(close,開く)閉じる
 |CENTER:BGCOLOR(#c0c0c0):&color(#666666){キャラクター名}|CENTER:BGCOLOR(#f5f5f5):&color(#666666){詳細}|
-|[[小峯　れい>小峯　玲]]|[[DERAY]]のボス。初心者の頃からよく遊びに行っていた[[魔女の酒場]]の店員さん。&br()出会った頃はギャングに所属していない黒市民だと言っていたが、&br()久し振りに会った際に自組織のギャングを立ち上げてボスになったと教えてくれた。&br()出会った頃から街での過ごし方や黒市民のことを色々教えてくれたり、撃ち合いの現場にも誘ってくれる。&br()様変わりしていた街の情勢も教えてもらいながら、長らくお世話になっている。|
-|[[ガヴァイ　アッカンマン]]|[[DERAY]]のメンバー。小峯さんを慕っている犯罪者で、元警察官の経歴を持つ。&br()DERAYは現在組織としての肩書きがあるわけではないものの、名も無き中でも一緒に活動しているお仲間。 &br() |
-|[[柳田　ライアン]]|[[DERAY]]のメンバー。元MOZU構成員で、ハードボイルドな見た目なものの、その実、お茶目な先輩。&br()転送された際に、お嫁さんである[[ノアチェン>ノア　チェンバー]]さんのことを忘れてしまっているという。 |
 |[[無馬　かな]]|小峯さんのタクシー会社時代からの同僚で、小峯さんと付き合いの長いお友達だとのこと。&br()武器商人に興味があると小峯さんに相談していたことをきっかけに、&br()街で活動しているギャング専用の武器商のことやカリスマチンピラの話を教えてくれた。&br()肩身の狭くなりがちな半グレでの生き方や過ごし方に関して、アドバイスしてくれて気にかけてくれた。&br()久し振りに街に戻ってきた際は、レギオンで自転車に乗っていた無馬さんに会う。|
 |[[堕夜　だよ]]|小峯さんに紹介された[[武器屋さん>FEMME FATALE]]の人。黒市民専用の武器を製造、販売している。&br()武器購入の他、クラフト素材の卸しなどで今後お世話になっている。|
 //|[[名前]]|詳細|
@@ -1083,41 +1092,41 @@
 ****07/dd &font(#BA87F1){&icon_fa(fa fa-twitch)}[[twitch配信タイトル>>ここに配信URLを入力]]
 -エピソード募集中
 #endregion
-
-
 #endregion(7月ここまで)
 //
 &bold(){8月}
-#region(開く,open)&bold(){閉じる}
+#region(開く)&bold(){閉じる}
 //
 #region(08/dd,open)
-****08/dd &font(#BA87F1){&icon_fa(fa fa-twitch)}[[twitch配信タイトル>>ここに配信URLを入力]]
+****08/01 &font(#BA87F1){&icon_fa(fa fa-twitch)}[[メイカイ day24>>https://www.twitch.tv/videos/2834367266]]
 -エピソード募集中
 #endregion
-
-
 #endregion(8月ここまで)
-
+//
+&bold(){11月}
+#region(開く,open)&bold(){閉じる}
+//
+#region(11/08,open)
+****11/08 &font(#BA87F1){&icon_fa(fa fa-twitch)}[[久メイカイ>>https://www.twitch.tv/videos/2923077866]]
+-エピソード募集中
+#endregion
+#endregion(11月ここまで)
 
 &font(b,#BA87F1){〜エピソード募集中！一行からでも助かります！編集・追記お気軽にお願いします！〜}
-
-
 
 
 //------------------------------------
 #co{↓日別コピー用素材
 　
-#region(07/dd,open)
+#region(11/dd,open)
 ****07/dd &font(#F18795){&icon_fa(fa fa-youtube-play)}[[YouTube配信タイトル>>ここに配信URLを入力]]
 -エピソード募集中
 #endregion
 
-#region(07/dd,open)
+#region(11/dd,open)
 ****07/dd &font(#BA87F1){&icon_fa(fa fa-twitch)}[[twitch配信タイトル>>ここに配信URLを入力]]
 -エピソード募集中
 #endregion
-
-
 
 ↑リンクは保存期限の都合上youtube優先で記載しております
 &font(#F18795){&icon_fa(fa fa-youtube-play)}
@@ -1312,13 +1321,19 @@
 |~配信日|~#|~配信タイトル|~備考|h
 |8/01|24| &font(#BA87F1){&icon_fa(fa fa-twitch)} [[メイカイ day24>>https://www.twitch.tv/videos/2834367266]]| |
 |8/02|25| &font(#BA87F1){&icon_fa(fa fa-twitch)} [[タイトル>> URL]]| |
-//|8/DD|x| &font(#BA87F1){&icon_fa(fa fa-twitch)} [[タイトル>> URL]]| |
-//|8/DD|x| &font(#BA87F1){&icon_fa(fa fa-twitch)} [[タイトル>> URL]]| |
-//|8/DD|x| &font(#BA87F1){&icon_fa(fa fa-twitch)} [[タイトル>> URL]]| |
-//|8/DD|x| &font(#BA87F1){&icon_fa(fa fa-twitch)} [[タイトル>> URL]]| |
 #areaedit(end)
 #endregion(8月〜)
-
+//
+#region(11月,open)11月
+#areaedit
+#table_style(head=center:#46404A:#C4CCF0){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|11/08|26| &font(#BA87F1){&icon_fa(fa fa-twitch)} [[久メイカイ>>https://www.twitch.tv/videos/2923077866]]|※すっぴん |
+//|11/DD|x| &font(#BA87F1){&icon_fa(fa fa-twitch)} [[タイトル>> URL]]| |
+//|11/DD|x| &font(#BA87F1){&icon_fa(fa fa-twitch)} [[タイトル>> URL]]| |
+//|11/DD|x| &font(#BA87F1){&icon_fa(fa fa-twitch)} [[タイトル>> URL]]| |
+#areaedit(end)
+#endregion(11月〜)
 
 //アイコン用テンプレ
 //&font(#F18795){&icon_fa(fa fa-youtube-play)}

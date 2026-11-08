@@ -75,11 +75,13 @@
 
 **&font(30px,#D8BEBD){出}&font(25px){演 &icon_fa(fa-solid fa-calendar-days)}
 #table_style(head=#D8BEBD:#FFFFFF:center:b){イベント名称=bold}
-//#table_filter()
-|~開催日|~主催|~イベント名称|~内容|~場所|h
-|2025/08/16(土) 21:00～|[[シャンクズプロモーション]]|SUMMER FESTIVAL 2025|デビューライブを行った。|7006番地|
-|2026/01/25(日) 22:00〜|[[モンスターハウスプロダクション]]|ちいさな水辺のコンサート||8210番地|
-|2026/08/09(日)　|[[Club Passiona]]・[[JTS]]|夏フェス|新曲を披露|　|
+#table_filter(){開催日=show,イベント名称=show,主催=show,内容=hide,場所=hide}
+|~開催日|~イベント名称|~主催|~内容|~場所|h
+|2025/08/16(土) 21:00～|SUMMER FESTIVAL 2025|[[シャンクズプロモーション]]|デビューライブを行った。|7006番地|
+|2026/01/25(日) 22:00〜|ちいさな水辺のコンサート|[[モンスターハウスプロダクション]]||8210番地|
+|2026/02/25(水) 21:00〜|住民参加型イベント -Not Lost Time-|[[アイドゥラー　ヨシャパテ]]||8054番地 レギオン公園|
+|2026/08/09(日) 23:00～|夏フェス|[[Club Passiona]]・[[JTS]]|新曲を披露|3032番地上 ALAMO ISLAND|
+|2026/11/08(日) 23:00～|LOSSANTOS IDOL FESTIVAL|[[モンスターハウスプロダクション]]||3032番地上 ALAMO ISLAND|
 //|||||
 #table_sorter{even=#f9f4f4,odd=#FFFFFF}
 
@@ -98,23 +100,15 @@
 //
 //
 **&font(30px,#bea5a4){歴}&font(25px){史 &icon_fa(fa-solid fa-book-open)}
-***2025年
-#region(開く)
+#region(開く,open)
+//
+//イベント関連は“出演”項目へまとめました。
+//
 #table_style(head=#D8BEBD:#FFFFFF:center:b){}
 #table_filter(){}
 |~日付|~出来事|~備考|h
 |04/15|「[[西サントス]]」の寄り合いにて結成された。||
-|08/16|「[[シャンクズプロモーション]]」主催の「SUMMER FESTIVAL 2025」にてデビュー。|歌唱曲「愛してまんがな」|
-#table_sorter{even=#f9f4f4,odd=#FFFFFF}
-#endregion
-***2026年
-#region(開く,open)
-#table_style(head=#D8BEBD:#FFFFFF:center:b){}
-#table_filter(){}
-|~日付|~出来事|~備考|h
-|01/25|イベント出演|[[モンスターハウスプロダクション]]主催『ちいさな水辺のコンサート』に出演|
-|02/25|イベント出演|[[アイドゥラー　ヨシャパテ]]主催の住民参加型イベント -Not Lost Time- に出演|
-|08/09|イベント出演|[[Club Passiona]]・[[JTS]]主催『夏フェス』に出演|
+
 //|mm/dd|出来事|備考|
 #table_sorter{even=#f9f4f4,odd=#FFFFFF}
 #endregion

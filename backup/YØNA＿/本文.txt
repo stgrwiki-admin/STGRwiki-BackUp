@@ -2,7 +2,7 @@
 
 #table_style(head=#131862:#FFFFFF){}
 |~グループ名|~&space()&icon_fa(fa fa-asterisk fa-flip)&space()|&font(b,#000){&ruby(よなぼし){𝐘Ø𝐍𝐀*}}|
-|~業種|~&space()&icon_fa(fa fa-user-group)&space()|アイドル・アーティスト|
+|~業種|~&space()&icon_fa(fa fa-user-group)&space()|デュエットグループ・アーティスト|
 |~結成日|~&space()&icon_fa(fa fa-flag)&space()|yyyy年mm月dd日&space()&small(){（&countup(yyyy/mm/dd,yd)経過）}&co(){※countupは設立日の1日前に設定}|
 |~所属|~&icon_fa(fa fa-masks-theater)|[[ジョープロ>>半沢　直ふぃ#ジョープロ]]|
 |~拠点|~&icon_fa(fa fa-location-pin)|----番地|
@@ -20,9 +20,8 @@
 #table_style(head=#131862:#FFFFFF){名前=bold,}
 #table_filter(){名前=show,備考=show,配信=show}
 |~名前|~備考|~配信|h
-|[[夜仲　コウ]]|　|　|
-|[[ホシ・バミオ]]|　|　|
-
+|MIDDLE:[[夜仲　コウ]]|　|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@mahirukou]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/mahirukou]]|
+|MIDDLE:[[ホシ・バミオ]]|　|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/hoshibamionpu]] &co(youtube未投稿){&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UC4T3wk3O6H3M3XoS-VhVypQ]]}|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 //
 //変更があれば「参加者一覧」への反映もお願いします
