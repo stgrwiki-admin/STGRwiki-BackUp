@@ -251,9 +251,11 @@
 #endregion
 #endregion
 }
-***&underdot(#B22222,3px){会社の近況（2026年11月現在）}
-&font(20px,#fcc800){▪&space()}8057番地の銀行ビル(LOMBANK)に新しくBJオフィスを購入予定。&small(){&openclose2(show=▶詳細){建築士物件。建築を[[閃光寺　亜夢]]（建築済み）、ハウジングを[[山田　パルコ]]に依頼済み}}
-&font(20px,#fcc800){▪&space()}トレーディングカードを開発中。
+***&underdot(#B22222,3px){会社の近況（2026年11月）}
+&font(20px,#fcc800){▪&space()}8057番地の銀行ビル(LOMBANK)に新しくBJオフィスを購入予定&small(){&openclose2(show=▶詳細){建築士物件。建築を[[閃光寺　亜夢]]（建築済み）、ハウジングを[[山田　パルコ]]に依頼済み}}
+&font(20px,#fcc800){▪&space()}砂漠地帯の建物などを利用したライブRPG(&ruby(ラープ){LARP})事業を構想中
+&font(20px,#fcc800){▪&space()}街の建物orハウジング部屋を利用した人生ゲームイベントを構想中
+&font(20px,#fcc800){▪&space()}トレーディングカードを開発中
 
 ***&size(110%){&bgcolor(#00552e){&font(#EAF4FC,90%){&nbsp(2)&icon_fa(fa-solid fa-circle-info)&nbsp(2)創設理念}&nbsp(38)}}
 #openclose(show=▶ 起業経緯と展望){
@@ -825,6 +827,8 @@
 #endregion(その他)
 ***&underdot(#B22222,3px){その他}
 #region(開く,close)
+#size(100%){#table_color(head=#000033:#fcc800)
+|CENTER:~&small(){BJローン社員似顔絵　絵:ヤシャロア}&br()&blankimg(20261107_似顔絵.png,x=200,y=140)|
 //|CENTER:~&small(){メッセージ}&br()&blankimg(画像.png,x=200,y=140)|}
 
 #endregion(その他)

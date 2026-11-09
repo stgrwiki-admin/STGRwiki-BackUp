@@ -1,3 +1,7 @@
+//--編集者へのお知らせ--
+//ページ下部コメント欄は編集可能なログインユーザーのみ書き込みでき(推定)
+//一定期間書き込みがないので役割を終了したと見なし非表示化しました。26/11/09
+//---------------------
 *&size(25){&size(30){&color(#4496d3){プ}}&color(#a0d8ef){ロフィール} &color(#ff5b5b){&icon_fa(fa fa-user-circle)}}
 #co(25/12/26から全ページメンバー限定編集になったので非表示){
 &small(){⚠️&font(#F54738){『編集合戦』}行為が目立っております。&br()ストグラWikiは有志によって成り立っているため、トラブルを防ぐ為にもページ一番下の&font(#F54738){編集相談・意見交換所}、または[[編集相談所]]の活用を推奨しております。}
@@ -34,17 +38,20 @@
 |&font(#4496d3){ガイドライン}|BGCOLOR(#ffc0cb):~&icon_fa(fa fa-circle-info)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧&font(#1DA1F2){Twitter})}>>https://x.com/piiiti_v/status/2031667069121671270?s=46&t=b89A-5gzkZraBLjrHHv6CQ]] &small(){※切り抜き動画について}|
 
 &size(10)&b()&sizex(3){&color(#ff5b5b){※編集を行う際は注意事項を必ずお読みください！}}
-&size(10)&b()&sizex(3){&color(#ff5b5b){編集について意見交換が出来るようコメント欄を設置しました}}
+//&size(10)&b()&sizex(3){&color(#ff5b5b){編集について意見交換が出来るようコメント欄を設置しました}}26/11/09非表示化
 
 //職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
 #region(目次を開く)目次
 #contents(fromhere=true,level=2)
 #endregion
-//
-///&bold()他の編集者さんが記載した特別悪い内容でない文章を自己判断で勝手に削除するのは止めてください。何かあれば編集相談所へ。
 
+&font(#a0d8ef){&icon_fa(fa fa-pencil) &font(b,#4496d3){編集者向けリンク一覧}}
+#pulldown_jump(鬼桃　ぷぅ/基本情報,鬼桃　ぷぅ/車両一覧,鬼桃　ぷぅ/エピソード①,鬼桃　ぷぅ/エピソード②,鬼桃　ぷぅ/アーカイブ,鬼桃　ぷぅ/ストグラ外コラボ,title=子ページ一覧)
+////復元用旧型式→////&u(){&color(#a0d8ef){&icon_fa(fa fa-pencil)} [[編集ページはこちらをクリック>>子ページ名]]}
+
+///&bold()他の編集者さんが記載した特別悪い内容でない文章を自己判断で勝手に削除するのは止めてください。何かあれば編集相談所へ。
+//
 *&size(25){&size(30){&color(#4496d3){基}}&color(#a0d8ef){本情報}  &color(#ff5b5b){&icon_fa(fa fa-pen-to-square)}}
-&u(){&color(#a0d8ef){&icon_fa(fa fa-pencil)} [[編集ページはこちらをクリック>>鬼桃　ぷぅ/基本情報]]}
 #include(鬼桃　ぷぅ/基本情報)
 
 *&size(25){&size(30){&color(#4496d3){関}}&color(#a0d8ef){連人物}  &color(#ff5b5b){&icon_fa(fa-solid fa-people-group)}}
@@ -167,7 +174,6 @@
 //レイアウト変更・追記省略等歓迎
 
 *&size(25){&size(30){&color(#4496d3){車}}&color(#a0d8ef){両一覧}  &color(#ff5b5b){&icon_fa(fa-solid fa-car-side)}}
-&u(){&color(#a0d8ef){&icon_fa(fa fa-pencil)} [[編集ページはこちらをクリック>>鬼桃　ぷぅ/車両一覧]]}
 #include(鬼桃　ぷぅ/車両一覧)
 
 *&size(25){&size(30){&color(#4496d3){着}}&color(#a0d8ef){信音} &color(#ff5b5b){&icon_fa(fa-solid fa-music)}}
@@ -175,8 +181,6 @@
 &bold(){ちっぽけなナスのうた／♪鬼桃ぷぅ}
 [[製作過程アーカイブ>>https://www.twitch.tv/piiiti_vt/v/2268102463?sr=a&t=37786s]]※主には[[10:38:40>>https://www.twitch.tv/piiiti_vt/v/2268102463?sr=a&t=38321s]]ぐらいから
 *&size(25){&size(30){&color(#4496d3){エ}}&color(#a0d8ef){ピソード} &color(#ff5b5b){&icon_fa(fa fa-scroll)}}
-&u(){&color(#a0d8ef){&icon_fa(fa fa-pencil)} [[2024年の編集ページはこちらをクリック>>鬼桃　ぷぅ/エピソード①]]}
-&u(){&color(#a0d8ef){&icon_fa(fa fa-pencil)} [[2025年の編集ページはこちらをクリック>>鬼桃　ぷぅ/エピソード②]]}
 **2024年
 #region(開く)閉じる
 #include(鬼桃　ぷぅ/エピソード①)
@@ -233,7 +237,6 @@
 
 
 *&size(25){&size(30){&color(#4496d3){ア}}&color(#a0d8ef){ーカイブ} &color(#ff5b5b){&icon_fa(fa fa-video)}}
-&u(){&color(#a0d8ef){&icon_fa(fa fa-pencil)} [[Season1の編集ページはこちらをクリック>>鬼桃　ぷぅ/アーカイブ]]}
 **本編アーカイブ
 #include(鬼桃　ぷぅ/アーカイブ)
 ***&color(#a0d8ef){Season2}
@@ -566,6 +569,14 @@
 |08/30～08/31|ストグラフェスサンサンクレープ購入特典|【集合】ランダムポストカード|月乃えるな描き下ろし|
 |10/30～11/10|【ハロウィングッズ】鬼桃ぷぅ・とろろろろ・鬼ヶ島ぴぃち|【個別】アクリルスタンド、ランダム缶バッジx?|boothで販売。受注生産+在庫が無くなり次第終了|
 |12/15～|ストグラ公式スタンプ vol.2|「ちっぽけな(ボー)ナス」|クリエイターズスタンプ|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+***&color(#a0d8ef){2026年}
+#region(開く)
+#table_style(head=center:#a0d8ef){}
+#table_filter(){タイトル=show,詳細=hide,備考=show}
+|~期間|~タイトル|~詳細|~備考|h
+|mm/dd~mm/dd|ストグラ街歩きin大阪||情報募集中|
 //|mm/dd|タイトル|詳細|補足内容|
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
@@ -575,6 +586,7 @@
 ▶[[とろろ　ろろ]]
 #endregion
 
+#co(){
 *&size(25){&size(30){&color(#4496d3){編}}&color(#a0d8ef){集相談・意見交換所} &color(#ff5b5b){&icon_fa(fa fa-comment)}}
 ・修正・追加してほしい内容、リンク間違いや誤字脱字の報告、言葉の表現についての相談等ありましたらこちらにコメントをお願いします。
 ・ストグラWikiは大勢の方の協力で成り立っております、ご理解ご協力のほどよろしくお願い致します。コメントの履歴は[[こちら>鬼桃　ぷぅ/コメント欄]]。
@@ -583,5 +595,5 @@
 #pcomment(8,reply,enableurl,new,鬼桃　ぷぅ/コメント欄)
 >&link2(編集者用チャットは、偶然同じWikiを編集しているだけの顔も名前も知らない人との意見交換の場です。文章の向こう側には生きている人間がいます。チャットをする際には一度深呼吸をし、誤字脱字などが無いか、表現方法に間違いがないかを確認してからチャットを送信しましょう。,https://w.atwiki.jp/streamergta5/,color=red)
 >#right(){[[トップページ]]より引用}
-
+}
 #right(){&link_up(🔝ページTOPへ)}

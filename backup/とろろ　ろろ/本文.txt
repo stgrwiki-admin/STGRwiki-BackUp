@@ -28,9 +28,13 @@
 //日付は年表を参考に0時以前で記載しています。
 &small(){記載した内容を無断で削除する行為が発生しております。&br()&font(#F54738){編集合戦}を避けるために、違和感のある編集であると感じたら一呼吸置き&br()削除する場合は&font(#F54738){削除理由}を「//(非表示コメント)」で残すか、「&font(#F54738){編集相談所}」で意見を募ってください。}
 
-#region(目次を開く,open)目次
+#region(目次を開く)目次
 #contents(fromhere=true,level=2)
 #endregion
+
+&font(#a0d8ef){&icon_fa(fa fa-pencil) &font(b,#4496d3){編集者向けリンク一覧}}
+#pulldown_jump(鬼桃　ぷぅ/ストグラ外コラボ,title=子ページ一覧)
+
 *&size(25){&color(#999){基}}&color(#ccc){本情報} &color(#afeeee){&icon_fa(fa fa-pen-to-square)}
 #div(width=330px,bgcolor=#666666,color=#ffffff){&size(18){&space()&icon_fa(fa-solid fa-user)&bold(){ 人物概要}}}
 &size(16)&color(#999){●}街に居ると思われる姉を探しに街へ来た。
