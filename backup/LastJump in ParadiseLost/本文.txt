@@ -203,7 +203,7 @@ season1の世界線で[[PARADISE LOST]]を経営していた[[豆乳　ちゃん
 #endregion
 ***2026年
 ****上半期
-#region(,open,remember)
+#region(開く,close)
 #table_filter(){関係者・エピソード・備考=show}
 #table_style(head=center:#E0E0E0)
 |~日付|~出来事|~関係者|~エピソード・備考|h
@@ -246,7 +246,18 @@ season1の世界線で[[PARADISE LOST]]を経営していた[[豆乳　ちゃん
 |06/10|イベント|[[めれにくす]]|&image(260610_1s.jpg, height=300)|
 //|mm/dd|出来事|関係者|エピソード・備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(上半期)
+#co{
+//****下半期
+#region(開く,open)
+#table_filter(){関係者・エピソード・備考=show}
+#table_style(head=center:#E0E0E0)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion
+}
 
 **関連情報
 ***イベント
