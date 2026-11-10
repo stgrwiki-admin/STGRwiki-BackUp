@@ -1,14 +1,21 @@
-***&icon_fa(fa fa-youtube-play)&space()&underdot(#99000D,2px){音楽・動画}
-&small(){*画像をクリックで再生}
-#size(75%){#table_color(head=#f5f5dc)
-|&video(https://youtu.be/eB4UM6qcDSc,width=208,height=117)&small(){&space(12)'24/07/15▶︎わたしの一番かわいいところ&space(12)}|&video(https://youtu.be/fHYjRH1QclA,width=208,height=117)&small(){'24/07/23▶︎餡ブレラ夏休みVlog}|&video(https://youtu.be/BQIzBG-ucFs,width=208,height=117)&small(){&space(6)'24/08/15▶︎超大型ミッション中！/餡ブレラ&space(6)}|h
-|&video(https://youtu.be/P1rAO0Bt9gA,width=208,height=117)&small(){'24/10/31▶︎Happy Halloween}|&video(https://youtu.be/wkU0swm2Ck8,width=208,height=117)&small(){&space(3)'24/12/24▶︎⛄スペシャル🌟クリスマスメドレー🎄&space(3)}|&video(https://youtu.be/jxvt-C9Rbtk,width=208,height=117)&small(){&space(8)'25/06/23▶︎行くぜっ！怪盗少女 -餡チア ver.&space(8)}|h}
-
-***&icon_fa(fa-solid fa-images)&space()&underdot(#99000D,2px){アルバム}
+//▼制服・衣装SEASON 1----------------------------------------
 &size(17){&underdot(#b22222,2px){&color(#99000D){▌&font(b){SEASON 1}&space()}}}
 #region(開く)
+***&icon_fa(fa fa-street-view)&space()&underdot(#99000d,2px){制服・衣装}
+#region(開く)
+#table_color(head=#f5f5dc)
+|~&blankimg(whitecoat.jpg,x=95,y=200)&br()&icon_fa(fa fa-female)&space()白衣|~&br()&br()&br()&br()募集中&br()&br()&br()&br()&br()&icon_fa(fa fa-female)&space()白衣|~&blankimg(red suit_wesker.jpg,x=95,y=200)&br()&icon_fa(fa fa-male)&space()赤スーツ|~&blankimg(red suit_karen.jpg,x=95,y=200)&br()&icon_fa(fa fa-female)&space()赤スーツ|
+|~&blankimg(craft_kumagori.jpg,x=95,y=200)&br()&icon_fa(fa fa-male)&space()クラフト|~&blankimg(blackbattleozawa.jpg,x=95,y=200)&br()&icon_fa(fa fa-male)&space()戦闘服(黒)|~&blankimg(blackbattle_karen.jpg,x=95,y=200)&br()&icon_fa(fa fa-female)&space()戦闘服(黒)|~&blankimg(area_wesker.jpg,x=95,y=200)&br()&icon_fa(fa fa-male)&space()シマ取り服|
+//
+//画像募集中⇒頭から足先まで19.5:9(iPhone壁紙サイズ)
+//
+#endregion
+
+***&icon_fa(fa-solid fa-images)&space()&underdot(#99000D,2px){アルバム}
 //▼16:9
-//#slide_img(auto=3,width=368,height=207){BBQ_byD175.jpeg,mitewes2_byD175.jpeg,mitewes_byD175.jpeg}
+//#slide_img(auto=3,width=368,height=207)
+#region(開く)
+{BBQ_byD175.jpeg,mitewes2_byD175.jpeg,mitewes_byD175.jpeg}
 &small(){*画像をクリックで別タブ表示}
 #size(100%){#table_color(head=#f5f5dc)
 |~&blankimg(https://img.atwiki.jp/streamergta5/attach/553/2782/anbrella2.JPG,x=208,y=117)&br()&small(){'23/06/18▶︎ラボにて}|~&blankimg(https://img.atwiki.jp/streamergta5/attach/553/4102/5013_byMerry.JPG,x=208,y=117)&br()&small(){'23/06/23▶︎抗争打ち上げBBQ}|~&blankimg(https://img.atwiki.jp/streamergta5/attach/553/2741/%E4%BC%9A%E8%AD%B0%E5%AE%A4%EF%BC%91.JPG,x=208,y=117)&br()&small(){'23/09/08▶︎旧会議室(9人)}|~&blankimg(https://img.atwiki.jp/streamergta5/attach/553/3258/%E4%BC%9A%E8%AD%B0%E5%AE%A420231001.JPG,x=208,y=117)&br()&small(){'23/10/01▶︎旧会議室(17人)}|h
@@ -28,11 +35,20 @@
 |~&blankimg(240516.png,x=135,y=180)&br()&small(){'24/05/16▶︎ワガハイ探検隊日記}|~&blankimg(240601.png,x=135,y=180)&br()&small(){'24/06/01▶︎真夏のジャンボリー}|~&blankimg(240605.JPG,x=135,y=180)&br()&small(){'24/06/05▶︎カブトムシごっこ}|~&blankimg(2406091.png,x=135,y=180)&br()&small(){'24/06/09▶︎2コマ漫画1/2}|~&blankimg(2406092.png,x=135,y=180)&br()&small(){'24/06/09▶︎2コマ漫画2/2}|~&blankimg(hunk_race.png,x=135,y=180)&br()&small(){'24/06/30▶︎公式レース優勝}|h
 |~&blankimg(kumama.png,x=135,y=180)&br()&small(){'24/06/30▶︎クマvsクマゴリラ}|~&blankimg(2407061.png,x=135,y=180)&br()&small(){'24/07/06▶︎受注待ち❶}|~&blankimg(2407062.png,x=135,y=180)&br()&small(){'24/07/06▶︎受注待ち❷}|~&blankimg(2410311.jpeg,x=135,y=180)&br()&small(){'24/10/31▶︎げんきだま}|~&blankimg(241101.png,x=135,y=180)&br()&small(){'24/11/01▶︎ペアルック}|~&blankimg(250216.webp,x=135,y=180)&br()&size(7){'25/02/16▶︎[[ストリップバー開店するわ💗>>https://clips.twitch.tv/TransparentBreakableGnatStrawBeary-Rm2NcmmnVE2KA5in]]}|h}
 #endregion
-
-&size(17){&underdot(#b22222,2px){&color(#99000D){▌&font(b){SEASON 2}&space()}}}
-#region(開く)
-//▼16:9
-//#slide_img(auto=3,width=368,height=207){BBQ_byD175.jpeg,mitewes2_byD175.jpeg,mitewes_byD175.jpeg}
-&small(){*画像をクリックで別タブ表示}
-#size(100%){#table_color(head=#f5f5dc)
 #endregion
+
+//▼制服・衣装SEASON 2----------------------------------------
+&size(17){&underdot(#b22222,2px){&color(#99000D){▌&font(b){SEASON 2}&space()}}}
+***&icon_fa(fa fa-street-view)&space()&underdot(#99000d,2px){制服・衣装}
+
+//▼アルバムSEASON 2----------------------------------------
+***&icon_fa(fa-solid fa-images)&space()&underdot(#99000D,2px){アルバム}
+//▼16:9
+//#slide_img(auto=3,width=368,height=207)
+
+
+***&icon_fa(fa fa-youtube-play)&space()&underdot(#99000D,2px){音楽・動画}
+&small(){*画像をクリックで再生}
+#size(75%){#table_color(head=#f5f5dc)
+|&video(https://youtu.be/eB4UM6qcDSc,width=208,height=117)&small(){&space(12)'24/07/15▶︎わたしの一番かわいいところ&space(12)}|&video(https://youtu.be/fHYjRH1QclA,width=208,height=117)&small(){'24/07/23▶︎餡ブレラ夏休みVlog}|&video(https://youtu.be/BQIzBG-ucFs,width=208,height=117)&small(){&space(6)'24/08/15▶︎超大型ミッション中！/餡ブレラ&space(6)}|h
+|&video(https://youtu.be/P1rAO0Bt9gA,width=208,height=117)&small(){'24/10/31▶︎Happy Halloween}|&video(https://youtu.be/wkU0swm2Ck8,width=208,height=117)&small(){&space(3)'24/12/24▶︎⛄スペシャル🌟クリスマスメドレー🎄&space(3)}|&video(https://youtu.be/jxvt-C9Rbtk,width=208,height=117)&small(){&space(8)'25/06/23▶︎行くぜっ！怪盗少女 -餡チア ver.&space(8)}|h}
