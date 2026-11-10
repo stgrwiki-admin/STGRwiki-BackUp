@@ -1,5 +1,5 @@
 *プロフィール
-//&image(ここに画像のURLを入力,y=400)
+#slide_img(auto=5,width=300,height=450){牛辺セウ_02.png,牛辺セウ_01.png}
 
 //ここからプロフィール
 #table_style(head=#E6E6FA:#666666){}
@@ -8,25 +8,20 @@
 |~血液型|~&icon_fa(fa fa-heartbeat)|AB型|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|2000年11月08日 (&countup(2000/11/08,y)歳)|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年10月18日 (&countup(2026/10/18,yd)経過)|
-|~職業|~&icon_fa(fa-solid fa-building-columns)||
-|~所属|~&icon_fa(fa fa-users)||
-|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)||
+|~職業|~&icon_fa(fa-solid fa-building-columns)|-|
+|~所属|~&icon_fa(fa fa-users)|-|
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@|
 |~レーサー名|~&icon_fa(fa fa-car)|USB|
 |~電話番号|~&icon_fa(fa fa-phone)|(602)579-6045|
 |BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-heart)|えびす|
 |BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(85%){&color(#FFFFFF,#000000){&space()𝕏&space()}} [[&font(#000000){X&space()(旧Twitter) @3bis28}>>https://twitter.com/3bis28]]|
-|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725) &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (minioni3202)}>>https://www.twitch.tv/minioni3202]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@3bis3202)}>>https://www.youtube.com/@3bis3202]](えびす)|
-|BGCOLOR(#eee):~動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@3bis3202)}>>https://www.youtube.com/@3bis3202]](えびす)|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725) &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch (minioni3202)}>>https://www.twitch.tv/minioni3202]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@3bis3202)}>>https://www.youtube.com/@3bis3202]]|
+|BGCOLOR(#eee):~動画投稿|BGCOLOR(#eee):~&icon_fa(fa fa-video-camera)|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube (@3bis3202)}>>https://www.youtube.com/@3bis3202]]|
 |BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):~&icon_fa(fa fa-user-plus)|&small(){&openclose2(show=※ネタバレ注意){&br()[[伊勢　えびす]]／[[蜂夜　ハチ]]}}|
 //
 #co{コピー用🔽以下必要な場合にご利用下さい
 
 |~身長|~&icon_fa(fa fa-male)||
-
-【Instagram】&font(#CF2E92){&icon_fa(fa-brands fa-instagram)} [[&font(#DC2E74){Instagram}>>ＵＲＬ]]
-【ツイキャス】[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting(チャンネル名)}>>ＵＲＬ]]
-【TikTok】&font(#000){&icon_fa(fa-brands fa-tiktok)}[[&font(#000){TikTok(チャンネル名)}>>ＵＲＬ]]
-【キック】&font(#05CE78){&icon_fa(fa-brands fa-kickstarter)} [[&font(#05CE78){kick(チャンネル名)}>>ＵＲＬ]]
 
 }
 //各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
@@ -42,13 +37,24 @@
 **2026年
 #region(10月,open)&bold(){10月}
 ***10/18 [[？？？：1日目>>https://www.twitch.tv/videos/2904060069]]
-#region(開く,close)閉じる
+#region(開く)閉じる
+-西海岸北側の砂浜の先端で倒れていたところを救急隊[[元難波　登]]に救助される。
+--記憶がなく容姿から20代前半と推測、仮の名前としてサガルート王国聖騎士やウエドメルトを提示されたが市役所へ確認に行く。
+--市役所にて同行した登隊員からキリトにされかける。識別カードにより牛辺セウと判明する。&co(メモ){male,2000/11/08,Japanese}
+--ツールショップで携帯を買ってもらい、銀行残高が-3,000円と発覚する。長者ゲーム、ダイスセット、距離計測ツールを貰う。
+-[[わんも〜Cafe]]で交流、うしべという女性を知る、[[土根>>土根　ジョー]]ジョークで盛り上がる。
+-[[海上レストラン>>Urashima]]で交流、結婚式があると聞く。
+-[[JTS]]で警察と挨拶、[[ジャックス>>ブラック　ジャックス]]からうしべの話を少し聞く。
 -エピソード募集中
 #endregion(18日)
 ***10/22 [[牛辺セウ：2日目>>https://www.twitch.tv/videos/2907572646]]
-#region(開く,close)閉じる
+#region(開く)閉じる
 -エピソード募集中
 #endregion(22日)
+***10/25 [[牛辺セウ：3日目>>https://www.twitch.tv/videos/2910306244]]
+#region(開く)閉じる
+-エピソード募集中
+#endregion(25日)
 #endregion(10月)
 
 #co{
@@ -57,7 +63,7 @@
 #region(mm月,open)&bold(){mm月}
 
 ***mm/dd [[タイトル>>ＵＲＬ]]
-#region(開く,close)閉じる
+#region(開く)閉じる
 -エピソード募集中
 #endregion(dd日)
 
@@ -72,6 +78,7 @@
 |~配信日|~#|~配信タイトル|~備考|h
 |10/18|1|[[？？？：1日目>>https://www.youtube.com/watch?v=5RaL0vNPe0s]]||
 |10/22|2|[[牛辺セウ：2日目>>https://www.youtube.com/live/j-zu7yFg1_g?si=yXNe1ZD15lqnoVMh]]||
+|10/25|3|[[牛辺セウ：3日目>>https://www.youtube.com/watch?v=UU7BUAbdu2I]]||
 //|mm/dd|n|[[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
