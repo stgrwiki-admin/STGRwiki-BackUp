@@ -203,14 +203,15 @@
 
 //■■■■■■■■■■■■■■■■■■■■■■■■■■
 *&font(23px){&font(30px,#BAA4C4){オ}リジナル商品 &icon_fa(fa-solid fa-burger)}
-***販売商品
+#region(開く)閉じる
+***&underdot(#443653,3px){&size(18){&color(#443653){■} &bold(){販売商品}&space(2)}}
 &icon_fa(fa-solid fa-burger)&space()[[羽山　ペティ]]による[[奇肉屋]]とSKEのコラボバーガーとSKEオリジナルコーヒーを提供。
 &icon_fa(fas fa-fish-fins)&space()[[イナ　イロハ]]による移動販売[[GYOGYO]]の商品を提供。
 
 &image(イロハ商品チラシ.jpeg,X=400)
 
 
-***恒常ガチャ商品
+***&underdot(#443653,3px){&size(18){&color(#443653){■} &bold(){恒常ガチャ商品}&space(2)}}
 ・2025/04/11〜開始。SKEを利用してくれたお客様に渡している。修理ニトロ交換/カスタム依頼/2階の飲食を10個購入 につきガチャを各１個提供。
 ・渡しているサービスガチャ&br()&bold(){SKE スタンダードガチャ}：SKE（#7282）でもらえるガチャです✨️
 ・ガチャに封入されている引換券で更にもらえるガチャ&br()&bold(){SKE ゴールドガチャ}：SKE（#7282）のスタンダードガチャを超えた 更にお得な商品が当たるガチャです✨️
@@ -255,20 +256,23 @@
 |&bold(){[[🚗SKE ドクぬい>マッハボクシング　ドク]]}&br()（準備中）|SR|
 
 }
-
 #endregion
+#endregion(全体を閉じる)
+
 //■■■■■■■■■■■■■■■■■■■■■■■■■■
 *&font(23px){&font(30px,#BAA4C4){ギ}ャラリー &icon_fa(fa-solid fa-photo-film)}
-&small(){画像絶賛募集中！}
+#region(開く)&small(){画像絶賛募集中！}
 
 &bold(){スタッフTwixより}
 #slide_img(auto=3,width=360,height=200){SKE _スタッフ01.jpeg,猪狩.jpeg} 
 
 #slide_img(auto=3,width=300,height=400){SKE_.jpeg,白身魚.jpeg} 
+#endregion(全体を閉じる)
 
 //■■■■■■■■■■■■■■■■■■■■■■■■■■
 *&font(23px){&font(30px,#BAA4C4){従}業員情報 &icon_fa(fa-solid fa-users)}
 **従業員
+#region(開く,open)
 #table_style(head=center:#443653:#FFF)
 #table_filter(){役職=show,Rank=hide,名前=show,就職日=hide,兼業=show,備考=show}
 |~役職|~Rank|~名前|~就職日|~兼業|~備考|h
@@ -282,12 +286,13 @@
 |社員|Rank 1&br()&size(10){&color(#999999){Novice}}|[[マッハボクシング　ドク]]|2025/04/17|【[[豆おじさんのエアークラフト]]】|長期に渡る体験を経て正式採用。他人を信じやすい性格のため、住民達に騙されてしまうことがある。&br()シングルタスクが得意なため、少しづつ自身のできることを増やしつつメカニックとして勤務する。&br()一時、SKE敷地内で賭博騒ぎを起こしてしまい、猪狩から１週間の謹慎処分を命じられてしまったが、&br()復帰後はしっかり反省して勤務に励んでいる。|
 |社長|Rank　4&br()&size(10){&color(#999999){Manager}}|[[猪狩　翔太]]|2023/10/06〜2025/04/30&br()2025/07/20|【[[大川自動車販売(有)]]】&br()【[[個人医]]】|SKEで一番カスタムに詳しいドリフトマニア、人柄優しい車大好き人間。&br()皆の頼れるSKE社長として長年メカニックに従事していたが、疲労等もあり、休暇と言う名の一時退職をしていた。&br()白市民パスの再取得とともに7/20に復職。再び社長職へ就任。|
 |社員|Rank 1&br()&size(10){&color(#999999){Novice}}|[[姫一　夕]]|2024/07/07||[[IRiS]]解散後　ニート状態だっため、社長の猪狩からのスカウトで白市民パスと免許再発行して正社員となる。&br()SKEの自称コスプレ担当のため仕事はしない。猪狩に見送られロスサントスを出国し、日本に帰国した。&br()なお、いつでも帰ってきても来てもいいように籍は残したままにされている。|
-#table_autoincrement()
+
+#table_autoincrement(){label=No.,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 //従業員の変更があれば「参加者一覧」への反映もお願いします
-
+#endregion(従業員)
 ***退職者
-#region(一覧,close)一覧
+#region(一覧,close)
 #areaedit
 #table_style(head=center:#E0E0E0)
 |~役職|~名前|~就職日|~最終出勤日|~備考|h
@@ -310,11 +315,12 @@
 |社員|[[天近　くるみ]]|2024/03/06|2025/08/18|当時[[B.A.D>BIG Automotive Design]]所属だったが営業がほとんど出来ていない状況のため、SKEへ移籍し勤務していた。&br()この度人員整理に伴い退職扱いとする。|
 |社員|[[アニメハ　イヨナ]]|2024/04/17|2025/08/18 |9日間の体験を経て、ギャング[[餡ブレラ]]が街襲撃の日に正式雇用。&br()人員整理で退職扱いとする。|
 |社員|[[土場　リグゼ]]|2025/04/11|2025/08/18|以前所属していた[[PYC]]閉店に伴い、オーナー菖蒲より直接誘われ体験の後、本人希望で正社員雇用となる。&br()羽山ペティのファンボでもある。ワンオペもいとわず働く元気で明るいムードメーカー、そしてギャガー。&br()※現在9月頃まで長らく日本へ帰国中だが人員整理のため退職扱いとする。|
-#table_autoincrement()
+
+#table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #areaedit(end)
 #endregion
-
+//
 #co{雇用情報：タブレットから分かり次第更新お願いします。
 &br()&size(10){&color(#999999){Manager}}グレード4：会社の金庫出金・雇用権限あり
 &br()&size(10){&color(#999999){Advanced}}グレード3
@@ -323,7 +329,6 @@
 &br()&size(10){&color(#999999){Recruit}} グレード0：体験
 
 ▶最終更新８/23}
-
 ***職業体験者
 #region(一覧,close)一覧
 #areaedit
@@ -354,13 +359,15 @@
 |[[暦　あずみ]]|2025/07/21|[[暦家]]姉妹のひとり|
 |[[暦　ゆうみ]]|2025/07/21|[[暦家]]姉妹のひとり|
 //|[[名　前]]|yyyy/mm/dd||
-#table_autoincrement()
+
+#table_autoincrement(){label=#,start=1}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #areaedit(end)
 #endregion
 
 //■■■■■■■■■■■■■■■■■■■■■■■■■■
 *&font(23px){&font(30px,#BAA4C4){沿}革 &icon_fa(fa fa-book)}
+#region(開く,open)
 #table_filter(){備考=show}
 #table_style(head=#443653:#FFFFFF:center)
 |~日付|~エピソード|~備考|h
@@ -382,7 +389,9 @@
 //|2025/MM/DD|出来事|備考|
 //|2025/MM/DD|出来事|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+
 ・エピソード募集中
+#endregion(エピソードを閉じる)
 
 //■■■■■■■■■■■■■■■■■■■■■■■■■■
 *&font(23px){&font(30px,#BAA4C4){関}連アーカイブ &icon_fa(fa fa-film)}

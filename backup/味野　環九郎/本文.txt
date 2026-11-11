@@ -1196,6 +1196,11 @@
 #size(90%){{{#table_style(head=center:#474a4d:#fff){配信日=right,#=center,配信=center}
 |~配信日|~#|~アーカイブタイトル|~配信|~備考|h
 |11/01|220|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 220日目 警察>>https://www.youtube.com/watch?v=w0gWJEopEyY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2916554655]]||
+|11/04|221|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 221日目 警察>>https://www.youtube.com/watch?v=3ilLdm1C6jY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2919204513]]||
+|11/05|222|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 222日目 警察>>https://www.youtube.com/watch?v=ePCcaoqi4CY]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2920110232]]||
+|11/06|223|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 223日目 警察>>https://www.youtube.com/watch?v=YPzHuxrxut8]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2921010844]]||
+|11/07|224|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 224日目 警察>>https://www.youtube.com/watch?v=upnbN0g3L7g]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2921982542]]||
+|11/08|225|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[味野環九郎 225日目 レギオン駐車場前派出所編>>https://www.youtube.com/watch?v=DQZRkX0VGts]]|[[&font(#6441A4){&icon_fa(fa fa-twitch)}>>https://www.twitch.tv/videos/2922998948]]||
 #table_sorter{even=#F7F7F7,odd=fff}}}}
 #endregion(11月)
 #endregion(2026年)
@@ -1374,7 +1379,7 @@
 #table_sorter{even=#F7F7F7,odd=fff}}}}
 #endregion(9月)
 ***10月
-#region(開く,open)&bold(){閉じる}
+#region(開く,close)&bold(){閉じる}
 #size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
 #table_filter(){投稿日=show,動画タイトル=show,備考=show}
 |~投稿日|~動画タイトル|~備考|h
@@ -1387,6 +1392,15 @@
 #table_autoincrement(){label=#,start=61}
 #table_sorter{even=#F7F7F7,odd=fff}}}}
 #endregion(10月)
+***11月
+#region(開く,open)&bold(){閉じる}
+#size(90%){{{#table_style(head=center:#474a4d:#fff){投稿日=right}
+#table_filter(){投稿日=show,動画タイトル=show,備考=show}
+|~投稿日|~動画タイトル|~備考|h
+|2026/11/09|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[ついに武器強奪疑惑の犯人確保!? 捜査で不明だった血痕の正体が判明する【味野環九郎】>>https://www.youtube.com/watch?v=P0A44QWeAIk]]|225日目 2026/11/08|
+#table_autoincrement(){label=#,start=67}
+#table_sorter{even=#F7F7F7,odd=fff}}}}
+#endregion(11月)
 #endregion(2026年)
 
 ***2025年
