@@ -737,8 +737,10 @@ Coming soon...
 #endregion
 #endregion(Season1)
 ***&underdot(#60EE3C,4px){&font(b,16,#444){Season2}}　&font(11px,#666){アーカイブはメンバー限定}
+&font(#DA1725){&b(){&icon_fa(fa fa-solid fa-youtube-play)}} &b(){[[Season2アーカイブ再生リスト>>https://youtube.com/playlist?list=PLYcb9Z3s8SvLX_pnTkzc_BcXmG2Jwius1&si=thIK_pTH6HjaDkjC]]}&font(#60EE3C){&icon_fa(fa fa-external-link)}
+#co{▼▼▼ 非表示 ▼▼▼
 &font(b,16px,#444){2025年}
-****12月 (Day1~)
+//****12月 (Day1~)
 #region(開く)
 #table_filter(){Twitch配信タイトル=hide}
 #table_style(head=center:#66CC00){配信日=right,Day=center}
@@ -749,6 +751,7 @@ Coming soon...
 #table_sorter{even=#f7f7f7,odd=fff}
 #endregion
 //配信日は配信サムネイルに書いている日付に合わせて配信開始時の日付にしています。
+}
 
 *&size(160%){🎥} &color(#60EE3C){切り抜き動画} &size(160%){🎞}
 #region(一覧,open)閉じる
@@ -767,7 +770,7 @@ Coming soon...
 #right(){&link_up(▲ページTOP)}
 *&size(160%){🎮} &color(#60EE3C){ストグラ外コラボ} &size(160%){🎮}
 #co{
-//***ゲーム
+//**ゲーム
 #region(開く,open)
 #table_style(head=center:#66CC00,hover=#FFF:#444:bold){投稿日=right}
 |~投稿日|~タイトル|~備考|h
@@ -776,9 +779,15 @@ Coming soon...
 #table_autoincrement(){label=#,start=1}
 #endregion(ゲーム)
 }
-***リアルイベント
-#region(一覧,open)
-
-#endregion(リアルイベント)
+**イベント出演
+***&font(#3cb371){&icon_fa(fa fa-asterisk)&space()Dream On Live 2026-2027}
+#region(詳細)#div(width=300px,bgcolor=#66CC00){&space()&font(16px,b){2026年12月31日 - 2027年1月1日}}
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #a1de6e;){
+#size(14px){&small(){会場：KT Zepp Yokohama　&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[告知ポスト>> https://x.com/chagenabe/status/2117206302242009176]]&br()1 部：OPEN 17:00 / START 18:00&br()2 部：OPEN 22:00 / START 23:00}
+//yyyy/mm/dd 〜yyyy/mm/dd：[[グッズ事前通販>>URL]]&space()&small(){&space()[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知ポスト>>URL]]}
+//yyyy/mm/dd 〜yyyy/mm/dd：[[グッズ事後通販>>URL]]
+}
+}}}
+#endregion
 
 #right(){&link_up(▲ページTOP)}
