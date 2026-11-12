@@ -3,18 +3,21 @@
 
 //ここからプロフィール
 #table_style(head=#E6E6FA:#666666){}
-|~名前|~&icon_fa(fa fa-user)|&ruby(どくたー){Dr．}ぐれは|
-|~出身地|~&icon_fa(fa fa-location-dot)|ドゥルム王国|
-|~誕生日|~&icon_fa(fa fa-cake-candles)|09月08日|
-|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年04月20日 (&countup(2025/04/20,yd)経過)|
-|~職業|~&icon_fa(fa-solid fa-building-columns)|【[[Koko七番屋]]】 (2025/04/20〜)&br()【[[個人医]]】(2025/4/30〜)|
-|~所属|~&icon_fa(fa fa-users)|ここに所属を入力|
-|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@ぐれは|
-|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|尖苅せにゃ|
-|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/TogariV_]]|
-|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@-togarisenya-3710]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/nyattimen]]|
-|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ガイドライン>>ここにガイドラインのURLを入力]]|
-|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):&icon_fa(fa fa-user-plus)|&small(){&openclose2(show=※ネタバレ注意){&br()[[ボア　セニャコック]]}}|
+
+#table_color(#cbb6ee) #table_filter(){SEASON1=hide,SEASON2=show}
+|~シーズン|~&icon_fa(fa fa-earth-asia)|~SEASON1|~SEASON2|
+|~名前|~&icon_fa(fa fa-user)|>|&ruby(どくたー){Dr．}ぐれは|
+|~出身地|~&icon_fa(fa fa-location-dot)|>|ドゥルム王国|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|>|09月08日|
+|~転入日|~&icon_fa(fa fa-plane-arrival)|2025年04月20日 (&countup(2025/04/20,yd)経過)|yyyy年mm月dd日 (&countup(yyyy/mm/dd,yd)経過)|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|【[[Koko七番屋]]】 (2025/04/20〜)&br()【[[個人医]]】(2025/4/30〜)|【[[わんも〜Cafe]]】(2026/01/11〜)&br()&openclose2(show=？？？){【[[闇医者]]】(2026/11/11〜)}|
+|~所属|~&icon_fa(fa fa-users)|||
+|~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@ぐれは|　|
+|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|>|尖苅せにゃ|
+|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/TogariV_]]|
+|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|>|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@-togarisenya-3710]] / &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/nyattimen]]|
+|BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):&icon_fa(fa fa-user-plus)|>|&small(){&openclose2(show=※ネタバレ注意){&br()[[ボア　セニャコック]]}}|
+//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|>|[[ガイドライン>>ここにガイドラインのURLを入力]]|
 //
 #co{コピー用🔽以下必要な場合にご利用下さい
 
@@ -121,17 +124,18 @@
 
 **エピソード
 ***2025年
-#region(4月,open)&bold(){4月}
+#region(4月,close)&bold(){4月}
 ・4/20 転入日。事前情報でレギオンに人が集まると聞いていたが、ほぼ誰もおらずタクシー会社に電話、[[牧田　ここな]]と出会う。しかし事故により、ぐれはだけタクシーから放り出されそのままダウン。治療費が払えず、迎えに来たここなが社長を勤める[[koko七番屋]]で体験をすることになった。★切り抜き&icon_fa(fa-solid fa-hand-point-right)　[[お笑い展開からBJローンの取り立てまで…街の洗礼を浴びまくるDr.ぐれはwww>>https://youtu.be/HlIzpc00Aos?si=HOfiF8xYDQsSEgjM]]
 ・4/23 移動手段として自転車を購入しキノコ狩りデビュー。運転免許、白市民パスを取得。
 ・4/30 koko七番屋に正式就職。ウェスカー市長とだん市長補佐の個人医面接を受け、無事に個人医にも就職。★切り抜き&icon_fa(fa-solid fa-hand-point-right)　[[ぐれはの迷言連発にキレるウェスカー&ツボり続けるだん市長補佐www>>https://youtu.be/KnupCYU-63M?si=h5bHAhMKCOoyCkja]]
 #endregion(4月)
-
-
-#region(5月,open)&bold(){5月}
+#size(50%){　}
+#region(5月,close)&bold(){5月}
 ・5/13 ジョーカーから依頼されただん市長補佐宛の着信ボイスを納品。報酬5000万を受け取る。★切り抜き&icon_fa(fa-solid fa-hand-point-right)　[[まさかのだん市長補佐宛だったが、最高のボイスを納品するぐれはwww>>https://youtu.be/oDhn7yilQe0?si=DMGaCpwhpkb-j2gC]]
 ・5/17 餡ブレラvsNoLimitの抗争があり、他個人医と連携し、大勢を救う。★切り抜き&icon_fa(fa-solid fa-hand-point-right)　[[個人医ぐれはたちが駆け回った餡ブレラvsNOLIMITの大人数抗争の裏側！！>>https://youtu.be/2HT3VtP_XdE?si=kvNaqt-ChXQ0Hpv4]]
 #endregion(5月)
+//***2026年
+//
 #co{
 
 ↓コピー用素材

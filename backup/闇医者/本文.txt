@@ -22,6 +22,7 @@ Season2以降に発足した『闇医者』の情報について記載してお�
 -[[？？？>無馬　かな]]が持ち込み、行政の管轄外にある医療業
 -ダウンした犯罪者を警察の目をかいくぐり回収・蘇生させる
 -2026/07/29の&b(){『違法医療介入罪』}制定等の法整備に伴い、それまでの秘匿運用を解除する
+-秘匿運用は解除されたが、あくまで黒市民の間であり、一般市民に対してまで開示はしていない
 #region('26/07/29までの秘匿運用)'26/07/29までの秘匿運用
 -市に認可された職業ではないため、闇医者であると露見した場合、最悪街から追放されるかもしれない
 -組織の秘密を知られた場合は、対象者の記憶を消去する可能性がある&br()また、漏洩させた本人にも場合によっては厳罰が下される可能性がある
@@ -171,10 +172,14 @@ MEMBERSHIP BADGEは、闇医者の治療等のサービスが受けられる会�
 |[[萌愛　くしゅり]]|2026/09/23|所属する[[NOVA FAMILIA]]のボス [[脇　逢魔]]の紹介で、23から配付|
 |[[剛力　たけし]]|2026/10/01|所属する[[ギャングシティ>ギャングシティ_S2]]のボス[[Lv〇　チンピラ]]の紹介で、ABから配付|
 |[[銭形　やいち郎]]|2026/10/01||
-|[[フランク・ジェスター]]|2026/10/10||
+|[[フランク・ジェスター (KT)>フランク・ジェスター]]|2026/10/10|[[トウ　ユン]]の紹介で配付|
 |[[穴井　元]]|2026/10/25||
 |[[牛辺　セウ]]|2026/10/25|共に犯罪を行ったMIAと23の判断で、MIAから配付&br()闇医者の実働メンバーはMIA、23、ろっぷ以外は開示されていない|
 |[[宇佐　卓]]|2026/11/04|[[ヘルアン]]の紹介でABから配付|
+|[[紫音　ウィスタリア]]|2026/11/06|[[山田　カイキ]]の紹介でABから配付|
+|[[さとう]]|2026/11/06|[[餡ブレラ]]に所属したため、ボスの[[アルフォート　ウェスカー]]の紹介でABから配付|
+|[[あれれ　レン]]|2026/11/07|[[玖雲]]に所属したため、ボスの[[トウ　ユン]]の紹介でABから配付|
+//|[[名　前]]|2026/MM/DD|備考|
 //|[[名　前]]|2026/MM/DD|備考|
 //|[[名　前]]|2026/MM/DD|備考|
 //
@@ -280,23 +285,28 @@ MEMBERSHIP BADGEは、闇医者の治療等のサービスが受けられる会�
 #endregion(利用できる専門道具)
 //--------------------------------------------------------------------------------
 *就業者一覧 &icon_fa(fa-solid fa-user-doctor)
+//
+//秘匿運用解除後は活動していたが黒市民間では誰が闇医者なのかはある程度開示されているので、本名も表示してみました。何かご意見があればご一報ください。
+//
 ***&big(){現 闇医者} 
 #region(開く,open)
-#size(90%){{{#table_filter(){コードネーム=show,本名=hide,就職日=show,階級/役職=show,備考=show,兼業=hide,配信=hide}
+#size(90%){{{#table_filter(){本名=show,コードネーム=show,就職日=show,階級/役職=show,備考=show,兼業=hide,配信=hide}
 #table_style(head=#E0E0E0:center){}
-|~コードネーム|~本名|~就職日|~階級/役職|~備考|~兼業|~配信|h
-|-|[[？？？>無馬　かな]]|'25/12/28|(4)Boss|α世界線の元[[個人医]]&br()γ世界線に闇医者の技術を持ち込んだ張本人&br()関係者として彼の名前を挙げた場合、聞いた人の記憶を消されるらしい||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kanae_2434]]|
-|Back&co(){ダクチャ表示名}|[[Back　Alley]]|'25/12/28|(4)Boss|α世界線の元[[個人医]]&br()[[？？？>無馬　かな]]に従事する謎の人物||-|
-|Nobody|[[犬好　マイキー]]|'25/12/31|(4)Boss|α世界線の元[[個人医]]&br()[[？？？>無馬　かな]]に気安く話しかけたところ銃撃され、そのまま拠点まで拉致されてしまい&br()後日、闇医者業の責任者の1人として任命されたが、現状、BloodBerryに任せている。|[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]&br()[[わんも～Cafe>https://w.atwiki.jp/streamergta5/pages/3410.html]]|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/gocchanmikey]]|
-|cancer|[[我孫子　清十郎]]|'25/12/31|(0)Recruit|拉致されたNobodyを探すために情報を求めていたところ[[？？？>無馬　かな]]に襲撃され闇医者拠点まで連行&br()後日、Nobodyによって闇医者として任命された|[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]&br()[[わんも～Cafe>https://w.atwiki.jp/streamergta5/pages/3410.html]]|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/d175]]|
-|heartless|[[ノア　チェンバー]]|'26/01/22|(0)Recruit|α世界線の元[[個人医]]&br()BloodBerryからの紹介&br()Nobodyからの圧迫面接や闇医者のリスクを聞いても一切物怖じしない芯の強さを見せた|[[DEP]]|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/vtuber_noachi]]|
-|fallen|[[マイゴ・ニ＝ナリエル]]|'26/01/22|(0)Recruit|α世界線の元[[個人医]]&br()BloodBerryからの紹介&br()守りたい人達を助けてあげるために闇医者になりたいとのこと||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/stray_channel]]|
-|MIA|[[五十嵐　えいむ]]|'26/04/26|(0)Recruit|人手不足の手伝いに申し出、BloodBerryが雇用&br()犯罪者に対しては正体は隠していない|[[Mellow Berry]]&br()[[わんも～Cafe>https://w.atwiki.jp/streamergta5/pages/3410.html]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@bobsappaim0304]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/bobsappaim0304]]|
-|GG|[[加藤　圧]]|'26/04/26|(4)Boss|α世界線の元[[個人医]]で、人手不足で困っていたBloodBerryを見かねて採用を志願&br()但し、本業は別の[[裏稼業>DEP]]であり、闇医者はあくまで副業&br()裏稼業の先達として、ご意見番的な立ち位置だったが、BB不在の現在は暫定的に組織を預かっている。|[[DEP]]|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/katooo]]|
-|AB / CC&br()&s(){Shoebill (SB)}|[[ティキーチック　のすけ]]|'26/05/30|(0)Recruit|BloodBerryが闇医者の存在を開示し、勧誘および雇用。徹底して正体を隠している。変装は日替わり。&br()&small(){&openclose2(show=※旧コードネームの由来){▶所属していた[[MOZU]]の[[ボス>ヴァン　ダーマー]]に与えられた鳥の名「&ruby(はしびろこう){嘴広鸛}」の英名 ⇒ ABに変更}}|[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/riinosuke_twitch]]|
-|23|[[三島　みつー]]|'26/05/30|(0)Recruit|BloodBerryに手伝いたいと申し出があり、雇用&br()犯罪者に対しては正体は隠していない。|[[Mellow Berry]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/mitsuki_mitsuu]]&br()&font(#c9243a){&icon_fa(fa fa-youtube-play)} [[&font(#c9243a){YouTube}>>https://youtube.com/@mituki0916]]|
-||[[霜月　ろっぷ]]|'26/09/30|(0)Recruit|α世界線の元[[個人医]]&br()街で暇を持て余していたため闇医者加入を希望し、全会一致で雇用|[[わんも～Cafe>https://w.atwiki.jp/streamergta5/pages/3410.html]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/ran_hinokuma]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@Ran_Hinokuma]]|
-//|コードネーム|本名|就職日|階級/役職|備考|兼業|配信|
+|~本名|~コードネーム|~就職日|~階級/役職|~備考|~兼業|~配信|h
+|&openclose2(show=？？？){ ▶[[無馬　かな]]}|-|'25/12/28|(4)Boss|α世界線の元[[個人医]]&br()γ世界線に闇医者の技術を持ち込んだ張本人&br()関係者として彼の名前を挙げた場合、聞いた人の記憶を消されるらしい||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kanae_2434]]|
+|[[Back　Alley]]|Back&co(){ダクチャ表示名}|'25/12/28|(4)Boss|α世界線の元[[個人医]]&br()[[？？？>無馬　かな]]に従事する謎の人物||-|
+|[[犬好　マイキー]]|Nobody|'25/12/31|(4)Boss|α世界線の元[[個人医]]&br()[[？？？>無馬　かな]]に気安く話しかけたところ銃撃され、そのまま拠点まで拉致されてしまい、&br()後日、闇医者業の責任者の1人として任命されたが、現状、BloodBerryに任せている|[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]&br()[[わんも～Cafe>https://w.atwiki.jp/streamergta5/pages/3410.html]]|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/gocchanmikey]]|
+|[[我孫子　清十郎]]|cancer|'25/12/31|(0)Recruit|拉致されたNobodyを探すために情報を求めていたところ[[？？？>無馬　かな]]に襲撃され闇医者拠点まで連行&br()後日、Nobodyによって闇医者として任命された|[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]&br()[[わんも～Cafe>https://w.atwiki.jp/streamergta5/pages/3410.html]]|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/d175]]|
+|[[ノア　チェンバー]]|heartless|'26/01/22|(0)Recruit|α世界線の元[[個人医]]&br()BloodBerryからの紹介&br()Nobodyからの圧迫面接や闇医者のリスクを聞いても一切物怖じしない芯の強さを見せた|[[DEP]]|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/vtuber_noachi]]|
+|[[マイゴ・ニ＝ナリエル]]|fallen|'26/01/22|(0)Recruit|α世界線の元[[個人医]]&br()BloodBerryからの紹介&br()守りたい人達を助けてあげるために闇医者になりたいとのこと||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/stray_channel]]|
+|[[五十嵐　えいむ]]|MIA|'26/04/26|(0)Recruit|人手不足の手伝いに申し出、BloodBerryが雇用&br()犯罪者に対しては正体は隠していない|[[Mellow Berry]]&br()[[わんも～Cafe>https://w.atwiki.jp/streamergta5/pages/3410.html]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@bobsappaim0304]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/bobsappaim0304]]|
+|[[加藤　圧]]|GG|'26/04/26|(4)Boss|α世界線の元[[個人医]]で、人手不足で困っていたBloodBerryを見かねて採用を志願&br()但し、本業は別の[[裏稼業>DEP]]であり、闇医者はあくまで副業&br()BB処分後は一時的に組織を預かっていたが、いわさき そすの復帰により組織運営を託す|[[DEP]]|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/katooo]]|
+|[[ティキーチック　のすけ]]|AB / CC&br()&s(){Shoebill (SB)}|'26/05/30|(0)Recruit|BloodBerryが闇医者の存在を開示し、勧誘および雇用。徹底して正体を隠している。変装は日替わり。&br()秘匿運用の解除後も基本的に本名でなく&b(){"AB"}として活動し続けている&br()&small(){&openclose2(show=※旧コードネームの由来){▶所属していた[[MOZU]]の[[ボス>ヴァン　ダーマー]]に与えられた鳥の名「&ruby(はしびろこう){嘴広鸛}」の英名 ⇒ ABに変更}}|[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/riinosuke_twitch]]|
+|[[三島　みつー]]|23|'26/05/30|(0)Recruit|BloodBerryに手伝いたいと申し出があり、雇用&br()犯罪者に対しては正体は隠していない。|[[Mellow Berry]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/mitsuki_mitsuu]]&br()&font(#c9243a){&icon_fa(fa fa-youtube-play)} [[&font(#c9243a){YouTube}>>https://youtube.com/@mituki0916]]|
+|[[霜月　ろっぷ]]||'26/09/30|(0)Recruit|α世界線の元[[個人医]]&br()街で暇を持て余していたため闇医者加入を希望し、全会一致で雇用|[[わんも～Cafe>https://w.atwiki.jp/streamergta5/pages/3410.html]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/ran_hinokuma]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@Ran_Hinokuma]]|
+|[[いわさき　そす]]||'26/11/11|(4)Boss|α世界線で、犯罪者を助ける[[個人医（闇医者）>個人医]]という理念を広めた第一人者&br()その後、職を辞してギャング[[餡ブレラ]]所属していたが、今の闇医者の現状を慮って復帰する&br()BB処分後、一時的に組織を預かっていた加藤 圧から組織運営を引き継ぐ|[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/so5u]]|
+|[[Dr．ぐれは]]||'26/11/11|(0)Recruit|α世界線の元[[個人医]]| |&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/nyattimen]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@-togarisenya-3710]]|
+//|本名|コードネーム|就職日|階級/役職|備考|兼業|配信|
 //
 #table_autoincrement(){label=No.}
 #table_sorter(){head=#E6E6FA,even=#FFFFFF,repeathead=40}}}}
@@ -304,14 +314,13 @@ MEMBERSHIP BADGEは、闇医者の治療等のサービスが受けられる会�
 //従業員の変更があれば「参加者一覧」への反映もお願いします
 //
 #endregion(現 闇医者)
-
 ***&big(){元 闇医者　&font(10,#888){闇医者を退職した市民。}}
 #region(開く)
-#size(90%){{{#table_filter(){コードネーム=show,本名=hide,階級=hide,就職日=hide,退職日=show,備考=show,兼業=hide,配信=hide}
+#size(90%){{{#table_filter(){本名=show,コードネーム=show,階級=hide,就職日=hide,退職日=show,備考=show,兼業=hide,配信=hide}
 #table_style(head=#E0E0E0:center){}
-|~コードネーム|~本名|~階級|~就職日|~退職日|~備考|~兼業|~配信|h
-|Flare|[[星ノ　みこ]]|(0)Recruit|'26/01/22|'26/06/12|α世界線の元[[個人医]]&br()BloodBerryからの紹介&br()前の世界線で黒の人たちのダウン風景をずっと見てきて助けたいという想いを伝え闇医者になった&br()中型介入のスキル不足や白市民(※寄り)としての立場を鑑みて卒業を選んだ|[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]&br()[[Urashima]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@miko_official_]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/miko_official_]]|
-|BloodBerry (BB)|[[ゆちゃ　めろでぃ]]|(4)Boss|'25/12/28|'26/07/08|α世界線の元[[個人医]]&br()？？？に勧誘され、闇医者業の責任者の1人として任命された。&br()個人の交友関係から闇医者組織、顧客を危険に晒したことの責で、記憶改ざんされるために街から出された。|[[LosVegas]]&br()[[Mellow Berry]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCNiU-U3uRSBLuWDEL2hnOnA]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yucham_yuchamero]]|
+|~本名|~コードネーム|~階級|~就職日|~退職日|~備考|~兼業|~配信|h
+|[[星ノ　みこ]]|Flare|(0)Recruit|'26/01/22|'26/06/12|α世界線の元[[個人医]]&br()BloodBerryからの紹介&br()前の世界線で黒の人たちのダウン風景をずっと見てきて助けたいという想いを伝え闇医者になった&br()中型介入のスキル不足や白市民(※寄り)としての立場を鑑みて卒業を選んだ|[[タクシー会社>https://w.atwiki.jp/streamergta5/pages/3420.html]]&br()[[Urashima]]|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@miko_official_]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/miko_official_]]|
+|[[ゆちゃ　めろでぃ]]|BloodBerry (BB)|(4)Boss|'25/12/28|'26/07/08|α世界線の元[[個人医]]&br()[[？？？>無馬　かな]]に勧誘され、闇医者業の責任者の1人として任命された。&br()個人の交友関係から闇医者組織、顧客を危険に晒したことの責で、記憶改ざんされるために街から出された。|[[LosVegas]]&br()[[Mellow Berry]]|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCNiU-U3uRSBLuWDEL2hnOnA]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yucham_yuchamero]]|
 #table_autoincrement(){label=No.}
 #table_sorter(){head=#E6E6FA,even=#FFFFFF,repeathead=40}}}}
 #endregion(元 闇医者)
@@ -428,6 +437,7 @@ MEMBERSHIP BADGEは、闇医者の治療等のサービスが受けられる会�
 |09/30|新メンバー雇用|[[霜月　ろっぷ]]|[[霜月ろっぷ>霜月　ろっぷ]]を雇用|
 |10/10|地下闘技場導入|[[加藤　圧]]|闇医者拠点の隣に地下闘技場が併設された。|
 |10/28|本拠点に賄賂医者出現||旧本拠点が閉鎖されて以降、拠点になかったMedical Black Market（ショップ）が復活。&br()入手困難だった医療用品のGoldもSilver10個と交換できるようになった。|
+|11/11|新メンバー雇用|[[いわさき　そす]]、[[Dr．ぐれは]]|[[いわさき そす>いわさき　そす]]、[[Dr. ぐれは>Dr．ぐれは]]を雇用|
 //|日付|出来事|関係者(本名)|詳細|
 #table_sorter(){odd=#F7F7F7,even=#FFFFFF}}}}
 #endregion(2026年下半期)
