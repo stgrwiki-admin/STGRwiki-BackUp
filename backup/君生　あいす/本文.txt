@@ -109,17 +109,37 @@
 
 #endregion
 
-*エピソード
-**2026年
-***9月
+*エピソード／アーカイブ
+**年表
+#div(bgcolor=#7cb0ff){&font(b,15px,#666666){▫️2026年}}&br()
+#region(開く)
+#areaedit()
+#table_style(head=#E6E6FA:#666666){}
+|~日付|~出来事|~詳細|~備考|h
+|09/16|&bold(){&b(){転入}}|ロスサントスに入国||
+|09/20|&bold(){&b(){就職}}|飲食店"[[サニーケバブ]]"に就職||
+|10/22|&bold(){&b(){就職}}|コンセプトカフェ"[[ぽっぷぽっぷもんすたー]]"に就職||
+|10/30|&bold(){&b(){イベント参加}}|[[ぽっぷぽっぷもんすたー]]オープンイベントに参加||
+|11/08|&bold(){&b(){イベント参加}}|[[モンスターハウスプロダクション]]主催アイドルフェス「LIF」に参加||
+|11/08|&bold(){&b(){入社}}|総合総社 "[[モンスターハウスプロダクション]]"に正式加入||
+
+//|mm/dd|出来事|詳細||
+//&bold(){&b(){人生に大きく関わる出来事}}
+#areaedit(end)
+#endregion(年表-2026年)
+//
+//一度も更新が行われていないため『アーカイブ』を削除し『エピソード』と統合しております。
+//**2026年
+#co{
+//***9月
 #region(開く,open)&bold(){閉じる}
-****09/16　&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>ＵＲＬ]]
+//****09/16　&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>ＵＲＬ]]
 #region(開く,close)閉じる
 -エピソード募集中
 #endregion(16日)
 ----
-
 #endregion(9月)
+}
 //
 //
 #co{
@@ -137,16 +157,5 @@
 #endregion(mm月)
 
 }
-
-*配信アーカイブ
-**2026年
-#region(開く,open)
-#table_style(head=center:#E6E6FA){配信日=right,#=center}
-|~配信日|~#|~YouTube|~Twitch|~備考|h
-|09/16|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>YouTube]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[Twitch>>URL]]||
-
-//|mm/dd|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>YouTube]]|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[Twitch>>URL]]||
-#table_sorter{even=#F7F7F7,odd=fff}
-#endregion(2026年 配信アーカイブ)
 
 #right(){&link_up(▲ページTOP)}

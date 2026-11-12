@@ -3,7 +3,7 @@
 #slide_img(auto=4,position=center,width=320,height=480){IMG_2186.jpeg,IMG_5195.jpeg}
 
 //ここからプロフィール
-#table_style(head=#E6E6FA:#666666){}
+#table_style(head=#F9C3E1:#555){}
 |~名前|~&icon_fa(fa fa-user)|ミルキー・ピンク|
 |~出身地|~&icon_fa(fa fa-location-dot)||
 |~誕生日|~&icon_fa(fa fa-cake-candles)|07月19日 &co(){(&countup(2008/07/19,y)歳)}|
@@ -16,11 +16,10 @@
 |BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@runa_bou]]|
 |BGCOLOR(#eee):~別キャラ|BGCOLOR(#eee):&icon_fa(fa fa-user-plus)|&small(){&openclose2(show=※ネタバレ注意){&br()[[空舞月　るる]](キャラクターエンディング済み)}}|
 //|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ガイドライン>>ここにガイドラインのURLを入力]]|
-
+//
 //
 //各項目は必要に応じて追加・削除をお願いします。参加者の方に二次創作や切り抜きといったガイドラインが制定されている場合は極力記載する方が良いかと思われます。
 //職業を追加・更新した場合、「https://w.atwiki.jp/streamergta5/pages/19.html」（参加者一覧）、その他職業ページ等への追加・更新のご協力をお願いいたします。
-
 
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
@@ -339,7 +338,7 @@
 &font(#DA1725){&icon_fa(fa fa-youtube-play)}[[再生リスト>https://youtube.com/playlist?list=PLPZxDfhvP5jYOQB4JBWpFKMWhlzHCHeQS&si=iWG094uv22mh8pCI]]
 **2025年
 #region(開く,close)
-#table_style(head=center:#E6E6FA){配信日=right,#=center}
+#table_style(head=center:#F9C3E1){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |12/19|01|[[Day1【ストグラ Season2】ロスサントスに到着した3人組>>https://www.youtube.com/watch?v=Gr7XqimMKTk]]||
 |12/24|02|[[Day2【ストグラSeason2】街ブラ/クリスマスライブ/原付購入/初バイト>>https://www.youtube.com/watch?v=rXGZRnzFInA]]||
@@ -352,7 +351,7 @@
 #endregion
 **2026年
 #region(開く,open)
-#table_style(head=center:#E6E6FA){配信日=right,#=center}
+#table_style(head=center:#F9C3E1){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |01/01|07|[[Day7【ストグラSeason2】イタリアンレストラン見学/平井さん盗難車事件/アルタさんと窓拭き>>https://www.youtube.com/watch?v=jqwYyTah9sA]]||
 |01/02|08|[[Day8【ストグラSeason2】初めてのダウン/イタリアンオープン/Bルモッチェとカジノ？探検>>https://www.youtube.com/watch?v=5IbHn8ce9Gk]]||

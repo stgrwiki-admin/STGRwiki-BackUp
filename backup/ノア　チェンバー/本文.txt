@@ -17,20 +17,22 @@
 #endregion
 
 //——————————————————-
+#table_filter(){SEASON1=hide,SEASON2=show}
 #table_color(#FFD4FF)
-|~名前|&bold(){ノア　チェンバー}|
-|~出身地|-|
-|~誕生日|2000年11月3日（&countup(2000/11/3,y)歳）|
-|~転入日|2023年3月28日 (&countup(2023/03/27,yd))|
-|~職業|Season1&br()&small(){&openclose2(show=過去の職業履歴){&nbsp(br,3) [[猫カフェ>猫カフェ武蔵]]店員 &small(){2023/4/10～10/1}&nbsp(br,3) [[IRiS]]専属個人医【闇医者】 &small(){2024/05/24～}&nbsp(br,3) 素材屋「[[月ノ屋]]」店員  &small(){23/10/06～24/04/23} &nbsp(br,3) 中立[[個人医]]&font(#9a9a9a,80%){(24/5/17～)} &nbsp(br,3) 麻薬カルテル【[[DEP]]】&font(#9a9a9a,80%){(24/06/11~)}}}&br()Season2&br()・[[闇医者]] &small(){2026/01/22〜} &br()・[[カルテル>DEP]] &small(){2026/01/31〜} |
-|~レーサー名|ノア|
-|~恋人|[[柳田　ライアン]]|
-|~TwiX|@ノアチェンバー|
-|~プレイヤー|のあち|
-|~告知等|&font(#000){&icon_fa(fa-brands fa-square-x-twitter)}[[&font(#000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/VT_Noachi]]|
-|~配信場所|&font(#BA87F1){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/vtuber_noachi]]|
-|~アーカイブ動画|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Noachi]]|
-|~ハッシュタグ| 🎨ファンアート: [[#のあちあーと>>https://twitter.com/search?q=%23のあちあーと&src=typeahead_click&f=media]]|
+|~世界線|~SEASON1|~SEASON2|h
+|~名前|>|&bold(){ノア　チェンバー}|
+|~出身地|>|-|
+|~誕生日|>|2000年11月3日（&countup(2000/11/3,y)歳）|
+|~転入日|2023年3月28日 (&countup(2023/03/27,yd))|2025年12月19日 (&countup(2025/12/18,yd))|
+|~職業|中立[[個人医]] &font(#9a9a9a,80%){(24/5/17～)} &br() 麻薬カルテル【[[DEP]]】&font(#9a9a9a,80%){(24/06/11~)&br()&openclose2(show=過去の職業履歴){&nbsp(br,3) [[猫カフェ>猫カフェ武蔵]]店員 &small(){2023/4/10～10/1}&nbsp(br,3) [[IRiS]]専属個人医【闇医者】 &small(){2024/05/24～}&nbsp(br,3) 素材屋「[[月ノ屋]]」店員  &small(){23/10/06～24/04/23} }}|[[？？？>闇医者]] &small(){2026/01/22〜} &br()麻薬カルテル【[[DEP]]】&small(){2026/01/31〜} |
+|~レーサー名|ノア||
+|~配偶者||[[柳田　ライアン]]|
+|~TwiX|@ノアチェンバー|@noa|
+|~プレイヤー|>|のあち|
+|~告知等|>|&font(#000){&icon_fa(fa-brands fa-square-x-twitter)}[[&font(#000){X (旧&font(#1da1f2){Twitter})}>>https://twitter.com/VT_Noachi]]|
+|~配信場所|>|&font(#BA87F1){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/vtuber_noachi]]|
+|~アーカイブ動画|>|&font(#F69C9F){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@Noachi]]|
+|~ハッシュタグ|>| 🎨ファンアート: [[#のあちあーと>>https://twitter.com/search?q=%23のあちあーと&src=typeahead_click&f=media]]|
 
 //■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
