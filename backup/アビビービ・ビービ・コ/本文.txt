@@ -8,8 +8,9 @@
 |~出身地|~&icon_fa(fa fa-location-dot)|深海|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年8月19日 (&countup(2026/8/19,yd)経過)|
-|~職業|~&icon_fa(fa-solid fa-building-columns)|飲食店【[[サニーケバブ]]】&small(){体験→店員 2026/08/19～}&br()カジノ【[[Vertex>V HOTEL]]】&small(){体験}&br()ボイストレーニング講師|
-|~所属|~&icon_fa(fa fa-users)|　|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|飲食店【[[サニーケバブ]]】&small(){体験→店員 2026/08/19～}&br()ボイストレーニング講師|
+|~体験|~&icon_fa(fa fa-cash-register)|カジノ【[[Vertex>V HOTEL]]】&small(){体験}&br()|
+|~所属|~&icon_fa(fa fa-users)|音楽レーベル【&ruby(ラニマ){[[Lanima>>ラニマ]]}】|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@abychan|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
 |~電話番号|~&icon_fa(fa fa-phone)|(480)664-5862|
@@ -82,8 +83,9 @@
 　時々イントロクイズをしているが、基本「森のくまさん」が正解となる。
 　ベースを弾く姿はかっこいいが、歌は....。ビービコのノリにも乗ってくれる面白い人。
 #endregion(音楽関係)
-
+//
 //*&font(30px,#FEA2AF){関}&font(25px)係人物 &font(30,#A2CAF2){&icon_fa(fa fa-user)}
+
 *&font(30px,#FEA2AF){エ}&font(25px)ピソード &font(30,#A2CAF2){&icon_fa(fa fa-history)}
 ***&font(b,150%){2026年}
 #div(width=330px,bgcolor=#AFCFE2)
@@ -348,7 +350,6 @@
 #endregion(5日)
 #endregion(11月)
 
-
 #co{
 ↓コピー用素材
 ***mm月
@@ -369,11 +370,13 @@
 |1|&bold(){「FOWK O' FON LIVE vol.6」}&image(FOWKOFONLIVE6.jpg,y=180)|9/19|01. Fly Me to the Moon&br()02. RE:I AM|[[#16 アビビービ・ビービ・コ 服×歌×ライブ>>https://www.twitch.tv/videos/2878267790?t=01h08m09s]]&br()※出演箇所は(01:08:30～)&image(1stlive_2.jpg,x=250)|ペロちゃん(ペトロさん)にお誘いいただき、&br()ロスサントスに来て初めてのLIVEに参加。&br()まだ喉の設定に慣れておらず、リバーブなどなし&br()で歌っていたが、圧巻のパフォーマンスを披露。|
 |2|&bold(){「うさびーびさぽふぇすてぃばる」}&image(2ndlive.jpg,y=180)|10/4|01. 丸の内サディスティック|[[#23 アビビービ・ビービ・コ 音楽×悩む×場所>>https://www.twitch.tv/videos/2891595545?t=01h34m15s]]&br()※出演箇所は(01:34:15～)&image(2ndlive-1.jpg,x=250)|■セットリスト&br()01. 丸の内サデスティック / アビビービ・ビービ・コ&br()02. 酔いどれ知らず / [[天田　さぽ]]&br()03. Holy 今日も。/ [[宇佐　卓]] 「※オリジナル曲」&br()&br()仲良しの同期組[[さぽちゃん>天田　さぽ]]、[[たくちゃん>宇佐　卓]]との&br()３人合同初心者マーク🔰卒業イベント。&br()[[トウ　ユン]]がLIVEをするなら、より特別なおもしろい&br()LIVEにしようと提案してくれて、準備段階から&br()音響設定などをサポートしてくれている。&br()また、1,2曲目はトウユンがアコースティックギターで&br()伴奏＆コーラスを担当し、&br()3曲目はオリジナルソングのため音源で披露。|
 
+
 *&font(30px,#FEA2AF){ボ}&font(25px)イストレーナー講師 &font(30,#A2CAF2){&icon_fa(fa fa-microphone)}
 [[音姫　みつお]]が開いているボイストレーニング教室に講師として参加予定。
 
 　○ボイストレーニング対応予定時間（準備が整い次第開始予定）
 　　19:00～23:00　※開催曜日は都度相談
+
 
 *&font(30px,#FEA2AF){ア}&font(25px)ーカイブ &font(30,#A2CAF2){&icon_fa(fa fa-folder)}
 **Twitch &font(#6441A4){&icon_fa(fa-brands fa-twitch)} 

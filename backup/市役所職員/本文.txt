@@ -15,6 +15,11 @@
 #endregion
 
 *&font(#FFFFFF){&icon_fa(fa fa-university fa-fw) 基本情報}
+**市役所内情報
+-カジノチップの交換が可能
+-街のことを『教えてくれるおじさん』が立っており、質問に応じて知っていることを聞き出すことができる。
+
+**市役所職員について
 &font(b,11px,#bbb){このページでは主にSeason2以降に募集が行われた『市役所職員』についての情報を記載しております。}
 -市役所の事務職で、主に住民の本名の変更や製作物依頼の受付・製作、各種書類受付の業務を行う。&br()市民への無線機販売や活動費受け渡し(許可済みのもの)、店舗のオーナー受け渡し等の業務も請け負っている。
 -Stateから市役所職員へ連絡することができる。
@@ -31,8 +36,8 @@
 #table_style(head=#C0C0C0){名前=bold}
 #table_filter(){就職日=show,兼業=hide,備考=show,配信=show}
 |~名前|~就職日|~兼業|~備考|~配信|h
-|[[町田　ジョアンナ]]|2026/03/26|メカニック[[JTS]] 社長||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[YouTube>>https://www.youtube.com/@joannamachida]]|
-|[[青梅　つばめ]]|2026/04/05|メカニック[[UGM]] マネージャー||&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://www.twitch.tv/gucha_maru]]|
+|[[町田　ジョアンナ]]|2026/03/26|メカニック[[JTS]] 社長||&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@joannamachida]]|
+|[[青梅　つばめ]]|2026/04/05|メカニック[[UGM]] マネージャー||&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/gucha_maru]]|
 |[[天羽　よつは]]|2026/06/05|[[ロスサントス救急救命隊]] 副医局長||&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@YotsuhaAmahane]] / &font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/yochuco]]|
 |[[ほのぼの山　すごす>>仄々山　すごす]]|2026/09/25|[[ロスサントス警察]] 市民課||&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>>https://youtube.com/@yanmikuriyama]]|
 //|[[名前]]|2026/mm/dd|備考|配信|
@@ -52,7 +57,7 @@
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 }
 
-*&font(#FFFFFF){&icon_fa(fa fa-clipboard-list)}  &color(#FFFFFF){市民向け販売品}
+*&font(#FFFFFF){&icon_fa(fa fa-clipboard-list)}  &color(#FFFFFF){市民向け販売品・レンタル}
 #table_style(head=#C0C0C0){値段=right}
 #table_filter(){備考=show}
 |~商品名|~提供開始日|~値段|~備考|h
