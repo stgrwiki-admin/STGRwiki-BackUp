@@ -25,7 +25,7 @@
 #div(bgcolor=#dedfdf,padding=20px){
 #center(){&font(11px,#383838){K Y R I L　 M I L I C E N T N E}}
 #hr(width=100%,height=2,color=#ffffff)
-#center(){&font(16px,#202020){&font(i){イギリスのとある資産家に仕えていた元執事。&br()ギャングに屋敷を襲撃され天涯孤独の身となる。&br()襲撃の際に頭を撃ち抜かれ、片眼と記憶を失うが、&br()失踪した『お嬢様』と再会するため旅に出た。&br()ロスサントス...そこに手がかりがあると信じて。}}}
+#center(){&font(15px,#202020){&font(i){イギリスのとある資産家に仕えていた元執事。&br()ギャングに屋敷を襲撃され天涯孤独の身となる。&br()襲撃の際に頭を撃ち抜かれ、片眼と記憶を失うが、&br()失踪した『お嬢様』と再会するため旅に出た。&br()ロスサントス...そこに手がかりがあると信じて。}}}
 #hr(width=100%,height=2,color=#ffffff)
 #right(){&font(11px,#383838){― 公式プロフィールより}}
 }
@@ -174,4 +174,21 @@
 #endregion(9月)
 #endregion
 
+*&font(#ffffff){&icon_fa(fa-solid fa-link)} ストグラ外コラボ
+//#div(width=250px,color=#ffffff,bgcolor=#6d7172){&nbsp;&icon_fa(fa-solid fa-plane-departure)&nbsp;&font(b,18px){イベント}}
+//***&color(#6d7172){●} STGR MYSTERY SHOW 2026
+//#region(開く,close)閉じる
+//#table_style(head=center:#6d7172:#FFF){}
+//|~日付|~内容|~会場|~備考|
+//|2026/11/15|STGR MYSTERY SHOW 2026 第一部|有楽町よみうりホール|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[関連ポスト>>https://x.com/STGR_RolePlay/status/2109947254618677424?a=JzEaPH40L3lqTrpbMKQ&s=20]]|
+//#endregion
+//
+#div(width=250px,color=#ffffff,bgcolor=#6d7172){&nbsp;&icon_fa(fa-solid fa-gamepad)&nbsp;&font(b,18px){ゲーム}}
+
+#region(開く,close)閉じる
+#table_filter(){日付=show,内容=show,参加者=show,他視点=hide,関連切り抜き=hide}
+#table_style(head=center:#6d7172:#FFF){}
+|~日付|~内容|~参加者|~他視点|~関連切り抜き|h
+|2026/11/12|公務員OW|おらんじ～な/こるぺん/Rio/るなりあ|[[おらんじ～な視点>>https://www.youtube.com/live/7Z2lJo_tqlU?si=XkNz-K46fhigIMRP]]/[[Rio視点>>https://www.twitch.tv/videos/2926840878]]||
+#endregion
 #right(){&link_up(🔝ページTOPへ)}
