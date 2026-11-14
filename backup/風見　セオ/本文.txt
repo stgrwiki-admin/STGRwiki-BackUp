@@ -1937,6 +1937,7 @@ BMCからの戻りは、途中で水没し終了
 #endregion(02月)
 //#endregion(2024年)
 ***2024年03月
+#region(詳細)
 #region(03/01 【#31】打ち明け話、菖光亭就職、組織勧誘,close)
 &bold(){03/01 [[【#ストグラ 31日目】一意専心 - 風見セオ視点 ※鳩指示ネタバレ禁止【ネオポルテ / 瀬尾カザリ】>>https://www.twitch.tv/videos/2077968894]]}
 -&bold(){サーマルミッション}
@@ -2111,6 +2112,7 @@ ATM引っこ抜き成功→まさかのレキさんATM拾い損ね&openclose2(sh
 &openclose2(show=詳細){&br()&br()}
 ・エピソード募集中
 #endregion
+#endregion(2024-03月)
 ***2024年04月
 #region(04/07 【#37】久々の起床、四五六確、レキと近況報告、無馬さんの近況,close)
 &bold(){04/07 [[【ストグラ / 風見セオ】37日目 ちょっとだけ、ね【ネオポルテ / 瀬尾カザリ】>>https://www.twitch.tv/videos/2113462325]]}
@@ -2139,8 +2141,9 @@ ATM引っこ抜き成功→まさかのレキさんATM拾い損ね&openclose2(sh
 強制瞑想後、[[福田>福田　明宏]]さんにあいさつした後、客が増えて騒々しくなった店内を見て、今日は寝ることに
 ヘリをガレージに戻し、レギオンで入眠
 #endregion
-#co{
-↓コピー用素材
+//
+//
+#co{↓コピー用素材
 
 #region(mm/dd 一言,close)
 &bold(){mm/dd [[配信タイトル>>ここに配信URLを入力]]}
@@ -2148,7 +2151,6 @@ ATM引っこ抜き成功→まさかのレキさんATM拾い損ね&openclose2(sh
 &openclose2(show=詳細){&br()&br()}
 ・エピソード募集中
 #endregion
-
 
 }
 
@@ -2196,6 +2198,7 @@ ATM引っこ抜き成功→まさかのレキさんATM拾い損ね&openclose2(sh
 |BGCOLOR(#F9F8CB):~&blankimg(https://img.atwiki.jp/streamergta5/attach/1095/6283/GTX.png	,y=109,x=200)|BGCOLOR(#F9F8CB):~&blankimg(https://img.atwiki.jp/streamergta5/attach/1095/6294/Seashark.png	,y=109,x=200)|BGCOLOR(#F9F8CB):~&blankimg(https://img.atwiki.jp/streamergta5/attach/1095/6296/Blazer%20Lifeguard.jpg	,y=109,x=200)|BGCOLOR(#F9F8CB):~&blankimg(https://img.atwiki.jp/streamergta5/attach/1095/6295/Hakuchou%20Drag.jpg	,y=109,x=200)|
 |BGCOLOR(#FFEC47):~&color(#ffffff)Vapid Domimator GTX&br()&size(10){A帯}|BGCOLOR(#FFEC47):~&color(#ffffff)Speedophile Seashark&br()&size(10){ボート}|BGCOLOR(#FFEC47):~&color(#ffffff)Nagasaki Blazer Lifeguard&br()&size(10){C帯}|BGCOLOR(#FFEC47):~&color(#ffffff)Shitzu Hakuchou Drag&br()&size(10){S帯}|
 #endregion
+
 **&font(#FFEC47){&icon_fa(fas fa-folder)} アーカイブ
 ***Season1
 #region(開く)閉じる
@@ -2311,17 +2314,19 @@ ATM引っこ抜き成功→まさかのレキさんATM拾い損ね&openclose2(sh
 #table_sorter{even=#f7f7f7,odd=fff}
 //|mm/dd|n|&font(#3B4EF0){&icon_fa(fa fa-twitch)}[[配信タイトル>>ここに配信URLを入力]]||
 #endregion
-**&font(#FFEC47){&icon_fa(fa fa-video-camera)}動画
+
+**&font(#FFEC47){&icon_fa(fa fa-video-camera)} 動画
 ***2024年
-#region(開く,open)
+#region(開く,close)
 #table_style(head=center:#FFEC47){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |03/25|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】風見セオ1日目～7日目総集編【風見セオ/瀬尾カザリ/Neo-Porte/切り抜き】>>https://www.youtube.com/watch?v=huy1axLpPQ0]]||
 |04/09|2|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【#ストグラ】風見セオ8日目～12日目総集編【風見セオ/瀬尾カザリ/Neo-Porte/切り抜き】>>https://youtu.be/Kya4Zxstjck?si=T4poyfIdEjIy_qe5]]||
 #endregion
+
 **&font(#FFEC47){&icon_fa(fas fa-users)}ストグラ外コラボ
 ***2024年
-#region(開く,open)
+#region(開く,close)
 #table_style(head=center:#FFEC47){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |02/04|1|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[【ストグラ 中の人コラボ #歌枠】生歌最強歌枠！※初めましてです【鴉紋ゆうくを×瀬尾カザリ】>>https://www.youtube.com/live/nfZ4jEKTcxssi=K81wPx8UmmL4hmOB]]|[[葵井優>葵井　優]]役[[鴉紋ゆうく>https://youtube.com/@AmonYuukusi=XqjKg2qcxtJsYklU]]さんのチャンネル|

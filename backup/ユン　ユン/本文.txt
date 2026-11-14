@@ -2,7 +2,7 @@
 //&image(ここに画像のURLを入力,y=400)
 
 //ここからプロフィール
-#table_style(head=#E6E6FA:#666666){}
+#table_style(head=#FFFFFF:#B1324B){}
 |~名前|~&icon_fa(fa fa-user)|ユン　ユン|
 |~出身地|~&icon_fa(fa fa-location-dot)|猫の国|
 |~誕生日|~&icon_fa(fa fa-cake-candles)||
@@ -34,7 +34,7 @@
 -猫の国から来たユンユン&br()猫の国の前から[[鈴　宮]]とは友達
 -髪の色：白&br()服装：上下白のジャージとパーカー&br()愛車：Dinka Urban AT(にゃんにゃん)
 
-*エピソード
+*エピソード／アーカイブ
 **2026年
 #region(開く,open)&bold(){閉じる}
 ***3月 ~ 
@@ -70,7 +70,7 @@
 #endregion(03/05日)
 ----
 ****10/29 [[タイトル>>ＵＲＬ]]
-#region(開く,open)閉じる
+#region(開く,close)閉じる
 -エピソード募集中
 #endregion(10/29)
 ----
@@ -81,23 +81,13 @@
 
 #region(mm月,open)&bold(){mm月}
 
-***mm/dd [[タイトル>>ＵＲＬ]]
-#region(開く,open)閉じる
+****mm/dd [[タイトル>>配信ＵＲＬ]]
+#region(開く,close)閉じる
 -エピソード募集中
 #endregion(dd日)
 
 #endregion(mm月)
 
 }
-
-*アーカイブ
-**2026年
-#region(開く,open)
-#table_style(head=center:#E6E6FA){配信日=right,#=center}
-|~配信日|~#|~配信タイトル|~備考|h
-|03/05|1|[[ユンユン1日新しい都市観察！>>https://www.youtube.com/watch?v=H05eOJtCHDI]]||
-//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
-#table_sorter{even=#F7F7F7,odd=fff}
-#endregion
 
 #right(){&link_up(🔝ページTOPへ)}
