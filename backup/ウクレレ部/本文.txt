@@ -21,7 +21,7 @@
 **&font(30px,#d0af4c)部員
 #region(開く,open)
 #table_filter(){加入日=hide}
-#table_style(head=center:#ffe7b8)
+#table_style(head=center:#ffee7c)
 |~名前|~加入日|~備考|h
 |[[星ノ　みこ]]|yyyy/mm/dd|部長 / ウクレレデュオみこびこ|
 |[[ぞん　美子]]|yyyy/mm/dd|ウクレレデュオみこびこ|
@@ -46,7 +46,7 @@
 |[[鮫島　フラム]]|2026/05||
 |[[パキ　ち]]|2026/05/16||
 |[[惑朽　ルーシー]]|2026/mm/dd||
-#table_sorter{even=#fff6de,odd=#FFFFFF}
+#table_sorter{even=#fffded,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
 #endregion
 
@@ -58,7 +58,6 @@
 |~日付|~イベント名|~セットリスト|~エピソード・備考|~関連アーカイブ|
 |MIDDLE:03/25|MIDDLE:ウクレレ部発表会&image(ukuleleclub_1.jpg,y=180)|MIDDLE:01. 道 / [[星ノ　みこ]]&br()02. きみと / [[星ノ　みこ]]&br()03. 宝さがし / [[亀山　HERO>>焼野原　ひろし]]&br()04. Farm Days / [[ミルキー・ピンク]]&br()05. 輪 / [[ダミ　アン]]&br()06. ハンバーグをはんぶんこ / [[渡戸　リー]]|非常に大きな反響があり、イベント当日にウクレレを購入する住民もいたりなど、&br()このイベントをきっかけに部員が急増|[[【ストグラseason2】ウクレレ部で初ステージに立つみこ　過去のトラウマ克服《記憶障害の原因が判明？》>>https://youtu.be/7pW3ZqTwl9E?si=aE_B5I94MQPSqKXC]]|
 |MIDDLE:06/05|MIDDLE:ウクレレ部発表会&image(ukuleleclub_2.jpg,y=180)|MIDDLE:01. 君のように / [[ペトロ　アルドベッグ]]&br()02. 釣りとあの子と / [[亀山　HERO>>焼野原　ひろし]]&br()03. きみと / [[星ノ　みこ]]&br()04. ブルーミング / [[レイジー　ルードマン]]&br()05. Your My Home / [[町田　ジョアンナ]]|||
-
 
 //MIDDLE:mm/dd|MIDDLE:イベント名|出演者|エピソード・備考|
 #table_sorter{even=#fffce9,odd=#FFFFFF}
