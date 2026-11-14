@@ -25,8 +25,9 @@
 
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
+#endregion
 
-&bold(){*基本情報}
+*基本情報
 ・[[タラちゃん>タラ　ちゃん]]と[[バンザイ スギル>バンザイ　スギル]]が特殊詠唱によって英霊をこの街に召喚しようとしたが失敗して召喚された
 ・・召喚された場所が墓地で詠唱が不完全だった（？）為ダウン状態で降り立った⇒[[🎬>>https://www.twitch.tv/zonbko/clip/GleamingInexpensiveRaisinLeeroyJenkins-yZsFgs_UhccF1J4x]][[🎬>>https://www.twitch.tv/zonbko/clip/BrightGiantPelicanCurseLit-AXBFFWLX4WA6FuDi]][[🎬>>https://www.twitch.tv/zonbko/clip/HonorableTentativeHamsterCeilingCat-vXpHyYRDWo7voRNN]]
 ・生きても死んでもいない不完全な状態で誕生したためゾンビである
@@ -54,9 +55,8 @@
 ・2025年4月[[麻陀羅組]]主催の初イベントを開催するにあたり、[[組長>>タラ　ちゃん]]の思惑で組長命令で企画以外の運営や準備などを一任された
 ・・責任感や自主性の成長を望んだ組長の狙い通り、組長の期待に応える成果を出す。自身も自分で何かを企画し生み出したいと思うようになった
 ・[[星ノ　みこ]]と意気投合しウクレレデュオ「みこびこ」を結成する
-
-#endregion
 //まとまりが良いかと思い「ごえぞん同盟」については「友人関係」の中に入れさせていただきました
+
 *人間関係
 #region([[麻陀羅組]],open)&b(){麻陀羅組}
 
@@ -453,7 +453,7 @@
 ※長くなったため全て収納したので「開く」で開いてご覧ください
 //仕事が忙しくなりあまり更新できなくなったため、試験的に「あらすじ」のようなものだけ更新して後から細かく書くスタイルをとろうと思います、もちろんどなたでもあらすじを編集して清書してもらっても大丈夫です！
 **2024年
-#region(2024年,close)
+#region(開く,close)閉じる
 ***2月
 #region(開く,close)
 ****02/13 [[1日目 ここは…どこ⁉>>https://www.twitch.tv/videos/2061627875]]
@@ -1756,6 +1756,7 @@
 #endregion(2024年)
 //--------------------
 **2025年
+#region(開く)閉じる
 ***1月
 #region(開く,close)
 ****01/04 [[【雑談】超絶BIGnaお知らせあり…⁉久々にまったり雑談だ！I have some BIG news! Let's talk together!【Vtuber】>>https://www.youtube.com/watch?v=_FKCiBo7Isg]]
@@ -2063,6 +2064,7 @@
 #endregion
 
 #endregion(4月)
+#endregion(2025年)
 //--------------------
 
 #co{
@@ -2076,7 +2078,7 @@
 }
 *アーカイブ
 **2024年
-#region(2024年,close)
+#region(開く,close)閉じる
 ***2月
 #region(開く,close)
 #table_style(head=center:#6b8e23:#fcfdfc){配信日=right,#=center}
@@ -2306,6 +2308,7 @@
 #endregion
 #endregion
 **2025年
+#region(開く)閉じる
 ***1月
 #region(開く,close)
 #table_style(head=center:#6b8e23:#fcfdfc){配信日=right,#=center}
@@ -2348,7 +2351,7 @@
 #table_sorter{even=#f5ffef,odd=fff}
 #endregion
 ***3月
-#region(開く,open)
+#region(開く,close)
 #table_style(head=center:#6b8e23:#fcfdfc){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |03/01|172|[[171日目 お友達探し中のねおきぞんこ>>https://www.twitch.tv/videos/2394175702]]||
@@ -2367,7 +2370,7 @@
 #table_sorter{even=#f5ffef,odd=fff}
 #endregion
 ***4月
-#region(開く,open)
+#region(開く,close)
 #table_style(head=center:#6b8e23:#fcfdfc){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |04/04|185|[[184目 お友達探し中ぞん美子>>https://www.twitch.tv/videos/2423724743]]||
@@ -2379,6 +2382,6 @@
 //|mm/dd|n|[[配信タイトル>>ここに配信URLを入力]]||
 #table_sorter{even=#f5ffef,odd=fff}
 #endregion
-
+#endregion(2025)
 
 #right(){&link_up(🔝ページTOPへ)}

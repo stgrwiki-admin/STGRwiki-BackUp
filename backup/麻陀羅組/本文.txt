@@ -237,10 +237,10 @@
 ***&underdot(#6A9E6C,3px){&icon_fa(fa-solid fa-circle-info)&space(2)体験者一覧　}
 #region(一覧)
 #size(90%){#table_style(head=#48A06A:#FFFFFF:center){}
-#table_filter(){加入日=hide,役職=show,紹介=show,配信=show}
-|名前|加入日|役職|紹介|配信|h
-|[[トントコ　トンコ]]|2024/08/11|体験中&br()'24/8/11～|白か黒か進む道を決めかねている際たまたま知り合った[[タラ　ちゃん]]に教えてもらった&br()お仕事(お花摘み)の最中に逮捕された際に警官達と話した時に感じたことをじっくり考え&br()自身は白で生きるより黒が向いていると考えが固まり意思が決まった&br()[[タラ　ちゃん]]にこの街のギャングと半グレのことや[[麻陀羅組]]の理念や活動内容を聞き、&br()トンコ自身[[麻陀羅組]]に共感する部分が多く自分にここは合っている組織だと感じそれを伝え&br()それを受けた[[タラ　ちゃん]]は「うちは個人の能力より重視しているのは人柄だ」という&br()スタンスから、トンコに興味もあるし人となりを見たいと言うことで体験がスタートした|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube (@narumiyu)}>>https://www.youtube.com/c/narumiyu]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch (763ch)}>>https://www.twitch.tv/763ch]]|
-|[[アーク　ダイマー]]|2025/09/10|体験中&br()'25/09/10～&br()'26/01/15|街の外からやって来た住人。この街でやりたい事がある話を聞いた&br()黒側の事を知りたいと言う考えと麻陀羅の方針が合致したため体験を開始&br()シーズン2になり外部との連絡が取れず孤立した状態でやりたかった事が出来ない状態になり&br()一人で色々やりたいが勝手をやって麻陀羅に迷惑を掛けてはいけないと思い体験終了を伝えて来た&br()関係はこれからも変わらず協力し合える事があればしていきましょうと話し旅立ちの背中を押した|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@AkkunDaimaolf8958]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/akkun_daimao]]|
+#table_filter(){体験期間=show,紹介=show,配信=show}
+|名前|体験期間|紹介|配信|h
+|[[トントコ　トンコ]]|体験中&br()'24/8/11～|白か黒か進む道を決めかねている際たまたま知り合った[[タラ　ちゃん]]に教えてもらった&br()お仕事(お花摘み)の最中に逮捕された際に警官達と話した時に感じたことをじっくり考え&br()自身は白で生きるより黒が向いていると考えが固まり意思が決まった&br()[[タラ　ちゃん]]にこの街のギャングと半グレのことや[[麻陀羅組]]の理念や活動内容を聞き、&br()トンコ自身[[麻陀羅組]]に共感する部分が多く自分にここは合っている組織だと感じそれを伝え&br()それを受けた[[タラ　ちゃん]]は「うちは個人の能力より重視しているのは人柄だ」という&br()スタンスから、トンコに興味もあるし人となりを見たいと言うことで体験がスタートした|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube (@narumiyu)}>>https://www.youtube.com/c/narumiyu]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch (763ch)}>>https://www.twitch.tv/763ch]]|
+|[[アーク　ダイマー]]|体験中&br()'25/09/10～&br()'26/01/15|街の外からやって来た住人。この街でやりたい事がある話を聞いた&br()黒側の事を知りたいと言う考えと麻陀羅の方針が合致したため体験を開始&br()シーズン2になり外部との連絡が取れず孤立した状態でやりたかった事が出来ない状態になり&br()一人で色々やりたいが勝手をやって麻陀羅に迷惑を掛けてはいけないと思い体験終了を伝えて来た&br()関係はこれからも変わらず協力し合える事があればしていきましょうと話し旅立ちの背中を押した|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){YouTube}>>https://www.youtube.com/@AkkunDaimaolf8958]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/akkun_daimao]]|
 
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFF}
