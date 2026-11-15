@@ -11,7 +11,7 @@
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@|
 |BGCOLOR(#FFFFFF):~&color(#6d7172){プレイヤー}|BGCOLOR(#FFFFFF):~&color(#6d7172){&icon_fa(fa fa-address-card-o fa-fw)}|霧島ジャック|
 |BGCOLOR(#FFFFFF):~&color(#6d7172){告知等}|BGCOLOR(#FFFFFF):~&color(#6d7172){&icon_fa(fa fa-bullhorn)}|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧 &font(#1da1f2){&icon_fa(fa fa-twitter) Twitter}) @MeiTanteiJack}>>https://x.com/MeiTanteiJack]] &small(){（メイン）}&br()&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧 &font(#1da1f2){&icon_fa(fa fa-twitter) Twitter}) @JackGames24h}>>https://x.com/JackGames24h]] &small(){（配信告知）}|
-|BGCOLOR(#FFFFFF):~&color(#6d7172){配信場所}|BGCOLOR(#FFFFFF):~&color(#6d7172){&icon_fa(fa fa-gamepad)}|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@MeiTanteiJack]]|
+|BGCOLOR(#FFFFFF):~&color(#6d7172){配信場所}|BGCOLOR(#FFFFFF):~&color(#6d7172){&icon_fa(fa fa-gamepad)}|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@MeiTanteiJack]]&small(){(Day1)}&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://twitch.tv/kirishimajack]]&small(){(Day2~)}|
 |BGCOLOR(#FFFFFF):~&color(#6d7172){切り抜き}|BGCOLOR(#FFFFFF):~&color(#6d7172){&icon_fa(fa-solid fa-cut)}|以下のポストをご確認ください。&br()[[ポスト1>>https://x.com/MeiTanteiJack/status/1891405009927143560]]、[[ポスト2>>https://x.com/MeiTanteiJack/status/1891457035335586123]]|
 |BGCOLOR(#FFFFFF):~&color(#6d7172){別キャラ}|BGCOLOR(#FFFFFF):~&color(#6d7172){&icon_fa(fa fa-user-plus)}|&small(){&openclose2(show=※ネタバレ注意){&br()[[ジャン＝ジャック・ヴァラン]]}}|
 
@@ -33,7 +33,6 @@
 #div(width=370px,color=#ffffff,bgcolor=#6d7172){&font(i,b,18px){&space(5)来歴・状況}}
 ・仕えていた屋敷はギャングによって失われ、主人およびお嬢様は行方不明となっている。
 ・ロスサントスに来る以前に頭部を負傷しており、その影響で記憶は酷く曖昧となっている。ただし、「ロスサントスにお嬢様がいる」という点については、強い確信を抱いている。
-・お嬢様は女性であり、会話が可能な年齢である（赤子ではない）と認識している。
 ・使い捨てのゴムボートでロスサントスへ上陸した。
 ・情報屋から「ロスサントス１番の情報通で、聡明な頭脳の持ち主であり、ギャングでさえも尻尾を撒いて逃げてしまう」という人物の電話番号を高値で買った。しかし、電話をかけてみると[[安保　さぶ郎]]の番号であるとわかり、電話を切ったのちに「クソッ！！騙された！！」と叫んだ。
 
@@ -44,8 +43,22 @@
 ・好きな色：白
 ・綺麗好きであり、ポテトチップスを触った手で不用意に体に触れられたり、掃除をした場所をベタベタ触るようなことがあれば、控えめに言って殺意を覚える。
 
+*&color(#ffffff){&font(#ffffff){&icon_fa(fa fa-chess-queen)} お嬢様について }
+***&font(18px,#6d7172){&icon_fa(fa fa-clipboard-list)} &font(b,18px){お嬢様の特徴}
+・お嬢様は女性であり、会話が可能な年齢である（赤子ではない）と認識している。
+
+***&font(18px,#6d7172){&icon_fa(fa fa-user-xmark)} &font(b,18px){お嬢様ではないと判断した人物}
+#table_style(head=center:#6d7172:#FFFFFF)
+|~人物名|~判断理由|h
+|[[ももみ]]|両親がいると聞いたため。|
+|[[キラ・メキーラ]]|顔を確認した結果、お嬢様ではないと判断。|
+|[[丘猫　まる]]|顔を確認した結果、お嬢様ではないと判断。|
+
 *&color(#ffffff){&font(#ffffff){&icon_fa(fa fa-users)} 人間関係 }
 ***&font(18px,#6d7172){&icon_fa(fa fa-shield-halved)} &font(b,18px){警察}
+//
+//進捗：Day2まで！
+//
 #region(開く,open)
 #table_filter(){呼称=hide,間柄=hide,備考=hide}
 #table_style(head=center:#6d7172:#FFFFFF){配信日=right,#=center}
@@ -53,7 +66,7 @@
 |[[安保　さぶ郎]]|安保様|先輩|・情報屋から「ロスサントス１番の情報通で、聡明な頭脳の持ち主。&br()ギャングでさえも尻尾を撒いて逃げてしまう」と紹介された人物。||
 |[[ましゃかり　トラボルタ]]|署長|先輩|・東署の署長。本人から「署長」と呼ぶようにと言われた。||
 |[[メチャ南　よる]]|DX(デラックス)様|先輩|・[[キャップ>>ましゃかり　トラボルタ]]から「メチャ南DX(デラックス)」と紹介されたため、以降「DX様」と呼んでいる。&br()・メチャ南の飼い犬も「DX」という名前のため、犬の方は「チビDX」と呼ぶことにした。||
-|[[伊勢　えびす]]|えびす様|先輩|・キリルのあだ名を「セントくん」と命名した人物。||
+|[[伊勢　えびす]]|えびす様|先輩|・科捜研隊長。&br()・キリルのあだ名を「セントくん」と命名した人物。||
 |[[ラピス　りお]]|ラピス様|先輩|・復職した先輩。・風呂キャンを最大2週間続けたことがあると聞き、軽蔑した。||
 |[[シオコ　リコ]]|ママ様|先輩|・[[キャップ>>ましゃかり　トラボルタ]]から「ママ」と紹介されたため、以降「ママ様」と呼んでいる。||
 #endregion
@@ -64,8 +77,6 @@
 #table_style(head=center:#6d7172:#FFFFFF){配信日=right,#=center}
 |~人物名|~呼称|~間柄|~エピソード|~備考|h
 |[[ノビー　ラング]]|||・初対面から、なぜか「追加HO(ハンドアウト)さん」と呼んでくる人物。||
-|[[ももみ]]|||・ご両親がいるか尋ねたところ、「お父さんとお母さんがいる」「ご存命です、たぶん」と答えたため、お嬢様ではないと判断した。||
-|[[キラ・メキーラ]]|||・顔をよく確認したが、お嬢様ではないと判断した。||
 #endregion
 
 ***&font(18px,#6d7172){&icon_fa(fa-solid fa fa-user)} &font(b,18px){白市民}
@@ -75,7 +86,6 @@
 #table_style(head=center:#6d7172:#FFFFFF){配信日=right,#=center}
 |~人物名|~呼称|~所属|~エピソード|~備考|h
 |[[陽影　空]]|空様|[[サニーケバブ]]|・[[脇　逢魔]]と一緒にこの街に来た、転送組ではない住民。&br()・人探しをしている状況が似ているため、協力し合おうと話した。||
-|[[丘猫　まる]]|||・顔をよく確認したが、お嬢様ではないと判断した。||
 #endregion
 
 ***&font(18px,#6d7172){&icon_fa(fa-solid fa-gun)} &font(b,18px){黒市民}
@@ -83,14 +93,14 @@
 #table_filter(){呼称=hide,所属=show,備考=hide}
 #table_style(head=center:#6d7172:#FFFFFF){配信日=right,#=center}
 |~人物名|~呼称|~所属|~エピソード|~備考|h
-|[[三条　ねぎ]]|||・初めて逮捕した犯罪者。||
+|[[三条　ねぎ]]|||・警察体験時に初めて逮捕した犯罪者。||
 #endregion
 *&color(#ffffff){&font(#ffffff){&icon_fa(fa fa-book)} エピソード }
 ※編集者募集中
 ***2025年
 #region(12月,close)&bold(){12月}
 ****12/28 [[Day 1 来ましたよ、ロスサントス>>https://www.youtube.com/live/wgmYZIHQ3Y8?si=4rK5kltORSXNzidl]]
-#region(開く,close)
+#region(開く,open)
 配信アーカイブのタイムスタンプをご覧ください。
 #endregion
 #endregion(12月)
@@ -175,14 +185,14 @@
 #endregion
 
 *&font(#ffffff){&icon_fa(fa-solid fa-link)} ストグラ外コラボ
-//#div(width=250px,color=#ffffff,bgcolor=#6d7172){&nbsp;&icon_fa(fa-solid fa-plane-departure)&nbsp;&font(b,18px){イベント}}
-//***&color(#6d7172){●} STGR MYSTERY SHOW 2026
-//#region(開く,close)閉じる
-//#table_style(head=center:#6d7172:#FFF){}
-//|~日付|~内容|~会場|~備考|
-//|2026/11/15|STGR MYSTERY SHOW 2026 第一部|有楽町よみうりホール|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[関連ポスト>>https://x.com/STGR_RolePlay/status/2109947254618677424?a=JzEaPH40L3lqTrpbMKQ&s=20]]|
-//#endregion
-//
+#div(width=250px,color=#ffffff,bgcolor=#6d7172){&nbsp;&icon_fa(fa-solid fa-plane-departure)&nbsp;&font(b,18px){イベント}}
+***&color(#6d7172){●} STGR MYSTERY SHOW 2026
+#region(開く,close)閉じる
+#table_style(head=center:#6d7172:#FFF){}
+|~日付|~内容|~会場|~備考|
+|2026/11/15|STGR MYSTERY SHOW 2026 第一部|有楽町よみうりホール|&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}[[関連ポスト>>https://x.com/STGR_RolePlay/status/2109947254618677424?a=JzEaPH40L3lqTrpbMKQ&s=20]]|
+#endregion
+
 #div(width=250px,color=#ffffff,bgcolor=#6d7172){&nbsp;&icon_fa(fa-solid fa-gamepad)&nbsp;&font(b,18px){ゲーム}}
 
 #region(開く,close)閉じる
