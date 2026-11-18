@@ -57,8 +57,12 @@
 #region(開く,close)閉じる
 #center(){
 #table_style(head=center:#d9333f:#FFF)
-|~私服（マスクあり）|~わんも〜Cafe 体験着|~夏服|~浴衣|h
-|MIDDLE:&image(aibo1.png,x=135,y=240)|MIDDLE:&image(aibo2.png,x=135,y=240)|MIDDLE:&image(aibo3.png,x=135,y=240)|MIDDLE:&image(aibo4.png,x=135,y=240)|}
+|~私服(マスクあり)|~わんも〜Cafe 体験着|~夏服|h
+|MIDDLE:&image(aibo1.png,x=135,y=240)|MIDDLE:&image(aibo2.png,x=135,y=240)|MIDDLE:&image(aibo3.png,x=135,y=240)|}
+#center(){
+#table_style(head=center:#d9333f:#FFF)
+|~浴衣|~ふぷきしよう(吹○士郎)|~パジャマ|h
+|MIDDLE:&image(aibo4.png,x=135,y=240)|MIDDLE:&image(aibo5.png,x=135,y=240)|MIDDLE:&image(aibo6.png,x=135,y=240)|}
 #endregion
 //
 
@@ -92,18 +96,22 @@
 &image(natumaturi.aibo.png,y=200)
 -夏祭りスタート
 --盆踊り、射的、ライブ
--かくれんぼをする
+-[[音姫　みつお]]に誘われ、かくれんぼをする
 -ガソリンスタンドバイトをする
 -F3ルーレットを見る
 -f3ルーレット初挑戦
--ガソスタバイトの社宅で乾杯
+-ガソスタバイトの社宅で乾杯🍻
 #endregion(29日)
 ----
 ****8/30　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[3日目 とにかく働く>>https://www.youtube.com/live/H3lxF5WI9Jk?si=toROp8iPXdGoGGH9]]&space(2)&small(){}
 #region(開く,close)閉じる
 -泥酔したまま起床
--ガソスタバイトをする
--サッカーする
+-ガソスタバイトをする（①）
+-サッカーする→優勝 & MVP獲得🏆
+-初のメイドカフェ（[[LastJump in ParadiseLost]]）へ行く
+-パジャマを買う
+-ガソスタバイトをする（②）
+-パジャマに着替え、社宅で乾杯🍻
 #endregion(30日)
 ----
 #endregion(mm月)
@@ -113,7 +121,8 @@
 #region(開く,close)&bold(){閉じる}
 ****9/3　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[ 4日目 車を手に入れるときが来た！>>https://www.youtube.com/live/2mfviq_Hpd8?si=tOWWS7lJUBKGC7ip]]
 #region(開く,close)閉じる
--エピソード募集中
+-（衛生外にて、ガソスタバイトをして約420万稼いだが、トラックの下敷きになり大怪我をし、治療費や手数料など諸々で約7,80万円失う。
+-
 #endregion(3日)
 ----
 ****9/9　&font(#DA1725){&icon_fa(fa-brands fa-youtube)}　[[ 5日目 やべぇ！早く１人前になろうぜ！>>https://www.youtube.com/live/iAGhpHJ9HK8?si=svM4C_D9uw7fjo6S]]
@@ -168,7 +177,7 @@
 
 #div(width=150px,bgcolor=#d9333f)
 {&font(b,#FFFFFF,120%){　9月}}
-#region(開く,open)
+#region(開く,close)
 #table_style(head=center:#d9333f:#FFF){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |26/9/3|4|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[4日目 車を手に入れるときが来た！>>https://www.youtube.com/live/2mfviq_Hpd8?si=tOWWS7lJUBKGC7ip]]||

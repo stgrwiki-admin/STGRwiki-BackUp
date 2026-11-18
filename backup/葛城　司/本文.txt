@@ -779,15 +779,20 @@ Coming soon...
 #table_autoincrement(){label=#,start=1}
 #endregion(ゲーム)
 }
+**歌ってみた
+#table_color(head=#a1de6e)
+|~&youtube(https://youtu.be/Td4A9YbNPQg,width=300,height=115)|~&youtube(https://youtu.be/y-YkYNq8wYE,width=300,height=115)|
+|~&youtube(https://youtu.be/SkXb4HbFFRk,width=width=300,height=115)|~&br()|
+
 **イベント出演
 ***&font(#3cb371){&icon_fa(fa fa-asterisk)&space()Dream On Live 2026-2027}
 #region(詳細)#div(width=300px,bgcolor=#66CC00){&space()&font(16px,b){2026年12月31日 - 2027年1月1日}}
 #size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #a1de6e;){
-#size(14px){&small(){会場：KT Zepp Yokohama　&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[告知ポスト>> https://x.com/chagenabe/status/2117206302242009176]]&br()1 部：OPEN 17:00 / START 18:00&br()2 部：OPEN 22:00 / START 23:00}
+#size(11px){&font(i){会場：KT Zepp Yokohama　&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)} [[告知ポスト>> https://x.com/chagenabe/status/2117206302242009176]]&br()1 部：OPEN 17:00 / START 18:00&br()2 部：OPEN 22:00 / START 23:00}}
 //yyyy/mm/dd 〜yyyy/mm/dd：[[グッズ事前通販>>URL]]&space()&small(){&space()[[&font(#000000){&icon_fa(fa-brands fa-square-x-twitter)}告知ポスト>>URL]]}
 //yyyy/mm/dd 〜yyyy/mm/dd：[[グッズ事後通販>>URL]]
 }
-}}}
+}}
 #endregion
 
 #right(){&link_up(▲ページTOP)}

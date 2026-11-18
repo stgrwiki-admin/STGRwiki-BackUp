@@ -46,6 +46,7 @@
 }
 //↑の”}”は消さないでください
 ***&font(#F00){経}歴
+#region(開く,open)
 #table_style(head=center){アーカイブ=center}
 |~&font(#F00){日}付&small(){&infobox(title=*注,gravity=west){アーカイブの日付（配信開始時間により他ページの情報と異なる場合があります）}}|~&font(#F00){経}歴|~&font(#F00){ア}ーカイブ|h
 ||&bold(){〜season1〜}||
@@ -72,8 +73,9 @@
 ||&bold(){〜season2〜}||
 |2026/1/28|救急隊で心療内科に配属|[[#6>>#ep_6]]|
 |2026/7/16|救急隊で営業部に配属|[[#18>>#ep_18]]|
-
 #table_zebra(#F7F7F7,#FFF,#FFB6B8)
+#endregion(経歴)
+//
 //がみともさんは受け取る側なので「支給」ではなく「受給」が適当ではないでしょうか
 //警察関連で「入隊」という表現は使用されていないため「体験入隊」→「体験」に変更しました。また、救急隊の「入隊日」に対応するワードが「本採用日」であることから「正式入隊」→「正式採用」に変更しました。
 ***&font(#F00){生}活
@@ -593,7 +595,7 @@
 
 #region(season 2, open)&bold(){season 2}
 ***&size(20){&color(#ff0000){2}025年}
-#region(開く,open)閉じる
+#region(開く,close)閉じる
 #include(赤兎　がみとも/EP2025_12)
 //#include(赤兎　がみとも/)
 #endregion(2025)
@@ -608,7 +610,7 @@
 //#include(赤兎　がみとも/)
 #endregion(2026)
 #endregion(season 2)
-
+//
 //#endregion
 //↓の”#center(){”は編集しないでください
 #center(){
@@ -823,7 +825,6 @@
 #endregion(2026)
 #endregion(season 2)
 
-
 ***&size(20){&color(red){ス}トグラコラボ}（58回）
 #region(開く)閉じる
 #table_style(head=center)
@@ -932,6 +933,7 @@
 
 #endregion
 #endregion
+
 **&color(red){救}急隊物語（編集済動画）
 #region(season 1)&bold(){season 1}
 [[【season1 再生リスト】>>https://youtube.com/playlist?list=PLC4EWNG6GsublQ0Fd-YIBMxuWLwqTA7PB&si=MpxZVRmCTJw_G5rN]]
@@ -1221,6 +1223,7 @@
 #table_zebra(#f7f7f7,#fff,#e6e6fa)
 
 #endregion
+
 **&color(red){シ}ョート動画
 #region(season 1)&bold(){season 1}
 ***&color(red){シ}ョート動画#1～20
@@ -1472,7 +1475,9 @@
 #endregion
 #endregion
 
-***&font(b,#ff0000,30px){コメント欄}(相談・情報提供等)
+#center{
+*&size(40){&color(red){コ}}&size(36){&color(white){メント欄} &font(#FFF,15px){（相談・情報提供等）}}
+}
 コメントの履歴は[[こちら>赤兎　がみとも/コメント欄]]にあります
 編集に関係する相談事はこちらか[[編集相談所]]にお願いします
 本人様のRPや方針に関する議論、コメントは辞めてください
@@ -1482,7 +1487,7 @@
 上記に抵触するようなコメント、喧嘩、誹謗中傷などが発生していたらログより、削除をよろしくお願いします
 [[チャット欄末尾へ>#commentbtm]]
 
-#pcomment(8,reply,enableurl,new,赤兎　がみとも/コメント欄)
+#pcomment(8,reply,enableurl,new,strict,赤兎　がみとも/コメント欄)
 
 &color(#F54738){&u(){当コメント欄は、偶然同じページを編集、閲覧しているだけの顔も名前も知らない人との意見交換の場です。&br()文章の向こう側には生きている人間がいます。コメントをする際には一度深呼吸をし、&br()&size(18){&bold(){相手を傷つけるような文章になってしまってないかを十分に確認}}してからコメントを送信しましょう。}}
 
