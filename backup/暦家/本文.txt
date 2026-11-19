@@ -442,7 +442,7 @@
 #include(暦家/起床早見表（2025年）)
 //
 ***2026年
-#region(2月,open)&bold(){2月}
+#region(2月,close)&bold(){2月}
 #region(02/08〜02/14,close)&bold(){02/08〜02/14}
 #areaedit
 #table_filter(){備考=hide}
@@ -461,7 +461,7 @@
 
 #endregion
 //
-#region(02/22〜02/28,open)&bold(){02/22〜02/28}
+#region(02/22〜02/28,close)&bold(){02/22〜02/28}
 #areaedit
 #table_filter(){備考=hide}
 #table_style(head=#b28c6e:#F9FCFF:center:b)
