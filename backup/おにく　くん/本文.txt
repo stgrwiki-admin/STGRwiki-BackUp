@@ -36,7 +36,7 @@
 -何かをする為に引っ越してきた
 -前の街では元歌手をやっていた
 
-*エピソード
+*エピソード／アーカイブ
 **2026年
 ***11月
 #region(開く,open)&bold(){閉じる}
@@ -44,6 +44,11 @@
 #region(開く,close)閉じる
 -エピソード募集中
 #endregion(18日)
+----
+****11/19　&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[初心者おにくくん大冒険【DAY-2】>>https://www.youtube.com/live/qN6fOpmwgU4]]
+#region(開く,close)閉じる
+-エピソード募集中
+#endregion(19日)
 ----
 #endregion(----------------2026年11月----------------)
 #co{▼▼▼ コピー用素材 ▼▼▼
@@ -60,9 +65,9 @@
 #endregion(mm月)
 
 }
-
-*アーカイブ
-**2026年
+#co{
+//*アーカイブ
+//**2026年
 #region(開く,open)
 #table_style(head=center:#E6E6FA){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
@@ -70,7 +75,7 @@
 //|mm/dd|n|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(----------------2026年11月----------------)
-
+}
 #right(){&link_up(🔝ページTOPへ)}
 #co{▼非表示
 //*関連

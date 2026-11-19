@@ -52,10 +52,10 @@
 >#right{&font(i){[[Xより引用>>https://x.com/crown62327705/status/2092235417508794620]]}}
 #endregion
 
-*エピソード
+*エピソード／アーカイブ
 **2026年
 ***8月
-#region(開く,open)&bold(){閉じる}
+#region(開く,close)&bold(){閉じる}
 ****08/26 [[タイトル>>ＵＲＬ]]
 #region(開く,close)閉じる
 -エピソード募集中
@@ -76,13 +76,4 @@
 
 }
 
-*アーカイブ
-**2026年
-#region(開く,open)
-#table_style(head=center:#E6E6FA){配信日=right,#=center}
-|~配信日|~#|~配信タイトル|~備考|h
-|08/26|1|[[タイトル>>ＵＲＬ]]||
-
-//|mm/dd|n|[[タイトル>>ＵＲＬ]]||
-#table_sorter{even=#F7F7F7,odd=fff}
-#endregion
+#right(){&link_up(🔝ページTOPへ)}

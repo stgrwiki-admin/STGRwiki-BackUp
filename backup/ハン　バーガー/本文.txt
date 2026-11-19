@@ -1,5 +1,5 @@
 #slide_img(auto=3,width=350,height=450,position=center){ハンバーガー.png,ハンバーガー1.PNG,ハンバーガー2.PNG,ハンバーガー3.PNG,ハンバーガー4.PNG,ハンバーガー5.PNG,ハンバーガー教祖.PNG,Season2ハンバーガー起床時の姿.PNG}
-#center(){&font(b,i,24px,#000000){「アタシの名前はハン・バーガー！ハンバーガー星から来た&br()ハンバーガー星の国王よ！」}}
+#center(){&font(b,i,24px,#000000){「アタシの名前はハン・バーガー！&br()ハンバーガー星から来た&br()ハンバーガー星の国王よ！」}}
 *&size(17){&color(#FFF){&size(27){&color(#d2f40b){プ}}ロフィール}}
 //ここからプロフィール
 #table_filter(){Season1=hide,Season2=show}
@@ -2492,7 +2492,7 @@
 **Season2
 #region(開く,open)
 ***2025年12月
-#region(開く,open)
+#region(開く,close)
 ****12/19[[ストグラseason2 1日目>>https://www.twitch.tv/videos/2647728703]]
 #region(開く,close)
 -以前の街での自身のあらゆる言葉が響く中、異空間を移動しているような場面、そして聞き覚えのない声「お前は誰だ」という声で目覚める
@@ -2553,6 +2553,13 @@
 -自宅へ戻り就寝した
 #endregion
 #endregion(12月)
+***2026年11月
+#region(開く,close)
+****11/20[[ストグラseason2 2日目>>]]
+#region(開く,close)
+#endregion
+#endregion(11月)
+
 #endregion(Season2)
 
 
@@ -2720,10 +2727,16 @@
 **Season2
 #region(開く,open)
 ****2025年12月
-#region(開く,open)
+#region(開く,close)
 #table_style(head=center:#000000:#d2f40b){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |12/19|01|[[【ストグラ】ストグラseason2 1日目【＿＿(アンダーバー)】#ハンバーガー>> https://www.twitch.tv/videos/2647728703]]|Season2開幕|
+#endregion
+****2026年11月
+#region(開く,close)
+#table_style(head=center:#000000:#d2f40b){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|11/20|02|[[]]||
 #endregion
 
 #endregion(Season2)
@@ -2856,11 +2869,18 @@
 **Season2
 #region(開く,open)
 ****2025年12月
-#region(開く,open)
+#region(開く,close)
 #table_style(head=center:#000000:#d2f40b){配信日=right,#=center}
 |~投稿日|~#|~投稿タイトル|~該当配信|~備考|h
 |12/23|78|[[ストグラ2に舞い戻るも色々違うハンバーガー【切り抜き/ストグラ/GBC/アンダーバー】>> https://youtu.be/LulJPxKPo0Y?si=aVAkxgylN9Mnl9cF]]|1日目|Season2開幕|
 #endregion
+****2026年11月
+#region(開く,close)
+#table_style(head=center:#000000:#d2f40b){配信日=right,#=center}
+|~投稿日|~#|~投稿タイトル|~該当配信|~備考|h
+||79|[[>>]]|日目||
+#endregion
+
 #endregion(Season2)
 
 //|mm/dd|[[配信タイトル>>https://www.twitch.tv/videos/2251653280]]||
@@ -2868,6 +2888,7 @@
 
 *&size(17){&color(#FFF){&size(27){&color(#d2f40b){コ}}ラボ配信＆&size(27){&color(#d2f40b){そ}}の他}}
 ***2025年
+#region(開く,close)
 ****1月
 #region(開く,close)
 #table_style(head=center:#000000:#d2f40b){配信日=right,#=center}
@@ -2916,14 +2937,16 @@
 |05/12|22|[[【激戦！？】ストグラのヤバい奴らが、カラオケしにきた【ハンバーガー視点】#ふぁーすとふーどず>>https://youtu.be/l7-G0UB-jhA?si=d9yKF4tYbxrtfubq]]||
 #endregion
 ****12月
-#region(開く,open)
+#region(開く,close)
 #table_style(head=center:#000000:#d2f40b){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |12/14|23|[[AIに絶対に騙されないコラボ：幼少ギミック、さぶ郎。、PARED【＿＿（アンダーバー）】>> https://twitch.tv/videos/2643663255]]||
 |12/26|24|[[【コラボ配信】みんなでミメシス - 天開司/空星きらめ/柚原いづみ【＿＿（アンダーバー）視点】>>https://www.twitch.tv/videos/2653338051]]||
 #endregion
-
-
+#endregion(2025年)
+***2026年
+#region(開く,close)
+#endregion(2026年)
 
 //|mm/dd|[[配信タイトル>>https://www.twitch.tv/videos/2251653280]]||
 #table_sorter{even=#F7F7F7,odd=fff}
