@@ -7,13 +7,11 @@
 //ここからプロフィール
 #table_style(head=#5fb2e7:#fff){}
 |~名前|~&icon_fa(fa fa-user)|&ruby(あさもり){浅森}　&ruby(すいと){水瞳}|
-|~出身地|~&icon_fa(fa fa-location-dot)||
+|~出身地|~&icon_fa(fa fa-location-dot)|日本|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年08月22日 (&countup(2026/08/22,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|本屋【&b(){[[飯田書店]]】}&br() メカニック【[[LUNA Garage]]】&small(){社員 (2026/10/10~)}|
-|~所属|~&icon_fa(fa fa-users)||
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@asamorisuito|
-|~レーサー名|~&icon_fa(fa fa-car)||
 |~電話番号|~&icon_fa(fa fa-phone)|(520)506-1780|
 |BGCOLOR(#eee):~&font(#747474){プレイヤー}|BGCOLOR(#eee):~&font(#747474){&icon_fa(fa fa-address-card-o fa-fw)}|大童澄瞳|
 |BGCOLOR(#eee):~&font(#747474){告知等}|BGCOLOR(#eee):~&font(#747474){&icon_fa(fa fa-bullhorn)}|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/dennou319]]|
@@ -21,6 +19,8 @@
 //
 #co{コピー用🔽以下必要な場合にご利用下さい
 
+|~所属|~&icon_fa(fa fa-users)||
+|~レーサー名|~&icon_fa(fa fa-car)||
 【Instagram】&font(#CF2E92){&icon_fa(fa-brands fa-instagram)} [[&font(#DC2E74){Instagram}>>ＵＲＬ]]
 【ツイキャス】[[&font(#32CD32){&icon_fa(fa fa-external-link)Twitcasting(チャンネル名)}>>ＵＲＬ]]
 【TikTok】&font(#000){&icon_fa(fa-brands fa-tiktok)}[[&font(#000){TikTok(チャンネル名)}>>ＵＲＬ]]
@@ -179,15 +179,17 @@
 &font(b){11月}
 #table_style(head=center:#5fb2e7:#fff){配信日=right,#=center}
 |~配信日|~配信タイトル|~備考|h
-|11/05|浅森水瞳４５日目　大童澄瞳[[①>>https://www.youtube.com/live/5vcRbFLdg-c?si=kRXahpqE9mQPEHSw]]、[[②>>https://www.youtube.com/live/a8kg1jlM9ck?si=N0dIRGpi6H1KCTVZ]]、[[③>>https://www.youtube.com/live/oY2Wqt8Mxi4?si=t2vaoaohYuvLCdFs]]||
+|11/05|[[浅森水瞳４５日目　大童澄瞳①>>https://www.youtube.com/live/5vcRbFLdg-c?si=kRXahpqE9mQPEHSw]]、[[②>>https://www.youtube.com/live/a8kg1jlM9ck?si=N0dIRGpi6H1KCTVZ]]、[[③>>https://www.youtube.com/live/oY2Wqt8Mxi4?si=t2vaoaohYuvLCdFs]]||
 |11/07|[[浅森水瞳４６日目　大童澄瞳>>https://www.youtube.com/live/FgKNaBLouRw?si=L6onzGK4flBngDxb]]||
 |11/07|[[浅森水瞳４７日目　大童澄瞳>>https://www.youtube.com/live/Py0dHwM6uU8?si=0a9BmvY1O9r8TQpl]]||
 |11/08|[[浅森水瞳４８日目　大童澄瞳>>https://www.youtube.com/live/IZuscrrjX7A?si=7AoiPUf6DvqiR-dT]]||
 |11/11|[[浅森水瞳４９日目　大童澄瞳>>https://www.youtube.com/live/DmUHawOAOY4?si=0Jec-LLOEmaHd3ZH]]||
 |11/12|[[浅森水瞳５０日目　大童澄瞳>>https://www.youtube.com/live/UgBuJMpUWps?si=oNM_kDg0RvERK1Nx]]||
 |11/13|[[浅森水瞳５１日目　大童澄瞳>>https://www.youtube.com/live/z7TPB2fQwqk?si=20lmNx0gmWa88kH6]]||
-|11/14|浅森水瞳５２日目　大童澄瞳[[①>>https://www.youtube.com/live/XJ6iCpvR8D8?si=xt6XQKXEBEGqetfZ]]、[[②>>https://www.youtube.com/live/OBYMQmmuc8U?si=0IC1Bm2DvZXC9p79]]||
+|11/14|[[浅森水瞳５２日目　大童澄瞳①>>https://www.youtube.com/live/XJ6iCpvR8D8?si=xt6XQKXEBEGqetfZ]]、[[②>>https://www.youtube.com/live/OBYMQmmuc8U?si=0IC1Bm2DvZXC9p79]]||
 |11/16|[[浅森水瞳５３日目　大童澄瞳>>https://www.youtube.com/live/t5QqzS0Sa0c?si=nJvwhtfHCHiQizPm]]||
+|11/18|[[浅森水瞳５４日目　大童澄瞳>>https://www.youtube.com/live/sE5XjF84ctw?si=T_OBtcEdytfNiKn-]]||
+|11/19|[[浅森水瞳５５日目　大童澄瞳>>https://www.youtube.com/live/q_kcgla3CzU?si=goaR7WvH2FVrmXSF]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 
