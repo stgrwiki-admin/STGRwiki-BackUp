@@ -7,7 +7,7 @@
 |~出身地|~&icon_fa(fa fa-location-dot)|　|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|　&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)　}|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年8月13日 (&countup(2026/8/13,yd)経過)|
-|~職業|~&icon_fa(fa-solid fa-building-columns)|　|
+|~職業|~&icon_fa(fa-solid fa-building-columns)|画家 &small(){(jobなし)}&br()|
 |~所属|~&icon_fa(fa fa-users)|　|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@gongonpechika|
 |~レーサー名|~&icon_fa(fa fa-car)||
@@ -53,7 +53,7 @@
 *エピソード
 **2026年
 ***8月
-#region(開く,open)&bold(){閉じる}
+#region(開く,close)&bold(){閉じる}
 ****08/13 &font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[はじめまして>>https://www.twitch.tv/videos/2845012540]]
 #region(開く,close)閉じる
 -エピソード募集中
