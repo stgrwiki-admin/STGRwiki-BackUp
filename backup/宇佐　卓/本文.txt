@@ -1,6 +1,6 @@
 *&size(20){&color(#f0f8ff){&size(25){&color(#a596c7){プ}}ロフィール &aname(TOP,option=nolink){&icon_fa(fa fa-user-circle )}}}
 #table_color(#dd0000)
-#slide_img(auto=3,position=center,width=300,height=514.29){TOP_1_320x465.jpg,TOP_2_320x465.jpg,TOP_3_320x465.jpg,宇佐卓_profile.png}
+#slide_img(auto=3,position=center,width=300,height=514.29){TOP_1_320x465.jpg,TOP_2_320x465.jpg,TOP_3_320x465.jpg,宇佐卓_profile.png,TOP_4.jpg}
 
 //ここからプロフィール
 #table_style(head=#9b68a9:#FFF){}
@@ -126,27 +126,27 @@
 {&font(b,#FFFFFF,120%){　私服}}
 #region(開く)&bold(){閉じる}
 #table_style(head=center:#9b68a9:#FFF)
-|~私服|~スーツ|~スポーツ着|~秋服①|~秋服②|~血迷いうさぎ|h
-|MIDDLE:&image(usataku2.png,x=120,y=281)|MIDDLE:&image(usataku1.png,x=120,y=281)|MIDDLE:&image(usataku3.png,x=116,y=280)|MIDDLE:&image(usataku7.png,x=116,y=280)|MIDDLE:&image(usataku11.jpg,x=116,y=280)|MIDDLE:&image(usataku10.jpg,x=120,y=281)|
+|~私服|~スーツ|~スポーツ着|~秋服①|~秋服②|~血迷いうさぎ|~冬デート|h
+|MIDDLE:&image(usataku2.png,x=120,y=281)|MIDDLE:&image(usataku1.png,x=120,y=281)|MIDDLE:&image(usataku3.png,x=116,y=280)|MIDDLE:&image(usataku7.png,x=116,y=280)|MIDDLE:&image(usataku11.jpg,x=116,y=280)|MIDDLE:&image(usataku10.jpg,x=120,y=281)|MIDDLE:&image(usataku29.jpg,x=120,y=281)|
 #endregion
 
 #div(width=120px,bgcolor=#9b68a9)
 {&font(b,#FFFFFF,120%){　仕事着}}
 #region(開く)&bold(){閉じる}
 #table_style(head=center:#9b68a9:#FFF)
-|~Confate仕事着|~MellowBerry用|~声優プライベート|~茜透|~黒うさぎ|~黒犯罪|~花栽培用|h
-|MIDDLE:&image(usataku_02_1.jpg,x=130,y=281)|MIDDLE:&image(usataku8.jpg,x=100,y=281)|MIDDLE:&image(usataku16.jpg,x=120,y=281)|MIDDLE:&image(usataku19-2.jpg,x=120,y=281)|MIDDLE:&image(usataku17.jpg,x=120,y=281)|MIDDLE:&image(usataku22.jpg,x=120,y=281)|MIDDLE:&image(usataku26.jpg,x=120,y=281)|
+|~Confate仕事着|~MellowBerry用|~声優プライベート|~茜透|~黒うさぎ|~黒犯罪|~黒キレイめ|h
+|MIDDLE:&image(usataku_02_1.jpg,x=130,y=281)|MIDDLE:&image(usataku8.jpg,x=100,y=281)|MIDDLE:&image(usataku16.jpg,x=120,y=281)|MIDDLE:&image(usataku19-2.jpg,x=120,y=281)|MIDDLE:&image(usataku17.jpg,x=120,y=281)|MIDDLE:&image(usataku22.jpg,x=120,y=281)|MIDDLE:&image(usataku30.jpg,x=120,y=281)|
 #table_style(head=center:#9b68a9:#FFF)
-|~ヴァル(黒)|~ヴァル(緑)|~ヴァル(赤)|~ヴァル(白)|h
-|MIDDLE:&image(usataku14.jpg,x=120,y=281)|MIDDLE:&image(usataku23.jpg,x=120,y=281)|MIDDLE:&image(usataku24.jpg,x=120,y=281)|MIDDLE:&image(usataku25.jpg,x=120,y=281)|
+|~ヴァル(黒)|~ヴァル(緑)|~ヴァル(赤)|~ヴァル(白)|~花栽培用|~栽培服|h
+|MIDDLE:&image(usataku14.jpg,x=120,y=281)|MIDDLE:&image(usataku23.jpg,x=120,y=281)|MIDDLE:&image(usataku24.jpg,x=120,y=281)|MIDDLE:&image(usataku25.jpg,x=120,y=281)|MIDDLE:&image(usataku26.jpg,x=120,y=281)|MIDDLE:&image(usataku28.jpg,x=120,y=281)|
 #endregion
 
 #div(width=120px,bgcolor=#9b68a9)
 {&font(b,#FFFFFF,120%){　その他変装}}
 #region(開く)&bold(){閉じる}
 #table_style(head=center:#9b68a9:#FFF)
-|~きのこの妖精|~トナクシー変装用|~心無き代表|~怪盗キッズ|~ハロウィン警察|~ヴァンパイア|~シンバフェス用|h
-|MIDDLE:&image(usataku8.png,x=120,y=281)|MIDDLE:&image(tonakusi-.JPG,x=120,y=281)|MIDDLE:&image(usataku12.jpg,x=120,y=281)|MIDDLE:&image(usataku15.jpg,x=120,y=281)|MIDDLE:&image(usataku9.jpg,x=120,y=281)|MIDDLE:&image(usataku18.jpg,x=120,y=281)|MIDDLE:&image(usataku20.jpg,x=120,y=281)|
+|~きのこの妖精|~トナクシー変装用|~心無き代表|~怪盗キッズ|~ハロウィン警察|~ヴァンパイア|~シンバフェス用|~犯人|h
+|MIDDLE:&image(usataku8.png,x=120,y=281)|MIDDLE:&image(tonakusi-.JPG,x=120,y=281)|MIDDLE:&image(usataku12.jpg,x=120,y=281)|MIDDLE:&image(usataku15.jpg,x=120,y=281)|MIDDLE:&image(usataku9.jpg,x=120,y=281)|MIDDLE:&image(usataku18.jpg,x=120,y=281)|MIDDLE:&image(usataku20.jpg,x=120,y=281)|MIDDLE:&image(usataku27.jpg,x=120,y=281)|
 #endregion
 
 #div(width=120px,bgcolor=#9b68a9)
@@ -158,7 +158,6 @@
 
 #endregion
 #endregion
-
 *&size(20){&color(#f0f8ff){&size(25){&color(#a596c7){イ}}ベント出演 &aname(TOP,option=nolink){&icon_fa(fa fa-music )}}}
 #region(開く)&bold(){閉じる}
 #table_style(head=center:#9b68a9:#FFF)
@@ -1079,6 +1078,11 @@
 -
 #endregion(19日)
 ----
+****11/20　&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】雲行き 53日目>>https://www.twitch.tv/videos/2934780241]]&space(2)&small(){}
+#region(開く,close)閉じる
+-
+#endregion(20日)
+----
 #endregion(mm月)
 
 
@@ -1171,6 +1175,7 @@
 |50|26/11/15(日)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】ひりつきそうな日 警戒度高めてく ５０日目>>https://www.twitch.tv/videos/2929459483]]|偽コーラボーイ？(脇さん)、初資金洗浄、花屋(コンテナバレ/警察との攻防/制服作成)、病院で騒がれるうされり、ボイス事業相談|
 |51|26/11/18(水)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】もうそろそろ新規住人名乗れなくなってきた 51日目>>https://www.twitch.tv/videos/2932186990]]|花屋(コンテナ消滅!?/作戦会議)、置き配ガチャ、初USB犯罪、れりあさんと2ケツ、誕生日が4/1→2/11へ変更|
 |52|26/11/19(木)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】今日はどんな日になるでしょう 52日目>>https://www.twitch.tv/videos/2933532606]]|花屋(屋上チル、全員集合、再コンテナバレ)、ブレインチェイス成功、Confate出勤、滅論さんからラジオ出演オファー|
+|53|26/11/20(金)|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[【ストグラ】雲行き 53日目>>https://www.twitch.tv/videos/2934780241]]|花屋、黄色い花束、デート服＆黒服作成、さぽ紫音と犯罪(ブースティング、USB、宝石店)、DEBT GAME賭け|
 
 //|yy/mm/dd(aaa)|n|&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
