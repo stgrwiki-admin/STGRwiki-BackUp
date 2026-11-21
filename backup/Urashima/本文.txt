@@ -226,6 +226,7 @@
 #size(50%){　}
 //ここからS2
 #region(Season2)
+#areaedit()
 #size(90%){#table_style(head=center:#ABE1FA)
 |~名前|~体験開始日|~備考|h
 |[[ぞん　美子]]|26/02/14||
@@ -259,9 +260,13 @@
 |[[亀山　Hero]]|26/10/31|人員不足により体験へ復帰|
 |[[サク　フォールド]]|26/11/18||
 |[[ハン　バーガー]]|26/11/20|S1の従業員|
+|[[李　アルト]]|26/11/21||
+|[[李　ユーリ]]|26/11/21||
+|[[李　超子]]|26/11/21||
 //|[[]]|yy/mm/dd||
 #table_autoincrement(){label=#,start=1}
 #table_sorter{even=#f4fbfe,odd=#FFFFFF}}
+#areaedit(end)
 #endregion
 
 【　追記･編集 歓迎です。 】

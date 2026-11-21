@@ -2,20 +2,20 @@
 //&image(ここに画像のURLを入力,y=400)
 
 //ここからプロフィール
-#table_style(head=#E6E6FA:#666666){}
-|~名前|~&icon_fa(fa fa-user)|&bold(){&ruby(　){李}　ユーリ}|
+#table_style(head=#153C80:#FFFFFF){}
+|~名前|~&icon_fa(fa fa-user)|&bold(){&ruby(り){李}　ユーリ}|
 |~出身地|~&icon_fa(fa fa-location-dot)|　|
-|~誕生日|~&icon_fa(fa fa-cake-candles)|&co(){yyyy年mm月dd日 (&countup(yyyy/mm/dd,y)歳)}|
+|~誕生日|~&icon_fa(fa fa-cake-candles)|2007年04月06日 (&countup(2007/04/06,y)歳)|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年11月21日 (&countup(2026/11/21,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|&co(){▶︎非表示　&small(){職種}【[[職業]]】&small(yyyy/mm/dd〜)　◀}|
 |~所属|~&icon_fa(fa fa-users)|　|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@　|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
 |~電話番号|~&icon_fa(fa fa-phone)|(999)999-9999|
-|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|&ruby(ゆいざきゆうり){結崎有理}|
-|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/yuriyuizaki]]|
-|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@yuriyuizaki]]|
-//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
+|BGCOLOR(#249CD9):~プレイヤー|BGCOLOR(#249CD9):~&icon_fa(fa fa-address-card-o fa-fw)|&ruby(ゆいざきゆうり){結崎有理}|
+|BGCOLOR(#249CD9):~告知等|BGCOLOR(#249CD9):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/yuriyuizaki]]|
+|BGCOLOR(#249CD9):~配信場所|BGCOLOR(#249CD9):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@yuriyuizaki]]|
+//|BGCOLOR(#249CD9):~ガイドライン|BGCOLOR(#249CD9):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
 //
 #co{コピー用🔽以下必要な場合にご利用下さい
 
@@ -33,6 +33,46 @@
 #endregion
 *基本情報
 -情報を記述
+
+***職業体験
+#region(開く,open)
+#table_style(head=center:#153C80:#FFFFFF){#=center,店舗名=bold}
+|~#|~店舗名|~体験期間|~備考|h
+|1|[[Urashima]]|2026/11/21〜||
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+*交友関係
+**&color(orange){&icon_fa(fa fa-house)} 家族
+#region(開く)閉じる
+***[[李　アルト]]
+
+***[[李　超子]]
+
+#endregion
+**&color(blue){&icon_fa(fa-solid fa-shield-halved)} [[ロスサントス警察]]
+#region(開く)閉じる
+***[[名前]]
+エピソードを記述
+
+#endregion
+//**&color(red){&icon_fa(fa fa-heartbeat)} [[ロスサントス救急救命隊]]
+//#region(開く)閉じる
+//***[[名前]]
+//エピソードを記載
+//#endregion
+//
+//**&color(green){&icon_fa(fa fa-user)} 市民
+//#region(開く)閉じる
+//***[[名前]]
+//エピソードを記載
+//#endregion
+//
+//**&color(black){&icon_fa(fa fa-user-secret)} 犯罪者
+//#region(開く)閉じる
+//***[[名前]]
+//エピソードを記載
+//#endregion
 
 *エピソード
 **2026年
@@ -63,7 +103,7 @@
 *アーカイブ
 **2026年
 #region(開く,open)
-#table_style(head=center:#E6E6FA){配信日=right,#=center}
+#table_style(head=center:#153C80:#FFFFFF){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |11/21|1|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[Day.01 逃げてきたんだが……>>https://www.youtube.com/live/MdLOaADReuo]]||
 
