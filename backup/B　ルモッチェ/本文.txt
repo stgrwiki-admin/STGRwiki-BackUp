@@ -128,6 +128,7 @@
 
 *🧳 &font(25px,#f7f0d7){お}着替え一覧
 #table_color(#f7f0d7,#ffffff)
+#region(開く,open)
 |~サンタ帽|~HappyNewYear帽|
 |&image(サンタ帽.jpg,x=200)|&image(HappyNewYear帽.jpg,x=200)|
 |~着物|~バイト帰り|
@@ -149,6 +150,7 @@
 |~迷彩の夏服|~迷彩の夏服後ろ姿|
 |&image(夏の迷彩私服.jpg,x=200)|&image(夏の迷彩私服後ろ姿.jpg,x=200)|
 
+#endregion
 #co{
 
 |~|~|
@@ -485,7 +487,7 @@
 #endregion
 #endregion(1月)
 
-#region(2月,open)&bold(){2月}
+#region(2月,close)&bold(){2月}
 ****2/01 [[ルモッチェ12日目/ストグラ2>>https://www.twitch.tv/videos/2686105230]]
 #region(開く)
 -自室で起床。アパートを出ると[[平井さん>平井　善之]]が赤い軽トラに乗っていたので無言で助手席に乗る。「寂しかった」と言ってもらえて嬉しい。そのまま窓拭きのアルバイトへ。
@@ -848,7 +850,7 @@
 #endregion
 #endregion(2月)
 
-#region(3月,open)&bold(){3月}
+#region(3月,close)&bold(){3月}
 ***3/01 [[ルモッチェ23日目/ストグラ2>>https://www.twitch.tv/videos/2710926993]]
 #region(開く)
 -自室で起床。自室で起床。今日もアパート前で置いてあった車に乗る。すぐに降りたが、相手を困惑させてしまった。
@@ -950,7 +952,8 @@
 -エピソード募集中
 #endregion
 #endregion(3月)
-#region(4月,open)&bold(){4月}
+
+#region(4月,close)&bold(){4月}
 ***4/11 [[ルモッチェ29日目/ストグラ2>>https://www.twitch.tv/videos/2745381282]]
 #region(開く)
 -エピソード募集中
@@ -973,7 +976,7 @@
 
 *🎬 &font(25px,#f7f0d7){ア}ーカイブ
 **2025年
-【12月】
+***【12月】
 #region(開く,close)
 &font(10px){※Twitchのアーカイブはサブスク限定、60日経過すると視聴できなくなります。&br()その後Youtubeに移行され、【公開】⇒【メン限】で視聴可能です。}
 #table_style(head=center:#E6E6FA){配信日=right,#=center}
@@ -987,7 +990,7 @@
 #endregion
 
 **2026年
-【1月】
+***【1月】
 #region(開く)
 &font(10px){※Twitchのアーカイブはサブスク限定、60日経過すると視聴できなくなります。&br()その後Youtubeに移行され、【公開】⇒【メン限】で視聴可能です。}
 #table_style(head=center:#E6E6FA){配信日=right,#=center}
@@ -1002,8 +1005,8 @@
 |1/25|12|&bold()&font(#6441A4){&icon_fa(fa fa-twitch fa-fw)}[[ルモッチェ11日目/ストグラ2>>https://www.twitch.tv/videos/2679770138]]&br()&bold()&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[ルモッチェ11日目/ストグラ2>>https://www.youtube.com/watch?v=SVi8sgJrGqo]]|わんも～Cafeのバイト2日目・黒用のクラフト場を見に行く|
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
-【2月】
-#region(開く,open)
+***【2月】
+#region(開く,close)
 &font(10px){※Twitchのアーカイブはサブスク限定、60日経過すると視聴できなくなります。&br()その後Youtubeに移行され、【公開】⇒【メン限】で視聴可能です。}
 #table_style(head=center:#E6E6FA){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
@@ -1021,7 +1024,7 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 ***【3月】
-#region(開く,open)
+#region(開く,close)
 &font(10px){※Twitchのアーカイブはサブスク限定、60日経過すると視聴できなくなります。&br()その後Youtubeに移行され、【公開】⇒【メン限】で視聴可能です。} 
 #table_style(head=center:#E6E6FA){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
@@ -1034,7 +1037,7 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion
 ***【4月】
-#region(開く,open)
+#region(開く,close)
 &font(10px){※Twitchのアーカイブはサブスク限定、60日経過すると視聴できなくなります。&br()その後Youtubeに移行され、【公開】⇒【メン限】で視聴可能です。}
 #table_style(head=center:#E6E6FA){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h

@@ -140,6 +140,7 @@
 
 **年表
 ***2026年
+#region(開く,open)
 #table_style(head=#696969:#F9FCFF)
 #table_filter(){関係者=hide,備考=show}
 |~日付|~出来事|~関係者|~備考|h
@@ -154,5 +155,6 @@
 |11/12|[[アビビービ・ビービ・コ]]が加入|[[トウ　ユン]]、[[アビビービ・ビービ・コ]]、[[日々]]、[[灰部理　秀人]]||
 //|mm/dd|出来事|関係者|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(2026年)
 
 #right(){&link_up(🔝ページTOPへ)}

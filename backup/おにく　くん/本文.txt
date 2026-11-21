@@ -5,7 +5,7 @@
 //ここからプロフィール
 #table_style(head=#E6E6FA:#666666){}
 |~名前|~&icon_fa(fa fa-user)|&bold(){おにく　くん}|
-|~出身地|~&icon_fa(fa fa-location-dot)|　|
+|~出身地|~&icon_fa(fa fa-location-dot)|日本の西|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|1984年08月26日 (&countup(1984/08/26,y)歳)|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年11月18日 (&countup(2026/11/18,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|&co(){▶︎非表示　&small(){職種}【[[職業]]】&small(yyyy/mm/dd〜)　◀}|
@@ -42,7 +42,8 @@
 #region(開く,open)&bold(){閉じる}
 ****11/18　&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[ドッキドキの新生活がはじまりそう【DAY-1】>>https://www.youtube.com/live/lCGq-jXWYGY]]
 #region(開く,close)閉じる
--エピソード募集中
+-ロスサントスに引越してきてアパートから出たら、すぐに目の前で爆発やらが起きて驚いてアパートに入る
+-
 #endregion(18日)
 ----
 ****11/19　&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[初心者おにくくん大冒険【DAY-2】>>https://www.youtube.com/live/qN6fOpmwgU4]]

@@ -66,7 +66,8 @@
 |MIDDLE:CENTER:&ruby(IGUMITE){イグマイト}|MIDDLE:&font(b,#F9B74B){Yellow}|MIDDLE:わし|寮長：[[鳥野　ぎん]]&br()自由と力・芸術に富んでいる|
 #table_sorter{even=#fcfcfd,odd=#FFFFFF}
 
-&font(b,17px,#927eba){&icon_fa(fa fa-chair)} 組み分けは四択の中から答えを一つ選択する
+&font(b,17px,#927eba){&icon_fa(fa fa-chair)} &font(b,14px,#555){組み分けは四択の中から自身に最も近しい回答を選択する}
+#size(50%){　}
 #table_style(head=#f9f9fb)
 |>|>|>|~&font(b,#555){一つだけ属性を得られるとしたら？}|
 |>|>|MIDDLE:CENTER:火|MIDDLE:CENTER:水|
@@ -212,7 +213,7 @@
 🍃&icon_fa(fa-solid fa-wand-magic-sparkles)
 }
 #endregion(ジョイント)
-#co{▼非表示
+#co{▼▼▼ 非表示 ▼▼▼
 //****Otners
 //┏━━━━━━━━━━━━━━━━━━━━━━━━┓
 //　　　　　Otners
@@ -223,10 +224,8 @@
 #table_style(head=#e0daec){種類=center,価格=right,商品説明=90%,備考=90%}
 |~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
 |MIDDLE:&icon_fa(fa-solid fa-ribbon)|商品名|価格|yyyy/mm/dd|説明|備考|
-|MIDDLE:&icon_fa(fa-solid fa-ribbon)|商品名|価格|yyyy/mm/dd|説明|備考|
-|MIDDLE:&icon_fa(fa-solid fa-ribbon)|商品名|価格|yyyy/mm/dd|説明|備考|
 
-//|種類|商品名|価格|yyyy/mm/dd|説明|備考|
+//|MIDDLE:&icon_fa(fa-solid fa-ribbon)|商品名|価格|yyyy/mm/dd|説明|備考|
 #table_sorter{even=#fcfcfd,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
 //
@@ -240,8 +239,8 @@
 &icon_fa(fa-solid fa-ribbon)
 }
 #endregion(その他)
-▲非表示}
-#co{▼非表示
+　　　▲▲▲ 非表示 ▲▲▲}
+#co{▼▼▼ 非表示 ▼▼▼
 //****Special
 //┏━━━━━━━━━━━━━━━━━━━━━━━━┓
 //　　　　　Special
@@ -269,8 +268,8 @@
 &icon_fa(fa-solid fa-award)
 }
 #endregion(スペシャル)
-▲非表示}
-#co{▼非表示
+　　　▲▲▲ 非表示 ▲▲▲}
+#co{▼▼▼ 非表示 ▼▼▼
 //****Random
 //┏━━━━━━━━━━━━━━━━━━━━━━━━┓
 //　　　　　Random
@@ -298,7 +297,7 @@
 &icon_fa(fa-solid fa-gift)
 }
 #endregion(ガチャ・ランダム商品)
-▲非表示}
+　　　▲▲▲ 非表示 ▲▲▲}
 ***Event・Seasonal
 //┏━━━━━━━━━━━━━━━━━━━━━━━━┓
 //
@@ -369,21 +368,25 @@
 #size(50%){　}
 }
 #endregion(商品画像)
-***イベント・期間限定商品画像
+***イベント・期間限定商品
 //┏━━━━━━━━━━━━━━━━━━━━━━━━┓
 //
-//　　　イベント・期間限定商品画像（季節・イベント）
+//　　　イベント・期間限定商品（季節・イベント）
 //
 //┗━━━━━━━━━━━━━━━━━━━━━━━━┛
 #region(開く,open)
-#region(2026/10/31　使い魔ぬいぐるみ ハロウィン2026,open)&b(){2026/10/31　使い魔ぬいぐるみ ハロウィン2026}
-&blankimg(商品261031_使い魔ぬいぐるみ.jpeg,x=360,y=200)
+#region(2026/10/31　使い魔ぬいぐるみ ハロウィン2026,open)
+#table_style(head=center:#f9f9fb)
+|2026/10/31　使い魔ぬいぐるみ ハロウィン2026|h
+|&blankimg(商品261031_使い魔ぬいぐるみ.jpeg,x=300,y=180)|
 #endregion
 #size(50%){　}
 
-#co{
-#region(yyyy/mm/dd 画像名,open)&b(){yyyy/mm/dd 画像名}
-&blankimg(ここに画像のURLを入力,y=400)
+#co{▼コピー用
+#region(yyyy/mm/dd　商品名,open)
+#table_style(head=center:#f9f9fb)
+|yyyy/mm/dd　商品名|h
+|&blankimg(画像,x=300,y=180)|
 #endregion
 #size(50%){　}
 }

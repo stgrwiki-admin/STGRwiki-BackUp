@@ -3,17 +3,17 @@
 
 #table_style(head=#C0C0C0){}
 |~組織名|~&space()&icon_fa(fa fa-tag)&space()|&bold(){&ruby(ナイン クラウド){玖雲}}|
-|~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|-&co(){※unionが存在しない組織の場合、この行ごと削除}|
 |~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年02月26日&br()&small(){（&countup(2026/02/26,yd)経過）}&co(){※countupは設立日の1日前に設定}|
 |~本拠地|~&space()&icon_fa(fa fa-map-marker)&space()|6173番地|
 |~本拠地種別|~&space()&icon_fa(fa-solid fa-house)&space()|ホテル|
 |~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[トウ　ユン]]|
 |~チームカラー|~&space()&icon_fa(fa fa-paint-brush)&space()|&s(){&font(b,#9E76B4){紫}}（抗争敗退により保留）|
+//|~ユニオン表記|~&space()&icon_fa(fa-solid fa-user-tag)&space()|-&co(){※unionが存在しない組織の場合、この行ごと削除}|
 
 #region(目次を開く,open)目次
 #contents(fromhere=true,level=2)
-#endregion
 
+#endregion
 
 *&font(b,#9E76B4){&icon_fa(fa fa-cloud)} 基本情報
 
@@ -27,11 +27,10 @@
 
 **フロント企業
 
-***&icon_fa(fa fa-music)&space()[[音楽レーベル Lanima（ラニマ）>>ラニマ]]
+***&underdot(#efe7f2,3px){&size(18px){&color(#9E76B4){&icon_fa(fa-solid fa-music)}&space()音楽レーベル [[Lanima（ラニマ）>>ラニマ]]}}
 -トウユンと罰下りの２人で起ち上げた音楽レーベル。
 -黒市民白市民問わず在籍。玖雲のメンバーと重なる部分も多い。
 -玖雲のメンバーでない人にも玖雲のフロント企業であることは伝えている。
-
 
 **組織の最終目標
 この目標は一部の構成員にのみ明かされている。
@@ -43,7 +42,10 @@
 -2026/10/23　たくみに開示
 #endregion(秘匿事項)
 
-*&icon_fa(fa fa-group) メンバー
+
+*&color(#fff){&icon_fa(fa fa-group)} メンバー
+***構成員
+#region(開く,open)
 #table_style(head=#696969:#F9FCFF)
 #table_filter(){加入日=hide,役職=show,コードネーム=hide,備考=show,配信=show}
 |~名前|~加入日|~役職|コードネーム|~備考|~配信|h
@@ -58,15 +60,18 @@
 |[[ユン　ユン]]|2026/10/29|||初日以来起床していなかったが、半年以上ぶりに起きてメカニックを探していたところトウユンと再会。&br()お金が欲しいので一緒に犯罪をし、そのままの勢いで「ついていくにゃ！」と驚きのスピード電撃加入。|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&font(#DA1725){YouTube}>https://youtube.com/@hayun]]|
 |[[あれれ　レン]]|2026/11/07||ざっち|加護外し後黒を知りたいとトウユンに接触があり、後輩気質のお調子者なところなどを気に入り勧誘。&br()木こりへの義理で一旦辞退になるも、求める環境はそこにないとの指摘・構成員の囲い込みを受け、辞して加入。|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@zasan.v2]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/za_san39]]|
 //|[[ゼペ・アルテミス>https://w.atwiki.jp/streamergta5/pages/3671.html]]|2026/07/04||ネロ|自称かつてトウユンがご飯をあげていた野良猫の生まれ変わり。&br()恩を返すためについていくと宣言するも、犯罪に手を染めることに悩み、闇の人格が生まれるなど迷走。&br()そんな中、脇の「拉致して洗脳してでもNOVAに入れる」という宣言を受け、保護のため、強くなるために加入。|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@%E3%81%9C%E3%82%8D%E3%82%8D%E3%81%BA]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/zeropez]]|
+
 //|[[名前]]|2026/mm/dd|役職|コードネーム|備考|配信|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
-
+#endregion
 
 ***過去メンバー
+#region(開く,close)
 #table_style(head=#696969:#F9FCFF)
 |~名前|~加入日|~脱退日|~経緯|~備考|h
 |[[ゼペ・アルテミス>https://w.atwiki.jp/streamergta5/pages/3671.html]]|2026/07/04|2026/09/03|友人の音姫みつおとの諍いで黒として詰めると上奏したことにより、トウユンとの認識差が明確に。&br()それを埋められないまま、NOVAの介入を受け入れたことでこじれ、決裂の末脱退となった。||
+#endregion
 
 ***勧誘中／メンバー候補
 声掛けは多くしているため、既存住民は明確に加入勧誘した人、新規住民は加入の意思を見せた人だけ記載。勧誘から加入までの期間が短い場合は記載なし。
@@ -93,20 +98,9 @@
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #endregion(候補)
 //従業員の変更があれば「参加者一覧」への反映もお願いします
-//***協力関係
-//
-#co{
-//***過去メンバー
-#table_style(head=#696969:#F9FCFF)
-|~名前|~加入日|~脱退日|~備考|h
-|名前|加入日|yyyy/mm/dd|備考|
-|名前|加入日|yyyy/mm/dd|備考|
-//|名前|加入日|yyyy/mm/dd|備考|
-#table_autoincrement(){label=No.}
-#table_sorter{even=#F7F7F7,odd=#FFFFFF}
-}
 
-*&icon_fa(fa fa-map-marker) 拠点
+
+*&color(#fff){&icon_fa(fa fa-map-marker)} 拠点
 
 //16:9 
 #slide_img(auto=3,width=640,height=360,position=left){9c_hotel.jpg,9c_20261031.jpg,9c_20261106.jpg,9c_20261031-2.jpg} 
@@ -117,16 +111,16 @@
 |6173|本アジト|-|トウユン|ホテルのドライブウェイ入口に導入した建築士物件。&br()当初の物件から引っ越しを検討したこともあり、注文から約半年の時間を要した。|
 |9117|仮アジト&br()事務所&br()素材倉庫|お家|トウユン|初めて買った元東署インパウンド場・立体駐車場の直近の家。&br()購入時にその場所がマクドナルドストリートだと表示されて驚き、選んだ場所に運命的なものを感じた。&br()玖雲の仮アジトでありラニマの事務所でもある。&br()ユンと日々で資金を半々で出し合った。|
 |8238|素材倉庫|-|日々|元GBCアジト横の離れの家を素材倉庫として一階・二階とも購入。|
-|7068|黒用倉庫|スタジオ|トウユン|駐車場の横の物件。逃げ込み先として購入。音楽練習スタジオとして使用することもある。|
-
+|7068|黒用倉庫|玖雲倉庫|トウユン|駐車場の横の物件。逃げ込み先として購入。音楽練習スタジオとして使用することもある。|
 
 //|番地|用途|通称|管理者|備考|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 
-
-*&icon_fa(fa fa-book) 歴史
+#right(){&link_up(🔝ページTOPへ)}
+*&color(#fff){&icon_fa(fa fa-book)} 歴史
 ***2026年
+#region(開く,open)
 #table_style(head=#696969:#F9FCFF)
 #table_filter(){関係者=hide,備考=show}
 |~日付|~出来事|~関係者|~備考|h
@@ -147,9 +141,9 @@
 //|mm/dd|出来事|関係者|備考|
 //|mm/dd|出来事|関係者|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
 
-
-*&icon_fa(fa fa-camera) 写真
+*&color(#fff){&icon_fa(fa fa-camera)} 写真
 
 //16:9 
 #slide_img(auto=3,width=640,height=360,position=center){玖雲20260419.jpeg,9c_20260731.jpg,9c_20260808.jpg,9c_20260927.jpg,9c_20261107.jpg,} 
