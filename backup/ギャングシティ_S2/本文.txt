@@ -25,6 +25,8 @@
 ・他組織に詰められても、シリアスを笑いに変え、最後までふざけたい！をモットーとしている。
 
 *&font(#FFFFFF){&icon_fa(fa fa-users fa-xl)} メンバー
+***&underdot(#01479D,3px){&icon_fa(fa-solid fa-list-ol)&space(2)一覧　}
+#region(開く,open)
 #table_style(head=#01479D:#F9FCFF)
 #table_filter(){加入日=hide,役職=show,備考=show,配信=show}
 |~名前|~加入日|~役職|~備考|~配信|h
@@ -33,40 +35,48 @@
 |[[剛力　たけし]]|2026/07/17|構成員||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://twitch.tv/jajamaru_hnti]]|
 |[[亀山　Hero]]|2026/07/29|構成員||&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/kamehirosi]]|
 |&openclose2(show=？？？){[[高橋　滅論]]}|2026/11/01|構成員|[[ボイラ>ボイラ　テンガリン]]へ損害賠償の請求が終わるまで犯罪はしない方針だが、裁判が一段落したことにより正式加入。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/holonsc2]]|
+
 //|[[名前]]|2026/mm/dd|役職|備考|配信|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 //従業員の変更があれば「参加者一覧」への反映もお願いします
-
-***メンバー？
+#endregion
+***&underdot(#01479D,3px){&icon_fa(fa-solid fa-question-circle)&space(2)メンバー？　}
+#region(開く,open)
 #table_style(head=#01479D:#F9FCFF)
 #table_filter(){加入日=hide,役職=show,備考=show,配信=show}
 |~名前|~加入日|~役職|~備考|~配信|h
 |[[不働　めい]]||ボス？|人気投票で一位になったためボスに就任？アジトの鍵を持っていたり、無線番号も共有している。||
 |[[琵琶山　法師]]|||外堀を固める形で[[たけし>剛力　たけし]]がしれっと無線に勧誘。[[ボス？>不働　めい]]と同じく、現状メンバー外だが無線を共有する仲。||
+
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
-
+#endregion
 #Co{
-***勧誘中
+***&underdot(#01479D,3px){&icon_fa(fa-solid fa-bullhorn)&space(2)勧誘中　}
 #table_style(head=#696969:#F9FCFF)
 #table_filter(){勧誘日=hide,役職=show,備考=show,配信=show}
 |~名前|~勧誘日|~備考|~配信|h
 |[[不働　めい]]|||&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@Kanonmei]]|
+
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 }
 //
-***過去メンバー
+***&underdot(#01479D,3px){&icon_fa(fa-solid fa-user-slash)&space(2)過去メンバー　}
+#region(開く)
 #table_style(head=#01479D:#F9FCFF)
 |~名前|~加入日|~脱退日|~備考|h
 |[[銭形　やいち郎]]|2026/07/11|2026/07/12|方向性が違うため脱退させた|
 |[[飯田　けんつ]]|2026/07/12|2026/08/26|白市民であり続けることを選び、別の道へ。禊として弾いた。|
+
 //|名前|加入日|yyyy/mm/dd|備考|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
-//
-#Co{***協力者
+#endregion
+
+#Co{
+***&underdot(#01479D,3px){&icon_fa(fa-solid fa-thumbs-up)&space(2)協力者　}
 #table_style(head=#696969:#F9FCFF)
 #table_filter(){関係開始日=hide,役職=show,備考=show,配信=show}
 |~名前|~関係開始日|~備考|~配信|h
@@ -75,6 +85,7 @@
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 }
 *&font(#FFFFFF){&icon_fa(fa fa-map-marker fa-xl)} 拠点
+#region(開く,open)
 #table_style(head=#01479D:#F9FCFF)
 #table_filter(){番地=show,場所=show,通称=show,管理者=hide,備考=show}
 |~番地|~場所|~通称|~管理者|~備考|h
@@ -84,9 +95,11 @@
 //|番地|場所|通称|管理者|備考|
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion
 
 *&font(#FFFFFF){&icon_fa(fa fa-book fa-xl)} 歴史
-***2026年
+***&underdot(#01479D,3px){&icon_fa(fa-solid fa-check)&space(2)2026年　}
+#region(開く,open)
 #table_style(head=#01479D:#F9FCFF)
 #table_filter(){関係者=hide,備考=show}
 ||~出来事|~関係者|~備考|h
@@ -97,16 +110,17 @@
 
 //|mm/dd|出来事|関係者|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(2026年)
 
 //↓コメントアウト開始
 #co{
-**事業内容・事業方針・目的
+//**事業内容・事業方針・目的
 
 
-**イベント
+//**イベント
 
 
-**ギャラリー
+//**ギャラリー
 
 
 }
