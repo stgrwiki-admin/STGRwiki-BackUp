@@ -1,6 +1,6 @@
 //&image(ここに画像のURLを入力,y=400)
 *&color(#e0e0e0){&font(#9B95C9){&icon_fa(fa-solid fas fa-edit)} プロフィール}
-#slide_img(auto=4,position=left,height=600,width=330){初期.jpg,エダ私服.png,}
+#slide_img(auto=4,position=left,height=600,width=330){初期.jpg,エダ私服.png,エダ私服➁.png}
 //もっと良い写真あったら差し替えてください
 
 //ここからプロフィール
@@ -57,7 +57,7 @@
 |[[夜桜　怜]]||
 |[[三条　ねぎ]]|敬語を嫌がってくる、自ら奴隷になろうとした人。不思議と息は合いそう。&br()また殴り合いで銃を使っても反発してこなかった。|
 |[[神田　じぇいのすけ]]&br()じぇいのすけさん|かえるさんと同じ雰囲気を感じる優しい人。[[たこ焼き屋さん>>ザリ蛸]]のボスらしい。|
-|[[ヘルアン]]&br()ヘルアンくん|ヘリでの報告が上手。覆面を変えるかどうかは何度も聞いてくるが、きちんと”エダ先”として敬ってくれる後輩。|
+|[[ヘルアン]]&br()ヘルアンくん|ヘリでの報告が上手。覆面を変えるかどうかは何度も聞いてくるが、きちんと”エダ先”として敬ってくれる後輩。11月21日起床の際、脱退したことを知った。|
 |[[とろろ　ろろ]]&br()とろろさん|初対面で変態だと言われた。殴り合いはかなり弱め。|
 |[[五味　カス]]&br()ごみかす|かえるさんと同じくらい何でもしてくれるし、何でも教えてくれる。|
 |[[夜仲　コウ]]&br()コウさん|初めての電話をぶち切りした。頭は少し高いが、食べ物をくれる物わかりが良い後輩。|
@@ -157,8 +157,8 @@
 ***&size(150%){&bgcolor(#a59aca){&nbsp()&font(#ffffff,90%){Season2}&nbsp(30)}}
 #table_style(head=center)
 #region(開く,open)
-|BGCOLOR(#9B95C9):~&blankimg(エダ転送直後.png,x=200,y=350)|BGCOLOR(#9B95C9):~&blankimg(エダ初期服.jpg,x=200,y=350)|
-|BGCOLOR(#9B95C9):~転送直後|BGCOLOR(#9B95C9):~初期服|
+|BGCOLOR(#9B95C9):~&blankimg(エダ転送直後.png,x=200,y=350)|BGCOLOR(#9B95C9):~&blankimg(エダ初期服.jpg,x=200,y=350)|BGCOLOR(#9B95C9):~&blankimg(エダ私服➁.png,x=200,y=350)|
+|BGCOLOR(#9B95C9):~転送直後|BGCOLOR(#9B95C9):~初期服|BGCOLOR(#9B95C9):~エダ私服➁|
 #endregion
 
 *&color(#e0e0e0){&font(#9B95C9){&icon_fa(fas fa-panorama)} エピソード}
@@ -767,6 +767,9 @@
 ***2025年
 #region(12月,close)
 ****12/26 [[【#ストグラ 1日目】ストグラS2 エダ>>https://www.twitch.tv/videos/2653324034?filter=archives&sort=time]]
+#region(開く,open)
+#endregion
+****11/21 [[【#ストグラS2 ?日目】何もかも知らない エダ>>https://www.twitch.tv/videos/2936002963]]
 #region(開く,open)
 #endregion
 #endregion
