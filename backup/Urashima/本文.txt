@@ -16,7 +16,7 @@
 |~店名|~&icon_fa(fa fa-anchor)|>|&b(){&ruby(うらしま){Urashima}}|
 |~業種|~&icon_fa(fa fa-utensils)|>|飲食店：海上レストラン|
 |~開業日|~&icon_fa(fa fa-birthday-cake)|2023年10月24日|2026年02月13日&small(){（&countup(2026/02/13,yd)経過）}&br()2026年03月05日&small(){（グランドオープン）}|
-|~所在地|~&icon_fa(fa fa-solid fa-building-user)|>|8000番地|
+|~所在地|~&icon_fa(fa fa-solid fa-umbrella-beach)|>|8000番地|
 |~　公式TwiX　|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|-|@urashima|
 |~オーナー|~&icon_fa(fa-regular fa-id-card) |[[アラリル・アルシャバ・アルカ]]|[[星ノ　みこ]]|
 |~店長|~&icon_fa(fa-regular fa-id-card) |[[亀山　Hero]] (店長代理)|[[星ノ　みこ]]|
@@ -374,6 +374,9 @@
 |Food|&b(){「ウミガメのイースターエッグプリン」}|&s(){3000円&br()6000円}&br()8000円||　|2026/mm/dd|イースター&co(){値上げ①不明&br()値上げ②26/10/31}|
 |Food|&b(){激辛マグマプールピザ}|チケット||　|2026/07/30|復刻|
 |特殊|&b(){お菓子な海のハロウィンパフェ}|チケット||　|2026/10/29|ハロウィン限定&co(種類要確認)|
+|Food|&b(){ブルーヘッドイセエビのあつあつグラタン}|10000円||　|2026/11/19|イベント後警察専用販売|
+|Food|&b(){味野フライ定食}|10000円||　|2026/11/19|イベント後警察専用販売|
+|Food|&b(){ブロッコリーの汗だくアヒージョ}|10000円||　|2026/11/19|イベント後警察専用販売|
 #table_sorter{even=#f4fbfe,odd=#FFFFFF}
 //
 #co{Random=ガチャ
@@ -384,6 +387,7 @@
 
 ***メニュー画像
 #region(Season1)
+#areaedit()
 #region(23/10/20 文化祭プレオープンメニュー)&b(){23/10/20 文化祭プレオープンメニュー}
 &blankimg(プレメニュー_20231020.jpeg,x=480,y=380)
 #endregion
@@ -435,11 +439,14 @@
 #region(25/04/29 イースター限定商品)&b(){25/04/29 イースター限定商品}
 &image(https://stgr-r2.libhalt.net/images/62d53414-d38d-4bd6-8646-2fe4703c3924.png,x=576,y=324)
 #endregion
+#areaedit(end)
 #endregion(Season1 画像)
 #size(50%){　}
 //
 //
 #region(Season2,open)
+#region(2026年,open)&bold(){2026年}
+#areaedit()
 #region(26/02/13 メニュー)&b(){26/02/13 メニュー}
 &blankimg(メニュー_20260213.jpeg,x=576,y=324)
 #endregion
@@ -479,6 +486,15 @@
 #region(26/10/31 うらしまうらめし幽霊船BOX,open)&b(){26/10/31 うらしまうらめし幽霊船BOX}
 &blankimg(うらしまうらめし幽霊船BOX.jpg,x=533,y=300)
 #endregion
+//
+//
+#co{
+#region(日付 タイトル)&b(){日付 タイトル}
+&blankimg(画像,x=576,y=324)
+#endregion
+}
+#areaedit(end)
+#endregion(2026年)
 
 #endregion(Season2)
 //
@@ -613,6 +629,18 @@
 |~主催|[[Urashima]]|
 #endregion
 ----
+***海上レストランUrashima釣り大会（2026/08/06）情報募集中
+#region(開く)閉じる
+//&blankimg(,x=280,y=160)
+//&blankimg(,x=280,y=160)
+
+#table_color(#E0E0E0)
+|~開催日時|2026/08/06(木) xx:xx〜|
+|~場所|8000番地 リゾート|
+|~主催|[[Urashima]]|
+|~協賛|&co(){[[Los Vegas]]／[[勝手に釣り協会(命田 守)>>命田　守]]}|
+#endregion(釣り大会)
+----
 ***警察コラボメニューバトル（2026/11/19）
 #region(開く)閉じる
 &blankimg(MENUBATTLE_SGPD.jpg,x=176,y=250)
@@ -722,10 +750,10 @@
 |9/9|イベント出店||[[救急隊>>ロスサントス救急救命隊]]主催『きゅうきゅうの日』にて飲食販売を行う|
 |9/13|イベント出店|主催：[[Luna Garage]]|レース＆歌イベント『ムーンカップ』にて飲食販売を行う|
 |10/31|イベント出店||『ハロウィン飲食物産展』にて飲食販売を行う|
-
+|11/19-21|イベント開催|[[伊勢　えびす]]、[[味野　環九郎]]、[[斎藤>>ブロッコリー　斎藤]]&br()[[浅森　水瞳]]|警察コラボメニューの販売数対決イベントを行う|
 #table_sorter{even=#f4fbfe,odd=#FFFFFF}
-#endregion
-
+#endregion(沿革)
+//|m/d|出来事|関係者|備考|
 【　追記･編集 歓迎です。 】
 
 #center{

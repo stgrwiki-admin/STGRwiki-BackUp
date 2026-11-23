@@ -1,9 +1,8 @@
 *プロフィール
 &image(Screenshot_20261118_205916_YouTube.png,y=400)
 
-
 //ここからプロフィール
-#table_style(head=#E6E6FA:#666666){}
+#table_style(head=#C60103:#FFF){}
 |~名前|~&icon_fa(fa fa-user)|&bold(){おにく　くん}|
 |~出身地|~&icon_fa(fa fa-location-dot)|日本の西|
 |~誕生日|~&icon_fa(fa fa-cake-candles)|1984年08月26日 (&countup(1984/08/26,y)歳)|
@@ -13,10 +12,10 @@
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|@onikukun|
 |~レーサー名|~&icon_fa(fa fa-car)|　|
 |~電話番号|~&icon_fa(fa fa-phone)|(480)256-2222|
-|BGCOLOR(#eee):~プレイヤー|BGCOLOR(#eee):~&icon_fa(fa fa-address-card-o fa-fw)|湯毛|
-|BGCOLOR(#eee):~告知等|BGCOLOR(#eee):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/yugepo]]|
-|BGCOLOR(#eee):~配信場所|BGCOLOR(#eee):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@yugenokai]]|
-//|BGCOLOR(#eee):~ガイドライン|BGCOLOR(#eee):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
+|BGCOLOR(#eee):COLOR(#555):~プレイヤー|BGCOLOR(#eee):COLOR(#555):~&icon_fa(fa fa-address-card-o fa-fw)|湯毛|
+|BGCOLOR(#eee):COLOR(#555):~告知等|BGCOLOR(#eee):COLOR(#555):~&icon_fa(fa fa-bullhorn)|&font(#000){&icon_fa(fa-brands fa-square-x-twitter fa-fw)} [[&font(#000){X (旧Twitter)}>>https://x.com/yugepo]]|
+|BGCOLOR(#eee):COLOR(#555):~配信場所|BGCOLOR(#eee):COLOR(#555):~&icon_fa(fa fa-gamepad)|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@yugenokai]]|
+//|BGCOLOR(#eee):COLOR(#555):~ガイドライン|BGCOLOR(#eee):COLOR(#555):~&icon_fa(fa fa-circle-info)|[[ＵＲＬ]]|
 //
 #co{コピー用🔽以下必要な場合にご利用下さい
 

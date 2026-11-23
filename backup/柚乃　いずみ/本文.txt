@@ -1,3 +1,4 @@
+*&font(30px,#FFC0CB){プ}ロフィール &icon_fa(fa fa-user)
 #slide_img(auto=5,position=center,width=300,height=450){柚乃いずみ_トップ画01.jpg,柚乃いずみ_Before.webp,柚乃いずみ_after.webp,柚乃いずみ_サニーケバブ.jpeg}
 
 #table_style(head=#FFC0CB:#666666){}
@@ -7,7 +8,7 @@
 |~転入日|~&icon_fa(fa fa-plane-arrival)|&bold(){Season2} 2025年12月19日 (&countup(2025/12/19,yd)経過)|
 |~身長|~&icon_fa(fa fa-person)|154cm|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|ケバブ屋【[[サニーケバブ]]】店長 (2025/12/27～)|
-|~所属|~&icon_fa(fa fa-users)|&s(){総合総社【[[モンスターハウスプロダクション]]】}|
+|~所属|~&icon_fa(fa fa-users)|&small(){&openclose2(show=▼過去の所属){&br()総合総社【[[モンスターハウスプロダクション]]】}}|
 |~電話番号|~&icon_fa(fas fa-phone)|(480)851-9477|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|柚乃いずみ @yunoizumi&br()サニーケバブ @sunnykebub|
 |~レーサー名|~&icon_fa(fas fa-car)|YunoIzumi|
@@ -56,7 +57,7 @@
 #table_style(head=center:#FFC0CB:#666666)
 |~建物|~番地|~詳細|h
 |アパート|8039|街へ来た際に支給されていた病院横の初期アパート。141号室。|
-|社宅|8037|&bold(){&b(){[[アルタ・スカイブルー]]}が&b(){"[[サニーケバブ]]"}の社宅として購入。その後解雇となった為、所有権を譲渡された。}|
+|社宅|8037|[[アルタ・スカイブルー]]が[[サニーケバブ]]の社宅として購入。その後解雇となった為、所有権を譲渡された。|
 
 #endregion(所有物件)
 //
@@ -106,6 +107,7 @@
 //|[[テクス・ギルベルト]]|||
 //|[[黒丈　シロウ]]|うむ||
 #endregion(黒市民)
+
 *&font(30px,#FFC0CB){エ}ピソード &icon_fa(fa fa-calendar-o)
 ***2025年
 #region(12月,close)&bold(){12月}
@@ -270,7 +272,7 @@
 #endregion
 //
 ***2026年
-#region(1月,open)
+#region(1月,close)
 #table_style(head=center:#FFC0CB){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |1/1(木)|8|[[柚乃いずみの日常～8日目～>>https://m.youtube.com/watch?v=JOG3rwNhdAE]]||
