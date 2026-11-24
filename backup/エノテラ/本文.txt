@@ -37,7 +37,23 @@
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 #table_autoincrement(){label=No.}
 //従業員の変更があれば「参加者一覧」への反映もお願いします
-
+//
+***臨時探偵
+#table_filter(){就職日=show,備考=show,配信=show}
+#table_style(head=#ffffe0)
+|~名前|~就職日|~備考|~配信|h
+|[[宇佐　卓]]|26/10/03||&font(#6441A4){&icon_fa(fa fa-twitch)}[[Twitch>>https://twitch.tv/usa_takuma]]|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+***協力者
+#table_filter(){就職日=show,備考=show,配信=hide}
+#table_style(head=#ffffe0)
+|~名前|~就職日|~備考|~配信|h
+|[[捌木　たいたい]]|26/09/02|何も知らない協力者|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/@taitaiYOUTUBE]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/taitai19970904]]|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
 #co{
 //***職業体験者
 #table_style(head=#ffffe0)
@@ -82,10 +98,10 @@
 |10/16|-|[[脇　逢魔]]|脇に似ているらしい[[キャプテン　わきを]]の恋人[[にしのん>にし　のん]]の捜索|怖いため、見つからなかったことにする。||
 |10/16|10/21|[[ジミー　ウィルトン>>https://w.atwiki.jp/streamergta5/pages/3895.html]]🥁|ウィルトン家の催しでダイニングに花を飾りたい。|別事業の花束（飾れない）を作成し、売る。||
 |10/18|10/30|[[日之　ぱちお]]|新人ジト村への依頼：偽物の今日のシンバ捜索|#昨日のシンバで偽物を釣り、存在を知られたところで、喫茶ひまわりでシンバフェスを開催。&br()まんまと来た偽物と対決し、友情が芽生えてしまい、踏み込めず失敗。&br()請求書により、市民IDは手に入れたため、未払いがあった場合警察で照合する。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ジト村>>https://www.youtube.com/watch?v=KdAbzwH97s8]]|
-|10/28|11/01|[[チェン　マヨ]]|失われた記憶と行方不明の車の捜索|[[ウィルトン家🥁>>https://w.atwiki.jp/streamergta5/pages/3895.html]]のパーティに行ったと思われる住民の記憶が失われている事が発覚。&br()マヨの車両を5000番地で発見するものの、所有権がタイラー ジョンなる人物になっていた。&br()後日所有権がウォルター ウィルトン🥁に代わっている同車両を発見。本人も買った記憶がないらしく、マヨに返して貰う。&br()ウィルトン一家からジミーの記憶が失われていた。ついでに花代もウォルターから支払ってもらう。&br()真相は闇のまま終了。ジト村「真実はいつも怖い」	マヨから探偵全員に各々報酬を貰う。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}まる>>https://youtu.be/QSDQx8tyGx4?si=c2VVY0iz4mPKmK05&t=542]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ぱちお>>https://www.youtube.com/watch?v=udifUFHQBIk]]|
+|10/28|11/01|[[チェン　マヨ]]|失われた記憶と行方不明の車の捜索|[[ウィルトン家🥁>>https://w.atwiki.jp/streamergta5/pages/3895.html]]のパーティに行ったと思われる住民の記憶が失われている事が発覚。&br()マヨの車両を5000番地で発見するものの、所有権がタイラー ジョンなる人物になっていた。&br()後日所有権がウォルター ウィルトン🥁に代わっている同車両を発見。本人も買った記憶がないらしく、マヨに返して貰う。&br()ウィルトン一家からジミーの記憶が失われていた。ついでに花代もウォルターから支払ってもらう。&br()真相は闇のまま終了。ジト村「真実はいつも怖い」	マヨから探偵全員に各々60万ずつ報酬を貰う。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}まる>>https://youtu.be/QSDQx8tyGx4?si=c2VVY0iz4mPKmK05&t=542]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}ぱちお>>https://www.youtube.com/watch?v=udifUFHQBIk]]|
 |10/29|11/04|[[カテジ>伊藤　カテジ]]|ジト村への依頼：[[不働　めい]]の素行調査|10/29の不働めいの1日を調査し、報告。100万の報酬（着手金含む）||
-|11/14|11/21|[[サク　フォールド]]|[[加藤　圧]]の身辺調査|🔰マークをつけた新規住民に与えられる範囲の情報&br()|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}まる>>https://www.youtube.com/watch?v=zLxV8NLoPPw]]|
-|11/23||&openclose2(show=＊＊＊){[[DEP]]}|特定の心なきの捜索（1人につき200万の報酬）|||
+|11/14|11/21|[[サク　フォールド]]🔰|[[加藤　圧]]の身辺調査&br()自身が持っている情報を伝えても問題ないか|🔰マークをつけた新規住民に与えられる範囲の情報&br()もう少し時間をかけて本人と親密になって相談したら親身になってくれる人。現状サクがはぐらかされているのが全て。&br()この街の人は初心者マークの加護が外れるまで教えられない事がある。探ることの危険性を教える。20万の報酬。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}まる>>https://www.youtube.com/watch?v=zLxV8NLoPPw]]|
+|11/23||&openclose2(show=＊＊＊){[[DEP]]}|&openclose2(show=＊＊＊){特定の心なき19名の捜索（1人につき200万BMの報酬）}|||
 
 #table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}}

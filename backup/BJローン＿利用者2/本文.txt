@@ -45,7 +45,7 @@
 |&small(){1月中に返済された金額から算出}|h
 |CENTER:BGCOLOR(#eeeeee):~&color(#404040){&bold(){¥10,800,000}}|}
 #endregion(1月)
-
+//
 #region(2月,close)&b(){2月：閉じる}
 #size(90%){{{#table_filter(){No.=show,利用者=show,貸付方式=show,債権売却者=hide,連帯保証人=hide,貸付・買取り金額=show,返済額=show,純利額=hide,貸付日=show,完済日=show,概要=show,徴収･回収=hide}
 #table_style(hover=#eaf4fc,head=#000033:#fcc800:center){No.=center,貸付・買取り金額=right,返済額=right,純利額=right,貸付日=right,完済日=right,}
@@ -59,7 +59,7 @@
 |&small(){2月中に返済された金額から算出}|h
 |CENTER:BGCOLOR(#eeeeee):~&color(#404040){&bold(){¥500,000}}|}
 #endregion(2月)
-
+//
 #region(3月,close)&b(){3月：閉じる}
 #size(90%){{{#table_filter(){No.=show,利用者=show,貸付方式=show,債権売却者=hide,連帯保証人=hide,貸付・買取り金額=show,返済額=show,純利額=hide,貸付日=show,完済日=show,概要=show,徴収･回収=hide}
 #table_style(hover=#eaf4fc,head=#000033:#fcc800:center){No.=center,貸付・買取り金額=right,返済額=right,純利額=right,貸付日=right,完済日=right,}
@@ -71,8 +71,6 @@
 |[[マクドナルド>>ライト　スターボーイ]]|住宅ローン24回払い&br()毎週¥1,604,167の返済|CENTER:--|[[町田　ジョアンナ]]|¥35,000,000|¥38,500,000|¥1,750,000|2026/03/26|CENTER:2026/05/02|システム説明にかなり苦労したが、&br()[[ももみ先生>>ももみ　マルフォイ]]が立ち会ったので食い違いの際は先生の名前を出して良いことになっている。|5週目の返済が遅れ物件が差し押さえになり家族で話し合いをし一括で返済した。|
 |[[不働　めい]]|一般貸付|CENTER:--|CENTER:--|¥4,000,000|¥4,800,000|¥800,000|2026/03/28|2026/04/04|完済したその日に200万円を貸付けたが、その翌日にもう200万円を貸付ることとなった。|[[とある人>>ザ！！！コーラボーイ！！！]]に痛い目を見せて欲しいと言われつつ肩代わりしてもらい、完了。|
 
-
-
 #table_sorter{even=#fffff4,odd=#eeeeee}
 #table_autoincrement(){label=No.}
 }}}
@@ -80,7 +78,7 @@
 |&small(){3月中に返済された金額から算出}|h
 |CENTER:BGCOLOR(#eeeeee):~&color(#404040){&bold(){¥5,335,000}}|}
 #endregion(3月)
-
+//
 #region(4月,close)&b(){4月：閉じる}
 #size(90%){{{#table_filter(){No.=show,利用者=show,貸付方式=show,債権売却者=hide,連帯保証人=hide,貸付・買取り金額=show,返済額=show,純利額=hide,貸付日=show,完済日=show,概要=show,徴収･回収=hide}
 #table_style(hover=#eaf4fc,head=#000033:#fcc800:center){No.=center,貸付・買取り金額=right,返済額=right,純利額=right,貸付日=right,完済日=right,}
@@ -99,7 +97,7 @@
 |&small(){4月中に返済された金額から算出}|h
 |CENTER:BGCOLOR(#eeeeee):~&color(#404040){&bold(){¥9,050,000}}|}
 #endregion(4月)
-
+//
 #region(5月,close)&b(){5月：閉じる}
 #size(90%){{{#table_filter(){No.=show,利用者=show,貸付方式=show,債権売却者=hide,連帯保証人=hide,貸付・買取り金額=show,返済額=show,純利額=hide,貸付日=show,完済日=show,概要=show,徴収･回収=hide}
 #table_style(hover=#eaf4fc,head=#000033:#fcc800:center){No.=center,貸付・買取り金額=right,返済額=right,純利額=right,貸付日=right,完済日=right,}
@@ -123,7 +121,7 @@
 |CENTER:BGCOLOR(#eeeeee):~&color(#404040){&bold(){¥17,925,000}}|}
 
 #endregion(5月)
-
+//
 #region(6月,close)&b(){6月：閉じる}
 #size(90%){{{#table_filter(){No.=show,利用者=show,貸付方式=show,債権売却者=hide,連帯保証人=hide,貸付・買取り金額=show,返済額=show,純利額=hide,貸付日=show,完済日=show,概要=show,徴収･回収=hide}
 #table_style(hover=#eaf4fc,head=#000033:#fcc800:center){No.=center,貸付・買取り金額=right,返済額=right,純利額=right,貸付日=right,完済日=right,}
@@ -142,9 +140,6 @@
 |[[パン　チャン]]|カーローン10回払い&br()毎週¥1,250,000の返済|CENTER:--|CENTER:--|¥12,500,000|¥13,750,000|¥1,250,000|2026/06/26|2026/09/23|軽トラ10台の購入費用。頭金¥1,250,000は貸付時に受け取り済み。|完済。|
 |[[マッハボクシング　ドク]]|カーローン20回払い&br()毎週¥1,100,000の返済|CENTER:--|CENTER:--|¥22,000,000|¥24,200,000|¥2,200,000|2026/06/28|2026/06/28|船の購入費用。頭金¥2,20,000は貸付時に受け取り済み。|ボート購入後にギャンブルで1800万円勝ったため、即日完済|
 
-
-
-
 #table_sorter{even=#fffff4,odd=#eeeeee}
 #table_autoincrement(){label=No.}
 }}}
@@ -153,7 +148,7 @@
 |CENTER:BGCOLOR(#eeeeee):~&color(#404040){&bold(){¥31,850,000}}|}
 
 #endregion(6月)
-
+//
 #region(7月,close)&b(){7月：閉じる}
 #size(90%){{{#table_filter(){No.=show,利用者=show,貸付方式=show,債権売却者=hide,連帯保証人=hide,貸付・買取り金額=show,返済額=show,純利額=hide,貸付日=show,完済日=show,概要=show,徴収･回収=hide}
 #table_style(hover=#eaf4fc,head=#000033:#fcc800:center){No.=center,貸付・買取り金額=right,返済額=right,純利額=right,貸付日=right,完済日=right,}
@@ -188,7 +183,7 @@
 |CENTER:BGCOLOR(#eeeeee):~&color(#404040){&bold(){¥87,550,000}}|}
 
 #endregion(7月)
-
+//
 #region(8月,close)&b(){8月：閉じる}
 #size(90%){{{#table_filter(){No.=show,利用者=show,貸付方式=show,債権売却者=hide,連帯保証人=hide,貸付・買取り金額=show,返済額=show,純利額=hide,貸付日=show,完済日=show,概要=show,徴収･回収=hide}
 #table_style(hover=#eaf4fc,head=#000033:#fcc800:center){No.=center,貸付・買取り金額=right,返済額=right,純利額=right,貸付日=right,完済日=right,}
@@ -214,7 +209,7 @@
 |CENTER:BGCOLOR(#eeeeee):~&color(#404040){&bold(){¥29,850,000}}|}
 
 #endregion(8月)
-
+//
 #region(9月,open)&b(){9月：閉じる}
 #size(90%){{{#table_filter(){No.=show,利用者=show,貸付方式=show,債権売却者=hide,連帯保証人=hide,貸付・買取り金額=show,返済額=show,純利額=hide,貸付日=show,完済日=show,概要=show,徴収･回収=hide}
 #table_style(hover=#eaf4fc,head=#000033:#fcc800:center){No.=center,貸付・買取り金額=right,返済額=right,純利額=right,貸付日=right,完済日=right,}
@@ -234,7 +229,7 @@
 |CENTER:BGCOLOR(#eeeeee):~&color(#404040){&bold(){¥50,900,000}}|}
 
 #endregion(9月)
-
+//
 #region(10月,open)&b(){10月：閉じる}
 #size(90%){{{#table_filter(){No.=show,利用者=show,貸付方式=show,債権売却者=hide,連帯保証人=hide,貸付・買取り金額=show,返済額=show,純利額=hide,貸付日=show,完済日=show,概要=show,徴収･回収=hide}
 #table_style(hover=#eaf4fc,head=#000033:#fcc800:center){No.=center,貸付・買取り金額=right,返済額=right,純利額=right,貸付日=right,完済日=right,}
@@ -242,7 +237,7 @@
 |[[上田　さん]]|&s(){特殊貸付}&br()一般貸付|CENTER:--|CENTER:--|&s(){¥500,000,000}&br()¥5,000,000|&s(){¥550,000,000}&br()¥5,500,000|&s(){¥50,000,000}&br()¥500,000|2026/10/01|2026/10/01|[[NOVA FAMILIA]]からの手切れ金として¥500,000,000の貸付希望、&br()Twixで信託銀行ユーザーに貸付許可の是非を伺ったところ、&br()賛成ゼロ、反対多数だったため¥5,000,000だけ貸付。|完済。|
 |[[毒多　博士]]|住宅ローン55回払い&br()毎週¥3,400,000の返済|CENTER:--|[[アルタ　スカイブルー]]|¥170,000,000|187,000,000|¥17,000,000|2026/10/10|CENTER:--|ラボ購入費用として貸付。&br()事前打ち合わせの通り、街を盛り上げる企業として上限1億を超えての貸付。||
 |[[ドレッドの不動　めい>>Lv〇　チンピラ]]|ジャンプあり一般貸付|CENTER:--|[[不働　めい]]|¥30,000,000|&s(){¥36,000,000}&br()&s(){¥60,000,000}&br()¥0|&s(){¥6,000,000}&br()&s(){¥30,000,000}&br()¥0|2026/10/10|2026/10/17&br()&font(b,10px){ジャンプ成功}|レギオンで揉めていた[[不〇めい集団>>ギャングシティ_S2]]を代表して[[ウェスカー>>アルフォート　ウェスカー]]への禊として貸付。&br()特例で10/14からジャンプ期間開始。&s(){警察からの手錠貸与が受けられたので、&br()ジャンプ期間に白市民パス持ちも参加できる形を想定}|逃走期間3日(内最終ゲーム有)を完遂。&br()初のジャンプ成功者となった。|
-|[[浦戸　ゼン]]|カーローン8回払い&br()毎週¥2,500,000の返済|CENTER:--|CENTER:--|¥20,000,000|¥22,000,000|¥2,000,000|2026/10/28|CENTER:--|車の購入費用。頭金¥2,500,000は貸付時に受け取り済み。||
+|[[浦戸　ゼン]]|カーローン8回払い&br()毎週¥2,500,000の返済|CENTER:--|CENTER:--|¥20,000,000|¥22,000,000|¥2,000,000|2026/10/28|2026/11/18|車の購入費用。頭金¥2,500,000は貸付時に受け取り済み。||
 |[[捌木　たいたい]]|一般貸付|CENTER:--|CENTER:--|¥10,000,000|¥12,000,000|¥2,000,000|2026/10/29|CENTER:--|[[The Artemis]]で[[あいちゃん>ヤシャ　ロア]]に入れ込んだ不足分を貸付。&br()1セット30万でガソスタ雇用。||
 |[[音凪　紬]]|一般貸付|CENTER:--|CENTER:--|¥10,000,000|¥12,000,000|¥2,000,000|2026/10/29|CENTER:--|[[The Artemis]]でお客に入れ込んだ不足分を貸付。&br()1セット30万でガソスタ雇用。||
 |[[高橋　滅論]]|特殊貸付15回払い&br()毎週¥16,000,000の返済|CENTER:--|CENTER:--|¥200,000,000|¥240,000,000|¥40,000,000|2026/10/31|CENTER:--|[[タラ　ちゃん]]への禊として貸付。&br()連帯保証人が確保できなかったため、特殊条件として毎週水曜日に、&br()「BJローンさん、ダイヴします」と夢のXで宣言しながら起きるよう提示。||
