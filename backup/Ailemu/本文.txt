@@ -31,7 +31,7 @@
 #table_style(head=#57BCD4:#FFFFFF){名前=bold}
 |~役職|~名前|~就職日|~他職業|~備考|h
 |店長|[[チェン　マヨ]]|2026/07/11|[[ジョアンナテクノサービス]]&br()[[Fashion MiMi]]|以前の街でもネイルショップで働いていた。&br()現在はアパレル業[[Fashion MiMi]]でコーディネーターをしている。|
-|店員|[[丘猫　まる]]|2026/07/11|[[AILES ENTERTAINMENT>>AILES]]|　|
+|店員|[[丘猫　まる]]|2026/07/11|[[The Artemis]] / [[喫茶ひまわり]]&br()[[エノテラ]] / [[VALPINUS]]|　|
 |店員|[[圧子]]|2026/07/11|[[ジョアンナテクノサービス]]|　|
 |店員|[[えびな　ヨネ]]|2026/07/11|[[Club Passiona]]||
 //|役職|[[名　前]]|yyyy/mm/dd|[[他職業]]|備考|
@@ -189,7 +189,7 @@
 }
 
 **&font(35,#00b7ce){&icon_fa(fa-solid fa-hands)} &font(25,#81CFDE){モデル・記念写真}
-#region(開く,open)全て閉じる
+#region(開く)全て閉じる
 ***従業員
 #region(店員研修)&b(){店員研修}
 #table_style(head=#e7f4f8)
@@ -223,8 +223,8 @@
 #size(50%){　}
 #hr(height=3,color=#e6f4f8)
 //
-#co{Twixの縦長画像3：4→x=200,y=267
 
+#co{Twixの縦長画像3：4→x=200,y=267
 #region(yyyy/mm/dd 名前)
 #table_style(head=#e7f4f8)
 |MIDDLE:CENTER:~&b(){yyyy/mm/dd [[名前]]}|
@@ -233,6 +233,7 @@
 
 }
 #endregion
+
 **&font(35,#00b7ce){&icon_fa(fa fa-solid fa-pen-clip)} &font(25,#81CFDE){沿革}
 ***2026年
 #region(開く,open)
@@ -241,7 +242,7 @@
 |~日付|~出来事|~関係者|~エピソード・備考|h
 |06/26|オープン告知|　|TwiXにてショップのオープン告知を行う|
 |07/11|グランドオープン|[[チェン　マヨ]]、[[丘猫　まる]]、[[圧子]]、[[えびな　ヨネ]]|閉店まで客足の途切れることのない大盛況を収めた|
-|10/25|ファッションショー&br()&openclose2(show=▼告知ポスター){&br()&blankimg(イベント_261025.jpeg,x=150,y=210)}|Ailemu、[[Fashion MiMi]]、[[Confate]]|[[Fashion MiMi]] × Ailemu × [[Confate]] コラボレーション音楽ファッションショーを開催|
+|10/25|ファッションショー&br()&openclose2(show=▼告知ポスター){&br()&blankimg(イベント_261025.jpeg,x=150,y=210)}|Ailemu、[[Fashion MiMi]]、[[Confate]]|[[Fashion MiMi]] × Ailemu × [[Confate]]&br()コラボレーション音楽ファッションショーを開催|
 //|mm/dd|出来事|関係者|エピソード・備考|
 //|mm/dd|出来事|関係者|エピソード・備考|
 #table_sorter{even=#f5feff,odd=#FFFFFF}

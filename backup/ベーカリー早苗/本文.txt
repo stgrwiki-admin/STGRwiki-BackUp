@@ -156,16 +156,16 @@
 #endregion
 
 ***バイト経験者
-#region(Season1)
+#region(Season1)&font(12px){【他経験者の情報お持ちの方がいましたら追記・編集お願いします。】}
 #table_style(head=center){}
 #table_filter(){備考=show}
 |~名前|~就業開始日|~備考|h
 |[[しら　ぽち]]|[[23/10/07>>https://youtu.be/FJoZ1nLh9VQ?t=17946]]&font(#DA1725){&icon_fa(fa fa-youtube-play)}|光芝勤続1周年セールのストック作りの為&br()何でも屋へ依頼して来てくれた単発バイト|
-#table_autoincrement()
+|[[ネズ]]|24/04/13||
+
+#table_autoincrement(){label=#,start=1}
 #table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
 //日付は29時(am5時)更新として記述しています。
-&font(#666666){【他経験者の情報お持ちの方がいましたら追記・編集お願いします。】}
-|[[ネズ]]|
 #endregion
 
 ***退職者
@@ -287,10 +287,11 @@
 #endregion(Season1)
 ***Season2
 #region(開く,open)閉じる
-***レギュラー商品
-#region(商品リスト,open)
+-2026/08/28 価格改定 4,000円→5,000円&br()
+****Food
+#region(商品リスト,close)
 &icon_fa(fa-solid fa-bread-slice)&space()= food / &icon_fa(fa-solid fa-coffee)&space()= drink / &icon_fa(fa-solid fa-wheat-awn)&space()= relax / &icon_fa(fa-solid fa-ribbon)&space()= otners / &icon_fa(fa-solid fa-cake-candles)&space()= Special / &icon_fa(fa-solid fa-gift)&space()= Random
-#table_style(head=center){種類=center,価格=right}
+#table_style(head=center:#D7AB85:#FFF){種類=center,価格=right}
 #table_filter(){価格=hide,備考=show}
 |~種類|~商品名|~価格|~備考|h
 |&icon_fa(fa fa-bread-slice)|デグーパン|5,000円|　|
@@ -332,6 +333,14 @@
 |&icon_fa(fa fa-bread-slice)|からめるチョコプレッツェル| 5,000円|　|
 |&icon_fa(fa fa-bread-slice)|お花見桜ぁんぱん| 5,000円|　|
 |&icon_fa(fa fa-bread-slice)|ニシンのパイ| 5,000円|　|
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#fbf5f1}
+#endregion
+****Drink
+#region(商品リスト,close)
+&icon_fa(fa-solid fa-bread-slice)&space()= food / &icon_fa(fa-solid fa-coffee)&space()= drink / &icon_fa(fa-solid fa-wheat-awn)&space()= relax / &icon_fa(fa-solid fa-ribbon)&space()= otners / &icon_fa(fa-solid fa-cake-candles)&space()= Special / &icon_fa(fa-solid fa-gift)&space()= Random
+#table_style(head=center:#D7AB85:#FFF){種類=center,価格=right}
+#table_filter(){価格=hide,備考=show}
+|~種類|~商品名|~価格|~備考|h
 |&icon_fa(fa fa-coffee)|早苗コーヒー| 5,000円|　|
 |&icon_fa(fa fa-coffee)|ラムネフラッペ| 5,000円|　|
 |&icon_fa(fa fa-coffee)|ミルクル| 5,000円|　|
@@ -343,14 +352,36 @@
 |&icon_fa(fa fa-coffee)|キャラメルカプチッペ| 5,000円|　|
 |&icon_fa(fa fa-coffee)|人魚の涙| 5,000円|　|
 |&icon_fa(fa fa-coffee)|スパイシースターココア| 5,000円|　|
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#fbf5f1}
+#endregion
+****Relax
+#region(商品リスト,close)
+&icon_fa(fa-solid fa-bread-slice)&space()= food / &icon_fa(fa-solid fa-coffee)&space()= drink / &icon_fa(fa-solid fa-wheat-awn)&space()= relax / &icon_fa(fa-solid fa-ribbon)&space()= otners / &icon_fa(fa-solid fa-cake-candles)&space()= Special / &icon_fa(fa-solid fa-gift)&space()= Random
+#table_style(head=center:#D7AB85:#FFF){種類=center,価格=right}
+#table_filter(){価格=hide,備考=show}
+|~種類|~商品名|~価格|~備考|h
 |&icon_fa(fa fa-wheat-awn)|パイプパン| 5,000円|　|
 |&icon_fa(fa fa-wheat-awn)|ノビートング| 5,000円|　|
 |&icon_fa(fa fa-wheat-awn)|ヨツハーブ| 5,000円|　|
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#fbf5f1}
+#endregion
+****Special
+#region(商品リスト,close)
+&icon_fa(fa-solid fa-bread-slice)&space()= food / &icon_fa(fa-solid fa-coffee)&space()= drink / &icon_fa(fa-solid fa-wheat-awn)&space()= relax / &icon_fa(fa-solid fa-ribbon)&space()= otners / &icon_fa(fa-solid fa-cake-candles)&space()= Special / &icon_fa(fa-solid fa-gift)&space()= Random
+#table_style(head=center:#D7AB85:#FFF){種類=center,価格=right}
+#table_filter(){価格=hide,備考=show}
+|~種類|~商品名|~価格|~備考|h
 |&icon_fa(fa fa-cake-candles)|パン生日おめでとう|30,000円|誕生日ギフト品|
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#fbf5f1}
+#endregion
+****Random
+#region(商品リスト,close)
+&icon_fa(fa-solid fa-bread-slice)&space()= food / &icon_fa(fa-solid fa-coffee)&space()= drink / &icon_fa(fa-solid fa-wheat-awn)&space()= relax / &icon_fa(fa-solid fa-ribbon)&space()= otners / &icon_fa(fa-solid fa-cake-candles)&space()= Special / &icon_fa(fa-solid fa-gift)&space()= Random
+#table_style(head=center:#D7AB85:#FFF){種類=center,価格=right}
+#table_filter(){価格=hide,備考=show}
+|~種類|~商品名|~価格|~備考|h
 |&icon_fa(fa fa-gift)|ランダムパン袋|4,000円|フードメニューがどれか入っているガチャ|
-#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#F8F8F8}
-
-&small(){2026/08/28 価格改定 4,000円→5,000円}
+#table_sorter{head=#EEEEEE,odd=#FFFFFF,even=#fbf5f1}
 #endregion
 #endregion(Season2)
 
