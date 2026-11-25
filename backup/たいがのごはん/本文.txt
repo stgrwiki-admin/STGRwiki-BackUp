@@ -134,6 +134,78 @@
 //
 //
 &underdot(#aaaaaa,3px){&space()&font(b,#444,16px){Season2&space()}}
+***レギュラー商品
+****Food
+#region(開く,open)
+#table_filter(){種類=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#444444:#FFFFFF:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~備考|h
+|MIDDLE:Food|MIDDLE:商品名|MIDDLE:価格|MIDDLE:yyyy/mm/dd|MIDDLE:備考|
+
+#table_zebra(#F7F7F7,#FFFFFF,#444444)
+//#table_autoincrement(){label=No.}
+#endregion
+//
+//
+****Drink
+#region(開く,open)
+#table_filter(){種類=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#444444:#FFFFFF:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~備考|h
+|MIDDLE:Drink|MIDDLE:いぇろおのホットココア|MIDDLE:1,000|MIDDLE:yyyy/mm/dd|MIDDLE:あまーい幸せなココア|
+|MIDDLE:Drink|MIDDLE:たいがのおいしいイチゴミルク|MIDDLE:1,000|MIDDLE:yyyy/mm/dd|MIDDLE:北の大地でのびのびと育った牛さんのしぼりたて牛乳イチゴミルク|
+|MIDDLE:Drink|MIDDLE:たいがのおいしい牛乳|MIDDLE:1,000|MIDDLE:yyyy/mm/dd|MIDDLE:北の大地でのびのびと育った牛さんのしぼりたて牛乳|
+|MIDDLE:Drink|MIDDLE:たいがのおいしい珈琲牛乳|MIDDLE:1,000|MIDDLE:yyyy/mm/dd|MIDDLE:北の大地で伸び伸びと育った牛さんのしぼりたて牛乳 珈琲牛乳|
+|MIDDLE:Drink|MIDDLE:たいがのクリームソーダ|MIDDLE:1,000|MIDDLE:yyyy/mm/dd|MIDDLE:あまーいベリーのクリームソーダ！たいがのバニラアイス付き|
+|MIDDLE:Drink|MIDDLE:たいがのホットミルク|MIDDLE:1,000|MIDDLE:yyyy/mm/dd|MIDDLE:ほわいとたいがのホットミルク、あまくてホッとする|
+|MIDDLE:Drink|MIDDLE:たいがのレモンティー|MIDDLE:1,000|MIDDLE:yyyy/mm/dd|MIDDLE:いぇろおたいがモチーフのパッケージのレモンティー☕️🍋|
+|MIDDLE:Drink|MIDDLE:たいがの梨ジュース|MIDDLE:1,000|MIDDLE:yyyy/mm/dd|MIDDLE:しぼりたて秋の梨ジュース|
+|MIDDLE:Drink|MIDDLE:ニャン太のホットコーヒー|MIDDLE:1,000|MIDDLE:yyyy/mm/dd|MIDDLE:あったかほろ苦いビターなブレンド|
+
+//|MIDDLE:Drink|MIDDLE:商品名|MIDDLE:価格|MIDDLE:yyyy/mm/dd|MIDDLE:備考|
+#table_zebra(#F7F7F7,#FFFFFF,#444444)
+//#table_autoincrement(){label=No.}
+#endregion
+//
+//
+****Joint
+#region(開く,open)
+#table_filter(){種類=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#444444:#FFFFFF:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~備考|h
+|MIDDLE:Joint|MIDDLE:商品名|MIDDLE:価格|MIDDLE:yyyy/mm/dd|MIDDLE:備考|
+
+#table_zebra(#F7F7F7,#FFFFFF,#444444)
+//#table_autoincrement(){label=No.}
+#endregion
+//
+//
+****Set
+#region(開く,open)&icon_fa(fa-solid fa-burger)=food、&icon_fa(fa-solid fa-droplet)=drink、&icon_fa(fa-solid fa-brain)=Joint、&icon_fa(fa-solid fa-beer-mug-empty)=Alcohol、&icon_fa(fa-solid fa-ribbon)=others
+
+#table_filter(){種類=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#444444:#FFFFFF:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~備考|h
+|MIDDLE:+&icon_fa(fa fa-burger)&space()+&icon_fa(fa fa-droplet)|MIDDLE:商品名|MIDDLE:価格|MIDDLE:yyyy/mm/dd|MIDDLE:備考|
+|MIDDLE:+&icon_fa(fa fa-burger)&space()+&icon_fa(fa fa-droplet)|MIDDLE:商品名|MIDDLE:価格|MIDDLE:yyyy/mm/dd|MIDDLE:備考|
+|MIDDLE:+&icon_fa(fa fa-burger)&space()-&icon_fa(fa fa-brain)|MIDDLE:商品名|MIDDLE:価格|MIDDLE:yyyy/mm/dd|MIDDLE:備考|
+
+#table_zebra(#F7F7F7,#FFFFFF,#444444)
+//#table_autoincrement(){label=No.}
+#endregion
+//
+//
+****Others
+#region(開く,open)
+#table_filter(){種類=show,価格=show,提供開始日=hide,備考=show}
+#table_style(head=#444444:#FFFFFF:center){種類=bold,商品名=bold,画像=center,価格=right}
+|~種類|~商品名|~価格|~提供開始日|~備考|h
+|MIDDLE:Others|MIDDLE:商品名|MIDDLE:価格|MIDDLE:yyyy/mm/dd|MIDDLE:備考|
+
+#table_zebra(#F7F7F7,#FFFFFF,#444444)
+//#table_autoincrement(){label=No.}
+#endregion
+
 ***メニュー画像
 #region(2026/02/04,open)
 &image(復刻コラボ商品.jpeg,x=390,y=270)
@@ -183,5 +255,10 @@
 //|mm/dd|出来事|関係者|エピソード・備考|
 
 　&font(i,b,u){情報募集中}
+
+**関連動画
+#size(0%){#div(){#openclose(show=　,block,margin:none;,padding:10px;,border:1px solid #666;){
+&youtube(https://youtu.be/lv8TrQyERng){360,200}
+}}}
 
 #right(){&link_up(🔝ページTOPへ)}
