@@ -26,7 +26,7 @@
 //*業務内容
 //
 *メンバー
-#size(90%){#table_style(head=#DAB8EA:#fff)
+#size(90%){#table_style(head=#DAB8EA:#fff,hover=#ffffeb)
 #table_filter(){役職=show,就職日=show,兼業=hide,備考=show,配信=show}
 |~役職|~名前|~就職日|~兼業|~備考|~配信|h
 |代表|[[日之　ぱちお]]|2026/09/02|[[喫茶ひまわり]]店長&br()&small(){探偵事務所} [[エノテラ]]探偵|元[[警察官>ロスサントス警察]]（南署副署長、本署市民課 副課長）、白市民&br()無馬に特別な種を託された。1人で大量の鉢植えを栽培するファーマー。|&font(#6441A4){&icon_fa(fa fa-twitch)} [[Twitch>>https://www.twitch.tv/patisyu]]&br()&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[Youtube>>https://www.youtube.com/@%E3%81%B1%E3%81%A1%E3%81%88%E3%82%8B%E5%85%84%E5%A6%B9]]|
@@ -81,7 +81,7 @@
 *沿革・歴史
 ***2026年
 #region(開業準備)&bold(){[[開業準備>VALPINUS/無馬と謎の種]]}
-#size(80%){#table_style(head=#DAB8EA:#fff:center)
+#size(80%){#table_style(head=#DAB8EA:#fff:center,hover=#ffffeb)
 #table_filter(){関係者=hide,備考=show,動画=hide}
 |~日付|~出来事|~関係者|~詳細|~動画|h
 |08/22~|序章：適性検査|[[無馬　かな]]&br()[[日之　ぱちお]]&br()[[丘猫　まる]]|8/20から始まった[[無馬かな>無馬　かな]]の適性検査に巻き込まれた[[丘猫まる>丘猫　まる]]が警察官の[[日之ぱちお>日之　ぱちお]]を巻き込み、ぱちおも適性検査に組み込まれた。&br()|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} まる①>>https://www.youtube.com/watch?v=P0qCwdfFb-E]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} まる②>>https://www.youtube.com/watch?v=QNdK_gWoBX8]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ぱちお>>https://www.youtube.com/watch?v=d9rjYNy-c1I]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 無馬>>https://www.youtube.com/watch?v=8oB0rYmKc4k]]|
@@ -107,7 +107,7 @@
 #endregion()
 #region(10月~12月,open)
 #areaedit()
-#size(80%){#table_style(head=#DAB8EA:#fff:center)
+#size(80%){#table_style(head=#DAB8EA:#fff:center,hover=#ffffeb)
 #table_filter(){関係者=hide,備考=show,動画=show}
 |~日付|~出来事|~関係者|~詳細|~動画|h
 |10/01|&bold(){開業}||ギャングへの情報公開解禁。ギャングが栽培中の花屋を見つけても問題が起こらないよう、各ギャングへ挨拶回りをする。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} まる①>>https://www.youtube.com/watch?v=hLmNP-bZG_I]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} まる②>>https://www.youtube.com/watch?v=USlLOhUXN6E]]|
@@ -136,7 +136,7 @@
 |~|花屋取引拠点周辺に警察発見|[[日之　ぱちお]]|ぱちおが拠点の様子をうかがうような動きをしているパトカーを発見。&br()自家用車を拠点前に停めていたため、ぱちお関係と露見したものとして新たな拠点購入に動く。||
 |11/19|栽培用コンテナ即バレ|[[日之　ぱちお]]&br()[[丘猫　まる]]&br()[[文殊　セイジ]]&br()[[ヘルアン]]&br()[[宇佐　卓]]|移設したばかりの栽培用コンテナに警察が接近。&br()ぱちおが駐車していたバイクのナンバーを照合している声を真横のコンテナ内のぱちおが確認。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} まる>>https://www.youtube.com/watch?v=Y9irkhmxwFg]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} 宇佐卓>>https://www.youtube.com/watch?v=v-mB7uNcjac]]|
 |11/21|&bold(){物件購入}|[[丘猫　まる]]|栽培用コンテナ移設に伴い、付近に拠点購入。||
-|11/22|警察の動きを察知|[[日之　ぱちお]]&br()[[丘猫　まる]]|栽培用コンテナ近くの丘でコンテナ側にカメラを向けている不審人物に接触。&br()服の好み、特徴的なネイルから個人をほぼ特定。警察が変装し、個人車両で捜査をしている可能性が高いことが判明。&br()取引拠点の出入りを警察に監視されていることも確定した。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ぱちお>>https://www.youtube.com/watch?v=djKqksOOTF0]]|
+|11/22|警察の動きを察知|[[日之　ぱちお]]&br()[[丘猫　まる]]|栽培用コンテナ近くの丘でコンテナ側にカメラを向けている不審人物に接触。&br()服の好み、特徴的なネイルから個人をほぼ特定。警察が変装し、個人車両で捜査をしている可能性が高いことが判明。&br()取引拠点の出入りを警察に監視されていることも確定した。|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} ぱちお>>https://www.youtube.com/watch?v=djKqksOOTF0]]&br()[[&font(#DA1725){&icon_fa(fa fa-youtube-play)} まる>>https://www.youtube.com/watch?v=F2te4ra9PNY]]|
 |~|&bold(){パレア値上げ}||DEPより、パレアの買取価格を5000円に上げられるとの申し出があり、快諾。||
 
 //|mm/dd|出来事|関係者|備考|
@@ -154,7 +154,7 @@
 //***2027年
 //#region(上半期,open)
 //#areaedit()
-//#size(80%){#table_style(head=#DAB8EA:#fff:center)
+//#size(80%){#table_style(head=#DAB8EA:#fff:center,hover=#ffffeb)
 //#table_filter(){関係者=hide,備考=show,動画=hide}
 //|~日付|~出来事|~関係者|~詳細|~動画|h
 //|mm/dd|出来事|関係者|備考|

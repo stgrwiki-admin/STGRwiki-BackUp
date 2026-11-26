@@ -57,8 +57,11 @@
 
 #div(width=200px,bgcolor=#cbcbfd){&size(17){&font(b,#FFFFFF){　料金表}}}
 
-#region(料金表,open)料金表
+#region(料金表,close)料金表
 &blankimg(Fashion MiMi_料金表.jpg,x=330,y=440)
+#endregion
+#region(料金表 価格改定版,open)料金表 価格改定版
+&blankimg(Fashion MiMi_料金表261125.png,x=330,y=440)
 #endregion
 
 **従業員情報

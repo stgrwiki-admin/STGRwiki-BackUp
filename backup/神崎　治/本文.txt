@@ -537,6 +537,21 @@
 *&color(#e0e0e0){&font(#f39800){&icon_fa(fa fa-video)} 切り抜き動画 Season２}
 #include(神崎　治/切り抜き動画②)
 
+*&color(#e0e0e0){&font(#f39800){&icon_fa(fa fa-mobile)} Short}
+**&color(#f39800){2026年}
+#region(開く,open)
+#size(90%){{{#table_style(head=center:#82ae46:#fff){No.=center}
+|~投稿日|~タイトル|h
+|11/26|[[&font(#c53d43){&icon_fa(fa fa-youtube-play)} 記憶を消去されてる神崎治>>https://youtube.com/shorts/wLpOVVec6pk]]|
+
+#table_sorter{even=#fff,odd=#FFFCF0}
+#table_autoincrement(){label=#,start=1}
+}}}
+#co(){
+|日付|[[&font(#c53d43){&icon_fa(fa fa-youtube-play)}タイトル>>リンク]]|
+}
+#endregion(2026年)
+
 #right(){&link_up(🔝ページTOPへ)}
 *&color(#e0e0e0){&font(#f39800){&icon_fa(fa fa-gamepad fa-bounce)} ストグラ外コラボ}
 //┏━━━━━━━━━━━━━━━━━━━━━━━━┓
