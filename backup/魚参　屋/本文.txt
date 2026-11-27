@@ -7,7 +7,7 @@
 
 #table_filter(){Season1=hide,Season2=show}
 #table_style(head=#eee:#666666)
-|~世界線|~&icon_fa(fa fa-earth-asia)|~Season1|~Season2|
+|~世界線|~&icon_fa(fa fa-earth-americas)|~Season1|~Season2|
 |~名前|~&icon_fa(fa-solid fa-fish)|>|&ruby(あじ){魚参}　&ruby(や){屋}　（本名：鯵屋）|
 |~出身地|~&icon_fa(fa fa-map-marker)|>|日本（大日本天空都市 群馬）|
 |~誕生日|~&icon_fa(fa fa-birthday-cake)|>|2000年01月28日 (&countup(2000/01/28,y)歳)|
@@ -917,7 +917,9 @@
 |11/12|[[戦いの音頭 Part1>>https://www.twitch.tv/videos/2926638696]],[[Part2>>https://www.twitch.tv/videos/2926653377]]|切嘛/ととみっくす|Apex Legends||
 |11/18|[[ミリしらロブラン>>https://www.twitch.tv/videos/2932293703]]|切嘛|ROB RUN||
 |11/26|[[ロブラトゥーン。>>https://www.twitch.tv/videos/2941213314]]|切嘛/とっぴー|ROB RUN||
+|11/27|[[ローブライフ>>https://www.twitch.tv/videos/2942166477]]|切嘛|ROB RUN||
 
+//#table_autoincrement(){label=No.}
 #table_sorter{even=#F7F7F7,odd=fff}}
 #endregion()
 //

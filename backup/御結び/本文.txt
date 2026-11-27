@@ -1,0 +1,132 @@
+//&image(ここに画像のURLを入力,y=300)
+
+#table_style(head=#6495ED:#fff){}
+|~社名|~&icon_fa(fa fa-medal)|&bold(){&ruby(おむす){御結}び}|
+|~業種|~&icon_fa(fa fa-trophy)|イベント会社|
+|~設立日|~&icon_fa(fa fa-flag)|2026年11月18日&space()&small(){（&countup(2026/11/18,yd)経過）}|
+|~所在地|~&icon_fa(fa fa-map-marker)|××××番地|
+|~代表|~&icon_fa(fa-solid fa-user-tie)|&bold(){[[飯田　けんつ]]}|
+
+#region(目次を開く,open)目次
+#contents(fromhere=true,level=2)
+#endregion
+*基本情報
+-2026年11月18日 白市民の組織としてイベント会社を立ち上げる。
+-社名は多数決で[[音姫　みつお]]考案の「&ruby(おむす){御結}び」に決定。
+--白米の「白」と海苔の「黒」、イベント会社として白市民と黒市民の垣根を無しに色んな縁を結んでいくという意味が込められている。&openclose2(show=※){&font(11px,#aaa){御結びがダメな理由があれば再度話し合う}}
+--他の社名案として「&ruby(オビタ){夥}」「&ruby(ゼロイチ){零壱}」「あべこべ」「bakuga」等が候補に上がった。
+-所属メンバーがそれぞれ企画をシェアしてみんなで動き、代表の[[飯田　けんつ]]が最終決定を下す。
+-他に存在するイベント会社とは友好的に関わっていきたいと考えている。
+
+*従業員情報
+***&color(#3b71d3){&size(33){|}}&space()&underdot(#b7cbef,3px){&space()&size(20){社員一覧&space()}}
+#table_filter(){名前=show,役職/担当=show,加入日=show,兼業/所属=hide,備考=show,Channel=show}
+#table_style(head=center:#6495ED:#fff){名前=bold,役職/担当=center}
+|~名前|~役職/担当|~加入日|~兼業/所属|~備考|~Channel|h
+|[[飯田　けんつ]]|代表&br()&small(){企画 / 運営}|2026/11/18|[[渡戸林業]] / [[飯田書店]]&br()[[公認勝手にレース協会]] / [[わくわくハピネス隊]]|　|&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/kentsumeshi_heyoo]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCBm-vsGV7nQv6hKS6Wj9x-A?si=LxbDxD85zOm-bV2n]]|
+|[[帆立　ほたる]]|MIDDLE:&small(){企画 / スプシ作成}|2026/11/18|[[Urashima]] / [[Club Passiona]]&br()[[Pガールズ]] / [[ロスラジ>>わくわくハピネス隊#ロスラジ]]|　| &font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/channel/UCIzgC9UfhG8eEbH7N5BBBWA]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/akatsukidhotaru]]|
+|[[惑朽　ルーシー]]|&small(){企画 / 絵コンテ&br()撮影カメラマン / MC}|2026/11/18|[[LosVegas]] / [[Club Passiona]]&br()[[サニーケバブ]]|　|&font(#DA1725){&icon_fa(fa fa-youtube-play)} [[&color(#DA1725){YouTube}>>https://youtube.com/channel/UCO6SV58AFeDPJxFvlM1gLRg?si=Et37cb7hQMykzluw]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/mad0re718luffy]]|
+|[[音姫　みつお]]|MIDDLE:&small(){企画 / 音楽・映像関連}|2026/11/19|[[サニーケバブ]] / [[渡戸林業]]&br()[[音姫パーラー]] / [[AILES]]&br()音姫石油 / [[宝探し実行委員会]]|　|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://www.youtube.com/channel/UC7aEcYde9XWolt52vIUU08w]]&br()&font(#6441A4){&icon_fa(fa fa-twitch)}[[&font(#6441A4){Twitch}>>https://www.twitch.tv/chan32dengana]]|
+|[[ボクジュール　すずり]]|&small(){企画 / 音楽&br()デザイン関連}|2026/11/19|毛筆屋-硯- / [[LosVegas]]&br()[[Club Passiona]] / [[Luna Garage]]&br()[[Pガールズ]]|　|&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube}>>https://youtube.com/@168suzuri]]&br()&font(#6441A4){&icon_fa(fa-brands fa-twitch)} [[&font(#6441A4){Twitch}>>https://www.twitch.tv/irohasuzuri]]|
+|[[浅森　水瞳]]|&small(){企画 / クリエイティブ管理&br()アートディレクター}|2026/11/21|[[飯田書店]] / [[Luna Garage]]|　| &font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube(ゲーム)}>>https://youtube.com/channel/UCoYzAaKrFDEbrT4r6x5vwDw]]&br()&font(#DA1725){&icon_fa(fa-brands fa-youtube)} [[&font(#DA1725){YouTube(メイン)}>>https://youtube.com/channel/UCIhPflgXxYM9dsOzaI0sYgA]]|
+#table_autoincrement(){label=#,start=1}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//
+//従業員の変更があれば「参加者一覧」への反映もお願いします
+//ランク：(4)Manager/(3)Advanced/(2)Experienced/(1)Novice/(0)Recruit
+
+#co{
+//**外部協力者
+#region(開く)
+#size(90%){{{#table_style(head=#6495ED:#fff)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=#,start=1}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}}}}
+#endregion(外部協力者)
+}
+#co{
+//**職業体験者
+#region(開く)
+#size(90%){{{#table_style(head=#6495ED:#fff)
+|~名前|~体験開始日|~備考|h
+|[[名　前]]|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd||
+#table_autoincrement(){label=#,start=1}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}}}}
+#endregion(職業体験者)
+}
+#co{
+//**退職者
+#region(開く)
+#size(90%){{{#table_style(head=#E0E0E0)
+|~名前|~就職日|~最終出勤日|~備考|h
+|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+//|[[名　前]]|yyyy/mm/dd|yyyy/mm/dd||
+#table_autoincrement(){label=#,start=1}
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}}}
+#endregion(退職者)
+}
+*企画情報
+#region(開く,open)
+#size(90%){{{#table_style(head=center:#6495ED:#fff)
+#table_filter(){企画名=show,発案/担当者=show,内容=show,協力者=show,備考=hide}
+|~企画名|~発案/担当者|~内容|~協力者|~備考|h
+|レース関連|[[飯田　けんつ]]|飯田けんつが[[公認勝手にレース協会]]に加入しているためレースコースの作成が可能|||
+|サッカー|[[飯田　けんつ]]|飯田けんつが定期的に開催している賞金付きスポーツイベント|||
+|人狼ゲーム|[[飯田　けんつ]]|飯田けんつが不定期開催しているイベント|||
+|映像関連||映画制作&br()番組制作（ミュージカル / バラエティ番組）|||
+|書籍関連|[[浅森　水瞳]]|&openclose2(show=同人誌即売会){（コミケの再現）}など|||
+
+#table_autoincrement(){label=#,start=1}
+#table_sorter{even=#FF7F7,odd=#FFFFFF}}}}
+#endregion
+
+*開催イベント一覧
+#region(目次)
+#region(yyyy年,open)&bold(){yyyy年}
+//-&link_anchor(イベント){イベント}
+//-&link_anchor(イベント){イベント}
+//-&link_anchor(イベント){イベント}
+#endregion(yyyy年)
+#endregion(目次)
+**yyyy年
+#region(一覧)
+#size(90%){{{#table_style(head=#6495ED:#fff)
+#table_filter(){イベント名/ポスター=show,チケット価格/出演料=hide,日程/開催場所=show,出演者/関係者=hide,イベント内容=show,備考=hide,切り抜き動画=hide}
+|~イベント名/ポスター|~チケット価格|~日程/開催場所|~出演者/関係者|~イベント内容|~備考|~切り抜き動画|h
+
+//|MIDDLE:CENTER:&aname(イベント,option=nolink){&bold(){イベント}}&br()&image(画像,x=250)|000,000|yyyy/mm/dd&br()xxxx番地|【出演】[[名前]] / [[名前]]|内容|　|　|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#table_autoincrement(){label=#,start=1}}}}
+//
+#co{▼▼▼ コピー用 ▼▼▼
+|MIDDLE:CENTER:&aname(イベント,option=nolink){&bold(){イベント}}&br()&image(画像,x=250)|000,000|yyyy/mm/dd&br()xxxx番地|【出演】[[名前]] / [[名前]]|内容|　|　|
+　　 ▲▲▲ コピー用 ▲▲▲}
+#endregion(yyyy年)
+
+*沿革
+**2026年
+#region(開く,open)
+#size(90%){{{#table_style(head=#6495ED:#fff)
+#table_filter(){関係者=hide,エピソード・備考=show}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+|11/18|起業&br()[[帆立ほたる>>帆立　ほたる]]・[[惑朽ルーシー>>惑朽　ルーシー]] 入社|[[飯田　けんつ]]/[[帆立　ほたる]]/[[惑朽　ルーシー]]|イベント会社を設立&br()[[帆立　ほたる]]・[[惑朽　ルーシー]]が入社する|
+|11/19|[[音姫みつお>>音姫　みつお]]・[[ボクジュールすずり>>ボクジュール　すずり]] 入社|[[飯田　けんつ]]/[[帆立　ほたる]]/[[惑朽　ルーシー]]&br()[[音姫　みつお]]/[[ボクジュール　すずり]]|[[音姫　みつお]]・[[ボクジュール　すずり]]が入社する|
+|11/21|[[浅森水瞳>>浅森　水瞳]] 入社|[[飯田　けんつ]]/[[帆立　ほたる]]/[[惑朽　ルーシー]]&br()[[音姫　みつお]]/[[ボクジュール　すずり]]/[[浅森　水瞳]]|[[浅森　水瞳]]が入社する|
+|11/25|社名決定会議|[[飯田　けんつ]]/[[帆立　ほたる]]/[[音姫　みつお]]&br()[[ボクジュール　すずり]]/[[浅森　水瞳]]|多数決により社名が「&ruby(おむす){御結}び」に決定する&openclose2(show=※){&font(11px,#aaa){御結びがダメな理由があれば再度話し合う}}|
+
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}}}}
+#endregion
+
+*関連動画
+#region(開く)
+#table_color(head=#fbfcff)
+|~&youtube(https://youtu.be/Ed1Gl3HozBo,width=300,height=115)|~&youtube(https://youtu.be/V97S1Db4pMA,width=300,height=115)|
+|~&youtube(https://youtu.be/BNLXZtwXpyY,width=width=300,height=115)|~&youtube(https://youtu.be/jJDm_2buBiY,width=width=300,height=115)|
+|&youtube(https://youtu.be/82zxKP_Tow4,width=width=300,height=115)|~&co()　|
+#endregion
+
+#right(){&link_up(🔝ページTOPへ)}

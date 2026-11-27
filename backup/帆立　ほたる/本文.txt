@@ -13,7 +13,7 @@
 |~誕生日|~&icon_fa(fa fa-cake-candles)|1998年02月06日 (&countup(1998/02/06,y)歳)|
 |~転入日|~&icon_fa(fa fa-plane-arrival)|2026年01月25日 (&countup(2026/01/25,yd)経過)|
 |~職業|~&icon_fa(fa-solid fa-building-columns)|海上レストラン【[[Urashima]]】&small(){[4]店員 ('26/3/4~)}&br()酒場【[[Club Passiona]]】&small(){[2]店員 ('26/3/4~)}&br()[[ガソリンスタンド]]【7001番地】&small(){オーナー ('26/7/30~)}|
-|~所属|~&icon_fa(fa fa-users)|Pプロ【[[Pガールズ]]】&small(){リーダー ('26/4/19~)}&br()[[ロスラジ>>わくわくハピネス隊#ロスラジ]]【エルステ】&small(){MC ('26/11/11~)}|
+|~所属|~&icon_fa(fa fa-users)|Pプロ【[[Pガールズ]]】&small(){リーダー ('26/4/19~)}&br()[[ロスラジ>>わくわくハピネス隊#ロスラジ]]【エルステ】&small(){MC ('26/11/11~)}&br()イベント会社【[[御結び]]】&small(){社員 ('26/11/18~)}|
 |~TwiX|~&icon_fa(fa fa-twitter fa-flip-horizontal fa-fw)|帆立ほたる(@hotatedhotaru)|
 |~レーサー名|~&icon_fa(fa fa-car)|帆立 ほたる|
 |~電話番号|~&icon_fa(fa fa-phone)|(520)200-1627&co(呂色視点1日目にて確認)|
@@ -42,7 +42,7 @@
 -言動の白さ、意志の強さから警察を薦められることがあるが、知らない市民よりも黒市民もいる飲食同僚が第一優先であるところから自分にはできないと断っている。
 #div(bgcolor=#fff,color=#d83473){&size(18){&space()&icon_fa(fa-solid fa-briefcase)&bold(){ 仕事面}}}
 -[[海上レストラン>>Urashima]]と[[Club Passiona]]の飲食二店舗を兼業していてどちらかを開けるともう片方が疎かになるのが悩み。
--[[Club Passiona]]のPプロで積極的に相談・協力し企画を回している。
+-[[Club Passiona]]のPプロや、白市民イベント会社[[御結び]]で積極的に相談・協力し企画を回している。
 -[[ジョープロ>>ジョーカー]]二期生のRE:SONAシンガー。
 -7001番地[[ガソリンスタンド]]オーナーで、[[ジョーカー]]からアップグレード費を2000万借りている。
 #div(bgcolor=#fff,color=#d83473){&size(18){&space()&icon_fa(fa fa-thumbs-up)&bold(){ カプ厨}}}
@@ -65,8 +65,6 @@
 ****そのほか近況
 #region(開く)
 -歌唱グループRE:SONA準備中
--海上レストラン警察コラボイベント準備中(味野、斎藤、えびす)
-//-けんつ発イベント会社
 -飯田リゾートクリスマスペアプラン計画中
 #endregion()
 
@@ -80,6 +78,9 @@
 
 &bold(){&b(){&font(15,#666){[[ミルキー・ピンク]]}}}
 &bold(){街に来て知り合った&b(){[[タラ　ちゃん]]}の事が大好きな住民。&b(){ピンク}が部屋に招いてくれ、&b(){タラちゃん}の話をした事で仲が良くなった。&b(){タラちゃん}が何かした際は、連絡を入れる約束をしている。}
+
+&bold(){&b(){&font(15,#666){[[シャーク　ニサワール]]}}}
+&bold(){帽子と髪型髪色がそっくりで似ていると言われ、初日にガソリンスタンドで挨拶をした。&br()よほど似ているらしく、いたずらで追突されるなど時折人違いをされた。}
 #endregion
 
 //****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&icon_fa(fa fa-anchor)&space(2)海上レストランUrashima}}&nbsp(45)}}
@@ -106,20 +107,23 @@
 #endregion
 
 //****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&font(i,b){&icon_fa(fa fa-champagne-glasses)&space(2)Club Passiona}}&nbsp(45)}}
-#div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa fa-champagne-glasses)&font(i,b,90%){&space(2)Club Passiona}}}
+#div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa fa-champagne-glasses)&font(i,b,90%){&space(2)Club Passiona / &icon_fa(fa fa-bullhorn)&space(2)Pガールズ}}}
 #size(60%){　}
 #region(開く)
 &bold(){&b(){&font(15,#666){[[アイドゥラー　ヨシャパテ]]}}}
 &bold(){Club Passionaオーナー。白市民。元々黒市民だった知識や繋がりを駆使して従業員を守る行動をとっている。&br()種の騒動では腹を割っても濁すほたるの巻き込まない意思を汲み取ってくれた。}
 
-&bold(){&b(){&font(15,#666){[[えびな　ヨネ]]}}}
-&bold(){}
-
 &bold(){&b(){&font(15,#666){[[星詠　あう]]}}}
-&bold(){}
+&bold(){副リーダー}
 
 &bold(){&b(){&font(15,#666){[[ボクジュール　すずり]]}}}
-&bold(){お互いの悩みを相談しあう仲の良い友達。救急隊志望合否待ち。&br()けんつさんと交際していて白と黒の関係について電話で熱く話し合った。&br()配達バイトですずんつの間の出来事を聞き、心の持ちようや恋愛観を語り合っている。}
+&bold(){歌唱リーダー。お互いの悩みを相談しあう仲の良い友達。&br()けんつさんと交際していて白と黒の関係について電話で熱く話し合った。&br()配達バイトですずんつの間の出来事を聞き、心の持ちようや恋愛観を語り合っている。}
+
+&bold(){&b(){&font(15,#666){[[寝言　怠惰]]}}}
+&bold(){1期生メンバー。元店員。}
+
+&bold(){&b(){&font(15,#666){[[えびな　ヨネ]]}}}
+&bold(){1期生メンバー}
 
 &bold(){&b(){&font(15,#666){[[レイジー　ルードマン]]}}}
 &bold(){みこオーナーと仲良しで色合いも良く、二人でいるところを見かけるとツーショット写真を撮ってあげている。}
@@ -128,6 +132,7 @@
 &bold(){ヘスティの妹。交友関係を増やすためにPassionaで体験。Pプロにも興味。}
 #endregion
 
+#co(){
 //****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa fa-bullhorn)&font(i,b){&space(2)Pガールズ}}&nbsp(45)}}
 #div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa fa-bullhorn)&font(i,b,90%){&space(3)Pガールズ}}}
 #size(60%){　}
@@ -145,7 +150,7 @@
 &bold(){&b(){&font(15,#666){[[えびな　ヨネ]]}}}
 &bold(){1期生メンバー}
 #endregion
-
+co末尾}
 //****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa fa-microphone)&font(i,b){&space(2)RE:SONA}}&nbsp(45)}}
 #div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa fa-microphone)&font(i,b,90%){&space(3)RE:SONA}}}
 #size(60%){　}
@@ -163,6 +168,20 @@
 &bold(){}
 #endregion
 
+//****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa-solid fa-icons)&font(i,b){&space(2)御結び}}&nbsp(45)}}
+#div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa-solid fa-icons)&font(i,b,90%){&space(3)御結び}}}
+#size(60%){　}
+#region(開く)
+&bold(){&b(){&font(15,#666){[[飯田　けんつ]]}}}
+&bold(){すずりちゃんと付き合っている飯田書店店長。スマートに女性を導く男性でありつつ内面にイカれを飼っているすずんつの"んつ"。&br()ほたるが女性側目線と男性側の思考の理解者である為推しカプがうまくいくよう日々助言をしている。}
+
+&bold(){&b(){&font(15,#666){[[ボクジュール　すずり]]}}}
+&font(b,silver){Club Passiona参照}
+
+//&bold(){&b(){&font(15,#666){[[名前]]}}}
+//&bold(){}
+#endregion
+
 //****&size(125%){&bgcolor(#d83473){&nbsp()&font(#ffffff,80%){&icon_fa(fa fa-people-robbery)&font(i,b){&space(2)街の住民}}&nbsp(45)}}
 #div(width=340px,bgcolor=#d83473,color=#ffffff){&size(18){&space()&icon_fa(fa fa-people-robbery)&font(i,b,90%){&space(2)街の住民}}}
 #size(60%){　}
@@ -172,9 +191,6 @@
 
 &bold(){&b(){&font(15,#666){[[元難波　登]]}}}
 &bold(){救急隊所属、ほたるをホッタテと呼んでいる。[[月乃　えるな]]と付き合っている。}
-
-&bold(){&b(){&font(15,#666){[[飯田　けんつ]]}}}
-&bold(){すずりちゃんと付き合っている飯田書店店長。スマートに女性を導く男性でありつつ内面にイカれを飼っているすずんつの"んつ"。&br()ほたるが女性側目線と男性側の思考の理解者である為推しカプがうまくいくよう日々助言をしている。}
 
 &bold(){&b(){&font(15,#666){[[無馬　かな]]}}}
 &bold(){黒いことに興味のない白市民を探していた人物。謎の種を渡されどう行動するか試された。&br()話している間 常に"間違えてはいけない2択を出されている気分"になり、誰よりも先に気になる人を打ち明けてしまった。&br()[[闇のカプ厨>>小峯　玲]]からの情報でかえる先輩をとっかえひっかえのプレイボーイだと思っているらしい。}
@@ -411,12 +427,16 @@
 |11/07|147|[[裁判観る！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2922155872]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=eWK8C5lrsEo]]||
 |11/11|148|[[エルステほたて初回！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2925738164]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=dl-cJeRGwyU]]||
 |11/12|149|[[いろいろ準備！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2926670643]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=o5fcqMOZknY]]||
-|11/13|150|3か月事情聴取⚓帆立ほたるのばりばり掛け持ち社員生活|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=nVJEWh-e7Sw]]||
-|11/14|151|[[ちるちる！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2928592893]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=oYtHktGDnGs]]|twitchはDAY150のタイトル|
+|11/13|150|[[3か月事情聴取⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2927804449]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=nVJEWh-e7Sw]]||
+|11/14|151|[[ちるちる！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2928592893]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=oYtHktGDnGs]]||
 |11/15|152|[[遅番！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2929539057?t=02h29m10s]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=fsgg9neG8Q4]]||
 |11/18|153|[[きょうも遅番！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2932404153]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=Qtvrs4q5P4M]]||
-|11/19|154|Urashima新メニュー！ラジオリーさん回！イベント会社！⚓帆立ほたるのばりばり掛け持ち社員生活|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=xFugKzDYD4U]]||
+|11/19|154|[[Urashima新メニュー！ラジオリーさん回！イベント会社！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2934002833]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=xFugKzDYD4U]]||
 |11/20|155|[[警察コラボ2日目とわざもんライブ！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2934813989]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=AX0dT9xSmgQ]]||
+|11/21|156|[[警察コラボ最終日！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2936064542]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=ahOHZMjfRwc]]||
+|11/22|157|[[会社名決定会議！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2937226557?t=00h55m25s]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=rnPsOun_yQQ]]||
+|11/25|158|[[会社名会議リベンジ？⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2940307408]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=FT1COqoG7II]]||
+|11/26|159|[[イベントいろいろわくわく！⚓帆立ほたるのばりばり掛け持ち社員生活>>https://www.twitch.tv/videos/2941305323?t=01h56m50s]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=-iMxojX8et8]]||
 //|11/dd|n|[[帆立ほたるのばりばり掛け持ち社員生活>>ＵＲＬ]]|[[&font(#DA1725){&icon_fa(fa-brands fa-youtube)}>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 #endregion(11月)
@@ -454,6 +474,7 @@
 |09/28|[[【TCG CARD SHOP SIMULATOR】ストグラカード勢でカドショ経営つづき！！>>https://www.twitch.tv/videos/2886295515]]|[[&font(#DA1725) {&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=suon4wjeprY]]|TCG Card Shop Simulator|w/とうかいねこ/骨霧島たいし/るなりあ||
 |10/27|[[【ESCAPE FROM PLAYTIME】ヘスティがどうしてもやりたいホラゲをやる会>>https://www.twitch.tv/videos/2912118236]]|[[&font(#DA1725) {&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=g-6e_MgSaGw]]|Escape from Playtime|w/ヘスティアハピネス/るなりあ/noon||
 |11/09|[[【#ストグラコラボ】海上レストランUrashimaメンバーに肝試される日>>https://www.twitch.tv/videos/2923970491]]|[[&font(#DA1725) {&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=6HFT8gx_aBA]]|肝試しオンライン&br()Funnel Runners|w/みーこ/kame/noon/日月むつみ/三行ナカバ/骨霧島たいし||
+|11/26|[[【ClubPassionaコラボ🌴】めっちゃカメレオーン！！！>>https://www.twitch.tv/videos/2941305323]]|[[&font(#DA1725) {&icon_fa(fa-brands fa-youtube)}>>https://www.youtube.com/watch?v=yDWIZonZGcM]]|めっちゃカメレオン|w/星影ラピス/彩華すゞり/蝦名彩香/まどれ/怠惰/よしぴ/遠田翔平||
 //|mm/dd|[[タイトル>>ＵＲＬ]]|[[&font(#DA1725) {&icon_fa(fa-brands fa-youtube)}>>ＵＲＬ]]|内容|参加者||
 //タイトル内に[]がある場合→//&link(タイトル){ＵＲＬ}//
 #table_sorter{even=#F7F7F7,odd=fff}
@@ -487,6 +508,7 @@
 |10/18|[[幼馴染のドタバタ海上レストラン体験と神聖なる(?)皇帝によるヤバすぎる恋人の条件>>https://www.youtube.com/watch?v=mpSGnt7VO8I]]||
 |11/12|[[飯田書店にて衝撃の事実！大川さんの好み発覚？！>>https://www.youtube.com/watch?v=AOJJUgRarVE]]||
 |11/14|[[亀山事変～その後～満を持して復職？！当事者・タラちゃんと語るひろし烈伝>>https://www.youtube.com/watch?v=Nebd_T9i-LQ]]|亀山事変後日譚|
+|11/24|[[毎月巻き起こるすずんつプレゼント合戦！3か月記念日秘湯デート事情聴取>>https://www.youtube.com/watch?v=-7N1d_wdzT8]]||
 //|mm/dd|[[動画タイトル>>ＵＲＬ]]||
 #table_sorter{even=#F7F7F7,odd=fff}
 }

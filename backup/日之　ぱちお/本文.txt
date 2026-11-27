@@ -5,9 +5,9 @@
 
 //画像はアスペクト比2:3でトリミングしてください
 //ここからプロフィール
-#table_filter(){シーズン1=hide,シーズン2=show}
+#table_filter(){Season1=hide,Season2=show}
 #table_color(#B5CD43)
-|~シーズン|~&icon_fa(fa fa-calendar)|~シーズン1|~シーズン2|h
+|~世界線|~&icon_fa(fa fa-earth-americas)|~Season1|~Season2|h
 |~名前|~&icon_fa(fa fa-user)|>|&ruby(ひの){日之}　ぱちお|
 |~出身地|~&icon_fa(fa fa-location-dot)|>|日本|
 |~血液型|~&icon_fa(fa fa-heartbeat)|>|AB|
@@ -28,7 +28,7 @@
 #contents(fromhere=true,level=2)
 #endregion
 
-*基本情報
+*基本情報 &icon_fa(fa fa-id-card-o)
 ***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){&nbsp()&icon_fa(fa fa-info-circle)&nbsp(2)人物概要}&nbsp(55)}}
 ・&bold(){裏社会の人間である[[イチカ>イチカ　ウィルキンズ]]を追いかけてこの街にやってきた}が、街を知るためにイチカから放置されている間に出会った白市民を守りたいと思い警察官になった。
 ・・日本にいた頃[[イチカ>イチカ　ウィルキンズ]]の運転手・運び屋をしていた。
@@ -66,7 +66,7 @@
 |&blankimg(S2_Tattoo_Ace of Spades.jpg,x=150,y=150)|
 |Ace of Spades|
 #endregion
-***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){&nbsp()&icon_fa(fa fa-shield-halved)&nbsp(2)警察として}&nbsp(51)}}
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){&nbsp()&icon_fa(fa fa-shield-halved)&nbsp(2)警察として}&nbsp(52)}}
 #region(開く)
 &bold(){職務期間：2023/11/16～2026/08/29 (2年9ヶ月14日)}
 |&image(日之ぱちお_SWAT2.png,y=200)|
@@ -117,7 +117,7 @@
 ・・[[くまの　ふでこ]]プロデューサー主導の[[シャンクズプロモーション]]男性アイドルオーディションを経て、2025年8月16日の夏フェス2025にて『[[ろすぷり]]』の一員としてデビュー。サンサンイエロー、リーダー担当。元々は[[えるな>月乃　えるな]]が他薦で応募した。
 #endregion
 
-**ぱちおの過去・妹えるなとの関係
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){&nbsp()&icon_fa(fa fa-key)&nbsp(2)ぱちおの過去・妹えるなとの関係}&nbsp(20)}}
 #region(開く,close)閉じる
 ・両親は離婚。ぱちおは父親（日之家）に、えるなは母親（月乃家）に引き取られた。
 ・・母方の実家は金持ちだったが父親が使い込んでいた末の離婚。ぱちおは金遣いの荒い父親の元で育てられた。
@@ -159,7 +159,7 @@
 
 #endregion
 
-*交友関係
+*交友関係 &icon_fa(fa fa-users)
 #region(特別大事な人,open)&bold(){特別大事な人}
 ・ぱちおが献身的になれる人達。やりたいことを全てやらせてあげたいと思っている。
 
@@ -451,8 +451,8 @@
 #endregion(黒)
 
 &color(#F54738){※ぱちお視点で知り得ない事を記載しないでください}
-*服装一覧
-***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　シーズン2}&nbsp(61)}}
+*服装一覧 &icon_fa(fa fa-shirt)
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　Season 2}&nbsp(61)}}
 #region(開く)閉じる
 #table_style(head=center:#88ccff)
 |MIDDLE:&blankimg(日之ぱちおS2_Police.png,y=200)|&blankimg(S2_つり.png,y=200,x=100)|&blankimg(S2_警察 夏.png,y=200,x=100)|&blankimg(S2_結婚式.png,y=200,x=100)|&blankimg(S2_変装.png,y=200,x=100)|
@@ -487,7 +487,7 @@
 |~&font(8pt){ヴァルピナス 戦闘服}|~変装用 正装|~冬服|~&font(7pt){ヴァルピナス 作業(戦闘)}|~&font(8pt){ヴァルピナス 正装2}|
 //
 #table_style(head=center:#88ccff)
-|&blankimg(S2_ねまき.png,y=200,x=100)||
+|&blankimg(S2_ねまき.png,y=200,x=100)|&blankimg(S2_かばちゃマン.png,y=200,x=100)|
 |~ねまき|~かばちゃマン&co(){原文ママ}|
 //
 //&blankimg(S2_.png,y=200,x=100)|
@@ -506,7 +506,7 @@
 #endregion
 
 //---------------------------Season1-------------------------Season1------------Season1------------Season1-----------
-***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　シーズン1}&nbsp(61)}}
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　Season 1}&nbsp(61)}}
 #region(開く,close)閉じる
 #table_style(head=center:#88ccff)
 |MIDDLE:&blankimg(日之ぱちお大型.png,y=200)|MIDDLE:&blankimg(日之ぱちおSWAT.png,y=230)|MIDDLE:&blankimg(日之ぱちおSWAT2.jpeg,y=265)|MIDDLE:&blankimg(日之ぱちおSWAT夏.png,y=255)|MIDDLE:&blankimg(日之ぱちおSWAT長髪.png,y=200)|
@@ -534,8 +534,8 @@
 &small(){クリック・タップで拡大}
 #endregion
 
-*所有車両
-***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　シーズン2}&nbsp(61)}}
+*所有車両 &icon_fa(fa fa-car-side)
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　Season 2}&nbsp(61)}}
 #region(警察車両,close)警察車両
 #table_filter(){車両ID=hide,車両名=show,会社名=hide,タイプ=show,取得日=show,備考=show}
 #table_style(head=center:#e3ed9d){名前=left,#=center,取得日=right}
@@ -580,7 +580,7 @@
 #table_sorter{even=#f7f7f7,odd=fff}
 #table_autoincrement(){label=No.}
 #endregion
-***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　シーズン1}&nbsp(61)}}
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　Season 1}&nbsp(61)}}
 #region(開く,close)閉じる
 #table_style(#88ccff){車両名=center:,車種=center:}
 //|~入手日|~車両名|~車種|~備考|h
@@ -608,8 +608,8 @@
 //所有車両は複数あるが、入手日がわからないものが多いためわかるもののみ車両名・車種のみ記載。
 #endregion
 
-*エピソード
-***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　シーズン2}&nbsp(61)}}
+*エピソード &icon_fa(fa-solid fa-file-lines)
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　Season 2}&nbsp(61)}}
 ****2025年12月～2026年7月：転送・えるなの呪縛から解かれ自分の人生を歩むことを決意
 #region(開く)
 -手を繋いでえるなと共にサンサンクレープ裏に転送完了。即ダウンしたえるなを担いで病院へ。警察として復帰。(25/12/19)
@@ -638,7 +638,7 @@
 ****2026年8月～9月：[[謎の種ゲーム>>VALPINUS/無馬と謎の種]]・蛇に咬まれる・断罪・警察退職
 #region(開く)閉じる&aname(謎の種)
 -警察退職間近で[[無馬　かな]]が後輩警察官 [[真島　ルイ]]に仕掛けた種探しゲームに、[[まる>丘猫　まる]]が巻き込まれていることに勘付く。(26/08/26)
---まるに無馬の"うまい話"の内容を打ち明けて貰い、「花を育てたい、警察の捜査を見たい」というまるの希望を尊重。共に謎の種を育て、他の警察が自然にまるの捜査をするように誘導。
+--まるに無馬の"うまい話"の内容を打ち明けて貰い、「花を育てたい、警察の捜査を見たい」というまるの希望を尊重（違法性なし）。共に謎の種を育て、他の警察が自然にまるの捜査をするように誘導。
 --真島とまる両方を救おうと、まるの名を伏せて種の保持者を見つけた、その人を説得するまで真島の中だけで留めて待って欲しいと伝える。
 -まるから報告を受けた無馬から接触され、まるに警察の捜査状況を漏洩していることを無馬が口外しない代わりに、まるの情報と今後見知ったことを口外しないよう無馬に口止めされる。(26/08/27)
 --情報を得ようと深淵に一歩踏み込む。無馬から「紫の種」を渡され、真島が最初から詰んでいることに気付く。無馬の目的は「適性検査」だった。&br()（ここまでは無馬との約束を守りつつ、得た情報からまると真島の為になるように立ち回ろうとしていた）
@@ -668,8 +668,9 @@
 --まだ街にないSMG（本物か不明）を携え、無馬を警察署に迎えに行き、元同僚たちと決別した。[[&icon_fa(fa-regular fa-circle-play)>>https://www.twitch.tv/patisyu/clip/GiftedPoorRaisinPeteZarollTie-2gQ_2iFkKBLCjiKs]]
 &space(10)&blankimg(260930_無馬お迎え_警察視点.jpg,width=104,height=59)&space()&blankimg(260930_無馬お迎え_ヘルアン視点.jpg,width=104,height=59)
 #endregion(~202609)
-****2026年10月～：[[喫茶ひまわり]]、探偵事務所[[エノテラ]]、[[VALPINUS]]の経営
+****2026年10月～：[[VALPINUS]] 創設・白市民ニコイチボス
 #region(開く,open)閉じる
+-各ギャングボスに花屋をすることを伝える。まるの人脈と信用で概ね受け入れられた。
 -元警察であることから、ブラックビジネス側からの信用を得られず、まるが表に立って仲介人や取引先とのやり取りをしてくれており、無力感と孤独感を抱えながら花を育てる日々を送る。
 --自分の感情に初めて向きあい、まるに打ち明けた。（26/10/08）
 -現状一切犯罪していないが公務員にとって怪しい人物となってしまい、登が救急隊にいられなくなることを危惧。
@@ -679,18 +680,19 @@
 --[[芽久未>元難波　芽久未]]から家族と思われていたことに衝撃を受けた。血の繋がり以外の家族というものがあったらしい。
 -まるが繋げてくれたDEPの加藤と面談。警察の潜入捜査疑惑を払拭。黒になる覚悟を問われ、クスリ屋のミッションを遂行し、無事に認められた。(26/10/10)
 --闇医者への紹介が叶わなかったため、押収物で簡易治療を受けてしまった腹部の損傷を抱えたまま生きることを、業として受け入れる。
+-探偵のバイトと称してゲームをさせていた[[ジト村ミシロ>ジト村　ミシロ]]、[[宇佐卓>宇佐　卓]]に仕事内容を教えずに花屋に勧誘。慎重派のジト村には断られ、宇佐卓はぱちおとまるを慕って飛び込んで来た。たとえ沼にはまっても2人で宇佐卓の手を引っ張り続けると約束する。（26/10/15,16）
 -誤解で再度ぱちおに加藤から疑惑の目が向けられていることをれりあから明かされ、加藤への歩み寄りが不足していることを痛感。（26/10/16）
 --まるが設けた場で加藤と腹を割って話す。加藤の懸念、希望の納品数を教えて貰い、ぱちおの事業に対する思いを伝える。腹部損傷し続けてることも打ち明け、闇医者も兼業していた加藤にようやく治療してもらえた。（26/10/17）
 -黒落ちしたVALPINUSの部下の[[宇佐　卓]]に過去の完全犯罪をCOし、大切な人の為なら何でもやる人間であることを伝え、2ボスのぱちおかまるのどちらかを助けないといけない場合、どちらを選ぶか銃を突き付けて覚悟を問う。宇佐卓は「まるさん！」と即答で正解を導き出した。
 --宇佐卓に刑法を教え、警察に対して面倒くさい犯罪者にはならないように、器の大きな犯罪者になって欲しいと犯罪者としてのマインドを育てる。
 -警察の捜査の手が伸びる。買ったばかりの家の付近を張り込まれ、変装も道交法違反もしていないのに警察7人に囲まれる異例の職質を受けた。(26/11/14)
 -栽培中、コンテナ上空の微かなドローンの音に気付く。まるの偵察、宇佐卓のベイトで警察に包囲されている事が発覚。違法行為ではないため堂々と警察の前に出ようと考えたが、種花をまだ見られたくない、ぱちおを黒確させたくないまるの意向に沿い、花・種を処分。宇佐卓、セイジのベイトで包囲している警察を引き付け、まるIGLで警察に接触されることなく脱出することに成功。(26/11/15)
--コンテナを移動させた翌日に警察に再度発見された。警察の捜査能力を認めつつも、違法行為をしていない白市民に対する警察の越権行為を問題視する（住宅の張り込み、警察7名による職務質問、ドローンによる長時間の監視等）。(26/11/19)
+-コンテナを移動させた翌日に警察に再度発見された。警察の捜査能力を認めつつも、違法行為をしていない白市民に対する警察の越権行為を問題視する（住宅の張り込み、警察7名による職務質問、ドローンによる長時間の監視等）。警察には正しく捜査してもらいたいと考えている。(26/11/19)
 -まると記憶を失ってもまた互いに会ってやり直す、23時服屋集合の約束を交わす。(26/11/21)
 #endregion(~)
 
 //
-***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　シーズン1}&nbsp(61)}}
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　Season 1}&nbsp(61)}}
 #region(閉じる,close)開く
 
 ***2023年
@@ -1075,8 +1077,8 @@
 //#endregion
 //
 //■■■アーカイブ■■■（2026/07/06：数が多くなってきたため月ごとに分割しました）
-*アーカイブ
-***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　シーズン2}&nbsp(61)}}
+*アーカイブ &icon_fa(fa fa-archive)
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　Season 2}&nbsp(61)}}
 &bold(){&font(#8F46FC){&icon_fa(fa fa-twitch)}&space()Twitchアーカイブはサブスク限定、60日後に視聴できなくなります。}
 #region(開く,open)閉じる
 ***2025年12月
@@ -1277,7 +1279,7 @@
 //
 ****11月
 #region(開く,open)閉じる
-#table_style(head=center:#88ccff){配信日=right,#=center}
+#size(90%){#table_style(head=center:#88ccff){配信日=right,#=center}
 |~配信日|~#|~配信タイトル|~&font(#FF0000){&icon_fa(fa fa-youtube)}|~備考|h
 |11/01|128|[[128日目 花屋『ヴァルピナス』 24日目 家を買うんだ>>https://www.twitch.tv/videos/2916553858]]||ウィルトン家|
 |11/04|129|[[129日目 花屋『ヴァルピナス』 25日目 誕生日をどのように祝うのか…1>https://www.twitch.tv/videos/2919202603]],[[2>>https://www.twitch.tv/videos/2919210666]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=i46MaxYjr1A]](数分)|まる誕生日|
@@ -1296,18 +1298,29 @@
 |11/21|142|[[142日目 花屋『ヴァルピナス』 38日目  金を貯めます>>https://www.twitch.tv/videos/2935969769]]||バイト、砂漠拠点、デート、サク　　￤後半別ゲーム|
 |11/22|143|[[143日目 花屋『ヴァルピナス』 39日目  今日も金を貯めます>>https://www.twitch.tv/videos/2937152110]]||バイト、張り込み警察発見×2、パレア値上げ、依頼|
 |11/25|144|[[144日目 花屋『ヴァルピナス』 40日目 花屋激動探偵編 1>>https://www.twitch.tv/videos/2940216301]],[[2>>https://www.twitch.tv/videos/2940341244]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}1>>https://www.youtube.com/watch?v=LHU6fxN4kc4]],[[2>>https://www.youtube.com/watch?v=46Tv48mtUuU]]|探偵依頼3つ|
-|11/26|145|[[145日目 花屋『ヴァルピナス』 41日目  今日も花を頑張らないといけません>>https://www.twitch.tv/videos/2941204225]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=qzEzXBpXrCY]]||
+|11/26|145|[[145日目 花屋『ヴァルピナス』 41日目  今日も花を頑張らないといけません>>https://www.twitch.tv/videos/2941204225]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=qzEzXBpXrCY]]|ルナに共有、居眠りｶﾞｿｽﾀ、ﾊﾞｲｸﾚｰｽ　￤後半別ゲーム|
+|11/27|146|[[146日目 花屋『ヴァルピナス』 42日目  大量生産マシン>>https://www.twitch.tv/videos/2942112172]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=u6KwxLLjkOk]]||
 
-#table_sorter{even=#f7f7f7,odd=fff}
+#table_sorter{even=#f7f7f7,odd=fff}}
 #endregion(11月)
 #endregion(2026年)
 #endregion
 //&font(8pt){
 //[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>]]||
-***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　シーズン1}&nbsp(61)}}
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　Season 1}&nbsp(61)}}
 #include(日之　ぱちお/アーカイブS1)
 
-**切り抜き動画
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　ストグラFV}&nbsp(61)}}
+#region(開く)閉じる
+#table_style(head=center:#88ccff){配信日=right,#=center}
+|~配信日|~配信タイトル|h
+|2024/12/23|[[【ストグラFV】１日目 別世界線の 闇が全開の日之 ぱちお>>https://www.twitch.tv/videos/2333966140]]|
+|MIDDLE:2025/02/10|[[【ストグラFV】2日目 日之ぱちお えるなのいない世界線…>>https://www.twitch.tv/videos/2377388749]]&br()[[【ストグラFV】2日目 日之ぱちお えるなのいない世界線…>>https://www.twitch.tv/videos/2377461705]]|
+|2025/04/21|[[【ストグラFV】日之ぱちお 3日目 国家ギャング>>https://www.twitch.tv/videos/2438730762]]|
+#table_sorter{even=#F7F7F7,odd=fff}
+#endregion
+
+*切り抜き動画 &icon_fa(fa fa-youtube-play)
 ***2026年9月～
 #region(開く)閉じる
 #table_style(head=center:#88ccff){投稿日=right,#=center}
@@ -1354,6 +1367,7 @@
 |11/25|[[『コンテナに張り込み』変装が特徴的すぎて直ぐにわかっちゃう…>>https://www.youtube.com/watch?v=djKqksOOTF0]]|26/11/22||
 |11/25|[[『パレア値上げ』遂に花が値上げしてやっと潤いそうなヴァルピナス(花屋)>>https://www.youtube.com/watch?v=LBQeskIvLF8]]|26/11/22||
 |11/26|[[『薬の売人を探せ』元バディのえびすから探偵の依頼を受ける(花屋)>>https://www.youtube.com/watch?v=1vWd4U5ENBA]]|26/11/25||
+|11/27|[[『868のルナ』ルナホークアイに花屋をやっていることを共有する(花屋)>>https://www.youtube.com/watch?v=btD2qapJuG4]]|26/11/26||
 
 #table_sorter{even=#F7F7F7,odd=fff}
 #table_autoincrement(){start=24,label=#}
@@ -1397,15 +1411,8 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #table_autoincrement(){start=1,label=#}
 #endregion(S2)
-**ストグラFV
-#table_style(head=center:#88ccff){配信日=right,#=center}
-|~配信日|~配信タイトル|h
-|2024/12/23|[[【ストグラFV】１日目 別世界線の 闇が全開の日之 ぱちお>>https://www.twitch.tv/videos/2333966140]]|
-|MIDDLE:2025/02/10|[[【ストグラFV】2日目 日之ぱちお えるなのいない世界線…>>https://www.twitch.tv/videos/2377388749]]&br()[[【ストグラFV】2日目 日之ぱちお えるなのいない世界線…>>https://www.twitch.tv/videos/2377461705]]|
-|2025/04/21|[[【ストグラFV】日之ぱちお 3日目 国家ギャング>>https://www.twitch.tv/videos/2438730762]]|
-#table_sorter{even=#F7F7F7,odd=fff}
-
-**ストグラ外コラボ
+//
+*ストグラ外コラボ &icon_fa(fa-solid fa-gamepad)
 #region(Season1)&bold(){Season1}
 #table_style(head=center:#88ccff){配信日=right,#=center}
 |~配信日|~配信タイトル|h
