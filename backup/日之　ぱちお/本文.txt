@@ -607,7 +607,21 @@
 |&bold(){Annis Elegy RH-7}|🚗|ReBoot第八回抽選販売当選購入車|
 //所有車両は複数あるが、入手日がわからないものが多いためわかるもののみ車両名・車種のみ記載。
 #endregion
-
+//-------------------------------------------------------------------------
+*所有物件 &icon_fa(fa fa-house)
+***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　Season 2}&nbsp(61)}}
+#region(開く)
+#table_filter(){購入日=show,番地=show,用途=show,備考=show}
+#table_style(head=center:#88ccff){購入日=right}
+|~購入日|~番地|~用途|~備考|h
+|26/06/17|7014|[[喫茶ひまわり]]店舗|BJローンから5000万の融資|
+|26/10/07|7343|VALPINUS拠点|&openclose2(show=*){（表向きは[[探偵事務所>エノテラ]]）}|
+|26/10/18|7343|VALPINUS取引用||
+|26/11/12|9360|VALPINUSたまり場||
+#table_sorter{even=#f7f7f7,odd=fff}
+#table_autoincrement(){label=No.}
+#endregion(所有物件)
+//-------------------------------------------------------------
 *エピソード &icon_fa(fa-solid fa-file-lines)
 ***&size(110%){&bgcolor(#e3ed9d){&nbsp()&font(#727272,90%){　Season 2}&nbsp(61)}}
 ****2025年12月～2026年7月：転送・えるなの呪縛から解かれ自分の人生を歩むことを決意
@@ -1151,7 +1165,7 @@
 |06/11|32|[[32日目 ごめん今日も漁師>>https://www.twitch.tv/videos/2793985621]]|||
 |06/13|33|[[33日目 漁師 警察できたら>>https://www.twitch.tv/videos/2795635153]]|||
 |06/14|34|[[34日目 漁師 警察できたら>>https://www.twitch.tv/videos/2796394524]]|||
-|06/17|35|[[34日目 いったん漁師>>https://www.twitch.tv/videos/2798729969]], [[35日目 いったん警察>>https://www.twitch.tv/videos/2798812894]]|||
+|06/17|35|[[34日目 いったん漁師>>https://www.twitch.tv/videos/2798729969]], [[35日目 いったん警察>>https://www.twitch.tv/videos/2798812894]]|喫茶店用物件購入||
 |06/20|36|[[36日目 べりはぴライブらしい アンバー推し>>https://www.twitch.tv/videos/2801118751]]|||
 |06/21|37|[[37日目 魚を絶対に売りさばかなくていけない>>https://www.twitch.tv/videos/2801894980]]|||
 |06/24|38|[[38日目 メンヘラ耐性◎>>https://www.twitch.tv/videos/2804158495]]|||
@@ -1299,7 +1313,7 @@
 |11/22|143|[[143日目 花屋『ヴァルピナス』 39日目  今日も金を貯めます>>https://www.twitch.tv/videos/2937152110]]||バイト、張り込み警察発見×2、パレア値上げ、依頼|
 |11/25|144|[[144日目 花屋『ヴァルピナス』 40日目 花屋激動探偵編 1>>https://www.twitch.tv/videos/2940216301]],[[2>>https://www.twitch.tv/videos/2940341244]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}1>>https://www.youtube.com/watch?v=LHU6fxN4kc4]],[[2>>https://www.youtube.com/watch?v=46Tv48mtUuU]]|探偵依頼3つ|
 |11/26|145|[[145日目 花屋『ヴァルピナス』 41日目  今日も花を頑張らないといけません>>https://www.twitch.tv/videos/2941204225]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=qzEzXBpXrCY]]|ルナに共有、居眠りｶﾞｿｽﾀ、ﾊﾞｲｸﾚｰｽ　￤後半別ゲーム|
-|11/27|146|[[146日目 花屋『ヴァルピナス』 42日目  大量生産マシン>>https://www.twitch.tv/videos/2942112172]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=u6KwxLLjkOk]]||
+|11/27|146|[[146日目 花屋『ヴァルピナス』 42日目  大量生産マシン>>https://www.twitch.tv/videos/2942112172]]|[[&font(#DA1725){&icon_fa(fa fa-youtube-play)}>>https://www.youtube.com/watch?v=u6KwxLLjkOk]]|まるうさと釣り、ジト村に匂わせ、デレまる|
 
 #table_sorter{even=#f7f7f7,odd=fff}}
 #endregion(11月)
