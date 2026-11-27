@@ -7,7 +7,7 @@
 //&image(ここに画像のURLを入力,y=300)
 
 #table_style(head=#C0C0C0){}
-|~組織名|~&space()&icon_fa(fa fa-tag)&space()|&ruby(わくわくはぴねすたい){わくわくハピネス隊}|
+|~組織名|~&space()&icon_fa(fa fa-tag)&space()|わくわくハピネス&ruby(たい){隊}|
 |~略称|~&space()&icon_fa(fa fa-comment)&space()|わくハピ|
 |~設立日|~&space()&icon_fa(fa fa-flag)&space()|2026年4月25日&br()&small(){（&countup(2026/04/24,yd)経過）}&co(){※countupは設立日の1日前に設定}|
 |~ボス|~&space()&icon_fa(fa fa-user-secret)&space()|[[アヌギフ　白川]]|
@@ -19,7 +19,7 @@
 #contents(fromhere=true,level=2)
 #endregion
 
-**基本情報
+*基本情報
 -[[わくわくハーデス隊]]で[[ギャング]]として活動することに限界を感じたメンバー達が改めて活動内容を見直し白の組織として再出発した団体。&br()あくまで組織としての活動についてでありメンバーが個人的に犯罪を行ったり黒組織に所属することを禁止してはいない。
 -それぞれの起床率や人脈を活用し人と人や組織を繋ぐギルドのような存在を目指している。
 -裏の目標として[[アヌギフ　白川]]を市長にすることは残っており、白の組織としての信頼を獲得し、もしも市長選があったのならわくハピのマスターがアヌギフであるということで票を集めようと画策している。
@@ -28,7 +28,7 @@
 -メンバーで集まり最近の街の出来事や情勢、各々のやりたい事についてなどの会議(情報交換)を行う。
 -アイデアを膨らませ「わくワーク」などの事業に発展させる。&br()なおそれぞれの事業については全員が参加するというわけではなく数人の中心人物を決め他のメンバーは適度に協力する形となっている。
 
-**メンバー
+*メンバー
 #region(開く,open)
 #table_style(head=#696969:#F9FCFF)
 #table_filter(){加入日=hide,呼び名=hide,役職=show,備考=show,配信=show}
@@ -74,14 +74,17 @@
 #endregion
 }
 
-**プロジェクト一覧
+*プロジェクト一覧
 //現在動いていない項目はcloseに変更しました
-***&anchor(わくワーク,option=nolink){}&font(18px){わくワーク}&aname(わくワーク)
+**&anchor(わくワーク,option=nolink){}&font(18px){わくワーク}&aname(わくワーク)
 #region(開く,close)
 #size(90%){{{#table_style(head=#696969:#F9FCFF)
 |CENTER:~カテゴリー|人材紹介|
 |CENTER:~事業内容|ジョブマッチングサービス|
-|CENTER:~関係者|代表：[[飯田　けんつ]]&br()総合窓口：[[惑朽　ルーシー]]&br()その他窓口：[[飯田　けんつ]]、[[高橋　滅論]]、[[アルタ・スカイブルー]]&br()WEBアプリ制作：[[星詠　あう]]|
+|CENTER:~代表|[[飯田　けんつ]]|
+|CENTER:~総合窓口|[[惑朽　ルーシー]]|
+|CENTER:~その他窓口|[[飯田　けんつ]]、[[高橋　滅論]]&br()[[アルタ・スカイブルー]]|
+|CENTER:~WEBアプリ制作|[[星詠　あう]]|
 |CENTER:~備考||
 }}}
 
@@ -95,7 +98,7 @@
 -専用のWEBアプリを[[星詠　あう]]に依頼し制作してもらった。(その後わくワーク社員として加入。)
 #endregion
 
-***&anchor(わんぱくレースバトル,option=nolink){}&font(18px){わんぱくレースバトル}&aname(わんぱくレースバトル)
+**&anchor(わんぱくレースバトル,option=nolink){}&font(18px){わんぱくレースバトル}&aname(わんぱくレースバトル)
 #region(開く,close)
 #size(90%){{{#table_style(head=#696969:#F9FCFF)
 |CENTER:~カテゴリー|イベント|
@@ -109,12 +112,14 @@
 -白の組織として法律面や危険性の懸念点について警察にも説明・相談を行っている。
 #endregion
 
-***&anchor(ロスラジ,option=nolink){}&font(18px){ロスラジ}&aname(ロスラジ)
+**&anchor(ロスラジ,option=nolink){}&font(18px){ロスラジ}&aname(ロスラジ)
 #region(開く,open)
 #size(90%){{{#table_style(head=#696969:#F9FCFF)
 |CENTER:~カテゴリー|メディア|
 |CENTER:~事業内容|ラジオ|
-|CENTER:~関係者|代表：[[高橋　滅論]]|
+|CENTER:~代表|[[高橋　滅論]]|
+|CENTER:~協力者|[[亀山　Hero]]、[[灰部理　秀人]]&br()[[帆立　ほたる]]、[[デヤンス>>小者　デヤンス]]|
+|CENTER:~拠点|8065番地 ラタトスク|
 |CENTER:~TwiX|@losradio|
 |CENTER:~備考|[[ボイラ　テンガリン]]が加入|
 }}}
@@ -151,37 +156,38 @@
 #region(2026年,open)
 #areaedit()
 #size(90%){{{#table_style(head=#696969:#F9FCFF)
-#table_filter(){関係者=hide,備考=show}
-|~日付|~出来事|~関係者|~備考|h
-|05/27|ロスラジ初回放送|メインMC：[[飯田　けんつ]]/[[Lv〇　チンピラ]]&br()ゲスト：[[マッハボクシング　ドク]]/&br()[[ブロッコリー　斎藤]]/[[ボイラ　テンガリン]]|アプリ「PixelLink」を使用しての生放送。&br()「ロスナンデス」カイリキバーガー閉店事件/警察復職署名について語る &font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/venMrHwHKog?si=eH9Gij3xoOdUWPRa]]|
-|06/13|ロスラジ第2回放送|メインMC：[[ボイラ　テンガリン]]/[[ブロッコリー　斎藤]]&br()ゲスト：[[上田　さん]]/[[揚物　ころも]]|無線を使用しての生放送。無線番号70.3。&br()「ロスナンデス」上田あげころの転売事件以降の諸々について語る &font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/PD_08RiDmBk?si=IMOWrLhHYeSgkrIz]]|
-|06/25|ロスラジ第3回放送|司会：[[亀山　Hero]]&br()ゲスト：[[ジョアンナ　町田]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/KyCPyy9KNcY?si=EXgL4Jg-jyshYpxH]]|
-|07/03|ロスラジ第4回放送|司会：[[亀山　Hero]]&br()ゲスト：[[天羽　よつは]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/TebZqwp3Cls?si=TBYRr07KvhxWVYLL]]|
-|07/05|ロスラジ第5回放送|運命診断士：[[アヌギフ　白川]]&br()ゲスト：[[ゼペ・アルテミス]]|無線を使用しての生放送。無線番号70.3。&br()「運命診断士アヌギフ白川のディスティニーストーリーテラー」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/s0UeFRD07fw?si=UyLWMUKAO4SOPLfy]]|
-|07/09|ロスラジ第6回放送|司会：[[亀山　Hero]]&br()ゲスト：[[カテジ]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/wRj3UNV8tBI?si=g6VvBXLyEK4W5jHG]]|
-|07/12|ロスラジ第7回放送|インタビュワー：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[脇　逢魔]]|無線を使用しての生放送。無線番号70.3。&br()「揚物ころもの突撃インタビュー！！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/PeYBQNONDM8?si=RWcis1A8uCKATAPG]]|
-|07/17|ロスラジ第8回放送|司会：[[亀山　Hero]]&br()ゲスト：[[雷堂　ましろ]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/OWFDk1i7hmI?si=bazBLudCxXcASNlb]]|
-|07/22|ロスラジ第9回放送|司会：[[亀山　Hero]]&br()ゲスト：[[マッハボクシング　ドク]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/GRfYuBSwOtM?si=1rY3Qv22VGoDky_3]]|
-|07/29|ロスラジ第10回放送|司会：[[亀山　Hero]]&br()ゲスト：[[不働　めい]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/W9LvFkNSUWc?si=h1O1JoUSpZwnC1lP]]|
-|07/31|ロスラジ第11回放送|インタビュワー：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[山田　カイキ]]|六法を使用しての生放送。&br()「揚物ころもの突撃インタビュー！！」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/Wsk7PokQylk?si=1aC1_cTylBqpvWA5]]|
-|08/07|ロスラジ第12回放送|司会：[[亀山　Hero]]&br()ゲスト：[[灰部理　秀人]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 特別回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/ogDt73x_g1M?si=fkOKOdF5H8_nfUEy]]|
-|08/19|ロスラジ第13回放送|インタビュワー：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[ジョーカー]]|六法を使用しての生放送。&br()「揚物ころもの突撃インタビュー！！ 第3回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/J6hS_nb147U?si=wF1Uk9Ee7otvMyPK]]|
-|08/20|ロスラジ第14回放送|司会：[[亀山　Hero]]&br()ゲスト：[[ザ！！！コーラボーイ！！！]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第7回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/KB8Rwh-02Uo?si=Eslk3XJy82owuZMS]]|
-|08/30|ロスラジ第15回放送|司会：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[ダミ　アン]]・[[浪速漢D]]|六法を使用しての生放送。&br()「ロスサントスステーション 第1回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/A9v5MjHg12o?si=TtNHOLyQsEgPd8gU]]|
-|09/10|ロスラジ第16回放送|司会：[[さとう]]・[[亀山　Hero]]&br()ゲスト：[[べりはぴ]](すぴねる・しとりん)|六法を使用しての生放送。&br()「ロスサントスステーション 第2回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/Y-oC3TcLJLY?si=iZjdOWu-imks-an-]]|
-|09/11|ロスラジ第17回放送|司会：[[亀山　Hero]]&br()ゲスト：[[安保　さぶ郎]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第8回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/kfhlNax6Kx8?si=AdlzuAOD_q26ZHyR]]|
-|09/12|ロスラジ第18回放送|司会：[[亀山　Hero]]&br()ゲスト：[[竹井　勝痔]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第9回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/U8xF7vPItsg?si=CDZ8Tog4MRcX4yay]]|
-|09/16|ロスラジ第19回放送|司会：[[亀山　Hero]]&br()ゲスト：[[ノビー　ラング]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第10回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/SxIYrH-hy5w?si=eotvZZmcN7ihNsPV]]|
-|09/23|ロスラジ番外放送|司会：[[亀山　HELL>>亀山　Hero]]&br()ゲスト：[[マッハボクシング　ドク]]|六法を使用しての生放送。&br()「亀山HELLの喋っていいですとも！ 第10回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://www.youtube.com/watch?v=IbS1s5xSb3A]]|
-|09/30|ロスラジ第20回放送|司会：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[帆立　ほたる]]|六法を使用しての生放送。&br()「ロスサントスステーション 第3回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://www.youtube.com/watch?v=QBKfJBfNohA]]|
-|10/02|ロスラジ第21回放送|司会：[[亀山　Hero]]&br()ゲスト：[[橘　かげまる]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第11回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/HzVvgvwuSAY?si=IDoxDXrzJ8nxk6zN]]|
-|10/07|ロスラジ第22回放送|司会：[[デヤンス>小者　デヤンス]]&br()ゲスト：[[惑朽　ルーシー]]・[[アルタ・スカイブルー]]&br()サプライズゲスト：[[柚乃　いずみ]]|六法を使用しての生放送。&br()「ロスナンデス 第3回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/t_LqxJpRRMA?si=gTCSelfuBGCzIfGi]]|
-|10/08|ロスラジ第23回放送|司会：[[亀山　Hero]]&br()ゲスト：[[閃光寺　亜夢]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第12回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/Eqs3VYs54IA?si=hQLNUk3pFQjmnKYv]]|
-|10/22|ロスラジ第24回放送|司会：[[デヤンス>小者　デヤンス]]&br()ゲスト：[[上田>上田　さん]]|六法を使用しての生放送。&br()「ロスナンデス 第4回」&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://www.youtube.com/watch?v=YFJU5Sh4TjU]]|
-//|11/04&co(リスケ)|ロスラジ第25回放送|司会：[[帆立　ほたる]]・[[亀山　Hero]]&br()ゲスト：[[銭形　やいち郎]]|六法を使用しての生放送。&br()「ロスサントスステーション 第4回」|
-//|mm/dd|出来事|関係者|備考|
-//|mm/dd|出来事|関係者|備考|
+#table_filter(){関係者=hide,備考=show,動画=show}
+|~日付|~出来事|~関係者|~備考|~動画|h
+|05/27|ロスラジ初回放送|メインMC：[[飯田　けんつ]]/[[Lv〇　チンピラ]]&br()ゲスト：[[マッハボクシング　ドク]]/&br()[[ブロッコリー　斎藤]]/[[ボイラ　テンガリン]]|アプリ「PixelLink」を使用しての生放送。&br()「ロスナンデス」カイリキバーガー閉店事件/警察復職署名について語る|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/venMrHwHKog?si=eH9Gij3xoOdUWPRa]]|
+|06/13|ロスラジ第2回放送|メインMC：[[ボイラ　テンガリン]]/[[ブロッコリー　斎藤]]&br()ゲスト：[[上田　さん]]/[[揚物　ころも]]|無線を使用しての生放送。無線番号70.3。&br()「ロスナンデス」上田あげころの転売事件以降の諸々について語る|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/PD_08RiDmBk?si=IMOWrLhHYeSgkrIz]]|
+|06/25|ロスラジ第3回放送|司会：[[亀山　Hero]]&br()ゲスト：[[ジョアンナ　町田]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/KyCPyy9KNcY?si=EXgL4Jg-jyshYpxH]]|
+|07/03|ロスラジ第4回放送|司会：[[亀山　Hero]]&br()ゲスト：[[天羽　よつは]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/TebZqwp3Cls?si=TBYRr07KvhxWVYLL]]|
+|07/05|ロスラジ第5回放送|運命診断士：[[アヌギフ　白川]]&br()ゲスト：[[ゼペ・アルテミス]]|無線を使用しての生放送。無線番号70.3。&br()「運命診断士アヌギフ白川のディスティニーストーリーテラー」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/s0UeFRD07fw?si=UyLWMUKAO4SOPLfy]]|
+|07/09|ロスラジ第6回放送|司会：[[亀山　Hero]]&br()ゲスト：[[カテジ]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/wRj3UNV8tBI?si=g6VvBXLyEK4W5jHG]]|
+|07/12|ロスラジ第7回放送|インタビュワー：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[脇　逢魔]]|無線を使用しての生放送。無線番号70.3。&br()「揚物ころもの突撃インタビュー！！」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/PeYBQNONDM8?si=RWcis1A8uCKATAPG]]|
+|07/17|ロスラジ第8回放送|司会：[[亀山　Hero]]&br()ゲスト：[[雷堂　ましろ]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/OWFDk1i7hmI?si=bazBLudCxXcASNlb]]|
+|07/22|ロスラジ第9回放送|司会：[[亀山　Hero]]&br()ゲスト：[[マッハボクシング　ドク]]|無線を使用しての生放送。無線番号70.3。&br()「亀山Heroの喋っていいですとも！」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/GRfYuBSwOtM?si=1rY3Qv22VGoDky_3]]|
+|07/29|ロスラジ第10回放送|司会：[[亀山　Hero]]&br()ゲスト：[[不働　めい]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/W9LvFkNSUWc?si=h1O1JoUSpZwnC1lP]]|
+|07/31|ロスラジ第11回放送|インタビュワー：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[山田　カイキ]]|六法を使用しての生放送。&br()「揚物ころもの突撃インタビュー！！」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/Wsk7PokQylk?si=1aC1_cTylBqpvWA5]]|
+|08/07|ロスラジ第12回放送|司会：[[亀山　Hero]]&br()ゲスト：[[灰部理　秀人]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 特別回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/ogDt73x_g1M?si=fkOKOdF5H8_nfUEy]]|
+|08/19|ロスラジ第13回放送|インタビュワー：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[ジョーカー]]|六法を使用しての生放送。&br()「揚物ころもの突撃インタビュー！！ 第3回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/J6hS_nb147U?si=wF1Uk9Ee7otvMyPK]]|
+|08/20|ロスラジ第14回放送|司会：[[亀山　Hero]]&br()ゲスト：[[ザ！！！コーラボーイ！！！]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第7回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/KB8Rwh-02Uo?si=Eslk3XJy82owuZMS]]|
+|08/30|ロスラジ第15回放送|司会：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[ダミ　アン]]・[[浪速漢D]]|六法を使用しての生放送。&br()「ロスサントスステーション 第1回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/A9v5MjHg12o?si=TtNHOLyQsEgPd8gU]]|
+|09/10|ロスラジ第16回放送|司会：[[さとう]]・[[亀山　Hero]]&br()ゲスト：[[べりはぴ]](すぴねる・しとりん)|六法を使用しての生放送。&br()「ロスサントスステーション 第2回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/Y-oC3TcLJLY?si=iZjdOWu-imks-an-]]|
+|09/11|ロスラジ第17回放送|司会：[[亀山　Hero]]&br()ゲスト：[[安保　さぶ郎]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第8回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/kfhlNax6Kx8?si=AdlzuAOD_q26ZHyR]]|
+|09/12|ロスラジ第18回放送|司会：[[亀山　Hero]]&br()ゲスト：[[竹井　勝痔]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第9回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/U8xF7vPItsg?si=CDZ8Tog4MRcX4yay]]|
+|09/16|ロスラジ第19回放送|司会：[[亀山　Hero]]&br()ゲスト：[[ノビー　ラング]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第10回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/SxIYrH-hy5w?si=eotvZZmcN7ihNsPV]]|
+|09/23|ロスラジ番外放送|司会：[[亀山　HELL>>亀山　Hero]]&br()ゲスト：[[マッハボクシング　ドク]]|六法を使用しての生放送。&br()「亀山HELLの喋っていいですとも！ 第10回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://www.youtube.com/watch?v=IbS1s5xSb3A]]|
+|09/30|ロスラジ第20回放送|司会：[[揚物　ころも]]・[[亀山　Hero]]&br()ゲスト：[[帆立　ほたる]]|六法を使用しての生放送。&br()「ロスサントスステーション 第3回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://www.youtube.com/watch?v=QBKfJBfNohA]]|
+|10/02|ロスラジ第21回放送|司会：[[亀山　Hero]]&br()ゲスト：[[橘　かげまる]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第11回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/HzVvgvwuSAY?si=IDoxDXrzJ8nxk6zN]]|
+|10/07|ロスラジ第22回放送|司会：[[デヤンス>小者　デヤンス]]&br()ゲスト：[[惑朽　ルーシー]]・[[アルタ・スカイブルー]]&br()サプライズゲスト：[[柚乃　いずみ]]|六法を使用しての生放送。&br()「ロスナンデス 第3回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/t_LqxJpRRMA?si=gTCSelfuBGCzIfGi]]|
+|10/08|ロスラジ第23回放送|司会：[[亀山　Hero]]&br()ゲスト：[[閃光寺　亜夢]]|六法を使用しての生放送。&br()「亀山Heroの喋っていいですとも！ 第12回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://youtu.be/Eqs3VYs54IA?si=hQLNUk3pFQjmnKYv]]|
+|10/22|ロスラジ第24回放送|司会：[[デヤンス>小者　デヤンス]]&br()ゲスト：[[上田>上田　さん]]|六法を使用しての生放送。&br()「ロスナンデス 第4回」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>https://www.youtube.com/watch?v=YFJU5Sh4TjU]]|
+
+//|mm/dd|ロスラジ第n回放送|司会：[[名前]]&br()ゲスト：[[名前]]|六法を使用しての生放送。&br()「企画名」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>URL]]|
+//|mm/dd|ロスラジ第n回放送|司会：[[名前]]&br()ゲスト：[[名前]]|六法を使用しての生放送。&br()「企画名」|&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画>>URL]]|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}}}}
+//|11/04&co(リスケ)|ロスラジ第25回放送|司会：[[帆立　ほたる]]・[[亀山　Hero]]&br()ゲスト：[[銭形　やいち郎]]|六法を使用しての生放送。&br()「ロスサントスステーション 第4回」|
 #areaedit(end)
 #endregion(2026年)
 //
@@ -204,7 +210,7 @@
 #endregion(ロスラジ)
 
 //ロスラジですが、今後番組が増えていきそうなので表にまとめました。修正点などがあれば自由に編集してくださって構いません。
-***&anchor(G.O.L.D【ガーディアンズオブロスサントスドリーム】,option=nolink){}&font(18px){G.O.L.D【ガーディアンズオブロスサントスドリーム】}&aname(G.O.L.D【ガーディアンズオブロスサントスドリーム】)
+**&anchor(G.O.L.D【ガーディアンズオブロスサントスドリーム】,option=nolink){}&font(18px){G.O.L.D【ガーディアンズオブロスサントスドリーム】}&aname(G.O.L.D【ガーディアンズオブロスサントスドリーム】)
 #region(開く,close)
 #size(90%){{{#table_style(head=#696969:#F9FCFF)
 |CENTER:~カテゴリー|自警団|
@@ -238,7 +244,7 @@
 #endregion
 #endregion
 
-***&anchor(LOSTIMES-ロスタイムズ-,option=nolink){}&font(18px){LOSTIMES-ロスタイムズ-}&aname(LOSTIMES-ロスタイムズ-)
+**&anchor(LOSTIMES-ロスタイムズ-,option=nolink){}&font(18px){LOSTIMES-ロスタイムズ-}&aname(LOSTIMES-ロスタイムズ-)
 #region(開く,open)
 #size(90%){{{#table_style(head=#696969:#F9FCFF)
 |CENTER:~カテゴリー|メディア|
@@ -266,7 +272,7 @@
 #endregion
 
 //職業・施設一覧（Season2）のメディア業欄にて２つの新聞について追記したいため、項目を分けてみました。記載内容等の追記・修正歓迎です。
-***&anchor(LosNews-ロスニュース-,option=nolink){}&font(18px){LosNews-ロスニュース-}&aname(LosNews-ロスニュース-)
+**&anchor(LosNews-ロスニュース-,option=nolink){}&font(18px){LosNews-ロスニュース-}&aname(LosNews-ロスニュース-)
 //ロゴは大文字ですが滅論さんのツイートなどは「LosNews」表記なのでこちらで統一
 #region(開く,open)
 #size(90%){{{#table_style(head=#696969:#F9FCFF)
@@ -304,8 +310,7 @@
 }
 //プロジェクト一覧の項で折りたたみ(region)の入れ子構造により全体での横スクロールが発生してしまい読みづらいと感じたため一旦全体の折りたたみは非表示にしてみたのですがどうでしょうか?
 //読みやすくなったのでいいと思います。ありがとうございます。
-
-**拠点
+*拠点
 ・特定の拠点を持たず街の中でなんかいい感じの雰囲気の建物を勝手に使ったり飯田書店を借りたりしている。
 #co(){
 #table_style(head=#696969:#F9FCFF)
@@ -316,8 +321,9 @@
 //|番地|場所|通称|管理者|備考|
 //|番地|場所|通称|管理者|備考|
 }
-**歴史
-***2026年
+
+*歴史
+**2026年
 #region(開く,open)
 #table_style(head=#696969:#F9FCFF)
 #table_filter(){関係者=hide,備考=show}

@@ -826,8 +826,8 @@
 //----
 *アーカイブ
 **衛星の記録
-&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}での衛星の記録(アーカイブ)は&font(#DA1725){&icon_fa(fa-brands fa-youtube)YouTube}の再生リストに移行しているので、[[こちら>>https://www.youtube.com/@nekozenoshinn/playlists]]よりご確認ください
 ***&underdot(2px,#56754B){&i(){season1}}
+&font(#6441A4){&icon_fa(fa fa-twitch)Twitch}での衛星の記録(アーカイブ)は&font(#DA1725){&icon_fa(fa-brands fa-youtube)YouTube}の再生リストに移行しているので、[[こちら>>https://www.youtube.com/@nekozenoshinn/playlists]]よりご確認ください
 #region(close,2025年)&b(){2025年}
 //
 #region(close,remember,3月)3月
@@ -934,6 +934,7 @@
 #endregion(2025s1)
 //
 ***&underdot(2px,#D3DCE9){&i(){season2}}
+85日目(2026/11/19)以降、アーカイブのみ&color(#2B9F3E){メンバー限定}となっています
 #region(close,2025年)&b(){2025年}
 #region(close,remember,12月)12月
 #table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,#=center:90%,配信タイトル=90%,備考=90%}
@@ -1096,6 +1097,7 @@
 |11/11|83|[[ロスサントスでの生活83日目続>>https://www.youtube.com/live/G_ME5yNrLKM]]||
 |11/13|84|[[ロスサントスでの生活84日目続>>https://www.youtube.com/live/Cxg7si16t5U]]||
 |11/19|85|[[ロスサントスでの生活85日目続>>https://www.youtube.com/live/V8IQEgXueMA]]||
+|11/25|86|[[ロスサントスでの生活86日目>>https://www.youtube.com/live/G759ZG-m_Dg]]||
 #table_zebra(#F7F7F7,#FFF,#56754B)
 #endregion(x月)
 //
@@ -1118,13 +1120,10 @@
 #table_zebra(#F7F7F7,#FFF,#56754B)
 //----
 ****サーバー企画参加
-#table_filter(){配信日=show,配信タイトル=show,参加者=hide}
-#table_style(head=90%:center:#56754B:#FFF){配信日=center:90%,配信タイトル=90%,参加者=90%}
-|~配信日|~配信タイトル|~参加者|h
-|>|>|3社合同鯖/Windrose(2026/04/20~)|
-|2026/04/20|海賊として航海にでます|JTS、Club Passiona、Urashima|
-|>|>|わちゃサバ/Minecraft(2026/10/05~)|
-|2026/10/05|[[初めまして！よりどりみどり演じてます猫瀬乃しんです！>>https://www.youtube.com/live/2I38NeqI8nA?si=azoUA7uC5unVTpFr]]|ストグラメンバー|
+#table_style(head=90%:center:#56754B:#FFF){開催期間=center:90%,企画名=90%,参加者=90%}
+|~開催期間|~企画名|~参加者|h
+|2026/04/20~|3社合同鯖/Windrose|JTS、Club Passiona、Urashima|
+|2026/10/05~|わちゃサバ/Minecraft|ストグラメンバー含む配信者|
 #table_zebra(#F7F7F7,#FFF,#56754B)
 //----
 **ストグラRPコラボ
