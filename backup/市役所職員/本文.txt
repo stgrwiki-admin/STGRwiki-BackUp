@@ -100,6 +100,7 @@
 
 *&font(#FFFFFF){&icon_fa(fa fa-pen-nib)}  &color(#FFFFFF){歴史}
 ***2026年
+#region(開く,open)
 #table_style(head=#C0C0C0)
 #table_filter(){関係者=hide,備考=show}
 |~日付|~出来事|~関係者|~備考|h
@@ -118,5 +119,15 @@
 
 //|mm/dd|出来事|関係者|備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(2026年)
+***2027年
+#region(開く,open)
+#table_style(head=#C0C0C0)
+#table_filter(){関係者=hide,備考=show}
+|~日付|~出来事|~関係者|~備考|h
+
+//|mm/dd|出来事|関係者|備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+#endregion(2027年)
 
 #right(){&link_up(🔝ページTOPへ)}

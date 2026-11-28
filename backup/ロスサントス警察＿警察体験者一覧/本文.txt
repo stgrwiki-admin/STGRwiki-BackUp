@@ -208,5 +208,18 @@
 //間違いがありましたら訂正をお願い致します。
 #table_sorter(){even=#F7F7F7,odd=#FFFFFF}}
 #endregion(2026年)
+//┏━━━━━━━━━━━━━━━━━━━━━━━━━┓
+//　　　　　　　　　　　　2027年
+//┗━━━━━━━━━━━━━━━━━━━━━━━━━┛
+#region(2027年,open)&b(){2027年}
+#size(90%){#table_style(head=#4169e1:#ffffff){体験開始日=right,体験終了日=right,DAY1=center,DAY2=center,DAY3=center,DAY4=center,DAY5=center,合否=center}
+#table_filter(){体験開始日=show,体験終了日=hide,氏名=show,日数=hide,DAY1=hide,DAY2=hide,DAY3=hide,DAY4=hide,DAY5=hide,合否=hide,備考=show}
+|体験開始日|体験終了日|氏名|日数|DAY1|DAY2|DAY3|DAY4|DAY5|合否|備考|h
+
+//|2027/mm/dd||&ruby(ふり　がな){[[名前]]}|n日間||||||-||
+//|2027/mm/dd||&ruby(ふり　がな){[[名前]]}|n日間||||||-||
+//間違いがありましたら訂正をお願い致します。
+#table_sorter(){even=#F7F7F7,odd=#FFFFFF}}
+#endregion(2027年)
 #areaedit(end)
 #endregion(Season2)

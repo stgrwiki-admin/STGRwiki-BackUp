@@ -246,6 +246,16 @@
 //|mm/dd|出来事|関係者|エピソード・備考|
 //|mm/dd|出来事|関係者|エピソード・備考|
 #table_sorter{even=#f5feff,odd=#FFFFFF}
-#endregion
+#endregion(2026年)
+***2027年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#57BCD4:#FFFFFF){}
+|~日付|~出来事|~関係者|~エピソード・備考|h
+
+//|mm/dd|出来事|関係者|エピソード・備考|
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#f5feff,odd=#FFFFFF}
+#endregion(2027年)
 
 #right(){&link_up(🔝ページTOPへ)}

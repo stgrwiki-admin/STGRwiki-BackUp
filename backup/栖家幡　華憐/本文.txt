@@ -339,8 +339,8 @@
 &b(){Season1}
 #size(90%){
 #table_style(hover=#ffeff1)
-|BGCOLOR(#616666):&image(s1_vermillion.png,y=230)|
-|CENTER:&small(){Vermillion}|
+|BGCOLOR(#616666):&image(s1_sento.jpg,y=230)|BGCOLOR(#616666):&image(s1_vermillion.png,y=230)|
+//|CENTER:&small(){Vermillion}|
 //|BGCOLOR(#ffa98d):|BGCOLOR(#ffa98d):|BGCOLOR(#ffa98d):|BGCOLOR(#ffa98d):|BGCOLOR(#ffa98d):|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:
 
 }
@@ -360,8 +360,8 @@
 #region(私服)&b(){私服}
 #size(90%){
 #table_style(hover=#ffeff1)
-|BGCOLOR(#616666):&image(s2_blackdress.png,y=230)|BGCOLOR(#616666):&image(s2_overall.png,y=230)|BGCOLOR(#616666):&image(s2_overall2.png,y=230)|BGCOLOR(#616666):&image(s2_pajamas.png,y=230)|BGCOLOR(#616666):&image(s2_black.png,y=230)|BGCOLOR(#616666):&image(s2_yukata.png,y=230)|
-
+|CENTER:BGCOLOR(#616666):&image(s2_blackdress.png,y=235)|BGCOLOR(#616666):&image(s2_overall.png,y=230)|BGCOLOR(#616666):&image(s2_overall2.png,y=230)|BGCOLOR(#616666):&image(s2_pajamas.png,y=230)|BGCOLOR(#616666):&image(s2_black.png,y=230)|
+|BGCOLOR(#616666):&image(s2_yukata.png,y=230)|||||
 
 }
 
@@ -703,7 +703,7 @@
 }
 #endregion
 //
-#region(9月,open)
+#region(9月)
 ***&bgcolor(#ffa98d){&sizex(3){&space(1)9月&space(1)}}
 #size(90%){#table_color(#ffa98d)
 #table_style(head=left,hover=#ffeff1){配信日=left}
@@ -711,13 +711,40 @@
 |~配信日|~タイトル|~主なエピソード| 
 |09/04|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){83日目}>>https://www.youtube.com/live/ph70wf5dEqA?si=GSHcXPwpKOeio15r]]}||
 |09/05|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){84日目}>>https://www.youtube.com/live/FktISQN8ij0?si=9DCWKYNZDAGdMuEu]]}||
+|09/10|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){85日目}>>https://www.youtube.com/live/KuLnY7Og5zk?si=Whxe2mGcQKMCPPj6]]}||
+|09/11|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){86日目}>>https://www.youtube.com/live/o7dz9OZfDGs?si=biW3jVf0UBK1YqWt]]}||
+|09/12|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){87日目}>>https://www.youtube.com/live/SNvlW57Irjc?si=90_CjEMMUR5O-0Vy]]}||
+|09/16|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){88日目}>>https://www.youtube.com/live/XnHB_VnSXYs?si=GU_GJXBFZUBU9Vss]]}||
+|09/17|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){89日目}>>https://www.youtube.com/live/64R9bgq0L_c?si=txKoZBRImA4yBybU]]}||
 
 #table_sorter{even=#fff,odd=#f7f7f7}
 #table_autoincrement(){label=#,start=87}
 }
 #endregion
 //
-
+#region(10-11月,open)
+***&bgcolor(#ffa98d){&sizex(3){&space(1)10-11月&space(1)}}
+#size(90%){#table_color(#ffa98d)
+#table_style(head=left,hover=#ffeff1){配信日=left}
+#table_filter(){配信日=show,主なエピソード=show}
+|~配信日|~タイトル|~主なエピソード| 
+|10/03|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){90日目}>>https://www.youtube.com/live/PyQnYYtxisU?si=FjBFgkTgBR-3caRO]]}||
+|11/04|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){91日目}>>https://www.youtube.com/live/jimySKXs2QQ?si=lf-Ezds0XNdzPDQ2]]}||
+|11/05|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){92日目}>>https://www.youtube.com/live/mL0DifXn-tU?si=4ydG3RBB0zhJYwmt]]}||
+|11/06|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){93日目}>>https://www.youtube.com/live/xYmSTuVMGBs?si=08KBfN2A4TGUDDwz]]}||
+|11/12|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){95日目}>>https://www.youtube.com/live/jmQEfwNci34?si=-S1j1Xfu9F2Abv4p]]}||
+|11/14|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){96日目}>>https://www.youtube.com/live/TqF0rRneaAE?si=A2tKjQmNuWXViC3C]]}||
+|11/15|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){97日目}>>https://www.youtube.com/live/1_J03QV13SM?si=sAm3iBQTtjBVEPHN]]}||
+|11/18|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){98日目}>>https://www.youtube.com/live/FtQ0VCtrJzA?si=4ydGhpYpaBtW8Bk0]]}||
+|11/19|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){99日目 ①}>>https://www.youtube.com/live/w2CHcfDF3yM?si=VJAJVWRCaHL_v6Cc]] / [[&font(#404040){②}>>https://www.youtube.com/live/V7k6BYxAPtI?si=zVkr9RcnfF7ogM5S]]}||
+|11/20|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){100日目}>>https://www.youtube.com/live/3jXf4W0BTqs?si=ulPaAZXf1Oum1q_D]]}||
+|11/21|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){101日目}>>https://www.youtube.com/live/nznevwlEvDE?si=2nVDgc-NJ2zh3PuO]]}||
+|11/22|&font(#ff8673){&icon_fa(fa fa-youtube-play)}&space(2)&u(){[[&font(#404040){102日目}>>https://www.youtube.com/live/BXZkJj4X8NI?si=ZJWq9wlKsF0x9LPA]]}||
+#table_sorter{even=#fff,odd=#f7f7f7}
+#table_autoincrement(){label=#,start=94}
+}
+#endregion
+//
 
 //テンプレート↓
 //

@@ -88,16 +88,16 @@
 **&font(25,#927eba){&font(35,#5a4498){従}業員情報 &icon_fa(fa fa-hat-wizard fa-bounce)}
 ***従業員
 #region(開く,open)
-#table_filter(){就職日=show,兼業=hide,備考=hide}
+#table_filter(){役割=show,所属=hide,就職日=show,兼業=hide,備考=hide}
 #table_style(head=#e0daec){名前=bold}
-|~役職|~名前|~就職日|~兼業|~備考|h
-|校長／Manager(4)|[[ノビー　ラング]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|魔法少女カフェ[[RitUal:]]の元店長|
-|従業員／Advanced(3)|[[葛城　司]]|2026/08/02|[[救急隊>>ロスサントス救急救命隊]]&br()裁判官&br()[[メカニック>>LUNA Garage]]|魔法少女カフェ[[RitUal:]]の元従業員（人事担当）|
-|従業員／Advanced(3)|[[はが　かける]]|2026/09/09|[[救急隊>>ロスサントス救急救命隊]]|魔法少女カフェ[[RitUal:]]の元従業員|
-|従業員／Advanced(3)|[[加賀　イズミ]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|犬カフェ[[かしりん]]、[[ToY]]の元従業員／[[Re:One's]]の元店長&br()ToY・犬カフェで商品制作を行っていた|
-|従業員／Advanced(3)|[[鳥野　ぎん]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|[[ToY]]の元オーナー|
-|従業員／Advanced(3)|[[ももみ]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]&br()[[不動産>>Wizardry Works]]|[[ToY]]の元従業員|
-|従業員／Advanced(3)|[[箱根　しおん]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|[[ToY]]の元従業員|
+|~役職|~所属|~名前|~就職日|~兼業|~備考|h
+|校長／Manager(4)|&font(b,13px,#8BA453){JADE RACCOON} &small(){(寮長)}|[[&color(#8BA453){ノビー　ラング}>>ノビー　ラング]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|魔法少女カフェ[[RitUal:]]の元店長|
+|従業員／Advanced(3)|&font(b,13px,#8BA453){JADE RACCOON} &small(){(寮長)}|[[&color(#8BA453){葛城　司}>>葛城　司]]|2026/08/02|[[救急隊>>ロスサントス救急救命隊]]&br()裁判官&br()[[メカニック>>LUNA Garage]]|魔法少女カフェ[[RitUal:]]の元従業員（人事担当）|
+|従業員／Advanced(3)|&font(b,13px,#55A4CA){EUCLIPSE} &small(){(寮長)}|[[&color(#55A4CA){加賀　イズミ}>>加賀　イズミ]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|犬カフェ[[かしりん]]、[[ToY]]の元従業員／[[Re:One's]]の元店長&br()ToY・犬カフェで商品制作を行っていた|
+|従業員／Advanced(3)|&font(b,13px,#F9B74B){IGUMITE} &small(){(寮長)}|[[&color(#F9B74B){鳥野　ぎん}>>鳥野　ぎん]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|[[ToY]]の元オーナー|
+|従業員／Advanced(3)|&font(b,13px,#f4a4b8){LAPINELLE} &small(){(寮長)}|[[&color(#f4a4b8){ももみ}>>ももみ]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]&br()[[不動産>>Wizardry Works]]|[[ToY]]の元従業員|
+|従業員／Advanced(3)|-|[[&color(#555){箱根　しおん}>>箱根　しおん]]|2026/08/05|[[救急隊>>ロスサントス救急救命隊]]|[[ToY]]の元従業員|
+|従業員／Advanced(3)|-|[[&color(#555){はが　かける}>>はが　かける]]|2026/09/09|[[救急隊>>ロスサントス救急救命隊]]|魔法少女カフェ[[RitUal:]]の元従業員|
 
 //|役職|[[名前]]|yyyy/mm/dd|　|
 #table_sorter{even=#fcfcfd,odd=#FFFFFF}
@@ -213,6 +213,32 @@
 🍃&icon_fa(fa-solid fa-wand-magic-sparkles)
 }
 #endregion(ジョイント)
+****Set
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//　　　　　Set
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#region(開く,open)
+&small(){&icon_fa(fa-solid fa-utensils)&space()= Food / &icon_fa(fa-solid fa-coffee)&space()= Drink / &icon_fa(fa-solid fa-martini-glass)&space()= Alcohol / &icon_fa(fa-solid fa-wand-magic-sparkles)&space()= Relax}
+#table_filter(){種類=show,価格=show,提供開始日=hide,商品説明=hide,備考=hide}
+#table_style(head=#e0daec){種類=center,価格=right,商品説明=90%,備考=90%}
+|~種類|~商品名|~価格|~提供開始日|~商品説明|~備考|h
+
+//|種類|商品名|価格|yyyy/mm/dd|説明|備考|
+#table_sorter{even=#fcfcfd,odd=#FFFFFF}
+#table_autoincrement(){label=No.}
+//
+//
+#co{コピー用
+|MIDDLE:種類|商品名|価格|yyyy/mm/dd|説明|備考|
+|MIDDLE:種類|商品名|価格|yyyy/mm/dd|説明|備考|
+|MIDDLE:種類|商品名|価格|yyyy/mm/dd|説明|備考|
+
+🍴&icon_fa(fa-solid fa-utensils)
+☕&icon_fa(fa-solid fa-coffee)
+🥂&icon_fa(fa-solid fa-martini-glass)
+🍃&icon_fa(fa-solid fa-wand-magic-sparkles)
+}
+#endregion(セット)
 #co{▼▼▼ 非表示 ▼▼▼
 //****Otners
 //┏━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -471,7 +497,16 @@
 
 //|mm/dd|出来事|関係者|エピソード・備考|
 #table_sorter{even=#fcfcfd,odd=#FFFFFF}
-#endregion
+#endregion(2026年)
+***2027年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show}
+#table_style(head=#e0daec)
+|~日付|~出来事|~関係者|~エピソード・備考|h
+
+//|mm/dd|出来事|関係者|エピソード・備考|
+#table_sorter{even=#fcfcfd,odd=#FFFFFF}
+#endregion(2027年)
 #hr(height=2,color=#927eba)
 【　追記･編集 歓迎です。 】
 #right{&font(#927eba){&icon_fa(fa-solid fa-circle-up)&link_anchor(ページトップ){ページTOPへ}}}

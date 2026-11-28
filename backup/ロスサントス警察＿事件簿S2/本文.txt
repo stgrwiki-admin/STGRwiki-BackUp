@@ -1141,7 +1141,6 @@
 #endregion
 
 #endregion(10月・11月・12月)
-#endregion(2026年)
 //
 //
 #co{
@@ -1166,3 +1165,32 @@
 #areaedit(end)
 #endregion
 }
+#endregion(2027年)
+****&font(19,u){&color(#4169E1){|}&space()2027年&space()}
+#region(開く,open)
+//#region(1月・2月・3月)&b(){1月・2月・3月}
+
+//#endregion(1月・2月・3月)
+#co{
+#region([事件名][2027/mm/dd])&bold(){[事件名][2027/mm/dd]}
+#areaedit()
+&b(){【関与した主な警官】}
+
+&b(){【関与した犯罪者】}
+
+&b(){【巻き込まれた市民】}
+
+&b(){【事件の概要】}
+-
+&b(){【詳細】}
+-
+&b(){【補足】}
+-
+&b(){【関係署員の記録】}
+//&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[アーカイブ：[署員名]視点>>ここにアーカイブURLを入力]] 配信タイトル
+//&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画：[署員名]視点>>ここに動画URLを入力]] 切り抜き動画タイトル
+//&font(#9146FF){&icon_fa(fa fa-twitch)}[[アーカイブ：[署員名]視点>>ここにアーカイブURLを入力]] 配信タイトル
+#areaedit(end)
+#endregion
+}
+#endregion(2027年)

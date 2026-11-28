@@ -54,7 +54,7 @@
 **商品情報
 //テンプレートはレギュラー・オリジナルで用意されていますが、種類ごとやメニュー表ごとなどお店に合った見やすい形があれば変えてください。
 &underdot(#aaaaaa,3px){&space()&font(b,#444,16px){Season1&space()}}
-
+#size(50%){　}
 #region(開く)閉じる
 ***レギュラー商品
 #region(開く)
@@ -211,6 +211,7 @@
 #region(2026/02/04)&bold(){2026/02/04}
 &image(復刻コラボ商品.jpeg,x=390,y=270)
 #endregion
+#size(50%){　}
 #region(2026/11/26,open)&bold(){2026/11/26}
 |&image(https://stgr-r2.libhalt.net/images/159f0413-52a9-4c03-ad66-9a06a92d139f.png,x=330,y=220)|
 |&image(https://stgr-r2.libhalt.net/images/46cfb91b-54f3-4d66-a5b2-c8ac5b47c691.png,x=330,y=220)|
@@ -231,8 +232,10 @@
 #size(50%){　}
 
 **沿革
-***&underdot(#aaaaaa,3px){&space()&font(b,#444,16px){Season1&space()}}
+&underdot(#aaaaaa,3px){&space()&font(b,#444,16px){Season1&space()}}
+#size(50%){　}
 #region(開く)
+#areaedit()
 //#table_filter(){出来事=show}
 #table_style(head=center:#444444:#FFFFFF)
 |~日付|~出来事|~エピソード|h
@@ -244,9 +247,12 @@
 |2025/08/21|イベント出店|主催イベント「たいがの夏の収穫祭」にて飲食販売&br()協賛：JTS／Reboot／渡戸林業／FOWK|
 #table_zebra(#F7F7F7,#FFFFFF,#444444)
 //|mm/dd|出来事|関係者|エピソード・備考|
+#areaedit(end)
 #endregion
 
-***&underdot(#aaaaaa,3px){&space()&font(b,#444,16px){Season2&space()}}
+&underdot(#aaaaaa,3px){&space()&font(b,#444,16px){Season2&space()}}
+***2026年
+#region(開く,open)
 #table_style(head=center:#444444:#FFFFFF)
 |~日付|~出来事|~エピソード|h
 |2026/02/04|復刻コラボ|[[acqua ovest]]にて復刻コラボ商品を販売|
@@ -258,6 +264,15 @@
 
 #table_zebra(#F7F7F7,#FFFFFF,#444444)
 //|mm/dd|出来事|関係者|エピソード・備考|
+#endregion(2026年)
+***2027年
+#region(開く,open)
+#table_style(head=center:#444444:#FFFFFF)
+|~日付|~出来事|~エピソード|h
+
+#table_zebra(#F7F7F7,#FFFFFF,#444444)
+//|mm/dd|出来事|関係者|エピソード・備考|
+#endregion(2027年)
 
 　&font(i,b,u){情報募集中}
 

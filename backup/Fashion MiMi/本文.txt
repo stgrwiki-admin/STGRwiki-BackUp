@@ -152,7 +152,7 @@
 
 **沿革
 ***&underdot(#f3bbfc,3px){&space()2026年&space()}
-#region(,open)
+#region(開く,open)
 #table_filter(){エピソード・備考=show}
 #table_style(head=#cbcbfd:#fff)
 |~日付|~出来事|~エピソード・備考|h
@@ -172,6 +172,16 @@
 //|mm/dd|出来事|エピソード・備考|
 #table_sorter{even=#F7F7F7,odd=#FFFFFF}
 //雇用情報は基本的に従業員情報へ
-#endregion
+#endregion(2026年)
+***&underdot(#f3bbfc,3px){&space()2027年&space()}
+#region(開く,open)
+#table_filter(){エピソード・備考=show}
+#table_style(head=#cbcbfd:#fff)
+|~日付|~出来事|~エピソード・備考|h
+
+//|mm/dd|出来事|エピソード・備考|
+#table_sorter{even=#F7F7F7,odd=#FFFFFF}
+//雇用情報は基本的に従業員情報へ
+#endregion(2027年)
 
 #right(){&link_up(🔝ページTOPへ)}

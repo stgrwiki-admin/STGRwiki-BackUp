@@ -218,6 +218,16 @@ https://img.atwiki.jp/streamergta5/attach/2900/27171/%E9%A3%AF%E7%94%B0%E6%9B%B8
 #table_sorter{even=#f6f7f8,odd=#FFFFFF}
 //|日付|タイトル|関係者|備考|動画|
 //&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[投稿者名>>URL]]
-#endregion
+#endregion(2026年)
+***2027年
+#region(開く,open)
+#table_filter(){関係者=hide,エピソード・備考=show,関連動画=hide}
+#table_style(head=center:#00234d:#FFFFFF)
+|~日付|~出来事|~関係者|~エピソード・備考|~関連動画|h
+
+#table_sorter{even=#f6f7f8,odd=#FFFFFF}
+//|日付|タイトル|関係者|備考|動画|
+//&font(#c53d43){&icon_fa(fa fa-youtube-play)}[[投稿者名>>URL]]
+#endregion(2027年)
 
 #right(){&link_up(🔝ページTOPへ)}
