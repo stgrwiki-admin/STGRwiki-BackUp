@@ -167,7 +167,7 @@
 
 }
 *&color(#ff69b4){&icon_fa(fa fa-video)} &color(#f8f8ff){アーカイブ}
-&font(b,12px){※アーカイブはメンバー限定}
+&font(b,12px){※アーカイブはメンバー限定／Twitchは仕様上古いものは削除されます}
 **2026年
 ***9月・10月
 #region(開く,close)
@@ -190,21 +190,31 @@
 #endregion(-------------2026年 9月・10月-------------)
 ***11月
 #region(開く,open)
-//配信タイトルの
 #table_style(head=center:#ff69b4:#f8f8ff:120%){配信日=center,#=center}
 |~配信日|~#|~配信タイトル|~備考|h
 |11/1|11|[[【ストグラ/11日目】Drたちに、体を巨大化してもらいます🦕>>https://www.youtube.com/live/IUCem0qGpK4]]||
 |11/5|12|[[【ストグラ/12日目】巨大化したカマラが、大暴れ！？>>https://www.youtube.com/live/WmBmUjcnSu0]]&br()[[【ストグラ/12日目】巨大化したカマラが、大暴れ！？>>https://www.youtube.com/live/VBo6uPHoQHk]]||
 |11/7|13|[[【ストグラ/13日目】世紀の裁判が行われるらしくて、遊びに行く❤>>https://www.youtube.com/live/en5P-KtdcAQ]]||
 |11/18|14|[[【ストグラ/14日目】一生「白」市民を貫き通すつもりの、圧倒的「黒」側市民オネエ❤>>https://www.youtube.com/live/NwcIHFxnh_c]]||
+|11/19|14.5|[[【ストグラ/14.5日目】今日はチル。意味のある一日にしたい>>https://www.twitch.tv/videos/2933715636]]||
+|11/25|14.8|[[【ストグラ/14.8日目】同期会？に参加させてもらうわよ❤️>>https://www.twitch.tv/videos/2940328591]]||
+|11/26|14.9|[[【ストグラ/14.9日目】お金稼ぎ…の段！>>https://www.twitch.tv/videos/2941330749]]||
 
+#table_sorter{even=#F7F7F7,odd=fff}
 #co{▼コピー用
 |mm/dd|n|[[タイトル>>ＵＲＬ]]||
 }
-#table_sorter{even=#F7F7F7,odd=fff}
-//
-//&font(80%){&openclose2(show=※別ゲーム配信あり ▽内容展開){[[>>]]}}&br()
 #endregion(-------------2026年 11月-------------)
+***12月
+#region(開く,open)
+#table_style(head=center:#ff69b4:#f8f8ff:120%){配信日=center,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+
+#table_sorter{even=#F7F7F7,odd=fff}
+#co{▼コピー用
+|mm/dd|n|[[タイトル>>ＵＲＬ]]||
+}
+#endregion(-------------2026年 12月-------------)
 //
 //
 #co(){

@@ -49,6 +49,8 @@
 ***&underdot(#d2342e,3px){&space() [[川上たばこ店]]&space()}
 
 ***&underdot(#d2342e,3px){&space()[[救急隊>>ロスサントス救急救命隊]]&space()}
+-8月に行われた体験を経て入隊、&s(){4人} 3人の同期がいる。
+-救急隊はボケの頻発する職場のためツッコミに回ることが多い。
 
 **&font(35,#B6111B){&icon_fa(fa fa-handshake)} &font(25,#e89385){交友関係}
 ***&color(orange){&icon_fa(fa-solid fa-people-group)} 同期【三千星】
@@ -651,6 +653,15 @@
 #table_sorter{even=#F7F7F7,odd=fff}
 #areaedit(end)
 #endregion(11月)
+#region(12月,open)
+#areaedit()
+#table_style(head=center:#b6111b:#ffffff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+
+//|mm/dd|n|[[タイトル>>リンク]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#areaedit(end)
+#endregion(12月)
 //
 //
 #co{▼コピー用
@@ -666,6 +677,32 @@
 
 }
 #endregion(2026年)
+**2027年
+#region(開く,open)
+#region(1月,open)
+#areaedit()
+#table_style(head=center:#b6111b:#ffffff){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+
+//|mm/dd|n|[[タイトル>>リンク]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#areaedit(end)
+#endregion(1月)
+//
+//
+#co{▼コピー用
+
+#region(mm月,open)
+#areaedit()
+#table_style(head=center:#E6E6FA){配信日=right,#=center}
+|~配信日|~#|~配信タイトル|~備考|h
+|mm/dd|ナンバー|[[配信タイトル>ＵＲＬ]]||
+#table_sorter{even=#F7F7F7,odd=fff}
+#areaedit(end)
+#endregion(mm月)
+
+}
+#endregion(2027年)
 
 #right(){&link_up(🔝ページTOPへ)}
 

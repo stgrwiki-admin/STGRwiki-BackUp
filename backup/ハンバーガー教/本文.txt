@@ -6,13 +6,15 @@
 
 *&size(17){&color(#FFF){&size(27){&color(#d2f40b){基}}本情報}}
 #table_style(head=#000000:#d2f40b){名前=#d2f40b:000000:b:center}
-|~団体名|~&icon_fa(fa fa-burger)|ハンバーガー教|
-|~種別|~&icon_fa(fa-solid fa-place-of-worship)|宗教団体|
-|~教祖|~&icon_fa(fa-solid fa-person-rays)|[[ハン　バーガー]]|
-|~集会所|~&icon_fa(fa fa-map-marker)|7085番地|
-|~設立日|~&icon_fa(fa fa-flag)|2024年12月5日&br()&small(){（&countup(2024/12/05,yd)経過）}|
-|~サブスクID|~&icon_fa(fa-solid fa-money-bill-transfer)|65|
-|~会費|~&icon_fa(fa-solid fa-yen-sign)|3,000,000円/週|
+#table_filter(){Season1=hide,Season2=show}
+|~世界線|~&icon_fa(fa-solid fa-earth-asia)|~Season1|~Season2|
+|~団体名|~&icon_fa(fa fa-burger)|>|ハンバーガー教|
+|~種別|~&icon_fa(fa-solid fa-place-of-worship)|>|宗教団体|
+|~教祖|~&icon_fa(fa-solid fa-person-rays)|>|[[ハン　バーガー]]|
+|~集会所|~&icon_fa(fa fa-map-marker)|7085番地|xxxx番地|
+|~設立日|~&icon_fa(fa fa-flag)|2024年12月5日&br()&small(){（&countup(2024/12/05,yd)経過）}|2026年11月28日&br()&small(){※サブスク開設日（&countup(2026/11/28,yd)経過）}|
+|~サブスクID|~&icon_fa(fa-solid fa-money-bill-transfer)|65|52|
+|~会費|~&icon_fa(fa-solid fa-yen-sign)|3,000,000円/週|　|
 
 
 *&size(17){&color(#FFF){&size(27){&color(#d2f40b){宗}}教理念}}
@@ -30,8 +32,8 @@
 ・入信者が増えた場合、信者限定の大規模イベント開催も予定！
 
 *&size(17){&color(#FFF){&size(27){&color(#d2f40b){入}}信者情報}}
--24/12/25時点で 120名近くいると思います。随時、追加お願いします。
-#region(開く, close)
+***&underdot(#d2f40b,3px){&space()Season1&space()}
+#region(開く,close)24/12/25時点で 120名近くいると思います。随時、追加お願いします。
 #table_style(head=#000000:#d2f40b)
 |~役職|~名前|~入信日|~備考|h
 |幹部|[[亀山　HERO>焼野原　ひろし]]|24/12/05||
@@ -149,14 +151,18 @@
 //||[[加賀　イズミ]]|24/12/08|24/12/26退会|
 
 *&size(17){&color(#FFF){&size(27){&color(#d2f40b){集}}会}}
-#size(90%)
-#table_style(head=#000000:#d2f40b){名前=#d2f40b:000000:b:center}
+***&underdot(#d2f40b,3px){&space()Season1&space()}
+#region(開く,close)
+#size(90%){#table_style(head=#000000:#d2f40b){名前=#d2f40b:000000:b:center}
 #table_filter(){イベント=show,日程=show,内容=show,関連動画=hide}
 |~イベント|~日程|~内容|~関連動画|h
 |第一回集会&br()&image(241226_第一回集会出演者.jpg,x=300px)&br()&image(241226_第一回集会信者.jpg,x=300px)|2024/12/26|MC：[[亀山 HERO>>焼野原　ひろし]]、[[KSDズズ>>キングスターダイヤモンド　ズズ]]&br()ゲスト：[[トウユン>>トウ　ユン]]、[[うさぎさん>>山田　パルコ]]、[[Dr.ギガ>>Dr．ギガ]]&br()ダンサー：[[渡戸リー>>渡戸　リー]]&br()&br()プログラム&br()~MC~&br()1,メカニックの歌~TTS~ / トウユン　&br()2,SAVE☆THE☆WORLD / Dr.ギガ&br()3,ココロコンパス / うさぎさん&br()~教祖様登場~&br()4,ALIEN / ハンバーガー&br()5,ハンバーガー教の歌 / ハンバーガー&br()6,ハンバーガー教の歌 / ハンバーガー&br()~教祖によるMC~|&font(#DA1725){&icon_fa(fa fa-youtube-play)}[[&font(#DA1725){教祖様視点の集会}>>https://youtu.be/JhG43ETixok?si=i1Zpc6T_u_jDhSeT]]|
+}
+#endregion
+
 *&size(17){&color(#FFF){&size(27){&color(#d2f40b){歴}}史}}
 ***&bold(){&big(){2024年}}
-#region(開く,open)閉じる
+#region(開く,close)
 #table_style(head=center:#000000:#d2f40b)
 #table_filter(){出来事=show,備考=show}
 |~日付|~出来事|~備考|
@@ -166,12 +172,18 @@
 |12/26|第一回ハンバーガー教　集会を実施。&br()豪華なゲストを迎え大盛況に終わった。||
 #endregion
 ***&bold(){&big(){2025年}}
-#region(開く,open)閉じる
+#region(開く,close)
 #table_style(head=center:#000000:#d2f40b)
 #table_filter(){出来事=show,備考=show}
 |~日付|~出来事|~備考|
 |02/19|第二回ハンバーガー教 集会を実施||
 #endregion
-
+***&bold(){&big(){2026年}}
+#region(開く,open)
+#table_style(head=center:#000000:#d2f40b)
+#table_filter(){出来事=show,備考=show}
+|~日付|~出来事|~備考|
+|11/28|「ハンバーガー教」サブスクを開設||
+#endregion
 
 #right(){&link_up(🔝ページTOPへ)}

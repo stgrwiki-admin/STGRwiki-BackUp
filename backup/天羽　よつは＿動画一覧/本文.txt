@@ -532,10 +532,10 @@
 #table_autoincrement(){label=#,start=3}}}}
 #areaedit(end)
 #endregion(1月〜4月)
-#region(5月〜8月,open)
+#region(5月〜12月,open)
 #areaedit()
 //┏━━━━━━━━━━━━━━━━━━━━━━━━┓
-//　　　　　切り抜き動画 Season２ 5月〜8月
+//　　　　　切り抜き動画 Season２ 5月〜12月
 //┗━━━━━━━━━━━━━━━━━━━━━━━━┛
 #size(90%){{{#table_style(head=center:#f19ca7:#fff)
 |~投稿日|~動画タイトル|~配信日|H
@@ -554,7 +554,7 @@
 #table_sorter(){even=#FFFFFF,odd=#FFFFFF}
 #table_autoincrement(){label=#,start=42}}}}
 #areaedit(end)
-#endregion(5月〜8月)
+#endregion(5月〜12月)
 #endregion(2026年)
 
 &space(12)&space()&font(u,14px,b,#b9d08b){&color(#b9d08b){&icon_fa(fa fa-clover)}&space()今日の日付：&today()}
@@ -1353,7 +1353,7 @@
 #region(10月〜12月,open)
 #areaedit()
 //┏━━━━━━━━━━━━━━━━━━━━━━━━┓
-//　　　　　ショート 7月〜9月
+//　　　　　ショート 10月〜12月
 //┗━━━━━━━━━━━━━━━━━━━━━━━━┛
 #size(90%){{{#table_style(head=center:#f19ca7:#fff)
 |~投稿日|~ショート動画タイトル|H
@@ -1388,6 +1388,8 @@
 |11/14|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[囁き女将なアドミゲス>>https://youtube.com/shorts/-y3G1qcqDC8]]|
 |11/15|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[救急隊への裏口合格方法>>https://youtube.com/shorts/VuKwuDTGCpE]]|
 |11/16|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[最古参カップルから学ぶこと>>https://youtube.com/shorts/2KHD0Syi2lY]]|
+|11/17|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[素顔チェックで失礼をかますよつは先生>>https://youtube.com/shorts/yuT_bEWjFJk]]|
+|11/28|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[ノビーラングのQQ検定口頭質問>>https://youtube.com/shorts/7L-drEpS32o]]|
 
 }}}
 #co{
@@ -1396,5 +1398,22 @@
 #areaedit(end)
 #endregion(10月～12月)
 #endregion(2026年)
+***&color(#b9d08b){●} 2027年
+#region(一覧,open)
+#region(1月〜3月,open)
+#areaedit()
+//┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+//　　　　　ショート 1月〜3月
+//┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+#size(90%){{{#table_style(head=center:#f19ca7:#fff)
+|~投稿日|~ショート動画タイトル|H
+
+}}}
+#co{
+|日付|&font(#c53d43){&icon_fa(fa fa-youtube-play)} [[タイトル>>リンク]]|
+}
+#areaedit(end)
+#endregion(1月～3月)
+#endregion(2027年)
 
 &space(12)&space()&font(u,14px,b,#b9d08b){&color(#b9d08b){&icon_fa(fa fa-clover)}&space()今日の日付：&today()}

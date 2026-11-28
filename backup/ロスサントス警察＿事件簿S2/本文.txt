@@ -1140,11 +1140,34 @@
 #areaedit(end)
 #endregion
 
+#region(警察署襲撃 [2026/11/28])&bold(){警察署襲撃 [2026/11/28]}
+#areaedit()
+&b(){【関与した主な警官】}
+//-[[名前]]、[[名前]]、[[名前]]、[[名前]]、[[名前]]
+&b(){【関与した犯罪者】}
+
+//&b(){【巻き込まれた市民】}
+//
+&b(){【その他関係者】}
+-[[葛城　司]]
+&b(){【事件の概要】}
+-
+&b(){【詳細】}
+-
+//&b(){【補足】}
+//-
+&b(){【関係署員の記録】}
+//&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[アーカイブ：[署員名]視点>>ここにアーカイブURLを入力]] 配信タイトル
+//&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画：[署員名]視点>>ここに動画URLを入力]] 切り抜き動画タイトル
+//&font(#9146FF){&icon_fa(fa fa-twitch)}[[アーカイブ：[署員名]視点>>ここにアーカイブURLを入力]] 配信タイトル
+#areaedit(end)
+#endregion(警察署襲撃)
+
 #endregion(10月・11月・12月)
 //
 //
 #co{
-#region([事件名][20yy/mm/dd])&bold(){[事件名][20yy/mm/dd]}
+#region(事件名 [20yy/mm/dd])&bold(){事件名 [20yy/mm/dd]}
 #areaedit()
 &b(){【関与した主な警官】}
 
@@ -1156,14 +1179,14 @@
 -
 &b(){【詳細】}
 -
-&b(){【補足】}
--
+//&b(){【補足】}
+//-
 &b(){【関係署員の記録】}
 //&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[アーカイブ：[署員名]視点>>ここにアーカイブURLを入力]] 配信タイトル
 //&font(#DA1725){&icon_fa(fa-brands fa-youtube)}[[動画：[署員名]視点>>ここに動画URLを入力]] 切り抜き動画タイトル
 //&font(#9146FF){&icon_fa(fa fa-twitch)}[[アーカイブ：[署員名]視点>>ここにアーカイブURLを入力]] 配信タイトル
 #areaedit(end)
-#endregion
+#endregion(事件名)
 }
 #endregion(2027年)
 ****&font(19,u){&color(#4169E1){|}&space()2027年&space()}
